@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Go high performance http server with Forker](https://dev.to/gopher/go-high-performance-http-server-with-forker-32o1)
 - [Grab more issues](https://dev.to/x8ing_/grab-more-issues-4ggb)
 - [Artisanal Web Development](https://dev.to/cloudcannon/artisanal-web-development-4jgg)
 - [😬 Company takeovers, what now?](https://dev.to/adam_cyclones/company-takeovers-what-now-5hfl)
-- [One-click treat for Open Source maintainers](https://dev.to/stackblitz/one-click-treat-for-open-source-maintainers-49f7)
 <!-- BLOG-POST-LIST:END -->
 
