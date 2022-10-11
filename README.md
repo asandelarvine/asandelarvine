@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a sidenav component with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-sidenav-component-with-tailwind-css-and-flowbite-1lpd)
-- [When Breakpoints don&#39;t Break](https://dev.to/codenameone/when-breakpoints-dont-break-5hg4)
-- [Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!](https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076)
-- [AWS re:Invent 2022: Know Before You Go](https://dev.to/aws-heroes/aws-reinvent-2022-know-before-you-go-gh6)
+- [React 18 Upgrade Guide and New Features](https://dev.to/refine/react-18-upgrade-guide-and-new-features-28dm)
+- [Good code is like an onion, it has layers](https://dev.to/krud/good-code-is-like-an-onion-it-has-layers-2jea)
+- [Hacktoberfest: No shame in low-code &lpar;or no-code&rpar;!](https://dev.to/denctl/hacktoberfest-no-shame-in-low-code-or-no-code-3nc1)
+- [Advice for Junior Developers](https://dev.to/jeroendedauw/advice-for-junior-developers-30am)
 <!-- BLOG-POST-LIST:END -->
 
