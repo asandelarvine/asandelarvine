@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Axie Infinity clone script to make revenue &lpar;top10 features&rpar;](https://dev.to/armandosanchez/axie-infinity-clone-script-to-make-revenue-top10-features-42bg)
 - [Rarible clone script for business &lpar;top advantages + features&rpar;](https://dev.to/tylergraham/rarible-clone-script-for-business-top-advantages-features-1k17)
 - [Hacktoberfest 2022 🎉](https://dev.to/lancelot03/hacktoberfest-2022-1h69)
 - [How to keep a history of file changes with C++](https://dev.to/reduct-storage/how-to-keep-a-history-of-file-changes-with-c-17g7)
-- [📦 I wrote my first NPM package](https://dev.to/msmello_/i-wrote-my-first-npm-package-3e0b)
 <!-- BLOG-POST-LIST:END -->
 
