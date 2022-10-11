@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase Clone Script &lpar;vital features + price&rpar;](https://dev.to/victoriacancello/coinbase-clone-script-vital-features-price-mj0)
+- [Another cheat sheet about Flatpak](https://dev.to/jmau111/another-cheat-sheet-about-flatpak-2pef)
+- [Generating prime numbers with Python and Rust](https://dev.to/xfbs/generating-prime-numbers-with-python-and-rust-4663)
 - [React 18 Upgrade Guide and New Features](https://dev.to/refine/react-18-upgrade-guide-and-new-features-28dm)
-- [Good code is like an onion, it has layers](https://dev.to/krud/good-code-is-like-an-onion-it-has-layers-2jea)
-- [Hacktoberfest: No shame in low-code &lpar;or no-code&rpar;!](https://dev.to/denctl/hacktoberfest-no-shame-in-low-code-or-no-code-3nc1)
-- [Advice for Junior Developers](https://dev.to/jeroendedauw/advice-for-junior-developers-30am)
 <!-- BLOG-POST-LIST:END -->
 
