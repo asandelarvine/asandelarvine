@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/larvine-asande-a51214230">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I play descant recoder and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-asande-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larvine-asande-a51214230)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-asande-blue?style=flat&logo=Linkedin&logoColor=white)](asandelarvine@gmail.com)
 
 ---
 
