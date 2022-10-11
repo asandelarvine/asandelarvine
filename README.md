@@ -80,5 +80,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a sidenav component with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-sidenav-component-with-tailwind-css-and-flowbite-1lpd)
+- [When Breakpoints don&#39;t Break](https://dev.to/codenameone/when-breakpoints-dont-break-5hg4)
+- [Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!](https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076)
+- [AWS re:Invent 2022: Know Before You Go](https://dev.to/aws-heroes/aws-reinvent-2022-know-before-you-go-gh6)
 <!-- BLOG-POST-LIST:END -->
 
