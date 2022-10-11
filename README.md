@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Grab more issues](https://dev.to/x8ing_/grab-more-issues-4ggb)
+- [Artisanal Web Development](https://dev.to/cloudcannon/artisanal-web-development-4jgg)
+- [😬 Company takeovers, what now?](https://dev.to/adam_cyclones/company-takeovers-what-now-5hfl)
 - [One-click treat for Open Source maintainers](https://dev.to/stackblitz/one-click-treat-for-open-source-maintainers-49f7)
-- [Create a Discord Bot that Automates Secret Messages with Node.js](https://dev.to/shreythecray/create-a-discord-bot-that-automates-secret-messages-with-nodejs-3pp9)
-- [My first conference!](https://dev.to/abhighyaa/my-first-conference-2omi)
-- [Git Internals: Rewriting History and Overcoming Gitsasters](https://dev.to/omerr/git-internals-rewriting-history-and-overcoming-gitsasters-klj)
 <!-- BLOG-POST-LIST:END -->
 
