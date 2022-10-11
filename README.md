@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go high performance http server with Forker](https://dev.to/gopher/go-high-performance-http-server-with-forker-32o1)
-- [Grab more issues](https://dev.to/x8ing_/grab-more-issues-4ggb)
-- [Artisanal Web Development](https://dev.to/cloudcannon/artisanal-web-development-4jgg)
-- [😬 Company takeovers, what now?](https://dev.to/adam_cyclones/company-takeovers-what-now-5hfl)
+- [The 7 Most Popular DEV Posts from the Past Week](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-3knj)
+- [Create-react-app or Vite ?](https://dev.to/leopold/create-react-app-or-vite--33d9)
+- [Supportive Is: an elegant utility to check types of values in JavaScript](https://dev.to/hassanzohdy/supportive-is-an-elegant-utility-to-check-types-of-values-in-javascript-1b3e)
+- [Introduction to Key Apache KafkaⓇ Concepts](https://dev.to/cerchie/introduction-to-key-apache-kafka-concepts-2mbp)
 <!-- BLOG-POST-LIST:END -->
 
