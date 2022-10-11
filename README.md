@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
   
+  <a href="mailto:asandelarvine@gmail.com?">
+    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Badge"/>
+  </a> &nbsp;&nbsp;
+  
  
   
 <!--   <a href="your-youtube-URL">
@@ -38,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I play descant recoder and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-asande-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larvine-asande-a51214230)
+- :mailbox: How to reach me:  [![Gmail Badge](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:asandelarvine@gmail.com?)
 
 ---
 
