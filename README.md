@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Have Nice Effects Affected My Life?](https://dev.to/vitalipom/how-nice-effects-affected-my-life-2f7h)
 - [Setting the Default Node.JS version with nvm](https://dev.to/smpnjn/setting-the-default-nodejs-version-with-nvm-54c3)
 - [Different test scopes in Rust](https://dev.to/nfrankel/different-test-scopes-in-rust-41if)
 - [Ruby on Rails Naming Conventions](https://dev.to/meganmoulos/ruby-on-rails-naming-conventions-885)
-- [5 Design Rules everyone should know](https://dev.to/irreverentmike/5-design-rules-everyone-should-know-jmh)
 <!-- BLOG-POST-LIST:END -->
 
