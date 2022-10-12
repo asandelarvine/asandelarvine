@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Concept of Containers](https://dev.to/kitarp29/concept-of-containers-4oc)
+- [Weekly web development resources #119](https://dev.to/vincenius/weekly-web-development-resources-119-180e)
 - [Developing Full Stack Mobile App with AWS Amplify Studio](https://dev.to/quokkalabs/developing-full-stack-mobile-app-with-aws-amplify-studio-2600)
 - [Amazon Elastic File System](https://dev.to/aws-builders/amazon-elastic-file-system-2fpi)
-- [Re-posting For Better Reach : You are front-end developer? This is for you, Sample Data API](https://dev.to/devsimc/re-posting-for-better-reach-you-are-front-end-developer-this-is-for-you-sample-data-api-plk)
-- [The Most Entertaining How to Be a Software Engineer Influencers You Need to Follow](https://dev.to/makendrang/the-most-entertaining-how-to-be-a-software-engineer-influencers-you-need-to-follow-874)
 <!-- BLOG-POST-LIST:END -->
 
