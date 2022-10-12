@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Django &amp; Celery - Open-Source Tasks Manager](https://dev.to/sm0ke/django-celery-open-source-tasks-manager-36jf)
 - [Concept of Containers](https://dev.to/kitarp29/concept-of-containers-4oc)
+- [How JavaScript hoisting actually works](https://dev.to/codegino/how-javascript-hoisting-actually-works-3mj1)
 - [Weekly web development resources #119](https://dev.to/vincenius/weekly-web-development-resources-119-180e)
-- [Developing Full Stack Mobile App with AWS Amplify Studio](https://dev.to/quokkalabs/developing-full-stack-mobile-app-with-aws-amplify-studio-2600)
-- [Amazon Elastic File System](https://dev.to/aws-builders/amazon-elastic-file-system-2fpi)
 <!-- BLOG-POST-LIST:END -->
 
