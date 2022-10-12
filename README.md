@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you feel about cover letters?](https://dev.to/brewinstallbuzzwords/how-do-you-feel-about-cover-letters-1ooj)
-- [Dependent: :Destroy to the Rescue!](https://dev.to/qsissler/dependent-destroy-to-the-rescue-5433)
-- [10 Ways to Get Involved with No Code Open Source Contributions](https://dev.to/bobliuuu/10-ways-to-get-involved-with-no-code-open-source-contributions-10cl)
-- [Fleet is here! 🥳](https://dev.to/fahimfba/fleet-is-here-3ih3)
+- [The Power of Mentoring](https://dev.to/gioboa/the-power-of-mentoring-1klj)
+- [Hacktoberfest Progress Update: Translation Contributions Still Welcome](https://dev.to/cicirello/hacktoberfest-progress-update-translation-contributions-still-welcome-4aof)
+- [Serverless API Essentials: PUT vs PATCH](https://dev.to/aws-heroes/serverless-api-essentials-put-vs-patch-2431)
+- [Passed AWS Certified Developer - Associate - DVA-C01](https://dev.to/romankurnovskii/passed-aws-certified-developer-associate-dva-c01-2211)
 <!-- BLOG-POST-LIST:END -->
 
