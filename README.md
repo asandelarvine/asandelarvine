@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
 - [What game are you most proud of developing and why?](https://dev.to/saaaa_/what-game-are-you-most-proud-of-developing-and-why-a0f)
 - [Transporting your Components Anywhere with React Portals](https://dev.to/smpnjn/transporting-your-components-anywhere-with-react-portals-6li)
 - [How Rust can help you write safer and more reliable code](https://dev.to/roy8/how-rust-can-help-you-write-safer-and-more-reliable-code-161d)
-- [Let&#39;s help each other find good horror movies!](https://dev.to/michaeltharrington/lets-help-each-other-find-good-horror-movies-2cgi)
 <!-- BLOG-POST-LIST:END -->
 
