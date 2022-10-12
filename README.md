@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Ways to Get Involved with No Code Open Source Contributions](https://dev.to/bobliuuu/10-ways-to-get-involved-with-no-code-open-source-contributions-10cl)
+- [Fleet is here! 🥳](https://dev.to/fahimfba/fleet-is-here-3ih3)
+- [Service Design Best Practices - Part I](https://dev.to/smuhammed/service-design-best-practices-part-i-3iol)
 - [Stream messages from Stripe to Kafka](https://dev.to/buildable/streaming-messages-from-stripe-to-kafka-3d9a)
-- [Introducing ShapeShift: A lightweight, modular, performant and extensible object mapping library for Kotlin/Java](https://dev.to/krud/introducing-shapeshift-a-lightweight-modular-performant-and-extensible-object-mapping-library-for-kotlinjava-2cl1)
-- [PUPPETEER SCREEN RECORDER CLIENT – EXPRESS.JS](https://dev.to/qbentil/puppeteer-screen-recorder-client-expressjs-5259)
-- [How to Easily Set Up Advanced Analytics for Your Ecommerce Storefront](https://dev.to/medusajs/how-to-easily-set-up-advanced-analytics-for-your-ecommerce-storefront-3j36)
 <!-- BLOG-POST-LIST:END -->
 
