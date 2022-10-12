@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase Clone Script &lpar;vital features + price&rpar;](https://dev.to/victoriacancello/coinbase-clone-script-vital-features-price-2kk0)
+- [The LGBTQIA Community](https://dev.to/therickedge/the-lgbtqia-community-354d)
 - [Cat Trophy Kingdom: Building a video game with Airkit’s low-code platform](https://dev.to/airkit/cat-trophy-kingdom-building-a-video-game-with-airkits-low-code-platform-5dlh)
 - [What is a closure? And why this matters ? - Javascript](https://dev.to/vcctm/what-is-a-closure-and-why-this-matters-javascript-386p)
-- [The 7 Most Popular DEV Posts from the Past Week](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-3knj)
-- [Create-react-app or Vite ?](https://dev.to/leopold/create-react-app-or-vite--33d9)
 <!-- BLOG-POST-LIST:END -->
 
