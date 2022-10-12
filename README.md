@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [2023&#39;de Kullanabileceğiniz En İyi Ücretsiz VPN Servisleri](https://dev.to/vpnprogramlari/2023de-kullanabileceginiz-en-iyi-ucretsiz-vpn-servisleri-3h23)
+- [Streaming messages from Stripe to Kafka](https://dev.to/buildable/streaming-messages-from-stripe-to-kafka-3d9a)
+- [How to Easily Set Up Advanced Analytics for Your Ecommerce Storefront](https://dev.to/medusajs/how-to-easily-set-up-advanced-analytics-for-your-ecommerce-storefront-3j36)
 - [App Recommendations for a Productive iPhone User!](https://dev.to/stephanreynolds/app-recommendations-for-a-productive-iphone-user-16e9)
-- [How to send notifications in JavaScript&lpar;in less than 10 lines of code&rpar;](https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j)
-- [This Week In React #119: React OG Images, Tremor, Storybook, Decoupling, Rendering, Remix, Qwik, TypeScript, Playwright...](https://dev.to/sebastienlorber/this-week-in-react-119-react-og-images-tremor-storybook-decoupling-rendering-remix-qwik-typescript-playwright-19gg)
-- [Learning GO - Creating the environment using docker - Part 1](https://dev.to/augusto_queirantes/learning-go-creating-the-environment-using-docker-part-1-id2)
 <!-- BLOG-POST-LIST:END -->
 
