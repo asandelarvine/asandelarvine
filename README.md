@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Mentoring](https://dev.to/gioboa/the-power-of-mentoring-1klj)
-- [Hacktoberfest Progress Update: Translation Contributions Still Welcome](https://dev.to/cicirello/hacktoberfest-progress-update-translation-contributions-still-welcome-4aof)
-- [Serverless API Essentials: PUT vs PATCH](https://dev.to/aws-heroes/serverless-api-essentials-put-vs-patch-2431)
-- [Passed AWS Certified Developer - Associate - DVA-C01](https://dev.to/romankurnovskii/passed-aws-certified-developer-associate-dva-c01-2211)
+- [Different test scopes in Rust](https://dev.to/nfrankel/different-test-scopes-in-rust-41if)
+- [Ruby on Rails Naming Conventions](https://dev.to/meganmoulos/ruby-on-rails-naming-conventions-885)
+- [5 Design Rules everyone should know](https://dev.to/irreverentmike/5-design-rules-everyone-should-know-jmh)
+- [How to contribute to Visual Studio Code on GitHub](https://dev.to/this-is-learning/how-to-contribute-to-visual-studio-code-on-github-4b6c)
 <!-- BLOG-POST-LIST:END -->
 
