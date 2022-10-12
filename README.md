@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What game are you most proud of developing and why?](https://dev.to/saaaa_/what-game-are-you-most-proud-of-developing-and-why-a0f)
+- [Transporting your Components Anywhere with React Portals](https://dev.to/smpnjn/transporting-your-components-anywhere-with-react-portals-6li)
 - [How Rust can help you write safer and more reliable code](https://dev.to/roy8/how-rust-can-help-you-write-safer-and-more-reliable-code-161d)
 - [Let&#39;s help each other find good horror movies!](https://dev.to/michaeltharrington/lets-help-each-other-find-good-horror-movies-2cgi)
-- [Welcome Thread - v195](https://dev.to/thepracticaldev/welcome-thread-v195-5616)
-- [How Have Nice Effects Affected My Life?](https://dev.to/vitalipom/how-nice-effects-affected-my-life-2f7h)
 <!-- BLOG-POST-LIST:END -->
 
