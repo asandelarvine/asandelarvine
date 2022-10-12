@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Rust can help you write safer and more reliable code](https://dev.to/roy8/how-rust-can-help-you-write-safer-and-more-reliable-code-161d)
+- [Let&#39;s help each other find good horror movies!](https://dev.to/michaeltharrington/lets-help-each-other-find-good-horror-movies-2cgi)
+- [Welcome Thread - v195](https://dev.to/thepracticaldev/welcome-thread-v195-5616)
 - [How Have Nice Effects Affected My Life?](https://dev.to/vitalipom/how-nice-effects-affected-my-life-2f7h)
-- [Setting the Default Node.JS version with nvm](https://dev.to/smpnjn/setting-the-default-nodejs-version-with-nvm-54c3)
-- [Different test scopes in Rust](https://dev.to/nfrankel/different-test-scopes-in-rust-41if)
-- [Ruby on Rails Naming Conventions](https://dev.to/meganmoulos/ruby-on-rails-naming-conventions-885)
 <!-- BLOG-POST-LIST:END -->
 
