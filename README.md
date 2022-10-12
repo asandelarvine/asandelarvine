@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you feel about cover letters?](https://dev.to/brewinstallbuzzwords/how-do-you-feel-about-cover-letters-1ooj)
+- [Dependent: :Destroy to the Rescue!](https://dev.to/qsissler/dependent-destroy-to-the-rescue-5433)
 - [10 Ways to Get Involved with No Code Open Source Contributions](https://dev.to/bobliuuu/10-ways-to-get-involved-with-no-code-open-source-contributions-10cl)
 - [Fleet is here! 🥳](https://dev.to/fahimfba/fleet-is-here-3ih3)
-- [Service Design Best Practices - Part I](https://dev.to/smuhammed/service-design-best-practices-part-i-3iol)
-- [Stream messages from Stripe to Kafka](https://dev.to/buildable/streaming-messages-from-stripe-to-kafka-3d9a)
 <!-- BLOG-POST-LIST:END -->
 
