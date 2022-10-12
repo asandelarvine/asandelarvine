@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [App Recommendations for a Productive iPhone User!](https://dev.to/stephanreynolds/app-recommendations-for-a-productive-iphone-user-16e9)
 - [How to send notifications in JavaScript&lpar;in less than 10 lines of code&rpar;](https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j)
 - [This Week In React #119: React OG Images, Tremor, Storybook, Decoupling, Rendering, Remix, Qwik, TypeScript, Playwright...](https://dev.to/sebastienlorber/this-week-in-react-119-react-og-images-tremor-storybook-decoupling-rendering-remix-qwik-typescript-playwright-19gg)
 - [Learning GO - Creating the environment using docker - Part 1](https://dev.to/augusto_queirantes/learning-go-creating-the-environment-using-docker-part-1-id2)
-- [12 usable examples to learn the most popular JS libs 💝](https://dev.to/alagrede/12-usable-examples-to-learn-the-most-popular-js-libs-4229)
 <!-- BLOG-POST-LIST:END -->
 
