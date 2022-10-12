@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Cat Trophy Kingdom: Building a video game with Airkit’s low-code platform](https://dev.to/airkit/cat-trophy-kingdom-building-a-video-game-with-airkits-low-code-platform-5dlh)
+- [What is a closure? And why this matters ? - Javascript](https://dev.to/vcctm/what-is-a-closure-and-why-this-matters-javascript-386p)
 - [The 7 Most Popular DEV Posts from the Past Week](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-3knj)
 - [Create-react-app or Vite ?](https://dev.to/leopold/create-react-app-or-vite--33d9)
-- [Supportive Is: an elegant utility to check types of values in JavaScript](https://dev.to/hassanzohdy/supportive-is-an-elegant-utility-to-check-types-of-values-in-javascript-1b3e)
 <!-- BLOG-POST-LIST:END -->
 
