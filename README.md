@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [12 usable examples to learn the most popular JS libs 💝](https://dev.to/alagrede/12-usable-examples-to-learn-the-most-popular-js-libs-4229)
 - [Django &amp; Celery - Open-Source Tasks Manager](https://dev.to/sm0ke/django-celery-open-source-tasks-manager-36jf)
 - [Concept of Containers](https://dev.to/kitarp29/concept-of-containers-4oc)
 - [How JavaScript hoisting actually works](https://dev.to/codegino/how-javascript-hoisting-actually-works-3mj1)
-- [Weekly web development resources #119](https://dev.to/vincenius/weekly-web-development-resources-119-180e)
 <!-- BLOG-POST-LIST:END -->
 
