@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Classic Topic Modeling with BM25](https://dev.to/neuml/classic-topic-modeling-with-bm25-33ep)
-- [Aviyel: Building Tools for Open Source Communities](https://dev.to/edemgold/aviyel-building-tools-for-open-source-communities-bpe)
-- [Is CosmosDB a new SQL database? Is CitusDB a distributed SQL database? Has Hyperscale vanished in the Hyperspace?](https://dev.to/yugabyte/is-cosmosdb-a-new-sql-database-is-citusdb-a-distributed-sql-did-hyperscale-vanished-in-the-hyperspace-472d)
-- [Aminated Portfolio Website HTML CSS JS | No Frameworks](https://dev.to/codewithsadee/aminated-portfolio-website-html-css-js-no-frameworks-2k0m)
+- [Accelerate IoT Development with Arm Virtual Hardware on AWS](https://dev.to/aws-builders/accelerate-iot-development-with-arm-virtual-hardware-on-aws-3ndd)
+- [Windows Opacity in VSCODE](https://dev.to/bekbrace/windows-opacity-in-vscode-jlb)
+- [Build REST endpoints with Low-code Backend](https://dev.to/nucleoid/build-rest-endpoints-with-low-code-backend-1fd7)
+- [User Interviews for Dummies](https://dev.to/codedex/user-interviews-for-dummies-1775)
 <!-- BLOG-POST-LIST:END -->
 
