@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a free component library for react developers.](https://dev.to/alohe/building-a-free-component-library-for-react-developers-3pdp)
+- [Where Did All The Focus Time Go? Dissecting 1.5 Million Meetings](https://dev.to/linearb/where-did-all-the-focus-time-go-dissecting-15-million-meetings-1658)
 - [A verdade sobre os bootcamps de programação](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
 - [The Essential Guide to Javascript Sets](https://dev.to/smpnjn/the-essential-guide-to-javascript-sets-22b4)
-- [Quickly Build Secure Microservices in Python](https://dev.to/cowofevil/quickly-build-secure-microservices-in-python-1n44)
-- [Discussion and Comment of the Week - v20](https://dev.to/devteam/discussion-and-comment-of-the-week-v20-1p6)
 <!-- BLOG-POST-LIST:END -->
 
