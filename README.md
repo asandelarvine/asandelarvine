@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is CosmosDB a new SQL database? Is CitusDB a distributed SQL database? Did Hyperscale vanished in the Hyperspace?](https://dev.to/yugabyte/is-cosmosdb-a-new-sql-database-is-citusdb-a-distributed-sql-did-hyperscale-vanished-in-the-hyperspace-472d)
+- [Aminated Portfolio Website HTML CSS JS | No Frameworks](https://dev.to/codewithsadee/aminated-portfolio-website-html-css-js-no-frameworks-2k0m)
+- [From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background 🔥](https://dev.to/techworld_with_nana/from-zero-to-devops-engineer-devops-roadmap-for-your-specific-background-4h8n)
 - [Space Shooter Game with SDL2 and Odin - Part 2 - Render Player](https://dev.to/patrickodacre/space-shooter-game-with-sdl2-and-odin-part-2-render-player-119g)
-- [Getting Bundling Superpowers Using Codegen](https://dev.to/florianrappl/getting-bundling-superpowers-using-codegen-2no8)
-- [Do you track any personal health data? If so, what and how?](https://dev.to/ben/do-you-track-any-personal-health-data-if-so-what-and-how-1cib)
-- [What is pnpm and is it really so fast and space-efficient?](https://dev.to/stackblitz/what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la)
 <!-- BLOG-POST-LIST:END -->
 
