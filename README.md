@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 more advanced GD examples to manipulate images with PHP](https://dev.to/nonunicorn/5-more-advanced-gd-examples-to-manipulate-images-with-php-62i)
-- [10 Great eCommerce Website Desing Features Your Customers Expect](https://dev.to/makspundyk/10-great-ecommerce-website-desing-features-your-customers-expect-46b9)
-- [Intro to Array in JavaScript.](https://dev.to/jindalkeshav82/intro-to-array-in-javascript-3e75)
-- [Create your first PR 🎉: Hacktoberfest 2022](https://dev.to/sadeedpv/create-your-first-pr-hacktoberfest-2022-34pi)
+- [Should You Learn Front-end or Back-end Development First?](https://dev.to/bootdotdev/should-you-learn-front-end-or-back-end-development-first-408h)
+- [Créer un site web responsive avec Bootstrap](https://dev.to/codingteam/creer-un-site-web-responsive-avec-bootstrap-p6p)
+- [Why you should prefer using pnpm ?](https://dev.to/refine/why-you-should-prefer-using-pnpm--2114)
+- [On-premise vs SaaS: What to Choose and When?](https://dev.to/kateryna_pakhomova/on-premise-vs-saas-what-to-choose-and-when-31k9)
 <!-- BLOG-POST-LIST:END -->
 
