@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy containerized workloads with Amazon Lightsail](https://dev.to/aws-builders/deploy-containerized-workloads-with-amazon-lightsail-m05)
+- [A Complete Beginner’s Guide to Big O Notation](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
 - [Sign In with Solana - Authenticate Users with their Phantom Wallet](https://dev.to/thirdweb/sign-in-with-solana-authenticate-users-with-their-phantom-wallet-4b21)
 - [Should we hire junior developer advocates?](https://dev.to/blackgirlbytes/should-we-hire-junior-developer-advocates-13m2)
-- [Create useful noise patterns with Academy award winning Ken Perlin 🏆🎲](https://dev.to/thormeier/create-useful-noise-patterns-with-academy-award-winning-ken-perlin-3fc6)
-- [What game are you most proud of developing and why?](https://dev.to/saaaa_/what-game-are-you-most-proud-of-developing-and-why-a0f)
 <!-- BLOG-POST-LIST:END -->
 
