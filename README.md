@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A verdade sobre os bootcamps de programação](https://dev.to/devdoido/a-verdade-sobre-os-bootcamps-de-programacao-3pci)
+- [The Essential Guide to Javascript Sets](https://dev.to/smpnjn/the-essential-guide-to-javascript-sets-22b4)
+- [Quickly Build Secure Microservices in Python](https://dev.to/cowofevil/quickly-build-secure-microservices-in-python-1n44)
 - [Discussion and Comment of the Week - v20](https://dev.to/devteam/discussion-and-comment-of-the-week-v20-1p6)
-- [Why I started to work at Novu - Things that you don&#39;t want to hear 😡](https://dev.to/nevodavid/why-i-started-to-work-at-novu-things-that-you-dont-want-to-hear-jdn)
-- [Transição de Carreira](https://dev.to/larideoliiveira/transicao-de-carreira-3c9c)
-- [An Open-Source Solution to DORA &amp; DevOps Metrics](https://dev.to/maximwheatley/an-open-source-solution-to-dora-devops-metrics-72l)
 <!-- BLOG-POST-LIST:END -->
 
