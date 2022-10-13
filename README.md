@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should You Learn Front-end or Back-end Development First?](https://dev.to/bootdotdev/should-you-learn-front-end-or-back-end-development-first-408h)
-- [Créer un site web responsive avec Bootstrap](https://dev.to/codingteam/creer-un-site-web-responsive-avec-bootstrap-p6p)
-- [Why you should prefer using pnpm ?](https://dev.to/refine/why-you-should-prefer-using-pnpm--2114)
-- [On-premise vs SaaS: What to Choose and When?](https://dev.to/kateryna_pakhomova/on-premise-vs-saas-what-to-choose-and-when-31k9)
+- [Space Shooter Game with SDL2 and Odin - Part 2 - Render Player](https://dev.to/patrickodacre/space-shooter-game-with-sdl2-and-odin-part-2-render-player-119g)
+- [Getting Bundling Superpowers Using Codegen](https://dev.to/florianrappl/getting-bundling-superpowers-using-codegen-2no8)
+- [Do you track any personal health data? If so, what and how?](https://dev.to/ben/do-you-track-any-personal-health-data-if-so-what-and-how-1cib)
+- [What is pnpm and is it really so fast and space-efficient?](https://dev.to/stackblitz/what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la)
 <!-- BLOG-POST-LIST:END -->
 
