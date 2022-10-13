@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Open-Source Solution to DORA &amp; DevOps Metrics](https://dev.to/maximwheatley/an-open-source-solution-to-dora-devops-metrics-72l)
 - [Accelerate IoT Development with Arm Virtual Hardware on AWS](https://dev.to/aws-builders/accelerate-iot-development-with-arm-virtual-hardware-on-aws-3ndd)
 - [Windows Opacity in VSCODE](https://dev.to/bekbrace/windows-opacity-in-vscode-jlb)
 - [Build REST endpoints with Low-code Backend](https://dev.to/nucleoid/build-rest-endpoints-with-low-code-backend-1fd7)
-- [User Interviews for Dummies](https://dev.to/codedex/user-interviews-for-dummies-1775)
 <!-- BLOG-POST-LIST:END -->
 
