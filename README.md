@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I started to work at Novu - Things that you don&#39;t want to hear 😡](https://dev.to/nevodavid/why-i-started-to-work-at-novu-things-that-you-dont-want-to-hear-jdn)
+- [Transição de Carreira](https://dev.to/larideoliiveira/transicao-de-carreira-3c9c)
+- [1, 2 or 3 panes - choose a layout that works for you](https://dev.to/sayanarijit/1-2-or-3-panes-choose-a-layout-that-works-for-you-nda)
 - [An Open-Source Solution to DORA &amp; DevOps Metrics](https://dev.to/maximwheatley/an-open-source-solution-to-dora-devops-metrics-72l)
-- [Accelerate IoT Development with Arm Virtual Hardware on AWS](https://dev.to/aws-builders/accelerate-iot-development-with-arm-virtual-hardware-on-aws-3ndd)
-- [Windows Opacity in VSCODE](https://dev.to/bekbrace/windows-opacity-in-vscode-jlb)
-- [Build REST endpoints with Low-code Backend](https://dev.to/nucleoid/build-rest-endpoints-with-low-code-backend-1fd7)
 <!-- BLOG-POST-LIST:END -->
 
