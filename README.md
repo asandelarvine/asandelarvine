@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 more advanced GD examples to manipulate images with PHP](https://dev.to/nonunicorn/5-more-advanced-gd-examples-to-manipulate-images-with-php-62i)
+- [10 Great eCommerce Website Desing Features Your Customers Expect](https://dev.to/makspundyk/10-great-ecommerce-website-desing-features-your-customers-expect-46b9)
 - [Intro to Array in JavaScript.](https://dev.to/jindalkeshav82/intro-to-array-in-javascript-3e75)
 - [Create your first PR 🎉: Hacktoberfest 2022](https://dev.to/sadeedpv/create-your-first-pr-hacktoberfest-2022-34pi)
-- [Getting a web3 job as a developer](https://dev.to/thenuelgeek/getting-a-web3-job-as-a-developer-5436)
-- [How to Set up Facebook Conversion API on Shopify](https://dev.to/gloriamaldonado/how-to-set-up-facebook-conversion-api-on-shopify-20cd)
 <!-- BLOG-POST-LIST:END -->
 
