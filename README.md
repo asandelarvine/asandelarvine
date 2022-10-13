@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set up Facebook Conversion API on Shopify](https://dev.to/gloriamaldonado/how-to-set-up-facebook-conversion-api-on-shopify-20cd)
+- [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
 - [Deploy containerized workloads with Amazon Lightsail](https://dev.to/aws-builders/deploy-containerized-workloads-with-amazon-lightsail-m05)
 - [A Complete Beginner’s Guide to Big O Notation](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
-- [Sign In with Solana - Authenticate Users with their Phantom Wallet](https://dev.to/thirdweb/sign-in-with-solana-authenticate-users-with-their-phantom-wallet-4b21)
-- [Should we hire junior developer advocates?](https://dev.to/blackgirlbytes/should-we-hire-junior-developer-advocates-13m2)
 <!-- BLOG-POST-LIST:END -->
 
