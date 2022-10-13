@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your first PR 🎉: Hacktoberfest 2022](https://dev.to/sadeedpv/create-your-first-pr-hacktoberfest-2022-34pi)
 - [How to Set up Facebook Conversion API on Shopify](https://dev.to/gloriamaldonado/how-to-set-up-facebook-conversion-api-on-shopify-20cd)
 - [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
 - [Deploy containerized workloads with Amazon Lightsail](https://dev.to/aws-builders/deploy-containerized-workloads-with-amazon-lightsail-m05)
-- [A Complete Beginner’s Guide to Big O Notation](https://dev.to/jstats/a-complete-beginners-guide-to-big-o-notation-56lh)
 <!-- BLOG-POST-LIST:END -->
 
