@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Intro to Array in JavaScript.](https://dev.to/jindalkeshav82/intro-to-array-in-javascript-3e75)
 - [Create your first PR 🎉: Hacktoberfest 2022](https://dev.to/sadeedpv/create-your-first-pr-hacktoberfest-2022-34pi)
+- [Getting a web3 job as a developer](https://dev.to/thenuelgeek/getting-a-web3-job-as-a-developer-5436)
 - [How to Set up Facebook Conversion API on Shopify](https://dev.to/gloriamaldonado/how-to-set-up-facebook-conversion-api-on-shopify-20cd)
-- [Styling the recent posts - part 6](https://dev.to/dailydevtips1/styling-the-recent-posts-part-6-637)
 <!-- BLOG-POST-LIST:END -->
 
