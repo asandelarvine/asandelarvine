@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Importance Of Semantic HTML In Modern Web Development](https://dev.to/lambdatest/importance-of-semantic-html-in-modern-web-development-28ji)
-- [Reasons to Use MongoDB](https://dev.to/kennyt24/reasons-to-use-mongodb-522)
-- [Investigating Cloud Cost Anomalies for Kubernetes The Easy Way](https://dev.to/castai/investigating-cloud-cost-anomalies-for-kubernetes-the-easy-way-6mf)
-- [Vaultree and AlloyDB: the world&#39;s first Fully Homomorphic and Searchable Cloud Encryption Solution](https://dev.to/vaultree/vaultree-and-alloydb-the-worlds-first-fully-homomorphic-and-searchable-cloud-encryption-solution-26kj)
+- [In One Minute : Postman](https://dev.to/rakeshkr2/in-one-minute-postman-1dbc)
+- [What should my five year roadmap look like?](https://dev.to/sloan/what-should-my-five-year-roadmap-look-like-33cg)
+- [Brewlet the Missing Menubar Item for Homebrew](https://dev.to/hacksore/brewlet-the-missing-menubar-item-for-homebrew-3a65)
+- [Quasar Admin CRM - Best CRM template to buy - very cheap](https://dev.to/mayur091193/quasar-admin-crm-best-crm-template-to-buy-very-cheap-42gg)
 <!-- BLOG-POST-LIST:END -->
 
