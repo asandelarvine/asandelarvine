@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Importance Of Semantic HTML In Modern Web Development](https://dev.to/lambdatest/importance-of-semantic-html-in-modern-web-development-28ji)
 - [Reasons to Use MongoDB](https://dev.to/kennyt24/reasons-to-use-mongodb-522)
 - [Investigating Cloud Cost Anomalies for Kubernetes The Easy Way](https://dev.to/castai/investigating-cloud-cost-anomalies-for-kubernetes-the-easy-way-6mf)
 - [Vaultree and AlloyDB: the world&#39;s first Fully Homomorphic and Searchable Cloud Encryption Solution](https://dev.to/vaultree/vaultree-and-alloydb-the-worlds-first-fully-homomorphic-and-searchable-cloud-encryption-solution-26kj)
-- [Why is hel-micro a better implementation of module federation](https://dev.to/fantasticsoul/why-is-hel-micro-a-better-implementation-of-module-federation-21ji)
 <!-- BLOG-POST-LIST:END -->
 
