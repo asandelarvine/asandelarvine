@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons to Use MongoDB](https://dev.to/kennyt24/reasons-to-use-mongodb-522)
 - [Investigating Cloud Cost Anomalies for Kubernetes The Easy Way](https://dev.to/castai/investigating-cloud-cost-anomalies-for-kubernetes-the-easy-way-6mf)
 - [Vaultree and AlloyDB: the world&#39;s first Fully Homomorphic and Searchable Cloud Encryption Solution](https://dev.to/vaultree/vaultree-and-alloydb-the-worlds-first-fully-homomorphic-and-searchable-cloud-encryption-solution-26kj)
 - [Why is hel-micro a better implementation of module federation](https://dev.to/fantasticsoul/why-is-hel-micro-a-better-implementation-of-module-federation-21ji)
-- [2 Weeks of Hacktoberfest, How is it going??](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
 <!-- BLOG-POST-LIST:END -->
 
