@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Elixir&#39;s DBConnection Pooling Deep Dive](https://dev.to/debussyman/elixirs-dbconnection-pooling-deep-dive-273l)
 - [Let&#39;s create an AddEdit with same component](https://dev.to/rajivchaulagain/lets-create-an-addedit-with-same-component-3b2j)
 - [Create Hamburger Menu Using HTML, Css &amp; Javascript](https://dev.to/codingtitan6/create-hamburger-menu-using-html-css-javascript-n19)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-jmc)
-- [Building a design system with Radix](https://dev.to/logrocket/building-a-design-system-with-radix-c33)
+- [Django Tasks Manager - Free PyPi Library](https://dev.to/sm0ke/django-tasks-manager-open-source-pypi-library-1b8)
 <!-- BLOG-POST-LIST:END -->
 
