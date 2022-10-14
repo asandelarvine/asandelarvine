@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Vaultree and AlloyDB: the world&#39;s first Fully Homomorphic and Searchable Cloud Encryption Solution](https://dev.to/vaultree/vaultree-and-alloydb-the-worlds-first-fully-homomorphic-and-searchable-cloud-encryption-solution-26kj)
+- [Why is hel-micro a better implementation of module federation](https://dev.to/fantasticsoul/why-is-hel-micro-a-better-implementation-of-module-federation-21ji)
 - [2 Weeks of Hacktoberfest, How is it going??](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
 - [I need your Feedback!](https://dev.to/sylvainkerkour/i-need-your-feedback-55i9)
-- [Introduction to Amazon Lightsail](https://dev.to/makendrang/introduction-to-amazon-lightsail-1d48)
 <!-- BLOG-POST-LIST:END -->
 
