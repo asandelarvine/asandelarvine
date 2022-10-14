@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [E-Commerce &amp; Media Automation Virtual Hackathon](https://dev.to/shotstack/e-commerce-marketing-automation-virtual-hackathon-5hj2)
-- [Authoring NPM Packages with Monorepos](https://dev.to/ravgeetdhillon/authoring-npm-packages-with-monorepos-3794)
-- [3 ways to display content on hovering over an element using only CSS](https://dev.to/koustav/3-ways-to-display-content-on-hovering-over-an-element-using-only-css-3d4m)
-- [Learn JSON from Scratch](https://dev.to/mahmoudessam/learn-json-from-scratch-29jh)
+- [Vaultree and AlloyDB: the world&#39;s first Fully Homomorphic and Searchable Cloud Encryption Solution](https://dev.to/vaultree/vaultree-and-alloydb-the-worlds-first-fully-homomorphic-and-searchable-cloud-encryption-solution-26kj)
+- [2 Weeks of Hacktoberfest, How is it going??](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
+- [I need your Feedback!](https://dev.to/sylvainkerkour/i-need-your-feedback-55i9)
+- [Introduction to Amazon Lightsail](https://dev.to/makendrang/introduction-to-amazon-lightsail-1d48)
 <!-- BLOG-POST-LIST:END -->
 
