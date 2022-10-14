@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [E-Commerce Media Automation Virtual Hackathon](https://dev.to/shotstack/e-commerce-marketing-automation-virtual-hackathon-5hj2)
+- [Authoring NPM Packages with Monorepos](https://dev.to/ravgeetdhillon/authoring-npm-packages-with-monorepos-3794)
+- [3 ways to display content on hovering over an element using only CSS](https://dev.to/koustav/3-ways-to-display-content-on-hovering-over-an-element-using-only-css-3d4m)
 - [Learn JSON from Scratch](https://dev.to/mahmoudessam/learn-json-from-scratch-29jh)
-- [🤖 Latest IT Opportunities - Week #42 of 2022](https://dev.to/shman/latest-it-opportunities-week-42-of-2022-20oh)
-- [Building a free component library for react developers.](https://dev.to/alohe/building-a-free-component-library-for-react-developers-3pdp)
-- [Where Did All The Focus Time Go? Dissecting 1.5 Million Meetings](https://dev.to/linearb/where-did-all-the-focus-time-go-dissecting-15-million-meetings-1658)
 <!-- BLOG-POST-LIST:END -->
 
