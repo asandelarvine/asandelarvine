@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TanStack Query v4 Powerful asynchronous state management for TS/JS, React, Solid, Vue and Svelte](https://dev.to/rajivchaulagain/tanstack-query-v4powerful-asynchronous-state-management-for-tsjs-react-solid-vue-and-svelte-4l67)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-jmc)
+- [Building a design system with Radix](https://dev.to/logrocket/building-a-design-system-with-radix-c33)
 - [Angular ESLint Rules for Keyboard Accessibility](https://dev.to/angular/angular-eslint-rules-for-keyboard-accessibility-236f)
-- [Follow Friday: Web Dev Edition &lpar;14 Oct 2022&rpar;](https://dev.to/devteam/follow-friday-web-dev-edition-14-oct-2022-5bae)
-- [Send contract address messages from Alchemy to a PostgreSQL database](https://dev.to/buildable/send-contract-address-messages-from-alchemy-to-a-postgresql-database-26pp)
-- [In One Minute : Postman](https://dev.to/rakeshkr2/in-one-minute-postman-1dbc)
 <!-- BLOG-POST-LIST:END -->
 
