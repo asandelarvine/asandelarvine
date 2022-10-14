@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular ESLint Rules for Keyboard Accessibility](https://dev.to/angular/angular-eslint-rules-for-keyboard-accessibility-236f)
+- [Follow Friday: Web Dev Edition &lpar;14 Oct 2022&rpar;](https://dev.to/devteam/follow-friday-web-dev-edition-14-oct-2022-5bae)
+- [Send contract address messages from Alchemy to a PostgreSQL database](https://dev.to/buildable/send-contract-address-messages-from-alchemy-to-a-postgresql-database-26pp)
 - [In One Minute : Postman](https://dev.to/rakeshkr2/in-one-minute-postman-1dbc)
-- [What should my five year roadmap look like?](https://dev.to/sloan/what-should-my-five-year-roadmap-look-like-33cg)
-- [Brewlet the Missing Menubar Item for Homebrew](https://dev.to/hacksore/brewlet-the-missing-menubar-item-for-homebrew-3a65)
-- [Quasar Admin CRM - Best CRM template to buy - very cheap](https://dev.to/mayur091193/quasar-admin-crm-best-crm-template-to-buy-very-cheap-42gg)
 <!-- BLOG-POST-LIST:END -->
 
