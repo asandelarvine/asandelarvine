@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Service layer for business logic — Organizing code in a Rails monolith](https://dev.to/aha/service-layer-for-business-logic-organizing-code-in-a-rails-monolith-40cj)
+- [Qual a diferença entre Vulnerabilidade, Ameaça e Risco?](https://dev.to/gabogaldino/qual-a-diferenca-entre-vulnerabilidade-ameaca-e-risco-1ijn)
 - [Django create your first web application 😀](https://dev.to/umair313/django-create-your-first-web-application-2p48)
 - [Chiffrer vos dossiers sensibles pour les stocker sur votre Cloud préféré sans danger](https://dev.to/boutvalentin/chiffrer-vos-dossiers-sensibles-pour-les-stocker-sur-votre-cloud-prefere-sans-danger-3idc)
-- [Elixir&#39;s DBConnection Pooling Deep Dive](https://dev.to/debussyman/elixirs-dbconnection-pooling-deep-dive-273l)
-- [Let&#39;s create an AddEdit with same component](https://dev.to/rajivchaulagain/lets-create-an-addedit-with-same-component-3b2j)
 <!-- BLOG-POST-LIST:END -->
 
