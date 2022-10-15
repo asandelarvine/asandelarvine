@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SvelteKit Server-Side Rendering &lpar;SSR&rpar; with @urql/svelte](https://dev.to/tiim/sveltekit-server-side-rendering-ssr-with-urqlsvelte-534k)
 - [Free watermarks in your photos?](https://dev.to/nix3r/free-watermarks-in-your-photos-e94)
 - [Prepping for ReInvent: Getting my Dev Associate Cert](https://dev.to/therealdakotal/prepping-for-reinvent-getting-my-dev-associate-cert-4b7m)
 - [Github Goodies](https://dev.to/dpaluy/github-goodies-4a7c)
-- [In One Minute : Heroku](https://dev.to/rakeshkr2/in-one-minute-heroku-37i1)
 <!-- BLOG-POST-LIST:END -->
 
