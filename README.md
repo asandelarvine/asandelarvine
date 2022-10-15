@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Move to UK as a Designer](https://dev.to/beetlehope/how-to-move-to-uk-as-a-designer-5h78)
-- [Service layer for business logic — Organizing code in a Rails monolith](https://dev.to/aha/service-layer-for-business-logic-organizing-code-in-a-rails-monolith-40cj)
-- [Qual a diferença entre Vulnerabilidade, Ameaça e Risco?](https://dev.to/gabogaldino/qual-a-diferenca-entre-vulnerabilidade-ameaca-e-risco-1ijn)
-- [Django create your first web application 😀](https://dev.to/umair313/django-create-your-first-web-application-2p48)
+- [Multiple github accounts](https://dev.to/webduvet/multiple-github-accounts-55dk)
+- [Transforming Tired Tabbing](https://dev.to/abbeyperini/transforming-tired-tabbing-3809)
+- [Installing node-rdkafka on M1 for use with SASL](https://dev.to/cerchie/installing-node-rdkafka-on-m1-for-use-with-sasl-3i47)
 <!-- BLOG-POST-LIST:END -->
 
