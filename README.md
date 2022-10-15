@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Free watermarks in your photos?](https://dev.to/nix3r/free-watermarks-in-your-photos-e94)
 - [Prepping for ReInvent: Getting my Dev Associate Cert](https://dev.to/therealdakotal/prepping-for-reinvent-getting-my-dev-associate-cert-4b7m)
+- [Github Goodies](https://dev.to/dpaluy/github-goodies-4a7c)
 - [In One Minute : Heroku](https://dev.to/rakeshkr2/in-one-minute-heroku-37i1)
-- [How to get the last element of an Array in Javascript](https://dev.to/smpnjn/how-to-get-the-last-element-of-an-array-in-javascript-2hmc)
-- [Updating Object Key Values with Javascript](https://dev.to/smpnjn/updating-object-key-values-with-javascript-1gnm)
 <!-- BLOG-POST-LIST:END -->
 
