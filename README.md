@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
 - [Design Quality software with the SDLC](https://dev.to/marvel_at_don/design-quality-software-with-the-sdlc-1fn5)
 - [How to setup MongoDB with Jupyter Notebook](https://dev.to/kullawattana/how-to-setup-mongodb-with-jupyter-notebook-mnh)
 - [Next.js API routes - Global Error Handling and Clean Code Practices](https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p)
-- [In One Minute : git](https://dev.to/rakeshkr2/in-one-minute-git-moe)
 <!-- BLOG-POST-LIST:END -->
 
