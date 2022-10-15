@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [In One Minute : git](https://dev.to/rakeshkr2/in-one-minute-git-moe)
 - [Pulsing loader - A step-by-step guide](https://dev.to/designyff/pulsing-loader-a-step-by-step-guide-5epg)
+- [5 ultra actionable tips to improve your Web performances](https://dev.to/kezios/5-ultra-actionable-tips-to-improve-your-web-performances-219p)
 - [Setup Kubectl on Cloud Dev Environment in 60 Seconds](https://dev.to/siddhantkcode/setup-kubectl-on-cloud-dev-environment-in-60-seconds-kcb)
-- [Go Tricolor Algorithm Explained](https://dev.to/mavensingh/go-tricolor-algorithm-explained-1588)
 <!-- BLOG-POST-LIST:END -->
 
