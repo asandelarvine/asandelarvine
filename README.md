@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : git](https://dev.to/rakeshkr2/in-one-minute-git-moe)
+- [Pulsing loader - A step-by-step guide](https://dev.to/designyff/pulsing-loader-a-step-by-step-guide-5epg)
 - [Setup Kubectl on Cloud Dev Environment in 60 Seconds](https://dev.to/siddhantkcode/setup-kubectl-on-cloud-dev-environment-in-60-seconds-kcb)
 - [Go Tricolor Algorithm Explained](https://dev.to/mavensingh/go-tricolor-algorithm-explained-1588)
-- [How to Get Started With React – A Beginner&#39;s Guide](https://dev.to/rajivchaulagain/get-started-with-react-js-1nkb)
-- [How to upload image with base64 and validate it with formik](https://dev.to/rajivchaulagain/uploading-image-with-formik-and-base64-2loa)
 <!-- BLOG-POST-LIST:END -->
 
