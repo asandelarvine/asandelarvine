@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Started With React – A Beginner&#39;s Guide](https://dev.to/rajivchaulagain/get-started-with-react-js-1nkb)
+- [Uploading image with Formik and base64](https://dev.to/rajivchaulagain/uploading-image-with-formik-and-base64-2loa)
 - [palpatine on time machine](https://dev.to/batunpc/palpatine-on-timemachine-5a99)
 - [Refactoring My Code](https://dev.to/saminarp/refactoring-my-code-2g1n)
-- [MS DEFENDER 4 CLOUD: DEVOPS SECURITY IN GITHUB ENVIRONMENT](https://dev.to/arindam0310018/ms-defender-4-cloud-devops-security-in-github-environment-449)
-- [How to Move to UK as a Designer](https://dev.to/beetlehope/how-to-move-to-uk-as-a-designer-5h78)
 <!-- BLOG-POST-LIST:END -->
 
