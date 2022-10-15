@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [palpatine on time machine](https://dev.to/batunpc/palpatine-on-timemachine-5a99)
+- [Refactoring My Code](https://dev.to/saminarp/refactoring-my-code-2g1n)
+- [MS DEFENDER 4 CLOUD: DEVOPS SECURITY IN GITHUB ENVIRONMENT](https://dev.to/arindam0310018/ms-defender-4-cloud-devops-security-in-github-environment-449)
 - [How to Move to UK as a Designer](https://dev.to/beetlehope/how-to-move-to-uk-as-a-designer-5h78)
-- [Multiple github accounts](https://dev.to/webduvet/multiple-github-accounts-55dk)
-- [Transforming Tired Tabbing](https://dev.to/abbeyperini/transforming-tired-tabbing-3809)
-- [Installing node-rdkafka on M1 for use with SASL](https://dev.to/cerchie/installing-node-rdkafka-on-m1-for-use-with-sasl-3i47)
 <!-- BLOG-POST-LIST:END -->
 
