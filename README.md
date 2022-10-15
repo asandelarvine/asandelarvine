@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : Heroku](https://dev.to/rakeshkr2/in-one-minute-heroku-37i1)
+- [How to get the last element of an Array in Javascript](https://dev.to/smpnjn/how-to-get-the-last-element-of-an-array-in-javascript-2hmc)
+- [Updating Object Key Values with Javascript](https://dev.to/smpnjn/updating-object-key-values-with-javascript-1gnm)
 - [Waiting for the DOM to be ready in Javascript](https://dev.to/smpnjn/waiting-for-the-dom-to-be-ready-in-javascript-42l7)
-- [How to Contribute to Hacktoberfest with Codédex](https://dev.to/codedex/how-to-contribute-to-hacktoberfest-with-codedex-8h9)
-- [React Just Got Even More Awesome](https://dev.to/dayvster/react-just-got-even-more-awesome-f15)
-- [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
 <!-- BLOG-POST-LIST:END -->
 
