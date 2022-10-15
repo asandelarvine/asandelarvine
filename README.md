@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Waiting for the DOM to be ready in Javascript](https://dev.to/smpnjn/waiting-for-the-dom-to-be-ready-in-javascript-42l7)
+- [How to Contribute to Hacktoberfest with Codédex](https://dev.to/codedex/how-to-contribute-to-hacktoberfest-with-codedex-8h9)
+- [React Just Got Even More Awesome](https://dev.to/dayvster/react-just-got-even-more-awesome-f15)
 - [Default vs Named exports](https://dev.to/shacodes/default-vs-named-exports-19hj)
-- [Design Quality software with the SDLC](https://dev.to/marvel_at_don/design-quality-software-with-the-sdlc-1fn5)
-- [How to setup MongoDB with Jupyter Notebook](https://dev.to/kullawattana/how-to-setup-mongodb-with-jupyter-notebook-mnh)
-- [Next.js API routes - Global Error Handling and Clean Code Practices](https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p)
 <!-- BLOG-POST-LIST:END -->
 
