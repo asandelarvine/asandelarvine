@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Tricolor Algorithm Explained](https://dev.to/mavensingh/go-tricolor-algorithm-explained-1588)
 - [How to Get Started With React – A Beginner&#39;s Guide](https://dev.to/rajivchaulagain/get-started-with-react-js-1nkb)
 - [Uploading image with Formik and base64](https://dev.to/rajivchaulagain/uploading-image-with-formik-and-base64-2loa)
 - [palpatine on time machine](https://dev.to/batunpc/palpatine-on-timemachine-5a99)
-- [Refactoring My Code](https://dev.to/saminarp/refactoring-my-code-2g1n)
 <!-- BLOG-POST-LIST:END -->
 
