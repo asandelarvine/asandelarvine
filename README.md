@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React, the Humble - Write once, render in Web and Native](https://dev.to/noriller/react-the-humble-write-once-render-in-web-and-native-3eih)
+- [Javascript Array Slice Method](https://dev.to/smpnjn/javascript-array-slice-method-22kf)
 - [How to Change a Git Commit Date &lpar;For Beginners&rpar;](https://dev.to/itsmohamedyahia/how-to-change-a-git-commit-date-for-beginners-40ge)
 - [Don’t be arrogantly ignorant: don’t flame](https://dev.to/wesen/dont-be-arrogantly-ignorant-dont-flame-814)
-- [Automate the removal of likes in TikTok](https://dev.to/frankalvarez/automate-the-removal-of-likes-in-tiktok-4oic)
-- [In One Minute : V8 &lpar;JavaScript engine&rpar;](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
 <!-- BLOG-POST-LIST:END -->
 
