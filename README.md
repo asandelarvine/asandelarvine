@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Change a Git Commit Date &lpar;For Beginners&rpar;](https://dev.to/itsmohamedyahia/how-to-change-a-git-commit-date-for-beginners-40ge)
 - [Don’t be arrogantly ignorant: don’t flame](https://dev.to/wesen/dont-be-arrogantly-ignorant-dont-flame-814)
 - [Automate the removal of likes in TikTok](https://dev.to/frankalvarez/automate-the-removal-of-likes-in-tiktok-4oic)
 - [In One Minute : V8 &lpar;JavaScript engine&rpar;](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
-- [Repurposing Content for Content Creation](https://dev.to/nickytonline/repurposing-content-for-content-creation-3l4d)
 <!-- BLOG-POST-LIST:END -->
 
