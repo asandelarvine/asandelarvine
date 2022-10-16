@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using AWS Step Functions To Implement The SAGA Pattern](https://dev.to/eelayoubi/using-aws-step-functions-to-implement-the-saga-pattern-14o7)
 - [6 Cool Things Boring Old HTML Can Do 🤯](https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160)
 - [AWS Amplify CLI Installation Guide &lpar;M1/M2 2022 Mac Edition&rpar;](https://dev.to/aws-builders/aws-amplify-cli-installation-guide-m1m2-2022-mac-edition-3cm2)
 - [Things I Learned Through My First Hacktoberfest Pull Requests!](https://dev.to/saminarp/things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1)
-- [Routinejs, An Express inspired blazingly fast Nodejs router](https://dev.to/zulfiqarqureshi/routinejs-an-express-inspired-blazingly-fast-nodejs-router-3hpg)
 <!-- BLOG-POST-LIST:END -->
 
