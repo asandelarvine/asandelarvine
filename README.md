@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Routinejs, An Express inspired blazingly fast Nodejs router](https://dev.to/zulfiqarqureshi/routinejs-an-express-inspired-blazingly-fast-nodejs-router-3hpg)
+- [Introduction to NodeJS](https://dev.to/jagroop2000/introduction-to-nodejs-59bb)
 - [Containers: Under the Hood](https://dev.to/aws-builders/containers-under-the-hood-37k0)
 - [SvelteKit Server-Side Rendering &lpar;SSR&rpar; with @urql/svelte](https://dev.to/tiim/sveltekit-server-side-rendering-ssr-with-urqlsvelte-534k)
-- [Crafting my Portfolio - Preparing Base](https://dev.to/wrench1815/crafting-my-portfolio-preparing-base-2eep)
-- [Creating the blog page - part 8](https://dev.to/dailydevtips1/creating-the-blog-page-part-8-31eg)
 <!-- BLOG-POST-LIST:END -->
 
