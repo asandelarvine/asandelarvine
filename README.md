@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From WebView to WebView2 in UWP](https://dev.to/fanmixco/from-webview-to-webview2-in-uwp-2ehj)
+- [Does OSS owe us something?](https://dev.to/atimin/does-oss-owe-us-something-ne6)
+- [AWS CodeWhisperer - Your ML powered Coding companion](https://dev.to/aws-builders/aws-codewhisperer-your-ml-powered-coding-companion-47c)
 - [Using AWS Step Functions To Implement The SAGA Pattern](https://dev.to/eelayoubi/using-aws-step-functions-to-implement-the-saga-pattern-14o7)
-- [6 Cool Things Boring Old HTML Can Do 🤯](https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160)
-- [AWS Amplify CLI Installation Guide &lpar;M1/M2 2022 Mac Edition&rpar;](https://dev.to/aws-builders/aws-amplify-cli-installation-guide-m1m2-2022-mac-edition-3cm2)
-- [Things I Learned Through My First Hacktoberfest Pull Requests!](https://dev.to/saminarp/things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1)
 <!-- BLOG-POST-LIST:END -->
 
