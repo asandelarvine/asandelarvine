@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Programação orientada a testes?!](https://dev.to/devs-jequie/programacao-orientada-a-testes-58dd)
 - [Deno: how to start use it](https://dev.to/ianoliv/deno-how-to-start-use-it-2n6m)
 - [Javascript Array Reduce Method](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
 - [Why We&#39;re Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
-- [React, the Humble - Write once, render in Web and Native](https://dev.to/noriller/react-the-humble-write-once-render-in-web-and-native-3eih)
 <!-- BLOG-POST-LIST:END -->
 
