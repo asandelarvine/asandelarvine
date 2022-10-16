@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : V8 &lpar;JavaScript engine&rpar;](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
+- [Repurposing Content for Content Creation](https://dev.to/nickytonline/repurposing-content-for-content-creation-3l4d)
 - [Getting Started with Amazon Elastic Container Service with Fargate](https://dev.to/aws-builders/getting-started-with-amazon-elastic-container-service-with-fargate-2ce2)
 - [AWS CDK Redshfit Demo](https://dev.to/aws-builders/aws-cdk-redshfit-demo-2ch5)
-- [Creating Skeleton Loading Animation in React](https://dev.to/documatic/creating-skeleton-loading-animation-in-react-4f38)
-- [The Difference between TypeScript and Javascript](https://dev.to/smpnjn/the-difference-between-typescript-and-javascript-3gem)
 <!-- BLOG-POST-LIST:END -->
 
