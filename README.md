@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What’s a Status Page Aggregator and why you need one](https://dev.to/isdown/whats-a-status-page-aggregator-and-why-you-need-one-4jh9)
+- [How to Make Halloween Landing page Using HTML CSS JS | For Beginners](https://dev.to/codewithsadee/how-to-make-halloween-landing-page-using-html-css-js-for-beginners-3ef9)
 - [Merge bootstrap file input with laravel](https://dev.to/mhabdelfadeil/merge-bootstrap-file-input-with-laravel-1ngp)
 - [From WebView to WebView2 in UWP](https://dev.to/fanmixco/from-webview-to-webview2-in-uwp-2ehj)
-- [Does OSS owe us something?](https://dev.to/atimin/does-oss-owe-us-something-ne6)
 <!-- BLOG-POST-LIST:END -->
 
