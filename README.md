@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s a Status Page Aggregator and why you need one](https://dev.to/isdown/whats-a-status-page-aggregator-and-why-you-need-one-4jh9)
+- [Merge bootstrap file input with laravel](https://dev.to/mhabdelfadeil/merge-bootstrap-file-input-with-laravel-1ngp)
 - [From WebView to WebView2 in UWP](https://dev.to/fanmixco/from-webview-to-webview2-in-uwp-2ehj)
 - [Does OSS owe us something?](https://dev.to/atimin/does-oss-owe-us-something-ne6)
-- [Generate dynamic OG images with Next.js and vercel edge functions](https://dev.to/mr_mornin_star/generate-dynamic-og-images-with-nextjs-and-vercel-edge-functions-4513)
-- [Creating the work page - part 9](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
 <!-- BLOG-POST-LIST:END -->
 
