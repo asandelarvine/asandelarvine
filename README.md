@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Don’t be arrogantly ignorant: don’t flame](https://dev.to/wesen/dont-be-arrogantly-ignorant-dont-flame-814)
+- [Automate the removal of likes in TikTok](https://dev.to/frankalvarez/automate-the-removal-of-likes-in-tiktok-4oic)
 - [In One Minute : V8 &lpar;JavaScript engine&rpar;](https://dev.to/rakeshkr2/in-one-minute-v8-javascript-engine-59b2)
 - [Repurposing Content for Content Creation](https://dev.to/nickytonline/repurposing-content-for-content-creation-3l4d)
-- [Getting Started with Amazon Elastic Container Service with Fargate](https://dev.to/aws-builders/getting-started-with-amazon-elastic-container-service-with-fargate-2ce2)
 <!-- BLOG-POST-LIST:END -->
 
