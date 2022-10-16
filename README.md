@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [From WebView to WebView2 in UWP](https://dev.to/fanmixco/from-webview-to-webview2-in-uwp-2ehj)
 - [Does OSS owe us something?](https://dev.to/atimin/does-oss-owe-us-something-ne6)
 - [Generate dynamic OG images with Next.js and vercel edge functions](https://dev.to/mr_mornin_star/generate-dynamic-og-images-with-nextjs-and-vercel-edge-functions-4513)
-- [AWS CodeWhisperer - Your ML powered Coding companion](https://dev.to/aws-builders/aws-codewhisperer-your-ml-powered-coding-companion-47c)
+- [Creating the work page - part 9](https://dev.to/dailydevtips1/creating-the-work-page-part-9-540m)
 <!-- BLOG-POST-LIST:END -->
 
