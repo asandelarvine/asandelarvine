@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Trunk-Based Development](https://dev.to/marcelosousa/modern-trunk-based-development-2lle)
-- [JavaScript Slice Method in Depth](https://dev.to/refine/javascript-slice-method-in-depth-2h03)
-- [Meme Monday 🦑](https://dev.to/ben/meme-monday-1299)
-- [Best Repositories for beginners to contribute in Hacktoberfest](https://dev.to/seek4samurai/best-repositories-for-beginners-to-contribute-in-hacktoberfest-667)
+- [Coinbase Clone Script &lpar;vital features + price&rpar;](https://dev.to/fionatimms1/coinbase-clone-script-vital-features-price-31p0)
+- [How to successfully hold a demonstration for an IoT product without any hardware](https://dev.to/daiquiri_team/how-to-successfully-hold-a-demonstration-for-an-iot-product-without-any-hardware-pbm)
+- [Reducing Your Cloud Costs: An Operational Optimization Guide](https://dev.to/blink-ops/reducing-your-cloud-costs-an-operational-optimization-guide-3eh6)
+- [Hacktoberfest with Ghost: Help bring i18n to our app](https://dev.to/tryghost/hacktoberfest-with-ghost-help-bring-i18n-to-our-app-1a1m)
 <!-- BLOG-POST-LIST:END -->
 
