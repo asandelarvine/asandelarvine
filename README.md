@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write a good README](https://dev.to/merlos/how-to-write-a-good-readme-bog)
+- [New React Multiselect NPM Package](https://dev.to/rajgit96/new-react-multiselect-npm-package-1ji)
+- [How to automate code format on commit](https://dev.to/koich1/how-to-automate-format-your-code-on-commit-acn)
 - [Programação orientada a testes?!](https://dev.to/devs-jequie/programacao-orientada-a-testes-58dd)
-- [Deno: how to start use it](https://dev.to/ianoliv/deno-how-to-start-use-it-2n6m)
-- [Javascript Array Reduce Method](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
-- [Why We&#39;re Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
 <!-- BLOG-POST-LIST:END -->
 
