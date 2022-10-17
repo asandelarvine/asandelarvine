@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HotReload with Ruby on Rails 7](https://dev.to/gs/hotreload-with-ruby-on-rails-7-3g1l)
 - [Javascript Array Filter Method](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
 - [The Essential SDLC Security Checklist](https://dev.to/yayabobi/the-essential-sdlc-security-checklist-247j)
 - [Bitcoin Signatures From Scratch &lpar;4/4&rpar;: ECDSA Implementation in Python Using Zero Dependencies](https://dev.to/exemak/bitcoin-signatures-from-scratch-44-ecdsa-implementation-in-python-using-zero-dependencies-410c)
-- [Bitcoin Signatures From Scratch &lpar;3/4&rpar;: Using The Magic of Elliptic Curves to Sign and Verify Messages](https://dev.to/exemak/bitcoin-signatures-from-scratch-34-using-the-magic-of-elliptic-curves-to-sign-and-verify-messages-41i2)
 <!-- BLOG-POST-LIST:END -->
 
