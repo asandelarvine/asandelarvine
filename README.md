@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Array Filter Method](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
+- [The Essential SDLC Security Checklist](https://dev.to/yayabobi/the-essential-sdlc-security-checklist-247j)
 - [Bitcoin Signatures From Scratch &lpar;4/4&rpar;: ECDSA Implementation in Python Using Zero Dependencies](https://dev.to/exemak/bitcoin-signatures-from-scratch-44-ecdsa-implementation-in-python-using-zero-dependencies-410c)
-- [Bitcoin Signatures From Scratch &lpar;2/4&rpar;: The Magic of Elliptic Curves Combined with Finite Fields](https://dev.to/exemak/bitcoin-signatures-from-scratch-24-the-magic-of-elliptic-curves-combined-with-finite-fields-249o)
-- [Bitcoin Signatures From Scratch &lpar;1/4&rpar;: The Magic of Elliptic Curves](https://dev.to/exemak/bitcoin-signatures-from-scratch-14-the-magic-of-elliptic-curves-2n7h)
-- [What is Success?](https://dev.to/devsyedmohsin/what-is-success-52i8)
+- [Bitcoin Signatures From Scratch &lpar;3/4&rpar;: Using The Magic of Elliptic Curves to Sign and Verify Messages](https://dev.to/exemak/bitcoin-signatures-from-scratch-34-using-the-magic-of-elliptic-curves-to-sign-and-verify-messages-41i2)
 <!-- BLOG-POST-LIST:END -->
 
