@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Schema Markup in WordPress](https://dev.to/herryjobn/how-to-add-schema-markup-in-wordpress-1b6p)
 - [Coinbase Clone Script &lpar;vital features + price&rpar;](https://dev.to/fionatimms1/coinbase-clone-script-vital-features-price-31p0)
+- [Join the 30 Days of Microsoft Graph Challenge 🦒](https://dev.to/azure/join-the-30-days-of-microsoft-graph-challenge-2imj)
 - [How to successfully hold a demonstration for an IoT product without any hardware](https://dev.to/daiquiri_team/how-to-successfully-hold-a-demonstration-for-an-iot-product-without-any-hardware-pbm)
-- [Reducing Your Cloud Costs: An Operational Optimization Guide](https://dev.to/blink-ops/reducing-your-cloud-costs-an-operational-optimization-guide-3eh6)
-- [Hacktoberfest with Ghost: Help bring i18n to our app](https://dev.to/tryghost/hacktoberfest-with-ghost-help-bring-i18n-to-our-app-1a1m)
 <!-- BLOG-POST-LIST:END -->
 
