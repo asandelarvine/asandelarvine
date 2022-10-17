@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Started with Amazon Elastic Container Service with Fargate](https://dev.to/makendrang/getting-started-with-amazon-elastic-container-service-with-fargate-32ko)
-- [AWS open source news and updates, #131](https://dev.to/aws/aws-open-source-news-and-updates-131-nci)
-- [How we developed our company website using NextJS](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
-- [Data Science: Project Structure](https://dev.to/azadkshitij/data-science-project-structure-5dh)
+- [Handle quick phone authentication in Next.js using Appwrite and Twilio](https://dev.to/hackmamba/handle-quick-phone-authentication-in-nextjs-using-appwrite-and-twilio-569i)
+- [Hacktoberfest 2022: Win Swags for Quality Contributions](https://dev.to/astrodevil/hacktoberfest-2022-win-swags-for-quality-contributions-3o22)
+- [Restful API with Golang practical approach](https://dev.to/firdavs_kasymov/restful-api-with-golang-practical-approach-420a)
+- [Kotlin Spring WebFlux, R2DBC and Redisson microservice in k8s 👋✨💫](https://dev.to/aleksk1ng/kotlin-spring-webflux-r2dbc-and-redisson-microservice-in-k8s-p98)
 <!-- BLOG-POST-LIST:END -->
 
