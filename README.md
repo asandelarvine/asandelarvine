@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Success?](https://dev.to/devsyedmohsin/what-is-success-52i8)
 - [FLiP Stack Weekly #53](https://dev.to/tspannhw/flip-stack-weekly-53-5a7a)
 - [5 devtools tips you may want to know 🚀](https://dev.to/mustapha/5-devtools-tips-you-may-want-to-know-274h)
-- [The 3 Short October tips about UX&amp;A11y](https://dev.to/melnik909/the-3-short-october-tips-about-uxa11y-32hi)
-- [How to Add Schema Markup in WordPress](https://dev.to/herryjobn/how-to-add-schema-markup-in-wordpress-1b6p)
+- [🔥Something Most People Don’t Know About Job Hunting🔥](https://dev.to/durguess/something-most-people-dont-know-about-job-hunting-4mnd)
 <!-- BLOG-POST-LIST:END -->
 
