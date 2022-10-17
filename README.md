@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vagrant for Beginners: Getting Started with Examples](https://dev.to/kennibravo/vagrant-for-beginners-getting-started-with-examples-jlm)
+- [🕶 What it takes to build a Static Analysis tool](https://dev.to/antoinecoulon/what-it-takes-to-build-a-static-analysis-tool-4p40)
 - [Handle quick phone authentication in Next.js using Appwrite and Twilio](https://dev.to/hackmamba/handle-quick-phone-authentication-in-nextjs-using-appwrite-and-twilio-569i)
 - [Hacktoberfest 2022: Win Swags for Quality Contributions](https://dev.to/astrodevil/hacktoberfest-2022-win-swags-for-quality-contributions-3o22)
-- [Restful API with Golang practical approach](https://dev.to/firdavs_kasymov/restful-api-with-golang-practical-approach-420a)
-- [Kotlin Spring WebFlux, R2DBC and Redisson microservice in k8s 👋✨💫](https://dev.to/aleksk1ng/kotlin-spring-webflux-r2dbc-and-redisson-microservice-in-k8s-p98)
 <!-- BLOG-POST-LIST:END -->
 
