@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source news and updates, #131](https://dev.to/aws/aws-open-source-news-and-updates-131-nci)
 - [How we developed our company website using NextJS](https://dev.to/josemukorivo/how-we-developed-our-company-website-using-nextjs-2ga5)
 - [Data Science: Project Structure](https://dev.to/azadkshitij/data-science-project-structure-5dh)
 - [How to write a good README](https://dev.to/merlos/how-to-write-a-good-readme-bog)
-- [Do you know these Software Engineering Terms?](https://dev.to/rahulbanerjee99/do-you-know-these-software-engineering-terms-156l)
 <!-- BLOG-POST-LIST:END -->
 
