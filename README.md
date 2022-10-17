@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Signatures From Scratch &lpar;4/4&rpar;: ECDSA Implementation in Python Using Zero Dependencies](https://dev.to/exemak/bitcoin-signatures-from-scratch-44-ecdsa-implementation-in-python-using-zero-dependencies-410c)
+- [Bitcoin Signatures From Scratch &lpar;2/4&rpar;: The Magic of Elliptic Curves Combined with Finite Fields](https://dev.to/exemak/bitcoin-signatures-from-scratch-24-the-magic-of-elliptic-curves-combined-with-finite-fields-249o)
+- [Bitcoin Signatures From Scratch &lpar;1/4&rpar;: The Magic of Elliptic Curves](https://dev.to/exemak/bitcoin-signatures-from-scratch-14-the-magic-of-elliptic-curves-2n7h)
 - [What is Success?](https://dev.to/devsyedmohsin/what-is-success-52i8)
-- [FLiP Stack Weekly #53](https://dev.to/tspannhw/flip-stack-weekly-53-5a7a)
-- [5 devtools tips you may want to know 🚀](https://dev.to/mustapha/5-devtools-tips-you-may-want-to-know-274h)
-- [🔥Something Most People Don’t Know About Job Hunting🔥](https://dev.to/durguess/something-most-people-dont-know-about-job-hunting-4mnd)
 <!-- BLOG-POST-LIST:END -->
 
