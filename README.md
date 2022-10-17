@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Trunk-Based Development](https://dev.to/marcelosousa/modern-trunk-based-development-2lle)
+- [JavaScript Slice Method in Depth](https://dev.to/refine/javascript-slice-method-in-depth-2h03)
 - [Meme Monday 🦑](https://dev.to/ben/meme-monday-1299)
 - [Best Repositories for beginners to contribute in Hacktoberfest](https://dev.to/seek4samurai/best-repositories-for-beginners-to-contribute-in-hacktoberfest-667)
-- [How to grow up and be noticed on your job](https://dev.to/vit0rr/how-to-grow-up-and-be-noticed-on-your-job-34kd)
-- [13 steps for perfect Authentication Flow in Backend](https://dev.to/shreyvijayvargiya/13-steps-for-perfect-authentication-flow-in-backend-3ad0)
 <!-- BLOG-POST-LIST:END -->
 
