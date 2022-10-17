@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
+- [How to Get Started With React – A Beginner&#39;s Guide Part -2](https://dev.to/rajivchaulagain/how-to-get-started-with-react-a-beginners-guidepart-2-269m)
 - [Vagrant for Beginners: Getting Started with Examples](https://dev.to/kennibravo/vagrant-for-beginners-getting-started-with-examples-jlm)
 - [🕶 What it takes to build a Static Analysis tool](https://dev.to/antoinecoulon/what-it-takes-to-build-a-static-analysis-tool-4p40)
-- [Handle quick phone authentication in Next.js using Appwrite and Twilio](https://dev.to/hackmamba/handle-quick-phone-authentication-in-nextjs-using-appwrite-and-twilio-569i)
-- [Hacktoberfest 2022: Win Swags for Quality Contributions](https://dev.to/astrodevil/hacktoberfest-2022-win-swags-for-quality-contributions-3o22)
 <!-- BLOG-POST-LIST:END -->
 
