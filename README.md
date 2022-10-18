@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bootstrap vs Tailwind CSS - what are the differences and which one should you choose?](https://dev.to/themesberg/bootstrap-vs-tailwind-css-what-are-the-differences-and-which-one-should-you-choose-3061)
+- [Internal Security](https://dev.to/codenameone/internal-security-17go)
+- [How a Senior can be more helpful on company](https://dev.to/woovi/how-a-senior-can-be-more-helpful-on-company-1p4d)
 - [In One Minute : React](https://dev.to/rakeshkr2/in-one-minute-react-548m)
-- [Google&#39;s New Programing Language : Carbon](https://dev.to/mavensingh/googles-new-programing-language-carbon-29fk)
-- [How to Set Up a Fullstack Rust Project with Axum, React, Vite, and Shared Types](https://dev.to/alexeagleson/how-to-set-up-a-fullstack-rust-project-with-axum-react-vite-and-shared-types-429e)
-- [How to Build a Rust CLI Tool to Generate Typescript Types from Rust](https://dev.to/alexeagleson/how-to-build-a-rust-cli-tool-to-generate-typescript-types-from-rust-20cm)
 <!-- BLOG-POST-LIST:END -->
 
