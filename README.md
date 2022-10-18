@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Sum IV - Input is a BST](https://dev.to/zeeshanali0704/two-sum-iv-input-is-a-bst-1o3d)
+- [A little post on JS loops](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
+- [React: Installation &amp; Setup](https://dev.to/timothyrobards/react-installation-setup-51c9)
 - [Build framework-agnostic components with Mitosis](https://dev.to/nickytonline/build-framework-agnostic-components-with-mitosis-4c4k)
-- [The Ultimate Guide to Product-Led Growth: A Framework for Growth that Sticks](https://dev.to/factors_ai/the-ultimate-guide-to-product-led-growth-a-framework-for-growth-that-sticks-4oe1)
-- [React: What is it and how does it work](https://dev.to/albericojr/react-what-is-it-and-how-does-it-work-4pd7)
-- [HotReload with Ruby on Rails 7](https://dev.to/gs/hotreload-with-ruby-on-rails-7-3g1l)
 <!-- BLOG-POST-LIST:END -->
 
