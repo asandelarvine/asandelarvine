@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2loc)
 - [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
 - [A Deep Dive into Connecting FastAPI with SingleStore.](https://dev.to/wiseai/a-deep-dive-into-connecting-fastapi-with-singlestore-2dn8)
 - [Signs that your PHP code needs refactoring](https://dev.to/jmau111/signs-that-your-php-code-needs-refactoring-5enf)
-- [How to search for Tweets about various &#39;Topics&#39; using the Twitter API v2](https://dev.to/suhemparack/how-to-search-for-tweets-about-various-topics-using-the-twitter-api-v2-3p86)
 <!-- BLOG-POST-LIST:END -->
 
