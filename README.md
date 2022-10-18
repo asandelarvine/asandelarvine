@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The REAL implementation of Firebase Cloud Messaging on the Backend side](https://dev.to/nicolkill/the-real-implementation-of-firebase-cloud-messaging-on-the-backend-side-3iib)
+- [Making the site responsive - part 11](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
 - [Two Sum IV - Input is a BST](https://dev.to/zeeshanali0704/two-sum-iv-input-is-a-bst-1o3d)
 - [A little post on JS loops](https://dev.to/geomukkath/a-little-post-on-js-loops-ki0)
-- [React: Installation &amp; Setup](https://dev.to/timothyrobards/react-installation-setup-51c9)
-- [Build framework-agnostic components with Mitosis](https://dev.to/nickytonline/build-framework-agnostic-components-with-mitosis-4c4k)
 <!-- BLOG-POST-LIST:END -->
 
