@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Email: how to be GDPR compliant?](https://dev.to/liombe/email-how-to-be-gdpr-compliant-bj)
 - [4 Key Design Principles and Guarantees of Streaming Database](https://dev.to/memphis_dev/4-key-design-principles-and-guarantees-of-streaming-database-1b77)
-- [10 Visual Studio 2022 Themes you Should Try &lpar;Free Themes!&rpar;✔️](https://dev.to/bytehide/10-visual-studio-2022-themes-you-should-try-free-themes-1f4n)
-- [The REAL implementation of Firebase Cloud Messaging on the Backend side](https://dev.to/nicolkill/the-real-implementation-of-firebase-cloud-messaging-on-the-backend-side-3iib)
-- [Making the site responsive - part 11](https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9)
+- [12 FREE Cybersecurity certifications.](https://dev.to/areedev/12-free-cybersecurity-certifications-1b7d)
+- [Hacktoberfest: Contributing to React project](https://dev.to/this_mkhy/hacktoberfest-contributing-to-react-project-2b47)
 <!-- BLOG-POST-LIST:END -->
 
