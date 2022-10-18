@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SemVer is Dead. Long Live SemVer!](https://dev.to/solidi/semver-is-dead-long-live-semver-4lh4)
-- [What is CORS?](https://dev.to/jpomykala/what-is-cors-11kf)
-- [Learn JS by building a stop watch](https://dev.to/tanzirulhuda/learn-js-by-building-a-stop-watch-4k25)
-- [4 Key Design Principles and Guarantees of Streaming Database](https://dev.to/memphis_dev/4-key-design-principles-and-guarantees-of-streaming-database-1b77)
+- [I made an admin dashboard for NextJS using Typescript! Use it for free!](https://dev.to/fredy/i-made-an-admin-dashboard-for-nextjs-using-typescript-use-it-for-free-52a7)
+- [Chaos Engineering - Un monde de destruction ?!](https://dev.to/mxglt/chaos-engineering-un-monde-de-destruction--2c1n)
+- [Top 14 ELK alternatives[Open Source included] in 2022](https://dev.to/signoz/top-14-elk-alternativesopen-source-included-in-2022-1clh)
+- [Virtual Nurse App Development: Guide, Features &amp; Trends](https://dev.to/kuldeeptarapara/virtual-nurse-app-development-guide-features-trends-1o6c)
 <!-- BLOG-POST-LIST:END -->
 
