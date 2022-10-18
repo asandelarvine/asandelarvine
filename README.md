@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The shaky foundation of our time - one year after Facebook’s major outage](https://dev.to/zhiyand/the-shaky-foundation-of-our-time-one-year-after-facebooks-major-outage-48lo)
+- [7 Tips for job hunting from my personal experience](https://dev.to/aneeqakhan/7-tips-for-job-hunting-from-my-personal-experience-3f04)
 - [Bootstrap vs Tailwind CSS - what are the differences and which one should you choose?](https://dev.to/themesberg/bootstrap-vs-tailwind-css-what-are-the-differences-and-which-one-should-you-choose-3061)
 - [Internal Security](https://dev.to/codenameone/internal-security-17go)
-- [How a Senior can be more helpful on company](https://dev.to/woovi/how-a-senior-can-be-more-helpful-on-company-1p4d)
-- [In One Minute : React](https://dev.to/rakeshkr2/in-one-minute-react-548m)
 <!-- BLOG-POST-LIST:END -->
 
