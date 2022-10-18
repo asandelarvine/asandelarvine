@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Newcontent.ai](https://dev.to/thedailyeng/newcontentai-4den)
 - [Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout](https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2loc)
 - [Ditch Google Analytics for Plausible Analytics on Amazon Lightsail](https://dev.to/aws/ditch-google-analytics-for-plausible-analytics-on-amazon-lightsail-1jd9)
-- [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
 <!-- BLOG-POST-LIST:END -->
 
