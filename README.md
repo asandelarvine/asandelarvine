@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
+- [A Deep Dive into Connecting FastAPI with SingleStore.](https://dev.to/wiseai/a-deep-dive-into-connecting-fastapi-with-singlestore-2dn8)
 - [Signs that your PHP code needs refactoring](https://dev.to/jmau111/signs-that-your-php-code-needs-refactoring-5enf)
 - [How to search for Tweets about various &#39;Topics&#39; using the Twitter API v2](https://dev.to/suhemparack/how-to-search-for-tweets-about-various-topics-using-the-twitter-api-v2-3p86)
-- [The shaky foundation of our time - one year after Facebook’s major outage](https://dev.to/zhiyand/the-shaky-foundation-of-our-time-one-year-after-facebooks-major-outage-48lo)
 <!-- BLOG-POST-LIST:END -->
 
