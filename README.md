@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
+- [Signs that your PHP code needs refactoring](https://dev.to/jmau111/signs-that-your-php-code-needs-refactoring-5enf)
+- [How to search for Tweets about various &#39;Topics&#39; using the Twitter API v2](https://dev.to/suhemparack/how-to-search-for-tweets-about-various-topics-using-the-twitter-api-v2-3p86)
 - [The shaky foundation of our time - one year after Facebook’s major outage](https://dev.to/zhiyand/the-shaky-foundation-of-our-time-one-year-after-facebooks-major-outage-48lo)
-- [7 Tips for job hunting from my personal experience](https://dev.to/aneeqakhan/7-tips-for-job-hunting-from-my-personal-experience-3f04)
-- [Bootstrap vs Tailwind CSS - what are the differences and which one should you choose?](https://dev.to/themesberg/bootstrap-vs-tailwind-css-what-are-the-differences-and-which-one-should-you-choose-3061)
-- [Internal Security](https://dev.to/codenameone/internal-security-17go)
 <!-- BLOG-POST-LIST:END -->
 
