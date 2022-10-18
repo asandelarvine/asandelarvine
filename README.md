@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Email: how to be GDPR compliant?](https://dev.to/liombe/email-how-to-be-gdpr-compliant-bj)
+- [SemVer is Dead. Long Live SemVer!](https://dev.to/solidi/semver-is-dead-long-live-semver-4lh4)
+- [What is CORS?](https://dev.to/jpomykala/what-is-cors-11kf)
+- [Learn JS by building a stop watch](https://dev.to/tanzirulhuda/learn-js-by-building-a-stop-watch-4k25)
 - [4 Key Design Principles and Guarantees of Streaming Database](https://dev.to/memphis_dev/4-key-design-principles-and-guarantees-of-streaming-database-1b77)
-- [12 FREE Cybersecurity certifications.](https://dev.to/areedev/12-free-cybersecurity-certifications-1b7d)
-- [Hacktoberfest: Contributing to React project](https://dev.to/this_mkhy/hacktoberfest-contributing-to-react-project-2b47)
 <!-- BLOG-POST-LIST:END -->
 
