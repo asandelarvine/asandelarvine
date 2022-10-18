@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 170 - Refactor with Functional Changes](https://dev.to/mcsee/code-smell-170-refactor-with-functional-changes-4e13)
+- [Declarative Server &amp; Client Code to Enable Linting and Splitting.](https://dev.to/reggi/filekinds-proposal-rules-for-files-and-folders-bmp)
+- [9 Shopify App Integrations to Create the Ultimate Store](https://dev.to/devinpickell/9-shopify-app-integrations-to-create-the-ultimate-store-nk8)
 - [Newcontent.ai](https://dev.to/thedailyeng/newcontentai-4den)
-- [Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout](https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2loc)
-- [Ditch Google Analytics for Plausible Analytics on Amazon Lightsail](https://dev.to/aws/ditch-google-analytics-for-plausible-analytics-on-amazon-lightsail-1jd9)
 <!-- BLOG-POST-LIST:END -->
 
