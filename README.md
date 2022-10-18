@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sky Cart: An Open Source, cloud-agnostic shopping cart using Stripe Checkout](https://dev.to/stripe/sky-cart-an-open-source-cloud-agnostic-shopping-cart-using-stripe-checkout-o5k)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2loc)
+- [Ditch Google Analytics for Plausible Analytics on Amazon Lightsail](https://dev.to/aws/ditch-google-analytics-for-plausible-analytics-on-amazon-lightsail-1jd9)
 - [I made a full-stack and type-safe personal site using the t3-stack &lpar;Next.js&rpar;!](https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d)
-- [A Deep Dive into Connecting FastAPI with SingleStore.](https://dev.to/wiseai/a-deep-dive-into-connecting-fastapi-with-singlestore-2dn8)
-- [Signs that your PHP code needs refactoring](https://dev.to/jmau111/signs-that-your-php-code-needs-refactoring-5enf)
 <!-- BLOG-POST-LIST:END -->
 
