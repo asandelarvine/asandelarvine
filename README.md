@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build framework-agnostic components with Mitosis](https://dev.to/nickytonline/build-framework-agnostic-components-with-mitosis-4c4k)
+- [The Ultimate Guide to Product-Led Growth: A Framework for Growth that Sticks](https://dev.to/factors_ai/the-ultimate-guide-to-product-led-growth-a-framework-for-growth-that-sticks-4oe1)
+- [React: What is it and how does it work](https://dev.to/albericojr/react-what-is-it-and-how-does-it-work-4pd7)
 - [HotReload with Ruby on Rails 7](https://dev.to/gs/hotreload-with-ruby-on-rails-7-3g1l)
-- [Javascript Array Filter Method](https://dev.to/smpnjn/javascript-array-filter-method-28hg)
-- [The Essential SDLC Security Checklist](https://dev.to/yayabobi/the-essential-sdlc-security-checklist-247j)
-- [Bitcoin Signatures From Scratch &lpar;4/4&rpar;: ECDSA Implementation in Python Using Zero Dependencies](https://dev.to/exemak/bitcoin-signatures-from-scratch-44-ecdsa-implementation-in-python-using-zero-dependencies-410c)
 <!-- BLOG-POST-LIST:END -->
 
