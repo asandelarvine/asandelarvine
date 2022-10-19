@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON in Different Languages](https://dev.to/jessekphillips/json-in-different-languages-3in3)
-- [React Optimizing Compiler &lpar;without memo&rpar;](https://dev.to/chandramarch18/react-optimizing-compiler-without-memo-1n3o)
-- [Using YubiKey resident keys for Git and SSH on macOS](https://dev.to/tw3n/using-yubikey-resident-keys-for-git-and-ssh-on-macos-48j7)
-- [Kubernetes Volumes: What They Are and How to Use Them](https://dev.to/elanderholm/kubernetes-volumes-what-they-are-and-how-to-use-them-348a)
+- [In One Minute : PostgreSQL](https://dev.to/rakeshkr2/in-one-minute-postgresql-2f7e)
+- [Learn Automation in Python with 7 Projects](https://dev.to/bekbrace/learn-automation-in-python-with-7-projects-dd3)
+- [Purity injection in Elixir](https://dev.to/katafrakt/purity-injection-in-elixir-2dpa)
+- [React Pro Tip #2 — How to Type `this.props` to Include `defaultProps`](https://dev.to/deckstar/react-pro-tip-2-how-to-type-thisprops-to-include-defaultprops-46l5)
 <!-- BLOG-POST-LIST:END -->
 
