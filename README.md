@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⭐Build A Feature Rich Crypto Screener App with React JS + Tailwind CSS](https://dev.to/codebucks/build-a-feature-rich-crypto-screener-app-with-react-js-tailwind-css-2i3c)
-- [My RISC-V OSDev journey, so far](https://dev.to/donaldsebleung/my-risc-v-osdev-journey-so-far-5eok)
-- [Quasar Admin CRM New Version [Premium] .. Quasar 2/Vue 3](https://dev.to/mayank091193/quasar-admin-crm-new-version-premium-quasar-2vue-3-59m9)
-- [Material UI AutoComplete in React](https://dev.to/refine/material-ui-autocomplete-in-react-1ip6)
+- [How Engineering managers can improve onboarding for new developers](https://dev.to/surajondev/how-engineering-managers-can-improve-onboarding-for-new-developers-10a0)
+- [Cost Advisor: Optimize and Rightsize your Kubernetes Costs](https://dev.to/sysdig/cost-advisor-optimize-and-rightsize-your-kubernetes-costs-2cd9)
+- [How to Use Maven Profiles to Selectively Activate Plugins and Other Configuration from the Command Line](https://dev.to/cicirello/how-to-use-maven-profiles-to-selectively-activate-plugins-and-other-configuration-from-the-command-line-2i2b)
+- [How to use JWT to Authenticate Your API](https://dev.to/blst-security/how-to-use-jwt-to-authenticate-your-api-58lc)
 <!-- BLOG-POST-LIST:END -->
 
