@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ Tutorial - Back up data on Microsoft Cloud with Synology Active Backup](https://dev.to/hunghvu/tutorial-back-up-data-on-microsoft-cloud-with-synology-active-backup-320j)
-- [Defender for DevOps on GitHub &lpar;Terrascan edition&rpar;](https://dev.to/pwd9000/defender-for-devops-on-github-terrascan-edition-45bd)
-- [This Post is Scheduled for 11:30am US Eastern Time ⏰](https://dev.to/devteam/this-post-is-scheduled-for-1130am-299k)
-- [Welcome Thread - v196](https://dev.to/thepracticaldev/welcome-thread-v196-5eop)
+- [JSON in Different Languages](https://dev.to/jessekphillips/json-in-different-languages-3in3)
+- [React Optimizing Compiler &lpar;without memo&rpar;](https://dev.to/chandramarch18/react-optimizing-compiler-without-memo-1n3o)
+- [Using YubiKey resident keys for Git and SSH on macOS](https://dev.to/tw3n/using-yubikey-resident-keys-for-git-and-ssh-on-macos-48j7)
+- [Kubernetes Volumes: What They Are and How to Use Them](https://dev.to/elanderholm/kubernetes-volumes-what-they-are-and-how-to-use-them-348a)
 <!-- BLOG-POST-LIST:END -->
 
