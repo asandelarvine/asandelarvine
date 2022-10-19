@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #220: use RFC, Sandpack, Storybook, React-Native, Codeflow, Fontaine, Unplugin, Node.js 19, TypeRunner...](https://dev.to/sebastienlorber/this-week-in-react-220-use-rfc-sandpack-storybook-react-native-codeflow-fontaine-unplugin-nodejs-19-typerunner-20lf)
+- [Trigger real-time in-app e-commerce campaigns in Flutter](https://dev.to/hackmamba/trigger-real-time-in-app-e-commerce-campaigns-in-flutter-nh5)
+- [How to find the version of an installed npm package?](https://dev.to/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package-3hfh)
 - [The components of a browser](https://dev.to/huytaquoc/the-components-of-a-browser-23mn)
-- [Introductory Video ~ 51p7](https://dev.to/patilganesh1010/introductory-video-51p7-2hoi)
-- [Closer look at Tolgee](https://dev.to/patilganesh1010/closer-look-at-tolgee-5b91)
-- [RPM Sistemlerde NFS Sunucusu Oluşturma](https://dev.to/aciklab/rpm-sistemlerde-nfs-sunucusu-olusturma-1p53)
 <!-- BLOG-POST-LIST:END -->
 
