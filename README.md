@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Article that shows devto formatting variants.](https://dev.to/ytskk/article-that-shows-devto-formatting-variants-47n9)
-- [We&#39;ve passed a 10 PR milestone to our repo during HacktoberFest](https://dev.to/wasp/weve-passed-a-10-pr-milestone-to-our-repo-during-hacktoberfest-2nhj)
-- [This Week In React #220: use RFC, Sandpack, Storybook, React-Native, Codeflow, Fontaine, Unplugin, Node.js 19, TypeRunner...](https://dev.to/sebastienlorber/this-week-in-react-220-use-rfc-sandpack-storybook-react-native-codeflow-fontaine-unplugin-nodejs-19-typerunner-20lf)
-- [7 Tips for programmers by memes](https://dev.to/itaikla/7-tips-for-programmers-by-memes-5405)
+- [⭐Build A Feature Rich Crypto Screener App with React JS + Tailwind CSS](https://dev.to/codebucks/build-a-feature-rich-crypto-screener-app-with-react-js-tailwind-css-2i3c)
+- [My RISC-V OSDev journey, so far](https://dev.to/donaldsebleung/my-risc-v-osdev-journey-so-far-5eok)
+- [Quasar Admin CRM New Version [Premium] .. Quasar 2/Vue 3](https://dev.to/mayank091193/quasar-admin-crm-new-version-premium-quasar-2vue-3-59m9)
+- [Material UI AutoComplete in React](https://dev.to/refine/material-ui-autocomplete-in-react-1ip6)
 <!-- BLOG-POST-LIST:END -->
 
