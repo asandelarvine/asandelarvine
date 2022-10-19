@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [☁️ Tutorial - Back up data on Microsoft Cloud with Synology Active Backup](https://dev.to/hunghvu/tutorial-back-up-data-on-microsoft-cloud-with-synology-active-backup-320j)
+- [Defender for DevOps on GitHub &lpar;Terrascan edition&rpar;](https://dev.to/pwd9000/defender-for-devops-on-github-terrascan-edition-45bd)
+- [This Post is Scheduled for 11:30am US Eastern Time ⏰](https://dev.to/devteam/this-post-is-scheduled-for-1130am-299k)
 - [Welcome Thread - v196](https://dev.to/thepracticaldev/welcome-thread-v196-5eop)
-- [Linux Makinalarda NFS Sunucu Mount Etme &lpar;Debian ve RPM &rpar;](https://dev.to/aciklab/linux-makinalarda-nfs-sunucu-mount-etme-debian-ve-rpm--1bja)
-- [How Engineering managers can improve onboarding for new developers](https://dev.to/surajondev/how-engineering-managers-can-improve-onboarding-for-new-developers-10a0)
-- [Django &amp; Stripe - Open-Source Mini eCommerce](https://dev.to/sm0ke/django-stripe-open-source-mini-ecommerce-3o5j)
 <!-- BLOG-POST-LIST:END -->
 
