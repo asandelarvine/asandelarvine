@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Generate a Blog with OpenAI](https://dev.to/codedex/generate-a-blog-with-openai-5eio)
+- [How To Create A Ruby On Rails API With Scaffold - Full 10 Step Guide In 5 Minutes](https://dev.to/elliotmangini/how-to-create-a-rails-api-with-scaffold-full-10-step-guide-in-5-minutes-29a5)
 - [In One Minute : PostgreSQL](https://dev.to/rakeshkr2/in-one-minute-postgresql-2f7e)
 - [Learn Automation in Python with 7 Projects](https://dev.to/bekbrace/learn-automation-in-python-with-7-projects-dd3)
-- [Purity injection in Elixir](https://dev.to/katafrakt/purity-injection-in-elixir-2dpa)
-- [React Pro Tip #2 — How to Type `this.props` to Include `defaultProps`](https://dev.to/deckstar/react-pro-tip-2-how-to-type-thisprops-to-include-defaultprops-46l5)
 <!-- BLOG-POST-LIST:END -->
 
