@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [CSS columns 🎨](https://dev.to/duxtech/css-columns-4c2)
+- [ORM Eloquent: Model](https://dev.to/marciopolicarpo/orm-eloquent-model-361g)
 - [Code Smell 170 - Refactor with Functional Changes](https://dev.to/mcsee/code-smell-170-refactor-with-functional-changes-4e13)
 - [Declarative Server &amp; Client Code to Enable Linting and Splitting.](https://dev.to/reggi/filekinds-proposal-rules-for-files-and-folders-bmp)
-- [9 Shopify App Integrations to Create the Ultimate Store](https://dev.to/devinpickell/9-shopify-app-integrations-to-create-the-ultimate-store-nk8)
 <!-- BLOG-POST-LIST:END -->
 
