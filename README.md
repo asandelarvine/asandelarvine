@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Debian Sistemlerde NFS Sunucusu Oluşturma](https://dev.to/aciklab/debian-sistemlerde-nfs-sunucusu-olusturma-2pij)
+- [Weekly web development resources #120](https://dev.to/vincenius/weekly-web-development-resources-120-4clh)
 - [Loading local markdown blog posts - part 12](https://dev.to/dailydevtips1/loading-local-markdown-blog-posts-part-12-221g)
 - [CSS columns 🎨](https://dev.to/duxtech/css-columns-4c2)
-- [ORM Eloquent: Model](https://dev.to/marciopolicarpo/orm-eloquent-model-361g)
 <!-- BLOG-POST-LIST:END -->
 
