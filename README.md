@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v196](https://dev.to/thepracticaldev/welcome-thread-v196-5eop)
+- [Linux Makinalarda NFS Sunucu Mount Etme &lpar;Debian ve RPM &rpar;](https://dev.to/aciklab/linux-makinalarda-nfs-sunucu-mount-etme-debian-ve-rpm--1bja)
 - [How Engineering managers can improve onboarding for new developers](https://dev.to/surajondev/how-engineering-managers-can-improve-onboarding-for-new-developers-10a0)
-- [Cost Advisor: Optimize and Rightsize your Kubernetes Costs](https://dev.to/sysdig/cost-advisor-optimize-and-rightsize-your-kubernetes-costs-2cd9)
-- [How to Use Maven Profiles to Selectively Activate Plugins and Other Configuration from the Command Line](https://dev.to/cicirello/how-to-use-maven-profiles-to-selectively-activate-plugins-and-other-configuration-from-the-command-line-2i2b)
-- [How to use JWT to Authenticate Your API](https://dev.to/blst-security/how-to-use-jwt-to-authenticate-your-api-58lc)
+- [Django &amp; Stripe - Open-Source Mini eCommerce](https://dev.to/sm0ke/django-stripe-open-source-mini-ecommerce-3o5j)
 <!-- BLOG-POST-LIST:END -->
 
