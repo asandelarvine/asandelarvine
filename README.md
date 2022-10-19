@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introductory Video ~ 51p7](https://dev.to/patilganesh1010/introductory-video-51p7-2hoi)
+- [Closer look at Tolgee](https://dev.to/patilganesh1010/closer-look-at-tolgee-5b91)
+- [RPM Sistemlerde NFS Sunucusu Oluşturma](https://dev.to/aciklab/rpm-sistemlerde-nfs-sunucusu-olusturma-1p53)
 - [Debian Sistemlerde NFS Sunucusu Oluşturma](https://dev.to/aciklab/debian-sistemlerde-nfs-sunucusu-olusturma-2pij)
-- [Weekly web development resources #120](https://dev.to/vincenius/weekly-web-development-resources-120-4clh)
-- [Loading local markdown blog posts - part 12](https://dev.to/dailydevtips1/loading-local-markdown-blog-posts-part-12-221g)
-- [CSS columns 🎨](https://dev.to/duxtech/css-columns-4c2)
 <!-- BLOG-POST-LIST:END -->
 
