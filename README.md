@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Add Event Listener to Multiple Elements](https://dev.to/smpnjn/javascript-add-event-listener-to-multiple-elements-2jah)
+- [Typed Forms in Angular](https://dev.to/blove/typed-forms-in-angular-334c)
 - [How to Configure the Touch Bar in Visual Studio Code in Under 5 Minutes](https://dev.to/p42/how-to-configure-the-touch-bar-in-visual-studio-code-in-under-5-minutes-50lm)
 - [How a stupid idea became a startup aka. #YetAnotherNotepadApp](https://dev.to/jakubmikita/how-a-stupid-idea-became-a-startup-aka-yetanothernotepadapp-3e7h)
-- [Announcing Strapi Cloud Beta](https://dev.to/strapijs/announcing-strapi-cloud-beta-57d5)
-- [I just published the longest Article in the History of Medium.com](https://dev.to/mariostopfer/i-just-published-the-longestarticle-in-the-history-of-medium-2jd7)
 <!-- BLOG-POST-LIST:END -->
 
