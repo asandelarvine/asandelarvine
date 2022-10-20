@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Appwrite OSS Fund Sponsors Presentator](https://dev.to/appwrite/appwrite-oss-fund-sponsors-presentator-4ndm)
-- [OpenTelemetry Logs - A Complete Introduction &amp; Implementation](https://dev.to/signoz/opentelemetry-logs-a-complete-introduction-implementation-48nk)
-- [Create your first piece of CSS art from scratch.](https://dev.to/hr21don/create-your-first-piece-of-css-art-from-scratch-fm9)
-- [Three ways to scale your Database &lpar;Replication vs Sharding vs Partitioning&rpar;](https://dev.to/amrelmohamady/three-ways-to-scale-your-database-replication-vs-sharding-vs-partitioning-1en7)
+- [In One Minute : Amazon DynamoDB](https://dev.to/rakeshkr2/in-one-minute-amazon-dynamodb-1gak)
+- [Introducing the CodeSandbox GitHub App](https://dev.to/codesandboxio/introducing-the-codesandbox-github-app-50gi)
+- [Testing The Endpoints 🧪](https://dev.to/janedzumerko/testing-the-endpoints-2ipg)
+- [Handlers and Endpoints 🧶](https://dev.to/janedzumerko/handlers-and-endpoints-24ji)
 <!-- BLOG-POST-LIST:END -->
 
