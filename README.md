@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Soft skills, why are they so important?](https://dev.to/romaixn/soft-skills-why-are-they-so-important-52b1)
-- [Why Google Build Zanzibar ?](https://dev.to/egeaytin/why-google-build-zanzibar--3kp5)
-- [Refactoring Tools: How to Search for Bad Code](https://dev.to/bespoyasov/refactoring-tools-how-to-search-for-bad-code-4hmc)
-- [In One Minute : Amazon DynamoDB](https://dev.to/rakeshkr2/in-one-minute-amazon-dynamodb-1gak)
+- [Building a startup &lpar;build log 2#&rpar;: Authenticating students with Supabase](https://dev.to/paul_emechebe/building-a-startup-build-log-2-authenticating-users-with-supabase-1p1b)
+- [How to Build &amp; Deploy Smart Contracts on Archethic?](https://dev.to/archethic/how-to-build-deploy-smart-contracts-on-archethic-3f22)
+- [Speeding up ReScript compilation using interface files](https://dev.to/zth/speeding-up-rescript-compilation-using-interface-files-4fgn)
+- [Casper Kafka Event Store Pt 1](https://dev.to/asladeofgreen/casper-kafka-event-store-pt-1-lk8)
 <!-- BLOG-POST-LIST:END -->
 
