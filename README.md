@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Soft skills, why are they so important?](https://dev.to/romaixn/soft-skills-why-are-they-so-important-52b1)
+- [Why Google Build Zanzibar ?](https://dev.to/egeaytin/why-google-build-zanzibar--3kp5)
+- [Refactoring Tools: How to Search for Bad Code](https://dev.to/bespoyasov/refactoring-tools-how-to-search-for-bad-code-4hmc)
 - [In One Minute : Amazon DynamoDB](https://dev.to/rakeshkr2/in-one-minute-amazon-dynamodb-1gak)
-- [Introducing the CodeSandbox GitHub App](https://dev.to/codesandboxio/introducing-the-codesandbox-github-app-50gi)
-- [Testing The Endpoints 🧪](https://dev.to/janedzumerko/testing-the-endpoints-2ipg)
-- [Handlers and Endpoints 🧶](https://dev.to/janedzumerko/handlers-and-endpoints-24ji)
 <!-- BLOG-POST-LIST:END -->
 
