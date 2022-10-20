@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React: How does useDeferredValue and useTransition work ?](https://dev.to/linhbui167/how-does-usedeferredvalue-and-usetransition-work--31fp)
-- [On persistence, collaboration, trial and error - Hacktoberfest 2022 🚀🌟🔧](https://dev.to/saminarp/on-persistence-collaboration-trial-and-error-hacktoberfest-2022-3igh)
-- [Why Classes Should Be Sealed in .Net Explained](https://dev.to/frederik_vl/why-classes-should-be-sealed-in-net-explained-jgg)
-- [Let&#39;s print fibonacci series with js with all explanation and problem solving.](https://dev.to/rajivchaulagain/lets-print-fibonacci-series-with-js-with-all-explanation-and-problem-solving-c2n)
+- [Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
+- [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
+- [10 Trending Github repositories / October, 20 2022](https://dev.to/reviewgithub/10-trending-github-repositories-october-20-2022-238i)
+- [How my obsession drove me to re-engineer a different type of FlatList, I called it &quot;NestedLists&quot;.](https://dev.to/olawalethefirst/how-my-obsession-drove-me-to-re-engineer-a-different-type-of-flatlist-i-called-it-nestedlists-2i21)
 <!-- BLOG-POST-LIST:END -->
 
