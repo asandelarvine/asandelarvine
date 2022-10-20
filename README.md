@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Configure the Touch Bar in Visual Studio Code in Under 5 Minutes](https://dev.to/p42/how-to-configure-the-touch-bar-in-visual-studio-code-in-under-5-minutes-50lm)
 - [How a stupid idea became a startup aka. #YetAnotherNotepadApp](https://dev.to/jakubmikita/how-a-stupid-idea-became-a-startup-aka-yetanothernotepadapp-3e7h)
+- [Announcing Strapi Cloud Beta](https://dev.to/strapijs/announcing-strapi-cloud-beta-57d5)
 - [I just published the longest Article in the History of Medium.com](https://dev.to/mariostopfer/i-just-published-the-longestarticle-in-the-history-of-medium-2jd7)
-- [Top 7 common challenges of end-to-end testing and how to overcome them?](https://dev.to/jennife05918349/top-7-common-challenges-of-end-to-end-testing-and-how-to-overcome-them-1kpg)
-- [Building a startup &lpar;build log 2#&rpar;: Authenticating students with Supabase](https://dev.to/paul_emechebe/building-a-startup-build-log-2-authenticating-users-with-supabase-1p1b)
 <!-- BLOG-POST-LIST:END -->
 
