@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React: How does useDeferredValue and useTransition work ?](https://dev.to/linhbui167/how-does-usedeferredvalue-and-usetransition-work--31fp)
 - [On persistence, collaboration, trial and error - Hacktoberfest 2022 🚀🌟🔧](https://dev.to/saminarp/on-persistence-collaboration-trial-and-error-hacktoberfest-2022-3igh)
 - [Why Classes Should Be Sealed in .Net Explained](https://dev.to/frederik_vl/why-classes-should-be-sealed-in-net-explained-jgg)
 - [Let&#39;s print fibonacci series with js with all explanation and problem solving.](https://dev.to/rajivchaulagain/lets-print-fibonacci-series-with-js-with-all-explanation-and-problem-solving-c2n)
-- [Why use Go for Hacking](https://dev.to/mavensingh/why-use-go-for-hacking-mmo)
 <!-- BLOG-POST-LIST:END -->
 
