@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [On persistence, collaboration, trial and error - Hacktoberfest 2022 🚀🌟🔧](https://dev.to/saminarp/on-persistence-collaboration-trial-and-error-hacktoberfest-2022-3igh)
+- [Why Classes Should Be Sealed in .Net Explained](https://dev.to/frederik_vl/why-classes-should-be-sealed-in-net-explained-jgg)
+- [Let&#39;s print fibonacci series with js with all explanation and problem solving.](https://dev.to/rajivchaulagain/lets-print-fibonacci-series-with-js-with-all-explanation-and-problem-solving-c2n)
 - [Why use Go for Hacking](https://dev.to/mavensingh/why-use-go-for-hacking-mmo)
-- [Emacs as RSS reader.](https://dev.to/tell396/emacs-as-a-rss-reader-2blj)
-- [Creating individual markdown blog pages - part 13](https://dev.to/dailydevtips1/creating-individual-markdown-blog-pages-part-13-5flc)
-- [Closer look at Metacall](https://dev.to/patilganesh1010/closer-look-at-metacall-3k3h)
 <!-- BLOG-POST-LIST:END -->
 
