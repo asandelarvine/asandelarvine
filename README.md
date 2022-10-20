@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Superfast search with RediSearch](https://dev.to/solegaonkar/superfast-search-with-redisearch-fch)
+- [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
+- [Low-Code and Software Quality](https://dev.to/polterguy/low-code-and-software-quality-3b4g)
 - [Run your README.md like a notebook in VS Code](https://dev.to/sourishkrout/run-your-readmemd-in-vs-code-50l7)
-- [Managing Your Distributed Node.js Application Environment and Configuration](https://dev.to/yugabyte/managing-your-distributed-nodejs-application-environment-and-configuration-236c)
-- [We&#39;re blessed to work as Developers 🙏🏻🙏🏻](https://dev.to/kristianlentino99/were-blessed-to-work-as-developers-fa2)
-- [Generate a Blog with OpenAI](https://dev.to/codedex/generate-a-blog-with-openai-5eio)
 <!-- BLOG-POST-LIST:END -->
 
