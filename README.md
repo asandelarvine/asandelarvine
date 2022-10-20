@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How a stupid idea became a startup aka. #YetAnotherNotepadApp](https://dev.to/jakubmikita/how-a-stupid-idea-became-a-startup-aka-yetanothernotepadapp-3e7h)
+- [I just published the longest Article in the History of Medium.com](https://dev.to/mariostopfer/i-just-published-the-longestarticle-in-the-history-of-medium-2jd7)
+- [Top 7 common challenges of end-to-end testing and how to overcome them?](https://dev.to/jennife05918349/top-7-common-challenges-of-end-to-end-testing-and-how-to-overcome-them-1kpg)
 - [Building a startup &lpar;build log 2#&rpar;: Authenticating students with Supabase](https://dev.to/paul_emechebe/building-a-startup-build-log-2-authenticating-users-with-supabase-1p1b)
-- [How to Build &amp; Deploy Smart Contracts on Archethic?](https://dev.to/archethic/how-to-build-deploy-smart-contracts-on-archethic-3f22)
-- [Speeding up ReScript compilation using interface files](https://dev.to/zth/speeding-up-rescript-compilation-using-interface-files-4fgn)
-- [Casper Kafka Event Store Pt 1](https://dev.to/asladeofgreen/casper-kafka-event-store-pt-1-lk8)
 <!-- BLOG-POST-LIST:END -->
 
