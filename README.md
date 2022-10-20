@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple React like button with Stylify CSS. From Utilities to Components, mangled selectors, and 50% smaller production build.](https://dev.to/machy8/simple-react-like-button-with-stylify-css-from-utilities-to-components-mangled-selectors-and-50-smaller-production-build-dg)
-- [How to Integrate Discord as Notification Provider in Medusa](https://dev.to/medusajs/how-to-integrate-discord-as-notification-provider-in-medusa-115g)
-- [10 Trending Github repositories / October, 20 2022](https://dev.to/reviewgithub/10-trending-github-repositories-october-20-2022-238i)
-- [How my obsession drove me to re-engineer a different type of FlatList, I called it &quot;NestedLists&quot;.](https://dev.to/olawalethefirst/how-my-obsession-drove-me-to-re-engineer-a-different-type-of-flatlist-i-called-it-nestedlists-2i21)
+- [Appwrite OSS Fund Sponsors Presentator](https://dev.to/appwrite/appwrite-oss-fund-sponsors-presentator-4ndm)
+- [OpenTelemetry Logs - A Complete Introduction &amp; Implementation](https://dev.to/signoz/opentelemetry-logs-a-complete-introduction-implementation-48nk)
+- [Create your first piece of CSS art from scratch.](https://dev.to/hr21don/create-your-first-piece-of-css-art-from-scratch-fm9)
+- [Three ways to scale your Database &lpar;Replication vs Sharding vs Partitioning&rpar;](https://dev.to/amrelmohamady/three-ways-to-scale-your-database-replication-vs-sharding-vs-partitioning-1en7)
 <!-- BLOG-POST-LIST:END -->
 
