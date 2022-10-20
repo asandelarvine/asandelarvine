@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why use Go for Hacking](https://dev.to/mavensingh/why-use-go-for-hacking-mmo)
+- [Emacs as RSS reader.](https://dev.to/tell396/emacs-as-a-rss-reader-2blj)
+- [Creating individual markdown blog pages - part 13](https://dev.to/dailydevtips1/creating-individual-markdown-blog-pages-part-13-5flc)
 - [Closer look at Metacall](https://dev.to/patilganesh1010/closer-look-at-metacall-3k3h)
-- [Deploy and Run Apache APISIX on Scaleway Cloud](https://dev.to/apisix/deploy-and-run-apache-apisix-on-scaleway-cloud-1fi)
-- [Superfast search with RediSearch](https://dev.to/solegaonkar/superfast-search-with-redisearch-fch)
-- [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec)
 <!-- BLOG-POST-LIST:END -->
 
