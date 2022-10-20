@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Performance comparison: Reduct Storage vs. Minio](https://dev.to/reduct-storage/performance-comparison-reduct-storage-vs-minio-533e)
+- [How Telescope made me a better Developer](https://dev.to/sirinoks/how-telescope-made-me-a-better-developer-2fdk)
 - [Do commit dates on GitHub matter for job applications?](https://dev.to/sloan/do-commit-dates-on-github-matter-for-job-applications-13a5)
 - [Be Grateful for JavaScript Arrays: A Comparison with C](https://dev.to/giantmachines/be-grateful-for-javascript-arrays-a-comparison-with-c-50n5)
-- [What are NodeLists, and how do they work?](https://dev.to/smpnjn/what-are-nodelists-and-how-do-they-work-ia9)
 <!-- BLOG-POST-LIST:END -->
 
