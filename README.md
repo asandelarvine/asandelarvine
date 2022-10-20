@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do commit dates on GitHub matter for job applications?](https://dev.to/sloan/do-commit-dates-on-github-matter-for-job-applications-13a5)
+- [What are NodeLists, and how do they work?](https://dev.to/smpnjn/what-are-nodelists-and-how-do-they-work-ia9)
 - [Javascript Add Event Listener to Multiple Elements](https://dev.to/smpnjn/javascript-add-event-listener-to-multiple-elements-2jah)
-- [Typed Forms in Angular](https://dev.to/blove/typed-forms-in-angular-334c)
-- [How to Configure the Touch Bar in Visual Studio Code in Under 5 Minutes](https://dev.to/p42/how-to-configure-the-touch-bar-in-visual-studio-code-in-under-5-minutes-50lm)
-- [How a stupid idea became a startup aka. #YetAnotherNotepadApp](https://dev.to/jakubmikita/how-a-stupid-idea-became-a-startup-aka-yetanothernotepadapp-3e7h)
+- [Building a Laravel App with TDD](https://dev.to/honeybadger/building-a-laravel-app-with-tdd-2a5f)
 <!-- BLOG-POST-LIST:END -->
 
