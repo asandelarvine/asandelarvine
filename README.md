@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dolt - SQL database for Git](https://dev.to/shreyvijayvargiya/dolt-sql-database-for-git-114m)
+- [Amazon DynamoDB NoSQL WorkBench](https://dev.to/aws-builders/amazon-dynamodb-nosql-workbench-fg6)
 - [How to Set up Facebook Pixel on Shopify](https://dev.to/gloriamaldonado/how-to-set-up-facebook-pixel-on-shopify-5aaf)
 - [AI learns how to land on the moon](https://dev.to/ashwinscode/teaching-an-ai-to-land-on-the-moon-5138)
-- [How React works behind the scenes](https://dev.to/amrtcrypto/how-react-works-behind-the-scenes-5e4k)
-- [Creating a generic posts function - part 14](https://dev.to/dailydevtips1/creating-a-generic-posts-function-part-14-3gfj)
 <!-- BLOG-POST-LIST:END -->
 
