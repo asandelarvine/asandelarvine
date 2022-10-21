@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check top RAM consuming processes on server with HotHost](https://dev.to/ivictbor/check-top-ram-consuming-processes-on-server-with-hothost-4cen)
-- [Currying Layout Component Patterns in Next.js](https://dev.to/ixartz/currying-layout-component-patterns-in-nextjs-4l1l)
-- [EKS Security Checklist: 10 Best Practices for a Secure Cluster](https://dev.to/castai/eks-security-checklist-10-best-practices-for-a-secure-cluster-5e85)
-- [Send email in Node.JS with Nodemailer using Gmail account](https://dev.to/documatic/send-email-in-nodejs-with-nodemailer-using-gmail-account-2gd1)
+- [Understanding Time zones](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
+- [In One Minute : HTML5](https://dev.to/rakeshkr2/in-one-minute-html5-4l86)
+- [Three types of managers - which one are you?](https://dev.to/finnauto/three-types-of-managers-which-one-are-you-5197)
+- [🚀 Awesome illustrations](https://dev.to/anmolbaranwal/awesome-illustrations-525a)
 <!-- BLOG-POST-LIST:END -->
 
