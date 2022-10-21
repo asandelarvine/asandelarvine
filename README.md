@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How React works behind the scenes](https://dev.to/amrtcrypto/how-react-works-behind-the-scenes-5e4k)
+- [Creating a generic posts function - part 14](https://dev.to/dailydevtips1/creating-a-generic-posts-function-part-14-3gfj)
 - [Python Concurrent Image Downloader](https://dev.to/mavensingh/python-concurrent-image-downloader-5bej)
 - [An experience with an emergency visa and a friend&#39;s travel to the US for last rites](https://dev.to/aws-heroes/an-experience-with-an-emergency-visa-and-a-friends-travel-to-the-us-for-last-rites-32gc)
-- [Detect vulnerable libraries within your GitHub environments for free](https://dev.to/codesec/detect-vulnerable-libraries-within-your-github-environments-for-free-2mg0)
-- [WHICH TECH CAREER PATH IS RIGHT FOR ME?](https://dev.to/maame_afia/which-tech-career-path-is-right-for-me-3bg4)
 <!-- BLOG-POST-LIST:END -->
 
