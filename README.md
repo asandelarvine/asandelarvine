@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HacktoberFest Update](https://dev.to/jarvisscript/hacktoberfest-update-28d2)
+- [Discussion and Comment of the Week - v21](https://dev.to/devteam/discussion-and-comment-of-the-week-v21-k4i)
+- [Tailwind CSS Grid System](https://dev.to/refine/tailwind-css-grid-system-56h9)
 - [Follow Friday: NoSQL Edition &lpar;21 October 2022&rpar;](https://dev.to/devteam/follow-friday-nosql-edition-21-october-2022-3c3d)
-- [Nativescript &amp; Formily: A match made in heaven.](https://dev.to/m_de_giovanni/nativescript-formily-a-match-made-in-heaven-4nhn)
-- [OpenBSD Upgrade 7.1 to 7.2](https://dev.to/nabbisen/openbsd-upgrade-71-to-72-17if)
-- [Nested Dynamic Routes in React Router v6](https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj)
 <!-- BLOG-POST-LIST:END -->
 
