@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Concurrent Image Downloader](https://dev.to/mavensingh/python-concurrent-image-downloader-5bej)
+- [An experience with an emergency visa and a friend&#39;s travel to the US for last rites](https://dev.to/aws-heroes/an-experience-with-an-emergency-visa-and-a-friends-travel-to-the-us-for-last-rites-32gc)
 - [Detect vulnerable libraries within your GitHub environments for free](https://dev.to/codesec/detect-vulnerable-libraries-within-your-github-environments-for-free-2mg0)
-- [In One Minute : Apache Tomcat](https://dev.to/rakeshkr2/in-one-minute-apache-tomcat-2567)
-- [🤖 Fresh Engineering Job Offers - Week #43 of 2022](https://dev.to/shman/fresh-engineering-job-offers-week-43-of-2022-3ci6)
-- [Does My Website Look Big in This? Six Tips to Lower your Page Weight](https://dev.to/cloudcannon/does-my-website-look-big-in-this-six-tips-to-lower-your-page-weight-5g4d)
+- [WHICH TECH CAREER PATH IS RIGHT FOR ME?](https://dev.to/maame_afia/which-tech-career-path-is-right-for-me-3bg4)
 <!-- BLOG-POST-LIST:END -->
 
