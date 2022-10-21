@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [IaSQL and Skyplane: Open Source Projects to Boost Your AWS Deployments](https://dev.to/aws-heroes/iasql-and-skyplane-open-source-projects-to-boost-your-aws-deployments-o9p)
 - [Writing and testing a custom RuboCop cop](https://dev.to/aha/writing-and-testing-a-custom-rubocop-cop-32bc)
 - [Different types of variable declarations in JavaScript - var, let and const.](https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0)
 - [Do LeetCode Assessments Make Sense?](https://dev.to/cpustejovsky/do-leetcode-assessments-make-sense-1kp6)
-- [The astonishing logic behind pip update](https://dev.to/akashpattnaik/the-astonishing-logic-behind-pip-update-1da9)
 <!-- BLOG-POST-LIST:END -->
 
