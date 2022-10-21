@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance comparison: Reduct Storage vs. Minio](https://dev.to/reduct-storage/performance-comparison-reduct-storage-vs-minio-533e)
-- [How Telescope made me a better Developer](https://dev.to/sirinoks/how-telescope-made-me-a-better-developer-2fdk)
-- [Do commit dates on GitHub matter for job applications?](https://dev.to/sloan/do-commit-dates-on-github-matter-for-job-applications-13a5)
-- [Be Grateful for JavaScript Arrays: A Comparison with C](https://dev.to/giantmachines/be-grateful-for-javascript-arrays-a-comparison-with-c-50n5)
+- [🤖 Fresh Engineering Job Offers - Week #43 of 2022](https://dev.to/shman/fresh-engineering-job-offers-week-43-of-2022-3ci6)
+- [Does My Website Look Big in This? Six Tips to Lower your Page Weight](https://dev.to/cloudcannon/does-my-website-look-big-in-this-six-tips-to-lower-your-page-weight-5g4d)
+- [May the merge be with you - Hacktoberfest 🎃](https://dev.to/batunpc/may-the-merge-be-with-you-hacktoberfest-1ok2)
+- [Defender for DevOps on AzureDevOps](https://dev.to/pwd9000/defender-for-devops-on-azuredevops-2578)
 <!-- BLOG-POST-LIST:END -->
 
