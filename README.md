@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Time zones](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
-- [In One Minute : HTML5](https://dev.to/rakeshkr2/in-one-minute-html5-4l86)
-- [Three types of managers - which one are you?](https://dev.to/finnauto/three-types-of-managers-which-one-are-you-5197)
-- [🚀 Awesome illustrations](https://dev.to/anmolbaranwal/awesome-illustrations-525a)
+- [Follow Friday: NoSQL Edition &lpar;21 October 2022&rpar;](https://dev.to/devteam/follow-friday-nosql-edition-21-october-2022-3c3d)
+- [Nativescript &amp; Formily: A match made in heaven.](https://dev.to/m_de_giovanni/nativescript-formily-a-match-made-in-heaven-4nhn)
+- [OpenBSD Upgrade 7.1 to 7.2](https://dev.to/nabbisen/openbsd-upgrade-71-to-72-17if)
+- [Nested Dynamic Routes in React Router v6](https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj)
 <!-- BLOG-POST-LIST:END -->
 
