@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IaSQL and Skyplane: Open Source Projects to Boost Your AWS Deployments](https://dev.to/aws-heroes/iasql-and-skyplane-open-source-projects-to-boost-your-aws-deployments-o9p)
-- [Writing and testing a custom RuboCop cop](https://dev.to/aha/writing-and-testing-a-custom-rubocop-cop-32bc)
-- [Different types of variable declarations in JavaScript - var, let and const.](https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0)
-- [Do LeetCode Assessments Make Sense?](https://dev.to/cpustejovsky/do-leetcode-assessments-make-sense-1kp6)
+- [Get Started with AWS Config Rules and Remediation](https://dev.to/makendrang/get-started-with-aws-config-rules-and-remediation-ip2)
+- [How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/makendrang/how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-2bgi)
+- [The beginner guide to Spring Batch Processing- Part 1](https://dev.to/codeitout_/the-beginner-guide-to-spring-batch-processing-part-1-1n0m)
+- [How to add Bulma Into Your Nextjs Web App](https://dev.to/swiftlybox/how-to-add-bulma-into-your-nextjs-web-app-365h)
 <!-- BLOG-POST-LIST:END -->
 
