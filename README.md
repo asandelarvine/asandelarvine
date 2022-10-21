@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Different types of variable declarations in JavaScript - var, let and const.](https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0)
+- [Do LeetCode Assessments Make Sense?](https://dev.to/cpustejovsky/do-leetcode-assessments-make-sense-1kp6)
 - [The astonishing logic behind pip update](https://dev.to/akashpattnaik/the-astonishing-logic-behind-pip-update-1da9)
 - [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-1e1j)
-- [How to Prevent Bot Spam on Your Ruby on Rails Website](https://dev.to/nicholasdill/how-to-prevent-bot-spam-on-your-ruby-on-rails-website-2nm0)
-- [HacktoberFest Update](https://dev.to/jarvisscript/hacktoberfest-update-28d2)
 <!-- BLOG-POST-LIST:END -->
 
