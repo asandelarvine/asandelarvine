@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Loading work from a JSON file - part 15](https://dev.to/dailydevtips1/loading-work-from-a-json-file-part-15-jm3)
 - [Here&#39;s my experience on the Scrimba JavaScript course](https://dev.to/jcmullis1/heres-my-experience-on-the-scrimba-javascript-course-2gbn)
 - [Seu dinheiro não é infinito](https://dev.to/leandronsp/seu-dinheiro-nao-e-infinito-2l2k)
-- [Get Started with AWS Config Rules and Remediation](https://dev.to/makendrang/get-started-with-aws-config-rules-and-remediation-ip2)
-- [How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/makendrang/how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-2bgi)
+- [5 VSCode extensions every programmer needs](https://dev.to/brandgrim/5-vscode-extensions-every-programmer-needs-4pfe)
 <!-- BLOG-POST-LIST:END -->
 
