@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New git guidelines: We have switched to Conventional Commits](https://dev.to/visuellverstehen/new-git-guidelines-we-have-switched-to-conventional-commits-1p0c)
 - [Loading work from a JSON file - part 15](https://dev.to/dailydevtips1/loading-work-from-a-json-file-part-15-jm3)
 - [Here&#39;s my experience on the Scrimba JavaScript course](https://dev.to/jcmullis1/heres-my-experience-on-the-scrimba-javascript-course-2gbn)
 - [Seu dinheiro não é infinito](https://dev.to/leandronsp/seu-dinheiro-nao-e-infinito-2l2k)
-- [5 VSCode extensions every programmer needs](https://dev.to/brandgrim/5-vscode-extensions-every-programmer-needs-4pfe)
 <!-- BLOG-POST-LIST:END -->
 
