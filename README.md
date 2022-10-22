@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Individual Transform Properties](https://dev.to/smpnjn/css-individual-transform-properties-55a)
 - [Episode 54: October 22, 2022: Real-Time &amp; KubeCon](https://dev.to/tspannhw/episode-54-october-22-2022-real-time-kubecon-1cj5)
 - [The Truth behind Implicit/Explicit form labels](https://dev.to/thejaredwilcurt/the-truth-behind-implicitexplicit-form-labels-2e10)
 - [How to Connect WSL2 &lpar;with Laravel App&rpar; to a XAMPP MySql Server on Windows](https://dev.to/kenzysc/how-to-connect-wsl2-with-laravel-app-to-a-xampp-mysql-server-on-windows-7jd)
-- [Fetch and Create events in Google Calendar with HTML and Javascript.](https://dev.to/debopriyadey/fetch-and-create-events-in-google-calendar-with-html-and-javascript-1o6f)
 <!-- BLOG-POST-LIST:END -->
 
