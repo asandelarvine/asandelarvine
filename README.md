@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Proxy: Using Javascript Proxies like a Pro](https://dev.to/smpnjn/using-javascript-proxies-like-a-pro-590)
+- [The Complete Beginners Guide to Getting Started with Git](https://dev.to/smpnjn/the-complete-beginners-guide-to-getting-started-with-git-7lm)
 - [5 Preferences Tweaks For A New Mac](https://dev.to/danielbellmas/5-preferences-tweaks-for-a-new-mac-2f4f)
 - [10 UI and UX Principles while styling with CSS](https://dev.to/koustav/10-ui-and-ux-principles-while-styling-with-css-7ib)
-- [Django API Generator - Free PyPI Library](https://dev.to/sm0ke/django-api-generator-free-pypi-library-1oe4)
-- [Responsiveness in Material UI - A love/hate story](https://dev.to/shreyvijayvargiya/responsiveness-in-material-ui-a-lovehate-story-40ko)
 <!-- BLOG-POST-LIST:END -->
 
