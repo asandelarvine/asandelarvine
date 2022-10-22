@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Seu dinheiro não é infinito](https://dev.to/leandronsp/seu-dinheiro-nao-e-infinito-2l2k)
 - [Get Started with AWS Config Rules and Remediation](https://dev.to/makendrang/get-started-with-aws-config-rules-and-remediation-ip2)
 - [How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/makendrang/how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-2bgi)
 - [Five best practices for React developers](https://dev.to/educative/five-best-practices-for-react-developers-3414)
-- [The beginner guide to Spring Batch Processing- Part 1](https://dev.to/codeitout_/the-beginner-guide-to-spring-batch-processing-part-1-1n0m)
 <!-- BLOG-POST-LIST:END -->
 
