@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Shallow Copy - what is a Shallow Copy?](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)
+- [Design Patterns in Software Development](https://dev.to/abdurrkhalid333/design-patterns-in-software-development-4b82)
 - [CSS Individual Transform Properties](https://dev.to/smpnjn/css-individual-transform-properties-55a)
-- [Episode 54: October 22, 2022: Real-Time &amp; KubeCon](https://dev.to/tspannhw/episode-54-october-22-2022-real-time-kubecon-1cj5)
-- [The Truth behind Implicit/Explicit form labels](https://dev.to/thejaredwilcurt/the-truth-behind-implicitexplicit-form-labels-2e10)
-- [How to Connect WSL2 &lpar;with Laravel App&rpar; to a XAMPP MySql Server on Windows](https://dev.to/kenzysc/how-to-connect-wsl2-with-laravel-app-to-a-xampp-mysql-server-on-windows-7jd)
+- [Learn git alias and boost your productivity](https://dev.to/this-is-learning/learn-git-alias-and-boost-your-productivity-16od)
 <!-- BLOG-POST-LIST:END -->
 
