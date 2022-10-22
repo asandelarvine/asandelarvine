@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Preferences Tweaks For A New Mac](https://dev.to/danielbellmas/5-preferences-tweaks-for-a-new-mac-2f4f)
 - [10 UI and UX Principles while styling with CSS](https://dev.to/koustav/10-ui-and-ux-principles-while-styling-with-css-7ib)
 - [Django API Generator - Free PyPI Library](https://dev.to/sm0ke/django-api-generator-free-pypi-library-1oe4)
 - [Responsiveness in Material UI - A love/hate story](https://dev.to/shreyvijayvargiya/responsiveness-in-material-ui-a-lovehate-story-40ko)
-- [Ultimate Guide to Recommendation Letters for UK Global Talent Visa](https://dev.to/beetlehope/ultimate-guide-to-recommendation-letters-for-uk-global-talent-visa-55mb)
 <!-- BLOG-POST-LIST:END -->
 
