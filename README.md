@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Django API Generator - Free PyPI Library](https://dev.to/sm0ke/django-api-generator-free-pypi-library-1oe4)
+- [Responsiveness in Material UI - A love/hate story](https://dev.to/shreyvijayvargiya/responsiveness-in-material-ui-a-lovehate-story-40ko)
+- [Ultimate Guide to Recommendation Letters for UK Global Talent Visa](https://dev.to/beetlehope/ultimate-guide-to-recommendation-letters-for-uk-global-talent-visa-55mb)
 - [New git guidelines: We have switched to Conventional Commits](https://dev.to/visuellverstehen/new-git-guidelines-we-have-switched-to-conventional-commits-1p0c)
-- [Loading work from a JSON file - part 15](https://dev.to/dailydevtips1/loading-work-from-a-json-file-part-15-jm3)
-- [Here&#39;s my experience on the Scrimba JavaScript course](https://dev.to/jcmullis1/heres-my-experience-on-the-scrimba-javascript-course-2gbn)
-- [Seu dinheiro não é infinito](https://dev.to/leandronsp/seu-dinheiro-nao-e-infinito-2l2k)
 <!-- BLOG-POST-LIST:END -->
 
