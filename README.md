@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [If you could get rid of one thing about your job, what would it be?](https://dev.to/flawnson/if-you-could-get-rid-of-one-thing-about-your-job-what-would-it-be-hbm)
 - [Proposal the &quot;as-ts&quot; language server, a deno loader in userland?](https://dev.to/reggi/proposal-the-as-ts-language-server-52in)
+- [ElasticSearch: Switch Index like a Pro](https://dev.to/paulopu/elasticsearch-switch-index-like-a-pro-3eo8)
 - [I Created a Programming Puzzle Game](https://dev.to/perssondennis/i-created-a-programming-puzzle-game-250h)
-- [Piano - HTML, CSS, JavaScript](https://dev.to/mjb/piano-html-css-javascript-1p3b)
 <!-- BLOG-POST-LIST:END -->
 
