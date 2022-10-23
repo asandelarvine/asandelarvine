@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is JavaScript JSON📖](https://dev.to/roshan_100kar/what-is-javascript-json-25bp)
+- [How to develop a Simple Dapp using React and Wagmi](https://dev.to/cypriantinasheaarons/how-to-develop-a-simple-dapp-using-react-and-wagmi-1f8l)
+- [SQL 101](https://dev.to/nelsonchege13/sql-101-447b)
 - [Setting up ESLint &amp; Prettier With Webpack in VSCode 🧑‍💻](https://dev.to/rinconcamilo/setting-up-eslint-prettier-with-webpack-in-vscode-29fg)
-- [Differences between .NET Collection Interfaces](https://dev.to/integerman/differences-between-net-collection-interfaces-g3i)
-- [Update : Status Page for Pastes.io](https://dev.to/pastesio/update-status-page-for-pastesio-52ho)
-- [post 1, 10/22/22](https://dev.to/mitchelldeamon/post-1-102122-3n0i)
 <!-- BLOG-POST-LIST:END -->
 
