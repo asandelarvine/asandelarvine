@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up ESLint &amp; Prettier With Webpack in VSCode 🧑‍💻](https://dev.to/rinconcamilo/setting-up-eslint-prettier-with-webpack-in-vscode-29fg)
 - [Update : Status Page for Pastes.io](https://dev.to/pastesio/update-status-page-for-pastesio-52ho)
 - [post 1, 10/22/22](https://dev.to/mitchelldeamon/post-1-102122-3n0i)
 - [Portswigger’s lab write up: Clickjacking with form input data prefilled from a URL parameter](https://dev.to/christianpaez/portswiggers-lab-write-up-clickjacking-with-form-input-data-prefilled-from-a-url-parameter-1b41)
-- [Don&#39;t fear the grepper! &lpar;2&rpar;](https://dev.to/lizmat/dont-fear-the-grepper-2-4ki5)
 <!-- BLOG-POST-LIST:END -->
 
