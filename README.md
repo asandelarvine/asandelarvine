@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [If you could get rid of one thing about your job, what would it be?](https://dev.to/flawnson/if-you-could-get-rid-of-one-thing-about-your-job-what-would-it-be-hbm)
 - [Golang GUI Calculator](https://dev.to/mavensingh/golang-gui-calculator-2e49)
 - [In One Minute : Amazon S3](https://dev.to/rakeshkr2/in-one-minute-amazon-s3-5a0i)
 - [Holy Grail Flexbox Layout 🎃](https://dev.to/ak_ram/holy-grail-flexbox-layout-3og7)
-- [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
 <!-- BLOG-POST-LIST:END -->
 
