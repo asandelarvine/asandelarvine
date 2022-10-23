@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
 - [What is JavaScript JSON📖](https://dev.to/roshan_100kar/what-is-javascript-json-25bp)
 - [How to develop a Simple Dapp using React and Wagmi](https://dev.to/cypriantinasheaarons/how-to-develop-a-simple-dapp-using-react-and-wagmi-1f8l)
 - [Building a Scalable Search Architecture](https://dev.to/memphis_dev/building-a-scalable-search-architecture-3jj0)
-- [It’s OK to write garbage code once in a while.](https://dev.to/elliot_brenyasarfo_18749/its-ok-to-write-garbage-code-once-in-a-while-3bjp)
 <!-- BLOG-POST-LIST:END -->
 
