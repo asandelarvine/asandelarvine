@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [If you could get rid of one thing about your job, what would it be?](https://dev.to/flawnson/if-you-could-get-rid-of-one-thing-about-your-job-what-would-it-be-hbm)
-- [Golang GUI Calculator](https://dev.to/mavensingh/golang-gui-calculator-2e49)
-- [In One Minute : Amazon S3](https://dev.to/rakeshkr2/in-one-minute-amazon-s3-5a0i)
-- [Holy Grail Flexbox Layout 🎃](https://dev.to/ak_ram/holy-grail-flexbox-layout-3og7)
+- [Proposal the &quot;as-ts&quot; language server, a deno loader in userland?](https://dev.to/reggi/proposal-the-as-ts-language-server-52in)
+- [I Created a Programming Puzzle Game](https://dev.to/perssondennis/i-created-a-programming-puzzle-game-250h)
+- [Piano - HTML, CSS, JavaScript](https://dev.to/mjb/piano-html-css-javascript-1p3b)
 <!-- BLOG-POST-LIST:END -->
 
