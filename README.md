@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving Git Merge Conflicts](https://dev.to/smpnjn/resolving-git-merge-conflicts-l8l)
+- [A Step by Step Guide to Git Branches](https://dev.to/smpnjn/a-step-by-step-guide-to-git-branches-16hf)
+- [How Long It Really Takes To Land That First Dev Job](https://dev.to/ramp_dev/how-long-it-really-takes-to-land-that-first-dev-job-41g9)
 - [If you could get rid of one thing about your job, what would it be?](https://dev.to/flawnson/if-you-could-get-rid-of-one-thing-about-your-job-what-would-it-be-hbm)
-- [Proposal the &quot;as-ts&quot; language server, a deno loader in userland?](https://dev.to/reggi/proposal-the-as-ts-language-server-52in)
-- [ElasticSearch: Switch Index like a Pro](https://dev.to/paulopu/elasticsearch-switch-index-like-a-pro-3eo8)
-- [I Created a Programming Puzzle Game](https://dev.to/perssondennis/i-created-a-programming-puzzle-game-250h)
 <!-- BLOG-POST-LIST:END -->
 
