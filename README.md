@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
+- [A Developer&#39;s Content Writing System. Idea 👉Publish](https://dev.to/4r7ur/a-developers-content-writing-system-idea-publish-126e)
 - [What is JavaScript JSON📖](https://dev.to/roshan_100kar/what-is-javascript-json-25bp)
 - [How to develop a Simple Dapp using React and Wagmi](https://dev.to/cypriantinasheaarons/how-to-develop-a-simple-dapp-using-react-and-wagmi-1f8l)
-- [Building a Scalable Search Architecture](https://dev.to/memphis_dev/building-a-scalable-search-architecture-3jj0)
 <!-- BLOG-POST-LIST:END -->
 
