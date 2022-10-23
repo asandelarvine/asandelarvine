@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
+- [Processing user input in Bubble Tea with a menu component](https://dev.to/andyhaskell/processing-user-input-in-bubble-tea-with-a-menu-component-222i)
+- [Intro to Bubble Tea in Go](https://dev.to/andyhaskell/intro-to-bubble-tea-in-go-21lg)
 - [VueJs Beginner part 1](https://dev.to/hshoja/vuejs-beginner-part-1-59b7)
-- [Resolving Git Merge Conflicts](https://dev.to/smpnjn/resolving-git-merge-conflicts-l8l)
-- [A Step by Step Guide to Git Branches](https://dev.to/smpnjn/a-step-by-step-guide-to-git-branches-16hf)
-- [Build a multi-language website using React in 3 minutes](https://dev.to/quocbahuynh/build-a-multi-language-website-using-react-in-3-minutes-4206)
 <!-- BLOG-POST-LIST:END -->
 
