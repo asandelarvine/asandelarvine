@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Resolving Git Merge Conflicts](https://dev.to/smpnjn/resolving-git-merge-conflicts-l8l)
 - [A Step by Step Guide to Git Branches](https://dev.to/smpnjn/a-step-by-step-guide-to-git-branches-16hf)
-- [How Long It Really Takes To Land That First Dev Job](https://dev.to/ramp_dev/how-long-it-really-takes-to-land-that-first-dev-job-41g9)
-- [If you could get rid of one thing about your job, what would it be?](https://dev.to/flawnson/if-you-could-get-rid-of-one-thing-about-your-job-what-would-it-be-hbm)
+- [Build a multi-language website using React in 3 minutes](https://dev.to/quocbahuynh/build-a-multi-language-website-using-react-in-3-minutes-4206)
+- [Why AWS Step Functions and SDK integrations](https://dev.to/aws-builders/why-aws-step-functions-and-sdk-integrations-4eeh)
 <!-- BLOG-POST-LIST:END -->
 
