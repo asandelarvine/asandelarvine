@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang GUI Calculator](https://dev.to/mavensingh/golang-gui-calculator-2e49)
+- [In One Minute : Amazon S3](https://dev.to/rakeshkr2/in-one-minute-amazon-s3-5a0i)
+- [Holy Grail Flexbox Layout 🎃](https://dev.to/ak_ram/holy-grail-flexbox-layout-3og7)
 - [SlackApi Bolt-python App With AWS Lambda And AWS CDK](https://dev.to/aws-builders/slackapi-bolt-python-app-with-aws-lambda-and-aws-cdk-4h5d)
-- [A Developer&#39;s Content Writing System. Idea 👉Publish](https://dev.to/4r7ur/a-developers-content-writing-system-idea-publish-126e)
-- [What is JavaScript JSON📖](https://dev.to/roshan_100kar/what-is-javascript-json-25bp)
-- [How to develop a Simple Dapp using React and Wagmi](https://dev.to/cypriantinasheaarons/how-to-develop-a-simple-dapp-using-react-and-wagmi-1f8l)
 <!-- BLOG-POST-LIST:END -->
 
