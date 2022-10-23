@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Update : Status Page for Pastes.io](https://dev.to/pastesio/update-status-page-for-pastesio-52ho)
+- [post 1, 10/22/22](https://dev.to/mitchelldeamon/post-1-102122-3n0i)
 - [Portswigger’s lab write up: Clickjacking with form input data prefilled from a URL parameter](https://dev.to/christianpaez/portswiggers-lab-write-up-clickjacking-with-form-input-data-prefilled-from-a-url-parameter-1b41)
-- [Javascript Shallow Copy - what is a Shallow Copy?](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)
-- [Design Patterns in Software Development](https://dev.to/abdurrkhalid333/design-patterns-in-software-development-4b82)
-- [CSS Individual Transform Properties](https://dev.to/smpnjn/css-individual-transform-properties-55a)
+- [Don&#39;t fear the grepper! &lpar;2&rpar;](https://dev.to/lizmat/dont-fear-the-grepper-2-4ki5)
 <!-- BLOG-POST-LIST:END -->
 
