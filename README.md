@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VueJs Beginner part 1](https://dev.to/hshoja/vuejs-beginner-part-1-59b7)
 - [Resolving Git Merge Conflicts](https://dev.to/smpnjn/resolving-git-merge-conflicts-l8l)
 - [A Step by Step Guide to Git Branches](https://dev.to/smpnjn/a-step-by-step-guide-to-git-branches-16hf)
 - [Build a multi-language website using React in 3 minutes](https://dev.to/quocbahuynh/build-a-multi-language-website-using-react-in-3-minutes-4206)
-- [Why AWS Step Functions and SDK integrations](https://dev.to/aws-builders/why-aws-step-functions-and-sdk-integrations-4eeh)
 <!-- BLOG-POST-LIST:END -->
 
