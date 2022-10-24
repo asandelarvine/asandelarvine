@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O que significa o dia da Ada Lovelace?](https://dev.to/feministech/o-que-significa-o-dia-da-ada-lovelace-4o8n)
-- [Movin&#39; On Up: An Analysis of The Privilege Escalation Vulnerability CVE-2022-26923](https://dev.to/austinjhunt/movin-on-up-an-analysis-of-the-privilege-escalation-vulnerability-cve-2022-26923-2hf9)
-- [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
-- [Processing user input in Bubble Tea with a menu component](https://dev.to/andyhaskell/processing-user-input-in-bubble-tea-with-a-menu-component-222i)
+- [Create a Custom Template Tag for Currency Conversion in Django](https://dev.to/paulwababu/create-a-custom-template-tag-for-currency-conversion-in-django-7ok)
+- [Google Developers Student Club - MET collaborates with Newton School](https://dev.to/yashkapure06/google-developers-student-club-met-collaborates-with-newton-school-38be)
+- [React: How does useMemo and useCallback work ?](https://dev.to/linhbui167/react-how-does-usememo-and-usecallback-work--4e0d)
+- [How I Created Augmented Reality&lpar;AR&rpar; Web App using Only HTML](https://dev.to/varshithvhegde/how-i-created-augmented-realityar-web-app-using-only-html-3201)
 <!-- BLOG-POST-LIST:END -->
 
