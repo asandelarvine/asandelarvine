@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O que significa o dia da Ada Lovelace?](https://dev.to/feministech/o-que-significa-o-dia-da-ada-lovelace-4o8n)
+- [Movin&#39; On Up: An Analysis of The Privilege Escalation Vulnerability CVE-2022-26923](https://dev.to/austinjhunt/movin-on-up-an-analysis-of-the-privilege-escalation-vulnerability-cve-2022-26923-2hf9)
 - [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
 - [Processing user input in Bubble Tea with a menu component](https://dev.to/andyhaskell/processing-user-input-in-bubble-tea-with-a-menu-component-222i)
-- [Intro to Bubble Tea in Go](https://dev.to/andyhaskell/intro-to-bubble-tea-in-go-21lg)
-- [VueJs Beginner part 1](https://dev.to/hshoja/vuejs-beginner-part-1-59b7)
 <!-- BLOG-POST-LIST:END -->
 
