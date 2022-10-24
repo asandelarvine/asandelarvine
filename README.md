@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Centralized Management by using AWS System Manager](https://dev.to/aws-builders/centralized-management-by-using-aws-system-manager-3g5j)
+- [Getting Started With Kubernetes: Introduction and Architecture](https://dev.to/rsarthak/getting-started-with-kubernetes-introduction-and-architecture-5fnl)
 - [Improving Performance of Nuxt apps with Partytown](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-apps-with-partytown-80p)
 - [AWS open source news and updates, #132](https://dev.to/aws/aws-open-source-news-and-updates-132-556j)
-- [INTRODUCTION TO WEB3.0](https://dev.to/wisdomudo/introduction-to-web30-56do)
-- [How to Build a Fantastic Web3 Games Shop with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-fantastic-web3-games-shop-with-react-solidity-and-cometchat-50mj)
 <!-- BLOG-POST-LIST:END -->
 
