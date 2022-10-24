@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Rust development workflow &lpar;after 3+ years&rpar;](https://dev.to/sylvainkerkour/my-rust-development-workflow-after-3-years-217m)
-- [Javascript: Minification vs Obfuscation](https://dev.to/urstrulyvishwak/javascript-minification-vs-obfuscation-2h02)
-- [Centralized Management by using AWS System Manager](https://dev.to/aws-builders/centralized-management-by-using-aws-system-manager-3g5j)
-- [Getting Started With Kubernetes: Introduction and Architecture](https://dev.to/rsarthak/getting-started-with-kubernetes-introduction-and-architecture-5fnl)
+- [Meme Monday 🎃](https://dev.to/ben/meme-monday-1o5g)
+- [Building a Notion-like system with Socket.io And React 😍](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)
+- [Movement and Visibility Detection with CSS and JS 👀](https://dev.to/ingosteinke/movement-and-visibility-detection-with-css-and-js-53m7)
+- [Awesome Websites For UI/UX Inspiration](https://dev.to/surajondev/awesome-websites-for-uiux-inspiration-5h75)
 <!-- BLOG-POST-LIST:END -->
 
