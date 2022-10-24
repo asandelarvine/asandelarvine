@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://dev.to/bootdotdev/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-3aeo)
+- [SQL + Python + Spark for Data Science](https://dev.to/surendraarivappagari/sql-python-spark-for-data-science-37h5)
 - [PostgreSQL vs SQLite](https://dev.to/rakeshkr2/postgresql-vs-sqlite-4ifi)
 - [99% of Python Programmers don&#39;t know this feature](https://dev.to/treadalex/99-of-python-programmers-dont-know-this-feature-3nki)
-- [15 React Interview Questions to Help You Ace Your Next Technical Interview](https://dev.to/amrtcrypto/15-react-interview-questions-to-help-you-ace-your-next-technical-interview-4h2c)
-- [Best way to learn react js for free](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
 <!-- BLOG-POST-LIST:END -->
 
