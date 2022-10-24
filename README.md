@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Best way to learn react js for free](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
 - [The 5 online coding and development tools you need to know](https://dev.to/glowreeyah/the-5-online-coding-and-development-tools-you-need-to-know-p0e)
+- [Monday Learning](https://dev.to/aryakris/monday-learning-5g3p)
 - [What is react ?And How to learn react in one week](https://dev.to/vivek7038/how-react-works--bkf)
-- [Fullstack JS with Angular Universal and NestJS &lpar;Nx flavor&rpar;](https://dev.to/yannickboetzkes/fullstack-js-with-angular-universal-and-nestjs-nx-flavor-46k5)
 <!-- BLOG-POST-LIST:END -->
 
