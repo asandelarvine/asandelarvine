@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://dev.to/bootdotdev/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-3aeo)
 - [SQL + Python + Spark for Data Science](https://dev.to/surendraarivappagari/sql-python-spark-for-data-science-37h5)
-- [PostgreSQL vs SQLite](https://dev.to/rakeshkr2/postgresql-vs-sqlite-4ifi)
-- [99% of Python Programmers don&#39;t know this feature](https://dev.to/treadalex/99-of-python-programmers-dont-know-this-feature-3nki)
+- [How does the internet work](https://dev.to/edith_favour/how-does-the-internet-work-1hh7)
+- [Manage multiple git accounts](https://dev.to/maymeow/manage-multiple-git-accounts-176o)
 <!-- BLOG-POST-LIST:END -->
 
