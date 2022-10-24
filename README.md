@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [DEV Community Satisfaction Survey Results!](https://dev.to/devteam/dev-community-satisfaction-survey-results-485f)
+- [How to Improve your Code With easy Refactorings](https://dev.to/mcsee/how-to-improve-your-code-with-easy-refactorings-2ij6)
 - [How to Deploy Your Medusa Server to Railway’s Free Hosting](https://dev.to/medusajs/how-to-deploy-your-medusa-server-to-railways-free-hosting-16m8)
 - [Meme Monday 🎃](https://dev.to/ben/meme-monday-1o5g)
-- [Building a Notion-like system with Socket.io And React 😍](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)
 <!-- BLOG-POST-LIST:END -->
 
