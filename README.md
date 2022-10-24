@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [javascript: Object to CSV](https://dev.to/urstrulyvishwak/javascript-object-to-csv-2l4h)
-- [Inversion of Control: Dependency Injection in Typescript](https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9)
-- [How to Make Quote Generator in React](https://dev.to/reactjsguru/how-to-make-quote-generator-in-react-42j7)
-- [Create a Custom Template Tag for Currency Conversion in Django](https://dev.to/paulwababu/create-a-custom-template-tag-for-currency-conversion-in-django-7ok)
+- [Improving Performance of Nuxt apps with Partytown](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-apps-with-partytown-80p)
+- [AWS open source news and updates, #132](https://dev.to/aws/aws-open-source-news-and-updates-132-556j)
+- [INTRODUCTION TO WEB3.0](https://dev.to/wisdomudo/introduction-to-web30-56do)
+- [How to Build a Fantastic Web3 Games Shop with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-fantastic-web3-games-shop-with-react-solidity-and-cometchat-50mj)
 <!-- BLOG-POST-LIST:END -->
 
