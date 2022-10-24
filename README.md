@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic API for Django - Free PyPi Library](https://dev.to/sm0ke/dynamic-api-for-django-free-pypi-library-2ap7)
-- [Start Selling Subscriptions From Your Website FAST!](https://dev.to/paypaldeveloper/start-selling-subscriptions-from-your-website-fast-1i44)
-- [DEV Community Satisfaction Survey Results!](https://dev.to/devteam/dev-community-satisfaction-survey-results-485f)
-- [How to Improve your Code With easy Refactorings](https://dev.to/mcsee/how-to-improve-your-code-with-easy-refactorings-2ij6)
+- [Best way to learn react js for free](https://dev.to/shine18/best-way-to-learn-react-js-for-free-1joe)
+- [The 5 online coding and development tools you need to know](https://dev.to/glowreeyah/the-5-online-coding-and-development-tools-you-need-to-know-p0e)
+- [What is react ?And How to learn react in one week](https://dev.to/vivek7038/how-react-works--bkf)
+- [Fullstack JS with Angular Universal and NestJS &lpar;Nx flavor&rpar;](https://dev.to/yannickboetzkes/fullstack-js-with-angular-universal-and-nestjs-nx-flavor-46k5)
 <!-- BLOG-POST-LIST:END -->
 
