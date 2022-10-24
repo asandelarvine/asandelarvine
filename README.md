@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [javascript: Object to CSV](https://dev.to/urstrulyvishwak/javascript-object-to-csv-2l4h)
+- [Inversion of Control: Dependency Injection in Typescript](https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9)
+- [How to Make Quote Generator in React](https://dev.to/reactjsguru/how-to-make-quote-generator-in-react-42j7)
 - [Create a Custom Template Tag for Currency Conversion in Django](https://dev.to/paulwababu/create-a-custom-template-tag-for-currency-conversion-in-django-7ok)
-- [Google Developers Student Club - MET collaborates with Newton School](https://dev.to/yashkapure06/google-developers-student-club-met-collaborates-with-newton-school-38be)
-- [React: How does useMemo and useCallback work ?](https://dev.to/linhbui167/react-how-does-usememo-and-usecallback-work--4e0d)
-- [How I Created Augmented Reality&lpar;AR&rpar; Web App using Only HTML](https://dev.to/varshithvhegde/how-i-created-augmented-realityar-web-app-using-only-html-3201)
 <!-- BLOG-POST-LIST:END -->
 
