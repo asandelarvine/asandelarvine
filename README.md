@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic API for Django - Free PyPi Library](https://dev.to/sm0ke/dynamic-api-for-django-free-pypi-library-2ap7)
+- [Start Selling Subscriptions From Your Website FAST!](https://dev.to/paypaldeveloper/start-selling-subscriptions-from-your-website-fast-1i44)
 - [DEV Community Satisfaction Survey Results!](https://dev.to/devteam/dev-community-satisfaction-survey-results-485f)
 - [How to Improve your Code With easy Refactorings](https://dev.to/mcsee/how-to-improve-your-code-with-easy-refactorings-2ij6)
-- [How to Deploy Your Medusa Server to Railway’s Free Hosting](https://dev.to/medusajs/how-to-deploy-your-medusa-server-to-railways-free-hosting-16m8)
-- [Meme Monday 🎃](https://dev.to/ben/meme-monday-1o5g)
 <!-- BLOG-POST-LIST:END -->
 
