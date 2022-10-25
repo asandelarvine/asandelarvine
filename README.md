@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤯 Does Hackernoon team manually edit user article to inject crypto advertisement?](https://dev.to/hunghvu/does-hackernoon-team-manually-edit-user-article-to-inject-crypto-advertisement-26k8)
-- [Engineering Managers - What Do You Like About Your Job?](https://dev.to/sloan/engineering-managers-what-do-you-like-about-your-job-pc6)
-- [Three Ways to Scale Your Apps with Render](https://dev.to/thawkin3/three-ways-to-scale-your-apps-with-render-nec)
-- [How to Identify and Fix Bad Agile Practices in Your Teams](https://dev.to/codemonkcm/how-to-identify-and-fix-bad-agile-practices-in-your-teams-3ief)
+- [[vite] Internal server error: Cannot read properties of undefined &lpar;reading &#39;length&#39;&rpar; for Tailwind and PostCSS.](https://dev.to/kenzysc/vite-internal-server-error-cannot-read-properties-of-undefined-reading-length-for-tailwind-and-postcss-5g7)
+- [Parser Combinators in Elixir: Taming Semi-Structured Text](https://dev.to/appsignal/parser-combinators-in-elixir-taming-semi-structured-text-2ld6)
+- [Would you like pay-per-visit web hosting?](https://dev.to/roberts/would-you-like-pay-per-visit-web-hosting-2iif)
+- [Drawing Inspiration: Docusaurus](https://dev.to/cychu42/drawing-inspiration-docusaurus-5a5j)
 <!-- BLOG-POST-LIST:END -->
 
