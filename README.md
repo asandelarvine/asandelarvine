@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What display: grid does?](https://dev.to/melnik909/what-display-grid-does-3ain)
 - [TDD: What&#39;s your React-ion?](https://dev.to/aleoyakas/tdd-whats-your-react-ion-24al)
 - [When do you think is the most optimal time to post on DEV? 🤔](https://dev.to/michaeltharrington/when-do-you-think-is-the-most-optimal-time-to-post-on-dev-ekb)
 - [UK Global Talent Visa for Data Scientists | Interview with Wuraola Oyewusi](https://dev.to/beetlehope/uk-global-talent-visa-for-data-scientists-interview-with-wuraola-oyewusi-4409)
-- [Remember to enjoy it](https://dev.to/dzhavat/remember-to-enjoy-it-5ff3)
 <!-- BLOG-POST-LIST:END -->
 
