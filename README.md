@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What I learned from Googles Resume Workshop](https://dev.to/brandgrim/what-i-learned-from-googles-resume-workshop-d8a)
 - [Persistir e não Desistir](https://dev.to/mizael2019/persistir-e-nao-desistir-5cap)
 - [How to create a Python Lamda Layer?](https://dev.to/aws-builders/how-to-create-a-python-lamda-layer-509j)
 - [Understanding and Implementing State Management with NGXS in Angular](https://dev.to/renancferro/understanding-and-implementing-state-management-with-ngxs-in-angular-5f2j)
-- [High-performance Go HTTP framework tasting](https://dev.to/justlorain/high-performance-go-http-framework-tasting-25li)
 <!-- BLOG-POST-LIST:END -->
 
