@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a dev.to stats card generator &lpar;followers &amp; views count&rpar;](https://dev.to/amrelmohamady/i-built-a-devto-stats-card-generator-followers-views-count-2b6b)
-- [Not designing for error is an error](https://dev.to/jfbrennan/not-designing-for-error-is-an-error-1j7i)
-- [[vite] Internal server error: Cannot read properties of undefined &lpar;reading &#39;length&#39;&rpar; for Tailwind and PostCSS.](https://dev.to/kenzysc/vite-internal-server-error-cannot-read-properties-of-undefined-reading-length-for-tailwind-and-postcss-5g7)
-- [Parser Combinators in Elixir: Taming Semi-Structured Text](https://dev.to/appsignal/parser-combinators-in-elixir-taming-semi-structured-text-2ld6)
+- [High-performance Go HTTP framework tasting](https://dev.to/justlorain/high-performance-go-http-framework-tasting-25li)
+- [Are we There Yet? When do we Move to GraalVM?](https://dev.to/codenameone/are-we-there-yet-when-do-we-move-to-graalvm-2em9)
+- [This Week In React #121: Next.js, cache, CSS-in-JS, Qwikify, Typesafety, 3D, Vitest Preview, Outstatic, Remix, React-Native...](https://dev.to/sebastienlorber/this-week-in-react-121-nextjs-cache-css-in-js-qwikify-typesafety-3d-vitest-preview-outstatic-remix-react-native-1mjd)
+- [Ansible Tutorial: Automate and Configure Remote Linux Servers](https://dev.to/kennibravo/ansible-tutorial-automate-and-configure-remote-linux-servers-3l9)
 <!-- BLOG-POST-LIST:END -->
 
