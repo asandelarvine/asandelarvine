@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conquer Your Fear from a Failed Job Interview in 7 Simple Steps](https://dev.to/makendrang/conquer-your-fear-from-a-failed-job-interview-in-7-simple-steps-ic9)
+- [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
 - [State Management Is Easy Now!? An Introduction to Observable Store](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
 - [Closer look at Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
-- [Shipping to Production - Final and Next](https://dev.to/woovi/shipping-to-production-final-and-next-5k4)
-- [Shipping to Production - Code](https://dev.to/woovi/shipping-to-production-code-gbg)
 <!-- BLOG-POST-LIST:END -->
 
