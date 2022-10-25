@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Changelog #0020 — 🔦 Data filtering, search &amp; replace, RegExp, and more](https://dev.to/pie/changelog-0020-data-filtering-search-replace-regexp-and-more-4ffp)
 - [React Context API for Beginners &lpar;using useContext hook&rpar;](https://dev.to/samueladex/react-context-api-for-beginners-using-usecontext-hook-jld)
 - [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://dev.to/bootdotdev/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-3aeo)
-- [SQL + Python + Spark for Data Science](https://dev.to/surendraarivappagari/sql-python-spark-for-data-science-37h5)
+- [Please do repeat yourself &lpar;DRY is dead&rpar;](https://dev.to/ralphcone/please-do-repeat-yourself-dry-is-dead-1jbg)
 <!-- BLOG-POST-LIST:END -->
 
