@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [True love is not hard to find with RedisJSON](https://dev.to/femolacaster/true-love-is-not-hard-to-find-with-redisjson-4hkd)
-- [Importing Ghost Blog Users to Appwrite](https://dev.to/joysankar2001/importing-ghost-blog-users-to-appwrite-1hag)
-- [Deploy jhipster monolithic &lpar;angular + spring boot&rpar; at fly.io for FREE](https://dev.to/renanfranca/deploy-jhipster-monolithic-angular-spring-boot-at-flyio-for-free-5dng)
-- [Passing className to components in React](https://dev.to/dailydevtips1/passing-classname-to-components-in-react-12o2)
+- [How to Identify and Fix Bad Agile Practices in Your Teams](https://dev.to/codemonkcm/how-to-identify-and-fix-bad-agile-practices-in-your-teams-3ief)
+- [In One Minute : AWS Lambda](https://dev.to/rakeshkr2/in-one-minute-aws-lambda-540c)
+- [How to stop Localhost server running on multiple ports.](https://dev.to/kenzysc/how-to-stop-localhost-server-running-on-multiple-ports-3hab)
+- [How to learn your second programming language efficiently](https://dev.to/chainguns/how-to-learn-your-second-programming-language-efficiently-86g)
 <!-- BLOG-POST-LIST:END -->
 
