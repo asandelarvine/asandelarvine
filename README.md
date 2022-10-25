@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [State Management Is Easy Now!? An Introduction to Observable Store](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
 - [Closer look at Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
 - [Shipping to Production - Final and Next](https://dev.to/woovi/shipping-to-production-final-and-next-5k4)
 - [Shipping to Production - Code](https://dev.to/woovi/shipping-to-production-code-gbg)
-- [Shipping to Production - Design](https://dev.to/woovi/shipping-to-production-design-3861)
 <!-- BLOG-POST-LIST:END -->
 
