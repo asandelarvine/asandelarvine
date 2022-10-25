@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy jhipster monolithic &lpar;angular + spring boot&rpar; at fly.io for FREE](https://dev.to/renanfranca/deploy-jhipster-monolithic-angular-spring-boot-at-flyio-for-free-5dng)
+- [Passing className to components in React](https://dev.to/dailydevtips1/passing-classname-to-components-in-react-12o2)
 - [Basic data types in Python 3. Examples of working with collections for beginners](https://dev.to/vadimkolobanov/basic-data-types-in-python-3-examples-of-working-with-collections-for-beginners-4l4b)
-- [Conquer Your Fear from a Failed Job Interview in 7 Simple Steps](https://dev.to/makendrang/conquer-your-fear-from-a-failed-job-interview-in-7-simple-steps-ic9)
-- [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
-- [State Management Is Easy Now!? An Introduction to Observable Store](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
+- [Why you should be careful with the Default trait/typeclass](https://dev.to/sshine/why-you-should-be-careful-with-the-default-traittypeclass-3i5m)
 <!-- BLOG-POST-LIST:END -->
 
