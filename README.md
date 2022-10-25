@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🤯 Does Hackernoon team manually edit user article to inject crypto advertisement?](https://dev.to/hunghvu/does-hackernoon-team-manually-edit-user-article-to-inject-crypto-advertisement-26k8)
+- [Engineering Managers - What Do You Like About Your Job?](https://dev.to/sloan/engineering-managers-what-do-you-like-about-your-job-pc6)
+- [Three Ways to Scale Your Apps with Render](https://dev.to/thawkin3/three-ways-to-scale-your-apps-with-render-nec)
 - [How to Identify and Fix Bad Agile Practices in Your Teams](https://dev.to/codemonkcm/how-to-identify-and-fix-bad-agile-practices-in-your-teams-3ief)
-- [In One Minute : AWS Lambda](https://dev.to/rakeshkr2/in-one-minute-aws-lambda-540c)
-- [How to stop Localhost server running on multiple ports.](https://dev.to/kenzysc/how-to-stop-localhost-server-running-on-multiple-ports-3hab)
-- [How to learn your second programming language efficiently](https://dev.to/chainguns/how-to-learn-your-second-programming-language-efficiently-86g)
 <!-- BLOG-POST-LIST:END -->
 
