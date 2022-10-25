@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD: What&#39;s your React-ion?](https://dev.to/aleoyakas/tdd-whats-your-react-ion-24al)
+- [When do you think is the most optimal time to post on DEV? 🤔](https://dev.to/michaeltharrington/when-do-you-think-is-the-most-optimal-time-to-post-on-dev-ekb)
 - [UK Global Talent Visa for Data Scientists | Interview with Wuraola Oyewusi](https://dev.to/beetlehope/uk-global-talent-visa-for-data-scientists-interview-with-wuraola-oyewusi-4409)
-- [Git: Renaming a Branch](https://dev.to/smpnjn/git-renaming-a-branch-27g0)
-- [Git Merge: Merging Changes from other Branches](https://dev.to/smpnjn/git-merge-merging-changes-from-other-branches-41dp)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3ock)
+- [Remember to enjoy it](https://dev.to/dzhavat/remember-to-enjoy-it-5ff3)
 <!-- BLOG-POST-LIST:END -->
 
