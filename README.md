@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic data types in Python 3. Examples of working with collections for beginners](https://dev.to/vadimkolobanov/basic-data-types-in-python-3-examples-of-working-with-collections-for-beginners-4l4b)
 - [Conquer Your Fear from a Failed Job Interview in 7 Simple Steps](https://dev.to/makendrang/conquer-your-fear-from-a-failed-job-interview-in-7-simple-steps-ic9)
 - [Next.js vs. React: what should you use?](https://dev.to/sergchr/nextjs-vs-react-what-should-you-use-3ol8)
 - [State Management Is Easy Now!? An Introduction to Observable Store](https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij)
-- [Closer look at Keploy](https://dev.to/patilganesh1010/closer-look-at-keploy-41ae)
 <!-- BLOG-POST-LIST:END -->
 
