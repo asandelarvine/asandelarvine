@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve Code in Your Ruby Application with RubyCritic](https://dev.to/appsignal/improve-code-in-your-ruby-application-with-rubycritic-mbe)
+- [Helix Editor – 90% of Neovim With Kakoune](https://dev.to/sophiabrandt/helix-editor-90-of-neovim-with-kakoune-4n9b)
+- [HTTP VS HTTP – WHICH IS BETTER?](https://dev.to/khansa/http-vs-http-which-is-better-49of)
 - [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
-- [Remove Letter To Equalize Frequency](https://dev.to/salahelhossiny/remove-letter-to-equalize-frequency-1nh8)
-- [Need Web App and Mobile App Development Company?](https://dev.to/maheenriaz/need-web-app-and-mobile-app-development-company-4joe)
-- [In One Minute : JSON](https://dev.to/rakeshkr2/in-one-minute-json-1abn)
 <!-- BLOG-POST-LIST:END -->
 
