@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Passing Markdown components to React or Preact in Astro](https://dev.to/cassidoo/passing-markdown-components-to-react-or-preact-in-astro-31ml)
+- [#SeniaBreaksTheInternet: My Journey Into Tech](https://dev.to/devsatasurion/seniabreakstheinternet-my-journey-into-tech-38de)
 - [Introduction to Execution Machine &lpar;EXM&rpar; - Permanent Serverless Functions](https://dev.to/dabit3/introduction-to-execution-machine-exm-permanent-serverless-functions-3fhb)
-- [How to create a confetti effect in CSS](https://dev.to/logrocket/how-to-create-a-confetti-effect-in-css-4d7c)
-- [FastAPI - Open-Source Starters](https://dev.to/sm0ke/fastapi-open-source-starters-38j3)
-- [Understanding UUIDs in Node.js](https://dev.to/logrocket/understanding-uuids-in-nodejs-4bfe)
+- [Welcome Thread - v197](https://dev.to/thepracticaldev/welcome-thread-v197-47gc)
 <!-- BLOG-POST-LIST:END -->
 
