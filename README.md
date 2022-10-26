@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How far off is AI created music?](https://dev.to/music-discussions/how-far-off-is-ai-created-music-54dp)
+- [CIS Framework For Kubernetes](https://dev.to/thenjdevopsguy/cis-framework-for-kubernetes-217a)
+- [Is your package.json safe?](https://dev.to/mishgun/is-your-packagejson-safe-20c1)
 - [Improve Code in Your Ruby Application with RubyCritic](https://dev.to/appsignal/improve-code-in-your-ruby-application-with-rubycritic-mbe)
-- [Helix Editor – 90% of Neovim With Kakoune](https://dev.to/sophiabrandt/helix-editor-90-of-neovim-with-kakoune-4n9b)
-- [HTTP VS HTTP – WHICH IS BETTER?](https://dev.to/khansa/http-vs-http-which-is-better-49of)
-- [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
 <!-- BLOG-POST-LIST:END -->
 
