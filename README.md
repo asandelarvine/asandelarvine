@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Manual lazy loading of Angular component and providers with Standalone APIs &lpar;without NgModule&rpar; 🥢](https://dev.to/krisplatis/manual-lazy-loading-angular-component-and-providers-with-standalone-apis-without-ngmodule-15i2)
+- [How and why DevOps became DevSecOps](https://dev.to/jaysingh/what-is-devops-and-how-has-it-evolved-into-devsecops-27p)
 - [Passing Markdown components to React or Preact in Astro](https://dev.to/cassidoo/passing-markdown-components-to-react-or-preact-in-astro-31ml)
-- [#SeniaBreaksTheInternet: My Journey Into Tech](https://dev.to/devsatasurion/seniabreakstheinternet-my-journey-into-tech-38de)
-- [Introduction to Execution Machine &lpar;EXM&rpar; - Permanent Serverless Functions](https://dev.to/dabit3/introduction-to-execution-machine-exm-permanent-serverless-functions-3fhb)
-- [Welcome Thread - v197](https://dev.to/thepracticaldev/welcome-thread-v197-47gc)
+- [What is Babel? The Popular JavaScript Compiler](https://dev.to/teejaydixon/what-is-babel-the-popular-javascript-compiler-58g9)
 <!-- BLOG-POST-LIST:END -->
 
