@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a confetti effect in CSS](https://dev.to/logrocket/how-to-create-a-confetti-effect-in-css-4d7c)
 - [FastAPI - Open-Source Starters](https://dev.to/sm0ke/fastapi-open-source-starters-38j3)
 - [Understanding UUIDs in Node.js](https://dev.to/logrocket/understanding-uuids-in-nodejs-4bfe)
 - [Reusable dynamic modal on Vue 3](https://dev.to/cloudx/reusable-dynamic-modal-on-vue-3-1k56)
-- [The Benefits of Using OAS for Your API](https://dev.to/roy8/the-benefits-of-using-oas-for-your-api-36j7)
 <!-- BLOG-POST-LIST:END -->
 
