@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deja de usar &quot;&amp;&amp;&quot; para el Conditional Rendering en React](https://dev.to/khriztianmoreno/deja-de-usar-para-el-conditional-rendering-en-react-5b5j)
+- [How to Patch the Deprecated set-output in GitHub Workflows and in Container Actions](https://dev.to/cicirello/how-to-patch-the-deprecated-set-output-in-github-workflows-and-in-container-actions-9co)
+- [Developing FINNoco and why we at FINN love using NocoDB](https://dev.to/finnauto/developing-finnoco-and-why-we-at-finn-love-using-nocodb-1p64)
 - [Centralized Operations on AWS by using AWS System Manager - Part 2](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-2-3po4)
-- [Centralized Operations on AWS by using AWS System Manager - Part 1](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-1-5en0)
-- [A spinner &lpar;aka loading animation&rpar; for terminal in Go](https://dev.to/adhocore/a-spinner-aka-loading-animation-for-terminal-in-go-1cjn)
-- [How far off is AI created music?](https://dev.to/music-discussions/how-far-off-is-ai-created-music-54dp)
 <!-- BLOG-POST-LIST:END -->
 
