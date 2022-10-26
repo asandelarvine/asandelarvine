@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Centralized Operations on AWS by using AWS System Manager - Part 2](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-2-3po4)
+- [Centralized Operations on AWS by using AWS System Manager - Part 1](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-1-5en0)
 - [A spinner &lpar;aka loading animation&rpar; for terminal in Go](https://dev.to/adhocore/a-spinner-aka-loading-animation-for-terminal-in-go-1cjn)
 - [How far off is AI created music?](https://dev.to/music-discussions/how-far-off-is-ai-created-music-54dp)
-- [CIS Framework For Kubernetes](https://dev.to/thenjdevopsguy/cis-framework-for-kubernetes-217a)
-- [Is your package.json safe?](https://dev.to/mishgun/is-your-packagejson-safe-20c1)
 <!-- BLOG-POST-LIST:END -->
 
