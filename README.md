@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OutSystems vs. Mendix: Clash Of The Low-Code Titans](https://dev.to/domfive/outsystems-vs-mendix-clash-of-the-low-code-titans-1hfd)
-- [What is The Collab Lab?](https://dev.to/the-collab-lab/what-is-the-collab-lab-427f)
-- [What display: grid does?](https://dev.to/melnik909/what-display-grid-does-3ain)
-- [Credit card chips and encryption in plain JavaScript](https://dev.to/isaacdlyman/credit-card-chips-and-encryption-in-plain-javascript-42p5)
+- [Controlling Services and Daemons](https://dev.to/elisamp12/controlling-services-and-daemons-1jo5)
+- [Chapter 14. Installing and Updating Software Packages](https://dev.to/nurulkhofifaaenun/chapter-14-installing-and-updating-software-packages-4ai)
+- [CHAPTER 2 &lpar;SCHEDULING-FUTURE TASKS&rpar;](https://dev.to/nadiaa11812/chapter-2-scheduling-future-tasks-h13)
+- [Managing Local Users and Groups](https://dev.to/belaaisyah12/managing-local-users-and-groups-1723)
 <!-- BLOG-POST-LIST:END -->
 
