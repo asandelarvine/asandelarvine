@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is The Collab Lab?](https://dev.to/the-collab-lab/what-is-the-collab-lab-427f)
 - [What display: grid does?](https://dev.to/melnik909/what-display-grid-does-3ain)
 - [Credit card chips and encryption in plain JavaScript](https://dev.to/isaacdlyman/credit-card-chips-and-encryption-in-plain-javascript-42p5)
 - [TDD: What&#39;s your React-ion?](https://dev.to/aleoyakas/tdd-whats-your-react-ion-24al)
-- [When do you think is the most optimal time to post on DEV? 🤔](https://dev.to/michaeltharrington/when-do-you-think-is-the-most-optimal-time-to-post-on-dev-ekb)
 <!-- BLOG-POST-LIST:END -->
 
