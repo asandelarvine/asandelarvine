@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing my little journey of HacktoberFest with you!](https://dev.to/prakhartiwari0/sharing-my-little-journey-of-hacktoberfest-with-you-df8)
+- [FastAPI - Open-Source Starters](https://dev.to/sm0ke/fastapi-open-source-starters-38j3)
+- [Understanding UUIDs in Node.js](https://dev.to/logrocket/understanding-uuids-in-nodejs-4bfe)
 - [Reusable dynamic modal on Vue 3](https://dev.to/cloudx/reusable-dynamic-modal-on-vue-3-1k56)
 - [The Benefits of Using OAS for Your API](https://dev.to/roy8/the-benefits-of-using-oas-for-your-api-36j7)
-- [Vue vs. Angular: Which is better for front-end development? &lpar;2022&rpar;](https://dev.to/hr21don/vue-vs-angular-which-is-better-for-front-end-development-2022-307)
 <!-- BLOG-POST-LIST:END -->
 
