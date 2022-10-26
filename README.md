@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Dark mode pictures &amp; 4 other webdev tips you may want to know 🚀](https://dev.to/mustapha/dark-mode-pictures-4-other-webdev-tips-you-may-want-to-know-2od)
 - [Have you tried React classnames?](https://dev.to/dailydevtips1/have-you-tried-react-classnames-2845)
-- [Free Django eCommerce - DW products from Stripe](https://dev.to/sm0ke/free-django-ecommerce-dw-products-from-stripe-3792)
-- [5 handy PyCharm Plugins and 10 Hotkeys for Beginner](https://dev.to/vadimkolobanov/5-handy-pycharm-plugins-and-10-hotkeys-for-beginner-4gpd)
+- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://dev.to/mmphego/how-i-setup-jenkins-on-docker-container-using-ansible-part-1-49po)
+- [Free Django eCommerce - Use Products from Stripe](https://dev.to/sm0ke/free-django-ecommerce-dw-products-from-stripe-3792)
 <!-- BLOG-POST-LIST:END -->
 
