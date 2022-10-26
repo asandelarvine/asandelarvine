@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Controlling Services and Daemons](https://dev.to/elisamp12/controlling-services-and-daemons-1jo5)
-- [Red Hat Enterprise Linux, Open Sourse dan Close Source, Distribusi Linux, Virtualisasi vs Container vs BareMetal Service](https://dev.to/ainunrfy/red-hat-enterprise-linux-opensourse-dan-closesourcedistribusi-linuxvirtualisasi-vs-container-vs-baremetal-service-21h9)
-- [Weekly web development resources #121](https://dev.to/vincenius/weekly-web-development-resources-121-4h5a)
-- [Chapter 14. Installing and Updating Software Packages](https://dev.to/nurulkhofifaaenun/chapter-14-installing-and-updating-software-packages-4ai)
+- [Dark mode pictures &amp; 4 other webdev tips you may want to know 🚀](https://dev.to/mustapha/dark-mode-pictures-4-other-webdev-tips-you-may-want-to-know-2od)
+- [Have you tried React classnames?](https://dev.to/dailydevtips1/have-you-tried-react-classnames-2845)
+- [Free Django eCommerce - DW products from Stripe](https://dev.to/sm0ke/free-django-ecommerce-dw-products-from-stripe-3792)
+- [5 handy PyCharm Plugins and 10 Hotkeys for Beginner](https://dev.to/vadimkolobanov/5-handy-pycharm-plugins-and-10-hotkeys-for-beginner-4gpd)
 <!-- BLOG-POST-LIST:END -->
 
