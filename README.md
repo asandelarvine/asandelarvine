@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Benefits of Using OAS for Your API](https://dev.to/roy8/the-benefits-of-using-oas-for-your-api-36j7)
+- [Vue vs. Angular: Which is better for front-end development? &lpar;2022&rpar;](https://dev.to/hr21don/vue-vs-angular-which-is-better-for-front-end-development-2022-307)
 - [Deja de usar &quot;&amp;&amp;&quot; para el Conditional Rendering en React](https://dev.to/khriztianmoreno/deja-de-usar-para-el-conditional-rendering-en-react-5b5j)
 - [How to Patch the Deprecated set-output in GitHub Workflows and in Container Actions](https://dev.to/cicirello/how-to-patch-the-deprecated-set-output-in-github-workflows-and-in-container-actions-9co)
-- [Developing FINNoco and why we at FINN love using NocoDB](https://dev.to/finnauto/developing-finnoco-and-why-we-at-finn-love-using-nocodb-1p64)
-- [Centralized Operations on AWS by using AWS System Manager - Part 2](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-2-3po4)
 <!-- BLOG-POST-LIST:END -->
 
