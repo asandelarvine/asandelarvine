@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Execution Machine &lpar;EXM&rpar; - Permanent Serverless Functions](https://dev.to/dabit3/introduction-to-execution-machine-exm-permanent-serverless-functions-3fhb)
 - [How to create a confetti effect in CSS](https://dev.to/logrocket/how-to-create-a-confetti-effect-in-css-4d7c)
 - [FastAPI - Open-Source Starters](https://dev.to/sm0ke/fastapi-open-source-starters-38j3)
 - [Understanding UUIDs in Node.js](https://dev.to/logrocket/understanding-uuids-in-nodejs-4bfe)
-- [Reusable dynamic modal on Vue 3](https://dev.to/cloudx/reusable-dynamic-modal-on-vue-3-1k56)
 <!-- BLOG-POST-LIST:END -->
 
