@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark mode pictures &amp; 4 other webdev tips you may want to know 🚀](https://dev.to/mustapha/dark-mode-pictures-4-other-webdev-tips-you-may-want-to-know-2od)
-- [Have you tried React classnames?](https://dev.to/dailydevtips1/have-you-tried-react-classnames-2845)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://dev.to/mmphego/how-i-setup-jenkins-on-docker-container-using-ansible-part-1-49po)
-- [Free Django eCommerce - Use Products from Stripe](https://dev.to/sm0ke/free-django-ecommerce-dw-products-from-stripe-3792)
+- [Remove Letter To Equalize Frequency](https://dev.to/salahelhossiny/remove-letter-to-equalize-frequency-1nh8)
+- [Need Web App and Mobile App Development Company?](https://dev.to/maheenriaz/need-web-app-and-mobile-app-development-company-4joe)
+- [In One Minute : JSON](https://dev.to/rakeshkr2/in-one-minute-json-1abn)
+- [Building a Login System using Redux](https://dev.to/danielonugha0/building-a-login-system-using-redux-5ce3)
 <!-- BLOG-POST-LIST:END -->
 
