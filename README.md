@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Personalize your static site based on a previous site referral](https://dev.to/whitep4nth3r/personalize-your-static-site-based-on-a-previous-site-referral-299h)
 - [Remove Letter To Equalize Frequency](https://dev.to/salahelhossiny/remove-letter-to-equalize-frequency-1nh8)
 - [Need Web App and Mobile App Development Company?](https://dev.to/maheenriaz/need-web-app-and-mobile-app-development-company-4joe)
 - [In One Minute : JSON](https://dev.to/rakeshkr2/in-one-minute-json-1abn)
-- [Building a Login System using Redux](https://dev.to/danielonugha0/building-a-login-system-using-redux-5ce3)
 <!-- BLOG-POST-LIST:END -->
 
