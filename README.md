@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Controlling Services and Daemons](https://dev.to/elisamp12/controlling-services-and-daemons-1jo5)
+- [Red Hat Enterprise Linux, Open Sourse dan Close Source, Distribusi Linux, Virtualisasi vs Container vs BareMetal Service](https://dev.to/ainunrfy/red-hat-enterprise-linux-opensourse-dan-closesourcedistribusi-linuxvirtualisasi-vs-container-vs-baremetal-service-21h9)
+- [Weekly web development resources #121](https://dev.to/vincenius/weekly-web-development-resources-121-4h5a)
 - [Chapter 14. Installing and Updating Software Packages](https://dev.to/nurulkhofifaaenun/chapter-14-installing-and-updating-software-packages-4ai)
-- [CHAPTER 2 &lpar;SCHEDULING-FUTURE TASKS&rpar;](https://dev.to/nadiaa11812/chapter-2-scheduling-future-tasks-h13)
-- [Managing Local Users and Groups](https://dev.to/belaaisyah12/managing-local-users-and-groups-1723)
 <!-- BLOG-POST-LIST:END -->
 
