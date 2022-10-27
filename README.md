@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make a Vehicle Charging Website Using Html CSS JS](https://dev.to/codewithsadee/how-to-make-a-vehicle-charging-website-using-html-css-js-c0j)
-- [Best sites to learn programming](https://dev.to/albericojr/best-sites-to-learn-programming-4igl)
-- [Got your first Dev job? Cognitive overload and how to avoid doing the same mistakes](https://dev.to/cow_berry/got-your-first-dev-job-cognitive-overload-and-how-to-avoid-doing-the-same-mistakes-37k5)
-- [DXC, we Engineers hardly know ye](https://dev.to/chuloo/dxc-we-engineers-hardly-know-ye-3gmh)
+- [Insane productivity with the CHARM stack](https://dev.to/meteorjs/insane-productivity-with-the-charm-stack-2jp8)
+- [8 must-know tips for writing clean code with Javascript](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)
+- [Optimization techniques for Rive animations in React apps](https://dev.to/alex_barashkov/optimization-techniques-for-rive-animations-in-react-apps-1a8p)
+- [Nightmare on Dev Street: Terrifying Situations to Make Your Spine Tingle](https://dev.to/airbrake/nightmare-on-dev-street-terrifying-situations-to-make-your-spine-tingle-50le)
 <!-- BLOG-POST-LIST:END -->
 
