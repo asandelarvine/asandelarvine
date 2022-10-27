@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Notion Template to Track Your Leetcode Progress &amp; Improve Productivity 🚀](https://dev.to/owensingh/notion-template-to-track-your-leetcode-progress-1l15)
 - [Reducing rerenders in nested/recursive components?](https://dev.to/viveleroi/reducing-rerenders-in-nestedrecursive-components-3ij3)
 - [Build A K-pop Radio in Go!](https://dev.to/rayfrompsu/build-a-k-pop-radio-in-go-2080)
 - [Medusa Hackathon Winner Announcement](https://dev.to/medusajs/medusa-hackathon-winner-announcement-41h)
-- [A Hidden Gem: Two Ways to Improve AWS Fargate Container Launch Times](https://dev.to/aws-heroes/a-hidden-gem-two-ways-to-improve-aws-fargate-container-launch-times-51fo)
 <!-- BLOG-POST-LIST:END -->
 
