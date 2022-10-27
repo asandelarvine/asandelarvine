@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang Tutorial: Upload Bulk Files to aws S3 Using Golang](https://dev.to/mavensingh/golang-tutorial-upload-bulk-files-to-aws-s3-using-golang-6kg)
 - [Insane productivity with the CHARM stack](https://dev.to/meteorjs/insane-productivity-with-the-charm-stack-2jp8)
 - [8 must-know tips for writing clean code with Javascript](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)
 - [Optimization techniques for Rive animations in React apps](https://dev.to/alex_barashkov/optimization-techniques-for-rive-animations-in-react-apps-1a8p)
-- [Nightmare on Dev Street: Terrifying Situations to Make Your Spine Tingle](https://dev.to/airbrake/nightmare-on-dev-street-terrifying-situations-to-make-your-spine-tingle-50le)
 <!-- BLOG-POST-LIST:END -->
 
