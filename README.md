@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React ref and useRef Hook](https://dev.to/refine/react-ref-and-useref-hook-1ggb)
+- [Answer.dev trending at #1 on github](https://dev.to/answerdev/answerdev-trending-at-1-on-github-3o31)
 - [Will Low-Code steal your job?](https://dev.to/polterguy/will-low-code-steal-your-job-j1a)
 - [Create react app and node.js server in one line](https://dev.to/mrpaulishaili/create-client-and-server-in-one-line-48nh)
-- [How a VS Code Extension &quot;Todo Tree&quot; can make your coding easier | Todo Tree Configuration | Highlighting Comments](https://dev.to/koustav/how-a-vs-code-extension-todo-tree-can-make-your-coding-easier-todo-tree-configuration-and-use-cases-11kc)
-- [Pure CSS Turbopack Logo](https://dev.to/asyrafhussin4/pure-css-turbopack-logo-2f2)
 <!-- BLOG-POST-LIST:END -->
 
