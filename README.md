@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Thymeleaf CRUD example](https://dev.to/tienbku/spring-boot-thymeleaf-crud-example-ijk)
+- [Re-defining Trading Cards using Dynamic NFTs](https://dev.to/anil_from_revise/re-defining-trading-cards-using-dynamic-nfts-3jg9)
+- [Strategies to Build Your Backend with Hasura and PostgreSQL](https://dev.to/quokkalabs/strategies-to-build-your-backend-with-hasura-and-postgresql-497f)
 - [How Muay Thai and Powerlifting Made Me a Better Programmer 🥊🏋️‍♀️👩🏻‍💻 – Hacktoberfest Wrap-up!](https://dev.to/saminarp/how-muay-thai-and-powerlifting-made-me-a-better-programmer-hacktoberfest-wrap-up-46g0)
-- [React ref and useRef Hook](https://dev.to/refine/react-ref-and-useref-hook-1ggb)
-- [Answer.dev trending at #1 on github](https://dev.to/answerdev/answerdev-trending-at-1-on-github-3o31)
-- [Will Low-Code steal your job?](https://dev.to/polterguy/will-low-code-steal-your-job-j1a)
 <!-- BLOG-POST-LIST:END -->
 
