@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic kubernetes](https://dev.to/israellopes/basic-kubernetes-5c0a)
+- [How to show Loading wrapper in ReactJS / React Native while api call !](https://dev.to/suyashvash/how-to-show-loading-wrapper-in-reactjs-react-native-while-api-call--26oe)
 - [Notion Template to Track Your Leetcode Progress &amp; Improve Productivity 🚀](https://dev.to/owensingh/notion-template-to-track-your-leetcode-progress-1l15)
 - [Reducing rerenders in nested/recursive components?](https://dev.to/viveleroi/reducing-rerenders-in-nestedrecursive-components-3ij3)
-- [Build A K-pop Radio in Go!](https://dev.to/rayfrompsu/build-a-k-pop-radio-in-go-2080)
-- [Medusa Hackathon Winner Announcement](https://dev.to/medusajs/medusa-hackathon-winner-announcement-41h)
 <!-- BLOG-POST-LIST:END -->
 
