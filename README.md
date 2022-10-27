@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Contextual Design vs. Feature Driven Development](https://dev.to/kathryngrayson/contextual-design-vs-feature-driven-development-37d2)
+- [FastAPI &amp; Stripe - Free eCommerce Starter](https://dev.to/sm0ke/fastapi-stripe-free-ecommerce-starter-36go)
+- [Continuous Integration for Startups: What makes a good testing plan?](https://dev.to/documatic/continuous-integration-for-startups-what-makes-a-good-testing-plan-5cnc)
 - [Using Neo4j in your next Next.js Project](https://dev.to/adamcowley/using-neo4j-in-your-next-nextjs-project-77)
-- [C4 model for system architecture design](https://dev.to/icepanel/c4-model-for-system-architecture-design-16dh)
-- [Difference between Cluster Autoscaler &amp; Karpenter](https://dev.to/makendrang/difference-between-cluster-autoscaler-karpenter-179n)
-- [In One Minute : Django](https://dev.to/rakeshkr2/in-one-minute-django-3cip)
 <!-- BLOG-POST-LIST:END -->
 
