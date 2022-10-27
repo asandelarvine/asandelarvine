@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Cluster Autoscaler &amp; Karpenter](https://dev.to/makendrang/difference-between-cluster-autoscaler-karpenter-179n)
 - [In One Minute : Django](https://dev.to/rakeshkr2/in-one-minute-django-3cip)
+- [Is Tailwind CSS Accessible?](https://dev.to/devsatasurion/is-tailwind-css-accessible-52dc)
 - [Introduction to Karpenter](https://dev.to/makendrang/introduction-to-karpenter-55hp)
-- [Questions to Expect in an Interview](https://dev.to/chemwenochelsea/questions-to-expect-in-an-interview-3jgb)
-- [How to publish my Next.js app into npm package](https://dev.to/travishamilton/how-to-publish-my-nextjs-app-into-npm-package-4232)
 <!-- BLOG-POST-LIST:END -->
 
