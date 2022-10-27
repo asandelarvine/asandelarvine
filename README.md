@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Construindo um currículo para DevRel](https://dev.to/feministech/construindo-um-curriculo-para-devrel-1fka)
 - [Manual lazy loading of Angular component and providers with Standalone APIs &lpar;without NgModule&rpar; 🥢](https://dev.to/krisplatis/manual-lazy-loading-angular-component-and-providers-with-standalone-apis-without-ngmodule-15i2)
 - [How and why DevOps became DevSecOps](https://dev.to/jaysingh/what-is-devops-and-how-has-it-evolved-into-devsecops-27p)
 - [Passing Markdown components to React or Preact in Astro](https://dev.to/cassidoo/passing-markdown-components-to-react-or-preact-in-astro-31ml)
-- [What is Babel? The Popular JavaScript Compiler](https://dev.to/teejaydixon/what-is-babel-the-popular-javascript-compiler-58g9)
 <!-- BLOG-POST-LIST:END -->
 
