@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ASP.NET: CRON Service Worker](https://dev.to/isaacojeda/aspnet-cron-service-worker-2no9)
+- [Automate pull requests in 1 minute with Reviewpad](https://dev.to/marcelosousa/automate-pull-requests-in-1-minute-with-reviewpad-5di5)
 - [Basic kubernetes](https://dev.to/israellopes/basic-kubernetes-5c0a)
 - [How to show Loading wrapper in ReactJS / React Native while api call !](https://dev.to/suyashvash/how-to-show-loading-wrapper-in-reactjs-react-native-while-api-call--26oe)
-- [Notion Template to Track Your Leetcode Progress &amp; Improve Productivity 🚀](https://dev.to/owensingh/notion-template-to-track-your-leetcode-progress-1l15)
-- [Reducing rerenders in nested/recursive components?](https://dev.to/viveleroi/reducing-rerenders-in-nestedrecursive-components-3ij3)
 <!-- BLOG-POST-LIST:END -->
 
