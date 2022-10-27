@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How a VS Code Extension &quot;Todo Tree&quot; can make your coding easier | Todo Tree Configuration | Highlighting Comments](https://dev.to/koustav/how-a-vs-code-extension-todo-tree-can-make-your-coding-easier-todo-tree-configuration-and-use-cases-11kc)
+- [Pure CSS Turbopack Logo](https://dev.to/asyrafhussin4/pure-css-turbopack-logo-2f2)
 - [A good code thief](https://dev.to/batunpc/a-good-code-thief-5dnl)
 - [Construindo um currículo para DevRel](https://dev.to/feministech/construindo-um-curriculo-para-devrel-1fka)
-- [Code coverage for a running Deno server](https://dev.to/anishkny/code-coverage-for-a-running-deno-server-35ga)
-- [Manual lazy loading of Angular component and providers with Standalone APIs &lpar;without NgModule&rpar; 🥢](https://dev.to/krisplatis/manual-lazy-loading-angular-component-and-providers-with-standalone-apis-without-ngmodule-15i2)
 <!-- BLOG-POST-LIST:END -->
 
