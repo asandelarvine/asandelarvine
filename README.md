@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A good code thief](https://dev.to/batunpc/a-good-code-thief-5dnl)
 - [Construindo um currículo para DevRel](https://dev.to/feministech/construindo-um-curriculo-para-devrel-1fka)
+- [Code coverage for a running Deno server](https://dev.to/anishkny/code-coverage-for-a-running-deno-server-35ga)
 - [Manual lazy loading of Angular component and providers with Standalone APIs &lpar;without NgModule&rpar; 🥢](https://dev.to/krisplatis/manual-lazy-loading-angular-component-and-providers-with-standalone-apis-without-ngmodule-15i2)
-- [How and why DevOps became DevSecOps](https://dev.to/jaysingh/what-is-devops-and-how-has-it-evolved-into-devsecops-27p)
-- [Passing Markdown components to React or Preact in Astro](https://dev.to/cassidoo/passing-markdown-components-to-react-or-preact-in-astro-31ml)
 <!-- BLOG-POST-LIST:END -->
 
