@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Thymeleaf CRUD example](https://dev.to/tienbku/spring-boot-thymeleaf-crud-example-ijk)
-- [Re-defining Trading Cards using Dynamic NFTs](https://dev.to/anil_from_revise/re-defining-trading-cards-using-dynamic-nfts-3jg9)
-- [Strategies to Build Your Backend with Hasura and PostgreSQL](https://dev.to/quokkalabs/strategies-to-build-your-backend-with-hasura-and-postgresql-497f)
-- [How Muay Thai and Powerlifting Made Me a Better Programmer 🥊🏋️‍♀️👩🏻‍💻 – Hacktoberfest Wrap-up!](https://dev.to/saminarp/how-muay-thai-and-powerlifting-made-me-a-better-programmer-hacktoberfest-wrap-up-46g0)
+- [How to Make a Vehicle Charging Website Using Html CSS JS](https://dev.to/codewithsadee/how-to-make-a-vehicle-charging-website-using-html-css-js-c0j)
+- [Best sites to learn programming](https://dev.to/albericojr/best-sites-to-learn-programming-4igl)
+- [Got your first Dev job? Cognitive overload and how to avoid doing the same mistakes](https://dev.to/cow_berry/got-your-first-dev-job-cognitive-overload-and-how-to-avoid-doing-the-same-mistakes-37k5)
+- [DXC, we Engineers hardly know ye](https://dev.to/chuloo/dxc-we-engineers-hardly-know-ye-3gmh)
 <!-- BLOG-POST-LIST:END -->
 
