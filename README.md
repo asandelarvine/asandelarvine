@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reducing rerenders in nested/recursive components?](https://dev.to/viveleroi/reducing-rerenders-in-nestedrecursive-components-3ij3)
 - [Build A K-pop Radio in Go!](https://dev.to/rayfrompsu/build-a-k-pop-radio-in-go-2080)
 - [Medusa Hackathon Winner Announcement](https://dev.to/medusajs/medusa-hackathon-winner-announcement-41h)
-- [Contextual Design vs. Feature Driven Development](https://dev.to/kathryngrayson/contextual-design-vs-feature-driven-development-37d2)
-- [Using S3 from AWS&#39;s SageMaker](https://dev.to/devsatasurion/using-s3-from-awss-sagemaker-477p)
+- [A Hidden Gem: Two Ways to Improve AWS Fargate Container Launch Times](https://dev.to/aws-heroes/a-hidden-gem-two-ways-to-improve-aws-fargate-container-launch-times-51fo)
 <!-- BLOG-POST-LIST:END -->
 
