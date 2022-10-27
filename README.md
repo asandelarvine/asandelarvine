@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Neo4j in your next Next.js Project](https://dev.to/adamcowley/using-neo4j-in-your-next-nextjs-project-77)
+- [C4 model for system architecture design](https://dev.to/icepanel/c4-model-for-system-architecture-design-16dh)
 - [Difference between Cluster Autoscaler &amp; Karpenter](https://dev.to/makendrang/difference-between-cluster-autoscaler-karpenter-179n)
 - [In One Minute : Django](https://dev.to/rakeshkr2/in-one-minute-django-3cip)
-- [Is Tailwind CSS Accessible?](https://dev.to/devsatasurion/is-tailwind-css-accessible-52dc)
-- [Introduction to Karpenter](https://dev.to/makendrang/introduction-to-karpenter-55hp)
 <!-- BLOG-POST-LIST:END -->
 
