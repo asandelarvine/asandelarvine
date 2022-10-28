@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy PHP applications using AWS OpsWorks](https://dev.to/aws-builders/deploy-php-applications-using-aws-opsworks-4n1d)
-- [A Bash script for dotfiles](https://dev.to/jmau111/a-bash-script-for-dotfiles-24do)
-- [UK Global Talent Visa: How to Start](https://dev.to/beetlehope/uk-global-talent-visa-how-to-start-4bg8)
-- [AWS open source newsletter, #133](https://dev.to/aws/aws-open-source-newsletter-133-ocf)
+- [In One Minute : Amazon EC2](https://dev.to/rakeshkr2/in-one-minute-amazon-ec2-3j0g)
+- [Code that maintains Code - The &quot;Holy Grail&quot; of Low-Code](https://dev.to/polterguy/code-that-maintains-code-the-holy-grail-of-low-code-4gop)
+- [Demystifying machine learning via Bluetooth with Arduino](https://dev.to/stripe/demystifying-machine-learning-via-bluetooth-with-arduino-3j90)
+- [Playwright ?](https://dev.to/vibhanshujain/playwright--2b0a)
 <!-- BLOG-POST-LIST:END -->
 
