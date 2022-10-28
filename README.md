@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic forms with Formik and React JS. 📝](https://dev.to/franklin030601/dynamic-forms-with-formik-and-react-js-3no1)
+- [The Economy of Low-Code](https://dev.to/polterguy/the-economy-of-low-code-507h)
 - [Top Laravel Templates](https://dev.to/flatlogic/top-laravel-templates-1eml)
 - [OpenAI&#39;s Whisper is Insane!](https://dev.to/jamescalam/openais-whisper-is-insane-5b7a)
-- [Mengenal lebih lanjut HTML dan Semantic HTML](https://dev.to/azrilardian/mengenal-lebih-lanjut-html-dan-semantic-html-35hb)
-- [Kubernetes 101 - Introduction](https://dev.to/dailydevtips1/kubernetes-101-introduction-5d9)
 <!-- BLOG-POST-LIST:END -->
 
