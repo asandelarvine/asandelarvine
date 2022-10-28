@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you like scary movies? Build a Halloween Project with Twilio](https://dev.to/anthonyjdella/do-you-like-scary-movies-build-a-halloween-project-with-twilio-1jbl)
 - [How to encrypt files with AES using OpenSSL](https://dev.to/vaultree/how-to-encrypt-files-with-aes-using-openssl-23m8)
 - [Authentification avec Express et PrismaDB](https://dev.to/sidali/authentification-avec-express-et-prismadb-plg)
 - [Discussion and Comment of the Week - v22](https://dev.to/devteam/discussion-and-comment-of-the-week-v22-52gi)
-- [Type-Safe TypeScript with Type Narrowing](https://dev.to/this-is-learning/type-safe-typescript-with-type-narrowing-5930)
 <!-- BLOG-POST-LIST:END -->
 
