@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion and Comment of the Week - v22](https://dev.to/devteam/discussion-and-comment-of-the-week-v22-52gi)
+- [Type-Safe TypeScript with Type Narrowing](https://dev.to/this-is-learning/type-safe-typescript-with-type-narrowing-5930)
 - [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-57mi)
-- [Pandas - Data Manipulation and Analysis](https://dev.to/debjotyms/pandas-4575)
-- [Software Delivery Foundation: How you can crack it?](https://dev.to/hrittikhere/software-delivery-foundation-how-you-can-crack-it-jfn)
-- [Let&#39;s talk about our social media intake, shall we?](https://dev.to/erinposting/lets-talk-about-our-social-media-intake-shall-we-551c)
+- [Introducing Nitrogen: Deploy Web Servers and Databases to AWS Nitro Enclaves](https://dev.to/gavinuhma/introducing-nitrogen-deploy-web-servers-and-databases-to-aws-nitro-enclaves-45k9)
 <!-- BLOG-POST-LIST:END -->
 
