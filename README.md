@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy PHP applications using AWS OpsWorks](https://dev.to/aws-builders/deploy-php-applications-using-aws-opsworks-4n1d)
+- [A Bash script for dotfiles](https://dev.to/jmau111/a-bash-script-for-dotfiles-24do)
+- [UK Global Talent Visa: How to Start](https://dev.to/beetlehope/uk-global-talent-visa-how-to-start-4bg8)
 - [AWS open source newsletter, #133](https://dev.to/aws/aws-open-source-newsletter-133-ocf)
-- [A Complete Guide to Modern Waves](https://dev.to/patilganesh1010/a-complete-guide-to-modern-waves-n9n)
-- [Golang Developer](https://dev.to/mavensingh/golang-developer-hcp)
-- [Follow Friday: Rust Edition &lpar;28 October 2022&rpar;](https://dev.to/devteam/follow-friday-rust-edition-28-october-2022-2hk9)
 <!-- BLOG-POST-LIST:END -->
 
