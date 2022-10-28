@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Laravel Templates](https://dev.to/flatlogic/top-laravel-templates-1eml)
 - [OpenAI&#39;s Whisper is Insane!](https://dev.to/jamescalam/openais-whisper-is-insane-5b7a)
 - [Mengenal lebih lanjut HTML dan Semantic HTML](https://dev.to/azrilardian/mengenal-lebih-lanjut-html-dan-semantic-html-35hb)
 - [Kubernetes 101 - Introduction](https://dev.to/dailydevtips1/kubernetes-101-introduction-5d9)
-- [Chrome Extensions of the Month - October 2022](https://dev.to/j471n/chrome-extensions-of-the-month-october-2022-1c0j)
 <!-- BLOG-POST-LIST:END -->
 
