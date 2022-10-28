@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The best Julia programming books going into 2023](https://dev.to/logankilpatrick/the-best-julia-programming-books-going-into-2023-16ch)
+- [Get Started with ReactJS: A Beginner&#39;s Guide](https://dev.to/moses619/get-started-with-reactjs-a-beginners-guide-2hnn)
+- [🎭 Community engagement : submit issues in less time 🗳️⏱️](https://dev.to/adam_cyclones/community-engagement-submit-issues-in-less-time-2dgj)
 - [ASP.NET: CRON Service Worker](https://dev.to/isaacojeda/aspnet-cron-service-worker-2no9)
-- [Automate pull requests in 1 minute with Reviewpad](https://dev.to/marcelosousa/automate-pull-requests-in-1-minute-with-reviewpad-5di5)
-- [Basic kubernetes](https://dev.to/israellopes/basic-kubernetes-5c0a)
-- [How to show Loading wrapper in ReactJS / React Native while api call !](https://dev.to/suyashvash/how-to-show-loading-wrapper-in-reactjs-react-native-while-api-call--26oe)
 <!-- BLOG-POST-LIST:END -->
 
