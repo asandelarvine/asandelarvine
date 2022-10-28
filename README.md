@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The best Julia programming books going into 2023](https://dev.to/logankilpatrick/the-best-julia-programming-books-going-into-2023-16ch)
-- [Get Started with ReactJS: A Beginner&#39;s Guide](https://dev.to/moses619/get-started-with-reactjs-a-beginners-guide-2hnn)
-- [🎭 Community engagement : submit issues in less time 🗳️⏱️](https://dev.to/adam_cyclones/community-engagement-submit-issues-in-less-time-2dgj)
-- [ASP.NET: CRON Service Worker](https://dev.to/isaacojeda/aspnet-cron-service-worker-2no9)
+- [Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-36k6)
+- [Revising the Select Query ii Hackerrank Solution](https://dev.to/realnamehidden1/revising-the-select-query-ii-hackerrank-solution-285e)
+- [🤖 New Engineering Opportunities - Week #44 of 2022](https://dev.to/shman/new-engineering-opportunities-week-44-of-2022-4jek)
+- [Dart Future tutorial with examples](https://dev.to/tienbku/dart-future-tutorial-with-examples-kpo)
 <!-- BLOG-POST-LIST:END -->
 
