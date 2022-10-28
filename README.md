@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mengenal lebih lanjut HTML dan Semantic HTML](https://dev.to/azrilardian/mengenal-lebih-lanjut-html-dan-semantic-html-35hb)
+- [Kubernetes 101 - Introduction](https://dev.to/dailydevtips1/kubernetes-101-introduction-5d9)
+- [Chrome Extensions of the Month - October 2022](https://dev.to/j471n/chrome-extensions-of-the-month-october-2022-1c0j)
 - [Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-36k6)
-- [Revising the Select Query ii Hackerrank Solution](https://dev.to/realnamehidden1/revising-the-select-query-ii-hackerrank-solution-285e)
-- [🤖 New Engineering Opportunities - Week #44 of 2022](https://dev.to/shman/new-engineering-opportunities-week-44-of-2022-4jek)
-- [Dart Future tutorial with examples](https://dev.to/tienbku/dart-future-tutorial-with-examples-kpo)
 <!-- BLOG-POST-LIST:END -->
 
