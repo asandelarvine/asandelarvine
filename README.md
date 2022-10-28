@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pandas - Data Manipulation and Analysis](https://dev.to/debjotyms/pandas-4575)
+- [Software Delivery Foundation: How you can crack it?](https://dev.to/hrittikhere/software-delivery-foundation-how-you-can-crack-it-jfn)
 - [Let&#39;s talk about our social media intake, shall we?](https://dev.to/erinposting/lets-talk-about-our-social-media-intake-shall-we-551c)
 - [Practical intro to scraping with Puppeteer: fetch your country climate data](https://dev.to/antoine_m/practical-intro-to-scraping-with-puppeteer-fetch-your-country-climate-data-59pj)
-- [What&#39;s important when reviewing a team member&#39;s code?](https://dev.to/sloan/whats-important-when-reviewing-a-team-members-code-3n5e)
-- [Hosting Websites using Azure Web Apps and GitHub Pages.](https://dev.to/rituraj13/hosting-websites-using-azure-web-apps-and-github-pages-202g)
 <!-- BLOG-POST-LIST:END -->
 
