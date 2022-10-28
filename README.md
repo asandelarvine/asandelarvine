@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JPA Repository - find by multiple Columns](https://dev.to/tienbku/jpa-repository-find-by-multiple-columns-7nb)
-- [Ultimate Guide To Create an API Documentation with Examples](https://dev.to/document360/ultimate-guide-to-create-an-api-documentation-with-examples-2n2d)
-- [Use this to explain how to use your app | Flutter PRO tip #2](https://dev.to/svprdga/use-this-to-explain-how-to-use-your-app-flutter-pro-tip-2-1clp)
-- [New to Open Source? Know everything you need to!](https://dev.to/prakhartiwari0/new-to-open-source-know-everything-you-need-to-3gl2)
+- [AWS open source newsletter, #133](https://dev.to/aws/aws-open-source-newsletter-133-ocf)
+- [A Complete Guide to Modern Waves](https://dev.to/patilganesh1010/a-complete-guide-to-modern-waves-n9n)
+- [Golang Developer](https://dev.to/mavensingh/golang-developer-hcp)
+- [Follow Friday: Rust Edition &lpar;28 October 2022&rpar;](https://dev.to/devteam/follow-friday-rust-edition-28-october-2022-2hk9)
 <!-- BLOG-POST-LIST:END -->
 
