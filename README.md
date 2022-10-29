@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a One-Time-Password&lpar;OTP&rpar; Verification API with Go and Twilio](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-go-and-twilio-3363)
+- [How to build a One-Time-Password&lpar;OTP&rpar; Verification API with Rust and Twilio](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-rust-and-twilio-22il)
+- [Kubernetes 101 - Component overview](https://dev.to/dailydevtips1/kubernetes-101-component-overview-1am2)
 - [Is your manager considering Low-Code?](https://dev.to/polterguy/is-your-manager-considering-low-code-27m6)
-- [I built my own Tweet scheduler which costs less than 1$ per month](https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd)
-- [A Critical Vulnerability Leads to Remote Code Execution in Sophos Firewall - CVE-2022-1040](https://dev.to/tutorialboy/a-critical-vulnerability-leads-to-remote-code-execution-in-sophos-firewall-cve-2022-1040-4idm)
-- [Unit testing like a Hacker](https://dev.to/batunpc/unit-testing-like-a-hacker-1e3m)
 <!-- BLOG-POST-LIST:END -->
 
