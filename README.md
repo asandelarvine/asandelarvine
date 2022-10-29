@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Is your manager considering Low-Code?](https://dev.to/polterguy/is-your-manager-considering-low-code-27m6)
+- [I built my own Tweet scheduler which costs less than 1$ per month](https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd)
 - [A Critical Vulnerability Leads to Remote Code Execution in Sophos Firewall - CVE-2022-1040](https://dev.to/tutorialboy/a-critical-vulnerability-leads-to-remote-code-execution-in-sophos-firewall-cve-2022-1040-4idm)
 - [Unit testing like a Hacker](https://dev.to/batunpc/unit-testing-like-a-hacker-1e3m)
-- [Copying a Feature from Docusaurus 🦖 For My Static Site Generator - rwar 🦁](https://dev.to/saminarp/copying-a-feature-from-docusaurus-for-my-static-site-generator-rwar-49j6)
 <!-- BLOG-POST-LIST:END -->
 
