@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VueJs Beginners part 2 - Methods](https://dev.to/hshoja/vuejs-beginners-part-2-methods-1g7g)
 - [Predict Diamond prices with SQL Alchemy and MindsDB](https://dev.to/tesprogram/predict-diamond-prices-with-sql-alchemy-and-mindsdb-b4e)
 - [Navbar with background blur! Aesthetic look in 2 lines of code .](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
 - [user is not allowed to do action [insert] on [nodeMongoCrud.use]](https://dev.to/shahbajkhan/user-is-not-allowed-to-do-action-insert-on-nodemongocruduse-3ke0)
-- [Code Smell 174 - Class Name in Attributes](https://dev.to/mcsee/code-smell-174-class-name-in-attributes-55c)
 <!-- BLOG-POST-LIST:END -->
 
