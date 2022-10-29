@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navbar with background blur! Aesthetic look in 2 lines of code .](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
+- [user is not allowed to do action [insert] on [nodeMongoCrud.use]](https://dev.to/shahbajkhan/user-is-not-allowed-to-do-action-insert-on-nodemongocruduse-3ke0)
 - [Kafka Vs RabbitMQ](https://dev.to/rakeshkr2/kafka-vs-rabbitmq-4ioj)
-- [Carbon Program to swap digits](https://dev.to/mavensingh/carbon-program-to-swap-digits-37fh)
-- [How To Make a Food Delivery Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-food-delivery-website-using-html-css-javascript-4ne3)
-- [Data Science: Better graph with matplotlib and python](https://dev.to/azadkshitij/data-science-better-graph-with-matplotlib-and-python-3f0b)
+- [How to Integrate Pay with Crypto Payment Checkout with Lazerpay](https://dev.to/koha/how-to-integrate-pay-with-crypto-payment-checkout-with-lazerpay-343a)
 <!-- BLOG-POST-LIST:END -->
 
