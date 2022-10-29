@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear &quot;developers&quot; who insist they don&#39;t need HTTPS, or SSL certificates](https://dev.to/voltra/dear-developers-who-insist-they-dont-need-https-or-ssl-certificates-2oll)
 - [How to build a One-Time-Password&lpar;OTP&rpar; Verification API with Go and Twilio](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-go-and-twilio-3363)
 - [How to build a One-Time-Password&lpar;OTP&rpar; Verification API with Rust and Twilio](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-rust-and-twilio-22il)
 - [Programming Burnout, how to handle it.](https://dev.to/ezeanamichael/programming-burnout-how-to-handle-it-28l1)
-- [Kubernetes 101 - Component overview](https://dev.to/dailydevtips1/kubernetes-101-component-overview-1am2)
 <!-- BLOG-POST-LIST:END -->
 
