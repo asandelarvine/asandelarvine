@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear &quot;developers&quot; who insist they don&#39;t need HTTPS, or SSL certificates](https://dev.to/voltra/dear-developers-who-insist-they-dont-need-https-or-ssl-certificates-2oll)
+- [Carbon Program to swap digits](https://dev.to/mavensingh/carbon-program-to-swap-digits-37fh)
+- [How To Make a Food Delivery Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-food-delivery-website-using-html-css-javascript-4ne3)
+- [Data Science: Better graph with matplotlib and python](https://dev.to/azadkshitij/data-science-better-graph-with-matplotlib-and-python-3f0b)
 - [How to build a One-Time-Password&lpar;OTP&rpar; Verification API with Go and Twilio](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-go-and-twilio-3363)
-- [How to build a One-Time-Password&lpar;OTP&rpar; Verification API with Rust and Twilio](https://dev.to/hackmamba/how-to-build-a-one-time-passwordotp-verification-api-with-rust-and-twilio-22il)
-- [Programming Burnout, how to handle it.](https://dev.to/ezeanamichael/programming-burnout-how-to-handle-it-28l1)
 <!-- BLOG-POST-LIST:END -->
 
