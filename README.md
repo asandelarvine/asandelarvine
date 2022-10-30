@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying PHP applications using AWS OpsWorks](https://dev.to/makendrang/deploying-php-applications-using-aws-opsworks-9ej)
-- [Uniswap clone script &lpar;top 10 features&rpar;](https://dev.to/talbotvianna/uniswap-clone-script-top-10-features-5dpo)
-- [Useful XSS Payloads](https://dev.to/vabro/useful-xss-payloads-1b7l)
-- [Remitano clone script-Essential features &lpar;top 20&rpar;](https://dev.to/daviddalton/remitano-clone-script-essential-features-top-20-2hl6)
+- [How to Divide router by Datatype in Path parameter. &lpar;FastAPI endpoint Advanced tip.&rpar;](https://dev.to/gyudoza/how-to-divide-router-by-datatype-in-path-parameter-fastapi-endpoint-advanced-tip-1646)
+- [Keep Your MacBook Battery Healthy and Extend Its Life using Python](https://dev.to/owensingh/keep-your-macbook-battery-healthy-and-extend-its-life-using-python-17ck)
+- [Material UI Select in React](https://dev.to/refine/material-ui-select-in-react-fm)
+- [AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK](https://dev.to/aws-builders/aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83)
 <!-- BLOG-POST-LIST:END -->
 
