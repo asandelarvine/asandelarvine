@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The History of Innovation, the Dodo, and the Low-Code](https://dev.to/polterguy/the-history-of-innovation-the-dodo-and-the-low-code-59e7)
+- [Source Code Analysis for Go HTTP Framework Hertz](https://dev.to/baize1998/source-code-analysis-for-go-http-framework-hertz-4jgi)
 - [Who will win the 2022 Brazilian Presidential Election?, according to statistics.](https://dev.to/christianpaez/who-will-win-the-2022-brazilian-presidential-election-according-to-statistics-5c92)
 - [VueJs Beginners part 2 - Methods](https://dev.to/hshoja/vuejs-beginners-part-2-methods-1g7g)
-- [Use NextJS Server Side Pre-Rendering like a boss !🔥](https://dev.to/devneagu/the-power-of-nextjs-ssg-pre-rendering-196m)
-- [10 Reasons to Become a Front-End Developer](https://dev.to/amrtcrypto/10-reasons-to-become-a-front-end-developer-53g4)
 <!-- BLOG-POST-LIST:END -->
 
