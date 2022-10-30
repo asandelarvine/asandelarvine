@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a WhatsApp Web UI Clone using Tailwind CSS](https://dev.to/devrohit0/how-to-create-a-whatsapp-web-ui-clone-using-tailwind-css-3ojf)
 - [Signature verification on hybrid method](https://dev.to/ponyjackal/signature-verification-on-hybrid-method-2349)
 - [How to Make Responsive Landing Page Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-landing-page-using-html-css-javascript-13jj)
 - [In One Minute : SpringBoot](https://dev.to/rakeshkr2/in-one-minute-springboot-bbk)
-- [Quick start to Recursion | Identify Use case | In Simple Words](https://dev.to/frozen_codes/quick-start-to-recursion-identify-use-case-in-simple-words-3h3d)
 <!-- BLOG-POST-LIST:END -->
 
