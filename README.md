@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : SpringBoot](https://dev.to/rakeshkr2/in-one-minute-springboot-bbk)
+- [Awesome VS Code Extensions for Navigating Large Codebases](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
 - [How to Divide router by Datatype in Path parameter. &lpar;FastAPI endpoint Advanced tip.&rpar;](https://dev.to/gyudoza/how-to-divide-router-by-datatype-in-path-parameter-fastapi-endpoint-advanced-tip-1646)
 - [Keep Your MacBook Battery Healthy and Extend Its Life using Python](https://dev.to/owensingh/keep-your-macbook-battery-healthy-and-extend-its-life-using-python-17ck)
-- [Material UI Select in React](https://dev.to/refine/material-ui-select-in-react-fm)
-- [AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK](https://dev.to/aws-builders/aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83)
 <!-- BLOG-POST-LIST:END -->
 
