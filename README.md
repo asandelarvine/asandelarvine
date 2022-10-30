@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Signature verification on hybrid method](https://dev.to/ponyjackal/signature-verification-on-hybrid-method-2349)
 - [How to Make Responsive Landing Page Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-landing-page-using-html-css-javascript-13jj)
 - [In One Minute : SpringBoot](https://dev.to/rakeshkr2/in-one-minute-springboot-bbk)
-- [Awesome VS Code Extensions for Navigating Large Codebases](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
+- [Quick start to Recursion | Identify Use case | In Simple Words](https://dev.to/frozen_codes/quick-start-to-recursion-identify-use-case-in-simple-words-3h3d)
 <!-- BLOG-POST-LIST:END -->
 
