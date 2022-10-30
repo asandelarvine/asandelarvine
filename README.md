@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Uniswap clone script &lpar;top 10 features&rpar;](https://dev.to/talbotvianna/uniswap-clone-script-top-10-features-5dpo)
+- [Useful XSS Payloads](https://dev.to/vabro/useful-xss-payloads-1b7l)
+- [Remitano clone script-Essential features &lpar;top 20&rpar;](https://dev.to/daviddalton/remitano-clone-script-essential-features-top-20-2hl6)
 - [PancakeSwap clone script &lpar;Premium features and andvantages&rpar;](https://dev.to/bernthalhugh/pancakeswap-clone-script-n57)
-- [7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)
-- [The History of Innovation, the Dodo, and the Low-Code](https://dev.to/polterguy/the-history-of-innovation-the-dodo-and-the-low-code-59e7)
-- [Source Code Analysis for Go HTTP Framework Hertz](https://dev.to/baize1998/source-code-analysis-for-go-http-framework-hertz-4jgi)
 <!-- BLOG-POST-LIST:END -->
 
