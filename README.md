@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Signature verification on hybrid method](https://dev.to/ponyjackal/signature-verification-on-hybrid-method-2349)
 - [How to Make Responsive Landing Page Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-landing-page-using-html-css-javascript-13jj)
 - [In One Minute : SpringBoot](https://dev.to/rakeshkr2/in-one-minute-springboot-bbk)
 - [Awesome VS Code Extensions for Navigating Large Codebases](https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n)
-- [How to Divide router by Datatype in Path parameter. &lpar;FastAPI endpoint Advanced tip.&rpar;](https://dev.to/gyudoza/how-to-divide-router-by-datatype-in-path-parameter-fastapi-endpoint-advanced-tip-1646)
 <!-- BLOG-POST-LIST:END -->
 
