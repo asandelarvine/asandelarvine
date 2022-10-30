@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigation between pages](https://dev.to/yuridevat/navigation-between-pages-4cb8)
 - [Python Flask: Interacts with Docker Containers](https://dev.to/lico/python-3-flask-interacts-with-docker-containers-3nce)
 - [Flutter ile Firebase Crashlytics Kullanımı 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-ile-firebase-crashlytics-kullanimi-5am0)
 - [You don’t need the git CLI](https://dev.to/noriller/you-dont-need-the-git-cli-i0e)
-- [How to create a WhatsApp Web UI Clone using Tailwind CSS](https://dev.to/devrohit0/how-to-create-a-whatsapp-web-ui-clone-using-tailwind-css-3ojf)
 <!-- BLOG-POST-LIST:END -->
 
