@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying PHP applications using AWS OpsWorks](https://dev.to/makendrang/deploying-php-applications-using-aws-opsworks-9ej)
 - [Uniswap clone script &lpar;top 10 features&rpar;](https://dev.to/talbotvianna/uniswap-clone-script-top-10-features-5dpo)
 - [Useful XSS Payloads](https://dev.to/vabro/useful-xss-payloads-1b7l)
 - [Remitano clone script-Essential features &lpar;top 20&rpar;](https://dev.to/daviddalton/remitano-clone-script-essential-features-top-20-2hl6)
-- [PancakeSwap clone script &lpar;Premium features and andvantages&rpar;](https://dev.to/bernthalhugh/pancakeswap-clone-script-n57)
 <!-- BLOG-POST-LIST:END -->
 
