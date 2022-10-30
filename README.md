@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PancakeSwap clone script &lpar;Premium features and andvantages&rpar;](https://dev.to/bernthalhugh/pancakeswap-clone-script-n57)
 - [7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)
 - [The History of Innovation, the Dodo, and the Low-Code](https://dev.to/polterguy/the-history-of-innovation-the-dodo-and-the-low-code-59e7)
 - [Source Code Analysis for Go HTTP Framework Hertz](https://dev.to/baize1998/source-code-analysis-for-go-http-framework-hertz-4jgi)
-- [Who will win the 2022 Brazilian Presidential Election?, according to statistics.](https://dev.to/christianpaez/who-will-win-the-2022-brazilian-presidential-election-according-to-statistics-5c92)
 <!-- BLOG-POST-LIST:END -->
 
