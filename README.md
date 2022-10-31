@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building your own form fields the Angular way with control value accessors](https://dev.to/pbouillon/building-your-own-form-fields-the-angular-way-with-control-value-accessors-3imp)
 - [How to Make Income Tracker in React](https://dev.to/reactjsguru/how-to-make-income-tracker-in-react-3ini)
 - [Zero Down Time Deployment!](https://dev.to/azibom/zero-down-time-deployment-3le8)
 - [How to Setup a React + Vite Project with TailwindCSS Framework](https://dev.to/meenahgurl/how-to-setup-a-react-vite-project-with-tailwindcss-framework-95b)
-- [About OAuth 2.0](https://dev.to/theankansaha/about-oauth-20-44eg)
 <!-- BLOG-POST-LIST:END -->
 
