@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best Way To Build Big React Components 🤯](https://dev.to/devsatasurion/the-best-way-to-build-big-react-components-5295)
+- [Guided Journaling for Developers: Increase Productivity with Mindfulness](https://dev.to/devjour/guided-journaling-for-developers-increase-productivity-with-mindfulness-4nph)
 - [Meme Monday 🫡](https://dev.to/ben/meme-monday-31h9)
 - [My Fourth Hacktoberfest PR](https://dev.to/rudychung/my-fourth-hacktoberfest-pr-4amf)
-- [The new YugabyteDB gflags page](https://dev.to/yugabyte/the-new-yugabytedb-gflags-page-49gn)
-- [UK Global Talent Visa Course is out 🔥](https://dev.to/beetlehope/uk-global-talent-visa-course-is-out-8gg)
 <!-- BLOG-POST-LIST:END -->
 
