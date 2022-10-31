@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to Make Income Tracker in React](https://dev.to/reactjsguru/how-to-make-income-tracker-in-react-3ini)
 - [Zero Down Time Deployment!](https://dev.to/azibom/zero-down-time-deployment-3le8)
+- [How to Setup a React + Vite Project with TailwindCSS Framework](https://dev.to/meenahgurl/how-to-setup-a-react-vite-project-with-tailwindcss-framework-95b)
 - [About OAuth 2.0](https://dev.to/theankansaha/about-oauth-20-44eg)
-- [Istilah Umum dalam Pemrograman Komputer](https://dev.to/azrilardian/istilah-umum-dalam-pemrograman-komputer-2njg)
 <!-- BLOG-POST-LIST:END -->
 
