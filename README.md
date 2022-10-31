@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Django Dynamic DataTables - Free Library](https://dev.to/sm0ke/django-dynamic-datatables-free-library-3i9i)
+- [How To Write The Software Development Project Brief](https://dev.to/flatlogic/how-to-write-the-software-development-project-brief-289a)
 - [Read Constraints the Right Way](https://dev.to/alimalim77/read-constraints-the-right-way-3aka)
 - [Quick Admin Panel alternative. Flatlogic Web Application Generator versus Quick admin panel](https://dev.to/flatlogic/quick-admin-panel-alternative-flatlogic-web-application-generator-versus-quick-admin-panel-m03)
-- [Web Scraping With PHP | Ultimate Tutorial](https://dev.to/oxylabs-io/web-scraping-with-php-ultimate-tutorial-35n)
-- [Preact an alternative to React?](https://dev.to/amirlotfi/preact-an-alternative-to-react-4p15)
 <!-- BLOG-POST-LIST:END -->
 
