@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Dynamic DataTables - Free Library](https://dev.to/sm0ke/django-dynamic-datatables-free-library-3i9i)
-- [How To Write The Software Development Project Brief](https://dev.to/flatlogic/how-to-write-the-software-development-project-brief-289a)
-- [Read Constraints the Right Way](https://dev.to/alimalim77/read-constraints-the-right-way-3aka)
-- [Quick Admin Panel alternative. Flatlogic Web Application Generator versus Quick admin panel](https://dev.to/flatlogic/quick-admin-panel-alternative-flatlogic-web-application-generator-versus-quick-admin-panel-m03)
+- [Keeping track](https://dev.to/hendr_ik/keeping-track-27od)
+- [What is Kafka ?](https://dev.to/rakeshkr2/what-is-kafka--1fn3)
+- [Validate your data with Zod](https://dev.to/this-is-learning/validate-your-data-with-zod-3i36)
+- [Folder Structure for NodeJS &amp; ExpressJS project](https://dev.to/mr_ali3n/folder-structure-for-nodejs-expressjs-project-435l)
 <!-- BLOG-POST-LIST:END -->
 
