@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a basic CRUD App with .NET MVC &amp; EF](https://dev.to/josemariairiarte/create-a-basic-crud-app-with-net-mvc-ef-35in)
+- [XRP Ledger NFTs are Here](https://dev.to/ripplexdev/xrp-ledger-nfts-are-here-9jb)
 - [Validating AWS Lambda Code Using AWS Signer](https://dev.to/aws-builders/validating-aws-lambda-code-using-aws-signer-2h73)
 - [Building a Livestream App with Flutter 3](https://dev.to/dolbyio/building-a-real-time-streaming-app-with-webrtc-and-flutter-3-2ghj)
-- [5 Free Security Tools Developers Will Love in 2022](https://dev.to/orlandov14/5-free-security-tools-developers-will-love-in-2022-219h)
-- [Why is everyone building on GitHub?](https://dev.to/makendrang/why-is-everyone-building-on-github-1ig1)
 <!-- BLOG-POST-LIST:END -->
 
