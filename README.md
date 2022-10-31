@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Income Tracker in React](https://dev.to/reactjsguru/how-to-make-income-tracker-in-react-3ini)
+- [Zero Down Time Deployment!](https://dev.to/azibom/zero-down-time-deployment-3le8)
+- [About OAuth 2.0](https://dev.to/theankansaha/about-oauth-20-44eg)
 - [Istilah Umum dalam Pemrograman Komputer](https://dev.to/azrilardian/istilah-umum-dalam-pemrograman-komputer-2njg)
-- [Easter eggs in Hacktoberfest 🪺](https://dev.to/batunpc/easter-eggs-in-hacktoberfest-11ei)
-- [Waiting on a Promise.. Async and Await in JavaScript](https://dev.to/qsissler/waiting-on-a-promise-async-and-await-in-javascript-37ng)
-- [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
 <!-- BLOG-POST-LIST:END -->
 
