@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Validating AWS Lambda Code Using AWS Signer](https://dev.to/aws-builders/validating-aws-lambda-code-using-aws-signer-2h73)
+- [Building a Livestream App with Flutter 3](https://dev.to/dolbyio/building-a-real-time-streaming-app-with-webrtc-and-flutter-3-2ghj)
 - [5 Free Security Tools Developers Will Love in 2022](https://dev.to/orlandov14/5-free-security-tools-developers-will-love-in-2022-219h)
 - [Why is everyone building on GitHub?](https://dev.to/makendrang/why-is-everyone-building-on-github-1ig1)
-- [Contributing to Open-Source: My HacktoberFest Experience](https://dev.to/makendrang/contributing-to-open-source-my-hacktoberfest-experience-3828)
-- [What would be a 3 months road map to learn data structures and algorithm ?](https://dev.to/silentkiller18/what-would-be-a-3-months-road-map-to-learn-data-structures-and-algorithm--392o)
 <!-- BLOG-POST-LIST:END -->
 
