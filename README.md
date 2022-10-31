@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Istilah Umum dalam Pemrograman Komputer](https://dev.to/azrilardian/istilah-umum-dalam-pemrograman-komputer-2njg)
 - [Easter eggs in Hacktoberfest 🪺](https://dev.to/batunpc/easter-eggs-in-hacktoberfest-11ei)
 - [Waiting on a Promise.. Async and Await in JavaScript](https://dev.to/qsissler/waiting-on-a-promise-async-and-await-in-javascript-37ng)
 - [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
-- [Start Terraform from zero](https://dev.to/garryxiao/start-terraform-from-zero-5gl6)
 <!-- BLOG-POST-LIST:END -->
 
