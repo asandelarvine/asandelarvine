@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping track](https://dev.to/hendr_ik/keeping-track-27od)
-- [What is Kafka ?](https://dev.to/rakeshkr2/what-is-kafka--1fn3)
-- [Validate your data with Zod](https://dev.to/this-is-learning/validate-your-data-with-zod-3i36)
-- [Folder Structure for NodeJS &amp; ExpressJS project](https://dev.to/mr_ali3n/folder-structure-for-nodejs-expressjs-project-435l)
+- [Find Career Freedom With A Daily Code Workout](https://dev.to/solidi/find-career-freedom-with-a-daily-code-workout-18e9)
+- [You shouldn&#39;t write CSS anymore](https://dev.to/woovi/you-shouldnt-write-css-anymore-1j2j)
+- [I create LinkedIn account 😄](https://dev.to/frezyx/i-create-linkedin-account-44ii)
+- [10 most common use cases of an API Gateway](https://dev.to/apisix/10-most-use-cases-of-an-api-gateway-in-api-led-architecture-24mo)
 <!-- BLOG-POST-LIST:END -->
 
