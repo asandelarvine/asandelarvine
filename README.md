@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Communities You Should Know As a Developer](https://dev.to/patilganesh1010/communities-you-should-know-as-a-developer-1a8k)
-- [Plant Health evaluation using Raspberry Pi, Xamarin Forms App,Azure Function, Table,Storage, Key vault, Custom vision, Drone](https://dev.to/jaymin93/plant-health-evaluation-using-raspberry-pi-xamarin-forms-appazure-function-tablestorage-key-vault-custom-vision-drone-4nn5)
-- [Next.js getInitialProps and getServerSideProps](https://dev.to/refine/nextjs-getinitialprops-and-getserversideprops-e7j)
-- [Find Career Freedom With A Daily Code Workout](https://dev.to/solidi/find-career-freedom-with-a-daily-code-workout-18e9)
+- [UK Global Talent Visa Course is out 🔥](https://dev.to/beetlehope/uk-global-talent-visa-course-is-out-8gg)
+- [JavaScript Array.Prototype.slice&lpar;&rpar; Method Explained](https://dev.to/mavensingh/javascript-arrayprototypeslice-method-explained-2jj4)
+- [PayPal Implementation in Django Rest Framework.](https://dev.to/paulwababu/paypal-implementation-in-django-rest-framework-4kg7)
+- [16 Must Have JavaScript One Linears](https://dev.to/johongirr/16-must-have-javascript-one-linears-42l5)
 <!-- BLOG-POST-LIST:END -->
 
