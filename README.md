@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Communities You Should Know As a Developer](https://dev.to/patilganesh1010/communities-you-should-know-as-a-developer-1a8k)
+- [Plant Health evaluation using Raspberry Pi, Xamarin Forms App,Azure Function, Table,Storage, Key vault, Custom vision, Drone](https://dev.to/jaymin93/plant-health-evaluation-using-raspberry-pi-xamarin-forms-appazure-function-tablestorage-key-vault-custom-vision-drone-4nn5)
+- [Next.js getInitialProps and getServerSideProps](https://dev.to/refine/nextjs-getinitialprops-and-getserversideprops-e7j)
 - [Find Career Freedom With A Daily Code Workout](https://dev.to/solidi/find-career-freedom-with-a-daily-code-workout-18e9)
-- [You shouldn&#39;t write CSS anymore](https://dev.to/woovi/you-shouldnt-write-css-anymore-1j2j)
-- [I create LinkedIn account 😄](https://dev.to/frezyx/i-create-linkedin-account-44ii)
-- [10 most common use cases of an API Gateway](https://dev.to/apisix/10-most-use-cases-of-an-api-gateway-in-api-led-architecture-24mo)
 <!-- BLOG-POST-LIST:END -->
 
