@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve AWS CloudFront API performance with Origin Shield](https://dev.to/roman_abdulmanov/improve-aws-cloudfront-api-performance-with-origin-shield-4al6)
+- [We raised €2.2M to launch the open-source platform for growing developer communities](https://dev.to/crowddotdev/we-raised-eu22m-to-launch-the-open-source-platform-for-community-led-growth-565o)
+- [Useful Tools for Front-end Developers](https://dev.to/dillonb07/useful-tools-for-front-end-developers-2nok)
 - [The Best Way To Build Big React Components 🤯](https://dev.to/devsatasurion/the-best-way-to-build-big-react-components-5295)
-- [Guided Journaling for Developers: Increase Productivity with Mindfulness](https://dev.to/devjour/guided-journaling-for-developers-increase-productivity-with-mindfulness-4nph)
-- [Meme Monday 🫡](https://dev.to/ben/meme-monday-31h9)
-- [My Fourth Hacktoberfest PR](https://dev.to/rudychung/my-fourth-hacktoberfest-pr-4amf)
 <!-- BLOG-POST-LIST:END -->
 
