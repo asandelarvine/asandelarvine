@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [October Stripe Developer Digest](https://dev.to/stripe/october-stripe-developer-digest-3f4j)
+- [xRDP oturumunda Türkçe Klavye Problemi Çözümü](https://dev.to/aciklab/xrdp-oturumunda-turkce-klavye-problemi-cozumu-2ama)
+- [17 DevOps Metrics To Measure Success](https://dev.to/semaphore/17-devops-metrics-to-measure-success-26p6)
 - [Improve AWS CloudFront API performance with Origin Shield](https://dev.to/roman_abdulmanov/improve-aws-cloudfront-api-performance-with-origin-shield-4al6)
-- [We raised €2.2M to launch the open-source platform for growing developer communities](https://dev.to/crowddotdev/we-raised-eu22m-to-launch-the-open-source-platform-for-community-led-growth-565o)
-- [Useful Tools for Front-end Developers](https://dev.to/dillonb07/useful-tools-for-front-end-developers-2nok)
-- [The Best Way To Build Big React Components 🤯](https://dev.to/devsatasurion/the-best-way-to-build-big-react-components-5295)
 <!-- BLOG-POST-LIST:END -->
 
