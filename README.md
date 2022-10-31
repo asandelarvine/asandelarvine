@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigation between pages](https://dev.to/yuridevat/navigation-between-pages-4cb8)
-- [Python Flask: Interacts with Docker Containers](https://dev.to/lico/python-3-flask-interacts-with-docker-containers-3nce)
-- [Flutter ile Firebase Crashlytics Kullanımı 💫 🌌 ✨](https://dev.to/gulsenkeskin/flutter-ile-firebase-crashlytics-kullanimi-5am0)
-- [You don’t need the git CLI](https://dev.to/noriller/you-dont-need-the-git-cli-i0e)
+- [Easter eggs in Hacktoberfest 🪺](https://dev.to/batunpc/easter-eggs-in-hacktoberfest-11ei)
+- [Waiting on a Promise.. Async and Await in JavaScript](https://dev.to/qsissler/waiting-on-a-promise-async-and-await-in-javascript-37ng)
+- [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
+- [Start Terraform from zero](https://dev.to/garryxiao/start-terraform-from-zero-5gl6)
 <!-- BLOG-POST-LIST:END -->
 
