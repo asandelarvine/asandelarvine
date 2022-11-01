@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB ORMs, ODMs, and Libraries](https://dev.to/alexbevi/mongodb-orms-odms-and-libraries-aj0)
+- [API Mocking: Essential and Redundant](https://dev.to/codenameone/api-mocking-essential-and-redundant-10fa)
 - [The 7 Best React Component Libraries to Use in 2022](https://dev.to/amrtcrypto/the-7-best-react-component-libraries-to-use-in-2022-11la)
-- [The top 5 reasons why software projects fails](https://dev.to/polterguy/the-top-5-reasons-why-software-projects-fails-27n4)
-- [6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
-- [Create a culture of Psychological Safety in Engineering](https://dev.to/kulkarniankita9/create-a-culture-of-psychological-safety-in-engineering-3ead)
+- [What was your favorite Hacktoberfest experience?](https://dev.to/deepgram/what-was-your-favorite-hacktoberfest-experience-2pc4)
 <!-- BLOG-POST-LIST:END -->
 
