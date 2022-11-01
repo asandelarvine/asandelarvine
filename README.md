@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [See how others&#39; changes compare to your own in VS Code](https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-vs-code-1fl7)
 - [Swiper.js](https://dev.to/shubhamtiwari909/swiperjs-3802)
 - [Using Website Personalization for Effective Account-Based Marketing](https://dev.to/ninetailed/using-website-personalization-for-effective-account-based-marketing-1i71)
 - [YugabyteDB cloud/region/zone](https://dev.to/franckpachot/yugabytedb-cloudregionzone-4pic)
-- [Optimum Sharding strategy in OpenSearch](https://dev.to/aws-builders/optimum-sharding-strategy-in-opensearch-3fa8)
 <!-- BLOG-POST-LIST:END -->
 
