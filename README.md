@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Commands Every Developer Should Know](https://dev.to/albericojr/git-commands-every-developer-should-know-5ab1)
-- [What is Kubernetes ?](https://dev.to/rakeshkr2/what-is-kubernetes--4co1)
-- [See how others&#39; changes compare to your own in VS Code](https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-vs-code-1fl7)
-- [Swiper.js](https://dev.to/shubhamtiwari909/swiperjs-3802)
+- [Drawing conclusions from TON Hack Challenge](https://dev.to/dvlkv/drawing-conclusions-from-ton-hack-challenge-1aep)
+- [Remix &amp; Shopify: Circumvent Shopify’s APIs and go open source](https://dev.to/medusajs/remix-shopify-circumvent-shopifys-apis-and-go-open-source-36g2)
+- [From PHP monolith to serverless: multi-stack cross-account canary rollout](https://dev.to/aws-builders/from-php-monolith-to-serverless-multi-stack-cross-account-canary-rollout-njo)
+- [Better Fastly API clients with OpenAPI Generator](https://dev.to/fastly/better-fastly-api-clients-with-openapi-generator-3lno)
 <!-- BLOG-POST-LIST:END -->
 
