@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Bing Webmaster Tools De-indexed My Docs Site and Increased My Cognitive Load](https://dev.to/missamarakay/bing-webmaster-tools-de-indexed-my-docs-site-and-increased-my-cognitive-load-32ki)
+- [Fully expand PR status checks on GitHub](https://dev.to/this-is-learning/fully-expand-pr-status-checks-on-github-4mml)
 - [Build your own profile photo sticker/frame tool](https://dev.to/triketora/build-your-own-profile-photo-stickerframe-tool-25l9)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2gk3)
-- [I found 10,000x faster TypeScript validator library](https://dev.to/samchon/i-found-10000x-faster-typescript-validator-library-36mj)
+- [Taking a look at Mastodon](https://dev.to/evertp/taking-a-look-at-mastodon-398n)
 <!-- BLOG-POST-LIST:END -->
 
