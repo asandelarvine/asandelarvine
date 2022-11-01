@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Drawing conclusions from TON Hack Challenge](https://dev.to/dvlkv/drawing-conclusions-from-ton-hack-challenge-1aep)
-- [Remix &amp; Shopify: Circumvent Shopify’s APIs and go open source](https://dev.to/medusajs/remix-shopify-circumvent-shopifys-apis-and-go-open-source-36g2)
-- [From PHP monolith to serverless: multi-stack cross-account canary rollout](https://dev.to/aws-builders/from-php-monolith-to-serverless-multi-stack-cross-account-canary-rollout-njo)
-- [Better Fastly API clients with OpenAPI Generator](https://dev.to/fastly/better-fastly-api-clients-with-openapi-generator-3lno)
+- [Let&#39;s Build a Responsive Car Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/lets-build-a-responsive-car-website-using-html-css-javascript-1l6a)
+- [Some cool GitHub features to enhance your development experience](https://dev.to/this-is-learning/some-cool-github-features-to-enhance-your-development-experience-2fj9)
+- [Bye for now VSCodeTips community!](https://dev.to/vscodetips/bye-for-now-vscodetips-community-3jkj)
+- [Rocket.Chat🚀+ Constellation💫 = most secure chat server ever &lpar;?!&rpar;](https://dev.to/flxflx/rocketchat-constellation-most-secure-chat-server-ever--50oa)
 <!-- BLOG-POST-LIST:END -->
 
