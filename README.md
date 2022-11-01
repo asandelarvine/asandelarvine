@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explore Flutter Bloc 8.0.1 Design Pattern in Flutter](https://dev.to/kuldeeptarapara/explore-flutter-bloc-801-design-pattern-in-flutter-20l3)
 - [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
 - [Diferença entre operadores ?, ?? e || no JavaScript / TypeScript](https://dev.to/thayto/diferenca-entre-operadores-e-no-javascript-typescript-32op)
 - [How to write Mathematical Expressions in DEV.to Articles?](https://dev.to/dostonnabotov/how-to-write-mathematical-expressions-in-devto-articles-4k97)
-- [Create a basic CRUD App with .NET MVC &amp; EF](https://dev.to/josemariairiarte/create-a-basic-crud-app-with-net-mvc-ef-35in)
 <!-- BLOG-POST-LIST:END -->
 
