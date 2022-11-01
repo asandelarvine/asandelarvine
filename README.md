@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2gk3)
+- [I found 10,000x faster TypeScript validator library](https://dev.to/samchon/i-found-10000x-faster-typescript-validator-library-36mj)
 - [MongoDB ORMs, ODMs, and Libraries](https://dev.to/alexbevi/mongodb-orms-odms-and-libraries-aj0)
 - [API Mocking: Essential and Redundant](https://dev.to/codenameone/api-mocking-essential-and-redundant-10fa)
-- [The 7 Best React Component Libraries to Use in 2022](https://dev.to/amrtcrypto/the-7-best-react-component-libraries-to-use-in-2022-11la)
-- [What was your favorite Hacktoberfest experience?](https://dev.to/deepgram/what-was-your-favorite-hacktoberfest-experience-2pc4)
 <!-- BLOG-POST-LIST:END -->
 
