@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Swiper.js](https://dev.to/shubhamtiwari909/swiperjs-3802)
+- [Using Website Personalization for Effective Account-Based Marketing](https://dev.to/ninetailed/using-website-personalization-for-effective-account-based-marketing-1i71)
 - [YugabyteDB cloud/region/zone](https://dev.to/franckpachot/yugabytedb-cloudregionzone-4pic)
-- [AUTHENTIFICATION AVEC NODE JS/EXPRESS JS](https://dev.to/samuelmbabhazi/authentification-avec-node-jsexpress-js-39jo)
-- [【資料結構與演算法】- Big O Notation](https://dev.to/angushyx/zi-liao-jie-gou-yu-yan-suan-fa-big-o-notation-4mip)
-- [Opensea Clone App &lpar;Features + Introducing companies&rpar;](https://dev.to/aidajohnson/opensea-clone-app-features-introducing-companies-3me)
+- [Optimum Sharding strategy in OpenSearch](https://dev.to/aws-builders/optimum-sharding-strategy-in-opensearch-3fa8)
 <!-- BLOG-POST-LIST:END -->
 
