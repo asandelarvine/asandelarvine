@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [YugabyteDB cloud/region/zone](https://dev.to/franckpachot/yugabytedb-cloudregionzone-4pic)
+- [AUTHENTIFICATION AVEC NODE JS/EXPRESS JS](https://dev.to/samuelmbabhazi/authentification-avec-node-jsexpress-js-39jo)
+- [【資料結構與演算法】- Big O Notation](https://dev.to/angushyx/zi-liao-jie-gou-yu-yan-suan-fa-big-o-notation-4mip)
 - [Opensea Clone App &lpar;Features + Introducing companies&rpar;](https://dev.to/aidajohnson/opensea-clone-app-features-introducing-companies-3me)
-- [Explore Flutter Bloc 8.0.1 Design Pattern in Flutter](https://dev.to/kuldeeptarapara/explore-flutter-bloc-801-design-pattern-in-flutter-20l3)
-- [Convert Array, Object to Unix Tree](https://dev.to/hosheima/convert-array-object-to-unix-tree-c7n)
-- [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
 <!-- BLOG-POST-LIST:END -->
 
