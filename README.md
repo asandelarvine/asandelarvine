@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Blockchain Bullshit?](https://dev.to/jmfayard/bitcoin-blockchain-bullshit-b6c)
-- [4 tips for choosing a framework](https://dev.to/marciopolicarpo/4-tips-for-choosing-a-framework-13c)
-- [Builder Pattern w/ Typescript](https://dev.to/gvt3ch/builder-pattern-w-typescript-2b95)
-- [How to do marketing to developers. A big guide](https://dev.to/flatlogic/how-to-do-marketing-to-developers-a-big-guide-3p1p)
+- [The top 5 reasons why software projects fails](https://dev.to/polterguy/the-top-5-reasons-why-software-projects-fails-27n4)
+- [6 VS Code Extensions for Productive Javascript and TypeScript Editing](https://dev.to/lgrammel/6-vs-code-extensions-for-productive-javascript-and-typescript-editing-35l3)
+- [Create a culture of Psychological Safety in Engineering](https://dev.to/kulkarniankita9/create-a-culture-of-psychological-safety-in-engineering-3ead)
+- [Redux Actions - Without declaring CONSTANTS and action-creator functions for each action](https://dev.to/rubenarushanyan/redux-actions-without-declaring-constants-and-action-creator-functions-for-each-action-3gc6)
 <!-- BLOG-POST-LIST:END -->
 
