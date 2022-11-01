@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 Free Online Code Editors and IDEs with Pros and Cons](https://dev.to/refine/top-6-free-online-code-editors-and-ides-with-pros-and-cons-4m6n)
+- [Back to Pure CSS?](https://dev.to/moekidev/back-to-pure-css-478e)
 - [Let&#39;s Build a Responsive Car Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/lets-build-a-responsive-car-website-using-html-css-javascript-1l6a)
 - [Some cool GitHub features to enhance your development experience](https://dev.to/this-is-learning/some-cool-github-features-to-enhance-your-development-experience-2fj9)
-- [Bye for now VSCodeTips community!](https://dev.to/vscodetips/bye-for-now-vscodetips-community-3jkj)
-- [Rocket.Chat🚀+ Constellation💫 = most secure chat server ever &lpar;?!&rpar;](https://dev.to/flxflx/rocketchat-constellation-most-secure-chat-server-ever--50oa)
 <!-- BLOG-POST-LIST:END -->
 
