@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing Webmaster Tools De-indexed My Docs Site and Increased My Cognitive Load](https://dev.to/missamarakay/bing-webmaster-tools-de-indexed-my-docs-site-and-increased-my-cognitive-load-32ki)
+- [Build your own profile photo sticker/frame tool](https://dev.to/triketora/build-your-own-profile-photo-stickerframe-tool-25l9)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2gk3)
 - [I found 10,000x faster TypeScript validator library](https://dev.to/samchon/i-found-10000x-faster-typescript-validator-library-36mj)
-- [MongoDB ORMs, ODMs, and Libraries](https://dev.to/alexbevi/mongodb-orms-odms-and-libraries-aj0)
-- [API Mocking: Essential and Redundant](https://dev.to/codenameone/api-mocking-essential-and-redundant-10fa)
 <!-- BLOG-POST-LIST:END -->
 
