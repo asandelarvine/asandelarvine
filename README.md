@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Opensea Clone App &lpar;Features + Introducing companies&rpar;](https://dev.to/aidajohnson/opensea-clone-app-features-introducing-companies-3me)
 - [Explore Flutter Bloc 8.0.1 Design Pattern in Flutter](https://dev.to/kuldeeptarapara/explore-flutter-bloc-801-design-pattern-in-flutter-20l3)
+- [Convert Array, Object to Unix Tree](https://dev.to/hosheima/convert-array-object-to-unix-tree-c7n)
 - [8 Google Chrome add-ons to simplify your life &lpar;I&#39;m sure&rpar;.](https://dev.to/hr21don/8-google-chrome-add-ons-to-simplify-your-life-im-sure-3fi5)
-- [Diferença entre operadores ?, ?? e || no JavaScript / TypeScript](https://dev.to/thayto/diferenca-entre-operadores-e-no-javascript-typescript-32op)
-- [How to write Mathematical Expressions in DEV.to Articles?](https://dev.to/dostonnabotov/how-to-write-mathematical-expressions-in-devto-articles-4k97)
 <!-- BLOG-POST-LIST:END -->
 
