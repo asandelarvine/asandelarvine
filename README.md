@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a registration and a login with two-factor authentication on React 🤩](https://dev.to/nevodavid/creating-a-registration-and-a-login-with-two-factor-authentication-on-react-2p2i)
+- [Why &#39;Release&#39; a project? Why not just commit to main?](https://dev.to/github/why-release-a-project-why-not-just-commit-to-main-3ga2)
 - [.Net Metrics behind the scenes](https://dev.to/damikun/net-metrics-behind-the-scenes-4mgd)
 - [Create a Devcontainer &lpar;VSCode&rpar;](https://dev.to/jannisdev/create-a-devcontainer-vscode-4pkh)
-- [Foal version 3.0 is here 🚀](https://dev.to/loicpoullain/foal-version-30-is-here-2pj3)
-- [Kubernetes 101 - Containers](https://dev.to/dailydevtips1/kubernetes-101-containers-55gb)
 <!-- BLOG-POST-LIST:END -->
 
