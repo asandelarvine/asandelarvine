@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create &amp; deploy an ERC-20 token in 15 minutes &lpar;Truffle, OpenZeppelin, Goerli&rpar;](https://dev.to/willkre/create-deploy-an-erc-20-token-in-15-minutes-truffle-openzeppelin-goerli-33lb)
+- [How to Raise Your Prices](https://dev.to/mikhailkaran/how-to-raise-your-prices-36kj)
+- [Welcome Thread - v198](https://dev.to/thepracticaldev/welcome-thread-v198-55p6)
 - [Ejs Template Engine](https://dev.to/akshdesai1/ejs-template-engine-32df)
-- [The benefits of using Kubernetes for deployments](https://dev.to/roy8/the-benefits-of-using-kubernetes-for-deployments-2bcp)
-- [Find Intersection of Two Arrays](https://dev.to/yohanesss/find-intersection-of-two-arrays-1b62)
-- [How to add PayPal checkout payments to your React app](https://dev.to/paypaldeveloper/how-to-add-paypal-checkout-payments-to-your-react-app-53aa)
 <!-- BLOG-POST-LIST:END -->
 
