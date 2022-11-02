@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Generics in C#?](https://dev.to/integerman/what-are-generics-in-c-5fp)
+- [Aurora, Where Is My Data? Extreme IOPS Optimization for MySQL](https://dev.to/aws-heroes/aurora-where-is-my-data-extreme-iops-optimization-for-mysql-2i0p)
 - [Create &amp; deploy an ERC-20 token in 15 minutes &lpar;Truffle, OpenZeppelin, Goerli&rpar;](https://dev.to/willkre/create-deploy-an-erc-20-token-in-15-minutes-truffle-openzeppelin-goerli-33lb)
 - [How to Raise Your Prices](https://dev.to/mikhailkaran/how-to-raise-your-prices-36kj)
-- [Welcome Thread - v198](https://dev.to/thepracticaldev/welcome-thread-v198-55p6)
-- [Ejs Template Engine](https://dev.to/akshdesai1/ejs-template-engine-32df)
 <!-- BLOG-POST-LIST:END -->
 
