@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Calculator in React](https://dev.to/reactjsguru/how-to-make-calculator-in-react-172i)
-- [How to create a slick animation from Schitt&#39;s Creek &lpar;TV series title sequence&rpar;](https://dev.to/robole/how-to-create-a-slick-animation-from-schitts-creek-tv-series-title-sequence-2207)
-- [Getting Started with Magento Integration for Amazon](https://dev.to/themagentohumor/getting-started-with-magento-integration-for-amazon-22dc)
-- [Searching for retro games with Xata &amp; Next.js 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
+- [Array.Prototype.slice&lpar;&rpar; Method Explained JavaScript](https://dev.to/mavensingh/arrayprototypeslice-method-explained-javascript-5bm9)
+- [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567)
+- [Don’t be a CRUD boomer 👨‍🦳, check out this new Event Sourcing library!](https://dev.to/kumo/dont-be-a-crud-boomer-check-out-this-new-event-sourcing-library-235a)
+- [Strategies for Picking a Conference Talk Topic](https://dev.to/kayla/strategies-for-picking-a-conference-talk-topic-3flg)
 <!-- BLOG-POST-LIST:END -->
 
