@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array.Prototype.slice&lpar;&rpar; Method Explained JavaScript](https://dev.to/mavensingh/arrayprototypeslice-method-explained-javascript-5bm9)
-- [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567)
-- [How to bundle a tree-shakable typescript library with tsup and publish with npm](https://dev.to/zhunor/how-to-bundle-a-tree-shakable-typescript-library-with-tsup-and-publish-with-npm-3c46)
-- [Don’t be a CRUD boomer 👨‍🦳, check out this new Event Sourcing library!](https://dev.to/kumo/dont-be-a-crud-boomer-check-out-this-new-event-sourcing-library-235a)
+- [Twitter Replying Bot that generates color grids](https://dev.to/mohamedation/twitter-replying-bot-that-generates-color-grids-9m8)
+- [A Definitive guide on JavaScript every&lpar;&rpar; Method](https://dev.to/refine/a-definitive-guide-on-javascript-every-method-1fha)
+- [DDD-Layered Architecture](https://dev.to/moyousry/ddd-layered-architecture-2f73)
+- [3 Reasons Why Async/Await Is Better Than Chaining Promises](https://dev.to/maximization/3-reasons-why-asyncawait-is-better-than-chaining-promises-hk1)
 <!-- BLOG-POST-LIST:END -->
 
