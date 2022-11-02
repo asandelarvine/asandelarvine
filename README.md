@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The benefits of using Kubernetes for deployments](https://dev.to/roy8/the-benefits-of-using-kubernetes-for-deployments-2bcp)
+- [Find Intersection of Two Arrays](https://dev.to/yohanesss/find-intersection-of-two-arrays-1b62)
+- [How to add PayPal checkout payments to your React app](https://dev.to/paypaldeveloper/how-to-add-paypal-checkout-payments-to-your-react-app-53aa)
 - [Editing Content with Hugo Shortcodes in the CMS: Built-in and Custom Shortcode Support](https://dev.to/cloudcannon/editing-content-with-hugo-shortcodes-in-the-cms-built-in-and-custom-shortcode-support-5cn1)
-- [Deploying Java Artifacts to Multiple Maven Repositories with GitHub Actions](https://dev.to/cicirello/deploying-java-artifacts-to-multiple-maven-repositories-with-github-actions-4idf)
-- [Structured error messages for HTTP APIs](https://dev.to/apisix/structured-error-messages-for-http-apis-lao)
-- [xplr v0.20.0 - what&#39;s new?](https://dev.to/sayanarijit/xplr-v0200-whats-new-52fb)
 <!-- BLOG-POST-LIST:END -->
 
