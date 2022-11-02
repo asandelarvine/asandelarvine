@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a registration and a login with two-factor authentication on React 🤩](https://dev.to/nevodavid/creating-a-registration-and-a-login-with-two-factor-authentication-on-react-2p2i)
-- [Why &#39;Release&#39; a project? Why not just commit to main?](https://dev.to/github/why-release-a-project-why-not-just-commit-to-main-3ga2)
-- [.Net Metrics behind the scenes](https://dev.to/damikun/net-metrics-behind-the-scenes-4mgd)
-- [Create a Devcontainer &lpar;VSCode&rpar;](https://dev.to/jannisdev/create-a-devcontainer-vscode-4pkh)
+- [Searching for retro games with Xata &amp; Next 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
+- [What is Docker ?](https://dev.to/rakeshkr2/what-is-docker-1ln)
+- [This Week In React #122: Next.js 13, Turbopack, Remixing Shopify, R3f Journey, Valhalla, Expo, Rive, Storybook, Asta...](https://dev.to/sebastienlorber/this-week-in-react-122-nextjs-13-turbopack-remixing-shopify-r3f-journey-valhalla-expo-rive-storybook-asta-48hp)
+- [Understanding CRUD operations with a note app in react](https://dev.to/himanshupal0001/understanding-crud-operations-with-a-note-app-in-react-3koe)
 <!-- BLOG-POST-LIST:END -->
 
