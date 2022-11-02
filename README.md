@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ExpressJS: How to throw custom errors](https://dev.to/felipeleao18/expressjs-how-to-throw-custom-errors-aeo)
+- [Zero to SaaS - Product #1 BookMarksy.io](https://dev.to/brandonkylebailey/zero-to-saas-product-1-bookmarksyio-5afp)
+- [September DEVshirt.club release](https://dev.to/devshirt_club/september-devshirtclub-release-21e7)
 - [Bing Webmaster Tools De-indexed My Docs Site and Increased My Cognitive Load](https://dev.to/missamarakay/bing-webmaster-tools-de-indexed-my-docs-site-and-increased-my-cognitive-load-32ki)
-- [Fully expand PR status checks on GitHub](https://dev.to/this-is-learning/fully-expand-pr-status-checks-on-github-4mml)
-- [Build your own profile photo sticker/frame tool](https://dev.to/triketora/build-your-own-profile-photo-stickerframe-tool-25l9)
-- [Taking a look at Mastodon](https://dev.to/evertp/taking-a-look-at-mastodon-398n)
 <!-- BLOG-POST-LIST:END -->
 
