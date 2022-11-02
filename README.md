@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Replying Bot that generates color grids](https://dev.to/mohamedation/twitter-replying-bot-that-generates-color-grids-9m8)
-- [A Definitive guide on JavaScript every&lpar;&rpar; Method](https://dev.to/refine/a-definitive-guide-on-javascript-every-method-1fha)
-- [DDD-Layered Architecture](https://dev.to/moyousry/ddd-layered-architecture-2f73)
-- [3 Reasons Why Async/Await Is Better Than Chaining Promises](https://dev.to/maximization/3-reasons-why-asyncawait-is-better-than-chaining-promises-hk1)
+- [Understanding Structs and Enums in Solidity](https://dev.to/get_pieces/understanding-structs-and-enums-in-solidity-56bi)
+- [How to create a great user experience with React](https://dev.to/amrtcrypto/how-to-create-a-great-user-experience-with-react-ka0)
+- [Setup a GitHub Action for signing container images with Notary](https://dev.to/azure/setup-a-github-action-for-signing-container-images-with-notary-4m3k)
+- [Deploy Azure Key Vault and Azure Container Registry for Document Signing with Notary](https://dev.to/azure/deploy-azure-key-vault-and-azure-container-registry-for-document-signing-with-notary-3o7k)
 <!-- BLOG-POST-LIST:END -->
 
