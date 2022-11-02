@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mengenal macam - macam Metodologi penulisan CSS - Part 1](https://dev.to/azrilardian/mengenal-macan-macam-metodologi-penulisan-css-part-1-4010)
+- [HTML &amp; CSS Features, Tips For a 10x fast Page Loading Speed](https://dev.to/koustav/html-css-features-tips-for-a-10x-fast-page-loading-speed-4jop)
 - [What is @try 🤯 before this function in Python?](https://dev.to/rajeshj3/what-is-try-before-this-function-in-python-5ph)
 - [React Router Version 6 Tutorial How to Set up React Router@6](https://dev.to/sachinsingh101/react-router-version-6-tutorial-how-to-set-up-react-router6-231b)
-- [Flutter Local Authentication using Biometrics – Face ID, Touch ID, Fingerprint](https://dev.to/mrcflorian/flutter-local-authentication-using-biometrics-face-id-touch-id-fingerprint-27ol)
-- [ExpressJS: How to throw custom errors](https://dev.to/felipeleao18/expressjs-how-to-throw-custom-errors-aeo)
 <!-- BLOG-POST-LIST:END -->
 
