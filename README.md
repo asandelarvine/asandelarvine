@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Structs and Enums in Solidity](https://dev.to/get_pieces/understanding-structs-and-enums-in-solidity-56bi)
-- [How to create a great user experience with React](https://dev.to/amrtcrypto/how-to-create-a-great-user-experience-with-react-ka0)
-- [Setup a GitHub Action for signing container images with Notary](https://dev.to/azure/setup-a-github-action-for-signing-container-images-with-notary-4m3k)
-- [Deploy Azure Key Vault and Azure Container Registry for Document Signing with Notary](https://dev.to/azure/deploy-azure-key-vault-and-azure-container-registry-for-document-signing-with-notary-3o7k)
+- [Editing Content with Hugo Shortcodes in the CMS: Built-in and Custom Shortcode Support](https://dev.to/cloudcannon/editing-content-with-hugo-shortcodes-in-the-cms-built-in-and-custom-shortcode-support-5cn1)
+- [Deploying Java Artifacts to Multiple Maven Repositories with GitHub Actions](https://dev.to/cicirello/deploying-java-artifacts-to-multiple-maven-repositories-with-github-actions-4idf)
+- [Structured error messages for HTTP APIs](https://dev.to/apisix/structured-error-messages-for-http-apis-lao)
+- [xplr v0.20.0 - what&#39;s new?](https://dev.to/sayanarijit/xplr-v0200-whats-new-52fb)
 <!-- BLOG-POST-LIST:END -->
 
