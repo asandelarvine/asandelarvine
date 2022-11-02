@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching for retro games with Xata &amp; Next 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
-- [What is Docker ?](https://dev.to/rakeshkr2/what-is-docker-1ln)
-- [This Week In React #122: Next.js 13, Turbopack, Remixing Shopify, R3f Journey, Valhalla, Expo, Rive, Storybook, Asta...](https://dev.to/sebastienlorber/this-week-in-react-122-nextjs-13-turbopack-remixing-shopify-r3f-journey-valhalla-expo-rive-storybook-asta-48hp)
-- [Understanding CRUD operations with a note app in react](https://dev.to/himanshupal0001/understanding-crud-operations-with-a-note-app-in-react-3koe)
+- [How to Make Calculator in React](https://dev.to/reactjsguru/how-to-make-calculator-in-react-172i)
+- [How to create a slick animation from Schitt&#39;s Creek &lpar;TV series title sequence&rpar;](https://dev.to/robole/how-to-create-a-slick-animation-from-schitts-creek-tv-series-title-sequence-2207)
+- [Getting Started with Magento Integration for Amazon](https://dev.to/themagentohumor/getting-started-with-magento-integration-for-amazon-22dc)
+- [Searching for retro games with Xata &amp; Next.js 13](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
 <!-- BLOG-POST-LIST:END -->
 
