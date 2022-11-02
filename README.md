@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Array.Prototype.slice&lpar;&rpar; Method Explained JavaScript](https://dev.to/mavensingh/arrayprototypeslice-method-explained-javascript-5bm9)
 - [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567)
+- [How to bundle a tree-shakable typescript library with tsup and publish with npm](https://dev.to/zhunor/how-to-bundle-a-tree-shakable-typescript-library-with-tsup-and-publish-with-npm-3c46)
 - [Don’t be a CRUD boomer 👨‍🦳, check out this new Event Sourcing library!](https://dev.to/kumo/dont-be-a-crud-boomer-check-out-this-new-event-sourcing-library-235a)
-- [Strategies for Picking a Conference Talk Topic](https://dev.to/kayla/strategies-for-picking-a-conference-talk-topic-3flg)
 <!-- BLOG-POST-LIST:END -->
 
