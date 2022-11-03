@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Appwrite OSS Fund Sponsors Leon](https://dev.to/appwrite/appwrite-oss-fund-sponsors-leon-5105)
-- [.NET 7 Release Candidate 2 Is Here — Here’s What’s New!](https://dev.to/bytehide/net-7-release-candidate-2-is-here-heres-whats-new-phd)
-- [A Deep Dive Into Host a Web Application With Azure App Service](https://dev.to/makendrang/a-deep-dive-into-host-a-web-application-with-azure-app-service-pe9)
-- [Web development is just like embedded development](https://dev.to/wesen/web-development-is-just-like-embedded-development-j1k)
+- [Construindo aplicação do zero com node.js: Parte 1](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-1-3hdj)
+- [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01)
+- [Stream unzip files in S3 with Java: s3-stream-unzip](https://dev.to/nejckorasa/stream-unzip-files-in-s3-with-java-16b4)
+- [What were some of the toughest technologies and concepts for you to grasp along the way?](https://dev.to/ben/what-were-some-of-the-toughest-technologies-and-concepts-for-you-to-grasp-along-the-way-47ga)
 <!-- BLOG-POST-LIST:END -->
 
