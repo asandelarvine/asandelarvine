@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Schemaless to the rescue](https://dev.to/woovi/schemaless-to-the-rescue-26cd)
-- [What is MongoDB ?](https://dev.to/rakeshkr2/what-is-mongodb--2jlb)
-- [Authorizing requests with Lambda@Edge](https://dev.to/aws-builders/authorizing-requests-with-lambdaedge-mjm)
-- [Web Scraping With Playwright: Tutorial for 2022](https://dev.to/oxylabs-io/web-scraping-with-playwright-tutorial-for-2022-4p)
+- [C++ ga Kirish](https://dev.to/abrorabdulboriyev/c-ga-kirish-171)
+- [C++ Intro](https://dev.to/jama1812/c-intro-20e6)
+- [Sum of Slice or Array in Golang&lpar;Multiple Ways&rpar;](https://dev.to/mavensingh/sum-of-slice-or-array-in-golangmultiple-ways-23gj)
+- [9 Tips to Improve your Ecommerce User Experience](https://dev.to/medusajs/9-tips-to-improve-your-ecommerce-user-experience-3me8)
 <!-- BLOG-POST-LIST:END -->
 
