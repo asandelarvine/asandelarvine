@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do programmers say &quot;I love you&quot;? 🤔](https://dev.to/codedex/how-do-programmers-say-i-love-you-4e27)
+- [The K8 Gateway API 🚀](https://dev.to/xtineskim/the-k8-gateway-api-3cem)
 - [Construindo aplicação do zero com node.js: Parte 1](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-1-3hdj)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01)
-- [Stream unzip files in S3 with Java: s3-stream-unzip](https://dev.to/nejckorasa/stream-unzip-files-in-s3-with-java-16b4)
-- [What were some of the toughest technologies and concepts for you to grasp along the way?](https://dev.to/ben/what-were-some-of-the-toughest-technologies-and-concepts-for-you-to-grasp-along-the-way-47ga)
 <!-- BLOG-POST-LIST:END -->
 
