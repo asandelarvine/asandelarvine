@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Coffee Hacktoberfest 2022 Roundup](https://dev.to/virtualcoffee/virtual-coffee-hacktoberfest-2022-roundup-1c2k)
 - [Story of Musk and the bird&#39;s hap: Almost doesn&#39;t kill a bird.](https://dev.to/femolacaster/story-of-musk-and-the-birds-hap-almost-doesnt-kill-a-bird-3cfi)
 - [I Want to Delight my Customers! ✴️](https://dev.to/adam_cyclones/i-want-to-delight-my-customers-1hp7)
-- [Should Open Source be a rite of passage for developers?](https://dev.to/linearb/should-open-source-be-a-rite-of-passage-for-developers-43nm)
-- [Animated Gradient Texts](https://dev.to/tomdohnal/animated-gradient-texts-4hoa)
+- [A to Z of git and GitHub](https://dev.to/ulbertao/a-to-z-of-git-and-github-4l1c)
 <!-- BLOG-POST-LIST:END -->
 
