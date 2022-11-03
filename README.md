@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do programmers say &quot;I love you&quot;? 🤔](https://dev.to/codedex/how-do-programmers-say-i-love-you-4e27)
-- [The K8 Gateway API 🚀](https://dev.to/xtineskim/the-k8-gateway-api-3cem)
-- [Construindo aplicação do zero com node.js: Parte 1](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-1-3hdj)
-- [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01)
+- [How to check if your libraries are vulnerable?](https://dev.to/orlandov14/how-to-check-if-your-libraries-are-vulnerable-5dh4)
+- [Top Podcasts for developer&#39;s](https://dev.to/kshitij9896/top-podcasts-for-developers-4efd)
+- [Gaining Trust in APIs and What to Look For](https://dev.to/anthonyjdella/gaining-trust-in-apis-and-what-to-look-for-d86)
+- [Data is like Radioactive Material! ☢️](https://dev.to/anthonyjdella/data-is-like-radioactive-material-5aa5)
 <!-- BLOG-POST-LIST:END -->
 
