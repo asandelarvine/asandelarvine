@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Component-First Architecture with Standalone Components and Nx](https://dev.to/nx/component-first-architecture-with-standalone-components-and-nx-1i25)
-- [What are your tips for working remotely?](https://dev.to/nickytonline/what-are-your-tips-for-working-remotely-57n0)
-- [Awesome lesser-known tools to integrate into your workflow](https://dev.to/surajondev/awesome-lesser-known-tools-to-integrate-into-your-workflow-3d3g)
-- [C++ ga Kirish](https://dev.to/abrorabdulboriyev/c-ga-kirish-171)
+- [Appwrite OSS Fund Sponsors Leon](https://dev.to/appwrite/appwrite-oss-fund-sponsors-leon-5105)
+- [.NET 7 Release Candidate 2 Is Here — Here’s What’s New!](https://dev.to/bytehide/net-7-release-candidate-2-is-here-heres-whats-new-phd)
+- [A Deep Dive Into Host a Web Application With Azure App Service](https://dev.to/makendrang/a-deep-dive-into-host-a-web-application-with-azure-app-service-pe9)
+- [Web development is just like embedded development](https://dev.to/wesen/web-development-is-just-like-embedded-development-j1k)
 <!-- BLOG-POST-LIST:END -->
 
