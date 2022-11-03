@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Soul | A SQLite RESTful server](https://dev.to/thevahidal/soul-a-sqlite-restful-server-21nj)
+- [The Promise of Platform Engineering](https://dev.to/linearb/the-promise-of-platform-engineering-2afe)
 - [Signs that your refactoring is bad](https://dev.to/jmau111/signs-that-your-refactoring-is-bad-il9)
 - [Build an Automated Tweet Scheduling Tool with JavaScript](https://dev.to/shreyvijayvargiya/build-an-automated-tweet-scheduling-tool-with-javascript-208n)
-- [Discussion and Comment of the Week - v23](https://dev.to/devteam/discussion-and-comment-of-the-week-v23-1931)
-- [I switched from Vercel to Cloudflare Pages](https://dev.to/jam3sn/i-switched-from-vercel-to-cloudflare-pages-abp)
 <!-- BLOG-POST-LIST:END -->
 
