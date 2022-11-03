@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Signs that your refactoring is bad](https://dev.to/jmau111/signs-that-your-refactoring-is-bad-il9)
 - [Build an Automated Tweet Scheduling Tool with JavaScript](https://dev.to/shreyvijayvargiya/build-an-automated-tweet-scheduling-tool-with-javascript-208n)
 - [Discussion and Comment of the Week - v23](https://dev.to/devteam/discussion-and-comment-of-the-week-v23-1931)
-- [What I Learned About FinTech at Rapyd](https://dev.to/rapyd/what-i-learned-about-fintech-at-rapyd-5553)
-- [Most Used Git Commands](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
+- [I switched from Vercel to Cloudflare Pages](https://dev.to/jam3sn/i-switched-from-vercel-to-cloudflare-pages-abp)
 <!-- BLOG-POST-LIST:END -->
 
