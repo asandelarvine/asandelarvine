@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Component-First Architecture with Standalone Components and Nx](https://dev.to/nx/component-first-architecture-with-standalone-components-and-nx-1i25)
+- [What are your tips for working remotely?](https://dev.to/nickytonline/what-are-your-tips-for-working-remotely-57n0)
+- [Awesome lesser-known tools to integrate into your workflow](https://dev.to/surajondev/awesome-lesser-known-tools-to-integrate-into-your-workflow-3d3g)
 - [C++ ga Kirish](https://dev.to/abrorabdulboriyev/c-ga-kirish-171)
-- [C++ Intro](https://dev.to/jama1812/c-intro-20e6)
-- [Sum of Slice or Array in Golang&lpar;Multiple Ways&rpar;](https://dev.to/mavensingh/sum-of-slice-or-array-in-golangmultiple-ways-23gj)
-- [9 Tips to Improve your Ecommerce User Experience](https://dev.to/medusajs/9-tips-to-improve-your-ecommerce-user-experience-3me8)
 <!-- BLOG-POST-LIST:END -->
 
