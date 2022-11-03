@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned About FinTech at Rapyd](https://dev.to/rapyd/what-i-learned-about-fintech-at-rapyd-5553)
+- [Most Used Git Commands](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
+- [Full Stack Project Ideas For Beginner](https://dev.to/kshitij9896/full-stack-project-ideas-for-beginner-45dc)
 - [How to check if your libraries are vulnerable?](https://dev.to/orlandov14/how-to-check-if-your-libraries-are-vulnerable-5dh4)
-- [Top Podcasts for developer&#39;s](https://dev.to/kshitij9896/top-podcasts-for-developers-4efd)
-- [Gaining Trust in APIs and What to Look For](https://dev.to/anthonyjdella/gaining-trust-in-apis-and-what-to-look-for-d86)
-- [Data is like Radioactive Material! ☢️](https://dev.to/anthonyjdella/data-is-like-radioactive-material-5aa5)
 <!-- BLOG-POST-LIST:END -->
 
