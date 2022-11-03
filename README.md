@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an Automated Tweet Scheduling Tool with JavaScript](https://dev.to/shreyvijayvargiya/build-an-automated-tweet-scheduling-tool-with-javascript-208n)
+- [Discussion and Comment of the Week - v23](https://dev.to/devteam/discussion-and-comment-of-the-week-v23-1931)
 - [What I Learned About FinTech at Rapyd](https://dev.to/rapyd/what-i-learned-about-fintech-at-rapyd-5553)
 - [Most Used Git Commands](https://dev.to/kshitij9896/most-used-git-commands-4ej0)
-- [Full Stack Project Ideas For Beginner](https://dev.to/kshitij9896/full-stack-project-ideas-for-beginner-45dc)
-- [How to check if your libraries are vulnerable?](https://dev.to/orlandov14/how-to-check-if-your-libraries-are-vulnerable-5dh4)
 <!-- BLOG-POST-LIST:END -->
 
