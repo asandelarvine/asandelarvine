@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Schemaless to the rescue](https://dev.to/woovi/schemaless-to-the-rescue-26cd)
+- [What is MongoDB ?](https://dev.to/rakeshkr2/what-is-mongodb--2jlb)
 - [Authorizing requests with Lambda@Edge](https://dev.to/aws-builders/authorizing-requests-with-lambdaedge-mjm)
 - [Web Scraping With Playwright: Tutorial for 2022](https://dev.to/oxylabs-io/web-scraping-with-playwright-tutorial-for-2022-4p)
-- [tsParticles 2.5.1 Released](https://dev.to/tsparticles/tsparticles-251-released-e27)
-- [One stop graphics solutions for WordPress.](https://dev.to/heytanzil/one-stop-graphics-solutions-for-wordpress-5e74)
 <!-- BLOG-POST-LIST:END -->
 
