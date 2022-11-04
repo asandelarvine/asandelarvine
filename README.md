@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow Friday: IoT Edition &lpar;4 November 2022&rpar;](https://dev.to/devteam/follow-friday-iot-edition-4-november-2022-1k3c)
 - [Centralised Content Management System](https://dev.to/shreyvijayvargiya/centralised-content-management-system-4oe4)
+- [Sequencing for the win!](https://dev.to/lizmat/dont-fear-the-grepper-6-4i)
 - [What are your tips for developing ecommerce stores?](https://dev.to/medusajs/what-are-your-tips-for-developing-ecommerce-stores-45eh)
-- [esbuild - Next-generation JavaScript bundler](https://dev.to/refine/esbuild-next-generation-javascript-bundler-45ke)
-- [Ecommerce App | Home Page UI - Flutter Speed Code](https://dev.to/slimpotatoboy/ecommerce-app-home-page-ui-flutter-speed-code-1bg2)
 <!-- BLOG-POST-LIST:END -->
 
