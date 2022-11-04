@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify Developer Roadmap For 2022](https://dev.to/arhamtechnosoft/shopify-developer-roadmap-for-2022-4787)
+- [Azure Documentation tool – the right way to monitor Azure usage](https://dev.to/modhanapriya/azure-documentation-tool-the-right-way-to-monitor-azure-usage-flh)
+- [How I passed the AWS Certified SysOps Administrator Associate Exam &lpar;SOA-C01&rpar;](https://dev.to/aws-builders/how-i-passed-the-aws-certified-sysops-administrator-associate-exam-soa-c01-be4)
 - [How I passed the AWS Certified Solutions Architect Associate Exam &lpar;SAA-C02&rpar;](https://dev.to/aws-builders/how-i-passed-the-aws-certified-solutions-architect-associate-exam-saa-c02-3422)
-- [Best Hybrid/Cross-Platform App Development Frameworks for 2022](https://dev.to/eddyannnng/best-hybridcross-platform-app-development-frameworks-for-2022-50oc)
-- [🔥AMD&#39;s RDNA 3 GPUs are announced, introducing RX 7900 XTX and 7900 XT🔥](https://dev.to/hunghvu/amds-rdna-3-gpus-are-announced-introducing-rx-7900-xtx-and-7900-xt-48nd)
-- [React.js Controlled vs Uncontrolled](https://dev.to/pedrouzcategui/reactjs-controlled-vs-uncontrolled-8n3)
 <!-- BLOG-POST-LIST:END -->
 
