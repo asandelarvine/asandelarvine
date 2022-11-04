@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Alternative Data and using Proxycurl](https://dev.to/shivam164/understanding-alternative-data-and-using-proxycurl-2kcm)
 - [Starting with Open Source As a Beginner](https://dev.to/appwrite/starting-with-open-source-as-a-beginner-5516)
 - [Help me benchmark on your device &lpar;8,000x faster TypeScript runtime validator&rpar;](https://dev.to/samchon/help-me-benchmark-on-your-device-8000x-faster-typescript-runtime-validator-5c88)
 - [Build Modern React Chat App](https://dev.to/codingmonk/build-modern-react-chat-app-43hk)
-- [What are your tips on choosing domain name? .dev or .com?](https://dev.to/codebucks/what-are-your-tips-on-choosing-domain-name-dev-or-com-j2f)
 <!-- BLOG-POST-LIST:END -->
 
