@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Parsing JSON with Rust](https://dev.to/whoisryosuke/parsing-json-with-rust-5eg8)
+- [Are CSS utility classes a mild form of obfuscation?](https://dev.to/robole/are-css-utility-classes-a-mild-form-of-obfuscation-53b2)
+- [How I built a Bitcoin indexer using ZeroMQ](https://dev.to/emanuelferreira/how-i-built-a-bitcoin-indexer-using-zeromq-490l)
 - [This was Hacktoberfest 2022](https://dev.to/yuridevat/this-was-hacktoberfest-2022-443h)
-- [#DEVCommunity: Now available via Toot 🦣](https://dev.to/devteam/devcommunity-now-available-via-toot-3ah3)
-- [JS: Filter, Map, and forEach explained.](https://dev.to/brentdalling/js-filter-map-and-foreach-explained-hmc)
-- [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
 <!-- BLOG-POST-LIST:END -->
 
