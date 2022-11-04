@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best 11 headless commerce platforms](https://dev.to/dsalinasgardon/best-11-headless-commerce-platforms-2o54)
 - [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://dev.to/makendrang/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer-3c24)
 - [How do you organize CSS files?](https://dev.to/sloan/how-do-you-organize-css-files-gec)
 - [Fall of the Death Star — Why Scanning Infrastructure as Code Matters](https://dev.to/justindperkins/fall-of-the-death-star-why-scanning-infrastructure-as-code-matters-30bo)
-- [Parsing JSON with Rust](https://dev.to/whoisryosuke/parsing-json-with-rust-5eg8)
 <!-- BLOG-POST-LIST:END -->
 
