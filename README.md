@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Hybrid/Cross-Platform App Development Frameworks for 2022](https://dev.to/eddyannnng/best-hybridcross-platform-app-development-frameworks-for-2022-50oc)
 - [🔥AMD&#39;s RDNA 3 GPUs are announced, introducing RX 7900 XTX and 7900 XT🔥](https://dev.to/hunghvu/amds-rdna-3-gpus-are-announced-introducing-rx-7900-xtx-and-7900-xt-48nd)
+- [React.js Controlled vs Uncontrolled](https://dev.to/pedrouzcategui/reactjs-controlled-vs-uncontrolled-8n3)
 - [Javascript Generators: A Beginner&#39;s Guide](https://dev.to/muqsitadam/javascript-generators-a-beginners-guide-1ojf)
-- [Multi-app web server in 30 terminal commands](https://dev.to/felixhilden/multi-app-web-server-in-30-terminal-commands-5aa9)
-- [Soul | A SQLite RESTful server](https://dev.to/thevahidal/soul-a-sqlite-restful-server-21nj)
 <!-- BLOG-POST-LIST:END -->
 
