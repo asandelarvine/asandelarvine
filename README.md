@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Proven Tips To Grow Online Business](https://dev.to/luisjasperusa/5-proven-tips-to-grow-online-business-4ick)
-- [Kubernetes 101 - Storage](https://dev.to/dailydevtips1/kubernetes-101-storage-35hg)
-- [Mengenal macam - macam Metodologi penulisan CSS - Part 2](https://dev.to/azrilardian/mengenal-macam-macam-metodologi-penulisan-css-part-2-1kn1)
-- [Shopify Developer Roadmap For 2022](https://dev.to/arhamtechnosoft/shopify-developer-roadmap-for-2022-4787)
+- [Starting with Open Source As a Beginner](https://dev.to/appwrite/starting-with-open-source-as-a-beginner-5516)
+- [Help me benchmark on your device &lpar;8,000x faster TypeScript runtime validator&rpar;](https://dev.to/samchon/help-me-benchmark-on-your-device-8000x-faster-typescript-runtime-validator-5c88)
+- [Build Modern React Chat App](https://dev.to/codingmonk/build-modern-react-chat-app-43hk)
+- [What are your tips on choosing domain name? .dev or .com?](https://dev.to/codebucks/what-are-your-tips-on-choosing-domain-name-dev-or-com-j2f)
 <!-- BLOG-POST-LIST:END -->
 
