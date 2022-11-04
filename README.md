@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥AMD&#39;s RDNA 3 GPUs are announced, introducing RX 7900 XTX and 7900 XT🔥](https://dev.to/hunghvu/amds-rdna-3-gpus-are-announced-introducing-rx-7900-xtx-and-7900-xt-48nd)
+- [Javascript Generators: A Beginner&#39;s Guide](https://dev.to/muqsitadam/javascript-generators-a-beginners-guide-1ojf)
+- [Multi-app web server in 30 terminal commands](https://dev.to/felixhilden/multi-app-web-server-in-30-terminal-commands-5aa9)
 - [Soul | A SQLite RESTful server](https://dev.to/thevahidal/soul-a-sqlite-restful-server-21nj)
-- [The Promise of Platform Engineering](https://dev.to/linearb/the-promise-of-platform-engineering-2afe)
-- [Signs that your refactoring is bad](https://dev.to/jmau111/signs-that-your-refactoring-is-bad-il9)
-- [Build an Automated Tweet Scheduling Tool with JavaScript](https://dev.to/shreyvijayvargiya/build-an-automated-tweet-scheduling-tool-with-javascript-208n)
 <!-- BLOG-POST-LIST:END -->
 
