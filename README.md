@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Proven Tips To Grow Online Business](https://dev.to/luisjasperusa/5-proven-tips-to-grow-online-business-4ick)
 - [Kubernetes 101 - Storage](https://dev.to/dailydevtips1/kubernetes-101-storage-35hg)
 - [Mengenal macam - macam Metodologi penulisan CSS - Part 2](https://dev.to/azrilardian/mengenal-macam-macam-metodologi-penulisan-css-part-2-1kn1)
 - [Shopify Developer Roadmap For 2022](https://dev.to/arhamtechnosoft/shopify-developer-roadmap-for-2022-4787)
-- [Azure Documentation tool – the right way to monitor Azure usage](https://dev.to/modhanapriya/azure-documentation-tool-the-right-way-to-monitor-azure-usage-flh)
 <!-- BLOG-POST-LIST:END -->
 
