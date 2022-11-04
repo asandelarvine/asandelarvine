@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://dev.to/makendrang/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer-3c24)
 - [How do you organize CSS files?](https://dev.to/sloan/how-do-you-organize-css-files-gec)
-- [Deploy LIVE a simple eCommerce powered by Flask &amp; Stripe in 5 minutes](https://dev.to/sm0ke/deploy-live-a-simple-ecommerce-powered-by-flask-stripe-in-5-minutes-53m1)
+- [Fall of the Death Star — Why Scanning Infrastructure as Code Matters](https://dev.to/justindperkins/fall-of-the-death-star-why-scanning-infrastructure-as-code-matters-30bo)
 - [Parsing JSON with Rust](https://dev.to/whoisryosuke/parsing-json-with-rust-5eg8)
 <!-- BLOG-POST-LIST:END -->
 
