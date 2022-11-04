@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
 - [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-5fbc)
 - [HTTP request ID association with logs](https://dev.to/mario111/http-request-id-association-with-logs-46jc)
 - [Introducción rápida a lo que es la Programación Orientada a Objetos y sus características](https://dev.to/arizamoisesco/introduccion-rapida-a-lo-que-es-la-programacion-orientada-a-objetos-y-sus-caracteristicas-4b9)
-- [A Complete Guide to Rails Authentication Using JWT](https://dev.to/mohhossain/a-complete-guide-to-rails-authentication-using-jwt-403p)
 <!-- BLOG-POST-LIST:END -->
 
