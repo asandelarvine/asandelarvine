@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This was Hacktoberfest 2022](https://dev.to/yuridevat/this-was-hacktoberfest-2022-443h)
+- [#DEVCommunity: Now available via Toot 🦣](https://dev.to/devteam/devcommunity-now-available-via-toot-3ah3)
+- [JS: Filter, Map, and forEach explained.](https://dev.to/brentdalling/js-filter-map-and-foreach-explained-hmc)
 - [Scrape images from a search engine with JavaScript and Puppeteer](https://dev.to/antoine_m/scrape-images-from-a-search-engine-with-javascript-and-puppeteer-3dlh)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-5fbc)
-- [HTTP request ID association with logs](https://dev.to/mario111/http-request-id-association-with-logs-46jc)
-- [Introducción rápida a lo que es la Programación Orientada a Objetos y sus características](https://dev.to/arizamoisesco/introduccion-rapida-a-lo-que-es-la-programacion-orientada-a-objetos-y-sus-caracteristicas-4b9)
 <!-- BLOG-POST-LIST:END -->
 
