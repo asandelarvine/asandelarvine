@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://dev.to/makendrang/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer-3c24)
+- [How do you organize CSS files?](https://dev.to/sloan/how-do-you-organize-css-files-gec)
+- [Deploy LIVE a simple eCommerce powered by Flask &amp; Stripe in 5 minutes](https://dev.to/sm0ke/deploy-live-a-simple-ecommerce-powered-by-flask-stripe-in-5-minutes-53m1)
 - [Parsing JSON with Rust](https://dev.to/whoisryosuke/parsing-json-with-rust-5eg8)
-- [Are CSS utility classes a mild form of obfuscation?](https://dev.to/robole/are-css-utility-classes-a-mild-form-of-obfuscation-53b2)
-- [How I built a Bitcoin indexer using ZeroMQ](https://dev.to/emanuelferreira/how-i-built-a-bitcoin-indexer-using-zeromq-490l)
-- [This was Hacktoberfest 2022](https://dev.to/yuridevat/this-was-hacktoberfest-2022-443h)
 <!-- BLOG-POST-LIST:END -->
 
