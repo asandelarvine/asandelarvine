@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Follow Friday: IoT Edition &lpar;4 November 2022&rpar;](https://dev.to/devteam/follow-friday-iot-edition-4-november-2022-1k3c)
-- [Centralised Content Management System](https://dev.to/shreyvijayvargiya/centralised-content-management-system-4oe4)
-- [Sequencing for the win!](https://dev.to/lizmat/dont-fear-the-grepper-6-4i)
-- [What are your tips for developing ecommerce stores?](https://dev.to/medusajs/what-are-your-tips-for-developing-ecommerce-stores-45eh)
+- [Twitter is expected to lay off about half of its workforce](https://dev.to/ben/twitter-is-expected-to-lay-off-about-half-of-its-workforce-50e5)
+- [How To Filter Values Type-Safely in TypeScript](https://dev.to/zirkelc/how-to-filter-values-type-safely-29jj)
+- [Top 5 Flutter Packages that you need to add to your Flutter Project RIGHT NOW.](https://dev.to/slimpotatoboy/top-5-flutter-packages-that-you-need-to-add-to-your-flutter-project-right-now-5d68)
+- [Ways to Improve Developer Onboarding on an existing codebase](https://dev.to/documatic/ways-to-improve-developer-onboarding-on-an-existing-codebase-5b23)
 <!-- BLOG-POST-LIST:END -->
 
