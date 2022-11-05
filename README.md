@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make your DOM look like an eye that can focus on anything!](https://dev.to/jj811208/make-your-dom-look-like-an-eye-that-can-focus-on-anything-3am)
 - [Top 5 Icon websites for devs and designers!!!](https://dev.to/ymhaah/top-5-icon-websites-for-devs-and-designers-53mh)
 - [What Is the difference between PaaS And FaaS?](https://dev.to/aviyel/what-is-the-difference-between-paas-and-faas-4pnc)
-- [An animated guide for Node.js event loop](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
-- [Javascript Ordinals: Adding st, nd, rd and th suffixes to a number](https://dev.to/smpnjn/javascript-ordinals-adding-st-nd-rd-and-th-suffixes-to-a-number-54ca)
+- [Hello world!](https://dev.to/adrianacamarotto/hello-world-6pf)
 <!-- BLOG-POST-LIST:END -->
 
