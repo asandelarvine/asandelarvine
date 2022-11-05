@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [In One Minute : Pandas](https://dev.to/rakeshkr2/in-one-minute-pandas-4f3f)
+- [38-Nodejs Course 2023: Query Builder](https://dev.to/hassanzohdy/38-nodejs-course-2023-query-builder-40ck)
 - [Automatically Add Logged In User Under &#39;created_by&#39; and &#39;updated_by&#39; to Model in Django Rest Framework](https://dev.to/forhadakhan/automatically-add-logged-in-user-under-createdby-and-updatedby-to-model-in-django-rest-framework-4c9c)
 - [Theme Changer with HTML and CSS only](https://dev.to/shubhamtiwari909/theme-changer-with-html-and-css-only-4144)
-- [Quickly and easily create react-contexts and implement state management](https://dev.to/rubenarushanyan/quickly-and-easily-create-react-contexts-and-implement-state-management-2f8n)
 <!-- BLOG-POST-LIST:END -->
 
