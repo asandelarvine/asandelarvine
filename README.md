@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Wrlcome to Perl Channel](https://dev.to/yukikimoto/wrlcome-to-perl-channel-4p6d)
+- [Certificate Parsing with `domain-recon`](https://dev.to/ervin_szilagyi/certificate-parsing-with-domain-recon-1eo9)
 - [You don’t need the framework that builds you a blog in 10 minutes.](https://dev.to/noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-2ig1)
-- [Make your DOM look like an eye that can focus on anything!](https://dev.to/jj811208/make-your-dom-look-like-an-eye-that-can-focus-on-anything-3am)
-- [Top 5 Icon websites for devs and designers!!!](https://dev.to/ymhaah/top-5-icon-websites-for-devs-and-designers-53mh)
-- [What Is the difference between PaaS And FaaS?](https://dev.to/aviyel/what-is-the-difference-between-paas-and-faas-4pnc)
+- [Elevate Your Terminal Experience on The Mac 🧘‍♂️](https://dev.to/duncanlew/elevate-your-terminal-experience-on-the-mac-3o3m)
 <!-- BLOG-POST-LIST:END -->
 
