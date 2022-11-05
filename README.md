@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best 11 headless commerce platforms](https://dev.to/dsalinasgardon/best-11-headless-commerce-platforms-2o54)
-- [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://dev.to/makendrang/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer-3c24)
-- [How do you organize CSS files?](https://dev.to/sloan/how-do-you-organize-css-files-gec)
-- [Fall of the Death Star — Why Scanning Infrastructure as Code Matters](https://dev.to/justindperkins/fall-of-the-death-star-why-scanning-infrastructure-as-code-matters-30bo)
+- [Mastodon on YugabyteDB](https://dev.to/yugabyte/mastodon-on-yugabytedb-10o2)
+- [How to upload User Profile Image in WP REST API](https://dev.to/adeleyeayodeji/how-to-upload-user-profile-image-in-wp-rest-api-4cpo)
+- [#gitPanic - Git 101](https://dev.to/abbeyperini/gitpanic-git-101-10db)
+- [Why &quot;How to get an internship&quot; question is wrong? Part 1.](https://dev.to/nikitakoselev/why-how-to-get-an-internship-question-is-wrong-part-1-op4)
 <!-- BLOG-POST-LIST:END -->
 
