@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Ordinals: Adding st, nd, rd and th suffixes to a number](https://dev.to/smpnjn/javascript-ordinals-adding-st-nd-rd-and-th-suffixes-to-a-number-54ca)
+- [Variables in JavaScript](https://dev.to/kima_badalyan/variables-in-javascript-14po)
 - [How To Build a Quiz App With HTML CSS and JavaScript](https://dev.to/patelrohan750/how-to-build-a-quiz-app-with-html-css-and-javascript-19a9)
 - [Embedded development is not like web development](https://dev.to/wesen/embedded-development-is-not-like-web-development-4hoj)
-- [How to send Multiple Messages on whatsapp through Python ?](https://dev.to/akshdesai1/how-to-send-multiple-messages-on-whatsapp--43pf)
-- [C++ &lpar;Cross-Platform&rpar; Predefined Library](https://dev.to/xeerx/c-cross-platform-predefined-library-335g)
 <!-- BLOG-POST-LIST:END -->
 
