@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : Pandas](https://dev.to/rakeshkr2/in-one-minute-pandas-4f3f)
 - [Automatically Add Logged In User Under &#39;created_by&#39; and &#39;updated_by&#39; to Model in Django Rest Framework](https://dev.to/forhadakhan/automatically-add-logged-in-user-under-createdby-and-updatedby-to-model-in-django-rest-framework-4c9c)
 - [Theme Changer with HTML and CSS only](https://dev.to/shubhamtiwari909/theme-changer-with-html-and-css-only-4144)
 - [Quickly and easily create react-contexts and implement state management](https://dev.to/rubenarushanyan/quickly-and-easily-create-react-contexts-and-implement-state-management-2f8n)
-- [Static analysis tooling with CMake](https://dev.to/batunpc/static-analysis-tooling-with-cmake-6m7)
 <!-- BLOG-POST-LIST:END -->
 
