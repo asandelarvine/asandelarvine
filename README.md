@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O-1 Visa USA vs UK Global Talent Visa: What’s better](https://dev.to/beetlehope/o-1-visa-usa-vs-uk-global-talent-visa-whats-better-78o)
-- [In One Minute : Pandas](https://dev.to/rakeshkr2/in-one-minute-pandas-4f3f)
-- [38-Nodejs Course 2023: Query Builder](https://dev.to/hassanzohdy/38-nodejs-course-2023-query-builder-40ck)
-- [Automatically Add Logged In User Under &#39;created_by&#39; and &#39;updated_by&#39; to Model in Django Rest Framework](https://dev.to/forhadakhan/automatically-add-logged-in-user-under-createdby-and-updatedby-to-model-in-django-rest-framework-4c9c)
+- [C++ &lpar;Cross-Platform&rpar; Predefined Library](https://dev.to/xeerx/c-cross-platform-predefined-library-335g)
+- [Functions in JavaScript.](https://dev.to/jindalkeshav82/functions-in-javascript-87n)
+- [creating a self signed ssl certificate and making your browser trust it](https://dev.to/cvltyxd/creating-a-self-signed-ssl-certificate-and-making-your-browser-trust-it-2blo)
+- [Testing with Prisma](https://dev.to/moekidev/testing-with-prisma-3eo8)
 <!-- BLOG-POST-LIST:END -->
 
