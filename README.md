@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Quickly and easily create react-contexts and implement state management](https://dev.to/rubenarushanyan/quickly-and-easily-create-react-contexts-and-implement-state-management-2f8n)
+- [Static analysis tooling with CMake](https://dev.to/batunpc/static-analysis-tooling-with-cmake-6m7)
 - [Partition Labels](https://dev.to/salahelhossiny/partition-labels-5abk)
 - [Best Library To Create Simple And Complex Forms In React](https://dev.to/myogeshchavan97/best-library-to-create-simple-and-complex-forms-in-react-k73)
-- [✨Write clean Python code using pylint and black ✨🐍](https://dev.to/saminarp/write-clean-python-code-using-pylint-and-black-17e3)
-- [React Router 6 Deferred Fetch](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68)
 <!-- BLOG-POST-LIST:END -->
 
