@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Router 6 Deferred Fetch](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68)
+- [This Week in DevRel: Life Moves Fast](https://dev.to/bekahhw/this-week-in-devrel-life-moves-fast-5gfc)
 - [Mastodon on YugabyteDB](https://dev.to/yugabyte/mastodon-on-yugabytedb-10o2)
 - [How to upload User Profile Image in WP REST API](https://dev.to/adeleyeayodeji/how-to-upload-user-profile-image-in-wp-rest-api-4cpo)
-- [#gitPanic - Git 101](https://dev.to/abbeyperini/gitpanic-git-101-10db)
-- [Why &quot;How to get an internship&quot; question is wrong? Part 1.](https://dev.to/nikitakoselev/why-how-to-get-an-internship-question-is-wrong-part-1-op4)
 <!-- BLOG-POST-LIST:END -->
 
