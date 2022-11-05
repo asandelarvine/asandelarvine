@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You don’t need the framework that builds you a blog in 10 minutes.](https://dev.to/noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-2ig1)
 - [Make your DOM look like an eye that can focus on anything!](https://dev.to/jj811208/make-your-dom-look-like-an-eye-that-can-focus-on-anything-3am)
 - [Top 5 Icon websites for devs and designers!!!](https://dev.to/ymhaah/top-5-icon-websites-for-devs-and-designers-53mh)
 - [What Is the difference between PaaS And FaaS?](https://dev.to/aviyel/what-is-the-difference-between-paas-and-faas-4pnc)
-- [Hello world!](https://dev.to/adrianacamarotto/hello-world-6pf)
 <!-- BLOG-POST-LIST:END -->
 
