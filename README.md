@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Icon websites for devs and designers!!!](https://dev.to/ymhaah/top-5-icon-websites-for-devs-and-designers-53mh)
+- [What Is the difference between PaaS And FaaS?](https://dev.to/aviyel/what-is-the-difference-between-paas-and-faas-4pnc)
+- [An animated guide for Node.js event loop](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
 - [Javascript Ordinals: Adding st, nd, rd and th suffixes to a number](https://dev.to/smpnjn/javascript-ordinals-adding-st-nd-rd-and-th-suffixes-to-a-number-54ca)
-- [Variables in JavaScript](https://dev.to/kima_badalyan/variables-in-javascript-14po)
-- [How To Build a Quiz App With HTML CSS and JavaScript](https://dev.to/patelrohan750/how-to-build-a-quiz-app-with-html-css-and-javascript-19a9)
-- [Embedded development is not like web development](https://dev.to/wesen/embedded-development-is-not-like-web-development-4hoj)
 <!-- BLOG-POST-LIST:END -->
 
