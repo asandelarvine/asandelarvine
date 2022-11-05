@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Partition Labels](https://dev.to/salahelhossiny/partition-labels-5abk)
+- [Best Library To Create Simple And Complex Forms In React](https://dev.to/myogeshchavan97/best-library-to-create-simple-and-complex-forms-in-react-k73)
+- [✨Write clean Python code using pylint and black ✨🐍](https://dev.to/saminarp/write-clean-python-code-using-pylint-and-black-17e3)
 - [React Router 6 Deferred Fetch](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68)
-- [This Week in DevRel: Life Moves Fast](https://dev.to/bekahhw/this-week-in-devrel-life-moves-fast-5gfc)
-- [Mastodon on YugabyteDB](https://dev.to/yugabyte/mastodon-on-yugabytedb-10o2)
-- [How to upload User Profile Image in WP REST API](https://dev.to/adeleyeayodeji/how-to-upload-user-profile-image-in-wp-rest-api-4cpo)
 <!-- BLOG-POST-LIST:END -->
 
