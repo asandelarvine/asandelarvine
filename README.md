@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to NFTs](https://dev.to/iadityasingh/a-complete-guide-to-nfts-28lj)
-- [Migrate from render to Supabase](https://dev.to/devkazuki/migrate-from-render-to-supabase-2en)
-- [1st day](https://dev.to/guymorganb_/1st-day-4epg)
-- [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
+- [Building Immersive Communities in public - What do you want to see next?](https://dev.to/mariostopfer/building-immersivecommunities-in-public-whatdo-you-want-to-see-next-kcf)
+- [Journey of a web page - A mind map !](https://dev.to/abhighyaa/the-journey-of-a-web-request-a-mind-map-4g5g)
+- [Most Common Word](https://dev.to/salahelhossiny/most-common-word-26k)
+- [How Twitter Shows Those Link Cards](https://dev.to/shreyvijayvargiya/how-twitter-shows-those-link-cards-40kg)
 <!-- BLOG-POST-LIST:END -->
 
