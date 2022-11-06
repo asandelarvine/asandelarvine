@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reorder Data in Log Files](https://dev.to/salahelhossiny/reorder-data-in-log-files-17k8)
 - [Building Immersive Communities in public - What do you want to see next?](https://dev.to/mariostopfer/building-immersivecommunities-in-public-whatdo-you-want-to-see-next-kcf)
 - [Journey of a web page - A mind map !](https://dev.to/abhighyaa/the-journey-of-a-web-request-a-mind-map-4g5g)
 - [Most Common Word](https://dev.to/salahelhossiny/most-common-word-26k)
-- [How Twitter Shows Those Link Cards](https://dev.to/shreyvijayvargiya/how-twitter-shows-those-link-cards-40kg)
 <!-- BLOG-POST-LIST:END -->
 
