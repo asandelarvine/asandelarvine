@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 13 is here](https://dev.to/deveshanand18/nextjs-13-is-here-5f5p)
+- [Javascript loops: for vs forEach vs for.. in vs for.. of](https://dev.to/smpnjn/javascript-loops-for-vs-foreach-vs-for-in-vs-for-of-1mbo)
+- [How to monetize your Google Workspace add-on?](https://dev.to/frenchcooc/how-to-monetize-your-google-workspace-add-on-1k0a)
 - [Removing the last element of an array in Javascript](https://dev.to/smpnjn/removing-the-last-element-of-an-array-in-javascript-7ga)
-- [Analysis of classification models on NASA Active Fire data.](https://dev.to/apeksha235/analysis-of-classification-models-on-nasa-active-fire-data-5c93)
-- [Deploy your static React app under 5mins](https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij)
-- [Did Elon Musk fire 3,250 Twitter employees by LOC count?](https://dev.to/polterguy/did-elon-musk-fire-3250-twitter-employees-by-loc-count-2oef)
 <!-- BLOG-POST-LIST:END -->
 
