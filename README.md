@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how much do you validate the form with only HTML - Part1](https://dev.to/urstrulyvishwak/how-much-do-you-validate-the-form-with-only-html-part1-576h)
-- [Count to 1 billion](https://dev.to/sheikh_ishaan/count-to-1-billion-20de)
-- [Finding bugs by fuzzing your code](https://dev.to/superfola/finding-bugs-by-fuzzing-your-code-1b0e)
-- [Redux is not DEAD!](https://dev.to/fabiobiondi/redux-is-not-dead-55h6)
+- [Deploy your static React app under 5mins](https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij)
+- [Did Elon Musk fire 3,250 Twitter employees by LOC count?](https://dev.to/polterguy/did-elon-musk-fire-3250-twitter-employees-by-loc-count-2oef)
+- [Open-source MLOps Fundamentals Course 🚀](https://dev.to/madewithml/open-source-mlops-fundamentals-course-4oag)
+- [Learning Rust: Combinators](https://dev.to/sylvainkerkour/learning-rust-combinators-54na)
 <!-- BLOG-POST-LIST:END -->
 
