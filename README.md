@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
 - [Use Model Features to Speed Up Backend Development in a DRY Manner](https://dev.to/webjose/use-model-features-to-speed-up-backend-development-in-a-dry-manner-20gb)
 - [Orderly Queue](https://dev.to/salahelhossiny/orderly-queue-3k9i)
 - [Automate and Auto-Merge Pull Requests using GitHub Actions and the GitHub CLI](https://dev.to/nickytonline/automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6)
-- [ReactJs using Hook useMemo](https://dev.to/catur/reactjs-using-hook-usememo-5a73)
 <!-- BLOG-POST-LIST:END -->
 
