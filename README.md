@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Orderly Queue](https://dev.to/salahelhossiny/orderly-queue-3k9i)
+- [ReactJs using Hook useMemo](https://dev.to/catur/reactjs-using-hook-usememo-5a73)
 - [Wrlcome to Perl Channel](https://dev.to/yukikimoto/wrlcome-to-perl-channel-4p6d)
 - [Certificate Parsing with `domain-recon`](https://dev.to/ervin_szilagyi/certificate-parsing-with-domain-recon-1eo9)
-- [You don’t need the framework that builds you a blog in 10 minutes.](https://dev.to/noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-2ig1)
-- [Elevate Your Terminal Experience on The Mac 🧘‍♂️](https://dev.to/duncanlew/elevate-your-terminal-experience-on-the-mac-3o3m)
 <!-- BLOG-POST-LIST:END -->
 
