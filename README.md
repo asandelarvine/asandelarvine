@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Immediately invoked function expressions &lpar;IIFE&rpar;](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
+- [macOS Dev Setup](https://dev.to/apssouza22/macos-dev-setup-4bkb)
 - [Coding Flappy Bird](https://dev.to/bekbrace/coding-flappy-bird-3i3l)
 - [Next.js 13 is here](https://dev.to/deveshanand18/nextjs-13-is-here-5f5p)
-- [Javascript loops: for vs forEach vs for.. in vs for.. of](https://dev.to/smpnjn/javascript-loops-for-vs-foreach-vs-for-in-vs-for-of-1mbo)
-- [How to monetize your Google Workspace add-on?](https://dev.to/frenchcooc/how-to-monetize-your-google-workspace-add-on-1k0a)
 <!-- BLOG-POST-LIST:END -->
 
