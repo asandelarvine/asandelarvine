@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Javascript Immediately invoked function expressions &lpar;IIFE&rpar;](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
+- [A Bitter Interview Experience](https://dev.to/theaccordance/a-bitter-interview-experience-56lf)
 - [macOS Dev Setup](https://dev.to/apssouza22/macos-dev-setup-4bkb)
 - [Coding Flappy Bird](https://dev.to/bekbrace/coding-flappy-bird-3i3l)
-- [Next.js 13 is here](https://dev.to/deveshanand18/nextjs-13-is-here-5f5p)
 <!-- BLOG-POST-LIST:END -->
 
