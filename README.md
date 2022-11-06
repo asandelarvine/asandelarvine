@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrate from render to Supabase](https://dev.to/devkazuki/migrate-from-render-to-supabase-2en)
+- [1st day](https://dev.to/guymorganb_/1st-day-4epg)
 - [How to Make Weather App in React](https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f)
 - [Use Model Features to Speed Up Backend Development in a DRY Manner](https://dev.to/webjose/use-model-features-to-speed-up-backend-development-in-a-dry-manner-20gb)
-- [Orderly Queue](https://dev.to/salahelhossiny/orderly-queue-3k9i)
-- [Automate and Auto-Merge Pull Requests using GitHub Actions and the GitHub CLI](https://dev.to/nickytonline/automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6)
 <!-- BLOG-POST-LIST:END -->
 
