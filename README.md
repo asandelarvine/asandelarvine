@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Count to 1 billion](https://dev.to/sheikh_ishaan/count-to-1-billion-20de)
 - [Finding bugs by fuzzing your code](https://dev.to/superfola/finding-bugs-by-fuzzing-your-code-1b0e)
 - [In One Minute : WordPress](https://dev.to/rakeshkr2/in-one-minute-wordpress-4e22)
-- [Matplotlib - Visualization with Python](https://dev.to/debjotyms/matplotlib-visualization-with-python-3iel)
-- [How to call AWS Step Functions from AWS Amplify](https://dev.to/aws-builders/how-to-call-aws-step-functions-from-aws-amplify-21lm)
+- [Java Program: Program for checking the no. is prime or not and the approach towards the problem....](https://dev.to/deepesh23aadez/java-program-program-for-checking-the-no-is-prime-or-not-and-the-approach-towards-the-problem-4d31)
 <!-- BLOG-POST-LIST:END -->
 
