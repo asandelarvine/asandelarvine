@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Analysis of classification models on NASA Active Fire data.](https://dev.to/apeksha235/analysis-of-classification-models-on-nasa-active-fire-data-5c93)
 - [Deploy your static React app under 5mins](https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij)
 - [Did Elon Musk fire 3,250 Twitter employees by LOC count?](https://dev.to/polterguy/did-elon-musk-fire-3250-twitter-employees-by-loc-count-2oef)
 - [Open-source MLOps Fundamentals Course 🚀](https://dev.to/madewithml/open-source-mlops-fundamentals-course-4oag)
-- [Learning Rust: Combinators](https://dev.to/sylvainkerkour/learning-rust-combinators-54na)
 <!-- BLOG-POST-LIST:END -->
 
