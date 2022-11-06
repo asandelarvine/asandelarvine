@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [how much do you validate the form with only HTML - Part1](https://dev.to/urstrulyvishwak/how-much-do-you-validate-the-form-with-only-html-part1-576h)
 - [Count to 1 billion](https://dev.to/sheikh_ishaan/count-to-1-billion-20de)
 - [Finding bugs by fuzzing your code](https://dev.to/superfola/finding-bugs-by-fuzzing-your-code-1b0e)
-- [In One Minute : WordPress](https://dev.to/rakeshkr2/in-one-minute-wordpress-4e22)
-- [Java Program: Program for checking the no. is prime or not and the approach towards the problem....](https://dev.to/deepesh23aadez/java-program-program-for-checking-the-no-is-prime-or-not-and-the-approach-towards-the-problem-4d31)
+- [Redux is not DEAD!](https://dev.to/fabiobiondi/redux-is-not-dead-55h6)
 <!-- BLOG-POST-LIST:END -->
 
