@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : WordPress](https://dev.to/rakeshkr2/in-one-minute-wordpress-4e22)
 - [Matplotlib - Visualization with Python](https://dev.to/debjotyms/matplotlib-visualization-with-python-3iel)
+- [How to call AWS Step Functions from AWS Amplify](https://dev.to/aws-builders/how-to-call-aws-step-functions-from-aws-amplify-21lm)
 - [Reorder Data in Log Files](https://dev.to/salahelhossiny/reorder-data-in-log-files-17k8)
-- [Mount Bromo Indonesia](https://dev.to/bromotourpackage/mount-bromo-indonesia-3jo)
-- [Building Immersive Communities in public - What do you want to see next?](https://dev.to/mariostopfer/building-immersivecommunities-in-public-whatdo-you-want-to-see-next-kcf)
 <!-- BLOG-POST-LIST:END -->
 
