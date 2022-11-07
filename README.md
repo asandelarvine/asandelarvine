@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Funk Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-funk-edition-2n4)
-- [Strconv.Itoa vs Strconv.FormatInt vs fmt.Sprintf which is good to Convert Int to String In Golang](https://dev.to/mavensingh/strconvitoa-vs-strconvformatint-vs-fmtsprintf-which-is-good-to-convert-int-to-string-in-golang-3iol)
-- [PoC vs Prototype vs MVP](https://dev.to/lawalalao/poc-vs-prototype-vs-mvp-406l)
-- [tsParticles 2.5.3 Released](https://dev.to/tsparticles/tsparticles-253-released-4cmf)
+- [An introduction to the Zerops build &amp; deploy pipeline: A Golang example](https://dev.to/reoops/an-introduction-to-the-zerops-build-deploy-pipeline-a-golang-example-4opd)
+- [Do You Understand Why The Key To Controlling Complexity is Abstraction?](https://dev.to/raddevus/do-you-understand-why-the-key-to-controlling-complexity-is-abstraction-5dhj)
+- [What are your goals for the week? 11/7](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-117-4ing)
+- [A Beginner’s Guide to Understanding &amp; Recognizing Different Cyber Threats](https://dev.to/chelmerrox/a-beginners-guide-to-understanding-recognizing-different-cyber-threats-3pmn)
 <!-- BLOG-POST-LIST:END -->
 
