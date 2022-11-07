@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday 🤌](https://dev.to/ben/meme-monday-4l2b)
+- [How to pass command line arguments to a Node.js app?](https://dev.to/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app-5294)
 - [Codédex Launch on Product Hunt! 🚀](https://dev.to/codedex/codedex-launch-on-product-hunt-13o8)
 - [Tick Tock migration pattern](https://dev.to/woovi/tick-tock-migration-pattern-2gn)
-- [Building a React application to solve captchas using 2captcha](https://dev.to/surajondev/building-a-react-application-to-solve-captchas-using-2captcha-4alk)
-- [What is Alternative Data - Complete Guide 📊](https://dev.to/nyctonio/what-is-alternative-data-complete-guide-2ln7)
 <!-- BLOG-POST-LIST:END -->
 
