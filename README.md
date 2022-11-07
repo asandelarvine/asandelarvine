@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Latest IT Open Positions - Week #45 of 2022](https://dev.to/shman/latest-it-open-positions-week-45-of-2022-2f1i)
-- [REST vs SOAP: why we recommend REST APIs for A2P messaging](https://dev.to/ravgeetdhillon/rest-vs-soap-why-we-recommend-rest-apis-for-a2p-messaging-2no8)
-- [Docker Cheatsheet](https://dev.to/manthanank/docker-cheatsheet-bk6)
-- [How to create an EyeDropper tool using JavaScript?](https://dev.to/atapas/how-to-create-an-eyedropper-tool-using-javascript-3k59)
+- [Long youtube videos are a waste of time unless….](https://dev.to/shreyvijayvargiya/long-youtube-videos-are-a-waste-of-time-unless-p11)
+- [Building a Web Scraper in Golang: Complete Tutorial](https://dev.to/oxylabs-io/building-a-web-scraper-in-golang-complete-tutorial-34if)
+- [Building an Awesome Carousel Reusable Component with React and Splide.js](https://dev.to/meenahgurl/building-an-awesome-carousel-reusable-component-with-react-and-splidejs-g0p)
+- [Chrome 107: Keyboard shortcuts](https://dev.to/dailydevtips1/chrome-107-keyboard-shortcuts-cb6)
 <!-- BLOG-POST-LIST:END -->
 
