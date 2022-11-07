@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : Laravel](https://dev.to/rakeshkr2/in-one-minute-laravel-537h)
+- [How To Iterate Over C String](https://dev.to/zirkelc/how-to-iterate-over-c-string-lcj)
 - [Rust Easy! Modern Cross-platform Command Line Tools to Supercharge Your Terminal](https://dev.to/deepu105/rust-easy-modern-cross-platform-command-line-tools-to-supercharge-your-terminal-4dd3)
 - [CD onboarding with Harness using Azure.](https://dev.to/freaking_wish/cd-onboarding-with-harness-using-azure-2k04)
-- [AWS open source newsletter, #134](https://dev.to/aws/aws-open-source-newsletter-134-221d)
-- [Profitable Growth: 4 Ways Personalization Can Accelerate Profitability During a Downturn](https://dev.to/ninetailed/profitable-growth-4-ways-personalization-can-accelerate-profitability-during-a-downturn-o2b)
 <!-- BLOG-POST-LIST:END -->
 
