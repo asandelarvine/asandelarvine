@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Netlify, Vite, deploy and “Page Not Found” error](https://dev.to/olgaurentseva/netlify-vite-deploy-and-page-not-found-error-54aj)
 - [What is a VPN? Which one should I choose?](https://dev.to/stephen730/what-is-a-vpn-which-one-should-i-choose-2nmd)
 - [Giulio&#39;s Hacktoberfest 2022](https://dev.to/giulio/giulios-hacktoberfest-2022-3dmd)
 - [All Important Data Structures &amp; Algorithms for Coding Interview](https://dev.to/samirpaul/all-important-data-structures-algorithms-for-coding-interview-1ao)
-- [Factory Method pattern in TypeScript](https://dev.to/jmalvarez/factory-method-pattern-in-typescript-2a1n)
 <!-- BLOG-POST-LIST:END -->
 
