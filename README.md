@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An introduction to the Zerops build &amp; deploy pipeline: A Golang example](https://dev.to/reoops/an-introduction-to-the-zerops-build-deploy-pipeline-a-golang-example-4opd)
-- [Do You Understand Why The Key To Controlling Complexity is Abstraction?](https://dev.to/raddevus/do-you-understand-why-the-key-to-controlling-complexity-is-abstraction-5dhj)
-- [What are your goals for the week? 11/7](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-117-4ing)
-- [A Beginner’s Guide to Understanding &amp; Recognizing Different Cyber Threats](https://dev.to/chelmerrox/a-beginners-guide-to-understanding-recognizing-different-cyber-threats-3pmn)
+- [[EN] Git. Guide from scratch](https://dev.to/davidrojom/en-git-guide-from-scratch-ao4)
+- [Top 10 ways to become a self-taught developer](https://dev.to/documatic/top-10-ways-to-become-a-self-taught-developer-5gig)
+- [Client-side Routing without the JavaScript](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
+- [What are you learning this week?](https://dev.to/deepgram/what-are-you-learning-this-week-2f0e)
 <!-- BLOG-POST-LIST:END -->
 
