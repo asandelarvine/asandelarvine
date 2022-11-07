@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Giulio&#39;s Hacktoberfest 2022](https://dev.to/giulio/giulios-hacktoberfest-2022-3dmd)
+- [All Important Data Structures &amp; Algorithms for Coding Interview](https://dev.to/samirpaul/all-important-data-structures-algorithms-for-coding-interview-1ao)
+- [Factory Method pattern in TypeScript](https://dev.to/jmalvarez/factory-method-pattern-in-typescript-2a1n)
 - [I Created a pure Unicode Code Highlighter :P](https://dev.to/felipperegazio/i-created-a-pure-unicode-code-highlighter-p-ong)
-- [Apache Commons Text CVE-2022-42889 Fix for JMeter](https://dev.to/qainsights/apache-commons-text-cve-2022-42889-fix-for-jmeter-2507)
-- [Web3 Security: Types of Attacks and Lessons Discovered](https://dev.to/guildaudits/web3-security-types-of-attacks-and-lessons-discovered-2ioi)
-- [[EN] Git. Guide from scratch](https://dev.to/davidrojom/en-git-guide-from-scratch-ao4)
 <!-- BLOG-POST-LIST:END -->
 
