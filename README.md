@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLiP-Spring](https://dev.to/tspannhw/flip-spring-52ej)
-- [November - Month of Talks](https://dev.to/tspannhw/november-month-of-talks-372i)
-- [What Is Domain Authority And How To Make It Higher?](https://dev.to/aradwan20/what-is-domain-authority-and-how-to-make-it-higher-413f)
-- [Learning Rust: Async Combinators](https://dev.to/sylvainkerkour/learning-rust-async-combinators-h8j)
+- [Music Monday — What are you listening to? &lpar;Funk Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-funk-edition-2n4)
+- [Strconv.Itoa vs Strconv.FormatInt vs fmt.Sprintf which is good to Convert Int to String In Golang](https://dev.to/mavensingh/strconvitoa-vs-strconvformatint-vs-fmtsprintf-which-is-good-to-convert-int-to-string-in-golang-3iol)
+- [PoC vs Prototype vs MVP](https://dev.to/lawalalao/poc-vs-prototype-vs-mvp-406l)
+- [tsParticles 2.5.3 Released](https://dev.to/tsparticles/tsparticles-253-released-4cmf)
 <!-- BLOG-POST-LIST:END -->
 
