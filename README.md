@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [REST vs SOAP: why we recommend REST APIs for A2P messaging](https://dev.to/ravgeetdhillon/rest-vs-soap-why-we-recommend-rest-apis-for-a2p-messaging-2no8)
+- [Docker Cheatsheet](https://dev.to/manthanank/docker-cheatsheet-bk6)
 - [How to create an EyeDropper tool using JavaScript?](https://dev.to/atapas/how-to-create-an-eyedropper-tool-using-javascript-3k59)
 - [Three.js Light](https://dev.to/es404020/threejs-light-1kea)
-- [Stop writing your SQL code inside your Go source files!](https://dev.to/midir99/stop-writing-your-sql-code-inside-your-go-source-files-1768)
-- [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
 <!-- BLOG-POST-LIST:END -->
 
