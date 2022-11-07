@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In One Minute : Laravel](https://dev.to/rakeshkr2/in-one-minute-laravel-537h)
-- [How To Iterate Over C String](https://dev.to/zirkelc/how-to-iterate-over-c-string-lcj)
-- [Rust Easy! Modern Cross-platform Command Line Tools to Supercharge Your Terminal](https://dev.to/deepu105/rust-easy-modern-cross-platform-command-line-tools-to-supercharge-your-terminal-4dd3)
-- [CD onboarding with Harness using Azure.](https://dev.to/freaking_wish/cd-onboarding-with-harness-using-azure-2k04)
+- [Codédex Launch on Product Hunt! 🚀](https://dev.to/codedex/codedex-launch-on-product-hunt-13o8)
+- [Tick Tock migration pattern](https://dev.to/woovi/tick-tock-migration-pattern-2gn)
+- [Building a React application to solve captchas using 2captcha](https://dev.to/surajondev/building-a-react-application-to-solve-captchas-using-2captcha-4alk)
+- [What is Alternative Data - Complete Guide 📊](https://dev.to/nyctonio/what-is-alternative-data-complete-guide-2ln7)
 <!-- BLOG-POST-LIST:END -->
 
