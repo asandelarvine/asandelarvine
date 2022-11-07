@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #134](https://dev.to/aws/aws-open-source-newsletter-134-221d)
+- [Profitable Growth: 4 Ways Personalization Can Accelerate Profitability During a Downturn](https://dev.to/ninetailed/profitable-growth-4-ways-personalization-can-accelerate-profitability-during-a-downturn-o2b)
+- [A Complete Guide to Importing Shopify Customer Data to Google Ads](https://dev.to/gloriamaldonado/a-complete-guide-to-importing-shopify-customer-data-to-google-ads-5e57)
 - [Long youtube videos are a waste of time unless….](https://dev.to/shreyvijayvargiya/long-youtube-videos-are-a-waste-of-time-unless-p11)
-- [Building a Web Scraper in Golang: Complete Tutorial](https://dev.to/oxylabs-io/building-a-web-scraper-in-golang-complete-tutorial-34if)
-- [Building an Awesome Carousel Reusable Component with React and Splide.js](https://dev.to/meenahgurl/building-an-awesome-carousel-reusable-component-with-react-and-splidejs-g0p)
-- [Chrome 107: Keyboard shortcuts](https://dev.to/dailydevtips1/chrome-107-keyboard-shortcuts-cb6)
 <!-- BLOG-POST-LIST:END -->
 
