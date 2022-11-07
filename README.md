@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday 🤌](https://dev.to/ben/meme-monday-4l2b)
-- [How to pass command line arguments to a Node.js app?](https://dev.to/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app-5294)
-- [Codédex Launch on Product Hunt! 🚀](https://dev.to/codedex/codedex-launch-on-product-hunt-13o8)
-- [Tick Tock migration pattern](https://dev.to/woovi/tick-tock-migration-pattern-2gn)
+- [FLiP-Spring](https://dev.to/tspannhw/flip-spring-52ej)
+- [November - Month of Talks](https://dev.to/tspannhw/november-month-of-talks-372i)
+- [What Is Domain Authority And How To Make It Higher?](https://dev.to/aradwan20/what-is-domain-authority-and-how-to-make-it-higher-413f)
+- [Learning Rust: Async Combinators](https://dev.to/sylvainkerkour/learning-rust-async-combinators-h8j)
 <!-- BLOG-POST-LIST:END -->
 
