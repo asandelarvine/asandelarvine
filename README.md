@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I Created a pure Unicode Code Highlighter :P](https://dev.to/felipperegazio/i-created-a-pure-unicode-code-highlighter-p-ong)
+- [Apache Commons Text CVE-2022-42889 Fix for JMeter](https://dev.to/qainsights/apache-commons-text-cve-2022-42889-fix-for-jmeter-2507)
+- [Web3 Security: Types of Attacks and Lessons Discovered](https://dev.to/guildaudits/web3-security-types-of-attacks-and-lessons-discovered-2ioi)
 - [[EN] Git. Guide from scratch](https://dev.to/davidrojom/en-git-guide-from-scratch-ao4)
-- [Top 10 ways to become a self-taught developer](https://dev.to/documatic/top-10-ways-to-become-a-self-taught-developer-5gig)
-- [Client-side Routing without the JavaScript](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
-- [What are you learning this week?](https://dev.to/deepgram/what-are-you-learning-this-week-2f0e)
 <!-- BLOG-POST-LIST:END -->
 
