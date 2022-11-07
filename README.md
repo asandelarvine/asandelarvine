@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
+- [[ES] Git. Guía desde cero.](https://dev.to/davidrojom/es-git-guia-desde-cero-2jln)
+- [Building a GPT-3 Powered Discord Support Bot](https://dev.to/kunaljaydesai/building-a-gpt-3-powered-discord-support-bot-226o)
 - [Tailwind CSS tutorial #5: Alignment - Justify Items](https://dev.to/shubhicodes/tailwind-css-tutorial-5-alignment-justify-items-4mci)
-- [Javascript Immediately invoked function expressions &lpar;IIFE&rpar;](https://dev.to/smpnjn/javascript-immediately-invoked-function-expressions-iife-4p7f)
-- [A Bitter Interview Experience](https://dev.to/theaccordance/a-bitter-interview-experience-56lf)
-- [macOS Dev Setup](https://dev.to/apssouza22/macos-dev-setup-4bkb)
 <!-- BLOG-POST-LIST:END -->
 
