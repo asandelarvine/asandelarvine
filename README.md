@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create an EyeDropper tool using JavaScript?](https://dev.to/atapas/how-to-create-an-eyedropper-tool-using-javascript-3k59)
+- [Three.js Light](https://dev.to/es404020/threejs-light-1kea)
+- [Stop writing your SQL code inside your Go source files!](https://dev.to/midir99/stop-writing-your-sql-code-inside-your-go-source-files-1768)
 - [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
-- [[ES] Git. Guía desde cero.](https://dev.to/davidrojom/es-git-guia-desde-cero-2jln)
-- [Building a GPT-3 Powered Discord Support Bot](https://dev.to/kunaljaydesai/building-a-gpt-3-powered-discord-support-bot-226o)
-- [Tailwind CSS tutorial #5: Alignment - Justify Items](https://dev.to/shubhicodes/tailwind-css-tutorial-5-alignment-justify-items-4mci)
 <!-- BLOG-POST-LIST:END -->
 
