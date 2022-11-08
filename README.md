@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Menu - &quot;Hamburger&quot; with Color &amp; Height Manipulation](https://dev.to/jpcarvalho/menu-hamburger-with-color-height-manipulation-3oie)
 - [Creating Pages From Markdown With GraphQL](https://dev.to/dorf8839/creating-pages-from-markdown-with-graphql-1o9p)
 - [Announcing the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107)
-- [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 1](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-1-45d1)
-- [What music have you been coding to this week?](https://dev.to/bendecoste/what-music-have-you-been-coding-to-this-week-3fgb)
+- [React &amp; NodeJS - Go LIVE with Full-Stack projects fast](https://dev.to/sm0ke/react-nodejs-go-live-with-full-stack-projects-fast-j0h)
 <!-- BLOG-POST-LIST:END -->
 
