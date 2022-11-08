@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to see if your JavaScript code is vulnerable?](https://dev.to/orlandov14/how-to-see-if-your-javascript-code-is-vulnerable-3g8k)
+- [Simple calendar in a few lines of code 📆](https://dev.to/rgolawski/simple-calendar-in-a-few-lines-of-code-2n00)
 - [Netlify, Vite, deploy and “Page Not Found” error](https://dev.to/olgaurentseva/netlify-vite-deploy-and-page-not-found-error-54aj)
-- [What is a VPN? Which one should I choose?](https://dev.to/stephen730/what-is-a-vpn-which-one-should-i-choose-2nmd)
-- [Giulio&#39;s Hacktoberfest 2022](https://dev.to/giulio/giulios-hacktoberfest-2022-3dmd)
-- [All Important Data Structures &amp; Algorithms for Coding Interview](https://dev.to/samirpaul/all-important-data-structures-algorithms-for-coding-interview-1ao)
+- [É bom conhecer o mundo](https://dev.to/andressadotpy/e-bom-conhecer-o-mundo-4dhd)
 <!-- BLOG-POST-LIST:END -->
 
