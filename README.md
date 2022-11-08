@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Men Who Truly Understand Women Know These 15 Truths!](https://dev.to/madhukaranand/men-who-truly-understand-women-know-these-15-truths-3ao7)
 - [ZMotion Application Development Tutorial -- Motion Control Card &amp; VC6.0](https://dev.to/zmotion/zmotion-application-development-tutorial-motion-control-card-vc60-oe2)
 - [Using Google Fonts with Next.js &lpar;typescript&rpar;](https://dev.to/wdp/using-google-fonts-with-nextjs-typescript-4pba)
 - [How to see if your JavaScript code is vulnerable?](https://dev.to/orlandov14/how-to-see-if-your-javascript-code-is-vulnerable-3g8k)
-- [Simple calendar in a few lines of code 📆](https://dev.to/rgolawski/simple-calendar-in-a-few-lines-of-code-2n00)
 <!-- BLOG-POST-LIST:END -->
 
