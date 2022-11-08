@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When is data encrypted in your app?](https://dev.to/gavinuhma/when-is-data-encrypted-in-your-app-2jho)
+- [cmagick v.0.1.4](https://dev.to/aissalaribi/cmagick-v014-13o2)
+- [Graph and Trees - Basic](https://dev.to/debjotyms/graph-and-trees-basic-egd)
 - [Why do you Have Too Many Tabs Opened? An almost imaginary conversation with my 5 years old nephew](https://dev.to/jmfayard/why-do-you-have-too-many-tabs-opened-an-almost-imaginary-conversation-with-my-5-years-old-nephew-4721)
-- [Phone Authentication with Appwrite and Vonage](https://dev.to/appwrite/phone-authentication-with-appwrite-and-vonage-1ep0)
-- [Ways to Improve Gaming Performance in Hyper-V](https://dev.to/billgerenger/ways-to-improve-gaming-performance-in-hyper-v-3bj3)
-- [Doubt in Debugging](https://dev.to/codenameone/doubt-in-debugging-99f)
 <!-- BLOG-POST-LIST:END -->
 
