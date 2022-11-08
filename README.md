@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with GitHub Actions from your best editor](https://dev.to/this-is-learning/working-with-github-from-your-best-editor-2dhh)
+- [Event-Driven APIs with Webhook and API Gateway](https://dev.to/apisix/event-driven-apis-with-webhook-and-api-gateway-2mdb)
 - [Text to Handwriting Conversion of Long Texts into Single PDF File](https://dev.to/fatihtelis/text-to-handwriting-conversion-of-long-texts-into-single-pdf-file-4a5c)
 - [The Python/numpy porting to Perl product](https://dev.to/yukikimoto/the-pythonnumpy-porting-to-perl-product-3jn7)
-- [Max Area of Island](https://dev.to/salahelhossiny/max-area-of-island-2lik)
-- [Next 13: What&#39;s new](https://dev.to/dailydevtips1/next-13-whats-new-57pi)
 <!-- BLOG-POST-LIST:END -->
 
