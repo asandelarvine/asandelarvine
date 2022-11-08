@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring Tools: Fewer Errors with Declarative Style](https://dev.to/bespoyasov/refactoring-tools-fewer-errors-with-declarative-style-1b4c)
+- [In One Minute : Flutter](https://dev.to/rakeshkr2/in-one-minute-flutter-549a)
+- [Entando 7.1 Release Overview](https://dev.to/entando/entando-71-release-overview-2dl3)
 - [Working with GitHub Actions from your best editor](https://dev.to/this-is-learning/working-with-github-from-your-best-editor-2dhh)
-- [Event-Driven APIs with Webhook and API Gateway](https://dev.to/apisix/event-driven-apis-with-webhook-and-api-gateway-2mdb)
-- [Text to Handwriting Conversion of Long Texts into Single PDF File](https://dev.to/fatihtelis/text-to-handwriting-conversion-of-long-texts-into-single-pdf-file-4a5c)
-- [The Python/numpy porting to Perl product](https://dev.to/yukikimoto/the-pythonnumpy-porting-to-perl-product-3jn7)
 <!-- BLOG-POST-LIST:END -->
 
