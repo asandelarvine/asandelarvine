@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SPVM::Math - Python/numpy porting to Perl](https://dev.to/yukikimoto/spvmmath-pythonnumpy-porting-to-perl-26ng)
 - [Ultimate Guide to JavaScript](https://dev.to/strangeratyourdoor/ultimate-guide-to-javascript-2dec)
 - [Menu - &quot;Hamburger&quot; with Color &amp; Height Manipulation](https://dev.to/jpcarvalho/menu-hamburger-with-color-height-manipulation-3oie)
 - [Creating Pages From Markdown With GraphQL](https://dev.to/dorf8839/creating-pages-from-markdown-with-graphql-1o9p)
-- [Announcing the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107)
 <!-- BLOG-POST-LIST:END -->
 
