@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When is data encrypted in your app?](https://dev.to/gavinuhma/when-is-data-encrypted-in-your-app-2jho)
-- [cmagick v.0.1.4](https://dev.to/aissalaribi/cmagick-v014-13o2)
-- [Graph and Trees - Basic](https://dev.to/debjotyms/graph-and-trees-basic-egd)
-- [Why do you Have Too Many Tabs Opened? An almost imaginary conversation with my 5 years old nephew](https://dev.to/jmfayard/why-do-you-have-too-many-tabs-opened-an-almost-imaginary-conversation-with-my-5-years-old-nephew-4721)
+- [Creating Pages From Markdown With GraphQL](https://dev.to/dorf8839/creating-pages-from-markdown-with-graphql-1o9p)
+- [Announcing the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107)
+- [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 1](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-1-45d1)
+- [What music have you been coding to this week?](https://dev.to/bendecoste/what-music-have-you-been-coding-to-this-week-3fgb)
 <!-- BLOG-POST-LIST:END -->
 
