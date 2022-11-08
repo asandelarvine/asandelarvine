@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Text to Handwriting Conversion of Long Texts into Single PDF File](https://dev.to/fatihtelis/text-to-handwriting-conversion-of-long-texts-into-single-pdf-file-4a5c)
 - [The Python/numpy porting to Perl product](https://dev.to/yukikimoto/the-pythonnumpy-porting-to-perl-product-3jn7)
 - [Max Area of Island](https://dev.to/salahelhossiny/max-area-of-island-2lik)
-- [Good News!](https://dev.to/zadazini/good-news-5e6c)
-- [What is Form Collection and how to implement it in ASP .NET MVC?](https://dev.to/ifourtechnolab/what-is-form-collection-and-how-to-implement-it-in-asp-net-mvc-ml2)
+- [Next 13: What&#39;s new](https://dev.to/dailydevtips1/next-13-whats-new-57pi)
 <!-- BLOG-POST-LIST:END -->
 
