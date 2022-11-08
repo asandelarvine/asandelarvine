@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Python/numpy porting to Perl product](https://dev.to/yukikimoto/the-pythonnumpy-porting-to-perl-product-3jn7)
+- [Max Area of Island](https://dev.to/salahelhossiny/max-area-of-island-2lik)
 - [Good News!](https://dev.to/zadazini/good-news-5e6c)
 - [What is Form Collection and how to implement it in ASP .NET MVC?](https://dev.to/ifourtechnolab/what-is-form-collection-and-how-to-implement-it-in-asp-net-mvc-ml2)
-- [Men Who Truly Understand Women Know These 15 Truths!](https://dev.to/madhukaranand/men-who-truly-understand-women-know-these-15-truths-3ao7)
-- [ZMotion Application Development Tutorial -- Motion Control Card &amp; VC6.0](https://dev.to/zmotion/zmotion-application-development-tutorial-motion-control-card-vc60-oe2)
 <!-- BLOG-POST-LIST:END -->
 
