@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Aide pour parler en public](https://dev.to/mxglt/aide-pour-parler-en-public-18li)
+- [Help for public speaking](https://dev.to/mxglt/help-for-public-speaking-1h0f)
+- [Draw Netflix Logo In Python](https://dev.to/mavensingh/draw-netflix-logo-in-python-3mi)
 - [How We Won the Medusa Hackathon: Building the Paystack Plugin](https://dev.to/medusajs/how-we-won-the-medusa-hackathon-building-the-paystack-plugin-d1m)
-- [5 frontend project ideas](https://dev.to/albericojr/5-frontend-project-ideas-2pa6)
-- [Data Science: Basic Mathematics](https://dev.to/azadkshitij/data-science-basic-mathematics-2bnc)
-- [Future Proof is good](https://dev.to/woovi/future-proof-is-good-3ll9)
 <!-- BLOG-POST-LIST:END -->
 
