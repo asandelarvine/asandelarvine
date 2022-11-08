@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aide pour parler en public](https://dev.to/mxglt/aide-pour-parler-en-public-18li)
-- [Help for public speaking](https://dev.to/mxglt/help-for-public-speaking-1h0f)
-- [Draw Netflix Logo In Python](https://dev.to/mavensingh/draw-netflix-logo-in-python-3mi)
-- [How We Won the Medusa Hackathon: Building the Paystack Plugin](https://dev.to/medusajs/how-we-won-the-medusa-hackathon-building-the-paystack-plugin-d1m)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jcj)
+- [Building a Native Mobile App with Next.js and Capacitor](https://dev.to/simon/building-a-native-mobile-app-with-nextjs-and-capacitor-p36)
+- [Multithreading in Rust](https://dev.to/sylvainkerkour/multithreading-in-rust-461f)
+- [The war between remote work and data security: who wins?](https://dev.to/johnjoser3/the-war-between-remote-work-and-data-security-who-wins-24ki)
 <!-- BLOG-POST-LIST:END -->
 
