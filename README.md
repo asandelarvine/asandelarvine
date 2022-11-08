@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Google Fonts with Next.js &lpar;typescript&rpar;](https://dev.to/cmtest/using-google-fonts-with-nextjs-typescript-4pba)
 - [How to see if your JavaScript code is vulnerable?](https://dev.to/orlandov14/how-to-see-if-your-javascript-code-is-vulnerable-3g8k)
 - [Simple calendar in a few lines of code 📆](https://dev.to/rgolawski/simple-calendar-in-a-few-lines-of-code-2n00)
 - [Netlify, Vite, deploy and “Page Not Found” error](https://dev.to/olgaurentseva/netlify-vite-deploy-and-page-not-found-error-54aj)
-- [É bom conhecer o mundo](https://dev.to/andressadotpy/e-bom-conhecer-o-mundo-4dhd)
 <!-- BLOG-POST-LIST:END -->
 
