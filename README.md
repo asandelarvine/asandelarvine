@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jcj)
-- [Building a Native Mobile App with Next.js and Capacitor](https://dev.to/simon/building-a-native-mobile-app-with-nextjs-and-capacitor-p36)
-- [Multithreading in Rust](https://dev.to/sylvainkerkour/multithreading-in-rust-461f)
-- [The war between remote work and data security: who wins?](https://dev.to/johnjoser3/the-war-between-remote-work-and-data-security-who-wins-24ki)
+- [Why do you Have Too Many Tabs Opened? An almost imaginary conversation with my 5 years old nephew](https://dev.to/jmfayard/why-do-you-have-too-many-tabs-opened-an-almost-imaginary-conversation-with-my-5-years-old-nephew-4721)
+- [Phone Authentication with Appwrite and Vonage](https://dev.to/appwrite/phone-authentication-with-appwrite-and-vonage-1ep0)
+- [Ways to Improve Gaming Performance in Hyper-V](https://dev.to/billgerenger/ways-to-improve-gaming-performance-in-hyper-v-3bj3)
+- [Doubt in Debugging](https://dev.to/codenameone/doubt-in-debugging-99f)
 <!-- BLOG-POST-LIST:END -->
 
