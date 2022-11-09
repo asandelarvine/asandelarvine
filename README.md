@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Delegating](https://dev.to/woovi/delegating-6ce)
-- [I made 1200+ ⭐️ stars on a Github repo! Here are some simple tips that helped me!](https://dev.to/fredy/i-made-1200-stars-on-a-github-repo-here-are-some-simple-tips-that-helped-me-4eom)
-- [How to Install and Use NVM?](https://dev.to/refine/how-to-install-and-use-nvm-352d)
-- [IndexedDB in TypeScript](https://dev.to/falcosan/indexeddb-in-typescript-1nea)
+- [This Week In React #123: TanStack Router, Gatsby, Remix, Next.js, React-Three-Fiber, Astro, Expo, Open Native, Rome...](https://dev.to/sebastienlorber/this-week-in-react-123-tanstack-router-gatsby-remix-nextjs-react-three-fiber-astro-expo-open-native-rome-3ok5)
+- [Recover from a linux boot issue - no free disk space](https://dev.to/robole/recover-from-a-linux-boot-issue-no-free-disk-space-1892)
+- [Why Rust will replace C++ in the future](https://dev.to/roy8/why-rust-will-replace-c-in-the-future-49op)
+- [A Lightweight Open Source ELK alternative | SigNoz](https://dev.to/signoz/a-lightweight-open-source-elk-alternative-signoz-264j)
 <!-- BLOG-POST-LIST:END -->
 
