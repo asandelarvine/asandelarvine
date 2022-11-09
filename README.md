@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Will JetBrains Fleet Replace VS Code?](https://dev.to/quokkalabs/will-jetbrains-fleet-replace-vs-code-3k0m)
 - [This Week In React #123: TanStack Router, Gatsby, Remix, Next.js, React-Three-Fiber, Astro, Expo, Open Native, Rome...](https://dev.to/sebastienlorber/this-week-in-react-123-tanstack-router-gatsby-remix-nextjs-react-three-fiber-astro-expo-open-native-rome-3ok5)
 - [Recover from a linux boot issue - no free disk space](https://dev.to/robole/recover-from-a-linux-boot-issue-no-free-disk-space-1892)
-- [Why Rust will replace C++ in the future](https://dev.to/roy8/why-rust-will-replace-c-in-the-future-49op)
-- [A Lightweight Open Source ELK alternative | SigNoz](https://dev.to/signoz/a-lightweight-open-source-elk-alternative-signoz-264j)
+- [The 5 Best Crypto Exchange Scripts to keep a look in 2023](https://dev.to/kevintheobald05/the-5-best-crypto-exchange-scripts-to-keep-a-look-in-2023-2do8)
 <!-- BLOG-POST-LIST:END -->
 
