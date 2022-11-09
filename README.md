@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install and Use NVM?](https://dev.to/refine/how-to-install-and-use-nvm-352d)
+- [IndexedDB in TypeScript](https://dev.to/falcosan/indexeddb-in-typescript-1nea)
+- [In One Minute : Firebase](https://dev.to/rakeshkr2/in-one-minute-firebase-b36)
 - [Appwrite Loves Open Source: Why I Chose To Sponsor OBS](https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-sponsor-obs-9cb)
-- [Localised notifications with Firebase cloud messaging &lpar;FCM&rpar;](https://dev.to/davebrown1975/localised-notifications-with-firebase-cloud-messaging-fcm-ecn)
-- [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 2](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-4ae6)
-- [imgbb photo is not loading!!!](https://dev.to/chayti/imgbb-photo-is-not-loading-27ge)
 <!-- BLOG-POST-LIST:END -->
 
