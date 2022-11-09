@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 2](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-4ae6)
+- [imgbb photo is not loading!!!](https://dev.to/chayti/imgbb-photo-is-not-loading-27ge)
 - [Configuring a Static Website with S3 &amp; CloudFront Explained](https://dev.to/makendrang/configuring-a-static-website-with-s3-cloudfront-explained-259d)
 - [How to build custom CRM](https://dev.to/flatlogic/how-to-build-custom-crm-12dp)
-- [Aurora Serverless V2 with AWS CDK](https://dev.to/aws-builders/aurora-serverless-v2-with-aws-cdk-4j1e)
-- [The &quot;detached HEAD&quot; state in Git: What it is and how to fix it](https://dev.to/how-to-dev/the-detached-head-state-in-git-what-it-is-and-how-to-fix-it-45jg)
 <!-- BLOG-POST-LIST:END -->
 
