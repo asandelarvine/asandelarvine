@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrate third-party services within Laravel](https://dev.to/anwar_nairi/integrate-third-party-services-within-laravel-15e5)
+- [Write fewer tests by creating better TypeScript types](https://dev.to/logrocket/write-fewer-tests-by-creating-better-typescript-types-5gff)
 - [Welcome Thread - v199](https://dev.to/thepracticaldev/welcome-thread-v199-2j39)
 - [What is data integration?](https://dev.to/mage_ai/what-is-data-integration-11c2)
-- [dev.to codes! This is really cool 🤓](https://dev.to/ben/devto-codes-this-is-really-cool-2lf0)
-- [Create a TypeScript project](https://dev.to/sjohnsonaz/create-a-typescript-project-mco)
 <!-- BLOG-POST-LIST:END -->
 
