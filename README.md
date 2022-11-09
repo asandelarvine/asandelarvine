@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The &quot;detached HEAD&quot; state in Git: What it is and how to fix it](https://dev.to/how-to-dev/the-detached-head-state-in-git-what-it-is-and-how-to-fix-it-45jg)
+- [Why to use C++ in 2022?](https://dev.to/sandordargo/why-to-use-c-in-2022-56hi)
 - [C++ intro for starter 4](https://dev.to/abrormusulmonov/c-intro-for-starter-4-1oac)
 - [Introducing Open Native: vendor unlock React Native](https://dev.to/ammarahmed/introducing-open-native-vendor-unlock-react-native-12d)
-- [Part 2: Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/part-2-building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-1k6g)
-- [Field Guide to Surviving DDoS Attacks in your application](https://dev.to/awscommunity-asean/devs-guide-to-surviving-ddos-attacks-in-your-api-56ke)
 <!-- BLOG-POST-LIST:END -->
 
