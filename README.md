@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Must have Chrome Extensions for developers](https://dev.to/hardiquedasore/must-have-chrome-extensions-for-developers-4b59)
+- [How to beautify your code and make contributions easy?](https://dev.to/gulyapulya/how-to-beautify-your-code-and-make-contributions-easy-35g9)
 - [SPVM::Math - Python/numpy porting to Perl](https://dev.to/yukikimoto/spvmmath-pythonnumpy-porting-to-perl-26ng)
 - [Ultimate Guide to JavaScript](https://dev.to/strangeratyourdoor/ultimate-guide-to-javascript-2dec)
-- [Menu - &quot;Hamburger&quot; with Color &amp; Height Manipulation](https://dev.to/jpcarvalho/menu-hamburger-with-color-height-manipulation-3oie)
-- [Creating Pages From Markdown With GraphQL](https://dev.to/dorf8839/creating-pages-from-markdown-with-graphql-1o9p)
 <!-- BLOG-POST-LIST:END -->
 
