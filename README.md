@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [dev.to codes! This is really cool 🤓](https://dev.to/ben/devto-codes-this-is-really-cool-2lf0)
+- [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 2](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-2-36c2)
+- [Using GitHub Actions to Build a Java Project With Pull Request Coverage Commenting and Coverage Badges](https://dev.to/cicirello/using-github-actions-to-build-a-java-project-with-pull-request-coverage-commenting-and-coverage-badges-50a2)
 - [Programming Methodologies: Agile vs Waterfall](https://dev.to/coderslang/programming-methodologies-agile-vs-waterfall-299b)
-- [Step 2: Process the data with Python and qGIS](https://dev.to/thiggimajig/step-2-process-the-data-with-python-4llp)
-- [Find delegated methods in Ruby on Rails](https://dev.to/abitrolly/find-delegated-methods-in-ruby-on-rails-96e)
-- [Geo-routing with Apache APISIX](https://dev.to/apisix/geo-routing-with-apache-apisix-2clc)
 <!-- BLOG-POST-LIST:END -->
 
