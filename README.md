@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading List: The Community Builder Edition](https://dev.to/bekahhw/reading-list-the-community-builder-edition-3d2h)
 - [Will JetBrains Fleet Replace VS Code?](https://dev.to/quokkalabs/will-jetbrains-fleet-replace-vs-code-3k0m)
 - [This Week In React #123: TanStack Router, Gatsby, Remix, Next.js, React-Three-Fiber, Astro, Expo, Open Native, Rome...](https://dev.to/sebastienlorber/this-week-in-react-123-tanstack-router-gatsby-remix-nextjs-react-three-fiber-astro-expo-open-native-rome-3ok5)
-- [Recover from a linux boot issue - no free disk space](https://dev.to/robole/recover-from-a-linux-boot-issue-no-free-disk-space-1892)
-- [The 5 Best Crypto Exchange Scripts to keep a look in 2023](https://dev.to/kevintheobald05/the-5-best-crypto-exchange-scripts-to-keep-a-look-in-2023-2do8)
+- [Go Vuln the Golang Vulnerability Database](https://dev.to/juliancantillo/go-vuln-the-golang-vulnerability-database-399m)
 <!-- BLOG-POST-LIST:END -->
 
