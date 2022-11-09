@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide to Providers in Angular](https://dev.to/angular/a-practical-guide-to-providers-in-angular-3c96)
 - [Reading List: The Community Builder Edition](https://dev.to/bekahhw/reading-list-the-community-builder-edition-3d2h)
+- [Directive Composition with Angular 15](https://dev.to/this-is-angular/directive-composition-with-angular-15-58e9)
 - [Will JetBrains Fleet Replace VS Code?](https://dev.to/quokkalabs/will-jetbrains-fleet-replace-vs-code-3k0m)
-- [This Week In React #123: TanStack Router, Gatsby, Remix, Next.js, React-Three-Fiber, Astro, Expo, Open Native, Rome...](https://dev.to/sebastienlorber/this-week-in-react-123-tanstack-router-gatsby-remix-nextjs-react-three-fiber-astro-expo-open-native-rome-3ok5)
-- [Go Vuln the Golang Vulnerability Database](https://dev.to/juliancantillo/go-vuln-the-golang-vulnerability-database-399m)
 <!-- BLOG-POST-LIST:END -->
 
