@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite Loves Open Source: Why I Chose To Sponsor OBS](https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-sponsor-obs-9cb)
+- [Localised notifications with Firebase cloud messaging &lpar;FCM&rpar;](https://dev.to/davebrown1975/localised-notifications-with-firebase-cloud-messaging-fcm-ecn)
 - [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 2](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-4ae6)
 - [imgbb photo is not loading!!!](https://dev.to/chayti/imgbb-photo-is-not-loading-27ge)
-- [Configuring a Static Website with S3 &amp; CloudFront Explained](https://dev.to/makendrang/configuring-a-static-website-with-s3-cloudfront-explained-259d)
-- [How to build custom CRM](https://dev.to/flatlogic/how-to-build-custom-crm-12dp)
 <!-- BLOG-POST-LIST:END -->
 
