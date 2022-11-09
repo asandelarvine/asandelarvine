@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuring a Static Website with S3 &amp; CloudFront Explained](https://dev.to/makendrang/configuring-a-static-website-with-s3-cloudfront-explained-259d)
+- [How to build custom CRM](https://dev.to/flatlogic/how-to-build-custom-crm-12dp)
+- [Aurora Serverless V2 with AWS CDK](https://dev.to/aws-builders/aurora-serverless-v2-with-aws-cdk-4j1e)
 - [The &quot;detached HEAD&quot; state in Git: What it is and how to fix it](https://dev.to/how-to-dev/the-detached-head-state-in-git-what-it-is-and-how-to-fix-it-45jg)
-- [Why to use C++ in 2022?](https://dev.to/sandordargo/why-to-use-c-in-2022-56hi)
-- [C++ intro for starter 4](https://dev.to/abrormusulmonov/c-intro-for-starter-4-1oac)
-- [Introducing Open Native: vendor unlock React Native](https://dev.to/ammarahmed/introducing-open-native-vendor-unlock-react-native-12d)
 <!-- BLOG-POST-LIST:END -->
 
