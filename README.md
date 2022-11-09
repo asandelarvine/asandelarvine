@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v199](https://dev.to/thepracticaldev/welcome-thread-v199-2j39)
 - [What is data integration?](https://dev.to/mage_ai/what-is-data-integration-11c2)
 - [dev.to codes! This is really cool 🤓](https://dev.to/ben/devto-codes-this-is-really-cool-2lf0)
 - [Create a TypeScript project](https://dev.to/sjohnsonaz/create-a-typescript-project-mco)
-- [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 2](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-2-36c2)
 <!-- BLOG-POST-LIST:END -->
 
