@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Providers in Angular](https://dev.to/angular/a-practical-guide-to-providers-in-angular-3c96)
-- [Reading List: The Community Builder Edition](https://dev.to/bekahhw/reading-list-the-community-builder-edition-3d2h)
-- [Directive Composition with Angular 15](https://dev.to/this-is-angular/directive-composition-with-angular-15-58e9)
-- [Will JetBrains Fleet Replace VS Code?](https://dev.to/quokkalabs/will-jetbrains-fleet-replace-vs-code-3k0m)
+- [Programming Methodologies: Agile vs Waterfall](https://dev.to/coderslang/programming-methodologies-agile-vs-waterfall-299b)
+- [Step 2: Process the data with Python and qGIS](https://dev.to/thiggimajig/step-2-process-the-data-with-python-4llp)
+- [Find delegated methods in Ruby on Rails](https://dev.to/abitrolly/find-delegated-methods-in-ruby-on-rails-96e)
+- [Geo-routing with Apache APISIX](https://dev.to/apisix/geo-routing-with-apache-apisix-2clc)
 <!-- BLOG-POST-LIST:END -->
 
