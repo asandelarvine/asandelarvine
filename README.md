@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 2: Building a Cybersecurity Game with Three.js - Inspired by Google’s Interland](https://dev.to/saminarp/part-2-building-a-cybersecurity-game-with-threejs-inspired-by-googles-interland-1k6g)
+- [Field Guide to Surviving DDoS Attacks in your application](https://dev.to/awscommunity-asean/devs-guide-to-surviving-ddos-attacks-in-your-api-56ke)
+- [How to start a project in Rust](https://dev.to/vaultree/how-to-start-a-project-in-rust-3g1j)
 - [Must have Chrome Extensions for developers](https://dev.to/hardiquedasore/must-have-chrome-extensions-for-developers-4b59)
-- [How to beautify your code and make contributions easy?](https://dev.to/gulyapulya/how-to-beautify-your-code-and-make-contributions-easy-35g9)
-- [SPVM::Math - Python/numpy porting to Perl](https://dev.to/yukikimoto/spvmmath-pythonnumpy-porting-to-perl-26ng)
-- [Ultimate Guide to JavaScript](https://dev.to/strangeratyourdoor/ultimate-guide-to-javascript-2dec)
 <!-- BLOG-POST-LIST:END -->
 
