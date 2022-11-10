@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony 6: User Authentication](https://dev.to/nabbisen/symfony-6-user-authentication-4ek)
-- [Stylify CSS have launched on Product Hunt 🎉](https://dev.to/machy8/stylify-css-have-launched-on-product-hunt-307n)
-- [Revue being phased out by Twitter](https://dev.to/nickytonline/revue-being-phased-out-by-twitter-4kle)
-- [Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
+- [Create OG images for your blog with Next.js](https://dev.to/scastiel/create-og-images-for-your-blog-with-nextjs-d5f)
+- [The simplest guide to error handling in Rust](https://dev.to/sylvainkerkour/the-simplest-guide-to-error-handling-in-rust-lbi)
+- [What To Expect From Your First Job As a Junior Developer](https://dev.to/mikhailkaran/what-to-expect-from-your-first-job-as-a-junior-developer-akk)
+- [In One Minute : Vue.js](https://dev.to/rakeshkr2/in-one-minute-vuejs-3eam)
 <!-- BLOG-POST-LIST:END -->
 
