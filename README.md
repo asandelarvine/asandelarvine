@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The 3 Short November CSS tips](https://dev.to/melnik909/the-3-short-november-css-tips-3e99)
+- [What is Optical Character Recognition &lpar;OCR&rpar;](https://dev.to/mabwacharles/what-is-optical-character-recognition-ocr-397j)
 - [Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
-- [List of Free Youtube Courses by Vandad Nahavandipoor.](https://dev.to/areedev/list-of-free-youtube-courses-by-vandad-nahavandipoor-gg8)
-- [Resources to get started with Nx](https://dev.to/this-is-learning/resources-to-get-started-with-nx-72p)
+- [Use GitHub Desktop to open your first Pull Request](https://dev.to/this-is-learning/use-github-desktop-to-open-your-first-pull-request-5b6l)
 <!-- BLOG-POST-LIST:END -->
 
