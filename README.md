@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Symfony 6: User Authentication](https://dev.to/nabbisen/symfony-6-user-authentication-4ek)
+- [Stylify CSS have launched on Product Hunt 🎉](https://dev.to/machy8/stylify-css-have-launched-on-product-hunt-307n)
 - [Revue being phased out by Twitter](https://dev.to/nickytonline/revue-being-phased-out-by-twitter-4kle)
 - [Medusa Webhooks: The Best Technical Project of the Medusa Hackathon](https://dev.to/medusajs/medusa-webhooks-the-best-technical-project-of-the-medusa-hackathon-289a)
-- [5 websites to learn Frontend-web development faster](https://dev.to/qbentil/5-websites-to-learn-frontend-web-development-faster-3cid)
-- [How I build a Documentation site using Docz](https://dev.to/documatic/how-i-build-a-documentation-site-using-docz-57kk)
 <!-- BLOG-POST-LIST:END -->
 
