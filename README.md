@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GIT interview Questions](https://dev.to/manawariqbal/git-interview-questions-44j5)
+- [I lost my job, I am depressed.](https://dev.to/supeergabs_/i-lost-my-job-i-am-depressed-17ja)
 - [DEV Org Accounts: Tips for Reposting Blog Content](https://dev.to/devteam/dev-org-accounts-tips-for-reposting-blog-content-54eb)
 - [Please suggest a tech stack to build a brand new blog site!](https://dev.to/khokon/please-suggest-what-stack-to-use-to-build-a-brand-new-blog-site-j3k)
-- [Use the Truffle Suite for Easy Web3 - and Earn your Proof of Contribution POAP](https://dev.to/mbogan/use-the-truffle-suite-for-easy-web3-and-earn-your-proof-of-contribution-poap-1c05)
-- [Wordle Clone](https://dev.to/brentdalling/wordle-clone-c48)
 <!-- BLOG-POST-LIST:END -->
 
