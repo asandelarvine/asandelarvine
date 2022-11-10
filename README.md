@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [InstaVue](https://dev.to/tookooltech/instavue-771)
+- [InstaAngular](https://dev.to/tookooltech/instaangular-1abj)
+- [Loosely coupled Python code with Dependency Injection](https://dev.to/shanenolan/loosely-coupled-python-code-with-dependency-injection-1lep)
 - [SPVM::Numpy is released - Python/numpy porting to Perl](https://dev.to/yukikimoto/spvmnumpy-is-released-pythonnumpy-porting-to-perl-5850)
-- [Integrate third-party services within Laravel](https://dev.to/anwar_nairi/integrate-third-party-services-within-laravel-15e5)
-- [Write fewer tests by creating better TypeScript types](https://dev.to/logrocket/write-fewer-tests-by-creating-better-typescript-types-5gff)
-- [Welcome Thread - v199](https://dev.to/thepracticaldev/welcome-thread-v199-2j39)
 <!-- BLOG-POST-LIST:END -->
 
