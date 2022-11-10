@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leading Engineers in Uncertain Times](https://dev.to/linearb/leading-engineers-in-uncertain-times-2fmn)
 - [GIT interview Questions](https://dev.to/manawariqbal/git-interview-questions-44j5)
 - [I lost my job, I am depressed.](https://dev.to/supeergabs_/i-lost-my-job-i-am-depressed-17ja)
 - [DEV Org Accounts: Tips for Reposting Blog Content](https://dev.to/devteam/dev-org-accounts-tips-for-reposting-blog-content-54eb)
-- [Please suggest a tech stack to build a brand new blog site!](https://dev.to/khokon/please-suggest-what-stack-to-use-to-build-a-brand-new-blog-site-j3k)
 <!-- BLOG-POST-LIST:END -->
 
