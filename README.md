@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Tailwind CSS tutorial #8: Align Items](https://dev.to/shubhicodes/tailwind-css-tutorial-8-align-items-1p43)
 - [Smart contract for document registry](https://dev.to/shreyvijayvargiya/smart-contract-for-document-registry-1loa)
 - [JUnit: Cómo ejecutar un test N iteraciones](https://dev.to/gekyzo/como-repetir-un-test-n-iteraciones-36pd)
-- [How I got selectors in Redux Devtools](https://dev.to/this-is-learning/how-i-got-selectors-in-redux-devtools-443j)
+- [Create an Expandable Floating Action Button &lpar;FAB&rpar; in Flutter](https://dev.to/kuldeeptarapara/create-an-expandable-floating-action-button-fab-in-flutter-5a9c)
 <!-- BLOG-POST-LIST:END -->
 
