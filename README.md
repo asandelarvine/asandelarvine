@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite&#39;s Hacktoberfest &#39;22 Journey](https://dev.to/appwrite/appwrites-hacktoberfest-22-journey-3ihb)
+- [Top 10 Divjoy Codebase Alternatives – Generators, Templates &amp; Builder Apps](https://dev.to/flatlogic/top-10-divjoy-codebase-alternatives-generators-templates-builder-apps-3hb1)
 - [Create OG images for your blog with Next.js](https://dev.to/scastiel/create-og-images-for-your-blog-with-nextjs-d5f)
 - [The simplest guide to error handling in Rust](https://dev.to/sylvainkerkour/the-simplest-guide-to-error-handling-in-rust-lbi)
-- [What To Expect From Your First Job As a Junior Developer](https://dev.to/mikhailkaran/what-to-expect-from-your-first-job-as-a-junior-developer-akk)
-- [In One Minute : Vue.js](https://dev.to/rakeshkr2/in-one-minute-vuejs-3eam)
 <!-- BLOG-POST-LIST:END -->
 
