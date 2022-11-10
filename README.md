@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS tutorial #8: Align Items](https://dev.to/shubhicodes/tailwind-css-tutorial-8-align-items-1p43)
+- [Smart contract for document registry](https://dev.to/shreyvijayvargiya/smart-contract-for-document-registry-1loa)
 - [JUnit: Cómo ejecutar un test N iteraciones](https://dev.to/gekyzo/como-repetir-un-test-n-iteraciones-36pd)
-- [Next 13 - Nested layouts](https://dev.to/dailydevtips1/next-13-nested-layouts-4nip)
-- [Socket.io | Show Number of visitor](https://dev.to/noprod/socketio-show-number-of-visitor-337)
-- [Webdesign Portfolio - Jekyll Theme](https://dev.to/tookooltech/webdesign-portfolio-jekyll-theme-2fha)
+- [How I got selectors in Redux Devtools](https://dev.to/this-is-learning/how-i-got-selectors-in-redux-devtools-443j)
 <!-- BLOG-POST-LIST:END -->
 
