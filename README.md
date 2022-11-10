@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Woovi Git Best Practices](https://dev.to/woovi/woovi-git-best-practices-1i0e)
+- [Pocketbase, readymade backend within clicks](https://dev.to/fayismahmood/pocketbase-readymade-backend-within-clicks-21hi)
 - [Appwrite&#39;s Hacktoberfest &#39;22 Journey](https://dev.to/appwrite/appwrites-hacktoberfest-22-journey-3ihb)
 - [Top 10 Divjoy Codebase Alternatives – Generators, Templates &amp; Builder Apps](https://dev.to/flatlogic/top-10-divjoy-codebase-alternatives-generators-templates-builder-apps-3hb1)
-- [Create OG images for your blog with Next.js](https://dev.to/scastiel/create-og-images-for-your-blog-with-nextjs-d5f)
-- [The simplest guide to error handling in Rust](https://dev.to/sylvainkerkour/the-simplest-guide-to-error-handling-in-rust-lbi)
 <!-- BLOG-POST-LIST:END -->
 
