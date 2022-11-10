@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DEV Org Accounts: Tips for Reposting Blog Content](https://dev.to/devteam/dev-org-accounts-tips-for-reposting-blog-content-54eb)
 - [Please suggest a tech stack to build a brand new blog site!](https://dev.to/khokon/please-suggest-what-stack-to-use-to-build-a-brand-new-blog-site-j3k)
 - [Use the Truffle Suite for Easy Web3 - and Earn your Proof of Contribution POAP](https://dev.to/mbogan/use-the-truffle-suite-for-easy-web3-and-earn-your-proof-of-contribution-poap-1c05)
 - [Wordle Clone](https://dev.to/brentdalling/wordle-clone-c48)
-- [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 3](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-3-1bnc)
 <!-- BLOG-POST-LIST:END -->
 
