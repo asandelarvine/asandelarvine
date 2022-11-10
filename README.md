@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JUnit: Cómo ejecutar un test N iteraciones](https://dev.to/gekyzo/como-repetir-un-test-n-iteraciones-36pd)
+- [Next 13 - Nested layouts](https://dev.to/dailydevtips1/next-13-nested-layouts-4nip)
 - [Socket.io | Show Number of visitor](https://dev.to/noprod/socketio-show-number-of-visitor-337)
 - [Webdesign Portfolio - Jekyll Theme](https://dev.to/tookooltech/webdesign-portfolio-jekyll-theme-2fha)
-- [What&#39;s new in SeaQuery 0.27.0](https://dev.to/seaql/whats-new-in-seaquery-0270-4lgf)
-- [How to build a video watermarking app using Python](https://dev.to/kushal_70/how-to-build-an-automated-video-watermarking-app-using-python-5bfd)
 <!-- BLOG-POST-LIST:END -->
 
