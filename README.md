@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Socket.io | Show Number of visitor](https://dev.to/noprod/socketio-show-number-of-visitor-337)
 - [Webdesign Portfolio - Jekyll Theme](https://dev.to/tookooltech/webdesign-portfolio-jekyll-theme-2fha)
 - [What&#39;s new in SeaQuery 0.27.0](https://dev.to/seaql/whats-new-in-seaquery-0270-4lgf)
 - [How to build a video watermarking app using Python](https://dev.to/kushal_70/how-to-build-an-automated-video-watermarking-app-using-python-5bfd)
-- [Join us to build the future of E-Commerce through automation](https://dev.to/shotstack/join-us-to-build-the-future-of-e-commerce-through-automation-3d93)
 <!-- BLOG-POST-LIST:END -->
 
