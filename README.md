@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in SeaQuery 0.27.0](https://dev.to/seaql/whats-new-in-seaquery-0270-4lgf)
+- [How to build a video watermarking app using Python](https://dev.to/kushal_70/how-to-build-an-automated-video-watermarking-app-using-python-5bfd)
+- [Join us to build the future of E-Commerce through automation](https://dev.to/shotstack/join-us-to-build-the-future-of-e-commerce-through-automation-3d93)
 - [InstaVue](https://dev.to/tookooltech/instavue-771)
-- [InstaAngular](https://dev.to/tookooltech/instaangular-1abj)
-- [Loosely coupled Python code with Dependency Injection](https://dev.to/shanenolan/loosely-coupled-python-code-with-dependency-injection-1lep)
-- [SPVM::Numpy is released - Python/numpy porting to Perl](https://dev.to/yukikimoto/spvmnumpy-is-released-pythonnumpy-porting-to-perl-5850)
 <!-- BLOG-POST-LIST:END -->
 
