@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Economical EtherCAT Motion Controller &lpar;2&rpar; -- ZBasic Achieves Multi-axis Linear Interpolation Motion](https://dev.to/zmotion/economical-ethercat-motion-controller-2-zbasic-achieves-multi-axis-linear-interpolation-motion-1bc9)
+- [Generate a Flask APP and Go LIVE - Material Kit Design](https://dev.to/sm0ke/generate-a-flask-app-and-go-live-material-kit-design-be3)
+- [Redacting Data in Amazon QLDB](https://dev.to/aws-heroes/redacting-data-in-amazon-qldb-1o06)
 - [Tailwind CSS tutorial #8: Align Items](https://dev.to/shubhicodes/tailwind-css-tutorial-8-align-items-1p43)
-- [Smart contract for document registry](https://dev.to/shreyvijayvargiya/smart-contract-for-document-registry-1loa)
-- [JUnit: Cómo ejecutar un test N iteraciones](https://dev.to/gekyzo/como-repetir-un-test-n-iteraciones-36pd)
-- [Create an Expandable Floating Action Button &lpar;FAB&rpar; in Flutter](https://dev.to/kuldeeptarapara/create-an-expandable-floating-action-button-fab-in-flutter-5a9c)
 <!-- BLOG-POST-LIST:END -->
 
