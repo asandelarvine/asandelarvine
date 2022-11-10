@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Woovi Git Best Practices](https://dev.to/woovi/woovi-git-best-practices-1i0e)
-- [Pocketbase, readymade backend within clicks](https://dev.to/fayismahmood/pocketbase-readymade-backend-within-clicks-21hi)
-- [Appwrite&#39;s Hacktoberfest &#39;22 Journey](https://dev.to/appwrite/appwrites-hacktoberfest-22-journey-3ihb)
-- [Top 10 Divjoy Codebase Alternatives – Generators, Templates &amp; Builder Apps](https://dev.to/flatlogic/top-10-divjoy-codebase-alternatives-generators-templates-builder-apps-3hb1)
+- [The 3 Short November CSS tips](https://dev.to/melnik909/the-3-short-november-css-tips-3e99)
+- [Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
+- [List of Free Youtube Courses by Vandad Nahavandipoor.](https://dev.to/areedev/list-of-free-youtube-courses-by-vandad-nahavandipoor-gg8)
+- [Resources to get started with Nx](https://dev.to/this-is-learning/resources-to-get-started-with-nx-72p)
 <!-- BLOG-POST-LIST:END -->
 
