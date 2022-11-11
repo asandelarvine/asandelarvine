@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use Open Linux Platform of ZMotion XPLC516E &lpar;1&rpar; ? -- detailed steps through Qt development](https://dev.to/zmotion/how-to-use-open-linux-platform-of-zmotion-xplc516e-1-detailed-steps-through-qt-development-3daf)
+- [50+ JavaScript Interview Questions](https://dev.to/sandip_bandgar/50-javascript-interview-questions-3oj0)
 - [AKS Security: 10 Proven Tactics for Securing Your Kubernetes Clusters](https://dev.to/castai/aks-security-10-proven-tactics-for-securing-your-kubernetes-clusters-44fo)
 - [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
-- [AWS Guide for Beginners](https://dev.to/aws-builders/aws-guide-for-beginners-48da)
 <!-- BLOG-POST-LIST:END -->
 
