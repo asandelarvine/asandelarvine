@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make a Responsive Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-responsive-education-website-using-html-css-javascript-j15)
+- [I updated my Portfolio &lpar;based on Feedback&rpar;](https://dev.to/liftoffstudios/i-updated-my-portfolio-based-on-feedback-1e4e)
 - [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 3](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-3-45eg)
 - [Continuous integration and deployment with code services](https://dev.to/aws-builders/continuous-integration-and-deployment-with-code-services-1l2i)
-- [Follow Friday: Productivity Edition &lpar;11 November 2022&rpar;](https://dev.to/devteam/follow-friday-productivity-edition-11-november-2022-192b)
-- [Symfony 6 and EasyAdmin 4: Hashing password](https://dev.to/nabbisen/symfony-6-and-easyadmin-4-hashing-password-3eec)
 <!-- BLOG-POST-LIST:END -->
 
