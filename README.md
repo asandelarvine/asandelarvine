@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pesquisa sobre o uso e conhecimento de testes por profissionais de tecnologia](https://dev.to/rubemfsv/pesquisa-sobre-o-uso-e-conhecimento-de-testes-por-profissionais-de-tecnologia-489)
+- [Symfony 6 and EasyAdmin 4: Admin Panel for User Management System](https://dev.to/nabbisen/symfony-6-and-easyadmin-4-admin-panel-for-user-management-system-53p1)
+- [Black Friday is coming 🔥 Vote your Discount: 50, 60, 70%](https://dev.to/sm0ke/black-friday-is-coming-vote-your-discount-50-60-70-11aa)
 - [In One Minute : SQLite](https://dev.to/rakeshkr2/in-one-minute-sqlite-1071)
-- [What I learned from “failing” to teach my first AWS course](https://dev.to/aws-builders/what-i-learned-from-failing-to-teach-my-first-aws-course-1085)
-- [Build a Reusable Card Component with Chakra UI](https://dev.to/estheragbaje/build-a-reusable-card-component-with-chakra-ui-4456)
-- [Automating AWS IAM Identity Center Setup Part 1](https://dev.to/aws-builders/automating-aws-iam-identity-center-setup-part-1-4m81)
 <!-- BLOG-POST-LIST:END -->
 
