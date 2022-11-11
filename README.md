@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Code Roast](https://dev.to/tinydevops/go-code-roast-11j9)
+- [Introduction to Cuelang](https://dev.to/eminetto/introduction-to-cuelang-2631)
 - [Role of CSS in form validation](https://dev.to/urstrulyvishwak/part-of-css-in-form-validation-535g)
 - [Argon Dashboard BS5 - Free Theme for Django](https://dev.to/sm0ke/argon-dashboard-bs5-free-theme-for-django-lia)
-- [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 4](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-4-2079)
-- [How to: Mastodon Verification for your Website](https://dev.to/cseeman/how-to-mastodon-verification-for-your-website-11b7)
 <!-- BLOG-POST-LIST:END -->
 
