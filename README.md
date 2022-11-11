@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SPVM::Sys 0.26 is released - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/spvmsys-026-is-released-the-project-for-pythonnumpy-porting-to-perl-4gmh)
+- [Code Metrics inside Visual Studio 2022](https://dev.to/kasuken/code-metrics-inside-visual-studio-2022-3g1c)
 - [Go Code Roast](https://dev.to/tinydevops/go-code-roast-11j9)
-- [Introduction to Cuelang](https://dev.to/eminetto/introduction-to-cuelang-2631)
 - [Role of CSS in form validation](https://dev.to/urstrulyvishwak/part-of-css-in-form-validation-535g)
-- [Argon Dashboard BS5 - Free Theme for Django](https://dev.to/sm0ke/argon-dashboard-bs5-free-theme-for-django-lia)
 <!-- BLOG-POST-LIST:END -->
 
