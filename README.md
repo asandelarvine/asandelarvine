@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
 - [Terraform for dbt Users](https://dev.to/tims_tangents/terraform-for-dbt-users-g64)
 - [What if DEV became the new Twitter-like platform for developers?](https://dev.to/andrewbrown/what-if-dev-became-the-new-twitter-like-platform-for-developers-16kc)
-- [Installing SPVM::Numpy - Python/NumPy Porting to Perl](https://dev.to/yukikimoto/installing-spvmnumpy-pythonnumpy-porting-to-perl-4hfi)
-- [Leading Engineers in Uncertain Times](https://dev.to/linearb/leading-engineers-in-uncertain-times-2fmn)
+- [Setting up Termux and a linux distro on Android](https://dev.to/sarahokolo/setting-up-termux-and-a-linux-distro-on-android-1aoj)
 <!-- BLOG-POST-LIST:END -->
 
