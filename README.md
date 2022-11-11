@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Open Linux Platform of ZMotion XPLC516E &lpar;1&rpar; ? -- detailed steps through Qt development](https://dev.to/zmotion/how-to-use-open-linux-platform-of-zmotion-xplc516e-1-detailed-steps-through-qt-development-3daf)
-- [50+ JavaScript Interview Questions](https://dev.to/sandip_bandgar/50-javascript-interview-questions-3oj0)
-- [AKS Security: 10 Proven Tactics for Securing Your Kubernetes Clusters](https://dev.to/castai/aks-security-10-proven-tactics-for-securing-your-kubernetes-clusters-44fo)
-- [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
+- [In One Minute : SQLite](https://dev.to/rakeshkr2/in-one-minute-sqlite-1071)
+- [What I learned from “failing” to teach my first AWS course](https://dev.to/aws-builders/what-i-learned-from-failing-to-teach-my-first-aws-course-1085)
+- [Build a Reusable Card Component with Chakra UI](https://dev.to/estheragbaje/build-a-reusable-card-component-with-chakra-ui-4456)
+- [Automating AWS IAM Identity Center Setup Part 1](https://dev.to/aws-builders/automating-aws-iam-identity-center-setup-part-1-4m81)
 <!-- BLOG-POST-LIST:END -->
 
