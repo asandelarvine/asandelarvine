@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-1g7j)
 - [Share DEV articles to Mastodon](https://dev.to/devteam/share-dev-articles-to-mastodon-5cjn)
 - [My first Hacktoberfest as a Maintainer.](https://dev.to/jarvisscript/my-first-hacktoberfest-as-a-maintainer-51j1)
 - [How to Make a Responsive Education Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-responsive-education-website-using-html-css-javascript-j15)
-- [Learn Rust, Offensive Security and Applied Cryptography](https://dev.to/sylvainkerkour/learn-rust-offensive-security-and-applied-cryptography-1igl)
 <!-- BLOG-POST-LIST:END -->
 
