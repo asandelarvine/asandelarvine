@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pesquisa sobre o uso e conhecimento de testes por profissionais de tecnologia](https://dev.to/rubemfsv/pesquisa-sobre-o-uso-e-conhecimento-de-testes-por-profissionais-de-tecnologia-489)
-- [Symfony 6 and EasyAdmin 4: Admin Panel for User Management System](https://dev.to/nabbisen/symfony-6-and-easyadmin-4-admin-panel-for-user-management-system-53p1)
-- [Black Friday is coming 🔥 Vote your Discount: 50, 60, 70%](https://dev.to/sm0ke/black-friday-is-coming-vote-your-discount-50-60-70-11aa)
-- [In One Minute : SQLite](https://dev.to/rakeshkr2/in-one-minute-sqlite-1071)
+- [Follow Friday: Productivity Edition &lpar;11 November 2022&rpar;](https://dev.to/devteam/follow-friday-productivity-edition-11-november-2022-192b)
+- [Symfony 6 and EasyAdmin 4: Hashing password](https://dev.to/nabbisen/symfony-6-and-easyadmin-4-hashing-password-3eec)
+- [Biggest Impacts on my Career](https://dev.to/wynandpieters/biggest-impacts-on-my-career-9el)
+- [Kafka Exception C{r}onsumer 🔥 🚀](https://dev.to/emreodabas/kafka-exception-cronsumer-3bhm)
 <!-- BLOG-POST-LIST:END -->
 
