@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform for dbt Users](https://dev.to/tims_tangents/terraform-for-dbt-users-g64)
+- [What if DEV became the new Twitter-like platform for developers?](https://dev.to/andrewbrown/what-if-dev-became-the-new-twitter-like-platform-for-developers-16kc)
 - [Installing SPVM::Numpy - Python/NumPy Porting to Perl](https://dev.to/yukikimoto/installing-spvmnumpy-pythonnumpy-porting-to-perl-4hfi)
 - [Leading Engineers in Uncertain Times](https://dev.to/linearb/leading-engineers-in-uncertain-times-2fmn)
-- [Semantic HTML: The Key tags and their functions.](https://dev.to/dangara10/semantic-html-the-key-tags-and-their-functions-dn2)
-- [Developers Should Write Because...](https://dev.to/juliaseid/developers-should-write-because-35h2)
 <!-- BLOG-POST-LIST:END -->
 
