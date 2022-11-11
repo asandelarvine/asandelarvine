@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Role of CSS in form validation](https://dev.to/urstrulyvishwak/part-of-css-in-form-validation-535g)
+- [Argon Dashboard BS5 - Free Theme for Django](https://dev.to/sm0ke/argon-dashboard-bs5-free-theme-for-django-lia)
 - [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 4](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-4-2079)
 - [How to: Mastodon Verification for your Website](https://dev.to/cseeman/how-to-mastodon-verification-for-your-website-11b7)
-- [Automatically Generate and Update OpenAPI Documentation](https://dev.to/appmap/automatically-generate-and-update-openapi-documentation-25p1)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-1g7j)
 <!-- BLOG-POST-LIST:END -->
 
