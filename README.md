@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Open Linux Platform of ZMotion XPLC516E &lpar;1&rpar; ? -- detailed steps through Qt development](https://dev.to/zmotion/how-to-use-open-linux-platform-of-zmotion-xplc516e-1-detailed-steps-through-qt-development-3daf)
+- [AKS Security: 10 Proven Tactics for Securing Your Kubernetes Clusters](https://dev.to/castai/aks-security-10-proven-tactics-for-securing-your-kubernetes-clusters-44fo)
 - [Handlebars for Beginners](https://dev.to/akshdesai1/handlebars-for-beginners-150p)
-- [Terraform for dbt Users](https://dev.to/tims_tangents/terraform-for-dbt-users-g64)
-- [What if DEV became the new Twitter-like platform for developers?](https://dev.to/andrewbrown/what-if-dev-became-the-new-twitter-like-platform-for-developers-16kc)
-- [Setting up Termux and a linux distro on Android](https://dev.to/sarahokolo/setting-up-termux-and-a-linux-distro-on-android-1aoj)
+- [AWS Guide for Beginners](https://dev.to/aws-builders/aws-guide-for-beginners-48da)
 <!-- BLOG-POST-LIST:END -->
 
