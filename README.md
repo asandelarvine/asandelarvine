@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing SPVM::Numpy - Python/NumPy Porting to Perl](https://dev.to/yukikimoto/installing-spvmnumpy-pythonnumpy-porting-to-perl-4hfi)
 - [Leading Engineers in Uncertain Times](https://dev.to/linearb/leading-engineers-in-uncertain-times-2fmn)
-- [GIT interview Questions](https://dev.to/manawariqbal/git-interview-questions-44j5)
-- [I lost my job, I am depressed.](https://dev.to/supeergabs_/i-lost-my-job-i-am-depressed-17ja)
-- [DEV Org Accounts: Tips for Reposting Blog Content](https://dev.to/devteam/dev-org-accounts-tips-for-reposting-blog-content-54eb)
+- [Semantic HTML: The Key tags and their functions.](https://dev.to/dangara10/semantic-html-the-key-tags-and-their-functions-dn2)
+- [Developers Should Write Because...](https://dev.to/juliaseid/developers-should-write-because-35h2)
 <!-- BLOG-POST-LIST:END -->
 
