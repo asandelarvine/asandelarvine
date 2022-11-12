@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Smart contract for voting app](https://dev.to/shreyvijayvargiya/smart-contract-for-voting-app-44dj)
+- [MySQL Security Best Practices: A Checklist](https://dev.to/breachdirectory/mysql-security-best-practices-a-checklist-54g9)
 - [Symfony 6 and JWT bundles: Refresh token](https://dev.to/nabbisen/symfony-6-and-jwt-bundles-refresh-token-2jlj)
 - [Image Path Extension](https://dev.to/gulsenkeskin/image-path-extension-24o2)
-- [Next 13 - Loading file impact](https://dev.to/dailydevtips1/next-13-loading-file-impact-55d2)
 <!-- BLOG-POST-LIST:END -->
 
