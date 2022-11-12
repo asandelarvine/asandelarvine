@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Not to Do After a Data Breach?](https://dev.to/breachdirectory/what-not-to-do-after-a-data-breach-di)
+- [What you Need to Know When Pricing APIs](https://dev.to/moesif/what-you-need-to-know-when-pricing-apis-2am8)
+- [Defense in Depth Principle Explained: the Meaning and Approach](https://dev.to/breachdirectory/defense-in-depth-principle-explained-the-meaning-and-approach-4eoh)
 - [SPVM::Sys 0.26 is released - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/spvmsys-026-is-released-the-project-for-pythonnumpy-porting-to-perl-4gmh)
-- [Code Metrics inside Visual Studio 2022](https://dev.to/kasuken/code-metrics-inside-visual-studio-2022-3g1c)
-- [Go Code Roast](https://dev.to/tinydevops/go-code-roast-11j9)
-- [Role of CSS in form validation](https://dev.to/urstrulyvishwak/part-of-css-in-form-validation-535g)
 <!-- BLOG-POST-LIST:END -->
 
