@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide On Appwrite](https://dev.to/puenehfaith/a-guide-on-appwrite-2lee)
 - [Word Ladder](https://dev.to/salahelhossiny/word-ladder-4o0d)
+- [How to make your GitHub repository look and feel professional ✈🌍](https://dev.to/imajindevon/how-to-make-your-github-repository-look-and-feel-professional-2lbo)
 - [Hide credentials in spring boot](https://dev.to/amitiwary999/hide-credentials-in-spring-boot-1oc0)
-- [Where To Host Your Applications/Websites For Free🤑](https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5)
-- [🔴 From being super shy, to my first LIVE Coding session](https://dev.to/this-is-learning/from-being-super-shy-to-my-first-live-coding-session-56oo)
 <!-- BLOG-POST-LIST:END -->
 
