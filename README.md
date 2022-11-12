@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Symfony 6 and Lexik JWT Bundle 2: Auth with JSON Web Token](https://dev.to/nabbisen/symfony-6-and-lexikjwtauthenticationbundle-2-json-web-token-jwt-auth-41mp)
 - [What Not to Do After a Data Breach?](https://dev.to/breachdirectory/what-not-to-do-after-a-data-breach-di)
 - [What you Need to Know When Pricing APIs](https://dev.to/moesif/what-you-need-to-know-when-pricing-apis-2am8)
 - [Defense in Depth Principle Explained: the Meaning and Approach](https://dev.to/breachdirectory/defense-in-depth-principle-explained-the-meaning-and-approach-4eoh)
-- [SPVM::Sys 0.26 is released - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/spvmsys-026-is-released-the-project-for-pythonnumpy-porting-to-perl-4gmh)
 <!-- BLOG-POST-LIST:END -->
 
