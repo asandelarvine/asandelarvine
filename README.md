@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [zeros | SPVM::Numpy - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/zeros-spvmnumpy-the-project-for-pythonnumpy-porting-to-perl-108)
 - [VueJs Beginners part 4 - Component 2](https://dev.to/hshoja/vuejs-beginners-part-4-component-2-315g)
 - [Tools I Am Using On A Daily Basis](https://dev.to/yuridevat/tools-i-am-using-on-a-daily-basis-4kb7)
 - [dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 5](https://dev.to/thormeier/devto-codes-collaborative-coding-experiment-the-most-liked-comment-picks-the-next-line-of-code-day-5-156i)
-- [JSON Web Tokens Simplified](https://dev.to/integerman/json-web-tokens-simplified-1n02)
 <!-- BLOG-POST-LIST:END -->
 
