@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Batch Part 2 for Beginners- The Domain Language of Spring Batch](https://dev.to/codeitout_/spring-batch-part-2-for-beginners-the-domain-language-of-spring-batch-1enc)
 - [Smart contract for voting app](https://dev.to/shreyvijayvargiya/smart-contract-for-voting-app-44dj)
 - [MySQL Security Best Practices: A Checklist](https://dev.to/breachdirectory/mysql-security-best-practices-a-checklist-54g9)
 - [Symfony 6 and JWT bundles: Refresh token](https://dev.to/nabbisen/symfony-6-and-jwt-bundles-refresh-token-2jlj)
-- [Image Path Extension](https://dev.to/gulsenkeskin/image-path-extension-24o2)
 <!-- BLOG-POST-LIST:END -->
 
