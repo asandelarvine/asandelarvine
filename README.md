@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Mail using nodemailer in node js ?](https://dev.to/akshdesai1/how-to-send-mail-using-nodemailer-in-node-js--ifb)
 - [Find Median from Data Stream](https://dev.to/salahelhossiny/find-median-from-data-stream-3lbk)
 - [Symfony 6 and Lexik JWT Bundle 2: Auth with JSON Web Token](https://dev.to/nabbisen/symfony-6-and-lexikjwtauthenticationbundle-2-json-web-token-jwt-auth-41mp)
 - [What Not to Do After a Data Breach?](https://dev.to/breachdirectory/what-not-to-do-after-a-data-breach-di)
-- [What you Need to Know When Pricing APIs](https://dev.to/moesif/what-you-need-to-know-when-pricing-apis-2am8)
 <!-- BLOG-POST-LIST:END -->
 
