@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Smart contract for voting app](https://dev.to/shreyvijayvargiya/smart-contract-for-voting-app-44dj)
 - [Symfony 6 and JWT bundles: Refresh token](https://dev.to/nabbisen/symfony-6-and-jwt-bundles-refresh-token-2jlj)
 - [Image Path Extension](https://dev.to/gulsenkeskin/image-path-extension-24o2)
 - [Next 13 - Loading file impact](https://dev.to/dailydevtips1/next-13-loading-file-impact-55d2)
-- [How to Send Mail using nodemailer in node js ?](https://dev.to/akshdesai1/how-to-send-mail-using-nodemailer-in-node-js--ifb)
 <!-- BLOG-POST-LIST:END -->
 
