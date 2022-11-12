@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Batch Part 2 for Beginners- The Domain Language of Spring Batch](https://dev.to/codeitout_/spring-batch-part-2-for-beginners-the-domain-language-of-spring-batch-1enc)
-- [Smart contract for voting app](https://dev.to/shreyvijayvargiya/smart-contract-for-voting-app-44dj)
-- [MySQL Security Best Practices: A Checklist](https://dev.to/breachdirectory/mysql-security-best-practices-a-checklist-54g9)
-- [Symfony 6 and JWT bundles: Refresh token](https://dev.to/nabbisen/symfony-6-and-jwt-bundles-refresh-token-2jlj)
+- [8 Best Logging Practices to Keep Sensitive Data Out](https://dev.to/pragativerma18/8-best-logging-practices-to-keep-sensitive-data-out-39p9)
+- [Future of HSEG](https://dev.to/megallix/future-of-hseg-15hf)
+- [Checking if a file or a directory exists in node js](https://dev.to/akshdesai1/checking-if-a-file-or-a-directory-exists-in-node-js-12ci)
+- [Opening Developer Tools on Chrome, Opera, Firefox &amp; Microsoft Edge](https://dev.to/niza/opening-developer-tools-on-chrome-opera-firefox-microsoft-edge-kgg)
 <!-- BLOG-POST-LIST:END -->
 
