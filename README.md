@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EMAIL VALIDATION](https://dev.to/mirajhad/email-validation-4089)
+- [Where To Host Your Applications/Websites For Free🤑](https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5)
 - [Full StackE-commerce &lpar;myntra clone&rpar; series using Flutter, NodeJs, MongoDb and ExpressJs](https://dev.to/devstack06/full-stacke-commerce-myntra-clone-series-using-flutter-nodejs-mongodb-and-expressjs-12f6)
 - [8 Best Logging Practices to Keep Sensitive Data Out](https://dev.to/pragativerma18/8-best-logging-practices-to-keep-sensitive-data-out-39p9)
-- [Future of HSEG](https://dev.to/megallix/future-of-hseg-15hf)
-- [Checking if a file or a directory exists in node js](https://dev.to/akshdesai1/checking-if-a-file-or-a-directory-exists-in-node-js-12ci)
 <!-- BLOG-POST-LIST:END -->
 
