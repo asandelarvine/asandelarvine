@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Personal Portfolio](https://dev.to/rajamanickam/my-personal-portfolio-n74)
-- [Javascript Array Concat Method](https://dev.to/smpnjn/javascript-array-concat-method-4gdd)
-- [The difference between dependencies and devDependencies in package.json](https://dev.to/coderslang/the-difference-between-dependencies-and-devdependencies-in-packagejson-1p49)
-- [Nhost: The Perfect Backend 101: The Essential Guide](https://dev.to/makendrang/nhost-the-perfect-backend-101-the-essential-guide-3m34)
+- [App to grab your Revue newsletters](https://dev.to/nickytonline/app-to-grab-your-revue-newsletters-1gci)
+- [Creating and Generating UUIDs with Javascript](https://dev.to/smpnjn/creating-and-generating-uuids-with-javascript-4p46)
+- [Five simple steps to use any Arduino C++ library in a Rust project 🦀](https://dev.to/kgrech/five-simple-steps-to-use-any-arduino-c-library-in-a-rust-project-1k78)
+- [High Performance Web Framework Tasting-Database Operations](https://dev.to/justlorain/high-performance-web-framework-tasting-database-operations-3m7)
 <!-- BLOG-POST-LIST:END -->
 
