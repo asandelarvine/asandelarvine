@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Next 13 - Server and Client components](https://dev.to/dailydevtips1/next-13-server-and-client-components-5b2f)
 - [Hello World with React](https://dev.to/yukikmt/hello-world-with-react-38dd)
 - [Git Cheat Sheet with 40+ commands &amp; concepts](https://dev.to/ruppysuppy/git-cheat-sheet-with-40-commands-concepts-1m26)
 - [How to Make Stopwatch in React](https://dev.to/reactjsguru/how-to-make-stopwatch-in-react-49l8)
-- [7 common mistakes new contributors make in Open Source Software](https://dev.to/codergirl1991/7-common-mistakes-new-contributors-make-in-open-source-software-2noo)
 <!-- BLOG-POST-LIST:END -->
 
