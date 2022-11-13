@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto Data Bot using Python, Binance WebSockets and PostgreSQL DB](https://dev.to/ken_mwaura1/crypto-data-bot-using-python-binance-websockets-and-postgresql-db-5fnd)
+- [In One Minute : REST &lpar;REpresentational State Transfer&rpar;](https://dev.to/rakeshkr2/in-one-minute-rest-representational-state-transfer-12j5)
+- [Understanding What a GUI and a CLI Is in Your Computer System](https://dev.to/sarahokolo/understanding-what-a-gui-and-a-cli-is-in-your-computer-system-4g9)
 - [What is Turborepo and Why Should You Care?](https://dev.to/refine/what-is-turborepo-and-why-should-you-care-1885)
-- [Tailwind CSS tutorial #11: Place Items](https://dev.to/shubhicodes/tailwind-css-tutorial-11-place-items-118e)
-- [The Radcliffe Concurrency Model](https://dev.to/deanius/the-radcliffe-concurrency-model-3ll8)
-- [Celery course. Part 1 - overview](https://dev.to/skonik/celery-course-part-1-overview-2cfg)
 <!-- BLOG-POST-LIST:END -->
 
