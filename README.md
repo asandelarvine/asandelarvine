@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to develop an effective SEO strategy](https://dev.to/reytortugo/how-to-develop-an-effective-seo-strategy-1gg1)
-- [Introducing ZenStack: a schema-first toolkit for creating CRUD services in Next.js projects](https://dev.to/zenstack/introducing-zenstack-a-schema-first-toolkit-for-creating-crud-services-in-nextjs-projects-272d)
-- [Crypto Data Bot using Python, Binance WebSockets and PostgreSQL DB](https://dev.to/ken_mwaura1/crypto-data-bot-using-python-binance-websockets-and-postgresql-db-5fnd)
-- [In One Minute : REST &lpar;REpresentational State Transfer&rpar;](https://dev.to/rakeshkr2/in-one-minute-rest-representational-state-transfer-12j5)
+- [My Personal Portfolio](https://dev.to/rajamanickam/my-personal-portfolio-n74)
+- [Javascript Array Concat Method](https://dev.to/smpnjn/javascript-array-concat-method-4gdd)
+- [The difference between dependencies and devDependencies in package.json](https://dev.to/coderslang/the-difference-between-dependencies-and-devdependencies-in-packagejson-1p49)
+- [Nhost: The Perfect Backend 101: The Essential Guide](https://dev.to/makendrang/nhost-the-perfect-backend-101-the-essential-guide-3m34)
 <!-- BLOG-POST-LIST:END -->
 
