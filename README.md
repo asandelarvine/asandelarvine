@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol)
+- [What are the different types of inputs in HTML forms?](https://dev.to/salmaab/what-are-the-different-types-of-inputs-in-html-forms-32gk)
 - [Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources](https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l)
 - [App to grab your Revue newsletters](https://dev.to/nickytonline/app-to-grab-your-revue-newsletters-1gci)
-- [Creating and Generating UUIDs with Javascript](https://dev.to/smpnjn/creating-and-generating-uuids-with-javascript-4p46)
 <!-- BLOG-POST-LIST:END -->
 
