@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to develop an effective SEO strategy](https://dev.to/reytortugo/how-to-develop-an-effective-seo-strategy-1gg1)
+- [Introducing ZenStack: a schema-first toolkit for creating CRUD services in Next.js projects](https://dev.to/zenstack/introducing-zenstack-a-schema-first-toolkit-for-creating-crud-services-in-nextjs-projects-272d)
 - [Crypto Data Bot using Python, Binance WebSockets and PostgreSQL DB](https://dev.to/ken_mwaura1/crypto-data-bot-using-python-binance-websockets-and-postgresql-db-5fnd)
 - [In One Minute : REST &lpar;REpresentational State Transfer&rpar;](https://dev.to/rakeshkr2/in-one-minute-rest-representational-state-transfer-12j5)
-- [Understanding What a GUI and a CLI Is in Your Computer System](https://dev.to/sarahokolo/understanding-what-a-gui-and-a-cli-is-in-your-computer-system-4g9)
-- [What is Turborepo and Why Should You Care?](https://dev.to/refine/what-is-turborepo-and-why-should-you-care-1885)
 <!-- BLOG-POST-LIST:END -->
 
