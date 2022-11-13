@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What is Turborepo and Why Should You Care?](https://dev.to/refine/what-is-turborepo-and-why-should-you-care-1885)
+- [Tailwind CSS tutorial #11: Place Items](https://dev.to/shubhicodes/tailwind-css-tutorial-11-place-items-118e)
 - [The Radcliffe Concurrency Model](https://dev.to/deanius/the-radcliffe-concurrency-model-3ll8)
-- [Interpretation of Open Source Go HTTP Framework | Service Registration Extension Implementation](https://dev.to/llance_24/interpretation-of-open-source-go-http-framework-service-registration-extension-implementation-1j1i)
-- [Next 13 - Server and Client components](https://dev.to/dailydevtips1/next-13-server-and-client-components-5b2f)
+- [Celery course. Part 1 - overview](https://dev.to/skonik/celery-course-part-1-overview-2cfg)
 <!-- BLOG-POST-LIST:END -->
 
