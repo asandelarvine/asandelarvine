@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Stopwatch in React](https://dev.to/reactjsguru/how-to-make-stopwatch-in-react-49l8)
+- [7 common mistakes new contributors make in Open Source Software](https://dev.to/codergirl1991/7-common-mistakes-new-contributors-make-in-open-source-software-2noo)
 - [Customize Your Terminal with Oh My Zsh](https://dev.to/brandgrim/customize-your-terminal-with-oh-my-zsh-1hfb)
 - [Reddit Monitoring with Python](https://dev.to/leonwei/reddit-monitoring-with-python-34pb)
-- [5 Front End Interview Coding Exercises Part 1](https://dev.to/lucvankerkvoort/5-front-end-interview-coding-exercises-part-1-1ld3)
-- [zeros | SPVM::Numpy - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/zeros-spvmnumpy-the-project-for-pythonnumpy-porting-to-perl-108)
 <!-- BLOG-POST-LIST:END -->
 
