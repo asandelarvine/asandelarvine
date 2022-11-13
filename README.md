@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the Forem API to display your DEV.to blog posts on your website &lpar;easy!&rpar;](https://dev.to/tiaeastwood/how-to-use-the-forem-api-to-display-your-devto-blog-posts-on-your-website-easy-3dl3)
 - [Tier: Like Terraform, for Stripe](https://dev.to/tier/tier-like-terraform-for-stripe-3769)
 - [Javascript: Check if an Array is a Subset of Another Array](https://dev.to/smpnjn/javascript-check-if-an-array-is-a-subset-of-another-array-950)
 - [Javascript Array Every Method](https://dev.to/smpnjn/javascript-array-every-method-282b)
-- [Difference between exports and module.exports](https://dev.to/dhanushnehru/difference-between-exports-and-moduleexports-nja)
 <!-- BLOG-POST-LIST:END -->
 
