@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol)
-- [What are the different types of inputs in HTML forms?](https://dev.to/salmaab/what-are-the-different-types-of-inputs-in-html-forms-32gk)
-- [Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources](https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l)
-- [App to grab your Revue newsletters](https://dev.to/nickytonline/app-to-grab-your-revue-newsletters-1gci)
+- [Javascript: Check if an Array is a Subset of Another Array](https://dev.to/smpnjn/javascript-check-if-an-array-is-a-subset-of-another-array-950)
+- [Javascript Array Every Method](https://dev.to/smpnjn/javascript-array-every-method-282b)
+- [Difference between exports and module.exports](https://dev.to/dhanushnehru/difference-between-exports-and-moduleexports-nja)
+- [Why To Focus On Accessibility](https://dev.to/yuridevat/why-to-focus-on-accessibility-10hp)
 <!-- BLOG-POST-LIST:END -->
 
