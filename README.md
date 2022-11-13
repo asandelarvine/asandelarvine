@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tier: Like Terraform, for Stripe](https://dev.to/tier/tier-like-terraform-for-stripe-3769)
 - [Javascript: Check if an Array is a Subset of Another Array](https://dev.to/smpnjn/javascript-check-if-an-array-is-a-subset-of-another-array-950)
 - [Javascript Array Every Method](https://dev.to/smpnjn/javascript-array-every-method-282b)
 - [Difference between exports and module.exports](https://dev.to/dhanushnehru/difference-between-exports-and-moduleexports-nja)
-- [Why To Focus On Accessibility](https://dev.to/yuridevat/why-to-focus-on-accessibility-10hp)
 <!-- BLOG-POST-LIST:END -->
 
