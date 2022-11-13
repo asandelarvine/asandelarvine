@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Customize Your Terminal with Oh My Zsh](https://dev.to/brandgrim/customize-your-terminal-with-oh-my-zsh-1hfb)
+- [Reddit Monitoring with Python](https://dev.to/leonwei/reddit-monitoring-with-python-34pb)
+- [5 Front End Interview Coding Exercises Part 1](https://dev.to/lucvankerkvoort/5-front-end-interview-coding-exercises-part-1-1ld3)
 - [zeros | SPVM::Numpy - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/zeros-spvmnumpy-the-project-for-pythonnumpy-porting-to-perl-108)
-- [VueJs Beginners part 4 - Component 2](https://dev.to/hshoja/vuejs-beginners-part-4-component-2-315g)
-- [Tools I Am Using On A Daily Basis](https://dev.to/yuridevat/tools-i-am-using-on-a-daily-basis-4kb7)
 <!-- BLOG-POST-LIST:END -->
 
