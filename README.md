@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol)
+- [Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources](https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l)
 - [App to grab your Revue newsletters](https://dev.to/nickytonline/app-to-grab-your-revue-newsletters-1gci)
 - [Creating and Generating UUIDs with Javascript](https://dev.to/smpnjn/creating-and-generating-uuids-with-javascript-4p46)
-- [Five simple steps to use any Arduino C++ library in a Rust project 🦀](https://dev.to/kgrech/five-simple-steps-to-use-any-arduino-c-library-in-a-rust-project-1k78)
-- [High Performance Web Framework Tasting-Database Operations](https://dev.to/justlorain/high-performance-web-framework-tasting-database-operations-3m7)
 <!-- BLOG-POST-LIST:END -->
 
