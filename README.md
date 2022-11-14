@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Go LIVE with Drag &amp; Drop - React and NodeJS App](https://dev.to/sm0ke/go-live-with-drag-drop-react-and-nodejs-app-1mlc)
 - [Meme Monday 🐝](https://dev.to/ben/meme-monday-2a70)
 - [MicroPython: EuroPython 2022, PyScript, Arduino, and more! 🎁](https://dev.to/andypiper/micropython-europython-2022-arduino-pyscript-and-more-2fod)
-- [Five FREE apis you NEED for your next project!](https://dev.to/codeystein/five-free-apis-you-need-for-your-next-project-fbp)
-- [Luos uses PlatformIO](https://dev.to/luos/luos-uses-platformio-32be)
+- [Awesome Dev Tool Tips 🔥](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
 <!-- BLOG-POST-LIST:END -->
 
