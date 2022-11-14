@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Brand New Engineering Jobs - Week #46 of 2022](https://dev.to/shman/brand-new-engineering-jobs-week-46-of-2022-4c5d)
-- [How to become a 10X developer 😝](https://dev.to/hb1998/how-to-become-a-10x-developer-23og)
-- [Using Action Cable with React and Rails.](https://dev.to/f53/using-action-cable-with-react-and-rails-2o9f)
-- [What is Blockchain](https://dev.to/envoy_/what-is-blockchain-87k)
+- [How To Protect Your Brand?](https://dev.to/oxylabs-io/how-to-protect-your-brand-2md4)
+- [JUnit Cómo parametrizar un test](https://dev.to/gekyzo/junit-como-ejecutar-un-test-con-parametros-4cp3)
+- [8 Top MacBook Apps for College Students](https://dev.to/stephanreynolds/8-top-macbook-apps-for-college-students-591a)
+- [500+ Tailwind UI Components, Templates, and UI Kit &lpar;Free and Premium&rpar;](https://dev.to/tailwindcss/tailwind-components-templates-ui-kit-20lp)
 <!-- BLOG-POST-LIST:END -->
 
