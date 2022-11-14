@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Construindo aplicação do zero com node.js: Parte 4](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-4-3h8m)
 - [Is it possible to test without code?](https://dev.to/testkit/is-it-possible-to-test-without-code-2203)
+- [Apply tailwindcss classes to child elements via the parent](https://dev.to/tailus/apply-tailwindcss-classes-to-child-elements-via-the-parent-2i44)
 - [Murtaza Hashwani - What is a Programming Language?](https://dev.to/murtazahashwani/murtaza-hashwani-what-is-a-programming-language-1p19)
-- [How to Cook a Thanksgiving Turkey According to Amazon Rekognition](https://dev.to/aws-heroes/how-to-cook-a-thanksgiving-turkey-according-to-amazon-rekognition-3d38)
-- [Awesome Productivity Tools for Developers](https://dev.to/surajondev/awesome-productivity-tools-for-developers-40lj)
 <!-- BLOG-POST-LIST:END -->
 
