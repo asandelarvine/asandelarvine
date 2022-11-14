@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to use Apache Pulsar, Apache Flink, and Apache NiFi](https://dev.to/tspannhw/learn-how-to-use-apache-pulsar-apache-flink-and-apache-nifi-16i7)
+- [How to add donations to your website with PayPal&#39;s Donate SDK](https://dev.to/paypaldeveloper/how-to-add-donations-to-your-website-with-paypals-donate-sdk-fl4)
 - [Go LIVE with Drag &amp; Drop - React and NodeJS App](https://dev.to/sm0ke/go-live-with-drag-drop-react-and-nodejs-app-1mlc)
 - [Meme Monday 🐝](https://dev.to/ben/meme-monday-2a70)
-- [MicroPython: EuroPython 2022, PyScript, Arduino, and more! 🎁](https://dev.to/andypiper/micropython-europython-2022-arduino-pyscript-and-more-2fod)
-- [Awesome Dev Tool Tips 🔥](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
 <!-- BLOG-POST-LIST:END -->
 
