@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The switch Statement - SPVM - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/the-switch-statement-spvm-the-project-for-pythonnumpy-porting-to-perl-3fl)
-- [How to use the Forem API to display your DEV.to blog posts on your website &lpar;easy!&rpar;](https://dev.to/tiaeastwood/how-to-use-the-forem-api-to-display-your-devto-blog-posts-on-your-website-easy-3dl3)
-- [Reproducible randomness and its applications](https://dev.to/krofdrakula/reproducible-randomness-and-its-applications-1ong)
-- [Tier: Like Terraform, for Stripe](https://dev.to/tier/tier-like-terraform-for-stripe-3769)
+- [🧪🐍✨Unit Testing Python Code With The unittest Framework](https://dev.to/saminarp/unit-testing-python-code-with-the-unittest-framework-21d8)
+- [How to use the Javascript Date Object to count days until a specific date](https://dev.to/spanglishgaby/how-to-use-the-javascript-date-object-to-count-days-until-a-specific-date-2bdo)
+- [Add Libraries and Packages to Your Coding Portfolio](https://dev.to/bootdotdev/add-libraries-and-packages-to-your-coding-portfolio-50fi)
+- [How to build an MP4 to GIF converter using Python + Shotstack API](https://dev.to/shotstack/how-to-build-a-mp4-to-gif-converting-app-using-python-shotstack-api-2kg7)
 <!-- BLOG-POST-LIST:END -->
 
