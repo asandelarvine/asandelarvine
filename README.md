@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday 🐝](https://dev.to/ben/meme-monday-2a70)
+- [MicroPython: EuroPython 2022, PyScript, Arduino, and more! 🎁](https://dev.to/andypiper/micropython-europython-2022-arduino-pyscript-and-more-2fod)
 - [Five FREE apis you NEED for your next project!](https://dev.to/codeystein/five-free-apis-you-need-for-your-next-project-fbp)
 - [Luos uses PlatformIO](https://dev.to/luos/luos-uses-platformio-32be)
-- [Construindo aplicação do zero com node.js: Parte 4](https://dev.to/erandirjunior/construindo-aplicacao-do-zero-com-nodejs-parte-4-3h8m)
-- [Is it possible to test without code?](https://dev.to/testkit/is-it-possible-to-test-without-code-2203)
 <!-- BLOG-POST-LIST:END -->
 
