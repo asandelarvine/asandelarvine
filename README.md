@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn how to use Apache Pulsar, Apache Flink, and Apache NiFi](https://dev.to/tspannhw/learn-how-to-use-apache-pulsar-apache-flink-and-apache-nifi-16i7)
+- [Tips for being a better Software Engineer](https://dev.to/josethz00/tips-for-being-a-better-software-engineer-3ie8)
 - [How to add donations to your website with PayPal&#39;s Donate SDK](https://dev.to/paypaldeveloper/how-to-add-donations-to-your-website-with-paypals-donate-sdk-fl4)
 - [Go LIVE with Drag &amp; Drop - React and NodeJS App](https://dev.to/sm0ke/go-live-with-drag-drop-react-and-nodejs-app-1mlc)
-- [Meme Monday 🐝](https://dev.to/ben/meme-monday-2a70)
 <!-- BLOG-POST-LIST:END -->
 
