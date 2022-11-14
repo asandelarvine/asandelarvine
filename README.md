@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an Effective Speech Recognition System](https://dev.to/liubovzatolokina2022/how-to-build-an-effective-speech-recognition-system-3be2)
 - [How To Protect Your Brand?](https://dev.to/oxylabs-io/how-to-protect-your-brand-2md4)
 - [JUnit Cómo parametrizar un test](https://dev.to/gekyzo/junit-como-ejecutar-un-test-con-parametros-4cp3)
 - [8 Top MacBook Apps for College Students](https://dev.to/stephanreynolds/8-top-macbook-apps-for-college-students-591a)
-- [500+ Tailwind UI Components, Templates, and UI Kit &lpar;Free and Premium&rpar;](https://dev.to/tailwindcss/tailwind-components-templates-ui-kit-20lp)
 <!-- BLOG-POST-LIST:END -->
 
