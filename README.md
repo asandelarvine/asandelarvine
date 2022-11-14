@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Brand New Engineering Jobs - Week #46 of 2022](https://dev.to/shman/brand-new-engineering-jobs-week-46-of-2022-4c5d)
+- [How to become a 10X developer 😝](https://dev.to/hb1998/how-to-become-a-10x-developer-23og)
 - [Using Action Cable with React and Rails.](https://dev.to/f53/using-action-cable-with-react-and-rails-2o9f)
 - [🧪🐍✨Unit Testing Python Code With The unittest Framework](https://dev.to/saminarp/unit-testing-python-code-with-the-unittest-framework-21d8)
-- [How to use the Javascript Date Object to count days until a specific date](https://dev.to/spanglishgaby/how-to-use-the-javascript-date-object-to-count-days-until-a-specific-date-2bdo)
-- [Add Libraries and Packages to Your Coding Portfolio](https://dev.to/bootdotdev/add-libraries-and-packages-to-your-coding-portfolio-50fi)
 <!-- BLOG-POST-LIST:END -->
 
