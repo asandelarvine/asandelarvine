@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Using Github Actions to automate my tests](https://dev.to/pdr0zd/using-github-actions-to-automate-my-tests-4p4c)
-- [How to Use Developer Checklists to Increase Your Confidence](https://dev.to/twinsun/how-to-use-developer-checklists-to-increase-your-confidence-1mn8)
-- [NextJS 13 Blog Starter](https://dev.to/slanted_dev/nextjs-13-blog-starter-1b6p)
-- [The Top 9 JavaScript Mistakes Developers Make](https://dev.to/nftslab/the-top-9-javascript-mistakes-developers-make-382o)
+- [Code Smell 179 - Known Bugs](https://dev.to/mcsee/code-smell-179-known-bugs-1ieg)
+- [🎨 Rich Black - A dark theme for VS Code](https://dev.to/mariusbegby/rich-black-a-dark-theme-for-vs-code-27pi)
+- [Working with DOM in a front end framework?](https://dev.to/adam_cyclones/working-with-dom-in-a-front-end-framework-f4p)
 <!-- BLOG-POST-LIST:END -->
 
