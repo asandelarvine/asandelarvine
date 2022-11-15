@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to use Apache Pulsar, Apache Flink, and Apache NiFi](https://dev.to/tspannhw/learn-how-to-use-apache-pulsar-apache-flink-and-apache-nifi-16i7)
-- [Tips for being a better Software Engineer](https://dev.to/josethz00/tips-for-being-a-better-software-engineer-3ie8)
-- [How to add donations to your website with PayPal&#39;s Donate SDK](https://dev.to/paypaldeveloper/how-to-add-donations-to-your-website-with-paypals-donate-sdk-fl4)
-- [Go LIVE with Drag &amp; Drop - React and NodeJS App](https://dev.to/sm0ke/go-live-with-drag-drop-react-and-nodejs-app-1mlc)
+- [Using Github Actions to automate my tests](https://dev.to/pdr0zd/using-github-actions-to-automate-my-tests-4p4c)
+- [How to Use Developer Checklists to Increase Your Confidence](https://dev.to/twinsun/how-to-use-developer-checklists-to-increase-your-confidence-1mn8)
+- [NextJS 13 Blog Starter](https://dev.to/slanted_dev/nextjs-13-blog-starter-1b6p)
+- [The Top 9 JavaScript Mistakes Developers Make](https://dev.to/nftslab/the-top-9-javascript-mistakes-developers-make-382o)
 <!-- BLOG-POST-LIST:END -->
 
