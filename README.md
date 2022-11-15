@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the ElevatedButton widget in Flutter?](https://dev.to/kuldeeptarapara/how-to-use-the-elevatedbutton-widget-in-flutter-1jf7)
+- [Full Stack Web3 Project](https://dev.to/shreyvijayvargiya/full-stack-web3-project-5gd5)
+- [Tailwind CSS tutorial #13: Flex Direction](https://dev.to/shubhicodes/tailwind-css-tutorial-13-flex-direction-i8j)
 - [Top 10 services Apache APISIX use-cases](https://dev.to/apisix/top-10-services-apache-apisix-use-cases-16em)
-- [10 tips to reach 5400+ ⭐️ stars on a GitHub with an open source project](https://dev.to/necatiozmen/10-tips-to-reach-5400-stars-on-a-github-with-an-open-source-project-27hp)
-- [C++ da Data structuralar va Algoritmlar](https://dev.to/dawroun/c-da-data-structuralar-va-algoritmlar-1hlm)
-- [Most Simple And Clean Designer Portfolios](https://dev.to/prathameshdev123/most-simple-and-clean-designer-portfolios-15ag)
 <!-- BLOG-POST-LIST:END -->
 
