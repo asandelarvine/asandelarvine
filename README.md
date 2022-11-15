@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Current State of Spring Boot 2.7 Native with Kotlin &lpar;GraalVM&rpar;](https://dev.to/jonastm/current-state-of-spring-boot-27-native-with-kotlin-graalvm-3dda)
+- [On estimating data science projects](https://dev.to/nthomsencph/on-estimating-data-science-projects-6o7)
+- [Let&#39;s build a WebAssembly compiler and runtime - WebAssembly Text Format](https://dev.to/thomscoder/lets-build-a-webassembly-compiler-and-runtime-webassembly-text-format-1pn)
 - [C++ unit testing with Catch2 🧪👨‍🔬](https://dev.to/batunpc/c-unit-testing-with-catch2-20af)
-- [Data analysis made simple: Python Pandas tutorial](https://dev.to/educative/data-analysis-made-simple-python-pandas-tutorial-4hn5)
-- [Technical Writing: All You Need to Know and How to Land a Job](https://dev.to/aradwan20/technical-writing-all-you-need-to-know-and-how-to-land-a-job-33pb)
-- [100+ CSS Generators for Web Developers](https://dev.to/tuckertriggs/100-css-generators-for-web-developers-4bj5)
 <!-- BLOG-POST-LIST:END -->
 
