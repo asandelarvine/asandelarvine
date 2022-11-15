@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero to SaaS - Bookmarksy.io Sign in with Twitter](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-sign-in-with-twitter-4jg4)
+- [Steps to Deploy a React app on a Kubernetes Cluster on AWS](https://dev.to/microtica/steps-to-deploy-a-react-app-on-a-kubernetes-cluster-on-aws-3f4e)
 - [Current State of Spring Boot 2.7 Native with Kotlin &lpar;GraalVM&rpar;](https://dev.to/jonastm/current-state-of-spring-boot-27-native-with-kotlin-graalvm-3dda)
 - [On estimating data science projects](https://dev.to/nthomsencph/on-estimating-data-science-projects-6o7)
-- [Let&#39;s build a WebAssembly compiler and runtime - WebAssembly Text Format](https://dev.to/thomscoder/lets-build-a-webassembly-compiler-and-runtime-webassembly-text-format-1pn)
-- [C++ unit testing with Catch2 🧪👨‍🔬](https://dev.to/batunpc/c-unit-testing-with-catch2-20af)
 <!-- BLOG-POST-LIST:END -->
 
