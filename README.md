@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern PHP features explained - PHP 8.0 and 8.1](https://dev.to/hoangit/modern-php-features-explained-php-80-and-81-9fn)
-- [PayPal Developer - November 15th San Jose CA](https://dev.to/paypaldeveloper/paypal-developer-november-15th-san-jose-ca-36kh)
-- [Using Github Actions to automate my tests](https://dev.to/pdr0zd/using-github-actions-to-automate-my-tests-4p4c)
-- [How to Contribute to Open-Source Projects](https://dev.to/nothanii/how-to-contribute-to-open-source-projects-54p6)
+- [Top 10 services Apache APISIX use-cases](https://dev.to/apisix/top-10-services-apache-apisix-use-cases-16em)
+- [10 tips to reach 5400+ ⭐️ stars on a GitHub with an open source project](https://dev.to/necatiozmen/10-tips-to-reach-5400-stars-on-a-github-with-an-open-source-project-27hp)
+- [C++ da Data structuralar va Algoritmlar](https://dev.to/dawroun/c-da-data-structuralar-va-algoritmlar-1hlm)
+- [Most Simple And Clean Designer Portfolios](https://dev.to/prathameshdev123/most-simple-and-clean-designer-portfolios-15ag)
 <!-- BLOG-POST-LIST:END -->
 
