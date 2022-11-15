@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Algorithm in C++?](https://dev.to/dawroun/what-is-algorithm-in-c-5f8i)
-- [From PHP to JS ecommerce: Migrate from Magento and stay open source 🤩](https://dev.to/medusajs/from-php-to-js-ecommerce-migrate-from-magento-and-stay-open-source-2ba3)
-- [How to write a Catchy Article Title?](https://dev.to/anil1991das/how-to-write-a-catchy-article-title-1ben)
-- [In One Minute : DART](https://dev.to/rakeshkr2/in-one-minute-dart-5bhm)
+- [What&#39;s your favourite code editor theme? 🎨](https://dev.to/rgolawski/whats-your-favourite-code-editor-theme-5b2p)
+- [How to build and launch a new web app for free?](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
+- [C++ dagi 6-dars](https://dev.to/abrorabdulboriyev/c-dagi-6-dars-8h6)
+- [Java Fuzzing with Jazzer compared to Symflower](https://dev.to/symflower/java-fuzzing-with-jazzer-compared-to-symflower-57lb)
 <!-- BLOG-POST-LIST:END -->
 
