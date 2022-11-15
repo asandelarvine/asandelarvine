@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Highest Paying Jobs for Developer](https://dev.to/mavensingh/highest-paying-jobs-for-developer-25d2)
+- [How to use JavaScript Ternary Operator?](https://dev.to/refine/how-to-use-javascript-ternary-operator-58ki)
+- [Underrated Skills of a Senior Software Engineer](https://dev.to/idrisrampurawala/underrated-skills-of-a-senior-software-engineer-p1e)
 - [How to get current date in JavaScript](https://dev.to/coderslang/how-to-get-current-date-in-javascript-57je)
-- [Hey dev, quantos livros você leu este ano?](https://dev.to/loremimpsu/hey-dev-quantos-livros-voce-leu-este-ano-5968)
-- [What&#39;s your favourite code editor theme? 🎨](https://dev.to/rgolawski/whats-your-favourite-code-editor-theme-5b2p)
-- [How to build and launch a new web app for free?](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
 <!-- BLOG-POST-LIST:END -->
 
