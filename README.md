@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Writing: All You Need to Know and How to Land a Job](https://dev.to/aradwan20/technical-writing-all-you-need-to-know-and-how-to-land-a-job-33pb)
 - [Welcome Thread - v200](https://dev.to/thepracticaldev/welcome-thread-v200-h6n)
 - [Single vs. Multi Page Android App](https://dev.to/steve_groner/single-vs-multi-page-android-app-2632)
 - [My New MacBook Air Beats M1 Max](https://dev.to/codenameone/my-new-macbook-air-beats-m1-max-2h4n)
-- [Simple Gitlab CI/CD Deployment via SSH+RSYNC](https://dev.to/mfyz/simple-gitlab-cicd-deployment-via-sshrsync-8b6)
 <!-- BLOG-POST-LIST:END -->
 
