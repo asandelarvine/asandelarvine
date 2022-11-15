@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern PHP features explained - PHP 8.0 and 8.1](https://dev.to/hoangit/modern-php-features-explained-php-80-and-81-9fn)
+- [PayPal Developer - November 15th San Jose CA](https://dev.to/paypaldeveloper/paypal-developer-november-15th-san-jose-ca-36kh)
 - [Using Github Actions to automate my tests](https://dev.to/pdr0zd/using-github-actions-to-automate-my-tests-4p4c)
 - [Code Smell 179 - Known Bugs](https://dev.to/mcsee/code-smell-179-known-bugs-1ieg)
-- [🎨 Rich Black - A dark theme for VS Code](https://dev.to/mariusbegby/rich-black-a-dark-theme-for-vs-code-27pi)
-- [Working with DOM in a front end framework?](https://dev.to/adam_cyclones/working-with-dom-in-a-front-end-framework-f4p)
 <!-- BLOG-POST-LIST:END -->
 
