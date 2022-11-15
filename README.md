@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hey dev, quantos livros você leu este ano?](https://dev.to/loremimpsu/hey-dev-quantos-livros-voce-leu-este-ano-5968)
 - [What&#39;s your favourite code editor theme? 🎨](https://dev.to/rgolawski/whats-your-favourite-code-editor-theme-5b2p)
 - [How to build and launch a new web app for free?](https://dev.to/zenstack/how-to-build-and-launch-a-new-web-app-for-free-5fng)
 - [C++ dagi 6-dars](https://dev.to/abrorabdulboriyev/c-dagi-6-dars-8h6)
-- [Java Fuzzing with Jazzer compared to Symflower](https://dev.to/symflower/java-fuzzing-with-jazzer-compared-to-symflower-57lb)
 <!-- BLOG-POST-LIST:END -->
 
