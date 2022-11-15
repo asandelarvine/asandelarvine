@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Highest Paying Jobs for Developer](https://dev.to/mavensingh/highest-paying-jobs-for-developer-25d2)
-- [How to use JavaScript Ternary Operator?](https://dev.to/refine/how-to-use-javascript-ternary-operator-58ki)
-- [Underrated Skills of a Senior Software Engineer](https://dev.to/idrisrampurawala/underrated-skills-of-a-senior-software-engineer-p1e)
-- [How to get current date in JavaScript](https://dev.to/coderslang/how-to-get-current-date-in-javascript-57je)
+- [My New MacBook Air Beats M1 Max](https://dev.to/codenameone/my-new-macbook-air-beats-m1-max-2h4n)
+- [All about Enum in Typescript](https://dev.to/urstrulyvishwak/all-about-enum-in-typescript-356l)
+- [Approaches in Cloud Development Ergonomics](https://dev.to/eyalb/approaches-in-cloud-development-ergonomics-5967)
+- [How Singula team helped develop an analytical system for a tire manufacturer](https://dev.to/elizabethlvova/how-singula-team-helped-develop-an-analytical-system-for-a-tire-manufacturer-40on)
 <!-- BLOG-POST-LIST:END -->
 
