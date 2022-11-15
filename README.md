@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ unit testing with Catch2 🧪👨‍🔬](https://dev.to/batunpc/c-unit-testing-with-catch2-20af)
+- [Data analysis made simple: Python Pandas tutorial](https://dev.to/educative/data-analysis-made-simple-python-pandas-tutorial-4hn5)
 - [Technical Writing: All You Need to Know and How to Land a Job](https://dev.to/aradwan20/technical-writing-all-you-need-to-know-and-how-to-land-a-job-33pb)
 - [100+ CSS Generators for Web Developers](https://dev.to/tuckertriggs/100-css-generators-for-web-developers-4bj5)
-- [Welcome Thread - v200](https://dev.to/thepracticaldev/welcome-thread-v200-h6n)
-- [Single vs. Multi Page Android App](https://dev.to/steve_groner/single-vs-multi-page-android-app-2632)
 <!-- BLOG-POST-LIST:END -->
 
