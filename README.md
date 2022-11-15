@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Technical Writing: All You Need to Know and How to Land a Job](https://dev.to/aradwan20/technical-writing-all-you-need-to-know-and-how-to-land-a-job-33pb)
+- [100+ CSS Generators for Web Developers](https://dev.to/tuckertriggs/100-css-generators-for-web-developers-4bj5)
 - [Welcome Thread - v200](https://dev.to/thepracticaldev/welcome-thread-v200-h6n)
 - [Single vs. Multi Page Android App](https://dev.to/steve_groner/single-vs-multi-page-android-app-2632)
-- [My New MacBook Air Beats M1 Max](https://dev.to/codenameone/my-new-macbook-air-beats-m1-max-2h4n)
 <!-- BLOG-POST-LIST:END -->
 
