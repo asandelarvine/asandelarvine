@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to SaaS - Bookmarksy.io Sign in with Twitter](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-sign-in-with-twitter-4jg4)
-- [Steps to Deploy a React app on a Kubernetes Cluster on AWS](https://dev.to/microtica/steps-to-deploy-a-react-app-on-a-kubernetes-cluster-on-aws-3f4e)
-- [Current State of Spring Boot 2.7 Native with Kotlin &lpar;GraalVM&rpar;](https://dev.to/jonastm/current-state-of-spring-boot-27-native-with-kotlin-graalvm-3dda)
-- [On estimating data science projects](https://dev.to/nthomsencph/on-estimating-data-science-projects-6o7)
+- [Creating fast type-safe polymorphic components](https://dev.to/kmyrrpen/creating-fast-type-safe-polymorphic-components-3f6p)
+- [SPVM::Cwd 0.04 is released - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/spvmcwd-004-is-released-the-project-for-pythonnumpy-porting-to-perl-56e)
+- [useContext clues!](https://dev.to/isabessa05/usecontext-clues-3iem)
+- [FETCH AND ASYNC JAVASCRIPT](https://dev.to/tbraeck/fetch-and-async-javascript-36po)
 <!-- BLOG-POST-LIST:END -->
 
