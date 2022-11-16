@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL vs NoSQL](https://dev.to/roy8/sql-vs-nosql-2a27)
+- [.NET Conf 2022 in a Nutshell🥜 &lpar;Key Highlights to Know&rpar;](https://dev.to/bytehide/net-conf-2022-in-a-nutshell-key-highlights-to-know-313f)
+- [Ripple’s CBDC Innovate Awards $150,000 to 6 Winners for Novel CBDC Apps](https://dev.to/ripplexdev/ripples-cbdc-innovate-awards-150000-to-6-winners-for-novel-cbdc-apps-mho)
 - [React - Best Practices](https://dev.to/iambilalriaz/react-best-practices-ege)
-- [Battle-Testing Nx Console with E2E Tests](https://dev.to/nx/battle-testing-nx-console-with-e2e-tests-5b9)
-- [Typescript: What is the ouput?](https://dev.to/urstrulyvishwak/typescript-what-is-the-ouput-1hod)
-- [R Tutorial](https://dev.to/foxinfotech/r-tutorial-2gbp)
 <!-- BLOG-POST-LIST:END -->
 
