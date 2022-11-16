@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Brief explanation to AWS Elastic Load Balancing](https://dev.to/aws-builders/brief-explanation-to-aws-elastic-load-balancing-p5a)
+- [Host WordPress on AWS ECS using Fargate](https://dev.to/aws-builders/host-wordpress-on-aws-ecs-using-fargate-138p)
+- [Node Version Manager &lpar;NVM&rpar;: how to install and use &lpar;step-by-step guide&rpar;](https://dev.to/sanzhanov/node-version-manager-nvm-how-to-install-and-use-step-by-step-guide-k4a)
 - [Scripting with VSCode Tasks and Typescript](https://dev.to/kirkcodes/scripting-with-vscode-tasks-and-typescript-38h7)
-- [Releasing Rust Binaries with GitHub Actions - Part 1](https://dev.to/justin1121/releasing-rust-binaries-with-github-actions-part-1-34jh)
-- [Spring Modulith: have we reached modularity maturity?](https://dev.to/nfrankel/spring-modulith-have-we-reached-modularity-maturity-2id0)
-- [Code Formatting in Nim](https://dev.to/taisei_ide/code-formatting-in-nim-4g7f)
 <!-- BLOG-POST-LIST:END -->
 
