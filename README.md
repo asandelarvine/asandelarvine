@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit Usage](https://dev.to/yukikmt/replit-usage-l75)
 - [How to Make Language Translator in JavaScript](https://dev.to/reactjsguru/how-to-make-language-translator-in-javascript-djc)
 - [A new API tool, designed for teamwork](https://dev.to/yukioikeda/a-new-api-tool-designed-for-teamwork-18cp)
 - [Data Indexing, Replication, and Sharding: Basic Concepts](https://dev.to/pragyasapkota/data-indexing-replication-and-sharding-basic-concepts-58kb)
-- [Revisiting Calling Sonic Pi From Ruby](https://dev.to/kevin_j_m/revisiting-calling-sonic-pi-from-ruby-39j2)
 <!-- BLOG-POST-LIST:END -->
 
