@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Quasar 2 with Nuxt3 &lpar;Starter Template&rpar;](https://dev.to/binhbv/quasar-2-with-nuxt3-starter-template-4119)
+- [In One Minute : TensorFlow](https://dev.to/rakeshkr2/in-one-minute-tensorflow-mj2)
+- [DevOps: What it is, What it isn&#39;t.](https://dev.to/nicolaselkhoury/devops-what-it-is-what-it-isnt-930)
 - [DECO — Unofficial DEV Community App](https://dev.to/ytskk/deco-unofficial-dev-community-app-2b73)
-- [Computer Vision Visualization Inspired by Bret Victor](https://dev.to/nikolauswest/inspired-by-bret-victor-1pn8)
-- [Web3 Application Tech Stack 2022](https://dev.to/shreyvijayvargiya/web3-application-tech-stack-2022-25g0)
-- [Wavelet Buffer In A Nutshell](https://dev.to/panda-official/wavelet-buffer-in-a-nutshell-4fg2)
 <!-- BLOG-POST-LIST:END -->
 
