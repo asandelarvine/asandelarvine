@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React - Best Practices](https://dev.to/iambilalriaz/react-best-practices-ege)
 - [Battle-Testing Nx Console with E2E Tests](https://dev.to/nx/battle-testing-nx-console-with-e2e-tests-5b9)
 - [Typescript: What is the ouput?](https://dev.to/urstrulyvishwak/typescript-what-is-the-ouput-1hod)
 - [R Tutorial](https://dev.to/foxinfotech/r-tutorial-2gbp)
-- [AI in APIs](https://dev.to/superface/ai-in-apis-4ol7)
 <!-- BLOG-POST-LIST:END -->
 
