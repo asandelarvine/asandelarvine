@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Azure Container Registry?](https://dev.to/makendrang/what-is-azure-container-registry-1f02)
-- [React Props Explained with Examples](https://dev.to/refine/react-props-explained-with-examples-2eoa)
-- [Post-Process Javadoc-Generated Documentation in GitHub Actions Before Deploying to the Web](https://dev.to/cicirello/post-process-javadoc-generated-documentation-in-github-actions-before-deploying-to-the-web-11k8)
-- [SQL vs NoSQL](https://dev.to/roy8/sql-vs-nosql-2a27)
+- [Spring Modulith: have we reached modularity maturity?](https://dev.to/nfrankel/spring-modulith-have-we-reached-modularity-maturity-2id0)
+- [Code Formatting in Nim](https://dev.to/taisei_ide/code-formatting-in-nim-4g7f)
+- [Django &amp; Docker - SQLite, MySql, and PostgreSQL samples](https://dev.to/sm0ke/django-docker-sqlite-mysql-and-postgresql-samples-2ahn)
+- [React Data Fetching Pattern - Part III](https://dev.to/francisldn/react-data-fetching-pattern-part-iii-584d)
 <!-- BLOG-POST-LIST:END -->
 
