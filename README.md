@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DECO — Unofficial DEV Community App](https://dev.to/ytskk/deco-unofficial-dev-community-app-2b73)
+- [Computer Vision Visualization Inspired by Bret Victor](https://dev.to/nikolauswest/inspired-by-bret-victor-1pn8)
+- [Web3 Application Tech Stack 2022](https://dev.to/shreyvijayvargiya/web3-application-tech-stack-2022-25g0)
 - [Wavelet Buffer In A Nutshell](https://dev.to/panda-official/wavelet-buffer-in-a-nutshell-4fg2)
-- [The Importance of React Native Development in Healthcare](https://dev.to/nicholassmithdm/the-importance-of-react-native-development-in-healthcare-4f93)
-- [Numpy &lpar;numerical python&rpar;](https://dev.to/marykariuki90/numpy-numerical-python-4ap2)
-- [Auth0 Pricing: The Complete Guide [2022]](https://dev.to/supertokens/auth0-pricing-the-complete-guide-2022-3oij)
 <!-- BLOG-POST-LIST:END -->
 
