@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of React Native Development in Healthcare](https://dev.to/nicholassmithdm/the-importance-of-react-native-development-in-healthcare-4f93)
+- [Top 10 Most Popular React Component Libraries and Frameworks in 2023](https://dev.to/devbambhaniya/top-10-most-popular-react-component-libraries-and-frameworks-in-2023-1hej)
 - [Write your Kubernetes Infrastructure as Go code - Combine cdk8s with AWS CDK](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-combine-cdk8s-with-aws-cdk-3705)
 - [Next 13 - Journey so far](https://dev.to/dailydevtips1/next-13-journey-so-far-agc)
-- [Replit Usage](https://dev.to/yukikmt/replit-usage-l75)
-- [Drop those credentials, use Single-Sign-On Login instead](https://dev.to/aws-builders/drop-those-credentials-use-single-sign-on-login-instead-144h)
 <!-- BLOG-POST-LIST:END -->
 
