@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Hook Form: a unique implementation](https://dev.to/romaintrotard/react-hook-form-a-unique-implementation-3oll)
+- [JavaScript: The Beginning &lpar;A Beginner&#39;s perspective&rpar;](https://dev.to/damilolaweb/javascript-the-beginning-a-beginners-perspective-58mp)
 - [Brief explanation to AWS Elastic Load Balancing](https://dev.to/aws-builders/brief-explanation-to-aws-elastic-load-balancing-p5a)
 - [Host WordPress on AWS ECS using Fargate](https://dev.to/aws-builders/host-wordpress-on-aws-ecs-using-fargate-138p)
-- [Node Version Manager &lpar;NVM&rpar;: how to install and use &lpar;step-by-step guide&rpar;](https://dev.to/sanzhanov/node-version-manager-nvm-how-to-install-and-use-step-by-step-guide-k4a)
-- [Scripting with VSCode Tasks and Typescript](https://dev.to/kirkcodes/scripting-with-vscode-tasks-and-typescript-38h7)
 <!-- BLOG-POST-LIST:END -->
 
