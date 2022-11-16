@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating fast type-safe polymorphic components](https://dev.to/kmyrrpen/creating-fast-type-safe-polymorphic-components-3f6p)
-- [SPVM::Cwd 0.04 is released - The Project for Python/NumPy Porting to Perl](https://dev.to/yukikimoto/spvmcwd-004-is-released-the-project-for-pythonnumpy-porting-to-perl-56e)
-- [useContext clues!](https://dev.to/isabessa05/usecontext-clues-3iem)
-- [FETCH AND ASYNC JAVASCRIPT](https://dev.to/tbraeck/fetch-and-async-javascript-36po)
+- [How to Make Language Translator in JavaScript](https://dev.to/reactjsguru/how-to-make-language-translator-in-javascript-djc)
+- [A new API tool, designed for teamwork](https://dev.to/yukioikeda/a-new-api-tool-designed-for-teamwork-18cp)
+- [Data Indexing, Replication, and Sharding: Basic Concepts](https://dev.to/pragyasapkota/data-indexing-replication-and-sharding-basic-concepts-58kb)
+- [Revisiting Calling Sonic Pi From Ruby](https://dev.to/kevin_j_m/revisiting-calling-sonic-pi-from-ruby-39j2)
 <!-- BLOG-POST-LIST:END -->
 
