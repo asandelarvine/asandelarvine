@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Write your Kubernetes Infrastructure as Go code - Combine cdk8s with AWS CDK](https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-combine-cdk8s-with-aws-cdk-3705)
+- [Next 13 - Journey so far](https://dev.to/dailydevtips1/next-13-journey-so-far-agc)
 - [Replit Usage](https://dev.to/yukikmt/replit-usage-l75)
-- [How to Make Language Translator in JavaScript](https://dev.to/reactjsguru/how-to-make-language-translator-in-javascript-djc)
-- [A new API tool, designed for teamwork](https://dev.to/yukioikeda/a-new-api-tool-designed-for-teamwork-18cp)
-- [Data Indexing, Replication, and Sharding: Basic Concepts](https://dev.to/pragyasapkota/data-indexing-replication-and-sharding-basic-concepts-58kb)
+- [Drop those credentials, use Single-Sign-On Login instead](https://dev.to/aws-builders/drop-those-credentials-use-single-sign-on-login-instead-144h)
 <!-- BLOG-POST-LIST:END -->
 
