@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scripting with VSCode Tasks and Typescript](https://dev.to/kirkcodes/scripting-with-vscode-tasks-and-typescript-38h7)
+- [Releasing Rust Binaries with GitHub Actions - Part 1](https://dev.to/justin1121/releasing-rust-binaries-with-github-actions-part-1-34jh)
 - [Spring Modulith: have we reached modularity maturity?](https://dev.to/nfrankel/spring-modulith-have-we-reached-modularity-maturity-2id0)
 - [Code Formatting in Nim](https://dev.to/taisei_ide/code-formatting-in-nim-4g7f)
-- [Django &amp; Docker - SQLite, MySql, and PostgreSQL samples](https://dev.to/sm0ke/django-docker-sqlite-mysql-and-postgresql-samples-2ahn)
-- [React Data Fetching Pattern - Part III](https://dev.to/francisldn/react-data-fetching-pattern-part-iii-584d)
 <!-- BLOG-POST-LIST:END -->
 
