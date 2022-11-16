@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Azure Container Registry?](https://dev.to/makendrang/what-is-azure-container-registry-1f02)
+- [React Props Explained with Examples](https://dev.to/refine/react-props-explained-with-examples-2eoa)
+- [Post-Process Javadoc-Generated Documentation in GitHub Actions Before Deploying to the Web](https://dev.to/cicirello/post-process-javadoc-generated-documentation-in-github-actions-before-deploying-to-the-web-11k8)
 - [SQL vs NoSQL](https://dev.to/roy8/sql-vs-nosql-2a27)
-- [.NET Conf 2022 in a Nutshell🥜 &lpar;Key Highlights to Know&rpar;](https://dev.to/bytehide/net-conf-2022-in-a-nutshell-key-highlights-to-know-313f)
-- [Ripple’s CBDC Innovate Awards $150,000 to 6 Winners for Novel CBDC Apps](https://dev.to/ripplexdev/ripples-cbdc-innovate-awards-150000-to-6-winners-for-novel-cbdc-apps-mho)
-- [React - Best Practices](https://dev.to/iambilalriaz/react-best-practices-ege)
 <!-- BLOG-POST-LIST:END -->
 
