@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quasar 2 with Nuxt3 &lpar;Starter Template&rpar;](https://dev.to/binhbv/quasar-2-with-nuxt3-starter-template-4119)
-- [In One Minute : TensorFlow](https://dev.to/rakeshkr2/in-one-minute-tensorflow-mj2)
-- [DevOps: What it is, What it isn&#39;t.](https://dev.to/nicolaselkhoury/devops-what-it-is-what-it-isnt-930)
-- [DECO — Unofficial DEV Community App](https://dev.to/ytskk/deco-unofficial-dev-community-app-2b73)
+- [Typescript: What is the ouput?](https://dev.to/urstrulyvishwak/typescript-what-is-the-ouput-1hod)
+- [R Tutorial](https://dev.to/foxinfotech/r-tutorial-2gbp)
+- [AI in APIs](https://dev.to/superface/ai-in-apis-4ol7)
+- [Economical EtherCAT Motion Controller &lpar;3&rpar; -- Multi-axis Linear Interpolation &amp; Electronic Cam Achievement Through PLC](https://dev.to/zmotion/economical-ethercat-motion-controller-3-multi-axis-linear-interpolation-electronic-cam-achievement-through-plc-45je)
 <!-- BLOG-POST-LIST:END -->
 
