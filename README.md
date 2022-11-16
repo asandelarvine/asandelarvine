@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#gitPanic - HEAD](https://dev.to/abbeyperini/gitpanic-head-37m8)
 - [React Hook Form: a unique implementation](https://dev.to/romaintrotard/react-hook-form-a-unique-implementation-3oll)
 - [JavaScript: The Beginning &lpar;A Beginner&#39;s perspective&rpar;](https://dev.to/damilolaweb/javascript-the-beginning-a-beginners-perspective-58mp)
 - [Brief explanation to AWS Elastic Load Balancing](https://dev.to/aws-builders/brief-explanation-to-aws-elastic-load-balancing-p5a)
-- [Host WordPress on AWS ECS using Fargate](https://dev.to/aws-builders/host-wordpress-on-aws-ecs-using-fargate-138p)
 <!-- BLOG-POST-LIST:END -->
 
