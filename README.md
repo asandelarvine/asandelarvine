@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [See How Others&#39; Changes Compare To Your Own In IntelliJ](https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-intellij-48ig)
+- [What Are the Largest Countries without an AWS Region?](https://dev.to/aws-heroes/what-are-the-largest-countries-without-an-aws-region-mc7)
 - [Getting started with Harness CI](https://dev.to/freaking_wish/getting-started-with-harness-ci-g68)
 - [🔦 Community Spotlight - Tvusage, a Digital Wellbeing App 🔦](https://dev.to/appwrite/community-spotlight-tvusage-a-digital-wellbeing-app-35ch)
-- [React Portfolio Website with Theme Customization Functionality - React JS Portfolio Website &lpar;2022&rpar;](https://dev.to/codeswithrocky/react-portfolio-website-with-theme-customization-functionality-react-js-portfolio-website-2022-4n8c)
 <!-- BLOG-POST-LIST:END -->
 
