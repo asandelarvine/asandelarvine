@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10+ Ambassador Programs You Should Know](https://dev.to/patilganesh1010/10-ambassador-programs-you-should-know-22i7)
+- [Continous deployment for front-end projects with surge.sh](https://dev.to/mrpaulishaili/continous-deployment-for-front-end-projects-with-surgesh-4580)
+- [Modern, Rounded Scrollbar Implementation Using CSS](https://dev.to/verisimilitude11/modern-rounded-scrollbar-implementation-using-css-mbk)
 - [How to prepare for an interview](https://dev.to/daniloab/how-to-prepare-for-an-interview-11d)
-- [#gitPanic - Interactive Rebase](https://dev.to/abbeyperini/gitpanic-interactive-rebase-48fe)
-- [JUnit Cómo repetir un test con parámetros](https://dev.to/gekyzo/junit-como-repetir-un-test-con-parametros-1l15)
-- [#gitPanic - HEAD](https://dev.to/abbeyperini/gitpanic-head-37m8)
 <!-- BLOG-POST-LIST:END -->
 
