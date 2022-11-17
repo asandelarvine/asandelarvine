@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Console login to multiple accounts at the same time](https://dev.to/aws-builders/aws-console-login-to-multiple-accounts-at-the-same-time-21kk)
+- [How to set up Google Tag Manager on Shopify &lpar;+data layers&rpar;](https://dev.to/ekuplu/how-to-set-up-google-tag-manager-on-shopify-data-layers-16j5)
 - [Meet a new technology to display your big data volumes instantly without any waiting time!](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
 - [In One Minute : CodeIgniter](https://dev.to/rakeshkr2/in-one-minute-codeigniter-pf4)
-- [Product Owner et Product Manager, si différents ?](https://dev.to/younup/product-owner-et-product-manager-si-differents--10fe)
-- [What is Bcrypt. How to use it to hash passwords](https://dev.to/documatic/what-is-bcrypt-how-to-use-it-to-hash-passwords-5c0g)
 <!-- BLOG-POST-LIST:END -->
 
