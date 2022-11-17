@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick i18n setup in React native with autocomplete](https://dev.to/antoine_m/quick-i18n-setup-in-react-native-with-autocomplete-13mm)
 - [See How Others&#39; Changes Compare To Your Own In IntelliJ](https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-intellij-48ig)
 - [What Are the Largest Countries without an AWS Region?](https://dev.to/aws-heroes/what-are-the-largest-countries-without-an-aws-region-mc7)
 - [Getting started with Harness CI](https://dev.to/freaking_wish/getting-started-with-harness-ci-g68)
-- [🔦 Community Spotlight - Tvusage, a Digital Wellbeing App 🔦](https://dev.to/appwrite/community-spotlight-tvusage-a-digital-wellbeing-app-35ch)
 <!-- BLOG-POST-LIST:END -->
 
