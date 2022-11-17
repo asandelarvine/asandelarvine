@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EF Core 7 is here - Welcome typed entity id 🍾](https://dev.to/maxx_don/ef-core-7-is-here-welcome-typed-entity-id-1k3p)
+- [5 things you need to know about Stripe&#39;s Test Mode](https://dev.to/tier/5-things-you-need-to-know-about-stripes-test-mode-2gcb)
 - [Quick i18n setup in React native with autocomplete](https://dev.to/antoine_m/quick-i18n-setup-in-react-native-with-autocomplete-13mm)
-- [See How Others&#39; Changes Compare To Your Own In IntelliJ](https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-intellij-48ig)
-- [What Are the Largest Countries without an AWS Region?](https://dev.to/aws-heroes/what-are-the-largest-countries-without-an-aws-region-mc7)
-- [Getting started with Harness CI](https://dev.to/freaking_wish/getting-started-with-harness-ci-g68)
+- [What I learned working for a &quot;big&quot; company - part 1](https://dev.to/wrongbyte/what-i-learned-working-for-a-big-company-part-1-3b3h)
 <!-- BLOG-POST-LIST:END -->
 
