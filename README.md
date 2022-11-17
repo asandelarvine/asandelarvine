@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Development JWT Practices](https://dev.to/baize1998/web-development-jwt-practices-59cn)
+- [Is local a bad part in Perl?](https://dev.to/yukikimoto/is-local-a-bad-part-in-perl-ffg)
 - [Improve Product Discoverability with New Walmart Item Spec v4.X](https://dev.to/themagentohumor/improve-product-discoverability-with-new-walmart-item-spec-v4x-1lfo)
 - [PHP Monolith to Microservices Using the Strangler Pattern](https://dev.to/mkurzeja/php-monolith-to-microservices-using-the-strangler-pattern-14g4)
-- [Web3 Dubai MetaMask Workshop](https://dev.to/httpjunkie/web3-dubai-metamask-workshop-4afh)
-- [How does SPVM work on IoT Device such as Raspberry Pi?](https://dev.to/yukikimoto/how-does-spvm-work-on-iot-device-such-as-raspberry-pi-32ai)
 <!-- BLOG-POST-LIST:END -->
 
