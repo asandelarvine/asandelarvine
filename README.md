@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Startups Suck at Security](https://dev.to/linearb/why-startups-suck-at-security-4fop)
+- [4 Powerful Articles Every Web Developer Must Read](https://dev.to/elliot_brenyasarfo_18749/4-powerful-articles-every-web-developer-must-read-4gkd)
 - [How to sign your commits](https://dev.to/jmau111/how-to-sign-your-commits-h9a)
 - [#gitPanic - Stash](https://dev.to/abbeyperini/gitpanic-stash-4gll)
-- [Flask &amp; Stripe eCommerce - Deploy LIVE on Render](https://dev.to/sm0ke/flask-stripe-ecommerce-deploy-live-on-render-260f)
-- [EF Core 7 is here - Welcome typed entity id 🍾](https://dev.to/maxx_don/ef-core-7-is-here-welcome-typed-entity-id-1k3p)
 <!-- BLOG-POST-LIST:END -->
 
