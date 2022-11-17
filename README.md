@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet a new technology to display your big data volumes instantly without any waiting time!](https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k)
 - [In One Minute : CodeIgniter](https://dev.to/rakeshkr2/in-one-minute-codeigniter-pf4)
+- [Product Owner et Product Manager, si différents ?](https://dev.to/younup/product-owner-et-product-manager-si-differents--10fe)
 - [What is Bcrypt. How to use it to hash passwords](https://dev.to/documatic/what-is-bcrypt-how-to-use-it-to-hash-passwords-5c0g)
-- [Build a Chatbot Using Python, Django](https://dev.to/documatic/build-a-chatbot-using-python-django-46hb)
-- [Web Development JWT Practices](https://dev.to/baize1998/web-development-jwt-practices-59cn)
 <!-- BLOG-POST-LIST:END -->
 
