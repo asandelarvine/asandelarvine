@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP Monolith to Microservices Using the Strangler Pattern](https://dev.to/mkurzeja/php-monolith-to-microservices-using-the-strangler-pattern-14g4)
+- [Web3 Dubai MetaMask Workshop](https://dev.to/httpjunkie/web3-dubai-metamask-workshop-4afh)
 - [How does SPVM work on IoT Device such as Raspberry Pi?](https://dev.to/yukikimoto/how-does-spvm-work-on-iot-device-such-as-raspberry-pi-32ai)
-- [Help please!!](https://dev.to/mvpamansingh/help-please-22ao)
-- [What&#39;s Angular?](https://dev.to/yukikmt/whats-angular-5be0)
-- [Why I like React?](https://dev.to/yukikmt/why-i-like-react-22me)
+- [Serverless Summit Day One](https://dev.to/aws-builders/serverless-summit-day-one-5a3d)
 <!-- BLOG-POST-LIST:END -->
 
