@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to sign your commits](https://dev.to/jmau111/how-to-sign-your-commits-h9a)
 - [#gitPanic - Stash](https://dev.to/abbeyperini/gitpanic-stash-4gll)
 - [Flask &amp; Stripe eCommerce - Deploy LIVE on Render](https://dev.to/sm0ke/flask-stripe-ecommerce-deploy-live-on-render-260f)
 - [EF Core 7 is here - Welcome typed entity id 🍾](https://dev.to/maxx_don/ef-core-7-is-here-welcome-typed-entity-id-1k3p)
-- [5 things you need to know about Stripe&#39;s Test Mode](https://dev.to/tier/5-things-you-need-to-know-about-stripes-test-mode-2gcb)
 <!-- BLOG-POST-LIST:END -->
 
