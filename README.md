@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Portfolio Website with Theme Customization Functionality - React JS Portfolio Website &lpar;2022&rpar;](https://dev.to/codeswithrocky/react-portfolio-website-with-theme-customization-functionality-react-js-portfolio-website-2022-4n8c)
+- [A Beginner&#39;s Guide to Content Management Systems](https://dev.to/hr21don/a-beginners-guide-to-content-management-systems-34h6)
+- [💻ANSIBLE Auto Configure your server for Nginx|Reactjs and Laravel|php env on ONE click👆](https://dev.to/syedasadrazadevops/ansible-auto-configure-your-server-for-nginxreactjs-and-laravelphp-env-on-one-click-3m2o)
 - [SQL Resources That Teach With Fun 🙂](https://dev.to/gulsenkeskin/sql-resources-that-teach-with-fun-i7e)
-- [Eğlenceli SQL Kaynakları 🙂](https://dev.to/gulsenkeskin/eglenceli-sql-kaynaklari-40eb)
-- [AWS Console login to multiple accounts at the same time](https://dev.to/aws-builders/aws-console-login-to-multiple-accounts-at-the-same-time-21kk)
-- [How to set up Google Tag Manager on Shopify &lpar;+data layers&rpar;](https://dev.to/ekuplu/how-to-set-up-google-tag-manager-on-shopify-data-layers-16j5)
 <!-- BLOG-POST-LIST:END -->
 
