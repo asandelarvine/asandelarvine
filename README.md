@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Angular?](https://dev.to/yukikmt/whats-angular-5be0)
+- [Why I like React?](https://dev.to/yukikmt/why-i-like-react-22me)
 - [10+ Ambassador Programs You Should Know](https://dev.to/patilganesh1010/10-ambassador-programs-you-should-know-22i7)
-- [Continous deployment for front-end projects with surge.sh](https://dev.to/mrpaulishaili/continous-deployment-for-front-end-projects-with-surgesh-4580)
 - [Modern, Rounded Scrollbar Implementation Using CSS](https://dev.to/verisimilitude11/modern-rounded-scrollbar-implementation-using-css-mbk)
-- [How to prepare for an interview](https://dev.to/daniloab/how-to-prepare-for-an-interview-11d)
 <!-- BLOG-POST-LIST:END -->
 
