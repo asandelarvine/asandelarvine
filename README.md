@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [See How Others&#39; Changes Compare To Your Own In IntelliJ](https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-intellij-48ig)
+- [Getting started with Harness CI](https://dev.to/freaking_wish/getting-started-with-harness-ci-g68)
+- [🔦 Community Spotlight - Tvusage, a Digital Wellbeing App 🔦](https://dev.to/appwrite/community-spotlight-tvusage-a-digital-wellbeing-app-35ch)
 - [React Portfolio Website with Theme Customization Functionality - React JS Portfolio Website &lpar;2022&rpar;](https://dev.to/codeswithrocky/react-portfolio-website-with-theme-customization-functionality-react-js-portfolio-website-2022-4n8c)
-- [A Beginner&#39;s Guide to Content Management Systems](https://dev.to/hr21don/a-beginners-guide-to-content-management-systems-34h6)
-- [💻ANSIBLE Auto Configure your server for Nginx|Reactjs and Laravel|php env on ONE click👆](https://dev.to/syedasadrazadevops/ansible-auto-configure-your-server-for-nginxreactjs-and-laravelphp-env-on-one-click-3m2o)
-- [SQL Resources That Teach With Fun 🙂](https://dev.to/gulsenkeskin/sql-resources-that-teach-with-fun-i7e)
 <!-- BLOG-POST-LIST:END -->
 
