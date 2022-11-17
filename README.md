@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Bcrypt. How to use it to hash passwords](https://dev.to/documatic/what-is-bcrypt-how-to-use-it-to-hash-passwords-5c0g)
+- [Build a Chatbot Using Python, Django](https://dev.to/documatic/build-a-chatbot-using-python-django-46hb)
 - [Web Development JWT Practices](https://dev.to/baize1998/web-development-jwt-practices-59cn)
-- [Is local a bad part in Perl?](https://dev.to/yukikimoto/is-local-a-bad-part-in-perl-ffg)
-- [Improve Product Discoverability with New Walmart Item Spec v4.X](https://dev.to/themagentohumor/improve-product-discoverability-with-new-walmart-item-spec-v4x-1lfo)
-- [PHP Monolith to Microservices Using the Strangler Pattern](https://dev.to/mkurzeja/php-monolith-to-microservices-using-the-strangler-pattern-14g4)
+- [Building recursive logic with Step Functions](https://dev.to/aws-builders/building-recursive-logic-with-step-functions-3hm5)
 <!-- BLOG-POST-LIST:END -->
 
