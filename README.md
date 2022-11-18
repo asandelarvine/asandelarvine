@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Progress: How I&#39;ve learned to move towards my goals](https://dev.to/chad_r_stewart/making-progress-how-ive-learned-to-move-towards-my-goals-2jnl)
 - [Why Startups Suck at Security](https://dev.to/linearb/why-startups-suck-at-security-4fop)
-- [4 Powerful Articles Every Web Developer Must Read](https://dev.to/elliot_brenyasarfo_18749/4-powerful-articles-every-web-developer-must-read-4gkd)
-- [How to sign your commits](https://dev.to/jmau111/how-to-sign-your-commits-h9a)
-- [#gitPanic - Stash](https://dev.to/abbeyperini/gitpanic-stash-4gll)
+- [How to Create Bubble Maps in JavaScript](https://dev.to/andreykh1985/how-to-create-bubble-maps-in-javascript-4lc5)
+- [6 Powerful Articles Every Web Developer Must Read](https://dev.to/elliot_brenyasarfo_18749/4-powerful-articles-every-web-developer-must-read-4gkd)
 <!-- BLOG-POST-LIST:END -->
 
