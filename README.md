@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📦 Everything you need to know: package managers](https://dev.to/nodesecure/everything-you-need-to-know-package-managers-286c)
 - [Create a Simple Maven Plugin](https://dev.to/struggzard/create-a-simple-maven-plugin-6gf)
 - [Flutter Failed To Compile Application With Flutter 1.22.3](https://dev.to/kuldeeptarapara/flutter-failed-to-compile-application-with-flutter-1223-2a17)
 - [What is Rest Api - A beginner&#39;s guide](https://dev.to/codestring/what-is-rest-api-a-beginners-guide-5ed7)
-- [7-ES6++: Object Destruction](https://dev.to/hassanzohdy/7-es6-object-destruction-27eh)
 <!-- BLOG-POST-LIST:END -->
 
