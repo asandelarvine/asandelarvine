@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In One Minute : Maven](https://dev.to/rakeshkr2/in-one-minute-maven-45o)
-- [Tailwind CSS tutorial #15: Font Family](https://dev.to/shubhicodes/tailwind-css-tutorial-15-font-family-fee)
-- [Using Rossum.ai to superpower OCR with machine learning](https://dev.to/finnauto/using-rossumai-to-superpower-ocr-with-machine-learning-b70)
-- [📦 Everything you need to know: package managers](https://dev.to/nodesecure/everything-you-need-to-know-package-managers-286c)
+- [Appwrite OSS Fund Sponsors Isar](https://dev.to/appwrite/appwrite-oss-fund-sponsors-isar-333n)
+- [Murtaza Hashwani | 3 Fast Ways to Learn Magento Developer.](https://dev.to/murtazahashwani/murtaza-hashwani-3-fast-ways-to-learn-magento-developer-4od4)
+- [Matt Coulter &lpar;Liberty Mutual&rpar; reminisces about CDK best practices, Serverless and The Value Flywheel Effect](https://dev.to/serverlessedge/matt-coulter-liberty-mutual-reminisces-about-cdk-best-practices-serverless-and-the-value-flywheel-effect-39im)
+- [Kubernetes Cordon: How It Works And When To Use It](https://dev.to/castai/kubernetes-cordon-how-it-works-and-when-to-use-it-pp5)
 <!-- BLOG-POST-LIST:END -->
 
