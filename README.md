@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing AppMap in Mastodon with VS Code](https://dev.to/appmap/installing-appmap-in-mastodon-with-vs-code-167d)
+- [How to integrate push notifications for Amazon Appstore](https://dev.to/amazonappdev/how-to-integrate-push-notifications-for-amazon-appstore-39j5)
 - [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic_manager/top-10-most-dead-easy-ways-to-make-a-web-app-4h60)
 - [30-Day React Learning Journey part-2 &lpar; JSX &rpar;](https://dev.to/ymhaah/30-day-react-learning-journey-part-2-jsx--8hj)
-- [Speech Racer: My first hackathon project](https://dev.to/bekahhw/speech-racer-my-first-hackathon-project-2ona)
-- [Wheatcha - MVP release! A catalogue of the best tech videos on YouTube.](https://dev.to/nordicbeaver/wheatcha-mvp-release-a-catalogue-of-the-best-tech-videos-on-youtube-3aok)
 <!-- BLOG-POST-LIST:END -->
 
