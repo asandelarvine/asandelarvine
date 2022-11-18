@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7-ES6++: Object Destruction](https://dev.to/hassanzohdy/7-es6-object-destruction-27eh)
 - [Table stakes for Detection Engineering](https://dev.to/teachmetechy/table-stakes-for-detection-engineering-2ekh)
 - [Making Progress: How I&#39;ve learned to move towards my goals](https://dev.to/chad_r_stewart/making-progress-how-ive-learned-to-move-towards-my-goals-2jnl)
 - [Frontend, Backend, and the Blurring Line In-Between](https://dev.to/zenstack/frontend-backend-and-the-blurring-line-in-between-2h59)
-- [Why Startups Suck at Security](https://dev.to/linearb/why-startups-suck-at-security-4fop)
 <!-- BLOG-POST-LIST:END -->
 
