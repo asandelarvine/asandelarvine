@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular: Creating Angular Client Library](https://dev.to/urstrulyvishwak/angular-creating-angular-client-library-4a84)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-26cj)
 - [Most Popular Technologies of 2022](https://dev.to/mavensingh/most-popular-technologies-of-2022-22kd)
 - [My experience of Modern Frontends Conference](https://dev.to/thisisjofrank/my-experience-of-modern-frontends-conference-1cgg)
-- [Developer&#39;s Guide to &quot;KISS&quot; code](https://dev.to/buzzpy/developers-guide-to-kiss-code-2235)
-- [7 websites to learn secure code development faster](https://dev.to/sam5epi0l/7-websites-to-learn-secure-code-development-faster-50o0)
 <!-- BLOG-POST-LIST:END -->
 
