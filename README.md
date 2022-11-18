@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Installing AppMap in Mastodon with VS Code](https://dev.to/appmap/installing-appmap-in-mastodon-with-vs-code-167d)
+- [Rendering Markdown with Enhance](https://dev.to/begin/rendering-markdown-with-enhance-310i)
+- [Possible ways to send data through Routing in angular](https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n)
 - [How to integrate push notifications for Amazon Appstore](https://dev.to/amazonappdev/how-to-integrate-push-notifications-for-amazon-appstore-39j5)
-- [Top 10+ most dead-easy ways to make a web app](https://dev.to/flatlogic_manager/top-10-most-dead-easy-ways-to-make-a-web-app-4h60)
-- [30-Day React Learning Journey part-2 &lpar; JSX &rpar;](https://dev.to/ymhaah/30-day-react-learning-journey-part-2-jsx--8hj)
 <!-- BLOG-POST-LIST:END -->
 
