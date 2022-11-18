@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O problema do React para quem é iniciante](https://dev.to/juniokoi/o-problema-do-react-para-quem-e-iniciante-p2b)
 - [Installing AppMap in Mastodon with VS Code](https://dev.to/appmap/installing-appmap-in-mastodon-with-vs-code-167d)
 - [Rendering Markdown with Enhance](https://dev.to/begin/rendering-markdown-with-enhance-310i)
 - [Possible ways to send data through Routing in angular](https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n)
-- [How to integrate push notifications for Amazon Appstore](https://dev.to/amazonappdev/how-to-integrate-push-notifications-for-amazon-appstore-39j5)
 <!-- BLOG-POST-LIST:END -->
 
