@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular: Creating Angular Client Library](https://dev.to/urstrulyvishwak/angular-creating-angular-client-library-4a84)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-26cj)
-- [Most Popular Technologies of 2022](https://dev.to/mavensingh/most-popular-technologies-of-2022-22kd)
-- [My experience of Modern Frontends Conference](https://dev.to/thisisjofrank/my-experience-of-modern-frontends-conference-1cgg)
+- [Speech Racer: My first hackathon project](https://dev.to/bekahhw/speech-racer-my-first-hackathon-project-2ona)
+- [Wheatcha - MVP release! A catalogue of the best tech videos on YouTube.](https://dev.to/nordicbeaver/wheatcha-mvp-release-a-catalogue-of-the-best-tech-videos-on-youtube-3aok)
+- [Serverless tools cut both ways](https://dev.to/aws-builders/serverless-tools-cut-both-ways-7o2)
+- [5 ways to improve the performance of Node.js API](https://dev.to/qbentil/5-ways-to-improve-the-performance-of-nodejs-api-230d)
 <!-- BLOG-POST-LIST:END -->
 
