@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A first look at Storybook](https://dev.to/dailydevtips1/a-first-look-at-storybook-3c5e)
-- [Follow Friday: NodeJS Edition &lpar;18 November 2022&rpar;](https://dev.to/devteam/follow-friday-nodejs-edition-18-november-2022-4e3p)
-- [Appwrite OSS Fund Sponsors Isar](https://dev.to/appwrite/appwrite-oss-fund-sponsors-isar-333n)
-- [Murtaza Hashwani | 3 Fast Ways to Learn Magento Developer.](https://dev.to/murtazahashwani/murtaza-hashwani-3-fast-ways-to-learn-magento-developer-4od4)
+- [Most Popular Technologies of 2022](https://dev.to/mavensingh/most-popular-technologies-of-2022-22kd)
+- [My experience of Modern Frontends Conference](https://dev.to/thisisjofrank/my-experience-of-modern-frontends-conference-1cgg)
+- [Developer&#39;s Guide to &quot;KISS&quot; code](https://dev.to/buzzpy/developers-guide-to-kiss-code-2235)
+- [7 websites to learn secure code development faster](https://dev.to/sam5epi0l/7-websites-to-learn-secure-code-development-faster-50o0)
 <!-- BLOG-POST-LIST:END -->
 
