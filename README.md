@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow Friday: NodeJS Edition &lpar;18 November 2022&rpar;](https://dev.to/devteam/follow-friday-nodejs-edition-18-november-2022-4e3p)
 - [Appwrite OSS Fund Sponsors Isar](https://dev.to/appwrite/appwrite-oss-fund-sponsors-isar-333n)
 - [Murtaza Hashwani | 3 Fast Ways to Learn Magento Developer.](https://dev.to/murtazahashwani/murtaza-hashwani-3-fast-ways-to-learn-magento-developer-4od4)
 - [Matt Coulter &lpar;Liberty Mutual&rpar; reminisces about CDK best practices, Serverless and The Value Flywheel Effect](https://dev.to/serverlessedge/matt-coulter-liberty-mutual-reminisces-about-cdk-best-practices-serverless-and-the-value-flywheel-effect-39im)
-- [Kubernetes Cordon: How It Works And When To Use It](https://dev.to/castai/kubernetes-cordon-how-it-works-and-when-to-use-it-pp5)
 <!-- BLOG-POST-LIST:END -->
 
