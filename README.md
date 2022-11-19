@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Dynamic Forms in React CRUD app with Ant Design](https://dev.to/refine/how-to-create-dynamic-forms-in-react-crud-app-with-ant-design-3imk)
+- [E-COMMERCE GROWTH AND HEADLESS COMMERCE OVERVIEW](https://dev.to/codewithmmak/e-commerce-growth-and-headless-commerce-overview-2jlf)
 - [PostgreSQL do different equality predicates make a difference?](https://dev.to/yugabyte/postgresql-do-different-equality-predicates-make-a-difference-1c7)
 - [Using immutable infrastructure to achieve cloud security](https://dev.to/aws-builders/using-immutable-infrastructure-to-achieve-cloud-security-5m6)
-- [Add Umami Analytics to a Web Application](https://dev.to/documatic/add-umami-analytics-to-a-web-application-4h36)
-- [How I Fixed a Linux Disk Performance Issue In Minutes! - A Step by Step Guide to Optimizing Linux System](https://dev.to/howtouselinux/how-i-fixed-a-linux-disk-performance-issue-in-minutes-a-step-by-step-guide-to-optimizing-your-system-26o9)
 <!-- BLOG-POST-LIST:END -->
 
