@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In One Minute : Amazon Cognito](https://dev.to/rakeshkr2/in-one-minute-amazon-cognito-gd)
 - [Getting Started with Storybook](https://dev.to/shreyvijayvargiya/getting-started-with-storybook-4d70)
 - [Tailwind CSS tutorial #16: Font Size](https://dev.to/shubhicodes/tailwind-css-tutorial-16-font-size-gg4)
 - [New translation experience](https://dev.to/gulyapulya/new-translation-experience-3gpk)
-- [Universal Analytics vs. Google Analytics 4 Explained for Shopify Merchants](https://dev.to/gloriamaldonado/universal-analytics-vs-google-analytics-4-explained-for-shopify-merchants-32fh)
 <!-- BLOG-POST-LIST:END -->
 
