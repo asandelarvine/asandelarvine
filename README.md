@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ideaas: A simple platform where lazy people can share their ideas with you and you can build them.](https://dev.to/namanvyas/ideaas-a-simple-platform-where-lazy-people-can-share-their-ideas-with-you-and-you-can-build-them-21lf)
+- [Portswigger’s lab write up: Clickjacking with a frame buster script](https://dev.to/christianpaez/portswiggers-lab-write-up-clickjacking-with-a-frame-buster-script-3eap)
+- [Render Pipelines in wgpu and Rust](https://dev.to/whoisryosuke/render-pipelines-in-wgpu-and-rust-2dh3)
 - [#gitPanic - Documentation and Profiles](https://dev.to/abbeyperini/gitpanic-documentation-and-profiles-1end)
-- [Introduction to Kotlin Flows and Channels](https://dev.to/vtsen/introduction-to-kotlin-flows-and-channels-12o9)
-- [How to Loop Through a Podcast Episode List using Async IO with Python](https://dev.to/deepgram/how-to-loop-through-a-podcast-episode-list-using-async-io-with-python-h9h)
-- [O problema do React para quem é iniciante](https://dev.to/juniokoi/o-problema-do-react-para-quem-e-iniciante-p2b)
 <!-- BLOG-POST-LIST:END -->
 
