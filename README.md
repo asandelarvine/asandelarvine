@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code review best practices](https://dev.to/mnosov622/code-review-3l14)
+- [NumPy Arrays](https://dev.to/tanveershahriar/numpy-arrays-3pmo)
 - [How did I build my first browser extension ?](https://dev.to/lotfijb/how-did-i-build-my-first-browser-extension--4jk8)
 - [Exploring the companies who have shifted from traditional ways of computing to cloud computing](https://dev.to/sahilkashyap/exploring-the-companies-who-have-shifted-from-traditional-ways-of-computing-to-cloud-computing-1aph)
-- [Code Smell 180 - BitWise Optimizations](https://dev.to/mcsee/code-smell-180-bitwise-optimizations-2072)
-- [8 Best Tips for Finding Freelance Developer Jobs](https://dev.to/yunuserturk/8-best-tips-for-finding-freelance-developer-jobs-6gb)
 <!-- BLOG-POST-LIST:END -->
 
