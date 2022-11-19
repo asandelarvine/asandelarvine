@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Awesome Selectors](https://dev.to/vibhanshujain/playwright-awesome-selectors-198m)
 - [How to convert HTML To React Component](https://dev.to/farhadi/how-to-convert-html-to-react-component-1dpn)
 - [How to Test a WebSocket based Application Using the API Tester Mobile App](https://dev.to/myogeshchavan97/how-to-test-a-websocket-based-application-using-the-api-tester-mobile-app-ile)
 - [Ideaas: A simple platform where lazy people can share their ideas with you and you can build them.](https://dev.to/namanvyas/ideaas-a-simple-platform-where-lazy-people-can-share-their-ideas-with-you-and-you-can-build-them-21lf)
-- [Portswigger’s lab write up: Clickjacking with a frame buster script](https://dev.to/christianpaez/portswiggers-lab-write-up-clickjacking-with-a-frame-buster-script-3eap)
 <!-- BLOG-POST-LIST:END -->
 
