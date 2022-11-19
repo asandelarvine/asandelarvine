@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Good project ideas in web development for beginners](https://dev.to/ridhisingla001/good-project-ideas-in-web-development-for-beginners-1h79)
 - [How to Create Dynamic Forms in React CRUD app with Ant Design](https://dev.to/refine/how-to-create-dynamic-forms-in-react-crud-app-with-ant-design-3imk)
 - [E-COMMERCE GROWTH AND HEADLESS COMMERCE OVERVIEW](https://dev.to/codewithmmak/e-commerce-growth-and-headless-commerce-overview-2jlf)
-- [PostgreSQL do different equality predicates make a difference?](https://dev.to/yugabyte/postgresql-do-different-equality-predicates-make-a-difference-1c7)
+- [A basic understanding of tiktok&#39;s recommendation system](https://dev.to/joojodontoh/a-basic-understanding-of-tiktoks-recommendation-system-35lg)
 <!-- BLOG-POST-LIST:END -->
 
