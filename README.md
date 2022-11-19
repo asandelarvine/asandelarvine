@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How did I build my first browser extension ?](https://dev.to/lotfijb/how-did-i-build-my-first-browser-extension--4jk8)
 - [Exploring the companies who have shifted from traditional ways of computing to cloud computing](https://dev.to/sahilkashyap/exploring-the-companies-who-have-shifted-from-traditional-ways-of-computing-to-cloud-computing-1aph)
+- [Code Smell 180 - BitWise Optimizations](https://dev.to/mcsee/code-smell-180-bitwise-optimizations-2072)
 - [8 Best Tips for Finding Freelance Developer Jobs](https://dev.to/yunuserturk/8-best-tips-for-finding-freelance-developer-jobs-6gb)
-- [Good project ideas in web development for beginners](https://dev.to/ridhisingla001/good-project-ideas-in-web-development-for-beginners-1h79)
-- [How to Create Dynamic Forms in React CRUD app with Ant Design](https://dev.to/refine/how-to-create-dynamic-forms-in-react-crud-app-with-ant-design-3imk)
 <!-- BLOG-POST-LIST:END -->
 
