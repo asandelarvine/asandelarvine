@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [DPS909 Blog: Internal Code Reviews](https://dev.to/alexsam29/dps909-blog-internal-code-reviews-4h1)
+- [Node.js visualized: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
 - [Code review best practices](https://dev.to/mnosov622/code-review-3l14)
 - [NumPy Arrays](https://dev.to/tanveershahriar/numpy-arrays-3pmo)
-- [How did I build my first browser extension ?](https://dev.to/lotfijb/how-did-i-build-my-first-browser-extension--4jk8)
 <!-- BLOG-POST-LIST:END -->
 
