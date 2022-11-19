@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#gitPanic - Documentation and Profiles](https://dev.to/abbeyperini/gitpanic-documentation-and-profiles-1end)
+- [Introduction to Kotlin Flows and Channels](https://dev.to/vtsen/introduction-to-kotlin-flows-and-channels-12o9)
+- [How to Loop Through a Podcast Episode List using Async IO with Python](https://dev.to/deepgram/how-to-loop-through-a-podcast-episode-list-using-async-io-with-python-h9h)
 - [O problema do React para quem é iniciante](https://dev.to/juniokoi/o-problema-do-react-para-quem-e-iniciante-p2b)
-- [Installing AppMap in Mastodon with VS Code](https://dev.to/appmap/installing-appmap-in-mastodon-with-vs-code-167d)
-- [Rendering Markdown with Enhance](https://dev.to/begin/rendering-markdown-with-enhance-310i)
-- [Possible ways to send data through Routing in angular](https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n)
 <!-- BLOG-POST-LIST:END -->
 
