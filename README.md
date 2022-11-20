@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You don’t need 100% coverage.](https://dev.to/noriller/you-dont-need-100-coverage-412p)
+- [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
 - [List, dictionary and set comprehension](https://dev.to/bashebr/list-dictionary-and-set-comprehension-255b)
 - [Mastodon tips](https://dev.to/jarvisscript/mastodon-tips-6p8)
-- [Django Argon Theme - Now supports all Django.contrib.AUTH links](https://dev.to/sm0ke/django-argon-theme-now-supports-all-djangocontribauth-links-1p69)
-- [Master DevOps career and interview](https://dev.to/firdavs_kasymov/master-devops-career-and-interview-3lko)
 <!-- BLOG-POST-LIST:END -->
 
