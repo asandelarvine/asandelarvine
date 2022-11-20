@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Compiling C/C++ on both Windows and Linux, with address sanitizer!](https://dev.to/midnqp/compiling-cc-on-both-windows-and-linux-with-address-sanitizer-3ikn)
+- [Getting to know CSS specificity](https://dev.to/teejay128/getting-to-know-css-specificity-4lb)
 - [Multiple developers work simultaneously using their own branch on git](https://dev.to/yongchanghe/multiple-developers-work-simultaneously-using-their-own-branch-on-git-4c8c)
 - [Non-coding roles or something you like?](https://dev.to/sandordargo/non-coding-roles-or-something-you-like-pcl)
-- [DPS909 Blog: Internal Code Reviews](https://dev.to/alexsam29/dps909-blog-internal-code-reviews-4h1)
-- [Node.js visualized: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
 <!-- BLOG-POST-LIST:END -->
 
