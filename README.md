@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a &quot;confidential&quot; GitLab🦊🔒](https://dev.to/flxflx/setting-up-a-confidential-gitlab-333h)
-- [Adapter pattern in TypeScript](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
-- [WHY IS COMPATIBILITY TESTING MUCH NEEDED FOR CUSTOMER-FOCUSED TESTING?](https://dev.to/codewithmmak/why-is-compatibility-testing-much-needed-for-customer-focused-testing-2nfp)
-- [Guess the logo](https://dev.to/rakeshkr2/guess-the-logo-3jfm)
+- [The Fascinating Science of 9 Tips to Become a Software Developer](https://dev.to/makendrang/the-fascinating-science-of-9-tips-to-become-a-software-developer-2de9)
+- [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://dev.to/makendrang/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio-nn2)
+- [Life Check... One Year after Campus](https://dev.to/mwendwabundi/life-check-one-year-after-campus-14pj)
+- [I&#39;m your father - marcin.dev](https://dev.to/marcindev_/im-your-father-marcindev-dd5)
 <!-- BLOG-POST-LIST:END -->
 
