@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple developers work simultaneously using their own branch on git](https://dev.to/yongchanghe/multiple-developers-work-simultaneously-using-their-own-branch-on-git-4c8c)
 - [DPS909 Blog: Internal Code Reviews](https://dev.to/alexsam29/dps909-blog-internal-code-reviews-4h1)
 - [Node.js visualized: Event Loop Phases](https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp)
 - [Code review best practices](https://dev.to/mnosov622/code-review-3l14)
-- [NumPy Arrays](https://dev.to/tanveershahriar/numpy-arrays-3pmo)
 <!-- BLOG-POST-LIST:END -->
 
