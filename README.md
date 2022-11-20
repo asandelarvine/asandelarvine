@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Implementing a feature with Vanilla JavaScript](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
 - [The Queue Data Strucure and How to Implement a Queue in Ruby](https://dev.to/jaredm/the-queue-data-strucure-and-how-to-implement-a-queue-in-ruby-433)
-- [How to implement an elegant service discovery extension in the HTTP framework](https://dev.to/llance_24/how-to-implement-an-elegant-service-discovery-extension-in-the-http-framework-9hm)
-- [The Fascinating Science of 9 Tips to Become a Software Developer](https://dev.to/makendrang/the-fascinating-science-of-9-tips-to-become-a-software-developer-2de9)
+- [Find The Smallest Positive Integer Not Occurring In An Array - 3 Approaches](https://dev.to/yuridevat/find-the-smallest-positive-integer-not-occurring-in-an-array-3-approaches-53ka)
+- [How to position a footer with Tailwindcss](https://dev.to/b1st4nd3r/how-to-position-a-footer-with-tailwindcss-25fn)
 <!-- BLOG-POST-LIST:END -->
 
