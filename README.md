@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Queue Data Strucure and How to Implement a Queue in Ruby](https://dev.to/jaredm/the-queue-data-strucure-and-how-to-implement-a-queue-in-ruby-433)
 - [How to implement an elegant service discovery extension in the HTTP framework](https://dev.to/llance_24/how-to-implement-an-elegant-service-discovery-extension-in-the-http-framework-9hm)
 - [The Fascinating Science of 9 Tips to Become a Software Developer](https://dev.to/makendrang/the-fascinating-science-of-9-tips-to-become-a-software-developer-2de9)
 - [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://dev.to/makendrang/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio-nn2)
-- [Life Check... One Year after Campus](https://dev.to/mwendwabundi/life-check-one-year-after-campus-14pj)
 <!-- BLOG-POST-LIST:END -->
 
