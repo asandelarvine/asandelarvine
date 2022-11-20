@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a &quot;confidential&quot; GitLab🦊🔒](https://dev.to/flxflx/setting-up-a-confidential-gitlab-333h)
 - [Adapter pattern in TypeScript](https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl)
 - [WHY IS COMPATIBILITY TESTING MUCH NEEDED FOR CUSTOMER-FOCUSED TESTING?](https://dev.to/codewithmmak/why-is-compatibility-testing-much-needed-for-customer-focused-testing-2nfp)
 - [Guess the logo](https://dev.to/rakeshkr2/guess-the-logo-3jfm)
-- [✨Today I Learned: The Subtle Art of Code Reviews 💡✨](https://dev.to/saminarp/today-i-learned-the-subtle-art-of-code-reviews-3pef)
 <!-- BLOG-POST-LIST:END -->
 
