@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guess the logo](https://dev.to/rakeshkr2/guess-the-logo-3jfm)
+- [✨Today I Learned: The Subtle Art of Code Reviews 💡✨](https://dev.to/saminarp/today-i-learned-the-subtle-art-of-code-reviews-3pef)
 - [Whatsapp BOT with nodeJs](https://dev.to/pawandeore/whatsapp-bot-with-nodejs-43d4)
 - [DOM Element Observer](https://dev.to/ganeshpatil0101/dom-element-observer-97a)
-- [Compiling C/C++ on both Windows and Linux, with address sanitizer!](https://dev.to/midnqp/compiling-cc-on-both-windows-and-linux-with-address-sanitizer-3ikn)
-- [Collection of Linux Resources](https://dev.to/caodawei3/collection-of-linux-resources-1k73)
 <!-- BLOG-POST-LIST:END -->
 
