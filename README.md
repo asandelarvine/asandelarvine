@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon tips](https://dev.to/jarvisscript/mastodon-tips-6p8)
 - [Django Argon Theme - Now supports all Django.contrib.AUTH links](https://dev.to/sm0ke/django-argon-theme-now-supports-all-djangocontribauth-links-1p69)
 - [Master DevOps career and interview](https://dev.to/firdavs_kasymov/master-devops-career-and-interview-3lko)
 - [Beginner JavaScript Tutorial: How to build your own Mad Libs game](https://dev.to/codergirl1991/beginner-javascript-tutorial-how-to-build-your-own-mad-libs-game-4hf8)
-- [Implementing a feature with Vanilla JavaScript](https://dev.to/mnosov622/implementing-a-feature-with-vanilla-javascript-ook)
 <!-- BLOG-POST-LIST:END -->
 
