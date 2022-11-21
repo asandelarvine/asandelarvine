@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Your First Conference Proposal](https://dev.to/bekahhw/writing-your-first-conference-proposal-4jei)
-- [Create Node app using Docker without installing Node Locally](https://dev.to/devlogbook/create-node-app-using-docker-without-installing-node-locally-3fep)
-- [What is Local Link Building? Creating an SEO Strategy Step-by-Step Guide](https://dev.to/rembertdesigns/what-is-local-link-building-creating-an-seo-strategy-step-by-step-guide-3ado)
-- [You don’t need 100% coverage.](https://dev.to/noriller/you-dont-need-100-coverage-412p)
+- [AWS open source newsletter, #136](https://dev.to/aws/aws-open-source-newsletter-136-1ib3)
+- [re:Invent Swag guide](https://dev.to/aws-builders/reinvent-swag-guide-3j3p)
+- [Best Practices and AWS Tools for Cost-Effective Cloud Management](https://dev.to/nishant_sharma/best-practices-and-aws-tools-for-cost-effective-cloud-management-1j)
+- [Top 10 Open-Source DevOps Tools That You Should Know](https://dev.to/danielhu/top-10-open-source-devops-tools-that-you-should-know-ndg)
 <!-- BLOG-POST-LIST:END -->
 
