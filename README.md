@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All About Shopify Analytics](https://dev.to/gloriamaldonado/all-about-shopify-analytics-3oe4)
-- [Unit testing to cleaner code](https://dev.to/hi_iam_chris/unit-testing-to-cleaner-code-20l1)
-- [Deploy and maintain Kubernetes with Kubemarine - functional overview](https://dev.to/netcracker/deploy-and-maintain-kubernetes-with-kubemarine-functional-overview-1mkm)
-- [AWS open source newsletter, #136 &lpar;Edición en español&rpar;](https://dev.to/aws/aws-open-source-newsletter-136-edicion-en-espanol-6ee)
+- [Arif Patel Preston Dubai | How to Become a Python Developer.](https://dev.to/arifpateldubaiprestonuk/arif-patel-preston-dubai-how-to-become-a-python-developer-4k90)
+- [How to Mock complex JSON in TWO minutes](https://dev.to/ismailkamil/how-to-mock-complex-json-in-two-minutes-2m9n)
+- [Winston Logger - Full tutorial with a sample Nodejs application](https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9)
+- [Awesome Websites for UI Components](https://dev.to/surajondev/awesome-websites-for-ui-components-2c5g)
 <!-- BLOG-POST-LIST:END -->
 
