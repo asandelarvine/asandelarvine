@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerized React &amp; Django - Free Sample Project](https://dev.to/sm0ke/dockerized-react-django-free-sample-project-13la)
-- [Best Cron Alternative You&#39;re Not Using](https://dev.to/hackmamba/best-cron-alternative-youre-not-using-22f)
-- [Setup Grafana, Jaeger &amp; Zipkin locally](https://dev.to/wesley_skeen/setup-grafana-locally-with-some-data-sources-4mig)
-- [How to Host Your Website for Free on Netlify &lpar;&amp; Keep Your Github Repo Private&rpar;](https://dev.to/tiaeastwood/how-to-host-your-website-for-free-on-netlify-keep-your-github-repo-private-5ck6)
+- [My favorite CSS authors that must be read](https://dev.to/melnik909/my-favorite-css-authors-that-must-be-read-50f5)
+- [YAML collections: Sequences and mappings](https://dev.to/this-is-learning/yaml-collections-sequences-and-mappings-4meb)
+- [I am Remarkable, and so are You!](https://dev.to/juliafmorgado/i-am-remarkable-and-so-are-you-9d3)
+- [What is Bootstrap? The best 2022 beginner&#39;s guide.](https://dev.to/documatic/what-is-bootstrap-the-best-2022-beginners-guide-19cp)
 <!-- BLOG-POST-LIST:END -->
 
