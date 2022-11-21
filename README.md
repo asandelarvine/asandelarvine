@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS tutorial #19: Font Weight](https://dev.to/shubhicodes/tailwind-css-tutorial-19-font-weight-2kak)
-- [Software Devs, What Are Your Favorite Tools?](https://dev.to/coffeestasia/software-devs-what-are-your-favorite-tools-56oo)
-- [What are your goals for the week of November 21?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-november-21-1gmm)
-- [Releasing Rust Binaries with GitHub Actions - Part 2](https://dev.to/justin1121/releasing-rust-binaries-with-github-actions-part-2-180d)
+- [Dockerized React &amp; Django - Free Sample Project](https://dev.to/sm0ke/dockerized-react-django-free-sample-project-13la)
+- [Best Cron Alternative You&#39;re Not Using](https://dev.to/hackmamba/best-cron-alternative-youre-not-using-22f)
+- [Setup Grafana, Jaeger &amp; Zipkin locally](https://dev.to/wesley_skeen/setup-grafana-locally-with-some-data-sources-4mig)
+- [How to Host Your Website for Free on Netlify &lpar;&amp; Keep Your Github Repo Private&rpar;](https://dev.to/tiaeastwood/how-to-host-your-website-for-free-on-netlify-keep-your-github-repo-private-5ck6)
 <!-- BLOG-POST-LIST:END -->
 
