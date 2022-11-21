@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday - Yep, but this offer has impressive UX that converts](https://dev.to/sm0ke/black-friday-yep-but-this-offer-has-impressive-ux-that-converts-41mp)
+- [Debugging: Navigating Hunches and Assumptions](https://dev.to/jocrah/debugging-navigating-hunches-and-assumptions-2l53)
+- [Welcome Thread - v201](https://dev.to/thepracticaldev/welcome-thread-v201-27l1)
 - [My favorite CSS authors that must be read](https://dev.to/melnik909/my-favorite-css-authors-that-must-be-read-50f5)
-- [YAML collections: Sequences and mappings](https://dev.to/this-is-learning/yaml-collections-sequences-and-mappings-4meb)
-- [I am Remarkable, and so are You!](https://dev.to/juliafmorgado/i-am-remarkable-and-so-are-you-9d3)
-- [What is Bootstrap? The best 2022 beginner&#39;s guide.](https://dev.to/documatic/what-is-bootstrap-the-best-2022-beginners-guide-19cp)
 <!-- BLOG-POST-LIST:END -->
 
