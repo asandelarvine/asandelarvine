@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Movies app in 7 frameworks - which is fastest and why?](https://dev.to/builderio/movies-app-in-7-frameworks-which-is-fastest-and-why-5h3k)
+- [A guide to Intersection Observer](https://dev.to/uploadcare/a-guide-to-intersection-observer-517p)
 - [Black Friday - Yep, but this offer has impressive UX that converts](https://dev.to/sm0ke/black-friday-yep-but-this-offer-has-impressive-ux-that-converts-41mp)
-- [Debugging: Navigating Hunches and Assumptions](https://dev.to/jocrah/debugging-navigating-hunches-and-assumptions-2l53)
-- [Welcome Thread - v201](https://dev.to/thepracticaldev/welcome-thread-v201-27l1)
-- [My favorite CSS authors that must be read](https://dev.to/melnik909/my-favorite-css-authors-that-must-be-read-50f5)
+- [Feature Handoff Checklist](https://dev.to/virtualandy/feature-handoff-checklist-55i5)
 <!-- BLOG-POST-LIST:END -->
 
