@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Releasing Rust Binaries with GitHub Actions - Part 2](https://dev.to/justin1121/releasing-rust-binaries-with-github-actions-part-2-180d)
+- [November 15-19, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/november-15-19-2022-flip-stack-weekly-3bhf)
 - [Why it’s Time to Shift Left Technical Debt](https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl)
 - [Docker Beginner to Advance 🐳](https://dev.to/kaiwalyakoparkar/docker-beginner-to-advance-1lba)
-- [Arif Patel Preston Dubai | How to Become a Python Developer.](https://dev.to/arifpateldubaiprestonuk/arif-patel-preston-dubai-how-to-become-a-python-developer-4k90)
-- [How to Mock complex JSON in TWO minutes](https://dev.to/ismailkamil/how-to-mock-complex-json-in-two-minutes-2m9n)
 <!-- BLOG-POST-LIST:END -->
 
