@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS tutorial #19: Font Weight](https://dev.to/shubhicodes/tailwind-css-tutorial-19-font-weight-2kak)
+- [Software Devs, What Are Your Favorite Tools?](https://dev.to/coffeestasia/software-devs-what-are-your-favorite-tools-56oo)
+- [What are your goals for the week of November 21?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-november-21-1gmm)
 - [Releasing Rust Binaries with GitHub Actions - Part 2](https://dev.to/justin1121/releasing-rust-binaries-with-github-actions-part-2-180d)
-- [November 15-19, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/november-15-19-2022-flip-stack-weekly-3bhf)
-- [Why it’s Time to Shift Left Technical Debt](https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl)
-- [Docker Beginner to Advance 🐳](https://dev.to/kaiwalyakoparkar/docker-beginner-to-advance-1lba)
 <!-- BLOG-POST-LIST:END -->
 
