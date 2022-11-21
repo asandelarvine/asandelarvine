@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #136](https://dev.to/aws/aws-open-source-newsletter-136-1ib3)
-- [re:Invent Swag guide](https://dev.to/aws-builders/reinvent-swag-guide-3j3p)
-- [Best Practices and AWS Tools for Cost-Effective Cloud Management](https://dev.to/nishant_sharma/best-practices-and-aws-tools-for-cost-effective-cloud-management-1j)
-- [Top 10 Open-Source DevOps Tools That You Should Know](https://dev.to/danielhu/top-10-open-source-devops-tools-that-you-should-know-ndg)
+- [BIG announcement 📢: Accelerate your growth by supercharging your community🔥[Product Hunt launch November 22nd]](https://dev.to/aviyel/aviyel-announcement-accelerate-your-growth-by-supercharging-your-communityproduct-hunt-launch-november-22nd-257c)
+- [Proxies for Food Delivery Services](https://dev.to/oxylabs-io/proxies-for-food-delivery-services-2mm2)
+- [DeepFlow uses Spot Instances to speed up GitHub Action exploration](https://dev.to/dundun/deepflow-uses-spot-instances-to-speed-up-github-action-exploration-2a90)
+- [Storybook - Args, and Parameters](https://dev.to/dailydevtips1/storybook-args-and-parameters-4187)
 <!-- BLOG-POST-LIST:END -->
 
