@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes Limits and Requests](https://dev.to/sysdig/understanding-kubernetes-limits-and-requests-5m1)
-- [How to Find Engaging Headlines with A/B Testing to Get More Leads](https://dev.to/ninetailed/how-to-find-engaging-headlines-with-ab-testing-to-get-more-leads-45hn)
-- [React Native vs Flutter: Which is Better to Choose in 2023](https://dev.to/stephen568hub/react-native-vs-flutter-which-is-better-to-choose-in-2023-33c9)
-- [BIG announcement 📢: Accelerate your growth by supercharging your community🔥[Product Hunt launch November 22nd]](https://dev.to/aviyel/aviyel-announcement-accelerate-your-growth-by-supercharging-your-communityproduct-hunt-launch-november-22nd-257c)
+- [AWS open source newsletter, #136 &lpar;Edición en español&rpar;](https://dev.to/aws/aws-open-source-newsletter-136-edicion-en-espanol-6ee)
+- [DJANGO HTMX LOAD MORE OBJECTS](https://dev.to/arthurobo/django-htmx-load-more-objects-3jg3)
+- [Simulating Multiple Client Load Tests in Gatling with GitHub Actions](https://dev.to/devsatasurion/simulating-multiple-client-load-tests-in-gatling-with-github-actions-479d)
+- [12-ES6++: New Built In Functions in Javascript](https://dev.to/hassanzohdy/12-es6-new-built-in-functions-in-javascript-1hno)
 <!-- BLOG-POST-LIST:END -->
 
