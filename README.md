@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why it’s Time to Shift Left Technical Debt](https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl)
 - [Docker Beginner to Advance 🐳](https://dev.to/kaiwalyakoparkar/docker-beginner-to-advance-1lba)
 - [Arif Patel Preston Dubai | How to Become a Python Developer.](https://dev.to/arifpateldubaiprestonuk/arif-patel-preston-dubai-how-to-become-a-python-developer-4k90)
 - [How to Mock complex JSON in TWO minutes](https://dev.to/ismailkamil/how-to-mock-complex-json-in-two-minutes-2m9n)
-- [Artificial &quot;Intelligence&quot; and Controversial Ideas about Future Technology](https://dev.to/ingosteinke/artificial-intelligence-and-controversial-ideas-about-future-technology-1chj)
 <!-- BLOG-POST-LIST:END -->
 
