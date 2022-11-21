@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Your First Conference Proposal](https://dev.to/bekahhw/writing-your-first-conference-proposal-4jei)
 - [Create Node app using Docker without installing Node Locally](https://dev.to/devlogbook/create-node-app-using-docker-without-installing-node-locally-3fep)
 - [What is Local Link Building? Creating an SEO Strategy Step-by-Step Guide](https://dev.to/rembertdesigns/what-is-local-link-building-creating-an-seo-strategy-step-by-step-guide-3ado)
 - [You don’t need 100% coverage.](https://dev.to/noriller/you-dont-need-100-coverage-412p)
-- [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
 <!-- BLOG-POST-LIST:END -->
 
