@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a TinaCMS or Tina Cloud alternative?](https://dev.to/cloudcannon/looking-for-a-tinacms-or-tina-cloud-alternative-1en8)
+- [How to animate background image in react native](https://dev.to/aj019/how-to-animate-background-image-in-react-native-1k37)
 - [But it works on MY machine! Debugging GitHub Workflows with VS Code](https://dev.to/sourishkrout/but-it-works-on-my-machine-debugging-github-workflows-with-vs-code-lok)
 - [Adding internationalization to a Next.js app](https://dev.to/noahflk/adding-internationalization-to-a-nextjs-app-53kn)
-- [Infisical: Open-source tool to manage/sync environment variables](https://dev.to/dangtony98/infisical-open-source-tool-to-managesync-environment-variables-n22)
-- [Movies app in 7 frameworks - which is fastest and why?](https://dev.to/builderio/movies-app-in-7-frameworks-which-is-fastest-and-why-5h3k)
 <!-- BLOG-POST-LIST:END -->
 
