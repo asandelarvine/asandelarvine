@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [But it works on MY machine! Debugging GitHub Workflows with VS Code](https://dev.to/sourishkrout/but-it-works-on-my-machine-debugging-github-workflows-with-vs-code-lok)
+- [Adding internationalization to a Next.js app](https://dev.to/noahflk/adding-internationalization-to-a-nextjs-app-53kn)
+- [Infisical: Open-source tool to manage/sync environment variables](https://dev.to/dangtony98/infisical-open-source-tool-to-managesync-environment-variables-n22)
 - [Movies app in 7 frameworks - which is fastest and why?](https://dev.to/builderio/movies-app-in-7-frameworks-which-is-fastest-and-why-5h3k)
-- [A guide to Intersection Observer](https://dev.to/uploadcare/a-guide-to-intersection-observer-517p)
-- [Black Friday - Yep, but this offer has impressive UX that converts](https://dev.to/sm0ke/black-friday-yep-but-this-offer-has-impressive-ux-that-converts-41mp)
-- [Feature Handoff Checklist](https://dev.to/virtualandy/feature-handoff-checklist-55i5)
 <!-- BLOG-POST-LIST:END -->
 
