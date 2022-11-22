@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A 🦣 opportunity for developers](https://dev.to/andypiper/a-opportunity-for-developers-1ee4)
+- [Visualizing Mastodon Internals](https://dev.to/appmap/visualizing-mastodon-internals-1198)
 - [Why I Don&#39;t do TDD](https://dev.to/codenameone/why-i-dont-do-tdd-1j71)
 - [Your laptop is a distributed system](https://dev.to/napicella/your-laptop-is-a-distributed-system-21ea)
-- [Best LeetCode extensions for productivity](https://dev.to/amit_88/best-leetcode-extensions-for-productivity-4282)
-- [PostgreSQL and YugabyteDB partitioning and indexes](https://dev.to/yugabyte/postgresql-and-yugabytedb-partitioning-and-indexes-4633)
 <!-- BLOG-POST-LIST:END -->
 
