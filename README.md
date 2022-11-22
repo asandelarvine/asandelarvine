@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 4 Free Fake API](https://dev.to/shreyvijayvargiya/top-4-free-fake-api-21mc)
-- [How to Mock APIs ONLINE without setting up a server](https://dev.to/ismailkamil/how-to-mock-online-apis-in-one-minute-2pmf)
-- [The 2022 State of JavaScript Survey Is Now Open. Here&#39;s What&#39;s New](https://dev.to/sachagreif/take-the-2022-state-of-javascript-survey-5ap6)
-- [Why you should come to the brighter front end](https://dev.to/zenstack/why-you-should-come-to-the-brighter-front-end-mm0)
+- [Meme... Tuesday? 🤔](https://dev.to/ben/meme-tuesday-359j)
+- [Implementing a DAO in a growing software development company](https://dev.to/cloudx/implementing-a-dao-in-a-growing-software-development-company-1mo1)
+- [Serverless Contracts to the Rescue of your Fullstack Application](https://dev.to/sc0ra/serverless-contracts-to-the-rescue-of-your-fullstack-application-3f87)
+- [How to choose the right API Gateway](https://dev.to/apisix/how-to-choose-the-right-api-gateway-3f9i)
 <!-- BLOG-POST-LIST:END -->
 
