@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A 🦣 opportunity for developers](https://dev.to/andypiper/a-opportunity-for-developers-1ee4)
-- [Visualizing Mastodon Internals](https://dev.to/appmap/visualizing-mastodon-internals-1198)
-- [Why I Don&#39;t do TDD](https://dev.to/codenameone/why-i-dont-do-tdd-1j71)
-- [Your laptop is a distributed system](https://dev.to/napicella/your-laptop-is-a-distributed-system-21ea)
+- [Jest, Vitest, and WebComponents](https://dev.to/konnorrogers/jest-vitest-and-webcomponents-19lk)
+- [BlackBox — VSCode extension that turns your question into real code.](https://dev.to/majdsufian/blackbox-vscode-extension-that-turns-your-question-into-real-code-30f0)
+- [One Tool to view your Json better 👨‍💻](https://dev.to/majdsufian/one-tool-to-view-your-json-better-45km)
+- [One tool can save time when googling ⏲](https://dev.to/majdsufian/one-tool-can-save-time-when-googling-5bnm)
 <!-- BLOG-POST-LIST:END -->
 
