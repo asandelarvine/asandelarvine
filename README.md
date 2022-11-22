@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redesigning India’s most-used website](https://dev.to/shreyvijayvargiya/redesigning-indias-most-used-website-5053)
+- [How to Add Assets in Development Mode in Flutter?](https://dev.to/kuldeeptarapara/how-to-add-assets-in-development-mode-in-flutter-40ek)
+- [How to reverse a string in Go](https://dev.to/mavensingh/how-to-reverse-a-string-in-go-52pb)
 - [Senior C# Developer Shows 5 Tips To Master Your C# Level](https://dev.to/bytehide/senior-c-developer-shows-how-to-master-your-c-level-1a0p)
-- [Style your SolidJS website faster with StylifyCSS](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
-- [Password Generator in Python](https://dev.to/satish538/password-generator-in-python-d3m)
-- [Learning Go by examples: part 10 - Instrument your Go app with OpenTelemetry and send traces to Jaeger - Distributed Tracing](https://dev.to/aurelievache/learning-go-by-examples-part-10-instrument-your-go-app-with-opentelemetry-and-send-traces-to-jaeger-distributed-tracing-1p4a)
 <!-- BLOG-POST-LIST:END -->
 
