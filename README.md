@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve Your Git Commit Message Like a Pro](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
+- [SPVM::IO::Socket::INET is available in experimental status.](https://dev.to/yukikimoto/spvmiosocketinet-is-available-in-experimental-status-4ejl)
 - [How to Make Typing Game in React](https://dev.to/reactjsguru/how-to-make-typing-game-in-react-48en)
-- [Zero to SaaS - Bookmarksy.io Initial Data Model approach](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyioinitial-data-model-approach-e8e)
-- [What I would like to do after reading The Pragmatic Programmer](https://dev.to/junyaishibuchi/what-i-would-like-to-do-after-reading-the-pragmatic-programmer-3k21)
-- [The easiest solution to code review bottlenecks? Estimated review time on pull requests](https://dev.to/linearb/the-easiest-solution-to-code-review-bottlenecks-estimated-review-time-on-pull-requests-4m1e)
+- [Ram Charan Co Pvt Ltd - B2B Chemical Distribution](https://dev.to/ramcharancopvtltd/ram-charan-co-pvt-ltd-b2b-chemical-distribution-3g4f)
 <!-- BLOG-POST-LIST:END -->
 
