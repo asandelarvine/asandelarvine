@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The easiest solution to code review bottlenecks? Estimated review time on pull requests](https://dev.to/linearb/the-easiest-solution-to-code-review-bottlenecks-estimated-review-time-on-pull-requests-4m1e)
 - [Looking for a TinaCMS or Tina Cloud alternative?](https://dev.to/cloudcannon/looking-for-a-tinacms-or-tina-cloud-alternative-1en8)
+- [schema-org-java: Java library for working with Schema.org data in JSON-LD format](https://dev.to/kobee1203/schema-org-java-java-library-for-working-with-schemaorg-data-in-json-ld-format-5dg3)
 - [How to animate background image in react native](https://dev.to/aj019/how-to-animate-background-image-in-react-native-1k37)
-- [But it works on MY machine! Debugging GitHub Workflows with VS Code](https://dev.to/sourishkrout/but-it-works-on-my-machine-debugging-github-workflows-with-vs-code-lok)
-- [Adding internationalization to a Next.js app](https://dev.to/noahflk/adding-internationalization-to-a-nextjs-app-53kn)
 <!-- BLOG-POST-LIST:END -->
 
