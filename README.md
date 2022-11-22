@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future Of Software Engineering: Is Low-Code The Answer? [Infographic]](https://dev.to/domfive/the-future-of-software-engineering-is-low-code-the-answer-infographic-207a)
+- [Q. What is JavaScript/Socket.io, node.js for Perl?](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
 - [Improve Your Git Commit Message Like a Pro](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
-- [SPVM::IO::Socket::INET is available in experimental status.](https://dev.to/yukikimoto/spvmiosocketinet-is-available-in-experimental-status-4ejl)
-- [How to Make Typing Game in React](https://dev.to/reactjsguru/how-to-make-typing-game-in-react-48en)
-- [Ram Charan Co Pvt Ltd - B2B Chemical Distribution](https://dev.to/ramcharancopvtltd/ram-charan-co-pvt-ltd-b2b-chemical-distribution-3g4f)
+- [How to become a DevOps/Cloud Engineer](https://dev.to/johnnweke/how-to-become-a-devopscloud-engineer-1m)
 <!-- BLOG-POST-LIST:END -->
 
