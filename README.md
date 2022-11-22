@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Storybook - Using decorators](https://dev.to/dailydevtips1/storybook-using-decorators-24k9)
 - [The Future Of Software Engineering: Is Low-Code The Answer? [Infographic]](https://dev.to/domfive/the-future-of-software-engineering-is-low-code-the-answer-infographic-207a)
 - [Q. What is JavaScript/Socket.io, node.js for Perl?](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
-- [Improve Your Git Commit Message Like a Pro](https://dev.to/rifkiandriyanto/improve-your-git-commit-message-like-a-pro-1mk4)
-- [How to become a DevOps/Cloud Engineer](https://dev.to/johnnweke/how-to-become-a-devopscloud-engineer-1m)
+- [Long Polling: A easily implemented concept](https://dev.to/pragyasapkota/long-polling-a-easily-implemented-concept-225i)
 <!-- BLOG-POST-LIST:END -->
 
