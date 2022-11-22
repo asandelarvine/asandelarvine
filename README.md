@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV Bookmarks / Reading List Excerpts from 2021/2022](https://dev.to/ingosteinke/dev-bookmarks-reading-list-excerpts-for-2023-1opf)
-- [What image format should you use in your next project?](https://dev.to/alvaromontoro/what-image-format-should-you-use-in-your-next-project-1fd3)
-- [4 useful Linux Commands that Fix your Network issue in Minutes](https://dev.to/howtouselinux/4-useful-linux-commands-that-fix-your-network-issue-in-minutes-2ieb)
-- [Web Scraping With C#](https://dev.to/oxylabs-io/web-scraping-with-c-48bd)
+- [Why I Don&#39;t do TDD](https://dev.to/codenameone/why-i-dont-do-tdd-1j71)
+- [Your laptop is a distributed system](https://dev.to/napicella/your-laptop-is-a-distributed-system-21ea)
+- [Best LeetCode extensions for productivity](https://dev.to/amit_88/best-leetcode-extensions-for-productivity-4282)
+- [PostgreSQL and YugabyteDB partitioning and indexes](https://dev.to/yugabyte/postgresql-and-yugabytedb-partitioning-and-indexes-4633)
 <!-- BLOG-POST-LIST:END -->
 
