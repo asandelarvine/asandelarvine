@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2mji)
+- [Secure Breast Cancer Identification with Enclaves](https://dev.to/ekloberdanz/secure-breast-cancer-identification-with-enclaves-4ic1)
+- [Microservices with NestJS, Kafka, and TypeScript](https://dev.to/logrocket/microservices-with-nestjs-kafka-and-typescript-22fb)
 - [Going serverless using Cloudflare Workers](https://dev.to/tdaw/going-serverless-using-cloudflare-workers-3o9j)
-- [The HTML &lt;picture&gt; element explained](https://dev.to/dostonnabotov/the-html-element-explained-48o8)
-- [Conheça as Novidades do GitHub Universe 2022](https://dev.to/github/conheca-as-novidades-do-github-universe-2022-3hcg)
-- [React - Best Practices 👨‍💻🚀](https://dev.to/majdsufian/react-best-practices-d5m)
 <!-- BLOG-POST-LIST:END -->
 
