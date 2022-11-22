@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redesigning India’s most-used website](https://dev.to/shreyvijayvargiya/redesigning-indias-most-used-website-5053)
-- [How to Add Assets in Development Mode in Flutter?](https://dev.to/kuldeeptarapara/how-to-add-assets-in-development-mode-in-flutter-40ek)
-- [How to reverse a string in Go](https://dev.to/mavensingh/how-to-reverse-a-string-in-go-52pb)
-- [Senior C# Developer Shows 5 Tips To Master Your C# Level](https://dev.to/bytehide/senior-c-developer-shows-how-to-master-your-c-level-1a0p)
+- [Why you should come to the brighter front end](https://dev.to/zenstack/why-you-should-come-to-the-brighter-front-end-mm0)
+- [Error Handling With try, catch and finally Blocks in JavaScript](https://dev.to/refine/error-handling-with-try-catch-and-finally-blocks-in-javascript-35gm)
+- [A responsive striped CSS gradient inspired by 80s VHS tapes](https://dev.to/whitep4nth3r/a-responsive-striped-css-pattern-inspired-by-80s-vhs-tapes-k02)
+- [Blockchain ? Bitcoin-Ethereum ? Why should one care ? 🤔](https://dev.to/siddharthsing/blockchain-bitcoin-ethereum-why-should-one-care--1naa)
 <!-- BLOG-POST-LIST:END -->
 
