@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Style your SolidJS website faster with StylifyCSS](https://dev.to/machy8/style-your-solidjs-website-faster-with-stylifycss-9oj)
+- [Password Generator in Python](https://dev.to/satish538/password-generator-in-python-d3m)
+- [Learning Go by examples: part 10 - Instrument your Go app with OpenTelemetry and send traces to Jaeger - Distributed Tracing](https://dev.to/aurelievache/learning-go-by-examples-part-10-instrument-your-go-app-with-opentelemetry-and-send-traces-to-jaeger-distributed-tracing-1p4a)
 - [Storybook - Using decorators](https://dev.to/dailydevtips1/storybook-using-decorators-24k9)
-- [The Future Of Software Engineering: Is Low-Code The Answer? [Infographic]](https://dev.to/domfive/the-future-of-software-engineering-is-low-code-the-answer-infographic-207a)
-- [Q. What is JavaScript/Socket.io, node.js for Perl?](https://dev.to/yukikimoto/q-what-is-javascriptsocketio-nodejs-for-perl-36o4)
-- [Long Polling: A easily implemented concept](https://dev.to/pragyasapkota/long-polling-a-easily-implemented-concept-225i)
 <!-- BLOG-POST-LIST:END -->
 
