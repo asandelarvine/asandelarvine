@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 4 Free Fake API](https://dev.to/shreyvijayvargiya/top-4-free-fake-api-21mc)
+- [How to Mock APIs ONLINE without setting up a server](https://dev.to/ismailkamil/how-to-mock-online-apis-in-one-minute-2pmf)
+- [The 2022 State of JavaScript Survey Is Now Open. Here&#39;s What&#39;s New](https://dev.to/sachagreif/take-the-2022-state-of-javascript-survey-5ap6)
 - [Why you should come to the brighter front end](https://dev.to/zenstack/why-you-should-come-to-the-brighter-front-end-mm0)
-- [Error Handling With try, catch and finally Blocks in JavaScript](https://dev.to/refine/error-handling-with-try-catch-and-finally-blocks-in-javascript-35gm)
-- [A responsive striped CSS gradient inspired by 80s VHS tapes](https://dev.to/whitep4nth3r/a-responsive-striped-css-pattern-inspired-by-80s-vhs-tapes-k02)
-- [Blockchain ? Bitcoin-Ethereum ? Why should one care ? 🤔](https://dev.to/siddharthsing/blockchain-bitcoin-ethereum-why-should-one-care--1naa)
 <!-- BLOG-POST-LIST:END -->
 
