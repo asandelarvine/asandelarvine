@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a bot with RSS and webhooks for Mastodon, a Twitter alternative](https://dev.to/contentful/create-a-bot-with-rss-and-webhooks-for-mastodon-a-twitter-alternative-l4o)
-- [My first ever JS project](https://dev.to/aneeqakhan/my-first-ever-js-project-2kb9)
-- [Meme... Tuesday? 🤔](https://dev.to/ben/meme-tuesday-359j)
-- [Implementing a DAO in a growing software development company](https://dev.to/cloudx/implementing-a-dao-in-a-growing-software-development-company-1mo1)
+- [DEV Bookmarks / Reading List Excerpts from 2021/2022](https://dev.to/ingosteinke/dev-bookmarks-reading-list-excerpts-for-2023-1opf)
+- [What image format should you use in your next project?](https://dev.to/alvaromontoro/what-image-format-should-you-use-in-your-next-project-1fd3)
+- [4 useful Linux Commands that Fix your Network issue in Minutes](https://dev.to/howtouselinux/4-useful-linux-commands-that-fix-your-network-issue-in-minutes-2ieb)
+- [Web Scraping With C#](https://dev.to/oxylabs-io/web-scraping-with-c-48bd)
 <!-- BLOG-POST-LIST:END -->
 
