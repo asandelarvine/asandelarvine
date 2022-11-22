@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React - Best Practices 👨‍💻🚀](https://dev.to/majdsufian/react-best-practices-d5m)
+- [Next.js and React Project Starter CLI with 30+ Plugins🚀](https://dev.to/necatiozmen/nextjs-and-react-project-starter-cli-with-30-plugins-20po)
+- [Virtual Internships Alert](https://dev.to/avinash201199/virtual-internships-alert-3509)
 - [Jest, Vitest, and WebComponents](https://dev.to/konnorrogers/jest-vitest-and-webcomponents-19lk)
-- [BlackBox — VSCode extension that turns your question into real code.](https://dev.to/majdsufian/blackbox-vscode-extension-that-turns-your-question-into-real-code-30f0)
-- [One Tool to view your Json better 👨‍💻](https://dev.to/majdsufian/one-tool-to-view-your-json-better-45km)
-- [One tool can save time when googling ⏲](https://dev.to/majdsufian/one-tool-can-save-time-when-googling-5bnm)
 <!-- BLOG-POST-LIST:END -->
 
