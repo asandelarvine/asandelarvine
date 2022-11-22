@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a bot with RSS and webhooks for Mastodon, a Twitter alternative](https://dev.to/contentful/create-a-bot-with-rss-and-webhooks-for-mastodon-a-twitter-alternative-l4o)
+- [My first ever JS project](https://dev.to/aneeqakhan/my-first-ever-js-project-2kb9)
 - [Meme... Tuesday? 🤔](https://dev.to/ben/meme-tuesday-359j)
 - [Implementing a DAO in a growing software development company](https://dev.to/cloudx/implementing-a-dao-in-a-growing-software-development-company-1mo1)
-- [Serverless Contracts to the Rescue of your Fullstack Application](https://dev.to/sc0ra/serverless-contracts-to-the-rescue-of-your-fullstack-application-3f87)
-- [How to choose the right API Gateway](https://dev.to/apisix/how-to-choose-the-right-api-gateway-3f9i)
 <!-- BLOG-POST-LIST:END -->
 
