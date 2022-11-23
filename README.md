@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Another contribution to Fig Autocomplete](https://dev.to/tdaw/another-contribution-to-figautocomplete-9kg)
+- [How to add absolute paths to your TypeScript Project](https://dev.to/seanyasno/how-to-add-absolute-paths-to-your-typescript-project-b62)
 - [What&#39;s so cool about Fig Autocomplete? 💭](https://dev.to/saminarp/whats-so-cool-about-fig-autocomplete-2j1f)
 - [#gitPanic - Removing and Restoring Work](https://dev.to/abbeyperini/gitpanic-removing-and-restoring-work-ioi)
-- [RUST: How to test println!&lpar;&rpar; ?](https://dev.to/maxday/rust-how-to-test-println--1bd8)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2mji)
 <!-- BLOG-POST-LIST:END -->
 
