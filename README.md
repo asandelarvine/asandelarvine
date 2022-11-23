@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Best Black Friday Deals for Web Developers [2022]](https://dev.to/creativetim_official/8-best-black-friday-deals-for-web-developers-2022-4lkb)
 - [Alpha Testing Program: post-mortem](https://dev.to/wasp/alpha-testing-program-post-mortem-18hl)
 - [Introduction to Machine Learning](https://dev.to/debjotyms/intro-to-machine-learning-3bmb)
 - [Building Home Provider Application with Xata, Cloudinary, and NextJs](https://dev.to/hackmamba/building-home-provider-application-with-xata-cloudinary-and-nextjs-48kk)
-- [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
 <!-- BLOG-POST-LIST:END -->
 
