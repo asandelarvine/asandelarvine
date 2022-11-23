@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How engineering leaders can have more visibility on their GitHub Actions](https://dev.to/kantarci/how-engineering-leaders-can-have-more-visibility-on-their-github-actions-34pb)
-- [Weekly web development resources #125](https://dev.to/vincenius/weekly-web-development-resources-125-2lih)
-- [Announcing Launch of A Full Stack Course With Bonus Content](https://dev.to/myogeshchavan97/announcing-launch-of-a-full-stack-course-with-bonus-content-2c70)
-- [5 React Native UI/UX Tips and Tricks you must follow!](https://dev.to/ruship001/5-react-native-uiux-tips-and-tricks-you-must-follow-28ai)
+- [Django MKit - Open-Source PyPi Library](https://dev.to/sm0ke/django-mkit-open-source-pypi-library-gj4)
+- [SQL Vs NoSQL](https://dev.to/bekbrace/sql-vs-nosql-2nbe)
+- [How to Build a Full Stack Content Management System using Next.js, Xata, and Cloudinary](https://dev.to/hackmamba/how-to-build-a-full-stack-content-management-system-using-nextjs-xata-and-cloudinary-iaa)
+- [Fake Data API](https://dev.to/devsimc/fake-data-api-5123)
 <!-- BLOG-POST-LIST:END -->
 
