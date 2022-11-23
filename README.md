@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS :is&lpar;&rpar;,:where&lpar;&rpar;,:has&lpar;&rpar; and :not&lpar;&rpar;](https://dev.to/shubhamtiwari909/css-iswherehas-and-not-2afd)
-- [5 Best Free Platforms for Hosting Hobby Web Projects](https://dev.to/refine/5-best-free-platforms-for-hosting-hobby-web-projects-1pjo)
-- [We fired you, but keep on working until the last day!](https://dev.to/robencom/we-fired-you-but-keep-on-working-until-the-last-day-3gj1)
-- [Tailwind CSS tutorial #20: Font Variant Numeric](https://dev.to/shubhicodes/tailwind-css-tutorial-20-font-variant-numeric-1656)
+- [Alpha Testing Program: post-mortem](https://dev.to/wasp/alpha-testing-program-post-mortem-18hl)
+- [Introduction to Machine Learning](https://dev.to/debjotyms/intro-to-machine-learning-3bmb)
+- [Building Home Provider Application with Xata, Cloudinary, and NextJs](https://dev.to/hackmamba/building-home-provider-application-with-xata-cloudinary-and-nextjs-48kk)
+- [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
 <!-- BLOG-POST-LIST:END -->
 
