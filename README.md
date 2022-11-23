@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build the most beautiful Todolist with React Native and Socket.io 🎉](https://dev.to/novu/how-to-build-the-most-beautiful-todolist-with-react-native-and-socketio-df5)
+- [A poor man&#39;s API](https://dev.to/apisix/a-poor-mans-api-533m)
 - [Building a Cryptocurrency News Aggregator with Xata and Cloudinary](https://dev.to/hackmamba/building-a-cryptocurrency-news-aggregator-using-xata-and-cloudinary-4818)
 - [What is Mastodon? The decentralized social network from my perspective](https://dev.to/janedzumerko/what-is-mastodon-the-decentralized-social-network-from-my-perspective-2367)
-- [Getting started with Wireshark](https://dev.to/jmau111/getting-started-with-wireshark-g5e)
-- [Build Time, Runtime, Execution time... What &quot;time&quot; is it in Javascript?](https://dev.to/jenc/build-time-runtime-execution-time-what-time-is-it-in-javascript-42ea)
 <!-- BLOG-POST-LIST:END -->
 
