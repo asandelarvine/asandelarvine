@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in SeaORM 0.10.x](https://dev.to/seaql/whats-new-in-seaorm-010x-cbd)
 - [Continuous Integration and Deployment on AWS - and a wishlist for CI/CD Tools on AWS](https://dev.to/aws-builders/continuous-integration-and-deployment-on-aws-and-a-wishlist-for-cicd-tools-on-aws-5a13)
 - [Another contribution to Fig Autocomplete](https://dev.to/tdaw/another-contribution-to-figautocomplete-9kg)
 - [How to add absolute paths to your TypeScript Project](https://dev.to/seanyasno/how-to-add-absolute-paths-to-your-typescript-project-b62)
-- [What&#39;s so cool about Fig Autocomplete? 💭](https://dev.to/saminarp/whats-so-cool-about-fig-autocomplete-2j1f)
 <!-- BLOG-POST-LIST:END -->
 
