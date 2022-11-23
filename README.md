@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build An Online Library In Next.js With Xata And Cloudinary](https://dev.to/hackmamba/how-to-build-an-online-library-in-nextjs-with-xata-and-cloudinary-26b4)
+- [a first look at solidstart](https://dev.to/ajcwebdev/a-first-look-at-solidstart-2hm7)
 - [Just do it](https://dev.to/vinibgoulart/just-do-it-3eon)
 - [Write Migrations Last](https://dev.to/katafrakt/write-migrations-last-5ao8)
-- [Importance of hierarchy on website](https://dev.to/mnosov622/importance-of-hierarchy-on-website-38c0)
-- [Tier v0.5.2](https://dev.to/tier/tier-v052-2o61)
 <!-- BLOG-POST-LIST:END -->
 
