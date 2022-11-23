@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Best Black Friday Deals for Web Developers [2022]](https://dev.to/creativetim_official/8-best-black-friday-deals-for-web-developers-2022-4lkb)
-- [Alpha Testing Program: post-mortem](https://dev.to/wasp/alpha-testing-program-post-mortem-18hl)
-- [Introduction to Machine Learning](https://dev.to/debjotyms/intro-to-machine-learning-3bmb)
-- [Building Home Provider Application with Xata, Cloudinary, and NextJs](https://dev.to/hackmamba/building-home-provider-application-with-xata-cloudinary-and-nextjs-48kk)
+- [How to build a speed dial component with Tailwind CSS and JavaScript](https://dev.to/themesberg/how-to-build-a-speed-dial-component-with-tailwind-css-and-javascript-1f1p)
+- [Generate an XML Sitemap for a Static Website in GitHub Actions](https://dev.to/cicirello/generate-an-xml-sitemap-for-a-static-website-in-github-actions-20do)
+- [This Week In React #125: tRPC, T3, Remix, Zustand, Server Components, Drag &amp; Drop, Forms, Gatsby, Remotion, RN, Skia...](https://dev.to/sebastienlorber/this-week-in-react-125-trpc-t3-remix-zustand-server-components-drag-drop-forms-gatsby-remotion-rn-skia-3ead)
+- [Wheatcha - IT videos catalogue. New update: The library grows!](https://dev.to/nordicbeaver/wheatcha-tech-videos-catalogue-new-update-the-library-grows-c4f)
 <!-- BLOG-POST-LIST:END -->
 
