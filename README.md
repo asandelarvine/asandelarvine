@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How engineering leaders can have more visibility on their GitHub Actions](https://dev.to/kantarci/how-engineering-leaders-can-have-more-visibility-on-their-github-actions-34pb)
+- [Weekly web development resources #125](https://dev.to/vincenius/weekly-web-development-resources-125-2lih)
 - [Announcing Launch of A Full Stack Course With Bonus Content](https://dev.to/myogeshchavan97/announcing-launch-of-a-full-stack-course-with-bonus-content-2c70)
 - [5 React Native UI/UX Tips and Tricks you must follow!](https://dev.to/ruship001/5-react-native-uiux-tips-and-tricks-you-must-follow-28ai)
-- [What&#39;s new in SeaORM 0.10.x](https://dev.to/seaql/whats-new-in-seaorm-010x-cbd)
-- [Continuous Integration and Deployment on AWS - and a wishlist for CI/CD Tools on AWS](https://dev.to/aws-builders/continuous-integration-and-deployment-on-aws-and-a-wishlist-for-cicd-tools-on-aws-5a13)
 <!-- BLOG-POST-LIST:END -->
 
