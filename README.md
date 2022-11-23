@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Time, Runtime, Execution time... What &quot;time&quot; is it in Javascript?](https://dev.to/jenc/build-time-runtime-execution-time-what-time-is-it-in-javascript-42ea)
 - [How to build a speed dial component with Tailwind CSS and JavaScript](https://dev.to/themesberg/how-to-build-a-speed-dial-component-with-tailwind-css-and-javascript-1f1p)
 - [Generate an XML Sitemap for a Static Website in GitHub Actions](https://dev.to/cicirello/generate-an-xml-sitemap-for-a-static-website-in-github-actions-20do)
 - [This Week In React #125: tRPC, T3, Remix, Zustand, Server Components, Drag &amp; Drop, Forms, Gatsby, Remotion, RN, Skia...](https://dev.to/sebastienlorber/this-week-in-react-125-trpc-t3-remix-zustand-server-components-drag-drop-forms-gatsby-remotion-rn-skia-3ead)
-- [Wheatcha - IT videos catalogue. New update: The library grows!](https://dev.to/nordicbeaver/wheatcha-tech-videos-catalogue-new-update-the-library-grows-c4f)
 <!-- BLOG-POST-LIST:END -->
 
