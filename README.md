@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build An Online Library In Next.js With Xata And Cloudinary](https://dev.to/hackmamba/how-to-build-an-online-library-in-nextjs-with-xata-and-cloudinary-26b4)
-- [a first look at solidstart](https://dev.to/ajcwebdev/a-first-look-at-solidstart-2hm7)
-- [Just do it](https://dev.to/vinibgoulart/just-do-it-3eon)
-- [Write Migrations Last](https://dev.to/katafrakt/write-migrations-last-5ao8)
+- [Free Course - Learn: A Full Stack Application with Azure SQL and Prisma](https://dev.to/azure/free-course-learn-a-full-stack-application-with-azure-sql-and-prisma-42kp)
+- [Audio Media Accessibility: How To Improve Audio Media Transcriptions](https://dev.to/virtualcoffee/audio-media-accessibility-how-to-improve-audio-media-transcriptions-2lk0)
+- [🗞️ We have just released our JBang! catalog 🛍️](https://dev.to/optnc/we-have-just-released-our-jbang-catalog-4olj)
+- [Comfortably monitor your internet traffic with Sniffnet](https://dev.to/gyulyvgc/comfortably-monitor-your-internet-traffic-with-sniffnet-56b)
 <!-- BLOG-POST-LIST:END -->
 
