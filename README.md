@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Key Leaks](https://dev.to/blst-security/api-key-leaks-bf0)
-- [How to Create a Resume Builder App with Xata and Cloudinary Using NextJs](https://dev.to/hackmamba/how-to-create-a-resume-builder-app-with-xata-and-cloudinary-using-nextjs-4e5c)
-- [Django Material Kit - Free PyPi Library](https://dev.to/sm0ke/django-mkit-open-source-pypi-library-gj4)
-- [SQL Vs NoSQL](https://dev.to/bekbrace/sql-vs-nosql-2nbe)
+- [5 Best Free Platforms for Hosting Hobby Web Projects](https://dev.to/refine/5-best-free-platforms-for-hosting-hobby-web-projects-1pjo)
+- [We fired you, but keep on working until the last day!](https://dev.to/robencom/we-fired-you-but-keep-on-working-until-the-last-day-3gj1)
+- [Tailwind CSS tutorial #20: Font Variant Numeric](https://dev.to/shubhicodes/tailwind-css-tutorial-20-font-variant-numeric-1656)
+- [Database Indexing with PostgreSQL](https://dev.to/foxeyerinx/database-indexing-with-postgresql-eio)
 <!-- BLOG-POST-LIST:END -->
 
