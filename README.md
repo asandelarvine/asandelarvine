@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS :is&lpar;&rpar;,:where&lpar;&rpar;,:has&lpar;&rpar; and :not&lpar;&rpar;](https://dev.to/shubhamtiwari909/css-iswherehas-and-not-2afd)
 - [5 Best Free Platforms for Hosting Hobby Web Projects](https://dev.to/refine/5-best-free-platforms-for-hosting-hobby-web-projects-1pjo)
 - [We fired you, but keep on working until the last day!](https://dev.to/robencom/we-fired-you-but-keep-on-working-until-the-last-day-3gj1)
 - [Tailwind CSS tutorial #20: Font Variant Numeric](https://dev.to/shubhicodes/tailwind-css-tutorial-20-font-variant-numeric-1656)
-- [Database Indexing with PostgreSQL](https://dev.to/foxeyerinx/database-indexing-with-postgresql-eio)
 <!-- BLOG-POST-LIST:END -->
 
