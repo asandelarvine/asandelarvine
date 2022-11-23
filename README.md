@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed up your code with Promise.all](https://dev.to/dperrymorrow/speed-up-your-code-with-promiseall-3d4i)
 - [Free Course - Learn: A Full Stack Application with Azure SQL and Prisma](https://dev.to/azure/free-course-learn-a-full-stack-application-with-azure-sql-and-prisma-42kp)
 - [Audio Media Accessibility: How To Improve Audio Media Transcriptions](https://dev.to/virtualcoffee/audio-media-accessibility-how-to-improve-audio-media-transcriptions-2lk0)
-- [🗞️ We have just released our JBang! catalog 🛍️](https://dev.to/optnc/we-have-just-released-our-jbang-catalog-4olj)
-- [Comfortably monitor your internet traffic with Sniffnet](https://dev.to/gyulyvgc/comfortably-monitor-your-internet-traffic-with-sniffnet-56b)
+- [Beginner JavaScript Project: How to reverse a sentence and display it on screen](https://dev.to/codergirl1991/beginner-javascript-project-how-to-reverse-a-sentence-and-display-it-on-screen-4d03)
 <!-- BLOG-POST-LIST:END -->
 
