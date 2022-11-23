@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Just do it](https://dev.to/vinibgoulart/just-do-it-3eon)
+- [Write Migrations Last](https://dev.to/katafrakt/write-migrations-last-5ao8)
 - [Importance of hierarchy on website](https://dev.to/mnosov622/importance-of-hierarchy-on-website-38c0)
 - [Tier v0.5.2](https://dev.to/tier/tier-v052-2o61)
-- [How to build the most beautiful Todolist with React Native and Socket.io 🎉](https://dev.to/novu/how-to-build-the-most-beautiful-todolist-with-react-native-and-socketio-df5)
-- [A poor man&#39;s API](https://dev.to/apisix/a-poor-mans-api-533m)
 <!-- BLOG-POST-LIST:END -->
 
