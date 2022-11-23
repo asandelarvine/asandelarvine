@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django MKit - Open-Source PyPi Library](https://dev.to/sm0ke/django-mkit-open-source-pypi-library-gj4)
+- [API Key Leaks](https://dev.to/blst-security/api-key-leaks-bf0)
+- [How to Create a Resume Builder App with Xata and Cloudinary Using NextJs](https://dev.to/hackmamba/how-to-create-a-resume-builder-app-with-xata-and-cloudinary-using-nextjs-4e5c)
+- [Django Material Kit - Free PyPi Library](https://dev.to/sm0ke/django-mkit-open-source-pypi-library-gj4)
 - [SQL Vs NoSQL](https://dev.to/bekbrace/sql-vs-nosql-2nbe)
-- [How to Build a Full Stack Content Management System using Next.js, Xata, and Cloudinary](https://dev.to/hackmamba/how-to-build-a-full-stack-content-management-system-using-nextjs-xata-and-cloudinary-iaa)
-- [Fake Data API](https://dev.to/devsimc/fake-data-api-5123)
 <!-- BLOG-POST-LIST:END -->
 
