@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging community⚡with Aviyel : A Step-by-Step Guide](https://dev.to/aviyel/supercharging-communitywith-aviyel-a-step-by-step-guide-1n3g)
 - [Building an In-App Bell Notification in React using Novu](https://dev.to/documatic/building-in-app-bell-notification-in-react-using-novu-325o)
 - [Build Your Own PHP Framework Step By Step - Part 1](https://dev.to/robbiecahill/build-your-own-php-framework-step-by-step-part-1-k32)
 - [How to manage versions using update-alternatives](https://dev.to/webduvet/how-to-manage-versions-using-update-alternatives-258e)
-- [How to trigger an email on database update in Flutter with SendGrid](https://dev.to/hackmamba/how-to-trigger-an-email-on-database-update-in-flutter-with-sendgrid-3pc3)
 <!-- BLOG-POST-LIST:END -->
 
