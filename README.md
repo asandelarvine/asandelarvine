@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Be ready for failure on stage: introducing the Speaker Buddy System](https://dev.to/marcduiker/be-ready-for-failure-on-stage-introducing-the-speaker-buddy-system-f89)
+- [Mock REQUEST body automatically to accelerate your debugging](https://dev.to/ismailkamil/mock-request-body-automatically-to-accelerate-your-debugging-4a98)
+- [36 Questions to Ask Your Future Software Employer](https://dev.to/semaphore/36-questions-to-ask-your-future-software-employer-552g)
 - [Data Masking](https://dev.to/codewithmmak/data-masking-2fg2)
-- [Internet Computer!](https://dev.to/adityawisecoder/internet-computer-2ih)
-- [Strict Mode in React 18](https://dev.to/refine/strict-mode-in-react-18-915)
-- [git is not the end of history](https://dev.to/jmfayard/git-is-not-the-end-of-history-42f0)
 <!-- BLOG-POST-LIST:END -->
 
