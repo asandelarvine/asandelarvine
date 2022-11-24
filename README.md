@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Database Management With CI/CD](https://dev.to/semaphore/database-management-with-cicd-41e)
 - [Fine-Grained Access Control: Where RBAC falls short](https://dev.to/egeaytin/fine-grained-access-control-where-rbac-falls-short-37hp)
 - [Automatic request validation at the edge with OpenAPI and Fastly](https://dev.to/fastly/automatic-request-validation-at-the-edge-with-openapi-and-fastly-1fgo)
 - [Big Thanks to All Our Mods! 🙌](https://dev.to/devteam/big-thanks-to-all-our-mods-4jl)
-- [Achieving end-to-end type safety in a modern JS GraphQL stack](https://dev.to/escape/achieving-end-to-end-type-safety-in-a-modern-js-graphql-stack-a6p)
 <!-- BLOG-POST-LIST:END -->
 
