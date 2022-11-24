@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an In-App Bell Notification in React using Novu](https://dev.to/documatic/building-in-app-bell-notification-in-react-using-novu-325o)
+- [Build Your Own PHP Framework Step By Step - Part 1](https://dev.to/robbiecahill/build-your-own-php-framework-step-by-step-part-1-k32)
+- [How to manage versions using update-alternatives](https://dev.to/webduvet/how-to-manage-versions-using-update-alternatives-258e)
 - [How to trigger an email on database update in Flutter with SendGrid](https://dev.to/hackmamba/how-to-trigger-an-email-on-database-update-in-flutter-with-sendgrid-3pc3)
-- [Meet the Microsoft Graph Product Group Leaders 28th November 3PM GMT](https://dev.to/azure/meet-the-microsoft-graph-product-group-leaders-28th-november-3pm-gmt-4f20)
-- [Imposter&#39;s syndrome: hug or let go?](https://dev.to/gonzo345/imposters-syndrome-hug-or-let-go-24j3)
-- [15,000 GH stars in a year: how we did it 🤩](https://dev.to/medusajs/15000-gh-stars-in-a-year-how-we-did-it-4b0h)
 <!-- BLOG-POST-LIST:END -->
 
