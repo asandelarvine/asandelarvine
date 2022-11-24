@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [MongoDB 2022 Hackathon submission - Introducing Indian dishes catalog](https://dev.to/sachinchaurasiya/mongodb-2022-hackathon-submission-introducing-indian-dishes-catalog-1coa)
 - [School Management System - The best partner for seamless school management](https://dev.to/anirudhro/school-management-system-the-best-partner-for-seamless-school-management-iji)
+- [How does Apache DolphinScheduler solve the troubles of data warehouse scheduling in ITcast?](https://dev.to/dolphinschedule/how-does-apache-dolphinscheduler-solve-the-troubles-of-data-warehouse-scheduling-in-itcast-34k1)
 - [How to make a Docker build image for the Python flavor of AWS CDK, for people who don&#39;t like NPM](https://dev.to/aws-builders/how-to-make-a-docker-build-image-for-the-python-flavor-of-aws-cdk-for-people-who-dont-like-npm-4nfk)
-- [Code is important, but you should also focus on the cohesion of the codebase.](https://dev.to/hurricaneinteractive/module-driven-development-30mn)
 <!-- BLOG-POST-LIST:END -->
 
