@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hide And Seek](https://dev.to/ericape/hide-and-seek-mnh)
+- [Get a sound notification when your long-lasting script completes 🔔](https://dev.to/krisplatis/get-a-sound-notification-when-your-long-lasting-script-completes-2coj)
+- [Documenting JavaScript code with JSDoc](https://dev.to/zsevic/documenting-javascript-code-with-jsdoc-ilf)
 - [Database Management With CI/CD](https://dev.to/semaphore/database-management-with-cicd-41e)
-- [Fine-Grained Access Control: Where RBAC falls short](https://dev.to/egeaytin/fine-grained-access-control-where-rbac-falls-short-37hp)
-- [Automatic request validation at the edge with OpenAPI and Fastly](https://dev.to/fastly/automatic-request-validation-at-the-edge-with-openapi-and-fastly-1fgo)
-- [Big Thanks to All Our Mods! 🙌](https://dev.to/devteam/big-thanks-to-all-our-mods-4jl)
 <!-- BLOG-POST-LIST:END -->
 
