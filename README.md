@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NGINX WAF alternatives: App Protect vs. ModSecurity vs. open-appsec](https://dev.to/openappsec/nginx-waf-alternatives-app-protect-vs-modsecurity-vs-open-appsec-325f)
+- [The Transitional Web w/ Chris Ferdinandi](https://dev.to/mikhailkaran/the-transitional-web-w-chris-ferdinandi-3ip7)
 - [Hide And Seek](https://dev.to/ericape/hide-and-seek-mnh)
 - [Get a sound notification when your long-lasting script completes 🔔](https://dev.to/krisplatis/get-a-sound-notification-when-your-long-lasting-script-completes-2coj)
-- [Documenting JavaScript code with JSDoc](https://dev.to/zsevic/documenting-javascript-code-with-jsdoc-ilf)
-- [Database Management With CI/CD](https://dev.to/semaphore/database-management-with-cicd-41e)
 <!-- BLOG-POST-LIST:END -->
 
