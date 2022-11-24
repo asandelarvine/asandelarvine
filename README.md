@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Imposter&#39;s syndrome: hug or let go?](https://dev.to/gonzo345/imposters-syndrome-hug-or-let-go-24j3)
+- [15,000 GH stars in a year: how we did it 🤩](https://dev.to/medusajs/15000-gh-stars-in-a-year-how-we-did-it-4b0h)
 - [Web Scraping With R Using rvest Tutorial](https://dev.to/oxylabs-io/web-scraping-with-r-using-rvest-tutorial-4dkc)
 - [Arif patel Preston Dubai | 9 Top Productive tips for Backend Developers.](https://dev.to/arifpateldubaiprestonuk/arif-patel-preston-dubai-9-top-productive-tips-for-backend-developers-1081)
-- [How to get started with technical writing - An inside look into my writing process](https://dev.to/codergirl1991/how-to-get-started-with-technical-writing-an-inside-look-into-my-writing-process-1jdl)
-- [Tailwind CSS tutorial #21: Letter Spacing](https://dev.to/shubhicodes/tailwind-css-tutorial-21-letter-spacing-m2f)
 <!-- BLOG-POST-LIST:END -->
 
