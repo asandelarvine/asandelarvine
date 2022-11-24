@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fine-Grained Access Control: Where RBAC falls short](https://dev.to/egeaytin/fine-grained-access-control-where-rbac-falls-short-37hp)
+- [Automatic request validation at the edge with OpenAPI and Fastly](https://dev.to/fastly/automatic-request-validation-at-the-edge-with-openapi-and-fastly-1fgo)
 - [Big Thanks to All Our Mods! 🙌](https://dev.to/devteam/big-thanks-to-all-our-mods-4jl)
 - [Achieving end-to-end type safety in a modern JS GraphQL stack](https://dev.to/escape/achieving-end-to-end-type-safety-in-a-modern-js-graphql-stack-a6p)
-- [What is new in Java 20?](https://dev.to/symflower/what-is-new-in-java-20-21gh)
-- [6 ways to find projects in Open Source](https://dev.to/pradumnasaraf/6-ways-to-find-projects-in-open-source-2kie)
 <!-- BLOG-POST-LIST:END -->
 
