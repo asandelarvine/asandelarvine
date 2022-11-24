@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Be ready for failure on stage: introducing the Speaker Buddy System](https://dev.to/marcduiker/be-ready-for-failure-on-stage-introducing-the-speaker-buddy-system-f89)
-- [Mock REQUEST body automatically to accelerate your debugging](https://dev.to/ismailkamil/mock-request-body-automatically-to-accelerate-your-debugging-4a98)
-- [36 Questions to Ask Your Future Software Employer](https://dev.to/semaphore/36-questions-to-ask-your-future-software-employer-552g)
-- [Data Masking](https://dev.to/codewithmmak/data-masking-2fg2)
+- [Big Thanks to All Our Mods! 🙌](https://dev.to/devteam/big-thanks-to-all-our-mods-4jl)
+- [Achieving end-to-end type safety in a modern JS GraphQL stack](https://dev.to/escape/achieving-end-to-end-type-safety-in-a-modern-js-graphql-stack-a6p)
+- [6 ways to find projects in Open Source](https://dev.to/pradumnasaraf/6-ways-to-find-projects-in-open-source-2kie)
+- [From Doctor to Developer](https://dev.to/puthpiseth/from-doctor-to-developer-3hg8)
 <!-- BLOG-POST-LIST:END -->
 
