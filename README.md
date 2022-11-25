@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://dev.to/makendrang/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without-18dl)
+- [A huge list of AI/ML news sources](https://dev.to/ai_jobsnet/a-huge-list-of-aiml-news-sources-31n8)
 - [Follow Friday: Vue Edition &lpar;25 November 2022&rpar;](https://dev.to/devteam/follow-friday-vue-edition-25-november-2022-4j7l)
-- [NextJS 13: 700x Extremely Faster Than Webpack 🚀](https://dev.to/karanjrawal/nextjs-13-700x-extremely-faster-than-webpack-17a3)
-- [Xcode and Flutter Plug-in: Could not find or use auto-linked framework ‘Flutter’](https://dev.to/kuldeeptarapara/xcode-and-flutter-plug-in-could-not-find-or-use-auto-linked-framework-flutter-mi1)
-- [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
+- [Visual Testing Your Components With Chromatic](https://dev.to/mbarzeev/visual-testing-your-components-with-chromatic-157p)
 <!-- BLOG-POST-LIST:END -->
 
