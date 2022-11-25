@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Black Friday deals for software developers in 2022](https://dev.to/themesberg/best-black-friday-deals-for-software-developers-in-2022-555l)
+- [How to code your app using the CodeSandbox iPad IDE](https://dev.to/codesandboxio/how-to-code-your-app-using-the-codesandbox-ipad-ide-20o)
+- [O mito do &quot;Java é Difícil&quot; e as melhorias da linguagem](https://dev.to/pgjbz/o-mito-do-java-e-dificil-e-as-melhorias-da-linguagem-50bk)
 - [Laying the proper foundations of QA to scale faster](https://dev.to/fleksy/laying-the-proper-foundations-of-qa-to-scale-faster-c9a)
-- [A quick journey in the System32](https://dev.to/jmau111/a-quick-journey-in-the-system32-d7a)
-- [Introducing Klepto: Sharing and Stealing Great Ideas](https://dev.to/idosius/mongodb-atlas-hackathon-2022-on-dev-4a4i)
-- [A look into JSONB in YugabyteDB](https://dev.to/yugabyte/a-look-into-jsonb-in-yugabytedb-59n2)
 <!-- BLOG-POST-LIST:END -->
 
