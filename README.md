@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Tests for ESM using Jest framework](https://dev.to/tdaw/adding-tests-for-esm-using-jest-framework-1nao)
 - [All You Need to Know About Serverless Functions and the Edge](https://dev.to/nefejames/all-you-need-to-know-about-serverless-functions-and-the-edge-2bl2)
 - [Best Black Friday deals for software developers in 2022](https://dev.to/themesberg/best-black-friday-deals-for-software-developers-in-2022-555l)
 - [How to code your app using the CodeSandbox iPad IDE](https://dev.to/codesandboxio/how-to-code-your-app-using-the-codesandbox-ipad-ide-20o)
-- [Tutorial on Intro to Rust Programming](https://dev.to/data_umbrella/tutorial-on-intro-to-rust-programming-146a)
 <!-- BLOG-POST-LIST:END -->
 
