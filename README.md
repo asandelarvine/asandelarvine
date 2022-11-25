@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow Friday: Vue Edition &lpar;25 November 2022&rpar;](https://dev.to/devteam/follow-friday-vue-edition-25-november-2022-4j7l)
 - [NextJS 13: 700x Extremely Faster Than Webpack 🚀](https://dev.to/karanjrawal/nextjs-13-700x-extremely-faster-than-webpack-17a3)
 - [Xcode and Flutter Plug-in: Could not find or use auto-linked framework ‘Flutter’](https://dev.to/kuldeeptarapara/xcode-and-flutter-plug-in-could-not-find-or-use-auto-linked-framework-flutter-mi1)
 - [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
-- [Passwordless Authentication of the users](https://dev.to/shreyvijayvargiya/passwordless-authentication-of-the-users-57mh)
 <!-- BLOG-POST-LIST:END -->
 
