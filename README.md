@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis Distributed Caching](https://dev.to/wahidd/redis-distributed-caching-1m71)
+- [Responsive Sidebar Navigation in css](https://dev.to/shubhamtiwari909/responsive-sidebar-navigation-in-css-500k)
+- [MariaDB vs. MySQL For WordPress](https://dev.to/itsritesh/mariadb-vs-mysql-for-wordpress-8gj)
 - [How to Become a Perfect Automation Tester || &lpar;Do This&rpar;](https://dev.to/promode/how-to-become-a-perfect-automation-tester-do-this-30p8)
-- [Fun With Next.js 13 Server Components](https://dev.to/zenstack/fun-with-nextjs-13-server-components-o37)
-- [The perfect open-sourcer does not exist](https://dev.to/batunpc/the-perfect-open-sourcer-does-not-exist-26pb)
-- [Blogger Complete Tutorial - Step By Step Guide](https://dev.to/priyankajain/blogger-complete-tutorial-step-by-step-guide-2c48)
 <!-- BLOG-POST-LIST:END -->
 
