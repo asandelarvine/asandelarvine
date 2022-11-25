@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Machine Learning Model without a single line of code!](https://dev.to/hariharaswq/build-a-machine-learning-model-without-a-single-line-of-code-ood)
 - [Redis Distributed Caching](https://dev.to/wahidd/redis-distributed-caching-1m71)
 - [Responsive Sidebar Navigation in css](https://dev.to/shubhamtiwari909/responsive-sidebar-navigation-in-css-500k)
-- [MariaDB vs. MySQL For WordPress](https://dev.to/itsritesh/mariadb-vs-mysql-for-wordpress-8gj)
-- [How to Become a Perfect Automation Tester || &lpar;Do This&rpar;](https://dev.to/promode/how-to-become-a-perfect-automation-tester-do-this-30p8)
+- [REST API With Passport Authentication In Laravel 9](https://dev.to/techsolutionstuff/rest-api-with-passport-authentication-in-laravel-9-ed7)
 <!-- BLOG-POST-LIST:END -->
 
