@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [1000X faster two sum leetcode solution](https://dev.to/mavensingh/1000x-faster-two-sum-leetcode-solution-29aa)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2b5e)
+- [Deployment of MERN full-stack app with Render.com](https://dev.to/bcncodeschool/deployment-of-mern-full-stack-app-with-rendercom-1jk9)
 - [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://dev.to/makendrang/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without-18dl)
-- [A huge list of AI/ML news sources](https://dev.to/ai_jobsnet/a-huge-list-of-aiml-news-sources-31n8)
-- [Follow Friday: Vue Edition &lpar;25 November 2022&rpar;](https://dev.to/devteam/follow-friday-vue-edition-25-november-2022-4j7l)
-- [Visual Testing Your Components With Chromatic](https://dev.to/mbarzeev/visual-testing-your-components-with-chromatic-157p)
 <!-- BLOG-POST-LIST:END -->
 
