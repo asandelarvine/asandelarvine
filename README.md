@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Laying the proper foundations of QA to scale faster](https://dev.to/fleksy/laying-the-proper-foundations-of-qa-to-scale-faster-c9a)
+- [A quick journey in the System32](https://dev.to/jmau111/a-quick-journey-in-the-system32-d7a)
 - [Introducing Klepto: Sharing and Stealing Great Ideas](https://dev.to/idosius/mongodb-atlas-hackathon-2022-on-dev-4a4i)
 - [A look into JSONB in YugabyteDB](https://dev.to/yugabyte/a-look-into-jsonb-in-yugabytedb-59n2)
-- [1000X faster two sum leetcode solution](https://dev.to/mavensingh/1000x-faster-two-sum-leetcode-solution-29aa)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2b5e)
 <!-- BLOG-POST-LIST:END -->
 
