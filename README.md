@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #137](https://dev.to/aws/aws-open-source-newsletter-137-574h)
+- [AWS open source newsletter, #137 &lpar;Edición en español&rpar;](https://dev.to/aws/aws-open-source-newsletter-137-edicion-en-espanol-1i06)
+- [Start your journey as a software engineer - My experience from studying water resources and irrigation to software engineering](https://dev.to/clickpesa/start-your-journey-as-a-software-engineer-my-experience-from-studying-water-resources-and-irrigation-to-software-engineering-1lnh)
 - [✨Today I learned: Using Octokit! 🐙✨](https://dev.to/saminarp/today-i-learned-using-octokit-2bdm)
-- [Developers should be lazy; here&#39;s why](https://dev.to/jeanremyduboc/developers-should-be-lazy-heres-why-3j0)
-- [Build a Machine Learning Model without a single line of code!](https://dev.to/hariharaswq/build-a-machine-learning-model-without-a-single-line-of-code-ood)
-- [Redis Distributed Caching](https://dev.to/wahidd/redis-distributed-caching-1m71)
 <!-- BLOG-POST-LIST:END -->
 
