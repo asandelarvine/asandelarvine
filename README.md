@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Try Hello World of Go in 3min](https://dev.to/yukikmt/try-hello-world-of-go-in-3min-215p)
+- [Things you can do with your Browser developer console](https://dev.to/niza/things-you-can-do-with-your-browser-developer-console-gmn)
 - [Connecting PostgreSQL with python sqlalchemy orm.](https://dev.to/giasuddin90/connecting-postgresql-with-python-sqlalchemy-orm-1bok)
 - [JavaScript Loops: The Ins and Out](https://dev.to/mwendwabundi/javascript-loops-the-ins-and-out-dhh)
-- [Rust GUI and GTK calc](https://dev.to/antonov_mike/rust-gui-and-gtk-calc-2g60)
 <!-- BLOG-POST-LIST:END -->
 
