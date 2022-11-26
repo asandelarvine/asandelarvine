@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Loops: The Ins and Out](https://dev.to/mwendwabundi/javascript-loops-the-ins-and-out-dhh)
 - [Form Validation with JS and Tailwind](https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab)
 - [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
 - [Storybook - mocking API calls](https://dev.to/dailydevtips1/storybook-mocking-api-calls-2b14)
-- [Trigger precisely at hh:mm:00 with EventBridge and Lambda](https://dev.to/aws-builders/trigger-precisely-at-hhmm00-with-eventbridge-and-lambda-1ia5)
 <!-- BLOG-POST-LIST:END -->
 
