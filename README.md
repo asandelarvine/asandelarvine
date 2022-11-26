@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Form Validation with JS and Tailwind](https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab)
+- [Storybook - mocking API calls](https://dev.to/dailydevtips1/storybook-mocking-api-calls-2b14)
 - [Trigger precisely at hh:mm:00 with EventBridge and Lambda](https://dev.to/aws-builders/trigger-precisely-at-hhmm00-with-eventbridge-and-lambda-1ia5)
 - [5 Web Extension for Web Developers](https://dev.to/maldexander/5-web-extension-for-web-developers-4j17)
-- [Software Release Via NPM](https://dev.to/lostbutton/software-release-via-npm-3j25)
-- [Arquitetura: Monolíticos, Monolíticos Distribuídos e Microsserviços](https://dev.to/otaviovb/arquitetura-monoliticos-monoliticos-distribuidos-e-microsservicos-3epc)
 <!-- BLOG-POST-LIST:END -->
 
