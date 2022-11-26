@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Planning And Tracking Projects With GitHub&#39;s Projects Tool](https://dev.to/adiatiayu/planning-and-tracking-projects-with-githubs-projects-tool-572l)
 - [Tidy up your machine with Visual Studio Code Dev Containers](https://dev.to/this-is-learning/tidy-up-your-machine-with-visual-studio-code-dev-containers-256n)
+- [Career Goal Setting](https://dev.to/bekahhw/career-goal-setting-3c6o)
 - [How spring boot application work as web application](https://dev.to/amitiwary999/how-spring-boot-application-work-as-web-application-abb)
-- [Zod Typesafe User Input](https://dev.to/perkinsjr/zod-typesafe-user-input-4pll)
 <!-- BLOG-POST-LIST:END -->
 
