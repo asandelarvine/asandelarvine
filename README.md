@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Form Validation with JS and Tailwind](https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab)
+- [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
 - [Storybook - mocking API calls](https://dev.to/dailydevtips1/storybook-mocking-api-calls-2b14)
 - [Trigger precisely at hh:mm:00 with EventBridge and Lambda](https://dev.to/aws-builders/trigger-precisely-at-hhmm00-with-eventbridge-and-lambda-1ia5)
-- [5 Web Extension for Web Developers](https://dev.to/maldexander/5-web-extension-for-web-developers-4j17)
 <!-- BLOG-POST-LIST:END -->
 
