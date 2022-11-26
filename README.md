@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasp Beta Launch Week announcement](https://dev.to/wasp/wasp-beta-launch-week-announcement-2363)
+- [GRPC Node + NextJs + Prisma](https://dev.to/ozair0/grpc-node-nextjs-prisma-1pp8)
 - [Coding Contest✨](https://dev.to/yashkapure06/coding-contest-4n6)
 - [A Guide to the Most Popular Types of APIs: REST, SOAP, GraphQL, and gRPC](https://dev.to/pragativerma18/a-guide-to-the-most-popular-types-of-apis-rest-soap-graphql-and-grpc-4ail)
-- [Super Simple Select Implementation Using Angular CDK Selection Model](https://dev.to/angular/super-simple-select-implementation-using-angular-cdk-selection-model-52gb)
-- [Try Hello World of Go in 3min](https://dev.to/yukikmt/try-hello-world-of-go-in-3min-215p)
 <!-- BLOG-POST-LIST:END -->
 
