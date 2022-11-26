@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How spring boot application work as web application](https://dev.to/amitiwary999/how-spring-boot-application-work-as-web-application-abb)
 - [Zod Typesafe User Input](https://dev.to/perkinsjr/zod-typesafe-user-input-4pll)
 - [Wasp Beta Launch Week announcement](https://dev.to/wasp/wasp-beta-launch-week-announcement-2363)
 - [GRPC Node + NextJs + Prisma](https://dev.to/ozair0/grpc-node-nextjs-prisma-1pp8)
-- [Coding Contest✨](https://dev.to/yashkapure06/coding-contest-4n6)
 <!-- BLOG-POST-LIST:END -->
 
