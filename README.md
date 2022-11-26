@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Try Hello World of Go in 3min](https://dev.to/yukikmt/try-hello-world-of-go-in-3min-215p)
 - [Connecting PostgreSQL with python sqlalchemy orm.](https://dev.to/giasuddin90/connecting-postgresql-with-python-sqlalchemy-orm-1bok)
 - [JavaScript Loops: The Ins and Out](https://dev.to/mwendwabundi/javascript-loops-the-ins-and-out-dhh)
 - [Rust GUI and GTK calc](https://dev.to/antonov_mike/rust-gui-and-gtk-calc-2g60)
-- [Form Validation with JS and Tailwind](https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab)
 <!-- BLOG-POST-LIST:END -->
 
