@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning And Tracking Projects With GitHub&#39;s Projects Tool](https://dev.to/adiatiayu/planning-and-tracking-projects-with-githubs-projects-tool-572l)
-- [Tidy up your machine with Visual Studio Code Dev Containers](https://dev.to/this-is-learning/tidy-up-your-machine-with-visual-studio-code-dev-containers-256n)
-- [Career Goal Setting](https://dev.to/bekahhw/career-goal-setting-3c6o)
-- [How spring boot application work as web application](https://dev.to/amitiwary999/how-spring-boot-application-work-as-web-application-abb)
+- [How to make a to-do list using Javascript](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
+- [OSD600: Adding CI to Siteit](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
+- [top 10 tips for problem-solving](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
+- [How to connect tomcat server with eclipse?](https://dev.to/mahisewinet/how-to-connect-tomcat-server-with-eclipse-5gba)
 <!-- BLOG-POST-LIST:END -->
 
