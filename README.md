@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY: I&#39;ve built a music box for the 2nd x-mas of my son](https://dev.to/maximecheramy/diy-ive-built-a-music-box-for-the-2nd-x-mas-of-my-son-j03)
+- [Getting Started with ActivityPub](https://dev.to/thasmin/getting-started-with-activitypub-2mgm)
 - [Create a launch template for an Auto Scaling group](https://dev.to/aws-builders/create-a-launch-template-for-an-auto-scaling-group-3b33)
 - [Setting up Your First React TypeScript Project From Scratch](https://dev.to/gethackteam/setting-up-your-first-react-typescript-project-from-scratch-23jf)
-- [Plan first, then implement](https://dev.to/mnosov622/plan-first-then-implement-1epk)
-- [Fancy Text Generator 𝕐𝕠𝕦𝕣 𝕋𝕖𝕩𝕥 &lpar;𝓬𝓸𝓹𝔂 𝓪𝓷𝓭 𝓹𝓪𝓼𝓽𝓮&rpar;](https://dev.to/elinabey/fancy-text-generator--20oe)
 <!-- BLOG-POST-LIST:END -->
 
