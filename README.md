@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Release 0.2 - PR #2](https://dev.to/aparris21/release-02-pr-2-1il2)
+- [Dynamically Create an of Arrays](https://dev.to/smilesforgood/dynamically-create-an-of-arrays-4ip3)
 - [How to make a to-do list using Javascript](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
 - [OSD600: Adding CI to Siteit](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
-- [top 10 tips for problem-solving](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
-- [How to connect tomcat server with eclipse?](https://dev.to/mahisewinet/how-to-connect-tomcat-server-with-eclipse-5gba)
 <!-- BLOG-POST-LIST:END -->
 
