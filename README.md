@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CDK Typescript Pipeline Workshop](https://dev.to/aws-builders/cdk-typescript-pipeline-workshop-4j64)
-- [First P2E game on tableland &lpar;1&rpar;](https://dev.to/ponyjackal/first-p2e-game-on-tableland-1-2p8p)
-- [How I go with react native in late 2022](https://dev.to/sinasafari/how-i-go-with-react-native-in-late-2022-44gp)
-- [Use Preact in Next.js 13](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
+- [Fancy Text Generator 𝕐𝕠𝕦𝕣 𝕋𝕖𝕩𝕥 &lpar;𝓬𝓸𝓹𝔂 𝓪𝓷𝓭 𝓹𝓪𝓼𝓽𝓮&rpar;](https://dev.to/elinabey/fancy-text-generator--20oe)
+- [Encode, Encrypt, and Hash](https://dev.to/ditaisy/encode-encrypt-and-hash-8de)
+- [What are the plans for this week?](https://dev.to/mitchiemt11/what-are-the-plans-for-this-week-5336)
+- [How to access AWS services from EKS](https://dev.to/chiragdm/how-to-access-aws-services-from-eks-49j2)
 <!-- BLOG-POST-LIST:END -->
 
