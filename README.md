@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Developer Portfolio for inspiration](https://dev.to/ruppysuppy/7-developer-portfolio-for-inspiration-4no7)
 - [Release 0.2 - PR #2](https://dev.to/aparris21/release-02-pr-2-1il2)
 - [How to make a to-do list using Javascript](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
 - [OSD600: Adding CI to Siteit](https://dev.to/tdaw/osd600-adding-ci-to-siteit-c71)
-- [top 10 tips for problem-solving](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
 <!-- BLOG-POST-LIST:END -->
 
