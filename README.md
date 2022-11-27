@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn CSS layouts by example - Flex &lpar;part 1&rpar;](https://dev.to/mohsenkamrani/learn-css-layouts-by-example-flex-part-1-4g62)
+- [4 Steps to Create Google Authentication API in Node.js](https://dev.to/shreyvijayvargiya/4-steps-to-create-google-authentication-api-in-nodejs-41d3)
 - [How to Delete Local and Remote Git Branches](https://dev.to/refine/how-to-delete-local-and-remote-git-branches-311f)
-- [7 Developer Portfolio for inspiration](https://dev.to/ruppysuppy/7-developer-portfolio-for-inspiration-4no7)
-- [Release 0.2 - PR #2](https://dev.to/aparris21/release-02-pr-2-1il2)
-- [How to make a to-do list using Javascript](https://dev.to/lensco825/how-to-make-a-to-do-list-using-javascript-23j0)
+- [GitHub Repositories : Part 1](https://dev.to/manthanank/github-repositories-part-1-5hb7)
 <!-- BLOG-POST-LIST:END -->
 
