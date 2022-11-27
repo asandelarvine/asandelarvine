@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [First P2E game on tableland &lpar;1&rpar;](https://dev.to/ponyjackal/first-p2e-game-on-tableland-1-2p8p)
 - [How I go with react native in late 2022](https://dev.to/sinasafari/how-i-go-with-react-native-in-late-2022-44gp)
 - [Use Preact in Next.js 13](https://dev.to/dephraiim/use-preact-in-nextjs-13-24pp)
 - [Bridge pattern in TypeScript](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
-- [Offline Terraform Provider](https://dev.to/rdamrong/offline-terraform-provider-2bgf)
 <!-- BLOG-POST-LIST:END -->
 
