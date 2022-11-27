@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como instalar y configurar tailwind usando PostCSS [Es]](https://dev.to/hectorenrique/como-instalar-y-configurar-tailwind-usando-postcss-es-1a1g)
 - [DIY: I&#39;ve built a music box for the 2nd x-mas of my son](https://dev.to/maximecheramy/diy-ive-built-a-music-box-for-the-2nd-x-mas-of-my-son-j03)
+- [10 study areas for the AWS Certified Advanced Networking – Specialty exam](https://dev.to/aws-builders/10-study-areas-for-the-aws-certified-advanced-networking-specialty-exam-2ijh)
 - [Getting Started with ActivityPub](https://dev.to/thasmin/getting-started-with-activitypub-2mgm)
-- [Create a launch template for an Auto Scaling group](https://dev.to/aws-builders/create-a-launch-template-for-an-auto-scaling-group-3b33)
-- [Setting up Your First React TypeScript Project From Scratch](https://dev.to/gethackteam/setting-up-your-first-react-typescript-project-from-scratch-23jf)
 <!-- BLOG-POST-LIST:END -->
 
