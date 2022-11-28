@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Michael Curry chose Wasp to build Grabbit: an internal tool for managing dev resources at StudentBeans](https://dev.to/wasp/how-michael-curry-chose-wasp-to-build-grabbit-an-internal-tool-for-managing-dev-resources-at-studentbeans-12dm)
+- [Discrepancy Problems in Google Analytics for Shopify Merchants](https://dev.to/gloriamaldonado/discrepancy-problems-in-google-analytics-for-shopify-merchants-291p)
+- [We All Need Good Feedback](https://dev.to/bekahhw/we-all-need-good-feedback-kgd)
 - [Creating Simple Authentication With Rio](https://dev.to/retterio/creating-simple-authentication-with-rio-33g7)
-- [Generate REQUEST bodies automatically to accelerate API debugging](https://dev.to/ismailkamil/generate-request-bodies-automatically-to-accelerate-debugging-4dl5)
-- [Free your mind and start creating useful automations with Znote 🤖](https://dev.to/alagrede/free-your-mind-and-start-creating-useful-automations-with-znote-27pc)
-- [NgFor Enhancement](https://dev.to/this-is-angular/ngfor-enhancement-28o7)
 <!-- BLOG-POST-LIST:END -->
 
