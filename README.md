@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Melhorando a acessibilidade das suas postagens nas redes sociais](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
+- [New Reduct Storage v1.1.0 with Token API](https://dev.to/reduct-storage/new-reduct-storage-v110-with-token-api-24j8)
+- [DPS909 Blog: Planning Issues to Fix](https://dev.to/alexsam29/dps909-blog-planning-issues-to-fix-446n)
 - [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
-- [Como instalar y configurar tailwind usando PostCSS [Es]](https://dev.to/hectorenrique/como-instalar-y-configurar-tailwind-usando-postcss-es-1a1g)
-- [DIY: I&#39;ve built a music box for the 2nd x-mas of my son](https://dev.to/maximecheramy/diy-ive-built-a-music-box-for-the-2nd-x-mas-of-my-son-j03)
-- [10 study areas for the AWS Certified Advanced Networking – Specialty exam](https://dev.to/aws-builders/10-study-areas-for-the-aws-certified-advanced-networking-specialty-exam-2ijh)
 <!-- BLOG-POST-LIST:END -->
 
