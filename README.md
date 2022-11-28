@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Text Search](https://dev.to/986913/text-search-3l53)
+- [No-code, Low-code, and Coding](https://dev.to/function12_io/no-code-low-code-and-coding-4112)
 - [Melhorando a acessibilidade das suas postagens nas redes sociais](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
 - [New Reduct Storage v1.1.0 with Token API](https://dev.to/reduct-storage/new-reduct-storage-v110-with-token-api-24j8)
-- [DPS909 Blog: Planning Issues to Fix](https://dev.to/alexsam29/dps909-blog-planning-issues-to-fix-446n)
-- [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
 <!-- BLOG-POST-LIST:END -->
 
