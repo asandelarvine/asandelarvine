@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Secret Manager for Configuration in .NET](https://dev.to/gkarwchan/using-secret-manager-for-configuration-in-net-2pi2)
 - [The 38 Books Recommended to Me in the Past Few Months](https://dev.to/rockykev/the-38-books-recommended-to-me-in-the-past-few-months-1d35)
 - [Text Search](https://dev.to/986913/text-search-3l53)
 - [No-code, Low-code, and Coding](https://dev.to/function12_io/no-code-low-code-and-coding-4112)
-- [Melhorando a acessibilidade das suas postagens nas redes sociais](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
 <!-- BLOG-POST-LIST:END -->
 
