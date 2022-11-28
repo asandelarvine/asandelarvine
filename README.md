@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [November 28, 2022: FLiP Stack Weekly](https://dev.to/tspannhw/november-28-2022-flip-stack-weekly-4k0l)
+- [An interesting process of solving an issue](https://dev.to/justlorain/an-interesting-process-of-solving-an-issue-5024)
 - [A Comprehensive Guide to MACH Architecture in 2023](https://dev.to/ninetailed/a-comprehensive-guide-to-mach-architecture-in-2023-4al5)
 - [Why your GitHub profile should stand out?](https://dev.to/shubhicodes/why-your-github-profile-should-stand-out-20p3)
-- [Advanced web font optimization techniques](https://dev.to/alex_barashkov/advanced-web-font-optimization-techniques-2n1f)
 <!-- BLOG-POST-LIST:END -->
 
