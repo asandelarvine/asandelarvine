@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NEW Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/new-personal-portfolio-website-using-html-css-javascript-k83)
-- [How Top 17 New Technology Trends for 2022 Saved My Life](https://dev.to/makendrang/how-top-17-new-technology-trends-for-2022-saved-my-life-gik)
-- [Hertz how to use Opentelemetry for beginners](https://dev.to/kinggo/hertz-how-to-use-opentelemetry-for-beginners-25pd)
-- [How Michael Curry chose Wasp to build Grabbit: an internal tool for managing dev resources at StudentBeans](https://dev.to/wasp/how-michael-curry-chose-wasp-to-build-grabbit-an-internal-tool-for-managing-dev-resources-at-studentbeans-12dm)
+- [Music Monday — What are you listening to? &lpar;Rock Edition 🤘&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-rock-edition--30ce)
+- [How to expand dynamically angular material panel](https://dev.to/codever/how-to-expand-dynamically-angular-material-panel-136f)
+- [Style your Angular website faster with Stylify CSS](https://dev.to/machy8/style-your-angular-website-faster-with-stylify-css-2i6p)
+- [QuestDB 6.6 - Dynamic Commits](https://dev.to/nicquestdb/questdb-66-dynamic-commits-1ch8)
 <!-- BLOG-POST-LIST:END -->
 
