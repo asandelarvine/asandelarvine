@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Rock Edition 🤘&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-rock-edition--30ce)
-- [How to expand dynamically angular material panel](https://dev.to/codever/how-to-expand-dynamically-angular-material-panel-136f)
-- [Style your Angular website faster with Stylify CSS](https://dev.to/machy8/style-your-angular-website-faster-with-stylify-css-2i6p)
-- [QuestDB 6.6 - Dynamic Commits](https://dev.to/nicquestdb/questdb-66-dynamic-commits-1ch8)
+- [November 28, 2022: FLiP Stack Weekly](https://dev.to/tspannhw/november-28-2022-flip-stack-weekly-4k0l)
+- [A Comprehensive Guide to MACH Architecture in 2023](https://dev.to/ninetailed/a-comprehensive-guide-to-mach-architecture-in-2023-4al5)
+- [Why your GitHub profile should stand out?](https://dev.to/shubhicodes/why-your-github-profile-should-stand-out-20p3)
+- [Advanced web font optimization techniques](https://dev.to/alex_barashkov/advanced-web-font-optimization-techniques-2n1f)
 <!-- BLOG-POST-LIST:END -->
 
