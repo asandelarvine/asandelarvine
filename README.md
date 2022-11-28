@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding comments to my Astro blog with PlanetScale &amp; Prisma on Vercel Edge](https://dev.to/thomasledoux1/adding-comments-to-my-astro-blog-with-planetscale-prisma-on-vercel-edge-1a3j)
+- [Can you compare GraphQL and tRPC?](https://dev.to/gethackteam/can-you-compare-graphql-and-trpc-3lpn)
+- [RecyclerView pagination scroll listener in Android](https://dev.to/mohitrajput987/recyclerview-pagination-scroll-listener-in-android-69a)
 - [November 28, 2022: FLiP Stack Weekly](https://dev.to/tspannhw/november-28-2022-flip-stack-weekly-4k0l)
-- [An interesting process of solving an issue](https://dev.to/justlorain/an-interesting-process-of-solving-an-issue-5024)
-- [A Comprehensive Guide to MACH Architecture in 2023](https://dev.to/ninetailed/a-comprehensive-guide-to-mach-architecture-in-2023-4al5)
-- [Why your GitHub profile should stand out?](https://dev.to/shubhicodes/why-your-github-profile-should-stand-out-20p3)
 <!-- BLOG-POST-LIST:END -->
 
