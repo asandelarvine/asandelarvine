@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Shell Protocol – Everything you need to know](https://dev.to/me_jessicahowe/secure-shell-protocol-everything-you-need-to-know-5g5j)
+- [ngStyle in Angular for Dynamic styling](https://dev.to/ifourtechnolab/ngstyle-in-angular-for-dynamic-styling-2jlc)
+- [73-Nodejs Course 2023: Break IV: Refactoring Http Module](https://dev.to/hassanzohdy/73-nodejs-course-2023-break-iv-refactoring-http-module-40b8)
 - [DynamoDB and its Control Pane Operations - 1](https://dev.to/aws-builders/dynamodb-and-its-control-pane-operations-1-36bk)
-- [Using Secret Manager for Configuration in .NET](https://dev.to/gkarwchan/using-secret-manager-for-configuration-in-net-2pi2)
-- [The 38 Books Recommended to Me in the Past Few Months](https://dev.to/rockykev/the-38-books-recommended-to-me-in-the-past-few-months-1d35)
-- [Text Search](https://dev.to/986913/text-search-3l53)
 <!-- BLOG-POST-LIST:END -->
 
