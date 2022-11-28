@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Simple Authentication With Rio](https://dev.to/retterio/creating-simple-authentication-with-rio-33g7)
+- [Generate REQUEST bodies automatically to accelerate API debugging](https://dev.to/ismailkamil/generate-request-bodies-automatically-to-accelerate-debugging-4dl5)
+- [Free your mind and start creating useful automations with Znote 🤖](https://dev.to/alagrede/free-your-mind-and-start-creating-useful-automations-with-znote-27pc)
 - [NgFor Enhancement](https://dev.to/this-is-angular/ngfor-enhancement-28o7)
-- [Solid Start auth – the secure way &lpar;with BCrypt &amp; PSQL&rpar;](https://dev.to/aneshodza/solid-start-auth-the-secure-way-with-bcrypt-psql-52ap)
-- [30 Free and Premium Web Tools For Designers and Developers](https://dev.to/mikedick/30-free-and-premium-web-tools-for-designers-and-developers-1083)
-- [How to access filtered elements in angular pipe](https://dev.to/codever/how-to-access-filtered-elements-in-angular-pipe-af0)
 <!-- BLOG-POST-LIST:END -->
 
