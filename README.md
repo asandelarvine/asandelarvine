@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is your favorite way to learn?](https://dev.to/missamarakay/what-is-your-favorite-way-to-learn-3h2g)
 - [Planning: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
 - [Introduction to Lexers, Parsers and Interpreters with Chevrotain](https://dev.to/codingwithadam/introduction-to-lexers-parsers-and-interpreters-with-chevrotain-5c7b)
 - [Meme Monday 😬](https://dev.to/ben/meme-monday-537h)
-- [Cleaning Data: wrangling data for a SageMaker pipeline](https://dev.to/devsatasurion/cleaning-data-jf)
 <!-- BLOG-POST-LIST:END -->
 
