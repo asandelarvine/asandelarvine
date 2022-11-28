@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday 😬](https://dev.to/ben/meme-monday-537h)
 - [Adding comments to my Astro blog with PlanetScale &amp; Prisma on Vercel Edge](https://dev.to/thomasledoux1/adding-comments-to-my-astro-blog-with-planetscale-prisma-on-vercel-edge-1a3j)
 - [Can you compare GraphQL and tRPC?](https://dev.to/gethackteam/can-you-compare-graphql-and-trpc-3lpn)
 - [RecyclerView pagination scroll listener in Android](https://dev.to/mohitrajput987/recyclerview-pagination-scroll-listener-in-android-69a)
-- [November 28, 2022: FLiP Stack Weekly](https://dev.to/tspannhw/november-28-2022-flip-stack-weekly-4k0l)
 <!-- BLOG-POST-LIST:END -->
 
