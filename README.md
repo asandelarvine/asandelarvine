@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What is your favorite way to learn?](https://dev.to/missamarakay/what-is-your-favorite-way-to-learn-3h2g)
+- [Applied Data Science: Serverless functions, pipelines, and PySpark](https://dev.to/educative/applied-data-science-serverless-functions-pipelines-and-pyspark-4afi)
 - [Planning: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
-- [Introduction to Lexers, Parsers and Interpreters with Chevrotain](https://dev.to/codingwithadam/introduction-to-lexers-parsers-and-interpreters-with-chevrotain-5c7b)
-- [Meme Monday 😬](https://dev.to/ben/meme-monday-537h)
+- [Open Source Development Courses](https://dev.to/szabgab/open-source-development-courses-5d4b)
 <!-- BLOG-POST-LIST:END -->
 
