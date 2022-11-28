@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to access filtered elements in angular pipe](https://dev.to/codever/how-to-access-filtered-elements-in-angular-pipe-af0)
+- [REST API vs GraphQL](https://dev.to/documatic/rest-api-vs-graphql-1a0n)
 - [The illusion of speed – why perceived performance matters](https://dev.to/enterspeed/the-illusion-of-speed-why-perceived-performance-matters-f38)
-- [WebRTC 102: Understanding libWebrtc](https://dev.to/rishit/webrtc-102-1-understanding-libwebrtc-1g1e)
-- [Reflecting on my Path: What becoming a Toastmaster meant for me](https://dev.to/dvddpl/reflecting-on-my-path-what-becoming-a-toastmaster-meant-for-me-eof)
-- [10-JS/TS OOP: Level Two: OOP Principles](https://dev.to/hassanzohdy/10-jsts-oop-level-two-oop-principles-4hon)
+- [How to write README files like a pro](https://dev.to/grski/readme-file-structure-and-sections-pm8)
 <!-- BLOG-POST-LIST:END -->
 
