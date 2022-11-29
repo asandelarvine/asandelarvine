@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Async Task Runner with Concurrency in JavaScript](https://dev.to/officialbidisha/creating-async-task-runner-with-concurrency-in-javascript-49j9)
+- [Auto-magically generate sequence diagrams of your code&#39;s runtime behavior](https://dev.to/appmap/auto-magically-generate-sequence-diagrams-of-your-codes-runtime-behavior-597a)
+- [Make PRs the BEST PART of Programming](https://dev.to/devsatasurion/make-prs-the-best-part-of-programming-1l95)
 - [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p)
-- [Send and Request Data With Webhooks With AI Studio](https://dev.to/mbcrump/send-and-request-data-with-webhooks-with-ai-studio-156a)
-- [Docker Pune Nov 2022 meet-up](https://dev.to/docker/docker-pune-nov-2022-meet-up-2671)
-- [Kubernetes Labels: Expert Guide with 10 Best Practices](https://dev.to/castai/kubernetes-labels-expert-guide-with-10-best-practices-3l03)
 <!-- BLOG-POST-LIST:END -->
 
