@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Send and Request Data With Webhooks With AI Studio](https://dev.to/mbcrump/send-and-request-data-with-webhooks-with-ai-studio-156a)
+- [Docker Pune Nov 2022 meet-up](https://dev.to/docker/docker-pune-nov-2022-meet-up-2671)
+- [Kubernetes Labels: Expert Guide with 10 Best Practices](https://dev.to/castai/kubernetes-labels-expert-guide-with-10-best-practices-3l03)
 - [Announcing NgRx v15: Standalone APIs, Type-safe projectors, Component and ComponentStore updates, and more!](https://dev.to/ngrx/announcing-ngrx-v15-standalone-apis-type-safe-projectors-component-and-componentstore-updates-and-more-l7)
-- [About My Digital Garden](https://dev.to/abbeyperini/about-my-digital-garden-2o4h)
-- [You are writing tests wrong](https://dev.to/documatic/you-are-writing-tests-wrong-hln)
-- [The 2023 open source maintainer survey aims to share the state of open source today](https://dev.to/tidelift/the-2023-open-source-maintainer-survey-aims-to-share-the-state-of-open-source-today-5apk)
 <!-- BLOG-POST-LIST:END -->
 
