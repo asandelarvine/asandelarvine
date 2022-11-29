@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Zero to SaaS - Bookmarksy.io Working around Twitter API Limitations](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-working-around-twitter-api-limitations-55p8)
+- [SPVM 0.9663 is released](https://dev.to/yukikimoto/spvm-09663-is-released-3o8n)
 - [Eleventy vs Next.js](https://dev.to/cloudcannon/eleventy-vs-nextjs-30i8)
 - [An Honest Opinion About My Blog.](https://dev.to/elliot_brenyasarfo_18749/an-honest-opinion-about-my-blog-hkd)
-- [Transcribe any podcast in 1 minute with serverless Python](https://dev.to/thundergolfer/transcribe-any-podcast-in-1-minute-with-serverless-python-13pd)
 <!-- BLOG-POST-LIST:END -->
 
