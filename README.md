@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Variables and Primitive Data Types in Rust](https://dev.to/vaultree/variables-and-primitive-data-types-in-rust-25de)
-- [Rest api to upload images in Go](https://dev.to/mavensingh/rest-api-to-upload-images-in-go-1g21)
-- [Tailwind CSS tutorial #22: Line Height](https://dev.to/shubhicodes/tailwind-css-tutorial-22-line-height-3k53)
-- [How to create a 3D snake game with Javascript &lpar;attached source code and game link&rpar;](https://dev.to/hightopo/how-to-create-a-3d-snake-game-with-javascript-attached-source-code-and-game-link-3bci)
+- [Custom Dropdown with HTML,CSS and JS](https://dev.to/shubhamtiwari909/custom-dropdown-with-htmlcss-and-js-20oc)
+- [Symbiosis: The cloud platform for Kubernetes](https://dev.to/styren/symbiosis-the-cloud-platform-for-kubernetes-50f4)
+- [SpringOne TLV World Tour Trip Report](https://dev.to/codenameone/springone-tlv-world-tour-trip-report-2821)
+- [A Fascinating Behind-the-Scenes Look at How I Built a Harness CI Pipeline](https://dev.to/makendrang/a-fascinating-behind-the-scenes-look-at-how-i-built-a-harness-ci-pipeline-3d6b)
 <!-- BLOG-POST-LIST:END -->
 
