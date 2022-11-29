@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping With Java](https://dev.to/oxylabs-io/web-scraping-with-java-1ca2)
+- [Next.js is a backend framework](https://dev.to/zenstack/nextjs-is-a-backend-framework-1mb9)
 - [Custom Dropdown with HTML,CSS and JS](https://dev.to/shubhamtiwari909/custom-dropdown-with-htmlcss-and-js-20oc)
 - [Symbiosis: The cloud platform for Kubernetes](https://dev.to/styren/symbiosis-the-cloud-platform-for-kubernetes-50f4)
-- [SpringOne TLV World Tour Trip Report](https://dev.to/codenameone/springone-tlv-world-tour-trip-report-2821)
-- [A Fascinating Behind-the-Scenes Look at How I Built a Harness CI Pipeline](https://dev.to/makendrang/a-fascinating-behind-the-scenes-look-at-how-i-built-a-harness-ci-pipeline-3d6b)
 <!-- BLOG-POST-LIST:END -->
 
