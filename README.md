@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Variables and Primitive Data Types in Rust](https://dev.to/vaultree/variables-and-primitive-data-types-in-rust-25de)
+- [Rest api to upload images in Go](https://dev.to/mavensingh/rest-api-to-upload-images-in-go-1g21)
 - [Tailwind CSS tutorial #22: Line Height](https://dev.to/shubhicodes/tailwind-css-tutorial-22-line-height-3k53)
 - [How to create a 3D snake game with Javascript &lpar;attached source code and game link&rpar;](https://dev.to/hightopo/how-to-create-a-3d-snake-game-with-javascript-attached-source-code-and-game-link-3bci)
-- [Ref vs Out C#: Which is the Better Choice when?](https://dev.to/bytehide/ref-vs-out-c-which-is-the-better-choice-when-1p50)
-- [React Soft Dashboard - FullStack &amp; Live Deploy](https://dev.to/sm0ke/react-soft-dashboard-fullstack-live-deploy-53fd)
 <!-- BLOG-POST-LIST:END -->
 
