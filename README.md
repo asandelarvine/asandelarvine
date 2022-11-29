@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up your GitHub Repository for Open Source Development](https://dev.to/zt4ff_1/setting-up-your-github-repository-for-open-source-development-43ce)
 - [Creating Async Task Runner with Concurrency in JavaScript](https://dev.to/officialbidisha/creating-async-task-runner-with-concurrency-in-javascript-49j9)
 - [Auto-magically generate sequence diagrams of your code&#39;s runtime behavior](https://dev.to/appmap/auto-magically-generate-sequence-diagrams-of-your-codes-runtime-behavior-597a)
 - [Make PRs the BEST PART of Programming](https://dev.to/devsatasurion/make-prs-the-best-part-of-programming-1l95)
-- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p)
 <!-- BLOG-POST-LIST:END -->
 
