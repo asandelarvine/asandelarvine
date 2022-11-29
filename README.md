@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS tutorial #22: Line Height](https://dev.to/shubhicodes/tailwind-css-tutorial-22-line-height-3k53)
 - [How to create a 3D snake game with Javascript &lpar;attached source code and game link&rpar;](https://dev.to/hightopo/how-to-create-a-3d-snake-game-with-javascript-attached-source-code-and-game-link-3bci)
 - [Ref vs Out C#: Which is the Better Choice when?](https://dev.to/bytehide/ref-vs-out-c-which-is-the-better-choice-when-1p50)
 - [React Soft Dashboard - FullStack &amp; Live Deploy](https://dev.to/sm0ke/react-soft-dashboard-fullstack-live-deploy-53fd)
-- [Build a Task Assignment App with Twilio Whatsapp, Strapi, and Next.js](https://dev.to/ravgeetdhillon/build-a-task-assignment-app-with-twilio-whatsapp-strapi-and-nextjs-f5d)
 <!-- BLOG-POST-LIST:END -->
 
