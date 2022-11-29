@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2023 open source maintainer survey aims to share the state of open source today](https://dev.to/tidelift/the-2023-open-source-maintainer-survey-aims-to-share-the-state-of-open-source-today-5apk)
 - [How to Migrate your React Project to TypeScript](https://dev.to/deepgram/career-goal-setting-1mbg)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-23oi)
 - [How to use Material UI Tooltip](https://dev.to/refine/how-to-use-material-ui-tooltip-3f99)
-- [JavaScript Explained in Plain English: A Beginner&#39;s Guide to Getting Started](https://dev.to/evansifyke/javascript-explained-in-plain-english-a-beginners-guide-to-getting-started-g17)
 <!-- BLOG-POST-LIST:END -->
 
