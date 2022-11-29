@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 JavaScript Concepts You Should Be Familiar With As a Developer](https://dev.to/vivaluv/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-3oc0)
+- [Lib to create docs in NextJS projects](https://dev.to/hernandemonteiro/lib-to-create-docs-in-nextjs-projects-e71)
 - [Zero to SaaS - Bookmarksy.io Working around Twitter API Limitations](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-working-around-twitter-api-limitations-55p8)
 - [SPVM 0.9663 is released](https://dev.to/yukikimoto/spvm-09663-is-released-3o8n)
-- [Eleventy vs Next.js](https://dev.to/cloudcannon/eleventy-vs-nextjs-30i8)
-- [An Honest Opinion About My Blog.](https://dev.to/elliot_brenyasarfo_18749/an-honest-opinion-about-my-blog-hkd)
 <!-- BLOG-POST-LIST:END -->
 
