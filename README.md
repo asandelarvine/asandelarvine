@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Task Assignment App with Twilio Whatsapp, Strapi, and Next.js](https://dev.to/ravgeetdhillon/build-a-task-assignment-app-with-twilio-whatsapp-strapi-and-nextjs-f5d)
 - [Storybook - Additional integrations](https://dev.to/dailydevtips1/storybook-additional-integrations-5ac1)
 - [What is an API?](https://dev.to/mitchiemt11/what-is-an-api-3ij3)
 - [How to save costs using AWS Lambda SnapStart for Java based functions](https://dev.to/aws-builders/how-to-safe-costs-using-aws-lambda-snapstart-for-java-based-functions-2afo)
-- [Pointers in C Programming](https://dev.to/programmershahjalal/pointers-in-c-programming-1e3e)
 <!-- BLOG-POST-LIST:END -->
 
