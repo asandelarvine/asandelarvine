@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is your favorite way to learn?](https://dev.to/missamarakay/what-is-your-favorite-way-to-learn-3h2g)
-- [Applied Data Science: Serverless functions, pipelines, and PySpark](https://dev.to/educative/applied-data-science-serverless-functions-pipelines-and-pyspark-4afi)
-- [Planning: Enhancing a Slack Bot to Announce Sign-Ups](https://dev.to/tdaw/plan-enhance-a-slack-bot-to-announce-sign-ups-58c2)
-- [Open Source Development Courses](https://dev.to/szabgab/open-source-development-courses-5d4b)
+- [Zero to SaaS - Bookmarksy.io Working around Twitter API Limitations](https://dev.to/brandonkylebailey/zero-to-saas-bookmarksyio-working-around-twitter-api-limitations-55p8)
+- [Eleventy vs Next.js](https://dev.to/cloudcannon/eleventy-vs-nextjs-30i8)
+- [An Honest Opinion About My Blog.](https://dev.to/elliot_brenyasarfo_18749/an-honest-opinion-about-my-blog-hkd)
+- [Transcribe any podcast in 1 minute with serverless Python](https://dev.to/thundergolfer/transcribe-any-podcast-in-1-minute-with-serverless-python-13pd)
 <!-- BLOG-POST-LIST:END -->
 
