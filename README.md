@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Most Popular Backend Frameworks for Web Development &lpar;2023&rpar; 🏅](https://dev.to/karanjrawal/5-most-popular-backend-frameworks-for-web-development-2023-2o45)
+- [Classic scripts vs module scripts in JavaScript](https://dev.to/hadeelwadia/classic-scripts-vs-module-scripts-in-javascript-143k)
+- [5 CSS Card Design Ideas!](https://dev.to/youngmamba/5-css-card-design-ideas-4g5b)
 - [Scala Interview Questions For Freshers &amp; Experienced](https://dev.to/satyam_prg/scala-interview-questions-for-freshers-experienced-4ob8)
-- [Linux - View and Edit File Permissions.](https://dev.to/jtoscani/linux-view-and-edit-file-permissions-450j)
-- [Dev meme so fun.](https://dev.to/vietcuong0508/dev-meme-so-fun-7h2)
 <!-- BLOG-POST-LIST:END -->
 
