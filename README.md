@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda support Node.js 18 now. Should we update the version of Node.js in the Lambda runtime?](https://dev.to/aws-builders/aws-lambda-support-nodejs-18-now-should-we-update-the-version-of-nodejs-in-the-lambda-runtime-1ko7)
 - [🤖 Latest IT Open Positions - Week #48 of 2022](https://dev.to/shman/latest-it-open-positions-week-48-of-2022-gp0)
 - [🤖 Fresh IT Vacancies - Week #47 of 2022](https://dev.to/shman/fresh-it-vacancies-week-47-of-2022-9jo)
-- [How to Build a Basic CRUD App with NextJS, TS, React, Redux-Tookit and MUI5 Components](https://dev.to/czetsuya/httpswwwczetsuyatechcom202201react-build-basic-crud-app-with-nextts-redux-toolkit-and-mui5html-5e0f)
-- [A no-code platform for everyone](https://dev.to/mohsenkamrani/a-no-code-platform-for-everyone-8ka)
+- [Tenancy pattern in a SaaS product](https://dev.to/grski/tenancy-pattern-in-a-saas-product-2ea0)
 <!-- BLOG-POST-LIST:END -->
 
