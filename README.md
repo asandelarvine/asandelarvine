@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Permissions &lpar;access control&rpar; in web apps](https://dev.to/wasp/permissions-access-control-in-web-apps-j6b)
+- [Deploy a Documentation Website for a Java Library Using GitHub Actions](https://dev.to/cicirello/deploy-a-documentation-website-for-a-java-library-using-github-actions-197n)
 - [Web resource caching: Client-side](https://dev.to/apisix/web-resource-caching-client-side-1jak)
 - [Build a durable pub-sub with Kafka in Node.js](https://dev.to/logrocket/build-a-durable-pub-sub-with-kafka-in-nodejs-43e5)
-- [React Material Tailwind - Beginners’ Guide and Free Sample](https://dev.to/sm0ke/react-material-tailwind-beginners-guide-and-free-sample-5eh7)
-- [The model code gap](https://dev.to/icepanel/the-model-code-gap-4m64)
 <!-- BLOG-POST-LIST:END -->
 
