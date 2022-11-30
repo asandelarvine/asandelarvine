@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Permissions &lpar;access control&rpar; in web apps](https://dev.to/wasp/permissions-access-control-in-web-apps-j6b)
+- [Building a full-stack TypeScript application with Turborepo](https://dev.to/logrocket/building-a-full-stack-typescript-application-with-turborepo-470h)
 - [Deploy a Documentation Website for a Java Library Using GitHub Actions](https://dev.to/cicirello/deploy-a-documentation-website-for-a-java-library-using-github-actions-197n)
 - [Web resource caching: Client-side](https://dev.to/apisix/web-resource-caching-client-side-1jak)
-- [Build a durable pub-sub with Kafka in Node.js](https://dev.to/logrocket/build-a-durable-pub-sub-with-kafka-in-nodejs-43e5)
 <!-- BLOG-POST-LIST:END -->
 
