@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Material Tailwind - Beginners’ Guide and Free Sample](https://dev.to/sm0ke/react-material-tailwind-beginners-guide-and-free-sample-5eh7)
+- [The model code gap](https://dev.to/icepanel/the-model-code-gap-4m64)
+- [Welcome Thread - v202](https://dev.to/thepracticaldev/welcome-thread-v202-j0i)
 - [Top 5 Python Algorithm Github Repositories](https://dev.to/mavensingh/top-5-python-algorithm-github-repositories-294b)
-- [2022 Advent Code Challenges](https://dev.to/jarvisscript/2022-advent-code-challenges-5445)
-- [7 tips to improve your coding skills](https://dev.to/roy8/7-tips-to-improve-your-coding-skills-9a1)
-- [You Can Help Too! &lpar;+20K Developers Already Accepted The Change&rpar;🐹](https://dev.to/bytehide/you-can-help-too-20k-developers-already-accepted-the-change-1pm)
 <!-- BLOG-POST-LIST:END -->
 
