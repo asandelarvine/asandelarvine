@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [firebase-9 with javascript &lpar;net-ninja&rpar; :](https://dev.to/akshdesai1/firebase-9-with-javascript-net-ninja--357e)
+- [Next portfolio - Filter by category](https://dev.to/dailydevtips1/next-portfolio-filter-by-category-kl6)
+- [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
 - [E2E Testing using TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
-- [Common mistakes that developers make on resumes](https://dev.to/codergirl1991/common-mistakes-that-developers-make-on-resumes-1d00)
-- [AWS Lambda support Node.js 18 now. Should we update the version of Node.js in the Lambda runtime?](https://dev.to/aws-builders/aws-lambda-support-nodejs-18-now-should-we-update-the-version-of-nodejs-in-the-lambda-runtime-1ko7)
-- [🤖 Latest IT Open Positions - Week #48 of 2022](https://dev.to/shman/latest-it-open-positions-week-48-of-2022-gp0)
 <!-- BLOG-POST-LIST:END -->
 
