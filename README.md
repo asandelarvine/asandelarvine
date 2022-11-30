@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scala Interview Questions For Freshers &amp; Experienced](https://dev.to/satyam_prg/scala-interview-questions-for-freshers-experienced-4ob8)
+- [Dev meme so fun.](https://dev.to/vietcuong0508/dev-meme-so-fun-7h2)
+- [How to build a docs site with Next.js and Contentlayer](https://dev.to/sabigara/how-to-build-a-docs-site-with-nextjs-and-contentlayer-4lm9)
 - [firebase-9 with javascript &lpar;net-ninja&rpar; :](https://dev.to/akshdesai1/firebase-9-with-javascript-net-ninja--357e)
-- [Next portfolio - Filter by category](https://dev.to/dailydevtips1/next-portfolio-filter-by-category-kl6)
-- [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
-- [E2E Testing using TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
 <!-- BLOG-POST-LIST:END -->
 
