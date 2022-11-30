@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #126: Perf, Progressive Enhancement, Remix, Storybook, React-Native, FlashList, Nitro, TC39...](https://dev.to/sebastienlorber/this-week-in-react-126-perf-progressive-enhancement-remix-storybook-react-native-flashlist-nitro-tc39-4k7b)
+- [How to involve your customers in Cypress Testing?](https://dev.to/simosleepwalker/how-to-involve-your-customers-in-cypress-testing-576g)
+- [You are Wrong. Frameworks Do Matter in Tech Jobs](https://dev.to/mohammadfaisal/you-are-wrong-frameworks-do-matter-in-tech-jobs-2mhl)
 - [5 Most Popular Backend Frameworks for Web Development &lpar;2023&rpar; 🏅](https://dev.to/karanjrawal/5-most-popular-backend-frameworks-for-web-development-2023-2o45)
-- [Classic scripts vs module scripts in JavaScript](https://dev.to/hadeelwadia/classic-scripts-vs-module-scripts-in-javascript-143k)
-- [5 CSS Card Design Ideas!](https://dev.to/youngmamba/5-css-card-design-ideas-4g5b)
-- [Scala Interview Questions For Freshers &amp; Experienced](https://dev.to/satyam_prg/scala-interview-questions-for-freshers-experienced-4ob8)
 <!-- BLOG-POST-LIST:END -->
 
