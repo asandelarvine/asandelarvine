@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Samples of Using KMMBridge](https://dev.to/touchlab/samples-of-using-kmmbridge-4bha)
+- [First step in management](https://dev.to/damcosset/first-step-in-management-1cfo)
 - [Permissions &lpar;access control&rpar; in web apps](https://dev.to/wasp/permissions-access-control-in-web-apps-j6b)
 - [Building a full-stack TypeScript application with Turborepo](https://dev.to/logrocket/building-a-full-stack-typescript-application-with-turborepo-470h)
-- [Deploy a Documentation Website for a Java Library Using GitHub Actions](https://dev.to/cicirello/deploy-a-documentation-website-for-a-java-library-using-github-actions-197n)
-- [Web resource caching: Client-side](https://dev.to/apisix/web-resource-caching-client-side-1jak)
 <!-- BLOG-POST-LIST:END -->
 
