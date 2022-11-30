@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NLP Communities for Data Professionals to Join](https://dev.to/neurotech_africa/nlp-communities-for-data-professionals-to-join-18do)
-- [Tailwind CSS tutorial #23: List Style Type](https://dev.to/shubhicodes/tailwind-css-tutorial-23-list-style-type-3l0e)
-- [UI Framework for Flutter. What should be included in?](https://dev.to/frezyx/ui-framework-for-flutter-what-should-be-included-in-3k38)
-- [Elasticsearch vs Splunk - Which tool to choose for Log Management?](https://dev.to/signoz/elasticsearch-vs-splunk-which-tool-to-choose-for-log-management-1e7o)
+- [Top 5 Python Algorithm Github Repositories](https://dev.to/mavensingh/top-5-python-algorithm-github-repositories-294b)
+- [2022 Advent Code Challenges](https://dev.to/jarvisscript/2022-advent-code-challenges-5445)
+- [7 tips to improve your coding skills](https://dev.to/roy8/7-tips-to-improve-your-coding-skills-9a1)
+- [You Can Help Too! &lpar;+20K Developers Already Accepted The Change&rpar;🐹](https://dev.to/bytehide/you-can-help-too-20k-developers-already-accepted-the-change-1pm)
 <!-- BLOG-POST-LIST:END -->
 
