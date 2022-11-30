@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web resource caching: Client-side](https://dev.to/apisix/web-resource-caching-client-side-1jak)
 - [React Material Tailwind - Beginners’ Guide and Free Sample](https://dev.to/sm0ke/react-material-tailwind-beginners-guide-and-free-sample-5eh7)
 - [The model code gap](https://dev.to/icepanel/the-model-code-gap-4m64)
 - [Welcome Thread - v202](https://dev.to/thepracticaldev/welcome-thread-v202-j0i)
-- [Top 5 Python Algorithm Github Repositories](https://dev.to/mavensingh/top-5-python-algorithm-github-repositories-294b)
 <!-- BLOG-POST-LIST:END -->
 
