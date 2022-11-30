@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [E2E Testing using TestCafe](https://dev.to/sagargi/e2e-testing-using-testcafe-17if)
+- [E2E Testing using TestCafe](https://dev.to/jankaritech/e2e-testing-using-testcafe-17if)
+- [Common mistakes that developers make on resumes](https://dev.to/codergirl1991/common-mistakes-that-developers-make-on-resumes-1d00)
 - [AWS Lambda support Node.js 18 now. Should we update the version of Node.js in the Lambda runtime?](https://dev.to/aws-builders/aws-lambda-support-nodejs-18-now-should-we-update-the-version-of-nodejs-in-the-lambda-runtime-1ko7)
 - [🤖 Latest IT Open Positions - Week #48 of 2022](https://dev.to/shman/latest-it-open-positions-week-48-of-2022-gp0)
-- [Developer Health: Tips for dealing with workplace anxieties and imposter syndrome](https://dev.to/codergirl1991/developer-health-tips-for-dealing-with-workplace-anxieties-and-imposter-syndrome-4i46)
 <!-- BLOG-POST-LIST:END -->
 
