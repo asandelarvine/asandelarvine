@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick VS Code tip: skip selections when using Ctrl|Cmd + D](https://dev.to/codepo8/quick-vs-code-tip-skip-selections-when-using-ctrlcmd-d-36me)
-- [Golang: Named Returns Are Useful!!!](https://dev.to/chaz8080/golang-named-returns-are-useful-38ne)
-- [Setting up your GitHub Repository for Open Source Development](https://dev.to/zt4ff_1/setting-up-your-github-repository-for-open-source-development-43ce)
-- [Node.js v19.2.0 Release](https://dev.to/ruyadorno/nodejs-v1920-release-d4)
+- [How to Build a Basic CRUD App with NextJS, TS, React, Redux-Tookit and MUI5 Components](https://dev.to/czetsuya/httpswwwczetsuyatechcom202201react-build-basic-crud-app-with-nextts-redux-toolkit-and-mui5html-5e0f)
+- [A no-code platform for everyone](https://dev.to/mohsenkamrani/a-no-code-platform-for-everyone-8ka)
+- [Build an Income tracker with NextJS using Cloudinary and Xata](https://dev.to/hackmamba/build-an-income-tracker-with-nextjs-using-cloudinary-and-xata-47ll)
+- [SurrealDB - We&#39;re hiring! 🚀](https://dev.to/jaimemh/surrealdb-were-hiring-5fgl)
 <!-- BLOG-POST-LIST:END -->
 
