@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Most Popular Backend Frameworks for Web Development &lpar;2023&rpar; 🏅](https://dev.to/karanjrawal/5-most-popular-backend-frameworks-for-web-development-2023-2o45)
 - [Scala Interview Questions For Freshers &amp; Experienced](https://dev.to/satyam_prg/scala-interview-questions-for-freshers-experienced-4ob8)
+- [Linux - View and Edit File Permissions.](https://dev.to/jtoscani/linux-view-and-edit-file-permissions-450j)
 - [Dev meme so fun.](https://dev.to/vietcuong0508/dev-meme-so-fun-7h2)
-- [How to build a docs site with Next.js and Contentlayer](https://dev.to/sabigara/how-to-build-a-docs-site-with-nextjs-and-contentlayer-4lm9)
-- [firebase-9 with javascript &lpar;net-ninja&rpar; :](https://dev.to/akshdesai1/firebase-9-with-javascript-net-ninja--357e)
 <!-- BLOG-POST-LIST:END -->
 
