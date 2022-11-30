@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #126: Perf, Progressive Enhancement, Remix, Storybook, React-Native, FlashList, Nitro, TC39...](https://dev.to/sebastienlorber/this-week-in-react-126-perf-progressive-enhancement-remix-storybook-react-native-flashlist-nitro-tc39-4k7b)
-- [How to involve your customers in Cypress Testing?](https://dev.to/simosleepwalker/how-to-involve-your-customers-in-cypress-testing-576g)
-- [You are Wrong. Frameworks Do Matter in Tech Jobs](https://dev.to/mohammadfaisal/you-are-wrong-frameworks-do-matter-in-tech-jobs-2mhl)
-- [5 Most Popular Backend Frameworks for Web Development &lpar;2023&rpar; 🏅](https://dev.to/karanjrawal/5-most-popular-backend-frameworks-for-web-development-2023-2o45)
+- [Tailwind CSS tutorial #23: List Style Type](https://dev.to/shubhicodes/tailwind-css-tutorial-23-list-style-type-3l0e)
+- [UI Framework for Flutter. What should be included in?](https://dev.to/frezyx/ui-framework-for-flutter-what-should-be-included-in-3k38)
+- [Elasticsearch vs Splunk - Which tool to choose for Log Management?](https://dev.to/signoz/elasticsearch-vs-splunk-which-tool-to-choose-for-log-management-1e7o)
+- [Goodbye Typescript, hello native typing for Javascript ✨](https://dev.to/christopherkade/goodbye-typescript-hello-native-typing-for-javascript-3ee1)
 <!-- BLOG-POST-LIST:END -->
 
