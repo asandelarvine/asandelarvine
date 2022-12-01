@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
 - [just 2 words: NPM i &lt;packageName&gt; --save](https://dev.to/bekbrace/just-2-words-npm-i-save-35be)
+- [The road to staff engineer](https://dev.to/heyjtk/the-road-to-staff-engineer-3keb)
 - [AWS re:Invent 2022 Crossworld](https://dev.to/aws-heroes/aws-reinvent-2022-crossworld-16c1)
-- [Opening Node developer tools just got easier](https://dev.to/codepo8/opening-node-developer-tools-just-got-easier-58ae)
 <!-- BLOG-POST-LIST:END -->
 
