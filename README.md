@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to protect Apps and APIs in Kubernetes from zero day attacks?](https://dev.to/openappsec/how-to-protect-apps-and-apis-in-kubernetes-from-zero-day-attacks-30k0)
+- [Web Accessibility Testing Explained for Product Owners](https://dev.to/alinaaksentseva/web-accessibility-testing-explained-for-product-owners-h0j)
+- [How To Locate Elements in Playwright](https://dev.to/playwright/how-to-locate-elements-in-playwright-2918)
 - [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
-- [just 2 words: NPM i &lt;packageName&gt; --save](https://dev.to/bekbrace/just-2-words-npm-i-save-35be)
-- [The road to staff engineer](https://dev.to/heyjtk/the-road-to-staff-engineer-3keb)
-- [AWS re:Invent 2022 Crossworld](https://dev.to/aws-heroes/aws-reinvent-2022-crossworld-16c1)
 <!-- BLOG-POST-LIST:END -->
 
