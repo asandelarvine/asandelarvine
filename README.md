@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
+- [just 2 words: NPM i &lt;packageName&gt; --save](https://dev.to/bekbrace/just-2-words-npm-i-save-35be)
 - [AWS re:Invent 2022 Crossworld](https://dev.to/aws-heroes/aws-reinvent-2022-crossworld-16c1)
-- [Monthly Twitter Challenge #2: Holiday ASCII Art ️ ️☃️](https://dev.to/codedex/monthly-twitter-challenge-holiday-ascii-art-lbl)
-- [9 Surprises using AWS EventBridge Scheduler](https://dev.to/kumo/9-surprises-using-aws-eventbridge-scheduler-13b6)
-- [A first look at Amazon CodeCatalyst – Managing your Cloud-Build &amp; Deployment infrastructure natively on AWS](https://dev.to/aws-builders/a-first-look-at-amazon-codecatalyst-managing-your-cloud-build-deployment-infrastructure-natively-on-aws-1mhb)
+- [Opening Node developer tools just got easier](https://dev.to/codepo8/opening-node-developer-tools-just-got-easier-58ae)
 <!-- BLOG-POST-LIST:END -->
 
