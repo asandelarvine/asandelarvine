@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Using Kubectl Logs | How to view Kubernetes Pod Logs?](https://dev.to/danielfavour/using-kubectl-logs-how-to-view-kubernetes-pod-logs-1op8)
 - [React forms: Formik and Yup intro](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
-- [Awesome time-saving tools for developers](https://dev.to/documatic/awesome-time-saving-tools-for-developers-1df5)
+- [Awesome time-saving tools for developers](https://dev.to/surajondev/awesome-time-saving-tools-for-developers-1df5)
 - [Microsoft .NET Maze: Understand .NET Core Vs .NET Framework Vs ASP.NET](https://dev.to/karanjrawal/microsoft-net-maze-understand-net-core-vs-net-framework-vs-aspnet-3h71)
 <!-- BLOG-POST-LIST:END -->
 
