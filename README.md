@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Text-To-Speech Serverless Application](https://dev.to/eelayoubi/aws-text-to-speech-serverless-application-n6f)
-- [Fun With Next.js 13 New Routing System](https://dev.to/zenstack/fun-with-nextjs-13-new-routing-system-5gmk)
-- [GitHub Actions: An Introduction](https://dev.to/ionos/github-actions-an-introduction-4leo)
-- [Day 1 - Jobless Worklogs is born!](https://dev.to/ranggakd/day-1-jobless-worklogs-is-born-25m7)
+- [Monthly Twitter Challenge #2: Holiday ASCII Art ️ ️☃️](https://dev.to/codedex/monthly-twitter-challenge-holiday-ascii-art-lbl)
+- [9 Surprises using AWS EventBridge Scheduler](https://dev.to/kumo/9-surprises-using-aws-eventbridge-scheduler-13b6)
+- [A first look at Amazon CodeCatalyst – Managing your Cloud-Build &amp; Deployment infrastructure natively on AWS](https://dev.to/aws-builders/a-first-look-at-amazon-codecatalyst-managing-your-cloud-build-deployment-infrastructure-natively-on-aws-1mhb)
+- [FAANG or Bust: My experience doing 4 software engineering internships at big tech companies](https://dev.to/ashih2018/faang-or-bust-my-experience-doing-four-software-engineering-internships-at-different-big-tech-companies-5eil)
 <!-- BLOG-POST-LIST:END -->
 
