@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Entry Level React Native Bugs That Might Frustrate Your Life [With Solutions]](https://dev.to/sparklesix/5-entry-level-react-native-bugs-that-might-frustrate-your-life-with-solutions-3abp)
 - [Detecting if the user is online with JavaScript](https://dev.to/dailydevtips1/detecting-if-the-user-is-online-with-javascript-58ne)
 - [7 Advent Calendars in 2022](https://dev.to/szabgab/advent-calendars-in-2022-1kic)
 - [How to use AWS Backup cross-account backup to copy and restore DynamoDB tables between AWS accounts](https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-and-restore-dynamodb-tables-between-aws-accounts-54fo)
-- [Writing a Technical Blog](https://dev.to/abbeyperini/writing-a-technical-blog-79o)
 <!-- BLOG-POST-LIST:END -->
 
