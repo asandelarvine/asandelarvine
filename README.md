@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn CSS layouts by example - Flexbox &lpar;part 2: gap/wrap&rpar;](https://dev.to/mohsenkamrani/learn-css-layouts-by-example-flexbox-part-2-gapwrap-4851)
-- [5 Entry Level React Native Bugs That Might Frustrate Your Life [With Solutions]](https://dev.to/sparklesix/5-entry-level-react-native-bugs-that-might-frustrate-your-life-with-solutions-3abp)
-- [Detecting if the user is online with JavaScript](https://dev.to/dailydevtips1/detecting-if-the-user-is-online-with-javascript-58ne)
-- [7 Advent Calendars in 2022](https://dev.to/szabgab/advent-calendars-in-2022-1kic)
+- [Spotify Wrapped 2022](https://dev.to/j471n/spotify-wrapped-2022-3i7a)
+- [SQL Join explained!](https://dev.to/daviducolo/sql-join-explained-45i3)
+- [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
+- [Understanding the Map, Filter &amp; Reduce Methods in JavaScript](https://dev.to/shreyvijayvargiya/understanding-the-map-filter-reduce-methods-in-javascript-1deo)
 <!-- BLOG-POST-LIST:END -->
 
