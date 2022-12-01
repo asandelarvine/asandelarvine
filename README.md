@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6+ React Development Tools for Productivity](https://dev.to/function12_io/top-6-react-development-tools-for-productivity-4d49)
+- [Makefiles can be helpful in your CI Workflow](https://dev.to/batunpc/makefiles-can-be-helpful-in-your-ci-workflow-36cl)
+- [🤖 ED-209 BOT is coming &lpar;for you&rpar;](https://dev.to/devops-heroes/ed-209-bot-is-coming-for-you-1gil)
 - [Samples of Using KMMBridge](https://dev.to/touchlab/samples-of-using-kmmbridge-4bha)
-- [First step in management](https://dev.to/damcosset/first-step-in-management-1cfo)
-- [Permissions &lpar;access control&rpar; in web apps](https://dev.to/wasp/permissions-access-control-in-web-apps-j6b)
-- [Building a full-stack TypeScript application with Turborepo](https://dev.to/logrocket/building-a-full-stack-typescript-application-with-turborepo-470h)
 <!-- BLOG-POST-LIST:END -->
 
