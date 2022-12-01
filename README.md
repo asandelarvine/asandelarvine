@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Gene Kim + The Rise and Fall of DevOps | Conversations from DevOps Enterprise Summit](https://dev.to/linearb/gene-kim-the-rise-and-fall-of-devops-conversations-from-devops-enterprise-summit-4klb)
+- [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 - [How to protect Apps and APIs in Kubernetes from zero day attacks?](https://dev.to/openappsec/how-to-protect-apps-and-apis-in-kubernetes-from-zero-day-attacks-30k0)
 - [Web Accessibility Testing Explained for Product Owners](https://dev.to/alinaaksentseva/web-accessibility-testing-explained-for-product-owners-h0j)
-- [How To Locate Elements in Playwright](https://dev.to/playwright/how-to-locate-elements-in-playwright-2918)
-- [5 ways to declare a function in JavaScript](https://dev.to/salmaab/5-ways-to-declare-a-function-in-javascript-5ehh)
 <!-- BLOG-POST-LIST:END -->
 
