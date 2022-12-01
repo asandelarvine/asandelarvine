@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Text-To-Speech Serverless Application](https://dev.to/eelayoubi/aws-text-to-speech-serverless-application-n6f)
+- [GitHub Actions: An Introduction](https://dev.to/ionos/github-actions-an-introduction-4leo)
 - [Using Kubectl Logs | How to view Kubernetes Pod Logs?](https://dev.to/danielfavour/using-kubectl-logs-how-to-view-kubernetes-pod-logs-1op8)
 - [LSM-tree storage in YugabyteDB and packed rows](https://dev.to/yugabyte/lsm-tree-storage-in-yugabytedb-and-packed-rows-3jm8)
-- [React forms: Formik and Yup intro](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
-- [Awesome time-saving tools for developers](https://dev.to/surajondev/awesome-time-saving-tools-for-developers-1df5)
 <!-- BLOG-POST-LIST:END -->
 
