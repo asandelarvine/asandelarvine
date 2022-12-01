@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use AWS Backup cross-account backup to copy and restore DynamoDB tables between AWS accounts](https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-and-restore-dynamodb-tables-between-aws-accounts-54fo)
+- [Writing a Technical Blog](https://dev.to/abbeyperini/writing-a-technical-blog-79o)
 - [Top 6+ React Development Tools for Productivity](https://dev.to/function12_io/top-6-react-development-tools-for-productivity-4d49)
 - [Makefiles can be helpful in your CI Workflow](https://dev.to/batunpc/makefiles-can-be-helpful-in-your-ci-workflow-36cl)
-- [🤖 ED-209 BOT is coming &lpar;for you&rpar;](https://dev.to/devops-heroes/ed-209-bot-is-coming-for-you-1gil)
 <!-- BLOG-POST-LIST:END -->
 
