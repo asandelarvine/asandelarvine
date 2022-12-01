@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify Wrapped 2022](https://dev.to/j471n/spotify-wrapped-2022-3i7a)
-- [SQL Join explained!](https://dev.to/daviducolo/sql-join-explained-45i3)
-- [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
-- [Understanding the Map, Filter &amp; Reduce Methods in JavaScript](https://dev.to/shreyvijayvargiya/understanding-the-map-filter-reduce-methods-in-javascript-1deo)
+- [React forms: Formik and Yup intro](https://dev.to/hi_iam_chris/react-forms-formik-and-yup-intro-154g)
+- [Awesome time-saving tools for developers](https://dev.to/documatic/awesome-time-saving-tools-for-developers-1df5)
+- [Microsoft .NET Maze: Understand .NET Core Vs .NET Framework Vs ASP.NET](https://dev.to/karanjrawal/microsoft-net-maze-understand-net-core-vs-net-framework-vs-aspnet-3h71)
+- [Serverless Spy Vs Spy Chapter 1: X-ray](https://dev.to/aws-builders/serverless-spy-vs-spy-chapter-1-x-ray-361h)
 <!-- BLOG-POST-LIST:END -->
 
