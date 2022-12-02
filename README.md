@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasp Beta brings major IDE improvements](https://dev.to/wasp/wasp-beta-brings-major-ide-improvements-2h7a)
 - [How to Handle Errors in Rust: A Comprehensive Guide](https://dev.to/nathan20/how-to-handle-errors-in-rust-a-comprehensive-guide-1cco)
+- [Follow Friday: DevOps Edition &lpar;2 December 2022&rpar;](https://dev.to/devteam/follow-friday-devops-edition-2-december-2022-4g37)
 - [Single Event Listener for all elements in JS](https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6)
-- [Git stash command](https://dev.to/refine/git-stash-command-5fj6)
-- [Tailwind CSS tutorial #25: Text Align](https://dev.to/shubhicodes/tailwind-css-tutorial-25-text-align-1emo)
 <!-- BLOG-POST-LIST:END -->
 
