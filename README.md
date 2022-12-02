@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How a former Adobe engineer unlocks his team’s creativity](https://dev.to/linearb/how-a-former-adobe-engineer-unlocks-his-teams-creativity-3p21)
+- [How to build a custom file input with tailwind css](https://dev.to/tailus/how-to-build-a-custom-file-input-with-tailwind-css-3mb6)
+- [Cook a recipe with AWS: Dynamo DB Table](https://dev.to/aws-builders/cook-a-recipe-with-aws-dynamo-db-table-1kn1)
 - [When can you declare yourself a Full-stack Dev?](https://dev.to/thomasbnt/when-can-you-declare-yourself-a-full-stack-dev-31j1)
-- [How to use variable inside variable in angular template?](https://dev.to/debanjant/how-to-use-variable-inside-variable-in-angular-template-569k)
-- [Scalable Job Queue in SQL &lpar;YugabyteDB&rpar;](https://dev.to/yugabyte/scalable-job-queue-in-sql-yugabytedb-4ma5)
-- [What is stopping you from learning C?](https://dev.to/yjdoc2/what-is-stopping-you-from-learning-c-272k)
 <!-- BLOG-POST-LIST:END -->
 
