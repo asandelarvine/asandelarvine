@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All Client SDKs were updated for Reduct Storage v1.1.0](https://dev.to/reduct-storage/all-client-sdks-were-updated-for-reduct-storage-v110-1f94)
+- [Stop Comparing JWT vs Cookies](https://dev.to/jerrynsh/stop-comparing-jwt-vs-cookies-31n5)
 - [Gene Kim + The Rise and Fall of DevOps | Conversations from DevOps Enterprise Summit](https://dev.to/linearb/gene-kim-the-rise-and-fall-of-devops-conversations-from-devops-enterprise-summit-4klb)
-- [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
-- [How to protect Apps and APIs in Kubernetes from zero day attacks?](https://dev.to/openappsec/how-to-protect-apps-and-apis-in-kubernetes-from-zero-day-attacks-30k0)
-- [Web Accessibility Testing Explained for Product Owners](https://dev.to/alinaaksentseva/web-accessibility-testing-explained-for-product-owners-h0j)
+- [Static Website Setup on Amazon Cloud using Cloudfront, S3, Route53 &amp; ACM for SSL.](https://dev.to/oayanda/static-website-setup-on-amazon-cloud-using-cloudfront-s3-route53-acm-for-ssl-44ij)
 <!-- BLOG-POST-LIST:END -->
 
