@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Custom Language Code Editor Using React](https://dev.to/kubeshop/creating-a-custom-language-code-editor-using-react-kg8)
 - [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-43fp)
 - [PagerDuty Community Weekly Update, December 2, 2022](https://dev.to/pdcommunity/pagerduty-community-weekly-update-december-2-2022-23f8)
-- [How a former Adobe engineer unlocks his team’s creativity](https://dev.to/linearb/how-a-former-adobe-engineer-unlocks-his-teams-creativity-3p21)
-- [ERROR - PYTHON](https://dev.to/karolinenunes/error-python-3o92)
+- [Writing Your Own Discord Bot](https://dev.to/blamb31/writing-your-own-discord-bot-1ddm)
 <!-- BLOG-POST-LIST:END -->
 
