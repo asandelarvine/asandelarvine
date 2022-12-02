@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pushing container images to GitHub Container Registry with GitHub Actions](https://dev.to/willvelida/pushing-container-images-to-github-container-registry-with-github-actions-1m6b)
-- [Progress with feature implementation](https://dev.to/ririio/progress-with-feature-implementation-4c0)
-- [Como mudar o idioma padrão do LinkedIn](https://dev.to/juniokoi/como-mudar-o-idioma-padrao-do-linkedin-n7m)
-- [All Client SDKs were updated for Reduct Storage v1.1.0](https://dev.to/reduct-storage/all-client-sdks-were-updated-for-reduct-storage-v110-1f94)
+- [How to Confidently Write Unit Tests using React Testing Library](https://dev.to/myogeshchavan97/how-to-confidently-write-unit-tests-using-react-testing-library-42de)
+- [10 games to learn JavaScript](https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j)
+- [Right way to compare double and float in Java?](https://dev.to/somadevtoo/right-way-to-compare-double-and-float-in-java-4k06)
+- [Building the Frontend of a Progressive Web App Using React](https://dev.to/batunpc/building-the-frontend-of-a-progressive-web-app-using-react-34nh)
 <!-- BLOG-POST-LIST:END -->
 
