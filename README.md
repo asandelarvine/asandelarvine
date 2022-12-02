@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A journey towards a type-safe GraphQL API server](https://dev.to/energiebespaarders/a-journey-towards-a-type-safe-graphql-api-server-52p8)
-- [Improving your CI/CD Pipeline: Helm Charts Security Scanning with Trivy and GitHub Actions](https://dev.to/aws-builders/improving-your-cicd-pipeline-helm-charts-security-scanning-with-trivy-and-github-actions-3315)
-- [Wasp Beta brings major IDE improvements](https://dev.to/wasp/wasp-beta-brings-major-ide-improvements-2h7a)
-- [How to Handle Errors in Rust: A Comprehensive Guide](https://dev.to/nathan20/how-to-handle-errors-in-rust-a-comprehensive-guide-1cco)
+- [When can you declare yourself a Full-stack Dev?](https://dev.to/thomasbnt/when-can-you-declare-yourself-a-full-stack-dev-31j1)
+- [How to use variable inside variable in angular template?](https://dev.to/debanjant/how-to-use-variable-inside-variable-in-angular-template-569k)
+- [Scalable Job Queue in SQL &lpar;YugabyteDB&rpar;](https://dev.to/yugabyte/scalable-job-queue-in-sql-yugabytedb-4ma5)
+- [What is stopping you from learning C?](https://dev.to/yjdoc2/what-is-stopping-you-from-learning-c-272k)
 <!-- BLOG-POST-LIST:END -->
 
