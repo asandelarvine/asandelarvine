@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Handle Errors in Rust: A Comprehensive Guide](https://dev.to/nathan20/how-to-handle-errors-in-rust-a-comprehensive-guide-1cco)
+- [Single Event Listener for all elements in JS](https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6)
 - [Git stash command](https://dev.to/refine/git-stash-command-5fj6)
-- [5 Top Node.js Streams Resources You Should Learn to Level Up Your Node.js Skills 🚀💯](https://dev.to/nodedoctors/5-top-nodejs-streams-resources-you-should-learn-to-level-up-your-nodejs-skills-3d88)
-- [How to Setup and Customize Tailwind in Nuxt.js](https://dev.to/ravgeetdhillon/how-to-setup-and-customize-tailwind-in-nuxtjs-ao8)
-- [Want to create attractive, interactive docs? Use these amazing documentation tools and examples](https://dev.to/robole/want-to-create-attractive-interactive-docs-use-these-amazing-documentation-tools-and-examples-562l)
+- [Tailwind CSS tutorial #25: Text Align](https://dev.to/shubhicodes/tailwind-css-tutorial-25-text-align-1emo)
 <!-- BLOG-POST-LIST:END -->
 
