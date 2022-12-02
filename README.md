@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [All Client SDKs were updated for Reduct Storage v1.1.0](https://dev.to/reduct-storage/all-client-sdks-were-updated-for-reduct-storage-v110-1f94)
 - [Stop Comparing JWT vs Cookies](https://dev.to/jerrynsh/stop-comparing-jwt-vs-cookies-31n5)
 - [Gene Kim + The Rise and Fall of DevOps | Conversations from DevOps Enterprise Summit](https://dev.to/linearb/gene-kim-the-rise-and-fall-of-devops-conversations-from-devops-enterprise-summit-4klb)
-- [Static Website Setup on Amazon Cloud using Cloudfront, S3, Route53 &amp; ACM for SSL.](https://dev.to/oayanda/static-website-setup-on-amazon-cloud-using-cloudfront-s3-route53-acm-for-ssl-44ij)
+- [Thankfulness 2022](https://dev.to/arleneandrews/thankfulness-2022-mmk)
 <!-- BLOG-POST-LIST:END -->
 
