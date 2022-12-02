@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Keep style input form in VanillaJS](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
+- [Media Queries in JS done right](https://dev.to/this-is-learning/media-queries-in-js-done-right-38bh)
+- [VeChain wallet for Dapps](https://dev.to/shreyvijayvargiya/vechain-wallet-for-dapps-3l8j)
 - [Overview of AWS Application Composer](https://dev.to/aws-builders/overview-of-aws-application-composer-3j34)
-- [Create Velocity Scroll Animation in React with Framer Motion](https://dev.to/leduc1901/create-velocity-scroll-animation-in-react-with-framer-motion-ko7)
-- [How to Confidently Write Unit Tests using React Testing Library](https://dev.to/myogeshchavan97/how-to-confidently-write-unit-tests-using-react-testing-library-42de)
-- [10 games to learn JavaScript](https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j)
 <!-- BLOG-POST-LIST:END -->
 
