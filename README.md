@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Events: Bubbling, Capturing, and Propagation](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
 - [Google Keep style input form in VanillaJS](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
+- [How to Make Chrome Extension](https://dev.to/naemazam/how-to-make-chrome-extension-elb)
 - [Inline vs. block-level elements](https://dev.to/sam0905/inline-vs-block-level-elements-22ag)
-- [Media Queries in JS done right](https://dev.to/this-is-learning/media-queries-in-js-done-right-38bh)
 <!-- BLOG-POST-LIST:END -->
 
