@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Events: Bubbling, Capturing, and Propagation](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
-- [Google Keep style input form in VanillaJS](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
-- [How to Make Chrome Extension](https://dev.to/naemazam/how-to-make-chrome-extension-elb)
-- [Inline vs. block-level elements](https://dev.to/sam0905/inline-vs-block-level-elements-22ag)
+- [How to Setup and Customize Tailwind in Nuxt.js](https://dev.to/ravgeetdhillon/how-to-setup-and-customize-tailwind-in-nuxtjs-ao8)
+- [Want to create attractive, interactive docs? Use these amazing documentation tools and examples](https://dev.to/robole/want-to-create-attractive-interactive-docs-use-these-amazing-documentation-tools-and-examples-562l)
+- [Bootstrap vs Tailwind CSS](https://dev.to/qbentil/bootstrap-vs-tailwind-css-48mp)
+- [Ruby + ML](https://dev.to/daviducolo/ruby-ml-3f7h)
 <!-- BLOG-POST-LIST:END -->
 
