@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Overview of AWS Application Composer](https://dev.to/aws-builders/overview-of-aws-application-composer-3j34)
 - [Create Velocity Scroll Animation in React with Framer Motion](https://dev.to/leduc1901/create-velocity-scroll-animation-in-react-with-framer-motion-ko7)
 - [How to Confidently Write Unit Tests using React Testing Library](https://dev.to/myogeshchavan97/how-to-confidently-write-unit-tests-using-react-testing-library-42de)
 - [10 games to learn JavaScript](https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j)
-- [Right way to compare double and float in Java?](https://dev.to/somadevtoo/right-way-to-compare-double-and-float-in-java-4k06)
 <!-- BLOG-POST-LIST:END -->
 
