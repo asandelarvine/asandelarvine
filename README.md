@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-43fp)
+- [PagerDuty Community Weekly Update, December 2, 2022](https://dev.to/pdcommunity/pagerduty-community-weekly-update-december-2-2022-23f8)
 - [How a former Adobe engineer unlocks his team’s creativity](https://dev.to/linearb/how-a-former-adobe-engineer-unlocks-his-teams-creativity-3p21)
-- [How to build a custom file input with tailwind css](https://dev.to/tailus/how-to-build-a-custom-file-input-with-tailwind-css-3mb6)
-- [Cook a recipe with AWS: Dynamo DB Table](https://dev.to/aws-builders/cook-a-recipe-with-aws-dynamo-db-table-1kn1)
-- [When can you declare yourself a Full-stack Dev?](https://dev.to/thomasbnt/when-can-you-declare-yourself-a-full-stack-dev-31j1)
+- [ERROR - PYTHON](https://dev.to/karolinenunes/error-python-3o92)
 <!-- BLOG-POST-LIST:END -->
 
