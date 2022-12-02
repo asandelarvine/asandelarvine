@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pushing container images to GitHub Container Registry with GitHub Actions](https://dev.to/willvelida/pushing-container-images-to-github-container-registry-with-github-actions-1m6b)
+- [Progress with feature implementation](https://dev.to/ririio/progress-with-feature-implementation-4c0)
+- [Como mudar o idioma padrão do LinkedIn](https://dev.to/juniokoi/como-mudar-o-idioma-padrao-do-linkedin-n7m)
 - [All Client SDKs were updated for Reduct Storage v1.1.0](https://dev.to/reduct-storage/all-client-sdks-were-updated-for-reduct-storage-v110-1f94)
-- [Stop Comparing JWT vs Cookies](https://dev.to/jerrynsh/stop-comparing-jwt-vs-cookies-31n5)
-- [Gene Kim + The Rise and Fall of DevOps | Conversations from DevOps Enterprise Summit](https://dev.to/linearb/gene-kim-the-rise-and-fall-of-devops-conversations-from-devops-enterprise-summit-4klb)
-- [Thankfulness 2022](https://dev.to/arleneandrews/thankfulness-2022-mmk)
 <!-- BLOG-POST-LIST:END -->
 
