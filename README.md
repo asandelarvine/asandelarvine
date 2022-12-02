@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A journey towards a type-safe GraphQL API server](https://dev.to/energiebespaarders/a-journey-towards-a-type-safe-graphql-api-server-52p8)
+- [Improving your CI/CD Pipeline: Helm Charts Security Scanning with Trivy and GitHub Actions](https://dev.to/aws-builders/improving-your-cicd-pipeline-helm-charts-security-scanning-with-trivy-and-github-actions-3315)
 - [Wasp Beta brings major IDE improvements](https://dev.to/wasp/wasp-beta-brings-major-ide-improvements-2h7a)
 - [How to Handle Errors in Rust: A Comprehensive Guide](https://dev.to/nathan20/how-to-handle-errors-in-rust-a-comprehensive-guide-1cco)
-- [Follow Friday: DevOps Edition &lpar;2 December 2022&rpar;](https://dev.to/devteam/follow-friday-devops-edition-2-december-2022-4g37)
-- [Single Event Listener for all elements in JS](https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6)
 <!-- BLOG-POST-LIST:END -->
 
