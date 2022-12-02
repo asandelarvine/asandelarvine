@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Events: Bubbling, Capturing, and Propagation](https://dev.to/mitchiemt11/javascript-events-bubbling-capturing-and-propagation-56ab)
 - [Google Keep style input form in VanillaJS](https://dev.to/tanishqsingla/google-keep-style-input-form-in-vanillajs-19d3)
+- [Inline vs. block-level elements](https://dev.to/sam0905/inline-vs-block-level-elements-22ag)
 - [Media Queries in JS done right](https://dev.to/this-is-learning/media-queries-in-js-done-right-38bh)
-- [VeChain wallet for Dapps](https://dev.to/shreyvijayvargiya/vechain-wallet-for-dapps-3l8j)
-- [Overview of AWS Application Composer](https://dev.to/aws-builders/overview-of-aws-application-composer-3j34)
 <!-- BLOG-POST-LIST:END -->
 
