@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A quick overview about AWS Application Composer](https://dev.to/ahmedadel/a-quick-overview-about-aws-application-composer-30h1)
+- [December 5, 2022: FLiP Stack Weekly](https://dev.to/tspannhw/december-5-2022-flip-stack-weekly-4536)
+- [5 Scenarios When a Low-code Platform Fails to Work Properly](https://dev.to/flatlogic_manager/5-scenarios-when-a-low-code-platform-fails-to-work-properly-3hha)
 - [Terminal , Shell, CLI : Your first 20 commands;](https://dev.to/niza/terminal-shell-cli-your-first-20-commands-2i0h)
-- [How join works in SQL](https://dev.to/amitiwary999/how-join-works-in-sql-2ja4)
-- [Super Useful CSS Resources 🌈](https://dev.to/lissy93/super-useful-css-resources-1ba3)
-- [🎄 JS Advent #3 - Object.hasOwnProperty&lpar;&rpar;🎄](https://dev.to/jtlavs/js-advent-3-objecthasownproperty-4l0c)
 <!-- BLOG-POST-LIST:END -->
 
