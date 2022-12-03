@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to install and activate Virtual Environment in Python Django](https://dev.to/samiullahsaleem/how-to-activate-virtual-environment-in-django-apb)
+- [ACCESSING NFT SMART CONTRACT CODE](https://dev.to/stephenkimoi/accessing-nft-smart-contract-codes-56e6)
 - [Safari Destinations](https://dev.to/vakinduphilliam/safari-destinations-cjb)
 - [Overview of Pulumi and Its Challenge Tutorial 101: The Essential Guide](https://dev.to/makendrang/overview-of-pulumi-and-its-challenge-tutorial-101-the-essential-guide-44jk)
-- [Learn Web Development by Building Projects](https://dev.to/codewithvoid/learn-web-development-by-building-projects-1kc1)
 <!-- BLOG-POST-LIST:END -->
 
