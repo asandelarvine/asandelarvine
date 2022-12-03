@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools that every frontend developer should have bookmarked](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+- [🎄 JS Advent #3 - Object.hasOwnProperty&lpar;&rpar;🎄](https://dev.to/jtlavs/js-advent-3-objecthasownproperty-4l0c)
 - [Advent of Code Day 2 Solutions](https://dev.to/liftoffstudios/advent-of-code-day-2-solutions-4efd)
 - [I passed the CPACC exam](https://dev.to/yuridevat/i-passed-the-cpacc-exam-1pam)
-- [Kubernetes: What It Is, How It Works, and Why It&#39;s A Game changer](https://dev.to/pramit_marattha/kubernetes-what-it-is-how-it-works-and-why-its-a-game-changer-15pg)
-- [Advent Of Code Day 1 Solutions](https://dev.to/liftoffstudios/advent-of-code-day-1-solutions-405o)
 <!-- BLOG-POST-LIST:END -->
 
