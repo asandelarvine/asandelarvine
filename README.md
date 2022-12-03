@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminal , Shell, CLI : Your first 20 commands;](https://dev.to/niza/terminal-shell-cli-your-first-20-commands-2i0h)
 - [How join works in SQL](https://dev.to/amitiwary999/how-join-works-in-sql-2ja4)
 - [Super Useful CSS Resources 🌈](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 - [🎄 JS Advent #3 - Object.hasOwnProperty&lpar;&rpar;🎄](https://dev.to/jtlavs/js-advent-3-objecthasownproperty-4l0c)
-- [Advent of Code Day 2 Solutions](https://dev.to/liftoffstudios/advent-of-code-day-2-solutions-4efd)
 <!-- BLOG-POST-LIST:END -->
 
