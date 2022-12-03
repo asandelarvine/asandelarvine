@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo Server v4 Breaking Changes. Time to move away?](https://dev.to/gethackteam/apollo-server-v4-breaking-changes-time-to-move-away-3fli)
+- [Electron vs Tauri for your next project](https://dev.to/alxnddr/electron-vs-tauri-for-your-next-project-2dna)
 - [Tailwind CSS tutorial #26: Text Decoration](https://dev.to/shubhicodes/tailwind-css-tutorial-26-text-decoration-1bi3)
 - [Responsive Business Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/responsive-business-agency-website-using-html-css-javascript-54kj)
-- [How to Make Quiz App in React](https://dev.to/reactjsguru/how-to-make-quiz-app-in-react-34l0)
-- [How to Install PHP and MariaDB on Amazon Linux 2](https://dev.to/mkabumattar/how-to-install-php-and-mariadb-on-amazon-linux-2-4b4h)
 <!-- BLOG-POST-LIST:END -->
 
