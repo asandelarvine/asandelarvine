@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes: What It Is, How It Works, and Why It&#39;s A Game changer](https://dev.to/pramit_marattha/kubernetes-what-it-is-how-it-works-and-why-its-a-game-changer-15pg)
+- [Advent Of Code Day 1 Solutions](https://dev.to/liftoffstudios/advent-of-code-day-1-solutions-405o)
 - [Apollo Server v4 Breaking Changes. Time to move away?](https://dev.to/gethackteam/apollo-server-v4-breaking-changes-time-to-move-away-3fli)
 - [Electron vs Tauri for your next project](https://dev.to/alxnddr/electron-vs-tauri-for-your-next-project-2dna)
-- [Tailwind CSS tutorial #26: Text Decoration](https://dev.to/shubhicodes/tailwind-css-tutorial-26-text-decoration-1bi3)
-- [Responsive Business Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/responsive-business-agency-website-using-html-css-javascript-54kj)
 <!-- BLOG-POST-LIST:END -->
 
