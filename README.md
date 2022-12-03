@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Business Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/responsive-business-agency-website-using-html-css-javascript-54kj)
+- [How to Make Quiz App in React](https://dev.to/reactjsguru/how-to-make-quiz-app-in-react-34l0)
 - [How to Install PHP and MariaDB on Amazon Linux 2](https://dev.to/mkabumattar/how-to-install-php-and-mariadb-on-amazon-linux-2-4b4h)
 - [Setting up reCAPTCHA in your React Application](https://dev.to/zt4ff_1/setting-up-recaptcha-in-your-react-application-2213)
-- [Removing all vowels with JavaScript](https://dev.to/dailydevtips1/removing-all-vowels-with-javascript-2c70)
-- [How to install and activate Virtual Environment in Python Django](https://dev.to/samiullahsaleem/how-to-activate-virtual-environment-in-django-apb)
 <!-- BLOG-POST-LIST:END -->
 
