@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New React Native Template 2022 for start new app. I choice it](https://dev.to/bonnguyenitc/help-me-improve-codebase-for-react-native-boilerplate-33nm)
 - [Plans for something bigger](https://dev.to/devils2ndself/plans-for-something-bigger-1d16)
 - [React TypeScript: Outside Click Detector](https://dev.to/therise3107/react-typescript-outside-click-detector-6gb)
 - [Updates from the 93rd TC39 meeting](https://dev.to/hemanth/updates-from-the-93rd-tc39-meeting-2n8f)
-- [API Design Revolation, Code Generation](https://dev.to/adam_cyclones/api-design-revolation-code-generation-idk)
 <!-- BLOG-POST-LIST:END -->
 
