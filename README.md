@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Plans for something bigger](https://dev.to/devils2ndself/plans-for-something-bigger-1d16)
 - [React TypeScript: Outside Click Detector](https://dev.to/therise3107/react-typescript-outside-click-detector-6gb)
-- [Writing better README.md files using GitHub flavoured markdown](https://dev.to/abubakardev/writing-better-readmemd-files-using-github-flavoured-markdown-3344)
-- [&quot;...learn as if you are going to live forever...&quot;](https://dev.to/elementelligent/learn-as-if-you-are-going-to-live-forever-485o)
-- [How AR will disrupt retail and sales](https://dev.to/shiaart/how-ar-will-disrupt-retail-and-sales-5fbk)
+- [Updates from the 93rd TC39 meeting](https://dev.to/hemanth/updates-from-the-93rd-tc39-meeting-2n8f)
+- [API Design Revolation, Code Generation](https://dev.to/adam_cyclones/api-design-revolation-code-generation-idk)
 <!-- BLOG-POST-LIST:END -->
 
