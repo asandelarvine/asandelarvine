@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Wrote this Blog Post About Taking Over Your Job](https://dev.to/anthonyjdella/ai-wrote-this-blog-post-about-taking-over-your-job-3alm)
 - [A quick overview about AWS Application Composer](https://dev.to/ahmedadel/a-quick-overview-about-aws-application-composer-30h1)
 - [December 5, 2022: FLiP Stack Weekly](https://dev.to/tspannhw/december-5-2022-flip-stack-weekly-4536)
 - [5 Scenarios When a Low-code Platform Fails to Work Properly](https://dev.to/flatlogic_manager/5-scenarios-when-a-low-code-platform-fails-to-work-properly-3hha)
-- [Terminal , Shell, CLI : Your first 20 commands;](https://dev.to/niza/terminal-shell-cli-your-first-20-commands-2i0h)
 <!-- BLOG-POST-LIST:END -->
 
