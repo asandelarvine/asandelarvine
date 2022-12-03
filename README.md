@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install PHP and MariaDB on Amazon Linux 2](https://dev.to/mkabumattar/how-to-install-php-and-mariadb-on-amazon-linux-2-4b4h)
+- [Setting up reCAPTCHA in your React Application](https://dev.to/zt4ff_1/setting-up-recaptcha-in-your-react-application-2213)
+- [Removing all vowels with JavaScript](https://dev.to/dailydevtips1/removing-all-vowels-with-javascript-2c70)
 - [How to install and activate Virtual Environment in Python Django](https://dev.to/samiullahsaleem/how-to-activate-virtual-environment-in-django-apb)
-- [ACCESSING NFT SMART CONTRACT CODE](https://dev.to/stephenkimoi/accessing-nft-smart-contract-codes-56e6)
-- [Safari Destinations](https://dev.to/vakinduphilliam/safari-destinations-cjb)
-- [Overview of Pulumi and Its Challenge Tutorial 101: The Essential Guide](https://dev.to/makendrang/overview-of-pulumi-and-its-challenge-tutorial-101-the-essential-guide-44jk)
 <!-- BLOG-POST-LIST:END -->
 
