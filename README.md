@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker vs. Containerd: Which Containerization Technology is Right for Your Project?](https://dev.to/pramit_marattha/docker-vs-containerd-which-containerization-technology-is-right-for-your-project-25pk)
+- [You&#39;re running an online conference but get called out for having an all-male speaker lineup 2 days prior. Yo, What do you do?](https://dev.to/andrewbrown/youre-running-an-online-conference-but-get-called-out-for-having-an-all-male-speaker-lineup-2-days-prior-yo-what-do-you-do-2m58)
+- [How to build a bullet-proof study system while learning](https://dev.to/joshhortt/how-to-build-a-bullet-proof-study-system-while-learning-oin)
 - [Modern UI tailwindcss ressources](https://dev.to/tailus/modern-ui-tailwindcss-ressources-423m)
-- [The Surface Area of Software](https://dev.to/david_whitney/the-surface-area-of-software-2926)
-- [The #openai and #gpt3 tags are now officially &quot;supported&quot; on DEV](https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd)
-- [Setup basic SaaS infrastructure using Terraform](https://dev.to/jumpingcats/setup-basic-saas-infrastructure-using-terraform-1c77)
 <!-- BLOG-POST-LIST:END -->
 
