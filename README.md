@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [“THIS” in Javascript.](https://dev.to/piyushsh/this-in-javascript-174d)
+- [Open Graph images](https://dev.to/krasun/open-graph-images-38lg)
+- [ES6 Data Structures: JS Map](https://dev.to/mitchiemt11/es6-data-structures-js-map-467p)
 - [Why do SQL Server views need refreshing?](https://dev.to/trinityyi/why-do-sql-server-views-need-refreshing-1e4j)
-- [How JWTs Could Be Dangerous and Its Alternatives](https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j)
-- [Golang CSRF Defense in Practice](https://dev.to/llance_24/golang-csrf-defense-in-practice-10k)
-- [December goals](https://dev.to/batunpc/december-goals-1cpa)
 <!-- BLOG-POST-LIST:END -->
 
