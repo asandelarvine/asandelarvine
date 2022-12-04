@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Wrote this Blog Post About Taking Over Your Job](https://dev.to/anthonyjdella/ai-wrote-this-blog-post-about-taking-over-your-job-3alm)
-- [A quick overview about AWS Application Composer](https://dev.to/ahmedadel/a-quick-overview-about-aws-application-composer-30h1)
-- [December 5, 2022: FLiP Stack Weekly](https://dev.to/tspannhw/december-5-2022-flip-stack-weekly-4536)
-- [5 Scenarios When a Low-code Platform Fails to Work Properly](https://dev.to/flatlogic_manager/5-scenarios-when-a-low-code-platform-fails-to-work-properly-3hha)
+- [Generate sitemap.xml and robots.txt in Nextjs](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
+- [5 Small and Hidden React libraries You Should Already Be Using](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
+- [What is the future of a web dev? What is your destiny?](https://dev.to/naubit/what-is-the-future-of-a-web-dev-what-is-your-destiny-50j0)
+- [Final Weekend of the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/final-weekend-of-the-mongodb-atlas-hackathon-2022-on-dev-1h8p)
 <!-- BLOG-POST-LIST:END -->
 
