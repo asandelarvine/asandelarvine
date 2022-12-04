@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Free API for your Project](https://dev.to/mitchiemt11/5-free-api-for-your-project-3j95)
-- [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89)
-- [Hoverable Card with CSS](https://dev.to/shubhamtiwari909/hoverable-card-with-css-2p4b)
-- [“THIS” in Javascript.](https://dev.to/piyushsh/this-in-javascript-174d)
+- [Type Assertions, Trucks, and Aliens](https://dev.to/about14sheep/type-assertions-trucks-and-aliens-be2)
+- [Git Cheat Sheet - 40+ Git Comands You Should Know](https://dev.to/shivamblog/git-cheat-sheet-40-git-comands-you-should-know-50c8)
+- [My rule of thumb when making software architecture decisions](https://dev.to/kunaljaydesai/my-rule-of-thumb-when-making-software-architecture-decisions-4fig)
+- [Using ZTNA to Secure Your APIs](https://dev.to/giladmaayan/using-ztna-to-secure-your-apis-2mfm)
 <!-- BLOG-POST-LIST:END -->
 
