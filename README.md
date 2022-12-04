@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How JWTs Could Be Dangerous and Its Alternatives](https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j)
 - [Golang CSRF Defense in Practice](https://dev.to/llance_24/golang-csrf-defense-in-practice-10k)
 - [December goals](https://dev.to/batunpc/december-goals-1cpa)
 - [5 Tips for Tech Career Shifters](https://dev.to/trinly01/5-tips-for-tech-career-shifters-1gf6)
-- [🤖 ChatGPT: The Future of Conversational AI](https://dev.to/envoy_/chatgpt-the-future-of-conversational-ai-2nfp)
 <!-- BLOG-POST-LIST:END -->
 
