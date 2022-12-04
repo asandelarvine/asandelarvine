@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker vs. Containerd: Which Containerization Technology is Right for Your Project?](https://dev.to/pramit_marattha/docker-vs-containerd-which-containerization-technology-is-right-for-your-project-25pk)
-- [You&#39;re running an online conference but get called out for having an all-male speaker lineup 2 days prior. Yo, What do you do?](https://dev.to/andrewbrown/youre-running-an-online-conference-but-get-called-out-for-having-an-all-male-speaker-lineup-2-days-prior-yo-what-do-you-do-2m58)
-- [How to build a bullet-proof study system while learning](https://dev.to/joshhortt/how-to-build-a-bullet-proof-study-system-while-learning-oin)
-- [Modern UI tailwindcss ressources](https://dev.to/tailus/modern-ui-tailwindcss-ressources-423m)
+- [How does React work?](https://dev.to/neeraj1997dev/how-does-react-work-17ai)
+- [Crud Dynamodb usando funciones lambdas y apigateway](https://dev.to/kcatucuamba/crud-dynamodb-usando-funciones-lambdas-y-apigateway-49m1)
+- [Progress on contribution](https://dev.to/mnosov622/progress-on-contribution-21po)
+- [Important Git Commands which every developer needs in his day to day life](https://dev.to/imshivanshpatel/important-git-commands-which-every-developer-needs-in-his-day-to-day-life-2ba5)
 <!-- BLOG-POST-LIST:END -->
 
