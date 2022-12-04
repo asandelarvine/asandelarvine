@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [IIFE&lpar;immediately-Invoked function Expression&rpar;](https://dev.to/hat52/iifeimmediately-invoked-function-expression-a9p)
+- [Setting up SSH Keys on Mac for Github](https://dev.to/pthapa1/setting-up-ssh-keys-on-mac-for-github-3b2m)
 - [How does React work?](https://dev.to/neeraj1997dev/how-does-react-work-17ai)
 - [Crud Dynamodb usando funciones lambdas y apigateway](https://dev.to/kcatucuamba/crud-dynamodb-usando-funciones-lambdas-y-apigateway-49m1)
-- [Progress on contribution](https://dev.to/mnosov622/progress-on-contribution-21po)
-- [Important Git Commands which every developer needs in his day to day life](https://dev.to/imshivanshpatel/important-git-commands-which-every-developer-needs-in-his-day-to-day-life-2ba5)
 <!-- BLOG-POST-LIST:END -->
 
