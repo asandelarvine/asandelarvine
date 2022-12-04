@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code Day 3](https://dev.to/liftoffstudios/advent-of-code-day-3-2ld4)
-- [☃️ My December Goals🎄: ending the year right by learning new things ✨](https://dev.to/saminarp/my-december-goals-ending-the-year-right-by-learning-new-things-2m7o)
-- [Part 2: Create A Clicker Game With Rust](https://dev.to/paper010/part-2-create-a-clicker-game-with-rust-4nne)
-- [Creating a Telegram chatbot with ChatGPT: A Step-by-Step Guide](https://dev.to/leighola/creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg)
+- [Golang CSRF Defense in Practice](https://dev.to/llance_24/golang-csrf-defense-in-practice-10k)
+- [December goals](https://dev.to/batunpc/december-goals-1cpa)
+- [5 Tips for Tech Career Shifters](https://dev.to/trinly01/5-tips-for-tech-career-shifters-1gf6)
+- [🤖 ChatGPT: The Future of Conversational AI](https://dev.to/envoy_/chatgpt-the-future-of-conversational-ai-2nfp)
 <!-- BLOG-POST-LIST:END -->
 
