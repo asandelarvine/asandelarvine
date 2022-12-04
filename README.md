@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern UI tailwindcss ressources](https://dev.to/tailus/modern-ui-tailwindcss-ressources-423m)
+- [The Surface Area of Software](https://dev.to/david_whitney/the-surface-area-of-software-2926)
 - [The #openai and #gpt3 tags are now officially &quot;supported&quot; on DEV](https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd)
-- [Notes on the Monorepo Pattern](https://dev.to/david_whitney/notes-on-the-monorepo-pattern-5egc)
-- [Advent of Code Day 4](https://dev.to/sethcalebweeks/advent-of-code-day-4-4p96)
-- [Advent of Code &lpar;in MiniScript&rpar;, Day 4](https://dev.to/joestrout/advent-of-code-in-miniscript-day-4-2kpj)
+- [Setup basic SaaS infrastructure using Terraform](https://dev.to/jumpingcats/setup-basic-saas-infrastructure-using-terraform-1c77)
 <!-- BLOG-POST-LIST:END -->
 
