@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [☃️ My December Goals🎄: ending the year right by learning new things ✨](https://dev.to/saminarp/my-december-goals-ending-the-year-right-by-learning-new-things-2m7o)
+- [Part 2: Create A Clicker Game With Rust](https://dev.to/paper010/part-2-create-a-clicker-game-with-rust-4nne)
 - [Creating a Telegram chatbot with ChatGPT: A Step-by-Step Guide](https://dev.to/leighola/creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg)
 - [How to make declarative/code-based router instead of file-based router in SvelteKit 2](https://dev.to/maxcore/how-to-make-declarativecode-based-router-instead-of-file-based-router-in-sveltekit-2-3dd4)
-- [Generate sitemap.xml and robots.txt in Nextjs](https://dev.to/basskibo/generate-sitemapxml-and-robotstxt-in-nextjs-4nl5)
-- [5 Small and Hidden React libraries You Should Already Be Using](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
 <!-- BLOG-POST-LIST:END -->
 
