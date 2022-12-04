@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Free API for your Project](https://dev.to/mitchiemt11/5-free-api-for-your-project-3j95)
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89)
 - [Hoverable Card with CSS](https://dev.to/shubhamtiwari909/hoverable-card-with-css-2p4b)
 - [“THIS” in Javascript.](https://dev.to/piyushsh/this-in-javascript-174d)
-- [Open Graph images](https://dev.to/krasun/open-graph-images-38lg)
 <!-- BLOG-POST-LIST:END -->
 
