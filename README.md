@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89)
+- [Hoverable Card with CSS](https://dev.to/shubhamtiwari909/hoverable-card-with-css-2p4b)
 - [“THIS” in Javascript.](https://dev.to/piyushsh/this-in-javascript-174d)
 - [Open Graph images](https://dev.to/krasun/open-graph-images-38lg)
-- [ES6 Data Structures: JS Map](https://dev.to/mitchiemt11/es6-data-structures-js-map-467p)
-- [Why do SQL Server views need refreshing?](https://dev.to/trinityyi/why-do-sql-server-views-need-refreshing-1e4j)
 <!-- BLOG-POST-LIST:END -->
 
