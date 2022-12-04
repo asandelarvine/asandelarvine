@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Type Assertions, Trucks, and Aliens](https://dev.to/about14sheep/type-assertions-trucks-and-aliens-be2)
-- [Git Cheat Sheet - 40+ Git Comands You Should Know](https://dev.to/shivamblog/git-cheat-sheet-40-git-comands-you-should-know-50c8)
-- [My rule of thumb when making software architecture decisions](https://dev.to/kunaljaydesai/my-rule-of-thumb-when-making-software-architecture-decisions-4fig)
-- [Using ZTNA to Secure Your APIs](https://dev.to/giladmaayan/using-ztna-to-secure-your-apis-2mfm)
+- [The #openai and #gpt3 tags are now officially &quot;supported&quot; on DEV](https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd)
+- [Notes on the Monorepo Pattern](https://dev.to/david_whitney/notes-on-the-monorepo-pattern-5egc)
+- [Advent of Code Day 4](https://dev.to/sethcalebweeks/advent-of-code-day-4-4p96)
+- [Advent of Code &lpar;in MiniScript&rpar;, Day 4](https://dev.to/joestrout/advent-of-code-in-miniscript-day-4-2kpj)
 <!-- BLOG-POST-LIST:END -->
 
