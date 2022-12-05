@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Power up your web apps with TensorFlow.js](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
+- [4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
+- [Code Smell 184 - Exception Arrow Code](https://dev.to/mcsee/code-smell-184-exception-arrow-code-2cia)
 - [What The Facade?!](https://dev.to/juniordevforlife/what-the-facade-22d4)
-- [IIFE&lpar;immediately-Invoked function Expression&rpar;](https://dev.to/hat52/iifeimmediately-invoked-function-expression-a9p)
-- [Setting up SSH Keys on Mac for Github](https://dev.to/pthapa1/setting-up-ssh-keys-on-mac-for-github-3b2m)
-- [How does React work?](https://dev.to/neeraj1997dev/how-does-react-work-17ai)
 <!-- BLOG-POST-LIST:END -->
 
