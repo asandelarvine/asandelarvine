@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Importance of soft skills in technical roles](https://dev.to/shubhicodes/importance-of-soft-skills-in-technical-roles-dn)
-- [My 7 Favorite Announcements from AWS re:Invent 2022](https://dev.to/aws-heroes/my-7-favourite-announcements-from-aws-reinvent-2022-4ao0)
-- [A Complete Tutorial On Flutter Freezed With Example](https://dev.to/kuldeeptarapara/a-complete-tutorial-on-flutter-freezed-with-example-3l9f)
-- [Let&#39;s code a reusable workflow for building state-of-the-art, multi-platform Docker images with Github Action ✨](https://dev.to/derlin/lets-code-a-reusable-workflow-for-building-state-of-the-art-multi-platform-docker-images-with-github-action-5cj9)
+- [Things I learned giving CSS workshops](https://dev.to/bartveneman/things-i-learned-giving-css-workshops-2bho)
+- [Creating an upvote system with React and Socket.io 🥳 🔝](https://dev.to/novu/creating-an-upvote-system-with-react-and-socketio-5aoj)
+- [What are the coolest uses of AI you&#39;ve seen in the last couple of weeks?](https://dev.to/deepgram/what-are-the-coolest-uses-of-ai-youve-seen-in-the-last-couple-of-weeks-2np0)
+- [&quot;Hello World&quot; in 10 Languages](https://dev.to/rakeshkr2/hello-world-in-10-languages-2p64)
 <!-- BLOG-POST-LIST:END -->
 
