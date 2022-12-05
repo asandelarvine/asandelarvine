@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Tutorial On Flutter Freezed With Example](https://dev.to/kuldeeptarapara/a-complete-tutorial-on-flutter-freezed-with-example-3l9f)
+- [Scaling Your Compute Resources on Salesforce](https://dev.to/salesforcedevs/scaling-your-compute-resources-on-salesforce-59jh)
 - [Yet Another Newsletter LOL: Solid!](https://dev.to/nickytonline/yet-another-newsletter-lol-solid-34m2)
 - [Simulate a Mouse Click Using JavaScript](https://dev.to/mavensingh/simulate-a-mouse-click-using-javascript-549b)
-- [Kubernetes Cheat Sheet: Must-Know Commands and Examples](https://dev.to/okteto/kubernetes-cheat-sheet-must-know-commands-and-examples-2d1k)
-- [UI Design for Developers](https://dev.to/ishandeveloper/ui-design-for-developers-2aie)
 <!-- BLOG-POST-LIST:END -->
 
