@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 Solutions Advent of Code](https://dev.to/liftoffstudios/day-4-solutions-advent-of-code-3dbf)
+- [Build A Covid-19 EDA &amp; Viz App Using Streamlit](https://dev.to/sachingeek/build-a-covid-19-eda-viz-app-using-streamlit-59gm)
 - [How to add class conditionally to css element in angular](https://dev.to/codever/how-to-add-class-conditionally-to-css-element-in-angular-1pim)
 - [Introducing Codux](https://dev.to/codux/introducing-codux-15j5)
-- [Vote on Product Hunt - $1 Million USD AesirX License Giveaway!](https://dev.to/aesirx/vote-on-product-hunt-1-million-usd-aesirx-license-giveaway-3f7o)
-- [Li Auto’s practice of migrating data from HDFS to JuiceFS](https://dev.to/daswu/li-autos-practice-of-migrating-data-from-hdfs-to-juicefs-8m8)
 <!-- BLOG-POST-LIST:END -->
 
