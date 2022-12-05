@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 ideas for SaaS startups in 2023 - by ChatGPT](https://dev.to/bobbyiliev/10-ideas-for-saas-startups-in-2023-by-chatgpt-5eg2)
 - [A new Eleventy theme — in a CMS with full Eleventy support!](https://dev.to/cloudcannon/a-new-eleventy-theme-in-a-cms-with-full-eleventy-support-hfn)
 - [The Difference Between ChatGPT and GPT-3](https://dev.to/ben/the-difference-between-chatgpt-and-gpt-3-19dh)
 - [6 Steps to Problem-Solving: Think like a Developer](https://dev.to/melodyoluoma/6-steps-to-problem-solving-think-like-a-developer-ofe)
-- [Inside Javascript Hoisting](https://dev.to/mihirverma7781/inside-javascript-hoisting-304o)
 <!-- BLOG-POST-LIST:END -->
 
