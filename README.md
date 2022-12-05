@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How can you improve your skills as a programmer by planning projects?](https://dev.to/elliot_brenyasarfo_18749/how-can-you-improve-your-skills-as-a-programmer-by-planning-projects-well-3fhh)
+- [How to Invalidate JWT Tokens Without Collecting Tokens](https://dev.to/webjose/how-to-invalidate-jwt-tokens-without-collecting-tokens-47pk)
 - [I’ve Been Using ChatGPT to Answer Questions on Stack Overflow](https://dev.to/andrews1022/ive-been-using-chatgpt-to-answer-questions-on-stack-overflow-2ib3)
 - [Power up your web apps with TensorFlow.js](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
-- [4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
 <!-- BLOG-POST-LIST:END -->
 
