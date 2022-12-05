@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
+- [Mobile App Hacking &amp; Protection](https://dev.to/teamliapp/mobile-app-hacking-protection-4fk6)
 - [Consistency Tips for Developers That Actually Work](https://dev.to/codewithvoid/consistency-tips-for-developers-that-actually-work-3m5a)
 - [React and express.js form validations with Zod](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
-- [How can you improve your skills as a programmer by planning projects?](https://dev.to/elliot_brenyasarfo_18749/how-can-you-improve-your-skills-as-a-programmer-by-planning-projects-well-3fhh)
-- [How to Invalidate JWT Tokens Without Collecting Tokens](https://dev.to/webjose/how-to-invalidate-jwt-tokens-without-collecting-tokens-47pk)
 <!-- BLOG-POST-LIST:END -->
 
