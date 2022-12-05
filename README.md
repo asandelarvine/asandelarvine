@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New TypeScript’s “satisfies” Operator](https://dev.to/mdmostafizurrahaman/new-typescripts-satisfies-operator-4dmp)
-- [Things I learned giving CSS workshops](https://dev.to/bartveneman/things-i-learned-giving-css-workshops-2bho)
-- [Creating an upvote system with React and Socket.io 🥳 🔝](https://dev.to/novu/creating-an-upvote-system-with-react-and-socketio-5aoj)
-- [What are the coolest uses of AI you&#39;ve seen in the last couple of weeks?](https://dev.to/deepgram/what-are-the-coolest-uses-of-ai-youve-seen-in-the-last-couple-of-weeks-2np0)
+- [Media Queries in JS/TS done right](https://dev.to/this-is-learning/media-queries-in-jsts-done-right-l6o)
+- [Maintaining a Healthy-Enough Mindset through Uncertainty](https://dev.to/jenc/maintaining-a-healthy-enough-mindset-through-uncertainty-3j8e)
+- [Music Monday — What are you listening to? &lpar;Classic Rock Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-classic-rock-edition-5gcb)
+- [Why is your website slow? Common causes and how to fix them](https://dev.to/momciloo/why-is-your-website-slow-common-causes-and-how-to-fix-them-4k13)
 <!-- BLOG-POST-LIST:END -->
 
