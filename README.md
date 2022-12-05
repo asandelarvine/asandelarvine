@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Google Analytics Apps for Your Shopify Store](https://dev.to/gloriamaldonado/top-google-analytics-apps-for-your-shopify-store-45fn)
+- [How to automatically receive messages in discord when a platform is down](https://dev.to/reinforz/how-to-automatically-receive-messages-in-discord-when-a-platform-is-down-3ii)
 - [Handling negative or no response in AWS EventBridge](https://dev.to/dhanushnehru/handling-negative-or-no-response-in-aws-eventbridge-4b93)
 - [Getting Started with JavaScript Fetch API](https://dev.to/mr_ali3n/getting-started-with-javascript-fetch-api-1272)
-- [A look at HSL colors](https://dev.to/dailydevtips1/a-look-at-hsl-colors-3c47)
-- [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
 <!-- BLOG-POST-LIST:END -->
 
