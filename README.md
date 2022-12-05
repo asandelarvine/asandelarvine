@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to record videos with Puppeteer](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
+- [An Introduction to Storybook JS](https://dev.to/quokkalabs/an-introduction-to-storybook-js-2n34)
 - [Day 4 Solutions Advent of Code](https://dev.to/liftoffstudios/day-4-solutions-advent-of-code-3dbf)
 - [Build A Covid-19 EDA &amp; Viz App Using Streamlit](https://dev.to/sachingeek/build-a-covid-19-eda-viz-app-using-streamlit-59gm)
-- [How to add class conditionally to css element in angular](https://dev.to/codever/how-to-add-class-conditionally-to-css-element-in-angular-1pim)
-- [Introducing Codux](https://dev.to/codux/introducing-codux-15j5)
 <!-- BLOG-POST-LIST:END -->
 
