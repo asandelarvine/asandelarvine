@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling negative or no response in AWS EventBridge](https://dev.to/dhanushnehru/handling-negative-or-no-response-in-aws-eventbridge-4b93)
+- [A look at HSL colors](https://dev.to/dailydevtips1/a-look-at-hsl-colors-3c47)
 - [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
 - [Mobile App Hacking &amp; Protection](https://dev.to/teamliapp/mobile-app-hacking-protection-4fk6)
-- [Consistency Tips for Developers That Actually Work](https://dev.to/codewithvoid/consistency-tips-for-developers-that-actually-work-3m5a)
-- [React and express.js form validations with Zod](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
 <!-- BLOG-POST-LIST:END -->
 
