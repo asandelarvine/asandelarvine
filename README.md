@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Handling negative or no response in AWS EventBridge](https://dev.to/dhanushnehru/handling-negative-or-no-response-in-aws-eventbridge-4b93)
+- [Getting Started with JavaScript Fetch API](https://dev.to/mr_ali3n/getting-started-with-javascript-fetch-api-1272)
 - [A look at HSL colors](https://dev.to/dailydevtips1/a-look-at-hsl-colors-3c47)
 - [Create Floating Hearts 3D model in Three.JS and React Three Fiber](https://dev.to/leduc1901/create-floating-hearts-3d-model-in-threejs-and-react-three-fiber-5gk1)
-- [Mobile App Hacking &amp; Protection](https://dev.to/teamliapp/mobile-app-hacking-protection-4fk6)
 <!-- BLOG-POST-LIST:END -->
 
