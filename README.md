@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New TypeScript’s “satisfies” Operator](https://dev.to/mdmostafizurrahaman/new-typescripts-satisfies-operator-4dmp)
 - [Things I learned giving CSS workshops](https://dev.to/bartveneman/things-i-learned-giving-css-workshops-2bho)
 - [Creating an upvote system with React and Socket.io 🥳 🔝](https://dev.to/novu/creating-an-upvote-system-with-react-and-socketio-5aoj)
 - [What are the coolest uses of AI you&#39;ve seen in the last couple of weeks?](https://dev.to/deepgram/what-are-the-coolest-uses-of-ai-youve-seen-in-the-last-couple-of-weeks-2np0)
-- [&quot;Hello World&quot; in 10 Languages](https://dev.to/rakeshkr2/hello-world-in-10-languages-2p64)
 <!-- BLOG-POST-LIST:END -->
 
