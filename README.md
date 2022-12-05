@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How ChatGPT Will Help Content Creators Write Opinion Pieces More Easily](https://dev.to/thawkin3/how-chatgpt-will-help-content-creators-write-opinion-pieces-more-easily-23d9)
+- [Split a commit into 2 commits with `git rebase`](https://dev.to/thelarkinn/split-a-commit-into-2-commits-with-git-rebase-31ee)
+- [How does JavaScript work?🧐](https://dev.to/klc/how-does-javascript-work-3fpl)
 - [Media Queries in JS/TS done right](https://dev.to/this-is-learning/media-queries-in-jsts-done-right-l6o)
-- [Maintaining a Healthy-Enough Mindset through Uncertainty](https://dev.to/jenc/maintaining-a-healthy-enough-mindset-through-uncertainty-3j8e)
-- [Music Monday — What are you listening to? &lpar;Classic Rock Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-classic-rock-edition-5gcb)
-- [Why is your website slow? Common causes and how to fix them](https://dev.to/momciloo/why-is-your-website-slow-common-causes-and-how-to-fix-them-4k13)
 <!-- BLOG-POST-LIST:END -->
 
