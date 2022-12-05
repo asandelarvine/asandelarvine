@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top X programming and tech videos of November 2022.](https://dev.to/nordicbeaver/top-x-programming-and-tech-videos-of-november-2022-22dc)
-- [Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
-- [How to record videos with Puppeteer](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
-- [Sleeping is not the best option](https://dev.to/trikitrok/sleeping-is-not-the-best-option-2pn6)
+- [Yet Another Newsletter LOL: Solid!](https://dev.to/nickytonline/yet-another-newsletter-lol-solid-34m2)
+- [Simulate a Mouse Click Using JavaScript](https://dev.to/mavensingh/simulate-a-mouse-click-using-javascript-549b)
+- [Kubernetes Cheat Sheet: Must-Know Commands and Examples](https://dev.to/okteto/kubernetes-cheat-sheet-must-know-commands-and-examples-2d1k)
+- [UI Design for Developers](https://dev.to/ishandeveloper/ui-design-for-developers-2aie)
 <!-- BLOG-POST-LIST:END -->
 
