@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top X programming and tech videos of November 2022.](https://dev.to/nordicbeaver/top-x-programming-and-tech-videos-of-november-2022-22dc)
+- [Run event-driven workflows with Amazon EKS Blueprints, Keda and Karpenter](https://dev.to/aws-builders/run-event-driven-workflows-with-amazon-eks-blueprints-keda-and-karpenter-160a)
 - [How to record videos with Puppeteer](https://dev.to/krasun/how-to-record-videos-with-puppeteer-2f1d)
-- [An Introduction to Storybook JS](https://dev.to/quokkalabs/an-introduction-to-storybook-js-2n34)
-- [Day 4 Solutions Advent of Code](https://dev.to/liftoffstudios/day-4-solutions-advent-of-code-3dbf)
-- [Build A Covid-19 EDA &amp; Viz App Using Streamlit](https://dev.to/sachingeek/build-a-covid-19-eda-viz-app-using-streamlit-59gm)
+- [Sleeping is not the best option](https://dev.to/trikitrok/sleeping-is-not-the-best-option-2pn6)
 <!-- BLOG-POST-LIST:END -->
 
