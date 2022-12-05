@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Importance of soft skills in technical roles](https://dev.to/shubhicodes/importance-of-soft-skills-in-technical-roles-dn)
+- [My 7 Favorite Announcements from AWS re:Invent 2022](https://dev.to/aws-heroes/my-7-favourite-announcements-from-aws-reinvent-2022-4ao0)
 - [A Complete Tutorial On Flutter Freezed With Example](https://dev.to/kuldeeptarapara/a-complete-tutorial-on-flutter-freezed-with-example-3l9f)
-- [Scaling Your Compute Resources on Salesforce](https://dev.to/salesforcedevs/scaling-your-compute-resources-on-salesforce-59jh)
-- [Yet Another Newsletter LOL: Solid!](https://dev.to/nickytonline/yet-another-newsletter-lol-solid-34m2)
-- [Simulate a Mouse Click Using JavaScript](https://dev.to/mavensingh/simulate-a-mouse-click-using-javascript-549b)
+- [Let&#39;s code a reusable workflow for building state-of-the-art, multi-platform Docker images with Github Action ✨](https://dev.to/derlin/lets-code-a-reusable-workflow-for-building-state-of-the-art-multi-platform-docker-images-with-github-action-5cj9)
 <!-- BLOG-POST-LIST:END -->
 
