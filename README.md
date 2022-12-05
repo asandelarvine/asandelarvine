@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Google Analytics Apps for Your Shopify Store](https://dev.to/gloriamaldonado/top-google-analytics-apps-for-your-shopify-store-45fn)
-- [How to automatically receive messages in discord when a platform is down](https://dev.to/reinforz/how-to-automatically-receive-messages-in-discord-when-a-platform-is-down-3ii)
-- [Handling negative or no response in AWS EventBridge](https://dev.to/dhanushnehru/handling-negative-or-no-response-in-aws-eventbridge-4b93)
-- [Getting Started with JavaScript Fetch API](https://dev.to/mr_ali3n/getting-started-with-javascript-fetch-api-1272)
+- [How to add class conditionally to css element in angular](https://dev.to/codever/how-to-add-class-conditionally-to-css-element-in-angular-1pim)
+- [Introducing Codux](https://dev.to/codux/introducing-codux-15j5)
+- [Vote on Product Hunt - $1 Million USD AesirX License Giveaway!](https://dev.to/aesirx/vote-on-product-hunt-1-million-usd-aesirx-license-giveaway-3f7o)
+- [Li Auto’s practice of migrating data from HDFS to JuiceFS](https://dev.to/daswu/li-autos-practice-of-migrating-data-from-hdfs-to-juicefs-8m8)
 <!-- BLOG-POST-LIST:END -->
 
