@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to answer &quot;What would be your dream job?&quot;](https://dev.to/lakshyakhatri/how-to-answer-what-would-be-your-dream-job-hbh)
+- [What are the differences between Redux and Flux in ReactJS?](https://dev.to/quokkalabs/what-are-the-differences-between-redux-and-flux-in-reactjs-4pl0)
+- [Using CSS counters](https://dev.to/dailydevtips1/using-css-counters-3op3)
+- [How To Answer &quot;What would be your dream job?&quot; in Your Interview](https://dev.to/lakshyakhatri/how-to-answer-what-would-be-your-dream-job-hbh)
 - [Understanding the keyword “this” in JavaScript](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
-- [Simple State Management with RxJS — a To-do List example](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
-- [AWS re:Invent 2022 turned into a time for Celebration!](https://dev.to/aws-heroes/aws-reinvent-2022-turned-into-a-time-for-celebration-16fa)
 <!-- BLOG-POST-LIST:END -->
 
