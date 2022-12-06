@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring competitive features in Node.js v18 and v19](https://dev.to/logrocket/exploring-competitive-features-in-nodejs-v18-and-v19-4llg)
-- [RENT! e-commerce, submission for Atlas Hackathon](https://dev.to/mb337/rent-e-commerce-submission-for-atlas-hackathon-5a7c)
-- [Interviewing as a Team Lead or Engineering Manager](https://dev.to/jgroeneveld/interviewing-as-a-team-lead-or-engineering-manager-35ao)
-- [Low-Code and No-Code: What Option Is Best for You?](https://dev.to/mbcrump/low-code-and-no-code-what-option-is-best-for-you-3b5o)
+- [samirpaul.in/posts](https://dev.to/1unknowndeveloper/samirpaulinposts-1i2n)
+- [How YOU can build a Web API in Java and Spring boot](https://dev.to/azure/how-you-can-build-a-web-api-in-java-and-spring-boot-56ga)
+- [How to use NACLs and Security Groups](https://dev.to/aws-builders/how-to-use-nacls-and-security-groups-3bop)
+- [Network Access Control Lists vs Security Groups](https://dev.to/aws-builders/network-access-control-lists-vs-security-groups-4ekp)
 <!-- BLOG-POST-LIST:END -->
 
