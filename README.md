@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring competitive features in Node.js v18 and v19](https://dev.to/logrocket/exploring-competitive-features-in-nodejs-v18-and-v19-4llg)
 - [RENT! e-commerce, submission for Atlas Hackathon](https://dev.to/mb337/rent-e-commerce-submission-for-atlas-hackathon-5a7c)
 - [Interviewing as a Team Lead or Engineering Manager](https://dev.to/jgroeneveld/interviewing-as-a-team-lead-or-engineering-manager-35ao)
 - [Low-Code and No-Code: What Option Is Best for You?](https://dev.to/mbcrump/low-code-and-no-code-what-option-is-best-for-you-3b5o)
-- [89-Nodejs Course 2023: Restful Routes: Introduction](https://dev.to/hassanzohdy/89-nodejs-course-2023-restful-routes-introduction-28ie)
 <!-- BLOG-POST-LIST:END -->
 
