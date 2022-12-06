@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to optimize your website for SEO](https://dev.to/denicmarko/how-to-optimize-your-website-for-seo-138m)
 - [Day 5 Solutions &lpar;Rust&rpar;](https://dev.to/liftoffstudios/day-5-solutions-rust-1d1d)
 - [undefined VS. null - know the difference](https://dev.to/karakaan/undefined-vs-null-know-the-difference-4d9c)
 - [What are the differences between Redux and Flux in ReactJS?](https://dev.to/quokkalabs/what-are-the-differences-between-redux-and-flux-in-reactjs-4pl0)
-- [Using CSS counters](https://dev.to/dailydevtips1/using-css-counters-3op3)
 <!-- BLOG-POST-LIST:END -->
 
