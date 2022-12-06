@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing AI / ChatGPT, and how it dreams in 2022](https://dev.to/picocreator/introducing-ai-chatgpt-and-how-it-dreams-in-2022-3bla)
 - [Why I choose T3 stack as the full-stack to build the react app](https://dev.to/zenstack/why-i-choose-t3-stack-as-the-fullstack-to-build-the-react-app-1e1k)
+- [How to view images after they uploaded in public/uploads folder with Next.js?](https://dev.to/elitesuper/how-to-view-images-after-they-uploaded-in-publicuploads-folder-with-nextjs-1oa3)
 - [How to optimize your website for SEO](https://dev.to/denicmarko/how-to-optimize-your-website-for-seo-138m)
-- [Day 5 Solutions &lpar;Rust&rpar;](https://dev.to/liftoffstudios/day-5-solutions-rust-1d1d)
-- [undefined VS. null - know the difference](https://dev.to/karakaan/undefined-vs-null-know-the-difference-4d9c)
 <!-- BLOG-POST-LIST:END -->
 
