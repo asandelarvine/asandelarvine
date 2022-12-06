@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to answer &quot;What would be your dream job?&quot;](https://dev.to/lakshyakhatri/how-to-answer-what-would-be-your-dream-job-hbh)
+- [Understanding the keyword “this” in JavaScript](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
 - [Simple State Management with RxJS — a To-do List example](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
-- [Svelte beats react: faster, simpler, and better for your next web app!](https://dev.to/fershopls/svelte-beats-react-faster-simpler-and-better-for-your-next-web-app-1i77)
-- [tsParticles 2.6.0 Released](https://dev.to/tsparticles/tsparticles-260-released-7l8)
+- [AWS re:Invent 2022 turned into a time for Celebration!](https://dev.to/aws-heroes/aws-reinvent-2022-turned-into-a-time-for-celebration-16fa)
 <!-- BLOG-POST-LIST:END -->
 
