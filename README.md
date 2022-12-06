@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code faster with custom VScode snippets](https://dev.to/antoine_m/code-faster-with-custom-vscode-snippets-4j79)
+- [Debug Like a Senior Developer](https://dev.to/codenameone/debug-like-a-senior-developer-g6m)
 - [Everything I needed to know about a career in tech, I learned from &quot;The Rings of Power&quot; &lpar;part 1&rpar;](https://dev.to/newrelic/everything-i-needed-to-know-about-a-career-in-tech-i-learned-from-the-rings-of-power-part-1-2ocp)
-- [Deploy a containerised Fast API application in Digital Ocean](https://dev.to/ndrohith/deploy-a-containerised-fast-api-application-in-digital-ocean-25ik)
-- [16-ES6++: Reflection In JavaScript](https://dev.to/hassanzohdy/16-es6-reflection-in-javascript-18p2)
-- [Configuring an Azure function behind a NAT gateway to restrict outgoing IP addresses](https://dev.to/makendrang/configuring-an-azure-function-behind-a-nat-gateway-to-restrict-outgoing-ip-addresses-421f)
+- [HOW DOES INTERNET WORK??](https://dev.to/srishtikprasad/how-does-internet-work-3n19)
 <!-- BLOG-POST-LIST:END -->
 
