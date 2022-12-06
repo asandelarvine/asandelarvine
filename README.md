@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The evolution of DevOps](https://dev.to/neeljyedu/the-evolution-of-devops-3g2f)
+- [How I build Register and Login page using Supabase](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
+- [How To Handle Scroll Events In JavaScript](https://dev.to/nnekajenny/how-to-handle-scroll-events-in-javascript-2jne)
 - [Introducing AI / ChatGPT, and how it dreams in 2022](https://dev.to/picocreator/introducing-ai-chatgpt-and-how-it-dreams-in-2022-3bla)
-- [Why I choose T3 stack as the full-stack to build the react app](https://dev.to/zenstack/why-i-choose-t3-stack-as-the-fullstack-to-build-the-react-app-1e1k)
-- [How to view images after they uploaded in public/uploads folder with Next.js?](https://dev.to/elitesuper/how-to-view-images-after-they-uploaded-in-publicuploads-folder-with-nextjs-1oa3)
-- [How to optimize your website for SEO](https://dev.to/denicmarko/how-to-optimize-your-website-for-seo-138m)
 <!-- BLOG-POST-LIST:END -->
 
