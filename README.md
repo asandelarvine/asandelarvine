@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The evolution of DevOps](https://dev.to/neeljyedu/the-evolution-of-devops-3g2f)
-- [How I build Register and Login page using Supabase](https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43)
-- [Posh terminals!](https://dev.to/wjplatformer/posh-terminals-2hkc)
-- [How To Handle Scroll Events In JavaScript](https://dev.to/nnekajenny/how-to-handle-scroll-events-in-javascript-2jne)
+- [Why use NextJS?](https://dev.to/qbentil/why-use-nextjs-mn3)
+- [🔦 Community Spotlight - Building SpaceVoid, an All-in-One Space App🔦](https://dev.to/haimantika/community-spotlight-building-spacevoid-an-all-in-one-space-app-gc9)
+- [JavaScript Functions: Why They&#39;re Essential to Understand? | Easy Guide](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-510p)
+- [Enhancing Vanilla Web Components](https://dev.to/begin/enhancing-vanilla-web-components-3ke2)
 <!-- BLOG-POST-LIST:END -->
 
