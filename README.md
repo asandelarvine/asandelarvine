@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 5 Solutions &lpar;Rust&rpar;](https://dev.to/liftoffstudios/day-5-solutions-rust-1d1d)
+- [undefined VS. null - know the difference](https://dev.to/karakaan/undefined-vs-null-know-the-difference-4d9c)
 - [What are the differences between Redux and Flux in ReactJS?](https://dev.to/quokkalabs/what-are-the-differences-between-redux-and-flux-in-reactjs-4pl0)
 - [Using CSS counters](https://dev.to/dailydevtips1/using-css-counters-3op3)
-- [How To Answer &quot;What would be your dream job?&quot; in Your Interview](https://dev.to/lakshyakhatri/how-to-answer-what-would-be-your-dream-job-hbh)
-- [Understanding the keyword “this” in JavaScript](https://dev.to/onwuemene/understanding-the-keyword-this-in-javascript-2c8o)
 <!-- BLOG-POST-LIST:END -->
 
