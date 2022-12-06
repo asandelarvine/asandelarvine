@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flask &amp; MongoDB - Material Kit &lpar;free sample&rpar;](https://dev.to/sm0ke/flask-mongodb-material-kit-free-sample-27dc)
-- [Discussão sobre o Advent of Code 2022 - Dia 3: Complexidade de operações em estruturas de dados](https://dev.to/eduardoklosowski/discussao-sobre-o-advent-of-code-2022-dia-3-complexidade-de-operacoes-em-estruturas-de-dados-2hef)
-- [Code faster with custom VScode snippets](https://dev.to/antoine_m/code-faster-with-custom-vscode-snippets-4j79)
-- [Debug Like a Senior Developer](https://dev.to/codenameone/debug-like-a-senior-developer-g6m)
+- [RENT! e-commerce, submission for Atlas Hackathon](https://dev.to/mb337/rent-e-commerce-submission-for-atlas-hackathon-5a7c)
+- [Interviewing as a Team Lead or Engineering Manager](https://dev.to/jgroeneveld/interviewing-as-a-team-lead-or-engineering-manager-35ao)
+- [Low-Code and No-Code: What Option Is Best for You?](https://dev.to/mbcrump/low-code-and-no-code-what-option-is-best-for-you-3b5o)
+- [89-Nodejs Course 2023: Restful Routes: Introduction](https://dev.to/hassanzohdy/89-nodejs-course-2023-restful-routes-introduction-28ie)
 <!-- BLOG-POST-LIST:END -->
 
