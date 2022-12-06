@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [tsParticles 2.6.0 Released](https://dev.to/tsparticles/tsparticles-260-released-7l8)
 - [Pure CSS trick to create a blurred backdrop](https://dev.to/mohsenkamrani/pure-css-trick-to-create-a-blurred-backdrop-721)
+- [Dealing with “We are used to working like that, so don`t touch it”-kind of projects](https://dev.to/kvchk/dealing-with-we-are-used-to-working-like-that-so-dont-touch-it-kind-of-projects-49d4)
 - [10 ideas for SaaS startups in 2023 - by ChatGPT](https://dev.to/bobbyiliev/10-ideas-for-saas-startups-in-2023-by-chatgpt-5eg2)
-- [A new Eleventy theme — in a CMS with full Eleventy support!](https://dev.to/cloudcannon/a-new-eleventy-theme-in-a-cms-with-full-eleventy-support-hfn)
 <!-- BLOG-POST-LIST:END -->
 
