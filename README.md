@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a containerised Fast API application in Digital Ocean](https://dev.to/ndrohith/deploy-a-containerised-fast-api-application-in-digital-ocean-25ik)
+- [Configuring an Azure function behind a NAT gateway to restrict outgoing IP addresses](https://dev.to/makendrang/configuring-an-azure-function-behind-a-nat-gateway-to-restrict-outgoing-ip-addresses-421f)
 - [I asked ChatGPT to refactor the Forem StoriesController](https://dev.to/ben/i-asked-chatgpt-to-refactor-the-forem-storiescontroller-2hgo)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-30gi)
-- [ChatGPT: The Ultimate Tool for Solving Code Issues](https://dev.to/emanuel_allely/chatgpt-the-ultimate-tool-for-solving-code-issues-3893)
-- [Meme Tuesday! 🤨](https://dev.to/ben/meme-tuesday-5fdn)
+- [Two years of blogging: The ups, downs, and everything in between](https://dev.to/envoy_/two-years-of-blogging-the-ups-downs-and-everything-in-between-1110)
 <!-- BLOG-POST-LIST:END -->
 
