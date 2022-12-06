@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flask &amp; MongoDB - Material Kit &lpar;free sample&rpar;](https://dev.to/sm0ke/flask-mongodb-material-kit-free-sample-27dc)
+- [Discussão sobre o Advent of Code 2022 - Dia 3: Complexidade de operações em estruturas de dados](https://dev.to/eduardoklosowski/discussao-sobre-o-advent-of-code-2022-dia-3-complexidade-de-operacoes-em-estruturas-de-dados-2hef)
 - [Code faster with custom VScode snippets](https://dev.to/antoine_m/code-faster-with-custom-vscode-snippets-4j79)
 - [Debug Like a Senior Developer](https://dev.to/codenameone/debug-like-a-senior-developer-g6m)
-- [Everything I needed to know about a career in tech, I learned from &quot;The Rings of Power&quot; &lpar;part 1&rpar;](https://dev.to/newrelic/everything-i-needed-to-know-about-a-career-in-tech-i-learned-from-the-rings-of-power-part-1-2ocp)
-- [HOW DOES INTERNET WORK??](https://dev.to/srishtikprasad/how-does-internet-work-3n19)
 <!-- BLOG-POST-LIST:END -->
 
