@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why use NextJS?](https://dev.to/qbentil/why-use-nextjs-mn3)
-- [🔦 Community Spotlight - Building SpaceVoid, an All-in-One Space App🔦](https://dev.to/haimantika/community-spotlight-building-spacevoid-an-all-in-one-space-app-gc9)
-- [JavaScript Functions: Why They&#39;re Essential to Understand? | Easy Guide](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-510p)
-- [Enhancing Vanilla Web Components](https://dev.to/begin/enhancing-vanilla-web-components-3ke2)
+- [I asked ChatGPT to refactor the Forem StoriesController](https://dev.to/ben/i-asked-chatgpt-to-refactor-the-forem-storiescontroller-2hgo)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-30gi)
+- [ChatGPT: The Ultimate Tool for Solving Code Issues](https://dev.to/emanuel_allely/chatgpt-the-ultimate-tool-for-solving-code-issues-3893)
+- [Meme Tuesday! 🤨](https://dev.to/ben/meme-tuesday-5fdn)
 <!-- BLOG-POST-LIST:END -->
 
