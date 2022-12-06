@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to answer &quot;What would be your dream job?&quot;](https://dev.to/lakshyakhatri/how-to-answer-what-would-be-your-dream-job-hbh)
+- [Simple State Management with RxJS — a To-do List example](https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m)
+- [Svelte beats react: faster, simpler, and better for your next web app!](https://dev.to/fershopls/svelte-beats-react-faster-simpler-and-better-for-your-next-web-app-1i77)
 - [tsParticles 2.6.0 Released](https://dev.to/tsparticles/tsparticles-260-released-7l8)
-- [Pure CSS trick to create a blurred backdrop](https://dev.to/mohsenkamrani/pure-css-trick-to-create-a-blurred-backdrop-721)
-- [Dealing with “We are used to working like that, so don`t touch it”-kind of projects](https://dev.to/kvchk/dealing-with-we-are-used-to-working-like-that-so-dont-touch-it-kind-of-projects-49d4)
-- [10 ideas for SaaS startups in 2023 - by ChatGPT](https://dev.to/bobbyiliev/10-ideas-for-saas-startups-in-2023-by-chatgpt-5eg2)
 <!-- BLOG-POST-LIST:END -->
 
