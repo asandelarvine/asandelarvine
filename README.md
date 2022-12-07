@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
-- [The Secret to Clean and Efficient Code: How to Denest Your Code](https://dev.to/naubit/the-secret-to-clean-and-efficient-code-how-to-denest-your-code-af1)
-- [Too much, and yet not enough](https://dev.to/dailydevtips1/too-much-and-yet-not-enough-421e)
-- [Better two factor authentication experiences with WebOTP](https://dev.to/philnash/better-two-factor-authentication-experiences-with-webotp-1ncm)
+- [How to reverse an array in JavaScript](https://dev.to/devmaradona/how-to-reverse-an-array-in-javascript-248j)
+- [Why using just console.log in 2023 is a big no-no 🚀](https://dev.to/naubit/why-using-just-consolelog-in-2023-is-a-big-no-no-2429)
+- [Rebases in Git and why you shouldn’t be afraid of them](https://dev.to/how-to-dev/rebases-in-git-and-why-you-shouldnt-be-afraid-of-them-1fb5)
+- [Build a Blog API With JWT Authentication Using Django Rest Framework](https://dev.to/documatic/build-a-blog-api-with-jwt-authentication-using-django-rest-framework-3718)
 <!-- BLOG-POST-LIST:END -->
 
