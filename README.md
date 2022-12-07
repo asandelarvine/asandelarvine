@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEVCODE - Grow, Share and Connect with Developers. MongoDB Hackathon Submission On Dev](https://dev.to/devarshishimpi/devcode-grow-share-and-connect-with-developers-mongodb-hackathon-submission-on-dev-4lo4)
-- [Adapter Design Patterns In Flutter &amp; Dart: Overview, Application, Method and Types](https://dev.to/kuldeeptarapara/adapter-design-patterns-in-flutter-dart-overview-application-method-and-types-4ni3)
-- [Regroot - Search Job Listings &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/sidjs/regroot-search-job-listings-2j4j)
-- [I Don&#39;t Know What Serverless Is Anymore](https://dev.to/aws-heroes/i-dont-know-what-serverless-is-anymore-k3a)
+- [Welcome Thread - v203](https://dev.to/thepracticaldev/welcome-thread-v203-19p2)
+- [Python For Beginners](https://dev.to/roy8/python-for-beginners-5c0j)
+- [Tailwind CSS tutorial #29: Vertical Align](https://dev.to/shubhicodes/tailwind-css-tutorial-29-vertical-align-3cdj)
+- [NASA Project with Python](https://dev.to/bekbrace/nasa-project-with-python-4no8)
 <!-- BLOG-POST-LIST:END -->
 
