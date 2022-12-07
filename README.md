@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature Engineering for Fraud Detection](https://dev.to/nickparsons/feature-engineering-for-fraud-detection-5d8)
 - [Advent of Code Day 6](https://dev.to/liftoffstudios/advent-of-code-day-6-4io8)
 - [Avoiding Common Pitfalls when Working with React JS 🚫](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
 - [Web resource caching: Server-side](https://dev.to/apisix/web-resource-caching-server-side-4hm2)
-- [9 announcements of AWS re: Invent 2022 that impressed me the most](https://dev.to/aws-builders/9-announcements-of-aws-reinvent-2022-that-impressed-me-the-most-jlm)
 <!-- BLOG-POST-LIST:END -->
 
