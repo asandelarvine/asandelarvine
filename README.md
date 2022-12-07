@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
+- [The Secret to Clean and Efficient Code: How to Denest Your Code](https://dev.to/naubit/the-secret-to-clean-and-efficient-code-how-to-denest-your-code-af1)
+- [Too much, and yet not enough](https://dev.to/dailydevtips1/too-much-and-yet-not-enough-421e)
 - [Better two factor authentication experiences with WebOTP](https://dev.to/philnash/better-two-factor-authentication-experiences-with-webotp-1ncm)
-- [What is a Web Server and how do Web Browsers communicate with it?](https://dev.to/leduc1901/what-is-a-web-server-and-how-do-web-browsers-communicate-with-it-4enl)
-- [What are functions in Python ?](https://dev.to/ezinne_anne/what-are-functions-in-python--2nho)
-- [See you in 2023](https://dev.to/jmau111/see-you-in-2023-5dgk)
 <!-- BLOG-POST-LIST:END -->
 
