@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Vue.js Ecommerce Store with a Node.js Backend](https://dev.to/medusajs/how-i-created-a-vuejs-ecommerce-store-with-medusa-plf)
-- [Welcome Thread - v203](https://dev.to/thepracticaldev/welcome-thread-v203-19p2)
-- [Python For Beginners](https://dev.to/roy8/python-for-beginners-5c0j)
-- [Tailwind CSS tutorial #29: Vertical Align](https://dev.to/shubhicodes/tailwind-css-tutorial-29-vertical-align-3cdj)
+- [Web resource caching: Server-side](https://dev.to/apisix/web-resource-caching-server-side-4hm2)
+- [What does &quot;if __name__ == &#39;__main__&#39;&quot; do in Python?](https://dev.to/szabgab/what-does-if-name-main-do-in-python-4o11)
+- [My Journey for finding a new job &lpar;and a new country/home&rpar;](https://dev.to/djdiox/my-journey-for-finding-a-new-job-and-a-new-countryhome-27po)
+- [The Fastest Way to Run Mastodon Tests](https://dev.to/appmap/the-fastest-way-to-run-mastodon-tests-5g03)
 <!-- BLOG-POST-LIST:END -->
 
