@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
+- [NgTemplateOutlet Typed checked &lpar;with @ContentChild&rpar;](https://dev.to/this-is-angular/ngtemplateoutlet-typed-checked-with-contentchild-2phe)
 - [This Week In React #127: Nextra, React-Query, React Documentary, Storybook, Remix, Tamagui, Solito, TC39, Rome...](https://dev.to/sebastienlorber/this-week-in-react-127-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-36o0)
 - [5 Tips for Using React Table](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
-- [Debug your React app like a Pro](https://dev.to/mitchiemt11/debug-your-react-app-like-a-pro-2hk6)
 <!-- BLOG-POST-LIST:END -->
 
