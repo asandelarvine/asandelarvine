@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git for Beginners](https://dev.to/annequinkenstein/git-for-beginners-3499)
-- [Automating IT Support for a global organization](https://dev.to/finnauto/automating-it-support-for-a-global-organization-1lo5)
-- [5 Addictive games to learn Web Development](https://dev.to/freebeliever/5-addictive-games-to-learn-web-development-1f6c)
-- [A Guide on React Lazy Loading](https://dev.to/refine/a-guide-on-react-lazy-loading-435o)
+- [I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
+- [This Week In React #127: Nextra, React-Query, React Documentary, Storybook, Remix, Tamagui, Solito, TC39, Rome...](https://dev.to/sebastienlorber/this-week-in-react-127-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-36o0)
+- [5 Tips for Using React Table](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
+- [Debug your React app like a Pro](https://dev.to/mitchiemt11/debug-your-react-app-like-a-pro-2hk6)
 <!-- BLOG-POST-LIST:END -->
 
