@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to reverse an array in JavaScript](https://dev.to/devmaradona/how-to-reverse-an-array-in-javascript-248j)
-- [Why using just console.log in 2023 is a big no-no 🚀](https://dev.to/naubit/why-using-just-consolelog-in-2023-is-a-big-no-no-2429)
-- [Rebases in Git and why you shouldn’t be afraid of them](https://dev.to/how-to-dev/rebases-in-git-and-why-you-shouldnt-be-afraid-of-them-1fb5)
-- [Build a Blog API With JWT Authentication Using Django Rest Framework](https://dev.to/documatic/build-a-blog-api-with-jwt-authentication-using-django-rest-framework-3718)
+- [Match Nodes with One or More Labels](https://dev.to/zirkelc/match-nodes-with-one-or-more-labels-3m6d)
+- [How to choose the right API Style and Technology](https://dev.to/apisix/how-to-choose-the-right-api-style-and-technology-5fb7)
+- [Weekly web development resources #127](https://dev.to/vincenius/weekly-web-development-resources-127-4bea)
+- [How to reverse an array in JavaScript](https://dev.to/moibra/how-to-reverse-an-array-in-javascript-248j)
 <!-- BLOG-POST-LIST:END -->
 
