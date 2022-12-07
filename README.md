@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Web Server and how do Web Browsers communicate with it?](https://dev.to/leduc1901/what-is-a-web-server-and-how-do-web-browsers-communicate-with-it-4enl)
 - [What are functions in Python ?](https://dev.to/ezinne_anne/what-are-functions-in-python--2nho)
 - [See you in 2023](https://dev.to/jmau111/see-you-in-2023-5dgk)
 - [Why Reading Documentation is Important](https://dev.to/gatesvert81/why-reading-documentation-is-important-9k3)
-- [Introduction to React Email &lpar;react.email&rpar;](https://dev.to/elliot_brenyasarfo_18749/introduction-to-react-email-reactemail-530h)
 <!-- BLOG-POST-LIST:END -->
 
