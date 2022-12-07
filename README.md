@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code Day 6](https://dev.to/liftoffstudios/advent-of-code-day-6-4io8)
+- [Avoiding Common Pitfalls when Working with React JS 🚫](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
 - [Web resource caching: Server-side](https://dev.to/apisix/web-resource-caching-server-side-4hm2)
-- [What does &quot;if __name__ == &#39;__main__&#39;&quot; do in Python?](https://dev.to/szabgab/what-does-if-name-main-do-in-python-4o11)
-- [My Journey for finding a new job &lpar;and a new country/home&rpar;](https://dev.to/djdiox/my-journey-for-finding-a-new-job-and-a-new-countryhome-27po)
-- [The Fastest Way to Run Mastodon Tests](https://dev.to/appmap/the-fastest-way-to-run-mastodon-tests-5g03)
+- [9 announcements of AWS re: Invent 2022 that impressed me the most](https://dev.to/aws-builders/9-announcements-of-aws-reinvent-2022-that-impressed-me-the-most-jlm)
 <!-- BLOG-POST-LIST:END -->
 
