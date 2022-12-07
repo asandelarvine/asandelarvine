@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nairobi Stock Exchange Web Scraper &lpar;MongoDB Atlas Hackathon 2022 on DEV&rpar;](https://dev.to/ken_mwaura1/nairobi-stock-exchange-web-scraper-mongodb-atlas-hackathon-2022-on-dev-5346)
+- [The Python FAQ: Quick answers to common Python questions](https://dev.to/educative/the-python-faq-quick-answers-to-common-python-questions-562i)
+- [Mastodon instance with 6 files](https://dev.to/rothgar/mastodon-instance-with-6-files-1mm4)
 - [Feature Engineering for Fraud Detection](https://dev.to/nickparsons/feature-engineering-for-fraud-detection-5d8)
-- [Advent of Code Day 6](https://dev.to/liftoffstudios/advent-of-code-day-6-4io8)
-- [Avoiding Common Pitfalls when Working with React JS 🚫](https://dev.to/namanvyas/avoiding-common-pitfalls-when-working-with-react-js-58pp)
-- [Web resource caching: Server-side](https://dev.to/apisix/web-resource-caching-server-side-4hm2)
 <!-- BLOG-POST-LIST:END -->
 
