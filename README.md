@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [See you in 2023](https://dev.to/jmau111/see-you-in-2023-5dgk)
 - [Understanding XSS with ChatGPT](https://dev.to/bscript/understanding-xss-with-chatgpt-2l5d)
 - [How YOU can build a Web API in Java and Spring boot](https://dev.to/azure/how-you-can-build-a-web-api-in-java-and-spring-boot-56ga)
 - [How to use NACLs and Security Groups](https://dev.to/aws-builders/how-to-use-nacls-and-security-groups-3bop)
-- [Network Access Control Lists vs Security Groups](https://dev.to/aws-builders/network-access-control-lists-vs-security-groups-4ekp)
 <!-- BLOG-POST-LIST:END -->
 
