@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve Got 99 Problems but Learning TypeScript Ain’t One](https://dev.to/codewithvoid/ive-got-99-problems-but-learning-typescript-aint-one-o70)
-- [NgTemplateOutlet Typed checked &lpar;with @ContentChild&rpar;](https://dev.to/this-is-angular/ngtemplateoutlet-typed-checked-with-contentchild-2phe)
-- [This Week In React #127: Nextra, React-Query, React Documentary, Storybook, Remix, Tamagui, Solito, TC39, Rome...](https://dev.to/sebastienlorber/this-week-in-react-127-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-36o0)
-- [5 Tips for Using React Table](https://dev.to/omerwow/5-tips-for-using-react-table-1779)
+- [DEVCODE - Grow, Share and Connect with Developers. MongoDB Hackathon Submission On Dev](https://dev.to/devarshishimpi/devcode-grow-share-and-connect-with-developers-mongodb-hackathon-submission-on-dev-4lo4)
+- [Adapter Design Patterns In Flutter &amp; Dart: Overview, Application, Method and Types](https://dev.to/kuldeeptarapara/adapter-design-patterns-in-flutter-dart-overview-application-method-and-types-4ni3)
+- [Regroot - Search Job Listings &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/sidjs/regroot-search-job-listings-2j4j)
+- [I Don&#39;t Know What Serverless Is Anymore](https://dev.to/aws-heroes/i-dont-know-what-serverless-is-anymore-k3a)
 <!-- BLOG-POST-LIST:END -->
 
