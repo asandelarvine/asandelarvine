@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git for Beginners](https://dev.to/annequinkenstein/git-for-beginners-3499)
+- [Automating IT Support for a global organization](https://dev.to/finnauto/automating-it-support-for-a-global-organization-1lo5)
 - [5 Addictive games to learn Web Development](https://dev.to/freebeliever/5-addictive-games-to-learn-web-development-1f6c)
 - [A Guide on React Lazy Loading](https://dev.to/refine/a-guide-on-react-lazy-loading-435o)
-- [Embedded microservices and Luos: a love story](https://dev.to/emanuel_allely/embedded-microservices-and-luos-a-love-story-148h)
-- [Top 12 Serverless Announcements from re:Invent 2022](https://dev.to/aws-builders/top-12-serverless-announcements-from-reinvent-2022-3mgh)
 <!-- BLOG-POST-LIST:END -->
 
