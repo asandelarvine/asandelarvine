@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React, Tremor &amp; Tailwind - Coder Stats via GitHub API](https://dev.to/sm0ke/react-tremor-tailwind-coder-stats-via-github-api-cm6)
-- [Match Nodes with One or More Labels](https://dev.to/zirkelc/match-nodes-with-one-or-more-labels-3m6d)
-- [How to choose the right API Style and Technology](https://dev.to/apisix/how-to-choose-the-right-api-style-and-technology-5fb7)
-- [Weekly web development resources #127](https://dev.to/vincenius/weekly-web-development-resources-127-4bea)
+- [5 Addictive games to learn Web Development](https://dev.to/freebeliever/5-addictive-games-to-learn-web-development-1f6c)
+- [A Guide on React Lazy Loading](https://dev.to/refine/a-guide-on-react-lazy-loading-435o)
+- [Embedded microservices and Luos: a love story](https://dev.to/emanuel_allely/embedded-microservices-and-luos-a-love-story-148h)
+- [Top 12 Serverless Announcements from re:Invent 2022](https://dev.to/aws-builders/top-12-serverless-announcements-from-reinvent-2022-3mgh)
 <!-- BLOG-POST-LIST:END -->
 
