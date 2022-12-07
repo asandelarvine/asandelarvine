@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript for Interviews](https://dev.to/satejbidvai/javascript-for-interviews-4k6e)
+- [Creating a custom CSS loader of a Yu-Gi-Oh card flipping 🃏](https://dev.to/christopherkade/creating-a-custom-css-loader-of-a-yu-gi-oh-card-flipping-3d7m)
 - [Nairobi Stock Exchange Web Scraper &lpar;MongoDB Atlas Hackathon 2022 on DEV&rpar;](https://dev.to/ken_mwaura1/nairobi-stock-exchange-web-scraper-mongodb-atlas-hackathon-2022-on-dev-5346)
-- [The Python FAQ: Quick answers to common Python questions](https://dev.to/educative/the-python-faq-quick-answers-to-common-python-questions-562i)
-- [Mastodon instance with 6 files](https://dev.to/rothgar/mastodon-instance-with-6-files-1mm4)
-- [Feature Engineering for Fraud Detection](https://dev.to/nickparsons/feature-engineering-for-fraud-detection-5d8)
+- [When Python Runs Your Containers &lpar;part 1&rpar;](https://dev.to/otomato_io/when-python-runs-your-containers-part-1-2nd3)
 <!-- BLOG-POST-LIST:END -->
 
