@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React, Tremor &amp; Tailwind - Coder Stats via GitHub API](https://dev.to/sm0ke/react-tremor-tailwind-coder-stats-via-github-api-cm6)
 - [Match Nodes with One or More Labels](https://dev.to/zirkelc/match-nodes-with-one-or-more-labels-3m6d)
 - [How to choose the right API Style and Technology](https://dev.to/apisix/how-to-choose-the-right-api-style-and-technology-5fb7)
 - [Weekly web development resources #127](https://dev.to/vincenius/weekly-web-development-resources-127-4bea)
-- [How to reverse an array in JavaScript](https://dev.to/moibra/how-to-reverse-an-array-in-javascript-248j)
 <!-- BLOG-POST-LIST:END -->
 
