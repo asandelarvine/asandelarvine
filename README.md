@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/andrebellu/mongodb-atlas-hackathon-2022-on-dev-3ka7)
+- [Treating Devs Like Human Beings](https://dev.to/linearb/treating-devs-like-human-beings-c01)
 - [Use Your Fingerprint with 1Password to Authenticate the Twilio CLI](https://dev.to/anthonyjdella/use-your-fingerprint-with-1password-to-authenticate-the-twilio-cli-343j)
-- [What are you currently working on? What&#39;s the most interesting part?](https://dev.to/sherrydays/what-are-you-currently-working-on-whats-the-most-interesting-part-43p3)
-- [One finished Discord poll feature!](https://dev.to/devils2ndself/one-finished-discord-poll-feature-5b34)
-- [Load balancer Quick Overview](https://dev.to/aliabdalla/load-balancer-quick-overview-4gem)
+- [Binoculearn.ai — 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘪𝘯 𝘭𝘰𝘸-𝘣𝘢𝘯𝘥𝘸𝘪𝘥𝘵𝘩 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘙𝘦𝘥𝘦𝘧𝘪𝘯𝘦𝘥⚡](https://dev.to/neilblaze/binoculearnai--4ld0)
 <!-- BLOG-POST-LIST:END -->
 
