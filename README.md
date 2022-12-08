@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Smart Contract Tools—An End-to-End Developer’s Guide](https://dev.to/mbogan/secure-smart-contract-tools-an-end-to-end-developers-guide-9lf)
-- [How to Test GraphQL API](https://dev.to/j471n/how-to-test-graphql-api-161i)
-- [A solution for Monitoring and Logging Containers](https://dev.to/ductnn/a-solution-for-monitoring-and-logging-containers-43io)
-- [React App Generator - Material Kit &lpar;VIDEO&rpar;](https://dev.to/sm0ke/react-app-generator-material-kit-video-101b)
+- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/rajeshj3/mongodb-atlas-hackathon-2022-on-dev-5300)
+- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/sandyabhi/mongodb-atlas-hackathon-2022-on-dev-3ncd)
+- [Let&#39;s learn Django together &lpar;part 1&rpar;](https://dev.to/makneta/lets-learn-django-together-part-1-481k)
+- [Build a Free Twitter Scheduler with Next.js](https://dev.to/ixartz/build-a-free-twitter-scheduler-with-nextjs-41jf)
 <!-- BLOG-POST-LIST:END -->
 
