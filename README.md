@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Svelte vs React](https://dev.to/refine/svelte-vs-react-21jl)
 - [Client-side object validation with Yup](https://dev.to/hi_iam_chris/client-side-object-validation-with-yup-4f7a)
 - [Changelog #0021 — 📯 Advanced import, GraphQL schema support, and more](https://dev.to/pie/changelog-0021-advanced-import-graphql-schema-support-and-more-5apc)
 - [I Automated Daily Standups for Developers](https://dev.to/codewithbernard/i-automated-daily-standups-for-developers-1oc8)
-- [Search Engine Scraping: What You Should Know](https://dev.to/oxylabs-io/search-engine-scraping-what-you-should-know-4fkp)
 <!-- BLOG-POST-LIST:END -->
 
