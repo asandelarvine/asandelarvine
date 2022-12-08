@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JOBPKDO- you may be the next one who gets the job through Twitter](https://dev.to/gulshanaggarwal/jobpkdo-you-may-be-the-next-one-who-gets-the-job-through-twitter-31oh)
+- [systemd.timer, an alternative to cron](https://dev.to/andrewpillar/systemdtimer-an-alternative-to-cron-d52)
+- [JavaScript Regular/Normal vs Arrow Function: My Beef with Arrow Functions.](https://dev.to/niza/javascript-regularnormal-vs-arrow-function-my-beef-with-arrow-functions-3b49)
 - [Cruddur - The not so great twitter clone using Ruby Sinatra + React + GCP CloudRun + MongoDB Atlas + Terraform](https://dev.to/andrewbrown/cruddur-the-not-so-great-twitter-clone-using-ruby-sinatra-react-gcp-cloudrun-mongodb-atlas-terraform-1j43)
-- [MongoDB Atlas Hackathon 2022 on DEV - Cold Storage Monitoring](https://dev.to/naveen_66/mongodb-atlas-hackathon-2022-on-dev-cold-storage-monitoring-1fck)
-- [SignLanguage - Learn ASL Practically - &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/narottam04/signlanguage-learn-asl-practically-mongodb-atlas-hackathon-2022-submission-2cl7)
-- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/rajeshj3/mongodb-atlas-hackathon-2022-on-dev-5300)
 <!-- BLOG-POST-LIST:END -->
 
