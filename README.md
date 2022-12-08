@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruddur - The not so great twitter clone using Ruby Sinatra + React + GCP CloudRun + MongoDB Atlas + Terraform](https://dev.to/andrewbrown/cruddur-the-not-so-great-twitter-clone-using-ruby-sinatra-react-gcp-cloudrun-mongodb-atlas-terraform-1j43)
+- [MongoDB Atlas Hackathon 2022 on DEV - Cold Storage Monitoring](https://dev.to/naveen_66/mongodb-atlas-hackathon-2022-on-dev-cold-storage-monitoring-1fck)
+- [SignLanguage - Learn ASL Practically - &lpar;MongoDB Atlas Hackathon 2022 Submission&rpar;](https://dev.to/narottam04/signlanguage-learn-asl-practically-mongodb-atlas-hackathon-2022-submission-2cl7)
 - [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/rajeshj3/mongodb-atlas-hackathon-2022-on-dev-5300)
-- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/sandyabhi/mongodb-atlas-hackathon-2022-on-dev-3ncd)
-- [Let&#39;s learn Django together &lpar;part 1&rpar;](https://dev.to/makneta/lets-learn-django-together-part-1-481k)
-- [Build a Free Twitter Scheduler with Next.js](https://dev.to/ixartz/build-a-free-twitter-scheduler-with-nextjs-41jf)
 <!-- BLOG-POST-LIST:END -->
 
