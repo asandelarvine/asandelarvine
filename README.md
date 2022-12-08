@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Your Fingerprint with 1Password to Authenticate the Twilio CLI](https://dev.to/anthonyjdella/use-your-fingerprint-with-1password-to-authenticate-the-twilio-cli-343j)
 - [What are you currently working on? What&#39;s the most interesting part?](https://dev.to/sherrydays/what-are-you-currently-working-on-whats-the-most-interesting-part-43p3)
+- [One finished Discord poll feature!](https://dev.to/devils2ndself/one-finished-discord-poll-feature-5b34)
 - [Load balancer Quick Overview](https://dev.to/aliabdalla/load-balancer-quick-overview-4gem)
-- [JOBPKDO- you may be the next one who gets the job through Twitter](https://dev.to/gulshanaggarwal/jobpkdo-you-may-be-the-next-one-who-gets-the-job-through-twitter-31oh)
-- [systemd.timer, an alternative to cron](https://dev.to/andrewpillar/systemdtimer-an-alternative-to-cron-d52)
 <!-- BLOG-POST-LIST:END -->
 
