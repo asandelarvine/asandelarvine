@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why we use empty array with UseEffect](https://dev.to/csituma/why-we-use-empty-array-with-useeffect-iok)
+- [ChatGPT: The Ultimate Tool for Natural Language Processing and Text Generation](https://dev.to/abbhiishek/chatgpt-the-ultimate-tool-for-natural-language-processing-and-text-generation-40ag)
 - [7 popular Icon libraries you can use in your websites](https://dev.to/mohsenkamrani/7-popular-icon-libraries-you-can-use-in-your-websites-53a1)
 - [Codebin - MongoDB Atlas Hackathon 2022 Submission](https://dev.to/sheikh_ishaan/codebin-mongodb-atlas-hackathon-2022-submission-p91)
-- [Increase productivity by visually differentiating between environments](https://dev.to/ama/increase-productivity-by-visually-differentiating-between-environments-5cpg)
-- [Working with data attributes in CSS](https://dev.to/dailydevtips1/working-with-data-attributes-in-css-280l)
 <!-- BLOG-POST-LIST:END -->
 
