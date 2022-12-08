@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you currently working on? What&#39;s the most interesting part?](https://dev.to/sherrydays/what-are-you-currently-working-on-whats-the-most-interesting-part-43p3)
+- [Load balancer Quick Overview](https://dev.to/aliabdalla/load-balancer-quick-overview-4gem)
 - [JOBPKDO- you may be the next one who gets the job through Twitter](https://dev.to/gulshanaggarwal/jobpkdo-you-may-be-the-next-one-who-gets-the-job-through-twitter-31oh)
 - [systemd.timer, an alternative to cron](https://dev.to/andrewpillar/systemdtimer-an-alternative-to-cron-d52)
-- [JavaScript Regular/Normal vs Arrow Function: My Beef with Arrow Functions.](https://dev.to/niza/javascript-regularnormal-vs-arrow-function-my-beef-with-arrow-functions-3b49)
-- [Cruddur - The not so great twitter clone using Ruby Sinatra + React + GCP CloudRun + MongoDB Atlas + Terraform](https://dev.to/andrewbrown/cruddur-the-not-so-great-twitter-clone-using-ruby-sinatra-react-gcp-cloudrun-mongodb-atlas-terraform-1j43)
 <!-- BLOG-POST-LIST:END -->
 
