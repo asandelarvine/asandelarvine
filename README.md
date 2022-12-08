@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 popular Icon libraries you can use in your websites](https://dev.to/mohsenkamrani/7-popular-icon-libraries-you-can-use-in-your-websites-53a1)
+- [Codebin - MongoDB Atlas Hackathon 2022 Submission](https://dev.to/sheikh_ishaan/codebin-mongodb-atlas-hackathon-2022-submission-p91)
 - [Increase productivity by visually differentiating between environments](https://dev.to/ama/increase-productivity-by-visually-differentiating-between-environments-5cpg)
-- [ML-Ops: An automated routine of training and deployment of a model using AWS ML-OPs Orchestrator and Step Functions](https://dev.to/aws-builders/ml-ops-an-automated-routine-of-training-and-deployment-of-a-model-using-aws-ml-ops-orchestrator-and-step-functions-4ppm)
-- [Discussing my interview process for Google [Follow Up]](https://dev.to/kurtissfrost/discussing-my-interview-process-for-google-follow-up-3nog)
-- [Portswigger’s lab write up: CORS vulnerability with basic origin reflection](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-basic-origin-reflection-2359)
+- [Working with data attributes in CSS](https://dev.to/dailydevtips1/working-with-data-attributes-in-css-280l)
 <!-- BLOG-POST-LIST:END -->
 
