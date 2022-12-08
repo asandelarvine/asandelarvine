@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Smart Contract Tools—An End-to-End Developer’s Guide](https://dev.to/mbogan/secure-smart-contract-tools-an-end-to-end-developers-guide-9lf)
 - [How to Test GraphQL API](https://dev.to/j471n/how-to-test-graphql-api-161i)
 - [A solution for Monitoring and Logging Containers](https://dev.to/ductnn/a-solution-for-monitoring-and-logging-containers-43io)
 - [React App Generator - Material Kit &lpar;VIDEO&rpar;](https://dev.to/sm0ke/react-app-generator-material-kit-video-101b)
-- [i18n with Next.js 13 and app directory](https://dev.to/adrai/i18n-with-nextjs-13-and-app-directory-18dm)
 <!-- BLOG-POST-LIST:END -->
 
