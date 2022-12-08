@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📝GPT-3 Takes on a C# Interview: Can AI Ace the Coding Questions?](https://dev.to/bytehide/gpt-3-takes-on-a-c-interview-can-ai-ace-the-coding-questions-1alh)
+- [Create a free AWS account and configure the AWS CLI](https://dev.to/aws-builders/create-a-free-aws-account-and-configure-the-aws-cli-1khf)
+- [Maximizing Your Productivity with Aviyel&#39;s GitHub Bot: A Comprehensive Guide](https://dev.to/aviyel/maximizing-your-productivity-with-aviyels-github-bot-a-comprehensive-guide-3n8)
 - [Svelte vs React](https://dev.to/refine/svelte-vs-react-21jl)
-- [Client-side object validation with Yup](https://dev.to/hi_iam_chris/client-side-object-validation-with-yup-4f7a)
-- [Changelog #0021 — 📯 Advanced import, GraphQL schema support, and more](https://dev.to/pie/changelog-0021-advanced-import-graphql-schema-support-and-more-5apc)
-- [I Automated Daily Standups for Developers](https://dev.to/codewithbernard/i-automated-daily-standups-for-developers-1oc8)
 <!-- BLOG-POST-LIST:END -->
 
