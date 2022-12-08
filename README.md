@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Increase productivity by visually differentiating between environments](https://dev.to/ama/increase-productivity-by-visually-differentiating-between-environments-5cpg)
+- [ML-Ops: An automated routine of training and deployment of a model using AWS ML-OPs Orchestrator and Step Functions](https://dev.to/aws-builders/ml-ops-an-automated-routine-of-training-and-deployment-of-a-model-using-aws-ml-ops-orchestrator-and-step-functions-4ppm)
 - [Discussing my interview process for Google [Follow Up]](https://dev.to/kurtissfrost/discussing-my-interview-process-for-google-follow-up-3nog)
 - [Portswigger’s lab write up: CORS vulnerability with basic origin reflection](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-basic-origin-reflection-2359)
-- [To Be Known for our Kindness](https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a)
-- [Download Youtube Videos With Python](https://dev.to/ethand91/download-youtube-videos-with-python-4kp4)
 <!-- BLOG-POST-LIST:END -->
 
