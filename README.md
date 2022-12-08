@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Functions: Why They&#39;re Essential to Understand? | Easy Guide - Part2](https://dev.to/aradwan20/javascript-functions-why-theyre-essential-to-understand-easy-guide-part2-3a6b)
+- [API: A Single Source of Truth; and the Dilemma](https://dev.to/yukioikeda/api-a-single-source-of-truth-and-the-dilemma-8bo)
 - [Stylify CSS: Code your Laravel website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-laravel-website-faster-with-css-like-utilities-15ep)
 - [Tailwind CSS tutorial #30: Text Overflow](https://dev.to/shubhicodes/tailwind-css-tutorial-30-text-overflow-48g9)
-- [Why we use empty array with UseEffect](https://dev.to/csituma/why-we-use-empty-array-with-useeffect-iok)
-- [ChatGPT: The Ultimate Tool for Natural Language Processing and Text Generation](https://dev.to/abbhiishek/chatgpt-the-ultimate-tool-for-natural-language-processing-and-text-generation-40ag)
 <!-- BLOG-POST-LIST:END -->
 
