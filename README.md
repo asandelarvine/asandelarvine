@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📝GPT-3 Takes on a C# Interview: Can AI Ace the Coding Questions?](https://dev.to/bytehide/gpt-3-takes-on-a-c-interview-can-ai-ace-the-coding-questions-1alh)
-- [Create a free AWS account and configure the AWS CLI](https://dev.to/aws-builders/create-a-free-aws-account-and-configure-the-aws-cli-1khf)
-- [Maximizing Your Productivity with Aviyel&#39;s GitHub Bot: A Comprehensive Guide](https://dev.to/aviyel/maximizing-your-productivity-with-aviyels-github-bot-a-comprehensive-guide-3n8)
-- [Svelte vs React](https://dev.to/refine/svelte-vs-react-21jl)
+- [How to Test GraphQL API](https://dev.to/j471n/how-to-test-graphql-api-161i)
+- [A solution for Monitoring and Logging Containers](https://dev.to/ductnn/a-solution-for-monitoring-and-logging-containers-43io)
+- [React App Generator - Material Kit &lpar;VIDEO&rpar;](https://dev.to/sm0ke/react-app-generator-material-kit-video-101b)
+- [i18n with Next.js 13 and app directory](https://dev.to/adrai/i18n-with-nextjs-13-and-app-directory-18dm)
 <!-- BLOG-POST-LIST:END -->
 
