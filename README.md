@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Portswigger’s lab write up: CORS vulnerability with basic origin reflection](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-basic-origin-reflection-2359)
 - [To Be Known for our Kindness](https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a)
 - [Download Youtube Videos With Python](https://dev.to/ethand91/download-youtube-videos-with-python-4kp4)
 - [JavaScript for Interviews](https://dev.to/satejbidvai/javascript-for-interviews-4k6e)
-- [Creating a custom CSS loader of a Yu-Gi-Oh card flipping 🃏](https://dev.to/christopherkade/creating-a-custom-css-loader-of-a-yu-gi-oh-card-flipping-3d7m)
 <!-- BLOG-POST-LIST:END -->
 
