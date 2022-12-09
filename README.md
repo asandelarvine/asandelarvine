@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Tips for Success: How to Be a Productive Developer and Student](https://dev.to/abbhiishek/10-tips-for-success-how-to-be-a-productive-developer-and-student-440f)
+- [Which PHP Framework Should You Use in 2023?](https://dev.to/thedevdrawer/which-php-framework-should-you-use-in-2023-41m7)
 - [Learn To Code From Zero - How To Teach Yourself Programming From Scratch](https://dev.to/fullstackvault/learn-to-code-from-zero-how-to-teach-yourself-programming-from-scratch-2gnn)
 - [Data visualization using React and Tremor - With Sample](https://dev.to/sm0ke/data-visualization-using-react-and-tremor-with-sample-546a)
-- [Tailwind CSS tutorial #31: Text Decoration Style](https://dev.to/shubhicodes/tailwind-css-tutorial-31-text-decoration-style-14gb)
-- [What is a function? - Programming](https://dev.to/ezinne_anne/what-is-a-function-programming-2o1p)
 <!-- BLOG-POST-LIST:END -->
 
