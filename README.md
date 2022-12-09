@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 websites to get inspiration for next level web design](https://dev.to/mohsenkamrani/7-websites-to-get-inspiration-for-next-level-web-design-1leg)
-- [Working With Javascript Date &amp; Time: A Cheat Sheet](https://dev.to/jessewei/working-with-javascript-date-time-a-cheat-sheet-1bjo)
-- [Regex, dont be scared](https://dev.to/developersteve/regex-dont-be-scared-572o)
-- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
+- [Rsyslog Servisi ile Uzak Sunucuya log Yazdırma](https://dev.to/aciklab/rsyslog-servisi-ile-uzak-sunucuya-log-yazdirma-3i3n)
+- [Top 13 Reasons Why Your Test Automation Fails | Automation Testing Tutorial | Automation Tester](https://dev.to/promode/top-13-reasons-why-your-test-automation-fails-automation-testing-tutorial-automation-tester-3l2a)
+- [6 Best Front-end Frameworks to Use For Web Development](https://dev.to/function12_io/6-best-front-end-frameworks-to-use-for-web-development-2flk)
+- [Developer productivity hacks 11](https://dev.to/function12_io/developer-productivity-hacks-11-58p3)
 <!-- BLOG-POST-LIST:END -->
 
