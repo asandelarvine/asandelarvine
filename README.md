@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to configure and use environment specific values in Angular](https://dev.to/codever/how-to-configure-and-use-environment-specific-values-in-angular-4bif)
+- [APIs: The Revolutionary Interfaces](https://dev.to/mwendwabundi/apis-the-revolutionary-interfaces-5853)
 - [Rsyslog Servisi ile Uzak Sunucuya log Yazdırma](https://dev.to/aciklab/rsyslog-servisi-ile-uzak-sunucuya-log-yazdirma-3i3n)
 - [Top 13 Reasons Why Your Test Automation Fails | Automation Testing Tutorial | Automation Tester](https://dev.to/promode/top-13-reasons-why-your-test-automation-fails-automation-testing-tutorial-automation-tester-3l2a)
-- [6 Best Front-end Frameworks to Use For Web Development](https://dev.to/function12_io/6-best-front-end-frameworks-to-use-for-web-development-2flk)
-- [Developer productivity hacks 11](https://dev.to/function12_io/developer-productivity-hacks-11-58p3)
 <!-- BLOG-POST-LIST:END -->
 
