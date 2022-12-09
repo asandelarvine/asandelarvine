@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data visualization using React and Tremor - With Sample](https://dev.to/sm0ke/data-visualization-using-react-and-tremor-with-sample-546a)
 - [Tailwind CSS tutorial #31: Text Decoration Style](https://dev.to/shubhicodes/tailwind-css-tutorial-31-text-decoration-style-14gb)
 - [What is a function? - Programming](https://dev.to/ezinne_anne/what-is-a-function-programming-2o1p)
-- [Rendering Web Methods in Next.js](https://dev.to/360macky/rendering-web-methods-in-nextjs-2e7)
-- [𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 🔥](https://dev.to/johnbraga45/-3d0p)
+- [How to monetize open-source software](https://dev.to/paydevs/how-to-monetize-open-source-software-9a7)
 <!-- BLOG-POST-LIST:END -->
 
