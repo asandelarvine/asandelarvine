@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DEPENDENCY INJECTION.](https://dev.to/csituma/dependency-injection-3lp9)
 - [How to configure and use environment specific values in Angular](https://dev.to/codever/how-to-configure-and-use-environment-specific-values-in-angular-4bif)
 - [APIs: The Revolutionary Interfaces](https://dev.to/mwendwabundi/apis-the-revolutionary-interfaces-5853)
-- [Rsyslog Servisi ile Uzak Sunucuya log Yazdırma](https://dev.to/aciklab/rsyslog-servisi-ile-uzak-sunucuya-log-yazdirma-3i3n)
-- [Top 13 Reasons Why Your Test Automation Fails | Automation Testing Tutorial | Automation Tester](https://dev.to/promode/top-13-reasons-why-your-test-automation-fails-automation-testing-tutorial-automation-tester-3l2a)
+- [Animate an SVG path with CSS](https://dev.to/dailydevtips1/animate-an-svg-path-with-css-4ihj)
 <!-- BLOG-POST-LIST:END -->
 
