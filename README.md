@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a custom Javascript linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
+- [What is Tailwindcss and What&#39;s the Difference With UI Kit Component Framework.](https://dev.to/catur/what-is-tailwindcss-and-whats-the-difference-with-ui-kit-component-435)
 - [Inversion of Control vs Dependency injection - can they be used interchangeably?](https://dev.to/csituma/inversion-of-control-vs-dependency-injection-can-they-be-used-interchangeably-32g7)
 - [DEPENDENCY INJECTION.](https://dev.to/csituma/dependency-injection-3lp9)
-- [How to configure and use environment specific values in Angular](https://dev.to/codever/how-to-configure-and-use-environment-specific-values-in-angular-4bif)
-- [APIs: The Revolutionary Interfaces](https://dev.to/mwendwabundi/apis-the-revolutionary-interfaces-5853)
 <!-- BLOG-POST-LIST:END -->
 
