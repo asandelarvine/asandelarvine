@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Inversion of Control vs Dependency injection - can they be used interchangeably?](https://dev.to/csituma/inversion-of-control-vs-dependency-injection-can-they-be-used-interchangeably-32g7)
 - [DEPENDENCY INJECTION.](https://dev.to/csituma/dependency-injection-3lp9)
 - [How to configure and use environment specific values in Angular](https://dev.to/codever/how-to-configure-and-use-environment-specific-values-in-angular-4bif)
 - [APIs: The Revolutionary Interfaces](https://dev.to/mwendwabundi/apis-the-revolutionary-interfaces-5853)
-- [Animate an SVG path with CSS](https://dev.to/dailydevtips1/animate-an-svg-path-with-css-4ihj)
 <!-- BLOG-POST-LIST:END -->
 
