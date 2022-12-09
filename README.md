@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a function? - Programming](https://dev.to/ezinne_anne/what-is-a-function-programming-2o1p)
 - [Rendering Web Methods in Next.js](https://dev.to/360macky/rendering-web-methods-in-nextjs-2e7)
+- [𝟱 𝗙𝗿𝗲𝗲 𝗔𝗣𝗜𝘀 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 🔥](https://dev.to/johnbraga45/-3d0p)
 - [Follow Friday: Hackathon Edition &lpar;9 December 2022&rpar;](https://dev.to/devteam/follow-friday-hackathon-edition-9-december-2022-5d9g)
-- [Why DynamoDB Streams is Very Useful](https://dev.to/aws-builders/why-dynamodb-streams-is-very-useful-24e7)
-- [Make Mysterious Shape from SHADOW 🤯](https://dev.to/sabihasamha22/make-mysterious-shape-from-shadow-4ib1)
 <!-- BLOG-POST-LIST:END -->
 
