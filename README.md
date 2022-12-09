@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/andrebellu/mongodb-atlas-hackathon-2022-on-dev-3ka7)
-- [Treating Devs Like Human Beings](https://dev.to/linearb/treating-devs-like-human-beings-c01)
-- [Use Your Fingerprint with 1Password to Authenticate the Twilio CLI](https://dev.to/anthonyjdella/use-your-fingerprint-with-1password-to-authenticate-the-twilio-cli-343j)
-- [Binoculearn.ai — 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘪𝘯 𝘭𝘰𝘸-𝘣𝘢𝘯𝘥𝘸𝘪𝘥𝘵𝘩 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘙𝘦𝘥𝘦𝘧𝘪𝘯𝘦𝘥⚡](https://dev.to/neilblaze/binoculearnai--4ld0)
+- [7 websites to get inspiration for next level web design](https://dev.to/mohsenkamrani/7-websites-to-get-inspiration-for-next-level-web-design-1leg)
+- [Regex, dont be scared](https://dev.to/developersteve/regex-dont-be-scared-572o)
+- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
+- [Rewind - MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/dephraiim/rewind-mongodb-atlas-hackathon-2022-on-dev-4pg7)
 <!-- BLOG-POST-LIST:END -->
 
