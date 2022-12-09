@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Mysterious Shape from SHADOW 🤯](https://dev.to/sabihasamha22/make-mysterious-shape-from-shadow-4ib1)
+- [Make Mysterious Shape from SHADOW 🤯](https://dev.to/codewithsadee/make-mysterious-shape-from-shadow-1918)
 - [Thank you 😍](https://dev.to/j471n/thank-you-2a33)
 - [Open source and social systems](https://dev.to/juliaferraioli/open-source-and-social-systems-3l6o)
-- [How to use Laravel Session](https://dev.to/mostafaamine/how-to-use-laravel-session-1794)
-- [6 Awesome tools to write better code](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
 <!-- BLOG-POST-LIST:END -->
 
