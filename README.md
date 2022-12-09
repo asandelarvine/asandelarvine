@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 websites to learn CSS](https://dev.to/mohsenkamrani/9-websites-to-learn-css-gbe)
-- [Converting Your React Hook To TypeScript](https://dev.to/mbarzeev/converting-your-react-hook-to-typescript-380e)
-- [Build a custom Javascript linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
-- [Inversion of Control vs Dependency injection - can they be used interchangeably?](https://dev.to/csituma/inversion-of-control-vs-dependency-injection-can-they-be-used-interchangeably-32g7)
+- [How to use Laravel Session](https://dev.to/mostafaamine/how-to-use-laravel-session-1794)
+- [6 Awesome tools to write better code](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
+- [YugabyteDB: list failed commands](https://dev.to/yugabyte/yugabytedb-list-failed-commands-5166)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1a45)
 <!-- BLOG-POST-LIST:END -->
 
