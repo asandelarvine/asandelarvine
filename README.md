@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [10 Tips for Success: How to Be a Productive Developer and Student](https://dev.to/abbhiishek/10-tips-for-success-how-to-be-a-productive-developer-and-student-440f)
 - [Which PHP Framework Should You Use in 2023?](https://dev.to/thedevdrawer/which-php-framework-should-you-use-in-2023-41m7)
 - [Learn To Code From Zero - How To Teach Yourself Programming From Scratch](https://dev.to/fullstackvault/learn-to-code-from-zero-how-to-teach-yourself-programming-from-scratch-2gnn)
-- [Data visualization using React and Tremor - With Sample](https://dev.to/sm0ke/data-visualization-using-react-and-tremor-with-sample-546a)
+- [A Complete Guide To CSS Container Queries](https://dev.to/lambdatest/a-complete-guide-to-css-container-queries-2m4m)
 <!-- BLOG-POST-LIST:END -->
 
