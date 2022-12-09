@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank you 😍](https://dev.to/j471n/thank-you-2a33)
+- [Open source and social systems](https://dev.to/juliaferraioli/open-source-and-social-systems-3l6o)
 - [How to use Laravel Session](https://dev.to/mostafaamine/how-to-use-laravel-session-1794)
 - [6 Awesome tools to write better code](https://dev.to/surajondev/6-awesome-tools-to-write-better-code-3p26)
-- [YugabyteDB: list failed commands](https://dev.to/yugabyte/yugabytedb-list-failed-commands-5166)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1a45)
 <!-- BLOG-POST-LIST:END -->
 
