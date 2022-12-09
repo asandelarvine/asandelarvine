@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [7 websites to get inspiration for next level web design](https://dev.to/mohsenkamrani/7-websites-to-get-inspiration-for-next-level-web-design-1leg)
+- [Working With Javascript Date &amp; Time: A Cheat Sheet](https://dev.to/jessewei/working-with-javascript-date-time-a-cheat-sheet-1bjo)
 - [Regex, dont be scared](https://dev.to/developersteve/regex-dont-be-scared-572o)
 - [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/ankitbrijwasi/mongodb-atlas-hackathon-2022-on-dev-15im)
-- [Rewind - MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/dephraiim/rewind-mongodb-atlas-hackathon-2022-on-dev-4pg7)
 <!-- BLOG-POST-LIST:END -->
 
