@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WHY YOUR STATE IS BEHIND.&lpar;react.js&rpar;](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
+- [Bluetooth LE cihazlarla çalışma](https://dev.to/aliorhun/bluetooth-le-cihazlarla-calisma-3jb1)
 - [✨Day in the life of a college student during finals week - self reflection blog](https://dev.to/saminarp/day-in-the-life-of-a-college-student-during-finals-week-self-reflection-blog-45md)
 - [Custom checkbox and radio buttons in CSS](https://dev.to/shubhamtiwari909/custom-checkbox-and-radio-buttons-in-css-2n38)
-- [7 crucial UI and UX principals to follow](https://dev.to/mohsenkamrani/7-crucial-ui-and-ux-principals-to-follow-2c63)
-- [Modifying an SVG path with CSS](https://dev.to/dailydevtips1/modifying-an-svg-path-with-css-4ndg)
 <!-- BLOG-POST-LIST:END -->
 
