@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Streaming Applications with Cloudera SQL StreamBuilder and Apache Pulsar](https://dev.to/tspannhw/building-streaming-applications-with-cloudera-sql-streambuilder-and-apache-pulsar-4gad)
 - [Django AdminLTE - PyPi Library](https://dev.to/sm0ke/django-adminlte-pypi-library-5c7b)
 - [How sql engine handle join internally - part 2](https://dev.to/amitiwary999/how-join-works-internally-in-sql-part-2-142m)
 - [Ultimate Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/ultimate-frontend-development-roadmap-4inn)
-- [Top 20+ Best Udemy Courses to Learn Web Development Till Now](https://dev.to/codeswithrocky/top-20-best-udemy-courses-to-learn-web-development-till-now-3df9)
 <!-- BLOG-POST-LIST:END -->
 
