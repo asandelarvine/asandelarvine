@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Has a Company Ever Rescinded Your Offer Letter?](https://dev.to/sloan/has-a-company-ever-rescinded-your-offer-letter-12mn)
-- [What is Continuous Merge?](https://dev.to/linearb/what-is-continuous-merge-3m5h)
-- [Step by step: How to host your dotnet projects on Azure for free](https://dev.to/brunosilvadev/step-by-step-how-to-host-your-dotnet-projects-on-azure-for-free-56hg)
-- [How to implement Service Object pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-service-object-pattern-in-ruby-on-rails-2mh8)
+- [Use prettier &amp; pre-commit hooks for testing.](https://dev.to/andreasrisager/use-prettier-pre-commit-hooks-for-testing-25nl)
+- [What&#39;s The Difference Between Tailwindcss and UI Framework &lpar;Bootstrap, etc.&rpar;](https://dev.to/catur/whats-the-difference-between-tailwindcss-and-ui-framework-bootstrap-etc-aaf)
+- [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
+- [So what is Effector ☄️ ?](https://dev.to/js2me/so-what-is-effector--3fl1)
 <!-- BLOG-POST-LIST:END -->
 
