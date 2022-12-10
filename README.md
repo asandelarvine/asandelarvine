@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Streaming Applications with Cloudera SQL StreamBuilder and Apache Pulsar](https://dev.to/tspannhw/building-streaming-applications-with-cloudera-sql-streambuilder-and-apache-pulsar-4gad)
-- [Django AdminLTE - PyPi Library](https://dev.to/sm0ke/django-adminlte-pypi-library-5c7b)
-- [How sql engine handle join internally - part 2](https://dev.to/amitiwary999/how-join-works-internally-in-sql-part-2-142m)
-- [Ultimate Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/ultimate-frontend-development-roadmap-4inn)
+- [Demystifying tests in Laravel](https://dev.to/anwar_nairi/demystifying-tests-in-laravel-3bm8)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-4h5a)
+- [UX is not about computers](https://dev.to/creating_mann/ux-is-not-about-computers-3c6h)
+- [Tailwind CSS tutorial #32: Screen Readers](https://dev.to/shubhicodes/tailwind-css-tutorial-32-screen-readers-1ka6)
 <!-- BLOG-POST-LIST:END -->
 
