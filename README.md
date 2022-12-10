@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Tips for Success: How to Be a Productive Developer and Student](https://dev.to/abbhiishek/10-tips-for-success-how-to-be-a-productive-developer-and-student-440f)
-- [Which PHP Framework Should You Use in 2023?](https://dev.to/thedevdrawer/which-php-framework-should-you-use-in-2023-41m7)
-- [Learn To Code From Zero - How To Teach Yourself Programming From Scratch](https://dev.to/fullstackvault/learn-to-code-from-zero-how-to-teach-yourself-programming-from-scratch-2gnn)
-- [A Complete Guide To CSS Container Queries](https://dev.to/lambdatest/a-complete-guide-to-css-container-queries-2m4m)
+- [Has a Company Ever Rescinded Your Offer Letter?](https://dev.to/sloan/has-a-company-ever-rescinded-your-offer-letter-12mn)
+- [What is Continuous Merge?](https://dev.to/linearb/what-is-continuous-merge-3m5h)
+- [Step by step: How to host your dotnet projects on Azure for free](https://dev.to/brunosilvadev/step-by-step-how-to-host-your-dotnet-projects-on-azure-for-free-56hg)
+- [How to implement Service Object pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-service-object-pattern-in-ruby-on-rails-2mh8)
 <!-- BLOG-POST-LIST:END -->
 
