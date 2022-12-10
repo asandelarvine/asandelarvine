@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 20+ Best Udemy Courses to Learn Web Development Till Now](https://dev.to/codeswithrocky/top-20-best-udemy-courses-to-learn-web-development-till-now-3df9)
+- [7 Techniques to Optimize React Applications Performance](https://dev.to/sanikommushirisha/efficient-components-techniques-to-optimise-react-applications-performance-3l9l)
+- [Flex with Tailwindcss](https://dev.to/guillaumeduhan/flex-with-tailwindcss-733)
 - [[How to] write abstract functions in JS](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
-- [WHY YOUR STATE IS BEHIND.&lpar;react.js&rpar;](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
-- [Bluetooth LE cihazlarla çalışma](https://dev.to/aliorhun/bluetooth-le-cihazlarla-calisma-3jb1)
-- [What is PyTorch? And why you should learn it?](https://dev.to/snehal_02/what-is-pytorch-and-why-you-should-learn-it-2gpf)
 <!-- BLOG-POST-LIST:END -->
 
