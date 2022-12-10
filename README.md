@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips for building a clean REST API in Django](https://dev.to/ksaaskil/tips-for-building-a-clean-rest-api-in-django-2pae)
 - [Flutter Performance Best Practices](https://dev.to/gulsenkeskin/flutter-performance-best-practices-27dd)
 - [Dart Flutter Quiz](https://dev.to/gulsenkeskin/dart-flutter-quiz-5570)
 - [How to be productive as a developer](https://dev.to/awsmakshay/how-to-be-productive-as-a-developer-10e3)
-- [Demystifying tests in Laravel](https://dev.to/anwar_nairi/demystifying-tests-in-laravel-3bm8)
 <!-- BLOG-POST-LIST:END -->
 
