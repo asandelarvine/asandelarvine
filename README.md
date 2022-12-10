@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 crucial UI and UX principals to follow](https://dev.to/mohsenkamrani/7-crucial-ui-and-ux-principals-to-follow-2c63)
 - [Final thoughts on contribution](https://dev.to/mnosov622/final-thoughts-on-contribution-1e4o)
 - [Use prettier &amp; pre-commit hooks for testing.](https://dev.to/andreasrisager/use-prettier-pre-commit-hooks-for-testing-25nl)
 - [What&#39;s The Difference Between Tailwindcss and UI Framework &lpar;Bootstrap, etc.&rpar;](https://dev.to/catur/whats-the-difference-between-tailwindcss-and-ui-framework-bootstrap-etc-aaf)
-- [Next.js 13 with Tailwind and MUI Boilerplate](https://dev.to/serhii_kucherenko/nextjs-13-with-tailwind-and-mui-boilerplate-lhh)
 <!-- BLOG-POST-LIST:END -->
 
