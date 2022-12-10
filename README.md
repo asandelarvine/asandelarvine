@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [[How to] write abstract functions in JS](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
 - [WHY YOUR STATE IS BEHIND.&lpar;react.js&rpar;](https://dev.to/csituma/why-your-state-is-one-character-behindreactjs-16im)
 - [Bluetooth LE cihazlarla çalışma](https://dev.to/aliorhun/bluetooth-le-cihazlarla-calisma-3jb1)
-- [✨Day in the life of a college student during finals week - self reflection blog](https://dev.to/saminarp/day-in-the-life-of-a-college-student-during-finals-week-self-reflection-blog-45md)
+- [What is PyTorch? And why you should learn it?](https://dev.to/snehal_02/what-is-pytorch-and-why-you-should-learn-it-2gpf)
 <!-- BLOG-POST-LIST:END -->
 
