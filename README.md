@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Simple Steps to Becoming a 10x Developer](https://dev.to/acromondx/5-simple-steps-to-becoming-a-10x-developer-hao)
 - [Graph database plugin for RDBMS](https://dev.to/aked21/graph-database-plugin-for-rdbms-4len)
 - [5 Secret Strategies to Escape Tutorial Hell and Become a Confident Programmer](https://dev.to/acromondx/5-secret-strategies-to-escape-tutorial-hell-and-become-a-confident-programmer-472j)
 - [VSCode &amp; GitHub Codespaces for my Python playground](https://dev.to/this-is-learning/vscode-github-codespaces-for-my-python-playground-9ih)
-- [Tips for building a clean REST API in Django](https://dev.to/ksaaskil/tips-for-building-a-clean-rest-api-in-django-2pae)
 <!-- BLOG-POST-LIST:END -->
 
