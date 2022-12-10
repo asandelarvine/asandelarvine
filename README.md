@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Performance Best Practices](https://dev.to/gulsenkeskin/flutter-performance-best-practices-27dd)
+- [Dart Flutter Quiz](https://dev.to/gulsenkeskin/dart-flutter-quiz-5570)
+- [How to be productive as a developer](https://dev.to/awsmakshay/how-to-be-productive-as-a-developer-10e3)
 - [Demystifying tests in Laravel](https://dev.to/anwar_nairi/demystifying-tests-in-laravel-3bm8)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-4h5a)
-- [UX is not about computers](https://dev.to/creating_mann/ux-is-not-about-computers-3c6h)
-- [Tailwind CSS tutorial #32: Screen Readers](https://dev.to/shubhicodes/tailwind-css-tutorial-32-screen-readers-1ka6)
 <!-- BLOG-POST-LIST:END -->
 
