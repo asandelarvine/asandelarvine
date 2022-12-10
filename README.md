@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How join works internally in SQL - part 2](https://dev.to/amitiwary999/how-join-works-internally-in-sql-part-2-142m)
+- [Ultimate Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/ultimate-frontend-development-roadmap-4inn)
 - [Top 20+ Best Udemy Courses to Learn Web Development Till Now](https://dev.to/codeswithrocky/top-20-best-udemy-courses-to-learn-web-development-till-now-3df9)
-- [7 Techniques to Optimize React Applications Performance](https://dev.to/sanikommushirisha/efficient-components-techniques-to-optimise-react-applications-performance-3l9l)
-- [Flex with Tailwindcss](https://dev.to/guillaumeduhan/flex-with-tailwindcss-733)
-- [[How to] write abstract functions in JS](https://dev.to/devneagu/how-to-write-abstract-functional-functions-in-js-1db)
+- [Securing the software supply chain in the cloud](https://dev.to/aws-builders/securing-the-software-supply-chain-in-the-cloud-3p1h)
 <!-- BLOG-POST-LIST:END -->
 
