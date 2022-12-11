@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [7 Best Tools for Monitoring Node.js Servers](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
 - [🤖 Fresh Tech Open Positions - Week #50 of 2022](https://dev.to/shman/fresh-tech-open-positions-week-50-of-2022-52ch)
+- [Advent of Code 2022 - Day 11](https://dev.to/kalaspuffar/advent-of-code-2022-day-11-294p)
 - [Introduction: I&#39;m Sangam](https://dev.to/sangamswadik/introduction-im-sangam-45id)
-- [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://dev.to/makendrang/learn-getting-started-with-digitalocean-functions-in-ten-minutes-3629)
 <!-- BLOG-POST-LIST:END -->
 
