@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding &lpar;5&rpar; common Git mistakes in a team environment](https://dev.to/aneshodza/avoiding-5-common-git-mistakes-in-a-team-environment-1pm8)
+- [Cracking the Algorithm Interview](https://dev.to/qiutongs/cracking-the-algorithm-interview-2k63)
 - [Mastering Python Dictionaries &amp; Pandas DataFrames](https://dev.to/pyprodev/mastering-python-dictionaries-pandas-dataframes-1ai5)
 - [Learning Go](https://dev.to/gallau/learning-go-1cjj)
-- [One Click to Optimize Images, Create Repo and Making Commit](https://dev.to/genne23v/one-click-to-optimize-images-create-repo-and-making-commit-2203)
-- [Programmers always Overthink](https://dev.to/trinly01/programmers-always-overthink-1174)
 <!-- BLOG-POST-LIST:END -->
 
