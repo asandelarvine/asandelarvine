@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers always Overthink](https://dev.to/trinly01/programmers-always-overthink-1174)
+- [How To Integrate Google Calendar API and friendship with Laravel. Part 2](https://dev.to/dnsinyukov/how-to-integrate-google-calendar-api-and-friendship-with-laravel-part-2-48ba)
+- [How I use Notion as a Software Developer](https://dev.to/zt4ff_1/how-i-use-notion-as-a-software-developer-36fh)
 - [Learnings from Advent Of Code Day 1 as a Rust Newbie](https://dev.to/kunaljaydesai/learnings-from-advent-of-code-day-1-as-a-rust-newbie-2k86)
-- [5 Simple Steps to Becoming a 10x Developer](https://dev.to/acromondx/5-simple-steps-to-becoming-a-10x-developer-hao)
-- [Graph database plugin for RDBMS](https://dev.to/aked21/graph-database-plugin-for-rdbms-4len)
-- [5 Secret Strategies to Escape Tutorial Hell and Become a Confident Programmer](https://dev.to/acromondx/5-secret-strategies-to-escape-tutorial-hell-and-become-a-confident-programmer-472j)
 <!-- BLOG-POST-LIST:END -->
 
