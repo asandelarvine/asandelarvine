@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadian Municipal GitHub Rankings](https://dev.to/szabgab/canadian-municipal-github-rankings-2hhi)
 - [🛑 Why You Should Avoid the onclick Attribute in Your Code](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
+- [Event-Driven Architectures in AWS](https://dev.to/aws-builders/event-driven-architectures-in-aws-5g26)
 - [Tailwind CSS tutorial #33: Border Radius](https://dev.to/shubhicodes/tailwind-css-tutorial-33-border-radius-1ba7)
-- [My first extension to Fig](https://dev.to/jonasbn/my-first-extension-to-fig-15p7)
-- [[Desafio] - Desenhar uma Solução de Lançamentos Financeiros a Partir de Requisitos](https://dev.to/zanfranceschi/desafio-desenhar-uma-solucao-a-partir-de-requisitos-lancamentos-financeiros-33g3)
 <!-- BLOG-POST-LIST:END -->
 
