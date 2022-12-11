@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS tutorial #33: Border Radius](https://dev.to/shubhicodes/tailwind-css-tutorial-33-border-radius-1ba7)
+- [My first extension to Fig](https://dev.to/jonasbn/my-first-extension-to-fig-15p7)
+- [DevRelCon 2022 - a very biased review](https://dev.to/floord/devrelcon-2022-a-very-biased-review-1n73)
 - [Guide to Yaml](https://dev.to/abbhiishek/guide-to-yaml-339b)
-- [TypeScript](https://dev.to/abbhiishek/typescript-3abm)
-- [Finding a job with no prior experience.](https://dev.to/lotfijb/finding-a-job-with-no-prior-experience-4olg)
-- [API Automation using SuperTest Mocha ChaiJS and FakerJS](https://dev.to/codewithmmak/api-automation-using-supertest-mocha-chaijs-and-fakerjs-1bc7)
 <!-- BLOG-POST-LIST:END -->
 
