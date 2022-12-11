@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [5 Simple Things Highly Productive Developers Do](https://dev.to/codewithvoid/5-simple-things-highly-productive-developers-do-15o1)
 - [How to prepare Django project before pushing on GitHub](https://dev.to/makneta/how-to-prepare-django-project-before-pushing-on-github-5c25)
 - [Reducing the Size of Your React Applications with Tree Shaking and Code Splitting](https://dev.to/_itsglover/reducing-the-size-of-your-react-applications-with-tree-shaking-and-code-splitting-1650)
-- [How to check if a list is empty in Python?](https://dev.to/trinityyi/how-to-check-if-a-list-is-empty-in-python-39hp)
+- [CloudFormation Hook 101](https://dev.to/aws-builders/cloudformation-hook-101-3jmj)
 <!-- BLOG-POST-LIST:END -->
 
