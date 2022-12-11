@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python Dictionaries &amp; Pandas DataFrames](https://dev.to/pyprodev/mastering-python-dictionaries-pandas-dataframes-1ai5)
+- [Learning Go](https://dev.to/gallau/learning-go-1cjj)
+- [One Click to Optimize Images, Create Repo and Making Commit](https://dev.to/genne23v/one-click-to-optimize-images-create-repo-and-making-commit-2203)
 - [Programmers always Overthink](https://dev.to/trinly01/programmers-always-overthink-1174)
-- [How To Integrate Google Calendar API and friendship with Laravel. Part 2](https://dev.to/dnsinyukov/how-to-integrate-google-calendar-api-and-friendship-with-laravel-part-2-48ba)
-- [How I use Notion as a Software Developer](https://dev.to/zt4ff_1/how-i-use-notion-as-a-software-developer-36fh)
-- [Learnings from Advent Of Code Day 1 as a Rust Newbie](https://dev.to/kunaljaydesai/learnings-from-advent-of-code-day-1-as-a-rust-newbie-2k86)
 <!-- BLOG-POST-LIST:END -->
 
