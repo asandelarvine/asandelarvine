@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Fresh Tech Open Positions - Week #50 of 2022](https://dev.to/shman/fresh-tech-open-positions-week-50-of-2022-52ch)
 - [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://dev.to/makendrang/learn-getting-started-with-digitalocean-functions-in-ten-minutes-3629)
 - [The storm before the calm: finals week](https://dev.to/batunpc/the-storm-before-the-calm-1o5p)
 - [NGINX: Advanced Load Balancer, Web Server, &amp; Reverse Proxy](https://dev.to/lovepreetsingh/nginx-advanced-load-balancer-web-server-reverse-proxy-4i23)
-- [Battle of the Giants: GitHub Copilot vs ChatGPT ⚔️⚔️](https://dev.to/ruppysuppy/battle-of-the-giants-github-copilot-vs-chatgpt-4oac)
 <!-- BLOG-POST-LIST:END -->
 
