@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Dec 12, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/dec-12-2022-flip-stack-weekly-bk7)
 - [Equality of values in JavaScript](https://dev.to/jmalvarez/equality-of-values-in-javascript-hgd)
+- [Javascript Data Types in Depth&lpar;1&rpar;](https://dev.to/waqasongithub/javascript-data-types-in-depth1-2ba8)
 - [Canadian Municipal GitHub Rankings](https://dev.to/szabgab/canadian-municipal-github-rankings-2hhi)
-- [Yet Another Newsletter LOL: Super Charge!](https://dev.to/nickytonline/yet-another-newsletter-lol-super-charge-5gl5)
 <!-- BLOG-POST-LIST:END -->
 
