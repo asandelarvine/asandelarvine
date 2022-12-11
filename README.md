@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://dev.to/makendrang/learn-getting-started-with-digitalocean-functions-in-ten-minutes-3629)
+- [The storm before the calm: finals week](https://dev.to/batunpc/the-storm-before-the-calm-1o5p)
 - [NGINX: Advanced Load Balancer, Web Server, &amp; Reverse Proxy](https://dev.to/lovepreetsingh/nginx-advanced-load-balancer-web-server-reverse-proxy-4i23)
 - [Battle of the Giants: GitHub Copilot vs ChatGPT ⚔️⚔️](https://dev.to/ruppysuppy/battle-of-the-giants-github-copilot-vs-chatgpt-4oac)
-- [Conditional wrapping in React](https://dev.to/dailydevtips1/conditional-wrapping-in-react-46o5)
 <!-- BLOG-POST-LIST:END -->
 
