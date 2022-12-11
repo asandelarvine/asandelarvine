@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Repository Pattern with Laravel](https://dev.to/kasenda/use-repository-pattern-with-laravel-e8h)
+- [Should people use AI to develop Websites?](https://dev.to/meritonaliu/should-people-use-ai-to-develop-websites-o1a)
 - [Dec 12, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/dec-12-2022-flip-stack-weekly-bk7)
 - [Equality of values in JavaScript](https://dev.to/jmalvarez/equality-of-values-in-javascript-hgd)
-- [Javascript Data Types in Depth&lpar;1&rpar;](https://dev.to/waqasongithub/javascript-data-types-in-depth1-2ba8)
-- [Canadian Municipal GitHub Rankings](https://dev.to/szabgab/canadian-municipal-github-rankings-2hhi)
 <!-- BLOG-POST-LIST:END -->
 
