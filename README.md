@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reducing the Size of Your React Applications with Tree Shaking and Code Splitting](https://dev.to/_itsglover/reducing-the-size-of-your-react-applications-with-tree-shaking-and-code-splitting-1650)
 - [7 Best Tools for Monitoring Node.js Servers](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
 - [🤖 Fresh Tech Open Positions - Week #50 of 2022](https://dev.to/shman/fresh-tech-open-positions-week-50-of-2022-52ch)
 - [Advent of Code 2022 - Day 11](https://dev.to/kalaspuffar/advent-of-code-2022-day-11-294p)
-- [Introduction: I&#39;m Sangam](https://dev.to/sangamswadik/introduction-im-sangam-45id)
 <!-- BLOG-POST-LIST:END -->
 
