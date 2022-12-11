@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NGINX: Advanced Load Balancer, Web Server, &amp; Reverse Proxy](https://dev.to/lovepreetsingh/nginx-advanced-load-balancer-web-server-reverse-proxy-4i23)
+- [Battle of the Giants: GitHub Copilot vs ChatGPT ⚔️⚔️](https://dev.to/ruppysuppy/battle-of-the-giants-github-copilot-vs-chatgpt-4oac)
+- [Conditional wrapping in React](https://dev.to/dailydevtips1/conditional-wrapping-in-react-46o5)
 - [UIUC MCS - CS 427 Review - Software Engineering](https://dev.to/scc33/uiuc-mcs-cs-427-review-software-engineering-3cbo)
-- [Avoiding &lpar;5&rpar; common Git mistakes in a team environment](https://dev.to/aneshodza/avoiding-5-common-git-mistakes-in-a-team-environment-1pm8)
-- [Cracking the Algorithm Interview](https://dev.to/qiutongs/cracking-the-algorithm-interview-2k63)
-- [Mastering Python Dictionaries &amp; Pandas DataFrames](https://dev.to/pyprodev/mastering-python-dictionaries-pandas-dataframes-1ai5)
 <!-- BLOG-POST-LIST:END -->
 
