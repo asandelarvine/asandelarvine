@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dec 12, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/dec-12-2022-flip-stack-weekly-bk7)
 - [Equality of values in JavaScript](https://dev.to/jmalvarez/equality-of-values-in-javascript-hgd)
 - [Canadian Municipal GitHub Rankings](https://dev.to/szabgab/canadian-municipal-github-rankings-2hhi)
 - [Yet Another Newsletter LOL: Super Charge!](https://dev.to/nickytonline/yet-another-newsletter-lol-super-charge-5gl5)
-- [🛑 Why You Should Avoid the onclick Attribute in Your Code](https://dev.to/maxprogramming/why-you-should-avoid-the-onclick-attribute-in-your-code-560d)
 <!-- BLOG-POST-LIST:END -->
 
