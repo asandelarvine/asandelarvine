@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Ways To Store Data in Computer Vision Applications](https://dev.to/reduct-storage/3-ways-to-store-data-in-computer-vision-applications-jio)
-- [Use Repository Pattern with Laravel](https://dev.to/kasenda/use-repository-pattern-with-laravel-e8h)
-- [Should people use AI to develop Websites?](https://dev.to/meritonaliu/should-people-use-ai-to-develop-websites-o1a)
-- [Dec 12, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/dec-12-2022-flip-stack-weekly-bk7)
+- [Typescript: La palabra clave extends](https://dev.to/matiasfha/typescript-la-palabra-clave-extends-4nci)
+- [Remove Blank Lines from a File with Python](https://dev.to/jd2r/remove-blank-lines-from-a-file-461a)
+- [8 practical tips to boost the on-page SEO in no time](https://dev.to/mohsenkamrani/8-practical-tips-to-boost-the-on-page-seo-in-no-time-43)
+- [Creating Smooth Animations in React with Framer-Motion](https://dev.to/aykacode/creating-smooth-animations-in-react-with-framer-motion-407k)
 <!-- BLOG-POST-LIST:END -->
 
