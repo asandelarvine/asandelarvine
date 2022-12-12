@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How did you find your niche in tech?](https://dev.to/lisacee/how-did-you-find-your-niche-in-tech-5270)
 - [The dirty secrets of the IT Staffing industry](https://dev.to/heyjtk/the-dirty-secrets-of-the-it-staffing-industry-19na)
 - [What is the difference between http1 and http2 ?](https://dev.to/moayad523/what-is-the-difference-between-http1-and-http2-437j)
 - [Freelance Work. What to do?](https://dev.to/lit_mgwebi/freelance-work-what-to-do-2alj)
-- [How to Close a Pull Request - Merge Commit vs Squash vs Rebase on GitHub](https://dev.to/this-is-learning/how-to-close-a-pull-request-merge-commit-vs-squash-vs-rebase-on-github-14pi)
 <!-- BLOG-POST-LIST:END -->
 
