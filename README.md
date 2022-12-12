@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Routing in Rails](https://dev.to/mazin1231/routing-in-rails-52op)
-- [Light DOM and Lightning Web Components in Salesforce](https://dev.to/salesforcedevs/light-dom-and-lightning-web-components-in-salesforce-4d66)
-- [SQL Cheet Sheat](https://dev.to/annequinkenstein/sql-cheet-sheat-57ga)
-- [Selenium vs Cucumber: Core Differences](https://dev.to/hi_iam_chris/selenium-vs-cucumber-core-differences-45ef)
+- [What is the difference between http1 and http2 ?](https://dev.to/moayad523/what-is-the-difference-between-http1-and-http2-437j)
+- [Freelance Work. What to do?](https://dev.to/lit_mgwebi/freelance-work-what-to-do-2alj)
+- [How to Close a Pull Request - Merge Commit vs Squash vs Rebase on GitHub](https://dev.to/this-is-learning/how-to-close-a-pull-request-merge-commit-vs-squash-vs-rebase-on-github-14pi)
+- [Documentation 101: creating a good README for your software project](https://dev.to/erikaheidi/documentation-101-creating-a-good-readme-for-your-software-project-cf8)
 <!-- BLOG-POST-LIST:END -->
 
