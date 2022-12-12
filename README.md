@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Power of GitHub Actions for Streamlining DevOps Workflows](https://dev.to/pramit_marattha/the-power-of-github-actions-for-streamlining-devops-workflows-1h91)
+- [Client-side image compression with Supabase Storage](https://dev.to/mikeesto/client-side-image-compression-with-supabase-storage-1193)
 - [Make Your Tmux Status Line 100% Better With Bash](https://dev.to/brandonwallace/make-your-tmux-status-line-100-better-with-bash-mgf)
 - [Typescript: La palabra clave extends](https://dev.to/matiasfha/typescript-la-palabra-clave-extends-4nci)
-- [Provisioning a Persistent EBS-backed Storage on Amazon EKS using Helm](https://dev.to/aws-builders/provisioning-a-persistent-ebs-backed-storage-on-amazon-eks-using-helm-4gh4)
 <!-- BLOG-POST-LIST:END -->
 
