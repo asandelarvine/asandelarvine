@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing maintainable js code](https://dev.to/aneshodza/writing-maintainable-js-code-1gm6)
-- [In Postgres, perform a partial match on an encrypted column value](https://dev.to/asifroyal/in-postgres-perform-a-partial-match-on-an-encrypted-column-value-5bal)
-- [Perl Weekly #594 - Advent Calendar](https://dev.to/szabgab/perl-weekly-594-advent-calendar-31ao)
-- [10 Powerful VS Code extensions that&#39;ll boost your productivity in 2023](https://dev.to/hy_piyush/10-powerful-vs-code-extensions-thatll-boost-your-productivity-in-2023-ndj)
+- [Building universal JS/TS plugins with unplugin](https://dev.to/jacobandrewsky/building-universal-jsts-plugins-with-unplugin-5328)
+- [AWS open source newsletter, #138](https://dev.to/aws/aws-open-source-newsletter-138-461a)
+- [NgTemplateOutlet Typed Checking &lpar;Part 2&rpar;&lpar;Inline&rpar;](https://dev.to/this-is-angular/ngtemplateoutlet-typed-checking-part-2inline-4hc0)
+- [Unexpected token in JSON at position 0 error](https://dev.to/refine/unexpected-token-in-json-at-position-0-error-1okm)
 <!-- BLOG-POST-LIST:END -->
 
