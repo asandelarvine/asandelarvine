@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A visual is worth 1000 lines of code](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
+- [Clean Architecture In Flutter App Development](https://dev.to/kuldeeptarapara/clean-architecture-in-flutter-app-development-4b26)
 - [Exploring GraphiQL 2 Updates and New Features](https://dev.to/gethackteam/exploring-graphiql-2-updates-and-new-features-52a6)
 - [Data flow through services: SOAP](https://dev.to/zhukmax/data-flow-through-services-soap-a86)
-- [How to Make a Restaurant Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-restaurant-website-using-html-css-javascript-2mpn)
-- [How to Write and Compile a Shellcode in Rust](https://dev.to/sylvainkerkour/how-to-write-and-compile-a-shellcode-in-rust-3iip)
 <!-- BLOG-POST-LIST:END -->
 
