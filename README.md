@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Routing in Rails](https://dev.to/mazin1231/routing-in-rails-52op)
 - [Light DOM and Lightning Web Components in Salesforce](https://dev.to/salesforcedevs/light-dom-and-lightning-web-components-in-salesforce-4d66)
+- [SQL Cheet Sheat](https://dev.to/annequinkenstein/sql-cheet-sheat-57ga)
 - [Selenium vs Cucumber: Core Differences](https://dev.to/hi_iam_chris/selenium-vs-cucumber-core-differences-45ef)
-- [How to create the smartest multilingual Virtual Assistant using AWS and ChatGPT](https://dev.to/aws-builders/how-to-create-the-smartest-multilingual-virtual-assistant-using-aws-and-chatgpt-4i5k)
-- [Meme Monday 🎉](https://dev.to/ben/meme-monday-1e1i)
 <!-- BLOG-POST-LIST:END -->
 
