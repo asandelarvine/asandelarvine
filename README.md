@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of GitHub Actions for Streamlining DevOps Workflows](https://dev.to/pramit_marattha/the-power-of-github-actions-for-streamlining-devops-workflows-1h91)
+- [Make Your Tmux Status Line 100% Better With Bash](https://dev.to/brandonwallace/make-your-tmux-status-line-100-better-with-bash-mgf)
 - [Typescript: La palabra clave extends](https://dev.to/matiasfha/typescript-la-palabra-clave-extends-4nci)
 - [Provisioning a Persistent EBS-backed Storage on Amazon EKS using Helm](https://dev.to/aws-builders/provisioning-a-persistent-ebs-backed-storage-on-amazon-eks-using-helm-4gh4)
-- [Remove Blank Lines from a File with Python](https://dev.to/jd2r/remove-blank-lines-from-a-file-461a)
-- [8 practical tips to boost the on-page SEO in no time](https://dev.to/mohsenkamrani/8-practical-tips-to-boost-the-on-page-seo-in-no-time-43)
 <!-- BLOG-POST-LIST:END -->
 
