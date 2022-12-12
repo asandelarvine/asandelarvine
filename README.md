@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Typescript: La palabra clave extends](https://dev.to/matiasfha/typescript-la-palabra-clave-extends-4nci)
+- [Provisioning a Persistent EBS-backed Storage on Amazon EKS using Helm](https://dev.to/aws-builders/provisioning-a-persistent-ebs-backed-storage-on-amazon-eks-using-helm-4gh4)
 - [Remove Blank Lines from a File with Python](https://dev.to/jd2r/remove-blank-lines-from-a-file-461a)
 - [8 practical tips to boost the on-page SEO in no time](https://dev.to/mohsenkamrani/8-practical-tips-to-boost-the-on-page-seo-in-no-time-43)
-- [Creating Smooth Animations in React with Framer-Motion](https://dev.to/aykacode/creating-smooth-animations-in-react-with-framer-motion-407k)
 <!-- BLOG-POST-LIST:END -->
 
