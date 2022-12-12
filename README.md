@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 alternatives for div tag you need to know and use](https://dev.to/mohsenkamrani/6-alternatives-for-div-tag-you-need-to-know-and-use-4g3b)
 - [The Power of GitHub Actions for Streamlining DevOps Workflows](https://dev.to/pramit_marattha/the-power-of-github-actions-for-streamlining-devops-workflows-1h91)
 - [Client-side image compression with Supabase Storage](https://dev.to/mikeesto/client-side-image-compression-with-supabase-storage-1193)
 - [Make Your Tmux Status Line 100% Better With Bash](https://dev.to/brandonwallace/make-your-tmux-status-line-100-better-with-bash-mgf)
-- [Typescript: La palabra clave extends](https://dev.to/matiasfha/typescript-la-palabra-clave-extends-4nci)
 <!-- BLOG-POST-LIST:END -->
 
