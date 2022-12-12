@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A visual is worth 1000 lines of code](https://dev.to/codux/a-visual-is-worth-1000-lines-of-code-pe)
-- [Clean Architecture In Flutter App Development](https://dev.to/kuldeeptarapara/clean-architecture-in-flutter-app-development-4b26)
-- [Exploring GraphiQL 2 Updates and New Features](https://dev.to/gethackteam/exploring-graphiql-2-updates-and-new-features-52a6)
-- [Data flow through services: SOAP](https://dev.to/zhukmax/data-flow-through-services-soap-a86)
+- [LibreGrid : The Only React Component You&#39;ll Ever Need](https://dev.to/raddevus/libregrid-the-only-react-component-youll-ever-need-44o3)
+- [Music Monday — What are you listening to? &lpar;Punk Rock Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-punk-rock-edition-25k)
+- [What are your Goals for the week of December 12?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-december-12-2l5m)
+- [What&#39;s Your 2022 Highlight Reel?](https://dev.to/deepgram/whats-your-2022-highlight-reel-19n2)
 <!-- BLOG-POST-LIST:END -->
 
