@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Light DOM and Lightning Web Components in Salesforce](https://dev.to/salesforcedevs/light-dom-and-lightning-web-components-in-salesforce-4d66)
+- [Selenium vs Cucumber: Core Differences](https://dev.to/hi_iam_chris/selenium-vs-cucumber-core-differences-45ef)
+- [How to create the smartest multilingual Virtual Assistant using AWS and ChatGPT](https://dev.to/aws-builders/how-to-create-the-smartest-multilingual-virtual-assistant-using-aws-and-chatgpt-4i5k)
 - [Meme Monday 🎉](https://dev.to/ben/meme-monday-1e1i)
-- [LibreGrid : The Only React Component You&#39;ll Ever Need](https://dev.to/raddevus/libregrid-the-only-react-component-youll-ever-need-44o3)
-- [Music Monday — What are you listening to? &lpar;Punk Rock Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-punk-rock-edition-25k)
-- [What are your Goals for the week of December 12?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-december-12-2l5m)
 <!-- BLOG-POST-LIST:END -->
 
