@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Map, Filter &amp; Reduce functions.](https://dev.to/klc/understanding-map-filter-reduce-functions-22b)
-- [🐍FastAPI vs Flask 🌶️v⚡](https://dev.to/chainguns/fastapi-vs-flask-v-1cjb)
-- [Resume Tips That Will Get You Hired-#1](https://dev.to/shubhicodes/resume-tips-that-will-get-you-hired-1bac)
-- [Best API to generate profile avatars](https://dev.to/mavensingh/best-api-to-generate-profile-avatars-55ne)
+- [Exploring GraphiQL 2 Updates and New Features](https://dev.to/gethackteam/exploring-graphiql-2-updates-and-new-features-52a6)
+- [Data flow through services: SOAP](https://dev.to/zhukmax/data-flow-through-services-soap-a86)
+- [How to Make a Restaurant Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-restaurant-website-using-html-css-javascript-2mpn)
+- [How to Write and Compile a Shellcode in Rust](https://dev.to/sylvainkerkour/how-to-write-and-compile-a-shellcode-in-rust-3iip)
 <!-- BLOG-POST-LIST:END -->
 
