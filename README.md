@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get the user’s timezone in JavaScript with Edge Functions](https://dev.to/whitep4nth3r/how-to-get-the-users-timezone-in-javascript-with-edge-functions-2m4b)
+- [Responsive Navbar with CSS and JS](https://dev.to/shubhamtiwari909/responsive-navbar-with-css-and-js-5e8f)
+- [Importance of Lazy Loading content](https://dev.to/hotjar/importance-of-lazy-loading-content-56ck)
 - [Building universal JS/TS plugins with unplugin](https://dev.to/jacobandrewsky/building-universal-jsts-plugins-with-unplugin-5328)
-- [AWS open source newsletter, #138](https://dev.to/aws/aws-open-source-newsletter-138-461a)
-- [NgTemplateOutlet Typed Checking &lpar;Part 2&rpar;&lpar;Inline&rpar;](https://dev.to/this-is-angular/ngtemplateoutlet-typed-checking-part-2inline-4hc0)
-- [Unexpected token in JSON at position 0 error](https://dev.to/refine/unexpected-token-in-json-at-position-0-error-1okm)
 <!-- BLOG-POST-LIST:END -->
 
