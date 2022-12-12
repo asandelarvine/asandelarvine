@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Avoid Work-From-Home Burnout While Working Remotely](https://dev.to/daily_remote/how-to-avoid-work-from-home-burnout-while-working-remotely-7lp)
 - [6 alternatives for div tag you need to know and use](https://dev.to/mohsenkamrani/6-alternatives-for-div-tag-you-need-to-know-and-use-4g3b)
+- [Dialogue Systems in Video Games](https://dev.to/musique243/dialogue-systems-in-video-games-1c1e)
 - [The Power of GitHub Actions for Streamlining DevOps Workflows](https://dev.to/pramit_marattha/the-power-of-github-actions-for-streamlining-devops-workflows-1h91)
-- [Client-side image compression with Supabase Storage](https://dev.to/mikeesto/client-side-image-compression-with-supabase-storage-1193)
-- [Make Your Tmux Status Line 100% Better With Bash](https://dev.to/brandonwallace/make-your-tmux-status-line-100-better-with-bash-mgf)
 <!-- BLOG-POST-LIST:END -->
 
