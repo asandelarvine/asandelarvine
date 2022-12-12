@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best API to generate profile avatars](https://dev.to/mavensingh/best-api-to-generate-profile-avatars-55ne)
 - [How to get the user’s timezone in JavaScript with Edge Functions](https://dev.to/whitep4nth3r/how-to-get-the-users-timezone-in-javascript-with-edge-functions-2m4b)
 - [Responsive Navbar with CSS and JS](https://dev.to/shubhamtiwari909/responsive-navbar-with-css-and-js-5e8f)
-- [Importance of Lazy Loading content](https://dev.to/hotjar/importance-of-lazy-loading-content-56ck)
-- [Building universal JS/TS plugins with unplugin](https://dev.to/jacobandrewsky/building-universal-jsts-plugins-with-unplugin-5328)
+- [What Makes a Password Reset Email Great?](https://dev.to/sofiatarhonska/what-makes-a-password-reset-email-great-2258)
 <!-- BLOG-POST-LIST:END -->
 
