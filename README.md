@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Avoid Work-From-Home Burnout While Working Remotely](https://dev.to/daily_remote/how-to-avoid-work-from-home-burnout-while-working-remotely-7lp)
-- [6 alternatives for div tag you need to know and use](https://dev.to/mohsenkamrani/6-alternatives-for-div-tag-you-need-to-know-and-use-4g3b)
-- [Dialogue Systems in Video Games](https://dev.to/musique243/dialogue-systems-in-video-games-1c1e)
-- [The Power of GitHub Actions for Streamlining DevOps Workflows](https://dev.to/pramit_marattha/the-power-of-github-actions-for-streamlining-devops-workflows-1h91)
+- [Writing maintainable js code](https://dev.to/aneshodza/writing-maintainable-js-code-1gm6)
+- [In Postgres, perform a partial match on an encrypted column value](https://dev.to/asifroyal/in-postgres-perform-a-partial-match-on-an-encrypted-column-value-5bal)
+- [Perl Weekly #594 - Advent Calendar](https://dev.to/szabgab/perl-weekly-594-advent-calendar-31ao)
+- [10 Powerful VS Code extensions that&#39;ll boost your productivity in 2023](https://dev.to/hy_piyush/10-powerful-vs-code-extensions-thatll-boost-your-productivity-in-2023-ndj)
 <!-- BLOG-POST-LIST:END -->
 
