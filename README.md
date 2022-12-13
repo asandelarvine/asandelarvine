@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
+- [Sorting in Go&lpar;Golang&rpar; made easy](https://dev.to/hisyntax/sorting-in-gogolang-made-easy-1i84)
+- [Primeros pasos en WordPress 2023](https://dev.to/heskouricalidad/primeros-pasos-en-wordpress-2023-1e0i)
 - [Expose-WSL](https://dev.to/icflorescu/expose-wsl-2o66)
-- [Debugging Program Control Flow](https://dev.to/codenameone/debugging-program-control-flow-3406)
-- [After I do digital detox for a month](https://dev.to/bitethecode/after-i-do-digital-detox-for-a-month-1k1b)
-- [What Prisma doesn’t have yet](https://dev.to/zenstack/what-prisma-doesnt-have-yet-pan)
 <!-- BLOG-POST-LIST:END -->
 
