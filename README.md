@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Python Converter Tool - DataFrames, OpenAPI, CSV to Models, DataTables](https://dev.to/sm0ke/free-python-converter-tool-dataframes-openapi-csv-to-models-datatables-26jn)
-- [A practical method for managing environment variables in microservices running on AWS ECS](https://dev.to/asifroyal/a-practical-method-for-managing-environment-variables-in-microservices-running-on-aws-ecs-4ad)
-- [The most popular Backend framework with Node.js](https://dev.to/hshoja/the-most-popular-backend-framework-with-nodejs-1o8l)
-- [Serverless Security: The Best Tools For Keeping Your Architecture Safe](https://dev.to/pravinuttarwar/serverless-security-the-best-tools-for-keeping-your-architecture-safe-3789)
+- [How to run Apache SkyWalking on AWS EKS and RDS/Aurora](https://dev.to/aws/how-to-run-apache-skywalking-on-aws-eks-and-rdsaurora-4a5d)
+- [React Drag and Drop File Upload example](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
+- [Blue/Green Deployments for RDS: How Fast is a Switchover?](https://dev.to/aws-heroes/bluegreen-deployments-for-rds-how-fast-is-a-switchover-48bf)
+- [🎄 New year open-source giveaway: $100 Amazon Gift Card + Full Swag Kit](https://dev.to/necatiozmen/new-year-open-source-giveaway-100-amazon-gift-card-full-swag-kit-2f3e)
 <!-- BLOG-POST-LIST:END -->
 
