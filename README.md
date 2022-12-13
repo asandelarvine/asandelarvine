@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Svelte vs React: Which framework to learn in 2023?](https://dev.to/mikhailkaran/svelte-vs-react-which-framework-to-learn-in-2023-50gf)
 - [How to choose between Flexbox, Float and Grid like a pro](https://dev.to/mohsenkamrani/how-to-choose-between-flexbox-float-and-grid-like-a-pro-3d0h)
 - [How did you find your niche in tech?](https://dev.to/lisacee/how-did-you-find-your-niche-in-tech-5270)
 - [The dirty secrets of the IT Staffing industry](https://dev.to/heyjtk/the-dirty-secrets-of-the-it-staffing-industry-19na)
-- [How to use the Pandas library in Python](https://dev.to/elvirhajdari/how-to-use-the-pandas-library-in-python-52e7)
 <!-- BLOG-POST-LIST:END -->
 
