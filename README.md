@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Make Accordion in React](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
+- [How to handle type conversions with the DynamoDB Go SDK](https://dev.to/aws/how-to-handle-type-conversions-with-the-dynamodb-go-sdk-22f6)
 - [An awesome list of Platform Engineering](https://dev.to/node/an-awesome-list-of-platform-engineering-53io)
 - [Add Google Analytics to React/Next in 5 minutes](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
-- [Securing your NextJS Web Application with AWS Amplify and Cognito](https://dev.to/czetsuya/securing-your-nextjs-web-application-with-aws-amplify-and-cognito-1hne)
 <!-- BLOG-POST-LIST:END -->
 
