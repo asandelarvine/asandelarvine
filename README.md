@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build your first low-code app](https://dev.to/aaikansh_22/how-to-build-your-first-low-code-app-4aod)
 - [How to run Apache SkyWalking on AWS EKS and RDS/Aurora](https://dev.to/aws/how-to-run-apache-skywalking-on-aws-eks-and-rdsaurora-4a5d)
 - [React Drag and Drop File Upload example](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
 - [Blue/Green Deployments for RDS: How Fast is a Switchover?](https://dev.to/aws-heroes/bluegreen-deployments-for-rds-how-fast-is-a-switchover-48bf)
-- [🎄 New year open-source giveaway: $100 Amazon Gift Card + Full Swag Kit](https://dev.to/necatiozmen/new-year-open-source-giveaway-100-amazon-gift-card-full-swag-kit-2f3e)
 <!-- BLOG-POST-LIST:END -->
 
