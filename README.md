@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [After I do digital detox for a month](https://dev.to/bitethecode/after-i-do-digital-detox-for-a-month-1k1b)
+- [What Prisma doesn’t have yet](https://dev.to/zenstack/what-prisma-doesnt-have-yet-pan)
+- [Announcing Monokle 1.13, now with cluster management](https://dev.to/kubeshop/announcing-monokle-113-now-with-cluster-management-5ggk)
 - [All You Need to Know FIDO2 &amp; Passwordless Authentication](https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a)
-- [Code brushes for GitHub Copilot](https://dev.to/codepo8/code-brushes-for-github-copilot-4hij)
-- [Can You Explain Why This Is or Isn&#39;t Good UIDesign?](https://dev.to/raddevus/can-you-explain-why-this-is-or-isnt-good-uidesign-1a74)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-99g)
 <!-- BLOG-POST-LIST:END -->
 
