@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [SPVM::Sys 0.30 is released](https://dev.to/yukikimoto/spvmsys-030-is-released-4hko)
 - [Vendure - Quick setup](https://dev.to/dailydevtips1/vendure-quick-setup-51d8)
 - [5 Unsung HTML Tags You Really Should Know🤔](https://dev.to/freebeliever/5-unsung-html-tags-you-really-should-know-4l33)
-- [Apakah manusia benar-benar ada?🕊️](https://dev.to/fzn0x/apakah-manusia-benar-benar-ada-2jck)
+- [Reflections on My 15 Year Journey from Novice to Intermediate Developer](https://dev.to/entrptaher/reflections-on-my-15-year-journey-from-novice-to-intermediate-developer-pje)
 <!-- BLOG-POST-LIST:END -->
 
