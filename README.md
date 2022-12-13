@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Expose-WSL](https://dev.to/icflorescu/expose-wsl-2o66)
+- [Debugging Program Control Flow](https://dev.to/codenameone/debugging-program-control-flow-3406)
 - [After I do digital detox for a month](https://dev.to/bitethecode/after-i-do-digital-detox-for-a-month-1k1b)
 - [What Prisma doesn’t have yet](https://dev.to/zenstack/what-prisma-doesnt-have-yet-pan)
-- [Announcing Monokle 1.13, now with cluster management](https://dev.to/kubeshop/announcing-monokle-113-now-with-cluster-management-5ggk)
-- [All You Need to Know FIDO2 &amp; Passwordless Authentication](https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a)
 <!-- BLOG-POST-LIST:END -->
 
