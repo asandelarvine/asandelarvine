@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SPVM::Sys 0.30 is released](https://dev.to/yukikimoto/spvmsys-030-is-released-4hko)
-- [Vendure - Quick setup](https://dev.to/dailydevtips1/vendure-quick-setup-51d8)
-- [5 Unsung HTML Tags You Really Should Know🤔](https://dev.to/freebeliever/5-unsung-html-tags-you-really-should-know-4l33)
-- [Reflections on My 15 Year Journey from Novice to Intermediate Developer](https://dev.to/entrptaher/reflections-on-my-15-year-journey-from-novice-to-intermediate-developer-pje)
+- [Generating Rails Entity-Relationship Diagram](https://dev.to/meritonaliu/generating-rails-entity-relationship-diagram-fgm)
+- [Proxies for Email Protection](https://dev.to/oxylabs-io/proxies-for-email-protection-434f)
+- [What is cryptocurrency, bitcoin and web3 in 2023? &lpar;Explain Like, I&#39;m Five!&rpar;](https://dev.to/asadravian/what-is-cryptocurrency-bitcoin-and-web3-in-2023-explain-like-im-five-4ofm)
+- [Open-source React code generator component for CRUD apps based on your API on the fly](https://dev.to/refine/open-source-react-code-generator-component-for-crud-apps-based-on-your-api-on-the-fly-4hng)
 <!-- BLOG-POST-LIST:END -->
 
