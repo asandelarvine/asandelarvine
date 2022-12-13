@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 best open source platforms for B2B ecommerce](https://dev.to/medusajs/5-best-open-source-platforms-for-b2b-ecommerce-1kg4)
-- [How to build your first low-code app](https://dev.to/aaikansh_22/how-to-build-your-first-low-code-app-4aod)
-- [How to run Apache SkyWalking on AWS EKS and RDS/Aurora](https://dev.to/aws/how-to-run-apache-skywalking-on-aws-eks-and-rdsaurora-4a5d)
-- [React Drag and Drop File Upload example](https://dev.to/tienbku/react-drag-and-drop-file-upload-example-bac)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-99g)
+- [Recursion in JavaScript and React Components](https://dev.to/dephraiim/recursion-in-javascript-and-react-components-352e)
+- [How to use Axios interceptors to handle 401 API errors and refresh tokens in typescript.](https://dev.to/kuntadev/how-to-use-axios-interceptors-to-handle-401-api-errors-and-refresh-tokens-in-typescript-2cjo)
+- [Ditching .NET and finding faith again after 10 years!](https://dev.to/fx/ditching-net-and-finding-faith-again-after-10-years-4d7b)
 <!-- BLOG-POST-LIST:END -->
 
