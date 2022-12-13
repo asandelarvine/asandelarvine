@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating Rails Entity-Relationship Diagram](https://dev.to/meritonaliu/generating-rails-entity-relationship-diagram-fgm)
-- [Proxies for Email Protection](https://dev.to/oxylabs-io/proxies-for-email-protection-434f)
-- [What is cryptocurrency, bitcoin and web3 in 2023? &lpar;Explain Like, I&#39;m Five!&rpar;](https://dev.to/asadravian/what-is-cryptocurrency-bitcoin-and-web3-in-2023-explain-like-im-five-4ofm)
-- [Open-source React code generator component for CRUD apps based on your API on the fly](https://dev.to/refine/open-source-react-code-generator-component-for-crud-apps-based-on-your-api-on-the-fly-4hng)
+- [Serverless Security: The Best Tools For Keeping Your Architecture Safe](https://dev.to/pravinuttarwar/serverless-security-the-best-tools-for-keeping-your-architecture-safe-3789)
+- [Is fuck really a Unix command ? | Strange CLI Apps](https://dev.to/alantsui5/is-fuck-really-a-command-cli-apps-1b2k)
+- [Adding ActiveAdmin to a Rails 7 Application.](https://dev.to/meritonaliu/adding-activeadmin-to-a-rails-7-application-1ipe)
+- [The Benefits of Using the MVC Pattern in Ruby on Rails.](https://dev.to/meritonaliu/the-benefits-of-using-the-mvc-pattern-in-ruby-on-rails-bfi)
 <!-- BLOG-POST-LIST:END -->
 
