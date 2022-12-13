@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte vs React: Which framework to learn in 2023?](https://dev.to/mikhailkaran/svelte-vs-react-which-framework-to-learn-in-2023-50gf)
-- [How to choose between Flexbox, Float and Grid like a pro](https://dev.to/mohsenkamrani/how-to-choose-between-flexbox-float-and-grid-like-a-pro-3d0h)
-- [How did you find your niche in tech?](https://dev.to/lisacee/how-did-you-find-your-niche-in-tech-5270)
-- [The dirty secrets of the IT Staffing industry](https://dev.to/heyjtk/the-dirty-secrets-of-the-it-staffing-industry-19na)
+- [How to Make Accordion in React](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
+- [An awesome list of Platform Engineering](https://dev.to/node/an-awesome-list-of-platform-engineering-53io)
+- [Add Google Analytics to React/Next in 5 minutes](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
+- [Securing your NextJS Web Application with AWS Amplify and Cognito](https://dev.to/czetsuya/securing-your-nextjs-web-application-with-aws-amplify-and-cognito-1hne)
 <!-- BLOG-POST-LIST:END -->
 
