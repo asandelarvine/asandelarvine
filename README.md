@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
+- [Mastermind - set up the Python skeleton](https://dev.to/szabgab/mastermind-set-up-the-python-skeleton-2b6a)
 - [Sorting in Go&lpar;Golang&rpar; made easy](https://dev.to/hisyntax/sorting-in-gogolang-made-easy-1i84)
 - [Primeros pasos en WordPress 2023](https://dev.to/heskouricalidad/primeros-pasos-en-wordpress-2023-1e0i)
-- [Expose-WSL](https://dev.to/icflorescu/expose-wsl-2o66)
 <!-- BLOG-POST-LIST:END -->
 
