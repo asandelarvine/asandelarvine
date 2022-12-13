@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Accordion in React](https://dev.to/reactjsguru/how-to-make-accordion-in-react-1nb0)
-- [How to handle type conversions with the DynamoDB Go SDK](https://dev.to/aws/how-to-handle-type-conversions-with-the-dynamodb-go-sdk-22f6)
-- [An awesome list of Platform Engineering](https://dev.to/node/an-awesome-list-of-platform-engineering-53io)
-- [Add Google Analytics to React/Next in 5 minutes](https://dev.to/leduc1901/add-google-analytics-to-reactnext-in-5-minutes-fbb)
+- [SPVM::Sys 0.30 is released](https://dev.to/yukikimoto/spvmsys-030-is-released-4hko)
+- [Vendure - Quick setup](https://dev.to/dailydevtips1/vendure-quick-setup-51d8)
+- [5 Unsung HTML Tags You Really Should Know🤔](https://dev.to/freebeliever/5-unsung-html-tags-you-really-should-know-4l33)
+- [Apakah manusia benar-benar ada?🕊️](https://dev.to/fzn0x/apakah-manusia-benar-benar-ada-2jck)
 <!-- BLOG-POST-LIST:END -->
 
