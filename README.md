@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All You Need to Know FIDO2 &amp; Passwordless Authentication](https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a)
+- [Code brushes for GitHub Copilot](https://dev.to/codepo8/code-brushes-for-github-copilot-4hij)
+- [Can You Explain Why This Is or Isn&#39;t Good UIDesign?](https://dev.to/raddevus/can-you-explain-why-this-is-or-isnt-good-uidesign-1a74)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-99g)
-- [Recursion in JavaScript and React Components](https://dev.to/dephraiim/recursion-in-javascript-and-react-components-352e)
-- [How to use Axios interceptors to handle 401 API errors and refresh tokens in typescript.](https://dev.to/kuntadev/how-to-use-axios-interceptors-to-handle-401-api-errors-and-refresh-tokens-in-typescript-2cjo)
-- [Ditching .NET and finding faith again after 10 years!](https://dev.to/fx/ditching-net-and-finding-faith-again-after-10-years-4d7b)
 <!-- BLOG-POST-LIST:END -->
 
