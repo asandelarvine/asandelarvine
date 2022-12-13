@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Python Converter Tool - DataFrames, OpenAPI, CSV to Models, DataTables](https://dev.to/sm0ke/free-python-converter-tool-dataframes-openapi-csv-to-models-datatables-26jn)
+- [A practical method for managing environment variables in microservices running on AWS ECS](https://dev.to/asifroyal/a-practical-method-for-managing-environment-variables-in-microservices-running-on-aws-ecs-4ad)
+- [The most popular Backend framework with Node.js](https://dev.to/hshoja/the-most-popular-backend-framework-with-nodejs-1o8l)
 - [Serverless Security: The Best Tools For Keeping Your Architecture Safe](https://dev.to/pravinuttarwar/serverless-security-the-best-tools-for-keeping-your-architecture-safe-3789)
-- [Is fuck really a Unix command ? | Strange CLI Apps](https://dev.to/alantsui5/is-fuck-really-a-command-cli-apps-1b2k)
-- [Adding ActiveAdmin to a Rails 7 Application.](https://dev.to/meritonaliu/adding-activeadmin-to-a-rails-7-application-1ipe)
-- [The Benefits of Using the MVC Pattern in Ruby on Rails.](https://dev.to/meritonaliu/the-benefits-of-using-the-mvc-pattern-in-ruby-on-rails-bfi)
 <!-- BLOG-POST-LIST:END -->
 
