@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Benefits of Using a Version Control System](https://dev.to/blst-security/5-benefits-of-using-a-version-control-system-5f91)
+- [Applying Design Patterns in React: Strategy Pattern](https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn)
 - [Vendure - Storefronts](https://dev.to/dailydevtips1/vendure-storefronts-1o80)
 - [When do you use setState with a callback?](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
-- [UIUC MCS - CS 435 Review - Cloud Computer Networking](https://dev.to/scc33/uiuc-mcs-cs-435-review-cloud-computer-networking-58c5)
-- [DynamoDB and its Data Pane Operations - 1](https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-1-2772)
 <!-- BLOG-POST-LIST:END -->
 
