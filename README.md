@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Benefits of Using a Version Control System](https://dev.to/blst-security/5-benefits-of-using-a-version-control-system-5f91)
-- [Applying Design Patterns in React: Strategy Pattern](https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn)
-- [Vendure - Storefronts](https://dev.to/dailydevtips1/vendure-storefronts-1o80)
-- [When do you use setState with a callback?](https://dev.to/csituma/when-do-you-use-setstate-with-a-callback-1f3g)
+- [POSIX Compatibility Comparison among four file system on the cloud](https://dev.to/tonybarber2/posix-compatibility-comparison-among-four-file-system-on-the-cloud-2781)
+- [2022 Highlights: Open Source Development! ✨](https://dev.to/saminarp/2022-highlights-open-source-development-1k27)
+- [Top 5 API testing tools 2022](https://dev.to/qbentil/top-5-api-testing-tools-2022-297j)
+- [I let ChatGPT loose on dev.to - here are the results](https://dev.to/aneshodza/i-let-chatgpt-loose-on-devto-here-are-the-results-194p)
 <!-- BLOG-POST-LIST:END -->
 
