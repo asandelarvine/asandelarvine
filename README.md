@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fun but not useful extensions for devs](https://dev.to/chainguns/fun-but-not-useful-extensions-for-devs-p0h)
+- [Tensorflow Installation Guide Python](https://dev.to/mavensingh/tensorflow-installation-guide-python-55bo)
+- [How to Choose the Best Host for Your GitHub Blog](https://dev.to/ionos/how-to-choose-the-best-host-for-your-github-blog-k7d)
 - [POSIX Compatibility Comparison among four file system on the cloud](https://dev.to/tonybarber2/posix-compatibility-comparison-among-four-file-system-on-the-cloud-2781)
-- [2022 Highlights: Open Source Development! ✨](https://dev.to/saminarp/2022-highlights-open-source-development-1k27)
-- [Top 5 API testing tools 2022](https://dev.to/qbentil/top-5-api-testing-tools-2022-297j)
-- [I let ChatGPT loose on dev.to - here are the results](https://dev.to/aneshodza/i-let-chatgpt-loose-on-devto-here-are-the-results-194p)
 <!-- BLOG-POST-LIST:END -->
 
