@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a scheduling app: I wish somebody showed me this technique when I first started coding 🤔](https://dev.to/novu/creating-a-scheduling-app-i-wish-somebody-showed-me-this-technique-when-i-first-started-coding-2icd)
-- [JavaScript Callback Functions explained in their simplest form.](https://dev.to/dustin4d/javascript-callback-functions-explained-in-their-simplest-form-45p6)
-- [10x Your Productivity with Aviyel&#39;s Discord Bot: An In-Depth Guide](https://dev.to/aviyel/10x-your-productivity-with-aviyels-discord-bot-an-in-depth-guide-1gm4)
-- [I Built a Serverless App To Cross-Post My Blogs](https://dev.to/aws-heroes/i-built-a-serverless-app-to-cross-post-my-blogs-3eoe)
+- [Spring Boot 3 JPA + Auth + JWT](https://dev.to/ozair0/spring-boot-3-jpa-auth-jwt-1imp)
+- [How to style a button using Tailwind CSS](https://dev.to/shubhicodes/how-to-style-a-button-using-tailwind-css-2gpd)
+- [GLTF Animations in wgpu and Rust](https://dev.to/whoisryosuke/gltf-animations-in-wgpu-and-rust-4d9i)
+- [15 Javascript Browser APIs](https://dev.to/hidaytrahman/15-javascript-browser-apis-3d17)
 <!-- BLOG-POST-LIST:END -->
 
