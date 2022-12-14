@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [A little about Typescript Utility Types](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
+- [Zod - Validate your API inputs with ease](https://dev.to/sammy1999/zod-validate-your-api-inputs-with-ease-2on9)
+- [How to Use antd upload with Form.Item and Form.List ,finally get uploaded filePath when onFinish?](https://dev.to/alaakassemsenousy/how-to-use-antd-upload-with-formitem-and-formlist-finally-get-uploaded-filepath-when-onfinish-29e2)
 - [Web Services Description Language](https://dev.to/zhukmax/web-services-description-language-35pj)
-- [Array.sort&lpar;&rpar; in JavaScript - I was asked about this in an interview](https://dev.to/mhm13dev/arraysort-in-javascript-i-was-asked-about-this-in-an-interview-387)
-- [Updating JSON data on SQL Server with JSON_MODIFY&lpar;&rpar;](https://dev.to/gustavupp/updating-json-data-on-sql-server-with-jsonmodify-4i5)
 <!-- BLOG-POST-LIST:END -->
 
