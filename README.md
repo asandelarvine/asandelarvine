@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Position Independent Shellcodes in Rust &lpar;PIC&rpar;](https://dev.to/sylvainkerkour/position-independent-shellcodes-in-rust-pic-3061)
-- [Uncovering Open Source B2B Ecommerce](https://dev.to/medusajs/uncovering-open-source-b2b-ecommerce-4lbp)
-- [Cool Open AI product idea](https://dev.to/shreyvijayvargiya/cool-open-ai-product-idea-3bh8)
-- [OpenBSD Full Disk Encryption &lpar;on VirtualBox&rpar;](https://dev.to/nabbisen/openbsd-full-disk-encryption-on-virtualbox-2963)
+- [Tailwindcss vs Bootstrap: Which is Better for Your Project?](https://dev.to/ariellun/tailwindcss-vs-bootstrap-which-is-better-for-your-project-5b3o)
+- [QR Code Generator Online 2023](https://dev.to/herryjobn/qr-code-generator-online-2023-2d60)
+- [Resources You Need As a DevRel](https://dev.to/patilganesh1010/resources-you-need-as-a-devrel-pl0)
+- [Bonus Tip: How to Use GitHub Actions to Test a GitHub Action Whose Output Must be Visually Inspected](https://dev.to/cicirello/bonus-tip-how-to-use-github-actions-to-test-a-github-action-whose-output-must-be-visually-inspected-4956)
 <!-- BLOG-POST-LIST:END -->
 
