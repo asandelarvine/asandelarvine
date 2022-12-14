@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Position Independent Shellcodes in Rust &lpar;PIC&rpar;](https://dev.to/sylvainkerkour/position-independent-shellcodes-in-rust-pic-3061)
+- [Uncovering Open Source B2B Ecommerce](https://dev.to/medusajs/uncovering-open-source-b2b-ecommerce-4lbp)
+- [Cool Open AI product idea](https://dev.to/shreyvijayvargiya/cool-open-ai-product-idea-3bh8)
 - [OpenBSD Full Disk Encryption &lpar;on VirtualBox&rpar;](https://dev.to/nabbisen/openbsd-full-disk-encryption-on-virtualbox-2963)
-- [How to Create Personal Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-create-personal-blog-website-using-html-css-javascript-27c3)
-- [Conditional Rendering in React](https://dev.to/refine/conditional-rendering-in-react-4o4g)
-- [Next.js in Production: Best Practices and Common Pitfalls](https://dev.to/_itsglover/nextjs-in-production-best-practices-and-common-pitfalls-3ind)
 <!-- BLOG-POST-LIST:END -->
 
