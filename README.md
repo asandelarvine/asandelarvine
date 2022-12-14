@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [UIUC MCS - CS 435 Review - Cloud Computer Networking](https://dev.to/scc33/uiuc-mcs-cs-435-review-cloud-computer-networking-58c5)
+- [DynamoDB and its Data Pane Operations - 1](https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-1-2772)
 - [A little about Typescript Utility Types](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
 - [Zod - Validate your API inputs with ease](https://dev.to/sammy1999/zod-validate-your-api-inputs-with-ease-2on9)
-- [How to Use antd upload with Form.Item and Form.List ,finally get uploaded filePath when onFinish?](https://dev.to/alaakassemsenousy/how-to-use-antd-upload-with-formitem-and-formlist-finally-get-uploaded-filepath-when-onfinish-29e2)
-- [Web Services Description Language](https://dev.to/zhukmax/web-services-description-language-35pj)
 <!-- BLOG-POST-LIST:END -->
 
