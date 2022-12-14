@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10x Your Productivity with Aviyel&#39;s Discord Bot: An In-Depth Guide](https://dev.to/aviyel/10x-your-productivity-with-aviyels-discord-bot-an-in-depth-guide-1gm4)
 - [Tailwindcss vs Bootstrap: Which is Better for Your Project?](https://dev.to/ariellun/tailwindcss-vs-bootstrap-which-is-better-for-your-project-5b3o)
 - [QR Code Generator Online 2023](https://dev.to/herryjobn/qr-code-generator-online-2023-2d60)
 - [Resources You Need As a DevRel](https://dev.to/patilganesh1010/resources-you-need-as-a-devrel-pl0)
-- [Bonus Tip: How to Use GitHub Actions to Test a GitHub Action Whose Output Must be Visually Inspected](https://dev.to/cicirello/bonus-tip-how-to-use-github-actions-to-test-a-github-action-whose-output-must-be-visually-inspected-4956)
 <!-- BLOG-POST-LIST:END -->
 
