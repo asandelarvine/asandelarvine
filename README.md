@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix Frontend Tests as a lazy developer](https://dev.to/ingosteinke/how-to-fix-frontend-tests-as-a-lazy-developer-15ga)
 - [Smart contracts: audit ‘em all like a security engineer](https://dev.to/cossacklabs/smart-contracts-audit-em-all-like-a-security-engineer-46b5)
 - [Deepgram in the Wild: A Year in Review](https://dev.to/deepgram/deepgram-in-the-wild-a-year-in-review-32j6)
 - [Spring Boot 3 JPA + Auth + JWT](https://dev.to/ozair0/spring-boot-3-jpa-auth-jwt-1imp)
-- [How to style a button using Tailwind CSS](https://dev.to/shubhicodes/how-to-style-a-button-using-tailwind-css-2gpd)
 <!-- BLOG-POST-LIST:END -->
 
