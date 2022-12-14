@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a scheduling app: I wish somebody showed me this technique when I first started coding 🤔](https://dev.to/novu/creating-a-scheduling-app-i-wish-somebody-showed-me-this-technique-when-i-first-started-coding-2icd)
+- [JavaScript Callback Functions explained in their simplest form.](https://dev.to/dustin4d/javascript-callback-functions-explained-in-their-simplest-form-45p6)
 - [10x Your Productivity with Aviyel&#39;s Discord Bot: An In-Depth Guide](https://dev.to/aviyel/10x-your-productivity-with-aviyels-discord-bot-an-in-depth-guide-1gm4)
-- [Tailwindcss vs Bootstrap: Which is Better for Your Project?](https://dev.to/ariellun/tailwindcss-vs-bootstrap-which-is-better-for-your-project-5b3o)
-- [QR Code Generator Online 2023](https://dev.to/herryjobn/qr-code-generator-online-2023-2d60)
-- [Resources You Need As a DevRel](https://dev.to/patilganesh1010/resources-you-need-as-a-devrel-pl0)
+- [I Built a Serverless App To Cross-Post My Blogs](https://dev.to/aws-heroes/i-built-a-serverless-app-to-cross-post-my-blogs-3eoe)
 <!-- BLOG-POST-LIST:END -->
 
