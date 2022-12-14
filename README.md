@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #128: SWR, Vite, Codux, Storybook, Next.js, Forget, Nylon, Paper, align-deps, INP, Zod, Tauri...](https://dev.to/sebastienlorber/this-week-in-react-128-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-9eb)
-- [How to become a DevOps Engineer](https://dev.to/sec_maestro/how-to-become-a-devops-engineer-4kl4)
-- [Why Prisma and Platformatic are a great match](https://dev.to/prisma/why-prisma-and-platformatic-are-a-great-match-2dkl)
-- [Python and relative imports in AWS Lambda Functions](https://dev.to/aws-builders/python-and-relative-imports-in-aws-lambda-functions-3khn)
+- [OpenBSD Full Disk Encryption &lpar;on VirtualBox&rpar;](https://dev.to/nabbisen/openbsd-full-disk-encryption-on-virtualbox-2963)
+- [How to Create Personal Blog Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-create-personal-blog-website-using-html-css-javascript-27c3)
+- [Conditional Rendering in React](https://dev.to/refine/conditional-rendering-in-react-4o4g)
+- [Next.js in Production: Best Practices and Common Pitfalls](https://dev.to/_itsglover/nextjs-in-production-best-practices-and-common-pitfalls-3ind)
 <!-- BLOG-POST-LIST:END -->
 
