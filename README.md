@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 4 best resources to learn Rust !](https://dev.to/nathan20/the-4-best-resources-to-learn-rust--3238)
 - [Fun but not useful extensions for devs](https://dev.to/chainguns/fun-but-not-useful-extensions-for-devs-p0h)
 - [Tensorflow Installation Guide Python](https://dev.to/mavensingh/tensorflow-installation-guide-python-55bo)
-- [How to Choose the Best Host for Your GitHub Blog](https://dev.to/ionos/how-to-choose-the-best-host-for-your-github-blog-k7d)
-- [POSIX Compatibility Comparison among four file system on the cloud](https://dev.to/tonybarber2/posix-compatibility-comparison-among-four-file-system-on-the-cloud-2781)
+- [Playwright - How to write tests](https://dev.to/this-is-learning/playwright-how-to-write-tests-1m5d)
 <!-- BLOG-POST-LIST:END -->
 
