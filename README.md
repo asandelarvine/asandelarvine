@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A little about Typescript Utility Types](https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd)
 - [Web Services Description Language](https://dev.to/zhukmax/web-services-description-language-35pj)
 - [Array.sort&lpar;&rpar; in JavaScript - I was asked about this in an interview](https://dev.to/mhm13dev/arraysort-in-javascript-i-was-asked-about-this-in-an-interview-387)
 - [Updating JSON data on SQL Server with JSON_MODIFY&lpar;&rpar;](https://dev.to/gustavupp/updating-json-data-on-sql-server-with-jsonmodify-4i5)
-- [Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
 <!-- BLOG-POST-LIST:END -->
 
