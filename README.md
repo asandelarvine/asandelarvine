@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4 best resources to learn Rust !](https://dev.to/nathan20/the-4-best-resources-to-learn-rust--3238)
-- [Fun but not useful extensions for devs](https://dev.to/chainguns/fun-but-not-useful-extensions-for-devs-p0h)
-- [Tensorflow Installation Guide Python](https://dev.to/mavensingh/tensorflow-installation-guide-python-55bo)
-- [Playwright - How to write tests](https://dev.to/this-is-learning/playwright-how-to-write-tests-1m5d)
+- [This Week In React #128: SWR, Vite, Codux, Storybook, Next.js, Forget, Nylon, Paper, align-deps, INP, Zod, Tauri...](https://dev.to/sebastienlorber/this-week-in-react-128-nextra-react-query-react-documentary-storybook-remix-tamagui-solito-tc39-rome-9eb)
+- [How to become a DevOps Engineer](https://dev.to/sec_maestro/how-to-become-a-devops-engineer-4kl4)
+- [Why Prisma and Platformatic are a great match](https://dev.to/prisma/why-prisma-and-platformatic-are-a-great-match-2dkl)
+- [Python and relative imports in AWS Lambda Functions](https://dev.to/aws-builders/python-and-relative-imports-in-aws-lambda-functions-3khn)
 <!-- BLOG-POST-LIST:END -->
 
