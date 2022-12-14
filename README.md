@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SvelteKit 1.0 Has Been Released!](https://dev.to/kvetoslavnovak/sveltekit-10-has-been-released-23me)
+- [Share code between React Native and React Web](https://dev.to/rita/share-code-between-react-native-and-react-web-1343)
+- [Fixing Class Composition in Tailwind CSS](https://dev.to/areknawo/fixing-class-composition-in-tailwind-css-1k4d)
 - [I built an AI portrait app &lpar;with a twist&rpar; using Midjourney](https://dev.to/taavirannamets/i-built-an-ai-portrait-app-with-a-twist-using-midjourney-1b7c)
-- [Automatically Generating OpenAPI Docs for Mastodon](https://dev.to/appmap/automatically-generating-openapi-docs-for-mastodon-42ig)
-- [Intrinsic motivation models](https://dev.to/aismagulov/intrinsic-motivation-1ja8)
-- [Why we ditched GraphQL for tRPC](https://dev.to/alexanderson1993/why-we-ditched-graphql-for-trpc-8c4)
 <!-- BLOG-POST-LIST:END -->
 
