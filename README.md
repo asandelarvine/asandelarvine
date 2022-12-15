@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Santa, I really want a Chase Bliss Generation Loss MKII effects pedal!](https://dev.to/music-discussions/dear-santa-i-really-want-a-chase-bliss-generation-loss-mkii-effects-pedal-195e)
 - [Buying tech from questionable sources](https://dev.to/adam_cyclones/buying-tech-from-questionable-sources-a91)
+- [Typescript Exceed Recursion Limitation](https://dev.to/tylim88/typescript-exceed-recursion-limitation-18pm)
 - [What are classes in python?](https://dev.to/ezinne_anne/what-are-classes-in-python-451c)
-- [How to exchange a secret key over an insecure network &lpar;EC-Diffie-Hellman algorithm&rpar;](https://dev.to/exemak/how-to-exchange-a-secret-key-over-an-insecure-network-ec-diffie-hellman-algorithm-1gj2)
-- [AWS WAF vs. open-appsec ML-Based open source WAF](https://dev.to/openappsec/aws-waf-vs-open-appsec-ml-based-open-source-waf-1egp)
 <!-- BLOG-POST-LIST:END -->
 
