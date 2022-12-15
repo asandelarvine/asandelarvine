@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Material UI Checkbox](https://dev.to/refine/material-ui-checkbox-1pf4)
+- [Friendly Data Modeling &amp; Auto-generated, Editable Migrations for Platformatic with Prisma](https://dev.to/prisma/friendly-data-modeling-auto-generated-editable-migrations-for-platformatic-with-prisma-dib)
 - [Create a recommendation engine for your website with AWS SageMaker](https://dev.to/mohsenkamrani/create-a-recommendation-engine-for-your-website-with-aws-sagemaker-5490)
-- [useReducer hook in React &lpar;No redux here&rpar;](https://dev.to/csituma/usereducer-hook-in-react-no-redux-here-4mb5)
-- [Discover the Secret to Boosting Your Team&#39;s Productivity: Aviyel&#39;s Slack Bot Revealed!](https://dev.to/aviyel/discover-the-secret-to-boosting-your-teams-productivity-aviyels-slack-bot-revealed-1jjn)
+- [Playing around with Sanity.io](https://dev.to/palmiak/playing-around-with-sanityio-3l5e)
 <!-- BLOG-POST-LIST:END -->
 
