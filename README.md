@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap to Blockchain Development](https://dev.to/siddharthsing/roadmap-to-blockchain-development-on4)
 - [How to create a React app for a complete Beginner](https://dev.to/darkxenium/how-to-create-a-react-app-for-a-complete-beginner-50ph)
 - [Best Coding Practices](https://dev.to/darkxenium/best-coding-practices-15i)
-- [9 UX Best Practices for Ecommerce](https://dev.to/medusajs/9-ux-best-practices-for-ecommerce-1oao)
-- [From Zero to Hero: An Ultimate Guide to Acing Google Summer of Code](https://dev.to/thenomadevel/from-zero-to-hero-an-ultimate-guide-to-acing-google-summer-of-code-577p)
+- [9 UX Learnings From the World&#39;s Best Ecommerce Site](https://dev.to/medusajs/9-ux-best-practices-for-ecommerce-1oao)
 <!-- BLOG-POST-LIST:END -->
 
