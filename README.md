@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Four security checklists for Android app development](https://dev.to/teamliapp/four-security-checklists-for-android-app-development-11nj)
 - [Introducing the mirror command in Reduct CLI version 0.3.0](https://dev.to/reduct-storage/introducing-the-mirror-command-in-reduct-cli-client-version-030-5hgf)
-- [My year in review](https://dev.to/santoshyadav198613/my-year-in-review-341d)
-- [SvelteKit 1.0 Has Been Released! 🥳](https://dev.to/kvetoslavnovak/sveltekit-10-has-been-released-23me)
-- [Share code between React Native and React Web](https://dev.to/rita/share-code-between-react-native-and-react-web-1343)
+- [How to Create and Manage Virtual Domains using Node.js](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
+- [How To License Open Source Code Properly](https://dev.to/anonyco/how-to-license-open-source-code-properly-bp9)
 <!-- BLOG-POST-LIST:END -->
 
