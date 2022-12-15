@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best vs code Extensions for Web Development](https://dev.to/namangarg/best-vs-code-extensions-for-web-development-36k6)
-- [CI/CD Tutorial For Developers](https://dev.to/pavanbelagatti/cicd-tutorial-for-developers-3l0)
-- [LeetCode&#39;s Add Two Numbers in Linked List Solution - Beats 86% in Memory, Simple Brute Force Algorithm in Java](https://dev.to/verisimilitude11/leetcodes-add-two-numbers-solution-beats-86-in-memory-simple-brute-force-algorithm-in-java-292p)
-- [How to Convert PDF File to Word file on Python?](https://dev.to/trackhuynk/how-to-convert-pdf-file-to-word-file-on-python-4p8l)
+- [Discover the Secret to Boosting Your Team&#39;s Productivity: Aviyel&#39;s Slack Bot Revealed!](https://dev.to/aviyel/discover-the-secret-to-boosting-your-teams-productivity-aviyels-slack-bot-revealed-1jjn)
+- [Set the theme of a website based on the time of the day &lpar;no external library&rpar;](https://dev.to/mohsenkamrani/set-the-theme-of-a-website-based-on-the-time-of-the-day-no-external-library-5ank)
+- [2022 in Review](https://dev.to/batunpc/2022-in-review-4mgm)
+- [Microservices Interview Questions and Answers | Microservices Architecture Training](https://dev.to/damon_lamare/microservices-interview-questions-and-answers-microservices-architecture-training-35nf)
 <!-- BLOG-POST-LIST:END -->
 
