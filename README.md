@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Techniques for Improving Performance with React Virtualization](https://dev.to/basskibo/advanced-techniques-for-improving-performance-with-react-virtualization-fd1)
+- [It’s Not Open Source, It’s You. Where Open Source Risk Comes From](https://dev.to/linearb/its-not-open-source-its-you-where-open-source-risk-comes-from-3g87)
 - [Dear Santa, I really want a Chase Bliss Generation Loss MKII effects pedal!](https://dev.to/music-discussions/dear-santa-i-really-want-a-chase-bliss-generation-loss-mkii-effects-pedal-195e)
 - [Buying tech from questionable sources](https://dev.to/adam_cyclones/buying-tech-from-questionable-sources-a91)
-- [Typescript Exceed Recursion Limitation](https://dev.to/tylim88/typescript-exceed-recursion-limitation-18pm)
-- [What are classes in python?](https://dev.to/ezinne_anne/what-are-classes-in-python-451c)
 <!-- BLOG-POST-LIST:END -->
 
