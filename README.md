@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap to Blockchain Development](https://dev.to/siddharthsing/roadmap-to-blockchain-development-on4)
-- [How to create a React app for a complete Beginner](https://dev.to/darkxenium/how-to-create-a-react-app-for-a-complete-beginner-50ph)
-- [Best Coding Practices](https://dev.to/darkxenium/best-coding-practices-15i)
-- [9 UX Learnings From the World&#39;s Best Ecommerce Site](https://dev.to/medusajs/9-ux-best-practices-for-ecommerce-1oao)
+- [Will Instagram kill photography?](https://dev.to/ben/will-instagram-kill-photography-4p2d)
+- [Welcome Thread - v204](https://dev.to/thepracticaldev/welcome-thread-v204-529m)
+- [Rendering emails with Svelte](https://dev.to/escape/rendering-emails-with-svelte-243d)
+- [VueJS Vs ReactJS](https://dev.to/jagroop2000/vuejs-vs-reactjs-2hdj)
 <!-- BLOG-POST-LIST:END -->
 
