@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to exchange a secret key over an insecure network &lpar;EC-Diffie-Hellman algorithm&rpar;](https://dev.to/exemak/how-to-exchange-a-secret-key-over-an-insecure-network-ec-diffie-hellman-algorithm-1gj2)
 - [AWS WAF vs. open-appsec ML-Based open source WAF](https://dev.to/openappsec/aws-waf-vs-open-appsec-ml-based-open-source-waf-1egp)
 - [GCP CUD: Are There Better Ways to Save Up the Cloud?](https://dev.to/castai/gcp-cud-are-there-better-ways-to-save-up-the-cloud-3icj)
 - [Self-hosted code streaming](https://dev.to/pipoprods/self-hosted-code-streaming-26im)
-- [Will Instagram kill photography?](https://dev.to/ben/will-instagram-kill-photography-4p2d)
 <!-- BLOG-POST-LIST:END -->
 
