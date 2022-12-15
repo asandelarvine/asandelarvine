@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-hosted code streaming](https://dev.to/pipoprods/self-hosted-code-streaming-26im)
 - [Will Instagram kill photography?](https://dev.to/ben/will-instagram-kill-photography-4p2d)
-- [Welcome Thread - v204](https://dev.to/thepracticaldev/welcome-thread-v204-529m)
-- [Rendering emails with Svelte](https://dev.to/escape/rendering-emails-with-svelte-243d)
-- [VueJS Vs ReactJS](https://dev.to/jagroop2000/vuejs-vs-reactjs-2hdj)
+- [Documentação técnica para iniciantes, parte 1: criando um bom README para o seu projeto](https://dev.to/erikaheidi/documentacao-tecnica-para-iniciantes-parte-1-criando-um-bom-readme-para-o-seu-projeto-3ebl)
+- [15 Tips to Become a Java Expert!](https://dev.to/weder96/15-tips-to-become-a-java-expert-1acj)
 <!-- BLOG-POST-LIST:END -->
 
