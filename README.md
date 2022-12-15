@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Material UI Checkbox](https://dev.to/refine/material-ui-checkbox-1pf4)
-- [Friendly Data Modeling &amp; Auto-generated, Editable Migrations for Platformatic with Prisma](https://dev.to/prisma/friendly-data-modeling-auto-generated-editable-migrations-for-platformatic-with-prisma-dib)
-- [Create a recommendation engine for your website with AWS SageMaker](https://dev.to/mohsenkamrani/create-a-recommendation-engine-for-your-website-with-aws-sagemaker-5490)
-- [Playing around with Sanity.io](https://dev.to/palmiak/playing-around-with-sanityio-3l5e)
+- [Use Google Analytics to uncover the truth about dark and light mode user&#39;s preferences](https://dev.to/alex_barashkov/use-google-analytics-to-uncover-the-truth-about-dark-and-light-mode-users-preferences-46po)
+- [Easy Ways to Debug Your Code &lpar;Without Crying&rpar;](https://dev.to/codewithvoid/easy-ways-to-debug-your-code-without-crying-1p0f)
+- [How to build a piano with only HTML, CSS, Javascript ?](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
+- [Shhhh... Kubernetes Secrets Are Not Really Secret!](https://dev.to/oktadev/shhhh-kubernetes-secrets-are-not-really-secret-3h38)
 <!-- BLOG-POST-LIST:END -->
 
