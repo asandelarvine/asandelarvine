@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of HTML5 in Modern Web Development](https://dev.to/omerwow/the-role-of-html5-in-modern-web-development-ghi)
+- [Material UI Checkbox](https://dev.to/refine/material-ui-checkbox-1pf4)
+- [Create a recommendation engine for your website with AWS SageMaker](https://dev.to/mohsenkamrani/create-a-recommendation-engine-for-your-website-with-aws-sagemaker-5490)
+- [useReducer hook in React &lpar;No redux here&rpar;](https://dev.to/csituma/usereducer-hook-in-react-no-redux-here-4mb5)
 - [Discover the Secret to Boosting Your Team&#39;s Productivity: Aviyel&#39;s Slack Bot Revealed!](https://dev.to/aviyel/discover-the-secret-to-boosting-your-teams-productivity-aviyels-slack-bot-revealed-1jjn)
-- [Set the theme of a website based on the time of the day &lpar;no external library&rpar;](https://dev.to/mohsenkamrani/set-the-theme-of-a-website-based-on-the-time-of-the-day-no-external-library-5ank)
-- [2022 in Review](https://dev.to/batunpc/2022-in-review-4mgm)
 <!-- BLOG-POST-LIST:END -->
 
