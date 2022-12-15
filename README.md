@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Four security checklists for Android app development](https://dev.to/teamliapp/four-security-checklists-for-android-app-development-11nj)
-- [Introducing the mirror command in Reduct CLI version 0.3.0](https://dev.to/reduct-storage/introducing-the-mirror-command-in-reduct-cli-client-version-030-5hgf)
-- [How to Create and Manage Virtual Domains using Node.js](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
-- [How To License Open Source Code Properly](https://dev.to/anonyco/how-to-license-open-source-code-properly-bp9)
+- [Best vs code Extensions for Web Development](https://dev.to/namangarg/best-vs-code-extensions-for-web-development-36k6)
+- [CI/CD Tutorial For Developers](https://dev.to/pavanbelagatti/cicd-tutorial-for-developers-3l0)
+- [LeetCode&#39;s Add Two Numbers in Linked List Solution - Beats 86% in Memory, Simple Brute Force Algorithm in Java](https://dev.to/verisimilitude11/leetcodes-add-two-numbers-solution-beats-86-in-memory-simple-brute-force-algorithm-in-java-292p)
+- [How to Convert PDF File to Word file on Python?](https://dev.to/trackhuynk/how-to-convert-pdf-file-to-word-file-on-python-4p8l)
 <!-- BLOG-POST-LIST:END -->
 
