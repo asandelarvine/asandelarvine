@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Google Analytics to uncover the truth about dark and light mode user&#39;s preferences](https://dev.to/alex_barashkov/use-google-analytics-to-uncover-the-truth-about-dark-and-light-mode-users-preferences-46po)
-- [Easy Ways to Debug Your Code &lpar;Without Crying&rpar;](https://dev.to/codewithvoid/easy-ways-to-debug-your-code-without-crying-1p0f)
-- [How to build a piano with only HTML, CSS, Javascript ?](https://dev.to/lotfijb/how-to-create-a-piano-with-only-html-css-javascript--3lk3)
-- [Shhhh... Kubernetes Secrets Are Not Really Secret!](https://dev.to/oktadev/shhhh-kubernetes-secrets-are-not-really-secret-3h38)
+- [Experience of my first in-person event as a speaker at ACD Pune 2022](https://dev.to/aws-builders/experience-of-my-first-in-person-event-as-a-speaker-at-acd-pune-2022-4bcp)
+- [Pagination with Javascript](https://dev.to/shubhamtiwari909/pagination-with-javascript-2a0)
+- [Navigating search results: pagination vs infinite scroll vs load more](https://dev.to/meilisearch/navigating-search-results-pagination-vs-infinite-scroll-vs-load-more-m90)
+- [XML JOB INTERVIEW QUESTIONS](https://dev.to/satyam_prg/xml-job-interview-questions-4eg8)
 <!-- BLOG-POST-LIST:END -->
 
