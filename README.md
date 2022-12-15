@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Experience of my first in-person event as a speaker at ACD Pune 2022](https://dev.to/aws-builders/experience-of-my-first-in-person-event-as-a-speaker-at-acd-pune-2022-4bcp)
-- [Pagination with Javascript](https://dev.to/shubhamtiwari909/pagination-with-javascript-2a0)
-- [Navigating search results: pagination vs infinite scroll vs load more](https://dev.to/meilisearch/navigating-search-results-pagination-vs-infinite-scroll-vs-load-more-m90)
-- [XML JOB INTERVIEW QUESTIONS](https://dev.to/satyam_prg/xml-job-interview-questions-4eg8)
+- [How to create a React app for a complete Beginner](https://dev.to/darkxenium/how-to-create-a-react-app-for-a-complete-beginner-50ph)
+- [Best Coding Practices](https://dev.to/darkxenium/best-coding-practices-15i)
+- [9 UX Best Practices for Ecommerce](https://dev.to/medusajs/9-ux-best-practices-for-ecommerce-1oao)
+- [From Zero to Hero: An Ultimate Guide to Acing Google Summer of Code](https://dev.to/thenomadevel/from-zero-to-hero-an-ultimate-guide-to-acing-google-summer-of-code-577p)
 <!-- BLOG-POST-LIST:END -->
 
