@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Medusa 1.7.0: Performance Improvement, B2B Launch, and more!](https://dev.to/medusajs/medusa-170-performance-improvement-b2b-launch-and-more-15pe)
 - [Follow Friday: Social Media Edition &lpar;16 December 2022&rpar;](https://dev.to/devteam/follow-friday-social-media-edition-16-december-2022-5aho)
+- [AWS re:Invent reCap 2022](https://dev.to/aws-builders/aws-reinvent-recap-2022-4h40)
 - [Orbiting planets in solar systems Python | nano](https://dev.to/bekbrace/orbiting-planets-in-solar-systems-python-nano-2hf6)
-- [Is Microsoft&#39;s .net dying?](https://dev.to/darkxenium/is-microsofts-net-dying-1em0)
-- [Amazing Rating Card Using HTML CSS JavaScript | Fronend mentor](https://dev.to/codewithsadee/amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn)
 <!-- BLOG-POST-LIST:END -->
 
