@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s not Afraid of Z-index?](https://dev.to/cleveslabcodes/whos-not-afraid-of-z-index-2c5k)
+- [Strong Parameters in Rails?](https://dev.to/hermitex/strong-parameters-4po1)
+- [EasyTailwind: a package to supercharge your Tailwind](https://dev.to/noriller/easytailwind-a-package-to-supercharge-your-tailwind-13ah)
 - [The question of the day...](https://dev.to/erinposting/the-question-of-the-day-12nh)
-- [How Stripe’s top engineer allocates dev bandwidth](https://dev.to/linearb/how-stripes-top-engineer-allocates-dev-bandwidth-3c2a)
-- [We won best dev portal!](https://dev.to/fastly/we-won-best-dev-portal-58e0)
-- [Moving data from CockroachDB🪳 to PostgreSQL🐘 or YugabyteDB🚀](https://dev.to/franckpachot/moving-data-from-cockroachdb-to-postgresql-or-yugabytedb-462h)
 <!-- BLOG-POST-LIST:END -->
 
