@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source low-code application and automation builder](https://dev.to/mohsenkamrani/open-source-low-code-application-and-automation-builder-55e7)
 - [Vendure - Assets to an S3 bucket](https://dev.to/dailydevtips1/vendure-assets-to-an-s3-bucket-3fag)
 - [Use your third-party scripts without the performance hit with Partytown](https://dev.to/leduc1901/use-your-third-party-scripts-without-the-performance-hit-with-partytown-2bdf)
 - [LeetCode&#39;s Running Sum of 1d Array - Highly Efficient Java Solution &lpar;Beats 100% In Runtime And 94% in Memory Usage&rpar;](https://dev.to/verisimilitude11/leetcodes-running-sum-of-1d-array-highly-efficient-java-solution-beats-100-in-runtime-and-94-in-memory-usage-4ena)
-- [Consistent Command-Line Execution of ES6 Module Entry Points](https://dev.to/tythos/consistent-command-line-execution-of-es6-module-entry-points-2o7k)
 <!-- BLOG-POST-LIST:END -->
 
