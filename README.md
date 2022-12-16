@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Front-end Best Practices](https://dev.to/jagroop2000/front-end-best-practices-1ef0)
 - [TO&#39;G&#39;RI TO&#39;RTBURCHAK YUZUNI TOPISH O&#39;RGANAMIZ.](https://dev.to/jafar9442/togri-tortburchak-yasah-organamiz-2pfk)
 - [Why Cloud Adoption is the 21st Century Strategy](https://dev.to/mwendwabundi/why-cloud-adoption-is-the-21st-century-strategy-52ma)
 - [Docker course: Hello World](https://dev.to/szabgab/docker-course-hello-world-2829)
-- [WebRTC vs. WebSocket: Which is best for your app?](https://dev.to/ably/webrtc-vs-websocket-which-is-best-for-your-app-5fkb)
 <!-- BLOG-POST-LIST:END -->
 
