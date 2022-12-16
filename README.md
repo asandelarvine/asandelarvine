@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying Simulation with AWS SimSpace Weaver](https://dev.to/aws-heroes/trying-simulation-with-aws-simspace-weaver-57bb)
+- [Top 4 new ideas around Open AI and GPT 3](https://dev.to/shreyvijayvargiya/top-4-new-ideas-around-open-ai-and-gpt-3-35m5)
 - [Front-end Best Practices](https://dev.to/jagroop2000/front-end-best-practices-1ef0)
 - [TO&#39;G&#39;RI TO&#39;RTBURCHAK YUZUNI TOPISH O&#39;RGANAMIZ.](https://dev.to/jafar9442/togri-tortburchak-yasah-organamiz-2pfk)
-- [Why Cloud Adoption is the 21st Century Strategy](https://dev.to/mwendwabundi/why-cloud-adoption-is-the-21st-century-strategy-52ma)
-- [Docker course: Hello World](https://dev.to/szabgab/docker-course-hello-world-2829)
 <!-- BLOG-POST-LIST:END -->
 
