@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the differences between translation and localization?](https://dev.to/aexol-studio/what-are-the-differences-between-translation-and-localization-2npn)
-- [Create MongoDB database and connect with Mongoose](https://dev.to/aneeqakhan/create-mongodb-database-and-connect-with-mongoose-1ii2)
-- [How are you preparing for the new year?](https://dev.to/missamarakay/how-are-you-preparing-for-the-new-year-248a)
-- [Enforcing Your CSS Standards with a Custom Stylelint Plugin](https://dev.to/mbarzeev/enforcing-your-css-standards-with-a-custom-stylelint-plugin-1o8c)
+- [Follow Friday: Social Media Edition &lpar;16 December 2022&rpar;](https://dev.to/devteam/follow-friday-social-media-edition-16-december-2022-5aho)
+- [Orbiting planets in solar systems Python | nano](https://dev.to/bekbrace/orbiting-planets-in-solar-systems-python-nano-2hf6)
+- [Is Microsoft&#39;s .net dying?](https://dev.to/darkxenium/is-microsofts-net-dying-1em0)
+- [Amazing Rating Card Using HTML CSS JavaScript | Fronend mentor](https://dev.to/codewithsadee/amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn)
 <!-- BLOG-POST-LIST:END -->
 
