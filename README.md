@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying Simulation with AWS SimSpace Weaver](https://dev.to/aws-heroes/trying-simulation-with-aws-simspace-weaver-57bb)
-- [Top 4 new ideas around Open AI and GPT 3](https://dev.to/shreyvijayvargiya/top-4-new-ideas-around-open-ai-and-gpt-3-35m5)
-- [Front-end Best Practices](https://dev.to/jagroop2000/front-end-best-practices-1ef0)
-- [TO&#39;G&#39;RI TO&#39;RTBURCHAK YUZUNI TOPISH O&#39;RGANAMIZ.](https://dev.to/jafar9442/togri-tortburchak-yasah-organamiz-2pfk)
+- [What are the differences between translation and localization?](https://dev.to/aexol-studio/what-are-the-differences-between-translation-and-localization-2npn)
+- [Create MongoDB database and connect with Mongoose](https://dev.to/aneeqakhan/create-mongodb-database-and-connect-with-mongoose-1ii2)
+- [How are you preparing for the new year?](https://dev.to/missamarakay/how-are-you-preparing-for-the-new-year-248a)
+- [Enforcing Your CSS Standards with a Custom Stylelint Plugin](https://dev.to/mbarzeev/enforcing-your-css-standards-with-a-custom-stylelint-plugin-1o8c)
 <!-- BLOG-POST-LIST:END -->
 
