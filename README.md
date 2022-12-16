@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Cloud Adoption is the 21st Century Strategy](https://dev.to/mwendwabundi/why-cloud-adoption-is-the-21st-century-strategy-52ma)
 - [WebRTC vs. WebSocket: Which is best for your app?](https://dev.to/ably/webrtc-vs-websocket-which-is-best-for-your-app-5fkb)
 - [What is DevRel?](https://dev.to/haimantika/what-is-devrel-41a3)
 - [Open-source low-code application and automation builder](https://dev.to/mohsenkamrani/open-source-low-code-application-and-automation-builder-55e7)
-- [useState vs useReducer - choose your champion 🤺](https://dev.to/csituma/usestate-vs-usereducer-with-examples-choose-your-champion-26hi)
 <!-- BLOG-POST-LIST:END -->
 
