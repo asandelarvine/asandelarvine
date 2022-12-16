@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Higher-Order Functions](https://dev.to/parenttobias/understanding-higher-order-functions-4f6d)
 - [Who&#39;s not Afraid of Z-index?](https://dev.to/cleveslabcodes/whos-not-afraid-of-z-index-2c5k)
 - [Strong Parameters in Rails?](https://dev.to/hermitex/strong-parameters-4po1)
 - [EasyTailwind: a package to supercharge your Tailwind](https://dev.to/noriller/easytailwind-a-package-to-supercharge-your-tailwind-13ah)
-- [The question of the day...](https://dev.to/erinposting/the-question-of-the-day-12nh)
 <!-- BLOG-POST-LIST:END -->
 
