@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WebRTC vs. WebSocket: Which is best for your app?](https://dev.to/ably/webrtc-vs-websocket-which-is-best-for-your-app-5fkb)
+- [What is DevRel?](https://dev.to/haimantika/what-is-devrel-41a3)
 - [Open-source low-code application and automation builder](https://dev.to/mohsenkamrani/open-source-low-code-application-and-automation-builder-55e7)
-- [Vendure - Assets to an S3 bucket](https://dev.to/dailydevtips1/vendure-assets-to-an-s3-bucket-3fag)
-- [Use your third-party scripts without the performance hit with Partytown](https://dev.to/leduc1901/use-your-third-party-scripts-without-the-performance-hit-with-partytown-2bdf)
-- [LeetCode&#39;s Running Sum of 1d Array - Highly Efficient Java Solution &lpar;Beats 100% In Runtime And 94% in Memory Usage&rpar;](https://dev.to/verisimilitude11/leetcodes-running-sum-of-1d-array-highly-efficient-java-solution-beats-100-in-runtime-and-94-in-memory-usage-4ena)
+- [useState vs useReducer - choose your champion 🤺](https://dev.to/csituma/usestate-vs-usereducer-with-examples-choose-your-champion-26hi)
 <!-- BLOG-POST-LIST:END -->
 
