@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use React with Perl/Mojolicious web frame work](https://dev.to/yukikimoto/how-to-use-react-with-perlmojolicious-web-frame-work-8id)
+- [SPVM 0.9667 is released](https://dev.to/yukikimoto/spvm-09667-is-released-2pph)
+- [Streaming Data to Apache Iceberg Lakehouses](https://dev.to/tspannhw/streaming-data-to-apache-iceberg-lakehouses-3319)
 - [A Framework For Knowing What You Don&#39;t Know](https://dev.to/cerchie/a-framework-for-knowing-what-you-dont-know-1m2d)
-- [Host SvelteKit apps with SSR-support via ploi.io &lpar;on Hetzner Cloud&rpar;](https://dev.to/mandrasch/host-sveltekit-apps-with-ssr-support-via-ploiio-on-hetzner-cloud-1cpa)
-- [Understanding Higher-Order Functions](https://dev.to/parenttobias/understanding-higher-order-functions-4f6d)
-- [Who&#39;s not Afraid of Z-index?](https://dev.to/cleveslabcodes/whos-not-afraid-of-z-index-2c5k)
 <!-- BLOG-POST-LIST:END -->
 
