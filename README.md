@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [VS Code Extensions You Should Use As a React Developer](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i)
 - [How to use React with Perl/Mojolicious web frame work](https://dev.to/yukikimoto/how-to-use-react-with-perlmojolicious-web-frame-work-8id)
 - [Introduction to SwiftUI for NativeScript](https://dev.to/valorsoftware/introduction-to-swiftui-for-nativescript-4m1b)
-- [SPVM 0.9667 is released](https://dev.to/yukikimoto/spvm-09667-is-released-2pph)
+- [Streaming Data to Apache Iceberg Lakehouses](https://dev.to/tspannhw/streaming-data-to-apache-iceberg-lakehouses-3319)
 <!-- BLOG-POST-LIST:END -->
 
