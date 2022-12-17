@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use React with Perl/Mojolicious web frame work](https://dev.to/yukikimoto/how-to-use-react-with-perlmojolicious-web-frame-work-8id)
+- [Introduction to SwiftUI for NativeScript](https://dev.to/valorsoftware/introduction-to-swiftui-for-nativescript-4m1b)
 - [SPVM 0.9667 is released](https://dev.to/yukikimoto/spvm-09667-is-released-2pph)
 - [Streaming Data to Apache Iceberg Lakehouses](https://dev.to/tspannhw/streaming-data-to-apache-iceberg-lakehouses-3319)
-- [A Framework For Knowing What You Don&#39;t Know](https://dev.to/cerchie/a-framework-for-knowing-what-you-dont-know-1m2d)
 <!-- BLOG-POST-LIST:END -->
 
