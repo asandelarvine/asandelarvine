@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Re-entrancy attacks in Ethereum smart contrats](https://dev.to/_jaleltounsi/re-entrancy-attack-in-an-ethereum-smart-contrat-5e2f)
+- [Introducing ChatGPT: The Revolutionary Chatbot Powered by OpenAI&#39;s GPT-3](https://dev.to/c4r4x35/introducing-chatgpt-the-revolutionary-chatbot-powered-by-openais-gpt-3-1303)
 - [Linux vs Ubuntu : Beyond an OS!](https://dev.to/darkxenium/linux-vs-ubuntu-beyond-an-os-4ng1)
-- [Fastify on Azure Web App is super straightforward](https://dev.to/this-is-learning/fastify-on-azure-web-app-is-super-straightforward-1de3)
-- [Simple Search box with icon](https://dev.to/urstrulyvishwak/simple-search-box-with-icon-274l)
+- [Are you using useEffect efficiently? 🤔](https://dev.to/rohan220217/are-you-using-useeffect-efficiently-1fcl)
 <!-- BLOG-POST-LIST:END -->
 
