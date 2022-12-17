@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ES6 Concepts for React JS](https://dev.to/shubhamtiwari909/es6-concepts-for-react-js-51ok)
 - [Get Ready for Thought -Provoking Insights and Engaging Tech Content: Announcing My New Substack Newsletter](https://dev.to/pramit_marattha/get-ready-for-thought-provoking-insights-and-engaging-tech-content-announcing-my-new-substack-newsletter-1g98)
 - [How to integrate Reduct Storage to your C++ application](https://dev.to/reduct-storage/how-to-integrate-reduct-storage-to-your-c-application-3nd)
 - [How to create a Google Maps clone using OpenStreetMap API](https://dev.to/brandonbyr4/how-to-create-a-google-maps-clone-using-openstreetmap-api-1gfg)
-- [Vendure - Setting up facets](https://dev.to/dailydevtips1/vendure-setting-up-facets-39f7)
 <!-- BLOG-POST-LIST:END -->
 
