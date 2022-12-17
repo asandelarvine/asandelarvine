@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 17: A JavaScript bug and GitHub Workflow CI for the four-pillars Ruby gem](https://dev.to/szabgab/a-javascript-bug-and-github-workflow-ci-for-the-four-pillars-ruby-gem-1gbg)
 - [Re-entrancy attacks in Ethereum smart contrats](https://dev.to/_jaleltounsi/re-entrancy-attack-in-an-ethereum-smart-contrat-5e2f)
 - [Introducing ChatGPT: The Revolutionary Chatbot Powered by OpenAI&#39;s GPT-3](https://dev.to/c4r4x35/introducing-chatgpt-the-revolutionary-chatbot-powered-by-openais-gpt-3-1303)
 - [Linux vs Ubuntu : Beyond an OS!](https://dev.to/darkxenium/linux-vs-ubuntu-beyond-an-os-4ng1)
-- [Are you using useEffect efficiently? 🤔](https://dev.to/rohan220217/are-you-using-useeffect-efficiently-1fcl)
 <!-- BLOG-POST-LIST:END -->
 
