@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Extensions You Should Use As a React Developer](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i)
-- [How to use React with Perl/Mojolicious web frame work](https://dev.to/yukikimoto/how-to-use-react-with-perlmojolicious-web-frame-work-8id)
-- [Introduction to SwiftUI for NativeScript](https://dev.to/valorsoftware/introduction-to-swiftui-for-nativescript-4m1b)
-- [Streaming Data to Apache Iceberg Lakehouses](https://dev.to/tspannhw/streaming-data-to-apache-iceberg-lakehouses-3319)
+- [How to integrate Reduct Storage to your C++ application](https://dev.to/reduct-storage/how-to-integrate-reduct-storage-to-your-c-application-3nd)
+- [How to create a Google Maps clone using OpenStreetMap API](https://dev.to/brandonbyr4/how-to-create-a-google-maps-clone-using-openstreetmap-api-1gfg)
+- [Vendure - Setting up facets](https://dev.to/dailydevtips1/vendure-setting-up-facets-39f7)
+- [Observability - Types Of Vendor Pricing Models](https://dev.to/aws-builders/observability-types-of-vendor-pricing-models-4bl9)
 <!-- BLOG-POST-LIST:END -->
 
