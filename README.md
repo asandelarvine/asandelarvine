@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: A JavaScript bug and GitHub Workflow CI for the four-pillars Ruby gem](https://dev.to/szabgab/a-javascript-bug-and-github-workflow-ci-for-the-four-pillars-ruby-gem-1gbg)
-- [Re-entrancy attacks in Ethereum smart contrats](https://dev.to/_jaleltounsi/re-entrancy-attack-in-an-ethereum-smart-contrat-5e2f)
-- [Introducing ChatGPT: The Revolutionary Chatbot Powered by OpenAI&#39;s GPT-3](https://dev.to/c4r4x35/introducing-chatgpt-the-revolutionary-chatbot-powered-by-openais-gpt-3-1303)
-- [Linux vs Ubuntu : Beyond an OS!](https://dev.to/darkxenium/linux-vs-ubuntu-beyond-an-os-4ng1)
+- [How to add robots.txt to Next.js Application](https://dev.to/uniquewebdev/how-to-add-robotstxt-to-nextjs-application-en0)
+- [Thank you all✨](https://dev.to/klc/thank-you-all-1i7g)
+- [Top 5 Open-Source Projects In LSTM Neural Networks To Know in 2023](https://dev.to/abhiwalia15/top-5-open-source-projects-in-lstm-neural-networks-to-know-in-2023-493j)
+- [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
 <!-- BLOG-POST-LIST:END -->
 
