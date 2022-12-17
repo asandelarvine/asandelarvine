@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test beyond your code with docker &amp; pytest](https://dev.to/farcellier/test-beyond-your-code-with-docker-pytest-3b7g)
 - [Why We Use CSS Preprocessors ?](https://dev.to/jagroop2000/why-we-use-css-preprocessors--5cn5)
 - [How to contribute to open-source with any skill level](https://dev.to/mohsenkamrani/how-to-contribute-to-open-source-with-any-skill-level-4k1a)
 - [ES6 Concepts for React JS](https://dev.to/shubhamtiwari909/es6-concepts-for-react-js-51ok)
-- [5 commands you need know about Linux networking](https://dev.to/caodawei3/5-commands-you-need-know-about-linux-networking-n3o)
 <!-- BLOG-POST-LIST:END -->
 
