@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Re-entrancy attacks in Ethereum smart contrats](https://dev.to/_jaleltounsi/re-entrancy-attack-in-an-ethereum-smart-contrat-5e2f)
 - [Linux vs Ubuntu : Beyond an OS!](https://dev.to/darkxenium/linux-vs-ubuntu-beyond-an-os-4ng1)
 - [Fastify on Azure Web App is super straightforward](https://dev.to/this-is-learning/fastify-on-azure-web-app-is-super-straightforward-1de3)
 - [Simple Search box with icon](https://dev.to/urstrulyvishwak/simple-search-box-with-icon-274l)
-- [10 Essential Developer Tools for Productivity](https://dev.to/nexusgits/10-essential-developer-tools-for-productivity-3b26)
 <!-- BLOG-POST-LIST:END -->
 
