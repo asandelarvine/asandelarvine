@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Named vs Default Export in JavaScript](https://dev.to/basskibo/named-vs-default-export-in-javascript-48kb)
 - [How to add robots.txt to Next.js Application](https://dev.to/uniquewebdev/how-to-add-robotstxt-to-nextjs-application-en0)
 - [Thank you all✨](https://dev.to/klc/thank-you-all-1i7g)
 - [Top 5 Open-Source Projects In LSTM Neural Networks To Know in 2023](https://dev.to/abhiwalia15/top-5-open-source-projects-in-lstm-neural-networks-to-know-in-2023-493j)
-- [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
 <!-- BLOG-POST-LIST:END -->
 
