@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced shellcode in Rust](https://dev.to/sylvainkerkour/advanced-shellcode-in-rust-26be)
-- [TypeScript Lambda with cdktf](https://dev.to/aws-builders/typescript-lambda-with-cdktf-51g3)
-- [How to Host your personal portfolio Website on Netlify?](https://dev.to/darkxenium/how-to-host-your-personal-portfolio-website-on-netlify-i13)
-- [https://codepen.io/your-work](https://dev.to/yashsu/httpscodepenioyour-work-28k5)
+- [Containerizing Node.js Applications with Docker](https://dev.to/c4r4x35/containerizing-nodejs-applications-with-docker-3020)
+- [Javascript Array.from&lpar;&rpar; second argument](https://dev.to/trinityyi/javascript-arrayfrom-second-argument-16b9)
+- [Everything you should know as a Cloud Guru for Storage](https://dev.to/aws-builders/everything-you-should-know-as-a-cloud-guru-for-storage-3b15)
+- [Limitations and Solutions to consider while using SQS ️](https://dev.to/aws-builders/limitations-and-solutions-to-consider-while-using-sqs-3h9f)
 <!-- BLOG-POST-LIST:END -->
 
