@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Transposing a Matrix in Ruby: Using the Zip Method](https://dev.to/camfilho/transposing-a-matrix-in-ruby-using-the-zip-method-46o2)
 - [Creating a Service Monitor in k8s](https://dev.to/apgapg/creating-a-service-monitor-in-k8s-nl8)
 - [react useRef&lpar;&rpar; hook &lpar;web dev simplified&rpar;](https://dev.to/akshdesai1/react-useref-hook-web-dev-simplified-1obm)
 - [Dockerizing NodeJS, Express, and MongoDB App with NGINX as a Reverse Proxy](https://dev.to/lovepreetsingh/dockerizing-nodejs-express-and-mongodb-app-with-nginx-as-a-reverse-proxy-27a4)
-- [Vorms: Vue form validation with Composition API](https://dev.to/minighost/vorms-vue-form-validation-with-composition-api-5dhg)
 <!-- BLOG-POST-LIST:END -->
 
