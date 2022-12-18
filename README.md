@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Posts from last week tagged&lpar;#security&rpar;](https://dev.to/c4r4x35/awesome-posts-from-last-week-taggedsecurity-1ihf)
-- [AWS open source newsletter, #139](https://dev.to/aws/aws-open-source-newsletter-139-3254)
-- [Switching from Windows to Fedora: A Developer&#39;s Experience](https://dev.to/ricovz/switching-from-windows-to-fedora-a-developers-experience-1hjf)
-- [Top 10 Tech Careers for 2023](https://dev.to/thalhatou/top-10-tech-careers-for-2023-3o04)
+- [Decorator pattern in TypeScript](https://dev.to/jmalvarez/decorator-pattern-in-typescript-na5)
+- [What is Google Summer of Code?](https://dev.to/avinash201199/what-is-google-summer-of-code-2odk)
+- [Role of Unity and Unreal Engine in VR development](https://dev.to/shiaart/role-of-unity-and-unreal-engine-in-vr-development-e8e)
+- [Integrate Elastic Search with Node.js](https://dev.to/tanxeel/integrate-elastic-search-with-nodejs-4f5h)
 <!-- BLOG-POST-LIST:END -->
 
