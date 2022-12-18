@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Typia] 15,000x faster validator and its histories](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
+- [Build the Budget Gaming PC for Under 30K](https://dev.to/nexusgits/build-the-budget-gaming-pc-for-under-30k-5bcf)
+- [Task monads](https://dev.to/attila_vecerek/task-monads-2ob0)
+- [[Typia] 15,000x faster TypeScript Validator and its histories](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
 - [My Journey To Becoming An A11y Expert: Current Status](https://dev.to/yuridevat/my-journey-to-becoming-an-a11y-expert-current-status-4of8)
-- [Top 4 Open Ai Project For Developers.](https://dev.to/codewithkevin/top-4-open-ai-project-for-developers-91f)
-- [Tutorial part-1: Key-value store](https://dev.to/restdbjones/part-1-key-value-store-bji)
 <!-- BLOG-POST-LIST:END -->
 
