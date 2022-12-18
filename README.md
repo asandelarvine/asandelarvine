@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build the Budget Gaming PC for Under 30K](https://dev.to/nexusgits/build-the-budget-gaming-pc-for-under-30k-5bcf)
-- [Task monads](https://dev.to/attila_vecerek/task-monads-2ob0)
-- [[Typia] 15,000x faster TypeScript Validator and its histories](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
-- [My Journey To Becoming An A11y Expert: Current Status](https://dev.to/yuridevat/my-journey-to-becoming-an-a11y-expert-current-status-4of8)
+- [AWS open source newsletter, #139](https://dev.to/aws/aws-open-source-newsletter-139-3254)
+- [Switching from Windows to Fedora: A Developer&#39;s Experience](https://dev.to/ricovz/switching-from-windows-to-fedora-a-developers-experience-1hjf)
+- [Top 10 Tech Careers for 2023](https://dev.to/thalhatou/top-10-tech-careers-for-2023-3o04)
+- [What is CDN and Why Should You Use It?](https://dev.to/edgaras98/what-is-cdn-and-why-should-you-use-it-4i1b)
 <!-- BLOG-POST-LIST:END -->
 
