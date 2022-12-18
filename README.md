@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate infrastructure for manually created resources in AWS](https://dev.to/aws-builders/create-iac-for-manually-created-resources-in-aws-48pe)
 - [Decorator pattern in TypeScript](https://dev.to/jmalvarez/decorator-pattern-in-typescript-na5)
 - [What is Google Summer of Code?](https://dev.to/avinash201199/what-is-google-summer-of-code-2odk)
 - [Role of Unity and Unreal Engine in VR development](https://dev.to/shiaart/role-of-unity-and-unreal-engine-in-vr-development-e8e)
-- [Integrate Elastic Search with Node.js](https://dev.to/tanxeel/integrate-elastic-search-with-nodejs-4f5h)
 <!-- BLOG-POST-LIST:END -->
 
