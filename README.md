@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 4 Open Ai Project For Developers.](https://dev.to/codewithkevin/top-4-open-ai-project-for-developers-91f)
+- [Tutorial part-1: Key-value store](https://dev.to/restdbjones/part-1-key-value-store-bji)
+- [How open sources tool can help you to secure your website api?](https://dev.to/nathan20/how-open-sources-tool-can-help-you-to-secure-your-website-api-588g)
 - [Firebase: Applying Feature Flag using Remote Config](https://dev.to/burhanahmeed/firebase-applying-feature-flag-using-remote-config-332d)
-- [AI and Frontend Development: A Match Made in Tech Heaven?](https://dev.to/chainguns/ai-and-frontend-development-a-match-made-in-tech-heaven-5c55)
-- [10 Reasons Why You Should use Docker](https://dev.to/gdenn/10-reasons-why-you-should-use-docker-5dp0)
-- [Headless UI Libraries: The Key to Flexible and Accessible User Interfaces](https://dev.to/verthon/headless-ui-libraries-the-key-to-flexible-and-accessible-user-interfaces-546p)
 <!-- BLOG-POST-LIST:END -->
 
