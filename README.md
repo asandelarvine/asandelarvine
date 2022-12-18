@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Typia] 15,000x faster validator and its histories](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
+- [My Journey To Becoming An A11y Expert: Current Status](https://dev.to/yuridevat/my-journey-to-becoming-an-a11y-expert-current-status-4of8)
 - [Top 4 Open Ai Project For Developers.](https://dev.to/codewithkevin/top-4-open-ai-project-for-developers-91f)
 - [Tutorial part-1: Key-value store](https://dev.to/restdbjones/part-1-key-value-store-bji)
-- [How open sources tool can help you to secure your website api?](https://dev.to/nathan20/how-open-sources-tool-can-help-you-to-secure-your-website-api-588g)
-- [Firebase: Applying Feature Flag using Remote Config](https://dev.to/burhanahmeed/firebase-applying-feature-flag-using-remote-config-332d)
 <!-- BLOG-POST-LIST:END -->
 
