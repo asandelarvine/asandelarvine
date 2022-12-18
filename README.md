@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
+- [Deploy a Hyperlambda website in 20 seconds](https://dev.to/polterguy/deploy-a-hyperlambda-website-in-20-seconds-18fc)
+- [8 CSS Frameworks to create wonderful websites.](https://dev.to/oleanji/8-css-frameworks-to-create-wonderful-websites-1md7)
 - [Automate infrastructure for manually created resources in AWS](https://dev.to/aws-builders/create-iac-for-manually-created-resources-in-aws-48pe)
-- [Decorator pattern in TypeScript](https://dev.to/jmalvarez/decorator-pattern-in-typescript-na5)
-- [What is Google Summer of Code?](https://dev.to/avinash201199/what-is-google-summer-of-code-2odk)
-- [Role of Unity and Unreal Engine in VR development](https://dev.to/shiaart/role-of-unity-and-unreal-engine-in-vr-development-e8e)
 <!-- BLOG-POST-LIST:END -->
 
