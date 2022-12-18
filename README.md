@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
 - [Deploy a Hyperlambda website in 20 seconds](https://dev.to/polterguy/deploy-a-hyperlambda-website-in-20-seconds-18fc)
-- [8 CSS Frameworks to create wonderful websites.](https://dev.to/oleanji/8-css-frameworks-to-create-wonderful-websites-1md7)
-- [Automate infrastructure for manually created resources in AWS](https://dev.to/aws-builders/create-iac-for-manually-created-resources-in-aws-48pe)
+- [Will PHP 7.2 be the minimum required version for WP 6.2?](https://dev.to/felipeelia/will-php-72-be-the-minimum-required-version-for-wp-62-826)
+- [How to Create Toast Notifications in a React Applications](https://dev.to/code_queen/how-to-create-toast-notifications-in-a-react-applications-3aeo)
 <!-- BLOG-POST-LIST:END -->
 
