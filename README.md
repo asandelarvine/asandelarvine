@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Digital Clock Using JavaScript](https://dev.to/mavensingh/create-digital-clock-using-javascript-4gk8)
-- [How to Make Responsive eSports Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-esports-website-using-html-css-javascript-23fm)
-- [Containerizing Node.js Applications with Docker](https://dev.to/c4r4x35/containerizing-nodejs-applications-with-docker-3020)
-- [Javascript Array.from&lpar;&rpar; second argument](https://dev.to/trinityyi/javascript-arrayfrom-second-argument-16b9)
+- [Firebase: Applying Feature Flag using Remote Config](https://dev.to/burhanahmeed/firebase-applying-feature-flag-using-remote-config-332d)
+- [AI and Frontend Development: A Match Made in Tech Heaven?](https://dev.to/chainguns/ai-and-frontend-development-a-match-made-in-tech-heaven-5c55)
+- [10 Reasons Why You Should use Docker](https://dev.to/gdenn/10-reasons-why-you-should-use-docker-5dp0)
+- [Headless UI Libraries: The Key to Flexible and Accessible User Interfaces](https://dev.to/verthon/headless-ui-libraries-the-key-to-flexible-and-accessible-user-interfaces-546p)
 <!-- BLOG-POST-LIST:END -->
 
