@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vorms: Vue form validation with Composition API](https://dev.to/minighost/vorms-vue-form-validation-with-composition-api-5dhg)
 - [Default vs named module export in Javascript](https://dev.to/basskibo/default-vs-named-module-export-in-javascript-1j7b)
 - [Simple React-Hook-Form v7 Tutorial with Typescript](https://dev.to/pranavb6/simple-react-hook-form-v7-tutorial-with-typescript-j78)
 - [Conditional Wrapping in React - An Advanced Approach](https://dev.to/ayka_code/conditional-wrapping-in-react-an-advanced-approach-50jk)
-- [ㄥ8Ɩ llǝɯS ǝpoƆ - spɹɐʍʞɔɐq ǝslƎ/ℲI](https://dev.to/mcsee/eng8i-llws-poo-sprawkoaq-sl3i-1e0i)
 <!-- BLOG-POST-LIST:END -->
 
