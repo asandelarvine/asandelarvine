@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Service Monitor in k8s](https://dev.to/apgapg/creating-a-service-monitor-in-k8s-nl8)
+- [react useRef&lpar;&rpar; hook &lpar;web dev simplified&rpar;](https://dev.to/akshdesai1/react-useref-hook-web-dev-simplified-1obm)
+- [Dockerizing NodeJS, Express, and MongoDB App with NGINX as a Reverse Proxy](https://dev.to/lovepreetsingh/dockerizing-nodejs-express-and-mongodb-app-with-nginx-as-a-reverse-proxy-27a4)
 - [Vorms: Vue form validation with Composition API](https://dev.to/minighost/vorms-vue-form-validation-with-composition-api-5dhg)
-- [Default vs named module export in Javascript](https://dev.to/basskibo/default-vs-named-module-export-in-javascript-1j7b)
-- [Simple React-Hook-Form v7 Tutorial with Typescript](https://dev.to/pranavb6/simple-react-hook-form-v7-tutorial-with-typescript-j78)
-- [Conditional Wrapping in React - An Advanced Approach](https://dev.to/ayka_code/conditional-wrapping-in-react-an-advanced-approach-50jk)
 <!-- BLOG-POST-LIST:END -->
 
