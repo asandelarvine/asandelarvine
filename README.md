@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Digital Clock Using JavaScript](https://dev.to/mavensingh/create-digital-clock-using-javascript-4gk8)
 - [How to Make Responsive eSports Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-responsive-esports-website-using-html-css-javascript-23fm)
 - [Containerizing Node.js Applications with Docker](https://dev.to/c4r4x35/containerizing-nodejs-applications-with-docker-3020)
 - [Javascript Array.from&lpar;&rpar; second argument](https://dev.to/trinityyi/javascript-arrayfrom-second-argument-16b9)
-- [Everything you should know as a Cloud Guru for Storage](https://dev.to/aws-builders/everything-you-should-know-as-a-cloud-guru-for-storage-3b15)
 <!-- BLOG-POST-LIST:END -->
 
