@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use jest test.each function](https://dev.to/codever/how-to-use-jest-testeach-function-3jog)
+- [Hire a Software Dev for €6 per month](https://dev.to/polterguy/hire-a-software-dev-for-eu6-per-month-1bnk)
 - [Proxies for Alternative Data](https://dev.to/oxylabs-io/proxies-for-alternative-data-311k)
 - [API gateway deployment patterns](https://dev.to/apisix/api-gateway-deployment-patterns-3hbj)
-- [Follow @Verisimilitude11 On GitHub!](https://dev.to/verisimilitude11/follow-verisimilitude11-on-github-5fhn)
 <!-- BLOG-POST-LIST:END -->
 
