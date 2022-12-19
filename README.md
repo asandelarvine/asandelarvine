@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Christmas Edition 🎄&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-christmas-edition--l03)
-- [Software Engineering: Do You Concur?](https://dev.to/raddevus/software-engineering-do-you-concur-4d32)
-- [Old Photo Effect with CSS](https://dev.to/alvaromontoro/old-photo-effect-with-css-2699)
-- [What is Reverse Email Lookup and How to Use it Effectively](https://dev.to/mikacodez/what-is-reverse-email-lookup-and-how-to-use-it-effectively-2n5p)
+- [Answer 1.0 is coming, the best open-source solution for Q&amp;A Community](https://dev.to/answerdev/answer-10-is-coming-the-best-open-source-solution-for-qa-community-29k5)
+- [The world’s best B2B ecommerce UX: Grainger &lpar;2/5&rpar;](https://dev.to/medusajs/the-worlds-best-b2b-ecommerce-ux-grainger-25-319o)
+- [Metaprogramming with Ruby](https://dev.to/daviducolo/metaprogramming-with-ruby-93c)
+- [Salesforce Functions with Heroku Postgres](https://dev.to/salesforcedevs/salesforce-functions-with-heroku-postgres-4dm)
 <!-- BLOG-POST-LIST:END -->
 
