@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git merge - learn by example](https://dev.to/mohsenkamrani/git-merge-learn-by-example-1lbf)
+- [FRONTEND TOOLS | At one place](https://dev.to/murtazajooo/best-frontend-tools-everyone-should-know-3pb1)
 - [Discover the Chaos Genius Way to Slash Your Data Warehouse Costs and Boost ROI](https://dev.to/aviyel/discover-the-chaos-genius-way-to-slash-your-data-warehouse-costs-and-boost-roi-2n0d)
 - [Interview: Basic Horizontal Nav Bar](https://dev.to/urstrulyvishwak/interview-basic-horizontal-nav-bar-g5c)
-- [Front-End Roadmap for beginners](https://dev.to/prathameshkdukare/front-end-roadmap-for-beginners-h5c)
-- [Introduction to Solidity](https://dev.to/mrpaulishaili/introduction-to-solidity-26h3)
 <!-- BLOG-POST-LIST:END -->
 
