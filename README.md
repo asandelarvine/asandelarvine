@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn CSS Animation the Cool Way](https://dev.to/cocoandrew/learn-css-animation-the-cool-way-46mk)
+- [What Does ChatGPT Mean for New Software Developers?](https://dev.to/techelevator/what-does-chatgpt-mean-for-new-software-developers-3e8a)
 - [Coding Garden Log - Entry 0](https://dev.to/w3cj/coding-garden-log-entry-0-g39)
 - [Guidelines for AI-assisted Articles on DEV](https://dev.to/devteam/guidelines-for-ai-assisted-articles-on-dev-17n6)
-- [Motivos para hospedar as fontes do Google Fonts localmente](https://dev.to/compiladoras/motivos-para-hospedar-as-fontes-do-google-fonts-localmente-1d50)
-- [2022 Book Recap: The Best Books I Read this Year](https://dev.to/smeetsmeister/2022-book-recap-the-best-books-i-read-this-year-20oi)
 <!-- BLOG-POST-LIST:END -->
 
