@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding JavaScript Promises👩‍💻👨‍💻](https://dev.to/klc/understanding-javascript-promises-1hp1)
+- [FLiP Stack Weekly 19-dec-2022](https://dev.to/tspannhw/flip-stack-weekly-19-dec-2022-2gjn)
 - [Overcoming Struggles: 6 Tips for Software Engineers Looking to Thrive in Their Career](https://dev.to/bilalarxd/overcoming-struggles-6-tips-for-software-engineers-looking-to-thrive-in-their-career-4i89)
 - [Concepts behind modern frameworks](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
-- [c ++ 6-dars](https://dev.to/jafar9442/c-6-dars-2l0n)
-- [ReductStore v1.2.0 Released](https://dev.to/reductstore/reductstore-v120-released-5a3h)
 <!-- BLOG-POST-LIST:END -->
 
