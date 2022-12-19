@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve Your Next.js App’s Performance in 10 Minutes](https://dev.to/leduc1901/improve-your-nextjs-apps-performance-in-10-minutes-1gn2)
+- [Better DX in JS apps with unplugin-auto-import](https://dev.to/jacobandrewsky/better-dx-in-js-apps-with-unplugin-auto-import-193e)
+- [Web Application Deployment on AWS](https://dev.to/aws-builders/web-application-deployment-on-aws-31a7)
 - [Git merge - learn by example](https://dev.to/mohsenkamrani/git-merge-learn-by-example-1lbf)
-- [FRONTEND TOOLS | At one place](https://dev.to/murtazajooo/best-frontend-tools-everyone-should-know-3pb1)
-- [Discover the Chaos Genius Way to Slash Your Data Warehouse Costs and Boost ROI](https://dev.to/aviyel/discover-the-chaos-genius-way-to-slash-your-data-warehouse-costs-and-boost-roi-2n0d)
-- [Interview: Basic Horizontal Nav Bar](https://dev.to/urstrulyvishwak/interview-basic-horizontal-nav-bar-g5c)
 <!-- BLOG-POST-LIST:END -->
 
