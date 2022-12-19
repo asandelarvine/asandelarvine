@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday 🧠](https://dev.to/ben/meme-monday-3mii)
+- [React vs Vue.js: A Comparison](https://dev.to/ilovenuggets/react-vs-vuejs-a-comparison-4ca1)
+- [The top 10 extensions for Google Chrome for developers &lpar;You must have&rpar;](https://dev.to/thenomadevel/the-top-10-extensions-for-google-chrome-for-developers-you-must-have-2cc6)
 - [3D Plank](https://dev.to/amiruweerathunga/3d-plank-1p01)
-- [November 28, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/november-28-2022-flip-stack-weekly-40n2)
-- [JavaScript support hits 1.0 milestone on Compute@Edge](https://dev.to/fastly/javascript-support-hits-10-milestone-on-computeedge-2n61)
-- [Answer 1.0 is coming, the best open-source solution for Q&amp;A Community](https://dev.to/answerdev/answer-10-is-coming-the-best-open-source-solution-for-qa-community-29k5)
 <!-- BLOG-POST-LIST:END -->
 
