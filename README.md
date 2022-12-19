@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use jest test.each function](https://dev.to/codever/how-to-use-jest-testeach-function-3jog)
-- [Hire a Software Dev for €6 per month](https://dev.to/polterguy/hire-a-software-dev-for-eu6-per-month-1bnk)
-- [Proxies for Alternative Data](https://dev.to/oxylabs-io/proxies-for-alternative-data-311k)
-- [API gateway deployment patterns](https://dev.to/apisix/api-gateway-deployment-patterns-3hbj)
+- [Overcoming Struggles: 6 Tips for Software Engineers Looking to Thrive in Their Career](https://dev.to/bilalarxd/overcoming-struggles-6-tips-for-software-engineers-looking-to-thrive-in-their-career-4i89)
+- [Concepts behind modern frameworks](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
+- [c ++ 6-dars](https://dev.to/jafar9442/c-6-dars-2l0n)
+- [ReductStore v1.2.0 Released](https://dev.to/reductstore/reductstore-v120-released-5a3h)
 <!-- BLOG-POST-LIST:END -->
 
