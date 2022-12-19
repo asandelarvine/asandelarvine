@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing your inputs and dependencies like a boss](https://dev.to/noriller/testing-your-inputs-and-dependencies-like-a-boss-21eb)
-- [Deploy a Hyperlambda website in 20 seconds](https://dev.to/polterguy/deploy-a-hyperlambda-website-in-20-seconds-18fc)
-- [Will PHP 7.2 be the minimum required version for WP 6.2?](https://dev.to/felipeelia/will-php-72-be-the-minimum-required-version-for-wp-62-826)
-- [How to Create Toast Notifications in a React Applications](https://dev.to/code_queen/how-to-create-toast-notifications-in-a-react-applications-3aeo)
+- [An open-source visual editor to build your websites and web apps like a pro in no time!](https://dev.to/mohsenkamrani/an-open-source-visual-editor-to-build-your-websites-and-web-apps-like-a-pro-in-no-time-1g4k)
+- [How To Send Message to Yourself on Whatsapp](https://dev.to/emeka212/how-to-send-message-to-yourself-on-whatsapp-5g38)
+- [Airflow Development with Docker](https://dev.to/gudata/airflow-development-with-docker-161o)
+- [16 Suggestions on Creating a Successful Career in Tech](https://dev.to/jcsmileyjr/16-suggestions-on-creating-a-successful-career-in-tech-4925)
 <!-- BLOG-POST-LIST:END -->
 
