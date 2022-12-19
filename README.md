@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is ChatGTP and why should you care?](https://dev.to/simonholdorf/what-is-chatgtp-and-why-should-you-care-1jcg)
 - [Meme Monday 🧠](https://dev.to/ben/meme-monday-3mii)
 - [React vs Vue.js: A Comparison](https://dev.to/ilovenuggets/react-vs-vuejs-a-comparison-4ca1)
 - [The top 10 extensions for Google Chrome for developers &lpar;You must have&rpar;](https://dev.to/thenomadevel/the-top-10-extensions-for-google-chrome-for-developers-you-must-have-2cc6)
-- [3D Plank](https://dev.to/amiruweerathunga/3d-plank-1p01)
 <!-- BLOG-POST-LIST:END -->
 
