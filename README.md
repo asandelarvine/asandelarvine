@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding Garden Log - Entry 0](https://dev.to/w3cj/coding-garden-log-entry-0-g39)
 - [Guidelines for AI-assisted Articles on DEV](https://dev.to/devteam/guidelines-for-ai-assisted-articles-on-dev-17n6)
 - [Motivos para hospedar as fontes do Google Fonts localmente](https://dev.to/compiladoras/motivos-para-hospedar-as-fontes-do-google-fonts-localmente-1d50)
 - [2022 Book Recap: The Best Books I Read this Year](https://dev.to/smeetsmeister/2022-book-recap-the-best-books-i-read-this-year-20oi)
-- [React vs React Native: How Different Are They, Really?](https://dev.to/mcavaliere/react-vs-react-native-how-different-are-they-really-2h69)
 <!-- BLOG-POST-LIST:END -->
 
