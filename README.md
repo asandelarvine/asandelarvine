@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Essential JavaScript Libraries for Frontend Development](https://dev.to/omerwow/the-essential-javascript-libraries-for-frontend-development-19ca)
 - [Understanding JavaScript Promises👩‍💻👨‍💻](https://dev.to/klc/understanding-javascript-promises-1hp1)
 - [FLiP Stack Weekly 19-dec-2022](https://dev.to/tspannhw/flip-stack-weekly-19-dec-2022-2gjn)
 - [Overcoming Struggles: 6 Tips for Software Engineers Looking to Thrive in Their Career](https://dev.to/bilalarxd/overcoming-struggles-6-tips-for-software-engineers-looking-to-thrive-in-their-career-4i89)
-- [Concepts behind modern frameworks](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
 <!-- BLOG-POST-LIST:END -->
 
