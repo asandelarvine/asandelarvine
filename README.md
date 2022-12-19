@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Essential JavaScript Libraries for Frontend Development](https://dev.to/omerwow/the-essential-javascript-libraries-for-frontend-development-19ca)
-- [Understanding JavaScript Promises👩‍💻👨‍💻](https://dev.to/klc/understanding-javascript-promises-1hp1)
-- [FLiP Stack Weekly 19-dec-2022](https://dev.to/tspannhw/flip-stack-weekly-19-dec-2022-2gjn)
-- [Overcoming Struggles: 6 Tips for Software Engineers Looking to Thrive in Their Career](https://dev.to/bilalarxd/overcoming-struggles-6-tips-for-software-engineers-looking-to-thrive-in-their-career-4i89)
+- [Music Monday — What are you listening to? &lpar;Christmas Edition 🎄&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-christmas-edition--l03)
+- [Software Engineering: Do You Concur?](https://dev.to/raddevus/software-engineering-do-you-concur-4d32)
+- [Old Photo Effect with CSS](https://dev.to/alvaromontoro/old-photo-effect-with-css-2699)
+- [What is Reverse Email Lookup and How to Use it Effectively](https://dev.to/mikacodez/what-is-reverse-email-lookup-and-how-to-use-it-effectively-2n5p)
 <!-- BLOG-POST-LIST:END -->
 
