@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover the Chaos Genius Way to Slash Your Data Warehouse Costs and Boost ROI](https://dev.to/aviyel/discover-the-chaos-genius-way-to-slash-your-data-warehouse-costs-and-boost-roi-2n0d)
 - [Interview: Basic Horizontal Nav Bar](https://dev.to/urstrulyvishwak/interview-basic-horizontal-nav-bar-g5c)
 - [An open-source visual editor to build your websites and web apps like a pro in no time!](https://dev.to/mohsenkamrani/an-open-source-visual-editor-to-build-your-websites-and-web-apps-like-a-pro-in-no-time-1g4k)
 - [How To Send Message to Yourself on Whatsapp](https://dev.to/emeka212/how-to-send-message-to-yourself-on-whatsapp-5g38)
-- [Airflow Development with Docker](https://dev.to/gudata/airflow-development-with-docker-161o)
 <!-- BLOG-POST-LIST:END -->
 
