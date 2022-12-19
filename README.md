@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3D Plank](https://dev.to/amiruweerathunga/3d-plank-1p01)
+- [November 28, 2022 FLiP Stack Weekly](https://dev.to/tspannhw/november-28-2022-flip-stack-weekly-40n2)
+- [JavaScript support hits 1.0 milestone on Compute@Edge](https://dev.to/fastly/javascript-support-hits-10-milestone-on-computeedge-2n61)
 - [Answer 1.0 is coming, the best open-source solution for Q&amp;A Community](https://dev.to/answerdev/answer-10-is-coming-the-best-open-source-solution-for-qa-community-29k5)
-- [The world’s best B2B ecommerce UX: Grainger &lpar;2/5&rpar;](https://dev.to/medusajs/the-worlds-best-b2b-ecommerce-ux-grainger-25-319o)
-- [Metaprogramming with Ruby](https://dev.to/daviducolo/metaprogramming-with-ruby-93c)
-- [Salesforce Functions with Heroku Postgres](https://dev.to/salesforcedevs/salesforce-functions-with-heroku-postgres-4dm)
 <!-- BLOG-POST-LIST:END -->
 
