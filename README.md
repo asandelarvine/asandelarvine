@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [API gateway deployment patterns](https://dev.to/apisix/api-gateway-deployment-patterns-3hbj)
+- [Follow @Verisimilitude11 On GitHub!](https://dev.to/verisimilitude11/follow-verisimilitude11-on-github-5fhn)
 - [Improve Your Next.js App’s Performance in 10 Minutes](https://dev.to/leduc1901/improve-your-nextjs-apps-performance-in-10-minutes-1gn2)
 - [Better DX in JS apps with unplugin-auto-import](https://dev.to/jacobandrewsky/better-dx-in-js-apps-with-unplugin-auto-import-193e)
-- [Web Application Deployment on AWS](https://dev.to/aws-builders/web-application-deployment-on-aws-31a7)
-- [Git merge - learn by example](https://dev.to/mohsenkamrani/git-merge-learn-by-example-1lbf)
 <!-- BLOG-POST-LIST:END -->
 
