@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use jest test.each function](https://dev.to/codever/how-to-use-jest-testeach-function-3jog)
+- [Proxies for Alternative Data](https://dev.to/oxylabs-io/proxies-for-alternative-data-311k)
 - [API gateway deployment patterns](https://dev.to/apisix/api-gateway-deployment-patterns-3hbj)
 - [Follow @Verisimilitude11 On GitHub!](https://dev.to/verisimilitude11/follow-verisimilitude11-on-github-5fhn)
-- [Improve Your Next.js App’s Performance in 10 Minutes](https://dev.to/leduc1901/improve-your-nextjs-apps-performance-in-10-minutes-1gn2)
-- [Better DX in JS apps with unplugin-auto-import](https://dev.to/jacobandrewsky/better-dx-in-js-apps-with-unplugin-auto-import-193e)
 <!-- BLOG-POST-LIST:END -->
 
