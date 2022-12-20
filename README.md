@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;re-&rpar;Introduction](https://dev.to/martinhicks/re-introduction-3b1c)
-- [Introduction to variables in JavaScript](https://dev.to/lordsonsilver/introduction-to-variables-in-javascript-49nm)
-- [Add auto-save to your website with javascript](https://dev.to/mohsenkamrani/add-auto-save-to-your-website-with-javascript-559f)
-- [CSS Selectors Use cases](https://dev.to/shubhamtiwari909/css-selectors-use-cases-57dp)
+- [AWS Community Builders - Christmas Edition](https://dev.to/damienjburks/aws-community-builders-christmas-edition-1mpl)
+- [Git Tags and Git Branches](https://dev.to/techielass/git-tags-and-git-branches-4824)
+- [Netlify vs Vercel vs Surge | The best platform I use to deploy your projects 🤔?!](https://dev.to/abdulrahmanismael/netlify-vs-vercel-vs-surge-the-best-platform-i-use-to-deploy-your-projects--56m5)
+- [AWS Community Builders X-mass edition](https://dev.to/aws-builders/aws-community-builders-x-mass-edition-2fnk)
 <!-- BLOG-POST-LIST:END -->
 
