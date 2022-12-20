@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve AI Face Recognition Accuracy Using Deep Learning](https://dev.to/dmitriykisil/improve-ai-face-recognition-accuracy-using-deep-learning-43b4)
-- [What is Kubernetes and how should you monitor it?](https://dev.to/newrelic/what-is-kubernetes-and-how-should-you-monitor-it-bld)
-- [laravel: strategies for db seeding](https://dev.to/gbhorwood/laravel-strategies-for-db-seeding-acj)
-- [Does Angular Support Generic Component Types?](https://dev.to/angular/does-angular-support-generic-component-types-4fkm)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mmg)
+- [Module Federation in mobile apps powered by NativeScript](https://dev.to/valorsoftware/module-federation-in-mobile-apps-powered-by-nativescript-3m14)
+- [Module Federation for the Business](https://dev.to/valorsoftware/module-federation-for-the-business-1ok6)
+- [Keyword Research Case Studies: Ownership Campaigns](https://dev.to/daedtech/keyword-research-case-studies-ownership-campaigns-47bg)
 <!-- BLOG-POST-LIST:END -->
 
