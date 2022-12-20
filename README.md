@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Magic: All tools at one place](https://dev.to/shreyvijayvargiya/frontend-magic-all-tools-at-one-place-30mp)
-- [Dynamic return type based on input parameter in TypeScript like Prisma](https://dev.to/zenstack/dynamic-return-type-based-on-input-parameter-in-typescript-like-prisma-1292)
-- [Backdrop-filters](https://dev.to/amiruweerathunga/backdrop-filters-49i4)
-- [AWS Community Builders - Christmas Edition](https://dev.to/aws-builders/aws-community-builders-christmas-edition-393a)
+- [V-Blogs](https://dev.to/harshilshah99/v-blogs-26ig)
+- [c++ da 2-Dars](https://dev.to/thequvonc/c-da-2-dars-1jhb)
+- [Community Builders - Christmas Edition](https://dev.to/aws-builders/community-builders-christmas-edition-4lh0)
+- [Appreciation for Community Managers](https://dev.to/aws-builders/appreciation-for-community-managers-26ol)
 <!-- BLOG-POST-LIST:END -->
 
