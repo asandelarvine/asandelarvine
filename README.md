@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Backdrop-filters](https://dev.to/amiruweerathunga/backdrop-filters-49i4)
+- [AWS Community Builders - Christmas Edition](https://dev.to/aws-builders/aws-community-builders-christmas-edition-393a)
 - [AWS Community Builders Holiday Post 2022](https://dev.to/aws-builders/secret-santa-with-the-aws-community-1a62)
-- [Dev.to and Other Options for Sharing Your Blogs](https://dev.to/chainguns/devto-and-other-options-for-sharing-your-blogs-20ik)
-- [Introduction to the GraphQL Schema](https://dev.to/one-beyond/introduction-to-the-graphql-schema-jn5)
-- [Prepare for Google Cloud Professional Cloud Architect exam : Regions and Zones](https://dev.to/mitul3737/prepare-for-google-cloud-professional-cloud-architect-exam-27kk)
+- [5 Game Changing C# 11 Tips and Tricks You Need to Know &lpar;With Examples&rpar;](https://dev.to/bilalarxd/5-game-changing-c-11-tips-and-tricks-you-need-to-know-with-examples-2cm6)
 <!-- BLOG-POST-LIST:END -->
 
