@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Utility Types, in Typescript.](https://dev.to/gniches/utility-types-in-typescript-nal)
+- [How to implement the WebFinger Protocol on a NextJS site](https://dev.to/robearlam/how-to-implement-the-webfinger-protocol-on-a-nextjs-site-3mak)
+- [The Benefits of Pair Programming for Problem-Solving](https://dev.to/360macky/the-benefits-of-pair-programming-for-problem-solving-48b1)
 - [Learn CSS Animation the Cool Way](https://dev.to/cocoandrew/learn-css-animation-the-cool-way-46mk)
-- [What Does ChatGPT Mean for New Software Developers?](https://dev.to/techelevator/what-does-chatgpt-mean-for-new-software-developers-3e8a)
-- [Coding Garden Log - Entry 0](https://dev.to/w3cj/coding-garden-log-entry-0-g39)
-- [Guidelines for AI-assisted Articles on DEV](https://dev.to/devteam/guidelines-for-ai-assisted-articles-on-dev-17n6)
 <!-- BLOG-POST-LIST:END -->
 
