@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to ask for a referral on LinkedIn](https://dev.to/avinash201199/how-to-ask-for-a-referral-on-linkedin-1g7e)
-- [How to Set Up a Cron Job to Update Your Firebase Collection](https://dev.to/asifroyal/how-to-set-up-a-cron-job-to-update-your-firebase-collection-55ka)
-- [Operation Ho Ho Ho, or how AWS Community Builders saved the holidays!](https://dev.to/aws-builders/operation-ho-ho-ho-or-how-aws-community-builders-saved-christmas-52e5)
-- [The Rainbow of Crypto Schemes: Embracing the many Flavours, Beyond the Basic Ponzi Scheme](https://dev.to/bipbopsadrobot/the-rainbow-of-crypto-schemes-embracing-the-many-flavours-beyond-the-basic-ponzi-scheme-k8d)
+- [Prepare for Google Cloud Professional Cloud Architect exam : Regions and Zones](https://dev.to/mitul3737/prepare-for-google-cloud-professional-cloud-architect-exam-27kk)
+- [Everything About Medusa - An Open-Source Alternative to Shopify](https://dev.to/tyaga001/everything-about-medusa-an-open-source-alternative-to-shopify-4ald)
+- [ReductStore Client SDK for C++ v1.2.0](https://dev.to/reductstore/reductstore-client-sdk-for-c-v120-53hp)
+- [9 stunning web design trends to watch in 2023](https://dev.to/mohsenkamrani/9-stunning-web-design-trends-to-watch-in-2023-3pbc)
 <!-- BLOG-POST-LIST:END -->
 
