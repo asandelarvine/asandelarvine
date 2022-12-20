@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve AI Face Recognition Accuracy Using Deep Learning](https://dev.to/dmitriykisil/improve-ai-face-recognition-accuracy-using-deep-learning-43b4)
+- [What is Kubernetes and how should you monitor it?](https://dev.to/newrelic/what-is-kubernetes-and-how-should-you-monitor-it-bld)
+- [laravel: strategies for db seeding](https://dev.to/gbhorwood/laravel-strategies-for-db-seeding-acj)
 - [Does Angular Support Generic Component Types?](https://dev.to/angular/does-angular-support-generic-component-types-4fkm)
-- [Graph Algorithms Cheat Sheet For Coding Interviews](https://dev.to/memgraph/graph-algorithms-cheat-sheet-for-coding-interviews-48h0)
-- [Watch And Evaluate](https://dev.to/codenameone/watch-and-evaluate-53df)
-- [Writing a CPAN module that talks to ChatGPT](https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5)
 <!-- BLOG-POST-LIST:END -->
 
