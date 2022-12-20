@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Utility Types, in Typescript.](https://dev.to/gniches/utility-types-in-typescript-nal)
-- [How to implement the WebFinger Protocol on a NextJS site](https://dev.to/robearlam/how-to-implement-the-webfinger-protocol-on-a-nextjs-site-3mak)
-- [The Benefits of Pair Programming for Problem-Solving](https://dev.to/360macky/the-benefits-of-pair-programming-for-problem-solving-48b1)
-- [Learn CSS Animation the Cool Way](https://dev.to/cocoandrew/learn-css-animation-the-cool-way-46mk)
+- [SPVM 0.9668 is released](https://dev.to/yukikimoto/spvm-09668-is-released-1bem)
+- [7 best websites to get tons of fonts for free](https://dev.to/mohsenkamrani/7-best-websites-to-get-tons-of-fonts-for-free-1nce)
+- [Data Structures: Arrays and Lists in Comparison](https://dev.to/manukanne/data-structures-arrays-and-lists-in-comparison-518p)
+- [Quick bytes to integer &lpar;or other type&rpar; conversion in Python](https://dev.to/eliteraspberries/quick-bytes-to-integer-or-other-type-conversion-in-python-27lg)
 <!-- BLOG-POST-LIST:END -->
 
