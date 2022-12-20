@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Angular Support Generic Component Types?](https://dev.to/angular/does-angular-support-generic-component-types-4fkm)
+- [Graph Algorithms Cheat Sheet For Coding Interviews](https://dev.to/memgraph/graph-algorithms-cheat-sheet-for-coding-interviews-48h0)
 - [Watch And Evaluate](https://dev.to/codenameone/watch-and-evaluate-53df)
 - [Writing a CPAN module that talks to ChatGPT](https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5)
-- [ChatGPT + Flatlogic: Generate Fully-Functioning Web Apps Based on Description](https://dev.to/flatlogic_manager/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description-2n2a)
-- [Community Builders – Christmas Edition](https://dev.to/aws-builders/community-builders-christmas-edition-3k56)
 <!-- BLOG-POST-LIST:END -->
 
