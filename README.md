@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [V-Blogs](https://dev.to/harshilshah99/v-blogs-26ig)
-- [c++ da 2-Dars](https://dev.to/thequvonc/c-da-2-dars-1jhb)
-- [Community Builders - Christmas Edition](https://dev.to/aws-builders/community-builders-christmas-edition-4lh0)
-- [Appreciation for Community Managers](https://dev.to/aws-builders/appreciation-for-community-managers-26ol)
+- [&lpar;re-&rpar;Introduction](https://dev.to/martinhicks/re-introduction-3b1c)
+- [Introduction to variables in JavaScript](https://dev.to/lordsonsilver/introduction-to-variables-in-javascript-49nm)
+- [Add auto-save to your website with javascript](https://dev.to/mohsenkamrani/add-auto-save-to-your-website-with-javascript-559f)
+- [CSS Selectors Use cases](https://dev.to/shubhamtiwari909/css-selectors-use-cases-57dp)
 <!-- BLOG-POST-LIST:END -->
 
