@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch And Evaluate](https://dev.to/codenameone/watch-and-evaluate-53df)
+- [Writing a CPAN module that talks to ChatGPT](https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5)
 - [ChatGPT + Flatlogic: Generate Fully-Functioning Web Apps Based on Description](https://dev.to/flatlogic_manager/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description-2n2a)
 - [Community Builders – Christmas Edition](https://dev.to/aws-builders/community-builders-christmas-edition-3k56)
-- [Building a free Open-source portfolio template using HTML, CSS and JS](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-568b)
-- [Step-By-Step Guide to Adding Dark Mode and Multiple Themes to Your Next.js App](https://dev.to/luisca/step-by-step-guide-to-adding-dark-mode-and-multiple-themes-to-your-nextjs-app-15lh)
 <!-- BLOG-POST-LIST:END -->
 
