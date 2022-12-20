@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Community Builders Holiday Post 2022](https://dev.to/aws-builders/secret-santa-with-the-aws-community-1a62)
+- [Dev.to and Other Options for Sharing Your Blogs](https://dev.to/chainguns/devto-and-other-options-for-sharing-your-blogs-20ik)
+- [Introduction to the GraphQL Schema](https://dev.to/one-beyond/introduction-to-the-graphql-schema-jn5)
 - [Prepare for Google Cloud Professional Cloud Architect exam : Regions and Zones](https://dev.to/mitul3737/prepare-for-google-cloud-professional-cloud-architect-exam-27kk)
-- [Everything About Medusa - An Open-Source Alternative to Shopify](https://dev.to/tyaga001/everything-about-medusa-an-open-source-alternative-to-shopify-4ald)
-- [ReductStore Client SDK for C++ v1.2.0](https://dev.to/reductstore/reductstore-client-sdk-for-c-v120-53hp)
-- [9 stunning web design trends to watch in 2023](https://dev.to/mohsenkamrani/9-stunning-web-design-trends-to-watch-in-2023-3pbc)
 <!-- BLOG-POST-LIST:END -->
 
