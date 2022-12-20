@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Community Builders - Christmas Edition](https://dev.to/damienjburks/aws-community-builders-christmas-edition-1mpl)
-- [Git Tags and Git Branches](https://dev.to/techielass/git-tags-and-git-branches-4824)
-- [Netlify vs Vercel vs Surge | The best platform I use to deploy your projects 🤔?!](https://dev.to/abdulrahmanismael/netlify-vs-vercel-vs-surge-the-best-platform-i-use-to-deploy-your-projects--56m5)
-- [AWS Community Builders X-mass edition](https://dev.to/aws-builders/aws-community-builders-x-mass-edition-2fnk)
+- [ChatGPT + Flatlogic: Generate Fully-Functioning Web Apps Based on Description](https://dev.to/flatlogic_manager/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description-2n2a)
+- [Community Builders – Christmas Edition](https://dev.to/aws-builders/community-builders-christmas-edition-3k56)
+- [Building a free Open-source portfolio template using HTML, CSS and JS](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-568b)
+- [Step-By-Step Guide to Adding Dark Mode and Multiple Themes to Your Next.js App](https://dev.to/luisca/step-by-step-guide-to-adding-dark-mode-and-multiple-themes-to-your-nextjs-app-15lh)
 <!-- BLOG-POST-LIST:END -->
 
