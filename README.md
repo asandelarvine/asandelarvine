@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up a Cron Job to Update Your Firebase Collection](https://dev.to/asifroyal/how-to-set-up-a-cron-job-to-update-your-firebase-collection-55ka)
+- [Operation Ho Ho Ho, or how AWS Community Builders saved the holidays!](https://dev.to/aws-builders/operation-ho-ho-ho-or-how-aws-community-builders-saved-christmas-52e5)
 - [The Rainbow of Crypto Schemes: Embracing the many Flavours, Beyond the Basic Ponzi Scheme](https://dev.to/bipbopsadrobot/the-rainbow-of-crypto-schemes-embracing-the-many-flavours-beyond-the-basic-ponzi-scheme-k8d)
 - [7 best websites to get tons of fonts for free](https://dev.to/mohsenkamrani/7-best-websites-to-get-tons-of-fonts-for-free-1nce)
-- [Data Structures: Arrays and Lists in Comparison](https://dev.to/manukanne/data-structures-arrays-and-lists-in-comparison-518p)
-- [Quick bytes to integer &lpar;or other type&rpar; conversion in Python](https://dev.to/eliteraspberries/quick-bytes-to-integer-or-other-type-conversion-in-python-27lg)
 <!-- BLOG-POST-LIST:END -->
 
