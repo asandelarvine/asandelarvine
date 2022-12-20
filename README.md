@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rainbow of Crypto Schemes: Embracing the many Flavours, Beyond the Basic Ponzi Scheme](https://dev.to/bipbopsadrobot/the-rainbow-of-crypto-schemes-embracing-the-many-flavours-beyond-the-basic-ponzi-scheme-k8d)
 - [7 best websites to get tons of fonts for free](https://dev.to/mohsenkamrani/7-best-websites-to-get-tons-of-fonts-for-free-1nce)
 - [Data Structures: Arrays and Lists in Comparison](https://dev.to/manukanne/data-structures-arrays-and-lists-in-comparison-518p)
 - [Quick bytes to integer &lpar;or other type&rpar; conversion in Python](https://dev.to/eliteraspberries/quick-bytes-to-integer-or-other-type-conversion-in-python-27lg)
-- [⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
 <!-- BLOG-POST-LIST:END -->
 
