@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Being an AWS Community Builder in 2022](https://dev.to/aws-builders/aws-community-builder-5082)
 - [Favorite TypeScript Resources](https://dev.to/sheelah_b/favorite-typescript-resources-150c)
+- [Merry Christmas from an AWS Community Builder](https://dev.to/aws-builders/merry-christmas-from-an-aws-community-builder-il4)
 - [Difference between Entity and DTO](https://dev.to/wagnernegrao/difference-between-entity-and-dto-2pkk)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mmg)
-- [Module Federation in mobile apps powered by NativeScript](https://dev.to/valorsoftware/module-federation-in-mobile-apps-powered-by-nativescript-3m14)
 <!-- BLOG-POST-LIST:END -->
 
