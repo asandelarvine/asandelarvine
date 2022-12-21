@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Number Systems 101: Binary &amp; Hexadecimal Conversions](https://dev.to/educative/computer-number-systems-101-binary-hexadecimal-conversions-422g)
 - [Getting started with Bun and React](https://dev.to/logrocket/getting-started-with-bun-and-react-3j7o)
 - [How to Write to Workflow Job Summary from a GitHub Action](https://dev.to/cicirello/how-to-write-to-workflow-job-summary-from-a-github-action-23ah)
 - [Debugging Strategies and Techniques](https://dev.to/roy8/debugging-strategies-and-techniques-59k2)
-- [Stop being afraid to speak in a foreign language](https://dev.to/yuridevat/stop-being-afraid-to-speak-in-a-foreign-language-1484)
 <!-- BLOG-POST-LIST:END -->
 
