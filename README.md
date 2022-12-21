@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Strategies and Techniques](https://dev.to/roy8/debugging-strategies-and-techniques-59k2)
+- [How To Test CRUD RESTful APIs With the API Tester Mobile App](https://dev.to/mariamarsh/how-to-test-crud-restful-apis-with-the-api-tester-mobile-app-eco)
+- [How to switch to Azure kubelogin](https://dev.to/goenning/how-to-switch-to-azure-kubelogin-4ld)
 - [Welcome Thread - v205](https://dev.to/thepracticaldev/welcome-thread-v205-36g)
-- [Billions of unnecessary files in GitHub](https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85)
-- [This Week In React #129: useEffectEvent, Storybook, OpenNEXT, React Email, Remix, Next.js, Pointer-Events, Expo-MDX...](https://dev.to/sebastienlorber/this-week-in-react-129-useeffectevent-storybook-opennext-react-email-remix-nextjs-pointer-events-expo-mdx-14fi)
-- [An immutable Mastodon handle](https://dev.to/nfrankel/an-immutable-mastodon-handle-4203)
 <!-- BLOG-POST-LIST:END -->
 
