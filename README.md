@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Host a Serverless Flask App on Vercel](https://dev.to/dhanushreddy29/host-a-serverless-flask-app-on-vercel-2a9l)
+- [📱Control your AWS Apps with a simple message.](https://dev.to/aws-builders/control-your-aws-apps-with-a-simple-message-1595)
 - [Why decentralized storage matters for NFT metadata and your next NFT collection](https://dev.to/apillon/why-decentralized-storage-matters-for-nft-metadata-and-your-next-nft-collection-30dg)
 - [Breaking out of tutorial hell](https://dev.to/shubhicodes/breaking-out-of-tutorial-hell-1714)
-- [Weekly web development resources #129](https://dev.to/vincenius/weekly-web-development-resources-129-206e)
-- [Awesome animation effect for any SVGs with a surprisingly simple trick](https://dev.to/mohsenkamrani/awesome-animation-effect-for-any-svgs-with-a-surprisingly-simple-trick-3c1b)
 <!-- BLOG-POST-LIST:END -->
 
