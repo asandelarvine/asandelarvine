@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Bun and React](https://dev.to/logrocket/getting-started-with-bun-and-react-3j7o)
 - [How to Write to Workflow Job Summary from a GitHub Action](https://dev.to/cicirello/how-to-write-to-workflow-job-summary-from-a-github-action-23ah)
 - [Debugging Strategies and Techniques](https://dev.to/roy8/debugging-strategies-and-techniques-59k2)
 - [Stop being afraid to speak in a foreign language](https://dev.to/yuridevat/stop-being-afraid-to-speak-in-a-foreign-language-1484)
-- [How To Test CRUD RESTful APIs With the API Tester Mobile App](https://dev.to/mariamarsh/how-to-test-crud-restful-apis-with-the-api-tester-mobile-app-eco)
 <!-- BLOG-POST-LIST:END -->
 
