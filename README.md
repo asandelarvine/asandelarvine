@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python-Basics](https://dev.to/levintech/python-basics-578n)
+- [Runme: Road to Testable Docs](https://dev.to/sourishkrout/runme-road-to-testable-docs-4ede)
 - [Being an AWS Community Builder in 2022](https://dev.to/aws-builders/aws-community-builder-5082)
 - [Favorite TypeScript Resources](https://dev.to/sheelah_b/favorite-typescript-resources-150c)
-- [Merry Christmas from an AWS Community Builder](https://dev.to/aws-builders/merry-christmas-from-an-aws-community-builder-il4)
-- [Difference between Entity and DTO](https://dev.to/wagnernegrao/difference-between-entity-and-dto-2pkk)
 <!-- BLOG-POST-LIST:END -->
 
