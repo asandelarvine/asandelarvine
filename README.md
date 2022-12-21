@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The world’s best B2B ecommerce UX: Blake &lpar;4/5&rpar;](https://dev.to/medusajs/the-worlds-best-b2b-ecommerce-ux-blake-45-3c4a)
-- [What should we use Bootstrap or Tailwind CSS ?](https://dev.to/jagroop2000/what-should-we-use-bootstrap-or-tailwind-css--368l)
-- [22 Programming Lessons Learned in 2022](https://dev.to/codewithvoid/22-programming-lessons-learned-in-2022-9i0)
-- [Deploy your own Linktree with LittleLink on GitHub Pages](https://dev.to/kasra_mp/deploy-your-own-linktree-with-littlelink-on-github-pages-4hb1)
+- [Memphis: Low-code real-time data processing platform](https://dev.to/makendrang/memphis-low-code-real-time-data-processing-platform-4pm4)
+- [Download Free Audiobooks from Reddit.](https://dev.to/mavensingh/download-free-audiobooks-from-reddit-lmp)
+- [Displaying PDF Files in an Iframe: A Simple Solution](https://dev.to/asifroyal/displaying-pdf-files-in-an-iframe-a-simple-solution-2anj)
+- [How to Make Your Own Personal Website Using HTML CSS and JS](https://dev.to/codewithsadee/how-to-make-your-own-personal-website-using-html-css-and-js-4pp)
 <!-- BLOG-POST-LIST:END -->
 
