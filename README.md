@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Just in time](https://dev.to/nickytonline/yet-another-newsletter-lol-just-in-time-3675)
 - [Python-Basics](https://dev.to/levintech/python-basics-578n)
 - [Runme: Road to Testable Docs](https://dev.to/sourishkrout/runme-road-to-testable-docs-4ede)
-- [Being an AWS Community Builder in 2022](https://dev.to/aws-builders/aws-community-builder-5082)
-- [Favorite TypeScript Resources](https://dev.to/sheelah_b/favorite-typescript-resources-150c)
+- [Troubleshooting AWS Application Composer Errors](https://dev.to/aws-builders/troubleshooting-aws-application-composer-errors-445a)
 <!-- BLOG-POST-LIST:END -->
 
