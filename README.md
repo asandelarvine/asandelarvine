@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxies for Ad Verification](https://dev.to/oxylabs-io/proxies-for-ad-verification-14km)
-- [Memphis: Low-code real-time data processing platform](https://dev.to/makendrang/memphis-low-code-real-time-data-processing-platform-4pm4)
-- [Download Free Audiobooks from Reddit.](https://dev.to/mavensingh/download-free-audiobooks-from-reddit-lmp)
-- [Displaying PDF Files in an Iframe: A Simple Solution](https://dev.to/asifroyal/displaying-pdf-files-in-an-iframe-a-simple-solution-2anj)
+- [&lt;input size=&quot;1&quot;&gt; is awesome! &lpar;when &lt;input&gt; &quot;width: 100%&quot; not working&rpar;](https://dev.to/maxcore/is-awesome-when-width-100-not-working-9hd)
+- [🏆 How do you evaluate the importance of StackOverflow reputations to find a job?](https://dev.to/johannchopin/how-do-you-evaluate-the-importance-of-stackoverflow-reputations-to-find-a-job-4onc)
+- [Dyslexia Detection using Machine Learning](https://dev.to/darkxenium/dyslexia-detection-using-machine-learning-3akn)
+- [ChatGPT, will it replace software engineers anytime soon?](https://dev.to/pramodk/chatgpt-will-it-replace-software-engineers-anytime-soon-58jk)
 <!-- BLOG-POST-LIST:END -->
 
