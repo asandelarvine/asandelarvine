@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yet Another Newsletter LOL: Just in time](https://dev.to/nickytonline/yet-another-newsletter-lol-just-in-time-3675)
-- [Python-Basics](https://dev.to/levintech/python-basics-578n)
-- [Runme: Road to Testable Docs](https://dev.to/sourishkrout/runme-road-to-testable-docs-4ede)
-- [Troubleshooting AWS Application Composer Errors](https://dev.to/aws-builders/troubleshooting-aws-application-composer-errors-445a)
+- [Let&#39;s join Perl Club Forum!](https://dev.to/yukikimoto/lets-join-perl-club-forum-3kf7)
+- [SPVM 0.9669 is released](https://dev.to/yukikimoto/spvm-09669-is-released-5ffd)
+- [Why companies migrating to Rust?](https://dev.to/nathan20/why-companies-migrating-to-rust-18o7)
+- [git switch and git checkout – How to switch branches in git](https://dev.to/refine/git-switch-and-git-checkout-how-to-switch-branches-in-git-29nj)
 <!-- BLOG-POST-LIST:END -->
 
