@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bursting the TDD Bubble](https://dev.to/linearb/bursting-the-tdd-bubble-49h2)
+- [Five tips to become a Pragmatic Programmer](https://dev.to/neilsmind/five-tips-to-become-a-pragmatic-programmer-3b80)
+- [Useful VS Code Extensions](https://dev.to/ksowah/useful-vs-code-extensions-336b)
 - [Computer Number Systems 101: Binary &amp; Hexadecimal Conversions](https://dev.to/educative/computer-number-systems-101-binary-hexadecimal-conversions-422g)
-- [Getting started with Bun and React](https://dev.to/logrocket/getting-started-with-bun-and-react-3j7o)
-- [How to Write to Workflow Job Summary from a GitHub Action](https://dev.to/cicirello/how-to-write-to-workflow-job-summary-from-a-github-action-23ah)
-- [Debugging Strategies and Techniques](https://dev.to/roy8/debugging-strategies-and-techniques-59k2)
 <!-- BLOG-POST-LIST:END -->
 
