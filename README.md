@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;input size=&quot;1&quot;&gt; is awesome! &lpar;when &lt;input&gt; &quot;width: 100%&quot; not working&rpar;](https://dev.to/maxcore/is-awesome-when-width-100-not-working-9hd)
-- [🏆 How do you evaluate the importance of StackOverflow reputations to find a job?](https://dev.to/johannchopin/how-do-you-evaluate-the-importance-of-stackoverflow-reputations-to-find-a-job-4onc)
-- [Dyslexia Detection using Machine Learning](https://dev.to/darkxenium/dyslexia-detection-using-machine-learning-3akn)
-- [ChatGPT, will it replace software engineers anytime soon?](https://dev.to/pramodk/chatgpt-will-it-replace-software-engineers-anytime-soon-58jk)
+- [Welcome Thread - v205](https://dev.to/thepracticaldev/welcome-thread-v205-36g)
+- [Billions of unnecessary files in GitHub](https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85)
+- [This Week In React #129: useEffectEvent, Storybook, OpenNEXT, React Email, Remix, Next.js, Pointer-Events, Expo-MDX...](https://dev.to/sebastienlorber/this-week-in-react-129-useeffectevent-storybook-opennext-react-email-remix-nextjs-pointer-events-expo-mdx-14fi)
+- [An immutable Mastodon handle](https://dev.to/nfrankel/an-immutable-mastodon-handle-4203)
 <!-- BLOG-POST-LIST:END -->
 
