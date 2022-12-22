@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taiga UI: Year of the Tiger](https://dev.to/angular/taiga-ui-year-of-the-tiger-9ih)
-- [Build any Front-end like Admin Panel or CRM for your Supabase](https://dev.to/jet_admin/build-any-front-end-like-admin-panel-or-crm-for-your-supabase-1f2k)
-- [An Overview of the Popular Frontend Frameworks](https://dev.to/ariellun/an-overview-of-the-popular-frontend-frameworks-bm2)
-- [10 great animation libraries to take your websites to next level](https://dev.to/mohsenkamrani/10-great-animation-libraries-to-take-your-websites-to-next-level-4b7)
+- [How are Hot Reloading and Live Reloading in React Native different?](https://dev.to/jagroop2000/how-are-hot-reloading-and-live-reloading-in-react-native-different-3nj7)
+- [Responsive Navbar without Javascript](https://dev.to/shubhamtiwari909/responsive-navbar-without-javascript-3p7o)
+- [6 Awesome frameworks for Web Development](https://dev.to/surajondev/6-awesome-frameworks-for-web-development-2408)
+- [A Quick Guide to App Localization](https://dev.to/aexol-studio/a-quick-guide-to-app-localization-2j95)
 <!-- BLOG-POST-LIST:END -->
 
