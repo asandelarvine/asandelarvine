@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breve guia de sobrevivência com Terraform](https://dev.to/tuxpilgrim/breve-guia-de-sobrevivencia-com-terraform-ggn)
-- [10 practical newsletters every CTO should read](https://dev.to/anvarazizov/10-practical-newsletters-every-cto-should-read-oac)
-- [Do I need TypeScript?](https://dev.to/qbentil/do-i-need-typescript-lmk)
-- [Kubernetes Namespace: How To Use It To Organize And Optimize Costs](https://dev.to/castai/kubernetes-namespace-how-to-use-it-to-organize-and-optimize-costs-57pc)
+- [DevRel, Developer Relations, Relações com desenvolvedores](https://dev.to/awdren/devrel-developer-relations-relacoes-com-desenvolvedores-ei2)
+- [Cloudinary with Flutter](https://dev.to/adimiz/cloudinary-with-flutter-38a2)
+- [AI Will Not Take Your Job...Yet](https://dev.to/mikehtmlallthethings/ai-will-not-take-your-jobyet-3ed4)
+- [Linux Commands easier than never before 💪](https://dev.to/shivam164/linux-commands-easier-than-never-before-26bd)
 <!-- BLOG-POST-LIST:END -->
 
