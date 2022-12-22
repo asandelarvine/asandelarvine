@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep your Job in 2022](https://dev.to/darkxenium/how-to-keep-your-job-in-2022-6b5)
-- [Growth Marketing as a Developer SaaS founder](https://dev.to/themespage/growth-marketting-as-a-developer-saas-fouunder-5b61)
-- [🔦 Community Spotlight - Building Parexellence, an eCommerce Website🔦](https://dev.to/haimantika/community-spotlight-building-parexellence-an-ecommerce-website-42d8)
-- [Understanding the Role of Developer Relations](https://dev.to/olanetsoft/understanding-the-role-of-developer-relations-32i8)
+- [CodeNewbie Season 22 Episode 7! Starting out in Open Source with Brian Douglas](https://dev.to/codenewbieteam/codenewbie-season-22-episode-7-starting-out-in-open-source-with-brian-douglas-n1e)
+- [How to test the performance of your GraphQL applications?](https://dev.to/sophieboulaouli/how-to-test-the-performance-of-your-graphql-applications-2e5k)
+- [Different approaches to testing your own packages: local files](https://dev.to/one-beyond/different-approaches-to-testing-your-own-packages-1kdg)
+- [CodePen Designs - 8 : ThreeJS Toys - Particles Cursor](https://dev.to/jon_snow789/codepen-designs-8-threejs-toys-particles-cursor-5526)
 <!-- BLOG-POST-LIST:END -->
 
