@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Top Books for Software Engineers to Add to Their Reading List](https://dev.to/roberts/the-top-books-for-software-engineers-to-add-to-their-reading-list-53pb)
-- [Three Methods of Job-Hunting: Networking, Online Job-Searching, or Cold Emailing | Part 2](https://dev.to/codelabsacademy/three-methods-of-job-hunting-networking-online-job-searching-or-cold-emailing-part-2-1ejk)
-- [Three Methods of Job-Hunting: Networking, Online Job-Searching, or Cold Emailing | Part 1](https://dev.to/codelabsacademy/three-methods-of-job-hunting-networking-online-job-searching-or-cold-emailing-part-1-2hkc)
-- [15 Creative Gift Ideas for Software Engineers](https://dev.to/roberts/15-creative-gift-ideas-for-software-engineers-5doc)
+- [How to Keep your Job in 2022](https://dev.to/darkxenium/how-to-keep-your-job-in-2022-6b5)
+- [Growth Marketing as a Developer SaaS founder](https://dev.to/themespage/growth-marketting-as-a-developer-saas-fouunder-5b61)
+- [🔦 Community Spotlight - Building Parexellence, an eCommerce Website🔦](https://dev.to/haimantika/community-spotlight-building-parexellence-an-ecommerce-website-42d8)
+- [Understanding the Role of Developer Relations](https://dev.to/olanetsoft/understanding-the-role-of-developer-relations-32i8)
 <!-- BLOG-POST-LIST:END -->
 
