@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do I need TypeScript?](https://dev.to/qbentil/do-i-need-typescript-lmk)
+- [Kubernetes Namespace: How To Use It To Organize And Optimize Costs](https://dev.to/castai/kubernetes-namespace-how-to-use-it-to-organize-and-optimize-costs-57pc)
+- [Geocoding with Ruby](https://dev.to/daviducolo/geocoding-with-ruby-4229)
 - [CodeNewbie Season 22 Episode 7! Starting out in Open Source with Brian Douglas](https://dev.to/codenewbieteam/codenewbie-season-22-episode-7-starting-out-in-open-source-with-brian-douglas-n1e)
-- [How to test the performance of your GraphQL applications?](https://dev.to/sophieboulaouli/how-to-test-the-performance-of-your-graphql-applications-2e5k)
-- [Different approaches to testing your own packages: local files](https://dev.to/one-beyond/different-approaches-to-testing-your-own-packages-1kdg)
-- [CodePen Designs - 8 : ThreeJS Toys - Particles Cursor](https://dev.to/jon_snow789/codepen-designs-8-threejs-toys-particles-cursor-5526)
 <!-- BLOG-POST-LIST:END -->
 
