@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Breve guia de sobrevivência com Terraform](https://dev.to/tuxpilgrim/breve-guia-de-sobrevivencia-com-terraform-ggn)
+- [10 practical newsletters every CTO should read](https://dev.to/anvarazizov/10-practical-newsletters-every-cto-should-read-oac)
 - [Do I need TypeScript?](https://dev.to/qbentil/do-i-need-typescript-lmk)
 - [Kubernetes Namespace: How To Use It To Organize And Optimize Costs](https://dev.to/castai/kubernetes-namespace-how-to-use-it-to-organize-and-optimize-costs-57pc)
-- [Geocoding with Ruby](https://dev.to/daviducolo/geocoding-with-ruby-4229)
-- [CodeNewbie Season 22 Episode 7! Starting out in Open Source with Brian Douglas](https://dev.to/codenewbieteam/codenewbie-season-22-episode-7-starting-out-in-open-source-with-brian-douglas-n1e)
 <!-- BLOG-POST-LIST:END -->
 
