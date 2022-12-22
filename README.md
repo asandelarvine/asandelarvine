@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bursting the TDD Bubble](https://dev.to/linearb/bursting-the-tdd-bubble-49h2)
-- [Five tips to become a Pragmatic Programmer](https://dev.to/neilsmind/five-tips-to-become-a-pragmatic-programmer-3b80)
-- [Useful VS Code Extensions](https://dev.to/ksowah/useful-vs-code-extensions-336b)
-- [Computer Number Systems 101: Binary &amp; Hexadecimal Conversions](https://dev.to/educative/computer-number-systems-101-binary-hexadecimal-conversions-422g)
+- [Implement `Pick` in TypeScript](https://dev.to/20jasper/implement-pick-in-typescript-3dkf)
+- [A Developer Roadmap for High School Students: How to Get Started in Tech](https://dev.to/verisimilitude11/a-developer-roadmap-for-high-school-students-how-to-get-started-in-tech-404g)
+- [Awesome JavaScript hacks](https://dev.to/mitchiemt11/awesome-javascript-hacks-35e3)
+- [How I would build an MVP today](https://dev.to/justaashir/how-i-would-build-an-mvp-today-15hc)
 <!-- BLOG-POST-LIST:END -->
 
