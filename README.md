@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build any Front-end like Admin Panel or CRM for your Supabase](https://dev.to/jet_admin/build-any-front-end-like-admin-panel-or-crm-for-your-supabase-1f2k)
+- [An Overview of the Popular Frontend Frameworks](https://dev.to/ariellun/an-overview-of-the-popular-frontend-frameworks-bm2)
 - [10 great animation libraries to take your websites to next level](https://dev.to/mohsenkamrani/10-great-animation-libraries-to-take-your-websites-to-next-level-4b7)
-- [🎁 New giveaway for the new year](https://dev.to/refine/new-giveaway-for-the-new-year-7ch)
-- [🎁 New giveaway for the new year](https://dev.to/necatiozmen/new-giveaway-for-the-new-year-ec)
-- [10 Golden Rules for Solving a Coding Question in an Interview :](https://dev.to/codewithsom/10-golden-rules-for-solving-a-coding-question-in-an-interview--23ck)
+- [Speed of algorithms &lpar;with cats&rpar;](https://dev.to/nalgeon/speed-of-algorithms-with-cats-2703)
 <!-- BLOG-POST-LIST:END -->
 
