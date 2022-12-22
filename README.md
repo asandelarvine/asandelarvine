@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ii](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
-- [Slack Next-gen Platform - The Simplest &quot;Hello World&quot;](https://dev.to/seratch/slack-next-gen-platform-the-simplest-hello-world-4ic0)
-- [Load balancing expansion from 0 to 1](https://dev.to/llance_24/load-balancing-expansion-from-0-to-1-4552)
-- [I want to clean up the negative messages about Perl in past 3 decades](https://dev.to/yukikimoto/i-want-to-cleanup-the-negative-messages-about-perl-in-past-3-dicades-72p)
+- [Slack Next-gen Platform - Custom Functions](https://dev.to/seratch/slack-next-gen-platform-custom-functions-3pi8)
+- [rem vs em - Everything you need to know](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)
+- [Flutter MCQ Questions](https://dev.to/satyam_prg/flutter-mcq-questions-4hm1)
+- [I wrote 1000 articles, what’s next?](https://dev.to/dailydevtips1/i-wrote-1000-articles-whats-next-1187)
 <!-- BLOG-POST-LIST:END -->
 
