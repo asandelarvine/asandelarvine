@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I want to clean up the negative messages about Perl in past 3 decades](https://dev.to/yukikimoto/i-want-to-cleanup-the-negative-messages-about-perl-in-past-3-dicades-72p)
+- [Would you like to self-examine the expression &quot;Perl to Python&quot; and &quot;Python to Perl&quot;?](https://dev.to/yukikimoto/would-you-like-to-self-examine-the-expression-perl-to-python-and-python-to-perl-21k5)
+- [SPVM 0.9670 is released](https://dev.to/yukikimoto/spvm-09670-is-released-ac5)
 - [Implement `Pick` in TypeScript](https://dev.to/20jasper/implement-pick-in-typescript-3dkf)
-- [A Developer Roadmap for High School Students: How to Get Started in Tech](https://dev.to/verisimilitude11/a-developer-roadmap-for-high-school-students-how-to-get-started-in-tech-404g)
-- [Awesome JavaScript hacks](https://dev.to/mitchiemt11/awesome-javascript-hacks-35e3)
-- [How I would build an MVP today](https://dev.to/justaashir/how-i-would-build-an-mvp-today-15hc)
 <!-- BLOG-POST-LIST:END -->
 
