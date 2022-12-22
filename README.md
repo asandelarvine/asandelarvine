@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The world’s best B2B ecommerce UX: Massey Ferguson &lpar;5/5&rpar;](https://dev.to/medusajs/the-worlds-best-b2b-ecommerce-ux-massey-ferguson-55-5la)
-- [How are Hot Reloading and Live Reloading in React Native different?](https://dev.to/jagroop2000/how-are-hot-reloading-and-live-reloading-in-react-native-different-3nj7)
-- [JAVASCRIPT NECESSITIES&lpar;things you need to emphasis on&rpar;:](https://dev.to/jane49cloud/javascript-necessitiesthings-you-need-to-emphasis-on-1dn1)
-- [Responsive Navbar without Javascript](https://dev.to/shubhamtiwari909/responsive-navbar-without-javascript-3p7o)
+- [The Top Books for Software Engineers to Add to Their Reading List](https://dev.to/roberts/the-top-books-for-software-engineers-to-add-to-their-reading-list-53pb)
+- [Three Methods of Job-Hunting: Networking, Online Job-Searching, or Cold Emailing | Part 2](https://dev.to/codelabsacademy/three-methods-of-job-hunting-networking-online-job-searching-or-cold-emailing-part-2-1ejk)
+- [Three Methods of Job-Hunting: Networking, Online Job-Searching, or Cold Emailing | Part 1](https://dev.to/codelabsacademy/three-methods-of-job-hunting-networking-online-job-searching-or-cold-emailing-part-1-2hkc)
+- [15 Creative Gift Ideas for Software Engineers](https://dev.to/roberts/15-creative-gift-ideas-for-software-engineers-5doc)
 <!-- BLOG-POST-LIST:END -->
 
