@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 hour coding hackathon](https://dev.to/shreyvijayvargiya/5-hour-coding-hackathon-1o51)
+- [Roadmap To Becoming A Full Stack Web Developer :](https://dev.to/codewithsom/roadmap-to-becoming-a-full-stack-web-developer--mjk)
 - [Slack Next-gen Platform - Custom Functions](https://dev.to/seratch/slack-next-gen-platform-custom-functions-3pi8)
-- [rem vs em - Everything you need to know](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)
-- [Flutter MCQ Questions](https://dev.to/satyam_prg/flutter-mcq-questions-4hm1)
-- [I wrote 1000 articles, what’s next?](https://dev.to/dailydevtips1/i-wrote-1000-articles-whats-next-1187)
+- [7 GitHub Repositories that every front-end developer must know.](https://dev.to/hy_piyush/7-github-repositories-that-every-front-end-developer-must-know-300l)
 <!-- BLOG-POST-LIST:END -->
 
