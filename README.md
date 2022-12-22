@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevRel, Developer Relations, Relações com desenvolvedores](https://dev.to/awdren/devrel-developer-relations-relacoes-com-desenvolvedores-ei2)
-- [Cloudinary with Flutter](https://dev.to/adimiz/cloudinary-with-flutter-38a2)
-- [AI Will Not Take Your Job...Yet](https://dev.to/mikehtmlallthethings/ai-will-not-take-your-jobyet-3ed4)
-- [Linux Commands easier than never before 💪](https://dev.to/shivam164/linux-commands-easier-than-never-before-26bd)
+- [Using the Rsync Command for Copying and Synchronizing Files and Directories](https://dev.to/javigong/using-the-rsync-command-for-copying-and-synchronizing-files-and-directories-1p83)
+- [Nx 15.4 - Vite 4 Support, a new Nx Watch Command, and more!](https://dev.to/nx/nx-154-vite-4-support-a-new-nx-watch-command-and-more-548)
+- [3 challenging System Design problems to learn for your interview](https://dev.to/educative/3-challenging-system-design-problems-to-learn-for-your-interview-314c)
+- [What is the difference between .textContent, .innerText, and .innerHTML?](https://dev.to/nadia4206/what-is-the-difference-between-textcontent-innertext-and-innerhtml-38io)
 <!-- BLOG-POST-LIST:END -->
 
