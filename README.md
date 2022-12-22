@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the Rsync Command for Copying and Synchronizing Files and Directories](https://dev.to/javigong/using-the-rsync-command-for-copying-and-synchronizing-files-and-directories-1p83)
-- [Nx 15.4 - Vite 4 Support, a new Nx Watch Command, and more!](https://dev.to/nx/nx-154-vite-4-support-a-new-nx-watch-command-and-more-548)
-- [3 challenging System Design problems to learn for your interview](https://dev.to/educative/3-challenging-system-design-problems-to-learn-for-your-interview-314c)
-- [What is the difference between .textContent, .innerText, and .innerHTML?](https://dev.to/nadia4206/what-is-the-difference-between-textcontent-innertext-and-innerhtml-38io)
+- [Open Swoole 22.0.0 released](https://dev.to/sebk69/open-swoole-2200-release-6mo)
+- [Season 2 Finale: Holidays, 2022’s Favorite Moments, Season 3 Sneak Peek &amp; more!](https://dev.to/linearb/season-2-finale-holidays-2022s-favorite-moments-season-3-sneak-peek-more-jof)
+- [The Four Horsemen of Software Complexity — Architecture Decision Records to the Rescue](https://dev.to/karvozavr/the-four-horsemen-of-software-complexity-architecture-decision-records-to-the-rescue-1211)
+- [MongoDB Atlas Hackathon 2022 Winners, Announced!](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib)
 <!-- BLOG-POST-LIST:END -->
 
