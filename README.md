@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 hour coding hackathon](https://dev.to/shreyvijayvargiya/5-hour-coding-hackathon-1o51)
-- [Roadmap To Becoming A Full Stack Web Developer :](https://dev.to/codewithsom/roadmap-to-becoming-a-full-stack-web-developer--mjk)
-- [Slack Next-gen Platform - Custom Functions](https://dev.to/seratch/slack-next-gen-platform-custom-functions-3pi8)
-- [7 GitHub Repositories that every front-end developer must know.](https://dev.to/hy_piyush/7-github-repositories-that-every-front-end-developer-must-know-300l)
+- [10 great animation libraries to take your websites to next level](https://dev.to/mohsenkamrani/10-great-animation-libraries-to-take-your-websites-to-next-level-4b7)
+- [🎁 New giveaway for the new year](https://dev.to/refine/new-giveaway-for-the-new-year-7ch)
+- [🎁 New giveaway for the new year](https://dev.to/necatiozmen/new-giveaway-for-the-new-year-ec)
+- [10 Golden Rules for Solving a Coding Question in an Interview :](https://dev.to/codewithsom/10-golden-rules-for-solving-a-coding-question-in-an-interview--23ck)
 <!-- BLOG-POST-LIST:END -->
 
