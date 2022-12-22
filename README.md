@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Realtime Static Website Search using Pure JavaScript](https://dev.to/itsaomi/realtime-static-website-search-using-pure-javascript-35hi)
+- [Slack Next-gen Platform - The Simplest &quot;Hello World&quot;](https://dev.to/seratch/slack-next-gen-platform-the-simplest-hello-world-4ic0)
 - [Load balancing expansion from 0 to 1](https://dev.to/llance_24/load-balancing-expansion-from-0-to-1-4552)
 - [I want to clean up the negative messages about Perl in past 3 decades](https://dev.to/yukikimoto/i-want-to-cleanup-the-negative-messages-about-perl-in-past-3-dicades-72p)
-- [Would you like to self-examine the expression &quot;Perl to Python&quot; and &quot;Python to Perl&quot;?](https://dev.to/yukikimoto/would-you-like-to-self-examine-the-expression-perl-to-python-and-python-to-perl-21k5)
-- [SPVM 0.9670 is released](https://dev.to/yukikimoto/spvm-09670-is-released-ac5)
 <!-- BLOG-POST-LIST:END -->
 
