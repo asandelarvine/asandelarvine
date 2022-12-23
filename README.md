@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Will ChatGPT replace human software developers?](https://dev.to/polterguy/will-chatgpt-replace-human-software-developers-33dn)
+- [GPT-Powered chatbot over the phone - Try it, and see how it was built](https://dev.to/aws-builders/gpt-powered-chatbot-over-the-phone-try-it-and-see-how-it-was-built-33n9)
+- [7 Must Use VS Code Extensions for React Developers](https://dev.to/ruship001/7-must-use-vs-code-extensions-for-react-developers-137c)
 - [How to pass the arguments of Makefile.PL using cpanm](https://dev.to/yukikimoto/how-to-pass-the-arguments-of-makefilepl-using-cpanm-2212)
-- [20 Git Commands you &lpar;probably&rpar; didn&#39;t know about](https://dev.to/codeswithrocky/20-git-commands-you-probably-didnt-know-about-556n)
-- [🤖 Just Added IT Job Offers - Week #51 of 2022](https://dev.to/shman/just-added-it-job-offers-week-51-of-2022-5chj)
-- [Android Compose DataStore Tutorial](https://dev.to/ethand91/android-compose-datastore-tutorial-3bnl)
 <!-- BLOG-POST-LIST:END -->
 
