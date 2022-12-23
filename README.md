@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ da ASSIGMENT OPERATORI haqida ma&#39;lumot.](https://dev.to/feyyame1/c-da-assigment-operatori-haqida-malumot-48lb)
-- [ASSIGMENT](https://dev.to/charos1mm/assigment-3l1j)
-- [C ++ ASSIGMENT OPERATOR HAQIDA .](https://dev.to/etibor2006/c-assigment-operator-haqida--6jk)
-- [C ++ 9-Dars](https://dev.to/jafar9442/c-9-dars-2e0a)
+- [Introduction to React Query in 2023 ⚛️](https://dev.to/christopherkade/introduction-to-react-query-in-2023-537)
+- [ReductStore Client SDK for JavaScript v1.2.0: New Features and Example Use](https://dev.to/atimin/reductstore-client-sdk-for-javascript-v120-new-features-and-example-use-1pj0)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-3jc0)
+- [Rpg game with Laravel 9](https://dev.to/alionides/rpg-game-with-laravel-9-c3k)
 <!-- BLOG-POST-LIST:END -->
 
