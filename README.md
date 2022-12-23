@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Git Commands you &lpar;probably&rpar; didn&#39;t know about](https://dev.to/codeswithrocky/20-git-commands-you-probably-didnt-know-about-556n)
 - [🤖 Just Added IT Job Offers - Week #51 of 2022](https://dev.to/shman/just-added-it-job-offers-week-51-of-2022-5chj)
 - [Finalizing A New UI &lpar;Feedback Requested&rpar;](https://dev.to/greenreader9/finalizing-a-new-ui-feedback-requested-5h96)
 - [How to use PyTorch from Perl?](https://dev.to/yukikimoto/how-to-use-pytorch-from-perl-21pg)
-- [SPVM 0.9671 is released](https://dev.to/yukikimoto/spvm-09671-is-released-573g)
 <!-- BLOG-POST-LIST:END -->
 
