@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flipping Card with CSS and Javascript](https://dev.to/shubhamtiwari909/flipping-card-with-css-and-javascript-2182)
-- [tsParticles 2.7.0 Released](https://dev.to/tsparticles/tsparticles-270-released-2g3m)
-- [React - Error Boundaries](https://dev.to/vivekalhat/react-error-boundaries-16j5)
-- [Who is the GOAT? 🔮 Vercel Edge Config stores my answer](https://dev.to/this-is-learning/who-is-the-goat-vercel-edge-config-stores-my-answer-5c6m)
+- [RBAC vs ReBAC: When to use them](https://dev.to/egeaytin/rbac-vs-rebac-when-to-use-them-47c4)
+- [Docker-compose in 3 minutes: a practical guide](https://dev.to/mohsenkamrani/docker-compose-in-3-minutes-a-practical-guide-4ag2)
+- [How to migrate to Terraform Cloud and why should you do it?](https://dev.to/aws-builders/how-to-migrate-to-terraform-cloud-and-why-should-you-do-it-5hn)
+- [COMTiles &lpar;Cloud Optimized Map Tiles&rpar; hosted on Amazon S3 and Visualized with MapLibre GL JS](https://dev.to/mierune/comtiles-cloud-optimized-map-tiles-hosted-on-amazon-s3-and-visualized-with-maplibre-gl-js-3bed)
 <!-- BLOG-POST-LIST:END -->
 
