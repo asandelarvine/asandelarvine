@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RBAC vs ReBAC: When to use them](https://dev.to/egeaytin/rbac-vs-rebac-when-to-use-them-47c4)
-- [Impressions from 2022 Dev Conferences](https://dev.to/fgiuliani/impressions-from-2022-dev-conferences-2i8n)
-- [Docker-compose in 3 minutes: a practical guide](https://dev.to/mohsenkamrani/docker-compose-in-3-minutes-a-practical-guide-4ag2)
-- [How to migrate to Terraform Cloud and why should you do it?](https://dev.to/aws-builders/how-to-migrate-to-terraform-cloud-and-why-should-you-do-it-5hn)
+- [C++ da ASSIGMENT OPERATORI haqida ma&#39;lumot.](https://dev.to/feyyame1/c-da-assigment-operatori-haqida-malumot-48lb)
+- [ASSIGMENT](https://dev.to/charos1mm/assigment-3l1j)
+- [C ++ ASSIGMENT OPERATOR HAQIDA .](https://dev.to/etibor2006/c-assigment-operator-haqida--6jk)
+- [C ++ 9-Dars](https://dev.to/jafar9442/c-9-dars-2e0a)
 <!-- BLOG-POST-LIST:END -->
 
