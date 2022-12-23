@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack Next-gen Platform - External API Calls](https://dev.to/seratch/slack-next-gen-platform-external-api-calls-1i76)
+- [CSS Guide: Basics of CSS](https://dev.to/anujnegi_/css-guide-basics-of-css-5g34)
 - [Will ChatGPT replace human software developers?](https://dev.to/polterguy/will-chatgpt-replace-human-software-developers-33dn)
 - [GPT-Powered chatbot over the phone - Try it, and see how it was built](https://dev.to/aws-builders/gpt-powered-chatbot-over-the-phone-try-it-and-see-how-it-was-built-33n9)
-- [7 Must Use VS Code Extensions for React Developers](https://dev.to/ruship001/7-must-use-vs-code-extensions-for-react-developers-137c)
-- [How to pass the arguments of Makefile.PL using cpanm](https://dev.to/yukikimoto/how-to-pass-the-arguments-of-makefilepl-using-cpanm-2212)
 <!-- BLOG-POST-LIST:END -->
 
