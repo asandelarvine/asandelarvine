@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Final FLiP Stack Weekly of 2022](https://dev.to/tspannhw/final-flip-stack-weekly-of-2022-251e)
 - [Reading, writing and handling files/directories why should a web developer care?](https://dev.to/niza/reading-writing-and-handling-filesdirectories-why-should-a-web-developer-care-4cmf)
 - [Here is a general roadmap for learning web development](https://dev.to/gilbertkitetu/here-is-a-general-roadmap-for-learning-web-development-27mc)
-- [A step-by-step guide on debugging](https://dev.to/charliekroon/a-step-by-step-guide-on-debugging-48bn)
-- [5 building blocks of blockchain every developer should know](https://dev.to/siddharthsing/5-building-blocks-of-blockchain-every-developer-should-know-3902)
+- [AWS Services for Machine Learning](https://dev.to/aws-builders/aws-services-for-machine-learning-a7j)
 <!-- BLOG-POST-LIST:END -->
 
