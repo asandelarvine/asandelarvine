@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A step-by-step guide on debugging](https://dev.to/charliekroon/a-step-by-step-guide-on-debugging-48bn)
 - [5 building blocks of blockchain every developer should know](https://dev.to/siddharthsing/5-building-blocks-of-blockchain-every-developer-should-know-3902)
+- [How to use Animations &amp; Transitions in Tailwindcss](https://dev.to/guillaumeduhan/how-to-use-animations-transitions-in-tailwindcss-1iam)
 - [WHAT IS MINING IN BLOCKCHAIN?](https://dev.to/stephenkimoi/what-is-mining-in-blockchain-47mm)
-- [Handle Axios Error in Typescript](https://dev.to/mdmostafizurrahaman/handle-axios-error-in-typescript-4mf9)
-- [Optimize your data fetching with React Query ⚛️](https://dev.to/christopherkade/introduction-to-react-query-in-2023-537)
 <!-- BLOG-POST-LIST:END -->
 
