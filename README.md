@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [🤖 Just Added IT Job Offers - Week #51 of 2022](https://dev.to/shman/just-added-it-job-offers-week-51-of-2022-5chj)
+- [Finalizing A New UI &lpar;Feedback Requested&rpar;](https://dev.to/greenreader9/finalizing-a-new-ui-feedback-requested-5h96)
 - [How to use PyTorch from Perl?](https://dev.to/yukikimoto/how-to-use-pytorch-from-perl-21pg)
 - [SPVM 0.9671 is released](https://dev.to/yukikimoto/spvm-09671-is-released-573g)
-- [[OpenTelemetry] Observability of Async Processes with Custom Propagator](https://dev.to/ymtdzzz/opentelemetry-observability-of-async-processes-with-custom-propagator-2043)
 <!-- BLOG-POST-LIST:END -->
 
