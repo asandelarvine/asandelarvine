@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to save trained model in tensorflow ?](https://dev.to/anurag629/how-to-save-trained-model-in-tensorflow--2eg6)
 - [ChatGPT: The most impressive use cases of this mind-blowing AI Chatbot](https://dev.to/ermakovnv/chatgpt-the-most-impressive-use-cases-of-this-mind-blowing-ai-chatbot-3jk0)
 - [Final FLiP Stack Weekly of 2022](https://dev.to/tspannhw/final-flip-stack-weekly-of-2022-251e)
 - [Reading, writing and handling files/directories why should a web developer care?](https://dev.to/niza/reading-writing-and-handling-filesdirectories-why-should-a-web-developer-care-4cmf)
-- [Here is a general roadmap for learning web development](https://dev.to/gilbertkitetu/here-is-a-general-roadmap-for-learning-web-development-27mc)
 <!-- BLOG-POST-LIST:END -->
 
