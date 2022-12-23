@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [RBAC vs ReBAC: When to use them](https://dev.to/egeaytin/rbac-vs-rebac-when-to-use-them-47c4)
+- [Impressions from 2022 Dev Conferences](https://dev.to/fgiuliani/impressions-from-2022-dev-conferences-2i8n)
 - [Docker-compose in 3 minutes: a practical guide](https://dev.to/mohsenkamrani/docker-compose-in-3-minutes-a-practical-guide-4ag2)
 - [How to migrate to Terraform Cloud and why should you do it?](https://dev.to/aws-builders/how-to-migrate-to-terraform-cloud-and-why-should-you-do-it-5hn)
-- [COMTiles &lpar;Cloud Optimized Map Tiles&rpar; hosted on Amazon S3 and Visualized with MapLibre GL JS](https://dev.to/mierune/comtiles-cloud-optimized-map-tiles-hosted-on-amazon-s3-and-visualized-with-maplibre-gl-js-3bed)
 <!-- BLOG-POST-LIST:END -->
 
