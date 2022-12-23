@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack Next-gen Platform - External API Calls](https://dev.to/seratch/slack-next-gen-platform-external-api-calls-1i76)
-- [CSS Guide: Basics of CSS](https://dev.to/anujnegi_/css-guide-basics-of-css-5g34)
-- [Will ChatGPT replace human software developers?](https://dev.to/polterguy/will-chatgpt-replace-human-software-developers-33dn)
-- [GPT-Powered chatbot over the phone - Try it, and see how it was built](https://dev.to/aws-builders/gpt-powered-chatbot-over-the-phone-try-it-and-see-how-it-was-built-33n9)
+- [Flipping Card with CSS and Javascript](https://dev.to/shubhamtiwari909/flipping-card-with-css-and-javascript-2182)
+- [tsParticles 2.7.0 Released](https://dev.to/tsparticles/tsparticles-270-released-2g3m)
+- [React - Error Boundaries](https://dev.to/vivekalhat/react-error-boundaries-16j5)
+- [Who is the GOAT? 🔮 Vercel Edge Config stores my answer](https://dev.to/this-is-learning/who-is-the-goat-vercel-edge-config-stores-my-answer-5c6m)
 <!-- BLOG-POST-LIST:END -->
 
