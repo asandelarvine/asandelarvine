@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use PyTorch from Perl?](https://dev.to/yukikimoto/how-to-use-pytorch-from-perl-21pg)
+- [SPVM 0.9671 is released](https://dev.to/yukikimoto/spvm-09671-is-released-573g)
 - [Open Swoole 22.0.0 released](https://dev.to/sebk69/open-swoole-2200-release-6mo)
 - [Season 2 Finale: Holidays, 2022’s Favorite Moments, Season 3 Sneak Peek &amp; more!](https://dev.to/linearb/season-2-finale-holidays-2022s-favorite-moments-season-3-sneak-peek-more-jof)
-- [The Four Horsemen of Software Complexity — Architecture Decision Records to the Rescue](https://dev.to/karvozavr/the-four-horsemen-of-software-complexity-architecture-decision-records-to-the-rescue-1211)
-- [MongoDB Atlas Hackathon 2022 Winners, Announced!](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib)
 <!-- BLOG-POST-LIST:END -->
 
