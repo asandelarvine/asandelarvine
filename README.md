@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas Codepen !](https://dev.to/one_div/merry-christmas-codepen--53jk)
+- [SPVM 0.9672 is released](https://dev.to/yukikimoto/spvm-09672-is-released-3he2)
+- [Would you like to communicate with me on DEV Community?](https://dev.to/yukikimoto/would-you-like-to-communicate-with-me-on-dev-community-28j4)
 - [How to save trained model in tensorflow ?](https://dev.to/anurag629/how-to-save-trained-model-in-tensorflow--2eg6)
-- [ChatGPT: The most impressive use cases of this mind-blowing AI Chatbot](https://dev.to/ermakovnv/chatgpt-the-most-impressive-use-cases-of-this-mind-blowing-ai-chatbot-3jk0)
-- [Final FLiP Stack Weekly of 2022](https://dev.to/tspannhw/final-flip-stack-weekly-of-2022-251e)
-- [Reading, writing and handling files/directories why should a web developer care?](https://dev.to/niza/reading-writing-and-handling-filesdirectories-why-should-a-web-developer-care-4cmf)
 <!-- BLOG-POST-LIST:END -->
 
