@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Extracting Data with Hyperlambda&#39;s Semantic Slots](https://dev.to/polterguy/extracting-data-with-hyperlambdas-semantic-slots-5696)
+- [My 2022 Year in Review](https://dev.to/nickytonline/my-2022-year-in-review-a72)
+- [INTRODUCTION TO BLOCKCHAIN TECHNOLOGY](https://dev.to/wisdomudo/introduction-to-blockchain-technology-1io)
 - [8 Best Christmas Web Hosting Deals 2022 Huge Discounts!](https://dev.to/codeswithrocky/8-best-christmas-web-hosting-deals-2022-huge-discounts-had)
-- [⚛Os 10 React Hooks Mais Úteis: 03 - useContext⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-03-usecontext-469f)
-- [Professional designers avoid these 5 mistakes on their websites at all costs](https://dev.to/mohsenkamrani/professional-designers-avoid-these-5-mistakes-on-their-websites-at-all-costs-15kp)
-- [TDD in Practice: Tips and Best Practices for Success](https://dev.to/pacheco/tdd-in-practice-tips-and-best-practices-for-success-2akl)
 <!-- BLOG-POST-LIST:END -->
 
