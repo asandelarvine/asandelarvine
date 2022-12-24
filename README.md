@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do I need TypeScript?](https://dev.to/documatic/do-i-need-typescript-4n49)
 - [const a = [ ] is not an array?! 😱](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
+- [SSL Certificates - an easy to understand guide](https://dev.to/boroscsaba/ssl-certificates-an-easy-to-understand-guide-1g2a)
 - [Input Elments](https://dev.to/dipeshj2310/input-elments-3620)
-- [Front-End Development](https://dev.to/kalyanimadhu98/front-end-development-494e)
-- [The Ultimate guide of all 24 CSS Viewport Units](https://dev.to/arafat4693/the-ultimate-guide-of-all-24-css-viewport-units-3dhk)
 <!-- BLOG-POST-LIST:END -->
 
