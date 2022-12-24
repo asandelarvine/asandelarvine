@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Professional designers avoid these 5 mistakes on their websites at all costs](https://dev.to/mohsenkamrani/professional-designers-avoid-these-5-mistakes-on-their-websites-at-all-costs-15kp)
+- [TDD in Practice: Tips and Best Practices for Success](https://dev.to/pacheco/tdd-in-practice-tips-and-best-practices-for-success-2akl)
 - [Useful High Order Functions in JavaScript](https://dev.to/ksowah/useful-high-order-functions-in-javascript-4dl4)
 - [Merry Christmas Codepen !](https://dev.to/one_div/merry-christmas-codepen--53jk)
-- [SPVM 0.9672 is released](https://dev.to/yukikimoto/spvm-09672-is-released-3he2)
-- [Would you like to communicate with me on DEV Community?](https://dev.to/yukikimoto/would-you-like-to-communicate-with-me-on-dev-community-28j4)
 <!-- BLOG-POST-LIST:END -->
 
