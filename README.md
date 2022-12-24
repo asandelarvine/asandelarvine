@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why hard-soft definitions of skills might not work?](https://dev.to/viby/why-hard-soft-definitions-of-skills-might-not-work-5gk6)
 - [Time series forecasting of stock data using a deep learning model.](https://dev.to/anurag629/time-series-forecasting-of-stock-data-using-a-deep-learning-model-16ke)
 - [MongoDB cheat sheet](https://dev.to/arafat4693/mongodb-cheat-sheet-2f9o)
 - [Creating a new badge collection !](https://dev.to/ziadoua/creating-a-new-badge-collection--51c1)
-- [How I made my first landing page &lpar;with some JS&rpar;](https://dev.to/lensco825/how-i-made-my-first-landing-page-with-some-js-l0b)
 <!-- BLOG-POST-LIST:END -->
 
