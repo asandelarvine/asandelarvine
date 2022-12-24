@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Time series forecasting of stock data using a deep learning model.](https://dev.to/anurag629/time-series-forecasting-of-stock-data-using-a-deep-learning-model-16ke)
 - [MongoDB cheat sheet](https://dev.to/arafat4693/mongodb-cheat-sheet-2f9o)
-- [Why Santa Claus Can&#39;t Inherit from Human: A Festive OOP Lesson](https://dev.to/noriller/why-santa-claus-cant-inherit-from-human-a-festive-oop-lesson-3n34)
-- [How SQL engine implement the isolation levels in MySQL](https://dev.to/amitiwary999/how-sql-engine-implement-the-isolation-levels-in-mysql-4l5o)
-- [The Collab Lab TCL-50 recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-50-recap-2gob)
+- [Creating a new badge collection !](https://dev.to/ziadoua/creating-a-new-badge-collection--51c1)
+- [How I made my first landing page &lpar;with some JS&rpar;](https://dev.to/lensco825/how-i-made-my-first-landing-page-with-some-js-l0b)
 <!-- BLOG-POST-LIST:END -->
 
