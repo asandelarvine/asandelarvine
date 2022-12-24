@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsive web Designs with CSS](https://dev.to/shubhamtiwari909/responsive-web-designs-with-css-241k)
 - [2022: Best Year of My Life! ✨](https://dev.to/sauain/2022-best-year-of-my-life-47nj)
+- [Day 24: CI for perl5-MIME-Types](https://dev.to/szabgab/day-24-ci-for-perl5-mime-types-1nf)
 - [Maximize Your Business Growth with Data-Driven Insights: The Importance of Understanding 🤔 Your Data for Success](https://dev.to/pramit_marattha/maximize-your-business-growth-with-data-driven-insights-the-importance-of-understanding-your-data-for-success-17p7)
-- [Google Search Tips](https://dev.to/ahmed_onour/google-search-tips-p5l)
-- [Extracting Data with Hyperlambda&#39;s Semantic Slots](https://dev.to/polterguy/extracting-data-with-hyperlambdas-semantic-slots-5696)
 <!-- BLOG-POST-LIST:END -->
 
