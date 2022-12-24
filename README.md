@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [const a = [ ] is not an array?! 😱](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
 - [Input Elments](https://dev.to/dipeshj2310/input-elments-3620)
+- [Front-End Development](https://dev.to/kalyanimadhu98/front-end-development-494e)
 - [The Ultimate guide of all 24 CSS Viewport Units](https://dev.to/arafat4693/the-ultimate-guide-of-all-24-css-viewport-units-3dhk)
-- [PageSpeed vs. Real User Monitoring: What&#39;s the Difference?](https://dev.to/_nill_/pagespeed-vs-real-user-monitoring-whats-the-difference-5flo)
-- [gRPC file transfer with GO](https://dev.to/dimk00z/grpc-file-transfer-with-go-1nb2)
 <!-- BLOG-POST-LIST:END -->
 
