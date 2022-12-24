@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s wrong with code in 2022?](https://dev.to/mariamarsh/whats-wrong-with-code-in-2022-3nbd)
 - [Local storage and Session storage and useful tips for debugging in Chrome](https://dev.to/mohsenkamrani/local-storage-and-session-storage-and-useful-tips-for-debugging-in-chrome-3588)
-- [Responsive web Designs with CSS](https://dev.to/shubhamtiwari909/responsive-web-designs-with-css-241k)
+- [Responsive Web Designs with CSS](https://dev.to/shubhamtiwari909/responsive-web-designs-with-css-241k)
 - [2022: Best Year of My Life! ✨](https://dev.to/sauain/2022-best-year-of-my-life-47nj)
-- [Day 24: CI for perl5-MIME-Types](https://dev.to/szabgab/day-24-ci-for-perl5-mime-types-1nf)
 <!-- BLOG-POST-LIST:END -->
 
