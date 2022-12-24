@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Santa Claus Can&#39;t Inherit from Human: A Festive OOP Lesson](https://dev.to/noriller/why-santa-claus-cant-inherit-from-human-a-festive-oop-lesson-3n34)
+- [How SQL engine implement the isolation levels in MySQL](https://dev.to/amitiwary999/how-sql-engine-implement-the-isolation-levels-in-mysql-4l5o)
+- [The Collab Lab TCL-50 recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-50-recap-2gob)
 - [Do I need TypeScript?](https://dev.to/documatic/do-i-need-typescript-4n49)
-- [const a = [ ] is not an array?! 😱](https://dev.to/bhaveek424/const-a-is-not-an-array-3obb)
-- [SSL Certificates - an easy to understand guide](https://dev.to/boroscsaba/ssl-certificates-an-easy-to-understand-guide-1g2a)
-- [Input Elments](https://dev.to/dipeshj2310/input-elments-3620)
 <!-- BLOG-POST-LIST:END -->
 
