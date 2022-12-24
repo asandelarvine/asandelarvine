@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain: Starting of new Journey](https://dev.to/jagroop2000/blockchain-starting-of-new-journey-5970)
 - [What&#39;s wrong with code in 2022?](https://dev.to/mariamarsh/whats-wrong-with-code-in-2022-3nbd)
 - [Local storage and Session storage and useful tips for debugging in Chrome](https://dev.to/mohsenkamrani/local-storage-and-session-storage-and-useful-tips-for-debugging-in-chrome-3588)
 - [Responsive Web Designs with CSS](https://dev.to/shubhamtiwari909/responsive-web-designs-with-css-241k)
-- [2022: Best Year of My Life! ✨](https://dev.to/sauain/2022-best-year-of-my-life-47nj)
 <!-- BLOG-POST-LIST:END -->
 
