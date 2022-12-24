@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interact with Azure web applications using the Python SDK](https://dev.to/makendrang/interact-with-azure-web-applications-using-the-python-sdk-5h5f)
-- [Overcoming not invented here syndrome](https://dev.to/smeetsmeister/overcoming-not-invented-here-syndrome-22am)
-- [Blockchain: Starting of new Journey](https://dev.to/jagroop2000/blockchain-starting-of-new-journey-5970)
-- [What&#39;s wrong with code in 2022?](https://dev.to/mariamarsh/whats-wrong-with-code-in-2022-3nbd)
+- [The Ultimate guide of all 24 CSS Viewport Units](https://dev.to/arafat4693/the-ultimate-guide-of-all-24-css-viewport-units-3dhk)
+- [PageSpeed vs. Real User Monitoring: What&#39;s the Difference?](https://dev.to/_nill_/pagespeed-vs-real-user-monitoring-whats-the-difference-5flo)
+- [gRPC file transfer with GO](https://dev.to/dimk00z/grpc-file-transfer-with-go-1nb2)
+- [Merry Christmas Developers!](https://dev.to/ecaterinateodo3/merry-christmas-developers-1p60)
 <!-- BLOG-POST-LIST:END -->
 
