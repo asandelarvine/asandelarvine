@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
+- [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster &lpar;1/2&rpar;](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-12-5f82)
 - [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
-- [How to make a simple Android app that shows time and date?](https://dev.to/dhruvjoshi9/how-to-make-a-simple-android-app-that-shows-time-and-date-379l)
-- [How to Solve an Algorithm Problem? | With Examples](https://dev.to/aradwan20/how-to-solve-an-algorithm-problem-with-examples-3b34)
+- [CORS Error in 5 minutes](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
 <!-- BLOG-POST-LIST:END -->
 
