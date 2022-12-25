@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why hard-soft definitions of skills might not work?](https://dev.to/viby/why-hard-soft-definitions-of-skills-might-not-work-5gk6)
-- [Time series forecasting of stock data using a deep learning model.](https://dev.to/anurag629/time-series-forecasting-of-stock-data-using-a-deep-learning-model-16ke)
-- [MongoDB cheat sheet](https://dev.to/arafat4693/mongodb-cheat-sheet-2f9o)
-- [Creating a new badge collection !](https://dev.to/ziadoua/creating-a-new-badge-collection--51c1)
+- [NPM Scripts summary](https://dev.to/asap/npm-scripts-summary-5012)
+- [Useful: Abbreviation](https://dev.to/ysellami/useful-abbreviation-3c76)
+- [Github Action Workflows for Perl Modules - Perl Club](https://dev.to/yukikimoto/github-action-workflows-for-perl-modules-perl-club-kd5)
+- [Improving Performance with React Lazy and Suspense](https://dev.to/farrokh/improving-performance-with-react-lazy-and-suspense-4g59)
 <!-- BLOG-POST-LIST:END -->
 
