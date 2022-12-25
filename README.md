@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Problem with a Headless CMS](https://dev.to/builderio/the-problem-with-a-headless-cms-cmp)
 - [Lego Technic Large Hub&#39;a Linux ile bağlanmak](https://dev.to/aliorhun/lego-technic-large-huba-linux-ile-baglanmak-4gkl)
 - [Top 10 skill for software engineer in 2023](https://dev.to/giasuddin90/top-10-skill-for-software-engineer-in-2023-5412)
 - [Command Line Interface for Beginners](https://dev.to/omoluabidotcom/command-line-interface-for-beginners-4hjj)
-- [Event Bus Pattern in Android Using Kotlin Flows](https://dev.to/mohitrajput987/event-bus-pattern-in-android-using-kotlin-flows-la)
 <!-- BLOG-POST-LIST:END -->
 
