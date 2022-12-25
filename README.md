@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Version : Evolution from Currency to DApps](https://dev.to/jagroop2000/blockchain-version-evolution-from-currency-to-dapps-56ab)
 - [Should you learn Rust as Web Developer?](https://dev.to/nathan20/should-you-learn-rust-as-web-developer-106f)
 - [7 super cool AI tools worth checking out](https://dev.to/mohsenkamrani/7-super-cool-ai-tools-worth-checking-out-29fe)
 - [Day 25: CI for Data::Alias in Perl - including threaded perl](https://dev.to/szabgab/day-25-ci-for-dataalias-in-perl-including-threaded-perl-5feh)
-- [Accessibility issues in code editors?](https://dev.to/rahulbhai9/accessibility-issues-in-code-editors-3a8f)
 <!-- BLOG-POST-LIST:END -->
 
