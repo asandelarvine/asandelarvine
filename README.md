@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 free Tools for the Modern Web Developers of 2023](https://dev.to/ruppysuppy/7-free-tools-for-the-modern-web-developers-of-2023-4lhh)
-- [How To Create Custom GitHub Codespaces Template](https://dev.to/sachinchaurasiya/how-to-create-custom-github-codespaces-template-10bg)
-- [Start rethinkdb on startup in Arch Linux](https://dev.to/rounakcodes/start-rethinkdb-on-startup-in-arch-linux-dfo)
-- [How to Create a New Reposiorty on Github](https://dev.to/sardiusjay/how-to-create-a-new-reposiorty-on-github-5c6j)
+- [7 super cool AI tools worth checking out](https://dev.to/mohsenkamrani/7-super-cool-ai-tools-worth-checking-out-29fe)
+- [Day 25: CI for Data::Alias in Perl - including threaded perl](https://dev.to/szabgab/day-25-ci-for-dataalias-in-perl-including-threaded-perl-5feh)
+- [Accessibility issues in code editors?](https://dev.to/rahulbhai9/accessibility-issues-in-code-editors-3a8f)
+- [Kubernetes: Whats, Whys, and Hows of Kubernetes with Demonstration](https://dev.to/lovepreetsingh/kubernetes-whats-whys-and-hows-of-kubernetes-with-demonstration-28dn)
 <!-- BLOG-POST-LIST:END -->
 
