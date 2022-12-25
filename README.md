@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Technic Large Hub&#39;a Linux ile bağlanmak](https://dev.to/aliorhun/lego-technic-large-huba-linux-ile-baglanmak-4gkl)
 - [Command Line Interface for Beginners](https://dev.to/omoluabidotcom/command-line-interface-for-beginners-4hjj)
 - [Event Bus Pattern in Android Using Kotlin Flows](https://dev.to/mohitrajput987/event-bus-pattern-in-android-using-kotlin-flows-la)
 - [Top 10 software architecture pattern](https://dev.to/giasuddin90/top-10-software-architecture-pattern-4ngd)
-- [Blockchain Version : Evolution from Currency to DApps](https://dev.to/jagroop2000/blockchain-version-evolution-from-currency-to-dapps-56ab)
 <!-- BLOG-POST-LIST:END -->
 
