@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Start rethinkdb on startup in Arch Linux](https://dev.to/rounakcodes/start-rethinkdb-on-startup-in-arch-linux-dfo)
+- [How to Create a New Reposiorty on Github](https://dev.to/sardiusjay/how-to-create-a-new-reposiorty-on-github-5c6j)
 - [NPM Scripts summary](https://dev.to/asap/npm-scripts-summary-5012)
 - [Useful: Abbreviation](https://dev.to/ysellami/useful-abbreviation-3c76)
-- [Github Action Workflows for Perl Modules - Perl Club](https://dev.to/yukikimoto/github-action-workflows-for-perl-modules-perl-club-kd5)
-- [Improving Performance with React Lazy and Suspense](https://dev.to/farrokh/improving-performance-with-react-lazy-and-suspense-4g59)
 <!-- BLOG-POST-LIST:END -->
 
