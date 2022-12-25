@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Start rethinkdb on startup in Arch Linux](https://dev.to/rounakcodes/start-rethinkdb-on-startup-in-arch-linux-dfo)
 - [How to Create a New Reposiorty on Github](https://dev.to/sardiusjay/how-to-create-a-new-reposiorty-on-github-5c6j)
+- [Compact Guide: How to sync Google calendar with Laravel](https://dev.to/dnsinyukov/compact-guide-how-to-sync-google-calendar-with-laravel-145g)
 - [NPM Scripts summary](https://dev.to/asap/npm-scripts-summary-5012)
-- [Useful: Abbreviation](https://dev.to/ysellami/useful-abbreviation-3c76)
 <!-- BLOG-POST-LIST:END -->
 
