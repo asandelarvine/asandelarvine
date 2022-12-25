@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make a simple Android app that shows time and date?](https://dev.to/dhruvjoshi9/how-to-make-a-simple-android-app-that-shows-time-and-date-379l)
+- [How to Solve an Algorithm Problem? | With Examples](https://dev.to/aradwan20/how-to-solve-an-algorithm-problem-with-examples-3b34)
+- [Chatbot using OpenAI API](https://dev.to/ayazmirza54/chatbot-using-openai-api-3g70)
 - [The Problem with a Headless CMS](https://dev.to/builderio/the-problem-with-a-headless-cms-cmp)
-- [Lego Technic Large Hub&#39;a Linux ile bağlanmak](https://dev.to/aliorhun/lego-technic-large-huba-linux-ile-baglanmak-4gkl)
-- [Top 10 skill for software engineer in 2023](https://dev.to/giasuddin90/top-10-skill-for-software-engineer-in-2023-5412)
-- [Command Line Interface for Beginners](https://dev.to/omoluabidotcom/command-line-interface-for-beginners-4hjj)
 <!-- BLOG-POST-LIST:END -->
 
