@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
+- [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
 - [How to make a simple Android app that shows time and date?](https://dev.to/dhruvjoshi9/how-to-make-a-simple-android-app-that-shows-time-and-date-379l)
 - [How to Solve an Algorithm Problem? | With Examples](https://dev.to/aradwan20/how-to-solve-an-algorithm-problem-with-examples-3b34)
-- [Chatbot using OpenAI API](https://dev.to/ayazmirza54/chatbot-using-openai-api-3g70)
-- [The Problem with a Headless CMS](https://dev.to/builderio/the-problem-with-a-headless-cms-cmp)
 <!-- BLOG-POST-LIST:END -->
 
