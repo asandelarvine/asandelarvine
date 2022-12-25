@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 free Tools for the Modern Web Developers of 2023](https://dev.to/ruppysuppy/7-free-tools-for-the-modern-web-developers-of-2023-4lhh)
+- [How To Create Custom GitHub Codespaces Template](https://dev.to/sachinchaurasiya/how-to-create-custom-github-codespaces-template-10bg)
 - [Start rethinkdb on startup in Arch Linux](https://dev.to/rounakcodes/start-rethinkdb-on-startup-in-arch-linux-dfo)
 - [How to Create a New Reposiorty on Github](https://dev.to/sardiusjay/how-to-create-a-new-reposiorty-on-github-5c6j)
-- [Compact Guide: How to sync Google calendar with Laravel](https://dev.to/dnsinyukov/compact-guide-how-to-sync-google-calendar-with-laravel-145g)
-- [NPM Scripts summary](https://dev.to/asap/npm-scripts-summary-5012)
 <!-- BLOG-POST-LIST:END -->
 
