@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Lego Technic Large Hub&#39;a Linux ile bağlanmak](https://dev.to/aliorhun/lego-technic-large-huba-linux-ile-baglanmak-4gkl)
+- [Top 10 skill for software engineer in 2023](https://dev.to/giasuddin90/top-10-skill-for-software-engineer-in-2023-5412)
 - [Command Line Interface for Beginners](https://dev.to/omoluabidotcom/command-line-interface-for-beginners-4hjj)
 - [Event Bus Pattern in Android Using Kotlin Flows](https://dev.to/mohitrajput987/event-bus-pattern-in-android-using-kotlin-flows-la)
-- [Top 10 software architecture pattern](https://dev.to/giasuddin90/top-10-software-architecture-pattern-4ngd)
 <!-- BLOG-POST-LIST:END -->
 
