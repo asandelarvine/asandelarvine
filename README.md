@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write a research paper in artificial intelligence, machine learning, and deep learning field step-by-step guidance.](https://dev.to/anurag629/how-to-write-a-research-paper-in-artificial-intelligence-machine-learning-and-deep-learning-field-step-by-step-guidance-2o3a)
+- [Maximizing Your Industry Insights &amp; Expertise on LinkedIn](https://dev.to/softcysec/maximizing-your-industry-insights-expertise-on-linkedin-5c17)
+- [An Introduction to Algorithms](https://dev.to/drvnprgrmr/an-introduction-to-algorithms-436a)
 - [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
-- [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster &lpar;1/2&rpar;](https://dev.to/gaosun/migrate-a-60k-loc-typescript-nodejs-repo-to-esm-and-testing-become-4x-faster-12-5f82)
-- [How to Transition into Backend Development as a Frontend Web Developer](https://dev.to/darkxenium/how-to-transition-into-backend-development-as-a-frontend-web-developer-4ba5)
-- [CORS Error in 5 minutes](https://dev.to/alestor_123/cors-error-in-5-minutes-2doa)
 <!-- BLOG-POST-LIST:END -->
 
