@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What the hell are React Server Components ?](https://dev.to/shivamjjha/what-the-hell-are-react-server-components--14md)
 - [How to write a research paper in artificial intelligence, machine learning, and deep learning field step-by-step guidance.](https://dev.to/anurag629/how-to-write-a-research-paper-in-artificial-intelligence-machine-learning-and-deep-learning-field-step-by-step-guidance-2o3a)
+- [Long story short: I build a Ruby extension with Zig](https://dev.to/katafrakt/long-story-short-i-build-a-ruby-extension-with-zig-cao)
 - [Maximizing Your Industry Insights &amp; Expertise on LinkedIn](https://dev.to/softcysec/maximizing-your-industry-insights-expertise-on-linkedin-5c17)
-- [An Introduction to Algorithms](https://dev.to/drvnprgrmr/an-introduction-to-algorithms-436a)
-- [Baby Steps to Learn Web Development and land your first internship!](https://dev.to/darkxenium/baby-steps-to-learn-web-development-and-land-your-first-internship-cel)
 <!-- BLOG-POST-LIST:END -->
 
