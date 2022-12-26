@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pandas - Visualizing Dataframe Data - 7 Days of Pandas](https://dev.to/piyushraj/pandas-visualizing-dataframe-data-7-days-of-pandas-1l0p)
 - [Top 5 Skills for DevOps Engineer Professionals](https://dev.to/ethanstechpune/top-5-skills-for-devops-engineer-professionals-38o0)
 - [Introduction to Data Structures and Algorithms](https://dev.to/brilliance/introduction-to-data-structures-and-algorithms-5b6)
 - [Understanding Docker: part 37 – Content Trust](https://dev.to/aurelievache/understanding-docker-part-37-content-trust-18n3)
-- [Slack Next-gen Platform - Unit Testing](https://dev.to/seratch/slack-next-gen-platform-unit-testing-4inp)
 <!-- BLOG-POST-LIST:END -->
 
