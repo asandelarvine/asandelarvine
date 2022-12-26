@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is SWR and How Can It Improve Your React Apps?](https://dev.to/basskibo/what-is-swr-and-how-can-it-improve-your-react-apps-2016)
 - [Technical recruiters&#39; common mistakes, as perceived by job seekers](https://dev.to/azizfcb/technical-recruiters-common-mistakes-as-perceived-by-job-seekers-4akj)
 - [Season 2: The one with The Interview](https://dev.to/adyasha8105/season-2-the-one-with-the-interview-11oj)
 - [My 2022 in review](https://dev.to/shafspecs/my-2022-in-review-3db9)
-- [HTML input[type=file] accept types](https://dev.to/acrobat/html-inputtypefile-accept-types-1g2o)
 <!-- BLOG-POST-LIST:END -->
 
