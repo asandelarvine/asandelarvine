@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Ethical hacking in 2023 &lpar;detailed overview&rpar;](https://dev.to/shihab91/learn-ethical-hacking-in-2023-detailed-overview-36b0)
+- [Meme Monday 🎄](https://dev.to/ben/meme-monday-4gei)
+- [TonyEdit](https://dev.to/ashutosh_pandey/tonyedit-7p7)
 - [How to Make Most Beautiful eCommerce Website](https://dev.to/codewithsadee/how-to-make-most-beautiful-ecommerce-website-19he)
-- [WHAT IS LAMBDA IN PYTHON](https://dev.to/codewithkevin/what-is-lambda-in-python-2gfn)
-- [How to code a simple Flash light Android app? Step by Step Detailed Guide with Code](https://dev.to/dhruvjoshi9/how-to-make-a-simple-flash-light-android-app-step-by-step-detailed-guide-with-code-4coo)
-- [How to code an Android app like CPU-Z in Android Studio | Detailed Guide with Code](https://dev.to/dhruvjoshi9/how-to-make-an-android-app-like-cpu-z-in-android-studio-detailed-guide-with-code-584k)
 <!-- BLOG-POST-LIST:END -->
 
