@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Dumbing Down da Doherty Threshold 💫](https://dev.to/devfasttt/dumbing-down-da-doherty-threshold-5a5i)
 - [Building a Radar Chart in JavaScript](https://dev.to/andreykh1985/building-a-radar-chart-in-javascript-13pa)
 - [The 3 Short December CSS tips](https://dev.to/melnik909/the-3-short-december-css-tips-1m31)
-- [On the first day of Enhancing: Getting Started](https://dev.to/begin/on-the-first-day-of-enhancing-getting-started-21hi)
+- [How to test DEV API ?](https://dev.to/thomasbnt/how-to-test-dev-api--p13)
 <!-- BLOG-POST-LIST:END -->
 
