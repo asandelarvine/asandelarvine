@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Skills for DevOps Engineer Professionals](https://dev.to/ethanstechpune/top-5-skills-for-devops-engineer-professionals-38o0)
+- [Introduction to Data Structures and Algorithms](https://dev.to/brilliance/introduction-to-data-structures-and-algorithms-5b6)
+- [Understanding Docker: part 37 – Content Trust](https://dev.to/aurelievache/understanding-docker-part-37-content-trust-18n3)
 - [Slack Next-gen Platform - Unit Testing](https://dev.to/seratch/slack-next-gen-platform-unit-testing-4inp)
-- [What is the Systems Development Life Cycle: A Comprehensive Review](https://dev.to/flatlogic/what-is-the-systems-development-life-cycle-a-comprehensive-review-ddo)
-- [Global State using Context API React](https://dev.to/shubhamtiwari909/global-state-using-context-api-react-1l08)
-- [Simple Gradient Clip Text](https://dev.to/proanshu/simple-gradient-clip-text-3iaa)
 <!-- BLOG-POST-LIST:END -->
 
