@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the world of Docker volumes: A beginner&#39;s guide](https://dev.to/yusadolat/dive-into-the-world-of-docker-volumes-a-beginners-guide-22ih)
-- [How to Make Subreddit Feed App in React JS](https://dev.to/reactjsguru/how-to-make-subreddit-feed-app-in-react-js-42kc)
-- [Non-tech Reading Recommendations?](https://dev.to/nickytonline/non-tech-reading-recommendations-55pm)
-- [How to make a clock Android app in Android Studio?](https://dev.to/dhruvjoshi9/how-to-make-a-clock-android-app-in-android-studio-5724)
+- [How to Build an NFT Auction Site with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-nft-auction-site-with-react-solidity-and-cometchat-1om2)
+- [Murtaza Hashwani | Difference Between C and C++](https://dev.to/murtazahashwani/murtaza-hashwani-difference-between-c-and-c-52d4)
+- [Introduction to Computer Networking](https://dev.to/makepad/introduction-to-computer-networking-1pfj)
+- [Integrate Stripe Payments with Django By Building a Digital Products Selling App](https://dev.to/documatic/integrate-stripe-payments-with-django-by-building-a-digital-products-selling-app-le5)
 <!-- BLOG-POST-LIST:END -->
 
