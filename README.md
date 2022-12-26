@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I make myself learn?](https://dev.to/notaethan/how-do-i-make-myself-learn-5h4c)
 - [How to implement authentication in NextJS using Amazon Cognito](https://dev.to/czetsuya/how-to-implement-authentication-in-nextjs-using-amazon-cognito-i8c)
 - [Perl Suggestion: Improve metacpan title in Google SEO](https://dev.to/yukikimoto/perl-suggestion-improve-metacpan-title-in-google-seo-3a9f)
 - [What is Redux?](https://dev.to/nothanii/what-is-redux-45n0)
-- [It is not widely known that Perl is one of the easiest languages to read like Python.](https://dev.to/yukikimoto/it-is-not-widely-known-that-perl-is-one-of-the-easiest-languages-to-read-like-python-23p9)
 <!-- BLOG-POST-LIST:END -->
 
