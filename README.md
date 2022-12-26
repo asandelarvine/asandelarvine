@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Alternatives to Git.](https://dev.to/niza/alternatives-to-git-4p6m)
+- [Create Virtual Environment in Python Using Conda](https://dev.to/itsarpit/create-virtual-environment-in-python-using-conda-1een)
+- [Badger, or how to make things easier](https://dev.to/ziadoua/badger-or-how-to-make-things-easier-4imj)
 - [Dumbing Down da Doherty Threshold 💫](https://dev.to/devfasttt/dumbing-down-da-doherty-threshold-5a5i)
-- [Building a Radar Chart in JavaScript](https://dev.to/andreykh1985/building-a-radar-chart-in-javascript-13pa)
-- [The 3 Short December CSS tips](https://dev.to/melnik909/the-3-short-december-css-tips-1m31)
-- [How to test DEV API ?](https://dev.to/thomasbnt/how-to-test-dev-api--p13)
 <!-- BLOG-POST-LIST:END -->
 
