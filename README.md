@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-tech Reading Recommendations?](https://dev.to/nickytonline/non-tech-reading-recommendations-55pm)
 - [How to make a clock Android app in Android Studio?](https://dev.to/dhruvjoshi9/how-to-make-a-clock-android-app-in-android-studio-5724)
+- [Yet Another Newsletter LOL: Too much turkey](https://dev.to/nickytonline/yet-another-newsletter-lol-too-much-turkey-3450)
 - [How to make a simple iOS app that shows time and date?](https://dev.to/dhruvjoshi9/how-to-make-a-simple-ios-app-that-shows-time-and-date-37jg)
-- [The Most Important Software Architectural Patterns You Need to Know](https://dev.to/giasuddin90/the-most-important-software-architectural-patterns-you-need-to-know-45ho)
-- [How do I make myself learn?](https://dev.to/notaethan/how-do-i-make-myself-learn-5h4c)
 <!-- BLOG-POST-LIST:END -->
 
