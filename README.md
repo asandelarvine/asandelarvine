@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dive into the world of Docker volumes: A beginner&#39;s guide](https://dev.to/yusadolat/dive-into-the-world-of-docker-volumes-a-beginners-guide-22ih)
+- [How to Make Subreddit Feed App in React JS](https://dev.to/reactjsguru/how-to-make-subreddit-feed-app-in-react-js-42kc)
 - [Non-tech Reading Recommendations?](https://dev.to/nickytonline/non-tech-reading-recommendations-55pm)
 - [How to make a clock Android app in Android Studio?](https://dev.to/dhruvjoshi9/how-to-make-a-clock-android-app-in-android-studio-5724)
-- [Yet Another Newsletter LOL: Too much turkey](https://dev.to/nickytonline/yet-another-newsletter-lol-too-much-turkey-3450)
-- [How to make a simple iOS app that shows time and date?](https://dev.to/dhruvjoshi9/how-to-make-a-simple-ios-app-that-shows-time-and-date-37jg)
 <!-- BLOG-POST-LIST:END -->
 
