@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pandas - Visualizing Dataframe Data - 7 Days of Pandas](https://dev.to/piyushraj/pandas-visualizing-dataframe-data-7-days-of-pandas-1l0p)
-- [Top 5 Skills for DevOps Engineer Professionals](https://dev.to/ethanstechpune/top-5-skills-for-devops-engineer-professionals-38o0)
-- [Introduction to Data Structures and Algorithms](https://dev.to/brilliance/introduction-to-data-structures-and-algorithms-5b6)
-- [Understanding Docker: part 37 – Content Trust](https://dev.to/aurelievache/understanding-docker-part-37-content-trust-18n3)
+- [How to make an Android app like CPU-Z in Android Studio | Detailed Guide with Code](https://dev.to/dhruvjoshi9/how-to-make-an-android-app-like-cpu-z-in-android-studio-detailed-guide-with-code-584k)
+- [How to make a Screen Shot Android app? Step by step guide](https://dev.to/dhruvjoshi9/how-to-make-a-screen-shot-android-app-step-by-step-guide-2dj0)
+- [How to code a Android app that shows phone&#39;s statistics and other hardware info?](https://dev.to/dhruvjoshi9/how-to-code-a-android-app-that-shows-phones-statics-and-other-hardware-info-1oad)
+- [Optimizing CSS Performance in Nuxt with Critters](https://dev.to/jacobandrewsky/optimizing-css-performance-in-nuxt-with-critters-4k8i)
 <!-- BLOG-POST-LIST:END -->
 
