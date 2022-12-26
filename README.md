@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Ethical hacking in 2023 &lpar;detailed overview&rpar;](https://dev.to/shihab91/learn-ethical-hacking-in-2023-detailed-overview-36b0)
-- [Meme Monday 🎄](https://dev.to/ben/meme-monday-4gei)
-- [TonyEdit](https://dev.to/ashutosh_pandey/tonyedit-7p7)
-- [How to Make Most Beautiful eCommerce Website](https://dev.to/codewithsadee/how-to-make-most-beautiful-ecommerce-website-19he)
+- [Technical recruiters&#39; common mistakes, as perceived by job seekers](https://dev.to/azizfcb/technical-recruiters-common-mistakes-as-perceived-by-job-seekers-4akj)
+- [Season 2: The one with The Interview](https://dev.to/adyasha8105/season-2-the-one-with-the-interview-11oj)
+- [My 2022 in review](https://dev.to/shafspecs/my-2022-in-review-3db9)
+- [HTML input[type=file] accept types](https://dev.to/acrobat/html-inputtypefile-accept-types-1g2o)
 <!-- BLOG-POST-LIST:END -->
 
