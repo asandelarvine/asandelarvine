@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [tsParticles 2.7.1 Released](https://dev.to/matteobruni/tsparticles-271-released-4iam)
-- [AWS Lambda Extensions with Rust](https://dev.to/aws-builders/aws-lambda-extensions-with-rust-3mnl)
-- [Understanding the useReducer hook in react](https://dev.to/boluwatifeajayi/understanding-the-usereducer-hook-in-react-2o3o)
-- [What the hell are React Server Components ?](https://dev.to/shivamjjha/what-the-hell-are-react-server-components--14md)
+- [It is not widely known that Perl is one of the easiest languages to read like Python.](https://dev.to/yukikimoto/it-is-not-widely-known-that-perl-is-one-of-the-easiest-languages-to-read-like-python-23p9)
+- [Service workers tutorial](https://dev.to/uploadcare/service-workers-tutorial-1b7h)
+- [How to resolve a merge conflict in Git](https://dev.to/bcostaaa01/how-to-resolve-a-merge-conflict-in-git-54ag)
+- [How to Set Up Google Tag Manager &lpar;GTM&rpar; on Your Website Quickly](https://dev.to/analyticsinstitute/how-to-set-up-google-tag-manager-gtm-on-your-website-quickly-4c9o)
 <!-- BLOG-POST-LIST:END -->
 
