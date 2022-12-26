@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an NFT Auction Site with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-nft-auction-site-with-react-solidity-and-cometchat-1om2)
-- [Murtaza Hashwani | Difference Between C and C++](https://dev.to/murtazahashwani/murtaza-hashwani-difference-between-c-and-c-52d4)
-- [Introduction to Computer Networking](https://dev.to/makepad/introduction-to-computer-networking-1pfj)
-- [Integrate Stripe Payments with Django By Building a Digital Products Selling App](https://dev.to/documatic/integrate-stripe-payments-with-django-by-building-a-digital-products-selling-app-le5)
+- [Slack Next-gen Platform - Unit Testing](https://dev.to/seratch/slack-next-gen-platform-unit-testing-4inp)
+- [What is the Systems Development Life Cycle: A Comprehensive Review](https://dev.to/flatlogic/what-is-the-systems-development-life-cycle-a-comprehensive-review-ddo)
+- [Global State using Context API React](https://dev.to/shubhamtiwari909/global-state-using-context-api-react-1l08)
+- [Simple Gradient Clip Text](https://dev.to/proanshu/simple-gradient-clip-text-3iaa)
 <!-- BLOG-POST-LIST:END -->
 
