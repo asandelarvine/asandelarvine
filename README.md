@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make an Android app like CPU-Z in Android Studio | Detailed Guide with Code](https://dev.to/dhruvjoshi9/how-to-make-an-android-app-like-cpu-z-in-android-studio-detailed-guide-with-code-584k)
-- [How to make a Screen Shot Android app? Step by step guide](https://dev.to/dhruvjoshi9/how-to-make-a-screen-shot-android-app-step-by-step-guide-2dj0)
-- [How to code a Android app that shows phone&#39;s statistics and other hardware info?](https://dev.to/dhruvjoshi9/how-to-code-a-android-app-that-shows-phones-statics-and-other-hardware-info-1oad)
-- [Optimizing CSS Performance in Nuxt with Critters](https://dev.to/jacobandrewsky/optimizing-css-performance-in-nuxt-with-critters-4k8i)
+- [How to Make Most Beautiful eCommerce Website](https://dev.to/codewithsadee/how-to-make-most-beautiful-ecommerce-website-19he)
+- [WHAT IS LAMBDA IN PYTHON](https://dev.to/codewithkevin/what-is-lambda-in-python-2gfn)
+- [How to code a simple Flash light Android app? Step by Step Detailed Guide with Code](https://dev.to/dhruvjoshi9/how-to-make-a-simple-flash-light-android-app-step-by-step-detailed-guide-with-code-4coo)
+- [How to code an Android app like CPU-Z in Android Studio | Detailed Guide with Code](https://dev.to/dhruvjoshi9/how-to-make-an-android-app-like-cpu-z-in-android-studio-detailed-guide-with-code-584k)
 <!-- BLOG-POST-LIST:END -->
 
