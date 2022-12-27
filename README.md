@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57cb)
+- [Java vs Javascript - What&#39;s the difference and Which is better?](https://dev.to/souravghose/java-vs-javascript-whats-the-differences-and-which-is-better-3bhl)
 - [The Massive Hidden Power of Breakpoints](https://dev.to/codenameone/the-massive-hidden-power-of-breakpoints-5876)
-- [VS Code extensions every web dev needs to know](https://dev.to/zuzexx/vs-code-extensions-every-web-dev-needs-to-know-670)
-- [Salesforce Functions with Heroku Data for Redis](https://dev.to/salesforcedevs/salesforce-functions-with-heroku-data-for-redis-4gj6)
 <!-- BLOG-POST-LIST:END -->
 
