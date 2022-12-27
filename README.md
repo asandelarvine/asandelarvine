@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Software Testers Need to Learn Coding?](https://dev.to/promode/do-software-testers-need-to-learn-coding-gp9)
 - [My Favourite Resources for Practicing Web Development](https://dev.to/wdp/my-favourite-resources-for-practicing-web-development-1o03)
 - [The Internet of Things 101: An Introduction to Connected Devices](https://dev.to/notreeceharris/the-internet-of-things-101-an-introduction-to-connected-devices-2g4f)
 - [La solución definitiva: &lpar;Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture&rpar;](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
-- [GraphQL Oversimplified](https://dev.to/arafat4693/graphql-oversimplified-1g23)
 <!-- BLOG-POST-LIST:END -->
 
