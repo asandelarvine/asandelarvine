@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15+ Recommended Free Icon Sites For Web Designers 2023](https://dev.to/theme_selection/15-recommended-free-icon-sites-for-web-designers-2o1n)
-- [Skills you should mention in your resume for an SDE Role](https://dev.to/avinash201199/skills-you-should-mention-in-your-resume-for-sde-role-9bi)
-- [Jozef Behr | 7 Tips to Help You Learn a New Programming Language Fast](https://dev.to/behrjozef/jozef-behr-7-tips-to-help-you-learn-a-new-programming-language-fast-4gd1)
-- [Building reusable components in ReactJS](https://dev.to/jagroop2000/building-reusable-components-in-reactjs-56f3)
+- [Personal efforts to improve the quality of Ruby interpreter](https://dev.to/ko1/personal-efforts-to-improve-the-quality-of-ruby-interpreter-2lcl)
+- [Implement MacOS Monterey screen saver in shadertoy&lpar;less than 100 lines of code&rpar;](https://dev.to/vincentdchan/implement-macos-monterey-screen-saver-in-shadertoyless-than-100-lines-of-code-5jj)
+- [Add Mastodon replies to your blog](https://dev.to/jesseskinner/add-mastodon-replies-to-your-blog-5842)
+- [18 Best JavaScript Gantt Chart Components](https://dev.to/plazarev/18-best-javascript-gantt-chart-components-2d78)
 <!-- BLOG-POST-LIST:END -->
 
