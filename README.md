@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Massive Hidden Power of Breakpoints](https://dev.to/codenameone/the-massive-hidden-power-of-breakpoints-5876)
+- [Salesforce Functions with Heroku Data for Redis](https://dev.to/salesforcedevs/salesforce-functions-with-heroku-data-for-redis-4gj6)
+- [A philosophy of software design by John Ousterhout](https://dev.to/zolletta/a-philosophy-of-software-design-by-john-ousterhout-4fpb)
 - [Perform multiple tasks concurrently in Python: &quot;Asynchronous Programming in Python with Asyncio&quot;](https://dev.to/anurag629/perform-multiple-tasks-concurrently-in-python-asynchronous-programming-in-python-with-asyncio-43hp)
-- [Dockerizing Python Application](https://dev.to/itsvinayak/dockerizing-python-application-2671)
-- [5 B2B Ecommerce Sites You Should Learn UX From](https://dev.to/medusajs/5-b2b-ecommerce-sites-you-should-learn-ux-from-4l08)
-- [Monorepos with pnpm - Part 1: A performant package manager](https://dev.to/hotjar/monorepos-with-pnpm-part-1-a-performant-package-manager-5g41)
 <!-- BLOG-POST-LIST:END -->
 
