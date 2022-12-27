@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack Next-gen Platform - Datastores](https://dev.to/seratch/slack-next-gen-platform-datastores-3292)
+- [Gender Determination with Morphometry of Eyes using deep learning model.](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
+- [How to intergrate Chatgpt into VSCode IDE](https://dev.to/gallau/how-to-intergrate-chatgpt-into-vscode-ide-3km9)
 - [Do Software Testers Need to Learn Coding?](https://dev.to/promode/do-software-testers-need-to-learn-coding-gp9)
-- [My Favourite Resources for Practicing Web Development](https://dev.to/wdp/my-favourite-resources-for-practicing-web-development-1o03)
-- [The Internet of Things 101: An Introduction to Connected Devices](https://dev.to/notreeceharris/the-internet-of-things-101-an-introduction-to-connected-devices-2g4f)
-- [La solución definitiva: &lpar;Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture&rpar;](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
 <!-- BLOG-POST-LIST:END -->
 
