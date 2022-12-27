@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Blockchain hides your Identity?](https://dev.to/siddharthsing/how-blockchain-hides-your-identity-54mg)
 - [DevOps Trends for Developers in 2023](https://dev.to/pavanbelagatti/devops-trends-for-developers-in-2023-345b)
 - [Pleroma 2.5.0 with Elixir 1.11 on OpenBSD 7.1](https://dev.to/nabbisen/pleroma-250-with-elixir-111-on-openbsd-71-302k)
 - [Slack Next-gen Platform - Datastores](https://dev.to/seratch/slack-next-gen-platform-datastores-3292)
-- [Gender Determination with Morphometry of Eyes using deep learning model.](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
 <!-- BLOG-POST-LIST:END -->
 
