@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jozef Behr | 7 Tips to Help You Learn a New Programming Language Fast](https://dev.to/behrjozef/jozef-behr-7-tips-to-help-you-learn-a-new-programming-language-fast-4gd1)
+- [Building reusable components in ReactJS](https://dev.to/jagroop2000/building-reusable-components-in-reactjs-56f3)
 - [Only 2 ways to start an online business](https://dev.to/shreyvijayvargiya/only-2-ways-to-start-an-online-business-d1a)
 - [Android App Development Standards](https://dev.to/fikicardev/android-app-development-standards-pdh)
-- [How to solve coding issues using ChatGPT](https://dev.to/zenstack/how-to-solve-coding-issues-using-chatgpt-15dd)
-- [Angular registering animation triggers](https://dev.to/this-is-angular/angular-registering-animation-triggers-5gpg)
 <!-- BLOG-POST-LIST:END -->
 
