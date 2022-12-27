@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Blockchain hides your Identity?](https://dev.to/siddharthsing/how-blockchain-hides-your-identity-54mg)
-- [DevOps Trends for Developers in 2023](https://dev.to/pavanbelagatti/devops-trends-for-developers-in-2023-345b)
-- [Pleroma 2.5.0 with Elixir 1.11 on OpenBSD 7.1](https://dev.to/nabbisen/pleroma-250-with-elixir-111-on-openbsd-71-302k)
-- [Slack Next-gen Platform - Datastores](https://dev.to/seratch/slack-next-gen-platform-datastores-3292)
+- [useReducer for dummies&lpar;kid friendly&rpar;](https://dev.to/csituma/usereducer-for-dummieskid-friendly-26c2)
+- [Background Properties](https://dev.to/priyang_bawa/background-properties-3apj)
+- [Why Cookie is preferable compared to localStorage when it comes to authentication](https://dev.to/leduc1901/why-cookie-is-preferable-compared-to-localstorage-when-it-comes-to-authentication-48mb)
+- [Make your fonts responsive without javascript or media query](https://dev.to/mohsenkamrani/make-your-fonts-responsive-without-javascript-or-media-query-5006)
 <!-- BLOG-POST-LIST:END -->
 
