@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a free Open-source portfolio template using HTML, CSS and JS | Part 2](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-2-2aee)
-- [Drag and Drop File using Javascript](https://dev.to/shubhamtiwari909/drag-and-drop-file-using-javascript-2h99)
-- [Slack Next-gen Platform - Scheduled Triggers](https://dev.to/seratch/slack-next-gen-platform-scheduled-triggers-gd9)
-- [useReducer for dummies&lpar;kid friendly&rpar;](https://dev.to/csituma/usereducer-for-dummieskid-friendly-26c2)
+- [Deploy AI Models with RabbitMQ Message Broker](https://dev.to/tanmoysarkar/deploy-ai-models-with-rabbitmq-message-broker-31a3)
+- [An Ultimate Guide About Cross-Origin Resources Sharing &lpar;CORS&rpar;](https://dev.to/quokkalabs/an-ultimate-guide-about-cross-origin-resources-sharing-cors-28oh)
+- [Review Monitoring](https://dev.to/oxylabs-io/review-monitoring-3013)
+- [Two ways to undo changes in Git and when to use each](https://dev.to/mohsenkamrani/two-ways-to-undo-changes-in-git-and-when-to-use-each-4fle)
 <!-- BLOG-POST-LIST:END -->
 
