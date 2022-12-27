@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favourite Resources for Practicing Web Development](https://dev.to/wdp/my-favourite-resources-for-practicing-web-development-1o03)
 - [La solución definitiva: &lpar;Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture&rpar;](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
 - [GraphQL Oversimplified](https://dev.to/arafat4693/graphql-oversimplified-1g23)
 - [CLI Client for ReductStore v0.4.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v040-has-been-released-1fce)
-- [What is a cookie, and what are they used for?](https://dev.to/ezinne_anne/what-is-a-cookie-and-what-are-they-used-for-49kl)
 <!-- BLOG-POST-LIST:END -->
 
