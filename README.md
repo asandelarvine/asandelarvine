@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dark, Light, System &lpar;Auto&rpar; Toggle Switch in Astro](https://dev.to/surjithctly/creating-a-dark-light-system-auto-toggle-switch-in-astro-50kn)
-- [Personal efforts to improve the quality of Ruby interpreter](https://dev.to/ko1/personal-efforts-to-improve-the-quality-of-ruby-interpreter-2lcl)
-- [Implement MacOS Monterey screen saver in shadertoy&lpar;less than 100 lines of code&rpar;](https://dev.to/vincentdchan/implement-macos-monterey-screen-saver-in-shadertoyless-than-100-lines-of-code-5jj)
-- [Add Mastodon replies to your blog](https://dev.to/jesseskinner/add-mastodon-replies-to-your-blog-5842)
+- [Perform multiple tasks concurrently in Python: &quot;Asynchronous Programming in Python with Asyncio&quot;](https://dev.to/anurag629/perform-multiple-tasks-concurrently-in-python-asynchronous-programming-in-python-with-asyncio-43hp)
+- [Dockerizing Python Application](https://dev.to/itsvinayak/dockerizing-python-application-2671)
+- [5 B2B Ecommerce Sites You Should Learn UX From](https://dev.to/medusajs/5-b2b-ecommerce-sites-you-should-learn-ux-from-4l08)
+- [Monorepos with pnpm - Part 1: A performant package manager](https://dev.to/hotjar/monorepos-with-pnpm-part-1-a-performant-package-manager-5g41)
 <!-- BLOG-POST-LIST:END -->
 
