@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Dark, Light, System &lpar;Auto&rpar; Toggle Switch in Astro](https://dev.to/surjithctly/creating-a-dark-light-system-auto-toggle-switch-in-astro-50kn)
 - [Personal efforts to improve the quality of Ruby interpreter](https://dev.to/ko1/personal-efforts-to-improve-the-quality-of-ruby-interpreter-2lcl)
 - [Implement MacOS Monterey screen saver in shadertoy&lpar;less than 100 lines of code&rpar;](https://dev.to/vincentdchan/implement-macos-monterey-screen-saver-in-shadertoyless-than-100-lines-of-code-5jj)
 - [Add Mastodon replies to your blog](https://dev.to/jesseskinner/add-mastodon-replies-to-your-blog-5842)
-- [18 Best JavaScript Gantt Chart Components](https://dev.to/plazarev/18-best-javascript-gantt-chart-components-2d78)
 <!-- BLOG-POST-LIST:END -->
 
