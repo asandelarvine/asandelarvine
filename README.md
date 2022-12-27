@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a free Open-source portfolio template using HTML, CSS and JS | Part 2](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-2-2aee)
+- [Drag and Drop File using Javascript](https://dev.to/shubhamtiwari909/drag-and-drop-file-using-javascript-2h99)
+- [Slack Next-gen Platform - Scheduled Triggers](https://dev.to/seratch/slack-next-gen-platform-scheduled-triggers-gd9)
 - [useReducer for dummies&lpar;kid friendly&rpar;](https://dev.to/csituma/usereducer-for-dummieskid-friendly-26c2)
-- [Background Properties](https://dev.to/priyang_bawa/background-properties-3apj)
-- [Why Cookie is preferable compared to localStorage when it comes to authentication](https://dev.to/leduc1901/why-cookie-is-preferable-compared-to-localstorage-when-it-comes-to-authentication-48mb)
-- [Make your fonts responsive without javascript or media query](https://dev.to/mohsenkamrani/make-your-fonts-responsive-without-javascript-or-media-query-5006)
 <!-- BLOG-POST-LIST:END -->
 
