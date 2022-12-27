@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Resources for Practicing Web Development](https://dev.to/wdp/my-favourite-resources-for-practicing-web-development-1o03)
+- [The Internet of Things 101: An Introduction to Connected Devices](https://dev.to/notreeceharris/the-internet-of-things-101-an-introduction-to-connected-devices-2g4f)
 - [La solución definitiva: &lpar;Dependency injection, Dependency inversion, Inversion of control y Hexagonal architecture&rpar;](https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol)
 - [GraphQL Oversimplified](https://dev.to/arafat4693/graphql-oversimplified-1g23)
-- [CLI Client for ReductStore v0.4.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v040-has-been-released-1fce)
 <!-- BLOG-POST-LIST:END -->
 
