@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
+- [React Router Data Fetching](https://dev.to/franciscomendes10866/react-router-data-fetching-2ikh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57cb)
 - [Java vs Javascript - What&#39;s the difference and Which is better?](https://dev.to/souravghose/java-vs-javascript-whats-the-differences-and-which-is-better-3bhl)
-- [The Massive Hidden Power of Breakpoints](https://dev.to/codenameone/the-massive-hidden-power-of-breakpoints-5876)
 <!-- BLOG-POST-LIST:END -->
 
