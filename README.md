@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Password Strength Using Regex and JavaScript](https://dev.to/ayka_code/how-to-validate-password-strength-using-regex-and-javascript-4083)
-- [Deploy AI Models with RabbitMQ Message Broker](https://dev.to/tanmoysarkar/deploy-ai-models-with-rabbitmq-message-broker-31a3)
-- [An Ultimate Guide About Cross-Origin Resources Sharing &lpar;CORS&rpar;](https://dev.to/quokkalabs/an-ultimate-guide-about-cross-origin-resources-sharing-cors-28oh)
-- [Review Monitoring](https://dev.to/oxylabs-io/review-monitoring-3013)
+- [Only 2 ways to start an online business](https://dev.to/shreyvijayvargiya/only-2-ways-to-start-an-online-business-d1a)
+- [Android App Development Standards](https://dev.to/fikicardev/android-app-development-standards-pdh)
+- [How to solve coding issues using ChatGPT](https://dev.to/zenstack/how-to-solve-coding-issues-using-chatgpt-15dd)
+- [Angular registering animation triggers](https://dev.to/this-is-angular/angular-registering-animation-triggers-5gpg)
 <!-- BLOG-POST-LIST:END -->
 
