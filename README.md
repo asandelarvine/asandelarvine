@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Trends for Developers in 2023](https://dev.to/pavanbelagatti/devops-trends-for-developers-in-2023-345b)
+- [Pleroma 2.5.0 with Elixir 1.11 on OpenBSD 7.1](https://dev.to/nabbisen/pleroma-250-with-elixir-111-on-openbsd-71-302k)
 - [Slack Next-gen Platform - Datastores](https://dev.to/seratch/slack-next-gen-platform-datastores-3292)
 - [Gender Determination with Morphometry of Eyes using deep learning model.](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
-- [How to intergrate Chatgpt into VSCode IDE](https://dev.to/gallau/how-to-intergrate-chatgpt-into-vscode-ide-3km9)
-- [Do Software Testers Need to Learn Coding?](https://dev.to/promode/do-software-testers-need-to-learn-coding-gp9)
 <!-- BLOG-POST-LIST:END -->
 
