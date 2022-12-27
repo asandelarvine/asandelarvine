@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Validate Password Strength Using Regex and JavaScript](https://dev.to/ayka_code/how-to-validate-password-strength-using-regex-and-javascript-4083)
 - [Deploy AI Models with RabbitMQ Message Broker](https://dev.to/tanmoysarkar/deploy-ai-models-with-rabbitmq-message-broker-31a3)
 - [An Ultimate Guide About Cross-Origin Resources Sharing &lpar;CORS&rpar;](https://dev.to/quokkalabs/an-ultimate-guide-about-cross-origin-resources-sharing-cors-28oh)
 - [Review Monitoring](https://dev.to/oxylabs-io/review-monitoring-3013)
-- [Two ways to undo changes in Git and when to use each](https://dev.to/mohsenkamrani/two-ways-to-undo-changes-in-git-and-when-to-use-each-4fle)
 <!-- BLOG-POST-LIST:END -->
 
