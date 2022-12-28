@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable and Maintainable React Project Structure Every Developer Should Use.](https://dev.to/devland/scalable-and-maintainable-react-project-structure-every-developer-should-use-3om4)
-- [The Importance of Mentorship in Tech](https://dev.to/blst-security/the-importance-of-mentorship-in-tech-mpe)
-- [4 places to use Chat GPT](https://dev.to/shreyvijayvargiya/4-places-to-use-chat-gpt-d63)
-- [Diagrams as code](https://dev.to/aws-builders/diagrams-as-code-33f9)
+- [5 Years of Coding Interview Lessons — in 2 Minutes](https://dev.to/codewithvoid/5-years-of-coding-interview-lessons-in-2-minutes-2gk7)
+- [In defence of &quot;semantic CSS&quot; and the separation of concerns.](https://dev.to/bezpowell/in-defence-of-semantic-css-and-the-separation-of-concerns-43kp)
+- [How to Write an Awesome Readme](https://dev.to/documatic/how-to-write-an-awesome-readme-cfl)
+- [React Filters with map](https://dev.to/shubhamtiwari909/react-filters-with-filter-and-map-4i9o)
 <!-- BLOG-POST-LIST:END -->
 
