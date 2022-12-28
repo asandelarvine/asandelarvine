@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building 3D Smart City Based on JavaScript and WebGL](https://dev.to/hightopo/building-3d-smart-city-based-on-javascript-and-webgl-e0l)
+- [2022: Another great year!](https://dev.to/sandordargo/2022-another-great-year-4ifn)
 - [Is coding the only way to get SDE roles?](https://dev.to/darkxenium/is-coding-the-only-way-to-get-sde-roles-5d66)
 - [Review: 10 Top API Mock Tools](https://dev.to/ismailkamil/review-10-top-api-mock-tools-57f7)
-- [&quot;The Power of Bit Manipulation: How to Solve Problems Efficiently&quot;](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
-- [[1] What is frontend architecture?](https://dev.to/function12_io/1-what-is-frontend-architecture-76p)
 <!-- BLOG-POST-LIST:END -->
 
