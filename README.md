@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write automatic AI content for your WordPress blog using Open AI&#39;s ChatGPT-3](https://dev.to/maniruzzamanakash/how-to-write-automatic-ai-content-for-your-wordpress-blog-using-open-ais-chatgpt-3-2g37)
 - [Deixando seu &#39;Olá, mundo&#39; com o Python](https://dev.to/feministech/deixando-seu-ola-mundo-com-o-python-1dga)
 - [Slack Next-gen Platform - Built-in Forms](https://dev.to/seratch/slack-next-gen-platform-built-in-forms-eo3)
 - [Ways to make Android Emulator run faster](https://dev.to/bimochanshrest1/ways-to-make-android-emulator-run-faster-16dm)
-- [Create and Read MS Word documents with ePython](https://dev.to/intersystems/create-and-read-ms-word-documents-with-epython-aen)
 <!-- BLOG-POST-LIST:END -->
 
