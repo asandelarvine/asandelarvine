@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Amazon Interview Experience](https://dev.to/jagroop2000/amazon-interview-experience-3bn)
 - [API Testing and Development with FastAPI](https://dev.to/chainguns/api-testing-and-development-with-fastapi-3bc2)
 - [5 Years of Coding Interview Lessons — in 2 Minutes](https://dev.to/codewithvoid/5-years-of-coding-interview-lessons-in-2-minutes-2gk7)
-- [Design Pattern list](https://dev.to/fpaghar/design-pattern-list-c70)
+- [5 Tools for Managing Hybrid Development Teams in 2023](https://dev.to/sharmanandini4/5-tools-for-managing-hybrid-development-teams-in-2023-4jl1)
 <!-- BLOG-POST-LIST:END -->
 
