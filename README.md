@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a free Open-source portfolio template using HTML, CSS and JS | Part 3](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-3-2a3k)
+- [Querying All Appwrite Developers - GraphQL Has Arrived](https://dev.to/appwrite/querying-all-appwrite-developers-graphql-has-arrived-3o3c)
 - [Building 3D Smart City Based on JavaScript and WebGL](https://dev.to/hightopo/building-3d-smart-city-based-on-javascript-and-webgl-e0l)
 - [2022: Another great year!](https://dev.to/sandordargo/2022-another-great-year-4ifn)
-- [Is coding the only way to get SDE roles?](https://dev.to/darkxenium/is-coding-the-only-way-to-get-sde-roles-5d66)
-- [Review: 10 Top API Mock Tools](https://dev.to/ismailkamil/review-10-top-api-mock-tools-57f7)
 <!-- BLOG-POST-LIST:END -->
 
