@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scalable and Maintainable React Project Structure Every Developer Should Use.](https://dev.to/devland/scalable-and-maintainable-react-project-structure-every-developer-should-use-3om4)
 - [The Importance of Mentorship in Tech](https://dev.to/blst-security/the-importance-of-mentorship-in-tech-mpe)
 - [4 places to use Chat GPT](https://dev.to/shreyvijayvargiya/4-places-to-use-chat-gpt-d63)
 - [Diagrams as code](https://dev.to/aws-builders/diagrams-as-code-33f9)
-- [Building a free Open-source portfolio template using HTML, CSS and JS | Part 3](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-3-2a3k)
 <!-- BLOG-POST-LIST:END -->
 
