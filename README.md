@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Unique APIs For Your Next Project](https://dev.to/arafat4693/20-unique-apis-for-your-next-project-4nn2)
 - [pyaction: A Docker container with Python, git, and the GitHub CLI](https://dev.to/cicirello/pyaction-a-docker-container-with-python-git-and-the-github-cli-930)
+- [Basics of the Internet](https://dev.to/uploadcare/basics-of-the-internet-mdh)
 - [Become an expert in Artificial Intelligence with Microsoft Learn](https://dev.to/ppiova/become-an-expert-in-artificial-intelligence-with-microsoft-learn-1j44)
-- [AWS Networking 101](https://dev.to/aws-builders/aws-networking-101-17j5)
-- [Year 2022 Streaming Wrap-Up](https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k)
 <!-- BLOG-POST-LIST:END -->
 
