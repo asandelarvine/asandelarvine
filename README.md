@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Budgets: Update alert thresholds unlimitedly with Lambda](https://dev.to/aws-builders/aws-budgets-update-alert-thresholds-unlimitedly-with-lambda-5e7h)
+- [Moving My Blog from Next.js to Astro](https://dev.to/maxr96/moving-blog-from-nextjs-to-astro-4aa1)
+- [Top 20 Python Interview questions and answers for beginners](https://dev.to/educative/top-20-python-interview-questions-and-answers-for-beginners-h1f)
 - [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
-- [React Router Data Fetching](https://dev.to/franciscomendes10866/react-router-data-fetching-2ikh)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57cb)
-- [Java vs Javascript - What&#39;s the difference and Which is better?](https://dev.to/souravghose/java-vs-javascript-whats-the-differences-and-which-is-better-3bhl)
 <!-- BLOG-POST-LIST:END -->
 
