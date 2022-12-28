@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Tips for Building Scalable and Performant Data Pipelines with Apache Pulsar](https://dev.to/tspannhw/10-tips-for-building-scalable-and-performant-data-pipelines-with-apache-pulsar-5dck)
+- [Using Angular’s EventEmitter to Share Data Between Child and Parent Components](https://dev.to/stevenmclintock/using-angulars-eventemitter-to-share-data-between-child-and-parent-components-55ib)
+- [SQL cheat sheet](https://dev.to/arafat4693/sql-cheat-sheet-6j2)
 - [CodeNewbie Season 22 Episode 8! From Opera to Code with Anna McDougall](https://dev.to/codenewbieteam/codenewbie-season-22-episode-8-from-opera-to-code-with-anna-mcdougall-540h)
-- [How to remove your phone as a distraction](https://dev.to/smeetsmeister/how-to-remove-your-phone-as-a-distraction-o3j)
-- [Basic Type Transformations with Typescript](https://dev.to/documatic/basic-type-transformations-with-typescript-2nbl)
-- [Anyone familiar with GSAP?](https://dev.to/yashkapure06/anyone-familiar-with-gsap-39b1)
 <!-- BLOG-POST-LIST:END -->
 
