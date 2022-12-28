@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v206](https://dev.to/thepracticaldev/welcome-thread-v206-3a5n)
 - [10 Tips for Building Scalable and Performant Data Pipelines with Apache Pulsar](https://dev.to/tspannhw/10-tips-for-building-scalable-and-performant-data-pipelines-with-apache-pulsar-5dck)
 - [Using Angular’s EventEmitter to Share Data Between Child and Parent Components](https://dev.to/stevenmclintock/using-angulars-eventemitter-to-share-data-between-child-and-parent-components-55ib)
-- [SQL cheat sheet](https://dev.to/arafat4693/sql-cheat-sheet-6j2)
-- [CodeNewbie Season 22 Episode 8! From Opera to Code with Anna McDougall](https://dev.to/codenewbieteam/codenewbie-season-22-episode-8-from-opera-to-code-with-anna-mcdougall-540h)
+- [Os 10 React Hooks Mais Úteis: 05 - useReducer](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
 <!-- BLOG-POST-LIST:END -->
 
