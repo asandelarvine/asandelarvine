@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Mentorship in Tech](https://dev.to/blst-security/the-importance-of-mentorship-in-tech-mpe)
+- [4 places to use Chat GPT](https://dev.to/shreyvijayvargiya/4-places-to-use-chat-gpt-d63)
+- [Diagrams as code](https://dev.to/aws-builders/diagrams-as-code-33f9)
 - [Building a free Open-source portfolio template using HTML, CSS and JS | Part 3](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-3-2a3k)
-- [Querying All Appwrite Developers - GraphQL Has Arrived](https://dev.to/appwrite/querying-all-appwrite-developers-graphql-has-arrived-3o3c)
-- [Building 3D Smart City Based on JavaScript and WebGL](https://dev.to/hightopo/building-3d-smart-city-based-on-javascript-and-webgl-e0l)
-- [2022: Another great year!](https://dev.to/sandordargo/2022-another-great-year-4ifn)
 <!-- BLOG-POST-LIST:END -->
 
