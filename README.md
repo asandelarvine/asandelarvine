@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [pyaction: A Docker container with Python, git, and the GitHub CLI](https://dev.to/cicirello/pyaction-a-docker-container-with-python-git-and-the-github-cli-930)
+- [Become an expert in Artificial Intelligence with Microsoft Learn](https://dev.to/ppiova/become-an-expert-in-artificial-intelligence-with-microsoft-learn-1j44)
+- [AWS Networking 101](https://dev.to/aws-builders/aws-networking-101-17j5)
 - [Year 2022 Streaming Wrap-Up](https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k)
-- [Elastic Beanstalk: Simplify the Cloud](https://dev.to/aws-builders/elastic-beanstalk-simplify-the-cloud-584l)
-- [Using CodeGeeX as a GitHub Copilot alternative](https://dev.to/logrocket/using-codegeex-as-a-github-copilot-alternative-4kh)
-- [How to perform a global find and replace of text &lpar;replace all occurences in all files&rpar; in VS Code](https://dev.to/robole/how-to-perform-a-global-find-and-replace-of-text-replace-all-occurences-in-all-files-in-vs-code-i76)
 <!-- BLOG-POST-LIST:END -->
 
