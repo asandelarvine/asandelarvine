@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v206](https://dev.to/thepracticaldev/welcome-thread-v206-3a5n)
-- [10 Tips for Building Scalable and Performant Data Pipelines with Apache Pulsar](https://dev.to/tspannhw/10-tips-for-building-scalable-and-performant-data-pipelines-with-apache-pulsar-5dck)
-- [Using Angular’s EventEmitter to Share Data Between Child and Parent Components](https://dev.to/stevenmclintock/using-angulars-eventemitter-to-share-data-between-child-and-parent-components-55ib)
-- [Os 10 React Hooks Mais Úteis: 05 - useReducer](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
+- [Web Components:Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
+- [DynamoDB and its Data Pane Operations - 3](https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-3-2eh7)
+- [Tailwind CSS: Replacing Complex Classes with @apply](https://dev.to/get_pieces/tailwind-css-replacing-complex-classes-with-apply-9ck)
+- [Practicing algorithms using Polyglot Notebooks - part 1 &lpar;setup&rpar;](https://dev.to/kkoziarski/practicing-algorithms-using-polyglot-notebooks-part-1-setup-1fp3)
 <!-- BLOG-POST-LIST:END -->
 
