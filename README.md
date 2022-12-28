@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deixando seu &#39;Olá, mundo&#39; com o Python](https://dev.to/feministech/deixando-seu-ola-mundo-com-o-python-1dga)
 - [Slack Next-gen Platform - Built-in Forms](https://dev.to/seratch/slack-next-gen-platform-built-in-forms-eo3)
 - [Ways to make Android Emulator run faster](https://dev.to/bimochanshrest1/ways-to-make-android-emulator-run-faster-16dm)
-- [AWS Budgets: Update alert thresholds unlimitedly with Lambda](https://dev.to/aws-builders/aws-budgets-update-alert-thresholds-unlimitedly-with-lambda-5e7h)
-- [Moving My Blog from Next.js to Astro](https://dev.to/maxr96/moving-blog-from-nextjs-to-astro-4aa1)
+- [Create and Read MS Word documents with ePython](https://dev.to/intersystems/create-and-read-ms-word-documents-with-epython-aen)
 <!-- BLOG-POST-LIST:END -->
 
