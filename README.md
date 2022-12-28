@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack Next-gen Platform - Built-in Forms](https://dev.to/seratch/slack-next-gen-platform-built-in-forms-eo3)
+- [Ways to make Android Emulator run faster](https://dev.to/bimochanshrest1/ways-to-make-android-emulator-run-faster-16dm)
 - [AWS Budgets: Update alert thresholds unlimitedly with Lambda](https://dev.to/aws-builders/aws-budgets-update-alert-thresholds-unlimitedly-with-lambda-5e7h)
 - [Moving My Blog from Next.js to Astro](https://dev.to/maxr96/moving-blog-from-nextjs-to-astro-4aa1)
-- [Top 20 Python Interview questions and answers for beginners](https://dev.to/educative/top-20-python-interview-questions-and-answers-for-beginners-h1f)
-- [Key React 18 release features in 2022](https://dev.to/diogorodrigues/key-react-18-release-features-in-2022-2fi0)
 <!-- BLOG-POST-LIST:END -->
 
