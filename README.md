@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeNewbie Season 22 Episode 8! From Opera to Code with Anna McDougall](https://dev.to/codenewbieteam/codenewbie-season-22-episode-8-from-opera-to-code-with-anna-mcdougall-540h)
+- [How to remove your phone as a distraction](https://dev.to/smeetsmeister/how-to-remove-your-phone-as-a-distraction-o3j)
+- [Basic Type Transformations with Typescript](https://dev.to/documatic/basic-type-transformations-with-typescript-2nbl)
 - [Anyone familiar with GSAP?](https://dev.to/yashkapure06/anyone-familiar-with-gsap-39b1)
-- [Kubernetes: Main Components Overview](https://dev.to/anuradha9712/kubernetes-22fi)
-- [20 Unique APIs For Your Next Project](https://dev.to/arafat4693/20-unique-apis-for-your-next-project-4nn2)
-- [pyaction: A Docker container with Python, git, and the GitHub CLI](https://dev.to/cicirello/pyaction-a-docker-container-with-python-git-and-the-github-cli-930)
 <!-- BLOG-POST-LIST:END -->
 
