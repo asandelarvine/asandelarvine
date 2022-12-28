@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Year 2022 Streaming Wrap-Up](https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k)
+- [Elastic Beanstalk: Simplify the Cloud](https://dev.to/aws-builders/elastic-beanstalk-simplify-the-cloud-584l)
+- [Using CodeGeeX as a GitHub Copilot alternative](https://dev.to/logrocket/using-codegeex-as-a-github-copilot-alternative-4kh)
 - [How to perform a global find and replace of text &lpar;replace all occurences in all files&rpar; in VS Code](https://dev.to/robole/how-to-perform-a-global-find-and-replace-of-text-replace-all-occurences-in-all-files-in-vs-code-i76)
-- [On the third day of Enhancing: API routes and the Store](https://dev.to/begin/on-the-third-day-of-enhancing-api-routes-and-the-store-2gj6)
-- [What&#39;s involved with NativeScript open source?](https://dev.to/nathanwalker/whats-involved-with-nativescript-open-source-55jc)
-- [Introduction to Jetpack Compose for NativeScript](https://dev.to/valorsoftware/introduction-to-jetpack-compose-for-nativescript-54d7)
 <!-- BLOG-POST-LIST:END -->
 
