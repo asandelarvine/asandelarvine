@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is coding the only way to get SDE roles?](https://dev.to/darkxenium/is-coding-the-only-way-to-get-sde-roles-5d66)
+- [Review: 10 Top API Mock Tools](https://dev.to/ismailkamil/review-10-top-api-mock-tools-57f7)
 - [&quot;The Power of Bit Manipulation: How to Solve Problems Efficiently&quot;](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 - [[1] What is frontend architecture?](https://dev.to/function12_io/1-what-is-frontend-architecture-76p)
-- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/mohsenkamrani/getting-started-with-git-and-github-a-beginners-guide-1aek)
-- [How to Write automatic AI content for your WordPress blog using Open AI&#39;s ChatGPT-3](https://dev.to/maniruzzamanakash/how-to-write-automatic-ai-content-for-your-wordpress-blog-using-open-ais-chatgpt-3-2g37)
 <!-- BLOG-POST-LIST:END -->
 
