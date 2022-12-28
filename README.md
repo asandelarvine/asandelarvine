@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Interview Experience](https://dev.to/jagroop2000/amazon-interview-experience-3bn)
+- [API Testing and Development with FastAPI](https://dev.to/chainguns/api-testing-and-development-with-fastapi-3bc2)
 - [5 Years of Coding Interview Lessons — in 2 Minutes](https://dev.to/codewithvoid/5-years-of-coding-interview-lessons-in-2-minutes-2gk7)
-- [In defence of &quot;semantic CSS&quot; and the separation of concerns.](https://dev.to/bezpowell/in-defence-of-semantic-css-and-the-separation-of-concerns-43kp)
-- [How to Write an Awesome Readme](https://dev.to/documatic/how-to-write-an-awesome-readme-cfl)
-- [React Filters with map](https://dev.to/shubhamtiwari909/react-filters-with-filter-and-map-4i9o)
+- [Design Pattern list](https://dev.to/fpaghar/design-pattern-list-c70)
 <!-- BLOG-POST-LIST:END -->
 
