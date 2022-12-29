@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s build a contact form with Next.js](https://dev.to/superface/lets-build-a-contact-form-with-nextjs-3lao)
+- [Appwrite OSS Fund Sponsors Robyn](https://dev.to/appwrite/appwrite-oss-fund-sponsors-robyn-45j8)
 - [Dynamically Change the Content-Disposition of an S3 Object URL](https://dev.to/asifroyal/dynamically-change-the-content-disposition-of-an-s3-object-url-4mb0)
 - [My Hackerrank Internship Experience](https://dev.to/kitarp29/my-hackerrank-internship-experience-2d3i)
-- [13 Best Live Chat Widgets for your Ecommerce Store](https://dev.to/medusajs/13-best-live-chat-widgets-for-your-ecommerce-store-2a3f)
-- [Cool Github repositories for Everyone](https://dev.to/aatmaj/cool-github-repositories-for-everyone-b8p)
 <!-- BLOG-POST-LIST:END -->
 
