@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Selectors: Style lists with the ::marker pseudo-element](https://dev.to/dianale_dev/css-selectors-style-lists-with-the-marker-pseudo-element-ee4)
+- [How to add pagination to your Next.js app](https://dev.to/logrocket/how-to-add-pagination-to-your-nextjs-app-184j)
 - [Fetching and Loading Data from Github](https://dev.to/ochwada/fetching-and-loading-data-from-github-52id)
-- [Stylify CSS: Code your Remix website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-remix-website-faster-with-css-like-utilities-56op)
-- [What’s the Difference Between Jest and Mocha?](https://dev.to/get_pieces/whats-the-difference-between-jest-and-mocha-1i1h)
-- [How to build a dropdown filter component with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-dropdown-filter-component-with-tailwind-css-and-flowbite-34cj)
+- [Type Widening Is Kinda Weird](https://dev.to/danjfletcher/type-widening-is-kinda-weird-12om)
 <!-- BLOG-POST-LIST:END -->
 
