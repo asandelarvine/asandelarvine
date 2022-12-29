@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Combination Of ChatGPT and Google Search Engine](https://dev.to/killianellie1/the-combination-of-chatgpt-and-google-search-engine-26pi)
 - [How you can use Chat GPT on daily basis](https://dev.to/shreyvijayvargiya/how-you-can-use-chat-gpt-on-daily-basis-1mh8)
 - [Slack Next-gen Platform - Advanced Modals](https://dev.to/seratch/slack-next-gen-platform-advanced-modals-b0a)
 - [JavaScript Basic Introduction!](https://dev.to/darkxenium/javascript-basic-introduction-3na1)
-- [How to fix the most common mistakes in Git - save this for when you need it](https://dev.to/mohsenkamrani/how-to-fix-the-most-common-mistakes-in-git-learn-it-by-breaking-it-286m)
 <!-- BLOG-POST-LIST:END -->
 
