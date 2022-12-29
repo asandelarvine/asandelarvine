@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Microservice architecture](https://dev.to/samtechideas/getting-started-with-microservice-arhitecture-52ie)
 - [Web Components:Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
+- [Broadcasting custom Turbo actions like set_title, morph, and more](https://dev.to/drnic/broadcasting-custom-turbo-actions-like-settitle-morph-and-more-3e22)
 - [DynamoDB and its Data Pane Operations - 3](https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-3-2eh7)
-- [Tailwind CSS: Replacing Complex Classes with @apply](https://dev.to/get_pieces/tailwind-css-replacing-complex-classes-with-apply-9ck)
-- [Practicing algorithms using Polyglot Notebooks - part 1 &lpar;setup&rpar;](https://dev.to/kkoziarski/practicing-algorithms-using-polyglot-notebooks-part-1-setup-1fp3)
 <!-- BLOG-POST-LIST:END -->
 
