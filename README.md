@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Selectors: Style lists with the ::marker pseudo-element](https://dev.to/dianale_dev/css-selectors-style-lists-with-the-marker-pseudo-element-ee4)
-- [How to add pagination to your Next.js app](https://dev.to/logrocket/how-to-add-pagination-to-your-nextjs-app-184j)
-- [Fetching and Loading Data from Github](https://dev.to/ochwada/fetching-and-loading-data-from-github-52id)
-- [Type Widening Is Kinda Weird](https://dev.to/danjfletcher/type-widening-is-kinda-weird-12om)
+- [JavaScript Frameworks - Heading into 2023](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln)
+- [These 5 AI Tools Will Make You A Superhuman!!](https://dev.to/thenomadevel/these-5-ai-tools-will-make-you-a-superhuman-36m3)
+- [Typescript: Introduction](https://dev.to/j471n/typescript-introduction-7ie)
+- [ChatGPT inside VSCode with official OpenAI API](https://dev.to/dani_avila7/chatgpt-inside-vscode-with-official-openai-api-10n8)
 <!-- BLOG-POST-LIST:END -->
 
