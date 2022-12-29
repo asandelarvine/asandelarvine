@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Render Static Text with SDL2](https://dev.to/patrickodacre/how-to-render-static-text-with-sdl2-51l8)
-- [The Python of Revenge!](https://dev.to/ayka_code/the-python-of-revenge-1bcl)
-- [Why I always favor Serverless over Kubernetes](https://dev.to/peibolsang/why-i-will-always-favor-serverless-over-kubernetes-j9o)
-- [JavaScript Frameworks - Heading into 2023](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln)
+- [Building a task queue, part 4](https://dev.to/shalvah/building-a-task-queue-part-4-16mi)
+- [How to keep a history of MQTT data with Node.js](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-nodejs-1kh6)
+- [How to implement Authorizer pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-authorizer-pattern-in-ruby-on-rails-2non)
+- [Nice tricks for PHP beginners](https://dev.to/wizarddos/nice-tricks-for-php-beginners-4097)
 <!-- BLOG-POST-LIST:END -->
 
