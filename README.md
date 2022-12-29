@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetching and Loading Data from Github](https://dev.to/ochwada/fetching-and-loading-data-from-github-52id)
 - [Stylify CSS: Code your Remix website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-remix-website-faster-with-css-like-utilities-56op)
+- [What’s the Difference Between Jest and Mocha?](https://dev.to/get_pieces/whats-the-difference-between-jest-and-mocha-1i1h)
 - [How to build a dropdown filter component with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-dropdown-filter-component-with-tailwind-css-and-flowbite-34cj)
-- [The Benefits of Using CSS Preprocessors](https://dev.to/omerwow/the-benefits-of-using-css-preprocessors-1ldl)
-- [Dictionaries in Python.](https://dev.to/jindalkeshav82/dictionaries-in-python-3l8m)
 <!-- BLOG-POST-LIST:END -->
 
