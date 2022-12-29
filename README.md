@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cool Github repositories for Everyone](https://dev.to/aatmaj/cool-github-repositories-for-everyone-b8p)
+- [React Hooks vs. Redux](https://dev.to/qbentil/react-hooks-vs-redux-51p7)
 - [Data detective: Tips and tricks for conducting effective exploratory data analysis](https://dev.to/anurag629/data-detective-tips-and-tricks-for-conducting-effective-exploratory-data-analysis-184c)
 - [Playwright - Generate tests&#39; code](https://dev.to/this-is-learning/playwright-generate-tests-code-n2p)
-- [Git in 10 mins](https://dev.to/dumboprogrammer/git-in-10-mins-519g)
-- [The Combination Of ChatGPT and Google Search Engine](https://dev.to/killianellie1/the-combination-of-chatgpt-and-google-search-engine-26pi)
 <!-- BLOG-POST-LIST:END -->
 
