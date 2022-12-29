@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stylify CSS: Code your Remix website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-remix-website-faster-with-css-like-utilities-56op)
+- [How to build a dropdown filter component with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-dropdown-filter-component-with-tailwind-css-and-flowbite-34cj)
 - [The Benefits of Using CSS Preprocessors](https://dev.to/omerwow/the-benefits-of-using-css-preprocessors-1ldl)
 - [Dictionaries in Python.](https://dev.to/jindalkeshav82/dictionaries-in-python-3l8m)
-- [Phero: Build type-safe, full-stack apps with TypeScript](https://dev.to/logrocket/phero-build-type-safe-full-stack-apps-with-typescript-a06)
-- [How to Create Custom Cursor Without Using Frameworks](https://dev.to/codewithsadee/how-to-create-custom-cursor-without-using-frameworks-2dbh)
 <!-- BLOG-POST-LIST:END -->
 
