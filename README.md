@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How you can use Chat GPT on daily basis](https://dev.to/shreyvijayvargiya/how-you-can-use-chat-gpt-on-daily-basis-1mh8)
 - [Slack Next-gen Platform - Advanced Modals](https://dev.to/seratch/slack-next-gen-platform-advanced-modals-b0a)
 - [JavaScript Basic Introduction!](https://dev.to/darkxenium/javascript-basic-introduction-3na1)
-- [How to fix the most common mistakes in Git - learn it by breaking it](https://dev.to/mohsenkamrani/how-to-fix-the-most-common-mistakes-in-git-learn-it-by-breaking-it-286m)
-- [How to link a Cognito account with a Google account&lpar;source code full stack&rpar;](https://dev.to/aws-builders/how-to-link-a-cognito-account-with-a-google-accountsource-code-full-stack-1o9p)
+- [How to fix the most common mistakes in Git - save this for when you need it](https://dev.to/mohsenkamrani/how-to-fix-the-most-common-mistakes-in-git-learn-it-by-breaking-it-286m)
 <!-- BLOG-POST-LIST:END -->
 
