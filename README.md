@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s build a contact form with Next.js](https://dev.to/superface/lets-build-a-contact-form-with-nextjs-3lao)
-- [Appwrite OSS Fund Sponsors Robyn](https://dev.to/appwrite/appwrite-oss-fund-sponsors-robyn-45j8)
-- [Dynamically Change the Content-Disposition of an S3 Object URL](https://dev.to/asifroyal/dynamically-change-the-content-disposition-of-an-s3-object-url-4mb0)
-- [My Hackerrank Internship Experience](https://dev.to/kitarp29/my-hackerrank-internship-experience-2d3i)
+- [How to Create Custom Cursor Without Using Frameworks](https://dev.to/codewithsadee/how-to-create-custom-cursor-without-using-frameworks-2dbh)
+- [Slack Next-gen Platform - Trigger Configurator](https://dev.to/seratch/slack-next-gen-platform-trigger-configurator-267m)
+- [Что такое React Fiber - React Fiber Architecture](https://dev.to/jennypollard/chto-takoie-react-fiber-react-fiber-architecture-2cho)
+- [Get Yesterday Date in JavaScript](https://dev.to/gaelgthomas/get-yesterday-date-in-javascript-1841)
 <!-- BLOG-POST-LIST:END -->
 
