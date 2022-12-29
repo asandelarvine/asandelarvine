@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Benefits of Using CSS Preprocessors](https://dev.to/omerwow/the-benefits-of-using-css-preprocessors-1ldl)
+- [Dictionaries in Python.](https://dev.to/jindalkeshav82/dictionaries-in-python-3l8m)
+- [Phero: Build type-safe, full-stack apps with TypeScript](https://dev.to/logrocket/phero-build-type-safe-full-stack-apps-with-typescript-a06)
 - [How to Create Custom Cursor Without Using Frameworks](https://dev.to/codewithsadee/how-to-create-custom-cursor-without-using-frameworks-2dbh)
-- [Slack Next-gen Platform - Trigger Configurator](https://dev.to/seratch/slack-next-gen-platform-trigger-configurator-267m)
-- [Что такое React Fiber - React Fiber Architecture](https://dev.to/jennypollard/chto-takoie-react-fiber-react-fiber-architecture-2cho)
-- [Get Yesterday Date in JavaScript](https://dev.to/gaelgthomas/get-yesterday-date-in-javascript-1841)
 <!-- BLOG-POST-LIST:END -->
 
