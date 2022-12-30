@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a gradient text effect like Vercel with CSS](https://dev.to/mohsenkamrani/create-a-gradient-text-effect-like-vercel-with-css-38g5)
-- [CI/CD pipelines with AWS Amplify](https://dev.to/this-is-learning/cicd-pipelines-with-aws-amplify-5a1b)
-- [Supporting SASS in your TS React project using TSC and esbuild](https://dev.to/mbarzeev/supporting-sass-in-your-ts-react-project-using-tsc-and-esbuild-1l1l)
-- [Laptop Keyboard with awesome click effects.](https://dev.to/amiruweerathunga/laptop-keyboard-with-awesome-click-effects-40o2)
+- [How to code an Android app that shows CPU and battery temperatures?](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-cpu-and-battery-temperatures-4n59)
+- [How to code an Android app that shows CPU states?](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-cpu-states-33po)
+- [Remote jobs](https://dev.to/avinash201199/remote-jobs-2385)
+- [React Performance Optimization Tips](https://dev.to/jagroop2000/react-performance-optimization-tips-27eh)
 <!-- BLOG-POST-LIST:END -->
 
