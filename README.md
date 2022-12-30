@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding JPEG XL &amp; QOI Support to my Website OS](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
+- [Did I become a better programmer in 2022?](https://dev.to/yuridevat/did-i-become-a-better-programmer-in-2022-2a51)
 - [How to code an Android app that shows barometer data? Step by step guide with code](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-barometer-data-step-by-step-guide-with-code-5dm7)
-- [⚛ React Lifecycle 🔃](https://dev.to/mpetry/react-lifecycle-a87)
-- [UNDERSTANDING HOISTING IN JAVASCRIPT](https://dev.to/onwuemene/understanding-hoisting-in-javascript-43oa)
-- [The basic of the advanced SQL queries: Tuning](https://dev.to/leoramos/the-basic-of-the-advanced-sql-queries-tuning-21d5)
+- [Javascript Full-Stack Development Outlook for 2023](https://dev.to/zenstack/outlook-of-javascript-full-stack-development-for-2023-58al)
 <!-- BLOG-POST-LIST:END -->
 
