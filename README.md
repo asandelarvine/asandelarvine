@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📫How To Make A Popup | HTML, CSS &amp; JavaScript](https://dev.to/robsonmuniz16/how-to-make-a-popup-html-css-javascript-18ml)
 - [How to code an Android app that shows CPU and battery temperatures?](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-cpu-and-battery-temperatures-4n59)
 - [How to code an Android app that shows CPU states?](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-cpu-states-33po)
 - [Remote jobs](https://dev.to/avinash201199/remote-jobs-2385)
-- [React Performance Optimization Tips](https://dev.to/jagroop2000/react-performance-optimization-tips-27eh)
 <!-- BLOG-POST-LIST:END -->
 
