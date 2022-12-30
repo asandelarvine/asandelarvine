@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Confusing Company Layoffs](https://dev.to/sloan/confusing-company-layoffs-ffk)
 - [📫How To Make A Popup | HTML, CSS &amp; JavaScript](https://dev.to/robsonmuniz16/how-to-make-a-popup-html-css-javascript-18ml)
+- [Manage Forms in React Like Pro](https://dev.to/sharmakushal/manage-forms-in-react-like-pro-2ei0)
 - [How to code an Android app that shows CPU and battery temperatures?](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-cpu-and-battery-temperatures-4n59)
-- [How to code an Android app that shows CPU states?](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-cpu-states-33po)
-- [Remote jobs](https://dev.to/avinash201199/remote-jobs-2385)
 <!-- BLOG-POST-LIST:END -->
 
