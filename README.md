@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EKS Cluster Autoscaler: 6 Best Practices For Effective Autoscaling](https://dev.to/castai/eks-cluster-autoscaler-6-best-practices-for-effective-autoscaling-4fnf)
 - [We’ve moved to Fosstodon 🦣](https://dev.to/devteam/weve-moved-to-fosstodon-53e1)
 - [How we build a-la Google Meet with NextJS, PeerJS and SocketIO](https://dev.to/olzh2102/how-we-build-a-la-google-meet-with-nextjs-peerjs-and-socketio-4n48)
-- [How to Install Ubuntu Linux on Apple Silicon MacBooks](https://dev.to/andrewbaisden/how-to-install-ubuntu-linux-on-apple-silicon-macbooks-1nia)
-- [AWS Network Manager for Performance Engineers](https://dev.to/aws-builders/aws-network-manager-for-performance-engineers-3lnh)
+- [Experience the Power of Redux Toolkit](https://dev.to/kirandpatkar98/learn-redux-toolkit-with-proper-setup-58l7)
 <!-- BLOG-POST-LIST:END -->
 
