@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to code an Android app that shows barometer data? Step by step guide with code](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-barometer-data-step-by-step-guide-with-code-5dm7)
 - [⚛ React Lifecycle 🔃](https://dev.to/mpetry/react-lifecycle-a87)
 - [UNDERSTANDING HOISTING IN JAVASCRIPT](https://dev.to/onwuemene/understanding-hoisting-in-javascript-43oa)
 - [The basic of the advanced SQL queries: Tuning](https://dev.to/leoramos/the-basic-of-the-advanced-sql-queries-tuning-21d5)
-- [My First Code Commit in Ruby](https://dev.to/kevin_j_m/my-first-code-commit-in-ruby-4g8o)
 <!-- BLOG-POST-LIST:END -->
 
