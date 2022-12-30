@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install Ubuntu Linux on Apple Silicon MacBooks](https://dev.to/andrewbaisden/how-to-install-ubuntu-linux-on-apple-silicon-macbooks-1nia)
+- [AWS Network Manager for Performance Engineers](https://dev.to/aws-builders/aws-network-manager-for-performance-engineers-3lnh)
 - [View &lpar;Markdown&rpar; Source button on DEV](https://dev.to/szabgab/view-markdown-source-button-on-dev-19n8)
 - [Confusing Company Layoffs](https://dev.to/sloan/confusing-company-layoffs-ffk)
-- [📫How To Make A Popup | HTML, CSS &amp; JavaScript](https://dev.to/robsonmuniz16/how-to-make-a-popup-html-css-javascript-18ml)
-- [Manage Forms in React Like Pro](https://dev.to/sharmakushal/manage-forms-in-react-like-pro-2ei0)
 <!-- BLOG-POST-LIST:END -->
 
