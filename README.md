@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a gradient text effect like Vercel with CSS](https://dev.to/mohsenkamrani/create-a-gradient-text-effect-like-vercel-with-css-38g5)
 - [CI/CD pipelines with AWS Amplify](https://dev.to/this-is-learning/cicd-pipelines-with-aws-amplify-5a1b)
+- [Supporting SASS in your TS React project using TSC and esbuild](https://dev.to/mbarzeev/supporting-sass-in-your-ts-react-project-using-tsc-and-esbuild-1l1l)
 - [Laptop Keyboard with awesome click effects.](https://dev.to/amiruweerathunga/laptop-keyboard-with-awesome-click-effects-40o2)
-- [Divide and Conquer: A powerful strategy for solving problems](https://dev.to/anurag629/divide-and-conquer-a-powerful-strategy-for-solving-problems-e45)
-- [Vite or Webpack](https://dev.to/hshoja/vite-or-webpack-afd)
 <!-- BLOG-POST-LIST:END -->
 
