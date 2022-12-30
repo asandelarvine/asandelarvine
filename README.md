@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [⚛ React Lifecycle 🔃](https://dev.to/mpetry/react-lifecycle-a87)
+- [UNDERSTANDING HOISTING IN JAVASCRIPT](https://dev.to/onwuemene/understanding-hoisting-in-javascript-43oa)
 - [My First Code Commit in Ruby](https://dev.to/kevin_j_m/my-first-code-commit-in-ruby-4g8o)
 - [Complete Guide on OAuth 2.0 Reference tokens in Asp.Net Core 7 Using Openiddict](https://dev.to/frzmohammadali/complete-guide-on-oauth-20-reference-tokens-in-aspnet-core-7-using-openiddict-2bfk)
-- [Slack Next-gen Platform - Button Interactions](https://dev.to/seratch/slack-next-gen-platform-button-interactions-4ci0)
 <!-- BLOG-POST-LIST:END -->
 
