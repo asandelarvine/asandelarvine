@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We’ve moved to Fosstodon 🦣](https://dev.to/devteam/weve-moved-to-fosstodon-53e1)
+- [How we build a-la Google Meet with NextJS, PeerJS and SocketIO](https://dev.to/olzh2102/how-we-build-a-la-google-meet-with-nextjs-peerjs-and-socketio-4n48)
 - [How to Install Ubuntu Linux on Apple Silicon MacBooks](https://dev.to/andrewbaisden/how-to-install-ubuntu-linux-on-apple-silicon-macbooks-1nia)
 - [AWS Network Manager for Performance Engineers](https://dev.to/aws-builders/aws-network-manager-for-performance-engineers-3lnh)
-- [View &lpar;Markdown&rpar; Source button on DEV](https://dev.to/szabgab/view-markdown-source-button-on-dev-19n8)
-- [Confusing Company Layoffs](https://dev.to/sloan/confusing-company-layoffs-ffk)
 <!-- BLOG-POST-LIST:END -->
 
