@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Picturesocial - Cómo es la arquitectura de una aplicación](https://dev.to/aws/picturesocial-como-es-la-arquitectura-de-una-aplicacion-dmm)
 - [Consuming Streaming Stocks Data with Python, Websockets and Pulsar](https://dev.to/tspannhw/consuming-streaming-stocks-data-with-python-websockets-and-pulsar-1h5a)
-- [A short introduction to SQL](https://dev.to/mrgoonies/a-short-introduction-to-sql-58bh)
-- [How I&#39;m planning to use this space](https://dev.to/thiagohmcruz/how-im-planning-to-use-this-space-3o1j)
+- [Engage Customers with a QR Code Virtual Line-Up](https://dev.to/birinderlobana/engage-customers-with-a-qr-code-virtual-line-up-26hm)
+- [GitLab DevOps: Deploy to Server](https://dev.to/ryanr/gitlab-devops-deploy-to-server-40g6)
 <!-- BLOG-POST-LIST:END -->
 
