@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a task queue, part 4](https://dev.to/shalvah/building-a-task-queue-part-4-16mi)
-- [How to keep a history of MQTT data with Node.js](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-nodejs-1kh6)
-- [How to implement Authorizer pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-authorizer-pattern-in-ruby-on-rails-2non)
-- [Nice tricks for PHP beginners](https://dev.to/wizarddos/nice-tricks-for-php-beginners-4097)
+- [⚛ React Lifecycle 🔃](https://dev.to/mpetry/react-lifecycle-a87)
+- [My First Code Commit in Ruby](https://dev.to/kevin_j_m/my-first-code-commit-in-ruby-4g8o)
+- [Complete Guide on OAuth 2.0 Reference tokens in Asp.Net Core 7 Using Openiddict](https://dev.to/frzmohammadali/complete-guide-on-oauth-20-reference-tokens-in-aspnet-core-7-using-openiddict-2bfk)
+- [Slack Next-gen Platform - Button Interactions](https://dev.to/seratch/slack-next-gen-platform-button-interactions-4ci0)
 <!-- BLOG-POST-LIST:END -->
 
