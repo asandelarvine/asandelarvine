@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Weather UI with real time and date, Backdrop filters too.](https://dev.to/amiruweerathunga/awesome-weather-ui-with-real-time-and-date-backdrop-filters-too-5e9c)
-- [Adding JPEG XL &amp; QOI Support to my Website OS](https://dev.to/dustinbrett/adding-jpeg-xl-qoi-support-to-my-website-os-3oni)
-- [Did I become a better programmer in 2022?](https://dev.to/yuridevat/did-i-become-a-better-programmer-in-2022-2a51)
-- [How to code an Android app that shows barometer data? Step by step guide with code](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-shows-barometer-data-step-by-step-guide-with-code-5dm7)
+- [CI/CD pipelines with AWS Amplify](https://dev.to/this-is-learning/cicd-pipelines-with-aws-amplify-5a1b)
+- [Laptop Keyboard with awesome click effects.](https://dev.to/amiruweerathunga/laptop-keyboard-with-awesome-click-effects-40o2)
+- [Divide and Conquer: A powerful strategy for solving problems](https://dev.to/anurag629/divide-and-conquer-a-powerful-strategy-for-solving-problems-e45)
+- [Vite or Webpack](https://dev.to/hshoja/vite-or-webpack-afd)
 <!-- BLOG-POST-LIST:END -->
 
