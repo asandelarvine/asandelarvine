@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Do We Need Authorization and Authentication? 🔑](https://dev.to/mariamarsh/why-do-we-need-authorization-and-authentication-13d9)
+- [Asymmetric encryption](https://dev.to/niza/asymmetric-encryption-55np)
+- [UI Automation Testing Demo Site](https://dev.to/mdmoeenajazkhan/ui-automation-testing-demo-site-4gid)
 - [EKS Cluster Autoscaler: 6 Best Practices For Effective Autoscaling](https://dev.to/castai/eks-cluster-autoscaler-6-best-practices-for-effective-autoscaling-4fnf)
-- [We’ve moved to Fosstodon 🦣](https://dev.to/devteam/weve-moved-to-fosstodon-53e1)
-- [How we build a-la Google Meet with NextJS, PeerJS and SocketIO](https://dev.to/olzh2102/how-we-build-a-la-google-meet-with-nextjs-peerjs-and-socketio-4n48)
-- [Experience the Power of Redux Toolkit](https://dev.to/kirandpatkar98/learn-redux-toolkit-with-proper-setup-58l7)
 <!-- BLOG-POST-LIST:END -->
 
