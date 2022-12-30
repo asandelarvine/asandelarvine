@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I&#39;m planning to use this space](https://dev.to/thiagohmcruz/how-im-planning-to-use-this-space-3o1j)
 - [Why Do We Need Authorization and Authentication? 🔑](https://dev.to/mariamarsh/why-do-we-need-authorization-and-authentication-13d9)
 - [Asymmetric encryption](https://dev.to/niza/asymmetric-encryption-55np)
-- [UI Automation Testing Demo Site](https://dev.to/mdmoeenajazkhan/ui-automation-testing-demo-site-4gid)
-- [EKS Cluster Autoscaler: 6 Best Practices For Effective Autoscaling](https://dev.to/castai/eks-cluster-autoscaler-6-best-practices-for-effective-autoscaling-4fnf)
+- [My Journey as a Fake DevRel](https://dev.to/jdhillen/my-journey-as-a-fake-devrel-2i1d)
 <!-- BLOG-POST-LIST:END -->
 
