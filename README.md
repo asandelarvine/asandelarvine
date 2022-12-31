@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 7: Minimal APIs y FluentValidation](https://dev.to/isaacojeda/net-7-minimal-apis-y-fluentvalidation-18a9)
-- [Moving AWS RDS from Single AZ To Multi AZ](https://dev.to/aws-builders/moving-aws-rds-from-single-az-to-multiple-az-moi)
-- [Fast Ethernet -&gt; Gigabit Ethernet](https://dev.to/aakhtar3/fast-ethernet-gigabit-ethernet-8cc)
-- [Picturesocial - Cómo es la arquitectura de una aplicación](https://dev.to/aws/picturesocial-como-es-la-arquitectura-de-una-aplicacion-dmm)
+- [Fix: Flutter doctor が java.lang.NoClassDefFoundError で失敗](https://dev.to/nabbisen/fix-flutter-doctor-ga-javalangnoclassdeffounderror-deshi-bai-pe7)
+- [Fix: Flutter doctor が permission denied で失敗 &lpar;Linux&rpar;](https://dev.to/nabbisen/fix-flutter-doctor-ga-permission-denied-deshi-bai-linux-19lj)
+- [Fix: Android Studio で Flutter メニューが見付からない](https://dev.to/nabbisen/fix-android-studio-de-flutter-meniyugajian-fu-karanai-onp)
+- [Flutter 2 on Arch Linux: 始め方](https://dev.to/nabbisen/flutter-2-on-arch-linux-shi-mefang-3f5n)
 <!-- BLOG-POST-LIST:END -->
 
