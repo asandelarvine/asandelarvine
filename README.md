@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroPython çalışan cihazlarda Python kodu çalıştırma](https://dev.to/aliorhun/micropython-calisan-cihazlarda-python-kodu-calistirma-231m)
 - [Create your Chess AI game in Python [VIM/NEOVIM]](https://dev.to/bekbrace/create-your-chess-ai-game-in-python-vimneovim-16c4)
 - [2022 In Retrospective: My Lessons](https://dev.to/zt4ff_1/2022-in-retrospective-my-lessons-6m1)
 - [How to code an Android app that clears the cache of all apps by one tap? Step by step guide](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-clears-the-cache-of-all-apps-by-one-tap-step-by-step-guide-1elf)
-- [Mastering OpenCV: A Comprehensive Introduction to Computer Vision with Python](https://dev.to/anurag629/mastering-opencv-a-comprehensive-introduction-to-computer-vision-with-python-27j1)
 <!-- BLOG-POST-LIST:END -->
 
