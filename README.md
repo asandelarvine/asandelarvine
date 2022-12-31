@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to code an Android app that clears the cache of all apps by one tap? Step by step guide](https://dev.to/dhruvjoshi9/how-to-code-an-android-app-that-clears-the-cache-of-all-apps-by-one-tap-step-by-step-guide-1elf)
+- [Mastering OpenCV: A Comprehensive Introduction to Computer Vision with Python](https://dev.to/anurag629/mastering-opencv-a-comprehensive-introduction-to-computer-vision-with-python-27j1)
 - [My New Portfolio](https://dev.to/liftoffstudios/my-new-portfolio-353e)
 - [Fix: Flutter doctor が java.lang.NoClassDefFoundError で失敗](https://dev.to/nabbisen/fix-flutter-doctor-ga-javalangnoclassdeffounderror-deshi-bai-pe7)
-- [Fix: Flutter doctor が permission denied で失敗 &lpar;Linux&rpar;](https://dev.to/nabbisen/fix-flutter-doctor-ga-permission-denied-deshi-bai-linux-19lj)
-- [Fix: Android Studio で Flutter メニューが見付からない](https://dev.to/nabbisen/fix-android-studio-de-flutter-meniyugajian-fu-karanai-onp)
 <!-- BLOG-POST-LIST:END -->
 
