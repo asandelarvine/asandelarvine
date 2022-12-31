@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to C++](https://dev.to/jagroop2000/introduction-to-c-5385)
 - [React Cheatsheet for 2023 ✍️](https://dev.to/majdsufian/react-cheatsheet-for-2023-14bd)
+- [Typescript: Types](https://dev.to/j471n/typescript-types-g4b)
 - [Basic Neovim Commands](https://dev.to/arafat4693/basic-neovim-commands-4hmi)
-- [Optimizing Performance with the SplitChunksPlugin in Webpack](https://dev.to/himanshugupta714/optimizing-performance-with-the-splitchunksplugin-in-webpack-3e72)
 <!-- BLOG-POST-LIST:END -->
 
