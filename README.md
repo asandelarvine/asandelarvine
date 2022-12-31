@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to C++](https://dev.to/jagroop2000/introduction-to-c-5385)
-- [React Cheatsheet for 2023 ✍️](https://dev.to/majdsufian/react-cheatsheet-for-2023-14bd)
-- [Typescript: Types](https://dev.to/j471n/typescript-types-g4b)
-- [Basic Neovim Commands](https://dev.to/arafat4693/basic-neovim-commands-4hmi)
+- [How do TensorFlow.js models load in the browser?](https://dev.to/360macky/how-do-tensorflowjs-models-load-in-the-browser-3fbj)
+- [Install and Launch JMeter GUI on AWS EC2](https://dev.to/aws-builders/install-and-launch-jmeter-gui-on-aws-ec2-2ld0)
+- [How to Create a Remote Development Environment Using Ubuntu Linux](https://dev.to/andrewbaisden/how-to-create-a-remote-development-environment-using-ubuntu-linux-3ohp)
+- [MicroPython officially becomes part of the Arduino ecosystem](https://dev.to/perpage/micropython-officially-becomes-part-of-the-arduino-ecosystem-5423)
 <!-- BLOG-POST-LIST:END -->
 
