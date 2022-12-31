@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Shortest Path Planning using wavefront Propagation](https://dev.to/darkmortal/shortest-path-planning-using-wavefront-propagation-4pom)
 - [Test your django Project](https://dev.to/fayomihorace/test-your-django-project-4ei9)
 - [How do TensorFlow.js models load in the browser?](https://dev.to/360macky/how-do-tensorflowjs-models-load-in-the-browser-3fbj)
 - [Install and Launch JMeter GUI on AWS EC2](https://dev.to/aws-builders/install-and-launch-jmeter-gui-on-aws-ec2-2ld0)
-- [How to Create a Remote Development Environment Using Ubuntu Linux](https://dev.to/andrewbaisden/how-to-create-a-remote-development-environment-using-ubuntu-linux-3ohp)
 <!-- BLOG-POST-LIST:END -->
 
