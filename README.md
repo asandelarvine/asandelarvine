@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Plan for 2023](https://dev.to/reaction/plan-for-2023-k2)
+- [Everyone NEEDS to use this API!!](https://dev.to/scupdev/the-api-is-done-3ni3)
 - [Deploy your django Project](https://dev.to/fayomihorace/deploy-your-django-project-11o3)
 - [AI generated code creates a new security attack vector](https://dev.to/adam_cyclones/ai-generated-code-creates-a-new-security-attack-vector-39if)
-- [Shortest Path Planning using wavefront Propagation](https://dev.to/darkmortal/shortest-path-planning-using-wavefront-propagation-4pom)
-- [Test your django Project](https://dev.to/fayomihorace/test-your-django-project-4ei9)
 <!-- BLOG-POST-LIST:END -->
 
