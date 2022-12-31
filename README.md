@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best SvelteKit 1.0 YouTube Tutorials – January 2023 🤓 🎓](https://dev.to/kvetoslavnovak/the-best-sveltekit-10-youtube-tutorials-january-2023-22c6)
-- [Recap my 2022 Year](https://dev.to/asmaibrahimbutt/recap-my-2022-year-121d)
-- [MicroPython çalışan cihazlarda Python kodu çalıştırma](https://dev.to/aliorhun/micropython-calisan-cihazlarda-python-kodu-calistirma-231m)
-- [Create your Chess AI game in Python [VIM/NEOVIM]](https://dev.to/bekbrace/create-your-chess-ai-game-in-python-vimneovim-16c4)
+- [Introduction to C++](https://dev.to/jagroop2000/introduction-to-c-5385)
+- [React Cheatsheet for 2023 ✍️](https://dev.to/majdsufian/react-cheatsheet-for-2023-14bd)
+- [Basic Neovim Commands](https://dev.to/arafat4693/basic-neovim-commands-4hmi)
+- [Optimizing Performance with the SplitChunksPlugin in Webpack](https://dev.to/himanshugupta714/optimizing-performance-with-the-splitchunksplugin-in-webpack-3e72)
 <!-- BLOG-POST-LIST:END -->
 
