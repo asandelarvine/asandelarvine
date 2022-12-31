@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 7: Minimal APIs y FluentValidation](https://dev.to/isaacojeda/net-7-minimal-apis-y-fluentvalidation-18a9)
+- [Moving AWS RDS from Single AZ To Multi AZ](https://dev.to/aws-builders/moving-aws-rds-from-single-az-to-multiple-az-moi)
+- [Fast Ethernet -&gt; Gigabit Ethernet](https://dev.to/aakhtar3/fast-ethernet-gigabit-ethernet-8cc)
 - [Picturesocial - Cómo es la arquitectura de una aplicación](https://dev.to/aws/picturesocial-como-es-la-arquitectura-de-una-aplicacion-dmm)
-- [Consuming Streaming Stocks Data with Python, Websockets and Pulsar](https://dev.to/tspannhw/consuming-streaming-stocks-data-with-python-websockets-and-pulsar-1h5a)
-- [Engage Customers with a QR Code Virtual Line-Up](https://dev.to/birinderlobana/engage-customers-with-a-qr-code-virtual-line-up-26hm)
-- [GitLab DevOps: Deploy to Server](https://dev.to/ryanr/gitlab-devops-deploy-to-server-40g6)
 <!-- BLOG-POST-LIST:END -->
 
