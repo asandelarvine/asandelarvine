@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Animation Techniques with anime.js: Timing, Easing, and Keyframes](https://dev.to/mohsenkamrani/animation-techniques-with-animejs-timing-easing-and-keyframes-4986)
+- [Notes on OAuth2.0 #1](https://dev.to/otter13/notes-on-oauth20-1-1f2m)
 - [How to Optimize Your Website for Mobile Devices](https://dev.to/ariellun/how-to-optimize-your-website-for-mobile-devices-1a2e)
-- [AWS Automation using Terraform Micro Byte](https://dev.to/niteshthapliyal/aws-automation-using-terraform-micro-byte-49p6)
-- [How to intergrate Chatgpt into VSCode IDE](https://dev.to/gallau/how-to-intergrate-chatgpt-into-vscode-ide-14h4)
-- [Best Year End 2022 &amp; New Year 2023 Deals OFFERS &amp; Discounts from Top Web Hosting Companies](https://dev.to/codeswithrocky/best-year-end-2022-new-year-2023-deals-offers-discounts-from-top-web-hosting-companies-11an)
+- [Setting Up Tailwind with Next.js](https://dev.to/polybitrockzz/setup-tailwind-with-nextjs-2adn)
 <!-- BLOG-POST-LIST:END -->
 
