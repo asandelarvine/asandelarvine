@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [9 reasons to use Gatsby Framework for React developer](https://dev.to/taimoorsattar7/9-reasons-to-use-gatsby-framework-for-react-developer-8mk)
+- [1:1000 - The darkest hell in this world](https://dev.to/fzn0x/11000-the-darkest-hell-in-this-world-4j69)
+- [Best Youtube Channels To Learn React Native](https://dev.to/elozino/best-youtube-channels-to-learn-react-native-3bl9)
 - [Ditch the div Tag: Use These HTML Tags Instead](https://dev.to/arafat4693/ditch-the-div-tag-use-these-tags-instead-2a3c)
-- [💅🏻If you&#39;re beautiful, follow this JS Code Style](https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99)
-- [Adding Framer motion to your react websites!](https://dev.to/darkxenium/adding-framer-motion-to-your-react-websites-9ln)
-- [How to stop Feeling overwhelmed when everyone around you are getting better jobs?](https://dev.to/darkxenium/how-to-stop-feeling-overwhelmed-when-everyone-around-you-are-getting-better-jobs-4hle)
 <!-- BLOG-POST-LIST:END -->
 
