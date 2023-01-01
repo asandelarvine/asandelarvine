@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Verifying Git commits using GPG](https://dev.to/dnsinyukov/verifying-git-commits-using-gpg-3i53)
 - [9 reasons to use Gatsby Framework for React developer](https://dev.to/taimoorsattar7/9-reasons-to-use-gatsby-framework-for-react-developer-8mk)
 - [1:1000 - The darkest hell in this world](https://dev.to/fzn0x/11000-the-darkest-hell-in-this-world-4j69)
 - [Best Youtube Channels To Learn React Native](https://dev.to/elozino/best-youtube-channels-to-learn-react-native-3bl9)
-- [Ditch the div Tag: Use These HTML Tags Instead](https://dev.to/arafat4693/ditch-the-div-tag-use-these-tags-instead-2a3c)
 <!-- BLOG-POST-LIST:END -->
 
