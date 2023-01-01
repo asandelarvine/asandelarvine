@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up Jenkins and a Pipeline on AWS](https://dev.to/aws-builders/how-to-set-up-jenkins-and-a-pipeline-on-aws-2pak)
+- [The 8 best books I read in 2022](https://dev.to/sandordargo/the-8-best-books-i-read-in-2022-52i4)
+- [Looking back at the past year &lpar;and a half&rpar; of accessibility work.](https://dev.to/fossheim/looking-back-at-the-past-year-and-a-half-of-accessibility-work-3jca)
 - [Plan for 2023](https://dev.to/reaction/plan-for-2023-k2)
-- [Everyone NEEDS to use this API!!](https://dev.to/scupdev/the-api-is-done-3ni3)
-- [Deploy your django Project](https://dev.to/fayomihorace/deploy-your-django-project-11o3)
-- [AI generated code creates a new security attack vector](https://dev.to/adam_cyclones/ai-generated-code-creates-a-new-security-attack-vector-39if)
 <!-- BLOG-POST-LIST:END -->
 
