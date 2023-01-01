@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Time Management Techniques for Remote Workers](https://dev.to/rexthony/time-management-techniques-for-remote-workers-271a)
+- [Unraveling the Confusion: A Primer on AI, ML, and DL](https://dev.to/anurag629/unraveling-the-confusion-a-primer-on-ai-ml-and-dl-5eha)
 - [Search &amp; Save to list Button only with HTML CSS with awesome gradients](https://dev.to/amiruweerathunga/search-save-to-list-button-only-with-html-css-with-awesome-gradients-47ha)
 - [CSS Variables end to end](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
-- [Animation Techniques with anime.js: Timing, Easing, and Keyframes](https://dev.to/mohsenkamrani/animation-techniques-with-animejs-timing-easing-and-keyframes-4986)
-- [Notes on OAuth2.0 #1](https://dev.to/otter13/notes-on-oauth20-1-1f2m)
 <!-- BLOG-POST-LIST:END -->
 
