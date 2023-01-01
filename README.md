@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An alternative new year - ring in the true](https://dev.to/robole/an-alternative-new-year-ring-in-the-true-1fk3)
+- [📧 Sending E-Mail from Gmail Using Golang.](https://dev.to/go/sending-e-mail-from-gmail-using-golang-20bi)
+- [On the seventh day of Enhancing: Forms](https://dev.to/begin/on-the-seventh-day-of-enhancing-forms-nck)
 - [HTML Template Tag Explained](https://dev.to/arafat4693/html-template-tag-explained-3859)
-- [2022 review and what&#39;s next in 2023](https://dev.to/anuradhakumari/2022-review-and-whats-next-in-2023-49n5)
-- [React query - The juicy parts](https://dev.to/dawkaka/react-query-the-juicy-parts-172i)
-- [How Python can help web developers](https://dev.to/chainguns/how-python-can-help-web-developers-d87)
 <!-- BLOG-POST-LIST:END -->
 
