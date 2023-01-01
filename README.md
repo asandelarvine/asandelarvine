@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Optimize Your Website for Mobile Devices](https://dev.to/ariellun/how-to-optimize-your-website-for-mobile-devices-1a2e)
 - [AWS Automation using Terraform Micro Byte](https://dev.to/niteshthapliyal/aws-automation-using-terraform-micro-byte-49p6)
+- [How to intergrate Chatgpt into VSCode IDE](https://dev.to/gallau/how-to-intergrate-chatgpt-into-vscode-ide-14h4)
 - [Best Year End 2022 &amp; New Year 2023 Deals OFFERS &amp; Discounts from Top Web Hosting Companies](https://dev.to/codeswithrocky/best-year-end-2022-new-year-2023-deals-offers-discounts-from-top-web-hosting-companies-11an)
-- [Happy Coding : 2023](https://dev.to/jagroop2000/happy-coding-2023-2m6)
-- [Become an Animation Master with Anime.js - Part 1: Setting up the Environment and Basic Animations](https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad)
 <!-- BLOG-POST-LIST:END -->
 
