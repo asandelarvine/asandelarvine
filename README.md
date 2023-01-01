@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Year End 2022 &amp; New Year 2023 Deals OFFERS &amp; Discounts from Top Web Hosting Companies](https://dev.to/codeswithrocky/best-year-end-2022-new-year-2023-deals-offers-discounts-from-top-web-hosting-companies-11an)
 - [Happy Coding : 2023](https://dev.to/jagroop2000/happy-coding-2023-2m6)
 - [Become an Animation Master with Anime.js - Part 1: Setting up the Environment and Basic Animations](https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad)
 - [How to set up Jenkins and a Pipeline on AWS](https://dev.to/aws-builders/how-to-set-up-jenkins-and-a-pipeline-on-aws-2pak)
-- [The 8 best books I read in 2022](https://dev.to/sandordargo/the-8-best-books-i-read-in-2022-52i4)
 <!-- BLOG-POST-LIST:END -->
 
