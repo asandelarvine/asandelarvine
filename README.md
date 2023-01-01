@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ditch the div Tag: Use These HTML Tags Instead](https://dev.to/arafat4693/ditch-the-div-tag-use-these-tags-instead-2a3c)
+- [💅🏻If you&#39;re beautiful, follow this JS Code Style](https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99)
 - [Adding Framer motion to your react websites!](https://dev.to/darkxenium/adding-framer-motion-to-your-react-websites-9ln)
 - [How to stop Feeling overwhelmed when everyone around you are getting better jobs?](https://dev.to/darkxenium/how-to-stop-feeling-overwhelmed-when-everyone-around-you-are-getting-better-jobs-4hle)
-- [An alternative new year - ring in the true](https://dev.to/robole/an-alternative-new-year-ring-in-the-true-1fk3)
-- [📧 Sending E-Mail from Gmail Using Golang.](https://dev.to/go/sending-e-mail-from-gmail-using-golang-20bi)
 <!-- BLOG-POST-LIST:END -->
 
