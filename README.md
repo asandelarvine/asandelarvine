@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Python can help web developers](https://dev.to/chainguns/how-python-can-help-web-developers-d87)
+- [Why transform:translate&lpar;-50%, -50%&rpar; to center element?](https://dev.to/urstrulyvishwak/why-transformtranslate-50-50-to-center-element-15m1)
+- [I&#39;m on the Honours List! 🎉](https://dev.to/andypiper/im-on-the-honours-list-3icc)
 - [Time Management Techniques for Remote Workers](https://dev.to/rexthony/time-management-techniques-for-remote-workers-271a)
-- [Unraveling the Confusion: A Primer on AI, ML, and DL](https://dev.to/anurag629/unraveling-the-confusion-a-primer-on-ai-ml-and-dl-5eha)
-- [Search &amp; Save to list Button only with HTML CSS with awesome gradients](https://dev.to/amiruweerathunga/search-save-to-list-button-only-with-html-css-with-awesome-gradients-47ha)
-- [CSS Variables end to end](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
 <!-- BLOG-POST-LIST:END -->
 
