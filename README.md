@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifying Git commits using GPG](https://dev.to/dnsinyukov/verifying-git-commits-using-gpg-3i53)
-- [9 reasons to use Gatsby Framework for React developer](https://dev.to/taimoorsattar7/9-reasons-to-use-gatsby-framework-for-react-developer-8mk)
-- [1:1000 - The darkest hell in this world](https://dev.to/fzn0x/11000-the-darkest-hell-in-this-world-4j69)
-- [Best Youtube Channels To Learn React Native](https://dev.to/elozino/best-youtube-channels-to-learn-react-native-3bl9)
+- [Slimming Down Repo-1](https://dev.to/subbramanil/slimming-down-repo-1-3kcd)
+- [Differences between Google Tag Manager and Google Analytics](https://dev.to/davidemaye/differences-between-google-tag-manager-and-google-analytics-32hn)
+- [Creating a Sitemap File for a Next.js Project](https://dev.to/ayka_code/creating-a-sitemap-file-for-a-nextjs-project-3ed6)
+- [Effortless Time Tracking](https://dev.to/stebunovd/effortless-time-tracking-4o30)
 <!-- BLOG-POST-LIST:END -->
 
