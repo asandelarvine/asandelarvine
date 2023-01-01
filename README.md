@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Variables end to end](https://dev.to/urstrulyvishwak/css-variables-end-to-end-4dej)
 - [Animation Techniques with anime.js: Timing, Easing, and Keyframes](https://dev.to/mohsenkamrani/animation-techniques-with-animejs-timing-easing-and-keyframes-4986)
 - [Notes on OAuth2.0 #1](https://dev.to/otter13/notes-on-oauth20-1-1f2m)
-- [How to Optimize Your Website for Mobile Devices](https://dev.to/ariellun/how-to-optimize-your-website-for-mobile-devices-1a2e)
-- [Setting Up Tailwind with Next.js](https://dev.to/polybitrockzz/setup-tailwind-with-nextjs-2adn)
+- [Server-Sent Events in Rust](https://dev.to/chaudharypraveen98/server-sent-events-in-rust-3lk0)
 <!-- BLOG-POST-LIST:END -->
 
