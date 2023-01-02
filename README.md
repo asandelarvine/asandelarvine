@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monthly Challenge #3: Morse Code 🆘](https://dev.to/codedex/monthly-challenge-3-morse-code-4d97)
 - [Modals, Popups, Lightbox, and Popover](https://dev.to/davidemaye/modals-popups-lightbox-and-popover-k99)
 - [The assembly line of the idea factory](https://dev.to/smeetsmeister/the-assembly-line-of-the-idea-factory-16ee)
 - [What are the 5 Types of Marketing Data Management?](https://dev.to/nadiabasaraba/what-are-the-5-types-of-marketing-data-management-56na)
-- [Todo CORS explicado de la A a la Z](https://dev.to/julcasans/todo-cors-explicado-de-la-a-a-la-z-4ch0)
 <!-- BLOG-POST-LIST:END -->
 
