@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Procrastination: The Key to Success for Developers](https://dev.to/evansifyke/overcoming-procrastination-the-key-to-success-for-developers-5fge)
-- [Help, my Angular bundle is growing!](https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj)
-- [AnimationRenderer: listening and playing](https://dev.to/this-is-angular/animationrenderer-listening-and-playing-4i3a)
-- [C Vs C++](https://dev.to/jagroop2000/c-vs-c-42cn)
+- [Finally a clean and easy way to add Table of Contents to dev.to articles 🤩](https://dev.to/derlin/finally-a-clean-and-easy-way-to-add-table-of-contents-to-devto-articles-5g6n)
+- [JavaScript Splice Method Explained in Detail](https://dev.to/mavensingh/javascript-splice-method-explained-in-detail-3mmf)
+- [My experience starting out with Deepracer &lpar;Q4/22&rpar;](https://dev.to/niklaswesterstrahle/my-experience-starting-out-with-deepracer-q422-4bjh)
+- [Earning way more with Code!: What ChatGPT says and my opinions](https://dev.to/zesta/earning-way-more-with-code-what-chatgpt-says-and-my-opinions-1bgi)
 <!-- BLOG-POST-LIST:END -->
 
