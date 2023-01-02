@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Modals, Popups, Lightbox, and Popover](https://dev.to/davidemaye/modals-popups-lightbox-and-popover-k99)
 - [The assembly line of the idea factory](https://dev.to/smeetsmeister/the-assembly-line-of-the-idea-factory-16ee)
 - [What are the 5 Types of Marketing Data Management?](https://dev.to/nadiabasaraba/what-are-the-5-types-of-marketing-data-management-56na)
-- [How to Build a Telegram Bot using Typescript &amp; Node.js](https://dev.to/eludadev/how-to-build-a-telegram-bot-using-typescript-nodejs-3j5e)
-- [Stylify CSS: Code your SvelteKit website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-sveltekit-website-faster-with-css-like-utilities-l7a)
+- [Todo CORS explicado de la A a la Z](https://dev.to/julcasans/todo-cors-explicado-de-la-a-a-la-z-4ch0)
 <!-- BLOG-POST-LIST:END -->
 
