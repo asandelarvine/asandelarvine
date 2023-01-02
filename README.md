@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C Vs C++](https://dev.to/jagroop2000/c-vs-c-42cn)
+- [JS Functional Concepts: Pipe and Compose](https://dev.to/joelbonetr/js-functional-concepts-pipe-and-compose-1mho)
 - [My favorite JSON Interview Questions for Java Developers](https://dev.to/javarevisited/my-favorite-json-interview-questions-for-java-developers-3md7)
 - [Web Scraping Job Postings: Challenges and Best Solutions](https://dev.to/oxylabs-io/web-scraping-job-postings-challenges-and-best-solutions-173l)
-- [Scroll To Top when Route Changes - ReactJS &amp; React Router](https://dev.to/kunalukey/scroll-to-top-when-route-changes-reactjs-react-router-3bgn)
-- [Top 5 Featured DEV Tag&lpar;#devops&rpar; Posts from the year 2022](https://dev.to/c4r4x35/top-5-featured-dev-tagdevops-posts-from-the-year-2022-5gdh)
 <!-- BLOG-POST-LIST:END -->
 
