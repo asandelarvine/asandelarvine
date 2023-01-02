@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to make money as a software engineer?](https://dev.to/bimashazaman/how-to-make-money-as-a-software-engineer-4h84)
 - [Higher-Order Functions — JavaScript](https://dev.to/fantom/higher-order-functions-javascript-5919)
 - [Top 7 Colour Schemes that Will Make Your Website Stand Out in 2023](https://dev.to/mohsenkamrani/top-7-colour-schemes-that-will-make-your-website-stand-out-in-2023-4038)
-- [Can I remove the &quot;DEBUG&quot; banner in Flutter?](https://dev.to/petrussola/can-i-remove-the-debug-banner-in-flutter-907)
+- [Vuex: taking user input, adding and removing it from state](https://dev.to/bcostaaa01/vuex-taking-user-input-adding-and-removing-it-from-state-c8h)
 <!-- BLOG-POST-LIST:END -->
 
