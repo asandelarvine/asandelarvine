@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Featured DEV Tag&lpar;#css&rpar; Posts from the year 2022](https://dev.to/c4r4x35/top-5-featured-dev-tagcss-posts-from-the-year-2022-393o)
 - [Top 5 Featured DEV Tag&lpar;#devops&rpar; Posts from the year 2022](https://dev.to/c4r4x35/top-5-featured-dev-tagdevops-posts-from-the-year-2022-5gdh)
 - [Building a free Open-source portfolio template using HTML, CSS and JS | Part 4](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-4-1pgi)
 - [Microservices vs Monolithic Architecture: A Practical Approach](https://dev.to/lovepreetsingh/microservices-vs-monolithic-architecture-a-practical-approach-4m06)
-- [How to Trace Websocket Events in NestJS - [Case Study]](https://dev.to/nooptoday/how-to-trace-websocket-events-in-nestjs-case-study-5hi7)
 <!-- BLOG-POST-LIST:END -->
 
