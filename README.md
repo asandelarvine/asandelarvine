@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Slimming Down Repo-1](https://dev.to/subbramanil/slimming-down-repo-1-3kcd)
-- [Differences between Google Tag Manager and Google Analytics](https://dev.to/davidemaye/differences-between-google-tag-manager-and-google-analytics-32hn)
-- [Creating a Sitemap File for a Next.js Project](https://dev.to/ayka_code/creating-a-sitemap-file-for-a-nextjs-project-3ed6)
-- [Effortless Time Tracking](https://dev.to/stebunovd/effortless-time-tracking-4o30)
+- [Top 7 Colour Schemes that Will Make Your Website Stand Out in 2023](https://dev.to/mohsenkamrani/top-7-colour-schemes-that-will-make-your-website-stand-out-in-2023-4038)
+- [Can I remove the &quot;DEBUG&quot; banner in Flutter?](https://dev.to/petrussola/can-i-remove-the-debug-banner-in-flutter-907)
+- [Adding Pinia to Nuxt 3 🍍 &lpar;2023&rpar;](https://dev.to/tao/adding-pinia-to-nuxt-3-2023-3l77)
+- [⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
 <!-- BLOG-POST-LIST:END -->
 
