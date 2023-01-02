@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming Procrastination: The Key to Success for Developers](https://dev.to/evansifyke/overcoming-procrastination-the-key-to-success-for-developers-5fge)
+- [Help, my Angular bundle is growing!](https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj)
+- [AnimationRenderer: listening and playing](https://dev.to/this-is-angular/animationrenderer-listening-and-playing-4i3a)
 - [C Vs C++](https://dev.to/jagroop2000/c-vs-c-42cn)
-- [JS Functional Concepts: Pipe and Compose](https://dev.to/joelbonetr/js-functional-concepts-pipe-and-compose-1mho)
-- [My favorite JSON Interview Questions for Java Developers](https://dev.to/javarevisited/my-favorite-json-interview-questions-for-java-developers-3md7)
-- [Web Scraping Job Postings: Challenges and Best Solutions](https://dev.to/oxylabs-io/web-scraping-job-postings-challenges-and-best-solutions-173l)
 <!-- BLOG-POST-LIST:END -->
 
