@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge your StepFunctions productivity with local file system sync in Workflow Studio](https://dev.to/aws-builders/supercharge-your-stepfunctions-productivity-with-local-file-system-sync-in-workflow-studio-4ab9)
+- [Cheaply running ruby on rails apps &lpar;for side projects&rpar;](https://dev.to/alexspark/cheaply-running-ruby-on-rails-apps-for-side-projects-4na6)
 - [Monthly Challenge #3: Morse Code 🆘](https://dev.to/codedex/monthly-challenge-3-morse-code-4d97)
-- [Modals, Popups, Lightbox, and Popover](https://dev.to/davidemaye/modals-popups-lightbox-and-popover-k99)
-- [The assembly line of the idea factory](https://dev.to/smeetsmeister/the-assembly-line-of-the-idea-factory-16ee)
-- [What are the 5 Types of Marketing Data Management?](https://dev.to/nadiabasaraba/what-are-the-5-types-of-marketing-data-management-56na)
+- [Angular Internals: How Reactivity Works with Zone.js](https://dev.to/this-is-angular/angular-internals-how-reactivity-works-with-zonejs-302m)
 <!-- BLOG-POST-LIST:END -->
 
