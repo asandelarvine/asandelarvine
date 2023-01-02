@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Become a Cloud Engineer in 2023](https://dev.to/simonholdorf/how-to-become-a-cloud-engineer-in-2023-5b81)
+- [Estrutura de Dados: O que é uma pilha?](https://dev.to/cristuker/estrutura-de-dados-o-que-e-uma-pilha-296p)
+- [How to Use Docker Copy Command](https://dev.to/refine/how-to-use-docker-copy-command-216g)
 - [Finally a clean and easy way to add Table of Contents to dev.to articles 🤩](https://dev.to/derlin/finally-a-clean-and-easy-way-to-add-table-of-contents-to-devto-articles-5g6n)
-- [JavaScript Splice Method Explained in Detail](https://dev.to/mavensingh/javascript-splice-method-explained-in-detail-3mmf)
-- [My experience starting out with Deepracer &lpar;Q4/22&rpar;](https://dev.to/niklaswesterstrahle/my-experience-starting-out-with-deepracer-q422-4bjh)
-- [Earning way more with Code!: What ChatGPT says and my opinions](https://dev.to/zesta/earning-way-more-with-code-what-chatgpt-says-and-my-opinions-1bgi)
 <!-- BLOG-POST-LIST:END -->
 
