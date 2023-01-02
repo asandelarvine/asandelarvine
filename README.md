@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a free Open-source portfolio template using HTML, CSS and JS | Part 4](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-4-1pgi)
+- [Microservices vs Monolithic Architecture: A Practical Approach](https://dev.to/lovepreetsingh/microservices-vs-monolithic-architecture-a-practical-approach-4m06)
+- [Exploring the Intersection of AI and AR/VR Technology](https://dev.to/anurag629/exploring-the-intersection-of-ai-and-arvr-technology-509j)
 - [How to make money as a software engineer?](https://dev.to/bimashazaman/how-to-make-money-as-a-software-engineer-4h84)
-- [Higher-Order Functions — JavaScript](https://dev.to/fantom/higher-order-functions-javascript-5919)
-- [Top 7 Colour Schemes that Will Make Your Website Stand Out in 2023](https://dev.to/mohsenkamrani/top-7-colour-schemes-that-will-make-your-website-stand-out-in-2023-4038)
-- [Vuex: taking user input, adding and removing it from state](https://dev.to/bcostaaa01/vuex-taking-user-input-adding-and-removing-it-from-state-c8h)
 <!-- BLOG-POST-LIST:END -->
 
