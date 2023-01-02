@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Telegram Bot using Typescript &amp; Node.js](https://dev.to/eludadev/how-to-build-a-telegram-bot-using-typescript-nodejs-3j5e)
+- [Stylify CSS: Code your SvelteKit website faster with CSS-like utilities](https://dev.to/machy8/stylify-css-code-your-sveltekit-website-faster-with-css-like-utilities-l7a)
 - [Prioritizing Technical Debt as If Time &amp; Money Matters - Adam Tornhill](https://dev.to/szabgab/prioritizing-technical-debt-as-if-time-money-matters-adam-tornhill-5b5o)
 - [17 Compelling Reasons To Start Ditching TypeScript Now.](https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b)
-- [Time To Rethink Cattle vs. Pets &lpar;serverless&rpar;](https://dev.to/aws-heroes/time-to-rethink-cattle-vs-pets-serverless-5c0j)
-- [What are your objectives for 2023?](https://dev.to/mxglt/what-are-your-objectives-for-2023-a20)
 <!-- BLOG-POST-LIST:END -->
 
