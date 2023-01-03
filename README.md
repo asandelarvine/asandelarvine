@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Incremental compilation for Crystal - Part 1](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
 - [Dev Retro 2022: Journey in review](https://dev.to/dhanushnehru/dev-retro-2022-journey-in-review-4nmd)
 - [How to Deploy Your Container into AWS EC2 with ECS](https://dev.to/permify/how-to-deploy-your-container-into-aws-ec2-with-ecs-1p95)
-- [Instagram Graph API Explained: How to log in users](https://dev.to/superface/instagram-graph-api-explained-how-to-log-in-users-lp8)
-- [7 Subtle Signs of Developer Burnout — And How to Recover From It](https://dev.to/codewithvoid/7-subtle-signs-of-developer-burnout-and-how-to-recover-from-it-3klj)
+- [How to Write a Recursive Function in JavaScript for Beginners](https://dev.to/michaellarocca/how-to-write-a-recursive-function-in-javascript-for-beginners-39o5)
 <!-- BLOG-POST-LIST:END -->
 
