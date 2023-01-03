@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Interactive Charts with D3.js](https://dev.to/ayka_code/creating-interactive-charts-with-d3js-152o)
+- [How to Send Invoice and Add Payment Reminder in Next.js with Courier API](https://dev.to/fazzaamiarso/how-to-send-invoice-and-add-payment-reminder-in-nextjs-with-courier-api-2ejd)
 - [Pinia and Nuxt 3](https://dev.to/rafaelmagalhaes/pinia-and-nuxt-3-4ij5)
-- [Using CKEditor 5 in ReactJS &lpar;include upload image and many cool functionality&rpar;](https://dev.to/trinhcamminh/using-ckeditor-5-in-reactjs-include-upload-image-and-many-cool-functionality-38km)
-- [What new badges would you like to see on DEV?](https://dev.to/devteam/what-new-badges-would-you-like-to-see-on-dev-35m5)
-- [Gifted my wife an AWS EC2 Automation Script](https://dev.to/aws-builders/gifted-my-wife-an-aws-ec2-automation-script-458l)
+- [Why JavaScript Developers Should Learn Node.js and Backend Databases](https://dev.to/andrewbaisden/why-javascript-developers-should-learn-nodejs-and-backend-databases-4c06)
 <!-- BLOG-POST-LIST:END -->
 
