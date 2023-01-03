@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incremental compilation for Crystal - Part 1](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
-- [Dev Retro 2022: Journey in review](https://dev.to/dhanushnehru/dev-retro-2022-journey-in-review-4nmd)
-- [How to Deploy Your Container into AWS EC2 with ECS](https://dev.to/permify/how-to-deploy-your-container-into-aws-ec2-with-ecs-1p95)
-- [How to Write a Recursive Function in JavaScript for Beginners](https://dev.to/michaellarocca/how-to-write-a-recursive-function-in-javascript-for-beginners-39o5)
+- [Pinia and Nuxt 3](https://dev.to/rafaelmagalhaes/pinia-and-nuxt-3-4ij5)
+- [Using CKEditor 5 in ReactJS &lpar;include upload image and many cool functionality&rpar;](https://dev.to/trinhcamminh/using-ckeditor-5-in-reactjs-include-upload-image-and-many-cool-functionality-38km)
+- [What new badges would you like to see on DEV?](https://dev.to/devteam/what-new-badges-would-you-like-to-see-on-dev-35m5)
+- [Gifted my wife an AWS EC2 Automation Script](https://dev.to/aws-builders/gifted-my-wife-an-aws-ec2-automation-script-458l)
 <!-- BLOG-POST-LIST:END -->
 
