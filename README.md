@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD ディスク暗号化: パスフレーズを変更する](https://dev.to/nabbisen/openbsd-deisukuan-hao-hua-pasuhurezuwobian-geng-suru-21nl)
 - [OpenBSD フルディスク暗号化 &lpar;on VirtualBox&rpar;](https://dev.to/nabbisen/openbsd-hurudeisukuan-hao-hua-on-virtualbox-51pc)
 - [OpenBSD Disk Encryption: Change passphrase](https://dev.to/nabbisen/openbsd-disk-encryption-change-passphrase-4i8l)
 - [What is Your Dream Programming Language Like?](https://dev.to/satinwuker/what-is-your-dream-programming-language-like-7cm)
-- [I Let A.I. Do DevOps - This Is What Happened &lpar;feat ChatGPT and DALL-E&rpar;](https://dev.to/n3wt0n/i-let-ai-do-devops-this-is-what-happened-feat-chatgpt-and-dall-e-47mj)
 <!-- BLOG-POST-LIST:END -->
 
