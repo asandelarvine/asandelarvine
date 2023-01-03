@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Retro 2022: Journey in review](https://dev.to/dhanushnehru/dev-retro-2022-journey-in-review-4nmd)
+- [How to Deploy Your Container into AWS EC2 with ECS](https://dev.to/permify/how-to-deploy-your-container-into-aws-ec2-with-ecs-1p95)
+- [Instagram Graph API Explained: How to log in users](https://dev.to/superface/instagram-graph-api-explained-how-to-log-in-users-lp8)
 - [7 Subtle Signs of Developer Burnout — And How to Recover From It](https://dev.to/codewithvoid/7-subtle-signs-of-developer-burnout-and-how-to-recover-from-it-3klj)
-- [The tip for how to get more views for the post](https://dev.to/zenstack/the-tip-for-how-to-get-more-views-for-the-post-3pd)
-- [How to Save Unmatched Text in a jQuery Select2 Dropdown with an AJAX Call](https://dev.to/asifroyal/how-to-save-unmatched-text-in-a-jquery-select2-dropdown-with-an-ajax-call-34j2)
-- [Effortless Email Integration for front-end devs](https://dev.to/yusufgkl/effortless-email-integration-for-front-end-devs-4463)
 <!-- BLOG-POST-LIST:END -->
 
