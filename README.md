@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD ディスク暗号化: パスフレーズを変更する](https://dev.to/nabbisen/openbsd-deisukuan-hao-hua-pasuhurezuwobian-geng-suru-21nl)
-- [OpenBSD フルディスク暗号化 &lpar;on VirtualBox&rpar;](https://dev.to/nabbisen/openbsd-hurudeisukuan-hao-hua-on-virtualbox-51pc)
-- [OpenBSD Disk Encryption: Change passphrase](https://dev.to/nabbisen/openbsd-disk-encryption-change-passphrase-4i8l)
-- [What is Your Dream Programming Language Like?](https://dev.to/satinwuker/what-is-your-dream-programming-language-like-7cm)
+- [Call for Contributors and Reviewers 📢](https://dev.to/seaql/call-for-contributors-and-reviewers-14cb)
+- [What&#39;s new in SeaQuery 0.28.0](https://dev.to/seaql/whats-new-in-seaquery-0280-1bkl)
+- [All in one ⚡ Ethereum Dapp monorepo starter kit](https://dev.to/zachilee/all-in-one-ethereum-dapp-monorepo-starter-kit-3fd7)
+- [What diagram should I know as a software engineer? Part 2](https://dev.to/parmcoder/what-diagram-should-i-know-as-a-software-engineer-part-2-2c7g)
 <!-- BLOG-POST-LIST:END -->
 
