@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [UI elements examples with Tailwind CSS 🖼️](https://dev.to/rgolawski/ui-elements-examples-with-tailwind-css-2do8)
 - [Supercharge your StepFunctions productivity with local file system sync in Workflow Studio](https://dev.to/aws-builders/supercharge-your-stepfunctions-productivity-with-local-file-system-sync-in-workflow-studio-4ab9)
 - [Cheaply running ruby on rails apps &lpar;for side projects&rpar;](https://dev.to/alexspark/cheaply-running-ruby-on-rails-apps-for-side-projects-4na6)
 - [Monthly Challenge #3: Morse Code 🆘](https://dev.to/codedex/monthly-challenge-3-morse-code-4d97)
-- [Angular Internals: How Reactivity Works with Zone.js](https://dev.to/this-is-angular/angular-internals-how-reactivity-works-with-zonejs-302m)
 <!-- BLOG-POST-LIST:END -->
 
