@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 ways we improved our documentation in 2022](https://dev.to/medusajs/6-ways-we-improved-our-documentation-in-2022-1hnp)
-- [The Power of List Comprehensions in Python](https://dev.to/anurag629/the-power-of-list-comprehensions-in-python-31l7)
-- [AWS re:Invent 2022 Recap | Data &amp; Analytics services](https://dev.to/aws-builders/aws-reinvent-2022-recap-data-analytics-services-51em)
-- [Dev Retro 2022: What made me a better developer?](https://dev.to/atapas/dev-retro-2022-what-made-me-a-better-developer-4kd)
+- [7 Subtle Signs of Developer Burnout — And How to Recover From It](https://dev.to/codewithvoid/7-subtle-signs-of-developer-burnout-and-how-to-recover-from-it-3klj)
+- [The tip for how to get more views for the post](https://dev.to/zenstack/the-tip-for-how-to-get-more-views-for-the-post-3pd)
+- [How to Save Unmatched Text in a jQuery Select2 Dropdown with an AJAX Call](https://dev.to/asifroyal/how-to-save-unmatched-text-in-a-jquery-select2-dropdown-with-an-ajax-call-34j2)
+- [Effortless Email Integration for front-end devs](https://dev.to/yusufgkl/effortless-email-integration-for-front-end-devs-4463)
 <!-- BLOG-POST-LIST:END -->
 
