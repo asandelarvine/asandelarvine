@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5epe)
+- [What is the difference between SSR, ISR, SSS 👀](https://dev.to/artem/what-is-the-difference-between-ssr-isr-sss-5d05)
 - [Modernization with Module Federation, Nx and React](https://dev.to/zchapple/modernization-with-module-federation-nx-and-react-4kj5)
 - [Learn JavaScript while Playing Games - Gamify Your Learning](https://dev.to/paulknulst/learn-javascript-while-playing-games-gamify-your-learning-3c5h)
-- [Reflecting on 2022: A Review of the Blog&#39;s Statistics](https://dev.to/smeetsmeister/reflecting-on-2022-a-review-of-the-blogs-statistics-15an)
 <!-- BLOG-POST-LIST:END -->
 
