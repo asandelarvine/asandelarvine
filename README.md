@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD Disk Encryption: Change passphrase](https://dev.to/nabbisen/openbsd-disk-encryption-change-passphrase-4i8l)
+- [What is Your Dream Programming Language Like?](https://dev.to/satinwuker/what-is-your-dream-programming-language-like-7cm)
 - [I Let A.I. Do DevOps - This Is What Happened &lpar;feat ChatGPT and DALL-E&rpar;](https://dev.to/n3wt0n/i-let-ai-do-devops-this-is-what-happened-feat-chatgpt-and-dall-e-47mj)
 - [UI elements examples with Tailwind CSS 🖼️](https://dev.to/rgolawski/ui-elements-examples-with-tailwind-css-2do8)
-- [Supercharge your StepFunctions productivity with local file system sync in Workflow Studio](https://dev.to/aws-builders/supercharge-your-stepfunctions-productivity-with-local-file-system-sync-in-workflow-studio-4ab9)
-- [Cheaply running ruby on rails apps &lpar;for side projects&rpar;](https://dev.to/alexspark/cheaply-running-ruby-on-rails-apps-for-side-projects-4na6)
 <!-- BLOG-POST-LIST:END -->
 
