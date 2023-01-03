@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Front End Development : Easy or Hard](https://dev.to/jagroop2000/front-end-development-easy-or-hard-1cpo)
+- [Goodbye to passwords with WebAuthn: the future of online identity protection](https://dev.to/akimyou/goodbye-to-passwords-with-webauthn-the-future-of-online-identity-protection-31jl)
+- [Write Code Faster in React &lpar;JSX Autocompletion&rpar;](https://dev.to/davidemaye/write-code-faster-in-react-jsx-autocompletion-eeg)
 - [Call for Contributors and Reviewers 📢](https://dev.to/seaql/call-for-contributors-and-reviewers-14cb)
-- [What&#39;s new in SeaQuery 0.28.0](https://dev.to/seaql/whats-new-in-seaquery-0280-1bkl)
-- [All in one ⚡ Ethereum Dapp monorepo starter kit](https://dev.to/zachilee/all-in-one-ethereum-dapp-monorepo-starter-kit-3fd7)
-- [What diagram should I know as a software engineer? Part 2](https://dev.to/parmcoder/what-diagram-should-i-know-as-a-software-engineer-part-2-2c7g)
 <!-- BLOG-POST-LIST:END -->
 
