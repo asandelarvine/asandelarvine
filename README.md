@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Interactive Charts with D3.js](https://dev.to/ayka_code/creating-interactive-charts-with-d3js-152o)
-- [How to Send Invoice and Add Payment Reminder in Next.js with Courier API](https://dev.to/fazzaamiarso/how-to-send-invoice-and-add-payment-reminder-in-nextjs-with-courier-api-2ejd)
-- [Pinia and Nuxt 3](https://dev.to/rafaelmagalhaes/pinia-and-nuxt-3-4ij5)
-- [Why JavaScript Developers Should Learn Node.js and Backend Databases](https://dev.to/andrewbaisden/why-javascript-developers-should-learn-nodejs-and-backend-databases-4c06)
+- [Debugging Streams and Collections](https://dev.to/codenameone/debugging-streams-and-collections-1ac4)
+- [Why Cybersecurity is Crucial in the Modern Workplace? &lpar;But is not much talked about&rpar;](https://dev.to/acidop/why-cybersecurity-is-crucial-in-the-modern-workplace-but-is-not-much-talked-about-16kn)
+- [Drastically decrease the size of your Docker application](https://dev.to/meetkern/drastically-decrease-the-size-of-you-docker-application-jfa)
+- [JavaScript Array Methods: A Comprehensive Guide](https://dev.to/93lucasp/javascript-array-methods-a-comprehensive-guide-1fbb)
 <!-- BLOG-POST-LIST:END -->
 
