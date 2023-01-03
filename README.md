@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front End Development : Easy or Hard](https://dev.to/jagroop2000/front-end-development-easy-or-hard-1cpo)
-- [Goodbye to passwords with WebAuthn: the future of online identity protection](https://dev.to/akimyou/goodbye-to-passwords-with-webauthn-the-future-of-online-identity-protection-31jl)
-- [Write Code Faster in React &lpar;JSX Autocompletion&rpar;](https://dev.to/davidemaye/write-code-faster-in-react-jsx-autocompletion-eeg)
-- [Call for Contributors and Reviewers 📢](https://dev.to/seaql/call-for-contributors-and-reviewers-14cb)
+- [The Power of List Comprehensions in Python](https://dev.to/anurag629/the-power-of-list-comprehensions-in-python-31l7)
+- [AWS re:Invent 2022 Recap | Data &amp; Analytics services](https://dev.to/aws-builders/aws-reinvent-2022-recap-data-analytics-services-51em)
+- [Dev Retro 2022: What made me a better developer?](https://dev.to/atapas/dev-retro-2022-what-made-me-a-better-developer-4kd)
+- [How to speak at conferences when you’re scared of public speaking](https://dev.to/blackgirlbytes/how-to-speak-at-a-conference-when-youre-scared-of-public-speaking-562f)
 <!-- BLOG-POST-LIST:END -->
 
