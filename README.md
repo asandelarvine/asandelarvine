@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Flyout in .NET MAUI](https://dev.to/vhugogarcia/responsive-flyout-in-net-maui-4ll1)
-- [This is how to deploy a machine learning model with Anvil](https://dev.to/anvil/this-is-how-to-deploy-a-machine-learning-model-with-anvil-47c8)
-- [How to use ChatGPT in Visual Studio Code.](https://dev.to/0xfedev/how-to-use-chatgpt-directly-in-visual-studio-code-h0p)
-- [Web scraping Google Lens Results with Nodejs](https://dev.to/serpapi/web-scraping-google-lens-results-with-nodejs-4fhp)
+- [Welcome Thread - v207](https://dev.to/thepracticaldev/welcome-thread-v207-488b)
+- [Monolithic vs Microservices Architecture: A Comprehensive Guide](https://dev.to/ayka_code/monolithic-vs-microservices-architecture-a-comprehensive-guide-2jon)
+- [Create and deploy an Express API to Cloud Run](https://dev.to/subfuzion/create-and-deploy-an-express-api-to-cloud-run-68b)
+- [Incremental compilation for Crystal - Part 2](https://dev.to/asterite/incremental-compilation-for-crystal-part-2-5h59)
 <!-- BLOG-POST-LIST:END -->
 
