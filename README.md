@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTPie AI assistant](https://dev.to/jakubroztocil/httpie-ai-assistant-4pmg)
-- [Changelog #0022 — 🪄 HTTPie AI assistant, methods in tabs, and more](https://dev.to/jakubroztocil/changelog-0022-httpie-ai-assistant-methods-in-tabs-and-more-20ec)
-- [Boost Your Query Performance with Function-Based Indexes in PostgreSQL](https://dev.to/asifroyal/boost-your-query-performance-with-function-based-indexes-in-postgresql-185h)
-- [Scanning for open ports](https://dev.to/webduvet/scanning-for-open-ports-5dco)
+- [How to Make Fast Food Website Using HTML CSS JS](https://dev.to/codewithsadee/how-to-make-fast-food-website-using-html-css-js-3iep)
+- [How remote and part-time creates an inclusive culture at FINN](https://dev.to/finnauto/how-remote-and-part-time-creates-an-inclusive-culture-at-finn-3hgh)
+- [Common pitfalls to avoid when optimizing code performance](https://dev.to/blst-security/common-pitfalls-to-avoid-when-optimizing-code-performance-mil)
+- [HTTPie AI assistant](https://dev.to/pie/httpie-ai-assistant-4pmg)
 <!-- BLOG-POST-LIST:END -->
 
