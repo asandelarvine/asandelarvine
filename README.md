@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a CRUD App with Next.js, React Query, React Hook Form, and Yup](https://dev.to/integridsolutions/building-a-crud-app-with-nextjs-react-query-react-hook-form-and-yup-46o9)
 - [Use which: Interface or Type Alias in Typescript?](https://dev.to/magentaqin/use-which-interface-or-type-alias-in-typescript-3cj4)
 - [Database 101: Data Consistency for Beginners](https://dev.to/danielhe4rt/database-101-why-so-interesting-1344)
 - [Typescript: Functions](https://dev.to/j471n/typescript-functions-4nkp)
-- [check file size in Linux](https://dev.to/howtouselinux/check-file-size-in-linux-468i)
 <!-- BLOG-POST-LIST:END -->
 
