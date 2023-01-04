@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool Tailwindcss Tools For Everyone](https://dev.to/arafat4693/cool-tailwindcss-tools-for-everyone-5c5m)
-- [2022 Rewind feat. StackOverflow Dev Survey](https://dev.to/arjuncodess/2022-rewind-feat-stackoverflow-dev-survey-1i8j)
-- [PostgreSQL 14: Database migration with pg_dump](https://dev.to/nabbisen/postgresql-14-database-migration-with-pgdump-1pb8)
-- [How to Contribute on the First Day of a Frontend Project](https://dev.to/giantmachines/how-to-contribute-on-the-first-day-of-a-frontend-project-4pbp)
+- [How To Learn React in 2023](https://dev.to/webdevhero-com/how-to-learn-react-in-2023-3kef)
+- [pyaction 4.14.1 Released](https://dev.to/cicirello/pyaction-4141-released-2egk)
+- [This Week In React #130: Next.js, callback ref, Zod, Redux, React-Hook-Form, Redux, mdxjs-rs, Tamagui, Skia, Shopify, Solid...](https://dev.to/sebastienlorber/this-week-in-react-130-nextjs-callback-ref-zod-redux-react-hook-form-redux-mdxjs-rs-tamagui-skia-shopify-solid-3cli)
+- [Juicy Tailwindcss Tools For Everyone](https://dev.to/arafat4693/cool-tailwindcss-tools-for-everyone-5c5m)
 <!-- BLOG-POST-LIST:END -->
 
