@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This is how to deploy a machine learning model with Anvil](https://dev.to/anvil/this-is-how-to-deploy-a-machine-learning-model-with-anvil-47c8)
+- [How to use ChatGPT in Visual Studio Code.](https://dev.to/0xfedev/how-to-use-chatgpt-directly-in-visual-studio-code-h0p)
+- [Web scraping Google Lens Results with Nodejs](https://dev.to/serpapi/web-scraping-google-lens-results-with-nodejs-4fhp)
 - [CodeNewbie Podcast Season Finale &lpar;S22E9&rpar;: Coding Bootcamps and Coding Journeys with Mark Thompson](https://dev.to/codenewbieteam/codenewbie-podcast-season-finale-s22e9-coding-bootcamps-and-coding-journeys-with-mark-thompson-58jn)
-- [Finding accomplishments to put on your resume if you don’t have a tech job.](https://dev.to/jcsmileyjr/finding-accomplishments-to-put-on-your-resume-if-you-dont-have-a-tech-job-23n0)
-- [What is cURL and why is it important in API testing?🤖](https://dev.to/mariamarsh/what-is-curl-and-why-is-it-important-in-api-testing-416m)
-- [How To Learn React in 2023](https://dev.to/webdevhero-com/how-to-learn-react-in-2023-3kef)
 <!-- BLOG-POST-LIST:END -->
 
