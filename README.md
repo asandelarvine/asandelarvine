@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ReductStore behind NGINX](https://dev.to/reductstore/reductstore-behind-nginx-2144)
+- [Creating Custom Hooks in React and TypeScript](https://dev.to/majdsufian/creating-custom-hooks-in-react-and-typescript-7ho)
 - [What is Asynchronous JavaScript?](https://dev.to/documatic/what-is-asynchronous-javascript-4k4n)
 - [An Introduction to Database Encryption](https://dev.to/vaultree/an-introduction-to-database-encryption-3ack)
-- [Lesser Known Features of DEV — Using Comment Templates](https://dev.to/devteam/lesser-known-features-of-dev-using-comment-templates-3jpe)
-- [Client-Side Performance Testing: Metrics to Consider](https://dev.to/robertmartin/client-side-performance-testing-metrics-to-consider-30ne)
 <!-- BLOG-POST-LIST:END -->
 
