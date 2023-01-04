@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeNewbie Podcast Season Finale &lpar;S22E9&rpar;: Coding Bootcamps and Coding Journeys with Mark Thompson](https://dev.to/codenewbieteam/codenewbie-podcast-season-finale-s22e9-coding-bootcamps-and-coding-journeys-with-mark-thompson-58jn)
+- [Finding accomplishments to put on your resume if you don’t have a tech job.](https://dev.to/jcsmileyjr/finding-accomplishments-to-put-on-your-resume-if-you-dont-have-a-tech-job-23n0)
+- [What is cURL and why is it important in API testing?🤖](https://dev.to/mariamarsh/what-is-curl-and-why-is-it-important-in-api-testing-416m)
 - [How To Learn React in 2023](https://dev.to/webdevhero-com/how-to-learn-react-in-2023-3kef)
-- [pyaction 4.14.1 Released](https://dev.to/cicirello/pyaction-4141-released-2egk)
-- [This Week In React #130: Next.js, callback ref, Zod, Redux, React-Hook-Form, Redux, mdxjs-rs, Tamagui, Skia, Shopify, Solid...](https://dev.to/sebastienlorber/this-week-in-react-130-nextjs-callback-ref-zod-redux-react-hook-form-redux-mdxjs-rs-tamagui-skia-shopify-solid-3cli)
-- [Juicy Tailwindcss Tools For Everyone](https://dev.to/arafat4693/cool-tailwindcss-tools-for-everyone-5c5m)
 <!-- BLOG-POST-LIST:END -->
 
