@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Django in 2023](https://dev.to/jagroop2000/why-django-in-2023-2knk)
-- [Amazon Lex: Conversations in the Cloud](https://dev.to/aws-builders/amazon-lex-conversations-in-the-cloud-hm)
-- [I Created an OpenSource Portfolio Template for Developers 🚀](https://dev.to/rammcodes/i-created-an-opensource-portfolio-template-for-developers-7m4)
-- [So, why Server Components?](https://dev.to/jankoritak/so-why-server-components-2nk3)
+- [HTTPie AI assistant](https://dev.to/jakubroztocil/httpie-ai-assistant-4pmg)
+- [Changelog #0022 — 🪄 HTTPie AI assistant, methods in tabs, and more](https://dev.to/jakubroztocil/changelog-0022-httpie-ai-assistant-methods-in-tabs-and-more-20ec)
+- [Boost Your Query Performance with Function-Based Indexes in PostgreSQL](https://dev.to/asifroyal/boost-your-query-performance-with-function-based-indexes-in-postgresql-185h)
+- [Scanning for open ports](https://dev.to/webduvet/scanning-for-open-ports-5dco)
 <!-- BLOG-POST-LIST:END -->
 
