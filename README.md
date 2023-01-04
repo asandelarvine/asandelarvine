@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v207](https://dev.to/thepracticaldev/welcome-thread-v207-488b)
-- [Monolithic vs Microservices Architecture: A Comprehensive Guide](https://dev.to/ayka_code/monolithic-vs-microservices-architecture-a-comprehensive-guide-2jon)
-- [Create and deploy an Express API to Cloud Run](https://dev.to/subfuzion/create-and-deploy-an-express-api-to-cloud-run-68b)
-- [Incremental compilation for Crystal - Part 2](https://dev.to/asterite/incremental-compilation-for-crystal-part-2-5h59)
+- [What is Asynchronous JavaScript?](https://dev.to/documatic/what-is-asynchronous-javascript-4k4n)
+- [An Introduction to Database Encryption](https://dev.to/vaultree/an-introduction-to-database-encryption-3ack)
+- [Lesser Known Features of DEV — Using Comment Templates](https://dev.to/devteam/lesser-known-features-of-dev-using-comment-templates-3jpe)
+- [Client-Side Performance Testing: Metrics to Consider](https://dev.to/robertmartin/client-side-performance-testing-metrics-to-consider-30ne)
 <!-- BLOG-POST-LIST:END -->
 
