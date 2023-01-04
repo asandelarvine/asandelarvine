@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[LIVE] #DevDiscuss: Monoliths vs. Microservices](https://dev.to/devteam/devdiscuss-monoliths-vs-microservices-5942)
+- [Covid led me to my first open-source contribution.](https://dev.to/brunopacheco1/covid-led-me-to-my-first-open-source-contribution-42n)
 - [JS map&lpar;&rpar;, filter&lpar;&rpar; e reduce&lpar;&rpar; em React](https://dev.to/mpetry/js-map-filter-e-reduce-em-react-2o5c)
 - [Review: Mastering Laravel Validation Rules](https://dev.to/ashallendesign/review-mastering-laravel-validation-rules-2np6)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5epe)
-- [What is the difference between SSR, ISR, SSS 👀](https://dev.to/artem/what-is-the-difference-between-ssr-isr-sss-5d05)
 <!-- BLOG-POST-LIST:END -->
 
