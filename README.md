@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to set up Tailwind CSS with TypeScript and Flowbite](https://dev.to/themesberg/learn-how-to-set-up-tailwind-css-with-typescript-and-flowbite-f51)
 - [How to Make Fast Food Website Using HTML CSS JS](https://dev.to/codewithsadee/how-to-make-fast-food-website-using-html-css-js-3iep)
 - [How remote and part-time creates an inclusive culture at FINN](https://dev.to/finnauto/how-remote-and-part-time-creates-an-inclusive-culture-at-finn-3hgh)
 - [Common pitfalls to avoid when optimizing code performance](https://dev.to/blst-security/common-pitfalls-to-avoid-when-optimizing-code-performance-mil)
-- [HTTPie AI assistant](https://dev.to/pie/httpie-ai-assistant-4pmg)
 <!-- BLOG-POST-LIST:END -->
 
