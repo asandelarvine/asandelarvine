@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Database 101: Data Consistency for Beginners](https://dev.to/danielhe4rt/database-101-why-so-interesting-1344)
 - [Typescript: Functions](https://dev.to/j471n/typescript-functions-4nkp)
 - [check file size in Linux](https://dev.to/howtouselinux/check-file-size-in-linux-468i)
 - [#DevDiscuss: Monoliths vs. Microservices](https://dev.to/devteam/devdiscuss-monoliths-vs-microservices-5942)
-- [Covid led me to my first open-source contribution.](https://dev.to/brunopacheco1/covid-led-me-to-my-first-open-source-contribution-42n)
 <!-- BLOG-POST-LIST:END -->
 
