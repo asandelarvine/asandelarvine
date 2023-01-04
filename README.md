@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to set up Tailwind CSS with TypeScript and Flowbite](https://dev.to/themesberg/learn-how-to-set-up-tailwind-css-with-typescript-and-flowbite-f51)
-- [How to Make Fast Food Website Using HTML CSS JS](https://dev.to/codewithsadee/how-to-make-fast-food-website-using-html-css-js-3iep)
-- [How remote and part-time creates an inclusive culture at FINN](https://dev.to/finnauto/how-remote-and-part-time-creates-an-inclusive-culture-at-finn-3hgh)
-- [Common pitfalls to avoid when optimizing code performance](https://dev.to/blst-security/common-pitfalls-to-avoid-when-optimizing-code-performance-mil)
+- [Cool Tailwindcss Tools For Everyone](https://dev.to/arafat4693/cool-tailwindcss-tools-for-everyone-5c5m)
+- [2022 Rewind feat. StackOverflow Dev Survey](https://dev.to/arjuncodess/2022-rewind-feat-stackoverflow-dev-survey-1i8j)
+- [PostgreSQL 14: Database migration with pg_dump](https://dev.to/nabbisen/postgresql-14-database-migration-with-pgdump-1pb8)
+- [How to Contribute on the First Day of a Frontend Project](https://dev.to/giantmachines/how-to-contribute-on-the-first-day-of-a-frontend-project-4pbp)
 <!-- BLOG-POST-LIST:END -->
 
