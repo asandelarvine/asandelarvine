@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Backlinks: Why They Matter for Your Online Presence](https://dev.to/mohsenkamrani/understanding-backlinks-why-they-matter-for-your-online-presence-2kl1)
+- [Fake Data API](https://dev.to/devsimc/fake-data-api-5ghp)
 - [Data Engineering Toolset 2023](https://dev.to/wanjohichristopher/data-engineering-toolset-2023-30hm)
 - [A Beginner&#39;s Guide to Variable Declarations in JavaScript: When to Use const, let, and var](https://dev.to/mohsenkamrani/a-beginners-guide-to-variable-declarations-in-javascript-when-to-use-const-let-and-var-2eoj)
-- [[LIAPP FEATURES] Class Protection &amp; Source Code Encryption](https://dev.to/teamliapp/liapp-features-class-protection-source-code-encryption-20kd)
-- [5 Best Online Tools for Coders and Writers](https://dev.to/foxinfotech/5-best-online-tools-for-coders-and-writers-3p8b)
 <!-- BLOG-POST-LIST:END -->
 
