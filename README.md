@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get UK Global Talent Visa in 2023 - Free Webinar](https://dev.to/beetlehope/how-to-get-uk-global-talent-visa-in-2023-free-webinar-935)
 - [Kubernetes Control Plane: 10 Tips for Airtight K8s Security](https://dev.to/castai/kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d)
 - [Notion Templates for Developers](https://dev.to/shreyvijayvargiya/notion-templates-for-developers-2k2o)
 - [Automate Your LinkedIn Presence, Drive Traffic and Manage Projects with These Amazing Tools](https://dev.to/ahmadji93/automate-your-linkedin-presence-drive-traffic-and-manage-projects-with-these-amazing-tools-4o2h)
-- [Asynchronous and synchronous JavaScript Basics!](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
 <!-- BLOG-POST-LIST:END -->
 
