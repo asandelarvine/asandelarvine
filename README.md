@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python - Realist](https://dev.to/levintech/python-realist-n16)
+- [Complete Data Science Roadmap/ Bootcamp from noob to expert.](https://dev.to/anurag629/complete-data-science-roadmap-bootcamp-from-noob-to-expert-4ee2)
 - [Material Design 3: All You Need to Know About the Google&#39;s Design System](https://dev.to/quokkalabs/material-design-3-all-you-need-to-know-about-the-googles-design-system-dp3)
 - [How to use Material UI Card Component](https://dev.to/refine/how-to-use-material-ui-card-component-2l2k)
-- [Understanding stops property on LinearGradient in Flutter](https://dev.to/anshsaini/understanding-stops-property-on-lineargradient-in-flutter-1fnk)
-- [Handling Network Status in Your React App](https://dev.to/thelamina/handling-network-status-in-your-react-app-4222)
 <!-- BLOG-POST-LIST:END -->
 
