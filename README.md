@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous and synchronous JavaScript Basics!](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
+- [Become a Frontend web developer in 2023 - A step by step guide](https://dev.to/shubhicodes/become-a-frontend-web-developer-in-2023-a-step-by-step-guide-m24)
+- [Building Secure Applications with JavaScript and Typescript Security Best Practices](https://dev.to/kalashin1/building-secure-applications-with-javascript-and-typescript-security-best-practices-59d2)
 - [Python - Realist](https://dev.to/levintech/python-realist-n16)
-- [Complete Data Science Roadmap/ Bootcamp from noob to expert.](https://dev.to/anurag629/complete-data-science-roadmap-bootcamp-from-noob-to-expert-4ee2)
-- [Material Design 3: All You Need to Know About the Google&#39;s Design System](https://dev.to/quokkalabs/material-design-3-all-you-need-to-know-about-the-googles-design-system-dp3)
-- [How to use Material UI Card Component](https://dev.to/refine/how-to-use-material-ui-card-component-2l2k)
 <!-- BLOG-POST-LIST:END -->
 
