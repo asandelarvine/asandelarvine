@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Control Plane: 10 Tips for Airtight K8s Security](https://dev.to/castai/kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d)
+- [Notion Templates for Developers](https://dev.to/shreyvijayvargiya/notion-templates-for-developers-2k2o)
+- [Automate Your LinkedIn Presence, Drive Traffic and Manage Projects with These Amazing Tools](https://dev.to/ahmadji93/automate-your-linkedin-presence-drive-traffic-and-manage-projects-with-these-amazing-tools-4o2h)
 - [Asynchronous and synchronous JavaScript Basics!](https://dev.to/darkxenium/asynchronous-and-synchronous-javascript-basics-40d1)
-- [Become a Frontend web developer in 2023 - A step by step guide](https://dev.to/shubhicodes/become-a-frontend-web-developer-in-2023-a-step-by-step-guide-m24)
-- [Building Secure Applications with JavaScript and Typescript Security Best Practices](https://dev.to/kalashin1/building-secure-applications-with-javascript-and-typescript-security-best-practices-59d2)
-- [Python - Realist](https://dev.to/levintech/python-realist-n16)
 <!-- BLOG-POST-LIST:END -->
 
