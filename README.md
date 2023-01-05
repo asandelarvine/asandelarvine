@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pragmatic Programmer - Book Review](https://dev.to/scc33/the-pragmatic-programmer-book-review-31mh)
+- [Protecting routes with NextAuth in Nextjs](https://dev.to/esponges/protecting-routes-with-nextauth-in-nextjs-2kkd)
 - [ReductStore behind NGINX](https://dev.to/reductstore/reductstore-behind-nginx-2144)
-- [Creating Custom Hooks in React and TypeScript](https://dev.to/majdsufian/creating-custom-hooks-in-react-and-typescript-7ho)
-- [What is Asynchronous JavaScript?](https://dev.to/documatic/what-is-asynchronous-javascript-4k4n)
-- [An Introduction to Database Encryption](https://dev.to/vaultree/an-introduction-to-database-encryption-3ack)
+- [Story of an IP Address Tracker App &lpar;a React.js App&rpar;](https://dev.to/alptekin/story-of-an-ip-address-tracker-app-a-reactjs-app-3nja)
 <!-- BLOG-POST-LIST:END -->
 
