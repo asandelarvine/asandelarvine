@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New Year, New Headers.](https://dev.to/jarvisscript/new-year-new-headers-11aj)
+- [Why you should start your tech career today](https://dev.to/andrewbaisden/why-you-should-start-your-tech-career-today-1mc)
+- [How I Built a Food Ecommerce Restaurant with Next.js, Paystack and Medusa](https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0)
 - [How to create a Steps Progress Bar](https://dev.to/jolamemushaj/how-to-create-a-steps-progress-bar-4m2b)
-- [From Zero to Hero... Send AWS SES Emails Like a Pro!](https://dev.to/kumo/from-zero-to-hero-send-aws-ses-emails-like-a-pro-4nei)
-- [AWS open source newsletter - 2022 in review](https://dev.to/aws/aws-open-source-newsletter-2022-in-review-5dhp)
-- [How to verify a successful website migration to 11ty - test every sitemap link](https://dev.to/robole/how-to-verify-a-successful-website-migration-to-11ty-test-every-sitemap-link-2b5f)
 <!-- BLOG-POST-LIST:END -->
 
