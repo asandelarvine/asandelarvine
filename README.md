@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST API with ASP.NET and MySQL](https://dev.to/esdanielgomez/rest-api-with-aspnet-and-mysql-5c6h)
-- [Zod Crash Course](https://dev.to/arafat4693/zod-crash-course-geg)
-- [6 React questions for technical interviews and their answers](https://dev.to/jgamaraalv/6-react-questions-for-technical-interviews-and-their-answers-10p3)
-- [Learn CSS: Create the Google Logo](https://dev.to/ratracegrad/learn-css-create-the-google-logo-3b73)
+- [Fluid Pull Requests](https://dev.to/reviewpad/fluid-pull-requests-36a4)
+- [MERN Interview Questions asked to me in Various Interviews.](https://dev.to/viveksinra/mern-interview-questions-asked-to-me-in-various-interviews-2c8j)
+- [GraphQL vs. REST](https://dev.to/appwrite/graphql-vs-rest-50j)
+- [Appwrite vs. Hasura vs. Apollo](https://dev.to/appwrite/appwrite-vs-hasura-vs-apollo-5cb4)
 <!-- BLOG-POST-LIST:END -->
 
