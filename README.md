@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Google Cloud is Educating the Next Generation of Cloud Engineers](https://dev.to/linearb/how-google-cloud-is-educating-the-next-generation-of-cloud-engineers-3obc)
+- [Quero contratar uma pessoa DevRel, e agora?](https://dev.to/feministech/quero-contratar-uma-pessoa-devrel-e-agora-2jdd)
+- [Quick guide for PHP prepared statements](https://dev.to/wizarddos/quick-guide-for-php-prepared-statements-26k9)
 - [Guide to TMUX - Terminal That Remembers Everything](https://dev.to/dnsinyukov/guide-to-tmux-terminal-that-remembers-everything-39aa)
-- [5 Ways React Can Improve Your Web Development Process](https://dev.to/kboskin/5-ways-react-can-improve-your-web-development-process-2co8)
-- [Create a Post Editor Similar to Twitter with a Responsive Images Grid with tailwindcss](https://dev.to/ayka_code/create-a-post-editor-similar-to-twitter-with-a-responsive-images-grid-with-tailwindcss-j7a)
-- [How to use JWT for Authentication in Node.Js](https://dev.to/arosebine/how-to-use-jwt-for-authentication-in-nodejs-3ach)
 <!-- BLOG-POST-LIST:END -->
 
