@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Performance Resources for Front End Developers](https://dev.to/benrobertson/web-performance-resources-for-front-end-developers-900)
+- [To-Do List Application with Tailwind CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/to-do-list-application-with-tailwind-css-and-javascript-88g)
 - [The Pragmatic Programmer - Book Review](https://dev.to/scc33/the-pragmatic-programmer-book-review-31mh)
 - [Protecting routes with NextAuth in Nextjs](https://dev.to/esponges/protecting-routes-with-nextauth-in-nextjs-2kkd)
-- [ReductStore behind NGINX](https://dev.to/reductstore/reductstore-behind-nginx-2144)
-- [Story of an IP Address Tracker App &lpar;a React.js App&rpar;](https://dev.to/alptekin/story-of-an-ip-address-tracker-app-a-reactjs-app-3nja)
 <!-- BLOG-POST-LIST:END -->
 
