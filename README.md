@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding stops property on LinearGradient in Flutter](https://dev.to/anshsaini/understanding-stops-property-on-lineargradient-in-flutter-1fnk)
+- [Handling Network Status in Your React App](https://dev.to/thelamina/handling-network-status-in-your-react-app-4222)
 - [5 Web Design Tips for a Stunning and Professional Look in 2023](https://dev.to/mohsenkamrani/5-web-design-tips-for-a-stunning-and-professional-look-in-2023-4659)
 - [Certified Kubernetes Application Developer &lpar;CKAD&rpar; Exam Tips](https://dev.to/akdevcraft/certified-kubernetes-application-developer-ckad-exam-tips-4a1b)
-- [What are the most profitable side hustles for software engineers?](https://dev.to/cleancodestudio/what-are-the-most-profitable-side-hustles-for-software-engineers-1fc2)
-- [Blockchains, Artificial Intelligence &lpar;AI&rpar;, and Decentralized Networks &lpar;+ smart contracts&rpar;](https://dev.to/cleancodestudio/blockchains-artificial-intelligence-ai-and-decentralized-networks-smart-contracts-1og6)
 <!-- BLOG-POST-LIST:END -->
 
