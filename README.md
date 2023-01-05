@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Steps Progress Bar](https://dev.to/jolamemushaj/how-to-create-a-steps-progress-bar-4m2b)
 - [From Zero to Hero... Send AWS SES Emails Like a Pro!](https://dev.to/kumo/from-zero-to-hero-send-aws-ses-emails-like-a-pro-4nei)
 - [AWS open source newsletter - 2022 in review](https://dev.to/aws/aws-open-source-newsletter-2022-in-review-5dhp)
 - [How to verify a successful website migration to 11ty - test every sitemap link](https://dev.to/robole/how-to-verify-a-successful-website-migration-to-11ty-test-every-sitemap-link-2b5f)
-- [DMESG [LINUX]](https://dev.to/rohitjain25/dmesg-linux-ph6)
 <!-- BLOG-POST-LIST:END -->
 
