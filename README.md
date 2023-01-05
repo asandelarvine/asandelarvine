@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Web Performance Resources for Front End Developers](https://dev.to/benrobertson/web-performance-resources-for-front-end-developers-900)
+- [Rust&#39;s impact on security &lpar;Why the NSA, Microsoft CTO, and Linux recommend it as the safer choice over C and C++&rpar;](https://dev.to/cleancodestudio/rusts-impact-on-security-why-the-nsa-microsoft-cto-and-linux-recommend-it-as-the-safer-choice-over-c-and-c-3bb)
 - [To-Do List Application with Tailwind CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/to-do-list-application-with-tailwind-css-and-javascript-88g)
 - [The Pragmatic Programmer - Book Review](https://dev.to/scc33/the-pragmatic-programmer-book-review-31mh)
-- [Protecting routes with NextAuth in Nextjs](https://dev.to/esponges/protecting-routes-with-nextauth-in-nextjs-2kkd)
 <!-- BLOG-POST-LIST:END -->
 
