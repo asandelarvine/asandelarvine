@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchains, Artificial Intelligence &lpar;AI&rpar;, and Decentralized Networks &lpar;+ smart contracts&rpar;](https://dev.to/cleancodestudio/blockchains-artificial-intelligence-ai-and-decentralized-networks-smart-contracts-1og6)
+- [Every Software Developer should write a blog](https://dev.to/nasirovelchin/every-software-developer-should-write-a-blog-4622)
 - [Web Performance Resources for Front End Developers](https://dev.to/benrobertson/web-performance-resources-for-front-end-developers-900)
 - [Rust&#39;s impact on security &lpar;Why the NSA, Microsoft CTO, and Linux recommend it as the safer choice over C and C++&rpar;](https://dev.to/cleancodestudio/rusts-impact-on-security-why-the-nsa-microsoft-cto-and-linux-recommend-it-as-the-safer-choice-over-c-and-c-3bb)
-- [To-Do List Application with Tailwind CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/to-do-list-application-with-tailwind-css-and-javascript-88g)
-- [The Pragmatic Programmer - Book Review](https://dev.to/scc33/the-pragmatic-programmer-book-review-31mh)
 <!-- BLOG-POST-LIST:END -->
 
