@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I imagined a programming language Silk](https://dev.to/starevan/i-imagined-a-programming-language-silk-24li)
-- [FLiP Stack Weekly for 06-Jan-2023](https://dev.to/tspannhw/flip-stack-weekly-for-06-jan-2023-5aaj)
-- [Drawing kawaii sharks and sea life with HTML and CSS](https://dev.to/alvaromontoro/drawing-kawaii-sharks-and-sea-life-with-html-and-css-fei)
-- [Fluid Pull Requests](https://dev.to/reviewpad/fluid-pull-requests-36a4)
+- [Guide to TMUX - Terminal That Remembers Everything](https://dev.to/dnsinyukov/guide-to-tmux-terminal-that-remembers-everything-39aa)
+- [5 Ways React Can Improve Your Web Development Process](https://dev.to/kboskin/5-ways-react-can-improve-your-web-development-process-2co8)
+- [Create a Post Editor Similar to Twitter with a Responsive Images Grid with tailwindcss](https://dev.to/ayka_code/create-a-post-editor-similar-to-twitter-with-a-responsive-images-grid-with-tailwindcss-j7a)
+- [How to use JWT for Authentication in Node.Js](https://dev.to/arosebine/how-to-use-jwt-for-authentication-in-nodejs-3ach)
 <!-- BLOG-POST-LIST:END -->
 
