@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Web Design Tips for a Stunning and Professional Look in 2023](https://dev.to/mohsenkamrani/5-web-design-tips-for-a-stunning-and-professional-look-in-2023-4659)
+- [Certified Kubernetes Application Developer &lpar;CKAD&rpar; Exam Tips](https://dev.to/akdevcraft/certified-kubernetes-application-developer-ckad-exam-tips-4a1b)
+- [What are the most profitable side hustles for software engineers?](https://dev.to/cleancodestudio/what-are-the-most-profitable-side-hustles-for-software-engineers-1fc2)
 - [Blockchains, Artificial Intelligence &lpar;AI&rpar;, and Decentralized Networks &lpar;+ smart contracts&rpar;](https://dev.to/cleancodestudio/blockchains-artificial-intelligence-ai-and-decentralized-networks-smart-contracts-1og6)
-- [Every Software Developer should write a blog](https://dev.to/nasirovelchin/every-software-developer-should-write-a-blog-4622)
-- [Web Performance Resources for Front End Developers](https://dev.to/benrobertson/web-performance-resources-for-front-end-developers-900)
-- [Rust&#39;s impact on security &lpar;Why the NSA, Microsoft CTO, and Linux recommend it as the safer choice over C and C++&rpar;](https://dev.to/cleancodestudio/rusts-impact-on-security-why-the-nsa-microsoft-cto-and-linux-recommend-it-as-the-safer-choice-over-c-and-c-3bb)
 <!-- BLOG-POST-LIST:END -->
 
