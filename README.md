@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get UK Global Talent Visa in 2023 - Free Webinar](https://dev.to/beetlehope/how-to-get-uk-global-talent-visa-in-2023-free-webinar-935)
-- [Kubernetes Control Plane: 10 Tips for Airtight K8s Security](https://dev.to/castai/kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d)
-- [Notion Templates for Developers](https://dev.to/shreyvijayvargiya/notion-templates-for-developers-2k2o)
-- [Automate Your LinkedIn Presence, Drive Traffic and Manage Projects with These Amazing Tools](https://dev.to/ahmadji93/automate-your-linkedin-presence-drive-traffic-and-manage-projects-with-these-amazing-tools-4o2h)
+- [From Zero to Hero... Send AWS SES Emails Like a Pro!](https://dev.to/kumo/from-zero-to-hero-send-aws-ses-emails-like-a-pro-4nei)
+- [AWS open source newsletter - 2022 in review](https://dev.to/aws/aws-open-source-newsletter-2022-in-review-5dhp)
+- [How to verify a successful website migration to 11ty - test every sitemap link](https://dev.to/robole/how-to-verify-a-successful-website-migration-to-11ty-test-every-sitemap-link-2b5f)
+- [DMESG [LINUX]](https://dev.to/rohitjain25/dmesg-linux-ph6)
 <!-- BLOG-POST-LIST:END -->
 
