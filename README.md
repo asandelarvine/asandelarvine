@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I imagined a programming language Silk](https://dev.to/starevan/i-imagined-a-programming-language-silk-24li)
+- [FLiP Stack Weekly for 06-Jan-2023](https://dev.to/tspannhw/flip-stack-weekly-for-06-jan-2023-5aaj)
+- [Drawing kawaii sharks and sea life with HTML and CSS](https://dev.to/alvaromontoro/drawing-kawaii-sharks-and-sea-life-with-html-and-css-fei)
 - [Fluid Pull Requests](https://dev.to/reviewpad/fluid-pull-requests-36a4)
-- [MERN Interview Questions asked to me in Various Interviews.](https://dev.to/viveksinra/mern-interview-questions-asked-to-me-in-various-interviews-2c8j)
-- [GraphQL vs. REST](https://dev.to/appwrite/graphql-vs-rest-50j)
-- [Appwrite vs. Hasura vs. Apollo](https://dev.to/appwrite/appwrite-vs-hasura-vs-apollo-5cb4)
 <!-- BLOG-POST-LIST:END -->
 
