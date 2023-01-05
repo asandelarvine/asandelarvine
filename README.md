@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Material Design 3: All You Need to Know About the Google&#39;s Design System](https://dev.to/quokkalabs/material-design-3-all-you-need-to-know-about-the-googles-design-system-dp3)
+- [How to use Material UI Card Component](https://dev.to/refine/how-to-use-material-ui-card-component-2l2k)
 - [Understanding stops property on LinearGradient in Flutter](https://dev.to/anshsaini/understanding-stops-property-on-lineargradient-in-flutter-1fnk)
 - [Handling Network Status in Your React App](https://dev.to/thelamina/handling-network-status-in-your-react-app-4222)
-- [5 Web Design Tips for a Stunning and Professional Look in 2023](https://dev.to/mohsenkamrani/5-web-design-tips-for-a-stunning-and-professional-look-in-2023-4659)
-- [Certified Kubernetes Application Developer &lpar;CKAD&rpar; Exam Tips](https://dev.to/akdevcraft/certified-kubernetes-application-developer-ckad-exam-tips-4a1b)
 <!-- BLOG-POST-LIST:END -->
 
