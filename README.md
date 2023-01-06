@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C elements that are not supported in C++🚫](https://dev.to/mariamarsh/c-elements-that-are-not-supported-in-c-4i6n)
-- [Introducing Rubberduck, the chat assistant that makes coding easier!](https://dev.to/lgrammel/introducing-rubberduck-the-chat-assistant-that-makes-coding-easier-547a)
-- [Working with audio in ffmpeg - Part 2](https://dev.to/video/working-with-audio-in-ffmpeg-part-2-1ip)
-- [Git rebase interactive: the story of a clean repo history](https://dev.to/crispitipina/git-rebase-interactive-the-story-of-a-clean-repo-history-16ag)
+- [8 Essential Questions to Ask Before Using a Laravel Package](https://dev.to/ashallendesign/8-essential-questions-to-ask-before-using-a-laravel-package-387n)
+- [Learning how to code from my autistic 3 year old....](https://dev.to/umteln/how-i-got-started-with-coding-from-my-autistic-3-year-old-4ljj)
+- [Introduction to Spatial Data Science -Specialization in Google Earth Engine &lpar;GEE&rpar;](https://dev.to/nicmsn2/introduction-to-spatial-data-science-specialization-in-google-earth-engine-gee-1odj)
+- [Intrusion Detection using in-built Webcam](https://dev.to/pssingh21/intrusion-detection-using-in-built-webcam-326k)
 <!-- BLOG-POST-LIST:END -->
 
