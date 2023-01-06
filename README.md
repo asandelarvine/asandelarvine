@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PagerDuty Community Weekly Update, January 3, 2023](https://dev.to/pdcommunity/pagerduty-community-weekly-update-january-3-2023-4ndi)
 - [What is ChatGPT, the AI that is in buzz and why everyone is talking about it](https://dev.to/abhinav0334/what-is-chatgpt-the-ai-that-is-in-buzz-and-why-everyone-is-talking-about-it-1ieg)
 - [ChatGPT vs Satya Nadella over Biryani: The chatbot is learning from its mistakes](https://dev.to/abhinav0334/chatgpt-vs-satya-nadella-over-biryani-the-chatbot-is-learning-from-its-mistakes-21i3)
 - [Introduction to Cubic Equations of State: Using the thermo Library to Work with Pure Components](https://dev.to/ahmed__elboshi/introduction-to-cubic-equations-of-state-using-the-thermo-library-to-work-with-pure-components-3k88)
-- [8 Essential Questions to Ask Before Using a Laravel Package](https://dev.to/ashallendesign/8-essential-questions-to-ask-before-using-a-laravel-package-387n)
 <!-- BLOG-POST-LIST:END -->
 
