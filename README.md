@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Landing Zone and Control Tower](https://dev.to/shweta_vohra/aws-landing-zone-and-control-tower-2afo)
 - [How Google Cloud is Educating the Next Generation of Cloud Engineers](https://dev.to/linearb/how-google-cloud-is-educating-the-next-generation-of-cloud-engineers-3obc)
 - [Quero contratar uma pessoa DevRel, e agora?](https://dev.to/feministech/quero-contratar-uma-pessoa-devrel-e-agora-2jdd)
 - [Quick guide for PHP prepared statements](https://dev.to/wizarddos/quick-guide-for-php-prepared-statements-26k9)
-- [Guide to TMUX - Terminal That Remembers Everything](https://dev.to/dnsinyukov/guide-to-tmux-terminal-that-remembers-everything-39aa)
 <!-- BLOG-POST-LIST:END -->
 
