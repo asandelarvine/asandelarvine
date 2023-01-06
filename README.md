@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PagerDuty Community Weekly Update, January 3, 2023](https://dev.to/pdcommunity/pagerduty-community-weekly-update-january-3-2023-4ndi)
-- [What is ChatGPT, the AI that is in buzz and why everyone is talking about it](https://dev.to/abhinav0334/what-is-chatgpt-the-ai-that-is-in-buzz-and-why-everyone-is-talking-about-it-1ieg)
-- [ChatGPT vs Satya Nadella over Biryani: The chatbot is learning from its mistakes](https://dev.to/abhinav0334/chatgpt-vs-satya-nadella-over-biryani-the-chatbot-is-learning-from-its-mistakes-21i3)
-- [Introduction to Cubic Equations of State: Using the thermo Library to Work with Pure Components](https://dev.to/ahmed__elboshi/introduction-to-cubic-equations-of-state-using-the-thermo-library-to-work-with-pure-components-3k88)
+- [Importing SVG files as React components with Vite](https://dev.to/cassidoo/importing-svg-files-as-react-components-with-vite-l3n)
+- [Standard vs. Express vs. Custom account types for Stripe Connect](https://dev.to/stripe/standard-vs-express-vs-custom-account-types-for-stripe-connect-386j)
+- [Best Practices when working with Android Studio](https://dev.to/kuldudecs50/best-practices-when-working-with-android-studio-1ga1)
+- [Creating Auto Dynamic OG Images for Your Next.js Application with Serverless Functions](https://dev.to/ayka_code/creating-auto-dynamic-og-images-for-your-nextjs-application-with-serverless-functions-35cf)
 <!-- BLOG-POST-LIST:END -->
 
