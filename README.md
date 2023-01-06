@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Rubberduck, the chat assistant that makes coding easier!](https://dev.to/lgrammel/introducing-rubberduck-the-chat-assistant-that-makes-coding-easier-547a)
 - [Rust on Arch Linux: Getting started](https://dev.to/nabbisen/rust-on-arch-linux-getting-started-4d56)
+- [Building a Design System: Lessons Learned](https://dev.to/desinni/building-a-design-system-lessons-learned-403e)
 - [Github VS Gitlab Vs Bitbucket](https://dev.to/harshvats2000/github-vs-gitlab-vs-bitbucket-52gl)
-- [Follow Friday: Conferences Edition &lpar;6 January 2023&rpar;](https://dev.to/devteam/follow-friday-conferences-edition-6-january-2023-1b7f)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-1p7m)
 <!-- BLOG-POST-LIST:END -->
 
