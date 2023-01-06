@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Customize your PowerShell and Neovim [Microsoft]](https://dev.to/bekbrace/customize-your-powershell-and-neovim-microsoft-4b7d)
 - [Some Common SQL commands!](https://dev.to/darkxenium/some-common-sql-commands-267g)
+- [Create your logging server for 4$ monthly !](https://dev.to/aws-builders/create-your-logging-server-for-4-monthly--fhj)
 - [CSS Loaders](https://dev.to/shubhamtiwari909/css-loaders-3e2a)
-- [Responsive Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-personal-portfolio-website-using-html-css-javascript-15e2)
-- [Awesome Social Media Icons With Hover Effects &lpar;Font Awesome Icons &amp; SVG Icons&rpar;](https://dev.to/amiruweerathunga/awesome-social-media-icons-with-hover-effects-font-awesome-icons-svg-icons-k0i)
 <!-- BLOG-POST-LIST:END -->
 
