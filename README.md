@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Organizing your React code: Cohesion and Coupling](https://dev.to/cloudx/organizing-your-react-code-cohesion-and-coupling-579)
 - [How to make a Camera Android app that has photo filters? Full Code and Step by step guide](https://dev.to/dhruvjoshi9/how-to-make-a-camera-android-app-that-has-photo-filters-full-code-and-step-by-step-guide-4147)
+- [Enhancing a Stylelint plugin &lpar;with some TDD love&rpar;](https://dev.to/mbarzeev/enhancing-a-stylelint-plugin-with-some-tdd-love-hpo)
 - [Awesome Readme Examples for Writing better Readmes](https://dev.to/documatic/awesome-readme-examples-for-writing-better-readmes-3eh3)
-- [A Beginner&#39;s Guide to Feature Selection in Machine Learning: Techniques and Tips](https://dev.to/phylis/a-beginners-guide-to-feature-selection-in-machine-learning-techniques-and-tips-459o)
-- [Python](https://dev.to/jagroop2000/python-11c)
 <!-- BLOG-POST-LIST:END -->
 
