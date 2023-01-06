@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C elements that are not supported in C++🚫](https://dev.to/mariamarsh/c-elements-that-are-not-supported-in-c-4i6n)
 - [Introducing Rubberduck, the chat assistant that makes coding easier!](https://dev.to/lgrammel/introducing-rubberduck-the-chat-assistant-that-makes-coding-easier-547a)
-- [Rust on Arch Linux: Getting started](https://dev.to/nabbisen/rust-on-arch-linux-getting-started-4d56)
-- [Building a Design System: Lessons Learned](https://dev.to/desinni/building-a-design-system-lessons-learned-403e)
-- [Github VS Gitlab Vs Bitbucket](https://dev.to/harshvats2000/github-vs-gitlab-vs-bitbucket-52gl)
+- [Working with audio in ffmpeg - Part 2](https://dev.to/video/working-with-audio-in-ffmpeg-part-2-1ip)
+- [Git rebase interactive: the story of a clean repo history](https://dev.to/crispitipina/git-rebase-interactive-the-story-of-a-clean-repo-history-16ag)
 <!-- BLOG-POST-LIST:END -->
 
