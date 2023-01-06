@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Job Hunter&#39;s Handbook: A Practical Guide to Landing Your Dream Work From-Home Opportunity](https://dev.to/thenomadevel/remote-job-hunters-handbook-a-practical-guide-to-landing-your-dream-work-from-home-opportunity-p49)
 - [¡Guía de introducción a Docker en español!](https://dev.to/maricarmendev/guia-de-introduccion-a-docker-en-espanol-2dfo)
 - [Python — Command line](https://dev.to/levintech/python-command-line-367g)
 - [Service Mesh and Enterprise Scale Design](https://dev.to/shweta_vohra/service-mesh-and-enterprise-scale-design-4a58)
-- [How electricity reaches computer &lpar;And why its needed&rpar;](https://dev.to/cleancodestudio/how-electricity-reaches-computer-and-why-its-needed-3hc3)
 <!-- BLOG-POST-LIST:END -->
 
