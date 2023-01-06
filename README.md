@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master the Basics of Python: A Step-by-Step Guide](https://dev.to/anurag629/master-the-basics-of-python-a-step-by-step-guide-16je)
+- [Project Ideas For Junior Frontend Developers 👨‍💻🦄](https://dev.to/rammcodes/project-ideas-for-junior-frontend-developers-55mh)
 - [Remote Job Hunter&#39;s Handbook: A Practical Guide to Landing Your Dream Work From-Home Opportunity](https://dev.to/thenomadevel/remote-job-hunters-handbook-a-practical-guide-to-landing-your-dream-work-from-home-opportunity-p49)
-- [¡Guía de introducción a Docker en español!](https://dev.to/maricarmendev/guia-de-introduccion-a-docker-en-espanol-2dfo)
-- [Python — Command line](https://dev.to/levintech/python-command-line-367g)
-- [Service Mesh and Enterprise Scale Design](https://dev.to/shweta_vohra/service-mesh-and-enterprise-scale-design-4a58)
+- [What is a Web Development!](https://dev.to/nasirovelchin/what-is-a-web-development-1l4c)
 <!-- BLOG-POST-LIST:END -->
 
