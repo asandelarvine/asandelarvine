@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Camera Android app that has photo filters? Full Code and Step by step guide](https://dev.to/dhruvjoshi9/how-to-make-a-camera-android-app-that-has-photo-filters-full-code-and-step-by-step-guide-4147)
+- [Awesome Readme Examples for Writing better Readmes](https://dev.to/documatic/awesome-readme-examples-for-writing-better-readmes-3eh3)
 - [A Beginner&#39;s Guide to Feature Selection in Machine Learning: Techniques and Tips](https://dev.to/phylis/a-beginners-guide-to-feature-selection-in-machine-learning-techniques-and-tips-459o)
 - [Python](https://dev.to/jagroop2000/python-11c)
-- [All you &lpar;probably&rpar; need to know about caching on the web 🗃](https://dev.to/enterspeed/all-you-probably-need-to-know-about-caching-on-the-web-4loa)
-- [How to implement CAPTCHAs or reCAPTCHAs?](https://dev.to/codeofrelevancy/how-to-implement-captchas-or-recaptchas-2i17)
 <!-- BLOG-POST-LIST:END -->
 
