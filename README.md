@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT vs Satya Nadella over Biryani: The chatbot is learning from its mistakes](https://dev.to/abhinav0334/chatgpt-vs-satya-nadella-over-biryani-the-chatbot-is-learning-from-its-mistakes-21i3)
+- [Introduction to Cubic Equations of State: Using the thermo Library to Work with Pure Components](https://dev.to/ahmed__elboshi/introduction-to-cubic-equations-of-state-using-the-thermo-library-to-work-with-pure-components-3k88)
 - [8 Essential Questions to Ask Before Using a Laravel Package](https://dev.to/ashallendesign/8-essential-questions-to-ask-before-using-a-laravel-package-387n)
 - [Learning how to code from my autistic 3 year old....](https://dev.to/umteln/how-i-got-started-with-coding-from-my-autistic-3-year-old-4ljj)
-- [Introduction to Spatial Data Science -Specialization in Google Earth Engine &lpar;GEE&rpar;](https://dev.to/nicmsn2/introduction-to-spatial-data-science-specialization-in-google-earth-engine-gee-1odj)
-- [Intrusion Detection using in-built Webcam](https://dev.to/pssingh21/intrusion-detection-using-in-built-webcam-326k)
 <!-- BLOG-POST-LIST:END -->
 
