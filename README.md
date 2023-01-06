@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I create my daily meal using chat GPT](https://dev.to/shreyvijayvargiya/i-create-my-daily-meal-using-chat-gpt-1me7)
-- [Master the Basics of Python: A Step-by-Step Guide](https://dev.to/anurag629/master-the-basics-of-python-a-step-by-step-guide-16je)
-- [Project Ideas For Junior Frontend Developers 👨‍💻🦄](https://dev.to/rammcodes/project-ideas-for-junior-frontend-developers-55mh)
-- [Remote Job Hunter&#39;s Handbook: A Practical Guide to Landing Your Dream Work From-Home Opportunity](https://dev.to/thenomadevel/remote-job-hunters-handbook-a-practical-guide-to-landing-your-dream-work-from-home-opportunity-p49)
+- [ChatGPT contributing to open-source project in action](https://dev.to/mohsenkamrani/chatgpt-contributing-toopen-source-project-in-action-1leb)
+- [How python changed the Machine Learning Game since it&#39;s inception?](https://dev.to/darkxenium/how-python-changed-the-machine-learning-game-since-its-inception-5bkk)
+- [Leveraging Serverless To Build Scalable Soluions](https://dev.to/epam_india_python/leveraging-serverless-to-build-scalable-soluions-2i93)
+- [Is Blogging Worth it?](https://dev.to/darkxenium/is-blogging-worth-it-6hh)
 <!-- BLOG-POST-LIST:END -->
 
