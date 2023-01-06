@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT contributing to open-source project in action](https://dev.to/mohsenkamrani/chatgpt-contributing-toopen-source-project-in-action-1leb)
-- [How python changed the Machine Learning Game since it&#39;s inception?](https://dev.to/darkxenium/how-python-changed-the-machine-learning-game-since-its-inception-5bkk)
-- [Leveraging Serverless To Build Scalable Soluions](https://dev.to/epam_india_python/leveraging-serverless-to-build-scalable-soluions-2i93)
-- [Is Blogging Worth it?](https://dev.to/darkxenium/is-blogging-worth-it-6hh)
+- [A Beginner&#39;s Guide to Feature Selection in Machine Learning: Techniques and Tips](https://dev.to/phylis/a-beginners-guide-to-feature-selection-in-machine-learning-techniques-and-tips-459o)
+- [Python](https://dev.to/jagroop2000/python-11c)
+- [All you &lpar;probably&rpar; need to know about caching on the web 🗃](https://dev.to/enterspeed/all-you-probably-need-to-know-about-caching-on-the-web-4loa)
+- [How to implement CAPTCHAs or reCAPTCHAs?](https://dev.to/codeofrelevancy/how-to-implement-captchas-or-recaptchas-2i17)
 <!-- BLOG-POST-LIST:END -->
 
