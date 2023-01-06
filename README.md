@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Landing Zone and Control Tower](https://dev.to/shweta_vohra/aws-landing-zone-and-control-tower-2afo)
-- [How Google Cloud is Educating the Next Generation of Cloud Engineers](https://dev.to/linearb/how-google-cloud-is-educating-the-next-generation-of-cloud-engineers-3obc)
-- [Quero contratar uma pessoa DevRel, e agora?](https://dev.to/feministech/quero-contratar-uma-pessoa-devrel-e-agora-2jdd)
-- [Quick guide for PHP prepared statements](https://dev.to/wizarddos/quick-guide-for-php-prepared-statements-26k9)
+- [Best practices for organizing and structuring your PHP code](https://dev.to/theophilus784/best-practices-for-organizing-and-structuring-your-php-code-3jf6)
+- [Elevando o nível do terminal: customizando suas funcionalidades](https://dev.to/guto/elevando-o-nivel-do-terminal-customizando-suas-funcionalidades-2amm)
+- [Secure Password Generator with HTML, CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/secure-password-generator-with-html-css-and-javascript-46pa)
+- [Tips for optimizing PHP code for better performance](https://dev.to/theophilus784/tips-for-optimizing-php-code-for-better-performance-1f0a)
 <!-- BLOG-POST-LIST:END -->
 
