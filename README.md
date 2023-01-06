@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Organizing your React code: Cohesion and Coupling](https://dev.to/cloudx/organizing-your-react-code-cohesion-and-coupling-579)
-- [How to make a Camera Android app that has photo filters? Full Code and Step by step guide](https://dev.to/dhruvjoshi9/how-to-make-a-camera-android-app-that-has-photo-filters-full-code-and-step-by-step-guide-4147)
-- [Enhancing a Stylelint plugin &lpar;with some TDD love&rpar;](https://dev.to/mbarzeev/enhancing-a-stylelint-plugin-with-some-tdd-love-hpo)
-- [Awesome Readme Examples for Writing better Readmes](https://dev.to/documatic/awesome-readme-examples-for-writing-better-readmes-3eh3)
+- [Some Common SQL commands!](https://dev.to/darkxenium/some-common-sql-commands-267g)
+- [CSS Loaders](https://dev.to/shubhamtiwari909/css-loaders-3e2a)
+- [Responsive Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-personal-portfolio-website-using-html-css-javascript-15e2)
+- [Awesome Social Media Icons With Hover Effects &lpar;Font Awesome Icons &amp; SVG Icons&rpar;](https://dev.to/amiruweerathunga/awesome-social-media-icons-with-hover-effects-font-awesome-icons-svg-icons-k0i)
 <!-- BLOG-POST-LIST:END -->
 
