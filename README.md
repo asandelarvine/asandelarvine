@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How electricity reaches computer &lpar;And why its needed&rpar;](https://dev.to/cleancodestudio/how-electricity-reaches-computer-and-why-its-needed-3hc3)
+- [Build Bingo Online with NextJS 13 and Supabase](https://dev.to/bonnguyenitc/create-bingo-online-with-nextjs-13-and-supabase-57cd)
 - [Best practices for organizing and structuring your PHP code](https://dev.to/theophilus784/best-practices-for-organizing-and-structuring-your-php-code-3jf6)
 - [Elevando o nível do terminal: customizando suas funcionalidades](https://dev.to/guto/elevando-o-nivel-do-terminal-customizando-suas-funcionalidades-2amm)
-- [Secure Password Generator with HTML, CSS, and JavaScript](https://dev.to/elliot_brenyasarfo_18749/secure-password-generator-with-html-css-and-javascript-46pa)
-- [Tips for optimizing PHP code for better performance](https://dev.to/theophilus784/tips-for-optimizing-php-code-for-better-performance-1f0a)
 <!-- BLOG-POST-LIST:END -->
 
