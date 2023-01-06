@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customize your PowerShell and Neovim [Microsoft]](https://dev.to/bekbrace/customize-your-powershell-and-neovim-microsoft-4b7d)
-- [Some Common SQL commands!](https://dev.to/darkxenium/some-common-sql-commands-267g)
-- [Create your logging server for 4$ monthly !](https://dev.to/aws-builders/create-your-logging-server-for-4-monthly--fhj)
-- [CSS Loaders](https://dev.to/shubhamtiwari909/css-loaders-3e2a)
+- [Rust on Arch Linux: Getting started](https://dev.to/nabbisen/rust-on-arch-linux-getting-started-4d56)
+- [Github VS Gitlab Vs Bitbucket](https://dev.to/harshvats2000/github-vs-gitlab-vs-bitbucket-52gl)
+- [Follow Friday: Conferences Edition &lpar;6 January 2023&rpar;](https://dev.to/devteam/follow-friday-conferences-edition-6-january-2023-1b7f)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-1p7m)
 <!-- BLOG-POST-LIST:END -->
 
