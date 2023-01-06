@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [¡Guía de introducción a Docker en español!](https://dev.to/maricarmendev/guia-de-introduccion-a-docker-en-espanol-2dfo)
+- [Python — Command line](https://dev.to/levintech/python-command-line-367g)
 - [Service Mesh and Enterprise Scale Design](https://dev.to/shweta_vohra/service-mesh-and-enterprise-scale-design-4a58)
 - [How electricity reaches computer &lpar;And why its needed&rpar;](https://dev.to/cleancodestudio/how-electricity-reaches-computer-and-why-its-needed-3hc3)
-- [Build Bingo Online with NextJS 13 and Supabase](https://dev.to/bonnguyenitc/create-bingo-online-with-nextjs-13-and-supabase-57cd)
-- [Best practices for organizing and structuring your PHP code](https://dev.to/theophilus784/best-practices-for-organizing-and-structuring-your-php-code-3jf6)
 <!-- BLOG-POST-LIST:END -->
 
