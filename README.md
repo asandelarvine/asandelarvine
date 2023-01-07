@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Block Anatomy of a Blockchain](https://dev.to/siddharthsing/block-anatomy-of-a-blockchain-4773)
 - [What is Chat GPT](https://dev.to/bibekkakati/what-is-chat-gpt-3ko6)
 - [Cycling Challenge Dashboard with HTML &amp; CSS](https://dev.to/crayoncode/cycling-challenge-dashboard-with-html-css-1gi8)
 - [Some tips for creating a resume for a data analytics position!](https://dev.to/avinash201199/some-tips-for-creating-a-resume-for-a-data-analytics-position-f9k)
-- [A simple Light/Dark theme toggle | 52 weeks of code](https://dev.to/ota200/lightdark-theme-toggle-52-weeks-of-code-35n3)
 <!-- BLOG-POST-LIST:END -->
 
