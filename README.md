@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How working/install Hadoop with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-hadoop-with-notebooks-34lj)
+- [COLDCODEWAR ON: I asked Chatgpt straight question about its affect on humans ,students &amp; developers . Here is it&#39;s answer.](https://dev.to/manishfoodtechs/coldcodewar-on-i-asked-chatgpt-straight-question-about-its-affect-on-humans-students-developers-here-is-its-answer-mfn)
 - [2022, a look back](https://dev.to/harshhhdev/2022-a-look-back-56dd)
 - [Converting a nilable generic argument to its non-nil version](https://dev.to/matthewmcgarvey/converting-a-nilable-generic-argument-to-its-non-nil-version-5gk4)
-- [Cricket Match Simulation using Machine Learning [Part 1]](https://dev.to/ashwinscode/cricket-match-simulation-using-machine-learning-part-1-1hjd)
-- [The developer who stole $300K from the e-commerce site Zulily](https://dev.to/mayankvikash/the-developer-who-stole-300k-from-the-e-commerce-site-zulily-425)
 <!-- BLOG-POST-LIST:END -->
 
