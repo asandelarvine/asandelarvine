@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Light/Dark theme toggle | 52 weeks of code](https://dev.to/ota200/lightdark-theme-toggle-52-weeks-of-code-35n3)
+- [10 open source projects you should be aware of in 2023](https://dev.to/hr21don/10-open-source-projects-you-should-be-aware-of-in-2023-19c7)
 - [WHAT IS THE DIFFERENCE BETWEEN PROOF OF WORK AND PROOF OF STAKE?](https://dev.to/stephenkimoi/what-is-the-difference-between-proof-of-work-and-proof-of-stake-2cme)
 - [Revolutionizing the Web with WebAssembly: A Comprehensive Guide](https://dev.to/cocoandrew/revolutionizing-the-web-with-webassembly-a-comprehensive-guide-fa5)
-- [Hacking a zero costs blogging system. With emails!](https://dev.to/costica/hacking-a-zero-costs-blogging-system-with-emails-2opb)
-- [Getting Started with a Web Scraping Project 🕷️🤖](https://dev.to/ken_mwaura1/getting-started-with-a-web-scraping-project-10ej)
 <!-- BLOG-POST-LIST:END -->
 
