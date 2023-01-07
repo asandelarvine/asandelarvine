@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [WHAT IS THE DIFFERENCE BETWEEN PROOF OF WORK AND PROOF OF STAKE?](https://dev.to/stephenkimoi/what-is-the-difference-between-proof-of-work-and-proof-of-stake-2cme)
 - [Revolutionizing the Web with WebAssembly: A Comprehensive Guide](https://dev.to/cocoandrew/revolutionizing-the-web-with-webassembly-a-comprehensive-guide-fa5)
+- [Hacking a zero costs blogging system. With emails!](https://dev.to/costica/hacking-a-zero-costs-blogging-system-with-emails-2opb)
 - [Getting Started with a Web Scraping Project 🕷️🤖](https://dev.to/ken_mwaura1/getting-started-with-a-web-scraping-project-10ej)
-- [Cloudflare Workers + Twilio + Mailgun: A DIY Uptime Monitoring Solution](https://dev.to/dhanushreddy29/cloudflare-workers-twilio-mailgun-a-diy-uptime-monitoring-solution-2cjf)
 <!-- BLOG-POST-LIST:END -->
 
