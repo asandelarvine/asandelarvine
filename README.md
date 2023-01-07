@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Importing SVG files as React components with Vite](https://dev.to/cassidoo/importing-svg-files-as-react-components-with-vite-l3n)
-- [Standard vs. Express vs. Custom account types for Stripe Connect](https://dev.to/stripe/standard-vs-express-vs-custom-account-types-for-stripe-connect-386j)
-- [Best Practices when working with Android Studio](https://dev.to/kuldudecs50/best-practices-when-working-with-android-studio-1ga1)
-- [Creating Auto Dynamic OG Images for Your Next.js Application with Serverless Functions](https://dev.to/ayka_code/creating-auto-dynamic-og-images-for-your-nextjs-application-with-serverless-functions-35cf)
+- [5 Simple Steps to Creating Your Very Own npm Module](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
+- [Followers become 179](https://dev.to/yukikimoto/followers-become-179-57b4)
+- [Twitter Data Pipeline with Apache Airflow + MinIO &lpar;S3 compatible Object Storage&rpar;](https://dev.to/mikekenneth77/twitter-data-pipeline-with-apache-airflow-minio-s3-compatible-object-storage-2g4h)
+- [Deploy Django Docker Compose to Heroku](https://dev.to/geetechlab/deploy-django-docker-compose-to-heroku-2m6o)
 <!-- BLOG-POST-LIST:END -->
 
