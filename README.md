@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [No to Imperative Code! Because Debugging Spaghetti is No Fun](https://dev.to/noriller/no-to-imperative-code-because-debugging-spaghetti-is-no-fun-4hle)
+- [What is destructuring in JavaScript?](https://dev.to/ezinne_anne/what-is-destructuring-in-javascript-1aae)
 - [How working/install Hadoop with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-hadoop-with-notebooks-34lj)
 - [COLDCODEWAR ON: I asked Chatgpt straight question about its affect on humans ,students &amp; developers . Here is it&#39;s answer.](https://dev.to/manishfoodtechs/coldcodewar-on-i-asked-chatgpt-straight-question-about-its-affect-on-humans-students-developers-here-is-its-answer-mfn)
-- [2022, a look back](https://dev.to/harshhhdev/2022-a-look-back-56dd)
-- [Converting a nilable generic argument to its non-nil version](https://dev.to/matthewmcgarvey/converting-a-nilable-generic-argument-to-its-non-nil-version-5gk4)
 <!-- BLOG-POST-LIST:END -->
 
