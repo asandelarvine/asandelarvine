@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with a Web Scraping Project](https://dev.to/ken_mwaura1/getting-started-with-a-web-scraping-project-10ej)
-- [How to set up Font Awesome in React](https://dev.to/davidemaye/how-to-set-up-font-awesome-in-react-5a8d)
-- [IP Address: A concept we must know](https://dev.to/pragyasapkota/ip-address-a-concept-we-must-know-30al)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak III](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iii-f79)
+- [WHAT IS THE DIFFERENCE BETWEEN PROOF OF WORK AND PROOF OF STAKE?](https://dev.to/stephenkimoi/what-is-the-difference-between-proof-of-work-and-proof-of-stake-2cme)
+- [Revolutionizing the Web with WebAssembly: A Comprehensive Guide](https://dev.to/cocoandrew/revolutionizing-the-web-with-webassembly-a-comprehensive-guide-fa5)
+- [Getting Started with a Web Scraping Project 🕷️🤖](https://dev.to/ken_mwaura1/getting-started-with-a-web-scraping-project-10ej)
+- [Cloudflare Workers + Twilio + Mailgun: A DIY Uptime Monitoring Solution](https://dev.to/dhanushreddy29/cloudflare-workers-twilio-mailgun-a-diy-uptime-monitoring-solution-2cjf)
 <!-- BLOG-POST-LIST:END -->
 
