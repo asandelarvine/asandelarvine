@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [2022, a look back](https://dev.to/harshhhdev/2022-a-look-back-56dd)
+- [Converting a nilable generic argument to its non-nil version](https://dev.to/matthewmcgarvey/converting-a-nilable-generic-argument-to-its-non-nil-version-5gk4)
 - [Cricket Match Simulation using Machine Learning [Part 1]](https://dev.to/ashwinscode/cricket-match-simulation-using-machine-learning-part-1-1hjd)
-- [Top 5 cryptocurrency APIs for developers ©️](https://dev.to/mariamarsh/top-5-cryptocurrency-apis-for-developers-c-8i)
-- [How to Create a QR-Code with React](https://dev.to/franciscomendes10866/how-to-create-a-qr-code-with-react-5aj9)
+- [The developer who stole $300K from the e-commerce site Zulily](https://dev.to/mayankvikash/the-developer-who-stole-300k-from-the-e-commerce-site-zulily-425)
 <!-- BLOG-POST-LIST:END -->
 
