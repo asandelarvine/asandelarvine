@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No to Imperative Code! Because Debugging Spaghetti is No Fun](https://dev.to/noriller/no-to-imperative-code-because-debugging-spaghetti-is-no-fun-4hle)
-- [What is destructuring in JavaScript?](https://dev.to/ezinne_anne/what-is-destructuring-in-javascript-1aae)
-- [How working/install Hadoop with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-hadoop-with-notebooks-34lj)
-- [COLDCODEWAR ON: I asked Chatgpt straight question about its affect on humans ,students &amp; developers . Here is it&#39;s answer.](https://dev.to/manishfoodtechs/coldcodewar-on-i-asked-chatgpt-straight-question-about-its-affect-on-humans-students-developers-here-is-its-answer-mfn)
+- [Performance comparison: ReductStore vs. Minio](https://dev.to/reductstore/performance-comparison-reductstore-vs-minio-5cek)
+- [6 Project Management Tools To Boost Your Productivity](https://dev.to/arafat4693/5-project-management-tools-to-boost-your-productivity-2d20)
+- [Comparing Netlify and GitHub Pages: A Detailed Look at Two Popular Static Website Hosting Platforms](https://dev.to/nvspavankalyan/comparing-netlify-and-github-pages-a-detailed-look-at-two-popular-static-website-hosting-platforms-4j21)
+- [TIL: You can create your own GitHub Actions workflow templates](https://dev.to/jcbhmr/til-you-can-create-your-own-github-actions-workflow-templates-41e4)
 <!-- BLOG-POST-LIST:END -->
 
