@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Take Your Python Skills to the Next Level with Built-in Data Structures](https://dev.to/anurag629/take-your-python-skills-to-the-next-level-with-built-in-data-structures-5ec7)
 - [Bundling YAMLs for Kubernetes with Helm](https://dev.to/aniket762/bundling-yamls-for-kubernetes-with-helm-4pck)
 - [Python - Numpy](https://dev.to/levintech/python-numpy-3aaa)
 - [Die besten 10 Podcast-Folgen für Webentwickler 2022](https://dev.to/koality/die-besten-10-podcast-folgen-fur-webentwickler-2022-23ln)
-- [5 Simple Steps to Creating Your Very Own npm Module](https://dev.to/basskibo/5-simple-steps-to-creating-your-very-own-npm-module-3j74)
 <!-- BLOG-POST-LIST:END -->
 
