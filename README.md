@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [2022, a look back](https://dev.to/harshhhdev/2022-a-look-back-56dd)
+- [Cricket Match Simulation using Machine Learning [Part 1]](https://dev.to/ashwinscode/cricket-match-simulation-using-machine-learning-part-1-1hjd)
 - [Top 5 cryptocurrency APIs for developers ©️](https://dev.to/mariamarsh/top-5-cryptocurrency-apis-for-developers-c-8i)
 - [How to Create a QR-Code with React](https://dev.to/franciscomendes10866/how-to-create-a-qr-code-with-react-5aj9)
-- [Blockchain Block Anatomy](https://dev.to/siddharthsing/block-anatomy-of-a-blockchain-4773)
-- [What is Chat GPT](https://dev.to/bibekkakati/what-is-chat-gpt-3ko6)
 <!-- BLOG-POST-LIST:END -->
 
