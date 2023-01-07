@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [IP Address: A concept we must know](https://dev.to/pragyasapkota/ip-address-a-concept-we-must-know-30al)
 - [Double pendulums, how do they work? | Physics | Simulation | TypeScript](https://dev.to/nordicbeaver/double-pendulums-how-do-they-work-physics-simulation-typescript-2cg1)
 - [Take Your Python Skills to the Next Level with Built-in Data Structures](https://dev.to/anurag629/take-your-python-skills-to-the-next-level-with-built-in-data-structures-5ec7)
 - [Bundling YAMLs for Kubernetes with Helm](https://dev.to/aniket762/bundling-yamls-for-kubernetes-with-helm-4pck)
-- [Creating A Markdown Blog With Nextjs](https://dev.to/ethand91/creating-a-markdown-blog-with-nextjs-1dci)
 <!-- BLOG-POST-LIST:END -->
 
