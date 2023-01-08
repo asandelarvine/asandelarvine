@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Excelize 2.7.0 Released - Go language API for spreadsheets &lpar;Excel&rpar; files](https://dev.to/xuri/excelize-270-released-go-language-api-for-spreadsheets-excel-files-9en)
 - [8 React Projects to Build in 2023](https://dev.to/reedbarger/8-react-projects-to-build-in-2023-49c8)
 - [The useDeferredValue hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usedeferredvalue-hook-react-170-beta-features-5bpo)
 - [Flyway Migrations Naming Strategy in a Big Project](https://dev.to/kirekov/flyway-migrations-naming-strategy-in-a-big-project-51fp)
-- [6 Ways to loop over arrays in Javascript](https://dev.to/mitchiemt11/6-ways-to-loop-over-arrays-in-javascript-lgl)
 <!-- BLOG-POST-LIST:END -->
 
