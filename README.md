@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [6 Ways to loop over arrays in Javascript](https://dev.to/mitchiemt11/6-ways-to-loop-over-arrays-in-javascript-lgl)
+- [Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/text-sharing-website-using-simple-javascript-2dp5)
 - [Learning programming should not suck](https://dev.to/robole/learning-programming-should-not-suck-35fj)
 - [Is it worth Switching to Mint OS from windows?](https://dev.to/darkxenium/is-it-worth-switching-to-mint-os-from-windows-8mb)
-- [How to build your IT startup in 2023 as a young IT professional and entrepreneur](https://dev.to/asadravian/how-to-build-your-it-startup-in-2023-as-a-young-it-professional-and-entrepreneur-54c4)
 <!-- BLOG-POST-LIST:END -->
 
