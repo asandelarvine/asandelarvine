@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Ways to loop over arrays in Javascript](https://dev.to/mitchiemt11/6-ways-to-loop-over-arrays-in-javascript-lgl)
 - [Learning programming should not suck](https://dev.to/robole/learning-programming-should-not-suck-35fj)
 - [Is it worth Switching to Mint OS from windows?](https://dev.to/darkxenium/is-it-worth-switching-to-mint-os-from-windows-8mb)
 - [How to build your IT startup in 2023 as a young IT professional and entrepreneur](https://dev.to/asadravian/how-to-build-your-it-startup-in-2023-as-a-young-it-professional-and-entrepreneur-54c4)
-- [The Magic of CSS Filters and Hover Effects](https://dev.to/elliot_brenyasarfo_18749/the-magic-of-css-filters-and-hover-effects-2fjd)
 <!-- BLOG-POST-LIST:END -->
 
