@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A year in review &lpar;2022&rpar;](https://dev.to/enaughton/a-year-in-review-2022-232n)
 - [How I use ChatGPT to create a game](https://dev.to/ytskk/how-i-use-chatgpt-to-create-a-game-1gob)
-- [Chrome ® Powered Web Scraping with Puppeteer: Boosting Speed and Efficiency](https://dev.to/mzanbagh/chrome-r-powered-web-scraping-with-puppeteer-boosting-speed-and-efficiency-32bf)
+- [Chrome® Powered Web Scraping with Puppeteer: Boosting Speed and Efficiency](https://dev.to/mzanbagh/chrome-r-powered-web-scraping-with-puppeteer-boosting-speed-and-efficiency-32bf)
 - [You Should Use Releases on GitHub](https://dev.to/jonasbn/you-should-use-releases-on-github-24b1)
-- [Mastering API Testing and Exploring the Power of Postman: A Comprehensive Guide](https://dev.to/mzanbagh/mastering-api-testing-and-exploring-the-power-of-postman-a-comprehensive-guide-741)
 <!-- BLOG-POST-LIST:END -->
 
