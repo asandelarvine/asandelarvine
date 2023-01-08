@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VALL - E](https://dev.to/highnitin/vall-e-5hj3)
+- [Introduction to Tailwind CSS](https://dev.to/basskibo/introduction-to-tailwind-css-2g3)
+- [How to learn a web framework &lpar;time-efficiently&rpar;](https://dev.to/yasiendwieb/how-to-learn-a-web-framework-time-efficiently-4o01)
 - [Supercharge Your Skills: 7 Tips for Writing Clean and Efficient JavaScript](https://dev.to/mohsenkamrani/supercharge-your-skills-7-tips-for-writing-clean-and-efficient-javascript-1gjf)
-- [Removing Google Analytics does it have an impact on the ranking?](https://dev.to/thomasbnt/removing-google-analytics-does-it-have-an-impact-on-the-ranking-4de)
-- [Performance comparison: ReductStore vs. Minio](https://dev.to/reductstore/performance-comparison-reductstore-vs-minio-5cek)
-- [6 Project Management Tools To Boost Your Productivity](https://dev.to/arafat4693/5-project-management-tools-to-boost-your-productivity-2d20)
 <!-- BLOG-POST-LIST:END -->
 
