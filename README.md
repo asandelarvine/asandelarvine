@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Effortless UI Testing with CircleCI and Cypress Integration: A Guide to Testing Components and Functionality on a Website](https://dev.to/mzanbagh/effortless-ui-testing-with-circleci-and-cypress-integration-a-guide-to-testing-components-and-functionality-on-a-website-29b4)
 - [PyBricks ile ileri geri ve sağa sola dönme](https://dev.to/aliorhun/pybricks-ile-ileri-geri-ve-saga-sola-donme-45h3)
 - [Removing Google Analytics and Replacing it with a cookie free Javascript Geo Tracking app](https://dev.to/rickdelpo1/removing-google-analytics-and-replacing-it-with-a-cookie-free-javascript-geo-tracking-app-2dko)
 - [Create a project in React without create-react-app/vite 2023 &lpar;Spanish&rpar;](https://dev.to/alfredocu/create-a-project-in-react-without-create-react-appvite-2023-spanish-12nd)
-- [Redirects and rewrites with Edge computing](https://dev.to/aws-builders/redirects-and-rewrites-with-edge-computing-3ei4)
 <!-- BLOG-POST-LIST:END -->
 
