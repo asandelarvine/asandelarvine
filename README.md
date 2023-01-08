@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 React Projects to Build in 2023](https://dev.to/reedbarger/8-react-projects-to-build-in-2023-49c8)
+- [The useDeferredValue hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usedeferredvalue-hook-react-170-beta-features-5bpo)
+- [Flyway Migrations Naming Strategy in a Big Project](https://dev.to/kirekov/flyway-migrations-naming-strategy-in-a-big-project-51fp)
 - [6 Ways to loop over arrays in Javascript](https://dev.to/mitchiemt11/6-ways-to-loop-over-arrays-in-javascript-lgl)
-- [Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/text-sharing-website-using-simple-javascript-2dp5)
-- [Learning programming should not suck](https://dev.to/robole/learning-programming-should-not-suck-35fj)
-- [Is it worth Switching to Mint OS from windows?](https://dev.to/darkxenium/is-it-worth-switching-to-mint-os-from-windows-8mb)
 <!-- BLOG-POST-LIST:END -->
 
