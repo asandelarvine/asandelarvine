@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Excelize 2.7.0 Released - Go language API for spreadsheets &lpar;Excel&rpar; files](https://dev.to/xuri/excelize-270-released-go-language-api-for-spreadsheets-excel-files-9en)
-- [8 React Projects to Build in 2023](https://dev.to/reedbarger/8-react-projects-to-build-in-2023-49c8)
-- [The useDeferredValue hook - React 17.0 beta features](https://dev.to/alfredosalzillo/the-usedeferredvalue-hook-react-170-beta-features-5bpo)
-- [Flyway Migrations Naming Strategy in a Big Project](https://dev.to/kirekov/flyway-migrations-naming-strategy-in-a-big-project-51fp)
+- [PyBricks ile ileri geri ve sağa sola dönme](https://dev.to/aliorhun/pybricks-ile-ileri-geri-ve-saga-sola-donme-45h3)
+- [Removing Google Analytics and Replacing it with a cookie free Javascript Geo Tracking app](https://dev.to/rickdelpo1/removing-google-analytics-and-replacing-it-with-a-cookie-free-javascript-geo-tracking-app-2dko)
+- [Create a project in React without create-react-app/vite 2023 &lpar;Spanish&rpar;](https://dev.to/alfredocu/create-a-project-in-react-without-create-react-appvite-2023-spanish-12nd)
+- [Redirects and rewrites with Edge computing](https://dev.to/aws-builders/redirects-and-rewrites-with-edge-computing-3ei4)
 <!-- BLOG-POST-LIST:END -->
 
