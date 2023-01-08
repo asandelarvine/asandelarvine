@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build your IT startup in 2023 as a young IT professional and entrepreneur](https://dev.to/asadravian/how-to-build-your-it-startup-in-2023-as-a-young-it-professional-and-entrepreneur-54c4)
+- [My Open-Source Project Got More Than 2.3K Github Stars 🤯⭐](https://dev.to/rammcodes/my-open-source-project-got-more-than-23k-github-stars-5deo)
+- [Juicy Regular Expression&lpar;REGEX&rpar; Patterns For Everyone](https://dev.to/arafat4693/maximize-your-productivity-with-these-handy-regular-expressionregex-patterns-14dh)
 - [How to download fancy QR Codes with React](https://dev.to/anshsaini/how-to-download-fancy-qr-codes-with-react-b25)
-- [JavaScript null is weird](https://dev.to/niza/javascript-null-is-weird-33o9)
-- [⚡️React Performance Optimization: useMemo vs useCallback](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)
-- [Learning Kafka Part 4 &lpar;I&rpar;: Producers and Consumers](https://dev.to/ibrahim_anis/learning-kafka-part-4-i-producers-and-consumers-aa9)
 <!-- BLOG-POST-LIST:END -->
 
