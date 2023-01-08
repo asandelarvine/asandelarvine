@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [A year in review &lpar;2022&rpar;](https://dev.to/enaughton/a-year-in-review-2022-232n)
+- [State Management in Frontend Development: An Overview and Case Study](https://dev.to/hitonomi_0/state-management-in-frontend-development-an-overview-and-case-study-2a)
+- [Mastering Code Review: A Guide for Reviewers](https://dev.to/hitonomi_0/mastering-code-review-a-guide-for-reviewers-509)
 - [How I use ChatGPT to create a game](https://dev.to/ytskk/how-i-use-chatgpt-to-create-a-game-1gob)
-- [Chrome® Powered Web Scraping with Puppeteer: Boosting Speed and Efficiency](https://dev.to/mzanbagh/chrome-r-powered-web-scraping-with-puppeteer-boosting-speed-and-efficiency-32bf)
-- [You Should Use Releases on GitHub](https://dev.to/jonasbn/you-should-use-releases-on-github-24b1)
 <!-- BLOG-POST-LIST:END -->
 
