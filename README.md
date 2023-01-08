@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter 3 の状態管理 &lpar;State、ステート&rpar;: アプローチ &lpar;概念&rpar;](https://dev.to/nabbisen/flutter-3-nozhuang-tai-guan-li-state-suteto-apuroti-gai-nian--2lmj)
-- [How to install and Configure NVM on Mac OS](https://dev.to/ajeetraina/how-to-install-and-configure-nvm-on-mac-os-5fgi)
-- [Running ChatGPT Locally using Docker Desktop](https://dev.to/docker/running-chatgpt-locally-using-docker-desktop-2i31)
-- [VALL - E](https://dev.to/highnitin/vall-e-5hj3)
+- [OOP in Python: A Practical Guide](https://dev.to/anurag629/oop-in-python-a-practical-guide-10mj)
+- [Build a custom MySQL Docker Container](https://dev.to/sumana2001/build-a-custom-mysql-docker-container-404f)
+- [7 Amazing GitHub Repositories Every Developer Should Follow in 2023](https://dev.to/ruppysuppy/7-amazing-github-repositories-every-developer-should-follow-in-2023-53i8)
+- [Flutter 3 の状態管理: アプローチ &lpar;概念&rpar;](https://dev.to/nabbisen/flutter-3-nozhuang-tai-guan-li-state-suteto-apuroti-gai-nian--2lmj)
 <!-- BLOG-POST-LIST:END -->
 
