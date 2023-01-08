@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless UI Testing with CircleCI and Cypress Integration: A Guide to Testing Components and Functionality on a Website](https://dev.to/mzanbagh/effortless-ui-testing-with-circleci-and-cypress-integration-a-guide-to-testing-components-and-functionality-on-a-website-29b4)
-- [PyBricks ile ileri geri ve sağa sola dönme](https://dev.to/aliorhun/pybricks-ile-ileri-geri-ve-saga-sola-donme-45h3)
-- [Removing Google Analytics and Replacing it with a cookie free Javascript Geo Tracking app](https://dev.to/rickdelpo1/removing-google-analytics-and-replacing-it-with-a-cookie-free-javascript-geo-tracking-app-2dko)
-- [Create a project in React without create-react-app/vite 2023 &lpar;Spanish&rpar;](https://dev.to/alfredocu/create-a-project-in-react-without-create-react-appvite-2023-spanish-12nd)
+- [How I use ChatGPT to create a game](https://dev.to/ytskk/how-i-use-chatgpt-to-create-a-game-1gob)
+- [Chrome ® Powered Web Scraping with Puppeteer: Boosting Speed and Efficiency](https://dev.to/mzanbagh/chrome-r-powered-web-scraping-with-puppeteer-boosting-speed-and-efficiency-32bf)
+- [You Should Use Releases on GitHub](https://dev.to/jonasbn/you-should-use-releases-on-github-24b1)
+- [Mastering API Testing and Exploring the Power of Postman: A Comprehensive Guide](https://dev.to/mzanbagh/mastering-api-testing-and-exploring-the-power-of-postman-a-comprehensive-guide-741)
 <!-- BLOG-POST-LIST:END -->
 
