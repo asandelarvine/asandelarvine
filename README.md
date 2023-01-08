@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.nectw721.com](https://dev.to/twcctz2000/httpswwwnectw721com-ngh)
+- [Learning Kafka Part 4 &lpar;I&rpar;: Producers and Consumers](https://dev.to/ibrahim_anis/learning-kafka-part-4-i-producers-and-consumers-aa9)
 - [Deploying Django to Railway: A Comprehensive Guide](https://dev.to/evansifyke/deploying-django-to-railway-a-comprehensive-guide-256b)
 - [How to Create an Astro JS Project - Quick Start Guide](https://dev.to/danidiaztech/how-to-create-an-astro-js-project-quick-start-guide-1hgm)
-- [Helping developers find remote jobs since 2019](https://dev.to/ugglr/helping-developers-find-remote-jobs-since-2019-d16)
-- [OOP in Python: A Practical Guide](https://dev.to/anurag629/oop-in-python-a-practical-guide-10mj)
 <!-- BLOG-POST-LIST:END -->
 
