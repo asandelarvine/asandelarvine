@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter 3 の状態管理 &lpar;State、ステート&rpar;: アプローチ &lpar;概念&rpar;](https://dev.to/nabbisen/flutter-3-nozhuang-tai-guan-li-state-suteto-apuroti-gai-nian--2lmj)
+- [How to install and Configure NVM on Mac OS](https://dev.to/ajeetraina/how-to-install-and-configure-nvm-on-mac-os-5fgi)
+- [Running ChatGPT Locally using Docker Desktop](https://dev.to/docker/running-chatgpt-locally-using-docker-desktop-2i31)
 - [VALL - E](https://dev.to/highnitin/vall-e-5hj3)
-- [Introduction to Tailwind CSS](https://dev.to/basskibo/introduction-to-tailwind-css-2g3)
-- [How to learn a web framework &lpar;time-efficiently&rpar;](https://dev.to/yasiendwieb/how-to-learn-a-web-framework-time-efficiently-4o01)
-- [Supercharge Your Skills: 7 Tips for Writing Clean and Efficient JavaScript](https://dev.to/mohsenkamrani/supercharge-your-skills-7-tips-for-writing-clean-and-efficient-javascript-1gjf)
 <!-- BLOG-POST-LIST:END -->
 
