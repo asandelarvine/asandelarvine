@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [rustup が &quot;error: linker `cc` not found&quot; で失敗 - Alpine Linux 3.17 &lpar;Rust 1.66&rpar;](https://dev.to/nabbisen/rustup-ga-error-linker-cc-not-found-deshi-bai-alpine-linux-317-rust-166-2k41)
+- [Fix rustup failed with &quot;error: linker `cc` not found&quot; on Alpine Linux 3.17 &lpar;Rust 1.66&rpar;](https://dev.to/nabbisen/fix-rustup-failed-with-error-linker-cc-not-found-on-alpine-linux-317-rust-166-jam)
 - [The Fastest Way to Generate QR Codes: The QR Generator API](https://dev.to/amolkalra/the-fastest-way-to-generate-qr-codes-the-qr-generator-api-1hm2)
 - [React &amp; TypeScript: How to use Context API and useReducer with Firestore Database?](https://dev.to/elhamnajeebullah/react-typescript-how-to-use-context-api-and-usereducer-with-firestore-database-1oik)
-- [🚀Top 9+ Node.js Templates and Dashboards to Boost Your Workflow🚀](https://dev.to/artborovik/top-9-nodejs-templates-and-dashboards-to-boost-your-workflow-42b1)
-- [Quick Start with the ReductStore Python SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-python-sdk-n30)
 <!-- BLOG-POST-LIST:END -->
 
