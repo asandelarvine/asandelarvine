@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Hip Hop Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-hip-hop-edition-377n)
 - [Gitlab-CI - Comment partager des variables d&#39;environnement dans after_script?](https://dev.to/mxglt/gitlab-ci-comment-partager-des-variables-denvironnement-dans-afterscript-47nj)
 - [Meme Monday 🐌](https://dev.to/ben/meme-monday-55fp)
 - [Creating Animations and Transitions with CSS](https://dev.to/ariellun/creating-animations-and-transitions-with-css-2eo3)
-- [Porque GitHub Codespaces é a melhor ferramenta para seu Workshop de programação](https://dev.to/github/porque-github-codespaces-e-a-melhor-ferramenta-para-seu-workshop-de-programacao-607)
 <!-- BLOG-POST-LIST:END -->
 
