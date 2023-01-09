@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The benefits of pair programming for new developers 🚀](https://dev.to/ricovz/the-benefits-of-pair-programming-for-new-developers-in0)
+- [LeetCode&#39;s Defanging an IP Address - Java Solution Beats 100% Memory &amp; 92% Runtime](https://dev.to/verisimilitude11/leetcodes-defanging-an-ip-address-java-solution-beats-100-memory-92-runtime-473p)
 - [Learn It Once: “Golang Pointers are Powerful”](https://dev.to/doziestar/learn-it-once-golang-pointers-are-powerful-4840)
 - [4 Different ways to Broadcast SRT Streams](https://dev.to/dolbyio/4-different-ways-to-broadcast-srt-streams-21jj)
-- [Thank you dev.to!](https://dev.to/derlin/thank-you-devto-4fjg)
-- [Jenkins for running scripts!](https://dev.to/scotticles/jenkins-for-running-scripts-kg1)
 <!-- BLOG-POST-LIST:END -->
 
