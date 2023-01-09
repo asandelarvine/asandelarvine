@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn It Once: “Golang Pointers are Powerful”](https://dev.to/doziestar/learn-it-once-golang-pointers-are-powerful-4840)
+- [4 Different ways to Broadcast SRT Streams](https://dev.to/dolbyio/4-different-ways-to-broadcast-srt-streams-21jj)
+- [Jenkins for running scripts!](https://dev.to/scotticles/jenkins-for-running-scripts-kg1)
 - [Tales of the helpdesk intern](https://dev.to/smeetsmeister/tales-of-the-helpdesk-intern-1333)
-- [Things Tech People Say 💭](https://dev.to/jennherrarte/things-tech-people-say-2a3e)
-- [Your GitHub year in review - 10 fun ways to visualize your contributions](https://dev.to/github/your-github-year-in-review-10-fun-ways-to-visualize-your-contributions-392o)
-- [Bookmark This: The 10 Most-Used Linux Commands You Should Know](https://dev.to/kinsta/bookmark-this-the-10-most-used-linux-commands-you-should-know-5dfp)
 <!-- BLOG-POST-LIST:END -->
 
