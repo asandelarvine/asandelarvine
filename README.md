@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NodeJS vs Python: Choose the Best Tech for Backend Development](https://dev.to/davedhaval/nodejs-vs-python-choose-the-best-tech-for-backend-development-281b)
+- [Install Ruby 3.2.0 with YJIT](https://dev.to/wizardhealth/install-ruby-320-with-yjit-3mmo)
+- [Diamond swipe animation for revealing text](https://dev.to/robole/diamond-swipe-animation-for-revealing-text-534)
 - [Effortlessly manage configuration data in your Node.js microservices with nconf](https://dev.to/asifroyal/effortlessly-manage-configuration-data-in-your-nodejs-microservices-with-nconf-1hl6)
-- [3 reasons why any website&#39;s security is important](https://dev.to/smartscanner/3-reasons-why-any-websites-security-is-important-1m52)
-- [CSS Loading Animation - 1](https://dev.to/shubhamtiwari909/css-loading-animation-1-4568)
-- [The Unofficial Official Beginner&#39;s Guide to starting out in Developer Relations.](https://dev.to/ifeoma/the-unofficial-official-beginners-guide-to-starting-out-in-developer-relations-48op)
 <!-- BLOG-POST-LIST:END -->
 
