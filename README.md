@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ddosify Latency Testing GitHub Action](https://dev.to/fatihbaltaci/ddosify-latency-testing-github-action-4jpf)
+- [AWS open source newsletter, #140](https://dev.to/aws/aws-open-source-newsletter-140-1ie8)
 - [Introducing the Rails Template Project](https://dev.to/tonimontana/introducing-the-rails-template-project-1oep)
 - [Laravel + Vue 3 &lpar;Vite, TypeScript&rpar; SPA Setup](https://dev.to/brojenuel/laravel-vue-3-vite-typescript-spa-setup-32l9)
-- [Share private code using Share code snippets](https://dev.to/goonlinetools/share-private-code-using-share-code-snippets-44o7)
-- [Rust WebAssembly &lpar;wasm&rpar; on Arch Linux with Webpack &lpar;Rust 1.66&rpar;](https://dev.to/nabbisen/rust-webassembly-wasm-on-arch-linux-with-webpack-rust-166-3aj6)
 <!-- BLOG-POST-LIST:END -->
 
