@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Hip Hop Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-hip-hop-edition-377n)
-- [Gitlab-CI - Comment partager des variables d&#39;environnement dans after_script?](https://dev.to/mxglt/gitlab-ci-comment-partager-des-variables-denvironnement-dans-afterscript-47nj)
-- [Meme Monday 🐌](https://dev.to/ben/meme-monday-55fp)
-- [Creating Animations and Transitions with CSS](https://dev.to/ariellun/creating-animations-and-transitions-with-css-2eo3)
+- [Axios GET and POST examples](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
+- [Actually, dark mode can save the planet](https://dev.to/shadowfaxrodeo/actually-dark-mode-can-save-the-planet-3fg6)
+- [Top 5+ useful ReactJS Plugins for 2023](https://dev.to/fredy/top-5-useful-reactjs-plugins-for-2023-e97)
+- [Status codes in API Testing🆗🆘](https://dev.to/mariamarsh/status-codes-in-api-testing-5fgm)
 <!-- BLOG-POST-LIST:END -->
 
