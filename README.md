@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀Top 9+ Node.js Templates and Dashboards to Boost Your Workflow🚀](https://dev.to/artborovik/top-9-nodejs-templates-and-dashboards-to-boost-your-workflow-42b1)
+- [Quick Start with the ReductStore Python SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-python-sdk-n30)
+- [Build a reorderable list in react](https://dev.to/h8moss/build-a-reorderable-list-in-react-29on)
 - [A year in review &lpar;2022&rpar;](https://dev.to/enaughton/a-year-in-review-2022-232n)
-- [State Management in Frontend Development: An Overview and Case Study](https://dev.to/hitonomi_0/state-management-in-frontend-development-an-overview-and-case-study-2a)
-- [Mastering Code Review: A Guide for Reviewers](https://dev.to/hitonomi_0/mastering-code-review-a-guide-for-reviewers-509)
-- [How I use ChatGPT to create a game](https://dev.to/ytskk/how-i-use-chatgpt-to-create-a-game-1gob)
 <!-- BLOG-POST-LIST:END -->
 
