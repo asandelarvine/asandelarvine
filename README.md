@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NumPy 101: A Beginner&#39;s Guide to Data Science with Python](https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an)
-- [Progressive Web Apps : An introduction](https://dev.to/vnaydev/progressive-web-apps-an-introduction-1k5j)
-- [rustup が &quot;error: linker `cc` not found&quot; で失敗 - Alpine Linux 3.17 &lpar;Rust 1.66&rpar;](https://dev.to/nabbisen/rustup-ga-error-linker-cc-not-found-deshi-bai-alpine-linux-317-rust-166-2k41)
-- [Fix rustup failed with &quot;error: linker `cc` not found&quot; on Alpine Linux 3.17 &lpar;Rust 1.66&rpar;](https://dev.to/nabbisen/fix-rustup-failed-with-error-linker-cc-not-found-on-alpine-linux-317-rust-166-jam)
+- [Rust WebAssembly &lpar;wasm&rpar; on Arch Linux with Webpack &lpar;Rust 1.66&rpar;](https://dev.to/nabbisen/rust-webassembly-wasm-on-arch-linux-with-webpack-rust-166-3aj6)
+- [DevOps is Dead!](https://dev.to/simonholdorf/devops-is-dead-2n7b)
+- [Configuring Docker Syslog Logging Driver for Docker Dameon &amp; Containers](https://dev.to/danielfavour/configuring-docker-syslog-logging-driver-for-docker-dameon-containers-1aoj)
+- [Implementing Microservice Architecture In Node JS](https://dev.to/lovepreetsingh/implementing-microservice-architecture-in-node-js-1fg3)
 <!-- BLOG-POST-LIST:END -->
 
