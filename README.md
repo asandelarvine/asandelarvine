@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Learn It Once: “Golang Pointers are Powerful”](https://dev.to/doziestar/learn-it-once-golang-pointers-are-powerful-4840)
 - [4 Different ways to Broadcast SRT Streams](https://dev.to/dolbyio/4-different-ways-to-broadcast-srt-streams-21jj)
+- [Thank you dev.to!](https://dev.to/derlin/thank-you-devto-4fjg)
 - [Jenkins for running scripts!](https://dev.to/scotticles/jenkins-for-running-scripts-kg1)
-- [Tales of the helpdesk intern](https://dev.to/smeetsmeister/tales-of-the-helpdesk-intern-1333)
 <!-- BLOG-POST-LIST:END -->
 
