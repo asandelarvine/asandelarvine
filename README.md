@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Your GitHub year in review - 10 fun ways to visualize your contributions](https://dev.to/github/your-github-year-in-review-10-fun-ways-to-visualize-your-contributions-392o)
+- [Por que autenticação e autorização são importantes para desenvolvedores?](https://dev.to/gabogaldino/por-que-autenticacao-e-autorizacao-sao-importantes-para-desenvolvedores-15ia)
+- [Running the KubernetesPodOperator in different AWS accounts when using Amazon Managed Workflows for Apache Airflow v2.x](https://dev.to/aws/running-the-kubernetespodoperator-in-different-aws-accounts-when-using-amazon-managed-workflows-for-apache-airflow-v2x-51l7)
 - [Axios GET and POST examples](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
-- [Actually, dark mode can save the planet](https://dev.to/shadowfaxrodeo/actually-dark-mode-can-save-the-planet-3fg6)
-- [Top 5+ useful ReactJS Plugins for 2023](https://dev.to/fredy/top-5-useful-reactjs-plugins-for-2023-e97)
-- [Status codes in API Testing🆗🆘](https://dev.to/mariamarsh/status-codes-in-api-testing-5fgm)
 <!-- BLOG-POST-LIST:END -->
 
