@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogging with Next.js and MDX: The ultimate combination for dynamic content](https://dev.to/basskibo/blogging-with-nextjs-and-mdx-the-ultimate-combination-for-dynamic-content-4ooe)
-- [Python Web Development Using Django in 2023](https://dev.to/quokkalabs/python-web-development-using-django-in-2023-1ced)
-- [Understanding MongoDB Aggregation Pipeline](https://dev.to/qbentil/understanding-mongodb-aggregation-pipeline-3964)
-- [Ddosify Latency Testing GitHub Action](https://dev.to/fatihbaltaci/ddosify-latency-testing-github-action-4jpf)
+- [Effortlessly manage configuration data in your Node.js microservices with nconf](https://dev.to/asifroyal/effortlessly-manage-configuration-data-in-your-nodejs-microservices-with-nconf-1hl6)
+- [3 reasons why any website&#39;s security is important](https://dev.to/smartscanner/3-reasons-why-any-websites-security-is-important-1m52)
+- [CSS Loading Animation - 1](https://dev.to/shubhamtiwari909/css-loading-animation-1-4568)
+- [The Unofficial Official Beginner&#39;s Guide to starting out in Developer Relations.](https://dev.to/ifeoma/the-unofficial-official-beginners-guide-to-starting-out-in-developer-relations-48op)
 <!-- BLOG-POST-LIST:END -->
 
