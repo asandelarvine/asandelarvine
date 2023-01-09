@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fastest Way to Generate QR Codes: The QR Generator API](https://dev.to/amolkalra/the-fastest-way-to-generate-qr-codes-the-qr-generator-api-1hm2)
+- [React &amp; TypeScript: How to use Context API and useReducer with Firestore Database?](https://dev.to/elhamnajeebullah/react-typescript-how-to-use-context-api-and-usereducer-with-firestore-database-1oik)
 - [🚀Top 9+ Node.js Templates and Dashboards to Boost Your Workflow🚀](https://dev.to/artborovik/top-9-nodejs-templates-and-dashboards-to-boost-your-workflow-42b1)
 - [Quick Start with the ReductStore Python SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-python-sdk-n30)
-- [Build a reorderable list in react](https://dev.to/h8moss/build-a-reorderable-list-in-react-29on)
-- [A year in review &lpar;2022&rpar;](https://dev.to/enaughton/a-year-in-review-2022-232n)
 <!-- BLOG-POST-LIST:END -->
 
