@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tales of the helpdesk intern](https://dev.to/smeetsmeister/tales-of-the-helpdesk-intern-1333)
+- [Things Tech People Say 💭](https://dev.to/jennherrarte/things-tech-people-say-2a3e)
 - [Your GitHub year in review - 10 fun ways to visualize your contributions](https://dev.to/github/your-github-year-in-review-10-fun-ways-to-visualize-your-contributions-392o)
-- [Por que autenticação e autorização são importantes para desenvolvedores?](https://dev.to/gabogaldino/por-que-autenticacao-e-autorizacao-sao-importantes-para-desenvolvedores-15ia)
-- [Running the KubernetesPodOperator in different AWS accounts when using Amazon Managed Workflows for Apache Airflow v2.x](https://dev.to/aws/running-the-kubernetespodoperator-in-different-aws-accounts-when-using-amazon-managed-workflows-for-apache-airflow-v2x-51l7)
-- [Axios GET and POST examples](https://dev.to/alakkadshaw/axios-get-and-post-examples-npi)
+- [Bookmark This: The 10 Most-Used Linux Commands You Should Know](https://dev.to/kinsta/bookmark-this-the-10-most-used-linux-commands-you-should-know-5dfp)
 <!-- BLOG-POST-LIST:END -->
 
