@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Rails Template Project](https://dev.to/tonimontana/introducing-the-rails-template-project-1oep)
+- [Laravel + Vue 3 &lpar;Vite, TypeScript&rpar; SPA Setup](https://dev.to/brojenuel/laravel-vue-3-vite-typescript-spa-setup-32l9)
+- [Share private code using Share code snippets](https://dev.to/goonlinetools/share-private-code-using-share-code-snippets-44o7)
 - [Rust WebAssembly &lpar;wasm&rpar; on Arch Linux with Webpack &lpar;Rust 1.66&rpar;](https://dev.to/nabbisen/rust-webassembly-wasm-on-arch-linux-with-webpack-rust-166-3aj6)
-- [DevOps is Dead!](https://dev.to/simonholdorf/devops-is-dead-2n7b)
-- [Configuring Docker Syslog Logging Driver for Docker Dameon &amp; Containers](https://dev.to/danielfavour/configuring-docker-syslog-logging-driver-for-docker-dameon-containers-1aoj)
-- [Implementing Microservice Architecture In Node JS](https://dev.to/lovepreetsingh/implementing-microservice-architecture-in-node-js-1fg3)
 <!-- BLOG-POST-LIST:END -->
 
