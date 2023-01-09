@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 Medusa Posts of 2022 that you need to read](https://dev.to/medusajs/the-10-medusa-posts-of-2022-that-you-need-to-read-5ak0)
-- [NodeJS vs Python: Choose the Best Tech for Backend Development](https://dev.to/davedhaval/nodejs-vs-python-choose-the-best-tech-for-backend-development-281b)
-- [Install Ruby 3.2.0 with YJIT](https://dev.to/wizardhealth/install-ruby-320-with-yjit-3mmo)
-- [Diamond swipe animation for revealing text](https://dev.to/robole/diamond-swipe-animation-for-revealing-text-534)
+- [Gitlab-CI - Comment partager des variables d&#39;environnement dans after_script?](https://dev.to/mxglt/gitlab-ci-comment-partager-des-variables-denvironnement-dans-afterscript-47nj)
+- [Meme Monday 🐌](https://dev.to/ben/meme-monday-55fp)
+- [Creating Animations and Transitions with CSS](https://dev.to/ariellun/creating-animations-and-transitions-with-css-2eo3)
+- [Porque GitHub Codespaces é a melhor ferramenta para seu Workshop de programação](https://dev.to/github/porque-github-codespaces-e-a-melhor-ferramenta-para-seu-workshop-de-programacao-607)
 <!-- BLOG-POST-LIST:END -->
 
