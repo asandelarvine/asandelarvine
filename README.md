@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-3f1i)
 - [5 websites will make you a smarter 🏆 developer👩‍💻](https://dev.to/mahmoudessam/5-websites-will-make-you-a-smarter-developer-2jld)
 - [Ultimate Guide to Computer Science and Competitive Programming with the best resources on the Internet.](https://dev.to/0xhriday/ultimate-guide-to-computer-science-and-competitive-programming-with-the-best-resources-on-the-internet-406n)
-- [An exercise in multi-threading, and lessons learned](https://dev.to/taikedz/an-exercise-in-multi-threading-and-lessons-learned-461m)
-- [Boost your programming with ChatGPT3](https://dev.to/bogdanaks/boost-your-programming-with-chatgpt3-2a5m)
+- [Ultimate Guide to Blockchain Development.](https://dev.to/0xhriday/ultimate-guide-to-blockchain-development-2a0d)
 <!-- BLOG-POST-LIST:END -->
 
