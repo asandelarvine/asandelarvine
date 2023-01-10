@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://dev.to/adiatiayu/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community-468b)
+- [Dockerizing your Angular application](https://dev.to/claudemotoba/dockerizing-your-angular-application-a5f)
 - [Explore Docker-based bundles with JHipster and Entando 7.1](https://dev.to/entando/explore-docker-based-bundles-with-jhipster-and-entando-71-1b84)
 - [My Visual JavaScript Array Cheatsheet That Went Viral on Linkedin 🤯🔥](https://dev.to/rammcodes/my-visual-javascript-array-cheatsheet-that-went-viral-on-linkedin-44bb)
-- [Setting up a Documentation Website for your Software Project with Hugo and Netlify](https://dev.to/erikaheidi/setting-up-a-documentation-website-for-your-software-project-with-hugo-and-netlify-4bpj)
-- [Angular Styling Made Easy: Leveraging the Power of CSS Variables](https://dev.to/this-is-angular/angular-styling-made-easy-leveraging-the-power-of-css-variables-1anb)
 <!-- BLOG-POST-LIST:END -->
 
