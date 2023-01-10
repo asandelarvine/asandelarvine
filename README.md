@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [4 signs you’re over-engineering ⚓️](https://dev.to/christopherkade/4-signs-youre-over-engineering-1g8l)
+- [Past Informs the Present: Begin’s Approach to CSS](https://dev.to/begin/past-informs-the-present-begins-approach-to-css-17io)
 - [7 React Hooks for Every Project](https://dev.to/webdevhero-com/7-react-hooks-for-every-project-1jdo)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ikf)
-- [7 Must-Have Tools for Developers to Boost Productivity that nobody told you about !!](https://dev.to/thenomadevel/7-must-have-tools-for-developers-to-boost-productivity-that-nobody-told-you-about--3ea2)
-- [Everything About Open Source and How will it help Developers](https://dev.to/onlydevs_/everything-about-open-source-and-how-will-it-help-developers-3cfh)
 <!-- BLOG-POST-LIST:END -->
 
