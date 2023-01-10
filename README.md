@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adventures with JavaScript Arrays: Random Numbers Array](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-random-numbers-array-4io1)
-- [Building web components with WebC in vanilla JavaScript](https://dev.to/logrocket/building-web-components-with-webc-in-vanilla-javascript-4b4k)
-- [Mergulhos profundos ou investigando sistemas](https://dev.to/pedrokiefer/mergulhos-profundos-ou-investigando-sistemas-314m)
-- [Rendering NativeScript Angular Templates and Components into images](https://dev.to/valorsoftware/rendering-nativescript-angular-templates-and-components-into-images-56bk)
+- [Preparing tsParticles v3](https://dev.to/tsparticles/preparing-tsparticles-v3-5bai)
+- [Synapses: Event-driven Alternative to React Context](https://dev.to/nucleoid/synapses-event-driven-alternative-to-react-context-2mdm)
+- [Do you want to work in customer-facing roles?](https://dev.to/hunghvu/do-you-want-to-work-in-customer-facing-roles-8mf)
+- [Manually Trigger a GitHub Action with workflow_dispatch](https://dev.to/this-is-learning/manually-trigger-a-github-action-with-workflowdispatch-3mga)
 <!-- BLOG-POST-LIST:END -->
 
