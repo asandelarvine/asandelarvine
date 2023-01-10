@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 React Hooks for Every Project](https://dev.to/webdevhero-com/7-react-hooks-for-every-project-1jdo)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ikf)
 - [7 Must-Have Tools for Developers to Boost Productivity that nobody told you about !!](https://dev.to/thenomadevel/7-must-have-tools-for-developers-to-boost-productivity-that-nobody-told-you-about--3ea2)
 - [Everything About Open Source and How will it help Developers](https://dev.to/onlydevs_/everything-about-open-source-and-how-will-it-help-developers-3cfh)
-- [Avoid Tight Coupling of Tests to Implementation Details](https://dev.to/nejckorasa/avoid-tight-coupling-of-tests-to-implementation-details-a7)
-- [How I built Nike’s Ecommerce Features with Medusa](https://dev.to/medusajs/how-i-built-nikes-ecommerce-features-with-medusa-131)
 <!-- BLOG-POST-LIST:END -->
 
