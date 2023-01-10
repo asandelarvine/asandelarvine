@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 websites will make you a smarter 🏆 developer👩‍💻](https://dev.to/mahmoudessam/5-websites-will-make-you-a-smarter-developer-2jld)
 - [Ultimate Guide to Computer Science and Competitive Programming with the best resources on the Internet.](https://dev.to/0xhriday/ultimate-guide-to-computer-science-and-competitive-programming-with-the-best-resources-on-the-internet-406n)
+- [An exercise in multi-threading, and lessons learned](https://dev.to/taikedz/an-exercise-in-multi-threading-and-lessons-learned-461m)
 - [Boost your programming with ChatGPT3](https://dev.to/bogdanaks/boost-your-programming-with-chatgpt3-2a5m)
-- [Day 669 : Siesta](https://dev.to/dwane/day-669-siesta-4nf6)
-- [The benefits of pair programming for new developers 🚀](https://dev.to/ricovz/the-benefits-of-pair-programming-for-new-developers-in0)
 <!-- BLOG-POST-LIST:END -->
 
