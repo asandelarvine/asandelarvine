@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[LIVE] #DevDiscuss: Uses of WebAssembly](https://dev.to/devteam/live-devdiscuss-uses-of-webassembly-516l)
+- [23 of the best Eleventy Themes &lpar;Starters&rpar; for 2023](https://dev.to/cloudcannon/23-of-the-best-eleventy-themes-starters-for-2023-edd)
 - [JavaScript Callbacks](https://dev.to/catherineisonline/javascript-callbacks-24cp)
-- [Preparing tsParticles v3](https://dev.to/tsparticles/preparing-tsparticles-v3-5bai)
-- [Synapses: Event-driven Alternative to React Context](https://dev.to/nucleoid/synapses-event-driven-alternative-to-react-context-2mdm)
-- [Do you want to work in customer-facing roles?](https://dev.to/hunghvu/do-you-want-to-work-in-customer-facing-roles-8mf)
+- [Who is working on building communities?](https://dev.to/rosiesherry/who-is-working-on-building-communities-11kk)
 <!-- BLOG-POST-LIST:END -->
 
