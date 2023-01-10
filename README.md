@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Adventures with JavaScript Arrays: Random Numbers Array](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-random-numbers-array-4io1)
+- [Building web components with WebC in vanilla JavaScript](https://dev.to/logrocket/building-web-components-with-webc-in-vanilla-javascript-4b4k)
 - [Mergulhos profundos ou investigando sistemas](https://dev.to/pedrokiefer/mergulhos-profundos-ou-investigando-sistemas-314m)
-- [How to Create a Stunning GitHub Readme Profile](https://dev.to/patilganesh1010/how-to-create-a-stunning-github-readme-profile-5gg0)
 - [Rendering NativeScript Angular Templates and Components into images](https://dev.to/valorsoftware/rendering-nativescript-angular-templates-and-components-into-images-56bk)
 <!-- BLOG-POST-LIST:END -->
 
