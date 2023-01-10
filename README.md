@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I built Nike’s Ecommerce Features with Medusa](https://dev.to/medusajs/how-i-built-nikes-ecommerce-features-with-medusa-131)
+- [Debugging Like a Boss: A Decade&#39;s Worth of Tips](https://dev.to/codewithvoid/debugging-like-a-boss-a-decades-worth-of-tips-1439)
+- [✏️ RECURSION IN JAVASCRIPT](https://dev.to/gulcanc/recursion-in-javascript-2ch4)
 - [Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://dev.to/adiatiayu/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community-468b)
-- [Dockerizing your Angular application](https://dev.to/claudemotoba/dockerizing-your-angular-application-a5f)
-- [Explore Docker-based bundles with JHipster and Entando 7.1](https://dev.to/entando/explore-docker-based-bundles-with-jhipster-and-entando-71-1b84)
-- [My Visual JavaScript Array Cheatsheet That Went Viral on Linkedin 🤯🔥](https://dev.to/rammcodes/my-visual-javascript-array-cheatsheet-that-went-viral-on-linkedin-44bb)
 <!-- BLOG-POST-LIST:END -->
 
