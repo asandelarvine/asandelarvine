@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Must-Have Tools for Developers to Boost Productivity that nobody told you about !!](https://dev.to/thenomadevel/7-must-have-tools-for-developers-to-boost-productivity-that-nobody-told-you-about--3ea2)
+- [Everything About Open Source and How will it help Developers](https://dev.to/onlydevs_/everything-about-open-source-and-how-will-it-help-developers-3cfh)
+- [Avoid Tight Coupling of Tests to Implementation Details](https://dev.to/nejckorasa/avoid-tight-coupling-of-tests-to-implementation-details-a7)
 - [How I built Nike’s Ecommerce Features with Medusa](https://dev.to/medusajs/how-i-built-nikes-ecommerce-features-with-medusa-131)
-- [Debugging Like a Boss: A Decade&#39;s Worth of Tips](https://dev.to/codewithvoid/debugging-like-a-boss-a-decades-worth-of-tips-1439)
-- [✏️ RECURSION IN JAVASCRIPT](https://dev.to/gulcanc/recursion-in-javascript-2ch4)
-- [Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://dev.to/adiatiayu/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community-468b)
 <!-- BLOG-POST-LIST:END -->
 
