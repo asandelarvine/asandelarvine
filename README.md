@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Pandas: A Comprehensive Guide with Exercises](https://dev.to/anurag629/mastering-pandas-a-comprehensive-guide-with-exercises-5bn8)
+- [Matrix + Graph in Ruby](https://dev.to/daviducolo/matrix-graph-in-ruby-7pk)
+- [Golang : The OOP Pattern.](https://dev.to/jothamntekim1/golang-the-oop-pattern-2oil)
 - [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-3f1i)
-- [5 websites will make you a smarter 🏆 developer👩‍💻](https://dev.to/mahmoudessam/5-websites-will-make-you-a-smarter-developer-2jld)
-- [Ultimate Guide to Computer Science and Competitive Programming with the best resources on the Internet.](https://dev.to/0xhriday/ultimate-guide-to-computer-science-and-competitive-programming-with-the-best-resources-on-the-internet-406n)
-- [Ultimate Guide to Blockchain Development.](https://dev.to/0xhriday/ultimate-guide-to-blockchain-development-2a0d)
 <!-- BLOG-POST-LIST:END -->
 
