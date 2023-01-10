@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 signs you’re over-engineering ⚓️](https://dev.to/christopherkade/4-signs-youre-over-engineering-1g8l)
-- [Past Informs the Present: Begin’s Approach to CSS](https://dev.to/begin/past-informs-the-present-begins-approach-to-css-17io)
-- [7 React Hooks for Every Project](https://dev.to/webdevhero-com/7-react-hooks-for-every-project-1jdo)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ikf)
+- [Adventures with JavaScript Arrays: Random Numbers Array](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-random-numbers-array-4io1)
+- [Mergulhos profundos ou investigando sistemas](https://dev.to/pedrokiefer/mergulhos-profundos-ou-investigando-sistemas-314m)
+- [How to Create a Stunning GitHub Readme Profile](https://dev.to/patilganesh1010/how-to-create-a-stunning-github-readme-profile-5gg0)
+- [Rendering NativeScript Angular Templates and Components into images](https://dev.to/valorsoftware/rendering-nativescript-angular-templates-and-components-into-images-56bk)
 <!-- BLOG-POST-LIST:END -->
 
