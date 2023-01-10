@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Guide to Computer Science and Competitive Programming with the best resources on the Internet.](https://dev.to/0xhriday/ultimate-guide-to-computer-science-and-competitive-programming-with-the-best-resources-on-the-internet-406n)
 - [Boost your programming with ChatGPT3](https://dev.to/bogdanaks/boost-your-programming-with-chatgpt3-2a5m)
 - [Day 669 : Siesta](https://dev.to/dwane/day-669-siesta-4nf6)
 - [The benefits of pair programming for new developers 🚀](https://dev.to/ricovz/the-benefits-of-pair-programming-for-new-developers-in0)
-- [LeetCode&#39;s Defanging an IP Address - Java Solution Beats 100% Memory &amp; 92% Runtime](https://dev.to/verisimilitude11/leetcodes-defanging-an-ip-address-java-solution-beats-100-memory-92-runtime-473p)
 <!-- BLOG-POST-LIST:END -->
 
