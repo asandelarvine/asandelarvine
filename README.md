@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Stunning GitHub Profile README: Tips and Tricks](https://dev.to/gaurav_meherkhamb/creating-a-stunning-github-profile-readme-tips-and-tricks-200l)
+- [How to Position Your Team for Success in Estimation](https://dev.to/lambdatest/how-to-position-your-team-for-success-in-estimation-3d3l)
+- [Using GitHub API to fetch and display a GitHub user profile](https://dev.to/falanatolu/using-github-api-to-fetch-and-display-a-github-user-profile-26g6)
 - [Designing a Strong Call-to-Action for Your Landing Page](https://dev.to/mohsenkamrani/designing-a-strong-call-to-action-for-your-landing-page-26pb)
-- [#DevDiscuss: Uses of WebAssembly](https://dev.to/devteam/live-devdiscuss-uses-of-webassembly-516l)
-- [Measuring Page Speed with Lighthouse](https://dev.to/semaphore/measuring-page-speed-with-lighthouse-1m16)
-- [23 of the best Eleventy Themes &lpar;Starters&rpar; for 2023](https://dev.to/cloudcannon/23-of-the-best-eleventy-themes-starters-for-2023-edd)
 <!-- BLOG-POST-LIST:END -->
 
