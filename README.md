@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Frontend Full Stack Repository](https://dev.to/shreyvijayvargiya/2023-frontend-full-stack-repository-6l8)
+- [A Brief History of API: RPC, REST, GraphQL, tRPC](https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme)
+- [Mastering React in One Month: A Step-by-Step Guide](https://dev.to/ayka_code/mastering-react-in-one-month-a-step-by-step-guide-29j2)
 - [How to set mongoose schema field from list of strings &lpar;enum&rpar;](https://dev.to/codever/how-to-set-mongoose-schema-field-from-list-of-strings-enum-3jb4)
-- [How to set value of input field in angular template](https://dev.to/codever/how-to-set-value-of-input-field-in-angular-template-4j6e)
-- [Migrating to the Cloud: Best practices and pitfalls to avoid](https://dev.to/roy8/migrating-to-the-cloud-best-practices-and-pitfalls-to-avoid-3b3h)
-- [How to compare date &lpar;no time&rpar; with current day in javascript](https://dev.to/codever/how-to-compare-date-no-time-with-current-day-in-javascript-41l9)
 <!-- BLOG-POST-LIST:END -->
 
