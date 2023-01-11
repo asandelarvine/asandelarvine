@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is callback hell?](https://dev.to/catherineisonline/what-is-callback-hell-3emp)
 - [Retro Computing is Fun](https://dev.to/lefebvre/retro-computing-is-fun-2ami)
+- [I tried Godot for few days and this is why I like it!](https://dev.to/z0ran/i-tried-godot-for-few-days-and-this-is-why-i-like-it-3e94)
 - [The Importance of Software Testing and Test-Driven Development: My Perspective as a Senior PHP Developer](https://dev.to/vvanliederen/the-importance-of-software-testing-and-test-driven-development-my-perspective-as-a-senior-php-developer-3ggi)
-- [Async Streams in WebAssembly with WasmRS](https://dev.to/jsoverson/async-streams-in-webassembly-with-wasmrs-jem)
-- [Brief History of Frontend UI Tools and Newest Guy on the Block](https://dev.to/codux/brief-history-of-frontend-ui-tools-and-newest-guy-on-the-block-jm)
 <!-- BLOG-POST-LIST:END -->
 
