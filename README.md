@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Mistakes to Avoid as a First-Time Manager](https://dev.to/alexrashkov/6-mistakes-to-avoid-as-a-first-time-manager-5f4g)
-- [Effective End-to-End Testing: A Beginner&#39;s Guide to Playwright](https://dev.to/parmcoder/effective-end-to-end-testing-a-beginners-guide-to-playwright-bc4)
-- [What is DevRel? Get Answers to FAQs](https://dev.to/estheragbaje/what-is-devrel-get-answers-to-faqs-38p2)
-- [How To Overload Functions in TypeScript](https://dev.to/zirkelc/how-to-overload-functions-in-typescript-22c3)
+- [How to set value of input field in angular template](https://dev.to/codever/how-to-set-value-of-input-field-in-angular-template-4j6e)
+- [Migrating to the Cloud: Best practices and pitfalls to avoid](https://dev.to/roy8/migrating-to-the-cloud-best-practices-and-pitfalls-to-avoid-3b3h)
+- [How to compare date &lpar;no time&rpar; with current day in javascript](https://dev.to/codever/how-to-compare-date-no-time-with-current-day-in-javascript-41l9)
+- [Angular 15: interceptor as a function](https://dev.to/this-is-angular/angular-15-interceptor-as-a-function-2g44)
 <!-- BLOG-POST-LIST:END -->
 
