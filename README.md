@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re on vue.land](https://dev.to/devteam/were-on-vueland-21d3)
-- [How I archived 100 million PDF documents... &lpar;Part 1&rpar;](https://dev.to/laxika/how-i-archived-100-million-pdf-documents-part-1-1ha7)
-- [Automate Updating Major Release Tag on New Releases of a GitHub Action](https://dev.to/cicirello/automate-updating-major-release-tag-on-new-releases-of-a-github-action-cci)
-- [What is the ideal session timeout?](https://dev.to/darksmile92/what-is-the-ideal-session-timeout-38i)
+- [7 React Projects for Beginners in 2023 &lpar;+ Code&rpar;](https://dev.to/webdevhero-com/7-react-projects-for-beginners-in-2023-code-dp7)
+- [Kubernetes Bedtime Stories](https://dev.to/aabhassao/kubernetes-bedtime-stories-393n)
+- [Computer Science: Basic Concepts of Data Processing](https://dev.to/bcostaaa01/computer-science-basic-concepts-of-data-processing-54md)
+- [make your JavaScript code more efficient, readable, and maintainable.&lpar;Part 1&rpar;](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainable-3h12)
 <!-- BLOG-POST-LIST:END -->
 
