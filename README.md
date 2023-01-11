@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set mongoose schema field from list of strings &lpar;enum&rpar;](https://dev.to/codever/how-to-set-mongoose-schema-field-from-list-of-strings-enum-3jb4)
 - [How to set value of input field in angular template](https://dev.to/codever/how-to-set-value-of-input-field-in-angular-template-4j6e)
 - [Migrating to the Cloud: Best practices and pitfalls to avoid](https://dev.to/roy8/migrating-to-the-cloud-best-practices-and-pitfalls-to-avoid-3b3h)
 - [How to compare date &lpar;no time&rpar; with current day in javascript](https://dev.to/codever/how-to-compare-date-no-time-with-current-day-in-javascript-41l9)
-- [Angular 15: interceptor as a function](https://dev.to/this-is-angular/angular-15-interceptor-as-a-function-2g44)
 <!-- BLOG-POST-LIST:END -->
 
