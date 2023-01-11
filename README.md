@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Mistakes to Avoid as a First-Time Manager](https://dev.to/alexrashkov/6-mistakes-to-avoid-as-a-first-time-manager-5f4g)
+- [Effective End-to-End Testing: A Beginner&#39;s Guide to Playwright](https://dev.to/parmcoder/effective-end-to-end-testing-a-beginners-guide-to-playwright-bc4)
+- [What is DevRel? Get Answers to FAQs](https://dev.to/estheragbaje/what-is-devrel-get-answers-to-faqs-38p2)
 - [How To Overload Functions in TypeScript](https://dev.to/zirkelc/how-to-overload-functions-in-typescript-22c3)
-- [Exploring Different Types of Plots, Best Practices, and Tips for Effective Data Visualization](https://dev.to/anurag629/exploring-different-types-of-plots-best-practices-and-tips-for-effective-data-visualization-ina)
-- [A Comprehensive Guide to Using the Pytrends Python Library](https://dev.to/ramanbansal/a-comprehensive-guide-to-using-the-pytrends-python-library-3l0d)
-- [Create a Real Time Crypto Price App with Next.js, TypeScript, Tailwind CSS &amp; Binance API](https://dev.to/codeofrelevancy/create-a-real-time-crypto-price-app-with-nextjs-typescript-tailwind-css-binance-api-1oc8)
 <!-- BLOG-POST-LIST:END -->
 
