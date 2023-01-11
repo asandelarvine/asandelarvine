@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re on vue.land](https://dev.to/devteam/were-on-vueland-21d3)
+- [Automate Updating Major Release Tag on New Releases of a GitHub Action](https://dev.to/cicirello/automate-updating-major-release-tag-on-new-releases-of-a-github-action-cci)
+- [What is the ideal session timeout?](https://dev.to/darksmile92/what-is-the-ideal-session-timeout-38i)
 - [We&#39;re on dotnet.social](https://dev.to/devteam/were-on-dotnetsocial-4c71)
-- [5 best programming games to improve your skills](https://dev.to/onlydevs_/5-best-programming-games-to-improve-your-skills-18mh)
-- [MinIO on OpenBSD 7.2: Install](https://dev.to/nabbisen/minio-on-openbsd-72-install-3b3h)
-- [Building Personalised Music Recommendation System](https://dev.to/vhutov/building-personalised-music-recommendation-system-24lc)
 <!-- BLOG-POST-LIST:END -->
 
