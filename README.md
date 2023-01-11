@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Brief History of Frontend UI Tools and Newest Guy on the Block](https://dev.to/codux/brief-history-of-frontend-ui-tools-and-newest-guy-on-the-block-jm)
 - [7 React Projects for Beginners in 2023 &lpar;+ Code&rpar;](https://dev.to/webdevhero-com/7-react-projects-for-beginners-in-2023-code-dp7)
 - [Kubernetes Bedtime Stories](https://dev.to/aabhassao/kubernetes-bedtime-stories-393n)
-- [Computer Science: Basic Concepts of Data Processing](https://dev.to/bcostaaa01/computer-science-basic-concepts-of-data-processing-54md)
-- [make your JavaScript code more efficient, readable, and maintainable.&lpar;Part 1&rpar;](https://dev.to/malikhaziq/make-your-javascript-code-more-efficient-readable-and-maintainable-3h12)
+- [Avoid &quot;delete&quot; keyword in JavaScript to remove property](https://dev.to/hardiquedasore/avoid-delete-keyword-in-javascript-to-remove-property-32mf)
 <!-- BLOG-POST-LIST:END -->
 
