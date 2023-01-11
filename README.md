@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2023 Frontend Full Stack Repository](https://dev.to/shreyvijayvargiya/2023-frontend-full-stack-repository-6l8)
-- [A Brief History of API: RPC, REST, GraphQL, tRPC](https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme)
-- [Mastering React in One Month: A Step-by-Step Guide](https://dev.to/ayka_code/mastering-react-in-one-month-a-step-by-step-guide-29j2)
-- [How to set mongoose schema field from list of strings &lpar;enum&rpar;](https://dev.to/codever/how-to-set-mongoose-schema-field-from-list-of-strings-enum-3jb4)
+- [Get the count of affected rows with ease: The power of the RETURNING clause](https://dev.to/asifroyal/get-the-count-of-affected-rows-with-ease-the-power-of-the-returning-clause-3g2j)
+- [Creating a website aggregator with ChatGPT, React, and Node.js 🚀](https://dev.to/novu/creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij)
+- [ChatGPT Is Helping Me Do Code Reviews](https://dev.to/codewithbernard/chatgpt-is-helping-me-do-code-reviews-3a0o)
+- [This is what the future looks like - ChatGPT + database 🤯](https://dev.to/mohsenkamrani/this-is-what-the-future-looks-like-chatgpt-database-212b)
 <!-- BLOG-POST-LIST:END -->
 
