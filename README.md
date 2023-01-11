@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Overload Functions in TypeScript](https://dev.to/zirkelc/how-to-overload-functions-in-typescript-22c3)
+- [Exploring Different Types of Plots, Best Practices, and Tips for Effective Data Visualization](https://dev.to/anurag629/exploring-different-types-of-plots-best-practices-and-tips-for-effective-data-visualization-ina)
+- [A Comprehensive Guide to Using the Pytrends Python Library](https://dev.to/ramanbansal/a-comprehensive-guide-to-using-the-pytrends-python-library-3l0d)
 - [Create a Real Time Crypto Price App with Next.js, TypeScript, Tailwind CSS &amp; Binance API](https://dev.to/codeofrelevancy/create-a-real-time-crypto-price-app-with-nextjs-typescript-tailwind-css-binance-api-1oc8)
-- [Creating a Stunning GitHub Profile README: Tips and Tricks](https://dev.to/gaurav_meherkhamb/creating-a-stunning-github-profile-readme-tips-and-tricks-200l)
-- [How to Position Your Team for Success in Estimation](https://dev.to/lambdatest/how-to-position-your-team-for-success-in-estimation-3d3l)
-- [Using GitHub API to fetch and display a GitHub user profile](https://dev.to/falanatolu/using-github-api-to-fetch-and-display-a-github-user-profile-26g6)
 <!-- BLOG-POST-LIST:END -->
 
