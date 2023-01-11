@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get the count of affected rows with ease: The power of the RETURNING clause](https://dev.to/asifroyal/get-the-count-of-affected-rows-with-ease-the-power-of-the-returning-clause-3g2j)
-- [Creating a website aggregator with ChatGPT, React, and Node.js 🚀](https://dev.to/novu/creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij)
-- [ChatGPT Is Helping Me Do Code Reviews](https://dev.to/codewithbernard/chatgpt-is-helping-me-do-code-reviews-3a0o)
-- [This is what the future looks like - ChatGPT + database 🤯](https://dev.to/mohsenkamrani/this-is-what-the-future-looks-like-chatgpt-database-212b)
+- [How to implement mobile share module in ReactJS quickly?](https://dev.to/rkencoresky/how-to-implement-mobile-share-module-in-reactjs-quickly-3a31)
+- [How to Use Docker EntryPoint](https://dev.to/refine/how-to-use-docker-entrypoint-2ink)
+- [🔦 Community Spotlight - Building Thumbuptech, a Job and Content Network🔦](https://dev.to/appwrite/community-spotlight-building-thumbuptech-a-job-and-content-network-4560)
+- [How to use Node JS with your Project?](https://dev.to/darkxenium/how-to-use-node-js-with-your-project-5gfe)
 <!-- BLOG-POST-LIST:END -->
 
