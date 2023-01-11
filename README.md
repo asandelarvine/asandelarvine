@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Retro Computing is Fun](https://dev.to/lefebvre/retro-computing-is-fun-2ami)
+- [The Importance of Software Testing and Test-Driven Development: My Perspective as a Senior PHP Developer](https://dev.to/vvanliederen/the-importance-of-software-testing-and-test-driven-development-my-perspective-as-a-senior-php-developer-3ggi)
 - [Async Streams in WebAssembly with WasmRS](https://dev.to/jsoverson/async-streams-in-webassembly-with-wasmrs-jem)
 - [Brief History of Frontend UI Tools and Newest Guy on the Block](https://dev.to/codux/brief-history-of-frontend-ui-tools-and-newest-guy-on-the-block-jm)
-- [7 React Projects for Beginners in 2023 &lpar;+ Code&rpar;](https://dev.to/webdevhero-com/7-react-projects-for-beginners-in-2023-code-dp7)
-- [Kubernetes Bedtime Stories](https://dev.to/aabhassao/kubernetes-bedtime-stories-393n)
 <!-- BLOG-POST-LIST:END -->
 
