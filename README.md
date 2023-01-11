@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing a Strong Call-to-Action for Your Landing Page](https://dev.to/mohsenkamrani/designing-a-strong-call-to-action-for-your-landing-page-26pb)
 - [#DevDiscuss: Uses of WebAssembly](https://dev.to/devteam/live-devdiscuss-uses-of-webassembly-516l)
+- [Measuring Page Speed with Lighthouse](https://dev.to/semaphore/measuring-page-speed-with-lighthouse-1m16)
 - [23 of the best Eleventy Themes &lpar;Starters&rpar; for 2023](https://dev.to/cloudcannon/23-of-the-best-eleventy-themes-starters-for-2023-edd)
-- [JavaScript Callbacks](https://dev.to/catherineisonline/javascript-callbacks-24cp)
-- [Who is working on building communities?](https://dev.to/rosiesherry/who-is-working-on-building-communities-11kk)
 <!-- BLOG-POST-LIST:END -->
 
