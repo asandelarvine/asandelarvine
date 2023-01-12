@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover useful insights about any GitHub repo](https://dev.to/crowddotdev/discover-useful-insights-about-any-github-repo-6cn)
-- [⏪ 4 Ways to Undo a Git Commit - Amend vs Reset](https://dev.to/this-is-learning/4-ways-to-undo-a-git-commit-amend-vs-reset-5dem)
-- [Accessible website: 7 steps to better accessibility and SEO performance](https://dev.to/visuellverstehen/accessible-website-7-steps-to-better-accessibility-and-seo-performance-4afm)
-- [MinIO on OpenBSD 7.2: Configure network](https://dev.to/nabbisen/minio-on-openbsd-72-configure-network-2ffk)
+- [Top programming and tech videos of December 2022.](https://dev.to/nordicbeaver/top-programming-and-tech-videos-of-december-2022-1ojc)
+- [Role-based access systems in Node.js](https://dev.to/get_pieces/role-based-access-systems-in-nodejs-14c2)
+- [Using CQRS in Phoenix Contexts](https://dev.to/clsource/using-cqrs-in-phoenix-contexts-51oa)
+- [How to Build a React component library?](https://dev.to/alirezace/how-to-build-a-react-component-library-3c67)
 <!-- BLOG-POST-LIST:END -->
 
