@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [21 questions you’ll ask if you code a VSCode extension](https://dev.to/promyze/21-questions-youll-ask-if-you-code-a-vscode-extension-5g3n)
-- [Use a help target in your Makefile](https://dev.to/aws-builders/use-a-help-target-in-your-makefile-46a3)
-- [TOP 6 React Native libraries with native performance ⚡️](https://dev.to/kirill3333/top-6-react-native-libraries-with-native-performance-33d5)
-- [Understanding Docker: part 38 – System](https://dev.to/aurelievache/understanding-docker-part-38-system-4nob)
+- [Medusa v1.7.3: Sales Channels out of Beta, Improvements to events, and more!](https://dev.to/medusajs/medusa-v173-sales-channels-out-of-beta-improvements-to-events-and-more-29o9)
+- [Top 5+ ReactJS Design Systems for 2023](https://dev.to/fredy/top-5-reactjs-design-systems-for-2023-5ha2)
+- [Microservices Logging | A Practical Guide to Logging in Microservices](https://dev.to/signoz/microservices-logging-a-practical-guide-to-logging-in-microservices-4ba5)
+- [Understanding the basics and advanced concepts of RDBMS and SQL for data science and analysis](https://dev.to/anurag629/understanding-the-basics-and-advanced-concepts-of-rdbms-and-sql-for-data-science-and-analysis-5h4l)
 <!-- BLOG-POST-LIST:END -->
 
