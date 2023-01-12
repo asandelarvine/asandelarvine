@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Ways to Delete a Property In JavaScript You Must Know](https://dev.to/mohsenkamrani/6-ways-to-delete-a-property-in-javascript-you-must-know-912)
 - [JavaScript Clipboard API: Take Control of Your Copy, Cut, and Paste](https://dev.to/mohsenkamrani/javascript-clipboard-api-take-control-of-your-copy-cut-and-paste-3ekd)
 - [React JSX for Beginners: How to Build Dynamic Components](https://dev.to/mr_walkr/react-jsx-for-beginners-how-to-build-dynamic-components-13gc)
 - [What is the best solution to host a simple JSON and fetch it for free?](https://dev.to/cyril/what-is-the-best-solution-to-host-a-simple-json-and-fetch-it-for-free-28dc)
-- [Blocks and methods overloading](https://dev.to/franciscello/blocks-and-methods-overloading-31i2)
 <!-- BLOG-POST-LIST:END -->
 
