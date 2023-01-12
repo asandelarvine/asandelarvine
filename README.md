@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [21 questions you’ll ask if you code a VSCode extension](https://dev.to/promyze/21-questions-youll-ask-if-you-code-a-vscode-extension-5g3n)
 - [Use a help target in your Makefile](https://dev.to/aws-builders/use-a-help-target-in-your-makefile-46a3)
 - [TOP 6 React Native libraries with native performance ⚡️](https://dev.to/kirill3333/top-6-react-native-libraries-with-native-performance-33d5)
-- [Core JavaScript: Scope](https://dev.to/ioanat94/core-javascript-scope-29cm)
+- [Understanding Docker: part 38 – System](https://dev.to/aurelievache/understanding-docker-part-38-system-4nob)
 <!-- BLOG-POST-LIST:END -->
 
