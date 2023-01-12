@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Mastodon Performance: Finding and Fixing its N+1 Queries](https://dev.to/appmap/optimizing-mastodon-performance-finding-and-fixing-its-n1-queries-57ni)
-- [Introducing @The_Cloud_Dev and @TheCSSDev ☁️🎨](https://dev.to/devteam/introducing-theclouddev-and-thecssdev-3j7e)
-- [Unveiling Breakthroughs Found In The State Of JS 2022 Survey](https://dev.to/wiseai/unveiling-breakthroughs-found-in-the-state-of-js-2022-survey-4bkj)
-- [Git and GitHub for Beginners](https://dev.to/mgandolfi7/git-and-github-for-beginners-3hl1)
+- [Llamando a un flujo de Power Automate desde .NET](https://dev.to/esdanielgomez/llamando-a-un-flujo-de-power-automate-desde-net-4o7c)
+- [Rails Hotwire: mastering techniques for streamlining inline editing in your user interface](https://dev.to/ahmednadar/rails-hotwire-mastering-techniques-for-streamlining-inline-editing-in-your-user-interface-1h5m)
+- [Welcome Thread - v208](https://dev.to/thepracticaldev/welcome-thread-v208-258n)
+- [Safe component state with useReducer and TypeScript](https://dev.to/czystyl/safe-component-state-with-usereducer-and-typescript-2m2f)
 <!-- BLOG-POST-LIST:END -->
 
