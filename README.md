@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Llamando a un flujo de Power Automate desde .NET](https://dev.to/esdanielgomez/llamando-a-un-flujo-de-power-automate-desde-net-4o7c)
-- [Rails Hotwire: mastering techniques for streamlining inline editing in your user interface](https://dev.to/ahmednadar/rails-hotwire-mastering-techniques-for-streamlining-inline-editing-in-your-user-interface-1h5m)
-- [Welcome Thread - v208](https://dev.to/thepracticaldev/welcome-thread-v208-258n)
-- [Safe component state with useReducer and TypeScript](https://dev.to/czystyl/safe-component-state-with-usereducer-and-typescript-2m2f)
+- [Assembly For JavaScript Developers](https://dev.to/____marcell/assembly-for-javascript-developers-p0h)
+- [How To Create A Toast Notification in Javascript](https://dev.to/arafat4693/how-to-create-a-toast-notification-in-javascript-261d)
+- [Learn Python functions &amp; create a simple project](https://dev.to/marinsborg/learn-python-functions-create-a-simple-project-25f)
+- [Um Projeto Spring Boot - P5.3](https://dev.to/devs-jequie/um-projeto-spring-boot-p53-39oj)
 <!-- BLOG-POST-LIST:END -->
 
