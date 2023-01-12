@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover useful insights about any GitHub repo](https://dev.to/crowddotdev/discover-useful-insights-about-any-github-repo-6cn)
+- [⏪ 4 Ways to Undo a Git Commit - Amend vs Reset](https://dev.to/this-is-learning/4-ways-to-undo-a-git-commit-amend-vs-reset-5dem)
+- [Accessible website: 7 steps to better accessibility and SEO performance](https://dev.to/visuellverstehen/accessible-website-7-steps-to-better-accessibility-and-seo-performance-4afm)
 - [MinIO on OpenBSD 7.2: Configure network](https://dev.to/nabbisen/minio-on-openbsd-72-configure-network-2ffk)
-- [Dell XPS 13 Plus Review](https://dev.to/stacy_cash/dell-xps-13-plus-review-5gfk)
-- [Deploying Next.js 13 with Amplify CDK](https://dev.to/kumo/deploying-nextjs-13-with-amplify-cdk-1dgd)
-- [Medusa v1.7.3: Sales Channels out of Beta, Improvements to events, and more!](https://dev.to/medusajs/medusa-v173-sales-channels-out-of-beta-improvements-to-events-and-more-29o9)
 <!-- BLOG-POST-LIST:END -->
 
