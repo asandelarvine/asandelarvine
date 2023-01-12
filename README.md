@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We asked ChatGPT how to use our service. Here is what AI answered](https://dev.to/uploadcare/we-asked-chatgpt-how-to-use-our-service-here-is-what-ai-answered-1jf2)
 - [Top 5 Reasons why Django can be used for your next project](https://dev.to/wasava/top-5-reasons-why-django-can-be-used-for-your-next-project-3odg)
 - [How setup Firebase on your Frontend project](https://dev.to/nicolasmontielf/how-setup-firebase-on-your-frontend-project-1ap)
 - [6 master tips you&#39;ll ever need to set up reliable CI systems](https://dev.to/pragyanatvade/6-master-tips-youll-ever-need-to-set-up-reliable-ci-systems-5b88)
-- [6 Ways to Delete a Property In JavaScript You Must Know](https://dev.to/mohsenkamrani/6-ways-to-delete-a-property-in-javascript-you-must-know-912)
 <!-- BLOG-POST-LIST:END -->
 
