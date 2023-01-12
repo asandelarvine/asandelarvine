@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Core JavaScript: Scope](https://dev.to/ioanat94/core-javascript-scope-29cm)
+- [How to debounce and throttle in React without losing your mind](https://dev.to/adevnadia/how-to-debounce-and-throttle-in-react-without-losing-your-mind-pg5)
 - [[LIAPP FEATURES] String Encryption](https://dev.to/teamliapp/liapp-features-string-encryption-4noi)
 - [Flutter CSV Field Matching: Importing &amp; Saving CSV Files](https://dev.to/kuldeeptarapara/flutter-csv-field-matching-importing-saving-csv-files-1bkg)
-- [We asked ChatGPT how to use our service. Here is what AI answered](https://dev.to/uploadcare/we-asked-chatgpt-how-to-use-our-service-here-is-what-ai-answered-1jf2)
 <!-- BLOG-POST-LIST:END -->
 
