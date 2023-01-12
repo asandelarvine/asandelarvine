@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Train a language model from scratch](https://dev.to/neuml/train-a-language-model-from-scratch-5o)
 - [One-Click Code Block Copying in React with react-copy-to-clipboard](https://dev.to/basskibo/one-click-code-block-copying-in-react-with-react-copy-to-clipboard-4pb6)
 - [How to produce type-safe GraphQL queries using TypeScript 💥](https://dev.to/livecycle/how-to-produce-type-safe-graphql-queries-using-typescript-52pe)
 - [Creating a GUI Weather App with Tkinter and OpenWeatherMap API](https://dev.to/ashishpandey/creating-a-gui-weather-app-with-tkinter-and-openweathermap-api-3oog)
-- [5 AI Tools That Will Increase Your Productivity As A Developer](https://dev.to/onlydevs_/5-ai-tools-that-will-increase-your-productivity-as-a-developer-42b)
 <!-- BLOG-POST-LIST:END -->
 
