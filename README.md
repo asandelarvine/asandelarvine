@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is callback hell?](https://dev.to/catherineisonline/what-is-callback-hell-3emp)
-- [Retro Computing is Fun](https://dev.to/lefebvre/retro-computing-is-fun-2ami)
-- [I tried Godot for few days and this is why I like it!](https://dev.to/z0ran/i-tried-godot-for-few-days-and-this-is-why-i-like-it-3e94)
-- [The Importance of Software Testing and Test-Driven Development: My Perspective as a Senior PHP Developer](https://dev.to/vvanliederen/the-importance-of-software-testing-and-test-driven-development-my-perspective-as-a-senior-php-developer-3ggi)
+- [JavaScript Clipboard API: Take Control of Your Copy, Cut, and Paste](https://dev.to/mohsenkamrani/javascript-clipboard-api-take-control-of-your-copy-cut-and-paste-3ekd)
+- [React JSX for Beginners: How to Build Dynamic Components](https://dev.to/mr_walkr/react-jsx-for-beginners-how-to-build-dynamic-components-13gc)
+- [What is the best solution to host a simple JSON and fetch it for free?](https://dev.to/cyril/what-is-the-best-solution-to-host-a-simple-json-and-fetch-it-for-free-28dc)
+- [Blocks and methods overloading](https://dev.to/franciscello/blocks-and-methods-overloading-31i2)
 <!-- BLOG-POST-LIST:END -->
 
