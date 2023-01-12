@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [21 questions you’ll ask if you code a VSCode extension](https://dev.to/promyze/21-questions-youll-ask-if-you-code-a-vscode-extension-5g3n)
+- [Use a help target in your Makefile](https://dev.to/aws-builders/use-a-help-target-in-your-makefile-46a3)
+- [TOP 6 React Native libraries with native performance ⚡️](https://dev.to/kirill3333/top-6-react-native-libraries-with-native-performance-33d5)
 - [Core JavaScript: Scope](https://dev.to/ioanat94/core-javascript-scope-29cm)
-- [How to debounce and throttle in React without losing your mind](https://dev.to/adevnadia/how-to-debounce-and-throttle-in-react-without-losing-your-mind-pg5)
-- [[LIAPP FEATURES] String Encryption](https://dev.to/teamliapp/liapp-features-string-encryption-4noi)
-- [Flutter CSV Field Matching: Importing &amp; Saving CSV Files](https://dev.to/kuldeeptarapara/flutter-csv-field-matching-importing-saving-csv-files-1bkg)
 <!-- BLOG-POST-LIST:END -->
 
