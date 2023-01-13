@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A complete guide for Markdown files](https://dev.to/yaswanthteja/a-complete-guide-for-markdown-files-9me)
-- [PIANO: A Simple and Lightweight HTTP Framework Implemented in Go](https://dev.to/justlorain/piano-a-simple-and-lightweight-http-framework-implemented-in-go-224p)
-- [Java Software Engineers, for Ireland-Dublin](https://dev.to/pulkitpurohit/java-software-engineers-for-ireland-dublin-4gh2)
-- [GKE Cost Optimization: 10 Steps For A Lower Cloud Bill In 2023](https://dev.to/castai/gke-cost-optimization-10-steps-for-a-lower-cloud-bill-in-2023-67a)
+- [4 Steps to Prepare for System Design Interview in 2023?[with Resources]](https://dev.to/javinpaul/4-steps-to-prepare-for-system-design-interview-in-2023with-resources-dg5)
+- [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-6ag)
+- [8 Must-Use VS Code Extensions For Web Developers😈](https://dev.to/arafat4693/8-must-use-vs-code-extensions-for-web-developers-39)
+- [Pleroma 2.5.0 の構築 - 環境: Elixir 1.11 on OpenBSD 7.1](https://dev.to/nabbisen/pleroma-250-nogou-zhu-huan-jing-elixir-111-on-openbsd-71-bng)
 <!-- BLOG-POST-LIST:END -->
 
