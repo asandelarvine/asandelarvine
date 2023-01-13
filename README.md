@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In-app surveys in React Native](https://dev.to/jacksbridger/in-app-surveys-in-react-native-3955)
-- [4 Steps to Prepare for System Design Interview in 2023?[with Resources]](https://dev.to/javinpaul/4-steps-to-prepare-for-system-design-interview-in-2023with-resources-dg5)
-- [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-6ag)
-- [8 Must-Use VS Code Extensions For Web Developers😈](https://dev.to/arafat4693/8-must-use-vs-code-extensions-for-web-developers-39)
+- [7 steps to Angular Material Dialog instead of Angular Component](https://dev.to/juliecherner/7-steps-to-angular-material-dialog-instead-of-angular-component-4jlb)
+- [5 GitHub Repositories That Will Make Your Life Easier](https://dev.to/onlydevs_/5-github-repositories-that-will-make-your-life-easier-l0j)
+- [How to install Tailwind CSS with Nuxt.js and Flowbite](https://dev.to/themesberg/how-to-install-tailwind-css-with-nuxtjs-and-flowbite-20fj)
+- [How to send an automated email via Google Script?](https://dev.to/connectaryal/how-to-send-an-automated-email-via-google-script-ci1)
 <!-- BLOG-POST-LIST:END -->
 
