@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PIANO: A Simple and Lightweight HTTP Framework Implemented in Go](https://dev.to/justlorain/piano-a-simple-and-lightweight-http-framework-implemented-in-go-224p)
+- [GKE Cost Optimization: 10 Steps For A Lower Cloud Bill In 2023](https://dev.to/castai/gke-cost-optimization-10-steps-for-a-lower-cloud-bill-in-2023-67a)
+- [Custom Notification Template with JS](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
 - [MinIO on OpenBSD 7.2: インストール](https://dev.to/nabbisen/minio-on-openbsd-72-insutoru-nod)
-- [The Best AWS re:Invent Ever? Looking Back at Eleven Editions](https://dev.to/aws-heroes/the-best-aws-reinvent-ever-looking-back-at-eleven-editions-2mpg)
-- [Linear Algebra for Data Science: Understanding and Applying Vectors, Matrices and their Operations using Numpy](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m)
-- [Passwordless authentication for your website in 5 minutes!](https://dev.to/dagnelies/passwordless-authentication-for-your-website-in-5-minutes-1c31)
 <!-- BLOG-POST-LIST:END -->
 
