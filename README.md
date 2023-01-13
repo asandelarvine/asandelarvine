@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re on ruby.social](https://dev.to/devteam/were-on-rubysocial-1m3n)
+- [How To Stream A Video With NodeJS](https://dev.to/fredabod/how-to-stream-a-video-with-nodejs-58gn)
 - [Naming inconsistencies, rants and solutions &lpar;by a WooCommerce theme developer&rpar;](https://dev.to/ingosteinke/naming-inconsistencies-rants-and-solutions-for-woocommerce-theme-development-3mba)
 - [Brainwash yourself everyday to success!🧠😍](https://dev.to/evansifyke/brainwash-yourself-everyday-to-success-114p)
-- [Design Patterns in JavaScript](https://dev.to/thesanjeevsharma/design-patterns-in-javascript-3fmb)
-- [Debugging in .NET apps using Visual Studio Part 1](https://dev.to/hootanht/debugging-in-net-apps-using-visual-studio-part-1-n8c)
 <!-- BLOG-POST-LIST:END -->
 
