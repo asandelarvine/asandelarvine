@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the possibilities: How AI is enhancing the human creativity](https://dev.to/gaurav_meherkhamb/exploring-the-possibilities-how-ai-is-enhancing-the-human-creativity-2cf1)
 - [Git - How to edit or remove a &quot;pushed&quot; commit using Visual Studio](https://dev.to/thebernardlim/git-how-to-edit-or-remove-a-pushed-commit-using-visual-studio-2876)
 - [Some Websites for hosting and fetching JSON](https://dev.to/darkxenium/some-websites-for-hosting-and-fetching-json-58c6)
 - [The Life Cycle of Developing a Website 🚴‍♀️](https://dev.to/kunalkeshan/the-life-cycle-of-developing-a-website-3pkm)
-- [12 Game-Changing APIs to Elevate Your Next Project](https://dev.to/devland/12-game-changing-apis-to-elevate-your-next-project-24dn)
 <!-- BLOG-POST-LIST:END -->
 
