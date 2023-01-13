@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cleaner JS Module Imports](https://dev.to/mmvergara/cleaner-js-module-imports-56dk)
-- [Backend-less Web Development With PostgREST](https://dev.to/zenstack/backend-less-web-development-with-postgrest-3ma8)
-- [All about Open Source](https://dev.to/shubhsharma19/all-about-open-source-453l)
-- [How to create API Documentation?](https://dev.to/devsimc/how-to-create-api-documentation-jfh)
+- [MinIO on OpenBSD 7.2: インストール](https://dev.to/nabbisen/minio-on-openbsd-72-insutoru-nod)
+- [The Best AWS re:Invent Ever? Looking Back at Eleven Editions](https://dev.to/aws-heroes/the-best-aws-reinvent-ever-looking-back-at-eleven-editions-2mpg)
+- [Linear Algebra for Data Science: Understanding and Applying Vectors, Matrices and their Operations using Numpy](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m)
+- [Passwordless authentication for your website in 5 minutes!](https://dev.to/dagnelies/passwordless-authentication-for-your-website-in-5-minutes-1c31)
 <!-- BLOG-POST-LIST:END -->
 
