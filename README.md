@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Burn Out: Self-Care Tips for Software Engineers](https://dev.to/omrigm/dont-burn-out-self-care-tips-for-software-engineers-49fl)
+- [Share your locally hosted web app using Codespaces](https://dev.to/github/share-your-locally-hosted-web-app-using-codespaces-276k)
+- [Make Money As a Technical Writer ✍🏻](https://dev.to/patilganesh1010/make-money-as-a-technical-writer-4ifl)
 - [7 steps to Angular Material Dialog instead of Angular Component](https://dev.to/juliecherner/7-steps-to-angular-material-dialog-instead-of-angular-component-4jlb)
-- [5 GitHub Repositories That Will Make Your Life Easier](https://dev.to/onlydevs_/5-github-repositories-that-will-make-your-life-easier-l0j)
-- [How to install Tailwind CSS with Nuxt.js and Flowbite](https://dev.to/themesberg/how-to-install-tailwind-css-with-nuxtjs-and-flowbite-20fj)
-- [How to send an automated email via Google Script?](https://dev.to/connectaryal/how-to-send-an-automated-email-via-google-script-ci1)
 <!-- BLOG-POST-LIST:END -->
 
