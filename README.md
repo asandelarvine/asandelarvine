@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [E-commerce Design Best Practices](https://dev.to/alyciakyla/e-commerce-design-best-practices-3fn3)
 - [React Components 101: Building Reusable Components](https://dev.to/devarshishimpi/react-components-101-building-reusable-components-3pf9)
 - [Component Testing with Cypress](https://dev.to/nickytonline/component-testing-with-cypress-kog)
 - [Learn To Create An App From Scratch In 13 Steps](https://dev.to/s04282976alisha/learn-to-create-an-app-from-scratch-in-13-steps-45c)
-- [Exploring the possibilities: How AI is enhancing the human creativity](https://dev.to/gaurav_meherkhamb/exploring-the-possibilities-how-ai-is-enhancing-the-human-creativity-2cf1)
 <!-- BLOG-POST-LIST:END -->
 
