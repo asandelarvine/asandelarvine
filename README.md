@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Components 101: Building Reusable Components](https://dev.to/devarshishimpi/react-components-101-building-reusable-components-3pf9)
+- [Component Testing with Cypress](https://dev.to/nickytonline/component-testing-with-cypress-kog)
+- [Learn To Create An App From Scratch In 13 Steps](https://dev.to/s04282976alisha/learn-to-create-an-app-from-scratch-in-13-steps-45c)
 - [Exploring the possibilities: How AI is enhancing the human creativity](https://dev.to/gaurav_meherkhamb/exploring-the-possibilities-how-ai-is-enhancing-the-human-creativity-2cf1)
-- [Git - How to edit or remove a &quot;pushed&quot; commit using Visual Studio](https://dev.to/thebernardlim/git-how-to-edit-or-remove-a-pushed-commit-using-visual-studio-2876)
-- [Some Websites for hosting and fetching JSON](https://dev.to/darkxenium/some-websites-for-hosting-and-fetching-json-58c6)
-- [The Life Cycle of Developing a Website 🚴‍♀️](https://dev.to/kunalkeshan/the-life-cycle-of-developing-a-website-3pkm)
 <!-- BLOG-POST-LIST:END -->
 
