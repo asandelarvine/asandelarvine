@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [We&#39;re on ruby.social](https://dev.to/devteam/were-on-rubysocial-1m3n)
+- [Next.js Tips, Tricks, and Features you Probably Don&#39;t Know](https://dev.to/jaredm/nextjs-tips-tricks-and-features-you-probably-dont-know-1oa5)
 - [How To Stream A Video With NodeJS](https://dev.to/fredabod/how-to-stream-a-video-with-nodejs-58gn)
-- [Naming inconsistencies, rants and solutions &lpar;by a WooCommerce theme developer&rpar;](https://dev.to/ingosteinke/naming-inconsistencies-rants-and-solutions-for-woocommerce-theme-development-3mba)
-- [Brainwash yourself everyday to success!🧠😍](https://dev.to/evansifyke/brainwash-yourself-everyday-to-success-114p)
+- [IndexedDB, your offline and serverless DB in your browser with React](https://dev.to/esponges/indexeddb-your-offline-and-serverless-db-in-your-browser-with-react-3hm7)
 <!-- BLOG-POST-LIST:END -->
 
