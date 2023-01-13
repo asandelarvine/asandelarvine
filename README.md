@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All the Ways to Remove an Item from an Array](https://dev.to/mohsenkamrani/all-the-ways-to-remove-an-item-from-an-array-1m60)
+- [A former GitHub VP’s insights into how engineers build their products without actually knowing if they’ll be used](https://dev.to/linearb/a-former-github-vps-insights-into-how-engineers-build-their-products-without-actually-knowing-if-theyll-be-used-3jno)
+- [Unlocking the Potential of AI for Developers: How to Increase Productivity &amp; Shorten Time-To-Market](https://dev.to/eekayonline/unlocking-the-potential-of-ai-for-developers-how-to-increase-productivity-shorten-time-to-market-48h7)
 - [We&#39;re on ruby.social](https://dev.to/devteam/were-on-rubysocial-1m3n)
-- [Next.js Tips, Tricks, and Features you Probably Don&#39;t Know](https://dev.to/jaredm/nextjs-tips-tricks-and-features-you-probably-dont-know-1oa5)
-- [How To Stream A Video With NodeJS](https://dev.to/fredabod/how-to-stream-a-video-with-nodejs-58gn)
-- [IndexedDB, your offline and serverless DB in your browser with React](https://dev.to/esponges/indexeddb-your-offline-and-serverless-db-in-your-browser-with-react-3hm7)
 <!-- BLOG-POST-LIST:END -->
 
