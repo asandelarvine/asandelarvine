@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Remembering Aaron Swartz&quot; from Endless Thread 🎧](https://dev.to/erinposting/remembering-aaron-swartz-from-endless-thread-1776)
+- [Building a composable query generator for GraphQL](https://dev.to/aha/building-a-composable-query-generator-for-graphql-36mn)
 - [VS Code Shortcuts To Code Like You&#39;re Playing a Piano](https://dev.to/aziznal/vs-code-shortcuts-to-code-like-youre-playing-a-piano-50ab)
 - [Don&#39;t Burn Out: Self-Care Tips for Software Engineers](https://dev.to/omrigm/dont-burn-out-self-care-tips-for-software-engineers-49fl)
-- [Share your locally hosted web app using Codespaces](https://dev.to/github/share-your-locally-hosted-web-app-using-codespaces-276k)
-- [Make Money As a Technical Writer ✍🏻](https://dev.to/patilganesh1010/make-money-as-a-technical-writer-4ifl)
 <!-- BLOG-POST-LIST:END -->
 
