@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleaner JS Module Imports](https://dev.to/mmvergara/cleaner-js-module-imports-56dk)
+- [Backend-less Web Development With PostgREST](https://dev.to/zenstack/backend-less-web-development-with-postgrest-3ma8)
+- [All about Open Source](https://dev.to/shubhsharma19/all-about-open-source-453l)
 - [How to create API Documentation?](https://dev.to/devsimc/how-to-create-api-documentation-jfh)
-- [CORS, Authentication, and Authorization: Understanding the Differences](https://dev.to/rusydy/cors-authentication-and-authorization-understanding-the-differences-4gol)
-- [E-commerce Design Best Practices](https://dev.to/alyciakyla/e-commerce-design-best-practices-3fn3)
-- [React Components 101: Building Reusable Components](https://dev.to/devarshishimpi/react-components-101-building-reusable-components-3pf9)
 <!-- BLOG-POST-LIST:END -->
 
