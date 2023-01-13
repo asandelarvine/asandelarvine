@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create an Astro Search component 🔍🤔](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
+- [How to increase developer productivity](https://dev.to/ibrahimraimi/how-to-increase-developer-productivity-567o)
+- [10 Extensions to Improve your Productivity with Notion](https://dev.to/zt4ff_1/10-extensions-to-improve-your-productivity-with-notion-9gh)
 - [Portfolio Website Inspired by VS Code](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
-- [Startup Growth &amp; Metrics: What to Measure &amp; When](https://dev.to/linearb/startup-growth-metrics-what-to-measure-when-2in0)
-- [8 Juicy Chrome Extensions for Web Developers](https://dev.to/arafat4693/8-juicy-chrome-extensions-for-web-developers-3ien)
-- [Assembly For JavaScript Developers](https://dev.to/____marcell/assembly-for-javascript-developers-p0h)
 <!-- BLOG-POST-LIST:END -->
 
