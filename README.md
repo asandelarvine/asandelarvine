@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A complete guide for Markdown files](https://dev.to/yaswanthteja/a-complete-guide-for-markdown-files-9me)
 - [PIANO: A Simple and Lightweight HTTP Framework Implemented in Go](https://dev.to/justlorain/piano-a-simple-and-lightweight-http-framework-implemented-in-go-224p)
+- [Java Software Engineers, for Ireland-Dublin](https://dev.to/pulkitpurohit/java-software-engineers-for-ireland-dublin-4gh2)
 - [GKE Cost Optimization: 10 Steps For A Lower Cloud Bill In 2023](https://dev.to/castai/gke-cost-optimization-10-steps-for-a-lower-cloud-bill-in-2023-67a)
-- [Custom Notification Template with JS](https://dev.to/shubhamtiwari909/custom-notification-template-with-js-5bc)
-- [MinIO on OpenBSD 7.2: インストール](https://dev.to/nabbisen/minio-on-openbsd-72-insutoru-nod)
 <!-- BLOG-POST-LIST:END -->
 
