@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an Astro Search component 🔍🤔](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731)
-- [How to increase developer productivity](https://dev.to/ibrahimraimi/how-to-increase-developer-productivity-567o)
-- [10 Extensions to Improve your Productivity with Notion](https://dev.to/zt4ff_1/10-extensions-to-improve-your-productivity-with-notion-9gh)
-- [Portfolio Website Inspired by VS Code](https://dev.to/lotfijb/portfolio-website-inspired-by-vs-code-103k)
+- [Git - How to edit or remove a &quot;pushed&quot; commit using Visual Studio](https://dev.to/thebernardlim/git-how-to-edit-or-remove-a-pushed-commit-using-visual-studio-2876)
+- [Some Websites for hosting and fetching JSON](https://dev.to/darkxenium/some-websites-for-hosting-and-fetching-json-58c6)
+- [The Life Cycle of Developing a Website 🚴‍♀️](https://dev.to/kunalkeshan/the-life-cycle-of-developing-a-website-3pkm)
+- [12 Game-Changing APIs to Elevate Your Next Project](https://dev.to/devland/12-game-changing-apis-to-elevate-your-next-project-24dn)
 <!-- BLOG-POST-LIST:END -->
 
