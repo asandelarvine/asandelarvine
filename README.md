@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting A Highly Dynamic Card List In Angular](https://dev.to/angular/architecting-a-highly-dynamic-card-list-in-angular-53e)
-- [PostgreSQL 14.5 on OpenBSD 7.2: インストール](https://dev.to/nabbisen/postgresql-145-on-openbsd-72-insutoru-269f)
-- [OpenBSD アップグレード 7.1 から 7.2 へ](https://dev.to/nabbisen/openbsd-atupuguredo-71-kara-72-he-4gkn)
-- [Variables](https://dev.to/nuriddin1549/variables-f9e)
+- [GOlang ile şifreleme işlemleri için crypto paketi](https://dev.to/aciklab/golang-ile-sifreleme-islemleri-icin-crypto-paketi-eaa)
+- [Creating Virtual Environments - Python](https://dev.to/vincod/creating-virtual-environments-python-4dn4)
+- [Statistics for data science with practice](https://dev.to/anurag629/statistics-for-data-science-with-practice-27h6)
+- [AWS Machine Learning and SageMaker](https://dev.to/aymanmetwally2020/aws-machine-learning-and-sagemaker-3llo)
 <!-- BLOG-POST-LIST:END -->
 
