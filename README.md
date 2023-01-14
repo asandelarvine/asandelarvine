@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Live Suffix in LiveView](https://dev.to/clsource/using-live-suffix-in-liveview-2m07)
 - [9 Important hard skills for every DevOps engineer](https://dev.to/alexrashkov/9-important-hard-skills-for-every-devops-engineer-41ei)
 - [Project Idea Resources for Web Developers](https://dev.to/hanishrao/project-idea-resources-for-web-developers-4p1o)
-- [orms python: uma visão geral](https://dev.to/leandcesar/orms-python-uma-visao-geral-2po3)
-- [All the Ways to Remove an Item from an Array](https://dev.to/mohsenkamrani/all-the-ways-to-remove-an-item-from-an-array-1m60)
+- [EF Power Tools tutorial](https://dev.to/karenpayneoregon/ef-power-tools-tutorial-44d8)
 <!-- BLOG-POST-LIST:END -->
 
