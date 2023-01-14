@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB](https://dev.to/jagroop2000/mongodb-18p9)
+- [The Javascript Ecosystem for the Dazed and Confused](https://dev.to/thepassle/the-javascript-ecosystem-for-the-dazed-and-confused-36il)
 - [10 Chrome Extensions Every Web Developer Should Know](https://dev.to/onlydevs_/10-chrome-extensions-every-web-developer-should-know-3kp5)
 - [Go custom struct validation - the idiomatic way](https://dev.to/pankhudib/go-custom-struct-validation-the-idiomatic-way-53m8)
 - [Build your porfolio using Next.jS and TailwindCSS](https://dev.to/munene/build-your-porfolio-using-nextjs-and-tailwindcss-5207)
