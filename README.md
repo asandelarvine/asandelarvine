@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [51 AI tools you should be using for life, programming, content creation and everything else](https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k)
 - [Using Beautiful Material Themes from Material Theme Builder in Stylify CSS](https://dev.to/machy8/using-beautiful-material-themes-from-material-theme-builder-in-stylify-css-430k)
 - [Y U NO USE the JS native APIs?](https://dev.to/noriller/y-u-no-use-the-js-native-apis-39dh)
 - [Introduction of OOP](https://dev.to/khoshimov23/introduction-of-oop-d17)
-- [Javascript Questions for the Dazed and Confused](https://dev.to/thepassle/the-javascript-ecosystem-for-the-dazed-and-confused-36il)
 <!-- BLOG-POST-LIST:END -->
 
