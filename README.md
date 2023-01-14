@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Chrome Extensions Every Web Developer Should Know](https://dev.to/onlydevs_/10-chrome-extensions-every-web-developer-should-know-3kp5)
 - [Go custom struct validation - the idiomatic way](https://dev.to/pankhudib/go-custom-struct-validation-the-idiomatic-way-53m8)
 - [Build your porfolio using Next.jS and TailwindCSS](https://dev.to/munene/build-your-porfolio-using-nextjs-and-tailwindcss-5207)
 - [Top 10 extensiones para VSCode](https://dev.to/anthonytrillo/top-10-extensiones-para-vscode-2lgi)
-- [How to use ChatGPT to boost your developer productivity](https://dev.to/developeratul/how-to-use-chatgpt-to-boost-your-developer-productivity-3e5a)
 <!-- BLOG-POST-LIST:END -->
 
