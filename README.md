@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecting A Highly Dynamic Card List In Angular](https://dev.to/angular/architecting-a-highly-dynamic-card-list-in-angular-53e)
+- [PostgreSQL 14.5 on OpenBSD 7.2: インストール](https://dev.to/nabbisen/postgresql-145-on-openbsd-72-insutoru-269f)
+- [OpenBSD アップグレード 7.1 から 7.2 へ](https://dev.to/nabbisen/openbsd-atupuguredo-71-kara-72-he-4gkn)
 - [Variables](https://dev.to/nuriddin1549/variables-f9e)
-- [Docker Cheat Sheet all You Need To Know About Docker Command](https://dev.to/giasuddin90/docker-cheat-sheet-all-you-need-to-know-about-docker-command-3nb8)
-- [How can I learn Python in a week?](https://dev.to/ridhisingla001/how-can-i-learn-python-in-a-week-3946)
-- [FileOrganizer: Organize your files in a simple command](https://dev.to/plsankar/fileorganizer-organize-your-files-in-a-simple-command-4hkn)
 <!-- BLOG-POST-LIST:END -->
 
