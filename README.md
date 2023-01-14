@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GOlang ile şifreleme işlemleri için crypto paketi](https://dev.to/aciklab/golang-ile-sifreleme-islemleri-icin-crypto-paketi-eaa)
-- [Creating Virtual Environments - Python](https://dev.to/vincod/creating-virtual-environments-python-4dn4)
-- [Statistics for data science with practice](https://dev.to/anurag629/statistics-for-data-science-with-practice-27h6)
-- [AWS Machine Learning and SageMaker](https://dev.to/aymanmetwally2020/aws-machine-learning-and-sagemaker-3llo)
+- [Go custom struct validation - the idiomatic way](https://dev.to/pankhudib/go-custom-struct-validation-the-idiomatic-way-53m8)
+- [Build your porfolio using Next.jS and TailwindCSS](https://dev.to/munene/build-your-porfolio-using-nextjs-and-tailwindcss-5207)
+- [Top 10 extensiones para VSCode](https://dev.to/anthonytrillo/top-10-extensiones-para-vscode-2lgi)
+- [How to use ChatGPT to boost your developer productivity](https://dev.to/developeratul/how-to-use-chatgpt-to-boost-your-developer-productivity-3e5a)
 <!-- BLOG-POST-LIST:END -->
 
