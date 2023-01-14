@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is ChatGPT testing the users?](https://dev.to/alvaromontoro/is-chatgpt-testing-the-users-3nb5)
 - [NestJS Authentication with OAuth2.0: Configuration and Operations](https://dev.to/tugascript/nestjs-authentication-with-oauth20-configuration-and-operations-41k)
 - [51 AI tools you should be using for life, programming, content creation and everything else](https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k)
 - [Avoiding common pitfalls with ControlValueAccessors in Angular](https://dev.to/valorsoftware/avoiding-common-pitfalls-with-controlvalueaccessors-in-angular-4m57)
-- [Using Beautiful Material Themes from Material Theme Builder in Stylify CSS](https://dev.to/machy8/using-beautiful-material-themes-from-material-theme-builder-in-stylify-css-430k)
 <!-- BLOG-POST-LIST:END -->
 
