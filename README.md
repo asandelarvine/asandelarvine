@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Variables](https://dev.to/nuriddin1549/variables-f9e)
+- [Docker Cheat Sheet all You Need To Know About Docker Command](https://dev.to/giasuddin90/docker-cheat-sheet-all-you-need-to-know-about-docker-command-3nb8)
+- [How can I learn Python in a week?](https://dev.to/ridhisingla001/how-can-i-learn-python-in-a-week-3946)
 - [How to integrate chatGPT in WhatsApp on Android?](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-android-1npn)
-- [9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
-- [How to build a portfolio website with React &amp; Tailwind CSS](https://dev.to/coderamrin/how-to-build-a-portfolio-website-with-react-tailwind-css-fni)
-- [&quot;Building with Node.js: Navigating the World of Best Practices and Best Tools&quot;](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
 <!-- BLOG-POST-LIST:END -->
 
