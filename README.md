@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mailgun REST API integration from serverless node.js](https://dev.to/restdbjones/mailgun-rest-api-integration-from-serverless-nodejs-5hc7)
+- [Unlock the Power of Next.js and Tailwind CSS: The Ultimate Stack for Frontend Developers Starting in 202](https://dev.to/msolecki/unlock-the-power-of-nextjs-and-tailwind-css-the-ultimate-stack-for-frontend-developers-starting-in-202-3o6j)
 - [Demystifying AWS Lambda Functions](https://dev.to/conorshirren/demystifying-aws-lambda-functions-92d)
-- [What&#39;s your current tech stack for web development?](https://dev.to/arafat4693/which-tech-stack-are-you-currently-using-as-a-web-dev-30k5)
-- [Top 8 Paid Open Source Programs To Apply To in 2023](https://dev.to/ezinne_anne/top-8-paid-open-source-programs-to-apply-to-in-2023-1ina)
-- [GraphQL basics and how it differs from REST](https://dev.to/guigoncalves/graphql-basics-and-how-it-differs-from-rest-27j7)
+- [Get into AWS Cloud: Beginners Guide](https://dev.to/aftabahmedabro/get-into-aws-cloud-beginners-guild-17db)
 <!-- BLOG-POST-LIST:END -->
 
