@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is ChatGPT testing the users?](https://dev.to/alvaromontoro/is-chatgpt-testing-the-users-3nb5)
-- [NestJS Authentication with OAuth2.0: Configuration and Operations](https://dev.to/tugascript/nestjs-authentication-with-oauth20-configuration-and-operations-41k)
-- [51 AI tools you should be using for life, programming, content creation and everything else](https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k)
-- [Avoiding common pitfalls with ControlValueAccessors in Angular](https://dev.to/valorsoftware/avoiding-common-pitfalls-with-controlvalueaccessors-in-angular-4m57)
+- [What&#39;s your current tech stack for web development?](https://dev.to/arafat4693/which-tech-stack-are-you-currently-using-as-a-web-dev-30k5)
+- [Top 8 Paid Open Source Programs To Apply To in 2023](https://dev.to/ezinne_anne/top-8-paid-open-source-programs-to-apply-to-in-2023-1ina)
+- [GraphQL basics and how it differs from REST](https://dev.to/guigoncalves/graphql-basics-and-how-it-differs-from-rest-27j7)
+- [Do You Really Need to Learn Every Git Command to be a Senior or Mid-Senior Web Developer?](https://dev.to/ayka_code/do-you-really-need-to-learn-every-git-command-to-be-a-senior-or-mid-senior-web-developer-5a8b)
 <!-- BLOG-POST-LIST:END -->
 
