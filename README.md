@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Variables](https://dev.to/nuriddin1549/variables-f9e)
 - [Docker Cheat Sheet all You Need To Know About Docker Command](https://dev.to/giasuddin90/docker-cheat-sheet-all-you-need-to-know-about-docker-command-3nb8)
 - [How can I learn Python in a week?](https://dev.to/ridhisingla001/how-can-i-learn-python-in-a-week-3946)
-- [How to integrate chatGPT in WhatsApp on Android?](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-android-1npn)
+- [FileOrganizer: Organize your files in a simple command](https://dev.to/plsankar/fileorganizer-organize-your-files-in-a-simple-command-4hkn)
 <!-- BLOG-POST-LIST:END -->
 
