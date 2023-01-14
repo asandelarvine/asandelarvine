@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to integrate chatGPT in WhatsApp on Android?](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-android-1npn)
 - [9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
 - [How to build a portfolio website with React &amp; Tailwind CSS](https://dev.to/coderamrin/how-to-build-a-portfolio-website-with-react-tailwind-css-fni)
 - [&quot;Building with Node.js: Navigating the World of Best Practices and Best Tools&quot;](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
-- [Using Live Suffix in LiveView](https://dev.to/clsource/using-live-suffix-in-liveview-2m07)
 <!-- BLOG-POST-LIST:END -->
 
