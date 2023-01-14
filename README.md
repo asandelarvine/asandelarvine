@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Common JavaScript Interview Questions You Might Not Know The Answer For.](https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g)
+- [&quot;Building with Node.js: Navigating the World of Best Practices and Best Tools&quot;](https://dev.to/hanishrao/building-with-nodejs-navigating-the-world-of-best-practices-and-best-tools-2c2n)
 - [Using Live Suffix in LiveView](https://dev.to/clsource/using-live-suffix-in-liveview-2m07)
 - [9 Important hard skills for every DevOps engineer](https://dev.to/alexrashkov/9-important-hard-skills-for-every-devops-engineer-41ei)
-- [Project Idea Resources for Web Developers](https://dev.to/hanishrao/project-idea-resources-for-web-developers-4p1o)
-- [EF Power Tools tutorial](https://dev.to/karenpayneoregon/ef-power-tools-tutorial-44d8)
 <!-- BLOG-POST-LIST:END -->
 
