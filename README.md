@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLiP Stack Weekly for 15-Jan-2023](https://dev.to/tspannhw/flip-stack-weekly-for-15-jan-2023-20en)
+- [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-224p)
 - [40 Essential Linux Commands That Every Developer Should Know](https://dev.to/trinhcamminh/40-essential-linux-commands-that-every-developer-should-know-22hn)
 - [Complete Guide To Make You a Regex Guru](https://dev.to/perssondennis/complete-guide-to-make-you-a-regex-guru-3i1k)
-- [15 Useful React Custom Hooks That You Can Use In Any Project](https://dev.to/arafat4693/15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8)
-- [Naming Things in Program](https://dev.to/tsotsi1/naming-things-in-program-552p)
 <!-- BLOG-POST-LIST:END -->
 
