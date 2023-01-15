@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML 101: Adding Images and Videos to Your Webpages](https://dev.to/kunaal438/html-101-adding-images-and-videos-to-your-webpages-26cb)
+- [Lemmy Server 0.16.7 on OpenBSD 7.2: Install](https://dev.to/nabbisen/lemmy-server-0167-on-openbsd-72-install-1gk1)
+- [Boost your Python development in VS Code: Top picks for extensions 💻🚀🛠️](https://dev.to/siwhelan/boost-your-python-development-in-vs-code-top-picks-for-extensions-2jkh)
 - [These newer programming Languages could be the future](https://dev.to/niza/these-newer-programming-languages-could-be-the-future-182c)
-- [🚀Top Bootstrap Admin Templates🚀](https://dev.to/flatlogic_manager/top-bootstrap-admin-templates-3ld9)
-- [Kubectl Logs Tail | How to Tail Kubernetes Logs](https://dev.to/danielfavour/kubectl-logs-tail-how-to-tail-kubernetes-logs-gdl)
-- [Thank you DEV!](https://dev.to/chainguns/thank-you-dev-24a5)
 <!-- BLOG-POST-LIST:END -->
 
