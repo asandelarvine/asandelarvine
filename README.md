@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to be a Solution Architect #1: Skillset](https://dev.to/sdtslmn/how-to-be-a-solution-architect-1-skillset-fcf)
+- [Compilado dicas de carreira - parte 1](https://dev.to/hugaomarques/compilado-dicas-de-carreira-parte-1-kif)
 - [Authenticate using Auth0](https://dev.to/mitul3737/authenticate-using-auth0-535l)
 - [Atomic Habits](https://dev.to/skydler/atomic-habits-20an)
-- [Mailgun REST API integration from serverless node.js](https://dev.to/restdbjones/mailgun-rest-api-integration-from-serverless-nodejs-5hc7)
-- [Unlock the Power of Next.js and Tailwind CSS: The Ultimate Stack for Frontend Developers Starting in 202](https://dev.to/msolecki/unlock-the-power-of-nextjs-and-tailwind-css-the-ultimate-stack-for-frontend-developers-starting-in-202-3o6j)
 <!-- BLOG-POST-LIST:END -->
 
