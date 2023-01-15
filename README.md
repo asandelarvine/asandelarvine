@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Useful React Custom Hooks That You Can Use In Any Project](https://dev.to/arafat4693/15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8)
+- [pict-rs 0.3.2 on OpenBSD 7.2: Install](https://dev.to/nabbisen/pict-rs-032-on-openbsd-72-install-49e6)
 - [HTML 101: Adding Images and Videos to Your Webpages](https://dev.to/kunaal438/html-101-adding-images-and-videos-to-your-webpages-26cb)
-- [Lemmy Server 0.16.7 on OpenBSD 7.2: Install](https://dev.to/nabbisen/lemmy-server-0167-on-openbsd-72-install-1gk1)
-- [Boost your Python development in VS Code: Top picks for extensions 💻🚀🛠️](https://dev.to/siwhelan/boost-your-python-development-in-vs-code-top-picks-for-extensions-2jkh)
-- [These newer programming Languages could be the future](https://dev.to/niza/these-newer-programming-languages-could-be-the-future-182c)
+- [Lemmy UI 0.16.7 on OpenBSD 7.2: Install](https://dev.to/nabbisen/lemmy-ui-0167-on-openbsd-72-install-3l8a)
 <!-- BLOG-POST-LIST:END -->
 
