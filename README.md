@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Productivity Rabbit Hole](https://dev.to/acromondx/the-productivity-rabbit-hole-33k9)
+- [Install DDEV, the local PHP development environment](https://dev.to/jonesrussell/install-ddev-the-local-php-development-environment-2ljm)
 - [FLiP Stack Weekly for 15-Jan-2023](https://dev.to/tspannhw/flip-stack-weekly-for-15-jan-2023-20en)
-- [CSS nesting is coming](https://dev.to/alvaromontoro/css-nesting-is-coming-2i5o)
-- [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-224p)
-- [40 Essential Linux Commands That Every Developer Should Know](https://dev.to/trinhcamminh/40-essential-linux-commands-that-every-developer-should-know-22hn)
+- [Yet Another Newsletter LOL: &#39;Sup 2023?](https://dev.to/nickytonline/yet-another-newsletter-lol-sup-2023-17jm)
 <!-- BLOG-POST-LIST:END -->
 
