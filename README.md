@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Just Added Engineering Job Offers - Week #3 of 2023](https://dev.to/shman/just-added-engineering-job-offers-week-3-of-2023-4lko)
-- [Multiplatform Settings 1.0.0](https://dev.to/russhwolf/multiplatform-settings-100-5eoa)
-- [Build a Todo App with Next.js and AWS Amplify](https://dev.to/aws-builders/build-a-todo-app-with-nextjs-and-aws-amplify-59ld)
-- [How to A/B test your Python application](https://dev.to/codedbychavez/how-to-ab-test-your-python-application-3mjo)
+- [What are some advanced Python projects?](https://dev.to/ridhisingla001/what-are-some-advanced-python-projects-6cc)
+- [What are some good web development projects using Python?](https://dev.to/ridhisingla001/what-are-some-good-web-development-projects-using-python-216k)
+- [Intro to Git](https://dev.to/ridhisingla001/intro-to-git-16j4)
+- [What is Product Management?](https://dev.to/ridhisingla001/what-is-product-management-3a2g)
 <!-- BLOG-POST-LIST:END -->
 
