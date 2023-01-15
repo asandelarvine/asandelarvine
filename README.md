@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Fantastic websites every developer must know](https://dev.to/hy_piyush/9-fantastic-websites-every-developer-must-know-580a)
 - [What are some advanced Python projects?](https://dev.to/ridhisingla001/what-are-some-advanced-python-projects-6cc)
 - [What are some good web development projects using Python?](https://dev.to/ridhisingla001/what-are-some-good-web-development-projects-using-python-216k)
 - [Intro to Git](https://dev.to/ridhisingla001/intro-to-git-16j4)
-- [What is Product Management?](https://dev.to/ridhisingla001/what-is-product-management-3a2g)
 <!-- BLOG-POST-LIST:END -->
 
