@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Todo App with Next.js and AWS Amplify](https://dev.to/aws-builders/build-a-todo-app-with-nextjs-and-aws-amplify-59ld)
 - [How to be a Solution Architect #1: Skillset](https://dev.to/sdtslmn/how-to-be-a-solution-architect-1-skillset-fcf)
 - [Compilado dicas de carreira - parte 1](https://dev.to/hugaomarques/compilado-dicas-de-carreira-parte-1-kif)
-- [Authenticate using Auth0](https://dev.to/mitul3737/authenticate-using-auth0-535l)
-- [Atomic Habits](https://dev.to/skydler/atomic-habits-20an)
+- [How to use Chart.js to create a Chart for Your Project](https://dev.to/ijay/how-to-use-chartjs-to-create-a-chart-for-your-project-3kk2)
 <!-- BLOG-POST-LIST:END -->
 
