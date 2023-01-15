@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Opening applications without knowing their paths in python...](https://dev.to/athrvvvv/opening-applications-without-knowing-their-paths-in-python-2k4b)
 - [The Productivity Rabbit Hole](https://dev.to/acromondx/the-productivity-rabbit-hole-33k9)
+- [Adventures with JavaScript Arrays: Sorting an Array of Numbers](https://dev.to/juniordevforlife/adventures-with-javascript-arrays-sorting-an-array-of-numbers-571p)
 - [Install DDEV, the local PHP development environment](https://dev.to/jonesrussell/install-ddev-the-local-php-development-environment-2ljm)
-- [FLiP Stack Weekly for 15-Jan-2023](https://dev.to/tspannhw/flip-stack-weekly-for-15-jan-2023-20en)
-- [Yet Another Newsletter LOL: &#39;Sup 2023?](https://dev.to/nickytonline/yet-another-newsletter-lol-sup-2023-17jm)
 <!-- BLOG-POST-LIST:END -->
 
