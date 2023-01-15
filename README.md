@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubectl Logs Tail | How to Tail Kubernetes Logs](https://dev.to/danielfavour/kubectl-logs-tail-how-to-tail-kubernetes-logs-gdl)
 - [Thank you DEV!](https://dev.to/chainguns/thank-you-dev-24a5)
 - [AI Prompt Generator Online](https://dev.to/foxinfotech/ai-prompt-generator-online-5dgb)
 - [9 Fantastic websites every developer must know](https://dev.to/hy_piyush/9-fantastic-websites-every-developer-must-know-580a)
-- [What are some advanced Python projects?](https://dev.to/ridhisingla001/what-are-some-advanced-python-projects-6cc)
 <!-- BLOG-POST-LIST:END -->
 
