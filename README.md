@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are SysLog formats? How to use them?](https://dev.to/signoz/what-are-syslog-formats-how-to-use-them-e06)
+- [Tip : Write better error messages with ChatGPT](https://dev.to/shiling/tip-write-better-error-messages-with-chatgpt-53k)
+- [What do you think tech will look like five years from now?](https://dev.to/deepgram/what-do-you-think-tech-will-look-like-five-years-from-now-49e4)
 - [How to Update EventBridge Schedules with Lambdas](https://dev.to/fanmixco/how-to-update-eventbridge-schedules-with-lambdas-2482)
-- [Roadmap to becoming a 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 for 𝗙𝗥𝗘𝗘](https://dev.to/ridhisingla001/roadmap-to-becoming-a-for-698)
-- [Best Practices For Using IAM](https://dev.to/yogita/best-practices-for-using-iam-32jk)
-- [RSpec GraphQL integration testing](https://dev.to/peterfication/rspec-graphql-integration-testing-1m2l)
 <!-- BLOG-POST-LIST:END -->
 
