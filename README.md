@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5+ Best Free ReactJS Admin Dashboard Templates for 2023](https://dev.to/fredy/top-5-best-free-reactjs-admin-dashboard-templates-for-2023-1eh7)
-- [Async pipe is not pure 🤯](https://dev.to/this-is-angular/async-pipe-is-not-pure-5h6p)
-- [Commit to Community](https://dev.to/jarvisscript/commit-to-community-59lg)
-- [Best Chrome Extensions for Developers](https://dev.to/connectaryal/best-chrome-extensions-for-developers-4eek)
+- [Zero byte favicon markup — Keep the favicons without any of the markup](https://dev.to/shadowfaxrodeo/zero-byte-favicon-markup-keep-the-favicons-without-any-of-the-markup-47hg)
+- [Meme Monday 🌻](https://dev.to/ben/meme-monday-59le)
+- [Automating Advent Calendar with Github Actions and Eleventy](https://dev.to/eevajonnapanula/automating-advent-calendar-with-github-actions-and-eleventy-4fnp)
+- [An Introduction to Remix IDE](https://dev.to/shlok2740/an-introduction-to-remix-ide-16io)
 <!-- BLOG-POST-LIST:END -->
 
