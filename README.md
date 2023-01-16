@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top Five Static Site Generators &lpar;SSGs&rpar; for 2023 — and when to use them!](https://dev.to/cloudcannon/the-top-five-static-site-generators-ssgs-for-2023-and-when-to-use-them-39pg)
+- [Serverless Technology](https://dev.to/yellowgem/serverless-technology-p3m)
+- [Music Monday — What are you listening to? &lpar;80&#39;s Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-80s-edition-2fn6)
 - [Implementing Standalone Components in Angular 15](https://dev.to/ismaestro/implementing-standalone-components-in-angular-15-3c2p)
-- [7 open source projects worth the hype in 2023](https://dev.to/microtica/-7-open-source-projects-worth-the-hype-in-2023-2aa0)
-- [Docker tutorial - understanding of Dockerfile](https://dev.to/bitethecode/docker-tutorial-understanding-of-dockerfile-2mjb)
-- [Кастомный React хук— useDebounce](https://dev.to/mukhammadsobirov/kastomnyi-react-khuk-usedebounce-2b3l)
 <!-- BLOG-POST-LIST:END -->
 
