@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hertz supports HTTP3 Interpretation of v0.5.0 version](https://dev.to/llance_24/hertz-supports-http3-interpretation-of-v050-version-5hff)
+- [24 Things I wish I knew when I started learning how to code](https://dev.to/hy_piyush/24-things-i-wish-i-knew-when-i-started-learning-how-to-code-2pfo)
+- [Mastering the Art of Writing Effective GitHub Commit Messages](https://dev.to/ashishxcode/mastering-the-art-of-writing-effective-github-commit-messages-5d2p)
 - [nslookup](https://dev.to/sunnybhambhani/nslookup-32d1)
-- [Top 4 Soft Skills for Engineers](https://dev.to/sbenhoff/top-4-soft-skills-for-engineers-205j)
-- [Visitor Pattern in Typescript](https://dev.to/kerisnarendra/visitor-pattern-in-typescript-2jeg)
-- [How working/install Spark with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-spark-with-notebooks-5dkf)
 <!-- BLOG-POST-LIST:END -->
 
