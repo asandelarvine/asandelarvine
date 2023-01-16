@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 5+ Best Free ReactJS Admin Dashboard Templates for 2023](https://dev.to/fredy/top-5-best-free-reactjs-admin-dashboard-templates-for-2023-1eh7)
+- [Async pipe is not pure 🤯](https://dev.to/this-is-angular/async-pipe-is-not-pure-5h6p)
 - [Commit to Community](https://dev.to/jarvisscript/commit-to-community-59lg)
 - [Best Chrome Extensions for Developers](https://dev.to/connectaryal/best-chrome-extensions-for-developers-4eek)
-- [5 GitHub Repositories to Prepare for JavaScript Interviews](https://dev.to/onlydevs_/5-github-repositories-to-prepare-for-javascript-interviews-20lk)
 <!-- BLOG-POST-LIST:END -->
 
