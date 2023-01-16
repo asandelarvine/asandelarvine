@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are SysLog formats? How to use them?](https://dev.to/signoz/what-are-syslog-formats-how-to-use-them-e06)
-- [Tip : Write better error messages with ChatGPT](https://dev.to/shiling/tip-write-better-error-messages-with-chatgpt-53k)
-- [What do you think tech will look like five years from now?](https://dev.to/deepgram/what-do-you-think-tech-will-look-like-five-years-from-now-49e4)
-- [How to Update EventBridge Schedules with Lambdas](https://dev.to/fanmixco/how-to-update-eventbridge-schedules-with-lambdas-2482)
+- [Creating a Node.js Command-line Tool, Linux Terminal CLI and NPM Package](https://dev.to/basskibo/creating-a-nodejs-command-line-tool-linux-terminal-cli-and-npm-package-50na)
+- [Understanding and Implementing State Management in React: A Beginner&#39;s Guide](https://dev.to/abhaysinghr1/understanding-and-implementing-state-management-in-react-a-beginners-guide-55he)
+- [An awesome, cross-browser Star Wars circular wipe transition? CSS houdini vs clippath vs mask](https://dev.to/robole/an-awesome-cross-browser-star-wars-circular-wipe-transition-css-houdini-vs-clippath-vs-mask-4ffj)
+- [How to Succeed as an Introvert Engineer](https://dev.to/alexhyettdev/how-to-succeed-as-an-introvert-engineer-f7o)
 <!-- BLOG-POST-LIST:END -->
 
