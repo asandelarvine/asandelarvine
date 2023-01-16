@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HR Technology Trends in 2023: Digitalization with a Human Touch](https://dev.to/katerinastrielnikova/hr-technology-trends-in-2023-digitalization-with-a-human-touch-198l)
-- [Forcer la suppression de ressources Kubernetes](https://dev.to/mxglt/forcer-la-suppression-de-ressources-kubernetes-51fm)
-- [11 Dynamic Programming Problems and Questions for Tech Interviews](https://dev.to/javinpaul/11-dynamic-programming-problems-and-questions-for-tech-interviews-1180)
-- [Create a Paywall on a Next.js Blog Using FingerPrint and Sanity](https://dev.to/hackmamba/create-a-paywall-on-a-nextjs-blog-using-fingerprint-and-sanity-4kf7)
+- [Top 5+ Best Free ReactJS Admin Dashboard Templates for 2023](https://dev.to/fredy/top-5-best-free-reactjs-admin-dashboard-templates-for-2023-1eh7)
+- [Commit to Community](https://dev.to/jarvisscript/commit-to-community-59lg)
+- [Best Chrome Extensions for Developers](https://dev.to/connectaryal/best-chrome-extensions-for-developers-4eek)
+- [5 GitHub Repositories to Prepare for JavaScript Interviews](https://dev.to/onlydevs_/5-github-repositories-to-prepare-for-javascript-interviews-20lk)
 <!-- BLOG-POST-LIST:END -->
 
