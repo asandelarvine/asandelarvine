@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hertz supports HTTP3 Interpretation of v0.5.0 version](https://dev.to/llance_24/hertz-supports-http3-interpretation-of-v050-version-5hff)
-- [24 Things I wish I knew when I started learning how to code](https://dev.to/hy_piyush/24-things-i-wish-i-knew-when-i-started-learning-how-to-code-2pfo)
-- [Mastering the Art of Writing Effective GitHub Commit Messages](https://dev.to/ashishxcode/mastering-the-art-of-writing-effective-github-commit-messages-5d2p)
-- [nslookup](https://dev.to/sunnybhambhani/nslookup-32d1)
+- [AWS open source newsletter, #141](https://dev.to/aws/aws-open-source-newsletter-141-8eg)
+- [UNIT TESTING WITH JEST &lpar;with example&rpar;](https://dev.to/csituma/unit-testing-with-jest-with-example-29k4)
+- [What Happened to UUIDv2?](https://dev.to/this-is-learning/what-happened-to-uuidv2-en3)
+- [What are UUIDs?](https://dev.to/this-is-learning/what-are-uuids-45b9)
 <!-- BLOG-POST-LIST:END -->
 
