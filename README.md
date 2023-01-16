@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to debug Flutter app with real Android phone](https://dev.to/petrussola/how-to-debug-flutter-app-with-real-android-phone-693)
 - [Quick Start with the ReductStore JavaScript SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-javascript-sdk-172a)
 - [Career Success: 5 Tips on How To Take It To The Next Level &lpar;with resources&rpar;](https://dev.to/jareechang/career-success-5-tips-on-how-to-take-it-to-the-next-level-with-resources-5796)
 - [Opening applications without knowing their paths in python...](https://dev.to/athrvvvv/opening-applications-without-knowing-their-paths-in-python-2k4b)
-- [The Productivity Rabbit Hole](https://dev.to/acromondx/the-productivity-rabbit-hole-33k9)
 <!-- BLOG-POST-LIST:END -->
 
