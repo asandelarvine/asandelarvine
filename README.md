@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Safe Data Fetching in Modern JavaScript](https://dev.to/builderio/safe-data-fetching-in-modern-javascript-dp4)
 - [Zero byte favicon markup — Keep the favicons without any of the markup](https://dev.to/shadowfaxrodeo/zero-byte-favicon-markup-keep-the-favicons-without-any-of-the-markup-47hg)
 - [Meme Monday 🌻](https://dev.to/ben/meme-monday-59le)
 - [Automating Advent Calendar with Github Actions and Eleventy](https://dev.to/eevajonnapanula/automating-advent-calendar-with-github-actions-and-eleventy-4fnp)
-- [An Introduction to Remix IDE](https://dev.to/shlok2740/an-introduction-to-remix-ide-16io)
 <!-- BLOG-POST-LIST:END -->
 
