@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [nslookup](https://dev.to/sunnybhambhani/nslookup-32d1)
 - [Top 4 Soft Skills for Engineers](https://dev.to/sbenhoff/top-4-soft-skills-for-engineers-205j)
 - [Visitor Pattern in Typescript](https://dev.to/kerisnarendra/visitor-pattern-in-typescript-2jeg)
 - [How working/install Spark with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-spark-with-notebooks-5dkf)
-- [How to debug Flutter app with real Android phone](https://dev.to/petrussola/how-to-debug-flutter-app-with-real-android-phone-693)
 <!-- BLOG-POST-LIST:END -->
 
