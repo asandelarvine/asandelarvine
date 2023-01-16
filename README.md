@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Safe Data Fetching in Modern JavaScript](https://dev.to/builderio/safe-data-fetching-in-modern-javascript-dp4)
-- [Zero byte favicon markup — Keep the favicons without any of the markup](https://dev.to/shadowfaxrodeo/zero-byte-favicon-markup-keep-the-favicons-without-any-of-the-markup-47hg)
-- [Meme Monday 🌻](https://dev.to/ben/meme-monday-59le)
-- [Automating Advent Calendar with Github Actions and Eleventy](https://dev.to/eevajonnapanula/automating-advent-calendar-with-github-actions-and-eleventy-4fnp)
+- [Implementing Standalone Components in Angular 15](https://dev.to/ismaestro/implementing-standalone-components-in-angular-15-3c2p)
+- [7 open source projects worth the hype in 2023](https://dev.to/microtica/-7-open-source-projects-worth-the-hype-in-2023-2aa0)
+- [Docker tutorial - understanding of Dockerfile](https://dev.to/bitethecode/docker-tutorial-understanding-of-dockerfile-2mjb)
+- [Кастомный React хук— useDebounce](https://dev.to/mukhammadsobirov/kastomnyi-react-khuk-usedebounce-2b3l)
 <!-- BLOG-POST-LIST:END -->
 
