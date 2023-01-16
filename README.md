@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Jamstack in 2023?](https://dev.to/remotesynth/what-is-jamstack-in-2023-1g6l)
+- [Deploy a Medusa Server on AWS with Microtica](https://dev.to/medusajs/deploy-a-medusa-server-on-aws-with-microtica-4840)
 - [Creating a Node.js Command-line Tool, Linux Terminal CLI and NPM Package](https://dev.to/basskibo/creating-a-nodejs-command-line-tool-linux-terminal-cli-and-npm-package-50na)
 - [Understanding and Implementing State Management in React: A Beginner&#39;s Guide](https://dev.to/abhaysinghr1/understanding-and-implementing-state-management-in-react-a-beginners-guide-55he)
-- [An awesome, cross-browser Star Wars circular wipe transition? CSS houdini vs clippath vs mask](https://dev.to/robole/an-awesome-cross-browser-star-wars-circular-wipe-transition-css-houdini-vs-clippath-vs-mask-4ffj)
-- [How to Succeed as an Introvert Engineer](https://dev.to/alexhyettdev/how-to-succeed-as-an-introvert-engineer-f7o)
 <!-- BLOG-POST-LIST:END -->
 
