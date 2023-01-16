@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #141](https://dev.to/aws/aws-open-source-newsletter-141-8eg)
-- [UNIT TESTING WITH JEST &lpar;with example&rpar;](https://dev.to/csituma/unit-testing-with-jest-with-example-29k4)
-- [What Happened to UUIDv2?](https://dev.to/this-is-learning/what-happened-to-uuidv2-en3)
-- [What are UUIDs?](https://dev.to/this-is-learning/what-are-uuids-45b9)
+- [How to Update EventBridge Schedules with Lambdas](https://dev.to/fanmixco/how-to-update-eventbridge-schedules-with-lambdas-2482)
+- [Best Practices For Using IAM](https://dev.to/yogita/best-practices-for-using-iam-32jk)
+- [RSpec GraphQL integration testing](https://dev.to/peterfication/rspec-graphql-integration-testing-1m2l)
+- [Exploring the latest features of Skott: road to V1](https://dev.to/antoinecoulon/exploring-the-latest-features-of-skott-road-to-v1-21i)
 <!-- BLOG-POST-LIST:END -->
 
