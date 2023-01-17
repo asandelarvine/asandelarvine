@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Threads and Asynchronous Code](https://dev.to/codenameone/debugging-threads-and-asynchronous-code-2n8a)
+- [Compilado dicas de carreira - parte 2](https://dev.to/hugaomarques/compilado-dicas-de-carreira-parte-2-495e)
+- [JavaScript: O que são funções IIFE?](https://dev.to/cristuker/javascript-o-que-sao-funcoes-iife-2d4e)
 - [Deploy Amazon IVS Live Streams and Chat with Terraform](https://dev.to/aws/deploy-amazon-ivs-live-streams-and-chat-with-terraform-3cml)
-- [Resume Writing Secrets: 25 Tips to Get You Hired](https://dev.to/codewithvoid/resume-writing-secrets-25-tips-to-get-you-hired-5bp6)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2dkd)
-- [CastingVote - App built with Phoenix&lpar;1.6&rpar; - PART 01](https://dev.to/milicagolocorbin/castingvote-app-built-with-phoenix16-part-01-1gec)
 <!-- BLOG-POST-LIST:END -->
 
