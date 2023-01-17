@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2dkd)
+- [CastingVote - App built with Phoenix&lpar;1.6&rpar; - PART 01](https://dev.to/milicagolocorbin/castingvote-app-built-with-phoenix16-part-01-1gec)
 - [I Tested How Good Is ChatGPT When Describing Code](https://dev.to/codewithbernard/i-tested-how-good-is-chatgpt-when-describing-code-ljf)
-- [Converting Lit Components to Enhance](https://dev.to/begin/converting-lit-components-to-enhance-20bc)
-- [A Complete Guide to PactumJS](https://dev.to/mdmoeenajazkhan/a-complete-guide-to-pactumjs-3ea6)
-- [Crop and Upload Image Service](https://dev.to/4rokis/crop-and-upload-image-service-3m16)
+- [How Does GPT-3 Work?](https://dev.to/deepgram/how-does-gpt-3-work-hco)
 <!-- BLOG-POST-LIST:END -->
 
