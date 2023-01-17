@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculus for Data Science: An Introduction](https://dev.to/anurag629/calculus-for-data-science-an-introduction-33lm)
+- [SRE book notes: Eliminating Toil](https://dev.to/bitmaybewise/sre-book-notes-eliminating-toil-5am5)
 - [Stubs/fakes&lpar;casting as a particular object&rpar;](https://dev.to/csituma/stubsfakescasting-as-a-particular-object-105f)
 - [Why I listened to radio stations for working](https://dev.to/hoangtuan110/why-i-listened-to-radio-stations-for-working-38kb)
-- [NGINX Logging | Configuring Error and Access Logs, Sending Nginx Logs to Syslog &amp; more](https://dev.to/signoz/nginx-logging-configuring-error-and-access-logs-sending-nginx-logs-to-syslog-more-kmb)
-- [⚛️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-5443)
 <!-- BLOG-POST-LIST:END -->
 
