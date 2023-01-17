@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginners’ Guide To Run A Linux Server Securely](https://dev.to/hadisamadzad/beginners-guide-to-run-a-linux-server-securely-2hn6)
 - [Get notified when there are commits to pull in VS Code](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-vs-code-61k)
 - [A Better Way to Work With Number and Date Inputs in JS](https://dev.to/builderio/a-better-way-to-work-with-number-and-date-inputs-in-js-no7)
-- [My Dev Setup: A Look into My Software and Hardware](https://dev.to/tonimontana/my-dev-setup-a-look-into-my-software-and-hardware-38ni)
-- [Enhance your READMEs with native Mermaid diagrams](https://dev.to/360macky/enhance-your-readmes-with-native-mermaid-diagrams-3g7l)
+- [6 Google Chrome extensions 🔥 that&#39;ll help you turn hours of work into minutes free 💯](https://dev.to/mahmoudessam/6-google-chrome-extensions-thatll-help-you-turn-hours-of-work-into-minutes-free-5fib)
 <!-- BLOG-POST-LIST:END -->
 
