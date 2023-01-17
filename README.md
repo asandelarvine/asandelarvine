@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Show: Open-source admin dashboard with Tailwind CSS and Flowbite](https://dev.to/themesberg/show-open-source-admin-dashboard-with-tailwind-css-and-flowbite-3fdj)
-- [Deploying a Laravel App on AWS App Runner](https://dev.to/massivebrains/deploying-a-laravel-app-on-aws-app-runner-1hmp)
-- [refine Hackathon with $1500 prize!](https://dev.to/necatiozmen/the-refine-open-source-hackathon-g1j)
-- [Motivation as a junior Software developer](https://dev.to/svenherr/motivation-as-a-junior-software-developer-36o6)
+- [⚛️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-5443)
+- [Build an Effective Junior Developer Portfolio That Will Get You Hired 👨‍💻🔥](https://dev.to/rammcodes/build-an-effective-junior-developer-portfolio-that-will-get-you-hired-4m8c)
+- [Building a Multi-Language Website with React and i18next](https://dev.to/abhaysinghr1/building-a-multi-language-website-with-react-and-i18next-4g66)
+- [Better Performance and Security by Monitoring Logs, Metrics, and More](https://dev.to/johnjvester/better-performance-and-security-by-monitoring-logs-metrics-and-more-52o5)
 <!-- BLOG-POST-LIST:END -->
 
