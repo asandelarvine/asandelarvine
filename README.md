@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Elasticsearch’s warm &amp; cold data to object storage with JuiceFS](https://dev.to/tonybarber2/migrating-elasticsearchs-warm-cold-data-to-object-storage-with-juicefs-3fjb)
+- [AWS Lambda and Azure Function](https://dev.to/yogini16/aws-lambda-and-azure-function-5678)
 - [Scale Node JS App using Cluster Module](https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8)
 - [AI Tools for Developers](https://dev.to/rahul3002/ai-tools-for-developers-g79)
-- [Best tools to outsource your IT projects](https://dev.to/abhineetraj1/best-tools-to-outsource-your-it-projects-3gep)
-- [How to Easily update an Object that&#39;s in state in React](https://dev.to/noel_ethan/how-to-easily-update-an-object-thats-in-state-in-react-bb9)
 <!-- BLOG-POST-LIST:END -->
 
