@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Show: Open-source admin dashboard with Tailwind CSS and Flowbite](https://dev.to/themesberg/show-open-source-admin-dashboard-with-tailwind-css-and-flowbite-3fdj)
+- [Deploying a Laravel App on AWS App Runner](https://dev.to/massivebrains/deploying-a-laravel-app-on-aws-app-runner-1hmp)
 - [refine Hackathon with $1500 prize!](https://dev.to/necatiozmen/the-refine-open-source-hackathon-g1j)
 - [Motivation as a junior Software developer](https://dev.to/svenherr/motivation-as-a-junior-software-developer-36o6)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak VI](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-vi-943)
-- [Why Golang is a Good Choice for Developers in 2023](https://dev.to/tanmayvaish/why-golang-is-a-good-choice-for-developers-in-2023-5gf7)
 <!-- BLOG-POST-LIST:END -->
 
