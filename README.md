@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculus for Data Science: An Introduction](https://dev.to/anurag629/calculus-for-data-science-an-introduction-33lm)
-- [SRE book notes: Eliminating Toil](https://dev.to/bitmaybewise/sre-book-notes-eliminating-toil-5am5)
-- [Stubs/fakes&lpar;casting as a particular object&rpar;](https://dev.to/csituma/stubsfakescasting-as-a-particular-object-105f)
-- [Why I listened to radio stations for working](https://dev.to/hoangtuan110/why-i-listened-to-radio-stations-for-working-38kb)
+- [A Complete Guide to PactumJS](https://dev.to/mdmoeenajazkhan/a-complete-guide-to-pactumjs-3ea6)
+- [Crop and Upload Image Service](https://dev.to/4rokis/crop-and-upload-image-service-3m16)
+- [generate-sitemap 1.9.1 Released](https://dev.to/cicirello/generate-sitemap-191-released-29n5)
+- [A glimpse into our 2023 roadmap](https://dev.to/medusajs/a-glimpse-into-our-2023-roadmap-21oj)
 <!-- BLOG-POST-LIST:END -->
 
