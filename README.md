@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Top Five Static Site Generators &lpar;SSGs&rpar; for 2023 — and when to use them](https://dev.to/cloudcannon/the-top-five-static-site-generators-ssgs-for-2023-and-when-to-use-them-39pg)
-- [Serverless Technology](https://dev.to/yellowgem/serverless-technology-p3m)
-- [Music Monday — What are you listening to? &lpar;80&#39;s Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-80s-edition-2fn6)
-- [Implementing Standalone Components in Angular 15](https://dev.to/ismaestro/implementing-standalone-components-in-angular-15-3c2p)
+- [Get notified when there are commits to pull in VS Code](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-vs-code-61k)
+- [A Better Way to Work With Number and Date Inputs in JS](https://dev.to/builderio/a-better-way-to-work-with-number-and-date-inputs-in-js-no7)
+- [My Dev Setup: A Look into My Software and Hardware](https://dev.to/tonimontana/my-dev-setup-a-look-into-my-software-and-hardware-38ni)
+- [Enhance your READMEs with native Mermaid diagrams](https://dev.to/360macky/enhance-your-readmes-with-native-mermaid-diagrams-3g7l)
 <!-- BLOG-POST-LIST:END -->
 
