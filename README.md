@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stubs/fakes&lpar;casting as a particular object&rpar;](https://dev.to/csituma/stubsfakescasting-as-a-particular-object-105f)
+- [Why I listened to radio stations for working](https://dev.to/hoangtuan110/why-i-listened-to-radio-stations-for-working-38kb)
+- [NGINX Logging | Configuring Error and Access Logs, Sending Nginx Logs to Syslog &amp; more](https://dev.to/signoz/nginx-logging-configuring-error-and-access-logs-sending-nginx-logs-to-syslog-more-kmb)
 - [⚛️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-5443)
-- [Build an Effective Junior Developer Portfolio That Will Get You Hired 👨‍💻🔥](https://dev.to/rammcodes/build-an-effective-junior-developer-portfolio-that-will-get-you-hired-4m8c)
-- [Building a Multi-Language Website with React and i18next](https://dev.to/abhaysinghr1/building-a-multi-language-website-with-react-and-i18next-4g66)
-- [Better Performance and Security by Monitoring Logs, Metrics, and More](https://dev.to/johnjvester/better-performance-and-security-by-monitoring-logs-metrics-and-more-52o5)
 <!-- BLOG-POST-LIST:END -->
 
