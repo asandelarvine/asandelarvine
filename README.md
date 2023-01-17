@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS: 3 Sided Card](https://dev.to/charlesloder/css-3-sided-card-2gpb)
+- [Keyboard Shortcuts To Make Life Easier&lpar;For Mac&rpar;.](https://dev.to/neilthemippy/keyboard-shortcuts-to-make-life-easierfor-mac-57ik)
+- [Top five Godot games and source code from Game Off 2022](https://dev.to/github/top-five-godot-games-and-source-code-from-game-off-2022-3690)
 - [Debugging Threads and Asynchronous Code](https://dev.to/codenameone/debugging-threads-and-asynchronous-code-2n8a)
-- [Compilado dicas de carreira - parte 2](https://dev.to/hugaomarques/compilado-dicas-de-carreira-parte-2-495e)
-- [JavaScript: O que são funções IIFE?](https://dev.to/cristuker/javascript-o-que-sao-funcoes-iife-2d4e)
-- [Deploy Amazon IVS Live Streams and Chat with Terraform](https://dev.to/aws/deploy-amazon-ivs-live-streams-and-chat-with-terraform-3cml)
 <!-- BLOG-POST-LIST:END -->
 
