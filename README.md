@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginners’ Guide To Run A Linux Server Securely](https://dev.to/hadisamadzad/beginners-guide-to-run-a-linux-server-securely-2hn6)
-- [Get notified when there are commits to pull in VS Code](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-vs-code-61k)
-- [A Better Way to Work With Number and Date Inputs in JS](https://dev.to/builderio/a-better-way-to-work-with-number-and-date-inputs-in-js-no7)
-- [6 Google Chrome extensions 🔥 that&#39;ll help you turn hours of work into minutes free 💯](https://dev.to/mahmoudessam/6-google-chrome-extensions-thatll-help-you-turn-hours-of-work-into-minutes-free-5fib)
+- [Scale Node JS App using Cluster Module](https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8)
+- [AI Tools for Developers](https://dev.to/rahul3002/ai-tools-for-developers-g79)
+- [Best tools to outsource your IT projects](https://dev.to/abhineetraj1/best-tools-to-outsource-your-it-projects-3gep)
+- [How to Easily update an Object that&#39;s in state in React](https://dev.to/noel_ethan/how-to-easily-update-an-object-thats-in-state-in-react-bb9)
 <!-- BLOG-POST-LIST:END -->
 
