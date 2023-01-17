@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [refine Hackathon with $1500 prize!](https://dev.to/necatiozmen/the-refine-open-source-hackathon-g1j)
+- [Motivation as a junior Software developer](https://dev.to/svenherr/motivation-as-a-junior-software-developer-36o6)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak VI](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-vi-943)
 - [Why Golang is a Good Choice for Developers in 2023](https://dev.to/tanmayvaish/why-golang-is-a-good-choice-for-developers-in-2023-5gf7)
-- [Migrating Elasticsearch’s warm &amp; cold data to object storage with JuiceFS](https://dev.to/tonybarber2/migrating-elasticsearchs-warm-cold-data-to-object-storage-with-juicefs-3fjb)
-- [Hero Image Optimization Techniques](https://dev.to/richarddillman/hero-image-optimization-techniques-3mkk)
 <!-- BLOG-POST-LIST:END -->
 
