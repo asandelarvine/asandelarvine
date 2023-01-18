@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why we chose C over Rust](https://dev.to/luos/why-we-chose-c-over-rust-4gfk)
+- [5 Full-Stack Project Ideas for 2023](https://dev.to/johongirr/5-full-stack-project-ideas-for-2023-l4o)
+- [SELinux: Beginner&#39;s guide](https://dev.to/jmau111/selinux-beginners-guide-15af)
 - [Pulsar DevOps with Pulsar Shell and CLI Tools](https://dev.to/tspannhw/pulsar-devops-with-pulsar-shell-and-cli-tools-i61)
-- [Share your Jupyter Notebooks like a pro](https://dev.to/derlin/share-your-jupyter-notebooks-like-a-pro-264f)
-- [8 Sites to Learn Java Programming for FREE in 2023](https://dev.to/javinpaul/8-sites-to-learn-java-programming-for-free-in-2023-4ddf)
-- [CSS Tip: Style your Radio Buttons and Checkboxes for Printing](https://dev.to/alvaromontoro/css-tip-style-your-radio-buttons-and-checkboxes-for-printing-3366)
 <!-- BLOG-POST-LIST:END -->
 
