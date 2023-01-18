@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NextAuth.js / Auth.js credential authentication with methods you need !](https://dev.to/ekimcem/nextauthjs-authjs-credential-authentication-with-methods-you-need--21al)
 - [Welcome Thread - v209](https://dev.to/thepracticaldev/welcome-thread-v209-1i29)
 - [Web resilience is about users - not a shortcut for developers](https://dev.to/codepo8/web-resilience-is-about-users-not-a-shortcut-for-developers-4e1f)
 - [Function declarations &amp; Function expressions](https://dev.to/catherineisonline/function-declarations-function-expressions-2o5k)
-- [Create your own ChatGPT by scraping your website](https://dev.to/polterguy/create-your-own-chatgpt-by-scraping-your-website-76j)
 <!-- BLOG-POST-LIST:END -->
 
