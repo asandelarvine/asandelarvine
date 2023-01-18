@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI generated the 90% of this post](https://dev.to/joelbonetr/ai-generated-the-90-of-this-post-3a91)
-- [Create a Recipe App with Tailwind and Nuxt.js](https://dev.to/hackmamba/create-a-recipe-app-with-tailwind-and-nuxt-53b2)
-- [Top 12 Code Review Tools](https://dev.to/mahiuddindev/top-12-code-review-tools-4bh1)
-- [Everything you need to know about route Guard in Angular](https://dev.to/this-is-angular/everything-you-need-to-know-about-route-guard-in-angular-2hkn)
+- [Best &quot;Free&quot; Resources To Learn Node.js From Beginner to Advanced](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
+- [⚛️⚡️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-2m4f)
+- [Passing Data in React: The Power of Props](https://dev.to/mr_walkr/passing-data-in-react-the-power-of-props-4n1)
+- [Manage serverless APIs with Apache APISIX](https://dev.to/apisix/manage-serverless-apis-with-apache-apisix-55a8)
 <!-- BLOG-POST-LIST:END -->
 
