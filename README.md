@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best &quot;Free&quot; Resources To Learn Node.js From Beginner to Advanced](https://dev.to/onlydevs_/best-free-resources-to-learn-nodejs-from-beginner-to-advanced-975)
-- [⚛️⚡️ Introduction to React Hooks](https://dev.to/iamdevmarcos/introduction-to-react-hooks-2m4f)
-- [Passing Data in React: The Power of Props](https://dev.to/mr_walkr/passing-data-in-react-the-power-of-props-4n1)
-- [Manage serverless APIs with Apache APISIX](https://dev.to/apisix/manage-serverless-apis-with-apache-apisix-55a8)
+- [Finding Your Ideal Customer Is Pain in the Ass](https://dev.to/codewithbernard/finding-your-ideal-customer-is-pain-in-the-ass-57ik)
+- [Minify and bundle HTML, CSS, and JS as part of your Netlify deployment](https://dev.to/robole/minify-and-bundle-html-css-and-js-as-part-of-your-netlify-deployment-15k7)
+- [The Future of Web Development: Top Trends to Watch in 2023](https://dev.to/abhaysinghr1/the-future-of-web-development-top-trends-to-watch-in-2023-4pj4)
+- [How I Use Morning Pages in My Daily Routine](https://dev.to/alexhyettdev/how-i-use-morning-pages-in-my-daily-routine-19go)
 <!-- BLOG-POST-LIST:END -->
 
