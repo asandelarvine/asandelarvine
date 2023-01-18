@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jozef Behr | 10 Ruby tricks to improve your code &lpar;or not&rpar;](https://dev.to/behrjozef/jozef-behr-10-ruby-tricks-to-improve-your-code-or-not-6kc)
+- [Sagemaker Model deployment and Integration](https://dev.to/aws-builders/sagemaker-model-deployment-and-integration-2l6c)
+- [QR Code Generator + Download QR as Image](https://dev.to/developedbyjk/qr-code-generator-download-qr-as-image-15gg)
 - [What are E-Commerce Kpis](https://dev.to/alyciakyla/what-are-e-commerce-kpis-1ng7)
-- [Know Your Path/Directory](https://dev.to/emdes12/know-your-pathdirectory-1l79)
-- [Weekly web development resources #133](https://dev.to/vincenius/weekly-web-development-resources-133-690)
-- [Run python in HTML : &lt;pyscript&gt;](https://dev.to/tirthpatel/run-python-in-html--5fh4)
 <!-- BLOG-POST-LIST:END -->
 
