@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Full-Stack Development Has Changed In 2023](https://dev.to/mikehtmlallthethings/full-stack-development-has-changed-in-2023-g4i)
+- [Improving Your Development Documentation Project &lpar;1 of 3&rpar;](https://dev.to/javierhf/improving-your-development-documentation-project-1-of-3-48cn)
 - [Why we chose C over Rust](https://dev.to/luos/why-we-chose-c-over-rust-4gfk)
 - [5 Full-Stack Project Ideas for 2023](https://dev.to/johongirr/5-full-stack-project-ideas-for-2023-l4o)
-- [SELinux: Beginner&#39;s guide](https://dev.to/jmau111/selinux-beginners-guide-15af)
-- [Pulsar DevOps with Pulsar Shell and CLI Tools](https://dev.to/tspannhw/pulsar-devops-with-pulsar-shell-and-cli-tools-i61)
 <!-- BLOG-POST-LIST:END -->
 
