@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SELECT * FROM S3 | Query data via S3 Select](https://dev.to/aws-builders/select-from-s3-query-data-via-s3-select-3kgd)
-- [Optimizing DynamoDB cost: Tips and Tricks](https://dev.to/roy8/optimizing-dynamodb-cost-tips-and-tricks-1cb2)
-- [How to Build a Real world Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-real-world-website-using-html-css-javascript-3gap)
-- [🧪 How to set up Jest &amp; React Native Testing Library in your Expo App! 💥](https://dev.to/tiaeastwood/how-to-set-up-jest-react-native-testing-library-in-your-expo-app-p3e)
+- [Pulsar DevOps with Pulsar Shell and CLI Tools](https://dev.to/tspannhw/pulsar-devops-with-pulsar-shell-and-cli-tools-i61)
+- [Share your Jupyter Notebooks like a pro](https://dev.to/derlin/share-your-jupyter-notebooks-like-a-pro-264f)
+- [8 Sites to Learn Java Programming for FREE in 2023](https://dev.to/javinpaul/8-sites-to-learn-java-programming-for-free-in-2023-4ddf)
+- [CSS Tip: Style your Radio Buttons and Checkboxes for Printing](https://dev.to/alvaromontoro/css-tip-style-your-radio-buttons-and-checkboxes-for-printing-3366)
 <!-- BLOG-POST-LIST:END -->
 
