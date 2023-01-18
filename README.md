@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Stack Development Has Changed In 2023](https://dev.to/mikehtmlallthethings/full-stack-development-has-changed-in-2023-g4i)
-- [Improving Your Development Documentation Project &lpar;1 of 3&rpar;](https://dev.to/javierhf/improving-your-development-documentation-project-1-of-3-48cn)
-- [Why we chose C over Rust](https://dev.to/luos/why-we-chose-c-over-rust-4gfk)
-- [5 Full-Stack Project Ideas for 2023](https://dev.to/johongirr/5-full-stack-project-ideas-for-2023-l4o)
+- [Welcome Thread - v209](https://dev.to/thepracticaldev/welcome-thread-v209-1i29)
+- [Web resilience is about users - not a shortcut for developers](https://dev.to/codepo8/web-resilience-is-about-users-not-a-shortcut-for-developers-4e1f)
+- [Function declarations &amp; Function expressions](https://dev.to/catherineisonline/function-declarations-function-expressions-2o5k)
+- [Create your own ChatGPT by scraping your website](https://dev.to/polterguy/create-your-own-chatgpt-by-scraping-your-website-76j)
 <!-- BLOG-POST-LIST:END -->
 
