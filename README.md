@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Svelte for Beginners: A Beginner&#39;s Guide to Building Web Applications](https://dev.to/rafael_abuawad/svelte-for-beginners-a-beginners-guide-to-building-web-applications-3o5j)
+- [The struggle of keeping momentum - Tips that helped me ✅](https://dev.to/louiseann93/the-struggle-of-keeping-momentum-tips-that-helped-me-3jjl)
+- [Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/malikhaziq/techniques-for-optimizing-javascript-performance-and-reducing-load-times-552l)
 - [NextAuth.js / Auth.js credential authentication with methods you need !](https://dev.to/ekimcem/nextauthjs-authjs-credential-authentication-with-methods-you-need--21al)
-- [Welcome Thread - v209](https://dev.to/thepracticaldev/welcome-thread-v209-1i29)
-- [Web resilience is about users - not a shortcut for developers](https://dev.to/codepo8/web-resilience-is-about-users-not-a-shortcut-for-developers-4e1f)
-- [Function declarations &amp; Function expressions](https://dev.to/catherineisonline/function-declarations-function-expressions-2o5k)
 <!-- BLOG-POST-LIST:END -->
 
