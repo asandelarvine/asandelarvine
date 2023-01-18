@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Design Trends of 2023](https://dev.to/arafat4693/best-design-trends-of-2023-1die)
-- [#DevDiscuss: Passwordless Authentication](https://dev.to/devteam/live-devdiscuss-passwordless-authentication-13i2)
-- [Syntax, logical and runtime errors](https://dev.to/matthewoluwabusayoopoola/syntax-logical-and-runtime-errors-1721)
-- [Autoleap - A very useful tool for Linux bash users](https://dev.to/llagerlof/autoleap-a-very-useful-tool-for-linux-bash-users-1n31)
+- [Democratizing DNA Analysis and Shaping the Future of Genetics Research!](https://dev.to/dnanalyzer/democratizing-dna-analysis-and-shaping-the-future-of-genetics-research-1l5l)
+- [Package Publishing Reading &amp; Resources](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
+- [Mastodon Streaming to Apache Pulsar via Python](https://dev.to/tspannhw/mastodon-streaming-to-apache-pulsar-via-python-1p4h)
+- [Layoffs: It’s Okay to Not Be Okay](https://dev.to/torianne02/layoffs-its-okay-to-not-be-okay-l2l)
 <!-- BLOG-POST-LIST:END -->
 
