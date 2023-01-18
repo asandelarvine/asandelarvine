@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SELECT * FROM S3 | Query data via S3 Select](https://dev.to/aws-builders/select-from-s3-query-data-via-s3-select-3kgd)
+- [Optimizing DynamoDB cost: Tips and Tricks](https://dev.to/roy8/optimizing-dynamodb-cost-tips-and-tricks-1cb2)
 - [How to Build a Real world Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-real-world-website-using-html-css-javascript-3gap)
-- [Finding Your Ideal Customer Is Pain in the Ass](https://dev.to/codewithbernard/finding-your-ideal-customer-is-pain-in-the-ass-57ik)
-- [Minify and bundle HTML, CSS, and JS as part of your Netlify deployment](https://dev.to/robole/minify-and-bundle-html-css-and-js-as-part-of-your-netlify-deployment-15k7)
-- [The Future of Web Development: Top Trends to Watch in 2023](https://dev.to/abhaysinghr1/the-future-of-web-development-top-trends-to-watch-in-2023-4pj4)
+- [🧪 How to set up Jest &amp; React Native Testing Library in your Expo App! 💥](https://dev.to/tiaeastwood/how-to-set-up-jest-react-native-testing-library-in-your-expo-app-p3e)
 <!-- BLOG-POST-LIST:END -->
 
