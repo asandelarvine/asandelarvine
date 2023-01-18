@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [AI generated the 90% of this post](https://dev.to/joelbonetr/ai-generated-the-90-of-this-post-3a91)
 - [Create a Recipe App with Tailwind and Nuxt.js](https://dev.to/hackmamba/create-a-recipe-app-with-tailwind-and-nuxt-53b2)
+- [Top 12 Code Review Tools](https://dev.to/mahiuddindev/top-12-code-review-tools-4bh1)
 - [Everything you need to know about route Guard in Angular](https://dev.to/this-is-angular/everything-you-need-to-know-about-route-guard-in-angular-2hkn)
-- [Typescript: best type checking for the best type safety](https://dev.to/zenstack/typescript-best-type-checking-for-the-best-type-safety-1lcb)
 <!-- BLOG-POST-LIST:END -->
 
