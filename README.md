@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript: best type checking for the best type safety](https://dev.to/jiasheng/typescript-best-type-checking-for-the-best-type-safety-1lcb)
-- [33+ Exclusive In-house Free Templates for 2023](https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf)
-- [I Asked ChatGPT to Code Web Components and This is What Happened](https://dev.to/steveblue/i-asked-chatgpt-to-code-web-components-and-this-is-what-happened-13a1)
-- [Jozef Behr | 10 Ruby tricks to improve your code &lpar;or not&rpar;](https://dev.to/behrjozef/jozef-behr-10-ruby-tricks-to-improve-your-code-or-not-6kc)
+- [AI generated the 90% of this post](https://dev.to/joelbonetr/ai-generated-the-90-of-this-post-3a91)
+- [Create a Recipe App with Tailwind and Nuxt.js](https://dev.to/hackmamba/create-a-recipe-app-with-tailwind-and-nuxt-53b2)
+- [Everything you need to know about route Guard in Angular](https://dev.to/this-is-angular/everything-you-need-to-know-about-route-guard-in-angular-2hkn)
+- [Typescript: best type checking for the best type safety](https://dev.to/zenstack/typescript-best-type-checking-for-the-best-type-safety-1lcb)
 <!-- BLOG-POST-LIST:END -->
 
