@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless Latency: Understanding and Reducing the Delay](https://dev.to/aws-builders/serverless-latency-understanding-and-reducing-the-delay-2nna)
 - [Democratizing DNA Analysis and Shaping the Future of Genetics Research!](https://dev.to/dnanalyzer/democratizing-dna-analysis-and-shaping-the-future-of-genetics-research-1l5l)
 - [Package Publishing Reading &amp; Resources](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
 - [Mastodon Streaming to Apache Pulsar via Python](https://dev.to/tspannhw/mastodon-streaming-to-apache-pulsar-via-python-1p4h)
-- [Layoffs: It’s Okay to Not Be Okay](https://dev.to/torianne02/layoffs-its-okay-to-not-be-okay-l2l)
 <!-- BLOG-POST-LIST:END -->
 
