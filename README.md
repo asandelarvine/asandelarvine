@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Latency: Understanding and Reducing the Delay](https://dev.to/aws-builders/serverless-latency-understanding-and-reducing-the-delay-2nna)
-- [Democratizing DNA Analysis and Shaping the Future of Genetics Research!](https://dev.to/dnanalyzer/democratizing-dna-analysis-and-shaping-the-future-of-genetics-research-1l5l)
-- [Package Publishing Reading &amp; Resources](https://dev.to/laurenashpole/package-publishing-reading-resources-34dc)
-- [Mastodon Streaming to Apache Pulsar via Python](https://dev.to/tspannhw/mastodon-streaming-to-apache-pulsar-via-python-1p4h)
+- [What are E-Commerce Kpis](https://dev.to/alyciakyla/what-are-e-commerce-kpis-1ng7)
+- [Know Your Path/Directory](https://dev.to/emdes12/know-your-pathdirectory-1l79)
+- [Weekly web development resources #133](https://dev.to/vincenius/weekly-web-development-resources-133-690)
+- [Run python in HTML : &lt;pyscript&gt;](https://dev.to/tirthpatel/run-python-in-html--5fh4)
 <!-- BLOG-POST-LIST:END -->
 
