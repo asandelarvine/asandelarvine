@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Typescript: best type checking for the best type safety](https://dev.to/jiasheng/typescript-best-type-checking-for-the-best-type-safety-1lcb)
+- [33+ Exclusive In-house Free Templates for 2023](https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf)
+- [I Asked ChatGPT to Code Web Components and This is What Happened](https://dev.to/steveblue/i-asked-chatgpt-to-code-web-components-and-this-is-what-happened-13a1)
 - [Jozef Behr | 10 Ruby tricks to improve your code &lpar;or not&rpar;](https://dev.to/behrjozef/jozef-behr-10-ruby-tricks-to-improve-your-code-or-not-6kc)
-- [Sagemaker Model deployment and Integration](https://dev.to/aws-builders/sagemaker-model-deployment-and-integration-2l6c)
-- [QR Code Generator + Download QR as Image](https://dev.to/developedbyjk/qr-code-generator-download-qr-as-image-15gg)
-- [What are E-Commerce Kpis](https://dev.to/alyciakyla/what-are-e-commerce-kpis-1ng7)
 <!-- BLOG-POST-LIST:END -->
 
