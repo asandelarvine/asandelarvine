@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Building A &lpar;Really&rpar; Simple Blog with Google Sheets as the Database](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
+- [CSS Generators](https://dev.to/rahul3002/css-generators-m2n)
 - [CLI tools you won&#39;t be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 - [Incremental Static Regeneration using Next.js with Strapi](https://dev.to/strapi/incremental-static-regeneration-using-nextjs-with-strapi-3n9f)
-- [Data Engineering - AWS Data and Analytics – Collection – Kinesis Data Stream](https://dev.to/sanjeeb2017/data-engineering-aws-data-and-analytics-collection-kinesis-data-stream-2mho)
 <!-- BLOG-POST-LIST:END -->
 
