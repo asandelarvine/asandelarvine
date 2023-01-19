@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t target 100% coverage](https://dev.to/antoinecoulon/dont-target-100-coverage-387o)
+- [Build and sign application containers](https://dev.to/kameshsampath/build-and-sign-application-containers-57l8)
 - [[Interview] App tampering? Solved with LIAPP!](https://dev.to/teamliapp/interview-app-tampering-solved-with-liapp-mcp)
 - [tsParticles 2.8.0 Released](https://dev.to/tsparticles/tsparticles-280-released-311i)
-- [Introduction to machine learning](https://dev.to/anurag629/introduction-to-machine-learning-2fd5)
-- [8 Ways to master web development in 2023](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
 <!-- BLOG-POST-LIST:END -->
 
