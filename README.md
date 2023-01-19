@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte for Beginners: A Beginner&#39;s Guide to Building Web Applications](https://dev.to/rafael_abuawad/svelte-for-beginners-a-beginners-guide-to-building-web-applications-3o5j)
-- [The struggle of keeping momentum - Tips that helped me ✅](https://dev.to/louiseann93/the-struggle-of-keeping-momentum-tips-that-helped-me-3jjl)
-- [Techniques for optimizing JavaScript performance and reducing load times](https://dev.to/malikhaziq/techniques-for-optimizing-javascript-performance-and-reducing-load-times-552l)
-- [NextAuth.js / Auth.js credential authentication with methods you need !](https://dev.to/ekimcem/nextauthjs-authjs-credential-authentication-with-methods-you-need--21al)
+- [Incremental Static Regeneration using Next.js with Strapi](https://dev.to/strapi/incremental-static-regeneration-using-nextjs-with-strapi-3n9f)
+- [Data Engineering - AWS Data and Analytics – Collection – Kinesis Data Stream](https://dev.to/sanjeeb2017/data-engineering-aws-data-and-analytics-collection-kinesis-data-stream-2mho)
+- [Mastering Advanced Types in TypeScript.](https://dev.to/khalidahmada/mastering-advanced-types-in-typescript-25c9)
+- [What is “production” Machine Learning?](https://dev.to/sematic/what-is-production-machine-learning-22mk)
 <!-- BLOG-POST-LIST:END -->
 
