@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [30 days 30 shorts](https://dev.to/shreyvijayvargiya/30-days-30-shorts-2cn0)
+- [Your CI needs CI: A New Way to Build CI Pipelines](https://dev.to/kpenfound/your-ci-needs-ci-a-new-way-to-build-ci-pipelines-2gbi)
+- [Simpler CSS Selectors With :is&lpar;&rpar;](https://dev.to/builderio/simpler-css-selectors-with-is-58m2)
 - [Apirze studio , create HTML file with style without code](https://dev.to/aieeeo/apirze-studio-create-html-file-with-style-without-code-am9)
-- [Observability-driven development with Go and Tracetest](https://dev.to/kubeshop/observability-driven-development-with-go-and-tracetest-88d)
-- [Portswigger’s lab write up: CORS vulnerability with trusted null origin](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-trusted-null-origin-4g9c)
-- [Why to use React.js?](https://dev.to/itskunal/why-to-use-reactjs-2e9n)
 <!-- BLOG-POST-LIST:END -->
 
