@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Mock and Test AsyncStorage in React Native](https://dev.to/tiaeastwood/how-to-mock-and-test-asyncstorage-in-react-native-4kil)
-- [Documenting Forem&#39;s v1 API](https://dev.to/devteam/documenting-the-forem-v1-api-15ck)
-- [How to convert mp4 to mp3 using python](https://dev.to/jimajs/how-to-convert-mp4-to-mp3-using-python-1dcf)
-- [8 Free And Beautiful Image Websites](https://dev.to/arafat4693/8-free-and-beautiful-image-websites-2ih4)
+- [Portswigger’s lab write up: CORS vulnerability with trusted null origin](https://dev.to/christianpaez/portswiggers-lab-write-up-cors-vulnerability-with-trusted-null-origin-4g9c)
+- [Why to use React.js?](https://dev.to/itskunal/why-to-use-reactjs-2e9n)
+- [My blogging journey until now - I&#39;m moving to Hashnode](https://dev.to/miguelmj/my-blogging-journey-until-now-im-moving-to-hashnode-496b)
+- [Appwrite Announces Pizza and Swag Fund](https://dev.to/appwrite/appwrite-announces-pizza-and-swag-fund-200m)
 <!-- BLOG-POST-LIST:END -->
 
