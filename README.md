@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap To Prepare Yourself for Coding Interviews in Just 8 Weeks](https://dev.to/onlydevs_/roadmap-to-prepare-yourself-for-coding-interviews-in-just-8-weeks-3ag5)
-- [This Week In React #131: useReducer, Controlled Inputs, Async React, DevTools, React-Query, Storybook, Remix, RN , Expo...](https://dev.to/sebastienlorber/this-week-in-react-131-usereducer-controlled-inputs-async-react-devtools-react-query-storybook-remix-rn-expo-mcp)
-- [Get Better With CSS By Building These Mini Projects 👨‍💻🦄](https://dev.to/rammcodes/get-better-with-css-by-building-these-mini-projects-5ggd)
-- [HOW to Keep user&#39;s password safe in database](https://dev.to/rahulj9a/how-to-keep-users-password-safe-in-database-g0f)
+- [Python RoadMap - With DSA](https://dev.to/vincod/python-roadmap-with-dsa-cdh)
+- [5 VSCode Extensions to increase Productivity](https://dev.to/qbentil/5-vscode-extensions-to-increase-productivity-463c)
+- [The Not So Small Things of Developing Software](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
+- [Lessons learned since posting my salary history publicly](https://dev.to/jamietanna/lessons-learned-since-posting-my-salary-history-publicly-5055)
 <!-- BLOG-POST-LIST:END -->
 
