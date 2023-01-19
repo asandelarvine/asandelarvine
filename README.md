@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap To Prepare Yourself for Coding Interviews in Just 8 Weeks](https://dev.to/onlydevs_/roadmap-to-prepare-yourself-for-coding-interviews-in-just-8-weeks-3ag5)
 - [This Week In React #131: useReducer, Controlled Inputs, Async React, DevTools, React-Query, Storybook, Remix, RN , Expo...](https://dev.to/sebastienlorber/this-week-in-react-131-usereducer-controlled-inputs-async-react-devtools-react-query-storybook-remix-rn-expo-mcp)
 - [Get Better With CSS By Building These Mini Projects 👨‍💻🦄](https://dev.to/rammcodes/get-better-with-css-by-building-these-mini-projects-5ggd)
 - [HOW to Keep user&#39;s password safe in database](https://dev.to/rahulj9a/how-to-keep-users-password-safe-in-database-g0f)
-- [Don&#39;t target 100% coverage](https://dev.to/antoinecoulon/dont-target-100-coverage-387o)
 <!-- BLOG-POST-LIST:END -->
 
