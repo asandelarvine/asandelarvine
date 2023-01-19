@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Circular Progress Bar CSS](https://dev.to/shubhamtiwari909/circular-progress-bar-css-1bi9)
-- [Tips and Tricks for Debugging React Applications](https://dev.to/abhaysinghr1/tips-and-tricks-for-debugging-react-applications-j75)
-- [sls-mentor: your serverless quality teacher has arrived!](https://dev.to/kumo/sls-mentor-your-serverless-quality-teacher-has-arrived-5fin)
-- [4 useful Terraform open-source tools](https://dev.to/grootnocode/4-useful-terraform-open-source-tools-57cl)
+- [8 Free And Beautiful Image Websites](https://dev.to/arafat4693/8-free-and-beautiful-image-websites-2ih4)
+- [How we started setting up a design system at Escape](https://dev.to/sophieboulaouli/how-we-started-setting-up-a-design-system-at-escape-3mme)
+- [sudoedit &lpar;`sudo -e`&rpar; に係る脆弱性 &lpar;CVE-2023-22809&rpar;](https://dev.to/nabbisen/sudoedit-sudo-e-nixi-rucui-ruo-xing-cve-2023-22809-32h9)
+- [sudoedit &lpar;`sudo -e`&rpar; security flaw &lpar;CVE-2023-22809&rpar;](https://dev.to/nabbisen/sudoedit-sudo-e-security-flaw-cve-2023-22809-4pk5)
 <!-- BLOG-POST-LIST:END -->
 
