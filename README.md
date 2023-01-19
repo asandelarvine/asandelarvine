@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI tools you won&#39;t be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 - [Incremental Static Regeneration using Next.js with Strapi](https://dev.to/strapi/incremental-static-regeneration-using-nextjs-with-strapi-3n9f)
 - [Data Engineering - AWS Data and Analytics – Collection – Kinesis Data Stream](https://dev.to/sanjeeb2017/data-engineering-aws-data-and-analytics-collection-kinesis-data-stream-2mho)
 - [Mastering Advanced Types in TypeScript.](https://dev.to/khalidahmada/mastering-advanced-types-in-typescript-25c9)
-- [What is “production” Machine Learning?](https://dev.to/sematic/what-is-production-machine-learning-22mk)
 <!-- BLOG-POST-LIST:END -->
 
