@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building A &lpar;Really&rpar; Simple Blog with Google Sheets as the Database](https://dev.to/daviduzondu/building-a-really-simple-blog-with-google-sheets-as-the-database-4db4)
-- [CSS Generators](https://dev.to/rahul3002/css-generators-m2n)
-- [CLI tools you won&#39;t be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
-- [Incremental Static Regeneration using Next.js with Strapi](https://dev.to/strapi/incremental-static-regeneration-using-nextjs-with-strapi-3n9f)
+- [Introduction to machine learning](https://dev.to/anurag629/introduction-to-machine-learning-2fd5)
+- [8 Ways to master web development in 2023](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
+- [The essentials for Flutter front-end developers](https://dev.to/function12_io/the-essentials-for-flutter-front-end-developers-5dk8)
+- [Alternatives To Node Js](https://dev.to/niza/alternatives-to-node-js-48h9)
 <!-- BLOG-POST-LIST:END -->
 
