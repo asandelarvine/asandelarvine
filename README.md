@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [tsParticles 2.8.0 Released](https://dev.to/tsparticles/tsparticles-280-released-311i)
 - [Introduction to machine learning](https://dev.to/anurag629/introduction-to-machine-learning-2fd5)
 - [8 Ways to master web development in 2023](https://dev.to/hy_piyush/8-ways-to-master-web-development-in-2023-3dl2)
 - [The essentials for Flutter front-end developers](https://dev.to/function12_io/the-essentials-for-flutter-front-end-developers-5dk8)
-- [Alternatives To Node Js](https://dev.to/niza/alternatives-to-node-js-48h9)
 <!-- BLOG-POST-LIST:END -->
 
