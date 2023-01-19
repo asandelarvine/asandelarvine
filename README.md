@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Logs UI | An intuitive UI for Log Management](https://dev.to/signoz/logs-ui-an-intuitive-ui-for-log-management-2ebm)
-- [Python RoadMap - With DSA](https://dev.to/vincod/python-roadmap-with-dsa-cdh)
-- [5 VSCode Extensions to increase Productivity](https://dev.to/qbentil/5-vscode-extensions-to-increase-productivity-463c)
-- [The Not So Small Things of Developing Software](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
+- [Circular Progress Bar CSS](https://dev.to/shubhamtiwari909/circular-progress-bar-css-1bi9)
+- [Tips and Tricks for Debugging React Applications](https://dev.to/abhaysinghr1/tips-and-tricks-for-debugging-react-applications-j75)
+- [sls-mentor: your serverless quality teacher has arrived!](https://dev.to/kumo/sls-mentor-your-serverless-quality-teacher-has-arrived-5fin)
+- [4 useful Terraform open-source tools](https://dev.to/grootnocode/4-useful-terraform-open-source-tools-57cl)
 <!-- BLOG-POST-LIST:END -->
 
