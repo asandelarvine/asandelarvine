@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #131: useReducer, Controlled Inputs, Async React, DevTools, React-Query, Storybook, Remix, RN , Expo...](https://dev.to/sebastienlorber/this-week-in-react-131-usereducer-controlled-inputs-async-react-devtools-react-query-storybook-remix-rn-expo-mcp)
+- [Get Better With CSS By Building These Mini Projects 👨‍💻🦄](https://dev.to/rammcodes/get-better-with-css-by-building-these-mini-projects-5ggd)
+- [HOW to Keep user&#39;s password safe in database](https://dev.to/rahulj9a/how-to-keep-users-password-safe-in-database-g0f)
 - [Don&#39;t target 100% coverage](https://dev.to/antoinecoulon/dont-target-100-coverage-387o)
-- [Build and sign application containers](https://dev.to/kameshsampath/build-and-sign-application-containers-57l8)
-- [[Interview] App tampering? Solved with LIAPP!](https://dev.to/teamliapp/interview-app-tampering-solved-with-liapp-mcp)
-- [tsParticles 2.8.0 Released](https://dev.to/tsparticles/tsparticles-280-released-311i)
 <!-- BLOG-POST-LIST:END -->
 
