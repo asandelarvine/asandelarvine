@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Logs UI | An intuitive UI for Log Management](https://dev.to/signoz/logs-ui-an-intuitive-ui-for-log-management-2ebm)
 - [Python RoadMap - With DSA](https://dev.to/vincod/python-roadmap-with-dsa-cdh)
 - [5 VSCode Extensions to increase Productivity](https://dev.to/qbentil/5-vscode-extensions-to-increase-productivity-463c)
 - [The Not So Small Things of Developing Software](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
-- [Lessons learned since posting my salary history publicly](https://dev.to/jamietanna/lessons-learned-since-posting-my-salary-history-publicly-5055)
 <!-- BLOG-POST-LIST:END -->
 
