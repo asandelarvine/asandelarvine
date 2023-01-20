@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Common Software Architecture Patterns: Layered Architecture](https://dev.to/alexrashkov/5-common-software-architecture-patterns-28a7)
 - [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2c6d)
 - [Convert Canvas To Image | Use with react-image-crop](https://dev.to/deepakjaiswal/convert-canvas-to-image-4l1j)
 - [An easy win in 2023? Synchronizing dev holidays](https://dev.to/linearb/an-easy-win-in-2023-synchronizing-dev-holidays-1kc6)
-- [5 Common Software Architecture Patterns. When Should You Apply Them?](https://dev.to/alexrashkov/5-common-software-architecture-patterns-when-should-you-apply-them-42c7)
 <!-- BLOG-POST-LIST:END -->
 
