@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a music player with YouTube IFrame Player API](https://dev.to/eliaschen/build-a-music-player-with-youtube-iframe-player-api-ncp)
+- [⚡Introduction to Next.js](https://dev.to/iamdevmarcos/introduction-to-nextjs-5f9b)
+- [Why You Struggle to Learn to Code](https://dev.to/alexhyettdev/why-you-struggle-to-learn-to-code-2ido)
 - [Why I am happy to be a Javascript developer?](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
-- [Text To Speech Converter with JavaScript](https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo)
-- [Build a Subscription-Based Service with Stripe and Appwrite Functions in Flutter](https://dev.to/hackmamba/build-a-subscription-based-service-with-stripe-and-appwrite-functions-in-flutter-bia)
-- [Top 8 tips for visiting re:Invent 2023](https://dev.to/aws-builders/top-8-tips-for-visiting-reinvent-2023-257b)
 <!-- BLOG-POST-LIST:END -->
 
