@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🐞 Fix a WordPress login loop caused by Cloudflare Turnstile and Wordfence 2FA conflict 🐞](https://dev.to/hunghvu/fix-a-wordpress-login-loop-caused-by-cloudflare-turnstile-and-wordfence-2fa-conflict-1ma8)
 - [How install Jupyter?](https://dev.to/xlmriosx/how-install-jupyter-2f7j)
 - [Modals with React Router 6 and Remix](https://dev.to/infoxicator/modals-with-react-router-6-and-remix-1e35)
 - [The Journey to Code Mastery w/ Marqeta&#39;s CTO, Randy Kern](https://dev.to/linearb/the-journey-to-code-mastery-w-marqetas-cto-randy-kern-3jae)
-- [JS Promises #3: Garbage collection and memory leaks](https://dev.to/xnimorz/js-promises-3-garbage-collection-and-memory-leaks-2oi7)
 <!-- BLOG-POST-LIST:END -->
 
