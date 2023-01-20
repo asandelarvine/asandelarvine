@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Common Software Architecture Patterns. When Should You Apply Them?](https://dev.to/alexrashkov/5-common-software-architecture-patterns-when-should-you-apply-them-42c7)
 - [Creating a Smart Twitter Bot with OpenAI&#39;s GPT-3: A Step-by-Step Guide](https://dev.to/paulwababu/creating-a-smart-twitter-bot-with-openais-gpt-3-a-step-by-step-guide-119k)
 - [Firebase + Nextjs](https://dev.to/abbhiishek/firebase-nextjs-511a)
-- [How to get started with the basics of front end development](https://dev.to/catherineisonline/how-to-get-started-with-the-basics-of-front-end-development-1bh5)
-- [Python vs C++ : What should You take up in 2023 !](https://dev.to/darkxenium/python-vs-c-what-should-you-take-up-in-2023--5gae)
+- [Assume Best Intent is not the Best Approach](https://dev.to/virtualcoffee/assume-best-intent-is-not-the-best-approach-14c2)
 <!-- BLOG-POST-LIST:END -->
 
