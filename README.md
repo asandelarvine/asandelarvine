@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How install Jupyter?](https://dev.to/xlmriosx/how-install-jupyter-2f7j)
+- [Modals with React Router 6 and Remix](https://dev.to/infoxicator/modals-with-react-router-6-and-remix-1e35)
 - [The Journey to Code Mastery w/ Marqeta&#39;s CTO, Randy Kern](https://dev.to/linearb/the-journey-to-code-mastery-w-marqetas-cto-randy-kern-3jae)
-- [30 days 30 shorts](https://dev.to/shreyvijayvargiya/30-days-30-shorts-2cn0)
-- [Your CI needs CI: A New Way to Build CI Pipelines](https://dev.to/kpenfound/your-ci-needs-ci-a-new-way-to-build-ci-pipelines-2gbi)
-- [Simpler CSS Selectors With :is&lpar;&rpar;](https://dev.to/builderio/simpler-css-selectors-with-is-58m2)
+- [JS Promises #3: Garbage collection and memory leaks](https://dev.to/xnimorz/js-promises-3-garbage-collection-and-memory-leaks-2oi7)
 <!-- BLOG-POST-LIST:END -->
 
