@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Leak and Ruby](https://dev.to/daviducolo/memory-leak-and-ruby-a1m)
-- [AKS Cost Optimization: Top 7 Strategies to Cut Your AKS Cluster Costs](https://dev.to/castai/aks-cost-optimization-top-7-strategies-to-cut-your-aks-cluster-costs-51nd)
-- [Coming back to programming after a long break.](https://dev.to/lambstar/coming-back-to-programming-after-a-long-break-31ll)
-- [Getting started with Docker](https://dev.to/pulkit30/getting-started-with-docker-4b71)
+- [How to make a line graph in google sheets?](https://dev.to/sujit_mali/how-to-make-a-line-graph-in-google-sheets-4ebl)
+- [How To Prepare For A Layoff ?](https://dev.to/onlydevs_/how-to-prepare-for-a-layoff--ijo)
+- [.NET Security Headers: A Senior Developer’s Guide✨](https://dev.to/bytehide/net-security-headers-a-senior-developers-guide-150d)
+- [A &quot;Shallow&quot; Dive into Memory Leaks in Ruby](https://dev.to/daviducolo/memory-leak-and-ruby-a1m)
 <!-- BLOG-POST-LIST:END -->
 
