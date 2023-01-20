@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Software Architecture Patterns: Space-based Architecture](https://dev.to/alexrashkov/software-architecture-patterns-space-based-architecture-h2i)
 - [Software Architecture Patterns: Command Query Responsibility Segregation](https://dev.to/alexrashkov/software-architecture-patterns-command-query-responsibility-segregation-1cg)
+- [Gibson - An English-2-Shell CLI demo with OpenAI](https://dev.to/lysofdev/gibson-an-english-2-shell-cli-demo-with-openai-2g17)
 - [Software Architecture Patterns: Microservices Architecture](https://dev.to/alexrashkov/software-architecture-patterns-microservices-architecture-31e2)
-- [Software Architecture Patterns: Event-driven Architecture](https://dev.to/alexrashkov/software-architecture-patterns-event-driven-architecture-53cd)
 <!-- BLOG-POST-LIST:END -->
 
