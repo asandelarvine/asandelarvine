@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get started with the basics of front end development](https://dev.to/catherineisonline/how-to-get-started-with-the-basics-of-front-end-development-1bh5)
+- [Python vs C++ : What should You take up in 2023 !](https://dev.to/darkxenium/python-vs-c-what-should-you-take-up-in-2023--5gae)
+- [Bootstrap vs Bulma CSS](https://dev.to/get_pieces/bootstrap-vs-bulma-css-32bf)
 - [Build a custom Python linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-python-linter-in-5-minutes-205c)
-- [Top packages for React Development](https://dev.to/lambrero/top-packages-for-react-development-2444)
-- [Introducing Quine to the Dev.To community](https://dev.to/quine/introducing-quine-to-the-devto-community-1nnb)
-- [Hey GitHub! Using Copilot with your Voice](https://dev.to/this-is-learning/hey-github-using-copilot-with-your-voice-6ao)
 <!-- BLOG-POST-LIST:END -->
 
