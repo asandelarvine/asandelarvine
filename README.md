@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a line graph in google sheets?](https://dev.to/sujit_mali/how-to-make-a-line-graph-in-google-sheets-4ebl)
-- [Tackling breaking changes using Nx Workspace generators.](https://dev.to/valorsoftware/tackling-breaking-changes-using-nx-workspace-generators-4mnk)
-- [How To Prepare For A Layoff ?](https://dev.to/onlydevs_/how-to-prepare-for-a-layoff--ijo)
-- [.NET Security Headers: A Senior Developer’s Guide✨](https://dev.to/bytehide/net-security-headers-a-senior-developers-guide-150d)
+- [Why I am happy to be a Javascript developer?](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
+- [Text To Speech Converter with JavaScript](https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo)
+- [Build a Subscription-Based Service with Stripe and Appwrite Functions in Flutter](https://dev.to/hackmamba/build-a-subscription-based-service-with-stripe-and-appwrite-functions-in-flutter-bia)
+- [Top 8 tips for visiting re:Invent 2023](https://dev.to/aws-builders/top-8-tips-for-visiting-reinvent-2023-257b)
 <!-- BLOG-POST-LIST:END -->
 
