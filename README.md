@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://dev.to/olanetsoft/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript-3e3o)
+- [Exploring OCR and text-to-speech in FFMPEG...](https://dev.to/video/exploring-ocr-and-text-to-speech-in-ffmpeg-2o61)
 - [Build a music player with YouTube IFrame Player API](https://dev.to/eliaschen/build-a-music-player-with-youtube-iframe-player-api-ncp)
 - [⚡Introduction to Next.js](https://dev.to/iamdevmarcos/introduction-to-nextjs-5f9b)
-- [Why You Struggle to Learn to Code](https://dev.to/alexhyettdev/why-you-struggle-to-learn-to-code-2ido)
-- [Why I am happy to be a Javascript developer?](https://dev.to/hadnazzar/why-i-am-happy-to-be-a-javascript-developer-h62)
 <!-- BLOG-POST-LIST:END -->
 
