@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Docker](https://dev.to/pulkit30/getting-started-with-docker-4b71)
 - [10 Tips to become a Better Software Developer](https://dev.to/javinpaul/10-tips-to-become-a-better-software-developer-2il3)
 - [The Philosophy Behind a Programming Language &lpar;Discussion&rpar;](https://dev.to/satinwuker/the-philosophy-behind-a-programming-language-discussion-1oh3)
 - [Porting from RequireJS to ES6](https://dev.to/tythos/porting-from-requirejs-to-es6-ip)
-- [How I passed the AWS Certified Machine Learning — Specialty Exam &lpar;MLS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-machine-learning-specialty-exam-mls-c01-1m9a)
 <!-- BLOG-POST-LIST:END -->
 
