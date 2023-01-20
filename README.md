@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to make a line graph in google sheets?](https://dev.to/sujit_mali/how-to-make-a-line-graph-in-google-sheets-4ebl)
+- [Tackling breaking changes using Nx Workspace generators.](https://dev.to/valorsoftware/tackling-breaking-changes-using-nx-workspace-generators-4mnk)
 - [How To Prepare For A Layoff ?](https://dev.to/onlydevs_/how-to-prepare-for-a-layoff--ijo)
 - [.NET Security Headers: A Senior Developer’s Guide✨](https://dev.to/bytehide/net-security-headers-a-senior-developers-guide-150d)
-- [A &quot;Shallow&quot; Dive into Memory Leaks in Ruby](https://dev.to/daviducolo/memory-leak-and-ruby-a1m)
 <!-- BLOG-POST-LIST:END -->
 
