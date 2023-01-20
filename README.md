@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering and DataOps: A Beginner&#39;s Guide to Building Data Solutions and Solving Real-World Challenges](https://dev.to/chaos-genius/data-engineering-and-dataops-a-beginners-guide-to-building-data-solutions-and-solving-real-world-challenges-4p5j)
-- [🐞 Fix a WordPress login loop caused by Cloudflare Turnstile and Wordfence 2FA conflict 🐞](https://dev.to/hunghvu/fix-a-wordpress-login-loop-caused-by-cloudflare-turnstile-and-wordfence-2fa-conflict-1ma8)
-- [Tried Polars in Ruby](https://dev.to/kojix2/tried-polars-in-ruby-2p5j)
-- [How install Jupyter?](https://dev.to/xlmriosx/how-install-jupyter-2f7j)
+- [10 Tips to become a Better Software Developer](https://dev.to/javinpaul/10-tips-to-become-a-better-software-developer-2il3)
+- [The Philosophy Behind a Programming Language &lpar;Discussion&rpar;](https://dev.to/satinwuker/the-philosophy-behind-a-programming-language-discussion-1oh3)
+- [Porting from RequireJS to ES6](https://dev.to/tythos/porting-from-requirejs-to-es6-ip)
+- [How I passed the AWS Certified Machine Learning — Specialty Exam &lpar;MLS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-machine-learning-specialty-exam-mls-c01-1m9a)
 <!-- BLOG-POST-LIST:END -->
 
