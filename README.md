@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supervised Learning](https://dev.to/anurag629/supervised-learning-4o1i)
-- [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://dev.to/olanetsoft/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript-3e3o)
-- [5 Application Security Tips for Developers](https://dev.to/dennistraub/top-5-application-security-tips-for-developers-109a)
-- [Exploring OCR and text-to-speech in FFMPEG...](https://dev.to/video/exploring-ocr-and-text-to-speech-in-ffmpeg-2o61)
+- [Build a custom Python linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-python-linter-in-5-minutes-205c)
+- [Top packages for React Development](https://dev.to/lambrero/top-packages-for-react-development-2444)
+- [Introducing Quine to the Dev.To community](https://dev.to/quine/introducing-quine-to-the-devto-community-1nnb)
+- [Hey GitHub! Using Copilot with your Voice](https://dev.to/this-is-learning/hey-github-using-copilot-with-your-voice-6ao)
 <!-- BLOG-POST-LIST:END -->
 
