@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2c6d)
+- [Convert Canvas To Image | Use with react-image-crop](https://dev.to/deepakjaiswal/convert-canvas-to-image-4l1j)
+- [An easy win in 2023? Synchronizing dev holidays](https://dev.to/linearb/an-easy-win-in-2023-synchronizing-dev-holidays-1kc6)
 - [5 Common Software Architecture Patterns. When Should You Apply Them?](https://dev.to/alexrashkov/5-common-software-architecture-patterns-when-should-you-apply-them-42c7)
-- [Creating a Smart Twitter Bot with OpenAI&#39;s GPT-3: A Step-by-Step Guide](https://dev.to/paulwababu/creating-a-smart-twitter-bot-with-openais-gpt-3-a-step-by-step-guide-119k)
-- [Firebase + Nextjs](https://dev.to/abbhiishek/firebase-nextjs-511a)
-- [Assume Best Intent is not the Best Approach](https://dev.to/virtualcoffee/assume-best-intent-is-not-the-best-approach-14c2)
 <!-- BLOG-POST-LIST:END -->
 
