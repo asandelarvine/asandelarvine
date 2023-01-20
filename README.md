@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Leak and Ruby](https://dev.to/daviducolo/memory-leak-and-ruby-a1m)
+- [AKS Cost Optimization: Top 7 Strategies to Cut Your AKS Cluster Costs](https://dev.to/castai/aks-cost-optimization-top-7-strategies-to-cut-your-aks-cluster-costs-51nd)
+- [Coming back to programming after a long break.](https://dev.to/lambstar/coming-back-to-programming-after-a-long-break-31ll)
 - [Getting started with Docker](https://dev.to/pulkit30/getting-started-with-docker-4b71)
-- [10 Tips to become a Better Software Developer](https://dev.to/javinpaul/10-tips-to-become-a-better-software-developer-2il3)
-- [The Philosophy Behind a Programming Language &lpar;Discussion&rpar;](https://dev.to/satinwuker/the-philosophy-behind-a-programming-language-discussion-1oh3)
-- [Porting from RequireJS to ES6](https://dev.to/tythos/porting-from-requirejs-to-es6-ip)
 <!-- BLOG-POST-LIST:END -->
 
