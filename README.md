@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [🐞 Fix a WordPress login loop caused by Cloudflare Turnstile and Wordfence 2FA conflict 🐞](https://dev.to/hunghvu/fix-a-wordpress-login-loop-caused-by-cloudflare-turnstile-and-wordfence-2fa-conflict-1ma8)
+- [Tried Polars in Ruby](https://dev.to/kojix2/tried-polars-in-ruby-2p5j)
 - [How install Jupyter?](https://dev.to/xlmriosx/how-install-jupyter-2f7j)
 - [Modals with React Router 6 and Remix](https://dev.to/infoxicator/modals-with-react-router-6-and-remix-1e35)
-- [The Journey to Code Mastery w/ Marqeta&#39;s CTO, Randy Kern](https://dev.to/linearb/the-journey-to-code-mastery-w-marqetas-cto-randy-kern-3jae)
 <!-- BLOG-POST-LIST:END -->
 
