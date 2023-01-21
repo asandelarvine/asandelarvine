@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Architecture Patterns: Space-based Architecture](https://dev.to/alexrashkov/software-architecture-patterns-space-based-architecture-h2i)
-- [Software Architecture Patterns: Command Query Responsibility Segregation](https://dev.to/alexrashkov/software-architecture-patterns-command-query-responsibility-segregation-1cg)
-- [Gibson - An English-2-Shell CLI demo with OpenAI](https://dev.to/lysofdev/gibson-an-english-2-shell-cli-demo-with-openai-2g17)
-- [Software Architecture Patterns: Microservices Architecture](https://dev.to/alexrashkov/software-architecture-patterns-microservices-architecture-31e2)
+- [Notice and Alerts](https://dev.to/austinmei5/notice-and-alerts-35p6)
+- [Choosing a path](https://dev.to/sfrunza13/choosing-a-path-16b6)
+- [Difference Between Responsive Design and Adaptive Design](https://dev.to/frontend_jedi/difference-between-responsive-design-and-adaptive-design-906)
+- [Cook a Recipe: Create a Web application using AWS Amplify](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
 <!-- BLOG-POST-LIST:END -->
 
