@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Podman 4.3 on Windows 10: Install](https://dev.to/nabbisen/podman-43-on-windows-10-install-1bdm)
-- [Install WSL2 🐧 on Windows 11](https://dev.to/bekbrace/install-wsl2-on-windows-11-4fh2)
-- [EssentialsP Version - v1.3.0](https://dev.to/essentialsp/v130-41n4)
-- [AWS Serverless Production Readiness Checklist](https://dev.to/aws-builders/aws-serverless-production-readiness-checklist-4jj)
+- [Understanding and Using GraphQL in React: A Beginner&#39;s Guide](https://dev.to/abhaysinghr1/understanding-and-using-graphql-in-react-a-beginners-guide-45an)
+- [Top 5 Posts tagged&lpar;#ai&rpar; last week](https://dev.to/c4r4x35/top-5-posts-taggedai-last-week-4fjp)
+- [Checkout Last week top 5 posts tagged&lpar;#programming&rpar;](https://dev.to/c4r4x35/checkout-last-week-top-5-posts-taggedprogramming-ikc)
+- [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-11bj)
 <!-- BLOG-POST-LIST:END -->
 
