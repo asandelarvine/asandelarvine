@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Serverless Production Readiness Checklist](https://dev.to/aws-builders/aws-serverless-production-readiness-checklist-4jj)
+- [Podman 4.3 on Windows 10: インストール](https://dev.to/nabbisen/podman-43-on-windows-10-insutoru-dmg)
 - [10 Free Spring Certification Practice Questions for Java Developers](https://dev.to/javinpaul/10-free-spring-certification-practice-questions-for-java-developers-194o)
-- [5 best reasons why one should learn programming in 2023](https://dev.to/hy_piyush/5-best-reasons-why-one-should-learn-programming-in-2023-25h7)
-- [TypeScript Being a Good Boy](https://dev.to/2devyank/typescript-being-a-good-boy-2fj1)
-- [Unsupervised Learning: Techniques, Types, and Applications](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk)
+- [Episode 118: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-118-mynewswrap-sap-and-microsoft-131l)
 <!-- BLOG-POST-LIST:END -->
 
