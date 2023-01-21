@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Animate everything with Framer Motion](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
+- [How to handle gRPC errors in NestJS](https://dev.to/mohsenbostan/how-to-handle-grpc-errors-in-nestjs-22jc)
 - [Better Grass](https://dev.to/pandadev_/better-grass-27g)
 - [Mastering Angular Structural Directives - It’s all about the context](https://dev.to/this-is-angular/mastering-angular-structural-directives-its-all-about-the-context-5hai)
-- [Reverse ETL](https://dev.to/sgaurav37533/reverse-etl-4dpn)
-- [JavaScript more efficient and readable code for make a calculator with only 20 lines with](https://dev.to/sayyedasad786/javascript-more-efficient-code-for-make-a-calculator-with-only-20-lines-3fpc)
 <!-- BLOG-POST-LIST:END -->
 
