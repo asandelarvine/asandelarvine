@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 best reasons why one should learn programming in 2023](https://dev.to/hy_piyush/5-best-reasons-why-one-should-learn-programming-in-2023-25h7)
+- [TypeScript Being a Good Boy](https://dev.to/2devyank/typescript-being-a-good-boy-2fj1)
 - [Unsupervised Learning: Techniques, Types, and Applications](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk)
 - [How to Make a Color Picker in JavaScript?](https://dev.to/shantanu_jana/how-to-make-a-color-picker-in-javascript-15lc)
-- [The Top 5 Websites for Effective Coding](https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9)
-- [The last form library for React you will ever need](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
 <!-- BLOG-POST-LIST:END -->
 
