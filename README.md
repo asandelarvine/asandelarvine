@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top 5 Websites for Effective Coding](https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9)
+- [The last form library for React you will ever need](https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42)
 - [Notice and Alerts](https://dev.to/austinmei5/notice-and-alerts-35p6)
-- [Choosing a path](https://dev.to/sfrunza13/choosing-a-path-16b6)
 - [Difference Between Responsive Design and Adaptive Design](https://dev.to/frontend_jedi/difference-between-responsive-design-and-adaptive-design-906)
-- [Cook a Recipe: Create a Web application using AWS Amplify](https://dev.to/aws-builders/cook-a-recipe-create-a-web-application-using-aws-amplify-3128)
 <!-- BLOG-POST-LIST:END -->
 
