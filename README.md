@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding and Using GraphQL in React: A Beginner&#39;s Guide](https://dev.to/abhaysinghr1/understanding-and-using-graphql-in-react-a-beginners-guide-45an)
+- [Last week top 5 posts tagged&lpar;#security&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedsecurity-39n0)
+- [Awesome top 5 Posts from last week tagged&lpar;#blockchain&rpar;](https://dev.to/c4r4x35/awesome-top-5-posts-from-last-week-taggedblockchain-5c43)
 - [Top 5 Posts tagged&lpar;#ai&rpar; last week](https://dev.to/c4r4x35/top-5-posts-taggedai-last-week-4fjp)
-- [Checkout Last week top 5 posts tagged&lpar;#programming&rpar;](https://dev.to/c4r4x35/checkout-last-week-top-5-posts-taggedprogramming-ikc)
-- [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-11bj)
 <!-- BLOG-POST-LIST:END -->
 
