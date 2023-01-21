@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Grass](https://dev.to/pandadev_/better-grass-27g)
 - [Amazon API Gateway integration with AWS WAF](https://dev.to/aws-builders/amazon-api-gateway-integration-with-aws-waf-22b4)
 - [Time Complexity](https://dev.to/abbhiishek/time-complexity-41a1)
-- [Raffle Draws on the Ethereum Blockchain: A Beginner&#39;s Guide](https://dev.to/daltonic/raffle-draws-on-the-ethereum-blockchain-a-beginners-guide-29o2)
-- [Contribute on Open Source Projects as a Beginner](https://dev.to/anjankarmakar/contribute-on-open-source-projects-as-a-beginner-4mge)
+- [Implementing the Pipe Operator in TypeScript](https://dev.to/nexxeln/implementing-the-pipe-operator-in-typescript-30ip)
 <!-- BLOG-POST-LIST:END -->
 
