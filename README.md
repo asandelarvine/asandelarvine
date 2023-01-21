@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🧧Happy Lunar New Year, and thanks dev.to for the great 2022🎆](https://dev.to/hunghvu/happy-lunar-new-year-and-thanks-devto-for-the-great-2022-o7n)
 - [Animate everything with Framer Motion](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
+- [About OCP Exams](https://dev.to/ervin_szilagyi/about-ocp-exams-3in7)
 - [How to handle gRPC errors in NestJS](https://dev.to/mohsenbostan/how-to-handle-grpc-errors-in-nestjs-22jc)
-- [Better Grass](https://dev.to/pandadev_/better-grass-27g)
-- [Mastering Angular Structural Directives - It’s all about the context](https://dev.to/this-is-angular/mastering-angular-structural-directives-its-all-about-the-context-5hai)
 <!-- BLOG-POST-LIST:END -->
 
