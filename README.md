@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Using GraphQL in React: A Beginner&#39;s Guide](https://dev.to/abhaysinghr1/understanding-and-using-graphql-in-react-a-beginners-guide-45an)
-- [Last week top 5 posts tagged&lpar;#security&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedsecurity-39n0)
-- [Awesome top 5 Posts from last week tagged&lpar;#blockchain&rpar;](https://dev.to/c4r4x35/awesome-top-5-posts-from-last-week-taggedblockchain-5c43)
-- [Top 5 Posts tagged&lpar;#ai&rpar; last week](https://dev.to/c4r4x35/top-5-posts-taggedai-last-week-4fjp)
+- [Amazon API Gateway integration with AWS WAF](https://dev.to/aws-builders/amazon-api-gateway-integration-with-aws-waf-22b4)
+- [Time Complexity](https://dev.to/abbhiishek/time-complexity-41a1)
+- [Contribute on Open Source Projects as a Beginner](https://dev.to/anjankarmakar/contribute-on-open-source-projects-as-a-beginner-4mge)
+- [Readymade Quiz for AWS re:Invent re:Cap from QuizHub](https://dev.to/aws-heroes/readymade-quiz-for-aws-reinvent-recap-from-quizhub-2akm)
 <!-- BLOG-POST-LIST:END -->
 
