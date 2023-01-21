@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EssentialsP Version - v1.3.0](https://dev.to/essentialsp/v130-41n4)
 - [AWS Serverless Production Readiness Checklist](https://dev.to/aws-builders/aws-serverless-production-readiness-checklist-4jj)
 - [Podman 4.3 on Windows 10: インストール](https://dev.to/nabbisen/podman-43-on-windows-10-insutoru-dmg)
 - [10 Free Spring Certification Practice Questions for Java Developers](https://dev.to/javinpaul/10-free-spring-certification-practice-questions-for-java-developers-194o)
-- [Episode 118: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-118-mynewswrap-sap-and-microsoft-131l)
 <!-- BLOG-POST-LIST:END -->
 
