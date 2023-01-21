@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Better Grass](https://dev.to/pandadev_/better-grass-27g)
 - [Mastering Angular Structural Directives - It’s all about the context](https://dev.to/this-is-angular/mastering-angular-structural-directives-its-all-about-the-context-5hai)
+- [Reverse ETL](https://dev.to/sgaurav37533/reverse-etl-4dpn)
 - [JavaScript more efficient and readable code for make a calculator with only 20 lines with](https://dev.to/sayyedasad786/javascript-more-efficient-code-for-make-a-calculator-with-only-20-lines-3fpc)
-- [Amazon API Gateway integration with AWS WAF](https://dev.to/aws-builders/amazon-api-gateway-integration-with-aws-waf-22b4)
 <!-- BLOG-POST-LIST:END -->
 
