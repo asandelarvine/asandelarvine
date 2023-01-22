@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get full CSS selector path?](https://dev.to/martinadams/how-to-get-full-css-selector-path-1c8g)
+- [Top 10 Headless CMS in 2023](https://dev.to/ezinne_anne/top-10-headless-cms-in-2023-3i66)
 - [🧧Happy Lunar New Year, and thanks dev.to for the great 2022🎆](https://dev.to/hunghvu/happy-lunar-new-year-and-thanks-devto-for-the-great-2022-o7n)
-- [Animate everything with Framer Motion](https://dev.to/ariburaco/animate-everything-with-framer-motion-mpd)
-- [About OCP Exams](https://dev.to/ervin_szilagyi/about-ocp-exams-3in7)
-- [How to handle gRPC errors in NestJS](https://dev.to/mohsenbostan/how-to-handle-grpc-errors-in-nestjs-22jc)
+- [Web Scraping - A Complete Guide](https://dev.to/serpdogapi/web-scraping-a-complete-guide-1lk2)
 <!-- BLOG-POST-LIST:END -->
 
