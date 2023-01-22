@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node js PostgreSql,express, server connection](https://dev.to/bappasahabapi/node-js-postgresqlexpress-server-connection-4gpn)
 - [AWS VPC BASICS](https://dev.to/isec101/aws-vpc-basics-412p)
+- [Difference Between DOM and Virtual DOM](https://dev.to/vamsi_76_89/difference-between-dom-and-virtual-dom-2g8g)
 - [3 years into coding](https://dev.to/vulcanwm/3-years-into-coding-ni9)
-- [Essential Tools Every programmer must know](https://dev.to/vincod/essential-tools-every-programmer-must-know-3f5e)
-- [JavaScript in 2023: Why you should learn it&lpar;Blog-1&rpar; | Shah Stavan?](https://dev.to/shahstavan/javascript-in-2023-why-you-should-learn-it-29ki)
 <!-- BLOG-POST-LIST:END -->
 
