@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VSTech Limited: The Kenyan Tech Company Making Waves in the Industry](https://dev.to/smartjeff/vstech-limited-the-kenyan-tech-company-making-waves-in-the-industry-2d1d)
+- [OpenBSD メンテナンス: OS 再インストール](https://dev.to/nabbisen/openbsd-mentenansu-os-zai-insutoru-2n7l)
+- [Forks of Forks](https://dev.to/jonasbn/forks-of-forks-1m2c)
 - [Introduction To 11 Core JavaScript Functions To Improve Code Quality](https://dev.to/paulknulst/introduction-to-11-core-javascript-functions-to-improve-code-quality-5hce)
-- [Native iOS Touch Events w/ Rust](https://dev.to/wadecodez/bevy-native-ios-touch-events-49p3)
-- [Cap XI: La rentabilidad metodológica, El libro negro del programador. 💻](https://dev.to/duxtech/cap-xi-la-rentabilidad-metodologica-el-libro-negro-del-programador-2o9k)
-- [Understanding AWS Services for Modern Cloud Architectures](https://dev.to/bascodes/understanding-aws-services-for-modern-cloud-architectures-kn3)
 <!-- BLOG-POST-LIST:END -->
 
