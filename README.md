@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevating Your Serverless Development with AWS SAM](https://dev.to/inovizz/elevating-your-serverless-development-with-aws-sam-kdj)
-- [Yet Another Newsletter LOL: So much snow!](https://dev.to/nickytonline/yet-another-newsletter-lol-so-much-snow-3enl)
-- [Build A Simple Alarm Clock in JavaScript](https://dev.to/wirelessqna/build-a-simple-alarm-clock-in-javascript-533g)
-- [Measuring Java 11 Lambda cold starts with SnapStart - Part 6 priming the request invocation](https://dev.to/aws-builders/measuring-java-11-lambda-cold-starts-with-snapstart-part-6-priming-the-request-invocation-30od)
+- [Introduction To 11 Core JavaScript Functions To Improve Code Quality](https://dev.to/paulknulst/introduction-to-11-core-javascript-functions-to-improve-code-quality-5hce)
+- [Native iOS Touch Events w/ Rust](https://dev.to/wadecodez/bevy-native-ios-touch-events-49p3)
+- [Cap XI: La rentabilidad metodológica, El libro negro del programador. 💻](https://dev.to/duxtech/cap-xi-la-rentabilidad-metodologica-el-libro-negro-del-programador-2o9k)
+- [Understanding AWS Services for Modern Cloud Architectures](https://dev.to/bascodes/understanding-aws-services-for-modern-cloud-architectures-kn3)
 <!-- BLOG-POST-LIST:END -->
 
