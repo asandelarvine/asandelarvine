@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Interview Questions asked to me with answers.](https://dev.to/viveksinra/react-interview-questions-asked-to-me-with-answers-1d04)
+- [Decidi reproduzir o novo NLW Setup da Rocketseat... usando Vue.js](https://dev.to/s1d3a/decidi-reproduzir-o-novo-nlw-setup-da-rocketseat-usando-vuejs-3k08)
 - [Improve Your HTML Semantic With Pico CSS😍](https://dev.to/arafat4693/improve-your-html-semantic-with-pico-css-4obp)
 - [In defense of Ruby&#39;s short-hand syntax](https://dev.to/lucianghinda/in-defense-of-rubys-short-hand-syntax-4jh1)
-- [Web Assembly With Rust](https://dev.to/chaudharypraveen98/web-assembly-with-rust-4gaf)
-- [Nx Module Federation bad Angular routing](https://dev.to/this-is-angular/nx-module-federation-bad-angular-routing-1ac9)
 <!-- BLOG-POST-LIST:END -->
 
