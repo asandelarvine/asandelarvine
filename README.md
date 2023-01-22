@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Elevating Your Serverless Development with AWS SAM](https://dev.to/inovizz/elevating-your-serverless-development-with-aws-sam-kdj)
+- [Yet Another Newsletter LOL: So much snow!](https://dev.to/nickytonline/yet-another-newsletter-lol-so-much-snow-3enl)
 - [Measuring Java 11 Lambda cold starts with SnapStart - Part 6 priming the request invocation](https://dev.to/aws-builders/measuring-java-11-lambda-cold-starts-with-snapstart-part-6-priming-the-request-invocation-30od)
 - [I do HTML and CSS for a living](https://dev.to/starbist/i-do-html-and-css-for-a-living-20lj)
-- [Building a free Open-source portfolio template using HTML, CSS and JS | Part 5](https://dev.to/nisarhassan12/building-a-free-open-source-portfolio-template-using-html-css-and-js-part-5-15ne)
-- [React Interview Questions asked to me with answers.](https://dev.to/viveksinra/react-interview-questions-asked-to-me-with-answers-1d04)
 <!-- BLOG-POST-LIST:END -->
 
