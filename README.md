@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Survive, Thrive in the 2023 Economy💪🎯](https://dev.to/ruppysuppy/dont-survive-thrive-in-the-2023-economy-3a7f)
-- [OpenBSD maintenance: OS reinstall](https://dev.to/nabbisen/openbsd-maintenance-os-reinstall-4a17)
-- [How to Create Modal Popup in React JS](https://dev.to/shantanu_jana/how-to-create-modal-popup-in-react-js-1c48)
-- [Top 10 Most Popular CSS Interview Questions 🦄](https://dev.to/rammcodes/top-10-most-popular-css-interview-questions-47cj)
+- [3 years into coding](https://dev.to/vulcanwm/3-years-into-coding-ni9)
+- [Essential Tools Every programmer must know](https://dev.to/vincod/essential-tools-every-programmer-must-know-3f5e)
+- [JavaScript in 2023: Why you should learn it&lpar;Blog-1&rpar; | Shah Stavan?](https://dev.to/shahstavan/javascript-in-2023-why-you-should-learn-it-29ki)
+- [Integrating Github Actions with Selenium](https://dev.to/pratyushsingh07/integrating-github-actions-with-selenium-cp0)
 <!-- BLOG-POST-LIST:END -->
 
