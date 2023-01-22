@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Learning list for 2023: Plan and Resources 📑](https://dev.to/danidiaztech/my-learning-list-for-2023-plan-and-resources-1bh)
-- [Reinforcement Learning: A Great Introduction](https://dev.to/anurag629/reinforcement-learning-a-great-introduction-3c24)
-- [How to Make a Ransomware with Python &lpar;Windows, Mac and Linux&rpar;.](https://dev.to/paulwababu/how-to-make-ransomware-with-python-windows-mac-and-linux-142g)
-- [How to get full CSS selector path?](https://dev.to/martinadams/how-to-get-full-css-selector-path-1c8g)
+- [OpenBSD maintenance: OS reinstall](https://dev.to/nabbisen/openbsd-maintenance-os-reinstall-4a17)
+- [Top 10 Most Popular CSS Interview Questions 🦄](https://dev.to/rammcodes/top-10-most-popular-css-interview-questions-47cj)
+- [I bet you don’t know about these 11 functional HTML elements](https://dev.to/hy_piyush/i-bet-you-dont-know-about-these-11-functional-html-elements-1gpe)
+- [6 GitHub Repositories You Can&#39;t Live Without](https://dev.to/rahul3002/6-github-repositories-you-cant-live-without-1mka)
 <!-- BLOG-POST-LIST:END -->
 
