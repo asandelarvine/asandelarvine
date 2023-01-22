@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nx Module Federation bad Angular routing](https://dev.to/this-is-angular/nx-module-federation-bad-angular-routing-1ac9)
 - [Building a Simple Recommendation System with Scikit-Learn](https://dev.to/abhaysinghr1/building-a-simple-recommendation-system-with-scikit-learn-7op)
 - [Got a personal a11y-related site? Want to join a webring?](https://dev.to/moopet/got-a-personal-a11y-related-site-want-to-join-a-webring-4ff1)
 - [Node js PostgreSql,express, server connection](https://dev.to/bappasahabapi/node-js-postgresqlexpress-server-connection-4gpn)
-- [AWS VPC BASICS](https://dev.to/isec101/aws-vpc-basics-412p)
 <!-- BLOG-POST-LIST:END -->
 
