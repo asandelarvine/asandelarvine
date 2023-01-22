@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Improve Your HTML Semantic With Pico CSS😍](https://dev.to/arafat4693/improve-your-html-semantic-with-pico-css-4obp)
+- [In defense of Ruby&#39;s short-hand syntax](https://dev.to/lucianghinda/in-defense-of-rubys-short-hand-syntax-4jh1)
 - [Web Assembly With Rust](https://dev.to/chaudharypraveen98/web-assembly-with-rust-4gaf)
 - [Nx Module Federation bad Angular routing](https://dev.to/this-is-angular/nx-module-federation-bad-angular-routing-1ac9)
-- [Building a Simple Recommendation System with Scikit-Learn](https://dev.to/abhaysinghr1/building-a-simple-recommendation-system-with-scikit-learn-7op)
 <!-- BLOG-POST-LIST:END -->
 
