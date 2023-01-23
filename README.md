@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you should be learning cloud in 2023 | AWS Community Builders Program](https://dev.to/aws-builders/why-you-should-be-learning-cloud-in-2023-aws-community-builders-program-4b37)
 - [How to upload images to S3 from a react application](https://dev.to/shadid12/how-to-upload-images-to-s3-in-a-react-application-4lm)
+- [CROSS-SITE REQUEST FORGERY](https://dev.to/callmelokzy/cross-site-request-forgery-1pjo)
 - [TypeScript: type vs interface](https://dev.to/udayanmaurya/type-vs-interface-45o7)
-- [Create an array of all values in an object](https://dev.to/juniordevforlife/create-an-array-of-all-values-in-an-object-2mop)
-- [6 Unconventional Software Developer Side Hustles](https://dev.to/rickblyth/6-unconventional-software-developer-side-hustles-442)
 <!-- BLOG-POST-LIST:END -->
 
