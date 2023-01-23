@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Myths about Quality Assurance and Testing](https://dev.to/lambdatest/common-myths-about-quality-assurance-and-testing-28i8)
-- [TypeScript Vs JavaScript: Which One To Choose?](https://dev.to/infiraise/typescript-vs-javascript-which-one-to-choose-36m7)
-- [⚡️Serverless Frameworks for 2023](https://dev.to/aws-builders/serverless-frameworks-for-2023-135k)
-- [5 Websites To Learn Web Development For Free In 2023](https://dev.to/rahul3002/5-websites-to-learn-web-development-for-free-in-2023-2gj5)
+- [6 Concepts Every Backend Engineer Should Know](https://dev.to/maddy/6-concepts-every-backend-engineer-should-know-472)
+- [AWS open source newsletter, #142](https://dev.to/aws/aws-open-source-newsletter-142-4c9b)
+- [AWS Lambda &amp; S3|SNS| Automate JSON File Processing From S3 Bucket And Push data in MYSQL Using Lambda [Python]](https://dev.to/roshannadeem1/aws-lambda-s3sns-automate-json-file-processing-from-s3-bucket-and-push-data-in-mysql-using-lambda-python-4ofo)
+- [How to add Algolia to Nuxt](https://dev.to/jacobandrewsky/how-to-add-algolia-to-nuxt-2hdm)
 <!-- BLOG-POST-LIST:END -->
 
