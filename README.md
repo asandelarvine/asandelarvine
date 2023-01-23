@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLiP Stack Weekly for 21 Jan 2023](https://dev.to/tspannhw/flip-stack-weekly-for-21-jan-2023-mb6)
+- [Remote Desktop Connexion - How to use 2 out of 3 screens?](https://dev.to/mxglt/remote-desktop-connexion-how-to-use-2-out-of-3-screens-4onb)
+- [Connect Memphis as an Argo event source](https://dev.to/memphis_dev/connect-memphis-as-an-argo-event-source-397l)
 - [Go microservice project based multiple technology stacks | Recommended open source projects](https://dev.to/llance_24/go-microservice-project-based-multiple-technology-stacks-recommended-open-source-projects-557n)
-- [Build a To-Do Application with React and Firebase](https://dev.to/dev-academy/build-a-to-do-application-with-react-and-firebase-2nad)
-- [5 Creative Ways to Use AI in Your Writing: Boosting Productivity and Inspiration](https://dev.to/abhaysinghr1/5-creative-ways-to-use-ai-in-your-writing-boosting-productivity-and-inspiration-n5c)
-- [What is syslog monitoring - a quick introduction &amp; steps to set it up](https://dev.to/signoz/what-is-syslog-monitoring-a-quick-introduction-steps-to-set-it-up-2cmi)
 <!-- BLOG-POST-LIST:END -->
 
