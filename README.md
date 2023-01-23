@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate AI Art with GitHub Codespaces](https://dev.to/github/generate-ai-art-with-github-codespaces-59fc)
-- [Styling Text in CSS](https://dev.to/get_pieces/styling-text-in-css-3mf4)
-- [Kube-bench and Popeye: A Power Duo for AKS Security Compliance](https://dev.to/the_cozma/kube-bench-and-popeye-a-power-duo-for-aks-security-compliance-38)
-- [7 Soft Skills Every Software Engineer Should Have in 2023⚡🧑‍💻](https://dev.to/iamdevmarcos/7-soft-skills-every-software-engineer-should-have-in-2023-38ni)
+- [Latin x Python - The Start](https://dev.to/vulcanwm/latin-x-python-the-start-4636)
+- [Folder Structuring Techniques for Beginner to Advanced React Projects](https://dev.to/fpaghar/folder-structuring-techniques-for-beginner-to-advanced-react-projects-30d7)
+- [Static Site Generator &lpar;SSG&rpar; Visions, Roadmaps, and Trajectories: What to Watch in 2023](https://dev.to/cloudcannon/static-site-generator-ssg-visions-roadmaps-and-trajectories-what-to-watch-in-2023-5dph)
+- [CSS In JS - The what, why and How&#39;s](https://dev.to/harshitakanal/css-in-js-the-what-why-and-hows-1h30)
 <!-- BLOG-POST-LIST:END -->
 
