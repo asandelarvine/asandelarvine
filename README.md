@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What array traversal methods are there in JavaScript? &lpar;for loop, for...in, for...of, forEach, map, filter, every, some&rpar;](https://dev.to/alaster/what-array-traversal-methods-are-there-in-javascript-for-loop-forin-forof-foreach-map-filter-every-some-mpm)
-- [Kotlin Web Framework Ktor: What&#39;s New and How It Can Benefit Your Project?](https://dev.to/quokkalabs/kotlin-web-framework-ktor-whats-new-and-how-it-can-benefit-your-project-21b5)
-- [Why did I give up my academia career after Ph.D. and build a start-up?](https://dev.to/fannieailiverse/why-did-i-give-up-my-academia-career-after-phd-and-build-a-start-up-3cmg)
-- [Building personalised recommendation system &lpar;p.2&rpar;](https://dev.to/vhutov/building-personalised-recommendation-system-p2-53gk)
+- [5 Creative Ways to Use AI in Your Writing: Boosting Productivity and Inspiration](https://dev.to/abhaysinghr1/5-creative-ways-to-use-ai-in-your-writing-boosting-productivity-and-inspiration-n5c)
+- [What is syslog monitoring - a quick introduction &amp; steps to set it up](https://dev.to/signoz/what-is-syslog-monitoring-a-quick-introduction-steps-to-set-it-up-2cmi)
+- [Rescript React useStateMachine without useEffect usage](https://dev.to/srikanthkyatham/rescript-react-usestatemachine-without-useeffect-usage-34oh)
+- [Handheld Friendly — Why do so many websites have this mystery tag?](https://dev.to/shadowfaxrodeo/handheld-friendly-why-do-so-many-websites-have-this-mystery-tag-21a6)
 <!-- BLOG-POST-LIST:END -->
 
