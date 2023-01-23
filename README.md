@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Styling Text in CSS](https://dev.to/get_pieces/styling-text-in-css-3mf4)
+- [Kube-bench and Popeye: A Power Duo for AKS Security Compliance](https://dev.to/the_cozma/kube-bench-and-popeye-a-power-duo-for-aks-security-compliance-38)
 - [7 Soft Skills Every Software Engineer Should Have in 2023⚡🧑‍💻](https://dev.to/iamdevmarcos/7-soft-skills-every-software-engineer-should-have-in-2023-38ni)
-- [Create Fully Functional Web Apps in Minutes - YouTube Tutorial!](https://dev.to/flatlogic/create-fully-functional-web-apps-in-minutes-youtube-tutorial-4j33)
-- [Music Monday — What are you listening to? &lpar;70&#39;s Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-70s-edition-42g1)
-- [Build Server With Go Under 10 minutes](https://dev.to/aniket762/build-server-with-go-under-10-minutes-1i9m)
+- [A Year in DevRel](https://dev.to/bekahhw/a-year-in-devrel-4ohj)
 <!-- BLOG-POST-LIST:END -->
 
