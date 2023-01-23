@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite Loves Open Source: Why I decided to support Starship](https://dev.to/appwrite/appwrite-loves-open-source-why-i-decided-to-support-starship-3pfc)
 - [6 Concepts Every Backend Engineer Should Know](https://dev.to/maddy/6-concepts-every-backend-engineer-should-know-472)
 - [AWS open source newsletter, #142](https://dev.to/aws/aws-open-source-newsletter-142-4c9b)
 - [AWS Lambda &amp; S3|SNS| Automate JSON File Processing From S3 Bucket And Push data in MYSQL Using Lambda [Python]](https://dev.to/roshannadeem1/aws-lambda-s3sns-automate-json-file-processing-from-s3-bucket-and-push-data-in-mysql-using-lambda-python-4ofo)
-- [How to add Algolia to Nuxt](https://dev.to/jacobandrewsky/how-to-add-algolia-to-nuxt-2hdm)
 <!-- BLOG-POST-LIST:END -->
 
