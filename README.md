@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression in Python: From Data to Model](https://dev.to/anurag629/linear-regression-in-python-from-data-to-model-3m34)
 - [DataOps 101: An Introduction to the Essential Approach of Data Management Operations and Observability](https://dev.to/chaos-genius/dataops-101-an-introduction-to-the-essential-approach-of-data-management-operations-and-observability-2gea)
+- [Unlock the Power of debugging: Utilizing Clear Code as a Tool for Documentation](https://dev.to/ankushppie/unlock-the-power-of-debugging-utilizing-clear-code-as-a-tool-for-documentation-161f)
 - [Why you should be learning cloud in 2023 | AWS Community Builders Program](https://dev.to/aws-builders/why-you-should-be-learning-cloud-in-2023-aws-community-builders-program-4b37)
-- [The Hidden Costs of Ignoring Software Bugs](https://dev.to/pragyanatvade/software-bugs-2946)
-- [Become a data scientist for free 🎉 in 2023 🚀](https://dev.to/mahmoudessam/become-a-data-scientist-for-free-in-2023-46lo)
 <!-- BLOG-POST-LIST:END -->
 
