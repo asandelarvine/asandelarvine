@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to upload images to S3 from a react application](https://dev.to/shadid12/how-to-upload-images-to-s3-in-a-react-application-4lm)
+- [TypeScript: type vs interface](https://dev.to/udayanmaurya/type-vs-interface-45o7)
 - [Create an array of all values in an object](https://dev.to/juniordevforlife/create-an-array-of-all-values-in-an-object-2mop)
-- [What the heck is Tailwind CSS and should I use it?](https://dev.to/chasehuber/what-the-heck-is-tailwind-css-and-should-i-use-it-557d)
-- [Build your resume in React + SSG!](https://dev.to/jeckhummer/build-your-resume-in-react-ssg-10i4)
-- [DNS Basics Explained](https://dev.to/nskrypnik/dns-basics-explained-2mea)
+- [6 Unconventional Software Developer Side Hustles](https://dev.to/rickblyth/6-unconventional-software-developer-side-hustles-442)
 <!-- BLOG-POST-LIST:END -->
 
