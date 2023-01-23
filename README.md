@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Generate AI Art with GitHub Codespaces](https://dev.to/github/generate-ai-art-with-github-codespaces-59fc)
 - [Styling Text in CSS](https://dev.to/get_pieces/styling-text-in-css-3mf4)
 - [Kube-bench and Popeye: A Power Duo for AKS Security Compliance](https://dev.to/the_cozma/kube-bench-and-popeye-a-power-duo-for-aks-security-compliance-38)
 - [7 Soft Skills Every Software Engineer Should Have in 2023⚡🧑‍💻](https://dev.to/iamdevmarcos/7-soft-skills-every-software-engineer-should-have-in-2023-38ni)
-- [A Year in DevRel](https://dev.to/bekahhw/a-year-in-devrel-4ohj)
 <!-- BLOG-POST-LIST:END -->
 
