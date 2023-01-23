@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linear Regression in Python: From Data to Model](https://dev.to/anurag629/linear-regression-in-python-from-data-to-model-3m34)
-- [DataOps 101: An Introduction to the Essential Approach of Data Management Operations and Observability](https://dev.to/chaos-genius/dataops-101-an-introduction-to-the-essential-approach-of-data-management-operations-and-observability-2gea)
-- [Unlock the Power of debugging: Utilizing Clear Code as a Tool for Documentation](https://dev.to/ankushppie/unlock-the-power-of-debugging-utilizing-clear-code-as-a-tool-for-documentation-161f)
-- [Why you should be learning cloud in 2023 | AWS Community Builders Program](https://dev.to/aws-builders/why-you-should-be-learning-cloud-in-2023-aws-community-builders-program-4b37)
+- [Common Myths about Quality Assurance and Testing](https://dev.to/lambdatest/common-myths-about-quality-assurance-and-testing-28i8)
+- [5 Websites To Learn Web Development For Free In 2023](https://dev.to/rahul3002/5-websites-to-learn-web-development-for-free-in-2023-2gj5)
+- [AWS IaC Stories #02: Getting Started with IaC](https://dev.to/aws-builders/aws-iac-stories-02-getting-started-with-iac-5757)
+- [The Crypto Dilemma: How crypto lost its way 😞](https://dev.to/acidop/the-crypto-dilemma-how-crypto-lost-its-way-1l7g)
 <!-- BLOG-POST-LIST:END -->
 
