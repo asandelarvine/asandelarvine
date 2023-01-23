@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLiP Stack Weekly for 21 Jan 2023](https://dev.to/tspannhw/flip-stack-weekly-for-21-jan-2023-mb6)
-- [Remote Desktop Connexion - How to use 2 out of 3 screens?](https://dev.to/mxglt/remote-desktop-connexion-how-to-use-2-out-of-3-screens-4onb)
-- [Connect Memphis as an Argo event source](https://dev.to/memphis_dev/connect-memphis-as-an-argo-event-source-397l)
-- [Go microservice project based multiple technology stacks | Recommended open source projects](https://dev.to/llance_24/go-microservice-project-based-multiple-technology-stacks-recommended-open-source-projects-557n)
+- [Docker Images: A Quick Guide](https://dev.to/pulkit30/docker-images-a-quick-guide-17pa)
+- [Use ChatGPT to &quot;talk&quot; to your website](https://dev.to/polterguy/use-chatgpt-to-talk-to-your-website-52nb)
+- [Getting started with Pinia for VueJS and NuxtJS🍍](https://dev.to/bcostaaa01/getting-started-with-pinia-for-vuejs-and-nuxtjs-1m2p)
+- [Connexion Bureau à distance - Utiliser 2 écrans sur 3](https://dev.to/mxglt/connexion-bureau-a-distance-utiliser-2-ecrans-sur-3-4mng)
 <!-- BLOG-POST-LIST:END -->
 
