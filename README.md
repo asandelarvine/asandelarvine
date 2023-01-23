@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Appwrite Loves Open Source: Why I decided to support Starship](https://dev.to/appwrite/appwrite-loves-open-source-why-i-decided-to-support-starship-3pfc)
-- [6 Concepts Every Backend Engineer Should Know](https://dev.to/maddy/6-concepts-every-backend-engineer-should-know-472)
-- [AWS open source newsletter, #142](https://dev.to/aws/aws-open-source-newsletter-142-4c9b)
-- [AWS Lambda &amp; S3|SNS| Automate JSON File Processing From S3 Bucket And Push data in MYSQL Using Lambda [Python]](https://dev.to/roshannadeem1/aws-lambda-s3sns-automate-json-file-processing-from-s3-bucket-and-push-data-in-mysql-using-lambda-python-4ofo)
+- [What array traversal methods are there in JavaScript? &lpar;for loop, for...in, for...of, forEach, map, filter, every, some&rpar;](https://dev.to/alaster/what-array-traversal-methods-are-there-in-javascript-for-loop-forin-forof-foreach-map-filter-every-some-mpm)
+- [Kotlin Web Framework Ktor: What&#39;s New and How It Can Benefit Your Project?](https://dev.to/quokkalabs/kotlin-web-framework-ktor-whats-new-and-how-it-can-benefit-your-project-21b5)
+- [Why did I give up my academia career after Ph.D. and build a start-up?](https://dev.to/fannieailiverse/why-did-i-give-up-my-academia-career-after-phd-and-build-a-start-up-3cmg)
+- [Building personalised recommendation system &lpar;p.2&rpar;](https://dev.to/vhutov/building-personalised-recommendation-system-p2-53gk)
 <!-- BLOG-POST-LIST:END -->
 
