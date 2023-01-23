@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Images: A Quick Guide](https://dev.to/pulkit30/docker-images-a-quick-guide-17pa)
-- [Use ChatGPT to &quot;talk&quot; to your website](https://dev.to/polterguy/use-chatgpt-to-talk-to-your-website-52nb)
-- [Getting started with Pinia for VueJS and NuxtJS🍍](https://dev.to/bcostaaa01/getting-started-with-pinia-for-vuejs-and-nuxtjs-1m2p)
-- [Connexion Bureau à distance - Utiliser 2 écrans sur 3](https://dev.to/mxglt/connexion-bureau-a-distance-utiliser-2-ecrans-sur-3-4mng)
+- [Build Server With Go Under 10 minutes](https://dev.to/aniket762/build-server-with-go-under-10-minutes-1i9m)
+- [Build an Ovulation Calculator App with Next.js, TypeScript, Tailwind CSS and useReducer Hook](https://dev.to/codeofrelevancy/build-an-ovulation-calculator-app-with-nextjs-typescript-tailwind-css-and-usereducer-hook-kja)
+- [Picking the right charge type for your Stripe Connect platform](https://dev.to/stripe/picking-the-right-charge-type-for-your-stripe-connect-platform-3m14)
+- [Meme Monday 🫵](https://dev.to/ben/meme-monday-40d1)
 <!-- BLOG-POST-LIST:END -->
 
