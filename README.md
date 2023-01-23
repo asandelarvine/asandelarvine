@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Soft Skills Every Software Engineer Should Have in 2023⚡🧑‍💻](https://dev.to/iamdevmarcos/7-soft-skills-every-software-engineer-should-have-in-2023-38ni)
+- [Create Fully Functional Web Apps in Minutes - YouTube Tutorial!](https://dev.to/flatlogic/create-fully-functional-web-apps-in-minutes-youtube-tutorial-4j33)
+- [Music Monday — What are you listening to? &lpar;70&#39;s Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-70s-edition-42g1)
 - [Build Server With Go Under 10 minutes](https://dev.to/aniket762/build-server-with-go-under-10-minutes-1i9m)
-- [Build an Ovulation Calculator App with Next.js, TypeScript, Tailwind CSS and useReducer Hook](https://dev.to/codeofrelevancy/build-an-ovulation-calculator-app-with-nextjs-typescript-tailwind-css-and-usereducer-hook-kja)
-- [Picking the right charge type for your Stripe Connect platform](https://dev.to/stripe/picking-the-right-charge-type-for-your-stripe-connect-platform-3m14)
-- [Meme Monday 🫵](https://dev.to/ben/meme-monday-40d1)
 <!-- BLOG-POST-LIST:END -->
 
