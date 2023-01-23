@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Go microservice project based multiple technology stacks | Recommended open source projects](https://dev.to/llance_24/go-microservice-project-based-multiple-technology-stacks-recommended-open-source-projects-557n)
+- [Build a To-Do Application with React and Firebase](https://dev.to/dev-academy/build-a-to-do-application-with-react-and-firebase-2nad)
 - [5 Creative Ways to Use AI in Your Writing: Boosting Productivity and Inspiration](https://dev.to/abhaysinghr1/5-creative-ways-to-use-ai-in-your-writing-boosting-productivity-and-inspiration-n5c)
 - [What is syslog monitoring - a quick introduction &amp; steps to set it up](https://dev.to/signoz/what-is-syslog-monitoring-a-quick-introduction-steps-to-set-it-up-2cmi)
-- [Rescript React useStateMachine without useEffect usage](https://dev.to/srikanthkyatham/rescript-react-usestatemachine-without-useeffect-usage-34oh)
-- [Handheld Friendly — Why do so many websites have this mystery tag?](https://dev.to/shadowfaxrodeo/handheld-friendly-why-do-so-many-websites-have-this-mystery-tag-21a6)
 <!-- BLOG-POST-LIST:END -->
 
