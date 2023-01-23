@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding :has&lpar;&rpar; selector in CSS.](https://dev.to/jasmin/understanding-has-selector-in-css-55j3)
+- [Clonar un objeto en JavaScript: 4 mejores formas [Ejemplos]](https://dev.to/khriztianmoreno/clonar-un-objeto-en-javascript-4-mejores-formas-ejemplos-1bke)
+- [Cap XII: Todo está en la UI, El libro negro del programador. 💻](https://dev.to/duxtech/cap-xii-todo-esta-en-la-ui-el-libro-negro-del-programador-402o)
 - [Latin x Python - The Start](https://dev.to/vulcanwm/latin-x-python-the-start-4636)
-- [Folder Structuring Techniques for Beginner to Advanced React Projects](https://dev.to/fpaghar/folder-structuring-techniques-for-beginner-to-advanced-react-projects-30d7)
-- [Static Site Generator &lpar;SSG&rpar; Visions, Roadmaps, and Trajectories: What to Watch in 2023](https://dev.to/cloudcannon/static-site-generator-ssg-visions-roadmaps-and-trajectories-what-to-watch-in-2023-5dph)
-- [CSS In JS - The what, why and How&#39;s](https://dev.to/harshitakanal/css-in-js-the-what-why-and-hows-1h30)
 <!-- BLOG-POST-LIST:END -->
 
