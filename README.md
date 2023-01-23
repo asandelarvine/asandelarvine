@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Common Myths about Quality Assurance and Testing](https://dev.to/lambdatest/common-myths-about-quality-assurance-and-testing-28i8)
+- [TypeScript Vs JavaScript: Which One To Choose?](https://dev.to/infiraise/typescript-vs-javascript-which-one-to-choose-36m7)
+- [⚡️Serverless Frameworks for 2023](https://dev.to/aws-builders/serverless-frameworks-for-2023-135k)
 - [5 Websites To Learn Web Development For Free In 2023](https://dev.to/rahul3002/5-websites-to-learn-web-development-for-free-in-2023-2gj5)
-- [AWS IaC Stories #02: Getting Started with IaC](https://dev.to/aws-builders/aws-iac-stories-02-getting-started-with-iac-5757)
-- [The Crypto Dilemma: How crypto lost its way 😞](https://dev.to/acidop/the-crypto-dilemma-how-crypto-lost-its-way-1l7g)
 <!-- BLOG-POST-LIST:END -->
 
