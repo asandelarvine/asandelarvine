@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Debugging - a Deep Level of Insight](https://dev.to/codenameone/memory-debugging-a-deep-level-of-insight-86l)
+- [Behind the Scenes: A Deep Dive into Back-End Development](https://dev.to/shubhicodes/a-blog-about-back-end-development-focusing-on-topics-such-as-server-side-scripting-databases-and-api-development-p79)
+- [One Crate a Day: has-flag](https://dev.to/thelarkinn/one-rust-crate-a-day-has-flag-26ph)
 - [Real time battery level using javascript](https://dev.to/rajamanickam/real-time-battery-level-using-javascript-24n3)
-- [Fast and reliable end-to-end tests with Playwright on GitHub Actions](https://dev.to/drakulavich/fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh)
-- [How to create Disclaimer for Website or App](https://dev.to/goonlinetools/how-to-create-disclaimer-for-website-or-app-78c)
-- [Automated CSS Atomization, shrinking CSS files by 80%](https://dev.to/thejaredwilcurt/automated-css-atomization-shrinking-css-files-by-80-1pnf)
 <!-- BLOG-POST-LIST:END -->
 
