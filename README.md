@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My journey from being a cook to becoming a software engineer.](https://dev.to/vitalii26/my-journey-from-being-a-cook-to-becoming-a-software-engineer-m8j)
 - [Git Basic Commands That You Need For Regular Project Work](https://dev.to/azadulkabir455/git-basic-commands-that-you-need-for-regular-basic-project-work-3b15)
-- [LinkedIn Learning Free Lifetime Access!!!](https://dev.to/vincod/linkedin-learning-free-lifetime-access-13md)
 - [Transforming Categorical Data: A Practical Guide to Handling Non-Numerical Variables for Machine Learning Algorithms.](https://dev.to/anurag629/transforming-categorical-data-a-practical-guide-to-handling-non-numerical-variables-for-machine-learning-algorithms-cld)
-- [Top 10 React js interview questions.](https://dev.to/said7388/top-10-react-js-interview-questions-48dc)
+- [How to plan, design, &amp; promote games?](https://dev.to/tauruscash/how-to-plan-design-promote-games-k0c)
 <!-- BLOG-POST-LIST:END -->
 
