@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [15 More Useful React Custom Hooks For Everyone - part 2](https://dev.to/arafat4693/15-more-useful-react-custom-hooks-for-everyone-part-2-4a5j)
 - [Angular OnChanges: Building Robust Applications](https://dev.to/cagkanmert/angular-onchanges-building-robust-applications-10gj)
 - [#DEVDiscuss: Linode + DEV Hackathon](https://dev.to/devteam/devdiscuss-linode-dev-hackathon-2f85)
-- [Announcing the Linode + DEV Hackathon!](https://dev.to/devteam/announcing-the-linode-dev-hackathon-377p)
+- [How to create strong LinkedIn profile: step by step guide &lpar;2/2&rpar;](https://dev.to/balazsrefi/how-to-create-strong-linkedin-profile-step-by-step-guide-22-493o)
 <!-- BLOG-POST-LIST:END -->
 
