@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [refine vs RedwoodJS](https://dev.to/refine/refine-vs-redwoodjs-37p9)
-- [Turn CV to structured data with GPT-3 and Node.js](https://dev.to/superface/turn-cv-to-structured-data-with-gpt-3-and-nodejs-398d)
-- [Smooth Scrolling with JS](https://dev.to/shubhamtiwari909/smooth-scrolling-with-js-n56)
-- [Career Question: To Specialize or Not To Specialize?](https://dev.to/codewithvoid/career-question-to-specialize-or-not-to-specialize-dfd)
+- [⭐️Back-End Developer Step by Step Roadmap Guide 2023⭐️](https://dev.to/iarchitsharma/back-end-developer-step-by-step-roadmap-guide-2023-4f7c)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ffi)
+- [The Progress on Postman&#39;s Open Source Program Office &lpar;OSPO&rpar;](https://dev.to/postman/building-postmans-open-source-program-office-ospo-15po)
+- [Object detection with Azure Custom Vision](https://dev.to/esdanielgomez/object-detection-with-azure-custom-vision-38ka)
 <!-- BLOG-POST-LIST:END -->
 
