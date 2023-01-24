@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⭐️Back-End Developer Step by Step Roadmap Guide 2023⭐️](https://dev.to/iarchitsharma/back-end-developer-step-by-step-roadmap-guide-2023-4f7c)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ffi)
-- [The Progress on Postman&#39;s Open Source Program Office &lpar;OSPO&rpar;](https://dev.to/postman/building-postmans-open-source-program-office-ospo-15po)
-- [Object detection with Azure Custom Vision](https://dev.to/esdanielgomez/object-detection-with-azure-custom-vision-38ka)
+- [F/OSS Spotlight: 🦆 DuckDB](https://dev.to/awsmfoss/foss-spotlight-duckdb-4mpf)
+- [How SvelteKit makes type-safe data fetching easier and better!](https://dev.to/asheeshh/how-sveltekit-makes-type-safe-data-fetching-easier-and-better-1g7k)
+- [How I Won $18,000 In A Hackathon](https://dev.to/teodorusnathaniel/how-i-won-18000-in-a-hackathon-23nd)
+- [Little React Things: Cleaning up dependencies](https://dev.to/zeke/little-react-things-cleaning-up-dependencies-4fg1)
 <!-- BLOG-POST-LIST:END -->
 
