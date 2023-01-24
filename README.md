@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Real time battery level using javascript](https://dev.to/rajamanickam/real-time-battery-level-using-javascript-24n3)
+- [Fast and reliable end-to-end tests with Playwright on GitHub Actions](https://dev.to/drakulavich/fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh)
+- [How to create Disclaimer for Website or App](https://dev.to/goonlinetools/how-to-create-disclaimer-for-website-or-app-78c)
 - [Automated CSS Atomization, shrinking CSS files by 80%](https://dev.to/thejaredwilcurt/automated-css-atomization-shrinking-css-files-by-80-1pnf)
-- [I just wanted to buy pants. How excessive JavaScript is costing you money](https://dev.to/begin/i-just-wanted-to-buy-pants-how-excessive-javascript-is-costing-you-money-1mgp)
-- [8 Best C++ IDEs to use in 2023](https://dev.to/mariamarsh/8-best-c-ides-to-use-in-2023-4kf5)
-- [F/OSS Spotlight: 🦆 DuckDB](https://dev.to/awsmfoss/foss-spotlight-duckdb-4mpf)
 <!-- BLOG-POST-LIST:END -->
 
