@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Amazing Developer Tools You Can&#39;t Ignore In 2023](https://dev.to/hr21don/10-amazing-developer-tools-you-cant-ignore-in-2023-917)
 - [Nextra 2 – Next.js Static Site Generator](https://dev.to/the-guild/nextra-2-nextjs-static-site-generator-47op)
 - [Closures in JavaScript - the Simplest Explanation](https://dev.to/mohsenkamrani/closures-in-javascript-the-simplest-explanation-9gj)
 - [How to Become a Full Stack Designer in 2023](https://dev.to/michaellarocca/how-to-become-a-full-stack-designer-in-2023-1moe)
-- [React Router Typesafe Routes v1.0.0 is Here 🎉](https://dev.to/fenok/react-router-typesafe-routes-v100-is-here-8cg)
 <!-- BLOG-POST-LIST:END -->
 
