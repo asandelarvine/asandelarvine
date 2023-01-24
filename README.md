@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Categorical Data: A Practical Guide to Handling Non-Numerical Variables for Machine Learning Algorithms.](https://dev.to/anurag629/transforming-categorical-data-a-practical-guide-to-handling-non-numerical-variables-for-machine-learning-algorithms-cld)
+- [Top 10 React js interview questions.](https://dev.to/said7388/top-10-react-js-interview-questions-48dc)
 - [AWS Glue | CSV to Parquet transformation | Getting started](https://dev.to/aws-builders/aws-glue-csv-to-parquet-transformation-getting-started-2j13)
 - [How to get Started with Data And Help Your Community](https://dev.to/cincybc/how-to-get-started-with-data-and-help-your-community-d67)
-- [Web-Based Programming Tools for Everyone](https://dev.to/rahul3002/web-based-programming-tools-for-everyone-np5)
-- [Pattern Matching Interfaces in Ruby](https://dev.to/baweaver/pattern-matching-interfaces-in-ruby-1b15)
 <!-- BLOG-POST-LIST:END -->
 
