@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated CSS Atomization, shrinking CSS files by 80%](https://dev.to/thejaredwilcurt/automated-css-atomization-shrinking-css-files-by-80-1pnf)
+- [I just wanted to buy pants. How excessive JavaScript is costing you money](https://dev.to/begin/i-just-wanted-to-buy-pants-how-excessive-javascript-is-costing-you-money-1mgp)
+- [8 Best C++ IDEs to use in 2023](https://dev.to/mariamarsh/8-best-c-ides-to-use-in-2023-4kf5)
 - [F/OSS Spotlight: 🦆 DuckDB](https://dev.to/awsmfoss/foss-spotlight-duckdb-4mpf)
-- [How SvelteKit makes type-safe data fetching easier and better!](https://dev.to/asheeshh/how-sveltekit-makes-type-safe-data-fetching-easier-and-better-1g7k)
-- [How I Won $18,000 In A Hackathon](https://dev.to/teodorusnathaniel/how-i-won-18000-in-a-hackathon-23nd)
-- [Little React Things: Cleaning up dependencies](https://dev.to/zeke/little-react-things-cleaning-up-dependencies-4fg1)
 <!-- BLOG-POST-LIST:END -->
 
