@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript MicroTask vs MacroTask Queue - Visually Explained 🤯🔥](https://dev.to/rammcodes/javascript-microtask-vs-macrotask-queue-visually-explained-2209)
-- [Understanding Docker: part 40 – Docker Compose](https://dev.to/aurelievache/understanding-docker-part-40-docker-compose-inl)
-- [Flutter guide for React developers](https://dev.to/kalabro/flutter-guide-for-react-developers-1noh)
-- [My journey from being a cook to becoming a software engineer.](https://dev.to/vitalii26/my-journey-from-being-a-cook-to-becoming-a-software-engineer-m8j)
+- [Improvements that CSS could use in 2023](https://dev.to/robole/improvements-that-css-could-use-in-2023-59n9)
+- [Become a Git Wizard 🧙‍♂️: Mastering the Advanced Git Commands](https://dev.to/elliot_brenya/become-a-git-wizard-mastering-the-advanced-git-commands-3he4)
+- [How to become a Java Programmer in 2023?](https://dev.to/javinpaul/how-to-become-a-java-programmer-in-2023-36dg)
+- [How Bootstrap UI Kit Enhances Your Web Design](https://dev.to/fabrxdesign/how-bootstrap-ui-kit-enhances-your-web-design-1fbo)
 <!-- BLOG-POST-LIST:END -->
 
