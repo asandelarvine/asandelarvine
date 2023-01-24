@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📚 String methods in JavaScript - Part 1](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-4jdg)
+- [Increase your conversion rate by over 7% with Stripe Link](https://dev.to/stripe/increase-your-conversion-rate-by-over-7-with-stripe-link-2omi)
+- [About the #showdev tag from one of the #showdev moderators](https://dev.to/cicirello/about-the-showdev-tag-from-one-of-the-showdev-moderators-3beh)
 - [Memory Debugging - a Deep Level of Insight](https://dev.to/codenameone/memory-debugging-a-deep-level-of-insight-86l)
-- [Behind the Scenes: A Deep Dive into Back-End Development](https://dev.to/shubhicodes/a-blog-about-back-end-development-focusing-on-topics-such-as-server-side-scripting-databases-and-api-development-p79)
-- [One Crate a Day: has-flag](https://dev.to/thelarkinn/one-rust-crate-a-day-has-flag-26ph)
-- [Real time battery level using javascript](https://dev.to/rajamanickam/real-time-battery-level-using-javascript-24n3)
 <!-- BLOG-POST-LIST:END -->
 
