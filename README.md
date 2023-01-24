@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding :has&lpar;&rpar; selector in CSS.](https://dev.to/jasmin/understanding-has-selector-in-css-55j3)
-- [Clonar un objeto en JavaScript: 4 mejores formas [Ejemplos]](https://dev.to/khriztianmoreno/clonar-un-objeto-en-javascript-4-mejores-formas-ejemplos-1bke)
-- [Cap XII: Todo está en la UI, El libro negro del programador. 💻](https://dev.to/duxtech/cap-xii-todo-esta-en-la-ui-el-libro-negro-del-programador-402o)
-- [Latin x Python - The Start](https://dev.to/vulcanwm/latin-x-python-the-start-4636)
+- [Nextra 2 – Next.js Static Site Generator](https://dev.to/the-guild/nextra-2-nextjs-static-site-generator-47op)
+- [Closures in JavaScript - the Simplest Explanation](https://dev.to/mohsenkamrani/closures-in-javascript-the-simplest-explanation-9gj)
+- [How to Become a Full Stack Designer in 2023](https://dev.to/michaellarocca/how-to-become-a-full-stack-designer-in-2023-1moe)
+- [React Router Typesafe Routes v1.0.0 is Here 🎉](https://dev.to/fenok/react-router-typesafe-routes-v100-is-here-8cg)
 <!-- BLOG-POST-LIST:END -->
 
