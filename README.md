@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Linode + DEV Hackathon!](https://dev.to/devteam/announcing-the-linode-dev-hackathon-377p)
+- [Linode + DEV Hackathon Help Thread](https://dev.to/devteam/linode-dev-hackathon-help-thread-1cmo)
 - [📚 String methods in JavaScript - Part 1](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-4jdg)
 - [Increase your conversion rate by over 7% with Stripe Link](https://dev.to/stripe/increase-your-conversion-rate-by-over-7-with-stripe-link-2omi)
-- [About the #showdev tag from one of the #showdev moderators](https://dev.to/cicirello/about-the-showdev-tag-from-one-of-the-showdev-moderators-3beh)
-- [Memory Debugging - a Deep Level of Insight](https://dev.to/codenameone/memory-debugging-a-deep-level-of-insight-86l)
 <!-- BLOG-POST-LIST:END -->
 
