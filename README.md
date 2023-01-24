@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript MicroTask vs MacroTask Queue - Visually Explained 🤯🔥](https://dev.to/rammcodes/javascript-microtask-vs-macrotask-queue-visually-explained-2209)
+- [Understanding Docker: part 40 – Docker Compose](https://dev.to/aurelievache/understanding-docker-part-40-docker-compose-inl)
+- [Flutter guide for React developers](https://dev.to/kalabro/flutter-guide-for-react-developers-1noh)
 - [My journey from being a cook to becoming a software engineer.](https://dev.to/vitalii26/my-journey-from-being-a-cook-to-becoming-a-software-engineer-m8j)
-- [Git Basic Commands That You Need For Regular Project Work](https://dev.to/azadulkabir455/git-basic-commands-that-you-need-for-regular-basic-project-work-3b15)
-- [Transforming Categorical Data: A Practical Guide to Handling Non-Numerical Variables for Machine Learning Algorithms.](https://dev.to/anurag629/transforming-categorical-data-a-practical-guide-to-handling-non-numerical-variables-for-machine-learning-algorithms-cld)
-- [How to plan, design, &amp; promote games?](https://dev.to/tauruscash/how-to-plan-design-promote-games-k0c)
 <!-- BLOG-POST-LIST:END -->
 
