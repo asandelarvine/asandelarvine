@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Basic Commands That You Need For Regular Project Work](https://dev.to/azadulkabir455/git-basic-commands-that-you-need-for-regular-basic-project-work-3b15)
+- [LinkedIn Learning Free Lifetime Access!!!](https://dev.to/vincod/linkedin-learning-free-lifetime-access-13md)
 - [Transforming Categorical Data: A Practical Guide to Handling Non-Numerical Variables for Machine Learning Algorithms.](https://dev.to/anurag629/transforming-categorical-data-a-practical-guide-to-handling-non-numerical-variables-for-machine-learning-algorithms-cld)
 - [Top 10 React js interview questions.](https://dev.to/said7388/top-10-react-js-interview-questions-48dc)
-- [AWS Glue | CSV to Parquet transformation | Getting started](https://dev.to/aws-builders/aws-glue-csv-to-parquet-transformation-getting-started-2j13)
-- [How to get Started with Data And Help Your Community](https://dev.to/cincybc/how-to-get-started-with-data-and-help-your-community-d67)
 <!-- BLOG-POST-LIST:END -->
 
