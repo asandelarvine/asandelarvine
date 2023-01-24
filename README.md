@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [15 More Useful React Custom Hooks For Everyone - part 2](https://dev.to/arafat4693/15-more-useful-react-custom-hooks-for-everyone-part-2-4a5j)
+- [Angular OnChanges: Building Robust Applications](https://dev.to/cagkanmert/angular-onchanges-building-robust-applications-10gj)
+- [#DEVDiscuss: Linode + DEV Hackathon](https://dev.to/devteam/devdiscuss-linode-dev-hackathon-2f85)
 - [Announcing the Linode + DEV Hackathon!](https://dev.to/devteam/announcing-the-linode-dev-hackathon-377p)
-- [Linode + DEV Hackathon Help Thread](https://dev.to/devteam/linode-dev-hackathon-help-thread-1cmo)
-- [📚 String methods in JavaScript - Part 1](https://dev.to/catherineisonline/string-methods-in-javascript-part-1-4jdg)
-- [Increase your conversion rate by over 7% with Stripe Link](https://dev.to/stripe/increase-your-conversion-rate-by-over-7-with-stripe-link-2omi)
 <!-- BLOG-POST-LIST:END -->
 
