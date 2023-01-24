@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering open source repos with Quine](https://dev.to/quine/browsing-open-source-repos-with-quine-3lhp)
-- [CSS vs SASS!](https://dev.to/darkxenium/css-vs-sass-5cln)
-- [Improving Operational Excellence using Game Days](https://dev.to/aws-builders/improving-operational-excellence-using-game-days-23cg)
-- [How to Build a React Native Video Calling App with Callkeep using Firebase and Video SDK](https://dev.to/video-sdk/react-native-video-calling-app-with-callkeep-1o73)
+- [refine vs RedwoodJS](https://dev.to/refine/refine-vs-redwoodjs-37p9)
+- [Turn CV to structured data with GPT-3 and Node.js](https://dev.to/superface/turn-cv-to-structured-data-with-gpt-3-and-nodejs-398d)
+- [Smooth Scrolling with JS](https://dev.to/shubhamtiwari909/smooth-scrolling-with-js-n56)
+- [Career Question: To Specialize or Not To Specialize?](https://dev.to/codewithvoid/career-question-to-specialize-or-not-to-specialize-dfd)
 <!-- BLOG-POST-LIST:END -->
 
