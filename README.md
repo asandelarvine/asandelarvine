@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 of the coolest developer T-shirts from devshirt.club](https://dev.to/andrewbaisden/10-of-the-coolest-developer-t-shirts-from-devshirtclub-56dk)
-- [What&#39;s new in Astro 2.0?](https://dev.to/obinnaspeaks/whats-new-in-astro-20-m42)
-- [AI revolution in eCommerce](https://dev.to/shop/ai-revolution-in-ecommerce-3871)
-- [Deliver perfect HTTP security headers with AWS CloudFront](https://dev.to/kumo/deliver-perfect-http-security-headers-with-aws-cloudfront-4din)
+- [Ace your next JavaScript Interview with these 7 Common Questions and Answers 💻](https://dev.to/naubit/ace-your-next-javascript-interview-with-these-7-common-questions-and-answers-49co)
+- [PayPal No-code Invoicing to Simplify Your Life! 😮‍💨](https://dev.to/paypaldeveloper/paypal-no-code-invoicing-to-simplify-your-life-d8m)
+- [CSS Named Colors: Groups, Palettes, Facts, &amp; Fun](https://dev.to/austingil/css-named-colors-groups-palettes-facts-fun-4h2a)
+- [TIL: ruby factory bot and models association : `after&lpar;:build&rpar;`](https://dev.to/jrking365/til-ruby-factory-bot-and-models-association-afterbuild-3i71)
 <!-- BLOG-POST-LIST:END -->
 
