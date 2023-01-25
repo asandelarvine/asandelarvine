@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Throwing Around Text – Kinetic Typography Part 4: Rotating Around the World 🎡🌍](https://dev.to/thormeier/throwing-around-text-kinetic-typography-part-4-rotating-around-the-world-5h7b)
-- [Best Websites For Coders](https://dev.to/karansanghvi/best-websites-for-coders-7ja)
-- [This Week In React #132: Astro, Remix, Server Components, useGlobalState, Next.js, Redwood, Expo Router, Expo Image...](https://dev.to/sebastienlorber/this-week-in-react-132-astro-remix-server-components-useglobalstate-nextjs-redwood-expo-router-expo-image-14mn)
-- [6 Cheat Sheets Every Developer Should Have](https://dev.to/onlydevs_/6-cheat-sheets-every-developer-should-have-285l)
+- [AI revolution in eCommerce](https://dev.to/shop/ai-revolution-in-ecommerce-3871)
+- [Deliver perfect HTTP security headers with AWS CloudFront](https://dev.to/kumo/deliver-perfect-http-security-headers-with-aws-cloudfront-4din)
+- [A nth-child CSS trick](https://dev.to/kevtiq/a-nth-child-css-trick-413c)
+- [Creating a website brand with ChatGPT, Stable Diffusion, React and NodeJS 🤯](https://dev.to/novu/creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79)
 <!-- BLOG-POST-LIST:END -->
 
