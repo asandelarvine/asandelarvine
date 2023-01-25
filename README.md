@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 cool React Animation Library.](https://dev.to/chrisspotless/5-cool-react-animation-library-2f98)
+- [Add a new Gluster node to existing cluster](https://dev.to/tohuwabohu/add-new-gluster-node-to-existing-cluster-4ko7)
+- [State management thoughts...](https://dev.to/metafoo/state-management-thoughts-kbf)
 - [How to create an awesome navigation menu using chakra-UI and framer-motion.](https://dev.to/chetanvermaa/how-to-create-an-awesome-navigation-menu-using-chakra-ui-and-framer-motion-37n)
-- [Introducing the New Workflow Dashboard: Off-the-shelf observability for GitHub Actions!](https://dev.to/ismailegilmez4/introducing-the-new-workflow-dashboard-off-the-shelf-observability-for-github-actions-3a)
-- [CSS tutorial series: CSS Positioning](https://dev.to/fullstackjo/css-tutorial-series-css-positioning-ci8)
-- [Automating Visual Testing with Playwright, Argos and GitHub Actions](https://dev.to/jsfez/automating-visual-testing-with-playwright-argos-and-github-actions-2fp1)
 <!-- BLOG-POST-LIST:END -->
 
