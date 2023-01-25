@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v210](https://dev.to/thepracticaldev/welcome-thread-v210-3co3)
+- [DynamoDB local in Docker](https://dev.to/aws-heroes/dynamodb-local-in-docker-25i)
 - [Creating an iCalendar event with HTML content](https://dev.to/worldlinetech/creating-an-icalendar-event-with-html-content-pbe)
 - [How to Get UK Global Talent Visa in 2023 - Free Webinar](https://dev.to/beetlehope/how-to-get-uk-global-talent-visa-in-2023-free-webinar-32j5)
-- [TIL: diff-so-fancy; and some funky git config](https://dev.to/drhyde/til-diff-so-fancy-and-some-funky-git-config-2a2o)
-- [Best VS Code extensions to use in 2023](https://dev.to/educative/best-vs-code-extensions-to-use-in-2023-4gld)
 <!-- BLOG-POST-LIST:END -->
 
