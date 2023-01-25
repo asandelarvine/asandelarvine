@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ace your next JavaScript Interview with these 7 Common Questions and Answers 💻](https://dev.to/naubit/ace-your-next-javascript-interview-with-these-7-common-questions-and-answers-49co)
-- [PayPal No-code Invoicing to Simplify Your Life! 😮‍💨](https://dev.to/paypaldeveloper/paypal-no-code-invoicing-to-simplify-your-life-d8m)
-- [CSS Named Colors: Groups, Palettes, Facts, &amp; Fun](https://dev.to/austingil/css-named-colors-groups-palettes-facts-fun-4h2a)
-- [TIL: ruby factory bot and models association : `after&lpar;:build&rpar;`](https://dev.to/jrking365/til-ruby-factory-bot-and-models-association-afterbuild-3i71)
+- [How to Get UK Global Talent Visa in 2023 - Free Webinar](https://dev.to/beetlehope/how-to-get-uk-global-talent-visa-in-2023-free-webinar-32j5)
+- [TIL: diff-so-fancy; and some funky git config](https://dev.to/drhyde/til-diff-so-fancy-and-some-funky-git-config-2a2o)
+- [Feedback on my portfolio - 2](https://dev.to/vulcanwm/feedback-on-my-portfolio-2-2e1a)
+- [Automating Content Creation with Python: A Guide to Building a Twitch Highlights Bot &lpar;Part 4&rpar;](https://dev.to/viniciusenari/automating-content-creation-with-python-a-guide-to-building-a-twitch-highlights-bot-part-4-26jn)
 <!-- BLOG-POST-LIST:END -->
 
