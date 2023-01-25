@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optical Illusion tutorial with the Commodore 64 and DurexForth](https://dev.to/ianwitham/optical-illusion-tutorial-with-the-commodore-64-and-durexforth-4hbm)
 - [O QUE É UM BANCO DE DADOS E QUANTO UM DEV PRECISA SABER SOBRE?](https://dev.to/wonderwanny/o-que-e-um-banco-de-dados-e-quanto-um-dev-precisa-saber-sobre-51jo)
 - [Avoiding code duplication in styled components](https://dev.to/aligumustosun/avoiding-code-duplication-in-styled-components-5a7j)
 - [Multi-step form ReactJS](https://dev.to/jucian0/multi-step-form-reactjs-6cn)
-- [The Best 5 Side Hustles for Software Developers](https://dev.to/rickblyth/the-best-5-side-hustles-for-software-developers-2f1l)
 <!-- BLOG-POST-LIST:END -->
 
