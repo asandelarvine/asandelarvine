@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing Reusable Code](https://dev.to/blst-security/best-practices-for-writing-reusable-code-19il)
-- [5 cool React Animation Library.](https://dev.to/chrisspotless/5-cool-react-animation-library-2f98)
-- [Add a new Gluster node to existing cluster](https://dev.to/tohuwabohu/add-new-gluster-node-to-existing-cluster-4ko7)
-- [State management thoughts...](https://dev.to/metafoo/state-management-thoughts-kbf)
+- [Theoretical Aspects of API](https://dev.to/suman373_30/theoretical-aspects-of-api-2l70)
+- [How to Build Travel Website From Scratch Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-travel-website-from-scratch-using-html-css-javascript-4ba5)
+- [Frontend Components you should know](https://dev.to/shubhamtiwari909/website-components-you-should-know-25nm)
+- [What is the difference between a programming language and a framework? 🤔](https://dev.to/ipaneandev/what-is-the-difference-between-a-programming-language-and-a-framework-2kbo)
 <!-- BLOG-POST-LIST:END -->
 
