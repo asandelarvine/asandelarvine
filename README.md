@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Make Date Range Filter in React JS](https://dev.to/reactjsguru/how-to-make-date-range-filter-in-react-js-5h4p)
 - [The useState Hook: A Deep Dive into React State Management](https://dev.to/mr_walkr/the-usestate-hook-a-deep-dive-into-react-state-management-2e9m)
 - [Predicting Medical Costs using Multivariate Linear Regression in Python](https://dev.to/anurag629/predicting-medical-costs-using-multivariate-linear-regression-in-python-440l)
 - [4 simple ways for developers to earn an extra $500 per month](https://dev.to/rahul3002/4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7)
-- [Optical Illusion tutorial with the Commodore 64 and DurexForth](https://dev.to/ianwitham/optical-illusion-tutorial-with-the-commodore-64-and-durexforth-4hbm)
 <!-- BLOG-POST-LIST:END -->
 
