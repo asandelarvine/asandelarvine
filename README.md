@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How web developers can assist in boosting your website&#39;s organic traffic and ranking](https://dev.to/wpseobuzz/how-web-developers-can-assist-in-boosting-your-websites-organic-traffic-and-ranking-1df4)
+- [How do you manage technical debt in your team?](https://dev.to/ismaestro/how-do-you-manage-technical-debt-in-your-team-4n0j)
+- [Six Words -- A Unique Fullstack Application](https://dev.to/stcollier/six-words-a-unique-fullstack-application-53lm)
 - [Welcome Thread - v210](https://dev.to/thepracticaldev/welcome-thread-v210-3co3)
-- [DynamoDB local in Docker](https://dev.to/aws-heroes/dynamodb-local-in-docker-25i)
-- [Creating an iCalendar event with HTML content](https://dev.to/worldlinetech/creating-an-icalendar-event-with-html-content-pbe)
-- [How to Get UK Global Talent Visa in 2023 - Free Webinar](https://dev.to/beetlehope/how-to-get-uk-global-talent-visa-in-2023-free-webinar-32j5)
 <!-- BLOG-POST-LIST:END -->
 
