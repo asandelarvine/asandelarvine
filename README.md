@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Writing Reusable Code](https://dev.to/blst-security/best-practices-for-writing-reusable-code-19il)
 - [5 cool React Animation Library.](https://dev.to/chrisspotless/5-cool-react-animation-library-2f98)
 - [Add a new Gluster node to existing cluster](https://dev.to/tohuwabohu/add-new-gluster-node-to-existing-cluster-4ko7)
 - [State management thoughts...](https://dev.to/metafoo/state-management-thoughts-kbf)
-- [Deploy Conduktor &amp; a MSK Cluster in 3 commands](https://dev.to/aws-builders/deploy-conduktor-a-msk-cluster-in-3-commands-2fhl)
 <!-- BLOG-POST-LIST:END -->
 
