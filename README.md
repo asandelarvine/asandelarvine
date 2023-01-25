@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 of the coolest developer T-shirts from devshirt.club](https://dev.to/andrewbaisden/10-of-the-coolest-developer-t-shirts-from-devshirtclub-56dk)
+- [What&#39;s new in Astro 2.0?](https://dev.to/obinnaspeaks/whats-new-in-astro-20-m42)
 - [AI revolution in eCommerce](https://dev.to/shop/ai-revolution-in-ecommerce-3871)
 - [Deliver perfect HTTP security headers with AWS CloudFront](https://dev.to/kumo/deliver-perfect-http-security-headers-with-aws-cloudfront-4din)
-- [A nth-child CSS trick](https://dev.to/kevtiq/a-nth-child-css-trick-413c)
-- [Creating a website brand with ChatGPT, Stable Diffusion, React and NodeJS 🤯](https://dev.to/novu/creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79)
 <!-- BLOG-POST-LIST:END -->
 
