@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to create an awesome navigation menu using chakra-UI and framer-motion.](https://dev.to/chetanvermaa/how-to-create-an-awesome-navigation-menu-using-chakra-ui-and-framer-motion-37n)
 - [Introducing the New Workflow Dashboard: Off-the-shelf observability for GitHub Actions!](https://dev.to/ismailegilmez4/introducing-the-new-workflow-dashboard-off-the-shelf-observability-for-github-actions-3a)
 - [CSS tutorial series: CSS Positioning](https://dev.to/fullstackjo/css-tutorial-series-css-positioning-ci8)
-- [NodeJS with Kafka: Build Async Programs with ease](https://dev.to/lovepreetsingh/nodejs-with-kafka-build-async-programs-with-ease-11n3)
+- [Automating Visual Testing with Playwright, Argos and GitHub Actions](https://dev.to/jsfez/automating-visual-testing-with-playwright-argos-and-github-actions-2fp1)
 <!-- BLOG-POST-LIST:END -->
 
