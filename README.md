@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 More Useful React Custom Hooks For Everyone - part 2](https://dev.to/arafat4693/15-more-useful-react-custom-hooks-for-everyone-part-2-4a5j)
-- [Angular OnChanges: Building Robust Applications](https://dev.to/cagkanmert/angular-onchanges-building-robust-applications-10gj)
-- [#DEVDiscuss: Linode + DEV Hackathon](https://dev.to/devteam/devdiscuss-linode-dev-hackathon-2f85)
-- [How to create strong LinkedIn profile: step by step guide &lpar;2/2&rpar;](https://dev.to/balazsrefi/how-to-create-strong-linkedin-profile-step-by-step-guide-22-493o)
+- [Avoiding code duplication in styled components](https://dev.to/aligumustosun/avoiding-code-duplication-in-styled-components-5a7j)
+- [Multi-step form ReactJS](https://dev.to/jucian0/multi-step-form-reactjs-6cn)
+- [The Best 5 Side Hustles for Software Developers](https://dev.to/rickblyth/the-best-5-side-hustles-for-software-developers-2f1l)
+- [Are you asking too much from your team/tech lead?](https://dev.to/danlebrero/are-you-asking-too-much-from-your-teamtech-lead-42db)
 <!-- BLOG-POST-LIST:END -->
 
