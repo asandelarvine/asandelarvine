@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an iCalendar event with HTML content](https://dev.to/worldlinetech/creating-an-icalendar-event-with-html-content-pbe)
 - [How to Get UK Global Talent Visa in 2023 - Free Webinar](https://dev.to/beetlehope/how-to-get-uk-global-talent-visa-in-2023-free-webinar-32j5)
 - [TIL: diff-so-fancy; and some funky git config](https://dev.to/drhyde/til-diff-so-fancy-and-some-funky-git-config-2a2o)
-- [Feedback on my portfolio - 2](https://dev.to/vulcanwm/feedback-on-my-portfolio-2-2e1a)
-- [Automating Content Creation with Python: A Guide to Building a Twitch Highlights Bot &lpar;Part 4&rpar;](https://dev.to/viniciusenari/automating-content-creation-with-python-a-guide-to-building-a-twitch-highlights-bot-part-4-26jn)
+- [Best VS Code extensions to use in 2023](https://dev.to/educative/best-vs-code-extensions-to-use-in-2023-4gld)
 <!-- BLOG-POST-LIST:END -->
 
