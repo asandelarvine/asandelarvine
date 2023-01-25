@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create,Connect,Configure Postgres on AWS Successfully with Python](https://dev.to/aws-builders/createconnectconfigure-postgres-on-aws-successfully-with-python-km)
-- [How To Make Date Range Filter in React JS](https://dev.to/reactjsguru/how-to-make-date-range-filter-in-react-js-5h4p)
-- [The useState Hook: A Deep Dive into React State Management](https://dev.to/mr_walkr/the-usestate-hook-a-deep-dive-into-react-state-management-2e9m)
-- [Predicting Medical Costs using Multivariate Linear Regression in Python](https://dev.to/anurag629/predicting-medical-costs-using-multivariate-linear-regression-in-python-440l)
+- [How to create an awesome navigation menu using chakra-UI and framer-motion.](https://dev.to/chetanvermaa/how-to-create-an-awesome-navigation-menu-using-chakra-ui-and-framer-motion-37n)
+- [Introducing the New Workflow Dashboard: Off-the-shelf observability for GitHub Actions!](https://dev.to/ismailegilmez4/introducing-the-new-workflow-dashboard-off-the-shelf-observability-for-github-actions-3a)
+- [CSS tutorial series: CSS Positioning](https://dev.to/fullstackjo/css-tutorial-series-css-positioning-ci8)
+- [NodeJS with Kafka: Build Async Programs with ease](https://dev.to/lovepreetsingh/nodejs-with-kafka-build-async-programs-with-ease-11n3)
 <!-- BLOG-POST-LIST:END -->
 
