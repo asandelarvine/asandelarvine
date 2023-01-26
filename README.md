@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bias vs Variance: The Key to Successful Predictive Modeling](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp)
+- [Make a Final Term Calculator](https://dev.to/hyunseunglee2008/make-a-final-term-calculator-3k06)
 - [Supabase &amp; Metamask Signed Authentication &lpar;Web3&rpar;](https://dev.to/59023g/supabase-metamask-signed-authentication-web3-53e1)
 - [Authentication in Next.js with Supabase and Next 13](https://dev.to/mryechkin/authentication-in-nextjs-with-supabase-and-next-13-36le)
-- [Always Busy Running Your Business? 3 Steps From ”The 4-Hour Work Week” to Free Up Time and Achieve Your Dream Lifestyle.](https://dev.to/kaykleinvogel/always-busy-running-your-business-3-steps-from-the-4-hour-work-week-to-free-up-time-and-achieve-your-dream-lifestyle-2pab)
-- [Default image load, while error happen at image loading time](https://dev.to/taiseen/default-image-load-while-error-happen-at-image-loading-time-2h0a)
 <!-- BLOG-POST-LIST:END -->
 
