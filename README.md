@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &amp; Metamask Signed Authentication &lpar;Web3&rpar;](https://dev.to/59023g/supabase-metamask-signed-authentication-web3-53e1)
 - [Always Busy Running Your Business? 3 Steps From ”The 4-Hour Work Week” to Free Up Time and Achieve Your Dream Lifestyle.](https://dev.to/kaykleinvogel/always-busy-running-your-business-3-steps-from-the-4-hour-work-week-to-free-up-time-and-achieve-your-dream-lifestyle-2pab)
 - [Default image load, while error happen at image loading time](https://dev.to/taiseen/default-image-load-while-error-happen-at-image-loading-time-2h0a)
 - [Six Words -- A Unique Fullstack Application](https://dev.to/stcollier/six-words-a-unique-fullstack-application-53lm)
-- [Welcome Thread - v210](https://dev.to/thepracticaldev/welcome-thread-v210-3co3)
 <!-- BLOG-POST-LIST:END -->
 
