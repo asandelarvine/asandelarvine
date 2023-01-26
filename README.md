@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Materialized Views? A 5-Minute Introduction](https://dev.to/educative/what-are-materialized-views-a-5-minute-introduction-11nk)
+- [Golang vs Rust: Which should you use for your next project?](https://dev.to/ghoulkingr/golang-vs-rust-which-should-you-use-for-your-next-project-4c2p)
+- [The Happenings with TexCreate v3](https://dev.to/mustafif/the-happenings-with-texcreate-v3-3d9j)
 - [pyaction 4.15.0 Released](https://dev.to/cicirello/pyaction-4150-released-205p)
-- [Haskell for Elm developers: giving names to stuff &lpar;Part 1 - Functors&rpar;](https://dev.to/flaviocorpa/haskell-for-elm-developers-giving-names-to-stuff-part-1-functors-36n3)
-- [Programming mathematical objects](https://dev.to/miguelmj/programming-mathematical-objects-1n3n)
-- [A guide to visual debugging with Vitest Preview](https://dev.to/logrocket/a-guide-to-visual-debugging-with-vitest-preview-24of)
 <!-- BLOG-POST-LIST:END -->
 
