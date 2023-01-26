@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Key Management in Database Encryption](https://dev.to/vaultree/the-role-of-key-management-in-database-encryption-2jhb)
-- [How to Set Up a Proxy Server in React | Dealing with CORS](https://dev.to/codeofrelevancy/how-to-set-up-a-proxy-server-in-react-dealing-with-cors-87e)
-- [Real-time stream processing with Hazelcast and Pulsar](https://dev.to/tspannhw/real-time-stream-processing-with-hazelcast-and-pulsar-5b6a)
-- [Understanding Buttons and Links from Zero](https://dev.to/ekqt/understanding-buttons-and-links-from-zero-4hii)
+- [React Portals: A Beginner&#39;s Guide to Mastering the Art of Dynamic Components](https://dev.to/abhaysinghr1/react-portals-a-beginners-guide-to-mastering-the-art-of-dynamic-components-6nj)
+- [Configuring the KubernetesPodOperator on Managed Workflows for Apache Airflow &lpar;MWAA&rpar; - non OIDC Amazon EKS Clusters](https://dev.to/aws/configuring-the-kubernetespodoperator-on-managed-workflows-for-apache-airflow-mwaa-non-oidc-amazon-eks-clusters-1hbg)
+- [Flaky Tests, and How to Deal with Them](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
+- [Create Your Own tRPC Stack!](https://dev.to/nx/create-your-own-trpc-stack-3lg7)
 <!-- BLOG-POST-LIST:END -->
 
