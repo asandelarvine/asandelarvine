@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflection on Visitor Pattern in Typescript](https://dev.to/zenstack/reflection-on-visitor-pattern-in-typescript-4gjd)
 - [A step-by-step roadmap to mastering Javascript 🔥](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
+- [Memory Implications of static vs non-static. Comparing pass by reference &amp; value.](https://dev.to/wrlpeake/memory-implications-of-static-vs-non-static-comparing-pass-by-reference-value-57pd)
 - [Essential Design Patterns in Java](https://dev.to/cliffsilla/essential-design-patterns-in-java-2pgd)
-- [Intro to Matplotlib in Python, Part1-plot&lpar;&rpar;.](https://dev.to/jindalkeshav82/intro-to-matplotlib-in-python-part1-plot-44n1)
-- [Test for dynamically created elements like time and token with jest&lpar;spys&rpar;](https://dev.to/csituma/test-for-dynamically-created-elements-like-time-and-token-with-jestspys-5a2b)
 <!-- BLOG-POST-LIST:END -->
 
