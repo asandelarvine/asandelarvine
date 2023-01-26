@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [pyaction 4.15.0 Released](https://dev.to/cicirello/pyaction-4150-released-205p)
 - [Haskell for Elm developers: giving names to stuff &lpar;Part 1 - Functors&rpar;](https://dev.to/flaviocorpa/haskell-for-elm-developers-giving-names-to-stuff-part-1-functors-36n3)
 - [Programming mathematical objects](https://dev.to/miguelmj/programming-mathematical-objects-1n3n)
-- [Protegendo sua API NodeJs contra ReDos Attack[Parte 1]](https://dev.to/r9n/protegendo-sua-api-nodejs-contra-redos-attackparte-1-16mc)
+- [A guide to visual debugging with Vitest Preview](https://dev.to/logrocket/a-guide-to-visual-debugging-with-vitest-preview-24of)
 <!-- BLOG-POST-LIST:END -->
 
