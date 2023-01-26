@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite System Design and Software Architecture Books for Experienced Developers](https://dev.to/javinpaul/my-favorite-system-design-and-software-architecture-books-for-experienced-developers-2ced)
+- [Difference between functions and methods in JavaScript](https://dev.to/catherineisonline/difference-between-functions-and-methods-in-javascript-14np)
 - [Bias vs Variance: The Key to Successful Predictive Modeling](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp)
 - [Make a Final Term Calculator](https://dev.to/hyunseunglee2008/make-a-final-term-calculator-3k06)
-- [Supabase &amp; Metamask Signed Authentication &lpar;Web3&rpar;](https://dev.to/59023g/supabase-metamask-signed-authentication-web3-53e1)
-- [Authentication in Next.js with Supabase and Next 13](https://dev.to/mryechkin/authentication-in-nextjs-with-supabase-and-next-13-36le)
 <!-- BLOG-POST-LIST:END -->
 
