@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar; &#39;scrollend&#39; &rpar; A New JS Event](https://dev.to/murtazajooo/scrollend-a-new-js-event-10ac)
-- [The quest for REST](https://dev.to/nfrankel/the-quest-for-rest-192i)
-- [Playwright - Mock API](https://dev.to/this-is-learning/playwright-mock-api-5em4)
-- [[TECH] Attack Methods for Anti-tamper mechanisms and its protections](https://dev.to/teamliapp/tech-attack-methods-for-anti-tamper-mechanisms-and-its-protections-5hd8)
+- [A step-by-step roadmap to mastering Javascript 🔥](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
+- [Essential Design Patterns in Java](https://dev.to/cliffsilla/essential-design-patterns-in-java-2pgd)
+- [Intro to Matplotlib in Python, Part1-plot&lpar;&rpar;.](https://dev.to/jindalkeshav82/intro-to-matplotlib-in-python-part1-plot-44n1)
+- [Test for dynamically created elements like time and token with jest&lpar;spys&rpar;](https://dev.to/csituma/test-for-dynamically-created-elements-like-time-and-token-with-jestspys-5a2b)
 <!-- BLOG-POST-LIST:END -->
 
