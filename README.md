@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [pyaction 4.15.0 Released](https://dev.to/cicirello/pyaction-4150-released-205p)
+- [Haskell for Elm developers: giving names to stuff &lpar;Part 1 - Functors&rpar;](https://dev.to/flaviocorpa/haskell-for-elm-developers-giving-names-to-stuff-part-1-functors-36n3)
+- [Programming mathematical objects](https://dev.to/miguelmj/programming-mathematical-objects-1n3n)
 - [Protegendo sua API NodeJs contra ReDos Attack[Parte 1]](https://dev.to/r9n/protegendo-sua-api-nodejs-contra-redos-attackparte-1-16mc)
-- [Sorting Algorithm](https://dev.to/jonnynotbravo/sorting-algorithm-6dj)
-- [É possível a organização de trabalhadores da bolha de TI brasileira?](https://dev.to/lixeletto/e-possivel-a-organizacao-de-trabalhadores-da-bolha-de-ti-brasileira-3ikp)
-- [Deploying ML models straight from Jupyter Notebooks](https://dev.to/aguschin/deploying-ml-models-straight-from-jupyter-notebooks-12bh)
 <!-- BLOG-POST-LIST:END -->
 
