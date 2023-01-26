@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing a Git-Like Flow in Ecommerce APIs](https://dev.to/medusajs/designing-a-git-like-flow-in-ecommerce-apis-2ade)
+- [I&#39;m building an open-source VSCode chatbot extension with OpenAI / GPT3 in public](https://dev.to/lgrammel/im-building-an-open-source-vscodechatbot-extension-withopenai-gpt3-in-public-2f5b)
 - [Reflection on Visitor Pattern in Typescript](https://dev.to/zenstack/reflection-on-visitor-pattern-in-typescript-4gjd)
-- [A step-by-step roadmap to mastering Javascript 🔥](https://dev.to/rammcodes/a-step-by-step-roadmap-to-mastering-javascript-3mcf)
-- [Memory Implications of static vs non-static. Comparing pass by reference &amp; value.](https://dev.to/wrlpeake/memory-implications-of-static-vs-non-static-comparing-pass-by-reference-value-57pd)
-- [Essential Design Patterns in Java](https://dev.to/cliffsilla/essential-design-patterns-in-java-2pgd)
+- [Leveraging @angular 15 host directives](https://dev.to/valorsoftware/leveraging-angular-15-host-directives-52en)
 <!-- BLOG-POST-LIST:END -->
 
