@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Whats Medusa an introduction part 1](https://dev.to/nfuhs/whats-medusa-an-introduction-part-1-3753)
-- [Designing a Git-Like Flow in Ecommerce APIs](https://dev.to/medusajs/designing-a-git-like-flow-in-ecommerce-apis-2ade)
-- [I&#39;m building an open-source VSCode chatbot extension with OpenAI / GPT3 in public](https://dev.to/lgrammel/im-building-an-open-source-vscodechatbot-extension-withopenai-gpt3-in-public-2f5b)
-- [AI Assisted Software Development](https://dev.to/stacon/ai-assisted-software-development-48gp)
+- [How to Set Up a Proxy Server in React | Dealing with CORS](https://dev.to/codeofrelevancy/how-to-set-up-a-proxy-server-in-react-dealing-with-cors-87e)
+- [Real-time stream processing with Hazelcast and Pulsar](https://dev.to/tspannhw/real-time-stream-processing-with-hazelcast-and-pulsar-5b6a)
+- [Easy Smart Contract Debugging with Truffle&#39;s Console.log](https://dev.to/mbogan/easy-smart-contract-debugging-with-truffles-consolelog-3l1b)
+- [A Chrome Extension For Easing Your Writing At Dev Platform.](https://dev.to/apoorvtomar/a-chrome-extension-for-easing-your-writing-at-dev-platform-1fii)
 <!-- BLOG-POST-LIST:END -->
 
