@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Portals: A Beginner&#39;s Guide to Mastering the Art of Dynamic Components](https://dev.to/abhaysinghr1/react-portals-a-beginners-guide-to-mastering-the-art-of-dynamic-components-6nj)
-- [Configuring the KubernetesPodOperator on Managed Workflows for Apache Airflow &lpar;MWAA&rpar; - non OIDC Amazon EKS Clusters](https://dev.to/aws/configuring-the-kubernetespodoperator-on-managed-workflows-for-apache-airflow-mwaa-non-oidc-amazon-eks-clusters-1hbg)
-- [Flaky Tests, and How to Deal with Them](https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2)
-- [Create Your Own tRPC Stack!](https://dev.to/nx/create-your-own-trpc-stack-3lg7)
+- [Protegendo sua API NodeJs contra ReDos Attack[Parte 1]](https://dev.to/r9n/protegendo-sua-api-nodejs-contra-redos-attackparte-1-16mc)
+- [Sorting Algorithm](https://dev.to/jonnynotbravo/sorting-algorithm-6dj)
+- [É possível a organização de trabalhadores da bolha de TI brasileira?](https://dev.to/lixeletto/e-possivel-a-organizacao-de-trabalhadores-da-bolha-de-ti-brasileira-3ikp)
+- [Deploying ML models straight from Jupyter Notebooks](https://dev.to/aguschin/deploying-ml-models-straight-from-jupyter-notebooks-12bh)
 <!-- BLOG-POST-LIST:END -->
 
