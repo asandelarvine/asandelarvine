@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Whats Medusa an introduction part 1](https://dev.to/nfuhs/whats-medusa-an-introduction-part-1-3753)
 - [Designing a Git-Like Flow in Ecommerce APIs](https://dev.to/medusajs/designing-a-git-like-flow-in-ecommerce-apis-2ade)
 - [I&#39;m building an open-source VSCode chatbot extension with OpenAI / GPT3 in public](https://dev.to/lgrammel/im-building-an-open-source-vscodechatbot-extension-withopenai-gpt3-in-public-2f5b)
-- [Reflection on Visitor Pattern in Typescript](https://dev.to/zenstack/reflection-on-visitor-pattern-in-typescript-4gjd)
-- [Leveraging @angular 15 host directives](https://dev.to/valorsoftware/leveraging-angular-15-host-directives-52en)
+- [AI Assisted Software Development](https://dev.to/stacon/ai-assisted-software-development-48gp)
 <!-- BLOG-POST-LIST:END -->
 
