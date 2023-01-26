@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ReductStore v1.3.0 Released!](https://dev.to/reductstore/reductstore-v130-released-2adg)
 - [My Journey Through the AWS Blog: Lessons Learned and Random Statistics](https://dev.to/aws-heroes/my-journey-through-the-aws-blog-lessons-learned-and-random-statistics-31o2)
 - [What are Materialized Views? A 5-Minute Introduction](https://dev.to/educative/what-are-materialized-views-a-5-minute-introduction-11nk)
 - [Golang vs Rust: Which should you use for your next project?](https://dev.to/ghoulkingr/golang-vs-rust-which-should-you-use-for-your-next-project-4c2p)
-- [Become a Code Ninja with CodeGPT VSCode Extension](https://dev.to/aws-heroes/become-a-code-ninja-with-codegpt-vscode-extension-4bdl)
 <!-- BLOG-POST-LIST:END -->
 
