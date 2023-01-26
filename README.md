@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Role of Key Management in Database Encryption](https://dev.to/vaultree/the-role-of-key-management-in-database-encryption-2jhb)
 - [How to Set Up a Proxy Server in React | Dealing with CORS](https://dev.to/codeofrelevancy/how-to-set-up-a-proxy-server-in-react-dealing-with-cors-87e)
 - [Real-time stream processing with Hazelcast and Pulsar](https://dev.to/tspannhw/real-time-stream-processing-with-hazelcast-and-pulsar-5b6a)
-- [Easy Smart Contract Debugging with Truffle&#39;s Console.log](https://dev.to/mbogan/easy-smart-contract-debugging-with-truffles-consolelog-3l1b)
-- [A Chrome Extension For Easing Your Writing At Dev Platform.](https://dev.to/apoorvtomar/a-chrome-extension-for-easing-your-writing-at-dev-platform-1fii)
+- [Understanding Buttons and Links from Zero](https://dev.to/ekqt/understanding-buttons-and-links-from-zero-4hii)
 <!-- BLOG-POST-LIST:END -->
 
