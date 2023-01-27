@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Filtering Data with Infinite Table for React](https://dev.to/radubrehar/filtering-data-with-infinite-table-for-react-3bce)
+- [I&#39;ve created a CRUD server with docker, fastify and mongoDB](https://dev.to/sensorario/ive-created-a-crud-server-with-docker-fastify-and-mongodb-5bmh)
 - [5 Websites to help you learn Frontend Web Development Faster](https://dev.to/onlydevs_/5-websites-to-help-you-learn-frontend-web-development-faster-1ici)
 - [Dockyard Academy. Passing the baton.](https://dev.to/bigspaces/dockyard-academy-passing-the-baton-6p)
-- [Integrating Newman with Jenkins](https://dev.to/ranafge/integrating-newman-with-jenkins-1368)
-- [Performance Regression Testing for React Native](https://dev.to/vladimirnovick/performance-regression-testing-for-react-native-4pj5)
 <!-- BLOG-POST-LIST:END -->
 
