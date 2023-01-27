@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How working/install Pig with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-pig-with-notebooks-54km)
 - [Never get overcharged by AWS again](https://dev.to/mcgurkadam/never-get-overcharged-by-aws-again-1hmd)
 - [JavaScript tip to efficiently search in long arrays and save performance](https://dev.to/rem0nfawzi/javascript-tip-to-efficiently-search-in-long-arrays-and-save-performance-1914)
-- [Connecting Your Devs&#39; Work to the Business | A Conversation w/ Shopify, Slack &amp; Stripe](https://dev.to/linearb/connecting-your-devs-work-to-the-business-a-conversation-w-shopify-slack-stripe-5cak)
+- [speak english IMEDIATAMENTE](https://dev.to/felixoakz/speak-english-imediatamente-4911)
 <!-- BLOG-POST-LIST:END -->
 
