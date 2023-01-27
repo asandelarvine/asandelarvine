@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover new developer communities &lpar;Discord, Slack, etc.&rpar;](https://dev.to/romaixn/discover-new-developer-communities-discord-slack-etc-i9i)
-- [NestJS Authentication with OAuth2.0: Fastify Local OAuth](https://dev.to/tugascript/nestjs-authentication-with-oauth20-fastify-local-oauth-5gn9)
-- [Is this a scam or legit?](https://dev.to/hyunseunglee2008/is-this-a-scam-or-legit-479h)
-- [WASM+Docker Hello World](https://dev.to/docker/wasmdocker-hello-world-20jh)
+- [Your Open Source Project needs CodeSandbox - Here’s why](https://dev.to/codesandboxio/your-open-source-project-needs-codesandbox-heres-why-1cn1)
+- [What is a Serverless Architecture?](https://dev.to/elviskim18/what-is-a-serverless-architecture-ci6)
+- [SEO Cheat Sheet for Devs](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
+- [Aurora Serverless v1 to Serverless v2 - comparison, migration and blue/green deployment](https://dev.to/aws-builders/aurora-serverless-v1-to-serverless-v2-comparison-migration-and-bluegreen-deployment-4aa8)
 <!-- BLOG-POST-LIST:END -->
 
