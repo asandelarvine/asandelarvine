@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GKE Security: Top 10 Strategies for Securing Your Cluster](https://dev.to/castai/gke-security-top-10-strategies-for-securing-your-cluster-1p66)
 - [The 10 Signs That You Need To Hire A Web Developer](https://dev.to/quokkalabs/the-10-signs-that-you-need-to-hire-a-web-developer-54cc)
 - [Podman 4.3 on Artix Linux: インストール](https://dev.to/nabbisen/podman-43-on-artix-linux-insutoru-noa)
 - [20 Killer JavaScript One-Liners That’ll Save You Hours of Coding 🤯🔥](https://dev.to/rammcodes/20-killer-javascript-one-liners-thatll-save-you-hours-of-coding-o14)
-- [Evaluation Metrics for Classification and Regression: A Comprehensive Guide](https://dev.to/anurag629/evaluation-metrics-for-classification-and-regression-a-comprehensive-guide-47hb)
 <!-- BLOG-POST-LIST:END -->
 
