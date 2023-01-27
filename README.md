@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into WebSockets](https://dev.to/pankhudib/deep-dive-into-websockets-34ko)
 - [Will ChatGPT replace Developer&#39;s Job?](https://dev.to/dhruvjoshi9/will-chatgpt-replace-developers-job-37j2)
 - [3 Free ways to earn loads of money online💸](https://dev.to/albertyao/3-free-ways-to-earn-loads-of-money-online-529g)
 - [Git Commit Patterns](https://dev.to/jasonh33/git-commit-patterns-5dm7)
-- [How to reduce the cost of GitHub Actions](https://dev.to/zhangjintao/how-to-reduce-the-cost-of-github-actions-2en5)
 <!-- BLOG-POST-LIST:END -->
 
