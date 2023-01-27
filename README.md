@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Your Open Source Project needs CodeSandbox - Here’s why](https://dev.to/codesandboxio/your-open-source-project-needs-codesandbox-heres-why-1cn1)
 - [What is a Serverless Architecture?](https://dev.to/elviskim18/what-is-a-serverless-architecture-ci6)
 - [SEO Cheat Sheet for Devs](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
-- [Aurora Serverless v1 to Serverless v2 - comparison, migration and blue/green deployment](https://dev.to/aws-builders/aurora-serverless-v1-to-serverless-v2-comparison-migration-and-bluegreen-deployment-4aa8)
+- [Localization state survey 2022](https://dev.to/localizely/localization-state-survey-2022-h2i)
 <!-- BLOG-POST-LIST:END -->
 
