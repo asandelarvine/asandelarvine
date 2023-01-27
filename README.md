@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReductStore v1.3.0 Released!](https://dev.to/reductstore/reductstore-v130-released-2adg)
-- [My Journey Through the AWS Blog: Lessons Learned and Random Statistics](https://dev.to/aws-heroes/my-journey-through-the-aws-blog-lessons-learned-and-random-statistics-31o2)
-- [Universally Bad Programming Practises &lpar;and their alternatives&rpar; pt.1](https://dev.to/thanasismpalatsoukas/universally-bad-programming-practises-and-their-alternatives-pt1-5ck7)
-- [What are Materialized Views? A 5-Minute Introduction](https://dev.to/educative/what-are-materialized-views-a-5-minute-introduction-11nk)
+- [How working/install Pig with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-pig-with-notebooks-54km)
+- [Never get overcharged by AWS again](https://dev.to/mcgurkadam/never-get-overcharged-by-aws-again-1hmd)
+- [JavaScript tip to efficiently search in long arrays and save performance](https://dev.to/rem0nfawzi/javascript-tip-to-efficiently-search-in-long-arrays-and-save-performance-1914)
+- [Connecting Your Devs&#39; Work to the Business | A Conversation w/ Shopify, Slack &amp; Stripe](https://dev.to/linearb/connecting-your-devs-work-to-the-business-a-conversation-w-shopify-slack-stripe-5cak)
 <!-- BLOG-POST-LIST:END -->
 
