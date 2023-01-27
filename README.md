@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-f70)
+- [.NET MAUI Blazor - Best practices for mobile UI](https://dev.to/mhrastegari/net-maui-blazor-best-practices-for-mobile-ui-4def)
 - [Google Cloud is finally adopting what Linux distros have been doing for years](https://dev.to/linearb/google-cloud-is-finally-adopting-what-linux-distros-have-been-doing-for-years-5189)
-- [How to learn Responsive Web Design](https://dev.to/orange_abstrakt/how-to-learn-responsive-web-design-5g9c)
-- [Top Developer Communities to Join in 2023](https://dev.to/saracleghorn2/top-developer-communities-to-join-in-2023-267l)
-- [Understanding open source communities with Quine](https://dev.to/quine/understanding-open-source-communities-with-quine-3012)
+- [Angular 15: what happened to environment.ts](https://dev.to/this-is-angular/angular-15-what-happened-to-environmentts-koh)
 <!-- BLOG-POST-LIST:END -->
 
