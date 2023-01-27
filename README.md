@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Will ChatGPT replace Developer&#39;s Job?](https://dev.to/dhruvjoshi9/will-chatgpt-replace-developers-job-37j2)
+- [3 Free ways to earn loads of money online💸](https://dev.to/albertyao/3-free-ways-to-earn-loads-of-money-online-529g)
 - [Git Commit Patterns](https://dev.to/jasonh33/git-commit-patterns-5dm7)
 - [How to reduce the cost of GitHub Actions](https://dev.to/zhangjintao/how-to-reduce-the-cost-of-github-actions-2en5)
-- [How working/install Pig with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-pig-with-notebooks-54km)
 <!-- BLOG-POST-LIST:END -->
 
