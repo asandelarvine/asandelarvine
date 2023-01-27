@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Will ChatGPT replace Developer&#39;s Job?](https://dev.to/dhruvjoshi9/will-chatgpt-replace-developers-job-37j2)
 - [Git Commit Patterns](https://dev.to/jasonh33/git-commit-patterns-5dm7)
 - [How to reduce the cost of GitHub Actions](https://dev.to/zhangjintao/how-to-reduce-the-cost-of-github-actions-2en5)
 - [How working/install Pig with Notebooks?](https://dev.to/xlmriosx/how-workinginstall-pig-with-notebooks-54km)
-- [Never get overcharged by AWS again](https://dev.to/mcgurkadam/never-get-overcharged-by-aws-again-1hmd)
 <!-- BLOG-POST-LIST:END -->
 
