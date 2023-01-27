@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover new developer communities &lpar;Discord, Slack, etc.&rpar;](https://dev.to/romaixn/discover-new-developer-communities-discord-slack-etc-i9i)
 - [NestJS Authentication with OAuth2.0: Fastify Local OAuth](https://dev.to/tugascript/nestjs-authentication-with-oauth20-fastify-local-oauth-5gn9)
 - [Is this a scam or legit?](https://dev.to/hyunseunglee2008/is-this-a-scam-or-legit-479h)
 - [WASM+Docker Hello World](https://dev.to/docker/wasmdocker-hello-world-20jh)
-- [FTP No More: Deploying WordPress sites with GitHub Actions](https://dev.to/felipeelia/ftp-no-more-deploying-wordpress-sites-with-github-actions-11c6)
 <!-- BLOG-POST-LIST:END -->
 
