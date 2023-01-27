@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud is finally adopting what Linux distros have been doing for years](https://dev.to/linearb/google-cloud-is-finally-adopting-what-linux-distros-have-been-doing-for-years-5189)
+- [How to learn Responsive Web Design](https://dev.to/orange_abstrakt/how-to-learn-responsive-web-design-5g9c)
 - [Top Developer Communities to Join in 2023](https://dev.to/saracleghorn2/top-developer-communities-to-join-in-2023-267l)
 - [Understanding open source communities with Quine](https://dev.to/quine/understanding-open-source-communities-with-quine-3012)
-- [Appwrite OSS Fund Sponsors Mock Service Worker](https://dev.to/appwrite/appwrite-oss-fund-sponsors-mock-service-worker-4m5g)
-- [Your Open Source Project needs CodeSandbox - Here’s why](https://dev.to/codesandboxio/your-open-source-project-needs-codesandbox-heres-why-1cn1)
 <!-- BLOG-POST-LIST:END -->
 
