@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Podman 4.3 on Artix Linux: Fix initialization issues](https://dev.to/nabbisen/podman-43-on-artix-linux-fix-initialization-issues-54la)
 - [Deep dive into WebSockets](https://dev.to/pankhudib/deep-dive-into-websockets-34ko)
+- [Podman 4.3 on Artix Linux: Install](https://dev.to/nabbisen/podman-43-on-artix-linux-install-2f8d)
 - [Will ChatGPT replace Developer&#39;s Job?](https://dev.to/dhruvjoshi9/will-chatgpt-replace-developers-job-37j2)
-- [3 Free ways to earn loads of money online💸](https://dev.to/albertyao/3-free-ways-to-earn-loads-of-money-online-529g)
-- [Git Commit Patterns](https://dev.to/jasonh33/git-commit-patterns-5dm7)
 <!-- BLOG-POST-LIST:END -->
 
