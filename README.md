@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Developer Communities to Join in 2023](https://dev.to/saracleghorn2/top-developer-communities-to-join-in-2023-267l)
+- [Understanding open source communities with Quine](https://dev.to/quine/understanding-open-source-communities-with-quine-3012)
+- [Appwrite OSS Fund Sponsors Mock Service Worker](https://dev.to/appwrite/appwrite-oss-fund-sponsors-mock-service-worker-4m5g)
 - [Your Open Source Project needs CodeSandbox - Here’s why](https://dev.to/codesandboxio/your-open-source-project-needs-codesandbox-heres-why-1cn1)
-- [What is a Serverless Architecture?](https://dev.to/elviskim18/what-is-a-serverless-architecture-ci6)
-- [SEO Cheat Sheet for Devs](https://dev.to/chetanam/seo-cheat-sheet-for-devs-2kca)
-- [Localization state survey 2022](https://dev.to/localizely/localization-state-survey-2022-h2i)
 <!-- BLOG-POST-LIST:END -->
 
