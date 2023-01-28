@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Save your clients internet, Serving big JSON dataset files over network like a pro](https://dev.to/rajeshroyal/save-your-clients-internet-serving-big-json-dataset-files-over-network-like-a-pro-4fde)
 - [10 Techniques for Improving Machine Learning Models](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9)
 - [Introduction to UTXO vs Account-Based Model](https://dev.to/zt4ff_1/introduction-to-utxo-vs-account-based-model-56cc)
-- [Validating AWS Lambda Code Using AWS Signer](https://dev.to/makendrang/validating-aws-lambda-code-using-aws-signer-5af2)
-- [Introducing the New Release of ReductStore Python SDK: v1.3.0: Labels Support and More](https://dev.to/reductstore/introducing-the-new-release-of-reductstore-python-sdk-v130-labels-support-and-more-4c25)
+- [Improving the performance of styled components with native CSS features](https://dev.to/ondrejsevcik/improving-the-performance-of-styled-components-with-native-css-features-27pd)
 <!-- BLOG-POST-LIST:END -->
 
