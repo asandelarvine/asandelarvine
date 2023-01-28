@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://dev.to/samchon/nestia-15000x-faster-validators-and-trpc-sdk-for-nestjs-248k)
+- [useEffect&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useeffect-19m2)
+- [How to Add JWT Authentication to NestJS Apps](https://dev.to/leduc1901/how-to-add-jwt-authentication-to-nestjs-apps-6bb)
 - [Must know CSS code.](https://dev.to/orix/must-know-css-code-4302)
-- [Dev.to - Weekly Web Development Newsletter 1/27/23](https://dev.to/expoverse/devto-weekly-web-development-newsletter-12723-4i5g)
-- [DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://dev.to/vtsen/dry-kiss-and-yagni-to-avoid-over-engineering-trap-2m42)
-- [Still using Word ? Try this instead !](https://dev.to/ziadoua/still-using-word-try-this-instead--42g0)
 <!-- BLOG-POST-LIST:END -->
 
