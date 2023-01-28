@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Array Some Method](https://dev.to/smpnjn/javascript-array-some-method-1bna)
+- [Implementing Cross-cut Concerns with ES6 Proxy: A Practical Example](https://dev.to/zenstack/using-es6-proxy-for-cross-cut-concerns-a-real-world-example-5ggd)
 - [Create Mini-Apps That Wow: How to build Sleek and Fast mobile apps using any JS Frameworks and Ionic Portals](https://dev.to/mhushang/create-mini-apps-that-wow-how-to-build-sleek-and-fast-mobile-apps-using-any-js-frameworks-and-ionic-portals-3n2n)
 - [Deleted Post](https://dev.to/rammcodes/how-the-event-loop-works-in-javascript-visually-explained-15bk)
-- [Web Design Mastery: 7 Cool CSS Properties to Help You Stand Out](https://dev.to/devland/web-design-mastery-7-cool-css-properties-to-help-you-stand-out-4d54)
-- [Save your clients internet, Serving big JSON dataset files over network like a pro](https://dev.to/rajeshroyal/save-your-clients-internet-serving-big-json-dataset-files-over-network-like-a-pro-4fde)
 <!-- BLOG-POST-LIST:END -->
 
