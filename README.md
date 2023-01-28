@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeBoost - Code Completion Tool &lpar;VS Code Extension&rpar;](https://dev.to/codercrux/codeboost-code-completion-tool-vs-code-extension-j77)
 - [10 Startup Ideas to Kickstart Your Business in 2023](https://dev.to/abhaysinghr1/10-startup-ideas-to-kickstart-your-business-in-2023-3m2k)
 - [Latin x Python - 28/01/23](https://dev.to/vulcanwm/latin-x-python-280123-37gj)
 - [I created an animation to understand The Event Loop in JavaScript 🤯🔥](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)
-- [How to create a Simple &amp; Modern Profile Card using TailwindCSS in 2023](https://dev.to/fredy/how-to-create-a-simple-modern-profile-card-using-tailwind-css-471b)
 <!-- BLOG-POST-LIST:END -->
 
