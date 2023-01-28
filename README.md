@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Received 2022 Top Authors Gift from DEV.TO](https://dev.to/samchon/received-2022-top-authors-gift-from-devto-3l92)
 - [Javascript Array Some Method](https://dev.to/smpnjn/javascript-array-some-method-1bna)
 - [Implementing Cross-cut Concerns with ES6 Proxy: A Practical Example](https://dev.to/zenstack/using-es6-proxy-for-cross-cut-concerns-a-real-world-example-5ggd)
-- [Create Mini-Apps That Wow: How to build Sleek and Fast mobile apps using any JS Frameworks and Ionic Portals](https://dev.to/mhushang/create-mini-apps-that-wow-how-to-build-sleek-and-fast-mobile-apps-using-any-js-frameworks-and-ionic-portals-3n2n)
-- [Deleted Post](https://dev.to/rammcodes/how-the-event-loop-works-in-javascript-visually-explained-15bk)
+- [Docusaurus blogs: using the createFeedItems API with git commit date](https://dev.to/johnnyreilly/docusaurus-blogs-using-the-createfeeditems-api-with-git-commit-date-2plg)
 <!-- BLOG-POST-LIST:END -->
 
