@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [useRef&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useref-5pf)
 - [Defect life cycle in API testing ⚙️](https://dev.to/mariamarsh/defect-life-cycle-in-api-testing-eai)
 - [How to make Tic Tac Toe in HTML CSS and JavaScript?](https://dev.to/wirelessqna/how-to-make-tic-tac-toe-in-html-css-and-javascript-1b84)
 - [Ethereum as a Global State Machine.](https://dev.to/okolievans/ethereum-as-a-global-state-machine-4adp)
-- [CodeBoost - Code Completion Tool &lpar;VS Code Extension&rpar;](https://dev.to/codercrux/codeboost-code-completion-tool-vs-code-extension-j77)
 <!-- BLOG-POST-LIST:END -->
 
