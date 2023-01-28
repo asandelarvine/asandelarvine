@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS de Dev pra Dev: Credentials e acesso programático - parte 2](https://dev.to/hugaomarques/aws-de-dev-pra-dev-credentials-e-acesso-programatico-parte-2-4kbk)
 - [useRef&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useref-5pf)
 - [Defect life cycle in API testing ⚙️](https://dev.to/mariamarsh/defect-life-cycle-in-api-testing-eai)
 - [How to make Tic Tac Toe in HTML CSS and JavaScript?](https://dev.to/wirelessqna/how-to-make-tic-tac-toe-in-html-css-and-javascript-1b84)
-- [Ethereum as a Global State Machine.](https://dev.to/okolievans/ethereum-as-a-global-state-machine-4adp)
 <!-- BLOG-POST-LIST:END -->
 
