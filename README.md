@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web 3.0: The Future of the Internet](https://dev.to/darkxenium/web-30-the-future-of-the-internet-2npb)
+- [Introducing the New Release of ReductStore Python SDK: v1.3.0: Labels Support and More](https://dev.to/reductstore/introducing-the-new-release-of-reductstore-python-sdk-v130-labels-support-and-more-4c25)
 - [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://dev.to/samchon/nestia-15000x-faster-validators-and-trpc-sdk-for-nestjs-248k)
 - [useEffect&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useeffect-19m2)
-- [How to Add JWT Authentication to NestJS Apps](https://dev.to/leduc1901/how-to-add-jwt-authentication-to-nestjs-apps-6bb)
-- [Must know CSS code.](https://dev.to/orix/must-know-css-code-4302)
 <!-- BLOG-POST-LIST:END -->
 
