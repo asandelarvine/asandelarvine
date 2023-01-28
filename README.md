@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I created an amazing animation in 5 hrs to understand The Event Loop in JavaScript 🤯🔥](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)
 - [How to create a Simple &amp; Modern Profile Card using TailwindCSS in 2023](https://dev.to/fredy/how-to-create-a-simple-modern-profile-card-using-tailwind-css-471b)
 - [React Carousel Component &quot;with Batteries Included&quot;](https://dev.to/yifanai/react-carousel-component-with-batteries-included-42i1)
 - [The Top 18 AI Image Generation Tools for Designers &amp; Content Creators 👇](https://dev.to/hr21don/the-top-18-ai-image-generation-tools-for-designers-content-creators-5hd0)
-- [Is Tracking User Behavior with JavaScript Ethical?](https://dev.to/sarahokolo/is-tracking-user-behavior-with-javascript-ethical-2km8)
 <!-- BLOG-POST-LIST:END -->
 
