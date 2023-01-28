@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Techniques for Improving Machine Learning Models](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9)
+- [Introduction to UTXO vs Account-Based Model](https://dev.to/zt4ff_1/introduction-to-utxo-vs-account-based-model-56cc)
 - [Validating AWS Lambda Code Using AWS Signer](https://dev.to/makendrang/validating-aws-lambda-code-using-aws-signer-5af2)
 - [Introducing the New Release of ReductStore Python SDK: v1.3.0: Labels Support and More](https://dev.to/reductstore/introducing-the-new-release-of-reductstore-python-sdk-v130-labels-support-and-more-4c25)
-- [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://dev.to/samchon/nestia-15000x-faster-validators-and-trpc-sdk-for-nestjs-248k)
-- [useEffect&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useeffect-19m2)
 <!-- BLOG-POST-LIST:END -->
 
