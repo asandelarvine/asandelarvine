@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev.to - Weekly Web Development Newsletter 1/27/23](https://dev.to/expoverse/devto-weekly-web-development-newsletter-12723-4i5g)
 - [DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://dev.to/vtsen/dry-kiss-and-yagni-to-avoid-over-engineering-trap-2m42)
 - [Still using Word ? Try this instead !](https://dev.to/ziadoua/still-using-word-try-this-instead--42g0)
 - [AWS Cloud Quest: Templating Serverless Applications](https://dev.to/arc/aws-cloud-quest-templating-serverless-applications-59bi)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-f70)
 <!-- BLOG-POST-LIST:END -->
 
