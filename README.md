@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How The Event Loop Works In JavaScript - Visually Explained 🤯🔥](https://dev.to/rammcodes/how-the-event-loop-works-in-javascript-visually-explained-15bk)
+- [Create Mini-Apps That Wow: How to build Sleek and Fast mobile apps using any JS Frameworks and Ionic Portals](https://dev.to/mhushang/create-mini-apps-that-wow-how-to-build-sleek-and-fast-mobile-apps-using-any-js-frameworks-and-ionic-portals-3n2n)
+- [Deleted Post](https://dev.to/rammcodes/how-the-event-loop-works-in-javascript-visually-explained-15bk)
+- [Web Design Mastery: 7 Cool CSS Properties to Help You Stand Out](https://dev.to/devland/web-design-mastery-7-cool-css-properties-to-help-you-stand-out-4d54)
 - [Save your clients internet, Serving big JSON dataset files over network like a pro](https://dev.to/rajeshroyal/save-your-clients-internet-serving-big-json-dataset-files-over-network-like-a-pro-4fde)
-- [10 Techniques for Improving Machine Learning Models](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9)
-- [Introduction to UTXO vs Account-Based Model](https://dev.to/zt4ff_1/introduction-to-utxo-vs-account-based-model-56cc)
 <!-- BLOG-POST-LIST:END -->
 
