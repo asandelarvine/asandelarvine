@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://dev.to/vtsen/dry-kiss-and-yagni-to-avoid-over-engineering-trap-2m42)
+- [Still using Word ? Try this instead !](https://dev.to/ziadoua/still-using-word-try-this-instead--42g0)
+- [AWS Cloud Quest: Templating Serverless Applications](https://dev.to/arc/aws-cloud-quest-templating-serverless-applications-59bi)
 - [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-f70)
-- [.NET MAUI Blazor - Best practices for mobile UI](https://dev.to/mhrastegari/net-maui-blazor-best-practices-for-mobile-ui-4def)
-- [Google Cloud is finally adopting what Linux distros have been doing for years](https://dev.to/linearb/google-cloud-is-finally-adopting-what-linux-distros-have-been-doing-for-years-5189)
-- [Angular 15: what happened to environment.ts](https://dev.to/this-is-angular/angular-15-what-happened-to-environmentts-koh)
 <!-- BLOG-POST-LIST:END -->
 
