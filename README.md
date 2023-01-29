@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 tips to improve backend integration, React with Axios](https://dev.to/antoniojuniordev/5-tips-to-improve-backend-integration-react-with-axios-b3p)
 - [FLiP Stack Weekly 28-Jan-2023](https://dev.to/tspannhw/flip-stack-weekly-28-jan-2023-25d5)
 - [SSH Key Pair](https://dev.to/shulyavraham/ssh-key-pair-3ij8)
 - [Getting Started with Redis and Node.JS](https://dev.to/smpnjn/getting-started-with-redis-and-nodejs-2p11)
-- [Milligram CSS: Custom build &lpar;with Node.js 18 on Alpine Linux 3.17&rpar;](https://dev.to/nabbisen/milligram-css-custom-build-with-nodejs-18-on-alpine-linux-317-37m)
 <!-- BLOG-POST-LIST:END -->
 
