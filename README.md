@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Podman 4.3 on Artix Linux: 初期設定で発生する問題を解決](https://dev.to/nabbisen/podman-43-on-artix-linux-chu-qi-she-ding-defa-sheng-suruwen-ti-wojie-jue-25pl)
 - [Using React Wrap Balancer to Make Wrapping Less Awkward](https://dev.to/ikartik/using-react-wrap-balancer-to-make-wrapping-less-awkward-112n)
 - [Introduction To Web Accessibility](https://dev.to/ezinne_anne/introduction-to-web-accessibility-51eb)
 - [AWS de Dev pra Dev: Credentials e acesso programático - parte 2](https://dev.to/hugaomarques/aws-de-dev-pra-dev-credentials-e-acesso-programatico-parte-2-4kbk)
-- [React with Redux: A Beginner&#39;s Guide](https://dev.to/racheljoyh/react-with-redux-a-beginners-guide-1pg)
 <!-- BLOG-POST-LIST:END -->
 
