@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite System Design Interview Questions and Coding Problems](https://dev.to/javinpaul/my-favorite-system-design-interview-questions-and-coding-problems-4m2j)
 - [10 Must-Know GitHub Repositories for JavaScript Developers](https://dev.to/arjuncodess/10-must-know-github-repositories-for-javascript-developers-53fj)
 - [Build These 5 Projects To Get Hired As A Junior React Developer ASAP 🤯🔥](https://dev.to/rammcodes/build-these-5-projects-to-get-hired-as-a-junior-react-developer-asap-3098)
 - [ChatGPT: The Future of AI-Powered Communication](https://dev.to/arjuncodess/chatgpt-the-future-of-ai-powered-communication-59go)
-- [Predicting Boston Housing Prices using Regression Models](https://dev.to/anurag629/predicting-boston-housing-prices-using-regression-models-2258)
 <!-- BLOG-POST-LIST:END -->
 
