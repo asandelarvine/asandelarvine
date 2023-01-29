@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JAVASCRIPT : AJAX AND FETCH](https://dev.to/prerna0202/javascript-ajax-and-fetch-5oh)
 - [5 Basic Tips Everyone Should Know for Optimizing React Performance 🚀](https://dev.to/naubit/5-basic-tips-everyone-should-know-for-optimizing-react-performance-22o9)
-- [Kubernetes Pods Stuck in Terminating: A Resolution Guide](https://dev.to/imjoseangel/kubernetes-pods-stuck-in-terminating-a-resolution-guide-2jh3)
-- [Creating the effect of traveling through space](https://dev.to/eyudinkov/creating-the-effect-of-traveling-through-space-mfg)
-- [Choosing the right JS framework for your next project is now easy!](https://dev.to/vivek96_/choosing-the-right-js-framework-for-your-next-project-is-now-easy-4dke)
+- [Storage vs Memory vs Calldata](https://dev.to/shlok2740/storage-vs-memory-vs-calldata-4l65)
+- [How I Get Into The Open-Source World](https://dev.to/rabeeh/how-i-get-into-the-open-source-world-13e7)
 <!-- BLOG-POST-LIST:END -->
 
