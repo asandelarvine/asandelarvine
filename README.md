@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Redis and Node.JS](https://dev.to/smpnjn/getting-started-with-redis-and-nodejs-2p11)
 - [Milligram CSS: Custom build &lpar;with Node.js 18 on Alpine Linux 3.17&rpar;](https://dev.to/nabbisen/milligram-css-custom-build-with-nodejs-18-on-alpine-linux-317-37m)
 - [My Favorite System Design Interview Questions and Coding Problems](https://dev.to/javinpaul/my-favorite-system-design-interview-questions-and-coding-problems-4m2j)
 - [The ultimate template for publishing ES modules](https://dev.to/semicognitive/the-ultimate-template-for-publishing-es-modules-1lik)
-- [10 Must-Know GitHub Repositories for JavaScript Developers](https://dev.to/arjuncodess/10-must-know-github-repositories-for-javascript-developers-53fj)
 <!-- BLOG-POST-LIST:END -->
 
