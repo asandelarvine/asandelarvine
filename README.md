@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 𝐆𝐢𝐭𝐇𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 𝐭𝐨 𝐚𝐝𝐯𝐚𝐧𝐜𝐞 𝐲𝐨𝐮𝐫 𝐜𝐚𝐫𝐞𝐞𝐫 as a Developer 📚](https://dev.to/iarchitsharma/10-as-a-developer-egn)
+- [🤖 Brand New Tech Vacancies - Week #5 of 2023](https://dev.to/shman/brand-new-tech-vacancies-week-5-of-2023-8fn)
 - [How to get into React Native?](https://dev.to/darkxenium/how-to-get-into-react-native-k8b)
 - [Podman 4.3 on Artix Linux: 初期設定で発生する問題を解決](https://dev.to/nabbisen/podman-43-on-artix-linux-chu-qi-she-ding-defa-sheng-suruwen-ti-wojie-jue-25pl)
-- [Using React Wrap Balancer to Make Wrapping Less Awkward](https://dev.to/ikartik/using-react-wrap-balancer-to-make-wrapping-less-awkward-112n)
-- [Introducing Serverless DNA - A New Site dedicated to Serverless!](https://dev.to/aws-builders/introducing-serverless-dna-a-new-site-dedicated-to-serverless-38mi)
 <!-- BLOG-POST-LIST:END -->
 
