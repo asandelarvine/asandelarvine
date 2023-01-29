@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [chatGPT — Everything you need to know about chatGPT](https://dev.to/rutikkpatel/chatgpt-everything-you-need-to-know-about-chatgpt-4f44)
 - [From Good to Great: The Power of Empathy in Programming](https://dev.to/noriller/from-good-to-great-the-power-of-empathy-in-programming-162p)
 - [Publishing a Vue 3 - Typescript Component Library to GitHub Packages](https://dev.to/peshanghiwa/publishing-a-vue-3-typescript-component-library-to-github-packages-46ec)
 - [🌐 Connect with others on the same webpage as you 🖥️](https://dev.to/rajeshj3/connect-with-others-on-the-same-webpage-as-you-de6)
-- [JAVASCRIPT : AJAX AND FETCH](https://dev.to/prerna0202/javascript-ajax-and-fetch-5oh)
 <!-- BLOG-POST-LIST:END -->
 
