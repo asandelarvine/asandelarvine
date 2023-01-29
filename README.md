@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 tips to improve backend integration, React with Axios](https://dev.to/antoniojuniordev/5-tips-to-improve-backend-integration-react-with-axios-b3p)
-- [FLiP Stack Weekly 28-Jan-2023](https://dev.to/tspannhw/flip-stack-weekly-28-jan-2023-25d5)
-- [SSH Key Pair](https://dev.to/shulyavraham/ssh-key-pair-3ij8)
-- [Getting Started with Redis and Node.JS](https://dev.to/smpnjn/getting-started-with-redis-and-nodejs-2p11)
+- [5 Basic Tips Everyone Should Know for Optimizing React Performance 🚀](https://dev.to/naubit/5-basic-tips-everyone-should-know-for-optimizing-react-performance-22o9)
+- [Kubernetes Pods Stuck in Terminating: A Resolution Guide](https://dev.to/imjoseangel/kubernetes-pods-stuck-in-terminating-a-resolution-guide-2jh3)
+- [Creating the effect of traveling through space](https://dev.to/eyudinkov/creating-the-effect-of-traveling-through-space-mfg)
+- [Choosing the right JS framework for your next project is now easy!](https://dev.to/vivek96_/choosing-the-right-js-framework-for-your-next-project-is-now-easy-4dke)
 <!-- BLOG-POST-LIST:END -->
 
