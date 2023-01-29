@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using React Wrap Balancer to Make Wrapping Less Awkward](https://dev.to/ikartik/using-react-wrap-balancer-to-make-wrapping-less-awkward-112n)
+- [Introduction To Web Accessibility](https://dev.to/ezinne_anne/introduction-to-web-accessibility-51eb)
 - [AWS de Dev pra Dev: Credentials e acesso programático - parte 2](https://dev.to/hugaomarques/aws-de-dev-pra-dev-credentials-e-acesso-programatico-parte-2-4kbk)
-- [useRef&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/useref-5pf)
-- [Defect life cycle in API testing ⚙️](https://dev.to/mariamarsh/defect-life-cycle-in-api-testing-eai)
-- [How to make Tic Tac Toe in HTML CSS and JavaScript?](https://dev.to/wirelessqna/how-to-make-tic-tac-toe-in-html-css-and-javascript-1b84)
+- [React with Redux: A Beginner&#39;s Guide](https://dev.to/racheljoyh/react-with-redux-a-beginners-guide-1pg)
 <!-- BLOG-POST-LIST:END -->
 
