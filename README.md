@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Good to Great: The Power of Empathy in Programming](https://dev.to/noriller/from-good-to-great-the-power-of-empathy-in-programming-162p)
+- [Publishing a Vue 3 - Typescript Component Library to GitHub Packages](https://dev.to/peshanghiwa/publishing-a-vue-3-typescript-component-library-to-github-packages-46ec)
 - [🌐 Connect with others on the same webpage as you 🖥️](https://dev.to/rajeshj3/connect-with-others-on-the-same-webpage-as-you-de6)
 - [JAVASCRIPT : AJAX AND FETCH](https://dev.to/prerna0202/javascript-ajax-and-fetch-5oh)
-- [5 Basic Tips Everyone Should Know for Optimizing React Performance 🚀](https://dev.to/naubit/5-basic-tips-everyone-should-know-for-optimizing-react-performance-22o9)
-- [Storage vs Memory vs Calldata](https://dev.to/shlok2740/storage-vs-memory-vs-calldata-4l65)
 <!-- BLOG-POST-LIST:END -->
 
