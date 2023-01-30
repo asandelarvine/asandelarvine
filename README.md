@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Lenses: A Guide to Efficiently Modifying Immutable Data](https://dev.to/vhutov/javascript-lenses-a-guide-to-efficiently-modifying-immutable-data-le1)
-- [Meme Monday 👁](https://dev.to/ben/meme-monday-5h2e)
-- [Awesome AI tools to assist you in coding](https://dev.to/surajondev/awesome-ai-tools-to-assist-you-in-coding-4nmf)
-- [Chat backend with Supabase &amp; Socket.io](https://dev.to/nsmet/chat-backend-with-supabase-socketio-55nn)
+- [Responsive Text - Without @media queries](https://dev.to/vulcanwm/responsive-text-without-media-queries-4enc)
+- [Effective Refactoring with Codemods](https://dev.to/carloscuesta/effective-refactoring-with-codemods-5010)
+- [Set up a basic multi-tenant architecture in Rails 7](https://dev.to/harsh_u115/set-up-a-basic-multi-tenant-architecture-in-rails-7-4445)
+- [How To Write Clean Code As A Developer](https://dev.to/scofieldidehen/how-to-write-clean-code-as-a-developer-471c)
 <!-- BLOG-POST-LIST:END -->
 
