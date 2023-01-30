@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero byte apple-touch-icon markup](https://dev.to/shadowfaxrodeo/zero-byte-apple-touch-icon-markup-ica)
 - [Responsive Text - Without @media queries](https://dev.to/vulcanwm/responsive-text-without-media-queries-4enc)
 - [Effective Refactoring with Codemods](https://dev.to/carloscuesta/effective-refactoring-with-codemods-5010)
 - [Set up a basic multi-tenant architecture in Rails 7](https://dev.to/harsh_u115/set-up-a-basic-multi-tenant-architecture-in-rails-7-4445)
-- [How To Write Clean Code As A Developer](https://dev.to/scofieldidehen/how-to-write-clean-code-as-a-developer-471c)
 <!-- BLOG-POST-LIST:END -->
 
