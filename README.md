@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncovering the Best Email Spam Classifier: A Comparative Study of Machine Learning Algorithms](https://dev.to/anurag629/uncovering-the-best-email-spam-classifier-a-comparative-study-of-machine-learning-algorithms-118l)
 - [ZMOTION | 2023 New Beginning](https://dev.to/zmotion/zmotion-2023-new-beginning-4k7b)
+- [7 Awesome Free APIs for Your Next Node.js Project](https://dev.to/maximization/7-awesome-free-apis-for-your-next-nodejs-project-41m1)
 - [Must have websites for every Frontend Web developer](https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm)
-- [Set up a PostgreSQL database and connect to NestJS with TypeORM](https://dev.to/leduc1901/set-up-a-postgresql-database-and-connect-to-nestjs-with-typeorm-35np)
-- [Access Azure KeyVault Secrets Through Nodejs Application](https://dev.to/dileepamabulage/access-azure-keyvault-secrets-through-nodejs-application-bim)
 <!-- BLOG-POST-LIST:END -->
 
