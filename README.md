@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Talk to people who are on the same site | 🌐 Browsemates](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-browsemates-2alp)
-- [Discover the Top 15 AI Websites Changing the Game in 2023](https://dev.to/pablonax/discover-the-top-15-ai-websites-changing-the-game-in-2023-4l5j)
-- [Mastering Sass: Tips and Tricks for Efficient Workflow.](https://dev.to/nnekajenny/mastering-sass-tips-and-tricks-for-efficient-workflow-8k0)
-- [Looking for feedback on opensource VS Code AI extension](https://dev.to/lgrammel/looking-for-feedback-on-opensource-vs-code-ai-extension-da2)
+- [Elasticsearch vs MongoDB - A detailed comparison of Document-Oriented Databases](https://dev.to/signoz/elasticsearch-vs-mongodb-a-detailed-comparison-of-document-oriented-databases-3c0g)
+- [The 4 Essential Skills of the Software Developers](https://dev.to/noriookawa/the-4-essential-skills-of-the-software-developers-43p3)
+- [10 Free Data Science Certification Courses By Google📚](https://dev.to/iarchitsharma/10-free-data-science-certification-courses-by-google-1omh)
+- [Component development with ladle and next/image](https://dev.to/sdorra/component-development-with-ladle-and-nextimage-4169)
 <!-- BLOG-POST-LIST:END -->
 
