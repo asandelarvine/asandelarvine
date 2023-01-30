@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #143](https://dev.to/aws/aws-open-source-newsletter-143-go7)
-- [Top 5 Websites for Coding Interview Preparation](https://dev.to/onlydevs_/top-5-websites-for-coding-interview-preparation-3fdd)
-- [Beat Midjourney at its Own Game: Generate AI Images with These 5 Free AI Tools](https://dev.to/thenomadevel/beat-midjourney-at-its-own-game-generate-ai-images-with-these-5-free-ai-tools-3hgg)
-- [[TGrid] TypeScript Grid Computing Framework &lpar;open source failure stories&rpar;](https://dev.to/samchon/tgrid-typescript-grid-computing-framework-open-source-failure-stories-18ld)
+- [Just Launched Dyte on Product Hunt](https://dev.to/dyte/just-launched-dyte-on-product-hunt-4h3f)
+- [Docker Best Practices: Security](https://dev.to/grigorkh/docker-best-practices-security-1b3)
+- [Running a GraphQL endpoint with Serverless](https://dev.to/grigorkh/running-a-graphql-endpoint-with-serverless-4038)
+- [Using Node.js for Ecommerce Platforms](https://dev.to/frankdev20/using-nodejs-for-ecommerce-platforms-727)
 <!-- BLOG-POST-LIST:END -->
 
