@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Networks with VLANs](https://dev.to/aakhtar3/build-networks-with-vlans-1ldd)
+- [Debugging NodeJS](https://dev.to/markmatute/debugging-nodejs-15jb)
+- [5 Websites To Finish 💯 Complicated Stuff Quickly &amp; Easily! 🚀](https://dev.to/mahmoudessam/5-websites-to-finish-complicated-stuff-quickly-easily-2m2h)
 - [Analysing which Mastodon apps I&#39;ve used](https://dev.to/andypiper/analysing-which-mastodon-apps-ive-used-30pb)
-- [chatGPT — Everything you need to know about chatGPT](https://dev.to/rutikkpatel/chatgpt-everything-you-need-to-know-about-chatgpt-4f44)
-- [Split messages from single SQS queue into Multiple SQS queues using EventBridge](https://dev.to/aws-builders/split-messages-from-single-sqs-queue-into-multiple-sqs-queues-using-eventbridge-g0p)
-- [From Good to Great: The Power of Empathy in Programming](https://dev.to/noriller/from-good-to-great-the-power-of-empathy-in-programming-162p)
 <!-- BLOG-POST-LIST:END -->
 
