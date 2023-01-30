@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday 👁](https://dev.to/ben/meme-monday-5h2e)
+- [Awesome AI tools to assist you in coding](https://dev.to/surajondev/awesome-ai-tools-to-assist-you-in-coding-4nmf)
 - [Chat backend with Supabase &amp; Socket.io](https://dev.to/nsmet/chat-backend-with-supabase-socketio-55nn)
 - [Music Monday — What are you listening to? &lpar;60&#39;s Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-60s-edition-3k6o)
-- [🎯 9 Essential React Hooks Every Developer Should Know](https://dev.to/naubit/9-essential-react-hooks-every-developer-should-know-278l)
-- [K6 - Outil simple et rapide de Load Testing](https://dev.to/mxglt/k6-outil-simple-et-rapide-de-load-testing-1oad)
 <!-- BLOG-POST-LIST:END -->
 
