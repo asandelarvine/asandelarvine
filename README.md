@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Error: Unauthorized Domain in Deployed Site](https://dev.to/icyybee/firebase-error-unauthorized-domain-in-deployed-site-50ed)
-- [Just Launched Dyte on Product Hunt](https://dev.to/dyte/just-launched-dyte-on-product-hunt-4h3f)
-- [Docker Best Practices: Security](https://dev.to/grigorkh/docker-best-practices-security-1b3)
-- [Running a GraphQL endpoint with Serverless](https://dev.to/grigorkh/running-a-graphql-endpoint-with-serverless-4038)
+- [Talk to people who are on the same site | 🌐 Browsemates](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-browsemates-2alp)
+- [Discover the Top 15 AI Websites Changing the Game in 2023](https://dev.to/pablonax/discover-the-top-15-ai-websites-changing-the-game-in-2023-4l5j)
+- [Mastering Sass: Tips and Tricks for Efficient Workflow.](https://dev.to/nnekajenny/mastering-sass-tips-and-tricks-for-efficient-workflow-8k0)
+- [Looking for feedback on opensource VS Code AI extension](https://dev.to/lgrammel/looking-for-feedback-on-opensource-vs-code-ai-extension-da2)
 <!-- BLOG-POST-LIST:END -->
 
