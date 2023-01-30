@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Uncovering the Best Email Spam Classifier: A Comparative Study of Machine Learning Algorithms](https://dev.to/anurag629/uncovering-the-best-email-spam-classifier-a-comparative-study-of-machine-learning-algorithms-118l)
+- [How to Solve Math Equations in the Linux Terminal](https://dev.to/5minslearn/how-to-solve-math-equations-in-the-linux-terminal-4bla)
 - [ZMOTION | 2023 New Beginning](https://dev.to/zmotion/zmotion-2023-new-beginning-4k7b)
 - [7 Awesome Free APIs for Your Next Node.js Project](https://dev.to/maximization/7-awesome-free-apis-for-your-next-nodejs-project-41m1)
-- [Must have websites for every Frontend Web developer](https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm)
 <!-- BLOG-POST-LIST:END -->
 
