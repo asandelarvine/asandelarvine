@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ZMOTION | 2023 New Beginning](https://dev.to/zmotion/zmotion-2023-new-beginning-4k7b)
+- [Must have websites for every Frontend Web developer](https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm)
 - [Set up a PostgreSQL database and connect to NestJS with TypeORM](https://dev.to/leduc1901/set-up-a-postgresql-database-and-connect-to-nestjs-with-typeorm-35np)
 - [Access Azure KeyVault Secrets Through Nodejs Application](https://dev.to/dileepamabulage/access-azure-keyvault-secrets-through-nodejs-application-bim)
-- [Build Networks with VLANs](https://dev.to/aakhtar3/build-networks-with-vlans-1ldd)
-- [Debugging NodeJS](https://dev.to/markmatute/debugging-nodejs-15jb)
 <!-- BLOG-POST-LIST:END -->
 
