@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Lenses: A Guide to Efficiently Modifying Immutable Data](https://dev.to/vhutov/javascript-lenses-a-guide-to-efficiently-modifying-immutable-data-le1)
 - [Meme Monday 👁](https://dev.to/ben/meme-monday-5h2e)
 - [Awesome AI tools to assist you in coding](https://dev.to/surajondev/awesome-ai-tools-to-assist-you-in-coding-4nmf)
 - [Chat backend with Supabase &amp; Socket.io](https://dev.to/nsmet/chat-backend-with-supabase-socketio-55nn)
-- [Music Monday — What are you listening to? &lpar;60&#39;s Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-60s-edition-3k6o)
 <!-- BLOG-POST-LIST:END -->
 
