@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Rules That Most B2B Shops Miss in Their Product Categorization](https://dev.to/medusajs/5-rules-that-most-b2b-shops-miss-in-their-product-categorization-6dn)
+- [💻 What is Vue.js? A Comprehensive Guide to the Frontend Framework](https://dev.to/flatlogic_manager/what-is-vuejs-a-comprehensive-guide-to-the-frontend-framework-3ol6)
+- [Getting hands on with Sigstore Cosign on AWS](https://dev.to/aws/getting-hands-on-with-sigstore-cosign-on-aws-1pdi)
 - [Welcome @devintelbyte, the 1 millionth registered DEV!](https://dev.to/devteam/welcome-devintelbyte-the-1-millionth-registered-dev-381i)
-- [Mastering Internationalization and Localization in JavaScript: A Comprehensive Guide](https://dev.to/sarahokolo/mastering-internationalization-and-localization-in-javascript-a-comprehensive-guide-50ma)
-- [I developed a simple but beautiful developer portfolio template using React and Next.js](https://dev.to/umutyesildal/i-developed-a-simple-but-beautiful-developer-portfolio-template-using-react-and-nextjs-25l7)
-- [#01 Benchmark of four JIT Backends](https://dev.to/ssghost/01-benchmark-of-four-jit-backends-51i3)
 <!-- BLOG-POST-LIST:END -->
 
