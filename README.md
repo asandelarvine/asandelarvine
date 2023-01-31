@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome @devintelbyte, the 1 millionth registered DEV!](https://dev.to/devteam/welcome-devintelbyte-the-1-millionth-registered-dev-381i)
+- [Mastering Internationalization and Localization in JavaScript: A Comprehensive Guide](https://dev.to/sarahokolo/mastering-internationalization-and-localization-in-javascript-a-comprehensive-guide-50ma)
+- [I developed a simple but beautiful developer portfolio template using React and Next.js](https://dev.to/umutyesildal/i-developed-a-simple-but-beautiful-developer-portfolio-template-using-react-and-nextjs-25l7)
 - [#01 Benchmark of four JIT Backends](https://dev.to/ssghost/01-benchmark-of-four-jit-backends-51i3)
-- [10 Must-Take FREE Google Data Science Courses for 2023](https://dev.to/arjuncodess/10-must-take-free-google-data-science-courses-for-2023-45l4)
-- [WhatsApp in React Native &lpar;part 3&rpar;](https://dev.to/jacksbridger/whatsapp-in-react-native-part-3-1gmf)
-- [Goodbye to Saccharine Feelings of Clean Code](https://dev.to/solidi/goodbye-to-saccharine-feelings-of-clean-code-15o4)
 <!-- BLOG-POST-LIST:END -->
 
