@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Elevate Your Django Projects with GraphQL Integration](https://dev.to/documatic/elevate-your-django-projects-with-graphql-integration-2oi6)
+- [Chrome Extensions of the Month - January 2023](https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc)
 - [The K-Nearest Neighbors Algorithm for regression and classification](https://dev.to/anurag629/the-k-nearest-neighbors-algorithm-for-regression-and-classification-jgo)
-- [Understanding the javascript:void&lpar;0&rpar; Statement](https://dev.to/codeofrelevancy/understanding-the-javascriptvoid0-statement-2dna)
-- [A Comprehensive Guide to Cloud Migration from On-Prem Datacenter to AWS](https://dev.to/aws-builders/a-comprehensive-guide-to-cloud-migration-from-on-prem-datacenter-to-aws-215i)
-- [Data Pipelines with Great Expectations | Introduction](https://dev.to/samuelearl/data-pipelines-with-great-expectations-introduction-o37)
+- [JavaScript Developer Complete Roadmap: From Zero to Hero](https://dev.to/hy_piyush/javascript-developer-complete-roadmap-from-zero-to-hero-41if)
 <!-- BLOG-POST-LIST:END -->
 
