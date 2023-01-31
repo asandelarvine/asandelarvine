@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to trace an email address](https://dev.to/ip2location/how-to-trace-an-email-address-28lf)
+- [6 Approaches for Data Fetching in React](https://dev.to/char_carr_dev/6-approaches-for-data-fetching-in-react-1ec3)
+- [Can Continuous Deployment Be Considered Harmful?](https://dev.to/jonasbn/can-continuous-deployment-be-considered-harmful-5edj)
 - [What the HAL? The Quest for Finding a Suitable Embedded Rust HAL](https://dev.to/apollolabsbin/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal-2i02)
-- [Getting the tempo of a song using librosa](https://dev.to/highcenburg/getting-the-tempo-of-a-song-using-librosa-4e5b)
-- [🔥Top Angular Open Source Projects 💻](https://dev.to/flatlogic_manager/top-angular-open-source-projects-326k)
-- [The idea,🌐Browsemates- Connect with others on the same webpage as you🔥](https://dev.to/rajeshj3/the-ideabrowsemates-connect-with-others-on-the-same-webpage-as-you-4hi3)
 <!-- BLOG-POST-LIST:END -->
 
