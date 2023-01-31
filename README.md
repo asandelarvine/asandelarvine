@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Using GitHub Pages is a Great Idea](https://dev.to/postman/why-using-github-pages-is-a-great-idea-16ho)
+- [The good, bad and ugly about Canary functions](https://dev.to/aws-builders/the-good-bad-and-ugly-about-canary-functions-480j)
 - [Elevate Your Django Projects with GraphQL Integration](https://dev.to/documatic/elevate-your-django-projects-with-graphql-integration-2oi6)
 - [Chrome Extensions of the Month - January 2023](https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc)
-- [The K-Nearest Neighbors Algorithm for regression and classification](https://dev.to/anurag629/the-k-nearest-neighbors-algorithm-for-regression-and-classification-jgo)
-- [JavaScript Developer Complete Roadmap: From Zero to Hero](https://dev.to/hy_piyush/javascript-developer-complete-roadmap-from-zero-to-hero-41if)
 <!-- BLOG-POST-LIST:END -->
 
