@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Store with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/data-store-with-nucleoid-low-code-backend-2b7h)
 - [The State of Developer Conferences](https://dev.to/remotesynth/the-state-of-developer-conferences-d86)
 - [Releasing code in large corporations is slow - and there is a good reason for it](https://dev.to/codepo8/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it-4e86)
 - [Build a Team permissions system in Node.js app using Auth0 and Permify - Part 2](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-2-4i9d)
-- [Build a team permissions system in Node.js app using Auth0 and Permify - Part 1](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)
 <!-- BLOG-POST-LIST:END -->
 
