@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Open-Source Log Management Tools that you may consider in 2023](https://dev.to/danielfavour/7-open-source-log-management-tools-that-you-may-consider-in-2023-1d5m)
+- [Elm 2022, a year in review](https://dev.to/lucamug/elm-2022-a-year-in-review-33pp)
 - [How to trace an email address](https://dev.to/ip2location/how-to-trace-an-email-address-28lf)
 - [6 Approaches for Data Fetching in React](https://dev.to/char_carr_dev/6-approaches-for-data-fetching-in-react-1ec3)
-- [Can Continuous Deployment Be Considered Harmful?](https://dev.to/jonasbn/can-continuous-deployment-be-considered-harmful-5edj)
-- [What the HAL? The Quest for Finding a Suitable Embedded Rust HAL](https://dev.to/apollolabsbin/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal-2i02)
 <!-- BLOG-POST-LIST:END -->
 
