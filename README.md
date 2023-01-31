@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Cloud Migration from On-Prem Datacenter to AWS](https://dev.to/aws-builders/a-comprehensive-guide-to-cloud-migration-from-on-prem-datacenter-to-aws-215i)
+- [Data Pipelines with Great Expectations | Introduction](https://dev.to/samuelearl/data-pipelines-with-great-expectations-introduction-o37)
 - [Web Scraping With Puppeteer for Total Noobs](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-38j4)
 - [7 Open-Source Log Management Tools that you may consider in 2023](https://dev.to/danielfavour/7-open-source-log-management-tools-that-you-may-consider-in-2023-1d5m)
-- [Elm 2022, a year in review](https://dev.to/lucamug/elm-2022-a-year-in-review-33pp)
-- [How to trace an email address](https://dev.to/ip2location/how-to-trace-an-email-address-28lf)
 <!-- BLOG-POST-LIST:END -->
 
