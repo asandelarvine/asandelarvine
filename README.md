@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Axios to consume REST API in React](https://dev.to/documatic/axios-to-consume-rest-api-in-react-4549)
 - [Python NOT for Beginners ⛔ but for Professionals 😎](https://dev.to/rajeshj3/python-not-for-beginners-but-for-professionals-4deh)
 - [Cloud Storage in AWS](https://dev.to/aws-builders/cloud-storage-in-aws-2j89)
 - [mp4ff - beyond MP4 boxes](https://dev.to/video/mp4ff-beyond-mp4-boxes-2bee)
-- [Need another side project idea?](https://dev.to/charliesay/need-another-side-project-idea-5ekp)
 <!-- BLOG-POST-LIST:END -->
 
