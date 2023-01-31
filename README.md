@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#01 Benchmark of four JIT Backends](https://dev.to/ssghost/01-benchmark-of-four-jit-backends-51i3)
+- [10 Must-Take FREE Google Data Science Courses for 2023](https://dev.to/arjuncodess/10-must-take-free-google-data-science-courses-for-2023-45l4)
+- [WhatsApp in React Native &lpar;part 3&rpar;](https://dev.to/jacksbridger/whatsapp-in-react-native-part-3-1gmf)
 - [Goodbye to Saccharine Feelings of Clean Code](https://dev.to/solidi/goodbye-to-saccharine-feelings-of-clean-code-15o4)
-- [Complete Spring Boot: Build Enterprise Level Apps](https://dev.to/lovepreetsingh/complete-spring-boot-build-enterprise-level-apps-2h50)
-- [Cap XVIII: Aprendemos de otros &lpar;o cómo no ser un desarrollador perezoso&rpar;, El libro negro del programador. 💻](https://dev.to/duxtech/cap-xviii-aprendemos-de-otros-o-como-no-ser-un-desarrollador-perezoso-el-libro-negro-del-programador-3l91)
-- [Rendering with NextJS](https://dev.to/hi_iam_chris/rendering-with-nextjs-1db1)
 <!-- BLOG-POST-LIST:END -->
 
