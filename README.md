@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Latin x Python: 31/01/23](https://dev.to/vulcanwm/latin-x-python-310123-229b)
+- [Hackathon Reflections](https://dev.to/jd2r/hackathon-reflections-ggc)
 - [Remote Debugging Dangers and Pitfalls](https://dev.to/codenameone/remote-debugging-dangers-and-pitfalls-4f3g)
 - [Using Gleam in your Phoenix Hooks](https://dev.to/clsource/using-gleam-in-your-phoenix-hooks-177o)
-- [Intro to Building a Ruby on Rails Back End](https://dev.to/mikedavissoftware/intro-to-building-a-ruby-on-rails-back-end-3nlk)
-- [Data Store with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/data-store-with-nucleoid-low-code-backend-2b7h)
 <!-- BLOG-POST-LIST:END -->
 
