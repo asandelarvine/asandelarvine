@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [21 Problem Solving Lessons to Ace Coding Interviews](https://dev.to/codewithvoid/21-problem-solving-lessons-to-ace-coding-interviews-268n)
-- [I challenged myself to read every day, and it changed my life 📚](https://dev.to/derlin/i-challenged-myself-to-read-every-day-and-it-changed-my-life-2oef)
-- [5 Rules That Most B2B Shops Miss in Their Product Categorization](https://dev.to/medusajs/5-rules-that-most-b2b-shops-miss-in-their-product-categorization-6dn)
-- [💻 What is Vue.js? A Comprehensive Guide to the Frontend Framework](https://dev.to/flatlogic_manager/what-is-vuejs-a-comprehensive-guide-to-the-frontend-framework-3ol6)
+- [The State of Developer Conferences](https://dev.to/remotesynth/the-state-of-developer-conferences-d86)
+- [Releasing code in large corporations is slow - and there is a good reason for it](https://dev.to/codepo8/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it-4e86)
+- [Build a Team permissions system in Node.js app using Auth0 and Permify - Part 2](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-2-4i9d)
+- [Build a team permissions system in Node.js app using Auth0 and Permify - Part 1](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)
 <!-- BLOG-POST-LIST:END -->
 
