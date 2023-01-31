@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Debugging Dangers and Pitfalls](https://dev.to/codenameone/remote-debugging-dangers-and-pitfalls-4f3g)
+- [Using Gleam in your Phoenix Hooks](https://dev.to/clsource/using-gleam-in-your-phoenix-hooks-177o)
+- [Intro to Building a Ruby on Rails Back End](https://dev.to/mikedavissoftware/intro-to-building-a-ruby-on-rails-back-end-3nlk)
 - [Data Store with Nucleoid &lpar;Low-code Backend&rpar;](https://dev.to/nucleoid/data-store-with-nucleoid-low-code-backend-2b7h)
-- [The State of Developer Conferences](https://dev.to/remotesynth/the-state-of-developer-conferences-d86)
-- [Releasing code in large corporations is slow - and there is a good reason for it](https://dev.to/codepo8/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it-4e86)
-- [Build a Team permissions system in Node.js app using Auth0 and Permify - Part 2](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-2-4i9d)
 <!-- BLOG-POST-LIST:END -->
 
