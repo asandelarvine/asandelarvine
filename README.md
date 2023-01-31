@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Using GitHub Pages is a Great Idea](https://dev.to/postman/why-using-github-pages-is-a-great-idea-16ho)
-- [The good, bad and ugly about Canary functions](https://dev.to/aws-builders/the-good-bad-and-ugly-about-canary-functions-480j)
-- [Elevate Your Django Projects with GraphQL Integration](https://dev.to/documatic/elevate-your-django-projects-with-graphql-integration-2oi6)
-- [Chrome Extensions of the Month - January 2023](https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc)
+- [Python NOT for Beginners ⛔ but for Professionals 😎](https://dev.to/rajeshj3/python-not-for-beginners-but-for-professionals-4deh)
+- [Cloud Storage in AWS](https://dev.to/aws-builders/cloud-storage-in-aws-2j89)
+- [mp4ff - beyond MP4 boxes](https://dev.to/video/mp4ff-beyond-mp4-boxes-2bee)
+- [Need another side project idea?](https://dev.to/charliesay/need-another-side-project-idea-5ekp)
 <!-- BLOG-POST-LIST:END -->
 
