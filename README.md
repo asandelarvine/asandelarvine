@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Axios to consume REST API in React](https://dev.to/documatic/axios-to-consume-rest-api-in-react-4549)
-- [Python NOT for Beginners ⛔ but for Professionals 😎](https://dev.to/rajeshj3/python-not-for-beginners-but-for-professionals-4deh)
-- [Cloud Storage in AWS](https://dev.to/aws-builders/cloud-storage-in-aws-2j89)
-- [mp4ff - beyond MP4 boxes](https://dev.to/video/mp4ff-beyond-mp4-boxes-2bee)
+- [Goodbye to Saccharine Feelings of Clean Code](https://dev.to/solidi/goodbye-to-saccharine-feelings-of-clean-code-15o4)
+- [Complete Spring Boot: Build Enterprise Level Apps](https://dev.to/lovepreetsingh/complete-spring-boot-build-enterprise-level-apps-2h50)
+- [Cap XVIII: Aprendemos de otros &lpar;o cómo no ser un desarrollador perezoso&rpar;, El libro negro del programador. 💻](https://dev.to/duxtech/cap-xviii-aprendemos-de-otros-o-como-no-ser-un-desarrollador-perezoso-el-libro-negro-del-programador-3l91)
+- [Rendering with NextJS](https://dev.to/hi_iam_chris/rendering-with-nextjs-1db1)
 <!-- BLOG-POST-LIST:END -->
 
