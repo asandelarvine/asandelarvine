@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [21 Problem Solving Lessons to Ace Coding Interviews](https://dev.to/codewithvoid/21-problem-solving-lessons-to-ace-coding-interviews-268n)
+- [I challenged myself to read every day, and it changed my life 📚](https://dev.to/derlin/i-challenged-myself-to-read-every-day-and-it-changed-my-life-2oef)
 - [5 Rules That Most B2B Shops Miss in Their Product Categorization](https://dev.to/medusajs/5-rules-that-most-b2b-shops-miss-in-their-product-categorization-6dn)
 - [💻 What is Vue.js? A Comprehensive Guide to the Frontend Framework](https://dev.to/flatlogic_manager/what-is-vuejs-a-comprehensive-guide-to-the-frontend-framework-3ol6)
-- [Getting hands on with Sigstore Cosign on AWS](https://dev.to/aws/getting-hands-on-with-sigstore-cosign-on-aws-1pdi)
-- [Welcome @devintelbyte, the 1 millionth registered DEV!](https://dev.to/devteam/welcome-devintelbyte-the-1-millionth-registered-dev-381i)
 <!-- BLOG-POST-LIST:END -->
 
