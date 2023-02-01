@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Free Trivia API&#39;s to create your own quiz app](https://dev.to/keracudmore/5-free-trivia-apis-to-create-your-own-quiz-app-3286)
+- [Convert Your Blogs to Awesome Video Like a Pro 😎 with Zero Editing Skills](https://dev.to/varshithvhegde/convert-your-blogs-to-awesome-video-like-a-pro-with-zero-editing-skills-1lh6)
+- [Integrity Check using PGP for JMeter](https://dev.to/qainsights/integrity-check-using-pgp-for-jmeter-37l8)
 - [The Risks of Moving Too Quickly with Serverless Development](https://dev.to/aws-heroes/the-risks-of-moving-too-quickly-with-serverless-development-5d2p)
-- [My Favorite Free System Design Courses and Tutorials](https://dev.to/javinpaul/my-favorite-free-system-design-courses-and-tutorials-52af)
-- [Devops React : We can be Heroes, just for one app](https://dev.to/m4dz/devops-react-we-can-be-heroes-just-for-one-app-36ab)
-- [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://dev.to/letswrite/vs-code-pets-bian-xie-cheng-shi-bian-yang-zhi-liao-yu-xiao-chong-wu-ba-1p3k)
 <!-- BLOG-POST-LIST:END -->
 
