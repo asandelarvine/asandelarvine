@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what is a React Hooks?](https://dev.to/shiwani295/what-is-a-react-hooks-4l0o)
-- [Software Development - Everything you need to know about this area!](https://dev.to/albericojr/software-development-everything-you-need-to-know-about-this-area-4lb0)
-- [Algorithm Visualization: An Adventure in Thread Sleeping🔥](https://dev.to/zesta/sleeping-a-thread-in-javascript-i-thought-it-wasnt-possible-2omn)
-- [Our guide to the AWS Security Pillar](https://dev.to/serverlessedge/our-guide-to-the-aws-security-pillar-20a1)
+- [Devops React : We can be Heroes, just for one app](https://dev.to/m4dz/devops-react-we-can-be-heroes-just-for-one-app-36ab)
+- [Easily deploy your portfolio website with AWS CDK 🚀](https://dev.to/kumo/easily-deploy-your-portfolio-website-with-aws-cdk-4l9b)
+- [This Week In React #133: Astro, React dying?, Qwikify, CRA, Next.js, Remix, Redux, Storybook, Redwood, Nextra, React-Native...](https://dev.to/sebastienlorber/this-week-in-react-133-astro-react-dying-qwikify-cra-nextjs-remix-redux-storybook-redwood-nextra-react-native-1a79)
+- [Introducing Rubberduck 1.0: AI Chat in Visual Studio Code](https://dev.to/lgrammel/introducing-rubberduck-10-ai-chat-in-visual-studio-code-2519)
 <!-- BLOG-POST-LIST:END -->
 
