@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fully remote companies are better than hybrid](https://dev.to/aha/fully-remote-companies-are-better-than-hybrid-4f53)
 - [What is AWS EKS](https://dev.to/roy8/what-is-aws-eks-2df9)
 - [ReactJS Pagination Component](https://dev.to/cleveroscar/pagination-reactjs-1ne)
 - [No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer &amp; Designer into a Design Ninja 🎨🥷🏽! Part One](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
-- [Building a software bill of materials &lpar;SBOM&rpar; using open source tools](https://dev.to/aws/building-a-software-bill-of-materials-sbom-using-open-source-tools-2a6j)
 <!-- BLOG-POST-LIST:END -->
 
