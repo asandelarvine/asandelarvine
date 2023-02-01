@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Kubernetes Gateway and Ingress APIs](https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj)
 - [Help reducing Firebase Realtime Database Download](https://dev.to/hyunseunglee2008/help-reducing-firebase-realtime-database-download-16l8)
 - [January Stripe Developer Digest](https://dev.to/stripe/january-stripe-developer-digest-m5d)
 - [How install Cloud SDK Docker image from GCP?](https://dev.to/xlmriosx/how-install-cloud-sdk-docker-image-in-gcp-4mep)
-- [#DEVDiscuss: to Specialize or to Generalize?](https://dev.to/devteam/devdiscuss-to-specialize-or-to-generalize-46lj)
 <!-- BLOG-POST-LIST:END -->
 
