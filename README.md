@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Remix with Flowbite and Tailwind CSS](https://dev.to/themesberg/how-to-install-remix-with-flowbite-and-tailwind-css-49b3)
-- [Hyperparameter Optimisation for Machine Learning - Bayesian Optimisation](https://dev.to/meetkern/hyperparameter-optimisation-for-machine-learning-bayesian-optimisation-2nd1)
-- [Netlify Acquires GatsbyJS](https://dev.to/erinposting/netlify-acquires-gatsbyjs-4c74)
-- [5 Free Trivia API&#39;s to create your own quiz app](https://dev.to/keracudmore/5-free-trivia-apis-to-create-your-own-quiz-app-3286)
+- [What is AWS EKS](https://dev.to/roy8/what-is-aws-eks-2df9)
+- [ReactJS Pagination Component](https://dev.to/cleveroscar/pagination-reactjs-1ne)
+- [No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer &amp; Designer into a Design Ninja 🎨🥷🏽! Part One](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
+- [Building a software bill of materials &lpar;SBOM&rpar; using open source tools](https://dev.to/aws/building-a-software-bill-of-materials-sbom-using-open-source-tools-2a6j)
 <!-- BLOG-POST-LIST:END -->
 
