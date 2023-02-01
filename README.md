@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [KNN &lpar;K-nearest neighbors&rpar; Classification](https://dev.to/anurag629/knn-k-nearest-neighbors-classification-4ha1)
+- [7 Simple Strategies to Increase your Productivity as a Developer](https://dev.to/onlydevs_/7-simple-strategies-to-increase-your-productivity-as-a-developer-46b3)
+- [Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥](https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734)
 - [Scalable Websocket Server Implemented by ChatGPT](https://dev.to/nooptoday/scalable-websocket-server-implemented-by-chatgpt-15p1)
-- [JS game engine update, Kaboom 3000 beta released](https://dev.to/ogrotten/js-game-engine-update-kaboom-3000-beta-released-4c88)
-- [The joy, the pride and the burden of maintaining open source](https://dev.to/adrai/the-joy-the-pride-and-the-burden-of-maintaining-open-source-1odd)
-- [Creating Great Authentication Experiences with Custom UI](https://dev.to/supertokens/creating-great-authentication-experiences-with-custom-ui-4cdb)
 <!-- BLOG-POST-LIST:END -->
 
