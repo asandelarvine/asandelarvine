@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Remix with Flowbite and Tailwind CSS](https://dev.to/themesberg/how-to-install-remix-with-flowbite-and-tailwind-css-49b3)
+- [Hyperparameter Optimisation for Machine Learning - Bayesian Optimisation](https://dev.to/meetkern/hyperparameter-optimisation-for-machine-learning-bayesian-optimisation-2nd1)
+- [Netlify Acquires GatsbyJS](https://dev.to/erinposting/netlify-acquires-gatsbyjs-4c74)
 - [5 Free Trivia API&#39;s to create your own quiz app](https://dev.to/keracudmore/5-free-trivia-apis-to-create-your-own-quiz-app-3286)
-- [Convert Your Blogs to Awesome Video Like a Pro 😎 with Zero Editing Skills](https://dev.to/varshithvhegde/convert-your-blogs-to-awesome-video-like-a-pro-with-zero-editing-skills-1lh6)
-- [Integrity Check using PGP for JMeter](https://dev.to/qainsights/integrity-check-using-pgp-for-jmeter-37l8)
-- [The Risks of Moving Too Quickly with Serverless Development](https://dev.to/aws-heroes/the-risks-of-moving-too-quickly-with-serverless-development-5d2p)
 <!-- BLOG-POST-LIST:END -->
 
