@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Move files from SSH server to S3 bucket](https://dev.to/aws-builders/move-files-from-ssh-server-to-s3-bucket-18pf)
-- [From Commit to Registry: A Guide to Automate Docker Image Builds with Github Actions](https://dev.to/dhanushreddy29/from-commit-to-registry-a-guide-to-automate-docker-image-builds-with-github-actions-4c6i)
-- [How to become a software developer &lpar;Seriously&rpar;](https://dev.to/heybaldur/how-to-become-a-software-developer-seriously-1dg5)
-- [Allow access to REST API Gateway from specific IP addresses | Whitelist IPs](https://dev.to/aws-builders/allow-access-to-rest-api-gateway-from-specific-ip-addresses-whitelist-ips-l30)
+- [what is a React Hooks?](https://dev.to/shiwani295/what-is-a-react-hooks-4l0o)
+- [Software Development - Everything you need to know about this area!](https://dev.to/albericojr/software-development-everything-you-need-to-know-about-this-area-4lb0)
+- [Algorithm Visualization: An Adventure in Thread Sleeping🔥](https://dev.to/zesta/sleeping-a-thread-in-javascript-i-thought-it-wasnt-possible-2omn)
+- [Our guide to the AWS Security Pillar](https://dev.to/serverlessedge/our-guide-to-the-aws-security-pillar-20a1)
 <!-- BLOG-POST-LIST:END -->
 
