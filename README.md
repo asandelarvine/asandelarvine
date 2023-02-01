@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JS game engine update, Kaboom 3000 beta released](https://dev.to/ogrotten/js-game-engine-update-kaboom-3000-beta-released-4c88)
 - [The joy, the pride and the burden of maintaining open source](https://dev.to/adrai/the-joy-the-pride-and-the-burden-of-maintaining-open-source-1odd)
 - [Weekly web development resources #135](https://dev.to/vincenius/weekly-web-development-resources-135-5d6k)
-- [10 GitHub repositories you must know as a JavaScript developer](https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d)
-- [Comparing Kubernetes Gateway and Ingress APIs](https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj)
+- [Typescript para desarrolladores de Angular](https://dev.to/miasalazar/typescript-para-desarrolladores-de-angular-111o)
 <!-- BLOG-POST-LIST:END -->
 
