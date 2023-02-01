@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Help reducing Firebase Realtime Database Download](https://dev.to/hyunseunglee2008/help-reducing-firebase-realtime-database-download-16l8)
+- [January Stripe Developer Digest](https://dev.to/stripe/january-stripe-developer-digest-m5d)
+- [How install Cloud SDK Docker image from GCP?](https://dev.to/xlmriosx/how-install-cloud-sdk-docker-image-in-gcp-4mep)
 - [#DEVDiscuss: to Specialize or to Generalize?](https://dev.to/devteam/devdiscuss-to-specialize-or-to-generalize-46lj)
-- [Garden.io: what is it and why should you be using it? 🪴](https://dev.to/bcostaaa01/gardenio-what-is-it-and-why-should-you-be-using-it-4m7g)
-- [Creating Custom API Endpoints in Salesforce with Apex](https://dev.to/salesforcedevs/creating-custom-api-endpoints-in-salesforce-with-apex-2kj3)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3id8)
 <!-- BLOG-POST-LIST:END -->
 
