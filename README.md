@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Autocomplete and Artificial Intelligence in your Terminal](https://dev.to/this-is-learning/autocomplete-and-artificial-intelligence-in-your-terminal-27fc)
 - [Prompt-driven search with LLMs](https://dev.to/neuml/prompt-driven-search-with-llms-4d07)
 - [Demystification of JavaScript Code processing using V8 as the targeted engine 🔬](https://dev.to/emmanuelonah/demystification-of-javascript-code-processing-using-v8-as-the-targeted-engine-1k4a)
-- [Month 2 of Job Searching Begins...](https://dev.to/taepal467/month-2-of-job-searching-begins-1lc9)
-- [Fully remote companies are better than hybrid](https://dev.to/aha/fully-remote-companies-are-better-than-hybrid-4f53)
+- [JavaScript Data Types](https://dev.to/catherineisonline/javascript-data-types-5ec5)
 <!-- BLOG-POST-LIST:END -->
 
