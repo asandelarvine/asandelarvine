@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KNN &lpar;K-nearest neighbors&rpar; Classification](https://dev.to/anurag629/knn-k-nearest-neighbors-classification-4ha1)
-- [7 Simple Strategies to Increase your Productivity as a Developer](https://dev.to/onlydevs_/7-simple-strategies-to-increase-your-productivity-as-a-developer-46b3)
-- [Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥](https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734)
-- [Scalable Websocket Server Implemented by ChatGPT](https://dev.to/nooptoday/scalable-websocket-server-implemented-by-chatgpt-15p1)
+- [Move files from SSH server to S3 bucket](https://dev.to/aws-builders/move-files-from-ssh-server-to-s3-bucket-18pf)
+- [From Commit to Registry: A Guide to Automate Docker Image Builds with Github Actions](https://dev.to/dhanushreddy29/from-commit-to-registry-a-guide-to-automate-docker-image-builds-with-github-actions-4c6i)
+- [How to become a software developer &lpar;Seriously&rpar;](https://dev.to/heybaldur/how-to-become-a-software-developer-seriously-1dg5)
+- [Allow access to REST API Gateway from specific IP addresses | Whitelist IPs](https://dev.to/aws-builders/allow-access-to-rest-api-gateway-from-specific-ip-addresses-whitelist-ips-l30)
 <!-- BLOG-POST-LIST:END -->
 
