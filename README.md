@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Risks of Moving Too Quickly with Serverless Development](https://dev.to/aws-heroes/the-risks-of-moving-too-quickly-with-serverless-development-5d2p)
+- [My Favorite Free System Design Courses and Tutorials](https://dev.to/javinpaul/my-favorite-free-system-design-courses-and-tutorials-52af)
 - [Devops React : We can be Heroes, just for one app](https://dev.to/m4dz/devops-react-we-can-be-heroes-just-for-one-app-36ab)
-- [Easily deploy your portfolio website with AWS CDK 🚀](https://dev.to/kumo/easily-deploy-your-portfolio-website-with-aws-cdk-4l9b)
-- [This Week In React #133: Astro, React dying?, Qwikify, CRA, Next.js, Remix, Redux, Storybook, Redwood, Nextra, React-Native...](https://dev.to/sebastienlorber/this-week-in-react-133-astro-react-dying-qwikify-cra-nextjs-remix-redux-storybook-redwood-nextra-react-native-1a79)
-- [Introducing Rubberduck 1.0: AI Chat in Visual Studio Code](https://dev.to/lgrammel/introducing-rubberduck-10-ai-chat-in-visual-studio-code-2519)
+- [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://dev.to/letswrite/vs-code-pets-bian-xie-cheng-shi-bian-yang-zhi-liao-yu-xiao-chong-wu-ba-1p3k)
 <!-- BLOG-POST-LIST:END -->
 
