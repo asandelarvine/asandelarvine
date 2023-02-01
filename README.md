@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Fully remote companies are better than hybrid](https://dev.to/aha/fully-remote-companies-are-better-than-hybrid-4f53)
+- [Would you go for mobile development again, after 10 years of doing it?](https://dev.to/asvid/would-you-go-for-mobile-development-again-after-10-years-of-doing-it-oie)
 - [What is AWS EKS](https://dev.to/roy8/what-is-aws-eks-2df9)
 - [ReactJS Pagination Component](https://dev.to/cleveroscar/pagination-reactjs-1ne)
-- [No AI Needed! 7 Proven Time-Saving Apps and tools To Turn Every Front-End Developer &amp; Designer into a Design Ninja 🎨🥷🏽! Part One](https://dev.to/ramziosta/no-ai-needed-7-proven-time-saving-apps-and-tools-to-turn-every-front-end-developer-designer-into-a-design-ninja-part-one-5fai)
 <!-- BLOG-POST-LIST:END -->
 
