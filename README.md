@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The joy, the pride and the burden of maintaining open source](https://dev.to/adrai/the-joy-the-pride-and-the-burden-of-maintaining-open-source-1odd)
+- [Weekly web development resources #135](https://dev.to/vincenius/weekly-web-development-resources-135-5d6k)
 - [10 GitHub repositories you must know as a JavaScript developer](https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d)
 - [Comparing Kubernetes Gateway and Ingress APIs](https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj)
-- [Help reducing Firebase Realtime Database Download](https://dev.to/hyunseunglee2008/help-reducing-firebase-realtime-database-download-16l8)
-- [January Stripe Developer Digest](https://dev.to/stripe/january-stripe-developer-digest-m5d)
 <!-- BLOG-POST-LIST:END -->
 
