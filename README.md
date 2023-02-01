@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt-driven search with LLMs](https://dev.to/neuml/prompt-driven-search-with-llms-4d07)
+- [Demystification of JavaScript Code processing using V8 as the targeted engine 🔬](https://dev.to/emmanuelonah/demystification-of-javascript-code-processing-using-v8-as-the-targeted-engine-1k4a)
+- [Month 2 of Job Searching Begins...](https://dev.to/taepal467/month-2-of-job-searching-begins-1lc9)
 - [Fully remote companies are better than hybrid](https://dev.to/aha/fully-remote-companies-are-better-than-hybrid-4f53)
-- [Would you go for mobile development again, after 10 years of doing it?](https://dev.to/asvid/would-you-go-for-mobile-development-again-after-10-years-of-doing-it-oie)
-- [What is AWS EKS](https://dev.to/roy8/what-is-aws-eks-2df9)
-- [ReactJS Pagination Component](https://dev.to/cleveroscar/pagination-reactjs-1ne)
 <!-- BLOG-POST-LIST:END -->
 
