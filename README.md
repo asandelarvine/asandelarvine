@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 GitHub repositories you must know as a JavaScript developer](https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d)
 - [Comparing Kubernetes Gateway and Ingress APIs](https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj)
 - [Help reducing Firebase Realtime Database Download](https://dev.to/hyunseunglee2008/help-reducing-firebase-realtime-database-download-16l8)
 - [January Stripe Developer Digest](https://dev.to/stripe/january-stripe-developer-digest-m5d)
-- [How install Cloud SDK Docker image from GCP?](https://dev.to/xlmriosx/how-install-cloud-sdk-docker-image-in-gcp-4mep)
 <!-- BLOG-POST-LIST:END -->
 
