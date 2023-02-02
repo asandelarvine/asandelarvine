@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter charging for API usage starting Feb. 9th](https://dev.to/nickytonline/twitter-charging-for-api-usage-starting-feb-9th-713)
+- [8 Tips to Optimize Internal Search in Ecommerce Websites](https://dev.to/medusajs/8-tips-to-optimize-internal-search-in-ecommerce-websites-1h8a)
+- [FluentD vs FluentBit - Which log collector to choose?](https://dev.to/signoz/fluentd-vs-fluentbit-which-log-collector-to-choose-4md1)
 - [How I made a GPT-3 Chrome Extension and earned $1143 in 2 weeks](https://dev.to/serjobas/how-i-made-a-gpt-3-chrome-extension-and-earned-1143-in-2-weeks-2eg)
-- [Best Practices for Utility-First CSS](https://dev.to/machy8/best-practices-for-utility-first-css-mod)
-- [Stop being scared of InjectionTokens](https://dev.to/this-is-angular/stop-being-scared-of-injectiontokens-2406)
-- [how to fix the “command not found” error](https://dev.to/howtouselinux/how-to-fix-the-command-not-found-error-43nb)
 <!-- BLOG-POST-LIST:END -->
 
