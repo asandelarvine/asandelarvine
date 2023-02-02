@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I made a GPT-3 Chrome Extension and earned $1143 in 2 weeks](https://dev.to/serjobas/how-i-made-a-gpt-3-chrome-extension-and-earned-1143-in-2-weeks-2eg)
+- [Best Practices for Utility-First CSS](https://dev.to/machy8/best-practices-for-utility-first-css-mod)
 - [Stop being scared of InjectionTokens](https://dev.to/this-is-angular/stop-being-scared-of-injectiontokens-2406)
 - [how to fix the “command not found” error](https://dev.to/howtouselinux/how-to-fix-the-command-not-found-error-43nb)
-- [The Sass Blueprint](https://dev.to/anujnegi_/the-sass-blueprint-4hb5)
-- [1Password CLI, AWS and Terraform](https://dev.to/johnmccuk/1password-cli-aws-and-terraform-5g30)
 <!-- BLOG-POST-LIST:END -->
 
