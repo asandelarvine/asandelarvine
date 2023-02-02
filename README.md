@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 best GitHub repos for developers ✅](https://dev.to/mariamarsh/10-best-github-repos-for-developers-5gmp)
+- [What&#39;s the meaning of .PHONY in a Makefile?](https://dev.to/alexandrunastase/whats-the-meaning-of-phony-in-a-makefile-406k)
+- [Twitter to revoke free access to the Twitter API beginning Feb 9](https://dev.to/erinposting/twitter-to-revoke-free-access-to-the-twitter-api-beginning-feb-9-4ahg)
 - [You are probably testing wrong](https://dev.to/wparad/you-are-probably-testing-wrong-4il3)
-- [Who likes stickers more? Software developers/computing professionals or five-year-olds? And why?](https://dev.to/cicirello/who-likes-stickers-more-software-developerscomputing-professionals-or-five-year-olds-and-why-4a9k)
-- [Implement Single Sign On in Medusa](https://dev.to/carpad88/implement-single-sign-on-in-medusa-3284)
-- [Why we built a Rust-powered desktop app for previewing documentation](https://dev.to/doctave/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation-29nd)
 <!-- BLOG-POST-LIST:END -->
 
