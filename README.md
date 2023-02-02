@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Made Simple](https://dev.to/anuoluwapods/sql-made-simple-h91)
 - [Celebrate Black History Month by Donating to These 10 Organizations!](https://dev.to/devteam/celebrate-black-history-month-by-donating-to-these-10-organizations-104i)
 - [Updates from the 94th TC39 meeting](https://dev.to/hemanth/updates-from-the-94th-tc39-meeting-48mb)
 - [Testing your Flutter app](https://dev.to/matteuus/testing-your-flutter-app-ao0)
-- [How to fix &quot;SyntaxError: cannot assign to function call here&quot; in Python](https://dev.to/lavary/how-to-fix-syntaxerror-cannot-assign-to-function-call-here-in-python-1fdo)
 <!-- BLOG-POST-LIST:END -->
 
