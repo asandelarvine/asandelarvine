@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Fast-Api 🏎️ and Docker🐳](https://dev.to/ken_mwaura1/getting-started-with-fast-api-and-docker-515)
+- [💻 7 Tips for Writing Clean and Efficient React Code](https://dev.to/naubit/7-tips-for-writing-clean-and-efficient-react-code-34e7)
+- [Netlify Deployment error Fix: &#39;Treating warnings as errors because process.env.CI=true&#39;](https://dev.to/ifeoma/netlify-deployment-error-fix-treating-warnings-as-errors-because-processenvcitrue-3kje)
 - [SQL Made Simple](https://dev.to/anuoluwapods/sql-made-simple-h91)
-- [Celebrate Black History Month by Donating to These 10 Organizations!](https://dev.to/devteam/celebrate-black-history-month-by-donating-to-these-10-organizations-104i)
-- [Updates from the 94th TC39 meeting](https://dev.to/hemanth/updates-from-the-94th-tc39-meeting-48mb)
-- [Testing your Flutter app](https://dev.to/matteuus/testing-your-flutter-app-ao0)
 <!-- BLOG-POST-LIST:END -->
 
