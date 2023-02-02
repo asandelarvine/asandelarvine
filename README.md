@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [sbomqs, and open source tools to quality check your SBOMS](https://dev.to/aws/sbomqs-and-open-source-tools-to-quality-check-your-sboms-1hhb)
+- [How to fix &quot;SyntaxError: cannot assign to function call here&quot; in Python](https://dev.to/lavary/how-to-fix-syntaxerror-cannot-assign-to-function-call-here-in-python-1fdo)
+- [Why setup is important as software developer](https://dev.to/svenherr/why-setup-is-important-as-software-developer-4295)
+- [sbomqs, an open source tool to quality check your SBOMS](https://dev.to/aws/sbomqs-and-open-source-tools-to-quality-check-your-sboms-1hhb)
 - [How to Implement an Autocomplete Typeahead Search Feature in Laravel](https://dev.to/kkumargcc/how-to-implement-an-autocomplete-typeahead-search-feature-in-laravel-1me6)
-- [Introducing Avatarify AI: the AI-powered profile photo generator](https://dev.to/epavanello/introducing-avatarify-ai-the-ai-powered-profile-photo-generator-4j73)
-- [Created A AI-Powered Solution For E-commerce Products](https://dev.to/namanvyas/created-a-ai-powered-solution-for-e-commerce-products-19j)
 <!-- BLOG-POST-LIST:END -->
 
