@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HarperDB: Staking a Claim as the Only Globally Distributed Edge Data Platform](https://dev.to/harperdb/harperdb-staking-a-claim-as-the-only-globally-distributed-edge-data-platform-44a2)
+- [24 Inspiring Shopify Examples to Get You Excited in 2023](https://dev.to/dsalinasgardon/24-inspiring-shopify-examples-to-get-you-excited-in-2023-251a)
 - [10 best GitHub repos for developers ✅](https://dev.to/mariamarsh/10-best-github-repos-for-developers-5gmp)
 - [What&#39;s the meaning of .PHONY in a Makefile?](https://dev.to/alexandrunastase/whats-the-meaning-of-phony-in-a-makefile-406k)
-- [Twitter to revoke free access to the Twitter API beginning Feb 9](https://dev.to/erinposting/twitter-to-revoke-free-access-to-the-twitter-api-beginning-feb-9-4ahg)
-- [You are probably testing wrong](https://dev.to/wparad/you-are-probably-testing-wrong-4il3)
 <!-- BLOG-POST-LIST:END -->
 
