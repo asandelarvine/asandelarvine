@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Spread Operator&lpar;...&rpar; in JavaScript](https://dev.to/brandonbawe/understanding-the-spread-operator-in-javascript-4pg6)
 - [Is Low-Code/No-Code the Future? 5 Most Important Trends](https://dev.to/stratoflow/is-low-codeno-code-the-future-5-most-important-trends-4can)
+- [What are contexts in flutter?](https://dev.to/shanshaji/what-are-contexts-in-flutter-5735)
 - [Highly Effective 7 Habits for Developers](https://dev.to/said7388/highly-effective-7-habits-for-developers-50c2)
-- [22 Best DataOps Tools To Optimize Your Data Management and Observability In 2023](https://dev.to/chaos-genius/22-best-dataops-tools-to-optimize-your-data-management-and-observability-in-2023-1ooc)
-- [10 things about AWS CDK](https://dev.to/aws-builders/10-things-about-aws-cdk-3cg8)
 <!-- BLOG-POST-LIST:END -->
 
