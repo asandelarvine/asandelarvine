@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Avatarify AI: the AI-powered profile photo generator](https://dev.to/epavanello/introducing-avatarify-ai-the-ai-powered-profile-photo-generator-4j73)
+- [Created A AI-Powered Solution For E-commerce Products](https://dev.to/namanvyas/created-a-ai-powered-solution-for-e-commerce-products-19j)
+- [¿Qué tanto sabemos de Agile? Conceptos claves y el porqué funcionan.](https://dev.to/rootstrap/que-tanto-sabemos-de-agile-conceptos-claves-y-el-porque-funcionan-199c)
 - [HarperDB: Staking a Claim as the Only Globally Distributed Edge Data Platform](https://dev.to/harperdb/harperdb-staking-a-claim-as-the-only-globally-distributed-edge-data-platform-44a2)
-- [24 Inspiring Shopify Examples to Get You Excited in 2023](https://dev.to/dsalinasgardon/24-inspiring-shopify-examples-to-get-you-excited-in-2023-251a)
-- [10 best GitHub repos for developers ✅](https://dev.to/mariamarsh/10-best-github-repos-for-developers-5gmp)
-- [What&#39;s the meaning of .PHONY in a Makefile?](https://dev.to/alexandrunastase/whats-the-meaning-of-phony-in-a-makefile-406k)
 <!-- BLOG-POST-LIST:END -->
 
