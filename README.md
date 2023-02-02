@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping With Puppeteer for Total Noobs: Part 2](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-2-3on8)
+- [🛣O Guia Definitivo para Rotas com React Router](https://dev.to/mpetry/o-guia-definitivo-para-rotas-com-react-router-4n5h)
 - [Server Environments](https://dev.to/eyassh/server-environments-2m83)
 - [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
-- [How to remove unwanted files in a commit but still keep it locally](https://dev.to/elukuro/how-to-remove-unwanted-files-in-a-commit-but-still-keep-it-locally-2nh)
-- [🚀 5 Advanced ES6 Features Every JavaScript Developer Should Master](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)
 <!-- BLOG-POST-LIST:END -->
 
