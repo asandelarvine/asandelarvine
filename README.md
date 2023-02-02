@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Draggable and DragTarget to Create Drag and Drop UI Elements in Flutter?](https://dev.to/kuldeeptarapara/how-to-use-draggable-and-dragtarget-to-create-drag-and-drop-ui-elements-in-flutter-1d88)
-- [Portfolio website for the developer](https://dev.to/said7388/portfolio-website-for-the-developer-3i05)
-- [When she marries one of you!](https://dev.to/niza/when-she-marries-one-of-you-9ip)
-- [Build a responsive three columns chat layout with HTML/CSS/JS](https://dev.to/dom_the_dev/build-a-responsive-three-columns-chat-layout-with-htmlcssjs-29j9)
+- [The Advantage of ANDROID APP BUNDLE &lpar;AAB&rpar; and Its Test Method](https://dev.to/teamliapp/the-advantage-of-android-app-bundle-aab-and-its-test-method-29db)
+- [Rails Model Validation: A Comprehensive Guide with Code Examples](https://dev.to/daviducolo/rails-model-validation-a-comprehensive-guide-with-code-examples-21mh)
+- [🤔 Suggest me the Tech Stack for 🌐 Browsemates](https://dev.to/rajeshj3/suggest-me-the-tech-stack-for-browsemates-3ac5)
+- [Predicting Diabetes Outcomes with Logistic Regression: A Hands-On Guide](https://dev.to/anurag629/predicting-diabetes-outcomes-with-logistic-regression-a-hands-on-guide-44e5)
 <!-- BLOG-POST-LIST:END -->
 
