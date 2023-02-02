@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [sbomqs, and open source tools to quality check your SBOMS](https://dev.to/aws/sbomqs-and-open-source-tools-to-quality-check-your-sboms-1hhb)
+- [How to Implement an Autocomplete Typeahead Search Feature in Laravel](https://dev.to/kkumargcc/how-to-implement-an-autocomplete-typeahead-search-feature-in-laravel-1me6)
 - [Introducing Avatarify AI: the AI-powered profile photo generator](https://dev.to/epavanello/introducing-avatarify-ai-the-ai-powered-profile-photo-generator-4j73)
 - [Created A AI-Powered Solution For E-commerce Products](https://dev.to/namanvyas/created-a-ai-powered-solution-for-e-commerce-products-19j)
-- [¿Qué tanto sabemos de Agile? Conceptos claves y el porqué funcionan.](https://dev.to/rootstrap/que-tanto-sabemos-de-agile-conceptos-claves-y-el-porque-funcionan-199c)
-- [HarperDB: Staking a Claim as the Only Globally Distributed Edge Data Platform](https://dev.to/harperdb/harperdb-staking-a-claim-as-the-only-globally-distributed-edge-data-platform-44a2)
 <!-- BLOG-POST-LIST:END -->
 
