@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Spread Operator&lpar;...&rpar; in JavaScript](https://dev.to/brandonbawe/understanding-the-spread-operator-in-javascript-4pg6)
-- [Is Low-Code/No-Code the Future? 5 Most Important Trends](https://dev.to/stratoflow/is-low-codeno-code-the-future-5-most-important-trends-4can)
-- [What are contexts in flutter?](https://dev.to/shanshaji/what-are-contexts-in-flutter-5735)
-- [Highly Effective 7 Habits for Developers](https://dev.to/said7388/highly-effective-7-habits-for-developers-50c2)
+- [Stop being scared of InjectionTokens](https://dev.to/this-is-angular/stop-being-scared-of-injectiontokens-2406)
+- [how to fix the “command not found” error](https://dev.to/howtouselinux/how-to-fix-the-command-not-found-error-43nb)
+- [The Sass Blueprint](https://dev.to/anujnegi_/the-sass-blueprint-4hb5)
+- [1Password CLI, AWS and Terraform](https://dev.to/johnmccuk/1password-cli-aws-and-terraform-5g30)
 <!-- BLOG-POST-LIST:END -->
 
