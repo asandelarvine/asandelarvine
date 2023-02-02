@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microcontroller evaluation board designed with STM32F207IGH6](https://dev.to/erintse01/microcontroller-evaluation-board-designed-with-stm32f207igh6-20e1)
+- [DevOps](https://dev.to/abhixsh/devops-1h3f)
 - [Web Scraping With Puppeteer for Total Noobs: Part 2](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-2-3on8)
-- [🛣O Guia Definitivo para Rotas com React Router](https://dev.to/mpetry/o-guia-definitivo-para-rotas-com-react-router-4n5h)
-- [Server Environments](https://dev.to/eyassh/server-environments-2m83)
-- [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
+- [DorisSummit2022: MPP Query Execution Model&amp;Vectorized Execution&amp;Adaptive Execution&amp;Memory Management](https://dev.to/selectdb/dorissummit2022-mpp-query-execution-modelvectorized-executionadaptive-executionmemory-management-639)
 <!-- BLOG-POST-LIST:END -->
 
