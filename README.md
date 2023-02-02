@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter charging for API usage starting Feb. 9th](https://dev.to/nickytonline/twitter-charging-for-api-usage-starting-feb-9th-713)
-- [8 Tips to Optimize Internal Search in Ecommerce Websites](https://dev.to/medusajs/8-tips-to-optimize-internal-search-in-ecommerce-websites-1h8a)
-- [FluentD vs FluentBit - Which log collector to choose?](https://dev.to/signoz/fluentd-vs-fluentbit-which-log-collector-to-choose-4md1)
-- [How I made a GPT-3 Chrome Extension and earned $1143 in 2 weeks](https://dev.to/serjobas/how-i-made-a-gpt-3-chrome-extension-and-earned-1143-in-2-weeks-2eg)
+- [You are probably testing wrong](https://dev.to/wparad/you-are-probably-testing-wrong-4il3)
+- [Who likes stickers more? Software developers/computing professionals or five-year-olds? And why?](https://dev.to/cicirello/who-likes-stickers-more-software-developerscomputing-professionals-or-five-year-olds-and-why-4a9k)
+- [Implement Single Sign On in Medusa](https://dev.to/carpad88/implement-single-sign-on-in-medusa-3284)
+- [Why we built a Rust-powered desktop app for previewing documentation](https://dev.to/doctave/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation-29nd)
 <!-- BLOG-POST-LIST:END -->
 
