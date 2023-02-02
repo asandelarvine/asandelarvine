@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Server Environments](https://dev.to/eyassh/server-environments-2m83)
+- [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
+- [How to remove unwanted files in a commit but still keep it locally](https://dev.to/elukuro/how-to-remove-unwanted-files-in-a-commit-but-still-keep-it-locally-2nh)
 - [🚀 5 Advanced ES6 Features Every JavaScript Developer Should Master](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)
-- [How to create a beating heart with pure CSS for your valentine ♥](https://dev.to/dimeloper/how-to-create-a-beating-heart-with-pure-css-for-your-valentine-4pe6)
-- [🚀 20 Engineering Blogs from Product companies &lpar;Meta, Uber, Stripe&rpar;](https://dev.to/alexr/20-engineering-blogs-from-product-companies-meta-uber-stripe-1lck)
-- [ReactJS 101: A Beginner’s Guide to Building Reusable Components, Managing State, and Creating Real-World Applications](https://dev.to/esmat0100/reactjs-101-a-beginners-guide-to-building-reusable-components-managing-state-and-creating-real-world-applications-534a)
 <!-- BLOG-POST-LIST:END -->
 
