@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create your own ChatGPT &lpar;ish&rpar; in 5 minutes](https://dev.to/polterguy/how-to-create-your-own-chatgpt-ish-in-5-minutes-425g)
+- [6 Tips to Use SSH Client Effectively For Connecting To Linux Servers](https://dev.to/hadisamadzad/6-tips-to-use-ssh-client-effectively-for-connecting-to-linux-servers-2fok)
+- [ChatGPT: The Most Advanced AI Chatbot in 2023](https://dev.to/infomentry/chatgpt-the-most-advanced-ai-chatbot-in-2023-e39)
 - [How to fix &quot;can only concatenate str &lpar;not “bool”&rpar; to str&quot; in Python](https://dev.to/lavary/how-to-fix-can-only-concatenate-str-not-bool-to-str-in-python-cd5)
-- [How to fix &quot;can only concatenate str &lpar;not “int”&rpar; to str&quot; in Python](https://dev.to/lavary/how-to-fix-can-only-concatenate-str-not-int-to-str-in-python-46dg)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-19pe)
-- [ES Modules and CommonJS: An Overview](https://dev.to/costamatheus97/es-modules-and-commonjs-an-overview-1i4b)
 <!-- BLOG-POST-LIST:END -->
 
