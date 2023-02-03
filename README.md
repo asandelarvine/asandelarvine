@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how to fix &quot;‘int’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-int-object-is-not-callable-in-python-dpp)
-- [How to fix “TypeError: ‘float’ object is not callable” in Python](https://dev.to/lavary/how-to-fix-typeerror-float-object-is-not-callable-in-python-55ng)
-- [How to fix &quot;‘str’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-str-object-is-not-callable-in-python-45jm)
-- [How to fix &quot;‘list’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-list-object-is-not-callable-in-python-6fj)
+- [Top 5+ Free Chakra UI Admin Dashboards &amp; Templates for 2023](https://dev.to/fredy/top-5-free-chakra-ui-admin-dashboards-templates-for-2023-kgp)
+- [Unlock the Power of Google: Advanced Search Techniques for Better Results😈](https://dev.to/arafat4693/unlock-the-power-of-google-advanced-search-techniques-for-better-results-dnb)
+- [What is react-testing-library and what is it used for?](https://dev.to/jordandev/what-is-react-testing-library-and-what-is-it-used-for-1jp4)
+- [Production-Ready AWS CloudFront for SPA](https://dev.to/roman_abdulmanov/production-ready-aws-cloudfront-for-spa-2gm3)
 <!-- BLOG-POST-LIST:END -->
 
