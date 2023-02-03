@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Verifying My OpenPGP Key](https://dev.to/bonychops/verifying-my-openpgp-key-29jm)
 - [How To Write A Programming Language](https://dev.to/____marcell/how-to-write-a-programming-language-1o99)
 - [The Rise of Vector Search w/ Pinecone Founder &amp; CEO, Edo Liberty](https://dev.to/linearb/the-rise-of-vector-search-w-pinecone-founder-ceo-edo-liberty-gb7)
 - [Getting Started with Fast-Api 🏎️ and Docker🐳](https://dev.to/ken_mwaura1/getting-started-with-fast-api-and-docker-515)
-- [💻 7 Tips for Writing Clean and Efficient React Code](https://dev.to/naubit/7-tips-for-writing-clean-and-efficient-react-code-34e7)
 <!-- BLOG-POST-LIST:END -->
 
