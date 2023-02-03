@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A manager&#39;s perspective on getting that promotion](https://dev.to/smeetsmeister/a-managers-perspective-on-getting-that-promotion-450j)
-- [Design Patterns in PHP 8: State](https://dev.to/zhukmax/design-patterns-in-php-8-state-1152)
-- [AI Product Tools: AI Powered Product Tools for your e-commerce&#39;s success](https://dev.to/namanvyas/ai-product-tools-ai-powered-product-toolsfor-your-e-commerces-success-3m3a)
-- [Managing High Performing Engineers](https://dev.to/alexr/managing-high-performing-engineers-1nn1)
+- [7 Small &amp; Underrated React Libraries 🔥](https://dev.to/naubit/7-small-underrated-react-libraries-h54)
+- [stop wasting time on meaningless news!](https://dev.to/norflin321/stop-wasting-time-on-meaningless-news-3bdm)
+- [TIL: Python virtual environments and venv](https://dev.to/joeljuca/til-python-virtual-environments-and-venv-c8e)
+- [The ABCs of TypeScript Generics](https://dev.to/msp99000/the-abcs-of-typescript-generics-2l3n)
 <!-- BLOG-POST-LIST:END -->
 
