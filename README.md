@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Utility Types You Need to Know](https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7)
-- [Unit Testing vs Integration Testing - Key Differences](https://dev.to/alexhyettdev/unit-testing-vs-integration-testing-key-differences-ii4)
-- [How to fix &quot;‘dict’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-dict-object-is-not-callable-in-python-5goa)
-- [How to fix &quot;‘tuple’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-tuple-object-is-not-callable-in-python-1h9n)
+- [How to fix &quot;‘str’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-str-object-is-not-callable-in-python-45jm)
+- [How to fix &quot;‘list’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-list-object-is-not-callable-in-python-6fj)
+- [20 Git Commands That Will Make You a Version Control Pro.](https://dev.to/devland/20-git-commands-that-will-make-you-a-version-control-pro-149p)
+- [Creating and Broadcasting a &quot;LoFi Radio&quot; Station with Amazon IVS](https://dev.to/aws/creating-and-broadcasting-a-lofi-radio-station-with-amazon-ivs-4nk1)
 <!-- BLOG-POST-LIST:END -->
 
