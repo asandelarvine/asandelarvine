@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Verifying My OpenPGP Key](https://dev.to/bonychops/verifying-my-openpgp-key-29jm)
 - [How Express.json&lpar;&rpar; works....](https://dev.to/satyamdcs/how-expressjson-works-1jam)
 - [How To Write A Programming Language](https://dev.to/____marcell/how-to-write-a-programming-language-1o99)
-- [The Rise of Vector Search w/ Pinecone Founder &amp; CEO, Edo Liberty](https://dev.to/linearb/the-rise-of-vector-search-w-pinecone-founder-ceo-edo-liberty-gb7)
+- [I&#39;ve created a full-stack user permission model, should I go open-source?](https://dev.to/aws-builders/ive-created-a-full-stack-user-permission-model-should-i-go-open-source-2bng)
 <!-- BLOG-POST-LIST:END -->
 
