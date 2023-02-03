@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
+- [Hausmeister: Automating Slack Channel Archiving Using GitHub Actions](https://dev.to/frosnerd/hausmeister-automating-slack-channel-archiving-using-github-actions-3e5h)
 - [How to Be a Good Developer: 20 Practical Tips From Our Senior Programmers](https://dev.to/stratoflow/how-to-be-a-good-developer-20-practical-tips-from-our-senior-programmers-3hhp)
 - [General overcoming Procrastination Tips!](https://dev.to/darkxenium/general-overcoming-procrastination-tips-2ean)
-- [Symmetric Difference of Arrays in JavaScript](https://dev.to/zirkelc/symmetric-difference-of-arrays-in-javascript-224f)
-- [Support Vector Machines &lpar;SVM&rpar; Supervised Machine Learning](https://dev.to/anurag629/support-vector-machines-svm-supervised-machine-learning-3lfo)
 <!-- BLOG-POST-LIST:END -->
 
