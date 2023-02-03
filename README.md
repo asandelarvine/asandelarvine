@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5+ Free Chakra UI Admin Dashboards &amp; Templates for 2023](https://dev.to/fredy/top-5-free-chakra-ui-admin-dashboards-templates-for-2023-kgp)
-- [Unlock the Power of Google: Advanced Search Techniques for Better Results😈](https://dev.to/arafat4693/unlock-the-power-of-google-advanced-search-techniques-for-better-results-dnb)
-- [What is react-testing-library and what is it used for?](https://dev.to/jordandev/what-is-react-testing-library-and-what-is-it-used-for-1jp4)
-- [Production-Ready AWS CloudFront for SPA](https://dev.to/roman_abdulmanov/production-ready-aws-cloudfront-for-spa-2gm3)
+- [How to fix &quot;can only concatenate str &lpar;not “bool”&rpar; to str&quot; in Python](https://dev.to/lavary/how-to-fix-can-only-concatenate-str-not-bool-to-str-in-python-cd5)
+- [How to fix &quot;can only concatenate str &lpar;not “int”&rpar; to str&quot; in Python](https://dev.to/lavary/how-to-fix-can-only-concatenate-str-not-int-to-str-in-python-46dg)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-19pe)
+- [ES Modules and CommonJS: An Overview](https://dev.to/costamatheus97/es-modules-and-commonjs-an-overview-1i4b)
 <!-- BLOG-POST-LIST:END -->
 
