@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix &quot;‘dict’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-dict-object-is-not-callable-in-python-5goa)
+- [How to fix &quot;‘tuple’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-tuple-object-is-not-callable-in-python-1h9n)
+- [Build a CPM Calculator App with Next.js 13, TypeScript &amp; Tailwind CSS](https://dev.to/codeofrelevancy/build-a-cpm-calculator-app-with-nextjs-13-typescript-tailwind-css-4lb2)
 - [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
-- [Hausmeister: Automating Slack Channel Archiving Using GitHub Actions](https://dev.to/frosnerd/hausmeister-automating-slack-channel-archiving-using-github-actions-3e5h)
-- [How to Be a Good Developer: 20 Practical Tips From Our Senior Programmers](https://dev.to/stratoflow/how-to-be-a-good-developer-20-practical-tips-from-our-senior-programmers-3hhp)
-- [General overcoming Procrastination Tips!](https://dev.to/darkxenium/general-overcoming-procrastination-tips-2ean)
 <!-- BLOG-POST-LIST:END -->
 
