@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns in PHP 8: State](https://dev.to/zhukmax/design-patterns-in-php-8-state-1152)
+- [AI Product Tools: AI Powered Product Tools for your e-commerce&#39;s success](https://dev.to/namanvyas/ai-product-tools-ai-powered-product-toolsfor-your-e-commerces-success-3m3a)
+- [Managing High Performing Engineers](https://dev.to/alexr/managing-high-performing-engineers-1nn1)
 - [PagerDuty Community Update, February 3, 2023](https://dev.to/pdcommunity/pagerduty-community-update-february-3-2023-1gi6)
-- [The = operator is an imposter ඞ](https://dev.to/st1llwater/the-operator-is-an-imposter-ng-1jpk)
-- [Micro SaaS Benefits](https://dev.to/rickblyth/micro-saas-benefits-12i1)
-- [How to Create your own ChatGPT &lpar;ish&rpar; in 5 minutes](https://dev.to/polterguy/how-to-create-your-own-chatgpt-ish-in-5-minutes-425g)
 <!-- BLOG-POST-LIST:END -->
 
