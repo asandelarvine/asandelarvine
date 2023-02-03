@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Utility Types You Need to Know](https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7)
+- [Unit Testing vs Integration Testing - Key Differences](https://dev.to/alexhyettdev/unit-testing-vs-integration-testing-key-differences-ii4)
 - [How to fix &quot;‘dict’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-dict-object-is-not-callable-in-python-5goa)
 - [How to fix &quot;‘tuple’ object is not callable&quot; in Python](https://dev.to/lavary/how-to-fix-tuple-object-is-not-callable-in-python-1h9n)
-- [Build a CPM Calculator App with Next.js 13, TypeScript &amp; Tailwind CSS](https://dev.to/codeofrelevancy/build-a-cpm-calculator-app-with-nextjs-13-typescript-tailwind-css-4lb2)
-- [Dependency Inversion Principle with TypeScript Interfaces &amp; Decorators](https://dev.to/mbarzeev/dependency-inversion-principle-with-typescript-interfaces-decorators-2fd6)
 <!-- BLOG-POST-LIST:END -->
 
