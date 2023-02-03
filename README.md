@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your first WebSockets-based application in NestJS](https://dev.to/leduc1901/create-your-first-websockets-based-application-in-nestjs-2hp)
+- [React: Everything You Need to Know](https://dev.to/onlydevs_/react-everything-you-need-to-know-2n0)
 - [Verifying My OpenPGP Key](https://dev.to/bonychops/verifying-my-openpgp-key-29jm)
 - [How Express.json&lpar;&rpar; works....](https://dev.to/satyamdcs/how-expressjson-works-1jam)
-- [How To Write A Programming Language](https://dev.to/____marcell/how-to-write-a-programming-language-1o99)
-- [I&#39;ve created a full-stack user permission model, should I go open-source?](https://dev.to/aws-builders/ive-created-a-full-stack-user-permission-model-should-i-go-open-source-2bng)
 <!-- BLOG-POST-LIST:END -->
 
