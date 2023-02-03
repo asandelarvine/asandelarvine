@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A manager&#39;s perspective on getting that promotion](https://dev.to/smeetsmeister/a-managers-perspective-on-getting-that-promotion-450j)
 - [Design Patterns in PHP 8: State](https://dev.to/zhukmax/design-patterns-in-php-8-state-1152)
 - [AI Product Tools: AI Powered Product Tools for your e-commerce&#39;s success](https://dev.to/namanvyas/ai-product-tools-ai-powered-product-toolsfor-your-e-commerces-success-3m3a)
 - [Managing High Performing Engineers](https://dev.to/alexr/managing-high-performing-engineers-1nn1)
-- [PagerDuty Community Update, February 3, 2023](https://dev.to/pdcommunity/pagerduty-community-update-february-3-2023-1gi6)
 <!-- BLOG-POST-LIST:END -->
 
