@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Netlify Redirects with Astro](https://dev.to/cassidoo/setting-up-netlify-redirects-with-astro-426g)
+- [Web Scraping vs. Crawling: What’s the Difference?](https://dev.to/smsp/web-scraping-vs-crawling-whats-the-difference-h7c)
+- [Implementing Deep Links in React with Atoms](https://dev.to/sematic/implementing-deep-links-in-react-with-atoms-289d)
 - [7 Small &amp; Underrated React Libraries 🔥](https://dev.to/naubit/7-small-underrated-react-libraries-h54)
-- [stop wasting time on meaningless news!](https://dev.to/norflin321/stop-wasting-time-on-meaningless-news-3bdm)
-- [TIL: Python virtual environments and venv](https://dev.to/joeljuca/til-python-virtual-environments-and-venv-c8e)
-- [The ABCs of TypeScript Generics](https://dev.to/msp99000/the-abcs-of-typescript-generics-2l3n)
 <!-- BLOG-POST-LIST:END -->
 
