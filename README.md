@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Fiddlehead: A Fast and Lightweight UI Library](https://dev.to/vanquyet/introduction-to-fiddlehead-a-fast-and-lightweight-ui-library-273p)
-- [🔥💻 The Best React Component Libraries](https://dev.to/flatlogic/the-best-react-component-libraries-3pgd)
-- [Auto Dev.to&#39;s posts updater on GitHub readme](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
-- [Why go full-stack in 2023?](https://dev.to/stebunovd/why-go-full-stack-in-2023-4381)
+- [Javascript toLowerCase&lpar;&rpar; - Convert Strings to Lowercase](https://dev.to/smpnjn/javascript-tolowercase-convert-strings-to-lowercase-446i)
+- [How to Check if Object is Empty in JavaScript](https://dev.to/smpnjn/how-to-check-if-object-is-empty-in-javascript-5afl)
+- [Javascript Promise.all&lpar;&rpar; - Everything you need to know](https://dev.to/smpnjn/javascript-promiseall-everything-you-need-to-know-3836)
+- [Javascript innerHTML](https://dev.to/smpnjn/javascript-innerhtml-4lh)
 <!-- BLOG-POST-LIST:END -->
 
