@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [About &quot;can only concatenate str &lpar;not “list”&rpar; to str&quot; in Python](https://dev.to/lavary/about-can-only-concatenate-str-not-list-to-str-in-python-1j88)
+- [My VS Code setup](https://dev.to/j471n/my-vs-code-setup-971)
 - [Intro to React Native: Develop mobile apps](https://dev.to/tusharyaar/intro-to-react-native-develop-mobile-apps-3eon)
-- [How does your team make pizza?](https://dev.to/jastill/how-does-your-team-make-pizza-4977)
-- [I Created An Animated Cheatsheet For CSS Selectors That Went Viral On Social Media 🤯🔥](https://dev.to/rammcodes/i-created-an-animated-cheatsheet-for-css-selectors-that-went-viral-on-social-media-2hm2)
-- [Decision Trees: Advantages, Disadvantages, and Applications](https://dev.to/anurag629/decision-trees-advantages-disadvantages-and-applications-25b2)
+- [5 Tips for learning new technologies and languages as a beginner [2023]](https://dev.to/rosnerdev/5-tips-for-learning-new-technologies-and-languages-as-a-beginner-2023-1lgl)
 <!-- BLOG-POST-LIST:END -->
 
