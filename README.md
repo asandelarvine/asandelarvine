@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
+- [Design Patterns: Factory Method](https://dev.to/damcosset/design-patterns-factory-method-5041)
 - [Convert a dd/mm/yyyy string to a Date object in JavaScript](https://dev.to/lavary/convert-a-ddmmyyyy-string-to-a-date-object-in-javascript-35o3)
 - [About &quot;Await is only valid in Async functions&quot; error in JavaScript](https://dev.to/lavary/about-await-is-only-valid-in-async-functions-error-in-javascript-bmd)
-- [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
 <!-- BLOG-POST-LIST:END -->
 
