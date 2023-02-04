@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your First Port Scanner using Python](https://dev.to/scofieldidehen/build-your-first-port-scanner-using-python-41e0)
+- [Built-in Hooks &lpar;1&rpar;: How to Preserve Component State and Use LifeCycle?](https://dev.to/yukooshima/built-in-hooks-1-how-to-preserve-component-state-and-use-lifecycle-2hch)
 - [Setting up Netlify Redirects with Astro](https://dev.to/cassidoo/setting-up-netlify-redirects-with-astro-426g)
 - [Web Scraping vs. Crawling: What’s the Difference?](https://dev.to/smsp/web-scraping-vs-crawling-whats-the-difference-h7c)
-- [Implementing Deep Links in React with Atoms](https://dev.to/sematic/implementing-deep-links-in-react-with-atoms-289d)
-- [7 Small &amp; Underrated React Libraries 🔥](https://dev.to/naubit/7-small-underrated-react-libraries-h54)
 <!-- BLOG-POST-LIST:END -->
 
