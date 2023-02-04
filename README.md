@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Best Resources to Learn Git Online in 2023](https://dev.to/javinpaul/12-best-resources-to-learn-git-online-in-2023-4apo)
-- [Build Your First Port Scanner using Python](https://dev.to/scofieldidehen/build-your-first-port-scanner-using-python-41e0)
-- [Built-in Hooks &lpar;1&rpar;: How to Preserve Component State and Use LifeCycle?](https://dev.to/yukooshima/built-in-hooks-1-how-to-preserve-component-state-and-use-lifecycle-2hch)
-- [Setting up Netlify Redirects with Astro](https://dev.to/cassidoo/setting-up-netlify-redirects-with-astro-426g)
+- [Swift: Conforming a protocol to a protocol.](https://dev.to/sergeyleschev/swift-conforming-a-protocol-to-a-protocol-pok)
+- [Swift: Associated types. Constraints.](https://dev.to/sergeyleschev/swift-associated-types-constraints-3aj6)
+- [Top Free Photo &amp; Video Editing Apps for 2023](https://dev.to/stephanreynolds/top-free-photo-video-editing-apps-for-2023-naj)
+- [Swift: Associated types. Example.](https://dev.to/sergeyleschev/swift-associated-types-example-51ea)
 <!-- BLOG-POST-LIST:END -->
 
