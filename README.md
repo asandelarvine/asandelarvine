@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [About &quot;can only concatenate str &lpar;not “list”&rpar; to str&quot; in Python](https://dev.to/lavary/about-can-only-concatenate-str-not-list-to-str-in-python-1j88)
-- [My VS Code setup](https://dev.to/j471n/my-vs-code-setup-971)
-- [Intro to React Native: Develop mobile apps](https://dev.to/tusharyaar/intro-to-react-native-develop-mobile-apps-3eon)
-- [5 Tips for learning new technologies and languages as a beginner [2023]](https://dev.to/rosnerdev/5-tips-for-learning-new-technologies-and-languages-as-a-beginner-2023-1lgl)
+- [6 Reasons Mastering Data Structures And Algorithms Is The Fastest Way To Double Your Paycheck And Boost Your Confidence](https://dev.to/gustavupp/6-reasons-mastering-data-structures-and-algorithms-is-the-fastest-way-to-double-your-paycheck-and-boost-your-confidence-127o)
+- [Tips to be a Healthy Developer🧑‍💻](https://dev.to/iarchitsharma/tips-to-be-a-healthy-developer-1bm1)
+- [About &quot;Not all arguments converted during string formatting&quot; error in Python](https://dev.to/lavary/about-not-all-arguments-converted-during-string-formatting-error-in-python-36p7)
+- [Metaverse? What what?](https://dev.to/paweldotio/metaverse-what-what-4kig)
 <!-- BLOG-POST-LIST:END -->
 
