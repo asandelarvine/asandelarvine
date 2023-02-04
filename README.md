@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift 5.7: Regex. Shorthands for optional unwrapping. Unlock existentials for all protocols.](https://dev.to/sergeyleschev/swift-57-regex-shorthands-for-optional-unwrapping-unlock-existentials-for-all-protocols-2o3o)
 - [Swift: Conforming a protocol to a protocol.](https://dev.to/sergeyleschev/swift-conforming-a-protocol-to-a-protocol-pok)
 - [Swift: Associated types. Constraints.](https://dev.to/sergeyleschev/swift-associated-types-constraints-3aj6)
 - [Top Free Photo &amp; Video Editing Apps for 2023](https://dev.to/stephanreynolds/top-free-photo-video-editing-apps-for-2023-naj)
-- [Swift: Associated types. Example.](https://dev.to/sergeyleschev/swift-associated-types-example-51ea)
 <!-- BLOG-POST-LIST:END -->
 
