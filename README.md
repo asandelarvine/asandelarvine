@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Reasons Mastering Data Structures And Algorithms Is The Fastest Way To Double Your Paycheck And Boost Your Confidence](https://dev.to/gustavupp/6-reasons-mastering-data-structures-and-algorithms-is-the-fastest-way-to-double-your-paycheck-and-boost-your-confidence-127o)
-- [Tips to be a Healthy Developer🧑‍💻](https://dev.to/iarchitsharma/tips-to-be-a-healthy-developer-1bm1)
-- [About &quot;Not all arguments converted during string formatting&quot; error in Python](https://dev.to/lavary/about-not-all-arguments-converted-during-string-formatting-error-in-python-36p7)
-- [Metaverse? What what?](https://dev.to/paweldotio/metaverse-what-what-4kig)
+- [About &quot;missing 1 required positional argument: ‘self’&quot; in Python](https://dev.to/lavary/about-missing-1-required-positional-argument-self-in-python-2i36)
+- [How to reverse a range in Python &lpar;with examples&rpar;](https://dev.to/lavary/how-to-reverse-a-range-in-python-with-examples-664)
+- [On &quot;TabError: inconsistent use of tabs and spaces in indentation&quot; in Python](https://dev.to/lavary/on-taberror-inconsistent-use-of-tabs-and-spaces-in-indentation-in-python-2i2p)
+- [How to learn JavaScript 4 - just in 5 steps by Hanfelix369](https://dev.to/hanfelix369/how-to-learn-javascript-4-just-in-5-steps-by-hanfelix369-5gab)
 <!-- BLOG-POST-LIST:END -->
 
