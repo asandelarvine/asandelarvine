@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
+- [Convert a dd/mm/yyyy string to a Date object in JavaScript](https://dev.to/lavary/convert-a-ddmmyyyy-string-to-a-date-object-in-javascript-35o3)
 - [About &quot;Await is only valid in Async functions&quot; error in JavaScript](https://dev.to/lavary/about-await-is-only-valid-in-async-functions-error-in-javascript-bmd)
 - [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
-- [Rust and its friendly crates: Don&#39;t miss out on them!](https://dev.to/rotrixx/rust-and-its-friendly-crates-dont-miss-out-on-them-2hg1)
-- [About &quot;AttributeError module ‘DateTime’ has no attribute ‘strptime’&quot; in Python](https://dev.to/lavary/about-attributeerror-module-datetime-has-no-attribute-strptime-in-python-1k53)
 <!-- BLOG-POST-LIST:END -->
 
