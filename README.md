@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 20 Most Trending Open Source Tools for Ecommerce](https://dev.to/zt4ff_1/the-20-most-trending-open-source-tools-for-ecommerce-5cie)
-- [About &quot;missing 1 required positional argument: ‘self’&quot; in Python](https://dev.to/lavary/about-missing-1-required-positional-argument-self-in-python-2i36)
-- [How to reverse a range in Python &lpar;with examples&rpar;](https://dev.to/lavary/how-to-reverse-a-range-in-python-with-examples-664)
-- [On &quot;TabError: inconsistent use of tabs and spaces in indentation&quot; in Python](https://dev.to/lavary/on-taberror-inconsistent-use-of-tabs-and-spaces-in-indentation-in-python-2i2p)
+- [About &quot;Await is only valid in Async functions&quot; error in JavaScript](https://dev.to/lavary/about-await-is-only-valid-in-async-functions-error-in-javascript-bmd)
+- [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
+- [Rust and its friendly crates: Don&#39;t miss out on them!](https://dev.to/rotrixx/rust-and-its-friendly-crates-dont-miss-out-on-them-2hg1)
+- [About &quot;AttributeError module ‘DateTime’ has no attribute ‘strptime’&quot; in Python](https://dev.to/lavary/about-attributeerror-module-datetime-has-no-attribute-strptime-in-python-1k53)
 <!-- BLOG-POST-LIST:END -->
 
