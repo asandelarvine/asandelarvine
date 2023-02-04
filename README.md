@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Fiddlehead: A Fast and Lightweight UI Library](https://dev.to/vanquyet/introduction-to-fiddlehead-a-fast-and-lightweight-ui-library-273p)
 - [🔥💻 The Best React Component Libraries](https://dev.to/flatlogic/the-best-react-component-libraries-3pgd)
+- [Auto Dev.to&#39;s posts updater on GitHub readme](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
 - [Why go full-stack in 2023?](https://dev.to/stebunovd/why-go-full-stack-in-2023-4381)
-- [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
-- [Design Patterns: Factory Method](https://dev.to/damcosset/design-patterns-factory-method-5041)
 <!-- BLOG-POST-LIST:END -->
 
