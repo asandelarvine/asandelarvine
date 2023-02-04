@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥💻 The Best React Component Libraries](https://dev.to/flatlogic/the-best-react-component-libraries-3pgd)
+- [Why go full-stack in 2023?](https://dev.to/stebunovd/why-go-full-stack-in-2023-4381)
 - [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-2e2i)
 - [Design Patterns: Factory Method](https://dev.to/damcosset/design-patterns-factory-method-5041)
-- [Convert a dd/mm/yyyy string to a Date object in JavaScript](https://dev.to/lavary/convert-a-ddmmyyyy-string-to-a-date-object-in-javascript-35o3)
-- [About &quot;Await is only valid in Async functions&quot; error in JavaScript](https://dev.to/lavary/about-await-is-only-valid-in-async-functions-error-in-javascript-bmd)
 <!-- BLOG-POST-LIST:END -->
 
