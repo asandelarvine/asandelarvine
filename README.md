@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Custom React Hooks That Will Transform Your Code 🤖](https://dev.to/naubit/5-custom-react-hooks-that-will-transform-your-code-emo)
+- [Debouncing: how to use it](https://dev.to/ajidk16/debouncing-how-to-use-it-b7m)
+- [Email Analytics](https://dev.to/mariiahlumilina/email-analytics-3050)
 - [Javascript Arrays - How to Remove Duplicate Elements](https://dev.to/smpnjn/javascript-arrays-how-to-remove-duplicate-elements-2mc2)
-- [Javascript Arrays](https://dev.to/smpnjn/javascript-arrays-32co)
-- [Javascript toLowerCase&lpar;&rpar; - Convert Strings to Lowercase](https://dev.to/smpnjn/javascript-tolowercase-convert-strings-to-lowercase-446i)
-- [How to Check if Object is Empty in JavaScript](https://dev.to/smpnjn/how-to-check-if-object-is-empty-in-javascript-5afl)
 <!-- BLOG-POST-LIST:END -->
 
