@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Things you should look for in a Code Review](https://dev.to/leduc1901/things-you-should-look-for-in-a-code-review-ll2)
 - [5 Custom React Hooks That Will Transform Your Code 🤖](https://dev.to/naubit/5-custom-react-hooks-that-will-transform-your-code-emo)
 - [Debouncing: how to use it](https://dev.to/ajidk16/debouncing-how-to-use-it-b7m)
 - [Email Analytics](https://dev.to/mariiahlumilina/email-analytics-3050)
-- [Javascript Arrays - How to Remove Duplicate Elements](https://dev.to/smpnjn/javascript-arrays-how-to-remove-duplicate-elements-2mc2)
 <!-- BLOG-POST-LIST:END -->
 
