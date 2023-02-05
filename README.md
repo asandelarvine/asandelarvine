@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bubble Sort &lpar;Python Algorithms&rpar;](https://dev.to/cleancodestudio/bubble-sort-python-algorithms-3fng)
-- [JavaScript double exclamation mark explained &lpar;with examples&rpar;](https://dev.to/lavary/javascript-double-exclamation-mark-explained-with-examples-pp8)
-- [Javascript if/else shorthand explained &lpar;with common uses cases&rpar;](https://dev.to/lavary/javascript-ifelse-shorthand-explained-with-common-uses-cases-4nhh)
-- [Liskov&#39;s Substitution Principle &lpar;Python Design Patterns&rpar;](https://dev.to/cleancodestudio/liskovs-substitution-principle-python-design-patterns-31c2)
+- [How to get yesterday’s date in JavaScript without a library](https://dev.to/lavary/how-to-get-yesterdays-date-in-javascript-without-a-library-1oj8)
+- [How to add days to a date in JavaScript &lpar;without a library&rpar;](https://dev.to/lavary/how-to-add-days-to-a-date-in-javascript-without-a-library-3795)
+- [Subtract days from a date in JavaScript without a library](https://dev.to/lavary/subtract-days-from-a-date-in-javascript-without-a-library-3bl2)
+- [Run self-hosted GitHub runners on GitHub Codespaces &lpar;Video Tutorial&rpar;](https://dev.to/pwd9000/run-self-hosted-github-runners-on-github-codespaces-video-tutorial-1ggh)
 <!-- BLOG-POST-LIST:END -->
 
