@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Single Responsibility Design Pattern &lpar;Code Example&rpar;](https://dev.to/cleancodestudio/python-single-responsibility-design-pattern-code-example-1e1k)
 - [Laporan Kegiatan PPHB 2023 &lpar; Campus Expo &rpar;](https://dev.to/nurulkhofifaaenun/laporan-kegiatan-pphb-2023-campus-expo--3cm9)
 - [Pandas is no longer the DataFrame King](https://dev.to/chainguns/pandas-is-no-longer-the-dataframe-king-214c)
 - [JOB FAIR](https://dev.to/elvitamp13/job-fair-617)
-- [How to build a collaborative SaaS product using Next.js and ZenStack&#39;s access control policy](https://dev.to/zenstack/how-to-build-a-collaborative-saas-product-using-nextjs-and-zenstacks-access-control-policy-1nc1)
 <!-- BLOG-POST-LIST:END -->
 
