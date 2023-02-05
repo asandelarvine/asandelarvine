@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 Website Graders](https://dev.to/vulcanwm/top-6-website-graders-390o)
 - [Configure Touch ID for sudo access in Terminal.app without prompting for a password to authenticate.](https://dev.to/xakrume/configure-touch-id-for-sudo-access-in-terminalapp-without-prompting-for-a-password-to-authenticate-4ijd)
 - [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
 - [Identifying Disks in Dedicated Servers](https://dev.to/xakrume/identifying-disks-in-dedicated-servers-298e)
-- [Libraries to consider when using React in 2023 for production applications.](https://dev.to/agboolaidris/libraries-to-consider-when-using-react-in-2023-for-production-applications-1h5)
 <!-- BLOG-POST-LIST:END -->
 
