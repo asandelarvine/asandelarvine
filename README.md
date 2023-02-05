@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Libraries to consider when using React in 2023 for production applications.](https://dev.to/agboolaidris/libraries-to-consider-when-using-react-in-2023-for-production-applications-1h5)
 - [Technical Writing Explained](https://dev.to/the_greatbonnie/technical-writing-explained-53bi)
 - [The life of a Shadow &lpar;IT&rpar; Developer](https://dev.to/noriller/the-life-of-a-shadow-it-developer-3ph3)
 - [React Native vs Flutter](https://dev.to/lonewolf_zlife/react-native-vs-flutter-3o97)
-- [How to build a random quote generator app with React &amp; Tailwind](https://dev.to/coderamrin/how-to-build-a-random-quote-generator-app-with-react-tailwind-3g9e)
 <!-- BLOG-POST-LIST:END -->
 
