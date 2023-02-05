@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Laporan Kegiatan PPHB 2023 &lpar; Campus Expo &rpar;](https://dev.to/nurulkhofifaaenun/laporan-kegiatan-pphb-2023-campus-expo--3cm9)
+- [Pandas is no longer the DataFrame King](https://dev.to/chainguns/pandas-is-no-longer-the-dataframe-king-214c)
+- [JOB FAIR](https://dev.to/elvitamp13/job-fair-617)
 - [How to build a collaborative SaaS product using Next.js and ZenStack&#39;s access control policy](https://dev.to/zenstack/how-to-build-a-collaborative-saas-product-using-nextjs-and-zenstacks-access-control-policy-1nc1)
-- [Dockerize and deploy🚀 your Angular App with a secure endpoint 🔐&lpar;HTTPS&rpar; using ChatGPT3🤖](https://dev.to/wi11i4m/dockerize-and-deploy-your-angular-app-with-a-secure-endpoint-https-using-chatgpt3-12d0)
-- [Single responsibility in Javascript](https://dev.to/emhat098/single-responsibility-in-javascript-54j8)
-- [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-3e11)
 <!-- BLOG-POST-LIST:END -->
 
