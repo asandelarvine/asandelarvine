@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Single responsibility in Javascript](https://dev.to/emhat098/single-responsibility-in-javascript-54j8)
 - [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-3e11)
 - [Laporan Kegiatan PPHB 2023](https://dev.to/nurulkhofifaaenun/laporan-kegiatan-pphb-2023-2d9b)
 - [Time Series Prediction](https://dev.to/anurag629/time-series-prediction-143)
-- [How to Implement Authentication and Authorization in Golang.](https://dev.to/tanmayvaish/how-to-implement-authentication-and-authorization-in-golang-20of)
 <!-- BLOG-POST-LIST:END -->
 
