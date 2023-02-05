@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get yesterday’s date in JavaScript without a library](https://dev.to/lavary/how-to-get-yesterdays-date-in-javascript-without-a-library-1oj8)
-- [How to add days to a date in JavaScript &lpar;without a library&rpar;](https://dev.to/lavary/how-to-add-days-to-a-date-in-javascript-without-a-library-3795)
-- [Subtract days from a date in JavaScript without a library](https://dev.to/lavary/subtract-days-from-a-date-in-javascript-without-a-library-3bl2)
-- [Run self-hosted GitHub runners on GitHub Codespaces &lpar;Video Tutorial&rpar;](https://dev.to/pwd9000/run-self-hosted-github-runners-on-github-codespaces-video-tutorial-1ggh)
+- [The life of a Shadow &lpar;IT&rpar; Developer](https://dev.to/noriller/the-life-of-a-shadow-it-developer-3ph3)
+- [React Anti-Patterns and Best Practices - Do&#39;s and Don&#39;ts](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)
+- [Get viewport width and height in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/get-viewport-width-and-height-in-javascript-with-examples-1bn4)
+- [About “__dirname is not defined in ES module scope” in JavaScript](https://dev.to/lavary/about-dirname-is-not-defined-in-es-module-scope-in-javascript-eo3)
 <!-- BLOG-POST-LIST:END -->
 
