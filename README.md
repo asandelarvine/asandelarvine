@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Arrays - How to Remove Duplicate Elements](https://dev.to/smpnjn/javascript-arrays-how-to-remove-duplicate-elements-2mc2)
+- [Javascript Arrays](https://dev.to/smpnjn/javascript-arrays-32co)
 - [Javascript toLowerCase&lpar;&rpar; - Convert Strings to Lowercase](https://dev.to/smpnjn/javascript-tolowercase-convert-strings-to-lowercase-446i)
 - [How to Check if Object is Empty in JavaScript](https://dev.to/smpnjn/how-to-check-if-object-is-empty-in-javascript-5afl)
-- [Javascript Promise.all&lpar;&rpar; - Everything you need to know](https://dev.to/smpnjn/javascript-promiseall-everything-you-need-to-know-3836)
-- [Javascript innerHTML](https://dev.to/smpnjn/javascript-innerhtml-4lh)
 <!-- BLOG-POST-LIST:END -->
 
