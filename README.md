@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Writing Explained](https://dev.to/the_greatbonnie/technical-writing-explained-53bi)
 - [The life of a Shadow &lpar;IT&rpar; Developer](https://dev.to/noriller/the-life-of-a-shadow-it-developer-3ph3)
-- [React Anti-Patterns and Best Practices - Do&#39;s and Don&#39;ts](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)
-- [Get viewport width and height in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/get-viewport-width-and-height-in-javascript-with-examples-1bn4)
-- [About “__dirname is not defined in ES module scope” in JavaScript](https://dev.to/lavary/about-dirname-is-not-defined-in-es-module-scope-in-javascript-eo3)
+- [React Native vs Flutter](https://dev.to/lonewolf_zlife/react-native-vs-flutter-3o97)
+- [How to build a random quote generator app with React &amp; Tailwind](https://dev.to/coderamrin/how-to-build-a-random-quote-generator-app-with-react-tailwind-3g9e)
 <!-- BLOG-POST-LIST:END -->
 
