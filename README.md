@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Must-Have Websites for Every Frontend Web Developer](https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-3e11)
 - [Laporan Kegiatan PPHB 2023](https://dev.to/nurulkhofifaaenun/laporan-kegiatan-pphb-2023-2d9b)
 - [Time Series Prediction](https://dev.to/anurag629/time-series-prediction-143)
-- [7 Free Public APIs you will love as a developer💖](https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p)
-- [Get Organised as a Data Scientist: Tips &amp; Strategies](https://dev.to/ramanbansal/get-organised-as-a-data-scientist-tips-strategies-1igh)
+- [How to Implement Authentication and Authorization in Golang.](https://dev.to/tanmayvaish/how-to-implement-authentication-and-authorization-in-golang-20of)
 <!-- BLOG-POST-LIST:END -->
 
