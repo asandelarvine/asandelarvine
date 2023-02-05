@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to cherry-pick from separate repos with separate paths &lpar;with history&rpar;](https://dev.to/this-is-learning/how-to-cherry-pick-from-separate-repos-with-separate-paths-with-history-5cnf)
 - [Checking if a value is a number in Javascript with isNaN&lpar;&rpar;](https://dev.to/smpnjn/checking-if-a-value-is-a-number-in-javascript-with-isnan-h8c)
 - [Top 6 Website Graders](https://dev.to/vulcanwm/top-6-website-graders-390o)
 - [Configure Touch ID for sudo access in Terminal.app without prompting for a password to authenticate.](https://dev.to/xakrume/configure-touch-id-for-sudo-access-in-terminalapp-without-prompting-for-a-password-to-authenticate-4ijd)
-- [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
 <!-- BLOG-POST-LIST:END -->
 
