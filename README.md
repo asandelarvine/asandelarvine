@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Single Responsibility Design Pattern &lpar;Code Example&rpar;](https://dev.to/cleancodestudio/python-single-responsibility-design-pattern-code-example-1e1k)
-- [Laporan Kegiatan PPHB 2023 &lpar; Campus Expo &rpar;](https://dev.to/nurulkhofifaaenun/laporan-kegiatan-pphb-2023-campus-expo--3cm9)
-- [Pandas is no longer the DataFrame King](https://dev.to/chainguns/pandas-is-no-longer-the-dataframe-king-214c)
-- [JOB FAIR](https://dev.to/elvitamp13/job-fair-617)
+- [Bubble Sort &lpar;Python Algorithms&rpar;](https://dev.to/cleancodestudio/bubble-sort-python-algorithms-3fng)
+- [JavaScript double exclamation mark explained &lpar;with examples&rpar;](https://dev.to/lavary/javascript-double-exclamation-mark-explained-with-examples-pp8)
+- [Javascript if/else shorthand explained &lpar;with common uses cases&rpar;](https://dev.to/lavary/javascript-ifelse-shorthand-explained-with-common-uses-cases-4nhh)
+- [Liskov&#39;s Substitution Principle &lpar;Python Design Patterns&rpar;](https://dev.to/cleancodestudio/liskovs-substitution-principle-python-design-patterns-31c2)
 <!-- BLOG-POST-LIST:END -->
 
