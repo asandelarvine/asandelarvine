@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Risks of Global Git Configurations and How to Avoid Them](https://dev.to/codeofrelevancy/the-hidden-risks-of-global-git-configurations-and-how-to-avoid-them-40mp)
-- [How to Build Email Lookup Extension for Chrome using Hazelbase APIs](https://dev.to/elliot_brenya/how-to-build-email-lookup-extension-for-chrome-using-hazelbase-apis-3lil)
-- [AWS open source newsletter, #144](https://dev.to/aws/aws-open-source-newsletter-144-22h)
-- [Getting into the field &lpar;CS&rpar; is hard! My way to help out...](https://dev.to/theuserll/getting-into-the-field-cs-is-hard-my-way-to-help-out-201k)
+- [Factors to consider before chosing technology to build your product](https://dev.to/agboolaidris/factors-to-consider-before-chosing-technology-to-build-your-product-2gm1)
+- [Understanding TypeScript Data Types](https://dev.to/yuya0114/understanding-typescript-data-types-2o8g)
+- [Super useful a state management library &quot;Recoil&quot;](https://dev.to/yuya0114/super-useful-a-state-management-library-recoil-3a9j)
+- [Node.js: Everything You Need to Know](https://dev.to/onlydevs_/nodejs-everything-you-need-to-know-kaj)
 <!-- BLOG-POST-LIST:END -->
 
