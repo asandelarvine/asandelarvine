@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP double question marks &lpar;Null coalescing operator&rpar; explained](https://dev.to/lavary/php-double-question-marks-null-coalescing-operator-explained-49d7)
-- [How to Flatten an array in PHP &lpar;four methods&rpar;](https://dev.to/lavary/how-to-flatten-an-array-in-php-four-methods-dnd)
-- [Why I joined Dagger](https://dev.to/vito/why-i-joined-dagger-43gb)
-- [Design Thinking - Low Vs Pro Code](https://dev.to/balagmadhu/design-thinking-low-vs-pro-code-400a)
+- [About “ReferenceError: document is not defined” in JavaScript](https://dev.to/lavary/about-referenceerror-document-is-not-defined-in-javascript-1h3g)
+- [About &quot;SyntaxError: Unexpected end of JSON input&quot; in JavaScript](https://dev.to/lavary/about-syntaxerror-unexpected-end-of-json-input-in-javascript-22aj)
+- [Add commas to numbers in JavaScript &lpar;Explained with examples&rpar;](https://dev.to/lavary/add-commas-to-numbers-in-javascript-explained-with-examples-27k8)
+- [How to remove the last character from a string in PHP](https://dev.to/lavary/how-to-remove-the-last-character-from-a-string-in-php-31ci)
 <!-- BLOG-POST-LIST:END -->
 
