@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP double question marks &lpar;Null coalescing operator&rpar; explained](https://dev.to/lavary/php-double-question-marks-null-coalescing-operator-explained-49d7)
+- [How to Flatten an array in PHP &lpar;four methods&rpar;](https://dev.to/lavary/how-to-flatten-an-array-in-php-four-methods-dnd)
 - [Why I joined Dagger](https://dev.to/vito/why-i-joined-dagger-43gb)
-- [Hdjdhdjfh](https://dev.to/gejegdjdgdhdg/hdjdhdjfh-5bdo)
 - [Design Thinking - Low Vs Pro Code](https://dev.to/balagmadhu/design-thinking-low-vs-pro-code-400a)
-- [How To Name Your Branches - The Method I Use...](https://dev.to/yosileyid/how-to-name-your-branches-the-method-i-use-2cl4)
 <!-- BLOG-POST-LIST:END -->
 
