@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Dance Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-dance-edition-2ff6)
 - [Integer division in JavaScript explained](https://dev.to/lavary/integer-division-in-javascript-explained-fai)
 - [JavaScript isset Equivalent &lpar;3 methods&rpar;](https://dev.to/lavary/javascript-isset-equivalent-3-methods-4692)
-- [Meme Monday 🧢](https://dev.to/ben/meme-monday-7b3)
-- [Series vs. single: which type of technical article do you prefer?](https://dev.to/derlin/series-vs-single-which-type-of-technical-article-do-you-prefer-dnf)
+- [Javascript Vs Typescript](https://dev.to/hirentimbadiya/javascript-vs-typescript-1jg5)
 <!-- BLOG-POST-LIST:END -->
 
