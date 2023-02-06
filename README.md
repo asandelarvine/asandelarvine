@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 8 GitHub Repositories to learn JavaScript](https://dev.to/alexr/8-github-repositories-to-learn-javascript-3je4)
-- [Integrate ChatGPT in WhatsApp on Android](https://dev.to/devbambhaniya/integrate-chatgpt-in-whatsapp-on-android-3nf7)
-- [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)
-- [Factors to consider before chosing technology to build your product](https://dev.to/agboolaidris/factors-to-consider-before-chosing-technology-to-build-your-product-2gm1)
+- [Visual Studio Fonts Customization: Most Popular Fonts✔️](https://dev.to/bytehide/visual-studio-fonts-customization-most-popular-fonts-47mo)
+- [Top OpenAI Tools, Examples &amp; Use Cases](https://dev.to/flatlogic/top-openai-tools-examples-use-cases-o0k)
+- [Monthly Amazon Location Service Updates - 2023.01](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202301-56cg)
+- [🚀 8 GitHub Repositories to Learn JavaScript](https://dev.to/alexr/8-github-repositories-to-learn-javascript-3je4)
 <!-- BLOG-POST-LIST:END -->
 
