@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Studio Fonts Customization: Most Popular Fonts✔️](https://dev.to/bytehide/visual-studio-fonts-customization-most-popular-fonts-47mo)
-- [Top OpenAI Tools, Examples &amp; Use Cases](https://dev.to/flatlogic/top-openai-tools-examples-use-cases-o0k)
-- [Monthly Amazon Location Service Updates - 2023.01](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202301-56cg)
-- [🚀 8 GitHub Repositories to Learn JavaScript](https://dev.to/alexr/8-github-repositories-to-learn-javascript-3je4)
+- [How to swap between React Native Storybook and your app](https://dev.to/dannyhw/how-to-swap-between-react-native-storybook-and-your-app-p3o)
+- [Top 11 Splunk Alternatives that you may consider in 2023](https://dev.to/signoz/top-11-splunk-alternatives-that-you-may-consider-in-2023-3819)
+- [How did I earn money to fix an issue from an Open Source Software &lpar;OSS&rpar;?](https://dev.to/renanfranca/how-did-i-earn-money-to-fix-an-issue-from-an-open-source-software-oss-4kfm)
+- [Adding Loaders to React using Chakra UI](https://dev.to/documatic/adding-loaders-to-react-using-chakra-ui-d22)
 <!-- BLOG-POST-LIST:END -->
 
