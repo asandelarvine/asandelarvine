@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Dance Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-dance-edition-2ff6)
-- [Integer division in JavaScript explained](https://dev.to/lavary/integer-division-in-javascript-explained-fai)
-- [JavaScript isset Equivalent &lpar;3 methods&rpar;](https://dev.to/lavary/javascript-isset-equivalent-3-methods-4692)
-- [Javascript Vs Typescript](https://dev.to/hirentimbadiya/javascript-vs-typescript-1jg5)
+- [Why I joined Dagger](https://dev.to/vito/why-i-joined-dagger-43gb)
+- [Hdjdhdjfh](https://dev.to/gejegdjdgdhdg/hdjdhdjfh-5bdo)
+- [Design Thinking - Low Vs Pro Code](https://dev.to/balagmadhu/design-thinking-low-vs-pro-code-400a)
+- [How To Name Your Branches - The Method I Use...](https://dev.to/yosileyid/how-to-name-your-branches-the-method-i-use-2cl4)
 <!-- BLOG-POST-LIST:END -->
 
