@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)
 - [Factors to consider before chosing technology to build your product](https://dev.to/agboolaidris/factors-to-consider-before-chosing-technology-to-build-your-product-2gm1)
+- [How to enhance 3rd party components using directives?](https://dev.to/this-is-angular/how-to-enhance-3rd-party-components-using-directives-e1h)
 - [Understanding TypeScript Data Types](https://dev.to/yuya0114/understanding-typescript-data-types-2o8g)
-- [Super useful a state management library &quot;Recoil&quot;](https://dev.to/yuya0114/super-useful-a-state-management-library-recoil-3a9j)
-- [Node.js: Everything You Need to Know](https://dev.to/onlydevs_/nodejs-everything-you-need-to-know-kaj)
 <!-- BLOG-POST-LIST:END -->
 
