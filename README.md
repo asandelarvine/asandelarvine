@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Risks of Global Git Configurations and How to Avoid Them](https://dev.to/codeofrelevancy/the-hidden-risks-of-global-git-configurations-and-how-to-avoid-them-40mp)
+- [How to Build Email Lookup Extension for Chrome using Hazelbase APIs](https://dev.to/elliot_brenya/how-to-build-email-lookup-extension-for-chrome-using-hazelbase-apis-3lil)
+- [AWS open source newsletter, #144](https://dev.to/aws/aws-open-source-newsletter-144-22h)
 - [Getting into the field &lpar;CS&rpar; is hard! My way to help out...](https://dev.to/theuserll/getting-into-the-field-cs-is-hard-my-way-to-help-out-201k)
-- [What is the GitFlow code branching strategy?](https://dev.to/kgcodes/what-is-the-gitflow-code-branching-strategy-4hpf)
-- [Using A Custom Domain With Github Pages](https://dev.to/yosileyid/using-a-custom-domain-with-github-pages-2f0o)
-- [7 mistakes developers make while looking for jobs](https://dev.to/frontend_jedi/7-mistakes-developers-make-while-looking-for-jobs-1aei)
 <!-- BLOG-POST-LIST:END -->
 
