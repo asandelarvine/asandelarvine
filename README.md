@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Astro with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-install-astro-with-tailwind-css-and-flowbite-2pn2)
-- [How to resolve &quot;can&#39;t run linter goanalysis_metalinter&quot; ?](https://dev.to/mxglt/how-to-resolve-cant-run-linter-goanalysismetalinter--1j3)
-- [Automatically generating pages for each tag used in Astro with MDX](https://dev.to/thomasledoux1/automatically-generating-pages-for-each-tag-used-in-astro-with-mdx-1ldd)
-- [URI VS URL](https://dev.to/refine/uri-vs-url-1j3n)
+- [Integer division in JavaScript explained](https://dev.to/lavary/integer-division-in-javascript-explained-fai)
+- [JavaScript isset Equivalent &lpar;3 methods&rpar;](https://dev.to/lavary/javascript-isset-equivalent-3-methods-4692)
+- [Meme Monday 🧢](https://dev.to/ben/meme-monday-7b3)
+- [Series vs. single: which type of technical article do you prefer?](https://dev.to/derlin/series-vs-single-which-type-of-technical-article-do-you-prefer-dnf)
 <!-- BLOG-POST-LIST:END -->
 
