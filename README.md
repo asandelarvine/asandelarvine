@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 8 GitHub Repositories to learn JavaScript](https://dev.to/alexr/8-github-repositories-to-learn-javascript-3je4)
+- [Integrate ChatGPT in WhatsApp on Android](https://dev.to/devbambhaniya/integrate-chatgpt-in-whatsapp-on-android-3nf7)
 - [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)
 - [Factors to consider before chosing technology to build your product](https://dev.to/agboolaidris/factors-to-consider-before-chosing-technology-to-build-your-product-2gm1)
-- [How to enhance 3rd party components using directives?](https://dev.to/this-is-angular/how-to-enhance-3rd-party-components-using-directives-e1h)
-- [Understanding TypeScript Data Types](https://dev.to/yuya0114/understanding-typescript-data-types-2o8g)
 <!-- BLOG-POST-LIST:END -->
 
