@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What methods were used for software development prior to DevOps.](https://dev.to/abhixsh/what-methods-were-used-for-software-development-prior-to-devops-98f)
+- [Label htmlFor Property Explained](https://dev.to/lavary/label-htmlfor-property-explained-1pjd)
 - [About “ReferenceError: document is not defined” in JavaScript](https://dev.to/lavary/about-referenceerror-document-is-not-defined-in-javascript-1h3g)
 - [About &quot;SyntaxError: Unexpected end of JSON input&quot; in JavaScript](https://dev.to/lavary/about-syntaxerror-unexpected-end-of-json-input-in-javascript-22aj)
-- [Add commas to numbers in JavaScript &lpar;Explained with examples&rpar;](https://dev.to/lavary/add-commas-to-numbers-in-javascript-explained-with-examples-27k8)
-- [How to remove the last character from a string in PHP](https://dev.to/lavary/how-to-remove-the-last-character-from-a-string-in-php-31ci)
 <!-- BLOG-POST-LIST:END -->
 
