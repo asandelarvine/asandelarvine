@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to swap between React Native Storybook and your app](https://dev.to/dannyhw/how-to-swap-between-react-native-storybook-and-your-app-p3o)
-- [Top 11 Splunk Alternatives that you may consider in 2023](https://dev.to/signoz/top-11-splunk-alternatives-that-you-may-consider-in-2023-3819)
-- [How did I earn money to fix an issue from an Open Source Software &lpar;OSS&rpar;?](https://dev.to/renanfranca/how-did-i-earn-money-to-fix-an-issue-from-an-open-source-software-oss-4kfm)
-- [Adding Loaders to React using Chakra UI](https://dev.to/documatic/adding-loaders-to-react-using-chakra-ui-d22)
+- [ESXiArgs encryption malware launches massive attacks against VMware ESXi servers](https://dev.to/xakrume/esxiargs-encryption-malware-launches-massive-attacks-against-vmware-esxi-servers-pfe)
+- [Introduction to Google APIs: pt. 2 🌎](https://dev.to/mariamarsh/introduction-to-google-apis-pt-2-5hk5)
+- [Write your own Domain Specific Language in Ruby](https://dev.to/tombruijn/write-your-own-domain-specific-language-in-ruby-15ki)
+- [Testing Vue components the right way](https://dev.to/mayashavin/testing-vue-components-the-right-way-2hio)
 <!-- BLOG-POST-LIST:END -->
 
