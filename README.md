@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Por que a habilidade política é importante na engenheria de software?](https://dev.to/brunonovais/por-que-a-politica-e-importante-na-engenheria-de-software-49kl)
-- [CSS Art: Nintendo Switch](https://dev.to/alvaromontoro/css-art-nintendo-switch-2k36)
-- [How to cherry-pick from separate repos with separate paths &lpar;with history&rpar;](https://dev.to/this-is-learning/how-to-cherry-pick-from-separate-repos-with-separate-paths-with-history-5cnf)
-- [Checking if a value is a number in Javascript with isNaN&lpar;&rpar;](https://dev.to/smpnjn/checking-if-a-value-is-a-number-in-javascript-with-isnan-h8c)
+- [7 mistakes developers make while looking for jobs](https://dev.to/frontend_jedi/7-mistakes-developers-make-while-looking-for-jobs-1aei)
+- [🤖 Fresh Tech Vacancies - Week #6 of 2023](https://dev.to/shman/fresh-tech-vacancies-week-6-of-2023-1abm)
+- [Unleash the Power of Your Data: 6 ES6 Array Functions You Need to Know 🚀](https://dev.to/naubit/unleash-the-power-of-your-data-6-es6-array-functions-you-need-to-know-1e6)
+- [7 great libraries for React](https://dev.to/gravy59/7-great-libraries-for-react-2g0o)
 <!-- BLOG-POST-LIST:END -->
 
