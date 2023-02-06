@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ESXiArgs encryption malware launches massive attacks against VMware ESXi servers](https://dev.to/xakrume/esxiargs-encryption-malware-launches-massive-attacks-against-vmware-esxi-servers-pfe)
-- [Introduction to Google APIs: pt. 2 🌎](https://dev.to/mariamarsh/introduction-to-google-apis-pt-2-5hk5)
-- [Write your own Domain Specific Language in Ruby](https://dev.to/tombruijn/write-your-own-domain-specific-language-in-ruby-15ki)
-- [Testing Vue components the right way](https://dev.to/mayashavin/testing-vue-components-the-right-way-2hio)
+- [URI VS URL](https://dev.to/refine/uri-vs-url-1j3n)
+- [How to check if an element exists in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/how-to-check-if-an-element-exists-in-javascript-with-examples-4mpb)
+- [FLiP Stack Weekly for 06 February 2023](https://dev.to/tspannhw/flip-stack-weekly-for-06-february-2023-1j2a)
+- [GitHub repositories for developers everyone should know🤩🚀](https://dev.to/ishratumar/github-repositories-for-developers-everyone-should-know-49d)
 <!-- BLOG-POST-LIST:END -->
 
