@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving From Electron to Tauri](https://dev.to/pgenfer/moving-from-electron-to-tauri-3791)
-- [Containerization: A Beginner&#39;s Guide to its Impact on Software Development](https://dev.to/bitohq/containerization-a-beginners-guide-to-its-impact-on-software-development-280g)
-- [5 React Tools to Use in an Ecommerce Stack](https://dev.to/medusajs/5-react-tools-to-use-in-an-ecommerce-stack-1ojo)
-- [[Safe-TypeORM] AnyORM becomes the real TypeORM](https://dev.to/samchon/safe-typeorm-make-anyorm-to-be-the-real-typeorm-478n)
+- [Three 💪 Solid 🪄 Minimalist ⚛️ Components](https://dev.to/ironcladdev/three-solid-minimalist-components-1275)
+- [Enable Emmet support for JSX in VS Code-✨React✨](https://dev.to/farhanacsebd/enable-emmet-support-for-jsx-in-vs-code-react-1lil)
+- [Top 10 apps for FREE appointment Scheduling](https://dev.to/yogini16/top-10-apps-for-free-appointment-scheduling-4c4p)
+- [Build an Instagram Web App with Supabase and Next.js 🚀](https://dev.to/livecycle/build-an-instagram-web-app-with-supabase-and-nextjs-4cn1)
 <!-- BLOG-POST-LIST:END -->
 
