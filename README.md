@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SvelteKit vs. Next.js](https://dev.to/cloudcannon/sveltekit-vs-nextjs-542i)
 - [v-show vs v-if: Conditional Rendering in Vue](https://dev.to/smpnjn/v-show-vs-v-if-conditional-rendering-in-vue-39ji)
 - [Events, events, events](https://dev.to/katafrakt/events-events-events-7j5)
 - [STM32F4 Embedded Rust at the PAC: svd2rust](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-svd2rust-457d)
-- [Authentication and Authorization in a Node API using Fastify, tRPC and Supertokens](https://dev.to/franciscomendes10866/authentication-and-authorization-in-a-node-api-using-fastify-trpc-and-supertokens-3cgn)
 <!-- BLOG-POST-LIST:END -->
 
