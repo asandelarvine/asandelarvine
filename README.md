@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CIAM 101: Authentication, Identity, SSO](https://dev.to/gaosun/ciam-101-authentication-identity-sso-nb1)
+- [Sticky Notes with CSS3](https://dev.to/w7freedownload/sticky-notes-with-css3-1c2a)
+- [Top Free Productivity Apps for 2023](https://dev.to/stephanreynolds/top-free-productivity-apps-for-2023-jlb)
 - [Sometimes I Feel Like I&#39;m Invisible - Experiences of a Woman in Tech](https://dev.to/eevajonnapanula/sometimes-i-feel-like-im-invisible-experiences-of-a-woman-in-tech-3glb)
-- [How to download Youtube Music and Videos with Python](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)
-- [CLI Client for ReductStore v0.6.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v060-has-been-released-3kfd)
-- [Zero Assumption&#39;s Proxy Architecture](https://dev.to/zeroassumptions/zero-assumptions-proxy-architecture-8ok)
 <!-- BLOG-POST-LIST:END -->
 
