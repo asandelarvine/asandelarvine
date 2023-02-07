@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI Client for ReductStore v0.6.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v060-has-been-released-3kfd)
 - [Zero Assumption&#39;s Proxy Architecture](https://dev.to/zeroassumptions/zero-assumptions-proxy-architecture-8ok)
+- [Creating Swagger Specs Document - Part 3](https://dev.to/alcb1310/creating-swagger-specs-document-part-3-1jhg)
 - [10 Most Popular Frameworks For Building RESTful APIs](https://dev.to/moesif/10-most-popular-frameworks-for-building-restful-apis-3dgp)
-- [Software Engineering Entrepreneurship » Issue 3 » Investing in cloud technology](https://dev.to/morganw/software-engineering-entrepreneurship-issue-3-investing-in-cloud-technology-1l26)
-- [SvelteKit vs. Next.js](https://dev.to/cloudcannon/sveltekit-vs-nextjs-542i)
 <!-- BLOG-POST-LIST:END -->
 
