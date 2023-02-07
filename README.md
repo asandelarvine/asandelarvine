@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Tracing with OpenTelemetry - Part I](https://dev.to/signoz/distributed-tracing-with-opentelemetry-part-i-322a)
+- [innerText vs textContent in 2023](https://dev.to/ismaestro/innertext-vs-textcontent-in-2023-1jf8)
+- [Authentication in Angular: The Circular Dependency in DI issue popping its ugly head](https://dev.to/ayyash/authentication-in-angular-the-circular-dependency-in-di-issue-popping-its-ugly-head-36gb)
 - [Centroid-based Clustering: A Powerful Machine Learning Technique for Partitioning Datasets](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im)
-- [Deno vs NodeJs](https://dev.to/hshoja/deno-vs-nodejs-hb3)
-- [React TypeScript Basics](https://dev.to/polaroidkidd/react-typescript-basics-23em)
-- [Ultimate Guide To Hire Flutter Developers For Your Project](https://dev.to/quokkalabs/ultimate-guide-to-hire-flutter-developers-for-your-project-5c2b)
 <!-- BLOG-POST-LIST:END -->
 
