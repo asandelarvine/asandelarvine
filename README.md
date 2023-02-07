@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
-- [From Research to Writing Reference Material](https://dev.to/abbeyperini/from-research-to-writing-reference-material-2ao9)
-- [Let&#39;s Get Moving!](https://dev.to/cece132/lets-get-moving-44i5)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ni2)
+- [Host Your Own Online Shop with Django-Oscar &amp; PyCharm](https://dev.to/appmap/host-your-own-online-shop-with-django-oscar-pycharm-3m37)
+- [Web Agency Design - Free Bootstrap 5 Template](https://dev.to/sm0ke/web-agency-design-free-bootstrap-5-template-4a8n)
+- [What are you Missing by Debugging in VS Code?](https://dev.to/codenameone/what-are-you-missing-by-debugging-in-vs-code-alb)
+- [SwiftUI &amp; ChatGPT. The world is changing. Again.](https://dev.to/sergeyleschev/swiftui-chatgpt-the-world-is-changing-again-4ja3)
 <!-- BLOG-POST-LIST:END -->
 
