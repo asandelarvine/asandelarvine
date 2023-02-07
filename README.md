@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [RubyConf 2022 Talk Video for Building Native GUI Apps in Ruby](https://dev.to/andyobtiva/rubyconf-2022-talk-video-for-building-native-gui-apps-in-ruby-5dp)
 - [#DEVDiscuss: Golden Handcuffs 💰](https://dev.to/devteam/devdiscuss-golden-handcuffs-4n67)
 - [Creating sites, the Jamstack way](https://dev.to/cloudcannon/creating-sites-the-jamstack-way-cda)
 - [Creating a HTML Tag Function - Part 2](https://dev.to/gabrieljm/creating-a-html-tag-function-part-2-5dfi)
-- [How to Get Experience Fast as a Developer 🚀](https://dev.to/svenherr/how-to-get-experience-fast-as-a-developer-47g6)
 <!-- BLOG-POST-LIST:END -->
 
