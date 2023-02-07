@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Centroid-based Clustering: A Powerful Machine Learning Technique for Partitioning Datasets](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im)
 - [Deno vs NodeJs](https://dev.to/hshoja/deno-vs-nodejs-hb3)
+- [React TypeScript Basics](https://dev.to/polaroidkidd/react-typescript-basics-23em)
 - [Ultimate Guide To Hire Flutter Developers For Your Project](https://dev.to/quokkalabs/ultimate-guide-to-hire-flutter-developers-for-your-project-5c2b)
-- [Announcing the Launch of AWS Cloud Clubs!](https://dev.to/aws/announcing-the-launch-of-aws-cloud-clubs-16ng)
-- [How to publish data on-chain with Chainlink?](https://dev.to/calvinpak/how-to-publish-data-on-chain-with-chainlink-28ib)
 <!-- BLOG-POST-LIST:END -->
 
