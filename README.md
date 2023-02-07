@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Assumption&#39;s Proxy Architecture](https://dev.to/zeroassumptions/zero-assumptions-proxy-architecture-8ok)
+- [10 Most Popular Frameworks For Building RESTful APIs](https://dev.to/moesif/10-most-popular-frameworks-for-building-restful-apis-3dgp)
+- [Software Engineering Entrepreneurship » Issue 3 » Investing in cloud technology](https://dev.to/morganw/software-engineering-entrepreneurship-issue-3-investing-in-cloud-technology-1l26)
 - [SvelteKit vs. Next.js](https://dev.to/cloudcannon/sveltekit-vs-nextjs-542i)
-- [v-show vs v-if: Conditional Rendering in Vue](https://dev.to/smpnjn/v-show-vs-v-if-conditional-rendering-in-vue-39ji)
-- [Events, events, events](https://dev.to/katafrakt/events-events-events-7j5)
-- [STM32F4 Embedded Rust at the PAC: svd2rust](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-svd2rust-457d)
 <!-- BLOG-POST-LIST:END -->
 
