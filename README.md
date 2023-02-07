@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Tracing with OpenTelemetry - Part I](https://dev.to/signoz/distributed-tracing-with-opentelemetry-part-i-322a)
-- [innerText vs textContent in 2023](https://dev.to/ismaestro/innertext-vs-textcontent-in-2023-1jf8)
-- [Authentication in Angular: The Circular Dependency in DI issue popping its ugly head](https://dev.to/ayyash/authentication-in-angular-the-circular-dependency-in-di-issue-popping-its-ugly-head-36gb)
-- [Centroid-based Clustering: A Powerful Machine Learning Technique for Partitioning Datasets](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im)
+- [Moving From Electron to Tauri](https://dev.to/pgenfer/moving-from-electron-to-tauri-3791)
+- [Containerization: A Beginner&#39;s Guide to its Impact on Software Development](https://dev.to/bitohq/containerization-a-beginners-guide-to-its-impact-on-software-development-280g)
+- [5 React Tools to Use in an Ecommerce Stack](https://dev.to/medusajs/5-react-tools-to-use-in-an-ecommerce-stack-1ojo)
+- [[Safe-TypeORM] AnyORM becomes the real TypeORM](https://dev.to/samchon/safe-typeorm-make-anyorm-to-be-the-real-typeorm-478n)
 <!-- BLOG-POST-LIST:END -->
 
