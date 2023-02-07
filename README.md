@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://dev.to/austingil/cancel-duplicate-fetch-requests-in-javascript-enhanced-forms-23hp)
+- [From Research to Writing Reference Material](https://dev.to/abbeyperini/from-research-to-writing-reference-material-2ao9)
+- [Let&#39;s Get Moving!](https://dev.to/cece132/lets-get-moving-44i5)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ni2)
-- [Building a multi-framework dashboard with Astro](https://dev.to/logrocket/building-a-multi-framework-dashboard-with-astro-18oj)
-- [What Netlify&#39;s Acquisition of Gatsby Really Means](https://dev.to/remotesynth/what-netlifys-acquisition-of-gatsby-really-means-20me)
-- [Three 💪 Solid 🪄 Minimalist ⚛️ Components](https://dev.to/ironcladdev/three-solid-minimalist-components-1275)
 <!-- BLOG-POST-LIST:END -->
 
