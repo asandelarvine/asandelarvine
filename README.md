@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ni2)
+- [Building a multi-framework dashboard with Astro](https://dev.to/logrocket/building-a-multi-framework-dashboard-with-astro-18oj)
+- [What Netlify&#39;s Acquisition of Gatsby Really Means](https://dev.to/remotesynth/what-netlifys-acquisition-of-gatsby-really-means-20me)
 - [Three 💪 Solid 🪄 Minimalist ⚛️ Components](https://dev.to/ironcladdev/three-solid-minimalist-components-1275)
-- [Enable Emmet support for JSX in VS Code-✨React✨](https://dev.to/farhanacsebd/enable-emmet-support-for-jsx-in-vs-code-react-1lil)
-- [Top 10 apps for FREE appointment Scheduling](https://dev.to/yogini16/top-10-apps-for-free-appointment-scheduling-4c4p)
-- [Build an Instagram Web App with Supabase and Next.js 🚀](https://dev.to/livecycle/build-an-instagram-web-app-with-supabase-and-nextjs-4cn1)
 <!-- BLOG-POST-LIST:END -->
 
