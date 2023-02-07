@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Experience Fast as a Developer 🚀](https://dev.to/svenherr/how-to-get-experience-fast-as-a-developer-47g6)
+- [My progress in #icodethis daily UI challenge](https://dev.to/aneeqakhan/my-progress-in-icodethis-daily-ui-challenge-gg1)
 - [How to Get Mentorship — Without Hiring a Mentor](https://dev.to/codewithvoid/how-to-get-mentorship-without-hiring-a-mentor-5ahk)
 - [Introducing useCatch: The Easy Way to Create Error Boundaries in Fiddlehead](https://dev.to/vanquyet/introducing-usecatch-the-easy-way-to-create-error-boundaries-in-fiddlehead-11jg)
-- [Hey, I’m Grey.](https://dev.to/grey41/hey-im-grey-2m24)
-- [Host Your Own Online Shop with Django-Oscar &amp; PyCharm](https://dev.to/appmap/host-your-own-online-shop-with-django-oscar-pycharm-3m37)
 <!-- BLOG-POST-LIST:END -->
 
