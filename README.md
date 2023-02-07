@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Golden Handcuffs 💰](https://dev.to/devteam/devdiscuss-golden-handcuffs-4n67)
+- [Creating sites, the Jamstack way](https://dev.to/cloudcannon/creating-sites-the-jamstack-way-cda)
+- [Creating a HTML Tag Function - Part 2](https://dev.to/gabrieljm/creating-a-html-tag-function-part-2-5dfi)
 - [How to Get Experience Fast as a Developer 🚀](https://dev.to/svenherr/how-to-get-experience-fast-as-a-developer-47g6)
-- [My progress in #icodethis daily UI challenge](https://dev.to/aneeqakhan/my-progress-in-icodethis-daily-ui-challenge-gg1)
-- [How to Get Mentorship — Without Hiring a Mentor](https://dev.to/codewithvoid/how-to-get-mentorship-without-hiring-a-mentor-5ahk)
-- [Introducing useCatch: The Easy Way to Create Error Boundaries in Fiddlehead](https://dev.to/vanquyet/introducing-usecatch-the-easy-way-to-create-error-boundaries-in-fiddlehead-11jg)
 <!-- BLOG-POST-LIST:END -->
 
