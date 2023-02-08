@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Common .NET Interview Questions and Answers](https://dev.to/bookerrjanee/the-most-common-net-interview-questions-and-answers-2a2i)
-- [How To Create Adaptive And Responsive NavBar in Flutter?](https://dev.to/kuldeeptarapara/how-to-create-adaptive-and-responsive-navbar-in-flutter-4174)
-- [Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide](https://dev.to/ademking/fixing-corrupted-docx-files-with-powershell-a-step-by-step-guide-bic)
-- [Build a Killer Job Portal Website Using JobPilot Laravel Script](https://dev.to/hosainmihad/build-a-killer-job-portal-website-using-jobpilot-script-e19)
+- [5 Must-Ask questions before you implement Caching](https://dev.to/dashsaurabh/5-must-ask-questions-before-you-implement-caching-1md2)
+- [Django: The High-Level Python Web Framework for Effortless and Secure Web Development](https://dev.to/onlydevs_/django-the-high-level-python-web-framework-for-effortless-and-secure-web-development-1ob5)
+- [What is Web3, and its Evolution ✨.](https://dev.to/akshaykurhekar/what-is-web3-and-its-evolution--1dj1)
+- [CSS Social Media Icons](https://dev.to/w7freedownload/css-social-media-icons-13oh)
 <!-- BLOG-POST-LIST:END -->
 
