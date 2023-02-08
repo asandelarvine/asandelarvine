@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗒️ 6 Tips on How to Transform your Organization to be KPI Driven](https://dev.to/alexr/6-tips-on-how-to-transform-your-organization-to-be-kpi-driven-anj)
-- [RubyConf 2022 Talk Video for Building Native GUI Apps in Ruby](https://dev.to/andyobtiva/rubyconf-2022-talk-video-for-building-native-gui-apps-in-ruby-5dp)
-- [#DEVDiscuss: Golden Handcuffs 💰](https://dev.to/devteam/devdiscuss-golden-handcuffs-4n67)
-- [Creating sites, the Jamstack way](https://dev.to/cloudcannon/creating-sites-the-jamstack-way-cda)
+- [TypeScript Type Inference](https://dev.to/yuya0114/typescript-type-inference-22ch)
+- [Learn how to set up your React 18 project with Tailwind 3.x in 2023.](https://dev.to/lubangi/learn-how-to-set-up-your-react-18-project-with-tailwind-3x-in-2023-29lg)
+- [Get into Cloud computing with no experience](https://dev.to/aws/get-into-cloud-computing-with-no-experience-124)
+- [Code Smell 195 - Yoda Conditions](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
 <!-- BLOG-POST-LIST:END -->
 
