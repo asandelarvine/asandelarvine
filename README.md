@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Ethers Programmatically without Metamask](https://dev.to/daltonic/how-to-send-ethers-programmatically-without-metamask-32n9)
+- [Exploring the World of AI with John Smith, Senior Software Engineer at OpenAI](https://dev.to/cloudx/exploring-the-world-of-ai-with-john-smith-senior-software-engineer-at-openai-2l6d)
 - [Using NextJS and AWS to Scale Up Headless BigCommerce Stores](https://dev.to/clearhorizondigital/using-nextjs-and-aws-to-scale-up-headless-bigcommerce-stores-543e)
 - [What a perfect technical director suggests on career development](https://dev.to/olegmelnic/what-a-perfect-technical-director-suggests-on-career-development-ld4)
-- [Information Architecture and Content Planning for Documentation Websites](https://dev.to/erikaheidi/information-architecture-and-content-planning-for-documentation-websites-2cg6)
-- [React useReducer&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/react-usereducer-ae4)
 <!-- BLOG-POST-LIST:END -->
 
