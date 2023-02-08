@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Most Common .NET Interview Questions and Answers](https://dev.to/bookerrjanee/the-most-common-net-interview-questions-and-answers-2a2i)
+- [How To Create Adaptive And Responsive NavBar in Flutter?](https://dev.to/kuldeeptarapara/how-to-create-adaptive-and-responsive-navbar-in-flutter-4174)
 - [Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide](https://dev.to/ademking/fixing-corrupted-docx-files-with-powershell-a-step-by-step-guide-bic)
 - [Build a Killer Job Portal Website Using JobPilot Laravel Script](https://dev.to/hosainmihad/build-a-killer-job-portal-website-using-jobpilot-script-e19)
-- [Why Push Notifications Are On The Rise &amp; What To Do About It](https://dev.to/betty1999kamanthe/why-push-notifications-are-on-the-rise-what-to-do-about-it-5079)
-- [Top 5 Free and Open Source Resume Builders](https://dev.to/opendataanalytics/top-5-free-and-open-source-resume-builders-acj)
 <!-- BLOG-POST-LIST:END -->
 
