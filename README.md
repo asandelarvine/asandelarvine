@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Tracing with OpenTelemetry - Part II](https://dev.to/signoz/distributed-tracing-with-opentelemetry-part-ii-3ieo)
+- [Comparing the best headless CMS solutions](https://dev.to/refine/comparing-the-best-headless-cms-solutions-59hf)
 - [Some Very Cool &lpar;Underrated maybe&rpar; React Libraries](https://dev.to/darkxenium/some-very-cool-underrated-maybe-react-libraries-4do6)
 - [Use Maps more and Objects less](https://dev.to/builderio/use-maps-more-and-objects-less-2flk)
-- [How to Import and Export Excel and CSV Files in Laravel 9](https://dev.to/kkumargcc/how-to-import-and-export-excel-and-csv-files-in-laravel-9-1464)
-- [Sentiment Analysis of Twitter Data using Naive Bayes Algorithm](https://dev.to/anurag629/sentiment-analysis-of-twitter-data-using-naive-bayes-algorithm-2b1f)
 <!-- BLOG-POST-LIST:END -->
 
