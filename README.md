@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [TypeScript Type Inference](https://dev.to/yuya0114/typescript-type-inference-22ch)
 - [Learn how to set up your React 18 project with Tailwind 3.x in 2023.](https://dev.to/lubangi/learn-how-to-set-up-your-react-18-project-with-tailwind-3x-in-2023-29lg)
 - [Get into Cloud computing with no experience](https://dev.to/aws/get-into-cloud-computing-with-no-experience-124)
-- [Code Smell 195 - Yoda Conditions](https://dev.to/mcsee/code-smell-195-yoda-conditions-1mgl)
+- [Omniauth without Devise](https://dev.to/superails/omniauth-without-devise-26mc)
 <!-- BLOG-POST-LIST:END -->
 
