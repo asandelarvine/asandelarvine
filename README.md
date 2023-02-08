@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using NextJS and AWS to Scale Up Headless BigCommerce Stores](https://dev.to/clearhorizondigital/using-nextjs-and-aws-to-scale-up-headless-bigcommerce-stores-543e)
+- [What a perfect technical director suggests on career development](https://dev.to/olegmelnic/what-a-perfect-technical-director-suggests-on-career-development-ld4)
+- [Information Architecture and Content Planning for Documentation Websites](https://dev.to/erikaheidi/information-architecture-and-content-planning-for-documentation-websites-2cg6)
 - [React useReducer&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/react-usereducer-ae4)
-- [Linode + DEV Hackathon Reminder ⏰](https://dev.to/devteam/linode-dev-hackathon-reminder-4h6k)
-- [DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache](https://dev.to/justlorain/dreamemo-an-out-of-the-box-high-scalability-modular-design-distributed-cache-2j3c)
-- [Getting Started With Accessibility for React](https://dev.to/kathryngrayson/getting-started-with-accessibility-for-react-1k3o)
 <!-- BLOG-POST-LIST:END -->
 
