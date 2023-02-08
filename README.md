@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Tracing with OpenTelemetry - Part II](https://dev.to/signoz/distributed-tracing-with-opentelemetry-part-ii-3ieo)
-- [Comparing the best headless CMS solutions](https://dev.to/refine/comparing-the-best-headless-cms-solutions-59hf)
-- [Some Very Cool &lpar;Underrated maybe&rpar; React Libraries](https://dev.to/darkxenium/some-very-cool-underrated-maybe-react-libraries-4do6)
-- [Use Maps more and Objects less](https://dev.to/builderio/use-maps-more-and-objects-less-2flk)
+- [Chaining API Tests to Handle Complex Distributed System Testing](https://dev.to/kubeshop/chaining-api-tests-to-handle-complex-distributed-system-testing-1i5a)
+- [What motivates us?](https://dev.to/alexhyettdev/what-motivates-us-2mje)
+- [Improve Your Dev Productivity with Bookmarks, Snippets and Notes Management](https://dev.to/codever/improve-your-dev-productivity-with-bookmarks-snippets-and-notes-management-5ba9)
+- [Typescript: Array &amp; Tuples](https://dev.to/j471n/typescript-array-tuples-1kh2)
 <!-- BLOG-POST-LIST:END -->
 
