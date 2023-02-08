@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React useReducer&lpar;&rpar; 🪝](https://dev.to/mihir_chhatre/react-usereducer-ae4)
 - [Linode + DEV Hackathon Reminder ⏰](https://dev.to/devteam/linode-dev-hackathon-reminder-4h6k)
 - [DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache](https://dev.to/justlorain/dreamemo-an-out-of-the-box-high-scalability-modular-design-distributed-cache-2j3c)
 - [Getting Started With Accessibility for React](https://dev.to/kathryngrayson/getting-started-with-accessibility-for-react-1k3o)
-- [Introduction to SurrealDB](https://dev.to/surrealdb/introduction-to-surrealdb-2k7b)
 <!-- BLOG-POST-LIST:END -->
 
