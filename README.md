@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is prometheus monitoring?](https://dev.to/ezinne_anne/what-is-promeetheus-monitoring-1530)
-- [A Beginner’s Guide to HTTP &amp; HTTPS](https://dev.to/crazycoder122/a-beginners-guide-to-http-https-2hj2)
-- [Streamlining Constructors in Functional React Components](https://dev.to/bytebodger/streamlining-constructors-in-functional-react-components-8pe)
-- [5 Must-Ask questions before you implement Caching](https://dev.to/dashsaurabh/5-must-ask-questions-before-you-implement-caching-1md2)
+- [Some Very Cool &lpar;Underrated maybe&rpar; React Libraries](https://dev.to/darkxenium/some-very-cool-underrated-maybe-react-libraries-4do6)
+- [Use Maps more and Objects less](https://dev.to/builderio/use-maps-more-and-objects-less-2flk)
+- [How to Import and Export Excel and CSV Files in Laravel 9](https://dev.to/kkumargcc/how-to-import-and-export-excel-and-csv-files-in-laravel-9-1464)
+- [Sentiment Analysis of Twitter Data using Naive Bayes Algorithm](https://dev.to/anurag629/sentiment-analysis-of-twitter-data-using-naive-bayes-algorithm-2b1f)
 <!-- BLOG-POST-LIST:END -->
 
