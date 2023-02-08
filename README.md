@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide](https://dev.to/ademking/fixing-corrupted-docx-files-with-powershell-a-step-by-step-guide-bic)
 - [Build a Killer Job Portal Website Using JobPilot Laravel Script](https://dev.to/hosainmihad/build-a-killer-job-portal-website-using-jobpilot-script-e19)
 - [Why Push Notifications Are On The Rise &amp; What To Do About It](https://dev.to/betty1999kamanthe/why-push-notifications-are-on-the-rise-what-to-do-about-it-5079)
 - [Top 5 Free and Open Source Resume Builders](https://dev.to/opendataanalytics/top-5-free-and-open-source-resume-builders-acj)
-- [Top 10 Netlify Alternatives for Deploying Your Website](https://dev.to/opendataanalytics/top-10-netlify-alternatives-for-deploying-your-website-2ihk)
 <!-- BLOG-POST-LIST:END -->
 
