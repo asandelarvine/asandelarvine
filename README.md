@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing Terraform Efficiency: Best Practices for Infrastructure Management](https://dev.to/roy8/maximizing-terraform-efficiency-best-practices-for-infrastructure-management-1e7g)
-- [ChatGPT Is My New Personal Trainer](https://dev.to/aws-heroes/chatgpt-is-my-new-personal-trainer-55oa)
-- [Fui demitida, e agora?](https://dev.to/dii_lua/fui-demitida-e-agora-2l68)
-- [Chaining API Tests to Handle Complex Distributed System Testing](https://dev.to/kubeshop/chaining-api-tests-to-handle-complex-distributed-system-testing-1i5a)
+- [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-g5p)
+- [Top 10 AWS Certifications for IT Professionals in 2023](https://dev.to/javinpaul/top-10-aws-certifications-for-it-professionals-in-2023-4b3p)
+- [4 Streamlit Alternatives for Building Python Data Apps](https://dev.to/anvil/4-streamlit-alternatives-for-building-python-data-apps-4797)
+- [A Beginner&#39;s Guide to React: Understanding the Basics and Advanced Concepts](https://dev.to/rahul3002/a-beginners-guide-to-react-understanding-the-basics-and-advanced-concepts-hhn)
 <!-- BLOG-POST-LIST:END -->
 
