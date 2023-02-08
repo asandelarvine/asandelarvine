@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Chaining API Tests to Handle Complex Distributed System Testing](https://dev.to/kubeshop/chaining-api-tests-to-handle-complex-distributed-system-testing-1i5a)
+- [Here Are Websites Where You Can Find Your Client](https://dev.to/mrdanishsaleem/here-are-websites-where-you-can-find-your-client-31gb)
 - [What motivates us?](https://dev.to/alexhyettdev/what-motivates-us-2mje)
 - [Improve Your Dev Productivity with Bookmarks, Snippets and Notes Management](https://dev.to/codever/improve-your-dev-productivity-with-bookmarks-snippets-and-notes-management-5ba9)
-- [Typescript: Array &amp; Tuples](https://dev.to/j471n/typescript-array-tuples-1kh2)
 <!-- BLOG-POST-LIST:END -->
 
