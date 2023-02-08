@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Constructors in Functional React Components](https://dev.to/bytebodger/streamlining-constructors-in-functional-react-components-8pe)
 - [5 Must-Ask questions before you implement Caching](https://dev.to/dashsaurabh/5-must-ask-questions-before-you-implement-caching-1md2)
 - [Django: The High-Level Python Web Framework for Effortless and Secure Web Development](https://dev.to/onlydevs_/django-the-high-level-python-web-framework-for-effortless-and-secure-web-development-1ob5)
 - [What is Web3, and its Evolution ✨.](https://dev.to/akshaykurhekar/what-is-web3-and-its-evolution--1dj1)
-- [CSS Social Media Icons](https://dev.to/w7freedownload/css-social-media-icons-13oh)
 <!-- BLOG-POST-LIST:END -->
 
