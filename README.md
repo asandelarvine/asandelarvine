@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-g5p)
+- [Introduction to SurrealDB](https://dev.to/surrealdb/introduction-to-surrealdb-2k7b)
 - [Top 10 AWS Certifications for IT Professionals in 2023](https://dev.to/javinpaul/top-10-aws-certifications-for-it-professionals-in-2023-4b3p)
 - [4 Streamlit Alternatives for Building Python Data Apps](https://dev.to/anvil/4-streamlit-alternatives-for-building-python-data-apps-4797)
 - [A Beginner&#39;s Guide to React: Understanding the Basics and Advanced Concepts](https://dev.to/rahul3002/a-beginners-guide-to-react-understanding-the-basics-and-advanced-concepts-hhn)
