@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Terraform Efficiency: Best Practices for Infrastructure Management](https://dev.to/roy8/maximizing-terraform-efficiency-best-practices-for-infrastructure-management-1e7g)
+- [ChatGPT Is My New Personal Trainer](https://dev.to/aws-heroes/chatgpt-is-my-new-personal-trainer-55oa)
+- [Fui demitida, e agora?](https://dev.to/dii_lua/fui-demitida-e-agora-2l68)
 - [Chaining API Tests to Handle Complex Distributed System Testing](https://dev.to/kubeshop/chaining-api-tests-to-handle-complex-distributed-system-testing-1i5a)
-- [Here Are Websites Where You Can Find Your Client](https://dev.to/mrdanishsaleem/here-are-websites-where-you-can-find-your-client-31gb)
-- [What motivates us?](https://dev.to/alexhyettdev/what-motivates-us-2mje)
-- [Improve Your Dev Productivity with Bookmarks, Snippets and Notes Management](https://dev.to/codever/improve-your-dev-productivity-with-bookmarks-snippets-and-notes-management-5ba9)
 <!-- BLOG-POST-LIST:END -->
 
