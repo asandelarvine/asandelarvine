@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in SeaORM 0.11.0](https://dev.to/seaql/whats-new-in-seaorm-0110-4k13)
+- [JavaScript tutorial series: Variables](https://dev.to/fullstackjo/javascript-tutorial-series-variables-2nmd)
 - [pyaction 4.16.0 Released](https://dev.to/cicirello/pyaction-4160-released-mac)
 - [Liman MYS üzerinde network-API ayağa kaldırma](https://dev.to/aciklab/liman-mys-uzerinde-network-api-ayaga-kaldirma-4gbe)
-- [Build and Deploy NodeJS App On Kubernetes from Scratch](https://dev.to/lovepreetsingh/build-nodejs-app-on-kubernetes-from-scratch-66g)
-- [A beginner&#39;s intro to coding zero-knowledge proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
 <!-- BLOG-POST-LIST:END -->
 
