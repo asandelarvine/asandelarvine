@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Functional React Components](https://dev.to/bytebodger/optimizing-functional-react-components-4poi)
+- [Creating an interactive SVG: The circle of fifths](https://dev.to/logrocket/creating-an-interactive-svg-the-circle-of-fifths-1ak6)
 - [What&#39;s new in SeaORM 0.11.0](https://dev.to/seaql/whats-new-in-seaorm-0110-4k13)
 - [JavaScript tutorial series: Variables](https://dev.to/fullstackjo/javascript-tutorial-series-variables-2nmd)
-- [pyaction 4.16.0 Released](https://dev.to/cicirello/pyaction-4160-released-mac)
-- [Liman MYS üzerinde network-API ayağa kaldırma](https://dev.to/aciklab/liman-mys-uzerinde-network-api-ayaga-kaldirma-4gbe)
 <!-- BLOG-POST-LIST:END -->
 
