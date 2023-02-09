@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [FizzBuzz: the-problem 🧮](https://dev.to/mathleite/fizzbuzz-the-problem-3n6f)
+- [Testing Angular routing components with RouterTestingHarness, provideLocationMocks, and provideRouter](https://dev.to/this-is-angular/testing-angular-routing-components-with-routertestingharness-providelocationmocks-and-providerouter-oi8)
 - [Free Online Storybook Conference 2023 ️‍🔥](https://dev.to/frontendengineer/free-online-storybook-conference-2023-4eh0)
 - [Macro-Roni? AI-yi-yi!](https://dev.to/sidunn/macro-roni-ai-yi-yi-3fce)
-- [¡Ya somos 100 millones!](https://dev.to/github/ya-somos-100-millones-3ndb)
 <!-- BLOG-POST-LIST:END -->
 
