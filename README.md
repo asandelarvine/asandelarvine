@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Greyscale image with filter in CSS3](https://dev.to/w7freedownload/greyscale-image-with-filter-in-css3-1oif)
 - [Securing Admin access to Apache APISIX](https://dev.to/apisix/securing-admin-access-to-apache-apisix-2a82)
 - [30 Git Commands With Example For Developers](https://dev.to/shivam_codenewbie/30-git-commands-with-example-for-developers-40hg)
 - [How to install Gatsby with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-install-gatsby-with-tailwind-css-and-flowbite-4f81)
-- [How to Use Deep Linking in Flutter?](https://dev.to/kuldeeptarapara/how-to-use-deep-linking-in-flutter-2nli)
 <!-- BLOG-POST-LIST:END -->
 
