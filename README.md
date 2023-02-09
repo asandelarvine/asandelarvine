@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Monthly Challenge #4: Valentine&#39;s Day 💘](https://dev.to/codedex/monthly-challenge-4-valentines-day-2o1g)
+- [Ruby on Rails, The Ultimate Guide to strip and lstrip Methods](https://dev.to/ahmednadar/ruby-on-rails-the-ultimate-guide-to-strip-and-lstrip-methods-5hgb)
 - [Securely store environment variables with GitHub Codespaces](https://dev.to/github/securely-store-environment-variables-with-github-codespaces-3dgc)
-- [100% Code Coverage is a Lie 🎯](https://dev.to/this-is-learning/100-code-coverage-is-a-lie-1i1a)
-- [Optimizing Functional React Components](https://dev.to/bytebodger/optimizing-functional-react-components-4poi)
+- [VS Code Setup for Frontend Devs](https://dev.to/ivansimeonov/vs-code-setup-for-frontend-devs-577f)
 <!-- BLOG-POST-LIST:END -->
 
