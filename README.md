@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Admin access to Apache APISIX](https://dev.to/apisix/securing-admin-access-to-apache-apisix-2a82)
+- [30 Git Commands With Example For Developers](https://dev.to/shivam_codenewbie/30-git-commands-with-example-for-developers-40hg)
+- [How to install Gatsby with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-install-gatsby-with-tailwind-css-and-flowbite-4f81)
 - [How to Use Deep Linking in Flutter?](https://dev.to/kuldeeptarapara/how-to-use-deep-linking-in-flutter-2nli)
-- [ANDROID APP SIGNING &amp; ZIPALIGN](https://dev.to/teamliapp/android-app-signing-zipalign-5c98)
-- [Rolling Back to the Top: Mastering Regression Testing for Mobile Apps](https://dev.to/pcloudy_ssts/rolling-back-to-the-top-mastering-regression-testing-for-mobile-apps-mip)
-- [5 Reasons Why GraphQL is the Future of API Development](https://dev.to/manthanbhatt/5-reasons-why-graphql-is-the-future-of-api-development-jgp)
 <!-- BLOG-POST-LIST:END -->
 
