@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FizzBuzz: the-problem 🧮](https://dev.to/mathleite/fizzbuzz-the-problem-3n6f)
 - [Free Online Storybook Conference 2023 ️‍🔥](https://dev.to/frontendengineer/free-online-storybook-conference-2023-4eh0)
 - [Macro-Roni? AI-yi-yi!](https://dev.to/sidunn/macro-roni-ai-yi-yi-3fce)
 - [¡Ya somos 100 millones!](https://dev.to/github/ya-somos-100-millones-3ndb)
-- [How to Send Ethers Programmatically without Metamask](https://dev.to/daltonic/how-to-send-ethers-programmatically-without-metamask-32n9)
 <!-- BLOG-POST-LIST:END -->
 
