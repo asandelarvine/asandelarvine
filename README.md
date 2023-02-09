@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Deep Linking in Flutter?](https://dev.to/kuldeeptarapara/how-to-use-deep-linking-in-flutter-2nli)
 - [ANDROID APP SIGNING &amp; ZIPALIGN](https://dev.to/teamliapp/android-app-signing-zipalign-5c98)
 - [Rolling Back to the Top: Mastering Regression Testing for Mobile Apps](https://dev.to/pcloudy_ssts/rolling-back-to-the-top-mastering-regression-testing-for-mobile-apps-mip)
 - [5 Reasons Why GraphQL is the Future of API Development](https://dev.to/manthanbhatt/5-reasons-why-graphql-is-the-future-of-api-development-jgp)
-- [FizzBuzz: the-problem 🧮](https://dev.to/mathleite/fizzbuzz-the-problem-3n6f)
 <!-- BLOG-POST-LIST:END -->
 
