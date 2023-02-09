@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Challenge #4: Valentine&#39;s Day 💘](https://dev.to/codedex/monthly-challenge-4-valentines-day-2o1g)
-- [Ruby on Rails, The Ultimate Guide to strip and lstrip Methods](https://dev.to/ahmednadar/ruby-on-rails-the-ultimate-guide-to-strip-and-lstrip-methods-5hgb)
-- [Securely store environment variables with GitHub Codespaces](https://dev.to/github/securely-store-environment-variables-with-github-codespaces-3dgc)
-- [VS Code Setup for Frontend Devs](https://dev.to/ivansimeonov/vs-code-setup-for-frontend-devs-577f)
+- [How create and upload content in Cloud Storage GCP?](https://dev.to/xlmriosx/how-create-and-upload-content-in-cloud-storage-gcp-1fae)
+- [Top 20 React Interview Questions &amp; Answers](https://dev.to/davidyaonz/top-20-react-interview-questions-answers-fmm)
+- [A Decade of Lessons Learned: Common Pitfalls in Software Engineering](https://dev.to/godlovedamian/a-decade-of-lessons-learned-common-pitfalls-in-software-engineering-4d6p)
+- [The Best* Tech Interview](https://dev.to/nikacodes/the-best-tech-interview-1gac)
 <!-- BLOG-POST-LIST:END -->
 
