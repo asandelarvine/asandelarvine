@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monthly Challenge #4: Valentine&#39;s Day 💘](https://dev.to/codedex/monthly-challenge-4-valentines-day-2o1g)
+- [Securely store environment variables with GitHub Codespaces](https://dev.to/github/securely-store-environment-variables-with-github-codespaces-3dgc)
 - [100% Code Coverage is a Lie 🎯](https://dev.to/this-is-learning/100-code-coverage-is-a-lie-1i1a)
 - [Optimizing Functional React Components](https://dev.to/bytebodger/optimizing-functional-react-components-4poi)
-- [Creating an interactive SVG: The circle of fifths](https://dev.to/logrocket/creating-an-interactive-svg-the-circle-of-fifths-1ak6)
-- [What&#39;s new in SeaORM 0.11.0](https://dev.to/seaql/whats-new-in-seaorm-0110-4k13)
 <!-- BLOG-POST-LIST:END -->
 
