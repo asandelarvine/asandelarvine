@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Why Google&#39;s Bard AI Lost to ChatGPT](https://dev.to/varshithvhegde/why-googles-bard-ai-lost-to-chatgpt-5f2k)
 - [Centralized Logging with Open Source Tools - OpenTelemetry and SigNoz](https://dev.to/signoz/centralized-logging-with-open-source-tools-opentelemetry-and-signoz-45m6)
+- [Web automation &amp; scraping with Playwright JS](https://dev.to/muratcanyuksel/web-automation-scraping-with-playwright-js-15fp)
 - [Could GitHub Copilot be a valuable investment for my team?](https://dev.to/github/could-github-copilot-be-a-valuable-investment-for-my-team-4l9h)
-- [Docker vs Virtual Machines The Comparison You Need](https://dev.to/bytehide/docker-vs-virtual-machines-the-comparison-you-need-4ai3)
 <!-- BLOG-POST-LIST:END -->
 
