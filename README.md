@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Google&#39;s Bard AI Lost to ChatGPT](https://dev.to/varshithvhegde/why-googles-bard-ai-lost-to-chatgpt-5f2k)
+- [Centralized Logging with Open Source Tools - OpenTelemetry and SigNoz](https://dev.to/signoz/centralized-logging-with-open-source-tools-opentelemetry-and-signoz-45m6)
+- [Could GitHub Copilot be a valuable investment for my team?](https://dev.to/github/could-github-copilot-be-a-valuable-investment-for-my-team-4l9h)
 - [Docker vs Virtual Machines The Comparison You Need](https://dev.to/bytehide/docker-vs-virtual-machines-the-comparison-you-need-4ai3)
-- [How To Make A Music Player Using HTML CSS And JavaScript](https://dev.to/wirelessqna/how-to-make-a-music-player-using-html-css-and-javascript-4ab0)
-- [Azure Containers Services: Pricing and Feature Comparison](https://dev.to/castai/azure-containers-services-pricing-and-feature-comparison-3f3)
-- [Make your Angular NgRx reducers an eye candy 🍬 using this fantastic library](https://dev.to/this-is-angular/make-your-angular-ngrx-reducers-an-eye-candy-using-this-fantastic-library-4b8c)
 <!-- BLOG-POST-LIST:END -->
 
