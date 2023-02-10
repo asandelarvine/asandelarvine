@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The only markdown cheatsheet you will need](https://dev.to/acidop/the-only-markdown-cheatsheet-you-will-need-15db)
-- [A Complete Introduction to CSS display flex property](https://dev.to/stakedesigner/a-complete-introduction-to-css-display-flex-property-1bdf)
-- [GridSearchCV in scikit-learn: A Comprehensive Guide](https://dev.to/anurag629/gridsearchcv-in-scikit-learn-a-comprehensive-guide-2a72)
-- [Learn Nuxt 3 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nuxt-3-full-course-for-beginners-3-hours-2023-56f1)
+- [Dynamic emails with handlebars and nodemailer](https://dev.to/nsmet/dynamic-emails-with-handlebars-and-nodemailer-2e8b)
+- [How I Found The Most Influential Users on Hacker News](https://dev.to/memgraph/how-i-found-the-most-influential-users-on-hacker-news-409g)
+- [Glitch Monthly Newsletter: Twitter ending free API support, community blog posts, WebMIDI and more 🎵](https://dev.to/glitch/glitch-monthly-newsletter-twitter-ending-free-api-support-community-blog-posts-webmidi-and-more-2g2d)
+- [Why you Should Use GraphQL APIs in your Next Project](https://dev.to/hackmamba/why-you-should-use-graphql-apis-in-your-next-project-k4l)
 <!-- BLOG-POST-LIST:END -->
 
