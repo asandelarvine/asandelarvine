@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Complete Guide on Docker Logs [All access methods included]](https://dev.to/danielfavour/complete-guide-on-docker-logs-all-access-methods-included-55gi)
 - [Best Practices for Building Responsive and Accessible Web Applications](https://dev.to/frontend_jedi/best-practices-for-building-responsive-and-accessible-web-applications-1fc4)
+- [AWS Cloud Quest: Parallel Data Processing](https://dev.to/arc/aws-cloud-quest-parallel-data-processing-2o23)
 - [The Problem with MTTR: Learning from Incident Reports](https://dev.to/linearb/the-problem-with-mttr-learning-from-incident-reports-2jpi)
-- [System Design Resources: The Complete Set ⚡📦](https://dev.to/alexr/system-design-resources-the-complete-set-1cl)
-- [Adding client-side rendered webmentions to my blog](https://dev.to/cdransf/adding-client-side-rendered-webmentions-to-my-blog-4fp4)
 <!-- BLOG-POST-LIST:END -->
 
