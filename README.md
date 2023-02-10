@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
+- [New Release of ReductStore JavaScript SDK v1.3.0](https://dev.to/reductstore/new-release-of-reductstore-javascript-sdk-v130-1f3f)
+- [Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
 - [Share your ChatGPT cringe moments 👇 🤖🧠](https://dev.to/ironcladdev/share-your-chatgpt-cringe-moments-1ol6)
-- [Variable Declarations in JavaScript](https://dev.to/catherineisonline/variable-declarations-in-javascript-1915)
-- [Starting my new portfolio](https://dev.to/gilmarabarros/starting-my-new-portfolio-nb3)
+- [My functional journey](https://dev.to/alpercugun/my-functional-journey-4fog)
 <!-- BLOG-POST-LIST:END -->
 
