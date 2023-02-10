@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Next.js app with ApyHub](https://dev.to/apyhub/how-to-build-a-nextjs-app-with-apyhub-1nif)
 - [tsParticles 2.9.0 Released](https://dev.to/tsparticles/tsparticles-290-released-421i)
 - [Caching at DEV](https://dev.to/devteam/caching-at-dev-11el)
 - [Stop using console.log&lpar;&rpar; instead use👇](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
-- [Use ChatGPT API to build a README generator app with low-code](https://dev.to/tooljet/use-chatgpt-api-to-build-a-readme-generator-app-with-low-code-4h19)
 <!-- BLOG-POST-LIST:END -->
 
