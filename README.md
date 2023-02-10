@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Building Responsive and Accessible Web Applications](https://dev.to/frontend_jedi/best-practices-for-building-responsive-and-accessible-web-applications-1fc4)
+- [The Problem with MTTR: Learning from Incident Reports](https://dev.to/linearb/the-problem-with-mttr-learning-from-incident-reports-2jpi)
 - [System Design Resources: The Complete Set ⚡📦](https://dev.to/alexr/system-design-resources-the-complete-set-1cl)
-- [How create and upload content in Cloud Storage GCP?](https://dev.to/xlmriosx/how-create-and-upload-content-in-cloud-storage-gcp-1fae)
-- [Top 20 React Interview Questions &amp; Answers](https://dev.to/davidyaonz/top-20-react-interview-questions-answers-fmm)
-- [A Decade of Lessons Learned: Common Pitfalls in Software Engineering](https://dev.to/godlovedamian/a-decade-of-lessons-learned-common-pitfalls-in-software-engineering-4d6p)
+- [Adding client-side rendered webmentions to my blog](https://dev.to/cdransf/adding-client-side-rendered-webmentions-to-my-blog-4fp4)
 <!-- BLOG-POST-LIST:END -->
 
