@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When useEffect runs](https://dev.to/cassidoo/when-useeffect-runs-3pf3)
-- [The Ultimate MongoDB Command Cheatsheet for Developers](https://dev.to/muhammadabir/the-ultimate-mongodb-command-cheatsheet-for-developers-5f9i)
-- [How I Built My Fullstack Portfolio Website🐬](https://dev.to/arafat4693/how-i-built-my-fullstack-and-typesafe-portfolio-website-26ia)
-- [CodePen Designs - 35 : 3D Ecommerce Experience with Spline](https://dev.to/jon_snow789/codepen-designs-35-3d-ecommerce-experience-with-spline-51md)
+- [Variable Declarations in JavaScript](https://dev.to/catherineisonline/variable-declarations-in-javascript-1915)
+- [Quick guide for YAML](https://dev.to/mariamarsh/quick-guide-for-yaml-2i1a)
+- [TIL The founder of the world’s fastest unicorn found his previous business partner on Craigslist](https://dev.to/linearb/til-the-founder-of-the-worlds-fastest-unicorn-found-his-previous-business-partner-on-craigslist-4bga)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-1h83)
 <!-- BLOG-POST-LIST:END -->
 
