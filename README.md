@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use cases of log.Fatal in Golang](https://dev.to/mavensingh/use-cases-of-logfatal-in-golang-ag9)
+- [How to add custom attributes in Prisma](https://dev.to/zenstack/how-to-add-custom-attributes-in-prisma-6i8)
 - [How to format SD Card to APFS on Mac](https://dev.to/calvinpak/how-to-format-sd-card-to-apfs-on-mac-2d2g)
 - [Time Management Techniques for Developers to Boost Productivity⏳](https://dev.to/theinfosecguy/time-management-techniques-for-developers-to-boost-productivity-34ck)
-- [Crack Your Next Coding Interview with These Proven Preparation Strategies](https://dev.to/onlydevs_/crack-your-next-coding-interview-with-these-proven-preparation-strategies-5457)
-- [How to implement a distributed /etc directory using etcd and JuiceFS](https://dev.to/tonybarber2/how-to-implement-a-distributed-etc-directory-using-etcd-and-juicefs-2edp)
 <!-- BLOG-POST-LIST:END -->
 
