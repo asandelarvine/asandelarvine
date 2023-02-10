@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using console.log&lpar;&rpar; instead use👇](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
+- [Use ChatGPT API to build a README generator app with low-code](https://dev.to/tooljet/use-chatgpt-api-to-build-a-readme-generator-app-with-low-code-4h19)
+- [Kubernetes Load Balancer: Expert Guide With Examples](https://dev.to/castai/kubernetes-load-balancer-expert-guide-with-examples-5an6)
 - [3D Orbiting Split Images](https://dev.to/w7freedownload/3d-orbiting-split-images-2n98)
-- [Use cases of log.Fatal in Golang](https://dev.to/mavensingh/use-cases-of-logfatal-in-golang-ag9)
-- [How to add custom attributes in Prisma](https://dev.to/zenstack/how-to-add-custom-attributes-in-prisma-6i8)
-- [How To Create Custom Alerts in React Using React-Notifications-Component](https://dev.to/precious654/how-to-create-custom-alerts-in-react-using-react-notifications-component-3k9l)
 <!-- BLOG-POST-LIST:END -->
 
