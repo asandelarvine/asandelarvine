@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 GitHub Repos That&#39;ll Make You a Better Developer ️‍🔥](https://dev.to/rahul3002/10-github-repos-thatll-make-you-a-better-developer-2cg6)
+- [How to Build GPT with NumPy in a Day](https://dev.to/opendataanalytics/how-to-build-gpt-with-numpy-in-a-day-1jfo)
 - [Complete Guide on Docker Logs [All access methods included]](https://dev.to/danielfavour/complete-guide-on-docker-logs-all-access-methods-included-55gi)
 - [Best Practices for Building Responsive and Accessible Web Applications](https://dev.to/frontend_jedi/best-practices-for-building-responsive-and-accessible-web-applications-1fc4)
-- [AWS Cloud Quest: Parallel Data Processing](https://dev.to/arc/aws-cloud-quest-parallel-data-processing-2o23)
-- [The Problem with MTTR: Learning from Incident Reports](https://dev.to/linearb/the-problem-with-mttr-learning-from-incident-reports-2jpi)
 <!-- BLOG-POST-LIST:END -->
 
