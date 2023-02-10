@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Next.js app with ApyHub](https://dev.to/apyhub/how-to-build-a-nextjs-app-with-apyhub-1nif)
-- [tsParticles 2.9.0 Released](https://dev.to/tsparticles/tsparticles-290-released-421i)
-- [Caching at DEV](https://dev.to/devteam/caching-at-dev-11el)
-- [Stop using console.log&lpar;&rpar; instead use👇](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
+- [The only markdown cheatsheet you will need](https://dev.to/acidop/the-only-markdown-cheatsheet-you-will-need-15db)
+- [A Complete Introduction to CSS display flex property](https://dev.to/stakedesigner/a-complete-introduction-to-css-display-flex-property-1bdf)
+- [GridSearchCV in scikit-learn: A Comprehensive Guide](https://dev.to/anurag629/gridsearchcv-in-scikit-learn-a-comprehensive-guide-2a72)
+- [Learn Nuxt 3 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nuxt-3-full-course-for-beginners-3-hours-2023-56f1)
 <!-- BLOG-POST-LIST:END -->
 
