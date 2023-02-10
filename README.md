@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3D Orbiting Split Images](https://dev.to/w7freedownload/3d-orbiting-split-images-2n98)
 - [Use cases of log.Fatal in Golang](https://dev.to/mavensingh/use-cases-of-logfatal-in-golang-ag9)
 - [How to add custom attributes in Prisma](https://dev.to/zenstack/how-to-add-custom-attributes-in-prisma-6i8)
-- [How to format SD Card to APFS on Mac](https://dev.to/calvinpak/how-to-format-sd-card-to-apfs-on-mac-2d2g)
-- [Time Management Techniques for Developers to Boost Productivity⏳](https://dev.to/theinfosecguy/time-management-techniques-for-developers-to-boost-productivity-34ck)
+- [How To Create Custom Alerts in React Using React-Notifications-Component](https://dev.to/precious654/how-to-create-custom-alerts-in-react-using-react-notifications-component-3k9l)
 <!-- BLOG-POST-LIST:END -->
 
