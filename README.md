@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [tsParticles 2.9.0 Released](https://dev.to/tsparticles/tsparticles-290-released-421i)
+- [Caching at DEV](https://dev.to/devteam/caching-at-dev-11el)
 - [Stop using console.log&lpar;&rpar; instead use👇](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
 - [Use ChatGPT API to build a README generator app with low-code](https://dev.to/tooljet/use-chatgpt-api-to-build-a-readme-generator-app-with-low-code-4h19)
-- [Kubernetes Load Balancer: Expert Guide With Examples](https://dev.to/castai/kubernetes-load-balancer-expert-guide-with-examples-5an6)
-- [3D Orbiting Split Images](https://dev.to/w7freedownload/3d-orbiting-split-images-2n98)
 <!-- BLOG-POST-LIST:END -->
 
