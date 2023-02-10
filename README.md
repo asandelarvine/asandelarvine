@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to format SD Card to APFS on Mac](https://dev.to/calvinpak/how-to-format-sd-card-to-apfs-on-mac-2d2g)
+- [Time Management Techniques for Developers to Boost Productivity⏳](https://dev.to/theinfosecguy/time-management-techniques-for-developers-to-boost-productivity-34ck)
+- [Crack Your Next Coding Interview with These Proven Preparation Strategies](https://dev.to/onlydevs_/crack-your-next-coding-interview-with-these-proven-preparation-strategies-5457)
 - [How to implement a distributed /etc directory using etcd and JuiceFS](https://dev.to/tonybarber2/how-to-implement-a-distributed-etc-directory-using-etcd-and-juicefs-2edp)
-- [From Founder to Freelancer: How I Incorporated a Business and Onboarded My First Client](https://dev.to/hacubu/from-founder-to-freelancer-how-i-incorporated-a-business-and-onboarded-my-first-client-51c4)
-- [JavaScript Array Methods Cheatsheet](https://dev.to/codeofrelevancy/javascript-array-methods-cheatsheet-4abn)
-- [Boost Your Productivity as a Developer with OpenAI&#39;s ChatGPT](https://dev.to/manthanbhatt/boost-your-productivity-as-a-developer-with-openais-chatgpt-1n5l)
 <!-- BLOG-POST-LIST:END -->
 
