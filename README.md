@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
+- [Share your ChatGPT cringe moments 👇 🤖🧠](https://dev.to/ironcladdev/share-your-chatgpt-cringe-moments-1ol6)
 - [Variable Declarations in JavaScript](https://dev.to/catherineisonline/variable-declarations-in-javascript-1915)
-- [Quick guide for YAML](https://dev.to/mariamarsh/quick-guide-for-yaml-2i1a)
-- [TIL The founder of the world’s fastest unicorn found his previous business partner on Craigslist](https://dev.to/linearb/til-the-founder-of-the-worlds-fastest-unicorn-found-his-previous-business-partner-on-craigslist-4bga)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-1h83)
+- [Starting my new portfolio](https://dev.to/gilmarabarros/starting-my-new-portfolio-nb3)
 <!-- BLOG-POST-LIST:END -->
 
