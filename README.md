@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Array Methods Cheatsheet](https://dev.to/codeofrelevancy/javascript-array-methods-cheatsheet-4abn)
+- [Boost Your Productivity as a Developer with OpenAI&#39;s ChatGPT](https://dev.to/manthanbhatt/boost-your-productivity-as-a-developer-with-openais-chatgpt-1n5l)
 - [10 GitHub Repos That&#39;ll Make You a Better Developer ️‍🔥](https://dev.to/rahul3002/10-github-repos-thatll-make-you-a-better-developer-2cg6)
 - [How to Build GPT with NumPy in a Day](https://dev.to/opendataanalytics/how-to-build-gpt-with-numpy-in-a-day-1jfo)
-- [Complete Guide on Docker Logs [All access methods included]](https://dev.to/danielfavour/complete-guide-on-docker-logs-all-access-methods-included-55gi)
-- [Best Practices for Building Responsive and Accessible Web Applications](https://dev.to/frontend_jedi/best-practices-for-building-responsive-and-accessible-web-applications-1fc4)
 <!-- BLOG-POST-LIST:END -->
 
