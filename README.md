@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When useEffect runs](https://dev.to/cassidoo/when-useeffect-runs-3pf3)
+- [The Ultimate MongoDB Command Cheatsheet for Developers](https://dev.to/muhammadabir/the-ultimate-mongodb-command-cheatsheet-for-developers-5f9i)
 - [How I Built My Fullstack Portfolio Website🐬](https://dev.to/arafat4693/how-i-built-my-fullstack-and-typesafe-portfolio-website-26ia)
 - [CodePen Designs - 35 : 3D Ecommerce Experience with Spline](https://dev.to/jon_snow789/codepen-designs-35-3d-ecommerce-experience-with-spline-51md)
-- [Cracking Your Technical Interview with LeetCode: A Step-by-Step Guide](https://dev.to/kunalkumar007/cracking-your-technical-interview-with-leetcode-a-step-by-step-guide-3aj6)
-- [Dynamic emails with handlebars and nodemailer](https://dev.to/nsmet/dynamic-emails-with-handlebars-and-nodemailer-2e8b)
 <!-- BLOG-POST-LIST:END -->
 
