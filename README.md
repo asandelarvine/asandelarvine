@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodePen Designs - 35 : 3D Ecommerce Experience with Spline](https://dev.to/jon_snow789/codepen-designs-35-3d-ecommerce-experience-with-spline-51md)
 - [Dynamic emails with handlebars and nodemailer](https://dev.to/nsmet/dynamic-emails-with-handlebars-and-nodemailer-2e8b)
 - [How I Found The Most Influential Users on Hacker News](https://dev.to/memgraph/how-i-found-the-most-influential-users-on-hacker-news-409g)
 - [Glitch Monthly Newsletter: Twitter ending free API support, community blog posts, WebMIDI and more 🎵](https://dev.to/glitch/glitch-monthly-newsletter-twitter-ending-free-api-support-community-blog-posts-webmidi-and-more-2g2d)
-- [Why you Should Use GraphQL APIs in your Next Project](https://dev.to/hackmamba/why-you-should-use-graphql-apis-in-your-next-project-k4l)
 <!-- BLOG-POST-LIST:END -->
 
