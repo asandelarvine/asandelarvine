@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Complete CSS Selector Cheat Sheet: A Hands-On Guide with images😍](https://dev.to/arafat4693/complete-css-selector-cheat-sheet-a-hands-on-guide-with-images-5ff1)
 - [Open Source ChatGPT based Bing Search launched](https://dev.to/polterguy/open-source-chatgpt-based-bing-search-launched-1kii)
 - [Npm vs Yarn: What Should you use for managing packages in React?](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
 - [What are portals in React?](https://dev.to/codeofrelevancy/what-are-portals-in-react-eb)
-- [Decoding the Evolving Landscape of Web Development](https://dev.to/zenstack/decoding-the-evolving-landscape-of-web-development-3b65)
 <!-- BLOG-POST-LIST:END -->
 
