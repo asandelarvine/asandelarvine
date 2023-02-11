@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn about Linear Regression: Theory, Examples, and Applications 💻](https://dev.to/ramanbansal/learn-about-linear-regression-theory-examples-and-applications-5aa7)
+- [Pure CSS3 Robot with JS Clocks](https://dev.to/w7freedownload/pure-css3-robot-with-js-clocks-do3)
+- [Widely Used JavaScript Data Structures](https://dev.to/cleveroscar/widely-used-javascript-data-structures-4jpf)
 - [Building a Secure JWT Server with Node.js and jsonwebtoken](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
-- [My setup for publishing to Dev.to using github](https://dev.to/jlewis92/my-setup-for-publishing-to-devto-using-github-1k0n)
-- [¿Cómo instalar ubuntu server en una imagen docker desde un Sistema Operativo Windows?](https://dev.to/ronaldobc21/como-instalar-ubuntu-server-en-una-imagen-docker-desde-un-sistema-operativo-windows-2dnh)
-- [13 Of The Best Web3 Applications In 2023](https://dev.to/dipprofitdotcom/13-of-the-best-web3-applications-in-2023-ibp)
 <!-- BLOG-POST-LIST:END -->
 
