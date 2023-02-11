@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A minimal, multi-framework, responsive image component](https://dev.to/ascorbic/a-minimal-multi-framework-responsive-image-component-3iop)
 - [Redux-like state container in SwiftUI. Usage.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-usage-k1i)
 - [Redux-like state container in SwiftUI. Side effects.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-side-effects-3l23)
 - [Redux-like state container in SwiftUI. Unidirectional flow.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-unidirectional-flow-3f2p)
-- [Redux-like state container in SwiftUI. Reducer and Actions](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-reducer-and-actions-flg)
 <!-- BLOG-POST-LIST:END -->
 
