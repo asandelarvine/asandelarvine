@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [C# Q&amp;A : Part 1](https://dev.to/rasheedmozaffar/c-qa-part-1-5fog)
 - [Decoding JS: Polyfills and Transpilers](https://dev.to/harshitakanal/decoding-js-polyfills-and-transpilers-3b87)
 - [Getting Started with React.js: A Comprehensive Guide for Beginners](https://dev.to/haszankauna/getting-started-with-reactjs-a-comprehensive-guidefor-beginners-3bp2)
-- [Fastest way to unleash the full power of i18next](https://dev.to/adrai/fastest-way-to-unleash-the-full-power-of-i18next-3bbm)
+- [Difference between Promises and Observables](https://dev.to/jahid6597/difference-between-promises-and-observables-2a2p)
 <!-- BLOG-POST-LIST:END -->
 
