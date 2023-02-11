@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Q&amp;A : Part 1](https://dev.to/rasheedmozaffar/c-qa-part-1-5fog)
+- [Decoding JS: Polyfills and Transpilers](https://dev.to/harshitakanal/decoding-js-polyfills-and-transpilers-3b87)
+- [Getting Started with React.js: A Comprehensive Guide for Beginners](https://dev.to/haszankauna/getting-started-with-reactjs-a-comprehensive-guidefor-beginners-3bp2)
 - [Fastest way to unleash the full power of i18next](https://dev.to/adrai/fastest-way-to-unleash-the-full-power-of-i18next-3bbm)
-- [Eu sou um falso Developer Advocate](https://dev.to/devrelbr/eu-sou-um-falso-developer-advocate-5fd7)
-- [Releasing OpenAPI.security, a free tool to quickly check the security of any Swagger / OpenAPI-based API](https://dev.to/tristankalos/releasing-openapisecurity-a-free-tool-to-quickly-check-the-security-of-any-swagger-openapi-based-api-4d47)
-- [Developers 👨‍💻 Tools With Artificial Intelligence](https://dev.to/mahmoudessam/developers-tools-with-artificial-intelligence-njo)
 <!-- BLOG-POST-LIST:END -->
 
