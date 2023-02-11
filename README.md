@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Created a Trending Github Repository and Got 100+ Stars](https://dev.to/yashash_pugalia/how-i-created-a-trending-github-repository-and-got-100-stars-219j)
-- [Staff Engineer: Leadership beyond the management track - Book Notes](https://dev.to/marcostx/on-staff-engineer-leadership-beyond-the-management-track-31p8)
-- [Docker Containers: A Technical Guide for Developers](https://dev.to/opendataanalytics/docker-containers-a-technical-guide-for-developers-344k)
-- [Revue Alternative For Your Personal Blog](https://dev.to/nazha/revue-alternative-for-your-personal-blog-m6c)
+- [Redux-like state container in SwiftUI. Usage.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-usage-k1i)
+- [Redux-like state container in SwiftUI. Side effects.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-side-effects-3l23)
+- [Redux-like state container in SwiftUI. Unidirectional flow.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-unidirectional-flow-3f2p)
+- [Redux-like state container in SwiftUI. Reducer and Actions](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-reducer-and-actions-flg)
 <!-- BLOG-POST-LIST:END -->
 
