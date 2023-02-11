@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Fastest way to unleash the full power of i18next](https://dev.to/adrai/fastest-way-to-unleash-the-full-power-of-i18next-3bbm)
+- [Eu sou um falso Developer Advocate](https://dev.to/devrelbr/eu-sou-um-falso-developer-advocate-5fd7)
 - [Releasing OpenAPI.security, a free tool to quickly check the security of any Swagger / OpenAPI-based API](https://dev.to/tristankalos/releasing-openapisecurity-a-free-tool-to-quickly-check-the-security-of-any-swagger-openapi-based-api-4d47)
 - [Developers 👨‍💻 Tools With Artificial Intelligence](https://dev.to/mahmoudessam/developers-tools-with-artificial-intelligence-njo)
-- [Operating System and it&#39;s concepts](https://dev.to/j471n/operating-system-and-its-concepts-2oa4)
 <!-- BLOG-POST-LIST:END -->
 
