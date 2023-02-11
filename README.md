@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Release of ReductStore JavaScript SDK v1.3.0](https://dev.to/reductstore/new-release-of-reductstore-javascript-sdk-v130-1f3f)
-- [Better Folding✨ - All you ever wished from VSCode folding.](https://dev.to/mtbaqer/introducing-better-folding-all-you-ever-wished-from-vscode-folding-cga)
-- [Share your ChatGPT cringe moments 👇 🤖🧠](https://dev.to/ironcladdev/share-your-chatgpt-cringe-moments-1ol6)
-- [My functional journey](https://dev.to/alpercugun/my-functional-journey-4fog)
+- [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
+- [An issue task board for audacious open source contributors](https://dev.to/quine/an-issue-task-board-for-audacious-open-source-contributors-1p39)
+- [AWS Cloud Quest: Orchestrate Serverless Workflows](https://dev.to/arc/aws-cloud-quest-orchestrate-serverless-workflows-10el)
+- [Mind Mapping for Software Engineers: A Powerful Tool for Problem-Solving and Design](https://dev.to/dilika/mind-mapping-for-software-engineers-a-powerful-tool-for-problem-solving-and-design-1j77)
 <!-- BLOG-POST-LIST:END -->
 
