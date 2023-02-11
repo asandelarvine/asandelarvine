@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo instalar ubuntu server en una imagen docker desde un Sistema Operativo Windows?](https://dev.to/ronaldobc21/como-instalar-ubuntu-server-en-una-imagen-docker-desde-un-sistema-operativo-windows-2dnh)
+- [13 Of The Best Web3 Applications In 2023](https://dev.to/dipprofitdotcom/13-of-the-best-web3-applications-in-2023-ibp)
 - [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
-- [An issue task board for audacious open source contributors](https://dev.to/quine/an-issue-task-board-for-audacious-open-source-contributors-1p39)
-- [AWS Cloud Quest: Orchestrate Serverless Workflows](https://dev.to/arc/aws-cloud-quest-orchestrate-serverless-workflows-10el)
-- [Mind Mapping for Software Engineers: A Powerful Tool for Problem-Solving and Design](https://dev.to/dilika/mind-mapping-for-software-engineers-a-powerful-tool-for-problem-solving-and-design-1j77)
+- [The SQL to CRUD: The Use of Structured Query Language to Create, Read, Update, and Destroy](https://dev.to/chukwuma1976/the-sql-to-crud-the-use-of-structured-query-language-to-create-read-update-and-destroy-26mp)
 <!-- BLOG-POST-LIST:END -->
 
