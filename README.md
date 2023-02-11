@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source ChatGPT based Bing Search launched](https://dev.to/polterguy/open-source-chatgpt-based-bing-search-launched-1kii)
+- [Npm vs Yarn: What Should you use for managing packages in React?](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
+- [What are portals in React?](https://dev.to/codeofrelevancy/what-are-portals-in-react-eb)
 - [Decoding the Evolving Landscape of Web Development](https://dev.to/zenstack/decoding-the-evolving-landscape-of-web-development-3b65)
-- [Deploy Your Node.js Project on AWS with Nginx and SSL](https://dev.to/alanmathew175/deploy-your-nodejs-project-on-aws-with-nginx-and-ssl-4944)
-- [Roast my CSS](https://dev.to/vulcanwm/roast-my-css-3m92)
-- [Highest amount of followers?](https://dev.to/vulcanwm/highest-amount-of-followers-1gla)
 <!-- BLOG-POST-LIST:END -->
 
