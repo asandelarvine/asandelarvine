@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding the Evolving Landscape of Web Development](https://dev.to/zenstack/decoding-the-evolving-landscape-of-web-development-3b65)
 - [Deploy Your Node.js Project on AWS with Nginx and SSL](https://dev.to/alanmathew175/deploy-your-nodejs-project-on-aws-with-nginx-and-ssl-4944)
-- [Why Developers Should Learn Docker and Kubernetes in 2023](https://dev.to/javinpaul/why-developers-should-learn-docker-and-kubernetes-in-2023-4hof)
-- [Forward Compatible Enum Values in API with Java Jackson](https://dev.to/kirekov/forward-compatible-enum-values-in-api-with-java-jackson-532p)
-- [WebSockets in Go: A hijackers&#39; perspective](https://dev.to/pankhudib/websockets-in-go-a-hijackers-perspective-172l)
+- [Roast my CSS](https://dev.to/vulcanwm/roast-my-css-3m92)
+- [Highest amount of followers?](https://dev.to/vulcanwm/highest-amount-of-followers-1gla)
 <!-- BLOG-POST-LIST:END -->
 
