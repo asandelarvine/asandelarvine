@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete CSS Selector Cheat Sheet: A Hands-On Guide with images😍](https://dev.to/arafat4693/complete-css-selector-cheat-sheet-a-hands-on-guide-with-images-5ff1)
-- [Open Source ChatGPT based Bing Search launched](https://dev.to/polterguy/open-source-chatgpt-based-bing-search-launched-1kii)
-- [Npm vs Yarn: What Should you use for managing packages in React?](https://dev.to/darkxenium/npm-vs-yarn-what-should-you-use-for-managing-packages-in-react-2332)
-- [What are portals in React?](https://dev.to/codeofrelevancy/what-are-portals-in-react-eb)
+- [How I Created a Trending Github Repository and Got 100+ Stars](https://dev.to/yashash_pugalia/how-i-created-a-trending-github-repository-and-got-100-stars-219j)
+- [Staff Engineer: Leadership beyond the management track - Book Notes](https://dev.to/marcostx/on-staff-engineer-leadership-beyond-the-management-track-31p8)
+- [Docker Containers: A Technical Guide for Developers](https://dev.to/opendataanalytics/docker-containers-a-technical-guide-for-developers-344k)
+- [Revue Alternative For Your Personal Blog](https://dev.to/nazha/revue-alternative-for-your-personal-blog-m6c)
 <!-- BLOG-POST-LIST:END -->
 
