@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A minimal, multi-framework, responsive image component](https://dev.to/ascorbic/a-minimal-multi-framework-responsive-image-component-3iop)
-- [Redux-like state container in SwiftUI. Usage.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-usage-k1i)
-- [Redux-like state container in SwiftUI. Side effects.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-side-effects-3l23)
-- [Redux-like state container in SwiftUI. Unidirectional flow.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-basics-unidirectional-flow-3f2p)
+- [Fastest way to unleash the full power of i18next](https://dev.to/adrai/fastest-way-to-unleash-the-full-power-of-i18next-3bbm)
+- [Releasing OpenAPI.security, a free tool to quickly check the security of any Swagger / OpenAPI-based API](https://dev.to/tristankalos/releasing-openapisecurity-a-free-tool-to-quickly-check-the-security-of-any-swagger-openapi-based-api-4d47)
+- [Developers 👨‍💻 Tools With Artificial Intelligence](https://dev.to/mahmoudessam/developers-tools-with-artificial-intelligence-njo)
+- [Operating System and it&#39;s concepts](https://dev.to/j471n/operating-system-and-its-concepts-2oa4)
 <!-- BLOG-POST-LIST:END -->
 
