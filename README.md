@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Secure JWT Server with Node.js and jsonwebtoken](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
 - [My setup for publishing to Dev.to using github](https://dev.to/jlewis92/my-setup-for-publishing-to-devto-using-github-1k0n)
 - [¿Cómo instalar ubuntu server en una imagen docker desde un Sistema Operativo Windows?](https://dev.to/ronaldobc21/como-instalar-ubuntu-server-en-una-imagen-docker-desde-un-sistema-operativo-windows-2dnh)
 - [13 Of The Best Web3 Applications In 2023](https://dev.to/dipprofitdotcom/13-of-the-best-web3-applications-in-2023-ibp)
-- [NPM Commands and Shortcuts You Should Know as a JavaScript Dev](https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15)
 <!-- BLOG-POST-LIST:END -->
 
