@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Developers Should Learn Docker and Kubernetes in 2023](https://dev.to/javinpaul/why-developers-should-learn-docker-and-kubernetes-in-2023-4hof)
+- [Forward Compatible Enum Values in API with Java Jackson](https://dev.to/kirekov/forward-compatible-enum-values-in-api-with-java-jackson-532p)
+- [WebSockets in Go: A hijackers&#39; perspective](https://dev.to/pankhudib/websockets-in-go-a-hijackers-perspective-172l)
 - [Learn about Linear Regression: Theory, Examples, and Applications 💻](https://dev.to/ramanbansal/learn-about-linear-regression-theory-examples-and-applications-5aa7)
-- [Pure CSS3 Robot with JS Clocks](https://dev.to/w7freedownload/pure-css3-robot-with-js-clocks-do3)
-- [Widely Used JavaScript Data Structures](https://dev.to/cleveroscar/widely-used-javascript-data-structures-4jpf)
-- [Building a Secure JWT Server with Node.js and jsonwebtoken](https://dev.to/knitesh/building-a-secure-jwt-server-with-nodejs-and-jsonwebtoken-2l32)
 <!-- BLOG-POST-LIST:END -->
 
