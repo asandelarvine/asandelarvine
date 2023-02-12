@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Cluster Module: Scaling Your Applications](https://dev.to/aquibzahidi/nodejs-cluster-module-scaling-your-applications-4och)
 - [State management options in React](https://dev.to/chrisspotless/state-management-options-in-react-3ekl)
 - [The Importance of CDN for Scalable Web Applications](https://dev.to/sarahokolo/the-importance-of-cdn-for-scalable-web-applications-8ej)
 - [tsParticles 2.9.3 Released](https://dev.to/tsparticles/tsparticles-293-released-51a5)
-- [BenQ ScreenBar Halo Monitor Light Review](https://dev.to/nickytonline/benq-screenbar-halo-monitor-light-review-54ej)
 <!-- BLOG-POST-LIST:END -->
 
