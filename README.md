@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Make Vercel Preview Deployments 10x More Valuable for Your Team 😎](https://dev.to/livecycle/how-to-make-vercel-preview-deployments-10x-more-valuable-for-your-team-3m50)
-- [Make your original git! &lpar;Analyze section&rpar;](https://dev.to/nopenoshishi/make-your-original-git-analyze-section-139d)
-- [Free Front-End courses with certificates](https://dev.to/kigunodark/free-front-end-courses-with-certificates-2478)
-- [Milligram CSS: カスタム・ビルド &lpar;Node.js 18 on Alpine Linux 3.17 使用&rpar;](https://dev.to/nabbisen/milligram-css-kasutamubirudo-nodejs-18-on-alpine-linux-317-shi-yong--1ppi)
+- [Think You&#39;re a JavaScript Pro? Find Out with this Quiz👇](https://dev.to/arafat4693/think-youre-a-javascript-pro-find-out-with-this-quiz-8ok)
+- [Basics &amp; Routing in Next JS](https://dev.to/jay818/basics-routing-in-next-js-58hj)
+- [Technical Writing Process: How To Write A Good Technical Article](https://dev.to/the_greatbonnie/technical-writing-process-how-to-write-a-good-technical-article-j67)
+- [CSS Shorthand Properties](https://dev.to/prerna0202/css-shorthand-properties-boa)
 <!-- BLOG-POST-LIST:END -->
 
