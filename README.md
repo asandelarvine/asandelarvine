@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading articles quickly in my native language](https://dev.to/jiyeonseo/reading-articles-quickly-in-my-native-language-3fg9)
 - [React dans Symfony avec Vite](https://dev.to/gbtux/react-dans-symfony-avec-vite-5e74)
 - [Write promises chaining using async/await.](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
 - [Use APIs the write way](https://dev.to/limacodes/use-apis-the-write-way-3flf)
-- [C# Q&amp;A : Part 1](https://dev.to/rasheedmozaffar/c-qa-part-1-5fog)
 <!-- BLOG-POST-LIST:END -->
 
