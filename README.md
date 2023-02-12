@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React dans Symfony avec Vite](https://dev.to/gbtux/react-dans-symfony-avec-vite-5e74)
+- [Write promises chaining using async/await.](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
+- [Use APIs the write way](https://dev.to/limacodes/use-apis-the-write-way-3flf)
 - [C# Q&amp;A : Part 1](https://dev.to/rasheedmozaffar/c-qa-part-1-5fog)
-- [Decoding JS: Polyfills and Transpilers](https://dev.to/harshitakanal/decoding-js-polyfills-and-transpilers-3b87)
-- [Getting Started with React.js: A Comprehensive Guide for Beginners](https://dev.to/haszankauna/getting-started-with-reactjs-a-comprehensive-guidefor-beginners-3bp2)
-- [Difference between Promises and Observables](https://dev.to/jahid6597/difference-between-promises-and-observables-2a2p)
 <!-- BLOG-POST-LIST:END -->
 
