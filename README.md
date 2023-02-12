@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [tsParticles 2.9.3 Released](https://dev.to/tsparticles/tsparticles-293-released-51a5)
+- [BenQ ScreenBar Halo Monitor Light Review](https://dev.to/nickytonline/benq-screenbar-halo-monitor-light-review-54ej)
+- [A tutorial on building a REST API with PHP and Laravel](https://dev.to/zhukmax/a-tutorial-on-building-a-rest-api-with-php-and-laravel-2gde)
 - [Top 5 websites to sharpen your front-end skills.](https://dev.to/ymhaah/top-5-websites-to-sharpen-your-front-end-skills-3ao0)
-- [Z-Library Gets Taken Down by US Authorities, But why?](https://dev.to/aliahmed/z-library-gets-taken-down-by-us-authorities-but-why-11l5)
-- [Meta &lpar;Facebook&rpar;: Ask Me Anything](https://dev.to/alexr/meta-facebook-ask-me-anything-39o3)
-- [useMemo vs useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
 <!-- BLOG-POST-LIST:END -->
 
