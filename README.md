@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta &lpar;Facebook&rpar;: Ask Me Anything](https://dev.to/alexr/meta-facebook-ask-me-anything-39o3)
+- [useMemo vs useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
 - [Fine-Tune GPT-3 on custom datasets with just 10 lines of code using GPT-Index](https://dev.to/dhanushreddy29/fine-tune-gpt-3-on-custom-dataset-with-just-10-lines-of-code-using-gpt-index-18mc)
 - [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb)
-- [First P2E game on Tableland &lpar;2&rpar;](https://dev.to/ponyjackal/first-p2e-game-on-tableland-2-5g31)
-- [tsParticles 2.9.2 Released](https://dev.to/tsparticles/tsparticles-292-released-51f3)
 <!-- BLOG-POST-LIST:END -->
 
