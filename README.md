@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Reading articles quickly in my native language](https://dev.to/jiyeonseo/reading-articles-quickly-in-my-native-language-3fg9)
 - [Check Website Headers](https://dev.to/jicking/check-website-headers-38n1)
 - [Canvas Rainbow effect](https://dev.to/shrutikapoor08/canvas-rainbow-effect-1b4i)
-- [React dans Symfony avec Vite](https://dev.to/gbtux/react-dans-symfony-avec-vite-5e74)
+- [3-part series on creating a Docker Nginx image on an EC2 instance using Amazon ECS, ECR and Application Load Balancer](https://dev.to/aws-builders/3-part-series-on-creating-a-docker-nginx-image-on-an-ec2-instance-using-amazon-ecs-ecr-and-application-load-balancer-2bn2)
 <!-- BLOG-POST-LIST:END -->
 
