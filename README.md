@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 websites to sharpen your front-end skills.](https://dev.to/ymhaah/top-5-websites-to-sharpen-your-front-end-skills-3ao0)
 - [Z-Library Gets Taken Down by US Authorities, But why?](https://dev.to/aliahmed/z-library-gets-taken-down-by-us-authorities-but-why-11l5)
 - [Meta &lpar;Facebook&rpar;: Ask Me Anything](https://dev.to/alexr/meta-facebook-ask-me-anything-39o3)
 - [useMemo vs useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
-- [Yet Another Newsletter LOL: H2 Oh!](https://dev.to/nickytonline/yet-another-newsletter-lol-h2-oh-52lh)
 <!-- BLOG-POST-LIST:END -->
 
