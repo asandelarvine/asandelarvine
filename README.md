@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Reading articles quickly in my native language](https://dev.to/jiyeonseo/reading-articles-quickly-in-my-native-language-3fg9)
+- [Check Website Headers](https://dev.to/jicking/check-website-headers-38n1)
+- [Canvas Rainbow effect](https://dev.to/shrutikapoor08/canvas-rainbow-effect-1b4i)
 - [React dans Symfony avec Vite](https://dev.to/gbtux/react-dans-symfony-avec-vite-5e74)
-- [Write promises chaining using async/await.](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
-- [Use APIs the write way](https://dev.to/limacodes/use-apis-the-write-way-3flf)
 <!-- BLOG-POST-LIST:END -->
 
