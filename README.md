@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Z-Library Gets Taken Down by US Authorities, But why?](https://dev.to/aliahmed/z-library-gets-taken-down-by-us-authorities-but-why-11l5)
 - [Meta &lpar;Facebook&rpar;: Ask Me Anything](https://dev.to/alexr/meta-facebook-ask-me-anything-39o3)
 - [useMemo vs useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
-- [Fine-Tune GPT-3 on custom datasets with just 10 lines of code using GPT-Index](https://dev.to/dhanushreddy29/fine-tune-gpt-3-on-custom-dataset-with-just-10-lines-of-code-using-gpt-index-18mc)
-- [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb)
+- [Yet Another Newsletter LOL: H2 Oh!](https://dev.to/nickytonline/yet-another-newsletter-lol-h2-oh-52lh)
 <!-- BLOG-POST-LIST:END -->
 
