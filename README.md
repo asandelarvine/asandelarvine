@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make your original git! &lpar;Analyze section&rpar;](https://dev.to/nopenoshishi/make-your-original-git-analyze-section-139d)
+- [Free Front-End courses with certificates](https://dev.to/kigunodark/free-front-end-courses-with-certificates-2478)
 - [Milligram CSS: カスタム・ビルド &lpar;Node.js 18 on Alpine Linux 3.17 使用&rpar;](https://dev.to/nabbisen/milligram-css-kasutamubirudo-nodejs-18-on-alpine-linux-317-shi-yong--1ppi)
 - [10 Best ways Practices to keep your API secure](https://dev.to/misbah12869286/10-best-ways-practices-to-keep-your-api-secure-5640)
-- [Reading articles quickly in my native language](https://dev.to/jiyeonseo/reading-articles-quickly-in-my-native-language-3fg9)
-- [Check Website Headers](https://dev.to/jicking/check-website-headers-38n1)
 <!-- BLOG-POST-LIST:END -->
 
