@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Milligram CSS: カスタム・ビルド &lpar;Node.js 18 on Alpine Linux 3.17 使用&rpar;](https://dev.to/nabbisen/milligram-css-kasutamubirudo-nodejs-18-on-alpine-linux-317-shi-yong--1ppi)
+- [10 Best ways Practices to keep your API secure](https://dev.to/misbah12869286/10-best-ways-practices-to-keep-your-api-secure-5640)
 - [Reading articles quickly in my native language](https://dev.to/jiyeonseo/reading-articles-quickly-in-my-native-language-3fg9)
 - [Check Website Headers](https://dev.to/jicking/check-website-headers-38n1)
-- [Canvas Rainbow effect](https://dev.to/shrutikapoor08/canvas-rainbow-effect-1b4i)
-- [3-part series on creating a Docker Nginx image on an EC2 instance using Amazon ECS, ECR and Application Load Balancer](https://dev.to/aws-builders/3-part-series-on-creating-a-docker-nginx-image-on-an-ec2-instance-using-amazon-ecs-ecr-and-application-load-balancer-2bn2)
 <!-- BLOG-POST-LIST:END -->
 
