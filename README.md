@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [tsParticles 2.9.2 Released](https://dev.to/tsparticles/tsparticles-292-released-51f3)
+- [How to Improve Node.js Application Performance](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-performance-4o1)
+- [Software developers shouldn’t start software companies](https://dev.to/alexhyettdev/software-developers-shouldnt-start-software-companies-34bm)
 - [Think You&#39;re a JavaScript Pro? Find Out with this Quiz👇](https://dev.to/arafat4693/think-youre-a-javascript-pro-find-out-with-this-quiz-8ok)
-- [Basics &amp; Routing in Next JS](https://dev.to/jay818/basics-routing-in-next-js-58hj)
-- [Technical Writing Process: How To Write A Good Technical Article](https://dev.to/the_greatbonnie/technical-writing-process-how-to-write-a-good-technical-article-j67)
-- [CSS Shorthand Properties](https://dev.to/prerna0202/css-shorthand-properties-boa)
 <!-- BLOG-POST-LIST:END -->
 
