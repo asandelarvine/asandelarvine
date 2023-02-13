@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a lambda function to call ChatGPT](https://dev.to/aws-builders/creating-a-lambda-function-to-call-chatgpt-pj)
+- [Entendendo o problema de N+1 query usando o Django](https://dev.to/wesleymorais/entendendo-o-problema-de-n1-query-usando-o-orm-do-django-4f43)
 - [What in the world is DOM?](https://dev.to/mayuhayakawa/what-in-the-world-is-dom-54p6)
 - [IoT Projects Based on Raspberry Pi 4](https://dev.to/ikatebaker/iot-projects-based-on-raspberry-pi-4-23bf)
-- [Serverless Amazon API Gateway](https://dev.to/aws-builders/serverless-amazon-api-gateway-57e4)
-- [How to write a simple CLI application to download, convert and save videos as audio](https://dev.to/basillica/how-to-write-a-simple-cli-application-to-download-convert-and-save-videos-as-audio-27gf)
 <!-- BLOG-POST-LIST:END -->
 
