@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the largest Notifications Library in the world using ChatGPT, React, and NodeJS 🤯](https://dev.to/novu/building-the-largest-notifications-library-in-the-world-using-chatgpt-react-and-nodejs-2of7)
-- [FLiP Stack Weekly for 13-Feb-2023](https://dev.to/tspannhw/flip-stack-weekly-for-13-feb-2023-2i53)
-- [My experiences with Ambassador programs](https://dev.to/jacobandrewsky/my-experiences-with-ambassador-programs-2bkc)
-- [THE GOLDEN RULES OF UI/UX DESIGN TO INCREASE USER ENGAGEMENTS](https://dev.to/quokkalabs/the-golden-rules-of-uiux-design-to-increase-user-engagements-15f4)
+- [What are your Goals for the week? 2/13](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-213-4ca9)
+- [Concurrency and Parallelism: An Overview](https://dev.to/costamatheus97/concurrency-and-parallelism-an-overview-4jam)
+- [What Makes Learning Web Development Worthwhile in the Coming Years?](https://dev.to/aradwan20/what-makes-learning-web-development-worthwhile-in-the-coming-years-2l3o)
+- [Supprimer automatiquement une Job dans Kubernetes](https://dev.to/mxglt/supprimer-automatiquement-une-job-dans-kubernetes-3d5g)
 <!-- BLOG-POST-LIST:END -->
 
