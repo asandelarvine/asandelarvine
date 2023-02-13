@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximize Your Site&#39;s Speed with Pre-Rendering in Next JS](https://dev.to/jay818/maximize-your-sites-speed-with-pre-rendering-in-next-js-cf2)
+- [Walle - CLI Crypto Wallet for Ethereum like networks](https://dev.to/pobepto/walle-cli-crypto-wallet-for-ethereum-like-networks-5cmp)
 - [Construindo uma pipeline com o Github Actions](https://dev.to/nathsouzadev/usando-o-github-como-pipeline-556l)
 - [Load Testing a Fintech API with CSV Test Data Import](https://dev.to/kursataktas/load-testing-a-fintech-api-with-csv-test-data-import-3bib)
-- [Improve Your Website Accessibility with These Tips](https://dev.to/get_pieces/improve-your-website-accessibility-with-these-tips-2c3)
-- [Emails and GDPR - Questions to Answer](https://dev.to/mariiahlumilina/emails-and-gdpr-questions-to-answer-1e84)
 <!-- BLOG-POST-LIST:END -->
 
