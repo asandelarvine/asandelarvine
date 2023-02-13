@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [What in the world is DOM?](https://dev.to/mayuhayakawa/what-in-the-world-is-dom-54p6)
 - [IoT Projects Based on Raspberry Pi 4](https://dev.to/ikatebaker/iot-projects-based-on-raspberry-pi-4-23bf)
-- [Version Control of git/github](https://dev.to/cromajetex/version-control-of-gitgithub-15e7)
-- [Best ideas from Clean Code by Robert C. Martin &lpar;with Typescript examples&rpar;](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
+- [Serverless Amazon API Gateway](https://dev.to/aws-builders/serverless-amazon-api-gateway-57e4)
+- [How to write a simple CLI application to download, convert and save videos as audio](https://dev.to/basillica/how-to-write-a-simple-cli-application-to-download-convert-and-save-videos-as-audio-27gf)
 <!-- BLOG-POST-LIST:END -->
 
