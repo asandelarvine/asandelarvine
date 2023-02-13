@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Miço üzerinde plugin nasıl yüklenir?](https://dev.to/aciklab/mico-uzerinde-plugin-nasil-yuklenir-2e0g)
-- [The Benefits of Using Task Management Tools](https://dev.to/blst-security/the-benefits-of-using-task-management-tools-4pce)
-- [An Introduction to Variables in JavaScript: Understanding the Basics](https://dev.to/haszankauna/an-introduction-to-variables-in-javascript-understanding-the-basics-134a)
-- [Introduction to JavaScript: What is JavaScript and Why is it Important for Web Development?](https://dev.to/haszankauna/introduction-to-javascript-what-is-javascript-and-why-is-it-important-for-web-development-4cl7)
+- [Meme Monday 😈](https://dev.to/ben/meme-monday-4c5o)
+- [Liman Eklentilerinde istenilen bilgilerin log olarak gönderilmesi](https://dev.to/aciklab/liman-eklentilerinde-istenilen-bilgilerin-log-olarak-gosterilmesi-274)
+- [Tips for Writing Efficient JavaScript Code](https://dev.to/haszankauna/tips-for-writing-efficient-javascript-code-4jp7)
+- [Guide on Structured Logs [Best Practices included]](https://dev.to/signoz/guide-on-structured-logs-best-practices-included-4fge)
 <!-- BLOG-POST-LIST:END -->
 
