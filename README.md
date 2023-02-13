@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What in the world is DOM?](https://dev.to/mayuhayakawa/what-in-the-world-is-dom-54p6)
+- [IoT Projects Based on Raspberry Pi 4](https://dev.to/ikatebaker/iot-projects-based-on-raspberry-pi-4-23bf)
 - [Version Control of git/github](https://dev.to/cromajetex/version-control-of-gitgithub-15e7)
-- [Four More Tools You Can&#39;t Live Without](https://dev.to/sebastianccc/four-more-tools-you-cant-live-without-n3i)
-- [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
-- [Node.js Cluster Module: Scaling Your Applications](https://dev.to/aquibzahidi/nodejs-cluster-module-scaling-your-applications-4och)
+- [Best ideas from Clean Code by Robert C. Martin &lpar;with Typescript examples&rpar;](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
 <!-- BLOG-POST-LIST:END -->
 
