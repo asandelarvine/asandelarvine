@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday 😈](https://dev.to/ben/meme-monday-4c5o)
-- [Liman Eklentilerinde istenilen bilgilerin log olarak gönderilmesi](https://dev.to/aciklab/liman-eklentilerinde-istenilen-bilgilerin-log-olarak-gosterilmesi-274)
-- [Tips for Writing Efficient JavaScript Code](https://dev.to/haszankauna/tips-for-writing-efficient-javascript-code-4jp7)
-- [Guide on Structured Logs [Best Practices included]](https://dev.to/signoz/guide-on-structured-logs-best-practices-included-4fge)
+- [Building the largest Notifications Library in the world using ChatGPT, React, and NodeJS 🤯](https://dev.to/novu/building-the-largest-notifications-library-in-the-world-using-chatgpt-react-and-nodejs-2of7)
+- [FLiP Stack Weekly for 13-Feb-2023](https://dev.to/tspannhw/flip-stack-weekly-for-13-feb-2023-2i53)
+- [My experiences with Ambassador programs](https://dev.to/jacobandrewsky/my-experiences-with-ambassador-programs-2bkc)
+- [THE GOLDEN RULES OF UI/UX DESIGN TO INCREASE USER ENGAGEMENTS](https://dev.to/quokkalabs/the-golden-rules-of-uiux-design-to-increase-user-engagements-15f4)
 <!-- BLOG-POST-LIST:END -->
 
