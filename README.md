@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Runtime Explained: All you need to know about client-side JS code execution](https://dev.to/ppiippaa/javascript-runtime-explained-all-you-need-to-know-about-client-side-js-code-execution-5g8e)
 - [50 React Native Interview Questions](https://dev.to/shreyvijayvargiya/50-react-native-interview-questions-291n)
 - [Random Forest Algorithms&#39; Advantages for Greener Machine Learning](https://dev.to/anurag629/random-forest-algorithms-advantages-for-greener-machine-learning-5de9)
 - [A Short Introduction to React](https://dev.to/sammaji15/a-short-introduction-to-react-5egb)
-- [Agile way to solve Rubik’s Cube in 10 steps](https://dev.to/olacampuspune/agile-way-to-solve-rubiks-cube-in-10-steps-n7b)
 <!-- BLOG-POST-LIST:END -->
 
