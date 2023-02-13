@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [50 React Native Interview Questions](https://dev.to/shreyvijayvargiya/50-react-native-interview-questions-291n)
+- [Random Forest Algorithms&#39; Advantages for Greener Machine Learning](https://dev.to/anurag629/random-forest-algorithms-advantages-for-greener-machine-learning-5de9)
 - [A Short Introduction to React](https://dev.to/sammaji15/a-short-introduction-to-react-5egb)
-- [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-h20)
-- [An Introduction to Git: The Basics Every Beginning Developer Should Know](https://dev.to/ionos/an-introduction-to-git-the-basics-every-beginning-developer-should-know-o62)
-- [IT Manager Practice Job Interview](https://dev.to/trinly01/it-manager-practice-job-interview-2h16)
+- [Agile way to solve Rubik’s Cube in 10 steps](https://dev.to/olacampuspune/agile-way-to-solve-rubiks-cube-in-10-steps-n7b)
 <!-- BLOG-POST-LIST:END -->
 
