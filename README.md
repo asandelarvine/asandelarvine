@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Reasons why Norway is the Best Place to Live in the World](https://dev.to/mayurjadhav/7-reasons-why-norway-is-the-best-place-to-live-in-the-world-5d5g)
 - [Creating a lambda function to call ChatGPT](https://dev.to/aws-builders/creating-a-lambda-function-to-call-chatgpt-pj)
 - [Entendendo o problema de N+1 query usando o Django](https://dev.to/wesleymorais/entendendo-o-problema-de-n1-query-usando-o-orm-do-django-4f43)
 - [What in the world is DOM?](https://dev.to/mayuhayakawa/what-in-the-world-is-dom-54p6)
-- [IoT Projects Based on Raspberry Pi 4](https://dev.to/ikatebaker/iot-projects-based-on-raspberry-pi-4-23bf)
 <!-- BLOG-POST-LIST:END -->
 
