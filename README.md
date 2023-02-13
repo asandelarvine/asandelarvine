@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [What are your Goals for the week? 2/13](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-213-4ca9)
 - [Concurrency and Parallelism: An Overview](https://dev.to/costamatheus97/concurrency-and-parallelism-an-overview-4jam)
 - [What Makes Learning Web Development Worthwhile in the Coming Years?](https://dev.to/aradwan20/what-makes-learning-web-development-worthwhile-in-the-coming-years-2l3o)
-- [Supprimer automatiquement une Job dans Kubernetes](https://dev.to/mxglt/supprimer-automatiquement-une-job-dans-kubernetes-3d5g)
+- [Automatically delete a Job in Kubernetes](https://dev.to/mxglt/automatically-delete-a-job-in-kubernetes-21oc)
 <!-- BLOG-POST-LIST:END -->
 
