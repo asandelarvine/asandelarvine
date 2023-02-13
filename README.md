@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Liman MYS - Ağ İzleme Eklentisi - Anasayfa İçeriği](https://dev.to/aciklab/anasayfanin-tanitimi-4f99)
+- [Liman MYS - Ağ İzleme Eklentisi - Genel Yönetim](https://dev.to/aciklab/yonetim-2221)
+- [Marshalling/Unmarshalling custom structs in Go for Firestore Native.](https://dev.to/jarrodhroberson/marshallingunmarshalling-custom-structs-in-go-for-firestore-native-2d5m)
 - [Running Jenkins On Docker | Day 3 | Jenkins Tutorial for Beginners](https://dev.to/promode/running-jenkins-on-docker-day-3-jenkins-tutorial-for-beginners-5cjd)
-- [7 Reasons why Norway is the Best Place to Live in the World](https://dev.to/mayurjadhav/7-reasons-why-norway-is-the-best-place-to-live-in-the-world-5d5g)
-- [Creating a lambda function to call ChatGPT](https://dev.to/aws-builders/creating-a-lambda-function-to-call-chatgpt-pj)
-- [Entendendo o problema de N+1 query usando o Django](https://dev.to/wesleymorais/entendendo-o-problema-de-n1-query-usando-o-orm-do-django-4f43)
 <!-- BLOG-POST-LIST:END -->
 
