@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying an Application on Kubernetes: A Complete Guide!](https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6)
-- [🔦 Community Spotlight - Building Banquise, a Social Media App🔦](https://dev.to/appwrite/community-spotlight-building-banquise-a-social-media-app-15ld)
-- [List of websites where you can find and hire ReactJS developers](https://dev.to/monu181/list-of-websites-where-you-can-find-and-hire-reactjs-developers-4aic)
-- [Liman MYS - Ağ İzleme Eklentisi - Pano Kavramı](https://dev.to/aciklab/pano-kavrami-ed3)
+- [A Short Introduction to React](https://dev.to/sammaji15/a-short-introduction-to-react-5egb)
+- [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-h20)
+- [An Introduction to Git: The Basics Every Beginning Developer Should Know](https://dev.to/ionos/an-introduction-to-git-the-basics-every-beginning-developer-should-know-o62)
+- [IT Manager Practice Job Interview](https://dev.to/trinly01/it-manager-practice-job-interview-2h16)
 <!-- BLOG-POST-LIST:END -->
 
