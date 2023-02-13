@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Audience or Community?](https://dev.to/bekahhw/audience-or-community-23bj)
 - [Adapter Pattern: Adapting Data from the Outside World](https://dev.to/woovi/adapting-data-from-the-outside-world-474c)
+- [Introduction to Container Operating Systems](https://dev.to/aws-builders/introduction-to-container-operating-systems-49o8)
 - [Maximize Your Site&#39;s Speed with Pre-Rendering in Next JS](https://dev.to/jay818/maximize-your-sites-speed-with-pre-rendering-in-next-js-cf2)
-- [4 ways devs can use ChatGPT to be more productive](https://dev.to/educative/4-ways-devs-can-use-chatgpt-to-be-more-productive-2i5j)
-- [Walle - CLI Crypto Wallet for Ethereum like networks](https://dev.to/pobepto/walle-cli-crypto-wallet-for-ethereum-like-networks-5cmp)
 <!-- BLOG-POST-LIST:END -->
 
