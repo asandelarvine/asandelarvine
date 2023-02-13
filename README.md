@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying your React.js &amp; Express.js server to Render.com](https://dev.to/pixelrena/deploying-your-reactjs-expressjs-server-to-rendercom-4jbo)
 - [Audience or Community?](https://dev.to/bekahhw/audience-or-community-23bj)
 - [Adapter Pattern: Adapting Data from the Outside World](https://dev.to/woovi/adapting-data-from-the-outside-world-474c)
 - [Introduction to Container Operating Systems](https://dev.to/aws-builders/introduction-to-container-operating-systems-49o8)
-- [Maximize Your Site&#39;s Speed with Pre-Rendering in Next JS](https://dev.to/jay818/maximize-your-sites-speed-with-pre-rendering-in-next-js-cf2)
 <!-- BLOG-POST-LIST:END -->
 
