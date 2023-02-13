@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Wi-Fi to Li-Fi, sending data via light using Arduino and JavaScript](https://dev.to/stripe/from-wi-fi-to-li-fi-sending-data-via-light-using-arduino-and-javascript-4mpb)
-- [Adding a GitHub login to your Flutter app with Appwrite](https://dev.to/hackmamba/adding-a-github-login-to-your-flutter-app-with-appwrite-4i74)
-- [What are your Goals for the week? 2/13](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-213-4ca9)
-- [Concurrency and Parallelism: An Overview](https://dev.to/costamatheus97/concurrency-and-parallelism-an-overview-4jam)
+- [Construindo uma pipeline com o Github Actions](https://dev.to/nathsouzadev/usando-o-github-como-pipeline-556l)
+- [Load Testing a Fintech API with CSV Test Data Import](https://dev.to/kursataktas/load-testing-a-fintech-api-with-csv-test-data-import-3bib)
+- [Improve Your Website Accessibility with These Tips](https://dev.to/get_pieces/improve-your-website-accessibility-with-these-tips-2c3)
+- [Emails and GDPR - Questions to Answer](https://dev.to/mariiahlumilina/emails-and-gdpr-questions-to-answer-1e84)
 <!-- BLOG-POST-LIST:END -->
 
