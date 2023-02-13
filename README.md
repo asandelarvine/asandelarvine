@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Liman MYS - Ağ İzleme Eklentisi - Anasayfa İçeriği](https://dev.to/aciklab/anasayfanin-tanitimi-4f99)
-- [Liman MYS - Ağ İzleme Eklentisi - Genel Yönetim](https://dev.to/aciklab/yonetim-2221)
-- [Marshalling/Unmarshalling custom structs in Go for Firestore Native.](https://dev.to/jarrodhroberson/marshallingunmarshalling-custom-structs-in-go-for-firestore-native-2d5m)
-- [Running Jenkins On Docker | Day 3 | Jenkins Tutorial for Beginners](https://dev.to/promode/running-jenkins-on-docker-day-3-jenkins-tutorial-for-beginners-5cjd)
+- [Deploying an Application on Kubernetes: A Complete Guide!](https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6)
+- [🔦 Community Spotlight - Building Banquise, a Social Media App🔦](https://dev.to/appwrite/community-spotlight-building-banquise-a-social-media-app-15ld)
+- [List of websites where you can find and hire ReactJS developers](https://dev.to/monu181/list-of-websites-where-you-can-find-and-hire-reactjs-developers-4aic)
+- [Liman MYS - Ağ İzleme Eklentisi - Pano Kavramı](https://dev.to/aciklab/pano-kavrami-ed3)
 <!-- BLOG-POST-LIST:END -->
 
