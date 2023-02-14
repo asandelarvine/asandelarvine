@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Idempotence - what is and how to implement](https://dev.to/woovi/idempotence-what-is-and-how-to-implement-4bmc)
 - [How GitHub Actions can improve CI/CD and compares with Azure Pipelines](https://dev.to/pwd9000/how-github-actions-can-improve-cicd-and-compares-with-azure-pipelines-3bh)
 - [Developing Web Applications Using Php and Mysql](https://dev.to/devbambhaniya/developing-web-applications-using-php-and-mysql-4c7g)
 - [A short guide to web accessibility](https://dev.to/adityasaini3/a-short-guide-to-web-accessibility-k12)
-- [How To Handle Data Fetching in Next.js Using SWR](https://dev.to/precious654/how-to-handle-data-fetching-in-nextjs-using-swr-2mhg)
 <!-- BLOG-POST-LIST:END -->
 
