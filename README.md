@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Tips for Optimal Ecommerce SEO](https://dev.to/medusajs/12-tips-for-optimal-ecommerce-seo-5a0l)
+- [Trending Rust repos of the week 📈](https://dev.to/quine/trending-rust-repos-of-the-week-36nl)
+- [How to make your own ChatGPT site](https://dev.to/notdev007/how-to-make-your-own-chatgpt-site-3f4k)
 - [Idempotence - what is and how to implement](https://dev.to/woovi/idempotence-what-is-and-how-to-implement-4bmc)
-- [How GitHub Actions can improve CI/CD and compares with Azure Pipelines](https://dev.to/pwd9000/how-github-actions-can-improve-cicd-and-compares-with-azure-pipelines-3bh)
-- [Developing Web Applications Using Php and Mysql](https://dev.to/devbambhaniya/developing-web-applications-using-php-and-mysql-4c7g)
-- [A short guide to web accessibility](https://dev.to/adityasaini3/a-short-guide-to-web-accessibility-k12)
 <!-- BLOG-POST-LIST:END -->
 
