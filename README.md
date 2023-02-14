@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up ZSH and Oh-my-ZHS with autocomplete plugins](https://dev.to/zeromeroz/setting-up-zsh-and-oh-my-zhs-with-autocomplete-plugins-1nml)
+- [How To Create A Movie App Using API and Plain JavaScript!](https://dev.to/codewithsadee/how-to-create-a-movie-app-using-api-and-plain-javascript-8oe)
 - [12 Tips for Optimal Ecommerce SEO](https://dev.to/medusajs/12-tips-for-optimal-ecommerce-seo-5a0l)
 - [Trending Rust repos of the week 📈](https://dev.to/quine/trending-rust-repos-of-the-week-36nl)
-- [How to make your own ChatGPT site](https://dev.to/notdev007/how-to-make-your-own-chatgpt-site-3f4k)
-- [Idempotence - what is and how to implement](https://dev.to/woovi/idempotence-what-is-and-how-to-implement-4bmc)
 <!-- BLOG-POST-LIST:END -->
 
