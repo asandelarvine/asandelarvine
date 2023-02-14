@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement authentication with nestjs using guards in 3 easy steps](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
+- [What is the purpose of using super constructor with props argument in React?](https://dev.to/codeofrelevancy/what-is-the-purpose-of-using-super-constructor-with-props-argument-in-react-2ea3)
+- [¿Qué es Xamarin?](https://dev.to/lizarragadev/que-es-xamarin-2cdn)
 - [Understanding Networking Protocols for nailing your next DevOps Interview](https://dev.to/pragyanatvade/understanding-networking-protocols-for-nailing-your-next-devops-interview-3b57)
-- [Explain CORS Like I&#39;m Five](https://dev.to/dmeadows8585/explain-cors-like-im-five-5420)
-- [CSS Variables and why i use them](https://dev.to/lensco825/css-variables-and-why-i-use-them-1jpf)
-- [Simple Encode And Decode With Javascript](https://dev.to/catur/simple-encode-and-decode-with-javascript-od6)
 <!-- BLOG-POST-LIST:END -->
 
