@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [50 Node JS Interview Questions](https://dev.to/shreyvijayvargiya/50-node-js-interview-questions-3gjl)
+- [How to verify an object is empty object with Jest &lpar;extended&rpar;](https://dev.to/codever/how-to-verify-an-object-is-empty-object-with-jest-extended-6i0)
 - [How to Use ChatGPT to Improve Your Productivity &lpar;5 Examples&rpar;](https://dev.to/opendataanalytics/how-to-use-chatgpt-to-improve-your-productivity-5-examples-39lj)
 - [I&#39;m autistic and there&#39;s something I want to do with it](https://dev.to/valeriavg/im-autistic-and-theres-something-i-want-to-do-with-it-3n1k)
-- [Use axios as better practice in ReactJS](https://dev.to/deepakjaiswal/use-axios-as-better-practice-in-reactjs-2m6b)
-- [JavaScript Variable](https://dev.to/khalilnazari/javascript-variable-2ec9)
 <!-- BLOG-POST-LIST:END -->
 
