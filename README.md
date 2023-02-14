@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the benefits of CSS Sprites?](https://dev.to/stakedesigner/what-are-the-benefits-of-css-sprites-2d68)
+- [O passo a passo de como criei meu portfólio e como você pode fazer o mesmo](https://dev.to/dellamora/o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf)
 - [How to setup Flutter for App Development?](https://dev.to/slimpotatoboy/how-to-setup-flutter-for-app-development-5080)
 - [Learning Crystal with Battlesnake](https://dev.to/fdocr/learning-crystal-with-battlesnake-3chj)
-- [Open source or not?](https://dev.to/vulcanwm/open-source-or-not-19h8)
-- [Make a URL shortener in Node.js!](https://dev.to/kacperturon/url-shortener-efficient-in-nodejs-3oo9)
 <!-- BLOG-POST-LIST:END -->
 
