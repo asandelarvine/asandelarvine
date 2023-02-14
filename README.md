@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it Time to go Back to the Monolith?](https://dev.to/codenameone/is-it-time-to-go-back-to-the-monolith-3eok)
 - [#refineweek: Pilot &amp; refine architecture](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40)
 - [3 ways to future-proof your tech career in 2023](https://dev.to/educative/3-ways-to-future-proof-your-tech-career-in-2023-3l6)
-- [Obvious Mistakes Every Junior Developer Should Avoid](https://dev.to/codewithvoid/obvious-mistakes-every-junior-developer-should-avoid-1bc9)
 <!-- BLOG-POST-LIST:END -->
 
