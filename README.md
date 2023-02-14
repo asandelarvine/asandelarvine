@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Comments Are Not Enough](https://dev.to/ericmeadowsdev/code-comments-are-not-enough-2eae)
-- [Automating the deletion of specifc inbound rules from any security groups in AWS via Config](https://dev.to/aws-builders/automating-the-deletion-of-specifc-inbound-rules-from-any-security-groups-in-aws-via-config-21lb)
-- [AWS Cloud Quest: Triggers - Aggregating Data](https://dev.to/arc/aws-cloud-quest-triggers-aggregating-data-4njl)
-- [Deploying your React.js &amp; Express.js server to Render.com](https://dev.to/pixelrena/deploying-your-reactjs-expressjs-server-to-rendercom-4jbo)
+- [Understanding Networking Protocols for nailing your next DevOps Interview](https://dev.to/pragyanatvade/understanding-networking-protocols-for-nailing-your-next-devops-interview-3b57)
+- [Explain CORS Like I&#39;m Five](https://dev.to/dmeadows8585/explain-cors-like-im-five-5420)
+- [CSS Variables and why i use them](https://dev.to/lensco825/css-variables-and-why-i-use-them-1jpf)
+- [Simple Encode And Decode With Javascript](https://dev.to/catur/simple-encode-and-decode-with-javascript-od6)
 <!-- BLOG-POST-LIST:END -->
 
