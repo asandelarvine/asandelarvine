@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup Flutter for App Development?](https://dev.to/slimpotatoboy/how-to-setup-flutter-for-app-development-5080)
+- [Learning Crystal with Battlesnake](https://dev.to/fdocr/learning-crystal-with-battlesnake-3chj)
 - [Open source or not?](https://dev.to/vulcanwm/open-source-or-not-19h8)
-- [7 AI Free Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
-- [Writing an Open Source Policy](https://dev.to/postman/writing-an-open-source-policy-2390)
-- [Setting up ZSH and Oh-my-ZHS with autocomplete plugins](https://dev.to/zeromeroz/setting-up-zsh-and-oh-my-zhs-with-autocomplete-plugins-1nml)
+- [Make a URL shortener in Node.js!](https://dev.to/kacperturon/url-shortener-efficient-in-nodejs-3oo9)
 <!-- BLOG-POST-LIST:END -->
 
