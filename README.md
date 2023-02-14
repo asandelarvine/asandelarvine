@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#refineweek: Pilot &amp; refine architecture](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40)
 - [3 ways to future-proof your tech career in 2023](https://dev.to/educative/3-ways-to-future-proof-your-tech-career-in-2023-3l6)
 - [Obvious Mistakes Every Junior Developer Should Avoid](https://dev.to/codewithvoid/obvious-mistakes-every-junior-developer-should-avoid-1bc9)
-- [What are the benefits of CSS Sprites?](https://dev.to/stakedesigner/what-are-the-benefits-of-css-sprites-2d68)
-- [O passo a passo de como criei meu portfólio e como você pode fazer o mesmo](https://dev.to/dellamora/o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf)
 <!-- BLOG-POST-LIST:END -->
 
