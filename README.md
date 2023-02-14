@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dimensionality Reduction: An Introduction to Methods and Applications](https://dev.to/anurag629/dimensionality-reduction-an-introduction-to-methods-and-applications-i51)
-- [How to build a Barcode Widget in React Native &lpar;part II: iOS&rpar;](https://dev.to/deversity/how-to-build-a-barcode-widget-in-react-native-part-ii-ios-5d28)
-- [How to build a Barcode Widget in React Native &lpar;part I: Android&rpar;](https://dev.to/deversity/how-to-build-a-barcode-widget-in-react-native-part-i-android-487j)
-- [Mastering Data Structures and Algorithms: A Guide to the Most Important Topics](https://dev.to/tinshade/mastering-data-structures-and-algorithms-a-guide-to-the-most-important-topics-4a8n)
+- [How GitHub Actions can improve CI/CD and compares with Azure Pipelines](https://dev.to/pwd9000/how-github-actions-can-improve-cicd-and-compares-with-azure-pipelines-3bh)
+- [Developing Web Applications Using Php and Mysql](https://dev.to/devbambhaniya/developing-web-applications-using-php-and-mysql-4c7g)
+- [A short guide to web accessibility](https://dev.to/adityasaini3/a-short-guide-to-web-accessibility-k12)
+- [How To Handle Data Fetching in Next.js Using SWR](https://dev.to/precious654/how-to-handle-data-fetching-in-nextjs-using-swr-2mhg)
 <!-- BLOG-POST-LIST:END -->
 
