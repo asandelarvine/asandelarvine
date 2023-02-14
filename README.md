@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use axios as better practice in ReactJS](https://dev.to/deepakjaiswal/use-axios-as-better-practice-in-reactjs-2m6b)
+- [JavaScript Variable](https://dev.to/khalilnazari/javascript-variable-2ec9)
 - [How to implement authentication with nestjs using guards in 3 easy steps](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
 - [What is the purpose of using super constructor with props argument in React?](https://dev.to/codeofrelevancy/what-is-the-purpose-of-using-super-constructor-with-props-argument-in-react-2ea3)
-- [¿Qué es Xamarin?](https://dev.to/lizarragadev/que-es-xamarin-2cdn)
-- [Understanding Networking Protocols for nailing your next DevOps Interview](https://dev.to/pragyanatvade/understanding-networking-protocols-for-nailing-your-next-devops-interview-3b57)
 <!-- BLOG-POST-LIST:END -->
 
