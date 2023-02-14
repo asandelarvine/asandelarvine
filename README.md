@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Dimensionality Reduction: An Introduction to Methods and Applications](https://dev.to/anurag629/dimensionality-reduction-an-introduction-to-methods-and-applications-i51)
 - [How to build a Barcode Widget in React Native &lpar;part II: iOS&rpar;](https://dev.to/deversity/how-to-build-a-barcode-widget-in-react-native-part-ii-ios-5d28)
 - [How to build a Barcode Widget in React Native &lpar;part I: Android&rpar;](https://dev.to/deversity/how-to-build-a-barcode-widget-in-react-native-part-i-android-487j)
-- [== vs === in JavaScript](https://dev.to/rkshaw20/-vs-in-javascript-2457)
+- [Mastering Data Structures and Algorithms: A Guide to the Most Important Topics](https://dev.to/tinshade/mastering-data-structures-and-algorithms-a-guide-to-the-most-important-topics-4a8n)
 <!-- BLOG-POST-LIST:END -->
 
