@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Node JS Interview Questions](https://dev.to/shreyvijayvargiya/50-node-js-interview-questions-3gjl)
-- [How to verify an object is empty object with Jest &lpar;extended&rpar;](https://dev.to/codever/how-to-verify-an-object-is-empty-object-with-jest-extended-6i0)
-- [Advanced Techniques for Optimizing JavaScript Performance](https://dev.to/haszankauna/advanced-techniques-for-optimizing-javascript-performance-5a32)
-- [How to Use ChatGPT to Improve Your Productivity &lpar;5 Examples&rpar;](https://dev.to/opendataanalytics/how-to-use-chatgpt-to-improve-your-productivity-5-examples-39lj)
+- [Dimensionality Reduction: An Introduction to Methods and Applications](https://dev.to/anurag629/dimensionality-reduction-an-introduction-to-methods-and-applications-i51)
+- [How to build a Barcode Widget in React Native &lpar;part II: iOS&rpar;](https://dev.to/deversity/how-to-build-a-barcode-widget-in-react-native-part-ii-ios-5d28)
+- [How to build a Barcode Widget in React Native &lpar;part I: Android&rpar;](https://dev.to/deversity/how-to-build-a-barcode-widget-in-react-native-part-i-android-487j)
+- [== vs === in JavaScript](https://dev.to/rkshaw20/-vs-in-javascript-2457)
 <!-- BLOG-POST-LIST:END -->
 
