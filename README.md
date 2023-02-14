@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source or not?](https://dev.to/vulcanwm/open-source-or-not-19h8)
+- [7 AI Free Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
+- [Writing an Open Source Policy](https://dev.to/postman/writing-an-open-source-policy-2390)
 - [Setting up ZSH and Oh-my-ZHS with autocomplete plugins](https://dev.to/zeromeroz/setting-up-zsh-and-oh-my-zhs-with-autocomplete-plugins-1nml)
-- [How To Create A Movie App Using API and Plain JavaScript!](https://dev.to/codewithsadee/how-to-create-a-movie-app-using-api-and-plain-javascript-8oe)
-- [12 Tips for Optimal Ecommerce SEO](https://dev.to/medusajs/12-tips-for-optimal-ecommerce-seo-5a0l)
-- [Trending Rust repos of the week 📈](https://dev.to/quine/trending-rust-repos-of-the-week-36nl)
 <!-- BLOG-POST-LIST:END -->
 
