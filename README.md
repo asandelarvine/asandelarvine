@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used to be a 💩 Coder 💻 Until I Discovered SOLID Principles 🌟](https://dev.to/dsfx3d/i-used-to-be-a-coder-until-i-discovered-solid-principles-jn6)
-- [Introduction to EJS: A Guide to Building Dynamic Web Applications](https://dev.to/victrexx2002/introduction-to-ejs-a-guide-to-building-dynamic-web-applications-2737)
-- [Sexiest way to manage your AWS resources](https://dev.to/aws-builders/sexiest-way-to-manage-your-aws-resources-3nc9)
-- [Why Even Do Code Reviews?](https://dev.to/ericmeadowsdev/why-even-do-code-reviews-712)
+- [Top 9 visual modelling tools for software architecture](https://dev.to/icepanel/top-9-visual-modelling-tools-for-software-architecture-19pb)
+- [CodeSmash - Building in Public - Add Stacks to the Canvas](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
+- [Take a look at Amazon Kendra](https://dev.to/aws-builders/take-a-look-at-amazon-kendra-5gpe)
+- [Self-Healing Randomized VPN with Kill Switch in OpenWRT Router](https://dev.to/bzkzfw/self-healing-randomized-vpn-with-kill-switch-in-openwrt-router-3ihd)
 <!-- BLOG-POST-LIST:END -->
 
