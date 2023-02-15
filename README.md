@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Engineers Think Like Investors, Not Builders](https://dev.to/_michaellin/the-best-engineers-think-like-investors-not-builders-1ip3)
-- [Is it Time to go Back to the Monolith?](https://dev.to/codenameone/is-it-time-to-go-back-to-the-monolith-3eok)
-- [#refineweek: Pilot &amp; refine architecture](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40)
+- [I Used to be a 💩 Coder 💻 Until I Discovered SOLID Principles 🌟](https://dev.to/dsfx3d/i-used-to-be-a-coder-until-i-discovered-solid-principles-jn6)
+- [Introduction to EJS: A Guide to Building Dynamic Web Applications](https://dev.to/victrexx2002/introduction-to-ejs-a-guide-to-building-dynamic-web-applications-2737)
+- [Sexiest way to manage your AWS resources](https://dev.to/aws-builders/sexiest-way-to-manage-your-aws-resources-3nc9)
+- [Why Even Do Code Reviews?](https://dev.to/ericmeadowsdev/why-even-do-code-reviews-712)
 <!-- BLOG-POST-LIST:END -->
 
