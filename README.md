@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a minimal Linux OS from source code 🏗](https://dev.to/mariamarsh/building-a-minimal-linux-os-from-source-code-i1)
+- [A Beginner&#39;s Guide to Using Fetch and Axios to Consume REST APIs in React](https://dev.to/jhimmyofficial/a-beginners-guide-to-using-fetch-and-axios-to-consume-rest-apis-in-react-3dib)
+- [How Developers should take advantage of MindsDB&#39;s Integration with OpenAI Chat GPT-3](https://dev.to/chandrevdw31/how-developers-should-take-advantage-of-mindsdbs-integration-with-openai-chat-gpt-3-179l)
 - [👀 Visualizing: Execution Context in JavaScript](https://dev.to/catherineisonline/visualizing-execution-context-in-javascript-50k)
-- [Readable code: Why it matters and how to do it](https://dev.to/marek/readable-code-why-it-matters-and-how-to-do-it-1gf5)
-- [Unity3D Scriptable Object guide](https://dev.to/kiranjodhani/unity3d-scriptable-object-guide-cbj)
-- [Build a serverless subscription system with Stripe and Appwrite for premium user roles in Nuxt](https://dev.to/hackmamba/build-a-serverless-subscription-system-with-stripe-and-appwrite-for-premium-user-roles-in-nuxt-2agg)
 <!-- BLOG-POST-LIST:END -->
 
