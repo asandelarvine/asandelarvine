@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Temperature Converter App with Flutter #! : Material App &amp; basic Form](https://dev.to/ichsanputr/temperature-converter-app-with-flutter-material-app-basic-form-50d5)
+- [Get notified when there are commits to pull in IntelliJ](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-intellij-3en9)
 - [Accelerate CI/CD with Ephemeral Environments](https://dev.to/pavanbelagatti/accelerate-cicd-with-ephemeral-environments-115b)
 - [Get me there faster](https://dev.to/aws-builders/get-me-there-faster-2gc1)
-- [How to optimize website assets loading?](https://dev.to/stakedesigner/how-to-optimize-website-assets-loading-3icg)
-- [Top 9 visual modelling tools for software architecture](https://dev.to/icepanel/top-9-visual-modelling-tools-for-software-architecture-19pb)
 <!-- BLOG-POST-LIST:END -->
 
