@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [12 Top Python Libraries To Know in 2023](https://dev.to/ritapossible/12-top-python-libraries-to-know-in-2023-3g3k)
+- [Code Organization for an Elixir Endpoint](https://dev.to/clsource/code-organization-for-an-elixir-endpoint-3k2i)
 - [Welcome Thread - v212](https://dev.to/thepracticaldev/welcome-thread-v212-mcf)
 - [🔐 How to Unlock Your Full Potential as a Developer](https://dev.to/evergrowingdev/how-to-unlock-your-full-potential-as-a-developer-5gh8)
-- [Python One-Liners #1: Create dictionary from csv file](https://dev.to/sayemmh/python-one-liners-1-33eg)
 <!-- BLOG-POST-LIST:END -->
 
