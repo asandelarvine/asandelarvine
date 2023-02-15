@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of AWS Step Functions: Simplifying Complex Applications](https://dev.to/blst-security/the-power-of-aws-step-functions-simplifying-complex-applications-2lga)
+- [Setup External Secrets with Hashicorp Vault on AWS EKS](https://dev.to/argonaut/setup-external-secrets-with-hashicorp-vault-on-aws-eks-o1d)
 - [Basic End To End Encryption With Crypto](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
 - [#refineweek: Setting Up the Client App](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
-- [Creating a Custom Solana Connect Wallet UI with React and Chakra UI](https://dev.to/anishde12020/creating-a-custom-solana-connect-wallet-ui-with-react-and-chakra-ui-4lko)
-- [Build Your Own Currency Calculator App with Next.js 13, Node.js, Firebase, TypeScript and Tailwind CSS](https://dev.to/codeofrelevancy/build-your-own-currency-calculator-app-with-nextjs-13-nodejs-firebase-typescript-and-tailwind-css-3ibp)
 <!-- BLOG-POST-LIST:END -->
 
