@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The CodeNewbie Podcast is Back! S23:E1 Psychological Safety in Tech with Taylor Poindexter](https://dev.to/codenewbieteam/the-codenewbie-podcast-is-back-s23e1-psychological-safety-in-tech-with-taylor-poindexter-1337)
-- [How to Send Invoice and Add Payment Reminder in Next.js with Courier API](https://dev.to/courier/how-to-send-invoice-and-add-payment-reminder-in-nextjs-with-courier-api-3i0a)
-- [Draggable element &amp; Cursor to see the filters separately](https://dev.to/amiru_weerathunga/draggable-element-cursor-to-see-the-filters-separately-2fk1)
-- [Next.js Tutorial: Building a Complete Web App from Scratch with React, Server-Side Rendering, and SEO-Friendly URLs](https://dev.to/monu181/nextjs-tutorial-building-a-complete-web-app-from-scratch-with-react-server-side-rendering-and-seo-friendly-urls-3c55)
+- [Email Marketing KPIs You Can or Can’t Do Without](https://dev.to/mariiahlumilina/email-marketing-kpis-you-can-or-cant-do-without-1hek)
+- [Using the TypeScript generic type to create reusable components](https://dev.to/logrocket/using-the-typescript-generic-type-to-create-reusable-components-4ng3)
+- [[Typia] Universal Random Generator, which can make everything, just by only one line](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
+- [HTML: Form Input Types](https://dev.to/oluwatrillions/html-form-input-types-8h6)
 <!-- BLOG-POST-LIST:END -->
 
