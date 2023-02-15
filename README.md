@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Temperature Converter App with Flutter #! : Material App &amp; basic Form](https://dev.to/ichsanputr/temperature-converter-app-with-flutter-material-app-basic-form-50d5)
 - [Get notified when there are commits to pull in IntelliJ](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-intellij-3en9)
-- [Accelerate CI/CD with Ephemeral Environments](https://dev.to/pavanbelagatti/accelerate-cicd-with-ephemeral-environments-115b)
-- [Get me there faster](https://dev.to/aws-builders/get-me-there-faster-2gc1)
+- [Using keyof and typeof for types efficiently in TypeScript](https://dev.to/mayashavin/using-keyof-and-typeof-for-types-efficiently-in-typescript-3o6k)
+- [First Things First!](https://dev.to/karimi/first-things-first-lk3)
 <!-- BLOG-POST-LIST:END -->
 
