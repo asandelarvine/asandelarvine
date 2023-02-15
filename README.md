@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [12 Top Python Libraries To Know in 2023](https://dev.to/ritapossible/12-top-python-libraries-to-know-in-2023-3g3k)
 - [Welcome Thread - v212](https://dev.to/thepracticaldev/welcome-thread-v212-mcf)
-- [Working on legacy code-bases can make us better developers, here is why.](https://dev.to/dvddpl/working-on-legacy-code-bases-can-make-us-better-developers-here-is-why-n6g)
-- [Email Marketing KPIs You Can or Can’t Do Without](https://dev.to/mariiahlumilina/email-marketing-kpis-you-can-or-cant-do-without-1hek)
+- [🔐 How to Unlock Your Full Potential as a Developer](https://dev.to/evergrowingdev/how-to-unlock-your-full-potential-as-a-developer-5gh8)
+- [Python One-Liners #1: Create dictionary from csv file](https://dev.to/sayemmh/python-one-liners-1-33eg)
 <!-- BLOG-POST-LIST:END -->
 
