@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Top Python Libraries To Know in 2023](https://dev.to/ritapossible/12-top-python-libraries-to-know-in-2023-3g3k)
+- [Welcome Thread - v212](https://dev.to/thepracticaldev/welcome-thread-v212-mcf)
+- [Working on legacy code-bases can make us better developers, here is why.](https://dev.to/dvddpl/working-on-legacy-code-bases-can-make-us-better-developers-here-is-why-n6g)
 - [Email Marketing KPIs You Can or Can’t Do Without](https://dev.to/mariiahlumilina/email-marketing-kpis-you-can-or-cant-do-without-1hek)
-- [Using the TypeScript generic type to create reusable components](https://dev.to/logrocket/using-the-typescript-generic-type-to-create-reusable-components-4ng3)
-- [[Typia] Universal Random Generator, which can make everything, just by only one line](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
-- [HTML: Form Input Types](https://dev.to/oluwatrillions/html-form-input-types-8h6)
 <!-- BLOG-POST-LIST:END -->
 
