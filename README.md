@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [👀 Visualizing: Execution Context in JavaScript](https://dev.to/catherineisonline/visualizing-execution-context-in-javascript-50k)
+- [Readable code: Why it matters and how to do it](https://dev.to/marek/readable-code-why-it-matters-and-how-to-do-it-1gf5)
+- [Unity3D Scriptable Object guide](https://dev.to/kiranjodhani/unity3d-scriptable-object-guide-cbj)
 - [Build a serverless subscription system with Stripe and Appwrite for premium user roles in Nuxt](https://dev.to/hackmamba/build-a-serverless-subscription-system-with-stripe-and-appwrite-for-premium-user-roles-in-nuxt-2agg)
-- [3D Card Effect - HTML/CSS](https://dev.to/shubhamtiwari909/3d-card-effect-htmlcss-31jn)
-- [5 Useful chrome extensions for Leetcode 👩‍💻](https://dev.to/iarchitsharma/5-useful-chrome-extensions-for-leetcode-k3j)
-- [How to verify your GitHub account on Mastadon](https://dev.to/santoshhari/how-to-verify-your-github-account-on-mastadon-5d0)
 <!-- BLOG-POST-LIST:END -->
 
