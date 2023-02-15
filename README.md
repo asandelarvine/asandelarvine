@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic End To End Encryption With Crypto](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
+- [#refineweek: Setting Up the Client App](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
 - [Creating a Custom Solana Connect Wallet UI with React and Chakra UI](https://dev.to/anishde12020/creating-a-custom-solana-connect-wallet-ui-with-react-and-chakra-ui-4lko)
 - [Build Your Own Currency Calculator App with Next.js 13, Node.js, Firebase, TypeScript and Tailwind CSS](https://dev.to/codeofrelevancy/build-your-own-currency-calculator-app-with-nextjs-13-nodejs-firebase-typescript-and-tailwind-css-3ibp)
-- [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-4gm3)
-- [The Ultimate GitHub Profile Checklist: 7 Must-Do&#39;s for Career Success](https://dev.to/onlydevs_/the-ultimate-github-profile-checklist-7-must-dos-for-career-success-59ne)
 <!-- BLOG-POST-LIST:END -->
 
