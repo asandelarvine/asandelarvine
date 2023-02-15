@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-4gm3)
+- [The Ultimate GitHub Profile Checklist: 7 Must-Do&#39;s for Career Success](https://dev.to/onlydevs_/the-ultimate-github-profile-checklist-7-must-dos-for-career-success-59ne)
+- [Weekly web development resources #137](https://dev.to/vincenius/weekly-web-development-resources-137-4p18)
 - [Temperature Converter App with Flutter #! : Material App &amp; basic Form](https://dev.to/ichsanputr/temperature-converter-app-with-flutter-material-app-basic-form-50d5)
-- [Get notified when there are commits to pull in IntelliJ](https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-intellij-3en9)
-- [Using keyof and typeof for types efficiently in TypeScript](https://dev.to/mayashavin/using-keyof-and-typeof-for-types-efficiently-in-typescript-3o6k)
-- [First Things First!](https://dev.to/karimi/first-things-first-lk3)
 <!-- BLOG-POST-LIST:END -->
 
