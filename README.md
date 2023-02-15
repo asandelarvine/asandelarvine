@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Movies for/about coders and such](https://dev.to/bcncodeschool/movies-forabout-coders-and-such-flb)
-- [Building a minimal Linux OS from source code 🏗](https://dev.to/mariamarsh/building-a-minimal-linux-os-from-source-code-i1)
-- [GitHub for Beginners: A Guide for All New Developers](https://dev.to/get_pieces/github-for-beginners-a-guide-for-all-new-developers-5884)
-- [10 Fun alternatives to Lorem ipsum](https://dev.to/keracudmore/10-fun-alternatives-to-lorem-ipsum-5625)
+- [The CodeNewbie Podcast is Back! S23:E1 Psychological Safety in Tech with Taylor Poindexter](https://dev.to/codenewbieteam/the-codenewbie-podcast-is-back-s23e1-psychological-safety-in-tech-with-taylor-poindexter-1337)
+- [How to Send Invoice and Add Payment Reminder in Next.js with Courier API](https://dev.to/courier/how-to-send-invoice-and-add-payment-reminder-in-nextjs-with-courier-api-3i0a)
+- [Draggable element &amp; Cursor to see the filters separately](https://dev.to/amiru_weerathunga/draggable-element-cursor-to-see-the-filters-separately-2fk1)
+- [Next.js Tutorial: Building a Complete Web App from Scratch with React, Server-Side Rendering, and SEO-Friendly URLs](https://dev.to/monu181/nextjs-tutorial-building-a-complete-web-app-from-scratch-with-react-server-side-rendering-and-seo-friendly-urls-3c55)
 <!-- BLOG-POST-LIST:END -->
 
