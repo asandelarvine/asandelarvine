@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to optimize website assets loading?](https://dev.to/stakedesigner/how-to-optimize-website-assets-loading-3icg)
 - [Top 9 visual modelling tools for software architecture](https://dev.to/icepanel/top-9-visual-modelling-tools-for-software-architecture-19pb)
 - [CodeSmash - Building in Public - Add Stacks to the Canvas](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
 - [Take a look at Amazon Kendra](https://dev.to/aws-builders/take-a-look-at-amazon-kendra-5gpe)
-- [Self-Healing Randomized VPN with Kill Switch in OpenWRT Router](https://dev.to/bzkzfw/self-healing-randomized-vpn-with-kill-switch-in-openwrt-router-3ihd)
 <!-- BLOG-POST-LIST:END -->
 
