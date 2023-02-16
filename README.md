@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn Your Phone into a Mobile Rotating Proxy without Root](https://dev.to/shiftytr/turn-your-phone-into-a-mobile-rotating-proxy-without-root-16af)
+- [Discovery Days at Medusa: How I created Cross Post tool from Notion](https://dev.to/medusajs/discovery-days-at-medusa-how-i-created-cross-post-tool-from-notion-491j)
 - [15 Killer 🗡 JS techniques you&#39;ve probably never heard of 🔈🔥](https://dev.to/ironcladdev/15-killer-js-techniques-youve-probably-never-heard-of-1lgp)
 - [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/kumo/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-5dke)
-- [Teleport do Vue.js 3 vs Portals do ReactJS: uma análise comparativa para lidar com elementos fora do contexto do componente pai.](https://dev.to/jow/teleport-do-vuejs-3-vs-portals-do-reactjs-uma-analise-comparativa-para-lidar-com-elementos-fora-do-contexto-do-componente-pai-2n3j)
-- [Composable A/B Testing with Ninetailed and Contentful](https://dev.to/ninetailed/composable-ab-testing-with-ninetailed-and-contentful-11p8)
 <!-- BLOG-POST-LIST:END -->
 
