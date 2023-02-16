@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Astra Pro worth it &lpar;Answered 20 Questions to Help You Decide&rpar;](https://dev.to/digitalkube/is-astra-pro-worth-it-answered-20-questions-to-help-you-decide-163i)
 - [The Recursion Explanation I Wish I Had Read As A Self-Taught Developer](https://dev.to/gustavupp/the-recursion-explanation-i-wish-i-had-read-as-a-self-taught-developer-3g4p)
 - [Creating a Unique Constraint with DynamoDB](https://dev.to/aws-builders/creating-a-unique-constraint-with-dynamodb-1k82)
 - [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
-- [Building a RESTful API with Node.js and Express: A Step-by-Step Guide](https://dev.to/bhavik786/building-a-restful-api-with-nodejs-and-express-a-step-by-step-guide-59fk)
 <!-- BLOG-POST-LIST:END -->
 
