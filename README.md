@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Effortlessly Migrate from Styled Components CSS-in-JS to Stylify Utility-First CSS for Better React Development.](https://dev.to/machy8/how-to-effortlessly-migrate-from-styled-components-css-in-js-to-stylify-utility-first-css-for-better-react-development-84a)
-- [File Server &lpar;free&rpar; for each OS via Localtonet](https://dev.to/burakisleyicii/file-server-free-for-each-os-via-localtonet-2c5p)
-- [How to migrate from Sendbird to TalkJS](https://dev.to/talkjs/how-to-migrate-from-sendbird-to-talkjs-14ni)
-- [99 Programming Interview Questions for Software Developers and Engineers](https://dev.to/javinpaul/99-programming-interview-questions-for-software-developers-and-engineers-4o98)
+- [traceroute](https://dev.to/sunnybhambhani/traceroute-2o6m)
+- [telnet](https://dev.to/sunnybhambhani/telnet-360e)
+- [netstat](https://dev.to/sunnybhambhani/netstat-29h9)
+- [Newbie to Software Engineering - My Personal Journey](https://dev.to/dev_steve/newbie-to-software-engineering-my-personal-journey-4d51)
 <!-- BLOG-POST-LIST:END -->
 
