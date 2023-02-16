@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 AI Tools Like Chat GPT](https://dev.to/arafat4693/8-ai-tools-like-chat-gpt-5e5k)
+- [pyaction: Over 1 million pulls from the GitHub Container Registry](https://dev.to/cicirello/pyaction-over-1-million-pulls-from-the-github-container-registry-29ag)
 - [How create cluster in Dataproc and install Jupyter?](https://dev.to/xlmriosx/how-create-cluster-in-dataproc-and-install-jupyter-8i4)
 - [Svelte and Tailwind for building Chrome Extension](https://dev.to/codegino/svelte-and-tailwind-for-building-chrome-extension-3p4o)
-- [Loneliness in the tech world](https://dev.to/juliocamposswork/loneliness-in-the-tech-world-oea)
-- [Aplicando o Learn In Public na Vida Real](https://dev.to/devrelbr/aplicando-o-learn-in-public-na-vida-real-3027)
 <!-- BLOG-POST-LIST:END -->
 
