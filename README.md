@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Top Python Libraries To Know in 2023](https://dev.to/ritapossible/12-top-python-libraries-to-know-in-2023-3g3k)
-- [Code Organization for an Elixir Endpoint](https://dev.to/clsource/code-organization-for-an-elixir-endpoint-3k2i)
-- [Welcome Thread - v212](https://dev.to/thepracticaldev/welcome-thread-v212-mcf)
-- [🔐 How to Unlock Your Full Potential as a Developer](https://dev.to/evergrowingdev/how-to-unlock-your-full-potential-as-a-developer-5gh8)
+- [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
+- [Building a RESTful API with Node.js and Express: A Step-by-Step Guide](https://dev.to/bhavik786/building-a-restful-api-with-nodejs-and-express-a-step-by-step-guide-59fk)
+- [Cook a recipe with AWS: Create Canaries using Selenium Python test scripts](https://dev.to/nandinirajaram/cook-a-recipe-with-aws-create-canaries-using-selenium-python-test-scripts-19o5)
+- [How to code in Python&lpar;using paradigms&rpar;](https://dev.to/this-is-learning/how-to-code-in-pythonusing-paradigms-4eo)
 <!-- BLOG-POST-LIST:END -->
 
