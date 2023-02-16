@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Killer 🗡 JS techniques you&#39;ve probably never heard of 🔈🔥](https://dev.to/ironcladdev/15-killer-js-techniques-youve-probably-never-heard-of-1lgp)
+- [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/kumo/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-5dke)
+- [Teleport do Vue.js 3 vs Portals do ReactJS: uma análise comparativa para lidar com elementos fora do contexto do componente pai.](https://dev.to/jow/teleport-do-vuejs-3-vs-portals-do-reactjs-uma-analise-comparativa-para-lidar-com-elementos-fora-do-contexto-do-componente-pai-2n3j)
 - [Composable A/B Testing with Ninetailed and Contentful](https://dev.to/ninetailed/composable-ab-testing-with-ninetailed-and-contentful-11p8)
-- [Open source StreamDeck alternative](https://dev.to/josuigoa/open-source-streamdeck-alternative-1gf3)
-- [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)
-- [UI Design Roadmap 2023](https://dev.to/hachib/ui-design-roadmap-2023-37mm)
 <!-- BLOG-POST-LIST:END -->
 
