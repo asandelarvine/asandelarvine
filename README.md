@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Overfitting and Underfitting in Machine learning](https://dev.to/anurag629/overfitting-and-underfitting-in-machine-learning-3kjn)
+- [Creating Web Accessibility: Meta Tags](https://dev.to/frontend_jedi/creating-web-accessibility-meta-tags-1pcp)
 - [Comandos básicos do Redis](https://dev.to/paulowalravendev/comandos-basicos-do-redis-3e6l)
 - [Is Astra Pro worth it &lpar;Answered 20 Questions to Help You Decide&rpar;](https://dev.to/digitalkube/is-astra-pro-worth-it-answered-20-questions-to-help-you-decide-163i)
-- [The Recursion Explanation I Wish I Had Read As A Self-Taught Developer](https://dev.to/gustavupp/the-recursion-explanation-i-wish-i-had-read-as-a-self-taught-developer-3g4p)
-- [Creating a Unique Constraint with DynamoDB](https://dev.to/aws-builders/creating-a-unique-constraint-with-dynamodb-1k82)
 <!-- BLOG-POST-LIST:END -->
 
