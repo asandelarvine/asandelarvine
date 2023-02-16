@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [99 Programming Interview Questions for Software Developers and Engineers](https://dev.to/javinpaul/99-programming-interview-questions-for-software-developers-and-engineers-4o98)
+- [#refineweek: Adding CRUD Actions and Authentication](https://dev.to/refine/refineweek-adding-crud-actions-and-authentication-1j1k)
 - [Null safety: Kotlin vs. Java](https://dev.to/nfrankel/null-safety-kotlin-vs-java-13pn)
 - [How to Handle Secrets in Docker](https://dev.to/gitguardian/how-to-handle-secrets-in-docker-3plm)
-- [How to Handle Offline Data Using flutter_data?](https://dev.to/kuldeeptarapara/how-to-handle-offline-data-using-flutterdata-2780)
-- [Overfitting and Underfitting in Machine learning](https://dev.to/anurag629/overfitting-and-underfitting-in-machine-learning-3kjn)
 <!-- BLOG-POST-LIST:END -->
 
