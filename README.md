@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [traceroute](https://dev.to/sunnybhambhani/traceroute-2o6m)
-- [telnet](https://dev.to/sunnybhambhani/telnet-360e)
-- [netstat](https://dev.to/sunnybhambhani/netstat-29h9)
-- [Newbie to Software Engineering - My Personal Journey](https://dev.to/dev_steve/newbie-to-software-engineering-my-personal-journey-4d51)
+- [Composable A/B Testing with Ninetailed and Contentful](https://dev.to/ninetailed/composable-ab-testing-with-ninetailed-and-contentful-11p8)
+- [Open source StreamDeck alternative](https://dev.to/josuigoa/open-source-streamdeck-alternative-1gf3)
+- [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)
+- [UI Design Roadmap 2023](https://dev.to/hachib/ui-design-roadmap-2023-37mm)
 <!-- BLOG-POST-LIST:END -->
 
