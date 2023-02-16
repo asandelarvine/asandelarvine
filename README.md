@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How create cluster in Dataproc and install Jupyter?](https://dev.to/xlmriosx/how-create-cluster-in-dataproc-and-install-jupyter-8i4)
+- [Svelte and Tailwind for building Chrome Extension](https://dev.to/codegino/svelte-and-tailwind-for-building-chrome-extension-3p4o)
 - [Loneliness in the tech world](https://dev.to/juliocamposswork/loneliness-in-the-tech-world-oea)
 - [Aplicando o Learn In Public na Vida Real](https://dev.to/devrelbr/aplicando-o-learn-in-public-na-vida-real-3027)
-- [Battle of the Cookies: Regular Cookies vs. HTTP-Only](https://dev.to/costamatheus97/battle-of-the-cookies-regular-cookies-vs-http-only-1n0a)
-- [Manipulando Set no Redis](https://dev.to/paulowalravendev/manipulando-set-no-redis-57fp)
 <!-- BLOG-POST-LIST:END -->
 
