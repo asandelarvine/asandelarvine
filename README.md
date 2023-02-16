@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make your design compatible with foldable device](https://dev.to/this-is-learning/make-your-design-compatible-with-foldable-device-p4e)
+- [A headless hook-based exam proctoring system with React](https://dev.to/anshsaini/a-headless-hook-based-exam-proctoring-system-with-react-20do)
+- [Roteiro com Cursos Gratuitos em Ciência da Computação](https://dev.to/gabogaldino/formacao-basica-em-ciencia-da-computacao-um-roteiro-com-cursos-online-gratuitos-1ceg)
 - [Turn Your Phone into a Mobile Rotating Proxy without Root](https://dev.to/shiftytr/turn-your-phone-into-a-mobile-rotating-proxy-without-root-16af)
-- [Discovery Days at Medusa: How I created Cross Post tool from Notion](https://dev.to/medusajs/discovery-days-at-medusa-how-i-created-cross-post-tool-from-notion-491j)
-- [15 Killer 🗡 JS techniques you&#39;ve probably never heard of 🔈🔥](https://dev.to/ironcladdev/15-killer-js-techniques-youve-probably-never-heard-of-1lgp)
-- [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/kumo/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-5dke)
 <!-- BLOG-POST-LIST:END -->
 
