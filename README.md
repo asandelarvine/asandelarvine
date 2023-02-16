@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your design compatible with foldable device](https://dev.to/this-is-learning/make-your-design-compatible-with-foldable-device-p4e)
-- [A headless hook-based exam proctoring system with React](https://dev.to/anshsaini/a-headless-hook-based-exam-proctoring-system-with-react-20do)
-- [Roteiro com Cursos Gratuitos em Ciência da Computação](https://dev.to/gabogaldino/formacao-basica-em-ciencia-da-computacao-um-roteiro-com-cursos-online-gratuitos-1ceg)
-- [Turn Your Phone into a Mobile Rotating Proxy without Root](https://dev.to/shiftytr/turn-your-phone-into-a-mobile-rotating-proxy-without-root-16af)
+- [Manipulando Set no Redis](https://dev.to/paulowalravendev/manipulando-set-no-redis-57fp)
+- [First Steps With TinyBase](https://dev.to/parenttobias/first-steps-with-tinybase-1ola)
+- [User Interface Principles: Neumorphism and Glassmorphism](https://dev.to/get_pieces/user-interface-principles-neumorphism-and-glassmorphism-4cf7)
+- [Using React with Popper and styled-components](https://dev.to/logrocket/using-react-with-popper-and-styled-components-181p)
 <!-- BLOG-POST-LIST:END -->
 
