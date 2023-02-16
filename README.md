@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Recursion Explanation I Wish I Had Read As A Self-Taught Developer](https://dev.to/gustavupp/the-recursion-explanation-i-wish-i-had-read-as-a-self-taught-developer-3g4p)
+- [Creating a Unique Constraint with DynamoDB](https://dev.to/aws-builders/creating-a-unique-constraint-with-dynamodb-1k82)
 - [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
 - [Building a RESTful API with Node.js and Express: A Step-by-Step Guide](https://dev.to/bhavik786/building-a-restful-api-with-nodejs-and-express-a-step-by-step-guide-59fk)
-- [Cook a recipe with AWS: Create Canaries using Selenium Python test scripts](https://dev.to/aws-builders/cook-a-recipe-with-aws-create-canaries-using-selenium-python-test-scripts-19o5)
 <!-- BLOG-POST-LIST:END -->
 
