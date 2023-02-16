@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Loneliness in the tech world](https://dev.to/juliocamposswork/loneliness-in-the-tech-world-oea)
+- [Aplicando o Learn In Public na Vida Real](https://dev.to/devrelbr/aplicando-o-learn-in-public-na-vida-real-3027)
+- [Battle of the Cookies: Regular Cookies vs. HTTP-Only](https://dev.to/costamatheus97/battle-of-the-cookies-regular-cookies-vs-http-only-1n0a)
 - [Manipulando Set no Redis](https://dev.to/paulowalravendev/manipulando-set-no-redis-57fp)
-- [First Steps With TinyBase](https://dev.to/parenttobias/first-steps-with-tinybase-1ola)
-- [User Interface Principles: Neumorphism and Glassmorphism](https://dev.to/get_pieces/user-interface-principles-neumorphism-and-glassmorphism-4cf7)
-- [Using React with Popper and styled-components](https://dev.to/logrocket/using-react-with-popper-and-styled-components-181p)
 <!-- BLOG-POST-LIST:END -->
 
