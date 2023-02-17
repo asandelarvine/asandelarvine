@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS API Gateway MTLS authentication - with SmallStep &amp; Pulumi](https://dev.to/aws-builders/aws-api-gateway-mtls-authentication-with-smallstep-pulumi-2o65)
 - [[LIAPP FEATURES] React Native Protection](https://dev.to/teamliapp/liapp-features-react-native-protection-n2c)
+- [What Is A Dynamic Website?](https://dev.to/yosileyid/what-is-a-dynamic-website-pje)
 - [SeaweedFS vs JuiceFS](https://dev.to/tonybarber2/seaweedfs-vs-juicefs-3dgp)
-- [AWS Pipeline + GitHub: Automating Your Software Delivery Process](https://dev.to/aws-builders/aws-pipeline-github-automating-your-software-delivery-process-55i0)
-- [Put ChatGPT on your website for €49 per month](https://dev.to/polterguy/put-chatgpt-on-your-website-for-eu49-per-month-1kaj)
 <!-- BLOG-POST-LIST:END -->
 
