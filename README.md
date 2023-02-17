@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-nj5)
+- [Calisthenics exercises recommendation software](https://dev.to/ftapiaa27/calisthenics-exercises-recommendation-software-2672)
 - [E quando o hello world já começa dando errado: a cultura de escrever artigos com tutoriais que só dão certo.](https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m)
-- [Can Value Stream Management Solve DevOps‘ Struggles?](https://dev.to/linearb/can-value-stream-management-solve-devops-struggles-icj)
-- [How to Build Offline Web Applications](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
-- [So You Think You Know For Loops?](https://dev.to/travis_codez/so-you-think-you-know-for-loops-1k31)
+- [&quot;What the hell were they thinking?&quot;](https://dev.to/ericmeadowsdev/what-the-hell-were-they-thinking-ncl)
 <!-- BLOG-POST-LIST:END -->
 
