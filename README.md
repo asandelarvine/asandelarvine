@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Trek &amp; CSS Only Wormhole - Not For Your Eyes - Discuss](https://dev.to/expoverse/star-trek-css-only-wormhole-not-for-your-eyes-discuss-4jde)
+- [E quando o hello world já começa dando errado: a cultura de escrever artigos com tutoriais que só dão certo.](https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m)
 - [Can Value Stream Management Solve DevOps‘ Struggles?](https://dev.to/linearb/can-value-stream-management-solve-devops-struggles-icj)
 - [How to Build Offline Web Applications](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
 - [So You Think You Know For Loops?](https://dev.to/travis_codez/so-you-think-you-know-for-loops-1k31)
