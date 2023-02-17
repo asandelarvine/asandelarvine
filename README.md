@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark mode with Analog &amp; Tailwind](https://dev.to/this-is-angular/dark-mode-with-analog-tailwind-4049)
+- [Building a real-time commenting app with Socket.io and React](https://dev.to/knocklabs/building-a-real-time-commenting-app-with-socketio-and-react-11ae)
 - [2023 Started](https://dev.to/constantinrazvan/2023-started-3dh4)
-- [Animations Made Easy: The Top React Animation Libraries You Need to Know](https://dev.to/devrohit0/animations-made-easy-the-top-react-animation-libraries-you-need-to-know-335)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2on5)
-- [Building a multi-language app with React JS 🌐](https://dev.to/franklin030601/building-a-multi-language-app-with-react-js-2och)
+- [A Guide to Styling Your Website with Tailwind CSS](https://dev.to/sammaji15/a-guide-to-styling-your-website-with-tailwind-css-3f4l)
 <!-- BLOG-POST-LIST:END -->
 
