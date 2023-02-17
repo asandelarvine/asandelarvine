@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hexagonal Architecture: What Is It and Why Do You Need It?](https://dev.to/alexhyettdev/hexagonal-architecture-what-is-it-and-why-do-you-need-it-4e6)
-- [Reminder: Contribute means opening issues and documentation too](https://dev.to/manuartero/reminder-contribute-means-opening-issues-and-documentation-too-3gim)
-- [Git Rebase vs Git Merge](https://dev.to/furkangulsen/git-rebase-vs-git-merge-3iba)
-- [10 remote tech companies hiring developers now](https://dev.to/karlybl/10-remote-tech-companies-hiring-developers-now-3ojg)
+- [Building a multi-language app with React JS 🌐](https://dev.to/franklin030601/building-a-multi-language-app-with-react-js-2och)
+- [Construyendo una app multi-lenguaje con React. 🌐](https://dev.to/franklin030601/construyendo-una-app-multi-lenguaje-con-react-44n2)
+- [Pomodoro Method: It may be what you need](https://dev.to/dimitarstbc/pomodoro-method-it-may-be-what-you-need-21dc)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-358f)
 <!-- BLOG-POST-LIST:END -->
 
