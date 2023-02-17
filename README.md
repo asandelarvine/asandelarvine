@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimize React Component Performance with Memoization Using React.memo&lpar;&rpar;](https://dev.to/codeofrelevancy/optimize-react-component-performance-with-memoization-using-reactmemo-3chp)
+- [How to make your GitHub project pop on social media](https://dev.to/mizouzie/how-to-make-your-github-project-pop-on-social-media-38je)
+- [A Beginner&#39;s Guide to ELK Stack](https://dev.to/devland/a-beginners-guide-to-elk-stack-2gk3)
 - [The Cloud Monitoring Journey](https://dev.to/promcat/the-cloud-monitoring-journey-27k8)
-- [#refineweek: Adding Realtime Collaboration](https://dev.to/refine/refineweek-adding-realtime-collaboration-23k8)
-- [Empower your CSS skills by using these 3 selectors](https://dev.to/hellonehha/empower-your-css-skills-by-using-these-3-selectors-477f)
-- [AWS API Gateway MTLS authentication - with SmallStep &amp; Pulumi](https://dev.to/aws-builders/aws-api-gateway-mtls-authentication-with-smallstep-pulumi-2o65)
 <!-- BLOG-POST-LIST:END -->
 
