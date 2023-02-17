@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Rebase vs Git Merge](https://dev.to/furkangulsen/git-rebase-vs-git-merge-3iba)
+- [10 remote tech companies hiring developers now](https://dev.to/karlybl/10-remote-tech-companies-hiring-developers-now-3ojg)
 - [Optimize React Component Performance with Memoization Using React.memo&lpar;&rpar;](https://dev.to/codeofrelevancy/optimize-react-component-performance-with-memoization-using-reactmemo-3chp)
 - [How to make your GitHub project pop on social media](https://dev.to/mizouzie/how-to-make-your-github-project-pop-on-social-media-38je)
-- [A Beginner&#39;s Guide to ELK Stack](https://dev.to/devland/a-beginners-guide-to-elk-stack-2gk3)
-- [The Cloud Monitoring Journey](https://dev.to/promcat/the-cloud-monitoring-journey-27k8)
 <!-- BLOG-POST-LIST:END -->
 
