@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python dictionaries comprehension tutorial](https://dev.to/max24816/python-dictionaries-comprehension-tutorial-3bda)
 - [Dark mode with Analog &amp; Tailwind](https://dev.to/this-is-angular/dark-mode-with-analog-tailwind-4049)
 - [Building a real-time commenting app with Socket.io and React](https://dev.to/knocklabs/building-a-real-time-commenting-app-with-socketio-and-react-11ae)
 - [2023 Started](https://dev.to/constantinrazvan/2023-started-3dh4)
-- [A Guide to Styling Your Website with Tailwind CSS](https://dev.to/sammaji15/a-guide-to-styling-your-website-with-tailwind-css-3f4l)
 <!-- BLOG-POST-LIST:END -->
 
