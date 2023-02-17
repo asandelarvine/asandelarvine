@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SeaweedFS vs JuiceFS](https://dev.to/tonybarber2/seaweedfs-vs-juicefs-3dgp)
+- [AWS Pipeline + GitHub: Automating Your Software Delivery Process](https://dev.to/aws-builders/aws-pipeline-github-automating-your-software-delivery-process-55i0)
+- [Put ChatGPT on your website for €49 per month](https://dev.to/polterguy/put-chatgpt-on-your-website-for-eu49-per-month-1kaj)
 - [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-nj5)
-- [Calisthenics exercises recommendation software](https://dev.to/ftapiaa27/calisthenics-exercises-recommendation-software-2672)
-- [E quando o hello world já começa dando errado: a cultura de escrever artigos com tutoriais que só dão certo.](https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m)
-- [&quot;What the hell were they thinking?&quot;](https://dev.to/ericmeadowsdev/what-the-hell-were-they-thinking-ncl)
 <!-- BLOG-POST-LIST:END -->
 
