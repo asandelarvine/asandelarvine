@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI at Work: Looking within as an Autistic Programmer](https://dev.to/adam_cyclones/ai-at-work-looking-within-as-an-autistic-programmer-5hdm)
-- [An animated Heart for Valentine&#39;s Day](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
-- [useCallback – Demystifying React Hooks &lpar;Pt. 1&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usecallback-4618)
-- [8 AI Tools Like Chat GPT](https://dev.to/arafat4693/8-ai-tools-like-chat-gpt-5e5k)
+- [Can Value Stream Management Solve DevOps‘ Struggles?](https://dev.to/linearb/can-value-stream-management-solve-devops-struggles-icj)
+- [How to Build Offline Web Applications](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
+- [Hide/Show Password in React](https://dev.to/annaqharder/hideshow-password-in-react-513a)
+- [How to Make Star Rating in React](https://dev.to/annaqharder/how-to-make-star-rating-in-react-2e6f)
 <!-- BLOG-POST-LIST:END -->
 
