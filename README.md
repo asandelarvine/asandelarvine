@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Trek &amp; CSS Only Wormhole - Not For Your Eyes - Discuss](https://dev.to/expoverse/star-trek-css-only-wormhole-not-for-your-eyes-discuss-4jde)
 - [Can Value Stream Management Solve DevOps‘ Struggles?](https://dev.to/linearb/can-value-stream-management-solve-devops-struggles-icj)
 - [How to Build Offline Web Applications](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
-- [Hide/Show Password in React](https://dev.to/annaqharder/hideshow-password-in-react-513a)
-- [How to Make Star Rating in React](https://dev.to/annaqharder/how-to-make-star-rating-in-react-2e6f)
+- [So You Think You Know For Loops?](https://dev.to/travis_codez/so-you-think-you-know-for-loops-1k31)
 <!-- BLOG-POST-LIST:END -->
 
