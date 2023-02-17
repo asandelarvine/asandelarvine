@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Some new features to look forward to on DEV](https://dev.to/devteam/some-new-features-to-look-forward-to-on-dev-5jk)
 - [How to Verify Email Addresses Using Python](https://dev.to/khumbolamulungu/how-to-verify-email-addresses-using-python-3aae)
 - [Importance of Filelock and how to use that in Python](https://dev.to/noyonict/importance-of-filelock-and-how-to-use-that-in-python-15o4)
 - [CSS Attribute Selectors Demystified](https://dev.to/hellonehha/css-attribute-selectors-demystified-19d5)
-- [Final Weekend of the Linode Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-linode-hackathon-on-dev-392c)
 <!-- BLOG-POST-LIST:END -->
 
