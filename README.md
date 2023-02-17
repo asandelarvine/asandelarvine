@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cloud Monitoring Journey](https://dev.to/promcat/the-cloud-monitoring-journey-27k8)
+- [#refineweek: Adding Realtime Collaboration](https://dev.to/refine/refineweek-adding-realtime-collaboration-23k8)
+- [Empower your CSS skills by using these 3 selectors](https://dev.to/hellonehha/empower-your-css-skills-by-using-these-3-selectors-477f)
 - [AWS API Gateway MTLS authentication - with SmallStep &amp; Pulumi](https://dev.to/aws-builders/aws-api-gateway-mtls-authentication-with-smallstep-pulumi-2o65)
-- [[LIAPP FEATURES] React Native Protection](https://dev.to/teamliapp/liapp-features-react-native-protection-n2c)
-- [What Is A Dynamic Website?](https://dev.to/yosileyid/what-is-a-dynamic-website-pje)
-- [SeaweedFS vs JuiceFS](https://dev.to/tonybarber2/seaweedfs-vs-juicefs-3dgp)
 <!-- BLOG-POST-LIST:END -->
 
