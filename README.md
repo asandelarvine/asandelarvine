@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hexagonal Architecture: What Is It and Why Do You Need It?](https://dev.to/alexhyettdev/hexagonal-architecture-what-is-it-and-why-do-you-need-it-4e6)
+- [Reminder: Contribute means opening issues and documentation too](https://dev.to/manuartero/reminder-contribute-means-opening-issues-and-documentation-too-3gim)
 - [Git Rebase vs Git Merge](https://dev.to/furkangulsen/git-rebase-vs-git-merge-3iba)
 - [10 remote tech companies hiring developers now](https://dev.to/karlybl/10-remote-tech-companies-hiring-developers-now-3ojg)
-- [Optimize React Component Performance with Memoization Using React.memo&lpar;&rpar;](https://dev.to/codeofrelevancy/optimize-react-component-performance-with-memoization-using-reactmemo-3chp)
-- [How to make your GitHub project pop on social media](https://dev.to/mizouzie/how-to-make-your-github-project-pop-on-social-media-38je)
 <!-- BLOG-POST-LIST:END -->
 
