@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Started](https://dev.to/constantinrazvan/2023-started-3dh4)
+- [Animations Made Easy: The Top React Animation Libraries You Need to Know](https://dev.to/devrohit0/animations-made-easy-the-top-react-animation-libraries-you-need-to-know-335)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2on5)
 - [Building a multi-language app with React JS 🌐](https://dev.to/franklin030601/building-a-multi-language-app-with-react-js-2och)
-- [Construyendo una app multi-lenguaje con React. 🌐](https://dev.to/franklin030601/construyendo-una-app-multi-lenguaje-con-react-44n2)
-- [Pomodoro Method: It may be what you need](https://dev.to/dimitarstbc/pomodoro-method-it-may-be-what-you-need-21dc)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-358f)
 <!-- BLOG-POST-LIST:END -->
 
