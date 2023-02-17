@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Attribute Selectors Demystified](https://dev.to/hellonehha/css-attribute-selectors-demystified-19d5)
 - [Final Weekend of the Linode Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-linode-hackathon-on-dev-392c)
-- [Python dictionaries comprehension tutorial](https://dev.to/max24816/python-dictionaries-comprehension-tutorial-3bda)
-- [Dark mode with Analog &amp; Tailwind](https://dev.to/this-is-angular/dark-mode-with-analog-tailwind-4049)
-- [Building a real-time commenting app with Socket.io and React](https://dev.to/knocklabs/building-a-real-time-commenting-app-with-socketio-and-react-11ae)
+- [Is your Cloud Native Application Secure?](https://dev.to/ciscoemerge/is-your-cloud-native-application-secure-1njg)
+- [Becoming an AWS Community Builder 🏗️☁️](https://dev.to/aws-builders/becoming-an-aws-community-builder-2je2)
 <!-- BLOG-POST-LIST:END -->
 
