@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to know about Temporal Date API](https://dev.to/arafat4693/everything-you-need-to-know-about-temporal-date-api-5alk)
+- [Blockchain Developer Road Map 💫.](https://dev.to/akshaykurhekar/blockchain-developer-road-map--50i1)
 - [Unit Testing Backward Compatibility of Message Format](https://dev.to/kirekov/unit-testing-backward-compatibility-of-message-format-27lj)
 - [Better Ways To Handle Data Storage on The Web Client](https://dev.to/ecorreia/better-ways-to-handle-data-storage-on-the-web-client-4219)
-- [Continuous Delivery: HTML to Kubernetes - the why](https://dev.to/costica/continuous-delivery-html-to-kubernetes-the-why-323p)
-- [Backend Delivery - Hands-On Node &amp; Docker 1/2](https://dev.to/costica/backend-delivery-hands-on-node-docker-12-3mol)
 <!-- BLOG-POST-LIST:END -->
 
