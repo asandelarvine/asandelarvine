@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Formik Works Great; Here&#39;s Why I Wrote My Own](https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m)
-- [A Similarity between CSS and Python](https://dev.to/vulcanwm/a-similarity-between-css-and-python-4lee)
-- [How To Make Login Page Like Twitter Using React Js | Sign In Page Design With React Js](https://dev.to/ziontutorial/how-to-make-login-page-like-twitter-using-react-js-sign-in-page-design-with-react-js-31hf)
-- [Redux-like state container in SwiftUI. Derived stores.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-derived-stores-2d62)
+- [Using multiple git user configs with credentials store](https://dev.to/bhupesh/using-multiple-git-user-configs-with-credentials-store-4p5)
+- [LINODECODE - Grow, Share and Connect with Developers.](https://dev.to/abhinandan__wadhwa/linodecode-grow-share-and-connect-with-developers-5h3e)
+- [Revolutionize Your Thinking: 5 TED Talks That Will Change Your Life](https://dev.to/thenomadevel/revolutionize-your-thinking-5-ted-talks-that-will-change-your-life-4j1k)
+- [Error Handling in Dart and Flutter](https://dev.to/frezyx/error-handling-in-dart-and-flutter-2gld)
 <!-- BLOG-POST-LIST:END -->
 
