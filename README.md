@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain-101](https://dev.to/spyder15/blockchain-101-5ccc)
-- [Hack The Box - Encoding [Medium] - Walkthrough](https://dev.to/syrull/hack-the-box-encoding-medium-walkthrough-kg3)
-- [Differences between arrow function and regular function in JavaScript](https://dev.to/mohitcodes/differences-between-arrow-function-and-regular-function-in-javascript-20d4)
-- [Hack The Box - Vessel [Hard] - Walkthrough](https://dev.to/syrull/hack-the-box-vessel-hard-walkthrough-a01)
+- [Unit Testing Backward Compatibility of Message Format](https://dev.to/kirekov/unit-testing-backward-compatibility-of-message-format-27lj)
+- [Better Ways To Handle Data Storage on The Web Client](https://dev.to/ecorreia/better-ways-to-handle-data-storage-on-the-web-client-4219)
+- [Continuous Delivery: HTML to Kubernetes - the why](https://dev.to/costica/continuous-delivery-html-to-kubernetes-the-why-323p)
+- [Backend Delivery - Hands-On Node &amp; Docker 1/2](https://dev.to/costica/backend-delivery-hands-on-node-docker-12-3mol)
 <!-- BLOG-POST-LIST:END -->
 
