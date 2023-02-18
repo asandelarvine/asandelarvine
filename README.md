@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to know about Temporal Date API](https://dev.to/arafat4693/everything-you-need-to-know-about-temporal-date-api-5alk)
-- [Blockchain Developer Road Map 💫.](https://dev.to/akshaykurhekar/blockchain-developer-road-map--50i1)
-- [Unit Testing Backward Compatibility of Message Format](https://dev.to/kirekov/unit-testing-backward-compatibility-of-message-format-27lj)
-- [Better Ways To Handle Data Storage on The Web Client](https://dev.to/ecorreia/better-ways-to-handle-data-storage-on-the-web-client-4219)
+- [Mastering CSS Flexbox: From Basics to Advanced Techniques](https://dev.to/sarveshh/mastering-css-flexbox-from-basics-to-advanced-techniques-1foe)
+- [#refineweek: Creating an Admin Dashboard with refine](https://dev.to/refine/refineweek-creating-an-admin-dashboard-with-refine-5hm8)
+- [Latin x Python: 18/02/23](https://dev.to/vulcanwm/latin-x-python-180223-2835)
+- [8 Essential CSS Tricks and Techniques for Perfecting Your Website](https://dev.to/sarveshh/8-essential-css-tricks-and-techniques-for-perfecting-your-website-le)
 <!-- BLOG-POST-LIST:END -->
 
