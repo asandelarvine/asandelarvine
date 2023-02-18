@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top ten popular static site generators &lpar;SSG&rpar; in 2023](https://dev.to/ezinne_anne/top-ten-popular-static-site-generators-ssg-in-2023-11p1)
+- [Python Lists tutorial](https://dev.to/max24816/python-lists-tutorial-2g43)
+- [First Next.js website](https://dev.to/vulcanwm/first-nextjs-website-3e8m)
 - [How to manage physical resources in your Docker containers and keep production servers fast?](https://dev.to/nahuelsegovia/how-to-manage-physical-resources-in-your-docker-containers-and-keep-production-servers-fast-5apj)
-- [A bright future for Effect](https://dev.to/effect-ts/a-bright-future-for-effect-455m)
-- [Ruby on Rails on Lambda on Arm64/Graviton2!](https://dev.to/aws-heroes/ruby-on-rails-on-lambda-on-arm64graviton2-154e)
-- [How to Deploy NodeJS APIs on AWS](https://dev.to/lovepreetsingh/how-to-deploy-nodejs-apis-on-aws-lambda-538b)
 <!-- BLOG-POST-LIST:END -->
 
