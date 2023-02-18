@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an app to search the APOD archive by color 🪐](https://dev.to/bryce/building-an-app-to-search-the-apod-archive-by-color-23bb)
+- [Learning SQL and an Introduction on Python for Data Science](https://dev.to/joe_jngigi/learning-sql-and-an-introduction-on-python-for-data-science-5hii)
 - [10 Coding Projects to Impress Employers and Land Your Dream Job 😎](https://dev.to/acidop/10-coding-projects-to-impress-employers-and-land-your-dream-job-5ail)
-- [A Beginners Guide to Open Source](https://dev.to/arindam_1729/a-beginners-guide-to-open-source-4nc5)
-- [Closing a Knowledge Gap: CSS Naming Conventions - BEM](https://dev.to/davidchedrick/closing-a-knowledge-gap-css-naming-conventions-bem-3adb)
-- [How to Read Output of MySQL EXPLAIN](https://dev.to/amitiwary999/get-useful-information-from-mysql-explain-2i97)
+- [Sharing knowledge as a way of life](https://dev.to/aws-builders/sharing-knowledge-as-a-way-of-life-40lm)
 <!-- BLOG-POST-LIST:END -->
 
