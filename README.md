@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using multiple git user configs with credentials store](https://dev.to/bhupesh/using-multiple-git-user-configs-with-credentials-store-4p5)
-- [LINODECODE - Grow, Share and Connect with Developers.](https://dev.to/abhinandan__wadhwa/linodecode-grow-share-and-connect-with-developers-5h3e)
-- [Revolutionize Your Thinking: 5 TED Talks That Will Change Your Life](https://dev.to/thenomadevel/revolutionize-your-thinking-5-ted-talks-that-will-change-your-life-4j1k)
-- [Error Handling in Dart and Flutter](https://dev.to/frezyx/error-handling-in-dart-and-flutter-2gld)
+- [How to manage physical resources in your Docker containers and keep production servers fast?](https://dev.to/nahuelsegovia/how-to-manage-physical-resources-in-your-docker-containers-and-keep-production-servers-fast-5apj)
+- [A bright future for Effect](https://dev.to/effect-ts/a-bright-future-for-effect-455m)
+- [Ruby on Rails on Lambda on Arm64/Graviton2!](https://dev.to/aws-heroes/ruby-on-rails-on-lambda-on-arm64graviton2-154e)
+- [How to Deploy NodeJS APIs on AWS](https://dev.to/lovepreetsingh/how-to-deploy-nodejs-apis-on-aws-lambda-538b)
 <!-- BLOG-POST-LIST:END -->
 
