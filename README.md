@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start in IT, specially programming](https://dev.to/victormanduca/how-to-start-in-it-specially-programming-3mjg)
-- [Golang Roadmap 2023](https://dev.to/learngoonline/golang-roadmap-2023-4076)
-- [Implement Default Splash Screen Prior to Android 12](https://dev.to/vtsen/implement-default-splash-screen-prior-to-android-12-1e67)
-- [SPVM::File::Path and SPVM::File::Glob are newly released.](https://dev.to/yukikimoto/spvmfilepath-and-spvmfileglob-are-newly-released-1lpe)
+- [Open-Source vs. Proprietary API Development Tools: Why open-source development tools are Better?](https://dev.to/liyasthomas/open-source-vs-proprietary-api-development-tools-why-open-source-development-tools-are-better-akc)
+- [How to Optimize the Performance of Your React Application](https://dev.to/haszankauna/how-to-optimize-the-performance-of-your-react-application-bld)
+- [Understanding React Hooks: A Comprehensive Guide](https://dev.to/haszankauna/understanding-react-hooks-a-comprehensive-guide-4d07)
+- [How to Build a Simple Kafka Producer/Consumer Application in Rust](https://dev.to/schultyy/how-to-build-a-simple-kafka-producerconsumer-application-in-rust-3pl4)
 <!-- BLOG-POST-LIST:END -->
 
