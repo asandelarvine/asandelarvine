@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Flexbox: From Basics to Advanced Techniques](https://dev.to/sarveshh/mastering-css-flexbox-from-basics-to-advanced-techniques-1foe)
-- [#refineweek: Creating an Admin Dashboard with refine](https://dev.to/refine/refineweek-creating-an-admin-dashboard-with-refine-5hm8)
-- [Latin x Python: 18/02/23](https://dev.to/vulcanwm/latin-x-python-180223-2835)
-- [8 Essential CSS Tricks and Techniques for Perfecting Your Website](https://dev.to/sarveshh/8-essential-css-tricks-and-techniques-for-perfecting-your-website-le)
+- [How To Make Login Page Like Twitter Using React Js | Sign In Page Design With React Js](https://dev.to/ziontutorial/how-to-make-login-page-like-twitter-using-react-js-sign-in-page-design-with-react-js-31hf)
+- [Redux-like state container in SwiftUI. Derived stores.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-derived-stores-2d62)
+- [Redux-like state container in SwiftUI. Reducer composition.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-reducer-composition-3j0m)
+- [Redux-like state container in SwiftUI. State composition.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-state-composition-57e5)
 <!-- BLOG-POST-LIST:END -->
 
