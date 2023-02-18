@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Coding Projects to Impress Employers and Land Your Dream Job 😎](https://dev.to/acidop/10-coding-projects-to-impress-employers-and-land-your-dream-job-5ail)
 - [A Beginners Guide to Open Source](https://dev.to/arindam_1729/a-beginners-guide-to-open-source-4nc5)
+- [Closing a Knowledge Gap: CSS Naming Conventions - BEM](https://dev.to/davidchedrick/closing-a-knowledge-gap-css-naming-conventions-bem-3adb)
 - [How to Read Output of MySQL EXPLAIN](https://dev.to/amitiwary999/get-useful-information-from-mysql-explain-2i97)
-- [Top ten popular static site generators &lpar;SSG&rpar; in 2023](https://dev.to/ezinne_anne/top-ten-popular-static-site-generators-ssg-in-2023-11p1)
-- [Python Lists tutorial](https://dev.to/max24816/python-lists-tutorial-2g43)
 <!-- BLOG-POST-LIST:END -->
 
