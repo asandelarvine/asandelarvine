@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an App with React, Apollo, and GraphQL: A Step-by-Step Guide to Fetching Data and Error Handling](https://dev.to/icyybee/creating-an-app-with-react-apollo-and-graphql-a-step-by-step-guide-to-fetching-data-and-error-handling-5bgh)
+- [CodeSmash No Code Platform](https://dev.to/mariostopfer/codesmash-no-code-platform-3h4b)
 - [Building an app to search the APOD archive by color 🪐](https://dev.to/bryce/building-an-app-to-search-the-apod-archive-by-color-23bb)
 - [Learning SQL and an Introduction on Python for Data Science](https://dev.to/joe_jngigi/learning-sql-and-an-introduction-on-python-for-data-science-5hii)
-- [10 Coding Projects to Impress Employers and Land Your Dream Job 😎](https://dev.to/acidop/10-coding-projects-to-impress-employers-and-land-your-dream-job-5ail)
-- [Sharing knowledge as a way of life](https://dev.to/aws-builders/sharing-knowledge-as-a-way-of-life-40lm)
 <!-- BLOG-POST-LIST:END -->
 
