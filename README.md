@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source vs. Proprietary API Development Tools: Why open-source development tools are Better?](https://dev.to/liyasthomas/open-source-vs-proprietary-api-development-tools-why-open-source-development-tools-are-better-akc)
-- [How to Optimize the Performance of Your React Application](https://dev.to/haszankauna/how-to-optimize-the-performance-of-your-react-application-bld)
-- [Understanding React Hooks: A Comprehensive Guide](https://dev.to/haszankauna/understanding-react-hooks-a-comprehensive-guide-4d07)
-- [How to Build a Simple Kafka Producer/Consumer Application in Rust](https://dev.to/schultyy/how-to-build-a-simple-kafka-producerconsumer-application-in-rust-3pl4)
+- [Tiny CRM - Linode + DEV Hackathon Submission](https://dev.to/frikishaan/tiny-crm-linode-dev-hackathon-submission-5gc1)
+- [Top 10 Things to not do while coding!](https://dev.to/dhruvjoshi9/top-10-things-to-not-do-while-coding-2hl3)
+- [How to use Docker with Ruby on Rails applications.](https://dev.to/harsh_u115/how-to-use-docker-with-ruby-on-rails-applications-4p13)
+- [State Management in React with Redux](https://dev.to/haszankauna/state-management-in-react-with-redux-2l41)
 <!-- BLOG-POST-LIST:END -->
 
