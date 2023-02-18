@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to start in IT, specially programming](https://dev.to/victormanduca/how-to-start-in-it-specially-programming-3mjg)
 - [Golang Roadmap 2023](https://dev.to/learngoonline/golang-roadmap-2023-4076)
-- [Você sabia? - Curiosidades JAVA](https://dev.to/brmartin/voce-sabia-curiosidades-java-52lh)
-- [🪝 What is Hoisting in JavaScript?](https://dev.to/catherineisonline/what-is-hoisting-in-javascript-5c9b)
+- [Implement Default Splash Screen Prior to Android 12](https://dev.to/vtsen/implement-default-splash-screen-prior-to-android-12-1e67)
+- [SPVM::File::Path and SPVM::File::Glob are newly released.](https://dev.to/yukikimoto/spvmfilepath-and-spvmfileglob-are-newly-released-1lpe)
 <!-- BLOG-POST-LIST:END -->
 
