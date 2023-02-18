@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Formik Works Great; Here&#39;s Why I Wrote My Own](https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m)
+- [A Similarity between CSS and Python](https://dev.to/vulcanwm/a-similarity-between-css-and-python-4lee)
 - [How To Make Login Page Like Twitter Using React Js | Sign In Page Design With React Js](https://dev.to/ziontutorial/how-to-make-login-page-like-twitter-using-react-js-sign-in-page-design-with-react-js-31hf)
 - [Redux-like state container in SwiftUI. Derived stores.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-derived-stores-2d62)
-- [Redux-like state container in SwiftUI. Reducer composition.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-reducer-composition-3j0m)
 <!-- BLOG-POST-LIST:END -->
 
