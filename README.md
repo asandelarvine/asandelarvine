@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain-101](https://dev.to/spyder15/blockchain-101-5ccc)
+- [Hack The Box - Encoding [Medium] - Walkthrough](https://dev.to/syrull/hack-the-box-encoding-medium-walkthrough-kg3)
+- [Differences between arrow function and regular function in JavaScript](https://dev.to/mohitcodes/differences-between-arrow-function-and-regular-function-in-javascript-20d4)
 - [Hack The Box - Vessel [Hard] - Walkthrough](https://dev.to/syrull/hack-the-box-vessel-hard-walkthrough-a01)
-- [Tiny CRM - Linode + DEV Hackathon Submission](https://dev.to/frikishaan/tiny-crm-linode-dev-hackathon-submission-5gc1)
-- [Top 10 Things to not do while coding!](https://dev.to/dhruvjoshi9/top-10-things-to-not-do-while-coding-2hl3)
-- [How to use Docker with Ruby on Rails applications.](https://dev.to/harsh_u115/how-to-use-docker-with-ruby-on-rails-applications-4p13)
 <!-- BLOG-POST-LIST:END -->
 
