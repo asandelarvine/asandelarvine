@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [CI/CD in a nutshell](https://dev.to/leandronsp/cicd-in-a-nutshell-3k6a)
 - [Getting started with React.js with Typescript using vite.js⚡](https://dev.to/headbwoi/getting-started-with-reactjs-with-typescript-using-vitejs-hjo)
 - [Publishing Your Extensions to Visual Studio Marketplace](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
-- [Creating an App with React, Apollo, and GraphQL: A Step-by-Step Guide to Fetching Data and Error Handling](https://dev.to/icyybee/creating-an-app-with-react-apollo-and-graphql-a-step-by-step-guide-to-fetching-data-and-error-handling-5bgh)
+- [6-part series on configuring a CI/CD pipeline using Customized Docker image on an Apache Web Server &amp; Application Load Balancer](https://dev.to/aws-builders/6-part-series-on-configuring-a-cicd-pipeline-using-customized-docker-image-on-an-apache-web-server-application-load-balancer-34ao)
 <!-- BLOG-POST-LIST:END -->
 
