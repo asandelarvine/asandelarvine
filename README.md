@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimalist web server for static files with Crystal](https://dev.to/miry/minimalistic-web-server-for-static-files-with-crystal-19a1)
-- [Adding Test to your project](https://dev.to/alcb1310/adding-test-to-your-project-20o6)
-- [How to find a Job as a developer in just 30 Days](https://dev.to/shreyvijayvargiya/how-to-find-a-job-as-a-developer-in-just-30-days-5b20)
-- [Ml Model Consume on Linode migrated from Azure Functions - Sandy Inspires](https://dev.to/sandy_codes_py/ml-model-consume-on-linode-migrated-from-azure-functions-sandy-inspires-2pf2)
+- [You might be overusing React states](https://dev.to/diogorodrigues/you-might-be-overusing-react-states-2m39)
+- [How To Get Technical Writing Jobs, Gigs, or Opportunities](https://dev.to/the_greatbonnie/how-to-get-technical-writing-jobs-gigs-or-opportunities-3mmd)
+- [Dev Cheats - Interactive Cheatsheets For Developers](https://dev.to/excalith/dev-cheats-5b3o)
+- [Tauri - The Flutter killer?](https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27)
 <!-- BLOG-POST-LIST:END -->
 
