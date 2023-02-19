@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS !important: Avoid Using](https://dev.to/stakedesigner/css-important-avoid-using-2k4c)
 - [You might be overusing React states](https://dev.to/diogorodrigues/you-might-be-overusing-react-states-2m39)
 - [How To Get Technical Writing Jobs, Gigs, or Opportunities](https://dev.to/the_greatbonnie/how-to-get-technical-writing-jobs-gigs-or-opportunities-3mmd)
 - [Dev Cheats - Interactive Cheatsheets For Developers](https://dev.to/excalith/dev-cheats-5b3o)
-- [Tauri - The Flutter killer?](https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27)
 <!-- BLOG-POST-LIST:END -->
 
