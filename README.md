@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a CRUD Rest API in Python using Flask, SQLAlchemy, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-python-using-flask-sqlalchemy-postgres-docker-28lo)
-- [I need your opinion](https://dev.to/pulimoodan/i-need-your-opinion-26en)
-- [An exciting Kafka Desktop GUI](https://dev.to/chenjing1294/an-exciting-kafka-desktop-gui-4f78)
-- [INTRODUCTION TO SQL FOR DATA SCIENCE](https://dev.to/kemboijebby/introduction-to-sql-for-data-science-6a)
+- [Where do you find community?](https://dev.to/nickytonline/where-do-you-find-community-458p)
+- [Challenge Accepted](https://dev.to/jd2r/challenge-accepted-poo)
+- [What is it like to be a developer? &lpar;in gifs&rpar; 🗿](https://dev.to/mariamarsh/what-is-it-like-to-be-a-developer-in-gifs-115l)
+- [How to Set up a different Database For Testing your Laravel Application](https://dev.to/codedsalis/how-to-set-up-a-different-database-for-testing-your-laravel-application-44g0)
 <!-- BLOG-POST-LIST:END -->
 
