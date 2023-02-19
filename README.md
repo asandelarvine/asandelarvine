@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 JavaScript Web APIs to build Futuristic Websites you didn&#39;t know🤯](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)
+- [How to Perform Exploratory Data Analysis with Python](https://dev.to/phylis/how-to-perform-exploratory-data-analysis-with-python-l8j)
 - [Python set tutorial](https://dev.to/max24816/python-set-tutorial-hcp)
 - [Python tuple tutorial](https://dev.to/max24816/python-tuple-tutorial-3m62)
-- [5 Tips To Elevate Your Coding Skills!](https://dev.to/sriparno08/5-tips-to-elevate-your-coding-skills-5db2)
-- [Working with the Basics](https://dev.to/ririio/working-with-the-basics-44ge)
 <!-- BLOG-POST-LIST:END -->
 
