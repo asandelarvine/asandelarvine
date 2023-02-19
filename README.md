@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CRUD Rest API in Python using Flask, SQLAlchemy, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-python-using-flask-sqlalchemy-postgres-docker-28lo)
 - [I need your opinion](https://dev.to/pulimoodan/i-need-your-opinion-26en)
+- [An exciting Kafka Desktop GUI](https://dev.to/chenjing1294/an-exciting-kafka-desktop-gui-4f78)
 - [INTRODUCTION TO SQL FOR DATA SCIENCE](https://dev.to/kemboijebby/introduction-to-sql-for-data-science-6a)
-- [DevEmbed: Embed your dev.to profile anywhere using widgets - Linode Hacakathon](https://dev.to/asheeshh/devembed-embed-your-devto-profile-anywhere-using-widgets-linode-hacakathon-4659)
-- [#refineweek: Implementing Role Based Access Control](https://dev.to/refine/refineweek-implementing-role-based-access-control-4gc4)
 <!-- BLOG-POST-LIST:END -->
 
