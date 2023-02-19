@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to find a Job as a developer in just 30 Days](https://dev.to/shreyvijayvargiya/how-to-find-a-job-as-a-developer-in-just-30-days-5b20)
+- [Ml Model Consume on Linode migrated from Azure Functions - Sandy Inspires](https://dev.to/sandy_codes_py/ml-model-consume-on-linode-migrated-from-azure-functions-sandy-inspires-2pf2)
+- [Tekton CI, part II, sharing information](https://dev.to/leandronsp/tekton-ci-part-ii-sharing-information-j81)
 - [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
-- [Yet Another Newsletter LOL: Bing!](https://dev.to/nickytonline/yet-another-newsletter-lol-bing-1dpi)
-- [Where do you find community?](https://dev.to/nickytonline/where-do-you-find-community-458p)
-- [Challenge Accepted](https://dev.to/jd2r/challenge-accepted-poo)
 <!-- BLOG-POST-LIST:END -->
 
