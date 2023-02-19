@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD in a nutshell](https://dev.to/leandronsp/cicd-in-a-nutshell-3k6a)
 - [Getting started with React.js with Typescript using vite.js⚡](https://dev.to/headbwoi/getting-started-with-reactjs-with-typescript-using-vitejs-hjo)
 - [Publishing Your Extensions to Visual Studio Marketplace](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
 - [Creating an App with React, Apollo, and GraphQL: A Step-by-Step Guide to Fetching Data and Error Handling](https://dev.to/icyybee/creating-an-app-with-react-apollo-and-graphql-a-step-by-step-guide-to-fetching-data-and-error-handling-5bgh)
-- [CodeSmash No Code Platform](https://dev.to/mariostopfer/codesmash-no-code-platform-3h4b)
 <!-- BLOG-POST-LIST:END -->
 
