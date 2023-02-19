@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://dev.to/hyfydistro/intro-to-naming-guidelines-writing-meaningful-variable-names-13j5)
+- [Soft delete: Implementation issues in Prisma and solution in ZenStack](https://dev.to/zenstack/soft-delete-implementation-issues-in-prisma-and-solution-in-zenstack-23fl)
+- [Using python dictionary in data engineering.](https://dev.to/ndurumo254/using-python-dictionary-in-data-engineering-3oec)
 - [7 JavaScript Web APIs to build Futuristic Websites you didn&#39;t know🤯](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)
-- [How to Perform Exploratory Data Analysis with Python](https://dev.to/phylis/how-to-perform-exploratory-data-analysis-with-python-l8j)
-- [Python set tutorial](https://dev.to/max24816/python-set-tutorial-hcp)
-- [Python tuple tutorial](https://dev.to/max24816/python-tuple-tutorial-3m62)
 <!-- BLOG-POST-LIST:END -->
 
