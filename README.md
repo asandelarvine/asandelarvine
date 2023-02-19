@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ReScript, React and spread props - it&#39;s now possible!](https://dev.to/zth/rescript-react-and-spread-props-its-now-possible-1k98)
 - [Setting Network Proxy in Docker in linux](https://dev.to/tusharrao198/setting-network-proxy-in-docker-in-linux-h7j)
 - [My Favorite Courses to Learn Coding and Programming in 2023](https://dev.to/javinpaul/my-favorite-courses-to-learn-coding-and-programming-in-2023-4ngo)
 - [Different Ways to Fetch Data in React Js:](https://dev.to/bhartee_sahare/different-ways-to-fetch-data-in-react-js-4eok)
-- [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://dev.to/hyfydistro/intro-to-naming-guidelines-writing-meaningful-variable-names-13j5)
 <!-- BLOG-POST-LIST:END -->
 
