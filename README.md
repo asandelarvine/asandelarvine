@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I need your opinion](https://dev.to/pulimoodan/i-need-your-opinion-26en)
+- [INTRODUCTION TO SQL FOR DATA SCIENCE](https://dev.to/kemboijebby/introduction-to-sql-for-data-science-6a)
 - [DevEmbed: Embed your dev.to profile anywhere using widgets - Linode Hacakathon](https://dev.to/asheeshh/devembed-embed-your-devto-profile-anywhere-using-widgets-linode-hacakathon-4659)
-- [An article on introduction to python for data science.](https://dev.to/kemboijebby/an-article-on-introduction-to-python-for-data-science-415c)
-- [Creating Web Accessibility: Semantic Tags](https://dev.to/frontend_jedi/creating-web-accessibility-semantic-tags-50bl)
-- [ReScript, React and spread props - it&#39;s now possible!](https://dev.to/zth/rescript-react-and-spread-props-its-now-possible-1k98)
+- [#refineweek: Implementing Role Based Access Control](https://dev.to/refine/refineweek-implementing-role-based-access-control-4gc4)
 <!-- BLOG-POST-LIST:END -->
 
