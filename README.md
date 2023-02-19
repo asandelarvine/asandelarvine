@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimalist web server for static files with Crystal](https://dev.to/miry/minimalistic-web-server-for-static-files-with-crystal-19a1)
+- [Adding Test to your project](https://dev.to/alcb1310/adding-test-to-your-project-20o6)
 - [How to find a Job as a developer in just 30 Days](https://dev.to/shreyvijayvargiya/how-to-find-a-job-as-a-developer-in-just-30-days-5b20)
 - [Ml Model Consume on Linode migrated from Azure Functions - Sandy Inspires](https://dev.to/sandy_codes_py/ml-model-consume-on-linode-migrated-from-azure-functions-sandy-inspires-2pf2)
-- [Tekton CI, part II, sharing information](https://dev.to/leandronsp/tekton-ci-part-ii-sharing-information-j81)
-- [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
 <!-- BLOG-POST-LIST:END -->
 
