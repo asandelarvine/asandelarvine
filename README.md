@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI Client for ReductStore v0.7.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v070-has-been-released-1jil)
+- [Tekton CI, part III, listen to Github events](https://dev.to/leandronsp/tekton-ci-part-iii-listen-to-github-events-1h3i)
+- [Second Next.js website](https://dev.to/vulcanwm/second-nextjs-website-c70)
 - [CSS !important: Avoid Using](https://dev.to/stakedesigner/css-important-avoid-using-2k4c)
-- [You might be overusing React states](https://dev.to/diogorodrigues/you-might-be-overusing-react-states-2m39)
-- [How To Get Technical Writing Jobs, Gigs, or Opportunities](https://dev.to/the_greatbonnie/how-to-get-technical-writing-jobs-gigs-or-opportunities-3mmd)
-- [Dev Cheats - Interactive Cheatsheets For Developers](https://dev.to/excalith/dev-cheats-5b3o)
 <!-- BLOG-POST-LIST:END -->
 
