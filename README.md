@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD in a nutshell](https://dev.to/leandronsp/cicd-in-a-nutshell-3k6a)
-- [Getting started with React.js with Typescript using vite.js⚡](https://dev.to/headbwoi/getting-started-with-reactjs-with-typescript-using-vitejs-hjo)
-- [Publishing Your Extensions to Visual Studio Marketplace](https://dev.to/shiftescape/publishing-your-extensions-to-visual-studio-marketplace-49ma)
-- [6-part series on configuring a CI/CD pipeline using Customized Docker image on an Apache Web Server &amp; Application Load Balancer](https://dev.to/aws-builders/6-part-series-on-configuring-a-cicd-pipeline-using-customized-docker-image-on-an-apache-web-server-application-load-balancer-34ao)
+- [Python set tutorial](https://dev.to/max24816/python-set-tutorial-hcp)
+- [Python tuple tutorial](https://dev.to/max24816/python-tuple-tutorial-3m62)
+- [5 Tips To Elevate Your Coding Skills!](https://dev.to/sriparno08/5-tips-to-elevate-your-coding-skills-5db2)
+- [Working with the Basics](https://dev.to/ririio/working-with-the-basics-44ge)
 <!-- BLOG-POST-LIST:END -->
 
