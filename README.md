@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
+- [Yet Another Newsletter LOL: Bing!](https://dev.to/nickytonline/yet-another-newsletter-lol-bing-1dpi)
 - [Where do you find community?](https://dev.to/nickytonline/where-do-you-find-community-458p)
 - [Challenge Accepted](https://dev.to/jd2r/challenge-accepted-poo)
-- [What is it like to be a developer? &lpar;in gifs&rpar; 🗿](https://dev.to/mariamarsh/what-is-it-like-to-be-a-developer-in-gifs-115l)
-- [How to Set up a different Database For Testing your Laravel Application](https://dev.to/codedsalis/how-to-set-up-a-different-database-for-testing-your-laravel-application-44g0)
 <!-- BLOG-POST-LIST:END -->
 
