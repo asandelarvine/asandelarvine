@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Nextjs app to github-pages with Github Actions](https://dev.to/mentorkadriu/deploy-nextjs-app-to-github-pages-with-github-actions-293)
-- [The Scary Side of Frameworks/Languages](https://dev.to/vulcanwm/the-scary-side-of-frameworkslanguages-i7n)
-- [Mentor First Aid Kit](https://dev.to/one-beyond/mentor-first-aid-kit-4876)
-- [Why you should create a GitHub profile README &lpar;as a job seeking dev&rpar;](https://dev.to/patricklemmer/why-you-should-create-a-github-profile-readme-as-a-job-seeking-dev-1e86)
+- [Python break and continue tutorial](https://dev.to/max24816/python-break-and-continue-tutorial-57kj)
+- [Python While Loop tutorial](https://dev.to/max24816/python-while-loop-tutorial-463f)
+- [Music Monday — What are you listening to? &lpar;Virtuoso Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-virtuoso-edition-4o2f)
+- [Python For Loops, Range, Enumerate Tutorial](https://dev.to/max24816/python-for-loops-range-enumerate-tutorial-20a2)
 <!-- BLOG-POST-LIST:END -->
 
