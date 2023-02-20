@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a resume builder with React, NodeJS and AI 🚀](https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l)
-- [🔒Improve Bitwarden Enterprise management with Google SSO](https://dev.to/hunghvu/improve-bitwarden-enterprise-management-with-google-sso-5e81)
-- [Quick guide to Next.js i18n](https://dev.to/tomekponiat/quick-guide-to-nextjs-i18n-1745)
-- [Top 11 Advanced Tkinter Projects You Should Try This Year](https://dev.to/khumbolamulungu/top-11-advanced-tkinter-projects-you-should-try-this-year-115l)
+- [Meme Monday 🤓](https://dev.to/ben/meme-monday-g66)
+- [How to start with Python - The Basics for Absolute Beginners](https://dev.to/aradwan20/how-to-start-with-python-the-basics-for-absolute-beginners-lf1)
+- [Amazon Managed Blockchain](https://dev.to/sefini_steph/amazon-managed-blockchain-e2n)
+- [Using VSCode with Apache Airflow](https://dev.to/aws/using-vscode-with-apache-airflow-2da5)
 <!-- BLOG-POST-LIST:END -->
 
