@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Refs is more than enough](https://dev.to/thexdev/refs-is-more-than-enough-4a2a)
+- [Three Great Blogs You Must Follow](https://dev.to/cozydev/three-great-blogs-you-must-follow-3emm)
+- [Usando ícones SVG como fontes com o IcoMoon](https://dev.to/sucodelarangela/usando-icones-svg-como-fontes-com-o-icomoon-563e)
 - [ChatGPT helps to fix errors in SQL code](https://dev.to/rozhnev/chatgpt-helps-to-fix-errors-in-sql-code-1a73)
-- [Opinion: ellipsis are rude…](https://dev.to/adam_cyclones/opinion-ellipsis-are-rude-1n31)
-- [StaticStorm - Unleash the power of simple, fast and secure websites. Linode + DEV Hackathon](https://dev.to/devarshishimpi/staticstorm-unleash-the-power-of-simple-fast-and-secure-websites-linode-dev-hackathon-382g)
 <!-- BLOG-POST-LIST:END -->
 
