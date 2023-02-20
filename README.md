@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Stonks - Realtime Trading Simulator [Linode DEV Hackathon]](https://dev.to/narottam04/stonks-realtime-trading-simulator-linode-dev-hackathon-i2p)
+- [The importance of cyber-security in software development](https://dev.to/folasayosamuel/the-importance-of-cybersecurity-in-software-development-2mcg)
 - [Optimizing Your Web App to Improve Performance](https://dev.to/get_pieces/optimizing-your-web-app-to-improve-performance-453o)
 - [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3ajf)
-- [FLiP-FLaNK Stack Weekly 20-February-2023](https://dev.to/tspannhw/flip-flank-stack-weekly-20-february-2023-f86)
 <!-- BLOG-POST-LIST:END -->
 
