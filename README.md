@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Javascript](https://dev.to/sofweng10/javascript-29h4)
 - [An exciting Apache ZooKeeper Desktop GUI](https://dev.to/chenjing1294/an-exciting-apache-zookeeper-desktop-gui-1fdo)
+- [2023 Development Tool Map](https://dev.to/function12_io/2023-development-tool-map-3k16)
 - [Lista para iniciantes](https://dev.to/igd753/lista-para-iniciantes-a8h)
-- [Text Typing Effect Using HTML CSS Only](https://dev.to/rutikkpatel/text-typing-effect-using-html-css-only-11m0)
 <!-- BLOG-POST-LIST:END -->
 
