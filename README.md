@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stonks - Realtime Trading Simulator [Linode DEV Hackathon]](https://dev.to/narottam04/stonks-realtime-trading-simulator-linode-dev-hackathon-i2p)
+- [Optimizing Your Web App to Improve Performance](https://dev.to/get_pieces/optimizing-your-web-app-to-improve-performance-453o)
 - [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3ajf)
 - [FLiP-FLaNK Stack Weekly 20-February-2023](https://dev.to/tspannhw/flip-flank-stack-weekly-20-february-2023-f86)
-- [Creating a High-Performing Barcode/QR Code Scanner in Flutter — Tips, Tricks and Advanced Feature](https://dev.to/siddhardha/creating-a-high-performing-barcodeqr-code-scanner-in-flutter-tips-tricks-and-advanced-feature-3k77)
-- [WanderXP — Organize your travel with ease](https://dev.to/sbis04/wanderxp-organize-your-travel-with-ease-205d)
 <!-- BLOG-POST-LIST:END -->
 
