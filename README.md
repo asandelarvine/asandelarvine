@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Laravel as a service proxy/gateway](https://dev.to/azophy/using-laravel-as-a-service-proxygateway-3ig9)
+- [5 Reasons to Choose Flutter for OTT Development](https://dev.to/veronica_ross1/5-reasons-to-choose-flutter-for-ott-development-1mpf)
 - [Preventing Outages in your SaaS application: Strategies and Best Practices](https://dev.to/gunjanmodi/preventing-outages-in-your-saas-application-strategies-and-best-practices-2b2o)
-- [SOLID PRINCIPLES](https://dev.to/manishakundrapu/solid-principles-1e8o)
-- [Advanced Overview of String Conversion in JavaScript](https://dev.to/andrewsavetchuk/advanced-overview-of-string-conversionin-javascript-68k)
-- [How to use @next/font globally](https://dev.to/mikeesto/how-to-use-nextfont-globally-4img)
+- [7 Tips and Tricks for Debugging in JavaScript](https://dev.to/musabdev/tips-and-tricks-for-debugging-in-javascript-3njp)
 <!-- BLOG-POST-LIST:END -->
 
