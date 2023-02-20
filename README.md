@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Preventing Outages in your SaaS application: Strategies and Best Practices](https://dev.to/gunjanmodi/preventing-outages-in-your-saas-application-strategies-and-best-practices-2b2o)
+- [SOLID PRINCIPLES](https://dev.to/manishakundrapu/solid-principles-1e8o)
+- [Advanced Overview of String Conversion in JavaScript](https://dev.to/andrewsavetchuk/advanced-overview-of-string-conversionin-javascript-68k)
 - [How to use @next/font globally](https://dev.to/mikeesto/how-to-use-nextfont-globally-4img)
-- [Hosting a static website in AWS](https://dev.to/dmeadows8585/hosting-a-static-reactjs-app-in-aws-5769)
-- [Javascript](https://dev.to/sofweng10/javascript-29h4)
-- [An exciting Apache ZooKeeper Desktop GUI](https://dev.to/chenjing1294/an-exciting-apache-zookeeper-desktop-gui-1fdo)
 <!-- BLOG-POST-LIST:END -->
 
