@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tools and Frameworks for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
-- [Learn how to install SolidJS with Flowbite and Tailwind CSS](https://dev.to/themesberg/learn-how-to-install-solidjs-with-flowbite-and-tailwind-css-26c2)
-- [How to create a Drag and Drop interface using Vanilla JS](https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi)
-- [Passwordless.ID - Screenshots 🖥️](https://dev.to/dagnelies/passwordlessid-screenshots-2g0j)
+- [🔒Improve Bitwarden Enterprise management with Google SSO](https://dev.to/hunghvu/improve-bitwarden-enterprise-management-with-google-sso-5e81)
+- [Quick guide to Next.js i18n](https://dev.to/tomekponiat/quick-guide-to-nextjs-i18n-1745)
+- [Top 11 Advanced Tkinter Projects You Should Try This Year](https://dev.to/khumbolamulungu/top-11-advanced-tkinter-projects-you-should-try-this-year-115l)
+- [Search through over 100 billion images, verify your identity, mint your image on the ETH blockchain and get a PDF certificate!](https://dev.to/verifbox/search-over-100-billion-images-verify-your-id-mint-your-image-in-the-ethereum-blockchain-get-an-nft-pdf-certificate-5815)
 <!-- BLOG-POST-LIST:END -->
 
