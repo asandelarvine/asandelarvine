@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday 🤓](https://dev.to/ben/meme-monday-g66)
-- [How to start with Python - The Basics for Absolute Beginners](https://dev.to/aradwan20/how-to-start-with-python-the-basics-for-absolute-beginners-lf1)
-- [Amazon Managed Blockchain](https://dev.to/sefini_steph/amazon-managed-blockchain-e2n)
-- [Using VSCode with Apache Airflow](https://dev.to/aws/using-vscode-with-apache-airflow-2da5)
+- [Deploy Nextjs app to github-pages with Github Actions](https://dev.to/mentorkadriu/deploy-nextjs-app-to-github-pages-with-github-actions-293)
+- [The Scary Side of Frameworks/Languages](https://dev.to/vulcanwm/the-scary-side-of-frameworkslanguages-i7n)
+- [Mentor First Aid Kit](https://dev.to/one-beyond/mentor-first-aid-kit-4876)
+- [Why you should create a GitHub profile README &lpar;as a job seeking dev&rpar;](https://dev.to/patricklemmer/why-you-should-create-a-github-profile-readme-as-a-job-seeking-dev-1e86)
 <!-- BLOG-POST-LIST:END -->
 
