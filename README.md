@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Laravel as a service proxy/gateway](https://dev.to/azophy/using-laravel-as-a-service-proxygateway-3ig9)
-- [5 Reasons to Choose Flutter for OTT Development](https://dev.to/veronica_ross1/5-reasons-to-choose-flutter-for-ott-development-1mpf)
-- [Preventing Outages in your SaaS application: Strategies and Best Practices](https://dev.to/gunjanmodi/preventing-outages-in-your-saas-application-strategies-and-best-practices-2b2o)
-- [7 Tips and Tricks for Debugging in JavaScript](https://dev.to/musabdev/tips-and-tricks-for-debugging-in-javascript-3njp)
+- [AWS open source newsletter, #145](https://dev.to/aws/aws-open-source-newsletter-145-4ee0)
+- [Refactor your CSS NOW!!](https://dev.to/hellonehha/refactor-your-css-now-3oo8)
+- [Revolutionize Your Workflow with VoxKraken: A Google Extension for Speaking and Chatting with GPT-3 - Part 1](https://dev.to/foxbuka/revolutionize-your-workflow-with-voxkraken-a-google-extension-for-speaking-and-chatting-with-gpt-3-part-1-50mp)
+- [Recreating Steam - Medusa &amp; Next.js](https://dev.to/stef4n24/recreating-steam-medusa-nextjs-3nca)
 <!-- BLOG-POST-LIST:END -->
 
