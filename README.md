@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SvelteKit 1.0 - Build an blog, fetching posts from your DEV profile 🦄](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)
+- [React-Native-IAP: One package to rule them all 🧙‍♂️](https://dev.to/amazonappdev/react-native-iap-one-package-to-rule-them-all-4f0n)
+- [Which AWS Certification exam should I sit?](https://dev.to/aws-builders/which-aws-certification-exam-should-i-sit-hah)
 - [Top Technology Trends That You Can Learn in 2023](https://dev.to/davidking/top-technology-trends-that-you-can-learn-in-2023-4kil)
-- [Como ter cuidado com as burlas de empregadores em trabalhos remoto](https://dev.to/mvfernando/como-ter-cuidado-com-as-burlas-de-empregadores-em-trabalhos-remoto-30od)
-- [Stop manually iterating over your test data in your unit tests! - Parametrized tests in C# using MSTest, NUnit, and XUnit](https://dev.to/rogeliogamez92/stop-manually-iterating-over-your-test-data-in-your-unit-tests-parametrized-tests-in-c-using-mstest-nunit-and-xunit-20d1)
-- [Refs is more than enough](https://dev.to/thexdev/refs-is-more-than-enough-4a2a)
 <!-- BLOG-POST-LIST:END -->
 
