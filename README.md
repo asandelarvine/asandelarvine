@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Tools and Frameworks for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
+- [Learn how to install SolidJS with Flowbite and Tailwind CSS](https://dev.to/themesberg/learn-how-to-install-solidjs-with-flowbite-and-tailwind-css-26c2)
 - [How to create a Drag and Drop interface using Vanilla JS](https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi)
 - [Passwordless.ID - Screenshots 🖥️](https://dev.to/dagnelies/passwordlessid-screenshots-2g0j)
-- [How did I upgrade Aurora Postgres RDS clusters in Production using Terraform](https://dev.to/chiragdm/how-did-i-upgrade-aurora-postgres-rds-clusters-in-production-using-terraform-2bf4)
-- [6 git commands, you may not know.](https://dev.to/developeralamin/6-git-commands-you-may-not-know-gob)
 <!-- BLOG-POST-LIST:END -->
 
