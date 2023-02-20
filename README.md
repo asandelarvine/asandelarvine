@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python break and continue tutorial](https://dev.to/max24816/python-break-and-continue-tutorial-57kj)
-- [Python While Loop tutorial](https://dev.to/max24816/python-while-loop-tutorial-463f)
-- [Music Monday — What are you listening to? &lpar;Virtuoso Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-virtuoso-edition-4o2f)
-- [Python For Loops, Range, Enumerate Tutorial](https://dev.to/max24816/python-for-loops-range-enumerate-tutorial-20a2)
+- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3ajf)
+- [FLiP-FLaNK Stack Weekly 20-February-2023](https://dev.to/tspannhw/flip-flank-stack-weekly-20-february-2023-f86)
+- [Creating a High-Performing Barcode/QR Code Scanner in Flutter — Tips, Tricks and Advanced Feature](https://dev.to/siddhardha/creating-a-high-performing-barcodeqr-code-scanner-in-flutter-tips-tricks-and-advanced-feature-3k77)
+- [WanderXP — Organize your travel with ease](https://dev.to/sbis04/wanderxp-organize-your-travel-with-ease-205d)
 <!-- BLOG-POST-LIST:END -->
 
