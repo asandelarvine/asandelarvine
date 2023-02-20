@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #145](https://dev.to/aws/aws-open-source-newsletter-145-4ee0)
-- [Refactor your CSS NOW!!](https://dev.to/hellonehha/refactor-your-css-now-3oo8)
-- [Revolutionize Your Workflow with VoxKraken: A Google Extension for Speaking and Chatting with GPT-3 - Part 1](https://dev.to/foxbuka/revolutionize-your-workflow-with-voxkraken-a-google-extension-for-speaking-and-chatting-with-gpt-3-part-1-50mp)
-- [Recreating Steam - Medusa &amp; Next.js](https://dev.to/stef4n24/recreating-steam-medusa-nextjs-3nca)
+- [How to create a Drag and Drop interface using Vanilla JS](https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi)
+- [Passwordless.ID - Screenshots 🖥️](https://dev.to/dagnelies/passwordlessid-screenshots-2g0j)
+- [How did I upgrade Aurora Postgres RDS clusters in Production using Terraform](https://dev.to/chiragdm/how-did-i-upgrade-aurora-postgres-rds-clusters-in-production-using-terraform-2bf4)
+- [6 git commands, you may not know.](https://dev.to/developeralamin/6-git-commands-you-may-not-know-gob)
 <!-- BLOG-POST-LIST:END -->
 
