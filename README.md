@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript](https://dev.to/sofweng10/javascript-29h4)
+- [An exciting Apache ZooKeeper Desktop GUI](https://dev.to/chenjing1294/an-exciting-apache-zookeeper-desktop-gui-1fdo)
+- [Lista para iniciantes](https://dev.to/igd753/lista-para-iniciantes-a8h)
 - [Text Typing Effect Using HTML CSS Only](https://dev.to/rutikkpatel/text-typing-effect-using-html-css-only-11m0)
-- [CLI Client for ReductStore v0.7.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v070-has-been-released-1jil)
-- [How to choose a Coding Language](https://dev.to/mrdanishsaleem/how-to-choose-a-coding-language-32hg)
-- [Web APIs : CRUD with .Net and EF Core](https://dev.to/rasheedmozaffar/web-apis-crud-with-net-and-ef-core-52dp)
 <!-- BLOG-POST-LIST:END -->
 
