@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stonks - Realtime Trading Simulator [Linode DEV Hackathon]](https://dev.to/narottam04/stonks-realtime-trading-simulator-linode-dev-hackathon-i2p)
-- [The importance of cyber-security in software development](https://dev.to/folasayosamuel/the-importance-of-cybersecurity-in-software-development-2mcg)
-- [Optimizing Your Web App to Improve Performance](https://dev.to/get_pieces/optimizing-your-web-app-to-improve-performance-453o)
-- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3ajf)
+- [Refs is more than enough](https://dev.to/thexdev/refs-is-more-than-enough-4a2a)
+- [ChatGPT helps to fix errors in SQL code](https://dev.to/rozhnev/chatgpt-helps-to-fix-errors-in-sql-code-1a73)
+- [Opinion: ellipsis are rude…](https://dev.to/adam_cyclones/opinion-ellipsis-are-rude-1n31)
+- [StaticStorm - Unleash the power of simple, fast and secure websites. Linode + DEV Hackathon](https://dev.to/devarshishimpi/staticstorm-unleash-the-power-of-simple-fast-and-secure-websites-linode-dev-hackathon-382g)
 <!-- BLOG-POST-LIST:END -->
 
