@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Technology Trends That You Can Learn in 2023](https://dev.to/davidking/top-technology-trends-that-you-can-learn-in-2023-4kil)
+- [Como ter cuidado com as burlas de empregadores em trabalhos remoto](https://dev.to/mvfernando/como-ter-cuidado-com-as-burlas-de-empregadores-em-trabalhos-remoto-30od)
+- [Stop manually iterating over your test data in your unit tests! - Parametrized tests in C# using MSTest, NUnit, and XUnit](https://dev.to/rogeliogamez92/stop-manually-iterating-over-your-test-data-in-your-unit-tests-parametrized-tests-in-c-using-mstest-nunit-and-xunit-20d1)
 - [Refs is more than enough](https://dev.to/thexdev/refs-is-more-than-enough-4a2a)
-- [Three Great Blogs You Must Follow](https://dev.to/cozydev/three-great-blogs-you-must-follow-3emm)
-- [Usando ícones SVG como fontes com o IcoMoon](https://dev.to/sucodelarangela/usando-icones-svg-como-fontes-com-o-icomoon-563e)
-- [ChatGPT helps to fix errors in SQL code](https://dev.to/rozhnev/chatgpt-helps-to-fix-errors-in-sql-code-1a73)
 <!-- BLOG-POST-LIST:END -->
 
