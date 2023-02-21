@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to build a data pipeline on AWS](https://dev.to/aws-builders/how-to-build-a-data-pipeline-on-aws-5220)
+- [Documenting a Crystal open source project](https://dev.to/fdocr/documenting-a-crystal-open-source-project-3ike)
 - [How to Develop an EV Charging Station Finder App?](https://dev.to/davidsm48726661/how-to-develop-an-ev-charging-station-finder-app-503m)
 - [Build a High-Performing Ecommerce with Svelte and Medusa Backend](https://dev.to/femi_dev/build-a-high-performing-ecommerce-with-svelte-and-medusa-backend-45b4)
-- [Top 5 Freelance Services! Best Freelance Websites to Find Work](https://dev.to/codenear/top-5-freelance-services-best-freelance-websites-to-find-work-53lb)
 <!-- BLOG-POST-LIST:END -->
 
