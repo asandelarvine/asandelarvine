@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bit Manipulation Mastery: A Free Course for Technical Interviews](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
 - [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)
+- [9 Useful Chrome Extensions for Web Developers / Web Development](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
 - [Creating a 3D Table Configurator with React Three Fiber](https://dev.to/wawasensei/creating-a-3d-table-configurator-with-react-three-fiber-1dl2)
-- [How to build a Nextjs blog with Hygraph and deploy to Vercel in 2023.](https://dev.to/amissah17/how-to-build-a-nextjs-blog-with-hygraph-and-deploy-to-vercel-in-2023-1ahd)
-- [Embeddings in the Cloud](https://dev.to/neuml/embeddings-in-the-cloud-3cgg)
 <!-- BLOG-POST-LIST:END -->
 
