@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SOLID PRINCIPLES](https://dev.to/dianaiminza/solid-principles-oc9)
 - [PlayStation Website Design Concept](https://dev.to/parthprajapati/playstation-website-design-concept-l0j)
 - [Why I love GitLens in my VsCode - Part 2](https://dev.to/this-is-learning/why-i-love-gitlens-in-my-vscode-part-2-4i11)
 - [Twenty Best Free AI Tools Online.](https://dev.to/bcblearning/twenty-best-free-ai-tools-online-1djo)
-- [Top 4 Web Scraping Tools mit IP Proxy](https://dev.to/octoparse_deutschland/top-4-web-scraping-tools-mit-ip-proxy-313g)
 <!-- BLOG-POST-LIST:END -->
 
