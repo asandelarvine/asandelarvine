@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [☠️ What is the Temporal Dead Zone in JavaScript?](https://dev.to/catherineisonline/what-is-the-temporal-dead-zone-in-javascript-348g)
+- [gnu-on-alpine and alpine-plus-plus: Two Lightweight Containers for Implementing GitHub Container Actions with Shell Scripting](https://dev.to/cicirello/gnu-on-alpine-and-alpine-plus-plus-two-lightweight-containers-for-implementing-github-container-actions-with-shell-scripting-360i)
 - [Can DevRel Be Done Without Twitter?](https://dev.to/remotesynth/can-devrel-be-done-without-twitter-9a5)
 - [Building Custom JavaScript Libraries](https://dev.to/haszankauna/building-custom-javascript-libraries-42eg)
-- [10 Years on the Internet: Reflections on my Digital Life](https://dev.to/acidop/10-years-of-the-internet-reflections-on-my-digital-life-119o)
-- [Recommended Software development life cycle](https://dev.to/apssouza22/recommended-software-development-life-cycle-4hpj)
 <!-- BLOG-POST-LIST:END -->
 
