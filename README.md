@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add react to an existing website?](https://dev.to/nadeem099/how-to-add-react-to-an-existing-website-hfp)
+- [Introducing the BFF &lpar;Backend for Frontend&rpar; Concept by simple application with SvelteKit, Supabase, and GraphQL Code Generator](https://dev.to/soom/introducing-the-bff-backend-for-frontend-concept-by-simple-application-with-sveltekit-supabase-and-graphql-code-generator-2nmc)
+- [Tutorial - Build a chatbot with React and OpenAI](https://dev.to/djirdehh_93/tutorial-build-a-chatbot-with-react-and-openai-403c)
 - [Python Function Tutorial](https://dev.to/max24816/python-function-tutorial-5fh0)
-- [Memory Management In Python](https://dev.to/superherojt/memory-management-in-python-2f60)
-- [How to Build a SaaS on AWS: a deep dive into the architecture of a SaaS product](https://dev.to/ixartz/how-to-build-a-saas-on-aws-a-deep-dive-into-the-architecture-of-a-saas-product-169f)
-- [Creating Web Accessibility: HTML Attributes](https://dev.to/frontend_jedi/creating-web-accessibility-html-attributes-5cnj)
 <!-- BLOG-POST-LIST:END -->
 
