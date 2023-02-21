@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Trusted Users, should we improve the visibility of this feature/concept?👮](https://dev.to/hunghvu/trusted-users-should-we-improve-the-visibility-of-this-featureconcept-158k)
+- [How to Develop Scalable and Maintainable JavaScript Apps using ES6 Design Patterns](https://dev.to/haszankauna/how-to-develop-scalable-and-maintainable-javascript-apps-using-es6-design-patterns-4cpe)
 - [Bit Manipulation Mastery: A Free Course for Technical Interviews](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
 - [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)
-- [9 Useful Chrome Extensions for Web Developers / Web Development](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
-- [Creating a 3D Table Configurator with React Three Fiber](https://dev.to/wawasensei/creating-a-3d-table-configurator-with-react-three-fiber-1dl2)
 <!-- BLOG-POST-LIST:END -->
 
