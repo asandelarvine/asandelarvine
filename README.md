@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TailwindCSS vs Bootstrap: Which CSS Framework is Better?](https://dev.to/acidop/tailwindcss-vs-bootstrap-which-css-framework-is-better-3l79)
+- [Build a Profit Margin Calculator with Vite.js + React.js, TypeScript and Tailwind CSS](https://dev.to/codeofrelevancy/build-a-profit-margin-calculator-with-vitejs-reactjs-typescript-and-tailwind-css-1khk)
 - [SOLID PRINCIPLES](https://dev.to/dianaiminza/solid-principles-oc9)
 - [PlayStation Website Design Concept](https://dev.to/parthprajapati/playstation-website-design-concept-l0j)
-- [Why I love GitLens in my VsCode - Part 2](https://dev.to/this-is-learning/why-i-love-gitlens-in-my-vscode-part-2-4i11)
-- [Twenty Best Free AI Tools Online.](https://dev.to/bcblearning/twenty-best-free-ai-tools-online-1djo)
 <!-- BLOG-POST-LIST:END -->
 
