@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the ReactJS Interview: Tips and Tricks to Impress and Hire Top React Developers](https://dev.to/crossskatee1/mastering-the-reactjs-interview-tips-and-tricks-to-impress-and-hire-top-react-developers-2np2)
-- [5+ Secrets Time Estimation Hints in Project Management](https://dev.to/flatlogic/5-secrets-time-estimation-hints-in-project-management-5h1g)
-- [Flutter Hooks Tutorial: Flutter Animation Using Hooks &lpar;useEffect and useAnimationController&rpar;](https://dev.to/kuldeeptarapara/flutter-hooks-tutorial-flutter-animation-using-hooks-useeffect-and-useanimationcontroller-603)
-- [Some funky parts of Typescript](https://dev.to/hotjar/some-funky-parts-of-typescript-1bh8)
+- [How to build a data pipeline on AWS](https://dev.to/aws-builders/how-to-build-a-data-pipeline-on-aws-5220)
+- [How to Develop an EV Charging Station Finder App?](https://dev.to/davidsm48726661/how-to-develop-an-ev-charging-station-finder-app-503m)
+- [Build a High-Performing Ecommerce with Svelte and Medusa Backend](https://dev.to/femi_dev/build-a-high-performing-ecommerce-with-svelte-and-medusa-backend-45b4)
+- [Top 5 Freelance Services! Best Freelance Websites to Find Work](https://dev.to/codenear/top-5-freelance-services-best-freelance-websites-to-find-work-53lb)
 <!-- BLOG-POST-LIST:END -->
 
