@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 4 Web Scraping Tools mit IP Proxy](https://dev.to/octoparse_deutschland/top-4-web-scraping-tools-mit-ip-proxy-313g)
+- [You Won&#39;t Believe These 5 Web Development Trends for 2023!](https://dev.to/clickysoft/you-wont-believe-these-5-web-development-trends-for-2023-2egb)
+- [Kubernetes Deployments: Rolling vs Canary vs Blue-Green](https://dev.to/pavanbelagatti/kubernetes-deployments-rolling-vs-canary-vs-blue-green-4k9p)
 - [Trusted Users, should we improve the visibility of this feature/concept?👮](https://dev.to/hunghvu/trusted-users-should-we-improve-the-visibility-of-this-featureconcept-158k)
-- [How to Develop Scalable and Maintainable JavaScript Apps using ES6 Design Patterns](https://dev.to/haszankauna/how-to-develop-scalable-and-maintainable-javascript-apps-using-es6-design-patterns-4cpe)
-- [Bit Manipulation Mastery: A Free Course for Technical Interviews](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
-- [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)
 <!-- BLOG-POST-LIST:END -->
 
