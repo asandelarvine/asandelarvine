@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TailwindCSS vs Bootstrap: Which CSS Framework is Better?](https://dev.to/acidop/tailwindcss-vs-bootstrap-which-css-framework-is-better-3l79)
-- [Build a Profit Margin Calculator with Vite.js + React.js, TypeScript and Tailwind CSS](https://dev.to/codeofrelevancy/build-a-profit-margin-calculator-with-vitejs-reactjs-typescript-and-tailwind-css-1khk)
-- [SOLID PRINCIPLES](https://dev.to/dianaiminza/solid-principles-oc9)
-- [PlayStation Website Design Concept](https://dev.to/parthprajapati/playstation-website-design-concept-l0j)
+- [Mastering the ReactJS Interview: Tips and Tricks to Impress and Hire Top React Developers](https://dev.to/crossskatee1/mastering-the-reactjs-interview-tips-and-tricks-to-impress-and-hire-top-react-developers-2np2)
+- [5+ Secrets Time Estimation Hints in Project Management](https://dev.to/flatlogic/5-secrets-time-estimation-hints-in-project-management-5h1g)
+- [Flutter Hooks Tutorial: Flutter Animation Using Hooks &lpar;useEffect and useAnimationController&rpar;](https://dev.to/kuldeeptarapara/flutter-hooks-tutorial-flutter-animation-using-hooks-useeffect-and-useanimationcontroller-603)
+- [Some funky parts of Typescript](https://dev.to/hotjar/some-funky-parts-of-typescript-1bh8)
 <!-- BLOG-POST-LIST:END -->
 
