@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)
+- [Creating a 3D Table Configurator with React Three Fiber](https://dev.to/wawasensei/creating-a-3d-table-configurator-with-react-three-fiber-1dl2)
 - [How to build a Nextjs blog with Hygraph and deploy to Vercel in 2023.](https://dev.to/amissah17/how-to-build-a-nextjs-blog-with-hygraph-and-deploy-to-vercel-in-2023-1ahd)
 - [Embeddings in the Cloud](https://dev.to/neuml/embeddings-in-the-cloud-3cgg)
-- [How to get up to speed in a new codebase, fast](https://dev.to/kev_mcg/how-to-get-up-to-speed-in-a-new-codebase-fast-31ep)
-- [Factory Fireproof Double Leaf Steel Fire Rated Door for Building Soundproof Acoustic Door](https://dev.to/alexiscoffey20/factory-fireproof-double-leaf-steel-fire-rated-door-for-building-soundproof-acoustic-door-426m)
 <!-- BLOG-POST-LIST:END -->
 
