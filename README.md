@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid These 10 Blunders In Your Next Coding Interview](https://dev.to/codewithvoid/avoid-these-10-blunders-in-your-next-coding-interview-1f7i)
 - [How to Ace Your Technical Interview](https://dev.to/michaellarocca/how-to-ace-your-technical-interview-2fdm)
 - [Como Consegui uma Carreira em DevRel Ainda na Faculdade](https://dev.to/devrelbr/como-consegui-uma-carreira-em-devrel-ainda-na-faculdade-anc)
 - [NPM &amp; Yarn: A CLI Comparison](https://dev.to/arafat4693/npm-yarn-a-cli-comparison-56nb)
-- [Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://dev.to/codenameone/java-serialization-filtering-prevent-0-day-security-vulnerabilities-ipk)
 <!-- BLOG-POST-LIST:END -->
 
