@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit 1.0 - Build an blog, fetching posts from your DEV profile 🦄](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)
-- [React-Native-IAP: One package to rule them all 🧙‍♂️](https://dev.to/amazonappdev/react-native-iap-one-package-to-rule-them-all-4f0n)
-- [Which AWS Certification exam should I sit?](https://dev.to/aws-builders/which-aws-certification-exam-should-i-sit-hah)
-- [Top Technology Trends That You Can Learn in 2023](https://dev.to/davidking/top-technology-trends-that-you-can-learn-in-2023-4kil)
+- [How to build a Nextjs blog with Hygraph and deploy to Vercel in 2023.](https://dev.to/amissah17/how-to-build-a-nextjs-blog-with-hygraph-and-deploy-to-vercel-in-2023-1ahd)
+- [Embeddings in the Cloud](https://dev.to/neuml/embeddings-in-the-cloud-3cgg)
+- [How to get up to speed in a new codebase, fast](https://dev.to/kev_mcg/how-to-get-up-to-speed-in-a-new-codebase-fast-31ep)
+- [Factory Fireproof Double Leaf Steel Fire Rated Door for Building Soundproof Acoustic Door](https://dev.to/alexiscoffey20/factory-fireproof-double-leaf-steel-fire-rated-door-for-building-soundproof-acoustic-door-426m)
 <!-- BLOG-POST-LIST:END -->
 
