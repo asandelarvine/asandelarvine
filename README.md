@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PlayStation Website Design Concept](https://dev.to/parthprajapati/playstation-website-design-concept-l0j)
+- [Why I love GitLens in my VsCode - Part 2](https://dev.to/this-is-learning/why-i-love-gitlens-in-my-vscode-part-2-4i11)
+- [Twenty Best Free AI Tools Online.](https://dev.to/bcblearning/twenty-best-free-ai-tools-online-1djo)
 - [Top 4 Web Scraping Tools mit IP Proxy](https://dev.to/octoparse_deutschland/top-4-web-scraping-tools-mit-ip-proxy-313g)
-- [You Won&#39;t Believe These 5 Web Development Trends for 2023!](https://dev.to/clickysoft/you-wont-believe-these-5-web-development-trends-for-2023-2egb)
-- [Kubernetes Deployments: Rolling vs Canary vs Blue-Green](https://dev.to/pavanbelagatti/kubernetes-deployments-rolling-vs-canary-vs-blue-green-4k9p)
-- [Trusted Users, should we improve the visibility of this feature/concept?👮](https://dev.to/hunghvu/trusted-users-should-we-improve-the-visibility-of-this-featureconcept-158k)
 <!-- BLOG-POST-LIST:END -->
 
