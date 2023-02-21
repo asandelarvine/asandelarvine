@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Function Tutorial](https://dev.to/max24816/python-function-tutorial-5fh0)
+- [Memory Management In Python](https://dev.to/superherojt/memory-management-in-python-2f60)
 - [How to Build a SaaS on AWS: a deep dive into the architecture of a SaaS product](https://dev.to/ixartz/how-to-build-a-saas-on-aws-a-deep-dive-into-the-architecture-of-a-saas-product-169f)
 - [Creating Web Accessibility: HTML Attributes](https://dev.to/frontend_jedi/creating-web-accessibility-html-attributes-5cnj)
-- [The New Reality - AR + dNFTs](https://dev.to/anil_from_revise/the-new-reality-ar-dnfts-2n57)
-- [My Favorite Books to Learn Docker and Kubernetes](https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc)
 <!-- BLOG-POST-LIST:END -->
 
