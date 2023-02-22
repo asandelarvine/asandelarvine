@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering the Power of xargs Command in Linux](https://dev.to/k1lgor/discovering-the-power-of-xargs-command-in-linux-2jkb)
+- [Loading Images With React/JavaScript](https://dev.to/bytebodger/loading-images-with-reactjavascript-3996)
+- [What&#39;s new in JavaScript Charting for 2023?](https://dev.to/jscharting/whats-new-in-javascript-charting-for-2023-1edp)
 - [Top 5 ways to attract readers on DEV](https://dev.to/vulcanwm/top-5-ways-to-attract-readers-on-dev-4cp7)
-- [1 year on DEV! 🥳](https://dev.to/vulcanwm/1-year-on-dev-247c)
-- [KLYNTAR Basics. Part 1: The idea of multistaking on KLY for the theoretical maximum security &amp; decentralization😼](https://dev.to/vladchernenko/klyntar-basics-part-1-the-idea-of-multistaking-on-kly-for-the-theoretical-maximum-security-decentralization-56ij)
-- [Learn the Basics of RegEx in JavaScript](https://dev.to/thedevdrawer/learn-the-basics-of-regex-in-javascript-4kdh)
 <!-- BLOG-POST-LIST:END -->
 
