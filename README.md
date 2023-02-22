@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Symfony with Flowbite and Tailwind CSS](https://dev.to/themesberg/how-to-install-symfony-with-flowbite-and-tailwind-css-1o06)
-- [Understanding Terraform: part 1 – What is Terraform?](https://dev.to/aurelievache/understanding-terraform-part-1-what-is-terraform-55ie)
-- [Goodbye Complicated Sharing! - Share Data Across Devices with Share360.tech 🤯](https://dev.to/rajeshj3/goodbye-complicated-sharing-share-data-across-devices-with-share360tech-kfi)
-- [what is openGauss](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-356b)
+- [Modern AI innovation of Sachin Dev Duggal unleased new opportunities for SMEs](https://dev.to/shivamthakre/modern-ai-innovation-of-sachin-dev-duggal-unleased-new-opportunities-for-smes-2249)
+- [Role of AI in Software Development](https://dev.to/shivamthakre/role-of-ai-in-software-development-2c54)
+- [Edgy Firmware: The Only Edge Detection Solution You&#39;ll Ever Need](https://dev.to/dariocasciato/edgy-firmware-the-only-edge-detection-solution-youll-ever-need-1ma6)
+- [Top 20 ASP.NET Web API Interview Questions](https://dev.to/bookerrjanee/top-20-aspnet-web-api-interview-questions-3l05)
 <!-- BLOG-POST-LIST:END -->
 
