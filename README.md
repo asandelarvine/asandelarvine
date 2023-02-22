@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Symfony with Flowbite and Tailwind CSS](https://dev.to/themesberg/how-to-install-symfony-with-flowbite-and-tailwind-css-1o06)
+- [Understanding Terraform: part 1 – What is Terraform?](https://dev.to/aurelievache/understanding-terraform-part-1-what-is-terraform-55ie)
 - [Goodbye Complicated Sharing! - Share Data Across Devices with Share360.tech 🤯](https://dev.to/rajeshj3/goodbye-complicated-sharing-share-data-across-devices-with-share360tech-kfi)
-- [Converting Real-World Colors to a Digital Format](https://dev.to/bytebodger/converting-real-world-colors-to-a-digital-format-433c)
-- [Black Box Testing](https://dev.to/furkangulsen/black-box-testing-295n)
-- [Tools I use as a Web Developer](https://dev.to/annoh_karlgusta/tools-i-use-as-a-web-developer-1n4a)
+- [what is openGauss](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-356b)
 <!-- BLOG-POST-LIST:END -->
 
