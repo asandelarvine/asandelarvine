@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern AI innovation of Sachin Dev Duggal unleased new opportunities for SMEs](https://dev.to/shivamthakre/modern-ai-innovation-of-sachin-dev-duggal-unleased-new-opportunities-for-smes-2249)
-- [Role of AI in Software Development](https://dev.to/shivamthakre/role-of-ai-in-software-development-2c54)
-- [Edgy Firmware: The Only Edge Detection Solution You&#39;ll Ever Need](https://dev.to/dariocasciato/edgy-firmware-the-only-edge-detection-solution-youll-ever-need-1ma6)
-- [Top 20 ASP.NET Web API Interview Questions](https://dev.to/bookerrjanee/top-20-aspnet-web-api-interview-questions-3l05)
+- [Use Appwrite and Flutter to build a serverless mobile wallet service](https://dev.to/hackmamba/use-appwrite-and-flutter-to-build-a-serverless-mobile-wallet-service-bk2)
+- [The 10 most common mistakes in frontend development and how to avoid them](https://dev.to/haszankauna/the-10-most-common-mistakes-in-frontend-development-and-how-to-avoid-them-2e31)
+- [7 Best Practices for Keeping a React Project Clean and Efficient](https://dev.to/tyaga001/7-best-practices-for-keeping-a-react-project-clean-and-efficient-1ee3)
+- [Improving image performance on the web.](https://dev.to/seven/improving-image-performance-on-the-web-4lbf)
 <!-- BLOG-POST-LIST:END -->
 
