@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Your CDK Stacks: A Guide to Self-Destruction](https://dev.to/aws-builders/say-goodbye-to-your-cdk-stacks-a-guide-to-self-destruction-31ni)
-- [CodeNewbie Podcast, S23:E2 — Having a Growth Mindset](https://dev.to/codenewbieteam/codenewbie-podcast-s23e2-having-a-growth-mindset-mf5)
-- [4 different ways I&#39;ve worked remotely](https://dev.to/sandordargo/4-different-ways-ive-worked-remotely-4mc2)
-- [Discovering the Power of xargs Command in Linux](https://dev.to/k1lgor/discovering-the-power-of-xargs-command-in-linux-2jkb)
+- [ReductStore Client SDK for C++ v1.3.0 with Labels Support](https://dev.to/reductstore/reductstore-client-sdk-for-c-v130-with-labels-support-3ej9)
+- [Welcome Mastodon to Fast Forward!](https://dev.to/fastly/welcome-mastodon-to-fast-forward-11g4)
+- [AWS Networking - AWS VPC, Subnets, Security Groups, NAT Gateway &amp; IP Addresses](https://dev.to/aws-builders/aws-networking-aws-vpc-subnets-security-groups-nat-gateway-ip-addresses-4p8c)
+- [Understanding React Hooks: How to Use useRef, useMemo, and useCallback for More Efficient Code](https://dev.to/michael_osas/understanding-react-hooks-how-to-use-useref-usememo-and-usecallback-for-more-efficient-code-3ceh)
 <!-- BLOG-POST-LIST:END -->
 
