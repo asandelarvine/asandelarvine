@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Platforms💻 for Deploying Machine Learning Models](https://dev.to/ramanbansal/top-10-platforms-for-deploying-machine-learning-models-5b5o)
+- [Top 10 CSS Animation Libraries](https://dev.to/coderpad/top-10-css-animation-libraries-656)
 - [5 Key Points to Keep in Mind When Developing Effective Dashboards](https://dev.to/omerwow/5-key-points-to-keep-in-mind-when-developing-effective-dashboards-1oh2)
 - [HeadlessUI](https://dev.to/ariellun/headlessui-a-comprehensive-guide-to-building-accessible-and-customizable-ui-components-4l08)
-- [DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache](https://dev.to/justlorain/dreamemo-an-out-of-the-box-high-scalability-modular-design-distributed-cache-4d6e)
-- [Thoughts on Dev Rel in the post-Twitter era](https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a)
 <!-- BLOG-POST-LIST:END -->
 
