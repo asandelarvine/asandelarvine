@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The Power of the Coding Mindset&quot;: How Developing the Coding Mindset Can Take Your Programming to the Next Level](https://dev.to/turinumugisha_s/the-power-of-the-coding-mindset-how-developing-the-coding-mindset-can-take-your-programming-to-the-next-level-3a52)
+- [Using the HTML Geolocation API to display a users location on a map](https://dev.to/michaelburrows/using-the-html-geolocation-api-to-display-a-users-location-on-a-map-bi8)
+- [How to build a real-time multiplayer game with Flutter Flame](https://dev.to/supabase/how-to-build-a-real-time-multiplayer-game-with-flutter-flame-3k7f)
 - [How To Get Started In A Career In Web Development](https://dev.to/jacquicoombe/how-to-get-started-in-a-career-in-web-development-3jgo)
-- [7 Reasons Why You Need to Master the Fundamentals &lpar;A Visual Guide&rpar;](https://dev.to/thefaisal/7-top-reasons-why-you-need-to-master-the-fundamentals-a-visual-guide-apo)
-- [Social media for lead generation still does wonders!](https://dev.to/mariostopfer/social-media-for-lead-generation-still-does-wonders-46eo)
-- [Day 9: Python Built In Modules](https://dev.to/jobizil/day-9-python-built-in-modules-4i8g)
 <!-- BLOG-POST-LIST:END -->
 
