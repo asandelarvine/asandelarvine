@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Key Points to Keep in Mind When Developing Effective Dashboards](https://dev.to/omerwow/5-key-points-to-keep-in-mind-when-developing-effective-dashboards-1oh2)
+- [HeadlessUI](https://dev.to/ariellun/headlessui-a-comprehensive-guide-to-building-accessible-and-customizable-ui-components-4l08)
 - [DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache](https://dev.to/justlorain/dreamemo-an-out-of-the-box-high-scalability-modular-design-distributed-cache-4d6e)
 - [Thoughts on Dev Rel in the post-Twitter era](https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a)
-- [We are entering a new age: The creation age](https://dev.to/grahamthedev/we-are-entering-a-new-age-the-creation-age-1f0j)
-- [The Power of Python Data Structures: Lists, Dictionaries, Sets and Tuples](https://dev.to/basskibo/the-power-of-python-data-structures-lists-dictionaries-sets-and-tuples-20n0)
 <!-- BLOG-POST-LIST:END -->
 
