@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GKE Cluster Optimization: 13 Tactics For A Smoother K8s Deployment](https://dev.to/castai/gke-cluster-optimization-13-tactics-for-a-smoother-k8s-deployment-c7o)
+- [Build 3D Scenes Declaratively with TresJS using Vue](https://dev.to/alvarosabu/build-3d-scenes-declaratively-with-tresjs-using-vue-4jej)
 - [Use Appwrite and Flutter to build a serverless mobile wallet service](https://dev.to/hackmamba/use-appwrite-and-flutter-to-build-a-serverless-mobile-wallet-service-bk2)
 - [The 10 most common mistakes in frontend development and how to avoid them](https://dev.to/haszankauna/the-10-most-common-mistakes-in-frontend-development-and-how-to-avoid-them-2e31)
-- [7 Best Practices for Keeping a React Project Clean and Efficient](https://dev.to/tyaga001/7-best-practices-for-keeping-a-react-project-clean-and-efficient-1ee3)
-- [Improving image performance on the web.](https://dev.to/seven/improving-image-performance-on-the-web-4lbf)
 <!-- BLOG-POST-LIST:END -->
 
