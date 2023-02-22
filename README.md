@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trending JavaScript repos of the week 📈](https://dev.to/quine/trending-javascript-repos-of-the-week-1fo4)
-- [#100DaysOfCode Day 2: Cassandra Query Language](https://dev.to/danielhe4rt/100daysofcode-day-2-cassandra-query-language-3foe)
-- [Testing SurrealDB](https://dev.to/ndrean/testing-surrealdb-1kjl)
-- [Help, my app is overreacting!](https://dev.to/anjanavakil/help-my-app-is-overreacting-b9c)
+- [7 Reasons Why You Need to Master the Fundamentals &lpar;A Visual Guide&rpar;](https://dev.to/thefaisal/7-top-reasons-why-you-need-to-master-the-fundamentals-a-visual-guide-apo)
+- [Social media for lead generation still does wonders!](https://dev.to/mariostopfer/social-media-for-lead-generation-still-does-wonders-46eo)
+- [Day 9: Python Built In Modules](https://dev.to/jobizil/day-9-python-built-in-modules-4i8g)
+- [Why does everyone &quot;suddenly&quot; hate Single Page Apps?](https://dev.to/begin/why-does-everyone-suddenly-hate-single-page-apps-cj5)
 <!-- BLOG-POST-LIST:END -->
 
