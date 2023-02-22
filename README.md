@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GKE Cluster Optimization: 13 Tactics For A Smoother K8s Deployment](https://dev.to/castai/gke-cluster-optimization-13-tactics-for-a-smoother-k8s-deployment-c7o)
-- [Build 3D Scenes Declaratively with TresJS using Vue](https://dev.to/alvarosabu/build-3d-scenes-declaratively-with-tresjs-using-vue-4jej)
-- [Use Appwrite and Flutter to build a serverless mobile wallet service](https://dev.to/hackmamba/use-appwrite-and-flutter-to-build-a-serverless-mobile-wallet-service-bk2)
-- [The 10 most common mistakes in frontend development and how to avoid them](https://dev.to/haszankauna/the-10-most-common-mistakes-in-frontend-development-and-how-to-avoid-them-2e31)
+- [Manage multiple Node.js versions with NVM](https://dev.to/this-is-learning/manage-multiple-nodejs-versions-with-nvm-ap3)
+- [Type-safe S3 Select queries with Kysely](https://dev.to/kumo/type-safe-s3-select-queries-with-kysely-4ge0)
+- [Easing the Burden of Container Management with AWS Fargate](https://dev.to/roy8/easing-the-burden-of-container-management-with-aws-fargate-40d)
+- [How to use CSS preprocessors to streamline your frontend workflow](https://dev.to/haszankauna/how-to-use-css-preprocessors-to-streamline-your-frontend-workflow-2b8c)
 <!-- BLOG-POST-LIST:END -->
 
