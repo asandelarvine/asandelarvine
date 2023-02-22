@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Get Started In A Career In Web Development](https://dev.to/jacquicoombe/how-to-get-started-in-a-career-in-web-development-3jgo)
 - [7 Reasons Why You Need to Master the Fundamentals &lpar;A Visual Guide&rpar;](https://dev.to/thefaisal/7-top-reasons-why-you-need-to-master-the-fundamentals-a-visual-guide-apo)
 - [Social media for lead generation still does wonders!](https://dev.to/mariostopfer/social-media-for-lead-generation-still-does-wonders-46eo)
 - [Day 9: Python Built In Modules](https://dev.to/jobizil/day-9-python-built-in-modules-4i8g)
-- [Why does everyone &quot;suddenly&quot; hate Single Page Apps?](https://dev.to/begin/why-does-everyone-suddenly-hate-single-page-apps-cj5)
 <!-- BLOG-POST-LIST:END -->
 
