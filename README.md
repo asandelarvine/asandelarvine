@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [@TopDown On Replit](https://dev.to/ultrawyatt/topdown-on-replit-4hkg)
-- [SRE book notes: Dealing with Interrupts](https://dev.to/bitmaybewise/sre-book-notes-dealing-with-interrupts-4gib)
-- [Linode + DEV Hackathon](https://dev.to/divyapankajananda/linode-dev-hackathon-4nb8)
-- [Project templating cloud](https://dev.to/aws-builders/project-templating-cloud-388e)
+- [Trending JavaScript repos of the week 📈](https://dev.to/quine/trending-javascript-repos-of-the-week-1fo4)
+- [#100DaysOfCode Day 2: Cassandra Query Language](https://dev.to/danielhe4rt/100daysofcode-day-2-cassandra-query-language-3foe)
+- [Testing SurrealDB](https://dev.to/ndrean/testing-surrealdb-1kjl)
+- [Help, my app is overreacting!](https://dev.to/anjanavakil/help-my-app-is-overreacting-b9c)
 <!-- BLOG-POST-LIST:END -->
 
