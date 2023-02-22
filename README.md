@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v213](https://dev.to/devteam/welcome-thread-v213-1j9e)
+- [How Do Beginner Developers Make Money Online?](https://dev.to/motivatedman/how-do-beginner-developers-make-money-online-n3k)
 - [Top 10 Platforms💻 for Deploying Machine Learning Models](https://dev.to/ramanbansal/top-10-platforms-for-deploying-machine-learning-models-5b5o)
 - [Top 10 CSS Animation Libraries](https://dev.to/coderpad/top-10-css-animation-libraries-656)
-- [5 Key Points to Keep in Mind When Developing Effective Dashboards](https://dev.to/omerwow/5-key-points-to-keep-in-mind-when-developing-effective-dashboards-1oh2)
-- [HeadlessUI](https://dev.to/ariellun/headlessui-a-comprehensive-guide-to-building-accessible-and-customizable-ui-components-4l08)
 <!-- BLOG-POST-LIST:END -->
 
