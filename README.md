@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage multiple Node.js versions with NVM](https://dev.to/this-is-learning/manage-multiple-nodejs-versions-with-nvm-ap3)
-- [Type-safe S3 Select queries with Kysely](https://dev.to/kumo/type-safe-s3-select-queries-with-kysely-4ge0)
-- [Easing the Burden of Container Management with AWS Fargate](https://dev.to/roy8/easing-the-burden-of-container-management-with-aws-fargate-40d)
-- [How to use CSS preprocessors to streamline your frontend workflow](https://dev.to/haszankauna/how-to-use-css-preprocessors-to-streamline-your-frontend-workflow-2b8c)
+- [DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache](https://dev.to/justlorain/dreamemo-an-out-of-the-box-high-scalability-modular-design-distributed-cache-4d6e)
+- [Thoughts on Dev Rel in the post-Twitter era](https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a)
+- [We are entering a new age: The creation age](https://dev.to/grahamthedev/we-are-entering-a-new-age-the-creation-age-1f0j)
+- [The Power of Python Data Structures: Lists, Dictionaries, Sets and Tuples](https://dev.to/basskibo/the-power-of-python-data-structures-lists-dictionaries-sets-and-tuples-20n0)
 <!-- BLOG-POST-LIST:END -->
 
