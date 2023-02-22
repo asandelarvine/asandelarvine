@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Say Goodbye to Your CDK Stacks: A Guide to Self-Destruction](https://dev.to/aws-builders/say-goodbye-to-your-cdk-stacks-a-guide-to-self-destruction-31ni)
+- [CodeNewbie Podcast, S23:E2 — Having a Growth Mindset](https://dev.to/codenewbieteam/codenewbie-podcast-s23e2-having-a-growth-mindset-mf5)
+- [4 different ways I&#39;ve worked remotely](https://dev.to/sandordargo/4-different-ways-ive-worked-remotely-4mc2)
 - [Discovering the Power of xargs Command in Linux](https://dev.to/k1lgor/discovering-the-power-of-xargs-command-in-linux-2jkb)
-- [Loading Images With React/JavaScript](https://dev.to/bytebodger/loading-images-with-reactjavascript-3996)
-- [What&#39;s new in JavaScript Charting for 2023?](https://dev.to/jscharting/whats-new-in-javascript-charting-for-2023-1edp)
-- [Top 5 ways to attract readers on DEV](https://dev.to/vulcanwm/top-5-ways-to-attract-readers-on-dev-4cp7)
 <!-- BLOG-POST-LIST:END -->
 
