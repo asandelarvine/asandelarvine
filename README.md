@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye Complicated Sharing! - Share Data Across Devices with Share360.tech 🤯](https://dev.to/rajeshj3/goodbye-complicated-sharing-share-data-across-devices-with-share360tech-kfi)
 - [Converting Real-World Colors to a Digital Format](https://dev.to/bytebodger/converting-real-world-colors-to-a-digital-format-433c)
+- [Black Box Testing](https://dev.to/furkangulsen/black-box-testing-295n)
 - [Tools I use as a Web Developer](https://dev.to/annoh_karlgusta/tools-i-use-as-a-web-developer-1n4a)
-- [Git Cheatsheet that will make you a master in Git](https://dev.to/said7388/git-cheatsheet-that-will-make-you-a-master-in-git-11l4)
-- [&quot;The Power of the Coding Mindset&quot;: How Developing the Coding Mindset Can Take Your Programming to the Next Level](https://dev.to/turinumugisha_s/the-power-of-the-coding-mindset-how-developing-the-coding-mindset-can-take-your-programming-to-the-next-level-3a52)
 <!-- BLOG-POST-LIST:END -->
 
