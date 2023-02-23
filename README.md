@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All you need to know about asynchronous JavaScript](https://dev.to/ppiippaa/all-you-need-to-know-about-asynchronous-javascript-40ma)
-- [Increase coverage on every feature with Karma/Jest and Husky](https://dev.to/ismaestro/increase-coverage-on-every-feature-with-karmajest-and-husky-1jfc)
-- [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
-- [How to Build an Ethereum Gas Tracker with Infura](https://dev.to/mbogan/how-to-build-an-ethereum-gas-tracker-with-infura-316d)
+- [Lightning-Fast Portfolio Site in Just 3 Hours](https://dev.to/seeratawan01/lightning-fast-portfolio-site-in-just-3-hours-h0e)
+- [How To Improve Lighthouse Scores by Avoiding &lt;img&gt; Layout Shifts](https://dev.to/builderio/how-to-improve-lighthouse-scores-by-avoiding-layout-shifts-14go)
+- [Building APOD color search part I: Image analysis in Rust](https://dev.to/bryce/building-apod-color-search-part-i-image-analysis-in-rust-24a5)
+- [Porque as pessoas estão desenvolvendo dentro de containers?](https://dev.to/github/porque-as-pessoas-estao-desenvolvendo-dentro-de-containers-lif)
 <!-- BLOG-POST-LIST:END -->
 
