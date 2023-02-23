@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criei um hook personalizado para buscar dados da API do Rick and Morty com React Query](https://dev.to/dellamora/criei-um-hook-personalizado-para-buscar-dados-da-api-do-rick-and-morty-com-react-query-1c7f)
+- [Criei um hook personalizado para buscar dados da API do Rick and Morty com React Query e TypeScript](https://dev.to/dellamora/criei-um-hook-personalizado-para-buscar-dados-da-api-do-rick-and-morty-com-react-query-1c7f)
 - [Notas rápidas de Flexbox](https://dev.to/oswald_echeverri/notas-rapidas-de-flexbox-51b9)
 - [Pixelating Images With React/JavaScript](https://dev.to/bytebodger/pixelating-images-in-reactjavascript-2ac7)
 - [Golang Web App Development](https://dev.to/danielporter000866901/golang-web-app-development-4d6f)
