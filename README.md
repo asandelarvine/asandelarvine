@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All you need to know about asynchronous JavaScript](https://dev.to/ppiippaa/all-you-need-to-know-about-asynchronous-javascript-40ma)
+- [Increase coverage on every feature with Karma/Jest and Husky](https://dev.to/ismaestro/increase-coverage-on-every-feature-with-karmajest-and-husky-1jfc)
+- [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
 - [How to Build an Ethereum Gas Tracker with Infura](https://dev.to/mbogan/how-to-build-an-ethereum-gas-tracker-with-infura-316d)
-- [Electronjs ActiveX printing controls chrome based](https://dev.to/redbeardjunior/electronjs-activex-printing-controls-chrome-based-44g8)
-- [CSS Tips for Better Web Development](https://dev.to/builderio/css-tips-for-better-web-development-4pi4)
-- [When and how to use CSS will-change](https://dev.to/logrocket/when-and-how-to-use-css-will-change-1kn)
 <!-- BLOG-POST-LIST:END -->
 
