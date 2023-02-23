@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The right feature at the right place](https://dev.to/apisix/the-right-feature-at-the-right-place-4617)
+- [Playwright - Parametrize tests](https://dev.to/this-is-learning/playwright-parametrize-tests-2p2)
 - [DNS Server Configuration](https://dev.to/waji97/dns-server-configuration-12lk)
 - [git pull and git fetch](https://dev.to/vincod/git-pull-and-git-fetch-1cdd)
-- [5 super useful CSS properties](https://dev.to/stakedesigner/5-super-useful-css-properties-52e2)
-- [Criei um hook personalizado para buscar dados da API do Rick and Morty com React Query e TypeScript](https://dev.to/dellamora/criei-um-hook-personalizado-para-buscar-dados-da-api-do-rick-and-morty-com-react-query-1c7f)
 <!-- BLOG-POST-LIST:END -->
 
