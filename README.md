@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools Used to Test and Detect Application Security Vulnerabilities](https://dev.to/pavanbelagatti/tools-used-to-test-and-detect-application-security-vulnerabilities-2d40)
-- [Read All Files of Directory and Subdirectories with Recursive Generators in JavaScript](https://dev.to/zirkelc/read-all-files-of-directory-and-subdirectories-with-recursive-generators-in-javascript-2pbd)
-- [Medusa Impact on Ecommerce: An overview](https://dev.to/meenahgurl/medusa-impact-on-ecommerce-an-overview-4p34)
-- [Bits and Bytes: A Comprehensive Guide to Bit Manipulation](https://dev.to/dariocasciato/bits-and-bytes-a-comprehensive-guide-to-bit-manipulation-for-developers-m5c)
+- [Creating a Fully Functional Contact Form with React and Formspree API](https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formspree-api-2ecp)
+- [My reflections on Andela&#39;s EPIC values](https://dev.to/akinmyde/my-reflections-on-andelas-epic-values-33hp)
+- [My experience in Bootcamp so far.](https://dev.to/akinmyde/my-experience-in-bootcamp-so-far-4ooj)
+- [Exploring Linux Kernels](https://dev.to/waji97/exploring-linux-kernels-5aam)
 <!-- BLOG-POST-LIST:END -->
 
