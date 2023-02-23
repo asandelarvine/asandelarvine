@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All about Promises in JavaScript](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)
+- [Object-Oriented Design: The Key to Scalable and Maintainable Software](https://dev.to/msmello_/object-oriented-design-the-key-to-scalable-and-maintainable-software-21li)
 - [A Beginner Developer&#39;s Guide to APIs &lpar;with Example Project&rpar;](https://dev.to/ionos/a-beginner-developers-guide-to-apis-with-example-project-2088)
 - [You Can Build a Crud Api in Javascript with the Help of Node.js, Express, Postgres, and Docker](https://dev.to/devbambhaniya/you-can-build-a-crud-api-in-javascript-with-the-help-of-nodejs-express-postgres-and-docker-f57)
-- [The right feature at the right place](https://dev.to/apisix/the-right-feature-at-the-right-place-4617)
-- [Which tools and resources do you suggest for folks who are new to programming?](https://dev.to/codenewbieteam/which-tools-and-resources-do-you-suggest-for-folks-who-are-new-to-programming-4pd3)
 <!-- BLOG-POST-LIST:END -->
 
