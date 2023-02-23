@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes 101, part I, the fundamentals](https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1)
-- [6 Programming Principles You Should Know](https://dev.to/kelvintech_99/6-programming-principles-you-should-know-a5l)
-- [Becoming A Frontend Engineer - Styling](https://dev.to/tomivan/becoming-a-frontend-engineer-styling-4o2l)
-- [New Programmers, What Challenges Are You Facing?](https://dev.to/codenewbieteam/new-programmers-what-challenges-are-you-facing-45k9)
+- [Criei um hook personalizado para buscar dados da API do Rick and Morty com React Query](https://dev.to/dellamora/criei-um-hook-personalizado-para-buscar-dados-da-api-do-rick-and-morty-com-react-query-1c7f)
+- [Notas rápidas de Flexbox](https://dev.to/oswald_echeverri/notas-rapidas-de-flexbox-51b9)
+- [Pixelating Images With React/JavaScript](https://dev.to/bytebodger/pixelating-images-in-reactjavascript-2ac7)
+- [Golang Web App Development](https://dev.to/danielporter000866901/golang-web-app-development-4d6f)
 <!-- BLOG-POST-LIST:END -->
 
