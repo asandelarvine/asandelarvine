@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Programming Principles You Should Know](https://dev.to/kelvintech_99/6-programming-principles-you-should-know-a5l)
 - [New Programmers, What Challenges Are You Facing?](https://dev.to/codenewbieteam/new-programmers-what-challenges-are-you-facing-45k9)
 - [ReductStore Client SDK for C++ v1.3.0 with Labels Support](https://dev.to/reductstore/reductstore-client-sdk-for-c-v130-with-labels-support-3ej9)
 - [Welcome Mastodon to Fast Forward!](https://dev.to/fastly/welcome-mastodon-to-fast-forward-11g4)
-- [AWS Networking - AWS VPC, Subnets, Security Groups, NAT Gateway &amp; IP Addresses](https://dev.to/aws-builders/aws-networking-aws-vpc-subnets-security-groups-nat-gateway-ip-addresses-4p8c)
 <!-- BLOG-POST-LIST:END -->
 
