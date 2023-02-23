@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All about Promises in JavaScript](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)
-- [Object-Oriented Design: The Key to Scalable and Maintainable Software](https://dev.to/msmello_/object-oriented-design-the-key-to-scalable-and-maintainable-software-21li)
-- [A Beginner Developer&#39;s Guide to APIs &lpar;with Example Project&rpar;](https://dev.to/ionos/a-beginner-developers-guide-to-apis-with-example-project-2088)
-- [You Can Build a Crud Api in Javascript with the Help of Node.js, Express, Postgres, and Docker](https://dev.to/devbambhaniya/you-can-build-a-crud-api-in-javascript-with-the-help-of-nodejs-express-postgres-and-docker-f57)
+- [Read All Files of Directory and Subdirectories with Recursive Generators in JavaScript](https://dev.to/zirkelc/read-all-files-of-directory-and-subdirectories-with-recursive-generators-in-javascript-2pbd)
+- [Bits and Bytes: A Comprehensive Guide to Bit Manipulation for Developers](https://dev.to/dariocasciato/bits-and-bytes-a-comprehensive-guide-to-bit-manipulation-for-developers-m5c)
+- [AI and Ethics. A Summary of the Oxford Handbook of Ethics of AI [Chapter 1]](https://dev.to/grahamthedev/summary-oxford-handbook-of-ethics-of-ai-chapter-1-520j)
+- [7 Essential React Libraries for Front-End Web Development](https://dev.to/surajondev/7-essential-react-libraries-for-front-end-web-development-23el)
 <!-- BLOG-POST-LIST:END -->
 
