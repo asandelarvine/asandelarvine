@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer&#39;s programming languages won’t make you successful](https://dev.to/shreyvijayvargiya/developers-programming-languages-wont-make-you-successful-lbd)
+- [CodeNewbie Podcast S23E2 **Discussion**!!](https://dev.to/codenewbieteam/codenewbie-podcast-s23e2-discussion-3d39)
 - [Recreating my Portfolio in Next.js](https://dev.to/vulcanwm/recreating-my-portfolio-in-nextjs-1ll7)
 - [🤥 Don’t Let These Bad Habits Destroy Your Code Learning Dreams](https://dev.to/evergrowingdev/dont-let-these-bad-habits-destroy-your-code-learning-dreams-22n3)
-- [Codecademy CS101. Python terminal game. A gun shop.](https://dev.to/dade321/codecademy-cs101-python-terminal-game-a-gun-shop-3goh)
-- [7 best ReactJS developer tools to simplify your workflow](https://dev.to/ayoubkhan558/7-best-reactjs-developer-tools-to-simplify-your-workflow-5fec)
 <!-- BLOG-POST-LIST:END -->
 
