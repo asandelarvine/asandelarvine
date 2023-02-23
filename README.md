@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Stop Procrastinating Today: Learn the Best Methods with ChatGPT and Notion AI](https://dev.to/foxbuka/stop-procrastinating-today-learn-the-best-methods-with-chatgpt-and-notion-ai-2mg)
+- [I Don&#39;t Need a State Manager in Angular, or am I just delaying his arrival?](https://dev.to/danywalls/i-dont-need-a-state-manager-in-angular-or-am-i-just-delaying-his-arrival-1d3l)
 - [Lightning-Fast Portfolio Site in Just 3 Hours](https://dev.to/seeratawan01/lightning-fast-portfolio-site-in-just-3-hours-h0e)
 - [How To Improve Lighthouse Scores by Avoiding &lt;img&gt; Layout Shifts](https://dev.to/builderio/how-to-improve-lighthouse-scores-by-avoiding-layout-shifts-14go)
-- [Building APOD color search part I: Image analysis in Rust](https://dev.to/bryce/building-apod-color-search-part-i-image-analysis-in-rust-24a5)
 <!-- BLOG-POST-LIST:END -->
 
