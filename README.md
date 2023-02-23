@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 101, part I, the fundamentals](https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1)
 - [6 Programming Principles You Should Know](https://dev.to/kelvintech_99/6-programming-principles-you-should-know-a5l)
+- [Becoming A Frontend Engineer - Styling](https://dev.to/tomivan/becoming-a-frontend-engineer-styling-4o2l)
 - [New Programmers, What Challenges Are You Facing?](https://dev.to/codenewbieteam/new-programmers-what-challenges-are-you-facing-45k9)
-- [ReductStore Client SDK for C++ v1.3.0 with Labels Support](https://dev.to/reductstore/reductstore-client-sdk-for-c-v130-with-labels-support-3ej9)
-- [Welcome Mastodon to Fast Forward!](https://dev.to/fastly/welcome-mastodon-to-fast-forward-11g4)
 <!-- BLOG-POST-LIST:END -->
 
