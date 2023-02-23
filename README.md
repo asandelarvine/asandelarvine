@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The right feature at the right place](https://dev.to/apisix/the-right-feature-at-the-right-place-4617)
+- [Which tools and resources do you suggest for folks who are new to programming?](https://dev.to/codenewbieteam/which-tools-and-resources-do-you-suggest-for-folks-who-are-new-to-programming-4pd3)
 - [Playwright - Parametrize tests](https://dev.to/this-is-learning/playwright-parametrize-tests-2p2)
-- [DNS Server Configuration](https://dev.to/waji97/dns-server-configuration-12lk)
-- [git pull and git fetch](https://dev.to/vincod/git-pull-and-git-fetch-1cdd)
+- [How to handle errors in React: full guide](https://dev.to/adevnadia/how-to-handle-errors-in-react-full-guide-1kmo)
 <!-- BLOG-POST-LIST:END -->
 
