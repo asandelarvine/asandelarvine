@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Fully Functional Contact Form with React and Formspree API](https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formspree-api-2ecp)
-- [My reflections on Andela&#39;s EPIC values](https://dev.to/akinmyde/my-reflections-on-andelas-epic-values-33hp)
-- [My experience in Bootcamp so far.](https://dev.to/akinmyde/my-experience-in-bootcamp-so-far-4ooj)
-- [Exploring Linux Kernels](https://dev.to/waji97/exploring-linux-kernels-5aam)
+- [How to Build an Ethereum Gas Tracker with Infura](https://dev.to/mbogan/how-to-build-an-ethereum-gas-tracker-with-infura-316d)
+- [Electronjs ActiveX printing controls chrome based](https://dev.to/redbeardjunior/electronjs-activex-printing-controls-chrome-based-44g8)
+- [CSS Tips for Better Web Development](https://dev.to/builderio/css-tips-for-better-web-development-4pi4)
+- [When and how to use CSS will-change](https://dev.to/logrocket/when-and-how-to-use-css-will-change-1kn)
 <!-- BLOG-POST-LIST:END -->
 
