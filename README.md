@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools Used to Test and Detect Application Security Vulnerabilities](https://dev.to/pavanbelagatti/tools-used-to-test-and-detect-application-security-vulnerabilities-2d40)
 - [Read All Files of Directory and Subdirectories with Recursive Generators in JavaScript](https://dev.to/zirkelc/read-all-files-of-directory-and-subdirectories-with-recursive-generators-in-javascript-2pbd)
-- [Bits and Bytes: A Comprehensive Guide to Bit Manipulation for Developers](https://dev.to/dariocasciato/bits-and-bytes-a-comprehensive-guide-to-bit-manipulation-for-developers-m5c)
-- [AI and Ethics. A Summary of the Oxford Handbook of Ethics of AI [Chapter 1]](https://dev.to/grahamthedev/summary-oxford-handbook-of-ethics-of-ai-chapter-1-520j)
-- [7 Essential React Libraries for Front-End Web Development](https://dev.to/surajondev/7-essential-react-libraries-for-front-end-web-development-23el)
+- [Medusa Impact on Ecommerce: An overview](https://dev.to/meenahgurl/medusa-impact-on-ecommerce-an-overview-4p34)
+- [Bits and Bytes: A Comprehensive Guide to Bit Manipulation](https://dev.to/dariocasciato/bits-and-bytes-a-comprehensive-guide-to-bit-manipulation-for-developers-m5c)
 <!-- BLOG-POST-LIST:END -->
 
