@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Coursera Plus Really Worth it for Programmers and Developers? Review](https://dev.to/javinpaul/is-coursera-plus-really-worth-it-for-programmers-and-developers-review-4ff2)
 - [Advanced Techniques for Working with Ruby Collections 🎯](https://dev.to/eakmotion/advanced-techniques-for-working-with-ruby-collections-4l08)
+- [AWS Cloud Quest: Backing Up Data](https://dev.to/arc/aws-cloud-quest-backing-up-data-1jo9)
 - [[TECH]PCI SSC Security Requirements for Fintech Apps](https://dev.to/teamliapp/techpci-ssc-security-requirements-for-fintech-apps-bp5)
-- [SvelteKit: Easy code-based router for enterprise, instead of file-based router for home pages [February 2023]](https://dev.to/maxcore/sveltekit-easy-code-based-router-for-enterprise-instead-of-file-based-router-for-home-pages-february-2023-2fk)
-- [Determining the RGB &quot;Distance&quot; Between Two Colors](https://dev.to/bytebodger/determining-the-rgb-distance-between-two-colors-4n91)
 <!-- BLOG-POST-LIST:END -->
 
