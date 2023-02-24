@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a React Admin Panel with Mantine and Strapi](https://dev.to/refine/how-to-build-a-react-admin-panel-with-mantine-and-strapi-58i9)
+- [Constructive Criticism and Resolutions for Future Content Creation](https://dev.to/ingosteinke/constructive-criticism-and-resolutions-for-future-content-creation-45e1)
+- [Do You Need A Powerful Laptop For Programming?](https://dev.to/sturdybusiness/do-you-need-a-powerful-laptop-for-programming-459c)
 - [From FullStack to ZenStack](https://dev.to/zenstack/from-fullstack-to-zenstack-3f21)
-- [State of Flowbite: learn more about our results from 2022 and what we plan to build this year](https://dev.to/themesberg/state-of-flowbite-learn-more-about-our-results-from-2022-and-what-we-plan-to-build-this-year-dca)
-- [f-string: Improved and Modern Way Of String Formatting](https://dev.to/sachingeek/f-string-improved-and-modern-way-of-string-formatting-2d40)
-- [How to use Linode Object Storage with Laravel](https://dev.to/frikishaan/how-to-use-linode-object-storage-with-laravel-40lj)
 <!-- BLOG-POST-LIST:END -->
 
