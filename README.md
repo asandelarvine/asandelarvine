@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Your Potential: Discover 7 Online Resources That Surpass a $100000 Degree](https://dev.to/foxbuka/unlock-your-potential-discover-7-online-resources-that-surpass-a-100000-degree-3598)
 - [Is Coursera Plus Really Worth it for Programmers and Developers? Review](https://dev.to/javinpaul/is-coursera-plus-really-worth-it-for-programmers-and-developers-review-4ff2)
-- [Advanced Techniques for Working with Ruby Collections 🎯](https://dev.to/eakmotion/advanced-techniques-for-working-with-ruby-collections-4l08)
-- [AWS Cloud Quest: Backing Up Data](https://dev.to/arc/aws-cloud-quest-backing-up-data-1jo9)
-- [[TECH]PCI SSC Security Requirements for Fintech Apps](https://dev.to/teamliapp/techpci-ssc-security-requirements-for-fintech-apps-bp5)
+- [Why you should learn vim in 2023?](https://dev.to/himankbhalla/why-you-should-learn-vim-in-2023-1c43)
+- [La culture DevOps en entreprise, en 2023 !](https://dev.to/kanops/la-culture-devops-en-entreprise-en-2023--3a9p)
 <!-- BLOG-POST-LIST:END -->
 
