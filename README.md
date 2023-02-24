@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [f-string: Improved and Modern Way Of String Formatting](https://dev.to/sachingeek/f-string-improved-and-modern-way-of-string-formatting-2d40)
+- [How to use Linode Object Storage with Laravel](https://dev.to/frikishaan/how-to-use-linode-object-storage-with-laravel-40lj)
 - [Top 20 React interview questions.](https://dev.to/justice_hub/top-20-react-interview-questions-53kh)
-- [Unlock Your Potential: Discover 7 Online Resources That Surpass a $100000 Degree](https://dev.to/foxbuka/unlock-your-potential-discover-7-online-resources-that-surpass-a-100000-degree-3598)
-- [How to upgrade npm packages?](https://dev.to/alexandrunastase/how-to-upgrade-npm-packages-2l0g)
-- [Is Coursera Plus Really Worth it for Programmers and Developers? Review](https://dev.to/javinpaul/is-coursera-plus-really-worth-it-for-programmers-and-developers-review-4ff2)
+- [Which Programming Language Did You Choose to Start with, and Why Did You Choose It?](https://dev.to/codenewbieteam/which-programming-language-did-you-start-with-and-why-did-you-choose-it-5c28)
 <!-- BLOG-POST-LIST:END -->
 
