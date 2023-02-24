@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a MERN App to AWS Elastic Beanstalk with CI/CD](https://dev.to/itsrakesh/deploying-a-mern-app-to-aws-elastic-beanstalk-with-cicd-4f1j)
+- [Improving Human-Computer Interfaces](https://dev.to/milandry/improving-human-computer-interfaces-2c49)
 - [Level Up Your API Security: Don&#39;t Let Hackers Be the Boss of Your Web App](https://dev.to/techdecoderjonny/level-up-your-api-security-dont-let-hackers-be-the-boss-of-your-web-app-3g4l)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-mo6)
-- [Create Robust Access Control in Your Flask Application using Flask-login &amp; Permify](https://dev.to/bovage/create-robust-access-control-in-your-flask-application-using-flask-login-permify-2jea)
-- [Why your manager may not have an engineering background](https://dev.to/linearb/why-your-manager-may-not-have-an-engineering-background-3h6k)
+- [Conectando PowerAutomate + Teams + ChatGPT](https://dev.to/madrade1472/conectando-powerautomate-teams-chatgpt-4je9)
 <!-- BLOG-POST-LIST:END -->
 
