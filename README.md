@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📰 Django News #168 - Django 4.2 beta 1 released](https://dev.to/djangonews/django-news-168-django-42-beta-1-released-49kf)
-- [🔄🔂 5 Simple Ways to Loop Over Data in HTML Using JavaScript 📊📝](https://dev.to/ayoubkhan558/5-simple-ways-to-loop-over-data-in-html-using-javascript-30kb)
-- [JSX: The Secret Sauce Behind React&#39;s Success](https://dev.to/bowen/jsx-the-secret-sauce-behind-reacts-success-2hhk)
-- [Everything about package.json](https://dev.to/himanshudevgupta/everything-about-packagejson-597l)
+- [My 10-Year Journey with the Internet](https://dev.to/acidop/my-10-year-journey-with-the-internet-57ah)
+- [🦜🔗 Introducing AmjadGPT - an AI chatbot 🤖 that acts like the CEO of Replit](https://dev.to/replit/introducing-amjadgpt-an-ai-chatbot-that-acts-like-the-ceo-of-replit-4kl1)
+- [Live Stream Viewer Analytics with Amazon IVS](https://dev.to/aws/live-stream-viewer-analytics-with-amazon-ivs-41ih)
+- [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/aws-builders/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-31k)
 <!-- BLOG-POST-LIST:END -->
 
