@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a MERN App to AWS Elastic Beanstalk with CI/CD](https://dev.to/itsrakesh/deploying-a-mern-app-to-aws-elastic-beanstalk-with-cicd-4f1j)
-- [Social Login With Cognito and NextAuth](https://dev.to/kelvinvmwinuka/social-login-with-cognito-and-nextauth-1036)
-- [Improving Human-Computer Interfaces](https://dev.to/milandry/improving-human-computer-interfaces-2c49)
-- [Level Up Your API Security: Don&#39;t Let Hackers Be the Boss of Your Web App](https://dev.to/techdecoderjonny/level-up-your-api-security-dont-let-hackers-be-the-boss-of-your-web-app-3g4l)
+- [Convert Android App to Use Material 3 Design](https://dev.to/vtsen/convert-android-app-to-use-material-3-design-3ojm)
+- [First release of SPVM::File::Temp and SPVM::File::Find](https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2)
+- [AWS Cloud Quest: Content Delivery Networks](https://dev.to/arc/aws-cloud-quest-content-delivery-networks-4gjb)
+- [JavaScript Tutorial Series: Higher order functions](https://dev.to/fullstackjo/javascript-tutorial-series-higher-order-functions-507b)
 <!-- BLOG-POST-LIST:END -->
 
