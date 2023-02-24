@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How JuiceFS Accelerates Edge Rendering Performance in Volcengine](https://dev.to/daswu/how-juicefs-accelerates-edge-rendering-performance-in-volcengine-5geo)
-- [7 reasons you must learn Kubernetes immediately](https://dev.to/pragyanatvade/7-reasons-you-must-learn-kubernetes-immediately-3159)
-- [Creating and Publishing a VS Code Extension: A Step-by-Step Guide with JavaScript](https://dev.to/tylerasa/creating-and-publishing-a-vs-code-extension-a-step-by-step-guide-with-javascript-5ep1)
-- [How to integrate Stripe into your React application](https://dev.to/haszankauna/how-to-integrate-stripe-into-your-react-application-2fn9)
+- [Advanced Techniques for Working with Ruby Collections 🎯](https://dev.to/eakmotion/advanced-techniques-for-working-with-ruby-collections-4l08)
+- [[TECH]PCI SSC Security Requirements for Fintech Apps](https://dev.to/teamliapp/techpci-ssc-security-requirements-for-fintech-apps-bp5)
+- [SvelteKit: Easy code-based router for enterprise, instead of file-based router for home pages [February 2023]](https://dev.to/maxcore/sveltekit-easy-code-based-router-for-enterprise-instead-of-file-based-router-for-home-pages-february-2023-2fk)
+- [Determining the RGB &quot;Distance&quot; Between Two Colors](https://dev.to/bytebodger/determining-the-rgb-distance-between-two-colors-4n91)
 <!-- BLOG-POST-LIST:END -->
 
