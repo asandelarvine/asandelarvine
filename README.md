@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More than &quot;Hello World in Lambda&quot;🤔](https://dev.to/sanakainat/more-than-hello-world-in-lambda-3f6n)
-- [Software Development and Transformational Leadership](https://dev.to/missamarakay/software-development-and-transformational-leadership-nfb)
-- [Decoupling Python Code: Implementing the Unit of Work and Repository Pattern](https://dev.to/shanenullain/decoupling-python-code-implementing-the-unit-of-work-and-repository-pattern-43kf)
-- [Skill section or not?](https://dev.to/vulcanwm/skill-section-or-not-1gj)
+- [Simplicity over Flexibility](https://dev.to/nicolasini/simplicity-over-flexibility-58jo)
+- [You are one tool away from becoming a 10x developer! 🚀](https://dev.to/developeratul/you-are-one-tool-away-from-becoming-a-10x-developer-ln7)
+- [Qt 6 - The Ultimate UX Development Platform](https://dev.to/bekbrace/qt-6-the-ultimate-ux-development-platform-b5d)
+- [9 Must-Have SaaS Tools for Startups to Boost Growth](https://dev.to/seeratawan01/9-must-have-saas-tools-for-startups-to-boost-growth-2b07)
 <!-- BLOG-POST-LIST:END -->
 
