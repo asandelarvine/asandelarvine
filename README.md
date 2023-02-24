@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating and Publishing a VS Code Extension: A Step-by-Step Guide with JavaScript](https://dev.to/tylerasa/creating-and-publishing-a-vs-code-extension-a-step-by-step-guide-with-javascript-5ep1)
+- [How to integrate Stripe into your React application](https://dev.to/haszankauna/how-to-integrate-stripe-into-your-react-application-2fn9)
 - [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
-- [Deploying an HTTP app using Docker + GKE + Cloudflare &lpar;living document&rpar;](https://dev.to/morganw/deploying-an-http-app-using-docker-gke-cloudflare-living-document-4db7)
-- [The Science Of Allocating Dev Resources In 2023](https://dev.to/linearb/the-science-of-allocating-dev-resources-in-2023-30a2)
-- [How To Safely Verify MACs With Go And PHP Examples](https://dev.to/breda/how-to-safely-verify-macs-with-go-and-php-examples-3nde)
+- [Zustand, simplified redux](https://dev.to/nelsonchege13/zustand-simplified-redux-41b8)
 <!-- BLOG-POST-LIST:END -->
 
