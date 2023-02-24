@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [More than &quot;Hello World in Lambda&quot;🤔](https://dev.to/sanakainat/more-than-hello-world-in-lambda-3f6n)
+- [Software Development and Transformational Leadership](https://dev.to/missamarakay/software-development-and-transformational-leadership-nfb)
 - [Decoupling Python Code: Implementing the Unit of Work and Repository Pattern](https://dev.to/shanenullain/decoupling-python-code-implementing-the-unit-of-work-and-repository-pattern-43kf)
-- [My 10-Year Journey with the Internet](https://dev.to/acidop/my-10-year-journey-with-the-internet-57ah)
-- [Tutorial to Predict the Rating of Cars using Mindsdb and MongoDB](https://dev.to/dohrisalim/tutorial-to-predict-the-rating-of-cars-using-mindsdb-and-mongodb-2p7g)
-- [🦜🔗 Introducing AmjadGPT - an AI chatbot 🤖 that acts like the CEO of Replit](https://dev.to/replit/introducing-amjadgpt-an-ai-chatbot-that-acts-like-the-ceo-of-replit-4kl1)
+- [Skill section or not?](https://dev.to/vulcanwm/skill-section-or-not-1gj)
 <!-- BLOG-POST-LIST:END -->
 
