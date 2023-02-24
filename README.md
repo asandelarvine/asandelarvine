@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Recursion Function Tutorial](https://dev.to/max24816/python-recursion-function-tutorial-3jmo)
-- [Python Lambda Function Tutorial](https://dev.to/max24816/python-lambda-function-tutorial-1o30)
-- [Blending Humanity with Technology](https://dev.to/beaucoburn/blending-humanity-with-technology-2lc5)
-- [How To Run Selenium IDE Test Over Online Selenium Grid?](https://dev.to/lambdatest/how-to-run-selenium-ide-test-over-online-selenium-grid-lo5)
+- [Level Up Your API Security: Don&#39;t Let Hackers Be the Boss of Your Web App](https://dev.to/techdecoderjonny/level-up-your-api-security-dont-let-hackers-be-the-boss-of-your-web-app-3g4l)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-mo6)
+- [Create Robust Access Control in Your Flask Application using Flask-login &amp; Permify](https://dev.to/bovage/create-robust-access-control-in-your-flask-application-using-flask-login-permify-2jea)
+- [Why your manager may not have an engineering background](https://dev.to/linearb/why-your-manager-may-not-have-an-engineering-background-3h6k)
 <!-- BLOG-POST-LIST:END -->
 
