@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neden IQ Testi yaptırmalısınız?](https://dev.to/iqsertifikasi/neden-iq-testi-yaptirmalisiniz-3bi8)
-- [Add an Options Page to Chrome Extension](https://dev.to/codegino/add-an-options-page-to-chrome-extension-4p3e)
-- [Listicles - a simple technique for benchmarking your value proposition against alternatives](https://dev.to/aleksei_badianov/listicles-a-simple-technique-for-benchmarking-your-value-proposition-against-alternatives-2oj0)
-- [How to create and visualize a cardioid using javascript](https://dev.to/eyudinkov/how-to-create-and-visualize-a-cardioid-using-javascript-33l4)
+- [🔄🔂 5 Simple Ways to Loop Over Data in HTML Using JavaScript 📊📝](https://dev.to/ayoubkhan558/5-simple-ways-to-loop-over-data-in-html-using-javascript-30kb)
+- [JSX: The Secret Sauce Behind React&#39;s Success](https://dev.to/bowen/jsx-the-secret-sauce-behind-reacts-success-2hhk)
+- [Everything about package.json](https://dev.to/himanshudevgupta/everything-about-packagejson-597l)
+- [Unit Test in Python](https://dev.to/badalmeher/unit-test-in-python-22k3)
 <!-- BLOG-POST-LIST:END -->
 
