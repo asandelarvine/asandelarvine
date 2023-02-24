@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplicity over Flexibility](https://dev.to/nicolasini/simplicity-over-flexibility-58jo)
-- [You are one tool away from becoming a 10x developer! 🚀](https://dev.to/developeratul/you-are-one-tool-away-from-becoming-a-10x-developer-ln7)
-- [Qt 6 - The Ultimate UX Development Platform](https://dev.to/bekbrace/qt-6-the-ultimate-ux-development-platform-b5d)
-- [9 Must-Have SaaS Tools for Startups to Boost Growth](https://dev.to/seeratawan01/9-must-have-saas-tools-for-startups-to-boost-growth-2b07)
+- [Python Recursion Function Tutorial](https://dev.to/max24816/python-recursion-function-tutorial-3jmo)
+- [Python Lambda Function Tutorial](https://dev.to/max24816/python-lambda-function-tutorial-1o30)
+- [Blending Humanity with Technology](https://dev.to/beaucoburn/blending-humanity-with-technology-2lc5)
+- [How To Run Selenium IDE Test Over Online Selenium Grid?](https://dev.to/lambdatest/how-to-run-selenium-ide-test-over-online-selenium-grid-lo5)
 <!-- BLOG-POST-LIST:END -->
 
