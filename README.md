@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoupling Python Code: Implementing the Unit of Work and Repository Pattern](https://dev.to/shanenullain/decoupling-python-code-implementing-the-unit-of-work-and-repository-pattern-43kf)
 - [My 10-Year Journey with the Internet](https://dev.to/acidop/my-10-year-journey-with-the-internet-57ah)
+- [Tutorial to Predict the Rating of Cars using Mindsdb and MongoDB](https://dev.to/dohrisalim/tutorial-to-predict-the-rating-of-cars-using-mindsdb-and-mongodb-2p7g)
 - [🦜🔗 Introducing AmjadGPT - an AI chatbot 🤖 that acts like the CEO of Replit](https://dev.to/replit/introducing-amjadgpt-an-ai-chatbot-that-acts-like-the-ceo-of-replit-4kl1)
-- [Live Stream Viewer Analytics with Amazon IVS](https://dev.to/aws/live-stream-viewer-analytics-with-amazon-ivs-41ih)
-- [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/aws-builders/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-31k)
 <!-- BLOG-POST-LIST:END -->
 
