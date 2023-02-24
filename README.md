@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer&#39;s programming languages won’t make you successful](https://dev.to/shreyvijayvargiya/developers-programming-languages-wont-make-you-successful-lbd)
-- [CodeNewbie Podcast S23E2 **Discussion**!!](https://dev.to/codenewbieteam/codenewbie-podcast-s23e2-discussion-3d39)
-- [Recreating my Portfolio in Next.js](https://dev.to/vulcanwm/recreating-my-portfolio-in-nextjs-1ll7)
-- [🤥 Don’t Let These Bad Habits Destroy Your Code Learning Dreams](https://dev.to/evergrowingdev/dont-let-these-bad-habits-destroy-your-code-learning-dreams-22n3)
+- [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
+- [Deploying an HTTP app using Docker + GKE + Cloudflare &lpar;living document&rpar;](https://dev.to/morganw/deploying-an-http-app-using-docker-gke-cloudflare-living-document-4db7)
+- [The Science Of Allocating Dev Resources In 2023](https://dev.to/linearb/the-science-of-allocating-dev-resources-in-2023-30a2)
+- [How To Safely Verify MACs With Go And PHP Examples](https://dev.to/breda/how-to-safely-verify-macs-with-go-and-php-examples-3nde)
 <!-- BLOG-POST-LIST:END -->
 
