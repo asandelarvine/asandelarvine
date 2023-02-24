@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📰 Django News #168 - Django 4.2 beta 1 released](https://dev.to/djangonews/django-news-168-django-42-beta-1-released-49kf)
 - [🔄🔂 5 Simple Ways to Loop Over Data in HTML Using JavaScript 📊📝](https://dev.to/ayoubkhan558/5-simple-ways-to-loop-over-data-in-html-using-javascript-30kb)
 - [JSX: The Secret Sauce Behind React&#39;s Success](https://dev.to/bowen/jsx-the-secret-sauce-behind-reacts-success-2hhk)
 - [Everything about package.json](https://dev.to/himanshudevgupta/everything-about-packagejson-597l)
-- [Unit Test in Python](https://dev.to/badalmeher/unit-test-in-python-22k3)
 <!-- BLOG-POST-LIST:END -->
 
