@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Creating and Publishing a VS Code Extension: A Step-by-Step Guide with JavaScript](https://dev.to/tylerasa/creating-and-publishing-a-vs-code-extension-a-step-by-step-guide-with-javascript-5ep1)
 - [How to integrate Stripe into your React application](https://dev.to/haszankauna/how-to-integrate-stripe-into-your-react-application-2fn9)
 - [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
-- [Zustand, simplified redux](https://dev.to/nelsonchege13/zustand-simplified-redux-41b8)
+- [How did i get into programming ?](https://dev.to/bracley/how-did-i-get-into-programming--30g2)
 <!-- BLOG-POST-LIST:END -->
 
