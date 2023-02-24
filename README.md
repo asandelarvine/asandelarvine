@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a React Admin Panel with Mantine and Strapi](https://dev.to/refine/how-to-build-a-react-admin-panel-with-mantine-and-strapi-58i9)
-- [Constructive Criticism and Resolutions for Future Content Creation](https://dev.to/ingosteinke/constructive-criticism-and-resolutions-for-future-content-creation-45e1)
-- [Do You Need A Powerful Laptop For Programming?](https://dev.to/sturdybusiness/do-you-need-a-powerful-laptop-for-programming-459c)
-- [From FullStack to ZenStack](https://dev.to/zenstack/from-fullstack-to-zenstack-3f21)
+- [Neden IQ Testi yaptırmalısınız?](https://dev.to/iqsertifikasi/neden-iq-testi-yaptirmalisiniz-3bi8)
+- [Add an Options Page to Chrome Extension](https://dev.to/codegino/add-an-options-page-to-chrome-extension-4p3e)
+- [Listicles - a simple technique for benchmarking your value proposition against alternatives](https://dev.to/aleksei_badianov/listicles-a-simple-technique-for-benchmarking-your-value-proposition-against-alternatives-2oj0)
+- [How to create and visualize a cardioid using javascript](https://dev.to/eyudinkov/how-to-create-and-visualize-a-cardioid-using-javascript-33l4)
 <!-- BLOG-POST-LIST:END -->
 
