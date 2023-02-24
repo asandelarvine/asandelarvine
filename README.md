@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploying a MERN App to AWS Elastic Beanstalk with CI/CD](https://dev.to/itsrakesh/deploying-a-mern-app-to-aws-elastic-beanstalk-with-cicd-4f1j)
+- [Social Login With Cognito and NextAuth](https://dev.to/kelvinvmwinuka/social-login-with-cognito-and-nextauth-1036)
 - [Improving Human-Computer Interfaces](https://dev.to/milandry/improving-human-computer-interfaces-2c49)
 - [Level Up Your API Security: Don&#39;t Let Hackers Be the Boss of Your Web App](https://dev.to/techdecoderjonny/level-up-your-api-security-dont-let-hackers-be-the-boss-of-your-web-app-3g4l)
-- [Conectando PowerAutomate + Teams + ChatGPT](https://dev.to/madrade1472/conectando-powerautomate-teams-chatgpt-4je9)
 <!-- BLOG-POST-LIST:END -->
 
