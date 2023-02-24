@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 20 React interview questions.](https://dev.to/justice_hub/top-20-react-interview-questions-53kh)
 - [Unlock Your Potential: Discover 7 Online Resources That Surpass a $100000 Degree](https://dev.to/foxbuka/unlock-your-potential-discover-7-online-resources-that-surpass-a-100000-degree-3598)
+- [How to upgrade npm packages?](https://dev.to/alexandrunastase/how-to-upgrade-npm-packages-2l0g)
 - [Is Coursera Plus Really Worth it for Programmers and Developers? Review](https://dev.to/javinpaul/is-coursera-plus-really-worth-it-for-programmers-and-developers-review-4ff2)
-- [Why you should learn vim in 2023?](https://dev.to/himankbhalla/why-you-should-learn-vim-in-2023-1c43)
-- [La culture DevOps en entreprise, en 2023 !](https://dev.to/kanops/la-culture-devops-en-entreprise-en-2023--3a9p)
 <!-- BLOG-POST-LIST:END -->
 
