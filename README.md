@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging JavaScript Like a Pro: Tools and Techniques for Finding and Fixing Bugs](https://dev.to/iayeshasahar/debugging-javascript-like-a-pro-tools-and-techniques-for-finding-and-fixing-bugs-2lf5)
+- [Introduction of Rails Engine with basic example.](https://dev.to/harsh_u115/introduction-of-rails-engine-with-basic-example-2egm)
+- [Resolving SSH Permission Denied Errors Due to OpenSSH Version Vulnerabilities](https://dev.to/ibrarturi/resolving-ssh-permission-denied-errors-due-to-openssh-version-vulnerabilities-3mjh)
 - [7 Best Practices for Software Developers](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
-- [Caching in Ruby on Rails 7](https://dev.to/ahmadraza/caching-in-ruby-on-rails-7-470g)
-- [How to use multiple GitHub accounts on one machine? - A Quick Guide 🤹‍♀️🚀](https://dev.to/aderchox/how-to-use-multiple-github-accounts-on-one-machine-a-quick-guide-ka3)
-- [The difference between reassigning and modifying arrays in TypeScript 👨‍💻](https://dev.to/xaypanya/the-difference-between-reassigning-and-modifying-arrays-in-typescript-14am)
 <!-- BLOG-POST-LIST:END -->
 
