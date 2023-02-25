@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Some Hobbies That Are Beneficial to Coders and Developers?](https://dev.to/codenewbieteam/what-are-some-hobbies-that-are-beneficial-to-coders-and-developers-15n5)
+- [How To Remove Background Noise From Audio - Adobe Audition](https://dev.to/vincod/how-to-remove-background-noise-from-audio-adobe-audition-224p)
 - [Don&#39;t limit yourself to just ChatGPT; you may regret not utilising these AI tools in 2023](https://dev.to/jon_snow789/dont-limit-yourself-to-just-chatgpt-you-may-regret-not-utilising-these-ai-tools-in-2023-355o)
 - [Revision - 25/02/2023](https://dev.to/ajith_56/revision-25022023-2dh9)
-- [Divide and Conquer Algorithms in Python](https://dev.to/thegeekyb0y/divide-and-conquer-algorithms-in-python-5gm8)
-- [Binary Search](https://dev.to/berutodo/binary-search-18e9)
 <!-- BLOG-POST-LIST:END -->
 
