@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How upload data in format JSON to Datastore from GCP?](https://dev.to/xlmriosx/how-upload-data-in-format-json-to-datastore-from-gcp-20no)
+- [Recoil is the Samurai Sword of React State Management](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-1eg0)
 - [Convert Android App to Use Material 3 Design](https://dev.to/vtsen/convert-android-app-to-use-material-3-design-3ojm)
 - [First release of SPVM::File::Temp and SPVM::File::Find](https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2)
-- [AWS Cloud Quest: Content Delivery Networks](https://dev.to/arc/aws-cloud-quest-content-delivery-networks-4gjb)
-- [JavaScript Tutorial Series: Higher order functions](https://dev.to/fullstackjo/javascript-tutorial-series-higher-order-functions-507b)
 <!-- BLOG-POST-LIST:END -->
 
