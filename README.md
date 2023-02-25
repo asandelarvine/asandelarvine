@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Rules of ARIA](https://dev.to/konrud/5-rules-of-aria-40i)
+- [Protecting Your Sensitive Data in the Cloud with Amazon S3 Encryption](https://dev.to/seeyouoncloud/protecting-your-sensitive-data-in-the-cloud-with-amazon-s3-encryption-28ld)
 - [Debugging JavaScript Like a Pro: Tools and Techniques for Finding and Fixing Bugs](https://dev.to/iayeshasahar/debugging-javascript-like-a-pro-tools-and-techniques-for-finding-and-fixing-bugs-2lf5)
 - [Introduction of Rails Engine with basic example.](https://dev.to/harsh_u115/introduction-of-rails-engine-with-basic-example-2egm)
-- [Solving Coding Challenges](https://dev.to/oluwatrillions/solving-coding-challenges-2ki1)
-- [Resolving SSH Permission Denied Errors Due to OpenSSH Version Vulnerabilities](https://dev.to/ibrarturi/resolving-ssh-permission-denied-errors-due-to-openssh-version-vulnerabilities-3mjh)
 <!-- BLOG-POST-LIST:END -->
 
