@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding the Differences Between HTTP and HTTPS](https://dev.to/haszankauna/understanding-the-differences-between-http-and-https-3155)
+- [A Comprehensive Tree Traversal Guide in Javascript - General and Binary Tree Traversals](https://dev.to/humblecoder00/a-comprehensive-tree-traversal-guide-in-javascript-general-and-binary-tree-traversals-9lg)
 - [Building Dynamic User Interfaces with React and React-Router](https://dev.to/haszankauna/building-dynamic-user-interfaces-with-react-and-react-router-2gcp)
-- [Commitar ou não commitar o package-lock.json?](https://dev.to/ricmello/commitar-ou-nao-commitar-o-package-lockjson-c72)
-- [Implementing GraphQL in React Applications](https://dev.to/haszankauna/implementing-graphql-in-react-applications-202g)
+- [Debugging the bug free code](https://dev.to/dhanushnehru/debugging-the-bug-free-code-5784)
 <!-- BLOG-POST-LIST:END -->
 
