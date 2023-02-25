@@ -80,7 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How upload data in format JSON to Datastore from GCP?](https://dev.to/xlmriosx/how-upload-data-in-format-json-to-datastore-from-gcp-20no)
-- [Recoil is the Samurai Sword of React State Management](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-1eg0)
+- [Practical Tips for Freelance Developers: How to Find Clients and Grow Your Business](https://dev.to/uncle_ben/practical-tips-for-freelance-developers-how-to-find-clients-and-grow-your-business-3hnj)
 - [Convert Android App to Use Material 3 Design](https://dev.to/vtsen/convert-android-app-to-use-material-3-design-3ojm)
 - [First release of SPVM::File::Temp and SPVM::File::Find](https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2)
 <!-- BLOG-POST-LIST:END -->
