@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Website Using HTML and CSS Only](https://dev.to/rutikkpatel/how-to-create-a-website-using-html-and-css-only-29oc)
+- [How To provisioning DataSources in Grafana with Kubernetes](https://dev.to/saschadev/how-to-provisioning-datasources-in-grafana-with-kubernetes-5blm)
+- [HTTP Headers](https://dev.to/jacopo/http-headers-5je)
 - [How to learning Swift in 2023 ?](https://dev.to/iamdevmarcos/how-to-learning-swift-in-2023--5fj3)
-- [How to Build a Custom Raycast Extension to Access Dev.to Articles](https://dev.to/devkiran/how-to-build-a-custom-raycast-extension-to-access-devto-articles-2lj4)
-- [Visual Studio Code Productivity Hacks: My Favourite 15 Extensions](https://dev.to/shiftescape/visual-studio-code-productivity-hacks-my-favourite-15-extensions-1gb7)
-- [Chat GPT is my new friend!](https://dev.to/bekbrace/chat-gpt-is-my-new-friend-2jn8)
 <!-- BLOG-POST-LIST:END -->
 
