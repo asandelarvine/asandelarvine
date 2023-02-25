@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to learning Swift in 2023 ?](https://dev.to/iamdevmarcos/how-to-learning-swift-in-2023--5fj3)
+- [Visual Studio Code Productivity Hacks: My Favourite 15 Extensions](https://dev.to/shiftescape/visual-studio-code-productivity-hacks-my-favourite-15-extensions-1gb7)
 - [Hello World in Golang](https://dev.to/neeraj1997dev/hello-world-in-golang-2hke)
 - [Turning 14...](https://dev.to/vulcanwm/turning-14-1ifm)
-- [Customizing Swagger in Azure Functions](https://dev.to/kasuken/customizing-swagger-in-azure-functions-87m)
-- [Ditching useState and useReducer: Why useImmer is the better option](https://dev.to/rasaf_ibrahim/ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk)
 <!-- BLOG-POST-LIST:END -->
 
