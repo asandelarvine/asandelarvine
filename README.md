@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS](https://dev.to/machy8/faster-react-apps-coding-how-to-migrate-from-emotion-css-in-js-to-stylify-utility-first-css-1okb)
 - [What Are Some Hobbies That Are Beneficial to Coders and Developers?](https://dev.to/codenewbieteam/what-are-some-hobbies-that-are-beneficial-to-coders-and-developers-15n5)
+- [C++ Ma&#39;lumot turlari](https://dev.to/islomali99/c-malumot-turlari-14dj)
 - [How To Remove Background Noise From Audio - Adobe Audition](https://dev.to/vincod/how-to-remove-background-noise-from-audio-adobe-audition-224p)
-- [Don&#39;t limit yourself to just ChatGPT; you may regret not utilising these AI tools in 2023](https://dev.to/jon_snow789/dont-limit-yourself-to-just-chatgpt-you-may-regret-not-utilising-these-ai-tools-in-2023-355o)
-- [Revision - 25/02/2023](https://dev.to/ajith_56/revision-25022023-2dh9)
 <!-- BLOG-POST-LIST:END -->
 
