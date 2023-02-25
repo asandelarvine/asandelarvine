@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Serverless Applications with React](https://dev.to/haszankauna/building-serverless-applications-with-react-4pbg)
-- [Rust: Not Just Zoom Zoom Fast](https://dev.to/nexxeln/rust-not-just-zoom-zoom-fast-bmb)
-- [Creating Minesweeper with ReactJS and Mobx](https://dev.to/horoshko_m/creating-minesweeper-with-reactjs-and-mobx-1d7p)
-- [5 Rules of ARIA](https://dev.to/konrud/5-rules-of-aria-40i)
+- [Understanding the Differences Between HTTP and HTTPS](https://dev.to/haszankauna/understanding-the-differences-between-http-and-https-3155)
+- [Building Dynamic User Interfaces with React and React-Router](https://dev.to/haszankauna/building-dynamic-user-interfaces-with-react-and-react-router-2gcp)
+- [Commitar ou não commitar o package-lock.json?](https://dev.to/ricmello/commitar-ou-nao-commitar-o-package-lockjson-c72)
+- [Implementing GraphQL in React Applications](https://dev.to/haszankauna/implementing-graphql-in-react-applications-202g)
 <!-- BLOG-POST-LIST:END -->
 
