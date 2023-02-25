@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Differences Between HTTP and HTTPS](https://dev.to/haszankauna/understanding-the-differences-between-http-and-https-3155)
-- [A Comprehensive Tree Traversal Guide in Javascript - General and Binary Tree Traversals](https://dev.to/humblecoder00/a-comprehensive-tree-traversal-guide-in-javascript-general-and-binary-tree-traversals-9lg)
-- [Building Dynamic User Interfaces with React and React-Router](https://dev.to/haszankauna/building-dynamic-user-interfaces-with-react-and-react-router-2gcp)
-- [Debugging the bug free code](https://dev.to/dhanushnehru/debugging-the-bug-free-code-5784)
+- [Hello World in Golang](https://dev.to/neeraj1997dev/hello-world-in-golang-2hke)
+- [Turning 14...](https://dev.to/vulcanwm/turning-14-1ifm)
+- [Customizing Swagger in Azure Functions](https://dev.to/kasuken/customizing-swagger-in-azure-functions-87m)
+- [Ditching useState and useReducer: Why useImmer is the better option](https://dev.to/rasaf_ibrahim/ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk)
 <!-- BLOG-POST-LIST:END -->
 
