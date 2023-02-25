@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Debugging JavaScript Like a Pro: Tools and Techniques for Finding and Fixing Bugs](https://dev.to/iayeshasahar/debugging-javascript-like-a-pro-tools-and-techniques-for-finding-and-fixing-bugs-2lf5)
 - [Introduction of Rails Engine with basic example.](https://dev.to/harsh_u115/introduction-of-rails-engine-with-basic-example-2egm)
+- [Solving Coding Challenges](https://dev.to/oluwatrillions/solving-coding-challenges-2ki1)
 - [Resolving SSH Permission Denied Errors Due to OpenSSH Version Vulnerabilities](https://dev.to/ibrarturi/resolving-ssh-permission-denied-errors-due-to-openssh-version-vulnerabilities-3mjh)
-- [7 Best Practices for Software Developers](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
 <!-- BLOG-POST-LIST:END -->
 
