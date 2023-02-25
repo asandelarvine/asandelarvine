@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS](https://dev.to/machy8/faster-react-apps-coding-how-to-migrate-from-emotion-css-in-js-to-stylify-utility-first-css-1okb)
-- [Avoid a Malicious Attack MongoDB: How It Happened and What We Did About It.](https://dev.to/slk5611/avoid-a-malicious-attack-mongodb-how-it-happened-and-what-we-did-about-it-51hg)
-- [What Are Some Hobbies That Are Beneficial to Coders and Developers?](https://dev.to/codenewbieteam/what-are-some-hobbies-that-are-beneficial-to-coders-and-developers-15n5)
-- [Implementing a healthcheck for a Docker Container](https://dev.to/aws-builders/implementing-a-healthcheck-for-a-docker-container-4m9h)
+- [7 Best Practices for Software Developers](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
+- [Caching in Ruby on Rails 7](https://dev.to/ahmadraza/caching-in-ruby-on-rails-7-470g)
+- [How to use multiple GitHub accounts on one machine? - A Quick Guide 🤹‍♀️🚀](https://dev.to/aderchox/how-to-use-multiple-github-accounts-on-one-machine-a-quick-guide-ka3)
+- [The difference between reassigning and modifying arrays in TypeScript 👨‍💻](https://dev.to/xaypanya/the-difference-between-reassigning-and-modifying-arrays-in-typescript-14am)
 <!-- BLOG-POST-LIST:END -->
 
