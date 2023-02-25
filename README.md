@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS](https://dev.to/machy8/faster-react-apps-coding-how-to-migrate-from-emotion-css-in-js-to-stylify-utility-first-css-1okb)
+- [Avoid a Malicious Attack MongoDB: How It Happened and What We Did About It.](https://dev.to/slk5611/avoid-a-malicious-attack-mongodb-how-it-happened-and-what-we-did-about-it-51hg)
 - [What Are Some Hobbies That Are Beneficial to Coders and Developers?](https://dev.to/codenewbieteam/what-are-some-hobbies-that-are-beneficial-to-coders-and-developers-15n5)
-- [C++ Ma&#39;lumot turlari](https://dev.to/islomali99/c-malumot-turlari-14dj)
-- [How To Remove Background Noise From Audio - Adobe Audition](https://dev.to/vincod/how-to-remove-background-noise-from-audio-adobe-audition-224p)
+- [Implementing a healthcheck for a Docker Container](https://dev.to/aws-builders/implementing-a-healthcheck-for-a-docker-container-4m9h)
 <!-- BLOG-POST-LIST:END -->
 
