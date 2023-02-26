@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/build-a-crud-rest-api-in-go-using-mux-postgres-docker-and-docker-compose-2a75)
+- [Linux Process Management: A Deep Dive](https://dev.to/rejoice/linux-process-management-a-deep-dive-2lmk)
 - [Quick Guide for Flutter](https://dev.to/shaheem_mpm/quick-guide-for-flutter-p7g)
 - [Quick Guide for AWS](https://dev.to/shaheem_mpm/quick-guide-for-aws-11mo)
-- [Exploratory Data Analysis Ultimate Guide](https://dev.to/webs254/exploratory-data-analysis-ultimate-guide-4666)
-- [Exploratory Data Analysis - Ultimate Guide](https://dev.to/ckawara/exploratory-data-analysis-ultimate-guide-3mea)
 <!-- BLOG-POST-LIST:END -->
 
