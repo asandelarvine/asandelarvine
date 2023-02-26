@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up Jenkins with HTTPS](https://dev.to/jeansen/set-up-jenkins-with-https-250k)
 - [Unions and Narrowing in TypeScript](https://dev.to/keento0809/unions-and-narrowing-in-typescript-5154)
 - [How to create a Website Using HTML and CSS Only](https://dev.to/rutikkpatel/how-to-create-a-website-using-html-and-css-only-29oc)
 - [How To provisioning DataSources in Grafana with Kubernetes](https://dev.to/saschadev/how-to-provisioning-datasources-in-grafana-with-kubernetes-5blm)
-- [HTTP Headers](https://dev.to/jacopo/http-headers-5je)
 <!-- BLOG-POST-LIST:END -->
 
