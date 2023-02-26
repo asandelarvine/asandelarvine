@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS API gateway JWT Authorizer](https://dev.to/aws-builders/aws-api-gateway-jwt-authorizer-4mnc)
+- [AWS API gateway JWT Authorizer with zitadel](https://dev.to/aws-builders/aws-api-gateway-jwt-authorizer-4mnc)
 - [Using &amp; configuring zitadel for integration with AWS](https://dev.to/karanbir/using-configuring-zitadel-for-integration-with-aws-4cgf)
+- [Getting Started with React Native and Expo: An Introduction to.env Files](https://dev.to/niksseif/getting-started-with-react-native-and-expo-an-introduction-toenv-files-35d1)
 - [Notion UI React](https://dev.to/bogdanaks/notion-ui-react-2efh)
-- [A Beginner&#39;s Guide to Understanding DevOps](https://dev.to/rejoice/a-beginners-guide-to-understanding-devops-3nd6)
 <!-- BLOG-POST-LIST:END -->
 
