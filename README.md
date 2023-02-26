@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Responsive Modal using CSS 🚀](https://dev.to/ananiket/build-a-responsive-modal-using-css-1h5k)
 - [Publishing and set up Postgres in Ubuntu [Sharing knowledge]](https://dev.to/emhat098/publishing-and-set-up-postgres-in-ubuntu-sharing-knowledge-22k1)
+- [Focus on Creating Instead of Consuming](https://dev.to/alexhyettdev/focus-on-creating-instead-of-consuming-3b4g)
 - [Logistics Automation - Parcel Label Generation](https://dev.to/balagmadhu/logistics-automation-parcel-label-generation-5c2j)
-- [Mantenha o foco em entregar valor com DevOps, SRE e FinOps](https://dev.to/espigah/mantenha-o-foco-em-entregar-valor-com-devops-sre-e-finops-3j0e)
-- [Next.js vs. React: Which is the Best for Your Project](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)
 <!-- BLOG-POST-LIST:END -->
 
