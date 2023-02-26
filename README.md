@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Borrowing and Referencing in Rust](https://dev.to/danmugh/borrowing-and-referencing-in-rust-1egd)
 - [animtion n canvas](https://dev.to/nagvanshi9275/animtion-n-canvas-l29)
 - [2d motion circle](https://dev.to/nagvanshi9275/2d-motion-circle-451d)
 - [Why you shouldn&#39;t use slow regular expressions](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
-- [Be more organized](https://dev.to/ririio/be-more-organized-3nph)
 <!-- BLOG-POST-LIST:END -->
 
