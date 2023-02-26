@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Web Performance: The Benefits of Using SVGs Over PNGs](https://dev.to/ugurkellecioglu/optimizing-web-performance-the-benefits-of-using-svgs-over-pngs-385c)
-- [TailwindCSS from Zero to Production - Notes](https://dev.to/seyyedkhandon/notes-on-tailwindcss-from-zero-to-production-i73)
-- [Building Desktop Applications with Tauri, Nextjs, Firebase](https://dev.to/6174/building-desktop-applications-with-tauri-nextjs-firebase-54j7)
-- [Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/build-a-crud-rest-api-in-go-using-mux-postgres-docker-and-docker-compose-2a75)
+- [Logistics Automation - Parcel Label Generation](https://dev.to/balagmadhu/logistics-automation-parcel-label-generation-5c2j)
+- [Mantenha o foco em entregar valor com DevOps, SRE e FinOps](https://dev.to/espigah/mantenha-o-foco-em-entregar-valor-com-devops-sre-e-finops-3j0e)
+- [Vite: The Fast, Simple, and Efficient Build Tool for Web Developers](https://dev.to/sammaji15/vite-the-fast-simple-and-efficient-build-tool-for-web-developers-5hhb)
+- [20 Console Methods that Will Transform How You Debug](https://dev.to/fpaghar/20-console-methods-that-will-transform-how-you-debug-3d46)
 <!-- BLOG-POST-LIST:END -->
 
