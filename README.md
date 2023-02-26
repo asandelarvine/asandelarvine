@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Understanding DevOps](https://dev.to/rejoice/a-beginners-guide-to-understanding-devops-3nd6)
+- [Getting Started With Kafka with Node JS](https://dev.to/tejachundru/getting-started-with-kafka-with-node-js-i22)
+- [Setting up authentication in Astro with Prisma and Planetscale](https://dev.to/thomasledoux1/setting-up-authentication-in-astro-with-prisma-and-planetscale-4g4h)
 - [Scapy: A Comprehensive Network Packet Manipulation Library for Python](https://dev.to/nite_dev/scapy-a-comprehensive-network-packet-manipulation-library-for-python-hib)
-- [What If You Would Marry a Programming Language](https://dev.to/perssondennis/what-if-you-would-marry-a-programming-language-30mf)
-- [Build and publish a Component Library - React, TypeScript, Storybook](https://dev.to/abhijitdotsharma/build-and-publish-a-component-library-react-typescript-storybook-34ba)
-- [Build a Responsive Modal using CSS 🚀](https://dev.to/ananiket/build-a-responsive-modal-using-css-1h5k)
 <!-- BLOG-POST-LIST:END -->
 
