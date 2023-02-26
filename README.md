@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a File Analysis Dataset with Python](https://dev.to/integerman/building-a-file-analysis-dataset-with-python-4p77)
+- [Let&#39;s build the ultimate clinical calculator Android App with NativeScript](https://dev.to/oreoyona/lets-build-the-ultimate-clinical-calculator-android-app-with-nativescript-44g8)
 - [AWS API gateway JWT Authorizer with zitadel](https://dev.to/aws-builders/aws-api-gateway-jwt-authorizer-4mnc)
-- [Using &amp; configuring zitadel for integration with AWS](https://dev.to/karanbir/using-configuring-zitadel-for-integration-with-aws-4cgf)
-- [Getting Started with React Native and Expo: An Introduction to.env Files](https://dev.to/niksseif/getting-started-with-react-native-and-expo-an-introduction-toenv-files-35d1)
-- [Notion UI React](https://dev.to/bogdanaks/notion-ui-react-2efh)
+- [Intro to Nest.js 🪺](https://dev.to/omher/intro-to-nestjs-39m6)
 <!-- BLOG-POST-LIST:END -->
 
