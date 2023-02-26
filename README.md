@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you shouldn&#39;t use slow regular expressions](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
 - [Set up Jenkins with HTTPS](https://dev.to/jeansen/set-up-jenkins-with-https-250k)
 - [JavaScript Tutorial Series: Function expressions](https://dev.to/fullstackjo/javascript-tutorial-series-function-expressions-4ofj)
 - [Unions and Narrowing in TypeScript](https://dev.to/keento0809/unions-and-narrowing-in-typescript-5154)
-- [How to create a Website Using HTML and CSS Only](https://dev.to/rutikkpatel/how-to-create-a-website-using-html-and-css-only-29oc)
 <!-- BLOG-POST-LIST:END -->
 
