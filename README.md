@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Communication in Tech](https://dev.to/noriller/communication-in-tech-26kk)
 - [Different methods to filter a Pandas DataFrame](https://dev.to/aviatorifeanyi/different-methods-to-filter-a-pandas-dataframe-48of)
 - [22 Useful CSS Tips and Tricks Every Developer Should Know](https://dev.to/devsyedmohsin/22-useful-css-tips-and-tricks-every-developer-should-know-13c6)
 - [Introduction to WYD encryption and decryption using Rust](https://dev.to/raphaelts3/introduction-to-wyd-encryption-and-decryption-using-rust-4112)
-- [Notas rápidas de Grid](https://dev.to/oswald_echeverri/notas-rapidas-de-grid-4ec1)
 <!-- BLOG-POST-LIST:END -->
 
