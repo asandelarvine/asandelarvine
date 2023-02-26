@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TailwindCSS from Zero to Production - Notes](https://dev.to/seyyedkhandon/notes-on-tailwindcss-from-zero-to-production-i73)
+- [Building Desktop Applications with Tauri, Nextjs, Firebase](https://dev.to/6174/building-desktop-applications-with-tauri-nextjs-firebase-54j7)
 - [Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/build-a-crud-rest-api-in-go-using-mux-postgres-docker-and-docker-compose-2a75)
 - [Linux Process Management: A Deep Dive](https://dev.to/rejoice/linux-process-management-a-deep-dive-2lmk)
-- [Quick Guide for Flutter](https://dev.to/shaheem_mpm/quick-guide-for-flutter-p7g)
-- [Quick Guide for AWS](https://dev.to/shaheem_mpm/quick-guide-for-aws-11mo)
 <!-- BLOG-POST-LIST:END -->
 
