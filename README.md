@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Different methods to filter a Pandas DataFrame](https://dev.to/aviatorifeanyi/different-methods-to-filter-a-pandas-dataframe-48of)
+- [22 Useful CSS Tips and Tricks Every Developer Should Know](https://dev.to/devsyedmohsin/22-useful-css-tips-and-tricks-every-developer-should-know-13c6)
+- [Introduction to WYD encryption and decryption using Rust](https://dev.to/raphaelts3/introduction-to-wyd-encryption-and-decryption-using-rust-4112)
 - [Notas rápidas de Grid](https://dev.to/oswald_echeverri/notas-rapidas-de-grid-4ec1)
-- [Dithering Images with React/JavaScript](https://dev.to/bytebodger/dithering-images-with-reactjavascript-och)
-- [Building a File Analysis Dataset with Python](https://dev.to/integerman/building-a-file-analysis-dataset-with-python-4p77)
-- [Aurora Serverless V1 to V2 Migration](https://dev.to/rhuaridh/aurora-serverless-v1-to-v2-migration-1gl2)
 <!-- BLOG-POST-LIST:END -->
 
