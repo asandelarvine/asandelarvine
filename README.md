@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scapy: A Comprehensive Network Packet Manipulation Library for Python](https://dev.to/nite_dev/scapy-a-comprehensive-network-packet-manipulation-library-for-python-hib)
+- [What If You Would Marry a Programming Language](https://dev.to/perssondennis/what-if-you-would-marry-a-programming-language-30mf)
+- [Build and publish a Component Library - React, TypeScript, Storybook](https://dev.to/abhijitdotsharma/build-and-publish-a-component-library-react-typescript-storybook-34ba)
 - [Build a Responsive Modal using CSS 🚀](https://dev.to/ananiket/build-a-responsive-modal-using-css-1h5k)
-- [Publishing and set up Postgres in Ubuntu [Sharing knowledge]](https://dev.to/emhat098/publishing-and-set-up-postgres-in-ubuntu-sharing-knowledge-22k1)
-- [Focus on Creating Instead of Consuming](https://dev.to/alexhyettdev/focus-on-creating-instead-of-consuming-3b4g)
-- [Logistics Automation - Parcel Label Generation](https://dev.to/balagmadhu/logistics-automation-parcel-label-generation-5c2j)
 <!-- BLOG-POST-LIST:END -->
 
