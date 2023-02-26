@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Notas rápidas de Grid](https://dev.to/oswald_echeverri/notas-rapidas-de-grid-4ec1)
+- [Dithering Images with React/JavaScript](https://dev.to/bytebodger/dithering-images-with-reactjavascript-och)
 - [Building a File Analysis Dataset with Python](https://dev.to/integerman/building-a-file-analysis-dataset-with-python-4p77)
-- [Let&#39;s build the ultimate clinical calculator Android App with NativeScript](https://dev.to/oreoyona/lets-build-the-ultimate-clinical-calculator-android-app-with-nativescript-44g8)
-- [AWS API gateway JWT Authorizer with zitadel](https://dev.to/aws-builders/aws-api-gateway-jwt-authorizer-4mnc)
-- [Intro to Nest.js 🪺](https://dev.to/omher/intro-to-nestjs-39m6)
+- [Aurora Serverless V1 to V2 Migration](https://dev.to/rhuaridh/aurora-serverless-v1-to-v2-migration-1gl2)
 <!-- BLOG-POST-LIST:END -->
 
