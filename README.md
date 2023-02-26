@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Borrowing and Referencing in Rust](https://dev.to/danmugh/borrowing-and-referencing-in-rust-1egd)
-- [animtion n canvas](https://dev.to/nagvanshi9275/animtion-n-canvas-l29)
-- [2d motion circle](https://dev.to/nagvanshi9275/2d-motion-circle-451d)
-- [Why you shouldn&#39;t use slow regular expressions](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
+- [Quick Guide for Flutter](https://dev.to/shaheem_mpm/quick-guide-for-flutter-p7g)
+- [Quick Guide for AWS](https://dev.to/shaheem_mpm/quick-guide-for-aws-11mo)
+- [Exploratory Data Analysis Ultimate Guide](https://dev.to/webs254/exploratory-data-analysis-ultimate-guide-4666)
+- [Exploratory Data Analysis - Ultimate Guide](https://dev.to/ckawara/exploratory-data-analysis-ultimate-guide-3mea)
 <!-- BLOG-POST-LIST:END -->
 
