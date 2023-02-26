@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishing and set up Postgres in Ubuntu [Sharing knowledge]](https://dev.to/emhat098/publishing-and-set-up-postgres-in-ubuntu-sharing-knowledge-22k1)
 - [Logistics Automation - Parcel Label Generation](https://dev.to/balagmadhu/logistics-automation-parcel-label-generation-5c2j)
 - [Mantenha o foco em entregar valor com DevOps, SRE e FinOps](https://dev.to/espigah/mantenha-o-foco-em-entregar-valor-com-devops-sre-e-finops-3j0e)
-- [Vite: The Fast, Simple, and Efficient Build Tool for Web Developers](https://dev.to/sammaji15/vite-the-fast-simple-and-efficient-build-tool-for-web-developers-5hhb)
-- [20 Console Methods that Will Transform How You Debug](https://dev.to/fpaghar/20-console-methods-that-will-transform-how-you-debug-3d46)
+- [Next.js vs. React: Which is the Best for Your Project](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)
 <!-- BLOG-POST-LIST:END -->
 
