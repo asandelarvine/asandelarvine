@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Effortless Deployments: Linking one Repo to Multiple Runtimes](https://dev.to/ionos/effortless-deployments-linking-one-repo-to-multiple-runtimes-12n8)
+- [10 Things We Learned In Full Stack GraphQL Book Club](https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le)
+- [Music Monday — What are you listening to? &lpar;Chill Edition II&rpar;](https://dev.to/michaeltharrington/music-monday-what-are-you-listening-to-chill-edition-ii-4591)
 - [Why Qovery Preview Environments Are So Valuable to Development Teams](https://dev.to/livecycle/why-qovery-preview-environments-are-so-valuable-to-development-teams-3ggk)
-- [How to install Phoenix &lpar;Elixir&rpar; with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-install-phoenix-elixir-with-tailwind-css-and-flowbite-229f)
-- [Meme Monday 🦄](https://dev.to/ben/meme-monday-59gk)
-- [Can JavaScript do Everything Python Can?](https://dev.to/developerbishwas/can-javascript-do-everything-python-can-57e9)
 <!-- BLOG-POST-LIST:END -->
 
