@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Wondering if this is a good way to learn?](https://dev.to/troy5890/wondering-if-this-is-a-good-way-to-learn-pca)
 - [Understanding the this keyword in JavaScript](https://dev.to/brandonbawe/understanding-the-this-keyword-in-javascript-2kmh)
+- [Mafia: A Serverless Multiplayer Game](https://dev.to/jacksonb/mafia-a-serverless-multiplayer-game-5f24)
 - [💰 Currency Formatting in JavaScript](https://dev.to/dhrn/currency-formatting-in-javascript-10h1)
-- [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
-- [How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-2hj2)
 <!-- BLOG-POST-LIST:END -->
 
