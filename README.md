@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the right Email Verification flow](https://dev.to/supertokens/implementing-the-right-email-verification-flow-2hcj)
+- [Understanding HTTP Request and Response: A Comprehensive Guide](https://dev.to/bookerrjanee/understanding-http-request-and-response-a-comprehensive-guide-373l)
+- [How to Implement ARIA Tags for Better Accessibility: A Comprehensive Guide for Web Developers](https://dev.to/sarveshh/how-to-implement-aria-tags-for-better-accessibility-a-comprehensive-guide-for-web-developers-h3k)
 - [White Box Testing](https://dev.to/furkangulsen/white-box-testing-4ami)
-- [Configure Kubernetes Readiness and Liveness Probes - Tutorial](https://dev.to/pavanbelagatti/configure-kubernetes-readiness-and-liveness-probes-tutorial-478p)
-- [Code a responsive step progress bar with HTML, CSS, &amp; JavaScript](https://dev.to/michaelburrows/code-a-responsive-step-progress-bar-with-html-css-javascript-2f6l)
-- [Understanding MySQL EXPLAIN output - part 2](https://dev.to/amitiwary999/understanding-mysql-explain-output-part-2-2eg0)
 <!-- BLOG-POST-LIST:END -->
 
