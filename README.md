@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Scalable Web Applications with React and Firebase](https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4)
+- [AWS open source newsletter, #146](https://dev.to/aws/aws-open-source-newsletter-146-26bh)
+- [How to use React with MongoDB](https://dev.to/haszankauna/how-to-use-react-with-mongodb-15pa)
 - [Implementing the right Email Verification flow](https://dev.to/supertokens/implementing-the-right-email-verification-flow-2hcj)
-- [Understanding HTTP Request and Response: A Comprehensive Guide](https://dev.to/bookerrjanee/understanding-http-request-and-response-a-comprehensive-guide-373l)
-- [How to Implement ARIA Tags for Better Accessibility: A Comprehensive Guide for Web Developers](https://dev.to/sarveshh/how-to-implement-aria-tags-for-better-accessibility-a-comprehensive-guide-for-web-developers-h3k)
-- [White Box Testing](https://dev.to/furkangulsen/white-box-testing-4ami)
 <!-- BLOG-POST-LIST:END -->
 
