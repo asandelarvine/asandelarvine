@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a GuestBook in Next.js](https://dev.to/vulcanwm/creating-a-guestbook-in-nextjs-462)
+- [Java Efetivo - Constantes](https://dev.to/psanrosa13/java-efetivo-constantes-351j)
 - [Enable encryption on existing RDS instance](https://dev.to/aws-builders/enable-encryption-on-existing-rds-instance-2gad)
 - [The Evolution of Signals in JavaScript](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
-- [Complete Guide to useState Hook in React](https://dev.to/sebduta/complete-guide-to-usestate-hook-in-react-5d78)
-- [The benefits of Web Component Libraries](https://dev.to/tbroyer/the-benefits-of-web-component-libraries-527h)
 <!-- BLOG-POST-LIST:END -->
 
