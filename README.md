@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the Amplidex; A GraphQL Powered Pokedex](https://dev.to/amplication/building-the-amplidex-a-graphql-powered-pokedex-1pd2)
 - [The Coolest JavaScript Features from the Last 5 Years](https://dev.to/ppiippaa/some-cool-javascript-features-from-the-last-5-years-4alp)
 - [Web Push Provisioning: Advancements for Digital Wallet Developers](https://dev.to/mbogan/web-push-provisioning-advancements-for-digital-wallet-developers-hmi)
 - [Creating a GuestBook in Next.js](https://dev.to/vulcanwm/creating-a-guestbook-in-nextjs-462)
-- [Java Efetivo - Constantes](https://dev.to/psanrosa13/java-efetivo-constantes-351j)
 <!-- BLOG-POST-LIST:END -->
 
