@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Scalable Web Applications with React and Firebase](https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4)
+- [Nuxt, Medusa, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-medusa-tailwindcss-crash-course-46jf)
 - [AWS open source newsletter, #146](https://dev.to/aws/aws-open-source-newsletter-146-26bh)
-- [How to use React with MongoDB](https://dev.to/haszankauna/how-to-use-react-with-mongodb-15pa)
-- [Implementing the right Email Verification flow](https://dev.to/supertokens/implementing-the-right-email-verification-flow-2hcj)
+- [9 beautiful corner border examples](https://dev.to/smitprajapati/9-beautiful-corner-border-examples-202e)
 <!-- BLOG-POST-LIST:END -->
 
