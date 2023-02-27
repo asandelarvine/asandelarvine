@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I was able to improve my clients satisfaction by 10x 🪄](https://dev.to/naubit/how-i-was-able-to-improve-my-clients-satisfaction-by-10x-15k2)
-- [Essential Linux Commands Every DevOps Engineer Should Know - Part 1](https://dev.to/aradwan20/essential-linux-commands-every-devops-engineer-should-know-part-1-5e86)
-- [Strategy is delivery: Scaling 10x through ownership and trust](https://dev.to/finnauto/strategy-is-delivery-scaling-10x-through-ownership-and-trust-232p)
-- [Building a forum with React, NodeJS](https://dev.to/novu/building-a-forum-with-react-nodejs-6pe)
+- [Why Qovery Preview Environments Are So Valuable to Development Teams](https://dev.to/livecycle/why-qovery-preview-environments-are-so-valuable-to-development-teams-3ggk)
+- [How to install Phoenix &lpar;Elixir&rpar; with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-install-phoenix-elixir-with-tailwind-css-and-flowbite-229f)
+- [Meme Monday 🦄](https://dev.to/ben/meme-monday-59gk)
+- [Can JavaScript do Everything Python Can?](https://dev.to/developerbishwas/can-javascript-do-everything-python-can-57e9)
 <!-- BLOG-POST-LIST:END -->
 
