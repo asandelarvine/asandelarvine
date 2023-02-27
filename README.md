@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [White Box Testing](https://dev.to/furkangulsen/white-box-testing-4ami)
 - [Configure Kubernetes Readiness and Liveness Probes - Tutorial](https://dev.to/pavanbelagatti/configure-kubernetes-readiness-and-liveness-probes-tutorial-478p)
 - [Code a responsive step progress bar with HTML, CSS, &amp; JavaScript](https://dev.to/michaelburrows/code-a-responsive-step-progress-bar-with-html-css-javascript-2f6l)
 - [Understanding MySQL EXPLAIN output - part 2](https://dev.to/amitiwary999/understanding-mysql-explain-output-part-2-2eg0)
-- [Recoil is the Samurai Sword of React State Management](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-5h3c)
 <!-- BLOG-POST-LIST:END -->
 
