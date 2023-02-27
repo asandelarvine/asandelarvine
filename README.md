@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I was able to improve my clients satisfaction by 10x 🪄](https://dev.to/naubit/how-i-was-able-to-improve-my-clients-satisfaction-by-10x-15k2)
+- [Essential Linux Commands Every DevOps Engineer Should Know - Part 1](https://dev.to/aradwan20/essential-linux-commands-every-devops-engineer-should-know-part-1-5e86)
+- [Strategy is delivery: Scaling 10x through ownership and trust](https://dev.to/finnauto/strategy-is-delivery-scaling-10x-through-ownership-and-trust-232p)
 - [Building a forum with React, NodeJS](https://dev.to/novu/building-a-forum-with-react-nodejs-6pe)
-- [Why Go is the Future of Backend Development](https://dev.to/mavensingh/why-go-is-the-future-of-backend-development-5djl)
-- [Avoiding the Serverless Workflow Antipattern](https://dev.to/aws-builders/avoiding-the-serverless-workflow-antipattern-2ba1)
-- [How to trigger tab &lpar;InputText&rpar; in Microsoft Power Apps](https://dev.to/infodevbeli/how-to-trigger-tab-inputtext-in-microsoft-power-apps-4fo5)
 <!-- BLOG-POST-LIST:END -->
 
