@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extract Tables From Images in Python](https://dev.to/shittu_olumide_/extract-tables-from-images-in-python-230a)
-- [Cards mouse hover effect with CSS + JS](https://dev.to/yxsh/cards-mouse-hover-effect-with-css-js-33j0)
-- [Here&#39;s everything you need to know about MQTT Broker &lpar;simple explanation&rpar;](https://dev.to/behnamnasehi/heres-everything-you-need-to-know-about-mqtt-broker-simple-explanation-3399)
-- [You must know JavaScript array methods](https://dev.to/himanshudevgupta/you-must-know-javascript-array-methods-1e2b)
+- [Avoiding the Serverless Workflow Antipattern](https://dev.to/aws-builders/avoiding-the-serverless-workflow-antipattern-2ba1)
+- [How to add bootstrap in Rails 7](https://dev.to/rutikkpatel/how-to-add-bootstrap-in-rails-7-5pd)
+- [S&#39;Monday 😪](https://dev.to/codenewbieteam/smonday-4hcj)
+- [Design: Desfazendo Mal-entendidos - DDD](https://dev.to/wsantosdev/design-desfazendo-mal-entendidos-ddd-o05)
 <!-- BLOG-POST-LIST:END -->
 
