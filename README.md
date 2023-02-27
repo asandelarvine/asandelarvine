@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a forum with React, NodeJS](https://dev.to/novu/building-a-forum-with-react-nodejs-6pe)
+- [Why Go is the Future of Backend Development](https://dev.to/mavensingh/why-go-is-the-future-of-backend-development-5djl)
 - [Avoiding the Serverless Workflow Antipattern](https://dev.to/aws-builders/avoiding-the-serverless-workflow-antipattern-2ba1)
-- [How to add bootstrap in Rails 7](https://dev.to/rutikkpatel/how-to-add-bootstrap-in-rails-7-5pd)
-- [S&#39;Monday 😪](https://dev.to/codenewbieteam/smonday-4hcj)
-- [Design: Desfazendo Mal-entendidos - DDD](https://dev.to/wsantosdev/design-desfazendo-mal-entendidos-ddd-o05)
+- [How to trigger tab &lpar;InputText&rpar; in Microsoft Power Apps](https://dev.to/infodevbeli/how-to-trigger-tab-inputtext-in-microsoft-power-apps-4fo5)
 <!-- BLOG-POST-LIST:END -->
 
