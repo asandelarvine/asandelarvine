@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Auth0 in React and Node](https://dev.to/mavis_chen/auth0-in-react-and-node-38o0)
 - [&quot;The pesticide paradox&quot; when fixing a bug causes other bugs 😢](https://dev.to/turinumugisha_s/the-pesticide-paradox-when-fixing-a-bug-causes-other-bugs-neo)
 - [Wondering if this is a good way to learn?](https://dev.to/troy5890/wondering-if-this-is-a-good-way-to-learn-pca)
 - [Understanding the this keyword in JavaScript](https://dev.to/brandonbawe/understanding-the-this-keyword-in-javascript-2kmh)
-- [Mafia: A Serverless Multiplayer Game](https://dev.to/jacksonb/mafia-a-serverless-multiplayer-game-5f24)
 <!-- BLOG-POST-LIST:END -->
 
