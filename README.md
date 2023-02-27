@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Applications with React and Firebase](https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4)
-- [Nuxt, Medusa, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-medusa-tailwindcss-crash-course-46jf)
-- [AWS open source newsletter, #146](https://dev.to/aws/aws-open-source-newsletter-146-26bh)
-- [9 beautiful corner border examples](https://dev.to/smitprajapati/9-beautiful-corner-border-examples-202e)
+- [Extract Tables From Images in Python](https://dev.to/shittu_olumide_/extract-tables-from-images-in-python-230a)
+- [Cards mouse hover effect with CSS + JS](https://dev.to/yxsh/cards-mouse-hover-effect-with-css-js-33j0)
+- [Here&#39;s everything you need to know about MQTT Broker &lpar;simple explanation&rpar;](https://dev.to/behnamnasehi/heres-everything-you-need-to-know-about-mqtt-broker-simple-explanation-3399)
+- [You must know JavaScript array methods](https://dev.to/himanshudevgupta/you-must-know-javascript-array-methods-1e2b)
 <!-- BLOG-POST-LIST:END -->
 
