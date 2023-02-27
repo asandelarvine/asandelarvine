@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Complete Guide to useState Hook in React](https://dev.to/sebduta/complete-guide-to-usestate-hook-in-react-5d78)
+- [The benefits of Web Component Libraries](https://dev.to/tbroyer/the-benefits-of-web-component-libraries-527h)
 - [#ThisMonthInSWA - January 2023](https://dev.to/azure/thismonthinswa-january-2023-45cc)
 - [How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
-- [IndexedDB on steroids using Dexie.js](https://dev.to/bgopikrishna/indexeddb-on-steroids-using-dexiejs-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
