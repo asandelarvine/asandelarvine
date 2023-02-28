@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to React Hooks](https://dev.to/aabi26/introduction-to-react-hooks-hmc)
+- [A new CRT HTTP Client, a Reference Architecture for Deployment Pipelines and the VPC Resource Map](https://dev.to/aws-heroes/a-new-crt-http-client-a-reference-architecture-for-deployment-pipelines-and-the-vpc-resource-map-5677)
+- [echo3D is live on Product Hunt!](https://dev.to/_echo3d_/echo3d-is-live-on-product-hunt-338f)
 - [How to get into product management: my learnings from doing a PM internship](https://dev.to/finnauto/how-to-get-into-product-management-my-learnings-from-doing-a-pm-internship-3nn2)
-- [Handling pagination with NgRx component stores](https://dev.to/this-is-angular/handling-pagination-with-ngrx-component-stores-1j1p)
-- [What&#39;s new in Novu 0.12.0?](https://dev.to/novu/whats-new-in-novu-0120-m3)
-- [My Favorite Free Courses to Learn Kubernetes in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-kubernetes-in-2023-19f1)
 <!-- BLOG-POST-LIST:END -->
 
