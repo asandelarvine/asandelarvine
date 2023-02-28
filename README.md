@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye DEV 😢](https://dev.to/jesseskinner/goodbye-dev-5119)
+- [What&#39;s New in Rails 7.1](https://dev.to/appsignal/whats-new-in-rails-71-4alb)
 - [React Internationalization &lpar;i18n&rpar; using Context API](https://dev.to/seeratawan01/react-internationalization-i18n-using-context-api-3ocj)
 - [Outer to Inner Join Conversion](https://dev.to/pawsql/outer-to-inner-join-conversion-51hi)
-- [Explanatory Data analysis ultimate guide](https://dev.to/kemboijebby/explanatory-data-analysis-ultimate-guide-3p21)
-- [Swift - Data Types Explained](https://dev.to/iamdevmarcos/swift-data-types-explained-3oic)
 <!-- BLOG-POST-LIST:END -->
 
