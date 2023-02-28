@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps for Developers - Introduction and Version Control](https://dev.to/codenameone/devops-for-developers-introduction-and-version-control-10ni)
+- [Free Tailwind Components Collections&lpar;sample&rpar;](https://dev.to/fpaghar/free-tailwind-components-collectionssample-564e)
+- [Code-First Auto-Generated OpenAPI Docs for Django Applications](https://dev.to/appmap/code-first-auto-generated-openapi-docs-for-django-applications-3a9j)
 - [Teacher Feature: Christopher Lis](https://dev.to/michaellarocca/teacher-feature-christopher-lis-19n5)
-- [22 Valuable Lessons From Decade of Software Engineering](https://dev.to/codewithvoid/22-valuable-lessons-from-decade-of-software-engineering-7g2)
-- [Earn &lpar;AWS Credits&rpar; while you Learn!](https://dev.to/aws-builders/earn-aws-credits-while-you-learn-48p3)
-- [The decline of CSS Tricks](https://dev.to/robole/the-decline-of-css-tricks-1a3b)
 <!-- BLOG-POST-LIST:END -->
 
