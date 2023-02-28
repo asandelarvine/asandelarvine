@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C# FileStream For Lazy Developers In A Hurry. The Bare Minimum](https://dev.to/gustavupp/c-filestream-for-lazy-developers-in-a-hurry-the-bare-minimum-3ic9)
+- [JavaScript Tutorial Series: Intro to JS DOM](https://dev.to/fullstackjo/javascript-tutorial-series-intro-to-js-dom-3j28)
 - [#DEVDiscuss: Building Your Own AI 🤖](https://dev.to/devteam/devdiscuss-building-your-own-ai-26p0)
 - [DevOps for Developers - Introduction and Version Control](https://dev.to/codenameone/devops-for-developers-introduction-and-version-control-10ni)
-- [Free Tailwind Components Collections&lpar;sample&rpar;](https://dev.to/fpaghar/free-tailwind-components-collectionssample-564e)
-- [Code-First Auto-Generated OpenAPI Docs for Django Applications](https://dev.to/appmap/code-first-auto-generated-openapi-docs-for-django-applications-3a9j)
 <!-- BLOG-POST-LIST:END -->
 
