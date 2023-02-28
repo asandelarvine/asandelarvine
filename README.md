@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Internationalization &lpar;i18n&rpar; using Context API](https://dev.to/seeratawan01/react-internationalization-i18n-using-context-api-3ocj)
 - [Outer to Inner Join Conversion](https://dev.to/pawsql/outer-to-inner-join-conversion-51hi)
+- [Explanatory Data analysis ultimate guide](https://dev.to/kemboijebby/explanatory-data-analysis-ultimate-guide-3p21)
 - [Swift - Data Types Explained](https://dev.to/iamdevmarcos/swift-data-types-explained-3oic)
-- [Why Modern JavaScript Matters](https://dev.to/david_bilsonn/why-modern-javascript-matters-3opk)
-- [Take your Next js + GraphQL + TypeScript Setup to the next level](https://dev.to/ivanms1/take-your-next-js-graphql-typescript-setup-to-the-next-level-5b0i)
 <!-- BLOG-POST-LIST:END -->
 
