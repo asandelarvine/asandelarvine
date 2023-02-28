@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get into product management: my learnings from doing a PM internship](https://dev.to/finnauto/how-to-get-into-product-management-my-learnings-from-doing-a-pm-internship-3nn2)
+- [Handling pagination with NgRx component stores](https://dev.to/this-is-angular/handling-pagination-with-ngrx-component-stores-1j1p)
+- [What&#39;s new in Novu 0.12.0?](https://dev.to/novu/whats-new-in-novu-0120-m3)
 - [My Favorite Free Courses to Learn Kubernetes in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-kubernetes-in-2023-19f1)
-- [Data Loading in Entity Framework](https://dev.to/grontis/data-loading-in-entity-framework-2foe)
-- [Day 11: Regular Expressions &lpar;Regex&rpar;](https://dev.to/jobizil/day-11-regular-expressions-regex-39h1)
-- [How to change author name and the email of the commit](https://dev.to/rajhawaldar/how-to-chane-author-name-and-the-email-of-the-commit-4a9o)
 <!-- BLOG-POST-LIST:END -->
 
