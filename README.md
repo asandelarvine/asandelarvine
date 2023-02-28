@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Color Mixing With JavaScript](https://dev.to/bytebodger/color-mixing-with-javascript-1llh)
+- [VSCode Shortcuts, Extensions &amp; Settings for Flutter Development](https://dev.to/kuldeeptarapara/vscode-shortcuts-extensions-settings-for-flutter-development-e1k)
 - [Using React with Google Cloud Storage: A Guide to Cloud File Storage and Retrieval](https://dev.to/haszankauna/using-react-with-google-cloud-storage-a-guide-to-cloud-file-storage-and-retrieval-1mcm)
 - [Streamlining Appointment Scheduling with React and Calendly API Integration](https://dev.to/haszankauna/streamlining-appointment-scheduling-with-react-and-calendly-api-integration-c29)
-- [Software Design Patterns: An Overview and When to Use Them](https://dev.to/yelk11/software-design-patterns-an-overview-and-when-to-use-them-37ja)
-- [React Architectures: FLUX vs REDUX](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
 <!-- BLOG-POST-LIST:END -->
 
