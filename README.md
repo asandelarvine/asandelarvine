@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Architectures: FLUX vs REDUX](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
+- [Streamlining React Application Development with CI/CD using GitHub Actions](https://dev.to/haszankauna/streamlining-react-application-development-with-cicd-using-github-actions-4h86)
 - [Solving the DynamoDB EventBridge Pipes Problem](https://dev.to/aws-builders/solving-the-dynamodb-eventbridge-pipes-problem-9ca)
-- [REST API ExceptionHandler](https://dev.to/woopository/rest-api-customexceptionhandler-4o94)
-- [Using ChatGPT to reply my Whatsapp ?](https://dev.to/cyril_ogoh/using-chatgpt-to-reply-my-whatsapp--4l8d)
-- [CodeNewbie Memes](https://dev.to/codenewbieteam/codenewbie-memes-3fbn)
+- [REST API Exception Handler](https://dev.to/soonwoochoi/rest-api-customexceptionhandler-4o94)
 <!-- BLOG-POST-LIST:END -->
 
