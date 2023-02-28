@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye DEV 😢](https://dev.to/jesseskinner/goodbye-dev-5119)
-- [What&#39;s New in Rails 7.1](https://dev.to/appsignal/whats-new-in-rails-71-4alb)
-- [React Internationalization &lpar;i18n&rpar; using Context API](https://dev.to/seeratawan01/react-internationalization-i18n-using-context-api-3ocj)
-- [Outer to Inner Join Conversion](https://dev.to/pawsql/outer-to-inner-join-conversion-51hi)
+- [Moonly weekly progress update #38](https://dev.to/moonly/moonly-weekly-progress-update-38-3d95)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4e99)
+- [React.js, behind the scenes](https://dev.to/diogorodrigues/reactjs-behind-the-scenes-3cin)
+- [How to run the first React Native iOS app in 2023](https://dev.to/aneeqakhan/how-to-run-the-first-react-native-ios-app-in-2023-27na)
 <!-- BLOG-POST-LIST:END -->
 
