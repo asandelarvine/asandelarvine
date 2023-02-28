@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re launching SEO-Go for an enhanced SEO collaboration, and this is why we did so](https://dev.to/gewzk/were-launching-seo-go-for-an-enhanced-seo-collaboration-and-this-is-why-we-did-so-1aii)
+- [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 1. Loops&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-1-loops-12mn)
+- [Understanding and Implementing Serverless Architecture in Your Applications](https://dev.to/opendataanalytics/understanding-and-implementing-serverless-architecture-in-your-applications-10jk)
 - [Color Mixing With JavaScript](https://dev.to/bytebodger/color-mixing-with-javascript-1llh)
-- [VSCode Shortcuts, Extensions &amp; Settings for Flutter Development](https://dev.to/kuldeeptarapara/vscode-shortcuts-extensions-settings-for-flutter-development-e1k)
-- [Using React with Google Cloud Storage: A Guide to Cloud File Storage and Retrieval](https://dev.to/haszankauna/using-react-with-google-cloud-storage-a-guide-to-cloud-file-storage-and-retrieval-1mcm)
-- [Streamlining Appointment Scheduling with React and Calendly API Integration](https://dev.to/haszankauna/streamlining-appointment-scheduling-with-react-and-calendly-api-integration-c29)
 <!-- BLOG-POST-LIST:END -->
 
