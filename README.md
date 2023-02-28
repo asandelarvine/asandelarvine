@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to React Hooks](https://dev.to/aabi26/introduction-to-react-hooks-hmc)
-- [A new CRT HTTP Client, a Reference Architecture for Deployment Pipelines and the VPC Resource Map](https://dev.to/aws-heroes/a-new-crt-http-client-a-reference-architecture-for-deployment-pipelines-and-the-vpc-resource-map-5677)
-- [echo3D is live on Product Hunt!](https://dev.to/_echo3d_/echo3d-is-live-on-product-hunt-338f)
-- [How to get into product management: my learnings from doing a PM internship](https://dev.to/finnauto/how-to-get-into-product-management-my-learnings-from-doing-a-pm-internship-3nn2)
+- [audioFlux: A library for audio and music analysis, feature extraction.](https://dev.to/audioflux/audioflux-a-library-for-audio-and-music-analysis-feature-extraction-3g6m)
+- [Exploratory Data Analysis Ultimate Guide](https://dev.to/okuku_okal/exploratory-data-analysis-ultimate-guide-3480)
+- [Top 10 Plaforms for Fonts Download .](https://dev.to/yug2477/top-10-plaforms-for-fonts-download--2963)
+- [Video Gaming Concepts For the Uninitiated](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
 <!-- BLOG-POST-LIST:END -->
 
