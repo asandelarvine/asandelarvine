@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explained: The Design and Types of Ecommerce Architecture](https://dev.to/medusajs/explained-the-design-and-types-of-ecommerce-architecture-5613)
-- [Victa: how I launched a running app for gamers and got in the top 16 in the App Store](https://dev.to/trueslash/victa-how-i-launched-a-running-app-for-gamers-and-got-in-the-top-16-in-the-app-store-2458)
-- [audioFlux: A library for audio and music analysis, feature extraction.](https://dev.to/audioflux/audioflux-a-library-for-audio-and-music-analysis-feature-extraction-3g6m)
-- [Exploratory Data Analysis Ultimate Guide](https://dev.to/okuku_okal/exploratory-data-analysis-ultimate-guide-3480)
+- [Outer to Inner Join Conversion](https://dev.to/pawsql/outer-to-inner-join-conversion-51hi)
+- [Swift - Data Types Explained](https://dev.to/iamdevmarcos/swift-data-types-explained-3oic)
+- [Why Modern JavaScript Matters](https://dev.to/david_bilsonn/why-modern-javascript-matters-3opk)
+- [Take your Next js + GraphQL + TypeScript Setup to the next level](https://dev.to/ivanms1/take-your-next-js-graphql-typescript-setup-to-the-next-level-5b0i)
 <!-- BLOG-POST-LIST:END -->
 
