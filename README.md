@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explained: The Design and Types of Ecommerce Architecture](https://dev.to/medusajs/explained-the-design-and-types-of-ecommerce-architecture-5613)
+- [Victa: how I launched a running app for gamers and got in the top 16 in the App Store](https://dev.to/trueslash/victa-how-i-launched-a-running-app-for-gamers-and-got-in-the-top-16-in-the-app-store-2458)
 - [audioFlux: A library for audio and music analysis, feature extraction.](https://dev.to/audioflux/audioflux-a-library-for-audio-and-music-analysis-feature-extraction-3g6m)
 - [Exploratory Data Analysis Ultimate Guide](https://dev.to/okuku_okal/exploratory-data-analysis-ultimate-guide-3480)
-- [Top 10 Plaforms for Fonts Download .](https://dev.to/yug2477/top-10-plaforms-for-fonts-download--2963)
-- [Video Gaming Concepts For the Uninitiated](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
 <!-- BLOG-POST-LIST:END -->
 
