@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re launching SEO-Go for an enhanced SEO collaboration, and this is why we did so](https://dev.to/gewzk/were-launching-seo-go-for-an-enhanced-seo-collaboration-and-this-is-why-we-did-so-1aii)
-- [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 1. Loops&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-1-loops-12mn)
-- [Understanding and Implementing Serverless Architecture in Your Applications](https://dev.to/opendataanalytics/understanding-and-implementing-serverless-architecture-in-your-applications-10jk)
-- [Color Mixing With JavaScript](https://dev.to/bytebodger/color-mixing-with-javascript-1llh)
+- [My Favorite Free Courses to Learn Kubernetes in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-kubernetes-in-2023-19f1)
+- [Data Loading in Entity Framework](https://dev.to/grontis/data-loading-in-entity-framework-2foe)
+- [Day 11: Regular Expressions &lpar;Regex&rpar;](https://dev.to/jobizil/day-11-regular-expressions-regex-39h1)
+- [How to change author name and the email of the commit](https://dev.to/rajhawaldar/how-to-chane-author-name-and-the-email-of-the-commit-4a9o)
 <!-- BLOG-POST-LIST:END -->
 
