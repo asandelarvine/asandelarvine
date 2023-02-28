@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Teacher Feature: Christopher Lis](https://dev.to/michaellarocca/teacher-feature-christopher-lis-19n5)
+- [22 Valuable Lessons From Decade of Software Engineering](https://dev.to/codewithvoid/22-valuable-lessons-from-decade-of-software-engineering-7g2)
+- [Earn &lpar;AWS Credits&rpar; while you Learn!](https://dev.to/aws-builders/earn-aws-credits-while-you-learn-48p3)
 - [The decline of CSS Tricks](https://dev.to/robole/the-decline-of-css-tricks-1a3b)
-- [Moonly weekly progress update #38](https://dev.to/moonly/moonly-weekly-progress-update-38-3d95)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4e99)
-- [How to speed up pandas with NumPy methods](https://dev.to/deepnote/how-to-speed-up-pandas-with-numpy-methods-34pa)
 <!-- BLOG-POST-LIST:END -->
 
