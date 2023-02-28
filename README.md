@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [REST API ExceptionHandler](https://dev.to/woopository/rest-api-customexceptionhandler-4o94)
+- [Using ChatGPT to reply my Whatsapp ?](https://dev.to/cyril_ogoh/using-chatgpt-to-reply-my-whatsapp--4l8d)
 - [CodeNewbie Memes](https://dev.to/codenewbieteam/codenewbie-memes-3fbn)
 - [Discovering the Magic of CSS and HTML](https://dev.to/srhiulli/discovering-the-magic-of-css-and-html-5b8p)
-- [Building the Amplidex; A GraphQL Powered Pokedex](https://dev.to/amplication/building-the-amplidex-a-graphql-powered-pokedex-1pd2)
-- [Deploy WordPress on EC2 by WordPress AMI](https://dev.to/aws-builders/deploy-wordpress-on-ec2-by-wordpress-ami-2mog)
 <!-- BLOG-POST-LIST:END -->
 
