@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving the DynamoDB EventBridge Pipes Problem](https://dev.to/aws-builders/solving-the-dynamodb-eventbridge-pipes-problem-9ca)
 - [REST API ExceptionHandler](https://dev.to/woopository/rest-api-customexceptionhandler-4o94)
 - [Using ChatGPT to reply my Whatsapp ?](https://dev.to/cyril_ogoh/using-chatgpt-to-reply-my-whatsapp--4l8d)
 - [CodeNewbie Memes](https://dev.to/codenewbieteam/codenewbie-memes-3fbn)
-- [Discovering the Magic of CSS and HTML](https://dev.to/srhiulli/discovering-the-magic-of-css-and-html-5b8p)
 <!-- BLOG-POST-LIST:END -->
 
