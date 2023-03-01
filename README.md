@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Tips for Those Who Decide to Start a New Project on AWS](https://dev.to/roman_abdulmanov/10-tips-if-you-decide-to-start-a-project-on-aws-3ebd)
+- [What Non-Technical Skills Do You Need for a Successful Career in Tech?](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
 - [FANG Interview Success: Learn These 5 LeetCode Algorithm Patterns](https://dev.to/foxbuka/fang-interview-success-learn-these-5-leetcode-algorithm-patterns-2g2f)
 - [Liman MYS Üzerinde Reportbase Ayağa Kaldırma](https://dev.to/aciklab/liman-mys-uzerinde-reportbase-ayaga-kaldirma-35ce)
-- [7 CSS Features to Make a Responsive Website](https://dev.to/stakedesigner/7-css-features-to-make-a-responsive-website-4h19)
-- [TWA Apps - How to hide the URL Bar &lpar;Browser Bar&rpar; and Display app as full screen](https://dev.to/hyunseunglee2008/twa-apps-how-to-hide-the-url-bar-browser-bar-and-display-app-as-full-screen-4cm3)
 <!-- BLOG-POST-LIST:END -->
 
