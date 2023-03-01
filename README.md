@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the biggest mistake you&#39;ve ever made while coding?](https://dev.to/michaeltharrington/whats-the-biggest-mistake-youve-ever-made-while-coding-12n2)
-- [Improving Website Performance with AWS CloudFront](https://dev.to/blst-security/improving-website-performance-with-aws-cloudfront-ph)
-- [Become Proficient in Python](https://dev.to/ritapossible/become-proficient-in-python-3ke5)
-- [Why should you take part in a Hackathon?](https://dev.to/keracudmore/why-should-you-take-part-in-a-hackathon-3joj)
+- [How to save a string to clipboard in JavaScript](https://dev.to/david_bilsonn/how-to-save-a-string-to-clipboard-in-javascript-13ie)
+- [Automate Docker Image Builds and Push to Docker Hub Using GitHub Actions 🐳🐙](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-docker-hub-using-github-actions-32g5)
+- [Next.js 13 special files, data fetching and head tag — page, layout and template](https://dev.to/oskidev/nextjs-13-special-files-data-fetching-and-head-tag-page-layout-and-template-1hh)
+- [The Price Developers Pay for Loving Their Tools Too Much](https://dev.to/remotesynth/the-price-developers-pay-for-loving-their-tools-too-much-1f0a)
 <!-- BLOG-POST-LIST:END -->
 
