@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn How to Setup a CI/CD Pipeline from Scratch](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
+- [Git Work Trees](https://dev.to/bsrz/git-work-trees-fg9)
+- [Kubernetes 101, part II, pods](https://dev.to/leandronsp/kubernetes-101-part-ii-pods-19pb)
 - [My Journey into the Cloud Computing](https://dev.to/aws-builders/my-journey-into-the-cloud-computing-3ppl)
-- [Components of DevOps](https://dev.to/abhixsh/components-of-devops-2394)
-- [Building a real-time chat application using MERN stack and Socket.IO](https://dev.to/bhavik786/building-a-real-time-chat-application-using-mern-stack-and-socketio-1obn)
-- [My First Bug](https://dev.to/alvaromontoro/my-first-bug-27c7)
 <!-- BLOG-POST-LIST:END -->
 
