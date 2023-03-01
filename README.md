@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeNewbie Podcast, S23:E4 — Saying Yes to Opportunities](https://dev.to/codenewbieteam/codenewbie-podcast-s23e4-saying-yes-to-opportunities-15ik)
+- [Upgrade text-davinci-003 to gpt-3.5-turbo](https://dev.to/luckey/how-to-upgrade-text-davinci-003-to-gpt-35-turbo-2b6e)
 - [Create a Personalized Chatbot 🎙🤖 with Langchain 🦜🔗 in Three simple steps ⚡️](https://dev.to/ironcladdev/create-a-personalized-chatbot-with-langchain-in-three-simple-steps-p4g)
 - [10 famous Machine Learning Optimizers](https://dev.to/amananandrai/10-famous-machine-learning-optimizers-1e22)
-- [OpenAI announces ChatGPT and Whisper APIs](https://dev.to/ben/openai-announces-chatgpt-and-whisper-apis-304i)
-- [JavaScript DOM Manipulation Cheatsheet✨](https://dev.to/codewithtee/javascript-dom-manipulation-cheatsheet-2d18)
 <!-- BLOG-POST-LIST:END -->
 
