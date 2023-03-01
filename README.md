@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn serverless on AWS step-by-step - Databases](https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-databases-kkg)
-- [Python tips and tricks](https://dev.to/abdulmuminyqn/python-tips-and-tricks-1n1g)
-- [5 essential automated testing tools for Node.js](https://dev.to/zvone187/5-essential-automated-testing-tools-for-nodejs-14lj)
-- [Utilizando o Docker para potencializar Github Actions](https://dev.to/nathsouzadev/utilizando-o-docker-para-potencializar-github-actions-2c7c)
+- [Closing, Cloning, or Disabling the Shadow DOM](https://dev.to/jenc/closing-cloning-or-disabling-the-shadow-dom-2m00)
+- [How to Linux with HacktheBox Tool](https://dev.to/patilganesh1010/how-to-linux-with-hackthebox-tool-58o4)
+- [var, let or const: what&#39;s the real difference?](https://dev.to/ppiippaa/var-let-or-const-whats-the-real-difference-37l9)
+- [Learn serverless on AWS step-by-step - Databases](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-databases-kkg)
 <!-- BLOG-POST-LIST:END -->
 
