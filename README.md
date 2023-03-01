@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FANG Interview Success: Learn These 5 LeetCode Algorithm Patterns](https://dev.to/foxbuka/fang-interview-success-learn-these-5-leetcode-algorithm-patterns-2g2f)
+- [Liman MYS Üzerinde Reportbase Ayağa Kaldırma](https://dev.to/aciklab/liman-mys-uzerinde-reportbase-ayaga-kaldirma-35ce)
 - [7 CSS Features to Make a Responsive Website](https://dev.to/stakedesigner/7-css-features-to-make-a-responsive-website-4h19)
 - [TWA Apps - How to hide the URL Bar &lpar;Browser Bar&rpar; and Display app as full screen](https://dev.to/hyunseunglee2008/twa-apps-how-to-hide-the-url-bar-browser-bar-and-display-app-as-full-screen-4cm3)
-- [Learn How to Setup a CI/CD Pipeline from Scratch](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
-- [Git Work Trees](https://dev.to/bsrz/git-work-trees-fg9)
 <!-- BLOG-POST-LIST:END -->
 
