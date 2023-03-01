@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Components of DevOps](https://dev.to/abhixsh/components-of-devops-2394)
+- [Building a real-time chat application using MERN stack and Socket.IO](https://dev.to/bhavik786/building-a-real-time-chat-application-using-mern-stack-and-socketio-1obn)
 - [What does SSO Actually Mean?](https://dev.to/propelauth/what-does-sso-actually-mean-3lam)
 - [Use the json module to easily serialize and deserialize JSON data in Python.](https://dev.to/anurag629/use-the-json-module-to-easily-serialize-and-deserialize-json-data-in-python-3j0m)
-- [Top 5 AI-Powered Image Generation Tools for Creating High-Quality Images](https://dev.to/amananandrai/top-5-ai-powered-image-generation-tools-for-creating-high-quality-images-2n89)
-- [Using Virtual Color Mixing to Extend Your Palette in React/JavaScript](https://dev.to/bytebodger/using-virtual-color-mixing-to-extend-your-palette-in-reactjavascript-l41)
 <!-- BLOG-POST-LIST:END -->
 
