@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use the json module to easily serialize and deserialize JSON data in Python.](https://dev.to/anurag629/use-the-json-module-to-easily-serialize-and-deserialize-json-data-in-python-3j0m)
+- [Top 5 AI-Powered Image Generation Tools for Creating High-Quality Images](https://dev.to/amananandrai/top-5-ai-powered-image-generation-tools-for-creating-high-quality-images-2n89)
+- [Using Virtual Color Mixing to Extend Your Palette in React/JavaScript](https://dev.to/bytebodger/using-virtual-color-mixing-to-extend-your-palette-in-reactjavascript-l41)
 - [Speed Up Cypress Testing of NextAuth Secured Web Apps](https://dev.to/cowofevil/speed-up-cypress-testing-of-nextauth-secured-web-apps-10a0)
-- [Trending Python repos of the week 📈](https://dev.to/quine/trending-python-repos-of-the-week-lh0)
-- [C# FileStream For Lazy Developers In A Hurry. The Bare Minimum](https://dev.to/gustavupp/c-filestream-for-lazy-developers-in-a-hurry-the-bare-minimum-3ic9)
-- [JavaScript Tutorial Series: Intro to JS DOM](https://dev.to/fullstackjo/javascript-tutorial-series-intro-to-js-dom-3j28)
 <!-- BLOG-POST-LIST:END -->
 
