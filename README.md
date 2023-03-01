@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Expense Approval System Built with Python](https://dev.to/anvil/an-expense-approval-system-built-with-python-3mlg)
-- [Instant merge conflict detection in VS Code](https://dev.to/gitlive/instant-merge-conflict-detection-in-vs-code-420o)
-- [This Week In React #134: Gatsby ️ Netlify, React DOM for Native, XState, Flashlight, re-renders, Custom Hooks...](https://dev.to/sebastienlorber/this-week-in-react-134-gatsby-netlify-react-dom-for-native-xstate-flashlight-re-renders-custom-hooks-joo)
-- [These courses will help you land your first job for less than $100](https://dev.to/albert_hadacek/these-courses-will-help-you-land-your-first-job-for-less-than-100-16ph)
+- [What&#39;s the biggest mistake you&#39;ve ever made while coding?](https://dev.to/michaeltharrington/whats-the-biggest-mistake-youve-ever-made-while-coding-12n2)
+- [Improving Website Performance with AWS CloudFront](https://dev.to/blst-security/improving-website-performance-with-aws-cloudfront-ph)
+- [Become Proficient in Python](https://dev.to/ritapossible/become-proficient-in-python-3ke5)
+- [Why should you take part in a Hackathon?](https://dev.to/keracudmore/why-should-you-take-part-in-a-hackathon-3joj)
 <!-- BLOG-POST-LIST:END -->
 
