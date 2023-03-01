@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Love Do Untils in Power Automate](https://dev.to/wyattdave/why-you-should-love-do-untils-in-power-automate-3ic8)
+- [Making GraphQL Codegen Work For You: GraphQL Integration with React and TypeScript](https://dev.to/novu/making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm)
 - [Convert HTML To Notion Blocks](https://dev.to/zirkelc/convert-html-to-notion-blocks-3fcm)
 - [IQ Testlerinde Başarılı Olmak İçin İpuçları ve Stratejiler](https://dev.to/iqsertifikasi/iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi)
-- [Usability Testing: The Key to Creating User-Friendly and Effective Products](https://dev.to/msmello_/usability-testing-the-key-to-creating-user-friendly-and-effective-products-5fke)
-- [Take Your Code to The Other Side](https://dev.to/codeofrelevancy/take-your-code-to-the-other-side-48p3)
 <!-- BLOG-POST-LIST:END -->
 
