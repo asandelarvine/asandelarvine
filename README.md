@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to save a string to clipboard in JavaScript](https://dev.to/david_bilsonn/how-to-save-a-string-to-clipboard-in-javascript-13ie)
-- [Automate Docker Image Builds and Push to Docker Hub Using GitHub Actions 🐳🐙](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-docker-hub-using-github-actions-32g5)
-- [Next.js 13 special files, data fetching and head tag — page, layout and template](https://dev.to/oskidev/nextjs-13-special-files-data-fetching-and-head-tag-page-layout-and-template-1hh)
-- [The Price Developers Pay for Loving Their Tools Too Much](https://dev.to/remotesynth/the-price-developers-pay-for-loving-their-tools-too-much-1f0a)
+- [JavaScript DOM Manipulation Cheatsheet✨](https://dev.to/codewithtee/javascript-dom-manipulation-cheatsheet-2d18)
+- [Mastering Semantic HTML: A Guide to Using All 16 Semantic Tags with Example](https://dev.to/sidramaqbool/mastering-semantic-html-a-guide-to-using-all-16-semantic-tags-with-example-2imh)
+- [React vs Signals: 10 Years Later](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71)
+- [What is indexing in DB?](https://dev.to/ahmadraza/what-is-indexing-in-db-1pdj)
 <!-- BLOG-POST-LIST:END -->
 
