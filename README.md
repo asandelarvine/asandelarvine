@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Personalized Chatbot 🎙🤖 with Langchain 🦜🔗 in Three simple steps ⚡️](https://dev.to/ironcladdev/create-a-personalized-chatbot-with-langchain-in-three-simple-steps-p4g)
 - [10 famous Machine Learning Optimizers](https://dev.to/amananandrai/10-famous-machine-learning-optimizers-1e22)
 - [OpenAI announces ChatGPT and Whisper APIs](https://dev.to/ben/openai-announces-chatgpt-and-whisper-apis-304i)
 - [JavaScript DOM Manipulation Cheatsheet✨](https://dev.to/codewithtee/javascript-dom-manipulation-cheatsheet-2d18)
-- [Mastering Semantic HTML: A Guide to Using All 16 Semantic Tags with Example](https://dev.to/sidramaqbool/mastering-semantic-html-a-guide-to-using-all-16-semantic-tags-with-example-2imh)
 <!-- BLOG-POST-LIST:END -->
 
