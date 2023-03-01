@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Tips for Those Who Decide to Start a New Project on AWS](https://dev.to/roman_abdulmanov/10-tips-if-you-decide-to-start-a-project-on-aws-3ebd)
-- [What Non-Technical Skills Do You Need for a Successful Career in Tech?](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
-- [FANG Interview Success: Learn These 5 LeetCode Algorithm Patterns](https://dev.to/foxbuka/fang-interview-success-learn-these-5-leetcode-algorithm-patterns-2g2f)
-- [Liman MYS Üzerinde Reportbase Ayağa Kaldırma](https://dev.to/aciklab/liman-mys-uzerinde-reportbase-ayaga-kaldirma-35ce)
+- [Usability Testing: The Key to Creating User-Friendly and Effective Products](https://dev.to/msmello_/usability-testing-the-key-to-creating-user-friendly-and-effective-products-5fke)
+- [Take Your Code to The Other Side](https://dev.to/codeofrelevancy/take-your-code-to-the-other-side-48p3)
+- [Top 5+ Free Tailwind CSS React Admin Dashboards &amp; Templates for 2023](https://dev.to/fredy/top-5-free-tailwind-css-react-admin-dashboards-templates-for-2023-ob)
+- [Python Django User Interface](https://dev.to/cyborglaksh/python-django-user-interface-b87)
 <!-- BLOG-POST-LIST:END -->
 
