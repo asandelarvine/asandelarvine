@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Closing, Cloning, or Disabling the Shadow DOM](https://dev.to/jenc/closing-cloning-or-disabling-the-shadow-dom-2m00)
-- [How to Linux with HacktheBox Tool](https://dev.to/patilganesh1010/how-to-linux-with-hackthebox-tool-58o4)
-- [var, let or const: what&#39;s the real difference?](https://dev.to/ppiippaa/var-let-or-const-whats-the-real-difference-37l9)
-- [Learn serverless on AWS step-by-step - Databases](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-databases-kkg)
+- [An Expense Approval System Built with Python](https://dev.to/anvil/an-expense-approval-system-built-with-python-3mlg)
+- [Instant merge conflict detection in VS Code](https://dev.to/gitlive/instant-merge-conflict-detection-in-vs-code-420o)
+- [This Week In React #134: Gatsby ️ Netlify, React DOM for Native, XState, Flashlight, re-renders, Custom Hooks...](https://dev.to/sebastienlorber/this-week-in-react-134-gatsby-netlify-react-dom-for-native-xstate-flashlight-re-renders-custom-hooks-joo)
+- [These courses will help you land your first job for less than $100](https://dev.to/albert_hadacek/these-courses-will-help-you-land-your-first-job-for-less-than-100-16ph)
 <!-- BLOG-POST-LIST:END -->
 
