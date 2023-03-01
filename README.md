@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Love Do Untils in Power Automate](https://dev.to/wyattdave/why-you-should-love-do-untils-in-power-automate-3ic8)
-- [Making GraphQL Codegen Work For You: GraphQL Integration with React and TypeScript](https://dev.to/novu/making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm)
-- [Convert HTML To Notion Blocks](https://dev.to/zirkelc/convert-html-to-notion-blocks-3fcm)
-- [IQ Testlerinde Başarılı Olmak İçin İpuçları ve Stratejiler](https://dev.to/iqsertifikasi/iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi)
+- [Learn serverless on AWS step-by-step - Databases](https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-databases-kkg)
+- [Python tips and tricks](https://dev.to/abdulmuminyqn/python-tips-and-tricks-1n1g)
+- [5 essential automated testing tools for Node.js](https://dev.to/zvone187/5-essential-automated-testing-tools-for-nodejs-14lj)
+- [Utilizando o Docker para potencializar Github Actions](https://dev.to/nathsouzadev/utilizando-o-docker-para-potencializar-github-actions-2c7c)
 <!-- BLOG-POST-LIST:END -->
 
