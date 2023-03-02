@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Truthy And Falsy Value In JavaScript.](https://dev.to/azadulkabir455/truthy-and-falsy-value-in-javascript-4gjg)
 - [How to build a Twitter sentiment analysis data pipeline?](https://dev.to/hirendhaduk_/how-to-build-a-twitter-sentiment-analysis-data-pipeline-5cb9)
 - [What Everyone Ought to Know About Singelton design pattern](https://dev.to/abhiram55545309/what-everyone-ought-to-know-about-singelton-design-pattern-387d)
-- [Reducing Color Depth with React/JavaScript](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
-- [5 APIs every front-end developer should know.](https://dev.to/amissah17/5-apis-every-front-end-developer-should-know-49en)
+- [How to deploy a React App using Firebase Hosting](https://dev.to/alvisonhunter/how-to-deploy-a-react-app-using-firebase-hosting-ga6)
 <!-- BLOG-POST-LIST:END -->
 
