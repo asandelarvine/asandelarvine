@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Top 20 VS Code Shortcuts You Should Know](https://dev.to/itsdchanda/top-20-vs-code-shortcuts-you-should-know-kfc)
 - [Background jobs for Kemal server in Crystal lang](https://dev.to/fdocr/background-jobs-for-kemal-server-in-crystal-lang-53j5)
+- [CRUD Application - PHP Project](https://dev.to/madhubankhatri/crud-application-php-project-4llg)
 - [Netex Aktif Tarama Nasıl Yapılır?](https://dev.to/aciklab/netex-aktif-tarama-nasil-yapilir-3196)
-- [Netex, AD Kaynağı Ekleme ve Kullanımı](https://dev.to/aciklab/ad-kaynagi-ekleme-ve-kullanimi-ga2)
 <!-- BLOG-POST-LIST:END -->
 
