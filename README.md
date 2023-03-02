@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reducing Color Depth with React/JavaScript](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
 - [Fetching YouTube videos to your GitHub README with GitHub Actions](https://dev.to/blueycode/fetching-youtube-videos-to-your-github-readme-with-github-actions-2d75)
 - [Creating Web Accessibility: CSS Best Practices](https://dev.to/frontend_jedi/creating-web-accessibility-css-best-practices-46fm)
 - [Deploying Spring Boot Application on Heroku and connecting the app to MongoDB Atlas](https://dev.to/vuchuru27916/hosting-spring-boot-on-heroku-and-mongodb-on-mongodb-atlas-g8l)
-- [Step by step: Multi-Tenant App with Next.js](https://dev.to/iskurbanov/step-by-step-multi-tenant-app-with-nextjs-2mbc)
 <!-- BLOG-POST-LIST:END -->
 
