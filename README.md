@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WHY I BELIEVE IN CROSS-PLATFORM TECHNOLOGIES](https://dev.to/alexcoding42/why-i-believe-in-cross-platform-technologies-4kmd)
-- [Get All Results from DynamoDB Queries Easily!](https://dev.to/thebenforce/get-all-results-from-dynamodb-queries-easily-9j5)
-- [CodeNewbie Podcast, S23:E4 — Saying Yes to Opportunities](https://dev.to/codenewbieteam/codenewbie-podcast-s23e4-saying-yes-to-opportunities-15ik)
-- [Accordion II - JS](https://dev.to/986913/accordion-ii-js-1640)
+- [Fetching YouTube videos to your GitHub README with GitHub Actions](https://dev.to/blueycode/fetching-youtube-videos-to-your-github-readme-with-github-actions-2d75)
+- [Creating Web Accessibility: CSS Best Practices](https://dev.to/frontend_jedi/creating-web-accessibility-css-best-practices-46fm)
+- [Deploying Spring Boot Application on Heroku and connecting the app to MongoDB Atlas](https://dev.to/vuchuru27916/hosting-spring-boot-on-heroku-and-mongodb-on-mongodb-atlas-g8l)
+- [Step by step: Multi-Tenant App with Next.js](https://dev.to/iskurbanov/step-by-step-multi-tenant-app-with-nextjs-2mbc)
 <!-- BLOG-POST-LIST:END -->
 
