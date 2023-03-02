@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make your security policy auditable](https://dev.to/apisix/make-your-security-policy-auditable-5o8)
+- [A Response Measure to the Security Threat of Virtual Space App](https://dev.to/teamliapp/a-response-measure-to-the-security-threat-of-virtual-space-app-5c35)
+- [How to compare mongoose model objects in jest while excluding _id](https://dev.to/codever/how-to-compare-mongoose-model-objects-in-jest-while-excluding-id-gj8)
 - [Truthy And Falsy Value In JavaScript.](https://dev.to/azadulkabir455/truthy-and-falsy-value-in-javascript-4gjg)
-- [How to build a Twitter sentiment analysis data pipeline?](https://dev.to/hirendhaduk_/how-to-build-a-twitter-sentiment-analysis-data-pipeline-5cb9)
-- [What Everyone Ought to Know About Singelton design pattern](https://dev.to/abhiram55545309/what-everyone-ought-to-know-about-singelton-design-pattern-387d)
-- [How to deploy a React App using Firebase Hosting](https://dev.to/alvisonhunter/how-to-deploy-a-react-app-using-firebase-hosting-ga6)
 <!-- BLOG-POST-LIST:END -->
 
