@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Django? - MVT Model](https://dev.to/cyborglaksh/why-django-mvt-model-5f51)
 - [Did you know in HTML ...](https://dev.to/invulner/did-you-know-in-html--11j1)
 - [Como resolver conflitos de Merge no GitHub](https://dev.to/github/como-resolver-conflitos-de-merge-no-github-4f5n)
 - [Google Coding Interview Solution 🔥](https://dev.to/onecodemann/google-coding-interview-solution-1d7f)
-- [February Stripe Developer Digest](https://dev.to/stripe/february-stripe-developer-digest-5f98)
 <!-- BLOG-POST-LIST:END -->
 
