@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Django? - MVT Model](https://dev.to/cyborglaksh/why-django-mvt-model-5f51)
+- [ZERO TO ONE.](https://dev.to/aron_langat/zero-to-one-n38)
+- [How to authenticate with Kerberos using .NET](https://dev.to/lucaspsilveira/how-to-authenticate-with-kerberos-using-net-2gh2)
 - [Did you know in HTML ...](https://dev.to/invulner/did-you-know-in-html--11j1)
-- [Como resolver conflitos de Merge no GitHub](https://dev.to/github/como-resolver-conflitos-de-merge-no-github-4f5n)
-- [Google Coding Interview Solution 🔥](https://dev.to/onecodemann/google-coding-interview-solution-1d7f)
 <!-- BLOG-POST-LIST:END -->
 
