@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 VS Code Shortcuts You Should Know](https://dev.to/itsdchanda/top-20-vs-code-shortcuts-you-should-know-kfc)
-- [Background jobs for Kemal server in Crystal lang](https://dev.to/fdocr/background-jobs-for-kemal-server-in-crystal-lang-53j5)
-- [CRUD Application - PHP Project](https://dev.to/madhubankhatri/crud-application-php-project-4llg)
-- [Netex Aktif Tarama Nasıl Yapılır?](https://dev.to/aciklab/netex-aktif-tarama-nasil-yapilir-3196)
+- [8 Meta-learning Tips To Grow Your Skills as a Software Engineer](https://dev.to/zenstack/8-meta-learning-tips-to-grow-your-skills-as-a-software-engineer-g0n)
+- [How to Build Real-time Weather App Using Vanilla JavaScript and API](https://dev.to/codewithsadee/how-to-build-real-time-weather-app-using-vanilla-javascript-and-api-4j21)
+- [How I Built an Android Ecommerce App with Medusa](https://dev.to/medusajs/how-i-built-an-android-ecommerce-app-with-medusa-251b)
+- [Extracting and using Critical CSS on my Eleventy site](https://dev.to/starbist/extracting-and-using-critical-css-on-my-eleventy-site-457c)
 <!-- BLOG-POST-LIST:END -->
 
