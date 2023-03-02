@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made an admin dashboard for React using Tailwind CSS! Use it for free! ⚡️](https://dev.to/fredy/i-made-an-admin-dashboard-for-react-using-tailwind-css-use-it-for-free-49o)
-- [Strategy Design Pattern with Spring Boot + Kotlin - Cleaner code with no boilerplate](https://dev.to/krud/strategy-design-pattern-with-spring-boot-kotlin-cleaner-code-with-no-boilerplate-2id1)
-- [Build a ToDo App With React and Firebase](https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1)
-- [Cloud Technology News of the Month: March 2023](https://dev.to/castai/cloud-technology-news-of-the-month-march-2023-4c7k)
+- [Server-render your SPA in CI at deploy time 📸](https://dev.to/bryce/server-render-your-spa-in-ci-at-deploy-time-2798)
+- [Why i have grown to hate css libaries](https://dev.to/mudakikwa/fuck-css-libraries-gpd)
+- [Understanding Technical Debt in Software Development](https://dev.to/timonwa/understanding-technical-debt-in-software-development-2cga)
+- [A Quick Guide to Riverpod Data Caching and Provider Lifecycles](https://dev.to/kuldeeptarapara/a-quick-guide-to-riverpod-data-caching-and-provider-lifecycles-5enf)
 <!-- BLOG-POST-LIST:END -->
 
