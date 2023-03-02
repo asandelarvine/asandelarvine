@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks: A Comprehensive Guide for Building Scalable Web Applications](https://dev.to/crossskatee1/react-hooks-a-comprehensive-guide-for-building-scalable-web-applications-27mn)
-- [Bulk IP Lookup](https://dev.to/smartseotools/bulk-ip-lookup-539c)
-- [AWS Patch Management](https://dev.to/sagar0419/aws-patch-management-28g)
-- [How to Create Kubernetes Clusters on AWS](https://dev.to/rejoice/how-to-create-kubernetes-clusters-on-aws-3d07)
+- [I made an admin dashboard for React using Tailwind CSS! Use it for free! ⚡️](https://dev.to/fredy/i-made-an-admin-dashboard-for-react-using-tailwind-css-use-it-for-free-49o)
+- [Strategy Design Pattern with Spring Boot + Kotlin - Cleaner code with no boilerplate](https://dev.to/krud/strategy-design-pattern-with-spring-boot-kotlin-cleaner-code-with-no-boilerplate-2id1)
+- [Build a ToDo App With React and Firebase](https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1)
+- [Cloud Technology News of the Month: March 2023](https://dev.to/castai/cloud-technology-news-of-the-month-march-2023-4c7k)
 <!-- BLOG-POST-LIST:END -->
 
