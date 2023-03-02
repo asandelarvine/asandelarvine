@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-render your SPA in CI at deploy time 📸](https://dev.to/bryce/server-render-your-spa-in-ci-at-deploy-time-2798)
-- [Why i have grown to hate css libaries](https://dev.to/mudakikwa/fuck-css-libraries-gpd)
-- [Understanding Technical Debt in Software Development](https://dev.to/timonwa/understanding-technical-debt-in-software-development-2cga)
-- [A Quick Guide to Riverpod Data Caching and Provider Lifecycles](https://dev.to/kuldeeptarapara/a-quick-guide-to-riverpod-data-caching-and-provider-lifecycles-5enf)
+- [Background jobs for Kemal server in Crystal lang](https://dev.to/fdocr/background-jobs-for-kemal-server-in-crystal-lang-53j5)
+- [Netex Aktif Tarama Nasıl Yapılır?](https://dev.to/aciklab/netex-aktif-tarama-nasil-yapilir-3196)
+- [Netex, AD Kaynağı Ekleme ve Kullanımı](https://dev.to/aciklab/ad-kaynagi-ekleme-ve-kullanimi-ga2)
+- [Netex Sensöre DHCP Rolünü Ekleme](https://dev.to/aciklab/netex-sensore-dhcp-rolunu-ekleme-2f06)
 <!-- BLOG-POST-LIST:END -->
 
