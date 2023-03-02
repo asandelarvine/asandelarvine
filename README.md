@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your security policy auditable](https://dev.to/apisix/make-your-security-policy-auditable-5o8)
-- [A Response Measure to the Security Threat of Virtual Space App](https://dev.to/teamliapp/a-response-measure-to-the-security-threat-of-virtual-space-app-5c35)
-- [How to compare mongoose model objects in jest while excluding _id](https://dev.to/codever/how-to-compare-mongoose-model-objects-in-jest-while-excluding-id-gj8)
-- [Truthy And Falsy Value In JavaScript.](https://dev.to/azadulkabir455/truthy-and-falsy-value-in-javascript-4gjg)
+- [React Hooks: A Comprehensive Guide for Building Scalable Web Applications](https://dev.to/crossskatee1/react-hooks-a-comprehensive-guide-for-building-scalable-web-applications-27mn)
+- [Bulk IP Lookup](https://dev.to/smartseotools/bulk-ip-lookup-539c)
+- [AWS Patch Management](https://dev.to/sagar0419/aws-patch-management-28g)
+- [How to Create Kubernetes Clusters on AWS](https://dev.to/rejoice/how-to-create-kubernetes-clusters-on-aws-3d07)
 <!-- BLOG-POST-LIST:END -->
 
