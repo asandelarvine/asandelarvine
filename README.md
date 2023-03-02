@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Django? - MVT Model](https://dev.to/cyborglaksh/why-django-mvt-model-5f51)
-- [ZERO TO ONE.](https://dev.to/aron_langat/zero-to-one-n38)
-- [How to authenticate with Kerberos using .NET](https://dev.to/lucaspsilveira/how-to-authenticate-with-kerberos-using-net-2gh2)
-- [Did you know in HTML ...](https://dev.to/invulner/did-you-know-in-html--11j1)
+- [Web Scraping With Puppeteer for Total Noobs: Part 3](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0)
+- [Foundry: open source contribution](https://dev.to/teddav/foundry-open-source-contribution-1k2d)
+- [Choosing Between ReactJS and VueJS: A Developer&#39;s Guide.](https://dev.to/alekiie/choosing-between-reactjs-and-vuejs-a-developers-guide-4bpp)
+- [Weekly Challenge #1 - Calc-You-Later](https://dev.to/codenewbieteam/weekly-challenge-1-calc-you-later-11ed)
 <!-- BLOG-POST-LIST:END -->
 
