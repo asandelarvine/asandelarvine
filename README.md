@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Meta-learning Tips To Grow Your Skills as a Software Engineer](https://dev.to/zenstack/8-meta-learning-tips-to-grow-your-skills-as-a-software-engineer-g0n)
-- [How to Build Real-time Weather App Using Vanilla JavaScript and API](https://dev.to/codewithsadee/how-to-build-real-time-weather-app-using-vanilla-javascript-and-api-4j21)
-- [How I Built an Android Ecommerce App with Medusa](https://dev.to/medusajs/how-i-built-an-android-ecommerce-app-with-medusa-251b)
-- [Extracting and using Critical CSS on my Eleventy site](https://dev.to/starbist/extracting-and-using-critical-css-on-my-eleventy-site-457c)
+- [Learn React Server Components in 7 easy to follow steps](https://dev.to/kulkarniankita9/learn-react-server-components-in-7-easy-to-follow-steps-52mb)
+- [Free resources that helped me master React as a Self Taught Web Developer](https://dev.to/asheeshh/free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-58k2)
+- [Welcome Thread - v215](https://dev.to/michaeltharrington/welcome-thread-v215-22n7)
+- [Paint-by-Numbers From Digital Images With React/JavaScript](https://dev.to/bytebodger/create-paint-by-numbers-from-digital-images-with-reactjavascript-2dc9)
 <!-- BLOG-POST-LIST:END -->
 
