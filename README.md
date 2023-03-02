@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own Tana clone with this new frontend](https://dev.to/progrium/build-your-own-tana-clone-with-this-new-frontend-15ao)
+- [Create Better Content with These AI Tools](https://dev.to/olanetsoft/create-better-content-with-these-ai-tools-305m)
+- [Connect to a PostgreSQL database&lpar;python&rpar;.](https://dev.to/ayon_ssp/connect-to-a-postgresql-databasepython-4fkd)
 - [Learn React Server Components in 7 easy to follow steps](https://dev.to/kulkarniankita9/learn-react-server-components-in-7-easy-to-follow-steps-52mb)
-- [Free resources that helped me master React as a Self Taught Web Developer](https://dev.to/asheeshh/free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-58k2)
-- [Welcome Thread - v215](https://dev.to/michaeltharrington/welcome-thread-v215-22n7)
-- [Paint-by-Numbers From Digital Images With React/JavaScript](https://dev.to/bytebodger/create-paint-by-numbers-from-digital-images-with-reactjavascript-2dc9)
 <!-- BLOG-POST-LIST:END -->
 
