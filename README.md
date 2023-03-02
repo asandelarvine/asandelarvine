@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Reducing Color Depth with React/JavaScript](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
+- [5 APIs every front-end developer should know.](https://dev.to/amissah17/5-apis-every-front-end-developer-should-know-49en)
+- [25 Fun and Useful ReactJS Project Ideas for Beginners](https://dev.to/xaypanya/25-fun-and-useful-reactjs-project-ideas-for-beginners-2ckm)
 - [Fetching YouTube videos to your GitHub README with GitHub Actions](https://dev.to/blueycode/fetching-youtube-videos-to-your-github-readme-with-github-actions-2d75)
-- [Creating Web Accessibility: CSS Best Practices](https://dev.to/frontend_jedi/creating-web-accessibility-css-best-practices-46fm)
-- [Deploying Spring Boot Application on Heroku and connecting the app to MongoDB Atlas](https://dev.to/vuchuru27916/hosting-spring-boot-on-heroku-and-mongodb-on-mongodb-atlas-g8l)
 <!-- BLOG-POST-LIST:END -->
 
