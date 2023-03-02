@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your own Tana clone with this new frontend](https://dev.to/progrium/build-your-own-tana-clone-with-this-new-frontend-15ao)
-- [Create Better Content with These AI Tools](https://dev.to/olanetsoft/create-better-content-with-these-ai-tools-305m)
-- [Connect to a PostgreSQL database&lpar;python&rpar;.](https://dev.to/ayon_ssp/connect-to-a-postgresql-databasepython-4fkd)
-- [Learn React Server Components in 7 easy to follow steps](https://dev.to/kulkarniankita9/learn-react-server-components-in-7-easy-to-follow-steps-52mb)
+- [Did you know in HTML ...](https://dev.to/invulner/did-you-know-in-html--11j1)
+- [Como resolver conflitos de Merge no GitHub](https://dev.to/github/como-resolver-conflitos-de-merge-no-github-4f5n)
+- [Google Coding Interview Solution 🔥](https://dev.to/onecodemann/google-coding-interview-solution-1d7f)
+- [February Stripe Developer Digest](https://dev.to/stripe/february-stripe-developer-digest-5f98)
 <!-- BLOG-POST-LIST:END -->
 
