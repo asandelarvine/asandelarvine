@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing Your First Programming Language: A Beginner’s Guide](https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04)
+- [One easy way to set the name in jest repetitive tests &lpar;test.each&rpar;](https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah)
 - [AWS Redshift advantages and use cases](https://dev.to/aws-builders/aws-redshift-advantages-and-use-cases-183n)
 - [Best Practices for Building a Validation Layer in Go](https://dev.to/ansu/best-practices-for-building-a-validation-layer-in-go-59j9)
-- [My Favorite Free Courses to Learn DevOps in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m)
-- [IP Address in Networking](https://dev.to/kirancg777/ip-address-in-networking-1le5)
 <!-- BLOG-POST-LIST:END -->
 
