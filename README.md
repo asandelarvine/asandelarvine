@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeding your database with Prisma ORM](https://dev.to/isnan__h/seeding-your-database-with-prisma-orm-935)
+- [How To Easily Seed Data Into MongoDB Using Faker](https://dev.to/fredabod/how-to-easily-seed-data-into-mongodb-using-faker-2fni)
 - [How to Convert Decimal to Hexadecimal in JavaScript and Python](https://dev.to/nielsenjared/how-to-convert-decimal-to-hexadecimal-in-javascript-and-python-4758)
 - [AI generated git commit messages](https://dev.to/bdougieyo/ai-generated-git-commit-messages-4j7g)
-- [What I learned as a Product Manager while creating my product](https://dev.to/dimanikulin/what-i-learned-as-a-product-manager-while-creating-my-product-3fom)
-- [How Woovi Developers are using ChatGPT to move faster?](https://dev.to/woovi/how-woovi-developers-are-using-chatgpt-to-move-faster-1b57)
 <!-- BLOG-POST-LIST:END -->
 
