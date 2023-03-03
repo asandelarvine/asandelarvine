@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 Free CSS Resources](https://dev.to/rutikkpatel/top-8-free-css-resources-55bc)
-- [ASP.NET vs Node.js: Choosing the Right Technology for Your Web Application](https://dev.to/bookerrjanee/aspnet-vs-nodejs-choosing-the-right-technology-for-your-web-application-493a)
-- [Appwrite OSS Fund Sponsors Flame Engine](https://dev.to/appwrite/appwrite-oss-fund-sponsors-flame-engine-5hi2)
-- [ZSH + Oh My ZSH! on Windows with WSL](https://dev.to/equiman/zsh-on-windows-with-wsl-1jck)
+- [What new CSS and JavaScript features can we expect soon? Or is it all unexpected?](https://dev.to/robole/what-new-css-and-javascript-features-can-we-expect-soon-or-is-it-all-unexpected-2o7b)
+- [A Full CSS Guide with Samples | Best For Beginners](https://dev.to/dhruvjoshi9/a-full-css-guide-with-samples-best-for-beginners-n64)
+- [My Nim Development Weekly Report &lpar;2/26&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-226-47ai)
+- [My Nim Development Weekly Report &lpar;2/19&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-219-1mhm)
 <!-- BLOG-POST-LIST:END -->
 
