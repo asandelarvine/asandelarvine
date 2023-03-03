@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt templates and task chains](https://dev.to/neuml/prompt-templates-and-task-chains-57m8)
-- [You should have a newsletter platform to make $$$$](https://dev.to/shreyvijayvargiya/you-should-have-a-newsletter-platform-to-make--2pp2)
-- [Creating Safer Containerized PHP Runtimes with Wolfi](https://dev.to/erikaheidi/creating-safer-containerized-php-runtime-environments-with-wolfi-1ioa)
-- [How to test with RSpec: an extensive beginners guide](https://dev.to/charliekroon/how-to-test-with-rspec-an-extensive-beginners-guide-93d)
+- [The Downsides of New Technology Come Fast and Furious &lpar;Let&#39;s talk about AI&rpar;](https://dev.to/ben/the-downsides-of-new-technology-come-fast-and-furious-lets-talk-about-ai-6bp)
+- [PagerDuty Community Update March 3, 2023](https://dev.to/pdcommunity/pagerduty-community-update-march-3-2023-1m3b)
+- [Making the Case for Signals in JavaScript](https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i)
+- [AWS Lambda Cookbook — Elevate your handler’s code — Part 1 — Logging](https://dev.to/aws-builders/aws-lambda-cookbook-elevate-your-handlers-code-part-1-logging-2m3a)
 <!-- BLOG-POST-LIST:END -->
 
