@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://dev.to/mayankvikash/how-chatgpt-helped-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying-2dgj)
+- [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1o1l)
 - [Choosing Your First Programming Language: A Beginner’s Guide](https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04)
 - [One easy way to set the name in jest repetitive tests &lpar;test.each&rpar;](https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah)
-- [AWS Redshift advantages and use cases](https://dev.to/aws-builders/aws-redshift-advantages-and-use-cases-183n)
-- [Best Practices for Building a Validation Layer in Go](https://dev.to/ansu/best-practices-for-building-a-validation-layer-in-go-59j9)
 <!-- BLOG-POST-LIST:END -->
 
