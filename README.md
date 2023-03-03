@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 8 Free CSS Resources](https://dev.to/rutikkpatel/top-8-free-css-resources-55bc)
+- [ASP.NET vs Node.js: Choosing the Right Technology for Your Web Application](https://dev.to/bookerrjanee/aspnet-vs-nodejs-choosing-the-right-technology-for-your-web-application-493a)
+- [Appwrite OSS Fund Sponsors Flame Engine](https://dev.to/appwrite/appwrite-oss-fund-sponsors-flame-engine-5hi2)
 - [ZSH + Oh My ZSH! on Windows with WSL](https://dev.to/equiman/zsh-on-windows-with-wsl-1jck)
-- [What Do You Wish You’d Known When You First Started Programming?](https://dev.to/codenewbieteam/what-do-you-wish-youd-known-when-you-first-started-programming-1p25)
-- [How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://dev.to/mayankvikash/how-chatgpt-helped-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying-2dgj)
-- [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1o1l)
 <!-- BLOG-POST-LIST:END -->
 
