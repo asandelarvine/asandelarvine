@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-20eo)
 - [How to Optimize Your Next JS App for SEO and Boost Your Rankings](https://dev.to/jay818/how-to-optimize-your-next-js-app-for-seo-and-boost-your-rankings-ip6)
 - [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-3oe6)
-- [Code splitting en React JS.](https://dev.to/franklin030601/code-splitting-en-react-js-19mc)
-- [Code splitting in React JS](https://dev.to/franklin030601/code-splitting-in-react-js-4o2g)
+- [Is your Flutter application Secured? Best Practices for Developing and Deploying Secure Flutter Apps](https://dev.to/djsmk123/is-your-flutter-application-secured-best-practices-for-developing-and-deploying-secure-flutter-apps-4njm)
 <!-- BLOG-POST-LIST:END -->
 
