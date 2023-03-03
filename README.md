@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python try exception tutorial](https://dev.to/max24816/python-try-exception-tutorial-2nlp)
-- [Python classes and objects tutorial](https://dev.to/max24816/python-class-and-objects-21k6)
-- [Install Ruby on Rails on Ubuntu](https://dev.to/ahmadraza/install-ruby-on-rails-on-ubuntu-4l5j)
-- [My first 6 months as AWS Community Builder: boosting my career and fighting Imposter Syndrome!](https://dev.to/aws-builders/boost-your-career-by-becoming-an-aws-community-builder-4hkj)
+- [Prompt templates and task chains](https://dev.to/neuml/prompt-templates-and-task-chains-57m8)
+- [You should have a newsletter platform to make $$$$](https://dev.to/shreyvijayvargiya/you-should-have-a-newsletter-platform-to-make--2pp2)
+- [Creating Safer Containerized PHP Runtimes with Wolfi](https://dev.to/erikaheidi/creating-safer-containerized-php-runtime-environments-with-wolfi-1ioa)
+- [How to test with RSpec: an extensive beginners guide](https://dev.to/charliekroon/how-to-test-with-rspec-an-extensive-beginners-guide-93d)
 <!-- BLOG-POST-LIST:END -->
 
