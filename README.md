@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What I learned as a Product Manager while creating my product](https://dev.to/dimanikulin/what-i-learned-as-a-product-manager-while-creating-my-product-3fom)
+- [How Woovi Developers are using ChatGPT to move faster?](https://dev.to/woovi/how-woovi-developers-are-using-chatgpt-to-move-faster-1b57)
 - [What new CSS and JavaScript features can we expect soon? Or is it all unexpected?](https://dev.to/robole/what-new-css-and-javascript-features-can-we-expect-soon-or-is-it-all-unexpected-2o7b)
 - [A Full CSS Guide with Samples | Best For Beginners](https://dev.to/dhruvjoshi9/a-full-css-guide-with-samples-best-for-beginners-n64)
-- [My Nim Development Weekly Report &lpar;2/26&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-226-47ai)
-- [My Nim Development Weekly Report &lpar;2/19&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-219-1mhm)
 <!-- BLOG-POST-LIST:END -->
 
