@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping With Puppeteer for Total Noobs: Part 3](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0)
-- [Foundry: open source contribution](https://dev.to/teddav/foundry-open-source-contribution-1k2d)
-- [Choosing Between ReactJS and VueJS: A Developer&#39;s Guide.](https://dev.to/alekiie/choosing-between-reactjs-and-vuejs-a-developers-guide-4bpp)
-- [Weekly Challenge #1 - Calc-You-Later](https://dev.to/codenewbieteam/weekly-challenge-1-calc-you-later-11ed)
+- [Docker Container Management](https://dev.to/waji97/docker-container-management-2fnf)
+- [Build an accordion component with Alpine.js](https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6)
+- [Month 3 of Job Searching😫](https://dev.to/taepal467/month-3-of-job-searching-2gn2)
+- [A Simple Pomodoro CLI](https://dev.to/byronsalty/a-simple-pomodoro-cli-48p0)
 <!-- BLOG-POST-LIST:END -->
 
