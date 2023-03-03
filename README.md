@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite Free Courses to Learn DevOps in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m)
+- [IP Address in Networking](https://dev.to/kirancg777/ip-address-in-networking-1le5)
+- [Overview of MVC Architectural Pattern](https://dev.to/andrewsavetchuk/overview-of-mvc-architectural-pattern-ld)
 - [Docker Container Management](https://dev.to/waji97/docker-container-management-2fnf)
-- [Build an accordion component with Alpine.js](https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6)
-- [Month 3 of Job Searching😫](https://dev.to/taepal467/month-3-of-job-searching-2gn2)
-- [A Simple Pomodoro CLI](https://dev.to/byronsalty/a-simple-pomodoro-cli-48p0)
 <!-- BLOG-POST-LIST:END -->
 
