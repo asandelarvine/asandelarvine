@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Downsides of New Technology Come Fast and Furious &lpar;Let&#39;s talk about AI&rpar;](https://dev.to/ben/the-downsides-of-new-technology-come-fast-and-furious-lets-talk-about-ai-6bp)
-- [PagerDuty Community Update March 3, 2023](https://dev.to/pdcommunity/pagerduty-community-update-march-3-2023-1m3b)
-- [Making the Case for Signals in JavaScript](https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i)
-- [AWS Lambda Cookbook — Elevate your handler’s code — Part 1 — Logging](https://dev.to/aws-builders/aws-lambda-cookbook-elevate-your-handlers-code-part-1-logging-2m3a)
+- [Supercharge Your HTML&amp;CSS Workflow With Pug and TailwindCSS](https://dev.to/jessewei/supercharge-your-htmlcss-workflow-with-pug-and-tailwindcss-4kg6)
+- [Mastering the awk command in Linux](https://dev.to/k1lgor/mastering-the-awk-command-in-linux-5d34)
+- [WSL Tepes: The CPU/Memory vampire](https://dev.to/equiman/wsl-tepes-the-cpumemory-vampire-232f)
+- [Learn Context in React in simple steps](https://dev.to/uddinarsalan/learn-context-in-react-in-simple-steps-39pc)
 <!-- BLOG-POST-LIST:END -->
 
