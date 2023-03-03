@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Building a Validation Layer in Go](https://dev.to/ansu/best-practices-for-building-a-validation-layer-in-go-59j9)
 - [My Favorite Free Courses to Learn DevOps in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m)
 - [IP Address in Networking](https://dev.to/kirancg777/ip-address-in-networking-1le5)
 - [Overview of MVC Architectural Pattern](https://dev.to/andrewsavetchuk/overview-of-mvc-architectural-pattern-ld)
-- [Docker Container Management](https://dev.to/waji97/docker-container-management-2fnf)
 <!-- BLOG-POST-LIST:END -->
 
