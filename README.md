@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-20eo)
-- [How to Optimize Your Next JS App for SEO and Boost Your Rankings](https://dev.to/jay818/how-to-optimize-your-next-js-app-for-seo-and-boost-your-rankings-ip6)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-3oe6)
-- [Is your Flutter application Secured? Best Practices for Developing and Deploying Secure Flutter Apps](https://dev.to/djsmk123/is-your-flutter-application-secured-best-practices-for-developing-and-deploying-secure-flutter-apps-4njm)
+- [Install Ruby on Rails on Ubuntu](https://dev.to/ahmadraza/install-ruby-on-rails-on-ubuntu-4l5j)
+- [My first 6 months as AWS Community Builder: boosting my career and fighting Imposter Syndrome!](https://dev.to/aws-builders/boost-your-career-by-becoming-an-aws-community-builder-4hkj)
+- [How to think together; a way to better pair programming sessions](https://dev.to/charliekroon/how-to-think-together-a-way-to-better-pair-programming-sessions-57ah)
+- [Easily Find Deprecated Runtimes on Your Lambda Functions](https://dev.to/kumo/easily-find-deprecated-runtimes-on-your-lambda-functions-25b8)
 <!-- BLOG-POST-LIST:END -->
 
