@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python try exception tutorial](https://dev.to/max24816/python-try-exception-tutorial-2nlp)
+- [Python classes and objects tutorial](https://dev.to/max24816/python-class-and-objects-21k6)
 - [Install Ruby on Rails on Ubuntu](https://dev.to/ahmadraza/install-ruby-on-rails-on-ubuntu-4l5j)
 - [My first 6 months as AWS Community Builder: boosting my career and fighting Imposter Syndrome!](https://dev.to/aws-builders/boost-your-career-by-becoming-an-aws-community-builder-4hkj)
-- [How to think together; a way to better pair programming sessions](https://dev.to/charliekroon/how-to-think-together-a-way-to-better-pair-programming-sessions-57ah)
-- [Easily Find Deprecated Runtimes on Your Lambda Functions](https://dev.to/kumo/easily-find-deprecated-runtimes-on-your-lambda-functions-25b8)
 <!-- BLOG-POST-LIST:END -->
 
