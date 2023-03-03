@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ZSH + Oh My ZSH! on Windows with WSL](https://dev.to/equiman/zsh-on-windows-with-wsl-1jck)
+- [What Do You Wish You’d Known When You First Started Programming?](https://dev.to/codenewbieteam/what-do-you-wish-youd-known-when-you-first-started-programming-1p25)
 - [How ChatGPT helped a company to get back its $109,500 from a client who was not paying](https://dev.to/mayankvikash/how-chatgpt-helped-a-company-to-get-back-its-109500-from-a-client-who-was-not-paying-2dgj)
 - [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1o1l)
-- [Choosing Your First Programming Language: A Beginner’s Guide](https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04)
-- [One easy way to set the name in jest repetitive tests &lpar;test.each&rpar;](https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah)
 <!-- BLOG-POST-LIST:END -->
 
