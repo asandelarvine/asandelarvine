@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP for Those That Are Afraid to Ask](https://dev.to/beaucoburn/http-for-those-that-are-afraid-to-ask-38i5)
 - [Build an EMI Calculator with Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/codeofrelevancy/build-an-emi-calculator-with-nextjs-typescript-tailwind-css-recoil-and-recharts-4op3)
+- [Rails authentication: thinking above the code](https://dev.to/mattishida/rails-authentication-thinking-above-the-code-3b9o)
 - [Capturing the Bubble of Event Propagation in JavaScript ;&rpar;](https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c)
-- [Supercharge Your HTML&amp;CSS Workflow With Pug and TailwindCSS](https://dev.to/jessewei/supercharge-your-htmlcss-workflow-with-pug-and-tailwindcss-4kg6)
-- [Mastering the awk command in Linux](https://dev.to/k1lgor/mastering-the-awk-command-in-linux-5d34)
 <!-- BLOG-POST-LIST:END -->
 
