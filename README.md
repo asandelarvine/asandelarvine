@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an EMI Calculator with Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/codeofrelevancy/build-an-emi-calculator-with-nextjs-typescript-tailwind-css-recoil-and-recharts-4op3)
+- [Capturing the Bubble of Event Propagation in JavaScript ;&rpar;](https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c)
 - [Supercharge Your HTML&amp;CSS Workflow With Pug and TailwindCSS](https://dev.to/jessewei/supercharge-your-htmlcss-workflow-with-pug-and-tailwindcss-4kg6)
 - [Mastering the awk command in Linux](https://dev.to/k1lgor/mastering-the-awk-command-in-linux-5d34)
-- [WSL Tepes: The CPU/Memory vampire](https://dev.to/equiman/wsl-tepes-the-cpumemory-vampire-232f)
-- [Learn Context in React in simple steps](https://dev.to/uddinarsalan/learn-context-in-react-in-simple-steps-39pc)
 <!-- BLOG-POST-LIST:END -->
 
