@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test React component that fetching data](https://dev.to/thexdev/test-react-component-that-fetching-data-390p)
 - [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
+- [From Translation to working with AWS: a bumpy ride](https://dev.to/aws-builders/from-translation-to-working-with-aws-a-bumpy-ride-1cb2)
 - [Best API documentation tools you need](https://dev.to/ezinne_anne/best-api-documentation-tools-you-need-3ih5)
-- [How to Fix Oh-My-Zsh Icons in Visual Studio Code Terminal on MacOS](https://dev.to/ramazanatalay/how-to-fix-oh-my-zsh-icons-in-visual-studio-code-terminal-in-macos-1ehl)
-- [How to Hide JavaScript Code in View Source](https://dev.to/dhairyashah/how-to-hide-javascript-code-in-view-source-39kg)
 <!-- BLOG-POST-LIST:END -->
 
