@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Help Needed !!](https://dev.to/jagroop2000/help-needed--24ln)
+- [Neuroevolution: Genetic Algo and Artificial Neural Network - Free Course](https://dev.to/apssouza22/deep-evolution-genetic-algo-and-artificial-neural-network-free-course-ikn)
+- [5 NPM Alternatives You Should Try](https://dev.to/devland/5-npm-alternatives-you-should-try-a28)
 - [Network Programming with Python](https://dev.to/nite_dev/network-programming-with-python-1d0a)
-- [Google Coding INTERVIEW Question](https://dev.to/onecodemann/google-coding-interview-question-4inp)
-- [Computer Networking for Beginners](https://dev.to/nite_dev/computer-networking-for-beginners-161k)
-- [A gentle introduction to Vitest](https://dev.to/shaswatprabhat/a-gentle-introduction-to-vitest-14fp)
 <!-- BLOG-POST-LIST:END -->
 
