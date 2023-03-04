@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Those Green Squares In Your Github Do Not Necessarily Matter When It Comes To Getting A Job.](https://dev.to/ebuka1anthony/those-green-squares-in-your-github-dont-really-matter-when-it-comes-to-getting-a-job-2llc)
-- [Deep Dive into Python](https://dev.to/nite_dev/deep-dive-into-python-278f)
-- [The Weekend Coder: Water Cooler Discussion](https://dev.to/codenewbieteam/the-weekend-coder-water-cooler-discussion-5hne)
-- [rant_category&lpar;&rpar; got an unexpected keyword argument &#39;slug&#39;](https://dev.to/highcenburg/rantcategory-got-an-unexpected-keyword-argument-slug-40hd)
+- [Network Programming with Python](https://dev.to/nite_dev/network-programming-with-python-1d0a)
+- [Google Coding INTERVIEW Question](https://dev.to/onecodemann/google-coding-interview-question-4inp)
+- [Computer Networking for Beginners](https://dev.to/nite_dev/computer-networking-for-beginners-161k)
+- [A gentle introduction to Vitest](https://dev.to/shaswatprabhat/a-gentle-introduction-to-vitest-14fp)
 <!-- BLOG-POST-LIST:END -->
 
