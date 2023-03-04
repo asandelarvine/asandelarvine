@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips/Tricks for a beginner to Git/GitHub](https://dev.to/aesther2012/tipstricks-for-a-beginner-to-gitgithub-3kii)
+- [The State of Replit](https://dev.to/dillonb07/the-state-of-replit-32en)
 - [Angular RxJS Unsubscriber](https://dev.to/spdocumentad/angular-rxjs-unsubscriber-2khf)
 - [I made a drag &amp; drop dashboard builder for React and Chakra UI](https://dev.to/rarestoma/i-made-a-drag-drop-dashboard-builder-for-react-and-chakra-ui-n7j)
-- [System Design](https://dev.to/adahanu074/system-design-1h4m)
-- [How to check if a key exists in a dictionary python](https://dev.to/max24816/how-to-check-if-a-key-exists-in-a-dictionary-python-132i)
 <!-- BLOG-POST-LIST:END -->
 
