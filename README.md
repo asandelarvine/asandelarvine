@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Choose the Right Bootstrap Theme For Your Business?](https://dev.to/uiocean/how-to-choose-the-right-bootstrap-theme-for-your-business-3pd7)
 - [10 Cool CodePen Demos &lpar;February 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-february-23-3l2o)
 - [Guarding Your Routes in NestJS](https://dev.to/amplication/guarding-your-routes-in-nestjs-19af)
 - [Why Oh My ZSH is so cool?](https://dev.to/equiman/why-oh-my-zsh-is-so-cool-31gd)
-- [How to use nodemon with VSCode debugger?](https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa)
 <!-- BLOG-POST-LIST:END -->
 
