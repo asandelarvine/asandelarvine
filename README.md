@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é um processo em Elixir?](https://dev.to/elixir_utfpr/o-que-e-um-processo-em-elixir-4j00)
+- [New Free AWS &quot;Exam Prep&quot; assessment resource](https://dev.to/aws-builders/new-free-aws-exam-prep-assessment-resource-59j2)
+- [AI powered search with OpenAI embeddings](https://dev.to/bdougieyo/ai-powered-search-with-openai-embeddings-2990)
 - [Test React component that fetching data](https://dev.to/thexdev/test-react-component-that-fetching-data-390p)
-- [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
-- [From Translation to working with AWS: a bumpy ride](https://dev.to/aws-builders/from-translation-to-working-with-aws-a-bumpy-ride-1cb2)
-- [Best API documentation tools you need](https://dev.to/ezinne_anne/best-api-documentation-tools-you-need-3ih5)
 <!-- BLOG-POST-LIST:END -->
 
