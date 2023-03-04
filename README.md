@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with .zip files in C#](https://dev.to/karenpayneoregon/working-with-zip-files-in-c-52e3)
 - [O que é um processo em Elixir?](https://dev.to/elixir_utfpr/o-que-e-um-processo-em-elixir-4j00)
 - [New Free AWS &quot;Exam Prep&quot; assessment resource](https://dev.to/aws-builders/new-free-aws-exam-prep-assessment-resource-59j2)
 - [AI powered search with OpenAI embeddings](https://dev.to/bdougieyo/ai-powered-search-with-openai-embeddings-2990)
-- [Test React component that fetching data](https://dev.to/thexdev/test-react-component-that-fetching-data-390p)
 <!-- BLOG-POST-LIST:END -->
 
