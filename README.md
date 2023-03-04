@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
+- [How I made my resume with HTML and Tailwind CSS](https://dev.to/ronanru/how-i-made-my-resume-with-html-and-tailwind-css-2676)
+- [ReactJS : When to use Class Component Over Function Component?](https://dev.to/imparmarjatin/reactjs-when-to-use-class-component-over-function-component-1ob5)
 - [Top 3 Games to Enhance Your Programming Skills](https://dev.to/rutikkpatel/top-3-games-to-enhance-your-programming-skills-18a4)
-- [How to create a Launchpad Mini digital clock using Node.js](https://dev.to/digglp/how-to-create-a-launchpad-mini-digital-clock-using-nodejs-2d59)
-- [Model Thinking course from the software engineer’s perspective](https://dev.to/0x808080/model-thinking-course-from-the-software-engineers-perspective-5gon)
-- [Searching through JSON logs locally](https://dev.to/the_spyke/searching-through-json-logs-locally-2k0m)
 <!-- BLOG-POST-LIST:END -->
 
