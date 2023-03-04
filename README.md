@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Those Green Squares In Your Github Do Not Necessarily Matter When It Comes To Getting A Job.](https://dev.to/ebuka1anthony/those-green-squares-in-your-github-dont-really-matter-when-it-comes-to-getting-a-job-2llc)
+- [Deep Dive into Python](https://dev.to/nite_dev/deep-dive-into-python-278f)
+- [The Weekend Coder: Water Cooler Discussion](https://dev.to/codenewbieteam/the-weekend-coder-water-cooler-discussion-5hne)
 - [rant_category&lpar;&rpar; got an unexpected keyword argument &#39;slug&#39;](https://dev.to/highcenburg/rantcategory-got-an-unexpected-keyword-argument-slug-40hd)
-- [7 Black Box Testing Techniques That Every QA Should know &lpar; Explained with demo&rpar;](https://dev.to/promode/7-black-box-testing-techniques-that-every-qa-should-know-explained-with-demo-1i15)
-- [Replacing If-Else Statements with Enums in Java](https://dev.to/marcosgofavaretto/replacing-if-else-statements-with-enums-in-java-40n8)
-- [Converter texto &lpar;string&rpar; para número em JavaScript e suas diferenças](https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1)
 <!-- BLOG-POST-LIST:END -->
 
