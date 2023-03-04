@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP for Those That Are Afraid to Ask](https://dev.to/beaucoburn/http-for-those-that-are-afraid-to-ask-38i5)
-- [Build an EMI Calculator with Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/codeofrelevancy/build-an-emi-calculator-with-nextjs-typescript-tailwind-css-recoil-and-recharts-4op3)
-- [Rails authentication: thinking above the code](https://dev.to/mattishida/rails-authentication-thinking-above-the-code-3b9o)
-- [Capturing the Bubble of Event Propagation in JavaScript ;&rpar;](https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c)
+- [민주당 내홍 속…&#39;434억&#39; 재판 앞둔 이재명, 3일부터 격주 출석 / 친명·비명 간 파열음 해결책은? [이슈 톺아보기] MBN뉴스 23.03.02](https://dev.to/mesinzer/minjudang-naehong-sog434eog-jaepan-apdun-ijaemyeong-3ilbuteo-gyeogju-culseog-cinmyeongbimyeong-gan-payeoleum-haegyeolcaegeun-isyu-topabogi-mbnnyuseu-230302-n1c)
+- [Why Oh My ZSH is so cool?](https://dev.to/equiman/why-oh-my-zsh-is-so-cool-31gd)
+- [How to use nodemon with VSCode debugger?](https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa)
+- [Introduction with examples to Emu8086](https://dev.to/xlmriosx/introduction-with-examples-to-emu8086-54lh)
 <!-- BLOG-POST-LIST:END -->
 
