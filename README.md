@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with .zip files in C#](https://dev.to/karenpayneoregon/working-with-zip-files-in-c-52e3)
-- [O que é um processo em Elixir?](https://dev.to/elixir_utfpr/o-que-e-um-processo-em-elixir-4j00)
-- [New Free AWS &quot;Exam Prep&quot; assessment resource](https://dev.to/aws-builders/new-free-aws-exam-prep-assessment-resource-59j2)
-- [AI powered search with OpenAI embeddings](https://dev.to/bdougieyo/ai-powered-search-with-openai-embeddings-2990)
+- [I made a drag &amp; drop dashboard builder for React and Chakra UI](https://dev.to/rarestoma/i-made-a-drag-drop-dashboard-builder-for-react-and-chakra-ui-n7j)
+- [System Design](https://dev.to/adahanu074/system-design-1h4m)
+- [How to check if a key exists in a dictionary python](https://dev.to/max24816/how-to-check-if-a-key-exists-in-a-dictionary-python-132i)
+- [Build A Password Generator](https://dev.to/kalashin1/build-a-password-generator-11oo)
 <!-- BLOG-POST-LIST:END -->
 
