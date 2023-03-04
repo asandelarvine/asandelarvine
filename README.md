@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [rant_category&lpar;&rpar; got an unexpected keyword argument &#39;slug&#39;](https://dev.to/highcenburg/rantcategory-got-an-unexpected-keyword-argument-slug-40hd)
+- [7 Black Box Testing Techniques That Every QA Should know &lpar; Explained with demo&rpar;](https://dev.to/promode/7-black-box-testing-techniques-that-every-qa-should-know-explained-with-demo-1i15)
 - [Replacing If-Else Statements with Enums in Java](https://dev.to/marcosgofavaretto/replacing-if-else-statements-with-enums-in-java-40n8)
 - [Converter texto &lpar;string&rpar; para número em JavaScript e suas diferenças](https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1)
-- [How to Choose the Right Bootstrap Theme For Your Business?](https://dev.to/uiocean/how-to-choose-the-right-bootstrap-theme-for-your-business-3pd7)
 <!-- BLOG-POST-LIST:END -->
 
