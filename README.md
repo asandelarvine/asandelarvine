@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Headless Ecommerce for Developers: Integrating Medusa with Strapi CMS](https://dev.to/dmuasya/headless-ecommerce-for-developers-integrating-medusa-with-strapi-cms-26a4)
+- [Language Detection with Fastlangid](https://dev.to/davidegazze/language-detection-with-fastlangid-1eeh)
+- [11 Powerful AI Tools for Crafting Your Perfect Resume Resumestar](https://dev.to/foxbuka/11-powerful-ai-tools-for-crafting-your-perfect-resumeresumestar-2m65)
 - [How to link Unsplash Images in Html and CSS](https://dev.to/ocxigin/how-to-link-unsplash-images-in-html-and-css-5dd5)
-- [Cool library that I recently discovered: Zag.js](https://dev.to/seeratawan01/cool-library-that-i-recently-discovered-zagjs-m05)
-- [Let&#39;s finally build our app](https://dev.to/oreoyona/lets-finally-build-our-app-la0)
-- [What is the DOM &amp; How Does HTML Rendering Happen in Browsers?](https://dev.to/muhammederdinc/what-is-the-dom-how-does-html-rendering-happen-in-browsers-1ehm)
 <!-- BLOG-POST-LIST:END -->
 
