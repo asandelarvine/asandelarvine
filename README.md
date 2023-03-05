@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to link Unsplash Images in Html and CSS](https://dev.to/ocxigin/how-to-link-unsplash-images-in-html-and-css-5dd5)
 - [Cool library that I recently discovered: Zag.js](https://dev.to/seeratawan01/cool-library-that-i-recently-discovered-zagjs-m05)
 - [Let&#39;s finally build our app](https://dev.to/oreoyona/lets-finally-build-our-app-la0)
 - [What is the DOM &amp; How Does HTML Rendering Happen in Browsers?](https://dev.to/muhammederdinc/what-is-the-dom-how-does-html-rendering-happen-in-browsers-1ehm)
-- [Switch &amp; Leapp-cli - AWS session management 100% command line](https://dev.to/aws-builders/switch-leapp-cli-aws-session-management-100-command-line-23f)
 <!-- BLOG-POST-LIST:END -->
 
