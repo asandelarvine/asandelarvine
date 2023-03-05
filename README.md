@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I Created A Simple Note App With Jetpack Compose](https://dev.to/ethand91/i-created-a-simple-note-app-with-jetpack-compose-3jc6)
 - [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
 - [RBAC Authorization with FastAPI and PropelAuth](https://dev.to/propelauth/rbac-authorization-with-fastapi-and-propelauth-4if3)
 - [O que é e como funciona o Cloud Native](https://dev.to/whathebea/cloud-native-3ef6)
-- [Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
 <!-- BLOG-POST-LIST:END -->
 
