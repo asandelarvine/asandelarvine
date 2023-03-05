@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From a Dumb Student to a PyTorch Contributor: The Impact of Teachers on My Life⚡](https://dev.to/vivekcodes/from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4)
 - [registration form in flutter](https://dev.to/realnamehidden1_61/registration-form-in-flutter-nh7)
 - [How to Use Decorators in Python?](https://dev.to/rahulbanerjee99/how-to-use-decorators-in-python-2inm)
 - [I Created A Simple Note App With Jetpack Compose](https://dev.to/ethand91/i-created-a-simple-note-app-with-jetpack-compose-3jc6)
-- [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
 <!-- BLOG-POST-LIST:END -->
 
