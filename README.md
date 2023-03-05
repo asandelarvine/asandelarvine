@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python list comprehension](https://dev.to/max24816/python-list-comprehension-24hk)
+- [How to find users for open source project with no resources and connections](https://dev.to/zenstack/how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni)
+- [SOLID Principles tutorial for python lovers](https://dev.to/fayomihorace/solid-principles-tutorial-for-python-lovers-54i8)
 - [How Work Event Loop in JavaScript](https://dev.to/dbarabashdev/how-work-event-loop-in-javascript-122e)
-- [how to save flutter form data into mysql database using spring boot](https://dev.to/realnamehidden1_61/how-to-save-flutter-form-data-into-mysql-database-using-spring-boot-21jn)
-- [How to combine two dictionaries in python using different methods](https://dev.to/max24816/how-to-combine-two-dictionaries-in-python-using-different-methods-3hcc)
-- [Node.js boilerplate / Authentication from scratch - &lpar;express, mongodb&rpar; Rest-API, Typescript.](https://dev.to/watscho/nodejs-boilerplate-authentication-from-scratch-express-mongodb-rest-api-typescript-25i3)
 <!-- BLOG-POST-LIST:END -->
 
