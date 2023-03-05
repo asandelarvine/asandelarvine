@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O mínimo que você precisa saber para iniciar um projeto em TypeScript](https://dev.to/dellamora/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript-l13)
 - [Why I Left React](https://dev.to/gravy59/why-i-left-react-4k3p)
 - [Deploying a Medusa + Minio + MeiliSearch stack with Docker and Traefik](https://dev.to/turboplebeian/deploying-a-medusa-minio-meilisearch-stack-with-docker-and-traefik-2mgj)
 - [Style your terminals using Go-Palette 🎨](https://dev.to/abusomani/style-your-terminals-using-go-palette-21fm)
-- [Headless Ecommerce for Developers: Integrating Medusa with Strapi CMS](https://dev.to/dmuasya/headless-ecommerce-for-developers-integrating-medusa-with-strapi-cms-26a4)
 <!-- BLOG-POST-LIST:END -->
 
