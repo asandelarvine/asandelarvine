@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cool library that I recently discovered: Zag.js](https://dev.to/seeratawan01/cool-library-that-i-recently-discovered-zagjs-m05)
+- [Let&#39;s finally build our app](https://dev.to/oreoyona/lets-finally-build-our-app-la0)
+- [What is the DOM &amp; How Does HTML Rendering Happen in Browsers?](https://dev.to/muhammederdinc/what-is-the-dom-how-does-html-rendering-happen-in-browsers-1ehm)
 - [Switch &amp; Leapp-cli - AWS session management 100% command line](https://dev.to/aws-builders/switch-leapp-cli-aws-session-management-100-command-line-23f)
-- [Stack Creation through Step Function Workflow Execution](https://dev.to/aws-builders/stack-creation-through-step-function-workflow-execution-3p7h)
-- [Is there such a thing as job security?](https://dev.to/alexhyettdev/is-there-such-a-thing-as-job-security-4kff)
-- [Essential Linux Commands Every DevOps Engineer Should Know – Part 2](https://dev.to/aradwan20/essential-linux-commands-every-devops-engineer-should-know-part-2-4n6a)
 <!-- BLOG-POST-LIST:END -->
 
