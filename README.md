@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to combine two dictionaries in python using different methods](https://dev.to/max24816/how-to-combine-two-dictionaries-in-python-using-different-methods-3hcc)
+- [Node.js boilerplate / Authentication from scratch - &lpar;express, mongodb&rpar; Rest-API, Typescript.](https://dev.to/watscho/nodejs-boilerplate-authentication-from-scratch-express-mongodb-rest-api-typescript-25i3)
 - [7 Libraries You Should Know as a React Developer 💯🔥](https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5)
 - [Unique Git Commands You Should Know!](https://dev.to/sriparno08/unique-git-commands-you-should-know-k9i)
-- [Dependency Injection and Different ways to inject it using .NET Core API](https://dev.to/jaydeep007/dependency-injection-and-different-ways-to-inject-it-using-net-core-api-5570)
-- [From a Dumb Student to a PyTorch Contributor: The Impact of Teachers on My Life⚡](https://dev.to/vivekcodes/from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4)
 <!-- BLOG-POST-LIST:END -->
 
