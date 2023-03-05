@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying on AWS Elastic Beanstalk](https://dev.to/vivekalhat/deploying-on-elastic-beanstalk-27in)
 - [Python list comprehension](https://dev.to/max24816/python-list-comprehension-24hk)
 - [How to find users for open source project with no resources and connections](https://dev.to/zenstack/how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni)
 - [SOLID Principles tutorial for python lovers](https://dev.to/fayomihorace/solid-principles-tutorial-for-python-lovers-54i8)
-- [How Work Event Loop in JavaScript](https://dev.to/dbarabashdev/how-work-event-loop-in-javascript-122e)
 <!-- BLOG-POST-LIST:END -->
 
