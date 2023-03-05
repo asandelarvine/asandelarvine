@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamline your edge computing workflows with ReductStore, now available on Snap](https://dev.to/reductstore/streamline-your-edge-computing-workflows-with-reductstore-now-available-on-snap-2cf)
 - [O mínimo que você precisa saber para iniciar um projeto em TypeScript](https://dev.to/dellamora/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript-l13)
 - [Why I Left React](https://dev.to/gravy59/why-i-left-react-4k3p)
 - [Deploying a Medusa + Minio + MeiliSearch stack with Docker and Traefik](https://dev.to/turboplebeian/deploying-a-medusa-minio-meilisearch-stack-with-docker-and-traefik-2mgj)
-- [Style your terminals using Go-Palette 🎨](https://dev.to/abusomani/style-your-terminals-using-go-palette-21fm)
 <!-- BLOG-POST-LIST:END -->
 
