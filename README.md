@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Left React](https://dev.to/gravy59/why-i-left-react-4k3p)
+- [Deploying a Medusa + Minio + MeiliSearch stack with Docker and Traefik](https://dev.to/turboplebeian/deploying-a-medusa-minio-meilisearch-stack-with-docker-and-traefik-2mgj)
+- [Style your terminals using Go-Palette 🎨](https://dev.to/abusomani/style-your-terminals-using-go-palette-21fm)
 - [Headless Ecommerce for Developers: Integrating Medusa with Strapi CMS](https://dev.to/dmuasya/headless-ecommerce-for-developers-integrating-medusa-with-strapi-cms-26a4)
-- [Language Detection with Fastlangid](https://dev.to/davidegazze/language-detection-with-fastlangid-1eeh)
-- [11 Powerful AI Tools for Crafting Your Perfect Resume Resumestar](https://dev.to/foxbuka/11-powerful-ai-tools-for-crafting-your-perfect-resumeresumestar-2m65)
-- [How to link Unsplash Images in Html and CSS](https://dev.to/ocxigin/how-to-link-unsplash-images-in-html-and-css-5dd5)
 <!-- BLOG-POST-LIST:END -->
 
