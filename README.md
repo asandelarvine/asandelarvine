@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Libraries You Should Know as a React Developer 💯🔥](https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5)
+- [Unique Git Commands You Should Know!](https://dev.to/sriparno08/unique-git-commands-you-should-know-k9i)
+- [Dependency Injection and Different ways to inject it using .NET Core API](https://dev.to/jaydeep007/dependency-injection-and-different-ways-to-inject-it-using-net-core-api-5570)
 - [From a Dumb Student to a PyTorch Contributor: The Impact of Teachers on My Life⚡](https://dev.to/vivekcodes/from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4)
-- [registration form in flutter](https://dev.to/realnamehidden1_61/registration-form-in-flutter-nh7)
-- [How to Use Decorators in Python?](https://dev.to/rahulbanerjee99/how-to-use-decorators-in-python-2inm)
-- [I Created A Simple Note App With Jetpack Compose](https://dev.to/ethand91/i-created-a-simple-note-app-with-jetpack-compose-3jc6)
 <!-- BLOG-POST-LIST:END -->
 
