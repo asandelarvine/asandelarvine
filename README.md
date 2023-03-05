@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
+- [RBAC Authorization with FastAPI and PropelAuth](https://dev.to/propelauth/rbac-authorization-with-fastapi-and-propelauth-4if3)
+- [O que é e como funciona o Cloud Native](https://dev.to/whathebea/cloud-native-3ef6)
 - [Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
-- [How I made my resume with HTML and Tailwind CSS](https://dev.to/ronanru/how-i-made-my-resume-with-html-and-tailwind-css-2676)
-- [ReactJS : When to use Class Component Over Function Component?](https://dev.to/imparmarjatin/reactjs-when-to-use-class-component-over-function-component-1ob5)
-- [Top 3 Games to Enhance Your Programming Skills](https://dev.to/rutikkpatel/top-3-games-to-enhance-your-programming-skills-18a4)
 <!-- BLOG-POST-LIST:END -->
 
