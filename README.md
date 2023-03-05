@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Linux Commands Every DevOps Engineer Should Know – Part 2](https://dev.to/aradwan20/essential-linux-commands-every-devops-engineer-should-know-part-2-4n6a)
+- [Step by step: Store Amazon DynamoDB records in AWS S3 with Amazon Kinesis Data Stream / Firehose](https://dev.to/aws-builders/step-by-step-store-amazon-dynamodb-records-in-aws-s3-with-amazon-kinesis-data-stream-firehose-2687)
 - [Deploying on AWS Elastic Beanstalk](https://dev.to/vivekalhat/deploying-on-elastic-beanstalk-27in)
 - [Python list comprehension](https://dev.to/max24816/python-list-comprehension-24hk)
-- [How to find users for open source project with no resources and connections](https://dev.to/zenstack/how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni)
-- [SOLID Principles tutorial for python lovers](https://dev.to/fayomihorace/solid-principles-tutorial-for-python-lovers-54i8)
 <!-- BLOG-POST-LIST:END -->
 
