@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Tunes from Your Teenage Days Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-tunes-from-your-teenage-days-edition-4mk3)
-- [Great Analogy To Explain ID Tokens Vs Access Tokens](https://dev.to/ndohjapan/great-analogy-to-explain-id-tokens-vs-access-tokens-5an4)
-- [FLiPN-FLaNK Stack for March 6, 2023](https://dev.to/tspannhw/flipn-flank-stack-for-march-6-2023-5654)
-- [Kotlin is `fun` - Some cool stuff about Kotlin functions](https://dev.to/derlin/kotlin-is-fun-some-cool-stuff-about-kotlin-functions-45o5)
+- [Utiliser NGINX comme d&#39;un proxy de base de données](https://dev.to/mxglt/utiliser-nginx-comme-dun-proxy-de-base-de-donnees-14fn)
+- [What is Tailwind Theming and How to use it in 2023](https://dev.to/fredy/what-is-tailwind-theming-and-how-to-use-it-399i)
+- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-1e1f)
+- [Xata Plus OpenAI: ChatGPT on Your Data](https://dev.to/deverts/xata-plus-openai-chatgpt-on-your-data-5bdc)
 <!-- BLOG-POST-LIST:END -->
 
