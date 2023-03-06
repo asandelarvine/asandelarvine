@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a bottom navigation component with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-bottom-navigation-component-with-tailwind-css-and-flowbite-e9m)
+- [Synchronize Chrome Extensions state](https://dev.to/codegino/syncronize-chrome-extensions-state-2bn0)
+- [What is an event-driven architecture and why storing events is important ?](https://dev.to/aws-builders/what-is-an-event-driven-architecture-and-why-storing-events-is-important--om2)
 - [Applying for a new job with React and NodeJS and AI](https://dev.to/novu/applying-for-a-new-job-with-react-and-nodejs-and-ai-17a9)
-- [CPU requests and limits in Kubernetes](https://dev.to/danielepolencic/cpu-requests-and-limits-in-kubernetes-10mh)
-- [How to manage processes in Linux?](https://dev.to/5minslearn/how-to-manage-processes-in-linux-3e3c)
-- [Introduction to React Diff Algorithm](https://dev.to/crossskatee1/introduction-to-react-diff-algorithm-4mf)
 <!-- BLOG-POST-LIST:END -->
 
