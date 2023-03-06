@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Your Job Search: Insights from Andronica Klaas, Meta Engineer](https://dev.to/michaellarocca/maximizing-your-job-search-insights-from-andronica-klaas-meta-engineer-9c7)
 - [JavaScript Tutorial Series: HTML attributes &amp; DOM object properties.](https://dev.to/fullstackjo/javascript-tutorial-series-html-attributes-dom-object-properties-311o)
+- [If use Jetpack compose don&#39;t use Shared Preference](https://dev.to/thecoder93/if-use-jetpack-compose-dont-use-shared-preference-p8p)
 - [#CodeNewbie Meme Monday](https://dev.to/codenewbieteam/codenewbie-meme-monday-4m26)
-- [Next.js App Directory Architecture First Impressions](https://dev.to/thetombomb/nextjs-app-directory-architecture-first-impressions-437g)
-- [Exploring the Advantages and Disadvantages of LiveView Native for Mobile App Development](https://dev.to/kommitters/exploring-the-advantages-and-disadvantages-of-liveview-native-for-mobile-app-development-38lf)
 <!-- BLOG-POST-LIST:END -->
 
