@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Wrap Battling](https://dev.to/alvaromontoro/wrap-battling-15d0)
+- [The next generation image format for the web is not JPEG XL?](https://dev.to/robole/the-next-generation-image-format-for-the-web-is-not-jpeg-xl-348f)
+- [Use NGINX as database proxy](https://dev.to/mxglt/use-nginx-as-database-proxy-3p95)
 - [Utiliser NGINX comme d&#39;un proxy de base de données](https://dev.to/mxglt/utiliser-nginx-comme-dun-proxy-de-base-de-donnees-14fn)
-- [What is Tailwind Theming and How to use it in 2023](https://dev.to/fredy/what-is-tailwind-theming-and-how-to-use-it-399i)
-- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-1e1f)
-- [Xata Plus OpenAI: ChatGPT on Your Data](https://dev.to/deverts/xata-plus-openai-chatgpt-on-your-data-5bdc)
 <!-- BLOG-POST-LIST:END -->
 
