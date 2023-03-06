@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Billing the technical debt](https://dev.to/adambrandizzi/billing-the-technical-debt-45kb)
+- [CodePen Designs - 43 : Lottie Animations in React](https://dev.to/jon_snow789/codepen-designs-43-lottie-animations-in-react-1j31)
 - [Wrap Battling](https://dev.to/alvaromontoro/wrap-battling-15d0)
 - [The next generation image format for the web is not JPEG XL?](https://dev.to/robole/the-next-generation-image-format-for-the-web-is-not-jpeg-xl-348f)
-- [Use NGINX as database proxy](https://dev.to/mxglt/use-nginx-as-database-proxy-3p95)
-- [Utiliser NGINX comme d&#39;un proxy de base de données](https://dev.to/mxglt/utiliser-nginx-comme-dun-proxy-de-base-de-donnees-14fn)
 <!-- BLOG-POST-LIST:END -->
 
