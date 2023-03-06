@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Animations API](https://dev.to/mattryanmtl/web-animations-api-1h5i)
 - [Building Maintainable User Interfaces with React and TypeScript](https://dev.to/haszankauna/building-maintainable-user-interfaces-with-react-and-typescript-21f7)
 - [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
 - [A Practical Guide to SQL Dates with DuckDB.](https://dev.to/cpard/a-guide-to-sql-dates-with-duckdb-2kj3)
-- [AI powered code debugging extensions](https://dev.to/bdougieyo/ai-powered-code-debugging-extensions-k0g)
 <!-- BLOG-POST-LIST:END -->
 
