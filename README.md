@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Perform Local Website Testing Using Selenium And Java](https://dev.to/lambdatest/how-to-perform-local-website-testing-using-selenium-and-java-2h5j)
+- [Record Screen App with Javascript](https://dev.to/sumankalia/record-screen-app-with-javascript-1dif)
+- [How to make our locations component in user image using react JS.](https://dev.to/krunalk108/how-to-make-our-locations-component-in-user-image-using-react-js-40ea)
 - [Mastering Docker: Writing Optimal Dockerfiles and Optimizing Image Size for Smarter Deployments](https://dev.to/rokibulhasan114/mastering-docker-writing-optimal-dockerfiles-and-optimizing-image-size-for-smarter-deployments-13h2)
-- [HOW TO STUDY BETTER](https://dev.to/codebhandari/how-to-study-better-1479)
-- [POO en Python](https://dev.to/maxwellnewage/poo-en-python-15ae)
-- [Using AWS CodeDeploy with Lambda for Canary Deployments](https://dev.to/benbpyle/using-aws-codedeploy-with-lambda-for-canary-deployments-4fed)
 <!-- BLOG-POST-LIST:END -->
 
