@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#CodeNewbie Meme Monday](https://dev.to/codenewbieteam/codenewbie-meme-monday-4m26)
+- [Next.js App Directory Architecture First Impressions](https://dev.to/thetombomb/nextjs-app-directory-architecture-first-impressions-437g)
 - [Exploring the Advantages and Disadvantages of LiveView Native for Mobile App Development](https://dev.to/kommitters/exploring-the-advantages-and-disadvantages-of-liveview-native-for-mobile-app-development-38lf)
 - [Seven Lessons I Have Learned From My Experience as a Software Developer](https://dev.to/timothyokooboh/seven-lessons-i-have-learned-from-my-experience-as-a-software-developer-2hfk)
-- [How to Create a Positive Community for Your Open Source Project](https://dev.to/bekahhw/how-to-create-a-positive-community-for-your-open-source-project-59p3)
-- [What you need to know before transitioning from JavaScript to React: A Guide](https://dev.to/kelvintech_99/what-you-need-to-know-before-transitioning-from-javascript-to-react-a-guide-1ij7)
 <!-- BLOG-POST-LIST:END -->
 
