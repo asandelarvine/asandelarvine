@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Cheatsheet: A Quick Reference Guide for Git Commands ✨](https://dev.to/aerodarius/git-cheatsheet-a-quick-reference-guide-for-git-commands-3pif)
+- [I open sourced an AI that creates any UI in seconds.](https://dev.to/suede/i-open-sourced-an-ai-that-creates-any-ui-in-seconds-8hf)
 - [My Favorite free Courses to Learn Programming and Coding in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-programming-and-coding-in-2023-5f0e)
 - [My Journey as a Young Prokopton in Software Engineering](https://dev.to/ronikriger/my-journey-as-a-young-prokopton-in-software-engineering-2bdc)
-- [Angular Misconceptions](https://dev.to/this-is-angular/angular-misconceptions-4aeb)
-- [Kubernetes ConfigMaps and Secrets: What Are They and When to Use Them?](https://dev.to/castai/kubernetes-configmaps-and-secrets-what-are-they-and-when-to-use-them-4aab)
 <!-- BLOG-POST-LIST:END -->
 
