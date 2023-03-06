@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Applying for a new job with React and NodeJS and AI](https://dev.to/novu/applying-for-a-new-job-with-react-and-nodejs-and-ai-17a9)
+- [CPU requests and limits in Kubernetes](https://dev.to/danielepolencic/cpu-requests-and-limits-in-kubernetes-10mh)
+- [How to manage processes in Linux?](https://dev.to/5minslearn/how-to-manage-processes-in-linux-3e3c)
 - [Introduction to React Diff Algorithm](https://dev.to/crossskatee1/introduction-to-react-diff-algorithm-4mf)
-- [Tech Lead: How to Mentoring Junior Developers](https://dev.to/daniloab/tech-lead-how-to-mentoring-junior-developers-58o1)
-- [S&#39;Monday 😪 Doug Linder](https://dev.to/codenewbieteam/smonday-4p28)
-- [DevOps Career Road Map](https://dev.to/aws-builders/devops-career-road-map-4ebd)
 <!-- BLOG-POST-LIST:END -->
 
