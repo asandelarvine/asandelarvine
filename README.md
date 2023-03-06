@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a bottom navigation component with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-bottom-navigation-component-with-tailwind-css-and-flowbite-e9m)
-- [Synchronize Chrome Extensions state](https://dev.to/codegino/syncronize-chrome-extensions-state-2bn0)
-- [What is an event-driven architecture and why storing events is important ?](https://dev.to/aws-builders/what-is-an-event-driven-architecture-and-why-storing-events-is-important--om2)
-- [Applying for a new job with React and NodeJS and AI](https://dev.to/novu/applying-for-a-new-job-with-react-and-nodejs-and-ai-17a9)
+- [Music Monday — What are you listening to? &lpar;Tunes from Your Teenage Days Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-tunes-from-your-teenage-days-edition-4mk3)
+- [Great Analogy To Explain ID Tokens Vs Access Tokens](https://dev.to/ndohjapan/great-analogy-to-explain-id-tokens-vs-access-tokens-5an4)
+- [FLiPN-FLaNK Stack for March 6, 2023](https://dev.to/tspannhw/flipn-flank-stack-for-march-6-2023-5654)
+- [Kotlin is `fun` - Some cool stuff about Kotlin functions](https://dev.to/derlin/kotlin-is-fun-some-cool-stuff-about-kotlin-functions-45o5)
 <!-- BLOG-POST-LIST:END -->
 
