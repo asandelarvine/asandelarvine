@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [POO en Python](https://dev.to/maxwellnewage/poo-en-python-15ae)
+- [Using AWS CodeDeploy with Lambda for Canary Deployments](https://dev.to/benbpyle/using-aws-codedeploy-with-lambda-for-canary-deployments-4fed)
 - [My Nim Development Weekly Report &lpar;3/5&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-35-12hd)
 - [The easiest way to have consistent looking code](https://dev.to/chasehuber/the-easiest-way-to-have-consistent-looking-code-2aa0)
-- [Vercel: The Cloud Platform for Modern Web Development](https://dev.to/itsbrotherdan/vercel-the-cloud-platform-for-modern-web-development-4lmm)
-- [Web Animations API](https://dev.to/mattryanmtl/web-animations-api-1h5i)
 <!-- BLOG-POST-LIST:END -->
 
