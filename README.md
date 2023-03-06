@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Perform Local Website Testing Using Selenium And Java](https://dev.to/lambdatest/how-to-perform-local-website-testing-using-selenium-and-java-2h5j)
-- [Record Screen App with Javascript](https://dev.to/sumankalia/record-screen-app-with-javascript-1dif)
-- [How to make our locations component in user image using react JS.](https://dev.to/krunalk108/how-to-make-our-locations-component-in-user-image-using-react-js-40ea)
-- [Mastering Docker: Writing Optimal Dockerfiles and Optimizing Image Size for Smarter Deployments](https://dev.to/rokibulhasan114/mastering-docker-writing-optimal-dockerfiles-and-optimizing-image-size-for-smarter-deployments-13h2)
+- [AWS open source newsletter, #147](https://dev.to/aws/aws-open-source-newsletter-147-3jdo)
+- [React Admin Panel Tutorial with Chakra UI and Strapi](https://dev.to/refine/react-admin-panel-tutorial-with-chakra-ui-and-strapi-32pj)
+- [Implement These 7 JavaScript Web APIs for a Futuristic Website Experience](https://dev.to/devbambhaniya/implement-these-7-javascript-web-apis-for-a-futuristic-website-experience-3ckk)
+- [Resend - How to add an Email API Provider to Novu](https://dev.to/novu/resend-how-to-add-an-email-api-provider-to-novu-49cd)
 <!-- BLOG-POST-LIST:END -->
 
