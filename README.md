@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite free Courses to Learn Programming and Coding in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-programming-and-coding-in-2023-5f0e)
+- [My Journey as a Young Prokopton in Software Engineering](https://dev.to/ronikriger/my-journey-as-a-young-prokopton-in-software-engineering-2bdc)
+- [Angular Misconceptions](https://dev.to/this-is-angular/angular-misconceptions-4aeb)
 - [Kubernetes ConfigMaps and Secrets: What Are They and When to Use Them?](https://dev.to/castai/kubernetes-configmaps-and-secrets-what-are-they-and-when-to-use-them-4aab)
-- [ShortId Factory](https://dev.to/karimfahmy/shortid-factory-lc4)
-- [Nuxt 3, Algolia, Storyblok, and TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-3-algolia-storyblok-and-tailwindcss-crash-course-1lpa)
-- [AWS open source newsletter, #147](https://dev.to/aws/aws-open-source-newsletter-147-3jdo)
 <!-- BLOG-POST-LIST:END -->
 
