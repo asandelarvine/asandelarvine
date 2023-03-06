@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes ConfigMaps and Secrets: What Are They and When to Use Them?](https://dev.to/castai/kubernetes-configmaps-and-secrets-what-are-they-and-when-to-use-them-4aab)
+- [ShortId Factory](https://dev.to/karimfahmy/shortid-factory-lc4)
+- [Nuxt 3, Algolia, Storyblok, and TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-3-algolia-storyblok-and-tailwindcss-crash-course-1lpa)
 - [AWS open source newsletter, #147](https://dev.to/aws/aws-open-source-newsletter-147-3jdo)
-- [React Admin Panel Tutorial with Chakra UI and Strapi](https://dev.to/refine/react-admin-panel-tutorial-with-chakra-ui-and-strapi-32pj)
-- [Implement These 7 JavaScript Web APIs for a Futuristic Website Experience](https://dev.to/devbambhaniya/implement-these-7-javascript-web-apis-for-a-futuristic-website-experience-3ckk)
-- [Resend - How to add an Email API Provider to Novu](https://dev.to/novu/resend-how-to-add-an-email-api-provider-to-novu-49cd)
 <!-- BLOG-POST-LIST:END -->
 
