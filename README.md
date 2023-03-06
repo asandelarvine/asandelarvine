@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [manipulation Data Science](https://dev.to/cromajetex/manipulation-data-science-3h48)
-- [Streamline your edge computing workflows with ReductStore, now available on Snap](https://dev.to/reductstore/streamline-your-edge-computing-workflows-with-reductstore-now-available-on-snap-2cf)
-- [O mínimo que você precisa saber para iniciar um projeto em TypeScript](https://dev.to/dellamora/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript-l13)
-- [Why I Left React](https://dev.to/gravy59/why-i-left-react-4k3p)
+- [Building Maintainable User Interfaces with React and TypeScript](https://dev.to/haszankauna/building-maintainable-user-interfaces-with-react-and-typescript-21f7)
+- [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
+- [Yet Another Newsletter LOL: Signals!](https://dev.to/nickytonline/yet-another-newsletter-lol-signals-4e60)
+- [Understanding the Difference Between props and state in React](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
 <!-- BLOG-POST-LIST:END -->
 
