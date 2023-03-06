@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Building Maintainable User Interfaces with React and TypeScript](https://dev.to/haszankauna/building-maintainable-user-interfaces-with-react-and-typescript-21f7)
 - [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
-- [Yet Another Newsletter LOL: Signals!](https://dev.to/nickytonline/yet-another-newsletter-lol-signals-4e60)
-- [Understanding the Difference Between props and state in React](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
+- [A Practical Guide to SQL Dates with DuckDB.](https://dev.to/cpard/a-guide-to-sql-dates-with-duckdb-2kj3)
+- [AI powered code debugging extensions](https://dev.to/bdougieyo/ai-powered-code-debugging-extensions-k0g)
 <!-- BLOG-POST-LIST:END -->
 
