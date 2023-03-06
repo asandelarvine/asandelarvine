@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Cheatsheet: A Quick Reference Guide for Git Commands ✨](https://dev.to/aerodarius/git-cheatsheet-a-quick-reference-guide-for-git-commands-3pif)
-- [I open sourced an AI that creates any UI in seconds.](https://dev.to/suede/i-open-sourced-an-ai-that-creates-any-ui-in-seconds-8hf)
-- [My Favorite free Courses to Learn Programming and Coding in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-programming-and-coding-in-2023-5f0e)
-- [My Journey as a Young Prokopton in Software Engineering](https://dev.to/ronikriger/my-journey-as-a-young-prokopton-in-software-engineering-2bdc)
+- [Introduction to React Diff Algorithm](https://dev.to/crossskatee1/introduction-to-react-diff-algorithm-4mf)
+- [Tech Lead: How to Mentoring Junior Developers](https://dev.to/daniloab/tech-lead-how-to-mentoring-junior-developers-58o1)
+- [S&#39;Monday 😪 Doug Linder](https://dev.to/codenewbieteam/smonday-4p28)
+- [DevOps Career Road Map](https://dev.to/aws-builders/devops-career-road-map-4ebd)
 <!-- BLOG-POST-LIST:END -->
 
