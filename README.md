@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Docker: Writing Optimal Dockerfiles and Optimizing Image Size for Smarter Deployments](https://dev.to/rokibulhasan114/mastering-docker-writing-optimal-dockerfiles-and-optimizing-image-size-for-smarter-deployments-13h2)
+- [HOW TO STUDY BETTER](https://dev.to/codebhandari/how-to-study-better-1479)
 - [POO en Python](https://dev.to/maxwellnewage/poo-en-python-15ae)
 - [Using AWS CodeDeploy with Lambda for Canary Deployments](https://dev.to/benbpyle/using-aws-codedeploy-with-lambda-for-canary-deployments-4fed)
-- [My Nim Development Weekly Report &lpar;3/5&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-35-12hd)
-- [The easiest way to have consistent looking code](https://dev.to/chasehuber/the-easiest-way-to-have-consistent-looking-code-2aa0)
 <!-- BLOG-POST-LIST:END -->
 
