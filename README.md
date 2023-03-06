@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Positive Community for Your Open Source Project](https://dev.to/bekahhw/how-to-create-a-positive-community-for-your-open-source-project-59p3)
 - [Billing the technical debt](https://dev.to/adambrandizzi/billing-the-technical-debt-45kb)
-- [CodePen Designs - 43 : Lottie Animations in React](https://dev.to/jon_snow789/codepen-designs-43-lottie-animations-in-react-1j31)
-- [Wrap Battling](https://dev.to/alvaromontoro/wrap-battling-15d0)
-- [The next generation image format for the web is not JPEG XL?](https://dev.to/robole/the-next-generation-image-format-for-the-web-is-not-jpeg-xl-348f)
+- [New VSCode extension to to build free Bootstrap templates visually and get clean HTML &amp; CSS](https://dev.to/kumarkalyan/new-vscode-extension-to-to-build-free-bootstrap-templates-visually-and-get-clean-html-css-5gmi)
+- [My dev experience at The Collab Lab](https://dev.to/crispitipina/my-dev-experience-at-the-collab-lab-j8l)
 <!-- BLOG-POST-LIST:END -->
 
