@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌱Using Forem as an intranet website, yay or nay?](https://dev.to/hunghvu/using-forem-as-an-intranet-website-yay-or-nay-3hdo)
+- [Announcing the First Release Candidate of HydePHP: A Laravel-Based Static Site Generator](https://dev.to/codewithcaen/announcing-the-first-release-candidate-of-hydephp-a-laravel-based-static-site-generator-5307)
 - [JavaScript Tutorial Series: Manipulating elements styles](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
 - [Revolutionizing Go Programming: The Game-Changing Feature You Can&#39;t Afford to Miss!](https://dev.to/eminmuhammadi/revolutionizing-go-programming-the-game-changing-feature-you-cant-afford-to-miss-f7h)
-- [#DEVDiscuss: CI/CD Pipelines](https://dev.to/devteam/devdiscuss-cicd-pipelines-47fh)
-- [STM32F4 Embedded Rust at the PAC: UART Communication](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-uart-communication-djp)
 <!-- BLOG-POST-LIST:END -->
 
