@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Maintenance is Community Organizing](https://dev.to/codenameone/open-source-maintenance-is-community-organizing-56p5)
+- [Customization using Matplotlib in Python.](https://dev.to/jindalkeshav82/customization-using-matplotlib-in-python-2ji5)
+- [Beyond Google: How to Ask Good Questions as a Developer](https://dev.to/codewithvoid/beyond-google-how-to-ask-good-questions-as-a-developer-2jaa)
 - [Tidelift can help with legal support for lifters](https://dev.to/tidelift/tidelift-can-help-with-legal-support-for-lifters-4729)
-- [I tried making this reflective UI using HTML CSS and Javascript](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
-- [5 Real-world Projects for Practicing With NextJS](https://dev.to/devland/5-real-world-projects-for-practicing-with-nextjs-55g7)
-- [ChatGPT shares its interview experience with Google for the post of SDE Intern.](https://dev.to/anshsinghsonkhia/chatgpt-shares-its-interview-experience-with-google-for-the-post-of-sde-intern-1h9l)
 <!-- BLOG-POST-LIST:END -->
 
