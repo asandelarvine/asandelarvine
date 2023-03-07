@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Moonly weekly progress update #39](https://dev.to/moonly/moonly-weekly-progress-update-39-2bfj)
 - [Deploying a React app to production](https://dev.to/haszankauna/deploying-a-react-app-to-production-4i61)
 - [Scribe Chrome Extension: The Ultimate Tool for Documenting Your Processes](https://dev.to/esedev/scribe-chrome-extension-the-ultimate-tool-for-documenting-your-processes-4kif)
-- [Spring Boot With JSP](https://dev.to/realnamehidden1_61/spring-boot-with-jsp-5ame)
+- [Internet of Things &lpar;IoT&rpar;: A Revolutionary Technology To Our Social Problems](https://dev.to/frankiefab100/internet-of-things-iot-a-revolutionary-technology-to-our-social-problems-3c3p)
 <!-- BLOG-POST-LIST:END -->
 
