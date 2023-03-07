@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Tutorial Series: Manipulating elements styles](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
+- [Revolutionizing Go Programming: The Game-Changing Feature You Can&#39;t Afford to Miss!](https://dev.to/eminmuhammadi/revolutionizing-go-programming-the-game-changing-feature-you-cant-afford-to-miss-f7h)
 - [#DEVDiscuss: CI/CD Pipelines](https://dev.to/devteam/devdiscuss-cicd-pipelines-47fh)
-- [Web Scraping with python: Real world examples](https://dev.to/saifeddin1/web-scraping-with-python-real-world-examples-57g5)
-- [Building a Next.js app using Tailwind and Storybook](https://dev.to/logrocket/building-a-nextjs-app-using-tailwind-and-storybook-2a1a)
-- [Open Source Maintenance is Community Organizing](https://dev.to/codenameone/open-source-maintenance-is-community-organizing-56p5)
+- [STM32F4 Embedded Rust at the PAC: UART Communication](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-uart-communication-djp)
 <!-- BLOG-POST-LIST:END -->
 
