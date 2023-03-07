@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Years on DEV?](https://dev.to/jarvisscript/six-years-on-dev-3j4c)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4964)
+- [How to Install .DEB files in Arch Based Distros &lpar;e.g Manjaro Linux&rpar;](https://dev.to/vincod/how-to-install-deb-files-in-arch-based-distros-eg-manjaro-linux-20ge)
 - [The Complete React Native Tutorial For Beginners](https://dev.to/alisamirali/the-complete-react-native-tutorial-for-beginners-2cp4)
-- [How to check if a node file is running as a script?](https://dev.to/woovi/how-to-check-if-a-node-file-is-running-as-a-script-17ee)
-- [Revamp Your Icon Game: The Best Open-Source Icon Libraries of 2023 🚀](https://dev.to/ananiket/revamp-your-icon-game-the-best-open-source-icon-libraries-of-2023-1edg)
-- [Quick Sort Algorithm in C++](https://dev.to/ist4/quick-sort-algorithm-in-c-10pl)
 <!-- BLOG-POST-LIST:END -->
 
