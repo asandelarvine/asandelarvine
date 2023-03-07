@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Modern, Simple Landing Page Using React with TypeScript](https://dev.to/haszankauna/build-a-modern-simple-landing-page-using-react-with-typescript-51f2)
+- [.NET Console Application with injectable commands](https://dev.to/keestalkstech/net-console-application-with-injectable-commands-27ni)
+- [Build a web API with C# &amp; ASP NET Core 7.0](https://dev.to/osempu/build-a-web-api-with-c-asp-net-core-70-jp)
 - [15 Do&#39;s &amp; Don&#39;ts you must know to get the best out of AWS](https://dev.to/pragyanatvade/15-dos-donts-of-aws-that-you-must-know-to-get-the-best-out-of-it-4f38)
-- [Who is DevOps Engineers](https://dev.to/abhixsh/who-is-devops-engineers-101l)
-- [Sharing Git credentials between Windows and WSL](https://dev.to/equiman/sharing-git-credentials-between-windows-and-wsl-5a2a)
-- [Private Networking in Azure: The Key to Data Exfiltration Prevention](https://dev.to/deepakbhardwajps/private-networking-in-azure-the-key-to-data-exfiltration-prevention-poa)
 <!-- BLOG-POST-LIST:END -->
 
