@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Awesome Side of GitHub - Awesome Lists](https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h)
+- [Rebuild an EMI Calculator without Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/efpage/rebuild-an-emi-calculator-without-nextjs-typescript-tailwind-css-recoil-and-recharts-3d0n)
+- [Setting up SSH Keys for Github, GitLab, and Bitbucket in one windows pc](https://dev.to/clickpesa/setting-up-ssh-keys-for-github-gitlab-and-bitbucket-in-one-windows-pc-3d9j)
 - [Top 15 Tech Websites to Bookmark Now to Stay Updated](https://dev.to/tigereye_zr/top-15-tech-websites-to-bookmark-now-to-stay-updated-40k7)
-- [Step-by-Step Guide: Running Your First React Native android App in 2023](https://dev.to/aneeqakhan/step-by-step-guide-running-your-first-react-native-android-app-in-2023-1hh6)
-- [Oracle Testing Tools: Types, Challenges, and Solution](https://dev.to/rohitbhandari102/oracle-testing-tools-types-challenges-and-solution-1gjp)
-- [Logistics Automation - Routing Task Assignment](https://dev.to/balagmadhu/logistics-automation-routing-task-assignment-4aln)
 <!-- BLOG-POST-LIST:END -->
 
