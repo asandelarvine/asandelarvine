@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is DevOps Engineers](https://dev.to/abhixsh/who-is-devops-engineers-101l)
 - [Private Networking in Azure: The Key to Data Exfiltration Prevention](https://dev.to/deepakbhardwajps/private-networking-in-azure-the-key-to-data-exfiltration-prevention-poa)
+- [Using React hooks to develop a Video Player](https://dev.to/lawrencekarasek/using-react-hooks-to-develop-a-video-player-5d5p)
 - [Catch me if you can](https://dev.to/onlinedevelopers/catch-me-if-you-can-h8b)
-- [PostgreSQL Process Architecture](https://dev.to/maruf13/postgresql-process-architecture-3o4g)
-- [Maximizing Your Job Search: Insights from Andronica Klaas, Meta Engineer](https://dev.to/michaellarocca/maximizing-your-job-search-insights-from-andronica-klaas-meta-engineer-9c7)
 <!-- BLOG-POST-LIST:END -->
 
