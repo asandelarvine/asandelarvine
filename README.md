@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Modern, Simple Landing Page Using React with TypeScript](https://dev.to/haszankauna/build-a-modern-simple-landing-page-using-react-with-typescript-51f2)
-- [.NET Console Application with injectable commands](https://dev.to/keestalkstech/net-console-application-with-injectable-commands-27ni)
-- [Build a web API with C# &amp; ASP NET Core 7.0](https://dev.to/osempu/build-a-web-api-with-c-asp-net-core-70-jp)
-- [15 Do&#39;s &amp; Don&#39;ts you must know to get the best out of AWS](https://dev.to/pragyanatvade/15-dos-donts-of-aws-that-you-must-know-to-get-the-best-out-of-it-4f38)
+- [How atomic Git commits dramatically increased my productivity - and will increase yours too](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
+- [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-3b2c)
+- [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-38d4)
+- [How to use Web Workers in ReactJS: A step-by-step guide](https://dev.to/ifourtechnolab/how-to-use-web-workers-in-reactjs-a-step-by-step-guide-2oo1)
 <!-- BLOG-POST-LIST:END -->
 
