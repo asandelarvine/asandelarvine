@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Next.js app using Tailwind and Storybook](https://dev.to/logrocket/building-a-nextjs-app-using-tailwind-and-storybook-2a1a)
 - [Open Source Maintenance is Community Organizing](https://dev.to/codenameone/open-source-maintenance-is-community-organizing-56p5)
 - [Customization using Matplotlib in Python.](https://dev.to/jindalkeshav82/customization-using-matplotlib-in-python-2ji5)
 - [Beyond Google: How to Ask Good Questions as a Developer](https://dev.to/codewithvoid/beyond-google-how-to-ask-good-questions-as-a-developer-2jaa)
-- [Tidelift can help with legal support for lifters](https://dev.to/tidelift/tidelift-can-help-with-legal-support-for-lifters-4729)
 <!-- BLOG-POST-LIST:END -->
 
