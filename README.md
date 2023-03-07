@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Networking in Azure: The Key to Data Exfiltration Prevention](https://dev.to/deepakbhardwajps/private-networking-in-azure-the-key-to-data-exfiltration-prevention-poa)
+- [Catch me if you can](https://dev.to/onlinedevelopers/catch-me-if-you-can-h8b)
+- [PostgreSQL Process Architecture](https://dev.to/maruf13/postgresql-process-architecture-3o4g)
 - [Maximizing Your Job Search: Insights from Andronica Klaas, Meta Engineer](https://dev.to/michaellarocca/maximizing-your-job-search-insights-from-andronica-klaas-meta-engineer-9c7)
-- [JavaScript Tutorial Series: HTML attributes &amp; DOM object properties.](https://dev.to/fullstackjo/javascript-tutorial-series-html-attributes-dom-object-properties-311o)
-- [If use Jetpack compose don&#39;t use Shared Preference](https://dev.to/thecoder93/if-use-jetpack-compose-dont-use-shared-preference-p8p)
-- [#CodeNewbie Meme Monday](https://dev.to/codenewbieteam/codenewbie-meme-monday-4m26)
 <!-- BLOG-POST-LIST:END -->
 
