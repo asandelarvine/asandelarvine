@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revamp Your Icon Game: The Best Open-Source Icon Libraries of 2023 🚀](https://dev.to/ananiket/revamp-your-icon-game-the-best-open-source-icon-libraries-of-2023-1edg)
+- [Avoiding UI Regressions With Jest](https://dev.to/woovi/avoiding-ui-regressions-with-jest-49f3)
+- [Trending Go repos of the week 📈](https://dev.to/quine/trending-go-repos-of-the-week-1f79)
 - [11 Essential Considerations When Implementing an Ecommerce Cart](https://dev.to/medusajs/11-essential-considerations-when-implementing-an-ecommerce-cart-2n43)
-- [Jira](https://dev.to/anay21110/jira-516m)
-- [NEW: 2023 IT freelancer survey](https://dev.to/carperez/new-2023-it-freelancer-survey-37mc)
-- [Moonly weekly progress update #39](https://dev.to/moonly/moonly-weekly-progress-update-39-2bfj)
 <!-- BLOG-POST-LIST:END -->
 
