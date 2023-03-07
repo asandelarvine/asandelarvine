@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete React Native Tutorial For Beginners](https://dev.to/alisamirali/the-complete-react-native-tutorial-for-beginners-2cp4)
+- [How to check if a node file is running as a script?](https://dev.to/woovi/how-to-check-if-a-node-file-is-running-as-a-script-17ee)
 - [Revamp Your Icon Game: The Best Open-Source Icon Libraries of 2023 🚀](https://dev.to/ananiket/revamp-your-icon-game-the-best-open-source-icon-libraries-of-2023-1edg)
-- [Avoiding UI Regressions With Jest](https://dev.to/woovi/avoiding-ui-regressions-with-jest-49f3)
-- [Trending Go repos of the week 📈](https://dev.to/quine/trending-go-repos-of-the-week-1f79)
-- [11 Essential Considerations When Implementing an Ecommerce Cart](https://dev.to/medusajs/11-essential-considerations-when-implementing-an-ecommerce-cart-2n43)
+- [Quick Sort Algorithm in C++](https://dev.to/ist4/quick-sort-algorithm-in-c-10pl)
 <!-- BLOG-POST-LIST:END -->
 
