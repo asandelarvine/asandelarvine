@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Codility === Sadness](https://dev.to/bytebodger/codility-sadness-4of0)
-- [Read and Write Python Json](https://dev.to/max24816/read-and-write-python-json-h6i)
-- [Six Years on DEV, Already?](https://dev.to/jarvisscript/six-years-on-dev-3j4c)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4964)
+- [Tidelift can help with legal support for lifters](https://dev.to/tidelift/tidelift-can-help-with-legal-support-for-lifters-4729)
+- [I tried making this reflective UI using HTML CSS and Javascript](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
+- [5 Real-world Projects for Practicing With NextJS](https://dev.to/devland/5-real-world-projects-for-practicing-with-nextjs-55g7)
+- [ChatGPT shares its interview experience with Google for the post of SDE Intern.](https://dev.to/anshsinghsonkhia/chatgpt-shares-its-interview-experience-with-google-for-the-post-of-sde-intern-1h9l)
 <!-- BLOG-POST-LIST:END -->
 
