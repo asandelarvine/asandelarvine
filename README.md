@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 15 Tech Websites to Bookmark Now to Stay Updated](https://dev.to/tigereye_zr/top-15-tech-websites-to-bookmark-now-to-stay-updated-40k7)
+- [Step-by-Step Guide: Running Your First React Native android App in 2023](https://dev.to/aneeqakhan/step-by-step-guide-running-your-first-react-native-android-app-in-2023-1hh6)
+- [Oracle Testing Tools: Types, Challenges, and Solution](https://dev.to/rohitbhandari102/oracle-testing-tools-types-challenges-and-solution-1gjp)
 - [How atomic Git commits dramatically increased my productivity - and will increase yours too](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
-- [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-3b2c)
-- [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-38d4)
-- [How to use Web Workers in ReactJS: A step-by-step guide](https://dev.to/ifourtechnolab/how-to-use-web-workers-in-reactjs-a-step-by-step-guide-2oo1)
 <!-- BLOG-POST-LIST:END -->
 
