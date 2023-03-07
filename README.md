@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Awesome Side of GitHub - Awesome Lists](https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h)
+- [Setup a local dev server for your Playwright tests](https://dev.to/playwright/setup-a-local-dev-server-for-your-playwright-tests-33m9)
 - [Rebuild an EMI Calculator without Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/efpage/rebuild-an-emi-calculator-without-nextjs-typescript-tailwind-css-recoil-and-recharts-3d0n)
 - [Setting up SSH Keys for Github, GitLab, and Bitbucket in one windows pc](https://dev.to/clickpesa/setting-up-ssh-keys-for-github-gitlab-and-bitbucket-in-one-windows-pc-3d9j)
-- [Top 15 Tech Websites to Bookmark Now to Stay Updated](https://dev.to/tigereye_zr/top-15-tech-websites-to-bookmark-now-to-stay-updated-40k7)
 <!-- BLOG-POST-LIST:END -->
 
