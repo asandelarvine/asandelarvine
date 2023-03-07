@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Years on DEV?](https://dev.to/jarvisscript/six-years-on-dev-3j4c)
+- [Codility === Sadness](https://dev.to/bytebodger/codility-sadness-4of0)
+- [Read and Write Python Json](https://dev.to/max24816/read-and-write-python-json-h6i)
+- [Six Years on DEV, Already?](https://dev.to/jarvisscript/six-years-on-dev-3j4c)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4964)
-- [How to Install .DEB files in Arch Based Distros &lpar;e.g Manjaro Linux&rpar;](https://dev.to/vincod/how-to-install-deb-files-in-arch-based-distros-eg-manjaro-linux-20ge)
-- [The Complete React Native Tutorial For Beginners](https://dev.to/alisamirali/the-complete-react-native-tutorial-for-beginners-2cp4)
 <!-- BLOG-POST-LIST:END -->
 
