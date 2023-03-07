@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Awesome Side of GitHub - Awesome Lists](https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h)
-- [Setup a local dev server for your Playwright tests](https://dev.to/playwright/setup-a-local-dev-server-for-your-playwright-tests-33m9)
-- [Rebuild an EMI Calculator without Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/efpage/rebuild-an-emi-calculator-without-nextjs-typescript-tailwind-css-recoil-and-recharts-3d0n)
-- [Setting up SSH Keys for Github, GitLab, and Bitbucket in one windows pc](https://dev.to/clickpesa/setting-up-ssh-keys-for-github-gitlab-and-bitbucket-in-one-windows-pc-3d9j)
+- [Moonly weekly progress update #39](https://dev.to/moonly/moonly-weekly-progress-update-39-2bfj)
+- [Deploying a React app to production](https://dev.to/haszankauna/deploying-a-react-app-to-production-4i61)
+- [Scribe Chrome Extension: The Ultimate Tool for Documenting Your Processes](https://dev.to/esedev/scribe-chrome-extension-the-ultimate-tool-for-documenting-your-processes-4kif)
+- [Spring Boot With JSP](https://dev.to/realnamehidden1_61/spring-boot-with-jsp-5ame)
 <!-- BLOG-POST-LIST:END -->
 
