@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Who is DevOps Engineers](https://dev.to/abhixsh/who-is-devops-engineers-101l)
+- [Sharing Git credentials between Windows and WSL](https://dev.to/equiman/sharing-git-credentials-between-windows-and-wsl-5a2a)
 - [Private Networking in Azure: The Key to Data Exfiltration Prevention](https://dev.to/deepakbhardwajps/private-networking-in-azure-the-key-to-data-exfiltration-prevention-poa)
 - [Using React hooks to develop a Video Player](https://dev.to/lawrencekarasek/using-react-hooks-to-develop-a-video-player-5d5p)
-- [Catch me if you can](https://dev.to/onlinedevelopers/catch-me-if-you-can-h8b)
 <!-- BLOG-POST-LIST:END -->
 
