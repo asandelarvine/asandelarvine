@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Posting on LinkedIn Using Python and Selenium](https://dev.to/furkangulsen/posting-on-linkedin-using-python-and-selenium-5723)
 - [Resources You Should Follow to Stay updated with Latest Tech Trends](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
 - [Docker Registry Management](https://dev.to/waji97/docker-registry-management-3ag2)
 - [How to fetch data from API in ReactJS](https://dev.to/adityasaini3/how-to-fetch-data-from-api-in-reactjs-g56)
-- [well... let&#39;s go to implement linter to project!](https://dev.to/juanestban/well-lets-go-to-implement-linter-to-project-2o6j)
 <!-- BLOG-POST-LIST:END -->
 
