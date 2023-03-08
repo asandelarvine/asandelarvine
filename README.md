@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The CodeNewbie Podcast, S23:E4: A/B Testing](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e4-ab-testing-1n96)
+- [Tips to become a better programmer](https://dev.to/abdrzqsalihu/tips-to-become-a-better-programmer-2bba)
 - [Let&#39;s keep moving the goal posts](https://dev.to/ben/lets-keep-moving-the-goal-posts-3jjl)
 - [The people changing their lives in their spare time](https://dev.to/gustavupp/the-people-changing-their-lives-in-their-spare-time-4eik)
-- [10 Best React Libraries for Building User Interfaces](https://dev.to/jsandaruwan/10-best-react-libraries-for-building-user-interfaces-dg9)
-- [Como criar requisição de Crud Básico em Javascript usando Fetch API](https://dev.to/tgmarinhodev/como-criar-requisicao-de-crud-basico-em-javascript-usando-fetch-api-22b9)
 <!-- BLOG-POST-LIST:END -->
 
