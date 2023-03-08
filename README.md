@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Upwork currency: Connects](https://dev.to/sakaz22/the-upwork-currency-connects-21n1)
+- [From Being Overwhelmed to Productively Completing a Project 🚀](https://dev.to/evansifyke/from-being-overwhelmed-to-productively-completing-a-project-1p2d)
+- [We Belong in Web3](https://dev.to/lolocoding/we-belong-in-web3-3143)
 - [8 Ways to Support Women Developers](https://dev.to/abbeyperini/8-ways-to-support-women-developers-55lf)
-- [Building an API using FastAPI and Uvicorn](https://dev.to/blst-security/building-an-api-using-fastapi-and-uvicorn-3h79)
-- [React Form Validations Made Easy — The Ultimate Cheat Sheet](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
-- [Yangi qator](https://dev.to/nuriddin152/yangi-qator-4733)
 <!-- BLOG-POST-LIST:END -->
 
