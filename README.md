@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [DevBytes - A place to scroll like Instagram to learn tech](https://dev.to/rounit08/devbytes-a-place-to-scroll-like-instagram-to-learn-tech-34b0)
 - [Learn How to Deploy NGINX on Kubernetes Using Helm Chart](https://dev.to/pavanbelagatti/learn-how-to-deploy-nginx-on-kubernetes-using-helm-chart-4p6e)
-- [need help azure deployment went wrong error message 404. can&#39;t figure out what&#39;s the trouble logs all clean...](https://dev.to/cabreltchoffo/need-help-azure-deployment-went-wrong-error-message-404-cant-figure-out-whats-the-trouble-logs-all-clean-4agk)
 - [Simplify state with reducer](https://dev.to/thexdev/simplify-state-with-reducer-28bn)
+- [Weekly web development resources #139](https://dev.to/vincenius/weekly-web-development-resources-139-42j6)
 <!-- BLOG-POST-LIST:END -->
 
