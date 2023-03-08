@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
+- [How to Use &quot;Cats&quot; dataset with Python ReductStore SDK](https://dev.to/reductstore/how-to-use-cats-dataset-with-python-reduct-sdk-4197)
 - [🌱Using Forem as an intranet website, yay or nay?](https://dev.to/hunghvu/using-forem-as-an-intranet-website-yay-or-nay-3hdo)
-- [Announcing the First Release Candidate of HydePHP: A Laravel-Based Static Site Generator](https://dev.to/codewithcaen/announcing-the-first-release-candidate-of-hydephp-a-laravel-based-static-site-generator-5307)
-- [JavaScript Tutorial Series: Manipulating elements styles](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
-- [Revolutionizing Go Programming: The Game-Changing Feature You Can&#39;t Afford to Miss!](https://dev.to/eminmuhammadi/revolutionizing-go-programming-the-game-changing-feature-you-cant-afford-to-miss-f7h)
+- [Deploying Next.js apps to Netlify](https://dev.to/zsevic/deploying-nextjs-apps-to-netlify-1hcd)
 <!-- BLOG-POST-LIST:END -->
 
