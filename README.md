@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Holi colors throw on click of screen](https://dev.to/indrakantm23/holi-colors-throw-on-click-of-screen-3d8k)
-- [AI powered age transformation](https://dev.to/bdougieyo/ai-powered-age-transformation-h94)
-- [Posting on LinkedIn Using Python and Selenium](https://dev.to/furkangulsen/posting-on-linkedin-using-python-and-selenium-5723)
-- [Resources You Should Follow to Stay updated with Latest Tech Trends](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
+- [need help azure deployment went wrong error message 404. can&#39;t figure out what&#39;s the trouble logs all clean...](https://dev.to/cabreltchoffo/need-help-azure-deployment-went-wrong-error-message-404-cant-figure-out-whats-the-trouble-logs-all-clean-4agk)
+- [Simplify state with reducer](https://dev.to/thexdev/simplify-state-with-reducer-28bn)
+- [How Can Coding Make a Positive Impact on Society?](https://dev.to/codenewbieteam/how-can-coding-make-a-positive-impact-on-society-na8)
+- [When React Met Next.js: A Love Story for the Ages ️](https://dev.to/rardooba/when-react-met-nextjs-a-love-story-for-the-ages-1093)
 <!-- BLOG-POST-LIST:END -->
 
