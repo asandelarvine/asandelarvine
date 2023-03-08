@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for #WeCoded 2023!](https://dev.to/devteam/join-us-for-wecoded-2023-9cj)
+- [Read and Write JSON in Python Requests from API](https://dev.to/max24816/read-and-write-json-in-python-requests-from-api-52ga)
 - [Portal - a modern file transfer utility 🌌✨](https://dev.to/zinokader/portal-a-modern-file-transfer-utility-4154)
-- [Redirects in Payload — Retaining SEO Value and Avoiding 404s](https://dev.to/payloadcms/redirects-in-payload-retaining-seo-value-and-avoiding-404s-23ed)
-- [Building a Serverless Post Scheduler For Static Websites](https://dev.to/aws-heroes/building-a-serverless-post-scheduler-for-static-websites-4ci3)
-- [Como utilizar transactions de forma simples no framework Nest.js](https://dev.to/angelorubin/como-utilizar-transactions-de-forma-simples-no-framework-nestjs-5h60)
+- [Can I Code Without My Laptop?](https://dev.to/gauravgaur/can-i-code-without-my-laptop-3fia)
 <!-- BLOG-POST-LIST:END -->
 
