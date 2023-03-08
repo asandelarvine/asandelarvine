@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s keep moving the goal posts](https://dev.to/ben/lets-keep-moving-the-goal-posts-3jjl)
+- [The people changing their lives in their spare time](https://dev.to/gustavupp/the-people-changing-their-lives-in-their-spare-time-4eik)
 - [10 Best React Libraries for Building User Interfaces](https://dev.to/jsandaruwan/10-best-react-libraries-for-building-user-interfaces-dg9)
 - [Como criar requisição de Crud Básico em Javascript usando Fetch API](https://dev.to/tgmarinhodev/como-criar-requisicao-de-crud-basico-em-javascript-usando-fetch-api-22b9)
-- [Introduction to Algorithm: Linear Search Vs Binary Search](https://dev.to/michellebuchiokonicha/introduction-to-algorithm-linear-search-vs-binary-search-31j0)
-- [The Upwork currency: Connects](https://dev.to/sakaz22/the-upwork-currency-connects-21n1)
 <!-- BLOG-POST-LIST:END -->
 
