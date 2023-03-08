@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for #WeCoded 2023!](https://dev.to/devteam/join-us-for-wecoded-2023-9cj)
-- [Read and Write JSON in Python Requests from API](https://dev.to/max24816/read-and-write-json-in-python-requests-from-api-52ga)
-- [Portal - a modern file transfer utility 🌌✨](https://dev.to/zinokader/portal-a-modern-file-transfer-utility-4154)
-- [Can I Code Without My Laptop?](https://dev.to/gauravgaur/can-i-code-without-my-laptop-3fia)
+- [Syntaksis](https://dev.to/nuriddin152/syntaksis-5dbm)
+- [Top 10 Face Detection APIs](https://dev.to/edenai/top-10-face-detection-apis-134l)
+- [Join the WeCoded Virtual Meetup on 3/10 🌟](https://dev.to/devteam/join-the-wecoded-virtual-meetup-on-310-j1l)
+- [DDD : Authentication and Authorisation, How to achieve?](https://dev.to/ajoshi31/ddd-authentication-and-authorisation-how-to-achieve-12bd)
 <!-- BLOG-POST-LIST:END -->
 
