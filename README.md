@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como utilizar transactions de forma simples no framework Nest.js](https://dev.to/angelorubin/como-utilizar-transactions-de-forma-simples-no-framework-nestjs-5h60)
 - [Spring Security — Generate Docs for Authorization Rules](https://dev.to/kirekov/spring-security-generate-docs-for-authorization-rules-fc6)
+- [Glassmorphic Nav bar tutorial &lpar;+JS dark toggle&rpar;](https://dev.to/lensco825/glassmorphic-nav-bar-tutorial-js-dark-toggle-n0l)
 - [Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://dev.to/tsg/semantic-or-keyword-search-for-finding-chatgpt-context-who-searched-it-better-4bdp)
-- [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
-- [10 repositories to star if you are a Javascript developer](https://dev.to/tejakummarikuntla/10-repositories-to-star-if-you-are-a-javascript-developer-40aj)
 <!-- BLOG-POST-LIST:END -->
 
