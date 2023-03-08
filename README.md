@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fetch data from API in ReactJS](https://dev.to/adityasaini3/how-to-fetch-data-from-api-in-reactjs-g56)
 - [🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
 - [🌎🚀 Error Handling in Web Application](https://dev.to/dhrn/error-handling-in-web-app-4276)
 - [How to Use &quot;Cats&quot; dataset with Python ReductStore SDK](https://dev.to/reductstore/how-to-use-cats-dataset-with-python-reduct-sdk-4197)
-- [🌱Using Forem as an intranet website, yay or nay?](https://dev.to/hunghvu/using-forem-as-an-intranet-website-yay-or-nay-3hdo)
 <!-- BLOG-POST-LIST:END -->
 
