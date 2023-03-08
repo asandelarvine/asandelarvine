@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Syntaksis](https://dev.to/nuriddin152/syntaksis-5dbm)
-- [Top 10 Face Detection APIs](https://dev.to/edenai/top-10-face-detection-apis-134l)
-- [Join the WeCoded Virtual Meetup on 3/10 🌟](https://dev.to/devteam/join-the-wecoded-virtual-meetup-on-310-j1l)
-- [DDD : Authentication and Authorisation, How to achieve?](https://dev.to/ajoshi31/ddd-authentication-and-authorisation-how-to-achieve-12bd)
+- [React Form Validations Made Easy — The Ultimate Cheat Sheet](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
+- [Yangi qator](https://dev.to/nuriddin152/yangi-qator-4733)
+- [Mentors](https://dev.to/jhatcher9999/mentors-34j5)
+- [chiqarish operatorlari](https://dev.to/nuriddin152/chiqarish-operatorlari-4f3c)
 <!-- BLOG-POST-LIST:END -->
 
