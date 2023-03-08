@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevBytes - A place to scroll like Instagram to learn tech](https://dev.to/rounit08/devbytes-a-place-to-scroll-like-instagram-to-learn-tech-34b0)
-- [Learn How to Deploy NGINX on Kubernetes Using Helm Chart](https://dev.to/pavanbelagatti/learn-how-to-deploy-nginx-on-kubernetes-using-helm-chart-4p6e)
-- [Simplify state with reducer](https://dev.to/thexdev/simplify-state-with-reducer-28bn)
-- [Weekly web development resources #139](https://dev.to/vincenius/weekly-web-development-resources-139-42j6)
+- [Spring Security — Generate Docs for Authorization Rules](https://dev.to/kirekov/spring-security-generate-docs-for-authorization-rules-fc6)
+- [Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://dev.to/tsg/semantic-or-keyword-search-for-finding-chatgpt-context-who-searched-it-better-4bdp)
+- [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
+- [10 repositories to star if you are a Javascript developer](https://dev.to/tejakummarikuntla/10-repositories-to-star-if-you-are-a-javascript-developer-40aj)
 <!-- BLOG-POST-LIST:END -->
 
