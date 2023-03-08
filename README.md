@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Ways to Support Women Developers](https://dev.to/abbeyperini/8-ways-to-support-women-developers-55lf)
+- [Building an API using FastAPI and Uvicorn](https://dev.to/blst-security/building-an-api-using-fastapi-and-uvicorn-3h79)
 - [React Form Validations Made Easy — The Ultimate Cheat Sheet](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
 - [Yangi qator](https://dev.to/nuriddin152/yangi-qator-4733)
-- [Mentors](https://dev.to/jhatcher9999/mentors-34j5)
-- [chiqarish operatorlari](https://dev.to/nuriddin152/chiqarish-operatorlari-4f3c)
 <!-- BLOG-POST-LIST:END -->
 
