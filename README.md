@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Portal - a modern file transfer utility 🌌✨](https://dev.to/zinokader/portal-a-modern-file-transfer-utility-4154)
+- [Redirects in Payload — Retaining SEO Value and Avoiding 404s](https://dev.to/payloadcms/redirects-in-payload-retaining-seo-value-and-avoiding-404s-23ed)
+- [Building a Serverless Post Scheduler For Static Websites](https://dev.to/aws-heroes/building-a-serverless-post-scheduler-for-static-websites-4ci3)
 - [Como utilizar transactions de forma simples no framework Nest.js](https://dev.to/angelorubin/como-utilizar-transactions-de-forma-simples-no-framework-nestjs-5h60)
-- [Spring Security — Generate Docs for Authorization Rules](https://dev.to/kirekov/spring-security-generate-docs-for-authorization-rules-fc6)
-- [Glassmorphic Nav bar tutorial &lpar;+JS dark toggle&rpar;](https://dev.to/lensco825/glassmorphic-nav-bar-tutorial-js-dark-toggle-n0l)
-- [Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://dev.to/tsg/semantic-or-keyword-search-for-finding-chatgpt-context-who-searched-it-better-4bdp)
 <!-- BLOG-POST-LIST:END -->
 
