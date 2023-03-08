@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DevBytes - A place to scroll like Instagram to learn tech](https://dev.to/rounit08/devbytes-a-place-to-scroll-like-instagram-to-learn-tech-34b0)
+- [Learn How to Deploy NGINX on Kubernetes Using Helm Chart](https://dev.to/pavanbelagatti/learn-how-to-deploy-nginx-on-kubernetes-using-helm-chart-4p6e)
 - [need help azure deployment went wrong error message 404. can&#39;t figure out what&#39;s the trouble logs all clean...](https://dev.to/cabreltchoffo/need-help-azure-deployment-went-wrong-error-message-404-cant-figure-out-whats-the-trouble-logs-all-clean-4agk)
 - [Simplify state with reducer](https://dev.to/thexdev/simplify-state-with-reducer-28bn)
-- [How Can Coding Make a Positive Impact on Society?](https://dev.to/codenewbieteam/how-can-coding-make-a-positive-impact-on-society-na8)
-- [When React Met Next.js: A Love Story for the Ages ️](https://dev.to/rardooba/when-react-met-nextjs-a-love-story-for-the-ages-1093)
 <!-- BLOG-POST-LIST:END -->
 
