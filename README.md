@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New AI Tools Released for Developers - W1 March](https://dev.to/cloakd/new-ai-tools-released-for-developers-w1-march-4e6g)
-- [Using TRPC in Astro and its &lpar;React&rpar; islands](https://dev.to/thomasledoux1/using-trpc-in-astro-and-its-react-islands-3021)
-- [Python SDK: Your First Application](https://dev.to/temporalio/python-sdk-your-first-application-1fac)
-- [Python SDK: Diving into Workers and Workflows](https://dev.to/temporalio/python-sdk-diving-into-workers-and-workflows-3337)
+- [CLI Client for ReductStore v0.8.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v080-has-been-released-5gi)
+- [Gender Equity in Software Development](https://dev.to/geesilu/gender-equity-in-software-development-533f)
+- [How to learn and use TypeScript + the bits no one teaches you.](https://dev.to/brianschnee/how-to-learn-and-use-typescript-the-bits-no-one-teaches-you-2667)
+- [Recap of my experience at THAT Conference 2023](https://dev.to/austingil/recap-of-my-experience-at-that-conference-2023-5803)
 <!-- BLOG-POST-LIST:END -->
 
