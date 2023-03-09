@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Authenticate with OpenID Connect and Apache APISIX](https://dev.to/apisix/authenticate-with-openid-connect-and-apache-apisix-448h)
 - [How to manage VSCode extensions?](https://dev.to/parmcoder/how-to-manage-vscode-extensions-2kg7)
 - [AI Is Changing The Way We Code: AI-Driven Development &lpar;AIDD&rpar;](https://dev.to/dawiddahl/ai-is-changing-the-way-we-code-ai-driven-development-aidd-2ngo)
-- [gRPC and .Net Core](https://dev.to/prasannaupatankar/grpc-and-net-core-1a8p)
+- [Event-Driven vs Workflows: A Comprehensive Comparison for Developers and Architects](https://dev.to/aws-builders/event-driven-vs-workflows-a-comprehensive-comparison-for-developers-and-architects-2j9k)
 <!-- BLOG-POST-LIST:END -->
 
