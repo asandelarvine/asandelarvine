@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Promoting Equality in the Tech Industry](https://dev.to/binayakjha/promoting-equality-in-the-tech-industry-16ph)
+- [How to use .gitignore Files](https://dev.to/techelevator/how-to-use-gitignore-files-5032)
+- [Usage of useMemo hook in React](https://dev.to/keento0809/usage-of-usememo-hook-in-react-221i)
 - [Gender equality in the tech industry](https://dev.to/abhixsh/gender-equality-in-the-tech-industry-375h)
-- [NestJS - Unit and E2E testing](https://dev.to/rohithart/nestjs-unit-and-e2e-testing-7pb)
-- [AWS Cloud Quest: Container Services](https://dev.to/arc/aws-cloud-quest-container-services-1hi7)
-- [How to create a free email subscription form in NextJS, Netlify and MailerLite](https://dev.to/duncanteege/how-to-create-an-email-subscription-form-in-nextjs-netlify-and-mailerlite-41mc)
 <!-- BLOG-POST-LIST:END -->
 
