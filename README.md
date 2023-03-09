@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When numbers don&#39;t make sense](https://dev.to/miguelmj/when-numbers-dont-make-sense-10gi)
 - [Announcing the Tracetest integration with Keptn, the control plane for cloud-native application life-cycle orchestration](https://dev.to/kubeshop/announcing-the-tracetest-integration-with-keptn-the-control-plane-for-cloud-native-application-life-cycle-orchestration-1i24)
 - [AI powered movie recommendations](https://dev.to/bdougieyo/ai-powered-movie-recommendations-4h8m)
 - [Building with Next.js - part 4](https://dev.to/this-is-learning/building-with-nextjs-part-4-2b08)
-- [Top 5 social network APIs](https://dev.to/brownrita460/top-5-social-network-apis-2b5k)
 <!-- BLOG-POST-LIST:END -->
 
