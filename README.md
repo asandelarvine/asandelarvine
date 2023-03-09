@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the best free background remover AI app?](https://dev.to/aminezel/what-is-the-best-free-background-remover-ai-app-149c)
+- [Reinventing IBM | DevSecOps, AI, Quantum Computing](https://dev.to/linearb/reinventing-ibm-devsecops-ai-quantum-computing-4nmo)
+- [Tech Equality Pledge: Educating, Mentoring, and Advocating for Change](https://dev.to/geesilu/tech-equality-pledge-educating-mentoring-and-advocating-for-change-53k6)
 - [How to Build a Responsive Password Field Component using TailwindCSS](https://dev.to/mbianoubradon/how-to-build-a-responsive-password-field-component-using-tailwindcss-75p)
-- [Welcome Thread - v215](https://dev.to/thepracticaldev/welcome-thread-v215-116n)
-- [pyaction 4.17.0 Released](https://dev.to/cicirello/pyaction-4170-released-4ef8)
-- [Making Background Blob Animation in Just 1.5KB: Step-by-Step Guide](https://dev.to/uuuuuulala/making-background-blob-animation-in-just-15kb-step-by-step-guide-2482)
 <!-- BLOG-POST-LIST:END -->
 
