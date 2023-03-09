@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Gender equality in the tech industry](https://dev.to/abhixsh/gender-equality-in-the-tech-industry-375h)
+- [NestJS - Unit and E2E testing](https://dev.to/rohithart/nestjs-unit-and-e2e-testing-7pb)
+- [AWS Cloud Quest: Container Services](https://dev.to/arc/aws-cloud-quest-container-services-1hi7)
 - [How to create a free email subscription form in NextJS, Netlify and MailerLite](https://dev.to/duncanteege/how-to-create-an-email-subscription-form-in-nextjs-netlify-and-mailerlite-41mc)
-- [The CodeNewbie Podcast, S23:E4: A/B Testing](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e4-ab-testing-1n96)
-- [Tips to become a better programmer](https://dev.to/abdrzqsalihu/tips-to-become-a-better-programmer-2bba)
-- [Let&#39;s keep moving the goal posts](https://dev.to/ben/lets-keep-moving-the-goal-posts-3jjl)
 <!-- BLOG-POST-LIST:END -->
 
