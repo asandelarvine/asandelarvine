@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t type in typescript. &lpar;At least most of the time&rpar;](https://dev.to/nectres/dont-type-in-typescript-at-least-most-of-the-time-5b0j)
-- [Promoting Gender Equity and Inclusion in the Tech Industry and Beyond](https://dev.to/kaviiiiisha/promoting-gender-equity-and-inclusion-in-the-tech-industry-and-beyond-41ic)
-- [10 &quot;Hard Truths&quot; All Junior Developers Need to Hear](https://dev.to/wasp/10-hard-truths-all-junior-developers-need-to-hear-iim)
-- [Python SDK: The Release](https://dev.to/temporalio/python-sdk-the-release-2ji9)
+- [New AI Tools Released for Developers - W1 March](https://dev.to/cloakd/new-ai-tools-released-for-developers-w1-march-4e6g)
+- [Using TRPC in Astro and its &lpar;React&rpar; islands](https://dev.to/thomasledoux1/using-trpc-in-astro-and-its-react-islands-3021)
+- [Python SDK: Your First Application](https://dev.to/temporalio/python-sdk-your-first-application-1fac)
+- [Python SDK: Diving into Workers and Workflows](https://dev.to/temporalio/python-sdk-diving-into-workers-and-workflows-3337)
 <!-- BLOG-POST-LIST:END -->
 
