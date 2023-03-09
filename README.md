@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a multistage Dockerfile](https://dev.to/hshoja/how-to-create-a-multistage-dockerfile-16kl)
-- [Best practices in JavaScript development](https://dev.to/evansifyke/best-practices-in-javascript-development-3nma)
-- [This Week In React #137: Code Extraction, Server Components, Signals, Forget compiler, Next.js, Astro, Remix, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-137-code-extraction-server-components-signals-forget-compiler-nextjs-astro-remix-typescript-12l7)
-- [Beginner’s guide to getting started with contributing to open source through documentation](https://dev.to/aysha/beginners-guide-to-getting-started-with-contributing-to-open-source-through-documentation-1n1d)
+- [The History of Ecommerce: 1979 to 2023](https://dev.to/medusajs/the-history-of-ecommerce-1979-to-2023-2k9n)
+- [Data Breaches and Healthcare: Is India Lacking in Healthcare Data Security?](https://dev.to/sierra_cyber/data-breaches-and-healthcare-is-india-lacking-in-healthcare-data-security-12la)
+- [How I improve my skills in Typescript #5 : Satisfies operator](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-5-satisfies-operator-2312)
+- [5 Essential Google Chrome Extension for Web Developers](https://dev.to/surajondev/5-essential-google-chrome-extension-for-web-developers-4mpf)
 <!-- BLOG-POST-LIST:END -->
 
