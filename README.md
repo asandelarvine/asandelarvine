@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Experience of first event of 2023 as speaker](https://dev.to/aws-builders/experience-of-first-event-of-2023-as-speaker-2cpi)
+- [Building an E-commerce Store: A Step-by-Step Guide with Solidjs and Medusa](https://dev.to/reuben09/building-an-e-commerce-store-a-step-by-step-guide-with-solidjs-and-medusa-443c)
 - [The March 2023 Newsletter](https://dev.to/amplication/the-march-2023-newsletter-il8)
 - [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
-- [How to Escape Tutorial Hell](https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2)
-- [Promoting Equality in the Tech Industry](https://dev.to/binayakjha/promoting-equality-in-the-tech-industry-16ph)
 <!-- BLOG-POST-LIST:END -->
 
