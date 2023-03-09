@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Tracetest integration with Keptn, the control plane for cloud-native application life-cycle orchestration](https://dev.to/kubeshop/announcing-the-tracetest-integration-with-keptn-the-control-plane-for-cloud-native-application-life-cycle-orchestration-1i24)
+- [AI powered movie recommendations](https://dev.to/bdougieyo/ai-powered-movie-recommendations-4h8m)
+- [Building with Next.js - part 4](https://dev.to/this-is-learning/building-with-nextjs-part-4-2b08)
 - [Top 5 social network APIs](https://dev.to/brownrita460/top-5-social-network-apis-2b5k)
-- [Operators](https://dev.to/shoxjaxon2008/operators-24fi)
-- [Challenge #2: 🪙 Multi Token Vendor | Speedrun Ethereum With Vyper](https://dev.to/rafael_abuawad/challenge-3-multi-token-vendor-speedrun-ethereum-with-vyper-230p)
-- [Understanding the Advantages of JavaScript Frameworks for Beginners](https://dev.to/viktoriabors/understanding-the-advantages-of-javascript-frameworks-for-beginners-1hh8)
 <!-- BLOG-POST-LIST:END -->
 
