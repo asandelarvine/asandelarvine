@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t type in typescript. &lpar;At least most of the time&rpar;](https://dev.to/nectres/dont-type-in-typescript-at-least-most-of-the-time-5b0j)
+- [Promoting Gender Equity and Inclusion in the Tech Industry and Beyond](https://dev.to/kaviiiiisha/promoting-gender-equity-and-inclusion-in-the-tech-industry-and-beyond-41ic)
 - [10 &quot;Hard Truths&quot; All Junior Developers Need to Hear](https://dev.to/wasp/10-hard-truths-all-junior-developers-need-to-hear-iim)
-- [Promoting Gender Equity and Inclusion in the Tech Industry and Beyond](https://dev.to/kaviiiiisha/promoting-gender-equity-and-inclusion-in-the-tech-industry-and-beyond-28pk)
-- [When numbers don&#39;t make sense](https://dev.to/miguelmj/when-numbers-dont-make-sense-10gi)
-- [Announcing the Tracetest integration with Keptn, the control plane for cloud-native application life-cycle orchestration](https://dev.to/kubeshop/announcing-the-tracetest-integration-with-keptn-the-control-plane-for-cloud-native-application-life-cycle-orchestration-1i24)
+- [Python SDK: The Release](https://dev.to/temporalio/python-sdk-the-release-2ji9)
 <!-- BLOG-POST-LIST:END -->
 
