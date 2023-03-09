@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Coding Problems that AI is Unable to Solve!](https://dev.to/dhruvjoshi9/10-coding-problems-that-ai-is-unable-to-solve-kfi)
+- [Webinar: From multilingual UI to multilingual company](https://dev.to/crowdin/webinar-from-multilingual-ui-to-multilingual-company-35ai)
 - [The History of Ecommerce: 1979 to 2023](https://dev.to/medusajs/the-history-of-ecommerce-1979-to-2023-2k9n)
 - [Data Breaches and Healthcare: Is India Lacking in Healthcare Data Security?](https://dev.to/sierra_cyber/data-breaches-and-healthcare-is-india-lacking-in-healthcare-data-security-12la)
-- [How I improve my skills in Typescript #5 : Satisfies operator](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-5-satisfies-operator-2312)
-- [5 Essential Google Chrome Extension for Web Developers](https://dev.to/surajondev/5-essential-google-chrome-extension-for-web-developers-4mpf)
 <!-- BLOG-POST-LIST:END -->
 
