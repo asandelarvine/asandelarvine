@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Advantages of JavaScript Frameworks for Beginners](https://dev.to/viktoriabors/understanding-the-advantages-of-javascript-frameworks-for-beginners-1hh8)
+- [The power of zero-knowledge proofs - exploring the new ConsenSys zkEVM](https://dev.to/johnjvester/the-power-of-zero-knowledge-proofs-exploring-the-new-consensys-zkevm-2j5p)
 - [10 Coding Problems that AI is Unable to Solve!](https://dev.to/dhruvjoshi9/10-coding-problems-that-ai-is-unable-to-solve-kfi)
-- [Webinar: From multilingual UI to multilingual company](https://dev.to/crowdin/webinar-from-multilingual-ui-to-multilingual-company-35ai)
-- [The History of Ecommerce: 1979 to 2023](https://dev.to/medusajs/the-history-of-ecommerce-1979-to-2023-2k9n)
-- [Data Breaches and Healthcare: Is India Lacking in Healthcare Data Security?](https://dev.to/sierra_cyber/data-breaches-and-healthcare-is-india-lacking-in-healthcare-data-security-12la)
+- [How to create typing effect with CSS fully explained!](https://dev.to/gloriousreborne/how-to-create-typing-effect-with-css-fully-explained-1nin)
 <!-- BLOG-POST-LIST:END -->
 
