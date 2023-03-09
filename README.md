@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
 - [How to Escape Tutorial Hell](https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2)
 - [Promoting Equality in the Tech Industry](https://dev.to/binayakjha/promoting-equality-in-the-tech-industry-16ph)
-- [How to use .gitignore Files](https://dev.to/techelevator/how-to-use-gitignore-files-5032)
+- [Thinking Back and Coding Forward](https://dev.to/nullivex/thinking-back-and-coding-forward-4e9k)
 <!-- BLOG-POST-LIST:END -->
 
