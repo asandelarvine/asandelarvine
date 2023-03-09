@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 social network APIs](https://dev.to/brownrita460/top-5-social-network-apis-2b5k)
+- [Operators](https://dev.to/shoxjaxon2008/operators-24fi)
+- [Challenge #2: 🪙 Multi Token Vendor | Speedrun Ethereum With Vyper](https://dev.to/rafael_abuawad/challenge-3-multi-token-vendor-speedrun-ethereum-with-vyper-230p)
 - [Understanding the Advantages of JavaScript Frameworks for Beginners](https://dev.to/viktoriabors/understanding-the-advantages-of-javascript-frameworks-for-beginners-1hh8)
-- [The power of zero-knowledge proofs - exploring the new ConsenSys zkEVM](https://dev.to/johnjvester/the-power-of-zero-knowledge-proofs-exploring-the-new-consensys-zkevm-2j5p)
-- [10 Coding Problems that AI is Unable to Solve!](https://dev.to/dhruvjoshi9/10-coding-problems-that-ai-is-unable-to-solve-kfi)
-- [How to create typing effect with CSS fully explained!](https://dev.to/gloriousreborne/how-to-create-typing-effect-with-css-fully-explained-1nin)
 <!-- BLOG-POST-LIST:END -->
 
