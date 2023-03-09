@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LIAPP has won an award in Cyber Security Awards 2023!](https://dev.to/teamliapp/liapp-has-won-an-award-in-cyber-security-awards-2023-oa5)
 - [Experience of first event of 2023 as speaker](https://dev.to/aws-builders/experience-of-first-event-of-2023-as-speaker-2cpi)
+- [Position your element with CSS inset logical property](https://dev.to/mayashavin/position-your-element-with-css-inset-logical-property-3f2i)
 - [Building an E-commerce Store: A Step-by-Step Guide with Solidjs and Medusa](https://dev.to/reuben09/building-an-e-commerce-store-a-step-by-step-guide-with-solidjs-and-medusa-443c)
-- [The March 2023 Newsletter](https://dev.to/amplication/the-march-2023-newsletter-il8)
-- [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
 <!-- BLOG-POST-LIST:END -->
 
