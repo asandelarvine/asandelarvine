@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LIAPP has won an award in Cyber Security Awards 2023!](https://dev.to/teamliapp/liapp-has-won-an-award-in-cyber-security-awards-2023-oa5)
-- [Experience of first event of 2023 as speaker](https://dev.to/aws-builders/experience-of-first-event-of-2023-as-speaker-2cpi)
-- [Position your element with CSS inset logical property](https://dev.to/mayashavin/position-your-element-with-css-inset-logical-property-3f2i)
-- [Building an E-commerce Store: A Step-by-Step Guide with Solidjs and Medusa](https://dev.to/reuben09/building-an-e-commerce-store-a-step-by-step-guide-with-solidjs-and-medusa-443c)
+- [Authenticate with OpenID Connect and Apache APISIX](https://dev.to/apisix/authenticate-with-openid-connect-and-apache-apisix-448h)
+- [How to manage VSCode extensions?](https://dev.to/parmcoder/how-to-manage-vscode-extensions-2kg7)
+- [AI Is Changing The Way We Code: AI-Driven Development &lpar;AIDD&rpar;](https://dev.to/dawiddahl/ai-is-changing-the-way-we-code-ai-driven-development-aidd-2ngo)
+- [gRPC and .Net Core](https://dev.to/prasannaupatankar/grpc-and-net-core-1a8p)
 <!-- BLOG-POST-LIST:END -->
 
