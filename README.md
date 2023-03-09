@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI Client for ReductStore v0.8.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v080-has-been-released-5gi)
-- [Gender Equity in Software Development](https://dev.to/geesilu/gender-equity-in-software-development-533f)
-- [How to learn and use TypeScript + the bits no one teaches you.](https://dev.to/brianschnee/how-to-learn-and-use-typescript-the-bits-no-one-teaches-you-2667)
-- [Recap of my experience at THAT Conference 2023](https://dev.to/austingil/recap-of-my-experience-at-that-conference-2023-5803)
+- [How to Build a Responsive Password Field Component using TailwindCSS](https://dev.to/mbianoubradon/how-to-build-a-responsive-password-field-component-using-tailwindcss-75p)
+- [Welcome Thread - v215](https://dev.to/thepracticaldev/welcome-thread-v215-116n)
+- [pyaction 4.17.0 Released](https://dev.to/cicirello/pyaction-4170-released-4ef8)
+- [Making Background Blob Animation in Just 1.5KB: Step-by-Step Guide](https://dev.to/uuuuuulala/making-background-blob-animation-in-just-15kb-step-by-step-guide-2482)
 <!-- BLOG-POST-LIST:END -->
 
