@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authenticate with OpenID Connect and Apache APISIX](https://dev.to/apisix/authenticate-with-openid-connect-and-apache-apisix-448h)
-- [How to manage VSCode extensions?](https://dev.to/parmcoder/how-to-manage-vscode-extensions-2kg7)
-- [AI Is Changing The Way We Code: AI-Driven Development &lpar;AIDD&rpar;](https://dev.to/dawiddahl/ai-is-changing-the-way-we-code-ai-driven-development-aidd-2ngo)
-- [Event-Driven vs Workflows: A Comprehensive Comparison for Developers and Architects](https://dev.to/aws-builders/event-driven-vs-workflows-a-comprehensive-comparison-for-developers-and-architects-2j9k)
+- [This Week In React #137: Code Extraction, Server Components, Signals, Forget compiler, Next.js, Astro, Remix, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-137-code-extraction-server-components-signals-forget-compiler-nextjs-astro-remix-typescript-12l7)
+- [This Week In React #136: Next.js, Signals, Bling, Suspense, Server Components, useSyncExternalStore, Expo, Reanimated, Metro...](https://dev.to/sebastienlorber/this-week-in-react-136-nextjs-signals-bling-suspense-server-components-usesyncexternalstore-expo-reanimated-metro-33o8)
+- [This Week In React #135: Signals, Sandpack, React doc, Server References, TanStack Start, Next.js, Remix, Hydrogen, Storybook...](https://dev.to/sebastienlorber/this-week-in-react-135-signals-sandpack-react-doc-server-references-tanstack-start-nextjs-remix-hydrogen-storybook-5adb)
+- [Step into the Fascinating world of WebSockets with Socket.io](https://dev.to/mohammadfaisal/step-into-the-fascinating-world-of-websockets-with-socketio-1ii2)
 <!-- BLOG-POST-LIST:END -->
 
