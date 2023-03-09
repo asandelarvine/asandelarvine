@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The March 2023 Newsletter](https://dev.to/amplication/the-march-2023-newsletter-il8)
 - [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
 - [How to Escape Tutorial Hell](https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2)
 - [Promoting Equality in the Tech Industry](https://dev.to/binayakjha/promoting-equality-in-the-tech-industry-16ph)
-- [Thinking Back and Coding Forward](https://dev.to/nullivex/thinking-back-and-coding-forward-4e9k)
 <!-- BLOG-POST-LIST:END -->
 
