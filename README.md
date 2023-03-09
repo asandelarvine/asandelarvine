@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a multistage Dockerfile](https://dev.to/hshoja/how-to-create-a-multistage-dockerfile-16kl)
+- [Best practices in JavaScript development](https://dev.to/evansifyke/best-practices-in-javascript-development-3nma)
 - [This Week In React #137: Code Extraction, Server Components, Signals, Forget compiler, Next.js, Astro, Remix, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-137-code-extraction-server-components-signals-forget-compiler-nextjs-astro-remix-typescript-12l7)
-- [This Week In React #136: Next.js, Signals, Bling, Suspense, Server Components, useSyncExternalStore, Expo, Reanimated, Metro...](https://dev.to/sebastienlorber/this-week-in-react-136-nextjs-signals-bling-suspense-server-components-usesyncexternalstore-expo-reanimated-metro-33o8)
-- [This Week In React #135: Signals, Sandpack, React doc, Server References, TanStack Start, Next.js, Remix, Hydrogen, Storybook...](https://dev.to/sebastienlorber/this-week-in-react-135-signals-sandpack-react-doc-server-references-tanstack-start-nextjs-remix-hydrogen-storybook-5adb)
-- [Step into the Fascinating world of WebSockets with Socket.io](https://dev.to/mohammadfaisal/step-into-the-fascinating-world-of-websockets-with-socketio-1ii2)
+- [Beginner’s guide to getting started with contributing to open source through documentation](https://dev.to/aysha/beginners-guide-to-getting-started-with-contributing-to-open-source-through-documentation-1n1d)
 <!-- BLOG-POST-LIST:END -->
 
