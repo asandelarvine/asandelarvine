@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Intermediate Git commands](https://dev.to/vincod/intermediate-git-commands-38kd)
+- [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7)
 - [What does effective advocacy look like?](https://dev.to/devteam/what-does-effective-advocacy-look-like-5cnh)
-- [Boosting Woman Participation in Open Source Projects: A Beginner&#39;s Guide to Contributing](https://dev.to/dellamora/boosting-woman-participation-in-open-source-projects-a-beginners-guide-to-contributing-5g49)
-- [Starting as a Hashnode blogger](https://dev.to/vulcanwm/starting-as-a-hashnode-blogger-3d6)
-- [Blobby image animation in CSS 🦠](https://dev.to/bryce/blobby-image-animation-in-css-5d3o)
+- [DRY: Don&#39;t Repeat Yourself](https://dev.to/jrking365/dry-dont-repeat-yourself-531c)
 <!-- BLOG-POST-LIST:END -->
 
