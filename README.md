@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-19gl)
-- [Best Programming Languages For Data Science](https://dev.to/hrushik61894525/best-programming-languages-for-data-science-2odh)
-- [C ++ chiqarish operatori .](https://dev.to/shoxjaxon2008/c-chiqarish-operatori--162b)
-- [Learn How to Set Kubernetes Resource Requests and Limits](https://dev.to/pavanbelagatti/learn-how-to-set-kubernetes-resource-requests-and-limits-23n2)
+- [How to use SolidJS library with ReactJS](https://dev.to/dbarabashdev/how-to-use-solidjs-library-with-reactjs-and-typescript-202e)
+- [Top 10 Python Packages Every Developer Should Know About](https://dev.to/akashrchandran/top-10-python-packages-every-developer-should-know-about-55mj)
+- [Notes On The Job Market For Frontend Programmers](https://dev.to/bytebodger/notes-on-the-job-market-for-frontend-programmers-29de)
+- [Sending E-mails in PHP with PHPMailer](https://dev.to/peteradeojo/sending-e-mails-in-php-with-phpmailer-15ko)
 <!-- BLOG-POST-LIST:END -->
 
