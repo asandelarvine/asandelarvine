@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the best free background remover AI app?](https://dev.to/aminezel/what-is-the-best-free-background-remover-ai-app-149c)
+- [Creating a tab component in React](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
+- [Rspack: The Rust-Based Web Bundler that Combines High Performance with Interoperability](https://dev.to/valorsoftware/rspack-the-rust-based-web-bundler-that-combines-high-performance-with-interoperability-45m8)
+- [What is the best free background remover app?](https://dev.to/aminezel/what-is-the-best-free-background-remover-ai-app-149c)
 - [Reinventing IBM | DevSecOps, AI, Quantum Computing](https://dev.to/linearb/reinventing-ibm-devsecops-ai-quantum-computing-4nmo)
-- [Tech Equality Pledge: Educating, Mentoring, and Advocating for Change](https://dev.to/geesilu/tech-equality-pledge-educating-mentoring-and-advocating-for-change-53k6)
-- [How to Build a Responsive Password Field Component using TailwindCSS](https://dev.to/mbianoubradon/how-to-build-a-responsive-password-field-component-using-tailwindcss-75p)
 <!-- BLOG-POST-LIST:END -->
 
