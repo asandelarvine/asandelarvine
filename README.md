@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favorite Free Courses to Learn Microservices in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-microservices-in-depth-12el)
+- [Transparent execution of Fortran code from the Erlang machine using ports](https://dev.to/escribapetrus/transparent-execution-of-fortran-code-from-the-erlang-machine-using-ports-37ba)
 - [Creating a tab component in React](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
 - [Rspack: The Rust-Based Web Bundler that Combines High Performance with Interoperability](https://dev.to/valorsoftware/rspack-the-rust-based-web-bundler-that-combines-high-performance-with-interoperability-45m8)
-- [What is the best free background remover app?](https://dev.to/aminezel/what-is-the-best-free-background-remover-ai-app-149c)
 <!-- BLOG-POST-LIST:END -->
 
