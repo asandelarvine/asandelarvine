@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
+- [Representing Negative Numbers in Binary Notation](https://dev.to/andrewgl22/representing-negative-numbers-in-binary-notation-2n4m)
+- [ChatGPT: basic example of an Nginx configuration file using an auto-signed SSL certificate](https://dev.to/juuh42dias/chatgpt-basic-example-of-an-nginx-configuration-file-using-an-auto-signed-ssl-certificate-jpg)
 - [The Ultimate Guide to Becoming a 10x Dev](https://dev.to/trueseniordev/the-ultimate-guide-to-becoming-a-10x-dev-b61)
-- [Constantly Changing Technology](https://dev.to/beaucoburn/constantly-changing-technology-2jfp)
-- [How to Learn and Use TypeScript: A Comprehensive Beginner&#39;s Guide](https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l)
-- [Minha trajetória em tecnologia](https://dev.to/monicahillman/minha-trajetoria-em-tecnologia-1153)
 <!-- BLOG-POST-LIST:END -->
 
