@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Humans vs AI in 2035](https://dev.to/teodeleanu/humans-vs-ai-in-2035-f0j)
+- [SPVM now supports object-oriented programming in Perl](https://dev.to/yukikimoto/spvm-now-supports-object-oriented-programming-in-perl-5ghp)
 - [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
 - [Representing Negative Numbers in Binary Notation](https://dev.to/andrewgl22/representing-negative-numbers-in-binary-notation-2n4m)
-- [ChatGPT: basic example of an Nginx configuration file using an auto-signed SSL certificate](https://dev.to/juuh42dias/chatgpt-basic-example-of-an-nginx-configuration-file-using-an-auto-signed-ssl-certificate-jpg)
-- [The Ultimate Guide to Becoming a 10x Dev](https://dev.to/trueseniordev/the-ultimate-guide-to-becoming-a-10x-dev-b61)
 <!-- BLOG-POST-LIST:END -->
 
