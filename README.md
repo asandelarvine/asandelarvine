@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket Vs. REST](https://dev.to/shridhargv/websocket-vs-rest-2d77)
+- [Most Exciting Python Features from 3.7 to 3.11](https://dev.to/yash_makan/most-exciting-python-features-from-37-to-311-l09)
 - [How to check if character is uppercase in Rust?](https://dev.to/foxinfotech/how-to-check-if-character-is-uppercase-in-rust-1i3i)
 - [Module Federation in Production: architecture, development workflow, and deployments](https://dev.to/burhanuday/module-federation-in-production-architecture-development-workflow-and-deployments-3ahf)
-- [Connecting AWS Lambda with Amazon RDS using AWS CDK and Node.js](https://dev.to/aws-builders/connecting-aws-lambda-with-amazon-rds-using-aws-cdk-and-nodejs-55mj)
-- [HackTheChain](https://dev.to/himanshuchittora23908/hackthechain-2ibl)
 <!-- BLOG-POST-LIST:END -->
 
