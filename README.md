@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Your Display Type?](https://dev.to/foxinfotech/what-is-your-display-type-3p21)
-- [How Do You Share Your Love for Coding with Friends and Family?](https://dev.to/codenewbieteam/how-do-you-share-your-love-for-coding-with-friends-and-family-1h3i)
-- [WebSocket Vs. REST](https://dev.to/shridhargv/websocket-vs-rest-2d77)
-- [Most Exciting Python Features from 3.7 to 3.11](https://dev.to/yash_makan/most-exciting-python-features-from-37-to-311-l09)
+- [The internet&#39;s latest website: InputOutput.dev](https://dev.to/shadowfaxrodeo/the-internets-latest-website-inputoutputdev-7o9)
+- [Free Online MP4 to MP3 Converter](https://dev.to/mrrok/free-online-mp4-to-mp3-converter-5bp8)
+- [Converting MP4 to MP3 has never been easier](https://dev.to/mrrok/converting-mp4-to-mp3-has-never-been-easier-4861)
+- [Code Legacy: pnpm vs npm](https://dev.to/zenstack/code-legacy-pnpm-vs-npm-47j2)
 <!-- BLOG-POST-LIST:END -->
 
