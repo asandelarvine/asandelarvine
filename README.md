@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kirish](https://dev.to/shoxjaxon2008/kirish-1pmi)
-- [Introduction to ReactJS and its key features](https://dev.to/codewithsom/introduction-to-reactjs-and-its-key-features-4dii)
-- [Great GitHub repositories that developers love](https://dev.to/swordheath/great-github-repositories-that-developers-love-1g97)
-- [The Truth About CloudWatch Pricing](https://dev.to/cast_ai/the-truth-about-cloudwatch-pricing-1pgk)
+- [C ++ chiqarish operatori .](https://dev.to/shoxjaxon2008/c-chiqarish-operatori--162b)
+- [Learn How to Set Kubernetes Resource Requests and Limits](https://dev.to/pavanbelagatti/learn-how-to-set-kubernetes-resource-requests-and-limits-23n2)
+- [Sintaksis](https://dev.to/shoxjaxon2008/sintaksis-3g73)
+- [Ma&#39;lumot turlari](https://dev.to/nuriddin152/malumot-turlari-4e)
 <!-- BLOG-POST-LIST:END -->
 
