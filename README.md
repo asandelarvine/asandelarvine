@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-19gl)
+- [Best Programming Languages For Data Science](https://dev.to/hrushik61894525/best-programming-languages-for-data-science-2odh)
 - [C ++ chiqarish operatori .](https://dev.to/shoxjaxon2008/c-chiqarish-operatori--162b)
 - [Learn How to Set Kubernetes Resource Requests and Limits](https://dev.to/pavanbelagatti/learn-how-to-set-kubernetes-resource-requests-and-limits-23n2)
-- [Sintaksis](https://dev.to/shoxjaxon2008/sintaksis-3g73)
-- [Ma&#39;lumot turlari](https://dev.to/nuriddin152/malumot-turlari-4e)
 <!-- BLOG-POST-LIST:END -->
 
