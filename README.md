@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Resilient Systems: Retry Pattern in Microservices](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
 - [My Favorite Free Courses to Learn Microservices in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-microservices-in-depth-12el)
 - [Transparent execution of Fortran code from the Erlang machine using ports](https://dev.to/escribapetrus/transparent-execution-of-fortran-code-from-the-erlang-machine-using-ports-37ba)
 - [Creating a tab component in React](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
-- [Rspack: The Rust-Based Web Bundler that Combines High Performance with Interoperability](https://dev.to/valorsoftware/rspack-the-rust-based-web-bundler-that-combines-high-performance-with-interoperability-45m8)
 <!-- BLOG-POST-LIST:END -->
 
