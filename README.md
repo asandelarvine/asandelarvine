@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Systems: Retry Pattern in Microservices](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
-- [My Favorite Free Courses to Learn Microservices in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-microservices-in-depth-12el)
-- [Transparent execution of Fortran code from the Erlang machine using ports](https://dev.to/escribapetrus/transparent-execution-of-fortran-code-from-the-erlang-machine-using-ports-37ba)
-- [Creating a tab component in React](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
+- [How to check if character is uppercase in Rust?](https://dev.to/foxinfotech/how-to-check-if-character-is-uppercase-in-rust-1i3i)
+- [Module Federation in Production: architecture, development workflow, and deployments](https://dev.to/burhanuday/module-federation-in-production-architecture-development-workflow-and-deployments-3ahf)
+- [Connecting AWS Lambda with Amazon RDS using AWS CDK and Node.js](https://dev.to/aws-builders/connecting-aws-lambda-with-amazon-rds-using-aws-cdk-and-nodejs-55mj)
+- [HackTheChain](https://dev.to/himanshuchittora23908/hackthechain-2ibl)
 <!-- BLOG-POST-LIST:END -->
 
