@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Journey Towards a More Accessible and Inclusive Web.](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
+- [Mastering Eager Loading and Beyond! Rails 7](https://dev.to/ahmadraza/mastering-eager-loading-and-beyond-rails-7-5eie)
 - [Google I/O 2023 announced !](https://dev.to/thomasbnt/google-io-2023-announced--2n9i)
 - [Stahhp Screening for TLDs in Your Email Fields](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
-- [#4: Median of Two Sorted Arrays](https://dev.to/jd2r/4-median-of-two-sorted-arrays-4bc6)
-- [Development environment for the Python requests package](https://dev.to/szabgab/development-environment-for-the-python-requests-package-eae)
 <!-- BLOG-POST-LIST:END -->
 
