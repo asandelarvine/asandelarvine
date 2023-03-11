@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stahhp Screening for TLDs in Your Email Fields](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
+- [#4: Median of Two Sorted Arrays](https://dev.to/jd2r/4-median-of-two-sorted-arrays-4bc6)
+- [Development environment for the Python requests package](https://dev.to/szabgab/development-environment-for-the-python-requests-package-eae)
 - [How to make the Google reCAPTCHA responsive?](https://dev.to/connectaryal/how-to-make-the-google-recaptcha-responsive-1fod)
-- [The Basics of Querying with Cypher in PostgreSQL using Apache Age](https://dev.to/xk_woon/the-basics-of-querying-with-cypher-in-postgresql-using-apache-age-43p1)
-- [Mocking data for Integration tests in React](https://dev.to/mr_developer/mocking-data-for-integration-tests-in-react-424k)
-- [Transform Your Codebase with Prettier: A Guide with Husky Integration](https://dev.to/kazemm_dev/transform-your-codebase-with-prettier-a-guide-with-husky-integration-35fk)
 <!-- BLOG-POST-LIST:END -->
 
