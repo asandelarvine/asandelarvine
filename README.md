@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make the Google reCAPTCHA responsive?](https://dev.to/connectaryal/how-to-make-the-google-recaptcha-responsive-1fod)
+- [The Basics of Querying with Cypher in PostgreSQL using Apache Age](https://dev.to/xk_woon/the-basics-of-querying-with-cypher-in-postgresql-using-apache-age-43p1)
 - [Mocking data for Integration tests in React](https://dev.to/mr_developer/mocking-data-for-integration-tests-in-react-424k)
 - [Transform Your Codebase with Prettier: A Guide with Husky Integration](https://dev.to/kazemm_dev/transform-your-codebase-with-prettier-a-guide-with-husky-integration-35fk)
-- [How React is Reshaping the Future of Development](https://dev.to/haszankauna/how-react-is-reshaping-the-future-of-development-e8b)
-- [How to Integrate React with Redux: Step-by-Step Tutorial](https://dev.to/haszankauna/how-to-integrate-react-with-redux-step-by-step-tutorial-4dm5)
 <!-- BLOG-POST-LIST:END -->
 
