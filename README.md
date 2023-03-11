@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2023 announced !](https://dev.to/thomasbnt/google-io-2023-announced--2n9i)
 - [Stahhp Screening for TLDs in Your Email Fields](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
 - [#4: Median of Two Sorted Arrays](https://dev.to/jd2r/4-median-of-two-sorted-arrays-4bc6)
 - [Development environment for the Python requests package](https://dev.to/szabgab/development-environment-for-the-python-requests-package-eae)
-- [How to make the Google reCAPTCHA responsive?](https://dev.to/connectaryal/how-to-make-the-google-recaptcha-responsive-1fod)
 <!-- BLOG-POST-LIST:END -->
 
