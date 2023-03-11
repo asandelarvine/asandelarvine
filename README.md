@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom Converters in DynamoDB: Building Robust Data Models with Ease](https://dev.to/manojlingala/custom-converters-in-dynamodb-building-robust-data-models-with-ease-4a5c)
+- [The Language We Use Matters](https://dev.to/eevajonnapanula/the-language-we-use-matters-9mn)
 - [Automate Docker Image Builds and Push to GitHub Registry Using GitHub Actions 🐙](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-github-registry-using-github-actions-4h20)
-- [How to Integrate ChatGPT in WhatsApp for iOS? Sample Codes Added!](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-ios-sample-codes-added-333h)
-- [Harnessing the Benefits of Data Science](https://dev.to/ezeanamichael/harnessing-the-benefits-of-data-science-2p4l)
-- [QMK and Keyboards!](https://dev.to/topher2014/qmk-and-keyboards-3g2c)
+- [How to Build Responsive Users Card Using TailwindCSS](https://dev.to/mbianoubradon/how-to-build-responsive-users-card-using-tailwindcss-d40)
 <!-- BLOG-POST-LIST:END -->
 
