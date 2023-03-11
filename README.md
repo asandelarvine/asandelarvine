@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Humans vs AI in 2035](https://dev.to/teodeleanu/humans-vs-ai-in-2035-f0j)
-- [SPVM now supports object-oriented programming in Perl](https://dev.to/yukikimoto/spvm-now-supports-object-oriented-programming-in-perl-5ghp)
-- [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
-- [Representing Negative Numbers in Binary Notation](https://dev.to/andrewgl22/representing-negative-numbers-in-binary-notation-2n4m)
+- [Essential Tools for a Successful DevOps Engineer](https://dev.to/aws-builders/essential-tools-for-a-successful-devops-engineer-4lgl)
+- [Confidential Optical Character Recognition Service With Cape](https://dev.to/yanndupis/confidential-optical-character-recognition-service-with-cape-3kha)
+- [🤖📈 How TweetHunter Used NLP to Build a Successful Startup 🚀](https://dev.to/teodeleanu/how-tweethunter-used-nlp-to-build-a-successful-startup-21ec)
+- [A humble call for newbies in #wecoded](https://dev.to/codenewbieteam/a-humble-call-for-newbies-in-wecoded-3mho)
 <!-- BLOG-POST-LIST:END -->
 
