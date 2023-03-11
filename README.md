@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Developer’s Guide to Avoiding the Pitfalls of Exposing the Domain Layer](https://dev.to/manojlingala/a-developers-guide-to-avoiding-the-pitfalls-of-exposing-the-domain-layer-5clg)
+- [How to remove a property from an object in JavaScript](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
+- [Default Parameters in PHP Functions](https://dev.to/iamjnayem/default-parameters-in-php-functions-35en)
 - [A Beginner&#39;s Guide to Vault: Understanding Secrets, Credentials, and Secure Data Management](https://dev.to/xlmriosx/a-beginners-guide-to-vault-understanding-secrets-credentials-and-secure-data-management-4a77)
-- [Selfhosted NodeJS ChatGPT Discord Bot](https://dev.to/gbti/selfhosted-nodejs-chatgpt-discord-bot-2fel)
-- [Middleware in nest.js](https://dev.to/djibrilm/middleware-in-nestjs-5hka)
-- [Essential Tools for a Successful DevOps Engineer](https://dev.to/aws-builders/essential-tools-for-a-successful-devops-engineer-4lgl)
 <!-- BLOG-POST-LIST:END -->
 
