@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup Web Development](https://dev.to/ikramulhasan1/startup-web-development-4gnc)
-- [✨ETH Dubai 2023 MetaMask SDK Developer Guide✨](https://dev.to/metamask/eth-dubai-2023-metamask-sdk-developer-guide-e9a)
-- [Custom Converters in DynamoDB: Building Robust Data Models with Ease](https://dev.to/manojlingala/custom-converters-in-dynamodb-building-robust-data-models-with-ease-4a5c)
-- [The Language We Use Matters](https://dev.to/eevajonnapanula/the-language-we-use-matters-9mn)
+- [The ideal line length for digital text](https://dev.to/robole/the-ideal-line-length-for-digital-text-2d5i)
+- [Python Create Virtual Environment](https://dev.to/max24816/python-create-virtual-environment-3iai)
+- [Complete Roadmap to Learn and Master Kubernetes](https://dev.to/yeshwanthlm/complete-roadmap-to-learn-and-master-kubernetes-16m1)
+- [Simplified Responsive Web Development with SCSS/SASS](https://dev.to/adavize/simplified-responsive-web-development-with-scsssass-1pn8)
 <!-- BLOG-POST-LIST:END -->
 
