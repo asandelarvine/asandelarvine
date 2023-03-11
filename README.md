@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering D3.js: Advanced Techniques for Data Visualization](https://dev.to/andersonpixel/mastering-d3js-advanced-techniques-for-data-visualization-3ib0)
-- [A Developer’s Guide to Avoiding the Pitfalls of Exposing the Domain Layer](https://dev.to/manojlingala/a-developers-guide-to-avoiding-the-pitfalls-of-exposing-the-domain-layer-5clg)
-- [How to remove a property from an object in JavaScript](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
-- [Default Parameters in PHP Functions](https://dev.to/iamjnayem/default-parameters-in-php-functions-35en)
+- [Automate Docker Image Builds and Push to GitHub Registry Using GitHub Actions 🐙](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-github-registry-using-github-actions-4h20)
+- [How to Integrate ChatGPT in WhatsApp for iOS? Sample Codes Added!](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-ios-sample-codes-added-333h)
+- [Harnessing the Benefits of Data Science](https://dev.to/ezeanamichael/harnessing-the-benefits-of-data-science-2p4l)
+- [QMK and Keyboards!](https://dev.to/topher2014/qmk-and-keyboards-3g2c)
 <!-- BLOG-POST-LIST:END -->
 
