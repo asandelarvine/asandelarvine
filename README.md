@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Selfhosted NodeJS ChatGPT Discord Bot](https://dev.to/gbti/selfhosted-nodejs-chatgpt-discord-bot-2fel)
+- [Middleware in nest.js](https://dev.to/djibrilm/middleware-in-nestjs-5hka)
 - [Essential Tools for a Successful DevOps Engineer](https://dev.to/aws-builders/essential-tools-for-a-successful-devops-engineer-4lgl)
-- [Confidential Optical Character Recognition Service With Cape](https://dev.to/yanndupis/confidential-optical-character-recognition-service-with-cape-3kha)
-- [🤖📈 How TweetHunter Used NLP to Build a Successful Startup 🚀](https://dev.to/teodeleanu/how-tweethunter-used-nlp-to-build-a-successful-startup-21ec)
-- [A humble call for newbies in #wecoded](https://dev.to/codenewbieteam/a-humble-call-for-newbies-in-wecoded-3mho)
+- [AWS Cloud Quest: Analyzing Network Traffic](https://dev.to/arc/aws-cloud-quest-analyzing-network-traffic-2deo)
 <!-- BLOG-POST-LIST:END -->
 
