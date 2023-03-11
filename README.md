@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup Web Development](https://dev.to/ikramulhasan1/startup-web-development-4gnc)
 - [✨ETH Dubai 2023 MetaMask SDK Developer Guide✨](https://dev.to/metamask/eth-dubai-2023-metamask-sdk-developer-guide-e9a)
 - [Custom Converters in DynamoDB: Building Robust Data Models with Ease](https://dev.to/manojlingala/custom-converters-in-dynamodb-building-robust-data-models-with-ease-4a5c)
 - [The Language We Use Matters](https://dev.to/eevajonnapanula/the-language-we-use-matters-9mn)
-- [Automate Docker Image Builds and Push to GitHub Registry Using GitHub Actions 🐙](https://dev.to/ken_mwaura1/automate-docker-image-builds-and-push-to-github-registry-using-github-actions-4h20)
 <!-- BLOG-POST-LIST:END -->
 
