@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools and Libraries in Streamlining Your Development](https://dev.to/haszankauna/tools-and-libraries-in-streamlining-your-development-4dp8)
+- [7 Common Mistakes to Avoid When Writing JavaScript Code](https://dev.to/haszankauna/7-common-mistakes-to-avoid-when-writing-javascript-code-609)
 - [The ideal line length for digital text](https://dev.to/robole/the-ideal-line-length-for-digital-text-2d5i)
 - [Python Create Virtual Environment](https://dev.to/max24816/python-create-virtual-environment-3iai)
-- [Complete Roadmap to Learn and Master Kubernetes](https://dev.to/yeshwanthlm/complete-roadmap-to-learn-and-master-kubernetes-16m1)
-- [Simplified Responsive Web Development with SCSS/SASS](https://dev.to/adavize/simplified-responsive-web-development-with-scsssass-1pn8)
 <!-- BLOG-POST-LIST:END -->
 
