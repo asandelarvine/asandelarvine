@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Vault: Understanding Secrets, Credentials, and Secure Data Management](https://dev.to/xlmriosx/a-beginners-guide-to-vault-understanding-secrets-credentials-and-secure-data-management-4a77)
 - [Selfhosted NodeJS ChatGPT Discord Bot](https://dev.to/gbti/selfhosted-nodejs-chatgpt-discord-bot-2fel)
 - [Middleware in nest.js](https://dev.to/djibrilm/middleware-in-nestjs-5hka)
 - [Essential Tools for a Successful DevOps Engineer](https://dev.to/aws-builders/essential-tools-for-a-successful-devops-engineer-4lgl)
-- [AWS Cloud Quest: Analyzing Network Traffic](https://dev.to/arc/aws-cloud-quest-analyzing-network-traffic-2deo)
 <!-- BLOG-POST-LIST:END -->
 
