@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [build resilient applications accessing Azure services with no code.](https://dev.to/gkarwchan/build-resilient-applications-accessing-azure-services-with-no-code-48hn)
+- [SNS to Step Functions via EventBridge Pipes with CDK](https://dev.to/aws-builders/sns-to-step-functions-via-eventbridge-pipes-with-cdk-1jo6)
 - [Improving Docker file performance on MacOS](https://dev.to/dkechag/improving-docker-file-performance-on-macos-537k)
 - [Object Oriented Programming in Javascript!🤔](https://dev.to/cybermaxi7/object-oriented-programming-in-javascript-3a9c)
-- [Type Safe, Promise Based, Vue 3 Modals That&#39;ll Have You Popping with Joy](https://dev.to/neophen/type-safe-promise-based-vue-3-modals-thatll-have-you-popping-with-joy-4299)
 <!-- BLOG-POST-LIST:END -->
 
