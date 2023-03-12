@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use AI to commit like a PRO in 1 second](https://dev.to/disukharev/how-to-git-commit-like-god-1g1b)
+- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://dev.to/apoorvtyagi/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway-1571)
 - [HackerRank SQL Basic Select](https://dev.to/spiffyeight77/hackerrank-sql-basic-select-1dj5)
 - [Terminal Tips &amp; Tricks](https://dev.to/topher2014/terminal-tips-tricks-h9n)
-- [Connect Four Terminal Game](https://dev.to/ma5hti/connect-four-terminal-game-2nl1)
-- [Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)
 <!-- BLOG-POST-LIST:END -->
 
