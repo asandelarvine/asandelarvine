@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Moving from classic Linux distro to ChromeOS Flex? Here was what I found &lt;🪲&gt;](https://dev.to/hunghvu/moving-from-classic-linux-distro-to-chromeos-flex-here-was-what-i-found--eek)
 - [Website to storage contacts data and share it with others. &lpar;Django REST API React&rpar;](https://dev.to/szymcode/website-to-storage-contacts-data-and-share-it-with-others-django-rest-api-react-1111)
 - [Become a Python Design Strategist using the Strategy Pattern](https://dev.to/fayomihorace/become-a-python-design-strategist-using-the-strategy-pattern-6ad)
-- [Code a bus schedule CLI with Node.js and Python [ + Sqlite3 ]](https://dev.to/bekbrace/code-a-bus-schedule-cli-with-nodejs-and-python-sqlite3--6nn)
+- [A clean Git history with Git Rebase and Conventional Commits](https://dev.to/janderssonse/keep-a-clean-git-history-with-git-rebase-and-conventional-commits-3ij6)
 <!-- BLOG-POST-LIST:END -->
 
