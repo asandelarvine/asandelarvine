@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code a bus schedule CLI with Node.js and Python [ + Sqlite3 ]](https://dev.to/bekbrace/code-a-bus-schedule-cli-with-nodejs-and-python-sqlite3--6nn)
 - [Install jupyter notebook](https://dev.to/max24816/install-jupyter-notebook-1cm0)
 - [🚀 Check out useReducer!](https://dev.to/seeratawan01/check-out-usereducer-1ba3)
 - [How to test Next.js app with svg imports as component using vitest?](https://dev.to/mayank1513/how-to-test-nextjs-app-with-svg-imports-as-component-using-vitest-3idi)
-- [Why Webpack Remains a Powerful Choice for Front-End Development](https://dev.to/fritzlolpro/why-webpack-remains-a-powerful-choice-for-front-end-development-mc2)
 <!-- BLOG-POST-LIST:END -->
 
