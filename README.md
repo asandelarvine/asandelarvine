@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering Twig templates in Storybook](https://dev.to/gromnan/storybook-with-server-side-twig-components-easy-43ii)
-- [Implementing Tic Tac Toe in Vue](https://dev.to/diseyi/implementing-tic-tac-toe-in-vue-57go)
-- [A Journey Towards a More Accessible and Inclusive Web.](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
-- [Manage AWS services directly from Kubernetes ☸️](https://dev.to/aws-builders/manage-aws-services-directly-from-kubernetes-1183)
+- [build resilient applications accessing Azure services with no code.](https://dev.to/gkarwchan/build-resilient-applications-accessing-azure-services-with-no-code-48hn)
+- [Improving Docker file performance on MacOS](https://dev.to/dkechag/improving-docker-file-performance-on-macos-537k)
+- [Object Oriented Programming in Javascript!🤔](https://dev.to/cybermaxi7/object-oriented-programming-in-javascript-3a9c)
+- [Type Safe, Promise Based, Vue 3 Modals That&#39;ll Have You Popping with Joy](https://dev.to/neophen/type-safe-promise-based-vue-3-modals-thatll-have-you-popping-with-joy-4299)
 <!-- BLOG-POST-LIST:END -->
 
