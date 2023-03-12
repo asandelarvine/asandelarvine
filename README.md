@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Diversity?](https://dev.to/windyaaa/what-is-diversity-3lhi)
+- [Transform Your Portfolio Website with These Expert Tips](https://dev.to/nickytonline/transform-your-portfolio-website-with-these-expert-tips-334e)
+- [Optimize your workflow with Tailwind CSS: Get class completions and hover previews for classes assigned to variables in VScode](https://dev.to/bhatvikrant/optimize-your-workflow-with-tailwind-css-get-class-completions-and-hover-previews-for-classes-assigned-to-variables-in-vscode-44pj)
 - [Prisma Client Extensions: Use Cases and Pitfalls](https://dev.to/zenstack/prisma-client-extensions-use-cases-and-pitfalls-31o6)
-- [Using Container Views with Redux-like state container](https://dev.to/sergeyleschev/using-container-views-with-redux-like-state-container-4f7)
-- [Redux-like state container in SwiftUI. Container Views.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-container-views-a35)
-- [3 Ways to Automate Accessibility Testing &lpar;a11y&rpar;](https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc)
 <!-- BLOG-POST-LIST:END -->
 
