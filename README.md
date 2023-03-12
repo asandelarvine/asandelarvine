@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)
 - [build resilient applications accessing Azure services with no code.](https://dev.to/gkarwchan/build-resilient-applications-accessing-azure-services-with-no-code-48hn)
 - [SNS to Step Functions via EventBridge Pipes with CDK](https://dev.to/aws-builders/sns-to-step-functions-via-eventbridge-pipes-with-cdk-1jo6)
 - [Improving Docker file performance on MacOS](https://dev.to/dkechag/improving-docker-file-performance-on-macos-537k)
-- [Object Oriented Programming in Javascript!🤔](https://dev.to/cybermaxi7/object-oriented-programming-in-javascript-3a9c)
 <!-- BLOG-POST-LIST:END -->
 
