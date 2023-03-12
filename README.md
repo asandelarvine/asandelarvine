@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 ways to Automate Accessibility Testing &lpar;a11y&rpar;](https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc)
+- [Using Container Views with Redux-like state container](https://dev.to/sergeyleschev/using-container-views-with-redux-like-state-container-4f7)
+- [Redux-like state container in SwiftUI. Container Views.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-container-views-a35)
+- [3 Ways to Automate Accessibility Testing &lpar;a11y&rpar;](https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc)
 - [What is RedwoodJS](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
-- [How to create a calendar in Vue](https://dev.to/owais11art/how-to-create-a-calendar-in-vue-4m0k)
-- [Auto Deploy to AWS App Runner using AWS CDK and Azure DevOps](https://dev.to/aws-builders/auto-deploy-to-aws-app-runner-using-aws-cdk-and-azure-devops-1jbp)
 <!-- BLOG-POST-LIST:END -->
 
