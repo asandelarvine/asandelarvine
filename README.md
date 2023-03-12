@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Rendering Twig templates in Storybook](https://dev.to/gromnan/storybook-with-server-side-twig-components-easy-43ii)
 - [Implementing Tic Tac Toe in Vue](https://dev.to/diseyi/implementing-tic-tac-toe-in-vue-57go)
 - [A Journey Towards a More Accessible and Inclusive Web.](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
-- [Mastering Eager Loading and Beyond! Rails 7](https://dev.to/ahmadraza/mastering-eager-loading-and-beyond-rails-7-5eie)
+- [Manage AWS services directly from Kubernetes ☸️](https://dev.to/aws-builders/manage-aws-services-directly-from-kubernetes-1183)
 <!-- BLOG-POST-LIST:END -->
 
