@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential SQL Commands for Data Science](https://dev.to/perekamoyo21/essential-sql-commands-for-data-science-284g)
-- [Spring, SchemaSpy DB docs, and GitHub Pages](https://dev.to/kirekov/spring-schemaspy-db-docs-and-github-pages-pk6)
-- [RxJS 7 - Observables](https://dev.to/barisbll/rxjs-7-observables-2kc)
-- [How Do You Balance Short Term Versus Long Term Career Goals?](https://dev.to/codenewbieteam/how-do-you-balance-short-term-versus-long-term-career-goals-2f31)
+- [What is RedwoodJS](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
+- [How to create a calendar in Vue](https://dev.to/owais11art/how-to-create-a-calendar-in-vue-4m0k)
+- [Auto Deploy to AWS App Runner using AWS CDK and Azure DevOps](https://dev.to/aws-builders/auto-deploy-to-aws-app-runner-using-aws-cdk-and-azure-devops-1jbp)
+- [Creating a Mouse Tracking Eye Effect With JavaScript](https://dev.to/salehmubashar/creating-a-mouse-tracking-eye-effect-with-javascript-31i9)
 <!-- BLOG-POST-LIST:END -->
 
