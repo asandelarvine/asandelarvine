@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use AI to commit like a PRO in 1 second](https://dev.to/disukharev/how-to-git-commit-like-god-1g1b)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://dev.to/apoorvtyagi/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway-1571)
-- [HackerRank SQL Basic Select](https://dev.to/spiffyeight77/hackerrank-sql-basic-select-1dj5)
-- [Terminal Tips &amp; Tricks](https://dev.to/topher2014/terminal-tips-tricks-h9n)
+- [Essential SQL Commands for Data Science](https://dev.to/perekamoyo21/essential-sql-commands-for-data-science-284g)
+- [Spring, SchemaSpy DB docs, and GitHub Pages](https://dev.to/kirekov/spring-schemaspy-db-docs-and-github-pages-pk6)
+- [RxJS 7 - Observables](https://dev.to/barisbll/rxjs-7-observables-2kc)
+- [How Do You Balance Short Term Versus Long Term Career Goals?](https://dev.to/codenewbieteam/how-do-you-balance-short-term-versus-long-term-career-goals-2f31)
 <!-- BLOG-POST-LIST:END -->
 
