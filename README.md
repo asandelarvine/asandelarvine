@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving from classic Linux distro to ChromeOS Flex? Here was what I found &lt;🪲&gt;](https://dev.to/hunghvu/moving-from-classic-linux-distro-to-chromeos-flex-here-was-what-i-found--eek)
+- [Website to storage contacts data and share it with others. &lpar;Django REST API React&rpar;](https://dev.to/szymcode/website-to-storage-contacts-data-and-share-it-with-others-django-rest-api-react-1111)
 - [Become a Python Design Strategist using the Strategy Pattern](https://dev.to/fayomihorace/become-a-python-design-strategist-using-the-strategy-pattern-6ad)
 - [Code a bus schedule CLI with Node.js and Python [ + Sqlite3 ]](https://dev.to/bekbrace/code-a-bus-schedule-cli-with-nodejs-and-python-sqlite3--6nn)
-- [Install jupyter notebook](https://dev.to/max24816/install-jupyter-notebook-1cm0)
-- [🚀 Check out useReducer!](https://dev.to/seeratawan01/check-out-usereducer-1ba3)
 <!-- BLOG-POST-LIST:END -->
 
