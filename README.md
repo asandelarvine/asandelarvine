@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisma Client Extensions: Use Cases and Pitfalls](https://dev.to/zenstack/prisma-client-extensions-use-cases-and-pitfalls-31o6)
 - [Using Container Views with Redux-like state container](https://dev.to/sergeyleschev/using-container-views-with-redux-like-state-container-4f7)
 - [Redux-like state container in SwiftUI. Container Views.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-container-views-a35)
 - [3 Ways to Automate Accessibility Testing &lpar;a11y&rpar;](https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc)
-- [What is RedwoodJS](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
 <!-- BLOG-POST-LIST:END -->
 
