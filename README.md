@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Check out useReducer!](https://dev.to/seeratawan01/check-out-usereducer-1ba3)
+- [How to test Next.js app with svg imports as component using vitest?](https://dev.to/mayank1513/how-to-test-nextjs-app-with-svg-imports-as-component-using-vitest-3idi)
+- [Why Webpack Remains a Powerful Choice for Front-End Development](https://dev.to/fritzlolpro/why-webpack-remains-a-powerful-choice-for-front-end-development-mc2)
 - [What is Diversity?](https://dev.to/windyaaa/what-is-diversity-3lhi)
-- [Transform Your Portfolio Website with These Expert Tips](https://dev.to/nickytonline/transform-your-portfolio-website-with-these-expert-tips-334e)
-- [Optimize your workflow with Tailwind CSS: Get class completions and hover previews for classes assigned to variables in VScode](https://dev.to/bhatvikrant/optimize-your-workflow-with-tailwind-css-get-class-completions-and-hover-previews-for-classes-assigned-to-variables-in-vscode-44pj)
-- [Prisma Client Extensions: Use Cases and Pitfalls](https://dev.to/zenstack/prisma-client-extensions-use-cases-and-pitfalls-31o6)
 <!-- BLOG-POST-LIST:END -->
 
