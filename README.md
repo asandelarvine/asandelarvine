@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Chakra UI: The Best Kept Secret in Web Development](https://dev.to/nitinfab/chakra-ui-the-best-kept-secret-in-web-development-23gg)
 - [Things to do while programming!](https://dev.to/iamsatyanchal/things-to-do-while-programming-3jkg)
 - [Can you afford your own website as a writer](https://dev.to/shreyvijayvargiya/can-you-afford-your-own-website-as-a-writer-3ch6)
 - [What are your Goals for the Week of March 12 - 18?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-march-12-18-4ije)
-- [How to Create a Venn Diagram in JS &lpar;with Some Help of Tolkien&rpar;](https://dev.to/andreykh1985/how-to-create-a-venn-diagram-in-js-with-some-help-of-tolkien-4fn6)
 <!-- BLOG-POST-LIST:END -->
 
