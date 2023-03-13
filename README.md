@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use ESLint to Boost Your Programming Skills](https://dev.to/kazemm_dev/how-to-use-eslint-to-boost-your-programming-skills-3ced)
 - [FLiP Stack Weekly for 13 March 2023](https://dev.to/tspannhw/flip-stack-weekly-for-13-march-2023-53nc)
+- [My Dream World](https://dev.to/valeriavg/my-dream-world-2bko)
 - [Chakra UI: The Best Kept Secret in Web Development](https://dev.to/nitinfab/chakra-ui-the-best-kept-secret-in-web-development-23gg)
-- [Reflecting on my journey: we need more senior+ and directors+ women engineers](https://dev.to/devteam/reflecting-on-my-journey-we-need-more-senior-and-directors-women-engineers-7gp)
-- [Things to do while programming!](https://dev.to/iamsatyanchal/things-to-do-while-programming-3jkg)
 <!-- BLOG-POST-LIST:END -->
 
