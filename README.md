@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Underground Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-underground-edition-5fk4)
-- [How to build a sticky banner component using Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-sticky-banner-components-using-tailwind-css-and-flowbite-2i0i)
-- [E a gente continua codando... Compartilhe sua história.](https://dev.to/feministech/e-a-gente-continua-codando-compartilhe-sua-historia-5bka)
-- [Street Programmer: OG:IMAGE Rest Generator](https://dev.to/darkterminal/street-programmer-ogimage-rest-generator-1jod)
+- [Creating Custom Animations with React.js and GreenSock](https://dev.to/haszankauna/creating-custom-animations-with-reactjs-and-greensock-36eb)
+- [Setup authentication in Nginx](https://dev.to/mxglt/setup-authentication-in-nginx-2kba)
+- [Mettre en place l&#39;authentification sur Nginx](https://dev.to/mxglt/mettre-en-place-lauthentification-sur-nginx-1cjj)
+- [Build a Tic Tac Toe Game using HTML, CSS, JavaScript, Tailwind CSS and Canvas Confetti](https://dev.to/codeofrelevancy/build-a-tic-tac-toe-game-using-html-css-javascript-tailwind-css-and-canvas-confetti-c90)
 <!-- BLOG-POST-LIST:END -->
 
