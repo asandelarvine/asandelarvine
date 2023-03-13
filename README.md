@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Things to do while programming!](https://dev.to/iamsatyanchal/things-to-do-while-programming-3jkg)
+- [Can you afford your own website as a writer](https://dev.to/shreyvijayvargiya/can-you-afford-your-own-website-as-a-writer-3ch6)
+- [What are your Goals for the Week of March 12 - 18?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-march-12-18-4ije)
 - [How to Create a Venn Diagram in JS &lpar;with Some Help of Tolkien&rpar;](https://dev.to/andreykh1985/how-to-create-a-venn-diagram-in-js-with-some-help-of-tolkien-4fn6)
-- [How Woovi uses Relay?](https://dev.to/woovi/how-woovi-uses-relay-1iic)
-- [What is a database Foreign Key? A beginner&#39;s tutorial](https://dev.to/educative/what-is-a-database-foreign-key-a-beginners-tutorial-17do)
-- [Medusa vs Shopify](https://dev.to/sophyia/medusa-vs-shopify-1h45)
 <!-- BLOG-POST-LIST:END -->
 
