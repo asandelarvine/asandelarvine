@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Excellent solution for React Native charting in 2023](https://dev.to/zhiqingchen/excellent-solution-for-react-native-charting-in-2023-3k07)
+- [My Nim Development Weekly Report &lpar;3/12&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-312-1343)
+- [📊 Non-Image Approach to Data Viz in Email](https://dev.to/bdjang/non-image-approach-to-data-viz-in-email-o0k)
 - [Introduction to gRPC](https://dev.to/koich1/introduction-to-grpc-46nl)
-- [My Coding Journey So Far....](https://dev.to/blessing0024/my-coding-journey-so-far-2p8l)
-- [AWS and the 12 Factor App Methodology: Maximizing Efficiency and Scalability](https://dev.to/aws-builders/aws-and-the-12-factor-app-methodology-maximizing-efficiency-and-scalability-1cb6)
-- [TypeScript Mapped Union Type](https://dev.to/nartc/typescript-mapped-union-type-haf)
 <!-- BLOG-POST-LIST:END -->
 
