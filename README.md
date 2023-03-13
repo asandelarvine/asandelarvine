@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create You Own Pod](https://dev.to/nalineer/create-you-own-pod-d2d)
+- [5 tips to become better at CSS](https://dev.to/sp90/5-tips-to-become-better-at-css-3d24)
 - [New Features for the Web Report Designer in List &amp; Label 28](https://dev.to/combit/new-features-for-the-web-report-designer-in-list-label-28-106d)
 - [Reflecting on my journey in tech](https://dev.to/devteam/reflecting-on-my-journey-in-tech-2lk9)
-- [Metaprogramming, ancestors chain and super.](https://dev.to/wizardhealth/metaprogramming-ancestors-chain-and-super-2pbd)
-- [Superpowers with Directives and Dependency Injection: Part 1](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-1-ho7)
 <!-- BLOG-POST-LIST:END -->
 
