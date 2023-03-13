@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Custom Animations with React.js and GreenSock](https://dev.to/haszankauna/creating-custom-animations-with-reactjs-and-greensock-36eb)
-- [Setup authentication in Nginx](https://dev.to/mxglt/setup-authentication-in-nginx-2kba)
-- [Mettre en place l&#39;authentification sur Nginx](https://dev.to/mxglt/mettre-en-place-lauthentification-sur-nginx-1cjj)
-- [Build a Tic Tac Toe Game using HTML, CSS, JavaScript, Tailwind CSS and Canvas Confetti](https://dev.to/codeofrelevancy/build-a-tic-tac-toe-game-using-html-css-javascript-tailwind-css-and-canvas-confetti-c90)
+- [How to Create a Venn Diagram in JS &lpar;with Some Help of Tolkien&rpar;](https://dev.to/andreykh1985/how-to-create-a-venn-diagram-in-js-with-some-help-of-tolkien-4fn6)
+- [How Woovi uses Relay?](https://dev.to/woovi/how-woovi-uses-relay-1iic)
+- [What is a database Foreign Key? A beginner&#39;s tutorial](https://dev.to/educative/what-is-a-database-foreign-key-a-beginners-tutorial-17do)
+- [Medusa vs Shopify](https://dev.to/sophyia/medusa-vs-shopify-1h45)
 <!-- BLOG-POST-LIST:END -->
 
