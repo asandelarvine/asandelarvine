@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create You Own Pod](https://dev.to/nalineer/create-you-own-pod-d2d)
-- [5 tips to become better at CSS](https://dev.to/sp90/5-tips-to-become-better-at-css-3d24)
-- [New Features for the Web Report Designer in List &amp; Label 28](https://dev.to/combit/new-features-for-the-web-report-designer-in-list-label-28-106d)
-- [Reflecting on my journey in tech](https://dev.to/devteam/reflecting-on-my-journey-in-tech-2lk9)
+- [S&#39;Monday 😪 Wyld Stallyns](https://dev.to/codenewbieteam/smonday-4m09)
+- [Astro and Azure Static Web Apps](https://dev.to/florianrappl/astro-and-azure-static-web-apps-efl)
+- [Best Practices for Securing Kubernetes Deployments](https://dev.to/aws-builders/best-practices-for-securing-kubernetes-deployments-1jg6)
+- [What industries do think think will benefit most from AI use?](https://dev.to/bekahhw/what-industries-do-think-think-will-benefit-most-from-ai-use-3h0k)
 <!-- BLOG-POST-LIST:END -->
 
