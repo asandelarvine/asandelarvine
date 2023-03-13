@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday 👩‍🎤](https://dev.to/ben/meme-monday-58j4)
-- [Building a JSON to Typescript converter with React, NodeJS and ChatGPT 🚀](https://dev.to/novu/building-a-json-to-typescript-converter-with-react-nodejs-and-chatgpt-46p2)
-- [Should I upgrade to Eleventy 2.0?](https://dev.to/robole/should-i-upgrade-to-eleventy-20-1455)
-- [Common Tools and Technologies for API Development](https://dev.to/crossskatee1/common-tools-and-technologies-for-api-development-1a1b)
+- [Music Monday — What are you listening to? &lpar;Underground Edition&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-underground-edition-5fk4)
+- [How to build a sticky banner component using Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-sticky-banner-components-using-tailwind-css-and-flowbite-2i0i)
+- [E a gente continua codando... Compartilhe sua história.](https://dev.to/feministech/e-a-gente-continua-codando-compartilhe-sua-historia-5bka)
+- [Street Programmer: OG:IMAGE Rest Generator](https://dev.to/darkterminal/street-programmer-ogimage-rest-generator-1jod)
 <!-- BLOG-POST-LIST:END -->
 
