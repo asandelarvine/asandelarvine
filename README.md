@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Coding Journey So Far....](https://dev.to/blessing0024/my-coding-journey-so-far-2p8l)
+- [AWS and the 12 Factor App Methodology: Maximizing Efficiency and Scalability](https://dev.to/aws-builders/aws-and-the-12-factor-app-methodology-maximizing-efficiency-and-scalability-1cb6)
 - [TypeScript Mapped Union Type](https://dev.to/nartc/typescript-mapped-union-type-haf)
-- [Moving from classic Linux distro to ChromeOS Flex? Here was what I found &lt;🪲&gt;](https://dev.to/hunghvu/moving-from-classic-linux-distro-to-chromeos-flex-here-was-what-i-found--eek)
-- [Website to storage contacts data and share it with others. &lpar;Django REST API React&rpar;](https://dev.to/szymcode/website-to-storage-contacts-data-and-share-it-with-others-django-rest-api-react-1111)
-- [Become a Python Design Strategist using the Strategy Pattern](https://dev.to/fayomihorace/become-a-python-design-strategist-using-the-strategy-pattern-6ad)
+- [Docusaurus: Create your project documentation simply and efficiently!](https://dev.to/jlgjosue/docusaurus-create-your-project-documentation-simply-and-efficiently-4edp)
 <!-- BLOG-POST-LIST:END -->
 
