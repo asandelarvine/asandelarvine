@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS open source newsletter, #148](https://dev.to/aws/aws-open-source-newsletter-148-5h2b)
-- [Excellent solution for React Native charting in 2023](https://dev.to/zhiqingchen/excellent-solution-for-react-native-charting-in-2023-3k07)
-- [My Nim Development Weekly Report &lpar;3/12&rpar;](https://dev.to/ringabout/my-nim-development-weekly-report-312-1343)
-- [Introduction to Database transaction, Read phenomenom and isolation level using Sequelize ORM](https://dev.to/niyiojeyinka/introduction-to-database-transaction-read-phenomenom-and-isolation-level-using-sequelize-orm-dh1)
+- [What Software Engineers ACTUALLY Do](https://dev.to/rifkiandriyanto/what-professional-software-engineers-actually-do-11o4)
+- [5 Time Management Tips to Boost Your Productivity!](https://dev.to/sriparno08/5-time-management-tips-to-boost-your-productivity-35dm)
+- [Test Fixtures in Go](https://dev.to/trapajim/test-fixtures-in-go-3eh6)
 <!-- BLOG-POST-LIST:END -->
 
