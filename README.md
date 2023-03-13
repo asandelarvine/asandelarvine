@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Fall of Silicon Valley Bank: What It Means for Tech Startups](https://dev.to/khoubaibsudo/the-rise-and-fall-of-silicon-valley-bank-what-it-means-for-tech-startups-3d59)
-- [S&#39;Monday 😪 Wyld Stallyns](https://dev.to/codenewbieteam/smonday-4m09)
-- [How to brand yourself &lpar;in 9 steps&rpar;](https://dev.to/acidop/how-to-brand-yourself-in-9-steps-5582)
-- [MLOPs - Overview](https://dev.to/balagmadhu/mlops-overview-14oa)
+- [Meme Monday 👩‍🎤](https://dev.to/ben/meme-monday-58j4)
+- [Building a JSON to Typescript converter with React, NodeJS and ChatGPT 🚀](https://dev.to/novu/building-a-json-to-typescript-converter-with-react-nodejs-and-chatgpt-46p2)
+- [Should I upgrade to Eleventy 2.0?](https://dev.to/robole/should-i-upgrade-to-eleventy-20-1455)
+- [Common Tools and Technologies for API Development](https://dev.to/crossskatee1/common-tools-and-technologies-for-api-development-1a1b)
 <!-- BLOG-POST-LIST:END -->
 
