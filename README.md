@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise and Fall of Silicon Valley Bank: What It Means for Tech Startups](https://dev.to/khoubaibsudo/the-rise-and-fall-of-silicon-valley-bank-what-it-means-for-tech-startups-3d59)
 - [S&#39;Monday 😪 Wyld Stallyns](https://dev.to/codenewbieteam/smonday-4m09)
-- [Astro and Azure Static Web Apps](https://dev.to/florianrappl/astro-and-azure-static-web-apps-efl)
-- [Best Practices for Securing Kubernetes Deployments](https://dev.to/aws-builders/best-practices-for-securing-kubernetes-deployments-1jg6)
-- [What industries do think think will benefit most from AI use?](https://dev.to/bekahhw/what-industries-do-think-think-will-benefit-most-from-ai-use-3h0k)
+- [How to brand yourself &lpar;in 9 steps&rpar;](https://dev.to/acidop/how-to-brand-yourself-in-9-steps-5582)
+- [MLOPs - Overview](https://dev.to/balagmadhu/mlops-overview-14oa)
 <!-- BLOG-POST-LIST:END -->
 
