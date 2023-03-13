@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New Features for the Web Report Designer in List &amp; Label 28](https://dev.to/combit/new-features-for-the-web-report-designer-in-list-label-28-106d)
+- [Reflecting on my journey in tech](https://dev.to/devteam/reflecting-on-my-journey-in-tech-2lk9)
+- [Metaprogramming, ancestors chain and super.](https://dev.to/wizardhealth/metaprogramming-ancestors-chain-and-super-2pbd)
 - [Superpowers with Directives and Dependency Injection: Part 1](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-1-ho7)
-- [Streamlining Software Rollouts: Finding the Perfect Deployment Strategy for Your Team’s Goals and User’s Needs](https://dev.to/anay21110/streamlining-software-rollouts-finding-the-perfect-deployment-strategy-for-your-teams-goals-and-users-needs-49fa)
-- [FeathersJS vs NestJS - Compared in 3 Key Areas](https://dev.to/nooptoday/feathersjs-vs-nestjs-compared-in-3-key-areas-35a1)
-- [Guide to Serverless &amp; Lambda Testing — Part 2 — Testing Pyramid](https://dev.to/aws-builders/guide-to-serverless-lambda-testing-part-2-testing-pyramid-5amp)
 <!-- BLOG-POST-LIST:END -->
 
