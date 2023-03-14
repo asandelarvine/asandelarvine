@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Easy steps to train your AI model and create personal Avatar generator 😎✨](https://dev.to/madza/4-easy-steps-to-train-your-ai-model-and-create-personal-avatar-generator-3mji)
+- [Talking about Kotlin Coroutines](https://dev.to/j_a_o_v_c_t_r/talking-about-kotlin-coroutines-7jf)
+- [🌉 Silicon Valley Bank Collapse – How did it happen, what will follow?](https://dev.to/bascodes/silicon-valley-bank-collapse-how-did-it-happen-what-will-follow-2jbg)
 - [# The Benefits of Using Responsive Web Design](https://dev.to/iamsatyanchal/-the-benefits-of-using-responsive-web-design-1m6l)
-- [Unlocking the Secrets of the Magic Number 35](https://dev.to/aws-heroes/unlocking-the-secrets-of-the-magic-number-35-4lk0)
-- [Responsive Navbar](https://dev.to/awaismehnga/responsive-navbar-12ab)
-- [CSS card](https://dev.to/awaismehnga/css-card-27pn)
 <!-- BLOG-POST-LIST:END -->
 
