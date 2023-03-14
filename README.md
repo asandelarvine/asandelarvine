@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s #wecoded and I am very happy to be here](https://dev.to/rachelfazio/its-wecoded-and-i-am-very-happy-to-be-here-32oe)
-- [Keyword Research Case Studies: Tool-User Campaigns](https://dev.to/daedtech/keyword-research-case-studies-tool-user-campaigns-2cfl)
-- [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
-- [SQL Server and Flyway: a Docker approach](https://dev.to/leopardorossi/sql-server-and-flyway-a-docker-approach-kdj)
+- [React and Firestore Part 2](https://dev.to/salehmubashar/react-and-firestore-part-2-104a)
+- [One-liner: Remove first two characters of every line in thousands of files](https://dev.to/szabgab/one-liner-remove-first-two-characters-of-every-line-in-thousands-of-files-2jm4)
+- [#DEVDiscuss: Coding Against Bias](https://dev.to/devteam/devdiscuss-coding-against-bias-3npd)
+- [How To Use &quot;--save-dev&quot; when installing Nodejs Modules](https://dev.to/ndohjapan/how-to-use-save-dev-when-installing-nodejs-modules-52ae)
 <!-- BLOG-POST-LIST:END -->
 
