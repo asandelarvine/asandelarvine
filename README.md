@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [# How to Improve Website Speed and Performance](https://dev.to/iamsatyanchal/-how-to-improve-website-speed-and-performance-5817)
 - [React and Firestore Part 2](https://dev.to/salehmubashar/react-and-firestore-part-2-104a)
 - [One-liner: Remove first two characters of every line in thousands of files](https://dev.to/szabgab/one-liner-remove-first-two-characters-of-every-line-in-thousands-of-files-2jm4)
 - [#DEVDiscuss: Coding Against Bias](https://dev.to/devteam/devdiscuss-coding-against-bias-3npd)
-- [How To Use &quot;--save-dev&quot; when installing Nodejs Modules](https://dev.to/ndohjapan/how-to-use-save-dev-when-installing-nodejs-modules-52ae)
 <!-- BLOG-POST-LIST:END -->
 
