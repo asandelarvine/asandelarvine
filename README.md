@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Lesson I&#39;ve From Spotlighting Women in tech](https://dev.to/cbid2/3-lesson-ive-from-spotlighting-women-in-tech-9a0)
 - [👨🏽‍💻🚀 Discover These 5 Incredible ES6 Features That Will Make You a Better JavaScript Developer 🚀👨🏽‍💻](https://dev.to/almonteluis/discover-these-5-incredible-es6-features-that-will-make-you-a-better-javascript-developer-37lo)
 - [What you should know about SEO as a Web Developer!](https://dev.to/flpms/what-you-should-know-about-seo-as-a-web-developer-pdl)
 - [Raspberry Pi como runner do GitHub Action](https://dev.to/santospedroh/raspberry-pi-como-runner-do-github-action-596h)
-- [Neopets - Meu inicio não tão convencional na área da tecnologia](https://dev.to/vanessatelles/neopets-meu-inicio-nao-tao-convencional-na-area-da-tecnologia-1560)
 <!-- BLOG-POST-LIST:END -->
 
