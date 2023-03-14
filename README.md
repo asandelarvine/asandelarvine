@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Replit Radio!](https://dev.to/grey41/replit-radio-51i8)
-- [Sending Emails in WooCommerce](https://dev.to/mariiahlumilina/sending-emails-in-woocommerce-5dk0)
-- [Advices from a Software Engineer with 8 Years of Experience](https://dev.to/ruizb/advices-from-a-software-engineer-with-8-years-of-experience-2n0l)
-- [Do you know JavaScript?](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)
+- [File Upload Wrapper Library](https://dev.to/didslm/file-upload-wrapper-library-33f0)
+- [Block public access on all your S3 Buckets easily](https://dev.to/kumo/block-public-access-on-all-your-s3-buckets-easily-o7b)
+- [How I failed with 4 different products and how I started with Pythagora](https://dev.to/zvone187/how-i-failed-with-4-different-products-and-how-i-started-with-pythagora-5p8)
+- [Build your own ChatGPT starter kit](https://dev.to/bdougieyo/build-your-own-chatgpt-starter-kit-41gm)
 <!-- BLOG-POST-LIST:END -->
 
