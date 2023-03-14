@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s #wecoded and I am very happy to be here](https://dev.to/rachelfazio/its-wecoded-and-i-am-very-happy-to-be-here-32oe)
+- [Keyword Research Case Studies: Tool-User Campaigns](https://dev.to/daedtech/keyword-research-case-studies-tool-user-campaigns-2cfl)
 - [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
 - [SQL Server and Flyway: a Docker approach](https://dev.to/leopardorossi/sql-server-and-flyway-a-docker-approach-kdj)
-- [# 5 Tips for Optimizing Your Website&#39;s Page Load Speed](https://dev.to/iamsatyanchal/-5-tips-for-optimizing-your-websites-page-load-speed-2ccp)
-- [4 Easy steps to train your AI model and create personal Avatar generator 😎✨](https://dev.to/madza/4-easy-steps-to-train-your-ai-model-and-create-personal-avatar-generator-3mji)
 <!-- BLOG-POST-LIST:END -->
 
