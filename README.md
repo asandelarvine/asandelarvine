@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C program to display calendar for a given year](https://dev.to/mavensingh/c-program-to-display-calendar-for-a-given-year-21k)
+- [Making explicit what is Production ready and what is not](https://dev.to/woovi/making-explicit-what-is-production-ready-and-what-is-not-4pgg)
+- [Share your work in progress in real time from VS Code or JetBrains](https://dev.to/gitlive/share-your-work-in-progress-in-real-time-from-vs-code-or-jetbrains-1i5a)
 - [Eagle Eye - Grow your DevTool by engaging with content](https://dev.to/crowddotdev/eagle-eye-grow-your-devtool-by-engaging-with-content-80g)
-- [Untangling Cable Spaghetti](https://dev.to/ingosteinke/untangling-cable-spaghetti-fdl)
-- [Let&#39;s discuss Generics in TypeScript](https://dev.to/toluagboola/lets-discuss-generics-in-typescript-3d0p)
-- [Using Docker for Rails development](https://dev.to/2nit/using-docker-for-rails-development-1928)
 <!-- BLOG-POST-LIST:END -->
 
