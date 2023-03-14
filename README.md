@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Cross-site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/iamsatyanchal/understanding-cross-site-scripting-xss-vulnerability-34bo)
 - [What is Responsive Web Design?](https://dev.to/iamsatyanchal/what-is-responsive-web-design-3p2b)
 - [Understanding React JS Components](https://dev.to/iamsatyanchal/understanding-react-js-components-2824)
 - [The Importance of Responsive Web Design](https://dev.to/iamsatyanchal/the-importance-of-responsive-web-design-4a3a)
-- [The Advantages of Using ReactJS for Web Development](https://dev.to/iamsatyanchal/the-advantages-of-using-reactjs-for-web-development-182i)
 <!-- BLOG-POST-LIST:END -->
 
