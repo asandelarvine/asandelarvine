@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Big O: A Beginner&#39;s Guide:](https://dev.to/binayakjha/big-o-a-beginners-guide-175c)
 - [# The Pros and Cons of Using CSS Frameworks in Web Development](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-using-css-frameworks-in-web-development-c22)
 - [# The Pros and Cons of Using JavaScript Frameworks](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-using-javascript-frameworks-6f6)
 - [# Introduction to React Router](https://dev.to/iamsatyanchal/-introduction-to-react-router-47cg)
-- [Why I choose CRA &lpar; Create-react-app&rpar; over Vite for this React project ?](https://dev.to/apfirebolt/why-i-choose-cra-create-react-app-over-vite-for-this-react-project--cj8)
 <!-- BLOG-POST-LIST:END -->
 
