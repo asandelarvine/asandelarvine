@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [There’s a killer new guide to building for Mastodon and the Fediverse…](https://dev.to/glitch/theres-a-killer-new-guide-to-building-for-mastodon-and-the-fediverse-40i0)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-15mk)
 - [File Upload Wrapper Library](https://dev.to/didslm/file-upload-wrapper-library-33f0)
 - [Block public access on all your S3 Buckets easily](https://dev.to/kumo/block-public-access-on-all-your-s3-buckets-easily-o7b)
-- [How I failed with 4 different products and how I started with Pythagora](https://dev.to/zvone187/how-i-failed-with-4-different-products-and-how-i-started-with-pythagora-5p8)
-- [Build your own ChatGPT starter kit](https://dev.to/bdougieyo/build-your-own-chatgpt-starter-kit-41gm)
 <!-- BLOG-POST-LIST:END -->
 
