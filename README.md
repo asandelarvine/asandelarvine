@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C program to display calendar for a given year](https://dev.to/mavensingh/c-program-to-display-calendar-for-a-given-year-21k)
-- [Making explicit what is Production ready and what is not](https://dev.to/woovi/making-explicit-what-is-production-ready-and-what-is-not-4pgg)
-- [Share your work in progress in real time from VS Code or JetBrains](https://dev.to/gitlive/share-your-work-in-progress-in-real-time-from-vs-code-or-jetbrains-1i5a)
-- [Eagle Eye - Grow your DevTool by engaging with content](https://dev.to/crowddotdev/eagle-eye-grow-your-devtool-by-engaging-with-content-80g)
+- [Replit Radio!](https://dev.to/grey41/replit-radio-51i8)
+- [Sending Emails in WooCommerce](https://dev.to/mariiahlumilina/sending-emails-in-woocommerce-5dk0)
+- [Advices from a Software Engineer with 8 Years of Experience](https://dev.to/ruizb/advices-from-a-software-engineer-with-8-years-of-experience-2n0l)
+- [Do you know JavaScript?](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)
 <!-- BLOG-POST-LIST:END -->
 
