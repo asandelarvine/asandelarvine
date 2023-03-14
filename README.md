@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# How to Improve Website Speed and Performance](https://dev.to/iamsatyanchal/-how-to-improve-website-speed-and-performance-5817)
-- [React and Firestore Part 2](https://dev.to/salehmubashar/react-and-firestore-part-2-104a)
-- [One-liner: Remove first two characters of every line in thousands of files](https://dev.to/szabgab/one-liner-remove-first-two-characters-of-every-line-in-thousands-of-files-2jm4)
-- [#DEVDiscuss: Coding Against Bias](https://dev.to/devteam/devdiscuss-coding-against-bias-3npd)
+- [What is Responsive Web Design?](https://dev.to/iamsatyanchal/what-is-responsive-web-design-3p2b)
+- [Understanding React JS Components](https://dev.to/iamsatyanchal/understanding-react-js-components-2824)
+- [The Importance of Responsive Web Design](https://dev.to/iamsatyanchal/the-importance-of-responsive-web-design-4a3a)
+- [The Advantages of Using ReactJS for Web Development](https://dev.to/iamsatyanchal/the-advantages-of-using-reactjs-for-web-development-182i)
 <!-- BLOG-POST-LIST:END -->
 
