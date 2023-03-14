@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
+- [SQL Server and Flyway: a Docker approach](https://dev.to/leopardorossi/sql-server-and-flyway-a-docker-approach-kdj)
+- [# 5 Tips for Optimizing Your Website&#39;s Page Load Speed](https://dev.to/iamsatyanchal/-5-tips-for-optimizing-your-websites-page-load-speed-2ccp)
 - [4 Easy steps to train your AI model and create personal Avatar generator 😎✨](https://dev.to/madza/4-easy-steps-to-train-your-ai-model-and-create-personal-avatar-generator-3mji)
-- [Talking about Kotlin Coroutines](https://dev.to/j_a_o_v_c_t_r/talking-about-kotlin-coroutines-7jf)
-- [🌉 Silicon Valley Bank Collapse – How did it happen, what will follow?](https://dev.to/bascodes/silicon-valley-bank-collapse-how-did-it-happen-what-will-follow-2jbg)
-- [# The Benefits of Using Responsive Web Design](https://dev.to/iamsatyanchal/-the-benefits-of-using-responsive-web-design-1m6l)
 <!-- BLOG-POST-LIST:END -->
 
