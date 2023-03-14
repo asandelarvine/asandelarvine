@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [# The Pros and Cons of Using CSS Frameworks in Web Development](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-using-css-frameworks-in-web-development-c22)
+- [# The Pros and Cons of Using JavaScript Frameworks](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-using-javascript-frameworks-6f6)
+- [# Introduction to React Router](https://dev.to/iamsatyanchal/-introduction-to-react-router-47cg)
 - [Why I choose CRA &lpar; Create-react-app&rpar; over Vite for this React project ?](https://dev.to/apfirebolt/why-i-choose-cra-create-react-app-over-vite-for-this-react-project--cj8)
-- [3 Lesson I&#39;ve From Spotlighting Women in tech](https://dev.to/cbid2/3-lesson-ive-from-spotlighting-women-in-tech-9a0)
-- [Mastering Middleware in Go: Tips, Tricks, and Real-World Use Cases](https://dev.to/ansu/mastering-middleware-in-go-tips-tricks-and-real-world-use-cases-13md)
-- [👨🏽‍💻🚀 Discover These 5 Incredible ES6 Features That Will Make You a Better JavaScript Developer 🚀👨🏽‍💻](https://dev.to/almonteluis/discover-these-5-incredible-es6-features-that-will-make-you-a-better-javascript-developer-37lo)
 <!-- BLOG-POST-LIST:END -->
 
