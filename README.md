@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [# How to Create a Responsive Image Gallery using CSS Grid](https://dev.to/iamsatyanchal/how-to-create-a-responsive-image-gallery-using-css-grid-1aki)
 - [# A Beginner&#39;s Guide to Web Development](https://dev.to/iamsatyanchal/-a-beginners-guide-to-web-development-2on6)
 - [Learnings from my first Monetised Side Project — https://hire.win](https://dev.to/vivek7405/learnings-from-my-first-monetised-side-project-httpshirewin-2p10)
 - [# The Pros and Cons of Working with Pre-made Website Templates](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-working-with-pre-made-website-templates-3k6p)
-- [# Understanding What is Responsive Web Design](https://dev.to/iamsatyanchal/-understanding-what-is-responsive-web-design-3f8e)
 <!-- BLOG-POST-LIST:END -->
 
