@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My favorite VS Code extensions in 2023](https://dev.to/starbist/my-favorite-vs-code-extensions-in-2023-1dlf)
-- [MY CODING JOURNEY SO FAR](https://dev.to/britinogn/my-coding-journey-so-far-335h)
-- [How to Use ESLint to Boost Your Programming Skills](https://dev.to/kazemm_dev/how-to-use-eslint-to-boost-your-programming-skills-3ced)
-- [FLiP Stack Weekly for 13 March 2023](https://dev.to/tspannhw/flip-stack-weekly-for-13-march-2023-53nc)
+- [👨🏽‍💻🚀 Discover These 5 Incredible ES6 Features That Will Make You a Better JavaScript Developer 🚀👨🏽‍💻](https://dev.to/almonteluis/discover-these-5-incredible-es6-features-that-will-make-you-a-better-javascript-developer-37lo)
+- [What you should know about SEO as a Web Developer!](https://dev.to/flpms/what-you-should-know-about-seo-as-a-web-developer-pdl)
+- [Raspberry Pi como runner do GitHub Action](https://dev.to/santospedroh/raspberry-pi-como-runner-do-github-action-596h)
+- [Neopets - Meu inicio não tão convencional na área da tecnologia](https://dev.to/vanessatelles/neopets-meu-inicio-nao-tao-convencional-na-area-da-tecnologia-1560)
 <!-- BLOG-POST-LIST:END -->
 
