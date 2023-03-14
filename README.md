@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s a killer new guide to building for Mastodon and the Fediverse…](https://dev.to/glitch/theres-a-killer-new-guide-to-building-for-mastodon-and-the-fediverse-40i0)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-15mk)
-- [File Upload Wrapper Library](https://dev.to/didslm/file-upload-wrapper-library-33f0)
-- [Block public access on all your S3 Buckets easily](https://dev.to/kumo/block-public-access-on-all-your-s3-buckets-easily-o7b)
+- [# The Benefits of Using Responsive Web Design](https://dev.to/iamsatyanchal/-the-benefits-of-using-responsive-web-design-1m6l)
+- [Unlocking the Secrets of the Magic Number 35](https://dev.to/aws-heroes/unlocking-the-secrets-of-the-magic-number-35-4lk0)
+- [Responsive Navbar](https://dev.to/awaismehnga/responsive-navbar-12ab)
+- [CSS card](https://dev.to/awaismehnga/css-card-27pn)
 <!-- BLOG-POST-LIST:END -->
 
