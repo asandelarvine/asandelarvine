@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve made a Free drag and drop React Template Builder](https://dev.to/rarestoma/ive-made-a-free-drag-and-drop-react-template-builder-4535)
-- [Get respects at job for doing Conventional Commits](https://dev.to/disukharev/how-to-make-semantic-commits-with-conventional-commits-41of)
-- [Using the booted Method in Laravel Eloquent Models for CRUD Event Listening and Cache Resetting](https://dev.to/junaidjaved248/using-the-booted-method-in-laravel-eloquent-models-for-crud-event-listening-and-cache-resetting-4519)
-- [Big O: A Beginner&#39;s Guide:](https://dev.to/binayakjha/big-o-a-beginners-guide-175c)
+- [# A Beginner&#39;s Guide to Web Development](https://dev.to/iamsatyanchal/-a-beginners-guide-to-web-development-2on6)
+- [Learnings from my first Monetised Side Project — https://hire.win](https://dev.to/vivek7405/learnings-from-my-first-monetised-side-project-httpshirewin-2p10)
+- [# The Pros and Cons of Working with Pre-made Website Templates](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-working-with-pre-made-website-templates-3k6p)
+- [# Understanding What is Responsive Web Design](https://dev.to/iamsatyanchal/-understanding-what-is-responsive-web-design-3f8e)
 <!-- BLOG-POST-LIST:END -->
 
