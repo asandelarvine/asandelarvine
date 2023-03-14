@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Eagle Eye - Grow your DevTool by engaging with content](https://dev.to/crowddotdev/eagle-eye-grow-your-devtool-by-engaging-with-content-80g)
+- [Untangling Cable Spaghetti](https://dev.to/ingosteinke/untangling-cable-spaghetti-fdl)
 - [Let&#39;s discuss Generics in TypeScript](https://dev.to/toluagboola/lets-discuss-generics-in-typescript-3d0p)
 - [Using Docker for Rails development](https://dev.to/2nit/using-docker-for-rails-development-1928)
-- [# How to Create a Responsive Image Gallery using CSS Grid](https://dev.to/iamsatyanchal/how-to-create-a-responsive-image-gallery-using-css-grid-1aki)
-- [# A Beginner&#39;s Guide to Web Development](https://dev.to/iamsatyanchal/-a-beginners-guide-to-web-development-2on6)
 <!-- BLOG-POST-LIST:END -->
 
