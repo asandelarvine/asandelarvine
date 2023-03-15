@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cross-site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/iamsatyanchal/understanding-cross-site-scripting-xss-vulnerability-34bo)
-- [What is Responsive Web Design?](https://dev.to/iamsatyanchal/what-is-responsive-web-design-3p2b)
-- [Understanding React JS Components](https://dev.to/iamsatyanchal/understanding-react-js-components-2824)
-- [The Importance of Responsive Web Design](https://dev.to/iamsatyanchal/the-importance-of-responsive-web-design-4a3a)
+- [Entendendo as diferenças entre Throttling e Debouncing no JavaScript](https://dev.to/joeldorosarioo/entendendo-as-diferencas-entre-throttling-e-debouncing-no-javascript-4obi)
+- [Man, Machine, and the Art of Algorithmic Mastery: A GPT4 Perspective](https://dev.to/teodeleanu/man-machine-and-the-art-of-algorithmic-mastery-a-gpt4-perspective-ibi)
+- [Securing Data Lake in AWS](https://dev.to/aws-builders/securing-data-lake-in-aws-1e1p)
+- [Create a MySQL RDS Database Instance with Terraform and connect with MySQL Workbench](https://dev.to/aws-builders/create-a-mysql-rds-database-instance-with-terraform-3oab)
 <!-- BLOG-POST-LIST:END -->
 
