@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Drag and drop toolkit for React Material UI {custom made}, JSON based react forms Generator.](https://dev.to/amithmoorkoth/drag-and-drop-toolkit-for-react-material-ui-custom-made-json-based-react-forms-generator-2gi2)
-- [Learn serverless on AWS step-by-step - File storage](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-file-storage-10f7)
-- [É importante tentar](https://dev.to/gikapassuti/e-importante-tentar-3hhj)
-- [Getting Started with Amazon S3](https://dev.to/roy8/getting-started-with-amazon-s3-2jli)
+- [Unit Tests Should NOT Be In Your Coding Evaluations](https://dev.to/bytebodger/unit-tests-should-not-be-in-your-coding-evaluations-1a7)
+- [Vaultree SDK, with the world’s first Fully Functional Data-In-Use Encryption is now generally available.](https://dev.to/vaultree/vaultree-sdk-with-the-worlds-first-fully-functional-data-in-use-encryption-is-now-generally-available-1dn5)
+- [Python read and write csv file](https://dev.to/max24816/python-read-and-write-csv-file-2onh)
+- [Beautify Your GitHub Profile like a Pro 😍](https://dev.to/acidop/beautify-your-github-profile-like-a-pro-4okc)
 <!-- BLOG-POST-LIST:END -->
 
