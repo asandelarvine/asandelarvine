@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [This Week In React #138: React-Router, Rspack, RSC, Storybook, Million, Superflare, Tremor, React-Email, VisionCamera, Proto...](https://dev.to/sebastienlorber/this-week-in-react-138-react-router-rspack-rsc-storybook-million-superflare-tremor-react-email-visioncamera-proto-2dn8)
+- [Securing Your AWS Infrastructure: Deploying AWS Security Services with Terraform](https://dev.to/aws-builders/securing-your-aws-infrastructure-deploying-aws-security-services-with-terraform-4o4k)
 - [React &amp; Redux explicado con Tacos](https://dev.to/sergioxdev/react-redux-explicado-con-tacos-mdg)
 - [Type Up Your Game: A Beginner&#39;s Guide to TypeScript](https://dev.to/vivekalhat/type-up-your-game-a-beginners-guide-to-typescript-4dl4)
-- [A better global setup in Playwright reusing login with project dependencies](https://dev.to/playwright/a-better-global-setup-in-playwright-reusing-login-with-project-dependencies-14)
 <!-- BLOG-POST-LIST:END -->
 
