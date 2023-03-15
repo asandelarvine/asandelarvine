@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Tests Should NOT Be In Your Coding Evaluations](https://dev.to/bytebodger/unit-tests-should-not-be-in-your-coding-evaluations-1a7)
-- [Vaultree SDK, with the world’s first Fully Functional Data-In-Use Encryption is now generally available.](https://dev.to/vaultree/vaultree-sdk-with-the-worlds-first-fully-functional-data-in-use-encryption-is-now-generally-available-1dn5)
-- [Python read and write csv file](https://dev.to/max24816/python-read-and-write-csv-file-2onh)
-- [Beautify Your GitHub Profile like a Pro 😍](https://dev.to/acidop/beautify-your-github-profile-like-a-pro-4okc)
+- [Micro Frontend Discovery - The Driver for Scalability](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
+- [OpenAI launches GPT-4 a multimodal Language model](https://dev.to/amananandrai/openai-launches-gpt-4-a-multimodal-language-model-3fc)
+- [Understanding the Compose Function in JavaScript](https://dev.to/frontend_jedi/understanding-the-compose-function-in-javascript-3g34)
+- [How to Fix CORS Origin Error in Javascript](https://dev.to/emeka212/how-to-fix-cors-origin-error-in-javascript-3nd3)
 <!-- BLOG-POST-LIST:END -->
 
