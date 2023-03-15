@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Tips for Beginners to Fix Your Code Magically!](https://dev.to/dhruvjoshi9/top-10-tips-for-beginners-to-fix-your-code-magically-1fng)
-- [🚀🔮Unlocking the Power 🔓 of Blockchain: A Comprehensive Guide 🔑](https://dev.to/akshaykurhekar/unlocking-the-power-of-blockchain-a-comprehensive-guide-412f)
-- [Git fundamentals, a complete guide](https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7)
-- [CSS Art: Motorola RAZR V3](https://dev.to/alvaromontoro/css-art-motorola-razr-v3-4jdf)
+- [#Wecoded with my thoughts](https://dev.to/bagya/wecoded-with-my-thoughts-2d3o)
+- [Tech Equality Pledge🥑👩🏻‍💻](https://dev.to/kithminiii/tech-equality-pledge-30d)
+- [Learn How to Run GitHub Actions in Your CI/CD Pipeline](https://dev.to/pavanbelagatti/learn-how-to-run-github-actions-in-your-cicd-pipeline-4p8k)
+- [Introducing Inkwell: A lightweight, easy-to-use terminal-based text editor](https://dev.to/zitrocode/introducing-inkwell-a-lightweight-easy-to-use-terminal-based-text-editor-gkd)
 <!-- BLOG-POST-LIST:END -->
 
