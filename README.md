@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Essential Steps for Web Application Security Testing](https://dev.to/yayabobi/10-essential-steps-for-web-application-security-testing-4b)
 - [Introduction to Progressive Web Apps](https://dev.to/iamsatyanchal/-introduction-to-progressive-web-apps-ob7)
 - [Top 5 Latest Frontend Technologies in Web Development](https://dev.to/iamsatyanchal/top-5-latest-frontend-technologies-in-web-development-5a05)
 - [Micro Frontend Discovery - The Driver for Scalability](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
-- [OpenAI launches GPT-4 a multimodal Language model](https://dev.to/amananandrai/openai-launches-gpt-4-a-multimodal-language-model-3fc)
 <!-- BLOG-POST-LIST:END -->
 
