@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Infraestructura como código: Cloudformation vs Terraform](https://dev.to/aws-builders/infraestructura-como-codigo-cloudformation-vs-terraform-2md0)
+- [The Importance of Web Accessibility in Web Development](https://dev.to/iamsatyanchal/the-importance-of-web-accessibility-in-web-development-2pm8)
 - [My Experience In Tackling Critical Dependency Issues In React Native](https://dev.to/narottam04/my-experience-in-tackling-critical-dependency-issues-in-react-native-o26)
 - [Notification system for a grocery app with React and NodeJS](https://dev.to/novu/notification-system-for-a-grocery-app-with-react-and-nodejs-234g)
-- [Why API Specs Are the Backbone of Successful Development](https://dev.to/aws-heroes/why-api-specs-are-the-backbone-of-successful-development-i1k)
-- [KCSA Blog Series Part 1: Overview of Cloud Native Security](https://dev.to/thenjdevopsguy/kcsa-blog-series-part-1-overview-of-cloud-native-security-2pbh)
 <!-- BLOG-POST-LIST:END -->
 
