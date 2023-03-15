@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I asked ChatGPT to generate a song about centering a element](https://dev.to/codegino/i-asked-chatgpt-to-generate-a-song-about-centering-a-div-4p7n)
+- [Build Flask App For Image Recognition Using DL Model In Python](https://dev.to/sachingeek/build-flask-app-for-image-recognition-using-dl-model-in-python-36pi)
 - [Relation between Docker and Kubernetes?](https://dev.to/sarvesh42/relation-between-docker-and-kubernetes-2jg1)
-- [How to manage multiple Node JS versions?](https://dev.to/shubhamtiwari909/how-to-manage-multiple-node-js-versions-fm)
-- [Alternate Career Paths: If You Weren’t A Coder or Developer, What Would You Be Instead?](https://dev.to/codenewbieteam/alternate-career-paths-if-you-werent-a-coder-or-developer-what-would-you-be-instead-22m5)
-- [#Wecoded with my thoughts](https://dev.to/bagya/wecoded-with-my-thoughts-2d3o)
+- [What do you think about ‘Gender Equity’?](https://dev.to/windyaaa/what-do-you-think-about-gender-equity-149e)
 <!-- BLOG-POST-LIST:END -->
 
