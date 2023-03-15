@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌐 Creating Eye-Catching Layouts Has Never Been Easier: The Power of CSS Grid🌐](https://dev.to/almonteluis/creating-eye-catching-layouts-has-never-been-easier-the-power-of-css-grid-3k91)
+- [🧮 JavaScript for Beginners: Data Structures](https://dev.to/catherineisonline/javascript-for-beginners-data-structures-2j6i)
+- [Trabalhando com multiplas databases no laravel](https://dev.to/woney/trabalhando-com-multiplas-databases-no-laravel-ooc)
 - [This Week In React #138: React-Router, Rspack, RSC, Storybook, Million, Superflare, Tremor, React-Email, VisionCamera, Proto...](https://dev.to/sebastienlorber/this-week-in-react-138-react-router-rspack-rsc-storybook-million-superflare-tremor-react-email-visioncamera-proto-2dn8)
-- [Securing Your AWS Infrastructure: Deploying AWS Security Services with Terraform](https://dev.to/aws-builders/securing-your-aws-infrastructure-deploying-aws-security-services-with-terraform-4o4k)
-- [React &amp; Redux explicado con Tacos](https://dev.to/sergioxdev/react-redux-explicado-con-tacos-mdg)
-- [Type Up Your Game: A Beginner&#39;s Guide to TypeScript](https://dev.to/vivekalhat/type-up-your-game-a-beginners-guide-to-typescript-4dl4)
 <!-- BLOG-POST-LIST:END -->
 
