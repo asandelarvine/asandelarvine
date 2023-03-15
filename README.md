@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I asked ChatGPT to generate a song about centering a element](https://dev.to/codegino/i-asked-chatgpt-to-generate-a-song-about-centering-a-div-4p7n)
+- [.NET 8 is on the way! Discover its new Features🚀](https://dev.to/bytehide/net-8-is-on-the-way-discover-its-new-features-4oil)
+- [How to build an AI Chatbot using Amazon Lex and Lambda, and Integration with ReactJS](https://dev.to/onlyoneerin/how-to-build-an-ai-chatbot-using-amazon-lex-and-lambda-and-integration-with-reactjs-592j)
 - [Build Flask App For Image Recognition Using DL Model In Python](https://dev.to/sachingeek/build-flask-app-for-image-recognition-using-dl-model-in-python-36pi)
 - [Relation between Docker and Kubernetes?](https://dev.to/sarvesh42/relation-between-docker-and-kubernetes-2jg1)
-- [What do you think about ‘Gender Equity’?](https://dev.to/windyaaa/what-do-you-think-about-gender-equity-149e)
 <!-- BLOG-POST-LIST:END -->
 
