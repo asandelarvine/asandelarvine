@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 8 is on the way! Discover its new Features🚀](https://dev.to/bytehide/net-8-is-on-the-way-discover-its-new-features-4oil)
-- [How to build an AI Chatbot using Amazon Lex and Lambda, and Integration with ReactJS](https://dev.to/onlyoneerin/how-to-build-an-ai-chatbot-using-amazon-lex-and-lambda-and-integration-with-reactjs-592j)
-- [Build Flask App For Image Recognition Using DL Model In Python](https://dev.to/sachingeek/build-flask-app-for-image-recognition-using-dl-model-in-python-36pi)
-- [Relation between Docker and Kubernetes?](https://dev.to/sarvesh42/relation-between-docker-and-kubernetes-2jg1)
+- [Notification system for a grocery app with React and NodeJS](https://dev.to/novu/notification-system-for-a-grocery-app-with-react-and-nodejs-234g)
+- [Why API Specs Are the Backbone of Successful Development](https://dev.to/aws-heroes/why-api-specs-are-the-backbone-of-successful-development-i1k)
+- [KCSA Blog Series Part 1: Overview of Cloud Native Security](https://dev.to/thenjdevopsguy/kcsa-blog-series-part-1-overview-of-cloud-native-security-2pbh)
+- [Moonly weekly progress update #40](https://dev.to/moonly/moonly-weekly-progress-update-40-587f)
 <!-- BLOG-POST-LIST:END -->
 
