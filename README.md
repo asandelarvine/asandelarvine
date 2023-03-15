@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Tips for Beginners to Fix Your Code Magically!](https://dev.to/dhruvjoshi9/top-10-tips-for-beginners-to-fix-your-code-magically-1fng)
+- [🚀🔮Unlocking the Power 🔓 of Blockchain: A Comprehensive Guide 🔑](https://dev.to/akshaykurhekar/unlocking-the-power-of-blockchain-a-comprehensive-guide-412f)
 - [Git fundamentals, a complete guide](https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7)
-- [Add an one way sync from ticktick and github to google calendar](https://dev.to/lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-3862)
-- [How to use useRef&lpar;&rpar; in React to improve your app&#39;s performance and manage component state efficiently](https://dev.to/haltim/how-to-use-useref-in-react-to-improve-your-apps-performance-and-manage-component-state-efficiently-4f7l)
-- [Entendendo as diferenças entre Throttling e Debouncing no JavaScript](https://dev.to/joeldorosarioo/entendendo-as-diferencas-entre-throttling-e-debouncing-no-javascript-4obi)
+- [CSS Art: Motorola RAZR V3](https://dev.to/alvaromontoro/css-art-motorola-razr-v3-4jdf)
 <!-- BLOG-POST-LIST:END -->
 
