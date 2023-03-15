@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git fundamentals, a complete guide](https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7)
+- [Add an one way sync from ticktick and github to google calendar](https://dev.to/lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-3862)
+- [How to use useRef&lpar;&rpar; in React to improve your app&#39;s performance and manage component state efficiently](https://dev.to/haltim/how-to-use-useref-in-react-to-improve-your-apps-performance-and-manage-component-state-efficiently-4f7l)
 - [Entendendo as diferenças entre Throttling e Debouncing no JavaScript](https://dev.to/joeldorosarioo/entendendo-as-diferencas-entre-throttling-e-debouncing-no-javascript-4obi)
-- [Man, Machine, and the Art of Algorithmic Mastery: A GPT4 Perspective](https://dev.to/teodeleanu/man-machine-and-the-art-of-algorithmic-mastery-a-gpt4-perspective-ibi)
-- [Securing Data Lake in AWS](https://dev.to/aws-builders/securing-data-lake-in-aws-1e1p)
-- [Create a MySQL RDS Database Instance with Terraform and connect with MySQL Workbench](https://dev.to/aws-builders/create-a-mysql-rds-database-instance-with-terraform-3oab)
 <!-- BLOG-POST-LIST:END -->
 
