@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Steps for Web Application Security Testing](https://dev.to/yayabobi/10-essential-steps-for-web-application-security-testing-4b)
-- [Introduction to Progressive Web Apps](https://dev.to/iamsatyanchal/-introduction-to-progressive-web-apps-ob7)
-- [Top 5 Latest Frontend Technologies in Web Development](https://dev.to/iamsatyanchal/top-5-latest-frontend-technologies-in-web-development-5a05)
-- [Micro Frontend Discovery - The Driver for Scalability](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
+- [This Week In React #138: React-Router, Rspack, RSC, Storybook, Million, Superflare, Tremor, React-Email, VisionCamera, Proto...](https://dev.to/sebastienlorber/this-week-in-react-138-react-router-rspack-rsc-storybook-million-superflare-tremor-react-email-visioncamera-proto-2dn8)
+- [React &amp; Redux explicado con Tacos](https://dev.to/sergioxdev/react-redux-explicado-con-tacos-mdg)
+- [Type Up Your Game: A Beginner&#39;s Guide to TypeScript](https://dev.to/vivekalhat/type-up-your-game-a-beginners-guide-to-typescript-4dl4)
+- [A better global setup in Playwright reusing login with project dependencies](https://dev.to/playwright/a-better-global-setup-in-playwright-reusing-login-with-project-dependencies-14)
 <!-- BLOG-POST-LIST:END -->
 
