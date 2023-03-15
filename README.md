@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Relation between Docker and Kubernetes?](https://dev.to/sarvesh42/relation-between-docker-and-kubernetes-2jg1)
 - [How to manage multiple Node JS versions?](https://dev.to/shubhamtiwari909/how-to-manage-multiple-node-js-versions-fm)
+- [Alternate Career Paths: If You Weren’t A Coder or Developer, What Would You Be Instead?](https://dev.to/codenewbieteam/alternate-career-paths-if-you-werent-a-coder-or-developer-what-would-you-be-instead-22m5)
 - [#Wecoded with my thoughts](https://dev.to/bagya/wecoded-with-my-thoughts-2d3o)
-- [Tech Equality Pledge🥑👩🏻‍💻](https://dev.to/kithminiii/tech-equality-pledge-30d)
-- [Learn How to Run GitHub Actions in Your CI/CD Pipeline](https://dev.to/pavanbelagatti/learn-how-to-run-github-actions-in-your-cicd-pipeline-4p8k)
 <!-- BLOG-POST-LIST:END -->
 
