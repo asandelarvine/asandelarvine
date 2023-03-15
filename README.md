@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infraestructura como código: Cloudformation vs Terraform](https://dev.to/aws-builders/infraestructura-como-codigo-cloudformation-vs-terraform-2md0)
-- [The Importance of Web Accessibility in Web Development](https://dev.to/iamsatyanchal/the-importance-of-web-accessibility-in-web-development-2pm8)
-- [My Experience In Tackling Critical Dependency Issues In React Native](https://dev.to/narottam04/my-experience-in-tackling-critical-dependency-issues-in-react-native-o26)
-- [Notification system for a grocery app with React and NodeJS](https://dev.to/novu/notification-system-for-a-grocery-app-with-react-and-nodejs-234g)
+- [Drag and drop toolkit for React Material UI {custom made}, JSON based react forms Generator.](https://dev.to/amithmoorkoth/drag-and-drop-toolkit-for-react-material-ui-custom-made-json-based-react-forms-generator-2gi2)
+- [Learn serverless on AWS step-by-step - File storage](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-file-storage-10f7)
+- [É importante tentar](https://dev.to/gikapassuti/e-importante-tentar-3hhj)
+- [Getting Started with Amazon S3](https://dev.to/roy8/getting-started-with-amazon-s3-2jli)
 <!-- BLOG-POST-LIST:END -->
 
