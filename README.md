@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Processing: A Powerful Tool for Understanding Human Language](https://dev.to/vidhisareen/natural-language-processing-a-powerful-tool-for-understanding-human-language-18lk)
+- [Parsing Parquet stored in S3 with Go](https://dev.to/aws-builders/parsing-parquet-stored-in-s3-with-go-2k7p)
 - [Responsive Website using CSS and JS | Full of Animations](https://dev.to/themodernweb/responsive-website-using-css-and-js-full-of-animations-3ico)
 - [refine vs Blitz.js](https://dev.to/refine/refine-vs-blitzjs-18h2)
-- [Tips for writing effective technical documentation for software products](https://dev.to/haszankauna/tips-for-writing-effective-technical-documentation-for-software-products-318h)
-- [Using eslint to fix wrong i18n usages](https://dev.to/woovi/using-eslint-to-fix-wrong-i18n-usages-2h39)
 <!-- BLOG-POST-LIST:END -->
 
