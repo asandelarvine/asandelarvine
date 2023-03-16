@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Account Abstraction in Web3](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
+- [Developer Experience: It’s Time to Start Complaining](https://dev.to/linearb/developer-experience-its-time-to-start-complaining-222g)
 - [Day 3 of Responsive Web Design](https://dev.to/sleepyweb/day-3-of-responsive-web-design-3k2c)
 - [Functions in JavaScript](https://dev.to/alisinayousofi/functions-in-javascript-4o7l)
-- [Using Zod with React hook form using typescript](https://dev.to/majiedo/using-zod-with-react-hook-form-using-typescript-1mgk)
-- [🚀 Configure Vitest with React Testing Library 🚀](https://dev.to/pacheco/configure-vitest-with-react-testing-library-5cbb)
 <!-- BLOG-POST-LIST:END -->
 
