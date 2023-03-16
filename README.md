@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provisioning a Kubernetes Cluster Using Rancher in AWS EC2](https://dev.to/aws-builders/provisioning-a-kubernetes-cluster-using-rancher-in-aws-ec2-51o7)
-- [Best practices for designing and implementing software testing frameworks](https://dev.to/haszankauna/best-practices-for-designing-and-implementing-software-testing-frameworks-2156)
-- [How to choose the right streaming database](https://dev.to/bobur/how-to-choose-the-right-streaming-database-51gf)
-- [How to build an image gallery with masonry grid layout in Tailwind CSS](https://dev.to/themesberg/how-to-build-an-image-gallery-with-masonry-grid-layout-in-tailwind-css-2n04)
+- [Responsive Website using CSS and JS | Full of Animations](https://dev.to/themodernweb/responsive-website-using-css-and-js-full-of-animations-3ico)
+- [refine vs Blitz.js](https://dev.to/refine/refine-vs-blitzjs-18h2)
+- [Tips for writing effective technical documentation for software products](https://dev.to/haszankauna/tips-for-writing-effective-technical-documentation-for-software-products-318h)
+- [Using eslint to fix wrong i18n usages](https://dev.to/woovi/using-eslint-to-fix-wrong-i18n-usages-2h39)
 <!-- BLOG-POST-LIST:END -->
 
