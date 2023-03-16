@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript&#39;s `this` keyword using `bind`](https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1)
+- [Transitioning from Frontend Engineer to DevOps Engineer: Four Questions to Streamline Processes](https://dev.to/sublimegeek/transitioning-from-frontend-engineer-to-devops-engineer-four-questions-to-streamline-processes-1a5l)
+- [Appwrite Loves Open Source: Why I Chose To Sponsor Medito 🧘‍♀️](https://dev.to/mayender/appwrite-loves-open-source-why-i-chose-to-sponsor-medito-3om0)
 - [How to Develop a Debugging Mindset](https://dev.to/anaveecodes/how-to-develop-a-debugging-mindset-1h04)
-- [Paracetamol.js💊| #205: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-205-explica-este-codigo-javascript-4eno)
-- [How to be Better in React Code Reusability - Part1](https://dev.to/aradwan20/how-to-be-better-in-react-code-reusability-part1-24b3)
-- [5 reasons to learn and use React in 2023](https://dev.to/kinshuk3/5-reasons-to-learn-and-use-react-in-2023-nl7)
 <!-- BLOG-POST-LIST:END -->
 
