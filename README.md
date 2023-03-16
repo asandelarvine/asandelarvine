@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Entenda seu código com a ajuda do GitHub Copilot](https://dev.to/github/entenda-seu-codigo-com-a-ajuda-do-github-copilot-2j58)
-- [Introducing the Appwrite Heroes](https://dev.to/appwrite/introducing-the-appwrite-heroes-1bfb)
-- [What can we do to create a healthier workplace culture?](https://dev.to/devteam/what-can-we-do-to-create-a-healthier-workplace-culture-5boi)
-- [Why Is EsLint Important In Nodejs](https://dev.to/ndohjapan/why-is-eslint-important-in-nodejs-1mfe)
+- [Day 3 of Responsive Web Design](https://dev.to/sleepyweb/day-3-of-responsive-web-design-3k2c)
+- [Functions in JavaScript](https://dev.to/alisinayousofi/functions-in-javascript-4o7l)
+- [Using Zod with React hook form using typescript](https://dev.to/majiedo/using-zod-with-react-hook-form-using-typescript-1mgk)
+- [🚀 Configure Vitest with React Testing Library 🚀](https://dev.to/pacheco/configure-vitest-with-react-testing-library-5cbb)
 <!-- BLOG-POST-LIST:END -->
 
