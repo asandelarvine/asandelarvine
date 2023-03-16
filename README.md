@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [NodeJS `Buffer` is cool](https://dev.to/lionelrowe/nodejs-buffer-is-cool-19d7)
 - [Chat GPT-4 Already Used In the Wild &lpar;Stripe, Duolingo, Khan Academy, etc...&rpar;](https://dev.to/cleancodestudio/chat-gpt-4-already-used-in-the-wild-stripe-duolingo-khan-academy-etc-29nb)
+- [10 Common Web Development Mistakes to Avoid](https://dev.to/iamsatyanchal/10-common-web-development-mistakes-to-avoid-2895)
 - [How to Deploy a Multi Container Docker Compose Application On Amazon EC2](https://dev.to/aws-builders/how-to-deploy-a-multi-container-docker-compose-application-on-amazon-ec2-59n2)
-- [How to convert Solidity JSON ABI to Human Readable ABI in Hardhat](https://dev.to/anjana_j/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-21mj)
 <!-- BLOG-POST-LIST:END -->
 
