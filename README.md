@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Animation -6 : Pizza loader](https://dev.to/jon_snow789/animation-6-pizza-loader-3bc2)
+- [Javascript Basic Topics you need to know #1 &lpar; Scope, Hoisting, Temporal Dead Zone&rpar;](https://dev.to/liobouchan/javascript-basic-topics-you-need-to-know-1-scope-hoisting-temporal-dead-zone-1h9f)
 - [NodeJS `Buffer` is cool](https://dev.to/lionelrowe/nodejs-buffer-is-cool-19d7)
 - [Chat GPT-4 Already Used In the Wild &lpar;Stripe, Duolingo, Khan Academy, etc...&rpar;](https://dev.to/cleancodestudio/chat-gpt-4-already-used-in-the-wild-stripe-duolingo-khan-academy-etc-29nb)
-- [10 Common Web Development Mistakes to Avoid](https://dev.to/iamsatyanchal/10-common-web-development-mistakes-to-avoid-2895)
-- [How to Deploy a Multi Container Docker Compose Application On Amazon EC2](https://dev.to/aws-builders/how-to-deploy-a-multi-container-docker-compose-application-on-amazon-ec2-59n2)
 <!-- BLOG-POST-LIST:END -->
 
