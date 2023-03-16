@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [gRPC on the client side](https://dev.to/apisix/grpc-on-the-client-side-2e3o)
+- [Creating Dynamic Layouts with the New Pseudo-Class Selectors in CSS](https://dev.to/clericcoder/creating-dynamic-layouts-with-the-new-pseudo-class-selectors-in-css-lko)
+- [How Do You Stand Out in the Tech Industry?](https://dev.to/codenewbieteam/how-do-you-stand-out-in-the-tech-industry-4o51)
 - [Animation -6 : Pizza loader](https://dev.to/jon_snow789/animation-6-pizza-loader-3bc2)
-- [Managing your OpenAI on Azure Costs](https://dev.to/integerman/managing-your-openai-on-azure-costs-369o)
-- [Javascript Basic Topics you need to know #1 &lpar; Scope, Hoisting, Temporal Dead Zone&rpar;](https://dev.to/liobouchan/javascript-basic-topics-you-need-to-know-1-scope-hoisting-temporal-dead-zone-1h9f)
-- [Axolo: GitHub Slack integration](https://dev.to/cosydney/axolo-github-slack-integration-48lf)
 <!-- BLOG-POST-LIST:END -->
 
