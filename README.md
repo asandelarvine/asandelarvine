@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Animation -6 : Pizza loader](https://dev.to/jon_snow789/animation-6-pizza-loader-3bc2)
+- [Managing your OpenAI on Azure Costs](https://dev.to/integerman/managing-your-openai-on-azure-costs-369o)
 - [Javascript Basic Topics you need to know #1 &lpar; Scope, Hoisting, Temporal Dead Zone&rpar;](https://dev.to/liobouchan/javascript-basic-topics-you-need-to-know-1-scope-hoisting-temporal-dead-zone-1h9f)
-- [NodeJS `Buffer` is cool](https://dev.to/lionelrowe/nodejs-buffer-is-cool-19d7)
-- [Chat GPT-4 Already Used In the Wild &lpar;Stripe, Duolingo, Khan Academy, etc...&rpar;](https://dev.to/cleancodestudio/chat-gpt-4-already-used-in-the-wild-stripe-duolingo-khan-academy-etc-29nb)
+- [Axolo: GitHub Slack integration](https://dev.to/cosydney/axolo-github-slack-integration-48lf)
 <!-- BLOG-POST-LIST:END -->
 
