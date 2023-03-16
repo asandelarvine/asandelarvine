@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [gRPC on the client side](https://dev.to/apisix/grpc-on-the-client-side-2e3o)
-- [Creating Dynamic Layouts with the New Pseudo-Class Selectors in CSS](https://dev.to/clericcoder/creating-dynamic-layouts-with-the-new-pseudo-class-selectors-in-css-lko)
-- [How Do You Stand Out in the Tech Industry?](https://dev.to/codenewbieteam/how-do-you-stand-out-in-the-tech-industry-4o51)
-- [Animation -6 : Pizza loader](https://dev.to/jon_snow789/animation-6-pizza-loader-3bc2)
+- [Browser Zoom, CSS, Event Handlers, and Accessibility](https://dev.to/bytebodger/browser-zoom-css-event-handlers-and-accessibility-4phn)
+- [Nuxt-Medusa Module: Integrate Medusa with your Nuxt.js application](https://dev.to/medusajs/nuxt-medusa-module-integrate-medusa-with-your-nuxtjs-application-2jc9)
+- [🚀 10 Smart Tips for Boosting Your Productivity as a Developer 💻](https://dev.to/bhavin9920/10-smart-tips-for-boosting-your-productivity-as-a-developer-33g8)
+- [🔦 Community Spotlight - Building KanBoard, a Project Management App🔦](https://dev.to/appwrite/community-spotlight-building-kanboard-a-project-management-app-5ace)
 <!-- BLOG-POST-LIST:END -->
 
