@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a Multi Container Docker Compose Application On Amazon EC2](https://dev.to/aws-builders/how-to-deploy-a-multi-container-docker-compose-application-on-amazon-ec2-59n2)
 - [How to convert Solidity JSON ABI to Human Readable ABI in Hardhat](https://dev.to/anjana_j/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-21mj)
 - [IAM Roles Anywhere: Introduction and Demo](https://dev.to/aws-builders/iam-roles-anywhere-introduction-and-demo-5h2j)
-- [Mastering File Upload: A Guide for Web Developers](https://dev.to/velydev/mastering-file-upload-a-guide-for-web-developers-30j9)
-- [How can leaders better support primary caregivers?](https://dev.to/devteam/how-can-leaders-better-support-primary-caregivers-35b8)
+- [CISCO Networking Academy Free🎉Courses You Should Know](https://dev.to/mahmoudessam/cisco-networking-academy-freecourses-you-should-know-5e9g)
 <!-- BLOG-POST-LIST:END -->
 
