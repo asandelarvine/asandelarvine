@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to choose the right streaming database](https://dev.to/bobur/how-to-choose-the-right-streaming-database-51gf)
+- [How to build an image gallery with masonry grid layout in Tailwind CSS](https://dev.to/themesberg/how-to-build-an-image-gallery-with-masonry-grid-layout-in-tailwind-css-2n04)
+- [Why You Should Consider Using TypeScript for Your Next Project 🚀](https://dev.to/megagon/why-you-should-consider-using-typescript-for-your-next-project-50gd)
 - [Browser Zoom, CSS, Event Handlers, and Accessibility](https://dev.to/bytebodger/browser-zoom-css-event-handlers-and-accessibility-4phn)
-- [Nuxt-Medusa Module: Integrate Medusa with your Nuxt.js application](https://dev.to/medusajs/nuxt-medusa-module-integrate-medusa-with-your-nuxtjs-application-2jc9)
-- [🚀 10 Smart Tips for Boosting Your Productivity as a Developer 💻](https://dev.to/bhavin9920/10-smart-tips-for-boosting-your-productivity-as-a-developer-33g8)
-- [🔦 Community Spotlight - Building KanBoard, a Project Management App🔦](https://dev.to/appwrite/community-spotlight-building-kanboard-a-project-management-app-5ace)
 <!-- BLOG-POST-LIST:END -->
 
