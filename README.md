@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Provisioning a Kubernetes Cluster Using Rancher in AWS EC2](https://dev.to/aws-builders/provisioning-a-kubernetes-cluster-using-rancher-in-aws-ec2-51o7)
+- [Best practices for designing and implementing software testing frameworks](https://dev.to/haszankauna/best-practices-for-designing-and-implementing-software-testing-frameworks-2156)
 - [How to choose the right streaming database](https://dev.to/bobur/how-to-choose-the-right-streaming-database-51gf)
 - [How to build an image gallery with masonry grid layout in Tailwind CSS](https://dev.to/themesberg/how-to-build-an-image-gallery-with-masonry-grid-layout-in-tailwind-css-2n04)
-- [Why You Should Consider Using TypeScript for Your Next Project 🚀](https://dev.to/megagon/why-you-should-consider-using-typescript-for-your-next-project-50gd)
-- [Browser Zoom, CSS, Event Handlers, and Accessibility](https://dev.to/bytebodger/browser-zoom-css-event-handlers-and-accessibility-4phn)
 <!-- BLOG-POST-LIST:END -->
 
