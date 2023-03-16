@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Develop a Debugging Mindset](https://dev.to/anaveecodes/how-to-develop-a-debugging-mindset-1h04)
+- [Paracetamol.js💊| #205: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-205-explica-este-codigo-javascript-4eno)
 - [How to be Better in React Code Reusability - Part1](https://dev.to/aradwan20/how-to-be-better-in-react-code-reusability-part1-24b3)
 - [5 reasons to learn and use React in 2023](https://dev.to/kinshuk3/5-reasons-to-learn-and-use-react-in-2023-nl7)
-- [I Created a Screen Time Limiter with Rust](https://dev.to/liftoffstudios/i-created-a-screen-time-limiter-with-rust-5d5d)
-- [How to publish React App &lpar;CRA&rpar; on Github Pages using Github Actions with Turborepo](https://dev.to/tgmarinhodev/how-to-publish-react-app-cra-on-github-pages-using-github-actions-with-turborepo-1j94)
 <!-- BLOG-POST-LIST:END -->
 
