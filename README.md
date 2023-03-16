@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Creating Eye-Catching Layouts Has Never Been Easier: The Power of CSS Grid🌐](https://dev.to/almonteluis/creating-eye-catching-layouts-has-never-been-easier-the-power-of-css-grid-3k91)
-- [🧮 JavaScript for Beginners: Data Structures](https://dev.to/catherineisonline/javascript-for-beginners-data-structures-2j6i)
-- [Trabalhando com multiplas databases no laravel](https://dev.to/woney/trabalhando-com-multiplas-databases-no-laravel-ooc)
-- [This Week In React #138: React-Router, Rspack, RSC, Storybook, Million, Superflare, Tremor, React-Email, VisionCamera, Proto...](https://dev.to/sebastienlorber/this-week-in-react-138-react-router-rspack-rsc-storybook-million-superflare-tremor-react-email-visioncamera-proto-2dn8)
+- [How to convert Solidity JSON ABI to Human Readable ABI in Hardhat](https://dev.to/anjana_j/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-21mj)
+- [IAM Roles Anywhere: Introduction and Demo](https://dev.to/aws-builders/iam-roles-anywhere-introduction-and-demo-5h2j)
+- [Mastering File Upload: A Guide for Web Developers](https://dev.to/velydev/mastering-file-upload-a-guide-for-web-developers-30j9)
+- [How can leaders better support primary caregivers?](https://dev.to/devteam/how-can-leaders-better-support-primary-caregivers-35b8)
 <!-- BLOG-POST-LIST:END -->
 
