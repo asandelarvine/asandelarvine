@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fantasy Consoles: What would the retro console of your dreams look like?](https://dev.to/marciofrayze/fantasy-consoles-what-would-the-retro-console-of-your-dreams-look-like-3p54)
-- [Easiest way to create integration tests for GraphQL server with 80% code coverage in 30 minutes](https://dev.to/zvone187/easiest-way-to-create-integration-tests-for-graphql-server-with-80-code-coverage-in-30-minutes-3674)
-- [How to create a WPF DateRangePicker?](https://dev.to/danielleinweber/how-to-create-a-wpf-daterangepicker-1mkf)
-- [Mastering JavaScript&#39;s `this` keyword using `bind`](https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1)
+- [Entenda seu código com a ajuda do GitHub Copilot](https://dev.to/github/entenda-seu-codigo-com-a-ajuda-do-github-copilot-2j58)
+- [Introducing the Appwrite Heroes](https://dev.to/appwrite/introducing-the-appwrite-heroes-1bfb)
+- [What can we do to create a healthier workplace culture?](https://dev.to/devteam/what-can-we-do-to-create-a-healthier-workplace-culture-5boi)
+- [Why Is EsLint Important In Nodejs](https://dev.to/ndohjapan/why-is-eslint-important-in-nodejs-1mfe)
 <!-- BLOG-POST-LIST:END -->
 
