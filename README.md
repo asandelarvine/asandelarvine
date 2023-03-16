@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fantasy Consoles: What would the retro console of your dreams look like?](https://dev.to/marciofrayze/fantasy-consoles-what-would-the-retro-console-of-your-dreams-look-like-3p54)
+- [Easiest way to create integration tests for GraphQL server with 80% code coverage in 30 minutes](https://dev.to/zvone187/easiest-way-to-create-integration-tests-for-graphql-server-with-80-code-coverage-in-30-minutes-3674)
+- [How to create a WPF DateRangePicker?](https://dev.to/danielleinweber/how-to-create-a-wpf-daterangepicker-1mkf)
 - [Mastering JavaScript&#39;s `this` keyword using `bind`](https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1)
-- [Transitioning from Frontend Engineer to DevOps Engineer: Four Questions to Streamline Processes](https://dev.to/sublimegeek/transitioning-from-frontend-engineer-to-devops-engineer-four-questions-to-streamline-processes-1a5l)
-- [Appwrite Loves Open Source: Why I Chose To Sponsor Medito 🧘‍♀️](https://dev.to/mayender/appwrite-loves-open-source-why-i-chose-to-sponsor-medito-3om0)
-- [How to Develop a Debugging Mindset](https://dev.to/anaveecodes/how-to-develop-a-debugging-mindset-1h04)
 <!-- BLOG-POST-LIST:END -->
 
