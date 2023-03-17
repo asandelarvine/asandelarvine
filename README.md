@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s New in the Updated React Docs](https://dev.to/kathryngrayson/whats-new-in-the-updated-react-docs-on2)
+- [How to Load Unlimited Free Ethers to Metamask Wallet](https://dev.to/daltonic/how-to-load-unlimited-free-ethers-to-metamask-wallet-86k)
 - [🌳tree command](https://dev.to/ayon_ssp/tree-command-3c5k)
 - [What have you learned through #WeCoded?](https://dev.to/devteam/what-have-you-learned-through-wecoded-16lg)
-- [The newest must-have developer tool is ChatGPT](https://dev.to/pluralsight/the-newest-must-have-developer-tool-is-chatgpt-3gng)
-- [We coded, together ✨](https://dev.to/devteam/we-coded-together-25bo)
 <!-- BLOG-POST-LIST:END -->
 
