@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When to Speak Up &amp; When to Shut Up?](https://dev.to/michaeltharrington/when-to-speak-up-when-to-shut-up-30m4)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2ia6)
 - [What is the future of AI?](https://dev.to/brownrita460/what-is-the-future-of-ai-n4o)
-- [Practical Guide to Web-scraping in Python](https://dev.to/jeremiahjacinth13/practical-guide-to-web-scraping-in-python-28ba)
-- [Be a Superhuman with ChatGPT](https://dev.to/arjuncodess/be-a-superhuman-with-chatgpt-47c5)
-- [Processing promises in Batch](https://dev.to/woovi/processing-promises-in-batch-2le6)
+- [Creating a Box-and-Whisker Plot &lpar;JS&rpar;](https://dev.to/andreykh1985/creating-a-box-and-whisker-plot-js-o8p)
 <!-- BLOG-POST-LIST:END -->
 
