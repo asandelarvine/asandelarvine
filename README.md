@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with Floating Point Numbers in JavaScript: Lessons Learned](https://dev.to/kyosifov/dealing-with-floating-point-numbers-in-javascript-lessons-learned-2070)
+- [Why YAML is better than JSON &lpar;read before screaming&rpar;](https://dev.to/lenra/why-yaml-is-better-than-json-read-before-screaming-39m8)
 - [Animation -7 : CSS Moon loader with color effect](https://dev.to/jon_snow789/animation-7-css-moon-loader-with-color-effect-1j5o)
 - [Serverless voice with Amazon Polly](https://dev.to/aws-builders/serverless-voice-with-amazon-polly-2lfd)
-- [WeCoded 2023 and My journey](https://dev.to/bkavee97/wecoded-2023-and-my-journey-3jl3)
-- [A Guide to DevSecOps with API Gateway](https://dev.to/apisix/a-guide-to-devsecops-with-api-gateway-4fn5)
 <!-- BLOG-POST-LIST:END -->
 
