@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Capture VS Bubble](https://dev.to/mrh0200/capture-vs-bubble-3ao2)
 - [Dear Princess Programmer: Keep Coding!](https://dev.to/theoriginalbpc/dear-princess-programmer-keep-coding-520a)
 - [Serverless &amp; Well Architected](https://dev.to/aws-heroes/serverless-well-architected-40jn)
 - [SQL JOIN explained](https://dev.to/leandronsp/sql-join-explained-53lc)
-- [RESTful: Boas práticas para design de API](https://dev.to/marcellorg/restful-boas-praticas-para-design-de-api-4j4p)
 <!-- BLOG-POST-LIST:END -->
 
