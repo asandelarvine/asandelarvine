@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Enhance Blog Template](https://dev.to/begin/introducing-the-enhance-blog-template-4bc2)
 - [Cookies-Based Authentication Vs Session-Based Authentication](https://dev.to/emmykolic/cookies-based-authentication-vs-session-based-authentication-1f6)
 - [Releasing the February Update for the Power Platform CLI](https://dev.to/kkanakas/releasing-the-february-update-for-the-power-platform-cli-40gn)
 - [CrosswordGPT: Pair Programming with GPT-4](https://dev.to/propelauth/crosswordgpt-pair-programming-with-gpt-4-2nji)
-- [Débutez en programmation avec Javascript.](https://dev.to/jethron22/debutez-en-programmation-avec-javascript-19da)
 <!-- BLOG-POST-LIST:END -->
 
