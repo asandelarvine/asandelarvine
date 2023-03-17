@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Speak Up &amp; When to Shut Up?](https://dev.to/michaeltharrington/when-to-speak-up-when-to-shut-up-30m4)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-2ia6)
-- [What is the future of AI?](https://dev.to/brownrita460/what-is-the-future-of-ai-n4o)
-- [Creating a Box-and-Whisker Plot &lpar;JS&rpar;](https://dev.to/andreykh1985/creating-a-box-and-whisker-plot-js-o8p)
+- [A developer&#39;s guide to estimation](https://dev.to/jlewis92/a-developers-guide-to-estimation-3143)
+- [CSS Specificity Explained](https://dev.to/duncanteege/css-specificity-explained-43ja)
+- [The new React docs](https://dev.to/thexdev/the-new-react-docs-3e7)
+- [The Problem With React](https://dev.to/steveblue/the-problem-with-react-46mg)
 <!-- BLOG-POST-LIST:END -->
 
