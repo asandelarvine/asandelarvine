@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to DevSecOps with API Gateway](https://dev.to/apisix/a-guide-to-devsecops-with-api-gateway-4fn5)
 - [How to Get Your First Job as a Self-Taught Programmer](https://dev.to/bytebodger/how-to-get-your-first-job-as-a-self-taught-programmer-1m1c)
-- [Thinking in React &lpar;Visualized&rpar;](https://dev.to/jareechang/thinking-in-react-visualized-g4p)
-- [Building an Image Recognition App in Javascript using Pinecone, Hugging Face, and Vercel](https://dev.to/rschwabco/building-an-image-recognition-app-in-javascript-using-pinecone-hugging-face-and-vercel-2b0p)
-- [10 Tools and Technologies Every Developer Should Know About in 2023⚒️.](https://dev.to/bhavin9920/10-tools-and-technologies-every-developer-should-know-about-in-2023-1e6b)
+- [Tips for Coders? Take a Break!](https://dev.to/codenewbieteam/tips-for-coders-take-a-break-4l47)
+- [Linear Interpolation of EtherCAT Bus Motion Controller](https://dev.to/zmotion/linear-interpolation-of-ethercat-bus-motion-controller-3gl0)
 <!-- BLOG-POST-LIST:END -->
 
