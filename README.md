@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A developer&#39;s guide to estimation](https://dev.to/jlewis92/a-developers-guide-to-estimation-3143)
-- [CSS Specificity Explained](https://dev.to/duncanteege/css-specificity-explained-43ja)
-- [The new React docs](https://dev.to/thexdev/the-new-react-docs-3e7)
-- [The Problem With React](https://dev.to/steveblue/the-problem-with-react-46mg)
+- [🌳tree command](https://dev.to/ayon_ssp/tree-command-3c5k)
+- [What have you learned through #WeCoded?](https://dev.to/devteam/what-have-you-learned-through-wecoded-16lg)
+- [The newest must-have developer tool is ChatGPT](https://dev.to/pluralsight/the-newest-must-have-developer-tool-is-chatgpt-3gng)
+- [We coded, together ✨](https://dev.to/devteam/we-coded-together-25bo)
 <!-- BLOG-POST-LIST:END -->
 
