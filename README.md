@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking in React &lpar;Visualized&rpar;](https://dev.to/jareechang/thinking-in-react-visualized-g4p)
+- [Building an Image Recognition App in Javascript using Pinecone, Hugging Face, and Vercel](https://dev.to/rschwabco/building-an-image-recognition-app-in-javascript-using-pinecone-hugging-face-and-vercel-2b0p)
 - [Best 23 Web Design Trends To Follow In 2023](https://dev.to/lambdatest/best-23-web-design-trends-to-follow-in-2023-3ec6)
 - [Capture VS Bubble](https://dev.to/mrh0200/capture-vs-bubble-3ao2)
-- [Dear Princess Programmer: Keep Coding!](https://dev.to/theoriginalbpc/dear-princess-programmer-keep-coding-520a)
-- [Serverless &amp; Well Architected](https://dev.to/aws-heroes/serverless-well-architected-40jn)
 <!-- BLOG-POST-LIST:END -->
 
