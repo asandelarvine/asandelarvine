@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CrosswordGPT: Pair Programming with GPT-4](https://dev.to/propelauth/crosswordgpt-pair-programming-with-gpt-4-2nji)
 - [Débutez en programmation avec Javascript.](https://dev.to/jethron22/debutez-en-programmation-avec-javascript-19da)
+- [Cómo Chat GPT-4 me está convirtiendo en un mejor ingeniero de software o &quot;10x&quot;](https://dev.to/0xmiguel/como-chat-gpt-4-me-esta-convirtiendo-en-un-mejor-ingeniero-de-software-o-10x-4mc)
 - [Everything You Need to Know About the Updated React Docs](https://dev.to/kathryngrayson/whats-new-in-the-updated-react-docs-on2)
-- [How to Load Unlimited Free Ethers to Metamask Wallet](https://dev.to/daltonic/how-to-load-unlimited-free-ethers-to-metamask-wallet-86k)
-- [🌳tree command](https://dev.to/ayon_ssp/tree-command-3c5k)
 <!-- BLOG-POST-LIST:END -->
 
