@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello I have good Results in Python Programming Language….](https://dev.to/uktamhakker/helloi-have-good-results-in-python-programming-language-24o2)
 - [Dealing with Floating Point Numbers in JavaScript: Lessons Learned](https://dev.to/kyosifov/dealing-with-floating-point-numbers-in-javascript-lessons-learned-2070)
-- [Why YAML is better than JSON &lpar;read before screaming&rpar;](https://dev.to/lenra/why-yaml-is-better-than-json-read-before-screaming-39m8)
-- [Animation -7 : CSS Moon loader with color effect](https://dev.to/jon_snow789/animation-7-css-moon-loader-with-color-effect-1j5o)
-- [Serverless voice with Amazon Polly](https://dev.to/aws-builders/serverless-voice-with-amazon-polly-2lfd)
+- [Advanced Google search Shortcut](https://dev.to/jakaria455173/advanced-google-search-shortcut-3nkm)
+- [How not to start a software project](https://dev.to/furkangulsen/how-not-to-start-a-software-project-4hcl)
 <!-- BLOG-POST-LIST:END -->
 
