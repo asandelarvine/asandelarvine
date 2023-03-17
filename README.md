@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the future of AI?](https://dev.to/brownrita460/what-is-the-future-of-ai-n4o)
 - [Practical Guide to Web-scraping in Python](https://dev.to/jeremiahjacinth13/practical-guide-to-web-scraping-in-python-28ba)
 - [Be a Superhuman with ChatGPT](https://dev.to/arjuncodess/be-a-superhuman-with-chatgpt-47c5)
 - [Processing promises in Batch](https://dev.to/woovi/processing-promises-in-batch-2le6)
-- [Kubernetes vs Docker: Most Important Differences](https://dev.to/bytehide/kubernetes-vs-docker-most-important-differences-10j5)
 <!-- BLOG-POST-LIST:END -->
 
