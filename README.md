@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Ansible: An Introduction to Automation, Configuration Management, and Orchestration](https://dev.to/xlmriosx/getting-started-with-ansible-an-introduction-to-automation-configuration-management-and-orchestration-1h95)
 - [Install CMake on Windows](https://dev.to/arun3sh/install-cmake-on-windows-4eo5)
 - [A Beginner&#39;s Guide to Testing: Unit, Smoke, Acceptance](https://dev.to/crazyvaskya/a-beginners-guide-to-testing-unit-smoke-acceptance-4ngh)
 - [Writing a Multithreaded Image Dithering Program with Rust 🦀🖼️](https://dev.to/nabeelahmed1721/writing-a-multithreaded-image-dithering-program-with-rust-369)
-- [DALL-E with node.js](https://dev.to/djibrilm/dall-e-with-nodejs-5chb)
 <!-- BLOG-POST-LIST:END -->
 
