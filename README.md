@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python: How simple string concatenation can kill your code performance](https://dev.to/fayomihorace/python-how-simple-string-concatenation-can-kill-your-code-performance-2636)
+- [Top 20 Tools used by IT Professionals](https://dev.to/yashsu/top-20-tools-used-by-it-professionals-1fil)
 - [InterOp - what can we actually expect this year?](https://dev.to/robole/interop-what-can-we-actually-expect-this-year-1p66)
 - [Multi-tenant implementation approaches with Prisma and ZenStack](https://dev.to/zenstack/multi-tenant-implementation-approaches-with-prisma-and-zenstack-4p20)
-- [PHP Search Box with MYSQL and AJAX JQuery](https://dev.to/adeleyeayodeji/php-search-box-with-mysql-and-ajax-jquery-3ba0)
-- [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg)
 <!-- BLOG-POST-LIST:END -->
 
