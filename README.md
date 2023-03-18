@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Fullstack Next.js app -&gt; tRPC&lpar;v10&rpar;, Tailwind, Prisma](https://dev.to/kharioki/building-a-fullstack-nextjs-app-trpcv10-tailwind-prisma-2f4)
 - [Python: How simple string concatenation can kill your code performance](https://dev.to/fayomihorace/python-how-simple-string-concatenation-can-kill-your-code-performance-2636)
 - [Top 20 Tools used by IT Professionals](https://dev.to/yashsu/top-20-tools-used-by-it-professionals-1fil)
 - [InterOp - what can we actually expect this year?](https://dev.to/robole/interop-what-can-we-actually-expect-this-year-1p66)
-- [Multi-tenant implementation approaches with Prisma and ZenStack](https://dev.to/zenstack/multi-tenant-implementation-approaches-with-prisma-and-zenstack-4p20)
 <!-- BLOG-POST-LIST:END -->
 
