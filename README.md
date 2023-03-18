@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What I&#39;d like to see AI used for - women&#39;s month edition](https://dev.to/sylwiavargas/what-id-like-to-see-ai-used-for-womens-month-edition-5768)
 - [AWS Terraform for Single Containers](https://dev.to/tythos/aws-terraform-for-single-containers-5dkf)
+- [Mulheres na Tecnologia](https://dev.to/feministech/mulheres-na-tecnologia-51mo)
 - [Amazon VPC Lattice — Build Applications, Not Networks](https://dev.to/aws-builders/amazon-vpc-lattice-build-applications-not-networks-59j8)
-- [HOW TO USE CHATGPT ON VSCODE](https://dev.to/umaola/how-to-use-chatgpt-on-vscode-3dn)
-- [Introducing the Enhance Blog Template](https://dev.to/begin/introducing-the-enhance-blog-template-4bc2)
 <!-- BLOG-POST-LIST:END -->
 
