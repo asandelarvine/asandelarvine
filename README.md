@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a Multithreaded Image Dithering Program with Rust 🦀🖼️](https://dev.to/nabeelahmed1721/writing-a-multithreaded-image-dithering-program-with-rust-369)
+- [DALL-E with node.js](https://dev.to/djibrilm/dall-e-with-nodejs-5chb)
 - [Load Testing For API With Apache Benchmark On Windows](https://dev.to/gabriellaamah/load-testing-for-api-with-apache-benchmark-on-windows-58oj)
 - [How to Configure C++ Code Formatting in Visual Studio Code](https://dev.to/dhanu0510/how-to-configure-c-code-formatting-in-visual-studio-code-4d5m)
-- [How To Fix &quot;Starting broker... completed with 0 plugins.&quot; In RabbitMq](https://dev.to/ndohjapan/how-to-fix-starting-broker-completed-with-0-plugins-in-rabbitmq-22p)
-- [A Beginner&#39;s Guide to Smart Contracts: Exploring the Simple Storage Contract on Ethereum in 2023](https://dev.to/rike/a-beginners-guide-to-smart-contracts-exploring-the-simple-storage-contract-on-ethereum-in-2023-21m0)
 <!-- BLOG-POST-LIST:END -->
 
