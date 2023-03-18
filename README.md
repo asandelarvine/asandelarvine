@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg)
+- [5 resources to create your next CSS background](https://dev.to/justice_hub/5-resources-to-create-your-next-css-background-ll3)
+- [SOLID Principal](https://dev.to/ajaz/solid-principal-2hkj)
 - [Redux-like state container in SwiftUI: Connectors.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-connectors-b31)
-- [how to disable and Customize Whitelabel Error Page in Spring boot](https://dev.to/realnamehidden1_61/how-to-disable-and-customize-whitelabel-error-page-in-spring-boot-2g25)
-- [My VS Code extensions that I absolutely love and use all the time](https://dev.to/raielly/my-vs-code-extensions-that-i-absolutely-love-and-use-all-the-time-2he1)
-- [Automated Fuzz Testing: The Power of Code Intelligence App](https://dev.to/bobur/automated-fuzz-testing-the-power-of-code-intelligence-app-4610)
 <!-- BLOG-POST-LIST:END -->
 
