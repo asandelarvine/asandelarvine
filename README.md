@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Paracetamol.js💊| #208: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-208-explica-este-codigo-javascript-3b29)
-- [Upgrade your project to PHP 8.2 with Rector](https://dev.to/osteel/upgrade-your-project-to-php-82-with-rector-3ihk)
-- [Building a Fullstack Next.js app -&gt; tRPC&lpar;v10&rpar;, Tailwind, Prisma](https://dev.to/kharioki/building-a-fullstack-nextjs-app-trpcv10-tailwind-prisma-2f4)
-- [Part -3 Become a better you with these 10 visuals](https://dev.to/jon_snow789/part-3-become-a-better-you-with-these-10-visuals-b8o)
+- [How To Fix &quot;Starting broker... completed with 0 plugins.&quot; In RabbitMq](https://dev.to/ndohjapan/how-to-fix-starting-broker-completed-with-0-plugins-in-rabbitmq-22p)
+- [A Beginner&#39;s Guide to Smart Contracts: Exploring the Simple Storage Contract on Ethereum in 2023](https://dev.to/rike/a-beginners-guide-to-smart-contracts-exploring-the-simple-storage-contract-on-ethereum-in-2023-21m0)
+- [Country Phone Extension Search Javascript package.](https://dev.to/mayank30/country-phone-extension-search-javascript-package-3pa0)
+- [Django for newbeeez](https://dev.to/muzammil85/django-for-newbeeez-33j3)
 <!-- BLOG-POST-LIST:END -->
 
