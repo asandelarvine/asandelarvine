@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TINYMCE Editor with angular](https://dev.to/deepakjaiswal/tinymce-editor-with-angular-1cd3)
-- [Make your own jQuery from scratch](https://dev.to/joydeep23/make-your-own-jquery-from-scratch-20mh)
-- [The Art of Debugging: Strategies and Techniques for Efficient Troubleshooting](https://dev.to/bhavin9920/the-art-of-debugging-strategies-and-techniques-for-efficient-troubleshooting-53a6)
-- [Scope, Hoisting and Closures in Javascript](https://dev.to/tejeswararao123/scope-hoisting-and-closures-in-javascript-5e7o)
+- [Automated Fuzz Testing: The Power of Code Intelligence App](https://dev.to/bobur/automated-fuzz-testing-the-power-of-code-intelligence-app-4610)
+- [Learn How to Build and Push a Docker Image to a Container Registry](https://dev.to/pavanbelagatti/learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282)
+- [My Favorite Free Courses to Learn Golang in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-golang-in-2023-3mh6)
+- [The Weekend Coder: What&#39;s Your Favorite Drink to Power through Coding Sessions? ☕🥤💻](https://dev.to/codenewbieteam/the-weekend-coder-whats-your-favorite-drink-to-power-through-coding-sessions-1ok7)
 <!-- BLOG-POST-LIST:END -->
 
