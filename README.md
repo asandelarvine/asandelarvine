@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redux-like state container in SwiftUI: Connectors.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-connectors-b31)
+- [how to disable and Customize Whitelabel Error Page in Spring boot](https://dev.to/realnamehidden1_61/how-to-disable-and-customize-whitelabel-error-page-in-spring-boot-2g25)
 - [My VS Code extensions that I absolutely love and use all the time](https://dev.to/raielly/my-vs-code-extensions-that-i-absolutely-love-and-use-all-the-time-2he1)
 - [Automated Fuzz Testing: The Power of Code Intelligence App](https://dev.to/bobur/automated-fuzz-testing-the-power-of-code-intelligence-app-4610)
-- [Learn How to Build and Push a Docker Image to a Container Registry](https://dev.to/pavanbelagatti/learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282)
-- [Developers: The Wizards of Code Who Dream in Binary](https://dev.to/mustafakhaleddev/developers-the-wizards-of-code-who-dream-in-binary-20mm)
 <!-- BLOG-POST-LIST:END -->
 
