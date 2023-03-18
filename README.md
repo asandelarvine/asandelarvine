@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [InterOp - what can we actually expect this year?](https://dev.to/robole/interop-what-can-we-actually-expect-this-year-1p66)
+- [Multi-tenant implementation approaches with Prisma and ZenStack](https://dev.to/zenstack/multi-tenant-implementation-approaches-with-prisma-and-zenstack-4p20)
+- [PHP Search Box with MYSQL and AJAX JQuery](https://dev.to/adeleyeayodeji/php-search-box-with-mysql-and-ajax-jquery-3ba0)
 - [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg)
-- [5 resources to create your next CSS background](https://dev.to/justice_hub/5-resources-to-create-your-next-css-background-ll3)
-- [SOLID Principal](https://dev.to/ajaz/solid-principal-2hkj)
-- [Redux-like state container in SwiftUI: Connectors.](https://dev.to/sergeyleschev/redux-like-state-container-in-swiftui-connectors-b31)
 <!-- BLOG-POST-LIST:END -->
 
