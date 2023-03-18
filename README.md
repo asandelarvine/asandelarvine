@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Paracetamol.js💊| #208: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-208-explica-este-codigo-javascript-3b29)
+- [Upgrade your project to PHP 8.2 with Rector](https://dev.to/osteel/upgrade-your-project-to-php-82-with-rector-3ihk)
 - [Building a Fullstack Next.js app -&gt; tRPC&lpar;v10&rpar;, Tailwind, Prisma](https://dev.to/kharioki/building-a-fullstack-nextjs-app-trpcv10-tailwind-prisma-2f4)
-- [Python: How simple string concatenation can kill your code performance](https://dev.to/fayomihorace/python-how-simple-string-concatenation-can-kill-your-code-performance-2636)
-- [Top 20 Tools used by IT Professionals](https://dev.to/yashsu/top-20-tools-used-by-it-professionals-1fil)
-- [InterOp - what can we actually expect this year?](https://dev.to/robole/interop-what-can-we-actually-expect-this-year-1p66)
+- [Part -3 Become a better you with these 10 visuals](https://dev.to/jon_snow789/part-3-become-a-better-you-with-these-10-visuals-b8o)
 <!-- BLOG-POST-LIST:END -->
 
