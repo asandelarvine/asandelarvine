@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My VS Code extensions that I absolutely love and use all the time](https://dev.to/raielly/my-vs-code-extensions-that-i-absolutely-love-and-use-all-the-time-2he1)
 - [Automated Fuzz Testing: The Power of Code Intelligence App](https://dev.to/bobur/automated-fuzz-testing-the-power-of-code-intelligence-app-4610)
 - [Learn How to Build and Push a Docker Image to a Container Registry](https://dev.to/pavanbelagatti/learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282)
-- [My Favorite Free Courses to Learn Golang in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-golang-in-2023-3mh6)
-- [The Weekend Coder: What&#39;s Your Favorite Drink to Power through Coding Sessions? ☕🥤💻](https://dev.to/codenewbieteam/the-weekend-coder-whats-your-favorite-drink-to-power-through-coding-sessions-1ok7)
+- [Developers: The Wizards of Code Who Dream in Binary](https://dev.to/mustafakhaleddev/developers-the-wizards-of-code-who-dream-in-binary-20mm)
 <!-- BLOG-POST-LIST:END -->
 
