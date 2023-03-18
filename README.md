@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Install CMake on Windows](https://dev.to/arun3sh/install-cmake-on-windows-4eo5)
+- [A Beginner&#39;s Guide to Testing: Unit, Smoke, Acceptance](https://dev.to/crazyvaskya/a-beginners-guide-to-testing-unit-smoke-acceptance-4ngh)
 - [Writing a Multithreaded Image Dithering Program with Rust 🦀🖼️](https://dev.to/nabeelahmed1721/writing-a-multithreaded-image-dithering-program-with-rust-369)
 - [DALL-E with node.js](https://dev.to/djibrilm/dall-e-with-nodejs-5chb)
-- [Load Testing For API With Apache Benchmark On Windows](https://dev.to/gabriellaamah/load-testing-for-api-with-apache-benchmark-on-windows-58oj)
-- [How to Configure C++ Code Formatting in Visual Studio Code](https://dev.to/dhanu0510/how-to-configure-c-code-formatting-in-visual-studio-code-4d5m)
 <!-- BLOG-POST-LIST:END -->
 
