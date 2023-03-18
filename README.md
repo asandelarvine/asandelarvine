@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Terraform for Single Containers](https://dev.to/tythos/aws-terraform-for-single-containers-5dkf)
+- [Amazon VPC Lattice — Build Applications, Not Networks](https://dev.to/aws-builders/amazon-vpc-lattice-build-applications-not-networks-59j8)
+- [HOW TO USE CHATGPT ON VSCODE](https://dev.to/umaola/how-to-use-chatgpt-on-vscode-3dn)
 - [Introducing the Enhance Blog Template](https://dev.to/begin/introducing-the-enhance-blog-template-4bc2)
-- [Cookies-Based Authentication Vs Session-Based Authentication](https://dev.to/emmykolic/cookies-based-authentication-vs-session-based-authentication-1f6)
-- [Releasing the February Update for the Power Platform CLI](https://dev.to/kkanakas/releasing-the-february-update-for-the-power-platform-cli-40gn)
-- [CrosswordGPT: Pair Programming with GPT-4](https://dev.to/propelauth/crosswordgpt-pair-programming-with-gpt-4-2nji)
 <!-- BLOG-POST-LIST:END -->
 
