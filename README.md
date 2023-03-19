@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 remote tech companies hiring developers now &lpar;March 2023&rpar;](https://dev.to/karlybl/10-remote-tech-companies-hiring-developers-now-march-2023-1ibh)
-- [Building a Secure Database-Centric OpenAPI in 15 Minutes](https://dev.to/zenstack/building-a-secure-database-centric-openapi-in-15-minutes-36oj)
-- [[Discussion] Future of Writing](https://dev.to/itsrakesh/discussion-future-of-writing-2onm)
-- [Discovering AWS App Runner: The Latest AWS Orchestration Solution You Should Be Aware Of](https://dev.to/aws-builders/discovering-aws-app-runner-the-latest-aws-orchestration-solution-you-should-be-aware-of-51gd)
+- [Python Portfolio - Dynamic Invitation Image Generator](https://dev.to/tirthpatel/python-portfolio-dynamic-invitation-image-generator-1b2g)
+- [Git command cheat sheet](https://dev.to/ermiasbahru/git-command-cheat-sheet-40c)
+- [Why use graph database?](https://dev.to/zainabsaad/why-use-graph-database-26b)
+- [Uploading multiple files at the same time using multithreading in NodeJS](https://dev.to/wesleymreng7/uploading-multiple-files-at-the-same-time-using-multithreading-in-nodejs-3ib4)
 <!-- BLOG-POST-LIST:END -->
 
