@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 remote tech companies hiring developers now &lpar;March 2023&rpar;](https://dev.to/karlybl/10-remote-tech-companies-hiring-developers-now-march-2023-1ibh)
 - [Building a Secure Database-Centric OpenAPI in 15 Minutes](https://dev.to/zenstack/building-a-secure-database-centric-openapi-in-15-minutes-36oj)
+- [[Discussion] Future of Writing](https://dev.to/itsrakesh/discussion-future-of-writing-2onm)
 - [Discovering AWS App Runner: The Latest AWS Orchestration Solution You Should Be Aware Of](https://dev.to/aws-builders/discovering-aws-app-runner-the-latest-aws-orchestration-solution-you-should-be-aware-of-51gd)
-- [How to Setup and Deploy a MERN stack project for FREE 🌐🚀](https://dev.to/kunalukey/how-to-setup-and-deploy-a-mern-stack-project-for-free-5acl)
-- [Optimizing React Apps: Tree Shaking and Bundle Splitting Essentials](https://dev.to/franciscomendes10866/optimizing-react-apps-tree-shaking-and-bundle-splitting-essentials-3bg)
 <!-- BLOG-POST-LIST:END -->
 
