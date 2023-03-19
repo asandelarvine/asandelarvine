@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Services for Blogging: A Comprehensive Overview](https://dev.to/manojlingala/aws-services-for-blogging-a-comprehensive-overview-3e4b)
+- [Say Goodbye to Boring Dropdowns: Create Custom Dropdown Menus with Headless UI](https://dev.to/nitinfab/say-goodbye-to-boring-dropdowns-create-custom-dropdown-menus-with-headless-ui-1p5b)
+- [Legislating AI](https://dev.to/niza/legislating-ai-2a6e)
 - [osdc-2023-assignment8](https://dev.to/anatlavitzkovitz/osdc-2023-assignment8-3338)
-- [LeetCode: 211. Design Add and Search Words Data Structure &lpar;and others&rpar;](https://dev.to/sergeyleschev/leetcode-211-design-add-and-search-words-data-structure-2dof)
-- [How To Maximize Your Website&#39;s Potential with Effective SEO Strategies](https://dev.to/evansifyke/maximizing-your-websites-potential-with-effective-seo-strategies-1616)
-- [How Can Coders Ensure Ethical Practices in Their Work?](https://dev.to/codenewbieteam/how-can-coders-ensure-ethical-practices-in-their-work-2ao0)
 <!-- BLOG-POST-LIST:END -->
 
