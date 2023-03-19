@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Cryptocurrency Wallets](https://dev.to/rejoice/a-beginners-guide-to-cryptocurrency-wallets-j5g)
+- [What in the World is the DOM?](https://dev.to/beaucoburn/what-in-the-world-is-the-dom-bbe)
+- [Why study the design of an RDBMS?](https://dev.to/carlasanches/why-study-the-design-of-a-rdbms-4og8)
 - [How To Build The Video And Voice Call App With ZEGOCLOUD In React Native](https://dev.to/codewithdarkwa/how-to-build-the-video-and-voice-call-app-with-zegocloud-in-react-native-2gj3)
-- [Getting Started with Ansible: An Introduction to Automation, Configuration Management, and Orchestration](https://dev.to/xlmriosx/getting-started-with-ansible-an-introduction-to-automation-configuration-management-and-orchestration-1h95)
-- [Install CMake on Windows](https://dev.to/arun3sh/install-cmake-on-windows-4eo5)
-- [A Beginner&#39;s Guide to Testing: Unit, Smoke, Acceptance](https://dev.to/crazyvaskya/a-beginners-guide-to-testing-unit-smoke-acceptance-4ngh)
 <!-- BLOG-POST-LIST:END -->
 
