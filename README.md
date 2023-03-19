@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on the current state of AI](https://dev.to/syeo66/thoughts-on-the-current-state-of-ai-322f)
+- [Yet Another Newsletter LOL: Good Looking Content](https://dev.to/nickytonline/yet-another-newsletter-lol-good-looking-content-1bib)
+- [Getting the Github Octernship](https://dev.to/kitarp29/getting-the-github-octernship-1670)
 - [How to resolve local wildcard domains in MacOS](https://dev.to/timtsoitt/how-to-resolve-local-wildcard-domains-in-macos-h5e)
-- [100 Vital VS Code Shortcuts Every Developer Should Know.](https://dev.to/devland/100-vital-vs-code-shortcuts-every-developer-should-know-3le0)
-- [An Introduction to AWS Batch](https://dev.to/aws-builders/an-introduction-to-aws-batch-2pei)
-- [Revolutionizing APIs: The GraphQL Future](https://dev.to/jagroop2000/revolutionizing-apis-the-graphql-future-2gc9)
 <!-- BLOG-POST-LIST:END -->
 
