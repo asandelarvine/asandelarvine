@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft.CodeAnalysis.BannedApiAnalyzers](https://dev.to/karenpayneoregon/microsoftcodeanalysisbannedapianalyzers-1g6k)
-- [APIs vs Webhooks: Understanding the Core Differences and Harnessing Their Power with Netlify Functions and Zapier](https://dev.to/bensabic/apis-vs-webhooks-understanding-the-core-differences-and-harnessing-their-power-with-netlify-functions-and-zapier-k42)
-- [How To Prevent HPP and XSS Attacks In Nodejs](https://dev.to/ndohjapan/how-to-prevent-hpp-and-xss-attacks-in-nodejs-2ana)
-- [Como descrever imagens nos slides feitos no Canva](https://dev.to/feministech/como-descrever-imagens-nos-slides-feitos-no-canva-2800)
+- [How to Add Estimated Review Time and Context Labels to Pull Requests](https://dev.to/linearb/how-to-add-estimated-review-time-and-context-labels-to-pull-requests-327n)
+- [FLiPN-FLaNK Stack Weekly for 20 March 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-20-march-2023-5d5m)
+- [Why Not Microservices?](https://dev.to/caiocesar/why-not-microservices-1ih9)
+- [How to Empower Your Team with Test Automation](https://dev.to/lambdatest/how-to-empower-your-team-with-test-automation-56g3)
 <!-- BLOG-POST-LIST:END -->
 
