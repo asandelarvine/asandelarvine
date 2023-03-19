@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Hackathons and Swag are Essential for ICT Undergraduates](https://dev.to/abhixsh/why-hackathons-and-swag-are-essential-for-ict-undergraduates-15mm)
+- [CSS Box-Sizing Tutorial](https://dev.to/akshdesai1/css-box-sizing-tutorial-fli)
 - [A Beginner’s Guide to Cryptocurrency Wallets](https://dev.to/rejoice/a-beginners-guide-to-cryptocurrency-wallets-j5g)
 - [What in the World is the DOM?](https://dev.to/beaucoburn/what-in-the-world-is-the-dom-bbe)
-- [Why study the design of an RDBMS?](https://dev.to/carlasanches/why-study-the-design-of-a-rdbms-4og8)
-- [How To Build The Video And Voice Call App With ZEGOCLOUD In React Native](https://dev.to/codewithdarkwa/how-to-build-the-video-and-voice-call-app-with-zegocloud-in-react-native-2gj3)
 <!-- BLOG-POST-LIST:END -->
 
