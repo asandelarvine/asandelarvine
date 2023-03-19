@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Prevent HPP and XSS Attacks In Nodejs](https://dev.to/ndohjapan/how-to-prevent-hpp-and-xss-attacks-in-nodejs-2ana)
+- [Como descrever imagens nos slides feitos no Canva](https://dev.to/feministech/como-descrever-imagens-nos-slides-feitos-no-canva-2800)
 - [Python Portfolio - Dynamic Invitation Image Generator](https://dev.to/tirthpatel/python-portfolio-dynamic-invitation-image-generator-1b2g)
 - [Git command cheat sheet](https://dev.to/ermiasbahru/git-command-cheat-sheet-40c)
-- [Why use graph database?](https://dev.to/zainabsaad/why-use-graph-database-26b)
-- [Uploading multiple files at the same time using multithreading in NodeJS](https://dev.to/wesleymreng7/uploading-multiple-files-at-the-same-time-using-multithreading-in-nodejs-3ib4)
 <!-- BLOG-POST-LIST:END -->
 
