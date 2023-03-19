@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [osdc-2023-assignment8](https://dev.to/anatlavitzkovitz/osdc-2023-assignment8-3338)
+- [LeetCode: 211. Design Add and Search Words Data Structure](https://dev.to/sergeyleschev/leetcode-211-design-add-and-search-words-data-structure-2dof)
 - [How To Maximize Your Website&#39;s Potential with Effective SEO Strategies](https://dev.to/evansifyke/maximizing-your-websites-potential-with-effective-seo-strategies-1616)
 - [How Can Coders Ensure Ethical Practices in Their Work?](https://dev.to/codenewbieteam/how-can-coders-ensure-ethical-practices-in-their-work-2ao0)
-- [Basic Understanding of Webhooks with examples](https://dev.to/harsh_u115/basic-understanding-of-webhooks-with-examples-5877)
-- [Deep dive into How Web Browsers work &lpar;with illustrations&rpar; ⚙️🚀](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)
 <!-- BLOG-POST-LIST:END -->
 
