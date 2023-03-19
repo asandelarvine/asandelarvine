@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft.CodeAnalysis.BannedApiAnalyzers](https://dev.to/karenpayneoregon/microsoftcodeanalysisbannedapianalyzers-1g6k)
+- [APIs vs Webhooks: Understanding the Core Differences and Harnessing Their Power with Netlify Functions and Zapier](https://dev.to/bensabic/apis-vs-webhooks-understanding-the-core-differences-and-harnessing-their-power-with-netlify-functions-and-zapier-k42)
 - [How To Prevent HPP and XSS Attacks In Nodejs](https://dev.to/ndohjapan/how-to-prevent-hpp-and-xss-attacks-in-nodejs-2ana)
 - [Como descrever imagens nos slides feitos no Canva](https://dev.to/feministech/como-descrever-imagens-nos-slides-feitos-no-canva-2800)
-- [Python Portfolio - Dynamic Invitation Image Generator](https://dev.to/tirthpatel/python-portfolio-dynamic-invitation-image-generator-1b2g)
-- [Git command cheat sheet](https://dev.to/ermiasbahru/git-command-cheat-sheet-40c)
 <!-- BLOG-POST-LIST:END -->
 
