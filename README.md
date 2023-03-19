@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into How Web Browsers work &lpar;with illustrations&rpar; ⚙️🚀](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)
 - [Why Hackathons and Swag are Essential for ICT Undergraduates](https://dev.to/abhixsh/why-hackathons-and-swag-are-essential-for-ict-undergraduates-15mm)
 - [CSS Box-Sizing Tutorial](https://dev.to/akshdesai1/css-box-sizing-tutorial-fli)
-- [A Beginner’s Guide to Cryptocurrency Wallets](https://dev.to/rejoice/a-beginners-guide-to-cryptocurrency-wallets-j5g)
-- [What in the World is the DOM?](https://dev.to/beaucoburn/what-in-the-world-is-the-dom-bbe)
+- [Creating Basic Shapes with CSS](https://dev.to/rutikkpatel/creating-basic-shapes-with-css-3m0e)
 <!-- BLOG-POST-LIST:END -->
 
