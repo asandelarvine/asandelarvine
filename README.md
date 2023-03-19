@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to Add Estimated Review Time and Context Labels to Pull Requests](https://dev.to/linearb/how-to-add-estimated-review-time-and-context-labels-to-pull-requests-327n)
 - [FLiPN-FLaNK Stack Weekly for 20 March 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-20-march-2023-5d5m)
 - [Why Not Microservices?](https://dev.to/caiocesar/why-not-microservices-1ih9)
-- [How to Empower Your Team with Test Automation](https://dev.to/lambdatest/how-to-empower-your-team-with-test-automation-56g3)
+- [Creating Axios Interceptor in React and NextJs](https://dev.to/sandesh56/creating-axios-interceptor-in-react-and-nextjs-395e)
 <!-- BLOG-POST-LIST:END -->
 
