@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Vital VS Code Shortcuts Every Developer Should Know.](https://dev.to/devland/100-vital-vs-code-shortcuts-every-developer-should-know-3le0)
+- [An Introduction to AWS Batch](https://dev.to/aws-builders/an-introduction-to-aws-batch-2pei)
 - [Revolutionizing APIs: The GraphQL Future](https://dev.to/jagroop2000/revolutionizing-apis-the-graphql-future-2gc9)
-- [TypeScript for Beginners: What You Should Know](https://dev.to/swordheath/typescript-for-beginners-what-you-should-know-n0a)
-- [AWS Services for Blogging: A Comprehensive Overview](https://dev.to/manojlingala/aws-services-for-blogging-a-comprehensive-overview-3e4b)
-- [Say Goodbye to Boring Dropdowns: Create Custom Dropdown Menus with Headless UI](https://dev.to/nitinfab/say-goodbye-to-boring-dropdowns-create-custom-dropdown-menus-with-headless-ui-1p5b)
+- [Best Ways to Use Media Query Breakpoints with 3 Frameworks in 2023](https://dev.to/themewagon/best-ways-to-use-media-query-breakpoints-with-3-frameworks-in-2023-4jl6)
 <!-- BLOG-POST-LIST:END -->
 
