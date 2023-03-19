@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing APIs: The GraphQL Future](https://dev.to/jagroop2000/revolutionizing-apis-the-graphql-future-2gc9)
+- [TypeScript for Beginners: What You Should Know](https://dev.to/swordheath/typescript-for-beginners-what-you-should-know-n0a)
 - [AWS Services for Blogging: A Comprehensive Overview](https://dev.to/manojlingala/aws-services-for-blogging-a-comprehensive-overview-3e4b)
 - [Say Goodbye to Boring Dropdowns: Create Custom Dropdown Menus with Headless UI](https://dev.to/nitinfab/say-goodbye-to-boring-dropdowns-create-custom-dropdown-menus-with-headless-ui-1p5b)
-- [Legislating AI](https://dev.to/niza/legislating-ai-2a6e)
-- [osdc-2023-assignment8](https://dev.to/anatlavitzkovitz/osdc-2023-assignment8-3338)
 <!-- BLOG-POST-LIST:END -->
 
