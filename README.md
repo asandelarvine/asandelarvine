@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightning Web Components: Custom Nested Components](https://dev.to/lukethacoder/lightning-web-components-custom-nested-components-171n)
 - [Why Rust has Such a Complex Syntax](https://dev.to/bybydev/why-rust-has-such-a-complex-syntax-3kj3)
 - [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
 - [Finally decided on the pricing for my new product](https://dev.to/mariostopfer/finally-decided-on-the-pricing-for-my-new-product-4nab)
-- [[Off-Topic] Living Outside the Algorithm](https://dev.to/noriller/off-topic-living-outside-the-algorithm-f88)
 <!-- BLOG-POST-LIST:END -->
 
