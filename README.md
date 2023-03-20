@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
+- [Web Dev Related Acronyms You Should Know](https://dev.to/ppiippaa/web-dev-related-acronyms-you-should-know-35ao)
 - [Why Every Developer &lpar;Beginner, intermediate and Expert&rpar; Should Start Blogging.](https://dev.to/ritapossible/why-every-developer-beginner-intermediate-and-expert-should-start-blogging-4lal)
 - [AWS open source newsletter, #149](https://dev.to/aws/aws-open-source-newsletter-149-1amo)
-- [Deployment of NextJs app in S3 using AWS CI/CD tools](https://dev.to/sandesh56/deployment-of-nextjs-app-in-s3-using-aws-cicd-tools-14im)
-- [Using tRPC with REST](https://dev.to/macke/using-trpc-with-rest-5hf4)
 <!-- BLOG-POST-LIST:END -->
 
