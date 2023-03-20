@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Remove Punctuation from Text Using JavaScript?](https://dev.to/foxinfotech/how-to-remove-punctuation-from-text-using-javascript-59pe)
-- [How To Create a Table Like Another Table in MySQL](https://dev.to/dbvismarketing/how-to-create-a-table-like-another-table-in-mysql-3jcg)
-- [Announcing Logto Cloud &lpar;Preview&rpar; and OSS General Availability](https://dev.to/gaosun/announcing-logto-cloud-preview-and-oss-general-availability-52mo)
-- [Visual Studio for Linux will Never Arrive💔](https://dev.to/bytehide/visual-studio-for-linux-will-never-arrive-6kf)
+- [Setup CloudFront &amp; Amazon S3 to Deliver objects on the Web Apps &lpar;securely &amp; efficiently&rpar;](https://dev.to/tanmaygi/setup-cloudfront-amazon-s3-to-deliver-objects-on-the-web-apps-securely-efficiently-2gnk)
+- [JavaScript Dependency Management with npm and Yarn](https://dev.to/thawkin3/javascript-dependency-management-with-npm-and-yarn-2iig)
+- [Structs in Julia](https://dev.to/ifihan/structs-in-julia-ock)
+- [What the FORK are you doing?!](https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68)
 <!-- BLOG-POST-LIST:END -->
 
