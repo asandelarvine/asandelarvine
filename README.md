@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday 🧵](https://dev.to/ben/meme-monday-54i0)
-- [Why I decided to learn &lpar;and teach&rpar; Clojure](https://dev.to/marciofrayze/why-i-decided-to-learn-and-teach-clojure-567f)
-- [CSS Is Dead!](https://dev.to/alvaromontoro/css-is-dead-1i4)
-- [Make a video about the best contributor of the month with React and NodeJS 🚀](https://dev.to/novu/make-a-video-about-the-best-contributor-of-the-month-with-react-and-nodejs-2feg)
+- [New Suspense Hooks for Meteor](https://dev.to/grubba/new-suspense-hooks-for-meteor-3ddg)
+- [Empowering Digital Creators: A Technical Guide on How to Create an NFT &lpar;Digital Collectible&rpar; to say “Thank You”](https://dev.to/mbogan/empowering-digital-creators-a-technical-guide-on-how-to-create-an-nft-digital-collectible-to-say-thank-you-cd)
+- [Making Promises Suspendable](https://dev.to/grubba/making-promises-suspendable-452f)
+- [Docusaurus - Or the simpliest way to do a technical documentation](https://dev.to/mxglt/docusaurus-or-the-simpliest-way-to-do-a-technical-documentation-4om4)
 <!-- BLOG-POST-LIST:END -->
 
