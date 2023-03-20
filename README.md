@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate the job-finding process](https://dev.to/shreyvijayvargiya/automate-the-job-finding-process-3oof)
+- [Mastering the Github Search Engine to Find Code Examples for Complex Integrations](https://dev.to/adrianguery/mastering-the-github-search-engine-to-find-code-examples-for-complex-integrations-573e)
+- [Important Questions related to Data Engineering](https://dev.to/zapeeosheikh/important-questions-related-to-data-engineering-33on)
 - [Guide: Installing New Relic Agent on Nginx](https://dev.to/alexanderisora/guide-installing-new-relic-agent-on-nginx-44m2)
-- [chicago](https://dev.to/ulisse/chicago-1hai)
-- [padlock](https://dev.to/ulisse/padlock-2egi)
-- [Implementing Wildcard Subdomain &lpar;Part 2&rpar; - Creating subdomain programmatically](https://dev.to/akinmyde/implementing-wildcard-subdomain-part-2-creating-subdomain-programmatically-223i)
 <!-- BLOG-POST-LIST:END -->
 
