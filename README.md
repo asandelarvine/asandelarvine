@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide: Installing New Relic Agent on Nginx](https://dev.to/alexanderisora/guide-installing-new-relic-agent-on-nginx-44m2)
+- [chicago](https://dev.to/ulisse/chicago-1hai)
+- [padlock](https://dev.to/ulisse/padlock-2egi)
 - [Implementing Wildcard Subdomain &lpar;Part 2&rpar; - Creating subdomain programmatically](https://dev.to/akinmyde/implementing-wildcard-subdomain-part-2-creating-subdomain-programmatically-223i)
-- [How to be Better in React Code Reusability - Part2](https://dev.to/aradwan20/how-to-be-better-in-react-code-reusability-part2-5cc2)
-- [Bash vs Python Scripting: A simple practical guide](https://dev.to/husseinalamutu/bash-vs-python-scripting-a-simple-practical-guide-16in)
-- [Meenpin Note chrome extension](https://dev.to/aieeeo/meenpin-note-chrome-extension-2i2h)
 <!-- BLOG-POST-LIST:END -->
 
