@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Linode + DEV Hackathon Winners, Announced!](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821)
+- [AI Replaces Managers: The End of Human-Led Software Teams](https://dev.to/snowman647/ai-replaces-managers-the-end-of-human-led-software-teams-421d)
 - [Separação de conteúdo em arquivos no Microsoft Excel](https://dev.to/oberdanbrito/separacao-de-conteudo-em-arquivos-no-microsoft-excel-3cih)
 - [Build an Event-Driven Media Conversion Pipeline](https://dev.to/aaditunni/build-an-event-driven-media-conversion-pipeline-1913)
-- [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://dev.to/suikodev/javascript-trick-guessing-users-country-calling-codes-by-time-zone-2p9a)
-- [Automate the job-finding process](https://dev.to/shreyvijayvargiya/automate-the-job-finding-process-3oof)
 <!-- BLOG-POST-LIST:END -->
 
