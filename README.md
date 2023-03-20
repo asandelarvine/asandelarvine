@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup Devise for User Authentication on Rails 7](https://dev.to/ackshaey/how-to-setup-devise-for-user-authentication-on-rails-7-ojg)
+- [Zod 101 - A Typescript-first Schema Validation Library](https://dev.to/kharioki/zod-101-a-typescript-first-schema-validation-library-4dgm)
 - [Linode + DEV Hackathon Winners, Announced!](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821)
 - [AI Replaces Managers: The End of Human-Led Software Teams](https://dev.to/snowman647/ai-replaces-managers-the-end-of-human-led-software-teams-421d)
-- [Separação de conteúdo em arquivos no Microsoft Excel](https://dev.to/oberdanbrito/separacao-de-conteudo-em-arquivos-no-microsoft-excel-3cih)
-- [Build an Event-Driven Media Conversion Pipeline](https://dev.to/aaditunni/build-an-event-driven-media-conversion-pipeline-1913)
 <!-- BLOG-POST-LIST:END -->
 
