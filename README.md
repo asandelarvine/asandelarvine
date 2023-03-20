@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
-- [Web Dev Related Acronyms You Should Know](https://dev.to/ppiippaa/web-dev-related-acronyms-you-should-know-35ao)
-- [Why Every Developer &lpar;Beginner, intermediate and Expert&rpar; Should Start Blogging.](https://dev.to/ritapossible/why-every-developer-beginner-intermediate-and-expert-should-start-blogging-4lal)
-- [AWS open source newsletter, #149](https://dev.to/aws/aws-open-source-newsletter-149-1amo)
+- [How to Remove Punctuation from Text Using JavaScript?](https://dev.to/foxinfotech/how-to-remove-punctuation-from-text-using-javascript-59pe)
+- [How To Create a Table Like Another Table in MySQL](https://dev.to/dbvismarketing/how-to-create-a-table-like-another-table-in-mysql-3jcg)
+- [Announcing Logto Cloud &lpar;Preview&rpar; and OSS General Availability](https://dev.to/gaosun/announcing-logto-cloud-preview-and-oss-general-availability-52mo)
+- [Visual Studio for Linux will Never Arrive💔](https://dev.to/bytehide/visual-studio-for-linux-will-never-arrive-6kf)
 <!-- BLOG-POST-LIST:END -->
 
