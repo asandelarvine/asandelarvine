@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an Event-Driven Media Conversion Pipeline](https://dev.to/aaditunni/build-an-event-driven-media-conversion-pipeline-1913)
+- [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://dev.to/suikodev/javascript-trick-guessing-users-country-calling-codes-by-time-zone-2p9a)
 - [Automate the job-finding process](https://dev.to/shreyvijayvargiya/automate-the-job-finding-process-3oof)
 - [Mastering the Github Search Engine to Find Code Examples for Complex Integrations](https://dev.to/adrianguery/mastering-the-github-search-engine-to-find-code-examples-for-complex-integrations-573e)
-- [Important Questions related to Data Engineering](https://dev.to/zapeeosheikh/important-questions-related-to-data-engineering-33on)
-- [Guide: Installing New Relic Agent on Nginx](https://dev.to/alexanderisora/guide-installing-new-relic-agent-on-nginx-44m2)
 <!-- BLOG-POST-LIST:END -->
 
