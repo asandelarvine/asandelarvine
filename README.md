@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Suspense Hooks for Meteor](https://dev.to/grubba/new-suspense-hooks-for-meteor-3ddg)
-- [Empowering Digital Creators: A Technical Guide on How to Create an NFT &lpar;Digital Collectible&rpar; to say “Thank You”](https://dev.to/mbogan/empowering-digital-creators-a-technical-guide-on-how-to-create-an-nft-digital-collectible-to-say-thank-you-cd)
-- [Making Promises Suspendable](https://dev.to/grubba/making-promises-suspendable-452f)
-- [Docusaurus - Or the simpliest way to do a technical documentation](https://dev.to/mxglt/docusaurus-or-the-simpliest-way-to-do-a-technical-documentation-4om4)
+- [Meenpin Note chrome extension](https://dev.to/aieeeo/meenpin-note-chrome-extension-2i2h)
+- [Make Sure You Do This Before Switching To Signals](https://dev.to/angular/make-sure-you-do-this-before-switching-to-signals-27m9)
+- [The Tectonic Shift in React Ecosystem: Unearthing the Future with Next.js, Remix, Gatsby, Vite, QGP, and Astro](https://dev.to/jlarky/the-tectonic-shift-in-react-ecosystem-unearthing-the-future-with-nextjs-remix-gatsby-vite-qgp-and-astro-okl)
+- [Benchmarking the AWS SDK](https://dev.to/aws-builders/benchmarking-the-aws-sdk-2pd4)
 <!-- BLOG-POST-LIST:END -->
 
