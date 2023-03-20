@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Wildcard Subdomain &lpar;Part 2&rpar; - Creating subdomain programmatically](https://dev.to/akinmyde/implementing-wildcard-subdomain-part-2-creating-subdomain-programmatically-223i)
+- [How to be Better in React Code Reusability - Part2](https://dev.to/aradwan20/how-to-be-better-in-react-code-reusability-part2-5cc2)
+- [Bash vs Python Scripting: A simple practical guide](https://dev.to/husseinalamutu/bash-vs-python-scripting-a-simple-practical-guide-16in)
 - [Meenpin Note chrome extension](https://dev.to/aieeeo/meenpin-note-chrome-extension-2i2h)
-- [Make Sure You Do This Before Switching To Signals](https://dev.to/angular/make-sure-you-do-this-before-switching-to-signals-27m9)
-- [The Tectonic Shift in React Ecosystem: Unearthing the Future with Next.js, Remix, Gatsby, Vite, QGP, and Astro](https://dev.to/jlarky/the-tectonic-shift-in-react-ecosystem-unearthing-the-future-with-nextjs-remix-gatsby-vite-qgp-and-astro-okl)
-- [Benchmarking the AWS SDK](https://dev.to/aws-builders/benchmarking-the-aws-sdk-2pd4)
 <!-- BLOG-POST-LIST:END -->
 
