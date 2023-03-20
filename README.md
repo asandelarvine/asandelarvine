@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup CloudFront &amp; Amazon S3 to Deliver objects on the Web Apps &lpar;securely &amp; efficiently&rpar;](https://dev.to/tanmaygi/setup-cloudfront-amazon-s3-to-deliver-objects-on-the-web-apps-securely-efficiently-2gnk)
-- [JavaScript Dependency Management with npm and Yarn](https://dev.to/thawkin3/javascript-dependency-management-with-npm-and-yarn-2iig)
-- [Structs in Julia](https://dev.to/ifihan/structs-in-julia-ock)
-- [What the FORK are you doing?!](https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68)
+- [Meme Monday 🧵](https://dev.to/ben/meme-monday-54i0)
+- [Why I decided to learn &lpar;and teach&rpar; Clojure](https://dev.to/marciofrayze/why-i-decided-to-learn-and-teach-clojure-567f)
+- [CSS Is Dead!](https://dev.to/alvaromontoro/css-is-dead-1i4)
+- [Make a video about the best contributor of the month with React and NodeJS 🚀](https://dev.to/novu/make-a-video-about-the-best-contributor-of-the-month-with-react-and-nodejs-2feg)
 <!-- BLOG-POST-LIST:END -->
 
