@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Twitter&#39;s Data: How to Access the Twitter API with JavaScript](https://dev.to/nimeshbrt/unleashing-twitters-data-how-to-access-the-twitter-api-with-javascript-24mp)
-- [EventBus Mesh](https://dev.to/aws-builders/eventbus-mesh-4c8o)
-- [Lightning Web Components: Custom Nested Components](https://dev.to/lukethacoder/lightning-web-components-custom-nested-components-171n)
-- [Why Rust has Such a Complex Syntax](https://dev.to/bybydev/why-rust-has-such-a-complex-syntax-3kj3)
+- [Reusable component store for pagination using generics](https://dev.to/this-is-angular/reusable-component-store-for-pagination-using-generics-1na6)
+- [Polars for Analytics an Introduction](https://dev.to/yet_anotherdev/polars-for-analytics-an-introduction-1378)
+- [Netex, VMware Kaynağı Ekleme ve Kullanımı](https://dev.to/aciklab/netex-vmware-kaynagi-ekleme-ve-kullanimi-375e)
+- [Postgres Explained](https://dev.to/mlabouardy/postgres-explained-2648)
 <!-- BLOG-POST-LIST:END -->
 
