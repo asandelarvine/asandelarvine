@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Body Mass Index &lpar;BMI&rpar; calculator using the graphical user interface &lpar;GUI&rpar; library Tkinter](https://dev.to/jcvillainfo/body-mass-index-bmi-calculator-using-the-graphical-user-interface-gui-library-tkinter-ei)
-- [Serverless querying and evaluating of Logs using Athena Part 2](https://dev.to/aws-builders/serverless-querying-and-evaluating-of-logs-using-athena-part-2-3ip3)
-- [Must use libraries with react -&gt; Framework ;&rpar;](https://dev.to/itskunal/must-use-libraries-with-react-framework--47cb)
-- [Pandas Core Data Preprocessing Techniques - A Recap](https://dev.to/uche_4rm_germany/pandas-core-data-preprocessing-techniques-a-recap-2nmh)
+- [Chat Indexing with Chatsindex.com](https://dev.to/mmuller88/chat-indexing-with-chatsindexcom-3i11)
+- [Mastering Git with ChatGPT — best auto-commits you&#39;ve ever seen](https://dev.to/disukharev/mastering-git-with-chatgpt-best-autocommits-youve-ever-seen-1l1m)
+- [Is ByteByteGo and System Design Interview - An insider&#39;s guide book by Alex Xu Worth it?](https://dev.to/javinpaul/is-bytebytego-and-system-design-interview-an-insiders-guide-book-by-alex-xu-worth-it-266j)
+- [What is Blockchain Testing?](https://dev.to/kavithar/what-is-blockchain-testing-4gil)
 <!-- BLOG-POST-LIST:END -->
 
