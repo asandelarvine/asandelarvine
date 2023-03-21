@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #41](https://dev.to/moonly/moonly-weekly-progress-update-41-3cod)
+- [Redirect 301 con CloudFront y Lambda@EDGE](https://dev.to/euda_ar/redirect-301-con-cloudfront-y-lambdaedge-454l)
+- [Superpowers with Directives and Dependency Injection: Part 3](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja)
 - [Difference between a virtual DOM and a real DOM](https://dev.to/setgram/difference-between-a-virtual-dom-and-a-real-dom-421d)
-- [What is Chat GPT?](https://dev.to/arunkumar2331996/what-is-chat-gpt-2deo)
-- [Creating a SQL generator app with ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/creating-a-sql-generator-app-with-chatgpt-postgresql-and-tooljet-e2k)
-- [An in-depth comparison of the most popular DynamoDB wrappers](https://dev.to/thomasaribart/an-in-depth-comparison-of-the-most-popular-dynamodb-wrappers-5b73)
 <!-- BLOG-POST-LIST:END -->
 
