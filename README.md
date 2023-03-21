@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
+- [How Senior Developers Sabotage Interviews](https://dev.to/bybydev/how-senior-developers-sabotage-interviews-497n)
+- [Teoria de Grafos em Everything Everywhere All at Once](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
 - [How to Setup Devise for User Authentication on Rails 7](https://dev.to/ackshaey/how-to-setup-devise-for-user-authentication-on-rails-7-ojg)
-- [Zod 101 - A Typescript-first Schema Validation Library](https://dev.to/kharioki/zod-101-a-typescript-first-schema-validation-library-4dgm)
-- [Linode + DEV Hackathon Winners, Announced!](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821)
-- [AI Replaces Managers: The End of Human-Led Software Teams](https://dev.to/snowman647/ai-replaces-managers-the-end-of-human-led-software-teams-421d)
 <!-- BLOG-POST-LIST:END -->
 
