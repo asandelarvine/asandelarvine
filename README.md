@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: The Future of AI](https://dev.to/devteam/devdiscuss-the-future-of-ai-45f2)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cpi)
 - [STM32F4 Embedded Rust at the PAC: Creating Hardware Abstractions](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-creating-hardware-abstractions-58gp)
 - [Top 6 tools for Node.js monitoring](https://dev.to/logrocket/top-6-tools-for-nodejs-monitoring-21ok)
-- [Create text change hover effect with JavaScript](https://dev.to/rmmgc/create-text-change-hover-effect-with-javascript-4k5g)
 <!-- BLOG-POST-LIST:END -->
 
