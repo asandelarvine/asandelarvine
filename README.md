@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Body Mass Index &lpar;BMI&rpar; calculator using the graphical user interface &lpar;GUI&rpar; library Tkinter](https://dev.to/jcvillainfo/body-mass-index-bmi-calculator-using-the-graphical-user-interface-gui-library-tkinter-ei)
+- [Serverless querying and evaluating of Logs using Athena Part 2](https://dev.to/aws-builders/serverless-querying-and-evaluating-of-logs-using-athena-part-2-3ip3)
+- [Must use libraries with react -&gt; Framework ;&rpar;](https://dev.to/itskunal/must-use-libraries-with-react-framework--47cb)
 - [Pandas Core Data Preprocessing Techniques - A Recap](https://dev.to/uche_4rm_germany/pandas-core-data-preprocessing-techniques-a-recap-2nmh)
-- [Syntax Error: What Obstacles Are You Facing As A New Developer?](https://dev.to/codenewbieteam/syntax-error-what-obstacles-are-you-facing-as-a-new-developer-3l71)
-- [Lexical Scoping vs Closures](https://dev.to/souravbandyopadhyay/lexical-scoping-vs-closures-52cd)
-- [Boost Your Next Project with My Comprehensive List of Free APIs – 1000+ and Counting!](https://dev.to/ritesh2204/boost-your-next-project-with-my-comprehensive-list-of-free-apis-1000-and-counting-2eh1)
 <!-- BLOG-POST-LIST:END -->
 
