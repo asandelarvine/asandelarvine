@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between a virtual DOM and a real DOM](https://dev.to/setgram/difference-between-a-virtual-dom-and-a-real-dom-421d)
+- [What is Chat GPT?](https://dev.to/arunkumar2331996/what-is-chat-gpt-2deo)
 - [Creating a SQL generator app with ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/creating-a-sql-generator-app-with-chatgpt-postgresql-and-tooljet-e2k)
-- [Managing Dependencies with Yarn: Understanding Dependency Conflicts.](https://dev.to/mayurjagtap/managing-dependencies-with-yarn-understanding-dependency-conflicts-28c7)
-- [How To Type With Generics in TypeScript](https://dev.to/zirkelc/how-to-type-with-generics-in-typescript-3jk0)
-- [Build your first Data science project from your Netflix data](https://dev.to/shittu_olumide_/build-your-first-data-science-project-from-your-netflix-data-4gi0)
+- [An in-depth comparison of the most popular DynamoDB wrappers](https://dev.to/thomasaribart/an-in-depth-comparison-of-the-most-popular-dynamodb-wrappers-5b73)
 <!-- BLOG-POST-LIST:END -->
 
