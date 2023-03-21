@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trending CUDA repos of the week 📈](https://dev.to/quine/trending-cuda-repos-of-the-week-4aal)
-- [INTRODUCING InvoiceEase: The Simple Solution for Managing Invoices](https://dev.to/unclebigbay/introducing-invoiceease-the-simple-solution-for-managing-invoices-1bfl)
-- [The Price of Open Source](https://dev.to/balagmadhu/the-price-of-open-source-4bc5)
-- [Mentor tools I: Safe Space](https://dev.to/one-beyond/mentor-tools-i-safe-space-54n6)
+- [Guide to Mandatory Screen Resolutions for UI Testing with Google Chrome Developer Tools](https://dev.to/kushalst/guide-to-mandatory-screen-resolutions-for-ui-testing-with-google-chrome-developer-tools-5fl6)
+- [[Desafio] - 10 Desafios Simples de System Design](https://dev.to/zanfranceschi/desafio-10-desafios-simples-de-system-design-c3h)
+- [Encryption: Explained to a 5 Year Old 👶🏻](https://dev.to/acidop/encryption-explained-to-a-5-year-old-fci)
+- [Create A Passwordless Authentication System](https://dev.to/kalashin1/create-a-passwordless-authentication-system-ci3)
 <!-- BLOG-POST-LIST:END -->
 
