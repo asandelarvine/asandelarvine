@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cpi)
+- [STM32F4 Embedded Rust at the PAC: Creating Hardware Abstractions](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-creating-hardware-abstractions-58gp)
+- [Top 6 tools for Node.js monitoring](https://dev.to/logrocket/top-6-tools-for-nodejs-monitoring-21ok)
 - [Create text change hover effect with JavaScript](https://dev.to/rmmgc/create-text-change-hover-effect-with-javascript-4k5g)
-- [10 Best Practices for JavaScript Testing and Debugging](https://dev.to/fannynyayic/10-best-practices-for-javascript-testing-and-debugging-3fgc)
-- [Guide to Mandatory Screen Resolutions for UI Testing with Google Chrome Developer Tools](https://dev.to/kushalst/guide-to-mandatory-screen-resolutions-for-ui-testing-with-google-chrome-developer-tools-5fl6)
-- [[Desafio] - 10 Desafios Simples de System Design](https://dev.to/zanfranceschi/desafio-10-desafios-simples-de-system-design-c3h)
 <!-- BLOG-POST-LIST:END -->
 
