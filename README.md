@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Next Project with My Comprehensive List of Free APIs – 1000+ and Counting!](https://dev.to/ritesh2204/boost-your-next-project-with-my-comprehensive-list-of-free-apis-1000-and-counting-2eh1)
 - [C++ if, if...else and Nested if...else](https://dev.to/manzura07/c-if-ifelse-and-nested-ifelse-20o8)
+- [Getting Started with Sentiment Analysis](https://dev.to/dawittadesseh/getting-started-with-sentiment-analysis-16lp)
 - [Image Generation Tutorial Using Python And The Leaf API](https://dev.to/ethand91/image-generation-tutorial-using-python-and-the-leaf-api-2jgf)
-- [Conte sua história](https://dev.to/feministech/conte-sua-historia-3912)
-- [AI Hallucinations are still around](https://dev.to/contenda/ai-hallucinations-are-still-around-1330)
 <!-- BLOG-POST-LIST:END -->
 
