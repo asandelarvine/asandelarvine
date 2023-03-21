@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pandas Core Data Preprocessing Techniques - A Recap](https://dev.to/uche_4rm_germany/pandas-core-data-preprocessing-techniques-a-recap-2nmh)
+- [Syntax Error: What Obstacles Are You Facing As A New Developer?](https://dev.to/codenewbieteam/syntax-error-what-obstacles-are-you-facing-as-a-new-developer-3l71)
 - [Lexical Scoping vs Closures](https://dev.to/souravbandyopadhyay/lexical-scoping-vs-closures-52cd)
 - [Boost Your Next Project with My Comprehensive List of Free APIs – 1000+ and Counting!](https://dev.to/ritesh2204/boost-your-next-project-with-my-comprehensive-list-of-free-apis-1000-and-counting-2eh1)
-- [How Use Circuit Breaker in NodeJS](https://dev.to/lovepreetsingh/how-use-circuit-breaker-in-nodejs-4ake)
-- [C++ if, if...else and Nested if...else](https://dev.to/manzura07/c-if-ifelse-and-nested-ifelse-20o8)
 <!-- BLOG-POST-LIST:END -->
 
