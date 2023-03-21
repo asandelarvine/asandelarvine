@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Trending CUDA repos of the week 📈](https://dev.to/quine/trending-cuda-repos-of-the-week-4aal)
 - [INTRODUCING InvoiceEase: The Simple Solution for Managing Invoices](https://dev.to/unclebigbay/introducing-invoiceease-the-simple-solution-for-managing-invoices-1bfl)
+- [The Price of Open Source](https://dev.to/balagmadhu/the-price-of-open-source-4bc5)
 - [Mentor tools I: Safe Space](https://dev.to/one-beyond/mentor-tools-i-safe-space-54n6)
-- [Lessons Learned: Kubernetes Cluster Updates and Challenges](https://dev.to/perber/updating-your-kubernetes-cluster-best-practices-lessons-learned-and-tips-for-success-3aep)
 <!-- BLOG-POST-LIST:END -->
 
