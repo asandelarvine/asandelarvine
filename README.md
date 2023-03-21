@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [INTRODUCING InvoiceEase: The Simple Solution for Managing Invoices](https://dev.to/unclebigbay/introducing-invoiceease-the-simple-solution-for-managing-invoices-1bfl)
+- [Mentor tools I: Safe Space](https://dev.to/one-beyond/mentor-tools-i-safe-space-54n6)
+- [10 Best Practices for Ecommerce Checkout Design](https://dev.to/medusajs/10-best-practices-for-ecommerce-checkout-design-81e)
 - [Moonly weekly progress update #41](https://dev.to/moonly/moonly-weekly-progress-update-41-3cod)
-- [Redirect 301 con CloudFront y Lambda@EDGE](https://dev.to/euda_ar/redirect-301-con-cloudfront-y-lambdaedge-454l)
-- [Superpowers with Directives and Dependency Injection: Part 3](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja)
-- [Difference between a virtual DOM and a real DOM](https://dev.to/setgram/difference-between-a-virtual-dom-and-a-real-dom-421d)
 <!-- BLOG-POST-LIST:END -->
 
