@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conte sua história](https://dev.to/feministech/conte-sua-historia-3912)
+- [AI Hallucinations are still around](https://dev.to/contenda/ai-hallucinations-are-still-around-1330)
 - [⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
 - [How Senior Developers Sabotage Interviews](https://dev.to/bybydev/how-senior-developers-sabotage-interviews-497n)
-- [Teoria de Grafos em Everything Everywhere All at Once](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
-- [Symfony Station Communiqué — 17 March 2023. A look at Symfony, Drupal, PHP, Cybersecurity, and Fediverse news!](https://dev.to/reubenwalker64/symfony-station-communique-17-march-2023-a-look-at-symfony-drupal-php-cybersecurity-and-fediverse-news-l8)
 <!-- BLOG-POST-LIST:END -->
 
