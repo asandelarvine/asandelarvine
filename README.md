@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat Indexing with Chatsindex.com](https://dev.to/mmuller88/chat-indexing-with-chatsindexcom-3i11)
-- [Mastering Git with ChatGPT — best auto-commits you&#39;ve ever seen](https://dev.to/disukharev/mastering-git-with-chatgpt-best-autocommits-youve-ever-seen-1l1m)
-- [Is ByteByteGo and System Design Interview - An insider&#39;s guide book by Alex Xu Worth it?](https://dev.to/javinpaul/is-bytebytego-and-system-design-interview-an-insiders-guide-book-by-alex-xu-worth-it-266j)
-- [What is Blockchain Testing?](https://dev.to/kavithar/what-is-blockchain-testing-4gil)
+- [Creating a SQL generator app with ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/creating-a-sql-generator-app-with-chatgpt-postgresql-and-tooljet-e2k)
+- [Managing Dependencies with Yarn: Understanding Dependency Conflicts.](https://dev.to/mayurjagtap/managing-dependencies-with-yarn-understanding-dependency-conflicts-28c7)
+- [How To Type With Generics in TypeScript](https://dev.to/zirkelc/how-to-type-with-generics-in-typescript-3jk0)
+- [Build your first Data science project from your Netflix data](https://dev.to/shittu_olumide_/build-your-first-data-science-project-from-your-netflix-data-4gi0)
 <!-- BLOG-POST-LIST:END -->
 
