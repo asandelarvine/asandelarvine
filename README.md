@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create text change hover effect with JavaScript](https://dev.to/rmmgc/create-text-change-hover-effect-with-javascript-4k5g)
+- [10 Best Practices for JavaScript Testing and Debugging](https://dev.to/fannynyayic/10-best-practices-for-javascript-testing-and-debugging-3fgc)
 - [Guide to Mandatory Screen Resolutions for UI Testing with Google Chrome Developer Tools](https://dev.to/kushalst/guide-to-mandatory-screen-resolutions-for-ui-testing-with-google-chrome-developer-tools-5fl6)
 - [[Desafio] - 10 Desafios Simples de System Design](https://dev.to/zanfranceschi/desafio-10-desafios-simples-de-system-design-c3h)
-- [Encryption: Explained to a 5 Year Old 👶🏻](https://dev.to/acidop/encryption-explained-to-a-5-year-old-fci)
-- [Create A Passwordless Authentication System](https://dev.to/kalashin1/create-a-passwordless-authentication-system-ci3)
 <!-- BLOG-POST-LIST:END -->
 
