@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ if, if...else and Nested if...else](https://dev.to/manzura07/c-if-ifelse-and-nested-ifelse-20o8)
+- [Image Generation Tutorial Using Python And The Leaf API](https://dev.to/ethand91/image-generation-tutorial-using-python-and-the-leaf-api-2jgf)
 - [Conte sua história](https://dev.to/feministech/conte-sua-historia-3912)
 - [AI Hallucinations are still around](https://dev.to/contenda/ai-hallucinations-are-still-around-1330)
-- [⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
-- [How Senior Developers Sabotage Interviews](https://dev.to/bybydev/how-senior-developers-sabotage-interviews-497n)
 <!-- BLOG-POST-LIST:END -->
 
