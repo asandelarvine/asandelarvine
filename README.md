@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v217](https://dev.to/thepracticaldev/welcome-thread-v217-232f)
+- [Anger, Laziness, and Healthy Productivity](https://dev.to/ingosteinke/anger-laziness-and-healthy-productivity-4ahe)
+- [Exploring the Power of Node.js for Real-time Communication and WebSockets](https://dev.to/folasayosamuel/exploring-the-power-of-nodejs-for-real-time-communication-and-websockets-555k)
 - [Reading Local Json Data With Next.js - part 5](https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le)
-- [Roadmap to help you break down a project before putting your hands into implementation](https://dev.to/evansifyke/roadmap-to-help-you-break-down-a-project-before-putting-your-hands-into-implementation-1p5h)
-- [7 Tips on the profession of UI/UX Design](https://dev.to/albericojr/7-tips-on-the-profession-of-uiux-design-3g1i)
-- [Top 5 React Admin Templates](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
 <!-- BLOG-POST-LIST:END -->
 
