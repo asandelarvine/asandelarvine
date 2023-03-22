@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading Local Json Data With Next.js - part 5](https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le)
+- [Roadmap to help you break down a project before putting your hands into implementation](https://dev.to/evansifyke/roadmap-to-help-you-break-down-a-project-before-putting-your-hands-into-implementation-1p5h)
 - [7 Tips on the profession of UI/UX Design](https://dev.to/albericojr/7-tips-on-the-profession-of-uiux-design-3g1i)
 - [Top 5 React Admin Templates](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
-- [Making sure our database queries are fast](https://dev.to/woovi/making-sure-our-database-queries-are-fast-2625)
-- [Create a Pull Request from Visual Studio Code](https://dev.to/this-is-learning/create-a-pull-request-from-visual-studio-code-18nh)
 <!-- BLOG-POST-LIST:END -->
 
