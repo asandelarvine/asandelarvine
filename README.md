@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 8 Preview 2 Unveiled: 5 New Features You Need to Know💜](https://dev.to/bytehide/net-8-preview-2-unveiled-5-new-features-you-need-to-know-2cof)
-- [Uncovering Hidden Gems: PostgreSQL Window Functions You May Not Know About](https://dev.to/asifroyal/uncovering-hidden-gems-postgresql-window-functions-you-may-not-know-about-1fbn)
-- [✨ 5 websites to get free programming e-book!](https://dev.to/thexdev/5-websites-to-get-free-programming-e-book-115g)
-- [useMemeffect](https://dev.to/golam_mostafa/usememeffect-1a9k)
+- [Create a Pull Request from Visual Studio Code](https://dev.to/this-is-learning/create-a-pull-request-from-visual-studio-code-18nh)
+- [SearQ: A RESTful search engine](https://dev.to/daviducolo/searq-a-restful-search-engine-2b58)
+- [EKS cluster Monitoring for AWS Fargate with Prometheus and managed Grafana](https://dev.to/monirul87/eks-cluster-monitoring-for-aws-fargate-with-prometheus-and-managed-grafana-1h2f)
+- [5 flutter projects you should build…seriously ⚙️](https://dev.to/patzi275/5-flutter-projects-you-should-buildseriously-ga)
 <!-- BLOG-POST-LIST:END -->
 
