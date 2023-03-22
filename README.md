@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive comparison of Web Apps, PWAs, SPAs, Hybrid Apps, and Native Apps](https://dev.to/toviszsolt/comprehensive-comparison-of-web-apps-pwas-spas-hybrid-apps-and-native-apps-3m03)
 - [O guia definitivo para hospedar uma SPA Angular/React com S3, Route 53 e CloudFront](https://dev.to/aws-builders/o-guia-definitivo-para-hospedar-uma-spa-angularreact-com-s3-route-53-e-cloudfront-232h)
 - [Semantic HTML](https://dev.to/nicvazquez/semantic-html-48kg)
 - [ส่อง Dockerfile for Go](https://dev.to/pallat/sng-dockerfile-for-go-2am4)
-- [100 Crucial Keyboard Shortcuts for VS Code Users.](https://dev.to/devland/100-crucial-keyboard-shortcuts-for-vs-code-users-4474)
 <!-- BLOG-POST-LIST:END -->
 
