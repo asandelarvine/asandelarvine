@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Tips on the profession of UI/UX Design](https://dev.to/albericojr/7-tips-on-the-profession-of-uiux-design-3g1i)
+- [Top 5 React Admin Templates](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
+- [Making sure our database queries are fast](https://dev.to/woovi/making-sure-our-database-queries-are-fast-2625)
 - [Create a Pull Request from Visual Studio Code](https://dev.to/this-is-learning/create-a-pull-request-from-visual-studio-code-18nh)
-- [SearQ: A RESTful search engine](https://dev.to/daviducolo/searq-a-restful-search-engine-2b58)
-- [EKS cluster Monitoring for AWS Fargate with Prometheus and managed Grafana](https://dev.to/monirul87/eks-cluster-monitoring-for-aws-fargate-with-prometheus-and-managed-grafana-1h2f)
-- [5 flutter projects you should build…seriously ⚙️](https://dev.to/patzi275/5-flutter-projects-you-should-buildseriously-ga)
 <!-- BLOG-POST-LIST:END -->
 
