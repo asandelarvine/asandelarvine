@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
+- [The Complete Path to Grokking the Engineering Manager Interview](https://dev.to/educative/the-complete-path-to-grokking-the-engineering-manager-interview-168i)
 - [I’m a software engineer, what does AI mean for me?](https://dev.to/justinschroeder/im-a-software-engineer-what-does-ai-mean-for-me-1e8j)
 - [Self managed Apache Airflow with Data on EKS](https://dev.to/aws/self-managed-apache-airflow-with-data-on-eks-4jc7)
-- [This Week In React #139: React.dev, Remix, Server Components, Error Boundary, Wakuwork, React-Native, Bottom Sheet...](https://dev.to/sebastienlorber/this-week-in-react-139-reactdev-remix-server-components-error-boundary-wakuwork-react-native-bottom-sheet-4i9h)
-- [Unlocking Web Accessibility: Tips for Developers](https://dev.to/highflyer910/unlocking-web-accessibility-tips-for-developers-d6l)
 <!-- BLOG-POST-LIST:END -->
 
