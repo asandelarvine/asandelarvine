@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Linux Using Open Source Real-Time Monitoring Tool HertzBeat](https://dev.to/tomsun28/monitoring-linux-using-open-source-real-time-monitoring-tool-hertzbeat-216i)
-- [Creating CSS masonry-style layouts](https://dev.to/logrocket/creating-css-masonry-style-layouts-50b7)
-- [Getting started with open source contribution](https://dev.to/prasmalla/getting-started-with-open-source-contribution-66k)
-- [Welcome Thread - v217](https://dev.to/thepracticaldev/welcome-thread-v217-232f)
+- [An introduciton to IoT](https://dev.to/aneshodza/an-introduciton-to-iot-3p61)
+- [How debugging for accessibility helped me finally understand useRef](https://dev.to/yuridevat/how-debugging-for-accessibility-helped-me-finally-understand-useref-2jmp)
+- [Finding strongly connected components &lpar;SCC&rpar; in directed graphs: Kosaraju-Sharir vs Tarjan’s algorithm in Go](https://dev.to/abaron10/finding-strongly-connected-components-scc-in-directed-graphs-kosaraju-sharir-vs-tarjans-algorithm-in-go-42pa)
+- [Creating a Notification System with Novu and SendGrid](https://dev.to/novu/creating-a-notification-system-with-novu-and-sendgrid-1311)
 <!-- BLOG-POST-LIST:END -->
 
