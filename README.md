@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [usState when to use?](https://dev.to/golam_mostafa/usstate-when-to-use-12gc)
+- [Learn How to Test Flask Applications with Pytest](https://dev.to/pavanbelagatti/learn-how-to-test-flask-applications-with-pytest-o25)
+- [Dockerize Your App: An Introduction to Docker](https://dev.to/larrylutw/dockerize-your-app-an-introduction-to-docker-324d)
 - [Zabbix 6.X LDAP Entegrasyonu](https://dev.to/aciklab/zabbix-6-ldap-entegrasyonu-gol)
-- [Comprehensive comparison of Web Apps, PWAs, SPAs, Hybrid Apps, and Native Apps](https://dev.to/toviszsolt/comprehensive-comparison-of-web-apps-pwas-spas-hybrid-apps-and-native-apps-3m03)
-- [CSS Display](https://dev.to/rutikkpatel/css-display-4hfg)
-- [O guia definitivo para hospedar uma SPA Angular/React com S3, Route 53 e CloudFront](https://dev.to/aws-builders/o-guia-definitivo-para-hospedar-uma-spa-angularreact-com-s3-route-53-e-cloudfront-232h)
 <!-- BLOG-POST-LIST:END -->
 
