@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Crucial Keyboard Shortcuts for VS Code Users.](https://dev.to/devland/100-crucial-keyboard-shortcuts-for-vs-code-users-4474)
+- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://dev.to/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
+- [Setting up Node.js Email Server with Nodemailer and Mailtrap](https://dev.to/desmondsanctity/setting-up-nodejs-email-server-with-nodemailer-and-mailtrap-404)
 - [Embedding Data Into React/JSX Elements](https://dev.to/bytebodger/embedding-data-into-reactjsx-elements-3jcp)
-- [Flattening Arrays with flat&lpar;&rpar; and flatMap&lpar;&rpar; in JavaScript](https://dev.to/lucasjstifano/flattening-arrays-with-flat-and-flatmap-in-javascript-omo)
-- [Semantic Search With Xata, OpenAI, TypeScript, and Deno](https://dev.to/xata/semantic-search-with-xata-openai-typescript-and-deno-31lb)
-- [Decentralized Databases: ComposeDB](https://dev.to/fllstck/decentralized-databases-composedb-49m3)
 <!-- BLOG-POST-LIST:END -->
 
