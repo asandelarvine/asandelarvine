@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Embedding Data Into React/JSX Elements](https://dev.to/bytebodger/embedding-data-into-reactjsx-elements-3jcp)
+- [Flattening Arrays with flat&lpar;&rpar; and flatMap&lpar;&rpar; in JavaScript](https://dev.to/lucasjstifano/flattening-arrays-with-flat-and-flatmap-in-javascript-omo)
 - [Semantic Search With Xata, OpenAI, TypeScript, and Deno](https://dev.to/xata/semantic-search-with-xata-openai-typescript-and-deno-31lb)
 - [Decentralized Databases: ComposeDB](https://dev.to/fllstck/decentralized-databases-composedb-49m3)
-- [#DEVDiscuss: The Future of AI](https://dev.to/devteam/devdiscuss-the-future-of-ai-45f2)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cpi)
 <!-- BLOG-POST-LIST:END -->
 
