@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [usState when to use?](https://dev.to/golam_mostafa/usstate-when-to-use-12gc)
-- [Learn How to Test Flask Applications with Pytest](https://dev.to/pavanbelagatti/learn-how-to-test-flask-applications-with-pytest-o25)
-- [Dockerize Your App: An Introduction to Docker](https://dev.to/larrylutw/dockerize-your-app-an-introduction-to-docker-324d)
-- [Zabbix 6.X LDAP Entegrasyonu](https://dev.to/aciklab/zabbix-6-ldap-entegrasyonu-gol)
+- [useMemeffect](https://dev.to/golam_mostafa/usememeffect-1a9k)
+- [What&#39;s the best stack for building web based AI applications?](https://dev.to/amyliumaiyi/whats-the-best-stack-for-building-web-based-ai-applications-506i)
+- [Efficiently Manage Your GraphQL API with API Gateway](https://dev.to/apisix/efficiently-manage-your-graphql-api-with-api-gateway-20p1)
+- [Hashmaps](https://dev.to/codeninjausman/hashmaps-4p7)
 <!-- BLOG-POST-LIST:END -->
 
