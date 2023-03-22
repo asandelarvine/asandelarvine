@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
+- [Rebuilding my Portfolio with Next, MDX, and Contentlayer](https://dev.to/emotionaldaffodil/rebuilding-my-portfolio-with-next-mdx-and-contentlayer-11jl)
+- [Exciting projects to build using Socket.IO Node.js Express](https://dev.to/blissfelix3/exciting-projects-to-build-using-socketio-nodejs-express-7mn)
 - [The Complete Path to Grokking the Engineering Manager Interview](https://dev.to/educative/the-complete-path-to-grokking-the-engineering-manager-interview-168i)
-- [I’m a software engineer, what does AI mean for me?](https://dev.to/justinschroeder/im-a-software-engineer-what-does-ai-mean-for-me-1e8j)
-- [Self managed Apache Airflow with Data on EKS](https://dev.to/aws/self-managed-apache-airflow-with-data-on-eks-4jc7)
 <!-- BLOG-POST-LIST:END -->
 
