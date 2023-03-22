@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O guia definitivo para hospedar uma SPA Angular/React com S3, Route 53 e CloudFront](https://dev.to/aws-builders/o-guia-definitivo-para-hospedar-uma-spa-angularreact-com-s3-route-53-e-cloudfront-232h)
+- [Semantic HTML](https://dev.to/nicvazquez/semantic-html-48kg)
 - [ส่อง Dockerfile for Go](https://dev.to/pallat/sng-dockerfile-for-go-2am4)
 - [100 Crucial Keyboard Shortcuts for VS Code Users.](https://dev.to/devland/100-crucial-keyboard-shortcuts-for-vs-code-users-4474)
-- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://dev.to/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
-- [Setting up Node.js Email Server with Nodemailer and Mailtrap](https://dev.to/desmondsanctity/setting-up-nodejs-email-server-with-nodemailer-and-mailtrap-404)
 <!-- BLOG-POST-LIST:END -->
 
