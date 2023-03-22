@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 8 Preview 2 Unveiled: 5 New Features You Need to Know💜](https://dev.to/bytehide/net-8-preview-2-unveiled-5-new-features-you-need-to-know-2cof)
+- [Uncovering Hidden Gems: PostgreSQL Window Functions You May Not Know About](https://dev.to/asifroyal/uncovering-hidden-gems-postgresql-window-functions-you-may-not-know-about-1fbn)
+- [✨ 5 websites to get free programming e-book!](https://dev.to/thexdev/5-websites-to-get-free-programming-e-book-115g)
 - [useMemeffect](https://dev.to/golam_mostafa/usememeffect-1a9k)
-- [What&#39;s the best stack for building web based AI applications?](https://dev.to/amyliumaiyi/whats-the-best-stack-for-building-web-based-ai-applications-506i)
-- [Efficiently Manage Your GraphQL API with API Gateway](https://dev.to/apisix/efficiently-manage-your-graphql-api-with-api-gateway-20p1)
-- [Hashmaps](https://dev.to/codeninjausman/hashmaps-4p7)
 <!-- BLOG-POST-LIST:END -->
 
