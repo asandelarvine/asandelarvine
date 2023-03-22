@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Linux Using Open Source Real-Time Monitoring Tool HertzBeat](https://dev.to/tomsun28/monitoring-linux-using-open-source-real-time-monitoring-tool-hertzbeat-216i)
+- [Creating CSS masonry-style layouts](https://dev.to/logrocket/creating-css-masonry-style-layouts-50b7)
+- [Getting started with open source contribution](https://dev.to/prasmalla/getting-started-with-open-source-contribution-66k)
 - [Welcome Thread - v217](https://dev.to/thepracticaldev/welcome-thread-v217-232f)
-- [Anger, Laziness, and Healthy Productivity](https://dev.to/ingosteinke/anger-laziness-and-healthy-productivity-4ahe)
-- [Exploring the Power of Node.js for Real-time Communication and WebSockets](https://dev.to/folasayosamuel/exploring-the-power-of-nodejs-for-real-time-communication-and-websockets-555k)
-- [Reading Local Json Data With Next.js - part 5](https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le)
 <!-- BLOG-POST-LIST:END -->
 
