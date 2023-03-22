@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m a software engineer, what does AI mean for me?](https://dev.to/justinschroeder/im-a-software-engineer-what-does-ai-mean-for-me-1e8j)
 - [Self managed Apache Airflow with Data on EKS](https://dev.to/aws/self-managed-apache-airflow-with-data-on-eks-4jc7)
 - [This Week In React #139: React.dev, Remix, Server Components, Error Boundary, Wakuwork, React-Native, Bottom Sheet...](https://dev.to/sebastienlorber/this-week-in-react-139-reactdev-remix-server-components-error-boundary-wakuwork-react-native-bottom-sheet-4i9h)
 - [Unlocking Web Accessibility: Tips for Developers](https://dev.to/highflyer910/unlocking-web-accessibility-tips-for-developers-d6l)
-- [How to Speed Up your Applications by Caching at the Edge with HarperDB](https://dev.to/doabledanny/how-to-speed-up-your-applications-by-caching-at-the-edge-with-harperdb-3o2l)
 <!-- BLOG-POST-LIST:END -->
 
