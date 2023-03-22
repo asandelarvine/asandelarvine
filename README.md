@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python One Line While Loop](https://dev.to/max24816/python-one-line-while-loop-4j2k)
+- [I&#39;m planning to build a new OS for embedded smart displays](https://dev.to/souviktests/im-planning-to-build-a-new-os-for-embedded-smart-displays-319e)
 - [An introduciton to IoT](https://dev.to/aneshodza/an-introduciton-to-iot-3p61)
 - [How debugging for accessibility helped me finally understand useRef](https://dev.to/yuridevat/how-debugging-for-accessibility-helped-me-finally-understand-useref-2jmp)
-- [Finding strongly connected components &lpar;SCC&rpar; in directed graphs: Kosaraju-Sharir vs Tarjan’s algorithm in Go](https://dev.to/abaron10/finding-strongly-connected-components-scc-in-directed-graphs-kosaraju-sharir-vs-tarjans-algorithm-in-go-42pa)
-- [Creating a Notification System with Novu and SendGrid](https://dev.to/novu/creating-a-notification-system-with-novu-and-sendgrid-1311)
 <!-- BLOG-POST-LIST:END -->
 
