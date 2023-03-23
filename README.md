@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfect UI library using Chat GPT](https://dev.to/shreyvijayvargiya/perfect-ui-library-using-chat-gpt-3ken)
-- [Effortless Language Redirection TYPO3 Extension](https://dev.to/visuellverstehen/effortless-language-redirection-typo3-extension-2514)
-- [mTLS everywhere!](https://dev.to/apisix/mtls-everywhere-1k94)
-- [10 Things to Consider While Android App Development!](https://dev.to/quokkalabs/10-things-to-consider-while-android-app-development-20g9)
+- [RaisedButton Deprecation and Migration Guide With An Example](https://dev.to/kuldeeptarapara/raisedbutton-deprecation-and-migration-guide-with-an-example-4ogo)
+- [I Created An Open-Source Portfolio Template For Developers Called WowFolio 🦄](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
+- [Debugging Multiple .NET Projects in VS Code](https://dev.to/this-is-learning/debugging-multiple-net-projects-in-vs-code-28kn)
+- [MutationObserver](https://dev.to/hasantezcan/mutationobserver-3f0p)
 <!-- BLOG-POST-LIST:END -->
 
