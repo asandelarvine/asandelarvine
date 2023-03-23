@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React: Lessons from the Trenches - useEffect x Infinity](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
-- [HasMany Through Relationship with example and Diagram.](https://dev.to/codeofaccuracy/hasmany-through-relationship-with-example-and-diagram-dh7)
-- [Tech Jargon For Junior Developers](https://dev.to/mikehtmlallthethings/tech-jargon-for-junior-developers-5f3p)
-- [Constant Doubts](https://dev.to/marleyspoon/constant-doubts-2gbm)
+- [Several ways to handle request side effect that you should know](https://dev.to/shandamengcheng/several-ways-to-handle-request-side-effect-that-you-should-know-4jgg)
+- [Documentation isn&#39;t Anti-Agile](https://dev.to/vetswhocode/documentation-isnt-anti-agile-2hbm)
+- [The Django Node.js Alternative](https://dev.to/amplication/the-django-nodejs-alternative-152)
+- [Build a Crypto Finder app in React.js](https://dev.to/bekbrace/build-a-crypto-finder-app-in-reactjs-2ei)
 <!-- BLOG-POST-LIST:END -->
 
