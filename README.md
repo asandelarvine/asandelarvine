@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rompiendo las barreras a la colaboración: Open Source y GitHub Codespaces](https://dev.to/github/rompiendo-las-barreras-a-la-colaboracion-open-source-y-github-codespaces-20di)
-- [The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
-- [Rebuilding my Portfolio with Next, MDX, and Contentlayer](https://dev.to/emotionaldaffodil/rebuilding-my-portfolio-with-next-mdx-and-contentlayer-11jl)
-- [The Power of Graph Databases: Unlocking the Potential of Connected Data](https://dev.to/m4rcxs/the-power-of-graph-databases-unlocking-the-potential-of-connected-data-39c)
+- [Build and host your own Calendy-like scheduling page using Next.js and Google APIs](https://dev.to/timfee/build-and-host-your-own-calendy-like-scheduling-page-using-nextjs-and-google-apis-5ack)
+- [An ETL Job using AWS Glue Studio to inner join DynamoDB tables, Apply Queries and Store the result in S3](https://dev.to/aws-builders/an-etl-job-using-aws-glue-studio-to-inner-join-dynamodb-tables-apply-queries-and-store-the-result-in-s3-5gb6)
+- [Basics of logging in ASP NET Core](https://dev.to/osempu/basics-of-logging-in-asp-net-core-345c)
+- [Git Merge: To Squash Or Fast-Forward?](https://dev.to/trpricesoftware/git-merge-to-squash-or-fast-forward-3791)
 <!-- BLOG-POST-LIST:END -->
 
