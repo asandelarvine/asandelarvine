@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A flexible nodejs crawler library — x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-50gl)
+- [What&#39;s New in ChatGPT-4? Explore New Features | Image Processing to Acing in Tests](https://dev.to/dhruvjoshi9/what-is-new-in-gpt-4-from-processing-images-to-acing-in-tests-4g59)
 - [RaisedButton Deprecation and Migration Guide With An Example](https://dev.to/kuldeeptarapara/raisedbutton-deprecation-and-migration-guide-with-an-example-4ogo)
-- [I Created An Open-Source Portfolio Template For Developers Called WowFolio 🦄](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
-- [Debugging Multiple .NET Projects in VS Code](https://dev.to/this-is-learning/debugging-multiple-net-projects-in-vs-code-28kn)
-- [MutationObserver](https://dev.to/hasantezcan/mutationobserver-3f0p)
+- [I Created An Open-Source Portfolio Website Template For Developers Called WowFolio 🦄](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
 <!-- BLOG-POST-LIST:END -->
 
