@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rompiendo las barreras a la colaboración: Open Source y GitHub Codespaces](https://dev.to/github/rompiendo-las-barreras-a-la-colaboracion-open-source-y-github-codespaces-20di)
 - [The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
 - [Rebuilding my Portfolio with Next, MDX, and Contentlayer](https://dev.to/emotionaldaffodil/rebuilding-my-portfolio-with-next-mdx-and-contentlayer-11jl)
-- [Exciting projects to build using Socket.IO Node.js Express](https://dev.to/blissfelix3/exciting-projects-to-build-using-socketio-nodejs-express-7mn)
-- [The Complete Path to Grokking the Engineering Manager Interview](https://dev.to/educative/the-complete-path-to-grokking-the-engineering-manager-interview-168i)
+- [The Power of Graph Databases: Unlocking the Potential of Connected Data](https://dev.to/m4rcxs/the-power-of-graph-databases-unlocking-the-potential-of-connected-data-39c)
 <!-- BLOG-POST-LIST:END -->
 
