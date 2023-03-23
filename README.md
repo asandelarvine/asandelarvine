@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s something you&#39;ve changed your mind about?](https://dev.to/isaacdlyman/whats-something-youve-changed-your-mind-about-589)
-- [LEIA-ME ou te devoro: Como escrever um bom README](https://dev.to/github/leia-me-ou-te-devoro-como-escrever-um-bom-readme-5hl4)
-- [The State of Public APIs 2023](https://dev.to/tristankalos/the-state-of-public-apis-2023-1m1f)
-- [The useEffect cleanup and the two circumstances it&#39;s called.](https://dev.to/bradwestfall/the-useeffect-cleanup-and-the-two-circumstances-its-called-1n80)
+- [The Web Developer&#39;s Weekly Digest: Created with Passion and Curated for You](https://dev.to/lotfijb/the-web-developers-weekly-digest-created-with-passion-and-curated-for-you-3h89)
+- [Mastering AWS Lambda Cost Optimization: 9 Essential Techniques to Maximize Savings](https://dev.to/aws-builders/mastering-aws-lambda-cost-optimization-9-essential-techniques-to-maximize-savings-38h6)
+- [Hosting Your Own Web Application: A Beginner&#39;s Guide with Nginx](https://dev.to/eunice_dev/hosting-your-own-web-application-a-beginners-guide-with-nginx-3135)
+- [Boosting Your Terminal Productivity: Shell GPT.](https://dev.to/sergeyleschev/boosting-your-terminal-productivity-shell-gpt-4f20)
 <!-- BLOG-POST-LIST:END -->
 
