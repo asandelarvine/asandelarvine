@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s something you&#39;ve changed your mind about?](https://dev.to/isaacdlyman/whats-something-youve-changed-your-mind-about-589)
+- [LEIA-ME ou te devoro: Como escrever um bom README](https://dev.to/github/leia-me-ou-te-devoro-como-escrever-um-bom-readme-5hl4)
 - [The State of Public APIs 2023](https://dev.to/tristankalos/the-state-of-public-apis-2023-1m1f)
 - [The useEffect cleanup and the two circumstances it&#39;s called.](https://dev.to/bradwestfall/the-useeffect-cleanup-and-the-two-circumstances-its-called-1n80)
-- [How to Use Memgraph With Python and Jupyter Notebooks](https://dev.to/memgraph/how-to-use-memgraph-with-python-and-jupyter-notebooks-4cc6)
-- [🧨 7 User Engagement Tools &lpar;how they help you to grow your business&rpar;](https://dev.to/shbz/7-user-engagementtools-how-they-help-youto-grow-your-business-337l)
 <!-- BLOG-POST-LIST:END -->
 
