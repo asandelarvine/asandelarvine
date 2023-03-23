@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Challenge #4 - Start the Singularity](https://dev.to/codenewbieteam/weekly-challenge-4-start-the-singularity-4mn8)
+- [Team Topologies: Organizing Business &amp; Technology Teams](https://dev.to/linearb/team-topologies-organizing-business-technology-teams-plb)
+- [How to amend changes to your pull request?](https://dev.to/rafsun42/how-to-amend-changes-to-your-pull-request-54fi)
 - [Introducing the CSS pattern generator for application backgrounds](https://dev.to/sanchezmarcosme/introducing-the-css-pattern-generator-for-application-backgrounds-178m)
-- [Getting Started with TypeScript](https://dev.to/ishanbagchi/getting-started-with-typescript-157c)
-- [Usando localStorage no NextJs](https://dev.to/andpeicunha/usando-localstorage-no-nextjs-1319)
-- [15 AWS Lambda Use Cases: Unleashing the Full Potential of Serverless Computing](https://dev.to/aws-builders/15-aws-lambda-use-cases-unleashing-the-full-potential-of-serverless-computing-dd)
 <!-- BLOG-POST-LIST:END -->
 
