@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Medusa vs. Magento: A Comparative Analysis](https://dev.to/eunit/medusa-vs-magento-a-comparative-analysis-40o)
+- [Top open-source OpenAI based tools for programmers](https://dev.to/disukharev/top-3-open-source-ai-tools-for-programmers-4oed)
+- [Google’s policy on target API level and LIAPP’s compatibility.](https://dev.to/teamliapp/googles-policy-on-target-api-level-and-liapps-compatibility-5h6h)
 - [How to Upload and return files in ASP.NET MVC?](https://dev.to/ifourtechnolab/how-to-upload-and-return-files-in-aspnet-mvc-13j2)
-- [Print&lpar;&rpar;funksiyasi haqida](https://dev.to/saidaim0001/printfunksiyasi-haqida-41n3)
-- [5 Hidden Gems in the Python Standard Library You Probably Don&#39;t Know About](https://dev.to/bhavin9920/5-hidden-gems-in-the-python-standard-library-you-probably-dont-know-about-4ii5)
-- [MySQL, PostgreSQL e MariaDB, qual o melhor para o seu uso?](https://dev.to/gabrielgcj/mysql-postgresql-e-mariadb-qual-o-melhor-para-o-seu-uso-3c3l)
 <!-- BLOG-POST-LIST:END -->
 
