@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Perfect UI library using Chat GPT](https://dev.to/shreyvijayvargiya/perfect-ui-library-using-chat-gpt-3ken)
+- [Effortless Language Redirection TYPO3 Extension](https://dev.to/visuellverstehen/effortless-language-redirection-typo3-extension-2514)
+- [mTLS everywhere!](https://dev.to/apisix/mtls-everywhere-1k94)
 - [Asset&lpar;Image/Video&rpar; Picker with javascript&lpar;react/nextjs&rpar; on button click](https://dev.to/babou360/assetimagevideo-picker-with-javascriptreactnextjs-on-button-click-1ol0)
-- [Adding keys to our DOM diffing algorithm](https://dev.to/joydeep23/adding-keys-our-dom-diffing-algorithm-4d7g)
-- [What Was Your First Job in the Tech Industry?](https://dev.to/codenewbieteam/what-was-your-first-job-in-the-tech-industry-208m)
-- [Medusa vs. Magento: A Comparative Analysis](https://dev.to/eunit/medusa-vs-magento-a-comparative-analysis-40o)
 <!-- BLOG-POST-LIST:END -->
 
