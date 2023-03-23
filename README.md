@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the CSS pattern generator for application backgrounds](https://dev.to/sanchezmarcosme/introducing-the-css-pattern-generator-for-application-backgrounds-178m)
 - [Getting Started with TypeScript](https://dev.to/ishanbagchi/getting-started-with-typescript-157c)
 - [Usando localStorage no NextJs](https://dev.to/andpeicunha/usando-localstorage-no-nextjs-1319)
-- [The Web Developer&#39;s Weekly Digest: Created with Passion and Curated for You](https://dev.to/lotfijb/the-web-developers-weekly-digest-created-with-passion-and-curated-for-you-3h89)
-- [Mastering AWS Lambda Cost Optimization: 9 Essential Techniques to Maximize Savings](https://dev.to/aws-builders/mastering-aws-lambda-cost-optimization-9-essential-techniques-to-maximize-savings-38h6)
+- [15 AWS Lambda Use Cases: Unleashing the Full Potential of Serverless Computing](https://dev.to/aws-builders/15-aws-lambda-use-cases-unleashing-the-full-potential-of-serverless-computing-dd)
 <!-- BLOG-POST-LIST:END -->
 
