@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Perfect UI library using Chat GPT](https://dev.to/shreyvijayvargiya/perfect-ui-library-using-chat-gpt-3ken)
 - [Effortless Language Redirection TYPO3 Extension](https://dev.to/visuellverstehen/effortless-language-redirection-typo3-extension-2514)
 - [mTLS everywhere!](https://dev.to/apisix/mtls-everywhere-1k94)
-- [Asset&lpar;Image/Video&rpar; Picker with javascript&lpar;react/nextjs&rpar; on button click](https://dev.to/babou360/assetimagevideo-picker-with-javascriptreactnextjs-on-button-click-1ol0)
+- [10 Things to Consider While Android App Development!](https://dev.to/quokkalabs/10-things-to-consider-while-android-app-development-20g9)
 <!-- BLOG-POST-LIST:END -->
 
