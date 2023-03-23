@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Several ways to handle request side effect that you should know](https://dev.to/shandamengcheng/several-ways-to-handle-request-side-effect-that-you-should-know-4jgg)
-- [Documentation isn&#39;t Anti-Agile](https://dev.to/vetswhocode/documentation-isnt-anti-agile-2hbm)
-- [The Django Node.js Alternative](https://dev.to/amplication/the-django-nodejs-alternative-152)
-- [Build a Crypto Finder app in React.js](https://dev.to/bekbrace/build-a-crypto-finder-app-in-reactjs-2ei)
+- [The State of Public APIs 2023](https://dev.to/tristankalos/the-state-of-public-apis-2023-1m1f)
+- [The useEffect cleanup and the two circumstances it&#39;s called.](https://dev.to/bradwestfall/the-useeffect-cleanup-and-the-two-circumstances-its-called-1n80)
+- [How to Use Memgraph With Python and Jupyter Notebooks](https://dev.to/memgraph/how-to-use-memgraph-with-python-and-jupyter-notebooks-4cc6)
+- [🧨 7 User Engagement Tools &lpar;how they help you to grow your business&rpar;](https://dev.to/shbz/7-user-engagementtools-how-they-help-youto-grow-your-business-337l)
 <!-- BLOG-POST-LIST:END -->
 
