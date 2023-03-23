@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Asset&lpar;Image/Video&rpar; Picker with javascript&lpar;react/nextjs&rpar; on button click](https://dev.to/babou360/assetimagevideo-picker-with-javascriptreactnextjs-on-button-click-1ol0)
+- [Adding keys to our DOM diffing algorithm](https://dev.to/joydeep23/adding-keys-our-dom-diffing-algorithm-4d7g)
+- [What Was Your First Job in the Tech Industry?](https://dev.to/codenewbieteam/what-was-your-first-job-in-the-tech-industry-208m)
 - [Medusa vs. Magento: A Comparative Analysis](https://dev.to/eunit/medusa-vs-magento-a-comparative-analysis-40o)
-- [Top open-source OpenAI based tools for programmers](https://dev.to/disukharev/top-3-open-source-ai-tools-for-programmers-4oed)
-- [Google’s policy on target API level and LIAPP’s compatibility.](https://dev.to/teamliapp/googles-policy-on-target-api-level-and-liapps-compatibility-5h6h)
-- [How to Upload and return files in ASP.NET MVC?](https://dev.to/ifourtechnolab/how-to-upload-and-return-files-in-aspnet-mvc-13j2)
 <!-- BLOG-POST-LIST:END -->
 
