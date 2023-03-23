@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Print&lpar;&rpar;funksiyasi haqida](https://dev.to/saidaim0001/printfunksiyasi-haqida-41n3)
+- [5 Hidden Gems in the Python Standard Library You Probably Don&#39;t Know About](https://dev.to/bhavin9920/5-hidden-gems-in-the-python-standard-library-you-probably-dont-know-about-4ii5)
 - [Build and host your own Calendy-like scheduling page using Next.js and Google APIs](https://dev.to/timfee/build-and-host-your-own-calendy-like-scheduling-page-using-nextjs-and-google-apis-5ack)
 - [An ETL Job using AWS Glue Studio to inner join DynamoDB tables, Apply Queries and Store the result in S3](https://dev.to/aws-builders/an-etl-job-using-aws-glue-studio-to-inner-join-dynamodb-tables-apply-queries-and-store-the-result-in-s3-5gb6)
-- [Basics of logging in ASP NET Core](https://dev.to/osempu/basics-of-logging-in-asp-net-core-345c)
-- [Git Merge: To Squash Or Fast-Forward?](https://dev.to/trpricesoftware/git-merge-to-squash-or-fast-forward-3791)
 <!-- BLOG-POST-LIST:END -->
 
