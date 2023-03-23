@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [React: Lessons from the Trenches - useEffect x Infinity](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
 - [HasMany Through Relationship with example and Diagram.](https://dev.to/codeofaccuracy/hasmany-through-relationship-with-example-and-diagram-dh7)
 - [Tech Jargon For Junior Developers](https://dev.to/mikehtmlallthethings/tech-jargon-for-junior-developers-5f3p)
-- [Mastering Blazor - Part 2: Hot Reloading](https://dev.to/florianrappl/mastering-blazor-part-2-hot-reloading-2b87)
+- [Constant Doubts](https://dev.to/marleyspoon/constant-doubts-2gbm)
 <!-- BLOG-POST-LIST:END -->
 
