@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 ChatGPT-4 Productivity Hacks: Unleash the Power of AI and Supercharge Your Software Engineering Workflow](https://dev.to/jimmymcbride/5-chatgpt-4-productivity-hacks-unleash-the-power-of-ai-and-supercharge-your-software-engineering-workflow-1fa3)
+- [How To Host Your Website For Free](https://dev.to/paulknulst/how-to-host-your-website-for-free-4944)
 - [A project management checklist that sets you up for success](https://dev.to/wednesdaysol/a-project-management-checklist-that-sets-you-up-for-success-a4h)
 - [Utility Types In Typescript](https://dev.to/kalashin1/utility-types-in-typescript-4nfo)
-- [Internal of RXDB: Plugins, Storages Adapters 🚀](https://dev.to/dhrn/internal-of-rxdb-plugins-storages-adapters-3bi3)
-- [Expose Your Currently Listening Song on Your Profile with Last.fm Profile Readme](https://dev.to/monochromish/expose-your-currently-listening-song-on-your-profile-with-lastfm-profile-readme-21oa)
 <!-- BLOG-POST-LIST:END -->
 
