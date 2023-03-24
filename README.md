@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Governments on GitHub](https://dev.to/szabgab/governments-on-github-52ee)
 - [Creating A Single Page Application Using Mustache and PHP](https://dev.to/thedevdrawer/creating-a-single-page-application-using-mustache-and-php-38ej)
 - [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
-- [Creating Cognito User with Auto-Incrementing ID](https://dev.to/aws-builders/creating-cognito-user-with-auto-incrementing-id-2bom)
-- [How to make good DX&lpar;Developer Experience&rpar;: Empathize](https://dev.to/zenstack/how-to-make-good-dxdeveloper-experience-empathize-4h9i)
+- [How to make a website in HTML/CSS](https://dev.to/azedeveloper/how-to-make-a-website-in-htmlcss-5bpc)
 <!-- BLOG-POST-LIST:END -->
 
