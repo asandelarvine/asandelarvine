@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Coursera Certificate Have Value?](https://dev.to/javinpaul/does-coursera-certificate-have-value-51ke)
-- [The Ultimate Guide to AWS Services for IoT Applications](https://dev.to/aws-builders/the-ultimate-guide-to-aws-services-for-iot-applications-4j9j)
-- [What We Learned About Leveling Up from Alice Goldfuss &lpar;CN Podcast: S23, E6&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-leveling-up-from-alice-goldfuss-cn-podcast-s23-e6-32l8)
-- [Updates from the 95th TC39 meeting](https://dev.to/hemanth/updates-from-the-95th-tc39-meeting-ne5)
+- [How to make a digital clock using JavaScript](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
+- [How to Effectively Read Code: Tips and Strategies](https://dev.to/bhavin9920/how-to-effectively-read-code-tips-and-strategies-1df5)
+- [Mastering AWS High Availability: A Comprehensive Guide for Optimizing Your Infrastructure](https://dev.to/aws-builders/mastering-aws-high-availability-a-comprehensive-guide-for-optimizing-your-infrastructure-1eok)
+- [The Definitive Guide to Top AWS Services: In-Depth Analysis and Use Cases](https://dev.to/aws-builders/the-definitive-guide-to-top-aws-services-in-depth-analysis-and-use-cases-2fm0)
 <!-- BLOG-POST-LIST:END -->
 
