@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity with These Top Free Notion Templates](https://dev.to/surajondev/boost-your-productivity-with-these-top-free-notion-templates-8e0)
+- [Dragons &amp; Demons: making your own blog website](https://dev.to/apetryla/dragons-demons-making-your-own-blog-website-8bc)
 - [Guarding Your AWS Credentials: Identifying Compromises and Mitigating Damage](https://dev.to/seeyouoncloud/guarding-your-aws-credentials-identifying-compromises-and-mitigating-damage-46kp)
 - [Understanding Containerization and Virtualization](https://dev.to/bytehide/understanding-containerization-and-virtualization-3nc3)
-- [Embedded Rust on BBC Micro Bit: unlocking Vec and HashMap](https://dev.to/cyrilmarpaud/embedded-rust-on-bbc-micro-bit-unlocking-vec-and-hashmap-2nm0)
-- [Docker Alternatives: On the Lookout for a Container Image Repository for OSS](https://dev.to/cast_ai/docker-alternatives-on-the-lookout-for-a-container-image-repository-for-oss-33ib)
 <!-- BLOG-POST-LIST:END -->
 
