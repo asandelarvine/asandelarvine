@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the most mind-blowing AI example you&#39;ve seen?](https://dev.to/brunoj/whats-the-most-mind-blowing-ai-example-youve-seen-1n4)
 - [Governments on GitHub](https://dev.to/szabgab/governments-on-github-52ee)
 - [Creating A Single Page Application Using Mustache and PHP](https://dev.to/thedevdrawer/creating-a-single-page-application-using-mustache-and-php-38ej)
 - [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
-- [How to make a website in HTML/CSS](https://dev.to/azedeveloper/how-to-make-a-website-in-htmlcss-5bpc)
 <!-- BLOG-POST-LIST:END -->
 
