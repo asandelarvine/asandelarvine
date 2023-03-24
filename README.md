@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Paracetamol.js💊| #209: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-209-explica-este-codigo-javascript-5hf1)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-44c6)
-- [5 ChatGPT-4 Productivity Hacks: Unleash the Power of AI and Supercharge Your Software Engineering Workflow](https://dev.to/jimmymcbride/5-chatgpt-4-productivity-hacks-unleash-the-power-of-ai-and-supercharge-your-software-engineering-workflow-1fa3)
-- [How To Host Your Website For Free](https://dev.to/paulknulst/how-to-host-your-website-for-free-4944)
+- [What is strict mode in React?](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)
+- [GitHub repositories for TypeScript enthusiasts](https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg)
+- [What to choose: C vs C++?](https://dev.to/swordheath/what-to-choose-c-vs-c-1j8e)
+- [Introduction to Stencil.js](https://dev.to/precious654/introduction-to-stenciljs-4e63)
 <!-- BLOG-POST-LIST:END -->
 
