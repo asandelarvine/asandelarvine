@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What We Learned About Leveling Up from Alice Goldfuss &lpar;CN Podcast: S23, E6&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-leveling-up-from-alice-goldfuss-cn-podcast-s23-e6-32l8)
+- [Updates from the 95th TC39 meeting](https://dev.to/hemanth/updates-from-the-95th-tc39-meeting-ne5)
 - [Weekly Challenge #4 - Start the Singularity](https://dev.to/codenewbieteam/weekly-challenge-4-start-the-singularity-4mn8)
 - [Team Topologies: Organizing Business &amp; Technology Teams](https://dev.to/linearb/team-topologies-organizing-business-technology-teams-plb)
-- [How to amend changes to your pull request?](https://dev.to/rafsun42/how-to-amend-changes-to-your-pull-request-54fi)
-- [Introducing the CSS pattern generator for application backgrounds](https://dev.to/sanchezmarcosme/introducing-the-css-pattern-generator-for-application-backgrounds-178m)
 <!-- BLOG-POST-LIST:END -->
 
