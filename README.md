@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Augmented Reality &lpar;AR&rpar; and Virtual Reality &lpar;VR&rpar;](https://dev.to/abhixsh/augmented-reality-ar-and-virtual-reality-vr-73k)
 - [AWS Certified DevOps Engineer Professional: Content Summary and Important Notes](https://dev.to/aws-builders/aws-certified-devops-engineer-professional-content-summary-and-important-notes-3mpn)
 - [How Do You Prioritize UX in Software Development?](https://dev.to/codenewbieteam/how-do-you-prioritize-ux-in-software-development-ac7)
 - [Elder Millennial tries to get an actual career.](https://dev.to/magdesantis/elder-millennial-tries-to-get-an-actual-career-4c82)
-- [AVL Tree](https://dev.to/codeninjausman/avl-tree-46o2)
 <!-- BLOG-POST-LIST:END -->
 
