@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Certified DevOps Engineer Professional: Content Summary and Important Notes](https://dev.to/aws-builders/aws-certified-devops-engineer-professional-content-summary-and-important-notes-3mpn)
 - [How Do You Prioritize UX in Software Development?](https://dev.to/codenewbieteam/how-do-you-prioritize-ux-in-software-development-ac7)
+- [Elder Millennial tries to get an actual career.](https://dev.to/magdesantis/elder-millennial-tries-to-get-an-actual-career-4c82)
 - [AVL Tree](https://dev.to/codeninjausman/avl-tree-46o2)
-- [How to make a digital clock using JavaScript](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
-- [How to Effectively Read Code: Tips and Strategies](https://dev.to/bhavin9920/how-to-effectively-read-code-tips-and-strategies-1df5)
 <!-- BLOG-POST-LIST:END -->
 
