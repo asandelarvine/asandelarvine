@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is strict mode in React?](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)
+- [Sequential GUIDs in Entity Framework Core Might Not Be Sequential](https://dev.to/connerphillis/sequential-guids-in-entity-framework-core-might-not-be-sequential-3408)
+- [🪐Create Planets with pure CSS 🌍 - rohitcodes](https://dev.to/rohitcodes/earth-with-pure-css-rohitcodes-laa)
+- [What is Strict Mode in React?](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)
 - [GitHub repositories for TypeScript enthusiasts](https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg)
-- [What to choose: C vs C++?](https://dev.to/swordheath/what-to-choose-c-vs-c-1j8e)
-- [Introduction to Stencil.js](https://dev.to/precious654/introduction-to-stenciljs-4e63)
 <!-- BLOG-POST-LIST:END -->
 
