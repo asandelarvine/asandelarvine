@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Coursera Certificate Have Value?](https://dev.to/javinpaul/does-coursera-certificate-have-value-51ke)
 - [What We Learned About Leveling Up from Alice Goldfuss &lpar;CN Podcast: S23, E6&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-leveling-up-from-alice-goldfuss-cn-podcast-s23-e6-32l8)
 - [Updates from the 95th TC39 meeting](https://dev.to/hemanth/updates-from-the-95th-tc39-meeting-ne5)
 - [What is Dynamic Programming?](https://dev.to/hugos/what-is-dynamic-programming-16f7)
-- [Complete Reactjs Tutorial for Beginners: Step-by-step Guide &lpar;Part 1&rpar;](https://dev.to/stephengade/complete-reactjs-tutorial-for-beginners-step-by-step-guide-part-1-3ihl)
 <!-- BLOG-POST-LIST:END -->
 
