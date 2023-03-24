@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating A Single Page Application Using Mustache and PHP](https://dev.to/thedevdrawer/creating-a-single-page-application-using-mustache-and-php-38ej)
+- [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
+- [Creating Cognito User with Auto-Incrementing ID](https://dev.to/aws-builders/creating-cognito-user-with-auto-incrementing-id-2bom)
 - [How to make good DX&lpar;Developer Experience&rpar;: Empathize](https://dev.to/zenstack/how-to-make-good-dxdeveloper-experience-empathize-4h9i)
-- [The Magical World of Mid Journey](https://dev.to/alvisonhunter/mid-journey-46mi)
-- [Troubleshooting Timezone Issues in PostgreSQL with DBeaver](https://dev.to/filbraga/troubleshooting-timezone-issues-in-postgresql-with-dbeaver-2lc6)
-- [Understanding Libraries, Interfaces, and Abstract Contracts in Solidity](https://dev.to/shlok2740/understanding-libraries-interfaces-and-abstract-contracts-in-solidity-14nn)
 <!-- BLOG-POST-LIST:END -->
 
