@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequential GUIDs in Entity Framework Core Might Not Be Sequential](https://dev.to/connerphillis/sequential-guids-in-entity-framework-core-might-not-be-sequential-3408)
-- [🪐Create Planets with pure CSS 🌍 - rohitcodes](https://dev.to/rohitcodes/earth-with-pure-css-rohitcodes-laa)
-- [What is Strict Mode in React?](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)
-- [GitHub repositories for TypeScript enthusiasts](https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg)
+- [The Magical World of Mid Journey](https://dev.to/alvisonhunter/mid-journey-46mi)
+- [Troubleshooting Timezone Issues in PostgreSQL with DBeaver](https://dev.to/filbraga/troubleshooting-timezone-issues-in-postgresql-with-dbeaver-2lc6)
+- [Understanding Libraries, Interfaces, and Abstract Contracts in Solidity](https://dev.to/shlok2740/understanding-libraries-interfaces-and-abstract-contracts-in-solidity-14nn)
+- [DevRelCon Yokohama 2023](https://dev.to/haimantika/devrelcon-yokohama-2023-12nh)
 <!-- BLOG-POST-LIST:END -->
 
