@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmented Reality &lpar;AR&rpar; and Virtual Reality &lpar;VR&rpar;](https://dev.to/abhixsh/augmented-reality-ar-and-virtual-reality-vr-73k)
-- [AWS Certified DevOps Engineer Professional: Content Summary and Important Notes](https://dev.to/aws-builders/aws-certified-devops-engineer-professional-content-summary-and-important-notes-3mpn)
-- [How Do You Prioritize UX in Software Development?](https://dev.to/codenewbieteam/how-do-you-prioritize-ux-in-software-development-ac7)
-- [Elder Millennial tries to get an actual career.](https://dev.to/magdesantis/elder-millennial-tries-to-get-an-actual-career-4c82)
+- [Understanding Containerization and Virtualization](https://dev.to/bytehide/understanding-containerization-and-virtualization-3nc3)
+- [Docker Alternatives: On the Lookout for a Container Image Repository for OSS](https://dev.to/cast_ai/docker-alternatives-on-the-lookout-for-a-container-image-repository-for-oss-33ib)
+- [If , else , else if .](https://dev.to/shoxjaxon2008/if-else-else-if--hfn)
+- [BreathOfLife: How a Serverless App Built on AWS Helped Meet Critical Covid-19 Needs](https://dev.to/aws-builders/breathoflife-how-a-serverless-app-built-on-aws-helped-meet-critical-covid-19-needs-2l73)
 <!-- BLOG-POST-LIST:END -->
 
