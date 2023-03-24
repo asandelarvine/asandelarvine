@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Prioritize UX in Software Development?](https://dev.to/codenewbieteam/how-do-you-prioritize-ux-in-software-development-ac7)
 - [AVL Tree](https://dev.to/codeninjausman/avl-tree-46o2)
 - [How to make a digital clock using JavaScript](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
 - [How to Effectively Read Code: Tips and Strategies](https://dev.to/bhavin9920/how-to-effectively-read-code-tips-and-strategies-1df5)
-- [Mastering AWS High Availability: A Comprehensive Guide for Optimizing Your Infrastructure](https://dev.to/aws-builders/mastering-aws-high-availability-a-comprehensive-guide-for-optimizing-your-infrastructure-1eok)
 <!-- BLOG-POST-LIST:END -->
 
