@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I asked GPT-4 to build a Shopify app. In an hour. And it did.](https://dev.to/ralfelfving/i-asked-gpt-4-to-build-a-shopify-app-in-an-hour-and-it-did-3gd6)
 - [Scope in JavaScript](https://dev.to/makstyle119/scope-in-javascript-4b9n)
-- [Terms used in Reinforcement Leaning](https://dev.to/anurag629/terms-used-in-reinforcement-leaning-56lo)
-- [Sentiment Analysis](https://dev.to/mburu_elvis/sentiment-analysis-548)
-- [12- Map Printing with PyQGIS](https://dev.to/azad77/12-map-printing-with-pyqgis-4hpe)
+- [Step Functions from a different angle](https://dev.to/aws-builders/step-functions-from-a-different-angle-3oll)
+- [Software Project Checklist](https://dev.to/hixdev/software-project-checklist-4chb)
 <!-- BLOG-POST-LIST:END -->
 
