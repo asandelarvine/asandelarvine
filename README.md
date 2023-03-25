@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Community Day Hyderabad 2023 | Experience with Vivek](https://dev.to/aws-heroes/aws-community-day-hyderabad-2023-experience-with-vivek-3j43)
+- [Going from JS to TS](https://dev.to/mgaroz/going-from-js-to-ts-15ik)
 - [Step by step: Build your first AWS Amplify and React App](https://dev.to/aws-builders/step-by-step-build-your-first-aws-amplify-and-react-app-1agn)
 - [Should I Choose Tailwind or Vanilla CSS?](https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl)
-- [What is Kotlin Reified Type Parameter?](https://dev.to/vtsen/what-is-kotlin-reified-type-parameter-17d7)
-- [What&#39;s the most mind-blowing AI example you&#39;ve seen?](https://dev.to/brunoj/whats-the-most-mind-blowing-ai-example-youve-seen-1n4)
 <!-- BLOG-POST-LIST:END -->
 
