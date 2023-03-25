@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Step by step: Build your first AWS Amplify and React App](https://dev.to/aws-builders/step-by-step-build-your-first-aws-amplify-and-react-app-1agn)
 - [Should I Choose Tailwind or Vanilla CSS?](https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl)
 - [What is Kotlin Reified Type Parameter?](https://dev.to/vtsen/what-is-kotlin-reified-type-parameter-17d7)
 - [What&#39;s the most mind-blowing AI example you&#39;ve seen?](https://dev.to/brunoj/whats-the-most-mind-blowing-ai-example-youve-seen-1n4)
-- [Governments on GitHub](https://dev.to/szabgab/governments-on-github-52ee)
 <!-- BLOG-POST-LIST:END -->
 
