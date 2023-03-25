@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Chrome DevTools to debug your webpage — intro for beginners](https://dev.to/this-is-learning/how-to-use-chrome-devtools-to-debug-your-webpage-intro-for-beginners-b3g)
+- [💲 Build your resume and get paid](https://dev.to/acidop/build-your-resume-and-get-paid-2imf)
+- [Understanding React Context: A Comprehensive Tutorial for Beginners](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
 - [Python dictionary append](https://dev.to/max24816/python-dictionary-append-1an7)
-- [I asked GPT-4 to build a Shopify app. In an hour. And it did.](https://dev.to/ralfelfving/i-asked-gpt-4-to-build-a-shopify-app-in-an-hour-and-it-did-3gd6)
-- [Scope in JavaScript](https://dev.to/makstyle119/scope-in-javascript-4b9n)
-- [Step Functions from a different angle](https://dev.to/aws-builders/step-functions-from-a-different-angle-3oll)
 <!-- BLOG-POST-LIST:END -->
 
