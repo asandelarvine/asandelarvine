@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React App for beginners+: Crypto Finder SPA](https://dev.to/bekbrace/react-app-for-beginners-crypto-finder-spa-3362)
+- [Structure Query Language](https://dev.to/zapeeosheikh/structure-query-language-504a)
 - [Stop Wishing for TypeScript and Start Using JSDocScript in your Vanilla JS!](https://dev.to/noriller/stop-wishing-for-typescript-and-start-using-jsdocscript-in-your-vanilla-js-1319)
-- [How to use Chrome DevTools to debug HTML/CSS on your webpage — intro for beginners](https://dev.to/this-is-learning/how-to-use-chrome-devtools-to-debug-your-webpage-intro-for-beginners-b3g)
-- [💲 Build your resume and get paid](https://dev.to/acidop/build-your-resume-and-get-paid-2imf)
-- [Understanding React Context: A Comprehensive Tutorial for Beginners](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
+- [cpulimit annoyed me so I improved it](https://dev.to/drhyde/cpulimit-annoyed-me-so-i-improved-it-5c4n)
 <!-- BLOG-POST-LIST:END -->
 
