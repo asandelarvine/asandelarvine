@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Postman for API testing](https://dev.to/terieyenike/how-to-use-postman-for-api-testing-10cl)
 - [Maximizing Your Flutter App&#39;s Performance with &lpar;Async&rpar;NotifierProvider, Freezed &amp; Riverpod Code Generators](https://dev.to/nikki_eke/maximizing-your-flutter-apps-performance-with-asyncnotifierprovider-freezed-riverpod-code-generators-1af1)
+- [Package React Applications using Docker](https://dev.to/imvedanshmehra/package-react-applications-using-docker-47dk)
 - [Variables and Constants: Declaration and Usage](https://dev.to/avinashtechlvr/variables-and-constants-declaration-and-usage-4ica)
-- [Fast Reads Unleashed: Performance Analysis of AWS GraphQL, DynamoDB, and Redis Cache](https://dev.to/manojlingala/fast-reads-unleashed-performance-analysis-of-aws-graphql-dynamodb-and-redis-cache-1i5a)
-- [My last project I launched on Dev.to got acquired. Here&#39;s a new one](https://dev.to/fayaz/my-last-project-i-launched-on-devto-got-acquired-heres-a-new-one-5158)
 <!-- BLOG-POST-LIST:END -->
 
