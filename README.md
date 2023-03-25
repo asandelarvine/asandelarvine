@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast Reads Unleashed: Performance Analysis of AWS GraphQL, DynamoDB, and Redis Cache](https://dev.to/manojlingala/fast-reads-unleashed-performance-analysis-of-aws-graphql-dynamodb-and-redis-cache-1i5a)
+- [My last project I launched on Dev.to got acquired. Here&#39;s a new one](https://dev.to/fayaz/my-last-project-i-launched-on-devto-got-acquired-heres-a-new-one-5158)
+- [Create blob object &lpar;Git&rpar;](https://dev.to/nopenoshishi/create-blob-object-git-1eje)
 - [Top 20 VS Code Extensions for programmers](https://dev.to/hy_piyush/top-20-vs-code-extensions-for-programmers-2h5d)
-- [AWS Community Day Hyderabad 2023 | Experience with Vivek](https://dev.to/aws-heroes/aws-community-day-hyderabad-2023-experience-with-vivek-3j43)
-- [Going from JS to TS](https://dev.to/mgaroz/going-from-js-to-ts-15ik)
-- [Step by step: Build your first AWS Amplify and React App](https://dev.to/aws-builders/step-by-step-build-your-first-aws-amplify-and-react-app-1agn)
 <!-- BLOG-POST-LIST:END -->
 
