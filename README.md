@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Postman for API testing](https://dev.to/terieyenike/how-to-use-postman-for-api-testing-10cl)
-- [Maximizing Your Flutter App&#39;s Performance with &lpar;Async&rpar;NotifierProvider, Freezed &amp; Riverpod Code Generators](https://dev.to/nikki_eke/maximizing-your-flutter-apps-performance-with-asyncnotifierprovider-freezed-riverpod-code-generators-1af1)
-- [Package React Applications using Docker](https://dev.to/imvedanshmehra/package-react-applications-using-docker-47dk)
-- [Variables and Constants: Declaration and Usage](https://dev.to/avinashtechlvr/variables-and-constants-declaration-and-usage-4ica)
+- [Sentiment Analysis](https://dev.to/mburu_elvis/sentiment-analysis-548)
+- [12- Map Printing with PyQGIS](https://dev.to/azad77/12-map-printing-with-pyqgis-4hpe)
+- [Seaborn - Unlock the Power of Data Visualization](https://dev.to/debjotyms/seaborn-unlock-the-power-of-data-visualization-2lk7)
+- [Indexing In MySQL](https://dev.to/codeofaccuracy/indexing-in-mysql-29e7)
 <!-- BLOG-POST-LIST:END -->
 
