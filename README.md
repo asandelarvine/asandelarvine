@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Integration, Delivery, and Deployment: Best Practises, Benefits, and Tools](https://dev.to/ezinne_anne/continuous-integration-delivery-and-deployment-best-practises-benefits-and-tools-40ac)
+- [What It Was Like To Code For Amazon &lpar;Part 1&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-1-5034)
 - [React App for beginners+: Crypto Finder SPA](https://dev.to/bekbrace/react-app-for-beginners-crypto-finder-spa-3362)
 - [Structure Query Language](https://dev.to/zapeeosheikh/structure-query-language-504a)
-- [Stop Wishing for TypeScript and Start Using JSDocScript in your Vanilla JS!](https://dev.to/noriller/stop-wishing-for-typescript-and-start-using-jsdocscript-in-your-vanilla-js-1319)
-- [cpulimit annoyed me so I improved it](https://dev.to/drhyde/cpulimit-annoyed-me-so-i-improved-it-5c4n)
 <!-- BLOG-POST-LIST:END -->
 
