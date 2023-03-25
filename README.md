@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scope in JavaScript](https://dev.to/makstyle119/scope-in-javascript-4b9n)
 - [Terms used in Reinforcement Leaning](https://dev.to/anurag629/terms-used-in-reinforcement-leaning-56lo)
 - [Sentiment Analysis](https://dev.to/mburu_elvis/sentiment-analysis-548)
 - [12- Map Printing with PyQGIS](https://dev.to/azad77/12-map-printing-with-pyqgis-4hpe)
-- [Seaborn - Unlock the Power of Data Visualization](https://dev.to/debjotyms/seaborn-unlock-the-power-of-data-visualization-2lk7)
 <!-- BLOG-POST-LIST:END -->
 
