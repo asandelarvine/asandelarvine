@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python dictionary append](https://dev.to/max24816/python-dictionary-append-1an7)
 - [I asked GPT-4 to build a Shopify app. In an hour. And it did.](https://dev.to/ralfelfving/i-asked-gpt-4-to-build-a-shopify-app-in-an-hour-and-it-did-3gd6)
 - [Scope in JavaScript](https://dev.to/makstyle119/scope-in-javascript-4b9n)
 - [Step Functions from a different angle](https://dev.to/aws-builders/step-functions-from-a-different-angle-3oll)
-- [Software Project Checklist](https://dev.to/hixdev/software-project-checklist-4chb)
 <!-- BLOG-POST-LIST:END -->
 
