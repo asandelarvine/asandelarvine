@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Your Flutter App&#39;s Performance with &lpar;Async&rpar;NotifierProvider, Freezed &amp; Riverpod Code Generators](https://dev.to/nikki_eke/maximizing-your-flutter-apps-performance-with-asyncnotifierprovider-freezed-riverpod-code-generators-1af1)
+- [Variables and Constants: Declaration and Usage](https://dev.to/avinashtechlvr/variables-and-constants-declaration-and-usage-4ica)
 - [Fast Reads Unleashed: Performance Analysis of AWS GraphQL, DynamoDB, and Redis Cache](https://dev.to/manojlingala/fast-reads-unleashed-performance-analysis-of-aws-graphql-dynamodb-and-redis-cache-1i5a)
 - [My last project I launched on Dev.to got acquired. Here&#39;s a new one](https://dev.to/fayaz/my-last-project-i-launched-on-devto-got-acquired-heres-a-new-one-5158)
-- [Create blob object &lpar;Git&rpar;](https://dev.to/nopenoshishi/create-blob-object-git-1eje)
-- [Top 20 VS Code Extensions for programmers](https://dev.to/hy_piyush/top-20-vs-code-extensions-for-programmers-2h5d)
 <!-- BLOG-POST-LIST:END -->
 
