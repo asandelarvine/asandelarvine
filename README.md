@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 20 VS Code Extensions for programmers](https://dev.to/hy_piyush/top-20-vs-code-extensions-for-programmers-2h5d)
 - [AWS Community Day Hyderabad 2023 | Experience with Vivek](https://dev.to/aws-heroes/aws-community-day-hyderabad-2023-experience-with-vivek-3j43)
 - [Going from JS to TS](https://dev.to/mgaroz/going-from-js-to-ts-15ik)
 - [Step by step: Build your first AWS Amplify and React App](https://dev.to/aws-builders/step-by-step-build-your-first-aws-amplify-and-react-app-1agn)
-- [Should I Choose Tailwind or Vanilla CSS?](https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl)
 <!-- BLOG-POST-LIST:END -->
 
