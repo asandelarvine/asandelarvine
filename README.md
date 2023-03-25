@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Chrome DevTools to debug your webpage — intro for beginners](https://dev.to/this-is-learning/how-to-use-chrome-devtools-to-debug-your-webpage-intro-for-beginners-b3g)
+- [How to use Chrome DevTools to debug HTML/CSS on your webpage — intro for beginners](https://dev.to/this-is-learning/how-to-use-chrome-devtools-to-debug-your-webpage-intro-for-beginners-b3g)
 - [💲 Build your resume and get paid](https://dev.to/acidop/build-your-resume-and-get-paid-2imf)
 - [Understanding React Context: A Comprehensive Tutorial for Beginners](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
 - [Python dictionary append](https://dev.to/max24816/python-dictionary-append-1an7)
