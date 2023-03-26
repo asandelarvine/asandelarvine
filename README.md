@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What It Was Like To Code For Amazon &lpar;Part 2&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-2-5aon)
+- [Como realizar o deploy de uma aplicação ASP.NET no Heroku [PT-BR]](https://dev.to/andredarcie/como-realizar-o-deploy-de-uma-aplicacao-aspnet-no-heroku-pt-br-5cd7)
 - [Angular Universal is the Problem, not Angular](https://dev.to/jdgamble555/angular-universal-is-the-problem-not-angular-5801)
 - [Session 1. How I created a team and established the first intro meeting to contribute to Open Source.](https://dev.to/yasia_n/session-1-how-i-created-a-team-and-established-first-intro-meeting-to-contribute-in-open-source-l9o)
-- [JavaScript Module Bundlers and all that Jazz ✨](https://dev.to/harshitakanal/javascript-module-bundlers-and-all-that-jazz-3hbi)
-- [Yet Another Newsletter LOL: Cache](https://dev.to/nickytonline/yet-another-newsletter-lol-cache-5e21)
 <!-- BLOG-POST-LIST:END -->
 
