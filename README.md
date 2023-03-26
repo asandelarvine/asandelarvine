@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A story of let, const, object mutation, and a bug in my code](https://dev.to/this-is-learning/a-story-of-let-const-object-mutation-and-a-bug-in-my-code-1del)
 - [Python Time Module | Useful Functions | How to Use? | Applications in Real Models | 2 Real World Programs](https://dev.to/koustav/python-time-module-useful-functions-how-to-use-applications-in-real-models-2-real-world-programs-156n)
 - [Got Any Podcast Recs? We Do!](https://dev.to/codenewbieteam/10-great-tech-related-podcasts-152d)
 - [Migrating From Django to Next.js: What’s the Equivalent for Django-Guardian?](https://dev.to/zenstack/migrating-from-django-to-nextjs-whats-the-equivalent-for-django-guardian-3pk2)
-- [TypeScript CRUD Rest API, using: Nest.js, TypeORM, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al)
 <!-- BLOG-POST-LIST:END -->
 
