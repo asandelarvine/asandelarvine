@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Module Bundlers and all that Jazz ✨](https://dev.to/harshitakanal/javascript-module-bundlers-and-all-that-jazz-3hbi)
+- [Yet Another Newsletter LOL: Cache](https://dev.to/nickytonline/yet-another-newsletter-lol-cache-5e21)
 - [Give Your DRY Tests a WET Touch](https://dev.to/perssondennis/give-your-dry-tests-a-wet-touch-4mmb)
 - [Trying out the app directory in Next.js](https://dev.to/ivanms1/trying-out-the-app-folder-in-nextjs-1nep)
-- [Master Python Documentation - Part1: Using the Python Interpreter.](https://dev.to/fayomihorace/master-python-documentation-part1-using-the-python-interpreter-11ec)
-- [Recommendation Algorithms And System Designs Of Dropbox, Spotify, Airbnb, YouTube, Netflix And Uber](https://dev.to/faijanofficial/recommendation-algorithms-and-system-designs-of-dropbox-spotify-airbnb-youtube-netflix-and-uber-10bf)
 <!-- BLOG-POST-LIST:END -->
 
