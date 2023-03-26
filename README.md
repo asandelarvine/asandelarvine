@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript in 100 Days: A Structured Plan for Proficiency](https://dev.to/abhixsh/mastering-javascript-in-100-days-a-structured-plan-for-proficiency-1jbo)
 - [Supercharge Your Python: 5 Tips for Boosting Performance](https://dev.to/yaw595/supercharge-your-python-5-tips-for-boosting-performance-fpa)
 - [From Problems to Solutions: Understanding Design Patterns](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)
 - [Deploy React.js application on Render](https://dev.to/ahmed0saber/deploy-reactjs-application-on-render-2dca)
-- [How to gain experience without work ?](https://dev.to/ahmed0saber/how-to-gain-experience-without-work--1624)
 <!-- BLOG-POST-LIST:END -->
 
