@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Give Your DRY Tests a WET Touch](https://dev.to/perssondennis/give-your-dry-tests-a-wet-touch-4mmb)
+- [Trying out the app directory in Next.js](https://dev.to/ivanms1/trying-out-the-app-folder-in-nextjs-1nep)
 - [Master Python Documentation - Part1: Using the Python Interpreter.](https://dev.to/fayomihorace/master-python-documentation-part1-using-the-python-interpreter-11ec)
-- [How To Optimize Your React App’s Performance](https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045)
-- [The Feynman Technique: Learn Quickly](https://dev.to/alexhyettdev/the-feynman-technique-learn-quickly-2f80)
-- [About Me](https://dev.to/ij03l/about-me-2i5j)
+- [Recommendation Algorithms And System Designs Of Dropbox, Spotify, Airbnb, YouTube, Netflix And Uber](https://dev.to/faijanofficial/recommendation-algorithms-and-system-designs-of-dropbox-spotify-airbnb-youtube-netflix-and-uber-10bf)
 <!-- BLOG-POST-LIST:END -->
 
