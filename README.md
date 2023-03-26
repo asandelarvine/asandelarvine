@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Interrupted&#39;s Best Programmer Humor](https://dev.to/linearb/dev-interrupteds-best-programmer-humor-36ck)
+- [Provisioning Infrastructure with Ansible](https://dev.to/xlmriosx/provisioning-infrastructure-with-ansible-41i4)
 - [How to prevent data loss when a Postgres container is killed or shut down.](https://dev.to/ndohjapan/how-to-prevent-data-loss-when-a-postgres-container-is-killed-or-shut-down-p8d)
-- [How to implement undo in your apps](https://dev.to/tahazsh/how-to-implement-undo-in-your-apps-59je)
-- [What It Was Like To Code For Amazon &lpar;Part 2&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-2-5aon)
-- [Integrate computer vision with flutter &lpar;using Google Teachable&rpar;](https://dev.to/tedtecch/integrate-computer-vision-with-into-flutter-app-using-google-teachable-fn4)
+- [Como algoritmos melhoram a performance do seu código](https://dev.to/antiduhring/como-algoritmos-melhoram-a-performance-do-seu-codigo-31mn)
 <!-- BLOG-POST-LIST:END -->
 
