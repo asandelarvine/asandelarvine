@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to prevent data loss when a Postgres container is killed or shut down.](https://dev.to/ndohjapan/how-to-prevent-data-loss-when-a-postgres-container-is-killed-or-shut-down-p8d)
 - [How to implement undo in your apps](https://dev.to/tahazsh/how-to-implement-undo-in-your-apps-59je)
 - [What It Was Like To Code For Amazon &lpar;Part 2&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-2-5aon)
 - [Integrate computer vision with flutter &lpar;using Google Teachable&rpar;](https://dev.to/tedtecch/integrate-computer-vision-with-into-flutter-app-using-google-teachable-fn4)
-- [Como realizar o deploy de uma aplicação ASP.NET no Heroku [PT-BR]](https://dev.to/andredarcie/como-realizar-o-deploy-de-uma-aplicacao-aspnet-no-heroku-pt-br-5cd7)
 <!-- BLOG-POST-LIST:END -->
 
