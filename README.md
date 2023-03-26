@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master Python Documentation - Part1: Using the Python Interpreter.](https://dev.to/fayomihorace/master-python-documentation-part1-using-the-python-interpreter-11ec)
 - [How To Optimize Your React App’s Performance](https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045)
+- [The Feynman Technique: Learn Quickly](https://dev.to/alexhyettdev/the-feynman-technique-learn-quickly-2f80)
 - [About Me](https://dev.to/ij03l/about-me-2i5j)
-- [Secure your data: cryptography in Nodejs](https://dev.to/kalashin1/secure-your-data-cryptography-in-nodejs-1jeo)
-- [Is Coding Really Hard? &lpar;My Experience&rpar;](https://dev.to/ritapossible/is-coding-really-hard-my-experience-4okc)
 <!-- BLOG-POST-LIST:END -->
 
