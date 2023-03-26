@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement undo in your apps](https://dev.to/tahazsh/how-to-implement-undo-in-your-apps-59je)
 - [What It Was Like To Code For Amazon &lpar;Part 2&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-2-5aon)
+- [Integrate computer vision with flutter &lpar;using Google Teachable&rpar;](https://dev.to/tedtecch/integrate-computer-vision-with-into-flutter-app-using-google-teachable-fn4)
 - [Como realizar o deploy de uma aplicação ASP.NET no Heroku [PT-BR]](https://dev.to/andredarcie/como-realizar-o-deploy-de-uma-aplicacao-aspnet-no-heroku-pt-br-5cd7)
-- [Angular Universal is the Problem, not Angular](https://dev.to/jdgamble555/angular-universal-is-the-problem-not-angular-5801)
-- [Session 1. How I created a team and established the first intro meeting to contribute to Open Source.](https://dev.to/yasia_n/session-1-how-i-created-a-team-and-established-first-intro-meeting-to-contribute-in-open-source-l9o)
 <!-- BLOG-POST-LIST:END -->
 
