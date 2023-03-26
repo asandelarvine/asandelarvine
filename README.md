@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Optimize Your React App’s Performance](https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045)
-- [Using Typescript without compilation](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)
-- [Women in Tech Sweden 2023](https://dev.to/emmadawsondev/women-in-tech-sweden-2023-27l9)
-- [Building a Chrome extension to join meetings on time](https://dev.to/bpsagar/building-a-chrome-extension-to-join-meetings-on-time-33mg)
+- [About Me](https://dev.to/ij03l/about-me-2i5j)
+- [Secure your data: cryptography in Nodejs](https://dev.to/kalashin1/secure-your-data-cryptography-in-nodejs-1jeo)
+- [Is Coding Really Hard? &lpar;My Experience&rpar;](https://dev.to/ritapossible/is-coding-really-hard-my-experience-4okc)
 <!-- BLOG-POST-LIST:END -->
 
