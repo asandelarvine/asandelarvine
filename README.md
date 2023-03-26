@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Python: 5 Tips for Boosting Performance](https://dev.to/yaw595/supercharge-your-python-5-tips-for-boosting-performance-fpa)
+- [From Problems to Solutions: Understanding Design Patterns](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)
 - [Deploy React.js application on Render](https://dev.to/ahmed0saber/deploy-reactjs-application-on-render-2dca)
 - [How to gain experience without work ?](https://dev.to/ahmed0saber/how-to-gain-experience-without-work--1624)
-- [How to write better Git commit messages ?](https://dev.to/ahmed0saber/how-to-write-better-git-commit-messages--40al)
-- [Criando um pacote NPM](https://dev.to/guiseek/criando-um-pacote-npm-5an7)
 <!-- BLOG-POST-LIST:END -->
 
