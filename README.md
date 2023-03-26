@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Universal is the Problem, not Angular](https://dev.to/jdgamble555/angular-universal-is-the-problem-not-angular-5801)
 - [Session 1. How I created a team and established the first intro meeting to contribute to Open Source.](https://dev.to/yasia_n/session-1-how-i-created-a-team-and-established-first-intro-meeting-to-contribute-in-open-source-l9o)
 - [JavaScript Module Bundlers and all that Jazz ✨](https://dev.to/harshitakanal/javascript-module-bundlers-and-all-that-jazz-3hbi)
 - [Yet Another Newsletter LOL: Cache](https://dev.to/nickytonline/yet-another-newsletter-lol-cache-5e21)
-- [Give Your DRY Tests a WET Touch](https://dev.to/perssondennis/give-your-dry-tests-a-wet-touch-4mmb)
 <!-- BLOG-POST-LIST:END -->
 
