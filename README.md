@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for an ambigramatic fonts](https://dev.to/dmytry_frey/looking-for-an-ambigramatic-fonts-16p7)
+- [Spring Framework DevOps on AWS](https://dev.to/aws-builders/spring-framework-devops-on-aws-156h)
+- [Setup ReactJs + TS + Styled-Componets + Redux](https://dev.to/shubhamku044/setup-reactjs-ts-styled-componets-redux-580d)
 - [How to Create a Discord Bot to Get GitHub Repository Issues](https://dev.to/daniloab/how-to-create-a-discord-bot-to-get-github-repository-issues-2646)
-- [*CodeNewbie* Meme Monday](https://dev.to/codenewbieteam/codenewbie-meme-monday-4f6i)
-- [Three JS Examples : 1. Three JS Cube Animation](https://dev.to/jon_snow789/three-js-examples-1-three-js-cube-animation-46ga)
-- [Build Stunning NextJs Portfolio⭐ Website using Tailwind-CSS and Framer-motion](https://dev.to/codebucks/build-stunning-nextjs-portfolio-website-using-tailwind-css-and-framer-motion-3oh)
 <!-- BLOG-POST-LIST:END -->
 
