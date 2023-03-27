@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Serverless &amp; Lambda Testing — Part 3 — Advanced Asynchronous Flows](https://dev.to/aws-builders/guide-to-serverless-lambda-testing-part-3-advanced-asynchronous-flows-3gk6)
-- [What It Was Like To Code For Amazon &lpar;Conclusion&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468)
-- [Learn How to Test Serverless Applications](https://dev.to/pavanbelagatti/learn-how-to-test-serverless-applications-1bib)
-- [Mind-Blowing Technologies That Will Revolutionize the Future](https://dev.to/bhavin9920/mind-blowing-technologies-that-will-revolutionize-the-future-20c3)
+- [Building Accessible React.js Applications](https://dev.to/haszankauna/building-accessible-reactjs-applications-2c08)
+- [AWS open source newsletter, #150](https://dev.to/aws/aws-open-source-newsletter-150-352g)
+- [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-5dcj)
+- [Say Goodbye to App Stores: How PWAs are Changing the Game](https://dev.to/sandeep_modi123/say-goodbye-to-app-stores-how-pwas-are-changing-the-game-5hc9)
 <!-- BLOG-POST-LIST:END -->
 
