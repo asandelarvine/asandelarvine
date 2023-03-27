@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Goldmine: Top 5 Money-Making Opportunities You Can&#39;t Miss!](https://dev.to/thenomadevel/chatgpt-goldmine-top-5-money-making-opportunities-you-cant-miss-1paj)
+- [Looking for New Opportunities](https://dev.to/avinashvagh/looking-for-new-opportunities-2epg)
 - [OpenTelemetry vs Datadog - Choosing between OpenTelemetry and Datadog](https://dev.to/danielfavour/opentelemetry-vs-datadog-choosing-between-opentelemetry-and-datadog-2c84)
 - [Meme Monday 🥸](https://dev.to/ben/meme-monday-cbo)
-- [Contribute to the Python-like Nim language](https://dev.to/ringabout/contribute-to-the-python-like-nim-language-4i5e)
-- [Qu&#39;est-ce qu&#39;une Go Routine?](https://dev.to/mxglt/quest-ce-quune-go-routine-bie)
 <!-- BLOG-POST-LIST:END -->
 
