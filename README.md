@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tech startup and it failed. This is what I learned. 1/3](https://dev.to/matpk/i-built-a-tech-startup-and-it-failed-this-is-what-i-learned-13-fb3)
-- [FastAPI + Celery = ♥](https://dev.to/derlin/fastapi-celery--33mh)
-- [Create NextJs Portfolio⭐ Website using Tailwind-CSS and Framer-motion](https://dev.to/codebucks/create-nextjs-portfolio-website-using-tailwind-css-and-framer-motion-1dfo)
-- [Do you sometimes feel defensive during a PR review?](https://dev.to/jmfayard/do-you-sometimes-feel-defensive-during-a-pr-review-47k1)
+- [The Future of Digital Asset Ownership: Exploring dNFTs](https://dev.to/galaxiastudios/the-future-of-digital-asset-ownership-exploring-dnfts-5fg)
+- [FLaNK Stack Weekly 27 March 2023](https://dev.to/tspannhw/flank-stack-weekly-27-march-2023-26e4)
+- [Rust and Scala: Comparisons](https://dev.to/danielonugha0/rust-and-scala-comparisons-3nda)
+- [How Woovi handles complex date generation with Javascript](https://dev.to/woovi/how-woovi-handles-complex-date-generation-with-javascript-kml)
 <!-- BLOG-POST-LIST:END -->
 
