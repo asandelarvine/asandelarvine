@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Modern Document Website for React Native Library Like React Native ECharts](https://dev.to/zhiqingchen/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-2aph)
+- [Git &amp; Github the essentials](https://dev.to/alcb1310/git-github-the-essentials-257h)
 - [Create Dynamic App Icon Using Activity Alias](https://dev.to/mikkelofficial7/create-dynamic-app-icon-using-activity-alias-5co7)
 - [Ciências Ocultas da Computação - Um Guia Definitivo](https://dev.to/devcomputariagit/ciencias-ocultas-da-computacao-um-guia-definitivo-17jf)
-- [DynamoDB Basics, Part 1](https://dev.to/aws-builders/dynamodb-basics-part-1-4e4i)
-- [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
 <!-- BLOG-POST-LIST:END -->
 
