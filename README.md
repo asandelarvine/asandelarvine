@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Mind-Blowing Technologies That Will Revolutionize the Future](https://dev.to/bhavin9920/mind-blowing-technologies-that-will-revolutionize-the-future-20c3)
+- [An Easy Way To Migrate Emails To The Amazon Workmail](https://dev.to/aws-builders/an-easy-way-to-migrate-emails-to-the-amazon-workmail-4oa9)
 - [Building a Modern Document Website for React Native Library Like React Native ECharts](https://dev.to/zhiqingchen/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-2aph)
 - [Git &amp; Github the essentials](https://dev.to/alcb1310/git-github-the-essentials-257h)
-- [Create Dynamic App Icon Using Activity Alias](https://dev.to/mikkelofficial7/create-dynamic-app-icon-using-activity-alias-5co7)
 <!-- BLOG-POST-LIST:END -->
 
