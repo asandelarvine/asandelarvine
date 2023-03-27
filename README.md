@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [how to save react form data into database using Spring boot](https://dev.to/realnamehidden1_61/how-to-save-react-form-data-into-database-using-spring-boot-39li)
+- [8+ Free Resources &amp; Tools for Web Developers and Designers ⚡️](https://dev.to/fredy/8-free-resources-tools-for-web-developers-and-designers-1k3p)
 - [The Future of Digital Asset Ownership: Exploring dNFTs](https://dev.to/galaxiastudios/the-future-of-digital-asset-ownership-exploring-dnfts-5fg)
 - [FLaNK Stack Weekly 27 March 2023](https://dev.to/tspannhw/flank-stack-weekly-27-march-2023-26e4)
-- [Rust and Scala: Comparisons](https://dev.to/danielonugha0/rust-and-scala-comparisons-3nda)
-- [How Woovi handles complex date generation with Javascript](https://dev.to/woovi/how-woovi-handles-complex-date-generation-with-javascript-kml)
 <!-- BLOG-POST-LIST:END -->
 
