@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Dynamic App Icon Using Activity Alias](https://dev.to/mikkelofficial7/create-dynamic-app-icon-using-activity-alias-5co7)
+- [Ciências Ocultas da Computação - Um Guia Definitivo](https://dev.to/devcomputariagit/ciencias-ocultas-da-computacao-um-guia-definitivo-17jf)
+- [DynamoDB Basics, Part 1](https://dev.to/aws-builders/dynamodb-basics-part-1-4e4i)
 - [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
-- [What would you like to see in your browser&#39;s new tab?](https://dev.to/kimdontdoit/what-would-you-like-to-seein-your-browsers-new-tab-2j9k)
-- [Over 150,000 .NET Developers Hit by Harmful NuGet Packages](https://dev.to/bytehide/over-150000-net-developers-hit-by-harmful-nuget-packages-2157)
-- [An introduction to AI and ML for web developers](https://dev.to/bybydev/an-introduction-to-ai-and-ml-for-web-developers-24ge)
 <!-- BLOG-POST-LIST:END -->
 
