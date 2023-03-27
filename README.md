@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a Smart Contract on Ethereum &lpar;ETH&rpar;](https://dev.to/thirdweb/deploy-a-smart-contract-on-ethereum-eth-28e3)
+- [Deploy a Smart Contract on Polygon &lpar;MATIC&rpar;](https://dev.to/thirdweb/deploy-a-smart-contract-on-polygon-matic-1bpc)
 - [Most common HTML interview questions](https://dev.to/ahmed0saber/most-common-html-interview-questions-38k)
 - [Performance in .NET](https://dev.to/sineni/performance-in-net-4i0e)
-- [Looking for an ambigramatic fonts](https://dev.to/dmytry_frey/looking-for-an-ambigramatic-fonts-16p7)
-- [Spring Framework DevOps on AWS](https://dev.to/aws-builders/spring-framework-devops-on-aws-156h)
 <!-- BLOG-POST-LIST:END -->
 
