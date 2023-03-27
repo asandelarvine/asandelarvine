@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn How to Test Serverless Applications](https://dev.to/pavanbelagatti/learn-how-to-test-serverless-applications-1bib)
 - [Mind-Blowing Technologies That Will Revolutionize the Future](https://dev.to/bhavin9920/mind-blowing-technologies-that-will-revolutionize-the-future-20c3)
 - [An Easy Way To Migrate Emails To The Amazon Workmail](https://dev.to/aws-builders/an-easy-way-to-migrate-emails-to-the-amazon-workmail-4oa9)
 - [Building a Modern Document Website for React Native Library Like React Native ECharts](https://dev.to/zhiqingchen/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-2aph)
-- [Git &amp; Github the essentials](https://dev.to/alcb1310/git-github-the-essentials-257h)
 <!-- BLOG-POST-LIST:END -->
 
