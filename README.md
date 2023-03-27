@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Interrupted&#39;s Best Programmer Humor](https://dev.to/linearb/dev-interrupteds-best-programmer-humor-36ck)
-- [Provisioning Infrastructure with Ansible](https://dev.to/xlmriosx/provisioning-infrastructure-with-ansible-41i4)
-- [How to prevent data loss when a Postgres container is killed or shut down.](https://dev.to/ndohjapan/how-to-prevent-data-loss-when-a-postgres-container-is-killed-or-shut-down-p8d)
-- [Como algoritmos melhoram a performance do seu código](https://dev.to/antiduhring/como-algoritmos-melhoram-a-performance-do-seu-codigo-31mn)
+- [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
+- [What would you like to see in your browser&#39;s new tab?](https://dev.to/kimdontdoit/what-would-you-like-to-seein-your-browsers-new-tab-2j9k)
+- [Over 150,000 .NET Developers Hit by Harmful NuGet Packages](https://dev.to/bytehide/over-150000-net-developers-hit-by-harmful-nuget-packages-2157)
+- [An introduction to AI and ML for web developers](https://dev.to/bybydev/an-introduction-to-ai-and-ml-for-web-developers-24ge)
 <!-- BLOG-POST-LIST:END -->
 
