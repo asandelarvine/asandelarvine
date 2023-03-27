@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Building Accessible React.js Applications](https://dev.to/haszankauna/building-accessible-reactjs-applications-2c08)
 - [AWS open source newsletter, #150](https://dev.to/aws/aws-open-source-newsletter-150-352g)
 - [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-5dcj)
-- [Say Goodbye to App Stores: How PWAs are Changing the Game](https://dev.to/sandeep_modi123/say-goodbye-to-app-stores-how-pwas-are-changing-the-game-5hc9)
+- [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part Two](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-two-3j9j)
 <!-- BLOG-POST-LIST:END -->
 
