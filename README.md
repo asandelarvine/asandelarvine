@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how to save react form data into database using Spring boot](https://dev.to/realnamehidden1_61/how-to-save-react-form-data-into-database-using-spring-boot-39li)
-- [8+ Free Resources &amp; Tools for Web Developers and Designers ⚡️](https://dev.to/fredy/8-free-resources-tools-for-web-developers-and-designers-1k3p)
-- [The Future of Digital Asset Ownership: Exploring dNFTs](https://dev.to/galaxiastudios/the-future-of-digital-asset-ownership-exploring-dnfts-5fg)
-- [FLaNK Stack Weekly 27 March 2023](https://dev.to/tspannhw/flank-stack-weekly-27-march-2023-26e4)
+- [OpenTelemetry vs Datadog - Choosing between OpenTelemetry and Datadog](https://dev.to/danielfavour/opentelemetry-vs-datadog-choosing-between-opentelemetry-and-datadog-2c84)
+- [Meme Monday 🥸](https://dev.to/ben/meme-monday-cbo)
+- [Contribute to the Python-like Nim language](https://dev.to/ringabout/contribute-to-the-python-like-nim-language-4i5e)
+- [Qu&#39;est-ce qu&#39;une Go Routine?](https://dev.to/mxglt/quest-ce-quune-go-routine-bie)
 <!-- BLOG-POST-LIST:END -->
 
