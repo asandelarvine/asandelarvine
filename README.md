@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Flask to Amazon Elastic Beanstalk](https://dev.to/aws-builders/deploy-flask-to-amazon-elastic-beanstalk-43g5)
-- [A Detailed Explanation on Radio Button Helper and CheckBox Helper in MVC](https://dev.to/ifourtechnolab/a-detailed-explanation-on-radio-button-helper-and-checkbox-helper-in-mvc-3l71)
-- [Redis with Nodejs](https://dev.to/shubhamb/redis-with-nodejs-dg6)
-- [Fear Not the Rise of AI: Meet AltQ, Your New Coding Companion, and Unlock Endless Opportunities!](https://dev.to/pashaigood/fear-not-the-rise-of-ai-meet-altq-your-new-coding-companion-and-unlock-endless-opportunities-4ake)
+- [I built a tech startup and it failed. This is what I learned. 1/3](https://dev.to/matpk/i-built-a-tech-startup-and-it-failed-this-is-what-i-learned-13-fb3)
+- [FastAPI + Celery = ♥](https://dev.to/derlin/fastapi-celery--33mh)
+- [Create NextJs Portfolio⭐ Website using Tailwind-CSS and Framer-motion](https://dev.to/codebucks/create-nextjs-portfolio-website-using-tailwind-css-and-framer-motion-1dfo)
+- [Do you sometimes feel defensive during a PR review?](https://dev.to/jmfayard/do-you-sometimes-feel-defensive-during-a-pr-review-47k1)
 <!-- BLOG-POST-LIST:END -->
 
