@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Goldmine: Top 5 Money-Making Opportunities You Can&#39;t Miss!](https://dev.to/thenomadevel/chatgpt-goldmine-top-5-money-making-opportunities-you-cant-miss-1paj)
+- [*CodeNewbie* Meme Monday](https://dev.to/codenewbieteam/codenewbie-meme-monday-4f6i)
+- [Three JS Examples : 1. Three JS Cube Animation](https://dev.to/jon_snow789/three-js-examples-1-three-js-cube-animation-46ga)
+- [Build Stunning NextJs Portfolio⭐ Website using Tailwind-CSS and Framer-motion](https://dev.to/codebucks/build-stunning-nextjs-portfolio-website-using-tailwind-css-and-framer-motion-3oh)
 - [Looking for New Opportunities](https://dev.to/avinashvagh/looking-for-new-opportunities-2epg)
-- [OpenTelemetry vs Datadog - Choosing between OpenTelemetry and Datadog](https://dev.to/danielfavour/opentelemetry-vs-datadog-choosing-between-opentelemetry-and-datadog-2c84)
-- [Meme Monday 🥸](https://dev.to/ben/meme-monday-cbo)
 <!-- BLOG-POST-LIST:END -->
 
