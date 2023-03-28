@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Ways to Evolve Yourself as a Leader for Your Team](https://dev.to/daniloab/7-ways-to-evolve-yourself-as-a-leader-for-your-team-5efd)
-- [Treehouse release 0.2.0 with CSS design system](https://dev.to/progrium/treehouse-release-020-with-css-design-system-42hn)
-- [STM32F4 Embedded Rust at the PAC: Creating Hardware Abstractions with embedded-hal](https://dev.to/apollolabsbin/stm32f4-embedded-rust-at-the-pac-creating-hardware-abstractions-with-embedded-hal-3j7)
-- [What new productivity tools have you discovered lately?](https://dev.to/ben/what-new-productivity-tools-have-you-discovered-lately-4401)
+- [#DEVDiscuss: Design Patterns](https://dev.to/devteam/devdiscuss-design-patterns-5e02)
+- [Getting Started With Sentiment Analysis](https://dev.to/archybrendah/getting-started-with-sentiment-analysis-152h)
+- [Always-Listening Voice Commands for Vaadin web applications](https://dev.to/samiekblad/always-listening-voice-commands-for-vaadin-web-applications-3bhp)
+- [How do I figure out what I am good at ?](https://dev.to/b1n4ry/how-do-i-figure-out-what-i-am-good-at--46g1)
 <!-- BLOG-POST-LIST:END -->
 
