@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to build an API using Flask](https://dev.to/onecuriousmindset/how-to-build-an-api-using-flask-43ke)
 - [What is the difference between Interfaces vs Types in TypeScript?](https://dev.to/moustafa25mm/what-is-the-difference-between-interfaces-vs-types-in-typescript-31c6)
+- [Building Multiple Barcode, QR Code and DataMatrix Scanner with Flutter for Inventory Management](https://dev.to/yushulx/building-multiple-barcode-qr-code-and-datamatrix-scanner-with-flutter-for-inventory-management-5802)
 - [&quot;ChatGPT&quot; locally for everyone](https://dev.to/benherbst/chatgpt-locally-for-everyone-3plj)
-- [Deploy cPanel &amp; WHM on AWS EC2 Instance](https://dev.to/aws-builders/deploy-cpanel-whm-on-aws-ec2-instance-36i5)
 <!-- BLOG-POST-LIST:END -->
 
