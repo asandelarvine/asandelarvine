@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#DEVDiscuss: Design Patterns](https://dev.to/devteam/devdiscuss-design-patterns-5e02)
-- [Getting Started With Sentiment Analysis](https://dev.to/archybrendah/getting-started-with-sentiment-analysis-152h)
-- [Always-Listening Voice Commands for Vaadin web applications](https://dev.to/samiekblad/always-listening-voice-commands-for-vaadin-web-applications-3bhp)
-- [How do I figure out what I am good at ?](https://dev.to/b1n4ry/how-do-i-figure-out-what-i-am-good-at--46g1)
+- [Manage Calendar &amp; Address Book Micro-services](https://dev.to/otomato_io/manage-calendar-address-book-micro-services-pj1)
+- [Breaking and building encryption in NFC digital wallets 📳](https://dev.to/cossacklabs/breaking-and-building-encryption-in-nfc-digital-wallets-39c4)
+- [Manage Prometheus TSDB in the better way!](https://dev.to/vamirreza/manage-prometheus-tsdb-in-the-better-way-236a)
+- [Does everything have a price?](https://dev.to/corners2wall/does-everything-have-a-price-56p9)
 <!-- BLOG-POST-LIST:END -->
 
