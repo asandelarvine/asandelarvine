@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://dev.to/zigrazor/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
+- [A migration to Vue 3: part 2](https://dev.to/studyportals/a-migration-to-vue-3-part-2-40b0)
 - [🔎 What is Lexical Scope in JavaScript?](https://dev.to/catherineisonline/what-is-lexical-scope-in-javascript-4gi8)
 - [Building startup local-first](https://dev.to/acreom/building-startup-local-first-53gg)
-- [Testing a REST API](https://dev.to/woovi/testing-a-rest-api-43jo)
 <!-- BLOG-POST-LIST:END -->
 
