@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Code: Why Soft Skills are the Key to Success in Tech](https://dev.to/bhavin9920/beyond-the-code-why-soft-skills-are-the-key-to-success-in-tech-24o5)
-- [Build your own CMS using low-code](https://dev.to/tooljet/build-your-own-cms-using-low-code-2lgo)
-- [Interface Extensions/Merging in TypeScript](https://dev.to/tomoy/interface-extendingmerging-in-typescript-3fjb)
-- [Top 5 MERN STACK projects to improve your practical understanding🚀](https://dev.to/documatic/top-5-mern-stack-projects-to-improve-your-practical-understanding-554k)
+- [Rocket your .NET App by adding Chat-GPT to it!🚀](https://dev.to/bytehide/rocket-your-net-app-by-adding-chat-gpt-to-it-5db0)
+- [How to Create Surveys Online: Code or No-Code?](https://dev.to/msalimdin/how-to-create-surveys-online-code-or-no-code-2jjl)
+- [The Best API Documentation Tools for Dev Teams in 2023](https://dev.to/bump/the-best-api-documentation-tools-for-dev-teams-in-2023-4pon)
+- [How to Merge Python Dictionaries](https://dev.to/max24816/python-merge-dictionaries-3l46)
 <!-- BLOG-POST-LIST:END -->
 
