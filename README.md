@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in Novu 0.13.0?](https://dev.to/novu/whats-new-in-novu-0130-7a3)
-- [How I passed the AWS Certified Database — Specialty Exam &lpar;DBS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-database-specialty-exam-dbs-c01-ohn)
-- [How I passed the AWS Certified Advanced Networking — Specialty Exam &lpar;ANS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-advanced-networking-specialty-exam-ans-c01-1ibi)
-- [Creating Whisper Video Captions: OpenAI VTT](https://dev.to/askrodney/creating-whisper-video-captions-openai-vtt-1khh)
+- [Code Review on a GitHub Pull Request from Visual Studio Code](https://dev.to/this-is-learning/code-review-on-a-github-pull-request-from-visual-studio-code-328l)
+- [Animation : CSS Bouncy Loader 5 examples. ✨💡](https://dev.to/margishpatel/animation-css-bouncy-loader-5-examples-363n)
+- [So... Why am I on this meeting, again?](https://dev.to/milutin/so-why-am-i-on-this-meeting-again-4n38)
+- [Static Testlash: Linting va Formatting](https://dev.to/humoyun/static-testlash-linting-va-formatting-106b)
 <!-- BLOG-POST-LIST:END -->
 
