@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to Solana Pay and how to Integrate it into Your Next.js App](https://dev.to/avneesh0612/an-introduction-to-solana-pay-and-how-to-integrate-it-into-your-nextjs-app-36kl)
-- [Deploy static websites to Amazon S3](https://dev.to/aws-builders/deploy-static-websites-to-amazon-s3-49lf)
-- [Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://dev.to/zigrazor/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
-- [A migration to Vue 3: part 2](https://dev.to/studyportals/a-migration-to-vue-3-part-2-40b0)
+- [What&#39;s New in Novu 0.13.0?](https://dev.to/novu/whats-new-in-novu-0130-7a3)
+- [How I passed the AWS Certified Database — Specialty Exam &lpar;DBS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-database-specialty-exam-dbs-c01-ohn)
+- [How I passed the AWS Certified Advanced Networking — Specialty Exam &lpar;ANS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-advanced-networking-specialty-exam-ans-c01-1ibi)
+- [Creating Whisper Video Captions: OpenAI VTT](https://dev.to/askrodney/creating-whisper-video-captions-openai-vtt-1khh)
 <!-- BLOG-POST-LIST:END -->
 
