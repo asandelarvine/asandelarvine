@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use these Notion Templates to Create Your Portfolio in Seconds](https://dev.to/xenoxdev/use-these-notion-templates-to-create-your-portfolio-in-seconds-4jnp)
 - [Paracetamol.js💊| #212: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-212-explica-este-codigo-javascript-6f1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-53g9)
 - [TNT Stack.](https://dev.to/gautamvaishnav/tnt-stack-3o6d)
-- [Naming things is hard, SPA edition](https://dev.to/tbroyer/naming-things-is-hard-spa-edition-3g41)
 <!-- BLOG-POST-LIST:END -->
 
