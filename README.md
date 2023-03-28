@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AWS CodePipeline pipeline and Serverless Framework to deploy a Flask API.](https://dev.to/aws-builders/leveraging-aws-codepipeline-pipeline-and-serverless-framework-to-deploy-a-flask-api-3jha)
-- [How to split an Angular app into micro-frontend apps](https://dev.to/michaeljota/how-to-split-an-angular-app-into-micro-frontend-apps-1fi9)
-- [How to build an API using Flask](https://dev.to/onecuriousmindset/how-to-build-an-api-using-flask-43ke)
-- [What is the difference between Interfaces vs Types in TypeScript?](https://dev.to/moustafa25mm/what-is-the-difference-between-interfaces-vs-types-in-typescript-31c6)
+- [Top 5 MERN STACK projects to improve your practical understanding🚀](https://dev.to/documatic/top-5-mern-stack-projects-to-improve-your-practical-understanding-554k)
+- [You Need to Know About Pure Functions &amp; Impure Functions in JavaScript](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
+- [Devblog #1: Welcome to Pixelino - The Birth of a Minimalist Pixel Art Drawing Tool](https://dev.to/zitrocode/devblog-1-welcome-to-pixelino-the-birth-of-a-minimalist-pixel-art-drawing-tool-315p)
+- [Time &amp; Space Complexity, Stability of Algorithm](https://dev.to/madhubankhatri/time-space-complexity-stability-of-algorithm-ai5)
 <!-- BLOG-POST-LIST:END -->
 
