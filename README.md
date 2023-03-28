@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket your .NET App by adding Chat-GPT to it!🚀](https://dev.to/bytehide/rocket-your-net-app-by-adding-chat-gpt-to-it-5db0)
-- [How to Create Surveys Online: Code or No-Code?](https://dev.to/msalimdin/how-to-create-surveys-online-code-or-no-code-2jjl)
-- [The Best API Documentation Tools for Dev Teams in 2023](https://dev.to/bump/the-best-api-documentation-tools-for-dev-teams-in-2023-4pon)
-- [How to Merge Python Dictionaries](https://dev.to/max24816/python-merge-dictionaries-3l46)
+- [Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://dev.to/zigrazor/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
+- [🔎 What is Lexical Scope in JavaScript?](https://dev.to/catherineisonline/what-is-lexical-scope-in-javascript-4gi8)
+- [Building startup local-first](https://dev.to/acreom/building-startup-local-first-53gg)
+- [Testing a REST API](https://dev.to/woovi/testing-a-rest-api-43jo)
 <!-- BLOG-POST-LIST:END -->
 
