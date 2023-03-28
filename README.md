@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging AWS CodePipeline pipeline and Serverless Framework to deploy a Flask API.](https://dev.to/aws-builders/leveraging-aws-codepipeline-pipeline-and-serverless-framework-to-deploy-a-flask-api-3jha)
 - [How to build an API using Flask](https://dev.to/onecuriousmindset/how-to-build-an-api-using-flask-43ke)
 - [What is the difference between Interfaces vs Types in TypeScript?](https://dev.to/moustafa25mm/what-is-the-difference-between-interfaces-vs-types-in-typescript-31c6)
 - [Building Multiple Barcode, QR Code and DataMatrix Scanner with Flutter for Inventory Management](https://dev.to/yushulx/building-multiple-barcode-qr-code-and-datamatrix-scanner-with-flutter-for-inventory-management-5802)
-- [&quot;ChatGPT&quot; locally for everyone](https://dev.to/benherbst/chatgpt-locally-for-everyone-3plj)
 <!-- BLOG-POST-LIST:END -->
 
