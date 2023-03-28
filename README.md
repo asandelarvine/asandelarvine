@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When Should we Move to Microservices?](https://dev.to/codenameone/when-should-we-move-to-microservices-177c)
+- [#TestCulture 🦅 Episode 30 – X-Teams](https://dev.to/mathilde_llg/testculture-episode-30-x-teams-23ho)
+- [ChatGPT&#39;s help and guidance for solving leetcode/hacker-rank questions](https://dev.to/liopun/chatgpts-help-and-guidance-for-solving-leetcodehacker-rank-questions-5gb5)
 - [Code Review on a GitHub Pull Request from Visual Studio Code](https://dev.to/this-is-learning/code-review-on-a-github-pull-request-from-visual-studio-code-328l)
-- [Animation : CSS Bouncy Loader 5 examples. ✨💡](https://dev.to/margishpatel/animation-css-bouncy-loader-5-examples-363n)
-- [So... Why am I on this meeting, again?](https://dev.to/milutin/so-why-am-i-on-this-meeting-again-4n38)
-- [Static Testlash: Linting va Formatting](https://dev.to/humoyun/static-testlash-linting-va-formatting-106b)
 <!-- BLOG-POST-LIST:END -->
 
