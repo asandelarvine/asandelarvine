@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own CMS using low-code](https://dev.to/tooljet/build-your-own-cms-using-low-code-2lgo)
+- [Interface Extensions/Merging in TypeScript](https://dev.to/tomoy/interface-extendingmerging-in-typescript-3fjb)
 - [Top 5 MERN STACK projects to improve your practical understanding🚀](https://dev.to/documatic/top-5-mern-stack-projects-to-improve-your-practical-understanding-554k)
 - [You Need to Know About Pure Functions &amp; Impure Functions in JavaScript](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
-- [Devblog #1: Welcome to Pixelino - The Birth of a Minimalist Pixel Art Drawing Tool](https://dev.to/zitrocode/devblog-1-welcome-to-pixelino-the-birth-of-a-minimalist-pixel-art-drawing-tool-315p)
-- [Time &amp; Space Complexity, Stability of Algorithm](https://dev.to/madhubankhatri/time-space-complexity-stability-of-algorithm-ai5)
 <!-- BLOG-POST-LIST:END -->
 
