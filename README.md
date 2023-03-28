@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Code: Why Soft Skills are the Key to Success in Tech](https://dev.to/bhavin9920/beyond-the-code-why-soft-skills-are-the-key-to-success-in-tech-24o5)
 - [Build your own CMS using low-code](https://dev.to/tooljet/build-your-own-cms-using-low-code-2lgo)
 - [Interface Extensions/Merging in TypeScript](https://dev.to/tomoy/interface-extendingmerging-in-typescript-3fjb)
 - [Top 5 MERN STACK projects to improve your practical understanding🚀](https://dev.to/documatic/top-5-mern-stack-projects-to-improve-your-practical-understanding-554k)
-- [You Need to Know About Pure Functions &amp; Impure Functions in JavaScript](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
 <!-- BLOG-POST-LIST:END -->
 
