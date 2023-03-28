@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Should we Move to Microservices?](https://dev.to/codenameone/when-should-we-move-to-microservices-177c)
-- [#TestCulture 🦅 Episode 30 – X-Teams](https://dev.to/mathilde_llg/testculture-episode-30-x-teams-23ho)
-- [ChatGPT&#39;s help and guidance for solving leetcode/hacker-rank questions](https://dev.to/liopun/chatgpts-help-and-guidance-for-solving-leetcodehacker-rank-questions-5gb5)
-- [Code Review on a GitHub Pull Request from Visual Studio Code](https://dev.to/this-is-learning/code-review-on-a-github-pull-request-from-visual-studio-code-328l)
+- [Paracetamol.js💊| #212: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-212-explica-este-codigo-javascript-6f1)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-53g9)
+- [TNT Stack.](https://dev.to/gautamvaishnav/tnt-stack-3o6d)
+- [Naming things is hard, SPA edition](https://dev.to/tbroyer/naming-things-is-hard-spa-edition-3g41)
 <!-- BLOG-POST-LIST:END -->
 
