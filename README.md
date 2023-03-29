@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph Databases vs Relational Databases: What and why?](https://dev.to/documatic/graph-databases-vs-relational-databases-what-and-why-5d6g)
-- [How to build a mood tracker app in Flutter](https://dev.to/hackmamba/how-to-build-a-mood-tracker-app-in-flutter-pc8)
-- [Avalonia UI and MAUI - Something for everyone](https://dev.to/avalonia/avalonia-ui-and-maui-something-for-everyone-1a3d)
-- [Compare Colors Palettes](https://dev.to/colorswall/compare-colors-palettes-2ehl)
+- [How to Create Responsive Containers for Your Website: Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-create-responsive-containers-for-your-website-step-by-step-tutorial-oko)
+- [Moonly weekly progress update #42](https://dev.to/moonly/moonly-weekly-progress-update-42-582k)
+- [📚 34 JavaScript String Methods Cheatsheet](https://dev.to/catherineisonline/34-javascript-string-methods-cheatsheet-43e7)
+- [Things I Wish I Knew Before Starting A Tech Blog](https://dev.to/maddy/things-i-wish-i-knew-before-starting-a-tech-blog-2988)
 <!-- BLOG-POST-LIST:END -->
 
