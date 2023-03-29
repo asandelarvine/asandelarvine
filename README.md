@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Your Greatest &lpar;Unique&rpar; Strength as a Developer?](https://dev.to/codenewbieteam/what-is-your-greatest-unique-strength-as-a-developer-2nnd)
-- [10 open-source alternatives to run your businesses](https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c)
-- [React Query - useIsFetching &amp; useIsMutation](https://dev.to/this-is-learning/react-query-useisfetching-useismutation-4dkb)
-- [A step-by-step guide on using Redux Toolkit with React](https://dev.to/ifourtechnolab/a-step-by-step-guide-on-using-redux-toolkit-with-react-2485)
+- [Conditional Rendering in React: Best Practices and Examples](https://dev.to/crossskatee1/conditional-rendering-in-react-best-practices-and-examples-9ad)
+- [Build a .NET API in 3 minutes with Chat GPT 🤯](https://dev.to/bytehide/build-a-net-api-in-3-minutes-with-chat-gpt-3oa8)
+- [Guzzle üzerinden Proxy kullanımı](https://dev.to/aciklab/guzzle-uzerinden-proxy-kullanimi-1lk4)
+- [RxJS 7 - Pipeable Operators](https://dev.to/barisbll/rxjs-7-pipeable-operators-2ie7)
 <!-- BLOG-POST-LIST:END -->
 
