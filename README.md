@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Server Components Without a Framework](https://dev.to/shiftyp/react-server-components-without-a-framework-2jpf)
 - [Should AI development beyond GPT-4 be paused?](https://dev.to/theaccordance/should-ai-development-beyond-gpt-4-should-be-paused-5fmb)
-- [Welcome Thread - v218](https://dev.to/thepracticaldev/welcome-thread-v218-1o7a)
-- [How to Create Responsive Containers for Your Website: Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-create-responsive-containers-for-your-website-step-by-step-tutorial-oko)
-- [Moonly weekly progress update #42](https://dev.to/moonly/moonly-weekly-progress-update-42-582k)
+- [Air Traffic Routing With Memgraph](https://dev.to/memgraph/air-traffic-routing-with-memgraph-2mh)
+- [Enhancing Code Quality: How ChatGPT Can Help You Follow Best Practices and Maintainable Code 🚀](https://dev.to/jimmymcbride/enhancing-code-quality-how-chatgpt-can-help-you-follow-best-practices-and-maintainable-code-3a8j)
 <!-- BLOG-POST-LIST:END -->
 
