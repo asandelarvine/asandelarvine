@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Binary size and exceptions](https://dev.to/sandordargo/binary-size-and-exceptions-2cp3)
 - [Streamline your data analytics with AWS Athena queries and Terraform](https://dev.to/davidshaek/streamline-your-data-analytics-with-aws-athena-queries-and-terraform-5057)
 - [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase #2 Pinia, Tests And Mocking](https://dev.to/aaronksaunders/vue-js-essentials-a-beginners-series-on-pinia-vitest-and-supabase-2-pinia-tests-and-mocking-5fb1)
 - [#Python Operators](https://dev.to/saidaim0001/python-operators-194o)
-- [GitHub Copilot for CLI makes Terminal scripting and Git as easy as asking a question](https://dev.to/codepo8/github-copilot-for-cli-makes-terminal-scripting-and-git-as-easy-as-asking-a-question-3m81)
 <!-- BLOG-POST-LIST:END -->
 
