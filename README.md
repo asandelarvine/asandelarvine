@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase #2 Pinia, Tests And Mocking](https://dev.to/aaronksaunders/vue-js-essentials-a-beginners-series-on-pinia-vitest-and-supabase-2-pinia-tests-and-mocking-5fb1)
+- [#Python Operators](https://dev.to/saidaim0001/python-operators-194o)
+- [GitHub Copilot for CLI makes Terminal scripting and Git as easy as asking a question](https://dev.to/codepo8/github-copilot-for-cli-makes-terminal-scripting-and-git-as-easy-as-asking-a-question-3m81)
 - [React Server Components Without a Framework](https://dev.to/shiftyp/react-server-components-without-a-framework-2jpf)
-- [Should AI development beyond GPT-4 be paused?](https://dev.to/theaccordance/should-ai-development-beyond-gpt-4-should-be-paused-5fmb)
-- [Air Traffic Routing With Memgraph](https://dev.to/memgraph/air-traffic-routing-with-memgraph-2mh)
-- [Enhancing Code Quality: How ChatGPT Can Help You Follow Best Practices and Maintainable Code 🚀](https://dev.to/jimmymcbride/enhancing-code-quality-how-chatgpt-can-help-you-follow-best-practices-and-maintainable-code-3a8j)
 <!-- BLOG-POST-LIST:END -->
 
