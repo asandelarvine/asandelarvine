@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 open-source alternatives to run your businesses](https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c)
+- [React Query - useIsFetching &amp; useIsMutation](https://dev.to/this-is-learning/react-query-useisfetching-useismutation-4dkb)
 - [A step-by-step guide on using Redux Toolkit with React](https://dev.to/ifourtechnolab/a-step-by-step-guide-on-using-redux-toolkit-with-react-2485)
-- [How to Center a Div : CSS Tips and Tricks](https://dev.to/rutikkpatel/how-to-center-a-div-css-tips-and-tricks-3lfp)
-- [How to Extract Bing News Data with SerpApi and Python](https://dev.to/serpapi/how-to-extract-bing-news-data-with-serpapi-and-python-345i)
-- [Hacking AWS Account via AWS Lambda SSRF](https://dev.to/aws-builders/hacking-aws-account-via-aws-lambda-ssrf-nof)
+- [Weekly web development resources #142](https://dev.to/vincenius/weekly-web-development-resources-142-1kk9)
 <!-- BLOG-POST-LIST:END -->
 
