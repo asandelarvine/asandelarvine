@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Should AI development beyond GPT-4 be paused?](https://dev.to/theaccordance/should-ai-development-beyond-gpt-4-should-be-paused-5fmb)
+- [Welcome Thread - v218](https://dev.to/thepracticaldev/welcome-thread-v218-1o7a)
 - [How to Create Responsive Containers for Your Website: Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-create-responsive-containers-for-your-website-step-by-step-tutorial-oko)
 - [Moonly weekly progress update #42](https://dev.to/moonly/moonly-weekly-progress-update-42-582k)
-- [📚 34 JavaScript String Methods Cheatsheet](https://dev.to/catherineisonline/34-javascript-string-methods-cheatsheet-43e7)
-- [Things I Wish I Knew Before Starting A Tech Blog](https://dev.to/maddy/things-i-wish-i-knew-before-starting-a-tech-blog-2988)
 <!-- BLOG-POST-LIST:END -->
 
