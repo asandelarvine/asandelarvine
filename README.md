@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cert-Manager Conflict with EKS](https://dev.to/aws-builders/conflict-cert-manager-with-eks-2lbf)
 - [CodeNewbie Podcast, S23:E7 — How a Single Mom in a Shelter Became a Successful Software Developer](https://dev.to/codenewbieteam/codenewbie-podcast-s23e7-how-a-single-mom-in-a-shelter-became-a-successful-software-developer-4c27)
 - [Binary size and exceptions](https://dev.to/sandordargo/binary-size-and-exceptions-2cp3)
 - [Streamline your data analytics with AWS Athena queries and Terraform](https://dev.to/davidshaek/streamline-your-data-analytics-with-aws-athena-queries-and-terraform-5057)
-- [How to generate dynamic OG image using new NextJs with App directory](https://dev.to/titasmallick/how-to-generate-dynamic-og-image-using-new-nextjs-with-app-directory-4bcn)
 <!-- BLOG-POST-LIST:END -->
 
