@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking AWS Account via AWS Lambda SSRF](https://dev.to/aws-builders/hacking-aws-account-via-aws-lambda-ssrf-nof)
 - [Simple Guide for analyzing web traffic for troubleshooting purposes](https://dev.to/aws-builders/simple-guide-for-analyzing-web-traffic-for-troubleshooting-purposes-4odc)
 - [Pipelines, Placeholders, and Plans - Oh my!](https://dev.to/jayeclark/pipelines-placeholders-and-plans-oh-my-3jd1)
 - [How to write JSON Schemas for your API Part 1: validating data](https://dev.to/jcmosc/how-to-write-json-schemas-for-your-api-part-1-validating-data-ie)
-- [Why should we use Typescript with NodeJs and Express?](https://dev.to/alifathy1999/why-should-we-use-typescript-with-nodejs-and-express-gmf)
 <!-- BLOG-POST-LIST:END -->
 
