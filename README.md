@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Type Narrowing vs Type Casting in TypeScript](https://dev.to/bybydev/type-narrowing-vs-type-casting-in-typescript-1jef)
+- [5 innovative dev tools to improve your workflow](https://dev.to/francisthefrench/5-innovative-dev-tools-to-improve-your-workflow-1m70)
+- [Getting Started With Python&#39;s ABC](https://dev.to/sachingeek/getting-started-with-pythons-abc-4b95)
 - [Conditional Rendering in React: Best Practices and Examples](https://dev.to/crossskatee1/conditional-rendering-in-react-best-practices-and-examples-9ad)
-- [Build a .NET API in 3 minutes with Chat GPT 🤯](https://dev.to/bytehide/build-a-net-api-in-3-minutes-with-chat-gpt-3oa8)
-- [Guzzle üzerinden Proxy kullanımı](https://dev.to/aciklab/guzzle-uzerinden-proxy-kullanimi-1lk4)
-- [RxJS 7 - Pipeable Operators](https://dev.to/barisbll/rxjs-7-pipeable-operators-2ie7)
 <!-- BLOG-POST-LIST:END -->
 
