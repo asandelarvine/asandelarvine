@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A detailed guide on how to implement Server-side Rendering &lpar;SSR&rpar; in a NextJs Application](https://dev.to/onlyoneerin/a-detailed-guide-on-how-to-implement-server-side-rendering-ssr-in-a-nextjs-application-1mpp)
-- [Do you know about the Accounting Information System &lpar;AIS&rpar;?](https://dev.to/windyaaa/do-you-know-about-the-accounting-information-system-ais-2mdo)
-- [Type Narrowing vs Type Casting in TypeScript](https://dev.to/bybydev/type-narrowing-vs-type-casting-in-typescript-1jef)
-- [5 innovative dev tools to improve your workflow](https://dev.to/francisthefrench/5-innovative-dev-tools-to-improve-your-workflow-1m70)
+- [Graph Databases vs Relational Databases: What and why?](https://dev.to/documatic/graph-databases-vs-relational-databases-what-and-why-5d6g)
+- [How to build a mood tracker app in Flutter](https://dev.to/hackmamba/how-to-build-a-mood-tracker-app-in-flutter-pc8)
+- [Avalonia UI and MAUI - Something for everyone](https://dev.to/avalonia/avalonia-ui-and-maui-something-for-everyone-1a3d)
+- [Compare Colors Palettes](https://dev.to/colorswall/compare-colors-palettes-2ehl)
 <!-- BLOG-POST-LIST:END -->
 
