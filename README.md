@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Guide for analyzing web traffic for troubleshooting purposes](https://dev.to/aws-builders/simple-guide-for-analyzing-web-traffic-for-troubleshooting-purposes-4odc)
+- [Pipelines, Placeholders, and Plans - Oh my!](https://dev.to/jayeclark/pipelines-placeholders-and-plans-oh-my-3jd1)
+- [How to write JSON Schemas for your API Part 1: validating data](https://dev.to/jcmosc/how-to-write-json-schemas-for-your-api-part-1-validating-data-ie)
 - [Why should we use Typescript with NodeJs and Express?](https://dev.to/alifathy1999/why-should-we-use-typescript-with-nodejs-and-express-gmf)
-- [4 Things I Learned After Building a Mind-Blowing Playlist Generator for Spotify Using Next.js as a Full-Stack Framework](https://dev.to/taysongermano/4-things-i-learned-after-building-a-mind-blowing-playlist-generator-for-spotify-using-nextjs-as-a-full-stack-framework-n20)
-- [Building a simple Chrome extension with JS](https://dev.to/audreymengue/building-a-simple-chrome-extension-with-js-1143)
-- [Manage Calendar &amp; Address Book Micro-services](https://dev.to/otomato_io/manage-calendar-address-book-micro-services-pj1)
 <!-- BLOG-POST-LIST:END -->
 
