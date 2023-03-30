@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying GraphQL Security: A Comprehensive Guide to Introspection](https://dev.to/tristankalos/demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm)
+- [Explaining Distributed Systems Like I&#39;m 5](https://dev.to/sabrinaesaquino/explain-distributed-systems-like-im-5-51o6)
 - [gnu-on-alpine 3.17.3 and alpine-plus-plus 3.17.3 Released](https://dev.to/cicirello/gnu-on-alpine-3173-and-alpine-plus-plus-3173-released-20d5)
-- [Dynamic Unmarshalling in Go](https://dev.to/pankhudib/dynamic-unmarshalling-for-websockets-in-go-5d01)
-- [Technically Considered Writing](https://dev.to/solidi/technically-considered-writing-3nng)
-- [12 JavaScript Number Methods Cheatsheet](https://dev.to/catherineisonline/12-javascript-number-methods-cheatsheet-1oie)
+- [UML &lpar;Unified Modeling Language&rpar;](https://dev.to/mhzaf/uml-unified-modeling-language-2bk)
 <!-- BLOG-POST-LIST:END -->
 
