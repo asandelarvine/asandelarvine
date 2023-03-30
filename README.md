@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying GraphQL Security: A Comprehensive Guide to Introspection](https://dev.to/tristankalos/demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm)
-- [Explaining Distributed Systems Like I&#39;m 5](https://dev.to/sabrinaesaquino/explain-distributed-systems-like-im-5-51o6)
-- [gnu-on-alpine 3.17.3 and alpine-plus-plus 3.17.3 Released](https://dev.to/cicirello/gnu-on-alpine-3173-and-alpine-plus-plus-3173-released-20d5)
-- [UML &lpar;Unified Modeling Language&rpar;](https://dev.to/mhzaf/uml-unified-modeling-language-2bk)
+- [🏆⚛️React Roadmap Guide for Beginners 2023](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2023-3oah)
+- [JavaScript 🐲 challenges_4 ⚔️](https://dev.to/mahmoudessam/javascript-challenges4-1bl7)
+- [Dicas para usar o Github como Portfólio](https://dev.to/github/dicas-para-usar-o-github-como-portfolio-2ab8)
+- [Certificato: The Time-Saving Tool for Sending Certificates in Bulk](https://dev.to/me_suryan/certificato-the-time-saving-tool-for-sending-certificates-in-bulk-2hn8)
 <!-- BLOG-POST-LIST:END -->
 
