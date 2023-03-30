@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is FaceIO Facial Recognition? - Face Recognition Software and Face Analysis Explained](https://dev.to/ahmedqureshi54/what-is-faceio-facial-recognition-face-recognition-software-and-face-analysis-explained-3e7m)
 - [Going fullstack with Flutter and MongoDB Atlas Data API](https://dev.to/malomz/going-fullstack-with-flutter-and-mongodb-atlas-data-api-381m)
+- [The &lpar;non-secure&rpar; MD5 Hash Algorithm](https://dev.to/kschneider0/the-non-secure-md5-hash-algorithm-2e1a)
 - [Combining APIs Responses in Node](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
-- [Cert-Manager Conflict with EKS](https://dev.to/aws-builders/conflict-cert-manager-with-eks-2lbf)
-- [CodeNewbie Podcast, S23:E7 — How a Single Mom in a Shelter Became a Successful Software Developer](https://dev.to/codenewbieteam/codenewbie-podcast-s23e7-how-a-single-mom-in-a-shelter-became-a-successful-software-developer-4c27)
 <!-- BLOG-POST-LIST:END -->
 
