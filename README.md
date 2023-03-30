@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding SurrealQL and how it is different from PostgreSQL](https://dev.to/surrealdb/understanding-surrealql-and-how-it-is-different-from-postgresql-47f9)
 - [Learn How to Create a CI Pipeline for Your Django Application](https://dev.to/pavanbelagatti/learn-how-to-create-a-ci-pipeline-for-your-django-application-283d)
+- [Fixing the Sticky Footer Issue with Next.js and TailwindCSS](https://dev.to/darkterminal/fixing-the-sticky-footer-issue-with-nextjs-and-tailwindcss-1i2b)
 - [Vanilla+PostCSS as an Alternative to SCSS](https://dev.to/ingosteinke/vanillapostcss-as-an-alternative-to-scss-21ih)
-- [Searching - DSA | Part 4 |](https://dev.to/madhubankhatri/searching-dsa-part-4--1ah9)
-- [How to Automate Tasks with ILLA Cloud: A Low-Code Platform for Internal Tools](https://dev.to/illa/how-to-automate-tasks-with-illa-cloud-a-low-code-platform-for-internal-tools-1472)
 <!-- BLOG-POST-LIST:END -->
 
