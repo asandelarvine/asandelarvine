@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modify the AWS RDS Instance size using Lambda Function](https://dev.to/aws-builders/modify-the-aws-rds-instance-size-using-lambda-function-1l71)
-- [Make API product lifecycle management easy](https://dev.to/apisix/make-api-product-lifecycle-management-easy-3nm9)
-- [Thank You For Your &lpar;Worthless&rpar; Comment!](https://dev.to/bytebodger/thank-you-for-your-worthless-comment-4o67)
-- [Introducing the new Hoppscotch documentation](https://dev.to/hoppscotch/introducing-the-new-hoppscotch-documentation-52mp)
+- [Functions in Julia](https://dev.to/ifihan/functions-in-julia-3cgc)
+- [IJulia: The Julia Notebook](https://dev.to/ifihan/ijulia-the-julia-notebook-24m1)
+- [Some secret git tricks that come in handy](https://dev.to/atordvairn/some-secret-git-tricks-that-come-in-handy-2k8i)
+- [SSH cheatsheet](https://dev.to/hshoja/ssh-for-cheatsheet-2e72)
 <!-- BLOG-POST-LIST:END -->
 
