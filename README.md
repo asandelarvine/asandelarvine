@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/how-to-build-a-simple-qa-using-openai-and-nextjs-34d7)
+- [Moving DevEx from DevRel to Engineering](https://dev.to/missamarakay/moving-devex-from-devrel-to-engineering-5251)
+- [Bounie Launching On Product Hunt Tomorrow](https://dev.to/dougben/bounie-launching-on-product-hunt-tomorrow-4gje)
 - [Understanding SurrealQL and how it is different from PostgreSQL](https://dev.to/surrealdb/understanding-surrealql-and-how-it-is-different-from-postgresql-47f9)
-- [Learn How to Create a CI Pipeline for Your Django Application](https://dev.to/pavanbelagatti/learn-how-to-create-a-ci-pipeline-for-your-django-application-283d)
-- [Fixing the Sticky Footer Issue with Next.js and TailwindCSS](https://dev.to/darkterminal/fixing-the-sticky-footer-issue-with-nextjs-and-tailwindcss-1i2b)
-- [Vanilla+PostCSS as an Alternative to SCSS](https://dev.to/ingosteinke/vanillapostcss-as-an-alternative-to-scss-21ih)
 <!-- BLOG-POST-LIST:END -->
 
