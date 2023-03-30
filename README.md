@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 App Development Using Solidity and Truffle Framework](https://dev.to/cryptoneroo/web3-app-development-using-solidity-and-truffle-framework-2p3e)
-- [Configuring Git SSH Keys for Multiple Accounts and Workspaces](https://dev.to/orabazu/configuring-ssh-keys-and-git-for-multiple-accounts-and-workspaces-4o0i)
-- [Conversation about – Power platform](https://dev.to/balagmadhu/conversation-about-power-platform-5bci)
-- [Lesser Known Screen Sharing APIs](https://dev.to/dyte/lesser-known-screen-sharing-apis-4g29)
+- [Searching - DSA | Part 4 |](https://dev.to/madhubankhatri/searching-dsa-part-4--1ah9)
+- [How to Automate Tasks with ILLA Cloud: A Low-Code Platform for Internal Tools](https://dev.to/illa/how-to-automate-tasks-with-illa-cloud-a-low-code-platform-for-internal-tools-1472)
+- [Defining Contract Error using Soroban Assembly Script SDK](https://dev.to/darkvallen/error-handling-using-soroban-assembly-script-sdk-519m)
+- [The Web3 Security Guide: Protecting Your Digital Assets in a Decentralized World](https://dev.to/cocoandrew/the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf)
 <!-- BLOG-POST-LIST:END -->
 
