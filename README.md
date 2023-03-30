@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Modify the AWS RDS Instance size using Lambda Function](https://dev.to/aws-builders/modify-the-aws-rds-instance-size-using-lambda-function-1l71)
 - [Make API product lifecycle management easy](https://dev.to/apisix/make-api-product-lifecycle-management-easy-3nm9)
 - [Thank You For Your &lpar;Worthless&rpar; Comment!](https://dev.to/bytebodger/thank-you-for-your-worthless-comment-4o67)
 - [Introducing the new Hoppscotch documentation](https://dev.to/hoppscotch/introducing-the-new-hoppscotch-documentation-52mp)
-- [Why Learning to Code Is the Best Investment You Can Make in Yourself](https://dev.to/bhavin9920/why-learning-to-code-is-the-best-investment-you-can-make-in-yourself-6og)
 <!-- BLOG-POST-LIST:END -->
 
