@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Top JavaScript Libraries and Frameworks: A Comprehensive Guide 🌈](https://dev.to/hyuncafe/top-javascript-libraries-and-frameworks-a-comprehensive-guide-58jd)
+- [Plotting beautiful spirographs with matplotlib and spyrograph](https://dev.to/chrisgreening/plotting-beautiful-spirographs-with-matplotlib-and-spyrograph-5dhh)
 - [Integration testing docs in GitHub Actions](https://dev.to/sourishkrout/integration-testing-docs-in-github-actions-4h1d)
 - [Repository Pattern Implementation in ASP.NET Core](https://dev.to/osempu/repository-pattern-implementation-in-aspnet-core-3nkj)
-- [Understanding Vue.js Single-File Components &lpar;SFCs&rpar;](https://dev.to/xinnks/understanding-vuejs-single-file-components-sfcs-fa6)
 <!-- BLOG-POST-LIST:END -->
 
