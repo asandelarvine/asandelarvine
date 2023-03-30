@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplest Hello World Ever &lpar; in RUST &rpar;](https://dev.to/vchiranjeeviak/simplest-hello-world-ever-in-rust--23be)
-- [Javascript Object #3](https://dev.to/samr/javascript-object-3-ep7)
-- [Mastering API Calls in React: A Beginner&#39;s Guide to Building and Consuming REST APIs](https://dev.to/devxvaibhav/mastering-api-calls-in-react-a-beginners-guide-to-building-and-consuming-rest-apis-e2j)
-- [Top JavaScript Libraries and Frameworks: A Comprehensive Guide 🌈](https://dev.to/hyuncafe/top-javascript-libraries-and-frameworks-a-comprehensive-guide-58jd)
+- [Make API product lifecycle management easy](https://dev.to/apisix/make-api-product-lifecycle-management-easy-3nm9)
+- [Thank You For Your &lpar;Worthless&rpar; Comment!](https://dev.to/bytebodger/thank-you-for-your-worthless-comment-4o67)
+- [Introducing the new Hoppscotch documentation](https://dev.to/hoppscotch/introducing-the-new-hoppscotch-documentation-52mp)
+- [Why Learning to Code Is the Best Investment You Can Make in Yourself](https://dev.to/bhavin9920/why-learning-to-code-is-the-best-investment-you-can-make-in-yourself-6og)
 <!-- BLOG-POST-LIST:END -->
 
