@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn How to Create a CI Pipeline for Your Django Application](https://dev.to/pavanbelagatti/learn-how-to-create-a-ci-pipeline-for-your-django-application-283d)
+- [Vanilla+PostCSS as an Alternative to SCSS](https://dev.to/ingosteinke/vanillapostcss-as-an-alternative-to-scss-21ih)
 - [Searching - DSA | Part 4 |](https://dev.to/madhubankhatri/searching-dsa-part-4--1ah9)
 - [How to Automate Tasks with ILLA Cloud: A Low-Code Platform for Internal Tools](https://dev.to/illa/how-to-automate-tasks-with-illa-cloud-a-low-code-platform-for-internal-tools-1472)
-- [Defining Contract Error using Soroban Assembly Script SDK](https://dev.to/darkvallen/error-handling-using-soroban-assembly-script-sdk-519m)
-- [The Web3 Security Guide: Protecting Your Digital Assets in a Decentralized World](https://dev.to/cocoandrew/the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf)
 <!-- BLOG-POST-LIST:END -->
 
