@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Alt-Text Primer](https://dev.to/baspin94/an-alt-text-primer-53fd)
 - [No More Goerli Faucets! Using the New Infura Sepolia Faucet for Ethereum Smart Contract Testing](https://dev.to/mbogan/no-more-goerli-faucets-using-the-new-infura-sepolia-faucet-for-ethereum-smart-contract-testing-3nca)
 - [🏆⚛️React Roadmap Guide for Beginners 2023](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2023-3oah)
 - [JavaScript 🐲 challenges_4 ⚔️](https://dev.to/mahmoudessam/javascript-challenges4-1bl7)
-- [Dicas para usar o Github como Portfólio](https://dev.to/github/dicas-para-usar-o-github-como-portfolio-2ab8)
 <!-- BLOG-POST-LIST:END -->
 
