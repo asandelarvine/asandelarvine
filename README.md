@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PHOS: A Go channel extension with internal handlers](https://dev.to/justlorain/phos-a-go-channel-extension-with-internal-handlers-4lad)
+- [My evaluation of the Scaleway Cloud provider](https://dev.to/nfrankel/my-evaluation-of-the-scaleway-cloud-provider-1c8)
 - [Functions in Julia](https://dev.to/ifihan/functions-in-julia-3cgc)
 - [IJulia: The Julia Notebook](https://dev.to/ifihan/ijulia-the-julia-notebook-24m1)
-- [Some secret git tricks that come in handy](https://dev.to/atordvairn/some-secret-git-tricks-that-come-in-handy-2k8i)
-- [SSH cheatsheet](https://dev.to/hshoja/ssh-for-cheatsheet-2e72)
 <!-- BLOG-POST-LIST:END -->
 
