@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Web3 App Development Using Solidity and Truffle Framework](https://dev.to/cryptoneroo/web3-app-development-using-solidity-and-truffle-framework-2p3e)
 - [Configuring Git SSH Keys for Multiple Accounts and Workspaces](https://dev.to/orabazu/configuring-ssh-keys-and-git-for-multiple-accounts-and-workspaces-4o0i)
+- [Conversation about – Power platform](https://dev.to/balagmadhu/conversation-about-power-platform-5bci)
 - [Lesser Known Screen Sharing APIs](https://dev.to/dyte/lesser-known-screen-sharing-apis-4g29)
-- [ExpressJS, MongoDB and React on Docker containers](https://dev.to/vilce/expressjs-mongodb-and-react-on-docker-containers-3hg9)
 <!-- BLOG-POST-LIST:END -->
 
