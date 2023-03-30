@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/how-to-build-a-simple-qa-using-openai-and-nextjs-34d7)
-- [Moving DevEx from DevRel to Engineering](https://dev.to/missamarakay/moving-devex-from-devrel-to-engineering-5251)
-- [Bounie Launching On Product Hunt Tomorrow](https://dev.to/dougben/bounie-launching-on-product-hunt-tomorrow-4gje)
-- [Understanding SurrealQL and how it is different from PostgreSQL](https://dev.to/surrealdb/understanding-surrealql-and-how-it-is-different-from-postgresql-47f9)
+- [Technically Considered Writing](https://dev.to/solidi/technically-considered-writing-3nng)
+- [12 JavaScript Number Methods Cheatsheet](https://dev.to/catherineisonline/12-javascript-number-methods-cheatsheet-1oie)
+- [Event-driven Kubernetes testing with Testkube and Tracetest](https://dev.to/kubeshop/event-driven-kubernetes-testing-with-testkube-and-tracetest-471f)
+- [Simplify Python Dependency Management: Creating and Using Virtual Environments with Poetry](https://dev.to/rainleander/simplify-python-dependency-management-creating-and-using-virtual-environments-with-poetry-22ee)
 <!-- BLOG-POST-LIST:END -->
 
