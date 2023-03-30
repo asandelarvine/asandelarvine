@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHOS: A Go channel extension with internal handlers](https://dev.to/justlorain/phos-a-go-channel-extension-with-internal-handlers-4lad)
-- [My evaluation of the Scaleway Cloud provider](https://dev.to/nfrankel/my-evaluation-of-the-scaleway-cloud-provider-1c8)
-- [Functions in Julia](https://dev.to/ifihan/functions-in-julia-3cgc)
-- [IJulia: The Julia Notebook](https://dev.to/ifihan/ijulia-the-julia-notebook-24m1)
+- [Web3 App Development Using Solidity and Truffle Framework](https://dev.to/cryptoneroo/web3-app-development-using-solidity-and-truffle-framework-2p3e)
+- [Configuring Git SSH Keys for Multiple Accounts and Workspaces](https://dev.to/orabazu/configuring-ssh-keys-and-git-for-multiple-accounts-and-workspaces-4o0i)
+- [Lesser Known Screen Sharing APIs](https://dev.to/dyte/lesser-known-screen-sharing-apis-4g29)
+- [ExpressJS, MongoDB and React on Docker containers](https://dev.to/vilce/expressjs-mongodb-and-react-on-docker-containers-3hg9)
 <!-- BLOG-POST-LIST:END -->
 
