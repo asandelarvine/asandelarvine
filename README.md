@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Disable Azure AD Users with Azure Logic Apps and Microsoft Graph API](https://dev.to/bbbrian/how-to-disable-azure-ad-users-with-azure-logic-apps-and-microsoft-graph-api-48kl)
+- [How to Disable Highly Privileged Azure AD Users with Azure Logic Apps and Microsoft Graph API](https://dev.to/bbbrian/how-to-disable-azure-ad-users-with-azure-logic-apps-and-microsoft-graph-api-48kl)
 - [Two trie implementations in Rust &lpar;one&#39;s super fast&rpar;](https://dev.to/timclicks/two-trie-implementations-in-rust-ones-super-fast-2f3m)
 - [Value type vs Reference type in JavaScript](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
 - [😤 That feeling when your favorite project too goes in the graveyard...](https://dev.to/jmfayard/when-your-project-too-goes-in-the-graveyard-1bka)
