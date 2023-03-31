@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an Application That Creates Other Applications with ChatGPT🤯](https://dev.to/bytehide/create-an-application-that-creates-other-applications-with-chatgpt-d83)
+- [Azure for Beginners: A Guide to Getting Started with Microsoft&#39;s Cloud Platform](https://dev.to/bhavin9920/azure-for-beginners-a-guide-to-getting-started-with-microsofts-cloud-platform-28e3)
 - [The missing piece in Chrome DevTools](https://dev.to/requestlyio/the-missing-piece-in-chrome-devtools-7a1)
 - [6 Key Elements For A Secure Cloud Migration](https://dev.to/castai/6-key-elements-for-a-secure-cloud-migration-4ocj)
-- [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/build-a-simple-ai-powered-qa-using-nextjs-and-openai-text-completion-3m94)
-- [Top March Daily Discussions. And the Theme is…Nostalgia in Tech!](https://dev.to/codenewbieteam/top-march-daily-discussions-and-the-theme-isnostalgia-in-tech-2cep)
 <!-- BLOG-POST-LIST:END -->
 
