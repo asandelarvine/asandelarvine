@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The missing piece in Chrome DevTools](https://dev.to/requestlyio/the-missing-piece-in-chrome-devtools-7a1)
+- [6 Key Elements For A Secure Cloud Migration](https://dev.to/castai/6-key-elements-for-a-secure-cloud-migration-4ocj)
+- [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/build-a-simple-ai-powered-qa-using-nextjs-and-openai-text-completion-3m94)
 - [Top March Daily Discussions. And the Theme is…Nostalgia in Tech!](https://dev.to/codenewbieteam/top-march-daily-discussions-and-the-theme-isnostalgia-in-tech-2cep)
-- [How to convert CSV to SQL insert statements?](https://dev.to/foxinfotech/how-to-convert-csv-to-sql-insert-statements-2on)
-- [What’s wrong with HTML number input](https://dev.to/titovmx/whats-wrong-with-html-number-input-f57)
-- [My Favorite Coursera Courses for Blockchain Developers](https://dev.to/javinpaul/my-favorite-coursera-courses-for-blockchain-developers-71l)
 <!-- BLOG-POST-LIST:END -->
 
