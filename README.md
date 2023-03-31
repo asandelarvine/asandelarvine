@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
-- [what you need to know about Github Workflows](https://dev.to/shirinr/what-you-need-to-know-about-github-workflow-4jg8)
-- [Screenshot all your pages](https://dev.to/woovi/screenshot-all-your-pages-3iem)
-- [Creating a Function App in Azure to provide a Hello message with your name.](https://dev.to/mojeed88/creating-a-function-app-in-azure-to-provide-a-hello-message-with-your-name-3f8b)
+- [AWS Developer Associate DVA study guide](https://dev.to/aws-builders/aws-developer-associate-dva-study-guide-38ld)
+- [How to start into web Development?](https://dev.to/abijithgabriel/how-to-start-into-web-development-47ai)
+- [Build your own mini ATMs using Aadhaar and Eko APIs](https://dev.to/ekodevs/build-your-own-mini-atms-using-aadhaar-and-eko-apis-a5a)
+- [Programirleme nireden öwrenmeli? Programirleme öwredýän programmalar](https://dev.to/tmprogrammer/programirleme-nireden-owrenmeli-programirleme-owredyan-programmalar-321h)
 <!-- BLOG-POST-LIST:END -->
 
