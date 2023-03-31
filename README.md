@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top March Daily Discussions. And the Theme is…Nostalgia in Tech!](https://dev.to/codenewbieteam/top-march-daily-discussions-and-the-theme-isnostalgia-in-tech-2cep)
+- [How to convert CSV to SQL insert statements?](https://dev.to/foxinfotech/how-to-convert-csv-to-sql-insert-statements-2on)
+- [What’s wrong with HTML number input](https://dev.to/titovmx/whats-wrong-with-html-number-input-f57)
 - [My Favorite Coursera Courses for Blockchain Developers](https://dev.to/javinpaul/my-favorite-coursera-courses-for-blockchain-developers-71l)
-- [Getting Started with Blogging: A Beginners Guide](https://dev.to/arindam_1729/getting-started-with-blogging-a-beginners-guide-41d0)
-- [What is Kubernetes ?: The Future of Cloud-Native Application Development.](https://dev.to/inibambam/what-is-kubernetes-the-future-of-cloud-native-application-development-1mfl)
-- [Streamline CloudFormation Custom Resource Development with a Wrapper Lambda Function](https://dev.to/aws-builders/streamline-cloudformation-custom-resource-development-with-a-wrapper-lambda-function-26k9)
 <!-- BLOG-POST-LIST:END -->
 
