@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
+- [what you need to know about Github Workflows](https://dev.to/shirinr/what-you-need-to-know-about-github-workflow-4jg8)
 - [Screenshot all your pages](https://dev.to/woovi/screenshot-all-your-pages-3iem)
 - [Creating a Function App in Azure to provide a Hello message with your name.](https://dev.to/mojeed88/creating-a-function-app-in-azure-to-provide-a-hello-message-with-your-name-3f8b)
-- [Configure Spacing in VSCode by Language](https://dev.to/keracudmore/configure-spacing-in-vscode-by-language-1goo)
-- [Mapping AWS State Machine output to API Gateway response with VTL](https://dev.to/aws-builders/mapping-aws-state-machine-output-to-api-gateway-response-with-vtl-2p2b)
 <!-- BLOG-POST-LIST:END -->
 
