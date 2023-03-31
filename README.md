@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Value type vs Reference type in JavaScript](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
 - [😤 That feeling when your favorite project too goes in the graveyard...](https://dev.to/jmfayard/when-your-project-too-goes-in-the-graveyard-1bka)
 - [An Alt-Text Primer](https://dev.to/baspin94/an-alt-text-primer-53fd)
-- [Why JavaScript is a Prototype-based OOP](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
-- [No More Goerli Faucets! Using the New Infura Sepolia Faucet for Ethereum Smart Contract Testing](https://dev.to/mbogan/no-more-goerli-faucets-using-the-new-infura-sepolia-faucet-for-ethereum-smart-contract-testing-3nca)
+- [How we manage user and system events at Hivelight](https://dev.to/aws-builders/how-we-manage-user-and-system-events-at-hivelight-194)
 <!-- BLOG-POST-LIST:END -->
 
