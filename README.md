@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I passed the AWS Certified Security  — Specialty Exam &lpar;SCS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-security-specialty-exam-scs-c01-44b4)
+- [How Streaming database differs from a Traditional database?](https://dev.to/bobur/how-streaming-database-differs-from-a-traditional-database-o1a)
 - [Creating a Minesweeper Game in SolidJS - Score, Timer and Game State](https://dev.to/mbarzeev/creating-a-minesweeper-game-in-solidjs-score-timer-and-game-state-56n0)
-- [VS Code - Easy workflows and configurations with profiles](https://dev.to/robole/vs-code-custom-workflows-and-project-configuration-with-profiles-2ib6)
-- [Calculate life span and age in years in javascript/typescript](https://dev.to/codever/calculate-life-span-and-age-in-years-in-javascripttypescript-5f99)
-- [Create an Application That Creates Other Applications with ChatGPT🤯](https://dev.to/bytehide/create-an-application-that-creates-other-applications-with-chatgpt-d83)
+- [Want a special configuration in VS Code for a particular environment or workflow?](https://dev.to/robole/vs-code-custom-workflows-and-project-configuration-with-profiles-2ib6)
 <!-- BLOG-POST-LIST:END -->
 
