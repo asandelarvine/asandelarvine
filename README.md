@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What We Learned about Self-Taught Success From Brittney Ball &lpar;CN Podcast: S23, E7&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-self-taught-success-from-brittney-ball-cn-podcast-s23-e7-50dj)
+- [Comandos esenciales en Git](https://dev.to/wildchamo/comandos-esenciales-en-git-2ohm)
 - [Convert Material 3 Theme Designs to Flutter Code](https://dev.to/parabeac/convert-material-3-theme-designs-to-flutter-code-cm1)
 - [15 Engaging Python Projects to Elevate Your Personal Portfolio](https://dev.to/sbang/15-engaging-python-projects-to-elevate-your-personal-portfolio-30b5)
-- [Guia rapida servidor Wordpress con Nginx en debian 11](https://dev.to/oswald_echeverri/guia-rapida-servidor-wordpress-con-nginx-en-debian-11-395d)
-- [Web Scraping Tutorial with Python and Beautiful Soup](https://dev.to/sbang/web-scraping-tutorial-with-python-and-beautiful-soup-od7)
 <!-- BLOG-POST-LIST:END -->
 
