@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatizando la generación de datos ficticios con Seed, Factory, Faker y TypeORM en NestJS](https://dev.to/imgildev/automatizando-la-generacion-de-datos-ficticios-con-seed-factory-faker-y-typeorm-en-nestjs-5fpc)
 - [How to generate midjourney level images for free &lpar;forever&rpar; in cloud?](https://dev.to/norflin321/how-to-generate-midjourney-level-images-for-free-forever-in-cloud-24dg)
 - [What We Learned about Self-Taught Success From Brittney Ball &lpar;CN Podcast: S23, E7&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-self-taught-success-from-brittney-ball-cn-podcast-s23-e7-50dj)
 - [3 ways to reverse a string in JavaScript](https://dev.to/ahmadadibzad/three-ways-to-reverse-a-string-in-javascript-k71)
-- [Comandos esenciales en Git](https://dev.to/wildchamo/comandos-esenciales-en-git-2ohm)
 <!-- BLOG-POST-LIST:END -->
 
