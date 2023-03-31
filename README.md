@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Function App in Azure to provide a Hello message with your name.](https://dev.to/mojeed88/creating-a-function-app-in-azure-to-provide-a-hello-message-with-your-name-3f8b)
 - [Mapping AWS State Machine output to API Gateway response with VTL](https://dev.to/aws-builders/mapping-aws-state-machine-output-to-api-gateway-response-with-vtl-2p2b)
 - [My 5 favourite updates from the new React documentation](https://dev.to/anishamalde/my-5-favourite-updates-from-the-new-react-documentation-f69)
 - [Should I add a not-found.jsx file for each page?](https://dev.to/gundogduyakici/should-i-add-a-not-foundjsx-file-for-each-page-4oo5)
-- [The story about how I took my learning on AWS Glue to the next level](https://dev.to/aws-builders/the-story-about-how-i-took-my-learning-on-aws-glue-to-the-next-level-42c5)
 <!-- BLOG-POST-LIST:END -->
 
