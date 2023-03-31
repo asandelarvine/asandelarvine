@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Classes Instead of Associative Arrays for Better Type Safety in PHP Functions](https://dev.to/bawa_geek/using-classes-instead-of-associative-arrays-for-better-type-safety-in-php-functions-28fp)
-- [AWS Developer Associate DVA study guide](https://dev.to/aws-builders/aws-developer-associate-dva-study-guide-38ld)
-- [How to start into web Development?](https://dev.to/abijithgabriel/how-to-start-into-web-development-47ai)
-- [Build your own mini ATMs using Aadhaar and Eko APIs](https://dev.to/ekodevs/build-your-own-mini-atms-using-aadhaar-and-eko-apis-a5a)
+- [Convert Material 3 Theme Designs to Flutter Code](https://dev.to/parabeac/convert-material-3-theme-designs-to-flutter-code-cm1)
+- [15 Engaging Python Projects to Elevate Your Personal Portfolio](https://dev.to/sbang/15-engaging-python-projects-to-elevate-your-personal-portfolio-30b5)
+- [Guia rapida servidor Wordpress con Nginx en debian 11](https://dev.to/oswald_echeverri/guia-rapida-servidor-wordpress-con-nginx-en-debian-11-395d)
+- [Web Scraping Tutorial with Python and Beautiful Soup](https://dev.to/sbang/web-scraping-tutorial-with-python-and-beautiful-soup-od7)
 <!-- BLOG-POST-LIST:END -->
 
