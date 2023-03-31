@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapping AWS State Machine output to API Gateway response with VTL](https://dev.to/aws-builders/mapping-aws-state-machine-output-to-api-gateway-response-with-vtl-2p2b)
+- [My 5 favourite updates from the new React documentation](https://dev.to/anishamalde/my-5-favourite-updates-from-the-new-react-documentation-f69)
+- [Should I add a not-found.jsx file for each page?](https://dev.to/gundogduyakici/should-i-add-a-not-foundjsx-file-for-each-page-4oo5)
 - [The story about how I took my learning on AWS Glue to the next level](https://dev.to/aws-builders/the-story-about-how-i-took-my-learning-on-aws-glue-to-the-next-level-42c5)
-- [Advanced ts: playing with generics in a React.Context](https://dev.to/manuartero/advanced-ts-playing-with-generics-in-a-reactcontext-9i)
-- [How to Style Your Graphs in Memgraph Lab](https://dev.to/memgraph/how-to-style-your-graphs-in-memgraph-lab-46a9)
-- [How I passed the AWS Certified Security  — Specialty Exam &lpar;SCS-C01&rpar;](https://dev.to/aditmodi/how-i-passed-the-aws-certified-security-specialty-exam-scs-c01-44b4)
 <!-- BLOG-POST-LIST:END -->
 
