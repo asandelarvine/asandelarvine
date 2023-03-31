@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code - Custom workflows and project configuration with profiles](https://dev.to/robole/vs-code-custom-workflows-and-project-configuration-with-profiles-2ib6)
+- [Creating a Minesweeper Game in SolidJS - Score, Timer and Game State](https://dev.to/mbarzeev/creating-a-minesweeper-game-in-solidjs-score-timer-and-game-state-56n0)
+- [VS Code - Easy workflows and configurations with profiles](https://dev.to/robole/vs-code-custom-workflows-and-project-configuration-with-profiles-2ib6)
 - [Calculate life span and age in years in javascript/typescript](https://dev.to/codever/calculate-life-span-and-age-in-years-in-javascripttypescript-5f99)
 - [Create an Application That Creates Other Applications with ChatGPT🤯](https://dev.to/bytehide/create-an-application-that-creates-other-applications-with-chatgpt-d83)
-- [Modernizing Express, Heroku tech stack with NestJS and AWS - PoC](https://dev.to/aws-builders/modernizing-express-heroku-tech-stack-with-nestjs-and-aws-poc-7a)
 <!-- BLOG-POST-LIST:END -->
 
