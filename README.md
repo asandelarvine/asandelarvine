@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SRA PicoCTF 2023](https://dev.to/brunoblaise/sra-picoctf-2023-278b)
-- [Use ALL the Features: How To Create a Fancy Password Input With Vue3 🔑✅](https://dev.to/thormeier/use-all-the-features-how-to-create-a-fancy-password-input-with-vue3-ggi)
-- [Rotation PicoCTF 2023](https://dev.to/brunoblaise/rotation-picoctf-2023-33o2)
-- [ReadMyCert PicoCTF 2023](https://dev.to/brunoblaise/readmycert-picoctf-2023-4lnh)
+- [useless picoCTF 2023](https://dev.to/brunoblaise/useless-picoctf-2023-1p3g)
+- [repetitions picoctf 2023](https://dev.to/brunoblaise/repetitions-picoctf-2023-21p5)
+- [Permissions](https://dev.to/brunoblaise/permissions-i55)
+- [Rules 2023 picoCTF](https://dev.to/brunoblaise/rules-2023-picoctf-1054)
 <!-- BLOG-POST-LIST:END -->
 
