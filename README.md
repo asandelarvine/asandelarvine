@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to Create your Own useWindowSize Hook in ReactJS](https://dev.to/kunalukey/how-to-create-your-own-usewindowsize-hook-in-reactjs-4g02)
 - [Important Announcement: All Code Must Now Be Written in Pig Latin](https://dev.to/codenewbieteam/important-announcement-all-code-must-now-be-written-in-pig-latin-5b7h)
+- [Understanding the Factory Design Pattern: A Beginner&#39;s Guide](https://dev.to/abhiram55545309/understanding-the-factory-design-pattern-a-beginners-guide-k32)
 - [Top React Data Fetching Libraries](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
-- [Improve Yourself as a developer](https://dev.to/brojenuel/improve-yourself-as-a-developer-5836)
 <!-- BLOG-POST-LIST:END -->
 
