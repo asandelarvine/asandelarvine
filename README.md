@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Issues are a mess!!](https://dev.to/meetkern/twitter-issues-are-a-mess-37ea)
-- [How to create a vue project using vite](https://dev.to/owais11art/how-to-create-a-vue-project-using-vite-3c02)
-- [Specialer picoCTF 2023](https://dev.to/brunoblaise/specialer-picoctf-2023-1n49)
-- [Special picoCTF 2023](https://dev.to/brunoblaise/special-picoctf-2023-3nmd)
+- [Safe Opener 2](https://dev.to/brunoblaise/safe-opener-2-4n0l)
+- [Ready Gladiator 2](https://dev.to/brunoblaise/ready-gladiator-2-1i4)
+- [🤯Twitter Recommendation Algorithm is now open sourced](https://dev.to/hunghvu/twitter-recommendation-algorithm-is-now-open-sourced-3p4m)
+- [Ready Gladiator 1](https://dev.to/brunoblaise/ready-gladiator-1-2k21)
 <!-- BLOG-POST-LIST:END -->
 
