@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Horizontal Calendar - a simple date picker for React Native](https://dev.to/kharioki/horizontal-calendar-a-simple-date-picker-for-react-native-4h2)
 - [apt-key&#39;in deprecate olması](https://dev.to/aciklab/apt-keyin-deprecate-olmasi-1ph7)
 - [Introduction to Data Version Control](https://dev.to/archybrendah/introduction-to-data-version-control-2g1a)
 - [Verifying Integrity of Files using NodeJS](https://dev.to/orkhanhuseyn/verifying-integrity-of-files-using-nodejs-1gnd)
-- [We Are Moving to Rust](https://dev.to/reductstore/we-are-moving-to-rust-54p3)
 <!-- BLOG-POST-LIST:END -->
 
