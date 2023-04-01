@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meu primeiro ano na Realidade Virtual - VR [PT-BR]](https://dev.to/andredarcie/meu-primeiro-ano-na-realidade-virtual-vr-pt-br-52m4)
+- [Folder Structure for Modern Web Applications](https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11)
+- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-14dj)
 - [Publication d&#39;une nouvelle IA : Maçon de l&#39;espoir, réalité et esprit](https://dev.to/mxglt/publication-dune-nouvelle-ia-macon-de-lespoir-realite-et-esprit-1p0k)
-- [Release of the new AI-GPT : Maker Of Minds](https://dev.to/mxglt/release-of-the-new-ai-gpt-maker-of-minds-2b37)
-- [Setting up a Phaser.js Development Environment](https://dev.to/jd2r/setting-up-a-phaserjs-development-environment-2cbc)
-- [Building a calendar component with Tailwind and date-fns](https://dev.to/vivekalhat/building-a-calendar-component-with-tailwind-and-date-fns-2c0i)
 <!-- BLOG-POST-LIST:END -->
 
