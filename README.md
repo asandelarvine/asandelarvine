@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Computing: Core Concepts and Career Tips You Need to Know](https://dev.to/aradwan20/cloud-computing-core-concepts-and-career-tips-you-need-to-know-1a3j)
+- [A Beginner&#39;s Guide to React Redux Toolkit: Simplify Your State Management](https://dev.to/ezzahirtaha/a-beginners-guide-to-react-redux-toolkit-simplify-your-state-management-1he1)
+- [How to handle different application environments like Prod, Dev, Test, etc.?](https://dev.to/iamibi/how-to-handle-different-application-environments-like-prod-dev-test-etc-3h68)
 - [A deep dive into the CSS color-mix&lpar;&rpar; function and future of colors on the web.](https://dev.to/astrit/a-deep-dive-into-the-css-color-mix-function-and-future-of-colors-on-the-web-2pgi)
-- [Vue JS And PocketBase #1 Authentication And User Management](https://dev.to/aaronksaunders/vue-js-and-pocketbase-1-authentication-and-user-management-663)
-- [How an RDBMS works #3: Database Life Cycle Overview](https://dev.to/carlasanches/how-an-rdbms-works-database-life-cycle-overview-2gb4)
-- [Meu primeiro ano na Realidade Virtual - VR [PT-BR]](https://dev.to/andredarcie/meu-primeiro-ano-na-realidade-virtual-vr-pt-br-52m4)
 <!-- BLOG-POST-LIST:END -->
 
