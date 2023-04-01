@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create your Own useWindowSize Hook in ReactJS](https://dev.to/kunalukey/how-to-create-your-own-usewindowsize-hook-in-reactjs-4g02)
-- [Important Announcement: All Code Must Now Be Written in Pig Latin](https://dev.to/codenewbieteam/important-announcement-all-code-must-now-be-written-in-pig-latin-5b7h)
-- [Understanding the Factory Design Pattern: A Beginner&#39;s Guide](https://dev.to/abhiram55545309/understanding-the-factory-design-pattern-a-beginners-guide-k32)
-- [Top React Data Fetching Libraries](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
+- [Flutter Vs React Native. Which one to choose in 2023?](https://dev.to/heyitsuzair/flutter-vs-react-native-which-one-to-choose-in-2023-496j)
+- [Hijacking PicoCTF 2023](https://dev.to/brunoblaise/hijacking-picoctf-2023-3g3o)
+- [BabyGame01 PicoCTF 2023](https://dev.to/brunoblaise/babygame01-picoctf-2023-4bh8)
+- [Programming is the art of trade-off](https://dev.to/zenstack/programming-is-the-art-of-trade-off-1751)
 <!-- BLOG-POST-LIST:END -->
 
