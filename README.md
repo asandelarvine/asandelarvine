@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [useless picoCTF 2023](https://dev.to/brunoblaise/useless-picoctf-2023-1p3g)
-- [repetitions picoctf 2023](https://dev.to/brunoblaise/repetitions-picoctf-2023-21p5)
-- [Permissions](https://dev.to/brunoblaise/permissions-i55)
-- [Rules 2023 picoCTF](https://dev.to/brunoblaise/rules-2023-picoctf-1054)
+- [Twitter Issues are a mess!!](https://dev.to/meetkern/twitter-issues-are-a-mess-37ea)
+- [How to create a vue project using vite](https://dev.to/owais11art/how-to-create-a-vue-project-using-vite-3c02)
+- [Specialer picoCTF 2023](https://dev.to/brunoblaise/specialer-picoctf-2023-1n49)
+- [Special picoCTF 2023](https://dev.to/brunoblaise/special-picoctf-2023-3nmd)
 <!-- BLOG-POST-LIST:END -->
 
