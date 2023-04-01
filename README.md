@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Safe Opener 2](https://dev.to/brunoblaise/safe-opener-2-4n0l)
-- [Ready Gladiator 2](https://dev.to/brunoblaise/ready-gladiator-2-1i4)
-- [🤯Twitter Recommendation Algorithm is now open sourced](https://dev.to/hunghvu/twitter-recommendation-algorithm-is-now-open-sourced-3p4m)
-- [Ready Gladiator 1](https://dev.to/brunoblaise/ready-gladiator-1-2k21)
+- [Publication d&#39;une nouvelle IA : Maçon de l&#39;espoir, réalité et esprit](https://dev.to/mxglt/publication-dune-nouvelle-ia-macon-de-lespoir-realite-et-esprit-1p0k)
+- [Release of the new AI-GPT : Maker Of Minds](https://dev.to/mxglt/release-of-the-new-ai-gpt-maker-of-minds-2b37)
+- [Setting up a Phaser.js Development Environment](https://dev.to/jd2r/setting-up-a-phaserjs-development-environment-2cbc)
+- [Building a calendar component with Tailwind and date-fns](https://dev.to/vivekalhat/building-a-calendar-component-with-tailwind-and-date-fns-2c0i)
 <!-- BLOG-POST-LIST:END -->
 
