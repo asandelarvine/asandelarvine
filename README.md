@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Meu primeiro ano na Realidade Virtual - VR [PT-BR]](https://dev.to/andredarcie/meu-primeiro-ano-na-realidade-virtual-vr-pt-br-52m4)
 - [Folder Structure for Modern Web Applications](https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11)
-- [What was your win this week?](https://dev.to/michaeltharrington/what-was-your-win-this-week-14dj)
-- [Publication d&#39;une nouvelle IA : Maçon de l&#39;espoir, réalité et esprit](https://dev.to/mxglt/publication-dune-nouvelle-ia-macon-de-lespoir-realite-et-esprit-1p0k)
+- [Clean Architecture - basic](https://dev.to/hemaaim/clean-architecture-basic-1kk1)
+- [26 berufliches Vorwärtskommen: Ein gerader Berufsweg – Woher ein gutes Ende rührt.](https://dev.to/amustafa16421/26-berufliches-vorwartskommen-ein-gerader-berufsweg-woher-ein-gutes-ende-ruhrt-akf)
 <!-- BLOG-POST-LIST:END -->
 
