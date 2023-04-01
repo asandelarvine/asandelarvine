@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Vs React Native. Which one to choose in 2023?](https://dev.to/heyitsuzair/flutter-vs-react-native-which-one-to-choose-in-2023-496j)
-- [Hijacking PicoCTF 2023](https://dev.to/brunoblaise/hijacking-picoctf-2023-3g3o)
-- [BabyGame01 PicoCTF 2023](https://dev.to/brunoblaise/babygame01-picoctf-2023-4bh8)
-- [Programming is the art of trade-off](https://dev.to/zenstack/programming-is-the-art-of-trade-off-1751)
+- [SRA PicoCTF 2023](https://dev.to/brunoblaise/sra-picoctf-2023-278b)
+- [Use ALL the Features: How To Create a Fancy Password Input With Vue3 🔑✅](https://dev.to/thormeier/use-all-the-features-how-to-create-a-fancy-password-input-with-vue3-ggi)
+- [Rotation PicoCTF 2023](https://dev.to/brunoblaise/rotation-picoctf-2023-33o2)
+- [ReadMyCert PicoCTF 2023](https://dev.to/brunoblaise/readmycert-picoctf-2023-4lnh)
 <!-- BLOG-POST-LIST:END -->
 
