@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Minors to Pair with a Computer Science Degree: Enhance Your Expertise and Marketability](https://dev.to/sbang/best-minors-to-pair-with-a-computer-science-degree-enhance-your-expertise-and-marketability-47gh)
 - [Automatizando la generación de datos ficticios con Seed, Factory, Faker y TypeORM en NestJS](https://dev.to/imgildev/automatizando-la-generacion-de-datos-ficticios-con-seed-factory-faker-y-typeorm-en-nestjs-5fpc)
-- [How to generate midjourney level images for free &lpar;forever&rpar; in cloud?](https://dev.to/norflin321/how-to-generate-midjourney-level-images-for-free-forever-in-cloud-24dg)
-- [What We Learned about Self-Taught Success From Brittney Ball &lpar;CN Podcast: S23, E7&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-self-taught-success-from-brittney-ball-cn-podcast-s23-e7-50dj)
-- [3 ways to reverse a string in JavaScript](https://dev.to/ahmadadibzad/three-ways-to-reverse-a-string-in-javascript-k71)
+- [DevOps is the Philosophy, Platform is the Practice](https://dev.to/linearb/devops-is-the-philosophy-platform-is-the-practice-11hc)
+- [Python to SQL and back again... an Object-Relational Mapping tale.](https://dev.to/afromatt6288/python-to-sql-and-back-again-an-object-relational-mapping-tale-2nmh)
 <!-- BLOG-POST-LIST:END -->
 
