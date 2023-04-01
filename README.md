@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A deep dive into the CSS color-mix&lpar;&rpar; function and future of colors on the web.](https://dev.to/astrit/a-deep-dive-into-the-css-color-mix-function-and-future-of-colors-on-the-web-2pgi)
+- [Vue JS And PocketBase #1 Authentication And User Management](https://dev.to/aaronksaunders/vue-js-and-pocketbase-1-authentication-and-user-management-663)
+- [How an RDBMS works #3: Database Life Cycle Overview](https://dev.to/carlasanches/how-an-rdbms-works-database-life-cycle-overview-2gb4)
 - [Meu primeiro ano na Realidade Virtual - VR [PT-BR]](https://dev.to/andredarcie/meu-primeiro-ano-na-realidade-virtual-vr-pt-br-52m4)
-- [Folder Structure for Modern Web Applications](https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11)
-- [Clean Architecture - basic](https://dev.to/hemaaim/clean-architecture-basic-1kk1)
-- [26 berufliches Vorwärtskommen: Ein gerader Berufsweg – Woher ein gutes Ende rührt.](https://dev.to/amustafa16421/26-berufliches-vorwartskommen-ein-gerader-berufsweg-woher-ein-gutes-ende-ruhrt-akf)
 <!-- BLOG-POST-LIST:END -->
 
