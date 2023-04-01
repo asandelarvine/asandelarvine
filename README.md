@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [apt-key&#39;in deprecate olması](https://dev.to/aciklab/apt-keyin-deprecate-olmasi-1ph7)
+- [Introduction to Data Version Control](https://dev.to/archybrendah/introduction-to-data-version-control-2g1a)
+- [Verifying Integrity of Files using NodeJS](https://dev.to/orkhanhuseyn/verifying-integrity-of-files-using-nodejs-1gnd)
 - [We Are Moving to Rust](https://dev.to/reductstore/we-are-moving-to-rust-54p3)
-- [Cloud Computing: Core Concepts and Career Tips You Need to Know](https://dev.to/aradwan20/cloud-computing-core-concepts-and-career-tips-you-need-to-know-1a3j)
-- [A Beginner&#39;s Guide to React Redux Toolkit: Simplify Your State Management](https://dev.to/ezzahirtaha/a-beginners-guide-to-react-redux-toolkit-simplify-your-state-management-1he1)
-- [How to handle different application environments like Prod, Dev, Test, etc.?](https://dev.to/iamibi/how-to-handle-different-application-environments-like-prod-dev-test-etc-3h68)
 <!-- BLOG-POST-LIST:END -->
 
