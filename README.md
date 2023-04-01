@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top React Data Fetching Libraries](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
+- [Improve Yourself as a developer](https://dev.to/brojenuel/improve-yourself-as-a-developer-5836)
+- [Learn How to Use Artifactory as a Docker Registry](https://dev.to/pavanbelagatti/learn-how-to-use-artifactory-as-a-docker-registry-446g)
 - [Beyond the Basics: Discovering the Untold Features of .NET](https://dev.to/bhavin9920/beyond-the-basics-discovering-the-untold-features-of-net-355f)
-- [Detección de objetos con Azure Custom Vision](https://dev.to/esdanielgomez/deteccion-de-objetos-con-azure-custom-vision-pp9)
-- [Best Minors to Pair with a Computer Science Degree: Enhance Your Expertise and Marketability](https://dev.to/sbang/best-minors-to-pair-with-a-computer-science-degree-enhance-your-expertise-and-marketability-47gh)
-- [Automatizando la generación de datos ficticios con Seed, Factory, Faker y TypeORM en NestJS](https://dev.to/imgildev/automatizando-la-generacion-de-datos-ficticios-con-seed-factory-faker-y-typeorm-en-nestjs-5fpc)
 <!-- BLOG-POST-LIST:END -->
 
