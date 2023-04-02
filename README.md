@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Horizontal Calendar - a simple date picker for React Native](https://dev.to/kharioki/horizontal-calendar-a-simple-date-picker-for-react-native-4h2)
-- [apt-key&#39;in deprecate olması](https://dev.to/aciklab/apt-keyin-deprecate-olmasi-1ph7)
-- [Introduction to Data Version Control](https://dev.to/archybrendah/introduction-to-data-version-control-2g1a)
-- [Verifying Integrity of Files using NodeJS](https://dev.to/orkhanhuseyn/verifying-integrity-of-files-using-nodejs-1gnd)
+- [Memory Management](https://dev.to/pablinme/memory-management-3367)
+- [The Best Locations for Software Outsourcing in Asia](https://dev.to/jasonlee/the-best-locations-for-software-outsourcing-in-asia-1c13)
+- [Disjoint Set Union heuristics](https://dev.to/aallzz/disjoint-set-union-heuristics-2e82)
+- [Create an Angular app with ESLint &amp; Tailwind CSS in seconds](https://dev.to/joshuahills/create-an-angular-app-with-eslint-tailwind-css-in-seconds-9jb)
 <!-- BLOG-POST-LIST:END -->
 
