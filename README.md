@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Next.js Pre-Rendering with Server-Side Props](https://dev.to/hi_iam_chris/unlocking-the-power-of-nextjs-pre-rendering-with-server-side-props-1od4)
 - [A new simple approach to diagram as code on AWS with CDK and D2](https://dev.to/aws-builders/a-new-simple-approach-to-diagram-as-code-on-aws-with-cdk-and-d2-17ef)
 - [Top 10 Best VScode Themes for 2023](https://dev.to/bekbrace/top-10-best-vscode-themes-for-2023-21kl)
 - [Unlock the Secrets of Prompt Engineering: Master the Craft with This Proven Template 🚀](https://dev.to/jimmymcbride/unlock-the-secrets-of-prompt-engineering-master-the-craft-with-this-proven-template-39nm)
-- [Three JS Examples : 2. Three js rocket animation](https://dev.to/jon_snow789/three-js-examples-2-three-js-rocket-animation-175i)
 <!-- BLOG-POST-LIST:END -->
 
