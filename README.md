@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Job Hunting Season: Month 4](https://dev.to/taepal467/job-hunting-season-month-4-2e9i)
+- [Hello World: Reflections of a Newbie Developer](https://dev.to/jocelynvargas123/hello-world-reflections-of-a-newbie-developer-7ho)
 - [Comprehensive Guide to GitHub for Data Scientists](https://dev.to/mburu_elvis/comprehensive-guide-to-github-for-data-scientists-1lnn)
-- [How to configure multiple environments with Ansible Automation Platform](https://dev.to/xlmriosx/how-to-configure-multiple-environments-with-ansible-automation-platform-55e5)
-- [How to Generate a Quick Node.js Project with TypeScript.](https://dev.to/chrisciokler/how-to-generate-a-quick-nodejs-project-with-typescript-5fom)
-- [How&lpar;and why&rpar; to commit.](https://dev.to/justkooba/howand-why-to-commit-30n8)
+- [The path to seniority](https://dev.to/adamgen/the-path-to-seniority-1ppg)
 <!-- BLOG-POST-LIST:END -->
 
