@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Secrets of Prompt Engineering: Master the Craft with This Proven Template 🚀](https://dev.to/jimmymcbride/unlock-the-secrets-of-prompt-engineering-master-the-craft-with-this-proven-template-39nm)
+- [Three JS Examples : 2. Three js rocket animation](https://dev.to/jon_snow789/three-js-examples-2-three-js-rocket-animation-175i)
 - [Understanding Data Types in JavaScript &lpar; Part - 2 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-2--5gj6)
 - [Yet Another Newsletter LOL: 3 Lines of CSS](https://dev.to/nickytonline/yet-another-newsletter-lol-3-lines-of-css-445g)
-- [Typescript utility types that you must know](https://dev.to/arafat4693/typescript-utility-types-that-you-must-know-4m6k)
-- [Get your certificate easily! Knowledge? Who needs that?](https://dev.to/aws-builders/get-your-certificate-easily-knowledge-who-needs-that-3pg7)
 <!-- BLOG-POST-LIST:END -->
 
