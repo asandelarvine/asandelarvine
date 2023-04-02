@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Get your certificate easily! Knowledge? Who needs that?](https://dev.to/aws-builders/get-your-certificate-easily-knowledge-who-needs-that-3pg7)
+- [GIT:Basic commands](https://dev.to/abijithgabriel/gitbasic-commands-3agm)
+- [The journey to join the offensive security highs &lpar;part 1&rpar;](https://dev.to/perigk/the-journey-to-join-the-offensive-security-highs-part-1-h5l)
 - [ChatGPT for WordPress](https://dev.to/polterguy/chatgpt-for-wordpress-253b)
-- [Deploy Your Next.js App with AWS Amplify Like a Pro — It’s Easier Than You Think](https://dev.to/nitinfab/deploy-your-nextjs-app-with-aws-amplify-like-a-pro-its-easier-than-you-think-4c41)
-- [Make predictions with no-code ML in Amazon SageMaker Canvas as a Business User](https://dev.to/aws-heroes/make-predictions-with-no-code-ml-in-amazon-sagemaker-canvas-as-a-business-user-3af2)
-- [Does software development have an age limit?](https://dev.to/alexhyettdev/does-software-development-have-an-age-limit-1cjo)
 <!-- BLOG-POST-LIST:END -->
 
