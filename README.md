@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Tricks to take the Performance of your Website to the Moon 🚀🌙](https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl)
+- [Python map&lpar;&rpar;, filter&lpar;&rpar; and reduce&lpar;&rpar;](https://dev.to/max24816/python-map-filter-and-reduce-1ldj)
 - [Memory Management](https://dev.to/pablinme/memory-management-3367)
 - [The Pros and Cons of Using Node.js for Mobile Development](https://dev.to/folasayosamuel/the-pros-and-cons-of-using-nodejs-for-mobile-development-4n76)
-- [Disjoint Set Union heuristics](https://dev.to/aallzz/disjoint-set-union-heuristics-2e82)
-- [Create an Angular app with ESLint &amp; Tailwind CSS in seconds](https://dev.to/joshuahills/create-an-angular-app-with-eslint-tailwind-css-in-seconds-9jb)
 <!-- BLOG-POST-LIST:END -->
 
