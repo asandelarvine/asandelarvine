@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Tech Skills: Best Udemy Courses to Take in 2023](https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4)
 - [7 Tricks to take the Performance of your Website to the Moon 🚀🌙](https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl)
 - [Python map&lpar;&rpar;, filter&lpar;&rpar; and reduce&lpar;&rpar;](https://dev.to/max24816/python-map-filter-and-reduce-1ldj)
-- [Memory Management](https://dev.to/pablinme/memory-management-3367)
-- [The Pros and Cons of Using Node.js for Mobile Development](https://dev.to/folasayosamuel/the-pros-and-cons-of-using-nodejs-for-mobile-development-4n76)
+- [Python CRUD Rest API, using: Django, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe)
 <!-- BLOG-POST-LIST:END -->
 
