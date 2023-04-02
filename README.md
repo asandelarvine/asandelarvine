@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Guide to GitHub for Data Scientists](https://dev.to/mburu_elvis/comprehensive-guide-to-github-for-data-scientists-1lnn)
+- [How to configure multiple environments with Ansible Automation Platform](https://dev.to/xlmriosx/how-to-configure-multiple-environments-with-ansible-automation-platform-55e5)
 - [How to Generate a Quick Node.js Project with TypeScript.](https://dev.to/chrisciokler/how-to-generate-a-quick-nodejs-project-with-typescript-5fom)
 - [How&lpar;and why&rpar; to commit.](https://dev.to/justkooba/howand-why-to-commit-30n8)
-- [5 CSS authors that I recommend reading](https://dev.to/melnik909/5-css-authors-that-i-recommend-reading-5am0)
-- [Data structures in Computer Science](https://dev.to/geminiixd/data-structures-in-computer-science-158g)
 <!-- BLOG-POST-LIST:END -->
 
