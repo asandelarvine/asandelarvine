@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Your Next.js App with AWS Amplify Like a Pro — It’s Easier Than You Think](https://dev.to/nitinfab/deploy-your-nextjs-app-with-aws-amplify-like-a-pro-its-easier-than-you-think-4c41)
+- [Does software development have an age limit?](https://dev.to/alexhyettdev/does-software-development-have-an-age-limit-1cjo)
+- [Promise.all&lpar;&rpar; vs. Promise.allSettled&lpar;&rpar;: Understanding the differences](https://dev.to/nikolasbarwicki/promiseall-vs-promiseallsettled-understanding-the-differences-3n39)
 - [Comparing accessibility: Hashnode vs. Dev.to](https://dev.to/emmadawsondev/comparing-accessibility-hashnode-vs-devto-21g5)
-- [Open-Source or Proprietary Software?](https://dev.to/codenewbieteam/open-source-or-proprietary-software-hil)
-- [CS2 just had an update](https://dev.to/kartik7120/cs2-just-had-an-update-176o)
-- [Build Your Tech Skills: Best Udemy Courses to Take in 2023](https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4)
 <!-- BLOG-POST-LIST:END -->
 
