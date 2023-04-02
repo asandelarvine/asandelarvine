@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing accessibility: Hashnode vs. Dev.to](https://dev.to/emmadawsondev/comparing-accessibility-hashnode-vs-devto-21g5)
 - [Open-Source or Proprietary Software?](https://dev.to/codenewbieteam/open-source-or-proprietary-software-hil)
 - [CS2 just had an update](https://dev.to/kartik7120/cs2-just-had-an-update-176o)
 - [Build Your Tech Skills: Best Udemy Courses to Take in 2023](https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4)
-- [7 Tricks to take the Performance of your Website to the Moon 🚀🌙](https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl)
 <!-- BLOG-POST-LIST:END -->
 
