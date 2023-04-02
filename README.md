@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Data Types in JavaScript &lpar; Part - 2 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-2--5gj6)
+- [Yet Another Newsletter LOL: 3 Lines of CSS](https://dev.to/nickytonline/yet-another-newsletter-lol-3-lines-of-css-445g)
+- [Typescript utility types that you must know](https://dev.to/arafat4693/typescript-utility-types-that-you-must-know-4m6k)
 - [Get your certificate easily! Knowledge? Who needs that?](https://dev.to/aws-builders/get-your-certificate-easily-knowledge-who-needs-that-3pg7)
-- [GIT:Basic commands](https://dev.to/abijithgabriel/gitbasic-commands-3agm)
-- [The journey to join the offensive security highs &lpar;part 1&rpar;](https://dev.to/perigk/the-journey-to-join-the-offensive-security-highs-part-1-h5l)
-- [ChatGPT for WordPress](https://dev.to/polterguy/chatgpt-for-wordpress-253b)
 <!-- BLOG-POST-LIST:END -->
 
