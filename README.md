@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A new simple approach to diagram as code on AWS with CDK and D2](https://dev.to/aws-builders/a-new-simple-approach-to-diagram-as-code-on-aws-with-cdk-and-d2-17ef)
+- [Top 10 Best VScode Themes for 2023](https://dev.to/bekbrace/top-10-best-vscode-themes-for-2023-21kl)
 - [Unlock the Secrets of Prompt Engineering: Master the Craft with This Proven Template 🚀](https://dev.to/jimmymcbride/unlock-the-secrets-of-prompt-engineering-master-the-craft-with-this-proven-template-39nm)
 - [Three JS Examples : 2. Three js rocket animation](https://dev.to/jon_snow789/three-js-examples-2-three-js-rocket-animation-175i)
-- [Understanding Data Types in JavaScript &lpar; Part - 2 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-2--5gj6)
-- [Yet Another Newsletter LOL: 3 Lines of CSS](https://dev.to/nickytonline/yet-another-newsletter-lol-3-lines-of-css-445g)
 <!-- BLOG-POST-LIST:END -->
 
