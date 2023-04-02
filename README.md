@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to Storybook](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
+- [You Don&#39;t Need to Sacrifice Developer Experience for Productivity](https://dev.to/linearb/you-dont-need-to-sacrifice-developer-experience-for-productivity-4abc)
 - [Job Hunting Season: Month 4](https://dev.to/taepal467/job-hunting-season-month-4-2e9i)
 - [Hello World: Reflections of a Newbie Developer](https://dev.to/jocelynvargas123/hello-world-reflections-of-a-newbie-developer-7ho)
-- [Comprehensive Guide to GitHub for Data Scientists](https://dev.to/mburu_elvis/comprehensive-guide-to-github-for-data-scientists-1lnn)
-- [The path to seniority](https://dev.to/adamgen/the-path-to-seniority-1ppg)
 <!-- BLOG-POST-LIST:END -->
 
