@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple port scanning without a port scanner](https://dev.to/yugabyte/simple-port-scanning-without-a-port-scanner-3mj7)
 - [3 Ways to Optimize Your Node.js Application Performance](https://dev.to/pavanbelagatti/3-ways-to-optimize-your-nodejs-application-performance-2mo5)
 - [Abstract Class vs Interface in C#: Analyzing the Pros and Cons](https://dev.to/bytehide/abstract-class-vs-interface-in-c-analyzing-the-pros-and-cons-32mj)
 - [Improving Code Quality and Deployment Time for Your AWS-hosted Application](https://dev.to/browntec/improving-code-quality-and-deployment-time-for-your-aws-hosted-application-2656)
-- [Our AI-Powered TechCrunch Clone Went Viral, This Is How We Built It](https://dev.to/appwrite/our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d)
 <!-- BLOG-POST-LIST:END -->
 
