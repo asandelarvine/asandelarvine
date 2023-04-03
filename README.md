@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Database for your Project](https://dev.to/documatic/awesome-database-for-your-project-3380)
-- [Understanding Data Types in JavaScript &lpar; Part - 3 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-3--3joi)
-- [Manage GitHub Issues from Visual Studio Code](https://dev.to/this-is-learning/manage-github-issues-from-visual-studio-code-3pop)
-- [I made Express faster than Fastify &lpar;100x faster JSON&rpar;](https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g)
+- [FLaNK Stack Weekly 3 April 2023](https://dev.to/tspannhw/flank-stack-weekly-3-april-2023-30n7)
+- [Laravel for Beginners #5 - Create the Frontend](https://dev.to/ericnanhu/laravel-for-beginners-5-78d)
+- [Laravel for Beginners #4 - Create a Dashboard](https://dev.to/ericnanhu/laravel-for-beginners-4-21n8)
+- [Laravel for Beginners #3 - The CRUD Operations](https://dev.to/ericnanhu/laravel-for-beginners-3-58mo)
 <!-- BLOG-POST-LIST:END -->
 
