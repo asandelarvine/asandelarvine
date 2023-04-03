@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LearnGPT: Learn Anything](https://dev.to/relatedcode/learngpt-learn-anything-2lhk)
-- [AWS open source newsletter, #151](https://dev.to/aws/aws-open-source-newsletter-151-h8m)
-- [HTML Elements: The Building Blocks of Web Pages](https://dev.to/crossskatee1/html-elements-the-building-blocks-of-web-pages-fb4)
-- [S&#39;Monday 😪🔪How Do You Debug? 🪲](https://dev.to/codenewbieteam/smonday-how-do-you-debug-43ae)
+- [Our AI-Powered TechCrunch Clone Went Viral, This Is How We Built It](https://dev.to/appwrite/our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d)
+- [#TestingTalks with George Dinwiddie](https://dev.to/mathilde_llg/testingtalks-with-george-dinwiddie-2b)
+- [AWS Lambda Cookbook — Elevate your handler’s code — Part 4 — Environment Variables](https://dev.to/aws-builders/aws-lambda-cookbook-elevate-your-handlers-code-part-4-environment-variables-2k4f)
+- [Comparing Full Page Screenshots, Cross-Device](https://dev.to/ingosteinke/comparing-full-page-screenshots-cross-device-5ahc)
 <!-- BLOG-POST-LIST:END -->
 
