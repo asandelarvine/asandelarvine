@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Top 5 Skills You Need to Future-Proof Your Career in 2023 and Beyond](https://dev.to/alvisonhunter/the-top-5-skills-you-need-to-future-proof-your-career-in-2023-and-beyond-4pim)
-- [A Beginner&#39;s Guide to Prompt Engineering with GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
-- [How to use chat gpt as a developer?🚀](https://dev.to/rafikadir/how-to-use-chat-gpt-as-a-developer-gcd)
-- [Building a Large Scale Micro-frontend Application.](https://dev.to/cesscode/building-a-large-scale-micro-frontend-application-dh5)
+- [Considerations before creating a hybrid infrastructure with AWS](https://dev.to/aws-builders/considerations-before-creating-a-hybrid-infrastructure-with-aws-4j2f)
+- [Measuring latencies for the new region of AWS Spain &lpar;eu-south-2&rpar;](https://dev.to/aws-builders/measuring-latencies-for-the-new-region-of-aws-spain-eu-south-2-kpd)
+- [Using Node.js for Automated Testing and Continuous Integration](https://dev.to/folasayosamuel/using-nodejs-for-automated-testing-and-continuous-integration-36k5)
+- [How to Create EC2 Instance &lpar;Ubuntu 22.04&rpar; on AWS and Connect Via SSH using PEM](https://dev.to/ivy_j/how-to-create-ec2-instance-ubuntu-2204-on-aws-and-connect-via-ssh-using-pem-492o)
 <!-- BLOG-POST-LIST:END -->
 
