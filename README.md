@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [S&#39;Monday 😪🔪How Do You Debug? 🪲](https://dev.to/codenewbieteam/smonday-how-do-you-debug-43ae)
 - [Designing and conducting digital testing for mobile applications](https://dev.to/lambdatest/designing-and-conducting-digital-testing-for-mobile-applications-31kb)
+- [10 Trending Node.js Libraries and Frameworks to Boost Your Web Development](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)
 - [Fascinating Programming Facts You Need to Know](https://dev.to/mavensingh/fascinating-programming-facts-you-need-to-know-38bm)
-- [Various ways to make an Input mandatory in Angular](https://dev.to/this-is-angular/various-ways-to-make-an-input-mandatory-in-angular-2jko)
-- [The Future of Code: When Humans and AI Collaborate](https://dev.to/bhavin9920/the-future-of-code-when-humans-and-ai-collaborate-24jb)
 <!-- BLOG-POST-LIST:END -->
 
