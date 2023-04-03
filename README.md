@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing and conducting digital testing for mobile applications](https://dev.to/lambdatest/designing-and-conducting-digital-testing-for-mobile-applications-31kb)
+- [Fascinating Programming Facts You Need to Know](https://dev.to/mavensingh/fascinating-programming-facts-you-need-to-know-38bm)
+- [Various ways to make an Input mandatory in Angular](https://dev.to/this-is-angular/various-ways-to-make-an-input-mandatory-in-angular-2jko)
 - [The Future of Code: When Humans and AI Collaborate](https://dev.to/bhavin9920/the-future-of-code-when-humans-and-ai-collaborate-24jb)
-- [Ethical Hacking - Conceptos básicos](https://dev.to/dennysjmarquez/ethical-hacking-conceptos-basicos-1coc)
-- [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
-- [Generate ASCII Graphs of Cryptocurrency Prices in Python](https://dev.to/xsub/generate-ascii-graphs-of-cryptocurrency-prices-in-python-47d8)
 <!-- BLOG-POST-LIST:END -->
 
