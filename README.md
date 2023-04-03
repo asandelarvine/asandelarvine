@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Database for your Project](https://dev.to/documatic/awesome-database-for-your-project-3380)
+- [Understanding Data Types in JavaScript &lpar; Part - 3 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-3--3joi)
+- [Manage GitHub Issues from Visual Studio Code](https://dev.to/this-is-learning/manage-github-issues-from-visual-studio-code-3pop)
 - [I made Express faster than Fastify &lpar;100x faster JSON&rpar;](https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g)
-- [Paso a paso: Cómo mejorar la seguridad de tu aplicación frontend usando AWS Secret Manager, ejemplo con VueJs](https://dev.to/aws-builders/paso-a-paso-como-mejorar-la-seguridad-de-tu-aplicacion-frontend-usando-aws-secret-manager-ejemplo-con-vuejs-41hi)
-- [Meme Monday 🐌](https://dev.to/ben/meme-monday-3nd9)
-- [Review: Video Tap - automatically convert YouTube videos to blog posts](https://dev.to/codepo8/review-video-tap-automatically-convert-youtube-videos-to-blog-posts-15oe)
 <!-- BLOG-POST-LIST:END -->
 
