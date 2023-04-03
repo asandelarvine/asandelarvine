@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly 3 April 2023](https://dev.to/tspannhw/flank-stack-weekly-3-april-2023-30n7)
-- [Laravel for Beginners #5 - Create the Frontend](https://dev.to/ericnanhu/laravel-for-beginners-5-78d)
-- [Laravel for Beginners #4 - Create a Dashboard](https://dev.to/ericnanhu/laravel-for-beginners-4-21n8)
-- [Laravel for Beginners #3 - The CRUD Operations](https://dev.to/ericnanhu/laravel-for-beginners-3-58mo)
+- [Conditional Statements in JavaScript: If-Else](https://dev.to/max24816/conditional-statements-in-javascript-if-else-15jc)
+- [How to create a read-only GraphQL server](https://dev.to/woovi/how-to-create-a-read-only-graphql-server-12ck)
+- [How to build a portfolio section with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-portfolio-section-with-tailwind-css-and-flowbite-3bh0)
+- [Download 20 Best Free Dashboard UI for your next project](https://dev.to/jon_snow789/download-20-best-free-dashboard-ui-for-your-next-project-2nl)
 <!-- BLOG-POST-LIST:END -->
 
