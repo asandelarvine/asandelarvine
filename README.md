@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why aren’t you contributing to open source?](https://dev.to/bekahhw/why-arent-you-contributing-to-open-source-3nk8)
 - [Conditional Statements in JavaScript: If-Else](https://dev.to/max24816/conditional-statements-in-javascript-if-else-15jc)
 - [How to create a read-only GraphQL server](https://dev.to/woovi/how-to-create-a-read-only-graphql-server-12ck)
 - [How to build a portfolio section with Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-portfolio-section-with-tailwind-css-and-flowbite-3bh0)
-- [Download 20 Best Free Dashboard UI for your next project](https://dev.to/jon_snow789/download-20-best-free-dashboard-ui-for-your-next-project-2nl)
 <!-- BLOG-POST-LIST:END -->
 
