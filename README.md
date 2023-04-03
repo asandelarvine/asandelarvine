@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I made Express faster than Fastify &lpar;100x faster JSON&rpar;](https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g)
+- [Paso a paso: Cómo mejorar la seguridad de tu aplicación frontend usando AWS Secret Manager, ejemplo con VueJs](https://dev.to/aws-builders/paso-a-paso-como-mejorar-la-seguridad-de-tu-aplicacion-frontend-usando-aws-secret-manager-ejemplo-con-vuejs-41hi)
 - [Meme Monday 🐌](https://dev.to/ben/meme-monday-3nd9)
 - [Review: Video Tap - automatically convert YouTube videos to blog posts](https://dev.to/codepo8/review-video-tap-automatically-convert-youtube-videos-to-blog-posts-15oe)
-- [Monthly Amazon Location Service Updates - 2023.03](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202303-140l)
-- [Simulating Streaming Data for Fraud Detection with Datagen CLI](https://dev.to/bobbyiliev/simulating-streaming-data-for-fraud-detection-with-datagen-cli-4aa8)
 <!-- BLOG-POST-LIST:END -->
 
