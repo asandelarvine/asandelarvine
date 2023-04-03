@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Code: When Humans and AI Collaborate](https://dev.to/bhavin9920/the-future-of-code-when-humans-and-ai-collaborate-24jb)
 - [Ethical Hacking - Conceptos básicos](https://dev.to/dennysjmarquez/ethical-hacking-conceptos-basicos-1coc)
 - [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
 - [Generate ASCII Graphs of Cryptocurrency Prices in Python](https://dev.to/xsub/generate-ascii-graphs-of-cryptocurrency-prices-in-python-47d8)
-- [Beginner&#39;s Guide to Storybook](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
 <!-- BLOG-POST-LIST:END -->
 
