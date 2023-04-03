@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LearnGPT: Learn Anything](https://dev.to/relatedcode/learngpt-learn-anything-2lhk)
+- [AWS open source newsletter, #151](https://dev.to/aws/aws-open-source-newsletter-151-h8m)
+- [HTML Elements: The Building Blocks of Web Pages](https://dev.to/crossskatee1/html-elements-the-building-blocks-of-web-pages-fb4)
 - [S&#39;Monday 😪🔪How Do You Debug? 🪲](https://dev.to/codenewbieteam/smonday-how-do-you-debug-43ae)
-- [Designing and conducting digital testing for mobile applications](https://dev.to/lambdatest/designing-and-conducting-digital-testing-for-mobile-applications-31kb)
-- [10 Trending Node.js Libraries and Frameworks to Boost Your Web Development](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)
-- [Fascinating Programming Facts You Need to Know](https://dev.to/mavensingh/fascinating-programming-facts-you-need-to-know-38bm)
 <!-- BLOG-POST-LIST:END -->
 
