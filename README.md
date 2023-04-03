@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethical Hacking - Conceptos básicos](https://dev.to/dennysjmarquez/ethical-hacking-conceptos-basicos-1coc)
 - [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
+- [Generate ASCII Graphs of Cryptocurrency Prices in Python](https://dev.to/xsub/generate-ascii-graphs-of-cryptocurrency-prices-in-python-47d8)
 - [Beginner&#39;s Guide to Storybook](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
-- [You Don&#39;t Need to Sacrifice Developer Experience for Productivity](https://dev.to/linearb/you-dont-need-to-sacrifice-developer-experience-for-productivity-4abc)
-- [Filtering on DENSE_RANK&lpar;&rpar; optimized as pushed-down DISTINCT in YugabyteDB](https://dev.to/yugabyte/filtering-on-denserank-optimized-as-pushed-down-distinct-in-yugabytedb-5mp)
 <!-- BLOG-POST-LIST:END -->
 
