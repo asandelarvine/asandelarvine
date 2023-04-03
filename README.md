@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MLOps is 98% Data Engineering](https://dev.to/cpard/mlops-is-98-data-engineering-2bpi)
 - [Relational database vs nosql: A Beginner&#39;s Guide](https://dev.to/documatic/relational-database-vs-nosql-a-beginners-guide-37gl)
+- [My journey through learning Python : Where to begin?](https://dev.to/tiffanie_boreux/my-journey-through-learning-python-where-to-begin-5b96)
 - [Questions to ask in an interview](https://dev.to/virtualcoffee/questions-to-ask-in-an-interview-2g0e)
-- [Why aren’t you contributing to open source?](https://dev.to/bekahhw/why-arent-you-contributing-to-open-source-3nk8)
-- [Conditional Statements in JavaScript: If-Else](https://dev.to/max24816/conditional-statements-in-javascript-if-else-15jc)
 <!-- BLOG-POST-LIST:END -->
 
