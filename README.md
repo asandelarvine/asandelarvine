@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple port scanning without a port scanner](https://dev.to/yugabyte/simple-port-scanning-without-a-port-scanner-3mj7)
-- [3 Ways to Optimize Your Node.js Application Performance](https://dev.to/pavanbelagatti/3-ways-to-optimize-your-nodejs-application-performance-2mo5)
-- [Abstract Class vs Interface in C#: Analyzing the Pros and Cons](https://dev.to/bytehide/abstract-class-vs-interface-in-c-analyzing-the-pros-and-cons-32mj)
-- [Improving Code Quality and Deployment Time for Your AWS-hosted Application](https://dev.to/browntec/improving-code-quality-and-deployment-time-for-your-aws-hosted-application-2656)
+- [Meme Monday 🐌](https://dev.to/ben/meme-monday-3nd9)
+- [Review: Video Tap - automatically convert YouTube videos to blog posts](https://dev.to/codepo8/review-video-tap-automatically-convert-youtube-videos-to-blog-posts-15oe)
+- [Monthly Amazon Location Service Updates - 2023.03](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202303-140l)
+- [Simulating Streaming Data for Fraud Detection with Datagen CLI](https://dev.to/bobbyiliev/simulating-streaming-data-for-fraud-detection-with-datagen-cli-4aa8)
 <!-- BLOG-POST-LIST:END -->
 
