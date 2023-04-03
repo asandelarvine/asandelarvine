@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top 5 Skills You Need to Future-Proof Your Career in 2023 and Beyond](https://dev.to/alvisonhunter/the-top-5-skills-you-need-to-future-proof-your-career-in-2023-and-beyond-4pim)
+- [A Beginner&#39;s Guide to Prompt Engineering with GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [How to use chat gpt as a developer?🚀](https://dev.to/rafikadir/how-to-use-chat-gpt-as-a-developer-gcd)
 - [Building a Large Scale Micro-frontend Application.](https://dev.to/cesscode/building-a-large-scale-micro-frontend-application-dh5)
-- [🧹 Tidying Up Your Rails Code: The Art of Refactoring, Marie Kondo Style](https://dev.to/ahmednadar/tidying-up-your-rails-code-the-art-of-refactoring-marie-kondo-style-4lgd)
-- [MLOps is 98% Data Engineering](https://dev.to/cpard/mlops-is-98-data-engineering-2bpi)
 <!-- BLOG-POST-LIST:END -->
 
