@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Medusa: A New Way to Build Commerce](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
+- [Moonly weekly progress update #43](https://dev.to/moonly/moonly-weekly-progress-update-43-2mh9)
+- [What is Design System and how to build it](https://dev.to/jvidaln/what-is-design-system-and-how-to-build-it-30ad)
 - [Three JS Examples : 4. Three js geometry animation](https://dev.to/jon_snow789/three-js-examples-4-three-js-geometry-animation-4e05)
-- [Connect modbus sensor XY-MD02 to NodeRED with balena](https://dev.to/mpous/connect-modbus-sensor-xy-md02-to-nodered-with-balena-pn4)
-- [how to change button color on press in Flutter](https://dev.to/realnamehidden1_61/how-to-change-button-color-on-press-in-flutter-55m)
-- [Notes from competing in my first CTF](https://dev.to/devdevcharlie/notes-from-competing-in-my-first-ctf-5gf0)
 <!-- BLOG-POST-LIST:END -->
 
