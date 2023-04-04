@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [useState or useReducer – which to choose for your application](https://dev.to/m_adams1909/usestate-or-usereducer-which-to-choose-for-your-application-ia5)
-- [From Installation to Database: How to connect your IoT devices with AWS IoT Core and Timestream using Terraform](https://dev.to/aws-builders/from-installation-to-database-how-to-connect-your-iot-devices-with-aws-iot-core-and-timestream-using-terraform-bb9)
-- [Explaining Algorithms to my girlfriend - Binary Search](https://dev.to/daniellimae/explain-algorithms-binary-search-2e0g)
-- [Building Robust Backend APIs with State Machines: A Comprehensive Guide](https://dev.to/mohsinalipro/building-robust-backend-apis-with-state-machines-a-comprehensive-guide-2g37)
+- [memory GAME NEW FEATURE](https://dev.to/nagvanshi9275/memory-game-new-feature-3c0e)
+- [A Detailed Guide on How to Build a Website with Next.js and Headless WordPress + SEO - 2023 Web Development](https://dev.to/jeffsalive/a-detailed-guide-on-how-to-build-a-website-with-nextjs-and-headless-wordpress-seo-2023-web-development-4nof)
+- [Conditional Statements in JavaScript: Switch](https://dev.to/max24816/conditional-statements-in-javascript-switch-53l)
+- [Using the Linux Free Command With Examples](https://dev.to/danielfavour/using-the-linux-free-command-with-examples-4lkc)
 <!-- BLOG-POST-LIST:END -->
 
