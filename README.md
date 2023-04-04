@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
+- [Serverless Functions &amp; FaaS with Vercel](https://dev.to/anuradha9712/serverless-functions-faas-with-vercel-4a44)
+- [🚫 Stop using SWITCH, please 🙏](https://dev.to/ivanzm123/stop-using-switch-please-2hif)
 - [Why Vets Who Code is Becoming an AI-Powered Nonprofit](https://dev.to/vetswhocode/why-vets-who-code-is-becoming-an-ai-powered-nonprofit-3c3g)
-- [Squiggly idealism](https://dev.to/adam_cyclones/devils-advocate-vs-idealism-33on)
-- [Understanding the typeof Operator in JavaScript](https://dev.to/makstyle119/understanding-the-typeof-operator-in-javascript-1pa4)
-- [UIUC MCS - CS 498 Review - Cloud Computing Applications](https://dev.to/scc33/uiuc-mcs-cs-498-review-cloud-computing-applications-b6i)
 <!-- BLOG-POST-LIST:END -->
 
