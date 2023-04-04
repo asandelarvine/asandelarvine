@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the typeof Operator in JavaScript](https://dev.to/makstyle119/understanding-the-typeof-operator-in-javascript-1pa4)
+- [UIUC MCS - CS 498 Review - Cloud Computing Applications](https://dev.to/scc33/uiuc-mcs-cs-498-review-cloud-computing-applications-b6i)
+- [Trending ML repos of the week 📈](https://dev.to/quine/trending-ml-repos-of-the-week-4mhn)
 - [Medusa: A New Way to Build Commerce](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
-- [Moonly weekly progress update #43](https://dev.to/moonly/moonly-weekly-progress-update-43-2mh9)
-- [What is Design System and how to build it](https://dev.to/jvidaln/what-is-design-system-and-how-to-build-it-30ad)
-- [Three JS Examples : 4. Three js geometry animation](https://dev.to/jon_snow789/three-js-examples-4-three-js-geometry-animation-4e05)
 <!-- BLOG-POST-LIST:END -->
 
