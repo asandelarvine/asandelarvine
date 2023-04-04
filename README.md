@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You put what in a public subnet‽](https://dev.to/aws-builders/you-put-what-in-a-public-subnet-2hm2)
 - [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k)
 - [DevOps Tooling Landscape](https://dev.to/devland/devops-tooling-landscape-33m8)
-- [Guide to Creating a Secure and Efficient Personal AWS Account in 2023 - Best Practices for First-Time Users](https://dev.to/aws-builders/guide-to-creating-a-secure-and-efficient-personal-aws-account-in-2023-best-practices-for-first-time-users-4cfn)
-- [GraphQL VS API Graph with 2 same examples](https://dev.to/ahmedsudani/graphql-vs-api-graph-with-2-examples-34f6)
+- [Django](https://dev.to/viyash/django-156g)
 <!-- BLOG-POST-LIST:END -->
 
