@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Vets Who Code is Becoming an AI-Powered Nonprofit](https://dev.to/vetswhocode/why-vets-who-code-is-becoming-an-ai-powered-nonprofit-3c3g)
+- [Squiggly idealism](https://dev.to/adam_cyclones/devils-advocate-vs-idealism-33on)
 - [Understanding the typeof Operator in JavaScript](https://dev.to/makstyle119/understanding-the-typeof-operator-in-javascript-1pa4)
 - [UIUC MCS - CS 498 Review - Cloud Computing Applications](https://dev.to/scc33/uiuc-mcs-cs-498-review-cloud-computing-applications-b6i)
-- [Trending ML repos of the week 📈](https://dev.to/quine/trending-ml-repos-of-the-week-4mhn)
-- [Medusa: A New Way to Build Commerce](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
 <!-- BLOG-POST-LIST:END -->
 
