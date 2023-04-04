@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boldness in Refactoring](https://dev.to/codenameone/boldness-in-refactoring-2h4g)
-- [Extending Vendure&#39;s functionality with custom plugins](https://dev.to/prasmalla/extending-vendures-functionality-with-custom-plugins-3l5c)
-- [Vector Databases](https://dev.to/josethz00/vector-databases-5df1)
-- [Why JavaScript is a Great Programming Language for Beginners](https://dev.to/max88git/why-javascript-is-a-great-programming-language-for-beginners-2fj6)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5gdm)
+- [JavaScript Destructuring.](https://dev.to/frankyob/javascript-destructuring-314e)
+- [Reflecting on my first 90 days building a startup as a technical cofounder](https://dev.to/irreverentmike/reflecting-on-my-first-90-days-building-a-startupas-a-technical-cofounder-1m53)
+- [Developer Experience is more important than ever &lpar;by the numbers&rpar;](https://dev.to/livecycle/developer-experience-is-more-important-than-ever-by-the-numbers-417m)
 <!-- BLOG-POST-LIST:END -->
 
