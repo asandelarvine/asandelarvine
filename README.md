@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [useState or useReducer – which to choose for your application](https://dev.to/m_adams1909/usestate-or-usereducer-which-to-choose-for-your-application-ia5)
 - [From Installation to Database: How to connect your IoT devices with AWS IoT Core and Timestream using Terraform](https://dev.to/aws-builders/from-installation-to-database-how-to-connect-your-iot-devices-with-aws-iot-core-and-timestream-using-terraform-bb9)
 - [Explaining Algorithms to my girlfriend - Binary Search](https://dev.to/daniellimae/explain-algorithms-binary-search-2e0g)
 - [Building Robust Backend APIs with State Machines: A Comprehensive Guide](https://dev.to/mohsinalipro/building-robust-backend-apis-with-state-machines-a-comprehensive-guide-2g37)
-- [Running Kubernetes on Github Actions](https://dev.to/kitarp29/running-kubernetes-on-github-actions-f2c)
 <!-- BLOG-POST-LIST:END -->
 
