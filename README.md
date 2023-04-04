@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a div with a curved bottom](https://dev.to/arnosolo/how-to-create-a-div-with-a-curved-bottom-4i6l)
+- [Design Pattern: Strategy &lpar;TS&rpar;](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
 - [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
 - [Serverless Functions &amp; FaaS with Vercel](https://dev.to/anuradha9712/serverless-functions-faas-with-vercel-4a44)
-- [🚫 Stop using SWITCH, please 🙏](https://dev.to/ivanzm123/stop-using-switch-please-2hif)
-- [Why Vets Who Code is Becoming an AI-Powered Nonprofit](https://dev.to/vetswhocode/why-vets-who-code-is-becoming-an-ai-powered-nonprofit-3c3g)
 <!-- BLOG-POST-LIST:END -->
 
