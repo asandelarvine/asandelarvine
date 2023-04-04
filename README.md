@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to upload files/images to Netlify Functions](https://dev.to/willkre/how-to-upload-filesimages-to-netlify-functions-32m7)
+- [Transform Your CSS Game: Bookmark These 10 CSS Generators](https://dev.to/nialljoemaher/transform-your-css-game-bookmark-these-10-css-generators-2030)
+- [Python requests üzerinde sertifika kullanımı](https://dev.to/aciklab/python-requests-uzerinde-sertifika-kullanimi-oan)
 - [Where to Start: Python or JavaScript?](https://dev.to/codenewbieteam/where-to-start-python-or-javascript-3peg)
-- [How to Integrate PayPal with HTML, CSS and Javascript](https://dev.to/evansifyke/how-to-integrate-paypal-with-html-css-and-javascript-2mnb)
-- [Infraception &lpar;Infrastructure + Inception&rpar; with CDK Pipelines](https://dev.to/aws-builders/infraception-infrastructure-inception-with-cdk-pipelines-3185)
-- [7 API Tools for REST Developers and Testers](https://dev.to/javinpaul/7-api-tools-for-rest-developers-and-testers-n67)
 <!-- BLOG-POST-LIST:END -->
 
