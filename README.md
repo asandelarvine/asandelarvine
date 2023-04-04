@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Creating a Secure and Efficient Personal AWS Account in 2023 - Best Practices for First-Time Users](https://dev.to/aws-builders/guide-to-creating-a-secure-and-efficient-personal-aws-account-in-2023-best-practices-for-first-time-users-4cfn)
+- [GraphQL VS API Graph with 2 same examples](https://dev.to/ahmedsudani/graphql-vs-api-graph-with-2-examples-34f6)
 - [GitLive adds support for more branching strategies including GitFlow](https://dev.to/gitlive/gitlive-adds-support-for-more-branching-strategies-including-gitflow-70g)
 - [How to upload files/images to Netlify Functions](https://dev.to/willkre/how-to-upload-filesimages-to-netlify-functions-32m7)
-- [Transform Your CSS Game: Bookmark These 10 CSS Generators](https://dev.to/nialljoemaher/transform-your-css-game-bookmark-these-10-css-generators-2030)
-- [What Makes Reviewpad the Best Pull Request Management System](https://dev.to/tyaga001/what-makes-reviewpad-the-best-pull-request-management-system-3i)
 <!-- BLOG-POST-LIST:END -->
 
