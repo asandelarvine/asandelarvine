@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You put what in a public subnet‽](https://dev.to/aws-builders/you-put-what-in-a-public-subnet-2hm2)
-- [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k)
-- [DevOps Tooling Landscape](https://dev.to/devland/devops-tooling-landscape-33m8)
-- [Django](https://dev.to/viyash/django-156g)
+- [Boldness in Refactoring](https://dev.to/codenameone/boldness-in-refactoring-2h4g)
+- [Extending Vendure&#39;s functionality with custom plugins](https://dev.to/prasmalla/extending-vendures-functionality-with-custom-plugins-3l5c)
+- [Vector Databases](https://dev.to/josethz00/vector-databases-5df1)
+- [Why JavaScript is a Great Programming Language for Beginners](https://dev.to/max88git/why-javascript-is-a-great-programming-language-for-beginners-2fj6)
 <!-- BLOG-POST-LIST:END -->
 
