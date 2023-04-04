@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5gdm)
-- [JavaScript Destructuring.](https://dev.to/frankyob/javascript-destructuring-314e)
-- [Reflecting on my first 90 days building a startup as a technical cofounder](https://dev.to/irreverentmike/reflecting-on-my-first-90-days-building-a-startupas-a-technical-cofounder-1m53)
-- [Developer Experience is more important than ever &lpar;by the numbers&rpar;](https://dev.to/livecycle/developer-experience-is-more-important-than-ever-by-the-numbers-417m)
+- [how to change button color on press in Flutter](https://dev.to/realnamehidden1_61/how-to-change-button-color-on-press-in-flutter-55m)
+- [JavaScript Destructuring.](https://dev.to/frankymolina/javascript-destructuring-55bo)
+- [Pass the AWS Certified Data Analytics - Specialty &lpar;DAS-C01&rpar; Exam 2023](https://dev.to/emilyn/pass-the-aws-certified-data-analytics-specialty-das-c01-exam-2023-4170)
+- [Launch Week Day 2 - Community Help](https://dev.to/payloadcms/launch-week-day-2-community-help-2l0g)
 <!-- BLOG-POST-LIST:END -->
 
