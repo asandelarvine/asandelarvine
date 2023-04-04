@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GitLive adds support for more branching strategies including GitFlow](https://dev.to/gitlive/gitlive-adds-support-for-more-branching-strategies-including-gitflow-70g)
 - [How to upload files/images to Netlify Functions](https://dev.to/willkre/how-to-upload-filesimages-to-netlify-functions-32m7)
 - [Transform Your CSS Game: Bookmark These 10 CSS Generators](https://dev.to/nialljoemaher/transform-your-css-game-bookmark-these-10-css-generators-2030)
-- [Python requests üzerinde sertifika kullanımı](https://dev.to/aciklab/python-requests-uzerinde-sertifika-kullanimi-oan)
-- [Where to Start: Python or JavaScript?](https://dev.to/codenewbieteam/where-to-start-python-or-javascript-3peg)
+- [What Makes Reviewpad the Best Pull Request Management System](https://dev.to/tyaga001/what-makes-reviewpad-the-best-pull-request-management-system-3i)
 <!-- BLOG-POST-LIST:END -->
 
