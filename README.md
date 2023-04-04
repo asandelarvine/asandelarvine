@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Three JS Examples : 4. Three js geometry animation](https://dev.to/jon_snow789/three-js-examples-4-three-js-geometry-animation-4e05)
+- [Connect modbus sensor XY-MD02 to NodeRED with balena](https://dev.to/mpous/connect-modbus-sensor-xy-md02-to-nodered-with-balena-pn4)
 - [how to change button color on press in Flutter](https://dev.to/realnamehidden1_61/how-to-change-button-color-on-press-in-flutter-55m)
-- [JavaScript Destructuring.](https://dev.to/frankymolina/javascript-destructuring-55bo)
-- [Pass the AWS Certified Data Analytics - Specialty &lpar;DAS-C01&rpar; Exam 2023](https://dev.to/emilyn/pass-the-aws-certified-data-analytics-specialty-das-c01-exam-2023-4170)
-- [Launch Week Day 2 - Community Help](https://dev.to/payloadcms/launch-week-day-2-community-help-2l0g)
+- [Notes from competing in my first CTF](https://dev.to/devdevcharlie/notes-from-competing-in-my-first-ctf-5gf0)
 <!-- BLOG-POST-LIST:END -->
 
