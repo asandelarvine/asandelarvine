@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prove Developer&#39;s Guide: Prove&#39;s Approach to Batch APIs](https://dev.to/prove/prove-developers-guide-proves-approach-to-batch-apis-2djg)
-- [Bind Route Info to Component Inputs &lpar;New Router feature&rpar;](https://dev.to/this-is-angular/bind-route-info-to-component-inputs-new-router-feature-35ll)
-- [Confessions from a Golfer Programmer](https://dev.to/devardi/confessions-from-a-golfer-programmer-3fb5)
-- [Welcome Thread - v219](https://dev.to/thepracticaldev/welcome-thread-v219-57lo)
+- [Bit Constant Macros in C](https://dev.to/pauljlucas/bit-constant-macros-in-c-42n9)
+- [Modernizing Legacy Applications in PHP: Challenges and Approaches](https://dev.to/antonlogvinenko/modernizing-legacy-applications-in-php-challenges-and-approaches-2h15)
+- [Guide to Face Detection and Recognition Software Development](https://dev.to/stanislavkutnyk/guide-to-face-detection-and-recognition-software-development-47b8)
+- [How to Create an NFT Marketplace: Approaches, Features, Costs](https://dev.to/marcelmadjanta/how-to-create-an-nft-marketplace-approaches-features-costs-361h)
 <!-- BLOG-POST-LIST:END -->
 
