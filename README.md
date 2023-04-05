@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [58 Rust Resources Every Learner Should Know in 2023](https://dev.to/apollolabsbin/58-rust-resources-every-learner-should-know-in-2023-12m9)
-- [50 Free Places To Promote Your Website](https://dev.to/stellarsphinx/50-free-places-to-promote-your-website-4ade)
-- [Angular Devs Beware: Are You Guilty of This Performance-Killing Practice?](https://dev.to/zokizuan/angular-devs-beware-are-you-guilty-of-this-performance-killing-practice-4lm6)
-- [Build a blog app with new Next.js 13 app folder and Contentlayer](https://dev.to/arshadyaseen/build-a-blog-app-with-new-nextjs-13-app-folder-and-contentlayer-2d6h)
+- [Data Reduction and Why It Is Important For Edge Computing](https://dev.to/reductstore/data-reduction-and-why-it-is-important-for-edge-computing-1f4m)
+- [10 Impressive Machine Learning Projects to Add to Your Python Portfolio](https://dev.to/sbang/10-impressive-machine-learning-projects-to-add-to-your-python-portfolio-30om)
+- [Run GitHub Actions on Your Local Machine! 🐙 💻](https://dev.to/ken_mwaura1/run-github-actions-on-your-local-machine-bdm)
+- [Create your Prototype or MVP with the T3 Stack](https://dev.to/mmuller88/create-your-prototype-or-mvp-with-the-t3-stack-1kf4)
 <!-- BLOG-POST-LIST:END -->
 
