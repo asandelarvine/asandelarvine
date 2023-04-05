@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Prove Developer&#39;s Guide: Prove&#39;s Approach to Batch APIs](https://dev.to/prove/prove-developers-guide-proves-approach-to-batch-apis-2djg)
+- [Bind Route Info to Component Inputs &lpar;New Router feature&rpar;](https://dev.to/this-is-angular/bind-route-info-to-component-inputs-new-router-feature-35ll)
 - [Confessions from a Golfer Programmer](https://dev.to/devardi/confessions-from-a-golfer-programmer-3fb5)
 - [Welcome Thread - v219](https://dev.to/thepracticaldev/welcome-thread-v219-57lo)
-- [From padawan to Jedi - boost your dev skills with the Ultimate Todo App](https://dev.to/sergiopereira/from-padawan-to-jedi-boost-your-dev-skills-with-the-ultimate-todo-app-155l)
 <!-- BLOG-POST-LIST:END -->
 
