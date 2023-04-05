@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Pull Requests, Post-Bootcamp Advice, and Implementing Alt Text!](https://dev.to/codenewbieteam/pull-requests-post-bootcamp-advice-and-implementing-alt-text-1l9o)
+- [How to cultivate goods connections](https://dev.to/daniellimae/how-to-cultivate-goods-connections-58ji)
 - [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-2pnf)
 - [10 Cool CodePen Demos &lpar;March 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)
-- [Rev Up Your Web Development with These Must-Try CSS Frameworks and Libraries](https://dev.to/itskunal/rev-up-your-web-development-with-these-must-try-css-frameworks-and-libraries-1ejm)
 <!-- BLOG-POST-LIST:END -->
 
