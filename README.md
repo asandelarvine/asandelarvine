@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pull Requests, Post-Bootcamp Advice, and Implementing Alt Text!](https://dev.to/codenewbieteam/pull-requests-post-bootcamp-advice-and-implementing-alt-text-1l9o)
+- [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-2pnf)
+- [10 Cool CodePen Demos &lpar;March 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)
 - [Rev Up Your Web Development with These Must-Try CSS Frameworks and Libraries](https://dev.to/itskunal/rev-up-your-web-development-with-these-must-try-css-frameworks-and-libraries-1ejm)
-- [Javascript async/await](https://dev.to/kebean10/javascript-asyncawait-1ah7)
-- [The Five Lines of Code Principle: Why Less is More in Programming](https://dev.to/kanani_nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-31j6)
-- [How to create a div with a curved bottom](https://dev.to/arnosolo/how-to-create-a-div-with-a-curved-bottom-4i6l)
 <!-- BLOG-POST-LIST:END -->
 
