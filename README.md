@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is prop drilling in React?](https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol)
 - [Pull Requests, Post-Bootcamp Advice, and Implementing Alt Text!](https://dev.to/codenewbieteam/pull-requests-post-bootcamp-advice-and-implementing-alt-text-1l9o)
 - [How to cultivate goods connections](https://dev.to/daniellimae/how-to-cultivate-goods-connections-58ji)
 - [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-2pnf)
-- [10 Cool CodePen Demos &lpar;March 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)
 <!-- BLOG-POST-LIST:END -->
 
