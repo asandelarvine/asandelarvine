@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript async/await](https://dev.to/kebean10/javascript-asyncawait-1ah7)
+- [The Five Lines of Code Principle: Why Less is More in Programming](https://dev.to/kanani_nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-31j6)
 - [How to create a div with a curved bottom](https://dev.to/arnosolo/how-to-create-a-div-with-a-curved-bottom-4i6l)
 - [Design Pattern: Strategy &lpar;TS&rpar;](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
-- [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
-- [Serverless Functions &amp; FaaS with Vercel](https://dev.to/anuradha9712/serverless-functions-faas-with-vercel-4a44)
 <!-- BLOG-POST-LIST:END -->
 
