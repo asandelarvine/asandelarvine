@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File System Javascript Question](https://dev.to/shreyvijayvargiya/file-system-javascript-question-2eg9)
-- [Enum of structs in Swift](https://dev.to/arnosolo/enum-of-structs-in-swift-4if5)
-- [Building React Hooks - Copy to Clipboard](https://dev.to/ekqt/building-react-hooks-copy-to-clipboard-2m9h)
-- [Improve your Django Code with pre-commit](https://dev.to/rasulkireev/improve-your-django-code-with-pre-commit-4pgk)
+- [Welcome Thread - v219](https://dev.to/thepracticaldev/welcome-thread-v219-57lo)
+- [From padawan to Jedi - boost your dev skills with the Ultimate Todo App](https://dev.to/sergiopereira/from-padawan-to-jedi-boost-your-dev-skills-with-the-ultimate-todo-app-155l)
+- [How to Become a Great Backend Engineer](https://dev.to/rainleander/how-to-become-a-great-backend-engineer-3272)
+- [Cracking Data Engineering Interview In 2023](https://dev.to/grayhat/cracking-data-engineering-interview-in-2023-376k)
 <!-- BLOG-POST-LIST:END -->
 
