@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Arrives to Azure OpenAI Service!🤖](https://dev.to/bytehide/chatgpt-arrives-to-azure-openai-service-eja)
-- [Web Application Security: Best Practices and Essential Tools](https://dev.to/crossskatee1/web-application-security-best-practices-and-essential-tools-17fi)
-- [8 Awesome VS Code Extensions for JavaScript Developers](https://dev.to/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers-4dh1)
-- [5+ Tips For Building Custom Headless CMS](https://dev.to/flatlogic/5-tips-for-building-custom-headless-cms-4gmm)
+- [Top 5 Python Tricks and Coding Hacks That Beginners Should Know](https://dev.to/dhruvjoshi9/top-5-python-tricks-and-coding-hacks-that-beginners-should-know-83m)
+- [Web Scraping in Python: Avoid Detection Like a Ninja](https://dev.to/zenrowshq/web-scraping-in-python-avoid-detection-like-a-ninja-2op1)
+- [Javascript Object #4](https://dev.to/samr/javascript-object-4-26n7)
+- [Adobe launches all in one Generative AI tool Firefly](https://dev.to/amananandrai/adobe-launches-all-in-one-generative-ai-tool-firefly-58a3)
 <!-- BLOG-POST-LIST:END -->
 
