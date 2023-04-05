@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Data Reduction and Why It Is Important For Edge Computing](https://dev.to/reductstore/data-reduction-and-why-it-is-important-for-edge-computing-1f4m)
 - [10 Impressive Machine Learning Projects to Add to Your Python Portfolio](https://dev.to/sbang/10-impressive-machine-learning-projects-to-add-to-your-python-portfolio-30om)
 - [Run GitHub Actions on Your Local Machine! 🐙 💻](https://dev.to/ken_mwaura1/run-github-actions-on-your-local-machine-bdm)
-- [Create your Prototype or MVP with the T3 Stack](https://dev.to/mmuller88/create-your-prototype-or-mvp-with-the-t3-stack-1kf4)
+- [Polygon BUIDL -IRL &lpar;🧱,🚀&rpar;: A Five-Day long workshop filled with lots of learning](https://dev.to/yajvendrasaini/polygon-buidl-irl-a-five-day-long-workshop-filled-with-lots-of-learning-1aa4)
 <!-- BLOG-POST-LIST:END -->
 
