@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how to show circular countdown timer in flutter](https://dev.to/realnamehidden1_61/how-to-show-circular-countdown-timer-in-flutter-1b67)
-- [Would You Rather Work in a Small Startup or a Large Corporation?](https://dev.to/codenewbieteam/would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn)
-- [how add labeltext to the container in flutter](https://dev.to/realnamehidden1_61/how-add-labeltext-to-the-container-in-flutter-5a9f)
-- [Alias Essentials: A Step-by-Step Guide to Creating Terminal Shortcuts](https://dev.to/nialljoemaher/alias-essentials-a-step-by-step-guide-to-creating-terminal-shortcuts-57h6)
+- [8 Awesome VS Code Extensions for JavaScript Developers](https://dev.to/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers-4dh1)
+- [5+ Tips For Building Custom Headless CMS](https://dev.to/flatlogic/5-tips-for-building-custom-headless-cms-4gmm)
+- [Creating a Custom Theme System With TailwindCSS](https://dev.to/nitinfab/creating-a-custom-theme-system-with-tailwindcss-abk)
+- [Number types extended... &lpar; in RUST &rpar;](https://dev.to/vchiranjeeviak/number-types-extended-in-rust--8hp)
 <!-- BLOG-POST-LIST:END -->
 
