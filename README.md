@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enum of structs in Swift](https://dev.to/arnosolo/enum-of-structs-in-swift-4if5)
+- [Building React Hooks - Copy to Clipboard](https://dev.to/ekqt/building-react-hooks-copy-to-clipboard-2m9h)
 - [Improve your Django Code with pre-commit](https://dev.to/rasulkireev/improve-your-django-code-with-pre-commit-4pgk)
 - [Connecting Raspberry Pi Simulator to Azure IoT Hub](https://dev.to/coonzee/connecting-raspberry-pi-simulator-to-azure-iot-hub-2abe)
-- [Harbor üzerine Docker imajı gönderebilme](https://dev.to/aciklab/harbor-uzerine-docker-imaji-gonderebilme-3k1k)
-- [Javascript Object #5](https://dev.to/samr/javascript-object-5-4nke)
 <!-- BLOG-POST-LIST:END -->
 
