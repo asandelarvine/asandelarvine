@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Prove Developer&#39;s Guide: Prove&#39;s Approach to Batch APIs](https://dev.to/prove/prove-developers-guide-proves-approach-to-batch-apis-2djg)
+- [Confessions from a Golfer Programmer](https://dev.to/devardi/confessions-from-a-golfer-programmer-3fb5)
 - [Welcome Thread - v219](https://dev.to/thepracticaldev/welcome-thread-v219-57lo)
 - [From padawan to Jedi - boost your dev skills with the Ultimate Todo App](https://dev.to/sergiopereira/from-padawan-to-jedi-boost-your-dev-skills-with-the-ultimate-todo-app-155l)
-- [How to Become a Great Backend Engineer](https://dev.to/rainleander/how-to-become-a-great-backend-engineer-3272)
-- [Cracking Data Engineering Interview In 2023](https://dev.to/grayhat/cracking-data-engineering-interview-in-2023-376k)
 <!-- BLOG-POST-LIST:END -->
 
