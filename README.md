@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Would You Rather Work in a Small Startup or a Large Corporation?](https://dev.to/codenewbieteam/would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn)
+- [how add labeltext to the container in flutter](https://dev.to/realnamehidden1_61/how-add-labeltext-to-the-container-in-flutter-5a9f)
+- [Alias Essentials: A Step-by-Step Guide to Creating Terminal Shortcuts](https://dev.to/nialljoemaher/alias-essentials-a-step-by-step-guide-to-creating-terminal-shortcuts-57h6)
 - [What is prop drilling in React?](https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol)
-- [Pull Requests, Post-Bootcamp Advice, and Implementing Alt Text!](https://dev.to/codenewbieteam/pull-requests-post-bootcamp-advice-and-implementing-alt-text-1l9o)
-- [How to cultivate goods connections](https://dev.to/daniellimae/how-to-cultivate-goods-connections-58ji)
-- [Docker Commands Cheat Sheet](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-2pnf)
 <!-- BLOG-POST-LIST:END -->
 
