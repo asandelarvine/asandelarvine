@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Content duplication and autoblogging AI bots](https://dev.to/robole/autoblogging-ai-bots-and-content-duplication-25ih)
-- [Stop, Drop, and Think Before you Program](https://dev.to/devsatasurion/stop-drop-and-think-before-you-program-4cl0)
-- [Bit Constant Macros in C](https://dev.to/pauljlucas/bit-constant-macros-in-c-42n9)
-- [Modernizing Legacy Applications in PHP: Challenges and Approaches](https://dev.to/antonlogvinenko/modernizing-legacy-applications-in-php-challenges-and-approaches-2h15)
+- [58 Rust Resources Every Learner Should Know in 2023](https://dev.to/apollolabsbin/58-rust-resources-every-learner-should-know-in-2023-12m9)
+- [50 Free Places To Promote Your Website](https://dev.to/stellarsphinx/50-free-places-to-promote-your-website-4ade)
+- [Angular Devs Beware: Are You Guilty of This Performance-Killing Practice?](https://dev.to/zokizuan/angular-devs-beware-are-you-guilty-of-this-performance-killing-practice-4lm6)
+- [Build a blog app with new Next.js 13 app folder and Contentlayer](https://dev.to/arshadyaseen/build-a-blog-app-with-new-nextjs-13-app-folder-and-contentlayer-2d6h)
 <!-- BLOG-POST-LIST:END -->
 
