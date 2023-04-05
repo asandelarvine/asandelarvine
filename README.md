@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Content duplication and autoblogging AI bots](https://dev.to/robole/autoblogging-ai-bots-and-content-duplication-25ih)
+- [Stop, Drop, and Think Before you Program](https://dev.to/devsatasurion/stop-drop-and-think-before-you-program-4cl0)
 - [Bit Constant Macros in C](https://dev.to/pauljlucas/bit-constant-macros-in-c-42n9)
 - [Modernizing Legacy Applications in PHP: Challenges and Approaches](https://dev.to/antonlogvinenko/modernizing-legacy-applications-in-php-challenges-and-approaches-2h15)
-- [Guide to Face Detection and Recognition Software Development](https://dev.to/stanislavkutnyk/guide-to-face-detection-and-recognition-software-development-47b8)
-- [How to Create an NFT Marketplace: Approaches, Features, Costs](https://dev.to/marcelmadjanta/how-to-create-an-nft-marketplace-approaches-features-costs-361h)
 <!-- BLOG-POST-LIST:END -->
 
