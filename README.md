@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Just another memo to ask JetBrains implement manual files sorting in their products just like in Xcode, thx for the attention](https://dev.to/maxcore/just-yet-another-cry-to-ask-jetbrains-implement-manual-sorting-in-their-products-just-like-in-xcode-thx-for-the-attention-2e7)
 - [Data Reduction and Why It Is Important For Edge Computing](https://dev.to/reductstore/data-reduction-and-why-it-is-important-for-edge-computing-1f4m)
 - [10 Impressive Machine Learning Projects to Add to Your Python Portfolio](https://dev.to/sbang/10-impressive-machine-learning-projects-to-add-to-your-python-portfolio-30om)
 - [Run GitHub Actions on Your Local Machine! 🐙 💻](https://dev.to/ken_mwaura1/run-github-actions-on-your-local-machine-bdm)
-- [Polygon BUIDL -IRL &lpar;🧱,🚀&rpar;: A Five-Day long workshop filled with lots of learning](https://dev.to/yajvendrasaini/polygon-buidl-irl-a-five-day-long-workshop-filled-with-lots-of-learning-1aa4)
 <!-- BLOG-POST-LIST:END -->
 
