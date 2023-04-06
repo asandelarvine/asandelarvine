@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Page Visibility API: Improve User Experience and Performance](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
+- [System design behind a messenger app](https://dev.to/titovmx/system-design-behind-a-messenger-app-2268)
 - [My first Firefox extension](https://dev.to/nfrankel/my-first-firefox-extension-21bf)
-- [RxJS 7 - Subjects](https://dev.to/barisbll/rxjs-7-subjects-1gke)
-- [Python: Generate Temporary Files And Directories Using tempfile](https://dev.to/sachingeek/python-generate-temporary-files-and-directories-using-tempfile-40jd)
-- [Ideal yet Perfect Writing Platform for writers in the world](https://dev.to/shreyvijayvargiya/ideal-yet-perfect-writing-platform-for-writers-in-the-world-102o)
+- [Let&#39;s discover: docker init command](https://dev.to/aurelievache/lets-discover-docker-init-command-3cef)
 <!-- BLOG-POST-LIST:END -->
 
