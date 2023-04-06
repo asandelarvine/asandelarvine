@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SNMP Metrikleri Prometheus&#39;a Nasıl Yönlendirilir?](https://dev.to/aciklab/snmp-metrikleri-prometheusa-nasil-yonlendirilir-1ip7)
+- [Docker Compose ile Prometheus Kurulumu](https://dev.to/aciklab/docker-compose-ile-prometheus-kurulumu-5dpg)
+- [Docker ve Docker Compose Kurulumu &lpar;Ubuntu 20.04&rpar;](https://dev.to/aciklab/docker-ve-docker-compose-kurulumu-ubuntu-2004-3ch7)
 - [Best Practices for Testing React Apps](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
-- [Revisiting site search + SQLite as a search engine](https://dev.to/jesperhoy/revisiting-site-search-sqlite-as-a-search-engine-14km)
-- [Awesome VS Code Extensions for 2023](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
-- [How to hire Reactjs developer?](https://dev.to/sofster_/how-to-hire-reactjs-developer-339j)
 <!-- BLOG-POST-LIST:END -->
 
