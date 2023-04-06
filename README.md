@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Childhood Dreams vs. Tech Reality: How Did You End Up Here?](https://dev.to/codenewbieteam/childhood-dreams-vs-tech-reality-how-did-you-end-up-here-3p38)
-- [The Dark Side of Big Tech&#39;s Understanding of Human Psychology](https://dev.to/bhavin9920/the-dark-side-of-big-techs-understanding-of-human-psychology-kbg)
-- [Meta Launches a new Photo Segmentation model : Segment Anything](https://dev.to/amananandrai/meta-launches-a-new-photo-segmentation-model-segment-anything-2j0f)
-- [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://dev.to/zelenya/understanding-fp-overcoming-intuition-and-ease-hurdles-loops-vs-recursion-2hfn)
+- [RxJS 7 - Subjects](https://dev.to/barisbll/rxjs-7-subjects-1gke)
+- [Python: Generate Temporary Files And Directories Using tempfile](https://dev.to/sachingeek/python-generate-temporary-files-and-directories-using-tempfile-40jd)
+- [Ideal yet Perfect Writing Platform for writers in the world](https://dev.to/shreyvijayvargiya/ideal-yet-perfect-writing-platform-for-writers-in-the-world-102o)
+- [10 Reasons why your business needs a Chatbot](https://dev.to/ifourtechnolab/10-reasons-why-your-business-needs-a-chatbot-1bo0)
 <!-- BLOG-POST-LIST:END -->
 
