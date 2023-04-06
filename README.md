@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to make a modal with ReactJs](https://dev.to/ismailadegbite/how-to-make-a-modal-with-reactjs-4n69)
 - [Just another memo to ask JetBrains implement manual files sorting in their products just like in Xcode, thx for the attention](https://dev.to/maxcore/just-yet-another-cry-to-ask-jetbrains-implement-manual-sorting-in-their-products-just-like-in-xcode-thx-for-the-attention-2e7)
 - [A Step-by-Step Guide to Coding a Simple Extension on Firefox!](https://dev.to/xiacodes/a-step-by-step-guide-to-coding-a-simple-extension-477)
-- [Asynchronous JavaScript: Promises Async Await!](https://dev.to/cybermaxi7/asynchronous-javascript-promises-async-await-1402)
+- [Symbols vs Strings no Ruby](https://dev.to/fabianoflorentino/symbols-vs-strings-no-ruby-54i2)
 <!-- BLOG-POST-LIST:END -->
 
