@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Childhood Dreams vs. Tech Reality: How Did You End Up Here?](https://dev.to/codenewbieteam/childhood-dreams-vs-tech-reality-how-did-you-end-up-here-3p38)
 - [The Dark Side of Big Tech&#39;s Understanding of Human Psychology](https://dev.to/bhavin9920/the-dark-side-of-big-techs-understanding-of-human-psychology-kbg)
 - [Meta Launches a new Photo Segmentation model : Segment Anything](https://dev.to/amananandrai/meta-launches-a-new-photo-segmentation-model-segment-anything-2j0f)
 - [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://dev.to/zelenya/understanding-fp-overcoming-intuition-and-ease-hurdles-loops-vs-recursion-2hfn)
-- [4 VSCode extensions I use when developing with Tailwind](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him)
 <!-- BLOG-POST-LIST:END -->
 
