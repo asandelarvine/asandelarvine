@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Web Frameworks for Backend Engineers: Streamline Your Development Process](https://dev.to/rainleander/web-frameworks-for-backend-engineers-streamline-your-development-process-28lg)
+- [Communication in a Microservice Architecture](https://dev.to/amplication/communication-in-a-microservice-architecture-5ga)
 - [Creating mesmerizing spirograph animations with Python and Spyrograph](https://dev.to/chrisgreening/creating-mesmerizing-spirograph-animations-with-python-and-spyrograph-2n1)
 - [Understanding if, else, and else if statements in JavaScript](https://dev.to/makstyle119/understanding-if-else-and-else-if-statements-in-javascript-12im)
-- [Create CLI for your React project in 5 minutes with Pli](https://dev.to/dawiidio/create-cli-for-your-react-project-in-5-minutes-with-pli-436f)
 <!-- BLOG-POST-LIST:END -->
 
