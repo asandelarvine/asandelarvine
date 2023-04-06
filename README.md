@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Integrate Apache Spark and QuestDB for Time-Series Analytics](https://dev.to/glasstiger/integrate-apache-spark-and-questdb-for-time-series-analytics-3i3n)
 - [Exploring Google Zanzibar: A Demonstration of Its Basics](https://dev.to/egeaytin/exploring-google-zanzibar-a-demonstration-of-its-basics-b1h)
-- [Web Frameworks for Backend Engineers: Streamline Your Development Process](https://dev.to/rainleander/web-frameworks-for-backend-engineers-streamline-your-development-process-28lg)
-- [Communication in a Microservice Architecture](https://dev.to/amplication/communication-in-a-microservice-architecture-5ga)
+- [Convert REST APIs to GraphQL with AWS AppSync](https://dev.to/aws-builders/convert-rest-apis-to-graphql-with-aws-appsync-495c)
+- [Asynchronous Programming in JavaScript](https://dev.to/irfankhan501/asynchronous-programming-in-javascript-58im)
 <!-- BLOG-POST-LIST:END -->
 
