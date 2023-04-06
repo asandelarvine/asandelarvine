@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [querySelector&lpar;&rpar; vs. getElementById&lpar;&rpar;](https://dev.to/colelevy/queryselector-vs-getelementbyid-166n)
 - [How To Enhance Your Web Development Process with Stackbit and Storybook](https://dev.to/stackbit/how-to-enhance-your-web-development-process-with-stackbit-and-storybook-1pne)
+- [Como usar autenticação 2 fatores no GitHub](https://dev.to/github/como-usar-autenticacao-2-fatores-no-github-53h3)
 - [FREE AWS Cloud Project Bootcamp Week 6 Part 4](https://dev.to/aaditunni/free-aws-cloud-project-bootcamp-week-6-part-4-3f80)
-- [ResponseHunt - Scavenger hunt for programmers ⛏](https://dev.to/nectres/responsehunt-scavenger-hunt-for-programmers-1ok2)
-- [Integrate Apache Spark and QuestDB for Time-Series Analytics](https://dev.to/glasstiger/integrate-apache-spark-and-questdb-for-time-series-analytics-3i3n)
 <!-- BLOG-POST-LIST:END -->
 
