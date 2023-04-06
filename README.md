@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Testing React Apps](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
+- [Revisiting site search + SQLite as a search engine](https://dev.to/jesperhoy/revisiting-site-search-sqlite-as-a-search-engine-14km)
+- [Awesome VS Code Extensions for 2023](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
 - [How to hire Reactjs developer?](https://dev.to/sofster_/how-to-hire-reactjs-developer-339j)
-- [The Page Visibility API: Improve User Experience and Performance](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
-- [Breaking Down DeFi: The Simplest Guide to Understanding Decentralized Finance.](https://dev.to/aysha/breaking-down-defi-the-simplest-guide-to-understanding-decentralized-finance-3hpd)
-- [System design behind a messenger app](https://dev.to/titovmx/system-design-behind-a-messenger-app-2268)
 <!-- BLOG-POST-LIST:END -->
 
