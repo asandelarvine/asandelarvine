@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My first Firefox extension](https://dev.to/nfrankel/my-first-firefox-extension-21bf)
 - [RxJS 7 - Subjects](https://dev.to/barisbll/rxjs-7-subjects-1gke)
 - [Python: Generate Temporary Files And Directories Using tempfile](https://dev.to/sachingeek/python-generate-temporary-files-and-directories-using-tempfile-40jd)
 - [Ideal yet Perfect Writing Platform for writers in the world](https://dev.to/shreyvijayvargiya/ideal-yet-perfect-writing-platform-for-writers-in-the-world-102o)
-- [10 Reasons why your business needs a Chatbot](https://dev.to/ifourtechnolab/10-reasons-why-your-business-needs-a-chatbot-1bo0)
 <!-- BLOG-POST-LIST:END -->
 
