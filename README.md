@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrate Apache Spark and QuestDB for Time-Series Analytics](https://dev.to/glasstiger/integrate-apache-spark-and-questdb-for-time-series-analytics-3i3n)
+- [Exploring Google Zanzibar: A Demonstration of Its Basics](https://dev.to/egeaytin/exploring-google-zanzibar-a-demonstration-of-its-basics-b1h)
 - [Web Frameworks for Backend Engineers: Streamline Your Development Process](https://dev.to/rainleander/web-frameworks-for-backend-engineers-streamline-your-development-process-28lg)
 - [Communication in a Microservice Architecture](https://dev.to/amplication/communication-in-a-microservice-architecture-5ga)
-- [Creating mesmerizing spirograph animations with Python and Spyrograph](https://dev.to/chrisgreening/creating-mesmerizing-spirograph-animations-with-python-and-spyrograph-2n1)
-- [Understanding if, else, and else if statements in JavaScript](https://dev.to/makstyle119/understanding-if-else-and-else-if-statements-in-javascript-12im)
 <!-- BLOG-POST-LIST:END -->
 
