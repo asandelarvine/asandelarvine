@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Week&#39;s Digest : Variables and Data Types in JavaScript](https://dev.to/lotfijb/weeks-digest-variables-and-data-types-in-javascript-44pb)
+- [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://dev.to/israelmitolu/a-beginners-guide-to-portals-in-react-everything-you-need-to-know-ifa)
+- [How to perform VNet Peering in Azure](https://dev.to/shishsingh/how-to-perform-vnet-peering-in-azure-2315)
 - [Introduction to Flutter: Setting up your Development Environment](https://dev.to/bigdexter/introduction-to-flutter-setting-up-your-development-environment-1gi5)
-- [AWS Certifications a solid foundation for building your Cloud Computing career](https://dev.to/aws-builders/aws-certifications-a-solid-foundation-for-building-your-cloud-computing-career-gga)
-- [Breaking the Language Barrier: A Journey through &#39;Hello, World!&#39; in 20 Different Programming Languages](https://dev.to/rajaniraiyn/breaking-the-language-barrier-a-journey-through-hello-world-in-20-different-programming-languages-42bc)
-- [How Change Data Capture &lpar;CDC&rpar; Works with Streaming Database](https://dev.to/bobur/how-change-data-capture-cdc-works-with-streaming-database-5elp)
 <!-- BLOG-POST-LIST:END -->
 
