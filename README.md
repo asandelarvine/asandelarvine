@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make your HTML responsive using display grid. 💯✅](https://dev.to/margishpatel/how-to-make-your-html-responsive-using-display-grid-1fj)
 - [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
 - [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
 - [Weekly Challenge #5 - Password Generator](https://dev.to/codenewbieteam/weekly-challenge-5-password-generator-18fd)
-- [Web Storage &lpar;Cookies, localStorage, and sessionStorage&rpar;](https://dev.to/ahmed0saber/web-storage-cookies-localstorage-and-sessionstorage-11bh)
 <!-- BLOG-POST-LIST:END -->
 
