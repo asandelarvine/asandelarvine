@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Job Board With AWS Amplify and Nextjs](https://dev.to/femi_dev/how-to-build-a-job-board-with-aws-amplify-and-nextjs-2529)
+- [The pattern to make your FE tests 10x better.](https://dev.to/quyetnc/the-pattern-to-make-your-fe-tests-better-12e)
 - [Boost Your App&#39;s Performance by Wrapping Your Functions Inside a Pipe](https://dev.to/this-is-angular/boost-your-apps-performance-by-wrapping-your-functions-inside-a-pipe-4kcp)
 - [Complete roadmap to become a pro in MERN STACK🚀](https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf)
-- [Back-end Guru or Front-end Fanatic?](https://dev.to/codenewbieteam/back-end-guru-or-front-end-fanatic-121c)
-- [Docker Compose ile Grafana Kurulumu](https://dev.to/aciklab/docker-compose-ile-grafana-kurulumu-2383)
 <!-- BLOG-POST-LIST:END -->
 
