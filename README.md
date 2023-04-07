@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing AWS Lambda Response Streaming](https://dev.to/aws-builders/introducing-streaming-response-from-aws-lambda-511f)
+- [Cracking the Frontend Interview, Part 2: HTML](https://dev.to/bybydev/cracking-the-frontend-interview-part-2-html-2bi3)
+- [Working with Managed Workflows for Apache Airflow &lpar;MWAA&rpar; and Amazon Redshift](https://dev.to/aws/working-with-managed-workflows-for-apache-airflow-mwaa-and-amazon-redshift-40nd)
 - [Week&#39;s Digest : Variables and Data Types in JavaScript](https://dev.to/lotfijb/weeks-digest-variables-and-data-types-in-javascript-44pb)
-- [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://dev.to/israelmitolu/a-beginners-guide-to-portals-in-react-everything-you-need-to-know-ifa)
-- [How to perform VNet Peering in Azure](https://dev.to/shishsingh/how-to-perform-vnet-peering-in-azure-2315)
-- [Introduction to Flutter: Setting up your Development Environment](https://dev.to/bigdexter/introduction-to-flutter-setting-up-your-development-environment-1gi5)
 <!-- BLOG-POST-LIST:END -->
 
