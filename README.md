@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
+- [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
 - [Weekly Challenge #5 - Password Generator](https://dev.to/codenewbieteam/weekly-challenge-5-password-generator-18fd)
 - [Web Storage &lpar;Cookies, localStorage, and sessionStorage&rpar;](https://dev.to/ahmed0saber/web-storage-cookies-localstorage-and-sessionstorage-11bh)
-- [Wrangling GraphQL Data Schemas with AWS AppSync](https://dev.to/brianhhough/wrangling-graphql-data-schemas-with-aws-appsync-24mj)
 <!-- BLOG-POST-LIST:END -->
 
