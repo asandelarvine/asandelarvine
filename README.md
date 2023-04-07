@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Flutter: Setting up your Development Environment](https://dev.to/bigdexter/introduction-to-flutter-setting-up-your-development-environment-1gi5)
+- [AWS Certifications a solid foundation for building your Cloud Computing career](https://dev.to/aws-builders/aws-certifications-a-solid-foundation-for-building-your-cloud-computing-career-gga)
+- [Breaking the Language Barrier: A Journey through &#39;Hello, World!&#39; in 20 Different Programming Languages](https://dev.to/rajaniraiyn/breaking-the-language-barrier-a-journey-through-hello-world-in-20-different-programming-languages-42bc)
 - [How Change Data Capture &lpar;CDC&rpar; Works with Streaming Database](https://dev.to/bobur/how-change-data-capture-cdc-works-with-streaming-database-5elp)
-- [How To Scale Your React Applications](https://dev.to/devland/how-to-scale-your-react-applications-b0a)
-- [The Software Bug Diplomacy: Fun Story](https://dev.to/zubairanwarkhan/the-software-bug-diplomacy-fun-story-1o3m)
-- [CSS Easter Eggs are back](https://dev.to/jarvisscript/css-easter-eggs-are-back-2fpi)
 <!-- BLOG-POST-LIST:END -->
 
