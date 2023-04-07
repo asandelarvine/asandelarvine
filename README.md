@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EBS vs. EFS: Which Storage System Is Right For You?](https://dev.to/zesty_tech/ebs-vs-efs-which-storage-system-is-right-for-you-2c77)
-- [Data Structures and Algorithms: Mastering the Building Blocks for Efficient Problem-Solving](https://dev.to/rainleander/data-structures-and-algorithms-mastering-the-building-blocks-for-efficient-problem-solving-5ek3)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
-- [Working with designers: Lessons learned working as a “Designgineer”](https://dev.to/devsatasurion/working-with-designers-lessons-learned-working-as-a-designgineer-2l1h)
+- [CSS Easter Eggs are back](https://dev.to/jarvisscript/css-easter-eggs-are-back-2fpi)
+- [pyaction 4.18.0 Released](https://dev.to/cicirello/pyaction-4180-released-3k8f)
+- [Crash City](https://dev.to/austin_62/crash-city-2ebd)
+- [Hackerrank-Kangaroo Solution in Kotlin](https://dev.to/fvmzr/hackerrank-kangaroo-solution-in-kotlin-46nf)
 <!-- BLOG-POST-LIST:END -->
 
