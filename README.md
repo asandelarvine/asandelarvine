@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EBS vs. EFS: Which Storage System Is Right For You?](https://dev.to/zesty_tech/ebs-vs-efs-which-storage-system-is-right-for-you-2c77)
+- [Data Structures and Algorithms: Mastering the Building Blocks for Efficient Problem-Solving](https://dev.to/rainleander/data-structures-and-algorithms-mastering-the-building-blocks-for-efficient-problem-solving-5ek3)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
-- [A Ciência de Dados como é Hoje](https://dev.to/elir0d/a-ciencia-de-dados-como-e-hoje-5f7d)
-- [Make a Difference on DEV as a Tag Moderator](https://dev.to/devteam/make-a-difference-on-dev-as-a-moderator-opl)
-- [How to Build on Linea - a zk-rollup on Ethereum](https://dev.to/mbogan/learning-linea-a-zk-rollup-on-ethereum-1hnm)
+- [Working with designers: Lessons learned working as a “Designgineer”](https://dev.to/devsatasurion/working-with-designers-lessons-learned-working-as-a-designgineer-2l1h)
 <!-- BLOG-POST-LIST:END -->
 
