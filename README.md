@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Change Data Capture &lpar;CDC&rpar; Works with Streaming Database](https://dev.to/bobur/how-change-data-capture-cdc-works-with-streaming-database-5elp)
+- [How To Scale Your React Applications](https://dev.to/devland/how-to-scale-your-react-applications-b0a)
+- [The Software Bug Diplomacy: Fun Story](https://dev.to/zubairanwarkhan/the-software-bug-diplomacy-fun-story-1o3m)
 - [CSS Easter Eggs are back](https://dev.to/jarvisscript/css-easter-eggs-are-back-2fpi)
-- [pyaction 4.18.0 Released](https://dev.to/cicirello/pyaction-4180-released-3k8f)
-- [Crash City](https://dev.to/austin_62/crash-city-2ebd)
-- [Hackerrank-Kangaroo Solution in Kotlin](https://dev.to/fvmzr/hackerrank-kangaroo-solution-in-kotlin-46nf)
 <!-- BLOG-POST-LIST:END -->
 
