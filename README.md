@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
 - [Weekly Challenge #5 - Password Generator](https://dev.to/codenewbieteam/weekly-challenge-5-password-generator-18fd)
 - [Web Storage &lpar;Cookies, localStorage, and sessionStorage&rpar;](https://dev.to/ahmed0saber/web-storage-cookies-localstorage-and-sessionstorage-11bh)
 - [Wrangling GraphQL Data Schemas with AWS AppSync](https://dev.to/brianhhough/wrangling-graphql-data-schemas-with-aws-appsync-24mj)
-- [How to implement a Load Balancer Using Nginx &amp; Docker](https://dev.to/mazenr/how-to-implement-a-load-balancer-using-nginx-docker-4g73)
 <!-- BLOG-POST-LIST:END -->
 
