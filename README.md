@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Back-end Guru or Front-end Fanatic?](https://dev.to/codenewbieteam/back-end-guru-or-front-end-fanatic-121c)
+- [Thương hiệu thẩm mỹ trên 10 năm tuổi: Medic Skin lừa đảo](https://dev.to/medicskinvn/thuong-hieu-tham-my-tren-10-nam-tuoi-medic-skin-lua-dao-nld)
+- [A Comprehensive Comparison of JuiceFS and HDFS for Cloud-Based Big Data Storage](https://dev.to/tonybarber2/a-comprehensive-comparison-of-juicefs-and-hdfs-for-cloud-based-big-data-storage-66a)
 - [My Favorite Scala and Groovy Framework for 2023](https://dev.to/javinpaul/my-favorite-scala-and-groovy-framework-for-2023-296g)
-- [How to make your HTML responsive using display grid. 💯✅](https://dev.to/margishpatel/how-to-make-your-html-responsive-using-display-grid-1fj)
-- [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
-- [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
 <!-- BLOG-POST-LIST:END -->
 
