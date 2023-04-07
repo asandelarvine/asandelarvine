@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your App&#39;s Performance by Wrapping Your Functions Inside a Pipe](https://dev.to/this-is-angular/boost-your-apps-performance-by-wrapping-your-functions-inside-a-pipe-4kcp)
 - [Complete roadmap to become a pro in MERN STACK🚀](https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf)
 - [Back-end Guru or Front-end Fanatic?](https://dev.to/codenewbieteam/back-end-guru-or-front-end-fanatic-121c)
 - [Docker Compose ile Grafana Kurulumu](https://dev.to/aciklab/docker-compose-ile-grafana-kurulumu-2383)
-- [Thương hiệu thẩm mỹ trên 10 năm tuổi: Medic Skin lừa đảo](https://dev.to/medicskinvn/thuong-hieu-tham-my-tren-10-nam-tuoi-medic-skin-lua-dao-nld)
 <!-- BLOG-POST-LIST:END -->
 
