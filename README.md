@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Linea - a zk-rollup on Ethereum](https://dev.to/mbogan/learning-linea-a-zk-rollup-on-ethereum-1hnm)
-- [How to build a jumbotron component using Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-jumbotron-component-using-tailwind-css-and-flowbite-5d0l)
-- [ASP.NET Core in .NET 8 is Coming! Discover its NEW Features🚀](https://dev.to/bytehide/aspnet-core-in-net-8-is-coming-discover-its-new-features-4cok)
-- [Broadcasting Interactive Web Based Gaming Live Streams with Amazon IVS](https://dev.to/aws/broadcasting-interactive-web-based-gaming-live-streams-with-amazon-ivs-20ek)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
+- [A Ciência de Dados como é Hoje](https://dev.to/elir0d/a-ciencia-de-dados-como-e-hoje-5f7d)
+- [Make a Difference on DEV as a Tag Moderator](https://dev.to/devteam/make-a-difference-on-dev-as-a-moderator-opl)
+- [How to Build on Linea - a zk-rollup on Ethereum](https://dev.to/mbogan/learning-linea-a-zk-rollup-on-ethereum-1hnm)
 <!-- BLOG-POST-LIST:END -->
 
