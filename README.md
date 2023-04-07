@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a jumbotron component using Tailwind CSS and Flowbite](https://dev.to/themesberg/how-to-build-a-jumbotron-component-using-tailwind-css-and-flowbite-5d0l)
 - [ASP.NET Core in .NET 8 is Coming! Discover its NEW Features🚀](https://dev.to/bytehide/aspnet-core-in-net-8-is-coming-discover-its-new-features-4cok)
 - [Broadcasting Interactive Web Based Gaming Live Streams with Amazon IVS](https://dev.to/aws/broadcasting-interactive-web-based-gaming-live-streams-with-amazon-ivs-20ek)
 - [Créer des composants React à la volée](https://dev.to/maxiim3/creer-des-composants-react-a-la-volee-a81)
-- [Registry Pattern -Revolutionize Your Object Creation and Management. &lpar; LMS as a case study&rpar;](https://dev.to/walosha/registry-pattern-revolutionize-your-object-creation-and-management-lms-as-a-case-study-58km)
 <!-- BLOG-POST-LIST:END -->
 
