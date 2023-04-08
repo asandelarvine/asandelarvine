@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [An Introduction to JavaScript Modules: What They Are and How to Use Them](https://dev.to/solomonjude8/an-introduction-to-javascript-modules-what-they-are-and-how-to-use-them-2p3a)
 - [Kotlin Infix Notation is Confusing](https://dev.to/vtsen/kotlin-infix-notation-is-confusing-1fbe)
+- [🌸 A elegant way to consume API&#39;s at front-end](https://dev.to/daniellimae/a-elegant-way-to-consume-apis-at-front-end-3m8m)
 - [Introducing AWS Lambda Response Streaming](https://dev.to/aws-builders/introducing-streaming-response-from-aws-lambda-511f)
-- [Cracking the Frontend Interview, Part 2: HTML](https://dev.to/bybydev/cracking-the-frontend-interview-part-2-html-2bi3)
 <!-- BLOG-POST-LIST:END -->
 
