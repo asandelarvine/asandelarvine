@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Tips and Tricks #PartOne](https://dev.to/danmugh/rust-tips-and-tricks-partone-1ic4)
+- [Building a RESTful API with Node.js and Express](https://dev.to/kingsley/building-a-restful-api-with-nodejs-and-express-2pp8)
 - [🤑🔮List of Jobs Available in Blockchain 2023 🚀](https://dev.to/akshaykurhekar/list-of-jobs-available-in-blockchain-2023-j5p)
 - [Watchlist application using ReactJS, NodeJS](https://dev.to/deepakjaiswal/watchlist-application-using-reactjs-nodejs-47b8)
-- [Need a Good Laugh? Tell Us Your Favorite Coder Jokes.](https://dev.to/codenewbieteam/need-a-good-laugh-tell-us-your-favorite-coder-jokes-jco)
-- [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-38ge)
 <!-- BLOG-POST-LIST:END -->
 
