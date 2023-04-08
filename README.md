@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The History of AI](https://dev.to/edemgold/the-history-of-ai-58g)
+- [The one piece of advice I&#39;d give to anyone who is starting out as a software engineer](https://dev.to/dennisko762/the-one-piece-of-advice-id-give-to-anyone-who-is-starting-out-as-a-software-engineer-4pm5)
 - [How to Integrate Paytm Payment Gateway?](https://dev.to/codexam/how-to-integrate-paytm-payment-gateway-5bbf)
 - [A beginner&#39;s guide to Termius: the ultimate terminal](https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i)
-- [Boost Your JavaScript with JSDoc Typing](https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3)
 <!-- BLOG-POST-LIST:END -->
 
