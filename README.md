@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Earned 40,000rs on My First Freelancing Project: Experience and Lessons Learned !!!](https://dev.to/sanket00900/how-i-earned-40000rs-on-my-first-freelancing-project-experience-and-lessons-learned--44mn)
 - [Getting started with Django Rest Framework](https://dev.to/highcenburg/getting-started-with-django-rest-framework-3ma8)
 - [How to Create a GitHub Profile Readme with GitHub Actions, Profile Trophy, and Custom Icons Badges](https://dev.to/slydragonn/how-to-create-a-github-profile-readme-with-github-actions-profile-trophy-and-custom-icons-badges-5h6j)
-- [An Introduction to JavaScript Modules: What They Are and How to Use Them](https://dev.to/solomonjude8/an-introduction-to-javascript-modules-what-they-are-and-how-to-use-them-2p3a)
-- [Kotlin Infix Notation is Confusing](https://dev.to/vtsen/kotlin-infix-notation-is-confusing-1fbe)
+- [Useful ReactJS links - Interview preparation](https://dev.to/a8hok/useful-reactjs-links-interview-preparation-3o42)
 <!-- BLOG-POST-LIST:END -->
 
