@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to JavaScript Modules: What They Are and How to Use Them](https://dev.to/solomonjude8/an-introduction-to-javascript-modules-what-they-are-and-how-to-use-them-2p3a)
 - [Kotlin Infix Notation is Confusing](https://dev.to/vtsen/kotlin-infix-notation-is-confusing-1fbe)
 - [Introducing AWS Lambda Response Streaming](https://dev.to/aws-builders/introducing-streaming-response-from-aws-lambda-511f)
 - [Cracking the Frontend Interview, Part 2: HTML](https://dev.to/bybydev/cracking-the-frontend-interview-part-2-html-2bi3)
-- [Working with Managed Workflows for Apache Airflow &lpar;MWAA&rpar; and Amazon Redshift](https://dev.to/aws/working-with-managed-workflows-for-apache-airflow-mwaa-and-amazon-redshift-40nd)
 <!-- BLOG-POST-LIST:END -->
 
