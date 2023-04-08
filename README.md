@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Productivity apps I use in 2023](https://dev.to/cassidoo/the-productivity-apps-i-use-in-2023-3m8l)
+- [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
 - [How to Continue on the Path When You Want to Give Up](https://dev.to/beaucoburn/how-to-continue-on-the-path-when-you-want-to-give-up-5gbi)
 - [Monolithic vs. Microservices Architecture](https://dev.to/ezinne_anne/monolithic-vs-microservices-architecture-n89)
-- [Introducing SingularGPT - automate your device with AI Vision](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
-- [10 visuals to boost your mood](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
 <!-- BLOG-POST-LIST:END -->
 
