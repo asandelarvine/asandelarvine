@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new with reactjs?](https://dev.to/highcenburg/whats-new-with-reactjs-5f22)
+- [AI Color Palette Generator](https://dev.to/rarestoma/ai-color-palette-generator-1fn5)
+- [Design Patterns: Make your code modular](https://dev.to/lovepreetsingh/design-patterns-make-your-code-modular-93p)
 - [Rust Tips and Tricks #PartOne](https://dev.to/danmugh/rust-tips-and-tricks-partone-1ic4)
-- [React Query Cheat Sheet](https://dev.to/sahilverma_dev/react-query-cheat-sheet-58l3)
-- [Building a RESTful API with Node.js and Express](https://dev.to/kingsley/building-a-restful-api-with-nodejs-and-express-2pp8)
-- [🤑🔮List of Jobs Available in Blockchain 2023 🚀](https://dev.to/akshaykurhekar/list-of-jobs-available-in-blockchain-2023-j5p)
 <!-- BLOG-POST-LIST:END -->
 
