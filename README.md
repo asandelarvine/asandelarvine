@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Continue on the Path When You Want to Give Up](https://dev.to/beaucoburn/how-to-continue-on-the-path-when-you-want-to-give-up-5gbi)
 - [Monolithic vs. Microservices Architecture](https://dev.to/ezinne_anne/monolithic-vs-microservices-architecture-n89)
 - [Introducing SingularGPT - automate your device with AI Vision](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
 - [10 visuals to boost your mood](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
-- [Bilmeniz gereken HTTP Durum Kodları](https://dev.to/berkanyldrim/bilmeniz-gereken-http-durum-kodlari-1593)
 <!-- BLOG-POST-LIST:END -->
 
