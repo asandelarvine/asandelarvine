@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing SingularGPT - automate your device with AI Vision](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
 - [10 visuals to boost your mood](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
+- [Bilmeniz gereken HTTP Durum Kodları](https://dev.to/berkanyldrim/bilmeniz-gereken-http-durum-kodlari-1593)
 - [The History of AI](https://dev.to/edemgold/the-history-of-ai-58g)
-- [The one piece of advice I&#39;d give to anyone who is starting out as a software engineer](https://dev.to/dennisko762/the-one-piece-of-advice-id-give-to-anyone-who-is-starting-out-as-a-software-engineer-4pm5)
-- [How to Integrate Paytm Payment Gateway?](https://dev.to/codexam/how-to-integrate-paytm-payment-gateway-5bbf)
 <!-- BLOG-POST-LIST:END -->
 
