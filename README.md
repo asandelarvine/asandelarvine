@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Need a Good Laugh? Tell Us Your Favorite Coder Jokes.](https://dev.to/codenewbieteam/need-a-good-laugh-tell-us-your-favorite-coder-jokes-jco)
+- [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-38ge)
 - [How ASP.NET MVC Can Streamline Your Development Process 🚀💻👨‍💻](https://dev.to/bhavin9920/how-aspnet-mvc-can-streamline-your-development-process-18g9)
 - [Kubernetes GitOps: A Beginner&#39;s Guide with a Hands-On Tutorial](https://dev.to/pavanbelagatti/kubernetes-gitops-a-beginners-guide-with-a-hands-on-tutorial-56de)
-- [Tutorial: DNS Enumeration using Python](https://dev.to/jsquared/tutorial-dns-enumeration-using-python-1339)
-- [Getting started with Django Rest Framework](https://dev.to/highcenburg/getting-started-with-django-rest-framework-3ma8)
 <!-- BLOG-POST-LIST:END -->
 
