@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
 - [Text-Based Entity Relationship Diagrams with Mermaid.js](https://dev.to/integerman/text-based-entity-relationship-diagrams-with-mermaidjs-36md)
 - [The Productivity apps I use in 2023](https://dev.to/cassidoo/the-productivity-apps-i-use-in-2023-3m8l)
 - [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
-- [How to Continue on the Path When You Want to Give Up](https://dev.to/beaucoburn/how-to-continue-on-the-path-when-you-want-to-give-up-5gbi)
 <!-- BLOG-POST-LIST:END -->
 
