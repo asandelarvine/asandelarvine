@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Django Rest Framework](https://dev.to/highcenburg/getting-started-with-django-rest-framework-3ma8)
+- [How to Create a GitHub Profile Readme with GitHub Actions, Profile Trophy, and Custom Icons Badges](https://dev.to/slydragonn/how-to-create-a-github-profile-readme-with-github-actions-profile-trophy-and-custom-icons-badges-5h6j)
 - [An Introduction to JavaScript Modules: What They Are and How to Use Them](https://dev.to/solomonjude8/an-introduction-to-javascript-modules-what-they-are-and-how-to-use-them-2p3a)
 - [Kotlin Infix Notation is Confusing](https://dev.to/vtsen/kotlin-infix-notation-is-confusing-1fbe)
-- [🌸 A elegant way to consume API&#39;s at front-end](https://dev.to/daniellimae/a-elegant-way-to-consume-apis-at-front-end-3m8m)
-- [Introducing AWS Lambda Response Streaming](https://dev.to/aws-builders/introducing-streaming-response-from-aws-lambda-511f)
 <!-- BLOG-POST-LIST:END -->
 
