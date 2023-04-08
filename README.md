@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A beginner&#39;s guide to Termius: the ultimate terminal](https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i)
 - [My very first Hackathon and my first Dev.to post](https://dev.to/ftenaf/my-very-first-hackathon-and-my-first-devto-post-2dfi)
 - [Unlock Next-Level Authentication in Next.js with Next Auth and TypeScript Module Augmentation](https://dev.to/josemukorivo/unlock-next-level-authentication-in-nextjs-with-next-auth-and-typescript-module-augmentation-1689)
 - [AI Color Palette Generator](https://dev.to/rarestoma/ai-color-palette-generator-1fn5)
-- [Design Patterns: Make your code modular](https://dev.to/lovepreetsingh/design-patterns-make-your-code-modular-93p)
 <!-- BLOG-POST-LIST:END -->
 
