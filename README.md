@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding HTML tags.](https://dev.to/jindalkeshav82/understanding-html-tags-3ck5)
+- [ZenStack: Start with Why](https://dev.to/zenstack/zenstack-start-with-why-2c2m)
 - [Authentication in React Applications using Firebase and its services. Part 3](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
 - [How to use Local Storage in Next.js](https://dev.to/collegewap/how-to-use-local-storage-in-nextjs-2l2j)
-- [Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
-- [Securely Connecting Your Networks: An Introduction to Site-to-Site VPN](https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67)
 <!-- BLOG-POST-LIST:END -->
 
