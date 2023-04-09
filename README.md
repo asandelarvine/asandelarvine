@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Context API and useContext](https://dev.to/oluwatrillions/context-api-and-usecontext-4430)
 - [Understanding HTML tags.](https://dev.to/jindalkeshav82/understanding-html-tags-3ck5)
 - [ZenStack: Start with Why](https://dev.to/zenstack/zenstack-start-with-why-2c2m)
-- [Authentication in React Applications using Firebase and its services. Part 3](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
-- [How to use Local Storage in Next.js](https://dev.to/collegewap/how-to-use-local-storage-in-nextjs-2l2j)
+- [200 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
 <!-- BLOG-POST-LIST:END -->
 
