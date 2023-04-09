@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentication in React Applications using Firebase and its services. Part 3](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
+- [How to use Local Storage in Next.js](https://dev.to/collegewap/how-to-use-local-storage-in-nextjs-2l2j)
 - [Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
 - [Securely Connecting Your Networks: An Introduction to Site-to-Site VPN](https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67)
-- [What Makes Working in Tech Truly Rewarding?](https://dev.to/codenewbieteam/what-makes-working-in-tech-truly-rewarding-eoc)
-- [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
 <!-- BLOG-POST-LIST:END -->
 
