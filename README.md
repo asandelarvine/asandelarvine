@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Must do pattern questions : Part-1 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-1-javascript-32oj)
+- [Comparing Vue and React in 2023: Pros and Cons](https://dev.to/ptheodosiou/comparing-vue-and-react-in-2023-pros-and-cons-10nl)
 - [Best Ways to Strip Punctuation from Strings in Python and JavaScript](https://dev.to/aradwan20/best-ways-to-strip-punctuation-from-strings-in-python-and-javascript-14j7)
 - [How to Build Your First GitHub App with JavaScript and GitHub API: Easy and Fast](https://dev.to/codewithsadee/how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc)
-- [Developers Journey to AWS Lambda](https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag)
-- [Context API and useContext](https://dev.to/oluwatrillions/context-api-and-usecontext-4430)
 <!-- BLOG-POST-LIST:END -->
 
