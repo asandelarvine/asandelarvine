@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank You CODEOWNERS, It&#39;s Time for Code Experts](https://dev.to/linearb/thank-you-codeowners-its-time-for-code-experts-51co)
 - [Node.js Roadmap: A Comprehensive Learning Template for Developers](https://dev.to/shreyvijayvargiya/nodejs-roadmap-a-comprehensive-learning-template-for-developers-132b)
 - [Creating your own ExpressJS from scratch &lpar;Part 2&rpar; - Middlewares and Controllers](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-2-middlewares-and-controllers-2fbc)
 - [Create basic Dice Rolling Game in Python](https://dev.to/roman_22c01bcfb71/create-basic-dice-rolling-game-in-python-420f)
-- [21 Programming Memes Refresh Your Mind](https://dev.to/jon_snow789/21-programming-memes-refresh-your-mind-1fa0)
 <!-- BLOG-POST-LIST:END -->
 
