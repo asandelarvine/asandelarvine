@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Notes App with Next.js 13](https://dev.to/bujai/building-a-notes-app-with-nextjs-13-5gcd)
+- [Testing Applications In Laravel.](https://dev.to/rebelnii/testing-applications-in-laravel-1899)
+- [🎓 Monorepo College Lecture 2: Build Me Up Buttercup](https://dev.to/ixahmedxi/monorepo-college-lecture-2-build-me-up-buttercup-410e)
 - [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
-- [Text-Based Entity Relationship Diagrams with Mermaid.js](https://dev.to/integerman/text-based-entity-relationship-diagrams-with-mermaidjs-36md)
-- [The Productivity apps I use in 2023](https://dev.to/cassidoo/the-productivity-apps-i-use-in-2023-3m8l)
-- [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
 <!-- BLOG-POST-LIST:END -->
 
