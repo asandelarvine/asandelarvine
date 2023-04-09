@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [UFC 287: Alex Pereira Vs Israel Adesanya - {[{ Watch Live Stream Now }]}](https://dev.to/watchlivestream/ufc-287-alex-pereira-vs-israel-adesanya-watch-live-stream-now--55cm)
 - [Building a Notes App with Next.js 13](https://dev.to/bujai/building-a-notes-app-with-nextjs-13-5gcd)
 - [Testing Applications In Laravel.](https://dev.to/rebelnii/testing-applications-in-laravel-1899)
 - [🎓 Monorepo College Lecture 2: Build Me Up Buttercup](https://dev.to/ixahmedxi/monorepo-college-lecture-2-build-me-up-buttercup-410e)
-- [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
 <!-- BLOG-POST-LIST:END -->
 
