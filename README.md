@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase AI Hackathon](https://dev.to/supabase/supabase-ai-hackathon-30ah)
+- [Become a Traffic Wizard: A Beginner&#39;s Guide to Routing Traffic with Apache AGE](https://dev.to/xk_woon/become-a-traffic-wizard-a-beginners-guide-to-routing-traffic-with-apache-age-1kg6)
 - [Making a Speedrun Timer: Chapter 3](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-3-f8k)
-- [Thank You CODEOWNERS, It&#39;s Time for Code Experts](https://dev.to/linearb/thank-you-codeowners-its-time-for-code-experts-51co)
 - [Node.js Roadmap: A Comprehensive Learning Template for Developers](https://dev.to/shreyvijayvargiya/nodejs-roadmap-a-comprehensive-learning-template-for-developers-132b)
-- [Creating your own ExpressJS from scratch &lpar;Part 2&rpar; - Middlewares and Controllers](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-2-middlewares-and-controllers-2fbc)
 <!-- BLOG-POST-LIST:END -->
 
