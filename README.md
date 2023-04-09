@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [21 Programming Memes Refresh Your Mind](https://dev.to/jon_snow789/21-programming-memes-refresh-your-mind-1fa0)
+- [Day1 -#90DaysofDevop Introduction to DevOps](https://dev.to/arunimadas18/day1-90daysofdevop-introduction-to-devops-5ee4)
 - [Excelize 2.7.1 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-271-released-powerful-open-source-library-for-spreadsheet-excel-document-4l29)
-- [Becoming a Frontend Developer in 100 Days: A Step-by-Step Guide](https://dev.to/abhixsh/becoming-a-frontend-developer-in-100-days-a-step-by-step-guide-28jp)
-- [Must do pattern questions : Part-1 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-1-javascript-32oj)
-- [How to Use Electron.js for Building Desktop Applications with JavaScript, HTML, and CSS](https://dev.to/bellatrick/how-to-use-electronjs-for-building-desktop-applications-with-javascript-html-and-css-4kpn)
+- [Conventional Commit Message and Linting](https://dev.to/ahmadjoya/conventional-commit-message-and-linting-1bf7)
 <!-- BLOG-POST-LIST:END -->
 
