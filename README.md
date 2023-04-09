@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
 - [Securely Connecting Your Networks: An Introduction to Site-to-Site VPN](https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67)
 - [What Makes Working in Tech Truly Rewarding?](https://dev.to/codenewbieteam/what-makes-working-in-tech-truly-rewarding-eoc)
 - [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
-- [Three JS Examples : 6. Three JS Animation Skinning Blending](https://dev.to/jon_snow789/three-js-examples-6-three-js-animation-skinning-blending-1702)
 <!-- BLOG-POST-LIST:END -->
 
