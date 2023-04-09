@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Ways to Strip Punctuation from Strings in Python and JavaScript](https://dev.to/aradwan20/best-ways-to-strip-punctuation-from-strings-in-python-and-javascript-14j7)
+- [How to Build Your First GitHub App with JavaScript and GitHub API: Easy and Fast](https://dev.to/codewithsadee/how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc)
+- [Developers Journey to AWS Lambda](https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag)
 - [Context API and useContext](https://dev.to/oluwatrillions/context-api-and-usecontext-4430)
-- [Creating a Knowledge-Based Chatbot with OpenAI Embedding API, Pinecone, and Langchain.js](https://dev.to/pixselve/creating-a-knowledge-based-chatbot-with-openai-embedding-api-pinecone-and-langchainjs-4mih)
-- [Understanding HTML tags.](https://dev.to/jindalkeshav82/understanding-html-tags-3ck5)
-- [ZenStack: Start with Why](https://dev.to/zenstack/zenstack-start-with-why-2c2m)
 <!-- BLOG-POST-LIST:END -->
 
