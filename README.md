@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
+- [6 Frontend Award Websites For Developers To Get Inspired or Recognized](https://dev.to/snowiewdev/6-frontend-award-websites-for-developers-to-get-inspired-or-recognized-47pa)
 - [Building a Notes App with Next.js 13](https://dev.to/bujai/building-a-notes-app-with-nextjs-13-5gcd)
 - [Testing Applications In Laravel.](https://dev.to/rebelnii/testing-applications-in-laravel-1899)
-- [🎓 Monorepo College Lecture 2: Build Me Up Buttercup](https://dev.to/ixahmedxi/monorepo-college-lecture-2-build-me-up-buttercup-410e)
-- [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
 <!-- BLOG-POST-LIST:END -->
 
