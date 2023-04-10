@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #152](https://dev.to/aws/aws-open-source-newsletter-152-2eo4)
+- [Learn Open Closed Principle in C# &lpar;+ Examples&rpar;](https://dev.to/bytehide/learn-open-closed-principle-in-c-examples-21pa)
 - [AWS Lambda Serverless CRUD API With Java](https://dev.to/aws-builders/aws-lambda-serverless-crud-api-with-java-189n)
-- [System Design : Vertical And Horizontal Scaling](https://dev.to/prkskrs/system-design-vertical-and-horizontal-scaling-4fde)
-- [How to Deploy Medusa Server to Render](https://dev.to/femi_dev/how-to-deploy-medusa-server-to-render-4c8l)
-- [A step-by-step guide on Excel Add-in development using React.js](https://dev.to/ifourtechnolab/a-step-by-step-guide-on-excel-add-in-development-using-reactjs-d64)
+- [Compressing GraphQL Global Node ID](https://dev.to/cometkim/compressing-graphql-global-node-id-543c)
 <!-- BLOG-POST-LIST:END -->
 
