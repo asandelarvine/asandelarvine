@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Service Fabric apps to .NET 6](https://dev.to/kosalanuwan/migrating-service-fabric-apps-to-net-6-2bee)
-- [A Comprehensive Guide to Writing Your First GraphQL Query](https://dev.to/onlyoneerin/a-comprehensive-guide-to-writing-your-first-graphql-query-21f4)
-- [Domain Driven Design ? &lpar;fr&rpar;](https://dev.to/obitux/domain-driven-design-2ho6)
-- [Progress Reporting In PostgreSQL](https://dev.to/bolajiwahab/progress-reporting-in-postgresql-1i0d)
+- [How to Make a Simple Compass App for Android OS? Easy Step by Step Guide with Sample Code](https://dev.to/dhruvjoshi9/how-to-make-a-simple-compass-app-for-android-os-easy-step-by-step-guide-with-sample-code-13h4)
+- [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
+- [Full-Text Search: Implementando com Postgres e Django](https://dev.to/eduardojm/full-text-search-implementando-com-postgres-e-django-kmf)
+- [OOP in TypeScript](https://dev.to/cliff123tech/oop-typescript-jk4)
 <!-- BLOG-POST-LIST:END -->
 
