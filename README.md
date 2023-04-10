@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Secure the Web: A Comprehensive Guide to Authentication Strategies for Developers](https://dev.to/ma7moud3bas/how-to-secure-the-web-a-comprehensive-guide-to-authentication-strategies-for-developers-48od)
+- [5 Books and Courses to Learn Object Oriented Programming in Depth](https://dev.to/javinpaul/5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff)
 - [Use x-crawl to help you fetch data](https://dev.to/coderhxl/use-x-crawl-to-help-you-fetch-data-550i)
 - [Welcome to Cloud Computing!](https://dev.to/scc33/welcome-to-cloud-computing-4o22)
-- [User Authentication with JWT tokens in node js](https://dev.to/amann5153/user-authentication-with-jwt-tokens-in-node-js-1952)
-- [Project 2: Final Journal Entry](https://dev.to/fawaz1077/project-2-final-journal-entry-2o8a)
 <!-- BLOG-POST-LIST:END -->
 
