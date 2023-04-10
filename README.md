@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The benefits of using ReactJS in 2023](https://dev.to/fredy/the-benefits-of-using-reactjs-in-2023-1hfd)
+- [Best Practices for Code Documentation: Ensuring Clarity, Maintainability, and Collaboration in Software Development](https://dev.to/igmrrf/best-practices-for-code-documentation-ensuring-clarity-maintainability-and-collaboration-in-software-development-259h)
+- [Introduction to Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/igmrrf/introduction-to-object-oriented-programming-oop-357o)
 - [How to Make a Simple Compass App for Android OS? Easy Step by Step Guide with Sample Code](https://dev.to/dhruvjoshi9/how-to-make-a-simple-compass-app-for-android-os-easy-step-by-step-guide-with-sample-code-13h4)
-- [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
-- [Full-Text Search: Implementando com Postgres e Django](https://dev.to/eduardojm/full-text-search-implementando-com-postgres-e-django-kmf)
-- [OOP in TypeScript](https://dev.to/cliff123tech/oop-typescript-jk4)
 <!-- BLOG-POST-LIST:END -->
 
