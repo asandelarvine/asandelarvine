@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Overview of Backend Servers for Django Applications](https://dev.to/pragativerma18/a-comprehensive-overview-of-backend-servers-for-django-applications-208l)
-- [Que signifie l&#39;erreur &quot;Volume node affinity conflict&quot; ?](https://dev.to/mxglt/que-signifie-lerreur-volume-node-affinity-conflict--423o)
-- [What does the error &quot;Volume node affinity conflict&quot; mean ?](https://dev.to/mxglt/what-does-the-error-volume-node-affinity-conflict-mean--9gh)
-- [Maximize your learning and productivity with this Chrome extension](https://dev.to/jgamaraalv/maximize-your-learning-and-productivity-with-this-chrome-extension-nhj)
+- [Meme Monday](https://dev.to/ben/meme-monday-41ha)
+- [Building a new shift-left approach for alerting](https://dev.to/keephq/building-a-new-shift-left-approach-for-alerting-3pj)
+- [New HTML Element: &lt;search&gt;](https://dev.to/alvaromontoro/new-html-element-ngd)
+- [FLiPN-FLaNK Stack Weekly for 10 April 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-10-april-2023-36bh)
 <!-- BLOG-POST-LIST:END -->
 
