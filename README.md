@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy Medusa Server to Render](https://dev.to/femi_dev/how-to-deploy-medusa-server-to-render-4c8l)
 - [A step-by-step guide on Excel Add-in development using React.js](https://dev.to/ifourtechnolab/a-step-by-step-guide-on-excel-add-in-development-using-reactjs-d64)
 - [Ensuring Serverless Success: A Guide to Service Level Agreement &lpar;SLA&rpar; Definitions and Guidelines](https://dev.to/aws-builders/ensuring-serverless-success-a-guide-to-service-level-agreement-sla-definitions-and-guidelines-3ckm)
 - [Building Real-time Web Applications with Blazor Server](https://dev.to/bhavin9920/building-real-time-web-applications-with-blazor-server-4odo)
-- [How to Secure the Web: A Comprehensive Guide to Authentication Strategies for Developers](https://dev.to/ma7moud3bas/how-to-secure-the-web-a-comprehensive-guide-to-authentication-strategies-for-developers-48od)
 <!-- BLOG-POST-LIST:END -->
 
