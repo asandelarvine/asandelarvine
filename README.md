@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-41ha)
-- [Building a new shift-left approach for alerting](https://dev.to/keephq/building-a-new-shift-left-approach-for-alerting-3pj)
-- [New HTML Element: &lt;search&gt;](https://dev.to/alvaromontoro/new-html-element-ngd)
-- [FLiPN-FLaNK Stack Weekly for 10 April 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-10-april-2023-36bh)
+- [JavaScript for loop](https://dev.to/max24816/javascript-for-loop-380f)
+- [Is There an Equivalent of Spring Boot for Kotlin?](https://dev.to/jmfayard/is-there-an-equivalent-of-spring-boot-for-kotlin-hfg)
+- [Queuing API](https://dev.to/soorajsnblaze333/queuing-api-25oa)
+- [Minha jornada de uma década pelo .NET [PT-BR]](https://dev.to/andredarcie/minha-jornada-de-uma-decada-pelo-net-4kme)
 <!-- BLOG-POST-LIST:END -->
 
