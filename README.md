@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to Secure the Web: A Comprehensive Guide to Authentication Strategies for Developers](https://dev.to/ma7moud3bas/how-to-secure-the-web-a-comprehensive-guide-to-authentication-strategies-for-developers-48od)
 - [5 Books and Courses to Learn Object Oriented Programming in Depth](https://dev.to/javinpaul/5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff)
+- [Node.js with MySQL &lpar;continued&rpar;](https://dev.to/ericg6/nodejs-with-mysql-continued-1oam)
 - [Use x-crawl to help you fetch data](https://dev.to/coderhxl/use-x-crawl-to-help-you-fetch-data-550i)
-- [Welcome to Cloud Computing!](https://dev.to/scc33/welcome-to-cloud-computing-4o22)
 <!-- BLOG-POST-LIST:END -->
 
