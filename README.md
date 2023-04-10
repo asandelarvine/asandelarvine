@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #152](https://dev.to/aws/aws-open-source-newsletter-152-2eo4)
-- [Learn Open Closed Principle in C# &lpar;+ Examples&rpar;](https://dev.to/bytehide/learn-open-closed-principle-in-c-examples-21pa)
-- [AWS Lambda Serverless CRUD API With Java](https://dev.to/aws-builders/aws-lambda-serverless-crud-api-with-java-189n)
-- [Compressing GraphQL Global Node ID](https://dev.to/cometkim/compressing-graphql-global-node-id-543c)
+- [Migrating Service Fabric apps to .NET 6](https://dev.to/kosalanuwan/migrating-service-fabric-apps-to-net-6-2bee)
+- [A Comprehensive Guide to Writing Your First GraphQL Query](https://dev.to/onlyoneerin/a-comprehensive-guide-to-writing-your-first-graphql-query-21f4)
+- [Domain Driven Design ? &lpar;fr&rpar;](https://dev.to/obitux/domain-driven-design-2ho6)
+- [Progress Reporting In PostgreSQL](https://dev.to/bolajiwahab/progress-reporting-in-postgresql-1i0d)
 <!-- BLOG-POST-LIST:END -->
 
