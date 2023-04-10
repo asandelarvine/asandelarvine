@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts around Fediverse developer communities](https://dev.to/andypiper/thoughts-around-fediverse-developer-communities-cb6)
 - [Next.js Weekly Recap #2: App Router, Background Functions, YakGPT, Vercel KV](https://dev.to/erfanebrahimnia/nextjs-weekly-recap-2-app-router-background-functions-yakgpt-vercel-kv-3m3n)
 - [Best Practices for Working with Strapi Cron Jobs](https://dev.to/strapi/best-practices-for-working-with-strapi-cron-jobs-4cm2)
 - [USA Sales Tax CLI App in Node.js and Sqlite](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
-- [The Great Prime Number Challenge: Which Programming Language is the Fastest?](https://dev.to/kschneider0/the-great-prime-number-challenge-which-programming-language-is-the-fastest-2hdo)
 <!-- BLOG-POST-LIST:END -->
 
