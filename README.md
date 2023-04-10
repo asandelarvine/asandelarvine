@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [User Authentication with JWT tokens in node js](https://dev.to/amann5153/user-authentication-with-jwt-tokens-in-node-js-1952)
+- [Project 2: Final Journal Entry](https://dev.to/fawaz1077/project-2-final-journal-entry-2o8a)
 - [Supabase AI Hackathon](https://dev.to/supabase/supabase-ai-hackathon-30ah)
-- [Become a Traffic Wizard: A Beginner&#39;s Guide to Routing Traffic with Apache AGE](https://dev.to/xk_woon/become-a-traffic-wizard-a-beginners-guide-to-routing-traffic-with-apache-age-1kg6)
-- [Making a Speedrun Timer: Chapter 3](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-3-f8k)
-- [Node.js Roadmap: A Comprehensive Learning Template for Developers](https://dev.to/shreyvijayvargiya/nodejs-roadmap-a-comprehensive-learning-template-for-developers-132b)
+- [RDS MySQL Load Testing with Sysbench](https://dev.to/aws-builders/rds-mysql-load-testing-with-sysbench-3i26)
 <!-- BLOG-POST-LIST:END -->
 
