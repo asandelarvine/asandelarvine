@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a scroll to top btn in react js](https://dev.to/jon_snow789/how-to-create-a-scroll-to-top-btn-in-react-js-2jo8)
+- [Robotic Arm: Message Controller Software](https://dev.to/admantium/robotic-arm-message-controller-software-3la8)
 - [JavaScript for loop](https://dev.to/max24816/javascript-for-loop-380f)
 - [Is There an Equivalent of Spring Boot for Kotlin?](https://dev.to/jmfayard/is-there-an-equivalent-of-spring-boot-for-kotlin-hfg)
-- [Queuing API](https://dev.to/soorajsnblaze333/queuing-api-25oa)
-- [Minha jornada de uma década pelo .NET [PT-BR]](https://dev.to/andredarcie/minha-jornada-de-uma-decada-pelo-net-4kme)
 <!-- BLOG-POST-LIST:END -->
 
