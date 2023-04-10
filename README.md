@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use x-crawl to help you fetch data](https://dev.to/coderhxl/use-x-crawl-to-help-you-fetch-data-550i)
+- [Welcome to Cloud Computing!](https://dev.to/scc33/welcome-to-cloud-computing-4o22)
 - [User Authentication with JWT tokens in node js](https://dev.to/amann5153/user-authentication-with-jwt-tokens-in-node-js-1952)
 - [Project 2: Final Journal Entry](https://dev.to/fawaz1077/project-2-final-journal-entry-2o8a)
-- [Supabase AI Hackathon](https://dev.to/supabase/supabase-ai-hackathon-30ah)
-- [RDS MySQL Load Testing with Sysbench](https://dev.to/aws-builders/rds-mysql-load-testing-with-sysbench-3i26)
 <!-- BLOG-POST-LIST:END -->
 
