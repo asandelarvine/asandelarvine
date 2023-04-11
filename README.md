@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Relearning Java Thread Primitives](https://dev.to/codenameone/relearning-java-thread-primitives-2hep)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
 - [Navigating Cloud Confusion: Understanding Google Cloud for First-Time Users](https://dev.to/kaykleinvogel/navigating-cloud-confusion-understanding-google-cloud-for-first-time-users-3d8i)
 - [Exploring the World of Machine Learning: Definition, Types, Applications, and Upcoming Trends for 2023.](https://dev.to/phylis/exploring-the-world-of-machine-learning-definition-types-applications-and-upcoming-trends-for-2023-38fl)
-- [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
-- [Azure Virtual machine &amp; AWS EC2 Instance](https://dev.to/arunkumar2331996/azure-virtual-machine-aws-ec2-instance-39b8)
 <!-- BLOG-POST-LIST:END -->
 
