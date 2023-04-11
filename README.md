@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Tech Industry Burnout: How Can We Prevent It?](https://dev.to/codenewbieteam/tech-industry-burnout-how-can-we-prevent-it-1ll2)
+- [Best Practices When Designing AWS Architecture](https://dev.to/aws-builders/best-practices-when-designing-aws-architecture-4c8d)
 - [The Power of Automating Your Development Workflow](https://dev.to/bhavin9920/the-power-of-automating-your-development-workflow-3g9g)
 - [How to make Responsive Web designs in CSS: Tips and Tricks](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
-- [Dockerize React app for dev and prod](https://dev.to/pvishnuprasaath/dockerize-react-app-for-dev-and-prod-3c84)
 <!-- BLOG-POST-LIST:END -->
 
