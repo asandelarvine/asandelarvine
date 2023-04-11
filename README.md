@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 useful JSON tools to improve your productivity](https://dev.to/logrocket/5-useful-json-tools-to-improve-your-productivity-18h5)
+- [How and why did you start contributing to Open Source?](https://dev.to/szabgab/how-and-why-did-you-start-contributing-to-open-source-46j2)
 - [Relearning Java Thread Primitives](https://dev.to/codenameone/relearning-java-thread-primitives-2hep)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
-- [Navigating Cloud Confusion: Understanding Google Cloud for First-Time Users](https://dev.to/kaykleinvogel/navigating-cloud-confusion-understanding-google-cloud-for-first-time-users-3d8i)
-- [Exploring the World of Machine Learning: Definition, Types, Applications, and Upcoming Trends for 2023.](https://dev.to/phylis/exploring-the-world-of-machine-learning-definition-types-applications-and-upcoming-trends-for-2023-38fl)
 <!-- BLOG-POST-LIST:END -->
 
