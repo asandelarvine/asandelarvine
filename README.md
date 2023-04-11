@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Critical Rendering Path &lpar;CRP&rpar;](https://dev.to/leduc1901/understanding-critical-rendering-path-crp-48nf)
-- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-3g07)
-- [Getting started with HTML - Learn web development](https://dev.to/snaptikappme/how-to-download-tiktok-video-h5k)
-- [Driving Business Success: Unleashing the Power of Data Integration](https://dev.to/kebean10/driving-business-success-unleashing-the-power-of-data-integration-1eh3)
+- [The Power of Automating Your Development Workflow](https://dev.to/bhavin9920/the-power-of-automating-your-development-workflow-3g9g)
+- [How to make Responsive Web designs in CSS: Tips and Tricks](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
+- [How to Exclude Specific File Types from Being Formatted on Save in VS Code](https://dev.to/codexam/how-to-exclude-specific-file-types-from-being-formatted-on-save-in-vs-code-3f8a)
+- [Javascript Object #6](https://dev.to/samr/javascript-object-6-2a71)
 <!-- BLOG-POST-LIST:END -->
 
