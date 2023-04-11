@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [The Power of Automating Your Development Workflow](https://dev.to/bhavin9920/the-power-of-automating-your-development-workflow-3g9g)
 - [How to make Responsive Web designs in CSS: Tips and Tricks](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
+- [Dockerize React app for dev and prod](https://dev.to/pvishnuprasaath/dockerize-react-app-for-dev-and-prod-3c84)
 - [How to Exclude Specific File Types from Being Formatted on Save in VS Code](https://dev.to/codexam/how-to-exclude-specific-file-types-from-being-formatted-on-save-in-vs-code-3f8a)
-- [Javascript Object #6](https://dev.to/samr/javascript-object-6-2a71)
 <!-- BLOG-POST-LIST:END -->
 
