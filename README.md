@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatically generate interactive sequence diagrams of your Java code&#39;s runtime behavior](https://dev.to/appmap/automatically-generate-interactive-sequence-diagrams-of-your-java-codes-runtime-behavior-2jg0)
+- [Web Development Challenges and Cost-Effective Solutions](https://dev.to/logify/web-development-challenges-and-cost-effective-solutions-3dea)
+- [The case study: Dapper vs Entity Framework Core](https://dev.to/shishsingh/the-case-study-dapper-vs-entity-framework-core-dj8)
 - [5 useful JSON tools to improve your productivity](https://dev.to/logrocket/5-useful-json-tools-to-improve-your-productivity-18h5)
-- [How and why did you start contributing to Open Source?](https://dev.to/szabgab/how-and-why-did-you-start-contributing-to-open-source-46j2)
-- [Relearning Java Thread Primitives](https://dev.to/codenameone/relearning-java-thread-primitives-2hep)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
 <!-- BLOG-POST-LIST:END -->
 
