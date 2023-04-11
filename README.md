@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #44](https://dev.to/moonly/moonly-weekly-progress-update-44-27al)
+- [Login and Signup with Next.js](https://dev.to/vulcanwm/login-and-signup-with-nextjs-am7)
+- [Top 4 JavaScript Notification Libraries](https://dev.to/trinhcamminh/top-4-javascript-notification-libraries-487)
 - [Change computer name displayed in Terminal &lpar;Mac&rpar;](https://dev.to/andreasbergstrom/change-computer-name-displayed-in-terminal-mac-4a68)
-- [Kotlin CRUD Rest Api using Spring Boot, Hibernate, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/kotlin-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-1cnl)
-- [How Do Smart Home Automation Systems Work?](https://dev.to/invent_colabs/how-do-smart-home-automation-systems-work-1j5f)
-- [My First JavaScript Practice: Building a Drum Kit](https://dev.to/adremy/my-first-javascript-practice-building-a-drum-kit-2kk5)
 <!-- BLOG-POST-LIST:END -->
 
