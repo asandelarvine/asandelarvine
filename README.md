@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Serverless Car Insurance - Part 2](https://dev.to/aws-builders/zero-to-serverless-car-insurance-part-2-3ba)
-- [Theme toggle using Tailwind CSS in just 3 steps](https://dev.to/shreyvijayvargiya/theme-toggle-using-tailwind-css-in-just-3-steps-1eij)
-- [Never Use the WRONG Package Manager Again!](https://dev.to/this-is-learning/never-use-the-wrong-package-manager-again-33ff)
-- [Xorg veya Wayland kontrolü](https://dev.to/aciklab/xorg-veya-wayland-kontrolu-4e7b)
+- [Kotlin CRUD Rest Api using Spring Boot, Hibernate, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/kotlin-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-1cnl)
+- [My First JavaScript Practice: Building a Drum Kit](https://dev.to/adremy/my-first-javascript-practice-building-a-drum-kit-2kk5)
+- [Mastering Web Accessibility: A Guide for Frontend Developers](https://dev.to/bellatrick/mastering-web-accessibility-a-guide-for-frontend-developers-48ad)
+- [Understanding ID Token vs. Access Token in AWS Amplify](https://dev.to/zirkelc/understanding-id-token-vs-access-token-in-aws-amplify-2oen)
 <!-- BLOG-POST-LIST:END -->
 
