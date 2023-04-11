@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Cloud Confusion: Understanding Google Cloud for First-Time Users](https://dev.to/kaykleinvogel/navigating-cloud-confusion-understanding-google-cloud-for-first-time-users-3d8i)
+- [Exploring the World of Machine Learning: Definition, Types, Applications, and Upcoming Trends for 2023.](https://dev.to/phylis/exploring-the-world-of-machine-learning-definition-types-applications-and-upcoming-trends-for-2023-38fl)
 - [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
-- [What&#39;s New in Hoppscotch?: A Roundup of Our Latest Updates](https://dev.to/hoppscotch/whats-new-in-hoppscotch-a-roundup-of-our-latest-updates-2bco)
-- [New Study Shows Consumers Desire a World Beyond Passwords and Biometrics](https://dev.to/prove/new-study-shows-consumers-desire-a-world-beyond-passwords-and-biometrics-18j6)
-- [Moonly weekly progress update #44](https://dev.to/moonly/moonly-weekly-progress-update-44-27al)
+- [Azure Virtual machine &amp; AWS EC2 Instance](https://dev.to/arunkumar2331996/azure-virtual-machine-aws-ec2-instance-39b8)
 <!-- BLOG-POST-LIST:END -->
 
