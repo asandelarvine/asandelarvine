@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically generate interactive sequence diagrams of your Java code&#39;s runtime behavior](https://dev.to/appmap/automatically-generate-interactive-sequence-diagrams-of-your-java-codes-runtime-behavior-2jg0)
-- [Web Development Challenges and Cost-Effective Solutions](https://dev.to/logify/web-development-challenges-and-cost-effective-solutions-3dea)
-- [The case study: Dapper vs Entity Framework Core](https://dev.to/shishsingh/the-case-study-dapper-vs-entity-framework-core-dj8)
-- [5 useful JSON tools to improve your productivity](https://dev.to/logrocket/5-useful-json-tools-to-improve-your-productivity-18h5)
+- [The Joy of Sharing: Why Developers Should Geek Out More](https://dev.to/louiseann93/the-joy-of-sharing-why-developers-should-geek-out-more-1568)
+- [How Did You Get Started with COBOL?](https://dev.to/devteam/how-did-you-get-started-with-cobol-3b3i)
+- [Vue.js for Beginners #2](https://dev.to/ericnanhu/vuejs-for-beginners-2-766)
+- [Criando um algoritmo de pesquisa em largura em grafos](https://dev.to/antiduhring/criando-um-algoritmo-de-pesquisa-em-largura-em-grafos-3af3)
 <!-- BLOG-POST-LIST:END -->
 
