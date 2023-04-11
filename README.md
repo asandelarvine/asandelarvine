@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Joy of Sharing: Why Developers Should Geek Out More](https://dev.to/louiseann93/the-joy-of-sharing-why-developers-should-geek-out-more-1568)
+- [BEGINNER-FRIENDLY STEP BY STEP GUIDE ON HOW TO CREATE AWS VIRTUAL MACHINE USING WINDOWS 10](https://dev.to/arbythecoder/beginner-friendly-step-by-step-guide-on-how-to-create-aws-virtual-machine-using-windows-10-5h06)
 - [How Did You Get Started with COBOL?](https://dev.to/devteam/how-did-you-get-started-with-cobol-3b3i)
 - [Vue.js for Beginners #2](https://dev.to/ericnanhu/vuejs-for-beginners-2-766)
-- [Criando um algoritmo de pesquisa em largura em grafos](https://dev.to/antiduhring/criando-um-algoritmo-de-pesquisa-em-largura-em-grafos-3af3)
 <!-- BLOG-POST-LIST:END -->
 
