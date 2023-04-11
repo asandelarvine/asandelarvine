@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Industry Burnout: How Can We Prevent It?](https://dev.to/codenewbieteam/tech-industry-burnout-how-can-we-prevent-it-1ll2)
-- [Best Practices When Designing AWS Architecture](https://dev.to/aws-builders/best-practices-when-designing-aws-architecture-4c8d)
-- [The Power of Automating Your Development Workflow](https://dev.to/bhavin9920/the-power-of-automating-your-development-workflow-3g9g)
-- [How to make Responsive Web designs in CSS: Tips and Tricks](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
+- [Theme toggle using Tailwind CSS in just 3 steps](https://dev.to/shreyvijayvargiya/theme-toggle-using-tailwind-css-in-just-3-steps-1eij)
+- [Never Use the WRONG Package Manager Again!](https://dev.to/this-is-learning/never-use-the-wrong-package-manager-again-33ff)
+- [Xorg veya Wayland kontrolü](https://dev.to/aciklab/xorg-veya-wayland-kontrolu-4e7b)
+- [Customizing Vizzu Charts - GIF export using gif.js](https://dev.to/simzer/customizing-vizzu-charts-gif-export-using-gifjs-21e5)
 <!-- BLOG-POST-LIST:END -->
 
