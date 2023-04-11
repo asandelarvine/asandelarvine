@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
+- [What&#39;s New in Hoppscotch?: A Roundup of Our Latest Updates](https://dev.to/hoppscotch/whats-new-in-hoppscotch-a-roundup-of-our-latest-updates-2bco)
+- [New Study Shows Consumers Desire a World Beyond Passwords and Biometrics](https://dev.to/prove/new-study-shows-consumers-desire-a-world-beyond-passwords-and-biometrics-18j6)
 - [Moonly weekly progress update #44](https://dev.to/moonly/moonly-weekly-progress-update-44-27al)
-- [Login and Signup with Next.js](https://dev.to/vulcanwm/login-and-signup-with-nextjs-am7)
-- [Top 4 JavaScript Notification Libraries](https://dev.to/trinhcamminh/top-4-javascript-notification-libraries-487)
-- [Change computer name displayed in Terminal &lpar;Mac&rpar;](https://dev.to/andreasbergstrom/change-computer-name-displayed-in-terminal-mac-4a68)
 <!-- BLOG-POST-LIST:END -->
 
