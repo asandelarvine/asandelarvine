@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best FREE AWS Cloud Courses for 2023](https://dev.to/prasadkpd/best-free-aws-cloud-courses-for-2023-41be)
-- [PostgreSQL Performance Tuning: A Guide to Vacuum, Analyze, and Reindex](https://dev.to/nilanth/postgresql-performance-tuning-a-guide-to-vacuum-analyze-and-reindex-7kk)
-- [Google and Stanford Creates a Matrix With Chat-GPT Instances](https://dev.to/lenog/google-and-stanford-creates-a-matrix-with-chat-gpt-instances-2a4e)
-- [Building a SvelteKit Demo Page with Web Component and Passkey Login for passkeys.eu](https://dev.to/bmikaili/building-a-sveltekit-demo-page-with-web-component-and-passkey-login-using-corbadocom-1ci4)
+- [Welcome Thread - v220](https://dev.to/thepracticaldev/welcome-thread-v220-2j91)
+- [Buildless workflow through import maps &lpar;featuring Lit, Shoelace and more&rpar;](https://dev.to/matsuuu/buildless-workflow-through-import-maps-featuring-lit-shoelace-and-more-4ill)
+- [Mobile-first or Desktop-first development?](https://dev.to/dumebii/mobile-first-or-desktop-first-development-4m24)
+- [How to use PowerShell to create Resource group and virtual Machine in Azure](https://dev.to/mojeed88/how-to-use-powershell-to-create-resource-group-and-virtual-machine-in-azure-1ljp)
 <!-- BLOG-POST-LIST:END -->
 
