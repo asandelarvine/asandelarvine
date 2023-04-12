@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [# What ChatGPT’s “iPhone Moment” Looks Like](https://dev.to/durgesh4993/-what-chatgpts-iphone-moment-looks-like-jpl)
+- [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-2pla)
+- [Power Apps - Client or Server Side?](https://dev.to/wyattdave/power-apps-client-or-server-side-2kh1)
 - [Share Your Desk Decor: What Inspires You at Work?](https://dev.to/codenewbieteam/share-your-desk-decor-what-inspires-you-at-work-non)
-- [Bazı cihazlardaki ekran titremesi sorunu çözümü](https://dev.to/aciklab/bazi-cihazlardaki-ekran-titremesi-sorunu-cozumu-41k6)
-- [The Rear-Vue Mirror: My Open-Source Origin Story](https://dev.to/jutanium/the-rear-vue-mirror-my-open-source-origin-story-2i3j)
-- [Launch of The Most Requested Youtube Channel Related To Web Development](https://dev.to/myogeshchavan97/launch-of-the-most-requested-youtube-channel-related-to-web-development-4n6c)
 <!-- BLOG-POST-LIST:END -->
 
