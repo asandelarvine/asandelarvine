@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The history of HTTP in under 5 minutes](https://dev.to/andreasbergstrom/the-history-of-http-in-under-5-minutes-4b7p)
+- [Javascript Object #7](https://dev.to/samr/javascript-object-7-9ie)
+- [GitHub Actions CI/CD for React app hosted in GitHub Pages](https://dev.to/pvishnuprasaath/github-actions-cicd-for-react-app-hosted-in-github-pages-3ah3)
 - [🎒 localStorage or 🍪 cookies : What&#39;s the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho)
-- [THIS IS BY FAR THE MOST EASIEST WAY TO CREATE AWS S3 BUCKETS FOR BEGINNERS](https://dev.to/arbythecoder/this-is-by-far-the-most-easiest-way-to-create-aws-s3-buckets-for-beginners-3g9l)
-- [Tailwind: Overview and Setup](https://dev.to/bengrnb/tailwind-overview-and-setup-pbp)
-- [Tailwind CSS vs. CSS Frameworks: A Comprehensive Comparison for UI Design](https://dev.to/abdalshafiealmajdoup/tailwind-css-vs-css-frameworks-a-comprehensive-comparison-for-ui-design-1il1)
 <!-- BLOG-POST-LIST:END -->
 
