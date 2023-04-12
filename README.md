@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Your Money: A Professionals Guide to Personal Finance](https://dev.to/imsampro/master-your-money-a-professionals-guide-to-personal-finance-4lge)
-- [Mastering SAML Implementation in PHP: A Comprehensive Step-by-Step Guide](https://dev.to/ssojet/mastering-saml-implementation-in-php-a-comprehensive-step-by-step-guide-3li9)
-- [Struct vs Class in C#: Choosing the Right Data Type](https://dev.to/bytehide/struct-vs-class-in-c-choosing-the-right-data-type-62p)
-- [Simplify Your Data Management With Relationships](https://dev.to/appwrite/simplify-your-data-management-with-relationships-11ma)
+- [Creating a Virtual Machine within 60 seconds using Quickstart Template in Azure](https://dev.to/mojeed88/creating-a-virtual-machine-within-60-seconds-using-quickstart-template-in-azure-32ib)
+- [Educative vs Udemy? Which one is better for Developers?](https://dev.to/javinpaul/educative-vs-udemy-which-one-is-better-for-developers-3b91)
+- [New Operators to Query Documents More Efficiently](https://dev.to/appwrite/new-operators-to-query-documents-more-efficiently-5gab)
+- [My ChatGPT Workout Generator Just Got Better](https://dev.to/aws-heroes/my-chatgpt-workout-generator-just-got-better-5gnn)
 <!-- BLOG-POST-LIST:END -->
 
