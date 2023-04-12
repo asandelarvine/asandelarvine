@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best ways to use Extract utility type in Typescript](https://dev.to/arafat4693/best-ways-to-use-extract-in-typescript-jc2)
 - [Welcome Thread - v220](https://dev.to/thepracticaldev/welcome-thread-v220-2j91)
 - [Buildless workflow through import maps &lpar;featuring Lit, Shoelace and more&rpar;](https://dev.to/matsuuu/buildless-workflow-through-import-maps-featuring-lit-shoelace-and-more-4ill)
 - [Mobile-first or Desktop-first development?](https://dev.to/dumebii/mobile-first-or-desktop-first-development-4m24)
-- [How to use PowerShell to create Resource group and virtual Machine in Azure](https://dev.to/mojeed88/how-to-use-powershell-to-create-resource-group-and-virtual-machine-in-azure-1ljp)
 <!-- BLOG-POST-LIST:END -->
 
