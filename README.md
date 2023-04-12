@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Share Your Desk Decor: What Inspires You at Work?](https://dev.to/codenewbieteam/share-your-desk-decor-what-inspires-you-at-work-non)
+- [Bazı cihazlardaki ekran titremesi sorunu çözümü](https://dev.to/aciklab/bazi-cihazlardaki-ekran-titremesi-sorunu-cozumu-41k6)
 - [The Rear-Vue Mirror: My Open-Source Origin Story](https://dev.to/jutanium/the-rear-vue-mirror-my-open-source-origin-story-2i3j)
 - [Launch of The Most Requested Youtube Channel Related To Web Development](https://dev.to/myogeshchavan97/launch-of-the-most-requested-youtube-channel-related-to-web-development-4n6c)
-- [The history of HTTP in under 5 minutes](https://dev.to/andreasbergstrom/the-history-of-http-in-under-5-minutes-4b7p)
-- [Javascript Object #7](https://dev.to/samr/javascript-object-7-9ie)
 <!-- BLOG-POST-LIST:END -->
 
