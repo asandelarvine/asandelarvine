@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Dualidade do Bitcoin: Privacidade versus Transparência](https://dev.to/sudoboy/a-dualidade-do-bitcoin-privacidade-versus-transparencia-hfc)
 - [You Can Help Junior Developers Succeed](https://dev.to/mikehtmlallthethings/you-can-help-junior-developers-succeed-178m)
-- [GitHub Discussion: O que é isso e pra que serve?](https://dev.to/github/github-discussion-o-que-e-isso-e-pra-que-serve-1ldl)
-- [Credential Stuffing: How PRC almost hacked my Steam](https://dev.to/prove/credential-stuffing-how-prc-almost-hacked-my-steam-414m)
-- [[TS] I made Ultimate Random Generator which can make Everything](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
+- [The guide to signal handling in Rust](https://dev.to/logrocket/the-guide-to-signal-handling-in-rust-17b6)
+- [Porque Amamos Go! ❤](https://dev.to/jeffotoni/porque-amamos-go-1c89)
 <!-- BLOG-POST-LIST:END -->
 
