@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master Your Money: A Professionals Guide to Personal Finance](https://dev.to/imsampro/master-your-money-a-professionals-guide-to-personal-finance-4lge)
+- [Mastering SAML Implementation in PHP: A Comprehensive Step-by-Step Guide](https://dev.to/ssojet/mastering-saml-implementation-in-php-a-comprehensive-step-by-step-guide-3li9)
 - [Struct vs Class in C#: Choosing the Right Data Type](https://dev.to/bytehide/struct-vs-class-in-c-choosing-the-right-data-type-62p)
 - [Simplify Your Data Management With Relationships](https://dev.to/appwrite/simplify-your-data-management-with-relationships-11ma)
-- [Javascript Object #8](https://dev.to/samr/javascript-object-8-3k6m)
-- [Introducing Password Dictionary In Appwrite: A New Layer Of Security](https://dev.to/appwrite/introducing-password-dictionary-in-appwrite-a-new-layer-of-security-2356)
 <!-- BLOG-POST-LIST:END -->
 
