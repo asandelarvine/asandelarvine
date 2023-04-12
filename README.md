@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS vs. CSS Frameworks: A Comprehensive Comparison for UI Design](https://dev.to/abdalshafiealmajdoup/tailwind-css-vs-css-frameworks-a-comprehensive-comparison-for-ui-design-1il1)
+- [NGINX vs Apache : A Comparison of Web Servers](https://dev.to/abdalshafiealmajdoup/nginx-vs-apache-a-comparison-of-web-servers-5615)
 - [Linting Python in VS Code [Video]](https://dev.to/dawnwages/linting-python-in-vs-code-video-23ce)
 - [16000 view for 4 sentences](https://dev.to/adam_cyclones/16000-view-for-4-sentences-28dm)
-- [Building Your First Static Web App on Azure: A Step-by-Step Guide](https://dev.to/ivy_j/building-your-first-static-web-app-on-azure-a-step-by-step-guide-35d3)
-- [Prevent API overload with rate limiting in AWS](https://dev.to/aws-builders/prevent-api-overload-with-rate-limiting-in-aws-1dgb)
 <!-- BLOG-POST-LIST:END -->
 
