@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best ways to use Extract utility type in Typescript](https://dev.to/arafat4693/best-ways-to-use-extract-in-typescript-jc2)
-- [Welcome Thread - v220](https://dev.to/thepracticaldev/welcome-thread-v220-2j91)
-- [Buildless workflow through import maps &lpar;featuring Lit, Shoelace and more&rpar;](https://dev.to/matsuuu/buildless-workflow-through-import-maps-featuring-lit-shoelace-and-more-4ill)
-- [Mobile-first or Desktop-first development?](https://dev.to/dumebii/mobile-first-or-desktop-first-development-4m24)
+- [You Can Help Junior Developers Succeed](https://dev.to/mikehtmlallthethings/you-can-help-junior-developers-succeed-178m)
+- [GitHub Discussion: O que é isso e pra que serve?](https://dev.to/github/github-discussion-o-que-e-isso-e-pra-que-serve-1ldl)
+- [Credential Stuffing: How PRC almost hacked my Steam](https://dev.to/prove/credential-stuffing-how-prc-almost-hacked-my-steam-414m)
+- [[TS] I made Ultimate Random Generator which can make Everything](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
 <!-- BLOG-POST-LIST:END -->
 
