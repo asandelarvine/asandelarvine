@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rear-Vue Mirror: My Open-Source Origin Story](https://dev.to/jutanium/the-rear-vue-mirror-my-open-source-origin-story-2i3j)
+- [Launch of The Most Requested Youtube Channel Related To Web Development](https://dev.to/myogeshchavan97/launch-of-the-most-requested-youtube-channel-related-to-web-development-4n6c)
 - [The history of HTTP in under 5 minutes](https://dev.to/andreasbergstrom/the-history-of-http-in-under-5-minutes-4b7p)
 - [Javascript Object #7](https://dev.to/samr/javascript-object-7-9ie)
-- [GitHub Actions CI/CD for React app hosted in GitHub Pages](https://dev.to/pvishnuprasaath/github-actions-cicd-for-react-app-hosted-in-github-pages-3ah3)
-- [🎒 localStorage or 🍪 cookies : What&#39;s the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho)
 <!-- BLOG-POST-LIST:END -->
 
