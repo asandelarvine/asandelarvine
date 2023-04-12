@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 reasons why you should use Flutter](https://dev.to/khantanveer7/10-reasons-why-you-should-use-flutter-49pd)
 - [Design Patterns: Write modular and Concise Code](https://dev.to/lovepreetsingh/design-patterns-write-modular-and-concise-code-fj2)
 - [A Dualidade do Bitcoin: Privacidade versus Transparência](https://dev.to/sudoboy/a-dualidade-do-bitcoin-privacidade-versus-transparencia-hfc)
 - [You Can Help Junior Developers Succeed](https://dev.to/mikehtmlallthethings/you-can-help-junior-developers-succeed-178m)
-- [The guide to signal handling in Rust](https://dev.to/logrocket/the-guide-to-signal-handling-in-rust-17b6)
 <!-- BLOG-POST-LIST:END -->
 
