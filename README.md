@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Your Data Management With Relationships](https://dev.to/appwrite/simplify-your-data-management-with-relationships-11ma)
+- [Javascript Object #8](https://dev.to/samr/javascript-object-8-3k6m)
 - [Introducing Password Dictionary In Appwrite: A New Layer Of Security](https://dev.to/appwrite/introducing-password-dictionary-in-appwrite-a-new-layer-of-security-2356)
-- [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
-- [How to add a caption to an image using Python code?](https://dev.to/dm8ry/how-to-add-a-caption-to-an-image-using-python-code-2ddd)
-- [# What ChatGPT’s “iPhone Moment” Looks Like](https://dev.to/durgesh4993/-what-chatgpts-iphone-moment-looks-like-jpl)
+- [Synking all the things with CRDTs: Local first development](https://dev.to/charlietap/synking-all-the-things-with-crdts-local-first-development-3241)
 <!-- BLOG-POST-LIST:END -->
 
