@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Password Dictionary In Appwrite: A New Layer Of Security](https://dev.to/appwrite/introducing-password-dictionary-in-appwrite-a-new-layer-of-security-2356)
+- [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
+- [How to add a caption to an image using Python code?](https://dev.to/dm8ry/how-to-add-a-caption-to-an-image-using-python-code-2ddd)
 - [# What ChatGPT’s “iPhone Moment” Looks Like](https://dev.to/durgesh4993/-what-chatgpts-iphone-moment-looks-like-jpl)
-- [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-2pla)
-- [Power Apps - Client or Server Side?](https://dev.to/wyattdave/power-apps-client-or-server-side-2kh1)
-- [Share Your Desk Decor: What Inspires You at Work?](https://dev.to/codenewbieteam/share-your-desk-decor-what-inspires-you-at-work-non)
 <!-- BLOG-POST-LIST:END -->
 
