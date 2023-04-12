@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Linting Python in VS Code [Video]](https://dev.to/dawnwages/linting-python-in-vs-code-video-23ce)
+- [16000 view for 4 sentences](https://dev.to/adam_cyclones/16000-view-for-4-sentences-28dm)
+- [Building Your First Static Web App on Azure: A Step-by-Step Guide](https://dev.to/ivy_j/building-your-first-static-web-app-on-azure-a-step-by-step-guide-35d3)
 - [Prevent API overload with rate limiting in AWS](https://dev.to/aws-builders/prevent-api-overload-with-rate-limiting-in-aws-1dgb)
-- [The Joy of Sharing: Why Developers Should Geek Out More](https://dev.to/louiseann93/the-joy-of-sharing-why-developers-should-geek-out-more-1568)
-- [BEGINNER-FRIENDLY STEP BY STEP GUIDE ON HOW TO CREATE AWS VIRTUAL MACHINE USING WINDOWS 10](https://dev.to/arbythecoder/beginner-friendly-step-by-step-guide-on-how-to-create-aws-virtual-machine-using-windows-10-5h06)
-- [How Did You Get Started with COBOL?](https://dev.to/devteam/how-did-you-get-started-with-cobol-3b3i)
 <!-- BLOG-POST-LIST:END -->
 
