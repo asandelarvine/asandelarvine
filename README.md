@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🎒 localStorage or 🍪 cookies : What&#39;s the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho)
+- [THIS IS BY FAR THE MOST EASIEST WAY TO CREATE AWS S3 BUCKETS FOR BEGINNERS](https://dev.to/arbythecoder/this-is-by-far-the-most-easiest-way-to-create-aws-s3-buckets-for-beginners-3g9l)
+- [Tailwind: Overview and Setup](https://dev.to/bengrnb/tailwind-overview-and-setup-pbp)
 - [Tailwind CSS vs. CSS Frameworks: A Comprehensive Comparison for UI Design](https://dev.to/abdalshafiealmajdoup/tailwind-css-vs-css-frameworks-a-comprehensive-comparison-for-ui-design-1il1)
-- [NGINX vs Apache : A Comparison of Web Servers](https://dev.to/abdalshafiealmajdoup/nginx-vs-apache-a-comparison-of-web-servers-5615)
-- [Linting Python in VS Code [Video]](https://dev.to/dawnwages/linting-python-in-vs-code-video-23ce)
-- [16000 view for 4 sentences](https://dev.to/adam_cyclones/16000-view-for-4-sentences-28dm)
 <!-- BLOG-POST-LIST:END -->
 
