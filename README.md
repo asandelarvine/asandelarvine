@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When to use currying in JavaScript](https://dev.to/slimtim10/when-to-use-currying-in-javascript-1cn4)
 - [CodeNewbie Podcast, S23:E8— &quot;Empowering the Next Generation of Black Tech Talent&quot;](https://dev.to/codenewbieteam/codenewbie-podcast-s23e8-empowering-the-next-generation-of-black-tech-talent-50a)
 - [10 reasons why you should use Flutter](https://dev.to/khantanveer7/10-reasons-why-you-should-use-flutter-49pd)
 - [Best practices for refactoring legacy code to make it more maintainable and easier to work with](https://dev.to/estermabel/best-practices-for-refactoring-legacy-code-to-make-it-more-maintainable-and-easier-to-work-with-5cem)
-- [Design Patterns: Write modular and Concise Code](https://dev.to/lovepreetsingh/design-patterns-write-modular-and-concise-code-fj2)
 <!-- BLOG-POST-LIST:END -->
 
