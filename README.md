@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [We put ChatGPT on your website](https://dev.to/polterguy/we-put-chatgpt-on-your-website-2p7k)
-- [Exploring Cloud Models: Public, Private, Hybrid, and Multi-Cloud](https://dev.to/scc33/exploring-cloud-models-public-private-hybrid-and-multi-cloud-2eo3)
-- [Why On-Chain is the New On-Line](https://dev.to/galaxiastudios/why-on-chain-is-the-new-on-line-3nad)
-- [Generate thumbhash at edge for tiny progressive images](https://dev.to/bryce/generate-thumbhash-at-edge-for-tiny-progressive-images-282h)
+- [LangChain + Aim: Building and Debugging AI Systems Made EASY!](https://dev.to/tatyana/langchain-aim-building-and-debugging-ai-systems-made-easy-1bk0)
+- [Docker: The Ultimate Guide to Streamline Application Development](https://dev.to/superiqbal7/docker-the-ultimate-guide-to-streamline-application-development-351e)
+- [Best AI Text Generators in 2023](https://dev.to/edenai/best-ai-text-generators-in-2023-2laf)
 <!-- BLOG-POST-LIST:END -->
 
