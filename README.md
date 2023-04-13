@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optional function in swift Protocol](https://dev.to/nalineer/optional-function-in-swift-protocol-442j)
 - [The importance of rel=canonical for content writers](https://dev.to/nfrankel/the-importance-of-relcanonical-for-content-writers-4o8f)
 - [Active Record &quot;merge&quot; method](https://dev.to/daviducolo/active-record-merge-3049)
 - [Deno Fresh PostCSS: Future CSS with Deno](https://dev.to/askrodney/deno-fresh-postcss-future-css-with-deno-29g4)
-- [This Week In React #141: Next.js, Storybook, React Visualized, Remix, Chakra, Modern.js, Reselect, Benchmarks, Expo...](https://dev.to/sebastienlorber/this-week-in-react-141-nextjs-storybook-react-visualized-remix-chakra-modernjs-reselect-benchmarks-expo-g2p)
 <!-- BLOG-POST-LIST:END -->
 
