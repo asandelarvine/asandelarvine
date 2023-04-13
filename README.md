@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Costly CSS Properties and How to Optimize Them](https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd)
+- [Create a ChatGPT Plugin to retrieve NASA images](https://dev.to/360macky/create-a-chatgpt-plugin-to-retrieve-nasa-images-45pk)
 - [Display your Resumé PDF on your Website](https://dev.to/binhngo/display-your-resume-pdf-on-your-website-50k3)
 - [Jenkins Syntax and Logic](https://dev.to/aws-builders/jenkins-syntax-and-logic-6pm)
-- [When to use currying in JavaScript](https://dev.to/slimtim10/when-to-use-currying-in-javascript-1cn4)
-- [CodeNewbie Podcast, S23:E8— &quot;Empowering the Next Generation of Black Tech Talent&quot;](https://dev.to/codenewbieteam/codenewbie-podcast-s23e8-empowering-the-next-generation-of-black-tech-talent-50a)
 <!-- BLOG-POST-LIST:END -->
 
