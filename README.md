@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why On-Chain is the New On-Line](https://dev.to/galaxiastudios/why-on-chain-is-the-new-on-line-3nad)
+- [How to build a personal brand as a software engineer](https://dev.to/educative/how-to-build-a-personal-brand-as-a-software-engineer-3lmh)
 - [Take It Slow &amp; Say Hello: A Sloth’s Guide to Making Friends Online](https://dev.to/codenewbieteam/take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61)
 - [VMClarity: Virtual Machine Security](https://dev.to/ciscoemerge/vmclarity-virtual-machine-security-5e8g)
-- [6 CSS Games to help you Learn CSS Easily](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
-- [GetBlock Launches Affiliate Program: How to Benefit from It](https://dev.to/getblockapi/getblock-launches-affiliate-program-how-to-benefit-from-it-4b7b)
 <!-- BLOG-POST-LIST:END -->
 
