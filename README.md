@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Glasses: The Next Big Thing in Wearable Technology](https://dev.to/cryptoneroo/smart-glasses-the-next-big-thing-in-wearable-technology-2mfc)
-- [No execution logs on AWS Express workflow? 🤔 📖](https://dev.to/maximevivier/no-execution-logs-on-aws-express-workflow-240p)
-- [Fix Apple Bugs using a &quot;Secret&quot; Linux Browser](https://dev.to/ingosteinke/fixing-apple-bugs-with-a-secret-linux-browser-4cp3)
-- [Lazy loading para imagens em background](https://dev.to/claytonrss/lazy-loading-para-imagens-em-background-297)
+- [Design to Developer Handoff: How enterprise teams can create a smoother process](https://dev.to/estheragbaje/design-to-developer-handoff-how-enterprise-teams-can-create-a-smoother-process-5cdh)
+- [Request Tracing in Node.js](https://dev.to/amplication/request-tracing-in-nodejs-3k57)
+- [A Professionals Guide to Personal Finance for Indians](https://dev.to/imsampro/a-professionals-guide-to-personal-finance-for-indians-o92)
+- [Getting Started with Tree-Shaking in Webpack](https://dev.to/fritzlolpro/getting-started-with-tree-shaking-in-webpack-2bcg)
 <!-- BLOG-POST-LIST:END -->
 
