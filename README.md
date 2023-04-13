@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We put ChatGPT on your website](https://dev.to/polterguy/we-put-chatgpt-on-your-website-2p7k)
 - [Exploring Cloud Models: Public, Private, Hybrid, and Multi-Cloud](https://dev.to/scc33/exploring-cloud-models-public-private-hybrid-and-multi-cloud-2eo3)
 - [Why On-Chain is the New On-Line](https://dev.to/galaxiastudios/why-on-chain-is-the-new-on-line-3nad)
-- [How to build a personal brand as a software engineer](https://dev.to/educative/how-to-build-a-personal-brand-as-a-software-engineer-3lmh)
-- [Module Federation v7 featuring Delegate Modules Part II](https://dev.to/valorsoftware/module-federation-v7-featuring-delegate-modules-part-ii-68)
+- [Generate thumbhash at edge for tiny progressive images](https://dev.to/bryce/generate-thumbhash-at-edge-for-tiny-progressive-images-282h)
 <!-- BLOG-POST-LIST:END -->
 
