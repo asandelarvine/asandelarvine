@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design to Developer Handoff: How enterprise teams can create a smoother process](https://dev.to/estheragbaje/design-to-developer-handoff-how-enterprise-teams-can-create-a-smoother-process-5cdh)
-- [Request Tracing in Node.js](https://dev.to/amplication/request-tracing-in-nodejs-3k57)
-- [A Professionals Guide to Personal Finance for Indians](https://dev.to/imsampro/a-professionals-guide-to-personal-finance-for-indians-o92)
-- [Getting Started with Tree-Shaking in Webpack](https://dev.to/fritzlolpro/getting-started-with-tree-shaking-in-webpack-2bcg)
+- [6 CSS Games to help you Learn CSS Easily](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
+- [GetBlock Launches Affiliate Program: How to Benefit from It](https://dev.to/getblockapi/getblock-launches-affiliate-program-how-to-benefit-from-it-4b7b)
+- [GitHub CLI: gives wings to terminal](https://dev.to/pvishnuprasaath/github-cli-gives-wings-to-terminal-1ic)
+- [Novidades no .NET 8 Preview 3 [PT-BR]](https://dev.to/andredarcie/novidades-no-net-8-preview-3-pt-br-478p)
 <!-- BLOG-POST-LIST:END -->
 
