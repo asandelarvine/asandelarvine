@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Benefits of Using .NET Core for Microservices Architecture](https://dev.to/bhavin9920/exploring-the-benefits-of-using-net-core-for-microservices-architecture-1585)
 - [Serverless testing is not complicated. It just requires some effort](https://dev.to/aws-builders/serverless-testing-is-not-complicated-it-just-requires-some-effort-1h6c)
 - [Costly CSS Properties and How to Optimize Them](https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd)
 - [Create a ChatGPT Plugin to retrieve NASA images](https://dev.to/360macky/create-a-chatgpt-plugin-to-retrieve-nasa-images-45pk)
-- [Certified Kubernetes Administrator &lpar;CKA&rpar; - Practice Question with Complete Details Lab](https://dev.to/aws-builders/certified-kubernetes-administrator-cka-practice-question-with-complete-details-lab-3l9l)
 <!-- BLOG-POST-LIST:END -->
 
