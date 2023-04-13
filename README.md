@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix Apple Bugs using a &quot;Secret&quot; Linux Browser](https://dev.to/ingosteinke/fixing-apple-bugs-with-a-secret-linux-browser-4cp3)
+- [Lazy loading para imagens em background](https://dev.to/claytonrss/lazy-loading-para-imagens-em-background-297)
+- [Top 9 Commercial Distributed Tracing Tools](https://dev.to/kubeshop/top-9-commercial-distributed-tracing-tools-4ino)
 - [Optional function in swift Protocol](https://dev.to/nalineer/optional-function-in-swift-protocol-442j)
-- [The importance of rel=canonical for content writers](https://dev.to/nfrankel/the-importance-of-relcanonical-for-content-writers-4o8f)
-- [Active Record &quot;merge&quot; method](https://dev.to/daviducolo/active-record-merge-3049)
-- [Deno Fresh PostCSS: Future CSS with Deno](https://dev.to/askrodney/deno-fresh-postcss-future-css-with-deno-29g4)
 <!-- BLOG-POST-LIST:END -->
 
