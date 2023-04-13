@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Take It Slow &amp; Say Hello: A Sloth’s Guide to Making Friends Online](https://dev.to/codenewbieteam/take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61)
+- [VMClarity: Virtual Machine Security](https://dev.to/ciscoemerge/vmclarity-virtual-machine-security-5e8g)
 - [6 CSS Games to help you Learn CSS Easily](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
 - [GetBlock Launches Affiliate Program: How to Benefit from It](https://dev.to/getblockapi/getblock-launches-affiliate-program-how-to-benefit-from-it-4b7b)
-- [GitHub CLI: gives wings to terminal](https://dev.to/pvishnuprasaath/github-cli-gives-wings-to-terminal-1ic)
-- [Novidades no .NET 8 Preview 3 [PT-BR]](https://dev.to/andredarcie/novidades-no-net-8-preview-3-pt-br-478p)
 <!-- BLOG-POST-LIST:END -->
 
