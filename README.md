@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Cloud Models: Public, Private, Hybrid, and Multi-Cloud](https://dev.to/scc33/exploring-cloud-models-public-private-hybrid-and-multi-cloud-2eo3)
 - [Why On-Chain is the New On-Line](https://dev.to/galaxiastudios/why-on-chain-is-the-new-on-line-3nad)
 - [How to build a personal brand as a software engineer](https://dev.to/educative/how-to-build-a-personal-brand-as-a-software-engineer-3lmh)
-- [Take It Slow &amp; Say Hello: A Sloth’s Guide to Making Friends Online](https://dev.to/codenewbieteam/take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61)
-- [VMClarity: Virtual Machine Security](https://dev.to/ciscoemerge/vmclarity-virtual-machine-security-5e8g)
+- [Module Federation v7 featuring Delegate Modules Part II](https://dev.to/valorsoftware/module-federation-v7-featuring-delegate-modules-part-ii-68)
 <!-- BLOG-POST-LIST:END -->
 
