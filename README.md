@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Smart Glasses: The Next Big Thing in Wearable Technology](https://dev.to/cryptoneroo/smart-glasses-the-next-big-thing-in-wearable-technology-2mfc)
+- [No execution logs on AWS Express workflow? 🤔 📖](https://dev.to/maximevivier/no-execution-logs-on-aws-express-workflow-240p)
 - [Fix Apple Bugs using a &quot;Secret&quot; Linux Browser](https://dev.to/ingosteinke/fixing-apple-bugs-with-a-secret-linux-browser-4cp3)
 - [Lazy loading para imagens em background](https://dev.to/claytonrss/lazy-loading-para-imagens-em-background-297)
-- [Top 9 Commercial Distributed Tracing Tools](https://dev.to/kubeshop/top-9-commercial-distributed-tracing-tools-4ino)
-- [Optional function in swift Protocol](https://dev.to/nalineer/optional-function-in-swift-protocol-442j)
 <!-- BLOG-POST-LIST:END -->
 
