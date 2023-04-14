@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Best Practices](https://dev.to/msnmongare/laravel-best-practices-d37)
 - [My Favorite Python Books and Courses for Beginners](https://dev.to/javinpaul/my-favorite-python-books-and-courses-for-beginners-7gb)
 - [What We Learned About Starting a New Career and Supporting Diversity in the Workplace &lpar;CN Podcast S23:E8&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-starting-a-new-career-and-supporting-diversity-in-the-workplace-cn-podcast-s23e8-4eje)
 - [😊 Listen to Your Customers Via Feedback to Avoid Churn 🔥](https://dev.to/shbz/listen-to-your-customersvia-feedback-to-avoid-churn-29pd)
-- [Figma to Flutter: Parabeac 4.0 Updates to Components](https://dev.to/parabeac/figma-to-flutter-parabeac-40-updates-to-components-10o3)
 <!-- BLOG-POST-LIST:END -->
 
