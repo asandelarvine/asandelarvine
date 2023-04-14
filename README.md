@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Logic: The Unique Human Qualities That AI Can&#39;t Replicate](https://dev.to/dhanushnehru/beyond-logic-the-unique-human-qualities-that-ai-cant-replicate-41m8)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-43im)
-- [Dockerize a Python application](https://dev.to/francescoxx/dockerize-a-python-application-1olg)
-- [CSS Tip: learn CSS the easy way!](https://dev.to/this-is-learning/css-tip-learn-css-the-easy-way-im4)
+- [Build a React PDF Invoice Generator App with refine &amp; Strapi](https://dev.to/strapijs/build-a-react-pdf-invoice-generator-app-with-refine-strapi-4n7k)
+- [Benchmarking Rust for Serverless](https://dev.to/aws-builders/benchmarking-rust-for-serverless-36ck)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-566h)
+- [Must do pattern questions :Part-2 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-2-javascript-4gg5)
 <!-- BLOG-POST-LIST:END -->
 
