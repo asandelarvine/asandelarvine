@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Good Pull Request Template &lpar;and Why You Should Add Gifs&rpar;](https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l)
+- [Stripe Connect onboarding with Ruby on Rails](https://dev.to/stripe/stripe-connect-onboarding-with-ruby-on-rails-32i4)
 - [Deploying Prometheus and Grafana using Helm in EKS](https://dev.to/arunbingari/deploying-prometheus-and-grafana-using-helm-in-eks-11h2)
-- [strz – Very Strongly Typed String Functions](https://dev.to/dio41020/strz-very-strongly-typed-string-functions-58on)
-- [Build a React PDF Invoice Generator App with refine &amp; Strapi](https://dev.to/strapi/build-a-react-pdf-invoice-generator-app-with-refine-strapi-4n7k)
-- [Benchmarking Rust for Serverless](https://dev.to/aws-builders/benchmarking-rust-for-serverless-36ck)
+- [Containerizing A NextJs Application For Development](https://dev.to/scaabel/containerizing-a-nextjs-application-for-development-204d)
 <!-- BLOG-POST-LIST:END -->
 
