@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What We Learned About Starting a New Career and Supporting Diversity in the Workplace &lpar;CN Podcast S23:E8&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-starting-a-new-career-and-supporting-diversity-in-the-workplace-cn-podcast-s23e8-4eje)
+- [Figma to Flutter: Parabeac 4.0 Updates to Components](https://dev.to/parabeac/figma-to-flutter-parabeac-40-updates-to-components-10o3)
 - [What Kept Me Motivated to Keep Learning This Week](https://dev.to/codenewbieteam/what-kept-me-motivated-to-keep-learning-this-week-12fn)
 - [3 Scalable Next.js Architecture Boilerplate](https://dev.to/imamdev_/3-scalable-nextjs-architecture-boilerplate-4na1)
-- [Data validation with Fluent Validation for ASP NET Core](https://dev.to/osempu/data-validation-with-fluent-validation-for-asp-net-core-92c)
-- [AWS Amplify and ChatGPT: one way to generate html mock files for our demos 🤖](https://dev.to/aws-builders/aws-amplify-and-chatgpt-one-way-to-generate-html-mock-files-for-our-demos-2dhk)
 <!-- BLOG-POST-LIST:END -->
 
