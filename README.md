@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects](https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk)
 - [50 + 10 = 50 Unique Python Project with 10 lines of Code](https://dev.to/xiaowuc2/50-10-50-unique-python-project-with-10-lines-of-code-2le9)
 - [Dockerize FastAPI project like a pro - Step-by-step Tutorial 🚀](https://dev.to/rajeshj3/dockerize-fastapi-project-like-a-pro-step-by-step-tutorial-7i8)
 - [Animation -22 : Cube Flipping Loader CSS Animation](https://dev.to/jon_snow789/animation-22-cube-flipping-loader-css-animation-46g6)
-- [Would You Rather Work on a Legacy Codebase or Brand-New Tech Stack?](https://dev.to/codenewbieteam/would-you-rather-work-on-a-legacy-codebase-or-brand-new-tech-stack-3eeb)
 <!-- BLOG-POST-LIST:END -->
 
