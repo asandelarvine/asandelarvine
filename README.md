@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize a Python application](https://dev.to/francescoxx/dockerize-a-python-application-1olg)
+- [CSS Tip: learn CSS the easy way!](https://dev.to/this-is-learning/css-tip-learn-css-the-easy-way-im4)
+- [Learn To Become a Web3 Developer by Exploring the Web3 Stack](https://dev.to/mbogan/learn-to-become-a-web3-developer-by-exploring-the-web3-stack-o84)
 - [Node CLI App - Tax Calculator](https://dev.to/bekbrace/node-cli-app-tax-calculator-1p0b)
-- [Adding Closed Captions to an Amazon IVS Live Stream](https://dev.to/aws/adding-closed-captions-to-an-amazon-ivs-live-stream-3480)
-- [Liman MYS-Domain Eklentisi-Kaptan Kurulumu](https://dev.to/aciklab/liman-mys-domain-eklentisi-kaptan-kurulumu-4lad)
-- [35 Knowledge base tools for developers in 2023](https://dev.to/promyze/35-knowledge-base-tools-for-developers-in-2023-3pij)
 <!-- BLOG-POST-LIST:END -->
 
