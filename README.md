@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [50 + 10 = 50 Unique Python Project with 10 lines of Code](https://dev.to/xiaowuc2/50-10-50-unique-python-project-with-10-lines-of-code-2le9)
+- [Dockerize FastAPI project like a pro - Step-by-step Tutorial 🚀](https://dev.to/rajeshj3/dockerize-fastapi-project-like-a-pro-step-by-step-tutorial-7i8)
+- [Animation -22 : Cube Flipping Loader CSS Animation](https://dev.to/jon_snow789/animation-22-cube-flipping-loader-css-animation-46g6)
 - [Would You Rather Work on a Legacy Codebase or Brand-New Tech Stack?](https://dev.to/codenewbieteam/would-you-rather-work-on-a-legacy-codebase-or-brand-new-tech-stack-3eeb)
-- [Laravel Best Practices](https://dev.to/msnmongare/laravel-best-practices-d37)
-- [My Favorite Python Books and Courses for Beginners](https://dev.to/javinpaul/my-favorite-python-books-and-courses-for-beginners-7gb)
-- [What We Learned About Starting a New Career and Supporting Diversity in the Workplace &lpar;CN Podcast S23:E8&rpar;](https://dev.to/codenewbieteam/what-we-learned-about-starting-a-new-career-and-supporting-diversity-in-the-workplace-cn-podcast-s23e8-4eje)
 <!-- BLOG-POST-LIST:END -->
 
