@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Kyte&#39;s Head of Product &amp; Engineering Survived SVB&#39;s Collapse &amp; Outsmarted Uber](https://dev.to/linearb/how-kytes-head-of-product-engineering-survived-svbs-collapse-outsmarted-uber-21bl)
+- [Creating a Data Validator in PHP: Step-by-Step Guide](https://dev.to/fadymr/creating-a-data-validator-in-php-step-by-step-guide-44mk)
 - [Create and Manage Cryptographically Strong Tokens with Python for Better Web Application Security](https://dev.to/devvspaces/create-and-manage-cryptographically-strong-tokens-with-python-for-better-web-application-security-f5i)
 - [Mode sombre facile avec NextJS 13 et Tailwind](https://dev.to/maxiim3/mode-sombre-facile-avec-nextjs-13-et-tailwind-4lki)
-- [3 Common PostgreSQL and Age Installation Errors and How to Solve Them](https://dev.to/dukeofhazardz/3-common-postgresql-and-age-installation-errors-and-how-to-solve-them-3n0g)
-- [Let’s create developer’s community](https://dev.to/ytskk/lets-create-developers-community-5g1o)
 <!-- BLOG-POST-LIST:END -->
 
