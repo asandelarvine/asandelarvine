@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Common PostgreSQL and Age Installation Errors and How to Solve Them](https://dev.to/dukeofhazardz/3-common-postgresql-and-age-installation-errors-and-how-to-solve-them-3n0g)
+- [Let’s create developer’s community](https://dev.to/ytskk/lets-create-developers-community-5g1o)
 - [#DEVDiscuss: Rethinking the Modern Web](https://dev.to/devteam/devdiscuss-rethinking-the-modern-web-30e4)
 - [All about APIs](https://dev.to/shishsingh/all-about-http-calls-4273)
-- [How to Create a Good Pull Request Template &lpar;and Why You Should Add Gifs&rpar;](https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l)
-- [Stripe Connect onboarding with Ruby on Rails](https://dev.to/stripe/stripe-connect-onboarding-with-ruby-on-rails-32i4)
 <!-- BLOG-POST-LIST:END -->
 
