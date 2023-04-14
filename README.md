@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a React PDF Invoice Generator App with refine &amp; Strapi](https://dev.to/strapijs/build-a-react-pdf-invoice-generator-app-with-refine-strapi-4n7k)
+- [strz – Very Strongly Typed String Functions](https://dev.to/dio41020/strz-very-strongly-typed-string-functions-58on)
+- [Build a React PDF Invoice Generator App with refine &amp; Strapi](https://dev.to/strapi/build-a-react-pdf-invoice-generator-app-with-refine-strapi-4n7k)
 - [Benchmarking Rust for Serverless](https://dev.to/aws-builders/benchmarking-rust-for-serverless-36ck)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-566h)
-- [Must do pattern questions :Part-2 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-2-javascript-4gg5)
 <!-- BLOG-POST-LIST:END -->
 
