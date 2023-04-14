@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Logic: The Unique Human Qualities That AI Can&#39;t Replicate](https://dev.to/dhanushnehru/beyond-logic-the-unique-human-qualities-that-ai-cant-replicate-41m8)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-43im)
 - [Dockerize a Python application](https://dev.to/francescoxx/dockerize-a-python-application-1olg)
 - [CSS Tip: learn CSS the easy way!](https://dev.to/this-is-learning/css-tip-learn-css-the-easy-way-im4)
-- [Learn To Become a Web3 Developer by Exploring the Web3 Stack](https://dev.to/mbogan/learn-to-become-a-web3-developer-by-exploring-the-web3-stack-o84)
-- [Node CLI App - Tax Calculator](https://dev.to/bekbrace/node-cli-app-tax-calculator-1p0b)
 <!-- BLOG-POST-LIST:END -->
 
