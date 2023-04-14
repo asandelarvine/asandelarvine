@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we built a 1% website in 3 days for €7](https://dev.to/polterguy/how-we-built-a-1-website-in-3-days-for-eu7-27e)
-- [Understanding Assembly in .NET: An In-Depth Guide from A to Z](https://dev.to/bytehide/understanding-assembly-in-net-an-in-depth-guide-from-a-to-z-2c9g)
-- [Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects](https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk)
-- [50 + 10 = 50 Unique Python Project with 10 lines of Code](https://dev.to/xiaowuc2/50-10-50-unique-python-project-with-10-lines-of-code-2le9)
+- [Node CLI App - Tax Calculator](https://dev.to/bekbrace/node-cli-app-tax-calculator-1p0b)
+- [Adding Closed Captions to an Amazon IVS Live Stream](https://dev.to/aws/adding-closed-captions-to-an-amazon-ivs-live-stream-3480)
+- [Liman MYS-Domain Eklentisi-Kaptan Kurulumu](https://dev.to/aciklab/liman-mys-domain-eklentisi-kaptan-kurulumu-4lad)
+- [35 Knowledge base tools for developers in 2023](https://dev.to/promyze/35-knowledge-base-tools-for-developers-in-2023-3pij)
 <!-- BLOG-POST-LIST:END -->
 
