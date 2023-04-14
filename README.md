@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We put ChatGPT on your website](https://dev.to/polterguy/we-put-chatgpt-on-your-website-2p7k)
-- [LangChain + Aim: Building and Debugging AI Systems Made EASY!](https://dev.to/tatyana/langchain-aim-building-and-debugging-ai-systems-made-easy-1bk0)
-- [Docker: The Ultimate Guide to Streamline Application Development](https://dev.to/superiqbal7/docker-the-ultimate-guide-to-streamline-application-development-351e)
-- [Best AI Text Generators in 2023](https://dev.to/edenai/best-ai-text-generators-in-2023-2laf)
+- [What Kept Me Motivated to Keep Learning This Week](https://dev.to/codenewbieteam/what-kept-me-motivated-to-keep-learning-this-week-12fn)
+- [3 Scalable Next.js Architecture Boilerplate](https://dev.to/imamdev_/3-scalable-nextjs-architecture-boilerplate-4na1)
+- [Data validation with Fluent Validation for ASP NET Core](https://dev.to/osempu/data-validation-with-fluent-validation-for-asp-net-core-92c)
+- [AWS Amplify and ChatGPT: one way to generate html mock files for our demos 🤖](https://dev.to/aws-builders/aws-amplify-and-chatgpt-one-way-to-generate-html-mock-files-for-our-demos-2dhk)
 <!-- BLOG-POST-LIST:END -->
 
