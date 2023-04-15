@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Global CSS Art: Community](https://dev.to/vulcanwm/global-css-art-community-3ajh)
 - [What is django?](https://dev.to/yashpatel_py/what-is-django-3i6b)
 - [Campus Party BSB 5 - I went! [EN]](https://dev.to/noriller/campus-party-bsb-5-i-went-en-37ab)
 - [Campus Party BSB 5 - Eu fui! [PT-BR]](https://dev.to/noriller/campus-party-bsb-5-eu-fui-pt-br-4dfd)
-- [What happens when you type https://www.google.com in your browser and press Enter](https://dev.to/brymo/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter-5ehh)
 <!-- BLOG-POST-LIST:END -->
 
