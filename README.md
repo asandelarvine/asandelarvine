@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Probability for Data Science](https://dev.to/es404020/probability-for-data-science-244e)
-- [Are you using VS Code Shortcuts?](https://dev.to/crvanetten15/are-you-using-vs-code-shortcuts-592b)
-- [Overcoming Front-End Back-End Coupling with AWS Event-Driven Architecture](https://dev.to/marawanxmamdouh/overcoming-front-end-back-end-coupling-with-aws-event-driven-architecture-3ob9)
-- [How to use JWT Authentication in NodeJs/NextJs](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)
+- [Blazor WebAssembly vs. Blazor Server: Which One Should You Choose?](https://dev.to/bhavin9920/blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d)
+- [How to Optimize Costs in AWS: Best Practices and Strategies](https://dev.to/prasadkpd/how-to-optimize-costs-in-aws-best-practices-and-strategies-1apn)
+- [AWS for Data Engineering Projects](https://dev.to/imsampro/aws-for-data-engineering-projects-c6a)
+- [Building a Static Web Application on Microsoft Azure](https://dev.to/shima/building-a-static-web-application-on-microsoft-azure-9o5)
 <!-- BLOG-POST-LIST:END -->
 
