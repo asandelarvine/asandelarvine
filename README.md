@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Mini-Project - Cats Need Love Too](https://dev.to/zyounger8/aws-mini-project-cats-need-love-too-5hi2)
+- [The Tempestuous Tale of Docker: A Sea-Change in the Realm of Computing](https://dev.to/bikocodes/the-tempestuous-tale-of-docker-a-sea-change-in-the-realm-of-computing-2i2d)
 - [Revolutionize Your Web Development with DevOps and JavaScript!](https://dev.to/imsampro/revolutionize-your-web-development-with-devops-and-javascript-1k4b)
 - [How I work with Observables in Angular](https://dev.to/dimitarstbc/how-i-work-with-observables-in-angular-49hl)
-- [Setting up Git Bash / MINGW / MSYS2 on Windows](https://dev.to/pascallandau/setting-up-git-bash-mingw-msys2-on-windows-24cc)
-- [How Docker is helping developer and Dev Ops team??](https://dev.to/vijendra/how-docker-is-helping-developer-and-dev-ops-team-m4n)
 <!-- BLOG-POST-LIST:END -->
 
