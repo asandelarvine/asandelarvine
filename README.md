@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 10 biggest benefits of blogging to start a blog today](https://dev.to/khalifa_azeez_e726bee7e15/the-10-biggest-benefits-of-blogging-to-start-a-blog-today-1ekj)
+- [Best Game Engines for Beginners](https://dev.to/albyabraham/best-game-engines-for-beginners-cfh)
 - [Create Portfolio Website for Beginner 2 Hour](https://dev.to/kewcoder/create-portfolio-website-for-beginner-4n87)
-- [Why is UI/UX Design Important?](https://dev.to/imsampro/why-is-uiux-design-important-2ag2)
-- [How to create CD/CI pipeline using Jenkins](https://dev.to/aws-builders/how-to-create-cdci-pipeline-using-jenkins-2n0k)
-- [Fixing Bugs or Writing Algorithms? A Superhero “Would You Rather” 🦸🏻‍♀️💥🦸🏻](https://dev.to/codenewbieteam/fixing-bugs-or-writing-algorithms-a-superhero-would-you-rather-4l9m)
+- [Supercharge Your JS/TS Project with ClojureScript REPL](https://dev.to/reedho/supercharge-your-jsts-project-with-clojurescript-repl-44oa)
 <!-- BLOG-POST-LIST:END -->
 
