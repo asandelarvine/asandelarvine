@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understand the Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/aradwan20/understand-the-asynchronous-javascript-callbacks-promises-and-asyncawait-3oj9)
+- [How to create a static web app in Azure](https://dev.to/moyinoluwaa/how-to-create-a-static-web-app-in-azure-3836)
+- [Maker tag](https://dev.to/alohe/maker-tag-1mdn)
 - [AWS Mini-Project - Cats Need Love Too](https://dev.to/zyounger8/aws-mini-project-cats-need-love-too-5hi2)
-- [The Tempestuous Tale of Docker: A Sea-Change in the Realm of Computing](https://dev.to/bikocodes/the-tempestuous-tale-of-docker-a-sea-change-in-the-realm-of-computing-2i2d)
-- [Revolutionize Your Web Development with DevOps and JavaScript!](https://dev.to/imsampro/revolutionize-your-web-development-with-devops-and-javascript-1k4b)
-- [How I work with Observables in Angular](https://dev.to/dimitarstbc/how-i-work-with-observables-in-angular-49hl)
 <!-- BLOG-POST-LIST:END -->
 
