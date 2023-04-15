@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionize Your Web Development with DevOps and JavaScript!](https://dev.to/imsampro/revolutionize-your-web-development-with-devops-and-javascript-1k4b)
+- [How I work with Observables in Angular](https://dev.to/dimitarstbc/how-i-work-with-observables-in-angular-49hl)
 - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://dev.to/pascallandau/setting-up-git-bash-mingw-msys2-on-windows-24cc)
 - [How Docker is helping developer and Dev Ops team??](https://dev.to/vijendra/how-docker-is-helping-developer-and-dev-ops-team-m4n)
-- [The 10 biggest benefits of blogging to start a blog today](https://dev.to/khalifa_azeez_e726bee7e15/the-10-biggest-benefits-of-blogging-to-start-a-blog-today-1ekj)
-- [Best Game Engines for Beginners](https://dev.to/albyabraham/best-game-engines-for-beginners-cfh)
 <!-- BLOG-POST-LIST:END -->
 
