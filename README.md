@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [30 Free CSS Loading Animation for your website in 2023](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
 - [Understand the Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/aradwan20/understand-the-asynchronous-javascript-callbacks-promises-and-asyncawait-3oj9)
 - [How to create a static web app in Azure](https://dev.to/moyinoluwaa/how-to-create-a-static-web-app-in-azure-3836)
 - [Maker tag](https://dev.to/alohe/maker-tag-1mdn)
-- [AWS Mini-Project - Cats Need Love Too](https://dev.to/zyounger8/aws-mini-project-cats-need-love-too-5hi2)
 <!-- BLOG-POST-LIST:END -->
 
