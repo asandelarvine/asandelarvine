@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to use JWT Authentication in NodeJs/NextJs](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)
 - [Three ways to set headers with Netlify and Astro](https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib)
+- [Encapsulation Explained using JavaScript](https://dev.to/akpevwe11/encapsulation-explained-using-javascript-21hl)
 - [Making a custom Guard in Actix Web](https://dev.to/roque/making-a-custom-guard-in-actix-web-924)
-- [API Rate Limiting Cheat Sheet](https://dev.to/colinmcdermott/api-rate-limiting-cheat-sheet-409f)
 <!-- BLOG-POST-LIST:END -->
 
