@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [30 Free CSS Loading Animation for your website in 2023](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
-- [Understand the Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/aradwan20/understand-the-asynchronous-javascript-callbacks-promises-and-asyncawait-3oj9)
-- [How to create a static web app in Azure](https://dev.to/moyinoluwaa/how-to-create-a-static-web-app-in-azure-3836)
-- [Maker tag](https://dev.to/alohe/maker-tag-1mdn)
+- [What is django?](https://dev.to/yashpatel_py/what-is-django-3i6b)
+- [Campus Party BSB 5 - I went! [EN]](https://dev.to/noriller/campus-party-bsb-5-i-went-en-37ab)
+- [Campus Party BSB 5 - Eu fui! [PT-BR]](https://dev.to/noriller/campus-party-bsb-5-eu-fui-pt-br-4dfd)
+- [What happens when you type https://www.google.com in your browser and press Enter](https://dev.to/brymo/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter-5ehh)
 <!-- BLOG-POST-LIST:END -->
 
