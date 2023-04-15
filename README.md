@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing APIrank.dev algorithm update - a better benchmark of 7000+ Public APIs on the internet](https://dev.to/tristankalos/introducing-apirankdev-algorithm-update-a-better-benchmark-of-7000-public-apis-on-the-internet-3ij6)
 - [&quot;Swipe Left on Looks: Meet Meld - The Dating App that Cares about Your Personality&quot;](https://dev.to/adii9/swipe-left-on-looks-meet-meld-the-dating-app-that-cares-about-your-personality-3n65)
 - [Global CSS Art: Community](https://dev.to/vulcanwm/global-css-art-community-3ajh)
 - [What is django?](https://dev.to/yashpatel_py/what-is-django-3i6b)
-- [Campus Party BSB 5 - I went! [EN]](https://dev.to/noriller/campus-party-bsb-5-i-went-en-37ab)
 <!-- BLOG-POST-LIST:END -->
 
