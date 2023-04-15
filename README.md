@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Probability for Data Science](https://dev.to/es404020/probability-for-data-science-244e)
+- [Are you using VS Code Shortcuts?](https://dev.to/crvanetten15/are-you-using-vs-code-shortcuts-592b)
+- [Overcoming Front-End Back-End Coupling with AWS Event-Driven Architecture](https://dev.to/marawanxmamdouh/overcoming-front-end-back-end-coupling-with-aws-event-driven-architecture-3ob9)
 - [How to use JWT Authentication in NodeJs/NextJs](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)
-- [Three ways to set headers with Netlify and Astro](https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib)
-- [Encapsulation Explained using JavaScript](https://dev.to/akpevwe11/encapsulation-explained-using-javascript-21hl)
-- [Making a custom Guard in Actix Web](https://dev.to/roque/making-a-custom-guard-in-actix-web-924)
 <!-- BLOG-POST-LIST:END -->
 
