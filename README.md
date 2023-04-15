@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Git Bash / MINGW / MSYS2 on Windows](https://dev.to/pascallandau/setting-up-git-bash-mingw-msys2-on-windows-24cc)
+- [How Docker is helping developer and Dev Ops team??](https://dev.to/vijendra/how-docker-is-helping-developer-and-dev-ops-team-m4n)
 - [The 10 biggest benefits of blogging to start a blog today](https://dev.to/khalifa_azeez_e726bee7e15/the-10-biggest-benefits-of-blogging-to-start-a-blog-today-1ekj)
 - [Best Game Engines for Beginners](https://dev.to/albyabraham/best-game-engines-for-beginners-cfh)
-- [Create Portfolio Website for Beginner 2 Hour](https://dev.to/kewcoder/create-portfolio-website-for-beginner-4n87)
-- [Supercharge Your JS/TS Project with ClojureScript REPL](https://dev.to/reedho/supercharge-your-jsts-project-with-clojurescript-repl-44oa)
 <!-- BLOG-POST-LIST:END -->
 
