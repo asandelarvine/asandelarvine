@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use JWT Authentication in NodeJs/NextJs](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)
+- [Three ways to set headers with Netlify and Astro](https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib)
 - [Making a custom Guard in Actix Web](https://dev.to/roque/making-a-custom-guard-in-actix-web-924)
 - [API Rate Limiting Cheat Sheet](https://dev.to/colinmcdermott/api-rate-limiting-cheat-sheet-409f)
-- [How Kyte&#39;s Head of Product &amp; Engineering Survived SVB&#39;s Collapse &amp; Outsmarted Uber](https://dev.to/linearb/how-kytes-head-of-product-engineering-survived-svbs-collapse-outsmarted-uber-21bl)
-- [Creating a Data Validator in PHP: Step-by-Step Guide](https://dev.to/fadymr/creating-a-data-validator-in-php-step-by-step-guide-44mk)
 <!-- BLOG-POST-LIST:END -->
 
