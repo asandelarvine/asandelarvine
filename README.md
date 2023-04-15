@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Portfolio Website for Beginner 2 Hour](https://dev.to/kewcoder/create-portfolio-website-for-beginner-4n87)
+- [Why is UI/UX Design Important?](https://dev.to/imsampro/why-is-uiux-design-important-2ag2)
+- [How to create CD/CI pipeline using Jenkins](https://dev.to/aws-builders/how-to-create-cdci-pipeline-using-jenkins-2n0k)
 - [Fixing Bugs or Writing Algorithms? A Superhero “Would You Rather” 🦸🏻‍♀️💥🦸🏻](https://dev.to/codenewbieteam/fixing-bugs-or-writing-algorithms-a-superhero-would-you-rather-4l9m)
-- [Javascript Object #10](https://dev.to/samr/javascript-object-10-2c9g)
-- [Blazor WebAssembly vs. Blazor Server: Which One Should You Choose?](https://dev.to/bhavin9920/blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d)
-- [How to Optimize Costs in AWS: Best Practices and Strategies](https://dev.to/prasadkpd/how-to-optimize-costs-in-aws-best-practices-and-strategies-1apn)
 <!-- BLOG-POST-LIST:END -->
 
