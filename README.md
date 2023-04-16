@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack&#39;s Access Control Policy](https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p)
+- [Simplify your EKS Cluster Observability with Prometheus &amp; Grafana](https://dev.to/aws-builders/simplify-your-eks-cluster-observability-with-prometheus-grafana-353i)
+- [C# &lpar;C Sharp&rpar; CRUD Rest API using .NET 7, ASP.NET, Entity Framework, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/c-c-sharp-crud-rest-api-using-net-7-aspnet-entity-framework-postgres-docker-and-docker-compose-493a)
 - [Top FREE HTML Resources](https://dev.to/sanket00900/top-free-html-resources-30fo)
-- [The Weekend Coder: If You Were a Programming Language, What Type of Personality Would You Have?](https://dev.to/codenewbieteam/the-weekend-coder-if-you-were-a-programming-language-what-type-of-personality-would-you-have-22ho)
-- [Sparse Arrays hackerrank solution in java](https://dev.to/realnamehidden1_61/sparse-arrays-hackerrank-solution-in-java-2lic)
-- [Arrays - DS hackerrank Solution in java](https://dev.to/realnamehidden1_61/arrays-ds-hackerrank-solution-in-java-19m1)
 <!-- BLOG-POST-LIST:END -->
 
