@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How does ChatGPT work?](https://dev.to/polterguy/how-does-chatgpt-work-3aao)
+- [Add Geo-search to your website/app in just 9 lines of code](https://dev.to/ruppysuppy/add-geo-search-to-your-websiteapp-in-just-9-lines-of-code-4kp4)
 - [While loop](https://dev.to/shoxjaxon2008/while-loop-43pf)
 - [Web Development Beginner&#39;s Learning Roadmap- API Development](https://dev.to/nikkbh/web-development-beginners-learning-roadmap-api-development-2o83)
-- [Visualizing Audio as a Waveform in React](https://dev.to/ssk14/visualizing-audio-as-a-waveform-in-react-o67)
-- [Create a Modern Application with Django and Vue](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
 <!-- BLOG-POST-LIST:END -->
 
