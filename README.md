@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Amazing Project Ideas To Get Hired As A Full-Stack Developer 🔥](https://dev.to/rammcodes/5-amazing-project-ideas-to-get-hired-as-a-full-stack-developer-5lg)
 - [Code Comparison: React vs Angular](https://dev.to/shriram27/code-comparison-react-vs-angular-3j3k)
 - [JS - Map &amp; Symbol object](https://dev.to/jiiincho/js-map-symbol-object-5b5d)
 - [How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack&#39;s Access Control Policy](https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p)
-- [How to add Github Gist in React Js](https://dev.to/jon_snow789/how-to-add-github-gist-in-react-js-4937)
 <!-- BLOG-POST-LIST:END -->
 
