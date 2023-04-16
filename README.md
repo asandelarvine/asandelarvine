@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating Images from Text with C# and Open AI DALL-E](https://dev.to/rmaurodev/generating-images-from-text-with-c-and-open-ai-dall-e-2o7n)
-- [GitHub Slash Commands!](https://dev.to/this-is-learning/github-slash-commands-3coh)
-- [What is Auto GPT : Everything You Need To Know](https://dev.to/jon_snow789/what-is-auto-gpt-everything-you-need-to-know-1pni)
-- [Optimize Your Express App for Smooth Performance: Best Practices](https://dev.to/atharvagadkari05/optimize-your-express-app-for-smooth-performance-best-practices-3ofi)
+- [gitStream vs Code Owners vs GitHub Actions](https://dev.to/linearb/gitstream-vs-code-owners-vs-github-actions-2j32)
+- [Colaboración Efectiva FrontEnd/BackEnd: Flujo de Trabajo Adecuado y Responsabilidades en el Desarrollo de Aplicaciones Web](https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo)
+- [SOAP com TypeScript em pleno 2023](https://dev.to/marcopollivier/soap-com-typescript-em-pleno-2023-5ako)
+- [Creating Timeline Charts with Mermaid.js](https://dev.to/integerman/creating-timeline-charts-with-mermaidjs-2118)
 <!-- BLOG-POST-LIST:END -->
 
