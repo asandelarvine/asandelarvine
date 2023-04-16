@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [While loop](https://dev.to/shoxjaxon2008/while-loop-43pf)
+- [Web Development Beginner&#39;s Learning Roadmap- API Development](https://dev.to/nikkbh/web-development-beginners-learning-roadmap-api-development-2o83)
 - [Visualizing Audio as a Waveform in React](https://dev.to/ssk14/visualizing-audio-as-a-waveform-in-react-o67)
 - [Create a Modern Application with Django and Vue](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
-- [API Keys and Beyond: How to Connect Your Laravel Applications with Many Different APIs](https://dev.to/sendbiggs2/api-keys-and-beyond-how-to-connect-your-laravel-applications-with-many-different-apis-k1o)
-- [Custom Data Attributes in HTML: A Guide to `data-*`](https://dev.to/dev-harbiola/custom-data-attributes-in-html-a-guide-to-data--373)
 <!-- BLOG-POST-LIST:END -->
 
