@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Por qual linguagem de programação devo começar?](https://dev.to/feministech/por-qual-linguagem-de-programacao-devo-comecar-40fj)
+- [Deploying to Google Cloud Run with Github Actions: A Step-by-Step Guide](https://dev.to/oluwafemiakind1/deploying-to-google-cloud-run-with-github-actions-a-step-by-step-guide-53nf)
 - [How To Use MVVM in React Using Hooks and TypeScript](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)
 - [CSS Text Transform: You Don&#39;t Need JavaScript to Capitalize Your Text](https://dev.to/nialljoemaher/css-text-transform-you-dont-need-javascript-to-capitalize-your-text-49io)
-- [Yet Another Newsletter LOL: Groundhog](https://dev.to/nickytonline/yet-another-newsletter-lol-groundhog-11ii)
-- [CSS, The Old](https://dev.to/scriptjayt/css-the-old-6dh)
 <!-- BLOG-POST-LIST:END -->
 
