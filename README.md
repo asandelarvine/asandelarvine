@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use MVVM in React Using Hooks and TypeScript](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)
+- [CSS Text Transform: You Don&#39;t Need JavaScript to Capitalize Your Text](https://dev.to/nialljoemaher/css-text-transform-you-dont-need-javascript-to-capitalize-your-text-49io)
 - [Yet Another Newsletter LOL: Groundhog](https://dev.to/nickytonline/yet-another-newsletter-lol-groundhog-11ii)
-- [VSCode extensions I use when developing with Tailwind](https://dev.to/imsampro/vscode-extensions-i-use-when-developing-with-tailwind-52b0)
-- [Improve Your Code Review Process](https://dev.to/gweaths/improve-your-code-review-process-16h0)
-- [Guide to JS Developer Console for beginners](https://dev.to/bellatrix/guide-to-js-developer-console-for-beginners-3n0k)
+- [CSS, The Old](https://dev.to/scriptjayt/css-the-old-6dh)
 <!-- BLOG-POST-LIST:END -->
 
