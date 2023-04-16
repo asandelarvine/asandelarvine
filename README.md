@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Generating Images from Text with C# and Open AI DALL-E](https://dev.to/rmaurodev/generating-images-from-text-with-c-and-open-ai-dall-e-2o7n)
 - [GitHub Slash Commands!](https://dev.to/this-is-learning/github-slash-commands-3coh)
 - [What is Auto GPT : Everything You Need To Know](https://dev.to/jon_snow789/what-is-auto-gpt-everything-you-need-to-know-1pni)
-- [OOP and FP](https://dev.to/hitechcoderpk/oop-and-fp-25gf)
+- [Optimize Your Express App for Smooth Performance: Best Practices](https://dev.to/atharvagadkari05/optimize-your-express-app-for-smooth-performance-best-practices-3ofi)
 <!-- BLOG-POST-LIST:END -->
 
