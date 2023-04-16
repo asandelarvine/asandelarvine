@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Visualizing Audio as a Waveform in React](https://dev.to/ssk14/visualizing-audio-as-a-waveform-in-react-o67)
 - [Create a Modern Application with Django and Vue](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
 - [API Keys and Beyond: How to Connect Your Laravel Applications with Many Different APIs](https://dev.to/sendbiggs2/api-keys-and-beyond-how-to-connect-your-laravel-applications-with-many-different-apis-k1o)
-- [Introducing APIrank.dev algorithm update - a better benchmark of 7000+ Public APIs on the internet](https://dev.to/tristankalos/introducing-apirankdev-algorithm-update-a-better-benchmark-of-7000-public-apis-on-the-internet-3ij6)
+- [Custom Data Attributes in HTML: A Guide to `data-*`](https://dev.to/dev-harbiola/custom-data-attributes-in-html-a-guide-to-data--373)
 <!-- BLOG-POST-LIST:END -->
 
