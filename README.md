@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Modern Application with Django and Vue](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
 - [API Keys and Beyond: How to Connect Your Laravel Applications with Many Different APIs](https://dev.to/sendbiggs2/api-keys-and-beyond-how-to-connect-your-laravel-applications-with-many-different-apis-k1o)
 - [Introducing APIrank.dev algorithm update - a better benchmark of 7000+ Public APIs on the internet](https://dev.to/tristankalos/introducing-apirankdev-algorithm-update-a-better-benchmark-of-7000-public-apis-on-the-internet-3ij6)
 - [&quot;Swipe Left on Looks: Meet Meld - The Dating App that Cares about Your Personality&quot;](https://dev.to/adii9/swipe-left-on-looks-meet-meld-the-dating-app-that-cares-about-your-personality-3n65)
-- [Global CSS Art: Community](https://dev.to/vulcanwm/global-css-art-community-3ajh)
 <!-- BLOG-POST-LIST:END -->
 
