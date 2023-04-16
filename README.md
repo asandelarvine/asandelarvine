@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Comparison: React vs Angular](https://dev.to/shriram27/code-comparison-react-vs-angular-3j3k)
+- [JS - Map &amp; Symbol object](https://dev.to/jiiincho/js-map-symbol-object-5b5d)
 - [How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack&#39;s Access Control Policy](https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p)
-- [Simplify your EKS Cluster Observability with Prometheus &amp; Grafana](https://dev.to/aws-builders/simplify-your-eks-cluster-observability-with-prometheus-grafana-353i)
-- [C# &lpar;C Sharp&rpar; CRUD Rest API using .NET 7, ASP.NET, Entity Framework, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/c-c-sharp-crud-rest-api-using-net-7-aspnet-entity-framework-postgres-docker-and-docker-compose-493a)
-- [Top FREE HTML Resources](https://dev.to/sanket00900/top-free-html-resources-30fo)
+- [How to add Github Gist in React Js](https://dev.to/jon_snow789/how-to-add-github-gist-in-react-js-4937)
 <!-- BLOG-POST-LIST:END -->
 
