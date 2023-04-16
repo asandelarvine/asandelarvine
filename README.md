@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top FREE HTML Resources](https://dev.to/sanket00900/top-free-html-resources-30fo)
 - [The Weekend Coder: If You Were a Programming Language, What Type of Personality Would You Have?](https://dev.to/codenewbieteam/the-weekend-coder-if-you-were-a-programming-language-what-type-of-personality-would-you-have-22ho)
 - [Sparse Arrays hackerrank solution in java](https://dev.to/realnamehidden1_61/sparse-arrays-hackerrank-solution-in-java-2lic)
-- [Left Rotation hackerrank Solution in java](https://dev.to/realnamehidden1_61/left-rotation-hackerrank-solution-in-java-3lak)
 - [Arrays - DS hackerrank Solution in java](https://dev.to/realnamehidden1_61/arrays-ds-hackerrank-solution-in-java-19m1)
 <!-- BLOG-POST-LIST:END -->
 
