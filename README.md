@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Reasons to Use Next.js: Unlock the Power of React to Create Powerful Web Apps](https://dev.to/hi_iam_chris/5-reasons-to-use-nextjs-unlock-the-power-of-react-to-create-powerful-web-apps-4d7n)
+- [Yet Another Newsletter LOL: Groundhog](https://dev.to/nickytonline/yet-another-newsletter-lol-groundhog-11ii)
 - [VSCode extensions I use when developing with Tailwind](https://dev.to/imsampro/vscode-extensions-i-use-when-developing-with-tailwind-52b0)
+- [Improve Your Code Review Process](https://dev.to/gweaths/improve-your-code-review-process-16h0)
 - [Guide to JS Developer Console for beginners](https://dev.to/bellatrix/guide-to-js-developer-console-for-beginners-3n0k)
-- [How to use React Streaming In Remix](https://dev.to/pmbanugo/how-to-use-react-streaming-in-remix-kj4)
 <!-- BLOG-POST-LIST:END -->
 
