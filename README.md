@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Por qual linguagem de programação devo começar?](https://dev.to/feministech/por-qual-linguagem-de-programacao-devo-comecar-40fj)
-- [Deploying to Google Cloud Run with Github Actions: A Step-by-Step Guide](https://dev.to/oluwafemiakind1/deploying-to-google-cloud-run-with-github-actions-a-step-by-step-guide-53nf)
-- [How To Use MVVM in React Using Hooks and TypeScript](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)
-- [CSS Text Transform: You Don&#39;t Need JavaScript to Capitalize Your Text](https://dev.to/nialljoemaher/css-text-transform-you-dont-need-javascript-to-capitalize-your-text-49io)
+- [Generating Images from Text with C# and Open AI DALL-E](https://dev.to/rmaurodev/generating-images-from-text-with-c-and-open-ai-dall-e-2o7n)
+- [GitHub Slash Commands!](https://dev.to/this-is-learning/github-slash-commands-3coh)
+- [What is Auto GPT : Everything You Need To Know](https://dev.to/jon_snow789/what-is-auto-gpt-everything-you-need-to-know-1pni)
+- [OOP and FP](https://dev.to/hitechcoderpk/oop-and-fp-25gf)
 <!-- BLOG-POST-LIST:END -->
 
