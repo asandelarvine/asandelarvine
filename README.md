@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling Paystack transactions using webhooks](https://dev.to/ifedayo/handling-paystack-transactions-using-webhooks-4k61)
+- [AWS open source newsletter, #153](https://dev.to/aws/aws-open-source-newsletter-153-2gim)
+- [CI Pipelines for dockerized PHP Apps with Github &amp; Gitlab [Tutorial Part 7]](https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2)
 - [Dynamic Programming Algorithms Every Programmer Should Know](https://dev.to/rishitashaw/dynamic-programming-algorithms-every-programmer-should-know-3915)
-- [Promises in Javascript](https://dev.to/codeofaccuracy/promises-in-javascript-2e09)
-- [🌟Exploring the Power of .NET Core: Unleashing the Full Potential of Cross-Platform Development🚀](https://dev.to/bhavin9920/exploring-the-power-of-net-core-unleashing-the-full-potential-of-cross-platform-development-9mn)
-- [Password Cracking: What is a Rainbow Table Attack and how do I prevent it?](https://dev.to/jsquared/password-cracking-what-is-a-rainbow-table-attack-and-how-do-i-prevent-it-2676)
 <!-- BLOG-POST-LIST:END -->
 
