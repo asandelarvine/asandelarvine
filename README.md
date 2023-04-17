@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Acronyms of Rendering on the Web](https://dev.to/whitep4nth3r/the-acronyms-of-rendering-on-the-web-2g8h)
-- [Meme Monday](https://dev.to/ben/meme-monday-4j21)
-- [FLiPN-FLaNK Stack Weekly for 17 April 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-17-april-2023-2em1)
-- [Getting mwaa-local-runner up on AWS Cloud9](https://dev.to/aws/getting-mwaa-local-runner-up-on-aws-cloud9-1nhd)
+- [Music Monday — What are you listening to? &lpar;Live Music Edition II&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-live-music-edition-ii-2892)
+- [How to mock the logger in Go?](https://dev.to/mxglt/how-to-mock-the-logger-in-go-38kn)
+- [Comment mocker le logger en Go?](https://dev.to/mxglt/comment-mocker-le-logger-en-go-2ebm)
+- [Industries Transformed by Information Systems: Education, Healthcare, News, Travel](https://dev.to/windyaaa/industries-transformed-by-information-systems-education-healthcare-news-travel-266a)
 <!-- BLOG-POST-LIST:END -->
 
