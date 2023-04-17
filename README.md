@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I QUIT from a TOXIC Software Development Workplace](https://dev.to/this-is-learning/i-quit-from-a-toxic-software-development-workplace-4g3a)
-- [Solving Monotonic Queue/Stack Problems](https://dev.to/vladisov/solving-monotonic-queuestack-problems-k28)
-- [I&#39;m new in here](https://dev.to/nov3026/im-new-in-here-1228)
-- [Beyond Angular Signals: Signals &amp; Custom Render Strategies](https://dev.to/this-is-angular/beyond-angular-signals-signals-custom-render-strategies-46h7)
+- [FLiPN-FLaNK Stack Weekly for 17 April 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-17-april-2023-2em1)
+- [Getting mwaa-local-runner up on AWS Cloud9](https://dev.to/aws/getting-mwaa-local-runner-up-on-aws-cloud9-1nhd)
+- [Best Practices to protect an RDS MySQL Database ✅](https://dev.to/aws-builders/best-practices-to-protect-an-rds-mysql-database-2f95)
+- [C# 12 is Coming! 3 Features that will Blow your Mind](https://dev.to/bytehide/c-12-is-coming-3-features-that-will-blow-your-mind-2o0c)
 <!-- BLOG-POST-LIST:END -->
 
