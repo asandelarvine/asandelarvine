@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Password Cracking: What is a Rainbow Table Attack and how do I prevent it?](https://dev.to/jsquared/password-cracking-what-is-a-rainbow-table-attack-and-how-do-i-prevent-it-2676)
+- [Build a Real-time Chat Application with Socket.io and Node.js [With Automated Testing]](https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8)
 - [Create A Custom Audio Player Component Using React/Next.js, Tailwind &amp; Howler](https://dev.to/designly/create-a-custom-audio-player-component-using-reactnextjs-tailwind-howler-pgd)
-- [What is the `new` keyword in JavaScript?](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
-- [Benefits of DevOps Implementation](https://dev.to/pragyanatvade/benefits-of-devops-implementation-39m0)
-- [JSX](https://dev.to/xanderlambert/jsx-470a)
+- [Python Tutorial: Introduction to Python Programming](https://dev.to/techwithdavid/python-tutorial-introduction-to-python-programming-1i4l)
 <!-- BLOG-POST-LIST:END -->
 
