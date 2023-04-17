@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the `new` keyword in JavaScript?](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
+- [JSX](https://dev.to/xanderlambert/jsx-470a)
+- [My least favorite question in all of tech recruiting](https://dev.to/fluffy/my-least-favorite-question-in-all-of-tech-recruiting-11bi)
 - [gitStream vs Code Owners vs GitHub Actions](https://dev.to/linearb/gitstream-vs-code-owners-vs-github-actions-2j32)
-- [Colaboración Efectiva FrontEnd/BackEnd: Flujo de Trabajo Adecuado y Responsabilidades en el Desarrollo de Aplicaciones Web](https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo)
-- [SOAP com TypeScript em pleno 2023](https://dev.to/marcopollivier/soap-com-typescript-em-pleno-2023-5ako)
-- [Creating Timeline Charts with Mermaid.js](https://dev.to/integerman/creating-timeline-charts-with-mermaidjs-2118)
 <!-- BLOG-POST-LIST:END -->
 
