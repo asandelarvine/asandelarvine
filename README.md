@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Shell Launch Scripts on Managed Workflows for Apache Airflow &lpar;MWAA&rpar; and mwaa-local-runner](https://dev.to/094459/exploring-shell-launch-scripts-on-managed-workflows-for-apache-airflow-mwaa-and-mwaa-local-runner-5c3m)
-- [Sync Repos beetwen Github &amp; Gitlab](https://dev.to/carbans/sync-repos-beetwen-github-gitlab-b3b)
-- [Advice for Those Learning How to Code](https://dev.to/jsquared/advice-for-those-learning-how-to-code-4he5)
-- [My Experience with Delphi and RAD Studio: A Beginner&#39;s Perspective](https://dev.to/viktoriabors/my-experience-with-delphi-and-rad-studio-a-beginners-perspective-2h0f)
+- [Sematic + Ray: The Best of Orchestration and Distributed Compute at your Fingertips](https://dev.to/sematic/sematic-ray-the-best-of-orchestration-and-distributed-compute-at-your-fingertips-328m)
+- [Best Practices for Writing on DEV: Formatting](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
+- [Best Practices for Writing on DEV: Creating a Series](https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj)
+- [Business Logic Inside Database - How Evil Is It?](https://dev.to/zenstack/business-logic-inside-database-how-evil-is-it-1f1f)
 <!-- BLOG-POST-LIST:END -->
 
