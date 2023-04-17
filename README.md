@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Shell Launch Scripts on Managed Workflows for Apache Airflow &lpar;MWAA&rpar; and mwaa-local-runner](https://dev.to/094459/exploring-shell-launch-scripts-on-managed-workflows-for-apache-airflow-mwaa-and-mwaa-local-runner-5c3m)
+- [Sync Repos beetwen Github &amp; Gitlab](https://dev.to/carbans/sync-repos-beetwen-github-gitlab-b3b)
 - [Advice for Those Learning How to Code](https://dev.to/jsquared/advice-for-those-learning-how-to-code-4he5)
-- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-40ih)
-- [Protecting against Prompt Injection in GPT](https://dev.to/jasny/protecting-against-prompt-injection-in-gpt-1gf8)
-- [🔥 7 Free Resources to Ignite Your Coding Journey!](https://dev.to/jd2r/7-free-resources-to-ignite-your-coding-journey-31di)
+- [My Experience with Delphi and RAD Studio: A Beginner&#39;s Perspective](https://dev.to/viktoriabors/my-experience-with-delphi-and-rad-studio-a-beginners-perspective-2h0f)
 <!-- BLOG-POST-LIST:END -->
 
