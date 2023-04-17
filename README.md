@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does 2FA Actually Mean?](https://dev.to/propelauthblog/what-does-2fa-actually-mean-1gnk)
-- [A Critical Detail about Kafka Partitioners](https://dev.to/bbejeck/a-critical-detail-about-kafka-partitioners-21cb)
-- [What’s the Key to Successful Coding?](https://dev.to/codenewbieteam/whats-the-key-to-successful-coding-20ed)
-- [Introduction to deep learning hardware in the cloud](https://dev.to/aws-builders/introduction-to-deep-learning-hardware-in-the-cloud-4e53)
+- [Advice for Those Learning How to Code](https://dev.to/jsquared/advice-for-those-learning-how-to-code-4he5)
+- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-40ih)
+- [Protecting against Prompt Injection in GPT](https://dev.to/jasny/protecting-against-prompt-injection-in-gpt-1gf8)
+- [🔥 7 Free Resources to Ignite Your Coding Journey!](https://dev.to/jd2r/7-free-resources-to-ignite-your-coding-journey-31di)
 <!-- BLOG-POST-LIST:END -->
 
