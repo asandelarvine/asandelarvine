@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Add custom fonts to Next.js sites with Tailwind using next/font](https://dev.to/irreverentmike/add-custom-fonts-to-nextjs-sites-with-tailwind-using-nextfont-fgi)
+- [What are your goals for the week of April 16?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-april-16-3b3d)
 - [Music Monday — What are you listening to? &lpar;Live Music Edition II&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-live-music-edition-ii-2892)
 - [How to mock the logger in Go?](https://dev.to/mxglt/how-to-mock-the-logger-in-go-38kn)
-- [Comment mocker le logger en Go?](https://dev.to/mxglt/comment-mocker-le-logger-en-go-2ebm)
-- [Industries Transformed by Information Systems: Education, Healthcare, News, Travel](https://dev.to/windyaaa/industries-transformed-by-information-systems-education-healthcare-news-travel-266a)
 <!-- BLOG-POST-LIST:END -->
 
