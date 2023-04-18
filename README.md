@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Free Courses to Learn Microsoft Azure Cloud Platform](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4)
+- [10 ways to earn money online in 2023.](https://dev.to/devtalan/10-ways-to-earn-money-online-in-2023-3b15)
+- [What are different between Normal Copy and Shallow Copy, Deep Copy in JavaScript Object](https://dev.to/abdeldjalilhachimi/what-are-different-between-normal-copy-and-shallow-copy-deep-copy-in-javascript-object-1k45)
 - [Implementing JWT Authentication and User Profile with Django Rest API Part 3](https://dev.to/ki3ani/implementing-jwt-authentication-and-user-profile-with-django-rest-api-part-3-3dh9)
-- [Be careful with time durations in Rails](https://dev.to/honeybadger/be-careful-with-time-durations-in-rails-3h9e)
-- [Sematic + Ray: The Best of Orchestration and Distributed Compute at your Fingertips](https://dev.to/sematic/sematic-ray-the-best-of-orchestration-and-distributed-compute-at-your-fingertips-328m)
-- [Best Practices for Writing on DEV: Formatting](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
 <!-- BLOG-POST-LIST:END -->
 
