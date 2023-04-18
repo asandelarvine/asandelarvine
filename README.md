@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #45 - First Staking Client](https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560)
 - [Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀](https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8)
 - [Javascript Object #14](https://dev.to/samr/javascript-object-13-1ai9)
-- [Introducing Boost](https://dev.to/krud/introducing-boost-5om)
-- [Introducing Deepgram Starter Apps](https://dev.to/deepgram/introducing-deepgram-starter-apps-33m5)
+- [Retool vs. UI Bakery: Which Low-Code Platform is Better for Building Internal Tools?](https://dev.to/illa/retool-vs-ui-bakery-which-low-code-platform-is-better-for-building-internal-tools-43ij)
 <!-- BLOG-POST-LIST:END -->
 
