@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
-- [Moonly weekly progress update #45 - First Staking Client](https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560)
-- [Naming: Every Developer&#39;s Nightmare](https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8)
-- [Creating a Real-Time Chat Application with Node.js and Socket.IO](https://dev.to/famakinwaris/creating-a-real-time-chat-application-with-nodejs-and-socketio-3035)
+- [How to attract developers to your website with an IT events calendar](https://dev.to/unicorn_developer/how-to-attract-developers-to-your-website-with-an-it-events-calendar-397j)
+- [New Winner of Kafka Consumers: Scala to Go Journey 🚀](https://dev.to/esdonmez/new-winner-of-kafka-consumers-scala-to-go-journey-2n1e)
+- [How to Add Writing Assistance to Any JavaScript App in Minutes](https://dev.to/grammarlydevs/how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh)
+- [A Worthy Sequel: An Overview of Next-Gen NoSQL Databases](https://dev.to/prove/a-worthy-sequel-an-overview-of-next-gen-nosql-databases-43ib)
 <!-- BLOG-POST-LIST:END -->
 
