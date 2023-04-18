@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide Docs Homepage of Typia &lpar;20,000x faster runtime validator&rpar;](https://dev.to/samchon/guide-docs-homepage-of-typia-20000x-faster-runtime-validator-1df1)
-- [Announcing elm-express](https://dev.to/eberfreitas/announcing-elm-express-4hjn)
-- [5 Rules to Accelerate Your Career as a Software Engineer](https://dev.to/hstrychalski/5-rules-to-accelerate-your-career-as-a-software-engineer-4bp4)
-- [&quot;Undefined&quot; in javascript: Amazing Cases.](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
+- [#DEVDiscuss: Documentation Workflows](https://dev.to/devteam/devdiscuss-documentation-workflows-4hok)
+- [Modern stack to build a real-time event-driven app](https://dev.to/bobur/modern-stack-to-build-a-real-time-event-driven-app-56i0)
+- [FERNtastic Web Development: A Starter&#39;s Walkthrough of the FERN Stack](https://dev.to/wra-sol/ferntastic-web-development-a-starters-walkthrough-of-the-fern-stack-700)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o7a)
 <!-- BLOG-POST-LIST:END -->
 
