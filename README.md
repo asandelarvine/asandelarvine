@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Bridge the Gap between DevOps and DevRel in Your Organization](https://dev.to/imsampro/how-to-bridge-the-gap-between-devops-and-devrel-in-your-organization-54hf)
+- [How to Incorporate GitHub and CI/CD Deployments into Your Web Agency&#39;s Workflow](https://dev.to/ionos/how-to-incorporate-github-and-cicd-deployments-into-your-web-agencys-workflow-lcg)
 - [Javascript Object #13](https://dev.to/samr/javascript-object-13-ad1)
 - [Code-Collab](https://dev.to/harshilshah99/code-collab-2l5n)
-- [Mastering Time Complexity in Ruby: A Comprehensive Guide with Code Examples and Tests](https://dev.to/daviducolo/mastering-time-complexity-in-ruby-a-comprehensive-guide-with-code-examples-and-tests-3mnd)
-- [Building a QR Code Generator in React JS: Step-by-Step Tutorial](https://dev.to/technicaldadu/building-a-qr-code-generator-in-react-js-step-by-step-tutorial-3n79)
 <!-- BLOG-POST-LIST:END -->
 
