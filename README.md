@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn JavaScript: Printing Your First Message](https://dev.to/fahimfba/learn-javascript-printing-your-first-message-2m04)
-- [Unleash the Power of Python for Ethical Hacking: A Must-Read eBook for Aspiring Hackers](https://dev.to/codeswithrocky/unleash-the-power-of-python-for-ethical-hacking-a-must-read-ebook-for-aspiring-hackers-29je)
-- [How do you create a great engineering culture?](https://dev.to/zevir/how-do-you-create-a-great-engineering-culture-58fe)
-- [How to Create a Text Summarizer Using GPT API: A Step-by-Step Guide with Code](https://dev.to/akash2819/how-to-create-a-text-summarizer-using-gpt-api-a-step-by-step-guide-with-code-1i7b)
+- [Javascript Object #13](https://dev.to/samr/javascript-object-13-ad1)
+- [Code-Collab](https://dev.to/harshilshah99/code-collab-2l5n)
+- [Mastering Time Complexity in Ruby: A Comprehensive Guide with Code Examples and Tests](https://dev.to/daviducolo/mastering-time-complexity-in-ruby-a-comprehensive-guide-with-code-examples-and-tests-3mnd)
+- [Building a QR Code Generator in React JS: Step-by-Step Tutorial](https://dev.to/technicaldadu/building-a-qr-code-generator-in-react-js-step-by-step-tutorial-3n79)
 <!-- BLOG-POST-LIST:END -->
 
