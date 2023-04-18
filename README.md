@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide Docs Homepage of Typia &lpar;20,000x faster runtime validator&rpar;](https://dev.to/samchon/guide-docs-homepage-of-typia-20000x-faster-runtime-validator-1df1)
 - [Announcing elm-express](https://dev.to/eberfreitas/announcing-elm-express-4hjn)
+- [5 Rules to Accelerate Your Career as a Software Engineer](https://dev.to/hstrychalski/5-rules-to-accelerate-your-career-as-a-software-engineer-4bp4)
 - [&quot;Undefined&quot; in javascript: Amazing Cases.](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
-- [11 Free Tools to Ignite Your Coding Journey](https://dev.to/jon_snow789/11-free-tools-to-ignite-your-coding-journey-4p4p)
-- [How to visualize timeline of a Wiki article?](https://dev.to/winkjs/how-to-visualize-timeline-of-a-wiki-article-39jm)
 <!-- BLOG-POST-LIST:END -->
 
