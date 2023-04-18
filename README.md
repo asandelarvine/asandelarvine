@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Undefined&quot; in javascript: Amazing Cases.](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
+- [11 Free Tools to Ignite Your Coding Journey](https://dev.to/jon_snow789/11-free-tools-to-ignite-your-coding-journey-4p4p)
+- [How to visualize timeline of a Wiki article?](https://dev.to/winkjs/how-to-visualize-timeline-of-a-wiki-article-39jm)
 - [Building a production ready LLM application with BerriAI, PropelAuth, and Next.js](https://dev.to/propelauth/building-a-production-ready-llm-application-with-berriai-propelauth-and-nextjs-22an)
-- [Challenge: Counting Numbers with 7s](https://dev.to/peter/challenge-counting-numbers-with-7s-33c7)
-- [Why Vim is a Must-Have Tool for Software Developers](https://dev.to/westart_factory/why-vim-is-a-must-have-tool-for-software-developers-4964)
-- [Continuing Hello World](https://dev.to/codenameone/continuing-hello-world-ck1)
 <!-- BLOG-POST-LIST:END -->
 
