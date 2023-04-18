@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Object #12](https://dev.to/samr/javascript-object-11-2fhj)
+- [Why are relational databases useful🤷🏻‍♂️](https://dev.to/documatic/why-are-relational-databases-useful-307p)
 - [7 Free Courses to Learn Microsoft Azure Cloud Platform](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4)
 - [10 ways to earn money online in 2023.](https://dev.to/devtalan/10-ways-to-earn-money-online-in-2023-3b15)
-- [What are different between Normal Copy and Shallow Copy, Deep Copy in JavaScript Object](https://dev.to/abdeldjalilhachimi/what-are-different-between-normal-copy-and-shallow-copy-deep-copy-in-javascript-object-1k45)
-- [Implementing JWT Authentication and User Profile with Django Rest API Part 3](https://dev.to/ki3ani/implementing-jwt-authentication-and-user-profile-with-django-rest-api-part-3-3dh9)
 <!-- BLOG-POST-LIST:END -->
 
