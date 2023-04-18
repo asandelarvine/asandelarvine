@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
 - [Moonly weekly progress update #45 - First Staking Client](https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560)
-- [Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀](https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8)
-- [Javascript Object #14](https://dev.to/samr/javascript-object-13-1ai9)
-- [Retool vs. UI Bakery: Which Low-Code Platform is Better for Building Internal Tools?](https://dev.to/illa/retool-vs-ui-bakery-which-low-code-platform-is-better-for-building-internal-tools-43ij)
+- [Naming: Every Developer&#39;s Nightmare](https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8)
+- [Creating a Real-Time Chat Application with Node.js and Socket.IO](https://dev.to/famakinwaris/creating-a-real-time-chat-application-with-nodejs-and-socketio-3035)
 <!-- BLOG-POST-LIST:END -->
 
