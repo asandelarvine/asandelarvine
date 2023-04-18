@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Love Mongodb ? Try Tigris db once.](https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn)
 - [Master the Art of Kubernetes Deployment with AWS and DevOps!](https://dev.to/imsampro/master-the-art-of-kubernetes-deployment-with-aws-and-devops-2ogo)
 - [Javascript Object #12](https://dev.to/samr/javascript-object-11-2fhj)
 - [Why are relational databases useful🤷🏻‍♂️](https://dev.to/documatic/why-are-relational-databases-useful-307p)
-- [7 Free Courses to Learn Microsoft Azure Cloud Platform](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4)
 <!-- BLOG-POST-LIST:END -->
 
