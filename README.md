@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn JavaScript: Printing Your First Message](https://dev.to/fahimfba/learn-javascript-printing-your-first-message-2m04)
+- [Unleash the Power of Python for Ethical Hacking: A Must-Read eBook for Aspiring Hackers](https://dev.to/codeswithrocky/unleash-the-power-of-python-for-ethical-hacking-a-must-read-ebook-for-aspiring-hackers-29je)
+- [How do you create a great engineering culture?](https://dev.to/zevir/how-do-you-create-a-great-engineering-culture-58fe)
 - [How to Create a Text Summarizer Using GPT API: A Step-by-Step Guide with Code](https://dev.to/akash2819/how-to-create-a-text-summarizer-using-gpt-api-a-step-by-step-guide-with-code-1i7b)
-- [Earn $200+ an Article By Writing For These Websites](https://dev.to/mavensingh/earn-200-an-article-by-writing-for-these-websites-5cbe)
-- [Beyond Composability: Using Uniform as an Internal Tool](https://dev.to/malomz/beyond-composability-using-uniform-as-an-internal-tool-15ei)
-- [Coding Heroes: Who Inspires and Motivates You?](https://dev.to/codenewbieteam/coding-heroes-who-inspires-and-motivates-you-2mhd)
 <!-- BLOG-POST-LIST:END -->
 
