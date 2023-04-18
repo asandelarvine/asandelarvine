@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Implementing JWT Authentication and User Profile with Django Rest API Part 3](https://dev.to/ki3ani/implementing-jwt-authentication-and-user-profile-with-django-rest-api-part-3-3dh9)
+- [Be careful with time durations in Rails](https://dev.to/honeybadger/be-careful-with-time-durations-in-rails-3h9e)
 - [Sematic + Ray: The Best of Orchestration and Distributed Compute at your Fingertips](https://dev.to/sematic/sematic-ray-the-best-of-orchestration-and-distributed-compute-at-your-fingertips-328m)
 - [Best Practices for Writing on DEV: Formatting](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
-- [Best Practices for Writing on DEV: Creating a Series](https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj)
 <!-- BLOG-POST-LIST:END -->
 
