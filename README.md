@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Bridge the Gap between DevOps and DevRel in Your Organization](https://dev.to/imsampro/how-to-bridge-the-gap-between-devops-and-devrel-in-your-organization-54hf)
-- [How to Incorporate GitHub and CI/CD Deployments into Your Web Agency&#39;s Workflow](https://dev.to/ionos/how-to-incorporate-github-and-cicd-deployments-into-your-web-agencys-workflow-lcg)
-- [Javascript Object #13](https://dev.to/samr/javascript-object-13-ad1)
-- [Code-Collab](https://dev.to/harshilshah99/code-collab-2l5n)
+- [Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀](https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8)
+- [Javascript Object #14](https://dev.to/samr/javascript-object-13-1ai9)
+- [Introducing Boost](https://dev.to/krud/introducing-boost-5om)
+- [Introducing Deepgram Starter Apps](https://dev.to/deepgram/introducing-deepgram-starter-apps-33m5)
 <!-- BLOG-POST-LIST:END -->
 
