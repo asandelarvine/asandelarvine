@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to attract developers to your website with an IT events calendar](https://dev.to/unicorn_developer/how-to-attract-developers-to-your-website-with-an-it-events-calendar-397j)
-- [New Winner of Kafka Consumers: Scala to Go Journey 🚀](https://dev.to/esdonmez/new-winner-of-kafka-consumers-scala-to-go-journey-2n1e)
-- [How to Add Writing Assistance to Any JavaScript App in Minutes](https://dev.to/grammarlydevs/how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh)
-- [A Worthy Sequel: An Overview of Next-Gen NoSQL Databases](https://dev.to/prove/a-worthy-sequel-an-overview-of-next-gen-nosql-databases-43ib)
+- [Building a production ready LLM application with BerriAI, PropelAuth, and Next.js](https://dev.to/propelauth/building-a-production-ready-llm-application-with-berriai-propelauth-and-nextjs-22an)
+- [Challenge: Counting Numbers with 7s](https://dev.to/peter/challenge-counting-numbers-with-7s-33c7)
+- [Why Vim is a Must-Have Tool for Software Developers](https://dev.to/westart_factory/why-vim-is-a-must-have-tool-for-software-developers-4964)
+- [Continuing Hello World](https://dev.to/codenameone/continuing-hello-world-ck1)
 <!-- BLOG-POST-LIST:END -->
 
