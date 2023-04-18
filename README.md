@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Text Summarizer Using GPT API: A Step-by-Step Guide with Code](https://dev.to/akash2819/how-to-create-a-text-summarizer-using-gpt-api-a-step-by-step-guide-with-code-1i7b)
+- [Earn $200+ an Article By Writing For These Websites](https://dev.to/mavensingh/earn-200-an-article-by-writing-for-these-websites-5cbe)
+- [Beyond Composability: Using Uniform as an Internal Tool](https://dev.to/malomz/beyond-composability-using-uniform-as-an-internal-tool-15ei)
 - [Coding Heroes: Who Inspires and Motivates You?](https://dev.to/codenewbieteam/coding-heroes-who-inspires-and-motivates-you-2mhd)
-- [Love Mongodb ? Try Tigris db once.](https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn)
-- [Master the Art of Kubernetes Deployment with AWS and DevOps!](https://dev.to/imsampro/master-the-art-of-kubernetes-deployment-with-aws-and-devops-2ogo)
-- [Angular 16 REQUIRED Input Properties](https://dev.to/debug_mode/angular-16-required-input-properties-4j90)
 <!-- BLOG-POST-LIST:END -->
 
