@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I built an AI-powered code explainer](https://dev.to/tanzirulhuda/i-built-an-ai-powered-code-explainer-3n0o)
+- [Por que você deveria aprender Crystal?](https://dev.to/guto/por-que-voce-deveria-aprender-crystal-2c12)
 - [#DEVDiscuss: Documentation Workflows](https://dev.to/devteam/devdiscuss-documentation-workflows-4hok)
 - [Modern stack to build a real-time event-driven app](https://dev.to/bobur/modern-stack-to-build-a-real-time-event-driven-app-56i0)
-- [FERNtastic Web Development: A Starter&#39;s Walkthrough of the FERN Stack](https://dev.to/wra-sol/ferntastic-web-development-a-starters-walkthrough-of-the-fern-stack-700)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o7a)
 <!-- BLOG-POST-LIST:END -->
 
