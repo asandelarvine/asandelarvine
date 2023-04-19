@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GIT Commands Cheat Sheet](https://dev.to/pragyanatvade/git-commands-cheat-sheet-5h4i)
+- [Simple Curl &amp; Shell for AI Image Editing](https://dev.to/sourishkrout/simple-curl-shell-for-ai-image-editing-40pa)
+- [Hello terraform_data! Goodbye null_resource!](https://dev.to/aws-builders/hello-terraformdata-goodbye-nullresource-3g21)
 - [How to Dockerize a Spring Boot App with PostgreSQL](https://dev.to/gassaihamza/how-to-dockerize-a-spring-boot-app-with-postgresql-4ea4)
-- [How to Make a Great Pull Request and Some Other Things I Learned This Week](https://dev.to/codenewbieteam/how-to-make-a-great-pull-request-and-some-other-things-i-learned-this-week-50m)
-- [I built an AI-powered code explainer](https://dev.to/tanzirulhuda/i-built-an-ai-powered-code-explainer-3n0o)
-- [Creating a True/False Toggle in React with useState Hook for Beginners](https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff)
 <!-- BLOG-POST-LIST:END -->
 
