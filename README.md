@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CQRS Architectural Design Pattern Used In Software Development](https://dev.to/sardarmudassaralikhan/cqrs-architectural-design-pattern-56nm)
-- [Nx Cloud 3.0 - Faster Cache, More Powerful DTE, Better Ergonomics](https://dev.to/nx/nx-cloud-30-faster-cache-more-powerful-dte-better-ergonomics-18a4)
-- [Welcome Thread - v221](https://dev.to/sloan/welcome-thread-v221-2bol)
-- [HelloNewbie - v1](https://dev.to/codenewbieteam/hellonewbie-v1-1bol)
+- [Test-Driven Daydreams](https://dev.to/bytebodger/test-driven-daydreams-297g)
+- [I moved to indieweb.social 👋🏻](https://dev.to/erinposting/i-moved-to-indiewebsocial-36io)
+- [The Core Pillars of a Digital Creators Community](https://dev.to/ytskk/the-core-pillars-of-a-digital-creators-community-4doh)
+- [🛜 What is ARP Spoofing?](https://dev.to/kkrypt0nn/what-is-arp-spoofing-52dh)
 <!-- BLOG-POST-LIST:END -->
 
