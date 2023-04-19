@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Advantages of Medusa&#39;s Composable Architecture for Enterprise E-commerce Solutions](https://dev.to/menard_codes/the-advantages-of-medusas-composable-architecture-for-enterprise-e-commerce-solutions-271n)
 - [GIT Commands Cheat Sheet](https://dev.to/pragyanatvade/git-commands-cheat-sheet-5h4i)
 - [Simple Curl &amp; Shell Notebook for AI Image Editing](https://dev.to/sourishkrout/simple-curl-shell-for-ai-image-editing-40pa)
 - [Hello terraform_data! Goodbye null_resource!](https://dev.to/aws-builders/hello-terraformdata-goodbye-nullresource-3g21)
-- [How to Dockerize a Spring Boot App with PostgreSQL](https://dev.to/gassaihamza/how-to-dockerize-a-spring-boot-app-with-postgresql-4ea4)
 <!-- BLOG-POST-LIST:END -->
 
