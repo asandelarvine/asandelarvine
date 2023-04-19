@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://dev.to/rishitashaw/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques-1njn)
 - [The Advantages of Medusa&#39;s Composable Architecture for Enterprise E-commerce Solutions](https://dev.to/menard_codes/the-advantages-of-medusas-composable-architecture-for-enterprise-e-commerce-solutions-271n)
+- [Diagramming Finite State Machines with Mermaid.js](https://dev.to/integerman/diagramming-finite-state-machines-with-mermaidjs-eab)
 - [GIT Commands Cheat Sheet](https://dev.to/pragyanatvade/git-commands-cheat-sheet-5h4i)
-- [Simple Curl &amp; Shell Notebook for AI Image Editing](https://dev.to/sourishkrout/simple-curl-shell-for-ai-image-editing-40pa)
-- [Hello terraform_data! Goodbye null_resource!](https://dev.to/aws-builders/hello-terraformdata-goodbye-nullresource-3g21)
 <!-- BLOG-POST-LIST:END -->
 
