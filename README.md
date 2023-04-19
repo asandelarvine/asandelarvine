@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeNewbies! Help Us Create Your Community](https://dev.to/codenewbieteam/how-can-we-create-the-best-community-for-codenewbies-4l3i)
 - [Test-Driven Daydreams](https://dev.to/bytebodger/test-driven-daydreams-297g)
+- [Introduction to Web Animations with GSAP](https://dev.to/topboyasante/introduction-to-web-animations-with-gsap-645)
 - [I moved to indieweb.social 👋🏻](https://dev.to/erinposting/i-moved-to-indiewebsocial-36io)
-- [The Core Pillars of a Digital Creators Community](https://dev.to/ytskk/the-core-pillars-of-a-digital-creators-community-4doh)
-- [🛜 What is ARP Spoofing?](https://dev.to/kkrypt0nn/what-is-arp-spoofing-52dh)
 <!-- BLOG-POST-LIST:END -->
 
