@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a Dream Todo app with Novu, React and Express! ✅](https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l)
-- [How Do You Make Lifelong Learning a Habit?](https://dev.to/codenewbieteam/how-do-you-make-lifelong-learning-a-habit-49dm)
-- [React Query - Filter Your Data](https://dev.to/this-is-learning/react-query-filter-your-data-3cgl)
-- [Self-Hosted Password Manager with Dokku](https://dev.to/sjdonado/self-hosted-password-manager-with-dokku-2fjg)
+- [Keep Calm And Just Say No To Coding Challenges](https://dev.to/jmfayard/keep-calm-and-just-say-no-to-coding-challenges-1a4)
+- [What&#39;s new in Angular 16](https://dev.to/this-is-angular/whats-new-in-angular-16-375b)
+- [MS Clarity Video Recorder is amazing &lpar;something like Google Analytics&rpar; and suitable for Guide Documents](https://dev.to/samchon/ms-clarity-video-recorder-is-amazing-something-like-google-analytics-23of)
+- [Top 10 Best Vector Databases &amp; Libraries](https://dev.to/bybydev/top-10-best-vector-databases-libraries-330f)
 <!-- BLOG-POST-LIST:END -->
 
