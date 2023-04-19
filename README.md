@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring .NET 8 Preview 3: The 7 Features You Need to Know](https://dev.to/bytehide/exploring-net-8-preview-3-the-7-features-you-need-to-know-3nn1)
-- [Web3 onboarding is terrible. How to make it better with Account Abstraction and Flow.](https://dev.to/mbogan/web3-onboarding-is-terrible-how-to-make-it-better-with-account-abstraction-and-flow-184d)
-- [A JavaScript Odyssey &lpar;GameDev Online Book&rpar;](https://dev.to/hugeen/a-javascript-odyssey-4m00)
-- [A Comprehensive Guide to Amazons Bedrock and Titan Models](https://dev.to/imsampro/a-comprehensive-guide-to-amazons-bedrock-and-titan-models-524o)
+- [📈 Productivity and Well-being: A summary of what works.](https://dev.to/samuelfaure/productivity-and-well-being-a-summary-of-what-works-55og)
+- [¿Que es la cultura DevOps?](https://dev.to/aws-builders/que-es-la-cultura-devops-olk)
+- [Applying a Custom Design System to a Third-Party Component Library? Storybook Makes it Easy.](https://dev.to/kathryngrayson/applying-a-custom-design-system-to-a-third-party-component-library-storybook-makes-it-easy-160j)
+- [When to use forward slash in file path?](https://dev.to/dev_duckling/when-to-use-forward-slash-in-file-path-2h9d)
 <!-- BLOG-POST-LIST:END -->
 
