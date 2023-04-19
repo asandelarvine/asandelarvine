@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📈 Productivity and Well-being: A summary of what works.](https://dev.to/samuelfaure/productivity-and-well-being-a-summary-of-what-works-55og)
-- [¿Que es la cultura DevOps?](https://dev.to/aws-builders/que-es-la-cultura-devops-olk)
-- [Applying a Custom Design System to a Third-Party Component Library? Storybook Makes it Easy.](https://dev.to/kathryngrayson/applying-a-custom-design-system-to-a-third-party-component-library-storybook-makes-it-easy-160j)
-- [When to use forward slash in file path?](https://dev.to/dev_duckling/when-to-use-forward-slash-in-file-path-2h9d)
+- [Featured Mod of the Month: Andy Piper](https://dev.to/devteam/featured-mod-of-the-month-andy-piper-2fg6)
+- [Reusable Input Field in vue.js](https://dev.to/niyongaboaristide17/reusable-input-field-in-vuejs-dfj)
+- [This Week In React #142: React-Query, Million, OpenNext, Ariakit, Expo-Image, React-Three-Fiber, TS 5.1, Node.js 20, WebGPU...](https://dev.to/sebastienlorber/this-week-in-react-142-react-query-million-opennext-ariakit-expo-image-react-three-fiber-ts-51-nodejs-20-webgpu-31a6)
+- [Five Minute Maintainers: Meet Seth Michael Larson!](https://dev.to/tidelift/five-minute-maintainers-meet-seth-michael-larson-4k8b)
 <!-- BLOG-POST-LIST:END -->
 
