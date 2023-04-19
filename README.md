@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CQRS Architectural Design Pattern Used In Software Development](https://dev.to/sardarmudassaralikhan/cqrs-architectural-design-pattern-56nm)
 - [Nx Cloud 3.0 - Faster Cache, More Powerful DTE, Better Ergonomics](https://dev.to/nx/nx-cloud-30-faster-cache-more-powerful-dte-better-ergonomics-18a4)
 - [Welcome Thread - v221](https://dev.to/sloan/welcome-thread-v221-2bol)
 - [HelloNewbie - v1](https://dev.to/codenewbieteam/hellonewbie-v1-1bol)
-- [REST vs. gRPC - What’s the Difference?](https://dev.to/amplication/rest-vs-grpc-whats-the-difference-3no0)
 <!-- BLOG-POST-LIST:END -->
 
