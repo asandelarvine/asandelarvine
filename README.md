@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is College Crushing Your Dreams?](https://dev.to/hyperwoo/is-college-crushing-your-dreams-4452)
+- [TypeScript Type Negation: How to Forbid Certain Properties](https://dev.to/zirkelc/typescript-type-negation-how-to-forbid-certain-properties-42d9)
+- [Building an Open Source Project in My Nineties. My Journey](https://dev.to/sididev/building-an-open-source-project-in-my-nineties-my-journey-443)
+- [Extending Medusa Example: Build an Open Source Marketplace](https://dev.to/medusajs/extending-medusa-example-build-an-open-source-marketplace-18km)
 - [Keep Calm And Just Say No To Coding Challenges](https://dev.to/jmfayard/keep-calm-and-just-say-no-to-coding-challenges-1a4)
-- [What&#39;s new in Angular 16](https://dev.to/this-is-angular/whats-new-in-angular-16-375b)
-- [MS Clarity Video Recorder is amazing &lpar;something like Google Analytics&rpar; and suitable for Guide Documents](https://dev.to/samchon/ms-clarity-video-recorder-is-amazing-something-like-google-analytics-23of)
 <!-- BLOG-POST-LIST:END -->
 
