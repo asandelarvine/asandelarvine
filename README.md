@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Object VS Data Structure : The Fight !](https://dev.to/codeoz/object-vs-data-structure-the-fight--k0h)
-- [Top 5 Best Javascript Icons Libraries 🔥](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-6c7)
-- [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
-- [Investing in Developer Experience Could Be The Best Growth Hack for Your Business](https://dev.to/vue-storefront/investing-in-developer-experience-could-be-the-best-growth-hack-for-your-business-fnn)
+- [Exploring .NET 8 Preview 3: The 7 Features You Need to Know](https://dev.to/bytehide/exploring-net-8-preview-3-the-7-features-you-need-to-know-3nn1)
+- [Web3 onboarding is terrible. How to make it better with Account Abstraction and Flow.](https://dev.to/mbogan/web3-onboarding-is-terrible-how-to-make-it-better-with-account-abstraction-and-flow-184d)
+- [A JavaScript Odyssey &lpar;GameDev Online Book&rpar;](https://dev.to/hugeen/a-javascript-odyssey-4m00)
+- [A Comprehensive Guide to Amazons Bedrock and Titan Models](https://dev.to/imsampro/a-comprehensive-guide-to-amazons-bedrock-and-titan-models-524o)
 <!-- BLOG-POST-LIST:END -->
 
