@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Featured Mod of the Month: Andy Piper](https://dev.to/devteam/featured-mod-of-the-month-andy-piper-2fg6)
-- [Reusable Input Field in vue.js](https://dev.to/niyongaboaristide17/reusable-input-field-in-vuejs-dfj)
-- [This Week In React #142: React-Query, Million, OpenNext, Ariakit, Expo-Image, React-Three-Fiber, TS 5.1, Node.js 20, WebGPU...](https://dev.to/sebastienlorber/this-week-in-react-142-react-query-million-opennext-ariakit-expo-image-react-three-fiber-ts-51-nodejs-20-webgpu-31a6)
-- [Five Minute Maintainers: Meet Seth Michael Larson!](https://dev.to/tidelift/five-minute-maintainers-meet-seth-michael-larson-4k8b)
+- [🍂Simplify the back end with low code solutions: Amplication, Supabase, and Appwirte overview](https://dev.to/hunghvu/simplify-the-back-end-with-low-code-solutions-amplication-supabase-and-appwirte-overview-4ia7)
+- [New way of passing data to dynamically created components &lpar;New Feature 🎉&rpar;](https://dev.to/this-is-angular/new-way-of-passing-data-to-dynamically-created-components-new-feature--27kf)
+- [Updating Monaco broke Fastly Fiddle: here&#39;s how I solved it with useCallback in React](https://dev.to/fastly/updating-monaco-broke-fastly-fiddle-heres-how-i-solved-it-with-usecallback-in-react-2j92)
+- [Setup HarperDB on Equinix Bare Metal Server](https://dev.to/chefgs/setup-harperdb-on-equinix-bare-metal-server-43eo)
 <!-- BLOG-POST-LIST:END -->
 
