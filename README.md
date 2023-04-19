@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Type Negation: How to Forbid Certain Properties](https://dev.to/zirkelc/typescript-type-negation-how-to-forbid-certain-properties-42d9)
-- [Building an Open Source Project in My Nineties. My Journey](https://dev.to/sididev/building-an-open-source-project-in-my-nineties-my-journey-443)
-- [Extending Medusa Example: Build an Open Source Marketplace](https://dev.to/medusajs/extending-medusa-example-build-an-open-source-marketplace-18km)
-- [Keep Calm And Just Say No To Coding Challenges](https://dev.to/jmfayard/keep-calm-and-just-say-no-to-coding-challenges-1a4)
+- [Object VS Data Structure : The Fight !](https://dev.to/codeoz/object-vs-data-structure-the-fight--k0h)
+- [Top 5 Best Javascript Icons Libraries 🔥](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-6c7)
+- [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
+- [Investing in Developer Experience Could Be The Best Growth Hack for Your Business](https://dev.to/vue-storefront/investing-in-developer-experience-could-be-the-best-growth-hack-for-your-business-fnn)
 <!-- BLOG-POST-LIST:END -->
 
