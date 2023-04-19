@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Make Lifelong Learning a Habit?](https://dev.to/codenewbieteam/how-do-you-make-lifelong-learning-a-habit-49dm)
+- [React Query - Filter Your Data](https://dev.to/this-is-learning/react-query-filter-your-data-3cgl)
+- [What is a FinTech API?](https://dev.to/ragavi_document360/what-is-a-fintech-api-l4b)
 - [Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://dev.to/rishitashaw/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques-1njn)
-- [The Advantages of Medusa&#39;s Composable Architecture for Enterprise E-commerce Solutions](https://dev.to/menard_codes/the-advantages-of-medusas-composable-architecture-for-enterprise-e-commerce-solutions-271n)
-- [Diagramming Finite State Machines with Mermaid.js](https://dev.to/integerman/diagramming-finite-state-machines-with-mermaidjs-eab)
-- [GIT Commands Cheat Sheet](https://dev.to/pragyanatvade/git-commands-cheat-sheet-5h4i)
 <!-- BLOG-POST-LIST:END -->
 
