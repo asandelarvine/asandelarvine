@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make a Dream Todo app with Novu, React and Express! ✅](https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l)
 - [How Do You Make Lifelong Learning a Habit?](https://dev.to/codenewbieteam/how-do-you-make-lifelong-learning-a-habit-49dm)
 - [React Query - Filter Your Data](https://dev.to/this-is-learning/react-query-filter-your-data-3cgl)
-- [What is a FinTech API?](https://dev.to/ragavi_document360/what-is-a-fintech-api-l4b)
-- [Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://dev.to/rishitashaw/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques-1njn)
+- [Self-Hosted Password Manager with Dokku](https://dev.to/sjdonado/self-hosted-password-manager-with-dokku-2fjg)
 <!-- BLOG-POST-LIST:END -->
 
