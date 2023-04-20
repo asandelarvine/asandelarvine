@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test Custom Hook in ReactJS](https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg)
-- [Teamwork or Solo Development: Which Do You Prefer?](https://dev.to/codenewbieteam/teamwork-or-solo-development-which-do-you-prefer-3nkm)
-- [The Oracle Cloud 22D Release: Every Detail You Need to Know](https://dev.to/rohitbhandari102/the-oracle-cloud-22d-release-every-detail-you-need-to-know-4651)
-- [A Beginner&#39;s Guide to Radix Sort: Step-by-Step Guide and Python Code](https://dev.to/goke/a-beginners-guide-to-radix-sort-step-by-step-guide-and-python-code-2fa5)
+- [Fearless Distroless](https://dev.to/nfrankel/fearless-distroless-1g7c)
+- [Blazor WebAssembly: A Game-Changer for Progressive Web Apps](https://dev.to/bhavin9920/blazor-webassembly-a-game-changer-for-progressive-web-apps-5383)
+- [Starting Points for Your AWS Cloud Journey: 10 Places to Begin &lpar;Free&rpar;](https://dev.to/aws-builders/starting-points-for-your-aws-cloud-journey-10-places-to-begin-free-4e5c)
+- [Unlocking the Power of Infrastructure “from” Code with Encore: A Developer-Friendly Solution](https://dev.to/__okanlawon/unlocking-the-power-of-infrastructure-from-code-with-encore-a-developer-friendly-solution-1d7n)
 <!-- BLOG-POST-LIST:END -->
 
