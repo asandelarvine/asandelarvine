@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Teamwork or Solo Development: Which Do You Prefer?](https://dev.to/codenewbieteam/teamwork-or-solo-development-which-do-you-prefer-3nkm)
 - [The Oracle Cloud 22D Release: Every Detail You Need to Know](https://dev.to/rohitbhandari102/the-oracle-cloud-22d-release-every-detail-you-need-to-know-4651)
 - [A Beginner&#39;s Guide to Radix Sort: Step-by-Step Guide and Python Code](https://dev.to/goke/a-beginners-guide-to-radix-sort-step-by-step-guide-and-python-code-2fa5)
 - [JavaScript Web Server using Nodejs](https://dev.to/edsondsouza/javascript-web-server-using-nodejs-21b2)
-- [Como criar um Servidor Web Java Sem Framework](https://dev.to/diogoizele/como-criar-um-servidor-web-java-sem-framework-21d6)
 <!-- BLOG-POST-LIST:END -->
 
