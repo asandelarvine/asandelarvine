@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar um Servidor Web Java Sem Framework](https://dev.to/diogoizele/como-criar-um-servidor-web-java-sem-framework-21d6)
 - [CodeNewbies! Help Us Create Your Community](https://dev.to/codenewbieteam/how-can-we-create-the-best-community-for-codenewbies-4l3i)
 - [DROP IF EXISTS &amp; CREATE IF NOT EXISTS in Oracle, MySQL, MariaDB, PostgreSQL, YugabyteDB](https://dev.to/aws-heroes/drop-if-exists-create-if-not-exists-in-oracle-mysql-mariadb-postgresql-yugabytedb-pb1)
 - [Test-Driven Daydreams](https://dev.to/bytebodger/test-driven-daydreams-297g)
-- [Introduction to Web Animations with GSAP](https://dev.to/topboyasante/introduction-to-web-animations-with-gsap-645)
 <!-- BLOG-POST-LIST:END -->
 
