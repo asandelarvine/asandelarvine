@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Challenge #7 - To-do App](https://dev.to/codenewbieteam/weekly-challenge-7-to-do-app-1hni)
+- [Principais alternativas open-source e gratuitas para absolutamente tudo que vier a cabeça!](https://dev.to/acaverna/principais-alternativas-open-source-e-gratuitas-para-absolutamente-tudo-que-vier-a-cabeca-1h1g)
 - [3 Easy Commands to Install Postman in Kali Linux](https://dev.to/titusnjuguna/3-easy-commands-to-install-postman-in-kali-linux-1307)
 - [Procurando a motivação](https://dev.to/andrewmat/procurando-a-motivacao-49kg)
-- [How we cut down our CI build times by 50%](https://dev.to/shalvah/how-we-cut-down-our-ci-build-times-by-50-1g2k)
-- [To mock, or not to mock, that is the question](https://dev.to/kondrashov/to-mock-or-not-to-mock-that-is-the-question-4458)
 <!-- BLOG-POST-LIST:END -->
 
