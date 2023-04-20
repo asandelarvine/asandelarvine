@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrum Master Start?](https://dev.to/devarzia/scrum-master-start-1b5b)
-- [Intro To ElectronJS](https://dev.to/itsbrotherdan/intro-to-electronjs-nne)
-- [Secure Your Media Files by Removing Metadata with AWS Lambda](https://dev.to/aws-builders/secure-your-media-files-by-removing-metadata-with-aws-lambda-1hkp)
-- [Boost .NET MAUI Development Productivity: 6 Powerful Features of .NET Meteor for VS Code in Windows, Mac &amp; Linux](https://dev.to/nromanov/boost-net-maui-development-productivity-6-powerful-features-of-net-meteor-for-vs-code-in-windows-mac-linux-d0b)
+- [What is WHIP? Intro to WebRTC Streaming Part 1](https://dev.to/dolbyio/what-is-whip-intro-to-webrtc-streaming-part-1-4f6d)
+- [Tags Input with Autocomplete using jQuery and PHP](https://dev.to/mrcrystal/tags-input-with-autocomplete-using-jquery-and-php-cch)
+- [Is AI Friend or Foe? Shocking Statistics Reveal that Impact on Jobs](https://dev.to/scofieldidehen/is-ai-friend-or-foe-shocking-statistics-reveal-that-impact-on-jobs-14pd)
+- [Maximize your Angular code reusability using &lt;NgTemplateOutlet&gt;](https://dev.to/this-is-angular/maximize-your-angular-code-reusability-using-1hf0)
 <!-- BLOG-POST-LIST:END -->
 
