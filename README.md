@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is WHIP? Intro to WebRTC Streaming Part 1](https://dev.to/dolbyio/what-is-whip-intro-to-webrtc-streaming-part-1-4f6d)
-- [Tags Input with Autocomplete using jQuery and PHP](https://dev.to/mrcrystal/tags-input-with-autocomplete-using-jquery-and-php-cch)
-- [Is AI Friend or Foe? Shocking Statistics Reveal that Impact on Jobs](https://dev.to/scofieldidehen/is-ai-friend-or-foe-shocking-statistics-reveal-that-impact-on-jobs-14pd)
-- [Maximize your Angular code reusability using &lt;NgTemplateOutlet&gt;](https://dev.to/this-is-angular/maximize-your-angular-code-reusability-using-1hf0)
+- [To mock, or not to mock, that is the question](https://dev.to/kondrashov/to-mock-or-not-to-mock-that-is-the-question-4458)
+- [Recommender System with Apache AGE](https://dev.to/matheusfarias03/recommender-system-with-apache-age-bp9)
+- [Building a CLI Weather Checker App with Python and OpenWeatherMap API](https://dev.to/bekbrace/building-a-cli-weather-checker-app-with-python-and-openweathermap-api-35cl)
+- [Jiu Jitsu and Software Engineering: A Surprising Comparison](https://dev.to/iharshgaur/jiu-jitsu-and-software-engineering-a-surprising-comparison-3jb7)
 <!-- BLOG-POST-LIST:END -->
 
