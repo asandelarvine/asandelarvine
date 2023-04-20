@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Easy Commands to Install Postman in Kali Linux](https://dev.to/titusnjuguna/3-easy-commands-to-install-postman-in-kali-linux-1307)
+- [Procurando a motivação](https://dev.to/andrewmat/procurando-a-motivacao-49kg)
 - [How we cut down our CI build times by 50%](https://dev.to/shalvah/how-we-cut-down-our-ci-build-times-by-50-1g2k)
 - [To mock, or not to mock, that is the question](https://dev.to/kondrashov/to-mock-or-not-to-mock-that-is-the-question-4458)
-- [Recommender System with Apache AGE](https://dev.to/matheusfarias03/recommender-system-with-apache-age-bp9)
-- [How Vercel is Using GitHub Discussions to Build a Strong Next.js Community](https://dev.to/opensauced/how-vercel-is-using-github-discussions-to-build-a-strong-nextjs-community-hbl)
 <!-- BLOG-POST-LIST:END -->
 
