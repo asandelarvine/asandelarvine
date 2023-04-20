@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fearless Distroless](https://dev.to/nfrankel/fearless-distroless-1g7c)
-- [Blazor WebAssembly: A Game-Changer for Progressive Web Apps](https://dev.to/bhavin9920/blazor-webassembly-a-game-changer-for-progressive-web-apps-5383)
-- [Starting Points for Your AWS Cloud Journey: 10 Places to Begin &lpar;Free&rpar;](https://dev.to/aws-builders/starting-points-for-your-aws-cloud-journey-10-places-to-begin-free-4e5c)
-- [Unlocking the Power of Infrastructure “from” Code with Encore: A Developer-Friendly Solution](https://dev.to/__okanlawon/unlocking-the-power-of-infrastructure-from-code-with-encore-a-developer-friendly-solution-1d7n)
+- [5 topics you should touch on during the recruitment process](https://dev.to/emphie/5-topics-you-should-touch-on-during-the-recruitment-process-3hgh)
+- [Using Flight Data API with React.js](https://dev.to/haszankauna/using-flight-data-api-with-reactjs-5050)
+- [Stored Procedures in SQL database](https://dev.to/roywanyoike/stored-procedures-in-sql-database-35jb)
+- [Introduction to API Documentation](https://dev.to/haszankauna/introduction-to-api-documentation-4g7b)
 <!-- BLOG-POST-LIST:END -->
 
