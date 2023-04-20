@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Applications on Polygon Network with Smart Contract Technology](https://dev.to/imsampro/scaling-applications-on-polygon-network-with-smart-contract-technology-1kgl)
 - [Running many WebSocket servers](https://dev.to/woovi/running-many-websocket-servers-56h)
 - [Appwrite OSS Fund Sponsors LinkFree](https://dev.to/appwrite/appwrite-oss-fund-sponsors-linkfree-3gal)
 - [Use &quot;cz-vinyl&quot; package to commit more readable messages with one command](https://dev.to/talr98/use-cz-vinyl-package-to-commit-more-readable-messages-with-one-command-4n4l)
-- [How I Built CoverLetterGPT - Code Walkthrough](https://dev.to/wasp/how-i-built-coverlettergpt-code-walkthrough-1916)
 <!-- BLOG-POST-LIST:END -->
 
