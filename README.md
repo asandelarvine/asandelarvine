@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Scrum Master Start?](https://dev.to/devarzia/scrum-master-start-1b5b)
+- [Intro To ElectronJS](https://dev.to/itsbrotherdan/intro-to-electronjs-nne)
 - [Secure Your Media Files by Removing Metadata with AWS Lambda](https://dev.to/aws-builders/secure-your-media-files-by-removing-metadata-with-aws-lambda-1hkp)
-- [Building a modern gRPC-powered microservice using Node.js, Typescript, and Connect](https://dev.to/joemckenney/building-a-modern-grpc-powered-microservice-using-nodejs-typescript-and-connect-51a9)
-- [Building a Backend with TypeORM and PostgreSQL](https://dev.to/cricketsamya/building-a-backend-with-typeorm-and-postgresql-60m)
+- [Boost .NET MAUI Development Productivity: 6 Powerful Features of .NET Meteor for VS Code in Windows, Mac &amp; Linux](https://dev.to/nromanov/boost-net-maui-development-productivity-6-powerful-features-of-net-meteor-for-vs-code-in-windows-mac-linux-d0b)
 <!-- BLOG-POST-LIST:END -->
 
