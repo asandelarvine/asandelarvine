@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Applications on Polygon Network with Smart Contract Technology](https://dev.to/imsampro/scaling-applications-on-polygon-network-with-smart-contract-technology-1kgl)
-- [Running many WebSocket servers](https://dev.to/woovi/running-many-websocket-servers-56h)
-- [Appwrite OSS Fund Sponsors LinkFree](https://dev.to/appwrite/appwrite-oss-fund-sponsors-linkfree-3gal)
-- [Use &quot;cz-vinyl&quot; package to commit more readable messages with one command](https://dev.to/talr98/use-cz-vinyl-package-to-commit-more-readable-messages-with-one-command-4n4l)
+- [Scrum Master Start?](https://dev.to/devarzia/scrum-master-start-1b5b)
+- [Secure Your Media Files by Removing Metadata with AWS Lambda](https://dev.to/aws-builders/secure-your-media-files-by-removing-metadata-with-aws-lambda-1hkp)
+- [Building a modern gRPC-powered microservice using Node.js, Typescript, and Connect](https://dev.to/joemckenney/building-a-modern-grpc-powered-microservice-using-nodejs-typescript-and-connect-51a9)
+- [Building a Backend with TypeORM and PostgreSQL](https://dev.to/cricketsamya/building-a-backend-with-typeorm-and-postgresql-60m)
 <!-- BLOG-POST-LIST:END -->
 
