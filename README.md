@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built CoverLetterGPT - Code Walkthrough](https://dev.to/wasp/how-i-built-coverlettergpt-code-walkthrough-1916)
+- [The key things you need to successfully break into tech.](https://dev.to/chidiebereomasi/the-key-things-you-need-to-successfully-break-into-tech-5gjp)
 - [Pipeline strategies for a mono-repo – experiences with our Football Match Center projects in CodeCatalyst](https://dev.to/aws-builders/pipeline-strategies-for-a-mono-repo-experiences-with-our-football-match-center-projects-in-codecatalyst-4ain)
 - [Fetching Data Made Easy with RTK Query: A Comprehensive Guide](https://dev.to/haszankauna/fetching-data-made-easy-with-rtk-query-a-comprehensive-guide-3k1k)
-- [5 topics you should touch on during the recruitment process](https://dev.to/emphie/5-topics-you-should-touch-on-during-the-recruitment-process-3hgh)
-- [Using Flight Data API with React.js](https://dev.to/haszankauna/using-flight-data-api-with-reactjs-5050)
 <!-- BLOG-POST-LIST:END -->
 
