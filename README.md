@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Engineering Leadership Screw-Ups by the Best in the Business &lpar;And What We Learned From Them&rpar;](https://dev.to/linearb/4-engineering-leadership-screw-ups-by-the-best-in-the-business-and-what-we-learned-from-them-3fo0)
+- [Saving Instagram images automatically every hour with Node.js or PHP](https://dev.to/orsifrancesco/saving-instagram-images-automatically-every-hour-with-nodejs-or-php-3ppe)
 - [Weekly Challenge #7 - To-do App](https://dev.to/codenewbieteam/weekly-challenge-7-to-do-app-1hni)
 - [Principais alternativas open-source e gratuitas para absolutamente tudo que vier a cabeça!](https://dev.to/acaverna/principais-alternativas-open-source-e-gratuitas-para-absolutamente-tudo-que-vier-a-cabeca-1h1g)
-- [3 Easy Commands to Install Postman in Kali Linux](https://dev.to/titusnjuguna/3-easy-commands-to-install-postman-in-kali-linux-1307)
-- [Procurando a motivação](https://dev.to/andrewmat/procurando-a-motivacao-49kg)
 <!-- BLOG-POST-LIST:END -->
 
