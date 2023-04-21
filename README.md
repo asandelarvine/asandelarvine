@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to start Jenkins Docker container with a given version](https://dev.to/dhanushkadev/how-to-start-jenkins-docker-container-with-a-given-version-1a01)
 - [How Do You Land Your First Job in Tech?](https://dev.to/codenewbieteam/how-do-you-land-your-first-job-in-tech-56ea)
 - [Streamline Your TODOs with TODO Notifier for Python projects](https://dev.to/atkumar/streamline-your-todos-with-todo-notifier-for-python-projects-5fpe)
 - [Mafia 1: User Authentication](https://dev.to/jacksonb/mafia-1-user-authentication-2m5d)
-- [How to Lazy and Dynamically Load a Component in Angular](https://dev.to/debug_mode/how-to-lazy-and-dynamically-load-a-component-in-angular-18ke)
 <!-- BLOG-POST-LIST:END -->
 
