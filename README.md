@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple HTML Email Landing Page From Scratch, an Update of My Previous Version Here With Code](https://dev.to/nickson2511/build-a-simple-html-email-landing-page-from-scratch-an-update-of-my-previous-version-here-with-code-589k)
-- [Hugo- The Best Static Site Generator](https://dev.to/mk-utkarsh/hugo-the-best-static-site-generator-52mc)
-- [Learning to code is incredibly rewarding but...](https://dev.to/thaisavieira/learning-to-code-is-incredibly-rewarding-but-3o3)
-- [#DEVDiscuss: The Future of Social Media](https://dev.to/devteam/devdiscuss-the-future-of-social-media-32gh)
+- [How to save money on AWS Transfer Family&lpar;SFTP&rpar; Server- Non-Production use](https://dev.to/awsmantra/how-to-save-money-on-aws-transfer-familysftp-server-non-production-use-1laf)
+- [Operadores básicos en RXJS](https://dev.to/alexcordobainc/operadores-basicos-en-rxjs-170k)
+- [Coding Your Dreams into Reality: Lessons from an Engineer turned Entrepreneur](https://dev.to/linearb/coding-your-dreams-into-reality-lessons-from-an-engineer-turned-entrepreneur-30i3)
+- [The Complete Guide to Grokking the API Design Interview](https://dev.to/educative/the-complete-guide-to-grokking-the-api-design-interview-5h66)
 <!-- BLOG-POST-LIST:END -->
 
