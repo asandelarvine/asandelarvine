@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [As a Developer, What Hardware Do You Truly Need?](https://dev.to/bootdotdev/as-a-developer-what-hardware-do-you-truly-need-1ih5)
-- [WordPress Interview Questions and Answers for Freshers](https://dev.to/satyam_prg/wordpress-interview-questions-and-answers-for-freshers-3kon)
-- [RIP Blue Check 🪦](https://dev.to/devteam/rip-blue-check-jlh)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ld4)
+- [Above the Clouds With the New Enhance Landing Page](https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph)
+- [How To Build a Hotel Management App Using Strapi &amp; Next.js](https://dev.to/strapijs/how-to-build-a-hotel-management-app-using-strapi-nextjs-4f1c)
+- [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
+- [Push-Down-Predicates in Parquet and how to use them to reduce IOPS while reading from S3](https://dev.to/aws-builders/push-down-predicates-in-parquet-and-how-to-use-them-to-reduce-iops-while-reading-from-s3-221m)
 <!-- BLOG-POST-LIST:END -->
 
