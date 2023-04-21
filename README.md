@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to JavaScript classes: basics, syntax and example usage](https://dev.to/bolajibolajoko51/introduction-to-javascript-classes-basics-syntax-and-example-usage-1734)
+- [Link headers pagination in Flutter](https://dev.to/frezyx/link-headers-pagination-in-flutter-kcd)
 - [4 Engineering Leadership Screw-Ups by the Best in the Business &lpar;And What We Learned From Them&rpar;](https://dev.to/linearb/4-engineering-leadership-screw-ups-by-the-best-in-the-business-and-what-we-learned-from-them-3fo0)
 - [Saving Instagram images automatically every hour with Node.js or PHP](https://dev.to/orsifrancesco/saving-instagram-images-automatically-every-hour-with-nodejs-or-php-3ppe)
-- [Weekly Challenge #7 - To-do App](https://dev.to/codenewbieteam/weekly-challenge-7-to-do-app-1hni)
-- [Principais alternativas open-source e gratuitas para absolutamente tudo que vier a cabeça!](https://dev.to/acaverna/principais-alternativas-open-source-e-gratuitas-para-absolutamente-tudo-que-vier-a-cabeca-1h1g)
 <!-- BLOG-POST-LIST:END -->
 
