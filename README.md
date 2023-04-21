@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [As a Developer, What Hardware Do You Truly Need?](https://dev.to/bootdotdev/as-a-developer-what-hardware-do-you-truly-need-1ih5)
+- [WordPress Interview Questions and Answers for Freshers](https://dev.to/satyam_prg/wordpress-interview-questions-and-answers-for-freshers-3kon)
+- [RIP Blue Check 🪦](https://dev.to/devteam/rip-blue-check-jlh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ld4)
-- [PHP - Create your own Data Validator in PHP: Step-by-Step](https://dev.to/fadymr/php-create-your-own-data-validator-in-php-step-by-step-14b5)
-- [Creating Safer Online Communities with AI/ML Content Moderation](https://dev.to/aws/creating-safer-online-communities-with-aiml-content-moderation-1bn)
-- [ASP.NET Core in .NET 8 is On The Way! 5 New Features Reviewed](https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-5-new-features-reviewed-4014)
 <!-- BLOG-POST-LIST:END -->
 
