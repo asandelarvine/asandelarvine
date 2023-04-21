@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s looking for open source contributors? &lpar;week 38&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-38-16e9)
+- [Connect Modbus Serial Sensor XY-MD02 to n3uron IIoT platform with balena](https://dev.to/mpous/connect-modbus-serial-sensor-xy-md02-to-n3uron-iiot-platform-with-balena-40e4)
+- [💡Imagine Svelte with Virtual DOM: A Vision for the Future of Web Frameworks](https://dev.to/rajaniraiyn/imagine-svelte-with-virtual-dom-a-vision-for-the-future-of-web-frameworks-247h)
 - [Above the Clouds With the New Enhance Landing Page](https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph)
-- [How To Build a Hotel Management App Using Strapi &amp; Next.js](https://dev.to/strapijs/how-to-build-a-hotel-management-app-using-strapi-nextjs-4f1c)
-- [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
-- [Push-Down-Predicates in Parquet and how to use them to reduce IOPS while reading from S3](https://dev.to/aws-builders/push-down-predicates-in-parquet-and-how-to-use-them-to-reduce-iops-while-reading-from-s3-221m)
 <!-- BLOG-POST-LIST:END -->
 
