@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SOCIAL ANXIETY DISORDER IN THE TECH ECOSPACE](https://dev.to/spiritdivine/social-anxiety-disorder-in-the-tech-ecospace-5fe7)
 - [Introduction to JavaScript classes: basics, syntax and example usage](https://dev.to/bolajibolajoko51/introduction-to-javascript-classes-basics-syntax-and-example-usage-1734)
 - [Link headers pagination in Flutter](https://dev.to/frezyx/link-headers-pagination-in-flutter-kcd)
 - [4 Engineering Leadership Screw-Ups by the Best in the Business &lpar;And What We Learned From Them&rpar;](https://dev.to/linearb/4-engineering-leadership-screw-ups-by-the-best-in-the-business-and-what-we-learned-from-them-3fo0)
-- [Saving Instagram images automatically every hour with Node.js or PHP](https://dev.to/orsifrancesco/saving-instagram-images-automatically-every-hour-with-nodejs-or-php-3ppe)
 <!-- BLOG-POST-LIST:END -->
 
