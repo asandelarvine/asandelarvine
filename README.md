@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Ways Blockchain Web3 is Revolutionizing the Decentralized Industry](https://dev.to/imsampro/5-ways-blockchain-web3-is-revolutionizing-the-decentralized-industry-2a7b)
+- [🌐💻 Building a Multi-AZ Three-Tier Architecture on AWS: A Comprehensive Guide](https://dev.to/aws-builders/building-a-multi-az-three-tier-architecture-on-aws-a-comprehensive-guide-2506)
 - [API Gateway For ChatGPT Plugins](https://dev.to/apisix/api-gateway-for-chatgpt-plugins-1b32)
 - [How to start Jenkins Docker container with a given version](https://dev.to/dhanushkadev/how-to-start-jenkins-docker-container-with-a-given-version-1a01)
-- [How Do You Land Your First Job in Tech?](https://dev.to/codenewbieteam/how-do-you-land-your-first-job-in-tech-56ea)
 <!-- BLOG-POST-LIST:END -->
 
