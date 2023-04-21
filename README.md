@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple HTML Email Landing Page From Scratch, an Update of My Previous Version Here With Code](https://dev.to/nickson2511/build-a-simple-html-email-landing-page-from-scratch-an-update-of-my-previous-version-here-with-code-589k)
 - [Hugo- The Best Static Site Generator](https://dev.to/mk-utkarsh/hugo-the-best-static-site-generator-52mc)
 - [Learning to code is incredibly rewarding but...](https://dev.to/thaisavieira/learning-to-code-is-incredibly-rewarding-but-3o3)
 - [#DEVDiscuss: The Future of Social Media](https://dev.to/devteam/devdiscuss-the-future-of-social-media-32gh)
-- [JUnit 5: link tests with task tracker issues](https://dev.to/kirekov/junit-5-link-tests-with-task-tracker-issues-2fif)
 <!-- BLOG-POST-LIST:END -->
 
