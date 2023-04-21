@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Web3 Ticketing System with NFTs and Disrupt Ticketmaster](https://dev.to/mbogan/build-a-web3-ticketing-system-with-nfts-and-disrupt-ticketmaster-4g90)
+- [Exploring Next.js Routing: Updates in v13.0.0&quot;](https://dev.to/haszankauna/exploring-nextjs-routing-updates-in-v1300-29jm)
+- [The ultimate beginners guide to databases](https://dev.to/surrealdb/the-ultimate-beginners-guide-to-databases-4g2a)
 - [Setup MongoDB replica set locally in docker or with Atlas for Prisma ORM](https://dev.to/renzhamin/setup-mongodb-replica-set-locally-in-docker-or-with-atlas-for-prisma-orm-54gp)
-- [Hoppscotch Releases: SemVer to CalVer](https://dev.to/liyasthomas/hoppscotch-releases-semver-to-calver-1ajm)
-- [Next.js fundamentals](https://dev.to/hassanhabibtahir/nextjs-fundamentals-19ho)
-- [Automating the process of adding a Site Collection Administrator &lpar;SCA&rpar; in SharePoint Online with Power Automate](https://dev.to/cloudstakes/automating-the-process-of-adding-a-site-collection-administrator-sca-in-sharepoint-online-with-power-automate-31bi)
 <!-- BLOG-POST-LIST:END -->
 
