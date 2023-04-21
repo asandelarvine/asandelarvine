@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practices every beginner in React.js must follow to increase productivity](https://dev.to/qbentil/best-practices-every-beginner-in-reactjs-must-follow-to-increase-productivity-2kjc)
+- [ASP.NET Core in .NET 8 is On The Way! 5 New Features Reviewed](https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-5-new-features-reviewed-4014)
+- [Choosing dependencies using deps.dev](https://dev.to/eminetto/choosing-dependencies-using-depsdev-4acf)
 - [Build a Web3 Ticketing System with NFTs and Disrupt Ticketmaster](https://dev.to/mbogan/build-a-web3-ticketing-system-with-nfts-and-disrupt-ticketmaster-4g90)
-- [Exploring Next.js Routing: Updates in v13.0.0&quot;](https://dev.to/haszankauna/exploring-nextjs-routing-updates-in-v1300-29jm)
-- [The ultimate beginners guide to databases](https://dev.to/surrealdb/the-ultimate-beginners-guide-to-databases-4g2a)
-- [Setup MongoDB replica set locally in docker or with Atlas for Prisma ORM](https://dev.to/renzhamin/setup-mongodb-replica-set-locally-in-docker-or-with-atlas-for-prisma-orm-54gp)
 <!-- BLOG-POST-LIST:END -->
 
