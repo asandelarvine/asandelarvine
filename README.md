@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways Blockchain Web3 is Revolutionizing the Decentralized Industry](https://dev.to/imsampro/5-ways-blockchain-web3-is-revolutionizing-the-decentralized-industry-2a7b)
-- [🌐💻 Building a Multi-AZ Three-Tier Architecture on AWS: A Comprehensive Guide](https://dev.to/aws-builders/building-a-multi-az-three-tier-architecture-on-aws-a-comprehensive-guide-2506)
-- [API Gateway For ChatGPT Plugins](https://dev.to/apisix/api-gateway-for-chatgpt-plugins-1b32)
-- [How to start Jenkins Docker container with a given version](https://dev.to/dhanushkadev/how-to-start-jenkins-docker-container-with-a-given-version-1a01)
+- [Setup MongoDB replica set locally in docker or with Atlas for Prisma ORM](https://dev.to/renzhamin/setup-mongodb-replica-set-locally-in-docker-or-with-atlas-for-prisma-orm-54gp)
+- [Hoppscotch Releases: SemVer to CalVer](https://dev.to/liyasthomas/hoppscotch-releases-semver-to-calver-1ajm)
+- [Next.js fundamentals](https://dev.to/hassanhabibtahir/nextjs-fundamentals-19ho)
+- [Automating the process of adding a Site Collection Administrator &lpar;SCA&rpar; in SharePoint Online with Power Automate](https://dev.to/cloudstakes/automating-the-process-of-adding-a-site-collection-administrator-sca-in-sharepoint-online-with-power-automate-31bi)
 <!-- BLOG-POST-LIST:END -->
 
