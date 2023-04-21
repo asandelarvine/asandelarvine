@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways Blockchain Web3 is Revolutionizing the Decentralized Industry](https://dev.to/imsampro/5-ways-blockchain-web3-is-revolutionizing-the-decentralized-industry-2a7b)
+- [API Gateway For ChatGPT Plugins](https://dev.to/apisix/api-gateway-for-chatgpt-plugins-1b32)
 - [How to start Jenkins Docker container with a given version](https://dev.to/dhanushkadev/how-to-start-jenkins-docker-container-with-a-given-version-1a01)
 - [How Do You Land Your First Job in Tech?](https://dev.to/codenewbieteam/how-do-you-land-your-first-job-in-tech-56ea)
-- [Streamline Your TODOs with TODO Notifier for Python projects](https://dev.to/atkumar/streamline-your-todos-with-todo-notifier-for-python-projects-5fpe)
-- [Mafia 1: User Authentication](https://dev.to/jacksonb/mafia-1-user-authentication-2m5d)
 <!-- BLOG-POST-LIST:END -->
 
