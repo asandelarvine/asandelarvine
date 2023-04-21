@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugo- The Best Static Site Generator](https://dev.to/mk-utkarsh/hugo-the-best-static-site-generator-52mc)
+- [Learning to code is incredibly rewarding but...](https://dev.to/thaisavieira/learning-to-code-is-incredibly-rewarding-but-3o3)
 - [#DEVDiscuss: The Future of Social Media](https://dev.to/devteam/devdiscuss-the-future-of-social-media-32gh)
-- [Staying Hydrated with JavaScript](https://dev.to/mstelz/staying-hydrated-with-javascript-30gm)
-- [How We Converted a GitHub Tool Into a General Purpose Webhook Proxy to Supercharge Our Integration Development](https://dev.to/arnica/how-we-converted-a-github-tool-into-a-general-purpose-webhook-proxy-to-supercharge-our-integration-development-3ic)
-- [Who&#39;s looking for open source contributors? &lpar;week 38&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-38-16e9)
+- [JUnit 5: link tests with task tracker issues](https://dev.to/kirekov/junit-5-link-tests-with-task-tracker-issues-2fif)
 <!-- BLOG-POST-LIST:END -->
 
