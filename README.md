@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamline Your TODOs with TODO Notifier for Python projects](https://dev.to/atkumar/streamline-your-todos-with-todo-notifier-for-python-projects-5fpe)
+- [Mafia 1: User Authentication](https://dev.to/jacksonb/mafia-1-user-authentication-2m5d)
+- [How to Lazy and Dynamically Load a Component in Angular](https://dev.to/debug_mode/how-to-lazy-and-dynamically-load-a-component-in-angular-18ke)
 - [My Favorite Free Courses to Learn Docker and Containers in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo)
-- [A flexible Node.js multifunctional crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-multifunctional-crawler-library-x-crawl-3ja7)
-- [SOCIAL ANXIETY DISORDER IN THE TECH ECOSPACE](https://dev.to/spiritdivine/social-anxiety-disorder-in-the-tech-ecospace-5fe7)
-- [Tech’s “Hidden” Industry: Smart Buildings](https://dev.to/bowflexjones/techs-hidden-industry-smart-buildings-hg8)
 <!-- BLOG-POST-LIST:END -->
 
