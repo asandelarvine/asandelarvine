@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Staying Hydrated with JavaScript](https://dev.to/mstelz/staying-hydrated-with-javascript-30gm)
+- [How We Converted a GitHub Tool Into a General Purpose Webhook Proxy to Supercharge Our Integration Development](https://dev.to/arnica/how-we-converted-a-github-tool-into-a-general-purpose-webhook-proxy-to-supercharge-our-integration-development-3ic)
 - [Who&#39;s looking for open source contributors? &lpar;week 38&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-38-16e9)
 - [Connect Modbus Serial Sensor XY-MD02 to n3uron IIoT platform with balena](https://dev.to/mpous/connect-modbus-serial-sensor-xy-md02-to-n3uron-iiot-platform-with-balena-40e4)
-- [💡Imagine Svelte with Virtual DOM: A Vision for the Future of Web Frameworks](https://dev.to/rajaniraiyn/imagine-svelte-with-virtual-dom-a-vision-for-the-future-of-web-frameworks-247h)
-- [Above the Clouds With the New Enhance Landing Page](https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph)
 <!-- BLOG-POST-LIST:END -->
 
