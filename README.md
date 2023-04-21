@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best practices every beginner in React.js must follow to increase productivity](https://dev.to/qbentil/best-practices-every-beginner-in-reactjs-must-follow-to-increase-productivity-2kjc)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ld4)
+- [PHP - Create your own Data Validator in PHP: Step-by-Step](https://dev.to/fadymr/php-create-your-own-data-validator-in-php-step-by-step-14b5)
+- [Creating Safer Online Communities with AI/ML Content Moderation](https://dev.to/aws/creating-safer-online-communities-with-aiml-content-moderation-1bn)
 - [ASP.NET Core in .NET 8 is On The Way! 5 New Features Reviewed](https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-5-new-features-reviewed-4014)
-- [Choosing dependencies using deps.dev](https://dev.to/eminetto/choosing-dependencies-using-depsdev-4acf)
-- [Build a Web3 Ticketing System with NFTs and Disrupt Ticketmaster](https://dev.to/mbogan/build-a-web3-ticketing-system-with-nfts-and-disrupt-ticketmaster-4g90)
 <!-- BLOG-POST-LIST:END -->
 
