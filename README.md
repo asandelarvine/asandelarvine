@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python V.S. Javascript: Which is Better for Webscraping?](https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0)
 - [Spice Up Your Website with These Color-Related Functions](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
+- [Beginner&#39;s Guide to Understand Build Gradle Files in Android Studio](https://dev.to/vtsen/beginners-guide-to-understand-build-gradle-files-in-android-studio-2l6g)
 - [How to choose AWS Database](https://dev.to/aws-builders/how-to-choose-aws-database-19hi)
-- [10 things you should &lpar;almost&rpar; never do in Javascript and ReactJS &lpar;with code examples&rpar;](https://dev.to/emiquelito/10-things-you-should-almost-never-do-in-javascript-and-reactjs-with-code-examples-3pgh)
-- [How to save money on AWS Transfer Family&lpar;SFTP&rpar; Server- Non-Production use](https://dev.to/awsmantra/how-to-save-money-on-aws-transfer-familysftp-server-non-production-use-1laf)
 <!-- BLOG-POST-LIST:END -->
 
