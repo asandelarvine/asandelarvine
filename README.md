@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript - OOP with Javascript](https://dev.to/babeng/javascript-oops-with-javascript-1pa4)
+- [Coding Skills Not Found. Share Your Funniest Coding Failures 💻💥🙈](https://dev.to/codenewbieteam/coding-skills-not-found-share-your-funniest-coding-failures-4koj)
+- [How Understanding UX Can Help Developers Create Better Products [Part 1/3]](https://dev.to/parth_brahmaxatri/how-understanding-ux-can-help-developers-create-better-products-part-13-4mn8)
 - [Go Programming Language: A Comprehensive Introduction and History of Google’s Revolutionary Language](https://dev.to/mavensingh/go-programming-language-a-comprehensive-introduction-and-history-of-googles-revolutionary-language-3d76)
-- [How to slugify a string in JavaScript](https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n)
-- [607. Sales Person leetcode solution](https://dev.to/realnamehidden1_61/607-sales-person-leetcode-solution-49pn)
-- [I made a VSCode extension: &quot;markdown-table-rainbow&quot;](https://dev.to/yoshi389111/i-made-a-vscode-extension-markdown-table-rainbow-4l27)
 <!-- BLOG-POST-LIST:END -->
 
