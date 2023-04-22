@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
+- [How to use Sidekiq in Rails 7: Background Jobs](https://dev.to/ahmadraza/how-to-use-sidekiq-in-rails-7-background-jobs-1dmb)
+- [Devs/Programmers: Are you enjoying your Marriage?](https://dev.to/femolacaster/devsprogrammers-are-you-enjoying-your-marriage-3oi5)
 - [Unleashing the Power of JavaScript Proxy: A Comprehensive Introduction for Developers](https://dev.to/wizdomtek/unleashing-the-power-of-javascript-proxy-a-comprehensive-introduction-for-developers-3f4j)
-- [Setting Up Dynamic Links in Flutter: A Quick Detailed Guide](https://dev.to/ahmaddarwesh/setting-up-dynamic-links-in-flutter-a-quick-detailed-guide-49c0)
-- [Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples](https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448)
-- [Introduction to Web Scraping](https://dev.to/shreyvijayvargiya/introduction-to-web-scraping-509g)
 <!-- BLOG-POST-LIST:END -->
 
