@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [10 EXTENSÕES INCRÍVEIS PARA BOMBAR O GOOGLE CHROME!](https://dev.to/lidiagoncalves/10-extensoes-incriveis-para-bombar-o-google-chrome-908)
 - [Could AI take my job?](https://dev.to/alexs1305/could-ai-take-my-job-20ho)
 - [The Power of Product Roadmaps: Aligning Teams for Success](https://dev.to/alexr/the-power-of-product-roadmaps-aligning-teams-for-success-5dab)
-- [How To Get Land Web Development Clients! 💰💰💰](https://dev.to/chetanam/how-to-get-land-web-development-clients-he1)
+- [Run ChatGPT-Style Questions Over Your Own Files Using the OpenAI API and LangChain!](https://dev.to/reaminated/run-chatgpt-style-questions-over-your-own-files-using-the-openai-api-and-langchain-1ii7)
 <!-- BLOG-POST-LIST:END -->
 
