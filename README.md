@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Dynamic Links in Flutter: A Quick Detailed Guide](https://dev.to/ahmaddarwesh/setting-up-dynamic-links-in-flutter-a-quick-detailed-guide-49c0)
+- [Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples](https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448)
 - [Introduction to Web Scraping](https://dev.to/shreyvijayvargiya/introduction-to-web-scraping-509g)
 - [From Centralized Chaos to Decentralized Harmony: The Power of Web3](https://dev.to/imsampro/from-centralized-chaos-to-decentralized-harmony-the-power-of-web3-4jbh)
-- [Top 10 Full-stack Projects For Beginners](https://dev.to/arafat4693/top-10-full-stack-projects-for-beginners-1338)
-- [Javascript - OOP with Javascript](https://dev.to/babeng/javascript-oops-with-javascript-1pa4)
 <!-- BLOG-POST-LIST:END -->
 
