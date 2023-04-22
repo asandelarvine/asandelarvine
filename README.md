@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Web Scraping](https://dev.to/shreyvijayvargiya/introduction-to-web-scraping-509g)
+- [From Centralized Chaos to Decentralized Harmony: The Power of Web3](https://dev.to/imsampro/from-centralized-chaos-to-decentralized-harmony-the-power-of-web3-4jbh)
+- [Top 10 Full-stack Projects For Beginners](https://dev.to/arafat4693/top-10-full-stack-projects-for-beginners-1338)
 - [Javascript - OOP with Javascript](https://dev.to/babeng/javascript-oops-with-javascript-1pa4)
-- [Coding Skills Not Found. Share Your Funniest Coding Failures 💻💥🙈](https://dev.to/codenewbieteam/coding-skills-not-found-share-your-funniest-coding-failures-4koj)
-- [How Understanding UX Can Help Developers Create Better Products [Part 1/3]](https://dev.to/parth_brahmaxatri/how-understanding-ux-can-help-developers-create-better-products-part-13-4mn8)
-- [Go Programming Language: A Comprehensive Introduction and History of Google’s Revolutionary Language](https://dev.to/mavensingh/go-programming-language-a-comprehensive-introduction-and-history-of-googles-revolutionary-language-3d76)
 <!-- BLOG-POST-LIST:END -->
 
