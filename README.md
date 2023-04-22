@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Three JS Examples : 8. Three JS SPACE GLOBE Animation](https://dev.to/jon_snow789/three-js-examples-8-three-js-space-globe-animation-mcp)
+- [How to Integrate Tailwind CSS in Your Angular Project](https://dev.to/ayushdev_24/how-to-integrate-tailwind-css-in-your-angular-project-3c15)
 - [Peruse of Customized Network Load Balancer Parameters Deployed through CloudFormation](https://dev.to/aws-builders/peruse-of-customized-network-load-balancer-parameters-deployed-through-cloudformation-1olc)
 - [Getting arty with a Pi](https://dev.to/andypiper/getting-arty-with-a-pi-3dk9)
-- [Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review](https://dev.to/rishitashaw/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm)
 <!-- BLOG-POST-LIST:END -->
 
