@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Multi-Region Fundamentals - WhitePaper Summary](https://dev.to/aws-builders/aws-multi-region-fundamentals-whitepaper-summary-nbg)
+- [I started a Hashnode Blog! 🥳](https://dev.to/jd2r/i-started-a-hashnode-blog-5hkc)
+- [Fastest Way to Auto Generate Types for Typescript and Input validation](https://dev.to/seyyedkhandon/fastest-way-to-auto-generate-types-for-typescript-and-input-validation-478p)
 - [JavaScript for in loop](https://dev.to/max24816/javascript-for-in-loop-5gne)
-- [Customizing Tailwind CSS Animations: Advancing Your Web Design Skills](https://dev.to/nitinfab/customizing-tailwind-css-animations-advancing-your-web-design-skills-2gb3)
-- [10 Popular Programming Languages to Learn in 2023: Python, JavaScript, Java, C#, Kotlin...](https://dev.to/abhixsh/10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool)
-- [Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
 <!-- BLOG-POST-LIST:END -->
 
