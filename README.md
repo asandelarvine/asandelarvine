@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 EXTENSÕES INCRÍVEIS PARA BOMBAR O GOOGLE CHROME!](https://dev.to/lidiagoncalves/10-extensoes-incriveis-para-bombar-o-google-chrome-908)
+- [Could AI take my job?](https://dev.to/alexs1305/could-ai-take-my-job-20ho)
+- [The Power of Product Roadmaps: Aligning Teams for Success](https://dev.to/alexr/the-power-of-product-roadmaps-aligning-teams-for-success-5dab)
 - [How To Get Land Web Development Clients! 💰💰💰](https://dev.to/chetanam/how-to-get-land-web-development-clients-he1)
-- [Three JS Examples : 8. Three JS SPACE GLOBE Animation](https://dev.to/jon_snow789/three-js-examples-8-three-js-space-globe-animation-mcp)
-- [How to Integrate Tailwind CSS in Your Angular Project](https://dev.to/ayushdev_24/how-to-integrate-tailwind-css-in-your-angular-project-3c15)
-- [Peruse of Customized Network Load Balancer Parameters Deployed through CloudFormation](https://dev.to/aws-builders/peruse-of-customized-network-load-balancer-parameters-deployed-through-cloudformation-1olc)
 <!-- BLOG-POST-LIST:END -->
 
