@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to choose AWS Database](https://dev.to/aws-builders/how-to-choose-aws-database-19hi)
+- [10 things you should &lpar;almost&rpar; never do in Javascript and ReactJS &lpar;with code examples&rpar;](https://dev.to/emiquelito/10-things-you-should-almost-never-do-in-javascript-and-reactjs-with-code-examples-3pgh)
 - [How to save money on AWS Transfer Family&lpar;SFTP&rpar; Server- Non-Production use](https://dev.to/awsmantra/how-to-save-money-on-aws-transfer-familysftp-server-non-production-use-1laf)
 - [Operadores básicos en RXJS](https://dev.to/alexcordobainc/operadores-basicos-en-rxjs-170k)
-- [Coding Your Dreams into Reality: Lessons from an Engineer turned Entrepreneur](https://dev.to/linearb/coding-your-dreams-into-reality-lessons-from-an-engineer-turned-entrepreneur-30i3)
-- [The Complete Guide to Grokking the API Design Interview](https://dev.to/educative/the-complete-guide-to-grokking-the-api-design-interview-5h66)
 <!-- BLOG-POST-LIST:END -->
 
