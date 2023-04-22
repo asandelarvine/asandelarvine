@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Customizing Tailwind CSS Animations: Advancing Your Web Design Skills](https://dev.to/nitinfab/customizing-tailwind-css-animations-advancing-your-web-design-skills-2gb3)
+- [10 Popular Programming Languages to Learn in 2023: Python, JavaScript, Java, C#, Kotlin...](https://dev.to/abhixsh/10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool)
 - [Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
 - [How to use Sidekiq in Rails 7: Background Jobs](https://dev.to/ahmadraza/how-to-use-sidekiq-in-rails-7-background-jobs-1dmb)
-- [Build an AWS API from Scratch: A Comprehensive Step-by-Step Guide with Sample Code](https://dev.to/tingchun0113/build-an-aws-api-from-scratch-a-comprehensive-step-by-step-guide-with-sample-code-2hlb)
-- [Unleashing the Power of JavaScript Proxy: A Comprehensive Introduction for Developers](https://dev.to/wizdomtek/unleashing-the-power-of-javascript-proxy-a-comprehensive-introduction-for-developers-3f4j)
 <!-- BLOG-POST-LIST:END -->
 
