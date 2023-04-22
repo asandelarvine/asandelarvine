@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Multi-Region Fundamentals - WhitePaper Summary](https://dev.to/aws-builders/aws-multi-region-fundamentals-whitepaper-summary-nbg)
-- [I started a Hashnode Blog! 🥳](https://dev.to/jd2r/i-started-a-hashnode-blog-5hkc)
-- [Fastest Way to Auto Generate Types for Typescript and Input validation](https://dev.to/seyyedkhandon/fastest-way-to-auto-generate-types-for-typescript-and-input-validation-478p)
-- [JavaScript for in loop](https://dev.to/max24816/javascript-for-in-loop-5gne)
+- [Three JS Examples : 8. Three JS SPACE GLOBE Animation](https://dev.to/jon_snow789/three-js-examples-8-three-js-space-globe-animation-mcp)
+- [Peruse of Customized Network Load Balancer Parameters Deployed through CloudFormation](https://dev.to/aws-builders/peruse-of-customized-network-load-balancer-parameters-deployed-through-cloudformation-1olc)
+- [Getting arty with a Pi](https://dev.to/andypiper/getting-arty-with-a-pi-3dk9)
+- [Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review](https://dev.to/rishitashaw/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm)
 <!-- BLOG-POST-LIST:END -->
 
