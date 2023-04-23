@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Most Unusual Place You’ve Ever Coded From?](https://dev.to/codenewbieteam/whats-the-most-unusual-place-youve-ever-coded-from-3l3)
+- [Containers: what is containerization and container orchestration?](https://dev.to/ezinne_anne/containers-what-is-containerization-and-container-orchestration-38pe)
+- [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3)
 - [PHP CRUD Rest API with Docker](https://dev.to/francescoxx/php-crud-rest-api-with-docker-2c3f)
-- [Resources to learn pl/sql for free](https://dev.to/realnamehidden1_61/resources-to-learn-plsql-for-free-l9c)
-- [620. Not Boring Movies leetcode solution](https://dev.to/realnamehidden1_61/620-not-boring-moviesleetcode-solution-4mg7)
-- [610. Triangle Judgement](https://dev.to/realnamehidden1_61/610-triangle-judgement-8cf)
 <!-- BLOG-POST-LIST:END -->
 
