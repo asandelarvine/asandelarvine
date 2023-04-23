@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate GraphQL and Apollo Server Course with Express and TypeScript](https://dev.to/ayka_code/the-ultimate-graphql-and-apollo-server-course-with-express-and-typescript-3e46)
+- [Learn about API Development Types, Tools, and Best Practices](https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj)
 - [What&#39;s the Most Unusual Place You’ve Ever Coded From?](https://dev.to/codenewbieteam/whats-the-most-unusual-place-youve-ever-coded-from-3l3)
 - [Containers: what is containerization and container orchestration?](https://dev.to/ezinne_anne/containers-what-is-containerization-and-container-orchestration-38pe)
-- [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3)
-- [PHP CRUD Rest API with Docker](https://dev.to/francescoxx/php-crud-rest-api-with-docker-2c3f)
 <!-- BLOG-POST-LIST:END -->
 
