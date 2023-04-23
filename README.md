@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Costly EKS Cluster Set Up? AWS to the rescue!](https://dev.to/aws-builders/costly-eks-cluster-set-up-aws-to-the-rescue-2o4d)
 - [Installing MongoDB on latest MacOS Intel and M1 base processors with Homebrew](https://dev.to/fotiecodes/installing-mongodb-on-latest-macos-intel-and-m1-base-processors-with-homebrew-1ima)
 - [Simplifying state management with useReducer hook](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
 - [How to create an SSH RSA Key Pair and Connect to a Remote Host](https://dev.to/mundianderi/how-to-create-an-ssh-rsa-key-pair-and-connect-to-a-remote-host-23bp)
-- [LeetCode - Divide Two Integers](https://dev.to/_alkesh26/leetcode-divide-two-integers-6gl)
 <!-- BLOG-POST-LIST:END -->
 
