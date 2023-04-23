@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use Redis with Vercel Edge](https://dev.to/gofixgo/how-to-use-redis-with-vercel-edge-363b)
+- [Sessions &amp; Cookies. Yum.](https://dev.to/gageharmon/sessions-cookies-yum-36d9)
+- [AWS Amplify: The One-Stop Shop for Mobile and Full-Stack Development](https://dev.to/aws-builders/aws-amplify-the-one-stop-shop-for-mobile-and-full-stack-development-4l2o)
 - [What the Heck is Edge Computing?](https://dev.to/cfedev/what-the-heck-is-edge-computing-25a4)
-- [Best 3 Bootstrap Alternatives](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
-- [Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
 <!-- BLOG-POST-LIST:END -->
 
