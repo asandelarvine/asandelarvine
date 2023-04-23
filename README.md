@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [620. Not Boring Movies leetcode solution](https://dev.to/realnamehidden1_61/620-not-boring-moviesleetcode-solution-4mg7)
+- [610. Triangle Judgement](https://dev.to/realnamehidden1_61/610-triangle-judgement-8cf)
+- [UseEffect in Brief !](https://dev.to/ttpunch/useeffect-in-brief--7lf)
 - [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88)
-- [My Favorite FREE Courses to Learn Apache Kafka in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-apache-kafka-in-2023-djb)
-- [Mastering RESTful APIs: Best Practices and Tips for Backend Engineers](https://dev.to/sasidhar_gadepalli/mastering-restful-apis-best-practices-and-tips-for-backend-engineers-48d6)
-- [Removing Timezones from Dates in Javascript](https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah)
 <!-- BLOG-POST-LIST:END -->
 
