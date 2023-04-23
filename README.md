@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying state management with useReducer hook](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
+- [LeetCode - Divide Two Integers](https://dev.to/_alkesh26/leetcode-divide-two-integers-6gl)
+- [Full-stack authentication system using rust &lpar;actix-web&rpar; and sveltekit](https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6)
 - [Yet Another Newsletter LOL: IMHO](https://dev.to/nickytonline/yet-another-newsletter-lol-imho-3pf6)
-- [Getting Started with Google Earth Engine](https://dev.to/nicmsn2/getting-started-with-google-earth-engine-5gj0)
-- [How to use Redis with Vercel Edge](https://dev.to/gofixgo/how-to-use-redis-with-vercel-edge-363b)
-- [Sessions &amp; Cookies. Yum.](https://dev.to/gageharmon/sessions-cookies-yum-36d9)
 <!-- BLOG-POST-LIST:END -->
 
