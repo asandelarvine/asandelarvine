@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Redis with Vercel Edge](https://dev.to/gofixgo/how-to-use-redis-with-vercel-edge-363b)
+- [What the Heck is Edge Computing?](https://dev.to/cfedev/what-the-heck-is-edge-computing-25a4)
 - [Best 3 Bootstrap Alternatives](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
 - [Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
-- [Where did Microservices go](https://dev.to/zenstack/where-did-microservices-go-8m)
-- [10 Eye opening pictures that will change the way you think](https://dev.to/jon_snow789/10-eye-opening-pictures-that-will-change-the-way-you-think-4hc5)
 <!-- BLOG-POST-LIST:END -->
 
