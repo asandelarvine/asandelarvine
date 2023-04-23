@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate GraphQL and Apollo Server Course with Express and TypeScript](https://dev.to/ayka_code/the-ultimate-graphql-and-apollo-server-course-with-express-and-typescript-3e46)
-- [Learn about API Development Types, Tools, and Best Practices](https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj)
-- [What&#39;s the Most Unusual Place You’ve Ever Coded From?](https://dev.to/codenewbieteam/whats-the-most-unusual-place-youve-ever-coded-from-3l3)
-- [Containers: what is containerization and container orchestration?](https://dev.to/ezinne_anne/containers-what-is-containerization-and-container-orchestration-38pe)
+- [13 Rules I Follow When Writing CSS To Make It Concise and Readable🚀💡](https://dev.to/margishpatel/13-rules-i-follow-when-writing-css-to-make-it-concise-and-readable-2jkn)
+- [Building Trust in a Trustless World with Decentralized Networks](https://dev.to/imsampro/building-trust-in-a-trustless-world-with-decentralized-networks-5hc1)
+- [Bridge Between Lifecycle Methods &amp; Hooks](https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7)
+- [The Ultimate GraphQL and Apollo Server Course with Express and TypeScript &lpar;9.99$&rpar;](https://dev.to/ayka_code/the-ultimate-graphql-and-apollo-server-course-with-express-and-typescript-3e46)
 <!-- BLOG-POST-LIST:END -->
 
