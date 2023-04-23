@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Interactive Scroll Page Progress Bar with CSS to Enhance User Engagement](https://dev.to/techiebundle/creating-an-interactive-scroll-page-progress-bar-with-css-to-enhance-user-engagement-272a)
+- [How Medusa is Revolutionizing the Ecommerce Space](https://dev.to/mwendwabundi/how-medusa-is-revolutionizing-the-ecommerce-space-17jf)
+- [How To Export Unique Barcode to Excel In Laravel](https://dev.to/anik2069/how-to-export-unique-barcode-to-excel-in-laravel-2lma)
 - [Costly EKS Cluster Set Up? AWS to the rescue!](https://dev.to/aws-builders/costly-eks-cluster-set-up-aws-to-the-rescue-2o4d)
-- [Installing MongoDB on latest MacOS Intel and M1 base processors with Homebrew](https://dev.to/fotiecodes/installing-mongodb-on-latest-macos-intel-and-m1-base-processors-with-homebrew-1ima)
-- [Simplifying state management with useReducer hook](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
-- [How to create an SSH RSA Key Pair and Connect to a Remote Host](https://dev.to/mundianderi/how-to-create-an-ssh-rsa-key-pair-and-connect-to-a-remote-host-23bp)
 <!-- BLOG-POST-LIST:END -->
 
