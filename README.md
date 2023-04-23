@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP CRUD Rest API with Docker](https://dev.to/francescoxx/php-crud-rest-api-with-docker-2c3f)
+- [Resources to learn pl/sql for free](https://dev.to/realnamehidden1_61/resources-to-learn-plsql-for-free-l9c)
 - [620. Not Boring Movies leetcode solution](https://dev.to/realnamehidden1_61/620-not-boring-moviesleetcode-solution-4mg7)
 - [610. Triangle Judgement](https://dev.to/realnamehidden1_61/610-triangle-judgement-8cf)
-- [UseEffect in Brief !](https://dev.to/ttpunch/useeffect-in-brief--7lf)
-- [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88)
 <!-- BLOG-POST-LIST:END -->
 
