@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web-Essentials Reminder](https://dev.to/cherypick/web-essentials-reminder-3fn5)
+- [Construye una arquitectura en AWS que se autodestruye sola](https://dev.to/aws-builders/construye-una-arquitectura-en-aws-que-se-autodestruye-sola-2m44)
 - [Automatically Document Your Database in Markdown](https://dev.to/sualeh/automatically-document-your-database-in-markdown-elf)
 - [Useful Built-In JavaScript Web APIs](https://dev.to/ra1nbow1/useful-built-in-javascript-web-apis-4oi7)
-- [Recommendation systems](https://dev.to/willyangole/recommendation-systems-clo)
-- [Creating an Interactive Scroll Page Progress Bar with CSS to Enhance User Engagement](https://dev.to/techiebundle/creating-an-interactive-scroll-page-progress-bar-with-css-to-enhance-user-engagement-272a)
 <!-- BLOG-POST-LIST:END -->
 
