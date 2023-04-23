@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimize your Angular app&#39;s user experience with preloading strategies](https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3l10)
+- [Where did Microservices go](https://dev.to/zenstack/where-did-microservices-go-8m)
+- [10 Eye opening pictures that will change the way you think](https://dev.to/jon_snow789/10-eye-opening-pictures-that-will-change-the-way-you-think-4hc5)
 - [13 Rules I Follow When Writing CSS To Make It Concise and Readable🚀💡](https://dev.to/margishpatel/13-rules-i-follow-when-writing-css-to-make-it-concise-and-readable-2jkn)
-- [Building Trust in a Trustless World with Decentralized Networks](https://dev.to/imsampro/building-trust-in-a-trustless-world-with-decentralized-networks-5hc1)
-- [Bridge Between Lifecycle Methods &amp; Hooks](https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7)
-- [The Ultimate GraphQL and Apollo Server Course with Express and TypeScript &lpar;9.99$&rpar;](https://dev.to/ayka_code/the-ultimate-graphql-and-apollo-server-course-with-express-and-typescript-3e46)
 <!-- BLOG-POST-LIST:END -->
 
