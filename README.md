@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing MongoDB on latest MacOS Intel and M1 base processors with Homebrew](https://dev.to/fotiecodes/installing-mongodb-on-latest-macos-intel-and-m1-base-processors-with-homebrew-1ima)
 - [Simplifying state management with useReducer hook](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
+- [How to create an SSH RSA Key Pair and Connect to a Remote Host](https://dev.to/mundianderi/how-to-create-an-ssh-rsa-key-pair-and-connect-to-a-remote-host-23bp)
 - [LeetCode - Divide Two Integers](https://dev.to/_alkesh26/leetcode-divide-two-integers-6gl)
-- [Full-stack authentication system using rust &lpar;actix-web&rpar; and sveltekit](https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6)
-- [Yet Another Newsletter LOL: IMHO](https://dev.to/nickytonline/yet-another-newsletter-lol-imho-3pf6)
 <!-- BLOG-POST-LIST:END -->
 
