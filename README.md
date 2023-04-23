@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Removing Timezones from Dates in Javascript](https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah)
+- [Real-Time Data Visualization with D3.js and Vue.js.](https://dev.to/callezenwaka/real-time-data-visualization-with-d3js-and-vuejs-4og3)
 - [10 EXTENSÕES INCRÍVEIS PARA BOMBAR O GOOGLE CHROME!](https://dev.to/lidiagoncalves/10-extensoes-incriveis-para-bombar-o-google-chrome-908)
 - [Could AI take my job?](https://dev.to/alexs1305/could-ai-take-my-job-20ho)
-- [The Power of Product Roadmaps: Aligning Teams for Success](https://dev.to/alexr/the-power-of-product-roadmaps-aligning-teams-for-success-5dab)
-- [Run ChatGPT-Style Questions Over Your Own Files Using the OpenAI API and LangChain!](https://dev.to/reaminated/run-chatgpt-style-questions-over-your-own-files-using-the-openai-api-and-langchain-1ii7)
 <!-- BLOG-POST-LIST:END -->
 
