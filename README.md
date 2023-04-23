@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize your Angular app&#39;s user experience with preloading strategies](https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3l10)
+- [Best 3 Bootstrap Alternatives](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
+- [Manage IAM Access Key Of AWS Service Connection In Azure DevOps Pipeline](https://dev.to/aws-builders/manage-iam-access-key-of-aws-service-connection-in-azure-devops-pipeline-481k)
 - [Where did Microservices go](https://dev.to/zenstack/where-did-microservices-go-8m)
 - [10 Eye opening pictures that will change the way you think](https://dev.to/jon_snow789/10-eye-opening-pictures-that-will-change-the-way-you-think-4hc5)
-- [13 Rules I Follow When Writing CSS To Make It Concise and Readable🚀💡](https://dev.to/margishpatel/13-rules-i-follow-when-writing-css-to-make-it-concise-and-readable-2jkn)
 <!-- BLOG-POST-LIST:END -->
 
