@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite FREE Courses to Learn Apache Kafka in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-apache-kafka-in-2023-djb)
 - [Removing Timezones from Dates in Javascript](https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah)
 - [Real-Time Data Visualization with D3.js and Vue.js.](https://dev.to/callezenwaka/real-time-data-visualization-with-d3js-and-vuejs-4og3)
 - [10 EXTENSÕES INCRÍVEIS PARA BOMBAR O GOOGLE CHROME!](https://dev.to/lidiagoncalves/10-extensoes-incriveis-para-bombar-o-google-chrome-908)
-- [Could AI take my job?](https://dev.to/alexs1305/could-ai-take-my-job-20ho)
 <!-- BLOG-POST-LIST:END -->
 
