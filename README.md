@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: IMHO](https://dev.to/nickytonline/yet-another-newsletter-lol-imho-3pf6)
+- [Getting Started with Google Earth Engine](https://dev.to/nicmsn2/getting-started-with-google-earth-engine-5gj0)
 - [How to use Redis with Vercel Edge](https://dev.to/gofixgo/how-to-use-redis-with-vercel-edge-363b)
 - [Sessions &amp; Cookies. Yum.](https://dev.to/gageharmon/sessions-cookies-yum-36d9)
-- [AWS Amplify: The One-Stop Shop for Mobile and Full-Stack Development](https://dev.to/aws-builders/aws-amplify-the-one-stop-shop-for-mobile-and-full-stack-development-4l2o)
-- [What the Heck is Edge Computing?](https://dev.to/cfedev/what-the-heck-is-edge-computing-25a4)
 <!-- BLOG-POST-LIST:END -->
 
