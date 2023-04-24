@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Database Designs for Multilingual Apps](https://dev.to/dwarvesf/database-designs-for-multilingual-apps-4jb6)
 - [Save the cost of a load balancer with route53-update](https://dev.to/aws-builders/save-the-cost-of-a-load-balancer-with-route53-update-5e0d)
 - [Resetting RDS retention period using Step Functions &amp; Lambda](https://dev.to/aws-builders/resetting-rds-retention-period-using-step-functions-lambda-45g3)
 - [New Android banking trojan called &quot;Sharkbot&quot;, its way of attack and how to defend](https://dev.to/teamliapp/new-android-banking-trojan-called-sharkbot-its-way-of-attack-and-how-to-defend-1p0h)
-- [Why Web Apps?](https://dev.to/xanderlambert/why-web-apps-1j3p)
 <!-- BLOG-POST-LIST:END -->
 
