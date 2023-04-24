@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hide text in CSS pseudo elements from screen readers with this one weird trick](https://dev.to/whitep4nth3r/hide-text-in-css-pseudo-elements-from-screen-readers-with-this-one-weird-trick-11eg)
-- [10 Ways to Leverage Ai in your job](https://dev.to/scofieldidehen/10-ways-to-leverage-ai-in-your-job-4n15)
-- [What is Passwordless Authentication?](https://dev.to/prove/what-is-passwordless-authentication-6ed)
-- [7 Web Security Mistakes to Avoid &lpar;As a Developer&rpar;](https://dev.to/devland/7-web-security-mistakes-to-avoid-as-a-developer-6da)
+- [Consistency: my &lpar;Web&rpar; DEV Blog Series](https://dev.to/ingosteinke/consistency-my-dev-blog-series-557d)
+- [Power of ChatGPT....](https://dev.to/prathmeshjagtap/power-of-chatgpt-ij7)
+- [Cmd commands that show you are a hacker](https://dev.to/jon_snow789/cmd-commands-that-show-you-are-hacker-4ig1)
+- [How To Debug a Single Test Case](https://dev.to/zirkelc/how-to-debug-a-single-test-case-308d)
 <!-- BLOG-POST-LIST:END -->
 
