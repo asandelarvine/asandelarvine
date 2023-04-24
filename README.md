@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-3cip)
+- [What Does Identity Provider Actually Mean?](https://dev.to/propelauth/what-does-identity-provider-actually-mean-348i)
+- [Managing Community Health Files and Templates with a .github Repository](https://dev.to/opensauced/managing-community-health-files-and-templates-with-a-github-repository-l8f)
 - [Automatic translation of i18n files](https://dev.to/woovi/automatic-translation-of-i18n-files-4ip9)
-- [How to show google map in Spring Boot Application](https://dev.to/realnamehidden1_61/how-to-show-google-map-in-spring-boot-application-4h28)
-- [Understanding CSS Specificity: What It Is and How It Works](https://dev.to/eleftheriabatsou/understanding-css-specificity-what-it-is-and-how-it-works-4dp9)
-- [Introduction to Day 2 Kubernetes](https://dev.to/aws-builders/introduction-to-day-2-kubernetes-5255)
 <!-- BLOG-POST-LIST:END -->
 
