@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Operadores no tan comunes de Rxjs](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
 - [Updating React State Inside Loops](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
+- [Best Text-to-Speech APIs in 2023](https://dev.to/edenai/best-text-to-speech-apis-in-2023-1lk2)
 - [Mock imported modules in Jest](https://dev.to/rafaf/mock-imported-modules-in-jest-26ng)
-- [Best Practices for Writing on DEV: Tone of Voice](https://dev.to/devteam/best-practices-for-writing-on-dev-tone-of-voice-32om)
-- [Simple mutations with TanStack Query and Next.js](https://dev.to/elisabethleonhardt/simple-mutations-with-tanstack-query-and-nextjs-4b0m)
 <!-- BLOG-POST-LIST:END -->
 
