@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Save the cost of a load balancer with route53-update](https://dev.to/aws-builders/save-the-cost-of-a-load-balancer-with-route53-update-5e0d)
+- [Resetting RDS retention period using Step Functions &amp; Lambda](https://dev.to/aws-builders/resetting-rds-retention-period-using-step-functions-lambda-45g3)
 - [New Android banking trojan called &quot;Sharkbot&quot;, its way of attack and how to defend](https://dev.to/teamliapp/new-android-banking-trojan-called-sharkbot-its-way-of-attack-and-how-to-defend-1p0h)
 - [Why Web Apps?](https://dev.to/xanderlambert/why-web-apps-1j3p)
-- [How To Add Fonts In A Next 13 App](https://dev.to/inaju/how-to-add-fonts-in-a-next-13-app-19j7)
-- [Margin trading vs. Futures: What are the differences?](https://dev.to/bullishgopher/margin-trading-vs-futures-what-are-the-differences-3f5c)
 <!-- BLOG-POST-LIST:END -->
 
