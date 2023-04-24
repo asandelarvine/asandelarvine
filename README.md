@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Consistency: my &lpar;Web&rpar; DEV Blog Series](https://dev.to/ingosteinke/consistency-my-dev-blog-series-557d)
-- [Power of ChatGPT....](https://dev.to/prathmeshjagtap/power-of-chatgpt-ij7)
-- [Cmd commands that show you are a hacker](https://dev.to/jon_snow789/cmd-commands-that-show-you-are-hacker-4ig1)
-- [How To Debug a Single Test Case](https://dev.to/zirkelc/how-to-debug-a-single-test-case-308d)
+- [Automatic translation of i18n files](https://dev.to/woovi/automatic-translation-of-i18n-files-4ip9)
+- [How to show google map in Spring Boot Application](https://dev.to/realnamehidden1_61/how-to-show-google-map-in-spring-boot-application-4h28)
+- [Understanding CSS Specificity: What It Is and How It Works](https://dev.to/eleftheriabatsou/understanding-css-specificity-what-it-is-and-how-it-works-4dp9)
+- [Introduction to Day 2 Kubernetes](https://dev.to/aws-builders/introduction-to-day-2-kubernetes-5255)
 <!-- BLOG-POST-LIST:END -->
 
