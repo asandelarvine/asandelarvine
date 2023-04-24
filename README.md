@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running microservices using Reactor container - Phoesion Glow](https://dev.to/gepa21/running-microservices-with-using-reactor-container-phoesion-glow-5ceh)
-- [Mastering the Art of Debugging JavaScript Functions: Tips and Tricks for Smooth Functionality](https://dev.to/haszankauna/mastering-the-art-of-debugging-javascript-functions-tips-and-tricks-for-smooth-functionality-4a74)
-- [Maximising your Data collection efficiency with One click!!](https://dev.to/crawlmagic/maximising-your-data-collection-efficiency-with-one-click-4496)
-- [Custom Elements Language Server Alpha Released](https://dev.to/matsuuu/custom-elements-language-server-alpha-released-2pp8)
+- [Creating A Hot New Food Delivery App with Novu](https://dev.to/novu/creating-a-hot-new-food-delivery-app-with-novu-2e75)
+- [A primer on GCP Compute Instance VMs for dockerized Apps [Tutorial Part 8]](https://dev.to/pascallandau/a-primer-on-gcp-compute-instance-vms-for-dockerized-apps-tutorial-part-8-4k46)
+- [10 more Javascript Challenges!](https://dev.to/this-is-learning/10-more-javascript-challenges-3812)
+- [Who do I Want to Work With? A Simple Framework](https://dev.to/jmfayard/who-do-i-want-to-work-with-a-simple-framework-3hnl)
 <!-- BLOG-POST-LIST:END -->
 
