@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#TestCulture 🦅 Episode 33 – Adopt an economic view](https://dev.to/mathilde_llg/testculture-episode-33-adopt-an-economic-view-4g36)
+- [AWS open source newsletter, #154](https://dev.to/aws/aws-open-source-newsletter-154-5c4a)
 - [OpenCommit 2.0: CLI to generate impressive commits in 1 second with GPT 🤯🔫](https://dev.to/disukharev/opencommit-20-cli-to-generate-impressive-commits-in-1-second-with-gpt-14g3)
 - [Context API vs Redux-Toolkit](https://dev.to/sanchitbajaj02/context-api-vs-redux-toolkit-50lp)
-- [AI is replacing Coders, not Engineers. Learn CS now!](https://dev.to/disukharev/ai-is-replacing-coders-not-engineers-learn-cs-now-j8f)
-- [How to learn REACT in 43 seconds](https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e)
 <!-- BLOG-POST-LIST:END -->
 
