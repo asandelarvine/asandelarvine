@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma + ZenStack: An Alternative to PostgREST](https://dev.to/zenstack/prisma-zenstack-an-alternative-to-postgrest-kak)
-- [How To Use MillionJs In a Next App.](https://dev.to/tobysolutions/how-to-use-millionjs-in-a-next-app-1eim)
-- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-3cip)
-- [What Happens When You Don&#39;t Provide Keys in ReactJS?](https://dev.to/sanjampreetsingh/what-happens-when-you-dont-provide-keys-in-reactjs-278h)
+- [Mock imported modules in Jest](https://dev.to/rafaf/mock-imported-modules-in-jest-26ng)
+- [Best Practices for Writing on DEV: Tone of Voice](https://dev.to/devteam/best-practices-for-writing-on-dev-tone-of-voice-32om)
+- [Simple mutations with TanStack Query and Next.js](https://dev.to/elisabethleonhardt/simple-mutations-with-tanstack-query-and-nextjs-4b0m)
+- [TypeScript Runtime Type Checking](https://dev.to/aziznal/typescript-runtime-type-checking-dmo)
 <!-- BLOG-POST-LIST:END -->
 
