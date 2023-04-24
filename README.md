@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Running microservices using Reactor container - Phoesion Glow](https://dev.to/gepa21/running-microservices-with-using-reactor-container-phoesion-glow-5ceh)
 - [Mastering the Art of Debugging JavaScript Functions: Tips and Tricks for Smooth Functionality](https://dev.to/haszankauna/mastering-the-art-of-debugging-javascript-functions-tips-and-tricks-for-smooth-functionality-4a74)
 - [Maximising your Data collection efficiency with One click!!](https://dev.to/crawlmagic/maximising-your-data-collection-efficiency-with-one-click-4496)
-- [#TestCulture 🦅 Episode 33 – Adopt an economic view](https://dev.to/mathilde_llg/testculture-episode-33-adopt-an-economic-view-4g36)
-- [AWS open source newsletter, #154](https://dev.to/aws/aws-open-source-newsletter-154-5c4a)
+- [Custom Elements Language Server Alpha Released](https://dev.to/matsuuu/custom-elements-language-server-alpha-released-2pp8)
 <!-- BLOG-POST-LIST:END -->
 
