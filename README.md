@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Updating React State Inside Loops](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
 - [Mock imported modules in Jest](https://dev.to/rafaf/mock-imported-modules-in-jest-26ng)
 - [Best Practices for Writing on DEV: Tone of Voice](https://dev.to/devteam/best-practices-for-writing-on-dev-tone-of-voice-32om)
 - [Simple mutations with TanStack Query and Next.js](https://dev.to/elisabethleonhardt/simple-mutations-with-tanstack-query-and-nextjs-4b0m)
-- [TypeScript Runtime Type Checking](https://dev.to/aziznal/typescript-runtime-type-checking-dmo)
 <!-- BLOG-POST-LIST:END -->
 
