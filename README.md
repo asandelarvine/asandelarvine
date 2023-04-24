@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Blockchain Web3 Decentralized Networks are Creating New Opportunities](https://dev.to/imsampro/how-blockchain-web3-decentralized-networks-are-creating-new-opportunities-1coj)
-- [Database Designs for Multilingual Apps](https://dev.to/dwarvesf/database-designs-for-multilingual-apps-4jb6)
-- [Save the cost of a load balancer with route53-update](https://dev.to/aws-builders/save-the-cost-of-a-load-balancer-with-route53-update-5e0d)
-- [Resetting RDS retention period using Step Functions &amp; Lambda](https://dev.to/aws-builders/resetting-rds-retention-period-using-step-functions-lambda-45g3)
+- [OpenCommit 2.0: CLI to generate impressive commits in 1 second with GPT 🤯🔫](https://dev.to/disukharev/opencommit-20-cli-to-generate-impressive-commits-in-1-second-with-gpt-14g3)
+- [Context API vs Redux-Toolkit](https://dev.to/sanchitbajaj02/context-api-vs-redux-toolkit-50lp)
+- [AI is replacing Coders, not Engineers. Learn CS now!](https://dev.to/disukharev/ai-is-replacing-coders-not-engineers-learn-cs-now-j8f)
+- [How to learn REACT in 43 seconds](https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e)
 <!-- BLOG-POST-LIST:END -->
 
