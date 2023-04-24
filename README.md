@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Margin trading vs. Futures: What are the differences?](https://dev.to/bullishgopher/margin-trading-vs-futures-what-are-the-differences-3f5c)
 - [Web-Essentials Reminder](https://dev.to/cherypick/web-essentials-reminder-3fn5)
 - [Construye una arquitectura en AWS que se autodestruye sola](https://dev.to/aws-builders/construye-una-arquitectura-en-aws-que-se-autodestruye-sola-2m44)
 - [Automatically Document Your Database in Markdown](https://dev.to/sualeh/automatically-document-your-database-in-markdown-elf)
-- [Useful Built-In JavaScript Web APIs](https://dev.to/ra1nbow1/useful-built-in-javascript-web-apis-4oi7)
 <!-- BLOG-POST-LIST:END -->
 
