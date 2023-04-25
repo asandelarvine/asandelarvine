@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Debugging Made Simple: Building a Custom Logging Service](https://dev.to/aru-ku/angular-debugging-made-simple-building-a-custom-logging-service-1084)
-- [What Do Cloud Services and Jam Have in Common?](https://dev.to/aws-heroes/what-do-cloud-services-and-jam-have-in-common-1d7e)
-- [Get Product Data from Bing Shopping with Python and SerpApi](https://dev.to/serpapi/get-product-data-from-bing-shopping-with-python-and-serpapi-1aod)
-- [How to code a product recommendation engine in PYTHON using ChatGPT?](https://dev.to/giveitatry/how-to-code-a-product-recommendation-engine-in-python-using-chatgpt-4mn4)
+- [SPARTAN. Type-safe Angular full-stack development powered by Analog.](https://dev.to/this-is-angular/spartan-type-safe-angular-full-stack-development-powered-by-analog-17dm)
+- [Why Graph Databases are Essential in Today&#39;s Data-Driven World](https://dev.to/abdulsamad4068/why-graph-databases-are-essential-in-todays-data-driven-world-2ik)
+- [🚀Discover the Top ERC Tokens for Creating Powerful Smart Contracts!💪🏽💡📈](https://dev.to/akshaykurhekar/discover-the-top-erc-tokens-for-creating-powerful-smart-contracts-56gn)
+- [Implementing Drag and Drop Upload in React using Supabase](https://dev.to/surajondev/implementing-drag-and-drop-upload-in-react-using-supabase-49pb)
 <!-- BLOG-POST-LIST:END -->
 
