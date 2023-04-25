@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Hack The Box Cyber Apocalypse 2023 CTF Experience](https://dev.to/r33keeper/my-hackthebox-cyber-apocalypse-2023-ctf-experience-4nmk)
 - [Introducing LearnEase - an AI Learning Platform for People in Tech](https://dev.to/unclebigbay/introducing-learnease-an-ai-learning-platform-for-people-in-tech-178m)
+- [How to Build AWS VPC Using Terraform - Step By Step](https://dev.to/aws-builders/how-to-build-aws-vpc-using-terraform-step-by-step-3k7f)
 - [Cicada: Write CI/CD pipelines in TypeScript](https://dev.to/brendan/launching-cicada-write-cicd-pipelines-in-typescript-3i31)
-- [Trying out a new terminal: Warp](https://dev.to/this-is-learning/trying-out-a-new-terminal-warp-3pnh)
-- [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-481g)
 <!-- BLOG-POST-LIST:END -->
 
