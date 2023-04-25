@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Essentials: What I Wish I Knew When Starting Out](https://dev.to/heliosalesjr/react-essentials-what-i-wish-i-knew-when-starting-out-4lec)
+- [Easiest way to build the fastest REST API in C# and .NET 7 using CQRS](https://dev.to/kedzior_io/easiest-way-to-build-the-fastest-rest-api-in-c-and-net-7-using-cqrs-2bk8)
+- [Getting Started in Go](https://dev.to/jeffotoni/getting-started-in-go-599d)
 - [Mozilla Open Source Project: 10 Things I Learnt.](https://dev.to/momokid/mozilla-open-source-project-10-things-i-learnt-b68)
-- [#DEVDiscuss: Naming Things](https://dev.to/devteam/devdiscuss-naming-things-25p4)
-- [My Hack The Box Cyber Apocalypse 2023 CTF Experience](https://dev.to/r33keeper/my-hackthebox-cyber-apocalypse-2023-ctf-experience-4nmk)
-- [Introducing LearnEase - an AI Learning Platform for People in Tech](https://dev.to/unclebigbay/introducing-learnease-an-ai-learning-platform-for-people-in-tech-178m)
 <!-- BLOG-POST-LIST:END -->
 
