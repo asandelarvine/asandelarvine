@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SPARTAN. Type-safe Angular full-stack development powered by Analog.](https://dev.to/this-is-angular/spartan-type-safe-angular-full-stack-development-powered-by-analog-17dm)
-- [Why Graph Databases are Essential in Today&#39;s Data-Driven World](https://dev.to/abdulsamad4068/why-graph-databases-are-essential-in-todays-data-driven-world-2ik)
-- [🚀Discover the Top ERC Tokens for Creating Powerful Smart Contracts!💪🏽💡📈](https://dev.to/akshaykurhekar/discover-the-top-erc-tokens-for-creating-powerful-smart-contracts-56gn)
-- [Implementing Drag and Drop Upload in React using Supabase](https://dev.to/surajondev/implementing-drag-and-drop-upload-in-react-using-supabase-49pb)
+- [Dev to statistics](https://dev.to/ytskk/dev-to-statistics-53nm)
+- [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://dev.to/codenameone/spring-boot-debugging-with-aspect-oriented-programming-aop-1lmo)
+- [Creating Resource group and Virtual machine using Command-line interface &lpar;CLI&rpar; in Azure](https://dev.to/mojeed88/creating-resource-group-and-virtual-machine-using-command-line-interface-cli-in-azure-1lj8)
+- [Avoid Common Pitfalls with Next.js Server-Side Rendering](https://dev.to/hi_iam_chris/avoid-common-pitfalls-with-nextjs-server-side-rendering-2gi6)
 <!-- BLOG-POST-LIST:END -->
 
