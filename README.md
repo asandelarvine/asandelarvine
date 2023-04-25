@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla Open Source Project: 10 Things I Learnt.](https://dev.to/momokid/mozilla-open-source-project-10-things-i-learnt-b68)
 - [#DEVDiscuss: Naming Things](https://dev.to/devteam/devdiscuss-naming-things-25p4)
 - [My Hack The Box Cyber Apocalypse 2023 CTF Experience](https://dev.to/r33keeper/my-hackthebox-cyber-apocalypse-2023-ctf-experience-4nmk)
 - [Introducing LearnEase - an AI Learning Platform for People in Tech](https://dev.to/unclebigbay/introducing-learnease-an-ai-learning-platform-for-people-in-tech-178m)
-- [How to Build AWS VPC Using Terraform - Step By Step](https://dev.to/aws-builders/how-to-build-aws-vpc-using-terraform-step-by-step-3k7f)
 <!-- BLOG-POST-LIST:END -->
 
