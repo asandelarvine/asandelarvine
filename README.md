@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev to statistics](https://dev.to/ytskk/dev-to-statistics-53nm)
-- [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://dev.to/codenameone/spring-boot-debugging-with-aspect-oriented-programming-aop-1lmo)
-- [Creating Resource group and Virtual machine using Command-line interface &lpar;CLI&rpar; in Azure](https://dev.to/mojeed88/creating-resource-group-and-virtual-machine-using-command-line-interface-cli-in-azure-1lj8)
-- [Avoid Common Pitfalls with Next.js Server-Side Rendering](https://dev.to/hi_iam_chris/avoid-common-pitfalls-with-nextjs-server-side-rendering-2gi6)
+- [FLaNK Stack Weekly for 24April2023](https://dev.to/tspannhw/flank-stack-weekly-for-24april2023-4m22)
+- [Moonly weekly progress update #46 - New design for a login page](https://dev.to/moonly/moonly-weekly-progress-update-46-new-design-for-a-login-page-17fi)
+- [Handle protected page routes in NextJS using NextAuth](https://dev.to/hidaytrahman/handle-protected-page-routes-in-nextjs-using-nextauth-4b69)
+- [Mastering Error Handling in JavaScript](https://dev.to/accreditly/mastering-error-handling-in-javascript-3ice)
 <!-- BLOG-POST-LIST:END -->
 
