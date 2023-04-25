@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly for 24April2023](https://dev.to/tspannhw/flank-stack-weekly-for-24april2023-4m22)
-- [Moonly weekly progress update #46 - New design for a login page](https://dev.to/moonly/moonly-weekly-progress-update-46-new-design-for-a-login-page-17fi)
-- [Handle protected page routes in NextJS using NextAuth](https://dev.to/hidaytrahman/handle-protected-page-routes-in-nextjs-using-nextauth-4b69)
-- [Mastering Error Handling in JavaScript](https://dev.to/accreditly/mastering-error-handling-in-javascript-3ice)
+- [O mínimo que todo programador deveria saber de encoding e charset](https://dev.to/erick_tmr/o-minimo-que-todo-programador-deveria-saber-de-encoding-e-charset-4p21)
+- [I bet you have never used this theme. Ever.](https://dev.to/lakshitsomani/i-bet-you-have-never-used-this-theme-ever-mg6)
+- [The Viability of WordPress as a Headless CMS](https://dev.to/accreditly/the-viability-of-wordpress-as-a-headless-cms-1j8h)
+- [Automate Weekly Newsletter](https://dev.to/balagmadhu/automate-weekly-newsletter-5akb)
 <!-- BLOG-POST-LIST:END -->
 
