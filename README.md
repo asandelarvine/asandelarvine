@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving Zeros To The End](https://dev.to/muhmmadawd/moving-zeros-to-the-end-5bbo)
-- [5 Tips To Improve Angular Performance](https://dev.to/bitovi/5-tips-to-improve-angular-performance-360h)
-- [How to start open-source contribution as a new developer](https://dev.to/odudev/how-to-start-open-source-contribution-as-a-new-developer-3374)
-- [O mínimo que todo programador deveria saber de encoding e charset](https://dev.to/erick_tmr/o-minimo-que-todo-programador-deveria-saber-de-encoding-e-charset-4p21)
+- [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-481g)
+- [Announcing the GitHub + DEV 2023 Hackathon!](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
+- [Testing Mutations with Relay in Frontend](https://dev.to/woovi/testing-mutations-with-relay-in-frontend-1lae)
+- [Community Discussion Thread — GitHub + DEV Hackathon 2023](https://dev.to/devteam/community-discussion-thread-github-dev-hackathon-2023-5410)
 <!-- BLOG-POST-LIST:END -->
 
