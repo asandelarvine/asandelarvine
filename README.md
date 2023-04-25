@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing LearnEase - an AI Learning Platform for People in Tech](https://dev.to/unclebigbay/introducing-learnease-an-ai-learning-platform-for-people-in-tech-178m)
+- [Cicada: Write CI/CD pipelines in TypeScript](https://dev.to/brendan/launching-cicada-write-cicd-pipelines-in-typescript-3i31)
+- [Trying out a new terminal: Warp](https://dev.to/this-is-learning/trying-out-a-new-terminal-warp-3pnh)
 - [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-481g)
-- [Announcing the GitHub + DEV 2023 Hackathon!](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
-- [Testing Mutations with Relay in Frontend](https://dev.to/woovi/testing-mutations-with-relay-in-frontend-1lae)
-- [Community Discussion Thread — GitHub + DEV Hackathon 2023](https://dev.to/devteam/community-discussion-thread-github-dev-hackathon-2023-5410)
 <!-- BLOG-POST-LIST:END -->
 
