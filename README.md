@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Simple Digital Clock Using HTML, CSS and JavaScript](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)
 - [How to Send Emails Directly from Your React Website: A Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-send-emails-directly-from-your-react-website-a-step-by-step-tutorial-144b)
 - [GPT-4 plays DND with 4 of us, it&#39;s insane 🤯](https://dev.to/disukharev/ai-dnd-4068)
 - [What are some reasons why JavaScript is currently one of the most popular programming languages?](https://dev.to/dovudhonhusanov/what-are-some-reasons-why-javascript-is-currently-one-of-the-most-popular-programming-languages-27ah)
-- [A User&#39;s Guide to SharePoint Online Navigation: Top Menu, App Bar, and More](https://dev.to/jaloplo/a-users-guide-to-sharepoint-online-navigation-top-menu-app-bar-and-more-4c6a)
 <!-- BLOG-POST-LIST:END -->
 
