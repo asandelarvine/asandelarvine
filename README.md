@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Zeros To The End](https://dev.to/muhmmadawd/moving-zeros-to-the-end-5bbo)
+- [5 Tips To Improve Angular Performance](https://dev.to/bitovi/5-tips-to-improve-angular-performance-360h)
+- [How to start open-source contribution as a new developer](https://dev.to/odudev/how-to-start-open-source-contribution-as-a-new-developer-3374)
 - [O mínimo que todo programador deveria saber de encoding e charset](https://dev.to/erick_tmr/o-minimo-que-todo-programador-deveria-saber-de-encoding-e-charset-4p21)
-- [I bet you have never used this theme. Ever.](https://dev.to/lakshitsomani/i-bet-you-have-never-used-this-theme-ever-mg6)
-- [The Viability of WordPress as a Headless CMS](https://dev.to/accreditly/the-viability-of-wordpress-as-a-headless-cms-1j8h)
-- [Automate Weekly Newsletter](https://dev.to/balagmadhu/automate-weekly-newsletter-5akb)
 <!-- BLOG-POST-LIST:END -->
 
