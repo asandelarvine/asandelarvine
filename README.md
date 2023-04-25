@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Simple Digital Clock Using HTML, CSS and JavaScript](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)
-- [How to Send Emails Directly from Your React Website: A Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-send-emails-directly-from-your-react-website-a-step-by-step-tutorial-144b)
-- [GPT-4 plays DND with 4 of us, it&#39;s insane 🤯](https://dev.to/disukharev/ai-dnd-4068)
-- [What are some reasons why JavaScript is currently one of the most popular programming languages?](https://dev.to/dovudhonhusanov/what-are-some-reasons-why-javascript-is-currently-one-of-the-most-popular-programming-languages-27ah)
+- [How to code a product recommendation engine in PYTHON using ChatGPT?](https://dev.to/giveitatry/how-to-code-a-product-recommendation-engine-in-python-using-chatgpt-4mn4)
+- [Principle Of Web Accessibility](https://dev.to/bsk98/keys-of-accessibility-mindset-1jk9)
+- [Java JDBC CRUD Operations in Eclipse using MySql](https://dev.to/realnamehidden1_61/java-jdbc-crud-operations-in-eclipse-using-mysql-ofp)
+- [how to store html form data in mysql database using hibernate](https://dev.to/realnamehidden1_61/how-to-store-html-form-data-in-mysql-database-using-hibernate-3lin)
 <!-- BLOG-POST-LIST:END -->
 
