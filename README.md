@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is CDN Right for Your Rails App? and good for large scale applications?](https://dev.to/ahmadraza/is-cdn-right-for-your-rails-app-and-good-for-large-scale-applications-58ih)
+- [Best Practices When Designing AWS Architecture: Security and Operational Excellence](https://dev.to/aws-builders/best-practices-when-designing-aws-architecture-security-and-operational-excellence-jae)
 - [Essential Command-Line Tricks for Developers 💻🚀](https://dev.to/madhusudan/essential-command-line-tricks-for-developers-79)
 - [Validating Request Parameters and Body in Amazon API Gateway with AWS CDK](https://dev.to/aws-builders/validating-request-parameters-and-body-in-amazon-api-gateway-with-aws-cdk-1h1g)
-- [Top 5 Design Practices of a RESTFUL API using Express.JS](https://dev.to/qbentil/top-5-design-practices-of-a-restful-api-using-expressjs-2i6o)
-- [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-35hl)
 <!-- BLOG-POST-LIST:END -->
 
