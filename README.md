@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is CDN Right for Your Rails App? and good for large scale applications?](https://dev.to/ahmadraza/is-cdn-right-for-your-rails-app-and-good-for-large-scale-applications-58ih)
-- [Best Practices When Designing AWS Architecture: Security and Operational Excellence](https://dev.to/aws-builders/best-practices-when-designing-aws-architecture-security-and-operational-excellence-jae)
-- [Essential Command-Line Tricks for Developers 💻🚀](https://dev.to/madhusudan/essential-command-line-tricks-for-developers-79)
-- [Validating Request Parameters and Body in Amazon API Gateway with AWS CDK](https://dev.to/aws-builders/validating-request-parameters-and-body-in-amazon-api-gateway-with-aws-cdk-1h1g)
+- [Ruby Challenge: Calculating Factorials with Negative Numbers](https://dev.to/codenewbieteam/ruby-challenge-calculating-factorials-with-negative-numbers-3dgm)
+- [What Do Coders Have in Common? 😜](https://dev.to/codenewbieteam/what-do-coders-have-in-common-89)
+- [ORM, Prisma, and How You Should Build Your Next Backend Database Project](https://dev.to/amplication/orm-prisma-and-how-you-should-build-your-next-backend-database-project-hb2)
+- [My Favorite Free Courses to Learn Design Patterns in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-design-patterns-in-depth-5dp5)
 <!-- BLOG-POST-LIST:END -->
 
