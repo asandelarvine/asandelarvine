@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby Challenge: Calculating Factorials with Negative Numbers](https://dev.to/codenewbieteam/ruby-challenge-calculating-factorials-with-negative-numbers-3dgm)
-- [What Do Coders Have in Common? 😜](https://dev.to/codenewbieteam/what-do-coders-have-in-common-89)
-- [ORM, Prisma, and How You Should Build Your Next Backend Database Project](https://dev.to/amplication/orm-prisma-and-how-you-should-build-your-next-backend-database-project-hb2)
-- [My Favorite Free Courses to Learn Design Patterns in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-design-patterns-in-depth-5dp5)
+- [How to Send Emails Directly from Your React Website: A Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-send-emails-directly-from-your-react-website-a-step-by-step-tutorial-144b)
+- [GPT-4 plays DND with 4 of us, it&#39;s insane 🤯](https://dev.to/disukharev/ai-dnd-4068)
+- [What are some reasons why JavaScript is currently one of the most popular programming languages?](https://dev.to/dovudhonhusanov/what-are-some-reasons-why-javascript-is-currently-one-of-the-most-popular-programming-languages-27ah)
+- [A User&#39;s Guide to SharePoint Online Navigation: Top Menu, App Bar, and More](https://dev.to/jaloplo/a-users-guide-to-sharepoint-online-navigation-top-menu-app-bar-and-more-4c6a)
 <!-- BLOG-POST-LIST:END -->
 
