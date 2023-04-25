@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Seguridad en Golang](https://dev.to/tomaslingotti/seguridad-en-golang-4f29)
 - [Specialization vs. Generalization: Which Is Better for Programmers?](https://dev.to/codenewbieteam/specialization-vs-generalization-which-is-better-for-programmers-4884)
 - [As quatro fases do Splunk: input, parsing, indexing e searching.](https://dev.to/lanussemorais/as-quatro-fases-do-splunk-input-parsing-indexing-e-searching-jki)
 - [Comparing Material Design, Tailwind CSS, Chakra UI, and AWS Amplify UI: Which one is right for your project?](https://dev.to/abdalshafiealmajdoup/comparing-material-design-tailwind-css-chakra-ui-and-aws-amplify-ui-which-one-is-right-for-your-project-3en5)
-- [Operadores no tan comunes de Rxjs](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
 <!-- BLOG-POST-LIST:END -->
 
