@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Command-Line Tricks for Developers 💻🚀](https://dev.to/madhusudan/essential-command-line-tricks-for-developers-79)
+- [Validating Request Parameters and Body in Amazon API Gateway with AWS CDK](https://dev.to/aws-builders/validating-request-parameters-and-body-in-amazon-api-gateway-with-aws-cdk-1h1g)
 - [Top 5 Design Practices of a RESTFUL API using Express.JS](https://dev.to/qbentil/top-5-design-practices-of-a-restful-api-using-expressjs-2i6o)
 - [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-35hl)
-- [Seguridad en Golang](https://dev.to/tomaslingotti/seguridad-en-golang-4f29)
-- [Specialization vs. Generalization: Which Is Better for Programmers?](https://dev.to/codenewbieteam/specialization-vs-generalization-which-is-better-for-programmers-4884)
 <!-- BLOG-POST-LIST:END -->
 
