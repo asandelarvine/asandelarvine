@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Debugging Made Simple: Building a Custom Logging Service](https://dev.to/aru-ku/angular-debugging-made-simple-building-a-custom-logging-service-1084)
+- [What Do Cloud Services and Jam Have in Common?](https://dev.to/aws-heroes/what-do-cloud-services-and-jam-have-in-common-1d7e)
+- [Get Product Data from Bing Shopping with Python and SerpApi](https://dev.to/serpapi/get-product-data-from-bing-shopping-with-python-and-serpapi-1aod)
 - [How to code a product recommendation engine in PYTHON using ChatGPT?](https://dev.to/giveitatry/how-to-code-a-product-recommendation-engine-in-python-using-chatgpt-4mn4)
-- [Principle Of Web Accessibility](https://dev.to/bsk98/keys-of-accessibility-mindset-1jk9)
-- [Java JDBC CRUD Operations in Eclipse using MySql](https://dev.to/realnamehidden1_61/java-jdbc-crud-operations-in-eclipse-using-mysql-ofp)
-- [how to store html form data in mysql database using hibernate](https://dev.to/realnamehidden1_61/how-to-store-html-form-data-in-mysql-database-using-hibernate-3lin)
 <!-- BLOG-POST-LIST:END -->
 
