@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Create an AI agent that reads Wikipedia for you](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm)
+- [How to Build a Personal Website Using GitHub Pages and Hugo?](https://dev.to/juliecodestack/how-to-build-a-personal-website-using-github-pages-and-hugo-3n93)
 - [Impact of Artificial Intelligence in Retail Market ?](https://dev.to/sofster_/impact-of-artificial-intelligence-in-retail-market--4jp3)
 - [Node.js Pitfalls to Avoid](https://dev.to/appsignal/nodejs-pitfalls-to-avoid-3o74)
-- [5 Unknown Free Resources to Learn Prompt Engineering | Here is Why it is Most Valuable Skill 2023](https://dev.to/sandy088/5-unknown-free-resources-to-learn-prompt-engineering-here-is-why-it-is-most-valuable-skill-2023-30ph)
-- [HOW TO CREATE KEY VAULT IN AZURE AND STORE SECRET PASSWORD WITHIN THE KEY VAULT](https://dev.to/mojeed-88/how-to-create-key-vault-in-azure-and-store-secret-password-within-the-key-vault-33o8)
 <!-- BLOG-POST-LIST:END -->
 
