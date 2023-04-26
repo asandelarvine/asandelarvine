@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Typography: Create exact heights with line-clamp](https://dev.to/dianale/css-typography-create-exact-heights-with-line-clamp-40e3)
-- [How to make lifelong learning a habit. Step 1: Be curious](https://dev.to/ben/how-to-make-lifelong-learning-a-habit-step-1-be-curious-d9i)
-- [CodePen Banner Trick 🤖](https://dev.to/jd2r/codepen-banner-trick-54bd)
-- [Declarative Programming Vs Imperative Programming](https://dev.to/philipjohnbasile/declarative-programming-vs-imperative-programming-413c)
+- [Okta&#39;s auth0](https://dev.to/yellowgem/oktas-auth0-28om)
+- [This Week In React #143: RSC Quiz, useFormStatus, Panda CSS, useLayoutEffect, Million.js, Super Apps, React-Three-Fiber, Vite...](https://dev.to/sebastienlorber/this-week-in-react-143-rsc-quiz-useformstatus-panda-css-uselayouteffect-millionjs-super-apps-react-three-fiber-vite-14nh)
+- [Get Verified on Bluesky Social With Your GoDaddy Domain](https://dev.to/bengreenberg/get-verified-on-bluesky-social-with-your-godaddy-domain-2ck0)
+- [Create your nuxt website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
 <!-- BLOG-POST-LIST:END -->
 
