@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Choose the Right Architecture for your Startup on AWS as a CTO 🏗️☁️](https://dev.to/aws-builders/choose-the-right-architecture-for-your-startup-on-aws-as-a-cto-26i3)
+- [Separate a multi-digit integer into a single-digit array.](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
 - [Welcome Thread - v222](https://dev.to/sloan/welcome-thread-v222-13eo)
 - [HelloNewbie - v2](https://dev.to/codenewbieteam/hellonewbie-v2-p52)
-- [Creating a file on a mounted volume in Docker as the external user &lpar;and not as root&rpar;](https://dev.to/szabgab/creating-a-file-on-a-mounted-volume-in-docker-as-the-external-user-and-not-as-root-348)
-- [How To Add Dark Mode Toggle in ReactJS + TailwindCSS + DaisyUI ⚛️🌼](https://dev.to/kunalukey/how-to-add-dark-mode-toggle-in-reactjs-tailwindcss-daisyui-1af9)
 <!-- BLOG-POST-LIST:END -->
 
