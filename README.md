@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to learn ML in 52 seconds 🏎️](https://dev.to/disukharev/how-to-learn-ml-in-52-seconds-562f)
+- [Text Balance in CSS is coming 🔥](https://dev.to/hunzaboy/text-balance-in-css-is-coming-17e3)
 - [Going Against Conventional Wisdom: What&#39;s Your Unpopular Tech Opinion?](https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag)
 - [Tight Deadlines &amp; Long Hours or Relaxed Timelines &amp; Lower Pay?](https://dev.to/codenewbieteam/tight-deadlines-long-hours-or-relaxed-timelines-lower-pay-bdm)
-- [Zero-cost Way on React &amp; D3.](https://dev.to/valorsoftware/zero-cost-way-on-react-d3-3m1e)
-- [Learn Interface Segregation Principle in C# &lpar;+ Examples&rpar;](https://dev.to/bytehide/learn-interface-segregation-principle-in-c-examples-581f)
 <!-- BLOG-POST-LIST:END -->
 
