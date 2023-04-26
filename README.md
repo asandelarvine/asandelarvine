@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using kafkajs with AWS MSK on a nodejs lambda function](https://dev.to/ebukaodini/using-kafkajs-with-aws-msk-on-a-nodejs-lambda-function-5e41)
-- [Python in the browser with Pyscript](https://dev.to/varshithvhegde/python-in-the-browser-with-pyscript-2b9m)
-- [Creating a RESTful API with Node.js and MongoDB](https://dev.to/limaleandro1999/creating-a-restful-api-with-nodejs-and-mongodb-3o7o)
-- [A Importância de Dizer Não: Quando a Ética de um Desenvolvedor é Prejudicada](https://dev.to/demgoncalves/a-importancia-de-dizer-nao-quando-a-etica-de-um-desenvolvedor-e-prejudicada-54l)
+- [CSS Typography: Create exact heights with line-clamp](https://dev.to/dianale/css-typography-create-exact-heights-with-line-clamp-40e3)
+- [How to make lifelong learning a habit. Step 1: Be curious](https://dev.to/ben/how-to-make-lifelong-learning-a-habit-step-1-be-curious-d9i)
+- [CodePen Banner Trick 🤖](https://dev.to/jd2r/codepen-banner-trick-54bd)
+- [Declarative Programming Vs Imperative Programming](https://dev.to/philipjohnbasile/declarative-programming-vs-imperative-programming-413c)
 <!-- BLOG-POST-LIST:END -->
 
