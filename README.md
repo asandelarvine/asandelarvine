@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a More Robust Apache APISIX Ingress Controller With Litmus Chaos](https://dev.to/apisix/building-a-more-robust-apache-apisix-ingress-controller-with-litmus-chaos-1m6f)
+- [Introducing Medusa’s Plugins Library for Payments, CMS, Notifications, and more.](https://dev.to/medusajs/introducing-medusas-plugins-library-for-payments-cms-notifications-and-more-glk)
+- [Learning Javascript as a Python Developer](https://dev.to/kachiic/learning-javascript-as-a-python-developer-126g)
 - [Introduction Metaphore Stories](https://dev.to/darkterminal/introduction-metaphore-stories-12el)
 - [How to Build A GraphQL API with Node.js, Apollo-Server, and MongoDB Atlas](https://dev.to/onlyoneerin/how-to-build-a-graphql-api-with-nodejs-apollo-server-and-mongodb-atlas-12fm)
-- [govulncheck](https://dev.to/pallat/govulncheck-g9f)
 <!-- BLOG-POST-LIST:END -->
 
