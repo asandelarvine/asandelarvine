@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to learn ML in 52 seconds 🏎️](https://dev.to/disukharev/how-to-learn-ml-in-52-seconds-562f)
-- [Text Balance in CSS is coming 🔥](https://dev.to/hunzaboy/text-balance-in-css-is-coming-17e3)
-- [Going Against Conventional Wisdom: What&#39;s Your Unpopular Tech Opinion?](https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag)
-- [Tight Deadlines &amp; Long Hours or Relaxed Timelines &amp; Lower Pay?](https://dev.to/codenewbieteam/tight-deadlines-long-hours-or-relaxed-timelines-lower-pay-bdm)
+- [Top 21 AWS Services to Optimize Your Cloud Deployment](https://dev.to/imsampro/top-21-aws-services-to-optimize-your-cloud-deployment-3ji4)
+- [x-crawl v7 has been released](https://dev.to/coderhxl/x-crawl-v7-has-been-released-54pk)
+- [Step By Step Quick Guide: How to Create an Ecommerce App?](https://dev.to/quokkalabs/step-by-step-quick-guide-how-to-create-an-ecommerce-app-37ml)
+- [Power Apps, How many ways to make a Calculator](https://dev.to/wyattdave/power-apps-how-many-ways-to-make-a-calculator-5aeh)
 <!-- BLOG-POST-LIST:END -->
 
