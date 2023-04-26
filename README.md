@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Extension Methods: the basics you need to know](https://dev.to/katerinamykhailyk/c-extension-methods-the-basics-you-need-to-know-164i)
 - [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
+- [Step-by-Step Guide to Install PostgreSQL via Package Management for Apache AGE on Ubuntu](https://dev.to/carlasanches/step-by-step-guide-to-install-apache-age-and-postgresql-via-package-management-on-ubuntu-259l)
 - [SPVM::MIME::Base64 - Base64 Encoding/Decoding](https://dev.to/yukikimoto/spvmmimebase64-base64-encodingdecoding-mf6)
-- [What are your biggest tips for beginners to open-source and/or Github?](https://dev.to/codenewbieteam/what-are-your-biggest-tips-for-beginners-to-open-source-andor-github-2ffg)
-- [SPVM::Math - Mathematical Functions](https://dev.to/yukikimoto/spvmmath-mathematical-functions-2kbf)
 <!-- BLOG-POST-LIST:END -->
 
