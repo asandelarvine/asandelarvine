@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
 - [SPVM::MIME::Base64 - Base64 Encoding/Decoding](https://dev.to/yukikimoto/spvmmimebase64-base64-encodingdecoding-mf6)
 - [What are your biggest tips for beginners to open-source and/or Github?](https://dev.to/codenewbieteam/what-are-your-biggest-tips-for-beginners-to-open-source-andor-github-2ffg)
 - [SPVM::Math - Mathematical Functions](https://dev.to/yukikimoto/spvmmath-mathematical-functions-2kbf)
-- [React Essentials: What I Wish I Knew When Starting Out](https://dev.to/heliosalesjr/react-essentials-what-i-wish-i-knew-when-starting-out-4lec)
 <!-- BLOG-POST-LIST:END -->
 
