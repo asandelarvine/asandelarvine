@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Clean Code: Tips and Strategies for Software Developers](https://dev.to/sunalii/how-to-write-clean-code-tips-and-strategies-for-software-developers-22l4)
 - [C# Extension Methods: the basics you need to know](https://dev.to/katerinamykhailyk/c-extension-methods-the-basics-you-need-to-know-164i)
-- [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
-- [Step-by-Step Guide to Install PostgreSQL via Package Management for Apache AGE on Ubuntu](https://dev.to/carlasanches/step-by-step-guide-to-install-apache-age-and-postgresql-via-package-management-on-ubuntu-259l)
-- [SPVM::MIME::Base64 - Base64 Encoding/Decoding](https://dev.to/yukikimoto/spvmmimebase64-base64-encodingdecoding-mf6)
+- [My Portfolio](https://dev.to/puneetkumar2010/my-portfolio-32p9)
+- [Discovering the Power of JavaScript Proxy After All This Time](https://dev.to/marclipovsky/discovering-the-power-of-javascript-proxy-after-all-this-time-4627)
 <!-- BLOG-POST-LIST:END -->
 
