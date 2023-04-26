@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CloudWatch ☁🕜 : CMAA | Metric | Alarms | Namespaces | Events](https://dev.to/aws-builders/aws-cloudwatch-cmaa-metric-alarms-namespaces-events-3h95)
-- [Tutorial: Create an AI agent that reads Wikipedia for you](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm)
-- [Clustered SurrealDB for 1.0.0-beta9](https://dev.to/phughk/clustered-surrealdb-for-100-beta9-1lpf)
-- [How to Build a Personal Website Using GitHub Pages and Hugo?](https://dev.to/juliecodestack/how-to-build-a-personal-website-using-github-pages-and-hugo-3n93)
+- [Using kafkajs with AWS MSK on a nodejs lambda function](https://dev.to/ebukaodini/using-kafkajs-with-aws-msk-on-a-nodejs-lambda-function-5e41)
+- [Python in the browser with Pyscript](https://dev.to/varshithvhegde/python-in-the-browser-with-pyscript-2b9m)
+- [Creating a RESTful API with Node.js and MongoDB](https://dev.to/limaleandro1999/creating-a-restful-api-with-nodejs-and-mongodb-3o7o)
+- [A Importância de Dizer Não: Quando a Ética de um Desenvolvedor é Prejudicada](https://dev.to/demgoncalves/a-importancia-de-dizer-nao-quando-a-etica-de-um-desenvolvedor-e-prejudicada-54l)
 <!-- BLOG-POST-LIST:END -->
 
