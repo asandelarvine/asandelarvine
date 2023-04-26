@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Welcome Thread - v222](https://dev.to/sloan/welcome-thread-v222-13eo)
 - [HelloNewbie - v2](https://dev.to/codenewbieteam/hellonewbie-v2-p52)
+- [Creating a file on a mounted volume in Docker as the external user &lpar;and not as root&rpar;](https://dev.to/szabgab/creating-a-file-on-a-mounted-volume-in-docker-as-the-external-user-and-not-as-root-348)
 - [How To Add Dark Mode Toggle in ReactJS + TailwindCSS + DaisyUI ⚛️🌼](https://dev.to/kunalukey/how-to-add-dark-mode-toggle-in-reactjs-tailwindcss-daisyui-1af9)
-- [I’m a tag mod!](https://dev.to/grey41/im-a-tag-mod-45dl)
 <!-- BLOG-POST-LIST:END -->
 
