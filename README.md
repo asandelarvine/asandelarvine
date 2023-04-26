@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS CloudWatch ☁🕜 : CMAA | Metric | Alarms | Namespaces | Events](https://dev.to/aws-builders/aws-cloudwatch-cmaa-metric-alarms-namespaces-events-3h95)
 - [Tutorial: Create an AI agent that reads Wikipedia for you](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm)
+- [Clustered SurrealDB for 1.0.0-beta9](https://dev.to/phughk/clustered-surrealdb-for-100-beta9-1lpf)
 - [How to Build a Personal Website Using GitHub Pages and Hugo?](https://dev.to/juliecodestack/how-to-build-a-personal-website-using-github-pages-and-hugo-3n93)
-- [Impact of Artificial Intelligence in Retail Market ?](https://dev.to/sofster_/impact-of-artificial-intelligence-in-retail-market--4jp3)
-- [Node.js Pitfalls to Avoid](https://dev.to/appsignal/nodejs-pitfalls-to-avoid-3o74)
 <!-- BLOG-POST-LIST:END -->
 
