@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 21 AWS Services to Optimize Your Cloud Deployment](https://dev.to/imsampro/top-21-aws-services-to-optimize-your-cloud-deployment-3ji4)
-- [x-crawl v7 has been released](https://dev.to/coderhxl/x-crawl-v7-has-been-released-54pk)
-- [Step By Step Quick Guide: How to Create an Ecommerce App?](https://dev.to/quokkalabs/step-by-step-quick-guide-how-to-create-an-ecommerce-app-37ml)
-- [Power Apps, How many ways to make a Calculator](https://dev.to/wyattdave/power-apps-how-many-ways-to-make-a-calculator-5aeh)
+- [Building a More Robust Apache APISIX Ingress Controller With Litmus Chaos](https://dev.to/apisix/building-a-more-robust-apache-apisix-ingress-controller-with-litmus-chaos-1m6f)
+- [Introduction Metaphore Stories](https://dev.to/darkterminal/introduction-metaphore-stories-12el)
+- [How to Build A GraphQL API with Node.js, Apollo-Server, and MongoDB Atlas](https://dev.to/onlyoneerin/how-to-build-a-graphql-api-with-nodejs-apollo-server-and-mongodb-atlas-12fm)
+- [govulncheck](https://dev.to/pallat/govulncheck-g9f)
 <!-- BLOG-POST-LIST:END -->
 
