@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Medusa’s Plugins Library for Payments, CMS, Notifications, and more.](https://dev.to/medusajs/introducing-medusas-plugins-library-for-payments-cms-notifications-and-more-glk)
-- [Learning Javascript as a Python Developer](https://dev.to/kachiic/learning-javascript-as-a-python-developer-126g)
-- [Introduction Metaphore Stories](https://dev.to/darkterminal/introduction-metaphore-stories-12el)
-- [How to Build A GraphQL API with Node.js, Apollo-Server, and MongoDB Atlas](https://dev.to/onlyoneerin/how-to-build-a-graphql-api-with-nodejs-apollo-server-and-mongodb-atlas-12fm)
+- [Impact of Artificial Intelligence in Retail Market ?](https://dev.to/sofster_/impact-of-artificial-intelligence-in-retail-market--4jp3)
+- [Node.js Pitfalls to Avoid](https://dev.to/appsignal/nodejs-pitfalls-to-avoid-3o74)
+- [5 Unknown Free Resources to Learn Prompt Engineering | Here is Why it is Most Valuable Skill 2023](https://dev.to/sandy088/5-unknown-free-resources-to-learn-prompt-engineering-here-is-why-it-is-most-valuable-skill-2023-30ph)
+- [HOW TO CREATE KEY VAULT IN AZURE AND STORE SECRET PASSWORD WITHIN THE KEY VAULT](https://dev.to/mojeed-88/how-to-create-key-vault-in-azure-and-store-secret-password-within-the-key-vault-33o8)
 <!-- BLOG-POST-LIST:END -->
 
