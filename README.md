@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Okta&#39;s auth0](https://dev.to/yellowgem/oktas-auth0-28om)
-- [This Week In React #143: RSC Quiz, useFormStatus, Panda CSS, useLayoutEffect, Million.js, Super Apps, React-Three-Fiber, Vite...](https://dev.to/sebastienlorber/this-week-in-react-143-rsc-quiz-useformstatus-panda-css-uselayouteffect-millionjs-super-apps-react-three-fiber-vite-14nh)
-- [Get Verified on Bluesky Social With Your GoDaddy Domain](https://dev.to/bengreenberg/get-verified-on-bluesky-social-with-your-godaddy-domain-2ck0)
-- [Create your nuxt website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
+- [Deep Link Nighmare 💀](https://dev.to/bhumit070/deep-link-nighmare-49ig)
+- [Let’s play a Javascript Frontend Game](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
+- [Control a 3D Model with Your Phone: A React, Three.js, and Socket.io Project 🚀](https://dev.to/namanvyas/control-a-3d-model-with-your-phone-a-react-threejs-and-socketio-project-356c)
+- [You should stop using Spring @Autowired](https://dev.to/felixcoutinho/you-should-stop-using-spring-autowired-p8i)
 <!-- BLOG-POST-LIST:END -->
 
