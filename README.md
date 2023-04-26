@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Link Nighmare 💀](https://dev.to/bhumit070/deep-link-nighmare-49ig)
-- [Let’s play a Javascript Frontend Game](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
-- [Control a 3D Model with Your Phone: A React, Three.js, and Socket.io Project 🚀](https://dev.to/namanvyas/control-a-3d-model-with-your-phone-a-react-threejs-and-socketio-project-356c)
-- [You should stop using Spring @Autowired](https://dev.to/felixcoutinho/you-should-stop-using-spring-autowired-p8i)
+- [Welcome Thread - v222](https://dev.to/sloan/welcome-thread-v222-13eo)
+- [HelloNewbie - v2](https://dev.to/codenewbieteam/hellonewbie-v2-p52)
+- [How To Add Dark Mode Toggle in ReactJS + TailwindCSS + DaisyUI ⚛️🌼](https://dev.to/kunalukey/how-to-add-dark-mode-toggle-in-reactjs-tailwindcss-daisyui-1af9)
+- [I’m a tag mod!](https://dev.to/grey41/im-a-tag-mod-45dl)
 <!-- BLOG-POST-LIST:END -->
 
