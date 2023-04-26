@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly web development resources #146](https://dev.to/vincenius/weekly-web-development-resources-146-3og4)
+- [TextGPT: A Profitable Weekend Project](https://dev.to/fvaldes33/textgpt-a-profitable-weekend-project-1e01)
+- [Mastering TypeScript 5.0 Decorators: The Ultimate Guide](https://dev.to/pipaliyachirag/mastering-typescript-50-decorators-the-ultimate-guide-26f0)
 - [How to Write Clean Code: Tips and Strategies for Software Developers](https://dev.to/sunalii/how-to-write-clean-code-tips-and-strategies-for-software-developers-22l4)
-- [C# Extension Methods: the basics you need to know](https://dev.to/katerinamykhailyk/c-extension-methods-the-basics-you-need-to-know-164i)
-- [My Portfolio](https://dev.to/puneetkumar2010/my-portfolio-32p9)
-- [Discovering the Power of JavaScript Proxy After All This Time](https://dev.to/marclipovsky/discovering-the-power-of-javascript-proxy-after-all-this-time-4627)
 <!-- BLOG-POST-LIST:END -->
 
