@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly web development resources #146](https://dev.to/vincenius/weekly-web-development-resources-146-3og4)
-- [TextGPT: A Profitable Weekend Project](https://dev.to/fvaldes33/textgpt-a-profitable-weekend-project-1e01)
-- [Mastering TypeScript 5.0 Decorators: The Ultimate Guide](https://dev.to/pipaliyachirag/mastering-typescript-50-decorators-the-ultimate-guide-26f0)
-- [How to Write Clean Code: Tips and Strategies for Software Developers](https://dev.to/sunalii/how-to-write-clean-code-tips-and-strategies-for-software-developers-22l4)
+- [Going Against Conventional Wisdom: What&#39;s Your Unpopular Tech Opinion?](https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag)
+- [Tight Deadlines &amp; Long Hours or Relaxed Timelines &amp; Lower Pay?](https://dev.to/codenewbieteam/tight-deadlines-long-hours-or-relaxed-timelines-lower-pay-bdm)
+- [Zero-cost Way on React &amp; D3.](https://dev.to/valorsoftware/zero-cost-way-on-react-d3-3m1e)
+- [Learn Interface Segregation Principle in C# &lpar;+ Examples&rpar;](https://dev.to/bytehide/learn-interface-segregation-principle-in-c-examples-581f)
 <!-- BLOG-POST-LIST:END -->
 
