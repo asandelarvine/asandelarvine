@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why upgrade to Yarn Berry?](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
 - [Extension to directly run code blocks from your markdown editor](https://dev.to/sourishkrout/extension-to-directly-run-code-blocks-from-your-markdown-editor-31oc)
 - [🦦 What OtterTune hates the most in PostgreSQL🐘 is solved in YugabyteDB🚀](https://dev.to/yugabyte/what-ottertune-hates-the-most-in-postgresql-is-solved-in-yugabytedb-1l1o)
 - [Introducing — UX Glossary: The Tool Every UX Designer Needs](https://dev.to/sanchezmarcosme/introducing-ux-glossary-the-tool-every-ux-designer-needs-3i5)
-- [Generate a custom C# ChatGPT API client in minutes with Kiota](https://dev.to/asimmon/generate-a-custom-c-chatgpt-api-client-in-minutes-with-kiota-f9j)
 <!-- BLOG-POST-LIST:END -->
 
