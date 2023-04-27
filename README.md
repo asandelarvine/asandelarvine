@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Extension to directly run code blocks from your markdown editor](https://dev.to/sourishkrout/extension-to-directly-run-code-blocks-from-your-markdown-editor-31oc)
+- [🦦 What OtterTune hates the most in PostgreSQL🐘 is solved in YugabyteDB🚀](https://dev.to/yugabyte/what-ottertune-hates-the-most-in-postgresql-is-solved-in-yugabytedb-1l1o)
 - [Introducing — UX Glossary: The Tool Every UX Designer Needs](https://dev.to/sanchezmarcosme/introducing-ux-glossary-the-tool-every-ux-designer-needs-3i5)
-- [Get Magic Eight Ball answers right in your PR or issue comments!](https://dev.to/valeriavg/get-magic-eight-ball-answers-right-in-your-pr-or-issue-comments-256g)
 - [Generate a custom C# ChatGPT API client in minutes with Kiota](https://dev.to/asimmon/generate-a-custom-c-chatgpt-api-client-in-minutes-with-kiota-f9j)
 <!-- BLOG-POST-LIST:END -->
 
