@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [KubeCon + CloudNativeCon Europe 2023: Highlights from Amsterdam](https://dev.to/kubeshop/kubecon-cloudnativecon-europe-2023-highlights-from-amsterdam-3c35)
+- [Musings on C &amp; C++ Declarations](https://dev.to/pauljlucas/musings-on-c-c-declarations-169o)
 - [What Is ChatGPT?](https://dev.to/tech_olaide/what-is-chatgpt-3han)
 - [Smart Contracts Step-by-Step: A Beginner’s Guide to Debugging and Deploying Smart Contracts with Infura and Truffle](https://dev.to/mbogan/smart-contracts-step-by-step-a-beginners-guide-to-debugging-and-deploying-smart-contracts-with-infura-and-truffle-5af3)
-- [Upgrade to Yarn V3/Berry. But Why?](https://dev.to/raxraj/upgrade-to-yarn-v3berry-but-why-2cfo)
-- [React Hooks: Exploring the power of `useEffect` Hook.](https://dev.to/ghostaram/react-hooks-exploring-the-power-of-useeffect-hook-b11)
 <!-- BLOG-POST-LIST:END -->
 
