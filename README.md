@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Most Efficient Setup for Your Code Editor or IDE?](https://dev.to/devteam/whats-the-most-efficient-setup-for-your-code-editor-or-ide-21hd)
+- [What&#39;s the Worst Question You&#39;ve Ever Been Asked in an Interview?](https://dev.to/codenewbieteam/whats-the-worst-question-youve-ever-been-asked-in-an-interview-1891)
+- [Build What Matters](https://dev.to/aws-heroes/build-what-matters-30on)
 - [The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://dev.to/israelmitolu/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit-1nkm)
-- [Breaking Down Success: What Separates Top Developers from the Rest](https://dev.to/dhruvindev/breaking-down-success-what-separates-top-developers-from-the-rest-210j)
-- [How we built the Fastest ChatGPT Website Chatbot](https://dev.to/polterguy/how-we-built-the-fastest-chatgpt-website-chatbot-2gkk)
-- [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
 <!-- BLOG-POST-LIST:END -->
 
