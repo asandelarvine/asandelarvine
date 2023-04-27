@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Skills of a Software Engineer](https://dev.to/solidi/meta-skills-of-a-software-engineer-1fa6)
+- [Show dev: Flowbite Svelte - Open-source UI component library](https://dev.to/themesberg/show-dev-flowbite-svelte-open-source-ui-component-library-4ff2)
 - [Leverage the richness of HTTP status codes](https://dev.to/nfrankel/leverage-the-richness-of-http-status-codes-2boj)
 - [Let&#39;s Dockerize your Django &amp; React JS App.](https://dev.to/adii9/lets-dockerize-your-django-react-js-app-4k23)
-- [Prompt Generator for Coders](https://dev.to/foxinfotech/prompt-generator-for-coders-1dgk)
-- [DevoxxFR 2023](https://dev.to/onepoint/devoxxfr-2023-1ei)
 <!-- BLOG-POST-LIST:END -->
 
