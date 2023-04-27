@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Most Efficient Setup for Your Code Editor or IDE?](https://dev.to/devteam/whats-the-most-efficient-setup-for-your-code-editor-or-ide-21hd)
-- [What&#39;s the Worst Question You&#39;ve Ever Been Asked in an Interview?](https://dev.to/codenewbieteam/whats-the-worst-question-youve-ever-been-asked-in-an-interview-1891)
-- [Build What Matters](https://dev.to/aws-heroes/build-what-matters-30on)
-- [The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://dev.to/israelmitolu/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit-1nkm)
+- [DevoxxFR 2023](https://dev.to/onepoint/devoxxfr-2023-1ei)
+- [x-crawl v7 version has been released](https://dev.to/coderhxl/x-crawl-v7-version-has-been-released-kf2)
+- [Navigating Kubernetes Deployments and CronJobs on AWS and GCP for Seamless Operations](https://dev.to/imsampro/navigating-kubernetes-deployments-and-cronjobs-on-aws-and-gcp-for-seamless-operations-g04)
+- [How to – Use Power Automate Instead of Power Apps](https://dev.to/wyattdave/how-to-use-power-automate-instead-of-power-apps-3iob)
 <!-- BLOG-POST-LIST:END -->
 
