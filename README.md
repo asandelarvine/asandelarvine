@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leverage the richness of HTTP status codes](https://dev.to/nfrankel/leverage-the-richness-of-http-status-codes-2boj)
+- [Let&#39;s Dockerize your Django &amp; React JS App.](https://dev.to/adii9/lets-dockerize-your-django-react-js-app-4k23)
+- [Prompt Generator for Coders](https://dev.to/foxinfotech/prompt-generator-for-coders-1dgk)
 - [DevoxxFR 2023](https://dev.to/onepoint/devoxxfr-2023-1ei)
-- [x-crawl v7 version has been released](https://dev.to/coderhxl/x-crawl-v7-version-has-been-released-kf2)
-- [Navigating Kubernetes Deployments and CronJobs on AWS and GCP for Seamless Operations](https://dev.to/imsampro/navigating-kubernetes-deployments-and-cronjobs-on-aws-and-gcp-for-seamless-operations-g04)
-- [How to – Use Power Automate Instead of Power Apps](https://dev.to/wyattdave/how-to-use-power-automate-instead-of-power-apps-3iob)
 <!-- BLOG-POST-LIST:END -->
 
