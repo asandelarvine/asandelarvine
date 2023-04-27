@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top VS Code Extensions Every Frontend Developer Needs in Their Toolkit](https://dev.to/israelmitolu/the-top-vs-code-extensions-every-frontend-developer-needs-in-their-toolkit-1nkm)
+- [Breaking Down Success: What Separates Top Developers from the Rest](https://dev.to/dhruvindev/breaking-down-success-what-separates-top-developers-from-the-rest-210j)
 - [How we built the Fastest ChatGPT Website Chatbot](https://dev.to/polterguy/how-we-built-the-fastest-chatgpt-website-chatbot-2gkk)
 - [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
-- [remove duplicate words from string in java](https://dev.to/realnamehidden1_61/remove-duplicate-words-from-string-in-java-29e0)
-- [how to find the frequency of characters in given string in java](https://dev.to/realnamehidden1_61/program-to-find-the-frequency-of-characters-in-given-string-in-java-100o)
 <!-- BLOG-POST-LIST:END -->
 
