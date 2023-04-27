@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Extension to directly run code blocks from your markdown editor](https://dev.to/sourishkrout/extension-to-directly-run-code-blocks-from-your-markdown-editor-31oc)
+- [Introducing — UX Glossary: The Tool Every UX Designer Needs](https://dev.to/sanchezmarcosme/introducing-ux-glossary-the-tool-every-ux-designer-needs-3i5)
+- [Get Magic Eight Ball answers right in your PR or issue comments!](https://dev.to/valeriavg/get-magic-eight-ball-answers-right-in-your-pr-or-issue-comments-256g)
 - [Generate a custom C# ChatGPT API client in minutes with Kiota](https://dev.to/asimmon/generate-a-custom-c-chatgpt-api-client-in-minutes-with-kiota-f9j)
-- [The Essential Art of Sustainable Software Architecture](https://dev.to/jeastham1993/the-essential-art-of-sustainable-software-architecture-23he)
-- [Getting started with Apache AgeDB: A Beginner&#39;s Guide](https://dev.to/abdulsamad4068/getting-started-with-apache-agedb-a-beginners-guide-35fl)
-- [[Nestia] Boost up your NestJS server much faster and easier &lpar;maximum 20,000x faster&rpar;](https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5)
 <!-- BLOG-POST-LIST:END -->
 
