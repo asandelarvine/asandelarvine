@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Skills of a Software Engineer](https://dev.to/solidi/meta-skills-of-a-software-engineer-1fa6)
-- [Show dev: Flowbite Svelte - Open-source UI component library](https://dev.to/themesberg/show-dev-flowbite-svelte-open-source-ui-component-library-4ff2)
-- [Leverage the richness of HTTP status codes](https://dev.to/nfrankel/leverage-the-richness-of-http-status-codes-2boj)
-- [Let&#39;s Dockerize your Django &amp; React JS App.](https://dev.to/adii9/lets-dockerize-your-django-react-js-app-4k23)
+- [Building a Successful Junior Software Engineering Career: A Path to Success](https://dev.to/bolshchikov/building-a-successful-junior-software-engineering-career-a-path-to-success-3n81)
+- [Global CSS Art](https://dev.to/vulcanwm/global-css-art-27lg)
+- [&quot;Unleashing Innovation: The Intersection of Product Development and Cloud Computing&quot;](https://dev.to/toluwani_oluwaloseyi/unleashing-innovation-the-intersection-of-product-development-and-cloud-computing-jg7)
+- [Understanding the desiredCount and autoscaling behaviour of AWS Fargate - Fuckups 🤦‍♂️ and learnings 🤓](https://dev.to/aws-builders/understanding-the-desiredcount-and-autoscaling-behaviour-of-aws-fargate-fuckups-and-learnings-4e0)
 <!-- BLOG-POST-LIST:END -->
 
