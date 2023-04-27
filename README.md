@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Secrets: How to Use Android App Developer to Create a Successful Business Product?](https://dev.to/quokkalabs/12-secrets-how-to-use-android-app-developer-to-create-a-successful-business-product-3b8d)
-- [Looking for a good tech newsletter? I found one. &lpar;Daily Tip #1&rpar;](https://dev.to/grey41/looking-for-a-good-tech-newsletter-i-found-one-daily-tip-1-505l)
-- [How to Create Personal Portfolio Website Using HTML &amp; CSS](https://dev.to/hojjatbandani/how-to-create-personal-portfolio-website-using-html-css-1e7p)
-- [Github: A High-Performance Library for Audio Analysis](https://dev.to/audioflux/github-a-high-performance-library-for-audio-analysis-266g)
+- [Upgrade to Yarn V3/Berry. But Why?](https://dev.to/raxraj/upgrade-to-yarn-v3berry-but-why-2cfo)
+- [React Hooks: Exploring the power of `useEffect` Hook.](https://dev.to/ghostaram/react-hooks-exploring-the-power-of-useeffect-hook-b11)
+- [Non-coders Guide to Contributing to Open Source](https://dev.to/codewithvoid/non-coders-guide-to-open-source-contributions-pbo)
+- [How to build a Hackathon 🚀](https://dev.to/novu/how-to-buid-a-hackathon-gb3)
 <!-- BLOG-POST-LIST:END -->
 
