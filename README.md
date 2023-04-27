@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Successful Junior Software Engineering Career: A Path to Success](https://dev.to/bolshchikov/building-a-successful-junior-software-engineering-career-a-path-to-success-3n81)
-- [Global CSS Art](https://dev.to/vulcanwm/global-css-art-27lg)
-- [&quot;Unleashing Innovation: The Intersection of Product Development and Cloud Computing&quot;](https://dev.to/toluwani_oluwaloseyi/unleashing-innovation-the-intersection-of-product-development-and-cloud-computing-jg7)
-- [Understanding the desiredCount and autoscaling behaviour of AWS Fargate - Fuckups 🤦‍♂️ and learnings 🤓](https://dev.to/aws-builders/understanding-the-desiredcount-and-autoscaling-behaviour-of-aws-fargate-fuckups-and-learnings-4e0)
+- [12 Secrets: How to Use Android App Developer to Create a Successful Business Product?](https://dev.to/quokkalabs/12-secrets-how-to-use-android-app-developer-to-create-a-successful-business-product-3b8d)
+- [Looking for a good tech newsletter? I found one. &lpar;Daily Tip #1&rpar;](https://dev.to/grey41/looking-for-a-good-tech-newsletter-i-found-one-daily-tip-1-505l)
+- [How to Create Personal Portfolio Website Using HTML &amp; CSS](https://dev.to/hojjatbandani/how-to-create-personal-portfolio-website-using-html-css-1e7p)
+- [Github: A High-Performance Library for Audio Analysis](https://dev.to/audioflux/github-a-high-performance-library-for-audio-analysis-266g)
 <!-- BLOG-POST-LIST:END -->
 
