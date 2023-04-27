@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Challenges Marketers and Developers Face in the Era of Headless CMS](https://dev.to/stackbit/the-challenges-marketers-and-developers-face-in-the-era-of-headless-cms-l30)
-- [Semantic Versioning](https://dev.to/wadizaatour/semantic-versioning-53ni)
-- [The Internet is Like a Convention: Why You Should Grab the Mic and Start Talking](https://dev.to/lakincoder/the-internet-is-like-a-convention-why-you-should-grab-the-mic-and-start-talking-1l1i)
-- [KubeCon + CloudNativeCon Europe 2023: Highlights from Amsterdam](https://dev.to/kubeshop/kubecon-cloudnativecon-europe-2023-highlights-from-amsterdam-3c35)
+- [Generate a custom C# ChatGPT API client in minutes with Kiota](https://dev.to/asimmon/generate-a-custom-c-chatgpt-api-client-in-minutes-with-kiota-f9j)
+- [The Essential Art of Sustainable Software Architecture](https://dev.to/jeastham1993/the-essential-art-of-sustainable-software-architecture-23he)
+- [Getting started with Apache AgeDB: A Beginner&#39;s Guide](https://dev.to/abdulsamad4068/getting-started-with-apache-agedb-a-beginners-guide-35fl)
+- [[Nestia] Boost up your NestJS server much faster and easier &lpar;maximum 20,000x faster&rpar;](https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5)
 <!-- BLOG-POST-LIST:END -->
 
