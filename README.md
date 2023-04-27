@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding DNS and Amazon&#39;s Route 53 Cloud Service: A Beginner&#39;s Introduction](https://dev.to/aws-builders/understanding-dns-and-amazons-route-53-cloud-service-a-beginners-introduction-4jkc)
 - [Choose the Right Architecture for your Startup on AWS as a CTO 🏗️☁️](https://dev.to/aws-builders/choose-the-right-architecture-for-your-startup-on-aws-as-a-cto-26i3)
+- [Building Golang Lambda Functions](https://dev.to/aws-builders/building-golang-lambda-functions-46mj)
 - [Separate a multi-digit integer into a single-digit array.](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
-- [Welcome Thread - v222](https://dev.to/sloan/welcome-thread-v222-13eo)
-- [HelloNewbie - v2](https://dev.to/codenewbieteam/hellonewbie-v2-p52)
 <!-- BLOG-POST-LIST:END -->
 
