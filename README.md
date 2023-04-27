@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding DNS and Amazon&#39;s Route 53 Cloud Service: A Beginner&#39;s Introduction](https://dev.to/aws-builders/understanding-dns-and-amazons-route-53-cloud-service-a-beginners-introduction-4jkc)
-- [Choose the Right Architecture for your Startup on AWS as a CTO 🏗️☁️](https://dev.to/aws-builders/choose-the-right-architecture-for-your-startup-on-aws-as-a-cto-26i3)
-- [Building Golang Lambda Functions](https://dev.to/aws-builders/building-golang-lambda-functions-46mj)
-- [Separate a multi-digit integer into a single-digit array.](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
+- [Learn to code like never before with a AI coding buddy!](https://dev.to/mattcsmith/learn-to-code-like-never-before-with-a-ai-coding-buddy-21ja)
+- [Build A Weather App With Django.](https://dev.to/thekalderon/build-a-weather-app-with-django-1a0c)
+- [Building a Message Component for My Project](https://dev.to/arashjangali/building-a-message-component-for-my-project-fbc)
+- [Use Emojis as Favicons](https://dev.to/tzador/use-emojis-as-favicons-14e3)
 <!-- BLOG-POST-LIST:END -->
 
