@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [remove duplicate words from string in java](https://dev.to/realnamehidden1_61/remove-duplicate-words-from-string-in-java-29e0)
+- [Program to find the frequency of characters in given string in java](https://dev.to/realnamehidden1_61/program-to-find-the-frequency-of-characters-in-given-string-in-java-100o)
 - [Learn to code like never before with a AI coding buddy!](https://dev.to/mattcsmith/learn-to-code-like-never-before-with-a-ai-coding-buddy-21ja)
 - [Build A Weather App With Django.](https://dev.to/thekalderon/build-a-weather-app-with-django-1a0c)
-- [Building a Message Component for My Project](https://dev.to/arashjangali/building-a-message-component-for-my-project-fbc)
-- [Use Emojis as Favicons](https://dev.to/tzador/use-emojis-as-favicons-14e3)
 <!-- BLOG-POST-LIST:END -->
 
