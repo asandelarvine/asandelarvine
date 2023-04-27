@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How we built the Fastest ChatGPT Website Chatbot](https://dev.to/polterguy/how-we-built-the-fastest-chatgpt-website-chatbot-2gkk)
 - [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
 - [remove duplicate words from string in java](https://dev.to/realnamehidden1_61/remove-duplicate-words-from-string-in-java-29e0)
 - [how to find the frequency of characters in given string in java](https://dev.to/realnamehidden1_61/program-to-find-the-frequency-of-characters-in-given-string-in-java-100o)
-- [Learn to code like never before with a AI coding buddy!](https://dev.to/mattcsmith/learn-to-code-like-never-before-with-a-ai-coding-buddy-21ja)
 <!-- BLOG-POST-LIST:END -->
 
