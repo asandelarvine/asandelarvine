@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a vector embedding?](https://dev.to/josethz00/what-is-a-vector-embedding-3335)
+- [#DEVDiscuss: can the AT Protocol and the Fediverse coexist?](https://dev.to/devteam/devdiscuss-can-the-at-protocol-and-the-fediverse-coexist-4d74)
 - [Best Ways To Use &quot;Generics&quot; In Typescript](https://dev.to/arafat4693/best-ways-to-use-generics-in-typescript-51fi)
 - [The Definition of User Experience &lpar;UX&rpar;](https://dev.to/uixwithme/the-definition-of-user-experience-ux-4dg8)
-- [How to become a data scientist](https://dev.to/educative/how-to-become-a-data-scientist-3o9f)
-- [Change your logo for dark mode in MJML](https://dev.to/sidhant_suvagiya/change-your-logo-for-dark-mode-in-mjml-104j)
 <!-- BLOG-POST-LIST:END -->
 
