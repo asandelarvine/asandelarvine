@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to remove elements from array in JavaScript](https://dev.to/bybydev/how-to-remove-elements-from-array-in-javascript-3c7l)
 - [What, exactly, is Object-oriented Programming?](https://dev.to/ga_ts/what-exactly-is-object-oriented-programming-5a7a)
 - [Beyond Senior - The Vista Problem](https://dev.to/baweaver/beyond-senior-the-vista-problem-507k)
-- [The Hidden Cost of Social Media for Developers Community](https://dev.to/smmd/the-hidden-cost-of-social-media-for-developers-community-3p4l)
-- [What is JavaScript?](https://dev.to/philipjohnbasile/what-is-javascript-50pc)
+- [In Favor of Ruby Central Memberships](https://dev.to/baweaver/in-favor-of-ruby-central-memberships-15gl)
 <!-- BLOG-POST-LIST:END -->
 
