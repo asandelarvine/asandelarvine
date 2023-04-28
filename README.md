@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn &quot;Zod&quot; In 5 Minutes](https://dev.to/arafat4693/learn-zod-in-5-minutes-17pn)
+- [Starting a new job? Use AppMap to navigate a new codebase](https://dev.to/appmap/-starting-a-new-job-use-appmap-to-navigate-a-new-codebase-377j)
 - [What is a vector embedding?](https://dev.to/josethz00/what-is-a-vector-embedding-3335)
 - [#DEVDiscuss: can the AT Protocol and the Fediverse coexist?](https://dev.to/devteam/devdiscuss-can-the-at-protocol-and-the-fediverse-coexist-4d74)
-- [Best Ways To Use &quot;Generics&quot; In Typescript](https://dev.to/arafat4693/best-ways-to-use-generics-in-typescript-51fi)
-- [The Definition of User Experience &lpar;UX&rpar;](https://dev.to/uixwithme/the-definition-of-user-experience-ux-4dg8)
 <!-- BLOG-POST-LIST:END -->
 
