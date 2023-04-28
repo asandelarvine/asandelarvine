@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Three JS Examples : 9. Three Js Ghost Card Animation](https://dev.to/jon_snow789/three-js-examples-8-three-js-ghost-card-animation-1pnh)
+- [SPVM::Digest::MD5 - MD5](https://dev.to/yukikimoto/spvmdigestmd5-md5-4m4p)
 - [The new version of x-crawl v7 has been released!](https://dev.to/coderhxl/the-new-version-of-x-crawl-v7-has-been-released-1053)
 - [How to remove elements from array in JavaScript](https://dev.to/bybydev/how-to-remove-elements-from-array-in-javascript-3c7l)
-- [What, exactly, is Object-oriented Programming?](https://dev.to/ga_ts/what-exactly-is-object-oriented-programming-5a7a)
-- [Beyond Senior - The Vista Problem](https://dev.to/baweaver/beyond-senior-the-vista-problem-507k)
 <!-- BLOG-POST-LIST:END -->
 
