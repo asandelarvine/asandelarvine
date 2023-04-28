@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why upgrade to Yarn Berry?](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
-- [Extension to directly run code blocks from your markdown editor](https://dev.to/sourishkrout/extension-to-directly-run-code-blocks-from-your-markdown-editor-31oc)
-- [🦦 What OtterTune hates the most in PostgreSQL🐘 is solved in YugabyteDB🚀](https://dev.to/yugabyte/what-ottertune-hates-the-most-in-postgresql-is-solved-in-yugabytedb-1l1o)
-- [Introducing — UX Glossary: The Tool Every UX Designer Needs](https://dev.to/sanchezmarcosme/introducing-ux-glossary-the-tool-every-ux-designer-needs-3i5)
+- [What, exactly, is Object-oriented Programming?](https://dev.to/ga_ts/what-exactly-is-object-oriented-programming-5a7a)
+- [Beyond Senior - The Vista Problem](https://dev.to/baweaver/beyond-senior-the-vista-problem-507k)
+- [The Hidden Cost of Social Media for Developers Community](https://dev.to/smmd/the-hidden-cost-of-social-media-for-developers-community-3p4l)
+- [What is JavaScript?](https://dev.to/philipjohnbasile/what-is-javascript-50pc)
 <!-- BLOG-POST-LIST:END -->
 
