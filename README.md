@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Last week top 5 posts tagged&lpar;#python&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedpython-m9n)
+- [Roadmap to Full-Stack Web Developer](https://dev.to/moeezikram/roadmap-to-full-stack-web-developer-3i7a)
 - [MS Edge now allows you to simulate dark, light, high contrast mode, blurred vision and colour deficiencies in Device Emulation](https://dev.to/codepo8/ms-edge-now-allows-you-to-simulate-dark-light-high-contrast-mode-blurred-vision-and-colour-deficiencies-in-device-emulation-47ii)
 - [How to use and document polymorphism in API](https://dev.to/bump/how-to-use-and-document-polymorphism-in-api-21o4)
-- [What the are Prototypes in JavaScript](https://dev.to/akpevwe11/what-the-are-prototypes-in-javascript-50bi)
-- [A Beginner&#39;s Guide to Magento Development: Getting Started with Your Online Store](https://dev.to/lewisblakeney/a-beginners-guide-to-magento-development-getting-started-with-your-online-store-5881)
 <!-- BLOG-POST-LIST:END -->
 
