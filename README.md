@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33e6)
 - [Build a product gallery app easily with TailwindCSS and StorefrontUI](https://dev.to/mayashavin/build-a-product-gallery-app-easily-with-tailwindcss-and-storefrontui-3j75)
 - [Last week top 5 posts tagged&lpar;#python&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedpython-m9n)
 - [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-1bd9)
-- [Roadmap to Full-Stack Web Developer](https://dev.to/moeezikram/roadmap-to-full-stack-web-developer-3i7a)
 <!-- BLOG-POST-LIST:END -->
 
