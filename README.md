@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Real-Time Web Applications with Blazor SignalR](https://dev.to/bhavin9920/building-real-time-web-applications-with-blazor-signalr-4ikl)
-- [My Favorite Courses to Learn Docker and Containers in Depth](https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp)
-- [Three JS Examples : 9. Three Js Ghost Card Animation](https://dev.to/jon_snow789/three-js-examples-8-three-js-ghost-card-animation-1pnh)
-- [SPVM::Digest::MD5 - MD5](https://dev.to/yukikimoto/spvmdigestmd5-md5-4m4p)
+- [Building Responsive Websites: Best Practices and Tips](https://dev.to/moeezikram/building-responsive-websites-best-practices-and-tips-5gb1)
+- [Building Secure Web Applications: Best Practices and Tips](https://dev.to/moeezikram/building-secure-web-applications-best-practices-and-tips-3ifj)
+- [Introduction to GEE, CLIMATE Engine, and Satellite Data](https://dev.to/geedevs-nairobi/introduction-to-gee-climate-engine-and-satellite-data-2l7c)
+- [Assessing Cloud Risks with CCSP: A Framework for Risk Management](https://dev.to/edenwheeler/assessing-cloud-risks-with-ccsp-a-framework-for-risk-management-146o)
 <!-- BLOG-POST-LIST:END -->
 
