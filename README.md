@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to know about Webpack&#39;s Bundle-Analyzer](https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l)
-- [How to configure Typescript in your project](https://dev.to/wadizaatour/how-to-configutre-typscript-in-your-project-484h)
-- [TypeScript](https://dev.to/wadizaatour/typescript-4jol)
-- [What&#39;s New in Novu 0.14.0?](https://dev.to/novu/whats-new-in-novu-0140-4p5c)
+- [MS Edge now allows you to simulate dark, light, high contrast mode, blurred vision and colour deficiencies in Device Emulation](https://dev.to/codepo8/ms-edge-now-allows-you-to-simulate-dark-light-high-contrast-mode-blurred-vision-and-colour-deficiencies-in-device-emulation-47ii)
+- [How to use and document polymorphism in API](https://dev.to/bump/how-to-use-and-document-polymorphism-in-api-21o4)
+- [What the are Prototypes in JavaScript](https://dev.to/akpevwe11/what-the-are-prototypes-in-javascript-50bi)
+- [A Beginner&#39;s Guide to Magento Development: Getting Started with Your Online Store](https://dev.to/lewisblakeney/a-beginners-guide-to-magento-development-getting-started-with-your-online-store-5881)
 <!-- BLOG-POST-LIST:END -->
 
