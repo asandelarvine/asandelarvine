@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Applications with AWS Serverless Application Model](https://dev.to/imsampro/building-scalable-applications-with-aws-serverless-application-model-11ai)
-- [7 Incredible Communities That Will Change Your Life Forever](https://dev.to/anmolbaranwal/7-incredible-communities-that-will-change-your-life-forever-28n1)
-- [React Router: A comprehensive guide for beginners](https://dev.to/martinwachira/react-router-a-comprehensive-guide-for-beginners-25pd)
-- [Reduce Docker Image size for your Next.js App](https://dev.to/leduc1901/reduce-docker-image-size-for-your-nextjs-app-5911)
+- [Everything you need to know about Webpack&#39;s Bundle-Analyzer](https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l)
+- [How to configure Typescript in your project](https://dev.to/wadizaatour/how-to-configutre-typscript-in-your-project-484h)
+- [TypeScript](https://dev.to/wadizaatour/typescript-4jol)
+- [What&#39;s New in Novu 0.14.0?](https://dev.to/novu/whats-new-in-novu-0140-4p5c)
 <!-- BLOG-POST-LIST:END -->
 
