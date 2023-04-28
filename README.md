@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Change your logo for dark mode in MJML](https://dev.to/sidhant_suvagiya/change-your-logo-for-dark-mode-in-mjml-104j)
 - [Who&#39;s looking for open source contributors? &lpar;week 39&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-39-41jf)
 - [We&#39;re on Bluesky ☁️](https://dev.to/devteam/were-on-bluesky-4k44)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33e6)
-- [Domain-Driven Design: Simple Explanation](https://dev.to/alexhyettdev/domain-driven-design-simple-explanation-23b0)
+- [9/10 Programmers Make the Same Mistakes](https://dev.to/devsatasurion/feedback-cycles-draft-46p8)
 <!-- BLOG-POST-LIST:END -->
 
