@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Writing 101: How to get Jobs, Gigs &amp; Opportunities](https://dev.to/kwamedev/technical-writing-101-how-to-get-jobs-gigs-opportunities-5kf)
+- [Redefining Incident Response: Insights from the Chaos Engineer Behind Jeli.io](https://dev.to/linearb/redefining-incident-response-insights-from-the-chaos-engineer-behind-jeliio-3nf0)
 - [Learn &quot;Zod&quot; In 5 Minutes](https://dev.to/arafat4693/learn-zod-in-5-minutes-17pn)
 - [Starting a new job? Use AppMap to navigate a new codebase](https://dev.to/appmap/-starting-a-new-job-use-appmap-to-navigate-a-new-codebase-377j)
-- [What is a vector embedding?](https://dev.to/josethz00/what-is-a-vector-embedding-3335)
-- [#DEVDiscuss: can the AT Protocol and the Fediverse coexist?](https://dev.to/devteam/devdiscuss-can-the-at-protocol-and-the-fediverse-coexist-4d74)
 <!-- BLOG-POST-LIST:END -->
 
