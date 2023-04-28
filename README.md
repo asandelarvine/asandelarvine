@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [stackstream X Product Hunt](https://dev.to/stack_stream/stackstream-x-product-hunt-566l)
-- [Managing array of observables](https://dev.to/this-is-angular/managing-array-of-observables-3alf)
-- [How to build a Chrome Extension with Flutter in 2023| Guided Tutorial](https://dev.to/sandy088/how-to-build-a-chrome-extension-with-flutter-in-2023-guided-tutorial-be4)
-- [GPT-4 plays DND with difficulty checks!](https://dev.to/disukharev/gpt-4-plays-dnd-with-4-of-us-its-insane-youtube-45db)
+- [Building Scalable Applications with AWS Serverless Application Model](https://dev.to/imsampro/building-scalable-applications-with-aws-serverless-application-model-11ai)
+- [7 Incredible Communities That Will Change Your Life Forever](https://dev.to/anmolbaranwal/7-incredible-communities-that-will-change-your-life-forever-28n1)
+- [React Router: A comprehensive guide for beginners](https://dev.to/martinwachira/react-router-a-comprehensive-guide-for-beginners-25pd)
+- [Reduce Docker Image size for your Next.js App](https://dev.to/leduc1901/reduce-docker-image-size-for-your-nextjs-app-5911)
 <!-- BLOG-POST-LIST:END -->
 
