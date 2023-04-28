@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [stackstream X Product Hunt](https://dev.to/stack_stream/stackstream-x-product-hunt-566l)
+- [Managing array of observables](https://dev.to/this-is-angular/managing-array-of-observables-3alf)
 - [How to build a Chrome Extension with Flutter in 2023| Guided Tutorial](https://dev.to/sandy088/how-to-build-a-chrome-extension-with-flutter-in-2023-guided-tutorial-be4)
 - [GPT-4 plays DND with difficulty checks!](https://dev.to/disukharev/gpt-4-plays-dnd-with-4-of-us-its-insane-youtube-45db)
-- [UI/UX Design Trends for 2023: Embracing Innovation and the Future of User Experience](https://dev.to/alyciakyla/uiux-design-trends-for-2023-embracing-innovation-and-the-future-of-user-experience-42p0)
-- [Learn Dependency Inversion Principle in C# &lpar;+ Examples&rpar;](https://dev.to/bytehide/learn-dependency-inversion-principle-in-c-examples-3em)
 <!-- BLOG-POST-LIST:END -->
 
