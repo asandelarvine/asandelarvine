@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Responsive Websites: Best Practices and Tips](https://dev.to/moeezikram/building-responsive-websites-best-practices-and-tips-5gb1)
-- [Building Secure Web Applications: Best Practices and Tips](https://dev.to/moeezikram/building-secure-web-applications-best-practices-and-tips-3ifj)
-- [Introduction to GEE, CLIMATE Engine, and Satellite Data](https://dev.to/geedevs-nairobi/introduction-to-gee-climate-engine-and-satellite-data-2l7c)
-- [Assessing Cloud Risks with CCSP: A Framework for Risk Management](https://dev.to/edenwheeler/assessing-cloud-risks-with-ccsp-a-framework-for-risk-management-146o)
+- [Learn Dependency Inversion Principle in C# &lpar;+ Examples&rpar;](https://dev.to/bytehide/learn-dependency-inversion-principle-in-c-examples-3em)
+- [What Are Your Worst Coding Habits?](https://dev.to/devteam/what-are-your-worst-coding-habits-4jeh)
+- [What New Skills or Accomplishments Have You Achieved in the Past Year?](https://dev.to/codenewbieteam/what-new-skills-or-accomplishments-have-you-achieved-in-the-past-year-3ph1)
+- [I Have Been Grilled by ThePrimeagen on YouTube](https://dev.to/jmfayard/i-have-been-grilled-by-theprimeagen-on-youtube-3mki)
 <!-- BLOG-POST-LIST:END -->
 
