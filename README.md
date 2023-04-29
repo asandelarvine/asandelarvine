@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [BTCONF was 🤩🤪🚀 awesome](https://dev.to/pixeline/btconf-was-2bb3)
 - [Automate application deployment into Lightsail instance](https://dev.to/shubhamkcloud/automate-application-deployment-into-lightsail-instance-28co)
 - [The Mind-Blowing Potential of Quantum Computing: Could it Revolutionize Drug Discovery and Put an End to Online Hackers?](https://dev.to/lakshitsomani/the-mind-blowing-potential-of-quantum-computing-could-it-revolutionize-drug-discovery-and-put-an-end-to-online-hackers-13ll)
 - [Animated Handwriting Text in React with Vara.js](https://dev.to/dminhvu/animated-handwriting-text-in-react-with-varajs-40p)
-- [Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
 <!-- BLOG-POST-LIST:END -->
 
