@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
+- [ChatGPT Plugin Starter TypeScript NextJS](https://dev.to/gannonh/chatgpt-plugin-starter-typescript-nextjs-3io2)
 - [What are some of the most innovative uses of CSS that you&#39;ve seen in 2023?](https://dev.to/ugbabeog/what-are-some-of-the-most-innovative-uses-of-css-that-youve-seen-in-2023-3h9k)
 - [JavaScript for of loop tutorial](https://dev.to/max24816/javascript-for-of-loop-tutorial-8bk)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-147l)
-- [Dark Mode in 3 Lines of CSS and Other Adventures](https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj)
 <!-- BLOG-POST-LIST:END -->
 
