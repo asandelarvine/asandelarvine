@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Mode in 3 Lines of CSS and Other Adventures](https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj)
 - [Dockerizing a Node.js Application from Scratch](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
+- [Mastering React Development: Avoiding Common Pitfalls.](https://dev.to/abomisr/mastering-react-development-avoiding-common-pitfalls-31m6)
 - [Adding timeout and multiple abort signals to fetch&lpar;&rpar; &lpar;TypeScript/React&rpar;](https://dev.to/rashidshamloo/adding-timeout-and-multiple-abort-signals-to-fetch-typescriptreact-33bb)
-- [React State ManageMent](https://dev.to/abirahmed/react-state-management-327m)
-- [Python for Newbies: Your Ultimate Guide to Learning Python and Best Practices](https://dev.to/aradwan20/python-for-newbies-your-ultimate-guide-to-learning-python-and-best-practices-h2k)
 <!-- BLOG-POST-LIST:END -->
 
