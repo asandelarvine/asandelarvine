@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Animated Handwriting Text in React with Vara.js](https://dev.to/dminhvu/animated-handwriting-text-in-react-with-varajs-40p)
+- [Dynamic Volume Provisioning in Kubernetes with AWS and Terraform](https://dev.to/monarene/dynamic-volume-provisioning-in-kubernetes-with-aws-and-terraform-3m6h)
 - [Best Post of the Month - April 2023](https://dev.to/jon_snow789/best-post-of-the-month-april-2023-3j90)
 - [Custom API Gateway Authorizer with Golang](https://dev.to/aws-builders/custom-api-gateway-authorizer-with-golang-3l25)
-- [Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
-- [Why Typescript is our god now.](https://dev.to/nerkmind/why-typescript-is-our-god-now-2m5p)
 <!-- BLOG-POST-LIST:END -->
 
