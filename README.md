@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Kind of Music or Podcasts Do You Listen to While You Code?](https://dev.to/codenewbieteam/what-kind-of-music-or-podcasts-do-you-listen-to-while-you-code-13hn)
+- [What Are Some of the Worst Security Practices You’ve Ever Seen in Software Development?](https://dev.to/devteam/what-are-some-of-the-worst-security-practices-youve-ever-seen-in-software-development-15h9)
 - [5 Reasons Why Command Line Interface &lpar;CLI&rpar; is More Efficient Than GUI](https://dev.to/arthvhanesa/5-reasons-why-command-line-interface-cli-is-more-efficient-than-gui-mh2)
-- [Technical Writing 101: How to get Jobs, Gigs &amp; Opportunities](https://dev.to/kwamedev/technical-writing-101-how-to-get-jobs-gigs-opportunities-5kf)
-- [Redefining Incident Response: Insights from the Chaos Engineer Behind Jeli.io](https://dev.to/linearb/redefining-incident-response-insights-from-the-chaos-engineer-behind-jeliio-3nf0)
-- [Angular Architecture - Core Module](https://dev.to/digitaldino/angular-architecture-core-module-dn4)
+- [SOLID in React- OCP - Open-Closed Principle](https://dev.to/renantsx/solid-in-react-ocp-open-closed-principle-473m)
 <!-- BLOG-POST-LIST:END -->
 
