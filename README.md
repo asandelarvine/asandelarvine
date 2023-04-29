@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some of the most innovative uses of CSS that you&#39;ve seen in 2023?](https://dev.to/ugbabeog/what-are-some-of-the-most-innovative-uses-of-css-that-youve-seen-in-2023-3h9k)
+- [JavaScript for of loop tutorial](https://dev.to/max24816/javascript-for-of-loop-tutorial-8bk)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-147l)
 - [Dark Mode in 3 Lines of CSS and Other Adventures](https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj)
-- [Dockerizing a Node.js Application from Scratch](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
-- [Mastering React Development: Avoiding Common Pitfalls.](https://dev.to/abomisr/mastering-react-development-avoiding-common-pitfalls-31m6)
-- [Adding timeout and multiple abort signals to fetch&lpar;&rpar; &lpar;TypeScript/React&rpar;](https://dev.to/rashidshamloo/adding-timeout-and-multiple-abort-signals-to-fetch-typescriptreact-33bb)
 <!-- BLOG-POST-LIST:END -->
 
