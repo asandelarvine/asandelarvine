@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git cheat sheet](https://dev.to/zamuhajji/git-cheat-sheet-4lce)
 - [Unleash the Power of GPT-3: Create a Telegram Chat Bot that Engages Like a Human](https://dev.to/akash2819/unleash-the-power-of-gpt-3-create-a-telegram-chat-bot-that-engages-like-a-human-2aag)
 - [Simple IT: Set Up and Ongoing Maintenance of Zero Assumptions](https://dev.to/zeroassumptions/simple-it-set-up-and-ongoing-maintenance-of-zero-assumptions-5381)
 - [Top 14 VSCode Extensions imo!](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
-- [BTCONF was 🤩🤪🚀 awesome](https://dev.to/pixeline/btconf-was-2bb3)
 <!-- BLOG-POST-LIST:END -->
 
