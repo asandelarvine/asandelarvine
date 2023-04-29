@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple IT: Set Up and Ongoing Maintenance of Zero Assumptions](https://dev.to/zeroassumptions/simple-it-set-up-and-ongoing-maintenance-of-zero-assumptions-5381)
+- [Top 14 VSCode Extensions imo!](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
 - [BTCONF was 🤩🤪🚀 awesome](https://dev.to/pixeline/btconf-was-2bb3)
 - [Automate application deployment into Lightsail instance](https://dev.to/shubhamkcloud/automate-application-deployment-into-lightsail-instance-28co)
-- [The Mind-Blowing Potential of Quantum Computing: Could it Revolutionize Drug Discovery and Put an End to Online Hackers?](https://dev.to/lakshitsomani/the-mind-blowing-potential-of-quantum-computing-could-it-revolutionize-drug-discovery-and-put-an-end-to-online-hackers-13ll)
-- [Animated Handwriting Text in React with Vara.js](https://dev.to/dminhvu/animated-handwriting-text-in-react-with-varajs-40p)
 <!-- BLOG-POST-LIST:END -->
 
