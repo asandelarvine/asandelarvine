@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0)
+- [how to convert array to arraylist in java](https://dev.to/realnamehidden1_61/how-to-convert-array-to-arraylist-in-java-355j)
 - [What Kind of Music or Podcasts Do You Listen to While You Code?](https://dev.to/codenewbieteam/what-kind-of-music-or-podcasts-do-you-listen-to-while-you-code-13hn)
 - [What Are Some of the Worst Security Practices You’ve Ever Seen in Software Development?](https://dev.to/devteam/what-are-some-of-the-worst-security-practices-youve-ever-seen-in-software-development-15h9)
-- [5 Reasons Why Command Line Interface &lpar;CLI&rpar; is More Efficient Than GUI](https://dev.to/arthvhanesa/5-reasons-why-command-line-interface-cli-is-more-efficient-than-gui-mh2)
-- [SOLID in React- OCP - Open-Closed Principle](https://dev.to/renantsx/solid-in-react-ocp-open-closed-principle-473m)
 <!-- BLOG-POST-LIST:END -->
 
