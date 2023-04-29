@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python for Newbies: Your Ultimate Guide to Learning Python and Best Practices](https://dev.to/aradwan20/python-for-newbies-your-ultimate-guide-to-learning-python-and-best-practices-h2k)
+- [📝🤔💻 REST vs GraphQL: Which One Should You Use? 🌐📊](https://dev.to/arunbingari/rest-vs-graphql-which-one-should-you-use-5ggb)
+- [What is WSL ? How to install WSL in Windows 11 ?](https://dev.to/siddhant15/what-is-wsl-how-to-install-wsl-in-windows-11--4f5h)
 - [How to convert String to Integer in java](https://dev.to/realnamehidden1_61/how-to-convert-string-to-integer-in-java-32gp)
-- [ChatGPT Breaks into the Physical World: Introducing Shifu Plugin for ChatGPT](https://dev.to/saiyan86/chatgpt-breaks-into-the-physical-world-introducing-shifu-plugin-for-chatgpt-2b4p)
-- [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0)
-- [how to convert array to arraylist in java](https://dev.to/realnamehidden1_61/how-to-convert-array-to-arraylist-in-java-355j)
 <!-- BLOG-POST-LIST:END -->
 
