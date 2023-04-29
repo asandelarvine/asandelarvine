@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Post of the Month - April 2023](https://dev.to/jon_snow789/best-post-of-the-month-april-2023-3j90)
+- [Custom API Gateway Authorizer with Golang](https://dev.to/aws-builders/custom-api-gateway-authorizer-with-golang-3l25)
 - [Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
-- [ChatGPT Plugin Starter TypeScript NextJS](https://dev.to/gannonh/chatgpt-plugin-starter-typescript-nextjs-3io2)
-- [What are some of the most innovative uses of CSS that you&#39;ve seen in 2023?](https://dev.to/ugbabeog/what-are-some-of-the-most-innovative-uses-of-css-that-youve-seen-in-2023-3h9k)
-- [JavaScript for of loop tutorial](https://dev.to/max24816/javascript-for-of-loop-tutorial-8bk)
+- [Why Typescript is our god now.](https://dev.to/nerkmind/why-typescript-is-our-god-now-2m5p)
 <!-- BLOG-POST-LIST:END -->
 
