@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Key Tips to Boost Your ReactJS Performance 🚀](https://dev.to/bakardev/5-key-tips-to-boost-your-reactjs-performance-15i3)
 - [From webpack to vite: custom module resolution, sass import, babel config](https://dev.to/blikblum/from-webpack-to-vite-custom-module-resolution-sass-import-babel-config-52h6)
 - [Responsive Navigation Bar with Dropdown Menu using JavaScript](https://dev.to/incoderweb/responsive-navigation-bar-with-dropdown-menu-using-javascript-1ahf)
 - [#GitHubHack23: Coded Clique](https://dev.to/tlylt/githubhack23-coded-clique-1m3c)
-- [Querying microservices in real-time with materialized views](https://dev.to/bobur/querying-microservices-in-real-time-with-materialized-views-211c)
 <!-- BLOG-POST-LIST:END -->
 
