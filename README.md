@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
+- [Create Stunning Videos with These 7 AI-Powered Editing Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
 - [Top C++23 Features](https://dev.to/sbalasa/top-c23-features-4ibj)
 - [Building a simple real-time chat app with Node.js and Socket.io](https://dev.to/ndulue/building-a-simple-real-time-chat-app-with-nodejs-and-socketio-e9i)
-- [Do you want to publish your own npm package ?](https://dev.to/munavvarsinan/do-you-want-to-publish-your-own-npm-package--mjf)
 <!-- BLOG-POST-LIST:END -->
 
