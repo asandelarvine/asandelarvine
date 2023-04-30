@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
+- [Top C++23 Features](https://dev.to/sbalasa/top-c23-features-4ibj)
 - [Building a simple real-time chat app with Node.js and Socket.io](https://dev.to/ndulue/building-a-simple-real-time-chat-app-with-nodejs-and-socketio-e9i)
 - [Do you want to publish your own npm package ?](https://dev.to/munavvarsinan/do-you-want-to-publish-your-own-npm-package--mjf)
-- [Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
-- [FLaNK Stack Weekly for 30 April 2023](https://dev.to/tspannhw/flank-stack-weekly-for-30-april-2023-754)
 <!-- BLOG-POST-LIST:END -->
 
