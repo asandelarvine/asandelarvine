@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What I learned from 2 years of freelancing 🤫💰](https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8)
+- [C# file/folder helpers](https://dev.to/karenpayneoregon/c-filefolder-helpers-4phl)
 - [The Evolution of Social Media and its Impact on Society](https://dev.to/aliahmed/the-evolution-of-social-media-and-its-impact-on-society-2aal)
 - [Create a Keyword Generator Chrome Extension🔥](https://dev.to/devlopersabbir/create-a-keyword-generator-chrome-extension-1gfh)
-- [Top 10 Open-Source AI Trends for 2023](https://dev.to/hr21don/top-10-open-source-ai-trends-for-2023-p2p)
 <!-- BLOG-POST-LIST:END -->
 
