@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Favorite Free Courses to Learn JavaScript in depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
-- [What I learned from 2 years of freelancing 🤫💰](https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8)
-- [C# file/folder helpers](https://dev.to/karenpayneoregon/c-filefolder-helpers-4phl)
-- [The Evolution of Social Media and its Impact on Society](https://dev.to/aliahmed/the-evolution-of-social-media-and-its-impact-on-society-2aal)
+- [Embracing Your Coding Style: How Do You Express Your Individuality in a Tech Career?](https://dev.to/codenewbieteam/embracing-your-coding-style-how-do-you-express-your-individuality-in-a-tech-career-41pm)
+- [Predicting the Future: Which Programming Languages are Poised to Take the Lead?](https://dev.to/devteam/predicting-the-future-which-programming-languages-are-poised-to-take-the-lead-5f35)
+- [I Built Dexplorer: Disposable Cosmos-based Blockchain Explorer](https://dev.to/arifintahu/i-built-dexplorer-disposable-cosmos-based-blockchain-explorer-2h8l)
+- [Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.](https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo)
 <!-- BLOG-POST-LIST:END -->
 
