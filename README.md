@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Messy Constants: A New Approach to Moving Constants Away from Your Model!](https://dev.to/vladhilko/say-goodbye-to-messy-constants-a-new-approach-to-moving-constants-away-from-your-model-58i1)
-- [GPT Graph: A Simple Tool for Knowledge Graph Exploration](https://dev.to/melbably/gpt-graph-a-simple-tool-for-knowledge-graph-exploration-257k)
-- [Creating Scalable and Reusable React Components](https://dev.to/aralroca/creating-scalable-and-reusable-react-components-5h08)
-- [Predicting the Future: Which Programming Languages are Poised to Take the Lead?](https://dev.to/devteam/predicting-the-future-which-programming-languages-are-poised-to-take-the-lead-5f35)
+- [From webpack to vite: custom module resolution, sass import, babel config](https://dev.to/blikblum/from-webpack-to-vite-custom-module-resolution-sass-import-babel-config-52h6)
+- [Responsive Navigation Bar with Dropdown Menu using JavaScript](https://dev.to/incoderweb/responsive-navigation-bar-with-dropdown-menu-using-javascript-1ahf)
+- [#GitHubHack23: Coded Clique](https://dev.to/tlylt/githubhack23-coded-clique-1m3c)
+- [Querying microservices in real-time with materialized views](https://dev.to/bobur/querying-microservices-in-real-time-with-materialized-views-211c)
 <!-- BLOG-POST-LIST:END -->
 
