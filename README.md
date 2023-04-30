@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Architecture - Shared Module](https://dev.to/digitaldino/angular-architecture-shared-module-1mf4)
 - [Streamlining Blog Creation: My Experience Writing a Bash Script as a Web Developer](https://dev.to/levischouten/streamlining-blog-creation-my-experience-writing-a-bash-script-as-a-web-developer-26bd)
+- [UIToolkit Generate Custom Shapes With Vector API](https://dev.to/breadnone/uitoolkit-generate-custom-shapes-with-vector-api-1nip)
 - [Week 0056](https://dev.to/kasuken/week-0056-2843)
-- [10 Things from Pragmatic Programmer &lpar;almost&rpar; 25 years later](https://dev.to/szymonsadowski/10-things-from-pragmatic-programmer-almost-25-years-later-2bp1)
-- [5 Key Tips to Boost Your ReactJS Performance 🚀](https://dev.to/bakardev/5-key-tips-to-boost-your-reactjs-performance-15i3)
 <!-- BLOG-POST-LIST:END -->
 
