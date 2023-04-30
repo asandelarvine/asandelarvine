@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Blue Skies](https://dev.to/nickytonline/yet-another-newsletter-lol-blue-skies-37kd)
+- [How Array.prototype.sort&lpar;&rpar; works?](https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn)
+- [Glassmorphism CSS Generator](https://dev.to/jon_snow789/glassmorphism-css-generator-k90)
 - [Angular Architecture - Shared Module](https://dev.to/digitaldino/angular-architecture-shared-module-1mf4)
-- [Streamlining Blog Creation: My Experience Writing a Bash Script as a Web Developer](https://dev.to/levischouten/streamlining-blog-creation-my-experience-writing-a-bash-script-as-a-web-developer-26bd)
-- [UIToolkit Generate Custom Shapes With Vector API](https://dev.to/breadnone/uitoolkit-generate-custom-shapes-with-vector-api-1nip)
-- [Week 0056](https://dev.to/kasuken/week-0056-2843)
 <!-- BLOG-POST-LIST:END -->
 
