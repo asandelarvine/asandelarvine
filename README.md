@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Your Coding Style: How Do You Express Your Individuality in a Tech Career?](https://dev.to/codenewbieteam/embracing-your-coding-style-how-do-you-express-your-individuality-in-a-tech-career-41pm)
+- [Say Goodbye to Messy Constants: A New Approach to Moving Constants Away from Your Model!](https://dev.to/vladhilko/say-goodbye-to-messy-constants-a-new-approach-to-moving-constants-away-from-your-model-58i1)
+- [GPT Graph: A Simple Tool for Knowledge Graph Exploration](https://dev.to/melbably/gpt-graph-a-simple-tool-for-knowledge-graph-exploration-257k)
+- [Creating Scalable and Reusable React Components](https://dev.to/aralroca/creating-scalable-and-reusable-react-components-5h08)
 - [Predicting the Future: Which Programming Languages are Poised to Take the Lead?](https://dev.to/devteam/predicting-the-future-which-programming-languages-are-poised-to-take-the-lead-5f35)
-- [I Built Dexplorer: Disposable Cosmos-based Blockchain Explorer](https://dev.to/arifintahu/i-built-dexplorer-disposable-cosmos-based-blockchain-explorer-2h8l)
-- [Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.](https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo)
 <!-- BLOG-POST-LIST:END -->
 
