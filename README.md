@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What I learned from 2 years of freelancing 🤫💰](https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8)
+- [The Evolution of Social Media and its Impact on Society](https://dev.to/aliahmed/the-evolution-of-social-media-and-its-impact-on-society-2aal)
+- [Create a Keyword Generator Chrome Extension🔥](https://dev.to/devlopersabbir/create-a-keyword-generator-chrome-extension-1gfh)
 - [Top 10 Open-Source AI Trends for 2023](https://dev.to/hr21don/top-10-open-source-ai-trends-for-2023-p2p)
-- [Git cheat sheet](https://dev.to/zamuhajji/git-cheat-sheet-4lce)
-- [Unleash the Power of GPT-3: Create a Telegram Chat Bot that Engages Like a Human](https://dev.to/akash2819/unleash-the-power-of-gpt-3-create-a-telegram-chat-bot-that-engages-like-a-human-2aag)
-- [Simple IT: Set Up and Ongoing Maintenance of Zero Assumptions](https://dev.to/zeroassumptions/simple-it-set-up-and-ongoing-maintenance-of-zero-assumptions-5381)
 <!-- BLOG-POST-LIST:END -->
 
