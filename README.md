@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a simple real-time chat app with Node.js and Socket.io](https://dev.to/ndulue/building-a-simple-real-time-chat-app-with-nodejs-and-socketio-e9i)
+- [Do you want to publish your own npm package ?](https://dev.to/munavvarsinan/do-you-want-to-publish-your-own-npm-package--mjf)
 - [Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
 - [FLaNK Stack Weekly for 30 April 2023](https://dev.to/tspannhw/flank-stack-weekly-for-30-april-2023-754)
-- [K8s and AKS Interviewer Questions : ChatGPT Answers](https://dev.to/manmohan/k8s-and-aks-interviewer-questions-chatgpt-answers-2pg6)
-- [Além das unidades CSS - intrinsic sizing e responsividade](https://dev.to/lixeletto/alem-das-unidades-css-intrinsic-sizing-e-responsividade-gl)
 <!-- BLOG-POST-LIST:END -->
 
