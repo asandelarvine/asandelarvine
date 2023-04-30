@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to develop an online code compiler using Java and Docker.](https://dev.to/zakariamaaraki/how-to-develop-an-online-code-compiler-using-java-and-docker-2oe8)
-- [Yet Another Newsletter LOL: Blue Skies](https://dev.to/nickytonline/yet-another-newsletter-lol-blue-skies-37kd)
-- [How Array.prototype.sort&lpar;&rpar; works?](https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn)
-- [Glassmorphism CSS Generator](https://dev.to/jon_snow789/glassmorphism-css-generator-k90)
+- [Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
+- [FLaNK Stack Weekly for 30 April 2023](https://dev.to/tspannhw/flank-stack-weekly-for-30-april-2023-754)
+- [K8s and AKS Interviewer Questions : ChatGPT Answers](https://dev.to/manmohan/k8s-and-aks-interviewer-questions-chatgpt-answers-2pg6)
+- [Além das unidades CSS - intrinsic sizing e responsividade](https://dev.to/lixeletto/alem-das-unidades-css-intrinsic-sizing-e-responsividade-gl)
 <!-- BLOG-POST-LIST:END -->
 
