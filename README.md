@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to develop an online code compiler using Java and Docker.](https://dev.to/zakariamaaraki/how-to-develop-an-online-code-compiler-using-java-and-docker-2oe8)
 - [Yet Another Newsletter LOL: Blue Skies](https://dev.to/nickytonline/yet-another-newsletter-lol-blue-skies-37kd)
 - [How Array.prototype.sort&lpar;&rpar; works?](https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn)
 - [Glassmorphism CSS Generator](https://dev.to/jon_snow789/glassmorphism-css-generator-k90)
-- [Angular Architecture - Shared Module](https://dev.to/digitaldino/angular-architecture-shared-module-1mf4)
 <!-- BLOG-POST-LIST:END -->
 
