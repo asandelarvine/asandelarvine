@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Streamlining Blog Creation: My Experience Writing a Bash Script as a Web Developer](https://dev.to/levischouten/streamlining-blog-creation-my-experience-writing-a-bash-script-as-a-web-developer-26bd)
 - [Week 0056](https://dev.to/kasuken/week-0056-2843)
+- [10 Things from Pragmatic Programmer &lpar;almost&rpar; 25 years later](https://dev.to/szymonsadowski/10-things-from-pragmatic-programmer-almost-25-years-later-2bp1)
 - [5 Key Tips to Boost Your ReactJS Performance 🚀](https://dev.to/bakardev/5-key-tips-to-boost-your-reactjs-performance-15i3)
-- [Set up a flutter development environment on Linux](https://dev.to/klyngen/set-up-a-flutter-development-environment-on-linux-1mgd)
 <!-- BLOG-POST-LIST:END -->
 
