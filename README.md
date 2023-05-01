@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Trends to Watch in 2026](https://dev.to/devtripath94447/cybersecurity-trends-to-watch-in-2026-kp6)
+- [How to Build an Extensible System With Less Technical Debt From Start](https://dev.to/zenstack/how-to-build-an-extensible-system-with-less-technical-debt-from-day-one-j8b)
 - [AWS open source newsletter, #155](https://dev.to/aws/aws-open-source-newsletter-155-42kj)
 - [Is Less More? How Do You Embrace Simplicity in Coding?](https://dev.to/codenewbieteam/is-less-more-how-do-you-embrace-simplicity-in-coding-1n44)
-- [Ghostfolio reaches 1’000 Stars on GitHub](https://dev.to/dtslvr/ghostfolio-reaches-1000-stars-on-github-208i)
-- [The Ultimate Guide to Mastering Full-Stack Development in 2023](https://dev.to/imsampro/the-ultimate-guide-to-mastering-full-stack-development-in-2023-15kp)
 <!-- BLOG-POST-LIST:END -->
 
