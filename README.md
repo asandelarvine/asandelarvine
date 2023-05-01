@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Commit Like A Pro](https://dev.to/stephikebudu/git-commit-like-a-pro-56d8)
+- [Deploy Your Application to ECS via CI/CD with Ecspresso](https://dev.to/atsushii/deploy-your-application-to-ecs-via-cicd-with-ecspresso-34n0)
 - [EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
-- [Getting Started with Flutter: A Practical Guide to Creating and Running Your First App](https://dev.to/bigdexter/getting-started-with-flutter-a-practical-guide-to-creating-and-running-your-first-app-5bmp)
-- [BigQuery deduplication strategies](https://dev.to/sagnikbanerjeesb/bigquery-deduplication-strategies-230)
-- [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
+- [Networking: Understanding Subnetting](https://dev.to/erinborders/networking-understanding-subnetting-1e3e)
 <!-- BLOG-POST-LIST:END -->
 
