@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your First-ever Email Address &amp; Do You Still Use It Today?](https://dev.to/devteam/what-was-your-first-ever-email-address-do-you-still-use-it-today-2c9g)
+- [Using Copilot X: CLI to reorganize my blog](https://dev.to/this-is-learning/using-copilot-x-cli-to-reorganize-my-blog-30ga)
 - [What is WHEP? – Intro to WebRTC Streaming Part 2](https://dev.to/dolbyio/what-is-whep-intro-to-webrtc-streaming-part-2-3d99)
 - [5 Essential Tips to Ease Your Programming Journey : A Beginner&#39;s Guide](https://dev.to/ziadoua/5-essential-tips-to-ease-your-programming-journey-a-beginners-guide-2iog)
-- [Introduction to Traceo - bug tracking and performance monitoring system](https://dev.to/satorugojo/traceo-a-self-hosted-bug-tracking-and-performance-monitoring-system-499d)
-- [Compile a single executable from your Node app with Node.js 20 and ESBuild](https://dev.to/chad_r_stewart/compile-a-single-executable-from-your-node-app-with-nodejs-20-and-esbuild-210j)
 <!-- BLOG-POST-LIST:END -->
 
