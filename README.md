@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Host Websites on GitHub Pages](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
+- [The Rise of AI: Is Your CEO Position at Risk?](https://dev.to/christiankesslers/the-rise-of-ai-is-your-ceo-position-at-risk-36gf)
+- [Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
 - [Git Commit Like A Pro](https://dev.to/stephikebudu/git-commit-like-a-pro-56d8)
-- [Deploy Your Application to ECS via CI/CD with Ecspresso](https://dev.to/atsushii/deploy-your-application-to-ecs-via-cicd-with-ecspresso-34n0)
-- [ActionCable and React for Beginners](https://dev.to/albam476/actioncable-and-react-for-beginners-4gm8)
-- [EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
 <!-- BLOG-POST-LIST:END -->
 
