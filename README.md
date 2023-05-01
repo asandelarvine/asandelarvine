@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is WHEP? – Intro to WebRTC Streaming Part 2](https://dev.to/dolbyio/what-is-whep-intro-to-webrtc-streaming-part-2-3d99)
+- [5 Essential Tips to Ease Your Programming Journey : A Beginner&#39;s Guide](https://dev.to/ziadoua/5-essential-tips-to-ease-your-programming-journey-a-beginners-guide-2iog)
+- [Introduction to Traceo - bug tracking and performance monitoring system](https://dev.to/satorugojo/traceo-a-self-hosted-bug-tracking-and-performance-monitoring-system-499d)
 - [Compile a single executable from your Node app with Node.js 20 and ESBuild](https://dev.to/chad_r_stewart/compile-a-single-executable-from-your-node-app-with-nodejs-20-and-esbuild-210j)
-- [Getting AWS Certified 100% Free!](https://dev.to/aws-builders/getting-aws-certified-100-free-8od)
-- [My Programming journey](https://dev.to/tejasgk/my-programming-journey-1ne0)
-- [Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
 <!-- BLOG-POST-LIST:END -->
 
