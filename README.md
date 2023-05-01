@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
 - [Getting Started with Flutter: A Practical Guide to Creating and Running Your First App](https://dev.to/bigdexter/getting-started-with-flutter-a-practical-guide-to-creating-and-running-your-first-app-5bmp)
+- [BigQuery deduplication strategies](https://dev.to/sagnikbanerjeesb/bigquery-deduplication-strategies-230)
 - [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
-- [Create Stunning Videos with These 7 AI-Powered Editing Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
 <!-- BLOG-POST-LIST:END -->
 
