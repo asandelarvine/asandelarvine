@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How &lpar;not&rpar; to spend $15000 per month with AWS Athena](https://dev.to/aws-builders/how-not-to-spend-15000-per-month-with-aws-athena-1fn8)
-- [83. Remove Duplicates from Sorted List leetcode solution in java](https://dev.to/realnamehidden1_61/83-remove-duplicates-from-sorted-list-leetcode-solution-in-java-131o)
-- [How to deploy Redis Stack Server Statefulset in Kubernetes](https://dev.to/botkids/ho-to-deploy-redis-stack-server-statefulset-in-kubernetes-4j8g)
-- [Asynchronous JavaScript: From Callbacks to Async/Await - A Journey Through Evolution](https://dev.to/raxraj/asynchronous-javascript-from-callbacks-to-asyncawait-a-journey-through-evolution-5578)
+- [Exploring New Languages &amp; Tools: What&#39;s on Your List?](https://dev.to/codenewbieteam/exploring-new-languages-tools-whats-on-your-list-2mh6)
+- [AI-created music is here, now what?](https://dev.to/music-discussions/ai-created-music-is-here-now-what-goh)
+- [A clean frontend architecture for React and Redux](https://dev.to/juanoa/a-clean-frontend-architecture-for-react-and-redux-15cn)
+- [What I learned as a Subject Matter Expert while creating my product](https://dev.to/dimanikulin/what-i-learned-as-a-subject-matter-expert-while-creating-my-product-a42)
 <!-- BLOG-POST-LIST:END -->
 
