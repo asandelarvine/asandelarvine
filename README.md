@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Transactions in .NET: From Basics to Best Practices](https://dev.to/bytehide/transactions-in-net-from-basics-to-best-practices-130o)
+- [OpenCommit: killing lame commits with generative AI 🤯🔫 &lpar;open-source&rpar;](https://dev.to/disukharev/opencommit-killing-lame-commits-with-generative-ai-open-source-2gcd)
 - [Cybersecurity Trends to Watch in 2026](https://dev.to/devtripath94447/cybersecurity-trends-to-watch-in-2026-kp6)
-- [How to Build an Extensible System With Less Technical Debt From Start](https://dev.to/zenstack/how-to-build-an-extensible-system-with-less-technical-debt-from-day-one-j8b)
-- [AWS open source newsletter, #155](https://dev.to/aws/aws-open-source-newsletter-155-42kj)
-- [Is Less More? How Do You Embrace Simplicity in Coding?](https://dev.to/codenewbieteam/is-less-more-how-do-you-embrace-simplicity-in-coding-1n44)
+- [Streamline Your Content Creation with the Power of Markdown](https://dev.to/mavensingh/streamline-your-content-creation-with-the-power-of-markdown-19o6)
 <!-- BLOG-POST-LIST:END -->
 
