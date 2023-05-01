@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Write better JavaScript and ReactJs code with Immerjs](https://dev.to/rem0nfawzi/write-better-javascript-and-reactjs-code-with-immerjs-14ml)
-- [Effortlessly update Your Spotify Playlists daily with This Simple Tool](https://dev.to/yogeshwaran01/effortlessly-update-your-spotify-playlists-daily-with-this-simple-tool-1kaa)
-- [Maximizing User Engagement: How to Build a High-Performing React Notification System](https://dev.to/haszankauna/maximizing-user-engagement-how-to-build-a-high-performing-react-notification-system-1kap)
-- [Meme Monday](https://dev.to/ben/meme-monday-3aj1)
+- [Weekly Roundup &lpar;Apr 24&rpar; - 🔥Hot Topics🔥 in workplace, sharepoint, and powerplatform](https://dev.to/jaloplo/weekly-roundup-apr-24-hot-topics-in-workplace-sharepoint-and-powerplatform-3j3h)
+- [Execute a lambda every X minutes](https://dev.to/mxglt/execute-a-lambda-every-x-minutes-o1a)
+- [Exécuter automatiquement une lambda de manière régulière](https://dev.to/mxglt/executer-automatiquement-une-lambda-de-maniere-reguliere-nc1)
+- [The Power of Pair Programming: Benefits, Types, and Tips](https://dev.to/virtualcoffee/the-power-of-pair-programming-benefits-types-and-tips-1h4c)
 <!-- BLOG-POST-LIST:END -->
 
