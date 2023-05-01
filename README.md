@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Write better JavaScript and ReactJs code with Immerjs](https://dev.to/rem0nfawzi/write-better-javascript-and-reactjs-code-with-immerjs-14ml)
 - [Effortlessly update Your Spotify Playlists daily with This Simple Tool](https://dev.to/yogeshwaran01/effortlessly-update-your-spotify-playlists-daily-with-this-simple-tool-1kaa)
 - [Maximizing User Engagement: How to Build a High-Performing React Notification System](https://dev.to/haszankauna/maximizing-user-engagement-how-to-build-a-high-performing-react-notification-system-1kap)
 - [Meme Monday](https://dev.to/ben/meme-monday-3aj1)
-- [Python How-To: Adding Color And Style To Terminal Text](https://dev.to/dev_neil_a/python-how-to-adding-color-and-styles-to-terminal-text-3699)
 <!-- BLOG-POST-LIST:END -->
 
