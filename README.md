@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Programming journey](https://dev.to/tejasgk/my-programming-journey-1ne0)
+- [Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
+- [Mutable or Immutable: Understanding JavaScript&#39;s Yin and Yang](https://dev.to/akramsmahmoud/mutable-or-immutable-understanding-javascripts-yin-and-yang-4ce4)
 - [Exploring New Languages &amp; Tools: What&#39;s on Your List?](https://dev.to/codenewbieteam/exploring-new-languages-tools-whats-on-your-list-2mh6)
-- [AI-created music is here, now what?](https://dev.to/music-discussions/ai-created-music-is-here-now-what-goh)
-- [A clean frontend architecture for React and Redux](https://dev.to/juanoa/a-clean-frontend-architecture-for-react-and-redux-15cn)
-- [What I learned as a Subject Matter Expert while creating my product](https://dev.to/dimanikulin/what-i-learned-as-a-subject-matter-expert-while-creating-my-product-a42)
 <!-- BLOG-POST-LIST:END -->
 
