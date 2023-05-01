@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Transactions in .NET: From Basics to Best Practices](https://dev.to/bytehide/transactions-in-net-from-basics-to-best-practices-130o)
 - [OpenCommit: killing lame commits with generative AI 🤯🔫 &lpar;open-source&rpar;](https://dev.to/disukharev/opencommit-killing-lame-commits-with-generative-ai-open-source-2gcd)
 - [Cybersecurity Trends to Watch in 2026](https://dev.to/devtripath94447/cybersecurity-trends-to-watch-in-2026-kp6)
-- [Streamline Your Content Creation with the Power of Markdown](https://dev.to/mavensingh/streamline-your-content-creation-with-the-power-of-markdown-19o6)
+- [Render ngTemplates dynamically using ViewContainerRef in Angular](https://dev.to/railsstudent/render-ngtemplates-dynamically-using-viewcontainerref-in-angular-17lp)
 <!-- BLOG-POST-LIST:END -->
 
