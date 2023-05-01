@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-45e2)
+- [Pipeline de Deploy Automatizado com GitHub Actions e Docker para EC2](https://dev.to/fabiomaciel/pipeline-de-deploy-automatizado-com-github-actions-e-docker-para-ec2-4aff)
 - [What Was Your First-ever Email Address &amp; Do You Still Use It Today?](https://dev.to/devteam/what-was-your-first-ever-email-address-do-you-still-use-it-today-2c9g)
 - [Using Copilot X: CLI to reorganize my blog](https://dev.to/this-is-learning/using-copilot-x-cli-to-reorganize-my-blog-30ga)
-- [What is WHEP? – Intro to WebRTC Streaming Part 2](https://dev.to/dolbyio/what-is-whep-intro-to-webrtc-streaming-part-2-3d99)
-- [5 Essential Tips to Ease Your Programming Journey : A Beginner&#39;s Guide](https://dev.to/ziadoua/5-essential-tips-to-ease-your-programming-journey-a-beginners-guide-2iog)
 <!-- BLOG-POST-LIST:END -->
 
