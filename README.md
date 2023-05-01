@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 13: New Features and Updates](https://dev.to/abdulkareemtpm/nextjs-13-new-features-and-updates-10c)
-- [How To Host Websites on GitHub Pages](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
-- [The Rise of AI: Is Your CEO Position at Risk?](https://dev.to/christiankesslers/the-rise-of-ai-is-your-ceo-position-at-risk-36gf)
-- [Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
+- [Is Less More? How Do You Embrace Simplicity in Coding?](https://dev.to/codenewbieteam/is-less-more-how-do-you-embrace-simplicity-in-coding-1n44)
+- [Ghostfolio reaches 1’000 Stars on GitHub](https://dev.to/dtslvr/ghostfolio-reaches-1000-stars-on-github-208i)
+- [The Ultimate Guide to Mastering Full-Stack Development in 2023](https://dev.to/imsampro/the-ultimate-guide-to-mastering-full-stack-development-in-2023-15kp)
+- [5 Tips to Optimize Your Ruby on Rails App&#39;s Performance](https://dev.to/ahmadraza/5-tips-to-optimize-your-ruby-on-rails-apps-performance-248a)
 <!-- BLOG-POST-LIST:END -->
 
