@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Git Commit Like A Pro](https://dev.to/stephikebudu/git-commit-like-a-pro-56d8)
 - [Deploy Your Application to ECS via CI/CD with Ecspresso](https://dev.to/atsushii/deploy-your-application-to-ecs-via-cicd-with-ecspresso-34n0)
+- [ActionCable and React for Beginners](https://dev.to/albam476/actioncable-and-react-for-beginners-4gm8)
 - [EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
-- [Networking: Understanding Subnetting](https://dev.to/erinborders/networking-understanding-subnetting-1e3e)
 <!-- BLOG-POST-LIST:END -->
 
