@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #155](https://dev.to/aws/aws-open-source-newsletter-155-42kj)
 - [Is Less More? How Do You Embrace Simplicity in Coding?](https://dev.to/codenewbieteam/is-less-more-how-do-you-embrace-simplicity-in-coding-1n44)
 - [Ghostfolio reaches 1’000 Stars on GitHub](https://dev.to/dtslvr/ghostfolio-reaches-1000-stars-on-github-208i)
 - [The Ultimate Guide to Mastering Full-Stack Development in 2023](https://dev.to/imsampro/the-ultimate-guide-to-mastering-full-stack-development-in-2023-15kp)
-- [5 Tips to Optimize Your Ruby on Rails App&#39;s Performance](https://dev.to/ahmadraza/5-tips-to-optimize-your-ruby-on-rails-apps-performance-248a)
 <!-- BLOG-POST-LIST:END -->
 
