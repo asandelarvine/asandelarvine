@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Compile a single executable from your Node app with Node.js 20 and ESBuild](https://dev.to/chad_r_stewart/compile-a-single-executable-from-your-node-app-with-nodejs-20-and-esbuild-210j)
+- [Getting AWS Certified 100% Free!](https://dev.to/aws-builders/getting-aws-certified-100-free-8od)
 - [My Programming journey](https://dev.to/tejasgk/my-programming-journey-1ne0)
 - [Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
-- [Mutable or Immutable: Understanding JavaScript&#39;s Yin and Yang](https://dev.to/akramsmahmoud/mutable-or-immutable-understanding-javascripts-yin-and-yang-4ce4)
-- [Exploring New Languages &amp; Tools: What&#39;s on Your List?](https://dev.to/codenewbieteam/exploring-new-languages-tools-whats-on-your-list-2mh6)
 <!-- BLOG-POST-LIST:END -->
 
