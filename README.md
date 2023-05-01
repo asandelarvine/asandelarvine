@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top IT Staff Augmentation Services Company USA](https://dev.to/narolainfotechsa/top-it-staff-augmentation-services-company-usa-4f0m)
 - [Next.js 13: New Features and Updates](https://dev.to/abdulkareemtpm/nextjs-13-new-features-and-updates-10c)
 - [How To Host Websites on GitHub Pages](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
 - [The Rise of AI: Is Your CEO Position at Risk?](https://dev.to/christiankesslers/the-rise-of-ai-is-your-ceo-position-at-risk-36gf)
+- [Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
 <!-- BLOG-POST-LIST:END -->
 
