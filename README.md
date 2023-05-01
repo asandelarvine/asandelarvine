@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Roundup &lpar;Apr 24&rpar; - 🔥Hot Topics🔥 in workplace, sharepoint, and powerplatform](https://dev.to/jaloplo/weekly-roundup-apr-24-hot-topics-in-workplace-sharepoint-and-powerplatform-3j3h)
-- [Execute a lambda every X minutes](https://dev.to/mxglt/execute-a-lambda-every-x-minutes-o1a)
-- [Exécuter automatiquement une lambda de manière régulière](https://dev.to/mxglt/executer-automatiquement-une-lambda-de-maniere-reguliere-nc1)
-- [The Power of Pair Programming: Benefits, Types, and Tips](https://dev.to/virtualcoffee/the-power-of-pair-programming-benefits-types-and-tips-1h4c)
+- [How &lpar;not&rpar; to spend $15000 per month with AWS Athena](https://dev.to/aws-builders/how-not-to-spend-15000-per-month-with-aws-athena-1fn8)
+- [83. Remove Duplicates from Sorted List leetcode solution in java](https://dev.to/realnamehidden1_61/83-remove-duplicates-from-sorted-list-leetcode-solution-in-java-131o)
+- [How to deploy Redis Stack Server Statefulset in Kubernetes](https://dev.to/botkids/ho-to-deploy-redis-stack-server-statefulset-in-kubernetes-4j8g)
+- [Asynchronous JavaScript: From Callbacks to Async/Await - A Journey Through Evolution](https://dev.to/raxraj/asynchronous-javascript-from-callbacks-to-asyncawait-a-journey-through-evolution-5578)
 <!-- BLOG-POST-LIST:END -->
 
