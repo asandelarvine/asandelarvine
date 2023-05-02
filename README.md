@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate line chart in card [React]](https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do)
-- [Win amazing prizes with ConnectNovu Hackathon 🚀](https://dev.to/novu/win-amazing-prizes-with-connectnovu-hackathon-10pf)
-- [High level guide for developing IBM QRadar Apps](https://dev.to/sbs2001/high-level-guide-for-developing-ibm-qradar-apps-49cm)
-- [Garbage collection](https://dev.to/muhmmadawd/garbage-collection-10n9)
+- [Boost Your Ruby Methods with Yield: A Flexible Approach to Dynamic Coding](https://dev.to/codenewbieteam/boost-your-ruby-methods-with-yield-a-flexible-approach-to-dynamic-coding-4b6h)
+- [What Are the Potential Consequences of AI and Automation on Employment and the Workforce?&quot;](https://dev.to/devteam/what-are-the-potential-consequences-of-ai-and-automation-on-employment-and-the-workforce-3ded)
+- [How Would You Explain Coding to a Beginner?](https://dev.to/codenewbieteam/how-would-you-explain-coding-to-a-beginner-56k0)
+- [Deep and Shallow Copy in JavaScript: An In-Depth Guide](https://dev.to/chanchals7/deep-and-shallow-copy-in-javascript-an-in-depth-guide-51o9)
 <!-- BLOG-POST-LIST:END -->
 
