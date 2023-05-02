@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Garbage collection](https://dev.to/muhmmadawd/garbage-collection-10n9)
+- [Optimize your Angular app&#39;s user experience with preloading strategies](https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7)
 - [Dynamic Programming Algorithms Every Programmer Should Know](https://dev.to/rahul3002/dynamic-programming-algorithms-every-programmer-should-know-3pfh)
 - [Why is it so hard to create PWA with Next.js?](https://dev.to/imamdev_/why-is-it-so-hard-to-create-pwa-with-nextjs-2g71)
-- [A new approach to caching in continuous integration &lpar;CI&rpar;](https://dev.to/nofar/a-new-approach-to-caching-in-continuous-integration-ci-18ac)
-- [How to Generate Income from Your Blog](https://dev.to/canburaks/how-to-generate-income-from-your-blog-26cl)
 <!-- BLOG-POST-LIST:END -->
 
