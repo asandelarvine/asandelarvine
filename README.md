@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SET UP 2FA IN NODE.JS WITH SPEAKEASY](https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389)
 - [Custom Response Statuses and Redirection in Next.js getServerSideProps](https://dev.to/hi_iam_chris/custom-response-statuses-and-redirection-in-nextjs-getserversideprops-b8l)
 - [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
 - [Sitecore Federated Authentication and that annoying error IDX21323: RequireNonce is &#39;[PII is hidden]&#39;](https://dev.to/annagevel/sitecore-federated-authentication-and-that-annoying-error-idx21323-requirenonce-is-pii-is-hidden-4kol)
-- [How to Fine-Tune an OpenAI ML Model with Node.js](https://dev.to/twilio/how-to-fine-tune-an-openai-ml-model-with-nodejs-4c9j)
 <!-- BLOG-POST-LIST:END -->
 
