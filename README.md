@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
 - [Sitecore Federated Authentication and that annoying error IDX21323: RequireNonce is &#39;[PII is hidden]&#39;](https://dev.to/annagevel/sitecore-federated-authentication-and-that-annoying-error-idx21323-requirenonce-is-pii-is-hidden-4kol)
 - [How to Fine-Tune an OpenAI ML Model with Node.js](https://dev.to/twilio/how-to-fine-tune-an-openai-ml-model-with-nodejs-4c9j)
 - [How do you debug a Python script that crashes Python itself?](https://dev.to/clpsplug/how-do-you-debug-a-python-script-that-crashes-python-itself-4hpc)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o85)
 <!-- BLOG-POST-LIST:END -->
 
