@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is it so hard to create PWA with Next.js?](https://dev.to/imamdev_/why-is-it-so-hard-to-create-pwa-with-nextjs-2g71)
+- [A new approach to caching in continuous integration &lpar;CI&rpar;](https://dev.to/nofar/a-new-approach-to-caching-in-continuous-integration-ci-18ac)
 - [How to Generate Income from Your Blog](https://dev.to/canburaks/how-to-generate-income-from-your-blog-26cl)
 - [My First Month in the SCA Cloud School: A journey of Learning and growth.](https://dev.to/jeptoo/my-first-month-in-the-sca-cloud-school-a-journey-of-learning-and-growth-1a5g)
-- [Understanding Primary Keys, Foreign Keys, and Constraints in SQL](https://dev.to/jolamemushaj/understanding-primary-keys-foreign-keys-and-constraints-in-sql-22co)
-- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-45e2)
 <!-- BLOG-POST-LIST:END -->
 
