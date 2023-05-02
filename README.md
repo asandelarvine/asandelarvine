@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [State Management in React.js: How useState Makes Your Life Easier 🎉](https://dev.to/almonteluis/state-management-in-reactjs-how-usestate-makes-your-life-easier-ff0)
+- [🧪 5 Handy Websites to Learn How To Write Unit Tests](https://dev.to/evergrowingdev/5-handy-websites-to-learn-how-to-write-unit-tests-55p9)
+- [common mistakes to avoid when working with React](https://dev.to/munavvar/common-mistakes-to-avoid-when-working-with-react-2f61)
 - [Revolutionize JSON Parsing in Java with Manifold](https://dev.to/codenameone/revolutionize-json-parsing-in-java-with-manifold-33f9)
-- [The Best Strategies to Slim Docker Images: How to Reduce Docker Image Size](https://dev.to/chegerose/the-best-strategies-to-slim-docker-images-how-to-reduce-docker-image-size-3l2c)
-- [One Stop For All Third-party Payments Paypal, Stripe, Google Pay, Debit card](https://dev.to/shreyvijayvargiya/one-stop-for-all-third-party-payments-paypal-stripe-google-pay-debit-card-1hm2)
-- [Don&#39;t obsess about choosing a first programming language, be water!](https://dev.to/bitmaybewise/dont-obsess-about-choosing-a-first-programming-language-be-water-1jb7)
 <!-- BLOG-POST-LIST:END -->
 
