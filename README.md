@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Traceo](https://dev.to/satorugojo/introduction-to-traceo-40d)
-- [Crush Your React and Redux Interview: 20+ Top Questions and Strategies](https://dev.to/jeffsalive/crush-your-react-and-redux-interview-20-top-questions-and-strategies-5226)
-- [Announcing Medusa’s Community Publication](https://dev.to/medusajs/announcing-medusas-community-publication-e3f)
-- [Building a course landing page with NextJS and React](https://dev.to/github20k/building-a-course-landing-page-with-nextjs-and-react-56kc)
+- [One Stop For All Third-party Payments Paypal, Stripe, Google Pay, Debit card](https://dev.to/shreyvijayvargiya/one-stop-for-all-third-party-payments-paypal-stripe-google-pay-debit-card-1hm2)
+- [Say no to &quot;flickering&quot; UI: useLayoutEffect, painting and browsers story](https://dev.to/adevnadia/say-no-to-flickering-ui-uselayouteffect-painting-and-browsers-story-3aj5)
+- [AWS VPC Explained with Terraform](https://dev.to/jhooq/aws-vpc-explained-with-terraform-362a)
+- [Using Webpack with Spring Boot](https://dev.to/tleipzig/using-webpack-with-spring-boot-b24)
 <!-- BLOG-POST-LIST:END -->
 
