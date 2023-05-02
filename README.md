@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Traceo](https://dev.to/satorugojo/introduction-to-traceo-40d)
+- [Crush Your React and Redux Interview: 20+ Top Questions and Strategies](https://dev.to/jeffsalive/crush-your-react-and-redux-interview-20-top-questions-and-strategies-5226)
+- [Announcing Medusa’s Community Publication](https://dev.to/medusajs/announcing-medusas-community-publication-e3f)
 - [Building a course landing page with NextJS and React](https://dev.to/github20k/building-a-course-landing-page-with-nextjs-and-react-56kc)
-- [Share Your Insights: How to master JavaScript.](https://dev.to/ugbabeog/share-your-insights-how-to-master-javascript-3oj1)
-- [Superpowers with Directives and Dependency Injection: Part 6](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-6-4ok4)
-- [why is my intersectionObserver not recognizing &lt;section&gt; tag?](https://dev.to/ugbabeog/why-is-my-intersectionobserver-not-recognizing-tag-ho8)
 <!-- BLOG-POST-LIST:END -->
 
