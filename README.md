@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [SET UP 2FA IN NODE.JS WITH SPEAKEASY](https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389)
+- [First post - Who am I?](https://dev.to/monco_carser/first-post-who-am-i-1op1)
 - [Custom Response Statuses and Redirection in Next.js getServerSideProps](https://dev.to/hi_iam_chris/custom-response-statuses-and-redirection-in-nextjs-getserversideprops-b8l)
 - [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
-- [Sitecore Federated Authentication and that annoying error IDX21323: RequireNonce is &#39;[PII is hidden]&#39;](https://dev.to/annagevel/sitecore-federated-authentication-and-that-annoying-error-idx21323-requirenonce-is-pii-is-hidden-4kol)
 <!-- BLOG-POST-LIST:END -->
 
