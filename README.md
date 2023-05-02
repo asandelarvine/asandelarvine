@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sitecore Federated Authentication and that annoying error IDX21323: RequireNonce is &#39;[PII is hidden]&#39;](https://dev.to/annagevel/sitecore-federated-authentication-and-that-annoying-error-idx21323-requirenonce-is-pii-is-hidden-4kol)
+- [How do you debug a Python script that crashes Python itself?](https://dev.to/clpsplug/how-do-you-debug-a-python-script-that-crashes-python-itself-4hpc)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o85)
 - [AdaGPT: AI support for Issues and Pull Requests right at your fingertips!](https://dev.to/zirkelc/adagpt-ai-support-for-issues-and-pull-requests-right-at-your-fingertips-3016)
-- [Using modern decorators in TypeScript](https://dev.to/logrocket/using-modern-decorators-in-typescript-8nd)
-- [Gestión de producto: como planificar incrementos junto con los usuarios](https://dev.to/alelazcano/gestion-de-producto-como-planificar-incrementos-junto-con-los-usuarios-5bp3)
 <!-- BLOG-POST-LIST:END -->
 
