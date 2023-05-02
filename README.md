@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to integrate line chart in card [React]](https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do)
+- [Win amazing prizes with ConnectNovu Hackathon 🚀](https://dev.to/novu/win-amazing-prizes-with-connectnovu-hackathon-10pf)
+- [High level guide for developing IBM QRadar Apps](https://dev.to/sbs2001/high-level-guide-for-developing-ibm-qradar-apps-49cm)
 - [Garbage collection](https://dev.to/muhmmadawd/garbage-collection-10n9)
-- [Optimize your Angular app&#39;s user experience with preloading strategies](https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7)
-- [Dynamic Programming Algorithms Every Programmer Should Know](https://dev.to/rahul3002/dynamic-programming-algorithms-every-programmer-should-know-3pfh)
-- [Why is it so hard to create PWA with Next.js?](https://dev.to/imamdev_/why-is-it-so-hard-to-create-pwa-with-nextjs-2g71)
 <!-- BLOG-POST-LIST:END -->
 
