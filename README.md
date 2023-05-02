@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Gestión de producto: como planificar incrementos junto con los usuarios](https://dev.to/alelazcano/gestion-de-producto-como-planificar-incrementos-junto-con-los-usuarios-5bp3)
 - [State Management in React.js: How useState Makes Your Life Easier 🎉](https://dev.to/almonteluis/state-management-in-reactjs-how-usestate-makes-your-life-easier-ff0)
 - [🧪 5 Handy Websites to Learn How To Write Unit Tests](https://dev.to/evergrowingdev/5-handy-websites-to-learn-how-to-write-unit-tests-55p9)
 - [common mistakes to avoid when working with React](https://dev.to/munavvar/common-mistakes-to-avoid-when-working-with-react-2f61)
-- [Revolutionize JSON Parsing in Java with Manifold](https://dev.to/codenameone/revolutionize-json-parsing-in-java-with-manifold-33f9)
 <!-- BLOG-POST-LIST:END -->
 
