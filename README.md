@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Ruby Methods with Yield: A Flexible Approach to Dynamic Coding](https://dev.to/codenewbieteam/boost-your-ruby-methods-with-yield-a-flexible-approach-to-dynamic-coding-4b6h)
-- [What Are the Potential Consequences of AI and Automation on Employment and the Workforce?&quot;](https://dev.to/devteam/what-are-the-potential-consequences-of-ai-and-automation-on-employment-and-the-workforce-3ded)
-- [How Would You Explain Coding to a Beginner?](https://dev.to/codenewbieteam/how-would-you-explain-coding-to-a-beginner-56k0)
-- [Deep and Shallow Copy in JavaScript: An In-Depth Guide](https://dev.to/chanchals7/deep-and-shallow-copy-in-javascript-an-in-depth-guide-51o9)
+- [why is my intersectionObserver not recognizing &lt;section&gt; tag?](https://dev.to/ugbabeog/why-is-my-intersectionobserver-not-recognizing-tag-ho8)
+- [From Zero to Frontend Hero: Tips for Beginner Developers in 2023](https://dev.to/imsampro/from-zero-to-frontend-hero-tips-for-beginner-developers-in-2023-2gag)
+- [How To Add In-App Notifications To Your Angular App](https://dev.to/novu/how-to-add-in-app-notifications-to-your-angular-app-2dp3)
+- [⭐ An open-source tool for building React enterprise apps effortlessly in your browser](https://dev.to/necatiozmen/an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7)
 <!-- BLOG-POST-LIST:END -->
 
