@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionize JSON Parsing in Java with Manifold](https://dev.to/codenameone/revolutionize-json-parsing-in-java-with-manifold-33f9)
 - [The Best Strategies to Slim Docker Images: How to Reduce Docker Image Size](https://dev.to/chegerose/the-best-strategies-to-slim-docker-images-how-to-reduce-docker-image-size-3l2c)
 - [One Stop For All Third-party Payments Paypal, Stripe, Google Pay, Debit card](https://dev.to/shreyvijayvargiya/one-stop-for-all-third-party-payments-paypal-stripe-google-pay-debit-card-1hm2)
-- [Say no to &quot;flickering&quot; UI: useLayoutEffect, painting and browsers story](https://dev.to/adevnadia/say-no-to-flickering-ui-uselayouteffect-painting-and-browsers-story-3aj5)
-- [AWS VPC Explained with Terraform](https://dev.to/jhooq/aws-vpc-explained-with-terraform-362a)
+- [Don&#39;t obsess about choosing a first programming language, be water!](https://dev.to/bitmaybewise/dont-obsess-about-choosing-a-first-programming-language-be-water-1jb7)
 <!-- BLOG-POST-LIST:END -->
 
