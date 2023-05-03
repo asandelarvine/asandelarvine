@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Surviving A Job Performance Plan: Is There Hope?](https://dev.to/devteam/sloans-inbox-surviving-a-job-performance-plan-is-there-hope-550g)
 - [Connecting an App Service to Azure SQL Database and Storage Account using Azure CLI](https://dev.to/danielfavour/connecting-an-app-service-to-azure-sql-database-and-storage-account-using-azure-cli-1on6)
+- [So ... This is Your 1st Tech Conference : #VolunteerEdition](https://dev.to/nerajno/so-this-is-your-1st-tech-conference-volunteeredition-450c)
 - [Creating your First Graph Database.](https://dev.to/chidera/creating-your-first-graph-database-7mm)
-- [Building Travel Advisory Apps with Cloudera Data Flow &lpar;built on Apache NiFi&rpar;](https://dev.to/tspannhw/building-travel-advisory-apps-with-cloudera-data-flow-built-on-apache-nifi-1k7d)
-- [Lessons we learned while building a stateful Kafka connector and tips for creating yours](https://dev.to/bytewax/lessons-we-learned-while-building-a-stateful-kafka-connector-and-tips-for-creating-yours-157b)
 <!-- BLOG-POST-LIST:END -->
 
