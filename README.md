@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A love story of Svelte and JSX 💖](https://dev.to/rajaniraiyn/a-love-story-of-svelte-and-jsx-13j)
-- [Welcome Thread - v223](https://dev.to/devteam/welcome-thread-v223-1ig7)
-- [Introduction to DevOps](https://dev.to/lancelot03/introduction-to-devops-nid)
-- [The DevOps Revolution: Transforming Software Delivery and Collaboration](https://dev.to/rainleander/the-devops-revolution-transforming-software-delivery-and-collaboration-4850)
+- [RKE ile Kubernetes altyapısını hazırlama](https://dev.to/aciklab/rke-ile-kubernetes-altyapisini-hazirlama-53oi)
+- [Key Features to Look for When Buying Poker Software: A Comprehensive Guide](https://dev.to/pokerscript/key-features-to-look-for-when-buying-poker-software-a-comprehensive-guide-23d5)
+- [The basics to understanding Concurrency Control in PostgreSQL](https://dev.to/hannan2910/the-basics-to-understanding-concurrency-control-in-postgresql-31ji)
+- [Star Catcher: Using ChatGPT and Midjourney make a Game completely from Scratch](https://dev.to/hackythings/star-catcher-using-chatgpt-and-midjourney-make-a-game-completely-from-scratch-4d06)
 <!-- BLOG-POST-LIST:END -->
 
