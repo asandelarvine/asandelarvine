@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Still Uses jQuery Regularly, and Why?](https://dev.to/devteam/who-still-uses-jquery-regularly-and-why-700)
+- [How Do You Ensure That Your Code is Scalable &amp; Maintainable?](https://dev.to/codenewbieteam/how-do-you-ensure-that-your-code-is-scalable-maintainable-jf9)
+- [Docker : From Zero to Hero 🛸 &lpar; part 1&rpar;](https://dev.to/prasenjeetsymon/docker-from-zero-to-hero-part-1-3a45)
 - [I Created A Web App That Went Viral On Linkedin 🔥](https://dev.to/rammcodes/i-created-a-web-app-that-went-viral-on-linkedin-e8c)
-- [Server-Side Rendering in React](https://dev.to/munavvar/server-side-rendering-in-react-3ngo)
-- [&quot;Everyone Should Learn to Code&quot; is Bullshit](https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk)
-- [A Quick Tutorial for GitKraken - A Comprehensive Guide for Beginners](https://dev.to/abhixsh/a-quick-tutorial-for-gitkraken-a-comprehensive-guide-for-beginners-1323)
 <!-- BLOG-POST-LIST:END -->
 
