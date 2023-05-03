@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
 - [Native AOT: The Future of .NET App Development](https://dev.to/bytehide/native-aot-the-future-of-net-app-development-47ha)
 - [Dynamically Managing Dependencies In Your Python Projects](https://dev.to/devvspaces/dynamically-managing-dependencies-in-your-python-projects-4pai)
 - [How to Change Solution Owner in the Power Platform](https://dev.to/wyattdave/how-to-change-solution-owner-in-the-power-platform-1jnb)
-- [Python best practices](https://dev.to/abdulmuminyqn/python-best-practices-406f)
 <!-- BLOG-POST-LIST:END -->
 
