@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Native AOT: The Future of .NET App Development](https://dev.to/bytehide/native-aot-the-future-of-net-app-development-47ha)
 - [Dynamically Managing Dependencies In Your Python Projects](https://dev.to/devvspaces/dynamically-managing-dependencies-in-your-python-projects-4pai)
+- [How to Change Solution Owner in the Power Platform](https://dev.to/wyattdave/how-to-change-solution-owner-in-the-power-platform-1jnb)
 - [Python best practices](https://dev.to/abdulmuminyqn/python-best-practices-406f)
-- [Top Free 10 Figma Toolkits to Build Custom Design Systems](https://dev.to/function12_io/top-free-10-figma-toolkits-to-build-custom-design-systems-58jj)
-- [How Do You Ensure That Your Code is Scalable &amp; Maintainable?](https://dev.to/codenewbieteam/how-do-you-ensure-that-your-code-is-scalable-maintainable-jf9)
 <!-- BLOG-POST-LIST:END -->
 
