@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SET UP 2FA IN NODE.JS WITH SPEAKEASY](https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389)
-- [First post - Who am I?](https://dev.to/monco_carser/first-post-who-am-i-1op1)
-- [Custom Response Statuses and Redirection in Next.js getServerSideProps](https://dev.to/hi_iam_chris/custom-response-statuses-and-redirection-in-nextjs-getserversideprops-b8l)
-- [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
+- [Tinker like a 10x: Mastering Artisan Tinker REPL for Laravel Part 2](https://dev.to/alphaolomi/tinker-like-a-10x-mastering-artisan-tinker-repl-for-laravel-part-2-1c8f)
+- [An Ode to Technical Writing, Non-Linear Careers, and Other Things I Learned This Week...](https://dev.to/codenewbieteam/an-ode-to-technical-writing-non-linear-careers-and-other-things-i-learned-this-week-2474)
+- [Javascript Password Generator.](https://dev.to/thekalderon/javascript-password-generator-5gg)
+- [Setting up TailwindCSS + SASS with EmberJS](https://dev.to/cathzchen/setting-up-tailwindcss-sass-with-emberjs-4p42)
 <!-- BLOG-POST-LIST:END -->
 
