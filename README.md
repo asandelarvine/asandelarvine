@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical Intro to Operator Overloading in Dart](https://dev.to/ethiel97/practical-intro-to-operator-overloading-in-dart-58eh)
+- [How to Choose the Best Laptop for Your Needs?](https://dev.to/sharktune/how-to-choose-the-best-laptop-for-your-needs-306h)
+- [Creating An Oscillator With The Web Audio API](https://dev.to/rayalva407/creating-an-oscillator-with-the-web-audio-api-5b8m)
 - [Tinker like a 10x: Mastering Artisan Tinker REPL for Laravel Part 2](https://dev.to/alphaolomi/tinker-like-a-10x-mastering-artisan-tinker-repl-for-laravel-part-2-1c8f)
-- [An Ode to Technical Writing, Non-Linear Careers, and Other Things I Learned This Week...](https://dev.to/codenewbieteam/an-ode-to-technical-writing-non-linear-careers-and-other-things-i-learned-this-week-2474)
-- [Javascript Password Generator.](https://dev.to/thekalderon/javascript-password-generator-5gg)
-- [Setting up TailwindCSS + SASS with EmberJS](https://dev.to/cathzchen/setting-up-tailwindcss-sass-with-emberjs-4p42)
 <!-- BLOG-POST-LIST:END -->
 
