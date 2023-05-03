@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I Created A Web App That Went Viral On Linkedin 🔥](https://dev.to/rammcodes/i-created-a-web-app-that-went-viral-on-linkedin-e8c)
+- [Server-Side Rendering in React](https://dev.to/munavvar/server-side-rendering-in-react-3ngo)
 - [&quot;Everyone Should Learn to Code&quot; is Bullshit](https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk)
 - [A Quick Tutorial for GitKraken - A Comprehensive Guide for Beginners](https://dev.to/abhixsh/a-quick-tutorial-for-gitkraken-a-comprehensive-guide-for-beginners-1323)
-- [Intro to React, Components and Props](https://dev.to/familymanjosh/intro-to-react-components-and-props-2492)
-- [What Are Aggregates In Domain-Driven Design?](https://dev.to/jamesmh/what-are-aggregates-in-domain-driven-design-16nh)
 <!-- BLOG-POST-LIST:END -->
 
