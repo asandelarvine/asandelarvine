@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Use Bootstrap Alerts, Warning, Error, Success Messages](https://dev.to/scofieldidehen/5-ways-to-use-bootstrap-alerts-warning-error-success-messages-del)
+- [Learn Golang By Building A 2D Snake Game: A Complete Guide](https://dev.to/mavensingh/learn-golang-by-building-a-2d-snake-game-a-complete-guide-4mpf)
 - [Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
-- [Native AOT: The Future of .NET App Development](https://dev.to/bytehide/native-aot-the-future-of-net-app-development-47ha)
-- [Dynamically Managing Dependencies In Your Python Projects](https://dev.to/devvspaces/dynamically-managing-dependencies-in-your-python-projects-4pai)
-- [How to Change Solution Owner in the Power Platform](https://dev.to/wyattdave/how-to-change-solution-owner-in-the-power-platform-1jnb)
+- [:root isn&#39;t global](https://dev.to/kilianvalkhof/root-isnt-global-2km8)
 <!-- BLOG-POST-LIST:END -->
 
