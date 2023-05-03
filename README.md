@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Browser Flashcards](https://dev.to/callmehongmaybe/introducing-browser-flashcards-2kj1)
+- [Crafting Songs with CHATGPT and Sonic Pi: A Creative Collaboration](https://dev.to/philipjohnbasile/crafting-songs-with-chatgpt-and-sonic-pi-a-creative-collaboration-4p3d)
 - [How to implement a date picker in React](https://dev.to/refine/how-to-implement-a-date-picker-in-react-1n5l)
 - [Scikit-Learn Code Snippets for Common Machine Learning Tasks: A Comprehensive Guide for Beginners](https://dev.to/phylis/scikit-learn-code-snippets-for-common-machine-learning-tasks-a-comprehensive-guide-for-beginners-2358)
-- [Organization as Motivation](https://dev.to/jessica_veit/organization-as-motivation-1eeg)
-- [Serverless Facial Recognition Voting Application Using AWS Services](https://dev.to/aws-builders/serverless-facial-recognition-voting-application-using-aws-services-n26)
 <!-- BLOG-POST-LIST:END -->
 
