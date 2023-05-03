@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Everyone Should Learn to Code&quot; is Bullshit](https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk)
 - [A Quick Tutorial for GitKraken - A Comprehensive Guide for Beginners](https://dev.to/abhixsh/a-quick-tutorial-for-gitkraken-a-comprehensive-guide-for-beginners-1323)
 - [Intro to React, Components and Props](https://dev.to/familymanjosh/intro-to-react-components-and-props-2492)
-- [Practical Intro to Operator Overloading in Dart](https://dev.to/ethiel97/practical-intro-to-operator-overloading-in-dart-58eh)
-- [How to Choose the Best Laptop for Your Needs?](https://dev.to/sharktune/how-to-choose-the-best-laptop-for-your-needs-306h)
+- [What Are Aggregates In Domain-Driven Design?](https://dev.to/jamesmh/what-are-aggregates-in-domain-driven-design-16nh)
 <!-- BLOG-POST-LIST:END -->
 
