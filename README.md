@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways to Use Bootstrap Alerts, Warning, Error, Success Messages](https://dev.to/scofieldidehen/5-ways-to-use-bootstrap-alerts-warning-error-success-messages-del)
-- [Learn Golang By Building A 2D Snake Game: A Complete Guide](https://dev.to/mavensingh/learn-golang-by-building-a-2d-snake-game-a-complete-guide-4mpf)
-- [Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
-- [:root isn&#39;t global](https://dev.to/kilianvalkhof/root-isnt-global-2km8)
+- [How to implement a date picker in React](https://dev.to/refine/how-to-implement-a-date-picker-in-react-1n5l)
+- [Scikit-Learn Code Snippets for Common Machine Learning Tasks: A Comprehensive Guide for Beginners](https://dev.to/phylis/scikit-learn-code-snippets-for-common-machine-learning-tasks-a-comprehensive-guide-for-beginners-2358)
+- [Organization as Motivation](https://dev.to/jessica_veit/organization-as-motivation-1eeg)
+- [Serverless Facial Recognition Voting Application Using AWS Services](https://dev.to/aws-builders/serverless-facial-recognition-voting-application-using-aws-services-n26)
 <!-- BLOG-POST-LIST:END -->
 
