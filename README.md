@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Browser Flashcards](https://dev.to/callmehongmaybe/introducing-browser-flashcards-2kj1)
-- [Crafting Songs with CHATGPT and Sonic Pi: A Creative Collaboration](https://dev.to/philipjohnbasile/crafting-songs-with-chatgpt-and-sonic-pi-a-creative-collaboration-4p3d)
-- [How to implement a date picker in React](https://dev.to/refine/how-to-implement-a-date-picker-in-react-1n5l)
-- [Scikit-Learn Code Snippets for Common Machine Learning Tasks: A Comprehensive Guide for Beginners](https://dev.to/phylis/scikit-learn-code-snippets-for-common-machine-learning-tasks-a-comprehensive-guide-for-beginners-2358)
+- [How to open source code from a private monorepo](https://dev.to/carlossantillana/how-to-open-source-code-from-a-private-monorepo-262o)
+- [Monotonic Stack](https://dev.to/metaverse/monotonic-stack-4lkb)
+- [Como escolher o melhor Framework ou processador de CSS pra você](https://dev.to/lixeletto/como-escolher-o-melhor-framework-ou-processador-de-css-pra-voce-5598)
+- [The Good, the Bad, and the Biased: Is Bias in Generative AI a Flaw or a Feature?](https://dev.to/devsatasurion/the-good-the-bad-and-the-biased-is-bias-in-generative-ai-a-flaw-or-a-feature-57go)
 <!-- BLOG-POST-LIST:END -->
 
