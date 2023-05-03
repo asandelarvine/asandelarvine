@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamically Managing Dependencies In Your Python Projects](https://dev.to/devvspaces/dynamically-managing-dependencies-in-your-python-projects-4pai)
 - [Python best practices](https://dev.to/abdulmuminyqn/python-best-practices-406f)
 - [Top Free 10 Figma Toolkits to Build Custom Design Systems](https://dev.to/function12_io/top-free-10-figma-toolkits-to-build-custom-design-systems-58jj)
 - [How Do You Ensure That Your Code is Scalable &amp; Maintainable?](https://dev.to/codenewbieteam/how-do-you-ensure-that-your-code-is-scalable-maintainable-jf9)
-- [Who Still Uses jQuery Regularly, and Why?](https://dev.to/devteam/who-still-uses-jquery-regularly-and-why-700)
 <!-- BLOG-POST-LIST:END -->
 
