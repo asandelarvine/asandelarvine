@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #144: Million.js, Layout Animations, Qwik, Lingui, Remix, React-Router, React-Native macOS, Expo Modules...](https://dev.to/sebastienlorber/this-week-in-react-144-millionjs-layout-animations-qwik-lingui-remix-react-router-react-native-macos-expo-modules-h0d)
-- [How Some Software Engineers More Effective Than Others?](https://dev.to/nilanth/how-some-software-engineers-are-more-effective-than-others-51o5)
-- [How to open source code from a private monorepo](https://dev.to/carlossantillana/how-to-open-source-code-from-a-private-monorepo-262o)
-- [Monotonic Stack](https://dev.to/metaverse/monotonic-stack-4lkb)
+- [A love story of Svelte and JSX 💖](https://dev.to/rajaniraiyn/a-love-story-of-svelte-and-jsx-13j)
+- [Welcome Thread - v223](https://dev.to/devteam/welcome-thread-v223-1ig7)
+- [Introduction to DevOps](https://dev.to/lancelot03/introduction-to-devops-nid)
+- [The DevOps Revolution: Transforming Software Delivery and Collaboration](https://dev.to/rainleander/the-devops-revolution-transforming-software-delivery-and-collaboration-4850)
 <!-- BLOG-POST-LIST:END -->
 
