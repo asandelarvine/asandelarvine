@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fewer pipettes: Reflections on a web dev learning AI](https://dev.to/saronyitbarek/fewer-pipettes-reflections-on-a-web-dev-learning-ai-5gl8)
+- [Folder structure in a React hexagonal architecture](https://dev.to/juanoa/folder-structure-in-a-react-hexagonal-architecture-h77)
 - [Modern Cloud Workflow with Pebl - Part 3](https://dev.to/pebl/modern-cloud-workflow-with-pebl-part-3-305o)
 - [Top 5 VS Code extensions](https://dev.to/appmap/top-5-vs-code-extensions-4ncd)
-- [The White House signaled support for potential new AI regulations](https://dev.to/ben/the-white-house-signaled-support-for-potential-new-ai-regulations-edi)
-- [May the Fourth Be with You: Jedi Training Challenge in Python](https://dev.to/rainleander/may-the-fourth-be-with-you-jedi-training-challenge-in-python-29n8)
 <!-- BLOG-POST-LIST:END -->
 
