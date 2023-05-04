@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate an SSRS Report as a Password-Protected PDF Using the Bold Reports Report Writer](https://dev.to/boldreports/how-to-generate-an-ssrs-report-as-a-password-protected-pdf-using-the-bold-reports-report-writer-m8l)
+- [🚀 Getting Started with EC2 Instances: A Beginner&#39;s Guide](https://dev.to/brandonbawe/getting-started-with-ec2-instances-a-beginners-guide-jlc)
 - [The Psychology of Success in Tech is a Complex Beast. What does it Take to Succeed in the Tech Industry?](https://dev.to/jeffsalive/the-psychology-of-success-in-tech-is-a-complex-beast-what-does-it-take-to-succeed-in-the-tech-industry-gn0)
-- [React Testing Library &amp; Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
-- [Dear Beginner, it gets better.](https://dev.to/_aaallison/dear-beginner-it-gets-better-1303)
-- [CSS Architecture &lpar;BEM - OOCSS - Functional CSS - CSS in Js&rpar; - EN](https://dev.to/guscarpim/css-architecture-bem-ooscss-functional-css-css-in-js-en-5b9h)
+- [10 Cool CodePen Demos &lpar;April 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-23-1p0m)
 <!-- BLOG-POST-LIST:END -->
 
