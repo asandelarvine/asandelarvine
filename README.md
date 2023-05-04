@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [create html , css and js - without code](https://dev.to/aieeeo/create-html-css-and-js-without-code-d8h)
+- [May The 4th be with you.](https://dev.to/jarvisscript/may-the-4th-be-with-you-5f7j)
 - [Jedi Training Challenge](https://dev.to/devteam/jedi-training-challenge-5a48)
 - [The universal CSS * selector isn&#39;t actually universal](https://dev.to/whitep4nth3r/the-universal-css-selector-isnt-actually-universal-1jd0)
-- [The Bubble Figure: Integrating Tensorflow.js With Three.js and Cannon-es to Create Interactive Art](https://dev.to/idosius/the-bubble-figure-integrating-tensorflowjs-with-threejs-and-cannon-es-to-create-interactive-art-b8e)
-- [The more I hear from the experts, the more worried I get about AI](https://dev.to/michaeltharrington/the-more-i-hear-from-the-experts-the-more-worried-i-get-about-ai-60d)
 <!-- BLOG-POST-LIST:END -->
 
