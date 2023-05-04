@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Server-side rendering in Rust - a Dall.E use-case](https://dev.to/nfrankel/server-side-rendering-in-rust-a-dalle-use-case-33jp)
 - [PostgreSQL on OpenBSD: Upgrade 14 to 15 with pg_upgrade](https://dev.to/nabbisen/postgresql-on-openbsd-upgrade-14-to-15-with-pgupgrade-946)
+- [Getting Started with Cypher Query Language: A Beginner&#39;s Guide](https://dev.to/abdulsamad4068/getting-started-with-cypher-query-language-a-beginners-guide-2c5m)
 - [How to Deploy a Next.js 13 App to AWS with Amplify Hosting](https://dev.to/femi_dev/how-to-deploy-a-nextjs-13-app-to-aws-with-amplify-hosting-5327)
-- [Star Wars Tech: How Does It Compare to Current Technology?](https://dev.to/devteam/star-wars-tech-how-does-it-compare-to-current-technology-409o)
-- [Which Star Wars Character Would Make the Best Developer?](https://dev.to/codenewbieteam/which-star-wars-character-would-make-the-best-developer-o3g)
 <!-- BLOG-POST-LIST:END -->
 
