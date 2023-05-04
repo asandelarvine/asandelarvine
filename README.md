@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The White House signaled support for potential new AI regulations](https://dev.to/ben/the-white-house-signaled-support-for-potential-new-ai-regulations-edi)
+- [May the Fourth Be with You: Jedi Training Challenge in Python](https://dev.to/rainleander/may-the-fourth-be-with-you-jedi-training-challenge-in-python-29n8)
+- [May the Fourth Be With You](https://dev.to/amplication/may-the-fourth-be-with-you-1d90)
 - [Dynamic NFTs 101: An Introduction to the Future of Non-Fungible Tokens](https://dev.to/galaxiastudios/dynamic-nfts-101-an-introduction-to-the-future-of-non-fungible-tokens-2olp)
-- [How to convert Figma components to Next.js with Tailwind CSS](https://dev.to/logrocket/how-to-convert-figma-components-to-nextjs-with-tailwind-css-2hd0)
-- [Fleet Provisioning for Embedded Linux Devices with AWS IoT Greengrass](https://dev.to/iotbuilders/fleet-provisioning-for-embedded-linux-devices-with-aws-iot-greengrass-4h8b)
-- [A New Beginning: My First Steps into the World of Software Engineering](https://dev.to/aggsdp/a-new-beginning-my-first-steps-into-the-world-of-software-engineering-3n7o)
 <!-- BLOG-POST-LIST:END -->
 
