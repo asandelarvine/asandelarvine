@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-side rendering in Rust - a Dall.E use-case](https://dev.to/nfrankel/server-side-rendering-in-rust-a-dalle-use-case-33jp)
-- [PostgreSQL on OpenBSD: Upgrade 14 to 15 with pg_upgrade](https://dev.to/nabbisen/postgresql-on-openbsd-upgrade-14-to-15-with-pgupgrade-946)
-- [Getting Started with Cypher Query Language: A Beginner&#39;s Guide](https://dev.to/abdulsamad4068/getting-started-with-cypher-query-language-a-beginners-guide-2c5m)
-- [How to Deploy a Next.js 13 App to AWS with Amplify Hosting](https://dev.to/femi_dev/how-to-deploy-a-nextjs-13-app-to-aws-with-amplify-hosting-5327)
+- [How Database Indexes Affect MongoDB and Application Performance](https://dev.to/dbazhenov/how-database-indexes-affect-mongodb-and-application-performance-5667)
+- [Making a simple, fully functional JavaScript calculator with only 10 lines of JavaScript:](https://dev.to/kelvinguchu/making-a-simple-fully-functional-javascript-calculator-with-only-10-lines-of-javascript-5dbi)
+- [How to Use VSCode with Raspberry Pi Pico W and MicroPython](https://dev.to/shilleh/how-to-use-vscode-with-raspberry-pi-pico-w-and-micropython-43op)
+- [Simplifying Account Abstraction for the Web3 World](https://dev.to/buildbear/simplifying-account-abstraction-for-the-web3-world-53l5)
 <!-- BLOG-POST-LIST:END -->
 
