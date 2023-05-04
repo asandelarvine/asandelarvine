@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Cloud Workflow with Pebl - Part 3](https://dev.to/pebl/modern-cloud-workflow-with-pebl-part-3-305o)
+- [Top 5 VS Code extensions](https://dev.to/appmap/top-5-vs-code-extensions-4ncd)
 - [The White House signaled support for potential new AI regulations](https://dev.to/ben/the-white-house-signaled-support-for-potential-new-ai-regulations-edi)
 - [May the Fourth Be with You: Jedi Training Challenge in Python](https://dev.to/rainleander/may-the-fourth-be-with-you-jedi-training-challenge-in-python-29n8)
-- [May the Fourth Be With You](https://dev.to/amplication/may-the-fourth-be-with-you-1d90)
-- [Dynamic NFTs 101: An Introduction to the Future of Non-Fungible Tokens](https://dev.to/galaxiastudios/dynamic-nfts-101-an-introduction-to-the-future-of-non-fungible-tokens-2olp)
 <!-- BLOG-POST-LIST:END -->
 
