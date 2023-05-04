@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error, Error Handling and Error Handling Technique](https://dev.to/chiedoxie/error-error-handling-and-error-handling-technique-4ge8)
-- [Which programming ecosystems are helped and hurt by generative AI?](https://dev.to/ben/which-programming-ecosystems-are-helped-and-hurt-by-generative-ai-3m38)
-- [Coding for No-Coders: JavaScript Editing](https://dev.to/mikehtmlallthethings/coding-for-no-coders-javascript-editing-1mim)
-- [SQL vs. NoSQL: Explained](https://dev.to/externlabs/sql-vs-nosql-explained-1lff)
+- [Jedi Training Challenge](https://dev.to/devteam/jedi-training-challenge-5a48)
+- [The universal CSS * selector isn&#39;t actually universal](https://dev.to/whitep4nth3r/the-universal-css-selector-isnt-actually-universal-1jd0)
+- [The Bubble Figure: Integrating Tensorflow.js With Three.js and Cannon-es to Create Interactive Art](https://dev.to/idosius/the-bubble-figure-integrating-tensorflowjs-with-threejs-and-cannon-es-to-create-interactive-art-b8e)
+- [The more I hear from the experts, the more worried I get about AI](https://dev.to/michaeltharrington/the-more-i-hear-from-the-experts-the-more-worried-i-get-about-ai-60d)
 <!-- BLOG-POST-LIST:END -->
 
