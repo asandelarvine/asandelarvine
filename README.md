@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL on OpenBSD: Upgrade 14 to 15 with pg_upgrade](https://dev.to/nabbisen/postgresql-on-openbsd-upgrade-14-to-15-with-pgupgrade-946)
+- [How to Deploy a Next.js 13 App to AWS with Amplify Hosting](https://dev.to/femi_dev/how-to-deploy-a-nextjs-13-app-to-aws-with-amplify-hosting-5327)
 - [Star Wars Tech: How Does It Compare to Current Technology?](https://dev.to/devteam/star-wars-tech-how-does-it-compare-to-current-technology-409o)
 - [Which Star Wars Character Would Make the Best Developer?](https://dev.to/codenewbieteam/which-star-wars-character-would-make-the-best-developer-o3g)
-- [Get Started CSS Button Hover Effect](https://dev.to/jon_snow789/get-started-css-button-hover-effect-3a6b)
-- [How to Generate an SSRS Report as a Password-Protected PDF Using the Bold Reports Report Writer](https://dev.to/boldreports/how-to-generate-an-ssrs-report-as-a-password-protected-pdf-using-the-bold-reports-report-writer-m8l)
 <!-- BLOG-POST-LIST:END -->
 
