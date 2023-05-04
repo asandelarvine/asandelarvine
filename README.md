@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Psychology of Success in Tech is a Complex Beast. What does it Take to Succeed in the Tech Industry?](https://dev.to/jeffsalive/the-psychology-of-success-in-tech-is-a-complex-beast-what-does-it-take-to-succeed-in-the-tech-industry-gn0)
 - [React Testing Library &amp; Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
 - [Dear Beginner, it gets better.](https://dev.to/_aaallison/dear-beginner-it-gets-better-1303)
 - [CSS Architecture &lpar;BEM - OOCSS - Functional CSS - CSS in Js&rpar; - EN](https://dev.to/guscarpim/css-architecture-bem-ooscss-functional-css-css-in-js-en-5b9h)
-- [Arquitetura CSS &lpar;BEM - OOCSS - Functional CSS - CSS in Js&rpar; - PT](https://dev.to/guscarpim/arquitetura-css-bem-ooscss-functional-css-css-in-js-pt-24a3)
 <!-- BLOG-POST-LIST:END -->
 
