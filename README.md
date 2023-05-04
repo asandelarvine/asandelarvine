@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Wars Tech: How Does It Compare to Current Technology?](https://dev.to/devteam/star-wars-tech-how-does-it-compare-to-current-technology-409o)
+- [Which Star Wars Character Would Make the Best Developer?](https://dev.to/codenewbieteam/which-star-wars-character-would-make-the-best-developer-o3g)
+- [Get Started CSS Button Hover Effect](https://dev.to/jon_snow789/get-started-css-button-hover-effect-3a6b)
 - [How to Generate an SSRS Report as a Password-Protected PDF Using the Bold Reports Report Writer](https://dev.to/boldreports/how-to-generate-an-ssrs-report-as-a-password-protected-pdf-using-the-bold-reports-report-writer-m8l)
-- [🚀 Getting Started with EC2 Instances: A Beginner&#39;s Guide](https://dev.to/brandonbawe/getting-started-with-ec2-instances-a-beginners-guide-jlc)
-- [The Psychology of Success in Tech is a Complex Beast. What does it Take to Succeed in the Tech Industry?](https://dev.to/jeffsalive/the-psychology-of-success-in-tech-is-a-complex-beast-what-does-it-take-to-succeed-in-the-tech-industry-gn0)
-- [10 Cool CodePen Demos &lpar;April 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-23-1p0m)
 <!-- BLOG-POST-LIST:END -->
 
