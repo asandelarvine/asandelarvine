@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Error, Error Handling and Error Handling Technique](https://dev.to/chiedoxie/error-error-handling-and-error-handling-technique-4ge8)
+- [Which programming ecosystems are helped and hurt by generative AI?](https://dev.to/ben/which-programming-ecosystems-are-helped-and-hurt-by-generative-ai-3m38)
 - [Coding for No-Coders: JavaScript Editing](https://dev.to/mikehtmlallthethings/coding-for-no-coders-javascript-editing-1mim)
-- [How to start your next-generation beauty marketplace in 2023](https://dev.to/kramin_alexey/how-to-start-your-next-generation-beauty-marketplace-in-2023-474l)
-- [5 Repositories to Boost Your Knowledge](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
-- [Pre-built Website Templates: A Time-Saving Solution or a Limiting Factor?](https://dev.to/ugbabeog/pre-built-website-templates-a-time-saving-solution-or-a-limiting-factor-g7g)
+- [SQL vs. NoSQL: Explained](https://dev.to/externlabs/sql-vs-nosql-explained-1lff)
 <!-- BLOG-POST-LIST:END -->
 
