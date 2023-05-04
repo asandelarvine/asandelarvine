@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to be able to drag files into a web app? Got ya covered.](https://dev.to/krofdrakula/want-to-be-able-to-drag-files-into-a-web-app-got-ya-covered-jh3)
+- [How to validate ship address in the USA using ReactJS](https://dev.to/tgmarinhodev/how-to-validate-ship-address-in-the-usa-using-reactjs-2g5g)
 - [Fewer pipettes: Reflections on a web dev learning AI](https://dev.to/saronyitbarek/fewer-pipettes-reflections-on-a-web-dev-learning-ai-5gl8)
-- [Folder structure in a React hexagonal architecture](https://dev.to/juanoa/folder-structure-in-a-react-hexagonal-architecture-h77)
-- [Modern Cloud Workflow with Pebl - Part 3](https://dev.to/pebl/modern-cloud-workflow-with-pebl-part-3-305o)
-- [Top 5 VS Code extensions](https://dev.to/appmap/top-5-vs-code-extensions-4ncd)
+- [Amazon VPC Lattice — feasibility study](https://dev.to/aws-builders/amazon-vpc-lattice-feasibility-study-d1i)
 <!-- BLOG-POST-LIST:END -->
 
