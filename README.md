@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding for No-Coders: JavaScript Editing](https://dev.to/mikehtmlallthethings/coding-for-no-coders-javascript-editing-1mim)
+- [How to start your next-generation beauty marketplace in 2023](https://dev.to/kramin_alexey/how-to-start-your-next-generation-beauty-marketplace-in-2023-474l)
 - [5 Repositories to Boost Your Knowledge](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
 - [Pre-built Website Templates: A Time-Saving Solution or a Limiting Factor?](https://dev.to/ugbabeog/pre-built-website-templates-a-time-saving-solution-or-a-limiting-factor-g7g)
-- [CSS vs. CSS-in-JS: Which is the better approach for web design in 2023?](https://dev.to/ugbabeog/css-vs-css-in-js-which-is-the-better-approach-for-web-design-in-2023-47im)
-- [CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions](https://dev.to/hossainchisty/cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions-4g1i)
 <!-- BLOG-POST-LIST:END -->
 
