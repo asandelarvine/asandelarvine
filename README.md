@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate API Documentation with Insomnia](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
+- [Low-Code and No-Code Development Platforms, their Rick in Software Development](https://dev.to/bensonarafat/low-code-and-no-code-development-platforms-their-rick-in-software-development-39ng)
 - [Want to be able to drag files into a web app? Got ya covered.](https://dev.to/krofdrakula/want-to-be-able-to-drag-files-into-a-web-app-got-ya-covered-jh3)
 - [How to validate ship address in the USA using ReactJS](https://dev.to/tgmarinhodev/how-to-validate-ship-address-in-the-usa-using-reactjs-2g5g)
-- [Fewer pipettes: Reflections on a web dev learning AI](https://dev.to/saronyitbarek/fewer-pipettes-reflections-on-a-web-dev-learning-ai-5gl8)
-- [Amazon VPC Lattice — feasibility study](https://dev.to/aws-builders/amazon-vpc-lattice-feasibility-study-d1i)
 <!-- BLOG-POST-LIST:END -->
 
