@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [create html , css and js - without code](https://dev.to/aieeeo/create-html-css-and-js-without-code-d8h)
-- [May The 4th be with you.](https://dev.to/jarvisscript/may-the-4th-be-with-you-5f7j)
-- [Jedi Training Challenge](https://dev.to/devteam/jedi-training-challenge-5a48)
-- [The universal CSS * selector isn&#39;t actually universal](https://dev.to/whitep4nth3r/the-universal-css-selector-isnt-actually-universal-1jd0)
+- [Dynamic NFTs 101: An Introduction to the Future of Non-Fungible Tokens](https://dev.to/galaxiastudios/dynamic-nfts-101-an-introduction-to-the-future-of-non-fungible-tokens-2olp)
+- [How to convert Figma components to Next.js with Tailwind CSS](https://dev.to/logrocket/how-to-convert-figma-components-to-nextjs-with-tailwind-css-2hd0)
+- [Fleet Provisioning for Embedded Linux Devices with AWS IoT Greengrass](https://dev.to/iotbuilders/fleet-provisioning-for-embedded-linux-devices-with-aws-iot-greengrass-4h8b)
+- [A New Beginning: My First Steps into the World of Software Engineering](https://dev.to/aggsdp/a-new-beginning-my-first-steps-into-the-world-of-software-engineering-3n7o)
 <!-- BLOG-POST-LIST:END -->
 
