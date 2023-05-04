@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS vs. CSS-in-JS: Which is the better approach for web design in 2023?](https://dev.to/ugbabeog/css-vs-css-in-js-which-is-the-better-approach-for-web-design-in-2023-47im)
+- [CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions](https://dev.to/hossainchisty/cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions-4g1i)
+- [The Benefits of Strategic Information Architecture for Your Company&#39;s Intranet](https://dev.to/jaloplo/the-benefits-of-strategic-information-architecture-for-your-companys-intranet-421l)
 - [How Database Indexes Affect MongoDB and Application Performance](https://dev.to/dbazhenov/how-database-indexes-affect-mongodb-and-application-performance-5667)
-- [Making a simple, fully functional JavaScript calculator with only 10 lines of JavaScript:](https://dev.to/kelvinguchu/making-a-simple-fully-functional-javascript-calculator-with-only-10-lines-of-javascript-5dbi)
-- [How to Use VSCode with Raspberry Pi Pico W and MicroPython](https://dev.to/shilleh/how-to-use-vscode-with-raspberry-pi-pico-w-and-micropython-43op)
-- [Simplifying Account Abstraction for the Web3 World](https://dev.to/buildbear/simplifying-account-abstraction-for-the-web3-world-53l5)
 <!-- BLOG-POST-LIST:END -->
 
