@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Architecture &lpar;BEM - OOCSS - Functional CSS - CSS in Js&rpar; - EN](https://dev.to/guscarpim/css-architecture-bem-ooscss-functional-css-css-in-js-en-5b9h)
+- [Arquitetura CSS &lpar;BEM - OOCSS - Functional CSS - CSS in Js&rpar; - PT](https://dev.to/guscarpim/arquitetura-css-bem-ooscss-functional-css-css-in-js-pt-24a3)
 - [Sloan&#39;s Inbox: Surviving A Job Performance Plan: Is There Hope?](https://dev.to/devteam/sloans-inbox-surviving-a-job-performance-plan-is-there-hope-550g)
 - [Connecting an App Service to Azure SQL Database and Storage Account using Azure CLI](https://dev.to/danielfavour/connecting-an-app-service-to-azure-sql-database-and-storage-account-using-azure-cli-1on6)
-- [So ... This is Your 1st Tech Conference : #VolunteerEdition](https://dev.to/nerajno/so-this-is-your-1st-tech-conference-volunteeredition-450c)
-- [Creating your First Graph Database.](https://dev.to/chidera/creating-your-first-graph-database-7mm)
 <!-- BLOG-POST-LIST:END -->
 
