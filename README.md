@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Outdated Composer Dependencies](https://dev.to/snowlabs/managing-outdated-composer-dependencies-5988)
+- [Data sources episode 2: AWS S3 to Postgres Data Sync using Singer](https://dev.to/mage_ai/data-sources-episode-2-aws-s3-to-postgres-data-sync-using-singer-532l)
+- [What I have done with AgensGraph](https://dev.to/nightbird07/what-i-have-done-with-agensgraph-1gip)
 - [How to Generate API Documentation with Insomnia](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
-- [Low-Code and No-Code Development Platforms, their Rick in Software Development](https://dev.to/bensonarafat/low-code-and-no-code-development-platforms-their-rick-in-software-development-39ng)
-- [Want to be able to drag files into a web app? Got ya covered.](https://dev.to/krofdrakula/want-to-be-able-to-drag-files-into-a-web-app-got-ya-covered-jh3)
-- [How to validate ship address in the USA using ReactJS](https://dev.to/tgmarinhodev/how-to-validate-ship-address-in-the-usa-using-reactjs-2g5g)
 <!-- BLOG-POST-LIST:END -->
 
