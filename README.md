@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scribe: The Ultimate Tool for Creating Professional Step-by-Step Solutions](https://dev.to/arjuncodess/scribe-the-ultimate-tool-for-creating-professional-step-by-step-solutions-16b9)
+- [React story: useRef vs useState](https://dev.to/shishsingh/react-story-useref-vs-usestate-3a6n)
+- [Angular Architecture - Abstraction layers](https://dev.to/digitaldino/angular-architecture-abstraction-layers-2bpi)
 - [CodeNewbie is on Bluesky!](https://dev.to/codenewbieteam/codenewbie-is-on-bluesky-329j)
-- [HTMX is the future](https://dev.to/quii/htmx-is-the-future-157j)
-- [Custom Snippet do Styled Components no VSCode](https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n)
-- [A Comprehensive Guide to the Best Decentralized Exchanges on Arbitrum in 2023](https://dev.to/getblockio/a-comprehensive-guide-to-the-best-decentralized-exchanges-on-arbitrum-in-2023-37ka)
 <!-- BLOG-POST-LIST:END -->
 
