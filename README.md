@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fan Friday: Let&#39;s Give a Shout Out to Some Fantastic Folks in the Community](https://dev.to/devteam/fan-friday-lets-give-a-shout-out-to-some-fantastic-folks-in-the-community-p6p)
+- [AdaGPT: My Learnings While Building a GitHub Action](https://dev.to/zirkelc/adagpt-my-learnings-while-building-a-github-action-55ec)
+- [Create your own ChatGPT App in 1 Minute](https://dev.to/willkre/create-your-own-chatgpt-app-in-1-minute-4ipl)
+- [Apache Flink episode 1: A comprehensive introduction](https://dev.to/mage_ai/apache-flink-episode-1-a-comprehensive-introduction-22a8)
 - [Are You a One Device Wonder or Tech Collector?](https://dev.to/codenewbieteam/are-you-a-one-device-wonder-or-tech-collector-4n9j)
-- [🎉 A Beginner&#39;s Guide to useEffect](https://dev.to/codexam/a-beginners-guide-to-useeffect-3ej4)
-- [Send an Email through AWS SES with GoLang](https://dev.to/aws-builders/send-an-email-through-aws-ses-with-golang-41ph)
 <!-- BLOG-POST-LIST:END -->
 
