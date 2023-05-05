@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Ace the AWS Certified Solutions Architect-Associate SAA-C03 Exam](https://dev.to/archiezabrocki/how-to-ace-the-aws-certified-solutions-architect-associate-saa-c03-exam-3eai)
+- [Master Angular 16 &lpar;a study guide&rpar;](https://dev.to/this-is-angular/master-angular-16-17no)
 - [AdaGPT: My Learnings While Building a GitHub Action](https://dev.to/zirkelc/adagpt-my-learnings-while-building-a-github-action-55ec)
 - [Create your own ChatGPT App in 1 Minute](https://dev.to/willkre/create-your-own-chatgpt-app-in-1-minute-4ipl)
-- [Apache Flink episode 1: A comprehensive introduction](https://dev.to/mage_ai/apache-flink-episode-1-a-comprehensive-introduction-22a8)
-- [Are You a One Device Wonder or Tech Collector?](https://dev.to/codenewbieteam/are-you-a-one-device-wonder-or-tech-collector-4n9j)
 <!-- BLOG-POST-LIST:END -->
 
