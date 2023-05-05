@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s looking for open source contributors? &lpar;week 40&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-40-e48)
 - [Conversion Functions: converting between binary, hexadecimal, decimal, &amp; ASCII](https://dev.to/tatianabowman/conversion-functions-converting-between-binary-hexadecimal-decimal-ascii-f13)
 - [How to set up an Nginx Web Server in Ubuntu Virtual Machine Using Vagrant](https://dev.to/roselinebassey/how-to-set-up-an-nginx-web-server-in-ubuntu-virtual-machine-using-vagrant-25gm)
 - [Scribe: The Ultimate Tool for Creating Professional Step-by-Step Solutions](https://dev.to/arjuncodess/scribe-the-ultimate-tool-for-creating-professional-step-by-step-solutions-16b9)
-- [React story: useRef vs useState](https://dev.to/shishsingh/react-story-useref-vs-usestate-3a6n)
 <!-- BLOG-POST-LIST:END -->
 
