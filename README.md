@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Relationships&lpar;one-to-one&rpar;&lpar;one-to-many&rpar;&lpar;many-to-many&rpar;](https://dev.to/chafroudtarek/mongodb-relationshipsone-to-oneone-to-manymany-to-many-njc)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e4m)
-- [Playwright&#39;s UI Mode - watch mode and time travel debugging](https://dev.to/playwright/playwrights-ui-mode-watch-mode-and-time-travel-debugging-10g5)
-- [The Yoda Guide](https://dev.to/balagmadhu/the-yoda-guide-2nd1)
+- [CodeNewbie is on Bluesky!](https://dev.to/codenewbieteam/codenewbie-is-on-bluesky-329j)
+- [HTMX is the future](https://dev.to/quii/htmx-is-the-future-157j)
+- [Custom Snippet do Styled Components no VSCode](https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n)
+- [A Comprehensive Guide to the Best Decentralized Exchanges on Arbitrum in 2023](https://dev.to/getblockio/a-comprehensive-guide-to-the-best-decentralized-exchanges-on-arbitrum-in-2023-37ka)
 <!-- BLOG-POST-LIST:END -->
 
