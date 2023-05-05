@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Become AWS Serverless Ninja ⛩️](https://dev.to/aws-builders/how-to-become-aws-serverless-ninja-3e8f)
 - [Free Design Resources 🤩🚀](https://dev.to/margishpatel/free-design-resources-4oj5)
 - [How to deploy Next.js to Firebase](https://dev.to/glennviroux/how-to-deploy-nextjs-to-firebase-18bb)
 - [Provisioning AWS Infrastructure using Terraform and Jenkins CI/CD](https://dev.to/aws-builders/provisioning-aws-infrastructure-using-terraform-and-jenkins-cicd-pgj)
-- [What If We Could CTRL-Z Reality](https://dev.to/scofieldidehen/what-if-we-could-ctrl-z-reality-2gkk)
 <!-- BLOG-POST-LIST:END -->
 
