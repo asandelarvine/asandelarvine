@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Managing Outdated Composer Dependencies](https://dev.to/snowlabs/managing-outdated-composer-dependencies-5988)
 - [Data sources episode 2: AWS S3 to Postgres Data Sync using Singer](https://dev.to/mage_ai/data-sources-episode-2-aws-s3-to-postgres-data-sync-using-singer-532l)
 - [What I have done with AgensGraph](https://dev.to/nightbird07/what-i-have-done-with-agensgraph-1gip)
-- [How to Generate API Documentation with Insomnia](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
+- [.NET Monthly Roundup - April 2023 - .NET 8 Preview 3, C#12, and more!](https://dev.to/dotnet/net-monthly-roundup-april-2023-net-8-preview-3-c12-and-more-388e)
 <!-- BLOG-POST-LIST:END -->
 
