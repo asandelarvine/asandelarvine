@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Relationships&lpar;one-to-one&rpar;&lpar;one-to-many&rpar;&lpar;many-to-many&rpar;](https://dev.to/chafroudtarek/mongodb-relationshipsone-to-oneone-to-manymany-to-many-njc)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e4m)
 - [Playwright&#39;s UI Mode - watch mode and time travel debugging](https://dev.to/playwright/playwrights-ui-mode-watch-mode-and-time-travel-debugging-10g5)
 - [The Yoda Guide](https://dev.to/balagmadhu/the-yoda-guide-2nd1)
-- [How to Become AWS Serverless Ninja ⛩️](https://dev.to/aws-builders/how-to-become-aws-serverless-ninja-3e8f)
 <!-- BLOG-POST-LIST:END -->
 
