@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The best TRAIT of RUST 🔥 &lpar;no pun intended&rpar;](https://dev.to/cleggacus/the-best-trait-of-rust-no-pun-intended-2516)
-- [La relevancia de la astronomía en la innovación tecnológica para la educación](https://dev.to/microsoftucuenca/la-relevancia-de-la-astronomia-en-la-innovacion-tecnologica-para-la-educacion-2bkf)
-- [LibreSSL: openssl エラー - v3_ca エクステンションが存在しない](https://dev.to/nabbisen/libressl-openssl-era-v3ca-ekusutensiyongacun-zai-sinai-1i74)
-- [6 Skills Programming teaches you](https://dev.to/pragyanatvade/6-skills-programming-teaches-you-3jji)
+- [Fan Friday: Let&#39;s Give a Shout Out to Some Fantastic Folks in the Community](https://dev.to/devteam/fan-friday-lets-give-a-shout-out-to-some-fantastic-folks-in-the-community-p6p)
+- [Are You a One Device Wonder or Tech Collector?](https://dev.to/codenewbieteam/are-you-a-one-device-wonder-or-tech-collector-4n9j)
+- [🎉 A Beginner&#39;s Guide to useEffect](https://dev.to/codexam/a-beginners-guide-to-useeffect-3ej4)
+- [Send an Email through AWS SES with GoLang](https://dev.to/aws-builders/send-an-email-through-aws-ses-with-golang-41ph)
 <!-- BLOG-POST-LIST:END -->
 
