@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreSSL: openssl エラー - v3_ca エクステンションが存在しない](https://dev.to/nabbisen/libressl-openssl-era-v3ca-ekusutensiyongacun-zai-sinai-1i74)
 - [6 Skills Programming teaches you](https://dev.to/pragyanatvade/6-skills-programming-teaches-you-3jji)
 - [Managing Outdated Composer Dependencies](https://dev.to/snowlabs/managing-outdated-composer-dependencies-5988)
 - [Data sources episode 2: AWS S3 to Postgres Data Sync using Singer](https://dev.to/mage_ai/data-sources-episode-2-aws-s3-to-postgres-data-sync-using-singer-532l)
-- [What I have done with AgensGraph](https://dev.to/nightbird07/what-i-have-done-with-agensgraph-1gip)
 <!-- BLOG-POST-LIST:END -->
 
