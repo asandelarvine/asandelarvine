@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
+- [Bye-bye ChatGPT: AI Tools As Good As ChatGPT](https://dev.to/durgesh4993/bye-bye-chatgpt-ai-tools-as-good-as-chatgpt-4nnl)
 - [#DEVDiscuss: Personal Branding for Developers](https://dev.to/devteam/devdiscuss-personal-branding-for-developers-4c0e)
-- [HOW TO DEPLOY A WINDOWS VM, RDP INTO IT AND ADD A DATA DISC TO THE WINDOWS VM ON A MACBOOK](https://dev.to/toluwani_oluwaloseyi/how-to-deploy-a-windows-vm-rdp-into-it-and-add-a-data-disc-to-the-windows-vm-on-a-macbook-4163)
-- [Automatically Updating Helm Chart Referenced in Argo CD Using Renovate - Part 2](https://dev.to/corrupt952/automatically-updating-helm-chart-referenced-in-argo-cd-using-renovate-part-2-37nb)
+- [The more maintainers get paid, the more they work on open source](https://dev.to/tidelift/the-more-maintainers-get-paid-the-more-they-work-on-open-source-aoj)
 <!-- BLOG-POST-LIST:END -->
 
