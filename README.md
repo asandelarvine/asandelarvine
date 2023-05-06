@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Nestia] I made automatic e2e test functions generator for NestJS](https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p)
+- [Introduction to Age Viewer: A Web-Based Visualization Tool for Apache Age](https://dev.to/shaheen/introduction-to-age-viewer-a-web-based-visualization-tool-for-apache-age-2453)
 - [What&#39;s the Most Useless or Wasteful Software You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-useless-or-wasteful-software-youve-ever-encountered-4jjj)
 - [What Would Your Code Look Like as a Painting?](https://dev.to/codenewbieteam/what-would-your-code-look-like-as-a-painting-5af2)
-- [The Future of Artificial Intelligence in Daily Life](https://dev.to/infydots99/the-future-of-artificial-intelligence-in-daily-life-4f38)
-- [How Microsoft Azure is Revolutionizing Machine Learning](https://dev.to/mightyzuby/how-microsoft-azure-is-revolutionizing-machine-learning-1kl1)
 <!-- BLOG-POST-LIST:END -->
 
