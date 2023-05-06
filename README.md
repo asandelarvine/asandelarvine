@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Does Storage on Vercel Could Change for the Edge-First](https://dev.to/zenstack/what-does-storage-on-vercel-could-change-for-the-edge-first-12h3)
 - [OpenBSD 7.3 on VirtualBox 7: ゲスト OS インストールに失敗 - 原因は I/O APIC 有効化](https://dev.to/nabbisen/openbsd-73-on-virtualbox-7-gesuto-os-insutorunishi-bai-yuan-yin-ha-io-apic-you-xiao-hua-3fk7)
 - [OpenBSD 7.3 on VirtualBox 7: Installation as guest OS failed due to I/O APIC enabled](https://dev.to/nabbisen/openbsd-73-on-virtualbox-7-installation-as-guest-os-failed-due-to-io-apic-enabled-4ake)
-- [Patch Deprecating save-state and set-output commands in GitHub Workflows using sed command.](https://dev.to/cloudsky13/patch-deprecating-save-state-and-set-output-commands-in-github-workflows-using-sed-command-3fg1)
-- [Vulnerabilidade de Software Para Devs](https://dev.to/juligaioso/vulnerabilidade-de-software-para-devs-21ne)
+- [Code Smell 211 - Tab over Spaces](https://dev.to/mcsee/code-smell-211-tab-over-spaces-1d41)
 <!-- BLOG-POST-LIST:END -->
 
