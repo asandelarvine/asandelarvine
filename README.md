@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Nestia] I made automatic e2e test functions generator for NestJS](https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p)
-- [Introduction to Age Viewer: A Web-Based Visualization Tool for Apache Age](https://dev.to/shaheen/introduction-to-age-viewer-a-web-based-visualization-tool-for-apache-age-2453)
-- [What&#39;s the Most Useless or Wasteful Software You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-useless-or-wasteful-software-youve-ever-encountered-4jjj)
-- [What Would Your Code Look Like as a Painting?](https://dev.to/codenewbieteam/what-would-your-code-look-like-as-a-painting-5af2)
+- [Improving Design System Visual Testing Consistency with Docker](https://dev.to/akbarnafisa/improving-design-system-visual-testing-consistency-with-docker-530a)
+- [Angular Life Cycle Hooks](https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47)
+- [NodeJS Server Side Rendering &lpar;SSR&rpar; - do we really need it?](https://dev.to/mandrasch/nodejs-server-side-rendering-ssr-do-we-really-need-it-1cp2)
+- [Open-source Admin template dashboard for Tailwind CSS React ⭐️](https://dev.to/fredy/open-source-admin-template-dashboard-for-tailwind-css-react-1glj)
 <!-- BLOG-POST-LIST:END -->
 
