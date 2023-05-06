@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL on OpenBSD: 14 から 15 へのアップグレード - pg_upgrade 使用](https://dev.to/nabbisen/postgresql-on-openbsd-14-kara-15-henoatupuguredo-pgupgrade-shi-yong-1kjf)
+- [PostgreSQL 14: TLS 接続](https://dev.to/nabbisen/postgresql-14-tls-jie-sok-4909)
 - [PostgreSQL on OpenBSD: 12 から 13 へのアップグレード - pg_dumpall 使用](https://dev.to/nabbisen/postgresql-on-openbsd-12-kara-13-henoatupuguredo-pgdumpall-shi-yong-2kj3)
 - [Foreach macro in C](https://dev.to/sgf4/foreach-macro-in-c-48ic)
-- [PostgreSQL 12: TLS 接続](https://dev.to/nabbisen/postgresql-12-tls-jie-sok-13e6)
-- [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
 <!-- BLOG-POST-LIST:END -->
 
