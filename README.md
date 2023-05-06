@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Most Useless or Wasteful Software You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-useless-or-wasteful-software-youve-ever-encountered-4jjj)
+- [What Would Your Code Look Like as a Painting?](https://dev.to/codenewbieteam/what-would-your-code-look-like-as-a-painting-5af2)
 - [The Future of Artificial Intelligence in Daily Life](https://dev.to/infydots99/the-future-of-artificial-intelligence-in-daily-life-4f38)
 - [How Microsoft Azure is Revolutionizing Machine Learning](https://dev.to/mightyzuby/how-microsoft-azure-is-revolutionizing-machine-learning-1kl1)
-- [OpenBSD httpd 7.3: Web server](https://dev.to/nabbisen/openbsd-httpd-73-web-server-k1i)
-- [Is CodeGym Free? Is CodeGym Premium really worth it?](https://dev.to/javinpaul/is-codegym-free-is-codegym-premium-really-worth-it-33o8)
 <!-- BLOG-POST-LIST:END -->
 
