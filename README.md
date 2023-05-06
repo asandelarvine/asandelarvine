@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does Storage on Vercel Could Change for the Edge-First](https://dev.to/zenstack/what-does-storage-on-vercel-could-change-for-the-edge-first-12h3)
-- [OpenBSD 7.3 on VirtualBox 7: ゲスト OS インストールに失敗 - 原因は I/O APIC 有効化](https://dev.to/nabbisen/openbsd-73-on-virtualbox-7-gesuto-os-insutorunishi-bai-yuan-yin-ha-io-apic-you-xiao-hua-3fk7)
-- [OpenBSD 7.3 on VirtualBox 7: Installation as guest OS failed due to I/O APIC enabled](https://dev.to/nabbisen/openbsd-73-on-virtualbox-7-installation-as-guest-os-failed-due-to-io-apic-enabled-4ake)
-- [Code Smell 211 - Tab over Spaces](https://dev.to/mcsee/code-smell-211-tab-over-spaces-1d41)
+- [Instagram 3D Post Generator](https://dev.to/jon_snow789/instagram-3d-post-generator-2h7p)
+- [SQL Statements Guide&lpar;Cheat-sheet&rpar;](https://dev.to/b_mududa/sql-statements-guidecheat-sheet-4em4)
+- [Is PHP going to die?](https://dev.to/maliano63717738/is-php-going-to-die-26lg)
+- [From MVP to Maturity: Why &#39;It Works&#39; Code is Secondary](https://dev.to/noriller/from-mvp-to-maturity-why-it-works-code-is-secondary-39gb)
 <!-- BLOG-POST-LIST:END -->
 
