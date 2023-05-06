@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is CodeGym Free? Is CodeGym Premium really worth it?](https://dev.to/javinpaul/is-codegym-free-is-codegym-premium-really-worth-it-33o8)
 - [PostgreSQL on OpenBSD: 14 から 15 へのアップグレード - pg_upgrade 使用](https://dev.to/nabbisen/postgresql-on-openbsd-14-kara-15-henoatupuguredo-pgupgrade-shi-yong-1kjf)
 - [Navigating the Tech Job Market in a Bad Economy](https://dev.to/philipjohnbasile/navigating-the-tech-job-market-in-a-bad-economy-4p1p)
 - [PostgreSQL 14: TLS 接続](https://dev.to/nabbisen/postgresql-14-tls-jie-sok-4909)
-- [PostgreSQL on OpenBSD: 12 から 13 へのアップグレード - pg_dumpall 使用](https://dev.to/nabbisen/postgresql-on-openbsd-12-kara-13-henoatupuguredo-pgdumpall-shi-yong-2kj3)
 <!-- BLOG-POST-LIST:END -->
 
