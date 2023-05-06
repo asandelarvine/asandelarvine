@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerabilidade de Software Para Devs](https://dev.to/juligaioso/vulnerabilidade-de-software-para-devs-21ne)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-oll)
 - [Websites made by AI?](https://dev.to/saifullah/websites-made-by-ai-4n8p)
 - [AI: Unlocking the Future of Tech Job Success](https://dev.to/aradwan20/ai-unlocking-the-future-of-tech-job-success-454c)
-- [How to deploy a serverless website with Terraform](https://dev.to/aws-builders/how-to-deploy-a-serverless-website-with-terraform-5677)
 <!-- BLOG-POST-LIST:END -->
 
