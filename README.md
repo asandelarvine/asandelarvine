@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Box Loading Animation](https://dev.to/jon_snow789/css-box-loading-animation-3hd5)
+- [View Transitions API](https://dev.to/link2twenty/view-transitions-api-5980)
+- [Docker : From Zero to Hero &lpar; part 4 &rpar;](https://dev.to/prasenjeetsymon/docker-from-zero-to-hero-part-4--18ae)
 - [Instagram 3D Post Generator](https://dev.to/jon_snow789/instagram-3d-post-generator-2h7p)
-- [Preparing for a DevOps Engineer Interview: A Comprehensive Guide](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4)
-- [SQL Statements Guide&lpar;Cheat-sheet&rpar;](https://dev.to/b_mududa/sql-statements-guidecheat-sheet-4em4)
-- [Is PHP going to die?](https://dev.to/maliano63717738/is-php-going-to-die-26lg)
 <!-- BLOG-POST-LIST:END -->
 
