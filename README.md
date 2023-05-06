@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-oll)
+- [Websites made by AI?](https://dev.to/saifullah/websites-made-by-ai-4n8p)
 - [AI: Unlocking the Future of Tech Job Success](https://dev.to/aradwan20/ai-unlocking-the-future-of-tech-job-success-454c)
 - [How to deploy a serverless website with Terraform](https://dev.to/aws-builders/how-to-deploy-a-serverless-website-with-terraform-5677)
-- [20 Game Changing Website Builders to Build Classy Websites without Coding](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
-- [Chat with your documents using ChatGPT 🦾](https://dev.to/iamadhee/chat-with-your-documents-using-chatgpt-18je)
 <!-- BLOG-POST-LIST:END -->
 
