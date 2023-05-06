@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Chat with your documents using ChatGPT 🦾](https://dev.to/iamadhee/chat-with-your-documents-using-chatgpt-18je)
+- [🎯 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝟰𝟳 𝗖𝗮𝗿𝗲𝗳𝘂𝗹𝗹𝘆 𝗖𝘂𝗿𝗮𝘁𝗲𝗱 𝗖𝗵𝗲𝗮𝘁𝘀𝗵𝗲𝗲𝘁𝘀 𝗬𝗼𝘂&#39;𝗹𝗹 𝗘𝘃𝗲𝗿 𝗡𝗲𝗲𝗱! 📚](https://dev.to/mrroyalt/--1g8m)
 - [Improving Design System Visual Testing Consistency with Docker](https://dev.to/akbarnafisa/improving-design-system-visual-testing-consistency-with-docker-530a)
 - [Angular Life Cycle Hooks](https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47)
-- [NodeJS Server Side Rendering &lpar;SSR&rpar; - do we really need it?](https://dev.to/mandrasch/nodejs-server-side-rendering-ssr-do-we-really-need-it-1cp2)
-- [Open-source Admin template dashboard for Tailwind CSS React ⭐️](https://dev.to/fredy/open-source-admin-template-dashboard-for-tailwind-css-react-1glj)
 <!-- BLOG-POST-LIST:END -->
 
