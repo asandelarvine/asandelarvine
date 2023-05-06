@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn How To Listen: Event Listeners And Dynamic Websites](https://dev.to/svper563/learn-how-to-listen-event-listeners-and-dynamic-websites-46h)
 - [CSS Box Loading Animation](https://dev.to/jon_snow789/css-box-loading-animation-3hd5)
 - [View Transitions API](https://dev.to/link2twenty/view-transitions-api-5980)
 - [Docker : From Zero to Hero &lpar; part 4 &rpar;](https://dev.to/prasenjeetsymon/docker-from-zero-to-hero-part-4--18ae)
-- [Instagram 3D Post Generator](https://dev.to/jon_snow789/instagram-3d-post-generator-2h7p)
 <!-- BLOG-POST-LIST:END -->
 
