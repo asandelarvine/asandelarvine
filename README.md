@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Instagram 3D Post Generator](https://dev.to/jon_snow789/instagram-3d-post-generator-2h7p)
+- [Preparing for a DevOps Engineer Interview: A Comprehensive Guide](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4)
 - [SQL Statements Guide&lpar;Cheat-sheet&rpar;](https://dev.to/b_mududa/sql-statements-guidecheat-sheet-4em4)
 - [Is PHP going to die?](https://dev.to/maliano63717738/is-php-going-to-die-26lg)
-- [From MVP to Maturity: Why &#39;It Works&#39; Code is Secondary](https://dev.to/noriller/from-mvp-to-maturity-why-it-works-code-is-secondary-39gb)
 <!-- BLOG-POST-LIST:END -->
 
