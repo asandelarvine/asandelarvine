@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL on OpenBSD: 12 から 13 へのアップグレード - pg_dumpall 使用](https://dev.to/nabbisen/postgresql-on-openbsd-12-kara-13-henoatupuguredo-pgdumpall-shi-yong-2kj3)
+- [Foreach macro in C](https://dev.to/sgf4/foreach-macro-in-c-48ic)
+- [PostgreSQL 12: TLS 接続](https://dev.to/nabbisen/postgresql-12-tls-jie-sok-13e6)
 - [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
-- [Bye-bye ChatGPT: AI Tools As Good As ChatGPT](https://dev.to/durgesh4993/bye-bye-chatgpt-ai-tools-as-good-as-chatgpt-4nnl)
-- [#DEVDiscuss: Personal Branding for Developers](https://dev.to/devteam/devdiscuss-personal-branding-for-developers-4c0e)
-- [The more maintainers get paid, the more they work on open source](https://dev.to/tidelift/the-more-maintainers-get-paid-the-more-they-work-on-open-source-aoj)
 <!-- BLOG-POST-LIST:END -->
 
