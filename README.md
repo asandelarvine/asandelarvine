@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Artificial Intelligence in Daily Life](https://dev.to/infydots99/the-future-of-artificial-intelligence-in-daily-life-4f38)
+- [How Microsoft Azure is Revolutionizing Machine Learning](https://dev.to/mightyzuby/how-microsoft-azure-is-revolutionizing-machine-learning-1kl1)
+- [OpenBSD httpd 7.3: Web server](https://dev.to/nabbisen/openbsd-httpd-73-web-server-k1i)
 - [Is CodeGym Free? Is CodeGym Premium really worth it?](https://dev.to/javinpaul/is-codegym-free-is-codegym-premium-really-worth-it-33o8)
-- [PostgreSQL on OpenBSD: 14 から 15 へのアップグレード - pg_upgrade 使用](https://dev.to/nabbisen/postgresql-on-openbsd-14-kara-15-henoatupuguredo-pgupgrade-shi-yong-1kjf)
-- [Navigating the Tech Job Market in a Bad Economy](https://dev.to/philipjohnbasile/navigating-the-tech-job-market-in-a-bad-economy-4p1p)
-- [PostgreSQL 14: TLS 接続](https://dev.to/nabbisen/postgresql-14-tls-jie-sok-4909)
 <!-- BLOG-POST-LIST:END -->
 
