@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Things You Should Avoid While Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/top-10-things-you-should-avoid-while-coding-valuable-tips-for-programmers-1fj3)
-- [Amazon says Micro Services are Rubbish](https://dev.to/polterguy/amazon-says-micro-services-are-rubbish-1igm)
-- [Manage existing resources via Helm!](https://dev.to/aws-builders/manage-existing-resources-via-helm-45ce)
-- [Session tracking using url rewriting in servlet](https://dev.to/realnamehidden1_61/session-tracking-using-url-rewriting-in-servlet-4ba8)
+- [Senior Front-End Developers Share Advice for Juniors: What Would You Add?](https://dev.to/codenewbieteam/senior-front-end-developers-share-advice-for-juniors-what-would-you-add-4bd8)
+- [What&#39;s Your Favorite IT Quote or Rule? And How Does It Influence Your Work?](https://dev.to/devteam/whats-your-favorite-it-quote-or-rule-and-how-does-it-influence-your-work-26pa)
+- [PHP-FPM 8.1 on OpenBSD 7.3](https://dev.to/nabbisen/php-fpm-81-on-openbsd-73-4mee)
+- [Repeat a String for Num times](https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g)
 <!-- BLOG-POST-LIST:END -->
 
