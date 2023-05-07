@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Google apps are built with Flutter?](https://dev.to/fluttershark/which-google-apps-are-built-with-flutter-2b6a)
+- [Decoupling in Java](https://dev.to/ivangavlik/decoupling-using-example-in-java-4cgb)
+- [Strategy Design Pattern in Java with Enum](https://dev.to/pablocavalcanteh/strategy-design-pattern-in-java-with-enum-nc7)
 - [How Open Source Enabled Kubernetes’ Success](https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc)
-- [How to Protect Software Intellectual Property Rights When Outsourcing Product Development](https://dev.to/andriimelnyk/how-to-protect-software-intellectual-property-rights-when-outsourcing-product-development-24ag)
-- [Blazing a Trail: Web App Development with Microsoft Blazor in 2023](https://dev.to/karynadorosh/blazing-a-trail-web-app-development-with-microsoft-blazor-in-2023-57p)
-- [Next.js Project - full amazon clone](https://dev.to/no2ehi/nextjs-project-full-amazon-clone-22ed)
 <!-- BLOG-POST-LIST:END -->
 
