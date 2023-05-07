@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Brain Inspired Approach to AI](https://dev.to/this-is-learning/understanding-the-brain-inspired-approach-to-ai-n5d)
+- [Rust Tauri &lpar;inspired by Electron&rpar; 1.3: Getting started to build apps](https://dev.to/nabbisen/rust-tauri-inspired-by-electron-13-getting-started-to-build-apps-582)
 - [The Magical World of JavaScript Engines: Everything you Need to Know](https://dev.to/rajaniraiyn/the-magical-world-of-javascript-engines-everything-you-need-to-know-1fp7)
 - [Learn How to Solve: LeetCode 46 - Permutations](https://dev.to/niades/learn-how-to-solve-leetcode-46-permutations-3kgj)
-- [Learn How To Listen: Event Listeners And Dynamic Websites](https://dev.to/svper563/learn-how-to-listen-event-listeners-and-dynamic-websites-46h)
-- [CSS Box Loading Animation](https://dev.to/jon_snow789/css-box-loading-animation-3hd5)
 <!-- BLOG-POST-LIST:END -->
 
