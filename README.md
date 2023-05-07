@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Open Source Enabled Kubernetes’ Success](https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc)
+- [How to Protect Software Intellectual Property Rights When Outsourcing Product Development](https://dev.to/andriimelnyk/how-to-protect-software-intellectual-property-rights-when-outsourcing-product-development-24ag)
+- [Blazing a Trail: Web App Development with Microsoft Blazor in 2023](https://dev.to/karynadorosh/blazing-a-trail-web-app-development-with-microsoft-blazor-in-2023-57p)
 - [The Ultimate Guide to Agile Software Development](https://dev.to/ibrahimraimi/the-ultimate-guide-to-agile-software-development-3cfi)
-- [Introduction to Containers](https://dev.to/zahraajawad/introduction-to-containers-ljf)
-- [Why TypeScript is the better JavaScript](https://dev.to/typescripttv/why-typescript-is-the-better-javascript-f5p)
-- [New AI coding language Mojo](https://dev.to/nikolaigamer11/new-ai-coding-language-mojo-5607)
 <!-- BLOG-POST-LIST:END -->
 
