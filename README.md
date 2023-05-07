@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New AI coding language Mojo](https://dev.to/nikolaigamer11/new-ai-coding-language-mojo-5607)
 - [The Right Way to Use Joi Validator in Your Node.js + Express Application](https://dev.to/jeffsalive/the-right-way-to-use-joi-validator-in-your-nodejs-express-application-147g)
 - [CSS Glowing Button Hover Animation](https://dev.to/jon_snow789/css-glowing-button-hover-animation-2nep)
 - [Mastering Async Programming in TypeScript: Promises, Async/Await, and Callbacks](https://dev.to/cliff123tech/mastering-async-programming-in-typescript-promises-asyncawait-and-callbacks-148b)
-- [Deploying Your First Microservice to Kubernetes](https://dev.to/rinkiyakedad/deploying-your-first-microservice-to-kubernetes-ip1)
 <!-- BLOG-POST-LIST:END -->
 
