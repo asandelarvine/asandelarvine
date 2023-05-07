@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Manage existing resources via Helm!](https://dev.to/aws-builders/manage-existing-resources-via-helm-45ce)
 - [Session tracking using url rewriting in servlet](https://dev.to/realnamehidden1_61/session-tracking-using-url-rewriting-in-servlet-4ba8)
 - [Understanding the Brain Inspired Approach to AI](https://dev.to/this-is-learning/understanding-the-brain-inspired-approach-to-ai-n5d)
 - [Rust Tauri &lpar;inspired by Electron&rpar; 1.3: Getting started to build apps](https://dev.to/nabbisen/rust-tauri-inspired-by-electron-13-getting-started-to-build-apps-582)
-- [Using Auth0 with Tauri](https://dev.to/randomengy/using-auth0-with-tauri-14nl)
 <!-- BLOG-POST-LIST:END -->
 
