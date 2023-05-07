@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How Open Source Enabled Kubernetes’ Success](https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc)
 - [How to Protect Software Intellectual Property Rights When Outsourcing Product Development](https://dev.to/andriimelnyk/how-to-protect-software-intellectual-property-rights-when-outsourcing-product-development-24ag)
 - [Blazing a Trail: Web App Development with Microsoft Blazor in 2023](https://dev.to/karynadorosh/blazing-a-trail-web-app-development-with-microsoft-blazor-in-2023-57p)
-- [The Ultimate Guide to Agile Software Development](https://dev.to/ibrahimraimi/the-ultimate-guide-to-agile-software-development-3cfi)
+- [Next.js Project - full amazon clone](https://dev.to/no2ehi/nextjs-project-full-amazon-clone-22ed)
 <!-- BLOG-POST-LIST:END -->
 
