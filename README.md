@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conoha VPS: OpenBSD 7.3 - インストール・メディアを VM にアタッチ](https://dev.to/nabbisen/conoha-vps-openbsd-73-insutorumedeiawo-vm-niatatuti-4j96)
-- [If John Wick was a programmer, what language would he use?](https://dev.to/ugbabeog/if-john-wick-was-a-programmer-what-language-would-he-use-5949)
-- [Building and Deploying Nodejs Backend on AWS using Serverless Framework](https://dev.to/aniketsingh98571/building-and-deploying-nodejs-backend-on-aws-using-serverless-framework-175d)
-- [Why use PHP 8 constructor promotion?](https://dev.to/jmau111/why-use-php-8-constructor-promotion-20n4)
+- [Multi-Stream Joins With SQL](https://dev.to/bobur/multi-stream-joins-with-sql-1n6a)
+- [Yet Another Newsletter LOL: You&#39;re Holding it Wrong](https://dev.to/nickytonline/yet-another-newsletter-lol-youre-holding-it-wrong-2h9o)
+- [useEffect - The Hook React Never Should Have Rendered](https://dev.to/perssondennis/useeffect-the-hook-react-never-should-have-rendered-195h)
+- [What is the difference between frameworks and libraries?](https://dev.to/ugbabeog/what-is-the-difference-between-frameworks-and-libraries-294a)
 <!-- BLOG-POST-LIST:END -->
 
