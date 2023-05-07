@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Conoha VPS: OpenBSD 7.3 - インストール・メディアを VM にアタッチ](https://dev.to/nabbisen/conoha-vps-openbsd-73-insutorumedeiawo-vm-niatatuti-4j96)
 - [If John Wick was a programmer, what language would he use?](https://dev.to/ugbabeog/if-john-wick-was-a-programmer-what-language-would-he-use-5949)
 - [Why use PHP 8 constructor promotion?](https://dev.to/jmau111/why-use-php-8-constructor-promotion-20n4)
-- [Parking Lot System: Code](https://dev.to/lovepreetsingh/parking-lot-system-code-2np9)
+- [Exploring the World of Databases: Cost Estimation in Single-Table Queries with PostgreSQL](https://dev.to/hassanrehan/exploring-the-world-of-databases-cost-estimation-in-single-table-queries-with-postgresql-1gee)
 <!-- BLOG-POST-LIST:END -->
 
