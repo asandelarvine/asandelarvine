@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You need to learn docker... security!](https://dev.to/jmau111/you-need-to-learn-docker-security-4dmj)
 - [Sloan&#39;s Top *5* Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-4j9e)
 - [i built a react library for adding leaderboards to your app in minutes](https://dev.to/dylanintech/i-built-a-react-library-for-adding-leaderboards-to-your-app-in-minutes-5fi5)
 - [Solving a critical bug in the default Rails caching library](https://dev.to/aha/solving-a-critical-bug-in-the-default-rails-caching-library-2ga9)
-- [Climbing the Ladder: Corporate Experience as a Stepping Stone](https://dev.to/snowman647/climbing-the-ladder-corporate-experience-as-a-stepping-stone-3p)
 <!-- BLOG-POST-LIST:END -->
 
