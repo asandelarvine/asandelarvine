@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Would Turing Think?](https://dev.to/codenewbieteam/what-would-turing-think-2p9d)
-- [What&#39;s Your Favorite Text Editor or Terminal Emulator?](https://dev.to/codenewbieteam/whats-your-favorite-text-editor-or-terminal-emulator-h91)
-- [GitHub Copilot X CLI is your new GIT assistant](https://dev.to/this-is-learning/github-copilot-x-cli-is-your-new-git-assistant-1edn)
-- [My Favorite free Courses to Learn Spring Framework](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-spring-framework-jld)
+- [Your Career Questions... and my Answers](https://dev.to/jmfayard/your-careers-questions-and-my-answers-3doo)
+- [5 Best Snowflake Observability Tools for 2023](https://dev.to/chaos-genius/5-best-snowflake-observability-tools-for-2023-e3j)
+- [Katenary ile docker-compose&#39;u helm chart&#39;a çevirmek](https://dev.to/aciklab/katenary-ile-docker-composeu-helm-charta-cevirmek-4ajm)
+- [Have ChatGPT Scrape your Website](https://dev.to/polterguy/have-chatgpt-scrape-your-website-2lpo)
 <!-- BLOG-POST-LIST:END -->
 
