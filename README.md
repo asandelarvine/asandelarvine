@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Inner AI Superhero: 5 Must-Have Tools for the Modern Innovator](https://dev.to/thenomadevel/unleash-your-inner-ai-superhero-5-must-have-tools-for-the-modern-innovator-pad)
-- [Rest API with GO Lang and PostgreSQL](https://dev.to/alakkadshaw/rest-api-with-go-lang-and-postgresql-1m3m)
-- [Music Monday — What are you listening to? &lpar;Nostalgia Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-nostalgia-edition-5hfk)
-- [Stop using useState for everything](https://dev.to/dougyoshii/stop-using-usestate-for-everything-5a06)
+- [Sloan&#39;s Top *5* Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-4j9e)
+- [i built a react library for adding leaderboards to your app in minutes](https://dev.to/dylanintech/i-built-a-react-library-for-adding-leaderboards-to-your-app-in-minutes-5fi5)
+- [Solving a critical bug in the default Rails caching library](https://dev.to/aha/solving-a-critical-bug-in-the-default-rails-caching-library-2ga9)
+- [Climbing the Ladder: Corporate Experience as a Stepping Stone](https://dev.to/snowman647/climbing-the-ladder-corporate-experience-as-a-stepping-stone-3p)
 <!-- BLOG-POST-LIST:END -->
 
