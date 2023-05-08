@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
+- [Guide to using React Custom Hooks](https://dev.to/ismailadegbite/guide-to-using-react-custom-hooks-1kdo)
 - [Formatting External Drives On Linux Using Gparted.](https://dev.to/thekalderon/formatting-external-drives-on-linux-using-gparted-5goa)
 - [Local Storage vs Session Storage in JavaScript](https://dev.to/valentinaperic/local-storage-vs-session-storage-in-javascript-1p8h)
-- [Which Google apps are built with Flutter?](https://dev.to/fluttershark/which-google-apps-are-built-with-flutter-2b6a)
 <!-- BLOG-POST-LIST:END -->
 
