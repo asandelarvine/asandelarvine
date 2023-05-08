@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash Your Inner AI Superhero: 5 Must-Have Tools for the Modern Innovator](https://dev.to/thenomadevel/unleash-your-inner-ai-superhero-5-must-have-tools-for-the-modern-innovator-pad)
+- [Rest API with GO Lang and PostgreSQL](https://dev.to/alakkadshaw/rest-api-with-go-lang-and-postgresql-1m3m)
+- [Music Monday — What are you listening to? &lpar;Nostalgia Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-nostalgia-edition-5hfk)
 - [Stop using useState for everything](https://dev.to/dougyoshii/stop-using-usestate-for-everything-5a06)
-- [System Design: Google Drive That Scales To The Moon](https://dev.to/shreyanshsheth/system-design-google-drive-that-scales-to-the-moon-2a83)
-- [ChatGPT Meets GitHub Codespaces: How I&#39;m Optimizing ChatGPT Quickstart Plugins for Remote Development](https://dev.to/github/chatgpt-meets-github-codespaces-how-im-optimizing-chatgpt-quickstart-plugins-for-remote-development-5bc8)
-- [Permission, responsibility, and empowerment](https://dev.to/ben/permission-responsibility-and-empowerment-4p6p)
 <!-- BLOG-POST-LIST:END -->
 
