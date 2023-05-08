@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Take your notifications to the next level with Laravel Notify](https://dev.to/codeofrelevancy/take-your-notifications-to-the-next-level-with-laravel-notify-1gcn)
-- [FLiPN-FLaNK Stack Weekly May 8 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-may-8-2023-41a1)
-- [Meme Monday](https://dev.to/ben/meme-monday-66l)
-- [effector-storage v6](https://dev.to/effector/effector-storage-v6-34md)
+- [How to have colors in logs ?](https://dev.to/mxglt/how-to-have-colors-in-logs--2bip)
+- [Comment avoir des logs de couleur?](https://dev.to/mxglt/comment-avoir-des-logs-de-couleur-4jlc)
+- [Weekly Roundup &lpar;May 1&rpar; - 🔥Hot Topics🔥 in workplace, sharepoint, and powerplatform](https://dev.to/jaloplo/weekly-roundup-may-1-hot-topics-in-workplace-sharepoint-and-powerplatform-42bf)
+- [Live Streaming With Multiple Hosts via a Browser With Amazon IVS](https://dev.to/aws/live-streaming-with-multiple-hosts-via-a-browser-with-amazon-ivs-c8l)
 <!-- BLOG-POST-LIST:END -->
 
