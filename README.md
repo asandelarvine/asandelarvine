@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DHCP Sunucusunun Loglarını 2 Farklı Syslog Sunucusuna Aynı Anda Gönderme](https://dev.to/aciklab/dhcp-sunucusunun-loglarini-2-farkli-syslog-sunucusuna-ayni-anda-gonderme-12c0)
-- [Serverless Empowers Accessibility: Convert Text to Speech with Amazon Polly](https://dev.to/aws-builders/serverless-empowers-accessibility-convert-text-to-speech-with-amazon-polly-49mh)
-- [Docker Networking: A Step-by-Step Guide for Developers](https://dev.to/rwiteshbera/docker-networking-a-step-by-step-guide-for-developers-2d27)
-- [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
+- [What Would Turing Think?](https://dev.to/codenewbieteam/what-would-turing-think-2p9d)
+- [What&#39;s Your Favorite Text Editor or Terminal Emulator?](https://dev.to/codenewbieteam/whats-your-favorite-text-editor-or-terminal-emulator-h91)
+- [GitHub Copilot X CLI is your new GIT assistant](https://dev.to/this-is-learning/github-copilot-x-cli-is-your-new-git-assistant-1edn)
+- [My Favorite free Courses to Learn Spring Framework](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-spring-framework-jld)
 <!-- BLOG-POST-LIST:END -->
 
