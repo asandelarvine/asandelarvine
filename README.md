@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamline Your Development Workflow with AWS Amplify&#39;s Deployment Environment](https://dev.to/inrange/streamline-your-development-workflow-with-aws-amplifys-deployment-environment-4lg2)
+- [Exploding Kittens Card Game - React, Nodejs and Redis](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-4ci8)
 - [Open Source Terminology 101: A Primer for New Contributors](https://dev.to/opensauced/open-source-terminology-101-a-primer-for-new-contributors-k46)
 - [My Journey to GSoC&#39;2023](https://dev.to/prerna0202/my-journey-to-gsoc2023-656)
-- [Are wrapper-apps around the ChatGPT API — a viable business? &lpar;hint — not really&rpar;](https://dev.to/justlev2/are-wrapper-apps-around-the-chatgpt-api-a-viable-business-hint-not-really-37d8)
-- [memo vs useMemo in React](https://dev.to/alakkadshaw/memo-vs-usememo-in-react-ddb)
 <!-- BLOG-POST-LIST:END -->
 
