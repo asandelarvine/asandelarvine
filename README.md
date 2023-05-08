@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #156](https://dev.to/aws/aws-open-source-newsletter-156-lim)
 - [Your Career Questions... and my Answers](https://dev.to/jmfayard/your-careers-questions-and-my-answers-3doo)
 - [5 Best Snowflake Observability Tools for 2023](https://dev.to/chaos-genius/5-best-snowflake-observability-tools-for-2023-e3j)
 - [Katenary ile docker-compose&#39;u helm chart&#39;a çevirmek](https://dev.to/aciklab/katenary-ile-docker-composeu-helm-charta-cevirmek-4ajm)
-- [Have ChatGPT Scrape your Website](https://dev.to/polterguy/have-chatgpt-scrape-your-website-2lpo)
 <!-- BLOG-POST-LIST:END -->
 
