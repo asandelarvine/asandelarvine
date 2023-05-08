@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Database 101: How social media “likes” are stored in a database](https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii)
 - [Streamline Your Development Workflow with AWS Amplify&#39;s Deployment Environment](https://dev.to/inrange/streamline-your-development-workflow-with-aws-amplifys-deployment-environment-4lg2)
 - [Exploding Kittens Card Game - React, Nodejs and Redis](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-4ci8)
-- [Open Source Terminology 101: A Primer for New Contributors](https://dev.to/opensauced/open-source-terminology-101-a-primer-for-new-contributors-k46)
-- [My Journey to GSoC&#39;2023](https://dev.to/prerna0202/my-journey-to-gsoc2023-656)
+- [23 Best CSS Frameworks For React In 2023](https://dev.to/scofieldidehen/23-best-css-frameworks-for-react-in-2023-4pcg)
 <!-- BLOG-POST-LIST:END -->
 
