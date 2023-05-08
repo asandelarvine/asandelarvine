@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 ChatGPT helpful commands and inputs for Developers to speed up coding](https://dev.to/dhruvjoshi9/top-10-chatgpt-helpful-commands-and-inputs-for-developers-to-speed-up-coding-491p)
+- [What is a slug and how to create one?](https://dev.to/dhairyashah/what-is-a-slug-and-how-to-create-one-j9f)
+- [Revolutionise your Team Management Processes with Notion 🔥](https://dev.to/xenoxdev/revolutionise-your-team-management-processes-with-notion-10ao)
 - [How to have colors in logs ?](https://dev.to/mxglt/how-to-have-colors-in-logs--2bip)
-- [Comment avoir des logs de couleur?](https://dev.to/mxglt/comment-avoir-des-logs-de-couleur-4jlc)
-- [Weekly Roundup &lpar;May 1&rpar; - 🔥Hot Topics🔥 in workplace, sharepoint, and powerplatform](https://dev.to/jaloplo/weekly-roundup-may-1-hot-topics-in-workplace-sharepoint-and-powerplatform-42bf)
-- [Live Streaming With Multiple Hosts via a Browser With Amazon IVS](https://dev.to/aws/live-streaming-with-multiple-hosts-via-a-browser-with-amazon-ivs-c8l)
 <!-- BLOG-POST-LIST:END -->
 
