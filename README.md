@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Formatting External Drives On Linux Using Gparted.](https://dev.to/thekalderon/formatting-external-drives-on-linux-using-gparted-5goa)
+- [Local Storage vs Session Storage in JavaScript](https://dev.to/valentinaperic/local-storage-vs-session-storage-in-javascript-1p8h)
 - [Which Google apps are built with Flutter?](https://dev.to/fluttershark/which-google-apps-are-built-with-flutter-2b6a)
 - [Decoupling in Java](https://dev.to/ivangavlik/decoupling-using-example-in-java-4cgb)
-- [Strategy Design Pattern in Java with Enum](https://dev.to/pablocavalcanteh/strategy-design-pattern-in-java-with-enum-nc7)
-- [How Open Source Enabled Kubernetes’ Success](https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc)
 <!-- BLOG-POST-LIST:END -->
 
