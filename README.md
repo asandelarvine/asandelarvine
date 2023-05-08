@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using useState for everything](https://dev.to/dougyoshii/stop-using-usestate-for-everything-5a06)
+- [System Design: Google Drive That Scales To The Moon](https://dev.to/shreyanshsheth/system-design-google-drive-that-scales-to-the-moon-2a83)
+- [ChatGPT Meets GitHub Codespaces: How I&#39;m Optimizing ChatGPT Quickstart Plugins for Remote Development](https://dev.to/github/chatgpt-meets-github-codespaces-how-im-optimizing-chatgpt-quickstart-plugins-for-remote-development-5bc8)
 - [Permission, responsibility, and empowerment](https://dev.to/ben/permission-responsibility-and-empowerment-4p6p)
-- [Database 101: How social media “likes” are stored in a database](https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii)
-- [Picturesocial - Cómo añadir integración continua y entrega continua a mi aplicación](https://dev.to/aws/como-anadir-integracion-continua-y-entrega-continua-a-tu-aplicacion-51jk)
-- [Streamline Your Development Workflow with AWS Amplify&#39;s Deployment Environment](https://dev.to/inrange/streamline-your-development-workflow-with-aws-amplifys-deployment-environment-4lg2)
 <!-- BLOG-POST-LIST:END -->
 
