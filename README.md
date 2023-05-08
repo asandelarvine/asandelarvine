@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Juicy CSS Resources For Developers](https://dev.to/arafat4693/best-css-resources-for-developers-22h2)
-- [Async/Await: Asynchronous Programming In Python](https://dev.to/sachingeek/asyncawait-asynchronous-programming-in-python-3a4i)
-- [Core Principles of DevOps](https://dev.to/rainleander/core-principles-of-devops-43fg)
-- [The Internals of PostgreSQL: Database Cluster, Databases, and Tables](https://dev.to/sadeeddahmad/the-internals-of-postgresql-database-cluster-databases-and-tables-n2d)
+- [Take your notifications to the next level with Laravel Notify](https://dev.to/codeofrelevancy/take-your-notifications-to-the-next-level-with-laravel-notify-1gcn)
+- [FLiPN-FLaNK Stack Weekly May 8 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-may-8-2023-41a1)
+- [Meme Monday](https://dev.to/ben/meme-monday-66l)
+- [effector-storage v6](https://dev.to/effector/effector-storage-v6-34md)
 <!-- BLOG-POST-LIST:END -->
 
