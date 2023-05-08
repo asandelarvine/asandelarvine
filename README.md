@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the Discussion: Tell Us About Your Latest Projects 💪💪](https://dev.to/jeffsalive/join-the-discussion-tell-us-about-your-latest-projects-59n3)
-- [GitHub + Dev Hackathon 2023 - Self-hosted Azure Pipelines Agent Codespace/Dev Container](https://dev.to/pwd9000/self-hosted-azure-pipelines-agent-codespacedev-container-3omd)
-- [Creating a C# Chatbot with ChatGPT🤖 &lpar;Easy&rpar; + GitHub Repository](https://dev.to/bytehide/creating-a-c-chatbot-with-chatgpt-easy-github-repo-4jih)
-- [Transitioning from a designer to a frontend developer](https://dev.to/clickpesa/transitioning-from-a-designer-to-a-frontend-developer-30jl)
+- [Juicy CSS Resources For Developers](https://dev.to/arafat4693/best-css-resources-for-developers-22h2)
+- [Async/Await: Asynchronous Programming In Python](https://dev.to/sachingeek/asyncawait-asynchronous-programming-in-python-3a4i)
+- [Core Principles of DevOps](https://dev.to/rainleander/core-principles-of-devops-43fg)
+- [The Internals of PostgreSQL: Database Cluster, Databases, and Tables](https://dev.to/sadeeddahmad/the-internals-of-postgresql-database-cluster-databases-and-tables-n2d)
 <!-- BLOG-POST-LIST:END -->
 
