@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Networking: A Step-by-Step Guide for Developers](https://dev.to/rwiteshbera/docker-networking-a-step-by-step-guide-for-developers-2d27)
 - [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
 - [Guide to using React Custom Hooks](https://dev.to/ismailadegbite/guide-to-using-react-custom-hooks-1kdo)
 - [Formatting External Drives On Linux Using Gparted.](https://dev.to/thekalderon/formatting-external-drives-on-linux-using-gparted-5goa)
-- [Local Storage vs Session Storage in JavaScript](https://dev.to/valentinaperic/local-storage-vs-session-storage-in-javascript-1p8h)
 <!-- BLOG-POST-LIST:END -->
 
