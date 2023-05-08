@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 ChatGPT helpful commands and inputs for Developers to speed up coding](https://dev.to/dhruvjoshi9/top-10-chatgpt-helpful-commands-and-inputs-for-developers-to-speed-up-coding-491p)
-- [What is a slug and how to create one?](https://dev.to/dhairyashah/what-is-a-slug-and-how-to-create-one-j9f)
-- [Revolutionise your Team Management Processes with Notion 🔥](https://dev.to/xenoxdev/revolutionise-your-team-management-processes-with-notion-10ao)
-- [How to have colors in logs ?](https://dev.to/mxglt/how-to-have-colors-in-logs--2bip)
+- [Open Source Terminology 101: A Primer for New Contributors](https://dev.to/opensauced/open-source-terminology-101-a-primer-for-new-contributors-k46)
+- [My Journey to GSoC&#39;2023](https://dev.to/prerna0202/my-journey-to-gsoc2023-656)
+- [Are wrapper-apps around the ChatGPT API — a viable business? &lpar;hint — not really&rpar;](https://dev.to/justlev2/are-wrapper-apps-around-the-chatgpt-api-a-viable-business-hint-not-really-37d8)
+- [memo vs useMemo in React](https://dev.to/alakkadshaw/memo-vs-usememo-in-react-ddb)
 <!-- BLOG-POST-LIST:END -->
 
