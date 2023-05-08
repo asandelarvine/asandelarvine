@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Discussion: Tell Us About Your Latest Projects 💪💪](https://dev.to/jeffsalive/join-the-discussion-tell-us-about-your-latest-projects-59n3)
+- [GitHub + Dev Hackathon 2023 - Self-hosted Azure Pipelines Agent Codespace/Dev Container](https://dev.to/pwd9000/self-hosted-azure-pipelines-agent-codespacedev-container-3omd)
 - [Creating a C# Chatbot with ChatGPT🤖 &lpar;Easy&rpar; + GitHub Repository](https://dev.to/bytehide/creating-a-c-chatbot-with-chatgpt-easy-github-repo-4jih)
-- [AWS open source newsletter, #156](https://dev.to/aws/aws-open-source-newsletter-156-lim)
-- [🔑 10 Easy Tips to Make Your Code Look Pro!](https://dev.to/dvc-77/10-easy-tips-to-make-your-code-look-pro-300n)
-- [Your Career Questions... and my Answers](https://dev.to/jmfayard/your-careers-questions-and-my-answers-3doo)
+- [Transitioning from a designer to a frontend developer](https://dev.to/clickpesa/transitioning-from-a-designer-to-a-frontend-developer-30jl)
 <!-- BLOG-POST-LIST:END -->
 
