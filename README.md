@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DHCP Sunucusunun Loglarını 2 Farklı Syslog Sunucusuna Aynı Anda Gönderme](https://dev.to/aciklab/dhcp-sunucusunun-loglarini-2-farkli-syslog-sunucusuna-ayni-anda-gonderme-12c0)
+- [Serverless Empowers Accessibility: Convert Text to Speech with Amazon Polly](https://dev.to/aws-builders/serverless-empowers-accessibility-convert-text-to-speech-with-amazon-polly-49mh)
 - [Docker Networking: A Step-by-Step Guide for Developers](https://dev.to/rwiteshbera/docker-networking-a-step-by-step-guide-for-developers-2d27)
 - [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
-- [Guide to using React Custom Hooks](https://dev.to/ismailadegbite/guide-to-using-react-custom-hooks-1kdo)
-- [Formatting External Drives On Linux Using Gparted.](https://dev.to/thekalderon/formatting-external-drives-on-linux-using-gparted-5goa)
 <!-- BLOG-POST-LIST:END -->
 
