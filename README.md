@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: HTMX](https://dev.to/devteam/devdiscuss-htmx-415g)
+- [How has development changed over the course of the pandemic?](https://dev.to/softwaredotcom/how-has-development-changed-over-the-course-of-the-pandemic-26kd)
 - [Midpoint Reminder! — GitHub + DEV 2023 Hackathon](https://dev.to/devteam/midpoint-reminder-github-dev-2023-hackathon-lni)
-- [New Meteor.js 2.12 and Blaze 2.6.2 Release](https://dev.to/meteorjs/new-meteorjs-212-and-blaze-262-release-1h37)
-- [HOW TO CREATE AN AZURE IoT HUB AND CONFIGURE THE HUB TO AUTHENTICATE A CONNECTION TO AN IoT DEVICE USING RASPBERRY PI SIMULATOR](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-iot-hub-and-configure-the-hub-to-authenticate-a-connection-to-an-iot-device-using-raspberry-pi-simulator-22p3)
-- [Chat GPT Down? Try these 6 tested alternatives!](https://dev.to/hackertab/chat-gpt-down-try-these-top-6-tested-alternatives-25o)
+- [Goodbye Cloud, Hello CLI: Sunsetting Kubestack Cloud](https://dev.to/kubestack/goodbye-cloud-hello-cli-sunsetting-kubestack-cloud-12l4)
 <!-- BLOG-POST-LIST:END -->
 
