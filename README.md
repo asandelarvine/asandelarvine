@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Plugin to post Wordpress posts to DEV.to 🚀](https://dev.to/github20k/plugin-to-post-wordpress-posts-to-devto-5e5e)
+- [Debouncing vs Throttling in JS](https://dev.to/shishsingh/debouncing-vs-throttling-in-js-5dpa)
 - [Microservices: What to check in readiness probes?](https://dev.to/frolk/microservices-what-to-check-in-readiness-probes-3epo)
 - [My first CTF game](https://dev.to/apetryla/my-first-ctf-game-2lej)
-- [The ongoing defence of frontend as a full-time job](https://dev.to/codepo8/the-ongoing-defence-of-frontend-as-a-full-time-job-3dp2)
-- [Programmer&#39;s Physical and Mental Health: The Importance of Balance](https://dev.to/harismehar5/programmers-physical-and-mental-health-the-importance-of-balance-3772)
 <!-- BLOG-POST-LIST:END -->
 
