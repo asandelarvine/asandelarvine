@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Chat GPT Down? Try these 6 tested alternatives!](https://dev.to/hackertab/chat-gpt-down-try-these-top-6-tested-alternatives-25o)
 - [15 Rules For Writing Clean JavaScript](https://dev.to/mohammadfaisal/15-rules-for-writing-clean-javascript-1og8)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40jm)
 - [How to build machine learning regression models with Python](https://dev.to/educative/how-to-build-machine-learning-regression-models-with-python-54a4)
-- [Notifications in progressive web apps using web push](https://dev.to/inezabonte/notifications-in-progressive-web-apps-using-web-push-593l)
 <!-- BLOG-POST-LIST:END -->
 
