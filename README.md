@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Snowflake Time Travel to Recover Deleted Data?](https://dev.to/chaos-genius/how-to-use-snowflake-time-travel-to-recover-deleted-data-2hdd)
+- [Most Managers Have No Clue What Programmers Actually Do](https://dev.to/bytebodger/most-managers-have-no-clue-what-we-actually-do-k07)
+- [Ecommerce Website Using HTML, CSS, and JavaScript &lpar;Source Code&rpar;](https://dev.to/cwrcode/ecommerce-website-using-html-css-and-javascript-source-code-1c8c)
 - [Setting Up Your Full-Stack Development Environment with Python, Django, and React](https://dev.to/anurag629/setting-up-your-full-stack-development-environment-with-python-django-and-react-1457)
-- [10 most common mistakes when using Kubernetes](https://dev.to/pragyanatvade/10-most-common-mistakes-when-using-kubernetes-2acd)
-- [Kubernetes Services Evolution](https://dev.to/haydenrear/kubernetes-services-evolution-414k)
-- [Auth.Tesla.com&#39;s Vulnerability Leads To Account Takeover of Internal Tesla Accounts](https://dev.to/tutorialboy/authteslacoms-vulnerability-leads-to-account-takeover-of-internal-tesla-accounts-1fci)
 <!-- BLOG-POST-LIST:END -->
 
