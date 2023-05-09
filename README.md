@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add In-App notifications to any web app!](https://dev.to/novu/how-to-add-in-app-notifications-to-any-web-app-1b4n)
 - [🔥Hot CSS Tools For Everyone](https://dev.to/arafat4693/hot-css-tools-for-everyone-1b8o)
 - [How Custom Magento Development Can Help Boost Your eCommerce Sales](https://dev.to/samuleduke/how-custom-magento-development-can-help-boost-your-ecommerce-sales-4c16)
-- [Chrome Extension with React + CRXJS + Vite + Docker](https://dev.to/mk668a/chrome-extension-with-react-crxjs-vite-docker-3pm8)
-- [How Can Developers and Testers Work Better Together?](https://dev.to/mathilde_llg/how-can-developers-and-testers-work-better-together-379g)
+- [Symfony 5: The ubiquitous of API Platform](https://dev.to/jmau111/symfony-5-the-ubiquitous-of-api-platform-26ei)
 <!-- BLOG-POST-LIST:END -->
 
