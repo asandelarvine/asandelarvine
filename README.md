@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Midpoint Reminder! — GitHub + DEV 2023 Hackathon](https://dev.to/devteam/midpoint-reminder-github-dev-2023-hackathon-lni)
+- [New Meteor.js 2.12 and Blaze 2.6.2 Release](https://dev.to/meteorjs/new-meteorjs-212-and-blaze-262-release-1h37)
+- [HOW TO CREATE AN AZURE IoT HUB AND CONFIGURE THE HUB TO AUTHENTICATE A CONNECTION TO AN IoT DEVICE USING RASPBERRY PI SIMULATOR](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-iot-hub-and-configure-the-hub-to-authenticate-a-connection-to-an-iot-device-using-raspberry-pi-simulator-22p3)
 - [Chat GPT Down? Try these 6 tested alternatives!](https://dev.to/hackertab/chat-gpt-down-try-these-top-6-tested-alternatives-25o)
-- [15 Rules For Writing Clean JavaScript](https://dev.to/mohammadfaisal/15-rules-for-writing-clean-javascript-1og8)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40jm)
-- [How to build machine learning regression models with Python](https://dev.to/educative/how-to-build-machine-learning-regression-models-with-python-54a4)
 <!-- BLOG-POST-LIST:END -->
 
