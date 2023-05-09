@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Plugin to post Wordpress posts to DEV.to 🚀](https://dev.to/github20k/plugin-to-post-wordpress-posts-to-devto-5e5e)
-- [Debouncing vs Throttling in JS](https://dev.to/shishsingh/debouncing-vs-throttling-in-js-5dpa)
-- [Microservices: What to check in readiness probes?](https://dev.to/frolk/microservices-what-to-check-in-readiness-probes-3epo)
-- [My first CTF game](https://dev.to/apetryla/my-first-ctf-game-2lej)
+- [Chrome Extension with React + CRXJS + Vite + Docker](https://dev.to/mk668a/chrome-extension-with-react-crxjs-vite-docker-3pm8)
+- [How Can Developers and Testers Work Better Together?](https://dev.to/mathilde_llg/how-can-developers-and-testers-work-better-together-379g)
+- [Smart Cities? Smart Villages? Can we have them both? Is there a quick way to this?](https://dev.to/stephenkgitahi/smart-cities-smart-villages-can-we-have-them-both-is-there-a-quick-way-to-this-21c)
+- [Moonly weekly progress update #48 - Optimizing our Discord Bot](https://dev.to/moonly/moonly-weekly-progress-update-48-optimizing-our-discord-bot-410m)
 <!-- BLOG-POST-LIST:END -->
 
