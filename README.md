@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Snowflake Time Travel to Recover Deleted Data?](https://dev.to/chaos-genius/how-to-use-snowflake-time-travel-to-recover-deleted-data-2hdd)
-- [How Machine-Assisted Code Generation is Revolutionizing the Development Process](https://dev.to/amplication/how-machine-assisted-code-generation-is-revolutionizing-the-development-process-h85)
-- [Most Managers Have No Clue What Programmers Actually Do](https://dev.to/bytebodger/most-managers-have-no-clue-what-we-actually-do-k07)
-- [Why AI will never take your job](https://dev.to/polterguy/why-ai-will-never-take-your-job-5eg8)
+- [What&#39;s the Wackiest Coding Hack You&#39;ve Ever Seen?](https://dev.to/devteam/whats-the-wackiest-coding-hack-youve-ever-seen-134k)
+- [What Are Some Warning Signs of a Dysfunctional Coding Environment?](https://dev.to/codenewbieteam/what-are-some-warning-signs-of-a-dysfunctional-coding-environment-khp)
+- [Creating Bento Grid Layouts with CSS &lpar;Tailwind CSS&rpar;](https://dev.to/ibelick/creating-bento-grid-layouts-with-css-tailwind-css-26mo)
+- [50+ HTML, CSS and JavaScript Projects With Source Code](https://dev.to/cwrcode/50-html-css-and-javascript-projects-with-source-code-5dp2)
 <!-- BLOG-POST-LIST:END -->
 
