@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive guide to pinia](https://dev.to/miracool/a-comprehensive-guide-to-pinia-3bd1)
+- [Observabilidade 101 - Entendendo o que acontece no seu sistema](https://dev.to/pedropms/observabilidade-101-entendendo-o-que-acontece-no-seu-sistema-23hg)
 - [Best Practices for Writing on DEV: Listicles](https://dev.to/devteam/best-practices-for-writing-on-dev-listicles-16e5)
 - [#DEVDiscuss: HTMX](https://dev.to/devteam/devdiscuss-htmx-415g)
-- [How has development changed over the course of the pandemic?](https://dev.to/softwaredotcom/how-has-development-changed-over-the-course-of-the-pandemic-26kd)
-- [Power of useLayoutEffect for solving Hydration error in Next js.](https://dev.to/kawanedres/power-of-uselayouteffect-for-solving-hydration-error-in-next-js-4ekm)
 <!-- BLOG-POST-LIST:END -->
 
