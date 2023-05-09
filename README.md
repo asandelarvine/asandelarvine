@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Wackiest Coding Hack You&#39;ve Ever Seen?](https://dev.to/devteam/whats-the-wackiest-coding-hack-youve-ever-seen-134k)
+- [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
+- [Let&#39;s Understand ChatGPT](https://dev.to/ipratikmali/lets-understand-chatgpt-1hmf)
+- [3D Animated Search Bar](https://dev.to/jon_snow789/3d-animated-search-bar-33cd)
 - [What Are Some Warning Signs of a Dysfunctional Coding Environment?](https://dev.to/codenewbieteam/what-are-some-warning-signs-of-a-dysfunctional-coding-environment-khp)
-- [Creating Bento Grid Layouts with CSS &lpar;Tailwind CSS&rpar;](https://dev.to/ibelick/creating-bento-grid-layouts-with-css-tailwind-css-26mo)
-- [50+ HTML, CSS and JavaScript Projects With Source Code](https://dev.to/cwrcode/50-html-css-and-javascript-projects-with-source-code-5dp2)
 <!-- BLOG-POST-LIST:END -->
 
