@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You need to learn docker... security!](https://dev.to/jmau111/you-need-to-learn-docker-security-4dmj)
-- [Sloan&#39;s Top *5* Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-4j9e)
-- [i built a react library for adding leaderboards to your app in minutes](https://dev.to/dylanintech/i-built-a-react-library-for-adding-leaderboards-to-your-app-in-minutes-5fi5)
-- [Solving a critical bug in the default Rails caching library](https://dev.to/aha/solving-a-critical-bug-in-the-default-rails-caching-library-2ga9)
+- [Kubernetes Services Evolution](https://dev.to/haydenrear/kubernetes-services-evolution-414k)
+- [Auth.Tesla.com&#39;s Vulnerability Leads To Account Takeover of Internal Tesla Accounts](https://dev.to/tutorialboy/authteslacoms-vulnerability-leads-to-account-takeover-of-internal-tesla-accounts-1fci)
+- [React Suspense for Data Fetching with Axios in React 18](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
+- [Guide to Hosting a Static Website on AWS Using S3, CloudFront, and Route53, with just 7 Steps](https://dev.to/aws-builders/guide-to-hosting-a-static-website-on-aws-using-s3-cloudfront-and-route53-with-just-7-steps-220b)
 <!-- BLOG-POST-LIST:END -->
 
