@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
-- [Let&#39;s Understand ChatGPT](https://dev.to/ipratikmali/lets-understand-chatgpt-1hmf)
-- [3D Animated Search Bar](https://dev.to/jon_snow789/3d-animated-search-bar-33cd)
-- [What&#39;s the Wackiest Coding Hack You&#39;ve Ever Seen?](https://dev.to/devteam/whats-the-wackiest-coding-hack-youve-ever-seen-134k)
+- [Microservices: What to check in readiness probes?](https://dev.to/frolk/microservices-what-to-check-in-readiness-probes-3epo)
+- [My first CTF game](https://dev.to/apetryla/my-first-ctf-game-2lej)
+- [The ongoing defence of frontend as a full-time job](https://dev.to/codepo8/the-ongoing-defence-of-frontend-as-a-full-time-job-3dp2)
+- [Programmer&#39;s Physical and Mental Health: The Importance of Balance](https://dev.to/harismehar5/programmers-physical-and-mental-health-the-importance-of-balance-3772)
 <!-- BLOG-POST-LIST:END -->
 
