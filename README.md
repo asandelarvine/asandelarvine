@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Your Full-Stack Development Environment with Python, Django, and React](https://dev.to/anurag629/setting-up-your-full-stack-development-environment-with-python-django-and-react-1457)
+- [10 most common mistakes when using Kubernetes](https://dev.to/pragyanatvade/10-most-common-mistakes-when-using-kubernetes-2acd)
 - [Kubernetes Services Evolution](https://dev.to/haydenrear/kubernetes-services-evolution-414k)
 - [Auth.Tesla.com&#39;s Vulnerability Leads To Account Takeover of Internal Tesla Accounts](https://dev.to/tutorialboy/authteslacoms-vulnerability-leads-to-account-takeover-of-internal-tesla-accounts-1fci)
-- [React Suspense for Data Fetching with Axios in React 18](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
-- [Guide to Hosting a Static Website on AWS Using S3, CloudFront, and Route53, with just 7 Steps](https://dev.to/aws-builders/guide-to-hosting-a-static-website-on-aws-using-s3-cloudfront-and-route53-with-just-7-steps-220b)
 <!-- BLOG-POST-LIST:END -->
 
