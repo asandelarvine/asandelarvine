@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use Snowflake Time Travel to Recover Deleted Data?](https://dev.to/chaos-genius/how-to-use-snowflake-time-travel-to-recover-deleted-data-2hdd)
+- [How Machine-Assisted Code Generation is Revolutionizing the Development Process](https://dev.to/amplication/how-machine-assisted-code-generation-is-revolutionizing-the-development-process-h85)
 - [Most Managers Have No Clue What Programmers Actually Do](https://dev.to/bytebodger/most-managers-have-no-clue-what-we-actually-do-k07)
-- [Ecommerce Website Using HTML, CSS, and JavaScript &lpar;Source Code&rpar;](https://dev.to/cwrcode/ecommerce-website-using-html-css-and-javascript-source-code-1c8c)
-- [Setting Up Your Full-Stack Development Environment with Python, Django, and React](https://dev.to/anurag629/setting-up-your-full-stack-development-environment-with-python-django-and-react-1457)
+- [Why AI will never take your job](https://dev.to/polterguy/why-ai-will-never-take-your-job-5eg8)
 <!-- BLOG-POST-LIST:END -->
 
