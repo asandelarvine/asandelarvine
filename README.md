@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing NgRx v16: Integration with Angular Signals, Functional Effects, Standalone Schematics, and more!](https://dev.to/ngrx/announcing-ngrx-v16-integration-with-angular-signals-functional-effects-standalone-schematics-and-more-5gk6)
+- [Java String Templates Today](https://dev.to/codenameone/java-string-templates-today-p4j)
+- [Exploding Kittens Card Game - React, Nodejs and Redis &lpar;Part 2&rpar;](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-part-2-4ohf)
 - [How to Become a Certified Web3 Developer](https://dev.to/kudoser/how-to-become-a-certified-web3-developer-iph)
-- [What Makes Ruby Easy to Learn &amp; Use?](https://dev.to/codenewbieteam/what-makes-ruby-easy-to-learn-use-2f6n)
-- [How I Developed a Software Cost Calculator](https://dev.to/romanlapa/how-i-developed-a-software-cost-calculator-34ml)
-- [How to add In-App notifications to any web app!](https://dev.to/novu/how-to-add-in-app-notifications-to-any-web-app-1b4n)
 <!-- BLOG-POST-LIST:END -->
 
