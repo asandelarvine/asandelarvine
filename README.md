@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sum All Numbers in a Range](https://dev.to/muhmmadawd/sum-all-numbers-in-a-range-1p8o)
-- [Hands-on Amazon ECS for Blue-Green Deployments With CDK Typescript - Part 1](https://dev.to/aws-builders/hands-on-amazon-ecs-for-blue-green-deployments-with-cdk-typescript-part-1-4ie3)
-- [Cómo crear y administrar una organización en GitHub](https://dev.to/github/como-crear-y-administrar-una-organizacion-en-github-5fdg)
-- [Anahtarı olmayan APT deposuna güvenilirliğin sağlanması](https://dev.to/aciklab/anahtari-olmayan-apt-deposuna-guvenilirligin-saglanmasi-4018)
+- [Lucene.NET for search applications](https://dev.to/foxminchan/lucenenet-for-search-applications-k19)
+- [CodeNewbie Podcast, S24:E1— &quot;From Customer Service to Code&quot;](https://dev.to/codenewbieteam/codenewbie-podcast-s24e1-from-customer-service-to-code-290d)
+- [How I learned about JavaScript Proxy and why it&#39;s so cool!](https://dev.to/h_sifat/how-i-learned-about-javascript-proxy-and-why-its-so-cool-1mc)
+- [Diff form Two Arrays](https://dev.to/muhmmadawd/diff-form-two-arrays-4je3)
 <!-- BLOG-POST-LIST:END -->
 
