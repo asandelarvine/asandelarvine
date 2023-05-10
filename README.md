@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Planning a Project from Scratch: The Ultimate Guide for Success 🏆](https://dev.to/jimmymcbride/planning-a-project-from-scratch-the-ultimate-guide-for-success-4fna)
+- [Unleashing the Full Potential of the CSS Box Model](https://dev.to/husayn01/unleashing-the-full-potential-of-the-css-box-model-526j)
+- [Improve Nmap Performance with These Brilliant Scripts](https://dev.to/williambaptist/improve-nmap-performance-with-these-brilliant-scripts-2kc0)
 - [A comprehensive guide to pinia](https://dev.to/miracool/a-comprehensive-guide-to-pinia-3bd1)
-- [Observabilidade 101 - Entendendo o que acontece no seu sistema](https://dev.to/pedropms/observabilidade-101-entendendo-o-que-acontece-no-seu-sistema-23hg)
-- [Best Practices for Writing on DEV: Listicles](https://dev.to/devteam/best-practices-for-writing-on-dev-listicles-16e5)
-- [#DEVDiscuss: HTMX](https://dev.to/devteam/devdiscuss-htmx-415g)
 <!-- BLOG-POST-LIST:END -->
 
