@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s On Your Mind When the Lights Go Out?](https://dev.to/codenewbieteam/whats-on-your-mind-when-the-lights-go-out-4fmn)
+- [How Can We Create Inclusive Spaces for Diverse Perspectives?](https://dev.to/devteam/how-can-we-create-inclusive-spaces-for-diverse-perspectives-4d4i)
 - [Snowflake Zero Copy Clone 101 - An Essential Guide 2023](https://dev.to/chaos-genius/snowflake-zero-copy-clone-101-an-essential-guide-2023-hpg)
 - [How to Judo Mansplaining](https://dev.to/jmfayard/how-do-judo-mansplaining-471g)
-- [The Evolving Journey of a Lifelong Coder: What&#39;s Next?](https://dev.to/philipjohnbasile/the-evolving-journey-of-a-lifelong-coder-whats-next-1p0g)
-- [Embracing Site Reliability Engineering](https://dev.to/blove/embracing-site-reliability-engineering-17ll)
 <!-- BLOG-POST-LIST:END -->
 
