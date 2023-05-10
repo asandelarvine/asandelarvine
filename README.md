@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake Zero Copy Clone 101 - An Essential Guide 2023](https://dev.to/chaos-genius/snowflake-zero-copy-clone-101-an-essential-guide-2023-hpg)
+- [How to Judo Mansplaining](https://dev.to/jmfayard/how-do-judo-mansplaining-471g)
 - [The Evolving Journey of a Lifelong Coder: What&#39;s Next?](https://dev.to/philipjohnbasile/the-evolving-journey-of-a-lifelong-coder-whats-next-1p0g)
-- [Comprehensive Kubernetes CheatSheet](https://dev.to/pragyanatvade/comprehensive-kubernetes-cheatsheet-34gm)
-- [How to Succeed in Open Source Without Really Trying &lpar;Really&rpar;](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
-- [Web Engineer Intern at Adobe - Interview](https://dev.to/venkyakshaya/web-engineer-intern-at-adobe-interview-3e96)
+- [Embracing Site Reliability Engineering](https://dev.to/blove/embracing-site-reliability-engineering-17ll)
 <!-- BLOG-POST-LIST:END -->
 
