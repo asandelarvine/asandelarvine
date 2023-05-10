@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Injection and How to Identify and Exploit It](https://dev.to/amanj28/html-injection-and-how-to-identify-and-exploit-it-30cl)
-- [How to use Material UI Modal](https://dev.to/refine/how-to-use-material-ui-modal-21dh)
-- [PHP: types of data](https://dev.to/danyw3b/php-types-of-data-2igh)
-- [Angular — Facade Design Pattern and how it can improve performance](https://dev.to/vivekdogra02/angular-facade-design-pattern-and-how-it-can-improve-performance-op6)
+- [Sum All Numbers in a Range](https://dev.to/muhmmadawd/sum-all-numbers-in-a-range-1p8o)
+- [Hands-on Amazon ECS for Blue-Green Deployments With CDK Typescript - Part 1](https://dev.to/aws-builders/hands-on-amazon-ecs-for-blue-green-deployments-with-cdk-typescript-part-1-4ie3)
+- [Cómo crear y administrar una organización en GitHub](https://dev.to/github/como-crear-y-administrar-una-organizacion-en-github-5fdg)
+- [Anahtarı olmayan APT deposuna güvenilirliğin sağlanması](https://dev.to/aciklab/anahtari-olmayan-apt-deposuna-guvenilirligin-saglanmasi-4018)
 <!-- BLOG-POST-LIST:END -->
 
