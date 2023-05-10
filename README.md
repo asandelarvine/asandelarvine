@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trigger Settings &amp; Conditions in Power Automate](https://dev.to/wyattdave/trigger-settings-conditions-in-power-automate-2h9k)
-- [Mastering Async and Await in C#: In-Deph Guide](https://dev.to/bytehide/mastering-async-and-await-in-c-in-deph-guide-1589)
-- [Secure Coding 101: How to Use Random Function](https://dev.to/smartscanner/secure-coding-101-how-to-use-random-function-50hp)
-- [10 reasons why you have to exceed at documenting](https://dev.to/postman/10-reasons-why-you-have-to-exceed-at-documenting-4b7m)
+- [Scatter chart + Ellipse chart with LightningChart JS](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
+- [10 Tasks for DevOps Engineers When There’s Nothing to Do](https://dev.to/dyrectorio/10-tasks-for-devops-engineers-when-theres-nothing-to-do-40jp)
+- [HOW TO ASSIGN A ROLE TO USER MEMBERS IN AZURE PORTAL AND CONTROL ACCESS TO THE RESOURCES WITHIN IT](https://dev.to/mojeed-88/how-to-assign-role-to-staff-members-in-azure-to-control-who-has-access-to-azure-resources-and-what-they-can-do-with-it-29nk)
+- [Speeding up B2B pricing on your website](https://dev.to/enterspeed/speeding-up-b2b-pricing-on-your-website-112i)
 <!-- BLOG-POST-LIST:END -->
 
