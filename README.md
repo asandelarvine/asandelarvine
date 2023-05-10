@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Function App with a Webhook, add HTTP triggered function&lpar;a hello message with your name&rpar; and test it.](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-function-app-with-a-webhook-add-http-triggered-functiona-hello-message-with-your-name-and-test-it-3k65)
-- [Effortless User Story Creation](https://dev.to/balagmadhu/effortless-user-story-creation-15hn)
-- [Android: Automate Instrumented and Unit Tests With CircleCI](https://dev.to/roselinebassey/android-automate-instrumented-and-unit-tests-with-circleci-1igo)
-- [Scatter chart + Ellipse chart with LightningChart JS](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
+- [HTML Injection and How to Identify and Exploit It](https://dev.to/amanj28/html-injection-and-how-to-identify-and-exploit-it-30cl)
+- [How to use Material UI Modal](https://dev.to/refine/how-to-use-material-ui-modal-21dh)
+- [PHP: types of data](https://dev.to/danyw3b/php-types-of-data-2igh)
+- [Angular — Facade Design Pattern and how it can improve performance](https://dev.to/vivekdogra02/angular-facade-design-pattern-and-how-it-can-improve-performance-op6)
 <!-- BLOG-POST-LIST:END -->
 
