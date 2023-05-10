@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s On Your Mind When the Lights Go Out?](https://dev.to/codenewbieteam/whats-on-your-mind-when-the-lights-go-out-4fmn)
-- [How Can We Create Inclusive Spaces for Diverse Perspectives?](https://dev.to/devteam/how-can-we-create-inclusive-spaces-for-diverse-perspectives-4d4i)
-- [Snowflake Zero Copy Clone 101 - An Essential Guide 2023](https://dev.to/chaos-genius/snowflake-zero-copy-clone-101-an-essential-guide-2023-hpg)
-- [How to Judo Mansplaining](https://dev.to/jmfayard/how-do-judo-mansplaining-471g)
+- [Trigger Settings &amp; Conditions in Power Automate](https://dev.to/wyattdave/trigger-settings-conditions-in-power-automate-2h9k)
+- [Mastering Async and Await in C#: In-Deph Guide](https://dev.to/bytehide/mastering-async-and-await-in-c-in-deph-guide-1589)
+- [Secure Coding 101: How to Use Random Function](https://dev.to/smartscanner/secure-coding-101-how-to-use-random-function-50hp)
+- [10 reasons why you have to exceed at documenting](https://dev.to/postman/10-reasons-why-you-have-to-exceed-at-documenting-4b7m)
 <!-- BLOG-POST-LIST:END -->
 
