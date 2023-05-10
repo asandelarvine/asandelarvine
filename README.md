@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Function App with a Webhook, add HTTP triggered function&lpar;a hello message with your name&rpar; and test it.](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-function-app-with-a-webhook-add-http-triggered-functiona-hello-message-with-your-name-and-test-it-3k65)
+- [Effortless User Story Creation](https://dev.to/balagmadhu/effortless-user-story-creation-15hn)
+- [Android: Automate Instrumented and Unit Tests With CircleCI](https://dev.to/roselinebassey/android-automate-instrumented-and-unit-tests-with-circleci-1igo)
 - [Scatter chart + Ellipse chart with LightningChart JS](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
-- [10 Tasks for DevOps Engineers When There’s Nothing to Do](https://dev.to/dyrectorio/10-tasks-for-devops-engineers-when-theres-nothing-to-do-40jp)
-- [HOW TO ASSIGN A ROLE TO USER MEMBERS IN AZURE PORTAL AND CONTROL ACCESS TO THE RESOURCES WITHIN IT](https://dev.to/mojeed-88/how-to-assign-role-to-staff-members-in-azure-to-control-who-has-access-to-azure-resources-and-what-they-can-do-with-it-29nk)
-- [Speeding up B2B pricing on your website](https://dev.to/enterspeed/speeding-up-b2b-pricing-on-your-website-112i)
 <!-- BLOG-POST-LIST:END -->
 
