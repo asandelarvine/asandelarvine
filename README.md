@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Planning a Project from Scratch: The Ultimate Guide for Success 🏆](https://dev.to/jimmymcbride/planning-a-project-from-scratch-the-ultimate-guide-for-success-4fna)
 - [Unleashing the Full Potential of the CSS Box Model](https://dev.to/husayn01/unleashing-the-full-potential-of-the-css-box-model-526j)
-- [Improve Nmap Performance with These Brilliant Scripts](https://dev.to/williambaptist/improve-nmap-performance-with-these-brilliant-scripts-2kc0)
-- [A comprehensive guide to pinia](https://dev.to/miracool/a-comprehensive-guide-to-pinia-3bd1)
+- [Combining async requests in the background](https://dev.to/jennieji/combining-async-requests-in-the-background-4g03)
+- [I&#39;ve open-sourced my AI-powered GitHub Action that posts change logs directly into Slack every Monday morning](https://dev.to/maxprilutskiy/ive-open-sourced-my-ai-powered-github-action-that-posts-change-logs-directly-into-slack-every-monday-morning-3o91)
 <!-- BLOG-POST-LIST:END -->
 
