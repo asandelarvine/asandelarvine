@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HOW TO CREATE AN AZURE COMPUTE GALLERY, CAPTURE THE IMAGE OF A VM AND STORE IT IN A COMPUTE GALLERY.](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-compute-gallery-capture-the-image-of-a-vm-and-store-it-in-a-compute-gallery-2ab8)
+- [Best Practices for all developers](https://dev.to/codepapi/best-practices-for-all-developers-1ak0)
+- [💻 JavaScript for Beginners: Objects](https://dev.to/catherineisonline/javascript-for-beginners-objects-4khn)
 - [Getting started with SpecFlow](https://dev.to/shishsingh/getting-started-with-specflow-3e67)
-- [Learn Node.js for Cheap: My Course is Available for $9.99!!!](https://dev.to/ayka_code/learn-nodejs-for-cheap-my-course-is-available-for-999-36p9)
-- [Master &quot;Generics&quot; In Typescript🎉](https://dev.to/arafat4693/master-generics-in-typescript-16ji)
-- [React useReducer](https://dev.to/emmaccen/react-usereducer-dhn)
 <!-- BLOG-POST-LIST:END -->
 
