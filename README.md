@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Kubernetes Helm Charts in Minutes](https://dev.to/pavanbelagatti/deploy-kubernetes-helm-charts-in-minutes-19eo)
 - [My Favorite Books for Coding Interviews](https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j)
 - [Make ChatGPT keep track of your past conversations 💬](https://dev.to/iamadhee/make-chatgpt-keep-track-of-your-past-conversations-jon)
 - [Do you know what it takes to create a WebRTC video conferencing application?](https://dev.to/car_oc/do-you-know-what-it-takes-to-create-a-webrtc-video-conferencing-application-1cc1)
-- [Arrow functions - JavaScript](https://dev.to/stellamazzillo/arrow-functions-javascript-1m2h)
 <!-- BLOG-POST-LIST:END -->
 
