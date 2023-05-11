@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AISTA versus AINIRO](https://dev.to/polterguy/aista-versus-ainiro-568m)
+- [Liman MYS Sertifikasının Güncellenmesi](https://dev.to/aciklab/liman-mys-sertifikasinin-guncellenmesi-1dad)
 - [Deploy Kubernetes Helm Charts in Minutes](https://dev.to/pavanbelagatti/deploy-kubernetes-helm-charts-in-minutes-19eo)
-- [My Favorite Books for Coding Interviews](https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j)
-- [Make ChatGPT keep track of your past conversations 💬](https://dev.to/iamadhee/make-chatgpt-keep-track-of-your-past-conversations-jon)
-- [Do you know what it takes to create a WebRTC video conferencing application?](https://dev.to/car_oc/do-you-know-what-it-takes-to-create-a-webrtc-video-conferencing-application-1cc1)
+- [Interviewing in Software Development Made Easy with Interview Bibles for Ruby, Python, JavaScript, and ReactJS](https://dev.to/nezirzahirovic/interviewing-in-software-development-made-easy-with-interview-bibles-for-ruby-python-javascript-and-reactjs-4al3)
 <!-- BLOG-POST-LIST:END -->
 
