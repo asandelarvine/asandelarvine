@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡refine.new - Introducing the Fastest Way to Create React Apps](https://dev.to/necatiozmen/refinenew-introducing-the-fastest-way-to-create-refine-apps-3c6n)
-- [Managing Data Residency - concepts and theory](https://dev.to/apisix/managing-data-residency-concepts-and-theory-1505)
-- [Test Driven Development for AWS CDK in Python](https://dev.to/aws-builders/test-driven-development-for-aws-cdk-in-python-1agi)
-- [Can Coding Create More Efficient and Effective Remote Work Environments?](https://dev.to/devteam/can-coding-create-more-efficient-and-effective-remote-work-environments-3a9g)
+- [Master &quot;Generics&quot; In Typescript🎉](https://dev.to/arafat4693/master-generics-in-typescript-16ji)
+- [React useReducer](https://dev.to/emmaccen/react-usereducer-dhn)
+- [Web3 Developer Career Landscape](https://dev.to/kudoser/web3-developer-career-landscape-4665)
+- [Monoliths to Microservices using the Strangler Pattern](https://dev.to/amplication/monoliths-to-microservices-using-the-strangler-pattern-25h2)
 <!-- BLOG-POST-LIST:END -->
 
