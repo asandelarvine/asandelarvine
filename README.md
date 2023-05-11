@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [HOW TO CONNECT RDP AND HTTP TO A WINDOWS VIRTUAL MACHINE AND INSTALL WEB A SERVER USING POWER SHELL AND ADD A DATA DISK](https://dev.to/mojeed-88/how-to-connect-rdp-and-http-to-a-windows-virtual-machine-and-install-web-a-server-using-power-shell-add-a-data-disk-bia)
 - [Developer Tools That Shouldn&#39;t Be Secrets - Video](https://dev.to/codepo8/developer-tools-that-shouldnt-be-secrets-video-2hog)
+- [PostgreSQL data types and more](https://dev.to/forestadmin/postgresql-data-types-and-more-1kb4)
 - [Preparing for Your Technical Interview: A Developer&#39;s Guide](https://dev.to/hyperskill/preparing-for-your-technical-interview-a-developers-guide-1p0g)
-- [Website Structure for SEO and 6 Ways to Make it Better](https://dev.to/ondevw19812/website-structure-for-seo-and-6-ways-to-make-it-better-4gf9)
 <!-- BLOG-POST-LIST:END -->
 
