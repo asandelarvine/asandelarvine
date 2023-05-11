@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔧I tried out Harvester HCI for the homelab, and it is an interesting solution](https://dev.to/hunghvu/i-tried-out-harvester-hci-for-the-homelab-and-it-is-an-interesting-solution-3ii1)
+- [National Technology Day 2k23](https://dev.to/kamya123/national-technology-day-2k23-1l22)
 - [The Roadmap to Becoming a Successful Private Contractor as a Software Engineer](https://dev.to/nite_dev/the-roadmap-to-becoming-a-successful-private-contractor-as-a-software-engineer-3m09)
 - [&quot;Single Digit&quot; Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-63)
-- [☁️ API Maker Cloud Quick Introduction](https://dev.to/apimaker/api-maker-cloud-quick-introduction-kd6)
-- [Understanding Malware: A Python-based Approach](https://dev.to/nite_dev/understanding-malware-a-python-based-approach-5c4c)
 <!-- BLOG-POST-LIST:END -->
 
