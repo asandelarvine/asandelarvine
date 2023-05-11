@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Newbie Seeking Guidance on Real-life Project](https://dev.to/devteam/sloans-inbox-newbie-seeking-guidance-on-real-life-project-1lkn)
+- [Community Spotlight: Una Thompson is Making the Fediverse More Manageable with Jortage](https://dev.to/fastly/community-spotlight-una-thompson-is-making-the-fediverse-more-manageable-with-jortage-34gk)
+- [🔦 Community Spotlight - Building Idea Xchange, a Networking App🔦](https://dev.to/appwrite/community-spotlight-building-idea-xchange-a-networking-app-5db4)
 - [The Advantages of Going Fully On-Chain: A Closer Look](https://dev.to/galaxiastudios/the-advantages-of-going-fully-on-chain-a-closer-look-4n1n)
-- [The life-changing magic of SurrealDB - record IDs](https://dev.to/surrealdb/the-life-changing-magic-of-surrealdb-record-ids-58li)
-- [Node.js: Replace your .env file with this awesome tool at scale](https://dev.to/dangtony98/nodejs-replace-your-env-file-with-this-awesome-tool-at-scale-nic)
-- [HOW TO CONNECT RDP AND HTTP TO A WINDOWS VIRTUAL MACHINE AND INSTALL WEB A SERVER USING POWER SHELL AND ADD A DATA DISK](https://dev.to/mojeed-88/how-to-connect-rdp-and-http-to-a-windows-virtual-machine-and-install-web-a-server-using-power-shell-add-a-data-disk-bia)
 <!-- BLOG-POST-LIST:END -->
 
