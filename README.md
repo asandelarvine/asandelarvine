@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with SpecFlow](https://dev.to/shishsingh/getting-started-with-specflow-3e67)
+- [Learn Node.js for Cheap: My Course is Available for $9.99!!!](https://dev.to/ayka_code/learn-nodejs-for-cheap-my-course-is-available-for-999-36p9)
 - [Master &quot;Generics&quot; In Typescript🎉](https://dev.to/arafat4693/master-generics-in-typescript-16ji)
 - [React useReducer](https://dev.to/emmaccen/react-usereducer-dhn)
-- [Web3 Developer Career Landscape](https://dev.to/kudoser/web3-developer-career-landscape-4665)
-- [Monoliths to Microservices using the Strangler Pattern](https://dev.to/amplication/monoliths-to-microservices-using-the-strangler-pattern-25h2)
 <!-- BLOG-POST-LIST:END -->
 
