@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Was Your Toughest Coding Concept and How Did You Conquer It?](https://dev.to/codenewbieteam/what-was-your-toughest-coding-concept-and-how-did-you-conquer-it-4nl8)
+- [Managing Data Residency - concepts and theory](https://dev.to/apisix/managing-data-residency-concepts-and-theory-1505)
 - [Can Coding Create More Efficient and Effective Remote Work Environments?](https://dev.to/devteam/can-coding-create-more-efficient-and-effective-remote-work-environments-3a9g)
+- [What Was Your Toughest Coding Concept and How Did You Conquer It?](https://dev.to/codenewbieteam/what-was-your-toughest-coding-concept-and-how-did-you-conquer-it-4nl8)
 - [Improve user experience with optimistic update](https://dev.to/this-is-learning/improve-user-experience-with-optimistic-update-56bp)
-- [AISTA versus AINIRO](https://dev.to/polterguy/aista-versus-ainiro-568m)
 <!-- BLOG-POST-LIST:END -->
 
