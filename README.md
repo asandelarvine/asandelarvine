@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Explicando complexidade de algoritmos](https://dev.to/juuh42dias/chatgpt-explicando-complexidade-de-algoritmos-2fb7)
 - [CSR and SSR: A must known software development methodology for developers and website owners.](https://dev.to/miracool/csr-and-ssr-a-must-known-software-development-methodology-for-developers-and-website-owners-13pc)
+- [Participe do do Hackathon GitHub + DEV 2023](https://dev.to/github/participe-do-do-hackathon-github-dev-2023-jk6)
 - [What is Cloud Native](https://dev.to/ewenikeemmanue4/what-is-cloud-native-13bo)
-- [Understanding Asynchronous Programming in JavaScript](https://dev.to/yisakt/understanding-asynchronous-programming-in-javascript-32j6)
-- [Lucene.NET for search applications](https://dev.to/foxminchan/lucenenet-for-search-applications-k19)
 <!-- BLOG-POST-LIST:END -->
 
