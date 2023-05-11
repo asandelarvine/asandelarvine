@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your Toughest Coding Concept and How Did You Conquer It?](https://dev.to/codenewbieteam/what-was-your-toughest-coding-concept-and-how-did-you-conquer-it-4nl8)
+- [Can Coding Create More Efficient and Effective Remote Work Environments?](https://dev.to/devteam/can-coding-create-more-efficient-and-effective-remote-work-environments-3a9g)
+- [Improve user experience with optimistic update](https://dev.to/this-is-learning/improve-user-experience-with-optimistic-update-56bp)
 - [AISTA versus AINIRO](https://dev.to/polterguy/aista-versus-ainiro-568m)
-- [Liman MYS Sertifikasının Güncellenmesi](https://dev.to/aciklab/liman-mys-sertifikasinin-guncellenmesi-1dad)
-- [Deploy Kubernetes Helm Charts in Minutes](https://dev.to/pavanbelagatti/deploy-kubernetes-helm-charts-in-minutes-19eo)
-- [Interviewing in Software Development Made Easy with Interview Bibles for Ruby, Python, JavaScript, and ReactJS](https://dev.to/nezirzahirovic/interviewing-in-software-development-made-easy-with-interview-bibles-for-ruby-python-javascript-and-reactjs-4al3)
 <!-- BLOG-POST-LIST:END -->
 
