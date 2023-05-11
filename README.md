@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving the Knapsack Problem - A Guide to Dynamic Programming](https://dev.to/k1lgor/solving-the-knapsack-problem-a-guide-to-dynamic-programming-50h0)
 - [The Great Debate : Python Vs Java](https://dev.to/ugbabeog/the-great-debate-python-vs-java-2fh1)
 - [What are the essential skills that a beginner developer should learn?](https://dev.to/ugbabeog/what-are-the-essential-skills-that-a-beginner-developer-should-learn-19de)
 - [Building an AWS Well-Architected Chatbot with LangChain](https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd)
-- [🔧I tried out Harvester HCI for the homelab, and it is an interesting solution](https://dev.to/hunghvu/i-tried-out-harvester-hci-for-the-homelab-and-it-is-an-interesting-solution-3ii1)
 <!-- BLOG-POST-LIST:END -->
 
