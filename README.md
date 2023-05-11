@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top tips for getting a CFP accepted](https://dev.to/github/top-tips-for-getting-a-cfp-accepted-hh0)
-- [ChatGPT: Explicando complexidade de algoritmos](https://dev.to/juuh42dias/chatgpt-explicando-complexidade-de-algoritmos-2fb7)
-- [CSR and SSR: A must known software development methodology for developers and website owners.](https://dev.to/miracool/csr-and-ssr-a-must-known-software-development-methodology-for-developers-and-website-owners-13pc)
-- [Get Validated With Zod](https://dev.to/lundjrl/get-validated-with-zod-2klo)
+- [My Favorite Books for Coding Interviews](https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j)
+- [Make ChatGPT keep track of your past conversations 💬](https://dev.to/iamadhee/make-chatgpt-keep-track-of-your-past-conversations-jon)
+- [Do you know what it takes to create a WebRTC video conferencing application?](https://dev.to/car_oc/do-you-know-what-it-takes-to-create-a-webrtc-video-conferencing-application-1cc1)
+- [Arrow functions - JavaScript](https://dev.to/stellamazzillo/arrow-functions-javascript-1m2h)
 <!-- BLOG-POST-LIST:END -->
 
