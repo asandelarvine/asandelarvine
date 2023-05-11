@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Advantages of Going Fully On-Chain: A Closer Look](https://dev.to/galaxiastudios/the-advantages-of-going-fully-on-chain-a-closer-look-4n1n)
+- [The life-changing magic of SurrealDB - record IDs](https://dev.to/surrealdb/the-life-changing-magic-of-surrealdb-record-ids-58li)
+- [Node.js: Replace your .env file with this awesome tool at scale](https://dev.to/dangtony98/nodejs-replace-your-env-file-with-this-awesome-tool-at-scale-nic)
 - [HOW TO CONNECT RDP AND HTTP TO A WINDOWS VIRTUAL MACHINE AND INSTALL WEB A SERVER USING POWER SHELL AND ADD A DATA DISK](https://dev.to/mojeed-88/how-to-connect-rdp-and-http-to-a-windows-virtual-machine-and-install-web-a-server-using-power-shell-add-a-data-disk-bia)
-- [Developer Tools That Shouldn&#39;t Be Secrets - Video](https://dev.to/codepo8/developer-tools-that-shouldnt-be-secrets-video-2hog)
-- [PostgreSQL data types and more](https://dev.to/forestadmin/postgresql-data-types-and-more-1kb4)
-- [Preparing for Your Technical Interview: A Developer&#39;s Guide](https://dev.to/hyperskill/preparing-for-your-technical-interview-a-developers-guide-1p0g)
 <!-- BLOG-POST-LIST:END -->
 
