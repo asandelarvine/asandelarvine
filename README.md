@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: Newbie Seeking Guidance on Real-life Project](https://dev.to/devteam/sloans-inbox-newbie-seeking-guidance-on-real-life-project-1lkn)
-- [Community Spotlight: Una Thompson is Making the Fediverse More Manageable with Jortage](https://dev.to/fastly/community-spotlight-una-thompson-is-making-the-fediverse-more-manageable-with-jortage-34gk)
-- [🔦 Community Spotlight - Building Idea Xchange, a Networking App🔦](https://dev.to/appwrite/community-spotlight-building-idea-xchange-a-networking-app-5db4)
-- [The Advantages of Going Fully On-Chain: A Closer Look](https://dev.to/galaxiastudios/the-advantages-of-going-fully-on-chain-a-closer-look-4n1n)
+- [The Roadmap to Becoming a Successful Private Contractor as a Software Engineer](https://dev.to/nite_dev/the-roadmap-to-becoming-a-successful-private-contractor-as-a-software-engineer-3m09)
+- [&quot;Single Digit&quot; Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-63)
+- [☁️ API Maker Cloud Quick Introduction](https://dev.to/apimaker/api-maker-cloud-quick-introduction-kd6)
+- [Understanding Malware: A Python-based Approach](https://dev.to/nite_dev/understanding-malware-a-python-based-approach-5c4c)
 <!-- BLOG-POST-LIST:END -->
 
