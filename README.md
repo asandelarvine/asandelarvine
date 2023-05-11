@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Debate : Python Vs Java](https://dev.to/ugbabeog/the-great-debate-python-vs-java-2fh1)
+- [What are the essential skills that a beginner developer should learn?](https://dev.to/ugbabeog/what-are-the-essential-skills-that-a-beginner-developer-should-learn-19de)
+- [Building an AWS Well-Architected Chatbot with LangChain](https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd)
 - [🔧I tried out Harvester HCI for the homelab, and it is an interesting solution](https://dev.to/hunghvu/i-tried-out-harvester-hci-for-the-homelab-and-it-is-an-interesting-solution-3ii1)
-- [National Technology Day 2k23](https://dev.to/kamya123/national-technology-day-2k23-1l22)
-- [The Roadmap to Becoming a Successful Private Contractor as a Software Engineer](https://dev.to/nite_dev/the-roadmap-to-becoming-a-successful-private-contractor-as-a-software-engineer-3m09)
-- [&quot;Single Digit&quot; Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-63)
 <!-- BLOG-POST-LIST:END -->
 
