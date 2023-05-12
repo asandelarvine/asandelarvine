@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s looking for open source contributors? &lpar;week 41&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-41-35ja)
+- [Maximizing Your Influence as a Software Engineer](https://dev.to/snowman647/maximizing-your-influence-as-a-software-engineer-3okd)
+- [The Challenges of Blockchain Technology](https://dev.to/shashank_dev/the-challenges-of-blockchain-technology-3nj)
 - [The Great Operating System Battle: Why WSL2 is Winning](https://dev.to/glennviroux/the-great-operating-system-battle-why-wsl2-is-winning-2e89)
-- [Intermediate Cypher Query Topics: Exploring Graph Data with Examples](https://dev.to/abdulsamad4068/intermediate-cypher-query-topics-exploring-graph-data-with-examples-3ck9)
-- [How to Build an Internal Company Wiki from Scratch](https://dev.to/ravgeetdhillon/how-to-build-an-internal-company-wiki-from-scratch-3lbk)
-- [Recursion explained with the help from Inception](https://dev.to/alexhyettdev/recursion-explained-with-the-help-from-inception-2jg2)
 <!-- BLOG-POST-LIST:END -->
 
