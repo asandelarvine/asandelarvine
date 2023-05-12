@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [pyaction 4.19.0 Released](https://dev.to/cicirello/pyaction-4190-released-2b55)
-- [Who&#39;s looking for open source contributors? &lpar;week 41&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-41-35ja)
-- [Maximizing Your Influence as a Software Engineer](https://dev.to/snowman647/maximizing-your-influence-as-a-software-engineer-3okd)
-- [The Challenges of Blockchain Technology](https://dev.to/shashank_dev/the-challenges-of-blockchain-technology-3nj)
+- [#DEVDiscuss: What Happened to Web3?](https://dev.to/devteam/devdiscuss-what-happened-to-web3-11cl)
+- [The Art of Being an Engineering Manager](https://dev.to/jeromek13/the-art-of-being-an-engineering-manager-3n78)
+- [GPT3.5-turbo versus GPT4](https://dev.to/polterguy/gpt35-turbo-versus-gpt4-57lp)
+- [How We Sped Up Rubocop Linting in our CI by 22x](https://dev.to/jobber/how-we-sped-up-rubocop-linting-in-our-ci-by-22x-3cme)
 <!-- BLOG-POST-LIST:END -->
 
