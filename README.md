@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are *args And **kwargs In Python - Guide With Examples](https://dev.to/sachingeek/what-are-args-and-kwargs-in-python-guide-with-examples-1d2j)
+- [Django WebSockets](https://dev.to/adilakshmibonala/django-websockets-3291)
 - [Guide on Installing Node.js &amp; npm {macOS &amp; Windows}](https://dev.to/kintonedevprogram/guide-on-installing-nodejs-npm-macos-windows-16ii)
 - [How nuvo Importer SDK 2.0 Transforms the Way You Onboard Data](https://dev.to/getnuvo/how-nuvo-importer-sdk-20-transforms-the-way-you-onboard-data-5fkl)
-- [Medusa &lpar;4/4&rpar;: An In-depth Look at Their Admin](https://dev.to/ntyrberg/medusa-44-an-in-depth-look-at-their-admin-14h1)
-- [Medusa &lpar;3/4&rpar;: Commerce Modules and Features](https://dev.to/ntyrberg/medusa-34-commerce-modules-and-features-2da2)
 <!-- BLOG-POST-LIST:END -->
 
