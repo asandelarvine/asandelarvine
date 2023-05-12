@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [git diff - Comparing Changes in Git](https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m)
-- [AI Everything. A Peak Into the Google Keynote at Google I/O 2023](https://dev.to/lemonboy/ai-everything-a-peak-into-the-google-keynote-at-google-io-2023-17m6)
-- [Do the Fun Chaos Engineering with Gamification!](https://dev.to/pepodev/do-the-fun-chaos-engineering-with-gamification-50ij)
-- [How to Build a Responsive Custom Email with HTML and CSS](https://dev.to/jamesajayi/how-to-build-a-responsive-custom-email-with-html-and-css-53p7)
+- [Creating S3 IAM roles for an EC2 Instance](https://dev.to/lewisawe/creating-s3-iam-roles-for-an-ec2-instance-79h)
+- [A Quick Guide to AI-Powered Data Visualization: Create a Smart Dashboard with LogicLoop.](https://dev.to/bellatrick/a-quick-guide-to-ai-powered-data-visualization-create-a-smart-dashboard-with-logicloop-c3p)
+- [The PiCast: Connect a Raspberry Pi Pico W to an Anvil app](https://dev.to/anvil/the-picast-connect-a-raspberry-pi-pico-w-to-an-anvil-app-453a)
+- [Programmers Replaced With AI?](https://dev.to/vinibrsl/programmers-replaced-with-ai-1nhg)
 <!-- BLOG-POST-LIST:END -->
 
