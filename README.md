@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Way To Write Transform Properties In CSS 🙌](https://dev.to/thenisaas/new-way-to-write-transform-properties-in-css-1i8d)
-- [JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
-- [What is SaaS-based voice?](https://dev.to/workarise/what-is-saas-based-voice-iin)
-- [Web3 and User Privacy: Risks and Solutions](https://dev.to/george_k/web3-and-user-privacy-risks-and-solutions-1i12)
+- [Weird Follower Spike on Dev.to](https://dev.to/codenameone/weird-follower-spike-on-devto-41jm)
+- [Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
+- [Using useReducer and Redux Toolkit Together: A Powerful Combination for State Management](https://dev.to/sathishskdev/using-usereducer-and-redux-toolkit-together-a-powerful-combination-for-state-management-3b2h)
+- [Working with Rust as a C++ Programmer](https://dev.to/malwarebo/working-with-rust-as-a-c-programmer-1af8)
 <!-- BLOG-POST-LIST:END -->
 
