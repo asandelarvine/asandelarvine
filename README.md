@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating S3 IAM roles for an EC2 Instance](https://dev.to/lewisawe/creating-s3-iam-roles-for-an-ec2-instance-79h)
-- [A Quick Guide to AI-Powered Data Visualization: Create a Smart Dashboard with LogicLoop.](https://dev.to/bellatrick/a-quick-guide-to-ai-powered-data-visualization-create-a-smart-dashboard-with-logicloop-c3p)
-- [The PiCast: Connect a Raspberry Pi Pico W to an Anvil app](https://dev.to/anvil/the-picast-connect-a-raspberry-pi-pico-w-to-an-anvil-app-453a)
-- [Programmers Replaced With AI?](https://dev.to/vinibrsl/programmers-replaced-with-ai-1nhg)
+- [The Great Operating System Battle: Why WSL2 is Winning](https://dev.to/glennviroux/the-great-operating-system-battle-why-wsl2-is-winning-2e89)
+- [Intermediate Cypher Query Topics: Exploring Graph Data with Examples](https://dev.to/abdulsamad4068/intermediate-cypher-query-topics-exploring-graph-data-with-examples-3ck9)
+- [How to Build an Internal Company Wiki from Scratch](https://dev.to/ravgeetdhillon/how-to-build-an-internal-company-wiki-from-scratch-3lbk)
+- [Recursion explained with the help from Inception](https://dev.to/alexhyettdev/recursion-explained-with-the-help-from-inception-2jg2)
 <!-- BLOG-POST-LIST:END -->
 
