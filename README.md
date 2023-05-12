@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are *args And **kwargs In Python - Guide With Examples](https://dev.to/sachingeek/what-are-args-and-kwargs-in-python-guide-with-examples-1d2j)
-- [Django WebSockets](https://dev.to/adilakshmibonala/django-websockets-3291)
-- [Guide on Installing Node.js &amp; npm {macOS &amp; Windows}](https://dev.to/kintonedevprogram/guide-on-installing-nodejs-npm-macos-windows-16ii)
-- [How nuvo Importer SDK 2.0 Transforms the Way You Onboard Data](https://dev.to/getnuvo/how-nuvo-importer-sdk-20-transforms-the-way-you-onboard-data-5fkl)
+- [Top 10 front-end development tools you should know in 2023](https://dev.to/rafikadir/top-10-front-end-development-tools-you-should-know-in-2023-1j3f)
+- [Cross-Translation Programming Language: We are unlucky not the future](https://dev.to/shreyvijayvargiya/cross-translation-programming-language-we-are-unlucky-not-the-future-1053)
+- [Why do we need User Acceptance Testing &lpar;UAT&rpar;?](https://dev.to/rohitbhandari102/why-do-we-need-user-acceptance-testing-uat-1jja)
+- [A Realistic 3D Card hover effect using only CSS](https://dev.to/jon_snow789/a-realistic-3d-card-hover-effect-using-only-css-200j)
 <!-- BLOG-POST-LIST:END -->
 
