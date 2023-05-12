@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [lists in python hackerrank solution](https://dev.to/realnamehidden1_61/lists-in-python-hackerrank-solution-2h51)
+- [Seek and Destroy Algorithm](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
 - [Weird Follower Spike on Dev.to](https://dev.to/codenameone/weird-follower-spike-on-devto-41jm)
 - [Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
-- [Using useReducer and Redux Toolkit Together: A Powerful Combination for State Management](https://dev.to/sathishskdev/using-usereducer-and-redux-toolkit-together-a-powerful-combination-for-state-management-3b2h)
-- [Working with Rust as a C++ Programmer](https://dev.to/malwarebo/working-with-rust-as-a-c-programmer-1af8)
 <!-- BLOG-POST-LIST:END -->
 
