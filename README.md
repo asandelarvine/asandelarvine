@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 front-end development tools you should know in 2023](https://dev.to/rafikadir/top-10-front-end-development-tools-you-should-know-in-2023-1j3f)
+- [Best Crypto Tokens To Invest In 2023 for Crowdfunding Platforms](https://dev.to/jessietomaz/best-crypto-tokens-to-invest-in-2023-for-crowdfunding-platforms-3ep8)
+- [Improve Code Quality with These Tips and Best Practices](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
+- [งานเปิดตัว AWS Local Zone ประเทศไทย](https://dev.to/aws-builders/ngaanepidtaw-aws-local-zone-praethsaithy-41kj)
 - [Cross-Translation Programming Language: We are unlucky not the future](https://dev.to/shreyvijayvargiya/cross-translation-programming-language-we-are-unlucky-not-the-future-1053)
-- [Why do we need User Acceptance Testing &lpar;UAT&rpar;?](https://dev.to/rohitbhandari102/why-do-we-need-user-acceptance-testing-uat-1jja)
-- [A Realistic 3D Card hover effect using only CSS](https://dev.to/jon_snow789/a-realistic-3d-card-hover-effect-using-only-css-200j)
 <!-- BLOG-POST-LIST:END -->
 
