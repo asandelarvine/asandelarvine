@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
+- [What is SaaS-based voice?](https://dev.to/workarise/what-is-saas-based-voice-iin)
 - [Web3 and User Privacy: Risks and Solutions](https://dev.to/george_k/web3-and-user-privacy-risks-and-solutions-1i12)
 - [How we reduced our review time by 90%](https://dev.to/useapolloapi/how-we-reduced-our-review-time-by-90-3hnc)
-- [API Design Interview vs. System Design Interview: 5-minute guide](https://dev.to/educative/api-design-interview-vs-system-design-interview-5-minute-guide-3j32)
-- [The Only CSS Flexbox Illustration You Will Ever Need](https://dev.to/arafat4693/the-only-css-flexbox-illustration-you-will-ever-need-4nnf)
 <!-- BLOG-POST-LIST:END -->
 
