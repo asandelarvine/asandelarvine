@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do the Fun Chaos Engineering with Gamification!](https://dev.to/pepodev/do-the-fun-chaos-engineering-with-gamification-50ij)
+- [How to Build a Responsive Custom Email with HTML and CSS](https://dev.to/jamesajayi/how-to-build-a-responsive-custom-email-with-html-and-css-53p7)
 - [Best Crypto Tokens To Invest In 2023 for Crowdfunding Platforms](https://dev.to/jessietomaz/best-crypto-tokens-to-invest-in-2023-for-crowdfunding-platforms-3ep8)
 - [Improve Code Quality with These Tips and Best Practices](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
-- [งานเปิดตัว AWS Local Zone ประเทศไทย](https://dev.to/aws-builders/ngaanepidtaw-aws-local-zone-praethsaithy-41kj)
-- [Cross-Translation Programming Language: We are unlucky not the future](https://dev.to/shreyvijayvargiya/cross-translation-programming-language-we-are-unlucky-not-the-future-1053)
 <!-- BLOG-POST-LIST:END -->
 
