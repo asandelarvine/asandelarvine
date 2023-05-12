@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New Way To Write Transform Properties In CSS 🙌](https://dev.to/thenisaas/new-way-to-write-transform-properties-in-css-1i8d)
 - [JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
 - [What is SaaS-based voice?](https://dev.to/workarise/what-is-saas-based-voice-iin)
 - [Web3 and User Privacy: Risks and Solutions](https://dev.to/george_k/web3-and-user-privacy-risks-and-solutions-1i12)
-- [How we reduced our review time by 90%](https://dev.to/useapolloapi/how-we-reduced-our-review-time-by-90-3hnc)
 <!-- BLOG-POST-LIST:END -->
 
