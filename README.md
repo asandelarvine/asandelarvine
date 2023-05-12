@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [git diff - Comparing Changes in Git](https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m)
+- [AI Everything. A Peak Into the Google Keynote at Google I/O 2023](https://dev.to/lemonboy/ai-everything-a-peak-into-the-google-keynote-at-google-io-2023-17m6)
 - [Do the Fun Chaos Engineering with Gamification!](https://dev.to/pepodev/do-the-fun-chaos-engineering-with-gamification-50ij)
 - [How to Build a Responsive Custom Email with HTML and CSS](https://dev.to/jamesajayi/how-to-build-a-responsive-custom-email-with-html-and-css-53p7)
-- [Best Crypto Tokens To Invest In 2023 for Crowdfunding Platforms](https://dev.to/jessietomaz/best-crypto-tokens-to-invest-in-2023-for-crowdfunding-platforms-3ep8)
-- [Improve Code Quality with These Tips and Best Practices](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
 <!-- BLOG-POST-LIST:END -->
 
