@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Team or Solo: Which Path Leads to Project Success?](https://dev.to/devteam/team-or-solo-which-path-leads-to-project-success-337)
-- [Your ultimate destination for all things web development](https://dev.to/murtazajooo/your-ultimate-destination-for-all-things-web-development-158e)
-- [Seek and Destroy Algorithm](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
-- [Weird Follower Spike on Dev.to](https://dev.to/codenameone/weird-follower-spike-on-devto-41jm)
+- [Medusa &lpar;4/4&rpar;: An In-depth Look at Their Admin](https://dev.to/ntyrberg/medusa-44-an-in-depth-look-at-their-admin-14h1)
+- [Medusa &lpar;3/4&rpar;: Commerce Modules and Features](https://dev.to/ntyrberg/medusa-34-commerce-modules-and-features-2da2)
+- [Medusa &lpar;2/4&rpar;: Vision, History, and Product](https://dev.to/ntyrberg/medusa-24-vision-history-and-product-207j)
+- [Medusa&lpar;1/4&rpar; - The future of e-commerce?](https://dev.to/ntyrberg/medusa14-the-future-of-e-commerce-2fae)
 <!-- BLOG-POST-LIST:END -->
 
