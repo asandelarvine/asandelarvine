@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy thin jars for better Docker caching](https://dev.to/robertmjohnson/how-to-deploy-thin-jars-for-better-docker-caching-4i44)
 - [How Rompt Helped Me Optimize My GPT-Powered Product Through Massive A/B Testing](https://dev.to/d1020/how-rompt-helped-me-optimize-my-gpt-powered-product-through-massive-ab-testing-3o69)
 - [#DEVDiscuss: What Happened to Web3?](https://dev.to/devteam/devdiscuss-what-happened-to-web3-11cl)
 - [The Art of Being an Engineering Manager](https://dev.to/jeromek13/the-art-of-being-an-engineering-manager-3n78)
-- [What I&#39;ve Learned From 4 Years In The Tech Industry](https://dev.to/maddy/what-ive-learned-from-4-years-in-the-tech-industry-50g8)
 <!-- BLOG-POST-LIST:END -->
 
