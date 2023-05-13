@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Overview Of ElastiCache Caching Strategies.](https://dev.to/kelvinskell/an-overview-of-elasticache-caching-strategies-3h3d)
+- [ENG. | POST: Want to create interfaces, but Figma is too much difficult?](https://dev.to/juletopi/post-want-to-create-interfaces-but-figma-is-too-much-difficult-4jjh)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-1bno)
 - [Getting masked secrets out of CircleCI](https://dev.to/mountainash/getting-masked-secrets-out-of-circleci-2fpp)
-- [Consistência de dados e padrão Outbox](https://dev.to/rafaelpadovezi/consistencia-de-dados-e-padrao-outbox-188p)
-- [Python for All Ages: An Accessible Guide for Beginners](https://dev.to/aradwan20/python-for-all-ages-an-accessible-guide-for-beginners-3bl9)
-- [What inspired you to become a web developer?](https://dev.to/ugbabeog/what-inspired-you-to-become-a-web-developer-1m44)
 <!-- BLOG-POST-LIST:END -->
 
