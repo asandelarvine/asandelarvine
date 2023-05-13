@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📡 Type Casting in JavaScript](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
 - [Functional Programming in JavaScript: Unleashing the Fun&lpar;side&rpar; of Functions!](https://dev.to/muhmmadawd/functional-programming-in-javascript-unleashing-the-funside-of-functions-44fe)
 - [Processing EventHub Captured Messages in Avro Files Using Databricks](https://dev.to/damiansmazurek/processing-eventhub-captured-messages-in-avro-files-using-databricks-f8m)
 - [How to make automated Github Workflow for Laravel Pint and PHP Pest](https://dev.to/maniruzzamanakash/create-github-workflow-for-laravel-pint-and-php-pest-1cn8)
-- [How to troubleshoot PyCharm’s “scanning files to index” issue and improve indexing performance.](https://dev.to/chinmayroy/how-to-troubleshoot-pycharms-scanning-files-to-index-issue-and-improve-indexing-performance-51a0)
 <!-- BLOG-POST-LIST:END -->
 
