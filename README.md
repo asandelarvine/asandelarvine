@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Rules I Follow When Writing HTML To Make It Concise and Readable🚀💡](https://dev.to/margishpatel/10-rules-i-follow-when-writing-html-to-make-it-concise-and-readable-309k)
-- [Cohort Retention Analysis from A-Z in Tableau](https://dev.to/alumassy/cohort-retention-analysis-from-a-z-in-tableau-4l0a)
-- [Simplest way to Downgrade Node Version on Windows](https://dev.to/raielly/simplest-way-to-downgrade-node-version-on-windows-3oi7)
-- [Kubernetes 101, part VIII, networking fundamentals](https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7)
+- [Robot Companions: What Superpowers Would You Give Yours?](https://dev.to/codenewbieteam/robot-companions-what-superpowers-would-you-give-yours-2921)
+- [How Would You Create the Perfect Coding Language?](https://dev.to/devteam/how-would-you-create-the-perfect-coding-language-3gad)
+- [10 Reasons Why I Love GitHub: A 10-Month Journey of Passion and Growth](https://dev.to/anmolbaranwal/10-reasons-why-i-love-github-a-10-month-journey-of-passion-and-growth-23h5)
+- [My Favorite Websites to Learn SQL for FREE in 2023](https://dev.to/javinpaul/my-favorite-websites-to-learn-sql-for-free-in-2023-1g6d)
 <!-- BLOG-POST-LIST:END -->
 
