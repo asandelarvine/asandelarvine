@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Notion as a database for your Next.JS Blog](https://dev.to/martinp/use-notion-as-a-database-for-your-nextjs-blog-195p)
+- [According to BuiltWith Trends, there are 3,825,799 websites that use Ruby on Rails](https://dev.to/nezirzahirovic/according-to-builtwith-trends-there-are-3825799-websites-that-use-ruby-on-rails-2gbh)
+- [How to use multiple GitHub account on same device?](https://dev.to/connectaryal/how-to-use-multiple-github-account-on-same-device-3m4n)
 - [Symfony internals and security](https://dev.to/jmau111/symfony-internals-and-security-144b)
-- [Serverless, a CTO’s Perspective](https://dev.to/aws-builders/serverless-a-ctos-perspective-3hpc)
-- [My C# Code Conventions and Style Guide](https://dev.to/kedzior_io/my-c-code-conventions-and-style-guide-3mn4)
-- [PT-BR | POST: Quer criar interfaces, mas o Figma é muito difícil?](https://dev.to/juletopi/pt-br-post-quer-criar-interfaces-mas-o-figma-e-muito-dificil-35pe)
 <!-- BLOG-POST-LIST:END -->
 
