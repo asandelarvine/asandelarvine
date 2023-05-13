@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a RESTful API with Node.js and MongoDB](https://dev.to/himanshuagg12/building-a-restful-api-with-nodejs-and-mongodb-20b6)
 - [How I Sold My Project for $30!!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
 - [📡 Type Casting in JavaScript](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
 - [Functional Programming in JavaScript: Unleashing the Fun&lpar;side&rpar; of Functions!](https://dev.to/muhmmadawd/functional-programming-in-javascript-unleashing-the-funside-of-functions-44fe)
-- [JavaScript list &lpar;array&rpar; comprehension explained with examples](https://dev.to/lavary/javascript-list-array-comprehension-explained-with-examples-29jo)
 <!-- BLOG-POST-LIST:END -->
 
