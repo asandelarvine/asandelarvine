@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Rules I Follow When Writing HTML To Make It Concise and Readable🚀💡](https://dev.to/margishpatel/10-rules-i-follow-when-writing-html-to-make-it-concise-and-readable-309k)
 - [Cohort Retention Analysis from A-Z in Tableau](https://dev.to/alumassy/cohort-retention-analysis-from-a-z-in-tableau-4l0a)
 - [Simplest way to Downgrade Node Version on Windows](https://dev.to/raielly/simplest-way-to-downgrade-node-version-on-windows-3oi7)
 - [Kubernetes 101, part VIII, networking fundamentals](https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7)
-- [Node Test Runner: Assertion Cheat Sheet](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
 <!-- BLOG-POST-LIST:END -->
 
