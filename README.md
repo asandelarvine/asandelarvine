@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming Imposter Syndrome in the Tech Industry: Strategies and Communities to Build Confidence](https://dev.to/phylis/overcoming-imposter-syndrome-in-the-tech-industry-strategies-and-communities-to-build-confidence-31d3)
+- [Mobile-to-Desktop Menu in 2 Lines of CSS](https://dev.to/madsstoumann/mobile-to-desktop-menu-in-2-lines-of-css-4ikn)
 - [I Created A Web App For Twitter That Went Viral 🔥](https://dev.to/rammcodes/i-created-a-web-app-for-twitter-that-went-viral-4i1a)
 - [Options Pattern in .NET](https://dev.to/fabriziobagala/options-pattern-in-net-2abg)
-- [Hexagon rotating gradient border](https://dev.to/jon_snow789/hexagon-rotating-gradient-border-4dh2)
-- [How Would You Create the Perfect Coding Language?](https://dev.to/devteam/how-would-you-create-the-perfect-coding-language-3gad)
 <!-- BLOG-POST-LIST:END -->
 
