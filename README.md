@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Notion as a database for your Next.JS Blog](https://dev.to/martinp/use-notion-as-a-database-for-your-nextjs-blog-195p)
-- [According to BuiltWith Trends, there are 3,825,799 websites that use Ruby on Rails](https://dev.to/nezirzahirovic/according-to-builtwith-trends-there-are-3825799-websites-that-use-ruby-on-rails-2gbh)
-- [How to use multiple GitHub account on same device?](https://dev.to/connectaryal/how-to-use-multiple-github-account-on-same-device-3m4n)
-- [Symfony internals and security](https://dev.to/jmau111/symfony-internals-and-security-144b)
+- [How to troubleshoot PyCharm’s “scanning files to index” issue and improve indexing performance.](https://dev.to/chinmayroy/how-to-troubleshoot-pycharms-scanning-files-to-index-issue-and-improve-indexing-performance-51a0)
+- [25 Clean Code Tips That You Should Be Familiar](https://dev.to/sardarmudassaralikhan/25-clean-code-tips-that-you-should-be-familiar-53ek)
+- [What’s The Difference Between REM, EM, And PX?](https://dev.to/saurabhkumar/whats-the-difference-between-rem-em-and-px-59lb)
+- [Makefiles: a standard for project tasks](https://dev.to/joeljuca/makefiles-a-standard-for-project-tasks-31b)
 <!-- BLOG-POST-LIST:END -->
 
