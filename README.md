@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I Created A Web App For Twitter That Went Viral 🔥](https://dev.to/rammcodes/i-created-a-web-app-for-twitter-that-went-viral-4i1a)
 - [Options Pattern in .NET](https://dev.to/fabriziobagala/options-pattern-in-net-2abg)
 - [Hexagon rotating gradient border](https://dev.to/jon_snow789/hexagon-rotating-gradient-border-4dh2)
-- [Robot Companions: What Superpowers Would You Give Yours?](https://dev.to/codenewbieteam/robot-companions-what-superpowers-would-you-give-yours-2921)
 - [How Would You Create the Perfect Coding Language?](https://dev.to/devteam/how-would-you-create-the-perfect-coding-language-3gad)
 <!-- BLOG-POST-LIST:END -->
 
