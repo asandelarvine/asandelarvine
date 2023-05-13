@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting masked secrets out of CircleCI](https://dev.to/mountainash/getting-masked-secrets-out-of-circleci-2fpp)
+- [Consistência de dados e padrão Outbox](https://dev.to/rafaelpadovezi/consistencia-de-dados-e-padrao-outbox-188p)
 - [Python for All Ages: An Accessible Guide for Beginners](https://dev.to/aradwan20/python-for-all-ages-an-accessible-guide-for-beginners-3bl9)
 - [What inspired you to become a web developer?](https://dev.to/ugbabeog/what-inspired-you-to-become-a-web-developer-1m44)
-- [Best Websites For Animated Icons😍](https://dev.to/arafat4693/best-websites-for-animated-icons-2m5e)
-- [Golang: The Future of Programming - Introduction, Scope, and Real-World Applications](https://dev.to/sahil_4555/golang-the-future-of-programming-introduction-scope-and-real-world-applications-2imn)
 <!-- BLOG-POST-LIST:END -->
 
