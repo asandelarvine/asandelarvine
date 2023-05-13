@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 101, part VIII, networking fundamentals](https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7)
 - [Node Test Runner: Assertion Cheat Sheet](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
 - [Swingland: Recreating Java Swing for Wayland](https://dev.to/phlash/swingland-recreating-java-swing-for-wayland-2ah6)
 - [How to deploy thin jars for better Docker caching](https://dev.to/robertmjohnson/how-to-deploy-thin-jars-for-better-docker-caching-4i44)
-- [A simple Todo list app with React](https://dev.to/zamuhajji/a-simple-todo-list-app-with-react-1bj3)
 <!-- BLOG-POST-LIST:END -->
 
