@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Imposter Syndrome in the Tech Industry: Strategies and Communities to Build Confidence](https://dev.to/phylis/overcoming-imposter-syndrome-in-the-tech-industry-strategies-and-communities-to-build-confidence-31d3)
-- [Mobile-to-Desktop Menu in 2 Lines of CSS](https://dev.to/madsstoumann/mobile-to-desktop-menu-in-2-lines-of-css-4ikn)
-- [I Created A Web App For Twitter That Went Viral 🔥](https://dev.to/rammcodes/i-created-a-web-app-for-twitter-that-went-viral-4i1a)
-- [Options Pattern in .NET](https://dev.to/fabriziobagala/options-pattern-in-net-2abg)
+- [Golang: The Future of Programming - Introduction, Scope, and Real-World Applications](https://dev.to/sahil_4555/golang-the-future-of-programming-introduction-scope-and-real-world-applications-2imn)
+- [⚡️ Speed up development? The handy library of most used snippets for Go apps](https://dev.to/koddr/speed-up-development-the-handy-library-of-most-used-snippets-for-go-apps-1c1h)
+- [50 Chat GPT Prompts Every Software Developer Should Know &lpar;Tested&rpar;](https://dev.to/hackertab_org/50-chat-gpt-prompts-every-software-developer-should-know-tested-9al)
+- [Python Tutorial: Numbers - A beginner&#39;s Guide to Understanding Numeric Data Types in Python](https://dev.to/techwithdavid/python-tutorial-numbers-a-beginners-guide-to-understanding-numeric-data-types-in-python-379b)
 <!-- BLOG-POST-LIST:END -->
 
