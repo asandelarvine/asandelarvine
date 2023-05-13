@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python for All Ages: An Accessible Guide for Beginners](https://dev.to/aradwan20/python-for-all-ages-an-accessible-guide-for-beginners-3bl9)
+- [What inspired you to become a web developer?](https://dev.to/ugbabeog/what-inspired-you-to-become-a-web-developer-1m44)
+- [Best Websites For Animated Icons😍](https://dev.to/arafat4693/best-websites-for-animated-icons-2m5e)
 - [Golang: The Future of Programming - Introduction, Scope, and Real-World Applications](https://dev.to/sahil_4555/golang-the-future-of-programming-introduction-scope-and-real-world-applications-2imn)
-- [⚡️ Speed up development? The handy library of most used snippets for Go apps](https://dev.to/koddr/speed-up-development-the-handy-library-of-most-used-snippets-for-go-apps-1c1h)
-- [50 Chat GPT Prompts Every Software Developer Should Know &lpar;Tested&rpar;](https://dev.to/hackertab_org/50-chat-gpt-prompts-every-software-developer-should-know-tested-9al)
-- [Python Tutorial: Numbers - A beginner&#39;s Guide to Understanding Numeric Data Types in Python](https://dev.to/techwithdavid/python-tutorial-numbers-a-beginners-guide-to-understanding-numeric-data-types-in-python-379b)
 <!-- BLOG-POST-LIST:END -->
 
