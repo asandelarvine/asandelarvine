@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My C# Code Conventions and Style Guide](https://dev.to/kedzior_io/my-c-code-conventions-and-style-guide-3mn4)
+- [PT-BR | POST: Quer criar interfaces, mas o Figma é muito difícil?](https://dev.to/juletopi/pt-br-post-quer-criar-interfaces-mas-o-figma-e-muito-dificil-35pe)
+- [Introducing DependAware: Automating Dependency Updates for NPM Repositories 🚀](https://dev.to/theinfosecguy/introducing-dependaware-automating-dependency-updates-for-npm-repositories-4p15)
 - [An Overview Of ElastiCache Caching Strategies.](https://dev.to/kelvinskell/an-overview-of-elasticache-caching-strategies-3h3d)
-- [ENG. | POST: Want to create interfaces, but Figma is too much difficult?](https://dev.to/juletopi/post-want-to-create-interfaces-but-figma-is-too-much-difficult-4jjh)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-1bno)
-- [Getting masked secrets out of CircleCI](https://dev.to/mountainash/getting-masked-secrets-out-of-circleci-2fpp)
 <!-- BLOG-POST-LIST:END -->
 
