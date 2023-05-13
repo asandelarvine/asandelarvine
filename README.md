@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cohort Retention Analysis from A-Z in Tableau](https://dev.to/alumassy/cohort-retention-analysis-from-a-z-in-tableau-4l0a)
 - [Simplest way to Downgrade Node Version on Windows](https://dev.to/raielly/simplest-way-to-downgrade-node-version-on-windows-3oi7)
 - [Kubernetes 101, part VIII, networking fundamentals](https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7)
 - [Node Test Runner: Assertion Cheat Sheet](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
-- [Swingland: Recreating Java Swing for Wayland](https://dev.to/phlash/swingland-recreating-java-swing-for-wayland-2ah6)
 <!-- BLOG-POST-LIST:END -->
 
