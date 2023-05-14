@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 2 - Collecting repositories data with GitHub Actions workflow 🚀](https://dev.to/giorgiolasala/part-2-collecting-repositories-data-with-github-actions-workflow-4c)
 - [My CNCF LFX Mentorship Spring 2023 Project at Kubescape](https://dev.to/hollowman6/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape-47nd)
+- [Do you really need &quot;microservices&quot;?](https://dev.to/koenbarmentlo/do-you-really-need-microservices-ogi)
 - [Taking Care of Your Mental Health as a Software Developer 🧠](https://dev.to/alexhyettdev/taking-care-of-your-mental-health-as-a-software-developer-3j6a)
-- [Motivational Quote Generator: An App to Help You Stay Inspired](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
-- [You&#39;ll never have to deal with outdated TODO comments again](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
 <!-- BLOG-POST-LIST:END -->
 
