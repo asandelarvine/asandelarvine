@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Java program to find Sum of Digits](https://dev.to/realnamehidden1_61/java-program-to-find-sum-of-digits-28ea)
+- [Smooth Sailing with Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/jeptoo/everything-docker-4eni)
+- [JavaScript Array method .map&lpar;&rpar;](https://dev.to/anandpatel1986/javascript-array-method-map-a32)
 - [When to Use Nested Functions](https://dev.to/_elergy_/when-to-use-nested-functions-45ad)
-- [Firebase Hosting: Free Hosting for your First Web Project 🚀 🙌](https://dev.to/shiftescape/firebase-hosting-free-hosting-for-your-first-web-project-28n8)
-- [How we designed and coded our Product Service](https://dev.to/lovepreetsingh/how-we-designed-and-coded-our-product-service-63g)
-- [VR Wonderlands: What Kind of Experience Would You Create?](https://dev.to/codenewbieteam/vr-wonderlands-what-kind-of-experience-would-you-create-4309)
 <!-- BLOG-POST-LIST:END -->
 
