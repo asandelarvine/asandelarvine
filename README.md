@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First PokeAPI Project](https://dev.to/nozumaz/first-pokeapi-project-32he)
-- [Apache Maven: Um Guia Básico](https://dev.to/pedropietro/apache-maven-um-guia-basico-jcn)
-- [Data Analysis with Redshift Serverless and Quicksight - Part 2](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-2-5c9o)
-- [Data Analysis with Redshift Serverless and Quicksight - Part 1](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-1-1lg8)
+- [VR Wonderlands: What Kind of Experience Would You Create?](https://dev.to/codenewbieteam/vr-wonderlands-what-kind-of-experience-would-you-create-4309)
+- [What&#39;s the Most Obscure Coding Language You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-obscure-coding-language-youve-ever-encountered-3af)
+- [anagram program in java](https://dev.to/realnamehidden1_61/anagram-program-in-java-4921)
+- [7 Secret TypeScript Tricks Pros Use 😎🤫](https://dev.to/ruppysuppy/7-secret-typescript-tricks-pros-use-3ckg)
 <!-- BLOG-POST-LIST:END -->
 
