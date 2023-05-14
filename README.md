@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an Innovative AI Tool to Revolutionize GitHub Issues Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
 - [How to implement Countries List API in your project](https://dev.to/karim_abdallah/how-to-implement-countries-list-in-your-project-2fi)
 - [What&#39;s the problem with my API?](https://dev.to/jmau111/whats-the-problem-with-my-api-ja7)
 - [Unleashing the Power of Async&lpar;&rpar; and Await: Revolutionizing Asynchronous JavaScript](https://dev.to/obere4u/unleashing-the-power-of-async-and-await-revolutionizing-asynchronous-javascript-1d8m)
-- [🔥 600+ 🌟 and 140+ Forks to J.A.R.V.I.S 🚀, Added Dynamic Face Recognition to J.A.R.V.I.S 🤖](https://dev.to/gauravsingh9356/600-and-140-forks-to-jarvis-added-dynamic-face-recognition-to-jarvis-lo6)
 <!-- BLOG-POST-LIST:END -->
 
