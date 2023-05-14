@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Analysis with Redshift Serverless and Quicksight - Part 2](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-2-5c9o)
+- [Data Analysis with Redshift Serverless and Quicksight - Part 1](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-1-1lg8)
 - [Building a RESTful API with Node.js and MongoDB](https://dev.to/himanshuagg12/building-a-restful-api-with-nodejs-and-mongodb-20b6)
-- [How I Sold My Project for $30!!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
-- [📡 Type Casting in JavaScript](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
-- [Functional Programming in JavaScript: Unleashing the Fun&lpar;side&rpar; of Functions!](https://dev.to/muhmmadawd/functional-programming-in-javascript-unleashing-the-funside-of-functions-44fe)
+- [Two ways to add text over images](https://dev.to/lensco825/two-ways-to-add-text-over-images-399h)
 <!-- BLOG-POST-LIST:END -->
 
