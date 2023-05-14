@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Lessons while building a static website](https://dev.to/vidyasagarmsc/lessons-while-building-a-static-website-8g3)
 - [Quick Progress in Software Development](https://dev.to/snowman647/quick-progress-in-software-development-2fb2)
 - [Let&#39;s create notification reminder app in Jetpack Compose.](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae)
-- [10 Visuals That Will Boost Your Mindset](https://dev.to/jon_snow789/10-visuals-that-will-boost-your-mindset-4pge)
+- [Solution-diffusion model in Rust](https://dev.to/attilavm/solution-diffusion-model-in-rust-2j8)
 <!-- BLOG-POST-LIST:END -->
 
