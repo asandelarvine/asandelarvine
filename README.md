@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My CNCF LFX Mentorship Spring 2023 Project at Kubescape](https://dev.to/hollowman6/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape-47nd)
+- [Taking Care of Your Mental Health as a Software Developer 🧠](https://dev.to/alexhyettdev/taking-care-of-your-mental-health-as-a-software-developer-3j6a)
 - [Motivational Quote Generator: An App to Help You Stay Inspired](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
 - [You&#39;ll never have to deal with outdated TODO comments again](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
-- [My Python Project Development Guide ver.202305](https://dev.to/fukubaka0825/my-python-project-development-guide-ver202305-2ge5)
-- [Spice Up Your NextJS skills the Pro Way](https://dev.to/ashutoshbhadauriya/spice-up-your-nextjs-skills-the-pro-way-16gn)
 <!-- BLOG-POST-LIST:END -->
 
