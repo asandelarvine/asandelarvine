@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [First PokeAPI Project](https://dev.to/nozumaz/first-pokeapi-project-32he)
 - [Apache Maven: Um Guia Básico](https://dev.to/pedropietro/apache-maven-um-guia-basico-jcn)
 - [Data Analysis with Redshift Serverless and Quicksight - Part 2](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-2-5c9o)
 - [Data Analysis with Redshift Serverless and Quicksight - Part 1](https://dev.to/aws-builders/data-analysis-with-redshift-serverless-and-quicksight-part-1-1lg8)
-- [Building a RESTful API with Node.js and MongoDB](https://dev.to/himanshuagg12/building-a-restful-api-with-nodejs-and-mongodb-20b6)
 <!-- BLOG-POST-LIST:END -->
 
