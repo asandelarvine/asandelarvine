@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Conversations](https://dev.to/polterguy/chatgpt-conversations-4p3e)
+- [reverse string in java](https://dev.to/realnamehidden1_61/reverse-string-in-java-2g9k)
 - [Java program to find Sum of Digits](https://dev.to/realnamehidden1_61/java-program-to-find-sum-of-digits-28ea)
 - [Smooth Sailing with Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/jeptoo/everything-docker-4eni)
-- [JavaScript Array method .map&lpar;&rpar;](https://dev.to/anandpatel1986/javascript-array-method-map-a32)
-- [When to Use Nested Functions](https://dev.to/_elergy_/when-to-use-nested-functions-45ad)
 <!-- BLOG-POST-LIST:END -->
 
