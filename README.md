@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Conversations](https://dev.to/polterguy/chatgpt-conversations-4p3e)
-- [reverse string in java](https://dev.to/realnamehidden1_61/reverse-string-in-java-2g9k)
-- [Java program to find Sum of Digits](https://dev.to/realnamehidden1_61/java-program-to-find-sum-of-digits-28ea)
-- [Smooth Sailing with Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/jeptoo/everything-docker-4eni)
+- [Motivational Quote Generator: An App to Help You Stay Inspired](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
+- [You&#39;ll never have to deal with outdated TODO comments again](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
+- [My Python Project Development Guide ver.202305](https://dev.to/fukubaka0825/my-python-project-development-guide-ver202305-2ge5)
+- [Spice Up Your NextJS skills the Pro Way](https://dev.to/ashutoshbhadauriya/spice-up-your-nextjs-skills-the-pro-way-16gn)
 <!-- BLOG-POST-LIST:END -->
 
