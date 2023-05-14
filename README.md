@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When to Use Nested Functions](https://dev.to/_elergy_/when-to-use-nested-functions-45ad)
 - [Firebase Hosting: Free Hosting for your First Web Project 🚀 🙌](https://dev.to/shiftescape/firebase-hosting-free-hosting-for-your-first-web-project-28n8)
 - [How we designed and coded our Product Service](https://dev.to/lovepreetsingh/how-we-designed-and-coded-our-product-service-63g)
-- [What&#39;s the Most Obscure Coding Language You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-obscure-coding-language-youve-ever-encountered-3af)
 - [VR Wonderlands: What Kind of Experience Would You Create?](https://dev.to/codenewbieteam/vr-wonderlands-what-kind-of-experience-would-you-create-4309)
 <!-- BLOG-POST-LIST:END -->
 
