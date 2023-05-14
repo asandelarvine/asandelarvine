@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Visuals That Will Boost Your Mindset](https://dev.to/jon_snow789/10-visuals-that-will-boost-your-mindset-4pge)
 - [What is Atomic State Management - Create One Yourself](https://dev.to/mohdahmad1/atomic-state-management-in-react-1nbc)
 - [I Tried Blogging as a Developer for 7 Days 🧑‍💻](https://dev.to/fabiancdng/i-tried-blogging-as-a-developer-for-7-days-25gl)
-- [Building an Innovative AI Tool to Revolutionize GitHub Issues Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
-- [How to implement Countries List API in your project](https://dev.to/karim_abdallah/how-to-implement-countries-list-in-your-project-2fi)
+- [GitHub Issues Management with AI 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
 <!-- BLOG-POST-LIST:END -->
 
