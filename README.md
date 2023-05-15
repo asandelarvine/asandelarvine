@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [On my way!! my coding journey.](https://dev.to/kelvinacosta/on-my-way-my-coding-journey-1gda)
+- [How to write a basic rule engine in Python](https://dev.to/fractalis/how-to-write-a-basic-rule-engine-in-python-3eik)
+- [Exploring JavaScript Events](https://dev.to/samlovesjava/exploring-javascript-events-17de)
 - [Delete file from Git Repository](https://dev.to/binil_tz/delete-file-from-git-repository-1epm)
-- [Introduction to SQL set operators](https://dev.to/aviatorifeanyi/introduction-to-sql-set-operators-52m6)
-- [The actual usage of Python versions May 2023 by Mr. Bard](https://dev.to/nezirzahirovic/the-actual-usage-of-python-versions-may-2023-by-mr-bard-5ehb)
-- [Lessons while building a static website](https://dev.to/vidyasagarmsc/lessons-while-building-a-static-website-8g3)
 <!-- BLOG-POST-LIST:END -->
 
