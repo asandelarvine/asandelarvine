@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-92a)
+- [Amazon CodeWhisperer Demo](https://dev.to/jslow421/amazon-codewhisperer-demo-315b)
+- [BranchGPT: The AI-Powered Solution to Personalized Branch Names](https://dev.to/sourishkrout/branchgpt-the-ai-powered-solution-to-personalized-branch-names-5dmf)
 - [How to track you coding time](https://dev.to/vleov/how-to-track-you-coding-time-3dbl)
-- [Weekly Roundup &lpar;May 8&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-8-hot-topics-in-workplace-sharepoint-and-powerplatform-36a3)
-- [Programming Again After 2 Years... | Mental Health &amp; Burn Out](https://dev.to/hb/programming-again-after-2-years-mental-health-burn-out-1096)
-- [How to use Azure CLI to create a Virtual Machine](https://dev.to/yemmyoye/how-to-use-azure-cli-to-create-a-virtual-machine-2ido)
 <!-- BLOG-POST-LIST:END -->
 
