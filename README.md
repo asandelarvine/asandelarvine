@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A slick animation from Better Call Saul](https://dev.to/robole/a-slick-animation-from-better-call-saul-32pd)
-- [What is Vite? &amp; Vite vs Webpack](https://dev.to/refine/what-is-vite-vite-vs-webpack-5e27)
-- [Getting into Developer Relations 101](https://dev.to/josefine/getting-into-developer-relations-101-2ihl)
-- [Logging Best Practices Revisited](https://dev.to/codenameone/logging-best-practices-revisited-eaa)
+- [How to deal with Regeneration runtime errors in javascript](https://dev.to/fisayomi/how-to-deal-with-regeneration-runtime-errors-in-javascript-ped)
+- [Build Email Verifier With Go](https://dev.to/aniket762/build-email-verifier-with-go-2k3c)
+- [Music Monday — What are you listening to? &lpar;Jazz Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-jazz-edition-519k)
+- [How to generate a SSH RSA key](https://dev.to/mxglt/how-to-generate-a-ssh-rsa-key-1m55)
 <!-- BLOG-POST-LIST:END -->
 
