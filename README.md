@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use expect.objectContaining With Null and Undefined](https://dev.to/zirkelc/how-to-use-expectobjectcontaining-with-null-and-undefined-3iba)
-- [Unlocking Workflow Automation : Introduction to Apache Airflow](https://dev.to/grayhat/unlocking-workflow-automation-introduction-to-apache-airflow-2dha)
-- [What’s new in CSS and UI: I/O 2023 Edition](https://dev.to/trinhcamminh/whats-new-in-css-and-ui-io-2023-edition-3oe)
-- [Choose Your Own Adventure in Open Source: Paths to Success](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p)
+- [How to track you coding time](https://dev.to/vleov/how-to-track-you-coding-time-3dbl)
+- [Weekly Roundup &lpar;May 8&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-8-hot-topics-in-workplace-sharepoint-and-powerplatform-36a3)
+- [Programming Again After 2 Years... | Mental Health &amp; Burn Out](https://dev.to/hb/programming-again-after-2-years-mental-health-burn-out-1096)
+- [How to use Azure CLI to create a Virtual Machine](https://dev.to/yemmyoye/how-to-use-azure-cli-to-create-a-virtual-machine-2ido)
 <!-- BLOG-POST-LIST:END -->
 
