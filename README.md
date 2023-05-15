@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript : 12 méthodes essentielles pour les chaînes de caractères](https://dev.to/kureru/javascript-12-methodes-essentielles-pour-les-chaines-de-caracteres-5b6)
+- [Using Docker Buildx to Create Cross-Platform Docker Images for Seamless Compatibility](https://dev.to/aws-builders/using-docker-buildx-to-create-cross-platform-docker-images-for-seamless-compatibility-4k8b)
+- [Kubernetes CRUD Operation using Go on Docker Desktop](https://dev.to/docker/kubernetes-crud-operation-using-go-on-docker-desktop-3l6a)
 - [Part 1: Naming Conventions - The Foundation of Clean Code](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
-- [10 Books to Improve Coding Skill in 2023](https://dev.to/javinpaul/10-books-to-improve-coding-skill-in-2023-3475)
-- [On my way!! my coding journey.](https://dev.to/kelvinacosta/on-my-way-my-coding-journey-1gda)
-- [How to write a basic rule engine in Python](https://dev.to/fractalis/how-to-write-a-basic-rule-engine-in-python-3eik)
 <!-- BLOG-POST-LIST:END -->
 
