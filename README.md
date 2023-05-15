@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s your CSS level? Take a CSS Quiz!](https://dev.to/afif/whats-your-css-level-take-a-css-quiz-5g9i)
-- [AWS Computer: Lambda Overview](https://dev.to/cwprogram/aws-computer-lambda-overview-fkb)
-- [.js, .cjs and .mjs defference](https://dev.to/nipu/js-cjs-and-mjs-defference-5f21)
-- [What is Provisioning and how does it work?](https://dev.to/miniorange/what-is-provisioning-and-how-does-it-work-1m8i)
+- [Logging Best Practices Revisited](https://dev.to/codenameone/logging-best-practices-revisited-eaa)
+- [Meme Monday](https://dev.to/ben/meme-monday-2af4)
+- [Spring Boot + Electron, a case study](https://dev.to/krud/spring-boot-electron-a-case-study-2p75)
+- [Medusa Community Highlights: Strapi Integration, SES Plugin, and More!](https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim)
 <!-- BLOG-POST-LIST:END -->
 
