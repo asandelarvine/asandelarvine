@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript : 12 méthodes essentielles pour les chaînes de caractères](https://dev.to/kureru/javascript-12-methodes-essentielles-pour-les-chaines-de-caracteres-5b6)
-- [Using Docker Buildx to Create Cross-Platform Docker Images for Seamless Compatibility](https://dev.to/aws-builders/using-docker-buildx-to-create-cross-platform-docker-images-for-seamless-compatibility-4k8b)
-- [Kubernetes CRUD Operation using Go on Docker Desktop](https://dev.to/docker/kubernetes-crud-operation-using-go-on-docker-desktop-3l6a)
-- [Part 1: Naming Conventions - The Foundation of Clean Code](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
+- [Hyperlambda and Low-Code](https://dev.to/polterguy/hyperlambda-and-low-code-505l)
+- [Level Up! What&#39;s One Skill You Want to Improve This Week?](https://dev.to/codenewbieteam/level-up-whats-one-skill-you-want-to-improve-this-week-1lnp)
+- [Decoding Linux: Why Isn&#39;t It More Popular?](https://dev.to/devteam/decoding-linux-why-isnt-it-more-popular-3k4o)
+- [Weeks of Debugging Your Build can Save Hours of Learning Gradle](https://dev.to/jmfayard/weeks-of-debugging-your-build-can-save-hours-of-learning-gradle-4iek)
 <!-- BLOG-POST-LIST:END -->
 
