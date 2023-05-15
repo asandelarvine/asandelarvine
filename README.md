@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mental Health Awareness Week UK](https://dev.to/louiseann93/mental-health-awareness-week-uk-18de)
 - [Hiring without Algorithm Quizzes](https://dev.to/plank/hiring-without-algorithm-quizzes-2mpb)
 - [Java records and why you should use them](https://dev.to/pythonisnotasnake/java-records-and-why-you-should-use-them-1bbn)
 - [Code Art &amp; iDraw H review](https://dev.to/mijim/code-art-idraw-h-review-43o4)
-- [CSS Art: Drawing a Coffee Stain](https://dev.to/alvaromontoro/css-art-drawing-a-coffee-stain-3dcp)
 <!-- BLOG-POST-LIST:END -->
 
