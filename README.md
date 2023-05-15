@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Job Market Sucks - 2023 Edition](https://dev.to/philipjohnbasile/the-job-market-sucks-4lfa)
+- [I created a my first CRUD web application with React and Supabase!](https://dev.to/yuya0114/i-created-a-my-first-crud-web-application-with-react-and-supabase-3f2g)
 - [Mental Health Awareness Week UK](https://dev.to/louiseann93/mental-health-awareness-week-uk-18de)
 - [Hiring without Algorithm Quizzes](https://dev.to/plank/hiring-without-algorithm-quizzes-2mpb)
-- [Java records and why you should use them](https://dev.to/pythonisnotasnake/java-records-and-why-you-should-use-them-1bbn)
-- [Code Art &amp; iDraw H review](https://dev.to/mijim/code-art-idraw-h-review-43o4)
 <!-- BLOG-POST-LIST:END -->
 
