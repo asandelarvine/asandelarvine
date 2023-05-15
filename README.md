@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deal with Regeneration runtime errors in javascript](https://dev.to/fisayomi/how-to-deal-with-regeneration-runtime-errors-in-javascript-ped)
-- [Build Email Verifier With Go](https://dev.to/aniket762/build-email-verifier-with-go-2k3c)
-- [Music Monday — What are you listening to? &lpar;Jazz Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-jazz-edition-519k)
-- [How to generate a SSH RSA key](https://dev.to/mxglt/how-to-generate-a-ssh-rsa-key-1m55)
+- [How To Use expect.objectContaining With Null and Undefined](https://dev.to/zirkelc/how-to-use-expectobjectcontaining-with-null-and-undefined-3iba)
+- [Unlocking Workflow Automation : Introduction to Apache Airflow](https://dev.to/grayhat/unlocking-workflow-automation-introduction-to-apache-airflow-2dha)
+- [What’s new in CSS and UI: I/O 2023 Edition](https://dev.to/trinhcamminh/whats-new-in-css-and-ui-io-2023-edition-3oe)
+- [Choose Your Own Adventure in Open Source: Paths to Success](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p)
 <!-- BLOG-POST-LIST:END -->
 
