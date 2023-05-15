@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Art &amp; iDraw H review](https://dev.to/mijim/code-art-idraw-h-review-43o4)
+- [CSS Art: Drawing a Coffee Stain](https://dev.to/alvaromontoro/css-art-drawing-a-coffee-stain-3dcp)
 - [Sloan&#39;s Top 4 Newbie Memes of the Week](https://dev.to/codenewbieteam/sloans-top-4-newbie-memes-of-the-week-92a)
 - [Amazon CodeWhisperer Demo](https://dev.to/jslow421/amazon-codewhisperer-demo-315b)
-- [BranchGPT: The AI-Powered Solution to Personalized Branch Names](https://dev.to/sourishkrout/branchgpt-the-ai-powered-solution-to-personalized-branch-names-5dmf)
-- [How to track you coding time](https://dev.to/vleov/how-to-track-you-coding-time-3dbl)
 <!-- BLOG-POST-LIST:END -->
 
