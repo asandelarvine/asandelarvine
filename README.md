@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A slick animation from Better Call Saul](https://dev.to/robole/a-slick-animation-from-better-call-saul-32pd)
+- [What is Vite? &amp; Vite vs Webpack](https://dev.to/refine/what-is-vite-vite-vs-webpack-5e27)
 - [Getting into Developer Relations 101](https://dev.to/josefine/getting-into-developer-relations-101-2ihl)
 - [Logging Best Practices Revisited](https://dev.to/codenameone/logging-best-practices-revisited-eaa)
-- [Key Practices in DevOps](https://dev.to/rainleander/key-practices-in-devops-67n)
-- [Meme Monday](https://dev.to/ben/meme-monday-2af4)
 <!-- BLOG-POST-LIST:END -->
 
