@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting into Developer Relations 101](https://dev.to/josefine/getting-into-developer-relations-101-2ihl)
 - [Logging Best Practices Revisited](https://dev.to/codenameone/logging-best-practices-revisited-eaa)
+- [Key Practices in DevOps](https://dev.to/rainleander/key-practices-in-devops-67n)
 - [Meme Monday](https://dev.to/ben/meme-monday-2af4)
-- [Spring Boot + Electron, a case study](https://dev.to/krud/spring-boot-electron-a-case-study-2p75)
-- [Medusa Community Highlights: Strapi Integration, SES Plugin, and More!](https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim)
 <!-- BLOG-POST-LIST:END -->
 
