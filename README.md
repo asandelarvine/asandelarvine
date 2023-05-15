@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 1: Naming Conventions - The Foundation of Clean Code](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
+- [10 Books to Improve Coding Skill in 2023](https://dev.to/javinpaul/10-books-to-improve-coding-skill-in-2023-3475)
 - [On my way!! my coding journey.](https://dev.to/kelvinacosta/on-my-way-my-coding-journey-1gda)
 - [How to write a basic rule engine in Python](https://dev.to/fractalis/how-to-write-a-basic-rule-engine-in-python-3eik)
-- [Exploring JavaScript Events](https://dev.to/samlovesjava/exploring-javascript-events-17de)
-- [Delete file from Git Repository](https://dev.to/binil_tz/delete-file-from-git-repository-1epm)
 <!-- BLOG-POST-LIST:END -->
 
