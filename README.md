@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building An Outstanding Learning and Achievement Dashboard With Pink Design &lpar;Next.js&rpar;](https://dev.to/hackmamba/building-an-outstanding-learning-and-achievement-dashboard-with-pink-design-nextjs-44f4)
-- [Hyperlambda and Low-Code](https://dev.to/polterguy/hyperlambda-and-low-code-505l)
-- [Weeks of Debugging Your Build can Save Hours of Learning Gradle](https://dev.to/jmfayard/weeks-of-debugging-your-build-can-save-hours-of-learning-gradle-4iek)
-- [Level Up! What&#39;s One Skill You Want to Improve This Week?](https://dev.to/codenewbieteam/level-up-whats-one-skill-you-want-to-improve-this-week-1lnp)
+- [100 C# Code Snippets for Everyday Problems✨](https://dev.to/bytehide/100-c-code-snippets-for-everyday-problems-2d83)
+- [Integrating the GitHub action to make yt-dlp-api tests automated!](https://dev.to/peter279k/integrating-the-github-action-to-make-yt-dlp-api-tests-automated-37m1)
+- [Let&#39;s build a Google Maps clone with React, Leaflet, and OneSDK](https://dev.to/superface/lets-build-a-google-maps-clone-with-react-leaflet-and-onesdk-16ci)
+- [proposal เรื่อง loop variable scoping ที่จะมาใน go 1.22](https://dev.to/pallat/proposal-eruueng-loop-variable-scoping-thiicchamaaain-go-122-3b23)
 <!-- BLOG-POST-LIST:END -->
 
