@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Future of Central Bank Digital Currencies](https://dev.to/ripplexdev/building-the-future-of-central-bank-digital-currencies-4onl)
-- [Code reviews and Suggestions from SARIF report](https://dev.to/hollowman6/code-reviews-and-suggestions-from-sarif-report-1271)
-- [Create active links using React Router V6](https://dev.to/salehmubashar/create-active-links-using-react-router-v6-2gle)
-- [The Only &quot;CSS Selectors&quot; Illustrations You Will Ever Need🔥](https://dev.to/arafat4693/the-only-css-selectors-illustrations-you-will-ever-need-5bja)
+- [Journey to Front-End Web Development](https://dev.to/bealecs/journey-to-front-end-web-development-333l)
+- [Ensuring High Availability for Your Application Hosted in Azure: Key Strategies](https://dev.to/toluwani_oluwaloseyi/ensuring-high-availability-for-your-application-hosted-in-azure-key-strategies-gja)
+- [Beginner&#39;s Best Guide to Meta Tags for SEO.](https://dev.to/ritapossible/beginners-best-guide-to-meta-tags-for-seo-4i9o)
+- [Neurodivergent Talk: What strategies has your workplace implemented to make workflow more accessible for employees?](https://dev.to/codenewbieteam/neurodivergent-talk-what-strategies-has-your-workplace-implemented-to-make-workflow-more-accessible-for-employees-gll)
 <!-- BLOG-POST-LIST:END -->
 
