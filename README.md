@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I just did a test to apply as a front end developer – and things aren’t going well](https://dev.to/codepo8/i-just-did-a-test-to-apply-as-a-front-end-developer-and-things-arent-going-well-1mkn)
+- [From NgRx ComponentStore to SignalStore: the key takeaways from my demo project](https://dev.to/this-is-angular/from-ngrx-componentstore-to-signalstore-the-key-takeaways-from-my-demo-project-38n3)
 - [RBAC with API Gateway and Open Policy Agent&lpar;OPA&rpar;](https://dev.to/apisix/rbac-with-api-gateway-and-open-policy-agentopa-a3)
 - [📝Why QA for IaC is important](https://dev.to/jessica_veit/why-qa-for-iac-is-important-2e91)
-- [Core Web Vitals, ¿qué son y cómo mejorar tu web?](https://dev.to/miasalazar/core-web-vitals-que-son-y-como-mejorar-tu-web-2i5i)
-- [Creating a Fun and Engaging Workplace - Exploring the Magic of Together Emojis](https://dev.to/jaloplo/creating-a-fun-and-engaging-workplace-exploring-the-magic-of-together-emojis-1i4g)
 <!-- BLOG-POST-LIST:END -->
 
