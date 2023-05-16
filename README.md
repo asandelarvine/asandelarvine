@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the Future of Central Bank Digital Currencies](https://dev.to/ripplexdev/building-the-future-of-central-bank-digital-currencies-4onl)
+- [Code reviews and Suggestions from SARIF report](https://dev.to/hollowman6/code-reviews-and-suggestions-from-sarif-report-1271)
+- [Create active links using React Router V6](https://dev.to/salehmubashar/create-active-links-using-react-router-v6-2gle)
 - [The Only &quot;CSS Selectors&quot; Illustrations You Will Ever Need🔥](https://dev.to/arafat4693/the-only-css-selectors-illustrations-you-will-ever-need-5bja)
-- [AWS Lambda Cookbook — Part 6 — Configuration &amp; Feature Flags Best Practices](https://dev.to/aws-builders/aws-lambda-cookbook-part-6-configuration-feature-flags-best-practices-54li)
-- [The Power of Smart Contracts: Automating Trust in the Digital Age](https://dev.to/nomzykush/the-power-of-smart-contracts-automating-trust-in-the-digital-age-3bko)
-- [What My Cousin Vinny can teach us about debugging](https://dev.to/propelauthblog/what-my-cousin-vinny-can-teach-us-about-debugging-293j)
 <!-- BLOG-POST-LIST:END -->
 
