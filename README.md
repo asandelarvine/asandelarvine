@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Hackathon with FlutterFlow, Invertase, and Supabase](https://dev.to/supabase/flutter-hackathon-with-flutterflow-invertase-and-supabase-1k6b)
+- [Progressive Web Apps](https://dev.to/anuradha9712/progressive-web-apps-1dd9)
 - [Introducing Ostara](https://dev.to/krud/introducing-ostara-3o6b)
-- [📜Awesome Page Scroll Effect | HTML &amp; CSS✨](https://dev.to/robsonmuniz16/awesome-page-scroll-effect-html-css-54mh)
-- [Impact of Agile Methodology on Software Development](https://dev.to/agilitest/impact-of-agile-methodology-on-software-development-4im)
-- [Prevent .NET Application Insights telemetry loss](https://dev.to/asimmon/prevent-net-application-insights-telemetry-loss-e39)
+- [How to Unleash the Power of Multithreading in JavaScript with Web Workers](https://dev.to/this-is-learning/how-to-unleash-the-power-of-multithreading-in-javascript-with-web-workers-20m5)
 <!-- BLOG-POST-LIST:END -->
 
