@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [To apply security on APP I developed 1 - Analyze APP](https://dev.to/teamliapp/to-apply-security-on-app-i-developed-1-analyze-app-1a3n)
-- [Importing Code in Polyglot Notebooks](https://dev.to/integerman/importing-code-in-polyglot-notebooks-1598)
-- [I &quot;did my own research&quot; and &quot;AI&quot; is not taking my job any time soon.](https://dev.to/jarrodhroberson/i-did-my-own-research-and-ai-is-not-taking-my-job-any-time-soon-3pgj)
-- [How to build a developer community: a step-by-step guide‍](https://dev.to/crowddotdev/how-to-build-a-developer-community-a-step-by-step-guide-1e2d)
+- [Python&#39;s Practical Prowess: Where Does It Outshine Other Languages?](https://dev.to/devteam/pythons-practical-prowess-where-does-it-outshine-other-languages-29g8)
+- [What&#39;s the Coolest Coding Language Name?](https://dev.to/codenewbieteam/whats-the-coolest-coding-language-name-2ecb)
+- [Tips for Javascript Programming](https://dev.to/naomiclarkson2/tips-for-javascript-programming-h1)
+- [7 Tips to Build Scalable Node.js Applications](https://dev.to/amplication/7-tips-to-build-scalable-nodejs-applications-3b35)
 <!-- BLOG-POST-LIST:END -->
 
