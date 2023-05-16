@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#2665: Counter II](https://dev.to/jd2r/2665-counter-ii-1c8g)
-- [#2620: Counter](https://dev.to/jd2r/2620-counter-1c4p)
-- [Bringing custom domains back to Glitch and bots to Bluesky 🤖🌤️](https://dev.to/glitch/bringing-custom-domains-back-to-glitch-and-bots-to-bluesky-2lej)
-- [Types of Web3 Developer roles](https://dev.to/kudoser/types-of-web3-developer-roles-91b)
+- [Testing in software development: A practical guide](https://dev.to/educative/testing-in-software-development-a-practical-guide-52k)
+- [How to Demonstrate Achievements in Software Development](https://dev.to/snowman647/how-to-demonstrate-achievements-in-software-development-3jbk)
+- [19 VS Code Extensions To Boost Your Productivity 🚀🔥](https://dev.to/madza/19-vs-code-extensions-to-boost-your-productivity-4npo)
+- [The Upstream agenda is out, and it&#39;s 🔥](https://dev.to/tidelift/the-upstream-agenda-is-out-and-its-1cin)
 <!-- BLOG-POST-LIST:END -->
 
