@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Ostara](https://dev.to/krud/introducing-ostara-3o6b)
+- [📜Awesome Page Scroll Effect | HTML &amp; CSS✨](https://dev.to/robsonmuniz16/awesome-page-scroll-effect-html-css-54mh)
+- [Impact of Agile Methodology on Software Development](https://dev.to/agilitest/impact-of-agile-methodology-on-software-development-4im)
 - [Prevent .NET Application Insights telemetry loss](https://dev.to/asimmon/prevent-net-application-insights-telemetry-loss-e39)
-- [How Next.js Redirects Work](https://dev.to/refine/how-nextjs-redirects-work-3j9p)
-- [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
-- [Bee](https://dev.to/ruthmoog/bee-2op1)
 <!-- BLOG-POST-LIST:END -->
 
