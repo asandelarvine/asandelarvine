@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What My Cousin Vinny can teach us about debugging](https://dev.to/propelauthblog/what-my-cousin-vinny-can-teach-us-about-debugging-293j)
+- [ChatGPT, Copilot and Programmers: Collaboration or Substitution?](https://dev.to/mpotapov/chatgpt-copilot-and-programmers-collaboration-or-substitution-47a2)
 - [Testing in software development: A practical guide](https://dev.to/educative/testing-in-software-development-a-practical-guide-52k)
 - [How to Demonstrate Achievements in Software Development](https://dev.to/snowman647/how-to-demonstrate-achievements-in-software-development-3jbk)
-- [19 VS Code Extensions To Boost Your Productivity 🚀🔥](https://dev.to/madza/19-vs-code-extensions-to-boost-your-productivity-4npo)
-- [The Upstream agenda is out, and it&#39;s 🔥](https://dev.to/tidelift/the-upstream-agenda-is-out-and-its-1cin)
 <!-- BLOG-POST-LIST:END -->
 
