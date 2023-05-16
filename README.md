@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WSL Error: Failed to Execute Process and Get User ID](https://dev.to/ezzahirtaha/wsl-error-failed-to-execute-process-and-get-user-id-2fld)
+- [After 20 years in tech, here’s what I wish I had all along &lpar;and how I’m building it&rpar;](https://dev.to/opencontextinc/after-20-years-in-tech-heres-what-i-wish-i-had-all-along-and-how-im-building-it-4f1f)
 - [Journey to Front-End Web Development](https://dev.to/bealecs/journey-to-front-end-web-development-333l)
 - [Ensuring High Availability for Your Application Hosted in Azure: Key Strategies](https://dev.to/toluwani_oluwaloseyi/ensuring-high-availability-for-your-application-hosted-in-azure-key-strategies-gja)
-- [Beginner&#39;s Best Guide to Meta Tags for SEO.](https://dev.to/ritapossible/beginners-best-guide-to-meta-tags-for-seo-4i9o)
-- [Neurodivergent Talk: What strategies has your workplace implemented to make workflow more accessible for employees?](https://dev.to/codenewbieteam/neurodivergent-talk-what-strategies-has-your-workplace-implemented-to-make-workflow-more-accessible-for-employees-gll)
 <!-- BLOG-POST-LIST:END -->
 
