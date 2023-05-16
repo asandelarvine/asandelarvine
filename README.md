@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build an application shell layout for Tailwind CSS](https://dev.to/themesberg/how-to-build-an-application-shell-layout-for-tailwind-css-247k)
-- [Clean Code Principles for JavaScript and TypeScript Developers](https://dev.to/devland/clean-code-principles-for-javascript-and-typescript-developers-3kdn)
-- [Announcing the Built With Appwrite Platform](https://dev.to/appwrite/announcing-the-built-with-appwrite-platform-c7j)
-- [I just did a test to apply as a front end developer – and things aren’t going well](https://dev.to/codepo8/i-just-did-a-test-to-apply-as-a-front-end-developer-and-things-arent-going-well-1mkn)
+- [34 Web Development Trends In 2023: Embracing The Future](https://dev.to/mythiliraju/34-web-development-trends-in-2023-embracing-the-future-8mk)
+- [Create an Interactive AI Chatbot in Slack using Python and OpenAI API](https://dev.to/alex_bobes/creating-an-interactive-ai-chatbot-in-slack-using-python-and-openai-api-37o)
+- [Software Development Is Unlike Construction](https://dev.to/solidi/software-development-is-unlike-construction-1mb6)
+- [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
 <!-- BLOG-POST-LIST:END -->
 
