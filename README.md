@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#2665: Counter II](https://dev.to/jd2r/2665-counter-ii-1c8g)
+- [#2620: Counter](https://dev.to/jd2r/2620-counter-1c4p)
+- [Bringing custom domains back to Glitch and bots to Bluesky 🤖🌤️](https://dev.to/glitch/bringing-custom-domains-back-to-glitch-and-bots-to-bluesky-2lej)
 - [Types of Web3 Developer roles](https://dev.to/kudoser/types-of-web3-developer-roles-91b)
-- [#2667: Create Hello World Function](https://dev.to/jd2r/2667-create-hello-world-function-50ho)
-- [How to Install Ubuntu 23.04 as Main System on a Desktop or VirtualBox VM](https://dev.to/erikaheidi/how-to-install-ubuntu-2304-as-main-system-on-a-desktop-or-virtualbox-vm-1lpb)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-ibc)
 <!-- BLOG-POST-LIST:END -->
 
