@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I &quot;did my own research&quot; and &quot;AI&quot; is not taking my job any time soon.](https://dev.to/jarrodhroberson/i-did-my-own-research-and-ai-is-not-taking-my-job-any-time-soon-3pgj)
+- [How to build a developer community: a step-by-step guide‍](https://dev.to/crowddotdev/how-to-build-a-developer-community-a-step-by-step-guide-1e2d)
 - [Beyond Programming: The Game-Changing Benefits of Business Management for Programmers](https://dev.to/dev_zamudio/beyond-programming-the-game-changing-benefits-of-business-management-for-programmers-1kf8)
 - [Getting started with Apache Flink: A guide to stream processing](https://dev.to/mage_ai/getting-started-with-apache-flink-a-guide-to-stream-processing-e19)
-- [This Job Market Sucks - 2023 Edition](https://dev.to/philipjohnbasile/the-job-market-sucks-4lfa)
-- [I created a my first CRUD web application with React and Supabase!](https://dev.to/yuya0114/i-created-a-my-first-crud-web-application-with-react-and-supabase-3f2g)
 <!-- BLOG-POST-LIST:END -->
 
