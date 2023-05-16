@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [34 Web Development Trends In 2023: Embracing The Future](https://dev.to/mythiliraju/34-web-development-trends-in-2023-embracing-the-future-8mk)
-- [Create an Interactive AI Chatbot in Slack using Python and OpenAI API](https://dev.to/alex_bobes/creating-an-interactive-ai-chatbot-in-slack-using-python-and-openai-api-37o)
-- [Software Development Is Unlike Construction](https://dev.to/solidi/software-development-is-unlike-construction-1mb6)
-- [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
+- [Prevent .NET Application Insights telemetry loss](https://dev.to/asimmon/prevent-net-application-insights-telemetry-loss-e39)
+- [How Next.js Redirects Work](https://dev.to/refine/how-nextjs-redirects-work-3j9p)
+- [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
+- [Bee](https://dev.to/ruthmoog/bee-2op1)
 <!-- BLOG-POST-LIST:END -->
 
