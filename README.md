@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Only &quot;CSS Selectors&quot; Illustrations You Will Ever Need🔥](https://dev.to/arafat4693/the-only-css-selectors-illustrations-you-will-ever-need-5bja)
+- [AWS Lambda Cookbook — Part 6 — Configuration &amp; Feature Flags Best Practices](https://dev.to/aws-builders/aws-lambda-cookbook-part-6-configuration-feature-flags-best-practices-54li)
+- [The Power of Smart Contracts: Automating Trust in the Digital Age](https://dev.to/nomzykush/the-power-of-smart-contracts-automating-trust-in-the-digital-age-3bko)
 - [What My Cousin Vinny can teach us about debugging](https://dev.to/propelauthblog/what-my-cousin-vinny-can-teach-us-about-debugging-293j)
-- [ChatGPT, Copilot and Programmers: Collaboration or Substitution?](https://dev.to/mpotapov/chatgpt-copilot-and-programmers-collaboration-or-substitution-47a2)
-- [Testing in software development: A practical guide](https://dev.to/educative/testing-in-software-development-a-practical-guide-52k)
-- [How to Demonstrate Achievements in Software Development](https://dev.to/snowman647/how-to-demonstrate-achievements-in-software-development-3jbk)
 <!-- BLOG-POST-LIST:END -->
 
