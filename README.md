@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Hackathon with FlutterFlow, Invertase, and Supabase](https://dev.to/supabase/flutter-hackathon-with-flutterflow-invertase-and-supabase-1k6b)
-- [Progressive Web Apps](https://dev.to/anuradha9712/progressive-web-apps-1dd9)
-- [Introducing Ostara](https://dev.to/krud/introducing-ostara-3o6b)
-- [How to Unleash the Power of Multithreading in JavaScript with Web Workers](https://dev.to/this-is-learning/how-to-unleash-the-power-of-multithreading-in-javascript-with-web-workers-20m5)
+- [Types of Web3 Developer roles](https://dev.to/kudoser/types-of-web3-developer-roles-91b)
+- [#2667: Create Hello World Function](https://dev.to/jd2r/2667-create-hello-world-function-50ho)
+- [How to Install Ubuntu 23.04 as Main System on a Desktop or VirtualBox VM](https://dev.to/erikaheidi/how-to-install-ubuntu-2304-as-main-system-on-a-desktop-or-virtualbox-vm-1lpb)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-ibc)
 <!-- BLOG-POST-LIST:END -->
 
