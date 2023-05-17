@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WP CLI Commands](https://dev.to/kipmyk/wp-cli-commands-2hcm)
 - [How to Setup Solidity Environment with Hardhat](https://dev.to/adetutu777/how-to-setup-solidity-environment-with-hardhat-j83)
+- [How to set up a dev container for a Next.js/TypeScript app](https://dev.to/github/how-to-set-up-a-dev-container-for-a-nextjstypescript-app-2jd)
 - [React Native + Redux Tool kit + AsyncStorage](https://dev.to/shreyvijayvargiya/react-native-redux-tool-kit-asyncstorage-210e)
-- [Organize Business Logic in Your Ruby on Rails Application](https://dev.to/appsignal/organize-business-logic-in-your-ruby-on-rails-application-2pli)
-- [Symfony&#39;s magic: dependency injection](https://dev.to/jmau111/symfonys-magic-dependency-injection-3id8)
 <!-- BLOG-POST-LIST:END -->
 
