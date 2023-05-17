@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Make images responsive to light/dark mode on GitHub](https://dev.to/mateusabelli/make-images-responsive-to-lightdark-mode-on-github-3gbg)
+- [CodeNewbie Podcast, S24:E2— &quot;Understanding and Supporting Neurodivergence in Tech&quot;](https://dev.to/codenewbieteam/understanding-and-supporting-neurodivergence-in-tech-8i7)
 - [Build a Blog using Next.JS and DEV.to](https://dev.to/martinp/build-a-blog-using-nextjs-and-devto-15a5)
 - [Welcome Thread - v225](https://dev.to/devteam/welcome-thread-v225-4aa3)
-- [Create Switch Case Kind Widget in Flutter](https://dev.to/djsmk123/create-switch-case-kind-widget-in-flutter-2onj)
 <!-- BLOG-POST-LIST:END -->
 
