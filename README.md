@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Crypto Trading For Beginners](https://dev.to/vasile_peste/nodejs-crypto-trading-for-beginners-2pn1)
+- [The Next Language Evolution](https://dev.to/btfranklin/the-next-language-evolution-3afo)
+- [Mastering the 5 SOLID Principles in Software Engineering.](https://dev.to/iflames_1/mastering-the-5-solid-principles-in-software-engineering-2fn8)
 - [WSL Error: Failed to Execute Process and Get User ID](https://dev.to/ezzahirtaha/wsl-error-failed-to-execute-process-and-get-user-id-2fld)
-- [After 20 years in tech, here’s what I wish I had all along &lpar;and how I’m building it&rpar;](https://dev.to/opencontextinc/after-20-years-in-tech-heres-what-i-wish-i-had-all-along-and-how-im-building-it-4f1f)
-- [Journey to Front-End Web Development](https://dev.to/bealecs/journey-to-front-end-web-development-333l)
-- [Ensuring High Availability for Your Application Hosted in Azure: Key Strategies](https://dev.to/toluwani_oluwaloseyi/ensuring-high-availability-for-your-application-hosted-in-azure-key-strategies-gja)
 <!-- BLOG-POST-LIST:END -->
 
