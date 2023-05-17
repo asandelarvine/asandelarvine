@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Crypto Trading For Beginners](https://dev.to/vasile_peste/nodejs-crypto-trading-for-beginners-2pn1)
-- [The Next Language Evolution](https://dev.to/btfranklin/the-next-language-evolution-3afo)
-- [Mastering the 5 SOLID Principles in Software Engineering.](https://dev.to/iflames_1/mastering-the-5-solid-principles-in-software-engineering-2fn8)
-- [WSL Error: Failed to Execute Process and Get User ID](https://dev.to/ezzahirtaha/wsl-error-failed-to-execute-process-and-get-user-id-2fld)
+- [Regex Replacements Unleashed: A Hilarious Twist!](https://dev.to/muhmmadawd/regex-replacements-unleashed-a-hilarious-twist-2n5a)
+- [The Key to Completing Projects: Mastering the Art of Planning 🗝️](https://dev.to/jimmymcbride/the-key-to-completing-projects-mastering-the-art-of-planning-541l)
+- [Exploring Big O Notation in Polyglot Notebooks](https://dev.to/integerman/exploring-big-o-notation-in-polyglot-notebooks-2d26)
+- [Learning Vue as a React dev](https://dev.to/tresorama/learning-vue-as-a-react-dev-1m8g)
 <!-- BLOG-POST-LIST:END -->
 
