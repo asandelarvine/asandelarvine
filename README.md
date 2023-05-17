@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;VS Code Profiles - Know what profile you are using, no bloody mystery](https://dev.to/robole/vs-code-profiles-know-what-profile-you-are-using-no-bloody-mystery-26ii)
+- [Thoughts from “A Philosophy of Software Design”](https://dev.to/apetryla/thoughts-from-a-philosophy-of-software-design-286h)
 - [7 Common Errors And Possible Fix Every Typescript Developers Should Know.](https://dev.to/stanlisberg/7-common-errors-and-possible-fix-every-typescript-developers-should-know-5585)
 - [Top Tips to Know: The Best Way to Hire JavaScript Developer](https://dev.to/dhruvjoshi9/top-tips-to-know-the-best-way-to-hire-javascript-developer-3im9)
-- [How to replace a div with another div after hovering first div in react js &lpar;and vice-versa&rpar;](https://dev.to/mthtitumir/how-to-replace-a-div-with-another-div-after-hovering-first-div-in-react-js-and-vice-versa-4ffn)
-- [404 Power App Game Not Found](https://dev.to/wyattdave/404-power-app-game-not-found-3iik)
 <!-- BLOG-POST-LIST:END -->
 
