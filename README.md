@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deactivate Angular NgZone selectively — the easy way](https://dev.to/this-is-angular/deactivate-angular-ngzone-selectively-the-easy-way-54b5)
-- [Serverful vs Serverless: Which One is Right for Your Needs?](https://dev.to/nitinfab/serverful-vs-serverless-which-one-is-right-for-your-needs-23mh)
-- [6 Key Coding Principles](https://dev.to/sardarmudassaralikhan/6-key-coding-principles-8p2)
-- [About PlugBay](https://dev.to/folasayosamuel/about-plugbay-4459)
+- [How to Setup Solidity Environment with Hardhat](https://dev.to/adetutu777/how-to-setup-solidity-environment-with-hardhat-j83)
+- [React Native + Redux Tool kit + AsyncStorage](https://dev.to/shreyvijayvargiya/react-native-redux-tool-kit-asyncstorage-210e)
+- [Organize Business Logic in Your Ruby on Rails Application](https://dev.to/appsignal/organize-business-logic-in-your-ruby-on-rails-application-2pli)
+- [Symfony&#39;s magic: dependency injection](https://dev.to/jmau111/symfonys-magic-dependency-injection-3id8)
 <!-- BLOG-POST-LIST:END -->
 
