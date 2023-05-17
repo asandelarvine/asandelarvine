@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deactivate Angular NgZone selectively — the easy way](https://dev.to/this-is-angular/deactivate-angular-ngzone-selectively-the-easy-way-54b5)
 - [Serverful vs Serverless: Which One is Right for Your Needs?](https://dev.to/nitinfab/serverful-vs-serverless-which-one-is-right-for-your-needs-23mh)
+- [6 Key Coding Principles](https://dev.to/sardarmudassaralikhan/6-key-coding-principles-8p2)
 - [About PlugBay](https://dev.to/folasayosamuel/about-plugbay-4459)
-- [How I Sliced JS Apps Deployment Times to a Fraction](https://dev.to/maxprilutskiy/how-i-sliced-deployment-times-to-a-fraction-and-achieved-lightning-fast-deployments-to-production-with-github-actions-4ifi)
-- [Created my own personalblog + portfolio website](https://dev.to/anurag629/created-my-own-personalblog-portfolio-website-1a4)
 <!-- BLOG-POST-LIST:END -->
 
