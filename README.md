@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you achieve High Availability in Azure](https://dev.to/mojeed-88/how-do-you-achieve-high-availability-in-azure-1851)
+- [Calendar Control from scratch on .NET MAUI](https://dev.to/serhii_korol_ab7776c50dba/calendar-control-from-scratch-on-net-maui-5dh6)
+- [Using Next.js Route Handlers](https://dev.to/logrocket/using-nextjs-route-handlers-4dpb)
 - [Make images responsive to light/dark mode on GitHub](https://dev.to/mateusabelli/make-images-responsive-to-lightdark-mode-on-github-3gbg)
-- [CodeNewbie Podcast, S24:E2— &quot;Understanding and Supporting Neurodivergence in Tech&quot;](https://dev.to/codenewbieteam/understanding-and-supporting-neurodivergence-in-tech-8i7)
-- [Build a Blog using Next.JS and DEV.to](https://dev.to/martinp/build-a-blog-using-nextjs-and-devto-15a5)
-- [Welcome Thread - v225](https://dev.to/devteam/welcome-thread-v225-4aa3)
 <!-- BLOG-POST-LIST:END -->
 
