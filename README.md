@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regex Replacements Unleashed: A Hilarious Twist!](https://dev.to/muhmmadawd/regex-replacements-unleashed-a-hilarious-twist-2n5a)
-- [The Key to Completing Projects: Mastering the Art of Planning 🗝️](https://dev.to/jimmymcbride/the-key-to-completing-projects-mastering-the-art-of-planning-541l)
-- [Exploring Big O Notation in Polyglot Notebooks](https://dev.to/integerman/exploring-big-o-notation-in-polyglot-notebooks-2d26)
-- [Learning Vue as a React dev](https://dev.to/tresorama/learning-vue-as-a-react-dev-1m8g)
+- [What Programming Language Would You Recommend to Someone Who&#39;s Not Naturally Inclined toward Coding?](https://dev.to/devteam/what-programming-language-would-you-recommend-to-someone-whos-not-naturally-inclined-toward-coding-1gcg)
+- [What Are Your Recent Coding Habits for Better Productivity or Quality?](https://dev.to/devteam/what-are-your-recent-coding-habits-for-better-productivity-or-quality-5ei3)
+- [What&#39;s Your Wildest Unfulfilled Coding Project Idea?](https://dev.to/codenewbieteam/whats-your-wildest-unfulfilled-coding-project-idea-kog)
+- [spring mvc 6 example](https://dev.to/realnamehidden1_61/spring-mvc-6-example-3ic7)
 <!-- BLOG-POST-LIST:END -->
 
