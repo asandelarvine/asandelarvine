@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Programming Language Would You Recommend to Someone Who&#39;s Not Naturally Inclined toward Coding?](https://dev.to/devteam/what-programming-language-would-you-recommend-to-someone-whos-not-naturally-inclined-toward-coding-1gcg)
-- [What Are Your Recent Coding Habits for Better Productivity or Quality?](https://dev.to/devteam/what-are-your-recent-coding-habits-for-better-productivity-or-quality-5ei3)
-- [What&#39;s Your Wildest Unfulfilled Coding Project Idea?](https://dev.to/codenewbieteam/whats-your-wildest-unfulfilled-coding-project-idea-kog)
-- [spring mvc 6 example](https://dev.to/realnamehidden1_61/spring-mvc-6-example-3ic7)
+- [7 Common Errors And Possible Fix Every Typescript Developers Should Know.](https://dev.to/stanlisberg/7-common-errors-and-possible-fix-every-typescript-developers-should-know-5585)
+- [Top Tips to Know: The Best Way to Hire JavaScript Developer](https://dev.to/dhruvjoshi9/top-tips-to-know-the-best-way-to-hire-javascript-developer-3im9)
+- [How to replace a div with another div after hovering first div in react js &lpar;and vice-versa&rpar;](https://dev.to/mthtitumir/how-to-replace-a-div-with-another-div-after-hovering-first-div-in-react-js-and-vice-versa-4ffn)
+- [404 Power App Game Not Found](https://dev.to/wyattdave/404-power-app-game-not-found-3iik)
 <!-- BLOG-POST-LIST:END -->
 
