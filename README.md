@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WP CLI Commands](https://dev.to/kipmyk/wp-cli-commands-2hcm)
-- [How to Setup Solidity Environment with Hardhat](https://dev.to/adetutu777/how-to-setup-solidity-environment-with-hardhat-j83)
-- [How to set up a dev container for a Next.js/TypeScript app](https://dev.to/github/how-to-set-up-a-dev-container-for-a-nextjstypescript-app-2jd)
-- [React Native + Redux Tool kit + AsyncStorage](https://dev.to/shreyvijayvargiya/react-native-redux-tool-kit-asyncstorage-210e)
+- [Teacher-Student Ratio Calculator](https://dev.to/peiche/teacher-student-ratio-calculator-3ao1)
+- [Navigating the World of Pair Programming](https://dev.to/accreditly/navigating-the-world-of-pair-programming-3oj6)
+- [5 Best Backend-for-Frontend Tools You Should Be Using](https://dev.to/slickstef11/5-best-backend-for-frontend-tools-you-should-be-using-fah)
+- [How to prepare for the HashiCorp Terraform Associate Certification](https://dev.to/techielass/how-to-prepare-for-the-hashicorp-terraform-associate-certification-5g11)
 <!-- BLOG-POST-LIST:END -->
 
