@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make images responsive to light/dark mode on GitHub](https://dev.to/mateusabelli/make-images-responsive-to-lightdark-mode-on-github-3gbg)
+- [Build a Blog using Next.JS and DEV.to](https://dev.to/martinp/build-a-blog-using-nextjs-and-devto-15a5)
 - [Welcome Thread - v225](https://dev.to/devteam/welcome-thread-v225-4aa3)
-- [🔥 Naming Interfaces in TypeScript: IUser vs User](https://dev.to/mpotapov/naming-interfaces-in-typescript-iuser-vs-user-2cpn)
-- [Who&#39;s looking for open source contributors? &lpar;week 42&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-42-p12)
-- [🌍🚀🎯 From Localhost to Cloud ☁️: Next.js, Django, SSL 🔒, GitHub Actions 🚀, DNS| Ultimate Website Deployment Tutorial🌟🔥✨](https://dev.to/chetanam/from-localhost-to-cloud-nextjs-django-ssl-github-actions-dns-ultimate-website-deployment-tutorial-34hp)
+- [Create Switch Case Kind Widget in Flutter](https://dev.to/djsmk123/create-switch-case-kind-widget-in-flutter-2onj)
 <!-- BLOG-POST-LIST:END -->
 
