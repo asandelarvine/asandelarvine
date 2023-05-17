@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;VS Code Profiles - Know what profile you are using, no bloody mystery](https://dev.to/robole/vs-code-profiles-know-what-profile-you-are-using-no-bloody-mystery-26ii)
-- [Thoughts from “A Philosophy of Software Design”](https://dev.to/apetryla/thoughts-from-a-philosophy-of-software-design-286h)
-- [7 Common Errors And Possible Fix Every Typescript Developers Should Know.](https://dev.to/stanlisberg/7-common-errors-and-possible-fix-every-typescript-developers-should-know-5585)
-- [Top Tips to Know: The Best Way to Hire JavaScript Developer](https://dev.to/dhruvjoshi9/top-tips-to-know-the-best-way-to-hire-javascript-developer-3im9)
+- [Serverful vs Serverless: Which One is Right for Your Needs?](https://dev.to/nitinfab/serverful-vs-serverless-which-one-is-right-for-your-needs-23mh)
+- [About PlugBay](https://dev.to/folasayosamuel/about-plugbay-4459)
+- [How I Sliced JS Apps Deployment Times to a Fraction](https://dev.to/maxprilutskiy/how-i-sliced-deployment-times-to-a-fraction-and-achieved-lightning-fast-deployments-to-production-with-github-actions-4ifi)
+- [Created my own personalblog + portfolio website](https://dev.to/anurag629/created-my-own-personalblog-portfolio-website-1a4)
 <!-- BLOG-POST-LIST:END -->
 
