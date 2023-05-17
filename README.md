@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing on DEV: Topics](https://dev.to/devteam/best-practices-for-writing-on-dev-topics-1d0j)
-- [Glassmorphism Card Hover Effect](https://dev.to/jon_snow789/glassmorphism-card-hover-effect-55jo)
-- [Amazon ECS Farget with Blue-Green Deployments by CDK Typescript - Part 2](https://dev.to/aws-builders/amazon-ecs-farget-with-blue-green-deployments-by-cdk-typescript-part-2-19f1)
-- [Semantic Search Using Vectors/Embeddings For Noobs](https://dev.to/praveenr2998/semantic-search-using-vectorsembeddings-for-noobs-2297)
+- [Who&#39;s looking for open source contributors? &lpar;week 42&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-42-p12)
+- [[Pion/WebRTC][TypeScript] Use specific video codec](https://dev.to/masanori_msl/pionwebrtctypescript-use-specific-video-codec-4bp3)
+- [Big Boat Stuck!](https://dev.to/erinposting/big-boat-stuck-2hdd)
+- [How to upload project to github [2023]](https://dev.to/adeleyeayodeji/how-to-upload-project-to-github-2023-13o9)
 <!-- BLOG-POST-LIST:END -->
 
