@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Blog With Writer Analytics and Text-to-Speech](https://dev.to/aws-heroes/level-up-your-blog-with-writer-analytics-and-text-to-speech-21i3)
-- [Teacher-Student Ratio Calculator](https://dev.to/peiche/teacher-student-ratio-calculator-3ao1)
-- [Navigating the World of Pair Programming](https://dev.to/accreditly/navigating-the-world-of-pair-programming-3oj6)
-- [5 Best Backend-for-Frontend Tools You Should Be Using](https://dev.to/slickstef11/5-best-backend-for-frontend-tools-you-should-be-using-fah)
+- [Best Practices for Writing on DEV: Topics](https://dev.to/devteam/best-practices-for-writing-on-dev-topics-1d0j)
+- [Glassmorphism Card Hover Effect](https://dev.to/jon_snow789/glassmorphism-card-hover-effect-55jo)
+- [Amazon ECS Farget with Blue-Green Deployments by CDK Typescript - Part 2](https://dev.to/aws-builders/amazon-ecs-farget-with-blue-green-deployments-by-cdk-typescript-part-2-19f1)
+- [Semantic Search Using Vectors/Embeddings For Noobs](https://dev.to/praveenr2998/semantic-search-using-vectorsembeddings-for-noobs-2297)
 <!-- BLOG-POST-LIST:END -->
 
