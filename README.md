@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v225](https://dev.to/devteam/welcome-thread-v225-4aa3)
+- [🔥 Naming Interfaces in TypeScript: IUser vs User](https://dev.to/mpotapov/naming-interfaces-in-typescript-iuser-vs-user-2cpn)
 - [Who&#39;s looking for open source contributors? &lpar;week 42&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-42-p12)
-- [[Pion/WebRTC][TypeScript] Use specific video codec](https://dev.to/masanori_msl/pionwebrtctypescript-use-specific-video-codec-4bp3)
-- [Big Boat Stuck!](https://dev.to/erinposting/big-boat-stuck-2hdd)
-- [How to upload project to github [2023]](https://dev.to/adeleyeayodeji/how-to-upload-project-to-github-2023-13o9)
+- [🌍🚀🎯 From Localhost to Cloud ☁️: Next.js, Django, SSL 🔒, GitHub Actions 🚀, DNS| Ultimate Website Deployment Tutorial🌟🔥✨](https://dev.to/chetanam/from-localhost-to-cloud-nextjs-django-ssl-github-actions-dns-ultimate-website-deployment-tutorial-34hp)
 <!-- BLOG-POST-LIST:END -->
 
