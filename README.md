@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💻🎯 Ninja Kubernetes Cheat Sheet for Ninja Developers 📜](https://dev.to/chetanam/must-book-mark-kubernetes-cheat-sheet-1o3a)
 - [Promise: any vs race vs all in simple terms](https://dev.to/urstrulyvishwak/promise-any-vs-race-vs-all-in-simple-terms-3777)
+- [🧩 Why You Struggle to Finish Coding Projects &lpar;And How Break The Cycle&rpar;](https://dev.to/evergrowingdev/why-you-struggle-to-finish-coding-projects-and-how-break-the-cycle-160n)
 - [How to use Zustand](https://dev.to/refine/how-to-use-zustand-3okc)
-- [What Devs Can Do On GAAD!](https://dev.to/steady5063/what-devs-can-do-on-gaad-4og4)
-- [How Medium, LinkedIn and Twitter show link cards just from a URL](https://dev.to/shreyvijayvargiya/how-medium-linkedin-and-twitter-show-link-cards-just-from-a-url-2do1)
 <!-- BLOG-POST-LIST:END -->
 
