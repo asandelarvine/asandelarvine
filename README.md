@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache with a Time Limit: Boosting Performance and Data Freshness](https://dev.to/danities316/cache-with-a-time-limit-boosting-performance-and-data-freshness-3ahk)
-- [Ace the &quot;What are your salary expectations&quot; question in your next interview.](https://dev.to/martinkr/ace-the-what-are-your-salary-expectations-question-in-your-next-interview-27aa)
-- [Exploring API Protocols: From Conceptualization to Implementation](https://dev.to/kyleknapp/exploring-api-protocols-from-conceptualization-to-implementation-l34)
-- [Working With Appwrite Databases, Vue, Ionic &amp; Capacitor](https://dev.to/aaronksaunders/working-with-appwrite-databases-vue-ionic-capacitor-5df1)
+- [If Coding Languages Were Ice Cream Flavors...?](https://dev.to/codenewbieteam/if-coding-languages-were-ice-cream-flavors-9l9)
+- [Amazon Ditches Microservices for Monolith: Decoding Prime Video&#39;s Architectural Shift](https://dev.to/amplication/amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift-5bk6)
+- [Copilot Chat writes Unit Tests for you!](https://dev.to/this-is-learning/copilot-chat-writes-unit-tests-for-you-1c82)
+- [Snowflake Views Vs. Materialized Views: What&#39;s the Difference?](https://dev.to/chaos-genius/snowflake-views-vs-materialized-views-whats-the-difference-2pg)
 <!-- BLOG-POST-LIST:END -->
 
