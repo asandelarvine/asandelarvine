@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ace the &quot;What are your salary expectations&quot; question in your next interview.](https://dev.to/martinkr/ace-the-what-are-your-salary-expectations-question-in-your-next-interview-27aa)
 - [Working With Appwrite Databases, Vue, Ionic &amp; Capacitor](https://dev.to/aaronksaunders/working-with-appwrite-databases-vue-ionic-capacitor-5df1)
 - [The inspiring extension systems design overview &lpar;Chrome &amp; VSCode&rpar;](https://dev.to/jennieji/the-inspiring-extension-systems-design-overview-chrome-vscode-4bco)
 - [Security on AWS - AWS WAF x AWS App Runner](https://dev.to/aws-builders/security-on-aws-aws-waf-x-aws-app-runner-1k95)
-- [Animating the Web: Route Transitions in Next.js with Framer Motion](https://dev.to/designly/animating-the-web-route-transitions-in-nextjs-with-framer-motion-5dhg)
 <!-- BLOG-POST-LIST:END -->
 
