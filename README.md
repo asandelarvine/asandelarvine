@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working on an unfamiliar codebase](https://dev.to/nfrankel/working-on-an-unfamiliar-codebase-4pd6)
-- [Single Thread JavaScript](https://dev.to/nipu/single-thread-javascript-1816)
-- [[Part 2] 🚀: I bet you have never used this VS Code theme. Ever. ⚡&lpar;Maybe ?&rpar;](https://dev.to/lakshitsomani/part-2-i-bet-you-have-never-used-this-vs-code-theme-ever-c99)
-- [Dependency Injection in... a React application?? Huh?](https://dev.to/afl_ext/dependency-injection-in-a-react-application-huh-4f)
+- [Write better code by following these JavaScript best practices](https://dev.to/dawsoncodes/write-better-code-by-following-these-javascript-best-practices-25mp)
+- [Use GitHub Actions to Automate Your CI/CD for React and Node.js Applications on Ubuntu](https://dev.to/yousufkalim/use-github-actions-to-automate-your-cicd-for-react-and-nodejs-applications-on-ubuntu-5555)
+- [Recognizing 2D shapes and how to draw them on a canvas.](https://dev.to/_aaallison/recognizing-2d-shapes-and-how-to-draw-them-on-a-canvas-i6k)
+- [Moonly weekly progress update #49 - Secret thing coming out soon](https://dev.to/moonly/moonly-weekly-progress-update-49-secret-thing-coming-out-soon-nnf)
 <!-- BLOG-POST-LIST:END -->
 
