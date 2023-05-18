@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Medium, LinkedIn and Twitter show link cards just from a URL](https://dev.to/shreyvijayvargiya/how-medium-linkedin-and-twitter-show-link-cards-just-from-a-url-2do1)
+- [Vue.js Reactivity System: Ref, reactive, shallowRef, &amp; shallowReactive](https://dev.to/bitovi/vuejs-reactivity-system-ref-reactive-shallowref-shallowreactive-oe7)
 - [Spring JDBC 6 CRUD Operations](https://dev.to/realnamehidden1_61/spring-jdbc-6-crud-operations-2925)
 - [.NET 8 is on the way! +10 Features that will blow your mind 🤯](https://dev.to/bytehide/net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op)
-- [GitHub Security Best Practices – 15 Tips To Keep In Mind](https://dev.to/gitprotect/github-security-best-practices-15-tips-to-keep-in-mind-2914)
-- [Write better code by following these JavaScript best practices](https://dev.to/dawsoncodes/write-better-code-by-following-these-javascript-best-practices-25mp)
 <!-- BLOG-POST-LIST:END -->
 
