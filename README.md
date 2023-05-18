@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🎉Top React Libraries for Developers](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
+- [Is a project really Open Source without a public VCS?](https://dev.to/szabgab/is-a-project-really-open-source-without-a-public-vcs-51pp)
 - [It&#39;s the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218)
 - [Debunking 6 Common Myths about D&amp;I in Tech](https://dev.to/kathryngrayson/debunking-6-common-myths-about-di-in-tech-2d8)
-- [Sloan&#39;s Inbox: Navigating Career Confusion in ICT Domain](https://dev.to/devteam/sloans-inbox-navigating-career-confusion-in-ict-domain-2fgi)
-- [How to run Python on Neovim like Jupyter](https://dev.to/rnrbarbosa/how-to-run-python-on-neovim-like-jupyter-3ln0)
 <!-- BLOG-POST-LIST:END -->
 
