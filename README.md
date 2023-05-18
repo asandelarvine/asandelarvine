@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💻🎯 Ninja Kubernetes Cheat Sheet for Ninja Developers 📜](https://dev.to/chetanam/must-book-mark-kubernetes-cheat-sheet-1o3a)
-- [Promise: any vs race vs all in simple terms](https://dev.to/urstrulyvishwak/promise-any-vs-race-vs-all-in-simple-terms-3777)
-- [🧩 Why You Struggle to Finish Coding Projects &lpar;And How Break The Cycle&rpar;](https://dev.to/evergrowingdev/why-you-struggle-to-finish-coding-projects-and-how-break-the-cycle-160n)
-- [How to use Zustand](https://dev.to/refine/how-to-use-zustand-3okc)
+- [Demystifying the useEffect Hook in React: A Beginner&#39;s Guide](https://dev.to/alais29/demystifying-the-useeffect-hook-in-react-a-beginners-guide-1mlo)
+- [Large Projects, Bigger Lessons: The Undeniable Value of Big Applications in Software Development](https://dev.to/snowman647/large-projects-bigger-lessons-the-undeniable-value-of-big-applications-in-software-development-23h0)
+- [Non-Technical Tips for Developers to Ease the Stress of Debugging](https://dev.to/jamesajayi/non-technical-tips-for-developers-to-ease-the-stress-of-debugging-me4)
+- [Do you keep forgetting to link your CSS file? Try this simple trick!](https://dev.to/savvasstephnds/do-you-keep-forgetting-to-link-your-css-file-try-this-simple-trick-1p8a)
 <!-- BLOG-POST-LIST:END -->
 
