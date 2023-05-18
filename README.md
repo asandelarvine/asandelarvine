@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Working With Appwrite Databases, Vue, Ionic &amp; Capacitor](https://dev.to/aaronksaunders/working-with-appwrite-databases-vue-ionic-capacitor-5df1)
 - [The inspiring extension systems design overview &lpar;Chrome &amp; VSCode&rpar;](https://dev.to/jennieji/the-inspiring-extension-systems-design-overview-chrome-vscode-4bco)
+- [Security on AWS - AWS WAF x AWS App Runner](https://dev.to/aws-builders/security-on-aws-aws-waf-x-aws-app-runner-1k95)
 - [Animating the Web: Route Transitions in Next.js with Framer Motion](https://dev.to/designly/animating-the-web-route-transitions-in-nextjs-with-framer-motion-5dhg)
-- [Introducing Pull Request Tracker - A GitHub Action](https://dev.to/mateusabelli/introducing-pull-request-tracker-a-github-action-3ijh)
-- [A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
 <!-- BLOG-POST-LIST:END -->
 
