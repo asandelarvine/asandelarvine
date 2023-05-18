@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If Coding Languages Were Ice Cream Flavors...?](https://dev.to/codenewbieteam/if-coding-languages-were-ice-cream-flavors-9l9)
-- [Amazon Ditches Microservices for Monolith: Decoding Prime Video&#39;s Architectural Shift](https://dev.to/amplication/amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift-5bk6)
-- [Copilot Chat writes Unit Tests for you!](https://dev.to/this-is-learning/copilot-chat-writes-unit-tests-for-you-1c82)
-- [Snowflake Views Vs. Materialized Views: What&#39;s the Difference?](https://dev.to/chaos-genius/snowflake-views-vs-materialized-views-whats-the-difference-2pg)
+- [Working on an unfamiliar codebase](https://dev.to/nfrankel/working-on-an-unfamiliar-codebase-4pd6)
+- [Single Thread JavaScript](https://dev.to/nipu/single-thread-javascript-1816)
+- [[Part 2] 🚀: I bet you have never used this VS Code theme. Ever. ⚡&lpar;Maybe ?&rpar;](https://dev.to/lakshitsomani/part-2-i-bet-you-have-never-used-this-vs-code-theme-ever-c99)
+- [Dependency Injection in... a React application?? Huh?](https://dev.to/afl_ext/dependency-injection-in-a-react-application-huh-4f)
 <!-- BLOG-POST-LIST:END -->
 
