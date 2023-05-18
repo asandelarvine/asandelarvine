@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Promise: any vs race vs all in simple terms](https://dev.to/urstrulyvishwak/promise-any-vs-race-vs-all-in-simple-terms-3777)
 - [How to use Zustand](https://dev.to/refine/how-to-use-zustand-3okc)
+- [What Devs Can Do On GAAD!](https://dev.to/steady5063/what-devs-can-do-on-gaad-4og4)
 - [How Medium, LinkedIn and Twitter show link cards just from a URL](https://dev.to/shreyvijayvargiya/how-medium-linkedin-and-twitter-show-link-cards-just-from-a-url-2do1)
-- [Vue.js Reactivity System: Ref, reactive, shallowRef, &amp; shallowReactive](https://dev.to/bitovi/vuejs-reactivity-system-ref-reactive-shallowref-shallowreactive-oe7)
-- [Spring JDBC 6 CRUD Operations](https://dev.to/realnamehidden1_61/spring-jdbc-6-crud-operations-2925)
 <!-- BLOG-POST-LIST:END -->
 
