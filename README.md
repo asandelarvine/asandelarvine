@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218)
+- [Debunking 6 Common Myths about D&amp;I in Tech](https://dev.to/kathryngrayson/debunking-6-common-myths-about-di-in-tech-2d8)
 - [Sloan&#39;s Inbox: Navigating Career Confusion in ICT Domain](https://dev.to/devteam/sloans-inbox-navigating-career-confusion-in-ict-domain-2fgi)
 - [How to run Python on Neovim like Jupyter](https://dev.to/rnrbarbosa/how-to-run-python-on-neovim-like-jupyter-3ln0)
-- [Microsoft Azure Disaster Recovery: Ensuring Business Continuity and Resilience](https://dev.to/sardarmudassaralikhan/microsoft-azure-disaster-recovery-ensuring-business-continuity-and-resilience-1bp6)
-- [Free Next.js Boilerplate for ⚡️High-Performance⚡️ Enterprise Apps](https://dev.to/jjablonskiit/free-nextjs-boilerplate-for-high-performance-enterprise-apps-14f7)
 <!-- BLOG-POST-LIST:END -->
 
