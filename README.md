@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The inspiring extension systems design overview &lpar;Chrome &amp; VSCode&rpar;](https://dev.to/jennieji/the-inspiring-extension-systems-design-overview-chrome-vscode-4bco)
+- [Animating the Web: Route Transitions in Next.js with Framer Motion](https://dev.to/designly/animating-the-web-route-transitions-in-nextjs-with-framer-motion-5dhg)
 - [Introducing Pull Request Tracker - A GitHub Action](https://dev.to/mateusabelli/introducing-pull-request-tracker-a-github-action-3ijh)
 - [A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
-- [CORS in ASP.NET Core](https://dev.to/fabriziobagala/cors-in-aspnet-core-4hl2)
 <!-- BLOG-POST-LIST:END -->
 
