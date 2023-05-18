@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying the useEffect Hook in React: A Beginner&#39;s Guide](https://dev.to/alais29/demystifying-the-useeffect-hook-in-react-a-beginners-guide-1mlo)
-- [Large Projects, Bigger Lessons: The Undeniable Value of Big Applications in Software Development](https://dev.to/snowman647/large-projects-bigger-lessons-the-undeniable-value-of-big-applications-in-software-development-23h0)
-- [Non-Technical Tips for Developers to Ease the Stress of Debugging](https://dev.to/jamesajayi/non-technical-tips-for-developers-to-ease-the-stress-of-debugging-me4)
-- [Do you keep forgetting to link your CSS file? Try this simple trick!](https://dev.to/savvasstephnds/do-you-keep-forgetting-to-link-your-css-file-try-this-simple-trick-1p8a)
+- [Sloan&#39;s Inbox: Navigating Career Confusion in ICT Domain](https://dev.to/devteam/sloans-inbox-navigating-career-confusion-in-ict-domain-2fgi)
+- [How to run Python on Neovim like Jupyter](https://dev.to/rnrbarbosa/how-to-run-python-on-neovim-like-jupyter-3ln0)
+- [Microsoft Azure Disaster Recovery: Ensuring Business Continuity and Resilience](https://dev.to/sardarmudassaralikhan/microsoft-azure-disaster-recovery-ensuring-business-continuity-and-resilience-1bp6)
+- [Free Next.js Boilerplate for ⚡️High-Performance⚡️ Enterprise Apps](https://dev.to/jjablonskiit/free-nextjs-boilerplate-for-high-performance-enterprise-apps-14f7)
 <!-- BLOG-POST-LIST:END -->
 
