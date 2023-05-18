@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉Top React Libraries for Developers](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
+- [How To Get Data From User IP](https://dev.to/karim_abdallah/how-to-get-data-from-user-ip-420g)
+- [🎉Amazing &quot;React Libraries&quot; For Everyone](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
 - [Is a project really Open Source without a public VCS?](https://dev.to/szabgab/is-a-project-really-open-source-without-a-public-vcs-51pp)
 - [It&#39;s the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218)
-- [Debunking 6 Common Myths about D&amp;I in Tech](https://dev.to/kathryngrayson/debunking-6-common-myths-about-di-in-tech-2d8)
 <!-- BLOG-POST-LIST:END -->
 
