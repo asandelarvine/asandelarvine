@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The inspiring extension systems design overview &lpar;Chrome &amp; VSCode&rpar;](https://dev.to/jennieji/the-inspiring-extension-systems-design-overview-chrome-vscode-4bco)
 - [Introducing Pull Request Tracker - A GitHub Action](https://dev.to/mateusabelli/introducing-pull-request-tracker-a-github-action-3ijh)
 - [A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
 - [CORS in ASP.NET Core](https://dev.to/fabriziobagala/cors-in-aspnet-core-4hl2)
-- [How do you achieve High Availability in Azure](https://dev.to/mojeed-88/how-do-you-achieve-high-availability-in-azure-1851)
 <!-- BLOG-POST-LIST:END -->
 
