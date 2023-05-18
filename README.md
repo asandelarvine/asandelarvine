@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring JDBC 6 CRUD Operations](https://dev.to/realnamehidden1_61/spring-jdbc-6-crud-operations-2925)
+- [.NET 8 is on the way! +10 Features that will blow your mind 🤯](https://dev.to/bytehide/net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op)
+- [GitHub Security Best Practices – 15 Tips To Keep In Mind](https://dev.to/gitprotect/github-security-best-practices-15-tips-to-keep-in-mind-2914)
 - [Write better code by following these JavaScript best practices](https://dev.to/dawsoncodes/write-better-code-by-following-these-javascript-best-practices-25mp)
-- [Use GitHub Actions to Automate Your CI/CD for React and Node.js Applications on Ubuntu](https://dev.to/yousufkalim/use-github-actions-to-automate-your-cicd-for-react-and-nodejs-applications-on-ubuntu-5555)
-- [Recognizing 2D shapes and how to draw them on a canvas.](https://dev.to/_aaallison/recognizing-2d-shapes-and-how-to-draw-them-on-a-canvas-i6k)
-- [Moonly weekly progress update #49 - Secret thing coming out soon](https://dev.to/moonly/moonly-weekly-progress-update-49-secret-thing-coming-out-soon-nnf)
 <!-- BLOG-POST-LIST:END -->
 
