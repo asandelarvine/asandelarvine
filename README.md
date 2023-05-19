@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a phone mockup using only Tailwind CSS](https://dev.to/themesberg/how-to-build-a-phone-mockup-using-only-tailwind-css-1e5c)
-- [How to Come Back From Burnout](https://dev.to/hb/how-to-come-back-from-burnout-j85)
-- [Extracting addresses from OpenStreetMaps](https://dev.to/dagnelies/extracting-addresses-from-openstreetmaps-5g2i)
-- [Export an OpenAPI specification from your FastAPI app](https://dev.to/doctave/export-an-openapi-specification-from-your-fastapi-app-5363)
+- [Reasons Why Offline Coding is Essential for Developer Productivity](https://dev.to/trusecai/reasons-why-offline-coding-is-essential-for-developer-productivity-36oo)
+- [Serverless, no es todo en la vida.](https://dev.to/aws-builders/serverless-no-es-todo-en-la-vida-3o90)
+- [Deadlocks in Databases: A Guide](https://dev.to/dbvismarketing/deadlocks-in-databases-a-guide-599k)
+- [Get Your TypeScript Coverage Report](https://dev.to/mbarzeev/get-your-typescript-coverage-report-5c5p)
 <!-- BLOG-POST-LIST:END -->
 
