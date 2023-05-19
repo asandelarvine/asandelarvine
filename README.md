@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT App Comes to iOS](https://dev.to/grey41/chatgpt-app-comes-to-ios-2fm0)
 - [A quick dive into NextJS app folder](https://dev.to/hi_iam_chris/a-quick-dive-into-nextjs-app-folder-2jh)
+- [Let&#39;s make a cool mouse event bubble animation in just 50 lines of JavaScript!](https://dev.to/renancferro/lets-make-a-cool-mouse-event-bubble-animation-in-just-50-lines-of-javascript-4hlc)
 - [Converting Binary Strings to English Sentences: A JavaScript Solution](https://dev.to/muhmmadawd/converting-binary-strings-to-english-sentences-a-javascript-solution-5790)
-- [Step-by-Step Guide: Building a Node.js App with CircleCI Configurations for Efficient Continuous Integration and Deployment](https://dev.to/hossainchisty/step-by-step-guide-building-a-nodejs-app-with-circleci-configurations-for-efficient-continuous-integration-and-deployment-37n4)
-- [Exploring Code Performance Testing in C# with BenchmarkDotNet](https://dev.to/grontis/exploring-code-performance-testing-in-c-with-benchmarkdotnet-1l26)
 <!-- BLOG-POST-LIST:END -->
 
