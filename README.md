@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Blazor: A Safe and Secure Web Development Framework](https://dev.to/bhavin9920/blazor-a-safe-and-secure-web-development-framework-1lo3)
+- [Javascript &lpar; ES14 &rpar;: toSorted&lpar;&rpar;](https://dev.to/jazurite/javascript-es14-tosorted-22e0)
 - [Click &amp; Launch a Meteor Blaze App Environment at Github Codespaces &lpar;&amp; Actions test&rpar;](https://dev.to/kafechew/click-launch-a-meteor-blaze-app-environment-at-github-codespaces-actions-test-4ek7)
 - [Svelte Demo Todo Walkthrough](https://dev.to/appwrite/svelte-demo-todo-walkthrough-58dn)
-- [How to Create an Azure Kubernetes Cluster and Deploy an Application Using Azure CLI](https://dev.to/sarahligbe/how-to-create-an-azure-kubernetes-cluster-and-deploy-an-application-using-azure-cli-1aoj)
-- [Updates from the 96th TC39 meeting](https://dev.to/hemanth/updates-from-the-96th-tc39-meeting-4goe)
 <!-- BLOG-POST-LIST:END -->
 
