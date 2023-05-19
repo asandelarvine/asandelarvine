@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Qualities Do You Seek in Your Work Environment?](https://dev.to/codenewbieteam/what-qualities-do-you-seek-in-your-work-environment-52na)
+- [Striking a Balance: User-friendliness vs. Decentralization in dApp Interfaces?](https://dev.to/devteam/striking-a-balance-user-friendliness-vs-decentralization-in-dapp-interfaces-2bo5)
 - [Key points to summarize what Computer Science is ✨](https://dev.to/developedbyjk/key-points-to-summarize-what-computer-science-is-38c3)
 - [My Favorite Free Courses to Learn Data Science in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-data-science-in-depth-pmo)
-- [Blazor: A Safe and Secure Web Development Framework](https://dev.to/bhavin9920/blazor-a-safe-and-secure-web-development-framework-1lo3)
-- [Javascript &lpar; ES14 &rpar;: toSorted&lpar;&rpar;](https://dev.to/jazurite/javascript-es14-tosorted-22e0)
 <!-- BLOG-POST-LIST:END -->
 
