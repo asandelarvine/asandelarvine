@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Qualities Do You Seek in Your Work Environment?](https://dev.to/codenewbieteam/what-qualities-do-you-seek-in-your-work-environment-52na)
+- [Top 10 ChatGPT Plugins You Can&#39;t miss](https://dev.to/jon_snow789/top-10-chatgpt-plugins-you-cant-miss-1k68)
+- [How to build a data pipeline using Delta Lake](https://dev.to/mage_ai/how-to-build-a-data-pipeline-using-delta-lake-l78)
+- [JSX and React: Learn how to Write Maintainable Code – CheatSheet](https://dev.to/aradwan20/jsx-and-react-learn-how-to-write-maintainable-code-cheatsheet-5308)
 - [Striking a Balance: User-friendliness vs. Decentralization in dApp Interfaces?](https://dev.to/devteam/striking-a-balance-user-friendliness-vs-decentralization-in-dapp-interfaces-2bo5)
-- [Key points to summarize what Computer Science is ✨](https://dev.to/developedbyjk/key-points-to-summarize-what-computer-science-is-38c3)
-- [My Favorite Free Courses to Learn Data Science in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-data-science-in-depth-pmo)
 <!-- BLOG-POST-LIST:END -->
 
