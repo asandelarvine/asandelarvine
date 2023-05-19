@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Selling Digital Gigs: Unlocking Opportunities in the Online Marketplace](https://dev.to/freelaweb/the-rise-of-selling-digital-gigs-unlocking-opportunities-in-the-online-marketplace-4i6l)
+- [Writing Effective Prompts for Large Language Models: Two Prompting Principles and Their Related Tactics](https://dev.to/shanshaji/writing-effective-prompts-for-large-language-models-two-prompting-principles-and-their-related-tactics-151a)
+- [AWS WAF &lpar;Web Application Firewall&rpar;: Deep Dive](https://dev.to/aws-builders/aws-waf-web-application-firewall-deep-dive-15bd)
 - [What Nobody Told Me About Software Design](https://dev.to/mohammadfaisal/what-nobody-told-me-about-software-design-4b6k)
-- [Intermediate Cypher Query Techniques: Optimizing Graph Data Exploration](https://dev.to/abdulsamad4068/intermediate-cypher-query-techniques-optimizing-graph-data-exploration-2bai)
-- [Drawing basic 2D shapes on a canvas.](https://dev.to/_aaallison/drawing-basic-2d-shapes-on-a-canvas-44md)
-- [Better blogging on Dev.to with Vrite - headless CMS for technical content](https://dev.to/areknawo/better-blogging-on-devto-with-vrite-headless-cms-for-technical-content-4i05)
 <!-- BLOG-POST-LIST:END -->
 
