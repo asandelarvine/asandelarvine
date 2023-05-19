@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is your favorite easy meal to cook when you are working a long day?](https://dev.to/rachelfazio/what-is-your-favorite-easy-meal-to-cook-when-you-are-working-a-long-day-2125)
-- [How to edit Filament Relation Manager Table Query](https://dev.to/biostate/how-to-edit-filament-relation-manager-table-query-1h23)
-- [How To Get Data From User IP](https://dev.to/karim_abdallah/how-to-get-data-from-user-ip-420g)
-- [🎉Amazing &quot;React Libraries&quot; For Everyone](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
+- [Updates from the 96th TC39 meeting](https://dev.to/hemanth/updates-from-the-96th-tc39-meeting-4goe)
+- [Remove background from Image using CSS only](https://dev.to/jeetvora331/remove-background-from-image-using-css-only-fdi)
+- [&quot;Single Digit&quot; Spotlight v2](https://dev.to/devteam/single-digit-spotlight-v2-4n2b)
+- [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
 <!-- BLOG-POST-LIST:END -->
 
