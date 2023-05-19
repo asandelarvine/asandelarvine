@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash The Power of Go in CodeSandbox](https://dev.to/codesandboxio/unleash-the-power-of-go-in-codesandbox-4a5o)
+- [DEV Office Tour: Show Us Where the Magic Happens! 💻🔥](https://dev.to/codenewbieteam/dev-office-tour-show-us-where-the-magic-happens-5e02)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1k8i)
 - [How to Perform MERGE in Apache AGE](https://dev.to/dukeofhazardz/how-to-perform-merge-in-apache-age-410n)
-- [Exploring Advanced and Modern Concepts in SQL with Practical Examples.](https://dev.to/grayhat/exploring-advanced-and-modern-concepts-in-sql-with-practical-examples-1md5)
-- [Building a Java Payment App with Marqeta](https://dev.to/mbogan/building-a-java-payment-app-with-marqeta-gan)
 <!-- BLOG-POST-LIST:END -->
 
