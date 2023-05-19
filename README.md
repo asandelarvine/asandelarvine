@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Svelte Demo Todo Walkthrough](https://dev.to/appwrite/svelte-demo-todo-walkthrough-58dn)
+- [How to Create an Azure Kubernetes Cluster and Deploy an Application Using Azure CLI](https://dev.to/sarahligbe/how-to-create-an-azure-kubernetes-cluster-and-deploy-an-application-using-azure-cli-1aoj)
 - [Updates from the 96th TC39 meeting](https://dev.to/hemanth/updates-from-the-96th-tc39-meeting-4goe)
-- [Remove background from Image using CSS only](https://dev.to/jeetvora331/remove-background-from-image-using-css-only-fdi)
-- [&quot;Single Digit&quot; Spotlight v2](https://dev.to/devteam/single-digit-spotlight-v2-4n2b)
-- [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
+- [Manage AWS Lambda Environment Variables with CLI Shell Script](https://dev.to/aws-builders/manage-aws-lambda-environment-variables-with-cli-shell-script-37hm)
 <!-- BLOG-POST-LIST:END -->
 
