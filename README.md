@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A quick dive into NextJS app folder](https://dev.to/hi_iam_chris/a-quick-dive-into-nextjs-app-folder-2jh)
 - [Converting Binary Strings to English Sentences: A JavaScript Solution](https://dev.to/muhmmadawd/converting-binary-strings-to-english-sentences-a-javascript-solution-5790)
 - [Step-by-Step Guide: Building a Node.js App with CircleCI Configurations for Efficient Continuous Integration and Deployment](https://dev.to/hossainchisty/step-by-step-guide-building-a-nodejs-app-with-circleci-configurations-for-efficient-continuous-integration-and-deployment-37n4)
 - [Exploring Code Performance Testing in C# with BenchmarkDotNet](https://dev.to/grontis/exploring-code-performance-testing-in-c-with-benchmarkdotnet-1l26)
-- [The Monolithic Giant - Exploring the Foundations of Monolithic Architecture](https://dev.to/kalkwst/the-monolithic-giant-exploring-the-foundations-of-monolithic-architecture-29m)
 <!-- BLOG-POST-LIST:END -->
 
