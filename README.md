@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How on earth can you balance it all?](https://dev.to/codenewbieteam/how-on-earth-can-you-balance-it-all-24f6)
+- [Streamline AWS Development with CI/CD, SAM, and GitHub Actions](https://dev.to/aws-builders/streamline-aws-development-with-cicd-sam-and-github-actions-2n23)
 - [#DEVDiscuss: How will new leadership affect Twitter &lpar;and the broader tech industry&rpar;?](https://dev.to/devteam/devdiscuss-how-will-new-leadership-affect-twitter-and-the-broader-tech-industry-2kon)
 - [The Rise of Selling Digital Gigs: Unlocking Opportunities in the Online Marketplace](https://dev.to/freelaweb/the-rise-of-selling-digital-gigs-unlocking-opportunities-in-the-online-marketplace-4i6l)
-- [Writing Effective Prompts for Large Language Models: Two Prompting Principles and Their Related Tactics](https://dev.to/shanshaji/writing-effective-prompts-for-large-language-models-two-prompting-principles-and-their-related-tactics-151a)
-- [AWS WAF &lpar;Web Application Firewall&rpar;: Deep Dive](https://dev.to/aws-builders/aws-waf-web-application-firewall-deep-dive-15bd)
 <!-- BLOG-POST-LIST:END -->
 
