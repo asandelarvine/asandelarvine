@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT App Comes to iOS](https://dev.to/grey41/chatgpt-app-comes-to-ios-2fm0)
-- [A quick dive into NextJS app folder](https://dev.to/hi_iam_chris/a-quick-dive-into-nextjs-app-folder-2jh)
-- [Let&#39;s make a cool mouse event bubble animation in just 50 lines of JavaScript!](https://dev.to/renancferro/lets-make-a-cool-mouse-event-bubble-animation-in-just-50-lines-of-javascript-4hlc)
-- [Converting Binary Strings to English Sentences: A JavaScript Solution](https://dev.to/muhmmadawd/converting-binary-strings-to-english-sentences-a-javascript-solution-5790)
+- [Exploring Advanced and Modern Concepts in SQL with Practical Examples.](https://dev.to/grayhat/exploring-advanced-and-modern-concepts-in-sql-with-practical-examples-1md5)
+- [Building a Java Payment App with Marqeta](https://dev.to/mbogan/building-a-java-payment-app-with-marqeta-gan)
+- [How have you incorporated AI into your day-to-day work, if at all?](https://dev.to/jess/how-have-you-incorporated-ai-into-your-day-to-day-work-if-at-all-705)
+- [The Future of Online Gaming: Fully On-Chain Games](https://dev.to/galaxiastudios/the-future-of-online-gaming-fully-on-chain-games-45jb)
 <!-- BLOG-POST-LIST:END -->
 
