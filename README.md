@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash The Power of Go in CodeSandbox](https://dev.to/codesandboxio/unleash-the-power-of-go-in-codesandbox-4a5o)
-- [DEV Office Tour: Show Us Where the Magic Happens! 💻🔥](https://dev.to/codenewbieteam/dev-office-tour-show-us-where-the-magic-happens-5e02)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1k8i)
-- [How to Perform MERGE in Apache AGE](https://dev.to/dukeofhazardz/how-to-perform-merge-in-apache-age-410n)
+- [What Nobody Told Me About Software Design](https://dev.to/mohammadfaisal/what-nobody-told-me-about-software-design-4b6k)
+- [Intermediate Cypher Query Techniques: Optimizing Graph Data Exploration](https://dev.to/abdulsamad4068/intermediate-cypher-query-techniques-optimizing-graph-data-exploration-2bai)
+- [Drawing basic 2D shapes on a canvas.](https://dev.to/_aaallison/drawing-basic-2d-shapes-on-a-canvas-44md)
+- [Better blogging on Dev.to with Vrite - headless CMS for technical content](https://dev.to/areknawo/better-blogging-on-devto-with-vrite-headless-cms-for-technical-content-4i05)
 <!-- BLOG-POST-LIST:END -->
 
