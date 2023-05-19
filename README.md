@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 ChatGPT Plugins You Can&#39;t miss](https://dev.to/jon_snow789/top-10-chatgpt-plugins-you-cant-miss-1k68)
-- [How to build a data pipeline using Delta Lake](https://dev.to/mage_ai/how-to-build-a-data-pipeline-using-delta-lake-l78)
-- [JSX and React: Learn how to Write Maintainable Code – CheatSheet](https://dev.to/aradwan20/jsx-and-react-learn-how-to-write-maintainable-code-cheatsheet-5308)
-- [Striking a Balance: User-friendliness vs. Decentralization in dApp Interfaces?](https://dev.to/devteam/striking-a-balance-user-friendliness-vs-decentralization-in-dapp-interfaces-2bo5)
+- [How to build a phone mockup using only Tailwind CSS](https://dev.to/themesberg/how-to-build-a-phone-mockup-using-only-tailwind-css-1e5c)
+- [How to Come Back From Burnout](https://dev.to/hb/how-to-come-back-from-burnout-j85)
+- [Extracting addresses from OpenStreetMaps](https://dev.to/dagnelies/extracting-addresses-from-openstreetmaps-5g2i)
+- [Export an OpenAPI specification from your FastAPI app](https://dev.to/doctave/export-an-openapi-specification-from-your-fastapi-app-5363)
 <!-- BLOG-POST-LIST:END -->
 
