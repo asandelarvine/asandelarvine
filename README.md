@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Key points to summarize what Computer Science is ✨](https://dev.to/developedbyjk/key-points-to-summarize-what-computer-science-is-38c3)
+- [My Favorite Free Courses to Learn Data Science in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-data-science-in-depth-pmo)
 - [Blazor: A Safe and Secure Web Development Framework](https://dev.to/bhavin9920/blazor-a-safe-and-secure-web-development-framework-1lo3)
 - [Javascript &lpar; ES14 &rpar;: toSorted&lpar;&rpar;](https://dev.to/jazurite/javascript-es14-tosorted-22e0)
-- [Click &amp; Launch a Meteor Blaze App Environment at Github Codespaces &lpar;&amp; Actions test&rpar;](https://dev.to/kafechew/click-launch-a-meteor-blaze-app-environment-at-github-codespaces-actions-test-4ek7)
-- [Svelte Demo Todo Walkthrough](https://dev.to/appwrite/svelte-demo-todo-walkthrough-58dn)
 <!-- BLOG-POST-LIST:END -->
 
