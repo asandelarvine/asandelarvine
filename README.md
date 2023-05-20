@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: What&#39;s Your Advice on Where to Start and How to Study in the World of Coding?](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
+- [Optimize Development with Jenkins Pipelines and Continuous Integration](https://dev.to/naturalett/optimize-development-with-jenkins-pipelines-and-continuous-integration-1h49)
 - [How on earth can you balance it all?](https://dev.to/codenewbieteam/how-on-earth-can-you-balance-it-all-24f6)
-- [Streamline AWS Development with CI/CD, SAM, and GitHub Actions](https://dev.to/aws-builders/streamline-aws-development-with-cicd-sam-and-github-actions-2n23)
-- [#DEVDiscuss: How will new leadership affect Twitter &lpar;and the broader tech industry&rpar;?](https://dev.to/devteam/devdiscuss-how-will-new-leadership-affect-twitter-and-the-broader-tech-industry-2kon)
-- [The Rise of Selling Digital Gigs: Unlocking Opportunities in the Online Marketplace](https://dev.to/freelaweb/the-rise-of-selling-digital-gigs-unlocking-opportunities-in-the-online-marketplace-4i6l)
+- [Front-End vs Back-End Development: What is the core difference?](https://dev.to/abdrzqsalihu/front-end-vs-back-end-development-what-is-the-core-difference-8op)
 <!-- BLOG-POST-LIST:END -->
 
