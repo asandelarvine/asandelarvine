@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your Signature Victory Dance in the Coding Olympics?](https://dev.to/codenewbieteam/whats-your-signature-victory-dance-in-the-coding-olympics-4i44)
-- [What is Your Coding Anthem?](https://dev.to/devteam/what-is-your-coding-anthem-57eg)
+- [What I Learned from Crawling 100+ Websites](https://dev.to/polterguy/what-i-learned-from-crawling-100-websites-2j09)
+- [mongo-strict, smart MongoDB ORM for Node JS](https://dev.to/mibkamel/mongo-strict-new-mongodb-orm-for-node-js-nhg)
 - [What Coding Communities &amp; Forums Have Transformed Your Coding Journey?](https://dev.to/devteam/what-coding-communities-forums-have-transformed-your-coding-journey-kcl)
-- [Deploy TypeScript REST API on Render using Docker](https://dev.to/qbentil/deploy-typescript-rest-api-on-render-using-docker-7fj)
+- [What is Your Coding Anthem?](https://dev.to/devteam/what-is-your-coding-anthem-57eg)
 <!-- BLOG-POST-LIST:END -->
 
