@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⭐🤖🔑 9 Ninja Tips to prevent Bot from getting Detected like Grey Ninja 🕵️‍♂️🔍🛡️](https://dev.to/chetanam/9-ninja-tips-to-prevent-bot-from-getting-detected-like-grey-ninja-koc)
+- [Caching with Momento and Golang](https://dev.to/aws-builders/caching-with-momento-and-golang-5a85)
+- [I wrote a book on CSS Grid - Here&#39;s how! 📖💡](https://dev.to/thormeier/i-wrote-a-book-on-css-grid-heres-how-1ak8)
 - [The 3 best tools I use to validate the meta tags present on my websites](https://dev.to/ernanej/the-3-best-tools-i-use-to-validate-the-meta-tags-present-on-my-websites-1nb3)
-- [hibernate 6 crud operations](https://dev.to/realnamehidden1_61/hibernate-6-crud-operations-32o0)
-- [Mastering Laravel Collections Tutorial](https://dev.to/sureshramani/mastering-laravel-collections-tutorial-dp3)
-- [Why ChatGPT Can&#39;t Replace Developers Anytime Soon: A Hilarious Showdown!](https://dev.to/mrcodeaholic/why-chatgpt-cant-replace-developers-anytime-soon-a-hilarious-showdown-c6o)
 <!-- BLOG-POST-LIST:END -->
 
