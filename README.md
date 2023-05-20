@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Plant Diseases Detection using Deep Learning](https://dev.to/anurag629/plant-diseases-detection-using-deep-learning-44o4)
+- [Top 10 Best Practices for Coding That Every Developer Should Follow](https://dev.to/thealphamerc/top-10-best-practices-for-coding-that-every-developer-should-follow-3ab5)
 - [3 Lightweight CSS Frameworks](https://dev.to/cgwebdev2003/3-lightweight-css-frameworks-280e)
 - [Sloan&#39;s Inbox: What&#39;s Your Advice on Where to Start and How to Study in the World of Coding?](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
-- [Optimize Development with Jenkins Pipelines and Continuous Integration](https://dev.to/naturalett/optimize-development-with-jenkins-pipelines-and-continuous-integration-1h49)
 <!-- BLOG-POST-LIST:END -->
 
