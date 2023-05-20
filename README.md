@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Code Refactoring Tools to Boost Development Efficiency](https://dev.to/surajondev/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
+- [5 Code Refactoring Tools to Boost Development Efficiency](https://dev.to/documatic/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
 - [Real-time data analytics with Apache Superset, Redpanda, and RisingWave](https://dev.to/bobur/real-time-data-analytics-with-apache-superset-redpanda-and-risingwave-96f)
 - [Does Your Application Work Without a Mouse](https://dev.to/zenstack/does-your-application-work-without-a-mouse-5jb)
 - [The Career Path of an Innovative Software Engineer: Embracing Risk and Failure](https://dev.to/snowman647/the-career-path-of-an-innovative-software-engineer-embracing-risk-and-failure-2i3j)
