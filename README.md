@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [What Google Is Doing About AI, Deep Fakes, and Impersonation](https://dev.to/lemonboy/what-google-is-doing-about-ai-deep-fakes-and-impersonation-3844)
 - [AI 🤖 vs Us 🧒: The War Begun | Part 1](https://dev.to/rajaniraiyn/ai-vs-us-the-war-begun-part-1-1jca)
 - [Which are the biggest IT events in Latin America?](https://dev.to/krlz/which-are-the-biggest-it-events-in-latin-america-480k)
-- [Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
+- [NestJS tip: type safety on parameter decorators](https://dev.to/micalevisk/nestjs-tip-type-safety-on-parameter-decorators-24mn)
 <!-- BLOG-POST-LIST:END -->
 
