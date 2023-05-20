@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 3 best tools I use to validate the meta tags present on my websites](https://dev.to/ernanej/the-3-best-tools-i-use-to-validate-the-meta-tags-present-on-my-websites-1nb3)
 - [hibernate 6 crud operations](https://dev.to/realnamehidden1_61/hibernate-6-crud-operations-32o0)
+- [Mastering Laravel Collections Tutorial](https://dev.to/sureshramani/mastering-laravel-collections-tutorial-dp3)
 - [Why ChatGPT Can&#39;t Replace Developers Anytime Soon: A Hilarious Showdown!](https://dev.to/mrcodeaholic/why-chatgpt-cant-replace-developers-anytime-soon-a-hilarious-showdown-c6o)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-25hm)
-- [Deployment Strategies for Applications](https://dev.to/toni744/deployment-strategies-4h8l)
 <!-- BLOG-POST-LIST:END -->
 
