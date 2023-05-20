@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [hibernate 6 crud operations](https://dev.to/realnamehidden1_61/hibernate-6-crud-operations-32o0)
+- [Why ChatGPT Can&#39;t Replace Developers Anytime Soon: A Hilarious Showdown!](https://dev.to/mrcodeaholic/why-chatgpt-cant-replace-developers-anytime-soon-a-hilarious-showdown-c6o)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-25hm)
 - [Deployment Strategies for Applications](https://dev.to/toni744/deployment-strategies-4h8l)
-- [5 Code Refactoring Tools to Boost Development Efficiency](https://dev.to/documatic/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
-- [Real-time data analytics with Apache Superset, Redpanda, and RisingWave](https://dev.to/bobur/real-time-data-analytics-with-apache-superset-redpanda-and-risingwave-96f)
 <!-- BLOG-POST-LIST:END -->
 
