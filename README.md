@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Plant Diseases Detection using Deep Learning](https://dev.to/anurag629/plant-diseases-detection-using-deep-learning-44o4)
+- [3 Lightweight CSS Frameworks](https://dev.to/cgwebdev2003/3-lightweight-css-frameworks-280e)
 - [Sloan&#39;s Inbox: What&#39;s Your Advice on Where to Start and How to Study in the World of Coding?](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
 - [Optimize Development with Jenkins Pipelines and Continuous Integration](https://dev.to/naturalett/optimize-development-with-jenkins-pipelines-and-continuous-integration-1h49)
-- [How on earth can you balance it all?](https://dev.to/codenewbieteam/how-on-earth-can-you-balance-it-all-24f6)
-- [Front-End vs Back-End Development: What is the core difference?](https://dev.to/abdrzqsalihu/front-end-vs-back-end-development-what-is-the-core-difference-8op)
 <!-- BLOG-POST-LIST:END -->
 
