@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Google Is Doing About AI, Deep Fakes, and Impersonation](https://dev.to/lemonboy/what-google-is-doing-about-ai-deep-fakes-and-impersonation-3844)
 - [AI 🤖 vs Us 🧒: The War Begun | Part 1](https://dev.to/rajaniraiyn/ai-vs-us-the-war-begun-part-1-1jca)
+- [Which are the biggest IT events in Latin America?](https://dev.to/krlz/which-are-the-biggest-it-events-in-latin-america-480k)
 - [Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
-- [⭐🤖🔑 9 Ninja Tips to prevent Bot from getting Detected like Grey Ninja 🕵️‍♂️🔍🛡️](https://dev.to/chetanam/9-ninja-tips-to-prevent-bot-from-getting-detected-like-grey-ninja-koc)
-- [Caching with Momento and Golang](https://dev.to/aws-builders/caching-with-momento-and-golang-5a85)
 <!-- BLOG-POST-LIST:END -->
 
