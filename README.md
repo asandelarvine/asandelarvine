@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving Palindrome Check with JavaScript](https://dev.to/muhmmadawd/solving-palindrome-check-with-javascript-462n)
 - [What I Learned from Crawling 100+ Websites](https://dev.to/polterguy/what-i-learned-from-crawling-100-websites-2j09)
+- [Learn How to Generate Random Colors with JavaScript Like an Expert](https://dev.to/codeauthor/learn-how-to-generate-random-colors-with-javascript-like-an-expert-1gcj)
 - [mongo-strict, smart MongoDB ORM for Node JS](https://dev.to/mibkamel/mongo-strict-new-mongodb-orm-for-node-js-nhg)
-- [What Coding Communities &amp; Forums Have Transformed Your Coding Journey?](https://dev.to/devteam/what-coding-communities-forums-have-transformed-your-coding-journey-kcl)
-- [What is Your Coding Anthem?](https://dev.to/devteam/what-is-your-coding-anthem-57eg)
 <!-- BLOG-POST-LIST:END -->
 
