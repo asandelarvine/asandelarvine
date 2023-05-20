@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 🤖 vs Us 🧒: The War Begun | Part 1](https://dev.to/rajaniraiyn/ai-vs-us-the-war-begun-part-1-1jca)
+- [Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
 - [⭐🤖🔑 9 Ninja Tips to prevent Bot from getting Detected like Grey Ninja 🕵️‍♂️🔍🛡️](https://dev.to/chetanam/9-ninja-tips-to-prevent-bot-from-getting-detected-like-grey-ninja-koc)
 - [Caching with Momento and Golang](https://dev.to/aws-builders/caching-with-momento-and-golang-5a85)
-- [I wrote a book on CSS Grid - Here&#39;s how! 📖💡](https://dev.to/thormeier/i-wrote-a-book-on-css-grid-heres-how-1ak8)
-- [The 3 best tools I use to validate the meta tags present on my websites](https://dev.to/ernanej/the-3-best-tools-i-use-to-validate-the-meta-tags-present-on-my-websites-1nb3)
 <!-- BLOG-POST-LIST:END -->
 
