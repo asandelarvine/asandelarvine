@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sci-Fi Sunday: Guess the Movie Quote &amp; Pass It On](https://dev.to/devteam/sci-fi-sunday-guess-the-movie-quote-pass-it-on-50d)
+- [How to scrape g2 using Python, Selenium and Bose Framework](https://dev.to/chetanam/how-to-scrape-g2-using-python-selenium-and-bose-framework-4h99)
+- [how to run simulations in your browser](https://dev.to/dylanintech/how-to-run-simulations-in-your-browser-o1d)
 - [Effect Handlers in Functional Programming](https://dev.to/haydenrear/effect-handlers-in-functional-programming-3mek)
-- [How to Build a Recipe App with Vanilla JavaScript](https://dev.to/codewithsadee/how-to-build-a-recipe-app-with-vanilla-javascript-1ogm)
-- [A Detailed Guide on TypeScript Enum](https://dev.to/refine/a-detailed-guide-on-typescript-enum-2dgp)
-- [How to scrape google maps using Python, Selenium and Bose Framework](https://dev.to/chetanam/how-to-scrape-google-maps-using-python-selenium-and-bose-framework-20g)
 <!-- BLOG-POST-LIST:END -->
 
