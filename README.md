@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up BDD User-centric E2E tests](https://dev.to/luifr10/how-to-set-up-bdd-user-centric-e2e-tests-3a4k)
-- [Setting up a Python Environment](https://dev.to/godszerg86/setting-up-a-python-environment-39l0)
-- [Do You Have a Nostalgia Collection?](https://dev.to/codenewbieteam/do-you-have-a-nostalgia-collection-4490)
-- [Sci-Fi Sunday: Guess the Movie Quote &amp; Pass It On](https://dev.to/devteam/sci-fi-sunday-guess-the-movie-quote-pass-it-on-50d)
+- [My Experience with Debian, Arch, Fedora based distros](https://dev.to/dilutewater/my-experience-with-debian-arch-fedora-based-distros-1cai)
+- [You will not need another VSCode theme extension ever again after this 👉](https://dev.to/lakshitsomani/you-will-not-need-another-vscode-theme-extension-ever-again-after-this-383a)
+- [Deep Neural Network from Scratch in Rust 🦀 - Part 3- Forward Propagation](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-3-forward-propagation-2jp5)
+- [AWS Landing Zone benefits for organization&#39;s cloud infrastructure and security](https://dev.to/aws-builders/aws-landing-zone-benefits-for-organizations-cloud-infrastructure-and-security-1em8)
 <!-- BLOG-POST-LIST:END -->
 
