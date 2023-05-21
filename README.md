@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCommit: GitHub Action to improve commits with meaningful messages on every `git push` 🤯🔫](https://dev.to/disukharev/opencommit-github-action-to-improve-commits-with-meaningful-messages-on-every-git-push-1i3a)
+- [How to use the Pulumi Operator to build Docker Images](https://dev.to/martinp/how-to-use-the-pulumi-operator-to-build-docker-images-17oe)
 - [Integration Tests for N + 1 problem in Java](https://dev.to/kirekov/integration-tests-for-n-1-problem-in-java-3b2i)
-- [Deploy pygames to GitHub Pages with WebAssembly - PWA ready!](https://dev.to/sandy_codes_py/deploy-pygames-to-github-pages-with-webassembly-56po)
-- [How to develop an application](https://dev.to/shreyvijayvargiya/how-to-develop-an-application-3cef)
-- [7 Useful Resources for Web Developers](https://dev.to/devland/7-useful-resources-for-web-developers-379d)
+- [Build a LinkedIn Bio Generator in Laravel using the REST API of OpenAI, Livewire and Tailwind CSS.](https://dev.to/nxvv/build-a-linkedin-bio-generator-in-laravel-using-the-rest-api-of-openai-livewire-and-tailwind-css-1253)
 <!-- BLOG-POST-LIST:END -->
 
