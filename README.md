@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Text Encryption with ROT13 Algorithm in JavaScript](https://dev.to/muhmmadawd/simplifying-text-encryption-with-rot13-algorithm-in-javascript-2am2)
+- [Stacking of Pop-Up Notification in WPF](https://dev.to/tarun06/stacking-of-pop-up-notification-in-wpf-2n8j)
 - [Start your own AI Website Chatbot Company](https://dev.to/polterguy/start-your-own-ai-website-chatbot-company-1482)
 - [Step Functions Distributed Map and Athena, a match made in cloud heaven](https://dev.to/aws-builders/step-functions-distributed-map-and-athena-a-match-made-in-cloud-heaven-5g27)
-- [How to develop a svelte component and publish it as a package in NPM](https://dev.to/ernanej/how-to-develop-a-svelte-component-and-publish-it-as-a-package-in-npm-40pc)
-- [Configuring Linux terminal to show current branch in versioned directories](https://dev.to/ernanej/configuring-linux-terminal-to-show-current-branch-in-versioned-directories-hgb)
 <!-- BLOG-POST-LIST:END -->
 
