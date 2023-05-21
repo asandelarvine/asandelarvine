@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to A/B Test in Nest.js with ConfigCat and Amplitude](https://dev.to/zms/how-to-ab-test-in-nestjs-with-configcat-and-amplitude-584j)
 - [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
 - [Rust Trait Implementation Wizardry 🧙: Unveiling the Magic of Macro Rules](https://dev.to/cleggacus/rust-trait-implementation-wizardry-unveiling-the-magic-of-macro-rules-2p0f)
 - [Git things: Renaming your working branch](https://dev.to/simhskal/git-things-renaming-your-working-branch-4a05)
-- [Pong: Atari Classic Game](https://dev.to/bekbrace/pong-atari-classic-game-193m)
 <!-- BLOG-POST-LIST:END -->
 
