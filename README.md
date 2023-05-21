@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Google Is Doing About AI, Deep Fakes, and Impersonation](https://dev.to/lemonboy/what-google-is-doing-about-ai-deep-fakes-and-impersonation-3844)
-- [AI 🤖 vs Us 🧒: The War Begun | Part 1](https://dev.to/rajaniraiyn/ai-vs-us-the-war-begun-part-1-1jca)
-- [Which are the biggest IT events in Latin America?](https://dev.to/krlz/which-are-the-biggest-it-events-in-latin-america-480k)
-- [NestJS tip: type safety on parameter decorators](https://dev.to/micalevisk/nestjs-tip-type-safety-on-parameter-decorators-24mn)
+- [How to develop a svelte component and publish it as a package in NPM](https://dev.to/ernanej/how-to-develop-a-svelte-component-and-publish-it-as-a-package-in-npm-40pc)
+- [Configuring Linux terminal to show current branch in versioned directories](https://dev.to/ernanej/configuring-linux-terminal-to-show-current-branch-in-versioned-directories-hgb)
+- [How to embed Google Map without API Key?](https://dev.to/hardiquedasore/how-to-embed-google-map-without-api-key-1ii7)
+- [The difference between traditional functions and arrow functions in javascript](https://dev.to/ernanej/a-diferenca-entre-funcoes-tradicionais-e-arrow-functions-no-javascript-7e3)
 <!-- BLOG-POST-LIST:END -->
 
