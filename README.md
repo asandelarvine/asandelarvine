@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
 - [Rust Trait Implementation Wizardry 🧙: Unveiling the Magic of Macro Rules](https://dev.to/cleggacus/rust-trait-implementation-wizardry-unveiling-the-magic-of-macro-rules-2p0f)
 - [Git things: Renaming your working branch](https://dev.to/simhskal/git-things-renaming-your-working-branch-4a05)
-- [My Experience with Debian, Arch, Fedora based distros](https://dev.to/dilutewater/my-experience-with-debian-arch-fedora-based-distros-1cai)
+- [Pong: Atari Classic Game](https://dev.to/bekbrace/pong-atari-classic-game-193m)
 <!-- BLOG-POST-LIST:END -->
 
