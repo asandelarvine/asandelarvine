@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Text Encryption with ROT13 Algorithm in JavaScript](https://dev.to/muhmmadawd/simplifying-text-encryption-with-rot13-algorithm-in-javascript-2am2)
-- [Stacking of Pop-Up Notification in WPF](https://dev.to/tarun06/stacking-of-pop-up-notification-in-wpf-2n8j)
-- [Start your own AI Website Chatbot Company](https://dev.to/polterguy/start-your-own-ai-website-chatbot-company-1482)
-- [Step Functions Distributed Map and Athena, a match made in cloud heaven](https://dev.to/aws-builders/step-functions-distributed-map-and-athena-a-match-made-in-cloud-heaven-5g27)
+- [HTML Document Structure](https://dev.to/laksidesvibe/html-document-structure-l7n)
+- [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
+- [Top 10 Visual Studio Code Themes for a Stylish Coding Experience](https://dev.to/asmraihan/top-10-visual-studio-code-themes-for-a-stylish-coding-experience-2h91)
+- [Chatbot for learning foreign language](https://dev.to/basuarijeet/chatbot-for-learning-foreign-language-5ad0)
 <!-- BLOG-POST-LIST:END -->
 
