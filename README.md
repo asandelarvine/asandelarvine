@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to develop an application](https://dev.to/shreyvijayvargiya/how-to-develop-an-application-3cef)
 - [7 Useful Resources for Web Developers](https://dev.to/devland/7-useful-resources-for-web-developers-379d)
-- [HTML Document Structure](https://dev.to/laksidesvibe/html-document-structure-l7n)
-- [FastApi With AWS Serverless powered by CDK Typescript](https://dev.to/aws-builders/fastapi-with-aws-serverless-powered-by-cdk-typescript-58a1)
-- [Top 10 Visual Studio Code Themes for a Stylish Coding Experience](https://dev.to/asmraihan/top-10-visual-studio-code-themes-for-a-stylish-coding-experience-2h91)
+- [Many followers - few readers](https://dev.to/szabgab/many-followers-few-readers-lbi)
+- [🎉 Iconsans](https://dev.to/fpaghar/iconsans-16b8)
 <!-- BLOG-POST-LIST:END -->
 
