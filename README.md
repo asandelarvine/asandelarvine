@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Have a Nostalgia Collection?](https://dev.to/codenewbieteam/do-you-have-a-nostalgia-collection-4490)
 - [Sci-Fi Sunday: Guess the Movie Quote &amp; Pass It On](https://dev.to/devteam/sci-fi-sunday-guess-the-movie-quote-pass-it-on-50d)
-- [How to scrape g2 using Python, Selenium and Bose Framework](https://dev.to/chetanam/how-to-scrape-g2-using-python-selenium-and-bose-framework-4h99)
-- [how to run simulations in your browser](https://dev.to/dylanintech/how-to-run-simulations-in-your-browser-o1d)
-- [Effect Handlers in Functional Programming](https://dev.to/haydenrear/effect-handlers-in-functional-programming-3mek)
+- [🚀 🤖💻🔍 How to scrape g2 using Python, Selenium and Bose Framework 🅶2️⃣🐍🖥️](https://dev.to/chetanam/how-to-scrape-g2-using-python-selenium-and-bose-framework-4h99)
+- [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)
 <!-- BLOG-POST-LIST:END -->
 
