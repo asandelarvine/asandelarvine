@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Effect Handlers in Functional Programming](https://dev.to/haydenrear/effect-handlers-in-functional-programming-3mek)
+- [How to Build a Recipe App with Vanilla JavaScript](https://dev.to/codewithsadee/how-to-build-a-recipe-app-with-vanilla-javascript-1ogm)
 - [A Detailed Guide on TypeScript Enum](https://dev.to/refine/a-detailed-guide-on-typescript-enum-2dgp)
 - [How to scrape google maps using Python, Selenium and Bose Framework](https://dev.to/chetanam/how-to-scrape-google-maps-using-python-selenium-and-bose-framework-20g)
-- [[Node.js] Using callback-based functions when the rest of the code uses Promises](https://dev.to/gaurang847/nodejs-using-callback-based-functions-when-the-rest-of-the-code-uses-promises-gl5)
-- [Solo Machine Instructor Series - Introduction](https://dev.to/jarrodhroberson/solo-machine-instructor-series-introduction-14on)
 <!-- BLOG-POST-LIST:END -->
 
