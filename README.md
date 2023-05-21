@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
+- [Rust Trait Implementation Wizardry 🧙: Unveiling the Magic of Macro Rules](https://dev.to/cleggacus/rust-trait-implementation-wizardry-unveiling-the-magic-of-macro-rules-2p0f)
+- [Git things: Renaming your working branch](https://dev.to/simhskal/git-things-renaming-your-working-branch-4a05)
 - [My Experience with Debian, Arch, Fedora based distros](https://dev.to/dilutewater/my-experience-with-debian-arch-fedora-based-distros-1cai)
-- [You will not need another VSCode theme extension ever again after this 👉](https://dev.to/lakshitsomani/you-will-not-need-another-vscode-theme-extension-ever-again-after-this-383a)
-- [Deep Neural Network from Scratch in Rust 🦀 - Part 3- Forward Propagation](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-3-forward-propagation-2jp5)
-- [AWS Landing Zone benefits for organization&#39;s cloud infrastructure and security](https://dev.to/aws-builders/aws-landing-zone-benefits-for-organizations-cloud-infrastructure-and-security-1em8)
 <!-- BLOG-POST-LIST:END -->
 
