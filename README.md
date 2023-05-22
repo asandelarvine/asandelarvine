@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod)
+- [Recruiting is broken. Let’s fix it!](https://dev.to/exi/recruiting-is-broken-lets-fix-it-ca7)
 - [AWS open source newsletter, #157](https://dev.to/aws/aws-open-source-newsletter-157-956)
 - [Weekly Roundup &lpar;May 15&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-15-hot-topics-in-workplace-sharepoint-and-powerplatform-27o6)
-- [June 1- June 3 RT-Thread Global Tech Conference Agenda](https://dev.to/rt_thread/june-1-june-3-rt-thread-global-tech-conference-agenda-1ia3)
-- [Building ChatGPT-powered apps in 5 steps 🚀](https://dev.to/tejakummarikuntla/building-chatgpt-powered-apps-in-5-steps-3e85)
 <!-- BLOG-POST-LIST:END -->
 
