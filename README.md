@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Real Imposter is The Inner Judge - On Imposter Symdrome](https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01)
+- [SOLID explicado com TypeScript](https://dev.to/guiseek/solid-27jn)
 - [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
 - [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
-- [How to A/B Test in Nest.js with ConfigCat and Amplitude](https://dev.to/zms/how-to-ab-test-in-nestjs-with-configcat-and-amplitude-584j)
-- [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
 <!-- BLOG-POST-LIST:END -->
 
