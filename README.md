@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [And they began to code](https://dev.to/drippy-cat/and-they-began-to-code-1kkh)
 - [The Real Imposter is The Inner Judge - On Imposter Symdrome](https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01)
 - [SOLID explicado com TypeScript](https://dev.to/guiseek/solid-27jn)
 - [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
-- [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
 <!-- BLOG-POST-LIST:END -->
 
