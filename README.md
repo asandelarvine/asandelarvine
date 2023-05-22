@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌈Omkar DevTools: A Swiss Army knife for developers🚀](https://dev.to/chetanam/omkar-devtools-a-swiss-army-knife-for-developers-40na)
-- [Dask - Collaborative Task Manager Application for GitHub + DEV Hackathon](https://dev.to/dilane3/dask-collaborative-task-manager-application-for-github-dev-hackathon-446p)
-- [How To write a Smart Contract Wallet with Ownership change](https://dev.to/crudeboy/how-to-write-a-smart-contract-wallet-with-ownership-change-1mhj)
-- [Quickly learn how new-to-you code works using sequence diagrams](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g)
+- [What is Phone Number Trustworthiness?](https://dev.to/prove/what-is-phone-number-trustworthiness-12lo)
+- [Ensemble of RandomForest GradientBoost CatBoost](https://dev.to/subhashishmahapatra/ensemble-of-randomforest-gradientboost-catboost-4l9d)
+- [Go is Not Java](https://dev.to/jarrodhroberson/go-is-not-java-1bd8)
+- [Automate Kubernetes Deployment using Terraform and Github Actions](https://dev.to/chefgs/automate-kubernetes-deployment-using-terraform-and-github-actions-3m5c)
 <!-- BLOG-POST-LIST:END -->
 
