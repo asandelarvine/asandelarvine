@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Build a Strong Coding Portfolio?](https://dev.to/codenewbieteam/how-do-you-build-a-strong-coding-portfolio-2778)
+- [Building ChatGPT-powered apps in 5 steps 🚀](https://dev.to/tejakummarikuntla/building-chatgpt-powered-apps-in-5-steps-3e85)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-288c)
 - [Last Week&#39;s News 🗞️2023-05-22](https://dev.to/devteam/last-weeks-news-464m)
-- [Agile Software Development: The Symphony of Collaboration and Creativity](https://dev.to/bhavin9920/agile-software-development-the-symphony-of-collaboration-and-creativity-3509)
+- [How Do You Build a Strong Coding Portfolio?](https://dev.to/codenewbieteam/how-do-you-build-a-strong-coding-portfolio-2778)
 <!-- BLOG-POST-LIST:END -->
 
