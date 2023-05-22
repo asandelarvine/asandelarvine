@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Code/Low Code Vs. Traditional Development](https://dev.to/alesiasirotka/no-codelow-code-vs-traditional-development-13b0)
-- [ChatGPT Meets SEO:Discover 10 Prompts That Will Transform Your Search Engine Game](https://dev.to/ramkr82/chatgpt-meets-seodiscover10-prompts-that-will-transform-your-search-engine-game-8ai)
-- [Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod)
-- [How To Use Sanity with Next.js 13 full Guide](https://dev.to/med_code/how-to-use-sanity-with-nextjs-13-full-guide-8c5)
+- [#TestCulture 🦅 Episode 34 – Systemic view](https://dev.to/mathilde_llg/testculture-episode-34-systemic-view-25h3)
+- [[Nestia] Make NestJS 30x faster with fastify](https://dev.to/samchon/nestia-make-nestjs-30x-faster-with-fastify-133l)
+- [FLaNK Stack Weekly for 22 May 2023](https://dev.to/tspannhw/flank-stack-weekly-for-22-may-2023-1fgc)
+- [🔥💥🚀 10 Missing Selenium Methods!😱💥🔥](https://dev.to/chetanam/10-missing-selenium-methods-4ic0)
 <!-- BLOG-POST-LIST:END -->
 
