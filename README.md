@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering React Interview: Top Common Questions and Best Practices](https://dev.to/aradwan20/mastering-react-interview-top-common-questions-and-best-practices-3g13)
 - [#TestCulture 🦅 Episode 34 – Systemic view](https://dev.to/mathilde_llg/testculture-episode-34-systemic-view-25h3)
 - [[Nestia] Make NestJS 30x faster with fastify](https://dev.to/samchon/nestia-make-nestjs-30x-faster-with-fastify-133l)
 - [FLaNK Stack Weekly for 22 May 2023](https://dev.to/tspannhw/flank-stack-weekly-for-22-may-2023-1fgc)
-- [🔥💥🚀 10 Missing Selenium Methods!😱💥🔥](https://dev.to/chetanam/10-missing-selenium-methods-4ic0)
 <!-- BLOG-POST-LIST:END -->
 
