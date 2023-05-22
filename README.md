@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server Side Rendering &lpar;SSR&rpar; Vs Static Site Generation &lpar;SSG&rpar;](https://dev.to/ebereplenty/server-side-rendering-ssr-vs-static-site-generation-ssg-214k)
-- [7x more value for money than Datadog - SigNoz](https://dev.to/signoz/7x-more-value-for-money-than-datadog-signoz-42bg)
-- [Python: prevent import errors](https://dev.to/jmau111/python-prevent-import-errors-4m92)
-- [Unlocking GitHub Codespaces for Workshops](https://dev.to/bengreenberg/unlocking-github-codespaces-for-workshops-344o)
+- [How To write a Smart Contract Wallet with Ownership change](https://dev.to/crudeboy/how-to-write-a-smart-contract-wallet-with-ownership-change-1mhj)
+- [Quickly learn how new-to-you code works using sequence diagrams](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g)
+- [Introducing QRInked - Create and Manage QR Codes](https://dev.to/dhairyashah/introducing-qrinked-create-and-manage-qr-codes-2hlg)
+- [🌈 A One Person Startup Tech Stack - Next.js, Django, Kubernetes, and GCP 🚀](https://dev.to/chetanam/a-one-person-startup-tech-stack-nextjs-django-kubernetes-and-gcp-k62)
 <!-- BLOG-POST-LIST:END -->
 
