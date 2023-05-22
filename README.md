@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #157](https://dev.to/aws/aws-open-source-newsletter-157-956)
+- [Weekly Roundup &lpar;May 15&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-15-hot-topics-in-workplace-sharepoint-and-powerplatform-27o6)
+- [June 1- June 3 RT-Thread Global Tech Conference Agenda](https://dev.to/rt_thread/june-1-june-3-rt-thread-global-tech-conference-agenda-1ia3)
 - [Building ChatGPT-powered apps in 5 steps 🚀](https://dev.to/tejakummarikuntla/building-chatgpt-powered-apps-in-5-steps-3e85)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-288c)
-- [Last Week&#39;s News 🗞️2023-05-22](https://dev.to/devteam/last-weeks-news-464m)
-- [How Do You Build a Strong Coding Portfolio?](https://dev.to/codenewbieteam/how-do-you-build-a-strong-coding-portfolio-2778)
 <!-- BLOG-POST-LIST:END -->
 
