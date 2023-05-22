@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Liman Cihaz Yönetim ile Parola Ayarları](https://dev.to/aciklab/liman-cihaz-yonetim-ile-parola-ayarlari-3o4j)
-- [My Favorite Books for DevOps Engineering](https://dev.to/javinpaul/my-favorite-books-for-devops-engineering-591o)
-- [Getting started with SQL View](https://dev.to/aviatorifeanyi/getting-started-with-sql-view-9dh)
-- [ChatGPT Unplugged: Empowering Developer for documentation](https://dev.to/balagmadhu/chatgpt-unplugged-empowering-developer-for-documentation-2a6o)
+- [How Do You Build a Strong Coding Portfolio?](https://dev.to/codenewbieteam/how-do-you-build-a-strong-coding-portfolio-2778)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-288c)
+- [Last Week&#39;s News 🗞️2023-05-22](https://dev.to/devteam/last-weeks-news-464m)
+- [Agile Software Development: The Symphony of Collaboration and Creativity](https://dev.to/bhavin9920/agile-software-development-the-symphony-of-collaboration-and-creativity-3509)
 <!-- BLOG-POST-LIST:END -->
 
