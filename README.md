@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Phone Number Trustworthiness?](https://dev.to/prove/what-is-phone-number-trustworthiness-12lo)
-- [Ensemble of RandomForest GradientBoost CatBoost](https://dev.to/subhashishmahapatra/ensemble-of-randomforest-gradientboost-catboost-4l9d)
-- [Go is Not Java](https://dev.to/jarrodhroberson/go-is-not-java-1bd8)
-- [Automate Kubernetes Deployment using Terraform and Github Actions](https://dev.to/chefgs/automate-kubernetes-deployment-using-terraform-and-github-actions-3m5c)
+- [Ace the &quot;What was your greatest professional achievement&quot; question in your next interview.](https://dev.to/martinkr/ace-the-what-was-your-greatest-professional-achievement-question-in-your-next-interview-igp)
+- [Subqueries Unraveled: Exploring SQL’s Hidden Power](https://dev.to/john-maina/subqueries-unraveled-exploring-sqls-hidden-power-cbn)
+- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg)
+- [Music Monday — What are you listening to? &lpar;Blues Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-blues-edition-1djk)
 <!-- BLOG-POST-LIST:END -->
 
