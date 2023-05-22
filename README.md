@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [No Code/Low Code Vs. Traditional Development](https://dev.to/alesiasirotka/no-codelow-code-vs-traditional-development-13b0)
+- [ChatGPT Meets SEO:Discover 10 Prompts That Will Transform Your Search Engine Game](https://dev.to/ramkr82/chatgpt-meets-seodiscover10-prompts-that-will-transform-your-search-engine-game-8ai)
 - [Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod)
-- [Recruiting is broken. Let’s fix it!](https://dev.to/exi/recruiting-is-broken-lets-fix-it-ca7)
-- [AWS open source newsletter, #157](https://dev.to/aws/aws-open-source-newsletter-157-956)
-- [Weekly Roundup &lpar;May 15&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-15-hot-topics-in-workplace-sharepoint-and-powerplatform-27o6)
+- [How To Use Sanity with Next.js 13 full Guide](https://dev.to/med_code/how-to-use-sanity-with-nextjs-13-full-guide-8c5)
 <!-- BLOG-POST-LIST:END -->
 
