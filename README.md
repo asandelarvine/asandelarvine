@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Predicate functions and user defined functions in Apache age](https://dev.to/talhahahae/predicate-functions-and-user-defined-functions-in-apache-age-2hhj)
+- [Combine LangChain 🦜🔗 &amp; Llama-Index 🦙](https://dev.to/iamadhee/combine-langchain-llama-index-1068)
+- [Concurrency in Go: Goroutines, Mutexes and Channels](https://dev.to/adriandy89/concurrency-in-go-goroutines-mutexes-and-channels-40f4)
 - [Part 3: Component Structure - Building Reusable and Maintainable Components in React!](https://dev.to/sathishskdev/part-3-component-structure-building-reusable-and-maintainable-components-in-react-54n6)
-- [ESLint: The Hows, Whys, and Who Behind It](https://dev.to/philipjohnbasile/eslint-the-hows-whys-and-who-behind-it-5fkl)
-- [And they began to code](https://dev.to/drippy-cat/and-they-began-to-code-1kkh)
-- [How to use DEV.to API](https://dev.to/guilhermecheng/how-to-use-devto-api-4p65)
 <!-- BLOG-POST-LIST:END -->
 
