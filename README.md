@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Server Side Rendering &lpar;SSR&rpar; Vs Static Site Generation &lpar;SSG&rpar;](https://dev.to/ebereplenty/server-side-rendering-ssr-vs-static-site-generation-ssg-214k)
+- [7x more value for money than Datadog - SigNoz](https://dev.to/signoz/7x-more-value-for-money-than-datadog-signoz-42bg)
+- [Python: prevent import errors](https://dev.to/jmau111/python-prevent-import-errors-4m92)
 - [Unlocking GitHub Codespaces for Workshops](https://dev.to/bengreenberg/unlocking-github-codespaces-for-workshops-344o)
-- [Malwares e ataques cibernéticos](https://dev.to/eucarlos/malwares-e-ataques-ciberneticos-3mo7)
-- [Meme Monday](https://dev.to/ben/meme-monday-14lj)
-- [Mastering React Interview: Top Common Questions and Best Practices](https://dev.to/aradwan20/mastering-react-interview-top-common-questions-and-best-practices-3g13)
 <!-- BLOG-POST-LIST:END -->
 
