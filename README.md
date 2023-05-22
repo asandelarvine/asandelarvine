@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Predicate functions and user defined functions in Apache age](https://dev.to/talhahahae/predicate-functions-and-user-defined-functions-in-apache-age-2hhj)
-- [Combine LangChain 🦜🔗 &amp; Llama-Index 🦙](https://dev.to/iamadhee/combine-langchain-llama-index-1068)
-- [Concurrency in Go: Goroutines, Mutexes and Channels](https://dev.to/adriandy89/concurrency-in-go-goroutines-mutexes-and-channels-40f4)
-- [Part 3: Component Structure - Building Reusable and Maintainable Components in React!](https://dev.to/sathishskdev/part-3-component-structure-building-reusable-and-maintainable-components-in-react-54n6)
+- [Liman Cihaz Yönetim ile Parola Ayarları](https://dev.to/aciklab/liman-cihaz-yonetim-ile-parola-ayarlari-3o4j)
+- [My Favorite Books for DevOps Engineering](https://dev.to/javinpaul/my-favorite-books-for-devops-engineering-591o)
+- [Getting started with SQL View](https://dev.to/aviatorifeanyi/getting-started-with-sql-view-9dh)
+- [ChatGPT Unplugged: Empowering Developer for documentation](https://dev.to/balagmadhu/chatgpt-unplugged-empowering-developer-for-documentation-2a6o)
 <!-- BLOG-POST-LIST:END -->
 
