@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 3: Component Structure - Building Reusable and Maintainable Components in React!](https://dev.to/sathishskdev/part-3-component-structure-building-reusable-and-maintainable-components-in-react-54n6)
+- [ESLint: The Hows, Whys, and Who Behind It](https://dev.to/philipjohnbasile/eslint-the-hows-whys-and-who-behind-it-5fkl)
 - [And they began to code](https://dev.to/drippy-cat/and-they-began-to-code-1kkh)
-- [The Real Imposter is The Inner Judge - On Imposter Symdrome](https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01)
-- [SOLID explicado com TypeScript](https://dev.to/guiseek/solid-27jn)
-- [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
+- [How to use DEV.to API](https://dev.to/guilhermecheng/how-to-use-devto-api-4p65)
 <!-- BLOG-POST-LIST:END -->
 
