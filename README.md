@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌈Omkar DevTools: A Swiss Army knife for developers🚀](https://dev.to/chetanam/omkar-devtools-a-swiss-army-knife-for-developers-40na)
 - [Dask - Collaborative Task Manager Application for GitHub + DEV Hackathon](https://dev.to/dilane3/dask-collaborative-task-manager-application-for-github-dev-hackathon-446p)
 - [How To write a Smart Contract Wallet with Ownership change](https://dev.to/crudeboy/how-to-write-a-smart-contract-wallet-with-ownership-change-1mhj)
 - [Quickly learn how new-to-you code works using sequence diagrams](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g)
-- [Introducing QRInked - Create and Manage QR Codes](https://dev.to/dhairyashah/introducing-qrinked-create-and-manage-qr-codes-2hlg)
 <!-- BLOG-POST-LIST:END -->
 
