@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bandit Level 0](https://dev.to/christianpaez/bandit-level-0-3knh)
+- [Githubhack23: Vegaration or Visualising continuous integration using Github actions and vega-lite](https://dev.to/preciouschicken/githubhack23-vegaration-or-visualising-continuous-integration-using-github-actions-and-vega-lite-48c9)
 - [Ace the &quot;What was your greatest professional achievement&quot; question in your next interview.](https://dev.to/martinkr/ace-the-what-was-your-greatest-professional-achievement-question-in-your-next-interview-igp)
 - [Subqueries Unraveled: Exploring SQL’s Hidden Power](https://dev.to/john-maina/subqueries-unraveled-exploring-sqls-hidden-power-cbn)
-- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg)
-- [Music Monday — What are you listening to? &lpar;Blues Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-blues-edition-1djk)
 <!-- BLOG-POST-LIST:END -->
 
