@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Angular Applications: Removing NgRx DevTools in Production 🚀](https://dev.to/mpotapov/optimizing-angular-applications-removing-ngrx-devtools-in-production-3i23)
-- [Creating keyboard shortcuts for web apps with JavaScript](https://dev.to/michaelburrows/creating-keyboard-shortcuts-for-web-apps-with-javascript-15j6)
-- [Introduction to React JS: A Beginner&#39;s Guide](https://dev.to/dotarjun/introduction-to-react-js-a-beginners-guide-14hl)
-- [Enhance Your Productivity with 5 VS Code Extensions 🚀🔥](https://dev.to/arjuncodess/enhance-your-productivity-with-5-vs-code-extensions-4adl)
+- [📝The Origins of IaC](https://dev.to/jessica_veit/the-origins-of-iac-14hb)
+- [Leveling Up as an Experienced Coder: Is Continuing Education Worth It?](https://dev.to/devteam/leveling-up-as-an-experienced-coder-is-continuing-education-worth-it-4kgp)
+- [How Do You Ensure Your Code Speaks Clearly to Other Developers?](https://dev.to/codenewbieteam/how-do-you-ensure-your-code-speaks-clearly-to-other-developers-bnh)
+- [Tetris Testimonial Quotes](https://dev.to/madsstoumann/tetris-testimonial-quotes-55i5)
 <!-- BLOG-POST-LIST:END -->
 
