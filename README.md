@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Expose our REST API on AWS with a Custom Domain](https://dev.to/aws-builders/expose-our-rest-api-on-aws-with-a-custom-domain-1326)
+- [Arduino-Based Smart Gate System Prototype for Vehicle Detection and Access Control](https://dev.to/salimcodes/arduino-based-smart-gate-system-prototype-for-vehicle-detection-and-access-control-5dp0)
+- [#DEVDiscuss: Recovering From Burnout](https://dev.to/devteam/devdiscuss-recovering-from-burnout-1k2j)
 - [Simplify Your Mock Data Creation in Tests with @lifeiscontent/to-mocked](https://dev.to/lifeiscontent/simplify-your-mock-data-creation-in-tests-with-lifeiscontentto-mocked-2g7f)
-- [Future of CSS: Popover API](https://dev.to/link2twenty/future-of-css-popover-api-3ba0)
-- [PHP variadic](https://dev.to/jmau111/php-variadic-5a84)
-- [Como por em prática suas habilidades com programação](https://dev.to/webdavi/como-por-em-pratica-suas-habilidades-com-programacao-4mb8)
 <!-- BLOG-POST-LIST:END -->
 
