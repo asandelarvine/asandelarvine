@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating responsive tooltips in React with react-tooltip](https://dev.to/refine/creating-responsive-tooltips-in-react-with-react-tooltip-24i1)
-- [How I converted a podcast into a knowledge base using Orama search and OpenAI whisper and Astro](https://dev.to/brainrepo/how-i-converted-a-podcast-into-a-knowledge-base-using-orama-search-and-openai-whisper-2aca)
-- [#Githubhack23 - Monoripify, a CI CD web app](https://dev.to/delavalom/githubhack23-monoripify-a-ci-cd-web-app-5gk9)
-- [What is Open Source and Why is it so Goddamn Popular?](https://dev.to/quine/what-is-open-source-and-why-is-it-so-goddamn-popular-3lhg)
+- [Converting Jupyter Notebooks to Markdown Made Easy with nbconvert](https://dev.to/coderatul/converting-jupyter-notebooks-to-markdown-made-easy-with-nbconvert-8dl)
+- [Building a bidding system with NextJS 🚀](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
+- [Open Source Voice Changing Software](https://dev.to/amyliumaiyi/open-source-voice-changing-software-3k7n)
+- [I created 100+ unique CSS patterns | The best collection 🤩](https://dev.to/afif/i-created-100-unique-css-patterns-the-best-collection-31cl)
 <!-- BLOG-POST-LIST:END -->
 
