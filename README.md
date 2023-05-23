@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Coding a Prerequisite for Being a Developer?](https://dev.to/scofieldidehen/is-coding-a-prerequisite-for-being-a-developer-8ei)
-- [Why Your Cloud Assets Need A Time Machine](https://dev.to/gofirefly/why-your-cloud-assets-need-a-time-machine-409o)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jod)
-- [#GithubHack23 : Pomotimer App using Vanilla JavaScript](https://dev.to/abiyyu03/githubhack23-pomotimer-app-using-vanilla-javascript-31n6)
+- [Como por em prática suas habilidades com programação](https://dev.to/webdavi/como-por-em-pratica-suas-habilidades-com-programacao-4mb8)
+- [How To Create Your Own Programming Language](https://dev.to/jasonsbarr/how-to-create-your-own-programming-language-2642)
+- [Seamlessly Convert Web Apps to Android App: Automate with Capacitor and GitHub Actions](https://dev.to/narottam04/seamlessly-convert-web-apps-to-android-app-automate-with-capacitor-and-github-actions-4e26)
+- [What Is a Content Management System &lpar;CMS&rpar;?](https://dev.to/med_code/what-is-a-content-management-system-cms-2547)
 <!-- BLOG-POST-LIST:END -->
 
