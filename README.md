@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Playing with Copilot CLI on top of Warp terminal](https://dev.to/this-is-learning/playing-with-copilot-cli-on-top-of-warp-terminal-1a77)
+- [Change how you perceive slow mornings as a Dev!](https://dev.to/atienoobwanda/change-how-you-perceive-slow-mornings-as-a-dev-22hc)
+- [The comprehensive guide to Angular Performance Tuning](https://dev.to/ifourtechnolab/the-comprehensive-guide-to-angular-performance-tuning-4n7n)
 - [📝The Origins of IaC](https://dev.to/jessica_veit/the-origins-of-iac-14hb)
-- [Leveling Up as an Experienced Coder: Is Continuing Education Worth It?](https://dev.to/devteam/leveling-up-as-an-experienced-coder-is-continuing-education-worth-it-4kgp)
-- [How Do You Ensure Your Code Speaks Clearly to Other Developers?](https://dev.to/codenewbieteam/how-do-you-ensure-your-code-speaks-clearly-to-other-developers-bnh)
-- [Tetris Testimonial Quotes](https://dev.to/madsstoumann/tetris-testimonial-quotes-55i5)
 <!-- BLOG-POST-LIST:END -->
 
