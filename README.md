@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Como por em prática suas habilidades com programação](https://dev.to/webdavi/como-por-em-pratica-suas-habilidades-com-programacao-4mb8)
 - [How To Create Your Own Programming Language](https://dev.to/jasonsbarr/how-to-create-your-own-programming-language-2642)
 - [Seamlessly Convert Web Apps to Android App: Automate with Capacitor and GitHub Actions](https://dev.to/narottam04/seamlessly-convert-web-apps-to-android-app-automate-with-capacitor-and-github-actions-4e26)
-- [What Is a Content Management System &lpar;CMS&rpar;?](https://dev.to/med_code/what-is-a-content-management-system-cms-2547)
+- [Entendiendo Docker.](https://dev.to/ulisesserranop/entendiendo-docker-2l0b)
 <!-- BLOG-POST-LIST:END -->
 
