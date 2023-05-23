@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4: Working with Modules and Imports](https://dev.to/bobbyhalljr/part-4-working-with-modules-and-imports-554a)
-- [Introducing an Open-Source Admin Dashboard Template Based on Tailwind CSS](https://dev.to/mdmostafizurrahaman/introducing-an-open-source-admin-dashboard-template-based-on-tailwind-css-2h)
-- [Day 1 - Menjadi Android Developer](https://dev.to/iclynn/day-1-menjadi-android-developer-1751)
-- [ossjobs.dev 👋 land your next job in open source](https://dev.to/crowddotdev/ossjobsdev-land-your-next-job-in-open-source-3gdi)
+- [Generative AI with Azure OpenAI &lpar;GPT-4 Overview&rpar;](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-gpt-4-overview-5el5)
+- [Part 7: Conclusion and Next Steps](https://dev.to/bobbyhalljr/part-7-conclusion-and-next-steps-33hi)
+- [Part 6: Advanced TypeScript Topics](https://dev.to/bobbyhalljr/part-6-advanced-typescript-topics-43g0)
+- [Initial Desktop Setup Guide for Ubuntu 23.04](https://dev.to/erikaheidi/initial-desktop-setup-guide-for-ubuntu-2304-26a5)
 <!-- BLOG-POST-LIST:END -->
 
