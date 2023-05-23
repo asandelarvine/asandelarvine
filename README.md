@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to interpret a sequence diagram](https://dev.to/appmap/how-to-interpret-a-sequence-diagram-5816)
 - [Yet Another Newsletter LOL: Baseline](https://dev.to/nickytonline/yet-another-newsletter-lol-baseline-3cfl)
 - [Getting started with gRPC in Rust](https://dev.to/malomz/getting-started-with-grpc-in-rust-39nm)
 - [Kubernetes scheduler deep dive](https://dev.to/danielepolencic/kubernetes-scheduler-deep-dive-3phj)
-- [Getting started with gRPC in Golang](https://dev.to/malomz/getting-started-with-grpc-in-golang-151m)
 <!-- BLOG-POST-LIST:END -->
 
