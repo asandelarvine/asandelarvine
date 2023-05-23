@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create an Attractive File Upload Widget With React/Next.js and Tailwind CSS](https://dev.to/designly/how-to-create-an-attractive-file-upload-widget-with-reactnextjs-and-tailwind-css-5c7o)
+- [Everything you need to know about algorithms](https://dev.to/ericsomtochukwu/everything-you-need-to-know-about-algorithms-17fn)
 - [Bandit Level 0](https://dev.to/christianpaez/bandit-level-0-3knh)
-- [Githubhack23: Vegaration or Visualising continuous integration using Github actions and vega-lite](https://dev.to/preciouschicken/githubhack23-vegaration-or-visualising-continuous-integration-using-github-actions-and-vega-lite-48c9)
-- [Ace the &quot;What was your greatest professional achievement&quot; question in your next interview.](https://dev.to/martinkr/ace-the-what-was-your-greatest-professional-achievement-question-in-your-next-interview-igp)
-- [Subqueries Unraveled: Exploring SQL’s Hidden Power](https://dev.to/john-maina/subqueries-unraveled-exploring-sqls-hidden-power-cbn)
+- [🎉 Introducing the Fantastic New Network State Utils Library for Android 🎉](https://dev.to/jimmymcbride/introducing-the-fantastic-new-network-state-utils-library-for-android-209p)
 <!-- BLOG-POST-LIST:END -->
 
