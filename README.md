@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps agents on AKS with workload identity](https://dev.to/oskarm93/azure-devops-agents-on-aks-with-workload-identity-113o)
+- [Extending Java APIs - Add Missing Features Without the Hassle](https://dev.to/codenameone/extending-java-apis-add-missing-features-without-the-hassle-33fe)
 - [How to interpret a sequence diagram](https://dev.to/appmap/how-to-interpret-a-sequence-diagram-5816)
 - [Yet Another Newsletter LOL: Baseline](https://dev.to/nickytonline/yet-another-newsletter-lol-baseline-3cfl)
-- [Getting started with gRPC in Rust](https://dev.to/malomz/getting-started-with-grpc-in-rust-39nm)
-- [Kubernetes scheduler deep dive](https://dev.to/danielepolencic/kubernetes-scheduler-deep-dive-3phj)
 <!-- BLOG-POST-LIST:END -->
 
