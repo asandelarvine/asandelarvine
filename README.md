@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps agents on AKS with workload identity](https://dev.to/oskarm93/azure-devops-agents-on-aks-with-workload-identity-113o)
-- [Extending Java APIs - Add Missing Features Without the Hassle](https://dev.to/codenameone/extending-java-apis-add-missing-features-without-the-hassle-33fe)
-- [How to interpret a sequence diagram](https://dev.to/appmap/how-to-interpret-a-sequence-diagram-5816)
-- [Yet Another Newsletter LOL: Baseline](https://dev.to/nickytonline/yet-another-newsletter-lol-baseline-3cfl)
+- [Part 4: Working with Modules and Imports](https://dev.to/bobbyhalljr/part-4-working-with-modules-and-imports-554a)
+- [Introducing an Open-Source Admin Dashboard Template Based on Tailwind CSS](https://dev.to/mdmostafizurrahaman/introducing-an-open-source-admin-dashboard-template-based-on-tailwind-css-2h)
+- [Day 1 - Menjadi Android Developer](https://dev.to/iclynn/day-1-menjadi-android-developer-1751)
+- [ossjobs.dev 👋 land your next job in open source](https://dev.to/crowddotdev/ossjobsdev-land-your-next-job-in-open-source-3gdi)
 <!-- BLOG-POST-LIST:END -->
 
