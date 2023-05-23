@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating responsive tooltips in React with react-tooltip](https://dev.to/refine/creating-responsive-tooltips-in-react-with-react-tooltip-24i1)
+- [How I converted a podcast into a knowledge base using Orama search and OpenAI whisper and Astro](https://dev.to/brainrepo/how-i-converted-a-podcast-into-a-knowledge-base-using-orama-search-and-openai-whisper-2aca)
 - [#Githubhack23 - Monoripify, a CI CD web app](https://dev.to/delavalom/githubhack23-monoripify-a-ci-cd-web-app-5gk9)
 - [What is Open Source and Why is it so Goddamn Popular?](https://dev.to/quine/what-is-open-source-and-why-is-it-so-goddamn-popular-3lhg)
-- [How to Build a Modal Video Component with Tailwind CSS and Vue](https://dev.to/cruip_com/how-to-build-a-modal-video-component-with-tailwind-css-and-vue-aih)
-- [How to Build a Modal Video Component with Tailwind CSS and Next.js](https://dev.to/cruip_com/how-to-build-a-modal-video-component-with-tailwind-css-and-nextjs-5io)
 <!-- BLOG-POST-LIST:END -->
 
