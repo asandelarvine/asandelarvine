@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Your Productivity with 5 VS Code Extensions 🚀🔥](https://dev.to/arjuncodess/enhance-your-productivity-with-5-vs-code-extensions-4adl)
 - [How to Create an Attractive File Upload Widget With React/Next.js and Tailwind CSS](https://dev.to/designly/how-to-create-an-attractive-file-upload-widget-with-reactnextjs-and-tailwind-css-5c7o)
 - [Everything you need to know about algorithms](https://dev.to/ericsomtochukwu/everything-you-need-to-know-about-algorithms-17fn)
-- [Bandit Level 0](https://dev.to/christianpaez/bandit-level-0-3knh)
-- [Presso-Driven Development](https://dev.to/aws-builders/presso-driven-development-2c2o)
+- [Unleash the power of random in Google Chat](https://dev.to/dyaskur/unleash-the-power-of-random-in-google-chat-jnp)
 <!-- BLOG-POST-LIST:END -->
 
