@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Your Mock Data Creation in Tests with @lifeiscontent/to-mocked](https://dev.to/lifeiscontent/simplify-your-mock-data-creation-in-tests-with-lifeiscontentto-mocked-2g7f)
+- [Future of CSS: Popover API](https://dev.to/link2twenty/future-of-css-popover-api-3ba0)
+- [PHP variadic](https://dev.to/jmau111/php-variadic-5a84)
 - [Como por em prática suas habilidades com programação](https://dev.to/webdavi/como-por-em-pratica-suas-habilidades-com-programacao-4mb8)
-- [How To Create Your Own Programming Language](https://dev.to/jasonsbarr/how-to-create-your-own-programming-language-2642)
-- [Seamlessly Convert Web Apps to Android App: Automate with Capacitor and GitHub Actions](https://dev.to/narottam04/seamlessly-convert-web-apps-to-android-app-automate-with-capacitor-and-github-actions-4e26)
-- [Entendiendo Docker.](https://dev.to/ulisesserranop/entendiendo-docker-2l0b)
 <!-- BLOG-POST-LIST:END -->
 
