@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Converting Jupyter Notebooks to Markdown Made Easy with nbconvert](https://dev.to/coderatul/converting-jupyter-notebooks-to-markdown-made-easy-with-nbconvert-8dl)
-- [Building a bidding system with NextJS 🚀](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
-- [Open Source Voice Changing Software](https://dev.to/amyliumaiyi/open-source-voice-changing-software-3k7n)
-- [I created 100+ unique CSS patterns | The best collection 🤩](https://dev.to/afif/i-created-100-unique-css-patterns-the-best-collection-31cl)
+- [Yet Another Newsletter LOL: Baseline](https://dev.to/nickytonline/yet-another-newsletter-lol-baseline-3cfl)
+- [Getting started with gRPC in Rust](https://dev.to/malomz/getting-started-with-grpc-in-rust-39nm)
+- [Kubernetes scheduler deep dive](https://dev.to/danielepolencic/kubernetes-scheduler-deep-dive-3phj)
+- [Getting started with gRPC in Golang](https://dev.to/malomz/getting-started-with-grpc-in-golang-151m)
 <!-- BLOG-POST-LIST:END -->
 
