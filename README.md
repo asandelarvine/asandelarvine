@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI with Azure OpenAI &lpar;GPT-4 Overview&rpar;](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-gpt-4-overview-5el5)
-- [Part 7: Conclusion and Next Steps](https://dev.to/bobbyhalljr/part-7-conclusion-and-next-steps-33hi)
-- [Part 6: Advanced TypeScript Topics](https://dev.to/bobbyhalljr/part-6-advanced-typescript-topics-43g0)
-- [Initial Desktop Setup Guide for Ubuntu 23.04](https://dev.to/erikaheidi/initial-desktop-setup-guide-for-ubuntu-2304-26a5)
+- [Is Coding a Prerequisite for Being a Developer?](https://dev.to/scofieldidehen/is-coding-a-prerequisite-for-being-a-developer-8ei)
+- [Why Your Cloud Assets Need A Time Machine](https://dev.to/gofirefly/why-your-cloud-assets-need-a-time-machine-409o)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jod)
+- [#GithubHack23 : Pomotimer App using Vanilla JavaScript](https://dev.to/abiyyu03/githubhack23-pomotimer-app-using-vanilla-javascript-31n6)
 <!-- BLOG-POST-LIST:END -->
 
