@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to Create an Attractive File Upload Widget With React/Next.js and Tailwind CSS](https://dev.to/designly/how-to-create-an-attractive-file-upload-widget-with-reactnextjs-and-tailwind-css-5c7o)
 - [Everything you need to know about algorithms](https://dev.to/ericsomtochukwu/everything-you-need-to-know-about-algorithms-17fn)
 - [Bandit Level 0](https://dev.to/christianpaez/bandit-level-0-3knh)
-- [🎉 Introducing the Fantastic New Network State Utils Library for Android 🎉](https://dev.to/jimmymcbride/introducing-the-fantastic-new-network-state-utils-library-for-android-209p)
+- [Presso-Driven Development](https://dev.to/aws-builders/presso-driven-development-2c2o)
 <!-- BLOG-POST-LIST:END -->
 
