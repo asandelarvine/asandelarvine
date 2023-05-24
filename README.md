@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Neural Network from Scratch in Rust 🦀- Part 4- Loss Function and Back Propagation](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-4-loss-function-and-back-propagation-133a)
 - [Do we need npm packages after Chat GPT?](https://dev.to/shreyvijayvargiya/do-we-need-npm-packages-after-chat-gpt-546i)
 - [How to create an Azure Virtual Network](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-virtual-network-dnd)
-- [Building a message board with Next.js and AppWrite](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
-- [PHP: memory errors](https://dev.to/jmau111/php-memory-errors-2fj2)
+- [5 coding habits you need to stop!](https://dev.to/abubakardev/5-coding-habits-you-need-to-stop-lmk)
 <!-- BLOG-POST-LIST:END -->
 
