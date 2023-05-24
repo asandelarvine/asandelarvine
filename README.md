@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The impact of frontend frameworks on website performance and user experience](https://dev.to/josematoswork/the-impact-of-frontend-frameworks-on-website-performance-and-user-experience-1l21)
+- [The Basics of Database Indexing and Optimization.](https://dev.to/xcubelabs/the-basics-of-database-indexing-and-optimization-1c2k)
 - [Create a Virtual Office with WorkAdventure on Your Server](https://dev.to/yuki777/create-a-virtual-office-with-workadventure-on-your-server-4l1o)
-- [Chaining API requests with API Gateway](https://dev.to/apisix/chaining-api-requests-with-api-gateway-10n2)
-- [Authentication with Authguard in Ionic 4](https://dev.to/ifourtechnolab/authentication-with-authguard-in-ionic-4-d2a)
-- [Angular: Transform your inputs at will and simply](https://dev.to/this-is-angular/angular-transform-your-inputs-at-will-and-simply-12oo)
+- [A guide to web accessibility &lpar;A11y&rpar;](https://dev.to/ilizette/a-guide-to-web-accessibility-a11y-57od)
 <!-- BLOG-POST-LIST:END -->
 
