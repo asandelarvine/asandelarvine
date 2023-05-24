@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The impact of frontend frameworks on website performance and user experience](https://dev.to/josematoswork/the-impact-of-frontend-frameworks-on-website-performance-and-user-experience-1l21)
-- [The Basics of Database Indexing and Optimization.](https://dev.to/xcubelabs/the-basics-of-database-indexing-and-optimization-1c2k)
-- [Create a Virtual Office with WorkAdventure on Your Server](https://dev.to/yuki777/create-a-virtual-office-with-workadventure-on-your-server-4l1o)
-- [A guide to web accessibility &lpar;A11y&rpar;](https://dev.to/ilizette/a-guide-to-web-accessibility-a11y-57od)
+- [Do we need npm packages after Chat GPT?](https://dev.to/shreyvijayvargiya/do-we-need-npm-packages-after-chat-gpt-546i)
+- [How to create an Azure Virtual Network](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-virtual-network-dnd)
+- [Building a message board with Next.js and AppWrite](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
+- [PHP: memory errors](https://dev.to/jmau111/php-memory-errors-2fj2)
 <!-- BLOG-POST-LIST:END -->
 
