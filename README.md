@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The State of JS](https://dev.to/basheerdotdev/the-state-of-js-266d)
+- [Introducing ✨ Relano - Create beautiful &quot;What&#39;s new&quot; videos and automate your project&#39;s social media!](https://dev.to/just_moh_it/introducing-relano-create-beautiful-whats-new-videos-and-automate-your-projects-social-media-cp2)
+- [AI Assisted Blog with Nuxt, GitHub Codespaces &amp; Actions](https://dev.to/ra_jeeves/ai-assisted-blog-with-nuxt-github-codespaces-actions-1gog)
 - [On Becoming a Successful Software Developer: A Guide for Emerging Talents](https://dev.to/snowman647/on-becoming-a-successful-software-developer-a-guide-for-emerging-talents-146c)
-- [AIHiveCollective: The Netflix for AI Tools](https://dev.to/salimcodes/aihivecollective-the-netflix-for-ai-tools-535a)
-- [Expose our REST API on AWS with a Custom Domain](https://dev.to/aws-builders/expose-our-rest-api-on-aws-with-a-custom-domain-1326)
-- [Arduino-Based Smart Gate System Prototype for Vehicle Detection and Access Control](https://dev.to/salimcodes/arduino-based-smart-gate-system-prototype-for-vehicle-detection-and-access-control-5dp0)
 <!-- BLOG-POST-LIST:END -->
 
