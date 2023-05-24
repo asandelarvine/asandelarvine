@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ace the &quot;Tell me about a time you faced a conflict at work, and how you resolved it&quot; question in your next interview.](https://dev.to/martinkr/ace-the-tell-me-about-a-time-you-faced-a-conflict-at-work-and-how-you-resolved-it-question-in-your-next-interview-2dg7)
-- [Parallel Scan in YugabyteDB &lpar;ysql_select_parallelism=-1&rpar;](https://dev.to/yugabyte/parallel-scan-in-yugabytedb-ysqlselectparallelism-1-49in)
-- [Understanding Token Contracts in Blockchain For Non-Techie](https://dev.to/adetutu777/understanding-token-contracts-and-safeguarding-against-malicious-tokens-in-blockchain-for-non-techie-1l3i)
-- [Demystifying the Architecture of Apache Age](https://dev.to/abdulsamad4068/demystifying-the-architecture-of-apache-age-36gm)
+- [AWS TURN server: In 7 Simple Steps](https://dev.to/alakkadshaw/aws-turn-server-in-7-simple-steps-226e)
+- [✨ We won one of the biggest hackathons in Toronto! ✨🥇](https://dev.to/saminarp/we-won-one-of-the-biggest-hackathons-in-toronto-2o1j)
+- [Error: listen EADDRINUSE: address already in use &lpar;JSON&rpar;](https://dev.to/keoshaug/error-listen-eaddrinuse-address-already-in-use-json-548f)
+- [Building and deploying a web API powered by ChatGPT](https://dev.to/ruarfff/building-and-deploying-a-web-api-powered-by-chatgpt-3og9)
 <!-- BLOG-POST-LIST:END -->
 
