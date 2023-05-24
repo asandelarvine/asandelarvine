@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #146: Concurrency, Server Components, Next.js, React-Query, Remix, Expo Router, Skia, React-Native...](https://dev.to/sebastienlorber/this-week-in-react-146-concurrency-server-components-nextjs-react-query-remix-expo-router-skia-react-native-56b4)
-- [Which technical skills are useful for test automation](https://dev.to/how-to-dev/which-technical-skills-are-useful-for-test-automation-a9k)
-- [Mastering JavaScript Array and its Methods](https://dev.to/scofieldidehen/mastering-javascript-array-and-its-methods-2gb7)
-- [5 Essential Soft Skills for Developers 🚀🔥](https://dev.to/arjuncodess/5-essential-soft-skills-for-developers-33jo)
+- [Cryptography in Blockchain 🤑 | Asymmetric Key Cryptography &amp; Hashing 🚀🚀 | Part-3](https://dev.to/akshaykurhekar/cryptography-in-blockchain-asymmetric-key-cryptography-hashing-part-3-2cei)
+- [Brilliant Programmer vs. Excellent Communicator: Which Coding Mentor Would You Choose?](https://dev.to/codenewbieteam/brilliant-programmer-vs-excellent-communicator-which-coding-mentor-would-you-choose-43d3)
+- [Who Are the Key Collaborators Supporting Coders in Your Organization?](https://dev.to/devteam/who-are-the-key-collaborators-supporting-coders-in-your-organization-228)
+- [Cryptography in Blockchain 🤑 | Cryptography Basics 🚀🚀 | Part-1](https://dev.to/akshaykurhekar/cryptography-in-blockchain-cryptography-basics-1jep)
 <!-- BLOG-POST-LIST:END -->
 
