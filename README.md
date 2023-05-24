@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write c program for addition of two number?](https://dev.to/realnamehidden1_61/how-to-write-c-program-for-addition-of-two-number-38o4)
+- [Deploying Between Environments with Power Automate Instead of Pipelines](https://dev.to/wyattdave/deploying-between-environments-with-power-automate-instead-of-pipelines-3fm0)
 - [Cryptography in Blockchain 🤑 | Asymmetric Key Cryptography &amp; Hashing 🚀🚀 | Part-3](https://dev.to/akshaykurhekar/cryptography-in-blockchain-asymmetric-key-cryptography-hashing-part-3-2cei)
-- [Brilliant Programmer vs. Excellent Communicator: Which Coding Mentor Would You Choose?](https://dev.to/codenewbieteam/brilliant-programmer-vs-excellent-communicator-which-coding-mentor-would-you-choose-43d3)
 - [Who Are the Key Collaborators Supporting Coders in Your Organization?](https://dev.to/devteam/who-are-the-key-collaborators-supporting-coders-in-your-organization-228)
-- [Cryptography in Blockchain 🤑 | Cryptography Basics 🚀🚀 | Part-1](https://dev.to/akshaykurhekar/cryptography-in-blockchain-cryptography-basics-1jep)
 <!-- BLOG-POST-LIST:END -->
 
