@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[pt-BR] Fundamentos do Git, um guia completo](https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh)
 - [The State of JS](https://dev.to/basheerdotdev/the-state-of-js-266d)
+- [SaaS - Entenda o significado do termo e sua importância para o mundo do software](https://dev.to/marlonfrade/saas-entenda-o-significado-do-termo-e-sua-importancia-para-o-mundo-do-software-5hj1)
 - [Introducing ✨ Relano - Create beautiful &quot;What&#39;s new&quot; videos and automate your project&#39;s social media!](https://dev.to/just_moh_it/introducing-relano-create-beautiful-whats-new-videos-and-automate-your-projects-social-media-cp2)
-- [AI Assisted Blog with Nuxt, GitHub Codespaces &amp; Actions](https://dev.to/ra_jeeves/ai-assisted-blog-with-nuxt-github-codespaces-actions-1gog)
-- [On Becoming a Successful Software Developer: A Guide for Emerging Talents](https://dev.to/snowman647/on-becoming-a-successful-software-developer-a-guide-for-emerging-talents-146c)
 <!-- BLOG-POST-LIST:END -->
 
