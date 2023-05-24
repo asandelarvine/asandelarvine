@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaining API requests with API Gateway](https://dev.to/apisix/chaining-api-requests-with-api-gateway-10n2)
+- [Authentication with Authguard in Ionic 4](https://dev.to/ifourtechnolab/authentication-with-authguard-in-ionic-4-d2a)
+- [Future of Change Detection in Angular with Signals](https://dev.to/this-is-angular/future-of-change-detection-in-angular-with-signals-27mm)
 - [How to write c program for addition of two number?](https://dev.to/realnamehidden1_61/how-to-write-c-program-for-addition-of-two-number-38o4)
-- [Deploying Between Environments with Power Automate Instead of Pipelines](https://dev.to/wyattdave/deploying-between-environments-with-power-automate-instead-of-pipelines-3fm0)
-- [Cryptography in Blockchain 🤑 | Asymmetric Key Cryptography &amp; Hashing 🚀🚀 | Part-3](https://dev.to/akshaykurhekar/cryptography-in-blockchain-asymmetric-key-cryptography-hashing-part-3-2cei)
-- [Who Are the Key Collaborators Supporting Coders in Your Organization?](https://dev.to/devteam/who-are-the-key-collaborators-supporting-coders-in-your-organization-228)
 <!-- BLOG-POST-LIST:END -->
 
