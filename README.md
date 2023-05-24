@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing ✨ Bose Framework - The Swiss Army Knife for Bot Developers 🤖](https://dev.to/chetanam/introducing-bose-framework-the-swiss-army-knife-for-bot-developers-10k9)
-- [RakuAST for Early Adopters](https://dev.to/lizmat/rakuast-for-early-adopters-576n)
-- [Front End Flash from AWS Amplify](https://dev.to/aws/front-end-flash-from-aws-amplify-4jah)
-- [SvelteKit Ably: Sqvuably Real-Time Game](https://dev.to/askrodney/sveltekit-ably-sqvuably-real-time-game-2fn6)
+- [Does NaN actually means Not-a-Number?](https://dev.to/himu243/does-nan-actually-means-not-a-number-5acf)
+- [12 Tool for Your Next Project](https://dev.to/jon_snow789/12-tool-for-your-next-project-5hbg)
+- [Typescript Code Generation](https://dev.to/rametta/typescript-code-generation-epn)
+- [Understanding the Contents of the .git Folder](https://dev.to/rajaniraiyn/understanding-the-contents-of-the-git-folder-ef)
 <!-- BLOG-POST-LIST:END -->
 
