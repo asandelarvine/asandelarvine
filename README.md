@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Neural Network from Scratch in Rust 🦀- Part 4- Loss Function and Back Propagation](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-4-loss-function-and-back-propagation-133a)
-- [Do we need npm packages after Chat GPT?](https://dev.to/shreyvijayvargiya/do-we-need-npm-packages-after-chat-gpt-546i)
-- [How to create an Azure Virtual Network](https://dev.to/toluwani_oluwaloseyi/how-to-create-an-azure-virtual-network-dnd)
-- [5 coding habits you need to stop!](https://dev.to/abubakardev/5-coding-habits-you-need-to-stop-lmk)
+- [Automated Testing of Cloud-Based ERP: How to Implement and What to Expect?](https://dev.to/yevheniiapashko/automated-testing-of-cloud-based-erp-how-to-implement-and-what-to-expect-20e3)
+- [Welcome Thread - v226](https://dev.to/devteam/welcome-thread-v226-126e)
+- [How to Create a SQL Database in Azure, Test the Database, configure the server and run a SQL query.](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-sql-database-3fmg)
+- [Empowering Problem Solving: A Review of untools.co](https://dev.to/yesiamrocks/empowering-problem-solving-a-review-of-untoolsco-4ffk)
 <!-- BLOG-POST-LIST:END -->
 
