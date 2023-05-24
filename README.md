@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Ace the &quot;Tell me about a time you faced a conflict at work, and how you resolved it&quot; question in your next interview.](https://dev.to/martinkr/ace-the-tell-me-about-a-time-you-faced-a-conflict-at-work-and-how-you-resolved-it-question-in-your-next-interview-2dg7)
+- [Parallel Scan in YugabyteDB &lpar;ysql_select_parallelism=-1&rpar;](https://dev.to/yugabyte/parallel-scan-in-yugabytedb-ysqlselectparallelism-1-49in)
 - [Understanding Token Contracts in Blockchain For Non-Techie](https://dev.to/adetutu777/understanding-token-contracts-and-safeguarding-against-malicious-tokens-in-blockchain-for-non-techie-1l3i)
 - [Demystifying the Architecture of Apache Age](https://dev.to/abdulsamad4068/demystifying-the-architecture-of-apache-age-36gm)
-- [How to Convince your Project Manager/Client to let you write Unit Tests](https://dev.to/this-is-learning/how-to-convince-your-project-managerclient-to-let-you-write-unit-tests-5cje)
 <!-- BLOG-POST-LIST:END -->
 
