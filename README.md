@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Testing of Cloud-Based ERP: How to Implement and What to Expect?](https://dev.to/yevheniiapashko/automated-testing-of-cloud-based-erp-how-to-implement-and-what-to-expect-20e3)
-- [Welcome Thread - v226](https://dev.to/devteam/welcome-thread-v226-126e)
-- [How to Create a SQL Database in Azure, Test the Database, configure the server and run a SQL query.](https://dev.to/toluwani_oluwaloseyi/how-to-create-a-sql-database-3fmg)
-- [Empowering Problem Solving: A Review of untools.co](https://dev.to/yesiamrocks/empowering-problem-solving-a-review-of-untoolsco-4ffk)
+- [CodeNewbie Podcast S24E3: &quot;Building Products for Everyone&quot;](https://dev.to/codenewbieteam/codenewbie-podcast-s24e3-building-products-for-everyone-4mao)
+- [Create a C# QR Code Generator &lpar;Easy&rpar; + GitHub Repository✨](https://dev.to/bytehide/create-a-c-qr-code-generator-easy-github-repository-4a61)
+- [Featured Mod of the Month: Christine Belzie](https://dev.to/devteam/featured-mod-of-the-month-christine-belzie-p09)
+- [Deploy your React, NodeJS apps using Jenkins Pipeline](https://dev.to/lovepreetsingh/deploy-your-react-nodejs-apps-using-jenkins-pipeline-22pl)
 <!-- BLOG-POST-LIST:END -->
 
