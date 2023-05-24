@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript Array and its Methods](https://dev.to/scofieldidehen/mastering-javascript-array-and-its-methods-2gb7)
 - [5 Essential Soft Skills for Developers 🚀🔥](https://dev.to/arjuncodess/5-essential-soft-skills-for-developers-33jo)
 - [[pt-BR] Fundamentos do Git, um guia completo](https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh)
 - [The State of JS](https://dev.to/basheerdotdev/the-state-of-js-266d)
-- [SaaS - Entenda o significado do termo e sua importância para o mundo do software](https://dev.to/marlonfrade/saas-entenda-o-significado-do-termo-e-sua-importancia-para-o-mundo-do-software-5hj1)
 <!-- BLOG-POST-LIST:END -->
 
