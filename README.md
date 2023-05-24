@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Virtual Office with WorkAdventure on Your Server](https://dev.to/yuki777/create-a-virtual-office-with-workadventure-on-your-server-4l1o)
 - [Chaining API requests with API Gateway](https://dev.to/apisix/chaining-api-requests-with-api-gateway-10n2)
 - [Authentication with Authguard in Ionic 4](https://dev.to/ifourtechnolab/authentication-with-authguard-in-ionic-4-d2a)
-- [Future of Change Detection in Angular with Signals](https://dev.to/this-is-angular/future-of-change-detection-in-angular-with-signals-27mm)
-- [How to write c program for addition of two number?](https://dev.to/realnamehidden1_61/how-to-write-c-program-for-addition-of-two-number-38o4)
+- [Angular: Transform your inputs at will and simply](https://dev.to/this-is-angular/angular-transform-your-inputs-at-will-and-simply-12oo)
 <!-- BLOG-POST-LIST:END -->
 
