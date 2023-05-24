@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Introducing ✨ Bose Framework - The Swiss Army Knife for Bot Developers 🤖](https://dev.to/chetanam/introducing-bose-framework-the-swiss-army-knife-for-bot-developers-10k9)
+- [RakuAST for Early Adopters](https://dev.to/lizmat/rakuast-for-early-adopters-576n)
 - [Front End Flash from AWS Amplify](https://dev.to/aws/front-end-flash-from-aws-amplify-4jah)
 - [SvelteKit Ably: Sqvuably Real-Time Game](https://dev.to/askrodney/sveltekit-ably-sqvuably-real-time-game-2fn6)
-- [CodeNewbie Podcast S24E3: &quot;Building Products for Everyone&quot;](https://dev.to/codenewbieteam/codenewbie-podcast-s24e3-building-products-for-everyone-4mao)
-- [Create a C# QR Code Generator &lpar;Easy&rpar; + GitHub Repository✨](https://dev.to/bytehide/create-a-c-qr-code-generator-easy-github-repository-4a61)
 <!-- BLOG-POST-LIST:END -->
 
