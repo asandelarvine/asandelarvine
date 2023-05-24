@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Azure Key Vault](https://dev.to/coonzee/implementing-azure-key-vault-13hl)
 - [Does NaN actually means Not-a-Number?](https://dev.to/himu243/does-nan-actually-means-not-a-number-5acf)
 - [12 Tool for Your Next Project](https://dev.to/jon_snow789/12-tool-for-your-next-project-5hbg)
 - [Typescript Code Generation](https://dev.to/rametta/typescript-code-generation-epn)
-- [Understanding the Contents of the .git Folder](https://dev.to/rajaniraiyn/understanding-the-contents-of-the-git-folder-ef)
 <!-- BLOG-POST-LIST:END -->
 
