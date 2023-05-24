@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Azure Key Vault](https://dev.to/coonzee/implementing-azure-key-vault-13hl)
-- [Does NaN actually means Not-a-Number?](https://dev.to/himu243/does-nan-actually-means-not-a-number-5acf)
-- [12 Tool for Your Next Project](https://dev.to/jon_snow789/12-tool-for-your-next-project-5hbg)
-- [Typescript Code Generation](https://dev.to/rametta/typescript-code-generation-epn)
+- [Vagas Encora &lpar;24/05/2023&rpar;](https://dev.to/rmcampos/vagas-encora-24052023-38bb)
+- [10 React Interview Questions &amp; Answers](https://dev.to/lucasjstifano/10-react-interview-questions-answers-3jb7)
+- [Exploring Next.js Server Components](https://dev.to/bobbyhalljr/exploring-nextjs-server-components-5bc9)
+- [JavaScript Object Prototypes simply explained](https://dev.to/princam/javascript-object-prototypes-simply-explained-4cno)
 <!-- BLOG-POST-LIST:END -->
 
