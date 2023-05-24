@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vagas Encora &lpar;24/05/2023&rpar;](https://dev.to/rmcampos/vagas-encora-24052023-38bb)
-- [10 React Interview Questions &amp; Answers](https://dev.to/lucasjstifano/10-react-interview-questions-answers-3jb7)
-- [Exploring Next.js Server Components](https://dev.to/bobbyhalljr/exploring-nextjs-server-components-5bc9)
-- [JavaScript Object Prototypes simply explained](https://dev.to/princam/javascript-object-prototypes-simply-explained-4cno)
+- [Ace the &quot;Tell me about a time you faced a conflict at work, and how you resolved it&quot; question in your next interview.](https://dev.to/martinkr/ace-the-tell-me-about-a-time-you-faced-a-conflict-at-work-and-how-you-resolved-it-question-in-your-next-interview-2dg7)
+- [Understanding Token Contracts in Blockchain For Non-Techie](https://dev.to/adetutu777/understanding-token-contracts-and-safeguarding-against-malicious-tokens-in-blockchain-for-non-techie-1l3i)
+- [Demystifying the Architecture of Apache Age](https://dev.to/abdulsamad4068/demystifying-the-architecture-of-apache-age-36gm)
+- [How to Convince your Project Manager/Client to let you write Unit Tests](https://dev.to/this-is-learning/how-to-convince-your-project-managerclient-to-let-you-write-unit-tests-5cje)
 <!-- BLOG-POST-LIST:END -->
 
