@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to computer vision](https://dev.to/kelechikizito/introduction-to-computer-vision-5fmf)
+- [Mastering the SET Clause in Apache AGE: A Comprehensive Guide](https://dev.to/dukeofhazardz/mastering-the-set-clause-in-apache-age-a-comprehensive-guide-8il)
 - [Quick Progress in Software Development. Part 2](https://dev.to/snowman647/quick-progress-in-software-development-part-2-4jbn)
-- [JaCoCo Coverage Badges for Multi-Module Projects in GitHub Actions](https://dev.to/cicirello/jacoco-coverage-badges-for-multi-module-projects-in-github-actions-ace)
-- [Harnessing AWS Glue for High-Volume JSON Processing 🚀](https://dev.to/inovizz/harnessing-aws-glue-for-high-volume-json-processing-gdl)
-- [What is the Lobotomized Owl Selector in CSS?](https://dev.to/salehmubashar/what-is-the-lobotomized-owl-selector-in-css-2n0g)
+- [Setting up an auto-email micro function for Firebase RTDB](https://dev.to/wra-sol/setting-up-an-auto-email-micro-function-for-firebase-rtdb-1hm2)
 <!-- BLOG-POST-LIST:END -->
 
