@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Host a Next.js Blog with AWS Amplify and Setup Automated Deployments](https://dev.to/albac/host-a-nextjs-blog-with-aws-amplify-and-setup-automated-deployments-6nl)
+- [Aplicação de Referência Empresarial em JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacao-de-referencia-empresarial-em-javascript-contoso-real-estate-23ia)
 - [AWS TURN server: In 7 Simple Steps](https://dev.to/alakkadshaw/aws-turn-server-in-7-simple-steps-226e)
-- [✨ We won one of the biggest hackathons in Toronto! ✨🥇](https://dev.to/saminarp/we-won-one-of-the-biggest-hackathons-in-toronto-2o1j)
-- [Error: listen EADDRINUSE: address already in use &lpar;JSON&rpar;](https://dev.to/keoshaug/error-listen-eaddrinuse-address-already-in-use-json-548f)
+- [The Ultimate List of Resources to Migrate off of Terraform Cloud](https://dev.to/ryan_spacelift/the-ultimate-list-of-resources-to-migrate-off-of-terraform-cloud-2ml1)
 <!-- BLOG-POST-LIST:END -->
 
