@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎤 Building the biggest list of useful open-source libraries 🎉🥳😎](https://dev.to/github20k/building-the-biggest-list-of-useful-open-source-libraries-2ppk)
-- [Learn React The Lazy Way in 2023](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-2gmm)
-- [Learn Why we call to use index with PostgreSQL](https://dev.to/nightbird07/learn-why-we-call-to-use-index-with-postgresql-4chn)
-- [Top 11 Slack Chatbots for remote work culture](https://dev.to/kpawan24/top-11-slack-chatbots-for-remote-work-culture-3ep6)
+- [Main Responsibilities and Required Skills When You Hire Typescript Developer](https://dev.to/labsquokka/main-responsibilities-and-required-skills-when-you-hire-typescript-developer-5bfo)
+- [All You Need To Know About Web 3.0 And Blockchain](https://dev.to/tech_olaide/all-you-need-to-know-about-web-30-and-blockchain-48lj)
+- [Linux Sistemler İçin Kurumsal DNS Kayıtlarının Kontrolü ve Düzenlenmesi](https://dev.to/aciklab/linux-sistemler-icin-kurumsal-dns-kayitlarinin-kontrolu-ve-duzenlenmesi-2epe)
+- [Monitor and Visualize Nginx Ingress Controller Metrics on Amazon EKS with Prometheus &amp; Grafana](https://dev.to/aws-builders/monitor-and-visualize-nginx-ingress-controller-metrics-on-amazon-eks-with-prometheus-grafana-5gn7)
 <!-- BLOG-POST-LIST:END -->
 
