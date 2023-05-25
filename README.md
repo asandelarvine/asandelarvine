@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Data Residency - the demo](https://dev.to/apisix/managing-data-residency-the-demo-2cpi)
-- [Best Career Options to Consider after Graduating in Computer Science in 2023](https://dev.to/aartiyadav/best-career-options-to-consider-after-graduating-in-computer-science-in-2023-7mj)
-- [Make your cool commands in terminal](https://dev.to/arshamalh/make-your-cool-commands-in-terminal-93o)
-- [Sistem Firewall Kuralları : UFW ve Firewalld](https://dev.to/aciklab/sistem-firewall-kurallari-ufw-ve-firewalld-2ll6)
+- [Navigating a new Code Basis as a Newbie](https://dev.to/jessica_veit/navigating-a-new-code-basis-as-a-newbie-1aab)
+- [Building a Strong Foundation: Mastering Essential Technologies for Data Analysis Careers](https://dev.to/grayhat/building-a-strong-foundation-mastering-essential-technologies-for-data-analysis-careers-3ldi)
+- [Responsive Web Design](https://dev.to/hi_iam_chris/responsive-web-design-iol)
+- [Where does Security sit in Early-Stage Software Development: the Shift Left Approach](https://dev.to/stateofdevnation/where-does-security-sit-in-early-stage-software-development-the-shift-left-approach-33gl)
 <!-- BLOG-POST-LIST:END -->
 
