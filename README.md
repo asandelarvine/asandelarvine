@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Can We Integrate Accessibility Into Our Coding Toolkits?: CodeNewbie Podcast](https://dev.to/codenewbieteam/how-can-we-integrate-accessibility-into-our-coding-toolkits-codenewbie-podcast-4e1j)
+- [Will chatgpt replace web developers?](https://dev.to/rafikadir/will-chatgpt-replace-web-developers-54ac)
+- [Bubble Sort](https://dev.to/fabriziobagala/bubble-sort-4297)
 - [Using useMutation to make an advanced toggle in React](https://dev.to/propelauth/using-usemutation-to-make-an-advanced-toggle-in-react-3dnp)
-- [Share the most embarrassing code you&#39;ve ever written](https://dev.to/peter/share-the-most-embarrassing-code-youve-ever-written-3c9n)
-- [ESP32 Embedded Rust at the HAL: Analog Temperature Sensing using the ADC](https://dev.to/apollolabsbin/esp32-embedded-rust-at-the-hal-analog-temperature-sensing-using-the-adc-3106)
-- [It&#39;s True, Following the Ethernet Cable Can Lead to Your Location: Just One Picture is Enough](https://dev.to/he3tools/its-true-following-the-ethernet-cable-can-lead-to-your-location-just-one-picture-is-enough-5a7n)
 <!-- BLOG-POST-LIST:END -->
 
