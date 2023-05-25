@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: How Do You Balance Values and Professional Work?](https://dev.to/devteam/sloans-inbox-how-do-you-balance-values-and-professional-work-1f6p)
-- [How Do You Balance Passion Projects &amp; Professional Commitments?](https://dev.to/devteam/how-do-you-balance-passion-projects-professional-commitments-59c5)
-- [How Do You Ace Your Tech Job Cover Letter?](https://dev.to/codenewbieteam/how-do-you-ace-your-tech-job-cover-letter-30c6)
-- [Roles of Python Programming Language to Build Real Estate Website](https://dev.to/amanmishrausa/roles-of-python-programming-language-to-build-real-estate-website-31g9)
+- [Managing Data Residency - the demo](https://dev.to/apisix/managing-data-residency-the-demo-2cpi)
+- [Best Career Options to Consider after Graduating in Computer Science in 2023](https://dev.to/aartiyadav/best-career-options-to-consider-after-graduating-in-computer-science-in-2023-7mj)
+- [Make your cool commands in terminal](https://dev.to/arshamalh/make-your-cool-commands-in-terminal-93o)
+- [Sistem Firewall Kuralları : UFW ve Firewalld](https://dev.to/aciklab/sistem-firewall-kurallari-ufw-ve-firewalld-2ll6)
 <!-- BLOG-POST-LIST:END -->
 
