@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can We Integrate Accessibility Into Our Coding Toolkits?: CodeNewbie Podcast](https://dev.to/codenewbieteam/how-can-we-integrate-accessibility-into-our-coding-toolkits-codenewbie-podcast-4e1j)
-- [Will chatgpt replace web developers?](https://dev.to/rafikadir/will-chatgpt-replace-web-developers-54ac)
-- [Bubble Sort](https://dev.to/fabriziobagala/bubble-sort-4297)
-- [Using useMutation to make an advanced toggle in React](https://dev.to/propelauth/using-usemutation-to-make-an-advanced-toggle-in-react-3dnp)
+- [How to Deploy a Three tier web application in 2 different ways](https://dev.to/aybims/how-to-deploy-a-three-tier-web-application-in-2-different-ways-2fpi)
+- [How to create a Virtual Machine and Resource Group using Azure Powershell](https://dev.to/coonzee/how-to-create-a-virtual-machine-and-resource-group-using-azure-powershell-1oo8)
+- [Meet Boxy, Your New AI Coding Assistant](https://dev.to/codesandboxio/meet-boxy-your-new-ai-coding-assistant-161e)
+- [Parsing multiline logs using a custom Fluent Bit configuration](https://dev.to/newrelic/parsing-multiline-logs-using-a-custom-fluent-bit-configuration-3oio)
 <!-- BLOG-POST-LIST:END -->
 
