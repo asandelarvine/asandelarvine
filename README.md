@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Journey Migrating Logto SDK Sample to Next.js 13 App Router](https://dev.to/logto/our-journey-migrating-logto-sdk-sample-to-nextjs-13-app-router-1768)
 - [Optimise your code with these 5 JavaScript best practices 🚀🔥](https://dev.to/arjuncodess/optimise-your-code-with-these-5-javascript-best-practices-a01)
 - [Service Workers](https://dev.to/anuradha9712/service-workers-4h58)
 - [Resolving Session Saving Issue for Social Login in NodeJS Application](https://dev.to/mochafreddo/resolving-session-saving-issue-for-social-login-in-nodejs-application-29hl)
-- [Host a Next.js Blog with AWS Amplify and Setup Automated Deployments](https://dev.to/albac/host-a-nextjs-blog-with-aws-amplify-and-setup-automated-deployments-6nl)
 <!-- BLOG-POST-LIST:END -->
 
