@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimise your code with these 5 JavaScript best practices 🚀🔥](https://dev.to/arjuncodess/optimise-your-code-with-these-5-javascript-best-practices-a01)
+- [Service Workers](https://dev.to/anuradha9712/service-workers-4h58)
+- [Resolving Session Saving Issue for Social Login in NodeJS Application](https://dev.to/mochafreddo/resolving-session-saving-issue-for-social-login-in-nodejs-application-29hl)
 - [Host a Next.js Blog with AWS Amplify and Setup Automated Deployments](https://dev.to/albac/host-a-nextjs-blog-with-aws-amplify-and-setup-automated-deployments-6nl)
-- [Aplicação de Referência Empresarial em JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacao-de-referencia-empresarial-em-javascript-contoso-real-estate-23ia)
-- [AWS TURN server: In 7 Simple Steps](https://dev.to/alakkadshaw/aws-turn-server-in-7-simple-steps-226e)
-- [The Ultimate List of Resources to Migrate off of Terraform Cloud](https://dev.to/ryan_spacelift/the-ultimate-list-of-resources-to-migrate-off-of-terraform-cloud-2ml1)
 <!-- BLOG-POST-LIST:END -->
 
