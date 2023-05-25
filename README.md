@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 11 Slack Chatbots for remote work culture](https://dev.to/kpawan24/top-11-slack-chatbots-for-remote-work-culture-3ep6)
 - [Navigating a new Code Basis as a Newbie](https://dev.to/jessica_veit/navigating-a-new-code-basis-as-a-newbie-1aab)
 - [Building a Strong Foundation: Mastering Essential Technologies for Data Analysis Careers](https://dev.to/grayhat/building-a-strong-foundation-mastering-essential-technologies-for-data-analysis-careers-3ldi)
 - [Responsive Web Design](https://dev.to/hi_iam_chris/responsive-web-design-iol)
-- [Where does Security sit in Early-Stage Software Development: the Shift Left Approach](https://dev.to/stateofdevnation/where-does-security-sit-in-early-stage-software-development-the-shift-left-approach-33gl)
 <!-- BLOG-POST-LIST:END -->
 
