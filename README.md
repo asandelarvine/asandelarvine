@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting Custom Furniture and Seamless Database Queries: Unlocking the Power of the Builder Design Pattern](https://dev.to/asifzcpe/crafting-custom-furniture-and-seamless-database-queries-unlocking-the-power-of-the-builder-design-pattern-20f6)
+- [Creating a Node.js web app service and SQL Database in Azure](https://dev.to/lomosa/creating-a-nodejs-web-app-service-and-sql-database-in-azure-54ef)
 - [How to Deploy a Three tier web application in 2 different ways](https://dev.to/aybims/how-to-deploy-a-three-tier-web-application-in-2-different-ways-2fpi)
 - [How to create a Virtual Machine and Resource Group using Azure Powershell](https://dev.to/coonzee/how-to-create-a-virtual-machine-and-resource-group-using-azure-powershell-1oo8)
-- [Meet Boxy, Your New AI Coding Assistant](https://dev.to/codesandboxio/meet-boxy-your-new-ai-coding-assistant-161e)
-- [Parsing multiline logs using a custom Fluent Bit configuration](https://dev.to/newrelic/parsing-multiline-logs-using-a-custom-fluent-bit-configuration-3oio)
 <!-- BLOG-POST-LIST:END -->
 
