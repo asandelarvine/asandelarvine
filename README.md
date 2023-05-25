@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to computer vision](https://dev.to/kelechikizito/introduction-to-computer-vision-5fmf)
 - [Mastering the SET Clause in Apache AGE: A Comprehensive Guide](https://dev.to/dukeofhazardz/mastering-the-set-clause-in-apache-age-a-comprehensive-guide-8il)
+- [Why Rust](https://dev.to/thearchivist/why-rust-2n6k)
 - [Quick Progress in Software Development. Part 2](https://dev.to/snowman647/quick-progress-in-software-development-part-2-4jbn)
-- [Setting up an auto-email micro function for Firebase RTDB](https://dev.to/wra-sol/setting-up-an-auto-email-micro-function-for-firebase-rtdb-1hm2)
 <!-- BLOG-POST-LIST:END -->
 
