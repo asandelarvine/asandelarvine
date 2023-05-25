@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Main Responsibilities and Required Skills When You Hire Typescript Developer](https://dev.to/labsquokka/main-responsibilities-and-required-skills-when-you-hire-typescript-developer-5bfo)
-- [All You Need To Know About Web 3.0 And Blockchain](https://dev.to/tech_olaide/all-you-need-to-know-about-web-30-and-blockchain-48lj)
-- [Linux Sistemler İçin Kurumsal DNS Kayıtlarının Kontrolü ve Düzenlenmesi](https://dev.to/aciklab/linux-sistemler-icin-kurumsal-dns-kayitlarinin-kontrolu-ve-duzenlenmesi-2epe)
-- [Monitor and Visualize Nginx Ingress Controller Metrics on Amazon EKS with Prometheus &amp; Grafana](https://dev.to/aws-builders/monitor-and-visualize-nginx-ingress-controller-metrics-on-amazon-eks-with-prometheus-grafana-5gn7)
+- [Kubernetes vs Docker](https://dev.to/refine/kubernetes-vs-docker-2li9)
+- [How to schedule python script in EC2 instance?](https://dev.to/wpsyed/how-to-schedule-python-script-in-ec2-instance-1bml)
+- [👀Aim+LlamaIndex: Track intermediate prompts, responses, and context chunks through Aim’s sophisticated UI.](https://dev.to/tatyana/aimllamaindex-track-intermediate-prompts-responses-and-context-chunks-through-aims-sophisticated-ui-3k6p)
+- [Code Like a Craftsman: Best Practices for Writing Elegant and Maintainable Code](https://dev.to/raxraj/code-like-a-craftsman-best-practices-for-writing-elegant-and-maintainable-code-2l0f)
 <!-- BLOG-POST-LIST:END -->
 
