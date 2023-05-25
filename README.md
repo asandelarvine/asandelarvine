@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Host a Next.js Blog with AWS Amplify and Setup Automated Deployments](https://dev.to/albac/host-a-nextjs-blog-with-aws-amplify-and-setup-automated-deployments-6nl)
 - [AWS TURN server: In 7 Simple Steps](https://dev.to/alakkadshaw/aws-turn-server-in-7-simple-steps-226e)
 - [✨ We won one of the biggest hackathons in Toronto! ✨🥇](https://dev.to/saminarp/we-won-one-of-the-biggest-hackathons-in-toronto-2o1j)
 - [Error: listen EADDRINUSE: address already in use &lpar;JSON&rpar;](https://dev.to/keoshaug/error-listen-eaddrinuse-address-already-in-use-json-548f)
-- [Building and deploying a web API powered by ChatGPT](https://dev.to/ruarfff/building-and-deploying-a-web-api-powered-by-chatgpt-3og9)
 <!-- BLOG-POST-LIST:END -->
 
