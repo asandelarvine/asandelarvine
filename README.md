@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java turns 28](https://dev.to/sendilkumarn/java-turns-28-enm)
-- [Lesser Known Features of DEV — Embedding Call To Action &lpar;CTA&rpar; Buttons](https://dev.to/devteam/lesser-known-features-of-dev-embedding-call-to-action-cta-buttons-2gni)
-- [🗑 Don’t Waste Your Time Learning These Programming Skills](https://dev.to/evergrowingdev/dont-waste-your-time-learning-these-programming-skills-6eg)
-- [Kubernetes vs Docker](https://dev.to/refine/kubernetes-vs-docker-2li9)
+- [30 Programming YouTubers You Need to Subscribe To](https://dev.to/hb/30-programming-youtubers-you-need-to-subscribe-to-4gg)
+- [One Month Post Product Hunt Launch: An Honest Review of Azimutt.app launch](https://dev.to/sbo/one-month-post-product-hunt-launch-an-honest-review-of-azimuttapp-launch-24dp)
+- [7 Awesome VS Code Extensions You Should Try](https://dev.to/nitinfab/7-awesome-vs-code-extensions-you-should-try-1jfj)
+- [Entenda os tipos de licença open source e saiba qual usa nos seus projeto](https://dev.to/github/entenda-os-tipos-de-licenca-open-source-e-saiba-qual-usa-nos-seus-projeto-1ng)
 <!-- BLOG-POST-LIST:END -->
 
