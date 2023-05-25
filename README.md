@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [30 Programming YouTubers You Need to Subscribe To](https://dev.to/hb/30-programming-youtubers-you-need-to-subscribe-to-4gg)
-- [One Month Post Product Hunt Launch: An Honest Review of Azimutt.app launch](https://dev.to/sbo/one-month-post-product-hunt-launch-an-honest-review-of-azimuttapp-launch-24dp)
-- [7 Awesome VS Code Extensions You Should Try](https://dev.to/nitinfab/7-awesome-vs-code-extensions-you-should-try-1jfj)
-- [Entenda os tipos de licença open source e saiba qual usa nos seus projeto](https://dev.to/github/entenda-os-tipos-de-licenca-open-source-e-saiba-qual-usa-nos-seus-projeto-1ng)
+- [Using useMutation to make an advanced toggle in React](https://dev.to/propelauth/using-usemutation-to-make-an-advanced-toggle-in-react-3dnp)
+- [Share the most embarrassing code you&#39;ve ever written](https://dev.to/peter/share-the-most-embarrassing-code-youve-ever-written-3c9n)
+- [ESP32 Embedded Rust at the HAL: Analog Temperature Sensing using the ADC](https://dev.to/apollolabsbin/esp32-embedded-rust-at-the-hal-analog-temperature-sensing-using-the-adc-3106)
+- [It&#39;s True, Following the Ethernet Cable Can Lead to Your Location: Just One Picture is Enough](https://dev.to/he3tools/its-true-following-the-ethernet-cable-can-lead-to-your-location-just-one-picture-is-enough-5a7n)
 <!-- BLOG-POST-LIST:END -->
 
