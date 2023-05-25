@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Java turns 28](https://dev.to/sendilkumarn/java-turns-28-enm)
+- [Lesser Known Features of DEV — Embedding Call To Action &lpar;CTA&rpar; Buttons](https://dev.to/devteam/lesser-known-features-of-dev-embedding-call-to-action-cta-buttons-2gni)
+- [🗑 Don’t Waste Your Time Learning These Programming Skills](https://dev.to/evergrowingdev/dont-waste-your-time-learning-these-programming-skills-6eg)
 - [Kubernetes vs Docker](https://dev.to/refine/kubernetes-vs-docker-2li9)
-- [How to schedule python script in EC2 instance?](https://dev.to/wpsyed/how-to-schedule-python-script-in-ec2-instance-1bml)
-- [👀Aim+LlamaIndex: Track intermediate prompts, responses, and context chunks through Aim’s sophisticated UI.](https://dev.to/tatyana/aimllamaindex-track-intermediate-prompts-responses-and-context-chunks-through-aims-sophisticated-ui-3k6p)
-- [Code Like a Craftsman: Best Practices for Writing Elegant and Maintainable Code](https://dev.to/raxraj/code-like-a-craftsman-best-practices-for-writing-elegant-and-maintainable-code-2l0f)
 <!-- BLOG-POST-LIST:END -->
 
