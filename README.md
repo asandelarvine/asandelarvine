@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Custom Furniture and Seamless Database Queries: Unlocking the Power of the Builder Design Pattern](https://dev.to/asifzcpe/crafting-custom-furniture-and-seamless-database-queries-unlocking-the-power-of-the-builder-design-pattern-20f6)
-- [Creating a Node.js web app service and SQL Database in Azure](https://dev.to/lomosa/creating-a-nodejs-web-app-service-and-sql-database-in-azure-54ef)
-- [How to Deploy a Three tier web application in 2 different ways](https://dev.to/aybims/how-to-deploy-a-three-tier-web-application-in-2-different-ways-2fpi)
-- [How to create a Virtual Machine and Resource Group using Azure Powershell](https://dev.to/coonzee/how-to-create-a-virtual-machine-and-resource-group-using-azure-powershell-1oo8)
+- [Quick Progress in Software Development. Part 2](https://dev.to/snowman647/quick-progress-in-software-development-part-2-4jbn)
+- [JaCoCo Coverage Badges for Multi-Module Projects in GitHub Actions](https://dev.to/cicirello/jacoco-coverage-badges-for-multi-module-projects-in-github-actions-ace)
+- [Harnessing AWS Glue for High-Volume JSON Processing 🚀](https://dev.to/inovizz/harnessing-aws-glue-for-high-volume-json-processing-gdl)
+- [What is the Lobotomized Owl Selector in CSS?](https://dev.to/salehmubashar/what-is-the-lobotomized-owl-selector-in-css-2n0g)
 <!-- BLOG-POST-LIST:END -->
 
