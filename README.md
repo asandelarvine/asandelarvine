@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Journey Migrating Logto SDK Sample to Next.js 13 App Router](https://dev.to/logto/our-journey-migrating-logto-sdk-sample-to-nextjs-13-app-router-1768)
-- [Optimise your code with these 5 JavaScript best practices 🚀🔥](https://dev.to/arjuncodess/optimise-your-code-with-these-5-javascript-best-practices-a01)
-- [Service Workers](https://dev.to/anuradha9712/service-workers-4h58)
-- [Resolving Session Saving Issue for Social Login in NodeJS Application](https://dev.to/mochafreddo/resolving-session-saving-issue-for-social-login-in-nodejs-application-29hl)
+- [Sloan&#39;s Inbox: How Do You Balance Values and Professional Work?](https://dev.to/devteam/sloans-inbox-how-do-you-balance-values-and-professional-work-1f6p)
+- [How Do You Balance Passion Projects &amp; Professional Commitments?](https://dev.to/devteam/how-do-you-balance-passion-projects-professional-commitments-59c5)
+- [How Do You Ace Your Tech Job Cover Letter?](https://dev.to/codenewbieteam/how-do-you-ace-your-tech-job-cover-letter-30c6)
+- [Roles of Python Programming Language to Build Real Estate Website](https://dev.to/amanmishrausa/roles-of-python-programming-language-to-build-real-estate-website-31g9)
 <!-- BLOG-POST-LIST:END -->
 
