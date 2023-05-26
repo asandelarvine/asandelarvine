@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Tailwind Component Libraries](https://dev.to/apestein/top-5-tailwind-component-libraries-m0c)
 - [Introduction to computer vision](https://dev.to/kelechikizito/introduction-to-computer-vision-5fmf)
 - [Mastering the SET Clause in Apache AGE: A Comprehensive Guide](https://dev.to/dukeofhazardz/mastering-the-set-clause-in-apache-age-a-comprehensive-guide-8il)
 - [Why Rust](https://dev.to/thearchivist/why-rust-2n6k)
-- [Quick Progress in Software Development. Part 2](https://dev.to/snowman647/quick-progress-in-software-development-part-2-4jbn)
 <!-- BLOG-POST-LIST:END -->
 
