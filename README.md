@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Tuple Types: The What, Why, and How](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
+- [Promesas en JavaScript](https://dev.to/ulisesserranop/promesas-en-javascript-8oe)
 - [Who&#39;s looking for open source contributors? &lpar;week 43&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-42-o88)
 - [2667. LeetCode&#39;s Create Hello World Function - Extremely Simple One line JS Solution Beats 99% in Runtime](https://dev.to/verisimilitudex/2667-leetcodes-create-hello-world-function-extremely-simple-one-line-js-solution-beats-99-in-runtime-3gf6)
-- [Demystifying JavaScript Functions: A Guide to Function Types](https://dev.to/abomisr/demystifying-javascript-functions-a-guide-to-function-types-5b4e)
-- [Top ZK Rollup Projects of 2023: Review](https://dev.to/getblockapi/top-zk-rollup-projects-of-2023-review-281m)
 <!-- BLOG-POST-LIST:END -->
 
