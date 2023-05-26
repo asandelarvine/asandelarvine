@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Questions Should New Coders Ask to Find the Right Employer Fit?](https://dev.to/codenewbieteam/what-questions-should-new-coders-ask-to-find-the-right-employer-fit-51d)
+- [Tech Taboo: What&#39;s A Tech Trend You Just Can&#39;t Get Behind?](https://dev.to/devteam/tech-taboo-whats-a-tech-trend-you-just-cant-get-behind-2d45)
 - [The Top Rails Gems for Cybersecurity Applications You Should Know About](https://dev.to/rachgrey/the-top-rails-gems-for-cybersecurity-applications-you-should-know-about-131g)
-- [1757. LeetCode&#39;s Recyclable and Low-Fat Products Solution - Simple &amp; Logical SQL Command](https://dev.to/verisimilitudex/1757-leetcodes-recyclable-and-low-fat-products-solution-simple-logical-sql-command-5eja)
-- [Leveraging Elastic Kubernetes Service for Scalable Deployments](https://dev.to/mutuwa99/leveraging-elastic-kubernetes-service-for-scalable-deployments-280g)
-- [118. LeetCode&#39;s Pascal&#39;s Triangle - Extremely Simple Logic Solution Beats 96% of Java Solutions in Memory &amp; Runtime](https://dev.to/verisimilitudex/pascals-triangle-extremely-simple-logic-solution-beats-96-of-java-solutions-in-memory-runtime-326e)
+- [The only correct approach for UTF-8 strings in Perl](https://dev.to/yukikimoto/the-only-correct-approach-for-utf-8-strings-in-perl-3ghj)
 <!-- BLOG-POST-LIST:END -->
 
