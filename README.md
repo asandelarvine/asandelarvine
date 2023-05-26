@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top Rails Gems for Cybersecurity Applications You Should Know About](https://dev.to/rachgrey/the-top-rails-gems-for-cybersecurity-applications-you-should-know-about-131g)
+- [1757. LeetCode&#39;s Recyclable and Low-Fat Products Solution - Simple &amp; Logical SQL Command](https://dev.to/verisimilitudex/1757-leetcodes-recyclable-and-low-fat-products-solution-simple-logical-sql-command-5eja)
 - [Leveraging Elastic Kubernetes Service for Scalable Deployments](https://dev.to/mutuwa99/leveraging-elastic-kubernetes-service-for-scalable-deployments-280g)
-- [Pascal&#39;s Triangle - Extremely Simple Logic Solution Beats 96% of Java Solutions in Memory &amp; Runtime](https://dev.to/verisimilitudex/pascals-triangle-extremely-simple-logic-solution-beats-96-of-java-solutions-in-memory-runtime-326e)
-- [My favorite free Flutter and Dart courses for 2023](https://dev.to/javinpaul/my-favorite-free-flutter-and-dart-courses-for-2023-56ak)
-- [Exploring Real-Time Communication with SignalR and .NET Core](https://dev.to/bhavin9920/exploring-real-time-communication-with-signalr-and-net-core-4f7d)
+- [118. LeetCode&#39;s Pascal&#39;s Triangle - Extremely Simple Logic Solution Beats 96% of Java Solutions in Memory &amp; Runtime](https://dev.to/verisimilitudex/pascals-triangle-extremely-simple-logic-solution-beats-96-of-java-solutions-in-memory-runtime-326e)
 <!-- BLOG-POST-LIST:END -->
 
