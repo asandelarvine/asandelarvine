@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginners guide to GitOps and Flux](https://dev.to/danielfavour/beginners-guide-to-gitops-and-flux-1di9)
 - [The Best Icon Library for Web Development](https://dev.to/brojenuel/the-best-icon-library-for-web-development-pl0)
 - [Effective Techniques for Code Review in Software Engineering](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
 - [Optimizing Cloud Infrastructure for Efficient DevOps Workflows](https://dev.to/serverspace/optimizing-cloud-infrastructure-for-efficient-devops-workflows-1l0d)
-- [Understanding the Basics: An Introductory Guide to Cloud Infrastructure for DevOps Engineers](https://dev.to/serverspace/understanding-the-basics-an-introductory-guide-to-cloud-infrastructure-for-devops-engineers-1d4o)
 <!-- BLOG-POST-LIST:END -->
 
