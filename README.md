@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Reading: Top 10 Programming Books You Shouldn&#39;t Miss 🚀🔥](https://dev.to/arjuncodess/essential-reading-top-10-programming-books-you-shouldnt-miss-2ped)
-- [20 Essential Python Extensions for Visual Studio Code](https://dev.to/scofieldidehen/20-essential-python-extensions-for-visual-studio-code-c5b)
-- [Top 5 Tailwind Component Libraries](https://dev.to/apestein/top-5-tailwind-component-libraries-m0c)
-- [Mastering Frontend Development: Essential Skills and Best Practices](https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741)
+- [Leveraging Elastic Kubernetes Service for Scalable Deployments](https://dev.to/mutuwa99/leveraging-elastic-kubernetes-service-for-scalable-deployments-280g)
+- [Pascal&#39;s Triangle - Extremely Simple Logic Solution Beats 96% of Java Solutions in Memory &amp; Runtime](https://dev.to/verisimilitudex/pascals-triangle-extremely-simple-logic-solution-beats-96-of-java-solutions-in-memory-runtime-326e)
+- [My favorite free Flutter and Dart courses for 2023](https://dev.to/javinpaul/my-favorite-free-flutter-and-dart-courses-for-2023-56ak)
+- [Exploring Real-Time Communication with SignalR and .NET Core](https://dev.to/bhavin9920/exploring-real-time-communication-with-signalr-and-net-core-4f7d)
 <!-- BLOG-POST-LIST:END -->
 
