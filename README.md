@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to apply different Themes on WPF Application?](https://dev.to/ifourtechnolab/how-to-apply-different-themes-on-wpf-application-3582)
+- [Git and GitHub for Beginners](https://dev.to/krishnaagarwal/git-and-github-for-beginners-3ino)
+- [How to Connect a FastAPI Server to PostgreSQL and Deploy on GCP Cloud Run](https://dev.to/glennviroux/how-to-connect-a-fastapi-server-to-postgresql-and-deploy-on-gcp-cloud-run-4l5h)
 - [Crafting a modern spotlight effect with React and CSS](https://dev.to/ibelick/crafting-a-modern-spotlight-effect-with-react-and-css-h1h)
-- [Getting Started with the MATCH Clause in Apache Age](https://dev.to/shaheen/getting-started-with-the-match-clause-in-apache-age-3kbo)
-- [Understanding the impact of Python variable assignment technique using the Fibonacci sequence](https://dev.to/alwoch/understanding-the-impact-of-python-variable-assignment-technique-using-the-fibonacci-sequence-3pk7)
-- [Learn serverless on AWS step-by-step - Emails](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)
 <!-- BLOG-POST-LIST:END -->
 
