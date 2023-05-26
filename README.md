@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Flutter Apps are built with Dart 3?](https://dev.to/fluttershark/what-flutter-apps-are-built-with-dart-3-6ke)
-- [Single-Digit Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-4gfc)
-- [#DEVDiscuss: Developer Portfolios](https://dev.to/devteam/devdiscuss-developer-portfolios-24i3)
-- [Configuração do Windows para desenvolvimento](https://dev.to/1cadumagalhaes/configuracao-do-windows-para-desenvolvimento-blk)
+- [It&#39;s been a year. Time to make an app](https://dev.to/xarop_pa_toss/its-been-a-year-time-to-make-an-app-3hak)
+- [Day 115 of Coding: Improving Authentication and Exploring Nested Data Structures](https://dev.to/arashjangali/day-115-of-coding-improving-authentication-and-exploring-nested-data-structures-2jpn)
+- [From Twitter Spaces to Independent Artists: Leading Org-Based Innovation](https://dev.to/linearb/from-twitter-spaces-to-independent-artists-leading-org-based-innovation-2pnk)
+- [Introduction to Open Source](https://dev.to/eskayml/introduction-to-open-source-4gae)
 <!-- BLOG-POST-LIST:END -->
 
