@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is new in ES2023? 👀](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)
+- [#DEVDiscuss: Developer Portfolios](https://dev.to/devteam/devdiscuss-developer-portfolios-24i3)
+- [What&#39;s new in ES2023? 👀](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)
 - [Using SVG in react native.](https://dev.to/wilmela/using-svg-in-react-native-5a9o)
 - [TypeScript Tuple Types: The What, Why, and How](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
-- [Promesas en JavaScript](https://dev.to/ulisesserranop/promesas-en-javascript-8oe)
 <!-- BLOG-POST-LIST:END -->
 
