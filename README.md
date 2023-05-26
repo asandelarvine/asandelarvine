@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Essential Python Extensions for Visual Studio Code](https://dev.to/scofieldidehen/20-essential-python-extensions-for-visual-studio-code-c5b)
 - [Top 5 Tailwind Component Libraries](https://dev.to/apestein/top-5-tailwind-component-libraries-m0c)
 - [Mastering Frontend Development: Essential Skills and Best Practices](https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741)
 - [Introduction to computer vision](https://dev.to/kelechikizito/introduction-to-computer-vision-5fmf)
-- [Mastering the SET Clause in Apache AGE: A Comprehensive Guide](https://dev.to/dukeofhazardz/mastering-the-set-clause-in-apache-age-a-comprehensive-guide-8il)
 <!-- BLOG-POST-LIST:END -->
 
