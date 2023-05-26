@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with the MATCH Clause in Apache Age](https://dev.to/shaheen/getting-started-with-the-match-clause-in-apache-age-3kbo)
+- [Understanding the impact of Python variable assignment technique using the Fibonacci sequence](https://dev.to/alwoch/understanding-the-impact-of-python-variable-assignment-technique-using-the-fibonacci-sequence-3pk7)
 - [Learn serverless on AWS step-by-step - Emails](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)
 - [Key Concepts in Coding](https://dev.to/garrywilliams/key-concepts-in-coding-14lb)
-- [An Introduction to Key Services for Cloud Success](https://dev.to/prasadkpd/an-introduction-to-key-services-for-cloud-success-2n3d)
-- [10x Query Performance with a Database Index](https://dev.to/dbvismarketing/10x-query-performance-with-a-database-index-5406)
 <!-- BLOG-POST-LIST:END -->
 
