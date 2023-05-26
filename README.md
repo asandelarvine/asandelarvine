@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Reading: Top 10 Programming Books You Shouldn&#39;t Miss 🚀🔥](https://dev.to/arjuncodess/essential-reading-top-10-programming-books-you-shouldnt-miss-2ped)
 - [20 Essential Python Extensions for Visual Studio Code](https://dev.to/scofieldidehen/20-essential-python-extensions-for-visual-studio-code-c5b)
 - [Top 5 Tailwind Component Libraries](https://dev.to/apestein/top-5-tailwind-component-libraries-m0c)
 - [Mastering Frontend Development: Essential Skills and Best Practices](https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741)
-- [Introduction to computer vision](https://dev.to/kelechikizito/introduction-to-computer-vision-5fmf)
 <!-- BLOG-POST-LIST:END -->
 
