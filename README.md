@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Questions Should New Coders Ask to Find the Right Employer Fit?](https://dev.to/codenewbieteam/what-questions-should-new-coders-ask-to-find-the-right-employer-fit-51d)
-- [Tech Taboo: What&#39;s A Tech Trend You Just Can&#39;t Get Behind?](https://dev.to/devteam/tech-taboo-whats-a-tech-trend-you-just-cant-get-behind-2d45)
-- [The Top Rails Gems for Cybersecurity Applications You Should Know About](https://dev.to/rachgrey/the-top-rails-gems-for-cybersecurity-applications-you-should-know-about-131g)
-- [The only correct approach for UTF-8 strings in Perl](https://dev.to/yukikimoto/the-only-correct-approach-for-utf-8-strings-in-perl-3ghj)
+- [Learn serverless on AWS step-by-step - Emails](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)
+- [Key Concepts in Coding](https://dev.to/garrywilliams/key-concepts-in-coding-14lb)
+- [An Introduction to Key Services for Cloud Success](https://dev.to/prasadkpd/an-introduction-to-key-services-for-cloud-success-2n3d)
+- [10x Query Performance with a Database Index](https://dev.to/dbvismarketing/10x-query-performance-with-a-database-index-5406)
 <!-- BLOG-POST-LIST:END -->
 
