@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Flutter Apps are built with Dart 3?](https://dev.to/fluttershark/what-flutter-apps-are-built-with-dart-3-6ke)
+- [Single-Digit Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-4gfc)
 - [#DEVDiscuss: Developer Portfolios](https://dev.to/devteam/devdiscuss-developer-portfolios-24i3)
-- [What&#39;s new in ES2023? 👀](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)
-- [Using SVG in react native.](https://dev.to/wilmela/using-svg-in-react-native-5a9o)
-- [TypeScript Tuple Types: The What, Why, and How](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
+- [Configuração do Windows para desenvolvimento](https://dev.to/1cadumagalhaes/configuracao-do-windows-para-desenvolvimento-blk)
 <!-- BLOG-POST-LIST:END -->
 
