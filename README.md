@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Do I Need To Know About Large Language Models?](https://dev.to/codenewbieteam/what-do-i-need-to-know-about-large-language-models-1i2n)
+- [Express.js Server Error Handling Explained](https://dev.to/code_black/expressjs-server-error-handling-explained-2e4d)
+- [How to Build a Choropleth Map in JavaScript](https://dev.to/andreykh1985/how-to-build-a-choropleth-map-in-javascript-1672)
 - [50 C# &lpar;Advanced&rpar; Optimization Performance Tips🔥](https://dev.to/bytehide/50-c-advanced-optimization-performance-tips-18l2)
-- [Critter Corner #2 - Share Your Beloved Animal Friends! 🐾](https://dev.to/codenewbieteam/critter-corner-2-share-your-beloved-animal-friends-1coa)
-- [Beginners guide to GitOps and Flux](https://dev.to/danielfavour/beginners-guide-to-gitops-and-flux-1di9)
-- [The Best Icon Library for Web Development](https://dev.to/brojenuel/the-best-icon-library-for-web-development-pl0)
 <!-- BLOG-POST-LIST:END -->
 
