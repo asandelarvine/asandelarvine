@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Django ORM](https://dev.to/vincod/django-orm-3gi2)
+- [🚀 GraphQL: Revolutionizing Data Communication! 💻🔥](https://dev.to/tsarthur/graphql-revolutionizing-data-communication-4gof)
+- [5 free website hosting platforms for your next project](https://dev.to/vishnusatheesh/5-static-website-hosting-platforms-for-your-next-project-2ahf)
 - [Simplify Your Documentation Workflow with MkDocs: A Markdown-based Alternative to Sphinx](https://dev.to/coderatul/simplify-your-documentation-workflow-with-mkdocs-a-markdown-based-alternative-to-sphinx-365j)
-- [Is It Burnout or Job Dissatisfaction?](https://dev.to/devteam/is-it-burnout-or-job-dissatisfaction-3l4b)
-- [Coding Companions: Which Animal Is Your Perfect Coding Mascot?](https://dev.to/codenewbieteam/coding-companions-which-animal-is-your-perfect-coding-mascot-17ib)
-- [How to print “Hello” in C without using a semicolon?](https://dev.to/realnamehidden1_61/how-to-print-hello-in-c-without-using-a-semicolon-5geb)
 <!-- BLOG-POST-LIST:END -->
 
