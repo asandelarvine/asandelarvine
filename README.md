@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7)
+- [RAID Explained](https://dev.to/pheianox/raid-explained-178f)
 - [Install tool easy by Toolbox](https://dev.to/milkcoke/install-tool-easy-by-toolbox-13o1)
-- [Sorting complex objects with custom criteria in Python](https://dev.to/renzhamin/sorting-complex-objects-with-custom-criteria-in-python-i89)
-- [Infrastructure as Code is about more than frameworks](https://dev.to/aws-builders/infrastructure-as-code-is-about-more-than-frameworks-ipd)
-- [Easy React data fetching with the new `use&lpar;&rpar;` hook](https://dev.to/chiubaca/easy-react-data-fetching-with-use-16jg)
+- [Top 20 ChatGPT prompts that every prompt engineers should know](https://dev.to/codemaker2015/top-20-chatgpt-prompts-that-every-prompt-engineers-should-know-bfe)
 <!-- BLOG-POST-LIST:END -->
 
