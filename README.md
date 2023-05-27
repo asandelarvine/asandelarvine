@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to FIND the QUESTIONS that will be in an interview](https://dev.to/kgcodes/how-to-find-the-questions-that-will-be-in-an-interview-1g1n)
-- [Add reactivity to your Next.js blog using giscus](https://dev.to/ayoub_khial/add-reactivity-to-your-nextjs-blog-using-giscus-146l)
-- [It&#39;s been a year. Time to make an app](https://dev.to/xarop_pa_toss/its-been-a-year-time-to-make-an-app-3hak)
-- [Day 115 of Coding: Improving Authentication and Exploring Nested Data Structures](https://dev.to/arashjangali/day-115-of-coding-improving-authentication-and-exploring-nested-data-structures-2jpn)
+- [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
+- [On starting a new dev blog](https://dev.to/armantark/on-starting-a-new-dev-blog-1739)
+- [Create nice-looking GUI applications in Common Lisp](https://dev.to/vindarel/create-nice-looking-gui-applications-in-common-lisp-22p6)
 <!-- BLOG-POST-LIST:END -->
 
