@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It Burnout or Job Dissatisfaction?](https://dev.to/devteam/is-it-burnout-or-job-dissatisfaction-3l4b)
 - [Coding Companions: Which Animal Is Your Perfect Coding Mascot?](https://dev.to/codenewbieteam/coding-companions-which-animal-is-your-perfect-coding-mascot-17ib)
+- [Is It Burnout or Job Dissatisfaction?](https://dev.to/devteam/is-it-burnout-or-job-dissatisfaction-3l4b)
 - [How to print “Hello” in C without using a semicolon?](https://dev.to/realnamehidden1_61/how-to-print-hello-in-c-without-using-a-semicolon-5geb)
 - [Perfect Number Program in C](https://dev.to/realnamehidden1_61/perfect-number-program-in-c-32k5)
 <!-- BLOG-POST-LIST:END -->
