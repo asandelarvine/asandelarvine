@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Add reactivity to your Next.js blog using giscus](https://dev.to/ayoub_khial/add-reactivity-to-your-nextjs-blog-using-giscus-146l)
 - [It&#39;s been a year. Time to make an app](https://dev.to/xarop_pa_toss/its-been-a-year-time-to-make-an-app-3hak)
 - [Day 115 of Coding: Improving Authentication and Exploring Nested Data Structures](https://dev.to/arashjangali/day-115-of-coding-improving-authentication-and-exploring-nested-data-structures-2jpn)
 - [From Twitter Spaces to Independent Artists: Leading Org-Based Innovation](https://dev.to/linearb/from-twitter-spaces-to-independent-artists-leading-org-based-innovation-2pnk)
-- [Introduction to Open Source](https://dev.to/eskayml/introduction-to-open-source-4gae)
 <!-- BLOG-POST-LIST:END -->
 
