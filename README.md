@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Central Sidebar Menu Configuration](https://dev.to/streetcommunityprogrammer/a-central-sidebar-menu-configuration-kh0)
+- [How to use Mapbox in Next.js](https://dev.to/sakshamgurung/how-to-use-mapbox-in-nextjs-j7k)
+- [Add MUI v5 Theme Switcher in NextJs/React](https://dev.to/just_another_react_dev/add-mui-v5-theme-switcher-in-nextjsreact-286l)
 - [Supercharge Your Image Resolution with Real-ESRGAN: A Complete Guide](https://dev.to/mikeyoung44/supercharge-your-image-resolution-with-real-esrgan-a-complete-guide-2am2)
-- [Django ORM](https://dev.to/vincod/django-orm-3gi2)
-- [Installing Linux&lpar;Ubuntu&rpar; on A Virtual Machine Using VMWare on Mac](https://dev.to/tchisom17/installing-linuxubuntu-on-a-virtual-machine-using-vmware-on-mac-ed)
-- [🚀 GraphQL: Revolutionizing Data Communication! 💻🔥](https://dev.to/tsarthur/graphql-revolutionizing-data-communication-4gof)
 <!-- BLOG-POST-LIST:END -->
 
