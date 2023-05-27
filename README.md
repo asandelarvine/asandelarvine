@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Install tool easy by Toolbox](https://dev.to/milkcoke/install-tool-easy-by-toolbox-13o1)
 - [Sorting complex objects with custom criteria in Python](https://dev.to/renzhamin/sorting-complex-objects-with-custom-criteria-in-python-i89)
-- [PrivateGPT - Running &quot;ChatGPT&quot; offline on local documents](https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17)
-- [Mobile App ideas](https://dev.to/ytskk/open-project-ideas-27nh)
-- [Easiest way to Create React tables &lpar;NEXTJS&rpar;](https://dev.to/rahulj9a/easiest-way-to-create-react-tables-nextjs-2g18)
+- [Infrastructure as Code is about more than frameworks](https://dev.to/aws-builders/infrastructure-as-code-is-about-more-than-frameworks-ipd)
+- [Easy React data fetching with the new `use&lpar;&rpar;` hook](https://dev.to/chiubaca/easy-react-data-fetching-with-use-16jg)
 <!-- BLOG-POST-LIST:END -->
 
