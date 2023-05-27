@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reset/Forgot password on a rest api with jsonwebtoken &lpar;jwt&rpar; in express](https://dev.to/renzhamin/resetforgot-password-on-a-rest-api-with-jsonwebtoken-jwt-in-express-6i9)
 - [Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7)
 - [RAID Explained](https://dev.to/pheianox/raid-explained-178f)
 - [Install tool easy by Toolbox](https://dev.to/milkcoke/install-tool-easy-by-toolbox-13o1)
-- [Top 20 ChatGPT prompts that every prompt engineers should know](https://dev.to/codemaker2015/top-20-chatgpt-prompts-that-every-prompt-engineers-should-know-bfe)
 <!-- BLOG-POST-LIST:END -->
 
