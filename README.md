@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to FIND the QUESTIONS that will be in an interview](https://dev.to/kgcodes/how-to-find-the-questions-that-will-be-in-an-interview-1g1n)
-- [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
-- [Sharing my Story: From Public School to the Largest Technology Company in the World](https://dev.to/glaucia86/sharing-my-story-from-public-school-to-the-largest-technology-company-in-the-world-1m2g)
-- [On starting a new dev blog](https://dev.to/armantark/on-starting-a-new-dev-blog-1739)
+- [Is It Burnout or Job Dissatisfaction?](https://dev.to/devteam/is-it-burnout-or-job-dissatisfaction-3l4b)
+- [Coding Companions: Which Animal Is Your Perfect Coding Mascot?](https://dev.to/codenewbieteam/coding-companions-which-animal-is-your-perfect-coding-mascot-17ib)
+- [How to print “Hello” in C without using a semicolon?](https://dev.to/realnamehidden1_61/how-to-print-hello-in-c-without-using-a-semicolon-5geb)
+- [Perfect Number Program in C](https://dev.to/realnamehidden1_61/perfect-number-program-in-c-32k5)
 <!-- BLOG-POST-LIST:END -->
 
