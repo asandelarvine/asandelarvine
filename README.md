@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to FIND the QUESTIONS that will be in an interview](https://dev.to/kgcodes/how-to-find-the-questions-that-will-be-in-an-interview-1g1n)
 - [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
+- [Sharing my Story: From Public School to the Largest Technology Company in the World](https://dev.to/glaucia86/sharing-my-story-from-public-school-to-the-largest-technology-company-in-the-world-1m2g)
 - [On starting a new dev blog](https://dev.to/armantark/on-starting-a-new-dev-blog-1739)
-- [Create nice-looking GUI applications in Common Lisp](https://dev.to/vindarel/create-nice-looking-gui-applications-in-common-lisp-22p6)
 <!-- BLOG-POST-LIST:END -->
 
