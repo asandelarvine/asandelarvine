@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobile App ideas](https://dev.to/ytskk/open-project-ideas-27nh)
+- [Easiest way to Create React tables &lpar;NEXTJS&rpar;](https://dev.to/rahulj9a/easiest-way-to-create-react-tables-nextjs-2g18)
+- [The Evolution and Impact of MLOps: understanding MLOps](https://dev.to/xakrume/the-evolution-and-impact-of-mlops-understanding-mlops-1dpo)
 - [A Central Sidebar Menu Configuration](https://dev.to/streetcommunityprogrammer/a-central-sidebar-menu-configuration-kh0)
-- [How to use Mapbox in Next.js](https://dev.to/sakshamgurung/how-to-use-mapbox-in-nextjs-j7k)
-- [Add MUI v5 Theme Switcher in NextJs/React](https://dev.to/just_another_react_dev/add-mui-v5-theme-switcher-in-nextjsreact-286l)
-- [Supercharge Your Image Resolution with Real-ESRGAN: A Complete Guide](https://dev.to/mikeyoung44/supercharge-your-image-resolution-with-real-esrgan-a-complete-guide-2am2)
 <!-- BLOG-POST-LIST:END -->
 
