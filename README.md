@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Image Resolution with Real-ESRGAN: A Complete Guide](https://dev.to/mikeyoung44/supercharge-your-image-resolution-with-real-esrgan-a-complete-guide-2am2)
 - [Django ORM](https://dev.to/vincod/django-orm-3gi2)
+- [Installing Linux&lpar;Ubuntu&rpar; on A Virtual Machine Using VMWare on Mac](https://dev.to/tchisom17/installing-linuxubuntu-on-a-virtual-machine-using-vmware-on-mac-ed)
 - [🚀 GraphQL: Revolutionizing Data Communication! 💻🔥](https://dev.to/tsarthur/graphql-revolutionizing-data-communication-4gof)
-- [5 free website hosting platforms for your next project](https://dev.to/vishnusatheesh/5-static-website-hosting-platforms-for-your-next-project-2ahf)
-- [Simplify Your Documentation Workflow with MkDocs: A Markdown-based Alternative to Sphinx](https://dev.to/coderatul/simplify-your-documentation-workflow-with-mkdocs-a-markdown-based-alternative-to-sphinx-365j)
 <!-- BLOG-POST-LIST:END -->
 
