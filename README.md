@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 1: Getting Started with Vue](https://dev.to/miracool/part-1-getting-started-with-vue-2d31)
+- [Vue Made Easy: Introduction.](https://dev.to/miracool/vue-made-easy-introduction-1dec)
 - [$&lpar;document&rpar;.ready equivalent without jQuery](https://dev.to/navyaarora01/documentready-equivalent-without-jquery-1o45)
 - [Useful npm and node commands I use to boost productivity](https://dev.to/fasani/useful-npm-and-node-commands-i-use-to-boost-productivity-301h)
-- [How To Run a Docker Container](https://dev.to/sbenhoff/how-to-run-a-docker-container-9if)
-- [React MUI Content Security Policy](https://dev.to/navyaarora01/react-mui-content-security-policy-2gp)
 <!-- BLOG-POST-LIST:END -->
 
