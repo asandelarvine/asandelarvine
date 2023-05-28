@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cities Tracker App with Python](https://dev.to/bekbrace/cities-tracker-app-with-python-c5n)
+- [How to Choose the Right Web Development Framework](https://dev.to/ishanbagchi/how-to-choose-the-right-web-development-framework-388i)
 - [Don&#39;t miss out on the new features in SQL Server 2022 &lpar;16.x&rpar;](https://dev.to/notte/dont-miss-new-sql-server-16x-functions-59ji)
 - [Yet Another Newsletter LOL: Images, AI &amp; Labelling](https://dev.to/nickytonline/yet-another-newsletter-lol-images-ai-labelling-4j60)
-- [What Is The Best CRUD UI Design](https://dev.to/makemychance/what-is-the-best-crud-ui-design-4db)
-- [The Best VSCode Git Extension Pack](https://dev.to/seyyedkhandon/the-best-vscode-git-extension-pack-4k1l)
 <!-- BLOG-POST-LIST:END -->
 
