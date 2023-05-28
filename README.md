@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
 - [Time-Traveling with Github: How I Created A Dynamic Name That Changes Every Minute Using the Github API!](https://dev.to/abomisr/time-traveling-with-github-how-i-created-a-dynamic-name-that-changes-every-minute-using-the-github-api-7ec)
+- [Create a Responsive Nav Menu with Tailwind and Alpinejs](https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1)
 - [Part 1: Getting Started with Vue](https://dev.to/miracool/part-1-getting-started-with-vue-2d31)
-- [Vue Made Easy: Introduction.](https://dev.to/miracool/vue-made-easy-introduction-1dec)
 <!-- BLOG-POST-LIST:END -->
 
