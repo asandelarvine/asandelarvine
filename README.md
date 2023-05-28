@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are i++ or ++i or i-- or --i in programming language?? Why you should use them?](https://dev.to/fahimfba/what-are-i-or-i-or-i-or-i-in-programming-language-why-you-should-use-them-38g)
-- [Input&lpar;&rpar; Syntax in 20 Different Programming Languages](https://dev.to/scofieldidehen/input-syntax-in-20-different-programming-languages-15om)
-- [Cities Tracker App with Python](https://dev.to/bekbrace/cities-tracker-app-with-python-c5n)
-- [How to Choose the Right Web Development Framework](https://dev.to/ishanbagchi/how-to-choose-the-right-web-development-framework-388i)
+- [$&lpar;document&rpar;.ready equivalent without jQuery](https://dev.to/navyaarora01/documentready-equivalent-without-jquery-1o45)
+- [Useful npm and node commands I use to boost productivity](https://dev.to/fasani/useful-npm-and-node-commands-i-use-to-boost-productivity-301h)
+- [How To Run a Docker Container](https://dev.to/sbenhoff/how-to-run-a-docker-container-9if)
+- [React MUI Content Security Policy](https://dev.to/navyaarora01/react-mui-content-security-policy-2gp)
 <!-- BLOG-POST-LIST:END -->
 
