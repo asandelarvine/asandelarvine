@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are i++ or ++i or i-- or --i in programming language?? Why you should use them?](https://dev.to/fahimfba/what-are-i-or-i-or-i-or-i-in-programming-language-why-you-should-use-them-38g)
+- [Input&lpar;&rpar; Syntax in 20 Different Programming Languages](https://dev.to/scofieldidehen/input-syntax-in-20-different-programming-languages-15om)
 - [Cities Tracker App with Python](https://dev.to/bekbrace/cities-tracker-app-with-python-c5n)
 - [How to Choose the Right Web Development Framework](https://dev.to/ishanbagchi/how-to-choose-the-right-web-development-framework-388i)
-- [Don&#39;t miss out on the new features in SQL Server 2022 &lpar;16.x&rpar;](https://dev.to/notte/dont-miss-new-sql-server-16x-functions-59ji)
-- [Yet Another Newsletter LOL: Images, AI &amp; Labelling](https://dev.to/nickytonline/yet-another-newsletter-lol-images-ai-labelling-4j60)
 <!-- BLOG-POST-LIST:END -->
 
