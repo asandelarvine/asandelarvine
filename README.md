@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dream Big: What&#39;s Your Ideal Job?](https://dev.to/codenewbieteam/dream-big-whats-your-ideal-job-20km)
+- [Falcon 101: Exploring the Admin &amp; WebApp Template](https://dev.to/themewagon/falcon-101-exploring-the-admin-webapp-template-41d0)
 - [Time Traveling: Which Inventions Would You Want to Witness?](https://dev.to/devteam/time-traveling-which-inventions-would-you-want-to-witness-4af0)
-- [7 VS Code Tricks you should Definitely Know 😍](https://dev.to/ruppysuppy/7-vs-code-tricks-you-should-definitely-know-54pi)
-- [How AI is Revolutionizing Blogging and Programming??](https://dev.to/devxvaibhav/how-ai-is-revolutionizing-blogging-and-programming-1a2p)
+- [Dream Big: What&#39;s Your Ideal Job?](https://dev.to/codenewbieteam/dream-big-whats-your-ideal-job-20km)
+- [15 Top Platforms for Learning Cybersecurity](https://dev.to/scofieldidehen/15-top-platforms-for-learning-cybersecurity-44c5)
 <!-- BLOG-POST-LIST:END -->
 
