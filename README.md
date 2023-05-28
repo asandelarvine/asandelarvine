@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying MVP: The Foundation of Successful Software Development](https://dev.to/piouskenny/demystifying-mvp-the-foundation-of-successful-software-development-2h8e)
+- [Must-Have CSS Tools for Effortless Styling 🚀](https://dev.to/ahmadraza/must-have-css-tools-for-effortless-styling-1adi)
 - [Be 10x Productive using these JavaScript tips](https://dev.to/lovepreetsingh/be-10x-productive-using-these-javascript-tips-2n7n)
 - [Flutter CC-Avenue Payment Gateway Integration ft. PHP](https://dev.to/djsmk123/flutter-cc-avenue-payment-gateway-integration-ft-php-1nj7)
-- [Falcon 101: Exploring the Admin &amp; WebApp Template](https://dev.to/themewagon/falcon-101-exploring-the-admin-webapp-template-41d0)
-- [Time Traveling: Which Inventions Would You Want to Witness?](https://dev.to/devteam/time-traveling-which-inventions-would-you-want-to-witness-4af0)
 <!-- BLOG-POST-LIST:END -->
 
