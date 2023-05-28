@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is The Best CRUD UI Design](https://dev.to/makemychance/what-is-the-best-crud-ui-design-4db)
+- [The Best VSCode Git Extension Pack](https://dev.to/seyyedkhandon/the-best-vscode-git-extension-pack-4k1l)
 - [My Journey to 3k+ Followers in 5 months🥰](https://dev.to/arafat4693/my-journey-to-3k-followers-3oa4)
-- [Flexbox &quot;justify-content&quot; visual representation🔥](https://dev.to/arafat4693/flexbox-justify-content-visual-representation-4c22)
-- [Engineering Manager vs Tech Lead 🧑🏻‍💻](https://dev.to/alexhyettdev/engineering-manager-vs-tech-lead-hbm)
-- [File Uploads Made Easy with Multer package in nodeJS](https://dev.to/itsvinayak/file-uploads-made-easy-with-multer-package-in-nodejs-3mo0)
+- [If We Only Had Five VS Code Extensions](https://dev.to/perssondennis/if-we-only-had-five-vs-code-extensions-4ge4)
 <!-- BLOG-POST-LIST:END -->
 
