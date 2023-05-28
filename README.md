@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS code refactoring](https://dev.to/kelechikizito/css-code-refactoring-16mj)
 - [How to use Firebase Authentication in Next.js 13, Server Side with Admin SDK](https://dev.to/geiel/how-to-use-firebase-authentication-in-nextjs-13-client-and-server-side-1bbn)
 - [State Of CSS, May 2023 : Newest Additions](https://dev.to/basheerdotdev/state-of-css-may-2023-newest-additions-1p3o)
 - [Reset/Forgot password on a rest api with jsonwebtoken &lpar;jwt&rpar; in express](https://dev.to/renzhamin/resetforgot-password-on-a-rest-api-with-jsonwebtoken-jwt-in-express-6i9)
-- [Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference](https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7)
 <!-- BLOG-POST-LIST:END -->
 
