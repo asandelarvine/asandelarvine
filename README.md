@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dream Big: What&#39;s Your Ideal Job?](https://dev.to/codenewbieteam/dream-big-whats-your-ideal-job-20km)
+- [Time Traveling: Which Inventions Would You Want to Witness?](https://dev.to/devteam/time-traveling-which-inventions-would-you-want-to-witness-4af0)
+- [7 VS Code Tricks you should Definitely Know 😍](https://dev.to/ruppysuppy/7-vs-code-tricks-you-should-definitely-know-54pi)
 - [How AI is Revolutionizing Blogging and Programming??](https://dev.to/devxvaibhav/how-ai-is-revolutionizing-blogging-and-programming-1a2p)
-- [10 Useful Ruby One-Liners: Examples and Descriptions](https://dev.to/nezirzahirovic/10-useful-ruby-one-liners-examples-and-descriptions-5a9c)
-- [How to show/hide Modal in React](https://dev.to/cathleys/how-to-showhide-modal-in-react-46fg)
-- [How to write clean and readable code](https://dev.to/ajebodev/how-to-write-clean-and-readable-code-48no)
 <!-- BLOG-POST-LIST:END -->
 
