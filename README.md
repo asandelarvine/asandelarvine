@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
+- [Time-Traveling with Github: How I Created A Dynamic Name That Changes Every Minute Using the Github API!](https://dev.to/abomisr/time-traveling-with-github-how-i-created-a-dynamic-name-that-changes-every-minute-using-the-github-api-7ec)
 - [Part 1: Getting Started with Vue](https://dev.to/miracool/part-1-getting-started-with-vue-2d31)
 - [Vue Made Easy: Introduction.](https://dev.to/miracool/vue-made-easy-introduction-1dec)
-- [$&lpar;document&rpar;.ready equivalent without jQuery](https://dev.to/navyaarora01/documentready-equivalent-without-jquery-1o45)
-- [Useful npm and node commands I use to boost productivity](https://dev.to/fasani/useful-npm-and-node-commands-i-use-to-boost-productivity-301h)
 <!-- BLOG-POST-LIST:END -->
 
