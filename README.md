@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Be 10x Productive using these JavaScript tips](https://dev.to/lovepreetsingh/be-10x-productive-using-these-javascript-tips-2n7n)
+- [Flutter CC-Avenue Payment Gateway Integration ft. PHP](https://dev.to/djsmk123/flutter-cc-avenue-payment-gateway-integration-ft-php-1nj7)
 - [Falcon 101: Exploring the Admin &amp; WebApp Template](https://dev.to/themewagon/falcon-101-exploring-the-admin-webapp-template-41d0)
-- [Dream Big: What&#39;s Your Ideal Job?](https://dev.to/codenewbieteam/dream-big-whats-your-ideal-job-20km)
 - [Time Traveling: Which Inventions Would You Want to Witness?](https://dev.to/devteam/time-traveling-which-inventions-would-you-want-to-witness-4af0)
 <!-- BLOG-POST-LIST:END -->
 
