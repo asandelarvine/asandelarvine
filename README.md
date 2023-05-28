@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey to 3k+ Followers in 5 months🥰](https://dev.to/arafat4693/my-journey-to-3k-followers-3oa4)
 - [Flexbox &quot;justify-content&quot; visual representation🔥](https://dev.to/arafat4693/flexbox-justify-content-visual-representation-4c22)
 - [Engineering Manager vs Tech Lead 🧑🏻‍💻](https://dev.to/alexhyettdev/engineering-manager-vs-tech-lead-hbm)
 - [File Uploads Made Easy with Multer package in nodeJS](https://dev.to/itsvinayak/file-uploads-made-easy-with-multer-package-in-nodejs-3mo0)
-- [Getting Started: Monitoring a FastAPI App with Grafana and Prometheus - A Step-by-Step Guide](https://dev.to/ken_mwaura1/getting-started-monitoring-a-fastapi-app-with-grafana-and-prometheus-a-step-by-step-guide-3fbn)
 <!-- BLOG-POST-LIST:END -->
 
