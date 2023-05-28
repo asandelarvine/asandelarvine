@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss out on the new features in SQL Server 16.x](https://dev.to/notte/dont-miss-new-sql-server-16x-functions-59ji)
+- [Yet Another Newsletter LOL: Images, AI &amp; Labelling](https://dev.to/nickytonline/yet-another-newsletter-lol-images-ai-labelling-4j60)
 - [What Is The Best CRUD UI Design](https://dev.to/makemychance/what-is-the-best-crud-ui-design-4db)
 - [The Best VSCode Git Extension Pack](https://dev.to/seyyedkhandon/the-best-vscode-git-extension-pack-4k1l)
-- [My Journey to 3k+ Followers in 5 months🥰](https://dev.to/arafat4693/my-journey-to-3k-followers-3oa4)
-- [If We Only Had Five VS Code Extensions](https://dev.to/perssondennis/if-we-only-had-five-vs-code-extensions-4ge4)
 <!-- BLOG-POST-LIST:END -->
 
