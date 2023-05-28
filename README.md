@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Valuable Resources Every Web Developer Should Utilise 🚀🔥](https://dev.to/arjuncodess/7-valuable-resources-every-web-developer-should-utilise-4d40)
 - [Video: Customising Your GitHub Profile!](https://dev.to/2kabhishek/video-customising-your-github-profile-4ebj)
 - [Enable PWA with next.js 13 or later using next-pwa &lpar;disabled in development environment&rpar;](https://dev.to/arccosine/enable-pwa-with-nextjs-13-or-later-using-next-pwa-disabled-in-development-environment-1eda)
 - [CSS code refactoring](https://dev.to/kelechikizito/css-code-refactoring-16mj)
-- [How to use Firebase Authentication in Next.js 13, Server Side with Admin SDK](https://dev.to/geiel/how-to-use-firebase-authentication-in-nextjs-13-client-and-server-side-1bbn)
 <!-- BLOG-POST-LIST:END -->
 
