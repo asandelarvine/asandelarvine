@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rewriting My Personal Website with Markdown: Prioritizing Performance and Meaningful Content](https://dev.to/nivandosoares/rewriting-my-personal-website-with-markdown-prioritizing-performance-and-meaningful-content-3c8m)
-- [A guide on writing clear and meaningful Commit messages: And how I write them](https://dev.to/jangirritik/a-guide-on-writing-clear-and-meaningful-commit-messages-and-how-i-write-them-56ld)
-- [Revolutionizing Data with React Native ECharts 1.1: Now More Interactive!](https://dev.to/zhiqingchen/revolutionizing-data-with-react-native-echarts-11-now-more-interactive-38lb)
-- [Rise of Progressive Web Apps in Web Development 🚀🔥](https://dev.to/arjuncodess/rise-of-progressive-web-apps-in-web-development-45ob)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3j7d)
+- [Are Coding Bootcamps Still A Thing?](https://dev.to/codenewbieteam/are-coding-bootcamps-still-a-thing-1jde)
+- [Understanding Promises in JavaScript](https://dev.to/ptheodosiou/understanding-promises-in-javascript-5c0)
+- [What&#39;s A Coder&#39;s Worst Nightmare?](https://dev.to/devteam/whats-a-coders-worst-nightmare-4c4h)
 <!-- BLOG-POST-LIST:END -->
 
