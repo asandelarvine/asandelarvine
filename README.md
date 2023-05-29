@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlearn programming to learn Ruby](https://dev.to/rubycademy/unlearn-programming-to-learn-ruby-2ke)
+- [AWS Well-Architected Framework](https://dev.to/mesutoezdil/aws-well-architected-framework-4h2d)
 - [flutter text widget example](https://dev.to/realnamehidden1_61/flutter-text-widget-example-4ce3)
-- [OpenSSL 3 üzerinde Legacy destek verilebilmesi](https://dev.to/aciklab/openssl-3-uzerinde-legacy-destek-verilebilmesi-44e7)
-- [Creating a Progressive Web Application &lpar;PWA&rpar; using HTML and Vanilla JavaScript](https://dev.to/delineas/creating-a-progressive-web-application-pwa-using-html-and-vanilla-javascript-nje)
-- [Weekly Roundup &lpar;May 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-22-hot-topics-in-workplace-sharepoint-and-powerplatform-2j5h)
+- [Better DX in Vue apps with Vite Devtools](https://dev.to/jacobandrewsky/better-dx-invue-apps-with-vite-devtools-1ge)
 <!-- BLOG-POST-LIST:END -->
 
