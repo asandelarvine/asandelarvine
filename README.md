@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Not Your Homeland Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-not-your-homeland-edition-gnm)
-- [Amazon connect -&gt; manage prompts](https://dev.to/naresh_talluri/amazon-connect-manage-prompts-5a6o)
-- [3 Reasons Game Developers are Looking for Perforce Alternatives](https://dev.to/diversion/3-reasons-game-developers-are-looking-for-perforce-alternatives-1ebm)
-- [Understanding and Using ConfigureAwait in Asynchronous Programming](https://dev.to/this-is-learning/understanding-and-using-configureawait-in-asynchronous-programming-2da3)
+- [Changelog #0023 — 🛠️ Internal refactoring and improvements](https://dev.to/pie/changelog-0023-internal-refactoring-and-improvements-41ga)
+- [Meme Monday](https://dev.to/ben/meme-monday-34ka)
+- [Seamless, full-stack authentication in Next.js](https://dev.to/livecycle/seamless-full-stack-authentication-in-nextjs-11lp)
+- [Mastering Readme Files](https://dev.to/unnotedme/mastering-readme-files-1dmg)
 <!-- BLOG-POST-LIST:END -->
 
