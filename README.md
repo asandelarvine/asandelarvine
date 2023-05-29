@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
-- [Time-Traveling with Github: How I Created A Dynamic Name That Changes Every Minute Using the Github API!](https://dev.to/abomisr/time-traveling-with-github-how-i-created-a-dynamic-name-that-changes-every-minute-using-the-github-api-7ec)
-- [Create a Responsive Nav Menu with Tailwind and Alpinejs](https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1)
-- [Part 1: Getting Started with Vue](https://dev.to/miracool/part-1-getting-started-with-vue-2d31)
+- [ROM.rb Custom Commands, Schemas, Upsert, and you](https://dev.to/cultureamp/romrb-custom-commands-schemas-upsert-and-you-36bj)
+- [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
+- [Jednostavni CloudFormation template](https://dev.to/justplegend/simple-cloudformation-template-4ahe)
+- [Build a Quick Game using Amazon GameLift service](https://dev.to/aws-builders/build-a-quick-game-using-amazon-gamelift-service-58a0)
 <!-- BLOG-POST-LIST:END -->
 
