@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [From HR to Tech: Klesta&#39;s Inspiring Journey with the Web Dev Path Project](https://dev.to/wdp/from-hr-to-tech-klestas-inspiring-journey-with-the-web-dev-path-project-n4c)
 - [Unidades de medida no CSS: escolhendo a melhor opção para cada caso](https://dev.to/loresgarcia/unidades-de-medida-no-css-escolhendo-a-melhor-opcao-para-cada-caso-3jh9)
+- [How to become an AWS Community Builder?](https://dev.to/aws-builders/how-to-become-an-aws-community-builder-17ca)
 - [ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
-- [Kubernetes Installation with kubeadm](https://dev.to/dpuig/kubernetes-installation-with-kubeadm-448p)
 <!-- BLOG-POST-LIST:END -->
 
