@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3j7d)
+- [OpenSSL 3 üzerinde Legacy destek verilebilmesi](https://dev.to/aciklab/openssl-3-uzerinde-legacy-destek-verilebilmesi-44e7)
+- [Creating a Progressive Web Application &lpar;PWA&rpar; using HTML and Vanilla JavaScript](https://dev.to/delineas/creating-a-progressive-web-application-pwa-using-html-and-vanilla-javascript-nje)
+- [Weekly Roundup &lpar;May 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-22-hot-topics-in-workplace-sharepoint-and-powerplatform-2j5h)
 - [Are Coding Bootcamps Still A Thing?](https://dev.to/codenewbieteam/are-coding-bootcamps-still-a-thing-1jde)
-- [Understanding Promises in JavaScript](https://dev.to/ptheodosiou/understanding-promises-in-javascript-5c0)
-- [What&#39;s A Coder&#39;s Worst Nightmare?](https://dev.to/devteam/whats-a-coders-worst-nightmare-4c4h)
 <!-- BLOG-POST-LIST:END -->
 
