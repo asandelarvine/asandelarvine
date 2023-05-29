@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Philosophy of OOP and FP with JavaScript](https://dev.to/ocodista/the-philosophy-of-oop-and-fp-with-javascript-58c7)
 - [ROM.rb Custom Commands, Schemas, Upsert, and you](https://dev.to/cultureamp/romrb-custom-commands-schemas-upsert-and-you-36bj)
 - [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
 - [Jednostavni CloudFormation template](https://dev.to/justplegend/simple-cloudformation-template-4ahe)
-- [Build a Quick Game using Amazon GameLift service](https://dev.to/aws-builders/build-a-quick-game-using-amazon-gamelift-service-58a0)
 <!-- BLOG-POST-LIST:END -->
 
