@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon connect -&gt; manage prompts](https://dev.to/naresh_talluri/amazon-connect-manage-prompts-5a6o)
+- [3 Reasons Game Developers are Looking for Perforce Alternatives](https://dev.to/diversion/3-reasons-game-developers-are-looking-for-perforce-alternatives-1ebm)
 - [The Best Free Software for Creating Diagrams](https://dev.to/brojenuel/the-best-free-software-for-creating-diagrams-1bhh)
 - [The Best Python IDE For Mac Users - Part 1](https://dev.to/theme_selection/the-best-python-ide-for-mac-4l63)
-- [DevOps Toolchain and Technologies](https://dev.to/rainleander/devops-toolchain-and-technologies-3n0k)
-- [How I built a Midjourney API](https://dev.to/suede/how-i-built-a-midjourney-api-2j8h)
 <!-- BLOG-POST-LIST:END -->
 
