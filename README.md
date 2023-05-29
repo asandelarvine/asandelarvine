@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Changelog #0023 — 🛠️ Internal refactoring and improvements](https://dev.to/pie/changelog-0023-internal-refactoring-and-improvements-41ga)
-- [Meme Monday](https://dev.to/ben/meme-monday-34ka)
-- [Seamless, full-stack authentication in Next.js](https://dev.to/livecycle/seamless-full-stack-authentication-in-nextjs-11lp)
-- [Mastering Readme Files](https://dev.to/unnotedme/mastering-readme-files-1dmg)
+- [33 Inspiring Female Founders To Follow On Linkedin](https://dev.to/jon_snow789/33-inspiring-female-founders-to-follow-on-linkedin-2plj)
+- [ElectronJs How to minimize/close window to system tray or in the background](https://dev.to/brojenuel/electronjs-how-to-minimizeclose-window-to-system-tray-or-in-the-background-11c6)
+- [self-introduction](https://dev.to/reikaji/self-introduction-1lpo)
+- [Changelog #0024 — ✨️ Improved variables and more](https://dev.to/pie/changelog-0024-improved-variables-and-more-149h)
 <!-- BLOG-POST-LIST:END -->
 
