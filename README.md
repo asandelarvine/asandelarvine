@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
+- [Kubernetes Installation with kubeadm](https://dev.to/dpuig/kubernetes-installation-with-kubeadm-448p)
 - [Happy Memorial Day](https://dev.to/philipjohnbasile/happy-memorial-day-3idk)
-- [YouTube Downloader](https://dev.to/olegmishutin/youtube-downloader-32ij)
 - [SSD vs. HDD: What to Choose?](https://dev.to/hardwarefather/ssd-vs-hdd-what-to-choose-59p4)
-- [Setting up an Alias for a Directory in Apache2 Server](https://dev.to/sajidurshajib/setting-up-an-alias-for-a-directory-in-apache2-server-1636)
 <!-- BLOG-POST-LIST:END -->
 
