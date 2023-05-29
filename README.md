@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Data with React Native ECharts 1.1: Now More Interactive!](https://dev.to/zhiqingchen/revolutionizing-data-with-react-native-echarts-11-now-more-interactive-38lb)
 - [Rise of Progressive Web Apps in Web Development 🚀🔥](https://dev.to/arjuncodess/rise-of-progressive-web-apps-in-web-development-45ob)
 - [The Philosophy of OOP and FP with JavaScript](https://dev.to/ocodista/the-philosophy-of-oop-and-fp-with-javascript-58c7)
 - [ROM.rb Custom Commands, Schemas, Upsert, and you](https://dev.to/cultureamp/romrb-custom-commands-schemas-upsert-and-you-36bj)
-- [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
 <!-- BLOG-POST-LIST:END -->
 
