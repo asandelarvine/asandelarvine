@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Not Your Homeland Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-not-your-homeland-edition-gnm)
 - [Amazon connect -&gt; manage prompts](https://dev.to/naresh_talluri/amazon-connect-manage-prompts-5a6o)
 - [3 Reasons Game Developers are Looking for Perforce Alternatives](https://dev.to/diversion/3-reasons-game-developers-are-looking-for-perforce-alternatives-1ebm)
-- [The Best Free Software for Creating Diagrams](https://dev.to/brojenuel/the-best-free-software-for-creating-diagrams-1bhh)
-- [The Best Python IDE For Mac Users - Part 1](https://dev.to/theme_selection/the-best-python-ide-for-mac-4l63)
+- [Understanding and Using ConfigureAwait in Asynchronous Programming](https://dev.to/this-is-learning/understanding-and-using-configureawait-in-asynchronous-programming-2da3)
 <!-- BLOG-POST-LIST:END -->
 
