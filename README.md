@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Defend the Truth in the Internet Age](https://dev.to/zenstack/defend-the-truth-in-the-internet-age-5b7i)
 - [Unlearn programming to learn Ruby](https://dev.to/rubycademy/unlearn-programming-to-learn-ruby-2ke)
 - [AWS Well-Architected Framework](https://dev.to/mesutoezdil/aws-well-architected-framework-4h2d)
 - [flutter text widget example](https://dev.to/realnamehidden1_61/flutter-text-widget-example-4ce3)
-- [Better DX in Vue apps with Vite Devtools](https://dev.to/jacobandrewsky/better-dx-invue-apps-with-vite-devtools-1ge)
 <!-- BLOG-POST-LIST:END -->
 
