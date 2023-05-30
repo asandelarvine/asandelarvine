@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond 5G: The Next-Generation Of Technology Revolutionizing Communication and Connectivity](https://dev.to/iamokoli/beyond-5g-the-next-generation-of-technology-revolutionizing-communication-and-connectivity-7ib)
-- [Can you quickly shuffle the index of a trillion documents without conflict?](https://dev.to/hmmhmmhm_77/can-you-quickly-shuffle-the-index-of-a-trillion-documents-without-conflict-2bal)
-- [The Dynamic Duo: React and TypeScript - A Match Made in Web Development Heaven](https://dev.to/nhawkesdallas01/the-dynamic-duo-react-and-typescript-a-match-made-in-web-development-heaven-1od7)
-- [Hackathon Do’s and Don’ts - Ace the Race](https://dev.to/appwrite/hackathon-dos-and-donts-ace-the-race-1mji)
+- [Facebook Open-Sources Its Horizon AI Platform](https://dev.to/thenomadevel/facebook-open-sources-its-horizon-ai-platform-am5)
+- [How To Level Up Your Business With Waves Tokens? - A Worthy Guide](https://dev.to/jessietomaz/how-to-level-up-your-business-with-waves-tokens-a-worthy-guide-2k61)
+- [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
+- [Announcing Support For Playwright Testing On Real Android Devices 🎭📱](https://dev.to/lambdatest/announcing-support-for-playwright-testing-on-real-android-devices-5dn4)
 <!-- BLOG-POST-LIST:END -->
 
