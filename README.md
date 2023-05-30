@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you quickly shuffle the index of a trillion documents without conflict?](https://dev.to/hmmhmmhm_77/can-you-quickly-shuffle-the-index-of-a-trillion-documents-without-conflict-2bal)
 - [The Dynamic Duo: React and TypeScript - A Match Made in Web Development Heaven](https://dev.to/nhawkesdallas01/the-dynamic-duo-react-and-typescript-a-match-made-in-web-development-heaven-1od7)
+- [Hackathon Do’s and Don’ts - Ace the Race](https://dev.to/appwrite/hackathon-dos-and-donts-ace-the-race-1mji)
 - [How to Create a Pricing Table with a Monthly/Yearly Toggle in Tailwind CSS and Vue](https://dev.to/cruip_com/how-to-create-a-pricing-table-with-a-monthlyyearly-toggle-in-tailwind-css-and-vue-1ah7)
-- [How to Create a Pricing Table with a Monthly/Yearly Toggle in Tailwind CSS and Next.js](https://dev.to/cruip_com/how-to-create-a-pricing-table-with-a-monthlyyearly-toggle-in-tailwind-css-and-nextjs-2j1j)
-- [How to Create a Pricing Table with a Monthly/Yearly Toggle in Tailwind CSS](https://dev.to/cruip_com/how-to-create-a-pricing-table-with-a-monthlyyearly-toggle-in-tailwind-css-j8f)
 <!-- BLOG-POST-LIST:END -->
 
