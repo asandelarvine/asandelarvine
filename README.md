@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Fuel: What Are Your Go-to Snacks?](https://dev.to/codenewbieteam/coding-fuel-what-are-your-go-to-snacks-44he)
+- [AWS open source newsletter, #158](https://dev.to/aws/aws-open-source-newsletter-158-178k)
+- [Learn to Make Heatmaps in JS](https://dev.to/andreykh/learn-to-make-heatmaps-in-js-59ji)
+- [The Importance of Magento Performance Optimization and How to Achieve It](https://dev.to/lewisblakeney/the-importance-of-magento-performance-optimization-and-how-to-achieve-it-2oj5)
 - [What&#39;s the Most Unusual Thing You&#39;ve Discovered While Coding?](https://dev.to/devteam/whats-the-most-unusual-thing-youve-discovered-while-coding-1l21)
-- [The Importance of Security in Launchpad Development: How to Keep Your Platform Safe](https://dev.to/parth51199/the-importance-of-security-in-launchpad-development-how-to-keep-your-platform-safe-4kac)
-- [24 Plugins Every WordPress Site Must Have](https://dev.to/scofieldidehen/24-plugins-every-wordpress-site-must-have-25gb)
 <!-- BLOG-POST-LIST:END -->
 
