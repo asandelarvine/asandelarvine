@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Open-Sources Its Horizon AI Platform](https://dev.to/thenomadevel/facebook-open-sources-its-horizon-ai-platform-am5)
-- [How To Level Up Your Business With Waves Tokens? - A Worthy Guide](https://dev.to/jessietomaz/how-to-level-up-your-business-with-waves-tokens-a-worthy-guide-2k61)
-- [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
-- [Announcing Support For Playwright Testing On Real Android Devices 🎭📱](https://dev.to/lambdatest/announcing-support-for-playwright-testing-on-real-android-devices-5dn4)
+- [Operator Overloading in Java](https://dev.to/codenameone/operator-overloading-in-java-4l5n)
+- [FLaNK Stack Weekly 29 may 2023](https://dev.to/tspannhw/flank-stack-weekly-29-may-2023-3556)
+- [Unleashing the Power of JavaScript in Bubble.io Backend Workflows: A Case Study](https://dev.to/bulatakh/unleashing-the-power-of-javascript-in-bubbleio-backend-workflows-a-case-study-3b90)
+- [The Art of Code Review](https://dev.to/documatic/the-art-of-code-review-1lo4)
 <!-- BLOG-POST-LIST:END -->
 
