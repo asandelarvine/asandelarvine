@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create modal with Reactstrap](https://dev.to/nasreenkhalid/create-modal-with-reactstrap-2m9o)
-- [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
-- [main.dart flutter default code](https://dev.to/realnamehidden1_61/maindart-flutter-default-code-16j1)
-- [Add Google Analytics Tracking Code to All Pages Automatically](https://dev.to/mohsenkamrani/add-google-analytics-tracking-code-to-all-pages-automatically-19d5)
+- [Discussion on API reference for Python functions....](https://dev.to/coderatul/discussion-on-api-reference-for-python-functions-1mm1)
+- [Next.js 13.4&#39;s Server Actions and Data Fetching](https://dev.to/refine/nextjs-134s-server-actions-and-data-fetching-n3m)
+- [Creating a Low-Latency Cache with Dozer and PostgreSQL](https://dev.to/getdozer/creating-a-low-latency-cache-with-dozer-and-postgresql-i18)
+- [Installing React with Vite](https://dev.to/rabibsust/installing-react-with-vite-801)
 <!-- BLOG-POST-LIST:END -->
 
