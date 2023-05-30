@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Web Rendering: Isomorphic JavaScript &amp; Hydration](https://dev.to/mangs/exploring-web-rendering-isomorphic-javascript-hydration-k65)
+- [Dockerfile Optimization using Multistage Builds, Caching, and Lightweight images](https://dev.to/er_dward/dockerfile-optimization-using-multistage-builds-caching-and-lightweight-images-2ec6)
+- [Understanding Blockchain: Everything you need to know](https://dev.to/educative/understanding-blockchain-everything-you-need-to-know-2ej8)
 - [Part 2: Understanding Vuex: A State Management Library.](https://dev.to/miracool/part-2-understanding-vuex-a-state-management-library-5fop)
-- [6 Websites You’ll Love As A Developer](https://dev.to/med_code/12-websites-youll-love-as-a-developer-m0n)
-- [Exploring Imaginary Worlds](https://dev.to/opensauced/exploring-imaginary-worlds-552a)
-- [Generative AI with Azure OpenAI &lpar;DALL-E Overview&rpar;](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-dall-e-overview-2pji)
 <!-- BLOG-POST-LIST:END -->
 
