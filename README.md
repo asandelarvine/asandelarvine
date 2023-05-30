@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Web Rendering: Isomorphic JavaScript &amp; Hydration](https://dev.to/mangs/exploring-web-rendering-isomorphic-javascript-hydration-k65)
-- [Dockerfile Optimization using Multistage Builds, Caching, and Lightweight images](https://dev.to/er_dward/dockerfile-optimization-using-multistage-builds-caching-and-lightweight-images-2ec6)
-- [Understanding Blockchain: Everything you need to know](https://dev.to/educative/understanding-blockchain-everything-you-need-to-know-2ej8)
-- [Part 2: Understanding Vuex: A State Management Library.](https://dev.to/miracool/part-2-understanding-vuex-a-state-management-library-5fop)
+- [2469. LeetCode&#39;s Convert the Temperature - SUPER Simple Python Solution Beats 98% in Memory](https://dev.to/verisimilitudex/super-simple-python-solution-beats-98-in-memory-76l)
+- [#DEVDiscuss: What&#39;s New in ES2023?](https://dev.to/devteam/devdiscuss-whats-new-in-es2023-3d8b)
+- [Top Productivity CLI Tools I Use on Linux](https://dev.to/ken_mwaura1/top-productivity-cli-tools-i-use-on-linux-jga)
+- [The use of Predicate Functions in Apache AGE](https://dev.to/dukeofhazardz/the-use-of-predicate-functions-in-apache-age-2ec)
 <!-- BLOG-POST-LIST:END -->
 
