@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discussion on API reference for Python functions....](https://dev.to/coderatul/discussion-on-api-reference-for-python-functions-1mm1)
-- [Next.js 13.4&#39;s Server Actions and Data Fetching](https://dev.to/refine/nextjs-134s-server-actions-and-data-fetching-n3m)
-- [Creating a Low-Latency Cache with Dozer and PostgreSQL](https://dev.to/getdozer/creating-a-low-latency-cache-with-dozer-and-postgresql-i18)
-- [Installing React with Vite](https://dev.to/rabibsust/installing-react-with-vite-801)
+- [Coding Fuel: What Are Your Go-to Snacks?](https://dev.to/codenewbieteam/coding-fuel-what-are-your-go-to-snacks-44he)
+- [What&#39;s the Most Unusual Thing You&#39;ve Discovered While Coding?](https://dev.to/devteam/whats-the-most-unusual-thing-youve-discovered-while-coding-1l21)
+- [The Importance of Security in Launchpad Development: How to Keep Your Platform Safe](https://dev.to/parth51199/the-importance-of-security-in-launchpad-development-how-to-keep-your-platform-safe-4kac)
+- [24 Plugins Every WordPress Site Must Have](https://dev.to/scofieldidehen/24-plugins-every-wordpress-site-must-have-25gb)
 <!-- BLOG-POST-LIST:END -->
 
