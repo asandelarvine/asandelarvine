@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Add Google Analytics Tracking Code to All Pages Automatically](https://dev.to/mohsenkamrani/add-google-analytics-tracking-code-to-all-pages-automatically-19d5)
 - [[Tool] Convert JSON to code](https://dev.to/zenzai/tool-convert-json-to-code-557o)
 - [From HR to Tech: Klesta&#39;s Inspiring Journey with the Web Dev Path Project](https://dev.to/wdp/from-hr-to-tech-klestas-inspiring-journey-with-the-web-dev-path-project-n4c)
 - [Unidades de medida no CSS: escolhendo a melhor opção para cada caso](https://dev.to/loresgarcia/unidades-de-medida-no-css-escolhendo-a-melhor-opcao-para-cada-caso-3jh9)
-- [How to become an AWS Community Builder?](https://dev.to/aws-builders/how-to-become-an-aws-community-builder-17ca)
 <!-- BLOG-POST-LIST:END -->
 
