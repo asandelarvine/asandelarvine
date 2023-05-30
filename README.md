@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
-- [Exploring React Lazy with Suspense: Code-Splitting Made Easy](https://dev.to/ishanbagchi/exploring-react-lazy-with-suspense-code-splitting-made-easy-4bgh)
-- [Nobody thrives on rejection - here are reasons I didn&#39;t take job offers](https://dev.to/codepo8/nobody-thrives-on-rejection-here-are-reasons-i-didnt-take-job-offers-30l8)
-- [8 project ideas for Front-end developers](https://dev.to/lucasoneves/8-project-ideas-for-front-end-developers-3lj5)
+- [Apache Kafka vs Memphis](https://dev.to/memphis_dev/apache-kafka-vs-memphis-48de)
+- [Upgrading Old Version of Dokku](https://dev.to/samuelodan/upgrading-old-version-of-dokku-1hda)
+- [How Can You Tell A Job You Apply For Is Actually A Safe Space?](https://dev.to/codenewbieteam/how-can-you-tell-a-job-you-apply-for-is-actually-a-safe-space-174n)
+- [Adding a Domain and SSL Certificate to Your Dokku App](https://dev.to/samuelodan/adding-a-domain-and-ssl-certificate-to-your-dokku-app-20oc)
 <!-- BLOG-POST-LIST:END -->
 
