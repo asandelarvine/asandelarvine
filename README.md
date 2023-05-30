@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Operator Overloading in Java](https://dev.to/codenameone/operator-overloading-in-java-4l5n)
-- [FLaNK Stack Weekly 29 may 2023](https://dev.to/tspannhw/flank-stack-weekly-29-may-2023-3556)
-- [Unleashing the Power of JavaScript in Bubble.io Backend Workflows: A Case Study](https://dev.to/bulatakh/unleashing-the-power-of-javascript-in-bubbleio-backend-workflows-a-case-study-3b90)
-- [The Art of Code Review](https://dev.to/documatic/the-art-of-code-review-1lo4)
+- [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
+- [Exploring React Lazy with Suspense: Code-Splitting Made Easy](https://dev.to/ishanbagchi/exploring-react-lazy-with-suspense-code-splitting-made-easy-4bgh)
+- [Nobody thrives on rejection - here are reasons I didn&#39;t take job offers](https://dev.to/codepo8/nobody-thrives-on-rejection-here-are-reasons-i-didnt-take-job-offers-30l8)
+- [8 project ideas for Front-end developers](https://dev.to/lucasoneves/8-project-ideas-for-front-end-developers-3lj5)
 <!-- BLOG-POST-LIST:END -->
 
