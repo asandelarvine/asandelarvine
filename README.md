@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyrum&#39;s law in modern frontend](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
+- [Demystifying PGP Keys: Understanding the Inner Workings of Public-Key Cryptography](https://dev.to/jsquared/demystifying-pgp-keys-understanding-the-inner-workings-of-public-key-cryptography-57aj)
 - [Share Your Expertise &amp; Stories with #devpride this Pride Month! 🌈](https://dev.to/devteam/share-your-expertise-stories-with-devpride-this-pride-month-39mc)
 - [1603. LeetCode&#39;s Design Parking System - EXTREMELY SIMPLE &amp; LOGICAL Java Solution Beats 90%](https://dev.to/verisimilitudex/1603-leetcodes-design-parking-system-extremely-simple-logical-java-solution-beats-90-1mbg)
-- [7 Must-Know JS Object Methods 🔥](https://dev.to/jd2r/7-must-know-js-object-methods-2cc7)
-- [2469. LeetCode&#39;s Convert the Temperature - SUPER Simple Python Solution Beats 98% in Memory](https://dev.to/verisimilitudex/super-simple-python-solution-beats-98-in-memory-76l)
 <!-- BLOG-POST-LIST:END -->
 
