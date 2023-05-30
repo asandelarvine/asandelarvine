@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #158](https://dev.to/aws/aws-open-source-newsletter-158-178k)
-- [Learn to Make Heatmaps in JS](https://dev.to/andreykh/learn-to-make-heatmaps-in-js-59ji)
-- [The Importance of Magento Performance Optimization and How to Achieve It](https://dev.to/lewisblakeney/the-importance-of-magento-performance-optimization-and-how-to-achieve-it-2oj5)
-- [What&#39;s the Most Unusual Thing You&#39;ve Discovered While Coding?](https://dev.to/devteam/whats-the-most-unusual-thing-youve-discovered-while-coding-1l21)
+- [The Dynamic Duo: React and TypeScript - A Match Made in Web Development Heaven](https://dev.to/nhawkesdallas01/the-dynamic-duo-react-and-typescript-a-match-made-in-web-development-heaven-1od7)
+- [How to Create a Pricing Table with a Monthly/Yearly Toggle in Tailwind CSS and Vue](https://dev.to/cruip_com/how-to-create-a-pricing-table-with-a-monthlyyearly-toggle-in-tailwind-css-and-vue-1ah7)
+- [How to Create a Pricing Table with a Monthly/Yearly Toggle in Tailwind CSS and Next.js](https://dev.to/cruip_com/how-to-create-a-pricing-table-with-a-monthlyyearly-toggle-in-tailwind-css-and-nextjs-2j1j)
+- [How to Create a Pricing Table with a Monthly/Yearly Toggle in Tailwind CSS](https://dev.to/cruip_com/how-to-create-a-pricing-table-with-a-monthlyyearly-toggle-in-tailwind-css-j8f)
 <!-- BLOG-POST-LIST:END -->
 
