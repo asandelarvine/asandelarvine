@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create modal with Reactstrap](https://dev.to/nasreenkhalid/create-modal-with-reactstrap-2m9o)
+- [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
 - [main.dart flutter default code](https://dev.to/realnamehidden1_61/maindart-flutter-default-code-16j1)
 - [Add Google Analytics Tracking Code to All Pages Automatically](https://dev.to/mohsenkamrani/add-google-analytics-tracking-code-to-all-pages-automatically-19d5)
-- [[Tool] Convert JSON to code](https://dev.to/zenzai/tool-convert-json-to-code-557o)
-- [From HR to Tech: Klesta&#39;s Inspiring Journey with the Web Dev Path Project](https://dev.to/wdp/from-hr-to-tech-klestas-inspiring-journey-with-the-web-dev-path-project-n4c)
 <!-- BLOG-POST-LIST:END -->
 
