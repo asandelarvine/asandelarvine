@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka vs Memphis](https://dev.to/memphis_dev/apache-kafka-vs-memphis-48de)
-- [Upgrading Old Version of Dokku](https://dev.to/samuelodan/upgrading-old-version-of-dokku-1hda)
-- [How Can You Tell A Job You Apply For Is Actually A Safe Space?](https://dev.to/codenewbieteam/how-can-you-tell-a-job-you-apply-for-is-actually-a-safe-space-174n)
-- [Adding a Domain and SSL Certificate to Your Dokku App](https://dev.to/samuelodan/adding-a-domain-and-ssl-certificate-to-your-dokku-app-20oc)
+- [Generative AI with Azure OpenAI &lpar;DALL-E Overview&rpar;](https://dev.to/esdanielgomez/generative-ai-with-azure-openai-dall-e-overview-2pji)
+- [Joins in DBMS](https://dev.to/aryan_shourie/joins-in-dbms-4cf1)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cb6)
+- [Integrating Elasticsearch with Node.js Applications](https://dev.to/limaleandro1999/integrating-elasticsearch-with-nodejs-applications-i18)
 <!-- BLOG-POST-LIST:END -->
 
