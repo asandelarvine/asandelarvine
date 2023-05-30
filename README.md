@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is TCP/IP and why is it important? 🤔](https://dev.to/codexam/what-is-tcpip-and-why-is-it-important-cm2)
+- [How MIME and SMTP work together to send emails over the internet 📧](https://dev.to/codexam/how-mime-and-smtp-work-together-to-send-emails-over-the-internet-3jgh)
 - [Hyrum&#39;s law in modern frontend](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
 - [Demystifying PGP Keys: Understanding the Inner Workings of Public-Key Cryptography](https://dev.to/jsquared/demystifying-pgp-keys-understanding-the-inner-workings-of-public-key-cryptography-57aj)
-- [Share Your Expertise &amp; Stories with #devpride this Pride Month! 🌈](https://dev.to/devteam/share-your-expertise-stories-with-devpride-this-pride-month-39mc)
-- [1603. LeetCode&#39;s Design Parking System - EXTREMELY SIMPLE &amp; LOGICAL Java Solution Beats 90%](https://dev.to/verisimilitudex/1603-leetcodes-design-parking-system-extremely-simple-logical-java-solution-beats-90-1mbg)
 <!-- BLOG-POST-LIST:END -->
 
