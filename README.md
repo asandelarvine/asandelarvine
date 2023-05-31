@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks can ALMOST do Everything](https://dev.to/philipjohnbasile/react-hooks-can-almost-do-everything-o7e)
-- [AWS Lambda Use Cases: When You Should Use It?](https://dev.to/aws-builders/aws-lambda-use-cases-when-you-should-use-it-5e2e)
-- [Welcome Thread - v227](https://dev.to/devteam/welcome-thread-v227-2lb3)
-- [3 Reasons to Learn Laravel](https://dev.to/rodolfovmartins/3-reasons-to-learn-laravel-1bji)
+- [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
+- [The Big O Journey: A Tale of Efficiency and Chuckles](https://dev.to/muhmmadawd/the-big-o-journey-a-tale-of-efficiency-and-chuckles-4ddc)
+- [&quot;From Occupational Therapy to Code&quot;: CodeNewbie Podcast S24E4](https://dev.to/codenewbieteam/from-occupational-therapy-to-code-codenewbie-podcast-s24e4-50ii)
+- [How to make your own simple translator in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf)
 <!-- BLOG-POST-LIST:END -->
 
