@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers, beware! Designers attack!](https://dev.to/emphie/programmers-beware-designers-attack-33oa)
 - [Flutter Column Widget Example](https://dev.to/realnamehidden1_61/flutter-column-widget-example-14em)
+- [How to migrate AASM to ENUM while keeping users in mind](https://dev.to/saoma1/how-to-migrate-aasm-to-enum-while-keeping-users-in-mind-2390)
 - [Types of Entities in Entity Framework](https://dev.to/sardarmudassaralikhan/types-of-entities-in-entity-framework-3f52)
-- [There is no right or wrong, as long as it works - Actually how you use DynamoDB makes a lot of difference!](https://dev.to/aws-builders/there-is-no-right-or-wrong-as-long-as-it-works-actually-how-you-use-dynamodb-makes-a-lot-of-difference-2668)
-- [Microservices: How to use Null Object Pattern to improve user experience](https://dev.to/frolk/microservices-how-to-use-null-object-pattern-to-improve-user-experience-5400)
 <!-- BLOG-POST-LIST:END -->
 
