@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Cloud Computing and Deployment Strategies](https://dev.to/ishanbagchi/introduction-to-cloud-computing-and-deployment-strategies-d12)
+- [Build a Basketball SMS Chatbot with LangChain Prompt Templates in Python](https://dev.to/twilio/build-a-basketball-sms-chatbot-with-langchain-prompt-templates-in-python-5dld)
+- [Exploring ES6 JavaScript Array Methods](https://dev.to/bobbyhalljr/exploring-es6-javascript-array-methods-1886)
 - [pyaction 4.20.0 Released](https://dev.to/cicirello/pyaction-4200-released-4p3k)
-- [Why GPUs and NVIDIA are the Powerhouses of AI?](https://dev.to/yatendra2001/why-gpus-and-nvidia-are-the-powerhouses-of-ai-2iad)
-- [Compile pg_math for YugabyteDB &lpar;wrapper on GNU Scientific Library distribution functions&rpar;](https://dev.to/yugabyte/compile-pgmath-for-yugabytedb-wrapper-on-gnu-scientific-library-distribution-functions-2d04)
-- [An Introduction to NgxLoadWithDirective: Simplifying Observable Data Loading in Angular](https://dev.to/rensjaspers/an-introduction-to-ngxloadwithdirective-simplifying-observable-data-loading-in-angular-1bea)
 <!-- BLOG-POST-LIST:END -->
 
