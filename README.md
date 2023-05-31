@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Tailwind](https://dev.to/arindam_1729/getting-started-with-tailwind-1aa5)
 - [How to Welcome First-Time Contributors to Your Repository Using Github Actions](https://dev.to/programequity/how-to-welcome-first-time-contributors-to-your-repository-using-github-actions-390p)
 - [6 coding best practices to take you to the next level](https://dev.to/wolfflucas/6-coding-best-practices-to-take-you-to-the-next-level-3750)
 - [INSTALL SLACK ON LINUX MINT 21.1](https://dev.to/thekalderon/install-slack-on-linux-mint-211-59di)
-- [What is TCP/IP and why is it important? 🤔](https://dev.to/codexam/what-is-tcpip-and-why-is-it-important-cm2)
 <!-- BLOG-POST-LIST:END -->
 
