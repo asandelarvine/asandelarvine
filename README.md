@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using express.js](https://dev.to/sebastian_wessel/stop-using-expressjs-4io)
+- [Reusability vs. Inheritance](https://dev.to/efpage/reusability-vs-inheritance-on0)
 - [Reply All Considered Harmful](https://dev.to/solidi/reply-all-considered-harmful-45aj)
 - [Create Chrome Extension Using Vue The Easiest Way](https://dev.to/brojenuel/create-chrome-extension-using-vue-the-easiest-way-24ah)
-- [Managing Complexity: The Role of the Engineer](https://dev.to/snowman647/managing-complexity-the-role-of-the-engineer-4lcc)
-- [Programmers, beware! Designers attack!](https://dev.to/emphie/programmers-beware-designers-attack-33oa)
 <!-- BLOG-POST-LIST:END -->
 
