@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [pyaction 4.20.0 Released](https://dev.to/cicirello/pyaction-4200-released-4p3k)
+- [Why GPUs and NVIDIA are the Powerhouses of AI?](https://dev.to/yatendra2001/why-gpus-and-nvidia-are-the-powerhouses-of-ai-2iad)
+- [Compile pg_math for YugabyteDB &lpar;wrapper on GNU Scientific Library distribution functions&rpar;](https://dev.to/yugabyte/compile-pgmath-for-yugabytedb-wrapper-on-gnu-scientific-library-distribution-functions-2d04)
 - [An Introduction to NgxLoadWithDirective: Simplifying Observable Data Loading in Angular](https://dev.to/rensjaspers/an-introduction-to-ngxloadwithdirective-simplifying-observable-data-loading-in-angular-1bea)
-- [Exploring Peer-to-Peer &lpar;P2P&rpar; Networks in Web3](https://dev.to/adetutu777/exploring-peer-to-peer-p2p-networks-in-web3-13b8)
-- [Azure Turn Server: The Step by Step Guide](https://dev.to/alakkadshaw/azure-turn-server-the-step-by-step-guide-1bjh)
-- [Follow Me on Medium!! 🔥](https://dev.to/verisimilitudex/follow-me-on-medium-3473)
 <!-- BLOG-POST-LIST:END -->
 
