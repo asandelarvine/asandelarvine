@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microservices: How to use Null Object Pattern to improve user experience](https://dev.to/frolk/microservices-how-to-use-null-object-pattern-to-improve-user-experience-5400)
 - [Hurry and add this free course to your Udemy Cart...Lasts less than 30 minutes:](https://dev.to/jane49cloud/hurry-and-add-this-free-course-to-your-udemy-cartlasts-less-than-30-minutes-4g8f)
+- [Difference Between Ionic 3 and Ionic 4](https://dev.to/ifourtechnolab/difference-between-ionic-3-and-ionic-4-2040)
 - [Enhancing your terminal experience: Warp or Fig?](https://dev.to/this-is-learning/enhancing-your-terminal-experience-warp-or-fig-g15)
-- [Tech Networking 101: How Are You Building Your Connections?](https://dev.to/codenewbieteam/tech-networking-101-how-are-you-building-your-connections-1ik2)
-- [Frontend Platform use case - Creating a roadmap without a Product Manager](https://dev.to/noriste/frontend-platform-use-case-creating-a-roadmap-without-a-product-manager-2fdd)
 <!-- BLOG-POST-LIST:END -->
 
