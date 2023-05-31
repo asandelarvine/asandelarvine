@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Hooks can ALMOST do Everything](https://dev.to/philipjohnbasile/react-hooks-can-almost-do-everything-o7e)
+- [AWS Lambda Use Cases: When You Should Use It?](https://dev.to/aws-builders/aws-lambda-use-cases-when-you-should-use-it-5e2e)
 - [Welcome Thread - v227](https://dev.to/devteam/welcome-thread-v227-2lb3)
 - [3 Reasons to Learn Laravel](https://dev.to/rodolfovmartins/3-reasons-to-learn-laravel-1bji)
-- [Stop using express.js](https://dev.to/sebastian_wessel/stop-using-expressjs-4io)
-- [ChatGPT Changed How I Write Software](https://dev.to/aws-heroes/chatgpt-changed-how-i-write-software-2kpe)
 <!-- BLOG-POST-LIST:END -->
 
