@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Welcome First-Time Contributors to Your Repository Using Github Actions](https://dev.to/programequity/how-to-welcome-first-time-contributors-to-your-repository-using-github-actions-390p)
 - [6 coding best practices to take you to the next level](https://dev.to/wolfflucas/6-coding-best-practices-to-take-you-to-the-next-level-3750)
 - [INSTALL SLACK ON LINUX MINT 21.1](https://dev.to/thekalderon/install-slack-on-linux-mint-211-59di)
 - [What is TCP/IP and why is it important? 🤔](https://dev.to/codexam/what-is-tcpip-and-why-is-it-important-cm2)
-- [How MIME and SMTP Work Together to Send Emails 📧](https://dev.to/codexam/how-mime-and-smtp-work-together-to-send-emails-4bcc)
 <!-- BLOG-POST-LIST:END -->
 
