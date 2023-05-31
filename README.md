@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Column Widget Example](https://dev.to/realnamehidden1_61/flutter-column-widget-example-14em)
+- [Types of Entities in Entity Framework](https://dev.to/sardarmudassaralikhan/types-of-entities-in-entity-framework-3f52)
+- [There is no right or wrong, as long as it works - Actually how you use DynamoDB makes a lot of difference!](https://dev.to/aws-builders/there-is-no-right-or-wrong-as-long-as-it-works-actually-how-you-use-dynamodb-makes-a-lot-of-difference-2668)
 - [Microservices: How to use Null Object Pattern to improve user experience](https://dev.to/frolk/microservices-how-to-use-null-object-pattern-to-improve-user-experience-5400)
-- [Hurry and add this free course to your Udemy Cart...Lasts less than 30 minutes:](https://dev.to/jane49cloud/hurry-and-add-this-free-course-to-your-udemy-cartlasts-less-than-30-minutes-4g8f)
-- [Difference Between Ionic 3 and Ionic 4](https://dev.to/ifourtechnolab/difference-between-ionic-3-and-ionic-4-2040)
-- [Enhancing your terminal experience: Warp or Fig?](https://dev.to/this-is-learning/enhancing-your-terminal-experience-warp-or-fig-g15)
 <!-- BLOG-POST-LIST:END -->
 
