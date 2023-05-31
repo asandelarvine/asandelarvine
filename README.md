@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reply All Considered Harmful](https://dev.to/solidi/reply-all-considered-harmful-45aj)
+- [Create Chrome Extension Using Vue The Easiest Way](https://dev.to/brojenuel/create-chrome-extension-using-vue-the-easiest-way-24ah)
+- [Managing Complexity: The Role of the Engineer](https://dev.to/snowman647/managing-complexity-the-role-of-the-engineer-4lcc)
 - [Programmers, beware! Designers attack!](https://dev.to/emphie/programmers-beware-designers-attack-33oa)
-- [Flutter Column Widget Example](https://dev.to/realnamehidden1_61/flutter-column-widget-example-14em)
-- [How to migrate AASM to ENUM while keeping users in mind](https://dev.to/saoma1/how-to-migrate-aasm-to-enum-while-keeping-users-in-mind-2390)
-- [Types of Entities in Entity Framework](https://dev.to/sardarmudassaralikhan/types-of-entities-in-entity-framework-3f52)
 <!-- BLOG-POST-LIST:END -->
 
