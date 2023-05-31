@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to NgxLoadWithDirective: Simplifying Observable Data Loading in Angular](https://dev.to/rensjaspers/an-introduction-to-ngxloadwithdirective-simplifying-observable-data-loading-in-angular-1bea)
+- [Exploring Peer-to-Peer &lpar;P2P&rpar; Networks in Web3](https://dev.to/adetutu777/exploring-peer-to-peer-p2p-networks-in-web3-13b8)
 - [Azure Turn Server: The Step by Step Guide](https://dev.to/alakkadshaw/azure-turn-server-the-step-by-step-guide-1bjh)
 - [Follow Me on Medium!! 🔥](https://dev.to/verisimilitudex/follow-me-on-medium-3473)
-- [Why Containers are more popular than Virtual Machine?](https://dev.to/jay_sheth/why-containers-are-more-popular-than-virtual-machine-3g7b)
-- [chill beats to focus to](https://dev.to/xshapira/chill-beats-to-focus-to-3bbf)
 <!-- BLOG-POST-LIST:END -->
 
