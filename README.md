@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [chill beats to focus to](https://dev.to/xshapira/chill-beats-to-focus-to-3bbf)
 - [Exploring Website Scroll Effects: Locomotive Scroll vs React Scroll Parallax](https://dev.to/munavvar/exploring-website-scroll-effects-locomotive-scroll-vs-react-scroll-parallax-1938)
 - [1476. LeetCode&#39;s Subrectangle Queries - 🔥Simple LOGICAL Java Solution - Beats 66%](https://dev.to/verisimilitudex/1476-leetcodes-subrectangle-queries-simple-logical-java-solution-beats-66-ohb)
 - [Route 53 Unveiled: A Comprehensive Guide to Amazon’s DNS service.](https://dev.to/brandondamue/route-53-unveiled-a-comprehensive-guide-to-amazons-dns-service-2lln)
-- [What’s the difference between Terraform Plan and Overmind Blast Radius?](https://dev.to/jameslaneovermind/whats-the-difference-between-terraform-plan-and-overmind-blast-radius-2f46)
 <!-- BLOG-POST-LIST:END -->
 
