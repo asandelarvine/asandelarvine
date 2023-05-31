@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 coding best practices to take you to the next level](https://dev.to/wolfflucas/6-coding-best-practices-to-take-you-to-the-next-level-3750)
+- [INSTALL SLACK ON LINUX MINT 21.1](https://dev.to/thekalderon/install-slack-on-linux-mint-211-59di)
 - [What is TCP/IP and why is it important? 🤔](https://dev.to/codexam/what-is-tcpip-and-why-is-it-important-cm2)
-- [How MIME and SMTP work together to send emails over the internet 📧](https://dev.to/codexam/how-mime-and-smtp-work-together-to-send-emails-over-the-internet-3jgh)
-- [Hyrum&#39;s law in modern frontend](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
-- [Demystifying PGP Keys: Understanding the Inner Workings of Public-Key Cryptography](https://dev.to/jsquared/demystifying-pgp-keys-understanding-the-inner-workings-of-public-key-cryptography-57aj)
+- [How MIME and SMTP Work Together to Send Emails 📧](https://dev.to/codexam/how-mime-and-smtp-work-together-to-send-emails-4bcc)
 <!-- BLOG-POST-LIST:END -->
 
