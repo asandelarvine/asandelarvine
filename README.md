@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [1476. LeetCode&#39;s Subrectangle Queries - 🔥Simple LOGICAL Java Solution - Beats 66%](https://dev.to/verisimilitudex/1476-leetcodes-subrectangle-queries-simple-logical-java-solution-beats-66-ohb)
+- [Route 53 Unveiled: A Comprehensive Guide to Amazon’s DNS service.](https://dev.to/brandondamue/route-53-unveiled-a-comprehensive-guide-to-amazons-dns-service-2lln)
+- [What’s the difference between Terraform Plan and Overmind Blast Radius?](https://dev.to/jameslaneovermind/whats-the-difference-between-terraform-plan-and-overmind-blast-radius-2f46)
 - [Single-Sign-On By Vouch Proxy And AWS Cognito](https://dev.to/aws-builders/single-sign-on-by-vouch-proxy-and-aws-cognito-427g)
-- [The Big O Journey: A Tale of Efficiency and Chuckles](https://dev.to/muhmmadawd/the-big-o-journey-a-tale-of-efficiency-and-chuckles-4ddc)
-- [&quot;From Occupational Therapy to Code&quot;: CodeNewbie Podcast S24E4](https://dev.to/codenewbieteam/from-occupational-therapy-to-code-codenewbie-podcast-s24e4-50ii)
-- [How to make your own simple translator in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf)
 <!-- BLOG-POST-LIST:END -->
 
