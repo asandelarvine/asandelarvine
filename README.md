@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comandos básicos GIT e vídeo de uso no JetBrains](https://dev.to/jcarlosvale/comandos-basicos-git-e-video-de-uso-no-jetbrains-5epg)
-- [How to bring AWS Cloud into proximity to students and educational institutions](https://dev.to/aws-builders/how-to-bring-aws-cloud-into-proximity-to-students-and-educational-institutions-f2m)
-- [A guide to cross-compilation in Rust](https://dev.to/logrocket/a-guide-to-cross-compilation-in-rust-1844)
-- [Bring Machine Learning to Your Web Apps with TensorFlow.js](https://dev.to/anurag_vishwakarma/bring-machine-learning-to-your-web-apps-with-tensorflowjs-16hi)
+- [May Stripe Developer Digest](https://dev.to/stripe/may-stripe-developer-digest-21o3)
+- [Beginning my Journey into Open Source with Outreachy](https://dev.to/hellennamulinda/beginning-my-journey-into-open-source-with-outreachy-3nln)
+- [Join the 1Password Hackathon hosted by Hashnode and compete for $10,000 in prizes](https://dev.to/1password/join-the-1password-hackathon-hosted-by-hashnode-and-compete-for-10000-in-prizes-4lpo)
+- [&quot;Overcoming Recruiter Silence: Insights from Industry Connections and Building a Supportive Network for Job Seekers&quot;](https://dev.to/yufa/overcoming-recruiter-silence-insights-from-industry-connections-and-building-a-supportive-network-for-job-seekers-28mg)
 <!-- BLOG-POST-LIST:END -->
 
