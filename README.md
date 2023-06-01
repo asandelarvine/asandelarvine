@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to bring AWS Cloud into proximity to students and educational institutions](https://dev.to/aws-builders/how-to-bring-aws-cloud-into-proximity-to-students-and-educational-institutions-f2m)
+- [A guide to cross-compilation in Rust](https://dev.to/logrocket/a-guide-to-cross-compilation-in-rust-1844)
+- [Bring Machine Learning to Your Web Apps with TensorFlow.js](https://dev.to/anurag_vishwakarma/bring-machine-learning-to-your-web-apps-with-tensorflowjs-16hi)
 - [Building AI Products - Why Haven&#39;t You Started Building Yours Yet?](https://dev.to/thenomadevel/building-ai-products-why-havent-you-started-building-yours-yet-45e6)
-- [Analyzing Website Performance: Server-side and Front-end](https://dev.to/ajebodev/analyzing-website-performance-server-side-and-front-end-37oe)
-- [PaceTrace ⏳: A Lightweight Progress Bar CLI Library](https://dev.to/guaregua19/pacetrace-a-lightweight-progress-bar-cli-library-1a01)
-- [React.js Explained: Comparing and Converting Higher-Order Components to Hooks with Practical Examples](https://dev.to/sammychris/reactjs-explained-comparing-and-converting-higher-order-components-to-hooks-with-practical-examples-8hl)
 <!-- BLOG-POST-LIST:END -->
 
