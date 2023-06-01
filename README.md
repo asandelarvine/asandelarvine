@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Cloud Computing and Deployment Strategies](https://dev.to/ishanbagchi/introduction-to-cloud-computing-and-deployment-strategies-d12)
-- [Build a Basketball SMS Chatbot with LangChain Prompt Templates in Python](https://dev.to/twilio/build-a-basketball-sms-chatbot-with-langchain-prompt-templates-in-python-5dld)
-- [Exploring ES6 JavaScript Array Methods](https://dev.to/bobbyhalljr/exploring-es6-javascript-array-methods-1886)
-- [pyaction 4.20.0 Released](https://dev.to/cicirello/pyaction-4200-released-4p3k)
+- [Code Smell 215 - Deserializing Object Vulnerability](https://dev.to/mcsee/code-smell-215-deserializing-object-vulnerability-3hbj)
+- [How to configure aliases on React TS project with Vite](https://dev.to/jessicacastro/how-to-configure-aliases-on-react-ts-project-with-vite-1n2g)
+- [Creating a Firebase Admin Panel with React.js and Next.js](https://dev.to/learndaily/creating-a-firebase-admin-panel-with-reactjs-and-nextjs-2f7a)
+- [How many coding projects do I need on my resume?](https://dev.to/coachmatt_io/how-many-coding-projects-do-i-need-on-my-resume-4bol)
 <!-- BLOG-POST-LIST:END -->
 
