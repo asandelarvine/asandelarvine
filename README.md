@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform - Understanding the Lifecycle Block](https://dev.to/pwd9000/terraform-understanding-the-lifecycle-block-4f6e)
 - [C# Exception Handling: Techniques and Best Practices](https://dev.to/bytehide/c-exception-handling-techniques-and-best-practices-b2j)
 - [Health Check Response Format for HTTP APIs](https://dev.to/nfrankel/health-check-response-format-for-http-apis-2g4j)
 - [Top 33 DevOps Monitoring Tools For 2023](https://dev.to/lambdatest/top-33-devops-monitoring-tools-for-2023-1fpc)
-- [A beginner guide into deepfakes](https://dev.to/akashpattnaik/a-beginner-guide-into-deepfakes-2hl6)
 <!-- BLOG-POST-LIST:END -->
 
