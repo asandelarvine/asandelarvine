@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comandos básicos GIT e vídeo de uso no JetBrains](https://dev.to/jcarlosvale/comandos-basicos-git-e-video-de-uso-no-jetbrains-5epg)
 - [How to bring AWS Cloud into proximity to students and educational institutions](https://dev.to/aws-builders/how-to-bring-aws-cloud-into-proximity-to-students-and-educational-institutions-f2m)
 - [A guide to cross-compilation in Rust](https://dev.to/logrocket/a-guide-to-cross-compilation-in-rust-1844)
 - [Bring Machine Learning to Your Web Apps with TensorFlow.js](https://dev.to/anurag_vishwakarma/bring-machine-learning-to-your-web-apps-with-tensorflowjs-16hi)
-- [Building AI Products - Why Haven&#39;t You Started Building Yours Yet?](https://dev.to/thenomadevel/building-ai-products-why-havent-you-started-building-yours-yet-45e6)
 <!-- BLOG-POST-LIST:END -->
 
