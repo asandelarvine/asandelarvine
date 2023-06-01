@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: How to Approach Your Manager When Interviewing for a New Job?](https://dev.to/devteam/sloans-inbox-how-to-approach-your-manager-when-interviewing-for-a-new-job-129m)
-- [Learn Java](https://dev.to/codenameone/learn-java-4m9e)
-- [Representation Matters 🌈 Who Inspires You?](https://dev.to/devteam/representation-matters-who-inspires-you-1ip0)
-- [Building Allies: How Can You Support Queer Colleagues in the Workplace?](https://dev.to/codenewbieteam/building-allies-how-can-you-support-queer-colleagues-in-the-workplace-2hjo)
+- [AWS Well-Architected Framework&#39;s &quot;Cost Optimization&quot; Pillar](https://dev.to/mesutoezdil/aws-well-architected-frameworks-cost-optimization-pillar-4k1o)
+- [Secret To Optimizing SQL Queries - Understand The SQL Execution Order 🚀](https://dev.to/kanani_nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-28m1)
+- [Cost Breakdown - Creating Your Own BEP20 Token](https://dev.to/jessietomaz/cost-breakdown-creating-your-own-bep20-token-49ck)
+- [37 Best Website Testing Tools For 2023](https://dev.to/lambdatest/37-best-website-testing-tools-for-2023-1ia1)
 <!-- BLOG-POST-LIST:END -->
 
