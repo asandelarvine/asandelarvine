@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PaceTrace ⏳: A Lightweight Progress Bar CLI Library](https://dev.to/guaregua19/pacetrace-a-lightweight-progress-bar-cli-library-1a01)
 - [Move your mouse pointer with hand gestures](https://dev.to/orthymarjan/move-your-mouse-pointer-with-hand-gestures-1gp1)
 - [Understanding Relational Database Management Systems &lpar;RDBMS&rpar;](https://dev.to/moaz178/understanding-relational-database-management-systems-rdbms-5fna)
 - [Coding Game: Quick Code Reading](https://dev.to/snowman647/coding-game-quick-code-reading-47id)
-- [Boosting Performance: Exploring the Capabilities of Amazon CloudFront and AWS Global Accelerator](https://dev.to/brandondamue/boosting-performance-exploring-the-capabilities-of-amazon-cloudfront-and-aws-global-accelerator-41fe)
 <!-- BLOG-POST-LIST:END -->
 
