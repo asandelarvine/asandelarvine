@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Single-Digit Spotlight v2](https://dev.to/devteam/single-digit-spotlight-v2-10b2)
-- [flutter row widget example](https://dev.to/realnamehidden1_61/flutter-row-widget-example-f1)
-- [Discovering Open Source Opportunities with Quine.sh](https://dev.to/coderatul/discovering-open-source-opportunities-with-quinesh-51od)
-- [How to generate voices with Python?](https://dev.to/edenai/how-to-generate-voices-with-python-3558)
+- [Move your mouse pointer with hand gestures](https://dev.to/orthymarjan/move-your-mouse-pointer-with-hand-gestures-1gp1)
+- [Understanding Relational Database Management Systems &lpar;RDBMS&rpar;](https://dev.to/moaz178/understanding-relational-database-management-systems-rdbms-5fna)
+- [Coding Game: Quick Code Reading](https://dev.to/snowman647/coding-game-quick-code-reading-47id)
+- [Boosting Performance: Exploring the Capabilities of Amazon CloudFront and AWS Global Accelerator](https://dev.to/brandondamue/boosting-performance-exploring-the-capabilities-of-amazon-cloudfront-and-aws-global-accelerator-41fe)
 <!-- BLOG-POST-LIST:END -->
 
