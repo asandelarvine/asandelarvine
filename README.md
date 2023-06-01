@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Measure performance using &#39;performance.now&lpar;&rpar;&#39; in JavaScript](https://dev.to/maafaishal/measure-performance-using-performancenow-in-javascript-88f)
 - [Do You Need the Latest Computer / Software to Learn Programming?](https://dev.to/montyharper/do-you-need-the-latest-computer-software-to-learn-programming-1cdf)
 - [How to Send Automated Emails with Power Automate](https://dev.to/citizendevacad/how-to-send-automated-emails-with-power-automate-468i)
 - [Linear Search: A Guide To DSA &lpar;2&rpar;](https://dev.to/binayakjha/linear-search-a-guide-to-dsa-2-56le)
-- [I bring a front-end adaptation tool from China](https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4)
 <!-- BLOG-POST-LIST:END -->
 
