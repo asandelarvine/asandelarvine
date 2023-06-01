@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Well-Architected Framework&#39;s &quot;Cost Optimization&quot; Pillar](https://dev.to/mesutoezdil/aws-well-architected-frameworks-cost-optimization-pillar-4k1o)
-- [Secret To Optimizing SQL Queries - Understand The SQL Execution Order 🚀](https://dev.to/kanani_nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-28m1)
-- [Cost Breakdown - Creating Your Own BEP20 Token](https://dev.to/jessietomaz/cost-breakdown-creating-your-own-bep20-token-49ck)
-- [37 Best Website Testing Tools For 2023](https://dev.to/lambdatest/37-best-website-testing-tools-for-2023-1ia1)
+- [C# Exception Handling: Techniques and Best Practices](https://dev.to/bytehide/c-exception-handling-techniques-and-best-practices-b2j)
+- [Health Check Response Format for HTTP APIs](https://dev.to/nfrankel/health-check-response-format-for-http-apis-2g4j)
+- [Top 33 DevOps Monitoring Tools For 2023](https://dev.to/lambdatest/top-33-devops-monitoring-tools-for-2023-1fpc)
+- [A beginner guide into deepfakes](https://dev.to/akashpattnaik/a-beginner-guide-into-deepfakes-2hl6)
 <!-- BLOG-POST-LIST:END -->
 
