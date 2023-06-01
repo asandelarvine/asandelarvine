@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility issues with stylized unicode characters](https://dev.to/shadowfaxrodeo/accessibility-issues-with-stylized-unicode-characters-29li)
+- [Deploying a React App on DigitalOcean App Platform Using GitHub Actions](https://dev.to/_itsglover/deploying-a-react-app-on-digitalocean-app-platform-using-github-actions-38jj)
+- [Machine Learning 🤖 Concepts Every Developer Should Know](https://dev.to/elliot_brenya/machine-learning-concepts-every-developer-should-know-3ck9)
 - [How to make a GPA Calculator as a beginner in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
-- [Terraform - Understanding the Lifecycle Block](https://dev.to/pwd9000/terraform-understanding-the-lifecycle-block-4f6e)
-- [A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
-- [You Don&#39;t Need Redux: Embracing Component-Centric State Management in React](https://dev.to/ghamadi/embracing-component-centric-state-management-in-react-26hk)
 <!-- BLOG-POST-LIST:END -->
 
