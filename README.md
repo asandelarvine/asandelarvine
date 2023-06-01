@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Engaging Content on Javascript Core Concepts 💻](https://dev.to/codecraftjs/engaging-content-on-javascript-core-concepts-486g)
-- [Happy Pride Month, DEV Community! 🏳️‍🌈](https://dev.to/devteam/happy-pride-month-dev-community-298e)
-- [PayPal Has Updated Its Webhook Verification Endpoint](https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l)
-- [How to create a notification provider with react-toastify](https://dev.to/refine/how-to-create-a-notification-provider-with-react-toastify-206k)
+- [What are your tips for finding community?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-tips-for-finding-community-codenewbie-podcast-j1n)
+- [Naming conventions and style guides in programming](https://dev.to/codepapi/naming-conventions-and-style-guides-in-programming-59a9)
+- [Why is Application Modernization Crucial in the Banking and Insurance Sector?](https://dev.to/itcrats/why-is-application-modernization-crucial-in-the-banking-and-insurance-sector-dbk)
+- [Speeding up GitHub Actions with npm cache](https://dev.to/accreditly/speeding-up-github-actions-with-npm-cache-1712)
 <!-- BLOG-POST-LIST:END -->
 
