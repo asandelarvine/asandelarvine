@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your tips for finding community?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-tips-for-finding-community-codenewbie-podcast-j1n)
-- [Naming conventions and style guides in programming](https://dev.to/codepapi/naming-conventions-and-style-guides-in-programming-59a9)
-- [Why is Application Modernization Crucial in the Banking and Insurance Sector?](https://dev.to/itcrats/why-is-application-modernization-crucial-in-the-banking-and-insurance-sector-dbk)
-- [Speeding up GitHub Actions with npm cache](https://dev.to/accreditly/speeding-up-github-actions-with-npm-cache-1712)
+- [Single-Digit Spotlight v2](https://dev.to/devteam/single-digit-spotlight-v2-10b2)
+- [flutter row widget example](https://dev.to/realnamehidden1_61/flutter-row-widget-example-f1)
+- [Discovering Open Source Opportunities with Quine.sh](https://dev.to/coderatul/discovering-open-source-opportunities-with-quinesh-51od)
+- [How to generate voices with Python?](https://dev.to/edenai/how-to-generate-voices-with-python-3558)
 <!-- BLOG-POST-LIST:END -->
 
