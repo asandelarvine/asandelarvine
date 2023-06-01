@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Automated Emails with Power Automate](https://dev.to/citizendevacad/how-to-send-automated-emails-with-power-automate-468i)
+- [Linear Search: A Guide To DSA &lpar;2&rpar;](https://dev.to/binayakjha/linear-search-a-guide-to-dsa-2-56le)
+- [I bring a front-end adaptation tool from China](https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4)
 - [Code Smell 215 - Deserializing Object Vulnerability](https://dev.to/mcsee/code-smell-215-deserializing-object-vulnerability-3hbj)
-- [How to configure aliases on React TS project with Vite](https://dev.to/jessicacastro/how-to-configure-aliases-on-react-ts-project-with-vite-1n2g)
-- [Creating a Firebase Admin Panel with React.js and Next.js](https://dev.to/learndaily/creating-a-firebase-admin-panel-with-reactjs-and-nextjs-2f7a)
-- [How many coding projects do I need on my resume?](https://dev.to/coachmatt_io/how-many-coding-projects-do-i-need-on-my-resume-4bol)
 <!-- BLOG-POST-LIST:END -->
 
