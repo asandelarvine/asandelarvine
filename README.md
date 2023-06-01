@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Recursion: A Beginner&#39;s Guide](https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k)
-- [New coder here!](https://dev.to/andrewdstave/new-coder-here-51pp)
-- [10 Essential Tools Every Developer Should Know About](https://dev.to/rubanginosingh/10-essential-tools-every-developer-should-know-about-1f4f)
-- [Measure performance using &#39;performance.now&lpar;&rpar;&#39; in JavaScript](https://dev.to/maafaishal/measure-performance-using-performancenow-in-javascript-88f)
+- [Sloan&#39;s Inbox: How to Approach Your Manager When Interviewing for a New Job?](https://dev.to/devteam/sloans-inbox-how-to-approach-your-manager-when-interviewing-for-a-new-job-129m)
+- [Learn Java](https://dev.to/codenameone/learn-java-4m9e)
+- [Representation Matters 🌈 Who Inspires You?](https://dev.to/devteam/representation-matters-who-inspires-you-1ip0)
+- [Building Allies: How Can You Support Queer Colleagues in the Workplace?](https://dev.to/codenewbieteam/building-allies-how-can-you-support-queer-colleagues-in-the-workplace-2hjo)
 <!-- BLOG-POST-LIST:END -->
 
