@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own YouTubeGPT using LangChain and OpenAI 🦜🔗](https://dev.to/akshayballal/build-your-own-youtubegpt-using-langchain-and-openai-4lh5)
+- [Join Elimination - Advanced SQL tuning](https://dev.to/pawsql/join-elimination-advanced-sql-tuning-4dn3)
 - [Accessibility issues with stylized unicode characters](https://dev.to/shadowfaxrodeo/accessibility-issues-with-stylized-unicode-characters-29li)
 - [Deploying a React App on DigitalOcean App Platform Using GitHub Actions](https://dev.to/_itsglover/deploying-a-react-app-on-digitalocean-app-platform-using-github-actions-38jj)
-- [Machine Learning 🤖 Concepts Every Developer Should Know](https://dev.to/elliot_brenya/machine-learning-concepts-every-developer-should-know-3ck9)
-- [How to make a GPA Calculator as a beginner in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
 <!-- BLOG-POST-LIST:END -->
 
