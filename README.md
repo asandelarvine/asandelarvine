@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your own YouTubeGPT using LangChain and OpenAI 🦜🔗](https://dev.to/akshayballal/build-your-own-youtubegpt-using-langchain-and-openai-4lh5)
-- [Join Elimination - Advanced SQL tuning](https://dev.to/pawsql/join-elimination-advanced-sql-tuning-4dn3)
-- [Accessibility issues with stylized unicode characters](https://dev.to/shadowfaxrodeo/accessibility-issues-with-stylized-unicode-characters-29li)
-- [Deploying a React App on DigitalOcean App Platform Using GitHub Actions](https://dev.to/_itsglover/deploying-a-react-app-on-digitalocean-app-platform-using-github-actions-38jj)
+- [Engaging Content on Javascript Core Concepts 💻](https://dev.to/codecraftjs/engaging-content-on-javascript-core-concepts-486g)
+- [Happy Pride Month, DEV Community! 🏳️‍🌈](https://dev.to/devteam/happy-pride-month-dev-community-298e)
+- [PayPal Has Updated Its Webhook Verification Endpoint](https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l)
+- [How to create a notification provider with react-toastify](https://dev.to/refine/how-to-create-a-notification-provider-with-react-toastify-206k)
 <!-- BLOG-POST-LIST:END -->
 
