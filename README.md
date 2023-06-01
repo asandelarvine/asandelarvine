@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Need the Latest Computer / Software to Learn Programming?](https://dev.to/montyharper/do-you-need-the-latest-computer-software-to-learn-programming-1cdf)
 - [How to Send Automated Emails with Power Automate](https://dev.to/citizendevacad/how-to-send-automated-emails-with-power-automate-468i)
 - [Linear Search: A Guide To DSA &lpar;2&rpar;](https://dev.to/binayakjha/linear-search-a-guide-to-dsa-2-56le)
 - [I bring a front-end adaptation tool from China](https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4)
-- [Code Smell 215 - Deserializing Object Vulnerability](https://dev.to/mcsee/code-smell-215-deserializing-object-vulnerability-3hbj)
 <!-- BLOG-POST-LIST:END -->
 
