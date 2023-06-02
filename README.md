@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create An UI Menu In Neovim](https://dev.to/____marcell/how-to-create-an-ui-menu-in-neovim-2k6a)
+- [771. LeetCode’s Jewels and Stones — Super SIMPLE &amp; EFFICIENT Algorithm Beats 92% in Runtime](https://dev.to/verisimilitudex/771-leetcodes-jewels-and-stones-super-simple-efficient-algorithm-beats-92-in-runtime-3olb)
 - [Extremely SIMPLE &amp; LOGICAL Java SOLUTION - Beats 94% of Solutions!!!! 🔥🔥](https://dev.to/verisimilitudex/extremely-simple-logical-java-solution-beats-94-of-solutions-43o1)
 - [Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
-- [May Stripe Developer Digest](https://dev.to/stripe/may-stripe-developer-digest-21o3)
-- [Beginning my Journey into Open Source with Outreachy](https://dev.to/hellennamulinda/beginning-my-journey-into-open-source-with-outreachy-3nln)
 <!-- BLOG-POST-LIST:END -->
 
