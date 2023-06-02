@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Hire A Software Developer For Your Web3 Startup](https://dev.to/kudoser/how-to-hire-a-software-developer-for-your-web3-startup-49f2)
 - [How to Create a Code Editor in React and ChakraUI](https://dev.to/glennviroux/how-to-create-a-code-editor-in-react-and-chakraui-27n9)
 - [Self-Host Your API Testing with Hoppscotch: The open-source API Platform](https://dev.to/hoppscotch/self-host-your-api-testing-with-hoppscotch-the-open-source-api-platform-1e5)
 - [Mastering Java Application Testing: Essential Resources for Success](https://dev.to/ivangavlik/mastering-java-application-testing-essential-resources-for-success-1lnj)
-- [7 Forbidden Secrets of Git: Master the Most Important Commands Now!](https://dev.to/muhmmadawd/7-forbidden-secrets-of-git-master-the-most-important-commands-now-o2m)
 <!-- BLOG-POST-LIST:END -->
 
