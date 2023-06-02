@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs Unveiled: Interview Edition! How Have You Worked Your Developer Magic?](https://dev.to/codenewbieteam/apis-unveiled-interview-edition-how-have-you-worked-your-developer-magic-2c37)
+- [Bridging the Gap: Embracing Problem-solving through Gap Analysis](https://dev.to/wizdomtek/bridging-the-gap-embracing-problem-solving-through-gap-analysis-54mc)
+- [Last Day On Dev](https://dev.to/murtazajooo/last-day-on-dev-359e)
 - [When Sci-fi Gets Real: Which Story Hits Too Close to Home?](https://dev.to/devteam/when-sci-fi-gets-real-which-story-hits-too-close-to-home-2n86)
-- [Idempotency and Immutable Objects](https://dev.to/polterguy/idempotency-and-immutable-objects-4db)
-- [Get started with this Top 5 Cloud Providers free tiers.](https://dev.to/chrisciokler/get-started-with-this-top-5-cloud-providers-free-tiers-28ig)
+- [APIs Unveiled: Interview Edition! How Have You Worked Your Developer Magic?](https://dev.to/codenewbieteam/apis-unveiled-interview-edition-how-have-you-worked-your-developer-magic-2c37)
 <!-- BLOG-POST-LIST:END -->
 
