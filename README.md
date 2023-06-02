@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Extremely SIMPLE &amp; LOGICAL Java SOLUTION - Beats 94% of Solutions!!!! 🔥🔥](https://dev.to/verisimilitudex/extremely-simple-logical-java-solution-beats-94-of-solutions-43o1)
+- [Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
 - [May Stripe Developer Digest](https://dev.to/stripe/may-stripe-developer-digest-21o3)
 - [Beginning my Journey into Open Source with Outreachy](https://dev.to/hellennamulinda/beginning-my-journey-into-open-source-with-outreachy-3nln)
-- [Join the 1Password Hackathon hosted by Hashnode and compete for $10,000 in prizes](https://dev.to/1password/join-the-1password-hackathon-hosted-by-hashnode-and-compete-for-10000-in-prizes-4lpo)
-- [&quot;Overcoming Recruiter Silence: Insights from Industry Connections and Building a Supportive Network for Job Seekers&quot;](https://dev.to/yufa/overcoming-recruiter-silence-insights-from-industry-connections-and-building-a-supportive-network-for-job-seekers-28mg)
 <!-- BLOG-POST-LIST:END -->
 
