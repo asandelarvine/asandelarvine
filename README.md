@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to remove the debug banner in Flutter?](https://dev.to/realnamehidden1_61/how-to-remove-the-debug-banner-in-flutter-2og1)
+- [30-Day Rust Learning Guide: Days 1 - 3](https://dev.to/mannyistyping/30-day-rust-learning-guide-days-1-3-59m)
 - [How To Create An UI Menu In Neovim](https://dev.to/____marcell/how-to-create-an-ui-menu-in-neovim-2k6a)
 - [771. LeetCode’s Jewels and Stones — Super SIMPLE &amp; EFFICIENT Algorithm Beats 92% in Runtime](https://dev.to/verisimilitudex/771-leetcodes-jewels-and-stones-super-simple-efficient-algorithm-beats-92-in-runtime-3olb)
-- [Extremely SIMPLE &amp; LOGICAL Java SOLUTION - Beats 94% of Solutions!!!! 🔥🔥](https://dev.to/verisimilitudex/extremely-simple-logical-java-solution-beats-94-of-solutions-43o1)
-- [Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
 <!-- BLOG-POST-LIST:END -->
 
