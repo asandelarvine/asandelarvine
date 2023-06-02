@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the PHP community add features to the language itself](https://dev.to/accreditly/how-the-php-community-add-features-to-the-language-itself-17ef)
-- [Mastering Git: Top Commands Every Developer Should Know](https://dev.to/syedsadiqali/mastering-git-top-commands-every-developer-should-know-5hkn)
-- [Bridging the Gap: Embracing Problem-solving through Gap Analysis](https://dev.to/wizdomtek/bridging-the-gap-embracing-problem-solving-through-gap-analysis-54mc)
-- [Last Day On Dev](https://dev.to/murtazajooo/last-day-on-dev-359e)
+- [useLayoutEffect vs useEffect](https://dev.to/refine/uselayouteffect-vs-useeffect-4lfk)
+- [Do not drop Sass for CSS](https://dev.to/robole/do-not-drop-sass-for-css-1ofm)
+- [Are you ready to bid farewell to Gmail?: Google sets to delete inactive Gmail accounts.](https://dev.to/techgoddess/are-you-ready-to-bid-farewell-to-gmail-google-sets-to-delete-inactive-gmail-accounts-5h44)
+- [Work From Home or the Office: Is It a Problem?](https://dev.to/zenstack/work-from-home-or-the-office-is-it-a-problem-5hj8)
 <!-- BLOG-POST-LIST:END -->
 
