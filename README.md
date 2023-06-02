@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How the PHP community add features to the language itself](https://dev.to/accreditly/how-the-php-community-add-features-to-the-language-itself-17ef)
+- [Mastering Git: Top Commands Every Developer Should Know](https://dev.to/syedsadiqali/mastering-git-top-commands-every-developer-should-know-5hkn)
 - [Bridging the Gap: Embracing Problem-solving through Gap Analysis](https://dev.to/wizdomtek/bridging-the-gap-embracing-problem-solving-through-gap-analysis-54mc)
 - [Last Day On Dev](https://dev.to/murtazajooo/last-day-on-dev-359e)
-- [When Sci-fi Gets Real: Which Story Hits Too Close to Home?](https://dev.to/devteam/when-sci-fi-gets-real-which-story-hits-too-close-to-home-2n86)
-- [APIs Unveiled: Interview Edition! How Have You Worked Your Developer Magic?](https://dev.to/codenewbieteam/apis-unveiled-interview-edition-how-have-you-worked-your-developer-magic-2c37)
 <!-- BLOG-POST-LIST:END -->
 
