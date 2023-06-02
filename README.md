@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [APIs Unveiled: Interview Edition! How Have You Worked Your Developer Magic?](https://dev.to/codenewbieteam/apis-unveiled-interview-edition-how-have-you-worked-your-developer-magic-2c37)
+- [When Sci-fi Gets Real: Which Story Hits Too Close to Home?](https://dev.to/devteam/when-sci-fi-gets-real-which-story-hits-too-close-to-home-2n86)
+- [Idempotency and Immutable Objects](https://dev.to/polterguy/idempotency-and-immutable-objects-4db)
 - [Get started with this Top 5 Cloud Providers free tiers.](https://dev.to/chrisciokler/get-started-with-this-top-5-cloud-providers-free-tiers-28ig)
-- [Refactoring for Beginners: Part 1](https://dev.to/jm066/refactoring-for-beginners-part-1-4n5e)
-- [How to remove the debug banner in Flutter?](https://dev.to/realnamehidden1_61/how-to-remove-the-debug-banner-in-flutter-2og1)
-- [30-Day Rust Learning Guide: Days 1 - 3](https://dev.to/mannyistyping/30-day-rust-learning-guide-days-1-3-59m)
 <!-- BLOG-POST-LIST:END -->
 
