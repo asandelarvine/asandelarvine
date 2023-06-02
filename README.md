@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rancher &amp; MicroK8s](https://dev.to/nunix/rancher-microk8s-5h4e)
+- [Svelte TimeTable Game](https://dev.to/vulcanwm/svelte-timetable-game-24fl)
 - [Git - Is just this.](https://dev.to/urstrulyvishwak/git-is-just-this-47e2)
 - [Learn about the difference between var, let, and const keywords in JavaScript and when to use them.](https://dev.to/tino_muc/learn-about-the-difference-between-var-let-and-const-keywords-in-javascript-and-when-to-use-them-2638)
-- [useLayoutEffect vs useEffect](https://dev.to/refine/uselayouteffect-vs-useeffect-4lfk)
-- [Do not drop Sass for CSS](https://dev.to/robole/do-not-drop-sass-for-css-1ofm)
 <!-- BLOG-POST-LIST:END -->
 
