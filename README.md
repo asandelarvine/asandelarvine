@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LB Labs: The Magic of Compound Efficiencies in Engineering](https://dev.to/linearb/lb-labs-the-magic-of-compound-efficiencies-in-engineering-2l24)
+- [How to build your own data platform. Episode 2: authorization layer. Data Lake implementation.](https://dev.to/adevintaspain/how-to-build-your-own-data-platform-episode-2-authorization-layer-data-lake-implementation-22l9)
+- [LIMIT vs. FETCH in SQL](https://dev.to/nalgeon/limit-vs-fetch-in-sql-4pe5)
 - [My introduction](https://dev.to/animeshgautam/my-introduction-5fgo)
-- [#DEVDiscuss: Geoffrey Hinton Quits Google](https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85)
-- [📋 Javascript Quiz : 1️⃣](https://dev.to/merudra754/javascript-quiz-1-58pi)
-- [Digital Ocean TURN server: 3 Easy Steps](https://dev.to/alakkadshaw/digital-ocean-turn-server-3-easy-steps-pkn)
 <!-- BLOG-POST-LIST:END -->
 
