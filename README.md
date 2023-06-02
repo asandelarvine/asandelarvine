@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git - Is just this.](https://dev.to/urstrulyvishwak/git-is-just-this-47e2)
+- [Learn about the difference between var, let, and const keywords in JavaScript and when to use them.](https://dev.to/tino_muc/learn-about-the-difference-between-var-let-and-const-keywords-in-javascript-and-when-to-use-them-2638)
 - [useLayoutEffect vs useEffect](https://dev.to/refine/uselayouteffect-vs-useeffect-4lfk)
 - [Do not drop Sass for CSS](https://dev.to/robole/do-not-drop-sass-for-css-1ofm)
-- [Are you ready to bid farewell to Gmail?: Google sets to delete inactive Gmail accounts.](https://dev.to/techgoddess/are-you-ready-to-bid-farewell-to-gmail-google-sets-to-delete-inactive-gmail-accounts-5h44)
-- [Work From Home or the Office: Is It a Problem?](https://dev.to/zenstack/work-from-home-or-the-office-is-it-a-problem-5hj8)
 <!-- BLOG-POST-LIST:END -->
 
