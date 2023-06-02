@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Geoffrey Hinton Quits Google](https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85)
+- [📋 Javascript Quiz : 1️⃣](https://dev.to/merudra754/javascript-quiz-1-58pi)
+- [Digital Ocean TURN server: 3 Easy Steps](https://dev.to/alakkadshaw/digital-ocean-turn-server-3-easy-steps-pkn)
 - [Embracing the Decentralized Era: How Fully On-Chain Gaming is Shaping the Future](https://dev.to/galaxiastudios/embracing-the-decentralized-era-how-fully-on-chain-gaming-is-shaping-the-future-3fof)
-- [Steps to Become a FrontEnd Developer in 2023](https://dev.to/scofieldidehen/steps-to-become-a-frontend-developer-in-2023-56kd)
-- [Building an Extension System on the Web](https://dev.to/areknawo/building-an-extension-system-on-the-web-5a51)
-- [AskGpt: Ask Questions with Context to ChatGPT in your Ruby project](https://dev.to/red46/askgpt-ask-questions-with-context-to-chatgpt-in-your-ruby-project-4h8l)
 <!-- BLOG-POST-LIST:END -->
 
