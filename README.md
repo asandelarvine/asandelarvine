@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My introduction](https://dev.to/animeshgautam/my-introduction-5fgo)
 - [#DEVDiscuss: Geoffrey Hinton Quits Google](https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85)
 - [📋 Javascript Quiz : 1️⃣](https://dev.to/merudra754/javascript-quiz-1-58pi)
 - [Digital Ocean TURN server: 3 Easy Steps](https://dev.to/alakkadshaw/digital-ocean-turn-server-3-easy-steps-pkn)
-- [Embracing the Decentralized Era: How Fully On-Chain Gaming is Shaping the Future](https://dev.to/galaxiastudios/embracing-the-decentralized-era-how-fully-on-chain-gaming-is-shaping-the-future-3fof)
 <!-- BLOG-POST-LIST:END -->
 
