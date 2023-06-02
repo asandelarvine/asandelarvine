@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Golang and Sveltekit - Initialization and setup](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-initialization-and-setup-4oc9)
+- [Stringify and Parse Errors in JavaScript](https://dev.to/zirkelc/stringify-and-parse-errors-in-javascript-2lnh)
 - [2703. LeetCode&#39;s Return Length of Arguments Passed - Extremely LOGICAL JS Solution Beats 83% in Memory Usage ✨](https://dev.to/verisimilitudex/2703-leetcodes-return-length-of-arguments-passed-extremely-logical-js-solution-beats-83-in-memory-usage-pdf)
 - [The Lonely Coder, Part 3 - Staying on the path:](https://dev.to/dodothedev/the-lonely-coder-part-3-staying-on-the-path-4d3g)
-- [Who&#39;s looking for open source contributors? &lpar;week 44&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-44-2k67)
-- [How can we help LGBTQ+?](https://dev.to/chetanan/how-can-we-help-lgbtq-14d7)
 <!-- BLOG-POST-LIST:END -->
 
