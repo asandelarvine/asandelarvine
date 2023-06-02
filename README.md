@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rancher &amp; MicroK8s](https://dev.to/nunix/rancher-microk8s-5h4e)
-- [Svelte TimeTable Game](https://dev.to/vulcanwm/svelte-timetable-game-24fl)
-- [Git - Is just this.](https://dev.to/urstrulyvishwak/git-is-just-this-47e2)
-- [Learn about the difference between var, let, and const keywords in JavaScript and when to use them.](https://dev.to/tino_muc/learn-about-the-difference-between-var-let-and-const-keywords-in-javascript-and-when-to-use-them-2638)
+- [How to Create a Code Editor in React and ChakraUI](https://dev.to/glennviroux/how-to-create-a-code-editor-in-react-and-chakraui-27n9)
+- [Self-Host Your API Testing with Hoppscotch: The open-source API Platform](https://dev.to/hoppscotch/self-host-your-api-testing-with-hoppscotch-the-open-source-api-platform-1e5)
+- [Mastering Java Application Testing: Essential Resources for Success](https://dev.to/ivangavlik/mastering-java-application-testing-essential-resources-for-success-1lnj)
+- [7 Forbidden Secrets of Git: Master the Most Important Commands Now!](https://dev.to/muhmmadawd/7-forbidden-secrets-of-git-master-the-most-important-commands-now-o2m)
 <!-- BLOG-POST-LIST:END -->
 
