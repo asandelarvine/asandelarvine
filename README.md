@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentals of AI: Understanding the Basics of Artificial Intelligence](https://dev.to/aditisharma132/fundamentals-of-ai-understanding-the-basics-of-artificial-intelligence-43m8)
-- [Big O e análise de tempo de execução de um algoritmo](https://dev.to/erick_tmr/big-o-e-analise-de-tempo-de-execucao-de-um-algoritmo-2c7d)
-- [How To Hire A Software Developer For Your Web3 Startup](https://dev.to/kudoser/how-to-hire-a-software-developer-for-your-web3-startup-49f2)
-- [How to Create a Code Editor in React and ChakraUI](https://dev.to/glennviroux/how-to-create-a-code-editor-in-react-and-chakraui-27n9)
+- [2703. LeetCode&#39;s Return Length of Arguments Passed - Extremely LOGICAL JS Solution Beats 83% in Memory Usage ✨](https://dev.to/verisimilitudex/2703-leetcodes-return-length-of-arguments-passed-extremely-logical-js-solution-beats-83-in-memory-usage-pdf)
+- [The Lonely Coder, Part 3 - Staying on the path:](https://dev.to/dodothedev/the-lonely-coder-part-3-staying-on-the-path-4d3g)
+- [Who&#39;s looking for open source contributors? &lpar;week 44&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-44-2k67)
+- [How can we help LGBTQ+?](https://dev.to/chetanan/how-can-we-help-lgbtq-14d7)
 <!-- BLOG-POST-LIST:END -->
 
