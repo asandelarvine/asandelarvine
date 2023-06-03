@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Budgeting my communication capacity](https://dev.to/kalabro/budgeting-my-communication-capacity-pb5)
-- [Form Validation with JavaScript](https://dev.to/tracy4code/form-validation-with-javascript-21l6)
-- [Effective Communication: Establishing Client Trust as a Web Developer](https://dev.to/piouskenny/effective-communication-establishing-client-trust-as-a-web-developer-1en7)
-- [🚀 Signup for DevMaster Newsletter ✉️](https://dev.to/firstfingerin/signup-for-devmaster-newsletter-4gfb)
+- [Nvidia launches Neuralangelo an AI framework to create 3D models of objects from videos](https://dev.to/amananandrai/nvidia-launches-neuralangelo-an-ai-framework-to-create-3d-models-of-objects-from-videos-2b8p)
+- [Engineering Game Manifest](https://dev.to/snowman647/engineering-game-manifest-3i08)
+- [Adaptive Cards with Power Automate](https://dev.to/seenakhan/adaptive-cards-with-power-automate-5bcm)
+- [Create Step by Step Guide to create social share on WordPress](https://dev.to/bigdaddy2/create-step-by-step-guide-to-create-social-share-on-wordpress-3678)
 <!-- BLOG-POST-LIST:END -->
 
