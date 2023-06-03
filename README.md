@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Language Translation in Angular with ngx-translate](https://dev.to/moemenali/simplify-language-translation-in-angular-with-ngx-translate-1h6)
+- [Using Tailscale on Lambda for a Live Development Proxy](https://dev.to/aws-heroes/using-tailscale-on-lambda-for-a-live-development-proxy-3hkc)
+- [🚀 Unleashing the Power of AWS Quicksight: Harnessing BI Tools for Data-driven Insights! 🌐](https://dev.to/rafaellevissa/unleashing-the-power-of-aws-quicksight-harnessing-bi-tools-for-data-driven-insights-2ea)
 - [Earn Money by Sharing Our Articles](https://dev.to/polterguy/earn-money-by-sharing-our-articles-14k5)
-- [How to solve waiting for another flutter command to release the startup lock](https://dev.to/realnamehidden1_61/how-to-solve-waiting-for-another-flutter-command-to-release-the-startup-lock-1e1e)
-- [TypeScript - 5.1 is here! -What&#39;s new ?](https://dev.to/kristiyan_velkov/typescript-51-is-here-whats-new--3k1g)
-- [Setup FastAPI Debugger in PyCharm With Docker](https://dev.to/whchi/setup-fastapi-debugger-in-pycharm-with-docker-4m10)
 <!-- BLOG-POST-LIST:END -->
 
