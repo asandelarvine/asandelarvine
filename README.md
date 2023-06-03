@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LB Labs: The Magic of Compound Efficiencies in Engineering](https://dev.to/linearb/lb-labs-the-magic-of-compound-efficiencies-in-engineering-2l24)
-- [How to build your own data platform. Episode 2: authorization layer. Data Lake implementation.](https://dev.to/adevintaspain/how-to-build-your-own-data-platform-episode-2-authorization-layer-data-lake-implementation-22l9)
-- [LIMIT vs. FETCH in SQL](https://dev.to/nalgeon/limit-vs-fetch-in-sql-4pe5)
-- [My introduction](https://dev.to/animeshgautam/my-introduction-5fgo)
+- [The evolution of web development: From HTML to Web3.0](https://dev.to/ugbabeog/the-evolution-of-web-development-from-html-to-web30-5fe8)
+- [Next level data privacy with easy free and secure self hosting at home](https://dev.to/maxime1992/next-level-data-privacy-with-easy-free-and-secure-self-hosting-at-home-2c84)
+- [10 tools and resources you need to level up your programming career &lpar; All free &rpar; :](https://dev.to/durgesh4993/10-tools-and-resources-you-need-to-level-up-your-programming-career-all-free--3pmo)
+- [Building a Thread-Based Web Server without using any third-party libraries or frameworks with Ruby](https://dev.to/ariasdiniz/building-a-thread-based-web-server-without-using-any-third-party-libraries-or-frameworks-with-ruby-2plp)
 <!-- BLOG-POST-LIST:END -->
 
