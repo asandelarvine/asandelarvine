@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Simplify Language Translation in Angular with ngx-translate](https://dev.to/moemenali/simplify-language-translation-in-angular-with-ngx-translate-1h6)
 - [Using Tailscale on Lambda for a Live Development Proxy](https://dev.to/aws-heroes/using-tailscale-on-lambda-for-a-live-development-proxy-3hkc)
+- [Learn The Basic Structure Of An HTML Document](https://dev.to/makwritinghouse/learn-the-basic-structure-of-an-html-document-1cp9)
 - [🚀 Unleashing the Power of AWS Quicksight: Harnessing BI Tools for Data-driven Insights! 🌐](https://dev.to/rafaellevissa/unleashing-the-power-of-aws-quicksight-harnessing-bi-tools-for-data-driven-insights-2ea)
-- [Earn Money by Sharing Our Articles](https://dev.to/polterguy/earn-money-by-sharing-our-articles-14k5)
 <!-- BLOG-POST-LIST:END -->
 
