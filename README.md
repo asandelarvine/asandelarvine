@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native go-to packages for every mobile app](https://dev.to/shreyvijayvargiya/react-native-go-to-packages-for-every-mobile-app-alk)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-2la7)
+- [JavaScript from Beginner to Master Tutorial Series](https://dev.to/cliff123tech/javascript-from-beginner-to-master-tutorial-series-37fe)
 - [Simplify Language Translation in Angular with ngx-translate](https://dev.to/moemenali/simplify-language-translation-in-angular-with-ngx-translate-1h6)
-- [Using Tailscale on Lambda for a Live Development Proxy](https://dev.to/aws-heroes/using-tailscale-on-lambda-for-a-live-development-proxy-3hkc)
-- [Learn The Basic Structure Of An HTML Document](https://dev.to/makwritinghouse/learn-the-basic-structure-of-an-html-document-1cp9)
-- [🚀 Unleashing the Power of AWS Quicksight: Harnessing BI Tools for Data-driven Insights! 🌐](https://dev.to/rafaellevissa/unleashing-the-power-of-aws-quicksight-harnessing-bi-tools-for-data-driven-insights-2ea)
 <!-- BLOG-POST-LIST:END -->
 
