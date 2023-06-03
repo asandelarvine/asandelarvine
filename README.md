@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [SVG to CSS Data URL converter with maybe the smallest possible output.](https://dev.to/shadowfaxrodeo/svg-to-css-data-url-converter-with-maybe-the-smallest-possible-output-25h)
 - [How to Create a Loading Spinner in React with styled-components](https://dev.to/cathleys/how-to-create-a-loading-spinner-in-react-with-styled-components-4p2g)
-- [What is URL Canonicalization and Why is it Important for SEO?](https://dev.to/josematoswork/what-is-url-canonicalization-and-why-is-it-important-for-seo-47je)
-- [[TechStory]: Migrating services and databases from an OpenShift &lpar;or K8s&rpar; cluster to another](https://dev.to/arshamalh/techstory-migrating-services-and-databases-from-an-openshift-or-k8s-cluster-to-another-3i1h)
+- [Explore the Approval Rule and Notification Rule in CodeCommit Repo](https://dev.to/aws-builders/explore-the-approval-rule-and-notification-rule-in-codecommit-repo-3n9)
+- [10 Cool CodePen Demos &lpar;May 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-23-2n79)
 <!-- BLOG-POST-LIST:END -->
 
