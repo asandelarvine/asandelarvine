@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Newsletters on Portfolio](https://dev.to/vulcanwm/newsletters-on-portfolio-2db8)
-- [tsParticles 2.10.0 Released](https://dev.to/tsparticles/tsparticles-2100-released-4e96)
-- [How to Set Up a Home Recording Studio?](https://dev.to/kraftobench/how-to-set-up-a-home-recording-studio-1be6)
-- [Introducing &#39;firebaseauth&#39; Spring Boot Library](https://dev.to/devtony101/introducing-firebaseauth-spring-boot-library-1ini)
+- [Budgeting my communication capacity](https://dev.to/kalabro/budgeting-my-communication-capacity-pb5)
+- [Form Validation with JavaScript](https://dev.to/tracy4code/form-validation-with-javascript-21l6)
+- [Effective Communication: Establishing Client Trust as a Web Developer](https://dev.to/piouskenny/effective-communication-establishing-client-trust-as-a-web-developer-1en7)
+- [🚀 Signup for DevMaster Newsletter ✉️](https://dev.to/firstfingerin/signup-for-devmaster-newsletter-4gfb)
 <!-- BLOG-POST-LIST:END -->
 
