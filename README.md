@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix Clone Using HTML,CSS and JavaScritp &lpar;Source Code&rpar;](https://dev.to/cwrcode/netflix-clone-using-htmlcss-and-javascritp-source-code-1gne)
-- [The One Mistake Every Angular Developer Makes: Overusing *ngIf](https://dev.to/rensjaspers/the-one-mistake-every-angular-developer-makes-overusing-ngif-12ln)
-- [What&#39;s the Strangest Support Request You&#39;ve Ever Received?](https://dev.to/devteam/whats-the-strangest-support-request-youve-ever-received-3gdc)
-- [Tech Memes through the Ages: Which One Stands the Test of Time?](https://dev.to/codenewbieteam/tech-memes-through-the-ages-which-one-stands-the-test-of-time-27pf)
+- [Earn Money by Sharing Our Articles](https://dev.to/polterguy/earn-money-by-sharing-our-articles-14k5)
+- [How to solve waiting for another flutter command to release the startup lock](https://dev.to/realnamehidden1_61/how-to-solve-waiting-for-another-flutter-command-to-release-the-startup-lock-1e1e)
+- [TypeScript - 5.1 is here! -What&#39;s new ?](https://dev.to/kristiyan_velkov/typescript-51-is-here-whats-new--3k1g)
+- [Setup FastAPI Debugger in PyCharm With Docker](https://dev.to/whchi/setup-fastapi-debugger-in-pycharm-with-docker-4m10)
 <!-- BLOG-POST-LIST:END -->
 
