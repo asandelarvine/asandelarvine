@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SVG to CSS Data URL converter with maybe the smallest possible output.](https://dev.to/shadowfaxrodeo/svg-to-css-data-url-converter-with-maybe-the-smallest-possible-output-25h)
+- [How to Create a Loading Spinner in React with styled-components](https://dev.to/cathleys/how-to-create-a-loading-spinner-in-react-with-styled-components-4p2g)
+- [What is URL Canonicalization and Why is it Important for SEO?](https://dev.to/josematoswork/what-is-url-canonicalization-and-why-is-it-important-for-seo-47je)
 - [[TechStory]: Migrating services and databases from an OpenShift &lpar;or K8s&rpar; cluster to another](https://dev.to/arshamalh/techstory-migrating-services-and-databases-from-an-openshift-or-k8s-cluster-to-another-3i1h)
-- [AI, Activism, and Global Impact: Exploring Internet Activism with Avi Schiffman](https://dev.to/mikeyoung44/ai-activism-and-global-impact-exploring-internet-activism-with-avi-schiffman-31cc)
-- [React Native go-to packages for every mobile app](https://dev.to/shreyvijayvargiya/react-native-go-to-packages-for-every-mobile-app-alk)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-2la7)
 <!-- BLOG-POST-LIST:END -->
 
