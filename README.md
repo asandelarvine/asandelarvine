@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Memes through the Ages: Which One Stands the Test of Time?](https://dev.to/codenewbieteam/tech-memes-through-the-ages-which-one-stands-the-test-of-time-27pf)
+- [Netflix Clone Using HTML,CSS and JavaScritp &lpar;Source Code&rpar;](https://dev.to/cwrcode/netflix-clone-using-htmlcss-and-javascritp-source-code-1gne)
+- [The One Mistake Every Angular Developer Makes: Overusing *ngIf](https://dev.to/rensjaspers/the-one-mistake-every-angular-developer-makes-overusing-ngif-12ln)
+- [Chetan Jain&#39;s Portfolio](https://dev.to/chetanan/chetan-jains-portfolio-cl6)
 - [What&#39;s the Strangest Support Request You&#39;ve Ever Received?](https://dev.to/devteam/whats-the-strangest-support-request-youve-ever-received-3gdc)
-- [Debug and Visualize Your Python Code with PythonTutor.com](https://dev.to/coderatul/debug-and-visualize-your-python-code-with-pythontutorcom-29ba)
-- [So The Journey Begins - My Startup Story](https://dev.to/zt4ff_1/so-the-journey-begins-my-startup-story-4ga7)
 <!-- BLOG-POST-LIST:END -->
 
