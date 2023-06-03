@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Memes through the Ages: Which One Stands the Test of Time?](https://dev.to/codenewbieteam/tech-memes-through-the-ages-which-one-stands-the-test-of-time-27pf)
+- [What&#39;s the Strangest Support Request You&#39;ve Ever Received?](https://dev.to/devteam/whats-the-strangest-support-request-youve-ever-received-3gdc)
 - [Debug and Visualize Your Python Code with PythonTutor.com](https://dev.to/coderatul/debug-and-visualize-your-python-code-with-pythontutorcom-29ba)
 - [So The Journey Begins - My Startup Story](https://dev.to/zt4ff_1/so-the-journey-begins-my-startup-story-4ga7)
-- [Hyper Text Transfer Protocol](https://dev.to/rashakdude/hyper-text-transfer-protocol-3chd)
-- [Understanding DynamoDB&#39;s Primary Keys and Partitions](https://dev.to/bharatrajtj/understanding-dynamodbs-primary-keys-and-partitions-24nf)
 <!-- BLOG-POST-LIST:END -->
 
