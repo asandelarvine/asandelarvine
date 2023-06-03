@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[TechStory]: Migrating services and databases from an OpenShift &lpar;or K8s&rpar; cluster to another](https://dev.to/arshamalh/techstory-migrating-services-and-databases-from-an-openshift-or-k8s-cluster-to-another-3i1h)
+- [AI, Activism, and Global Impact: Exploring Internet Activism with Avi Schiffman](https://dev.to/mikeyoung44/ai-activism-and-global-impact-exploring-internet-activism-with-avi-schiffman-31cc)
 - [React Native go-to packages for every mobile app](https://dev.to/shreyvijayvargiya/react-native-go-to-packages-for-every-mobile-app-alk)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-2la7)
-- [JavaScript from Beginner to Master Tutorial Series](https://dev.to/cliff123tech/javascript-from-beginner-to-master-tutorial-series-37fe)
-- [Simplify Language Translation in Angular with ngx-translate](https://dev.to/moemenali/simplify-language-translation-in-angular-with-ngx-translate-1h6)
 <!-- BLOG-POST-LIST:END -->
 
