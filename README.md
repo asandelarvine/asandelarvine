@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SVG to CSS Data URL converter with maybe the smallest possible output.](https://dev.to/shadowfaxrodeo/svg-to-css-data-url-converter-with-maybe-the-smallest-possible-output-25h)
-- [How to Create a Loading Spinner in React with styled-components](https://dev.to/cathleys/how-to-create-a-loading-spinner-in-react-with-styled-components-4p2g)
-- [Explore the Approval Rule and Notification Rule in CodeCommit Repo](https://dev.to/aws-builders/explore-the-approval-rule-and-notification-rule-in-codecommit-repo-3n9)
-- [10 Cool CodePen Demos &lpar;May 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-23-2n79)
+- [Newsletters on Portfolio](https://dev.to/vulcanwm/newsletters-on-portfolio-2db8)
+- [tsParticles 2.10.0 Released](https://dev.to/tsparticles/tsparticles-2100-released-4e96)
+- [How to Set Up a Home Recording Studio?](https://dev.to/kraftobench/how-to-set-up-a-home-recording-studio-1be6)
+- [Introducing &#39;firebaseauth&#39; Spring Boot Library](https://dev.to/devtony101/introducing-firebaseauth-spring-boot-library-1ini)
 <!-- BLOG-POST-LIST:END -->
 
