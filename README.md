@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [So The Journey Begins - My Startup Story](https://dev.to/zt4ff_1/so-the-journey-begins-my-startup-story-4ga7)
 - [Hyper Text Transfer Protocol](https://dev.to/rashakdude/hyper-text-transfer-protocol-3chd)
 - [Understanding DynamoDB&#39;s Primary Keys and Partitions](https://dev.to/bharatrajtj/understanding-dynamodbs-primary-keys-and-partitions-24nf)
 - [Add Five Free Cloud and DevOps Badges to Improve Your Resume in 2023](https://dev.to/mrapoti/add-five-free-cloud-and-devops-badges-to-improve-your-resume-in-2023-237n)
-- [Docker for Beginners: Crafting Your Backend Development Environment](https://dev.to/suzuki0430/docker-for-beginners-crafting-your-backend-development-environment-38oo)
 <!-- BLOG-POST-LIST:END -->
 
