@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [What&#39;s there in K8s 1.27](https://dev.to/uvource/whats-there-in-k8s-127-1i4a)
 - [JavaScript - Array with&lpar;&rpar; method](https://dev.to/kristiyan_velkov/js-array-with-method-32ag)
+- [Stay up to date with new Ruby or Rails features](https://dev.to/lucianghinda/stay-up-to-date-with-new-ruby-or-rails-features-4mpc)
 - [The day I discovered monorepo](https://dev.to/nljmsmnzls/the-day-i-discovered-monorepo-1ek7)
-- [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
 <!-- BLOG-POST-LIST:END -->
 
