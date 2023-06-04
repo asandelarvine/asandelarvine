@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native is Multi Threaded](https://dev.to/ponikar/react-native-is-multi-threaded-44aj)
-- [A SIMPLE PYTHON USER INTERACTION GAME](https://dev.to/jayywestty/a-simple-python-user-interaction-game-2mb1)
-- [Tic-tac-toe Multiplayer Game](https://dev.to/soumyajit7/tic-tac-toe-multiplayer-game-2k9i)
-- [How Have You Refractored or Optimized Code for Improved Performance?](https://dev.to/devteam/how-have-you-refractored-or-optimized-code-for-improved-performance-2791)
+- [Handling Forms in React](https://dev.to/beginarjun/handling-forms-in-react-4i07)
+- [Subscribing new records with Reduct C++ SDK](https://dev.to/reductstore/subscribing-new-record-with-reduct-c-sdk-48en)
+- [Get Mentored from Ninja Developer for Career Success/Emotional Support](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
+- [NO need to search for AI anymore.](https://dev.to/aiformewiki/no-need-to-search-for-ai-anymore-27fo)
 <!-- BLOG-POST-LIST:END -->
 
