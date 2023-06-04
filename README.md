@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond OpenAI: Harnessing Open Source Models to Create Your Personalized AI Companion](https://dev.to/akshayballal/beyond-openai-harnessing-open-source-models-to-create-your-personalized-ai-companion-1npb)
-- [Headless CMS: The Headache-less Solution for Content Management System](https://dev.to/aradwan20/headless-cms-the-headache-less-solution-for-content-management-system-2gmc)
-- [How to Add Code Syntax Highlighting in Blogger](https://dev.to/hiader/how-to-add-code-syntax-highlighting-in-blogger-10l7)
-- [Kubernetes traffic discovery](https://dev.to/tomerg/kubernetes-traffic-discovery-29nj)
+- [World Wide Web Wars](https://dev.to/andychiare/world-wide-web-wars-1h9p)
+- [Java 01 - Jasypt: Protecting sensitive data with encryption.](https://dev.to/davijonck/java-01-jasypt-protecting-sensitive-data-with-encryption-4bo5)
+- [Speeding Up Page Load and Reducing the Amount of Time it Takes Using Responsive Images](https://dev.to/fpaghar/speeding-up-page-load-and-reducing-the-amount-of-time-it-takes-using-responsive-images-3ec9)
+- [Exploring AWS DeepRacer: I Spent the Money So You Didn&#39;t Have To - Part 1](https://dev.to/aws-builders/exploring-aws-deepracer-i-spent-the-money-so-you-didnt-have-to-part-1-g69)
 <!-- BLOG-POST-LIST:END -->
 
