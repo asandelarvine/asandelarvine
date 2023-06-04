@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
 - [Handling Forms in React](https://dev.to/beginarjun/handling-forms-in-react-4i07)
+- [Bun vs. Node.js - Benchmarking runtime](https://dev.to/refine/bun-vs-nodejs-benchmarking-runtime-4l9b)
 - [Subscribing new records with Reduct C++ SDK](https://dev.to/reductstore/subscribing-new-record-with-reduct-c-sdk-48en)
-- [Get Mentored from Ninja Developer for Career Success/Emotional Support](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
-- [NO need to search for AI anymore.](https://dev.to/aiformewiki/no-need-to-search-for-ai-anymore-27fo)
 <!-- BLOG-POST-LIST:END -->
 
