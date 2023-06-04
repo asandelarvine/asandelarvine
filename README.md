@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Comprehensive Guide to Building an Impressive Portfolio from Scratch](https://dev.to/mrapoti/comprehensive-guide-to-building-an-impressive-portfolio-from-scratch-5hio)
 - [Authentication system using Golang and Sveltekit - User registration](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-registration-5981)
 - [CSS Grid: A Comprehensive Guide to Flexible and Responsive Layouts](https://dev.to/uzafar90/a-comprehensive-guide-to-using-css-grid-for-creating-flexible-and-responsive-layouts-m4b)
-- [How to Create an Evil Twin Access Point; Step-by-Step Guide](https://dev.to/thescott12/how-to-create-an-evil-twin-access-point-step-by-step-guide-2chn)
+- [How to detect unnecessary renderings of DOM elements in your web app to improve performances 🔥](https://dev.to/maxime1992/how-to-detect-unnecessary-renderings-of-dom-elements-in-your-web-app-to-improve-performances-13jd)
 <!-- BLOG-POST-LIST:END -->
 
