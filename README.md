@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A SIMPLE PYTHON USER INTERACTION GAME](https://dev.to/jayywestty/a-simple-python-user-interaction-game-2mb1)
 - [Tic-tac-toe Multiplayer Game](https://dev.to/soumyajit7/tic-tac-toe-multiplayer-game-2k9i)
-- [Agile and Scrum: What Are Your Thoughts?](https://dev.to/codenewbieteam/agile-and-scrum-what-are-your-thoughts-1cp1)
 - [How Have You Refractored or Optimized Code for Improved Performance?](https://dev.to/devteam/how-have-you-refractored-or-optimized-code-for-improved-performance-2791)
-- [What are Variables in Power Automate?](https://dev.to/citizendevacad/what-are-variables-in-power-automate-13g6)
+- [Agile and Scrum: What Are Your Thoughts?](https://dev.to/codenewbieteam/agile-and-scrum-what-are-your-thoughts-1cp1)
 <!-- BLOG-POST-LIST:END -->
 
