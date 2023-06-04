@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
+- [This Is How You Can Master JavaScript!](https://dev.to/codecraftjs/this-is-how-you-can-master-javascript-4ak8)
+- [Ai Portfolio - Revolutionizing Personal Portfolios with P.A.R.A.M](https://dev.to/parammittal16/ai-portfolio-revolutionizing-personal-portfolios-with-param-1ddh)
 - [World Wide Web Wars](https://dev.to/andychiare/world-wide-web-wars-1h9p)
-- [Java 01 - Jasypt: Protecting sensitive data with encryption.](https://dev.to/davijonck/java-01-jasypt-protecting-sensitive-data-with-encryption-4bo5)
-- [Speeding Up Page Load and Reducing the Amount of Time it Takes Using Responsive Images](https://dev.to/fpaghar/speeding-up-page-load-and-reducing-the-amount-of-time-it-takes-using-responsive-images-3ec9)
-- [Exploring AWS DeepRacer: I Spent the Money So You Didn&#39;t Have To - Part 1](https://dev.to/aws-builders/exploring-aws-deepracer-i-spent-the-money-so-you-didnt-have-to-part-1-g69)
 <!-- BLOG-POST-LIST:END -->
 
