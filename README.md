@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Techinical Debt; what is it?](https://dev.to/ugbabeog/techinical-debt-what-is-it-23jb)
-- [Exploring Tech Paths: Discovering Exciting Possibilities](https://dev.to/adetutu777/finding-your-perfect-tech-path-navigating-the-exciting-possibilities-in-tech-g5g)
-- [☸️ How to deploy a cost-efficient AWS/EKS Kubernetes cluster using Terraform in 2023](https://dev.to/zenika/how-to-deploy-a-cost-efficient-awseks-kubernetes-cluster-using-terraform-in-2023-3903)
-- [Nvidia launches Neuralangelo an AI framework to create 3D models of objects from videos](https://dev.to/amananandrai/nvidia-launches-neuralangelo-an-ai-framework-to-create-3d-models-of-objects-from-videos-2b8p)
+- [Authentication system using Golang and Sveltekit - User registration](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-registration-5981)
+- [CSS Grid: A Comprehensive Guide to Flexible and Responsive Layouts](https://dev.to/uzafar90/a-comprehensive-guide-to-using-css-grid-for-creating-flexible-and-responsive-layouts-m4b)
+- [How to Create an Evil Twin Access Point; Step-by-Step Guide](https://dev.to/thescott12/how-to-create-an-evil-twin-access-point-step-by-step-guide-2chn)
+- [How to Speed up the WPA/WPA2 Password Cracking Process using Cowpatty](https://dev.to/thescott12/how-to-speed-up-the-wpawpa2-password-cracking-process-using-cowpatty-52b3)
 <!-- BLOG-POST-LIST:END -->
 
