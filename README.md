@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What are Variables in Power Automate?](https://dev.to/citizendevacad/what-are-variables-in-power-automate-13g6)
+- [An animated lesson on CSS will teach you how to use it](https://dev.to/jon_snow789/an-animated-lesson-on-css-will-teach-you-how-to-use-it-2dj4)
 - [Comprehensive Guide to Building an Impressive Portfolio from Scratch](https://dev.to/mrapoti/comprehensive-guide-to-building-an-impressive-portfolio-from-scratch-5hio)
 - [Authentication system using Golang and Sveltekit - User registration](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-registration-5981)
-- [CSS Grid: A Comprehensive Guide to Flexible and Responsive Layouts](https://dev.to/uzafar90/a-comprehensive-guide-to-using-css-grid-for-creating-flexible-and-responsive-layouts-m4b)
 <!-- BLOG-POST-LIST:END -->
 
