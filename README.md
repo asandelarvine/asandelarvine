@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Two Pillars of Algorithm Performance: Time and Space Complexity](https://dev.to/guaregua19/the-two-pillars-of-algorithm-performance-time-and-space-complexity-1118)
 - [6 Keys to Human-Centric Software Development](https://dev.to/linearb/6-keys-to-human-centric-software-development-1e3h)
+- [Debugging Techniques: Essential Skills for Modern Developers](https://dev.to/sasidhar_gadepalli/debugging-techniques-essential-skills-for-modern-developers-10am)
 - [Authentication system using Golang and Sveltekit - Login and Logout](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-login-and-logout-1k76)
-- [Tech Genius Path](https://dev.to/snowman647/tech-genius-path-5hg1)
-- [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
 <!-- BLOG-POST-LIST:END -->
 
