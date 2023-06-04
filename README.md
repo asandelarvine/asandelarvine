@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Guide to Building an Impressive Portfolio from Scratch](https://dev.to/mrapoti/comprehensive-guide-to-building-an-impressive-portfolio-from-scratch-5hio)
 - [Authentication system using Golang and Sveltekit - User registration](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-registration-5981)
 - [CSS Grid: A Comprehensive Guide to Flexible and Responsive Layouts](https://dev.to/uzafar90/a-comprehensive-guide-to-using-css-grid-for-creating-flexible-and-responsive-layouts-m4b)
 - [How to Create an Evil Twin Access Point; Step-by-Step Guide](https://dev.to/thescott12/how-to-create-an-evil-twin-access-point-step-by-step-guide-2chn)
-- [How to Speed up the WPA/WPA2 Password Cracking Process using Cowpatty](https://dev.to/thescott12/how-to-speed-up-the-wpawpa2-password-cracking-process-using-cowpatty-52b3)
 <!-- BLOG-POST-LIST:END -->
 
