@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s there in K8s 1.27](https://dev.to/uvource/whats-there-in-k8s-127-1i4a)
+- [JavaScript - Array with&lpar;&rpar; method](https://dev.to/kristiyan_velkov/js-array-with-method-32ag)
+- [The day I discovered monorepo](https://dev.to/nljmsmnzls/the-day-i-discovered-monorepo-1ek7)
 - [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
-- [Handling Forms in React](https://dev.to/beginarjun/handling-forms-in-react-4i07)
-- [Bun vs. Node.js - Benchmarking runtime](https://dev.to/refine/bun-vs-nodejs-benchmarking-runtime-4l9b)
-- [Subscribing new records with Reduct C++ SDK](https://dev.to/reductstore/subscribing-new-record-with-reduct-c-sdk-48en)
 <!-- BLOG-POST-LIST:END -->
 
