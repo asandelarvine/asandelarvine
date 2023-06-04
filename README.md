@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s there in K8s 1.27](https://dev.to/uvource/whats-there-in-k8s-127-1i4a)
-- [JavaScript - Array with&lpar;&rpar; method](https://dev.to/kristiyan_velkov/js-array-with-method-32ag)
-- [Stay up to date with new Ruby or Rails features](https://dev.to/lucianghinda/stay-up-to-date-with-new-ruby-or-rails-features-4mpc)
-- [The day I discovered monorepo](https://dev.to/nljmsmnzls/the-day-i-discovered-monorepo-1ek7)
+- [Beyond OpenAI: Harnessing Open Source Models to Create Your Personalized AI Companion](https://dev.to/akshayballal/beyond-openai-harnessing-open-source-models-to-create-your-personalized-ai-companion-1npb)
+- [Headless CMS: The Headache-less Solution for Content Management System](https://dev.to/aradwan20/headless-cms-the-headache-less-solution-for-content-management-system-2gmc)
+- [How to Add Code Syntax Highlighting in Blogger](https://dev.to/hiader/how-to-add-code-syntax-highlighting-in-blogger-10l7)
+- [Kubernetes traffic discovery](https://dev.to/tomerg/kubernetes-traffic-discovery-29nj)
 <!-- BLOG-POST-LIST:END -->
 
