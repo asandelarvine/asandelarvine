@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Golang and Sveltekit - Login and Logout](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-login-and-logout-1k76)
+- [Tech Genius Path](https://dev.to/snowman647/tech-genius-path-5hg1)
 - [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
 - [This Is How You Can Master JavaScript!](https://dev.to/codecraftjs/this-is-how-you-can-master-javascript-4ak8)
-- [Ai Portfolio - Revolutionizing Personal Portfolios with P.A.R.A.M](https://dev.to/parammittal16/ai-portfolio-revolutionizing-personal-portfolios-with-param-1ddh)
-- [World Wide Web Wars](https://dev.to/andychiare/world-wide-web-wars-1h9p)
 <!-- BLOG-POST-LIST:END -->
 
