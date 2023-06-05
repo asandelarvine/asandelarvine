@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Tips That Will Increase Your Flutter App Performance By 10X](https://dev.to/yatendra2001/10-tips-that-will-increase-your-flutter-app-performance-by-10x-g3j)
+- [How does participating in hackathons &amp; competitions skyrocket my career in 2022?](https://dev.to/yatendra2001/how-does-participating-in-hackathons-competitions-skyrocket-my-career-in-2022-3e80)
 - [Demystifying Angular Route Guards: A Beginner&#39;s Guide to Secure Navigation](https://dev.to/this-is-angular/demystifying-angular-route-guards-a-beginners-guide-to-secure-navigation-597b)
-- [Starting my journey](https://dev.to/silva_paulo/starting-my-journey-28n1)
-- [How to build your own data platform. Episode 2: authorization layer. Data Warehouse implementation.](https://dev.to/adevintaspain/how-to-build-your-own-data-platform-episode-2-authorization-layer-data-warehouse-implementation-e0c)
-- [How to visualize data with a bar chart using d3](https://dev.to/ifeolwaisaiah/how-to-visualize-data-with-a-bar-chart-using-d3-1m8e)
+- [What the heck is SSH?](https://dev.to/tastaslim/what-the-heck-is-ssh-1nc6)
 <!-- BLOG-POST-LIST:END -->
 
