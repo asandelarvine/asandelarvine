@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Verifying emails in laravel 10 using laravel ui](https://dev.to/jovialcore/verifying-emails-in-laravel-10-using-laravel-ui-5855)
+- [Meme Monday](https://dev.to/ben/meme-monday-a8o)
 - [Howto turn a x86 binary executable back into C source code](https://dev.to/torbenfeldthusen/howto-turn-a-x86-binary-executable-back-into-c-source-code-45nd)
 - [Astro Coding Session: &quot;Series&quot; feature on my blog](https://dev.to/this-is-learning/astro-coding-session-series-feature-on-my-blog-4e0p)
-- [Top GitHub repositories to learn modern React development](https://dev.to/livecycle/top-github-repositories-to-learn-modern-react-development-5d3h)
-- [Fear and the Future: AI&#39;s Threat to job security - An interview with AI professor Alejandro Piad Morffis](https://dev.to/edemgold/fear-and-the-future-ais-threat-to-job-security-an-interview-with-ai-professor-alejandro-piad-morffis-meb)
 <!-- BLOG-POST-LIST:END -->
 
