@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Verifying emails in laravel 10 using laravel ui](https://dev.to/jovialcore/verifying-emails-in-laravel-10-using-laravel-ui-5855)
+- [Fueling Innovation and Collaborative Storytelling](https://dev.to/opensauced/fueling-innovation-and-collaborative-storytelling-5701)
+- [7 actionable tips to get your PR approved &lpar;+ template&rpar;](https://dev.to/wolfflucas/7-actionable-tips-to-get-your-pr-approved-template-4han)
 - [Meme Monday](https://dev.to/ben/meme-monday-a8o)
-- [Howto turn a x86 binary executable back into C source code](https://dev.to/torbenfeldthusen/howto-turn-a-x86-binary-executable-back-into-c-source-code-45nd)
-- [Astro Coding Session: &quot;Series&quot; feature on my blog](https://dev.to/this-is-learning/astro-coding-session-series-feature-on-my-blog-4e0p)
 <!-- BLOG-POST-LIST:END -->
 
