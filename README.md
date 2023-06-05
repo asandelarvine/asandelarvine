@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2jcf)
 - [Apple&#39;s Vision Pro: Stepping Into the Future of Spatial Computing](https://dev.to/yatendra2001/apples-vision-pro-stepping-into-the-future-of-spatial-computing-2575)
 - [Sentiment Analysis with Finetuned Models](https://dev.to/scofieldidehen/sentiment-analysis-with-finetuned-models-27b)
 - [Ruby - Conhecendo o método zip](https://dev.to/kellypc/ruby-conhecendo-o-metodo-zip-c29)
-- [One more thing - Apple&#39;s push on web apps on macOS](https://dev.to/sebastian_wessel/one-more-thing-apples-push-on-web-apps-on-macos-2052)
 <!-- BLOG-POST-LIST:END -->
 
