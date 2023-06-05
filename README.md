@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your Approach to Data Migration &amp; Database Versioning?](https://dev.to/devteam/whats-your-approach-to-data-migration-database-versioning-443o)
-- [The Coding Language Personality Test: What Would It Look Like?](https://dev.to/codenewbieteam/the-coding-language-personality-test-what-would-it-look-like-4fo3)
-- [Exploring Object-Oriented Programming with TypeScript](https://dev.to/wizdomtek/exploring-object-oriented-programming-with-typescript-22b)
-- [Ruby - DIY accessor methods](https://dev.to/hungle00/ruby-diy-accessor-methods-40dk)
+- [AWS open source newsletter, #159](https://dev.to/aws/aws-open-source-newsletter-159-29lj)
+- [Integrate APIs using AI via CLI](https://dev.to/superface/integrate-apis-using-ai-via-cli-e66)
+- [Understanding JavaScript Strict Mode](https://dev.to/accreditly/understanding-javascript-strict-mode-4e3j)
+- [Paperless-ngx, manage your documents like never before](https://dev.to/maxime1992/paperless-ngx-manage-your-documents-like-never-before-2a3n)
 <!-- BLOG-POST-LIST:END -->
 
