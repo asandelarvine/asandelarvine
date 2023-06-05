@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [One more thing - Apple&#39;s push on web apps on macOS](https://dev.to/sebastian_wessel/one-more-thing-apples-push-on-web-apps-on-macos-2052)
+- [Proper structure of a react application](https://dev.to/muhireighor/proper-structure-of-a-react-application-57ce)
 - [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
 - [What&#39;s your initial reaction to Apple Vision Pro?](https://dev.to/ben/whats-your-initial-reaction-to-apple-vision-pro-3715)
-- [Apple&#39;s New Announcement at WWDC23](https://dev.to/anurag_vishwakarma/apples-new-announcement-at-wwdc23-576g)
-- [Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
 <!-- BLOG-POST-LIST:END -->
 
