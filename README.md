@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your Goals for the week of June 5?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-5-3226)
 - [FLaNK Stack 5-June-2023](https://dev.to/tspannhw/flank-stack-5-june-2023-1gpo)
 - [How software architecture changes in the era of AI](https://dev.to/bolshchikov/how-software-architecture-changes-in-the-era-of-ai-363f)
 - [Adding GPT to a web app. The real experience.](https://dev.to/alexanderisora/adding-gpt-to-a-web-app-the-real-experience-321f)
-- [Debug Like a Pro: Essential Skills and Strategies for Modern Developers](https://dev.to/wizdomtek/debug-like-a-pro-essential-skills-and-strategies-for-modern-developers-495b)
 <!-- BLOG-POST-LIST:END -->
 
