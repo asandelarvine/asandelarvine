@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifying emails in laravel 10 using laravel ui](https://dev.to/jovialcore/verifying-emails-in-laravel-10-using-laravel-ui-5855)
-- [Fueling Innovation and Collaborative Storytelling](https://dev.to/opensauced/fueling-innovation-and-collaborative-storytelling-5701)
-- [7 actionable tips to get your PR approved &lpar;+ template&rpar;](https://dev.to/wolfflucas/7-actionable-tips-to-get-your-pr-approved-template-4han)
-- [Meme Monday](https://dev.to/ben/meme-monday-a8o)
+- [Debug Like a Pro: Essential Skills and Strategies for Modern Developers](https://dev.to/wizdomtek/debug-like-a-pro-essential-skills-and-strategies-for-modern-developers-495b)
+- [How to change all of one element&#39;s CSS in JavaScript!](https://dev.to/analyze0/how-to-change-all-of-one-elements-css-in-javascript-1obl)
+- [7 Common Mistakes React Developers make](https://dev.to/devland/7-common-mistakes-react-developers-make-3p21)
+- [How Do I Sell Staff Augmentation Services](https://dev.to/saklle_rohit/how-do-i-sell-staff-augmentation-services-4j6l)
 <!-- BLOG-POST-LIST:END -->
 
