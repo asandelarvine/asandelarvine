@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Artistry of Front-End Development: Building Captivating User Experiences](https://dev.to/ankittmeena/the-artistry-of-front-end-development-building-captivating-user-experiences-5dfg)
 - [AWS open source newsletter, #159](https://dev.to/aws/aws-open-source-newsletter-159-29lj)
+- [Weekly Roundup &lpar;May 29&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-29-hot-topics-in-workplace-sharepoint-and-powerplatform-2egg)
 - [Integrate APIs using AI via CLI](https://dev.to/superface/integrate-apis-using-ai-via-cli-e66)
-- [Understanding JavaScript Strict Mode](https://dev.to/accreditly/understanding-javascript-strict-mode-4e3j)
-- [Paperless-ngx, manage your documents like never before](https://dev.to/maxime1992/paperless-ngx-manage-your-documents-like-never-before-2a3n)
 <!-- BLOG-POST-LIST:END -->
 
