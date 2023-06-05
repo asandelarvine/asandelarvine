@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fear and the Future: AI&#39;s Threat to job security - An interview with AI professor Alejandro Piad Morffis](https://dev.to/edemgold/fear-and-the-future-ais-threat-to-job-security-an-interview-with-ai-professor-alejandro-piad-morffis-meb)
+- [Site Reliability Engineering &lpar;SRE&rpar; and DevOps: A Comparative Study for Beginners](https://dev.to/jeptoo/site-reliability-engineering-sre-and-devops-a-comparative-study-for-beginners-35pd)
+- [Comprendre les tableaux en Javascript](https://dev.to/kureru/comprendre-les-tableaux-en-javascript-3boh)
 - [The Artistry of Front-End Development: Building Captivating User Experiences](https://dev.to/ankittmeena/the-artistry-of-front-end-development-building-captivating-user-experiences-5dfg)
-- [AWS open source newsletter, #159](https://dev.to/aws/aws-open-source-newsletter-159-29lj)
-- [Weekly Roundup &lpar;May 29&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-may-29-hot-topics-in-workplace-sharepoint-and-powerplatform-2egg)
-- [Integrate APIs using AI via CLI](https://dev.to/superface/integrate-apis-using-ai-via-cli-e66)
 <!-- BLOG-POST-LIST:END -->
 
