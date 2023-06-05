@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
+- [What&#39;s your initial reaction to Apple Vision Pro?](https://dev.to/ben/whats-your-initial-reaction-to-apple-vision-pro-3715)
+- [Apple&#39;s New Announcement at WWDC23](https://dev.to/anurag_vishwakarma/apples-new-announcement-at-wwdc23-576g)
 - [Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
-- [Interactive E-Com UI: Animated Free Shipping Bar](https://dev.to/codesphere/interactive-e-com-ui-animated-free-shipping-bar-156o)
-- [100 DAYS- DAY 2](https://dev.to/pahujanayan/100-days-day-2-11g)
-- [Lookup disk properties on linux](https://dev.to/yugabyte/lookup-disk-properties-on-linux-12p0)
 <!-- BLOG-POST-LIST:END -->
 
