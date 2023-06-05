@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your Goals for the week of June 5?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-5-3226)
-- [FLaNK Stack 5-June-2023](https://dev.to/tspannhw/flank-stack-5-june-2023-1gpo)
-- [How software architecture changes in the era of AI](https://dev.to/bolshchikov/how-software-architecture-changes-in-the-era-of-ai-363f)
-- [Adding GPT to a web app. The real experience.](https://dev.to/alexanderisora/adding-gpt-to-a-web-app-the-real-experience-321f)
+- [Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
+- [Interactive E-Com UI: Animated Free Shipping Bar](https://dev.to/codesphere/interactive-e-com-ui-animated-free-shipping-bar-156o)
+- [100 DAYS- DAY 2](https://dev.to/pahujanayan/100-days-day-2-11g)
+- [Lookup disk properties on linux](https://dev.to/yugabyte/lookup-disk-properties-on-linux-12p0)
 <!-- BLOG-POST-LIST:END -->
 
