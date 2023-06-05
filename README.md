@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting my journey](https://dev.to/silva_paulo/starting-my-journey-28n1)
 - [How to build your own data platform. Episode 2: authorization layer. Data Warehouse implementation.](https://dev.to/adevintaspain/how-to-build-your-own-data-platform-episode-2-authorization-layer-data-warehouse-implementation-e0c)
 - [How to visualize data with a bar chart using d3](https://dev.to/ifeolwaisaiah/how-to-visualize-data-with-a-bar-chart-using-d3-1m8e)
 - [How to use file templates in vim](https://dev.to/cherryramatis/how-to-use-file-templates-in-vim-3gcf)
-- [The Two Pillars of Algorithm Performance: Time and Space Complexity](https://dev.to/guaregua19/the-two-pillars-of-algorithm-performance-time-and-space-complexity-1118)
 <!-- BLOG-POST-LIST:END -->
 
