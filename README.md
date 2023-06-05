@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Complexity to Clarity: Architecting Software](https://dev.to/balagmadhu/from-complexity-to-clarity-architecting-software-lpk)
-- [10 Tips That Will Increase Your Flutter App Performance By 10X](https://dev.to/yatendra2001/10-tips-that-will-increase-your-flutter-app-performance-by-10x-g3j)
-- [How does participating in hackathons &amp; competitions skyrocket my career in 2022?](https://dev.to/yatendra2001/how-does-participating-in-hackathons-competitions-skyrocket-my-career-in-2022-3e80)
-- [Demystifying Angular Route Guards: A Beginner&#39;s Guide to Secure Navigation](https://dev.to/this-is-angular/demystifying-angular-route-guards-a-beginners-guide-to-secure-navigation-597b)
+- [What&#39;s Your Approach to Data Migration &amp; Database Versioning?](https://dev.to/devteam/whats-your-approach-to-data-migration-database-versioning-443o)
+- [The Coding Language Personality Test: What Would It Look Like?](https://dev.to/codenewbieteam/the-coding-language-personality-test-what-would-it-look-like-4fo3)
+- [Exploring Object-Oriented Programming with TypeScript](https://dev.to/wizdomtek/exploring-object-oriented-programming-with-typescript-22b)
+- [Ruby - DIY accessor methods](https://dev.to/hungle00/ruby-diy-accessor-methods-40dk)
 <!-- BLOG-POST-LIST:END -->
 
