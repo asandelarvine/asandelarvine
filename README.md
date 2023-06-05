@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [One more thing - Apple&#39;s push on web apps on macOS](https://dev.to/sebastian_wessel/one-more-thing-apples-push-on-web-apps-on-macos-2052)
 - [Proper structure of a react application](https://dev.to/muhireighor/proper-structure-of-a-react-application-57ce)
+- [We started to approach code reviews as engineering tasks. We&#39;re merging now faster than ever](https://dev.to/imri/we-started-to-approach-code-reviews-as-engineering-tasks-were-merging-code-now-faster-than-ever-1hfp)
 - [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
-- [What&#39;s your initial reaction to Apple Vision Pro?](https://dev.to/ben/whats-your-initial-reaction-to-apple-vision-pro-3715)
 <!-- BLOG-POST-LIST:END -->
 
