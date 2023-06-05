@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s Vision Pro: Stepping Into the Future of Spatial Computing](https://dev.to/yatendra2001/apples-vision-pro-stepping-into-the-future-of-spatial-computing-2575)
+- [Sentiment Analysis with Finetuned Models](https://dev.to/scofieldidehen/sentiment-analysis-with-finetuned-models-27b)
+- [Ruby - Conhecendo o método zip](https://dev.to/kellypc/ruby-conhecendo-o-metodo-zip-c29)
 - [One more thing - Apple&#39;s push on web apps on macOS](https://dev.to/sebastian_wessel/one-more-thing-apples-push-on-web-apps-on-macos-2052)
-- [Proper structure of a react application](https://dev.to/muhireighor/proper-structure-of-a-react-application-57ce)
-- [We started to approach code reviews as engineering tasks. We&#39;re merging now faster than ever](https://dev.to/imri/we-started-to-approach-code-reviews-as-engineering-tasks-were-merging-code-now-faster-than-ever-1hfp)
-- [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
 <!-- BLOG-POST-LIST:END -->
 
