@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Perfect Code Makes Everyone Lose](https://dev.to/topcat/perfect-code-makes-everyone-lose-1o97)
 - [How To Secure Your AWS API Gateway Using Cognito Authorizer](https://dev.to/kelvinskell/how-to-secure-your-aws-api-gateway-using-cognito-authorizer-4kep)
 - [20 Awesome FlutterFlow templates for bootstrap mobile app development](https://dev.to/pablonax/20-awesome-flutterflow-templates-for-bootstrap-mobile-app-development-1ige)
-- [Mastering Promises in JavaScript: A Comprehensive Guide](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
+- [Linting defensive and logical CSS with Stylelint plugins](https://dev.to/logrocket/linting-defensive-and-logical-css-with-stylelint-plugins-ddd)
 <!-- BLOG-POST-LIST:END -->
 
