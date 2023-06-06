@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Find and fix Non-Restful APIs with runtime analysis](https://dev.to/appmap/find-and-fix-non-restful-apis-with-runtime-analysis-video-55n4)
 - [#DEVDiscuss: Optimizing Dockerfiles](https://dev.to/devteam/devdiscuss-optimizing-dockerfiles-an1)
 - [Demystifying Git: A Comprehensive Guide to Version Control](https://dev.to/bobbyhalljr/demystifying-git-a-comprehensive-guide-to-version-control-6n7)
 - [How to act in a job interview](https://dev.to/pcabreram1234/how-to-act-in-a-job-interview-3f4c)
-- [Implementing Data Resolvers with Node.js](https://dev.to/cubesoft/implementing-data-resolvers-with-nodejs-d0k)
 <!-- BLOG-POST-LIST:END -->
 
