@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Your Strategies for Enhancing Code Reusability &amp; Maintainability?](https://dev.to/devteam/what-are-your-strategies-for-enhancing-code-reusability-maintainability-4bc4)
+- [Build Custom Authentication Using Appsmith and APISIX](https://dev.to/apisix/build-custom-authentication-using-appsmith-and-apisix-ep)
+- [Testing IaC Scripts 🧪](https://dev.to/jessica_veit/testing-iac-scripts-41cl)
+- [Building an event ticketing application with Next.js and Appwrite](https://dev.to/arshadayvid/building-an-event-ticketing-application-with-nextjs-and-appwrite-7m)
 - [How Do You Deal with Presentation Anxiety?](https://dev.to/codenewbieteam/do-you-have-presentation-anxiety-43de)
-- [Performing Parallel Iteration Using zip&lpar;&rpar; In Python](https://dev.to/sachingeek/performing-parallel-iteration-using-zip-in-python-1841)
-- [Using Parallel Processing in Node.js and its Limitations](https://dev.to/amplication/using-parallel-processing-in-nodejs-and-its-limitations-1lge)
 <!-- BLOG-POST-LIST:END -->
 
