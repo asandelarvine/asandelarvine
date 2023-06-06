@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manipulating JSON files with Crystal](https://dev.to/guto/manipulating-json-files-with-crystal-4gkk)
-- [10 Reasons why you should learn Clojure](https://dev.to/pragyanatvade/10-reasons-why-you-should-learn-clojure-3g92)
-- [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
-- [Manipulando arquivos JSON com Crystal](https://dev.to/guto/manipulando-arquivos-json-com-crystal-j6d)
+- [13 Powerful Python Snippets To Automate Tasks](https://dev.to/scofieldidehen/13-powerful-python-snippets-to-automate-tasks-10c1)
+- [Vencendo os números de ponto flutuante: um guia de sobrevivência](https://dev.to/leandronsp/vencendo-os-numeros-de-ponto-flutuante-um-guia-de-sobrevivencia-4n7n)
+- [JDBC program for Delete operation](https://dev.to/realnamehidden1_61/jdbc-program-for-delete-operation-588g)
+- [Authentication using Devise in Rails 7](https://dev.to/ahmadraza/authentication-using-devise-in-rails-7-3dn0)
 <!-- BLOG-POST-LIST:END -->
 
