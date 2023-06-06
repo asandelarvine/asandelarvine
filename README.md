@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfect Code Makes Everyone Lose](https://dev.to/topcat/perfect-code-makes-everyone-lose-1o97)
-- [How To Secure Your AWS API Gateway Using Cognito Authorizer](https://dev.to/kelvinskell/how-to-secure-your-aws-api-gateway-using-cognito-authorizer-4kep)
-- [20 Awesome FlutterFlow templates for bootstrap mobile app development](https://dev.to/pablonax/20-awesome-flutterflow-templates-for-bootstrap-mobile-app-development-1ige)
-- [Linting defensive and logical CSS with Stylelint plugins](https://dev.to/logrocket/linting-defensive-and-logical-css-with-stylelint-plugins-ddd)
+- [#DEVDiscuss: Optimizing Dockerfiles](https://dev.to/devteam/devdiscuss-optimizing-dockerfiles-an1)
+- [Demystifying Git: A Comprehensive Guide to Version Control](https://dev.to/bobbyhalljr/demystifying-git-a-comprehensive-guide-to-version-control-6n7)
+- [How to act in a job interview](https://dev.to/pcabreram1234/how-to-act-in-a-job-interview-3f4c)
+- [What&#39;s new in Playwright 1.33 and 1.34](https://dev.to/playwright/whats-new-in-playwright-133-and-134-3go)
 <!-- BLOG-POST-LIST:END -->
 
