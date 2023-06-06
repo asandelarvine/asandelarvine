@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is HTML a Programming Language?](https://dev.to/brojenuel/is-html-a-programming-language-4ke6)
+- [9 Simple Rules that will make your Java Code Better](https://dev.to/fedorbystrov/9-simple-rules-that-will-make-your-java-code-better-4pc4)
 - [Exploring MLOps Tools and Frameworks: Enhancing Machine Learning Operations](https://dev.to/phylis/exploring-mlops-tools-and-frameworks-enhancing-machine-learning-operations-f41)
 - [Everything You Need to Know About the HeadSpin PBox](https://dev.to/michaellopezeng/everything-you-need-to-know-about-the-headspin-pbox-1fe2)
-- [Mistakes to Avoid When Hiring a Business Consulting Firm in Indianapolis](https://dev.to/vanhornventuresllc/mistakes-to-avoid-when-hiring-a-business-consulting-firm-in-indianapolis-14fn)
-- [Deploy Free Figma Alternative Penpot With Docker](https://dev.to/paulknulst/deploy-free-figma-alternative-penpot-with-docker-2nkn)
 <!-- BLOG-POST-LIST:END -->
 
