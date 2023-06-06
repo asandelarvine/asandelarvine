@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The experience of being a maintainer—in their words](https://dev.to/tidelift/the-experience-of-being-a-maintainer-in-their-words-2alf)
-- [How to calculate CSS specificity of your style rules](https://dev.to/smitterhane/how-to-calculate-css-specificity-of-your-style-rules-moj)
-- [Best Practices of ReactJS with TypeScript](https://dev.to/deepeshk1204/best-practices-of-reactjs-with-typescript-24p4)
-- [Is HTML a Programming Language?](https://dev.to/brojenuel/is-html-a-programming-language-4ke6)
+- [Unlocking the Power of API Pagination: Best Practices and Strategies](https://dev.to/pragativerma18/unlocking-the-power-of-api-pagination-best-practices-and-strategies-4b49)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)
+- [New array methods in JavaScript bring immutability](https://dev.to/codepo8/new-array-methods-in-javascript-bring-immutability-1nij)
+- [Budibase vs Superblocks: Which one is better for your business?](https://dev.to/illa/budibase-vs-superblocks-which-one-is-better-for-your-business-2mgm)
 <!-- BLOG-POST-LIST:END -->
 
