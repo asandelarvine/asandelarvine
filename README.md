@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MLOps 101: A Beginner&#39;s Guide to Understanding Machine Learning Model Operations](https://dev.to/phylis/mlops-101-a-beginners-guide-to-understanding-machine-learning-model-operations-2dko)
-- [The LinQ Bible in C#: From Basics to Best Practices✝️](https://dev.to/bytehide/the-linq-bible-in-c-from-basics-to-best-practices-1e3c)
-- [How to Create a Beautiful Particle Animation with HTML Canvas](https://dev.to/cruip_com/how-to-create-a-beautiful-particle-animation-with-html-canvas-n22)
-- [Toxic Work environment](https://dev.to/kristiyan_velkov/toxic-work-environment-3jc8)
+- [Exploring MLOps Tools and Frameworks: Enhancing Machine Learning Operations](https://dev.to/phylis/exploring-mlops-tools-and-frameworks-enhancing-machine-learning-operations-f41)
+- [Everything You Need to Know About the HeadSpin PBox](https://dev.to/michaellopezeng/everything-you-need-to-know-about-the-headspin-pbox-1fe2)
+- [Mistakes to Avoid When Hiring a Business Consulting Firm in Indianapolis](https://dev.to/vanhornventuresllc/mistakes-to-avoid-when-hiring-a-business-consulting-firm-in-indianapolis-14fn)
+- [Deploy Free Figma Alternative Penpot With Docker](https://dev.to/paulknulst/deploy-free-figma-alternative-penpot-with-docker-2nkn)
 <!-- BLOG-POST-LIST:END -->
 
