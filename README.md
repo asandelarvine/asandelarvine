@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MLOps 101: A Beginner&#39;s Guide to Understanding Machine Learning Model Operations](https://dev.to/phylis/mlops-101-a-beginners-guide-to-understanding-machine-learning-model-operations-2dko)
+- [The LinQ Bible in C#: From Basics to Best Practices✝️](https://dev.to/bytehide/the-linq-bible-in-c-from-basics-to-best-practices-1e3c)
+- [How to Create a Beautiful Particle Animation with HTML Canvas](https://dev.to/cruip_com/how-to-create-a-beautiful-particle-animation-with-html-canvas-n22)
 - [Toxic Work environment](https://dev.to/kristiyan_velkov/toxic-work-environment-3jc8)
-- [How to Remove a File from Git and Add it to `.gitignore`](https://dev.to/hashcode01/how-to-remove-a-file-from-git-and-add-it-to-gitignore-5c0m)
-- [What are Dev.to credits ???](https://dev.to/coderatul/what-are-devto-credits--1cni)
-- [Build Custom Authentication Using Appsmith and APISIX](https://dev.to/apisix/build-custom-authentication-using-appsmith-and-apisix-ep)
 <!-- BLOG-POST-LIST:END -->
 
