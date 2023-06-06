@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Manifold vs. Lombok: Enhancing Java with Property Support](https://dev.to/codenameone/manifold-vs-lombok-enhancing-java-with-property-support-49de)
+- [RenderATL : An Introvert’s worst nightmare … in the BEST way.](https://dev.to/amera/renderatl-an-introverts-worst-nightmare-in-the-best-way-5alg)
+- [How to translate a document with JavaScript?](https://dev.to/edenai/how-to-translate-a-document-with-javascript-7nc)
 - [Top Tools for CyberSecurity in 2023](https://dev.to/scofieldidehen/top-tools-for-cybersecurity-in-2023-13og)
-- [Ensuring Business Continuity: A Guide to Choosing the Right Disaster Recovery Strategy on AWS](https://dev.to/brandondamue/ensuring-business-continuity-a-guide-to-choosing-the-right-disaster-recovery-strategy-on-aws-1eoi)
-- [Unlocking the Power of API Pagination: Best Practices and Strategies](https://dev.to/pragativerma18/unlocking-the-power-of-api-pagination-best-practices-and-strategies-4b49)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)
 <!-- BLOG-POST-LIST:END -->
 
