@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The experience of being a maintainer—in their words](https://dev.to/tidelift/the-experience-of-being-a-maintainer-in-their-words-2alf)
+- [How to calculate CSS specificity of your style rules](https://dev.to/smitterhane/how-to-calculate-css-specificity-of-your-style-rules-moj)
+- [Best Practices of ReactJS with TypeScript](https://dev.to/deepeshk1204/best-practices-of-reactjs-with-typescript-24p4)
 - [Is HTML a Programming Language?](https://dev.to/brojenuel/is-html-a-programming-language-4ke6)
-- [9 Simple Rules that will make your Java Code Better](https://dev.to/fedorbystrov/9-simple-rules-that-will-make-your-java-code-better-4pc4)
-- [Exploring MLOps Tools and Frameworks: Enhancing Machine Learning Operations](https://dev.to/phylis/exploring-mlops-tools-and-frameworks-enhancing-machine-learning-operations-f41)
-- [Everything You Need to Know About the HeadSpin PBox](https://dev.to/michaellopezeng/everything-you-need-to-know-about-the-headspin-pbox-1fe2)
 <!-- BLOG-POST-LIST:END -->
 
