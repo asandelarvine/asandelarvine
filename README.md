@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manifold vs. Lombok: Enhancing Java with Property Support](https://dev.to/codenameone/manifold-vs-lombok-enhancing-java-with-property-support-49de)
-- [RenderATL : An Introvert’s worst nightmare … in the BEST way.](https://dev.to/amera/renderatl-an-introverts-worst-nightmare-in-the-best-way-5alg)
-- [How to translate a document with JavaScript?](https://dev.to/edenai/how-to-translate-a-document-with-javascript-7nc)
-- [Top Tools for CyberSecurity in 2023](https://dev.to/scofieldidehen/top-tools-for-cybersecurity-in-2023-13og)
+- [Perfect Code Makes Everyone Lose](https://dev.to/topcat/perfect-code-makes-everyone-lose-1o97)
+- [How To Secure Your AWS API Gateway Using Cognito Authorizer](https://dev.to/kelvinskell/how-to-secure-your-aws-api-gateway-using-cognito-authorizer-4kep)
+- [20 Awesome FlutterFlow templates for bootstrap mobile app development](https://dev.to/pablonax/20-awesome-flutterflow-templates-for-bootstrap-mobile-app-development-1ige)
+- [Mastering Promises in JavaScript: A Comprehensive Guide](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
 <!-- BLOG-POST-LIST:END -->
 
