@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
+- [Manipulando arquivos JSON com Crystal](https://dev.to/guto/manipulando-arquivos-json-com-crystal-j6d)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2jcf)
-- [Apple&#39;s Vision Pro: Stepping Into the Future of Spatial Computing](https://dev.to/yatendra2001/apples-vision-pro-stepping-into-the-future-of-spatial-computing-2575)
-- [Sentiment Analysis with Finetuned Models](https://dev.to/scofieldidehen/sentiment-analysis-with-finetuned-models-27b)
-- [Ruby - Conhecendo o método zip](https://dev.to/kellypc/ruby-conhecendo-o-metodo-zip-c29)
+- [Authentication system using Golang and Sveltekit - Regenerate token &amp; Password change](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-regenerate-token-password-change-5g4p)
 <!-- BLOG-POST-LIST:END -->
 
