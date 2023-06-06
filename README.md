@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Tools for CyberSecurity in 2023](https://dev.to/scofieldidehen/top-tools-for-cybersecurity-in-2023-13og)
+- [Ensuring Business Continuity: A Guide to Choosing the Right Disaster Recovery Strategy on AWS](https://dev.to/brandondamue/ensuring-business-continuity-a-guide-to-choosing-the-right-disaster-recovery-strategy-on-aws-1eoi)
 - [Unlocking the Power of API Pagination: Best Practices and Strategies](https://dev.to/pragativerma18/unlocking-the-power-of-api-pagination-best-practices-and-strategies-4b49)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)
-- [New array methods in JavaScript bring immutability](https://dev.to/codepo8/new-array-methods-in-javascript-bring-immutability-1nij)
-- [Budibase vs Superblocks: Which one is better for your business?](https://dev.to/illa/budibase-vs-superblocks-which-one-is-better-for-your-business-2mgm)
 <!-- BLOG-POST-LIST:END -->
 
