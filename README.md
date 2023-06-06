@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Read More Button using HTML And CSS Only](https://dev.to/cwrcode/create-a-read-more-button-using-html-and-css-only-5d64)
+- [BRC20 Token - Trending and Booming Token Creation](https://dev.to/jessietomaz/brc20-token-trending-and-booming-token-creation-33a7)
 - [Pure CSS flask animation](https://dev.to/melnik909/pure-css-flask-animation-4nga)
 - [Flutter vs. React Native: Which is the best choice for your next mobile project?](https://dev.to/yatendra2001/flutter-vs-react-native-which-is-the-best-choice-for-your-next-mobile-project-45c3)
-- [13 Powerful Python Snippets To Automate Tasks](https://dev.to/scofieldidehen/13-powerful-python-snippets-to-automate-tasks-10c1)
-- [Vencendo os números de ponto flutuante: um guia de sobrevivência](https://dev.to/leandronsp/vencendo-os-numeros-de-ponto-flutuante-um-guia-de-sobrevivencia-4n7n)
 <!-- BLOG-POST-LIST:END -->
 
