@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pure CSS flask animation](https://dev.to/melnik909/pure-css-flask-animation-4nga)
+- [Flutter vs. React Native: Which is the best choice for your next mobile project?](https://dev.to/yatendra2001/flutter-vs-react-native-which-is-the-best-choice-for-your-next-mobile-project-45c3)
 - [13 Powerful Python Snippets To Automate Tasks](https://dev.to/scofieldidehen/13-powerful-python-snippets-to-automate-tasks-10c1)
 - [Vencendo os números de ponto flutuante: um guia de sobrevivência](https://dev.to/leandronsp/vencendo-os-numeros-de-ponto-flutuante-um-guia-de-sobrevivencia-4n7n)
-- [JDBC program for Delete operation](https://dev.to/realnamehidden1_61/jdbc-program-for-delete-operation-588g)
-- [Authentication using Devise in Rails 7](https://dev.to/ahmadraza/authentication-using-devise-in-rails-7-3dn0)
 <!-- BLOG-POST-LIST:END -->
 
