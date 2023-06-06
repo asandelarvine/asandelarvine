@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Read More Button using HTML And CSS Only](https://dev.to/cwrcode/create-a-read-more-button-using-html-and-css-only-5d64)
-- [BRC20 Token - Trending and Booming Token Creation](https://dev.to/jessietomaz/brc20-token-trending-and-booming-token-creation-33a7)
-- [Pure CSS flask animation](https://dev.to/melnik909/pure-css-flask-animation-4nga)
-- [Flutter vs. React Native: Which is the best choice for your next mobile project?](https://dev.to/yatendra2001/flutter-vs-react-native-which-is-the-best-choice-for-your-next-mobile-project-45c3)
+- [What Are Your Strategies for Enhancing Code Reusability &amp; Maintainability?](https://dev.to/devteam/what-are-your-strategies-for-enhancing-code-reusability-maintainability-4bc4)
+- [How Do You Deal with Presentation Anxiety?](https://dev.to/codenewbieteam/do-you-have-presentation-anxiety-43de)
+- [Performing Parallel Iteration Using zip&lpar;&rpar; In Python](https://dev.to/sachingeek/performing-parallel-iteration-using-zip-in-python-1841)
+- [Using Parallel Processing in Node.js and its Limitations](https://dev.to/amplication/using-parallel-processing-in-nodejs-and-its-limitations-1lge)
 <!-- BLOG-POST-LIST:END -->
 
