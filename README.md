@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [#DEVDiscuss: Optimizing Dockerfiles](https://dev.to/devteam/devdiscuss-optimizing-dockerfiles-an1)
 - [Demystifying Git: A Comprehensive Guide to Version Control](https://dev.to/bobbyhalljr/demystifying-git-a-comprehensive-guide-to-version-control-6n7)
 - [How to act in a job interview](https://dev.to/pcabreram1234/how-to-act-in-a-job-interview-3f4c)
-- [What&#39;s new in Playwright 1.33 and 1.34](https://dev.to/playwright/whats-new-in-playwright-133-and-134-3go)
+- [Implementing Data Resolvers with Node.js](https://dev.to/cubesoft/implementing-data-resolvers-with-nodejs-d0k)
 <!-- BLOG-POST-LIST:END -->
 
