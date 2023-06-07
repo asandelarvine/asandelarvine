@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Budgets Vs Performance Goals](https://dev.to/plank/performance-budgets-vs-performance-goals-1jp4)
-- [Catch DEV Lead Software Engineer Ridhwana Khan’s talk at Rubyday 2023](https://dev.to/devteam/catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1)
-- [Do You Know What is TDD?](https://dev.to/jvidaln/do-you-know-what-is-tdd-10o2)
-- [Getting Started with MDX in Next.js: A Practical Guide](https://dev.to/nitinfab/getting-started-with-mdx-in-nextjs-a-practical-guide-30hf)
+- [10 Most-Important Resume Writing Tools 🎯](https://dev.to/iarchitsharma/please-dont-create-your-resume-in-ms-word-instead-use-these-tools-184e)
+- [Where To Find And Hire Web3 Software Developers](https://dev.to/kudoser/where-to-find-and-hire-web3-software-developers-4lg)
+- [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
+- [Improve Your Prompts for LLMs: Simple and Effective Techniques](https://dev.to/ganderzz/improve-your-prompts-for-llms-simple-and-effective-techniques-20j9)
 <!-- BLOG-POST-LIST:END -->
 
