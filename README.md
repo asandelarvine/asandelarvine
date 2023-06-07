@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Django Packages to Every Developer Must Install](https://dev.to/scofieldidehen/10-django-packages-to-every-developer-must-install-1opj)
+- [How to Use Sinatra to Build a Ruby Application](https://dev.to/appsignal/how-to-use-sinatra-to-build-a-ruby-application-3me)
 - [Difference between package.json and package-lock.json](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
 - [Genesis of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
-- [Part : &lpar;3&rpar; Conditionals and Loops in JavaScript](https://dev.to/cliff123tech/part-3-conditionals-and-loops-in-javascript-12j4)
-- [Welcome Thread - v228](https://dev.to/devteam/welcome-thread-v228-3jal)
 <!-- BLOG-POST-LIST:END -->
 
