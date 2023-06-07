@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #147: RSCs, Next.js, Remix, Error Boundary, JSX, Raycast, Spotify, Triplex, ReMDX, Astro, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-147-rscs-nextjs-remix-error-boundary-jsx-raycast-spotify-triplex-remdx-astro-typescript-3akm)
+- [NodeJS vs .NET](https://dev.to/code_jedi/nodejs-vs-net-4jo)
+- [Integrating Keycloak as my Identity Provider for IAM Identity Centre: Part one, deploying Keycloak on AWS](https://dev.to/aws/integrating-keycloak-as-my-identity-provider-for-iam-identity-centre-part-one-deploying-keycloak-on-aws-2ol1)
 - [Using Performance API to Measure Front-End Interaction Times](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
-- [10 Most-Important Resume Writing Tools 🎯](https://dev.to/iarchitsharma/please-dont-create-your-resume-in-ms-word-instead-use-these-tools-184e)
-- [Where To Find And Hire Web3 Software Developers](https://dev.to/kudoser/where-to-find-and-hire-web3-software-developers-4lg)
-- [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
 <!-- BLOG-POST-LIST:END -->
 
