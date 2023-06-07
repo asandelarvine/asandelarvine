@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Div vs Span in HTML, Do you know the difference? With Examples and Best-Practices.](https://dev.to/jeetvora331/div-vs-span-in-css-with-examples-and-best-practices-802)
-- [Azampay: A Convenient Payment Service Provider in Tanzania](https://dev.to/alphaolomi/azampay-a-convenient-payment-service-provider-in-tanzania-2afa)
-- [Unleashing Creativity: My Journey as a Teenage Web Developer.](https://dev.to/moeezikram/unleashing-creativity-my-journey-as-a-teenage-web-developer-4762)
-- [This Week In React #147: RSCs, Next.js, Remix, Error Boundary, JSX, Raycast, Spotify, Triplex, ReMDX, Astro, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-147-rscs-nextjs-remix-error-boundary-jsx-raycast-spotify-triplex-remdx-astro-typescript-3akm)
+- [Just launched a collection of UI components and effects, crafted with React and Tailwind CSS](https://dev.to/ibelick/just-launched-a-collection-of-ui-components-and-effects-crafted-with-react-and-tailwind-css-3obj)
+- [TypeScript: Everything you need to know!](https://dev.to/ivangcode/typescript-everything-you-need-to-know-3l8l)
+- [APACHE AGE: Getting Started Part 3&lpar;AGE INSTALLATION VIA DOCKER&rpar;](https://dev.to/shadycj/apache-age-getting-started-part-3age-installation-via-docker-2lig)
+- [Mixed methods research in R](https://dev.to/maria_plieva_b8d8f6a9f9c6/mixed-method-research-in-r-1l64)
 <!-- BLOG-POST-LIST:END -->
 
