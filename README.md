@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Romance Between Developers and Data Structures](https://dev.to/jamesajayi/the-romance-between-developers-and-data-structures-ann)
-- [The Essential Checklist: Top 10 Things to Remember During Android App Development](https://dev.to/dhruvjoshi9/the-essential-checklist-top-10-things-to-remember-during-android-app-development-4ib0)
-- [Secure Web Development: Best Practices for Fortifying Your Applications 🚀🔥](https://dev.to/arjuncodess/secure-web-development-best-practices-for-fortifying-your-applications-2gmm)
-- [10 Sites to Level Up Your UI Skills](https://dev.to/keracudmore/10-sites-to-level-up-your-ui-skills-3e9m)
+- [Searching Algorithms: A Guide with Java](https://dev.to/shubhamtiwari909/searching-algorithms-a-guide-with-java-3i8i)
+- [Remix: A Full-Stack React Framework for Fast and Resilient Web Experiences](https://dev.to/scofieldidehen/remix-a-full-stack-react-framework-for-fast-and-resilient-web-experiences-1ja1)
+- [Generate API references for your python 🐍 projects !](https://dev.to/coderatul/generate-api-references-for-your-python-projects--kpm)
+- [How to Boost Your Web Performance with HTML5 Features](https://dev.to/this-is-learning/how-to-boost-your-web-performance-with-html5-features-4027)
 <!-- BLOG-POST-LIST:END -->
 
