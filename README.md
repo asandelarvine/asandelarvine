@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Performance API to Measure Front-End Interaction Times](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
 - [10 Most-Important Resume Writing Tools 🎯](https://dev.to/iarchitsharma/please-dont-create-your-resume-in-ms-word-instead-use-these-tools-184e)
 - [Where To Find And Hire Web3 Software Developers](https://dev.to/kudoser/where-to-find-and-hire-web3-software-developers-4lg)
 - [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
-- [Improve Your Prompts for LLMs: Simple and Effective Techniques](https://dev.to/ganderzz/improve-your-prompts-for-llms-simple-and-effective-techniques-20j9)
 <!-- BLOG-POST-LIST:END -->
 
