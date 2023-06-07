@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Div vs Span in HTML, Do you know the difference? With Examples and Best-Practices.](https://dev.to/jeetvora331/div-vs-span-in-css-with-examples-and-best-practices-802)
+- [Azampay: A Convenient Payment Service Provider in Tanzania](https://dev.to/alphaolomi/azampay-a-convenient-payment-service-provider-in-tanzania-2afa)
+- [Unleashing Creativity: My Journey as a Teenage Web Developer.](https://dev.to/moeezikram/unleashing-creativity-my-journey-as-a-teenage-web-developer-4762)
 - [This Week In React #147: RSCs, Next.js, Remix, Error Boundary, JSX, Raycast, Spotify, Triplex, ReMDX, Astro, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-147-rscs-nextjs-remix-error-boundary-jsx-raycast-spotify-triplex-remdx-astro-typescript-3akm)
-- [NodeJS vs .NET](https://dev.to/code_jedi/nodejs-vs-net-4jo)
-- [Integrating Keycloak as my Identity Provider for IAM Identity Centre: Part one, deploying Keycloak on AWS](https://dev.to/aws/integrating-keycloak-as-my-identity-provider-for-iam-identity-centre-part-one-deploying-keycloak-on-aws-2ol1)
-- [Using Performance API to Measure Front-End Interaction Times](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
 <!-- BLOG-POST-LIST:END -->
 
