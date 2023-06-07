@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your First Cell Phone? 🙌📱](https://dev.to/devteam/what-was-your-first-cell-phone-4gko)
+- [If You Could Chat with a Historical Figure, Who Would It Be and What Would You Ask?](https://dev.to/codenewbieteam/if-you-could-chat-with-a-historical-figure-who-would-it-be-and-what-would-you-ask-44i8)
 - [🎉 Surpassing 1000 Followers on Dev Community! 🎉😊🌺](https://dev.to/phylis/surpassing-1000-followers-on-dev-community-5dfg)
-- [How to install Shopify CLI 3.0 for themes](https://dev.to/jazurite/how-to-install-shopify-cli-30-for-themes-295f)
-- [The holy grail of note-taking: Private data, efficient methodology and P2P encrypted sync across all your devices](https://dev.to/maxime1992/the-holy-grail-of-note-taking-private-data-efficient-methodology-and-p2p-encrypted-sync-across-all-your-devices-1ih3)
-- [Running Cypress tests in Docker containers using different Docker images](https://dev.to/sanzhanov/running-cypress-tests-in-docker-containers-using-different-docker-images-4lp0)
+- [Weekly web development resources #152](https://dev.to/vincenius/weekly-web-development-resources-152-52i7)
 <!-- BLOG-POST-LIST:END -->
 
