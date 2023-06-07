@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance Budgets Vs Performance Goals](https://dev.to/plank/performance-budgets-vs-performance-goals-1jp4)
+- [Catch DEV Lead Software Engineer Ridhwana Khan’s talk at Rubyday 2023](https://dev.to/devteam/catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1)
+- [Do You Know What is TDD?](https://dev.to/jvidaln/do-you-know-what-is-tdd-10o2)
 - [Getting Started with MDX in Next.js: A Practical Guide](https://dev.to/nitinfab/getting-started-with-mdx-in-nextjs-a-practical-guide-30hf)
-- [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
-- [&quot;Balancing Parenthood and Programming&quot;: CodeNewbie Podcast S24E5](https://dev.to/codenewbieteam/balancing-parenthood-and-programming-codenewbie-podcast-s24e5-36c2)
-- [7 Ruby Feature Flag Tools Compared](https://dev.to/jdwyah/7-ruby-feature-flag-tools-compared-ljm)
 <!-- BLOG-POST-LIST:END -->
 
