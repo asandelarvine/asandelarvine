@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Django Packages to Every Developer Must Install](https://dev.to/scofieldidehen/10-django-packages-to-every-developer-must-install-1opj)
-- [How to Use Sinatra to Build a Ruby Application](https://dev.to/appsignal/how-to-use-sinatra-to-build-a-ruby-application-3me)
-- [Difference between package.json and package-lock.json](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
-- [Genesis of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
+- [The Romance Between Developers and Data Structures](https://dev.to/jamesajayi/the-romance-between-developers-and-data-structures-ann)
+- [The Essential Checklist: Top 10 Things to Remember During Android App Development](https://dev.to/dhruvjoshi9/the-essential-checklist-top-10-things-to-remember-during-android-app-development-4ib0)
+- [Secure Web Development: Best Practices for Fortifying Your Applications 🚀🔥](https://dev.to/arjuncodess/secure-web-development-best-practices-for-fortifying-your-applications-2gmm)
+- [10 Sites to Level Up Your UI Skills](https://dev.to/keracudmore/10-sites-to-level-up-your-ui-skills-3e9m)
 <!-- BLOG-POST-LIST:END -->
 
