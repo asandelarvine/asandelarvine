@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Cypress tests in Docker containers using different Docker images](https://dev.to/sanzhanov/running-cypress-tests-in-docker-containers-using-different-docker-images-4lp0)
 - [I built the same app 6 times! Which JS Framework is best?](https://dev.to/johnrushx/i-built-the-same-app-6-times-which-js-framework-is-best-2iff)
 - [DevOps vs DevSecOps: The Debate](https://dev.to/clickit_devops/devops-vs-devsecops-the-debate-2d0n)
 - [Secure Authentication in Next.js with Email Magic Links](https://dev.to/clerk/secure-authentication-in-nextjs-with-email-magic-links-29cc)
-- [Node.js Error Handling.](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
 <!-- BLOG-POST-LIST:END -->
 
