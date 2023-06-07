@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Role of AI in DevOps?](https://dev.to/kubi-ya/what-is-the-role-of-ai-in-devops-1p6b)
-- [TypeScript Express: Building Robust APIs with Node.js](https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln)
-- [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
-- [Take your Flutter App to the next level with Appwrite&#39;s offline support](https://dev.to/hackmamba/take-your-flutter-app-to-the-next-level-with-appwrites-offline-support-40a5)
+- [Difference between package.json and package-lock.json](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
+- [Genesis of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
+- [Part : &lpar;3&rpar; Conditionals and Loops in JavaScript](https://dev.to/cliff123tech/part-3-conditionals-and-loops-in-javascript-12j4)
+- [Welcome Thread - v228](https://dev.to/devteam/welcome-thread-v228-3jal)
 <!-- BLOG-POST-LIST:END -->
 
