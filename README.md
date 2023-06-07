@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Writing Technical Blog Posts](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464)
-- [Como configurar Etags en Apache Server](https://dev.to/juanchehin/como-configurar-etags-en-apache-server-2hh1)
-- [Find and fix Non-Restful APIs with runtime analysis](https://dev.to/appmap/find-and-fix-non-restful-apis-with-runtime-analysis-video-55n4)
-- [Remove default margin](https://dev.to/davisson001/2-remove-default-margin-4ooh)
+- [I built the same app 6 times! Which JS Framework is best?](https://dev.to/johnrushx/i-built-the-same-app-6-times-which-js-framework-is-best-2iff)
+- [DevOps vs DevSecOps: The Debate](https://dev.to/clickit_devops/devops-vs-devsecops-the-debate-2d0n)
+- [Secure Authentication in Next.js with Email Magic Links](https://dev.to/clerk/secure-authentication-in-nextjs-with-email-magic-links-29cc)
+- [Node.js Error Handling.](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
 <!-- BLOG-POST-LIST:END -->
 
