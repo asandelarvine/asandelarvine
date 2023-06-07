@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching Algorithms: A Guide with Java](https://dev.to/shubhamtiwari909/searching-algorithms-a-guide-with-java-3i8i)
-- [Remix: A Full-Stack React Framework for Fast and Resilient Web Experiences](https://dev.to/scofieldidehen/remix-a-full-stack-react-framework-for-fast-and-resilient-web-experiences-1ja1)
-- [Generate API references for your python 🐍 projects !](https://dev.to/coderatul/generate-api-references-for-your-python-projects--kpm)
-- [How to Boost Your Web Performance with HTML5 Features](https://dev.to/this-is-learning/how-to-boost-your-web-performance-with-html5-features-4027)
+- [Getting Started with MDX in Next.js: A Practical Guide](https://dev.to/nitinfab/getting-started-with-mdx-in-nextjs-a-practical-guide-30hf)
+- [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
+- [&quot;Balancing Parenthood and Programming&quot;: CodeNewbie Podcast S24E5](https://dev.to/codenewbieteam/balancing-parenthood-and-programming-codenewbie-podcast-s24e5-36c2)
+- [7 Ruby Feature Flag Tools Compared](https://dev.to/jdwyah/7-ruby-feature-flag-tools-compared-ljm)
 <!-- BLOG-POST-LIST:END -->
 
