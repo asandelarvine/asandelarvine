@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Take your Flutter App to the next level with Appwrite&#39;s offline support](https://dev.to/hackmamba/take-your-flutter-app-to-the-next-level-with-appwrites-offline-support-40a5)
+- [Full-Text Search in PostgreSQL: A Comprehensive Guide](https://dev.to/nightbird07/full-text-search-in-postgresql-a-comprehensive-guide-3kcn)
 - [What Was Your First Cell Phone? 🙌📱](https://dev.to/devteam/what-was-your-first-cell-phone-4gko)
 - [If You Could Chat with a Historical Figure, Who Would It Be and What Would You Ask?](https://dev.to/codenewbieteam/if-you-could-chat-with-a-historical-figure-who-would-it-be-and-what-would-you-ask-44i8)
-- [🎉 Surpassing 1000 Followers on Dev Community! 🎉😊🌺](https://dev.to/phylis/surpassing-1000-followers-on-dev-community-5dfg)
-- [Weekly web development resources #152](https://dev.to/vincenius/weekly-web-development-resources-152-52i7)
 <!-- BLOG-POST-LIST:END -->
 
