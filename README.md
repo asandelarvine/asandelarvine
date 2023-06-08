@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Project Mongodb database Connect | Angular Website Project | Angular App](https://dev.to/softwaretechit/angular-project-mongodb-database-connect-angular-website-project-angular-app-49o4)
+- [Top Security Vulnerabilities in React Applications](https://dev.to/scofieldidehen/top-security-vulnerabilities-in-react-applications-ogc)
+- [The Art of Managing Unfinished Tests: To Skip or To Soft Fail? 🏃‍♂️🧪](https://dev.to/ranggakd/the-art-of-managing-unfinished-tests-to-skip-or-to-soft-fail-2bb4)
 - [Beyond Resume Building: 5 Surprising Benefits of Contributing to Open Source](https://dev.to/quine/beyond-resume-building-5-surprising-benefits-of-contributing-to-open-source-45m2)
-- [Transform Your Data Like a Pro With dbt &lpar;Data Build Tool&rpar;](https://dev.to/grayhat/transform-your-data-like-a-pro-with-dbt-data-build-tool-39kd)
-- [Cross Browser Testing with Cypress in CI/CD using Docker](https://dev.to/sanzhanov/cross-browser-testing-with-cypress-in-cicd-using-docker-48p3)
-- [What Are Your Biggest Tips For Balancing Being A Parent With Learning To Code?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-biggest-tips-for-balancing-parenthood-with-learning-to-code-codenewbie-podcast-162)
 <!-- BLOG-POST-LIST:END -->
 
