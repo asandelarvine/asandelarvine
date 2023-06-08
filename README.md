@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Your Biggest Tips For Balancing Being A Parent With Learning To Code?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-biggest-tips-for-balancing-parenthood-with-learning-to-code-codenewbie-podcast-162)
 - [4 JavaScript Email Frameworks : Nodemailer, SendGrid, SMTP.js, and Mailgun](https://dev.to/scofieldidehen/4-javascript-email-frameworks-nodemailer-sendgrid-smtpjs-and-mailgun-3eal)
 - [Terraforming AWS RDS : A practical guide with Postgres](https://dev.to/yet_anotherdev/terraforming-aws-rds-a-practical-guide-with-postgres-42ka)
 - [Day 46-47: Beginner FastAPI Series - Part 3](https://dev.to/jenad88/day-46-47-beginner-fastapi-series-part-3-4i14)
-- [3 Engineering Mistakes That Kill Startups](https://dev.to/_michaellin/3-engineering-mistakes-that-kill-startups-3fm3)
 <!-- BLOG-POST-LIST:END -->
 
