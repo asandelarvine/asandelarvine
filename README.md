@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
+- [LEARN API AND ITS MOST POPULAR TYPE](https://dev.to/gaurbprajapati/learn-api-and-its-most-populat-type-3hnm)
 - [Essential git commands every developer should know](https://dev.to/wizdomtek/essential-git-commands-every-developer-should-know-1dhb)
 - [A Plain English Guide to Reverse-Engineering the Twitter Algorithm with LangChain, Activeloop, and DeepInfra](https://dev.to/mikeyoung44/a-plain-english-guide-to-reverse-engineering-the-twitter-algorithm-with-langchain-activeloop-and-deepinfra-47fh)
-- [Finding Harmony in Marketing and UX](https://dev.to/contenda/finding-harmony-in-marketing-and-ux-4em7)
-- [💡 Where to Find Inspiration for Building Your Next App](https://dev.to/evergrowingdev/where-to-find-inspiration-for-building-your-next-app-p8k)
 <!-- BLOG-POST-LIST:END -->
 
