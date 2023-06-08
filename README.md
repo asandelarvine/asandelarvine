@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab Pages preview](https://dev.to/nfrankel/gitlab-pages-preview-1h5g)
-- [ANGULAR 16 - SIGNALS](https://dev.to/kristiyan_velkov/angular-16-signals-3li0)
-- [What Features Would You Want in a Smart Home of the Future?](https://dev.to/codenewbieteam/what-features-would-you-want-in-a-smart-home-of-the-future-1e2b)
-- [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
+- [Step-By-Step Guide for NgRx with Angular 16!](https://dev.to/codecraftjs/step-by-step-guide-for-ngrx-with-angular-16-30jd)
+- [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/lalami/best-7-open-source-projects-built-with-nodejs-reactjs-2hdo)
+- [Dependency injection in action filters in ASP.NET Core](https://dev.to/ifourtechnolab/dependency-injection-in-action-filters-in-aspnet-core-2khj)
+- [AWS Community Builders Program-All you need to know!!🌻](https://dev.to/aws-builders/aws-community-builders-program-all-you-need-to-know-4j7k)
 <!-- BLOG-POST-LIST:END -->
 
