@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Number Systems. Network Layer. IPv4 subnetting. ICMP](https://dev.to/mutasim77/number-systems-network-layer-ipv4-subnetting-icmp-400d)
+- [Chinese miniapp architecture](https://dev.to/132/chinese-miniapp-architecture-3mg)
 - [How to Create Contact Form using HTML and CSS](https://dev.to/cwrcode/how-to-create-contact-form-using-html-and-css-3jn2)
 - [Web Development Unleashed: A Hilarious Odyssey into the Future!](https://dev.to/bhavin9920/web-development-unleashed-a-hilarious-odyssey-into-the-future-1b93)
-- [Bridging the Gap: Leveraging Secret Store CSI Drivers to Access Secrets from Google Secret Manager in GKE Cluster](https://dev.to/sunnybhambhani/bridging-the-gap-leveraging-secret-store-csi-drivers-to-access-secrets-from-google-secret-manager-in-gke-cluster-po7)
-- [AI-driven Code Completions in 90secs](https://dev.to/aiformewiki/ai-driven-code-completions-in-90secs-j7c)
 <!-- BLOG-POST-LIST:END -->
 
