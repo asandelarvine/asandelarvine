@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Pages preview](https://dev.to/nfrankel/gitlab-pages-preview-1h5g)
 - [ANGULAR 16 - SIGNALS](https://dev.to/kristiyan_velkov/angular-16-signals-3li0)
-- [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
 - [What Features Would You Want in a Smart Home of the Future?](https://dev.to/codenewbieteam/what-features-would-you-want-in-a-smart-home-of-the-future-1e2b)
-- [Fictional Tech Made Real: Your Choice? Why?](https://dev.to/devteam/fictional-tech-made-real-your-choice-why-lea)
+- [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
 <!-- BLOG-POST-LIST:END -->
 
