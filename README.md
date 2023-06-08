@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [4 JavaScript Email Frameworks : Nodemailer, SendGrid, SMTP.js, and Mailgun](https://dev.to/scofieldidehen/4-javascript-email-frameworks-nodemailer-sendgrid-smtpjs-and-mailgun-3eal)
+- [Terraforming AWS RDS : A practical guide with Postgres](https://dev.to/yet_anotherdev/terraforming-aws-rds-a-practical-guide-with-postgres-42ka)
 - [3 Engineering Mistakes That Kill Startups](https://dev.to/_michaellin/3-engineering-mistakes-that-kill-startups-3fm3)
 - [C# Async/Await Interview Questions And Answers](https://dev.to/bytehide/c-asyncawait-interview-questions-and-answers-f7l)
-- [10 Free Image Tools Every Frontend Developer Needs](https://dev.to/joywinter90/10-free-image-tools-every-frontend-developer-needs-1j20)
-- [Step-By-Step Guide for NgRx with Angular 16!](https://dev.to/codecraftjs/step-by-step-guide-for-ngrx-with-angular-16-30jd)
 <!-- BLOG-POST-LIST:END -->
 
