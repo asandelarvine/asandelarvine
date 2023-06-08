@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Project Mongodb database Connect | Angular Website Project | Angular App](https://dev.to/softwaretechit/angular-project-mongodb-database-connect-angular-website-project-angular-app-49o4)
-- [Top Security Vulnerabilities in React Applications](https://dev.to/scofieldidehen/top-security-vulnerabilities-in-react-applications-ogc)
-- [The Art of Managing Unfinished Tests: To Skip or To Soft Fail? 🏃‍♂️🧪](https://dev.to/ranggakd/the-art-of-managing-unfinished-tests-to-skip-or-to-soft-fail-2bb4)
-- [Beyond Resume Building: 5 Surprising Benefits of Contributing to Open Source](https://dev.to/quine/beyond-resume-building-5-surprising-benefits-of-contributing-to-open-source-45m2)
+- [Finding Harmony in Marketing and UX](https://dev.to/contenda/finding-harmony-in-marketing-and-ux-4em7)
+- [Learning Rust 🦀: 03- The basics: Functions](https://dev.to/fadygrab/learning-rust-03-the-basics-functions-4d92)
+- [BatFetch](https://dev.to/ashishkus/batfetch-23de)
+- [How to create 700+ SEO optimised pages for website in 1 h using Next.JS, OpenAI, Postgres](https://dev.to/shnai0/how-to-create-700-seo-optimised-pages-for-website-in-1-h-using-nextjs-openai-postgres-2108)
 <!-- BLOG-POST-LIST:END -->
 
