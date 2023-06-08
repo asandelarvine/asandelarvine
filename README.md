@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a cdn library based on react](https://dev.to/malikwhitten67/i-made-a-cdn-library-based-on-react-498l)
+- [Build a Blog Website with Reactjs and Hygraph CMS](https://dev.to/mwendwabundi/build-a-blog-website-with-reactjs-and-hygraph-cms-5ggn)
 - [Tokenization in JavaScript](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
 - [10 Algorithms Every Developer Should Learn](https://dev.to/durgesh4993/10-algorithms-every-developer-should-learn-20ce)
-- [React useCallback](https://dev.to/alakkadshaw/react-usecallback-2pm0)
+- [do{}while&lpar;&rpar;_c++;](https://dev.to/yaxyotojiboyev/dowhilec-3lm9)
 <!-- BLOG-POST-LIST:END -->
 
