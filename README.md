@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Engineering Mistakes That Kill Startups](https://dev.to/_michaellin/3-engineering-mistakes-that-kill-startups-3fm3)
+- [C# Async/Await Interview Questions And Answers](https://dev.to/bytehide/c-asyncawait-interview-questions-and-answers-f7l)
+- [10 Free Image Tools Every Frontend Developer Needs](https://dev.to/joywinter90/10-free-image-tools-every-frontend-developer-needs-1j20)
 - [Step-By-Step Guide for NgRx with Angular 16!](https://dev.to/codecraftjs/step-by-step-guide-for-ngrx-with-angular-16-30jd)
-- [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/lalami/best-7-open-source-projects-built-with-nodejs-reactjs-2hdo)
-- [Dependency injection in action filters in ASP.NET Core](https://dev.to/ifourtechnolab/dependency-injection-in-action-filters-in-aspnet-core-2khj)
-- [AWS Community Builders Program-All you need to know!!🌻](https://dev.to/aws-builders/aws-community-builders-program-all-you-need-to-know-4j7k)
 <!-- BLOG-POST-LIST:END -->
 
