@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
+- [What Features Would You Want in a Smart Home of the Future?](https://dev.to/codenewbieteam/what-features-would-you-want-in-a-smart-home-of-the-future-1e2b)
+- [Fictional Tech Made Real: Your Choice? Why?](https://dev.to/devteam/fictional-tech-made-real-your-choice-why-lea)
 - [Number Systems. Network Layer. IPv4 subnetting. ICMP](https://dev.to/mutasim77/number-systems-network-layer-ipv4-subnetting-icmp-400d)
-- [Chinese miniapp architecture](https://dev.to/132/chinese-miniapp-architecture-3mg)
-- [How to Create Contact Form using HTML and CSS](https://dev.to/cwrcode/how-to-create-contact-form-using-html-and-css-3jn2)
-- [Web Development Unleashed: A Hilarious Odyssey into the Future!](https://dev.to/bhavin9920/web-development-unleashed-a-hilarious-odyssey-into-the-future-1b93)
 <!-- BLOG-POST-LIST:END -->
 
