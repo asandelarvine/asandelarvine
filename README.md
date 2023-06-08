@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential git commands every developer should know](https://dev.to/wizdomtek/essential-git-commands-every-developer-should-know-1dhb)
+- [A Plain English Guide to Reverse-Engineering the Twitter Algorithm with LangChain, Activeloop, and DeepInfra](https://dev.to/mikeyoung44/a-plain-english-guide-to-reverse-engineering-the-twitter-algorithm-with-langchain-activeloop-and-deepinfra-47fh)
 - [Finding Harmony in Marketing and UX](https://dev.to/contenda/finding-harmony-in-marketing-and-ux-4em7)
-- [Learning Rust 🦀: 03- The basics: Functions](https://dev.to/fadygrab/learning-rust-03-the-basics-functions-4d92)
-- [BatFetch](https://dev.to/ashishkus/batfetch-23de)
-- [How to create 700+ SEO optimised pages for website in 1 h using Next.JS, OpenAI, Postgres](https://dev.to/shnai0/how-to-create-700-seo-optimised-pages-for-website-in-1-h-using-nextjs-openai-postgres-2108)
+- [💡 Where to Find Inspiration for Building Your Next App](https://dev.to/evergrowingdev/where-to-find-inspiration-for-building-your-next-app-p8k)
 <!-- BLOG-POST-LIST:END -->
 
