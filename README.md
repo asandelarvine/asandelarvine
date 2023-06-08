@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #52 - New Moonly Collection](https://dev.to/moonly/moonly-weekly-progress-update-52-new-moonly-collection-3mim)
 - [Leave Redux for a few moment and Try GX 😍😍](https://dev.to/dilane3/leave-redux-for-a-few-moment-and-try-gx-oo7)
 - [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [LEARN API AND ITS MOST POPULAR TYPE](https://dev.to/gaurbprajapati/learn-api-and-its-most-populat-type-3hnm)
-- [Essential git commands every developer should know](https://dev.to/wizdomtek/essential-git-commands-every-developer-should-know-1dhb)
 <!-- BLOG-POST-LIST:END -->
 
