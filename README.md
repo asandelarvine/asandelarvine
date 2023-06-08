@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial How To Exit Vim](https://dev.to/amorino/tutorial-how-to-exit-vim-51el)
-- [Just launched a collection of UI components and effects, crafted with React and Tailwind CSS](https://dev.to/ibelick/just-launched-a-collection-of-ui-components-and-effects-crafted-with-react-and-tailwind-css-3obj)
-- [TypeScript: Everything you need to know!](https://dev.to/ivangcode/typescript-everything-you-need-to-know-3l8l)
-- [APACHE AGE: Getting Started Part 3&lpar;AGE INSTALLATION VIA DOCKER&rpar;](https://dev.to/shadycj/apache-age-getting-started-part-3age-installation-via-docker-2lig)
+- [Tokenization in JavaScript](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
+- [10 Algorithms Every Developer Should Learn](https://dev.to/durgesh4993/10-algorithms-every-developer-should-learn-20ce)
+- [React useCallback](https://dev.to/alakkadshaw/react-usecallback-2pm0)
+- [All 7 ways to deal with CSS most never tried](https://dev.to/johnrushx/all-7-ways-to-deal-with-css-most-never-tried-27go)
 <!-- BLOG-POST-LIST:END -->
 
