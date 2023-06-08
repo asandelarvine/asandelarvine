@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridging the Gap: Leveraging Secret Store CSI Drivers to Access Secrets from Google Secret Manager in GKE Cluster](https://dev.to/sunnybhambhani/bridging-the-gap-leveraging-secret-store-csi-drivers-to-access-secrets-from-google-secret-manager-in-gke-cluster-po7)
+- [The Rise of Headless CMS: Decoupling Content Management from Presentation 🚀🔥](https://dev.to/arjuncodess/the-rise-of-headless-cms-decoupling-content-management-from-presentation-256n)
+- [Essential Web Development Checklist: Your Guide to Starting Your Web Development Journey](https://dev.to/chanchals7/essential-web-development-checklist-your-guide-to-starting-your-web-development-journey-3k9e)
 - [Build a Blog Website with Reactjs and Hygraph CMS](https://dev.to/mwendwabundi/build-a-blog-website-with-reactjs-and-hygraph-cms-5ggn)
-- [Tokenization in JavaScript](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
-- [10 Algorithms Every Developer Should Learn](https://dev.to/durgesh4993/10-algorithms-every-developer-should-learn-20ce)
-- [do{}while&lpar;&rpar;_c++;](https://dev.to/yaxyotojiboyev/dowhilec-3lm9)
 <!-- BLOG-POST-LIST:END -->
 
