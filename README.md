@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo construir tu propia data platform. From zero to hero.](https://dev.to/adevintaspain/como-construir-tu-propia-data-platform-from-zero-to-hero-96c)
-- [50 ChatGPT Prompts for Web Developers](https://dev.to/mursalfk/50-chatgpt-prompts-for-web-developers-2oeh)
-- [Deploying a Rails App with MRSK on Hetzner: A Beginner&#39;s Guide](https://dev.to/adrienpoly/deploying-a-rails-app-with-mrsk-on-hetzner-a-beginners-guide-39kp)
-- [What&#39;s in Ruby class Array](https://dev.to/burdettelamar/whats-in-ruby-class-array-onl)
+- [Every once in a while, I&#39;ll find a solution to a problem, and think to myself...](https://dev.to/ben/every-once-in-a-while-ill-find-a-solution-to-a-problem-and-think-to-myself-4d1h)
+- [How to Fix Connection Errors While Connecting to RDS &lpar;Postgres&rpar; Database Remotely on AWS Using 3 Effective Methods.](https://dev.to/alicxc/how-to-fix-connection-errors-while-connecting-to-rds-postgres-database-remotely-on-aws-using-3-effective-methods-2epn)
+- [Decoding Duolingo: Returning to the Office, Enabling First-Time Managers &amp; More](https://dev.to/linearb/decoding-duolingo-returning-to-the-office-enabling-first-time-managers-more-9ho)
+- [Single-Digit Spotlight v3](https://dev.to/codenewbieteam/single-digit-spotlight-v3-4o3g)
 <!-- BLOG-POST-LIST:END -->
 
