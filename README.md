@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase Beta May 2023](https://dev.to/supabase/supabase-beta-may-2023-4fol)
+- [Supercharge Your API Testing with Hoppscotch!](https://dev.to/hoppscotch/supercharge-your-api-testing-with-hoppscotch-3okd)
 - [What was your win this week?](https://dev.to/mitchiemt11/what-was-your-win-this-week-3cp5)
 - [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
-- [Top Timesheet App for the Field and Trade Business](https://dev.to/surajgupta1231/top-timesheet-app-for-the-field-and-trade-business-553c)
-- [What are Reverse-API Gateways?](https://dev.to/convoy/what-are-reverse-api-gateways-13gd)
 <!-- BLOG-POST-LIST:END -->
 
