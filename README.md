@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Cómo construir tu propia data platform. From zero to hero.](https://dev.to/adevintaspain/como-construir-tu-propia-data-platform-from-zero-to-hero-96c)
+- [50 ChatGPT Prompts for Web Developers](https://dev.to/mursalfk/50-chatgpt-prompts-for-web-developers-2oeh)
+- [Deploying a Rails App with MRSK on Hetzner: A Beginner&#39;s Guide](https://dev.to/adrienpoly/deploying-a-rails-app-with-mrsk-on-hetzner-a-beginners-guide-39kp)
 - [What&#39;s in Ruby class Array](https://dev.to/burdettelamar/whats-in-ruby-class-array-onl)
-- [20 databases to pick in 2023 - simplified](https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n)
-- [#DEVDiscuss: WWDC 2023](https://dev.to/devteam/devdiscuss-wwdc-2023-35b6)
 <!-- BLOG-POST-LIST:END -->
 
