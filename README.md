@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Custom File Validation in React Dropzone](https://dev.to/derick1530/how-to-implement-custom-file-validation-in-react-dropzone-33le)
+- [Must predictable state changes come at a high cost?](https://dev.to/licg9999/must-predictable-state-changes-come-at-a-high-cost-6cc)
+- [RxJS: Advanced challenge to build a reactive split-flap display](https://dev.to/maxime1992/rxjs-advanced-challenge-to-build-a-reactive-split-flap-display-1ej)
 - [Migrating from Cypress to Playwright](https://dev.to/lucgagan/migrating-from-cypress-to-playwright-pn0)
-- [Harnessing Generic Relationships in Django](https://dev.to/3bdelrahman/harnessing-generic-relationships-in-django-191p)
-- [Rust 101: Write, Build, and Debug Your First Program](https://dev.to/philipjohnbasile/rust-101-write-build-and-debug-your-first-program-42o9)
-- [Developer productivity with Github Codespaces](https://dev.to/jonoyeong/developer-productivity-with-github-codespaces-jpb)
 <!-- BLOG-POST-LIST:END -->
 
