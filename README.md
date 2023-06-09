@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Reverse-API Gateways?](https://dev.to/convoy/what-are-reverse-api-gateways-13gd)
+- [Build a reactive split-flap display with Angular](https://dev.to/maxime1992/build-a-reactive-split-flap-display-with-angular-kne)
+- [The most underrated search engine...](https://dev.to/savvasstephnds/the-most-underrated-search-engine-312d)
 - [GIT: rebase VS merge &lpar;simple&rpar;](https://dev.to/kristiyan_velkov/git-rebase-vs-merge-simple-2e7e)
-- [From the Shadows to the Spotlight : Unveiling the Untold History of Deep Learning](https://dev.to/akshayballal/from-the-shadows-to-the-spotlight-unveiling-the-untold-history-of-deep-learning-3koo)
-- [TDD vs BDD - A Detailed Guide](https://dev.to/refine/tdd-vs-bdd-a-detailed-guide-1f07)
-- [Sneat Open-source Vuejs 3 Admin Template Is Out Now...!!🤩](https://dev.to/theme_selection/sneat-open-source-vuejs-admin-template-is-out-now-877)
 <!-- BLOG-POST-LIST:END -->
 
