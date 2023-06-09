@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Beta May 2023](https://dev.to/supabase/supabase-beta-may-2023-4fol)
-- [Supercharge Your API Testing with Hoppscotch!](https://dev.to/hoppscotch/supercharge-your-api-testing-with-hoppscotch-3okd)
-- [What was your win this week?](https://dev.to/mitchiemt11/what-was-your-win-this-week-3cp5)
-- [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
+- [CQL Trace Viewer: Visualizing CQL Traces with Dash](https://dev.to/frosnerd/cql-trace-viewer-visualizing-cql-traces-with-dash-405a)
+- [How to Create a YouTube Android App Clone: Step-by-Step Guide](https://dev.to/dhruvjoshi9/how-to-create-a-youtube-android-app-clone-step-by-step-guide-3ec1)
+- [Who&#39;s looking for open source contributors? &lpar;week 45&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-45-44jo)
+- [Unleashing the Potential of Random Forest Regression : A Python Implementation Guide with Hyperparameter Tuning.](https://dev.to/newbie_coder/unleashing-the-potential-of-random-forest-regression-a-python-implementation-guide-with-hyperparameter-tuning-167o)
 <!-- BLOG-POST-LIST:END -->
 
