@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReductStore v1.4.0 in Rust has been released](https://dev.to/reductstore/reductstore-v140-in-rust-has-been-released-3133)
-- [Simple FriendList App In Pyhton Tkinter](https://dev.to/geeksvegeta/simple-friendlist-app-in-pyhton-tkinter-6k5)
-- [The DynamoDB-Toolbox v1 beta is here 🙌 All you need to know!](https://dev.to/kumo/the-dynamodb-toolbox-v1-beta-is-here-all-you-need-to-know-22op)
-- [Yet Another Newsletter LOL: RenderATL, RenderATL, RenderATL](https://dev.to/nickytonline/yet-another-newsletter-lol-renderatl-renderatl-renderatl-2nh3)
+- [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
+- [Testing in Django](https://dev.to/ifihan/testing-in-django-26e5)
+- [How to Build and Publish Your First React NPM Package](https://dev.to/femi_dev/how-to-build-and-publish-your-first-react-npm-package-24o3)
+- [Using Mongoose to connect NodeJS and MongoDB](https://dev.to/aryan_shourie/using-mongoose-to-connect-nodejs-and-mongodb-335h)
 <!-- BLOG-POST-LIST:END -->
 
