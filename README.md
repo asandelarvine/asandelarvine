@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
-- [Testing in Django](https://dev.to/ifihan/testing-in-django-26e5)
-- [How to Build and Publish Your First React NPM Package](https://dev.to/femi_dev/how-to-build-and-publish-your-first-react-npm-package-24o3)
-- [Using Mongoose to connect NodeJS and MongoDB](https://dev.to/aryan_shourie/using-mongoose-to-connect-nodejs-and-mongodb-335h)
+- [Cómo construir tu propia data platform. From zero to hero.](https://dev.to/adevintaspain/como-construir-tu-propia-data-platform-from-zero-to-hero-96c)
+- [What&#39;s in Ruby class Array](https://dev.to/burdettelamar/whats-in-ruby-class-array-onl)
+- [20 databases to pick in 2023 - simplified](https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n)
+- [#DEVDiscuss: WWDC 2023](https://dev.to/devteam/devdiscuss-wwdc-2023-35b6)
 <!-- BLOG-POST-LIST:END -->
 
