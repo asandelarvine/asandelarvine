@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Qnotly - VSCode Extension](https://dev.to/hady_eslam/qnotly-vscode-extension-1277)
+- [Awesome SQL Code Review Tools for Developers](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)
+- [My Experiences with Mobile Projects: React Native vs. Flutter](https://dev.to/rafaellevissa/my-experiences-with-mobile-projects-react-native-vs-flutter-o68)
 - [SQL, NoSql, and 5 DB types you&#39;ll never need](https://dev.to/johnrushx/sql-nosql-and-5-db-types-youll-never-need-3h85)
-- [Python Software Foundation: Working Groups / Work Groups / Workgroups](https://dev.to/dawnwages/python-software-foundation-working-groups-or-work-groups-or-workgroups-5g04)
-- [How to Center Contents Both Horizontally and Vertically on a Webpage Using Bootstrap, utilizing additional CSS properties](https://dev.to/msnmongare/how-to-center-contents-both-horizontally-and-vertically-on-a-webpage-using-bootstrap-utilizing-additional-css-properties-1a4n)
-- [Crimes usando IA avançam no mundo. Saiba como se proteger — Entrevista com Bendev Junior](https://dev.to/bendevoficial/crimes-usando-ia-avancam-no-mundo-saiba-como-se-proteger-entrevista-com-bendev-junior-3mle)
 <!-- BLOG-POST-LIST:END -->
 
