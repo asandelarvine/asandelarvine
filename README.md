@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing Generic Relationships in Django](https://dev.to/3bdelrahman/harnessing-generic-relationships-in-django-191p)
 - [Rust 101: Write, Build, and Debug Your First Program](https://dev.to/philipjohnbasile/rust-101-write-build-and-debug-your-first-program-42o9)
 - [Developer productivity with Github Codespaces](https://dev.to/jonoyeong/developer-productivity-with-github-codespaces-jpb)
 - [I built a todo app using 9 different languages](https://dev.to/johnrushx/i-built-a-todo-list-using-9-different-languages-51f7)
-- [Sharing Interaction Tests Between Vitest and Storybook](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
 <!-- BLOG-POST-LIST:END -->
 
