@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debug or Refactor? The Coding Dilemma!](https://dev.to/devteam/debug-or-refactor-the-coding-dilemma-2e2j)
-- [How Can You Build a Strong Personal Brand in a Competitive Job Market?](https://dev.to/codenewbieteam/how-can-you-build-a-strong-personal-brand-in-a-competitive-job-market-44pj)
-- [A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes](https://dev.to/apisix/a-comprehensive-guide-to-api-gateways-kubernetes-gateways-and-service-meshes-34d4)
-- [How to create a contract in Solidity?](https://dev.to/ifourtechnolab/how-to-create-a-contract-in-solidity-5gh)
+- [GIT: rebase VS merge &lpar;simple&rpar;](https://dev.to/kristiyan_velkov/git-rebase-vs-merge-simple-2e7e)
+- [From the Shadows to the Spotlight : Unveiling the Untold History of Deep Learning](https://dev.to/akshayballal/from-the-shadows-to-the-spotlight-unveiling-the-untold-history-of-deep-learning-3koo)
+- [TDD vs BDD - A Detailed Guide](https://dev.to/refine/tdd-vs-bdd-a-detailed-guide-1f07)
+- [Sneat Open-source Vuejs 3 Admin Template Is Out Now...!!🤩](https://dev.to/theme_selection/sneat-open-source-vuejs-admin-template-is-out-now-877)
 <!-- BLOG-POST-LIST:END -->
 
