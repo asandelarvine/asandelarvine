@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Custom File Validation in React Dropzone](https://dev.to/derick1530/how-to-implement-custom-file-validation-in-react-dropzone-33le)
-- [Must predictable state changes come at a high cost?](https://dev.to/licg9999/must-predictable-state-changes-come-at-a-high-cost-6cc)
-- [RxJS: Advanced challenge to build a reactive split-flap display](https://dev.to/maxime1992/rxjs-advanced-challenge-to-build-a-reactive-split-flap-display-1ej)
-- [Migrating from Cypress to Playwright](https://dev.to/lucgagan/migrating-from-cypress-to-playwright-pn0)
+- [Debug or Refactor? The Coding Dilemma!](https://dev.to/devteam/debug-or-refactor-the-coding-dilemma-2e2j)
+- [How Can You Build a Strong Personal Brand in a Competitive Job Market?](https://dev.to/codenewbieteam/how-can-you-build-a-strong-personal-brand-in-a-competitive-job-market-44pj)
+- [A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes](https://dev.to/apisix/a-comprehensive-guide-to-api-gateways-kubernetes-gateways-and-service-meshes-34d4)
+- [How to create a contract in Solidity?](https://dev.to/ifourtechnolab/how-to-create-a-contract-in-solidity-5gh)
 <!-- BLOG-POST-LIST:END -->
 
