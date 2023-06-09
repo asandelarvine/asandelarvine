@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Show the name of the app you&#39;re in on stream &lpar;tutorial&rpar;](https://dev.to/thejaredwilcurt/show-the-name-of-the-app-youre-in-on-stream-tutorial-3mgb)
-- [ESP32 Embedded Rust at the HAL: SPI Communication](https://dev.to/apollolabsbin/esp32-embedded-rust-at-the-hal-spi-communication-30a4)
-- [Qnotly - VSCode Extension](https://dev.to/hady_eslam/qnotly-vscode-extension-1277)
-- [Awesome SQL Code Review Tools for Developers](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)
+- [ReductStore v1.4.0 in Rust has been released](https://dev.to/reductstore/reductstore-v140-in-rust-has-been-released-3133)
+- [Simple FriendList App In Pyhton Tkinter](https://dev.to/geeksvegeta/simple-friendlist-app-in-pyhton-tkinter-6k5)
+- [The DynamoDB-Toolbox v1 beta is here 🙌 All you need to know!](https://dev.to/kumo/the-dynamodb-toolbox-v1-beta-is-here-all-you-need-to-know-22op)
+- [Yet Another Newsletter LOL: RenderATL, RenderATL, RenderATL](https://dev.to/nickytonline/yet-another-newsletter-lol-renderatl-renderatl-renderatl-2nh3)
 <!-- BLOG-POST-LIST:END -->
 
