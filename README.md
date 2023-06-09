@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/mitchiemt11/what-was-your-win-this-week-3cp5)
+- [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
+- [Top Timesheet App for the Field and Trade Business](https://dev.to/surajgupta1231/top-timesheet-app-for-the-field-and-trade-business-553c)
 - [What are Reverse-API Gateways?](https://dev.to/convoy/what-are-reverse-api-gateways-13gd)
-- [Build a reactive split-flap display with Angular](https://dev.to/maxime1992/build-a-reactive-split-flap-display-with-angular-kne)
-- [The most underrated search engine...](https://dev.to/savvasstephnds/the-most-underrated-search-engine-312d)
-- [GIT: rebase VS merge &lpar;simple&rpar;](https://dev.to/kristiyan_velkov/git-rebase-vs-merge-simple-2e7e)
 <!-- BLOG-POST-LIST:END -->
 
