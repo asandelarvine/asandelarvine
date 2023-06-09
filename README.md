@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Show the name of the app you&#39;re in on stream &lpar;tutorial&rpar;](https://dev.to/thejaredwilcurt/show-the-name-of-the-app-youre-in-on-stream-tutorial-3mgb)
+- [ESP32 Embedded Rust at the HAL: SPI Communication](https://dev.to/apollolabsbin/esp32-embedded-rust-at-the-hal-spi-communication-30a4)
 - [Qnotly - VSCode Extension](https://dev.to/hady_eslam/qnotly-vscode-extension-1277)
 - [Awesome SQL Code Review Tools for Developers](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)
-- [My Experiences with Mobile Projects: React Native vs. Flutter](https://dev.to/rafaellevissa/my-experiences-with-mobile-projects-react-native-vs-flutter-o68)
-- [SQL, NoSql, and 5 DB types you&#39;ll never need](https://dev.to/johnrushx/sql-nosql-and-5-db-types-youll-never-need-3h85)
 <!-- BLOG-POST-LIST:END -->
 
