@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Center Contents Both Horizontally and Vertically on a Webpage Using Bootstrap, utilizing additional CSS properties](https://dev.to/msnmongare/how-to-center-contents-both-horizontally-and-vertically-on-a-webpage-using-bootstrap-utilizing-additional-css-properties-1a4n)
+- [Asked ChatGPT and other models to write a simple script](https://dev.to/zakharsmirnoff/asked-chatgpt-and-other-models-to-write-a-simple-script-3kjf)
 - [CQL Trace Viewer: Visualizing CQL Traces with Dash](https://dev.to/frosnerd/cql-trace-viewer-visualizing-cql-traces-with-dash-405a)
 - [How to Create a YouTube Android App Clone: Step-by-Step Guide](https://dev.to/dhruvjoshi9/how-to-create-a-youtube-android-app-clone-step-by-step-guide-3ec1)
-- [Who&#39;s looking for open source contributors? &lpar;week 45&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-45-44jo)
-- [Unleashing the Potential of Random Forest Regression : A Python Implementation Guide with Hyperparameter Tuning.](https://dev.to/newbie_coder/unleashing-the-potential-of-random-forest-regression-a-python-implementation-guide-with-hyperparameter-tuning-167o)
 <!-- BLOG-POST-LIST:END -->
 
