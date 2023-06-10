@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create a GitHub Portfolio](https://dev.to/sbenhoff/how-to-create-a-github-portfolio-35d8)
-- [The Power of Design Systems: Streamlining UI Development with Figma and React](https://dev.to/salmandotweb/the-power-of-design-systems-streamlining-ui-development-with-figma-and-react-16c4)
-- [A little about the Scala Language](https://dev.to/pedrohgoncalves/a-little-about-the-scala-language-5cm0)
-- [5 simple Backend Tools for your website](https://dev.to/mddanishyusuf/5-simple-backend-tools-for-your-website-oco)
+- [My Journey with the Ethereum Writing Cohort](https://dev.to/adetutu777/my-journey-with-the-ethereum-writing-cohort-5gok)
+- [Is it ethical to develop this?](https://dev.to/leonorader/is-it-ethical-to-develop-this-6c5)
+- [Threads Clear Concept](https://dev.to/devopmega/threads-clear-concept-41el)
+- [SQS Re-Drive with Golang and Step Functions](https://dev.to/aws-builders/sqs-re-drive-with-golang-and-step-functions-5902)
 <!-- BLOG-POST-LIST:END -->
 
