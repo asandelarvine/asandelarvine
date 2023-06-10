@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Restaurant-Responsive-Website](https://dev.to/gururaj-math/restaurant-responsive-website-1bd)
-- [A-Z: Git Cheat Sheet](https://dev.to/burakboduroglu/a-z-git-cheat-sheet-14pm)
-- [I&#39;m developing a new server state management library.](https://dev.to/jason89521/im-developing-a-new-server-state-management-library-3nhk)
-- [Top 20 Artificial Intelligence Tools &lpar;AI Tools List&rpar; In the Market – 2023 Like ChatGPT](https://dev.to/softwaretechit/top-20-artificial-intelligence-tools-ai-tools-list-in-the-market-2023-like-chatgpt-lki)
+- [Chat GPT vs Google Bard. Which is Best for Developers?](https://dev.to/dhruvjoshi9/chat-gpt-vs-google-bard-which-is-best-for-developers-389m)
+- [Manipulating Children dynamically in React](https://dev.to/srishtikprasad/manipulating-children-dynamically-in-react-15l4)
+- [Streamline Your Development Environment Setup on ChromeOS and Linux](https://dev.to/tsirysndr/streamline-your-development-environment-setup-on-chromeos-and-linux-1jdl)
+- [Creating Multilingual Chatbots with Power Virtual Agents: 3 Workarounds to Get Started](https://dev.to/thecognitiveservicesninja/creating-multilingual-chatbots-with-power-virtual-agents-3-workarounds-to-get-started-4fap)
 <!-- BLOG-POST-LIST:END -->
 
