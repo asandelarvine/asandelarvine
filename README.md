@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EXTREMELY SIMPLE &amp; LOGICAL JAVA SOLUTION BEATS 85% IN RUNTIME](https://dev.to/verisimilitudex/extremely-simple-logical-java-solution-beats-85-in-runtime-23ba)
+- [Interesting JavaScript Features from a Ruby Perspective](https://dev.to/samuelodan/interesting-javascript-features-from-a-ruby-perspective-k2e)
 - [From Novice to Ninja: Your Ultimate Guide to Mastering Flutter](https://dev.to/yatendra2001/from-novice-to-ninja-your-ultimate-guide-to-mastering-flutter-51f3)
 - [How does environment check work in Ruby on Rails?](https://dev.to/rubycademy/how-does-environment-check-work-in-ruby-on-rails-948)
-- [My Journey with the Ethereum Writing Cohort](https://dev.to/adetutu777/my-journey-with-the-ethereum-writing-cohort-5gok)
-- [Is it ethical to develop this?](https://dev.to/leonorader/is-it-ethical-to-develop-this-6c5)
 <!-- BLOG-POST-LIST:END -->
 
