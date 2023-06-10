@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Validations in the IOptions Pattern for .NET Developers](https://dev.to/ahmedshahjr/a-guide-to-validations-in-the-ioptions-pattern-for-net-developers-3cg6)
 - [Developerscope Empowering the Tech World](https://dev.to/berto6544collab/developerscope-empowering-the-tech-world-4898)
 - [Getting Started with BootstrapVue](https://dev.to/smartduke/getting-started-with-bootstrapvue-31hd)
-- [How Do You Balance Speed &amp; Quality When Delivering Code?](https://dev.to/devteam/how-do-you-balance-speed-quality-when-delivering-code-19co)
 - [What&#39;s Your Fave David Bowie Movie? 👨‍🎤🎥](https://dev.to/codenewbieteam/whats-your-fave-david-bowie-movie-d7n)
 <!-- BLOG-POST-LIST:END -->
 
