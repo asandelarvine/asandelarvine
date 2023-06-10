@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Classes in TypeScript: With Challenges](https://dev.to/bobbyhalljr/classes-in-typescript-with-challenges-35jh)
 - [6 Must-Try Coding Problem Websites 💻](https://dev.to/jd2r/6-must-try-coding-problem-websites-53c0)
+- [Understanding Functions in TypeScript: With Challenges](https://dev.to/bobbyhalljr/understanding-functions-in-typescript-with-challenges-64k)
 - [TypeScript Decorators: A complete guide](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
-- [How did you get interested in software development?](https://dev.to/dinerdas/how-did-you-get-interested-in-software-development-402g)
-- [Creating a Custom Curved Navigation Bar in Flutter](https://dev.to/blackcoda/creating-a-custom-curved-navigation-bar-in-flutter-29e5)
 <!-- BLOG-POST-LIST:END -->
 
