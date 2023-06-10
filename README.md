@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Role of Machine Learning in Personalizing Web Experiences 🚀🔥](https://dev.to/arjuncodess/the-role-of-machine-learning-in-personalizing-web-experiences-2o85)
 - [Chat GPT vs Google Bard. Which is Best for Developers?](https://dev.to/dhruvjoshi9/chat-gpt-vs-google-bard-which-is-best-for-developers-389m)
+- [Create an npm package template with TypeScript and tsup](https://dev.to/0xkoji/create-a-npm-package-template-with-typescript-and-tsup-328n)
 - [Manipulating Children dynamically in React](https://dev.to/srishtikprasad/manipulating-children-dynamically-in-react-15l4)
-- [Streamline Your Development Environment Setup on ChromeOS and Linux](https://dev.to/tsirysndr/streamline-your-development-environment-setup-on-chromeos-and-linux-1jdl)
-- [Creating Multilingual Chatbots with Power Virtual Agents: 3 Workarounds to Get Started](https://dev.to/thecognitiveservicesninja/creating-multilingual-chatbots-with-power-virtual-agents-3-workarounds-to-get-started-4fap)
 <!-- BLOG-POST-LIST:END -->
 
