@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Keywords Every Ethereum Enthusiast Must Know](https://dev.to/sahil_4555/essential-keywords-every-ethereum-enthusiast-must-know-4600)
+- [Reflecting on Progress and Redefining Goals](https://dev.to/bekahhw/reflecting-on-progress-and-redefining-goals-2oo9)
 - [The Role of Machine Learning in Personalizing Web Experiences 🚀🔥](https://dev.to/arjuncodess/the-role-of-machine-learning-in-personalizing-web-experiences-2o85)
-- [Chat GPT vs Google Bard. Which is Best for Developers?](https://dev.to/dhruvjoshi9/chat-gpt-vs-google-bard-which-is-best-for-developers-389m)
-- [Create an npm package template with TypeScript and tsup](https://dev.to/0xkoji/create-a-npm-package-template-with-typescript-and-tsup-328n)
-- [Manipulating Children dynamically in React](https://dev.to/srishtikprasad/manipulating-children-dynamically-in-react-15l4)
+- [A small side project, Workflows.md](https://dev.to/kurealnum/a-small-side-project-workflowsmd-g8f)
 <!-- BLOG-POST-LIST:END -->
 
