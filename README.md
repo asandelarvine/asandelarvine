@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to used Component in Laravel](https://dev.to/hareom284/how-to-used-component-in-laravel-1pmn)
 - [Getting Started with Building and Publishing a React Component as a Package](https://dev.to/scofieldidehen/getting-started-with-building-and-publishing-a-react-component-as-a-package-3fga)
 - [Modern Recipe URL to 🍬 Sugar Level Estimation Web App From Scratch](https://dev.to/ziqinyeow/modern-recipe-url-to-sugar-level-estimation-web-app-from-scratch-4jed)
 - [Create Video Programmatically](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
-- [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-367h)
 <!-- BLOG-POST-LIST:END -->
 
