@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Video Programmatically](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
 - [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-367h)
 - [Why cross-platform apps looking to scale should use RPC &lpar;over plain old IPC and instead of REST&rpar;](https://dev.to/cleancodestudio/ipc-inter-process-communication-vs-rpc-remote-procedure-call-44k0)
 - [Database cluster, Databases and Tables](https://dev.to/aadilbashir489/database-cluster-databases-and-tables-1l1l)
-- [Every once in a while, I&#39;ll find a solution to a problem, and think to myself...](https://dev.to/ben/every-once-in-a-while-ill-find-a-solution-to-a-problem-and-think-to-myself-4d1h)
 <!-- BLOG-POST-LIST:END -->
 
