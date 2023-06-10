@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Validations in the IOptions Pattern for .NET Developers](https://dev.to/ahmedshahjr/a-guide-to-validations-in-the-ioptions-pattern-for-net-developers-3cg6)
-- [Developerscope Empowering the Tech World](https://dev.to/berto6544collab/developerscope-empowering-the-tech-world-4898)
-- [Getting Started with BootstrapVue](https://dev.to/smartduke/getting-started-with-bootstrapvue-31hd)
-- [What&#39;s Your Fave David Bowie Movie? 👨‍🎤🎥](https://dev.to/codenewbieteam/whats-your-fave-david-bowie-movie-d7n)
+- [decimal to binary converter and binary to decimal conversion app using flutter](https://dev.to/realnamehidden1_61/decimal-to-binary-converter-and-binary-to-decimal-conversion-app-using-flutter-1lj0)
+- [Top 20 Artificial Intelligence Tools &lpar;AI Tools List&rpar; In the Market – 2023 Like ChatGPT](https://dev.to/softwaretechit/top-20-artificial-intelligence-tools-ai-tools-list-in-the-market-2023-like-chatgpt-lki)
+- [Query Real-time Data With GraphQL And Streaming Database](https://dev.to/bobur/query-real-time-data-with-graphql-and-streaming-database-2efl)
+- [How to Create a Custom useFetch Hook in React](https://dev.to/adetutu/how-to-create-a-custom-usefetch-hook-in-react-4p7)
 <!-- BLOG-POST-LIST:END -->
 
