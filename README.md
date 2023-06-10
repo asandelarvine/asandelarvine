@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Keywords Every Ethereum Enthusiast Must Know](https://dev.to/sahil_4555/essential-keywords-every-ethereum-enthusiast-must-know-4600)
-- [Reflecting on Progress and Redefining Goals](https://dev.to/bekahhw/reflecting-on-progress-and-redefining-goals-2oo9)
-- [The Role of Machine Learning in Personalizing Web Experiences 🚀🔥](https://dev.to/arjuncodess/the-role-of-machine-learning-in-personalizing-web-experiences-2o85)
-- [A small side project, Workflows.md](https://dev.to/kurealnum/a-small-side-project-workflowsmd-g8f)
+- [6 Must-Try Coding Problem Websites 💻](https://dev.to/jd2r/6-must-try-coding-problem-websites-53c0)
+- [TypeScript Decorators: A complete guide](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
+- [How did you get interested in software development?](https://dev.to/dinerdas/how-did-you-get-interested-in-software-development-402g)
+- [Creating a Custom Curved Navigation Bar in Flutter](https://dev.to/blackcoda/creating-a-custom-curved-navigation-bar-in-flutter-29e5)
 <!-- BLOG-POST-LIST:END -->
 
