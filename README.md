@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [decimal to binary converter and binary to decimal conversion app using flutter](https://dev.to/realnamehidden1_61/decimal-to-binary-converter-and-binary-to-decimal-conversion-app-using-flutter-1lj0)
+- [Restaurant-Responsive-Website](https://dev.to/gururaj-math/restaurant-responsive-website-1bd)
+- [A-Z: Git Cheat Sheet](https://dev.to/burakboduroglu/a-z-git-cheat-sheet-14pm)
+- [I&#39;m developing a new server state management library.](https://dev.to/jason89521/im-developing-a-new-server-state-management-library-3nhk)
 - [Top 20 Artificial Intelligence Tools &lpar;AI Tools List&rpar; In the Market – 2023 Like ChatGPT](https://dev.to/softwaretechit/top-20-artificial-intelligence-tools-ai-tools-list-in-the-market-2023-like-chatgpt-lki)
-- [Query Real-time Data With GraphQL And Streaming Database](https://dev.to/bobur/query-real-time-data-with-graphql-and-streaming-database-2efl)
-- [How to Create a Custom useFetch Hook in React](https://dev.to/adetutu/how-to-create-a-custom-usefetch-hook-in-react-4p7)
 <!-- BLOG-POST-LIST:END -->
 
