@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your Fave David Bowie Movie? 👨‍🎤🎥](https://dev.to/codenewbieteam/whats-your-fave-david-bowie-movie-d7n)
+- [Developerscope Empowering the Tech World](https://dev.to/berto6544collab/developerscope-empowering-the-tech-world-4898)
+- [Getting Started with BootstrapVue](https://dev.to/smartduke/getting-started-with-bootstrapvue-31hd)
 - [How Do You Balance Speed &amp; Quality When Delivering Code?](https://dev.to/devteam/how-do-you-balance-speed-quality-when-delivering-code-19co)
-- [How to used Component in Laravel](https://dev.to/hareom284/how-to-used-component-in-laravel-1pmn)
-- [How Linux Works: Chapter2 Process Management &lpar;Part2&rpar;](https://dev.to/satorutakeuchi/how-linux-works-chapter2-process-management-part2-5816)
+- [What&#39;s Your Fave David Bowie Movie? 👨‍🎤🎥](https://dev.to/codenewbieteam/whats-your-fave-david-bowie-movie-d7n)
 <!-- BLOG-POST-LIST:END -->
 
