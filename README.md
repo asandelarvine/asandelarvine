@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Classes in TypeScript: With Challenges](https://dev.to/bobbyhalljr/classes-in-typescript-with-challenges-35jh)
-- [6 Must-Try Coding Problem Websites 💻](https://dev.to/jd2r/6-must-try-coding-problem-websites-53c0)
-- [Understanding Functions in TypeScript: With Challenges](https://dev.to/bobbyhalljr/understanding-functions-in-typescript-with-challenges-64k)
-- [TypeScript Decorators: A complete guide](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
+- [How To Create a GitHub Portfolio](https://dev.to/sbenhoff/how-to-create-a-github-portfolio-35d8)
+- [The Power of Design Systems: Streamlining UI Development with Figma and React](https://dev.to/salmandotweb/the-power-of-design-systems-streamlining-ui-development-with-figma-and-react-16c4)
+- [A little about the Scala Language](https://dev.to/pedrohgoncalves/a-little-about-the-scala-language-5cm0)
+- [5 simple Backend Tools for your website](https://dev.to/mddanishyusuf/5-simple-backend-tools-for-your-website-oco)
 <!-- BLOG-POST-LIST:END -->
 
