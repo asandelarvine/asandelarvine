@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best way to Swapping in JavaScript](https://dev.to/muhmmadawd/best-way-to-swapping-in-javascript-ia3)
+- [JavaScript: Best way to remove duplicates in JS Array](https://dev.to/kristiyan_velkov/javascript-best-way-to-find-duplicates-in-js-array-and-remove-them-3me)
 - [Configure CORS for a Go backend](https://dev.to/godopetza/configure-cors-for-a-go-backend-40m0)
 - [Deploy Azure Infrastructure using Terraform Cloud](https://dev.to/this-is-learning/deploy-azure-infrastructure-using-terraform-cloud-3j9d)
-- [Dealing with Code Surprises: How Do You Handle Unexpected Results?](https://dev.to/devteam/dealing-with-code-surprises-how-do-you-handle-unexpected-results-4n0h)
-- [How Do You Show Your Coding Passion in Job App Materials?](https://dev.to/codenewbieteam/how-do-you-show-your-coding-passion-in-job-app-materials-1o7a)
 <!-- BLOG-POST-LIST:END -->
 
