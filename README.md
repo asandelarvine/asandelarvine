@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?](https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14)
 - [User Defined Functions in Apache AGE](https://dev.to/abdullahzia6464/user-defined-functions-in-apache-age-goo)
 - [Don&#39;t tell me how, tell me why!](https://dev.to/noriller/dont-tell-me-how-tell-me-why-5a4i)
 - [Forcing a device to disconnect from WiFi using a deauthentication attack](https://dev.to/brandonskerritt/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-4h11)
-- [Do anything with Arrays](https://dev.to/bmnidhin/all-about-arrays-2l48)
 <!-- BLOG-POST-LIST:END -->
 
