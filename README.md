@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [User Defined Functions in Apache AGE](https://dev.to/abdullahzia6464/user-defined-functions-in-apache-age-goo)
 - [Don&#39;t tell me how, tell me why!](https://dev.to/noriller/dont-tell-me-how-tell-me-why-5a4i)
 - [Forcing a device to disconnect from WiFi using a deauthentication attack](https://dev.to/brandonskerritt/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-4h11)
-- [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
-- [Manipuler les tableaux en Javascript](https://dev.to/kureru/manipuler-les-tableaux-en-javascript-20nb)
+- [Do anything with Arrays](https://dev.to/bmnidhin/all-about-arrays-2l48)
 <!-- BLOG-POST-LIST:END -->
 
