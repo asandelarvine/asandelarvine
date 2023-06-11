@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
 - [Manipuler les tableaux en Javascript](https://dev.to/kureru/manipuler-les-tableaux-en-javascript-20nb)
+- [Building Real-Time Applications with Remix.js Server-Sent Events and Job Queues](https://dev.to/franciscomendes10866/building-real-time-applications-with-remixjs-server-sent-events-and-job-queues-315f)
 - [Embed &quot;GITHUB DISCUSSION&quot; Anywhere !](https://dev.to/coderatul/embed-github-discussion-anywhere--56ih)
-- [Architects Delight: Enforcing Layers and Project Boundaries with Nx](https://dev.to/this-is-learning/architects-delight-enforcing-layers-and-project-boundaries-with-nx-2d8o)
 <!-- BLOG-POST-LIST:END -->
 
