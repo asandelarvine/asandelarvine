@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Rules for Leading Dev Teams in Tough Economic Times](https://dev.to/linearb/4-rules-for-leading-dev-teams-in-tough-economic-times-fd9)
 - [React States &amp; Virtual DOM](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
 - [Build Currency Converter CLI App - Node + Frankfurter](https://dev.to/bekbrace/building-a-currency-converter-cli-app-a-step-by-step-guide-3hko)
 - [How to Deploy LangChain App 🐦🔗 as an API](https://dev.to/akshayballal/how-to-deploy-langchain-as-an-api-48mj)
-- [🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?](https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14)
 <!-- BLOG-POST-LIST:END -->
 
