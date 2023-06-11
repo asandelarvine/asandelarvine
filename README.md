@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explain Dynamic Programming and Other Techniques with Examples](https://dev.to/aradwan20/explain-dynamic-programming-and-other-techniques-with-examples-505p)
 - [I built 3 Apps using Spotify API and Python](https://dev.to/yogeshwaran01/i-built-3-apps-using-spotify-api-and-python-49k8)
-- [How to test your app using Docker Containers and Postman](https://dev.to/francescoxx/how-to-test-your-app-using-docker-containers-and-postman-3j04)
-- [vim editor shortcuts](https://dev.to/irishgeoff11/vim-editor-shortcuts-57p8)
-- [Download HTML as a PDF in React](https://dev.to/mohammadfaisal/download-html-as-a-pdf-in-react-4g7a)
+- [Generating a GPG key to your GitHub](https://dev.to/spiffyeight77/generating-a-gpg-key-to-your-github-43nn)
+- [Introducing React Server Model &lpar;RSM&rpar; - The Design Philosophy](https://dev.to/jason89521/introducing-react-server-model-rsm-the-design-philosophy-18o3)
 <!-- BLOG-POST-LIST:END -->
 
