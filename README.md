@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Architects Delight: Enforcing Layers and Project Boundaries with Nx](https://dev.to/this-is-learning/architects-delight-enforcing-layers-and-project-boundaries-with-nx-2d8o)
 - [Explain Dynamic Programming and Other Techniques with Examples](https://dev.to/aradwan20/explain-dynamic-programming-and-other-techniques-with-examples-505p)
 - [I built 3 Apps using Spotify API and Python](https://dev.to/yogeshwaran01/i-built-3-apps-using-spotify-api-and-python-49k8)
 - [Generating a GPG key to your GitHub](https://dev.to/spiffyeight77/generating-a-gpg-key-to-your-github-43nn)
-- [Introducing React Server Model &lpar;RSM&rpar; - The Design Philosophy](https://dev.to/jason89521/introducing-react-server-model-rsm-the-design-philosophy-18o3)
 <!-- BLOG-POST-LIST:END -->
 
