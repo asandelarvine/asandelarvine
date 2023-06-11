@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best way to Swapping in JavaScript](https://dev.to/muhmmadawd/best-way-to-swapping-in-javascript-ia3)
-- [JavaScript: Best way to remove duplicates in JS Array](https://dev.to/kristiyan_velkov/javascript-best-way-to-find-duplicates-in-js-array-and-remove-them-3me)
-- [Configure CORS for a Go backend](https://dev.to/godopetza/configure-cors-for-a-go-backend-40m0)
-- [Deploy Azure Infrastructure using Terraform Cloud](https://dev.to/this-is-learning/deploy-azure-infrastructure-using-terraform-cloud-3j9d)
+- [I built 3 Apps using Spotify API and Python](https://dev.to/yogeshwaran01/i-built-3-apps-using-spotify-api-and-python-49k8)
+- [How to test your app using Docker Containers and Postman](https://dev.to/francescoxx/how-to-test-your-app-using-docker-containers-and-postman-3j04)
+- [vim editor shortcuts](https://dev.to/irishgeoff11/vim-editor-shortcuts-57p8)
+- [Download HTML as a PDF in React](https://dev.to/mohammadfaisal/download-html-as-a-pdf-in-react-4g7a)
 <!-- BLOG-POST-LIST:END -->
 
