@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t tell me how, tell me why!](https://dev.to/noriller/dont-tell-me-how-tell-me-why-5a4i)
+- [Forcing a device to disconnect from WiFi using a deauthentication attack](https://dev.to/brandonskerritt/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-4h11)
 - [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
 - [Manipuler les tableaux en Javascript](https://dev.to/kureru/manipuler-les-tableaux-en-javascript-20nb)
-- [Building Real-Time Applications with Remix.js Server-Sent Events and Job Queues](https://dev.to/franciscomendes10866/building-real-time-applications-with-remixjs-server-sent-events-and-job-queues-315f)
-- [Embed &quot;GITHUB DISCUSSION&quot; Anywhere !](https://dev.to/coderatul/embed-github-discussion-anywhere--56ih)
 <!-- BLOG-POST-LIST:END -->
 
