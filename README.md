@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Show Your Coding Passion in Job App Materials?](https://dev.to/codenewbieteam/how-do-you-show-your-coding-passion-in-job-app-materials-1o7a)
+- [Deploy Azure Infrastructure using Terraform Cloud](https://dev.to/this-is-learning/deploy-azure-infrastructure-using-terraform-cloud-3j9d)
 - [Dealing with Code Surprises: How Do You Handle Unexpected Results?](https://dev.to/devteam/dealing-with-code-surprises-how-do-you-handle-unexpected-results-4n0h)
+- [How Do You Show Your Coding Passion in Job App Materials?](https://dev.to/codenewbieteam/how-do-you-show-your-coding-passion-in-job-app-materials-1o7a)
 - [7 Free Lifesaver Image Tools Every Frontend Developer Must Have In Their Arsenal 🛠️🚀](https://dev.to/ruppysuppy/7-free-lifesaver-image-tools-every-frontend-developer-must-have-in-their-arsenal-43n)
-- [Building a Scalable and Resilient Application with Kubernetes](https://dev.to/scofieldidehen/building-a-scalable-and-resilient-application-with-kubernetes-3178)
 <!-- BLOG-POST-LIST:END -->
 
