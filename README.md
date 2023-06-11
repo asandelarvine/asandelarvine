@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO Bruce Lee Style](https://dev.to/polterguy/seo-bruce-lee-style-4beb)
-- [How to Understand What Builds the Website You&#39;re Seeing](https://dev.to/yuya0114/how-to-understand-what-builds-the-website-youre-seeing-52pn)
-- [2733. LeetCode&#39;s Neither Minimum nor Maximum - JAVA SOLUTION BEATS 100% OF SOLUTIONS IN BOTH RUNTIME AND MEMORY](https://dev.to/verisimilitudex/2733-leetcodes-neither-minimum-nor-maximum-java-solution-beats-100-of-solutions-in-both-runtime-and-memory-23ga)
-- [How to Publish to NPM the Right Way](https://dev.to/apestein/how-to-publish-to-npm-the-right-way-2pd7)
+- [How Do You Show Your Coding Passion in Job App Materials?](https://dev.to/codenewbieteam/how-do-you-show-your-coding-passion-in-job-app-materials-1o7a)
+- [Dealing with Code Surprises: How Do You Handle Unexpected Results?](https://dev.to/devteam/dealing-with-code-surprises-how-do-you-handle-unexpected-results-4n0h)
+- [7 Free Lifesaver Image Tools Every Frontend Developer Must Have In Their Arsenal 🛠️🚀](https://dev.to/ruppysuppy/7-free-lifesaver-image-tools-every-frontend-developer-must-have-in-their-arsenal-43n)
+- [Building a Scalable and Resilient Application with Kubernetes](https://dev.to/scofieldidehen/building-a-scalable-and-resilient-application-with-kubernetes-3178)
 <!-- BLOG-POST-LIST:END -->
 
