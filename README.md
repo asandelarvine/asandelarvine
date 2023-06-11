@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Understand What Builds the Website You&#39;re Seeing](https://dev.to/yuya0114/how-to-understand-what-builds-the-website-youre-seeing-52pn)
 - [2733. LeetCode&#39;s Neither Minimum nor Maximum - JAVA SOLUTION BEATS 100% OF SOLUTIONS IN BOTH RUNTIME AND MEMORY](https://dev.to/verisimilitudex/2733-leetcodes-neither-minimum-nor-maximum-java-solution-beats-100-of-solutions-in-both-runtime-and-memory-23ga)
 - [How to Publish to NPM the Right Way](https://dev.to/apestein/how-to-publish-to-npm-the-right-way-2pd7)
 - [Building Web Applications We Can Trust - The Imperative of SRE](https://dev.to/blove/building-web-applications-we-can-trust-the-imperative-of-sre-3ohk)
-- [Enhancing Code Reviews with Conventional Comments](https://dev.to/tsotsi1/enhancing-code-reviews-with-conventional-comments-2j9i)
 <!-- BLOG-POST-LIST:END -->
 
