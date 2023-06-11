@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React States &amp; Virtual DOM](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
+- [Build Currency Converter CLI App - Node + Frankfurter](https://dev.to/bekbrace/building-a-currency-converter-cli-app-a-step-by-step-guide-3hko)
+- [How to Deploy LangChain App 🐦🔗 as an API](https://dev.to/akshayballal/how-to-deploy-langchain-as-an-api-48mj)
 - [🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?](https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14)
-- [User Defined Functions in Apache AGE](https://dev.to/abdullahzia6464/user-defined-functions-in-apache-age-goo)
-- [Don&#39;t tell me how, tell me why!](https://dev.to/noriller/dont-tell-me-how-tell-me-why-5a4i)
-- [Forcing a device to disconnect from WiFi using a deauthentication attack](https://dev.to/brandonskerritt/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-4h11)
 <!-- BLOG-POST-LIST:END -->
 
