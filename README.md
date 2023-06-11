@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Graph Data Modeling Best Practices: A Comprehensive Guide for Apache AgeDB](https://dev.to/abdulsamad4068/graph-data-modeling-best-practices-a-comprehensive-guide-for-apache-agedb-7hm)
+- [Learning Next.js Layout Creation: A Step-by-Step Guide](https://dev.to/lordsage/learning-nextjs-layout-creation-a-step-by-step-guide-579m)
 - [4 Rules for Leading Dev Teams in Tough Economic Times](https://dev.to/linearb/4-rules-for-leading-dev-teams-in-tough-economic-times-fd9)
 - [React States &amp; Virtual DOM](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
-- [Build Currency Converter CLI App - Node + Frankfurter](https://dev.to/bekbrace/building-a-currency-converter-cli-app-a-step-by-step-guide-3hko)
-- [How to Deploy LangChain App 🐦🔗 as an API](https://dev.to/akshayballal/how-to-deploy-langchain-as-an-api-48mj)
 <!-- BLOG-POST-LIST:END -->
 
