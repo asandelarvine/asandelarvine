@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly for 12 June 2023](https://dev.to/tspannhw/flank-stack-weekly-for-12-june-2023-506h)
-- [Comece hoje a estudar web development](https://dev.to/oderco/comece-hoje-a-estudar-688)
-- [How to Master Front-End Development with JavaScript 🚀](https://dev.to/codexam/how-to-master-front-end-development-with-javascript-na5)
-- [SSH Keys, GitHub..](https://dev.to/olacoder/ssh-keys-github-2bmd)
+- [random quote generator using flutter](https://dev.to/realnamehidden1_61/random-quote-generator-using-flutter-3e6c)
+- [Developers vs ChatGPT: How Developers Win the Game All the Time?](https://dev.to/dhruvjoshi9/developers-vs-chatgpt-how-developers-win-the-game-all-the-time-17in)
+- [Create Bubble Notify Head in React Native](https://dev.to/harrydoan/create-bubble-notify-head-in-react-native-nap)
+- [How To Install TLS/SSL on Docker Nginx Container With Let’s Encrypt](https://dev.to/macelux/how-to-install-tlsssl-on-docker-nginx-container-with-lets-encrypt-34c5)
 <!-- BLOG-POST-LIST:END -->
 
