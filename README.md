@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Harness the Power of Professional Web Development Services with React.js, Next.js, Nest.js, Express.js, and PostgreSQL](https://dev.to/ozair0/harness-the-power-of-professional-web-development-services-with-reactjs-nextjs-nestjs-expressjs-and-postgresql-5amk)
+- [Using CDK to deploy AWS managed Active Directory](https://dev.to/aws/using-cdk-to-deploy-aws-managed-active-directory-35ci)
+- [Meet Omkar DevTools: 🚀 Your Swiss Army Knife as a Ninja Developer ✨](https://dev.to/rajesh_singh_1989/meet-omkar-devtools-your-swiss-army-knife-as-a-ninja-developer-2ekb)
 - [Bandit Level 0 Level 1](https://dev.to/christianpaez/bandit-level-0-level-1-2cm7)
-- [Automated preview deployments from GitHub to AWS in 10 minutes](https://dev.to/crohr/automated-preview-deployments-from-github-to-aws-in-10-minutes-17k1)
-- [What are your goals for the week of June 12?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-12-561i)
-- [Just finished my first game!](https://dev.to/ajmikolaj/just-finished-my-first-game-54i1)
 <!-- BLOG-POST-LIST:END -->
 
