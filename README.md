@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Project Timelines Right: How Do You Estimate Accurately?](https://dev.to/devteam/getting-project-timelines-right-how-do-you-estimate-accurately-1ceh)
-- [How Can I Dive into a New Tech Specialty without a Formal Background?](https://dev.to/codenewbieteam/how-can-i-dive-into-a-new-tech-specialty-without-a-formal-background-1bf5)
-- [Top 10 Open Source ERP / CRM](https://dev.to/lalami/top-10-open-source-erp-crm-30nh)
-- [random quote generator using flutter](https://dev.to/realnamehidden1_61/random-quote-generator-using-flutter-3e6c)
+- [AWS open source newsletter, #160](https://dev.to/aws/aws-open-source-newsletter-160-227o)
+- [From Novice to Ninja: Fueling Enterprise Skillset with low-Code](https://dev.to/balagmadhu/from-novice-to-ninja-fueling-enterprise-skillset-with-low-code-40jm)
+- [Harnessing the Power of Machine Learning: Practical Applications in Software Development](https://dev.to/hackmamba/harnessing-the-power-of-machine-learning-practical-applications-in-software-development-3c2d)
+- [Vim for The VS Code User: Part 1 - Initial Setup](https://dev.to/aziznal/vim-for-the-vs-code-user-part-1-initial-setup-29la)
 <!-- BLOG-POST-LIST:END -->
 
