@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is ZenStack](https://dev.to/zenstack/what-is-zenstack-1mme)
+- [Awesome List of the Best Developer Tools](https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp)
+- [Array method CheatSheet](https://dev.to/brojenuel/array-method-cheatsheet-2e41)
 - [Intro to TypeScript](https://dev.to/janvierjr/intro-to-typescript-5dhi)
-- [How to create a Kubernetes Operator ?](https://dev.to/mxglt/how-to-create-a-kubernetes-operator--2g6h)
-- [10+ AWS services explained!](https://dev.to/abdulmuminyqn/10-aws-services-explained-2kj2)
-- [Comment créer un operator Kubernetes ?](https://dev.to/mxglt/comment-creer-un-operator-kubernetes--1h6f)
 <!-- BLOG-POST-LIST:END -->
 
