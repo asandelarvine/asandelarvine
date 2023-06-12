@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph Data Modeling Best Practices: A Comprehensive Guide for Apache AgeDB](https://dev.to/abdulsamad4068/graph-data-modeling-best-practices-a-comprehensive-guide-for-apache-agedb-7hm)
-- [Learning Next.js Layout Creation: A Step-by-Step Guide](https://dev.to/lordsage/learning-nextjs-layout-creation-a-step-by-step-guide-579m)
-- [4 Rules for Leading Dev Teams in Tough Economic Times](https://dev.to/linearb/4-rules-for-leading-dev-teams-in-tough-economic-times-fd9)
-- [React States &amp; Virtual DOM](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
+- [Comece hoje a estudar web development](https://dev.to/oderco/comece-hoje-a-estudar-688)
+- [How to Master Front-End Development with JavaScript 🚀](https://dev.to/codexam/how-to-master-front-end-development-with-javascript-na5)
+- [SSH Keys, GitHub..](https://dev.to/olacoder/ssh-keys-github-2bmd)
+- [Git vs. GitHub: Understanding the Key Differences](https://dev.to/vedantsp/git-vs-github-understanding-the-key-differences-o07)
 <!-- BLOG-POST-LIST:END -->
 
