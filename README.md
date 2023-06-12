@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Project Timelines Right: How Do You Estimate Accurately?](https://dev.to/devteam/getting-project-timelines-right-how-do-you-estimate-accurately-1ceh)
+- [How Can I Dive into a New Tech Specialty without a Formal Background?](https://dev.to/codenewbieteam/how-can-i-dive-into-a-new-tech-specialty-without-a-formal-background-1bf5)
 - [Top 10 Open Source ERP / CRM](https://dev.to/lalami/top-10-open-source-erp-crm-30nh)
 - [random quote generator using flutter](https://dev.to/realnamehidden1_61/random-quote-generator-using-flutter-3e6c)
-- [Developers vs ChatGPT: How Developers Win the Game All the Time?](https://dev.to/dhruvjoshi9/developers-vs-chatgpt-how-developers-win-the-game-all-the-time-17in)
-- [Create Bubble Notify Head in React Native](https://dev.to/harrydoan/create-bubble-notify-head-in-react-native-nap)
 <!-- BLOG-POST-LIST:END -->
 
