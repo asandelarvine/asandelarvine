@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK Stack Weekly for 12 June 2023](https://dev.to/tspannhw/flank-stack-weekly-for-12-june-2023-506h)
 - [Comece hoje a estudar web development](https://dev.to/oderco/comece-hoje-a-estudar-688)
 - [How to Master Front-End Development with JavaScript 🚀](https://dev.to/codexam/how-to-master-front-end-development-with-javascript-na5)
 - [SSH Keys, GitHub..](https://dev.to/olacoder/ssh-keys-github-2bmd)
-- [Git vs. GitHub: Understanding the Key Differences](https://dev.to/vedantsp/git-vs-github-understanding-the-key-differences-o07)
 <!-- BLOG-POST-LIST:END -->
 
