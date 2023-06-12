@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Roundup &lpar;Jun 05&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-05-hot-topics-in-workplace-sharepoint-and-powerplatform-1298)
-- [Acing the dbt &lpar;Data Build Tool&rpar; Interview](https://dev.to/grayhat/acing-the-dbt-data-build-tool-interview-22b7)
-- [20 &lpar;Easy&rpar; C# Interview Questions and Answers &lpar;2023&rpar;](https://dev.to/bytehide/20-easy-c-interview-questions-and-answers-2023-3nli)
-- [Understanding High Availability, Fault Tolerance, and Disaster Recovery in AWS: An Overview](https://dev.to/onlyoneerin/understanding-high-availability-fault-tolerance-and-disaster-recovery-in-aws-an-overview-2o4p)
+- [What is MQTT Protocol in IoT? Basics Explained](https://dev.to/marynaaaa_b/what-is-mqtt-protocol-in-iot-basics-explained-4h56)
+- [Create a desktop entry for postman in ubuntu](https://dev.to/shaikhalamin/create-a-desktop-entry-for-postman-in-ubuntu-3dn7)
+- [Getting to know Django Signals](https://dev.to/ahmadsalah/getting-to-know-django-signals-39i9)
+- [Meme Monday](https://dev.to/ben/meme-monday-54bo)
 <!-- BLOG-POST-LIST:END -->
 
