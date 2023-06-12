@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Side Project Potential: 1. Introduction](https://dev.to/maurerkrisztian/unlock-side-project-potential-1-introduction-3g4b)
-- [I am proud to be a transgender IT developer](https://dev.to/dionarodrigues/i-am-proud-to-be-a-transgender-it-developer-okh)
-- [How I build my first Open Source project with ChatGPT and Next.js. 10k users in 24 hours 🤯](https://dev.to/shnai0/how-i-build-my-first-open-source-project-with-chatgpt-and-nextjs-10k-users-in-24-hours-2m7n)
-- [Building a Photography site in Angular](https://dev.to/jesserules/building-a-photography-site-in-angular-oel)
+- [Improving Mastodon developer documentation](https://dev.to/andypiper/improving-mastodon-developer-documentation-12cm)
+- [Creating a Versatile Developer Profile Card with React](https://dev.to/ritabradley_dev/creating-a-versatile-developer-profile-card-with-react-333l)
+- [Resizing EC2 instances without downtime](https://dev.to/aws-builders/resizing-ec2-instances-without-downtime-34gn)
+- [Essential Product Metrics Every Startup Founder Should Know](https://dev.to/igorboky/essential-product-metrics-every-startup-founder-should-know-55i6)
 <!-- BLOG-POST-LIST:END -->
 
