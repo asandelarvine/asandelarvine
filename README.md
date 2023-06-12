@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I build my first Open Source project with ChatGPT and Next.js. 10k users in 24 hours 🤯](https://dev.to/shnai0/how-i-build-my-first-open-source-project-with-chatgpt-and-nextjs-10k-users-in-24-hours-2m7n)
+- [Building a Photography site in Angular](https://dev.to/jesserules/building-a-photography-site-in-angular-oel)
+- [Tips on Creating a Responsive Design](https://dev.to/estheridabor/tips-on-creating-a-responsive-design-13e1)
 - [Harness the Power of Professional Web Development Services with React.js, Next.js, Nest.js, Express.js, and PostgreSQL](https://dev.to/ozair0/harness-the-power-of-professional-web-development-services-with-reactjs-nextjs-nestjs-expressjs-and-postgresql-5amk)
-- [Using CDK to deploy AWS managed Active Directory](https://dev.to/aws/using-cdk-to-deploy-aws-managed-active-directory-35ci)
-- [Meet Omkar DevTools: 🚀 Your Swiss Army Knife as a Ninja Developer ✨](https://dev.to/rajesh_singh_1989/meet-omkar-devtools-your-swiss-army-knife-as-a-ninja-developer-2ekb)
-- [Bandit Level 0 Level 1](https://dev.to/christianpaez/bandit-level-0-level-1-2cm7)
 <!-- BLOG-POST-LIST:END -->
 
