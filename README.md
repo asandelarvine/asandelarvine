@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I am proud to be a transgender IT developer](https://dev.to/dionarodrigues/i-am-proud-to-be-a-transgender-it-developer-okh)
 - [How I build my first Open Source project with ChatGPT and Next.js. 10k users in 24 hours 🤯](https://dev.to/shnai0/how-i-build-my-first-open-source-project-with-chatgpt-and-nextjs-10k-users-in-24-hours-2m7n)
 - [Building a Photography site in Angular](https://dev.to/jesserules/building-a-photography-site-in-angular-oel)
 - [Tips on Creating a Responsive Design](https://dev.to/estheridabor/tips-on-creating-a-responsive-design-13e1)
-- [Harness the Power of Professional Web Development Services with React.js, Next.js, Nest.js, Express.js, and PostgreSQL](https://dev.to/ozair0/harness-the-power-of-professional-web-development-services-with-reactjs-nextjs-nestjs-expressjs-and-postgresql-5amk)
 <!-- BLOG-POST-LIST:END -->
 
