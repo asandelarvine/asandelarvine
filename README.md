@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is MQTT Protocol in IoT? Basics Explained](https://dev.to/marynaaaa_b/what-is-mqtt-protocol-in-iot-basics-explained-4h56)
-- [Create a desktop entry for postman in ubuntu](https://dev.to/shaikhalamin/create-a-desktop-entry-for-postman-in-ubuntu-3dn7)
-- [Getting to know Django Signals](https://dev.to/ahmadsalah/getting-to-know-django-signals-39i9)
-- [Meme Monday](https://dev.to/ben/meme-monday-54bo)
+- [Integrating Keycloak as my Identity Provider for IAM Identity Centre: Part two, configuring Keycloak as my Identity provider](https://dev.to/aws/integrating-keycloak-as-my-identity-provider-for-iam-identity-centre-part-two-configuring-keycloak-as-my-identity-provider-1n0k)
+- [What&#39;s the best feedback you&#39;ve ever received?](https://dev.to/bekahhw/whats-the-best-feedback-youve-ever-received-39o4)
+- [Insertion Sort](https://dev.to/ankittmeena/insertion-sort-edc)
+- [Harnessing the Power of Pair Programming: The Art of Coding Together](https://dev.to/qbentil/harnessing-the-power-of-pair-programming-the-art-of-coding-together-37o1)
 <!-- BLOG-POST-LIST:END -->
 
