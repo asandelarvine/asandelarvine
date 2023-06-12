@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ostara Version 0.10.0 Has Been Released](https://dev.to/krud/ostara-version-0100-has-been-released-50ap)
+- [Using a Single Input for one-time-code](https://dev.to/madsstoumann/using-a-single-input-for-one-time-code-352l)
 - [AWS open source newsletter, #160](https://dev.to/aws/aws-open-source-newsletter-160-227o)
 - [From Novice to Ninja: Fueling Enterprise Skillset with low-Code](https://dev.to/balagmadhu/from-novice-to-ninja-fueling-enterprise-skillset-with-low-code-40jm)
-- [Harnessing the Power of Machine Learning: Practical Applications in Software Development](https://dev.to/hackmamba/harnessing-the-power-of-machine-learning-practical-applications-in-software-development-3c2d)
-- [Vim for The VS Code User: Part 1 - Initial Setup](https://dev.to/aziznal/vim-for-the-vs-code-user-part-1-initial-setup-29la)
 <!-- BLOG-POST-LIST:END -->
 
