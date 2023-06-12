@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to TypeScript](https://dev.to/janvierjr/intro-to-typescript-5dhi)
+- [How to create a Kubernetes Operator ?](https://dev.to/mxglt/how-to-create-a-kubernetes-operator--2g6h)
 - [10+ AWS services explained!](https://dev.to/abdulmuminyqn/10-aws-services-explained-2kj2)
-- [The Role of Continuous Testing in Building High-Quality Software](https://dev.to/agilitest/the-role-of-continuous-testing-in-building-high-quality-software-2o3k)
-- [Learn Scala in 5 minutes](https://dev.to/josethz00/learn-scala-in-5-minutes-12cc)
-- [Integrating Keycloak as my Identity Provider for IAM Identity Centre: Part two, configuring Keycloak as my Identity provider](https://dev.to/aws/integrating-keycloak-as-my-identity-provider-for-iam-identity-centre-part-two-configuring-keycloak-as-my-identity-provider-1n0k)
+- [Comment créer un operator Kubernetes ?](https://dev.to/mxglt/comment-creer-un-operator-kubernetes--1h6f)
 <!-- BLOG-POST-LIST:END -->
 
