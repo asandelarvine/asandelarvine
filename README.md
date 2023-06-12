@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is ZenStack](https://dev.to/zenstack/what-is-zenstack-1mme)
-- [Awesome List of the Best Developer Tools](https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp)
-- [Array method CheatSheet](https://dev.to/brojenuel/array-method-cheatsheet-2e41)
-- [Intro to TypeScript](https://dev.to/janvierjr/intro-to-typescript-5dhi)
+- [Bandit Level 0 Level 1](https://dev.to/christianpaez/bandit-level-0-level-1-2cm7)
+- [Automated preview deployments from GitHub to AWS in 10 minutes](https://dev.to/crohr/automated-preview-deployments-from-github-to-aws-in-10-minutes-17k1)
+- [What are your goals for the week of June 12?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-12-561i)
+- [Just finished my first game!](https://dev.to/ajmikolaj/just-finished-my-first-game-54i1)
 <!-- BLOG-POST-LIST:END -->
 
