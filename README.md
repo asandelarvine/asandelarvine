@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Different Tools to Bundle Node.js Apps](https://dev.to/amplication/5-different-tools-to-bundle-nodejs-apps-59lg)
-- [Learn serverless on AWS step-by-step - EventBridge](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-eventbridge-27aa)
-- [Implementing Policy-as-Code to Terraform workflow using Hashicorp Sentinel](https://dev.to/this-is-learning/implementing-policy-as-code-to-terraform-workflow-using-hashicorp-sentinel-189p)
-- [flutter project currency converter](https://dev.to/realnamehidden1_61/flutter-project-currency-converter-4o6j)
+- [Optimize Image Rendering With Lazy Loaded Images &lpar;and Blurred Images&rpar;](https://dev.to/ubahthebuilder/optimize-image-rendering-with-lazy-loaded-images-and-blurred-images-1col)
+- [How to Create a Spotlight Card Hover Effect with Tailwind CSS](https://dev.to/cruip_com/how-to-create-a-spotlight-card-hover-effect-with-tailwind-css-4moh)
+- [Understanding CORS and Same Origin Policy in Web Security](https://dev.to/burakboduroglu/understanding-cors-and-same-origin-policy-in-web-security-54hm)
+- [A comprehensive guide to Amazon SageMaker](https://dev.to/softwebsolution/a-comprehensive-guide-to-amazon-sagemaker-5239)
 <!-- BLOG-POST-LIST:END -->
 
