@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use rsync to Sync a Node Project to Dropbox and Ignore the node modules Folder](https://dev.to/news47ell/use-rsync-to-sync-a-node-project-to-dropbox-and-ignore-the-node-modules-folder-5fp2)
 - [From Concept to Code: How Rive Supercharged My Design Implementation](https://dev.to/contenda/from-concept-to-code-how-rive-supercharged-my-design-implementation-3l4n)
 - [Everything Bad in Java is Good for You](https://dev.to/codenameone/everything-bad-in-java-is-good-for-you-3fhd)
 - [What Developers Can Learn from Taylor Swift&#39;s Re-recording Strategy](https://dev.to/arnica/what-developers-can-learn-from-taylor-swifts-re-recording-strategy-24en)
-- [Improve your dev experience with Gitlens!](https://dev.to/thezal/improve-your-dev-experience-with-gitlens-53ld)
 <!-- BLOG-POST-LIST:END -->
 
