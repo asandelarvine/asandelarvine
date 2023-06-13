@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Playing a full song, almost](https://dev.to/atornblad/playing-a-full-song-almost-48k)
+- [Begin Your Open Source Journey](https://dev.to/murtazajoo/begin-your-open-source-journey-5fm7)
 - [Promising Future of Freelancing: Embracing Independence in the Digital Age](https://dev.to/bhavin9920/promising-future-of-freelancing-embracing-independence-in-the-digital-age-30e6)
 - [FInd The Bug Challenge](https://dev.to/scofieldidehen/find-the-bug-challenge-351f)
-- [6 React Projects Every Developer Must Create](https://dev.to/scofieldidehen/6-react-projects-every-developer-must-create-2c3b)
-- [Demystifying the Technical Design Document: A Guide for Software Engineers](https://dev.to/siddharth_g/demystifying-the-technical-design-document-a-guide-for-software-engineers-1fk1)
 <!-- BLOG-POST-LIST:END -->
 
