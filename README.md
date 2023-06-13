@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create and Publish your custom GitHub Action](https://dev.to/this-is-learning/create-and-publish-your-custom-github-action-4dfi)
+- [Deploying a project to fly.io with GitHub Actions](https://dev.to/ruthmoog/deploying-a-project-to-flyio-with-github-actions-2c7e)
 - [🔦 Community Spotlight - Building VogueEco, a Sustainable Fashion App🔦](https://dev.to/appwrite/community-spotlight-building-vogueeco-a-sustainable-fashion-app-7c8)
 - [Effortlessly Build a Captivating Website with AI: A Comprehensive Guide](https://dev.to/unicornsblog/effortlessly-build-a-captivating-website-with-ai-a-comprehensive-guide-48jm)
-- [PyScript vs JavaScript](https://dev.to/kristiyan_velkov/pyscript-vs-javascript-1pph)
-- [A Deep Dive into EDB Postgres Advanced Server: Features and Benefits](https://dev.to/nightbird07/a-deep-dive-into-edb-postgres-advanced-server-features-and-benefits-3ff)
 <!-- BLOG-POST-LIST:END -->
 
