@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Beautiful Product Onboarding 👋 with Next.JS , Framer Motion, and Tailwind CSS](https://dev.to/mfts/building-a-beautiful-product-onboarding-with-nextjs-framer-motion-and-tailwind-css-d12)
+- [A quick and easy guide to creating a sitemap for a Next.js site](https://dev.to/mikeyoung44/a-quick-and-easy-guide-to-creating-a-sitemap-for-a-nextjs-site-230)
 - [Generating an OpenAPI/Swagger spec from a Ruby on Rails API](https://dev.to/doctave/generating-an-openapiswagger-spec-from-a-ruby-on-rails-api-1ojd)
-- [&quot;OverAPI.com: Unlocking the Power of Comprehensive Code Reference&quot;](https://dev.to/coderatul/overapicom-unlocking-the-power-of-comprehensive-code-reference-1kng)
-- [Create and Publish your custom GitHub Action](https://dev.to/this-is-learning/create-and-publish-your-custom-github-action-4dfi)
-- [Deploying a project to fly.io with GitHub Actions](https://dev.to/ruthmoog/deploying-a-project-to-flyio-with-github-actions-2c7e)
+- [Folder Icons for Devs: Making My Desktop Less Messy](https://dev.to/highflyer910/folder-icons-for-devs-making-my-desktop-less-messy-45nc)
 <!-- BLOG-POST-LIST:END -->
 
