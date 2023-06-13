@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub + DEV 2023 Hackathon Winners, Announced!](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o)
+- [Optimistic UI: Enhancing User Experience in React with React Query](https://dev.to/wolfflucas/optimistic-ui-enhancing-user-experience-in-react-with-react-query-3033)
 - [#DEVDiscuss: Ultimate Tips for Writing Technical Content](https://dev.to/devteam/devdiscuss-ultimate-tips-for-writing-technical-content-2pae)
 - [📕 Unlock Side Project Potential: 2. Coming Up with Ideas](https://dev.to/maurerkrisztian/unlock-side-project-potential-2-coming-up-with-ideas-5flf)
-- [Next-Level Technical Blogging with Dev.to API](https://dev.to/areknawo/next-level-technical-blogging-with-devto-api-12jl)
-- [How to use GitHub Actions to keep your Python RPA project updated](https://dev.to/botcitydev/how-to-use-github-actions-to-keep-your-python-rpa-project-updated-gia)
 <!-- BLOG-POST-LIST:END -->
 
