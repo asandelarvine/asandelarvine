@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Drops #05: Meu guia para você aprender Go!](https://dev.to/wnqueiroz/drops-05-meu-guia-para-voce-aprender-go-5fj5)
+- [What are smart contracts? Learn and deploy your first contract.](https://dev.to/siddharthsing/what-are-smart-contracts-learn-and-deploy-your-first-contract-1l3e)
+- [Free Open-Source Portfolio Template for Developers⚡🚀](https://dev.to/devsyedmohsin/free-open-source-portfolio-template-for-developers-4g1d)
 - [Ready to use Register Expressions](https://dev.to/kunal2468/ready-to-use-register-expressions-2590)
-- [Refine.dev and useGenerated.com - business apps extremely fast](https://dev.to/usegen/refinedev-and-usegeneratedcom-business-apps-extremely-fast-2g08)
-- [Building a Beautiful Product Onboarding 👋 with Next.JS , Framer Motion, and Tailwind CSS](https://dev.to/mfts/building-a-beautiful-product-onboarding-with-nextjs-framer-motion-and-tailwind-css-d12)
-- [Review do App Busuu 2023: Um Ano de Uso e Conclusão de Todos os Módulos de Inglês](https://dev.to/arthurassuncao/review-do-app-busuu-2023-um-ano-de-uso-com-todos-os-modulos-de-ingles-concluidos-ehm)
 <!-- BLOG-POST-LIST:END -->
 
