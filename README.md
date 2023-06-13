@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Generating an OpenAPI/Swagger spec from a Ruby on Rails API](https://dev.to/doctave/generating-an-openapiswagger-spec-from-a-ruby-on-rails-api-1ojd)
+- [&quot;OverAPI.com: Unlocking the Power of Comprehensive Code Reference&quot;](https://dev.to/coderatul/overapicom-unlocking-the-power-of-comprehensive-code-reference-1kng)
 - [Create and Publish your custom GitHub Action](https://dev.to/this-is-learning/create-and-publish-your-custom-github-action-4dfi)
 - [Deploying a project to fly.io with GitHub Actions](https://dev.to/ruthmoog/deploying-a-project-to-flyio-with-github-actions-2c7e)
-- [🔦 Community Spotlight - Building VogueEco, a Sustainable Fashion App🔦](https://dev.to/appwrite/community-spotlight-building-vogueeco-a-sustainable-fashion-app-7c8)
-- [Effortlessly Build a Captivating Website with AI: A Comprehensive Guide](https://dev.to/unicornsblog/effortlessly-build-a-captivating-website-with-ai-a-comprehensive-guide-48jm)
 <!-- BLOG-POST-LIST:END -->
 
