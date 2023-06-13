@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ready to use Register Expressions](https://dev.to/kunal2468/ready-to-use-register-expressions-2590)
+- [Refine.dev and useGenerated.com - business apps extremely fast](https://dev.to/usegen/refinedev-and-usegeneratedcom-business-apps-extremely-fast-2g08)
 - [Building a Beautiful Product Onboarding 👋 with Next.JS , Framer Motion, and Tailwind CSS](https://dev.to/mfts/building-a-beautiful-product-onboarding-with-nextjs-framer-motion-and-tailwind-css-d12)
-- [A quick and easy guide to creating a sitemap for a Next.js site](https://dev.to/mikeyoung44/a-quick-and-easy-guide-to-creating-a-sitemap-for-a-nextjs-site-230)
-- [Generating an OpenAPI/Swagger spec from a Ruby on Rails API](https://dev.to/doctave/generating-an-openapiswagger-spec-from-a-ruby-on-rails-api-1ojd)
-- [Folder Icons for Devs: Making My Desktop Less Messy](https://dev.to/highflyer910/folder-icons-for-devs-making-my-desktop-less-messy-45nc)
+- [Review do App Busuu 2023: Um Ano de Uso e Conclusão de Todos os Módulos de Inglês](https://dev.to/arthurassuncao/review-do-app-busuu-2023-um-ano-de-uso-com-todos-os-modulos-de-ingles-concluidos-ehm)
 <!-- BLOG-POST-LIST:END -->
 
