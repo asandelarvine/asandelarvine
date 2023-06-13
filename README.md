@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Building a Google Chrome Extension for Amazon Budgeting](https://dev.to/dhruvjoshi9/a-step-by-step-guide-to-building-a-google-chrome-extension-for-amazon-budgeting-4h69)
-- [Age is Just a Number: A Midlife Leap into AI](https://dev.to/philipjohnbasile/age-is-just-a-number-a-midlife-leap-into-ai-54k1)
-- [7 Strategies for Better Debugging](https://dev.to/yatendra2001/7-strategies-for-better-debugging-1oa0)
-- [Object Manipulation](https://dev.to/mrizwanashiq/object-manipulation-1dh6)
+- [Promising Future of Freelancing: Embracing Independence in the Digital Age](https://dev.to/bhavin9920/promising-future-of-freelancing-embracing-independence-in-the-digital-age-30e6)
+- [FInd The Bug Challenge](https://dev.to/scofieldidehen/find-the-bug-challenge-351f)
+- [6 React Projects Every Developer Must Create](https://dev.to/scofieldidehen/6-react-projects-every-developer-must-create-2c3b)
+- [Demystifying the Technical Design Document: A Guide for Software Engineers](https://dev.to/siddharth_g/demystifying-the-technical-design-document-a-guide-for-software-engineers-1fk1)
 <!-- BLOG-POST-LIST:END -->
 
