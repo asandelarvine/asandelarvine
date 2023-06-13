@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data roles in data teams and your skill set. Using math](https://dev.to/pedrohgoncalves/data-roles-in-data-teams-and-your-skill-set-using-math-1332)
-- [Improving Mastodon developer documentation](https://dev.to/andypiper/improving-mastodon-developer-documentation-12cm)
-- [Creating a Versatile Developer Profile Card with React](https://dev.to/ritabradley_dev/creating-a-versatile-developer-profile-card-with-react-333l)
-- [Resizing EC2 instances without downtime](https://dev.to/aws-builders/resizing-ec2-instances-without-downtime-34gn)
+- [38 programming languages. Tried them all!](https://dev.to/johnrushx/38-programming-languages-which-is-best-584f)
+- [Functional Programming with Javascript](https://dev.to/gustavogomesdev/functional-programming-with-javascript-4jk7)
+- [A mage on the Hero’s Journey: a fantasy epic on how a startup rose from the ashes](https://dev.to/mage_ai/a-mage-on-the-heros-journey-a-fantasy-epic-on-how-a-startup-rose-from-the-ashes-3od6)
+- [My First Full-Stack App](https://dev.to/hillswor/my-first-full-stack-app-41jo)
 <!-- BLOG-POST-LIST:END -->
 
