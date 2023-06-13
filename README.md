@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Interfaces: Embrace the Flexibility - With Challenges](https://dev.to/bobbyhalljr/typescript-interfaces-embrace-the-flexibility-with-challenges-1h8a)
-- [Deploy HarperDB on ROSA &lpar;Red Hat OpenShift Service on AWS&rpar;](https://dev.to/aws-builders/deploy-harperdb-on-rosa-red-hat-openshift-service-on-aws-4jge)
-- [Fast Matrix Math in JS 3: WebGL/WebGPU](https://dev.to/ndesmic/fast-matrix-math-in-js-3-webglwebgpu-4e0l)
-- [38 programming languages. Tried them all!](https://dev.to/johnrushx/38-programming-languages-which-is-best-584f)
+- [A Step-by-Step Guide to Building a Google Chrome Extension for Amazon Budgeting](https://dev.to/dhruvjoshi9/a-step-by-step-guide-to-building-a-google-chrome-extension-for-amazon-budgeting-4h69)
+- [Age is Just a Number: A Midlife Leap into AI](https://dev.to/philipjohnbasile/age-is-just-a-number-a-midlife-leap-into-ai-54k1)
+- [7 Strategies for Better Debugging](https://dev.to/yatendra2001/7-strategies-for-better-debugging-1oa0)
+- [Object Manipulation](https://dev.to/mrizwanashiq/object-manipulation-1dh6)
 <!-- BLOG-POST-LIST:END -->
 
