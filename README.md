@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Concept to Code: How Rive Supercharged My Design Implementation](https://dev.to/contenda/from-concept-to-code-how-rive-supercharged-my-design-implementation-3l4n)
 - [Everything Bad in Java is Good for You](https://dev.to/codenameone/everything-bad-in-java-is-good-for-you-3fhd)
+- [What Developers Can Learn from Taylor Swift&#39;s Re-recording Strategy](https://dev.to/arnica/what-developers-can-learn-from-taylor-swifts-re-recording-strategy-24en)
 - [Improve your dev experience with Gitlens!](https://dev.to/thezal/improve-your-dev-experience-with-gitlens-53ld)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10ni)
-- [Drops #05: Meu guia para você aprender Go!](https://dev.to/wnqueiroz/drops-05-meu-guia-para-voce-aprender-go-5fj5)
 <!-- BLOG-POST-LIST:END -->
 
