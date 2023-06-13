@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything Bad in Java is Good for You](https://dev.to/codenameone/everything-bad-in-java-is-good-for-you-3fhd)
+- [Improve your dev experience with Gitlens!](https://dev.to/thezal/improve-your-dev-experience-with-gitlens-53ld)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10ni)
 - [Drops #05: Meu guia para você aprender Go!](https://dev.to/wnqueiroz/drops-05-meu-guia-para-voce-aprender-go-5fj5)
-- [What are smart contracts? Learn and deploy your first contract.](https://dev.to/siddharthsing/what-are-smart-contracts-learn-and-deploy-your-first-contract-1l3e)
-- [Free Open-Source Portfolio Template for Developers⚡🚀](https://dev.to/devsyedmohsin/free-open-source-portfolio-template-for-developers-4g1d)
-- [Ready to use Register Expressions](https://dev.to/kunal2468/ready-to-use-register-expressions-2590)
 <!-- BLOG-POST-LIST:END -->
 
