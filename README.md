@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring String Functions in Apache AgeDB](https://dev.to/abdulsamad4068/exploring-string-functions-in-apache-agedb-3i6n)
+- [The Influence of Artificial Intelligence in Web Development 🚀🔥](https://dev.to/arjuncodess/the-influence-of-artificial-intelligence-in-web-development-3c14)
 - [Optimize Image Rendering With Lazy Loaded Images &lpar;and Blurred Images&rpar;](https://dev.to/ubahthebuilder/optimize-image-rendering-with-lazy-loaded-images-and-blurred-images-1col)
 - [How to Create a Spotlight Card Hover Effect with Tailwind CSS](https://dev.to/cruip_com/how-to-create-a-spotlight-card-hover-effect-with-tailwind-css-4moh)
-- [Understanding CORS and Same Origin Policy in Web Security](https://dev.to/burakboduroglu/understanding-cors-and-same-origin-policy-in-web-security-54hm)
-- [A comprehensive guide to Amazon SageMaker](https://dev.to/softwebsolution/a-comprehensive-guide-to-amazon-sagemaker-5239)
 <!-- BLOG-POST-LIST:END -->
 
