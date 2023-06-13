@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Different Tools to Bundle Node.js Apps](https://dev.to/amplication/5-different-tools-to-bundle-nodejs-apps-59lg)
+- [Learn serverless on AWS step-by-step - EventBridge](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-eventbridge-27aa)
+- [Implementing Policy-as-Code to Terraform workflow using Hashicorp Sentinel](https://dev.to/this-is-learning/implementing-policy-as-code-to-terraform-workflow-using-hashicorp-sentinel-189p)
 - [flutter project currency converter](https://dev.to/realnamehidden1_61/flutter-project-currency-converter-4o6j)
-- [Freelance Devs: How Do You Secure Long-Term Clients and Maintain a Stable Income?](https://dev.to/devteam/freelance-devs-how-do-you-secure-long-term-clients-and-maintain-a-stable-income-a5p)
-- [Overcoming Skill Plateaus: How Do You Keep Growing?](https://dev.to/codenewbieteam/overcoming-skill-plateaus-how-do-you-keep-growing-g4p)
-- [Different approaches to testing your own packages locally: Relative Deps](https://dev.to/one-beyond/different-approaches-to-testing-your-own-packages-locally-relative-deps-2c17)
 <!-- BLOG-POST-LIST:END -->
 
