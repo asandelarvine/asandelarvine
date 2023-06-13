@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Interfaces: Embrace the Flexibility - With Challenges](https://dev.to/bobbyhalljr/typescript-interfaces-embrace-the-flexibility-with-challenges-1h8a)
 - [Deploy HarperDB on ROSA &lpar;Red Hat OpenShift Service on AWS&rpar;](https://dev.to/aws-builders/deploy-harperdb-on-rosa-red-hat-openshift-service-on-aws-4jge)
 - [Fast Matrix Math in JS 3: WebGL/WebGPU](https://dev.to/ndesmic/fast-matrix-math-in-js-3-webglwebgpu-4e0l)
 - [38 programming languages. Tried them all!](https://dev.to/johnrushx/38-programming-languages-which-is-best-584f)
-- [Functional Programming with Javascript](https://dev.to/gustavogomesdev/functional-programming-with-javascript-4jk7)
 <!-- BLOG-POST-LIST:END -->
 
