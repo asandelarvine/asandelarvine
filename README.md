@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NextJs TypeScript setup with Prettier, Husky.](https://dev.to/ankusht2307/nextjs-typescript-setup-with-prettier-husky-3dih)
+- [The next era of databases are serverless, adaptive, and collaborative](https://dev.to/xata/the-next-era-of-databases-are-serverless-adaptive-and-collaborative-47h8)
 - [Let&#39;s Learn Django #2 File Structure](https://dev.to/dilutewater/lets-learn-django-2-file-structure-2hcg)
-- [The future of Artificial Intelligence: Trends and applications](https://dev.to/educative/the-future-of-artificial-intelligence-trends-and-applications-307j)
-- [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/saurav_kumar/best-7-open-source-projects-built-with-nodejs-reactjs-52p7)
-- [How to Start an Open Source Project with VS Code](https://dev.to/opensauced/how-to-start-an-open-source-project-with-vs-code-4106)
+- [Guia para comprar una laptop o computadora usada y valuarla](https://dev.to/jmrsuarez/comprar-una-laptop-usada-3642)
 <!-- BLOG-POST-LIST:END -->
 
