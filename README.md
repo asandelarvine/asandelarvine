@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia básico para adicionar eventos em Javascript e despertar a interatividade](https://dev.to/demenezes/guia-basico-para-adicionar-eventos-em-javascript-e-despertar-a-interatividade-4dfj)
 - [AWS Redshift: Robust and Scalable Data Warehousing](https://dev.to/mage_ai/aws-redshift-robust-and-scalable-data-warehousing-26ep)
 - [Introduction to Amazon Detective](https://dev.to/jay_sheth/introduction-to-amazon-detective-289j)
 - [Good logging library for node.js?](https://dev.to/malezjaa/good-logging-library-for-nodejs-47kb)
-- [NextJs TypeScript setup with Prettier, Husky.](https://dev.to/ankusht2307/nextjs-typescript-setup-with-prettier-husky-3dih)
 <!-- BLOG-POST-LIST:END -->
 
