@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Secure Your JavaScript Applications](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg)
-- [Custom Plugin Development For APISIX With Lua And ChatGPT](https://dev.to/apisix/custom-plugin-development-for-apisix-with-lua-and-chatgpt-nkd)
-- [Guide des méthodes JS [chaînes de caractères]](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
-- [Top 20 C# Security Interview Questions +&lpar;Answers&rpar;](https://dev.to/bytehide/top-20-c-security-interview-questions-answers-1iga)
+- [Prompt Engineering: The Future of AI-Driven Development](https://dev.to/aws-heroes/prompt-engineering-the-future-of-ai-driven-development-4elm)
+- [Protecting Your Codebase: How to Identify and Mitigate SAST Vulnerabilities](https://dev.to/supratipb/protecting-your-codebase-how-to-identify-and-mitigate-sast-vulnerabilities-3lmf)
+- [AWS re:Inforce 2023 keynote highlights](https://dev.to/aws-builders/aws-reinforce-2023-keynote-highlights-550g)
+- [Implementing Open-Source Monitoring and Observability In Kubernetes](https://dev.to/thenjdevopsguy/implementing-open-source-monitoring-and-observability-in-kubernetes-1bgn)
 <!-- BLOG-POST-LIST:END -->
 
