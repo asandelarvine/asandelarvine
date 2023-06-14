@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Code Structuring and Best Practices](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
+- [GetBlock RPC Node Provider Launches Affiliate Program with Cash Bonuses](https://dev.to/getblockapi/getblock-rpc-node-provider-launches-affiliate-program-with-cash-bonuses-334b)
 - [Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023](https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo)
 - [Configuration-as-Code: Automating Application Configuration](https://dev.to/rannn505/configuration-as-code-automating-application-configuration-45k6)
-- [Let&#39;s Learn Django #1 Init](https://dev.to/dilutewater/lets-learn-django-1-init-g87)
-- [Pair Programming: Best Practices and Tools](https://dev.to/documatic/pair-programming-best-practices-and-tools-154j)
 <!-- BLOG-POST-LIST:END -->
 
