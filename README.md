@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly web development resources #153](https://dev.to/vincenius/weekly-web-development-resources-153-38jg)
 - [Master C# with an Interactive Learning Template - Limited Time Offer!](https://dev.to/atienoobwanda/master-c-with-an-interactive-learning-template-limited-time-offer-4ian)
 - [I&#39;m approaching 1000 followers!](https://dev.to/verisimilitudex/im-approaching-1000-followers-11kj)
 - [A Comprehensive Guide to React Hooks: Simplifying State and Side Effects](https://dev.to/kingsley/a-comprehensive-guide-to-react-hooks-simplifying-state-and-side-effects-39f3)
-- [It&#39;s time to replace your axios](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
 <!-- BLOG-POST-LIST:END -->
 
