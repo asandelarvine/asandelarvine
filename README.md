@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Surviving Cancer, Building Code, Thriving in Tech&quot;: CodeNewbie Podcast S24E6](https://dev.to/codenewbieteam/surviving-cancer-building-code-thriving-in-tech-codenewbie-podcast-s24e6-27cd)
-- [A better learning path for React with server components](https://dev.to/scastiel/a-better-learning-path-for-react-with-server-components-5ebn)
-- [Where To Get ICO Development Services For Fundraising?](https://dev.to/jessietomaz/where-to-get-ico-development-services-for-fundraising-d9g)
-- [Intro to Data Pre-Processing using Quantified Emotion Recognition](https://dev.to/lucidmach/intro-to-data-pre-processing-using-quantified-emotion-recognition-4bn4)
+- [Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023](https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo)
+- [Configuration-as-Code: Automating Application Configuration](https://dev.to/rannn505/configuration-as-code-automating-application-configuration-45k6)
+- [Let&#39;s Learn Django #1 Init](https://dev.to/dilutewater/lets-learn-django-1-init-g87)
+- [Pair Programming: Best Practices and Tools](https://dev.to/documatic/pair-programming-best-practices-and-tools-154j)
 <!-- BLOG-POST-LIST:END -->
 
