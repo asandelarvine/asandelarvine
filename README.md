@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Secure Your JavaScript Applications](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg)
+- [Custom Plugin Development For APISIX With Lua And ChatGPT](https://dev.to/apisix/custom-plugin-development-for-apisix-with-lua-and-chatgpt-nkd)
+- [Guide des méthodes JS [chaînes de caractères]](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
 - [Top 20 C# Security Interview Questions +&lpar;Answers&rpar;](https://dev.to/bytehide/top-20-c-security-interview-questions-answers-1iga)
-- [Welcome Thread - v229](https://dev.to/devteam/welcome-thread-v229-5l4)
-- [Welcome Thread - v230](https://dev.to/devteam/welcome-thread-v230-1aej)
-- [Top Rust Web Frameworks: Rocket, Actix-web, Tide, Warp, and Gotham](https://dev.to/hiader/top-rust-web-frameworks-rocket-actix-web-tide-warp-and-gotham-409f)
 <!-- BLOG-POST-LIST:END -->
 
