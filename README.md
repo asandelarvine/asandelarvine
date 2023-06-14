@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Start an Open Source Project with VS Code](https://dev.to/opensauced/how-to-start-an-open-source-project-with-vs-code-4106)
+- [Who&#39;s looking for open source contributors? &lpar;week 47&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-47-3l1b)
 - [Angular Code Structuring and Best Practices](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
 - [10 Common Ways Engineers Use Webhook Gateways](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
-- [Memory in Rust](https://dev.to/aneshodza/memory-in-rust-5g7e)
-- [GetBlock RPC Node Provider Launches Affiliate Program with Cash Bonuses](https://dev.to/getblockapi/getblock-rpc-node-provider-launches-affiliate-program-with-cash-bonuses-334b)
 <!-- BLOG-POST-LIST:END -->
 
