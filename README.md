@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Learn Django #2 File Structure](https://dev.to/dilutewater/lets-learn-django-2-file-structure-2hcg)
+- [The future of Artificial Intelligence: Trends and applications](https://dev.to/educative/the-future-of-artificial-intelligence-trends-and-applications-307j)
+- [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/saurav_kumar/best-7-open-source-projects-built-with-nodejs-reactjs-52p7)
 - [How to Start an Open Source Project with VS Code](https://dev.to/opensauced/how-to-start-an-open-source-project-with-vs-code-4106)
-- [Who&#39;s looking for open source contributors? &lpar;week 47&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-47-3l1b)
-- [Angular Code Structuring and Best Practices](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
-- [10 Common Ways Engineers Use Webhook Gateways](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
 <!-- BLOG-POST-LIST:END -->
 
