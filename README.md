@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Semântica no HTML por debaixo dos panos](https://dev.to/lixeletto/semantica-no-html-por-debaixo-dos-panos-g5l)
 - [10 Best Ways To Use ChatGPT &lpar;With Examples&rpar;](https://dev.to/durgesh4993/10-best-ways-to-use-chatgpt-with-examples-1e42)
+- [How to Use URL Slugs to Improve Your Website&#39;s UX](https://dev.to/josematoswork/how-to-use-url-slugs-to-improve-your-websites-ux-4e67)
 - [Simple Repository Pattern for Ruby on Rails](https://dev.to/cherryramatis/simple-repository-pattern-for-ruby-on-rails-2lje)
-- [Observer pattern in the context of a Game App](https://dev.to/walosha/observer-pattern-in-the-context-of-a-game-app-5gck)
-- [GitHub + DEV 2023 Hackathon Winners, Announced!](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o)
 <!-- BLOG-POST-LIST:END -->
 
