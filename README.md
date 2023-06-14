@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Where To Get ICO Development Services For Fundraising?](https://dev.to/jessietomaz/where-to-get-ico-development-services-for-fundraising-d9g)
+- [Intro to Data Pre-Processing using Quantified Emotion Recognition](https://dev.to/lucidmach/intro-to-data-pre-processing-using-quantified-emotion-recognition-4bn4)
 - [Prompt Engineering: The Future of AI-Driven Development](https://dev.to/aws-heroes/prompt-engineering-the-future-of-ai-driven-development-4elm)
 - [Protecting Your Codebase: How to Identify and Mitigate SAST Vulnerabilities](https://dev.to/supratipb/protecting-your-codebase-how-to-identify-and-mitigate-sast-vulnerabilities-3lmf)
-- [AWS re:Inforce 2023 keynote highlights](https://dev.to/aws-builders/aws-reinforce-2023-keynote-highlights-550g)
-- [Implementing Open-Source Monitoring and Observability In Kubernetes](https://dev.to/thenjdevopsguy/implementing-open-source-monitoring-and-observability-in-kubernetes-1bgn)
 <!-- BLOG-POST-LIST:END -->
 
