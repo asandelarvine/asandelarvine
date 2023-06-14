@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Rust Web Frameworks: Rocket, Actix-web, Tide, Warp, and Gotham](https://dev.to/hiader/top-rust-web-frameworks-rocket-actix-web-tide-warp-and-gotham-409f)
+- [VLANs &amp; Inter-VLAN routing](https://dev.to/mutasim77/vlans-inter-vlan-routing-4lfo)
 - [Cracking the Work-Life Balance Code: Unconventional Strategies for Remote Developers](https://dev.to/devteam/cracking-the-work-life-balance-code-unconventional-strategies-for-remote-developers-32jg)
 - [Juggling Multiple Projects: How Do You Stay Sane?](https://dev.to/codenewbieteam/juggling-multiple-projects-how-do-you-stay-sane-4h67)
-- [Weekly web development resources #153](https://dev.to/vincenius/weekly-web-development-resources-153-38jg)
-- [Master C# with an Interactive Learning Template - Limited Time Offer!](https://dev.to/atienoobwanda/master-c-with-an-interactive-learning-template-limited-time-offer-4ian)
 <!-- BLOG-POST-LIST:END -->
 
