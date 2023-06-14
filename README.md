@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Redshift: Robust and Scalable Data Warehousing](https://dev.to/mage_ai/aws-redshift-robust-and-scalable-data-warehousing-26ep)
+- [Introduction to Amazon Detective](https://dev.to/jay_sheth/introduction-to-amazon-detective-289j)
+- [Good logging library for node.js?](https://dev.to/malezjaa/good-logging-library-for-nodejs-47kb)
 - [NextJs TypeScript setup with Prettier, Husky.](https://dev.to/ankusht2307/nextjs-typescript-setup-with-prettier-husky-3dih)
-- [The next era of databases are serverless, adaptive, and collaborative](https://dev.to/xata/the-next-era-of-databases-are-serverless-adaptive-and-collaborative-47h8)
-- [Let&#39;s Learn Django #2 File Structure](https://dev.to/dilutewater/lets-learn-django-2-file-structure-2hcg)
-- [Guia para comprar una laptop o computadora usada y valuarla](https://dev.to/jmrsuarez/comprar-una-laptop-usada-3642)
 <!-- BLOG-POST-LIST:END -->
 
