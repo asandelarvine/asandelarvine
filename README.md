@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Top Rust Web Frameworks: Rocket, Actix-web, Tide, Warp, and Gotham](https://dev.to/hiader/top-rust-web-frameworks-rocket-actix-web-tide-warp-and-gotham-409f)
+- [Template Literal Types: How To Type Strings](https://dev.to/zirkelc/template-literal-types-how-to-type-strings-2amb)
+- [How to Build AI powered App in 5 minutes in Node.js](https://dev.to/igorboky/how-to-build-ai-powered-app-in-5-minutes-in-nodejs-1413)
 - [VLANs &amp; Inter-VLAN routing](https://dev.to/mutasim77/vlans-inter-vlan-routing-4lfo)
-- [Cracking the Work-Life Balance Code: Unconventional Strategies for Remote Developers](https://dev.to/devteam/cracking-the-work-life-balance-code-unconventional-strategies-for-remote-developers-32jg)
-- [Juggling Multiple Projects: How Do You Stay Sane?](https://dev.to/codenewbieteam/juggling-multiple-projects-how-do-you-stay-sane-4h67)
 <!-- BLOG-POST-LIST:END -->
 
