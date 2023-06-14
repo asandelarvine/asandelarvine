@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Ways Flutter Can Speed Up Your Mobile App Development](https://dev.to/yatendra2001/top-10-ways-flutter-can-speed-up-your-mobile-app-development-g68)
 - [Semântica no HTML por debaixo dos panos](https://dev.to/lixeletto/semantica-no-html-por-debaixo-dos-panos-g5l)
 - [10 Best Ways To Use ChatGPT &lpar;With Examples&rpar;](https://dev.to/durgesh4993/10-best-ways-to-use-chatgpt-with-examples-1e42)
 - [How to Use URL Slugs to Improve Your Website&#39;s UX](https://dev.to/josematoswork/how-to-use-url-slugs-to-improve-your-websites-ux-4e67)
-- [Simple Repository Pattern for Ruby on Rails](https://dev.to/cherryramatis/simple-repository-pattern-for-ruby-on-rails-2lje)
 <!-- BLOG-POST-LIST:END -->
 
