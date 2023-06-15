@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: What Are Your Favorite Tags, Orgs, and Coding Challenges?](https://dev.to/devteam/sloans-inbox-what-are-your-favorite-tags-orgs-and-coding-challenges-jjm)
-- [Git for All Developers: Essential or Optional?](https://dev.to/devteam/git-for-all-developers-essential-or-optional-50ml)
-- [How Do You Master New Tech? Any Hacks for Faster Language Learning?](https://dev.to/codenewbieteam/how-do-you-master-new-tech-any-hacks-for-faster-language-learning-5f4o)
-- [GO: How to Write a Worker Pool](https://dev.to/justlorain/go-how-to-write-a-worker-pool-1h3b)
+- [Top 10 Things You Should Add While Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/top-10-things-you-should-add-while-coding-valuable-tips-for-programmers-4m3n)
+- [How we built modular tab system with side by side view](https://dev.to/denislaca/how-we-built-modular-tab-system-with-side-by-side-view-4cmb)
+- [churn prediction in telecom industry using python](https://dev.to/liaqat_yusra/churn-prediction-in-telecom-industry-using-python-1359)
+- [Power of Web Components: Reusable and Customizable UI Elements 🚀🔥](https://dev.to/arjuncodess/power-of-web-components-reusable-and-customizable-ui-elements-245l)
 <!-- BLOG-POST-LIST:END -->
 
