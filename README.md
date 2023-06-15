@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 1000 Followers on dev.to - A Journey of Learning and Growth!](https://dev.to/muhmmadawd/celebrating-1000-followers-on-devto-a-journey-of-learning-and-growth-1a0o)
+- [Handle Multiple Queries &amp; Mutations in React Form using Apollo Client](https://dev.to/ashishkmishra36/handle-multiple-queries-mutations-in-react-form-using-apollo-client-4o41)
 - [6 AI tool that you should use as a developer](https://dev.to/hiader/6-ai-tool-that-you-should-use-as-a-developer-30k2)
 - [The Power of Memoization: A Deep Dive into useMemo, useCallback, and useEffect](https://dev.to/abomisr/the-power-of-memoization-a-deep-dive-into-usememo-usecallback-and-useeffect-3a84)
-- [No, you don’t need to test every line of your CDK application](https://dev.to/aws-heroes/no-you-dont-need-to-test-every-line-of-your-cdk-application-bh7)
-- [Building Web Applications: A Comprehensive Overview of Popular Stacks⬇️](https://dev.to/baraa/building-web-applications-a-comprehensive-overview-of-popular-stacks-26pd)
 <!-- BLOG-POST-LIST:END -->
 
