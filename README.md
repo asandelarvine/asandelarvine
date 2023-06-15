@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Healthcare’s Digital Accessibility Problem](https://dev.to/linearb/healthcares-digital-accessibility-problem-a46)
+- [What are facades and how to use it on ruby](https://dev.to/cherryramatis/what-are-facades-and-how-to-use-it-on-ruby-5h3h)
 - [JavaScript localStorage: The complete guide](https://dev.to/alakkadshaw/javascript-localstorage-the-complete-guide-5a9a)
 - [Ace the &quot;Tell me about a time you made a mistake&quot; question in your next interview.](https://dev.to/martinkr/ace-the-tell-me-about-a-time-you-made-a-mistake-question-in-your-next-interview-2c7)
-- [Security starts before the production deployment](https://dev.to/ciscoemerge/security-starts-before-the-production-deployment-3lp7)
 <!-- BLOG-POST-LIST:END -->
 
