@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DS_Store in git changes, why ?](https://dev.to/raviagheda/dsstore-in-git-changes-why--1cbn)
-- [Day 0: JavaScript Revision | The last REACT course you need](https://dev.to/vaib215/day-0-javascript-revision-the-last-react-course-you-need-4lh8)
-- [Top 10 Things You Should Add While Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/top-10-things-you-should-add-while-coding-valuable-tips-for-programmers-4m3n)
-- [How we built modular tab system with side by side view](https://dev.to/denislaca/how-we-built-modular-tab-system-with-side-by-side-view-4cmb)
+- [Spring Boot 3 with H2 database example](https://dev.to/realnamehidden1_61/spring-boot-3-with-h2-database-example-4gfe)
+- [Asynchronous JavaScript: Understanding Promises](https://dev.to/codecraftjs/asynchronous-javascript-understanding-promises-fga)
+- [Safari goes all-in on images](https://dev.to/robole/safari-goes-all-in-on-images-c4m)
+- [refine + DEV Open Source Hackathon 2 - Pre-Announcement](https://dev.to/refine/refine-dev-open-source-hackathon-2-pre-announcement-22n1)
 <!-- BLOG-POST-LIST:END -->
 
