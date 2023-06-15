@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Healthcare’s Digital Accessibility Problem](https://dev.to/linearb/healthcares-digital-accessibility-problem-a46)
+- [JavaScript localStorage: The complete guide](https://dev.to/alakkadshaw/javascript-localstorage-the-complete-guide-5a9a)
+- [Ace the &quot;Tell me about a time you made a mistake&quot; question in your next interview.](https://dev.to/martinkr/ace-the-tell-me-about-a-time-you-made-a-mistake-question-in-your-next-interview-2c7)
 - [Security starts before the production deployment](https://dev.to/ciscoemerge/security-starts-before-the-production-deployment-3lp7)
-- [Build a SMS Bot that Answers questions over Docs with LangChain in Python](https://dev.to/twilio/build-a-sms-bot-that-answers-questions-over-docs-with-langchain-in-python-47fj)
-- [Sudoku Solver](https://dev.to/_alkesh26/sudoku-solver-ggh)
-- [Unveiling the Power of Regression Algorithms: Unlocking Insights through Data Analysis](https://dev.to/aditisharma132/unveiling-the-power-of-regression-algorithms-unlocking-insights-through-data-analysis-2jle)
 <!-- BLOG-POST-LIST:END -->
 
