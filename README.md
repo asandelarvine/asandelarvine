@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [No, you don’t need to test every line of your CDK application](https://dev.to/aws-heroes/no-you-dont-need-to-test-every-line-of-your-cdk-application-bh7)
 - [Building Web Applications: A Comprehensive Overview of Popular Stacks⬇️](https://dev.to/baraa/building-web-applications-a-comprehensive-overview-of-popular-stacks-26pd)
 - [GraphQL with NEXT JS](https://dev.to/shubhamtiwari909/graphql-with-next-js-59j8)
-- [What Are Your Best Tips For Interviewing?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-best-tips-for-interviewing-codenewbie-podcast-1jlj)
-- [Celebrating 10,000+ Stars on GitHub with an Exciting Giveaway!](https://dev.to/sauain/celebrating-10000-stars-on-github-with-an-exciting-giveaway-54hi)
+- [Demystifying Linux Architecture: Unravelling the Inner Workings of the Operating System](https://dev.to/codebyuwabor/demystifying-linux-architecture-unravelling-the-inner-workings-of-the-operating-system-1fjn)
 <!-- BLOG-POST-LIST:END -->
 
