@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Unlock the Power of AEM: How Custom Coding Can Transform Your Digital Experiences&quot; | Emmanuel Katto Uganda.](https://dev.to/emmanuelkatto/unlock-the-power-of-aem-how-custom-coding-can-transform-your-digital-experiences-emmanuel-katto-uganda-fgi)
+- [What is Web Application Security?](https://dev.to/kristiyan_velkov/what-is-web-application-security-4p4i)
 - [What is the PL-100 Exam? All You Need to Know.](https://dev.to/citizendevacad/what-is-the-pl-100-exam-all-you-need-to-know-1im6)
 - [Removing trailing space underlines from groups of anchor tags](https://dev.to/cassidoo/removing-trailing-space-underlines-from-groups-of-anchor-tags-54ib)
-- [Let&#39;s Post to Bluesky Social easily with Dart and Flutter](https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5)
-- [Implementing Dapr State Management in ASP.NET Core Web APIs](https://dev.to/willvelida/implementing-dapr-state-management-in-aspnet-core-web-apis-42lk)
 <!-- BLOG-POST-LIST:END -->
 
