@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DS_Store in git changes, why ?](https://dev.to/raviagheda/dsstore-in-git-changes-why--1cbn)
+- [Day 0: JavaScript Revision | The last REACT course you need](https://dev.to/vaib215/day-0-javascript-revision-the-last-react-course-you-need-4lh8)
 - [Top 10 Things You Should Add While Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/top-10-things-you-should-add-while-coding-valuable-tips-for-programmers-4m3n)
 - [How we built modular tab system with side by side view](https://dev.to/denislaca/how-we-built-modular-tab-system-with-side-by-side-view-4cmb)
-- [churn prediction in telecom industry using python](https://dev.to/liaqat_yusra/churn-prediction-in-telecom-industry-using-python-1359)
-- [Power of Web Components: Reusable and Customizable UI Elements 🚀🔥](https://dev.to/arjuncodess/power-of-web-components-reusable-and-customizable-ui-elements-245l)
 <!-- BLOG-POST-LIST:END -->
 
