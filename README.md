@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlock the Power of AEM: How Custom Coding Can Transform Your Digital Experiences&quot; | Emmanuel Katto Uganda.](https://dev.to/emmanuelkatto/unlock-the-power-of-aem-how-custom-coding-can-transform-your-digital-experiences-emmanuel-katto-uganda-fgi)
-- [What is Web Application Security?](https://dev.to/kristiyan_velkov/what-is-web-application-security-4p4i)
-- [What is the PL-100 Exam? All You Need to Know.](https://dev.to/citizendevacad/what-is-the-pl-100-exam-all-you-need-to-know-1im6)
-- [Removing trailing space underlines from groups of anchor tags](https://dev.to/cassidoo/removing-trailing-space-underlines-from-groups-of-anchor-tags-54ib)
+- [Sloan&#39;s Inbox: What Are Your Favorite Tags, Orgs, and Coding Challenges?](https://dev.to/devteam/sloans-inbox-what-are-your-favorite-tags-orgs-and-coding-challenges-jjm)
+- [Git for All Developers: Essential or Optional?](https://dev.to/devteam/git-for-all-developers-essential-or-optional-50ml)
+- [How Do You Master New Tech? Any Hacks for Faster Language Learning?](https://dev.to/codenewbieteam/how-do-you-master-new-tech-any-hacks-for-faster-language-learning-5f4o)
+- [GO: How to Write a Worker Pool](https://dev.to/justlorain/go-how-to-write-a-worker-pool-1h3b)
 <!-- BLOG-POST-LIST:END -->
 
