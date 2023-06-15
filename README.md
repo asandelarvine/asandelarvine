@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Web Applications: A Comprehensive Overview of Popular Stacks⬇️](https://dev.to/baraa/building-web-applications-a-comprehensive-overview-of-popular-stacks-26pd)
 - [GraphQL with NEXT JS](https://dev.to/shubhamtiwari909/graphql-with-next-js-59j8)
 - [What Are Your Best Tips For Interviewing?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-best-tips-for-interviewing-codenewbie-podcast-1jlj)
-- [Bootstrap with React: The Complete Guide](https://dev.to/alakkadshaw/bootstrap-with-react-the-complete-guide-5h0p)
-- [Moonly weekly progress update #53 - Upgraded Holder Verification Bot](https://dev.to/moonly/moonly-weekly-progress-update-53-upgraded-holder-verification-bot-3db8)
+- [Celebrating 10,000+ Stars on GitHub with an Exciting Giveaway!](https://dev.to/sauain/celebrating-10000-stars-on-github-with-an-exciting-giveaway-54hi)
 <!-- BLOG-POST-LIST:END -->
 
