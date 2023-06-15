@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Security?](https://dev.to/scofieldidehen/web3-security-3hek)
 - [What is the PL-100 Exam? All You Need to Know.](https://dev.to/citizendevacad/what-is-the-pl-100-exam-all-you-need-to-know-1im6)
 - [Removing trailing space underlines from groups of anchor tags](https://dev.to/cassidoo/removing-trailing-space-underlines-from-groups-of-anchor-tags-54ib)
 - [Let&#39;s Post to Bluesky Social easily with Dart and Flutter](https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5)
+- [Implementing Dapr State Management in ASP.NET Core Web APIs](https://dev.to/willvelida/implementing-dapr-state-management-in-aspnet-core-web-apis-42lk)
 <!-- BLOG-POST-LIST:END -->
 
