@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guia básico para adicionar eventos em Javascript e despertar a interatividade](https://dev.to/demenezes/guia-basico-para-adicionar-eventos-em-javascript-e-despertar-a-interatividade-4dfj)
+- [[PT-BR] - Entenda CORS e saiba lidar com os erros!](https://dev.to/carinebatista/entenda-cors-de-uma-vez-por-todas-4ef6)
+- [Considered Harmful - Domain Driven Design](https://dev.to/jarrodhroberson/considered-harmful-domain-driven-design-5508)
 - [AWS Redshift: Robust and Scalable Data Warehousing](https://dev.to/mage_ai/aws-redshift-robust-and-scalable-data-warehousing-26ep)
 - [Introduction to Amazon Detective](https://dev.to/jay_sheth/introduction-to-amazon-detective-289j)
-- [Good logging library for node.js?](https://dev.to/malezjaa/good-logging-library-for-nodejs-47kb)
 <!-- BLOG-POST-LIST:END -->
 
