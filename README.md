@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 AI tool that you should use as a developer](https://dev.to/hiader/6-ai-tool-that-you-should-use-as-a-developer-30k2)
+- [The Power of Memoization: A Deep Dive into useMemo, useCallback, and useEffect](https://dev.to/abomisr/the-power-of-memoization-a-deep-dive-into-usememo-usecallback-and-useeffect-3a84)
 - [No, you don’t need to test every line of your CDK application](https://dev.to/aws-heroes/no-you-dont-need-to-test-every-line-of-your-cdk-application-bh7)
 - [Building Web Applications: A Comprehensive Overview of Popular Stacks⬇️](https://dev.to/baraa/building-web-applications-a-comprehensive-overview-of-popular-stacks-26pd)
-- [GraphQL with NEXT JS](https://dev.to/shubhamtiwari909/graphql-with-next-js-59j8)
-- [Demystifying Linux Architecture: Unravelling the Inner Workings of the Operating System](https://dev.to/codebyuwabor/demystifying-linux-architecture-unravelling-the-inner-workings-of-the-operating-system-1fjn)
 <!-- BLOG-POST-LIST:END -->
 
