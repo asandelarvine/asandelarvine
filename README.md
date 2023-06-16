@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Clean Up Your Local Repository with Git Commands](https://dev.to/this-is-learning/how-to-clean-up-your-local-repository-with-git-commands-531o)
-- [How do you say... &quot;k8s&quot;?](https://dev.to/appmap/how-do-you-say-k8s-3mhb)
-- [A CONFUSION THAT COSTS](https://dev.to/aws-heroes/a-confusion-that-costs-3808)
-- [Serverspace new control panel design](https://dev.to/serverspace/serverspace-new-control-panel-design-2i05)
+- [Clustering Algorithms Demystified](https://dev.to/rajaniraiyn/clustering-algorithms-demystified-1ggi)
+- [FLaNK - LLM with Hyper](https://dev.to/tspannhw/flank-llm-with-hyper-5h11)
+- [A Comprehensive Overview and Types of APIs](https://dev.to/belgotech/a-comprehensive-overview-and-types-of-apis-416o)
+- [WordPress under the hood: the request lifecycle](https://dev.to/sarahcssiqueira/the-wordpress-request-lifecycle-45ie)
 <!-- BLOG-POST-LIST:END -->
 
