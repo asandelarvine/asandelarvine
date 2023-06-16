@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Firebase and React-Native: Private Message App](https://dev.to/colinah/learning-firebase-and-react-native-private-message-app-3n06)
+- [Stay Ahead: Exploring the Latest Web Development Trends 🚀🔥](https://dev.to/arjuncodess/stay-ahead-exploring-the-latest-web-development-trends-mb0)
 - [Password isn&#39;t dying](https://dev.to/logto/password-isnt-dying-2hh1)
 - [How I created my first ever web application](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
-- [Top Websites for FREE HTML &amp; CSS Templates in 2023](https://dev.to/baraa/top-websites-for-free-html-css-templates-in-2023-l85)
-- [The Ultimate Guide to Frontend Testing: Tips, Tools, and Best Practices](https://dev.to/josematoswork/the-ultimate-guide-to-frontend-testing-tips-tools-and-best-practices-pod)
 <!-- BLOG-POST-LIST:END -->
 
