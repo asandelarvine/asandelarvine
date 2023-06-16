@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solve: objects are not valid as a react child](https://dev.to/reactjsguru/solve-objects-are-not-valid-as-a-react-child-2336)
 - [Map Or Object with Computed Properties](https://dev.to/muhmmadawd/map-or-object-with-computed-properties-57nh)
 - [What the heck is Computed Properties in JavaScript](https://dev.to/muhmmadawd/what-the-heck-is-computed-properties-in-javascript-3aca)
 - [Clustering Algorithms Demystified](https://dev.to/rajaniraiyn/clustering-algorithms-demystified-1ggi)
-- [FLaNK - LLM with Hyper](https://dev.to/tspannhw/flank-llm-with-hyper-5h11)
 <!-- BLOG-POST-LIST:END -->
 
