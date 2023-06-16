@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you say... &quot;k8s&quot;?](https://dev.to/appmap/how-do-you-say-k8s-3mhb)
+- [Serverspace new control panel design](https://dev.to/serverspace/serverspace-new-control-panel-design-2i05)
 - [I built an Harry Potter⚡ API, so you dont have to](https://dev.to/acidop/i-built-an-harry-potter-api-so-you-dont-have-to-5an0)
 - [Details on Appium and It’s Architecture](https://dev.to/berthaw82414312/details-on-appium-and-its-architecture-47p2)
-- [Writing JSON to a file](https://dev.to/vincenttommi/writing-json-to-a-file-3hf4)
-- [Build an AI MicroSaaS App using a Low-Code Template Integrated with Stripe](https://dev.to/rowy/build-an-ai-microsaas-app-using-a-low-code-template-integrated-with-stripe-2m3f)
 <!-- BLOG-POST-LIST:END -->
 
