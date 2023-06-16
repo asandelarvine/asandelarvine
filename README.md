@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solve: objects are not valid as a react child](https://dev.to/reactjsguru/solve-objects-are-not-valid-as-a-react-child-2336)
-- [Map Or Object with Computed Properties](https://dev.to/muhmmadawd/map-or-object-with-computed-properties-57nh)
-- [What the heck is Computed Properties in JavaScript](https://dev.to/muhmmadawd/what-the-heck-is-computed-properties-in-javascript-3aca)
-- [Clustering Algorithms Demystified](https://dev.to/rajaniraiyn/clustering-algorithms-demystified-1ggi)
+- [Size and construction of R.O.V.E.R. and another feature of it](https://dev.to/gastonroger1/size-and-construction-of-rover-and-another-feature-of-it-5634)
+- [k-Means Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/k-means-clustering-algorithm-demystified-1c9m)
+- [Create React UI Lib: Component Library Speedrun](https://dev.to/topcat/create-react-ui-lib-component-library-speedrun-25bp)
+- [Learning Rust 🦀: 05- Your first Rust game: &quot;Guess The Number&quot;](https://dev.to/fadygrab/learning-rust-05-your-first-rust-game-guess-the-number-25dn)
 <!-- BLOG-POST-LIST:END -->
 
