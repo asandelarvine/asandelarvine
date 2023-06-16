@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 VS Code Extensions for React Developers](https://dev.to/kristiyan_velkov/top-10-vs-code-extensions-for-react-developers-5ggh)
 - [Learning Firebase and React-Native: Private Message App](https://dev.to/colinah/learning-firebase-and-react-native-private-message-app-3n06)
 - [Stay Ahead: Exploring the Latest Web Development Trends 🚀🔥](https://dev.to/arjuncodess/stay-ahead-exploring-the-latest-web-development-trends-mb0)
 - [Password isn&#39;t dying](https://dev.to/logto/password-isnt-dying-2hh1)
-- [How I created my first ever web application](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
 <!-- BLOG-POST-LIST:END -->
 
