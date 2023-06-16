@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I built an Harry Potter⚡ API, so you dont have to](https://dev.to/acidop/i-built-an-harry-potter-api-so-you-dont-have-to-5an0)
+- [Details on Appium and It’s Architecture](https://dev.to/berthaw82414312/details-on-appium-and-its-architecture-47p2)
 - [Writing JSON to a file](https://dev.to/vincenttommi/writing-json-to-a-file-3hf4)
 - [Build an AI MicroSaaS App using a Low-Code Template Integrated with Stripe](https://dev.to/rowy/build-an-ai-microsaas-app-using-a-low-code-template-integrated-with-stripe-2m3f)
-- [creating own RANDOM module](https://dev.to/coderatul/creating-own-random-module-42m1)
-- [5 Reasons Engineers do not use Webhook Gateways Yet](https://dev.to/convoy/5-reasons-engineers-do-not-use-webhook-gateways-yet-3m53)
 <!-- BLOG-POST-LIST:END -->
 
