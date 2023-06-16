@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Disrupting the AI Scene with Open Source and Open Innovation](https://dev.to/polterguy/disrupting-the-ai-scene-with-open-source-and-open-innovation-9hl)
-- [Do Code Comments Deserve a Special Spot or Can Well-Written Code Speak for Itself?](https://dev.to/devteam/do-code-comments-deserve-a-special-spot-or-can-well-written-code-speak-for-itself-16hm)
-- [New Language vs. Complex Requirements - What&#39;s Your Pick?](https://dev.to/codenewbieteam/new-language-vs-complex-requirements-whats-your-pick-4d7g)
-- [Create your own Snake Game🤩 with Javascript!](https://dev.to/codecraftjs/create-your-own-snake-game-with-javascript-36k0)
+- [How to secure public APIs in ASP.NET Core?](https://dev.to/ifourtechnolab/how-to-secure-public-apis-in-aspnet-core-h6a)
+- [What is a Man-in-the-Middle &lpar;MITM&rpar; Attack?](https://dev.to/shivamchamoli18/what-is-a-man-in-the-middle-mitm-attack-3g6m)
+- [Cronjob tutorial](https://dev.to/irishgeoff11/cronjob-tutorial-1eac)
+- [10 Containerization Best Practices to Keep in Mind](https://dev.to/dyrectorio/10-containerization-best-practices-to-keep-in-mind-j64)
 <!-- BLOG-POST-LIST:END -->
 
