@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Gemini: The Next Big Thing in AI Revolution](https://dev.to/thenomadevel/googles-gemini-the-next-big-thing-in-ai-revolution-17a4)
-- [The Complete Guide to Becoming a Web Developer: Part 1](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-1-4jje)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5345)
-- [Streamlining Design to Code Workflow: How I Created a Figma Plugin to Convert Designs into ReactJS Design System Components](https://dev.to/keno_reloaded/streamlining-design-to-code-workflow-how-i-created-a-figma-plugin-to-convert-designs-into-reactjs-design-system-components-537o)
+- [Writing JSON to a file](https://dev.to/vincenttommi/writing-json-to-a-file-3hf4)
+- [Build an AI MicroSaaS App using a Low-Code Template Integrated with Stripe](https://dev.to/rowy/build-an-ai-microsaas-app-using-a-low-code-template-integrated-with-stripe-2m3f)
+- [creating own RANDOM module](https://dev.to/coderatul/creating-own-random-module-42m1)
+- [5 Reasons Engineers do not use Webhook Gateways Yet](https://dev.to/convoy/5-reasons-engineers-do-not-use-webhook-gateways-yet-3m53)
 <!-- BLOG-POST-LIST:END -->
 
