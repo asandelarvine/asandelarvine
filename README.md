@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Map Or Object with Computed Properties](https://dev.to/muhmmadawd/map-or-object-with-computed-properties-57nh)
+- [What the heck is Computed Properties in JavaScript](https://dev.to/muhmmadawd/what-the-heck-is-computed-properties-in-javascript-3aca)
 - [Clustering Algorithms Demystified](https://dev.to/rajaniraiyn/clustering-algorithms-demystified-1ggi)
 - [FLaNK - LLM with Hyper](https://dev.to/tspannhw/flank-llm-with-hyper-5h11)
-- [A Comprehensive Overview and Types of APIs](https://dev.to/belgotech/a-comprehensive-overview-and-types-of-apis-416o)
-- [WordPress under the hood: the request lifecycle](https://dev.to/sarahcssiqueira/the-wordpress-request-lifecycle-45ie)
 <!-- BLOG-POST-LIST:END -->
 
