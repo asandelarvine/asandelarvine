@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Disrupting the AI Scene with Open Source and Open Innovation](https://dev.to/polterguy/disrupting-the-ai-scene-with-open-source-and-open-innovation-9hl)
 - [Do Code Comments Deserve a Special Spot or Can Well-Written Code Speak for Itself?](https://dev.to/devteam/do-code-comments-deserve-a-special-spot-or-can-well-written-code-speak-for-itself-16hm)
 - [New Language vs. Complex Requirements - What&#39;s Your Pick?](https://dev.to/codenewbieteam/new-language-vs-complex-requirements-whats-your-pick-4d7g)
 - [Create your own Snake Game🤩 with Javascript!](https://dev.to/codecraftjs/create-your-own-snake-game-with-javascript-36k0)
-- [Difference between Promises and Observables.](https://dev.to/manthanank/difference-between-promises-and-observables-380e)
 <!-- BLOG-POST-LIST:END -->
 
