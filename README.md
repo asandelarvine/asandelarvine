@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Medalhas do GitHub como conseguir ?](https://dev.to/doccaio/medalhas-do-github-como-conseguir--f7p)
 - [Visualize Real-Time Data With Python, Dash, and RisingWave](https://dev.to/bobur/visualize-real-time-data-with-python-dash-and-risingwave-33g0)
+- [#DEVDiscuss: When do I have a Minimum Viable Product &lpar;MVP&rpar;?](https://dev.to/devteam/devdiscuss-when-do-i-have-a-minimum-viable-product-mvp-4j41)
 - [Aumentando a eficiência da colaboração remota com o GitHub](https://dev.to/github/aumentando-a-eficiencia-da-colaboracao-remota-com-o-github-5gcj)
-- [The Reddit blackout is a lesson in risk management](https://dev.to/theaccordance/the-reddit-blackout-is-a-lesson-in-risk-k5e)
-- [Size and construction of R.O.V.E.R. and another feature of it](https://dev.to/gastonroger1/size-and-construction-of-rover-and-another-feature-of-it-5634)
 <!-- BLOG-POST-LIST:END -->
 
