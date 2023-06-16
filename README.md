@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Websites for FREE HTML &amp; CSS Templates in 2023](https://dev.to/baraa/top-websites-for-free-html-css-templates-in-2023-l85)
+- [The Ultimate Guide to Frontend Testing: Tips, Tools, and Best Practices](https://dev.to/josematoswork/the-ultimate-guide-to-frontend-testing-tips-tools-and-best-practices-pod)
 - [Por que você não deve desistir de se tornar um desenvolvedor&lpar;a&rpar;: uma jornada de 💻código,☕café e 😁memes.](https://dev.to/diegoreports/por-que-voce-nao-deve-desistir-de-se-tornar-um-desenvolvedora-uma-jornada-de-codigocafe-e-memes-2k7p)
 - [Healthcare’s Digital Accessibility Problem](https://dev.to/linearb/healthcares-digital-accessibility-problem-a46)
-- [What are facades and how to use it on ruby](https://dev.to/cherryramatis/what-are-facades-and-how-to-use-it-on-ruby-5h3h)
-- [JavaScript localStorage: The complete guide](https://dev.to/alakkadshaw/javascript-localstorage-the-complete-guide-5a9a)
 <!-- BLOG-POST-LIST:END -->
 
