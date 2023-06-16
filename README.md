@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Clean Up Your Local Repository with Git Commands](https://dev.to/this-is-learning/how-to-clean-up-your-local-repository-with-git-commands-531o)
 - [How do you say... &quot;k8s&quot;?](https://dev.to/appmap/how-do-you-say-k8s-3mhb)
+- [A CONFUSION THAT COSTS](https://dev.to/aws-heroes/a-confusion-that-costs-3808)
 - [Serverspace new control panel design](https://dev.to/serverspace/serverspace-new-control-panel-design-2i05)
-- [I built an Harry Potter⚡ API, so you dont have to](https://dev.to/acidop/i-built-an-harry-potter-api-so-you-dont-have-to-5an0)
-- [Details on Appium and It’s Architecture](https://dev.to/berthaw82414312/details-on-appium-and-its-architecture-47p2)
 <!-- BLOG-POST-LIST:END -->
 
