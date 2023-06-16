@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualize Real-Time Data With Python, Dash, and RisingWave](https://dev.to/bobur/visualize-real-time-data-with-python-dash-and-risingwave-33g0)
+- [Aumentando a eficiência da colaboração remota com o GitHub](https://dev.to/github/aumentando-a-eficiencia-da-colaboracao-remota-com-o-github-5gcj)
+- [The Reddit blackout is a lesson in risk management](https://dev.to/theaccordance/the-reddit-blackout-is-a-lesson-in-risk-k5e)
 - [Size and construction of R.O.V.E.R. and another feature of it](https://dev.to/gastonroger1/size-and-construction-of-rover-and-another-feature-of-it-5634)
-- [k-Means Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/k-means-clustering-algorithm-demystified-1c9m)
-- [Create React UI Lib: Component Library Speedrun](https://dev.to/topcat/create-react-ui-lib-component-library-speedrun-25bp)
-- [Learning Rust 🦀: 05- Your first Rust game: &quot;Guess The Number&quot;](https://dev.to/fadygrab/learning-rust-05-your-first-rust-game-guess-the-number-25dn)
 <!-- BLOG-POST-LIST:END -->
 
