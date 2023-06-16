@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Friends, Followers, and Readers](https://dev.to/ota200/dear-friends-followers-and-readers-242b)
+- [Technical Writing 101: Technical Ultimate Guide](https://dev.to/njenga98/technical-writing-101-technical-ultimate-guide-54c3)
+- [ReturnType in TypeScript: Enhancing Readability and Maintainability](https://dev.to/ruben_alapont/returntype-in-typescript-enhancing-readability-and-maintainability-2ki5)
 - [How AppMap&#39;s runtime analysis finds performance and security flaws](https://dev.to/appmap/how-appmaps-runtime-analysis-finds-performance-and-security-flaws-4p0k)
-- [Medalhas do GitHub como conseguir ?](https://dev.to/doccaio/medalhas-do-github-como-conseguir--f7p)
-- [Visualize Real-Time Data With Python, Dash, and RisingWave](https://dev.to/bobur/visualize-real-time-data-with-python-dash-and-risingwave-33g0)
-- [#DEVDiscuss: When do I have a Minimum Viable Product &lpar;MVP&rpar;?](https://dev.to/devteam/devdiscuss-when-do-i-have-a-minimum-viable-product-mvp-4j41)
 <!-- BLOG-POST-LIST:END -->
 
