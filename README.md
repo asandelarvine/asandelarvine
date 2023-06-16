@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your own Snake Game🤩 with Javascript!](https://dev.to/codecraftjs/create-your-own-snake-game-with-javascript-36k0)
+- [Difference between Promises and Observables.](https://dev.to/manthanank/difference-between-promises-and-observables-380e)
 - [Top 10 VS Code Extensions for React Developers](https://dev.to/kristiyan_velkov/top-10-vs-code-extensions-for-react-developers-5ggh)
 - [Learning Firebase and React-Native: Private Message App](https://dev.to/colinah/learning-firebase-and-react-native-private-message-app-3n06)
-- [Stay Ahead: Exploring the Latest Web Development Trends 🚀🔥](https://dev.to/arjuncodess/stay-ahead-exploring-the-latest-web-development-trends-mb0)
-- [Password isn&#39;t dying](https://dev.to/logto/password-isnt-dying-2hh1)
 <!-- BLOG-POST-LIST:END -->
 
