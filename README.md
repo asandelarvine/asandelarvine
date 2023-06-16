@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How AppMap&#39;s runtime analysis finds performance and security flaws](https://dev.to/appmap/how-appmaps-runtime-analysis-finds-performance-and-security-flaws-4p0k)
 - [Medalhas do GitHub como conseguir ?](https://dev.to/doccaio/medalhas-do-github-como-conseguir--f7p)
 - [Visualize Real-Time Data With Python, Dash, and RisingWave](https://dev.to/bobur/visualize-real-time-data-with-python-dash-and-risingwave-33g0)
 - [#DEVDiscuss: When do I have a Minimum Viable Product &lpar;MVP&rpar;?](https://dev.to/devteam/devdiscuss-when-do-i-have-a-minimum-viable-product-mvp-4j41)
-- [Aumentando a eficiência da colaboração remota com o GitHub](https://dev.to/github/aumentando-a-eficiencia-da-colaboracao-remota-com-o-github-5gcj)
 <!-- BLOG-POST-LIST:END -->
 
