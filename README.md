@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Answer: Multiple Passport LocalStrategies](https://dev.to/mustafacam/answer-multiple-passport-localstrategies-42da)
+- [What if I had to learn web development again? What would be my journey?](https://dev.to/davidofug/what-if-i-had-to-learn-web-development-again-what-would-be-my-journey-hcm)
 - [The What, Why, and How of an Agile Sprint Planning](https://dev.to/hatica/the-what-why-and-how-of-an-agile-sprint-planning-53e0)
 - [Encrypt your Local Storage data!](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-21e5)
-- [Difference between Dimension and Fact tables in SQL](https://dev.to/kellyblaire/difference-between-dimension-and-fact-tables-in-sql-4914)
 <!-- BLOG-POST-LIST:END -->
 
