@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Learn Django #4 Using templates &amp; static files](https://dev.to/dilutewater/lets-learn-django-4-using-templates-static-files-15c9)
+- [Leveling Up Your Git Skills: Game-Inspired Guide to Git Commands](https://dev.to/uttarasriya/leveling-up-your-git-skills-game-inspired-guide-to-git-commands-36gl)
 - [Modeling Facebook Groups Access Management](https://dev.to/permify/modeling-facebook-groups-access-management-27kg)
 - [Javascript Objects: Best Practices](https://dev.to/codecraftjs/javascript-objects-best-practices-gjo)
-- [Design for failure by using Dead Letter Queues &lpar;DLQ&rpar;](https://dev.to/ctaverna/design-for-failure-by-using-dead-letter-queues-dlq-2g65)
-- [RPG Based Browser Game](https://dev.to/anradev/rpg-based-browser-game-237b)
 <!-- BLOG-POST-LIST:END -->
 
