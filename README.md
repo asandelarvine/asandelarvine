@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to Break from forEach in JavaScript?](https://dev.to/mayallo/how-to-break-from-foreach-in-javascript-24mm)
 - [Create s3 Bucket with Terraform](https://dev.to/ashraf-minhaj/create-s3-bucket-with-terraform-1o7h)
+- [Mastering Semantic HTML: A Guide to Improve Web Development and SEO](https://dev.to/meetmarvelous/mastering-semantic-html-a-guide-to-improve-web-development-and-seo-4jma)
 - [Float UI: The Tailwind UI Alternative for Building Beautiful Web Interfaces](https://dev.to/sididev/float-ui-the-tailwind-ui-alternative-for-building-beautiful-web-interfaces-4ml0)
-- [Dear Friends, Followers, and Readers](https://dev.to/ota200/dear-friends-followers-and-readers-242b)
 <!-- BLOG-POST-LIST:END -->
 
