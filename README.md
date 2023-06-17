@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing EvPay: The Powerful Payment Gateway from Evmak](https://dev.to/alphaolomi/introducing-evpay-the-powerful-payment-gateway-from-evmak-4b9k)
-- [DBSCAN Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/dbscan-clustering-algorithm-demystified-1d5o)
-- [🐍🎩 Welcome to the Magical World of Python Automation! 🎩🐍](https://dev.to/jmgb27/welcome-to-the-magical-world-of-python-automation-116a)
-- [How to build a markdown editor in two minutes &lpar;with GitHub Copilot&rpar;](https://dev.to/github/how-to-build-a-markdown-editor-in-two-minutes-with-github-copilot-khb)
+- [Add ConfigCat to Next.js App](https://dev.to/mmcclure11/add-configcat-to-nextjs-app-1kk1)
+- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-23d0)
+- [GraphQL for Beginners](https://dev.to/ryosuke/graphql-for-beginners-11m9)
+- [&lt;pride-flag&gt; Web Component](https://dev.to/dannyengelman/web-component-19dl)
 <!-- BLOG-POST-LIST:END -->
 
