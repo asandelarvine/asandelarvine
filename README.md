@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Modeling Facebook Groups Access Management](https://dev.to/permify/modeling-facebook-groups-access-management-27kg)
 - [Javascript Objects: Best Practices](https://dev.to/codecraftjs/javascript-objects-best-practices-gjo)
+- [Design for failure by using Dead Letter Queues &lpar;DLQ&rpar;](https://dev.to/ctaverna/design-for-failure-by-using-dead-letter-queues-dlq-2g65)
 - [RPG Based Browser Game](https://dev.to/anradev/rpg-based-browser-game-237b)
-- [Best Software Tools for Remote Teams](https://dev.to/elliot_brenya/best-software-tools-for-remote-teams-3a1a)
-- [How to Install Java JDK 17 on Windows 10](https://dev.to/realnamehidden1_61/how-to-install-java-jdk-17-on-windows-10-5b0d)
 <!-- BLOG-POST-LIST:END -->
 
