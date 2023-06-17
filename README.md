@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Introducing EvPay: The Powerful Payment Gateway from Evmak](https://dev.to/alphaolomi/introducing-evpay-the-powerful-payment-gateway-from-evmak-4b9k)
 - [DBSCAN Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/dbscan-clustering-algorithm-demystified-1d5o)
+- [🐍🎩 Welcome to the Magical World of Python Automation! 🎩🐍](https://dev.to/jmgb27/welcome-to-the-magical-world-of-python-automation-116a)
 - [How to build a markdown editor in two minutes &lpar;with GitHub Copilot&rpar;](https://dev.to/github/how-to-build-a-markdown-editor-in-two-minutes-with-github-copilot-khb)
-- [Answer: Multiple Passport LocalStrategies](https://dev.to/mustafacam/answer-multiple-passport-localstrategies-42da)
 <!-- BLOG-POST-LIST:END -->
 
