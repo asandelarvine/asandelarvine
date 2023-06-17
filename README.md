@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Dimension and Fact tables in SQL](https://dev.to/kellyblaire/difference-between-dimension-and-fact-tables-in-sql-4914)
 - [How to Get Free Software Product Keys From Bard 💯](https://dev.to/elliot_brenya/how-to-get-free-software-product-keys-from-bard-15pb)
 - [Build a Serverless Application for Image Label Detection](https://dev.to/abhirockzz/build-a-serverless-application-for-image-label-detection-26pb)
 - [Top 10 Backend Development Mistakes to Avoid](https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86)
-- [Can you answer these Javascript questions ?&lpar;Part 1&rpar;](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
 <!-- BLOG-POST-LIST:END -->
 
