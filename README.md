@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Objects: Best Practices](https://dev.to/codecraftjs/javascript-objects-best-practices-gjo)
 - [RPG Based Browser Game](https://dev.to/anradev/rpg-based-browser-game-237b)
 - [Best Software Tools for Remote Teams](https://dev.to/elliot_brenya/best-software-tools-for-remote-teams-3a1a)
 - [How to Install Java JDK 17 on Windows 10](https://dev.to/realnamehidden1_61/how-to-install-java-jdk-17-on-windows-10-5b0d)
-- [React Ecosystem in 2023.](https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4)
 <!-- BLOG-POST-LIST:END -->
 
