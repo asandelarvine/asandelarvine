@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Backend Development Mistakes to Avoid](https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86)
+- [Can you answer these Javascript questions ?&lpar;Part 1&rpar;](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
+- [Rubyday 2023 - A great come back!](https://dev.to/coorasse/rubyday-2023-a-great-come-back-15am)
 - [Let&#39;s Learn Django #4 Using templates &amp; static files](https://dev.to/dilutewater/lets-learn-django-4-using-templates-static-files-15c9)
-- [Leveling Up Your Git Skills: Game-Inspired Guide to Git Commands](https://dev.to/uttarasriya/leveling-up-your-git-skills-game-inspired-guide-to-git-commands-36gl)
-- [Modeling Facebook Groups Access Management](https://dev.to/permify/modeling-facebook-groups-access-management-27kg)
-- [Javascript Objects: Best Practices](https://dev.to/codecraftjs/javascript-objects-best-practices-gjo)
 <!-- BLOG-POST-LIST:END -->
 
