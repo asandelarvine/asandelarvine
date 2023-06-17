@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Break from forEach in JavaScript?](https://dev.to/mayallo/how-to-break-from-foreach-in-javascript-24mm)
-- [Create s3 Bucket with Terraform](https://dev.to/ashraf-minhaj/create-s3-bucket-with-terraform-1o7h)
-- [Mastering Semantic HTML: A Guide to Improve Web Development and SEO](https://dev.to/meetmarvelous/mastering-semantic-html-a-guide-to-improve-web-development-and-seo-4jma)
-- [Float UI: The Tailwind UI Alternative for Building Beautiful Web Interfaces](https://dev.to/sididev/float-ui-the-tailwind-ui-alternative-for-building-beautiful-web-interfaces-4ml0)
+- [Coding as Magic: What Would You Wish For? 🔮✨](https://dev.to/codenewbieteam/coding-as-magic-what-would-you-wish-for-5751)
+- [What&#39;s the Craziest Variable or Function Name You&#39;ve Encountered?](https://dev.to/devteam/whats-the-craziest-variable-or-function-name-youve-encountered-101k)
+- [Liman MYS Loadbalance](https://dev.to/aciklab/liman-mys-loadbalance-g1f)
+- [The Complexity of Front-End Development: Demystifying the Notion of Simplicity](https://dev.to/kristiyan_velkov/the-complexity-of-front-end-development-demystifying-the-notion-of-simplicity-3gei)
 <!-- BLOG-POST-LIST:END -->
 
