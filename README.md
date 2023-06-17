@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing EvPay: The Powerful Payment Gateway from Evmak](https://dev.to/alphaolomi/introducing-evpay-the-powerful-payment-gateway-from-evmak-4b9k)
+- [DBSCAN Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/dbscan-clustering-algorithm-demystified-1d5o)
+- [How to build a markdown editor in two minutes &lpar;with GitHub Copilot&rpar;](https://dev.to/github/how-to-build-a-markdown-editor-in-two-minutes-with-github-copilot-khb)
 - [Answer: Multiple Passport LocalStrategies](https://dev.to/mustafacam/answer-multiple-passport-localstrategies-42da)
-- [What if I had to learn web development again? What would be my journey?](https://dev.to/davidofug/what-if-i-had-to-learn-web-development-again-what-would-be-my-journey-hcm)
-- [The What, Why, and How of an Agile Sprint Planning](https://dev.to/hatica/the-what-why-and-how-of-an-agile-sprint-planning-53e0)
-- [Encrypt your Local Storage data!](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
 <!-- BLOG-POST-LIST:END -->
 
