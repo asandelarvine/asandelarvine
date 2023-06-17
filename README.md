@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding as Magic: What Would You Wish For? 🔮✨](https://dev.to/codenewbieteam/coding-as-magic-what-would-you-wish-for-5751)
-- [What&#39;s the Craziest Variable or Function Name You&#39;ve Encountered?](https://dev.to/devteam/whats-the-craziest-variable-or-function-name-youve-encountered-101k)
-- [Liman MYS Loadbalance](https://dev.to/aciklab/liman-mys-loadbalance-g1f)
-- [The Complexity of Front-End Development: Demystifying the Notion of Simplicity](https://dev.to/kristiyan_velkov/the-complexity-of-front-end-development-demystifying-the-notion-of-simplicity-3gei)
+- [RPG Based Browser Game](https://dev.to/anradev/rpg-based-browser-game-237b)
+- [Best Software Tools for Remote Teams](https://dev.to/elliot_brenya/best-software-tools-for-remote-teams-3a1a)
+- [How to Install Java JDK 17 on Windows 10](https://dev.to/realnamehidden1_61/how-to-install-java-jdk-17-on-windows-10-5b0d)
+- [React Ecosystem in 2023.](https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4)
 <!-- BLOG-POST-LIST:END -->
 
