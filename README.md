@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Mindmapping: The Underrated Skill for Success in Life and Software Development](https://dev.to/jagroop2000/mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi)
 - [Mastering the Art of CSS: Unveiling 5 Advanced Techniques for Web Design Wizards](https://dev.to/gloscode/mastering-the-art-of-css-unveiling-5-advanced-techniques-for-web-design-wizards-33le)
 - [The Long Road from Tester to Test Architect: A Journey of Continuous Learning](https://dev.to/petermilovcik/the-long-road-from-tester-to-test-architect-a-journey-of-continuous-learning-dh3)
-- [Is Traditional Coding Worthwhile in the Era of Low-Code and No-Code Platforms?](https://dev.to/codenewbieteam/is-traditional-coding-worthwhile-in-the-era-of-low-code-and-no-code-platforms-41gd)
+- [Open Source or Personal Focus: What&#39;s the Best Path for Developers?](https://dev.to/devteam/open-source-or-personal-focus-whats-the-best-path-for-developers-7n1)
 <!-- BLOG-POST-LIST:END -->
 
