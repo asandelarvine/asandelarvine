@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GMM Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/gmm-clustering-algorithm-demystified-fpb)
+- [Yet Another Newsletter LOL: AI and Pandas](https://dev.to/nickytonline/yet-another-newsletter-lol-ai-and-pandas-1m0d)
 - [Create, Push, and Present Any View Controller in 1 LOC using Metaprogramming](https://dev.to/ivangoremykin/create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d)
 - [Mastering MultiIndexes in Pandas: A Powerful Tool for Complex Data Analysis](https://dev.to/glennviroux/mastering-multiindexes-in-pandas-a-powerful-tool-for-complex-data-analysis-4lkf)
-- [Integrate Nodemailer with React.js](https://dev.to/scofieldidehen/integrate-nodemailer-with-reactjs-4ioi)
-- [💻ES6 tutorial: template literal in javascript](https://dev.to/rafikadir/es6-tutorial-template-literal-in-javascript-84p)
 <!-- BLOG-POST-LIST:END -->
 
