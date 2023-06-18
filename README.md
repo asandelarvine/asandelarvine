@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Traditional Coding Worthwhile in the Era of Low-Code and No-Code Platforms?](https://dev.to/codenewbieteam/is-traditional-coding-worthwhile-in-the-era-of-low-code-and-no-code-platforms-41gd)
+- [Open Source or Personal Focus: What&#39;s the Best Path for Developers?](https://dev.to/devteam/open-source-or-personal-focus-whats-the-best-path-for-developers-7n1)
+- [Part 4: Writing Clean and Efficient React Code- Best Practices and Optimization Techniques](https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d)
 - [React JS - Naming convention](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
-- [Dockerizing Spring Boot 3 Application](https://dev.to/realnamehidden1_61/dockerizing-spring-boot-3-application-4eng)
-- [Exploring Caching with NestJS and Redis](https://dev.to/fikkyman1/exploring-caching-with-nestjs-and-redis-56aj)
-- [Dynamic SVG images using Next.js](https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f)
 <!-- BLOG-POST-LIST:END -->
 
