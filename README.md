@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [It depends! Exploring my favourite Renovate features for dependency updates](https://dev.to/kalabro/it-depends-exploring-my-favourite-renovate-features-for-dependency-updates-3j5a)
+- [What is Docker ? 🧐](https://dev.to/roshdiraed/what-is-docker--52d0)
 - [Angular HttpClient: A Comprehensive Guide](https://dev.to/josematoswork/angular-httpclient-a-comprehensive-guide-2gnm)
-- [Mindmapping: The Underrated Skill for Success in Life and Software Development](https://dev.to/jagroop2000/mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi)
-- [Mastering the Art of CSS: Unveiling 5 Advanced Techniques for Web Design Wizards](https://dev.to/gloscode/mastering-the-art-of-css-unveiling-5-advanced-techniques-for-web-design-wizards-33le)
-- [The Long Road from Tester to Test Architect: A Journey of Continuous Learning](https://dev.to/petermilovcik/the-long-road-from-tester-to-test-architect-a-journey-of-continuous-learning-dh3)
+- [Validate TypeScript CDK stack with Zod](https://dev.to/aws-builders/validate-typescript-cdk-stack-with-zod-2gch)
 <!-- BLOG-POST-LIST:END -->
 
