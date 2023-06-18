@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [After Solving 400 Leetcode questions, Here are five things that I have learned](https://dev.to/durgesh4993/after-solving-400-leetcode-questions-here-are-five-things-that-i-have-learned-c60)
-- [It depends! Exploring my favourite Renovate features for dependency updates](https://dev.to/kalabro/it-depends-exploring-my-favourite-renovate-features-for-dependency-updates-3j5a)
-- [What is Docker ? 🧐](https://dev.to/roshdiraed/what-is-docker--52d0)
-- [Happiness is ... 🙂](https://dev.to/alexhyettdev/happiness-is--f80)
+- [How well should I know React before applying to my first job?](https://dev.to/scastiel/how-well-should-i-know-react-before-applying-to-my-first-job-3dmm)
+- [Errors Received When Migrating Next.js 13 to New App Folder](https://dev.to/perssondennis/errors-received-when-migrating-nextjs-13-to-new-app-folder-1of5)
+- [Beginner&#39;s Guide to Node Mailer with Node.js](https://dev.to/scofieldidehen/beginners-guide-to-node-mailer-with-nodejs-4a0d)
+- [Lambda Extension with Golang](https://dev.to/aws-builders/lambda-extension-with-golang-35a9)
 <!-- BLOG-POST-LIST:END -->
 
