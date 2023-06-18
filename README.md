@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [If more than half of your commits are “feat” ones, you&#39;re doing something wrong](https://dev.to/noriller/if-more-than-half-of-your-commits-are-feat-ones-youre-doing-something-wrong-m7j)
+- [Creating an &quot;Install to Home Screen&quot; Prompt in a Next.js Progressive Web App](https://dev.to/designly/creating-an-install-to-home-screen-prompt-in-a-nextjs-progressive-web-app-2o1)
 - [React Modal: A Step-by-Step Tutorial Even Your Grandma Can Follow! ;&rpar;](https://dev.to/jitskedh/react-modal-a-step-by-step-tutorial-even-your-grandma-can-follow--20nm)
 - [GMM Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/gmm-clustering-algorithm-demystified-fpb)
-- [Yet Another Newsletter LOL: AI and Pandas](https://dev.to/nickytonline/yet-another-newsletter-lol-ai-and-pandas-1m0d)
 <!-- BLOG-POST-LIST:END -->
 
