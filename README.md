@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Caching with NestJS and Redis](https://dev.to/fikkyman1/exploring-caching-with-nestjs-and-redis-56aj)
+- [Dynamic SVG images using Next.js](https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f)
+- [Exploring the Creative Potential of Large Language Models](https://dev.to/nneka_onochie/exploring-the-creative-potential-of-large-language-models-26en)
 - [Add ConfigCat to Next.js App](https://dev.to/mmcclure11/add-configcat-to-nextjs-app-1kk1)
-- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-23d0)
-- [GraphQL for Beginners](https://dev.to/ryosuke/graphql-for-beginners-11m9)
-- [&lt;pride-flag&gt; Web Component](https://dev.to/dannyengelman/web-component-19dl)
 <!-- BLOG-POST-LIST:END -->
 
