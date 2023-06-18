@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React JS - Naming convention](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
+- [Dockerizing Spring Boot 3 Application](https://dev.to/realnamehidden1_61/dockerizing-spring-boot-3-application-4eng)
 - [Exploring Caching with NestJS and Redis](https://dev.to/fikkyman1/exploring-caching-with-nestjs-and-redis-56aj)
 - [Dynamic SVG images using Next.js](https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f)
-- [Exploring the Creative Potential of Large Language Models](https://dev.to/nneka_onochie/exploring-the-creative-potential-of-large-language-models-26en)
-- [Add ConfigCat to Next.js App](https://dev.to/mmcclure11/add-configcat-to-nextjs-app-1kk1)
 <!-- BLOG-POST-LIST:END -->
 
