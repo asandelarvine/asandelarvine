@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrate Nodemailer with React.js](https://dev.to/scofieldidehen/integrate-nodemailer-with-reactjs-4ioi)
+- [💻ES6 tutorial: template literal in javascript](https://dev.to/rafikadir/es6-tutorial-template-literal-in-javascript-84p)
+- [React Server Model &lpar;RSM&rpar; v0.3.0 is released!](https://dev.to/jason89521/react-server-model-rsm-v030-is-released-4pk8)
 - [How well should I know React before applying to my first job?](https://dev.to/scastiel/how-well-should-i-know-react-before-applying-to-my-first-job-3dmm)
-- [Errors Received When Migrating Next.js 13 to New App Folder](https://dev.to/perssondennis/errors-received-when-migrating-nextjs-13-to-new-app-folder-1of5)
-- [Beginner&#39;s Guide to Node Mailer with Node.js](https://dev.to/scofieldidehen/beginners-guide-to-node-mailer-with-nodejs-4a0d)
-- [Lambda Extension with Golang](https://dev.to/aws-builders/lambda-extension-with-golang-35a9)
 <!-- BLOG-POST-LIST:END -->
 
