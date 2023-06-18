@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [After Solving 400 Leetcode questions, Here are five things that I have learned](https://dev.to/durgesh4993/after-solving-400-leetcode-questions-here-are-five-things-that-i-have-learned-c60)
 - [It depends! Exploring my favourite Renovate features for dependency updates](https://dev.to/kalabro/it-depends-exploring-my-favourite-renovate-features-for-dependency-updates-3j5a)
 - [What is Docker ? 🧐](https://dev.to/roshdiraed/what-is-docker--52d0)
-- [Angular HttpClient: A Comprehensive Guide](https://dev.to/josematoswork/angular-httpclient-a-comprehensive-guide-2gnm)
-- [Validate TypeScript CDK stack with Zod](https://dev.to/aws-builders/validate-typescript-cdk-stack-with-zod-2gch)
+- [Happiness is ... 🙂](https://dev.to/alexhyettdev/happiness-is--f80)
 <!-- BLOG-POST-LIST:END -->
 
