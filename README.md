@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Social Media ROI: Key Metrics to Measure Success](https://dev.to/digitalverse12/understanding-social-media-roi-key-metrics-to-measure-success-on5)
+- [Como criar uma estrutura eficiente de documentação](https://dev.to/biosbug/como-criar-uma-estrutura-eficiente-de-documentacao-19k0)
 - [New .NET 8 Features Coming! 8 Must-Know Improvements](https://dev.to/bytehide/new-net-8-features-coming-8-must-know-improvements-513k)
 - [Your Magic PowerKit To Understand Anyone On The Earth](https://dev.to/sturdybusiness/your-magic-powerkit-to-understand-anyone-on-the-earth-1dlc)
-- [4 Steps to Get Leads and Conversions for Your Business](https://dev.to/sturdybusiness/4-steps-to-get-leads-and-conversions-for-your-business-4l2j)
-- [Consumer ideas](https://dev.to/falcosan/consumer-ideas-3ah1)
 <!-- BLOG-POST-LIST:END -->
 
