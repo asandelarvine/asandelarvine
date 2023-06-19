@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering CSS Shorthand Properties: Tips and Tricks for Streamlining Your Code](https://dev.to/roktim32/mastering-css-shorthand-properties-tips-and-tricks-for-streamlining-your-code-ld4)
+- [celebrating over 1000 followers on dev](https://dev.to/coderatul/celebrating-over-1000-followers-on-dev-276a)
 - [Emojies - for your next post 😍](https://dev.to/kristiyan_velkov/emojies-for-your-next-article-290a)
 - [Exploring the Capabilities of Amazon API Gateway: A Complete Overview](https://dev.to/brandondamue/exploring-the-capabilities-of-amazon-api-gateway-a-complete-overview-178f)
-- [DevHunt, Best way to promote your Dev Tool or Open Source project](https://dev.to/johnrushx/devhunt-best-way-to-promote-your-dev-tool-or-open-source-project-11l4)
-- [10 Metrics you should track to optimise your system](https://dev.to/pragyanatvade/10-metrics-you-should-track-to-optimise-your-system-25o5)
 <!-- BLOG-POST-LIST:END -->
 
