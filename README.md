@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made Software News Wallpaper in pure GO!](https://dev.to/norflin321/i-made-software-news-wallpaper-in-pure-go-244g)
-- [5 Things I Learned while Building SaaS-Based Product](https://dev.to/ahmadswalih/5-things-i-learned-while-building-saas-based-product-1kh7)
-- [AHC Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/ahc-clustering-algorithm-demystified-4lg3)
-- [How to Create and Test an API in Laravel](https://dev.to/kinsta/how-to-create-and-test-an-api-in-laravel-2f37)
+- [Ace the &quot; Where do you see yourself in five years&quot; question in your next interview.](https://dev.to/martinkr/ace-the-where-do-you-see-yourself-in-five-years-question-in-your-next-interview-33g7)
+- [Node.js and TypeScript Tutorial: Build a rest API with Typescript, NodeJS, and a file-based storage system.](https://dev.to/realsteveig/nodejs-and-typescript-tutorial-build-a-rest-api-with-typescript-nodejs-and-a-file-based-storage-system-2l61)
+- [Introducing Westernal: A social media based on songs &lpar;part 2&rpar;](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-part-2-ejl)
+- [Using GitHub Discussions to host my Astro blog comments and reactions](https://dev.to/thomasledoux1/using-github-discussions-to-host-my-astro-blog-comments-and-reactions-3736)
 <!-- BLOG-POST-LIST:END -->
 
