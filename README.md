@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Shorthand Properties: Tips and Tricks for Streamlining Your Code](https://dev.to/roktim32/mastering-css-shorthand-properties-tips-and-tricks-for-streamlining-your-code-ld4)
-- [celebrating over 1000 followers on dev](https://dev.to/coderatul/celebrating-over-1000-followers-on-dev-276a)
-- [Emojies - for your next post 😍](https://dev.to/kristiyan_velkov/emojies-for-your-next-article-290a)
-- [Exploring the Capabilities of Amazon API Gateway: A Complete Overview](https://dev.to/brandondamue/exploring-the-capabilities-of-amazon-api-gateway-a-complete-overview-178f)
+- [📢 Uplifting Black Technologists: Spotlight on CODE2040](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-code2040-56o3)
+- [Honoring Juneteenth: Reflecting on History &amp; Empowering Change](https://dev.to/devteam/honoring-juneteenth-reflecting-on-history-empowering-change-2ang)
+- [Reimagining the Programming Industry: What Would You Change and Why?](https://dev.to/devteam/reimagining-the-programming-industry-what-would-you-change-and-why-2ld2)
+- [What&#39;s the Deal with OOP?](https://dev.to/codenewbieteam/whats-the-deal-with-oop-29eh)
 <!-- BLOG-POST-LIST:END -->
 
