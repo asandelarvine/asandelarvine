@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Launch Your Open Source Product in Just 3 Weeks &lpar;And Only Spend $10!&rpar;](https://dev.to/johnrushx/how-to-launch-your-open-source-product-in-just-3-weeks-and-only-spend-10-213c)
+- [Streamlining Frontend Testing: A Comprehensive Guide to the Best Tools](https://dev.to/josematoswork/streamlining-frontend-testing-a-comprehensive-guide-to-the-best-tools-ic)
+- [Is Your Community Accessible?](https://dev.to/colabottles/is-your-community-accessible-464b)
 - [If more than half of your commits are “feat” ones, you&#39;re doing something wrong](https://dev.to/noriller/if-more-than-half-of-your-commits-are-feat-ones-youre-doing-something-wrong-m7j)
-- [Creating an &quot;Install to Home Screen&quot; Prompt in a Next.js Progressive Web App](https://dev.to/designly/creating-an-install-to-home-screen-prompt-in-a-nextjs-progressive-web-app-2o1)
-- [React Modal: A Step-by-Step Tutorial Even Your Grandma Can Follow! ;&rpar;](https://dev.to/jitskedh/react-modal-a-step-by-step-tutorial-even-your-grandma-can-follow--20nm)
-- [GMM Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/gmm-clustering-algorithm-demystified-fpb)
 <!-- BLOG-POST-LIST:END -->
 
