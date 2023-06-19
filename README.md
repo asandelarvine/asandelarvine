@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 Uplifting Black Technologists: Spotlight on CODE2040](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-code2040-56o3)
+- [Weekly Roundup &lpar;Jun 12&rpar; - 🔥Hot Topics🔥 in workplace, sharepoint, and powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-12-hot-topics-in-workplace-sharepoint-and-powerplatform-4d1d)
+- [AWS open source newsletter, #161](https://dev.to/aws/aws-open-source-newsletter-161-59d8)
+- [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk)
 - [Honoring Juneteenth: Reflecting on History &amp; Empowering Change](https://dev.to/devteam/honoring-juneteenth-reflecting-on-history-empowering-change-2ang)
-- [Reimagining the Programming Industry: What Would You Change and Why?](https://dev.to/devteam/reimagining-the-programming-industry-what-would-you-change-and-why-2ld2)
-- [What&#39;s the Deal with OOP?](https://dev.to/codenewbieteam/whats-the-deal-with-oop-29eh)
 <!-- BLOG-POST-LIST:END -->
 
