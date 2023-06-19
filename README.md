@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [files](https://dev.to/eslee99/files-480c)
+- [Continuous Testing: Streamlining Your Testing Process in Web Development](https://dev.to/agilitest/continuous-testing-streamlining-your-testing-process-in-web-development-1321)
+- [VIM setup](https://dev.to/pvivo/vim-setup-13fc)
 - [Create your HTML forms without server for free! 💪🤑](https://dev.to/clement_grosieux/create-your-html-forms-without-server-for-free-7k5)
-- [5 React Libraries to Level Up your Projects in 2023](https://dev.to/livecycle/5-react-libraries-to-level-up-your-projects-in-2023-3d5i)
-- [Building a Vision Transformer from Scratch in PyTorch 🔥](https://dev.to/akshayballal/building-a-vision-transformer-from-scratch-in-pytorch-1m1b)
-- [Global Unique Constraint on a partitioned table in PostgreSQL and YugabyteDB](https://dev.to/yugabyte/global-unique-constraint-on-a-partitioned-table-in-postgresql-and-yugabytedb-4nh6)
 <!-- BLOG-POST-LIST:END -->
 
