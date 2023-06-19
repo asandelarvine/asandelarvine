@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-Time Search Filter in React: A Step-by-Step Guide](https://dev.to/alais29/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm)
+- [Explorando el GPT3.5-Turbo-16K: Una nueva frontera en la IA conversacional](https://dev.to/makiai/explorando-el-gpt35-turbo-16k-una-nueva-frontera-en-la-ia-conversacional-3po2)
+- [7 tools to code your first project in a week.🚨 Alert: this story from newbie to newbies 😂](https://dev.to/shnai0/7-tools-to-code-your-first-project-in-a-week-alert-this-story-from-newbie-to-newbies-1a66)
 - [What are your Goals for the week of June 19th?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-19th-42b7)
-- [Meme Monday](https://dev.to/ben/meme-monday-3c8g)
-- [Write Code Faster with ChatGPT](https://dev.to/virtualcoffee/write-code-faster-with-chatgpt-4183)
-- [PWA: Communicating Between the Frontend &amp; the Service Worker](https://dev.to/pipoprods/pwa-communicating-between-the-frontend-the-service-worker-lke)
 <!-- BLOG-POST-LIST:END -->
 
