@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to send a warm welcome email with Resend, Next-Auth and React-Email](https://dev.to/mfts/how-to-send-a-warm-welcome-email-with-resend-next-auth-and-react-email-576f)
+- [Music Monday — What are you listening to? &lpar;Music You&#39;ve Made Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-youve-made-edition-31b8)
+- [Here is how I made a strong password checker using Javascript.](https://dev.to/themodernweb/here-is-how-i-made-a-strong-password-checker-using-javascript-3m9o)
 - [Understanding Social Media ROI: Key Metrics to Measure Success](https://dev.to/digitalverse12/understanding-social-media-roi-key-metrics-to-measure-success-on5)
-- [Como criar uma estrutura eficiente de documentação](https://dev.to/biosbug/como-criar-uma-estrutura-eficiente-de-documentacao-19k0)
-- [New .NET 8 Features Coming! 8 Must-Know Improvements](https://dev.to/bytehide/new-net-8-features-coming-8-must-know-improvements-513k)
-- [Your Magic PowerKit To Understand Anyone On The Earth](https://dev.to/sturdybusiness/your-magic-powerkit-to-understand-anyone-on-the-earth-1dlc)
 <!-- BLOG-POST-LIST:END -->
 
