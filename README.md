@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Capabilities of Amazon API Gateway: A Complete Overview](https://dev.to/brandondamue/exploring-the-capabilities-of-amazon-api-gateway-a-complete-overview-178f)
 - [DevHunt, Best way to promote your Dev Tool or Open Source project](https://dev.to/johnrushx/devhunt-best-way-to-promote-your-dev-tool-or-open-source-project-11l4)
 - [10 Metrics you should track to optimise your system](https://dev.to/pragyanatvade/10-metrics-you-should-track-to-optimise-your-system-25o5)
 - [How to Launch Your Open Source Product in Just 3 Weeks &lpar;And Only Spend $10!&rpar;](https://dev.to/johnrushx/how-to-launch-your-open-source-product-in-just-3-weeks-and-only-spend-10-213c)
-- [Streamlining Frontend Testing: A Comprehensive Guide to the Best Tools](https://dev.to/josematoswork/streamlining-frontend-testing-a-comprehensive-guide-to-the-best-tools-ic)
 <!-- BLOG-POST-LIST:END -->
 
