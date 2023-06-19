@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [files](https://dev.to/eslee99/files-480c)
-- [Continuous Testing: Streamlining Your Testing Process in Web Development](https://dev.to/agilitest/continuous-testing-streamlining-your-testing-process-in-web-development-1321)
-- [VIM setup](https://dev.to/pvivo/vim-setup-13fc)
-- [Create your HTML forms without server for free! 💪🤑](https://dev.to/clement_grosieux/create-your-html-forms-without-server-for-free-7k5)
+- [New .NET 8 Features Coming! 8 Must-Know Improvements](https://dev.to/bytehide/new-net-8-features-coming-8-must-know-improvements-513k)
+- [Your Magic PowerKit To Understand Anyone On The Earth](https://dev.to/sturdybusiness/your-magic-powerkit-to-understand-anyone-on-the-earth-1dlc)
+- [4 Steps to Get Leads and Conversions for Your Business](https://dev.to/sturdybusiness/4-steps-to-get-leads-and-conversions-for-your-business-4l2j)
+- [Consumer ideas](https://dev.to/falcosan/consumer-ideas-3ah1)
 <!-- BLOG-POST-LIST:END -->
 
