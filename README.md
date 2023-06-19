@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Roundup &lpar;Jun 12&rpar; - 🔥Hot Topics🔥 in workplace, sharepoint, and powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-12-hot-topics-in-workplace-sharepoint-and-powerplatform-4d1d)
-- [AWS open source newsletter, #161](https://dev.to/aws/aws-open-source-newsletter-161-59d8)
-- [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk)
-- [Honoring Juneteenth: Reflecting on History &amp; Empowering Change](https://dev.to/devteam/honoring-juneteenth-reflecting-on-history-empowering-change-2ang)
+- [Create your HTML forms without server for free! 💪🤑](https://dev.to/clement_grosieux/create-your-html-forms-without-server-for-free-7k5)
+- [5 React Libraries to Level Up your Projects in 2023](https://dev.to/livecycle/5-react-libraries-to-level-up-your-projects-in-2023-3d5i)
+- [Building a Vision Transformer from Scratch in PyTorch 🔥](https://dev.to/akshayballal/building-a-vision-transformer-from-scratch-in-pytorch-1m1b)
+- [Global Unique Constraint on a partitioned table in PostgreSQL and YugabyteDB](https://dev.to/yugabyte/global-unique-constraint-on-a-partitioned-table-in-postgresql-and-yugabytedb-4nh6)
 <!-- BLOG-POST-LIST:END -->
 
