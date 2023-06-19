@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your Goals for the week of June 19th?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-19th-42b7)
+- [Meme Monday](https://dev.to/ben/meme-monday-3c8g)
 - [Write Code Faster with ChatGPT](https://dev.to/virtualcoffee/write-code-faster-with-chatgpt-4183)
 - [PWA: Communicating Between the Frontend &amp; the Service Worker](https://dev.to/pipoprods/pwa-communicating-between-the-frontend-the-service-worker-lke)
-- [Optimizing GitHub Actions Performance: Enhance Workflows with Caching](https://dev.to/ken_mwaura1/optimizing-github-actions-performance-enhance-workflows-with-caching-4hla)
-- [My first Python terminal game...](https://dev.to/neo10ten/my-first-python-terminal-game-36j7)
 <!-- BLOG-POST-LIST:END -->
 
