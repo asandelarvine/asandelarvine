@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Blockchain for Smart Contracts: A Comprehensive Guide to Web3 Security](https://dev.to/securedappseo/the-power-of-blockchain-for-smart-contracts-a-comprehensive-guide-to-web3-security-2935)
+- [From Basics to Mastery: Exploring the Features of nano and vim Text Editors](https://dev.to/devopsking/from-basics-to-mastery-exploring-the-features-of-nano-and-vim-text-editors-4jgb)
 - [Building a Real-Time Search Filter in React: A Step-by-Step Guide](https://dev.to/alais29/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm)
 - [Explorando el GPT3.5-Turbo-16K: Una nueva frontera en la IA conversacional](https://dev.to/makiai/explorando-el-gpt35-turbo-16k-una-nueva-frontera-en-la-ia-conversacional-3po2)
-- [7 tools to code your first project in a week.🚨 Alert: this story from newbie to newbies 😂](https://dev.to/shnai0/7-tools-to-code-your-first-project-in-a-week-alert-this-story-from-newbie-to-newbies-1a66)
-- [What are your Goals for the week of June 19th?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-19th-42b7)
 <!-- BLOG-POST-LIST:END -->
 
