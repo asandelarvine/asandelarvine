@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Login in Rails 7 with devise](https://dev.to/ahmadraza/google-login-in-rails-7-with-devise-2gpo)
-- [creating own RANDOM number generator](https://dev.to/coderatul/creating-own-random-number-generator-51dk)
-- [Style Position Fixed in a better way](https://dev.to/integridsolutions/style-position-fixed-in-a-better-way-169g)
-- [Generate Allure reports in Cypress Framework](https://dev.to/raghwendrasonu/generate-allure-reports-in-cypress-framework-1odb)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-25j9)
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5846)
+- [Do I Really Have to Math? Can You Navigate the Tech World without Numbers?](https://dev.to/codenewbieteam/do-i-really-have-to-math-can-you-navigate-the-tech-world-without-numbers-2n49)
+- [What Global Problem Would Your Tech Solution Solve?](https://dev.to/devteam/what-global-problem-would-your-tech-solution-solve-fe1)
 <!-- BLOG-POST-LIST:END -->
 
