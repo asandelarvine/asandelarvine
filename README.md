@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The world&#39;s first ChatGPT AI template &amp; kit for React 🧠](https://dev.to/fredy/the-worlds-first-chatgptai-template-kit-for-react-32j7)
+- [NestJS v10 is here! What’s new?](https://dev.to/kristiyan_velkov/nestjs-v10-is-here-whats-new-3b93)
+- [Using GitHub &amp; GitLab at the same Time](https://dev.to/coderiem/using-github-gitlab-at-the-same-time-1klf)
 - [The best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
-- [3 Reasons Why Developers Fail](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
-- [Learn serverless on AWS step-by-step - SQS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8)
-- [Integrating Express.js Server with Next.js-13: Unleash the Power of Combined Frameworks](https://dev.to/wilmela/integrating-expressjs-server-with-nextjs-13-unleash-the-power-of-combined-frameworks-10kc)
 <!-- BLOG-POST-LIST:END -->
 
