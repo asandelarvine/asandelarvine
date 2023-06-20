@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion Controller Position Latch Function](https://dev.to/zmotion/motion-controller-position-latch-function-jho)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-25j9)
-- [What Global Problem Would Your Tech Solution Solve?](https://dev.to/devteam/what-global-problem-would-your-tech-solution-solve-fe1)
-- [Do I Really Have to Math? Can You Navigate the Tech World without Numbers?](https://dev.to/codenewbieteam/do-i-really-have-to-math-can-you-navigate-the-tech-world-without-numbers-2n49)
+- [How to Build a Fancy Testimonial Slider with Tailwind CSS and Vue](https://dev.to/cruip_com/how-to-build-a-fancy-testimonial-slider-with-tailwind-css-and-vue-32bb)
+- [How to Build a Fancy Testimonial Slider with Tailwind CSS and Next.js](https://dev.to/cruip_com/how-to-build-a-fancy-testimonial-slider-with-tailwind-css-and-nextjs-3bel)
+- [How to Build a Fancy Testimonial Slider with Tailwind CSS and Alpine.js](https://dev.to/cruip_com/how-to-build-a-fancy-testimonial-slider-with-tailwind-css-and-alpinejs-3f0a)
+- [MongoDB Cheat Sheet🌱](https://dev.to/burakboduroglu/mongodb-cheat-sheet-1a6a)
 <!-- BLOG-POST-LIST:END -->
 
