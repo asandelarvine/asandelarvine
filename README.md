@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion Controller Position Latch Function](https://dev.to/zmotion/motion-controller-position-latch-function-jho)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-25j9)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5846)
-- [Do I Really Have to Math? Can You Navigate the Tech World without Numbers?](https://dev.to/codenewbieteam/do-i-really-have-to-math-can-you-navigate-the-tech-world-without-numbers-2n49)
 - [What Global Problem Would Your Tech Solution Solve?](https://dev.to/devteam/what-global-problem-would-your-tech-solution-solve-fe1)
+- [Do I Really Have to Math? Can You Navigate the Tech World without Numbers?](https://dev.to/codenewbieteam/do-i-really-have-to-math-can-you-navigate-the-tech-world-without-numbers-2n49)
 <!-- BLOG-POST-LIST:END -->
 
