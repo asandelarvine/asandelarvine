@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Reddit&#39;s API Changes](https://dev.to/devteam/devdiscuss-reddits-api-changes-40dc)
 - [Create CSS Animations easily](https://dev.to/vulcanwm/create-css-animations-easily-3an)
 - [Authentication vs. Authorization](https://dev.to/philip-ainberger/authentication-vs-authorization-olf)
 - [Simplifying developer environments with AI and in-context automation](https://dev.to/codepo8/simplifying-developer-environments-with-ai-and-in-context-automation-44of)
-- [Spectral Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/spectral-clustering-algorithm-demystified-d8i)
 <!-- BLOG-POST-LIST:END -->
 
