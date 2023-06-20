@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Terraform Documentation with Terraform-Docs and Azure DevOps](https://dev.to/pwd9000/automating-terraform-documentation-with-terraform-docs-and-azure-devops-oan)
-- [Moderating text with the Natural Language API](https://dev.to/googlecloud/moderating-text-with-the-natural-language-api-42il)
-- [Will our functions transform into AI text prompts from interpreter instructions?](https://dev.to/kramin_alexey/will-our-functions-transform-into-ai-text-prompts-from-interpreter-instructions-55a7)
-- [How I built my first AI project for a couple of hours](https://dev.to/kramin_alexey/how-i-built-my-first-ai-project-for-a-couple-of-hours-3j70)
+- [Medusa Recap: Product Module, Admin Extensibility, Omnichannel features and more](https://dev.to/medusajs/medusa-recap-product-module-admin-extensibility-omnichannel-features-and-more-ko7)
+- [Install NGINX in Ubuntu 22.04 LTS Server](https://dev.to/aspsptyd/install-nginx-in-ubuntu-2204-lts-server-55m7)
+- [Azure AD intro with Terraform examples](https://dev.to/vchiranjeeviak/azure-ad-intro-with-terraform-examples-13dl)
+- [The Web of Life: Understanding the Architecture of the World Wide Web](https://dev.to/oreste/the-web-of-life-understanding-the-architecture-of-the-world-wide-web-gmc)
 <!-- BLOG-POST-LIST:END -->
 
