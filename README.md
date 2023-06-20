@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn serverless on AWS step-by-step - SQS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8)
+- [What&#39;s your Lucky CSS Pattern? Check It Now!](https://dev.to/afif/whats-your-lucky-css-pattern-check-it-now-1g18)
+- [AI will NOT replace front-end developers!](https://dev.to/kristiyan_velkov/ai-will-not-replace-front-end-developers-21eh)
 - [How to Build a Fancy Testimonial Slider with Tailwind CSS and Vue](https://dev.to/cruip_com/how-to-build-a-fancy-testimonial-slider-with-tailwind-css-and-vue-32bb)
-- [How to Build a Fancy Testimonial Slider with Tailwind CSS and Next.js](https://dev.to/cruip_com/how-to-build-a-fancy-testimonial-slider-with-tailwind-css-and-nextjs-3bel)
-- [How to Build a Fancy Testimonial Slider with Tailwind CSS and Alpine.js](https://dev.to/cruip_com/how-to-build-a-fancy-testimonial-slider-with-tailwind-css-and-alpinejs-3f0a)
-- [MongoDB Cheat Sheet🌱](https://dev.to/burakboduroglu/mongodb-cheat-sheet-1a6a)
 <!-- BLOG-POST-LIST:END -->
 
