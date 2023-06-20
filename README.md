@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [List of apps I use every day - Version 2023](https://dev.to/eduardohitek/list-of-apps-i-use-every-day-version-2023-a88)
+- [How we set up GPG keys as Environment variables](https://dev.to/epam_india_python/how-we-set-up-gpg-keys-as-environment-variables-2f26)
 - [Medusa Recap: Product Module, Admin Extensibility, Omnichannel features and more](https://dev.to/medusajs/medusa-recap-product-module-admin-extensibility-omnichannel-features-and-more-ko7)
 - [Install NGINX in Ubuntu 22.04 LTS Server](https://dev.to/aspsptyd/install-nginx-in-ubuntu-2204-lts-server-55m7)
-- [Azure AD intro with Terraform examples](https://dev.to/vchiranjeeviak/azure-ad-intro-with-terraform-examples-13dl)
-- [The Web of Life: Understanding the Architecture of the World Wide Web](https://dev.to/oreste/the-web-of-life-understanding-the-architecture-of-the-world-wide-web-gmc)
 <!-- BLOG-POST-LIST:END -->
 
