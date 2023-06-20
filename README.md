@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Repos To Learn Web3](https://dev.to/brojenuel/github-repos-to-learn-web3-2nf)
+- [FLaNK Stack Weekly for 20 June 2023](https://dev.to/tspannhw/flank-stack-weekly-for-20-june-2023-2cc5)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5368)
+- [Build web apps and mixed reality experiences while you hear from the folks keeping the largest Mastodon instance running](https://dev.to/jennschiffer/build-web-apps-and-mixed-reality-experiences-while-you-hear-from-the-folks-keeping-the-largest-mastodon-instance-running-2gig)
 - [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://dev.to/bindupatidar/fast-flexible-easy-and-intuitive-how-to-speed-up-your-pandas-projects-5bm2)
-- [Unlocking Efficiency: Streamlining Custom Functionality for Site Owners with SharePoint Online Site Templates](https://dev.to/jaloplo/unlocking-efficiency-streamlining-custom-functionality-for-site-owners-with-sharepoint-online-site-templates-5eaf)
-- [Building a Node.js Server Without Using Express.js🐤](https://dev.to/burakboduroglu/building-a-nodejs-server-without-using-expressjs-3mc8)
 <!-- BLOG-POST-LIST:END -->
 
