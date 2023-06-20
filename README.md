@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly for 20 June 2023](https://dev.to/tspannhw/flank-stack-weekly-for-20-june-2023-2cc5)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5368)
-- [Build web apps and mixed reality experiences while you hear from the folks keeping the largest Mastodon instance running](https://dev.to/jennschiffer/build-web-apps-and-mixed-reality-experiences-while-you-hear-from-the-folks-keeping-the-largest-mastodon-instance-running-2gig)
-- [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://dev.to/bindupatidar/fast-flexible-easy-and-intuitive-how-to-speed-up-your-pandas-projects-5bm2)
+- [Automating Terraform Documentation with Terraform-Docs and Azure DevOps](https://dev.to/pwd9000/automating-terraform-documentation-with-terraform-docs-and-azure-devops-oan)
+- [Moderating text with the Natural Language API](https://dev.to/googlecloud/moderating-text-with-the-natural-language-api-42il)
+- [Will our functions transform into AI text prompts from interpreter instructions?](https://dev.to/kramin_alexey/will-our-functions-transform-into-ai-text-prompts-from-interpreter-instructions-55a7)
+- [How I built my first AI project for a couple of hours](https://dev.to/kramin_alexey/how-i-built-my-first-ai-project-for-a-couple-of-hours-3j70)
 <!-- BLOG-POST-LIST:END -->
 
