@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying developer environments with AI and in-context automation](https://dev.to/codepo8/simplifying-developer-environments-with-ai-and-in-context-automation-44of)
+- [Spectral Clustering Algorithm Demystified](https://dev.to/rajaniraiyn/spectral-clustering-algorithm-demystified-d8i)
 - [List of apps I use every day - Version 2023](https://dev.to/eduardohitek/list-of-apps-i-use-every-day-version-2023-a88)
 - [How we set up GPG keys as Environment variables](https://dev.to/epam_india_python/how-we-set-up-gpg-keys-as-environment-variables-2f26)
-- [Medusa Recap: Product Module, Admin Extensibility, Omnichannel features and more](https://dev.to/medusajs/medusa-recap-product-module-admin-extensibility-omnichannel-features-and-more-ko7)
-- [Install NGINX in Ubuntu 22.04 LTS Server](https://dev.to/aspsptyd/install-nginx-in-ubuntu-2204-lts-server-55m7)
 <!-- BLOG-POST-LIST:END -->
 
