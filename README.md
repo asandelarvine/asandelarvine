@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Future of E-commerce with Magento 2.x](https://dev.to/samuleduke/exploring-the-future-of-e-commerce-with-magento-2x-9el)
 - [The world&#39;s first ChatGPT AI template &amp; kit for React 🧠](https://dev.to/fredy/the-worlds-first-chatgptai-template-kit-for-react-32j7)
 - [NestJS v10 is here! What’s new?](https://dev.to/kristiyan_velkov/nestjs-v10-is-here-whats-new-3b93)
 - [Using GitHub &amp; GitLab at the same Time](https://dev.to/coderiem/using-github-gitlab-at-the-same-time-1klf)
-- [The best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
 <!-- BLOG-POST-LIST:END -->
 
