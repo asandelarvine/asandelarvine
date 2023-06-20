@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future of E-commerce with Magento 2.x](https://dev.to/samuleduke/exploring-the-future-of-e-commerce-with-magento-2x-9el)
-- [The world&#39;s first ChatGPT AI template &amp; kit for React 🧠](https://dev.to/fredy/the-worlds-first-chatgptai-template-kit-for-react-32j7)
-- [NestJS v10 is here! What’s new?](https://dev.to/kristiyan_velkov/nestjs-v10-is-here-whats-new-3b93)
-- [Using GitHub &amp; GitLab at the same Time](https://dev.to/coderiem/using-github-gitlab-at-the-same-time-1klf)
+- [GitHub Repos To Learn Web3](https://dev.to/brojenuel/github-repos-to-learn-web3-2nf)
+- [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://dev.to/bindupatidar/fast-flexible-easy-and-intuitive-how-to-speed-up-your-pandas-projects-5bm2)
+- [Unlocking Efficiency: Streamlining Custom Functionality for Site Owners with SharePoint Online Site Templates](https://dev.to/jaloplo/unlocking-efficiency-streamlining-custom-functionality-for-site-owners-with-sharepoint-online-site-templates-5eaf)
+- [Building a Node.js Server Without Using Express.js🐤](https://dev.to/burakboduroglu/building-a-nodejs-server-without-using-expressjs-3mc8)
 <!-- BLOG-POST-LIST:END -->
 
