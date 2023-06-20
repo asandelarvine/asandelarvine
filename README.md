@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
+- [3 Reasons Why Developers Fail](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
 - [Learn serverless on AWS step-by-step - SQS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8)
-- [What&#39;s your Lucky CSS Pattern? Check It Now!](https://dev.to/afif/whats-your-lucky-css-pattern-check-it-now-1g18)
-- [AI will NOT replace front-end developers!](https://dev.to/kristiyan_velkov/ai-will-not-replace-front-end-developers-21eh)
-- [How to Build a Fancy Testimonial Slider with Tailwind CSS and Vue](https://dev.to/cruip_com/how-to-build-a-fancy-testimonial-slider-with-tailwind-css-and-vue-32bb)
+- [Integrating Express.js Server with Next.js-13: Unleash the Power of Combined Frameworks](https://dev.to/wilmela/integrating-expressjs-server-with-nextjs-13-unleash-the-power-of-combined-frameworks-10kc)
 <!-- BLOG-POST-LIST:END -->
 
