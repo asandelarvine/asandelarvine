@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to Make API Calls in React](https://dev.to/wolfflucas/the-definitive-guide-to-make-api-calls-in-react-2c1i)
 - [Ace the &quot; Where do you see yourself in five years&quot; question in your next interview.](https://dev.to/martinkr/ace-the-where-do-you-see-yourself-in-five-years-question-in-your-next-interview-33g7)
 - [Node.js and TypeScript Tutorial: Build a rest API with Typescript, NodeJS, and a file-based storage system.](https://dev.to/realsteveig/nodejs-and-typescript-tutorial-build-a-rest-api-with-typescript-nodejs-and-a-file-based-storage-system-2l61)
 - [How I put ChatGPT into a WYSIWYG editor](https://dev.to/areknawo/how-i-put-chatgpt-into-a-wysiwyg-editor-ndf)
-- [Introducing Westernal: A social media based on songs &lpar;part 2&rpar;](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-part-2-ejl)
 <!-- BLOG-POST-LIST:END -->
 
