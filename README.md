@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Style Position Fixed in a better way](https://dev.to/integridsolutions/style-position-fixed-in-a-better-way-169g)
 - [Generate Allure reports in Cypress Framework](https://dev.to/raghwendrasonu/generate-allure-reports-in-cypress-framework-1odb)
 - [The Definitive Guide to Make API Calls in React](https://dev.to/wolfflucas/the-definitive-guide-to-make-api-calls-in-react-2c1i)
 - [Podman : An Alternative To Docker ?](https://dev.to/arafetki/podman-the-docker-alternative-or-fierce-competitor-4n3h)
-- [Ace the &quot; Where do you see yourself in five years&quot; question in your next interview.](https://dev.to/martinkr/ace-the-where-do-you-see-yourself-in-five-years-question-in-your-next-interview-33g7)
 <!-- BLOG-POST-LIST:END -->
 
