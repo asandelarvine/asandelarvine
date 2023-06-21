@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Navigating Layoffs with Intention&quot;: CodeNewbie Podcast S24E7](https://dev.to/codenewbieteam/navigating-layoffs-with-intention-codenewbie-podcast-s24e7-5ec6)
-- [Why Microservices Need Webhook Gateways](https://dev.to/convoy/why-microservices-need-webhook-gateways-18j0)
-- [The power of magic methods and late static binding](https://dev.to/giuliano1993/the-power-of-magic-methods-and-late-static-binding-4bj3)
-- [React useEffect: A complete guide with examples](https://dev.to/alakkadshaw/react-useeffect-a-complete-guide-with-examples-3ebd)
+- [Top 10 Tools for Beginner Programmers to Improve Coding and Reduce Bugs](https://dev.to/dhruvjoshi9/top-10-tools-for-beginner-programmers-to-improve-coding-and-reduce-bugs-28g9)
+- [Open-source, MIT UI library](https://dev.to/amilich/open-source-mit-ui-library-582p)
+- [Decorators in Rust](https://dev.to/sbalasa/reimagining-python-decorators-with-rust-macros-a-powerhouse-combination-19aj)
+- [📢 Uplifting Black Technologists: Spotlight on Black Girls CODE](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-girls-code-5dee)
 <!-- BLOG-POST-LIST:END -->
 
