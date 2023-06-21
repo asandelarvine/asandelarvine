@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Navigating Layoffs with Intention&quot;: CodeNewbie Podcast S24E7](https://dev.to/codenewbieteam/navigating-layoffs-with-intention-codenewbie-podcast-s24e7-5ec6)
+- [Why Microservices Need Webhook Gateways](https://dev.to/convoy/why-microservices-need-webhook-gateways-18j0)
+- [The power of magic methods and late static binding](https://dev.to/giuliano1993/the-power-of-magic-methods-and-late-static-binding-4bj3)
 - [React useEffect: A complete guide with examples](https://dev.to/alakkadshaw/react-useeffect-a-complete-guide-with-examples-3ebd)
-- [Configuring Terraform backend with AWS S3 and DynamoDB state locking](https://dev.to/bhusein/configuring-terraform-backend-with-aws-s3-and-dynamodb-state-locking-96l)
-- [CSS in Micro Frontends](https://dev.to/florianrappl/css-in-micro-frontends-4jai)
-- [What are your favorite emojis, and what do they tell about you?](https://dev.to/jmfayard/what-are-your-favorite-emojis-and-what-do-they-tell-about-you-1gof)
 <!-- BLOG-POST-LIST:END -->
 
