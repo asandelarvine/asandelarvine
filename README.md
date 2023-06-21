@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ace the &quot;How would your boss and coworkers describe you&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-would-your-boss-and-coworkers-describe-you-question-in-your-next-interview-3fnm)
+- [Vue and Input File - Clear File or Select same file](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
+- [Controlling Cloud Costs: Strategies for keeping on top of your AWS cloud spend](https://dev.to/aws-builders/controlling-cloud-costs-strategies-for-keeping-on-top-of-your-aws-cloud-spend-2a8i)
 - [Boost Your Programming Efficiency: Essential Tools for Success ⚙️](https://dev.to/burakboduroglu/boost-your-programming-efficiency-essential-tools-for-success-5h00)
-- [Accept payments using Tap to Pay for Android with Stripe](https://dev.to/stripe/accept-payments-using-tap-to-pay-for-android-with-stripe-1nn7)
-- [This Week In React#149: Panda CSS, React-Native 0.72, Server Actions, Remix, OpenNext, Wrap-Balancer, Docusaurus, surveys...](https://dev.to/sebastienlorber/this-week-in-react149-panda-css-react-native-072-server-actions-remix-opennext-wrap-balancer-docusaurus-surveys-43m)
-- [Announcing the refine + DEV Hackathon!](https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn)
 <!-- BLOG-POST-LIST:END -->
 
