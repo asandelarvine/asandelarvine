@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Fun Craft Ideas For Kids Using Recycled Color Cards](https://dev.to/enis-azemi/6-fun-craft-ideas-for-kids-using-recycled-color-cards-17fa)
-- [bash ChatGPT](https://dev.to/pvivo/bash-chatgpt-1a8j)
-- [How To Build a Scalable SaaS Backend in 10 Minutes With 100 Lines of Code Using ZenStack](https://dev.to/zenstack/how-to-build-a-scalable-saas-backend-in-10-minutes-with-100-lines-of-code-using-zenstack-1h7c)
-- [Know these HTML Tags and Unlock the True Potential of Web Development](https://dev.to/gloscode/know-these-html-tags-and-unlock-the-true-potential-of-web-development-15n3)
+- [Top 10 Websites Every Developer Needs to Know About](https://dev.to/j471n/top-10-websites-every-developer-needs-to-know-about-f5j)
+- [5 Benefits of Outsourcing Your Testing Services](https://dev.to/enis-azemi/5-benefits-of-outsourcing-your-testing-services-263c)
+- [Turning the screw with AI - ways for developer advocates to debunk the &quot;AI can replace developers&quot; myth](https://dev.to/codepo8/turning-the-screw-with-ai-ways-for-developer-advocates-to-debunk-the-ai-can-replace-developers-myth-50p2)
+- [Converting from a Developer to a Product Founder in 10 years](https://dev.to/igorboky/converting-from-a-developer-to-a-product-founder-in-10-years-55gh)
 <!-- BLOG-POST-LIST:END -->
 
