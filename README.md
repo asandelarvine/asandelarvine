@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a trendy open-source ChatGPT AI Admin Template! Use it for free! 🧠](https://dev.to/fredy/i-made-a-trendy-open-source-chatgpt-ai-admin-template-use-it-for-free-2388)
+- [Embracing the Journey: Tips and Resources for Self-Taught Developers](https://dev.to/rhythmusbyte/embracing-the-journey-tips-and-resources-for-self-taught-developers-2epm)
 - [Python Syntax: The Lazy Guide for Beginners](https://dev.to/scofieldidehen/python-syntax-the-lazy-guide-for-beginners-3f3n)
 - [From Overspending to Smart Savings: Unleashing the Power of Cost Optimization on AWS](https://dev.to/brandondamue/from-overspending-to-smart-savings-unleashing-the-power-of-cost-optimization-on-aws-152a)
-- [Launching ModelZ Beta!](https://dev.to/gaocegege/launching-modelz-beta-4gpa)
-- [EtherCAT Motion Control Card -- Custom Curve](https://dev.to/zmotion/ethercat-motion-control-card-custom-curve-8l1)
 <!-- BLOG-POST-LIST:END -->
 
