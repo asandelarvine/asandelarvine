@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes with NodeJS](https://dev.to/mohammadfaisal/kubernetes-with-nodejs-3ekf)
-- [WiFi Hacking: A Comprehensive Guide](https://dev.to/scofieldidehen/wifi-hacking-a-comprehensive-guide-38hb)
-- [The double not operator &lpar;!!&rpar;](https://dev.to/accreditly/the-double-not-operator--5a4l)
-- [Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
+- [sFlow akışının izlenmesi ve takibi](https://dev.to/aciklab/sflow-akisinin-izlenmesi-ve-takibi-21pj)
+- [Örnek sFlow verisi oluşturma](https://dev.to/aciklab/ornek-sflow-verisi-olusturma-18h3)
+- [Jobber&#39;s React Native migration - Success!](https://dev.to/jobber/jobbers-react-native-migration-success-600)
+- [Why you should build the same project in multiple programming languages and frameworks](https://dev.to/geiel/why-you-should-build-the-same-project-in-multiple-programming-languages-and-frameworks-4mk2)
 <!-- BLOG-POST-LIST:END -->
 
