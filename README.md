@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [sFlow akışının izlenmesi ve takibi](https://dev.to/aciklab/sflow-akisinin-izlenmesi-ve-takibi-21pj)
-- [Örnek sFlow verisi oluşturma](https://dev.to/aciklab/ornek-sflow-verisi-olusturma-18h3)
-- [Jobber&#39;s React Native migration - Success!](https://dev.to/jobber/jobbers-react-native-migration-success-600)
-- [Why you should build the same project in multiple programming languages and frameworks](https://dev.to/geiel/why-you-should-build-the-same-project-in-multiple-programming-languages-and-frameworks-4mk2)
+- [Boost Your Programming Efficiency: Essential Tools for Success ⚙️](https://dev.to/burakboduroglu/boost-your-programming-efficiency-essential-tools-for-success-5h00)
+- [Accept payments using Tap to Pay for Android with Stripe](https://dev.to/stripe/accept-payments-using-tap-to-pay-for-android-with-stripe-1nn7)
+- [This Week In React#149: Panda CSS, React-Native 0.72, Server Actions, Remix, OpenNext, Wrap-Balancer, Docusaurus, surveys...](https://dev.to/sebastienlorber/this-week-in-react149-panda-css-react-native-072-server-actions-remix-opennext-wrap-balancer-docusaurus-surveys-43m)
+- [Announcing the refine + DEV Hackathon!](https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn)
 <!-- BLOG-POST-LIST:END -->
 
