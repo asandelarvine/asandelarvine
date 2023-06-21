@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the cost of White label crypto exchange software?](https://dev.to/rawallewis/what-is-the-cost-of-white-label-crypto-exchange-software-3pc5)
 - [Embracing Failure: What&#39;s Your Most Valuable Lesson as a Developer?](https://dev.to/devteam/embracing-failure-whats-your-most-valuable-lesson-as-a-developer-396n)
 - [Mastering Interviews: How Do You Explain Complex Tech Concepts to Non-Techies?](https://dev.to/codenewbieteam/mastering-interviews-how-do-you-explain-complex-tech-concepts-to-non-techies-4pjm)
 - [Plugin in Golang](https://dev.to/jacktt/plugin-in-golang-4m67)
-- [Our experience adding Edge Runtime to Next.js SDK](https://dev.to/wangsijie/our-experience-adding-edge-runtime-to-nextjs-sdk-32mg)
 <!-- BLOG-POST-LIST:END -->
 
