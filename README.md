@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EtherCAT Motion Control Card -- Custom Curve](https://dev.to/zmotion/ethercat-motion-control-card-custom-curve-8l1)
+- [Cloud, tu caja de herramientas personal](https://dev.to/aws-builders/cloud-tu-caja-de-herramientas-personal-2a56)
+- [Excited to start my Coding Journey!](https://dev.to/jesse_navarette_b4e40b75b/excited-to-start-my-coding-journey-1lh2)
 - [Um pouco sobre internet :&rpar;](https://dev.to/douglaswlc/um-pouco-sobre-internet--3cb9)
-- [9 Ways to Implement Vertical Alignment in CSS with Examples](https://dev.to/alakkadshaw/9-ways-to-implement-vertical-alignment-in-css-with-examples-53ig)
-- [Pulling your dev.to posts down locally](https://dev.to/konnorrogers/pulling-your-devto-posts-down-locally-565g)
-- [Does anyone else have mixed feelings with remote work?](https://dev.to/theaccordance/does-anyone-else-have-mixed-feelings-with-remote-work-22k4)
 <!-- BLOG-POST-LIST:END -->
 
