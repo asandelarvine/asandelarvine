@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hashing, Encryption and Random in ASP.NET Core](https://dev.to/ifourtechnolab/hashing-encryption-and-random-in-aspnet-core-186l)
+- [Welcome Thread - v230](https://dev.to/devteam/welcome-thread-v232-3l6i)
+- [AI-Powered Search: The Future of Docs &amp; Knowledgebase](https://dev.to/ayushjangra/ai-powered-search-the-future-of-docs-knowledgebase-10b4)
 - [Securing ChatGPT at Work: Preventing Content Leaks 🔒](https://dev.to/clement_grosieux/securing-chatgpt-at-work-preventing-content-leaks-2ejg)
-- [Opening Doors to Open Source: Easy Steps for First-Time Contributors](https://dev.to/amplication/opening-doors-to-open-source-easy-steps-for-first-time-contributors-214l)
-- [What is the cost of White label crypto exchange software?](https://dev.to/rawallewis/what-is-the-cost-of-white-label-crypto-exchange-software-3pc5)
-- [Mastering Interviews: How Do You Explain Complex Tech Concepts to Non-Techies?](https://dev.to/codenewbieteam/mastering-interviews-how-do-you-explain-complex-tech-concepts-to-non-techies-4pjm)
 <!-- BLOG-POST-LIST:END -->
 
