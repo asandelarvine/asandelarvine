@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Syntax: The Lazy Guide for Beginners](https://dev.to/scofieldidehen/python-syntax-the-lazy-guide-for-beginners-3f3n)
+- [From Overspending to Smart Savings: Unleashing the Power of Cost Optimization on AWS](https://dev.to/brandondamue/from-overspending-to-smart-savings-unleashing-the-power-of-cost-optimization-on-aws-152a)
+- [Launching ModelZ Beta!](https://dev.to/gaocegege/launching-modelz-beta-4gpa)
 - [EtherCAT Motion Control Card -- Custom Curve](https://dev.to/zmotion/ethercat-motion-control-card-custom-curve-8l1)
-- [Cloud, tu caja de herramientas personal](https://dev.to/aws-builders/cloud-tu-caja-de-herramientas-personal-2a56)
-- [Excited to start my Coding Journey!](https://dev.to/jesse_navarette_b4e40b75b/excited-to-start-my-coding-journey-1lh2)
-- [Um pouco sobre internet :&rpar;](https://dev.to/douglaswlc/um-pouco-sobre-internet--3cb9)
 <!-- BLOG-POST-LIST:END -->
 
