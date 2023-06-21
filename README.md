@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Tools for Beginner Programmers to Improve Coding and Reduce Bugs](https://dev.to/dhruvjoshi9/top-10-tools-for-beginner-programmers-to-improve-coding-and-reduce-bugs-28g9)
-- [Open-source, MIT UI library](https://dev.to/amilich/open-source-mit-ui-library-582p)
-- [Decorators in Rust](https://dev.to/sbalasa/reimagining-python-decorators-with-rust-macros-a-powerhouse-combination-19aj)
-- [📢 Uplifting Black Technologists: Spotlight on Black Girls CODE](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-girls-code-5dee)
+- [WiFi Hacking: A Comprehensive Guide](https://dev.to/scofieldidehen/wifi-hacking-a-comprehensive-guide-38hb)
+- [The double not operator &lpar;!!&rpar;](https://dev.to/accreditly/the-double-not-operator--5a4l)
+- [Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
+- [Open standards, trust, and Google](https://dev.to/cassidoo/open-standards-trust-and-google-4e22)
 <!-- BLOG-POST-LIST:END -->
 
