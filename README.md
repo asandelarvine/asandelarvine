@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Um pouco sobre internet :&rpar;](https://dev.to/douglaswlc/um-pouco-sobre-internet--3cb9)
 - [9 Ways to Implement Vertical Alignment in CSS with Examples](https://dev.to/alakkadshaw/9-ways-to-implement-vertical-alignment-in-css-with-examples-53ig)
 - [Pulling your dev.to posts down locally](https://dev.to/konnorrogers/pulling-your-devto-posts-down-locally-565g)
 - [Does anyone else have mixed feelings with remote work?](https://dev.to/theaccordance/does-anyone-else-have-mixed-feelings-with-remote-work-22k4)
-- [#DEVDiscuss: Reddit&#39;s API Changes](https://dev.to/devteam/devdiscuss-reddits-api-changes-40dc)
 <!-- BLOG-POST-LIST:END -->
 
