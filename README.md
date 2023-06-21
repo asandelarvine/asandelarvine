@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React useEffect: A complete guide with examples](https://dev.to/alakkadshaw/react-useeffect-a-complete-guide-with-examples-3ebd)
+- [Configuring Terraform backend with AWS S3 and DynamoDB state locking](https://dev.to/bhusein/configuring-terraform-backend-with-aws-s3-and-dynamodb-state-locking-96l)
 - [CSS in Micro Frontends](https://dev.to/florianrappl/css-in-micro-frontends-4jai)
 - [What are your favorite emojis, and what do they tell about you?](https://dev.to/jmfayard/what-are-your-favorite-emojis-and-what-do-they-tell-about-you-1gof)
-- [GraphQL IDEs: GraphiQL vs Altair](https://dev.to/gethackteam/graphql-ides-graphiql-vs-altair-ij4)
-- [Open Source 101: A Beginner&#39;s Guide to Getting Started](https://dev.to/opensauced/open-source-101-a-beginners-guide-to-getting-started-37fb)
 <!-- BLOG-POST-LIST:END -->
 
