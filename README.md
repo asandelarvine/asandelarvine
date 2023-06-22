@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Handling Variables in JMeter](https://dev.to/adamleszko/guide-to-handling-variables-in-jmeter-3hkb)
+- [Evaluating Apache APISIX vs. Spring Cloud Gateway](https://dev.to/apisix/evaluating-apache-apisix-vs-spring-cloud-gateway-2ca7)
+- [20 C# Interview Questions &lpar;for Freshers&rpar; 2023](https://dev.to/bytehide/20-c-interview-questions-for-freshers-2023-39k9)
 - [Config 2023 - auto layout wrap, developer mode, prototyping &amp; variables](https://dev.to/astrit/config-2023-auto-layout-wrap-developer-mode-prototyping-variables-4m8b)
-- [Supercharge Your TypeScript App: Mastering i18next for Type-Safe Translations](https://dev.to/adrai/supercharge-your-typescript-app-mastering-i18next-for-type-safe-translations-2idp)
-- [Why Should You Learn Laravel: Unleash the Power of Modern Web Development](https://dev.to/roshdiraed/why-should-you-learn-laravel-unleash-the-power-of-modern-web-development-1m77)
-- [Copy.deepcopy&lpar;&rpar; vs clone&lpar;&rpar; in Pytorch](https://dev.to/shittu_olumide_/copydeepcopy-vs-clone-in-pytorch-455b)
 <!-- BLOG-POST-LIST:END -->
 
