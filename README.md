@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [On the pending sale of Google Domains to Squarespace: Any thoughts/opinions on domain registrars?](https://dev.to/cicirello/on-the-pending-sale-of-google-domains-to-squarespace-any-thoughtsopinions-on-domain-registrars-4dd6)
+- [Top 5 Benefits Of Using Truck Tracking For Your Business](https://dev.to/enis-azemi/top-5-benefits-of-using-truck-tracking-for-your-business-266f)
 - [Things you might not know about Next Image](https://dev.to/alex_barashkov/things-you-might-not-know-about-next-image-5go8)
-- [Implementing Flexible Authorization in RedwoodJS Projects](https://dev.to/zenstack/implementing-flexible-authorization-in-redwoodjs-projects-49j7)
-- [The easiest way of uploading image and audio files together using Multer, Cloudinary, and Node.js.](https://dev.to/itsfarhankhan28/the-easiest-way-of-uploading-image-and-audio-files-together-using-multer-cloudinary-and-nodejs-5ff3)
-- [50% Faster CI Pipelines with GitHub Actions](https://dev.to/kubeshop/50-faster-ci-pipelines-with-github-actions-32p2)
+- [The Complete&lpar;sh&rpar; Rust Cheat Sheet](https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn)
 <!-- BLOG-POST-LIST:END -->
 
