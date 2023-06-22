@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop learning languages, start learning programming](https://dev.to/suh_joy/stop-learning-languages-start-learning-programming-3k6c)
+- [5 Ways Search and Rescue Drones Are Saving Lives](https://dev.to/enis-azemi/5-ways-search-and-rescue-drones-are-saving-lives-3cnp)
 - [5 AI development tools you should know about](https://dev.to/livecycle/5-ai-development-tools-you-should-know-about-59ld)
 - [How does Elasticsearch works?](https://dev.to/documatic/how-does-elasticsearch-works-2ffl)
-- [Liman Cihaz Yönetim ile Zaman Sunucusu Ayarları &lpar;Debian 12&rpar;](https://dev.to/aciklab/liman-cihaz-yonetim-ile-zaman-sunucusu-ayarlari-debian-12-4gk6)
-- [Highest paying Programming Languages in 2023💸](https://dev.to/acode123/highest-paying-programming-languages-in-2023-4nj8)
 <!-- BLOG-POST-LIST:END -->
 
