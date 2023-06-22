@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Being A Little Farmer Kid to Being a Software Engineer](https://dev.to/blarzhernandez/from-being-a-little-farmer-kid-to-being-a-software-engineer-3ebl)
+- [A Framework Laptop Hacking Story](https://dev.to/knutaf/a-framework-laptop-hacking-story-39lf)
+- [Demystifying Data Pipelines: A Guide for Developers on AWS](https://dev.to/aditmodi/demystifying-data-pipelines-a-guide-for-developers-on-aws-3ok7)
 - [Creating JavaScript Routes for WordPress Website with Stream CSS Progress Bar](https://dev.to/faridteymouri/creating-javascript-routes-for-wordpress-website-with-stream-css-progress-bar-1cba)
-- [How Do You Get Yourself Back Up After Layoffs?: CodeNewbie Podcast](https://dev.to/codenewbieteam/how-do-you-get-yourself-back-up-after-layoffs-codenewbie-podcast-off)
-- [50+ Coding Challenges](https://dev.to/ayoubzulfiqar/50-coding-challenges-14hg)
-- [What is SDLC?](https://dev.to/sardarmudassaralikhan/what-is-sdlc-2d6m)
 <!-- BLOG-POST-LIST:END -->
 
