@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop learning languages, start learning programming](https://dev.to/suh_joy/stop-learning-languages-start-learning-programming-3k6c)
-- [5 Ways Search and Rescue Drones Are Saving Lives](https://dev.to/enis-azemi/5-ways-search-and-rescue-drones-are-saving-lives-3cnp)
-- [5 AI development tools you should know about](https://dev.to/livecycle/5-ai-development-tools-you-should-know-about-59ld)
-- [How does Elasticsearch works?](https://dev.to/documatic/how-does-elasticsearch-works-2ffl)
+- [Things you might not know about Next Image](https://dev.to/alex_barashkov/things-you-might-not-know-about-next-image-5go8)
+- [Implementing Flexible Authorization in RedwoodJS Projects](https://dev.to/zenstack/implementing-flexible-authorization-in-redwoodjs-projects-49j7)
+- [The easiest way of uploading image and audio files together using Multer, Cloudinary, and Node.js.](https://dev.to/itsfarhankhan28/the-easiest-way-of-uploading-image-and-audio-files-together-using-multer-cloudinary-and-nodejs-5ff3)
+- [50% Faster CI Pipelines with GitHub Actions](https://dev.to/kubeshop/50-faster-ci-pipelines-with-github-actions-32p2)
 <!-- BLOG-POST-LIST:END -->
 
