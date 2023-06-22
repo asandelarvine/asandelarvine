@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The journey of ML from Zero.](https://dev.to/codewhiteweb/the-journey-of-ml-from-zero-1mc2)
-- [How to Add Google Ad Sense Next.js 13 With App Router, Auto Ads and Unit Ads](https://dev.to/shriekdj/how-to-add-google-ad-sense-nextjs-13-with-app-router-auto-ads-and-unit-ads-hfa)
-- [Start Using Yaml Files](https://dev.to/nightbird07/start-using-yaml-files-26dh)
-- [How To Check Against Custom Types In TypeScript](https://dev.to/onurcankaya/how-to-check-against-custom-types-in-typescript-hh2)
+- [Creating JavaScript Routes for WordPress Website with Stream CSS Progress Bar](https://dev.to/faridteymouri/creating-javascript-routes-for-wordpress-website-with-stream-css-progress-bar-1cba)
+- [How Do You Get Yourself Back Up After Layoffs?: CodeNewbie Podcast](https://dev.to/codenewbieteam/how-do-you-get-yourself-back-up-after-layoffs-codenewbie-podcast-off)
+- [50+ Coding Challenges](https://dev.to/ayoubzulfiqar/50-coding-challenges-14hg)
+- [What is SDLC?](https://dev.to/sardarmudassaralikhan/what-is-sdlc-2d6m)
 <!-- BLOG-POST-LIST:END -->
 
