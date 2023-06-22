@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Apply Universal](https://dev.to/ayaco/apply-universal-8pj)
 - [Develop Your First DApp: A Beginner&#39;s Walkthrough](https://dev.to/bengreenberg/develop-your-first-dapp-a-beginners-walkthrough-24nk)
 - [The 5 pillars of every HTTP request](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
 - [Ace the &quot;How would your boss and coworkers describe you&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-would-your-boss-and-coworkers-describe-you-question-in-your-next-interview-3fnm)
-- [Vue and Input File - Clear File or Select same file](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
 <!-- BLOG-POST-LIST:END -->
 
