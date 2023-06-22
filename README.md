@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: How Do I Overcome Language Barriers in the Coding Community?](https://dev.to/devteam/sloans-inbox-how-do-i-overcome-language-barriers-in-the-coding-community-447l)
+- [How Do You Know if You&#39;re a Nerd?](https://dev.to/codenewbieteam/how-do-you-know-if-youre-a-nerd-1bke)
+- [What&#39;s the Most Influential Coding Book Ever?](https://dev.to/devteam/whats-the-most-influential-coding-book-ever-mia)
 - [Cargo Cult Agile](https://dev.to/cheetah100/cargo-cult-agile-34ge)
-- [[ Remote] Reco is hiring Python Flask Techlead](https://dev.to/nga3011/-remote-reco-is-hiring-python-flask-techlead-4fd7)
-- [Top resources for Tailwind CSS for 2023](https://dev.to/roktim32/top-resources-for-tailwind-css-for-2023-22hn)
-- [An introduction to Jenkins - the CI/CD tool](https://dev.to/farisdurrani/an-introduction-to-jenkins-the-cicd-tool-44k4)
 <!-- BLOG-POST-LIST:END -->
 
