@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On the pending sale of Google Domains to Squarespace: Any thoughts/opinions on domain registrars?](https://dev.to/cicirello/on-the-pending-sale-of-google-domains-to-squarespace-any-thoughtsopinions-on-domain-registrars-4dd6)
-- [Top 5 Benefits Of Using Truck Tracking For Your Business](https://dev.to/enis-azemi/top-5-benefits-of-using-truck-tracking-for-your-business-266f)
-- [Things you might not know about Next Image](https://dev.to/alex_barashkov/things-you-might-not-know-about-next-image-5go8)
-- [The Complete&lpar;sh&rpar; Rust Cheat Sheet](https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn)
+- [The journey of ML from Zero.](https://dev.to/codewhiteweb/the-journey-of-ml-from-zero-1mc2)
+- [How to Add Google Ad Sense Next.js 13 With App Router, Auto Ads and Unit Ads](https://dev.to/shriekdj/how-to-add-google-ad-sense-nextjs-13-with-app-router-auto-ads-and-unit-ads-hfa)
+- [Start Using Yaml Files](https://dev.to/nightbird07/start-using-yaml-files-26dh)
+- [How To Check Against Custom Types In TypeScript](https://dev.to/onurcankaya/how-to-check-against-custom-types-in-typescript-hh2)
 <!-- BLOG-POST-LIST:END -->
 
