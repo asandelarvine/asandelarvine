@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in Novu 0.16.0?](https://dev.to/novu/whats-new-in-novu-0160-l5d)
+- [Why are there so many bot followers on dev.to? 🤖👽](https://dev.to/clement_grosieux/why-are-there-so-many-bot-followers-on-devto-2gap)
 - [Guide to Handling Variables in JMeter](https://dev.to/adamleszko/guide-to-handling-variables-in-jmeter-3hkb)
 - [Evaluating Apache APISIX vs. Spring Cloud Gateway](https://dev.to/apisix/evaluating-apache-apisix-vs-spring-cloud-gateway-2ca7)
-- [20 C# Interview Questions &lpar;for Freshers&rpar; 2023](https://dev.to/bytehide/20-c-interview-questions-for-freshers-2023-39k9)
-- [Config 2023 - auto layout wrap, developer mode, prototyping &amp; variables](https://dev.to/astrit/config-2023-auto-layout-wrap-developer-mode-prototyping-variables-4m8b)
 <!-- BLOG-POST-LIST:END -->
 
