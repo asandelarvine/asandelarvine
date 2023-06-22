@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top resources for Tailwind CSS for 2023](https://dev.to/roktim32/top-resources-for-tailwind-css-for-2023-22hn)
+- [An introduction to Jenkins - the CI/CD tool](https://dev.to/farisdurrani/an-introduction-to-jenkins-the-cicd-tool-44k4)
+- [How popular are libraries in each technology](https://dev.to/chaituknag/how-popular-are-libraries-in-each-technology-128h)
 - [Apply Universal](https://dev.to/ayaco/apply-universal-8pj)
-- [Develop Your First DApp: A Beginner&#39;s Walkthrough](https://dev.to/bengreenberg/develop-your-first-dapp-a-beginners-walkthrough-24nk)
-- [Authorization and Cedar: A New Way to Manage Permissions - Part I](https://dev.to/aws-builders/authorization-and-cedar-a-new-way-to-manage-permissions-part-i-1nid)
-- [The 5 pillars of every HTTP request](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
 <!-- BLOG-POST-LIST:END -->
 
