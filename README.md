@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: How Do I Overcome Language Barriers in the Coding Community?](https://dev.to/devteam/sloans-inbox-how-do-i-overcome-language-barriers-in-the-coding-community-447l)
-- [How Do You Know if You&#39;re a Nerd?](https://dev.to/codenewbieteam/how-do-you-know-if-youre-a-nerd-1bke)
-- [What&#39;s the Most Influential Coding Book Ever?](https://dev.to/devteam/whats-the-most-influential-coding-book-ever-mia)
-- [Cargo Cult Agile](https://dev.to/cheetah100/cargo-cult-agile-34ge)
+- [Config 2023 - auto layout wrap, developer mode, prototyping &amp; variables](https://dev.to/astrit/config-2023-auto-layout-wrap-developer-mode-prototyping-variables-4m8b)
+- [Supercharge Your TypeScript App: Mastering i18next for Type-Safe Translations](https://dev.to/adrai/supercharge-your-typescript-app-mastering-i18next-for-type-safe-translations-2idp)
+- [Why Should You Learn Laravel: Unleash the Power of Modern Web Development](https://dev.to/roshdiraed/why-should-you-learn-laravel-unleash-the-power-of-modern-web-development-1m77)
+- [Copy.deepcopy&lpar;&rpar; vs clone&lpar;&rpar; in Pytorch](https://dev.to/shittu_olumide_/copydeepcopy-vs-clone-in-pytorch-455b)
 <!-- BLOG-POST-LIST:END -->
 
