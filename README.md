@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Highest paying Programming Languages in 2023💸](https://dev.to/acode123/highest-paying-programming-languages-in-2023-4nj8)
 - [What&#39;s new in Novu 0.16.0?](https://dev.to/novu/whats-new-in-novu-0160-l5d)
 - [Why are there so many bot followers on dev.to? 🤖👽](https://dev.to/clement_grosieux/why-are-there-so-many-bot-followers-on-devto-2gap)
 - [Guide to Handling Variables in JMeter](https://dev.to/adamleszko/guide-to-handling-variables-in-jmeter-3hkb)
-- [Evaluating Apache APISIX vs. Spring Cloud Gateway](https://dev.to/apisix/evaluating-apache-apisix-vs-spring-cloud-gateway-2ca7)
 <!-- BLOG-POST-LIST:END -->
 
