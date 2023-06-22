@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Docker Containers: Unleashing the Magic of Self-Contained Application Packages](https://dev.to/tylerasa/demystifying-docker-containers-unleashing-the-magic-of-self-contained-application-packages-1ap)
+- [From Zero to Hero: How to Create a Profitable Product Without Spending a Dime on Marketing](https://dev.to/johnrushx/from-zero-to-hero-how-to-create-a-profitable-product-without-spending-a-dime-on-marketing-3na1)
+- [Push the Green Button: Creating Event Gadgets with IoT and Serverless Architecture](https://dev.to/aws-builders/push-the-green-button-creating-event-gadgets-with-iot-and-serverless-architecture-3dlk)
 - [🧊 Stuck On Code? Here’s How To Unblock Yourself](https://dev.to/evergrowingdev/stuck-on-code-heres-how-to-unblock-yourself-3bo9)
-- [Episode 23/24: Angular 16, RFCs for Deferred Loading and built-in Control-Flow](https://dev.to/this-is-angular/episode-2324-angular-16-rfcs-for-deferred-loading-and-built-in-control-flow-5g3h)
-- [How to Create a Kick-Ass GitHub Profile in 5 Minutes](https://dev.to/mohammadfaisal/how-to-create-a-kick-ass-github-profile-in-5-minutes-oag)
-- [From Being A Little Farmer Kid to Being a Software Engineer](https://dev.to/blarzhernandez/from-being-a-little-farmer-kid-to-being-a-software-engineer-3ebl)
 <!-- BLOG-POST-LIST:END -->
 
