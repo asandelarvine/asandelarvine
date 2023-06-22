@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cargo Cult Agile](https://dev.to/cheetah100/cargo-cult-agile-34ge)
+- [[ Remote] Reco is hiring Python Flask Techlead](https://dev.to/nga3011/-remote-reco-is-hiring-python-flask-techlead-4fd7)
 - [Top resources for Tailwind CSS for 2023](https://dev.to/roktim32/top-resources-for-tailwind-css-for-2023-22hn)
 - [An introduction to Jenkins - the CI/CD tool](https://dev.to/farisdurrani/an-introduction-to-jenkins-the-cicd-tool-44k4)
-- [How popular are libraries in each technology](https://dev.to/chaituknag/how-popular-are-libraries-in-each-technology-128h)
-- [Apply Universal](https://dev.to/ayaco/apply-universal-8pj)
 <!-- BLOG-POST-LIST:END -->
 
