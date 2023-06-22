@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Apply Universal](https://dev.to/ayaco/apply-universal-8pj)
 - [Develop Your First DApp: A Beginner&#39;s Walkthrough](https://dev.to/bengreenberg/develop-your-first-dapp-a-beginners-walkthrough-24nk)
+- [Authorization and Cedar: A New Way to Manage Permissions - Part I](https://dev.to/aws-builders/authorization-and-cedar-a-new-way-to-manage-permissions-part-i-1nid)
 - [The 5 pillars of every HTTP request](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
-- [Ace the &quot;How would your boss and coworkers describe you&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-would-your-boss-and-coworkers-describe-you-question-in-your-next-interview-3fnm)
 <!-- BLOG-POST-LIST:END -->
 
