@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 AI development tools you should know about](https://dev.to/livecycle/5-ai-development-tools-you-should-know-about-59ld)
+- [How does Elasticsearch works?](https://dev.to/documatic/how-does-elasticsearch-works-2ffl)
+- [Liman Cihaz Yönetim ile Zaman Sunucusu Ayarları &lpar;Debian 12&rpar;](https://dev.to/aciklab/liman-cihaz-yonetim-ile-zaman-sunucusu-ayarlari-debian-12-4gk6)
 - [Highest paying Programming Languages in 2023💸](https://dev.to/acode123/highest-paying-programming-languages-in-2023-4nj8)
-- [What&#39;s new in Novu 0.16.0?](https://dev.to/novu/whats-new-in-novu-0160-l5d)
-- [Why are there so many bot followers on dev.to? 🤖👽](https://dev.to/clement_grosieux/why-are-there-so-many-bot-followers-on-devto-2gap)
-- [Guide to Handling Variables in JMeter](https://dev.to/adamleszko/guide-to-handling-variables-in-jmeter-3hkb)
 <!-- BLOG-POST-LIST:END -->
 
