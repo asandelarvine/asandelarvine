@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Project That Will ACTUALLY Get You a Job](https://dev.to/alexhyettdev/how-to-build-a-project-that-will-actually-get-you-a-job-3fa)
 - [📢 Uplifting Black Technologists: Spotlight on Black Tech Pipeline](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-tech-pipeline-53e6)
 - [Demystifying the Data Product Lifecycle: From Inception to Retirement](https://dev.to/grayhat/demystifying-the-data-product-lifecycle-from-inception-to-retirement-2i19)
 - [Useful VS Code Shortcuts That Would Save Your Time &amp; Increase Productivity](https://dev.to/irajbhinde/useful-vs-code-shortcuts-that-would-save-your-time-increase-productivity-5d6p)
-- [🔒 How to access SSH via terminal using SSH key 🔒](https://dev.to/walternascimentobarroso/how-to-access-ssh-via-terminal-using-ssh-key-3l2o)
 <!-- BLOG-POST-LIST:END -->
 
