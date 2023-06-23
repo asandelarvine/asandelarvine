@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #54 - Karamendos collection](https://dev.to/moonly/moonly-weekly-progress-update-54-karamendos-collection-2ao8)
+- [Read And Write ZIP Files Without Extracting Using zipfile Module](https://dev.to/sachingeek/read-and-write-zip-files-without-extracting-using-zipfile-module-2872)
+- [AMA - Manfred Steyer on Import Maps for Micro Frontends](https://dev.to/smapiot/ama-manfred-steyer-on-import-maps-for-micro-frontends-1mfo)
 - [Pros and Cons of Working as a Software Engineer](https://dev.to/devlazar/pros-and-cons-of-working-as-a-software-engineer-2259)
-- [Top 5+ Free GitHub ChatGPT AI Templates &amp; UI Starter Kits for 2023](https://dev.to/fredy/top-5-free-github-chatgpt-ai-templates-ui-starter-kits-for-2023-3p0h)
-- [Managing AI-powered Java App With API Management](https://dev.to/apisix/managing-ai-powered-java-app-with-api-management-12d1)
-- [Which Programming Languages Have You Explored Lately?](https://dev.to/devteam/which-programming-languages-have-you-explored-lately-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
