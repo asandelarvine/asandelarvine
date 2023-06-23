@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Disrupting the Gaming Landscape: Exploring the Potential of Fully On-Chain Gaming](https://dev.to/galaxiastudios/disrupting-the-gaming-landscape-exploring-the-potential-of-fully-on-chain-gaming-497d)
-- [How to build simple link preview without any LIBRARY in JS](https://dev.to/rahulj9a/how-to-build-simple-link-preview-without-any-library-in-js-2j84)
-- [How to Build a Project That Will ACTUALLY Get You a Job](https://dev.to/alexhyettdev/how-to-build-a-project-that-will-actually-get-you-a-job-3fa)
-- [📢 Uplifting Black Technologists: Spotlight on Black Tech Pipeline](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-tech-pipeline-53e6)
+- [Replace Employee ID With The Unique Identifier | LeetCode | MSSQL](https://dev.to/ranggakd/replace-employee-id-with-the-unique-identifier-leetcode-mssql-27a7)
+- [Draft-js text alignment in less than 5 minutes](https://dev.to/hpouyanmehr/draft-js-text-alignment-in-less-than-5-minutes-134g)
+- [Beyond 200, 404, and 500: Exploring Lesser-Known HTTP Status Codes](https://dev.to/philip-ainberger/beyond-200-404-and-500-exploring-lesser-known-http-status-codes-2hfd)
+- [Difference Among Casings: Snake Case VS Camel Case VS Pascal Case VS Kebab Case](https://dev.to/ankitmalikg/difference-among-casings-snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-2m8b)
 <!-- BLOG-POST-LIST:END -->
 
