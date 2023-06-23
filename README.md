@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript 【tricky】💡interview output questions &lpar;Part 2&rpar;](https://dev.to/codecraftjs/javascript-tricky-interview-output-questions-part-2-4ogh)
-- [“GitDevSecOps”](https://dev.to/mrgoonie/gitdevsecops-49gp)
-- [Vercel forms](https://dev.to/irishgeoff11/vercel-forms-48j9)
-- [Staff Engineer Interview: Navigating the Path to Technical Leadership](https://dev.to/victorhazbun/staff-engineer-interview-navigating-the-path-to-technical-leadership-3a9j)
+- [Managing AI-powered Java App With API Management](https://dev.to/apisix/managing-ai-powered-java-app-with-api-management-12d1)
+- [Which Programming Languages Have You Explored Lately?](https://dev.to/devteam/which-programming-languages-have-you-explored-lately-2ffm)
+- [Common Interview Question: What&#39;s Your Experience with Cloud Computing and Application Deployment?](https://dev.to/codenewbieteam/common-interview-question-whats-your-experience-with-cloud-computing-and-application-deployment-bb6)
+- [New Features in ES2023](https://dev.to/codecraftjs/new-features-in-es2023-1en2)
 <!-- BLOG-POST-LIST:END -->
 
