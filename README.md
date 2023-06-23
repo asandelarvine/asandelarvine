@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📢 Uplifting Black Technologists: Spotlight on Black Tech Pipeline](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-tech-pipeline-53e6)
+- [Demystifying the Data Product Lifecycle: From Inception to Retirement](https://dev.to/grayhat/demystifying-the-data-product-lifecycle-from-inception-to-retirement-2i19)
+- [Useful VS Code Shortcuts That Would Save Your Time &amp; Increase Productivity](https://dev.to/irajbhinde/useful-vs-code-shortcuts-that-would-save-your-time-increase-productivity-5d6p)
 - [🔒 How to access SSH via terminal using SSH key 🔒](https://dev.to/walternascimentobarroso/how-to-access-ssh-via-terminal-using-ssh-key-3l2o)
-- [How can I set max_split_size_mb to avoid fragmentation in Pytorch?](https://dev.to/shittu_olumide_/how-can-i-set-maxsplitsizemb-to-avoid-fragmentation-in-pytorch-37h9)
-- [ReactJS, MongoDB, JS, CSS in one shot while building an App](https://dev.to/lovepreetsingh/reactjs-mongodb-js-css-in-one-shot-while-building-an-app-3f43)
-- [Creating A Stepper Component with `useState`](https://dev.to/ritabradley_dev/creating-a-stepper-component-with-usestate-270j)
 <!-- BLOG-POST-LIST:END -->
 
