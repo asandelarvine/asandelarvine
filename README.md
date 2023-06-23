@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Converting JavaScript codebase to TypeScript](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4p1o)
 - [The Best 5 AWS Administration Techniques You Need to Know](https://dev.to/edenwheeler/the-best-5-aws-administration-techniques-you-need-to-know-2el7)
 - [How to Get into Technical Writing: How to get Gigs, Jobs and start making money online with Technical Writing](https://dev.to/bravinsimiyu/how-to-get-into-technical-writing-how-to-get-gigs-jobs-and-start-making-money-online-with-technical-writing-1lan)
-- [Moonly weekly progress update #54 - Karamendos collection](https://dev.to/moonly/moonly-weekly-progress-update-54-karamendos-collection-2ao8)
-- [AWS and Cyber Insurance](https://dev.to/aws-builders/aws-and-cyber-insurance-29kk)
 <!-- BLOG-POST-LIST:END -->
 
