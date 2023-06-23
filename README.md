@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best 5 AWS Administration Techniques You Need to Know](https://dev.to/edenwheeler/the-best-5-aws-administration-techniques-you-need-to-know-2el7)
+- [How to Get into Technical Writing: How to get Gigs, Jobs and start making money online with Technical Writing](https://dev.to/bravinsimiyu/how-to-get-into-technical-writing-how-to-get-gigs-jobs-and-start-making-money-online-with-technical-writing-1lan)
 - [Moonly weekly progress update #54 - Karamendos collection](https://dev.to/moonly/moonly-weekly-progress-update-54-karamendos-collection-2ao8)
-- [Read And Write ZIP Files Without Extracting Using zipfile Module](https://dev.to/sachingeek/read-and-write-zip-files-without-extracting-using-zipfile-module-2872)
-- [AMA - Manfred Steyer on Import Maps for Micro Frontends](https://dev.to/smapiot/ama-manfred-steyer-on-import-maps-for-micro-frontends-1mfo)
-- [Pros and Cons of Working as a Software Engineer](https://dev.to/devlazar/pros-and-cons-of-working-as-a-software-engineer-2259)
+- [AWS and Cyber Insurance](https://dev.to/aws-builders/aws-and-cyber-insurance-29kk)
 <!-- BLOG-POST-LIST:END -->
 
