@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript 【tricky】💡interview output questions &lpar;Part 2&rpar;](https://dev.to/codecraftjs/javascript-tricky-interview-output-questions-part-2-4ogh)
+- [“GitDevSecOps”](https://dev.to/mrgoonie/gitdevsecops-49gp)
 - [Vercel forms](https://dev.to/irishgeoff11/vercel-forms-48j9)
 - [Don&#39;t use `innerHTML`](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
-- [Getting started with Node and pebl — a free cloud platform!](https://dev.to/pebl/getting-started-with-node-and-pebl-a-free-cloud-platform-3aop)
-- [Demystifying Docker Containers: Unleashing the Magic of Self-Contained Application Packages](https://dev.to/tylerasa/demystifying-docker-containers-unleashing-the-magic-of-self-contained-application-packages-1ap)
 <!-- BLOG-POST-LIST:END -->
 
