@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Amazon FSX Backups: A Comprehensive Guide for Cloud Engineers](https://dev.to/aws-builders/mastering-amazon-fsx-backups-a-comprehensive-guide-for-cloud-engineers-4bc0)
-- [#DEVDiscuss: What&#39;s the Future of Careers in Web Dev?](https://dev.to/devteam/devdiscuss-should-web-devs-diversify-2f4g)
-- [Tutorial on creating a NextJS Application for beginners](https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f)
-- [What have you been learning?](https://dev.to/tailomateus/what-have-you-been-learning-a9h)
+- [5 GitHub Projects to Help You Become a Better DevOps Engineer ⚡](https://dev.to/softwaresennin/5-github-projects-to-help-you-become-a-better-devops-engineer-1pfb)
+- [Creating a Sunburst Chart in JavaScript](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
+- [Understanding Authorization Before Authentication: Enhancing Web API Security](https://dev.to/appmap/understanding-authorization-before-authentication-enhancing-web-api-security-2cjh)
+- [Sharing your Tailwind Configuration between Monorepo Packages](https://dev.to/bdbch/sharing-your-tailwind-configuration-between-monorepo-packages-4o5k)
 <!-- BLOG-POST-LIST:END -->
 
