@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Contribute to Open Source in the next 10 min - Step by Step [Beginner Edition] 🦾](https://dev.to/quine/contribute-to-open-source-in-the-next-10-min-step-by-step-beginner-edition-4aia)
+- [Kafka Connect Watcher - actively monitor your clusters](https://dev.to/aws-builders/kafka-connect-watcher-actively-monitor-your-clusters-35ib)
 - [Converting JavaScript codebase to TypeScript](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4p1o)
-- [The Best 5 AWS Administration Techniques You Need to Know](https://dev.to/edenwheeler/the-best-5-aws-administration-techniques-you-need-to-know-2el7)
-- [How to Get into Technical Writing: How to get Gigs, Jobs and start making money online with Technical Writing](https://dev.to/bravinsimiyu/how-to-get-into-technical-writing-how-to-get-gigs-jobs-and-start-making-money-online-with-technical-writing-1lan)
+- [How to create an Dapp on solana blockchain](https://dev.to/mgaaron/how-to-create-an-dapp-on-solana-blockchain-4e5j)
 <!-- BLOG-POST-LIST:END -->
 
