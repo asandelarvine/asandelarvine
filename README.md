@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contribute to Open Source in the next 10 min - Step by Step [Beginner Edition] 🦾](https://dev.to/quine/contribute-to-open-source-in-the-next-10-min-step-by-step-beginner-edition-4aia)
-- [Kafka Connect Watcher - actively monitor your clusters](https://dev.to/aws-builders/kafka-connect-watcher-actively-monitor-your-clusters-35ib)
-- [Converting JavaScript codebase to TypeScript](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
-- [How to create an Dapp on solana blockchain](https://dev.to/mgaaron/how-to-create-an-dapp-on-solana-blockchain-4e5j)
+- [ReactJS, MongoDB, JS, CSS in one shot while building an App](https://dev.to/lovepreetsingh/reactjs-mongodb-js-css-in-one-shot-while-building-an-app-3f43)
+- [Aplicações que podem ser criadas com .NET [PT-BR]](https://dev.to/andredarcie/aplicacoes-que-podem-ser-criadas-com-net-pt-br-300i)
+- [Essential Insights into Kentico Xperience&#39;s Hotfix Methodology for Developers](https://dev.to/truelime/essential-insights-into-kentico-xperiences-hotfix-methodology-for-developers-2ep0)
+- [Python in one page](https://dev.to/andredarcie/python-in-one-page-40bl)
 <!-- BLOG-POST-LIST:END -->
 
