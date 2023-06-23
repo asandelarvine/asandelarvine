@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔒 How to access SSH via terminal using SSH key 🔒](https://dev.to/walternascimentobarroso/how-to-access-ssh-via-terminal-using-ssh-key-3l2o)
+- [How can I set max_split_size_mb to avoid fragmentation in Pytorch?](https://dev.to/shittu_olumide_/how-can-i-set-maxsplitsizemb-to-avoid-fragmentation-in-pytorch-37h9)
 - [ReactJS, MongoDB, JS, CSS in one shot while building an App](https://dev.to/lovepreetsingh/reactjs-mongodb-js-css-in-one-shot-while-building-an-app-3f43)
-- [Aplicações que podem ser criadas com .NET [PT-BR]](https://dev.to/andredarcie/aplicacoes-que-podem-ser-criadas-com-net-pt-br-300i)
-- [Essential Insights into Kentico Xperience&#39;s Hotfix Methodology for Developers](https://dev.to/truelime/essential-insights-into-kentico-xperiences-hotfix-methodology-for-developers-2ep0)
-- [Python in one page](https://dev.to/andredarcie/python-in-one-page-40bl)
+- [Creating A Stepper Component with `useState`](https://dev.to/ritabradley_dev/creating-a-stepper-component-with-usestate-270j)
 <!-- BLOG-POST-LIST:END -->
 
