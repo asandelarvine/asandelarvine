@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Javascript 【tricky】💡interview output questions &lpar;Part 2&rpar;](https://dev.to/codecraftjs/javascript-tricky-interview-output-questions-part-2-4ogh)
 - [“GitDevSecOps”](https://dev.to/mrgoonie/gitdevsecops-49gp)
 - [Vercel forms](https://dev.to/irishgeoff11/vercel-forms-48j9)
-- [Don&#39;t use `innerHTML`](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
+- [Staff Engineer Interview: Navigating the Path to Technical Leadership](https://dev.to/victorhazbun/staff-engineer-interview-navigating-the-path-to-technical-leadership-3a9j)
 <!-- BLOG-POST-LIST:END -->
 
