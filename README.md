@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Disrupting the Gaming Landscape: Exploring the Potential of Fully On-Chain Gaming](https://dev.to/galaxiastudios/disrupting-the-gaming-landscape-exploring-the-potential-of-fully-on-chain-gaming-497d)
+- [How to build simple link preview without any LIBRARY in JS](https://dev.to/rahulj9a/how-to-build-simple-link-preview-without-any-library-in-js-2j84)
 - [How to Build a Project That Will ACTUALLY Get You a Job](https://dev.to/alexhyettdev/how-to-build-a-project-that-will-actually-get-you-a-job-3fa)
 - [📢 Uplifting Black Technologists: Spotlight on Black Tech Pipeline](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-tech-pipeline-53e6)
-- [Demystifying the Data Product Lifecycle: From Inception to Retirement](https://dev.to/grayhat/demystifying-the-data-product-lifecycle-from-inception-to-retirement-2i19)
-- [Useful VS Code Shortcuts That Would Save Your Time &amp; Increase Productivity](https://dev.to/irajbhinde/useful-vs-code-shortcuts-that-would-save-your-time-increase-productivity-5d6p)
 <!-- BLOG-POST-LIST:END -->
 
