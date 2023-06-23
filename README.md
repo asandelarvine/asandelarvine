@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial on creating a NextJS Application for beginners](https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f)
 - [Replace Employee ID With The Unique Identifier | LeetCode | MSSQL](https://dev.to/ranggakd/replace-employee-id-with-the-unique-identifier-leetcode-mssql-27a7)
 - [Draft-js text alignment in less than 5 minutes](https://dev.to/hpouyanmehr/draft-js-text-alignment-in-less-than-5-minutes-134g)
 - [Beyond 200, 404, and 500: Exploring Lesser-Known HTTP Status Codes](https://dev.to/philip-ainberger/beyond-200-404-and-500-exploring-lesser-known-http-status-codes-2hfd)
-- [Difference Among Casings: Snake Case VS Camel Case VS Pascal Case VS Kebab Case](https://dev.to/ankitmalikg/difference-among-casings-snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-2m8b)
 <!-- BLOG-POST-LIST:END -->
 
