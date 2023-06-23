@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Amazon FSX Backups: A Comprehensive Guide for Cloud Engineers](https://dev.to/aws-builders/mastering-amazon-fsx-backups-a-comprehensive-guide-for-cloud-engineers-4bc0)
+- [#DEVDiscuss: What&#39;s the Future of Careers in Web Dev?](https://dev.to/devteam/devdiscuss-should-web-devs-diversify-2f4g)
 - [Tutorial on creating a NextJS Application for beginners](https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f)
-- [Replace Employee ID With The Unique Identifier | LeetCode | MSSQL](https://dev.to/ranggakd/replace-employee-id-with-the-unique-identifier-leetcode-mssql-27a7)
-- [Draft-js text alignment in less than 5 minutes](https://dev.to/hpouyanmehr/draft-js-text-alignment-in-less-than-5-minutes-134g)
-- [Beyond 200, 404, and 500: Exploring Lesser-Known HTTP Status Codes](https://dev.to/philip-ainberger/beyond-200-404-and-500-exploring-lesser-known-http-status-codes-2hfd)
+- [What have you been learning?](https://dev.to/tailomateus/what-have-you-been-learning-a9h)
 <!-- BLOG-POST-LIST:END -->
 
