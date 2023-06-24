@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
+- [Episode 01 - How to check the Palindrome in JavaScript](https://dev.to/vigowebs/how-to-check-the-palindrome-in-javascript-20lm)
+- [Building a calendar app with Nextjs, mongodb, react-big-calendar and redux.](https://dev.to/himohit/building-a-calendar-app-with-nextjs-mongodb-react-big-calendar-and-redux-5d6o)
 - [Analyzing GTA Vice City Source Code, Part 1: Audio](https://dev.to/amuuu/analyzing-gta-vice-city-source-code-part-1-audio-130a)
-- [How to Give Code Review as a Junior Developer?](https://dev.to/scastiel/how-to-give-code-review-as-a-junior-developer-31gb)
-- [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
 <!-- BLOG-POST-LIST:END -->
 
