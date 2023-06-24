@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Guide to Turning Text into Audio with Audio-LDM](https://dev.to/mikeyoung44/a-complete-guide-to-turning-text-into-audio-with-audio-ldm-4nlp)
+- [Tailwind CSS vs Float UI: which one is the best in 2023?](https://dev.to/sididev/tailwind-css-vs-float-ui-which-one-is-the-best-in-2023-5ghp)
 - [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
 - [Episode 01 - How to check the Palindrome in JavaScript](https://dev.to/vigowebs/how-to-check-the-palindrome-in-javascript-20lm)
-- [Building a calendar app with Nextjs, mongodb, react-big-calendar and redux.](https://dev.to/himohit/building-a-calendar-app-with-nextjs-mongodb-react-big-calendar-and-redux-5d6o)
-- [Analyzing GTA Vice City Source Code, Part 1: Audio](https://dev.to/amuuu/analyzing-gta-vice-city-source-code-part-1-audio-130a)
 <!-- BLOG-POST-LIST:END -->
 
