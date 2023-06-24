@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Childhood Gadget Ignited Your Coding Passion?](https://dev.to/codenewbieteam/which-childhood-gadget-ignited-your-coding-passion-22ga)
+- [LeetCode 956 &lpar;Hard&rpar;. Solution of the day. Tallest Billboard. Swift. DP. O&lpar;n&rpar;.](https://dev.to/sergeyleschev/leetcode-956-hard-tallest-billboard-swift-dp-on-16bg)
+- [Objects in JavaScript](https://dev.to/indracit/objects-in-javascript-607)
+- [Creating contract package using Typescript and Github Packages](https://dev.to/goskan93/creating-contract-package-using-typescript-and-github-packages-2nii)
 - [Open-Source Software: Catalyst for Software Revolution?](https://dev.to/devteam/open-source-software-catalyst-for-software-revolution-5f4d)
-- [10 Sites to Host Your Backend Code for Free](https://dev.to/durgesh4993/10-sites-to-host-your-backend-code-for-free-gpk)
-- [Whatever It Takes](https://dev.to/bealecs/whatever-it-takes-2mb9)
 <!-- BLOG-POST-LIST:END -->
 
