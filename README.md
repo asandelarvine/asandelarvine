@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m stoopid! So I code in “easy mode”.](https://dev.to/noriller/im-stoopid-so-i-code-in-easy-mode-48dg)
 - [Litestar 2.0 [Beta]: Speed of Light - Power of Stars!](https://dev.to/v3ss0n/litestar-20-beta-speed-of-light-power-of-stars-1j62)
 - [Prop Naming Conventions for Vue Components](https://dev.to/fadamakis/prop-naming-conventions-for-vue-components-djg)
 - [Memory Management using PYTORCH_CUDA_ALLOC_CONF](https://dev.to/shittu_olumide_/memory-management-using-pytorchcudaallocconf-5afh)
-- [📢 Some CSS New Properties. 🎉](https://dev.to/danishzayan/some-css-new-properties-4j5e)
 <!-- BLOG-POST-LIST:END -->
 
