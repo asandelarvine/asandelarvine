@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
+- [Analyzing GTA Vice City Source Code, Part 1: Audio](https://dev.to/amuuu/analyzing-gta-vice-city-source-code-part-1-audio-130a)
 - [How to Give Code Review as a Junior Developer?](https://dev.to/scastiel/how-to-give-code-review-as-a-junior-developer-31gb)
 - [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
-- [setting up next auth with the new app directory](https://dev.to/nelsonchege13/setting-up-next-auth-with-the-new-app-directory-318b)
-- [I’m stoopid! So I code in “easy mode”.](https://dev.to/noriller/im-stoopid-so-i-code-in-easy-mode-48dg)
 <!-- BLOG-POST-LIST:END -->
 
