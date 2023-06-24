@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Give Code Review as a Junior Developer?](https://dev.to/scastiel/how-to-give-code-review-as-a-junior-developer-31gb)
 - [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
-- [Dear VC firm, pay me to NOT work or I will steal your lunch](https://dev.to/polterguy/dear-vc-firm-pay-me-to-not-work-or-i-will-steal-your-lunch-6ma)
+- [setting up next auth with the new app directory](https://dev.to/nelsonchege13/setting-up-next-auth-with-the-new-app-directory-318b)
 - [I’m stoopid! So I code in “easy mode”.](https://dev.to/noriller/im-stoopid-so-i-code-in-easy-mode-48dg)
-- [Secure your Nodejs REST API By using Rate Limiting](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
 <!-- BLOG-POST-LIST:END -->
 
