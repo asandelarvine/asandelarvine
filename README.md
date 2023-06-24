@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Prop Naming Conventions for Vue Components](https://dev.to/fadamakis/prop-naming-conventions-for-vue-components-djg)
 - [Memory Management using PYTORCH_CUDA_ALLOC_CONF](https://dev.to/shittu_olumide_/memory-management-using-pytorchcudaallocconf-5afh)
+- [📢 Some CSS New Properties. 🎉](https://dev.to/danishzayan/some-css-new-properties-4j5e)
 - [🚀 Why Code Review is Crucial in Software Development 🚀](https://dev.to/jagroop2000/why-code-review-is-crucial-in-software-development-28kp)
-- [LeetCode 956 &lpar;Hard&rpar;. Solution of the day. Tallest Billboard. Swift. DP. O&lpar;n&rpar;.](https://dev.to/sergeyleschev/leetcode-956-hard-tallest-billboard-swift-dp-on-16bg)
-- [Objects in JavaScript](https://dev.to/indracit/objects-in-javascript-607)
 <!-- BLOG-POST-LIST:END -->
 
