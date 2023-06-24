@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [10 Sites to Host Your Backend Code for Free](https://dev.to/durgesh4993/10-sites-to-host-your-backend-code-for-free-gpk)
 - [Whatever It Takes](https://dev.to/bealecs/whatever-it-takes-2mb9)
 - [The Yummy DevOps Burger: Making a Tech Sandwich, Step by Step!](https://dev.to/softwaresennin/the-yummy-devops-burger-making-a-tech-sandwich-step-by-step-5gba)
-- [Entendendo fundamentos de recursão](https://dev.to/leandronsp/entendendo-fundamentos-de-recursao-2ap4)
+- [64-bit RISC-V with Apache NuttX Real-Time Operating System](https://dev.to/lupyuen/64-bit-risc-v-with-apache-nuttx-real-time-operating-system-15bf)
 <!-- BLOG-POST-LIST:END -->
 
