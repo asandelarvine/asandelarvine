@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Yummy DevOps Burger: Making a Tech Sandwich, Step by Step!](https://dev.to/softwaresennin/the-yummy-devops-burger-making-a-tech-sandwich-step-by-step-5gba)
+- [Entendendo fundamentos de recursão](https://dev.to/leandronsp/entendendo-fundamentos-de-recursao-2ap4)
+- [Serverless Application Model 101](https://dev.to/aws-builders/serverless-application-model-101-47jj)
 - [5 GitHub Projects to Help You Become a Better DevOps Engineer ⚡](https://dev.to/softwaresennin/5-github-projects-to-help-you-become-a-better-devops-engineer-1pfb)
-- [Creating a Sunburst Chart in JavaScript](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
-- [Understanding Authorization Before Authentication: Enhancing Web API Security](https://dev.to/appmap/understanding-authorization-before-authentication-enhancing-web-api-security-2cjh)
-- [Sharing your Tailwind Configuration between Monorepo Packages](https://dev.to/bdbch/sharing-your-tailwind-configuration-between-monorepo-packages-4o5k)
 <!-- BLOG-POST-LIST:END -->
 
