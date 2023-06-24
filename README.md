@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
+- [Dear VC firm, pay me to NOT work or I will steal your lunch](https://dev.to/polterguy/dear-vc-firm-pay-me-to-not-work-or-i-will-steal-your-lunch-6ma)
 - [I’m stoopid! So I code in “easy mode”.](https://dev.to/noriller/im-stoopid-so-i-code-in-easy-mode-48dg)
-- [Litestar 2.0 [Beta]: Speed of Light - Power of Stars!](https://dev.to/v3ss0n/litestar-20-beta-speed-of-light-power-of-stars-1j62)
-- [Prop Naming Conventions for Vue Components](https://dev.to/fadamakis/prop-naming-conventions-for-vue-components-djg)
-- [Memory Management using PYTORCH_CUDA_ALLOC_CONF](https://dev.to/shittu_olumide_/memory-management-using-pytorchcudaallocconf-5afh)
+- [Secure your Nodejs REST API By using Rate Limiting](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
 <!-- BLOG-POST-LIST:END -->
 
