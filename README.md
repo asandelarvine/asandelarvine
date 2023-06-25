@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Typia] I made realtime demo site of 20,000x faster validation &lpar;+200x faster JSON stringify&rpar;](https://dev.to/samchon/typia-i-made-realtime-demo-site-of-20000x-faster-validation-200x-faster-json-stringify-59p9)
+- [Extracting Class Methods: How To Derive an Interface From a Class](https://dev.to/zirkelc/extracting-class-methods-how-to-derive-an-interface-from-a-class-4co4)
 - [Unlocking Performance: A Guide to Async Support in Django](https://dev.to/pragativerma18/unlocking-performance-a-guide-to-async-support-in-django-2jdj)
 - [Who moved my error codes? Adding error types to your GoLang GraphQL Server](https://dev.to/otterize/who-moved-my-error-codes-adding-error-types-to-your-golang-graphql-server-50p9)
-- [Docker vs Virtual Machine Analogy](https://dev.to/coderatul/docker-vs-virtual-machine-analogy-5382)
-- [Top 5 Websites You&#39;ll Love as a Developer👨‍💻](https://dev.to/acode123/top-5-websites-youll-love-as-a-developer-5m5)
 <!-- BLOG-POST-LIST:END -->
 
