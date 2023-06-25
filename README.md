@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJs: Another Dumb Framework](https://dev.to/scofieldidehen/nodejs-another-dumb-framework-46bb)
-- [How to Implement CSS in Micro Front-End](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
-- [gRPC - Microservicios en Lenguajes Diferentes [JS y PY]](https://dev.to/bryanherreradev/grpc-microservicios-en-lenguajes-diferentes-js-y-py-9aj)
-- [Introducing Ecsact](https://dev.to/seaube/introducing-ecsact-13h6)
+- [What&#39;s on Your Learning Agenda this Week?](https://dev.to/codenewbieteam/whats-on-your-learning-agenda-this-week-124)
+- [The Online Community Chronicles: Where Did Your Digital Adventure Begin?](https://dev.to/devteam/the-online-community-chronicles-where-did-your-digital-adventure-begin-3f2p)
+- [7 More JavaScript Web APIs to Build Futuristic Websites you didn&#39;t Know 🤯](https://dev.to/ruppysuppy/7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg)
+- [Greatest Advice I’ve Heard in a Long Time](https://dev.to/philipjohnbasile/greatest-advice-ive-heard-in-a-long-time-glj)
 <!-- BLOG-POST-LIST:END -->
 
