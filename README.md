@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in Svelte 4: Performance Boosts and Streamlined Development](https://dev.to/this-is-learning/whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc)
 - [Reliable Microservices Data Exchange With Streaming Database](https://dev.to/bobur/reliable-microservices-data-exchange-with-streaming-database-pdo)
 - [Enhancing Your Laravel API with Treblle Platform](https://dev.to/alphaolomi/enhancing-your-laravel-api-with-treblle-api-platform-2oob)
-- [The Online Community Chronicles: Where Did Your Digital Adventure Begin?](https://dev.to/devteam/the-online-community-chronicles-where-did-your-digital-adventure-begin-3f2p)
 - [What&#39;s on Your Learning Agenda this Week?](https://dev.to/codenewbieteam/whats-on-your-learning-agenda-this-week-124)
 <!-- BLOG-POST-LIST:END -->
 
