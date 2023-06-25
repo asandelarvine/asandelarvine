@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Mask Div with Another Div- Complete Guide](https://dev.to/arsalanmee/css-mask-div-with-another-div-complete-guide-141l)
 - [What&#39;s New in Svelte 4: Performance Boosts and Streamlined Development](https://dev.to/this-is-learning/whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc)
 - [Reliable Microservices Data Exchange With Streaming Database](https://dev.to/bobur/reliable-microservices-data-exchange-with-streaming-database-pdo)
 - [Enhancing Your Laravel API with Treblle Platform](https://dev.to/alphaolomi/enhancing-your-laravel-api-with-treblle-api-platform-2oob)
-- [What&#39;s on Your Learning Agenda this Week?](https://dev.to/codenewbieteam/whats-on-your-learning-agenda-this-week-124)
 <!-- BLOG-POST-LIST:END -->
 
