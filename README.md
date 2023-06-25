@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Game-Changer for SEO: Harnessing the Power of Google Rich Content results](https://dev.to/thanasismpalatsoukas/a-game-changer-for-seo-harnessing-the-power-of-google-rich-content-results-1ak2)
-- [Learn regression model](https://dev.to/mugendii_/learn-regression-model-495d)
-- [Sites you should know: Part One](https://dev.to/roshdiraed/sites-you-should-know-part-one-5c1m)
-- [How to Build a Cinema Ticket Booking Dapp with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-cinema-ticket-booking-dapp-with-react-solidity-and-cometchat-404k)
+- [Visualize CloudWatch Logs ingestion lag with Logs Insights](https://dev.to/shu85t/visualize-cloudwatch-logs-ingestion-lag-with-logs-insights-hkl)
+- [10 Secret Tips That Make You a Better JavaScript Programmer](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-javascript-programmer-16e6)
+- [Yet Another Newsletter LOL: The Great Migration](https://dev.to/nickytonline/yet-another-newsletter-lol-the-great-migration-gep)
+- [The Art of Code Commenting](https://dev.to/philip-ainberger/the-art-of-code-commenting-3m7i)
 <!-- BLOG-POST-LIST:END -->
 
