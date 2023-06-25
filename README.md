@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s on Your Learning Agenda this Week?](https://dev.to/codenewbieteam/whats-on-your-learning-agenda-this-week-124)
+- [Reliable Microservices Data Exchange With Streaming Database](https://dev.to/bobur/reliable-microservices-data-exchange-with-streaming-database-pdo)
+- [Enhancing Your Laravel API with Treblle Platform](https://dev.to/alphaolomi/enhancing-your-laravel-api-with-treblle-api-platform-2oob)
 - [The Online Community Chronicles: Where Did Your Digital Adventure Begin?](https://dev.to/devteam/the-online-community-chronicles-where-did-your-digital-adventure-begin-3f2p)
-- [7 More JavaScript Web APIs to Build Futuristic Websites you didn&#39;t Know 🤯](https://dev.to/ruppysuppy/7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg)
-- [Greatest Advice I’ve Heard in a Long Time](https://dev.to/philipjohnbasile/greatest-advice-ive-heard-in-a-long-time-glj)
+- [What&#39;s on Your Learning Agenda this Week?](https://dev.to/codenewbieteam/whats-on-your-learning-agenda-this-week-124)
 <!-- BLOG-POST-LIST:END -->
 
