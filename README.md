@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who moved my error codes? Adding error types to your GoLang GraphQL Server](https://dev.to/otterize/who-moved-my-error-codes-adding-error-types-to-your-golang-graphql-server-50p9)
+- [Docker vs Virtual Machine Analogy](https://dev.to/coderatul/docker-vs-virtual-machine-analogy-5382)
+- [Top 5 Websites You&#39;ll Love as a Developer👨‍💻](https://dev.to/acode123/top-5-websites-youll-love-as-a-developer-5m5)
 - [CSS Mask Div with Another Div- Complete Guide](https://dev.to/arsalanmee/css-mask-div-with-another-div-complete-guide-141l)
-- [What&#39;s New in Svelte 4: Performance Boosts and Streamlined Development](https://dev.to/this-is-learning/whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc)
-- [Reliable Microservices Data Exchange With Streaming Database](https://dev.to/bobur/reliable-microservices-data-exchange-with-streaming-database-pdo)
-- [Enhancing Your Laravel API with Treblle Platform](https://dev.to/alphaolomi/enhancing-your-laravel-api-with-treblle-api-platform-2oob)
 <!-- BLOG-POST-LIST:END -->
 
