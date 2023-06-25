@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Database Connectivity and Oracle Compatibility with EDB Postgres Advanced Server](https://dev.to/abdulsamad4068/streamlining-database-connectivity-and-oracle-compatibility-with-edb-postgres-advanced-server-5b89)
+- [Exploring the Power of EDB Postgres Advanced Server for Enterprise Database Solutions](https://dev.to/abdulsamad4068/exploring-the-power-of-edb-postgres-advanced-server-for-enterprise-database-solutions-3gl7)
+- [Guide to Becoming a Senior Software Engineer](https://dev.to/snowman647/guide-to-becoming-a-senior-software-engineer-3oj7)
 - [Streaming binary and base64 files](https://dev.to/zsevic/streaming-binary-and-base64-files-3o3d)
-- [Visualize CloudWatch Logs ingestion lag with Logs Insights](https://dev.to/shu85t/visualize-cloudwatch-logs-ingestion-lag-with-logs-insights-hkl)
-- [How to Secure Your MongoDB Database Against Attack](https://dev.to/treasuredev_/how-to-secure-your-mongodb-database-against-attack-12f8)
-- [10 Secret Tips That Make You a Better JavaScript Programmer](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-javascript-programmer-16e6)
 <!-- BLOG-POST-LIST:END -->
 
