@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Ecsact](https://dev.to/seaube/introducing-ecsact-13h6)
+- [Transforme a segurança do seu ambiente com CrowdSec](https://dev.to/_rsantos/transforme-a-seguranca-do-seu-ambiente-com-crowdsec-5f52)
+- [Taking notes](https://dev.to/wangonya/taking-notes-2ie0)
 - [How to turn images into prompts with the Img2Prompt AI Model: A Step-by-step guide](https://dev.to/mikeyoung44/how-to-turn-images-into-prompts-with-the-img2prompt-ai-model-a-step-by-step-guide-2jio)
-- [A Complete Guide to Turning Text into Audio with Audio-LDM](https://dev.to/mikeyoung44/a-complete-guide-to-turning-text-into-audio-with-audio-ldm-4nlp)
-- [Tailwind CSS vs Float UI: which one is the best in 2023?](https://dev.to/sididev/tailwind-css-vs-float-ui-which-one-is-the-best-in-2023-5ghp)
-- [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
 <!-- BLOG-POST-LIST:END -->
 
