@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding Chronicles: Unveiling the Epic Saga of 3 Years in Programming and the IT Field](https://dev.to/lotfijb/coding-chronicles-unveiling-the-epic-saga-of-3-years-in-programming-and-the-it-field-fad)
+- [9 Steps To Land A High Paying Remote Flutter Job](https://dev.to/yatendra2001/9-steps-to-land-a-high-paying-remote-flutter-job-j96)
 - [Python Evaluation Hackerrank Solution](https://dev.to/realnamehidden1_61/python-evaluation-hackerrank-solution-25j0)
 - [Higher-Order Functions and Callbacks: The Secret Sauce of JavaScript or Just Fancy Jargon?](https://dev.to/shubhamt619/higher-order-functions-and-callbacks-the-secret-sauce-of-javascript-or-just-fancy-jargon-418j)
-- [[Typia] I made realtime demo site of 20,000x faster validation &lpar;+200x faster JSON stringify&rpar;](https://dev.to/samchon/typia-i-made-realtime-demo-site-of-20000x-faster-validation-200x-faster-json-stringify-59p9)
-- [Extracting Class Methods: How To Derive an Interface From a Class](https://dev.to/zirkelc/extracting-class-methods-how-to-derive-an-interface-from-a-class-4co4)
 <!-- BLOG-POST-LIST:END -->
 
