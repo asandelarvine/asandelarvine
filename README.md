@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn regression model](https://dev.to/mugendii_/learn-regression-model-495d)
+- [Sites you should know: Part One](https://dev.to/roshdiraed/sites-you-should-know-part-one-5c1m)
+- [Debunking Common Programming Myths and Misconceptions](https://dev.to/husayn01/debunking-common-programming-myths-and-misconceptions-4306)
 - [Coding Chronicles: Unveiling the Epic Saga of 3 Years in Programming and the IT Field](https://dev.to/lotfijb/coding-chronicles-unveiling-the-epic-saga-of-3-years-in-programming-and-the-it-field-fad)
-- [9 Steps To Land A High Paying Remote Flutter Job](https://dev.to/yatendra2001/9-steps-to-land-a-high-paying-remote-flutter-job-j96)
-- [Python Evaluation Hackerrank Solution](https://dev.to/realnamehidden1_61/python-evaluation-hackerrank-solution-25j0)
-- [Higher-Order Functions and Callbacks: The Secret Sauce of JavaScript or Just Fancy Jargon?](https://dev.to/shubhamt619/higher-order-functions-and-callbacks-the-secret-sauce-of-javascript-or-just-fancy-jargon-418j)
 <!-- BLOG-POST-LIST:END -->
 
