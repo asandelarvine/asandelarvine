@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streaming binary and base64 files](https://dev.to/zsevic/streaming-binary-and-base64-files-3o3d)
 - [Visualize CloudWatch Logs ingestion lag with Logs Insights](https://dev.to/shu85t/visualize-cloudwatch-logs-ingestion-lag-with-logs-insights-hkl)
+- [How to Secure Your MongoDB Database Against Attack](https://dev.to/treasuredev_/how-to-secure-your-mongodb-database-against-attack-12f8)
 - [10 Secret Tips That Make You a Better JavaScript Programmer](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-javascript-programmer-16e6)
-- [Yet Another Newsletter LOL: The Great Migration](https://dev.to/nickytonline/yet-another-newsletter-lol-the-great-migration-gep)
-- [The Art of Code Commenting](https://dev.to/philip-ainberger/the-art-of-code-commenting-3m7i)
 <!-- BLOG-POST-LIST:END -->
 
