@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement CSS in Micro Front-End](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
 - [gRPC - Microservicios en Lenguajes Diferentes [JS y PY]](https://dev.to/bryanherreradev/grpc-microservicios-en-lenguajes-diferentes-js-y-py-9aj)
 - [Introducing Ecsact](https://dev.to/seaube/introducing-ecsact-13h6)
 - [Transforme a segurança do seu ambiente com CrowdSec](https://dev.to/_rsantos/transforme-a-seguranca-do-seu-ambiente-com-crowdsec-5f52)
-- [Taking notes](https://dev.to/wangonya/taking-notes-2ie0)
 <!-- BLOG-POST-LIST:END -->
 
