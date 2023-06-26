@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Server Actions, databases, and the future of data handling](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
+- [What&#39;s One Thing You&#39;d Change about Coding Education?](https://dev.to/devteam/whats-one-thing-youd-change-about-coding-education-nd6)
 - [Live Regions in React](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
 - [Ace the &quot;How do you deal with pressure or stressful situations&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-do-you-deal-with-pressure-or-stressful-situations-question-in-your-next-interview-3mi8)
-- [Let’s celebrate the milestones you’ve hit this year!](https://dev.to/virtualcoffee/lets-celebrate-the-milestones-youve-hit-this-year-41g6)
-- [12 Super Cool Machine Learning Projects that you didn&#39;t know are Open Source and made of JavaScript](https://dev.to/wmisingo/12-super-cool-machine-learning-projects-that-you-didnt-know-are-open-source-and-made-of-javascript-33cj)
 <!-- BLOG-POST-LIST:END -->
 
