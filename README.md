@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Break out of Tutorial Hell - What to Do When You&#39;re Going Nowhere](https://dev.to/canderson93/break-out-of-tutorial-hell-what-to-do-when-youre-going-nowhere-34gf)
+- [Youtube Channels For Learning UI/UX](https://dev.to/brojenuel/youtube-channels-for-learning-uiux-2k8c)
 - [AWS open source newsletter, #162](https://dev.to/aws/aws-open-source-newsletter-162-4o4j)
 - [Qwik introduction from Misko and Giorgio](https://dev.to/this-is-learning/qwik-introduction-from-misko-and-giorgio-3dbl)
-- [Weekly Roundup &lpar;Jun 19&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-19-hot-topics-in-workplace-sharepoint-and-powerplatform-fhl)
-- [Any Hidden Gems?💎✨ What Lesser-known Resources Boost Coding Skills?](https://dev.to/codenewbieteam/any-hidden-gems-what-lesser-known-resources-boost-coding-skills-1ggj)
 <!-- BLOG-POST-LIST:END -->
 
