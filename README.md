@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a customer Support Desk App with ToolJet and PostgreSQL](https://dev.to/tooljet/building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl)
+- [Building a Customer Support Desk App with ToolJet and PostgreSQL](https://dev.to/tooljet/building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl)
 - [Your Guide to Implementing Vue Placeholder Loading](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
 - [Group by Year, Month, or Day in PostgreSQL](https://dev.to/mayallo/group-by-year-month-or-day-in-postgresql-1p82)
 - [7 Secret Websites Every Developer Should Know](https://dev.to/akashpattnaik/7-secret-websites-every-developer-should-know-36f4)
