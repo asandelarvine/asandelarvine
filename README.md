@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Break out of Tutorial Hell - What to Do When You&#39;re Going Nowhere](https://dev.to/canderson93/break-out-of-tutorial-hell-what-to-do-when-youre-going-nowhere-34gf)
-- [Youtube Channels For Learning UI/UX](https://dev.to/brojenuel/youtube-channels-for-learning-uiux-2k8c)
-- [AWS open source newsletter, #162](https://dev.to/aws/aws-open-source-newsletter-162-4o4j)
-- [Qwik introduction from Misko and Giorgio](https://dev.to/this-is-learning/qwik-introduction-from-misko-and-giorgio-3dbl)
+- [Building a customer Support Desk App with ToolJet and PostgreSQL](https://dev.to/tooljet/building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl)
+- [Your Guide to Implementing Vue Placeholder Loading](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
+- [Group by Year, Month, or Day in PostgreSQL](https://dev.to/mayallo/group-by-year-month-or-day-in-postgresql-1p82)
+- [7 Secret Websites Every Developer Should Know](https://dev.to/akashpattnaik/7-secret-websites-every-developer-should-know-36f4)
 <!-- BLOG-POST-LIST:END -->
 
