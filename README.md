@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy 111th Birthday, Alan Turing!](https://dev.to/devteam/happy-111th-birthday-alan-turing-5271)
 - [Server Actions, databases, and the future of data handling](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
 - [What&#39;s One Thing You&#39;d Change about Coding Education?](https://dev.to/devteam/whats-one-thing-youd-change-about-coding-education-nd6)
 - [Live Regions in React](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
-- [Ace the &quot;How do you deal with pressure or stressful situations&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-do-you-deal-with-pressure-or-stressful-situations-question-in-your-next-interview-3mi8)
 <!-- BLOG-POST-LIST:END -->
 
