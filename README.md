@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#TestCulture 🦅 Episode 36 – Milestones are evaluated objectively](https://dev.to/mathilde_llg/testculture-episode-36-milestones-are-evaluated-objectively-4m08)
 - [jQuery Sidebar Menu with Submenu](https://dev.to/arsalanmee/jquery-sidebar-menu-with-submenu-45gl)
 - [My PostgreSQL Notes](https://dev.to/engineervinay/my-postgresql-notes-1a21)
 - [React with Redux - The Definitive guide.](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-1a82)
 <!-- BLOG-POST-LIST:END -->
 
