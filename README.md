@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk vs. Mark Zuckerberg 🤪🥊](https://dev.to/michaeltharrington/elon-musk-vs-mark-zuckerberg-4lef)
 - [Building Your DevRel Resume with Open Source](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)
+- [Using Aptabase Analytics with NativeScript](https://dev.to/nathanwalker/using-aptabase-analytics-with-nativescript-29al)
 - [Effortlessly Juggling Multiple Concurrent Requests in AWS Lambda](https://dev.to/aws-builders/effortlessly-juggling-multiple-concurrent-requests-in-aws-lambda-2agj)
-- [Understanding AWS Instance Connect End-Point](https://dev.to/prosperagada/understanding-aws-instant-connect-end-point-30g5)
-- [What are your goals for the week of June 25?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-25-552b)
 <!-- BLOG-POST-LIST:END -->
 
