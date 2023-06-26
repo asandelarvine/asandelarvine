@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Customer Support Desk App with ToolJet and PostgreSQL](https://dev.to/tooljet/building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl)
-- [Your Guide to Implementing Vue Placeholder Loading](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
-- [Group by Year, Month, or Day in PostgreSQL](https://dev.to/mayallo/group-by-year-month-or-day-in-postgresql-1p82)
-- [7 Secret Websites Every Developer Should Know](https://dev.to/akashpattnaik/7-secret-websites-every-developer-should-know-36f4)
+- [New Crypto Token Standards in 2023 - Ultimate Guide For Cryptopreneurs](https://dev.to/jessietomaz/new-crypto-token-standards-in-2023-ultimate-guide-for-cryptopreneurs-508)
+- [Meme Monday](https://dev.to/ben/meme-monday-12jl)
+- [How I deploy my website using my Apple Watch](https://dev.to/whitep4nth3r/how-i-deploy-my-website-using-my-apple-watch-18m5)
+- [CSS](https://dev.to/douglaswlc/css-3gp5)
 <!-- BLOG-POST-LIST:END -->
 
