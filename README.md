@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup &lpar;Jun 19&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-19-hot-topics-in-workplace-sharepoint-and-powerplatform-fhl)
 - [Any Hidden Gems?💎✨ What Lesser-known Resources Boost Coding Skills?](https://dev.to/codenewbieteam/any-hidden-gems-what-lesser-known-resources-boost-coding-skills-1ggj)
 - [Profitable from Trends with the SuperTrend Strategy](https://dev.to/techpulzz/profitable-from-trends-with-the-supertrend-strategy-2k07)
 - [The Power Trio: People, Process and Technology to drive Low-Code Adoption in Large Enterprises](https://dev.to/balagmadhu/the-power-trio-people-process-and-technology-to-drive-low-code-adoption-in-large-enterprises-2665)
-- [Tricks to make Responsive in CSS](https://dev.to/mohan077/tricks-to-make-responsive-in-css-gj)
 <!-- BLOG-POST-LIST:END -->
 
