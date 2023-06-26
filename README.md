@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Effortlessly Juggling Multiple Concurrent Requests in AWS Lambda](https://dev.to/aws-builders/effortlessly-juggling-multiple-concurrent-requests-in-aws-lambda-2agj)
+- [Understanding AWS Instance Connect End-Point](https://dev.to/prosperagada/understanding-aws-instant-connect-end-point-30g5)
+- [What are your goals for the week of June 25?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-june-25-552b)
 - [#TestCulture 🦅 Episode 36 – Milestones are evaluated objectively](https://dev.to/mathilde_llg/testculture-episode-36-milestones-are-evaluated-objectively-4m08)
-- [jQuery Sidebar Menu with Submenu](https://dev.to/arsalanmee/jquery-sidebar-menu-with-submenu-45gl)
-- [My PostgreSQL Notes](https://dev.to/engineervinay/my-postgresql-notes-1a21)
-- [React with Redux - The Definitive guide.](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)
 <!-- BLOG-POST-LIST:END -->
 
