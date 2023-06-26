@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Any Hidden Gems?💎✨ What Lesser-known Resources Boost Coding Skills?](https://dev.to/codenewbieteam/any-hidden-gems-what-lesser-known-resources-boost-coding-skills-1ggj)
+- [Profitable from Trends with the SuperTrend Strategy](https://dev.to/techpulzz/profitable-from-trends-with-the-supertrend-strategy-2k07)
+- [The Power Trio: People, Process and Technology to drive Low-Code Adoption in Large Enterprises](https://dev.to/balagmadhu/the-power-trio-people-process-and-technology-to-drive-low-code-adoption-in-large-enterprises-2665)
 - [Tricks to make Responsive in CSS](https://dev.to/mohan077/tricks-to-make-responsive-in-css-gj)
-- [Make your Text responsive using CSS](https://dev.to/mohan077/make-your-text-responsive-using-css-lgk)
-- [How To Avoid Breaking Your React Application On Production](https://dev.to/myogeshchavan97/how-to-avoid-breaking-your-react-application-on-production-6c5)
-- [Understanding CSS Logical Properties](https://dev.to/azam4code/understanding-css-logical-properties-192n)
 <!-- BLOG-POST-LIST:END -->
 
