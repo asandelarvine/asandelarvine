@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-1a82)
+- [Music Monday — What are you listening to? &lpar;Sunny Weather Edition ☀️&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunny-weather-edition--1j5d)
 - [New Crypto Token Standards in 2023 - Ultimate Guide For Cryptopreneurs](https://dev.to/jessietomaz/new-crypto-token-standards-in-2023-ultimate-guide-for-cryptopreneurs-508)
 - [Meme Monday](https://dev.to/ben/meme-monday-12jl)
-- [How I deploy my website using my Apple Watch](https://dev.to/whitep4nth3r/how-i-deploy-my-website-using-my-apple-watch-18m5)
-- [CSS](https://dev.to/douglaswlc/css-3gp5)
 <!-- BLOG-POST-LIST:END -->
 
