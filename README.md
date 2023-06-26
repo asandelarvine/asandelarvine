@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Database Connectivity and Oracle Compatibility with EDB Postgres Advanced Server](https://dev.to/abdulsamad4068/streamlining-database-connectivity-and-oracle-compatibility-with-edb-postgres-advanced-server-5b89)
-- [Exploring the Power of EDB Postgres Advanced Server for Enterprise Database Solutions](https://dev.to/abdulsamad4068/exploring-the-power-of-edb-postgres-advanced-server-for-enterprise-database-solutions-3gl7)
-- [Guide to Becoming a Senior Software Engineer](https://dev.to/snowman647/guide-to-becoming-a-senior-software-engineer-3oj7)
-- [TypeScript vs JavaScript: Why Should You Learn TypeScript?](https://dev.to/hakimov_dev/typescript-vs-javascript-why-should-you-learn-typescript-1che)
+- [Unsupervised Clustering with K-Means](https://dev.to/pedrohgoncalves/unsupervised-clustering-with-k-means-5h26)
+- [FLaNK Stack Weekly on 26 June 2023](https://dev.to/tspannhw/flank-stack-weekly-on-26-june-2023-3082)
+- [5 Free AI Tools for Everyone and Anyone : Part 2](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
+- [How to create your own completion for vim](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-20h2)
 <!-- BLOG-POST-LIST:END -->
 
