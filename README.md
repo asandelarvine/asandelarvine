@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Avoid Breaking Your React Application On Production](https://dev.to/myogeshchavan97/how-to-avoid-breaking-your-react-application-on-production-6c5)
+- [Understanding CSS Logical Properties](https://dev.to/azam4code/understanding-css-logical-properties-192n)
 - [Unsupervised Clustering with K-Means](https://dev.to/pedrohgoncalves/unsupervised-clustering-with-k-means-5h26)
 - [FLaNK Stack Weekly on 26 June 2023](https://dev.to/tspannhw/flank-stack-weekly-on-26-june-2023-3082)
-- [5 Free AI Tools for Everyone and Anyone : Part 2](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
-- [How to create your own completion for vim](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-20h2)
 <!-- BLOG-POST-LIST:END -->
 
