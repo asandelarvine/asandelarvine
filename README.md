@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [jQuery Sidebar Menu with Submenu](https://dev.to/arsalanmee/jquery-sidebar-menu-with-submenu-45gl)
+- [My PostgreSQL Notes](https://dev.to/engineervinay/my-postgresql-notes-1a21)
+- [React with Redux - The Definitive guide.](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)
 - [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-1a82)
-- [Music Monday — What are you listening to? &lpar;Sunny Weather Edition ☀️&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunny-weather-edition--1j5d)
-- [New Crypto Token Standards in 2023 - Ultimate Guide For Cryptopreneurs](https://dev.to/jessietomaz/new-crypto-token-standards-in-2023-ultimate-guide-for-cryptopreneurs-508)
-- [Meme Monday](https://dev.to/ben/meme-monday-12jl)
 <!-- BLOG-POST-LIST:END -->
 
