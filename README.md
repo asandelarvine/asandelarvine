@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tricks to make Responsive in CSS](https://dev.to/mohan077/tricks-to-make-responsive-in-css-gj)
+- [Make your Text responsive using CSS](https://dev.to/mohan077/make-your-text-responsive-using-css-lgk)
 - [How To Avoid Breaking Your React Application On Production](https://dev.to/myogeshchavan97/how-to-avoid-breaking-your-react-application-on-production-6c5)
 - [Understanding CSS Logical Properties](https://dev.to/azam4code/understanding-css-logical-properties-192n)
-- [Unsupervised Clustering with K-Means](https://dev.to/pedrohgoncalves/unsupervised-clustering-with-k-means-5h26)
-- [FLaNK Stack Weekly on 26 June 2023](https://dev.to/tspannhw/flank-stack-weekly-on-26-june-2023-3082)
 <!-- BLOG-POST-LIST:END -->
 
