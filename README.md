@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to write a perfect README for your GitHub project](https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2)
-- [JavaScript Collections Guide](https://dev.to/catherineisonline/javascript-collections-guide-119e)
-- [Elon Musk vs. Mark Zuckerberg 🤪🥊](https://dev.to/michaeltharrington/elon-musk-vs-mark-zuckerberg-4lef)
-- [Building Your DevRel Resume with Open Source](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)
+- [Live Regions in React](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
+- [Ace the &quot;How do you deal with pressure or stressful situations&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-do-you-deal-with-pressure-or-stressful-situations-question-in-your-next-interview-3mi8)
+- [Let’s celebrate the milestones you’ve hit this year!](https://dev.to/virtualcoffee/lets-celebrate-the-milestones-youve-hit-this-year-41g6)
+- [12 Super Cool Machine Learning Projects that you didn&#39;t know are Open Source and made of JavaScript](https://dev.to/wmisingo/12-super-cool-machine-learning-projects-that-you-didnt-know-are-open-source-and-made-of-javascript-33cj)
 <!-- BLOG-POST-LIST:END -->
 
