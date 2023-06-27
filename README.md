@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Bridging the Gap: Exploring AWS Direct Connect &amp; AWS Site-to-Site VPN for Seamless Cloud-to-On-Premises Connectivity](https://dev.to/brandondamue/bridging-the-gap-exploring-aws-direct-connect-aws-site-to-site-vpn-for-seamless-cloud-to-on-premises-connectivity-3nkm)
 - [VScode vs Others: the War on Code Editors](https://dev.to/scofieldidehen/vscode-vs-others-the-war-on-code-editors-51k6)
 - [GitHub Larger Runners EXPLAINED! - No more limits](https://dev.to/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
-- [Introdução a blockchain](https://dev.to/wilsonlucena/introducao-a-blockchain-no6)
+- [Testando Kafka no Spring Boot com Testcontainers](https://dev.to/rafaelfantinel/testando-kafka-no-spring-boot-com-testcontainers-3hoe)
 <!-- BLOG-POST-LIST:END -->
 
