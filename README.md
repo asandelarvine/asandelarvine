@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No tests? No problem: Automating NodeJs testing](https://dev.to/royaljain/no-tests-no-problem-automating-nodejs-testing-55p9)
-- [Flowbite Icons - 430+ free and open-source SVG icons for Tailwind CSS and Figma](https://dev.to/zoltanszogyenyi/flowbite-icons-430-free-and-open-source-svg-icons-for-tailwind-css-and-figma-5h0m)
-- [Unleash the Developer Tools Magic: Unlocking Top-Secret Hacks!](https://dev.to/luciacenetiempo/unleash-the-developer-tools-magic-unlocking-top-secret-hacks-2g7o)
-- [How the Gherkin Language Can Help Customers and Developers Communicate](https://dev.to/richhardos/how-the-gherkin-language-can-help-customers-and-developers-communicate-47n7)
+- [Comparing Promises and Async/Await in JavaScript](https://dev.to/getsmartwebsite/comparing-promises-and-asyncawait-in-javascript-7c6)
+- [JavaScript DOM Explained: A Practical Beginner’s Tutorial](https://dev.to/max88git/javascript-dom-explained-a-practical-beginners-tutorial-3679)
+- [20 &lpar;Intermediate-Level&rpar; C# Interview Questions](https://dev.to/bytehide/20-intermediate-level-c-interview-questions-4ff0)
+- [Is Code Generation a Bad Idea? 🤔](https://dev.to/zenstack/is-code-generation-a-bad-idea-2gk9)
 <!-- BLOG-POST-LIST:END -->
 
