@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Summer-Ready Packing List App with React and TailwindCSS](https://dev.to/ritabradley_dev/building-a-summer-ready-packing-list-app-with-react-and-tailwindcss-3eil)
-- [Plug &amp; Play Modular Architecture for Scalable and Maintainable Apps](https://dev.to/valeriavg/plug-play-modular-architecture-for-scalable-and-maintainable-apps-2je9)
-- [The Truth Behind: Deno vs. Node.js](https://dev.to/akashpattnaik/the-truth-behind-deno-vs-nodejs-2a32)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2cg4)
+- [How to identify topics in text content with Python?](https://dev.to/edenai/how-to-identify-topics-in-text-content-with-python-500p)
+- [Featured Mod of the Month: Jeff Jessie](https://dev.to/devteam/featured-mod-of-the-month-jeff-jessie-5b6f)
+- [Login flow with Google Identity Services and Firebase](https://dev.to/elizacamber/login-flow-with-google-identity-services-and-firebase-f1f)
+- [The best landing page builder powered by AI is now live](https://dev.to/sididev/the-best-landing-page-builder-powered-by-ai-is-now-live-35nh)
 <!-- BLOG-POST-LIST:END -->
 
