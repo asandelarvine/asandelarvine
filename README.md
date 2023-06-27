@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One API to show crypto charts in react-native](https://dev.to/shreyvijayvargiya/one-api-to-show-crypto-charts-in-react-native-1pdp)
-- [3 Examples of Brilliant Vertical Timelines with Tailwind CSS](https://dev.to/cruip_com/3-examples-of-brilliant-vertical-timelines-with-tailwind-css-44)
-- [How To Create Custom Hooks in React / Next JS](https://dev.to/inaju/how-to-create-custom-hooks-in-react-next-js-46m5)
-- [An Intuitive Guide To CSS Glassmorphism](https://dev.to/anuraggharat651/an-intuitive-guide-to-css-glassmorphism-4id9)
+- [No tests? No problem: Automating NodeJs testing](https://dev.to/royaljain/no-tests-no-problem-automating-nodejs-testing-55p9)
+- [Flowbite Icons - 430+ free and open-source SVG icons for Tailwind CSS and Figma](https://dev.to/zoltanszogyenyi/flowbite-icons-430-free-and-open-source-svg-icons-for-tailwind-css-and-figma-5h0m)
+- [Unleash the Developer Tools Magic: Unlocking Top-Secret Hacks!](https://dev.to/luciacenetiempo/unleash-the-developer-tools-magic-unlocking-top-secret-hacks-2g7o)
+- [How the Gherkin Language Can Help Customers and Developers Communicate](https://dev.to/richhardos/how-the-gherkin-language-can-help-customers-and-developers-communicate-47n7)
 <!-- BLOG-POST-LIST:END -->
 
