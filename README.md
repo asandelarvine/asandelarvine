@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide: Applying Default Site Templates in Microsoft Teams for Streamlined Collaboration](https://dev.to/jaloplo/practical-guide-applying-default-site-templates-in-microsoft-teams-for-streamlined-collaboration-404)
-- [How I built a sales management app with Next.js 13, Typescript, and Firebase](https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb)
-- [Advice for New Coders: Fundamentals or Frameworks?](https://dev.to/codenewbieteam/advice-for-new-coders-fundamentals-or-frameworks-2cg6)
-- [Best Practices for Memory Management in C++: How Do You Prevent Leaks and Optimize Resource Usage?](https://dev.to/devteam/best-practices-for-memory-management-in-c-how-do-you-prevent-leaks-and-optimize-resource-usage-277b)
+- [One API to show crypto charts in react-native](https://dev.to/shreyvijayvargiya/one-api-to-show-crypto-charts-in-react-native-1pdp)
+- [3 Examples of Brilliant Vertical Timelines with Tailwind CSS](https://dev.to/cruip_com/3-examples-of-brilliant-vertical-timelines-with-tailwind-css-44)
+- [How To Create Custom Hooks in React / Next JS](https://dev.to/inaju/how-to-create-custom-hooks-in-react-next-js-46m5)
+- [An Intuitive Guide To CSS Glassmorphism](https://dev.to/anuraggharat651/an-intuitive-guide-to-css-glassmorphism-4id9)
 <!-- BLOG-POST-LIST:END -->
 
