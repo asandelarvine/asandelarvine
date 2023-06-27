@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby Method of the Day: Array.new with Block](https://dev.to/burdettelamar/ruby-method-of-the-day-arraynew-with-block-3mj5)
 - [#DEVDiscuss: Developing SaaS Products](https://dev.to/devteam/devdiscuss-developing-saas-products-2kob)
 - [Troubleshoot faster with Appwrite Cloud&#39;s active developer community](https://dev.to/hackmamba/troubleshoot-faster-with-appwrite-clouds-active-developer-community-m4d)
-- [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
-- [Simplified: Linux Directory Structure [Part 1]](https://dev.to/titusnjuguna/simplified-linux-directory-structure-part-1-2j5e)
+- [Why Do We Obsess Over Speed So Much?](https://dev.to/psypher1/why-do-we-obsess-over-speed-so-much-f2j)
 <!-- BLOG-POST-LIST:END -->
 
