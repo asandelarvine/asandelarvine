@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Developing SaaS Products](https://dev.to/devteam/devdiscuss-developing-saas-products-2kob)
+- [Troubleshoot faster with Appwrite Cloud&#39;s active developer community](https://dev.to/hackmamba/troubleshoot-faster-with-appwrite-clouds-active-developer-community-m4d)
 - [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
 - [Simplified: Linux Directory Structure [Part 1]](https://dev.to/titusnjuguna/simplified-linux-directory-structure-part-1-2j5e)
-- [Getting started with the Mojo programming language](https://dev.to/logrocket/getting-started-with-the-mojo-programming-language-1l4g)
-- [RPCiege: How to Complete Skirmish No.1](https://dev.to/stellar/rpciege-setup-4eg7)
 <!-- BLOG-POST-LIST:END -->
 
