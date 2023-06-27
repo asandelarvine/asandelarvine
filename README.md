@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Promises and Async/Await in JavaScript](https://dev.to/getsmartwebsite/comparing-promises-and-asyncawait-in-javascript-7c6)
-- [JavaScript DOM Explained: A Practical Beginner’s Tutorial](https://dev.to/max88git/javascript-dom-explained-a-practical-beginners-tutorial-3679)
-- [20 &lpar;Intermediate-Level&rpar; C# Interview Questions](https://dev.to/bytehide/20-intermediate-level-c-interview-questions-4ff0)
-- [Is Code Generation a Bad Idea? 🤔](https://dev.to/zenstack/is-code-generation-a-bad-idea-2gk9)
+- [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://dev.to/codenameone/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks-326c)
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-49gp)
+- [GraphQL - Resolvers](https://dev.to/shubhamtiwari909/graphql-resolvers-4e49)
+- [GraphQL - TypeDefs](https://dev.to/shubhamtiwari909/graphql-typedefs-4bdf)
 <!-- BLOG-POST-LIST:END -->
 
