@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridging the Gap: Exploring AWS Direct Connect &amp; AWS Site-to-Site VPN for Seamless Cloud-to-On-Premises Connectivity](https://dev.to/brandondamue/bridging-the-gap-exploring-aws-direct-connect-aws-site-to-site-vpn-for-seamless-cloud-to-on-premises-connectivity-3nkm)
+- [VScode vs Others: the War on Code Editors](https://dev.to/scofieldidehen/vscode-vs-others-the-war-on-code-editors-51k6)
 - [GitHub Larger Runners EXPLAINED! - No more limits](https://dev.to/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
 - [Introdução a blockchain](https://dev.to/wilsonlucena/introducao-a-blockchain-no6)
-- [Create a serverless API that interacts with an AWS DynamoDB table](https://dev.to/aws-builders/create-a-serverless-api-that-interacts-with-an-aws-dynamodb-table-1gp6)
-- [Happy 111th Birthday, Alan Turing!](https://dev.to/devteam/happy-111th-birthday-alan-turing-5271)
 <!-- BLOG-POST-LIST:END -->
 
