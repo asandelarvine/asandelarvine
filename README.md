@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Truth Behind: Deno vs. Node.js](https://dev.to/akashpattnaik/the-truth-behind-deno-vs-nodejs-2a32)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2cg4)
 - [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://dev.to/codenameone/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks-326c)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-49gp)
-- [GraphQL - Resolvers](https://dev.to/shubhamtiwari909/graphql-resolvers-4e49)
-- [GraphQL - TypeDefs](https://dev.to/shubhamtiwari909/graphql-typedefs-4bdf)
+- [Making a Cloud Resume](https://dev.to/tristabrister/making-a-cloud-resume-1och)
 <!-- BLOG-POST-LIST:END -->
 
