@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does your company already use low-code?](https://dev.to/r3-fabian/does-your-company-still-use-low-code-4cpp)
-- [How to build microservices with Docker - The Orchestration](https://dev.to/sainig/how-to-build-microservices-with-docker-the-orchestration-5d0f)
-- [Unpopular opinion: Volar is a buggy mess.](https://dev.to/thuragan/unpopular-opinion-volar-is-a-buggy-mess-1feb)
-- [So You Want to Speak at a &lpar;Technical&rpar; Conference: Responding to a CfP](https://dev.to/thedanicafine/so-you-want-to-speak-at-a-technical-conference-responding-to-a-cfp-54m6)
+- [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
+- [Simplified: Linux Directory Structure [Part 1]](https://dev.to/titusnjuguna/simplified-linux-directory-structure-part-1-2j5e)
+- [Getting started with the Mojo programming language](https://dev.to/logrocket/getting-started-with-the-mojo-programming-language-1l4g)
+- [RPCiege: How to Complete Skirmish No.1](https://dev.to/stellar/rpciege-setup-4eg7)
 <!-- BLOG-POST-LIST:END -->
 
