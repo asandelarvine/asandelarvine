@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [So You Want to Speak at a &lpar;Technical&rpar; Conference: Responding to a CfP](https://dev.to/thedanicafine/so-you-want-to-speak-at-a-technical-conference-responding-to-a-cfp-54m6)
 - [How to identify topics in text content with Python?](https://dev.to/edenai/how-to-identify-topics-in-text-content-with-python-500p)
 - [Featured Mod of the Month: Jeff Jessie](https://dev.to/devteam/featured-mod-of-the-month-jeff-jessie-5b6f)
 - [Login flow with Google Identity Services and Firebase](https://dev.to/elizacamber/login-flow-with-google-identity-services-and-firebase-f1f)
-- [The best landing page builder powered by AI is now live](https://dev.to/sididev/the-best-landing-page-builder-powered-by-ai-is-now-live-35nh)
 <!-- BLOG-POST-LIST:END -->
 
