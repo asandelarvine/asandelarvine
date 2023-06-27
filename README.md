@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript based Excel Office Add-in in Visual Studio](https://dev.to/ifourtechnolab/javascript-based-excel-office-add-in-in-visual-studio-2gno)
+- [REST API using GO&lpar;gin&rpar; &amp; Mongo](https://dev.to/deeshath/rest-api-using-gogin-mongo-33i3)
+- [Top 14 Game-Changing Websites Every Developer Should Know About 🚀🔥](https://dev.to/arjuncodess/top-14-game-changing-websites-every-developer-should-know-about-4dlc)
 - [Bridging the Gap: Exploring AWS Direct Connect &amp; AWS Site-to-Site VPN for Seamless Cloud-to-On-Premises Connectivity](https://dev.to/brandondamue/bridging-the-gap-exploring-aws-direct-connect-aws-site-to-site-vpn-for-seamless-cloud-to-on-premises-connectivity-3nkm)
-- [VScode vs Others: the War on Code Editors](https://dev.to/scofieldidehen/vscode-vs-others-the-war-on-code-editors-51k6)
-- [GitHub Larger Runners EXPLAINED! - No more limits](https://dev.to/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
-- [Testando Kafka no Spring Boot com Testcontainers](https://dev.to/rafaelfantinel/testando-kafka-no-spring-boot-com-testcontainers-3hoe)
 <!-- BLOG-POST-LIST:END -->
 
