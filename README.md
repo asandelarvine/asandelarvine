@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript based Excel Office Add-in in Visual Studio](https://dev.to/ifourtechnolab/javascript-based-excel-office-add-in-in-visual-studio-2gno)
-- [REST API using GO&lpar;gin&rpar; &amp; Mongo](https://dev.to/deeshath/rest-api-using-gogin-mongo-33i3)
-- [Top 14 Game-Changing Websites Every Developer Should Know About 🚀🔥](https://dev.to/arjuncodess/top-14-game-changing-websites-every-developer-should-know-about-4dlc)
-- [Bridging the Gap: Exploring AWS Direct Connect &amp; AWS Site-to-Site VPN for Seamless Cloud-to-On-Premises Connectivity](https://dev.to/brandondamue/bridging-the-gap-exploring-aws-direct-connect-aws-site-to-site-vpn-for-seamless-cloud-to-on-premises-connectivity-3nkm)
+- [Best Practices for Memory Management in C++: How Do You Prevent Leaks and Optimize Resource Usage?](https://dev.to/devteam/best-practices-for-memory-management-in-c-how-do-you-prevent-leaks-and-optimize-resource-usage-277b)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3gje)
+- [Advice for New Coders: Fundamentals or Frameworks?](https://dev.to/codenewbieteam/advice-for-new-coders-fundamentals-or-frameworks-2cg6)
+- [Journey into Blockchain Development](https://dev.to/robocrypter/journey-into-blockchain-development-1cj8)
 <!-- BLOG-POST-LIST:END -->
 
