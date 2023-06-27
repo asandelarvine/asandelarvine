@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [كل عام وانتم بخير - eid adha mubarak](https://dev.to/muhmmadawd/kl-m-wntm-bkhyr-eid-adha-mubarak-p30)
+- [The Unfair Game - When VC Funding Turns into an Evil Empire](https://dev.to/johnrushx/the-unfair-game-when-vc-funding-turns-into-an-evil-empire-1fb4)
+- [Rendering tasks &lpar;Writing TUI with Ratatouille&rpar;](https://dev.to/katafrakt/rendering-tasks-writing-tui-in-ratatouille-518b)
 - [Ruby Method of the Day: Array.new with Block](https://dev.to/burdettelamar/ruby-method-of-the-day-arraynew-with-block-3mj5)
-- [#DEVDiscuss: Developing SaaS Products](https://dev.to/devteam/devdiscuss-developing-saas-products-2kob)
-- [Troubleshoot faster with Appwrite Cloud&#39;s active developer community](https://dev.to/hackmamba/troubleshoot-faster-with-appwrite-clouds-active-developer-community-m4d)
-- [Why Do We Obsess Over Speed So Much?](https://dev.to/psypher1/why-do-we-obsess-over-speed-so-much-f2j)
 <!-- BLOG-POST-LIST:END -->
 
