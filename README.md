@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is CSS Writing Mode: A Complete Guide](https://dev.to/arsalanmee/what-is-css-writing-mode-a-complete-guide-24l5)
-- [Top Essential Methods in JavaScript You Need to Know](https://dev.to/faridteymouri/top-essential-methods-in-javascript-you-need-to-know-353c)
-- [Redis](https://dev.to/thangsuperman/redis-3bnj)
-- [How a Server Monitoring Service Can Improve Your Website&#39;s Performance](https://dev.to/dhsupcloud/how-a-server-monitoring-service-can-improve-your-websites-performance-3bdc)
+- [JavaScript console methods: A deep dive.](https://dev.to/kelvinguchu/javascript-console-methods-a-deep-dive-jbf)
+- [Build Your Own Personal Twitter Agent 🧠🐦⛓ with LangChain](https://dev.to/wasp/build-your-own-personal-twitter-agent-with-langchain-32n3)
+- [Arabic Text Rendering Issues in JavaFX](https://dev.to/abdelrahmanbayoumi/arabic-text-rendering-issues-in-javafx-3j9i)
+- [Demystifying the HTTP Host header](https://dev.to/fastly/demystifying-the-http-host-header-dg8)
 <!-- BLOG-POST-LIST:END -->
 
