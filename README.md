@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;A Model&#39;s Journey to Software Development&quot;: CodeNewbie Podcast S24E8](https://dev.to/codenewbieteam/a-models-journey-to-software-development-codenewbie-podcast-s24e8-58ke)
-- [JavaScript console methods: A deep dive.](https://dev.to/kelvinguchu/javascript-console-methods-a-deep-dive-jbf)
-- [Happy and Productive Engineers with Backstage](https://dev.to/antweiss/happy-and-productive-developers-with-backstage-31g1)
-- [Build Your Own Personal Twitter Agent 🧠🐦⛓ with LangChain](https://dev.to/wasp/build-your-own-personal-twitter-agent-with-langchain-32n3)
+- [Setting a LAMP server on Digital Ocean + SSL](https://dev.to/sarahcssiqueira/setting-a-lamp-server-on-digital-ocean-ssl-55l0)
+- [How did you become a developer? What was the magic moment?](https://dev.to/philipjohnbasile/how-did-you-become-a-developer-what-was-the-magic-moment-5ecl)
+- [20 C# Interview Questions &lpar;for Experienced&rpar; 2023](https://dev.to/bytehide/20-c-interview-questions-for-experienced-2023-1hl6)
+- [Handle optional input parameters in AWS Step Functions without Lambda](https://dev.to/kumo/handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m)
 <!-- BLOG-POST-LIST:END -->
 
