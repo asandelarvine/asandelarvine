@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add CSS to your HTML Pages](https://dev.to/salehmubashar/how-to-add-css-to-your-html-pages-j9b)
+- [SOLID Principles: A Quick Guide &lpar;.NET examples&rpar;](https://dev.to/philip-ainberger/solid-principles-a-quick-guide-net-examples-lia)
+- [Help Needed!](https://dev.to/craigbird2541/help-needed-1612)
 - [Make your friends say anything: AI lip-syncing videos with the Wav2Lip model](https://dev.to/mikeyoung44/make-your-friends-say-anything-ai-lip-syncing-videos-with-the-wav2lip-model-49gk)
-- [10 Secret Tips That Make You a Better Python Programmer 😎💻](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-python-programmer-1gn)
-- [&quot;Survival Guide for the All-in-One Developer: Conquering the New Job”](https://dev.to/martinloerae/survival-guide-for-the-all-in-one-developer-conquering-the-new-job-m10)
-- [HATEOAS Principle - Generating Full Paths for Objects in Django Rest Framework.](https://dev.to/sten/hateoas-principle-generating-full-paths-for-objects-in-django-rest-framework-366j)
 <!-- BLOG-POST-LIST:END -->
 
