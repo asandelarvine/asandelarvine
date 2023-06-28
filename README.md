@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ticking Timer Bomb: The Transition from create-react-app to Vite and React](https://dev.to/evansifyke/ticking-timer-bomb-the-transition-from-create-react-app-to-vite-and-react-2o02)
+- [How to streamline and focus your sequence diagrams](https://dev.to/appmap/how-to-streamline-and-focus-your-sequence-diagrams-3p7o)
+- [Configu: Unleashing the Power of Configuration as Code](https://dev.to/rannn505/configu-unleashing-the-power-of-configuration-as-code-2b6i)
 - [How to Add CSS to your HTML Pages](https://dev.to/salehmubashar/how-to-add-css-to-your-html-pages-j9b)
-- [SOLID Principles: A Quick Guide &lpar;.NET examples&rpar;](https://dev.to/philip-ainberger/solid-principles-a-quick-guide-net-examples-lia)
-- [Help Needed!](https://dev.to/craigbird2541/help-needed-1612)
-- [Make your friends say anything: AI lip-syncing videos with the Wav2Lip model](https://dev.to/mikeyoung44/make-your-friends-say-anything-ai-lip-syncing-videos-with-the-wav2lip-model-49gk)
 <!-- BLOG-POST-LIST:END -->
 
