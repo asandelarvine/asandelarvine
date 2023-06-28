@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boneless: a CLI to create your apps with Go](https://dev.to/renanbastos93/boneless-a-cli-to-create-your-apps-with-go-31kh)
-- [Build a Serverless Application for Audio to Text conversion](https://dev.to/abhirockzz/use-go-with-aws-lambda-and-amazon-transcribe-to-build-a-speech-to-text-converter-1j36)
-- [Fullstack Angular with Analog 🚀](https://dev.to/analogjs/fullstack-angular-with-analog-2mnj)
-- [Setting a LAMP server on Digital Ocean + SSL](https://dev.to/sarahcssiqueira/setting-a-lamp-server-on-digital-ocean-ssl-55l0)
+- [Make your friends say anything: AI lip-syncing videos with the Wav2Lip model](https://dev.to/mikeyoung44/make-your-friends-say-anything-ai-lip-syncing-videos-with-the-wav2lip-model-49gk)
+- [10 Secret Tips That Make You a Better Python Programmer 😎💻](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-python-programmer-1gn)
+- [&quot;Survival Guide for the All-in-One Developer: Conquering the New Job”](https://dev.to/martinloerae/survival-guide-for-the-all-in-one-developer-conquering-the-new-job-m10)
+- [HATEOAS Principle - Generating Full Paths for Objects in Django Rest Framework.](https://dev.to/sten/hateoas-principle-generating-full-paths-for-objects-in-django-rest-framework-366j)
 <!-- BLOG-POST-LIST:END -->
 
