@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it too late to fix the problem of AI clutter on the web?](https://dev.to/codepo8/is-it-too-late-to-fix-the-problem-of-ai-clutter-on-the-web-5dja)
+- [How to Be a Laravel and React Programmer at the Same Time ?! 🤔](https://dev.to/roshdiraed/how-to-be-a-laravel-and-react-programmer-at-the-same-time--4a4j)
 - [6 reasons why Dodo IS developers go to Gemba](https://dev.to/dodoengineering/6-reasons-why-dodo-is-developers-go-to-gemba-31l7)
 - [Welcome Thread - v231](https://dev.to/devteam/welcome-thread-v233-5h0a)
-- [Laravel 10 &amp; Next.js 13 JWT open-source boilerplate](https://dev.to/avocado-media/laravel-10-nextjs-13-jwt-open-source-boilerplate-2ogf)
-- [Deploy a NEXT.js app for FREE on AWS with SST](https://dev.to/kumo/deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28)
 <!-- BLOG-POST-LIST:END -->
 
