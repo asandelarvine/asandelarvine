@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boneless: a CLI to create your apps with Go](https://dev.to/renanbastos93/boneless-a-cli-to-create-your-apps-with-go-31kh)
+- [Build a Serverless Application for Audio to Text conversion](https://dev.to/abhirockzz/use-go-with-aws-lambda-and-amazon-transcribe-to-build-a-speech-to-text-converter-1j36)
+- [Fullstack Angular with Analog 🚀](https://dev.to/analogjs/fullstack-angular-with-analog-2mnj)
 - [Setting a LAMP server on Digital Ocean + SSL](https://dev.to/sarahcssiqueira/setting-a-lamp-server-on-digital-ocean-ssl-55l0)
-- [How did you become a developer? What was the magic moment?](https://dev.to/philipjohnbasile/how-did-you-become-a-developer-what-was-the-magic-moment-5ecl)
-- [20 C# Interview Questions &lpar;for Experienced&rpar; 2023](https://dev.to/bytehide/20-c-interview-questions-for-experienced-2023-1hl6)
-- [Handle optional input parameters in AWS Step Functions without Lambda](https://dev.to/kumo/handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m)
 <!-- BLOG-POST-LIST:END -->
 
