@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it too late to fix the problem of AI clutter on the web?](https://dev.to/codepo8/is-it-too-late-to-fix-the-problem-of-ai-clutter-on-the-web-5dja)
-- [How to Be a Laravel and React Programmer at the Same Time ?! 🤔](https://dev.to/roshdiraed/how-to-be-a-laravel-and-react-programmer-at-the-same-time--4a4j)
-- [6 reasons why Dodo IS developers go to Gemba](https://dev.to/dodoengineering/6-reasons-why-dodo-is-developers-go-to-gemba-31l7)
-- [Welcome Thread - v231](https://dev.to/devteam/welcome-thread-v233-5h0a)
+- [What Is CSS Writing Mode: A Complete Guide](https://dev.to/arsalanmee/what-is-css-writing-mode-a-complete-guide-24l5)
+- [Top Essential Methods in JavaScript You Need to Know](https://dev.to/faridteymouri/top-essential-methods-in-javascript-you-need-to-know-353c)
+- [Redis](https://dev.to/thangsuperman/redis-3bnj)
+- [How a Server Monitoring Service Can Improve Your Website&#39;s Performance](https://dev.to/dhsupcloud/how-a-server-monitoring-service-can-improve-your-websites-performance-3bdc)
 <!-- BLOG-POST-LIST:END -->
 
