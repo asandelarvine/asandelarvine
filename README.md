@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [THE Git Terminal Cheat Sheet](https://dev.to/philipjohnbasile/the-git-terminal-cheat-sheet-4nkb)
 - [How to make a Discord bot that pings your Minecraft server🤔](https://dev.to/woodendoors7/how-to-make-a-discord-bot-that-pings-your-minecraft-server-1ce2)
 - [Using nerd font symbols and emoji with any &lpar;unpatched&rpar; font in Linux](https://dev.to/moniquelive/using-nerd-font-symbols-and-emoji-with-any-unpatched-font-in-linux-3kdo)
-- [كل عام وانتم بخير - eid adha mubarak](https://dev.to/muhmmadawd/kl-m-wntm-bkhyr-eid-adha-mubarak-p30)
+- [Transitioning from Support Engineer to Web Development: Unveiling Vincent&#39;s Inspiring Journey](https://dev.to/wdp/transitioning-from-support-engineer-to-web-development-unveiling-vincents-inspiring-journey-16c)
 <!-- BLOG-POST-LIST:END -->
 
