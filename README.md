@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #150: Next.js, Skew Protection, Portals, Remix Dev Server, AI, React-Aria, visionOS, MiniSim, MMKV...](https://dev.to/sebastienlorber/this-week-in-react-150-nextjs-skew-protection-portals-remix-dev-server-ai-react-aria-visionos-minisim-mmkv-22i5)
 - [Ticking Timer Bomb: The Transition from create-react-app to Vite and React](https://dev.to/evansifyke/ticking-timer-bomb-the-transition-from-create-react-app-to-vite-and-react-2o02)
+- [Typescript Nominal Type: The Right Way](https://dev.to/tylim88/typescript-nominal-type-the-right-way-k9j)
 - [How to streamline and focus your sequence diagrams](https://dev.to/appmap/how-to-streamline-and-focus-your-sequence-diagrams-3p7o)
-- [Configu: Unleashing the Power of Configuration as Code](https://dev.to/rannn505/configu-unleashing-the-power-of-configuration-as-code-2b6i)
-- [How to Add CSS to your HTML Pages](https://dev.to/salehmubashar/how-to-add-css-to-your-html-pages-j9b)
 <!-- BLOG-POST-LIST:END -->
 
