@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Discord bot that pings your Minecraft server🤔](https://dev.to/woodendoors7/how-to-make-a-discord-bot-that-pings-your-minecraft-server-1ce2)
+- [Using nerd font symbols and emoji with any &lpar;unpatched&rpar; font in Linux](https://dev.to/moniquelive/using-nerd-font-symbols-and-emoji-with-any-unpatched-font-in-linux-3kdo)
 - [كل عام وانتم بخير - eid adha mubarak](https://dev.to/muhmmadawd/kl-m-wntm-bkhyr-eid-adha-mubarak-p30)
 - [The Unfair Game - When VC Funding Turns into an Evil Empire](https://dev.to/johnrushx/the-unfair-game-when-vc-funding-turns-into-an-evil-empire-1fb4)
-- [Rendering tasks &lpar;Writing TUI with Ratatouille&rpar;](https://dev.to/katafrakt/rendering-tasks-writing-tui-in-ratatouille-518b)
-- [Ruby Method of the Day: Array.new with Block](https://dev.to/burdettelamar/ruby-method-of-the-day-arraynew-with-block-3mj5)
 <!-- BLOG-POST-LIST:END -->
 
