@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 reasons why Dodo IS developers go to Gemba](https://dev.to/dodoengineering/6-reasons-why-dodo-is-developers-go-to-gemba-31l7)
+- [Welcome Thread - v231](https://dev.to/devteam/welcome-thread-v233-5h0a)
+- [Laravel 10 &amp; Next.js 13 JWT open-source boilerplate](https://dev.to/avocado-media/laravel-10-nextjs-13-jwt-open-source-boilerplate-2ogf)
 - [Deploy a NEXT.js app for FREE on AWS with SST](https://dev.to/kumo/deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28)
-- [Choosing The Right Hosting Service for Your Elementor Website](https://dev.to/sunawang/chooshing-the-right-hosting-service-for-your-elementor-website-56hm)
-- [Remotely Connect to Your Instances without a Public IP Address](https://dev.to/aws-builders/remotely-connect-to-your-instances-without-a-public-ip-address-13id)
-- [Fun with Angular: Create grouped queues of tasks for APP_INITIALIZER](https://dev.to/maxime1992/fun-with-angular-create-grouped-queues-of-tasks-for-appinitializer-59il)
 <!-- BLOG-POST-LIST:END -->
 
