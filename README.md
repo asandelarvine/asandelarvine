@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a NEXT.js app for FREE on AWS with SST](https://dev.to/kumo/deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28)
+- [Choosing The Right Hosting Service for Your Elementor Website](https://dev.to/sunawang/chooshing-the-right-hosting-service-for-your-elementor-website-56hm)
 - [Remotely Connect to Your Instances without a Public IP Address](https://dev.to/aws-builders/remotely-connect-to-your-instances-without-a-public-ip-address-13id)
 - [Fun with Angular: Create grouped queues of tasks for APP_INITIALIZER](https://dev.to/maxime1992/fun-with-angular-create-grouped-queues-of-tasks-for-appinitializer-59il)
-- [React Redux in one shot while building a Project](https://dev.to/lovepreetsingh/react-redux-in-one-shot-while-building-a-project-jbd)
-- [How To Spy on Classes](https://dev.to/zirkelc/how-to-spy-on-classes-5hh5)
 <!-- BLOG-POST-LIST:END -->
 
