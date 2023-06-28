@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Can We Mentor New Coders Without Overwhelming Them?](https://dev.to/codenewbieteam/how-can-we-mentor-new-coders-without-overwhelming-them-18pn)
+- [Design Your Missing Emoji: What Emoji Do You Need Daily?](https://dev.to/devteam/design-your-missing-emoji-what-emoji-do-you-need-daily-3mjg)
+- [NEW LIAPP is coming!](https://dev.to/teamliapp/new-liapp-is-coming-2hi2)
 - [Skills Shortages in Hiring? Try Staff Augmentation to Bridge the Gap](https://dev.to/saklle_rohit/skills-shortages-in-hiring-try-staff-augmentation-to-bridge-the-gap-3m13)
-- [Nx + NextJS + Docker - The Nx way: Creating the NextJS application](https://dev.to/sebastiandg7/nx-nextjs-docker-the-nx-way-creating-the-nextjs-application-1efl)
-- [Configure based on the following images](https://dev.to/josueparra2892/configure-based-on-the-following-images-1i6)
-- [AWS Elastic Load Balancer and Auto Scaling Groups](https://dev.to/josueparra2892/aws-elastic-load-balancer-and-auto-scaling-groups-3hkm)
 <!-- BLOG-POST-LIST:END -->
 
