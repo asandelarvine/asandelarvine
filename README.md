@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;A Model&#39;s Journey to Software Development&quot;: CodeNewbie Podcast S24E8](https://dev.to/codenewbieteam/a-models-journey-to-software-development-codenewbie-podcast-s24e8-58ke)
 - [JavaScript console methods: A deep dive.](https://dev.to/kelvinguchu/javascript-console-methods-a-deep-dive-jbf)
+- [Happy and Productive Engineers with Backstage](https://dev.to/antweiss/happy-and-productive-developers-with-backstage-31g1)
 - [Build Your Own Personal Twitter Agent 🧠🐦⛓ with LangChain](https://dev.to/wasp/build-your-own-personal-twitter-agent-with-langchain-32n3)
-- [Arabic Text Rendering Issues in JavaFX](https://dev.to/abdelrahmanbayoumi/arabic-text-rendering-issues-in-javafx-3j9i)
-- [Demystifying the HTTP Host header](https://dev.to/fastly/demystifying-the-http-host-header-dg8)
 <!-- BLOG-POST-LIST:END -->
 
