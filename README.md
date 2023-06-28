@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Balancing Exams and Coding: How I Stay Productive](https://dev.to/peaceoloruntoba/balancing-exams-and-coding-how-i-stay-productive-57dl)
+- [Why Google Zanzibar Shines at Building Authorization](https://dev.to/warrant/why-google-zanzibar-shines-at-building-authorization-47do)
+- [Introducing The Spatial Cypher Cheat Sheet](https://dev.to/lyonwj/introducing-the-spatial-cypher-cheat-sheet-3bph)
 - [This Week In React #150: Next.js, Skew Protection, Portals, Remix Dev Server, AI, React-Aria, visionOS, MiniSim, MMKV...](https://dev.to/sebastienlorber/this-week-in-react-150-nextjs-skew-protection-portals-remix-dev-server-ai-react-aria-visionos-minisim-mmkv-22i5)
-- [Ticking Timer Bomb: The Transition from create-react-app to Vite and React](https://dev.to/evansifyke/ticking-timer-bomb-the-transition-from-create-react-app-to-vite-and-react-2o02)
-- [Typescript Nominal Type: The Right Way](https://dev.to/tylim88/typescript-nominal-type-the-right-way-k9j)
-- [How to streamline and focus your sequence diagrams](https://dev.to/appmap/how-to-streamline-and-focus-your-sequence-diagrams-3p7o)
 <!-- BLOG-POST-LIST:END -->
 
