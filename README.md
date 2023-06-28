@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can We Mentor New Coders Without Overwhelming Them?](https://dev.to/codenewbieteam/how-can-we-mentor-new-coders-without-overwhelming-them-18pn)
-- [Design Your Missing Emoji: What Emoji Do You Need Daily?](https://dev.to/devteam/design-your-missing-emoji-what-emoji-do-you-need-daily-3mjg)
-- [NEW LIAPP is coming!](https://dev.to/teamliapp/new-liapp-is-coming-2hi2)
-- [Skills Shortages in Hiring? Try Staff Augmentation to Bridge the Gap](https://dev.to/saklle_rohit/skills-shortages-in-hiring-try-staff-augmentation-to-bridge-the-gap-3m13)
+- [Remotely Connect to Your Instances without a Public IP Address](https://dev.to/aws-builders/remotely-connect-to-your-instances-without-a-public-ip-address-13id)
+- [Fun with Angular: Create grouped queues of tasks for APP_INITIALIZER](https://dev.to/maxime1992/fun-with-angular-create-grouped-queues-of-tasks-for-appinitializer-59il)
+- [React Redux in one shot while building a Project](https://dev.to/lovepreetsingh/react-redux-in-one-shot-while-building-a-project-jbd)
+- [How To Spy on Classes](https://dev.to/zirkelc/how-to-spy-on-classes-5hh5)
 <!-- BLOG-POST-LIST:END -->
 
