@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Selection sort in Java](https://dev.to/suresh02/understanding-selection-sort-in-java-44ic)
 - [Single-Digit Spotlight v4](https://dev.to/codenewbieteam/single-digit-spotlight-v4-4i16)
-- [Understanding TypeScript generators](https://dev.to/logrocket/understanding-typescript-generators-20lo)
-- [Highlight Your Open Source Contributions](https://dev.to/opensauced/highlight-your-open-source-contribution-4chd)
-- [Sloan&#39;s Inbox: What is the Secret to a Truly Great Portfolio?](https://dev.to/devteam/sloans-inbox-what-is-the-secret-to-a-truly-great-portfolio-2ae)
+- [Moog Acquired by inMusic](https://dev.to/music-discussions/moog-acquired-by-inmusic-3omk)
+- [DEV Office Tour v4](https://dev.to/codenewbieteam/dev-office-tour-v4-4k3e)
 <!-- BLOG-POST-LIST:END -->
 
