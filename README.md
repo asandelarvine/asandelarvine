@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to check how much space node_modules folders take up on your hard-disk](https://dev.to/robole/how-to-check-how-much-space-nodemodules-folders-take-up-on-your-hard-disk-3j8o)
-- [Sticky sessions with Apache APISIX](https://dev.to/apisix/sticky-sessions-with-apache-apisix-3l03)
-- [Myths about API HTTP clients](https://dev.to/authress/myths-about-api-http-clients-ecc)
-- [Introducing ast-grep: A tool for structural searching and transforming code](https://dev.to/herrington_darkholme/introducing-ast-grep-a-tool-for-structural-searching-and-transforming-code-391c)
+- [Deploying a serverless web analytics solution for your websites](https://dev.to/aws/deploying-a-serverless-web-analytics-solution-for-your-websites-5coh)
+- [Post-Vacation Pull Request](https://dev.to/jd2r/post-vacation-pull-request-132g)
+- [What Is The Difference Between Java And Javascript?](https://dev.to/arsalanmee/what-is-the-difference-between-java-and-javascript-1gai)
+- [Top 30 Automation Testing Tools in 2023: Getting Started with Automation Testing Tools](https://dev.to/bravinsimiyu/top-30-automation-testing-tools-in-2023-getting-started-with-automation-testing-tools-3nmn)
 <!-- BLOG-POST-LIST:END -->
 
