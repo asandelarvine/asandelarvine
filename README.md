@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to kickstart automated test suite when there are 0 tests written and the codebase is already huge](https://dev.to/zvone187/how-to-kickstart-automated-test-suite-when-there-are-0-tests-written-and-the-codebase-is-already-huge-164p)
-- [FaceBook Like Clone With Source Code](https://dev.to/brojenuel/facebook-like-clone-with-source-code-1fbe)
-- [👷 How to Build Things People Want to Use](https://dev.to/evergrowingdev/how-to-build-things-people-want-to-use-4g5n)
-- [AppSync Merged API – Our real project experience as part of our hackathon](https://dev.to/aws-builders/appsync-merged-api-our-real-project-experience-as-part-of-our-hackathon-2m96)
+- [Sloan&#39;s Inbox: What is the Secret to a Truly Great Portfolio?](https://dev.to/devteam/sloans-inbox-what-is-the-secret-to-a-truly-great-portfolio-2ae)
+- [Create and deploy your own token using hardhat in just 2 mins](https://dev.to/ankitsahu/create-and-deploy-your-own-token-using-hardhat-in-just-2-mins-2d5i)
+- [Terrible tips for a C++ developer](https://dev.to/anogneva/terrible-tips-for-a-c-developer-3kp0)
+- [7 Secret JavaScript Web-APIs That You Don&#39;t Know ✨🔥](https://dev.to/akashpattnaik/7-secret-javascript-web-apis-that-you-dont-know-4p57)
 <!-- BLOG-POST-LIST:END -->
 
