@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Metlo to Secure My Personal Finance App](https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g)
+- [What can you build with Wasp - the fastest way to develop React &amp; Node.js apps 🐝 🚀](https://dev.to/wasp/what-can-you-build-with-wasp-the-fastest-way-to-develop-react-nodejs-apps-275b)
 - [Looking to find interesting people!](https://dev.to/ibrahimfaisal07/looking-to-find-interesting-people-1m6l)
 - [Meet The Gnarnians: Taylor](https://dev.to/thegnarco/meet-the-gnarnians-taylor-56k0)
-- [With GitHub apparently down right now...](https://dev.to/ben/with-github-apparently-down-right-now-on2)
-- [Configuration v/s Composition - Design Reusable Components](https://dev.to/anuradha9712/configuration-vs-composition-design-reusable-components-5h1f)
 <!-- BLOG-POST-LIST:END -->
 
