@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidden Gem&lpar;s&rpar;: What Are Your Favorite Lesser-Known Ruby Features &amp; Techniques? 💎💻](https://dev.to/devteam/hidden-gems-what-are-your-favorite-lesser-known-ruby-features-techniques-4m88)
+- [Reflecting on Your First Year as a Developer: Lessons Learned?](https://dev.to/codenewbieteam/reflecting-on-your-first-year-as-a-developer-lessons-learned-e1b)
+- [Deploying a Static Website using CodePipeline,GitHub, and CloudFront](https://dev.to/prosperagada/creating-a-static-website-using-codepipelinegithub-and-cloudfront-46ep)
 - [Ace the &quot;How do you prioritize your work&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-do-you-prioritize-your-work-question-in-your-next-interview-15j3)
-- [Guide for Foreigners to Find Software Developer Jobs in Japan](https://dev.to/naokotakahashi/guide-for-foreigners-to-find-software-developer-jobs-in-japan-jh6)
-- [Building a Serverless AI Content Detector](https://dev.to/ssennettau/building-a-serverless-ai-content-detector-65d)
-- [All Open Source Internship Programs at One Place](https://dev.to/durgesh4993/all-open-source-internship-programs-at-one-place-87e)
 <!-- BLOG-POST-LIST:END -->
 
