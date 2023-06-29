@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Selection sort in Java](https://dev.to/suresh02/understanding-selection-sort-in-java-44ic)
-- [Single-Digit Spotlight v4](https://dev.to/codenewbieteam/single-digit-spotlight-v4-4i16)
-- [Moog Acquired by inMusic](https://dev.to/music-discussions/moog-acquired-by-inmusic-3omk)
-- [DEV Office Tour v4](https://dev.to/codenewbieteam/dev-office-tour-v4-4k3e)
+- [Looking to find interesting people!](https://dev.to/ibrahimfaisal07/looking-to-find-interesting-people-1m6l)
+- [Meet The Gnarnians: Taylor](https://dev.to/thegnarco/meet-the-gnarnians-taylor-56k0)
+- [With GitHub apparently down right now...](https://dev.to/ben/with-github-apparently-down-right-now-on2)
+- [Configuration v/s Composition - Design Reusable Components](https://dev.to/anuradha9712/configuration-vs-composition-design-reusable-components-5h1f)
 <!-- BLOG-POST-LIST:END -->
 
