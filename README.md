@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to kickstart automated test suite when there are 0 tests written and the codebase is already huge](https://dev.to/zvone187/how-to-kickstart-automated-test-suite-when-there-are-0-tests-written-and-the-codebase-is-already-huge-164p)
 - [FaceBook Like Clone With Source Code](https://dev.to/brojenuel/facebook-like-clone-with-source-code-1fbe)
 - [👷 How to Build Things People Want to Use](https://dev.to/evergrowingdev/how-to-build-things-people-want-to-use-4g5n)
 - [AppSync Merged API – Our real project experience as part of our hackathon](https://dev.to/aws-builders/appsync-merged-api-our-real-project-experience-as-part-of-our-hackathon-2m96)
-- [A real project with CodeCatalyst - Our hackathon gave us a good insight into what works and what doesn&#39;t](https://dev.to/aws-builders/a-real-project-with-codecatalyst-our-hackathon-gave-us-a-good-insight-into-what-works-and-what-doesnt-1e79)
 <!-- BLOG-POST-LIST:END -->
 
