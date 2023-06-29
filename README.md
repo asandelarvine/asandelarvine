@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Gem&lpar;s&rpar;: What Are Your Favorite Lesser-Known Ruby Features &amp; Techniques? 💎💻](https://dev.to/devteam/hidden-gems-what-are-your-favorite-lesser-known-ruby-features-techniques-4m88)
+- [Node.js Development: All You Need to Know](https://dev.to/amplication/nodejs-development-all-you-need-to-know-3e78)
 - [Reflecting on Your First Year as a Developer: Lessons Learned?](https://dev.to/codenewbieteam/reflecting-on-your-first-year-as-a-developer-lessons-learned-e1b)
+- [Hidden Gem&lpar;s&rpar;: What Are Your Favorite Lesser-Known Ruby Features &amp; Techniques? 💎💻](https://dev.to/devteam/hidden-gems-what-are-your-favorite-lesser-known-ruby-features-techniques-4m88)
 - [Deploying a Static Website using CodePipeline,GitHub, and CloudFront](https://dev.to/prosperagada/creating-a-static-website-using-codepipelinegithub-and-cloudfront-46ep)
-- [Ace the &quot;How do you prioritize your work&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-do-you-prioritize-your-work-question-in-your-next-interview-15j3)
 <!-- BLOG-POST-LIST:END -->
 
