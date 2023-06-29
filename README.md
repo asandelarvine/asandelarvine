@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Single-Digit Spotlight v4](https://dev.to/codenewbieteam/single-digit-spotlight-v4-4i16)
+- [Understanding TypeScript generators](https://dev.to/logrocket/understanding-typescript-generators-20lo)
+- [Highlight Your Open Source Contributions](https://dev.to/opensauced/highlight-your-open-source-contribution-4chd)
 - [Sloan&#39;s Inbox: What is the Secret to a Truly Great Portfolio?](https://dev.to/devteam/sloans-inbox-what-is-the-secret-to-a-truly-great-portfolio-2ae)
-- [Create and deploy your own token using hardhat in just 2 mins](https://dev.to/ankitsahu/create-and-deploy-your-own-token-using-hardhat-in-just-2-mins-2d5i)
-- [Terrible tips for a C++ developer](https://dev.to/anogneva/terrible-tips-for-a-c-developer-3kp0)
-- [7 Secret JavaScript Web-APIs That You Don&#39;t Know ✨🔥](https://dev.to/akashpattnaik/7-secret-javascript-web-apis-that-you-dont-know-4p57)
 <!-- BLOG-POST-LIST:END -->
 
