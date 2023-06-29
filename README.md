@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All Open Source Internship Programs at One Place](https://dev.to/durgesh4993/all-open-source-internship-programs-at-one-place-87e)
+- [Attended Config 23 Virtually and Loved the New Updates to Figma](https://dev.to/peaceoloruntoba/attended-config-23-virtually-and-loved-the-new-updates-to-figma-2ej6)
+- [5 Tips for Creating Effective URL Slugs](https://dev.to/josematoswork/5-tips-for-creating-effective-url-slugs-203i)
 - [Balancing Exams and Coding: How I Stay Productive](https://dev.to/peaceoloruntoba/balancing-exams-and-coding-how-i-stay-productive-57dl)
-- [Why Google Zanzibar Shines at Building Authorization](https://dev.to/warrant/why-google-zanzibar-shines-at-building-authorization-47do)
-- [Introducing The Spatial Cypher Cheat Sheet](https://dev.to/lyonwj/introducing-the-spatial-cypher-cheat-sheet-3bph)
-- [This Week In React #150: Next.js, Skew Protection, Portals, Remix Dev Server, AI, React-Aria, visionOS, MiniSim, MMKV...](https://dev.to/sebastienlorber/this-week-in-react-150-nextjs-skew-protection-portals-remix-dev-server-ai-react-aria-visionos-minisim-mmkv-22i5)
 <!-- BLOG-POST-LIST:END -->
 
