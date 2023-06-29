@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a serverless web analytics solution for your websites](https://dev.to/aws/deploying-a-serverless-web-analytics-solution-for-your-websites-5coh)
-- [Post-Vacation Pull Request](https://dev.to/jd2r/post-vacation-pull-request-132g)
-- [What Is The Difference Between Java And Javascript?](https://dev.to/arsalanmee/what-is-the-difference-between-java-and-javascript-1gai)
-- [Top 30 Automation Testing Tools in 2023: Getting Started with Automation Testing Tools](https://dev.to/bravinsimiyu/top-30-automation-testing-tools-in-2023-getting-started-with-automation-testing-tools-3nmn)
+- [FaceBook Like Clone With Source Code](https://dev.to/brojenuel/facebook-like-clone-with-source-code-1fbe)
+- [AppSync Merged API – Our real project experience as part of our hackathon](https://dev.to/aws-builders/appsync-merged-api-our-real-project-experience-as-part-of-our-hackathon-2m96)
+- [A real project with CodeCatalyst - Our hackathon gave us a good insight into what works and what doesn&#39;t](https://dev.to/aws-builders/a-real-project-with-codecatalyst-our-hackathon-gave-us-a-good-insight-into-what-works-and-what-doesnt-1e79)
+- [Amplify SDK for Flutter - Developer experience and challenges in a hackathon](https://dev.to/aws-builders/amplify-sdk-for-flutter-developer-experience-and-challenges-in-a-hackathon-2e15)
 <!-- BLOG-POST-LIST:END -->
 
