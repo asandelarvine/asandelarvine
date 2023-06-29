@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide for Foreigners to Find Software Developer Jobs in Japan](https://dev.to/naokotakahashi/guide-for-foreigners-to-find-software-developer-jobs-in-japan-jh6)
 - [All Open Source Internship Programs at One Place](https://dev.to/durgesh4993/all-open-source-internship-programs-at-one-place-87e)
 - [a practical guide to understanding iam policies](https://dev.to/khemsok/a-practical-guide-to-understanding-iam-policies-2h17)
 - [Attended Config 23 Virtually and Loved the New Updates to Figma](https://dev.to/peaceoloruntoba/attended-config-23-virtually-and-loved-the-new-updates-to-figma-2ej6)
-- [5 Tips for Creating Effective URL Slugs](https://dev.to/josematoswork/5-tips-for-creating-effective-url-slugs-203i)
 <!-- BLOG-POST-LIST:END -->
 
