@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Keyword Research Case Studies: Glossaries](https://dev.to/daedtech/keyword-research-case-studies-glossaries-1opk)
 - [25 Key Terms for Speaking Distributed Systems and Temporal &lpar;an emoji-based guide&rpar;](https://dev.to/temporalio/25-key-terms-for-speaking-distributed-systems-and-temporal-an-emoji-based-guide-1cp9)
 - [Googling for free 🎉: open source solution with API](https://dev.to/karust/googling-for-free-open-source-solution-with-api-52m3)
 - [Using Metlo to Secure My Personal Finance App](https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g)
-- [What can you build with Wasp - the fastest way to develop React &amp; Node.js apps 🐝 🚀](https://dev.to/wasp/what-can-you-build-with-wasp-the-fastest-way-to-develop-react-nodejs-apps-275b)
 <!-- BLOG-POST-LIST:END -->
 
