@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My experience deploying a Next.js application on Netlify &lpar;using Next App Router&rpar;](https://dev.to/alvesjessica/my-experience-deploying-a-nextjs-application-on-netlify-using-next-app-router-3k1b)
+- [GitHub’s Best Practices&lpar;Streamlining Collaboration and Maximizing Efficiency&rpar;](https://dev.to/kelechikizito/githubs-best-practicesstreamlining-collaboration-and-maximizing-efficiency-kk3)
 - [Keyword Research Case Studies: Glossaries](https://dev.to/daedtech/keyword-research-case-studies-glossaries-1opk)
-- [25 Key Terms for Speaking Distributed Systems and Temporal &lpar;an emoji-based guide&rpar;](https://dev.to/temporalio/25-key-terms-for-speaking-distributed-systems-and-temporal-an-emoji-based-guide-1cp9)
-- [Googling for free 🎉: open source solution with API](https://dev.to/karust/googling-for-free-open-source-solution-with-api-52m3)
-- [Using Metlo to Secure My Personal Finance App](https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g)
+- [The Effect Of Communities On Us](https://dev.to/abdelrahman_dwedar/the-effect-of-communities-on-us-n9a)
 <!-- BLOG-POST-LIST:END -->
 
