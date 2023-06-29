@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ace the &quot;How do you prioritize your work&quot; question in your next interview.](https://dev.to/martinkr/ace-the-how-do-you-prioritize-your-work-question-in-your-next-interview-15j3)
 - [Guide for Foreigners to Find Software Developer Jobs in Japan](https://dev.to/naokotakahashi/guide-for-foreigners-to-find-software-developer-jobs-in-japan-jh6)
+- [Building a Serverless AI Content Detector](https://dev.to/ssennettau/building-a-serverless-ai-content-detector-65d)
 - [All Open Source Internship Programs at One Place](https://dev.to/durgesh4993/all-open-source-internship-programs-at-one-place-87e)
-- [a practical guide to understanding iam policies](https://dev.to/khemsok/a-practical-guide-to-understanding-iam-policies-2h17)
-- [Attended Config 23 Virtually and Loved the New Updates to Figma](https://dev.to/peaceoloruntoba/attended-config-23-virtually-and-loved-the-new-updates-to-figma-2ej6)
 <!-- BLOG-POST-LIST:END -->
 
