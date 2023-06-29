@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sticky sessions with Apache APISIX](https://dev.to/apisix/sticky-sessions-with-apache-apisix-3l03)
+- [Myths about API HTTP clients](https://dev.to/authress/myths-about-api-http-clients-ecc)
+- [Introducing ast-grep: A tool for structural searching and transforming code](https://dev.to/herrington_darkholme/introducing-ast-grep-a-tool-for-structural-searching-and-transforming-code-391c)
 - [Node.js Development: All You Need to Know](https://dev.to/amplication/nodejs-development-all-you-need-to-know-3e78)
-- [Reflecting on Your First Year as a Developer: Lessons Learned?](https://dev.to/codenewbieteam/reflecting-on-your-first-year-as-a-developer-lessons-learned-e1b)
-- [Hidden Gem&lpar;s&rpar;: What Are Your Favorite Lesser-Known Ruby Features &amp; Techniques? 💎💻](https://dev.to/devteam/hidden-gems-what-are-your-favorite-lesser-known-ruby-features-techniques-4m88)
-- [Deploying a Static Website using CodePipeline,GitHub, and CloudFront](https://dev.to/prosperagada/creating-a-static-website-using-codepipelinegithub-and-cloudfront-46ep)
 <!-- BLOG-POST-LIST:END -->
 
