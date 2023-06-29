@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [FaceBook Like Clone With Source Code](https://dev.to/brojenuel/facebook-like-clone-with-source-code-1fbe)
+- [👷 How to Build Things People Want to Use](https://dev.to/evergrowingdev/how-to-build-things-people-want-to-use-4g5n)
 - [AppSync Merged API – Our real project experience as part of our hackathon](https://dev.to/aws-builders/appsync-merged-api-our-real-project-experience-as-part-of-our-hackathon-2m96)
 - [A real project with CodeCatalyst - Our hackathon gave us a good insight into what works and what doesn&#39;t](https://dev.to/aws-builders/a-real-project-with-codecatalyst-our-hackathon-gave-us-a-good-insight-into-what-works-and-what-doesnt-1e79)
-- [Amplify SDK for Flutter - Developer experience and challenges in a hackathon](https://dev.to/aws-builders/amplify-sdk-for-flutter-developer-experience-and-challenges-in-a-hackathon-2e15)
 <!-- BLOG-POST-LIST:END -->
 
