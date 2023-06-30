@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: ChatGPT Lawsuits](https://dev.to/devteam/devdiscuss-chatgpt-lawsuits-p3o)
+- [LB Labs: Inside the Top 10% of Engineering Orgs](https://dev.to/linearb/lb-labs-inside-the-top-10-of-engineering-orgs-7ge)
 - [Deleting All Containers in One Command: Streamlining Container Management](https://dev.to/pradumnasaraf/deleting-all-containers-in-one-command-streamlining-container-management-47ng)
 - [Moonly weekly progress update #55 - Karamendos utilities](https://dev.to/moonly/moonly-weekly-progress-update-55-karamendos-utilities-1jm9)
-- [Reading Tweets without being logged in](https://dev.to/codepo8/reading-tweets-without-being-logged-in-1oke)
-- [AI-MediSphere™ - The Cardiovascular Prognosticator](https://dev.to/aws-builders/ai-medisphere-the-cardiovascular-prognosticator-4118)
 <!-- BLOG-POST-LIST:END -->
 
