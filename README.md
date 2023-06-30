@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Travel Mobile App using flutter](https://dev.to/realnamehidden1_61/travel-mobile-app-using-flutter-2p68)
 - [Build Your Own Machine Learning Models without writing a single line of code 🤯](https://dev.to/elliot_brenya/build-your-own-machine-learning-models-without-writing-a-single-line-of-code-189c)
 - [The importance of verifying webhook signatures](https://dev.to/snyk/the-importance-of-verifying-webhook-signatures-3kan)
 - [Simplify Password Management with the &#39;pass&#39; Command-Line Password Manager](https://dev.to/anantmishra1729/simplify-password-management-with-the-pass-command-line-password-manager-2pbg)
-- [Using AWS Step Functions as Art](https://dev.to/aws-builders/using-aws-step-functions-as-art-4em2)
 <!-- BLOG-POST-LIST:END -->
 
