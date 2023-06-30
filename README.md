@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating our First Complete Jenkins CI/CD Pipeline](https://dev.to/softwaresennin/creating-our-first-complete-jenkins-cicd-pipeline-34a1)
+- [Approximate Count Distinct in YugabyteDB &lpar;and PostgreSQL&rpar; with HyperLogLog](https://dev.to/yugabyte/approximate-count-distinct-in-yugabytedb-and-postgresql-with-hyperloglog-1i13)
 - [#DEVDiscuss: ChatGPT Lawsuits](https://dev.to/devteam/devdiscuss-chatgpt-lawsuits-p3o)
 - [LB Labs: Inside the Top 10% of Engineering Orgs](https://dev.to/linearb/lb-labs-inside-the-top-10-of-engineering-orgs-7ge)
-- [Deleting All Containers in One Command: Streamlining Container Management](https://dev.to/pradumnasaraf/deleting-all-containers-in-one-command-streamlining-container-management-47ng)
-- [Moonly weekly progress update #55 - Karamendos utilities](https://dev.to/moonly/moonly-weekly-progress-update-55-karamendos-utilities-1jm9)
 <!-- BLOG-POST-LIST:END -->
 
