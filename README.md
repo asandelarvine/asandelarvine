@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Taught Programmers: How Did You Land Your First Job?](https://dev.to/codenewbieteam/self-taught-programmers-how-did-you-land-your-first-job-4pha)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-10gb)
+- [An opinionated article about vim](https://dev.to/aneshodza/an-opinionated-article-about-vim-4cdg)
+- [Error Handling with Angular](https://dev.to/ifourtechnolab/error-handling-with-angular-39bi)
 - [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
-- [A Comprehensive Guide to Foundational Concepts in Software Development](https://dev.to/abdulkabirsultan/a-comprehensive-guide-to-foundational-concepts-in-software-development-2b87)
-- [Elevate Your Business with Comprehensive SharePoint Services by Bitscape](https://dev.to/bitscape/elevate-your-business-with-comprehensive-sharepoint-services-by-bitscape-51l6)
 <!-- BLOG-POST-LIST:END -->
 
