@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Frontend and Backend Technologies Used by Developers in 2023](https://dev.to/dhruvjoshi9/top-5-frontend-and-backend-technologies-used-by-developers-in-2023-4e2p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-10gb)
 - [An opinionated article about vim](https://dev.to/aneshodza/an-opinionated-article-about-vim-4cdg)
 - [Error Handling with Angular](https://dev.to/ifourtechnolab/error-handling-with-angular-39bi)
-- [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
 <!-- BLOG-POST-LIST:END -->
 
