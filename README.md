@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wasp Tutorial Jam #1 -- Teach Others, Win Prizes 😎](https://dev.to/wasp/wasp-tutorial-jam-1-teach-others-win-prizes-30i4)
-- [🤖 ChatGPT meets Firestore: Create Intelligent Conversations in Your App](https://dev.to/shiftescape/chatgpt-meets-firestore-create-intelligent-conversations-in-your-app-11mj)
-- [Building any open source projects this weekend?](https://dev.to/shnai0/building-any-open-source-projects-this-weekend-250p)
-- [ActionLink Razor – How To Add CSS Class](https://dev.to/arsalanmee/actionlink-razor-how-to-add-css-class-23n)
+- [AI-MediSphere™ - The Cardiovascular Prognosticator](https://dev.to/aws-builders/ai-medisphere-the-cardiovascular-prognosticator-4118)
+- [Bank Account Summary II | LeetCode | MSSQL](https://dev.to/ranggakd/bank-account-summary-ii-leetcode-mssql-1ema)
+- [AI Hackathon: Sentiment Analysis with Python Flask and Transformer](https://dev.to/afshan/ai-hackathon-sentiment-analysis-with-python-flask-and-transformer-2nfi)
+- [The Journey to My Capstone: A Glimpse Into My Time at Flatiron School](https://dev.to/caseyconlan/the-journey-to-my-capstone-a-glimpse-into-my-time-at-flatiron-school-1mn8)
 <!-- BLOG-POST-LIST:END -->
 
