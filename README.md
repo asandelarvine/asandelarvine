@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deleting All Containers in One Command: Streamlining Container Management](https://dev.to/pradumnasaraf/deleting-all-containers-in-one-command-streamlining-container-management-47ng)
+- [Moonly weekly progress update #55 - Karamendos utilities](https://dev.to/moonly/moonly-weekly-progress-update-55-karamendos-utilities-1jm9)
+- [Reading Tweets without being logged in](https://dev.to/codepo8/reading-tweets-without-being-logged-in-1oke)
 - [AI-MediSphere™ - The Cardiovascular Prognosticator](https://dev.to/aws-builders/ai-medisphere-the-cardiovascular-prognosticator-4118)
-- [Bank Account Summary II | LeetCode | MSSQL](https://dev.to/ranggakd/bank-account-summary-ii-leetcode-mssql-1ema)
-- [AI Hackathon: Sentiment Analysis with Python Flask and Transformer](https://dev.to/afshan/ai-hackathon-sentiment-analysis-with-python-flask-and-transformer-2nfi)
-- [The Journey to My Capstone: A Glimpse Into My Time at Flatiron School](https://dev.to/caseyconlan/the-journey-to-my-capstone-a-glimpse-into-my-time-at-flatiron-school-1mn8)
 <!-- BLOG-POST-LIST:END -->
 
