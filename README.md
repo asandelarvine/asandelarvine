@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Hashing in Java: Exploring HashMap and HashSet](https://dev.to/aswin2001barath/understanding-hashing-in-java-exploring-hashmap-and-hashset-ea)
 - [Travel Mobile App using flutter](https://dev.to/realnamehidden1_61/travel-mobile-app-using-flutter-2p68)
 - [Build Your Own Machine Learning Models without writing a single line of code 🤯](https://dev.to/elliot_brenya/build-your-own-machine-learning-models-without-writing-a-single-line-of-code-189c)
 - [The importance of verifying webhook signatures](https://dev.to/snyk/the-importance-of-verifying-webhook-signatures-3kan)
-- [Simplify Password Management with the &#39;pass&#39; Command-Line Password Manager](https://dev.to/anantmishra1729/simplify-password-management-with-the-pass-command-line-password-manager-2pbg)
 <!-- BLOG-POST-LIST:END -->
 
