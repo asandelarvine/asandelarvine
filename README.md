@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ActionLink Razor – How To Add CSS Class](https://dev.to/arsalanmee/actionlink-razor-how-to-add-css-class-23n)
 - [Unveiling the Capabilities of Managed Databases: An In-Depth Look at Amazon RDS](https://dev.to/brandondamue/unveiling-the-capabilities-of-managed-databases-an-in-depth-look-at-amazon-rds-2pn6)
+- [Breadth vs Depth - How do you organize your brain as a software engineer and communicate with different styles?](https://dev.to/hansel/breadth-vs-depth-how-do-you-organize-your-brain-as-a-software-engineer-and-communicate-with-different-styles-44ah)
 - [Who&#39;s looking for open source contributors? &lpar;week 48&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-49-2cmd)
-- [The Complete Guide to Becoming a Web Developer: Part 3](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
-- [Building an Async Interview Platform With React and Dyte](https://dev.to/dyte/building-an-async-interview-platform-with-react-and-dyte-2n25)
 <!-- BLOG-POST-LIST:END -->
 
