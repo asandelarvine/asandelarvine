@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Becoming a Web Developer: Part 3](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
+- [Building an Async Interview Platform With React and Dyte](https://dev.to/dyte/building-an-async-interview-platform-with-react-and-dyte-2n25)
+- [Learn how to build responsive navigation bar with HTML, CSS, and JavaScript](https://dev.to/david_bilsonn/learn-how-to-build-responsive-navigation-bar-with-html-css-javascript-4g5)
 - [Top 5 Frontend and Backend Technologies Used by Developers in 2023](https://dev.to/dhruvjoshi9/top-5-frontend-and-backend-technologies-used-by-developers-in-2023-4e2p)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-10gb)
-- [An opinionated article about vim](https://dev.to/aneshodza/an-opinionated-article-about-vim-4cdg)
-- [Error Handling with Angular](https://dev.to/ifourtechnolab/error-handling-with-angular-39bi)
 <!-- BLOG-POST-LIST:END -->
 
