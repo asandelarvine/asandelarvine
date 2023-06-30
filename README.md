@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasp Tutorial Jam #1 -- Teach Others, Win Prizes 😎](https://dev.to/wasp/wasp-tutorial-jam-1-teach-others-win-prizes-30i4)
+- [🤖 ChatGPT meets Firestore: Create Intelligent Conversations in Your App](https://dev.to/shiftescape/chatgpt-meets-firestore-create-intelligent-conversations-in-your-app-11mj)
+- [Building any open source projects this weekend?](https://dev.to/shnai0/building-any-open-source-projects-this-weekend-250p)
 - [ActionLink Razor – How To Add CSS Class](https://dev.to/arsalanmee/actionlink-razor-how-to-add-css-class-23n)
-- [Unveiling the Capabilities of Managed Databases: An In-Depth Look at Amazon RDS](https://dev.to/brandondamue/unveiling-the-capabilities-of-managed-databases-an-in-depth-look-at-amazon-rds-2pn6)
-- [Breadth vs Depth - How do you organize your brain as a software engineer and communicate with different styles?](https://dev.to/hansel/breadth-vs-depth-how-do-you-organize-your-brain-as-a-software-engineer-and-communicate-with-different-styles-44ah)
-- [Who&#39;s looking for open source contributors? &lpar;week 48&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-49-2cmd)
 <!-- BLOG-POST-LIST:END -->
 
