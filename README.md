@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
+- [Self-Taught Programmers: How Did You Land Your First Job?](https://dev.to/codenewbieteam/self-taught-programmers-how-did-you-land-your-first-job-4pha)
 - [Elevate Your Business with Comprehensive SharePoint Services by Bitscape](https://dev.to/bitscape/elevate-your-business-with-comprehensive-sharepoint-services-by-bitscape-51l6)
-- [Language Whisperer - AI/ML Transformer Tools Hackathon](https://dev.to/aws-builders/language-whisperer-aiml-transformer-tools-hackathon-i9a)
-- [Understanding Hashing in Java: Exploring HashMap and HashSet](https://dev.to/aswin2001barath/understanding-hashing-in-java-exploring-hashmap-and-hashset-ea)
-- [Travel Mobile App using flutter](https://dev.to/realnamehidden1_61/travel-mobile-app-using-flutter-2p68)
+- [The Advantages of Using VMware Cloud on AWS for Your Business](https://dev.to/aws-builders/the-advantages-of-using-vmware-cloud-on-aws-for-your-business-3mic)
 <!-- BLOG-POST-LIST:END -->
 
