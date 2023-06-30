@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
 - [Self-Taught Programmers: How Did You Land Your First Job?](https://dev.to/codenewbieteam/self-taught-programmers-how-did-you-land-your-first-job-4pha)
+- [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
+- [A Comprehensive Guide to Foundational Concepts in Software Development](https://dev.to/abdulkabirsultan/a-comprehensive-guide-to-foundational-concepts-in-software-development-2b87)
 - [Elevate Your Business with Comprehensive SharePoint Services by Bitscape](https://dev.to/bitscape/elevate-your-business-with-comprehensive-sharepoint-services-by-bitscape-51l6)
-- [The Advantages of Using VMware Cloud on AWS for Your Business](https://dev.to/aws-builders/the-advantages-of-using-vmware-cloud-on-aws-for-your-business-3mic)
 <!-- BLOG-POST-LIST:END -->
 
