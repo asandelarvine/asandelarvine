@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT.js Powerful Client side JavaScript Library For ChatGPT](https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik)
-- [Streamlining Workflows: Migrating from ECS and Fargate to Step Functions on AWS](https://dev.to/trisduong/streamlining-workflows-migrating-from-ecs-and-fargate-to-step-functions-on-aws-2b0o)
-- [A Beginner&#39;s Guide to Building Web Applications with AWS Amplify](https://dev.to/aws-builders/a-beginners-guide-to-building-web-applications-with-aws-amplify-5h3i)
-- [Unplugging to Recharge: Have You Tried a Digital Detox Day?](https://dev.to/codenewbieteam/unplugging-to-recharge-have-you-tried-a-digital-detox-day-3e5p)
+- [Exploring the Limitations of Postgres Partitioning: Lessons Learned and Best Practices](https://dev.to/nightbird07/exploring-the-limitations-of-postgres-partitioning-lessons-learned-and-best-practices-5cj9)
+- [RFID Access Control: What Is It &amp; How Does It Work?](https://dev.to/poxorfidautomation/rfid-access-control-what-is-it-how-does-it-work-3n2p)
+- [Where to host static websites](https://dev.to/irishgeoff11/where-to-host-static-websites-3jgg)
+- [Enhance Your Productivity with Python Scripts: Introducing Daily.py Repository](https://dev.to/chamepp/enhance-your-productivity-with-python-scripts-introducing-dailypy-repository-1041)
 <!-- BLOG-POST-LIST:END -->
 
