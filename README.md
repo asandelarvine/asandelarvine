@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conditionals in Julia](https://dev.to/ifihan/conditionals-in-julia-30b8)
+- [Overview of Pentesting Phases](https://dev.to/fawazkh80/overview-of-pentesting-phases-4ooi)
 - [Customize component using ngComponentOutlet and signals in Angular](https://dev.to/railsstudent/customize-component-using-ngcomponentoutlet-and-signals-in-angular-3d68)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-404m)
-- [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
-- [Copy Text to Clipboard on Click React Component](https://dev.to/rodionchachura/copy-text-to-clipboard-on-click-react-component-2fk1)
 <!-- BLOG-POST-LIST:END -->
 
