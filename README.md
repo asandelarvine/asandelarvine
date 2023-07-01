@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Android Projects For Beginners To Do and Boost Your Resume](https://dev.to/dhruvjoshi9/top-10-android-projects-for-beginners-to-do-and-boost-your-resume-2me3)
 - [Let&#39;s Talk About Node Packages](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
 - [📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
 - [Discovering PySeKT: Your Next Favorite Tech Stack](https://dev.to/developerbishwas/discovering-pysekt-your-next-favorite-tech-stack-575k)
-- [Use a custom data folder on Flatpak apps](https://dev.to/ivanalejandro0/use-a-custom-data-folder-on-flatpak-apps-47c7)
 <!-- BLOG-POST-LIST:END -->
 
