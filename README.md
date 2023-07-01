@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unplugging to Recharge: Have You Tried a Digital Detox Day?](https://dev.to/codenewbieteam/unplugging-to-recharge-have-you-tried-a-digital-detox-day-3e5p)
+- [What&#39;s the Best Name for a Coding-inspired Superhero?](https://dev.to/devteam/whats-the-best-name-for-a-coding-inspired-superhero-4mc0)
+- [Re-Exploring Reactivity and Introducing the Observer API and Reflex Functions](https://dev.to/oxharris/re-exploring-reactivity-and-introducing-the-observer-api-and-reflex-functions-4h70)
 - [Top 10 Android Projects For Beginners To Do and Boost Your Resume](https://dev.to/dhruvjoshi9/top-10-android-projects-for-beginners-to-do-and-boost-your-resume-2me3)
-- [CreatiGenius: Empowering Your Creative Universe](https://dev.to/sohagmahamud/creatigenius-empowering-your-creative-universe-364n)
-- [Let&#39;s Talk About Node Packages](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
-- [📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
 <!-- BLOG-POST-LIST:END -->
 
