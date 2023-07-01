@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem with axios header in nuxt.js](https://dev.to/puzzle29/problem-with-axios-header-in-nuxtjs-kpo)
 - [How to Wrap Your Errors with Enums when using Error-stack](https://dev.to/neon_mmd/how-to-wrap-your-errors-with-enums-when-using-error-stack-49p0)
 - [Experiment Tracking and Hyperparameter Tuning with TensorBoard in PyTorch 🔥](https://dev.to/akshayballal/experiment-tracking-and-hyperparameter-tuning-with-tensorboard-in-pytorch-402j)
 - [Hosting Games with Express.js and Socket.io](https://dev.to/vulcanwm/hosting-games-with-expressjs-and-socketio-8nf)
-- [☸️ Managed Kubernetes : Our dev is on AWS, our prod is on OVH](https://dev.to/zenika/managed-kubernetes-our-dev-is-on-aws-our-prod-is-on-ovh-3nbf)
 <!-- BLOG-POST-LIST:END -->
 
