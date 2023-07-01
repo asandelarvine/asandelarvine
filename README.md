@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditionals in Julia](https://dev.to/ifihan/conditionals-in-julia-30b8)
-- [Amazon ElastiCache for Redis](https://dev.to/aws-builders/amazon-elasticache-for-redis-2436)
-- [Overview of Pentesting Phases](https://dev.to/fawazkh80/overview-of-pentesting-phases-4ooi)
-- [Customize component using ngComponentOutlet and signals in Angular](https://dev.to/railsstudent/customize-component-using-ngcomponentoutlet-and-signals-in-angular-3d68)
+- [How to Wrap Your Errors with Enums when using Error-stack](https://dev.to/neon_mmd/how-to-wrap-your-errors-with-enums-when-using-error-stack-49p0)
+- [Experiment Tracking and Hyperparameter Tuning with TensorBoard in PyTorch 🔥](https://dev.to/akshayballal/experiment-tracking-and-hyperparameter-tuning-with-tensorboard-in-pytorch-402j)
+- [Hosting Games with Express.js and Socket.io](https://dev.to/vulcanwm/hosting-games-with-expressjs-and-socketio-8nf)
+- [☸️ Managed Kubernetes : Our dev is on AWS, our prod is on OVH](https://dev.to/zenika/managed-kubernetes-our-dev-is-on-aws-our-prod-is-on-ovh-3nbf)
 <!-- BLOG-POST-LIST:END -->
 
