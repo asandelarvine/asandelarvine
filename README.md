@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Limitations of Postgres Partitioning: Lessons Learned and Best Practices](https://dev.to/nightbird07/exploring-the-limitations-of-postgres-partitioning-lessons-learned-and-best-practices-5cj9)
-- [RFID Access Control: What Is It &amp; How Does It Work?](https://dev.to/poxorfidautomation/rfid-access-control-what-is-it-how-does-it-work-3n2p)
-- [Where to host static websites](https://dev.to/irishgeoff11/where-to-host-static-websites-3jgg)
-- [Enhance Your Productivity with Python Scripts: Introducing Daily.py Repository](https://dev.to/chamepp/enhance-your-productivity-with-python-scripts-introducing-dailypy-repository-1041)
+- [Copy Text to Clipboard on Click React Component](https://dev.to/rodionchachura/copy-text-to-clipboard-on-click-react-component-2fk1)
+- [Top 10 Best Web Optimization Services and Tools for an Efficient Online Presence](https://dev.to/vishnusatheesh/top-10-best-web-optimization-services-and-tools-for-an-efficient-online-presence-91n)
+- [Prettier and how to get most out of it](https://dev.to/withtoms/prettier-and-how-to-get-most-out-of-it-2d46)
+- [How To Remove The Filter In CSS?](https://dev.to/arsalanmee/how-to-remove-the-filter-in-css-3fd5)
 <!-- BLOG-POST-LIST:END -->
 
