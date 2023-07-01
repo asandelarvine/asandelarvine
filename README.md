@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerize your Next.js application on Spheron Compute](https://dev.to/davidsalexande3/dockerize-your-nextjs-application-on-spheron-compute-2l48)
-- [Unveiling the Power of AI in Software Security at DevSecCon](https://dev.to/nikitakoselev/unveiling-the-power-of-ai-in-software-security-at-devseccon-37f)
-- [All your ssh and database servers accessible directly from your Browser](https://dev.to/aws-builders/all-your-ssh-and-database-servers-accessible-directly-from-your-browser-580p)
-- [How to create a temporary token for your GitHub Actions pipeline to deploy into AWS](https://dev.to/aws-builders/how-to-create-a-temporary-token-for-your-github-actions-pipeline-to-deploy-into-aws-3h51)
+- [Let&#39;s Talk About Node Packages](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
+- [📦 Stay Organized and Efficient with Auto-Label-Pulls Github Action](https://dev.to/shiftescape/stay-organized-and-efficient-with-auto-label-pulls-github-action-29pi)
+- [Discovering PySeKT: Your Next Favorite Tech Stack](https://dev.to/developerbishwas/discovering-pysekt-your-next-favorite-tech-stack-575k)
+- [Use a custom data folder on Flatpak apps](https://dev.to/ivanalejandro0/use-a-custom-data-folder-on-flatpak-apps-47c7)
 <!-- BLOG-POST-LIST:END -->
 
