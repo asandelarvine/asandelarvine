@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize your Next.js application on Spheron Compute](https://dev.to/davidsalexande3/dockerize-your-nextjs-application-on-spheron-compute-2l48)
 - [Unveiling the Power of AI in Software Security at DevSecCon](https://dev.to/nikitakoselev/unveiling-the-power-of-ai-in-software-security-at-devseccon-37f)
-- [Creating our First Complete Jenkins CI/CD Pipeline](https://dev.to/softwaresennin/creating-our-first-complete-jenkins-cicd-pipeline-34a1)
-- [Approximate Count Distinct in YugabyteDB &lpar;and PostgreSQL&rpar; with HyperLogLog](https://dev.to/yugabyte/approximate-count-distinct-in-yugabytedb-and-postgresql-with-hyperloglog-1i13)
-- [#DEVDiscuss: ChatGPT Lawsuits](https://dev.to/devteam/devdiscuss-chatgpt-lawsuits-p3o)
+- [All your ssh and database servers accessible directly from your Browser](https://dev.to/aws-builders/all-your-ssh-and-database-servers-accessible-directly-from-your-browser-580p)
+- [How to create a temporary token for your GitHub Actions pipeline to deploy into AWS](https://dev.to/aws-builders/how-to-create-a-temporary-token-for-your-github-actions-pipeline-to-deploy-into-aws-3h51)
 <!-- BLOG-POST-LIST:END -->
 
