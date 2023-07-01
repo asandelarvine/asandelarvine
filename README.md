@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Conditionals in Julia](https://dev.to/ifihan/conditionals-in-julia-30b8)
+- [Amazon ElastiCache for Redis](https://dev.to/aws-builders/amazon-elasticache-for-redis-2436)
 - [Overview of Pentesting Phases](https://dev.to/fawazkh80/overview-of-pentesting-phases-4ooi)
 - [Customize component using ngComponentOutlet and signals in Angular](https://dev.to/railsstudent/customize-component-using-ngcomponentoutlet-and-signals-in-angular-3d68)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-404m)
 <!-- BLOG-POST-LIST:END -->
 
