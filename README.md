@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
 - [Copy Text to Clipboard on Click React Component](https://dev.to/rodionchachura/copy-text-to-clipboard-on-click-react-component-2fk1)
+- [How To Make Text Component with React, TypeScript and Styled Components](https://dev.to/rodionchachura/how-to-make-text-component-with-react-typescript-and-styled-components-5hja)
 - [Top 10 Best Web Optimization Services and Tools for an Efficient Online Presence](https://dev.to/vishnusatheesh/top-10-best-web-optimization-services-and-tools-for-an-efficient-online-presence-91n)
-- [Prettier and how to get most out of it](https://dev.to/withtoms/prettier-and-how-to-get-most-out-of-it-2d46)
-- [How To Remove The Filter In CSS?](https://dev.to/arsalanmee/how-to-remove-the-filter-in-css-3fd5)
 <!-- BLOG-POST-LIST:END -->
 
