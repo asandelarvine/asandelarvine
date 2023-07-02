@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ReductStore v1.5.0 has been released](https://dev.to/reductstore/reductstore-v150-has-been-released-hkj)
 - [Build an Open Source Project: Behind the Scenes](https://dev.to/sibprogrammer/build-an-open-source-project-behind-the-scenes-54ii)
 - [Why do QA](https://dev.to/dostaglou/why-do-qa-jgc)
 - [How to build a serverless cron job using AWS EventBridge with AWS CDK](https://dev.to/pmca/how-to-build-a-serverless-cron-job-using-aws-eventbridge-with-aws-cdk-25hd)
-- [Creating a Dynamic Table in React Using react-table &lpar;v7.8.0&rpar;.](https://dev.to/hcoco1/creating-a-dynamic-table-in-react-using-react-table-v780-3823)
 <!-- BLOG-POST-LIST:END -->
 
