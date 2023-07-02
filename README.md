@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Django CI/CD using GitHub Actions](https://dev.to/devvspaces/mastering-django-cicd-using-github-actions-2912)
 - [Guide for starting out C and C++ Programming in Visual Studio Code](https://dev.to/android-jester/guideline-for-starting-out-c-and-c-programming-in-visual-studio-code-19aj)
 - [BIG surprise! aspx files in .NET Core](https://dev.to/elanatframework/big-surprise-aspx-files-in-net-core-1jj2)
 - [Next.js and GraphQL: The Perfect Combination for Full Stack Development](https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7)
-- [Cookies vs LocalStorage Vs SessionStorage](https://dev.to/gaurbprajapati/cookies-vs-localstorage-vs-sessionstorage-4p6l)
 <!-- BLOG-POST-LIST:END -->
 
