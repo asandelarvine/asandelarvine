@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Reuse and Modularization: How Do You Maximize Efficiency and Promote Reusability?](https://dev.to/devteam/code-reuse-and-modularization-how-do-you-maximize-efficiency-and-promote-reusability-475d)
+- [Coding 101: Is HTML a Programming Language? Why or Why Not?](https://dev.to/codenewbieteam/coding-101-is-html-a-programming-language-why-or-why-not-97n)
 - [Developer Mid Term Report Cards](https://dev.to/philipjohnbasile/developer-mid-term-report-cards-2oek)
 - [Mastering Django CI/CD using GitHub Actions](https://dev.to/devvspaces/mastering-django-cicd-using-github-actions-2912)
-- [Guide for starting out C and C++ Programming in Visual Studio Code](https://dev.to/android-jester/guideline-for-starting-out-c-and-c-programming-in-visual-studio-code-19aj)
-- [BIG surprise! aspx files in .NET Core](https://dev.to/elanatframework/big-surprise-aspx-files-in-net-core-1jj2)
 <!-- BLOG-POST-LIST:END -->
 
