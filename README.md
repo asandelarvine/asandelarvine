@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monthly Amazon Location Service Updates - 2023.06](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202306-4fmg)
 - [Restaurant Mobile App using flutter](https://dev.to/realnamehidden1_61/restaurant-mobile-app-ui-design-5gg7)
+- [How to Use Iris and PostgreSQL for Web Development](https://dev.to/kataras/how-to-use-iris-and-postgresql-for-web-development-3kka)
 - [Top Cloud Base Tricks Every DevOps Must Know](https://dev.to/scofieldidehen/top-cloud-base-tricks-every-devops-must-know-1b01)
-- [Use OPA for Application-Level Authorization, from RBAC to ABAC in Scale](https://dev.to/permit_io/use-opa-for-application-level-authorization-from-rbac-to-abac-in-scale-36d7)
-- [Static hosting free](https://dev.to/irishgeoff11/static-hosting-free-ia2)
 <!-- BLOG-POST-LIST:END -->
 
