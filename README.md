@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Junior need rules, senior guidelines](https://dev.to/noriller/junior-need-rules-senior-guidelines-55ma)
 - [ReductStore v1.5.0 has been released](https://dev.to/reductstore/reductstore-v150-has-been-released-hkj)
-- [Build an Open Source Project: Behind the Scenes](https://dev.to/sibprogrammer/build-an-open-source-project-behind-the-scenes-54ii)
-- [Why do QA](https://dev.to/dostaglou/why-do-qa-jgc)
-- [How to build a serverless cron job using AWS EventBridge with AWS CDK](https://dev.to/pmca/how-to-build-a-serverless-cron-job-using-aws-eventbridge-with-aws-cdk-25hd)
+- [Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
+- [Cypress Workshop Part 10: API, Working on different environments](https://dev.to/viktorijafilipov/cypress-workshop-part-10-api-working-on-different-environments-1k7f)
 <!-- BLOG-POST-LIST:END -->
 
