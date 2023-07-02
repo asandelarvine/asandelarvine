@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3: The Era of Decentralization 🌐](https://dev.to/akashpattnaik/web3-the-era-of-decentralization-23p2)
+- [Yet Another Newsletter LOL: Making and Learning](https://dev.to/nickytonline/yet-another-newsletter-lol-making-and-learning-3c5o)
+- [Dhiwise and Locofy: The Best AI Design To Code Converters](https://dev.to/scofieldidehen/dhiwise-and-locofy-the-best-ai-design-to-code-converters-4i46)
 - [Git the Future of Open Source](https://dev.to/scofieldidehen/git-the-future-of-open-source-219p)
-- [Monthly Amazon Location Service Updates - 2023.06](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202306-4fmg)
-- [Why Choose Node.js Over React.js: Mastering Node.js as Your First Step Towards Full-Stack Domination](https://dev.to/ayka_code/why-choose-nodejs-over-reactjs-mastering-nodejs-as-your-first-step-towards-full-stack-domination-111m)
-- [Restaurant Mobile App using flutter](https://dev.to/realnamehidden1_61/restaurant-mobile-app-ui-design-5gg7)
 <!-- BLOG-POST-LIST:END -->
 
