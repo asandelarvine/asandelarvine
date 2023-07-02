@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide for starting out C and C++ Programming in Visual Studio Code](https://dev.to/android-jester/guideline-for-starting-out-c-and-c-programming-in-visual-studio-code-19aj)
 - [BIG surprise! aspx files in .NET Core](https://dev.to/elanatframework/big-surprise-aspx-files-in-net-core-1jj2)
 - [Next.js and GraphQL: The Perfect Combination for Full Stack Development](https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7)
 - [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://dev.to/itsvinayak/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks-52af)
-- [5 Steps to Publish Your App on Google Play Store](https://dev.to/arnoldwafula/5-steps-to-publish-your-app-on-google-play-store-4ml7)
 <!-- BLOG-POST-LIST:END -->
 
