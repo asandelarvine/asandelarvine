@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Code Reuse and Modularization: How Do You Maximize Efficiency and Promote Reusability?](https://dev.to/devteam/code-reuse-and-modularization-how-do-you-maximize-efficiency-and-promote-reusability-475d)
 - [Coding 101: Is HTML a Programming Language? Why or Why Not?](https://dev.to/codenewbieteam/coding-101-is-html-a-programming-language-why-or-why-not-97n)
+- [React&#39;s Hooks useState and useEffect](https://dev.to/pawankashap/understanding-reacts-usestate-and-useeffect-hooks-39mp)
 - [Developer Mid Term Report Cards](https://dev.to/philipjohnbasile/developer-mid-term-report-cards-2oek)
-- [Mastering Django CI/CD using GitHub Actions](https://dev.to/devvspaces/mastering-django-cicd-using-github-actions-2912)
 <!-- BLOG-POST-LIST:END -->
 
