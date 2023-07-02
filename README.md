@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git the Future of Open Source](https://dev.to/scofieldidehen/git-the-future-of-open-source-219p)
 - [Monthly Amazon Location Service Updates - 2023.06](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202306-4fmg)
+- [Why Choose Node.js Over React.js: Mastering Node.js as Your First Step Towards Full-Stack Domination](https://dev.to/ayka_code/why-choose-nodejs-over-reactjs-mastering-nodejs-as-your-first-step-towards-full-stack-domination-111m)
 - [Restaurant Mobile App using flutter](https://dev.to/realnamehidden1_61/restaurant-mobile-app-ui-design-5gg7)
-- [How to Use Iris and PostgreSQL for Web Development](https://dev.to/kataras/how-to-use-iris-and-postgresql-for-web-development-3kka)
-- [Top Cloud Base Tricks Every DevOps Must Know](https://dev.to/scofieldidehen/top-cloud-base-tricks-every-devops-must-know-1b01)
 <!-- BLOG-POST-LIST:END -->
 
