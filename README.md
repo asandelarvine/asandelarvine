@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ek1)
-- [Add a comment section to your React project - Bonus: Inline-Styling](https://dev.to/tsabary/add-a-comment-section-to-your-react-project-bonus-inline-styling-4h1i)
-- [Harmonizing Go and Rust in a Single Application: A Weird Symbiotic Dance](https://dev.to/philipjohnbasile/harmonizing-go-and-rust-in-a-single-application-a-weird-symbiotic-dance-1732)
-- [The essential security checklist for user identity](https://dev.to/logto/the-essential-security-checklist-for-user-identity-1f1)
+- [Understand OAuth in 3 minutes](https://dev.to/philip-ainberger/understand-oauth-in-3-minutes-ham)
+- [Bandit Level 1 Level 2](https://dev.to/christianpaez/bandit-level-1-level-2-19hk)
+- [Setup SSL for YSQL in Yugabyte manually](https://dev.to/yugabyte/setup-ssl-for-ysql-in-yugabyte-manually-7hd)
+- [ChatGPT Vs Bard: Which is better for coding?](https://dev.to/soumyadeepdey/chatgpt-vs-bard-which-is-better-for-coding-355j)
 <!-- BLOG-POST-LIST:END -->
 
