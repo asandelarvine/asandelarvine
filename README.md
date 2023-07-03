@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT with Real Time Information](https://dev.to/polterguy/chatgpt-with-real-time-information-2718)
+- [Full-Stack Developer Roadmap: Step-by-Step Guide 2023](https://dev.to/scofieldidehen/full-stack-developer-roadmap-step-by-step-guide-2023-5anf)
 - [🏆 Contest - Kintone Customization Contest 2023](https://dev.to/kintonedevprogram/contest-kintone-customization-contest-2023-3bkl)
 - [Learning JSX: Building a React Single-Page Application](https://dev.to/george8918/learning-jsx-building-a-react-single-page-application-3i65)
-- [Formatting Node.js codebase with Prettier](https://dev.to/zsevic/formatting-nodejs-codebase-with-prettier-3ghi)
-- [Exploring Amazon Elasticache to Accelerate Application Speed and Scalability](https://dev.to/brandondamue/exploring-amazon-elasticache-to-accelerate-application-speed-and-scalability-1m6g)
 <!-- BLOG-POST-LIST:END -->
 
