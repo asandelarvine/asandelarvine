@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DRF-YASG: The Superhero of API Documentation - Saving Developers from Documentation Despair!](https://dev.to/adii9/drf-yasg-the-superhero-of-api-documentation-saving-developers-from-documentation-despair-3jln)
+- [Perl Weekly #623 - perl v5.38.0 was released](https://dev.to/szabgab/perl-weekly-623-perl-v5380-was-released-2l50)
 - [ChatGPT with Real Time Information](https://dev.to/polterguy/chatgpt-with-real-time-information-2718)
-- [Full-Stack Developer Roadmap: Step-by-Step Guide 2023](https://dev.to/scofieldidehen/full-stack-developer-roadmap-step-by-step-guide-2023-5anf)
-- [🏆 Contest - Kintone Customization Contest 2023](https://dev.to/kintonedevprogram/contest-kintone-customization-contest-2023-3bkl)
-- [Learning JSX: Building a React Single-Page Application](https://dev.to/george8918/learning-jsx-building-a-react-single-page-application-3i65)
+- [All about python functions !](https://dev.to/coderatul/all-about-functions-in-python--28ih)
 <!-- BLOG-POST-LIST:END -->
 
