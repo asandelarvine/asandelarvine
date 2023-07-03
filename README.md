@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Spot Instances - Reducing EC2 Costs up to 90%](https://dev.to/aws-builders/aws-spot-instances-reducing-ec2-costs-up-to-90-2gip)
+- [Expand Your Blog&#39;s Reach with this AWS Automation Tool](https://dev.to/juliafmorgado/expand-your-blogs-reach-with-this-aws-automation-tool-1a1p)
 - [Use ChatGPT to Explore Your Database Schema](https://dev.to/sualeh/use-chatgpt-to-explore-your-database-schema-e73)
 - [Amazon Connect with Terraform deploy.](https://dev.to/acijum81/amazon-connect-with-terraform-deploy-4kbf)
-- [Exploring Web Rendering: Progressive Hydration](https://dev.to/mangs/exploring-web-rendering-progressive-hydration-563m)
-- [Niche Marketplaces for Newbies](https://dev.to/igorboky/niche-marketplaces-for-newbies-2fgk)
 <!-- BLOG-POST-LIST:END -->
 
