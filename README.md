@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20 &lpar;Senior Developer&rpar; C# Interview Questions and Answers &lpar;2023&rpar;](https://dev.to/bytehide/20-senior-developer-c-interview-questions-and-answers-2023-3bjc)
+- [Have ChatGPT Browse the Web](https://dev.to/polterguy/have-chatgpt-browse-the-web-2gl7)
 - [Pure CSS parallax perspective beyond landscape images](https://dev.to/ingosteinke/pure-css-parallax-perspective-beyond-landscape-images-24g2)
 - [Complete HTML 🤯](https://dev.to/ankur0904/complete-html-4m32)
-- [Secrets and Environment Variables in your GitHub Action](https://dev.to/this-is-learning/secrets-and-environment-variables-in-your-github-action-1pfn)
-- [AI and the open web](https://dev.to/robole/ai-and-the-open-web-4pnb)
 <!-- BLOG-POST-LIST:END -->
 
