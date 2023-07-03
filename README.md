@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ek1)
+- [Add a comment section to your React project - Bonus: Inline-Styling](https://dev.to/tsabary/add-a-comment-section-to-your-react-project-bonus-inline-styling-4h1i)
 - [Harmonizing Go and Rust in a Single Application: A Weird Symbiotic Dance](https://dev.to/philipjohnbasile/harmonizing-go-and-rust-in-a-single-application-a-weird-symbiotic-dance-1732)
-- [Staff Augmentation in the Remote Work Era: Overcoming Barriers and Getting the Most Out of the Benefits](https://dev.to/saklle_rohit/staff-augmentation-in-the-remote-work-era-overcoming-barriers-and-getting-the-most-out-of-the-benefits-120h)
-- [Boost Your Sales and Business Development with Strategic Staff Augmentation](https://dev.to/saklle_rohit/boost-your-sales-and-business-development-with-strategic-staff-augmentation-39m0)
-- [Meme Monday](https://dev.to/ben/meme-monday-53cl)
+- [The essential security checklist for user identity](https://dev.to/logto/the-essential-security-checklist-for-user-identity-1f1)
 <!-- BLOG-POST-LIST:END -->
 
