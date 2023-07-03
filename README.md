@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand OAuth in 3 minutes](https://dev.to/philip-ainberger/understand-oauth-in-3-minutes-ham)
-- [Bandit Level 1 Level 2](https://dev.to/christianpaez/bandit-level-1-level-2-19hk)
-- [Setup SSL for YSQL in Yugabyte manually](https://dev.to/yugabyte/setup-ssl-for-ysql-in-yugabyte-manually-7hd)
-- [ChatGPT Vs Bard: Which is better for coding?](https://dev.to/soumyadeepdey/chatgpt-vs-bard-which-is-better-for-coding-355j)
+- [🔴 Live now: I am building Post generator with Next.js, PrismaDB, OpenAI](https://dev.to/shnai0/live-now-i-am-building-post-generator-with-nextjs-prismadb-openai-5a0)
+- [Best Express.js, Next.js Fullstack boiletplate](https://dev.to/hironate/best-expressjs-nextjs-fullstack-boiletplate-42f2)
+- [Google IO Extended 2023: Event, Updates and Ressources](https://dev.to/1grace/google-io-extended-2023-event-updates-and-ressources-gmj)
+- [From Linux to MacOS: A Journey of Surprising Delight](https://dev.to/raxraj/from-linux-to-macos-a-journey-of-surprising-delight-219e)
 <!-- BLOG-POST-LIST:END -->
 
