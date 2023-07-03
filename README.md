@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 4 JS Array Methods every Backend Developer should know](https://dev.to/danielasaboro/the-5-js-array-methods-every-backend-developer-should-know-k)
+- [Weekly Roundup &lpar;Jun 26&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-26-hot-topics-in-workplace-sharepoint-and-powerplatform-56mg)
 - [LeetCode 2612 &lpar;Hard&rpar;. Minimum Reverse Operations. Swift. BFS. O&lpar;n+k&rpar;. O&lpar;n&rpar;.](https://dev.to/sergeyleschev/leetcode-2612-hard-minimum-reverse-operations-swift-bfs-583f)
-- [Coding 101: HTML, HTML5, CSS, CSS3 - What&#39;s the Difference?](https://dev.to/codenewbieteam/coding-101-html-html5-css-css3-whats-the-difference-2p67)
 - [Have You Used Python in Unexpected Ways?](https://dev.to/devteam/have-you-used-python-in-unexpected-ways-5fdm)
-- [DRF-YASG: The Superhero of API Documentation - Saving Developers from Documentation Despair!](https://dev.to/adii9/drf-yasg-the-superhero-of-api-documentation-saving-developers-from-documentation-despair-3jln)
 <!-- BLOG-POST-LIST:END -->
 
