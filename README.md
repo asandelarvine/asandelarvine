@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and the open web](https://dev.to/robole/ai-and-the-open-web-4pnb)
+- [12-Factor App Methodology To Your Flutter Application](https://dev.to/yatendra2001/12-factor-app-methodology-to-your-flutter-application-p31)
 - [AWS open source newsletter, #163](https://dev.to/aws/aws-open-source-newsletter-163-m0a)
-- [The 4 JS Array Methods every Backend Developer should know](https://dev.to/danielasaboro/the-5-js-array-methods-every-backend-developer-should-know-k)
-- [Weekly Roundup &lpar;Jun 26&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-26-hot-topics-in-workplace-sharepoint-and-powerplatform-56mg)
-- [Explain Authentication In React Application](https://dev.to/ifourtechnolab/explain-authentication-in-react-application-4n40)
+- [Overcoming &quot;Cold Start&quot; &amp; Building Traction for your Startup through Active Marketing](https://dev.to/mindninjax/overcoming-cold-start-building-traction-for-your-startup-through-active-marketing-3nkn)
 <!-- BLOG-POST-LIST:END -->
 
