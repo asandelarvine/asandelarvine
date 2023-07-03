@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Writes Helm Charts?](https://dev.to/thorstenhirsch/who-writes-helm-charts-27lc)
-- [Cloud Computing 101 for Beginners &lpar;Part 1&rpar;](https://dev.to/1grace/cloud-computing-101-for-beginners-6hd)
-- [How to Configure Apache web server on Linux using Ansible](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
-- [DevEx and OSS- Elevating Developer Experience through Open Source Collaboration](https://dev.to/opensauced/devex-and-oss-elevating-developer-experience-through-open-source-collaboration-46j8)
+- [Connect ChatGPT to your SQL Database](https://dev.to/polterguy/connect-chatgpt-to-your-sql-database-3289)
+- [Join Virtual Coffee for the Build in Public: The Power of Daily Standup and Demo Challenge](https://dev.to/virtualcoffee/join-virtual-coffee-for-the-build-in-public-the-power-of-daily-standup-and-demo-challenge-35kb)
+- [http requests always goes to port 80. PROOF!](https://dev.to/merudra754/http-requests-always-goes-to-port-80-proof-10e7)
+- [The Significance of Binary Trees &lpar;Part 1&rpar;](https://dev.to/livshits_ivan/the-significance-of-binary-trees-part-1-506c)
 <!-- BLOG-POST-LIST:END -->
 
