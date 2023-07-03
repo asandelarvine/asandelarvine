@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔴 Live now: I am building Post generator with Next.js, PrismaDB, OpenAI](https://dev.to/shnai0/live-now-i-am-building-post-generator-with-nextjs-prismadb-openai-5a0)
-- [Best Express.js, Next.js Fullstack boiletplate](https://dev.to/hironate/best-expressjs-nextjs-fullstack-boiletplate-42f2)
-- [Google IO Extended 2023: Event, Updates and Ressources](https://dev.to/1grace/google-io-extended-2023-event-updates-and-ressources-gmj)
-- [From Linux to MacOS: A Journey of Surprising Delight](https://dev.to/raxraj/from-linux-to-macos-a-journey-of-surprising-delight-219e)
+- [Who Writes Helm Charts?](https://dev.to/thorstenhirsch/who-writes-helm-charts-27lc)
+- [Cloud Computing 101 for Beginners &lpar;Part 1&rpar;](https://dev.to/1grace/cloud-computing-101-for-beginners-6hd)
+- [How to Configure Apache web server on Linux using Ansible](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
+- [DevEx and OSS- Elevating Developer Experience through Open Source Collaboration](https://dev.to/opensauced/devex-and-oss-elevating-developer-experience-through-open-source-collaboration-46j8)
 <!-- BLOG-POST-LIST:END -->
 
