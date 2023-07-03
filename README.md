@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #163](https://dev.to/aws/aws-open-source-newsletter-163-m0a)
 - [The 4 JS Array Methods every Backend Developer should know](https://dev.to/danielasaboro/the-5-js-array-methods-every-backend-developer-should-know-k)
 - [Weekly Roundup &lpar;Jun 26&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jun-26-hot-topics-in-workplace-sharepoint-and-powerplatform-56mg)
-- [LeetCode 2612 &lpar;Hard&rpar;. Minimum Reverse Operations. Swift. BFS. O&lpar;n+k&rpar;. O&lpar;n&rpar;.](https://dev.to/sergeyleschev/leetcode-2612-hard-minimum-reverse-operations-swift-bfs-583f)
-- [Have You Used Python in Unexpected Ways?](https://dev.to/devteam/have-you-used-python-in-unexpected-ways-5fdm)
+- [Explain Authentication In React Application](https://dev.to/ifourtechnolab/explain-authentication-in-react-application-4n40)
 <!-- BLOG-POST-LIST:END -->
 
