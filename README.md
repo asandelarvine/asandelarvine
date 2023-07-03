@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning JSX: Building a React Single-Page Application](https://dev.to/george8918/learning-jsx-building-a-react-single-page-application-3i65)
+- [Formatting Node.js codebase with Prettier](https://dev.to/zsevic/formatting-nodejs-codebase-with-prettier-3ghi)
 - [Exploring Amazon Elasticache to Accelerate Application Speed and Scalability](https://dev.to/brandondamue/exploring-amazon-elasticache-to-accelerate-application-speed-and-scalability-1m6g)
 - [Junior need rules, senior guidelines](https://dev.to/noriller/junior-need-rules-senior-guidelines-55ma)
-- [ReductStore v1.5.0 has been released](https://dev.to/reductstore/reductstore-v150-has-been-released-hkj)
-- [Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
 <!-- BLOG-POST-LIST:END -->
 
