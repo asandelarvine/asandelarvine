@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 2612 &lpar;Hard&rpar;. Minimum Reverse Operations. Swift. BFS. O&lpar;n+k&rpar;. O&lpar;n&rpar;.](https://dev.to/sergeyleschev/leetcode-2612-hard-minimum-reverse-operations-swift-bfs-583f)
+- [Coding 101: HTML, HTML5, CSS, CSS3 - What&#39;s the Difference?](https://dev.to/codenewbieteam/coding-101-html-html5-css-css3-whats-the-difference-2p67)
+- [Have You Used Python in Unexpected Ways?](https://dev.to/devteam/have-you-used-python-in-unexpected-ways-5fdm)
 - [DRF-YASG: The Superhero of API Documentation - Saving Developers from Documentation Despair!](https://dev.to/adii9/drf-yasg-the-superhero-of-api-documentation-saving-developers-from-documentation-despair-3jln)
-- [Perl Weekly #623 - perl v5.38.0 was released](https://dev.to/szabgab/perl-weekly-623-perl-v5380-was-released-2l50)
-- [ChatGPT with Real Time Information](https://dev.to/polterguy/chatgpt-with-real-time-information-2718)
-- [All about python functions !](https://dev.to/coderatul/all-about-functions-in-python--28ih)
 <!-- BLOG-POST-LIST:END -->
 
