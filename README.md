@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pure CSS parallax perspective beyond landscape images](https://dev.to/ingosteinke/pure-css-parallax-perspective-beyond-landscape-images-24g2)
+- [Complete HTML 🤯](https://dev.to/ankur0904/complete-html-4m32)
+- [Secrets and Environment Variables in your GitHub Action](https://dev.to/this-is-learning/secrets-and-environment-variables-in-your-github-action-1pfn)
 - [AI and the open web](https://dev.to/robole/ai-and-the-open-web-4pnb)
-- [12-Factor App Methodology To Your Flutter Application](https://dev.to/yatendra2001/12-factor-app-methodology-to-your-flutter-application-p31)
-- [AWS open source newsletter, #163](https://dev.to/aws/aws-open-source-newsletter-163-m0a)
-- [Overcoming &quot;Cold Start&quot; &amp; Building Traction for your Startup through Active Marketing](https://dev.to/mindninjax/overcoming-cold-start-building-traction-for-your-startup-through-active-marketing-3nkn)
 <!-- BLOG-POST-LIST:END -->
 
