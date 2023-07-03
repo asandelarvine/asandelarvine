@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK Stack for 4th of July](https://dev.to/tspannhw/flank-stack-for-4th-of-july-4hf4)
+- [What&#39;s the difference between a library and a framework?](https://dev.to/codenewbieteam/whats-the-difference-between-a-library-and-a-framework-34oj)
 - [Connect ChatGPT to your SQL Database](https://dev.to/polterguy/connect-chatgpt-to-your-sql-database-3289)
 - [Join Virtual Coffee for the Build in Public: The Power of Daily Standup and Demo Challenge](https://dev.to/virtualcoffee/join-virtual-coffee-for-the-build-in-public-the-power-of-daily-standup-and-demo-challenge-35kb)
-- [http requests always goes to port 80. PROOF!](https://dev.to/merudra754/http-requests-always-goes-to-port-80-proof-10e7)
-- [The Significance of Binary Trees &lpar;Part 1&rpar;](https://dev.to/livshits_ivan/the-significance-of-binary-trees-part-1-506c)
 <!-- BLOG-POST-LIST:END -->
 
