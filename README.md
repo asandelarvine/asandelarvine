@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Insights: The Power of SAP Analytics Cloud&#39;s Data Visualization](https://dev.to/edenwheeler/transforming-insights-the-power-of-sap-analytics-clouds-data-visualization-20l9)
 - [Share Your Star Wars-inspired BBQ Creations](https://dev.to/devteam/share-your-star-wars-inspired-bbq-creations-2i13)
 - [Coding 101: What are Algorithms?](https://dev.to/codenewbieteam/coding-101-what-are-algorithms-2fm1)
 - [Redirect the user to the default browser on the phone when accessing the website on the web view](https://dev.to/giangnguyenpzh/redirect-the-user-to-the-default-browser-on-the-phone-when-accessing-the-website-on-the-web-view-47p7)
-- [Running Bar Chat](https://dev.to/balagmadhu/running-bar-chat-5g2)
 <!-- BLOG-POST-LIST:END -->
 
