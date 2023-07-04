@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Spot Instances - Reducing EC2 Costs up to 90%](https://dev.to/aws-builders/aws-spot-instances-reducing-ec2-costs-up-to-90-2gip)
-- [Expand Your Blog&#39;s Reach with this AWS Automation Tool](https://dev.to/juliafmorgado/expand-your-blogs-reach-with-this-aws-automation-tool-1a1p)
-- [Use ChatGPT to Explore Your Database Schema](https://dev.to/sualeh/use-chatgpt-to-explore-your-database-schema-e73)
-- [Amazon Connect with Terraform deploy.](https://dev.to/acijum81/amazon-connect-with-terraform-deploy-4kbf)
+- [Create a Hugo form shortcode](https://dev.to/irishgeoff11/create-a-hugo-form-shortcode-244d)
+- [JavaScript Promises](https://dev.to/bolajibolajoko51/javascript-promises-2e8b)
+- [Structured Query Language &lpar;SQL&rpar;| Full Explanation &lpar;Definition, usage, structure and example with MySQL&rpar;](https://dev.to/danielabarazarte/structured-query-language-sql-full-explanation-definition-usage-structure-and-example-with-mysql-59g2)
+- [Linguagem de consulta estruturada &lpar;SQL&rpar; | Explicação Completa &lpar;Definição, uso, estrutura e exemplo com MySQL&rpar;](https://dev.to/danielabarazarte/linguagem-de-consulta-estruturada-sql-explicacao-completa-definicao-uso-estrutura-e-exemplo-com-mysql-3io9)
 <!-- BLOG-POST-LIST:END -->
 
