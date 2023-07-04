@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [CodeWP: Website Creation with AI WordPress Code Generator](https://dev.to/cmoaiforme/codewp-website-creation-with-ai-wordpress-code-generator-194p)
 - [Overcoming the Challenges of Using BuildContext in an Asynchronous Environment in Dart and Flutter](https://dev.to/mochafreddo/overcoming-the-challenges-of-using-buildcontext-in-an-asynchronous-environment-in-dart-and-flutter-3kmj)
 - [Create a Hugo form shortcode](https://dev.to/irishgeoff11/create-a-hugo-form-shortcode-244d)
-- [Designed Curated places utmost importance on client satisfaction](https://dev.to/excellentreporter321/designed-curated-places-utmost-importance-on-client-satisfaction-4c91)
+- [JavaScript Promises](https://dev.to/bolajibolajoko51/javascript-promises-2e8b)
 <!-- BLOG-POST-LIST:END -->
 
