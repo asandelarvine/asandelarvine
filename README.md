@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Why we built Unkey](https://dev.to/perkinsjr/why-we-built-unkey-4b2l)
+- [Navigating Google Chrome: A Step-by-Step Guide for Mobile Users](https://dev.to/uzoma01/navigating-google-chrome-a-step-by-step-guide-for-mobile-users-5706)
 - [Embracing the Internet of Things: Revolutionizing the Connected World](https://dev.to/peaceoloruntoba/embracing-the-internet-of-things-revolutionizing-the-connected-world-3e9o)
 - [This Week In React #151: Remotion, Next.js, SVG-in-JS, TypeScript, Expo, Conform, TinyBase, i18n, App Clips, ES2023...](https://dev.to/sebastienlorber/this-week-in-react-151-remotion-nextjs-svg-in-js-typescript-expo-conform-tinybase-i18n-app-clips-es2023-181l)
-- [The Golang Saga: A Coder’s Journey There and Back Again. Part 1: Leaving the Shire](https://dev.to/olgabraginskaya/the-golang-saga-a-coders-journey-there-and-back-again-part-1-leaving-the-shire-4ago)
 <!-- BLOG-POST-LIST:END -->
 
