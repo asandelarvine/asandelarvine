@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #151: Remotion, Next.js, SVG-in-JS, TypeScript, Expo, Conform, TinyBase, i18n, App Clips, ES2023...](https://dev.to/sebastienlorber/this-week-in-react-151-remotion-nextjs-svg-in-js-typescript-expo-conform-tinybase-i18n-app-clips-es2023-181l)
+- [The Golang Saga: A Coder’s Journey There and Back Again. Part 1: Leaving the Shire](https://dev.to/olgabraginskaya/the-golang-saga-a-coders-journey-there-and-back-again-part-1-leaving-the-shire-4ago)
 - [Zuckerberg Unveils New Threads App, Dorsey and Musk Express Privacy Concerns!!](https://dev.to/soumyadeepdey/zuckerberg-unveils-new-threads-app-dorsey-and-musk-express-privacy-concerns-1d83)
 - [💪🏿Let&#39;s flex . . .](https://dev.to/dagimgdot/lets-flex--49fg)
-- [GETTING STARTED WITH CACHING: USING REDIS AND TYPESCRIPT](https://dev.to/realsteveig/getting-started-with-caching-using-redis-and-typescript-2c4n)
-- [I&#39;m a lazy Dev](https://dev.to/kenystev/im-a-lazy-dev-c7l)
 <!-- BLOG-POST-LIST:END -->
 
