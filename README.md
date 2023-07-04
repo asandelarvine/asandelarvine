@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Insights: The Power of SAP Analytics Cloud&#39;s Data Visualization](https://dev.to/edenwheeler/transforming-insights-the-power-of-sap-analytics-clouds-data-visualization-20l9)
-- [Share Your Star Wars-inspired BBQ Creations](https://dev.to/devteam/share-your-star-wars-inspired-bbq-creations-2i13)
-- [Coding 101: What are Algorithms?](https://dev.to/codenewbieteam/coding-101-what-are-algorithms-2fm1)
-- [Redirect the user to the default browser on the phone when accessing the website on the web view](https://dev.to/giangnguyenpzh/redirect-the-user-to-the-default-browser-on-the-phone-when-accessing-the-website-on-the-web-view-47p7)
+- [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
+- [Handling multiple pull requests](https://dev.to/mathio28/handling-multiple-pull-requests-1omg)
+- [Spring Boot Project Folder Structure](https://dev.to/jazzybruno/spring-boot-project-folder-structure-12oe)
+- [How to use HTML in increasing website accessibility](https://dev.to/hackmamba/how-to-use-html-in-increasing-website-accessibility-2n7c)
 <!-- BLOG-POST-LIST:END -->
 
