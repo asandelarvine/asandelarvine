@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
+- [Road-Map for Python Developers](https://dev.to/scofieldidehen/road-map-for-python-developers-of2)
+- [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://dev.to/codenameone/graphql-javascript-preprocessor-sql-and-more-in-manifold-1p3h)
 - [Setting WordPress Coding Standards per project using Composer](https://dev.to/sarahcssiqueira/setting-wordpress-coding-standards-per-project-using-composer-g46)
-- [Avoid getting Array elements using &quot;Property Accessors&quot; &lpar;array[index]&rpar;](https://dev.to/maafaishal/avoid-getting-array-elements-using-property-accessors-arrayindex-5g6d)
-- [ChatGPT Prompts: A Guide for Developers 🧑‍💻](https://dev.to/kanani_nirav/chatgpt-prompts-a-guide-for-developers-p6m)
-- [Typescript 🟦 CRUD API: Next.js, Tailwind, tRPC, Prisma Postgres, Docker](https://dev.to/francescoxx/typescript-crud-api-with-trpc-4689)
 <!-- BLOG-POST-LIST:END -->
 
