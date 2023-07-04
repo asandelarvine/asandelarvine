@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting WordPress Coding Standards per project using Composer](https://dev.to/sarahcssiqueira/setting-wordpress-coding-standards-per-project-using-composer-g46)
+- [Avoid getting Array elements using &quot;Property Accessors&quot; &lpar;array[index]&rpar;](https://dev.to/maafaishal/avoid-getting-array-elements-using-property-accessors-arrayindex-5g6d)
+- [ChatGPT Prompts: A Guide for Developers 🧑‍💻](https://dev.to/kanani_nirav/chatgpt-prompts-a-guide-for-developers-p6m)
 - [Typescript 🟦 CRUD API: Next.js, Tailwind, tRPC, Prisma Postgres, Docker](https://dev.to/francescoxx/typescript-crud-api-with-trpc-4689)
-- [Building a group chat app with OpenAI&#39;s Chat GPT](https://dev.to/ably/building-a-group-chat-app-with-openais-chat-gpt-2802)
-- [Git: debugging](https://dev.to/jmau111/git-debugging-1d3a)
-- [How to Choose the Right Content Management System &lpar;CMS&rpar; for Your Website](https://dev.to/jaycreated/how-to-choose-the-right-content-management-system-cms-for-your-website-b0k)
 <!-- BLOG-POST-LIST:END -->
 
