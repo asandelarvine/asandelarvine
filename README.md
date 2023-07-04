@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [30 Best Web Development Frameworks for 2023: A Comprehensive Guide](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i)
 - [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
+- [Nega dasturchi uchun muloqot qilish qobiliyati bo’lishi muhim?](https://dev.to/udilbar/nega-dasturchi-uchun-muloqot-qilish-qobiliyati-bolishi-muhim-1kgf)
 - [Handling multiple pull requests](https://dev.to/mathio28/handling-multiple-pull-requests-1omg)
-- [Spring Boot Project Folder Structure](https://dev.to/jazzybruno/spring-boot-project-folder-structure-12oe)
-- [How to use HTML in increasing website accessibility](https://dev.to/hackmamba/how-to-use-html-in-increasing-website-accessibility-2n7c)
 <!-- BLOG-POST-LIST:END -->
 
