@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Typescript 🟦 CRUD API: Next.js, Tailwind, tRPC, Prisma Postgres, Docker](https://dev.to/francescoxx/typescript-crud-api-with-trpc-4689)
 - [How to Choose the Right Content Management System &lpar;CMS&rpar; for Your Website](https://dev.to/jaycreated/how-to-choose-the-right-content-management-system-cms-for-your-website-b0k)
 - [Integrating ChatGPT with DuckDuckGo](https://dev.to/polterguy/integrating-chatgpt-with-duckduckgo-90o)
 - [Efficiency at its Best: Unveiling the Benefits of Approvals in Microsoft Teams - A Case Study](https://dev.to/jaloplo/efficiency-at-its-best-unveiling-the-benefits-of-approvals-in-microsoft-teams-a-case-study-37ap)
-- [Introducing Operator-Caska: The Perfect Blend of CaskaydiaCove and Operator Mono](https://dev.to/anantmishra1729/introducing-operator-caska-the-perfect-blend-of-caskaydiacove-and-operator-mono-4o0b)
 <!-- BLOG-POST-LIST:END -->
 
