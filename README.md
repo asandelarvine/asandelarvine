@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#NEW #2023 | Create Your Own Discord Bot with DiscordJS and TypeScript in 3 Minutes! &lpar;By uynilo9 on o9Studio&rpar;](https://dev.to/uynilo9/new-2023-create-your-own-discord-bot-with-discordjs-and-typescript-in-3-minutes-by-uynilo9-on-o9studio-41dh)
+- [Embrace the Dissent: Finding Value in Opposing Views](https://dev.to/zenstack/embrace-the-dissent-finding-value-in-opposing-views-1b8j)
 - [30 Best Web Development Frameworks for 2023: A Comprehensive Guide](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i)
 - [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
-- [Nega dasturchi uchun muloqot qilish qobiliyati bo’lishi muhim?](https://dev.to/udilbar/nega-dasturchi-uchun-muloqot-qilish-qobiliyati-bolishi-muhim-1kgf)
-- [Handling multiple pull requests](https://dev.to/mathio28/handling-multiple-pull-requests-1omg)
 <!-- BLOG-POST-LIST:END -->
 
