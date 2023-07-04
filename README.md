@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
-- [#2.Introduction to discord.py](https://dev.to/mannu/2introduction-to-discordpy-4iei)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
-- [Road-Map for Python Developers](https://dev.to/scofieldidehen/road-map-for-python-developers-of2)
+- [Zuckerberg Unveils New Threads App, Dorsey and Musk Express Privacy Concerns!!](https://dev.to/soumyadeepdey/zuckerberg-unveils-new-threads-app-dorsey-and-musk-express-privacy-concerns-1d83)
+- [💪🏿Let&#39;s flex . . .](https://dev.to/dagimgdot/lets-flex--49fg)
+- [GETTING STARTED WITH CACHING: USING REDIS AND TYPESCRIPT](https://dev.to/realsteveig/getting-started-with-caching-using-redis-and-typescript-2c4n)
+- [I&#39;m a lazy Dev](https://dev.to/kenystev/im-a-lazy-dev-c7l)
 <!-- BLOG-POST-LIST:END -->
 
