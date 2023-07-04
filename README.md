@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Typescript 🟦 CRUD API: Next.js, Tailwind, tRPC, Prisma Postgres, Docker](https://dev.to/francescoxx/typescript-crud-api-with-trpc-4689)
+- [Building a group chat app with OpenAI&#39;s Chat GPT](https://dev.to/ably/building-a-group-chat-app-with-openais-chat-gpt-2802)
+- [Git: debugging](https://dev.to/jmau111/git-debugging-1d3a)
 - [How to Choose the Right Content Management System &lpar;CMS&rpar; for Your Website](https://dev.to/jaycreated/how-to-choose-the-right-content-management-system-cms-for-your-website-b0k)
-- [Integrating ChatGPT with DuckDuckGo](https://dev.to/polterguy/integrating-chatgpt-with-duckduckgo-90o)
-- [Efficiency at its Best: Unveiling the Benefits of Approvals in Microsoft Teams - A Case Study](https://dev.to/jaloplo/efficiency-at-its-best-unveiling-the-benefits-of-approvals-in-microsoft-teams-a-case-study-37ap)
 <!-- BLOG-POST-LIST:END -->
 
