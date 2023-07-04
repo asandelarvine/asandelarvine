@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#NEW #2023 | Create Your Own Discord Bot with DiscordJS and TypeScript in 3 Minutes! &lpar;By uynilo9 on o9Studio&rpar;](https://dev.to/uynilo9/new-2023-create-your-own-discord-bot-with-discordjs-and-typescript-in-3-minutes-by-uynilo9-on-o9studio-41dh)
-- [Embrace the Dissent: Finding Value in Opposing Views](https://dev.to/zenstack/embrace-the-dissent-finding-value-in-opposing-views-1b8j)
-- [30 Best Web Development Frameworks for 2023: A Comprehensive Guide](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i)
-- [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
+- [How to Choose the Right Content Management System &lpar;CMS&rpar; for Your Website](https://dev.to/jaycreated/how-to-choose-the-right-content-management-system-cms-for-your-website-b0k)
+- [Integrating ChatGPT with DuckDuckGo](https://dev.to/polterguy/integrating-chatgpt-with-duckduckgo-90o)
+- [Efficiency at its Best: Unveiling the Benefits of Approvals in Microsoft Teams - A Case Study](https://dev.to/jaloplo/efficiency-at-its-best-unveiling-the-benefits-of-approvals-in-microsoft-teams-a-case-study-37ap)
+- [Introducing Operator-Caska: The Perfect Blend of CaskaydiaCove and Operator Mono](https://dev.to/anantmishra1729/introducing-operator-caska-the-perfect-blend-of-caskaydiacove-and-operator-mono-4o0b)
 <!-- BLOG-POST-LIST:END -->
 
