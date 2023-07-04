@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💼 Marking One Year in Singapore: My Life as an Expat Software Engineer](https://dev.to/shiftescape/marking-one-year-in-singapore-my-life-as-an-expat-software-engineer-10h6)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
 - [Road-Map for Python Developers](https://dev.to/scofieldidehen/road-map-for-python-developers-of2)
 - [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://dev.to/codenameone/graphql-javascript-preprocessor-sql-and-more-in-manifold-1p3h)
-- [Setting WordPress Coding Standards per project using Composer](https://dev.to/sarahcssiqueira/setting-wordpress-coding-standards-per-project-using-composer-g46)
 <!-- BLOG-POST-LIST:END -->
 
