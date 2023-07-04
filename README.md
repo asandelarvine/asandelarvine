@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeWP: Website Creation with AI WordPress Code Generator](https://dev.to/cmoaiforme/codewp-website-creation-with-ai-wordpress-code-generator-194p)
+- [Overcoming the Challenges of Using BuildContext in an Asynchronous Environment in Dart and Flutter](https://dev.to/mochafreddo/overcoming-the-challenges-of-using-buildcontext-in-an-asynchronous-environment-in-dart-and-flutter-3kmj)
 - [Create a Hugo form shortcode](https://dev.to/irishgeoff11/create-a-hugo-form-shortcode-244d)
-- [JavaScript Promises](https://dev.to/bolajibolajoko51/javascript-promises-2e8b)
-- [Structured Query Language &lpar;SQL&rpar;| Full Explanation &lpar;Definition, usage, structure and example with MySQL&rpar;](https://dev.to/danielabarazarte/structured-query-language-sql-full-explanation-definition-usage-structure-and-example-with-mysql-59g2)
-- [Linguagem de consulta estruturada &lpar;SQL&rpar; | Explicação Completa &lpar;Definição, uso, estrutura e exemplo com MySQL&rpar;](https://dev.to/danielabarazarte/linguagem-de-consulta-estruturada-sql-explicacao-completa-definicao-uso-estrutura-e-exemplo-com-mysql-3io9)
+- [Designed Curated places utmost importance on client satisfaction](https://dev.to/excellentreporter321/designed-curated-places-utmost-importance-on-client-satisfaction-4c91)
 <!-- BLOG-POST-LIST:END -->
 
