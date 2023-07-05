@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Cheat Sheet](https://dev.to/codaholic/git-cheat-sheet-3gig)
+- [Welcome to the New Era of App Development: Introducing Avalonia v11](https://dev.to/avalonia/welcome-to-the-new-era-of-app-development-introducing-avalonia-v11-4na7)
+- [Launching 1gpt 🤖](https://dev.to/parammittal16/launching-1gpt-17lm)
 - [Welcome Thread - v232](https://dev.to/devteam/welcome-thread-v234-3ig8)
-- [You don’t need a company training plan](https://dev.to/elisabethleonhardt/you-dont-need-a-company-training-plan-afk)
-- [Understanding package.json II: Scripts](https://dev.to/dyte/understanding-packagejson-ii-scripts-2akn)
-- [React.js: Why you might need useReducer](https://dev.to/menard_codes/reactjs-why-you-might-need-usereducer-3hei)
 <!-- BLOG-POST-LIST:END -->
 
