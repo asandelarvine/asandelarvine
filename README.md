@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep Your Ruby App Secure with Bundler](https://dev.to/appsignal/keep-your-ruby-app-secure-with-bundler-30e0)
+- [XML Based Setter Injection in Spring 6](https://dev.to/realnamehidden1_61/xml-based-setter-injection-in-spring-6-2on)
+- [Build a Guestbook from the 2000s with React Server Components and Server Actions](https://dev.to/scastiel/intro-to-react-server-components-and-actions-with-nextjs-j1j)
 - [Why Cloud Skills are in High Demand](https://dev.to/aimore/why-cloud-skills-are-in-high-demand-jpj)
-- [Database regions and why they matter](https://dev.to/xata/database-regions-and-why-they-matter-5eb2)
-- [5 Accounting Practices That Every Small Business Should Implement](https://dev.to/davidjones87/5-accounting-practices-that-every-small-business-should-implement-m3c)
-- [Managing Platform-Specific Features in Rails: The Right Way to Customize App Behavior](https://dev.to/vladhilko/managing-platform-specific-features-in-rails-the-right-way-to-customize-app-behavior-1nc9)
 <!-- BLOG-POST-LIST:END -->
 
