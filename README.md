@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Back to Coding with Learning and Building in Public](https://dev.to/adiatiayu/getting-back-to-coding-with-learning-and-building-in-public-44io)
+- [The day I met my new AI assistant](https://dev.to/anuoluwapods/the-day-i-met-my-new-ai-assistant-1j3i)
 - [Denylists and Invaliding user access](https://dev.to/authress/denylists-and-invaliding-user-access-1cgl)
 - [Connect ChatGPT to the Internet](https://dev.to/polterguy/connect-chatgpt-to-the-internet-3a1f)
-- [Build Your First Coding Project and Avoid Tutorial Hell](https://dev.to/bootdotdev/build-your-first-coding-project-and-avoid-tutorial-hell-ioa)
-- [NestJS vs. Ditsmod: injection scopes](https://dev.to/kostyatretyak/nestjs-vs-ditsmod-injection-scopes-537o)
 <!-- BLOG-POST-LIST:END -->
 
