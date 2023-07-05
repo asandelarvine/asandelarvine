@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Fast: A Retrospective on Trunk-based Development](https://dev.to/somedood/moving-fast-a-retrospective-on-trunk-based-development-2ma8)
+- [Simplified: Linux Directory Structure [Part 2]](https://dev.to/titusnjuguna/simplified-linux-directory-structure-part-2-51kj)
 - [How to Create Tailwind CSS Dashboard Using Low Code [Tutorial]](https://dev.to/rarestoma/how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj)
 - [A Guide to AWS VPC](https://dev.to/shreya111111/a-guide-to-aws-vpc-4lf9)
-- [10 &quot;Must&quot; Watch Movies For Programmers In 2023 🎬](https://dev.to/soumyadeepdey/top-10-best-hacking-movies-for-programmers-in-2023-4948)
-- [Understanding JavaScript&#39;s Single-Threaded Nature](https://dev.to/roktim32/understanding-javascripts-single-threaded-nature-5cd6)
 <!-- BLOG-POST-LIST:END -->
 
