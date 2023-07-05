@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging the Power of TypeScript and Vue.js A Combination for Web Development](https://dev.to/syedmuhammadaliraza/leveraging-the-power-of-typescript-and-vuejs-a-combination-for-web-development-2nj6)
+- [How to create good looking card component?](https://dev.to/keshavkumarhembram/how-to-create-good-looking-card-component-9p4)
 - [Timestamp SQL Files for Consistent Laravel Migration](https://dev.to/kushalraj/timestamp-sql-files-for-consistent-laravel-migration-2mn3)
-- [How to Deploy a Simple Website with Nginx: A Comically Easy Guide 🤡](https://dev.to/diegoammann/how-to-deploy-a-simple-website-with-nginx-a-comically-easy-guide-202g)
-- [NestJS Course Lesson 04 - Model and Repository Pattern](https://dev.to/nextjsvietnam/nestjs-course-lesson-04-model-and-repository-pattern-5h15)
-- [Increasing productivity: Best practices for React beginners.](https://dev.to/documatic/increasing-productivity-best-practices-for-react-beginners-55c5)
+- [Self Service Option for End users to request AWS Services using AWS Service Catalog](https://dev.to/aws-builders/self-service-option-for-end-users-to-request-aws-services-using-aws-service-catalog-5db8)
 <!-- BLOG-POST-LIST:END -->
 
