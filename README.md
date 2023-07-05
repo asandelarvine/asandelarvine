@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cutting-Edge or Stable: Which Technology Journey Would You Embark On?](https://dev.to/devteam/cutting-edge-or-stable-which-technology-journey-would-you-embark-on-11k7)
-- [Coding 101: How Do You Say SQL and What Is Its Role?](https://dev.to/codenewbieteam/coding-101-how-do-you-say-sql-and-what-is-its-role-58ch)
-- [Building an Interactive Chatbot with Langchain and ChainLit: Leveraging Our Data for Enhanced Conversational Experiences](https://dev.to/scrapehero/building-an-interactive-chatbot-with-langchain-and-chainlit-leveraging-our-data-for-enhanced-conversational-experiences-57bn)
-- [Exploring the List Of Staff Augmentation Companies: Revolutionizing Workforce Solutions](https://dev.to/saklle_rohit/exploring-the-list-of-staff-augmentation-companies-revolutionizing-workforce-solutions-21ij)
+- [React.js: Why you might need useReducer](https://dev.to/menard_codes/reactjs-why-you-might-need-usereducer-3hei)
+- [Leveraging Google News API for Real-Time News](https://dev.to/newsdataio/leveraging-google-news-api-for-real-time-news-2go1)
+- [CrabNebula: A New Star Forge Emerges](https://dev.to/crabnebula/crabnebula-a-new-star-forge-emerges-1b14)
+- [Re-creating a Japanese Fireworks Catalog from 1883 in CSS](https://dev.to/madsstoumann/re-creating-a-japanese-fireworks-catalog-from-1883-in-css-83j)
 <!-- BLOG-POST-LIST:END -->
 
