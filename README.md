@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Freelancing with JavaScript 💼](https://dev.to/akashpattnaik/freelancing-with-javascript-15n)
-- [What to Expect of AdonisJS 6?](https://dev.to/adonisframework/what-to-expect-of-adonisjs-6-2daj)
-- [TrueNAS virtualization using Harvester and Kubevirt](https://dev.to/hunghvu/truenas-virtualization-using-harvester-and-kubevirt-5fok)
-- [Understanding JWTs: A Simple Guide for Beginners](https://dev.to/philip-ainberger/understanding-jwts-a-simple-guide-for-beginners-aba)
+- [CSS&#39;s :root Variables. Use it!](https://dev.to/ranaivo_rova/root-variables-in-css-use-it-3ik5)
+- [How I Got Hired Contributing to open source projects](https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i)
+- [Building Inclusive and Accessible Web Pages](https://dev.to/mikacodez/building-inclusive-and-accessible-web-pages-46ga)
+- [How to Properly Use GitHub For Code Review](https://dev.to/baristageek/how-to-properly-use-github-for-code-review-hdg)
 <!-- BLOG-POST-LIST:END -->
 
