@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cutting-Edge or Stable: Which Technology Journey Would You Embark On?](https://dev.to/devteam/cutting-edge-or-stable-which-technology-journey-would-you-embark-on-11k7)
+- [Coding 101: How Do You Say SQL and What Is Its Role?](https://dev.to/codenewbieteam/coding-101-how-do-you-say-sql-and-what-is-its-role-58ch)
 - [Building an Interactive Chatbot with Langchain and ChainLit: Leveraging Our Data for Enhanced Conversational Experiences](https://dev.to/scrapehero/building-an-interactive-chatbot-with-langchain-and-chainlit-leveraging-our-data-for-enhanced-conversational-experiences-57bn)
 - [Exploring the List Of Staff Augmentation Companies: Revolutionizing Workforce Solutions](https://dev.to/saklle_rohit/exploring-the-list-of-staff-augmentation-companies-revolutionizing-workforce-solutions-21ij)
-- [&quot;Big O&quot; haqida gaplashamiz](https://dev.to/udilbar/big-o-haqida-gaplashamiz-4ni9)
-- [Leveraging the Power of TypeScript and Vue.js A Combination for Web Development](https://dev.to/syedmuhammadaliraza/leveraging-the-power-of-typescript-and-vuejs-a-combination-for-web-development-2nj6)
 <!-- BLOG-POST-LIST:END -->
 
