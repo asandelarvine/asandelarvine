@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v232](https://dev.to/devteam/welcome-thread-v234-3ig8)
+- [You don’t need a company training plan](https://dev.to/elisabethleonhardt/you-dont-need-a-company-training-plan-afk)
+- [Understanding package.json II: Scripts](https://dev.to/dyte/understanding-packagejson-ii-scripts-2akn)
 - [React.js: Why you might need useReducer](https://dev.to/menard_codes/reactjs-why-you-might-need-usereducer-3hei)
-- [Leveraging Google News API for Real-Time News](https://dev.to/newsdataio/leveraging-google-news-api-for-real-time-news-2go1)
-- [CrabNebula: A New Star Forge Emerges](https://dev.to/crabnebula/crabnebula-a-new-star-forge-emerges-1b14)
-- [Re-creating a Japanese Fireworks Catalog from 1883 in CSS](https://dev.to/madsstoumann/re-creating-a-japanese-fireworks-catalog-from-1883-in-css-83j)
 <!-- BLOG-POST-LIST:END -->
 
