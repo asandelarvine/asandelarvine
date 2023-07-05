@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Back to Coding with Learning and Building in Public](https://dev.to/adiatiayu/getting-back-to-coding-with-learning-and-building-in-public-44io)
-- [The day I met my new AI assistant](https://dev.to/anuoluwapods/the-day-i-met-my-new-ai-assistant-1j3i)
-- [Denylists and Invaliding user access](https://dev.to/authress/denylists-and-invaliding-user-access-1cgl)
-- [Connect ChatGPT to the Internet](https://dev.to/polterguy/connect-chatgpt-to-the-internet-3a1f)
+- [Freelancing with JavaScript 💼](https://dev.to/akashpattnaik/freelancing-with-javascript-15n)
+- [What to Expect of AdonisJS 6?](https://dev.to/adonisframework/what-to-expect-of-adonisjs-6-2daj)
+- [TrueNAS virtualization using Harvester and Kubevirt](https://dev.to/hunghvu/truenas-virtualization-using-harvester-and-kubevirt-5fok)
+- [Understanding JWTs: A Simple Guide for Beginners](https://dev.to/philip-ainberger/understanding-jwts-a-simple-guide-for-beginners-aba)
 <!-- BLOG-POST-LIST:END -->
 
