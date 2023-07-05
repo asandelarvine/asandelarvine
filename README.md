@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Deploy a Simple Website with Nginx: A Comically Easy Guide 🤡](https://dev.to/diegoammann/how-to-deploy-a-simple-website-with-nginx-a-comically-easy-guide-202g)
+- [NestJS Course Lesson 04 - Model and Repository Pattern](https://dev.to/nextjsvietnam/nestjs-course-lesson-04-model-and-repository-pattern-5h15)
+- [Increasing productivity: Best practices for React beginners.](https://dev.to/documatic/increasing-productivity-best-practices-for-react-beginners-55c5)
 - [How the Internet Works: A Hilarious Guide for Non-Geeks 🤪](https://dev.to/louisryoung/how-the-internet-works-a-hilarious-guide-for-non-geeks-1g81)
-- [Deploying a Web App on AWS Amplify](https://dev.to/arbythecoder/deploying-a-web-app-on-aws-amplify-1k0g)
-- [Automating the Shutdown and Restart of Clever Cloud Environments with GitLab CI/CD](https://dev.to/lenybernard_4/automating-the-shutdown-and-restart-of-clever-cloud-environments-with-gitlab-cicd-moo)
 <!-- BLOG-POST-LIST:END -->
 
