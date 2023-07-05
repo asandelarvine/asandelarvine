@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we built Unkey](https://dev.to/perkinsjr/why-we-built-unkey-4b2l)
-- [Navigating Google Chrome: A Step-by-Step Guide for Mobile Users](https://dev.to/uzoma01/navigating-google-chrome-a-step-by-step-guide-for-mobile-users-5706)
-- [JavaScript&#39;s Immutable Arrays Revolution.](https://dev.to/ibrahimbagalwa/javascripts-immutable-arrays-revolution-2ifg)
-- [Embracing the Internet of Things: Revolutionizing the Connected World](https://dev.to/peaceoloruntoba/embracing-the-internet-of-things-revolutionizing-the-connected-world-3e9o)
+- [How the Internet Works: A Hilarious Guide for Non-Geeks 🤪](https://dev.to/louisryoung/how-the-internet-works-a-hilarious-guide-for-non-geeks-1g81)
+- [Deploying a Web App on AWS Amplify](https://dev.to/arbythecoder/deploying-a-web-app-on-aws-amplify-1k0g)
+- [Automating the Shutdown and Restart of Clever Cloud Environments with GitLab CI/CD](https://dev.to/lenybernard_4/automating-the-shutdown-and-restart-of-clever-cloud-environments-with-gitlab-cicd-moo)
+- [How to build a website without frameworks and tons of libraries](https://dev.to/irishgeoff11/how-to-build-a-website-without-frameworks-and-tons-of-libraries-4678)
 <!-- BLOG-POST-LIST:END -->
 
