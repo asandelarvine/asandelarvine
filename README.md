@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Container Security - Strengthening the Heart of your Operations](https://dev.to/nikitakoselev/container-security-strengthening-the-heart-of-your-operations-3h0o)
+- [Validando requests no Symfony Framework](https://dev.to/joubertredrat/validando-requests-no-symfony-framework-4fi7)
+- [Episode 23/26: New Control Flow, Angular 17, AnalogJS, &quot;Developer Preview&quot;](https://dev.to/this-is-angular/episode-2326-new-control-flow-angular-17-analogjs-developer-preview-5e5d)
 - [iloc function in python](https://dev.to/mustafacam/iloc-function-in-python-3agb)
-- [Change Management In Software Engineering](https://dev.to/jrking365/change-management-in-software-engineering-313c)
-- [Moving Fast: A Retrospective on Trunk-based Development](https://dev.to/somedood/moving-fast-a-retrospective-on-trunk-based-development-2ma8)
-- [Simplified: Linux Directory Structure [Part 2]](https://dev.to/titusnjuguna/simplified-linux-directory-structure-part-2-51kj)
 <!-- BLOG-POST-LIST:END -->
 
