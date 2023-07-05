@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Your Ruby App Secure with Bundler](https://dev.to/appsignal/keep-your-ruby-app-secure-with-bundler-30e0)
-- [XML Based Setter Injection in Spring 6](https://dev.to/realnamehidden1_61/xml-based-setter-injection-in-spring-6-2on)
-- [Build a Guestbook from the 2000s with React Server Components and Server Actions](https://dev.to/scastiel/intro-to-react-server-components-and-actions-with-nextjs-j1j)
-- [Why Cloud Skills are in High Demand](https://dev.to/aimore/why-cloud-skills-are-in-high-demand-jpj)
+- [Denylists and Invaliding user access](https://dev.to/authress/denylists-and-invaliding-user-access-1cgl)
+- [Connect ChatGPT to the Internet](https://dev.to/polterguy/connect-chatgpt-to-the-internet-3a1f)
+- [Build Your First Coding Project and Avoid Tutorial Hell](https://dev.to/bootdotdev/build-your-first-coding-project-and-avoid-tutorial-hell-ioa)
+- [NestJS vs. Ditsmod: injection scopes](https://dev.to/kostyatretyak/nestjs-vs-ditsmod-injection-scopes-537o)
 <!-- BLOG-POST-LIST:END -->
 
