@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Timestamp SQL Files for Consistent Laravel Migration](https://dev.to/kushalraj/timestamp-sql-files-for-consistent-laravel-migration-2mn3)
 - [How to Deploy a Simple Website with Nginx: A Comically Easy Guide 🤡](https://dev.to/diegoammann/how-to-deploy-a-simple-website-with-nginx-a-comically-easy-guide-202g)
 - [NestJS Course Lesson 04 - Model and Repository Pattern](https://dev.to/nextjsvietnam/nestjs-course-lesson-04-model-and-repository-pattern-5h15)
 - [Increasing productivity: Best practices for React beginners.](https://dev.to/documatic/increasing-productivity-best-practices-for-react-beginners-55c5)
-- [How the Internet Works: A Hilarious Guide for Non-Geeks 🤪](https://dev.to/louisryoung/how-the-internet-works-a-hilarious-guide-for-non-geeks-1g81)
 <!-- BLOG-POST-LIST:END -->
 
