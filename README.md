@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Change Management In Software Engineering](https://dev.to/jrking365/change-management-in-software-engineering-313c)
 - [Moving Fast: A Retrospective on Trunk-based Development](https://dev.to/somedood/moving-fast-a-retrospective-on-trunk-based-development-2ma8)
 - [Simplified: Linux Directory Structure [Part 2]](https://dev.to/titusnjuguna/simplified-linux-directory-structure-part-2-51kj)
 - [How to Create Tailwind CSS Dashboard Using Low Code [Tutorial]](https://dev.to/rarestoma/how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj)
-- [A Guide to AWS VPC](https://dev.to/shreya111111/a-guide-to-aws-vpc-4lf9)
 <!-- BLOG-POST-LIST:END -->
 
