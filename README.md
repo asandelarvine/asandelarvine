@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring and Testing Cloud Native APIs with Grafana](https://dev.to/kubeshop/monitoring-and-testing-cloud-native-apis-with-grafana-36c8)
-- [Quickly add random text to your HTML with this simple trick! 🏃‍♂️💨](https://dev.to/savvasstephnds/quickly-add-random-text-to-your-html-with-this-simple-trick-7ef)
-- [PySeKT Stack: Your WebDev Arena in Elon vs. Zuckerberg&#39;s Colosseum](https://dev.to/developerbishwas/pysekt-stack-your-webdev-arena-in-elon-vs-zuckerbergs-colosseum-cpa)
-- [How to Rename API Gateway Path Parameters on AWS](https://dev.to/kumo/how-to-rename-api-gateway-path-parameters-on-aws-20fa)
+- [Code Snippet Builder - Create stunning code snippets](https://dev.to/sachinchaurasiya/code-snippet-builder-create-stunning-code-snippets-1olf)
+- [Sloan&#39;s Inbox: How Do You Find a Mentor That Is Right for You?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-that-is-right-for-you-4l6a)
+- [Docker environment for WordPress development](https://dev.to/sarahcssiqueira/docker-environment-for-wordpress-development-p46)
+- [Twitter is dead. Welcome Threads, by Instagram](https://dev.to/maxprilutskiy/twitter-is-dead-welcome-threads-by-instagram-4107)
 <!-- BLOG-POST-LIST:END -->
 
