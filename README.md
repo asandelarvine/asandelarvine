@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving kubernetes development experience with Docker Telepresence](https://dev.to/shehanster/improving-kubernetes-development-experience-with-docker-telepresence-4dn6)
-- [Daxus is published](https://dev.to/jason89521/daxus-is-published-3acd)
-- [Scraping the unscrapable in Python using Playwright](https://dev.to/terieyenike/scraping-the-unscrapable-in-python-using-playwright-30l)
-- [Análise de Requisitos: Desvendando o Caminho para o Sucesso do Desenvolvimento de Software](https://dev.to/indiamaraenes/analise-de-requisitos-desvendando-o-caminho-para-o-sucesso-do-desenvolvimento-de-software-7bk)
+- [Data Science Roadmap with Free Material](https://dev.to/avinash201199/data-science-roadmap-with-free-material-o0c)
+- [How Do You Foster Accountability &amp; Meet Deadlines in Coding Teams?](https://dev.to/devteam/how-do-you-foster-accountability-meet-deadlines-in-coding-teams-3dcm)
+- [Coding 101: How is Coding Different from Programming?](https://dev.to/codenewbieteam/coding-101-how-is-coding-different-from-programming-4060)
+- [Startup Dev Jobs of The Week [6th July, 2023] - Post 2](https://dev.to/mohanmukund13/startup-dev-jobs-of-the-week-6th-july-2023-post-2-2p6k)
 <!-- BLOG-POST-LIST:END -->
 
