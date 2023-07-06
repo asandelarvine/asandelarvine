@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-Time Analytics Dashboard with Next.js, Tinybird, and Tremor: A Comprehensive Guide](https://dev.to/mfts/building-a-real-time-analytics-dashboard-with-nextjs-tinybird-and-tremor-a-comprehensive-guide-15k0)
+- [The Difference Between Using Node.js Alone in Building an Application and Using it with Angular](https://dev.to/roshdiraed/the-difference-between-using-nodejs-alone-in-building-an-application-and-using-it-with-angular-27ap)
+- [Building Robust Angular Applications with TypeScript Interfaces: Best Practices and Examples](https://dev.to/ayushdev_24/building-robust-angular-applications-with-typescript-interfaces-best-practices-and-examples-chm)
 - [Build a product information management app with Appwrite Cloud and NextJS](https://dev.to/bigsam28/build-a-product-information-management-app-with-appwrite-cloud-and-nextjs-2dd4)
-- [Chapter 3 Query Processing: Join Operations in PostgreSQL](https://dev.to/salarzaisuhaib/chapter-3-query-processing-join-operations-in-postgresql-4iia)
-- [How to check if a tab is active in React](https://dev.to/eraywebdev/how-to-check-if-a-tab-is-active-in-react-1o0l)
-- [Placements | HackerRank | MSSQL](https://dev.to/ranggakd/placements-hackerrank-mssql-8a7)
 <!-- BLOG-POST-LIST:END -->
 
