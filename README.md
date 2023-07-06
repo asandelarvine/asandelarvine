@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Snippet Builder - Create stunning code snippets](https://dev.to/sachinchaurasiya/code-snippet-builder-create-stunning-code-snippets-1olf)
-- [Sloan&#39;s Inbox: How Do You Find a Mentor That Is Right for You?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-that-is-right-for-you-4l6a)
-- [Docker environment for WordPress development](https://dev.to/sarahcssiqueira/docker-environment-for-wordpress-development-p46)
-- [Twitter is dead. Welcome Threads, by Instagram](https://dev.to/maxprilutskiy/twitter-is-dead-welcome-threads-by-instagram-4107)
+- [Top 5 Tips for Creating Effective Data Visualizations 📊](https://dev.to/jakecupani/top-5-tips-for-creating-effective-data-visualizations-4bff)
+- [The Best DevOps Engineer Resume](https://dev.to/dareyio/the-best-devops-engineer-resume-25h7)
+- [Beginner&#39;s Guide: Loading Data Based on Changes to Other Data in Angular](https://dev.to/rensjaspers/beginners-guide-loading-data-based-on-changes-to-other-data-in-angular-106k)
+- [Basics to Machine Learning 🤖](https://dev.to/akashpattnaik/basics-to-machine-learning-3ldk)
 <!-- BLOG-POST-LIST:END -->
 
