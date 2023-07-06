@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scraping the unscrapable in Python using Playwright](https://dev.to/terieyenike/scraping-the-unscrapable-in-python-using-playwright-30l)
+- [Web scraping using a headless browser in NodeJS](https://dev.to/terieyenike/web-scraping-using-a-headless-browser-in-nodejs-381l)
+- [Customizing the Mini Micro code editor](https://dev.to/joestrout/customizing-the-mini-micro-code-editor-6ji)
 - [XIAOMI MI WIFI MINI R1C IÇIN OPENWRT KURULUM REHBERI](https://dev.to/openwrt-turkiye/xiaomi-mi-wifi-mini-r1c-icin-openwrt-kurulum-rehberi-4ch4)
-- [Container Security - Strengthening the Heart of your Operations](https://dev.to/nikitakoselev/container-security-strengthening-the-heart-of-your-operations-3h0o)
-- [Validando requests no Symfony Framework](https://dev.to/joubertredrat/validando-requests-no-symfony-framework-4fi7)
-- [Episode 23/26: New Control Flow, Angular 17, AnalogJS, &quot;Developer Preview&quot;](https://dev.to/this-is-angular/episode-2326-new-control-flow-angular-17-analogjs-developer-preview-5e5d)
 <!-- BLOG-POST-LIST:END -->
 
