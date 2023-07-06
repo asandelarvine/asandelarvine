@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Angular with Tailwind CSS and the UI components from Flowbite](https://dev.to/themesberg/how-to-install-angular-with-tailwind-css-and-the-ui-components-from-flowbite-2lkg)
-- [How to Build a Node.js GraphQL API With NestJS and Prisma](https://dev.to/amplication/how-to-build-a-nodejs-graphql-api-with-nestjs-and-prisma-1ehg)
-- [Objects In Java](https://dev.to/bindupatidar/objects-in-java-3oag)
-- [Setting Up An Ubuntu EC2 Instance From Scratch on AWS](https://dev.to/devarshishimpi/setting-up-an-ubuntu-ec2-instance-from-scratch-on-aws-1h6k)
+- [Sticky sessions with Apache APISIX - the demo](https://dev.to/apisix/sticky-sessions-with-apache-apisix-the-demo-2j8g)
+- [Top 7 Paid Open Source Programs To Apply To in 2023-24](https://dev.to/durgesh4993/top-7-paid-open-source-programs-to-apply-to-in-2023-24-3d5p)
+- [Increasing ChatGPT Live Data Internet Quality](https://dev.to/polterguy/increasing-chatgpt-live-data-internet-quality-4nf)
+- [Understanding Python Basics](https://dev.to/bindupatidar/understanding-python-basics-1ife)
 <!-- BLOG-POST-LIST:END -->
 
