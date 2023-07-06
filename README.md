@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring and Testing Cloud Native APIs with Grafana](https://dev.to/kubeshop/monitoring-and-testing-cloud-native-apis-with-grafana-36c8)
+- [Quickly add random text to your HTML with this simple trick! 🏃‍♂️💨](https://dev.to/savvasstephnds/quickly-add-random-text-to-your-html-with-this-simple-trick-7ef)
+- [PySeKT Stack: Your WebDev Arena in Elon vs. Zuckerberg&#39;s Colosseum](https://dev.to/developerbishwas/pysekt-stack-your-webdev-arena-in-elon-vs-zuckerbergs-colosseum-cpa)
 - [How to Rename API Gateway Path Parameters on AWS](https://dev.to/kumo/how-to-rename-api-gateway-path-parameters-on-aws-20fa)
-- [Build a Full Stack Interchain dApp with Next.js, Solidity &amp; Axelar](https://dev.to/olanetsoft/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar-8j6)
-- [Creating an Accessible Web for Everyone with Anuradha on Girl Code Coffee Chat #9](https://dev.to/storyblok/creating-an-accessible-web-for-everyone-with-anuradha-on-girl-code-coffee-chat-9-372d)
-- [🌎 Can Programming Save the Planet?](https://dev.to/evergrowingdev/can-programming-save-the-planet-4ldj)
 <!-- BLOG-POST-LIST:END -->
 
