@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science Roadmap with Free Material](https://dev.to/avinash201199/data-science-roadmap-with-free-material-o0c)
-- [How Do You Foster Accountability &amp; Meet Deadlines in Coding Teams?](https://dev.to/devteam/how-do-you-foster-accountability-meet-deadlines-in-coding-teams-3dcm)
-- [Coding 101: How is Coding Different from Programming?](https://dev.to/codenewbieteam/coding-101-how-is-coding-different-from-programming-4060)
-- [Startup Dev Jobs of The Week [6th July, 2023] - Post 2](https://dev.to/mohanmukund13/startup-dev-jobs-of-the-week-6th-july-2023-post-2-2p6k)
+- [How to install Angular with Tailwind CSS and the UI components from Flowbite](https://dev.to/themesberg/how-to-install-angular-with-tailwind-css-and-the-ui-components-from-flowbite-2lkg)
+- [How to Build a Node.js GraphQL API With NestJS and Prisma](https://dev.to/amplication/how-to-build-a-nodejs-graphql-api-with-nestjs-and-prisma-1ehg)
+- [Objects In Java](https://dev.to/bindupatidar/objects-in-java-3oag)
+- [Setting Up An Ubuntu EC2 Instance From Scratch on AWS](https://dev.to/devarshishimpi/setting-up-an-ubuntu-ec2-instance-from-scratch-on-aws-1h6k)
 <!-- BLOG-POST-LIST:END -->
 
