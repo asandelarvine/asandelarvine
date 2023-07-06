@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby is a Multi-paradigm programming language](https://dev.to/rubycademy/ruby-is-a-multi-paradigm-programming-language-2690)
-- [The Final Mile](https://dev.to/crabnebula/the-final-mile-2i52)
-- [9 Hand Picked FREE Heroku Alternatives [2023]](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)
-- [How To Use Tailwind In Vite](https://dev.to/haszankauna/how-to-use-tailwind-in-vite-1c5h)
+- [🌎 Can Programming Save the Planet?](https://dev.to/evergrowingdev/can-programming-save-the-planet-4ldj)
+- [Renaming Git Commit Messages: A Quick and Easy Guide](https://dev.to/pradumnasaraf/renaming-git-commit-messages-a-quick-and-easy-guide-1an8)
+- [CI/CD Pipeline with github actions &amp; AWS EC2 instance](https://dev.to/mutuwa99/cicd-pipeline-with-github-actions-aws-ec2-instance-1f1h)
+- [Exploring AWS Security Hub: Overview and Benefits for SOC Analysts](https://dev.to/aws-builders/exploring-aws-security-hub-overview-and-benefits-for-soc-analysts-5d6o)
 <!-- BLOG-POST-LIST:END -->
 
