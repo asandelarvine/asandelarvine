@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to Next.js layouts and nested layouts](https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d)
+- [What Does a Great Manager Do?](https://dev.to/snowman647/what-does-a-great-manager-do-35c4)
 - [Top 5 Tips for Creating Effective Data Visualizations 📊](https://dev.to/jakecupani/top-5-tips-for-creating-effective-data-visualizations-4bff)
 - [The Best DevOps Engineer Resume](https://dev.to/dareyio/the-best-devops-engineer-resume-25h7)
-- [Beginner&#39;s Guide: Loading Data Based on Changes to Other Data in Angular](https://dev.to/rensjaspers/beginners-guide-loading-data-based-on-changes-to-other-data-in-angular-106k)
-- [Basics to Machine Learning 🤖](https://dev.to/akashpattnaik/basics-to-machine-learning-3ldk)
 <!-- BLOG-POST-LIST:END -->
 
