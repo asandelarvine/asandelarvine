@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sticky sessions with Apache APISIX - the demo](https://dev.to/apisix/sticky-sessions-with-apache-apisix-the-demo-2j8g)
-- [Top 7 Paid Open Source Programs To Apply To in 2023-24](https://dev.to/durgesh4993/top-7-paid-open-source-programs-to-apply-to-in-2023-24-3d5p)
-- [Increasing ChatGPT Live Data Internet Quality](https://dev.to/polterguy/increasing-chatgpt-live-data-internet-quality-4nf)
-- [Understanding Python Basics](https://dev.to/bindupatidar/understanding-python-basics-1ife)
+- [How To Use Tailwind In Vite](https://dev.to/haszankauna/how-to-use-tailwind-in-vite-1c5h)
+- [What Is GraphQL: Comprehensive Guide](https://dev.to/arsalanmee/what-is-graphql-comprehensive-guide-2i1d)
+- [Coding Period GSoC&#39;23 | Week 3 + 4 + 5](https://dev.to/prerna0202/coding-period-gsoc23-week-3-4-5-388b)
+- [Instagram’s Twitter competitor, Threads, is available now!](https://dev.to/soumyadeepdey/instagrams-twitter-competitor-threads-is-available-now-aik)
 <!-- BLOG-POST-LIST:END -->
 
