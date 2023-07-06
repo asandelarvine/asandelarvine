@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby is a Multi-paradigm programming language](https://dev.to/rubycademy/ruby-is-a-multi-paradigm-programming-language-2690)
+- [The Final Mile](https://dev.to/crabnebula/the-final-mile-2i52)
+- [9 Hand Picked FREE Heroku Alternatives [2023]](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)
 - [How To Use Tailwind In Vite](https://dev.to/haszankauna/how-to-use-tailwind-in-vite-1c5h)
-- [What Is GraphQL: Comprehensive Guide](https://dev.to/arsalanmee/what-is-graphql-comprehensive-guide-2i1d)
-- [Coding Period GSoC&#39;23 | Week 3 + 4 + 5](https://dev.to/prerna0202/coding-period-gsoc23-week-3-4-5-388b)
-- [Instagram’s Twitter competitor, Threads, is available now!](https://dev.to/soumyadeepdey/instagrams-twitter-competitor-threads-is-available-now-aik)
 <!-- BLOG-POST-LIST:END -->
 
