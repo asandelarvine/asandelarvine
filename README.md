@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Scraping the unscrapable in Python using Playwright](https://dev.to/terieyenike/scraping-the-unscrapable-in-python-using-playwright-30l)
+- [Análise de Requisitos: Desvendando o Caminho para o Sucesso do Desenvolvimento de Software](https://dev.to/indiamaraenes/analise-de-requisitos-desvendando-o-caminho-para-o-sucesso-do-desenvolvimento-de-software-7bk)
 - [Web scraping using a headless browser in NodeJS](https://dev.to/terieyenike/web-scraping-using-a-headless-browser-in-nodejs-381l)
 - [Customizing the Mini Micro code editor](https://dev.to/joestrout/customizing-the-mini-micro-code-editor-6ji)
-- [XIAOMI MI WIFI MINI R1C IÇIN OPENWRT KURULUM REHBERI](https://dev.to/openwrt-turkiye/xiaomi-mi-wifi-mini-r1c-icin-openwrt-kurulum-rehberi-4ch4)
 <!-- BLOG-POST-LIST:END -->
 
