@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project 1: VProfile Project Setup Local](https://dev.to/dariusbarbus/project-1-vprofile-project-setup-local-3noa)
-- [Demystifying HTTP Status Codes: A Comprehensive Guide](https://dev.to/madhusgowda/demystifying-http-status-codes-a-comprehensive-guide-24jc)
-- [#DEVDiscuss: Is Threads Truly Decentralized?](https://dev.to/devteam/devdiscuss-is-threads-truly-decentralized-2fa1)
-- [&quot;Never delete data&quot;](https://dev.to/leonardo-fc/never-delete-data-4lm4)
+- [💡 TypeScript - Template Literal Types](https://dev.to/thayto/typescript-template-literal-types-2679)
+- [The 28th Day of the 100 Days of Code challenge](https://dev.to/ethan_/the-28th-day-of-the-100-days-of-code-challenge-35ib)
+- [Career Reflections](https://dev.to/deeheber/career-reflections-1joh)
+- [Day 778 : That Life](https://dev.to/dwane/day-778-that-life-3jk0)
 <!-- BLOG-POST-LIST:END -->
 
