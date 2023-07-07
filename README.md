@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to showcase your project?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
 - [What is the difference between Java and C++?](https://dev.to/arsalanmee/what-is-the-difference-between-java-and-c-2jbb)
 - [🎉 Celebrating Milestones](https://dev.to/tayyibgbondo/celebrating-milestones-4bin)
 - [Loading initial data in Spring Boot](https://dev.to/tleipzig/loading-initial-data-in-spring-boot-3gnl)
-- [Unleashing the Power of GitHub Student Package: Empowering Student Developers](https://dev.to/kelvintech_99/unleashing-the-power-of-github-student-packageempowering-student-developers-4186)
 <!-- BLOG-POST-LIST:END -->
 
