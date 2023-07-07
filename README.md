@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Jest Testing into an Existing Vue 3 Project with ViteJs](https://dev.to/integridsolutions/integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13)
-- [How to install latest PHP on Windows 11](https://dev.to/farhanhelmy/how-to-install-latest-php-on-windows-11-1eb6)
-- [Github vs. Git: Understanding the Differences](https://dev.to/soumyadeepdey/github-vs-git-understanding-the-differences-k5i)
-- [Productivity Hacks For Remote Developers: Staying Efficient And Focused](https://dev.to/ahmadji93/productivity-hacks-for-remote-developers-staying-efficient-and-focused-2gci)
+- [Challenges associated with microservices architecture](https://dev.to/sardarmudassaralikhan/challenges-associated-with-microservices-architecture-3o6n)
+- [Coding 101: How Do I Get My Website Online?](https://dev.to/codenewbieteam/coding-101-how-do-i-get-my-website-online-2nk7)
+- [Is Manual Testing Superior to Automated Testing?](https://dev.to/devteam/is-manual-testing-superior-to-automated-testing-473n)
+- [Setting up GoCD in a docker environment - build log](https://dev.to/nathanbland/setting-up-gocd-in-a-docker-environment-build-log-2a4b)
 <!-- BLOG-POST-LIST:END -->
 
