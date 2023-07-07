@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Providing in Angular - how to share data](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
+- [Demystifying Public Key Cryptography: Exploring Ethereum, Digital Signatures, and Wallet Management](https://dev.to/sahil_4555/demystifying-public-key-cryptography-exploring-ethereum-digital-signatures-and-wallet-management-l00)
 - [Worker Threads Nodejs](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
 - [React-Redux](https://dev.to/sidddharthamishra/react-redux-181)
-- [Is Lighthouse a misleading performance tool?](https://dev.to/robole/is-lighthouse-a-misleading-performance-tool-4b14)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4cj7)
 <!-- BLOG-POST-LIST:END -->
 
