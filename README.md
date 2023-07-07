@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source projects for beginners](https://dev.to/josedev11/open-source-projects-for-beginners-6lo)
 - [The Art of Landing a DevRel Role with daily.dev](https://dev.to/linearb/the-art-of-landing-a-devrel-role-with-dailydev-215b)
+- [Visual Studio Code profiles: A practical approach](https://dev.to/ayoub_khial/visual-studio-code-profiles-a-practical-approach-4e7g)
 - [Importance of Practice in Learning Programming: Tips for Building a Strong Coding Skillset](https://dev.to/abdrzqsalihu/importance-of-practice-in-learning-programming-tips-for-building-a-strong-coding-skillset-4hc0)
-- [Building a Real-Time Analytics Dashboard with Next.js, Tinybird, and Tremor: A Comprehensive Guide](https://dev.to/mfts/building-a-real-time-analytics-dashboard-with-nextjs-tinybird-and-tremor-a-comprehensive-guide-15k0)
-- [The Difference Between Using Node.js Alone in Building an Application and Using it with Angular](https://dev.to/roshdiraed/the-difference-between-using-nodejs-alone-in-building-an-application-and-using-it-with-angular-27ap)
 <!-- BLOG-POST-LIST:END -->
 
