@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Project 1: VProfile Project Setup Local](https://dev.to/dariusbarbus/project-1-vprofile-project-setup-local-3noa)
+- [Demystifying HTTP Status Codes: A Comprehensive Guide](https://dev.to/madhusgowda/demystifying-http-status-codes-a-comprehensive-guide-24jc)
 - [#DEVDiscuss: Is Threads Truly Decentralized?](https://dev.to/devteam/devdiscuss-is-threads-truly-decentralized-2fa1)
-- [Git Stash : Beginner&#39;s Guide](https://dev.to/anitkrjha/git-stash-beginners-guide-35k1)
-- [.fit&lpar;&rpar; LinearReggression](https://dev.to/mustafacam/fit-linearreggression-4676)
-- [Which Package Managers?](https://dev.to/adiatiayu/which-package-managers-4f3e)
+- [&quot;Never delete data&quot;](https://dev.to/leonardo-fc/never-delete-data-4lm4)
 <!-- BLOG-POST-LIST:END -->
 
