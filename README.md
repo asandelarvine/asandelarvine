@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Doom Scrolling ?](https://dev.to/parammittal16/what-is-doom-scrolling--4jd3)
 - [How To Start Your Programming Journey 💻](https://dev.to/akashpattnaik/how-to-start-your-programming-journey-4fhn)
+- [Develop .NET Core 3.1 Inside a Container](https://dev.to/blueskyson/develop-net-core-31-in-a-container-2428)
 - [How to add Concern in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-concern-in-ruby-on-rails-3en9)
-- [Critter Corner v4](https://dev.to/codenewbieteam/critter-corner-v4-8ia)
-- [React Server Components without any frameworks](https://dev.to/lazarv/react-server-components-without-any-frameworks-5a8p)
 <!-- BLOG-POST-LIST:END -->
 
