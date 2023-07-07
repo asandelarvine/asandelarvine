@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building with Rails: The Complete Road Map](https://dev.to/scofieldidehen/building-with-rails-the-complete-road-map-410c)
 - [Open source projects for beginners](https://dev.to/josedev11/open-source-projects-for-beginners-6lo)
+- [Não se preocupe mais com o package manager do seu projeto NodeJS](https://dev.to/marcopollivier/nao-se-preocupe-mais-com-qual-package-manager-voce-esta-usando-em-seu-projeto-nodejs-34al)
 - [The Art of Landing a DevRel Role with daily.dev](https://dev.to/linearb/the-art-of-landing-a-devrel-role-with-dailydev-215b)
-- [Visual Studio Code profiles: A practical approach](https://dev.to/ayoub_khial/visual-studio-code-profiles-a-practical-approach-4e7g)
-- [Importance of Practice in Learning Programming: Tips for Building a Strong Coding Skillset](https://dev.to/abdrzqsalihu/importance-of-practice-in-learning-programming-tips-for-building-a-strong-coding-skillset-4hc0)
 <!-- BLOG-POST-LIST:END -->
 
