@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Is Threads Truly Decentralized?](https://dev.to/devteam/devdiscuss-is-threads-truly-decentralized-2fa1)
 - [.fit&lpar;&rpar; LinearReggression](https://dev.to/mustafacam/fit-linearreggression-4676)
 - [Which Package Managers?](https://dev.to/adiatiayu/which-package-managers-4f3e)
 - [What is Doom Scrolling ?](https://dev.to/parammittal16/what-is-doom-scrolling--4jd3)
-- [Breaking Into the Tech Industry: Unleash Your Potential](https://dev.to/adegbiji1/breaking-into-the-tech-industry-unleash-your-potential-4je3)
 <!-- BLOG-POST-LIST:END -->
 
