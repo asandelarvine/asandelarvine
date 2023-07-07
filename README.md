@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges associated with microservices architecture](https://dev.to/sardarmudassaralikhan/challenges-associated-with-microservices-architecture-3o6n)
-- [Coding 101: How Do I Get My Website Online?](https://dev.to/codenewbieteam/coding-101-how-do-i-get-my-website-online-2nk7)
+- [The Basics : Backend Development [Part 1/2]](https://dev.to/atishay_jain/the-basics-backend-development-part-12-8gd)
 - [Is Manual Testing Superior to Automated Testing?](https://dev.to/devteam/is-manual-testing-superior-to-automated-testing-473n)
-- [Setting up GoCD in a docker environment - build log](https://dev.to/nathanbland/setting-up-gocd-in-a-docker-environment-build-log-2a4b)
+- [Coding 101: How Do I Get My Website Online?](https://dev.to/codenewbieteam/coding-101-how-do-i-get-my-website-online-2nk7)
+- [Challenges associated with microservices architecture](https://dev.to/sardarmudassaralikhan/challenges-associated-with-microservices-architecture-3o6n)
 <!-- BLOG-POST-LIST:END -->
 
