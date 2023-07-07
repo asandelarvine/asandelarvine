@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [.fit&lpar;&rpar; LinearReggression](https://dev.to/mustafacam/fit-linearreggression-4676)
+- [Which Package Managers?](https://dev.to/adiatiayu/which-package-managers-4f3e)
 - [What is Doom Scrolling ?](https://dev.to/parammittal16/what-is-doom-scrolling--4jd3)
-- [How To Start Your Programming Journey 💻](https://dev.to/akashpattnaik/how-to-start-your-programming-journey-4fhn)
-- [Develop .NET Core 3.1 Inside a Container](https://dev.to/blueskyson/develop-net-core-31-in-a-container-2428)
-- [How to add Concern in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-concern-in-ruby-on-rails-3en9)
+- [Breaking Into the Tech Industry: Unleash Your Potential](https://dev.to/adegbiji1/breaking-into-the-tech-industry-unleash-your-potential-4je3)
 <!-- BLOG-POST-LIST:END -->
 
