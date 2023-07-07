@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding DOM Manipulation with JavaScript](https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073)
 - [Building with Rails: The Complete Road Map](https://dev.to/scofieldidehen/building-with-rails-the-complete-road-map-410c)
 - [Open source projects for beginners](https://dev.to/josedev11/open-source-projects-for-beginners-6lo)
 - [Não se preocupe mais com o package manager do seu projeto NodeJS](https://dev.to/marcopollivier/nao-se-preocupe-mais-com-qual-package-manager-voce-esta-usando-em-seu-projeto-nodejs-34al)
-- [The Art of Landing a DevRel Role with daily.dev](https://dev.to/linearb/the-art-of-landing-a-devrel-role-with-dailydev-215b)
 <!-- BLOG-POST-LIST:END -->
 
