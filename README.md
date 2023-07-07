@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Start Your Programming Journey 💻](https://dev.to/akashpattnaik/how-to-start-your-programming-journey-4fhn)
 - [How to add Concern in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-concern-in-ruby-on-rails-3en9)
+- [Critter Corner v4](https://dev.to/codenewbieteam/critter-corner-v4-8ia)
 - [React Server Components without any frameworks](https://dev.to/lazarv/react-server-components-without-any-frameworks-5a8p)
-- [UI. The interface should not be distracting](https://dev.to/alexboyko/ui-the-interface-should-not-be-distracting-3op3)
-- [How to showcase your projects?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
 <!-- BLOG-POST-LIST:END -->
 
