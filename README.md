@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Lighthouse a misleading performance tool?](https://dev.to/robole/is-lighthouse-a-misleading-performance-tool-4b14)
+- [Building A TodoList with Svelte &amp; Firebase](https://dev.to/dro1/building-a-todolist-with-svelte-firebase-52a0)
 - [The Basics : Backend Development [Part 1/2]](https://dev.to/atishay_jain/the-basics-backend-development-part-12-8gd)
-- [Challenges associated with microservices architecture](https://dev.to/sardarmudassaralikhan/challenges-associated-with-microservices-architecture-3o6n)
-- [Is Manual Testing Superior to Automated Testing?](https://dev.to/devteam/is-manual-testing-superior-to-automated-testing-473n)
 - [Coding 101: How Do I Get My Website Online?](https://dev.to/codenewbieteam/coding-101-how-do-i-get-my-website-online-2nk7)
 <!-- BLOG-POST-LIST:END -->
 
