@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Jest Testing into an Existing Vue 3 Project with ViteJs](https://dev.to/integridsolutions/integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13)
+- [How to install latest PHP on Windows 11](https://dev.to/farhanhelmy/how-to-install-latest-php-on-windows-11-1eb6)
 - [Github vs. Git: Understanding the Differences](https://dev.to/soumyadeepdey/github-vs-git-understanding-the-differences-k5i)
-- [Understanding DOM Manipulation with JavaScript](https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073)
-- [OpenAI Function Calling](https://dev.to/stonediggity/openai-function-calling-ok9)
-- [Building with Rails: The Complete Road Map](https://dev.to/scofieldidehen/building-with-rails-the-complete-road-map-410c)
+- [Productivity Hacks For Remote Developers: Staying Efficient And Focused](https://dev.to/ahmadji93/productivity-hacks-for-remote-developers-staying-efficient-and-focused-2gci)
 <!-- BLOG-POST-LIST:END -->
 
