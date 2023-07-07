@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Providing in Angular - how to share data](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
-- [Demystifying Public Key Cryptography: Exploring Ethereum, Digital Signatures, and Wallet Management](https://dev.to/sahil_4555/demystifying-public-key-cryptography-exploring-ethereum-digital-signatures-and-wallet-management-l00)
-- [Worker Threads Nodejs](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
-- [React-Redux](https://dev.to/sidddharthamishra/react-redux-181)
+- [GraphQL - React X Zustand](https://dev.to/shubhamtiwari909/graphql-react-x-zustand-3j48)
+- [How Python uses Garbage Collection for Efficient Memory Management](https://dev.to/karishmashukla/how-python-uses-garbage-collection-for-efficient-memory-management-270h)
+- [How To Really Start Contributing To Open Source [Beginner Edition]💡](https://dev.to/quine/how-to-really-start-contributing-to-open-source-beginner-edition-dba)
+- [Who&#39;s looking for open source contributors? &lpar;week 49&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-49-1d99)
 <!-- BLOG-POST-LIST:END -->
 
