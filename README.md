@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to showcase your project?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
-- [What is the difference between Java and C++?](https://dev.to/arsalanmee/what-is-the-difference-between-java-and-c-2jbb)
-- [🎉 Celebrating Milestones](https://dev.to/tayyibgbondo/celebrating-milestones-4bin)
-- [Loading initial data in Spring Boot](https://dev.to/tleipzig/loading-initial-data-in-spring-boot-3gnl)
+- [How to add Concern in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-concern-in-ruby-on-rails-3en9)
+- [React Server Components without any frameworks](https://dev.to/lazarv/react-server-components-without-any-frameworks-5a8p)
+- [UI. The interface should not be distracting](https://dev.to/alexboyko/ui-the-interface-should-not-be-distracting-3op3)
+- [How to showcase your projects?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
 <!-- BLOG-POST-LIST:END -->
 
