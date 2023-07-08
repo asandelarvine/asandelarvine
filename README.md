@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top &quot;6 Awesome Tools&quot; That Will Turn Your Code Snippets Into Beautiful Images](https://dev.to/soumyadeepdey/6-tools-to-create-beautiful-images-of-your-code-snippets-115a)
+- [#3.Events in Discord.py.](https://dev.to/mannu/3events-in-discordpy-5gcb)
 - [Could you brutally review my product website?](https://dev.to/intesar/could-you-brutally-review-my-product-website-52o6)
 - [AWS CloudFormation Explained](https://dev.to/aws-builders/aws-cloudformation-explained-fhk)
-- [Being Productive with my summer 2023 ⛱️](https://dev.to/yunhaozz/being-productive-with-my-summer-2023-38md)
-- [💡 TypeScript - Template Literal Types](https://dev.to/thayto/typescript-template-literal-types-2679)
 <!-- BLOG-POST-LIST:END -->
 
