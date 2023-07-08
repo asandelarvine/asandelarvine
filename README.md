@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React And Node.js Integration: Step By Step Guide - A New Youtube Video](https://dev.to/myogeshchavan97/react-and-nodejs-integration-step-by-step-guide-a-new-youtube-video-4fh1)
+- [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/femi_dev/how-to-prevent-unnecessary-react-component-re-rendering-3c08)
 - [Create A Random Quote Generator with HTML, CSS, and JavaScript](https://dev.to/official_fire/create-a-random-quote-generator-with-html-css-and-javascript-4n66)
 - [Dead simple Access Control with iamjs](https://dev.to/triyanox/dead-simple-access-control-with-iamjs-10le)
-- [Top &quot;6 Awesome Tools&quot; That Will Turn Your Code Snippets Into Beautiful Images](https://dev.to/soumyadeepdey/6-tools-to-create-beautiful-images-of-your-code-snippets-115a)
-- [#3.Events in Discord.py.](https://dev.to/mannu/3events-in-discordpy-5gcb)
 <!-- BLOG-POST-LIST:END -->
 
