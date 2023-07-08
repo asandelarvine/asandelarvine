@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Postgres schema changes are still a PITA](https://dev.to/xata/postgres-schema-changes-are-still-a-pita-46bf)
+- [Unraveling the Economics of Staking: A Closer Look at the XRPL](https://dev.to/enchstyle/unraveling-the-economics-of-staking-a-closer-look-at-the-xrpl-4bg0)
 - [Unlock the Power of OAuth: A Journey to Secure and Reliable Applications](https://dev.to/aradwan20/unlock-the-power-of-oauth-a-journey-to-secure-and-reliable-applications-4cg0)
 - [Efficient Infrastructure Management with AWS CloudFormation](https://dev.to/brandondamue/efficient-infrastructure-management-with-aws-cloudformation-2l1k)
-- [$loop in Laravel&#39;s foreach](https://dev.to/faridteymouri/loop-in-laravels-foreach-1ap6)
 <!-- BLOG-POST-LIST:END -->
 
