@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your React Projects with Custom Hooks](https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4)
 - [Mobile-first approach with HTML and CSS](https://dev.to/farhadi/mobile-first-approach-with-html-and-css-3e88)
 - [How to integrate data import functionality into your app](https://dev.to/bobur/how-to-integrate-data-import-functionality-into-your-app-bmc)
 - [Why Software Development is Hard?](https://dev.to/snowman647/why-software-development-is-hard-4abg)
-- [How To Create an EC2 Instance on AWS](https://dev.to/oyohedmond/how-to-create-an-ec2-instance-on-aws-28e8)
 <!-- BLOG-POST-LIST:END -->
 
