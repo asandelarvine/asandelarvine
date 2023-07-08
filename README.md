@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaping into the Unknown: My Career Change to Web Development](https://dev.to/devdela/leaping-into-the-unknown-my-career-change-to-web-development-19ek)
-- [Supercharge Your React Projects with Custom Hooks](https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4)
-- [Mobile-first approach with HTML and CSS](https://dev.to/farhadi/mobile-first-approach-with-html-and-css-3e88)
-- [How to integrate data import functionality into your app](https://dev.to/bobur/how-to-integrate-data-import-functionality-into-your-app-bmc)
+- [Avoid &quot;&amp;&amp;&quot; Operator for Conditional Rendering in React](https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de)
+- [Build a Single Source of Truth by Using Daxus!](https://dev.to/jason89521/build-a-single-source-of-truth-by-using-daxus-3g90)
+- [pyenv - manage python versions](https://dev.to/stefanalfbo/pyenv-manage-python-versions-28pf)
+- [Implementing Linear Regression Algorithm from scratch.](https://dev.to/ezeanamichael/implementing-linear-regression-algorithm-from-scratch-52co)
 <!-- BLOG-POST-LIST:END -->
 
