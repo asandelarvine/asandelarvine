@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres schema changes are still a PITA](https://dev.to/xata/postgres-schema-changes-are-still-a-pita-46bf)
 - [Unlock the Power of OAuth: A Journey to Secure and Reliable Applications](https://dev.to/aradwan20/unlock-the-power-of-oauth-a-journey-to-secure-and-reliable-applications-4cg0)
 - [Efficient Infrastructure Management with AWS CloudFormation](https://dev.to/brandondamue/efficient-infrastructure-management-with-aws-cloudformation-2l1k)
 - [$loop in Laravel&#39;s foreach](https://dev.to/faridteymouri/loop-in-laravels-foreach-1ap6)
-- [[Nestia] migration tool from Swagger to NestJS - SDK generator and Mockup simulator for every backend stacks](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
 <!-- BLOG-POST-LIST:END -->
 
