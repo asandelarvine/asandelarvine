@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Vite.js &amp; Why It Is Better Than Webpack?](https://dev.to/arsalanmee/what-is-vitejs-why-it-is-better-than-webpack-1bag)
-- [How to create a digital Clock using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-create-clock-using-html-css-and-javascript-3bd0)
-- [How to learn C++ without spending a single coin of money.](https://dev.to/naveenchandra45/how-to-learn-c-without-spending-a-single-coin-of-money-84l)
-- [🤖 Taskade Update — Task Generator, AI PDF Summarizer, Desktop App Updates, and More!](https://dev.to/taskade/taskade-update-task-generator-ai-pdf-summarizer-desktop-app-updates-and-more-e14)
+- [Mobile-first approach with HTML and CSS](https://dev.to/farhadi/mobile-first-approach-with-html-and-css-3e88)
+- [How to integrate data import functionality into your app](https://dev.to/bobur/how-to-integrate-data-import-functionality-into-your-app-bmc)
+- [Why Software Development is Hard?](https://dev.to/snowman647/why-software-development-is-hard-4abg)
+- [How To Create an EC2 Instance on AWS](https://dev.to/oyohedmond/how-to-create-an-ec2-instance-on-aws-28e8)
 <!-- BLOG-POST-LIST:END -->
 
