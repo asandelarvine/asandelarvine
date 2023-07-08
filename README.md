@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead simple Access Control with iamjs](https://dev.to/triyanox/dead-simple-access-control-with-iamjs-10le)
 - [Top &quot;6 Awesome Tools&quot; That Will Turn Your Code Snippets Into Beautiful Images](https://dev.to/soumyadeepdey/6-tools-to-create-beautiful-images-of-your-code-snippets-115a)
 - [#3.Events in Discord.py.](https://dev.to/mannu/3events-in-discordpy-5gcb)
 - [Could you brutally review my product website?](https://dev.to/intesar/could-you-brutally-review-my-product-website-52o6)
-- [AWS CloudFormation Explained](https://dev.to/aws-builders/aws-cloudformation-explained-fhk)
 <!-- BLOG-POST-LIST:END -->
 
