@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Youtube Script Generator [Refine Hackathon]](https://dev.to/akashpattnaik/youtube-script-generator-refine-hackathon-5bea)
-- [HTTP vs WebSockets](https://dev.to/merudra754/http-vs-websockets-complete-guide-478h)
-- [CronWeb: Use Webhook 🔗 No Need to Building Your Own Cron Scheduler 🕒](https://dev.to/rajeshj3/cronweb-utilize-webhooks-without-building-your-own-cron-tools-li5)
-- [Avoid &quot;&amp;&amp;&quot; Operator for Conditional Rendering in React](https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de)
+- [Awesome list of free CSS Generator](https://dev.to/jon_snow789/awesome-list-of-free-css-generator-293k)
+- [Selecting CSS Classes Ending With The Same Name Using $= Operator](https://dev.to/khaledsalshibani/selecting-css-classes-ending-with-the-same-name-using-operator-2hji)
+- [DEV Showcase v7](https://dev.to/codenewbieteam/dev-showcase-v7-2knj)
+- [Go - How to use Resty](https://dev.to/ankitmalikg/go-how-to-use-resty-2pmg)
 <!-- BLOG-POST-LIST:END -->
 
