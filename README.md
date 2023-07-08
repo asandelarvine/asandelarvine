@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Youtube Script Generator [Refine Hackathon]](https://dev.to/akashpattnaik/youtube-script-generator-refine-hackathon-5bea)
+- [HTTP vs WebSockets](https://dev.to/merudra754/http-vs-websockets-complete-guide-478h)
+- [CronWeb: Use Webhook 🔗 No Need to Building Your Own Cron Scheduler 🕒](https://dev.to/rajeshj3/cronweb-utilize-webhooks-without-building-your-own-cron-tools-li5)
 - [Avoid &quot;&amp;&amp;&quot; Operator for Conditional Rendering in React](https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de)
-- [Build a Single Source of Truth by Using Daxus!](https://dev.to/jason89521/build-a-single-source-of-truth-by-using-daxus-3g90)
-- [pyenv - manage python versions](https://dev.to/stefanalfbo/pyenv-manage-python-versions-28pf)
-- [Implementing Linear Regression Algorithm from scratch.](https://dev.to/ezeanamichael/implementing-linear-regression-algorithm-from-scratch-52co)
 <!-- BLOG-POST-LIST:END -->
 
