@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding 101: What&#39;s the Difference between Designers &amp; Developers?](https://dev.to/codenewbieteam/coding-101-whats-the-difference-between-designers-developers-4083)
-- [Instant Bug-fixing or Bug-free Code: Which Power Would You Pick?](https://dev.to/devteam/instant-bug-fixing-or-bug-free-code-which-power-would-you-pick-1n2c)
-- [React And Node.js Integration: Step By Step Guide - A New Youtube Video](https://dev.to/myogeshchavan97/react-and-nodejs-integration-step-by-step-guide-a-new-youtube-video-4fh1)
-- [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/femi_dev/how-to-prevent-unnecessary-react-component-re-rendering-3c08)
+- [What Is Vite.js &amp; Why It Is Better Than Webpack?](https://dev.to/arsalanmee/what-is-vitejs-why-it-is-better-than-webpack-1bag)
+- [How to create a digital Clock using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-create-clock-using-html-css-and-javascript-3bd0)
+- [How to learn C++ without spending a single coin of money.](https://dev.to/naveenchandra45/how-to-learn-c-without-spending-a-single-coin-of-money-84l)
+- [🤖 Taskade Update — Task Generator, AI PDF Summarizer, Desktop App Updates, and More!](https://dev.to/taskade/taskade-update-task-generator-ai-pdf-summarizer-desktop-app-updates-and-more-e14)
 <!-- BLOG-POST-LIST:END -->
 
