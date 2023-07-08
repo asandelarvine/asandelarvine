@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Could you brutally review my product website?](https://dev.to/intesar/could-you-brutally-review-my-product-website-52o6)
+- [AWS CloudFormation Explained](https://dev.to/aws-builders/aws-cloudformation-explained-fhk)
+- [Being Productive with my summer 2023 ⛱️](https://dev.to/yunhaozz/being-productive-with-my-summer-2023-38md)
 - [💡 TypeScript - Template Literal Types](https://dev.to/thayto/typescript-template-literal-types-2679)
-- [The 28th Day of the 100 Days of Code challenge](https://dev.to/ethan_/the-28th-day-of-the-100-days-of-code-challenge-35ib)
-- [Career Reflections](https://dev.to/deeheber/career-reflections-1joh)
-- [Day 778 : That Life](https://dev.to/dwane/day-778-that-life-3jk0)
 <!-- BLOG-POST-LIST:END -->
 
