@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything is Implementation Details](https://dev.to/noriller/everything-is-implementation-details-3ge8)
-- [Exploring Django&#39;s Third-Party Packages: Top Libraries You Should Know](https://dev.to/ifihan/exploring-djangos-third-party-packages-top-libraries-you-should-know-38km)
-- [Pull Request Validation for AWS CodeCommit using Lambda and CodeBuild](https://dev.to/harisharavindan/pull-request-validation-for-aws-codecommit-using-lambda-and-codebuild-4dcg)
-- [Social Media Marketing Agency in Pakistan: Boosting Your Online Presence](https://dev.to/smithmark12/social-media-marketing-agency-in-pakistan-boosting-your-online-presence-2l83)
+- [Unlock the Power of OAuth: A Journey to Secure and Reliable Applications](https://dev.to/aradwan20/unlock-the-power-of-oauth-a-journey-to-secure-and-reliable-applications-4cg0)
+- [Efficient Infrastructure Management with AWS CloudFormation](https://dev.to/brandondamue/efficient-infrastructure-management-with-aws-cloudformation-2l1k)
+- [$loop in Laravel&#39;s foreach](https://dev.to/faridteymouri/loop-in-laravels-foreach-1ap6)
+- [[Nestia] migration tool from Swagger to NestJS - SDK generator and Mockup simulator for every backend stacks](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
 <!-- BLOG-POST-LIST:END -->
 
