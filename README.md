@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding 101: What&#39;s the Difference between Designers &amp; Developers?](https://dev.to/codenewbieteam/coding-101-whats-the-difference-between-designers-developers-4083)
+- [Instant Bug-fixing or Bug-free Code: Which Power Would You Pick?](https://dev.to/devteam/instant-bug-fixing-or-bug-free-code-which-power-would-you-pick-1n2c)
 - [React And Node.js Integration: Step By Step Guide - A New Youtube Video](https://dev.to/myogeshchavan97/react-and-nodejs-integration-step-by-step-guide-a-new-youtube-video-4fh1)
 - [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/femi_dev/how-to-prevent-unnecessary-react-component-re-rendering-3c08)
-- [Create A Random Quote Generator with HTML, CSS, and JavaScript](https://dev.to/official_fire/create-a-random-quote-generator-with-html-css-and-javascript-4n66)
-- [Dead simple Access Control with iamjs](https://dev.to/triyanox/dead-simple-access-control-with-iamjs-10le)
 <!-- BLOG-POST-LIST:END -->
 
