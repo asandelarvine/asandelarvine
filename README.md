@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [null hipotez](https://dev.to/mustafacam/null-hipotez-2hkb)
 - [Awesome list of free CSS Generator](https://dev.to/jon_snow789/awesome-list-of-free-css-generator-293k)
 - [Selecting CSS Classes Ending With The Same Name Using $= Operator](https://dev.to/khaledsalshibani/selecting-css-classes-ending-with-the-same-name-using-operator-2hji)
 - [DEV Showcase v7](https://dev.to/codenewbieteam/dev-showcase-v7-2knj)
-- [Go - How to use Resty](https://dev.to/ankitmalikg/go-how-to-use-resty-2pmg)
 <!-- BLOG-POST-LIST:END -->
 
