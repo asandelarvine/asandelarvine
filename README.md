@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Todo List with Next.js Beginner&#39;s Guide](https://dev.to/syedmuhammadaliraza/todo-list-with-nextjs-beginners-guide-18c8)
+- [Dominando Laravel 2023](https://dev.to/vittor/dominando-laravel-2023-529f)
+- [How to Learn Python For Data Science?](https://dev.to/aqsa81/how-to-learn-python-for-data-science-2dpf)
 - [Helix editor: Make HTTP requests and insert JSON](https://dev.to/rajasegar/helix-editor-make-http-requests-and-insert-json-3agf)
-- [How to Connect a Postgres Database to Express: A Step-by-Step Guide](https://dev.to/pyies/how-to-connect-a-postgres-database-to-express-a-step-by-step-guide-4hm3)
-- [Tidbits: TailwindCSS and Next.js](https://dev.to/jenad88/tidbits-tailwindcss-and-nextjs-38b4)
-- [Blogroll: the list of blogs that I like to read](https://dev.to/noghartt/blogroll-the-list-of-blogs-that-i-like-to-read-59mf)
 <!-- BLOG-POST-LIST:END -->
 
