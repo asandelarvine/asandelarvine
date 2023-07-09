@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [INTRODUCTION TO LLMS](https://dev.to/abeenoch/introduction-to-llms-46hj)
-- [Coding Problem Interview Series: How to Implement Bubble Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bubble-sort-n16)
-- [Have You Explored Coding Roles in New Industries?](https://dev.to/devteam/have-you-explored-coding-roles-in-new-industries-2h91)
-- [Globalising Websites: The Power of Internationalisation and Localisation 🚀🔥](https://dev.to/arjuncodess/globalising-websites-the-power-of-internationalisation-and-localisation-1hg8)
+- [Flutter Project : Building Threads UI Using Flutter](https://dev.to/realnamehidden1_61/flutter-project-building-threads-ui-using-flutter-47f3)
+- [Programming: A Comedy of Errors and Infinite Loops 😁](https://dev.to/sadeedpv/programming-a-comedy-of-errors-and-infinite-loops-36d1)
+- [Image gallery with smooth hover effect](https://dev.to/jon_snow789/image-gallery-with-smooth-hover-effect-116b)
+- [Brush up your CSS knowledge 🚀 Part[1 of 2]](https://dev.to/ankur0904/brush-up-your-css-knowledge-part1-of-2-5711)
 <!-- BLOG-POST-LIST:END -->
 
