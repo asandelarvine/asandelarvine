@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You should Start Contributing to OpenSource](https://dev.to/nightbird07/why-you-should-start-contributing-to-opensource-52e1)
 - [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
 - [Why Choose PGSQL as the Database for Resource Storage](https://dev.to/bineshsamal/why-choose-pgsql-as-the-database-for-resource-storage-1nk)
 - [How To Track Mouse and Touch Move In Pressed State With React](https://dev.to/rodionchachura/how-to-track-mouse-and-touch-move-in-pressed-state-with-react-47np)
-- [Dive into Laravel Sanctum Token Abilities](https://dev.to/yasserelgammal/dive-into-laravel-sanctum-token-abilities-n8f)
 <!-- BLOG-POST-LIST:END -->
 
