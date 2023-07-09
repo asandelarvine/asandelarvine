@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tidbits: TailwindCSS and Next.js](https://dev.to/jenad88/tidbits-tailwindcss-and-nextjs-38b4)
+- [Blogroll: the list of blogs that I like to read](https://dev.to/noghartt/blogroll-the-list-of-blogs-that-i-like-to-read-59mf)
+- [Is the AI Hype Over? OpenAI&#39;s ChatGPT Code Interpreter Takes Center Stage](https://dev.to/mitchiemt11/is-the-ai-hype-over-openais-chatgpt-code-interpreter-takes-center-stage-3362)
 - [How to deploy a React application to AWS using AWS S3 &amp; AWS CloudFront](https://dev.to/alizgheib/how-to-deploy-a-react-application-to-aws-using-aws-s3-aws-cloudfront-42km)
-- [TxtAnime.js open source javascript library](https://dev.to/mohamedfrindi/txtanimejs-open-source-javascript-library-4i16)
-- [Postgres schema changes are still a PITA](https://dev.to/xata/postgres-schema-changes-are-still-a-pita-46bf)
-- [Unraveling the Economics of Staking: A Closer Look at the XRPL](https://dev.to/enchstyle/unraveling-the-economics-of-staking-a-closer-look-at-the-xrpl-4bg0)
 <!-- BLOG-POST-LIST:END -->
 
