@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy a React application to AWS using AWS S3 &amp; AWS CloudFront](https://dev.to/alizgheib/how-to-deploy-a-react-application-to-aws-using-aws-s3-aws-cloudfront-42km)
+- [TxtAnime.js open source javascript library](https://dev.to/mohamedfrindi/txtanimejs-open-source-javascript-library-4i16)
 - [Postgres schema changes are still a PITA](https://dev.to/xata/postgres-schema-changes-are-still-a-pita-46bf)
 - [Unraveling the Economics of Staking: A Closer Look at the XRPL](https://dev.to/enchstyle/unraveling-the-economics-of-staking-a-closer-look-at-the-xrpl-4bg0)
-- [Unlock the Power of OAuth: A Journey to Secure and Reliable Applications](https://dev.to/aradwan20/unlock-the-power-of-oauth-a-journey-to-secure-and-reliable-applications-4cg0)
-- [Efficient Infrastructure Management with AWS CloudFormation](https://dev.to/brandondamue/efficient-infrastructure-management-with-aws-cloudformation-2l1k)
 <!-- BLOG-POST-LIST:END -->
 
