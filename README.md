@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Helix editor: Make HTTP requests and insert JSON](https://dev.to/rajasegar/helix-editor-make-http-requests-and-insert-json-3agf)
+- [How to Connect a Postgres Database to Express: A Step-by-Step Guide](https://dev.to/pyies/how-to-connect-a-postgres-database-to-express-a-step-by-step-guide-4hm3)
 - [Tidbits: TailwindCSS and Next.js](https://dev.to/jenad88/tidbits-tailwindcss-and-nextjs-38b4)
 - [Blogroll: the list of blogs that I like to read](https://dev.to/noghartt/blogroll-the-list-of-blogs-that-i-like-to-read-59mf)
-- [Is the AI Hype Over? OpenAI&#39;s ChatGPT Code Interpreter Takes Center Stage](https://dev.to/mitchiemt11/is-the-ai-hype-over-openais-chatgpt-code-interpreter-takes-center-stage-3362)
 <!-- BLOG-POST-LIST:END -->
 
