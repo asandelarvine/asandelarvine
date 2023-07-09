@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Project : Building Threads UI Using Flutter](https://dev.to/realnamehidden1_61/flutter-project-building-threads-ui-using-flutter-47f3)
-- [Yet Another Newsletter LOL: 1000 Dinosaurs](https://dev.to/nickytonline/yet-another-newsletter-lol-1000-dinosaurs-3ch)
-- [Programming: A Comedy of Errors and Infinite Loops 😁](https://dev.to/sadeedpv/programming-a-comedy-of-errors-and-infinite-loops-36d1)
-- [Practice: Avoid special handle](https://dev.to/d75435911173/practice-aws-serverless-keep-it-light-35kc)
+- [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
+- [Why Choose PGSQL as the Database for Resource Storage](https://dev.to/bineshsamal/why-choose-pgsql-as-the-database-for-resource-storage-1nk)
+- [How To Track Mouse and Touch Move In Pressed State With React](https://dev.to/rodionchachura/how-to-track-mouse-and-touch-move-in-pressed-state-with-react-47np)
+- [Dive into Laravel Sanctum Token Abilities](https://dev.to/yasserelgammal/dive-into-laravel-sanctum-token-abilities-n8f)
 <!-- BLOG-POST-LIST:END -->
 
