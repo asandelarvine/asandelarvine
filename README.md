@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [LangChain Arbitrary Command Execution - CVE-2023-34541](https://dev.to/tutorialboy/langchain-arbitrary-command-execution-cve-2023-34541-38kf)
+- [Create ToDo List with Vue.js](https://dev.to/syedmuhammadaliraza/create-todo-list-with-vuejs-39m)
 - [11 Ways to Improve Your Technical Resume](https://dev.to/mohammadfaisal/11-ways-to-improve-your-technical-resume-40de)
 - [React Native vs Flutter:](https://dev.to/denkogee/react-native-vs-flutter-1l0j)
-- [Getting Started with Jekyll: A Powerful Ruby-Based Static Site Generator](https://dev.to/rpaweb/getting-started-with-jekyll-a-powerful-ruby-based-static-site-generator-28ai)
 <!-- BLOG-POST-LIST:END -->
 
