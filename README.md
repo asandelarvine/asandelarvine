@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Starter-Repos.com](https://dev.to/char_greenman/introducing-starter-reposcom-2gg4)
+- [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
+- [Heading 4: Project Administration](https://dev.to/githubcoder/heading-4-project-administration-1n1n)
 - [LangChain Arbitrary Command Execution - CVE-2023-34541](https://dev.to/tutorialboy/langchain-arbitrary-command-execution-cve-2023-34541-38kf)
-- [Create ToDo List with Vue.js](https://dev.to/syedmuhammadaliraza/create-todo-list-with-vuejs-39m)
-- [11 Ways to Improve Your Technical Resume](https://dev.to/mohammadfaisal/11-ways-to-improve-your-technical-resume-40de)
-- [React Native vs Flutter:](https://dev.to/denkogee/react-native-vs-flutter-1l0j)
 <!-- BLOG-POST-LIST:END -->
 
