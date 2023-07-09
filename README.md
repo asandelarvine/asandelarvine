@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Helix editor: Make HTTP requests and insert JSON](https://dev.to/rajasegar/helix-editor-make-http-requests-and-insert-json-3agf)
 - [Tidbits: TailwindCSS and Next.js](https://dev.to/jenad88/tidbits-tailwindcss-and-nextjs-38b4)
 - [Blogroll: the list of blogs that I like to read](https://dev.to/noghartt/blogroll-the-list-of-blogs-that-i-like-to-read-59mf)
 - [Is the AI Hype Over? OpenAI&#39;s ChatGPT Code Interpreter Takes Center Stage](https://dev.to/mitchiemt11/is-the-ai-hype-over-openais-chatgpt-code-interpreter-takes-center-stage-3362)
-- [How to deploy a React application to AWS using AWS S3 &amp; AWS CloudFront](https://dev.to/alizgheib/how-to-deploy-a-react-application-to-aws-using-aws-s3-aws-cloudfront-42km)
 <!-- BLOG-POST-LIST:END -->
 
