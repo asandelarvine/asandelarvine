@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Importance of Practice in Learning Programming: Tips for Building a Strong Coding Skillset](https://dev.to/scofieldidehen/importance-of-practice-in-learning-programming-tips-for-building-a-strong-coding-skillset-408l)
+- [Why Server Components - A Brief History of Web](https://dev.to/perssondennis/why-server-components-a-brief-history-of-web-198h)
+- [Functions in JavaScript for Beginners](https://dev.to/allied/functions-in-javascript-for-beginners-47j6)
 - [Top &quot;8 Effective Tips&quot; to Maximize Developer &quot;Productivity and Efficiency&quot;](https://dev.to/soumyadeepdey/8-effective-tips-to-increase-productivity-as-a-developer-2m5p)
-- [AINIRO Oracle, the Cut the Crap Search Engine](https://dev.to/polterguy/ainiro-oracle-the-cut-the-crap-search-engine-5ng)
-- [Can you explain the meaning of &#39;^1.2.3&#39; in a package.json file?](https://dev.to/ashwani3011/can-you-explain-the-meaning-of-123-in-a-packagejson-file-4l38)
-- [Notes about the ongoing Perl logo discussion](https://dev.to/smonff/notes-about-the-ongoing-perl-logo-discussion-4c80)
 <!-- BLOG-POST-LIST:END -->
 
