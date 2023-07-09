@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Importance of Practice in Learning Programming: Tips for Building a Strong Coding Skillset](https://dev.to/scofieldidehen/importance-of-practice-in-learning-programming-tips-for-building-a-strong-coding-skillset-408l)
-- [Why Server Components - A Brief History of Web](https://dev.to/perssondennis/why-server-components-a-brief-history-of-web-198h)
-- [Functions in JavaScript for Beginners](https://dev.to/allied/functions-in-javascript-for-beginners-47j6)
-- [Top &quot;8 Effective Tips&quot; to Maximize Developer &quot;Productivity and Efficiency&quot;](https://dev.to/soumyadeepdey/8-effective-tips-to-increase-productivity-as-a-developer-2m5p)
+- [How to create a web page using HTML, a step-by-step tutorial.](https://dev.to/jindalkeshav82/how-to-create-a-web-page-using-html-a-step-by-step-tutorial-e54)
+- [10 Secrets Every Newbie Must Follow to Get Into Programming](https://dev.to/akashpattnaik/10-secrets-every-newbie-must-follow-to-get-into-programming-3hob)
+- [React Design Patterns](https://dev.to/anuradha9712/react-design-patterns-2acc)
+- [AsyncIO basics in Python](https://dev.to/tabish0/asyncio-basics-in-python-i4o)
 <!-- BLOG-POST-LIST:END -->
 
