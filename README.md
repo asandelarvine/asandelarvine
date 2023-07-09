@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LangChain Arbitrary Command Execution - CVE-2023-34541](https://dev.to/tutorialboy/langchain-arbitrary-command-execution-cve-2023-34541-38kf)
 - [11 Ways to Improve Your Technical Resume](https://dev.to/mohammadfaisal/11-ways-to-improve-your-technical-resume-40de)
 - [React Native vs Flutter:](https://dev.to/denkogee/react-native-vs-flutter-1l0j)
 - [Getting Started with Jekyll: A Powerful Ruby-Based Static Site Generator](https://dev.to/rpaweb/getting-started-with-jekyll-a-powerful-ruby-based-static-site-generator-28ai)
-- [CURL](https://dev.to/sathishpy1808/curl-3clf)
 <!-- BLOG-POST-LIST:END -->
 
