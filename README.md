@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You should Start Contributing to OpenSource](https://dev.to/nightbird07/why-you-should-start-contributing-to-opensource-52e1)
-- [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
-- [Why Choose PGSQL as the Database for Resource Storage](https://dev.to/bineshsamal/why-choose-pgsql-as-the-database-for-resource-storage-1nk)
-- [How To Track Mouse and Touch Move In Pressed State With React](https://dev.to/rodionchachura/how-to-track-mouse-and-touch-move-in-pressed-state-with-react-47np)
+- [Top &quot;8 Effective Tips&quot; to Maximize Developer &quot;Productivity and Efficiency&quot;](https://dev.to/soumyadeepdey/8-effective-tips-to-increase-productivity-as-a-developer-2m5p)
+- [AINIRO Oracle, the Cut the Crap Search Engine](https://dev.to/polterguy/ainiro-oracle-the-cut-the-crap-search-engine-5ng)
+- [Can you explain the meaning of &#39;^1.2.3&#39; in a package.json file?](https://dev.to/ashwani3011/can-you-explain-the-meaning-of-123-in-a-packagejson-file-4l38)
+- [Notes about the ongoing Perl logo discussion](https://dev.to/smonff/notes-about-the-ongoing-perl-logo-discussion-4c80)
 <!-- BLOG-POST-LIST:END -->
 
