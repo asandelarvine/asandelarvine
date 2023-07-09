@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Have You Explored Coding Roles in New Industries?](https://dev.to/devteam/have-you-explored-coding-roles-in-new-industries-2h91)
+- [Coding Problem Interview Series: How to Implement Bubble Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bubble-sort-n16)
+- [Globalising Websites: The Power of Internationalisation and Localisation 🚀🔥](https://dev.to/arjuncodess/globalising-websites-the-power-of-internationalisation-and-localisation-1hg8)
 - [Todo List with Next.js Beginner&#39;s Guide](https://dev.to/syedmuhammadaliraza/todo-list-with-nextjs-beginners-guide-18c8)
-- [Dominando Laravel 2023](https://dev.to/vittor/dominando-laravel-2023-529f)
-- [How to Learn Python For Data Science?](https://dev.to/aqsa81/how-to-learn-python-for-data-science-2dpf)
-- [Helix editor: Make HTTP requests and insert JSON](https://dev.to/rajasegar/helix-editor-make-http-requests-and-insert-json-3agf)
 <!-- BLOG-POST-LIST:END -->
 
