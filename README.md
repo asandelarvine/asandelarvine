@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Project : Building Threads UI Using Flutter](https://dev.to/realnamehidden1_61/flutter-project-building-threads-ui-using-flutter-47f3)
+- [Yet Another Newsletter LOL: 1000 Dinosaurs](https://dev.to/nickytonline/yet-another-newsletter-lol-1000-dinosaurs-3ch)
 - [Programming: A Comedy of Errors and Infinite Loops 😁](https://dev.to/sadeedpv/programming-a-comedy-of-errors-and-infinite-loops-36d1)
-- [Image gallery with smooth hover effect](https://dev.to/jon_snow789/image-gallery-with-smooth-hover-effect-116b)
-- [Brush up your CSS knowledge 🚀 Part[1 of 2]](https://dev.to/ankur0904/brush-up-your-css-knowledge-part1-of-2-5711)
+- [Practice: Avoid special handle](https://dev.to/d75435911173/practice-aws-serverless-keep-it-light-35kc)
 <!-- BLOG-POST-LIST:END -->
 
