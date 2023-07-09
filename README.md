@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a web page using HTML, a step-by-step tutorial.](https://dev.to/jindalkeshav82/how-to-create-a-web-page-using-html-a-step-by-step-tutorial-e54)
-- [10 Secrets Every Newbie Must Follow to Get Into Programming](https://dev.to/akashpattnaik/10-secrets-every-newbie-must-follow-to-get-into-programming-3hob)
-- [React Design Patterns](https://dev.to/anuradha9712/react-design-patterns-2acc)
-- [AsyncIO basics in Python](https://dev.to/tabish0/asyncio-basics-in-python-i4o)
+- [11 Ways to Improve Your Technical Resume](https://dev.to/mohammadfaisal/11-ways-to-improve-your-technical-resume-40de)
+- [React Native vs Flutter:](https://dev.to/denkogee/react-native-vs-flutter-1l0j)
+- [Getting Started with Jekyll: A Powerful Ruby-Based Static Site Generator](https://dev.to/rpaweb/getting-started-with-jekyll-a-powerful-ruby-based-static-site-generator-28ai)
+- [CURL](https://dev.to/sathishpy1808/curl-3clf)
 <!-- BLOG-POST-LIST:END -->
 
