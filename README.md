@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [tRPC vs GraphQL – Why tRPC Finally Fixes the Type Safety Hassle](https://dev.to/brainhub_eu/trpc-vs-graphql-why-trpc-finally-fixes-the-type-safety-hassle-22id)
-- [AWS open source newsletter, #164](https://dev.to/aws/aws-open-source-newsletter-164-12np)
-- [Enhancing Web Development: Emphasizing Design and User Experience](https://dev.to/preetsuthar17/enhancing-web-development-emphasizing-design-and-user-experience-1df)
-- [React: A comprehensive Guide to Beginners](https://dev.to/nziokidennis/react-a-comprehensive-guide-to-beginners-1nh0)
+- [Business Idea Generator prompt - Horizon AI Template](https://dev.to/fredy/business-idea-generator-prompt-horizon-ai-template-ejd)
+- [Image Optimization in Vue &amp; Nuxt](https://dev.to/jacobandrewsky/image-optimization-in-vue-nuxt-29hc)
+- [Keeping your NPM dependencies up-to-date in a visual way with npm-check-updates](https://dev.to/thomasledoux1/keeping-your-npm-dependencies-up-to-date-with-npm-check-updates-4eal)
+- [Magento Website Audit Checklist 2023: Don’t Ignore Anything](https://dev.to/vyacheslavkonyshev/magento-website-audit-checklist-2023-dont-ignore-anything-1opb)
 <!-- BLOG-POST-LIST:END -->
 
