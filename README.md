@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why not to have meetings](https://dev.to/sigcoding/why-not-to-have-meetings-4ikc)
+- [O arco-íris da cybersegurança](https://dev.to/juligaioso/o-arco-iris-da-cyberseguranca-fje)
 - [Routing in Rails](https://dev.to/sjamescarter/routing-in-rails-670)
 - [reCAPTCHA v3 package for Laravel](https://dev.to/larstw98/laravel-with-recaptcha-v3-4fi4)
-- [🤯 ridet-nc-api : service mesh API on top of heterogeneous Open Data](https://dev.to/optnc/ridet-nc-api-service-mesh-api-on-top-of-heterogeneous-open-data-4c3b)
-- [JavaScript Closures simply explained](https://dev.to/princam/javascript-closures-simply-explained-16nf)
 <!-- BLOG-POST-LIST:END -->
 
