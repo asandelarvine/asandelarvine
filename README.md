@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Telegram Bot with ChatGPT integration.](https://dev.to/xamhans/how-to-build-a-telegram-bot-with-chatgpt-integration-5elp)
+- [In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
 - [JavaScript Debounce, Easiest explanation !&lpar;with Code&rpar;](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
-- [How to create gradient borders with tailwindcss](https://dev.to/tailus/how-to-create-gradient-borders-with-tailwindcss-4gk2)
-- [JavaScript and its many Framework](https://dev.to/scofieldidehen/javascript-and-its-many-framework-f8e)
-- [130+ avatars for your projects](https://dev.to/alohe/130-avatars-for-your-projects-31o4)
+- [What is IIFE in Javascript ? &lpar;important interview question&rpar;](https://dev.to/diwakarkashyap/what-is-iife-in-javascript-important-interview-question-519l)
 <!-- BLOG-POST-LIST:END -->
 
