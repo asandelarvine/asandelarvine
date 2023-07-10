@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Method Madness: Cast Your Vote](https://dev.to/balagmadhu/method-madness-cast-your-vote-bed)
-- [A Beginner-Friendly Guide to Understanding the CLI and its Fundamentals](https://dev.to/aysha/a-beginner-friendly-guide-to-understanding-the-cli-and-its-fundamentals-2imk)
-- [Technical Skills for Product Manager](https://dev.to/zerocodilla/technical-skills-for-product-manager-1m1p)
-- [Business Idea Generator prompt - Horizon AI Template](https://dev.to/fredy/business-idea-generator-prompt-horizon-ai-template-ejd)
+- [Perfboard Designer in Html Canvas](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
+- [Simple way to make i18n support with FastAPI](https://dev.to/whchi/simple-way-to-make-i18n-support-in-fastapi-27kd)
+- [Top LinkedIn .NET Content Creators you must Follow📘](https://dev.to/bytehide/top-linkedin-net-content-creators-you-must-follow-1mpo)
+- [Creating a Better StackOverflow with ChatGPT](https://dev.to/polterguy/creating-a-better-stackoverflow-with-chatgpt-52pd)
 <!-- BLOG-POST-LIST:END -->
 
