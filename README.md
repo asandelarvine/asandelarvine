@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Talk About Your Open Source Experience in a Tech Interview](https://dev.to/opensauced/how-to-talk-about-your-open-source-experience-in-a-tech-interview-3l96)
+- [Levelling up your developer career....](https://dev.to/abhirockzz/levelling-up-your-developer-career-5a54)
+- [ChatGPT: how I used it to convert HTTP requests to OpenAPI document](https://dev.to/oferlis/chatgpt-how-i-used-it-to-convert-http-requests-to-openapi-document-1n4m)
 - [The Devastating Failure of technical leadership](https://dev.to/wparad/the-devastating-failure-of-technical-leadership-3d1d)
-- [Crossplane and operators interactions](https://dev.to/mxglt/crossplane-and-operators-interactions-3fdl)
-- [Why is GitHub not open-source? with Zach Holman &lpar;ex GitHub &amp; GitLab&rpar;](https://dev.to/crowddotdev/why-is-github-not-open-source-with-zach-holman-ex-github-gitlab-4aa6)
-- [Best DX for MongoDB Replica set](https://dev.to/woovi/best-dx-for-mongodb-replica-set-43lc)
 <!-- BLOG-POST-LIST:END -->
 
