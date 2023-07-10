@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Authentication Integration For Developers With Authgear SDKs](https://dev.to/bobur/simplifying-authentication-integration-for-developers-with-authgear-sdks-dgp)
-- [How to copy style from any website](https://dev.to/brianh/how-to-copy-style-from-any-website-3ooi)
-- [Tips and techniques for technical writing.](https://dev.to/rashtech/tips-and-techniques-for-technical-writing-39cl)
-- [Music Monday — What are you listening to? &lpar;Pets Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
+- [Coding Problem Interview Series: How to Convert a String to Integer &lpar;atoi&lpar;&rpar;&rpar;?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-convert-a-string-to-integer-atoi-3fh1)
+- [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
+- [Corporate Social Responsibility](https://dev.to/crabnebula/corporate-social-responsibility-5do4)
+- [KVM üzerinde NAT-ağı oluşturma](https://dev.to/aciklab/kvm-uzerinde-nat-agi-olusturma-3fob)
 <!-- BLOG-POST-LIST:END -->
 
