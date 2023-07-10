@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Authentication Integration For Developers With Authgear SDKs](https://dev.to/bobur/simplifying-authentication-integration-for-developers-with-authgear-sdks-dgp)
+- [How to copy style from any website](https://dev.to/brianh/how-to-copy-style-from-any-website-3ooi)
 - [Tips and techniques for technical writing.](https://dev.to/rashtech/tips-and-techniques-for-technical-writing-39cl)
 - [Music Monday — What are you listening to? &lpar;Pets Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
-- [5 Overpowered VSCODE Extensions! 🔥](https://dev.to/official_fire/5-overpowered-vscode-extensions-3dj0)
-- [JavaScript - copyWithin&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-copywithin-method-59ej)
 <!-- BLOG-POST-LIST:END -->
 
