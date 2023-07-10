@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Ethereum Wallets: A Comprehensive Guide](https://dev.to/sahil_4555/exploring-ethereum-wallets-a-comprehensive-guide-20g1)
-- [ConnectNovu Hackathon 2023](https://dev.to/novu/connectnovu-hackathon-2023-i2l)
-- [Raku Blog Posts 2023.28](https://dev.to/lizmat/raku-blog-posts-202328-4068)
-- [An Ultimate Guide to Migrating On-Premises Applications to AWS](https://dev.to/csoftweb/an-ultimate-guide-to-migrating-on-premises-applications-to-aws-5dd2)
+- [The Devastating Failure of technical leadership](https://dev.to/wparad/the-devastating-failure-of-technical-leadership-3d1d)
+- [Crossplane and operators interactions](https://dev.to/mxglt/crossplane-and-operators-interactions-3fdl)
+- [Why is GitHub not open-source? with Zach Holman &lpar;ex GitHub &amp; GitLab&rpar;](https://dev.to/crowddotdev/why-is-github-not-open-source-with-zach-holman-ex-github-gitlab-4aa6)
+- [Best DX for MongoDB Replica set](https://dev.to/woovi/best-dx-for-mongodb-replica-set-43lc)
 <!-- BLOG-POST-LIST:END -->
 
