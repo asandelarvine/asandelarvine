@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4ip5)
-- [FLaNK Stack Weekly for 10 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-10-july-2023-2a2h)
-- [How to Talk About Your Open Source Experience in a Tech Interview](https://dev.to/opensauced/how-to-talk-about-your-open-source-experience-in-a-tech-interview-3l96)
-- [Levelling up your developer career....](https://dev.to/abhirockzz/levelling-up-your-developer-career-5a54)
+- [How to create gradient borders with tailwindcss](https://dev.to/tailus/how-to-create-gradient-borders-with-tailwindcss-4gk2)
+- [JavaScript and its many Framework](https://dev.to/scofieldidehen/javascript-and-its-many-framework-f8e)
+- [List of JavaScript Frameworks in 2023](https://dev.to/arsalanmee/list-of-javascript-frameworks-in-2023-1d2n)
+- [The Value of Frontend Development: Building in Public, Design Practices, and Client Understanding](https://dev.to/oluwaferanmi/the-value-of-frontend-development-building-in-public-design-practices-and-client-understanding-4203)
 <!-- BLOG-POST-LIST:END -->
 
