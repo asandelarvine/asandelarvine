@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Problem Interview Series: How to Convert a String to Integer &lpar;atoi&lpar;&rpar;&rpar;?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-convert-a-string-to-integer-atoi-3fh1)
-- [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
-- [Corporate Social Responsibility](https://dev.to/crabnebula/corporate-social-responsibility-5do4)
-- [KVM üzerinde NAT-ağı oluşturma](https://dev.to/aciklab/kvm-uzerinde-nat-agi-olusturma-3fob)
+- [tRPC vs GraphQL – Why tRPC Finally Fixes the Type Safety Hassle](https://dev.to/brainhub_eu/trpc-vs-graphql-why-trpc-finally-fixes-the-type-safety-hassle-22id)
+- [AWS open source newsletter, #164](https://dev.to/aws/aws-open-source-newsletter-164-12np)
+- [Enhancing Web Development: Emphasizing Design and User Experience](https://dev.to/preetsuthar17/enhancing-web-development-emphasizing-design-and-user-experience-1df)
+- [React: A comprehensive Guide to Beginners](https://dev.to/nziokidennis/react-a-comprehensive-guide-to-beginners-1nh0)
 <!-- BLOG-POST-LIST:END -->
 
