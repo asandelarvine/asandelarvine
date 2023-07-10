@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [API&#39;s, MUI, PERN, &amp; more...](https://dev.to/fetterollie/apis-mui-pern-more-2i19)
+- [NestJS tip: how to inject multiple versions of the same provider into one module &lpar;e.g.: many Axios instances&rpar;](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
 - [Introducing Starter-Repos.com](https://dev.to/char_greenman/introducing-starter-reposcom-2gg4)
 - [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
-- [Heading 4: Project Administration](https://dev.to/githubcoder/heading-4-project-administration-1n1n)
-- [LangChain Arbitrary Command Execution - CVE-2023-34541](https://dev.to/tutorialboy/langchain-arbitrary-command-execution-cve-2023-34541-38kf)
 <!-- BLOG-POST-LIST:END -->
 
