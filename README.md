@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfboard Designer in Html Canvas](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
-- [Simple way to make i18n support with FastAPI](https://dev.to/whchi/simple-way-to-make-i18n-support-in-fastapi-27kd)
-- [Top LinkedIn .NET Content Creators you must Follow📘](https://dev.to/bytehide/top-linkedin-net-content-creators-you-must-follow-1mpo)
-- [Creating a Better StackOverflow with ChatGPT](https://dev.to/polterguy/creating-a-better-stackoverflow-with-chatgpt-52pd)
+- [Exploring Ethereum Wallets: A Comprehensive Guide](https://dev.to/sahil_4555/exploring-ethereum-wallets-a-comprehensive-guide-20g1)
+- [ConnectNovu Hackathon 2023](https://dev.to/novu/connectnovu-hackathon-2023-i2l)
+- [Raku Blog Posts 2023.28](https://dev.to/lizmat/raku-blog-posts-202328-4068)
+- [An Ultimate Guide to Migrating On-Premises Applications to AWS](https://dev.to/csoftweb/an-ultimate-guide-to-migrating-on-premises-applications-to-aws-5dd2)
 <!-- BLOG-POST-LIST:END -->
 
