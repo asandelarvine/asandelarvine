@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with AWS Lambda: Building Serverless Functions](https://dev.to/secure_bug/getting-started-with-aws-lambda-building-serverless-functions-4jio)
+- [Demystifying Server-Side Rendering in Next JS: A Beginner&#39;s Guide](https://dev.to/iamkelv/demystifying-server-side-rendering-in-next-js-a-beginners-guide-55lh)
+- [Building Portfolio: Install Next.js and Tailwind with pnpm](https://dev.to/adiatiayu/building-portfolio-install-nextjs-and-tailwind-with-pnpm-2jgh)
 - [How to build a Telegram Bot with ChatGPT integration.](https://dev.to/xamhans/how-to-build-a-telegram-bot-with-chatgpt-integration-5elp)
-- [In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
-- [JavaScript Debounce, Easiest explanation !&lpar;with Code&rpar;](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
-- [What is IIFE in Javascript ? &lpar;important interview question&rpar;](https://dev.to/diwakarkashyap/what-is-iife-in-javascript-important-interview-question-519l)
 <!-- BLOG-POST-LIST:END -->
 
