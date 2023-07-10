@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS Lambda: Building Serverless Functions](https://dev.to/secure_bug/getting-started-with-aws-lambda-building-serverless-functions-4jio)
-- [Demystifying Server-Side Rendering in Next JS: A Beginner&#39;s Guide](https://dev.to/iamkelv/demystifying-server-side-rendering-in-next-js-a-beginners-guide-55lh)
-- [Building Portfolio: Install Next.js and Tailwind with pnpm](https://dev.to/adiatiayu/building-portfolio-install-nextjs-and-tailwind-with-pnpm-2jgh)
-- [How to build a Telegram Bot with ChatGPT integration.](https://dev.to/xamhans/how-to-build-a-telegram-bot-with-chatgpt-integration-5elp)
+- [reCAPTCHA v3 package for Laravel](https://dev.to/larstw98/laravel-with-recaptcha-v3-4fi4)
+- [🤯 ridet-nc-api : service mesh API on top of heterogeneous Open Data](https://dev.to/optnc/ridet-nc-api-service-mesh-api-on-top-of-heterogeneous-open-data-4c3b)
+- [JavaScript Closures simply explained](https://dev.to/princam/javascript-closures-simply-explained-16nf)
+- [Level up your terminal: How to configure autocomplete in your macOS terminal](https://dev.to/mbrookson/level-up-your-terminal-2o6p)
 <!-- BLOG-POST-LIST:END -->
 
