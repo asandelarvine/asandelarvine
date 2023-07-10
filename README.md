@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Debounce, Easiest explanation !&lpar;with Code&rpar;](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
 - [How to create gradient borders with tailwindcss](https://dev.to/tailus/how-to-create-gradient-borders-with-tailwindcss-4gk2)
 - [JavaScript and its many Framework](https://dev.to/scofieldidehen/javascript-and-its-many-framework-f8e)
-- [List of JavaScript Frameworks in 2023](https://dev.to/arsalanmee/list-of-javascript-frameworks-in-2023-1d2n)
-- [The Value of Frontend Development: Building in Public, Design Practices, and Client Understanding](https://dev.to/oluwaferanmi/the-value-of-frontend-development-building-in-public-design-practices-and-client-understanding-4203)
+- [130+ avatars for your projects](https://dev.to/alohe/130-avatars-for-your-projects-31o4)
 <!-- BLOG-POST-LIST:END -->
 
