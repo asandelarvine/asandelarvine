@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API&#39;s, MUI, PERN, &amp; more...](https://dev.to/fetterollie/apis-mui-pern-more-2i19)
-- [NestJS tip: how to inject multiple versions of the same provider into one module &lpar;e.g.: many Axios instances&rpar;](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
-- [Introducing Starter-Repos.com](https://dev.to/char_greenman/introducing-starter-reposcom-2gg4)
-- [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
+- [Music Monday — What are you listening to? &lpar;Pets Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
+- [5 Overpowered VSCODE Extensions! 🔥](https://dev.to/official_fire/5-overpowered-vscode-extensions-3dj0)
+- [JavaScript - copyWithin&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-copywithin-method-59ej)
+- [Installing PHP Unit](https://dev.to/sarahcssiqueira/installing-php-unit-3g45)
 <!-- BLOG-POST-LIST:END -->
 
