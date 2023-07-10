@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Method Madness: Cast Your Vote](https://dev.to/balagmadhu/method-madness-cast-your-vote-bed)
+- [A Beginner-Friendly Guide to Understanding the CLI and its Fundamentals](https://dev.to/aysha/a-beginner-friendly-guide-to-understanding-the-cli-and-its-fundamentals-2imk)
+- [Technical Skills for Product Manager](https://dev.to/zerocodilla/technical-skills-for-product-manager-1m1p)
 - [Business Idea Generator prompt - Horizon AI Template](https://dev.to/fredy/business-idea-generator-prompt-horizon-ai-template-ejd)
-- [Image Optimization in Vue &amp; Nuxt](https://dev.to/jacobandrewsky/image-optimization-in-vue-nuxt-29hc)
-- [Keeping your NPM dependencies up-to-date in a visual way with npm-check-updates](https://dev.to/thomasledoux1/keeping-your-npm-dependencies-up-to-date-with-npm-check-updates-4eal)
-- [Magento Website Audit Checklist 2023: Don’t Ignore Anything](https://dev.to/vyacheslavkonyshev/magento-website-audit-checklist-2023-dont-ignore-anything-1opb)
 <!-- BLOG-POST-LIST:END -->
 
