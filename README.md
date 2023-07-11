@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the coolest desk setup you&#39;ve ever seen?](https://dev.to/michaeltharrington/whats-the-coolest-desk-setup-youve-ever-seen-416c)
-- [GPT Web App Generator - Let AI create a full-stack React &amp; Node.js codebase based on your description 🤖🤯](https://dev.to/wasp/gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39)
-- [How to Use the JavaScript Fullscreen API](https://dev.to/farhadi/how-to-use-the-javascript-fullscreen-api-eao)
-- [CSS Battle: Test your Skills](https://dev.to/jarvisscript/css-battle-test-your-skills-1ia6)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
+- [How Developers Can Leverage ChatGPT](https://dev.to/devland/how-developers-can-leverage-chatgpt-4a89)
+- [Open Source Flask-based web applications](https://dev.to/szabgab/open-source-flask-based-web-applications-427n)
+- [How to Earn Money by Creating Apps for The Wix App Market &lpar;248M+ Users&rpar; 🧑‍💻💰](https://dev.to/madza/how-to-earn-money-by-creating-apps-for-the-wix-app-market-248m-users-4gl8)
 <!-- BLOG-POST-LIST:END -->
 
