@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harness the Magic of Tailwind CSS Presets: Simplify Styling and Accelerate Development](https://dev.to/gojchristopher/harness-the-magic-of-tailwind-css-presets-simplify-styling-and-accelerate-development-32i6)
 - [PostgreSQL : Prepared statement](https://dev.to/yet_anotherdev/postgresql-prepared-statement-3k6p)
 - [Short Ruby Newsletter - edition 50](https://dev.to/lucianghinda/short-ruby-newsletter-edition-50-p68)
 - [What is HTTPS and how does it work?](https://dev.to/junedang/what-is-https-and-how-does-it-work-3fko)
+- [Reading and Writing Files In Node.Js Using Modules.](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
 <!-- BLOG-POST-LIST:END -->
 
