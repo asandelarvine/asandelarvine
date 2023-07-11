@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Copilot: Is Syntex Becoming Obsolete?](https://dev.to/jaloplo/the-rise-of-copilot-is-syntex-becoming-obsolete-j01)
-- [Solving preloading fonts issue on Netlify](https://dev.to/robole/solving-preloading-fonts-issue-on-netlify-24pb)
-- [Vote for Name of a Bot Development Framework for Python.](https://dev.to/rajesh_singh_1989/vote-for-name-of-a-bot-development-framework-for-python-27e)
-- [You&#39;ll be more productive learning webpack with these methods](https://dev.to/limingcan562/youll-be-more-productive-learning-webpack-with-these-methods-469p)
+- [From Bits to Blockchain: The Inner Workings of Ethereum Transactions Explained](https://dev.to/sahil_4555/from-bits-to-blockchain-the-inner-workings-of-ethereum-transactions-explained-2ghn)
+- [Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
+- [Qwik – The Post-Modern Framework](https://dev.to/this-is-learning/qwik-the-post-modern-framework-3c5o)
+- [Creating an Easter Egg with the Konami Code in Svelte](https://dev.to/pbouillon/creating-an-easter-egg-with-the-konami-code-in-svelte-42p1)
 <!-- BLOG-POST-LIST:END -->
 
