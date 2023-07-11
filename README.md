@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Throttling in JavaScript Easiest Explanation✨🚀](https://dev.to/jeetvora331/throttling-in-javascript-easiest-explanation-1081)
-- [kodalamada yardımcı yapay zeka uygulamaları chat gpt tarafından önerildi :D](https://dev.to/mustafacam/kodalamada-yardimci-yapay-zeka-uygulamalar-52d6)
-- [Delve into HTML canvas: The underlying solutions in my project.](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a)
-- [Building Portfolio: Add Pages](https://dev.to/adiatiayu/building-portfolio-add-pages-55fc)
+- [Setting Up Pre-Commit Hooks in GitHub: Ensuring Code Quality and Consistency](https://dev.to/angu10/setting-up-pre-commit-hooks-in-github-ensuring-code-quality-and-consistency-289n)
+- [ARIA: Saving the World, One Accessible Web App at a Time!](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
+- [Exploring the NoSQL Powerhouse Amazon DynamoDB](https://dev.to/brandondamue/exploring-the-nosql-powerhouse-amazon-dynamodb-394b)
+- [Tudo que você precisa saber sobre Terraform](https://dev.to/1cadumagalhaes/tudo-que-voce-precisa-saber-sobre-terraform-3bp4)
 <!-- BLOG-POST-LIST:END -->
 
