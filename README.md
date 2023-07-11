@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is HTTPS and how does it work?](https://dev.to/junedang/what-is-https-and-how-does-it-work-3fko)
+- [Building Serverless Applications with AWS - Data](https://dev.to/aws-builders/building-serverless-applications-with-aws-data-en4)
 - [Why not to have meetings](https://dev.to/sigcoding/why-not-to-have-meetings-4ikc)
 - [O arco-íris da cybersegurança](https://dev.to/juligaioso/o-arco-iris-da-cyberseguranca-fje)
-- [Routing in Rails](https://dev.to/sjamescarter/routing-in-rails-670)
-- [reCAPTCHA v3 package for Laravel](https://dev.to/larstw98/laravel-with-recaptcha-v3-4fi4)
 <!-- BLOG-POST-LIST:END -->
 
