@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the coolest desk setup you&#39;ve ever seen?](https://dev.to/michaeltharrington/whats-the-coolest-desk-setup-youve-ever-seen-416c)
 - [GPT Web App Generator - Let AI create a full-stack React &amp; Node.js codebase based on your description 🤖🤯](https://dev.to/wasp/gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39)
-- [🔥🤯 Amazing Food Order hero section using HTML, CSS and JS.](https://dev.to/themodernweb/amazing-food-order-hero-section-using-html-css-and-js-2dh0)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-4kf8)
-- [The Ultimate Guide to Object-Oriented Programming in Python](https://dev.to/khumbolamulungu/the-ultimate-guide-to-object-oriented-programming-in-python-4i36)
+- [How to Use the JavaScript Fullscreen API](https://dev.to/farhadi/how-to-use-the-javascript-fullscreen-api-eao)
+- [CSS Battle: Test your Skills](https://dev.to/jarvisscript/css-battle-test-your-skills-1ia6)
 <!-- BLOG-POST-LIST:END -->
 
