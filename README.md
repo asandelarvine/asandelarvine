@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Android Accessibility with Modifiers in Jetpack Compose](https://dev.to/eevajonnapanula/improving-android-accessibility-with-modifiers-in-jetpack-compose-3llb)
-- [IPTables Üzerinden KVM Makinalarda ip ve port Yönlendirme](https://dev.to/aciklab/iptables-uzerinden-kvm-makinalarda-ip-ve-port-yonlendirme-5c4p)
-- [Coding Problem Interview Series: How to Implement Bucket Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bucket-sort-algorithm-5472)
-- [From Developer to Leader? What Are the Key Skills &amp; Experiences Needed for a Successful Transition?](https://dev.to/devteam/from-developer-to-leader-what-are-the-key-skills-experiences-needed-for-a-successful-transition-i1a)
+- [The Rise of Copilot: Is Syntex Becoming Obsolete?](https://dev.to/jaloplo/the-rise-of-copilot-is-syntex-becoming-obsolete-j01)
+- [Solving preloading fonts issue on Netlify](https://dev.to/robole/solving-preloading-fonts-issue-on-netlify-24pb)
+- [Vote for Name of a Bot Development Framework for Python.](https://dev.to/rajesh_singh_1989/vote-for-name-of-a-bot-development-framework-for-python-27e)
+- [You&#39;ll be more productive learning webpack with these methods](https://dev.to/limingcan562/youll-be-more-productive-learning-webpack-with-these-methods-469p)
 <!-- BLOG-POST-LIST:END -->
 
