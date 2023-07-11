@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Bits to Blockchain: The Inner Workings of Ethereum Transactions Explained](https://dev.to/sahil_4555/from-bits-to-blockchain-the-inner-workings-of-ethereum-transactions-explained-2ghn)
-- [Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
-- [Qwik – The Post-Modern Framework](https://dev.to/this-is-learning/qwik-the-post-modern-framework-3c5o)
-- [Creating an Easter Egg with the Konami Code in Svelte](https://dev.to/pbouillon/creating-an-easter-egg-with-the-konami-code-in-svelte-42p1)
+- [💨 Get Go-ing! Top 5 Free Resources for Learning Go Programming](https://dev.to/evergrowingdev/get-go-ing-top-5-free-resources-for-learning-go-programming-18li)
+- [How to Dockerize and Deploy a Fast API Application to Kubernetes Cluster](https://dev.to/bravinsimiyu/how-to-dockerize-and-deploy-a-fast-api-application-to-kubernetes-cluster-35a9)
+- [🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥](https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9)
+- [Deploy Preview Environments to Any Kubernetes Cluster with Preevy](https://dev.to/livecycle/deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5)
 <!-- BLOG-POST-LIST:END -->
 
