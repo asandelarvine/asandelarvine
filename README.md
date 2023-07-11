@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Fundamentals: HTML Forms](https://dev.to/hasanhaja/web-fundamentals-html-forms-3i5c)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://dev.to/codenameone/building-for-failure-best-practices-for-easy-production-debugging-1mim)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
 - [How Developers Can Leverage ChatGPT](https://dev.to/devland/how-developers-can-leverage-chatgpt-4a89)
-- [Open Source Flask-based web applications](https://dev.to/szabgab/open-source-flask-based-web-applications-427n)
 <!-- BLOG-POST-LIST:END -->
 
