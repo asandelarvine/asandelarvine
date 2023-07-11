@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategies for Optimizing Costs in AWS: Maximizing Cost-efficiency for Cloud Resource Management](https://dev.to/jito/strategies-for-optimizing-costs-in-aws-maximizing-cost-efficiency-for-cloud-resource-management-4031)
 - [Setting Up Pre-Commit Hooks in GitHub: Ensuring Code Quality and Consistency](https://dev.to/angu10/setting-up-pre-commit-hooks-in-github-ensuring-code-quality-and-consistency-289n)
 - [ARIA: Saving the World, One Accessible Web App at a Time!](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
 - [Exploring the NoSQL Powerhouse Amazon DynamoDB](https://dev.to/brandondamue/exploring-the-nosql-powerhouse-amazon-dynamodb-394b)
-- [Tudo que você precisa saber sobre Terraform](https://dev.to/1cadumagalhaes/tudo-que-voce-precisa-saber-sobre-terraform-3bp4)
 <!-- BLOG-POST-LIST:END -->
 
