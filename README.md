@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building for Failure - Best Practices for Easy Production Debugging](https://dev.to/codenameone/building-for-failure-best-practices-for-easy-production-debugging-1mim)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
 - [How Developers Can Leverage ChatGPT](https://dev.to/devland/how-developers-can-leverage-chatgpt-4a89)
 - [Open Source Flask-based web applications](https://dev.to/szabgab/open-source-flask-based-web-applications-427n)
-- [How to Earn Money by Creating Apps for The Wix App Market &lpar;248M+ Users&rpar; 🧑‍💻💰](https://dev.to/madza/how-to-earn-money-by-creating-apps-for-the-wix-app-market-248m-users-4gl8)
 <!-- BLOG-POST-LIST:END -->
 
