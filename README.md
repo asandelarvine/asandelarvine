@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💨 Get Go-ing! Top 5 Free Resources for Learning Go Programming](https://dev.to/evergrowingdev/get-go-ing-top-5-free-resources-for-learning-go-programming-18li)
-- [How to Dockerize and Deploy a Fast API Application to Kubernetes Cluster](https://dev.to/bravinsimiyu/how-to-dockerize-and-deploy-a-fast-api-application-to-kubernetes-cluster-35a9)
-- [🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥](https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9)
-- [Deploy Preview Environments to Any Kubernetes Cluster with Preevy](https://dev.to/livecycle/deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5)
+- [🔥🤯 Amazing Food Order hero section using HTML, CSS and JS.](https://dev.to/themodernweb/amazing-food-order-hero-section-using-html-css-and-js-2dh0)
+- [The Ultimate Guide to Object-Oriented Programming in Python](https://dev.to/khumbolamulungu/the-ultimate-guide-to-object-oriented-programming-in-python-4i36)
+- [Sending bulk emails in Laravel 10 using Mailgun](https://dev.to/larswolters98/sending-bulk-emails-in-laravel-10-using-mailgun-2e4k)
+- [Understanding Prototypal Inheritance in JavaScript: Enhancing Code Efficiency](https://dev.to/iayeshasahar/understanding-prototypal-inheritance-in-javascript-enhancing-code-efficiency-hen)
 <!-- BLOG-POST-LIST:END -->
 
