@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving Android Accessibility with Modifiers in Jetpack Compose](https://dev.to/eevajonnapanula/improving-android-accessibility-with-modifiers-in-jetpack-compose-3llb)
+- [IPTables Üzerinden KVM Makinalarda ip ve port Yönlendirme](https://dev.to/aciklab/iptables-uzerinden-kvm-makinalarda-ip-ve-port-yonlendirme-5c4p)
 - [Coding Problem Interview Series: How to Implement Bucket Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bucket-sort-algorithm-5472)
 - [From Developer to Leader? What Are the Key Skills &amp; Experiences Needed for a Successful Transition?](https://dev.to/devteam/from-developer-to-leader-what-are-the-key-skills-experiences-needed-for-a-successful-transition-i1a)
-- [How to Use Dependency Injection with Node.js](https://dev.to/amplication/how-to-use-dependency-injection-with-nodejs-4ajh)
-- [Unlocking Potential With Top 10 Node Applications](https://dev.to/dhruvil_joshi14/unlocking-potential-with-top-10-node-applications-5hb7)
 <!-- BLOG-POST-LIST:END -->
 
