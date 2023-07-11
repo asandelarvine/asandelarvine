@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Work is Valued Less in 2023](https://dev.to/philipjohnbasile/ardanlabs-o15)
-- [DAY 38 - Alien Dictionary](https://dev.to/pahujanayan/day-38-alien-dictionary-bga)
-- [7 Things Worth Knowing About Lambda Functions](https://dev.to/aws-builders/7-things-worth-knowing-about-lambda-functions-517e)
-- [C Development is a Mess](https://dev.to/hanna/c-development-is-a-mess-4efp)
+- [kodalamada yardımcı yapay zeka uygulamaları chat gpt tarafından önerildi :D](https://dev.to/mustafacam/kodalamada-yardimci-yapay-zeka-uygulamalar-52d6)
+- [Delve into HTML canvas: The underlying solutions in my project.](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a)
+- [Building Portfolio: Add Pages](https://dev.to/adiatiayu/building-portfolio-add-pages-55fc)
+- [Veeam Backup para AWS: Protege tus datos en la nube de manera sencilla](https://dev.to/juliafmorgado/veeam-backup-para-aws-protege-tus-datos-en-la-nube-de-manera-sencilla-2dil)
 <!-- BLOG-POST-LIST:END -->
 
