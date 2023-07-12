@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://dev.to/renanfranca/accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14)
+- [Free Open-Source Blog Template ✏️📃](https://dev.to/danielcgilibert/free-open-source-blog-template-3i43)
 - [Validating Base64 Images by Size in Laravel: A How-to Guide](https://dev.to/asifroyal/validating-base64-images-by-size-in-laravel-a-how-to-guide-20na)
 - [How to Prepare for AWS Developer Associate Certification &lpar;DVA-C02&rpar; Exam in 2023](https://dev.to/akankshapatwa/how-to-prepare-for-aws-developer-associate-certification-dva-c02-exam-in-2023-am0)
-- [What&#39;s the Best Practice for Auth and Why](https://dev.to/zenstack/whats-the-best-practice-for-auth-and-why-3a60)
-- [Welcome Thread - v233](https://dev.to/devteam/welcome-thread-v235-138i)
 <!-- BLOG-POST-LIST:END -->
 
