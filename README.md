@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Profitable Crypto Automatic Trading Bot](https://dev.to/nora_3/how-to-create-a-profitable-crypto-automatic-trading-bot-2g0a)
-- [AIModels.fyi update - New additions to the site](https://dev.to/mikeyoung44/aimodelsfyi-update-new-additions-to-the-site-3nf3)
-- [📊 How to Create Pareto Charts in JavaScript 📈](https://dev.to/andreykh/how-to-create-pareto-charts-in-javascript-fmd)
-- [How to test an async function to throw an exception in Jest](https://dev.to/darkmavis1980/how-to-test-an-async-function-to-throw-an-exception-in-jest-3a90)
+- [Best AI Test Automation Tools in 2023](https://dev.to/rohits613/best-ai-test-automation-tools-in-2023-4cp2)
+- [Modern Data Stack: A Hands-on Guide with Airbyte, Snowflake, and dbt&lpar;data build tool&rpar;](https://dev.to/grayhat/modern-data-stack-a-hands-on-guide-with-airbyte-snowflake-and-dbtdata-build-tool-3obi)
+- [Easy Tutorial: How to Create an Express API for Beginners](https://dev.to/rgolawski/easy-tutorial-how-to-create-an-express-api-for-beginners-3437)
+- [Health and Fruit](https://dev.to/elitesuper/health-and-fruit-3hm6)
 <!-- BLOG-POST-LIST:END -->
 
