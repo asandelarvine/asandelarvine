@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey in Bitcoin Summer Code of Camp: Lessons Learned](https://dev.to/nightbird07/my-journey-in-bitcoin-summer-code-of-camp-lessons-learned-1700)
-- [Top 6 Free APIs to improve developer productivity](https://dev.to/newsdataio/top-6-free-apis-to-improve-developer-productivity-2bl1)
-- [Juniors Should be Seniors Someday!](https://dev.to/westernal/juniors-should-be-seniors-someday-35g0)
-- [Transition between pages smoothly with a single line of code](https://dev.to/starbist/transition-between-pages-smoothly-with-a-single-line-of-code-3cea)
+- [How to Create a Profitable Crypto Automatic Trading Bot](https://dev.to/nora_3/how-to-create-a-profitable-crypto-automatic-trading-bot-2g0a)
+- [AIModels.fyi update - New additions to the site](https://dev.to/mikeyoung44/aimodelsfyi-update-new-additions-to-the-site-3nf3)
+- [📊 How to Create Pareto Charts in JavaScript 📈](https://dev.to/andreykh/how-to-create-pareto-charts-in-javascript-fmd)
+- [How to test an async function to throw an exception in Jest](https://dev.to/darkmavis1980/how-to-test-an-async-function-to-throw-an-exception-in-jest-3a90)
 <!-- BLOG-POST-LIST:END -->
 
