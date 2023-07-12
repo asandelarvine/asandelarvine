@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Api Docs v2.0-beta prototype for NestJS 😻 🚀](https://dev.to/tony133/api-docs-v20-beta-prototype-for-nestjs-3jdj)
+- [Calculating the Average Execution Price of MARKET Orders on the Binance API](https://dev.to/oler/calculating-the-average-execution-price-of-market-orders-on-the-binance-api-36f8)
+- [Calculando o preço médio de execução de ordens MARKET na Binance API](https://dev.to/oler/calculando-o-preco-medio-de-execucao-de-ordens-market-na-binance-api-3c39)
 - [Microsoft at EuroPython 2023](https://dev.to/europython/microsoft-at-europython-2023-5587)
-- [Unveiling the Sudo Heap Overflow Vulnerability &lpar;CVE-2021-3156&rpar;: A Critical Security Flaw Reappears](https://dev.to/tutorialboy/unveiling-the-sudo-heap-overflow-vulnerability-cve-2021-3156-a-critical-security-flaw-reappears-1ocf)
-- [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
-- [The Magic of Empty Git Commit](https://dev.to/pradumnasaraf/the-magic-of-empty-git-commit-1di4)
 <!-- BLOG-POST-LIST:END -->
 
