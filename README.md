@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://dev.to/renanfranca/accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14)
-- [Free Open-Source Blog Template ✏️📃](https://dev.to/danielcgilibert/free-open-source-blog-template-3i43)
-- [Validating Base64 Images by Size in Laravel: A How-to Guide](https://dev.to/asifroyal/validating-base64-images-by-size-in-laravel-a-how-to-guide-20na)
-- [How to Prepare for AWS Developer Associate Certification &lpar;DVA-C02&rpar; Exam in 2023](https://dev.to/akankshapatwa/how-to-prepare-for-aws-developer-associate-certification-dva-c02-exam-in-2023-am0)
+- [My Journey in Bitcoin Summer Code of Camp: Lessons Learned](https://dev.to/nightbird07/my-journey-in-bitcoin-summer-code-of-camp-lessons-learned-1700)
+- [Top 6 Free APIs to improve developer productivity](https://dev.to/newsdataio/top-6-free-apis-to-improve-developer-productivity-2bl1)
+- [Juniors Should be Seniors Someday!](https://dev.to/westernal/juniors-should-be-seniors-someday-35g0)
+- [Transition between pages smoothly with a single line of code](https://dev.to/starbist/transition-between-pages-smoothly-with-a-single-line-of-code-3cea)
 <!-- BLOG-POST-LIST:END -->
 
