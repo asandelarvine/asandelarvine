@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Top 10 Useful Repositories for Web Developers](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
 - [HugoConf 2023](https://dev.to/cloudcannon/hugoconf-2023-5dgo)
+- [Bandit Level 2 Level 3](https://dev.to/christianpaez/bandit-level-2-level-3-2joi)
 - [Introduction to Cross-Platform Mobile Development](https://dev.to/kemifrank/introduction-to-cross-platform-mobile-development-5g27)
-- [Merging old repos into a monolithic git repo archive](https://dev.to/ctooley/merging-old-repos-into-a-monolithic-git-repo-archive-4c7h)
 <!-- BLOG-POST-LIST:END -->
 
