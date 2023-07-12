@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PrimeVue Unstyled Mode with Tailwind and Bootstrap Styling](https://dev.to/cagataycivici/primevue-unstyled-mode-with-tailwind-and-bootstrap-styling-5d6e)
-- [From Mid to Senior: A Failure to Communicate](https://dev.to/inovak/from-mid-to-senior-a-failure-to-communicate-4pb6)
-- [Next.js Hangout Thread](https://dev.to/vulcanwm/nextjs-hangout-thread-4l1h)
-- [Multi-Role User Authentication in Django Rest Framework](https://dev.to/forhadakhan/multi-role-user-authentication-in-django-rest-framework-3nip)
+- [Starting Career With Android was a Bad Idea](https://dev.to/mohammadfaisal/starting-career-with-android-was-a-bad-idea-4d3i)
+- [Air Quality App with Enhance](https://dev.to/begin/air-quality-app-with-enhance-1c8d)
+- [API’s role in digital government: 10 national best practices](https://dev.to/apisix/apis-role-in-digital-government-10-national-best-practices-1plf)
+- [How to Install pnpm with npm on Windows 11](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)
 <!-- BLOG-POST-LIST:END -->
 
