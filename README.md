@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Optimizing Costs in AWS: Maximizing Cost-efficiency for Cloud Resource Management](https://dev.to/jito/strategies-for-optimizing-costs-in-aws-maximizing-cost-efficiency-for-cloud-resource-management-4031)
-- [Setting Up Pre-Commit Hooks in GitHub: Ensuring Code Quality and Consistency](https://dev.to/angu10/setting-up-pre-commit-hooks-in-github-ensuring-code-quality-and-consistency-289n)
-- [ARIA: Saving the World, One Accessible Web App at a Time!](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
-- [Exploring the NoSQL Powerhouse Amazon DynamoDB](https://dev.to/brandondamue/exploring-the-nosql-powerhouse-amazon-dynamodb-394b)
+- [HugoConf 2023](https://dev.to/cloudcannon/hugoconf-2023-5dgo)
+- [Introduction to Cross-Platform Mobile Development](https://dev.to/kemifrank/introduction-to-cross-platform-mobile-development-5g27)
+- [Merging old repos into a monolithic git repo archive](https://dev.to/ctooley/merging-old-repos-into-a-monolithic-git-repo-archive-4c7h)
+- [Angular Micro-frontends](https://dev.to/combimauri/angular-micro-frontends-4fe7)
 <!-- BLOG-POST-LIST:END -->
 
