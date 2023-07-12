@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Role User Authentication in Django Rest Framework](https://dev.to/forhadakhan/multi-role-user-authentication-in-django-rest-framework-3nip)
+- [JavaScript Development Trends in 2023](https://dev.to/arsalanmee/javascript-development-trends-in-2023-4ag3)
+- [Node.js server-side authentication: Tokens vs. JWT](https://dev.to/logrocket/nodejs-server-side-authentication-tokens-vs-jwt-9bd)
 - [Top 20 Must-Know Tips for Web Accessibility](https://dev.to/ismaestro/top-20-must-know-tips-for-web-accessibility-452)
-- [Add image to draft-js editor &lpar;no plugin&rpar;](https://dev.to/hpouyanmehr/add-image-to-draft-js-editor-no-plugin-3i4g)
-- [Please don&#39;t write confusing conditionals](https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32)
-- [Best AI Test Automation Tools in 2023](https://dev.to/rohits613/best-ai-test-automation-tools-in-2023-4cp2)
 <!-- BLOG-POST-LIST:END -->
 
