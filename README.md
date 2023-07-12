@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Reasons to Show Why You Need Animated Videos for Business](https://dev.to/berack/8-reasons-to-show-why-you-need-animated-videos-for-business-2i2a)
-- [Off-the-shelf Software &lpar;SaaS&rpar; vs Custom Software Development: Which is Best for Your Service-Based Business?](https://dev.to/berack/off-the-shelf-software-saas-vs-custom-software-development-which-is-best-for-your-service-based-business-29i3)
-- [The Many Benefits of Offshore Development](https://dev.to/berack/the-many-benefits-of-offshore-development-3k5a)
-- [Comprehensive List of Tech Stack for Mobile App Developers](https://dev.to/berack/comprehensive-list-of-tech-stack-for-mobile-app-developers-570d)
+- [Validating Base64 Images by Size in Laravel: A How-to Guide](https://dev.to/asifroyal/validating-base64-images-by-size-in-laravel-a-how-to-guide-20na)
+- [How to Prepare for AWS Developer Associate Certification &lpar;DVA-C02&rpar; Exam in 2023](https://dev.to/akankshapatwa/how-to-prepare-for-aws-developer-associate-certification-dva-c02-exam-in-2023-am0)
+- [What&#39;s the Best Practice for Auth and Why](https://dev.to/zenstack/whats-the-best-practice-for-auth-and-why-3a60)
+- [Welcome Thread - v233](https://dev.to/devteam/welcome-thread-v235-138i)
 <!-- BLOG-POST-LIST:END -->
 
