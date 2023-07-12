@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 20 Must-Know Tips for Web Accessibility](https://dev.to/ismaestro/top-20-must-know-tips-for-web-accessibility-452)
+- [Add image to draft-js editor &lpar;no plugin&rpar;](https://dev.to/hpouyanmehr/add-image-to-draft-js-editor-no-plugin-3i4g)
+- [Please don&#39;t write confusing conditionals](https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32)
 - [Best AI Test Automation Tools in 2023](https://dev.to/rohits613/best-ai-test-automation-tools-in-2023-4cp2)
-- [Modern Data Stack: A Hands-on Guide with Airbyte, Snowflake, and dbt&lpar;data build tool&rpar;](https://dev.to/grayhat/modern-data-stack-a-hands-on-guide-with-airbyte-snowflake-and-dbtdata-build-tool-3obi)
-- [Easy Tutorial: How to Create an Express API for Beginners](https://dev.to/rgolawski/easy-tutorial-how-to-create-an-express-api-for-beginners-3437)
-- [Health and Fruit](https://dev.to/elitesuper/health-and-fruit-3hm6)
 <!-- BLOG-POST-LIST:END -->
 
