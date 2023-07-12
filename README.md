@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate, The Power of Human in the Loop](https://dev.to/wyattdave/power-automate-the-power-of-human-in-the-loop-1fp8)
-- [The toolkit-use npm package has added commonly used DOM methods.](https://dev.to/toolkituse/the-toolkit-use-npm-package-has-added-commonly-used-dom-methods-4dcb)
-- [Size Matters](https://dev.to/crabnebula/size-matters-1dlo)
-- [Tech Icon Keynote or Hackathon Triumph: Which Event Excites You More?](https://dev.to/devteam/tech-icon-keynote-or-hackathon-triumph-which-event-excites-you-more-27p5)
+- [8 Reasons to Show Why You Need Animated Videos for Business](https://dev.to/berack/8-reasons-to-show-why-you-need-animated-videos-for-business-2i2a)
+- [Off-the-shelf Software &lpar;SaaS&rpar; vs Custom Software Development: Which is Best for Your Service-Based Business?](https://dev.to/berack/off-the-shelf-software-saas-vs-custom-software-development-which-is-best-for-your-service-based-business-29i3)
+- [The Many Benefits of Offshore Development](https://dev.to/berack/the-many-benefits-of-offshore-development-3k5a)
+- [Comprehensive List of Tech Stack for Mobile App Developers](https://dev.to/berack/comprehensive-list-of-tech-stack-for-mobile-app-developers-570d)
 <!-- BLOG-POST-LIST:END -->
 
