@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PrimeVue Unstyled Mode with Tailwind and Bootstrap Styling](https://dev.to/cagataycivici/primevue-unstyled-mode-with-tailwind-and-bootstrap-styling-5d6e)
+- [From Mid to Senior: A Failure to Communicate](https://dev.to/inovak/from-mid-to-senior-a-failure-to-communicate-4pb6)
+- [Next.js Hangout Thread](https://dev.to/vulcanwm/nextjs-hangout-thread-4l1h)
 - [Multi-Role User Authentication in Django Rest Framework](https://dev.to/forhadakhan/multi-role-user-authentication-in-django-rest-framework-3nip)
-- [JavaScript Development Trends in 2023](https://dev.to/arsalanmee/javascript-development-trends-in-2023-4ag3)
-- [Node.js server-side authentication: Tokens vs. JWT](https://dev.to/logrocket/nodejs-server-side-authentication-tokens-vs-jwt-9bd)
-- [Top 20 Must-Know Tips for Web Accessibility](https://dev.to/ismaestro/top-20-must-know-tips-for-web-accessibility-452)
 <!-- BLOG-POST-LIST:END -->
 
