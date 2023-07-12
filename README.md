@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Efficiency and Collaboration with AWS CodeArtifact: A Deep Dive into Centralized Package Management](https://dev.to/jito/unlocking-efficiency-and-collaboration-with-aws-codeartifact-a-deep-dive-into-centralized-package-management-59oi)
-- [Anybody taking advantage of Amazon Prime Day deals?](https://dev.to/michaeltharrington/anybody-taking-advantage-of-amazon-prime-day-deals-2ki6)
-- [Understanding Source Maps: Simplifying Debugging](https://dev.to/qur786/understanding-source-maps-simplifying-debugging-1ikh)
-- [Starting Career With Android was a Bad Idea](https://dev.to/mohammadfaisal/starting-career-with-android-was-a-bad-idea-4d3i)
+- [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
+- [The Magic of Empty Git Commit](https://dev.to/pradumnasaraf/the-magic-of-empty-git-commit-1di4)
+- [Is anyone still out there?](https://dev.to/javascriptcoff1/is-anyone-still-out-there-37k0)
+- [#100DaysOfOSS: Growing Skills and Real-World Experience](https://dev.to/opensauced/100daysofoss-growing-skills-and-real-world-experience-3o5k)
 <!-- BLOG-POST-LIST:END -->
 
