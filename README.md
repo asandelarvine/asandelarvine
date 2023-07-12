@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a TODO app in React Native with Supabase](https://dev.to/mrcflorian/building-a-todo-app-in-react-native-with-supabase-h2i)
-- [Top 10 Useful Repositories for Web Developers](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
-- [HugoConf 2023](https://dev.to/cloudcannon/hugoconf-2023-5dgo)
-- [Bandit Level 2 Level 3](https://dev.to/christianpaez/bandit-level-2-level-3-2joi)
+- [Size Matters](https://dev.to/crabnebula/size-matters-1dlo)
+- [Coding Problem Interview Series: How to Implement Counting Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-counting-sort-algorithm-48ng)
+- [Tech Icon Keynote or Hackathon Triumph: Which Event Excites You More?](https://dev.to/devteam/tech-icon-keynote-or-hackathon-triumph-which-event-excites-you-more-27p5)
+- [Utilizando Mixins com SCSS para criar breakpoints](https://dev.to/oler/utilizando-mixins-com-scss-para-criar-breakpoints-19a6)
 <!-- BLOG-POST-LIST:END -->
 
