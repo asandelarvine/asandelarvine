@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Power Automate, The Power of Human in the Loop](https://dev.to/wyattdave/power-automate-the-power-of-human-in-the-loop-1fp8)
+- [The toolkit-use npm package has added commonly used DOM methods.](https://dev.to/toolkituse/the-toolkit-use-npm-package-has-added-commonly-used-dom-methods-4dcb)
 - [Size Matters](https://dev.to/crabnebula/size-matters-1dlo)
-- [Coding Problem Interview Series: How to Implement Counting Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-counting-sort-algorithm-48ng)
 - [Tech Icon Keynote or Hackathon Triumph: Which Event Excites You More?](https://dev.to/devteam/tech-icon-keynote-or-hackathon-triumph-which-event-excites-you-more-27p5)
-- [Utilizando Mixins com SCSS para criar breakpoints](https://dev.to/oler/utilizando-mixins-com-scss-para-criar-breakpoints-19a6)
 <!-- BLOG-POST-LIST:END -->
 
