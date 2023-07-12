@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft at EuroPython 2023](https://dev.to/europython/microsoft-at-europython-2023-5587)
+- [Unveiling the Sudo Heap Overflow Vulnerability &lpar;CVE-2021-3156&rpar;: A Critical Security Flaw Reappears](https://dev.to/tutorialboy/unveiling-the-sudo-heap-overflow-vulnerability-cve-2021-3156-a-critical-security-flaw-reappears-1ocf)
 - [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
 - [The Magic of Empty Git Commit](https://dev.to/pradumnasaraf/the-magic-of-empty-git-commit-1di4)
-- [Is anyone still out there?](https://dev.to/javascriptcoff1/is-anyone-still-out-there-37k0)
-- [#100DaysOfOSS: Growing Skills and Real-World Experience](https://dev.to/opensauced/100daysofoss-growing-skills-and-real-world-experience-3o5k)
 <!-- BLOG-POST-LIST:END -->
 
