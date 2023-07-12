@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Api Docs v2.0-beta prototype for NestJS 😻 🚀](https://dev.to/tony133/api-docs-v20-beta-prototype-for-nestjs-3jdj)
 - [Calculating the Average Execution Price of MARKET Orders on the Binance API](https://dev.to/oler/calculating-the-average-execution-price-of-market-orders-on-the-binance-api-36f8)
 - [Calculando o preço médio de execução de ordens MARKET na Binance API](https://dev.to/oler/calculando-o-preco-medio-de-execucao-de-ordens-market-na-binance-api-3c39)
-- [Microsoft at EuroPython 2023](https://dev.to/europython/microsoft-at-europython-2023-5587)
+- [How to use mongoDB change streams as a powerful event-driven engine](https://dev.to/woovi/how-to-use-mongodb-change-streams-as-a-powerful-event-driven-engine-4d9c)
 <!-- BLOG-POST-LIST:END -->
 
