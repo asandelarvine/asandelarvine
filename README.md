@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Useful Repositories for Web Developers](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
 - [HugoConf 2023](https://dev.to/cloudcannon/hugoconf-2023-5dgo)
 - [Introduction to Cross-Platform Mobile Development](https://dev.to/kemifrank/introduction-to-cross-platform-mobile-development-5g27)
 - [Merging old repos into a monolithic git repo archive](https://dev.to/ctooley/merging-old-repos-into-a-monolithic-git-repo-archive-4c7h)
-- [Angular Micro-frontends](https://dev.to/combimauri/angular-micro-frontends-4fe7)
 <!-- BLOG-POST-LIST:END -->
 
