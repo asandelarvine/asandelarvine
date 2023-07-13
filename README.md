@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é HTTP- Internet 2/5](https://dev.to/eduardoopv/o-que-e-http-internet-25-5bd3)
 - [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
 - [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
 - [The WebXGuild Chronicles - EP#00: A Journey of Codes and Connections](https://dev.to/darkterminal/the-webxguild-chronicles-a-journey-of-codes-and-connections-00-1pga)
-- [Why Choose Vue.js for Frontend Development](https://dev.to/dreykovic/why-choose-vuejs-for-frontend-development-54h4)
 <!-- BLOG-POST-LIST:END -->
 
