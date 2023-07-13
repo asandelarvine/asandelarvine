@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing Your Node.js Application](https://dev.to/aagamezl/dockerizing-your-nodejs-application-2p02)
-- [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
-- [O Objetivo é a Mochila](https://dev.to/pedronandi/o-objetivo-e-a-mochila-4a7i)
-- [Help: How do I create an engaging blog website?](https://dev.to/evansifyke/help-how-do-i-create-an-engaging-blog-website-320h)
+- [The Ultimate Solidity Cheat Sheet for Beginners](https://dev.to/hack-solidity/the-ultimate-solidity-cheat-sheet-for-beginners-4pk9)
+- [Updates from the 97th TC39 meeting](https://dev.to/hemanth/updates-from-the-97th-tc39-meeting-1cnj)
+- [&quot;The Best Programming Languages&quot; to Learn in &quot;2023&quot;](https://dev.to/soumyadeepdey/the-best-programming-languages-to-learn-in-2023-2n5l)
+- [Adding Daily Developer Joke to GitHub README](https://dev.to/vulcanwm/adding-daily-developer-joke-to-github-readme-ap9)
 <!-- BLOG-POST-LIST:END -->
 
