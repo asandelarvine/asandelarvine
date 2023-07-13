@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Next.js Starter with App Router support](https://dev.to/medusajs/announcing-nextjs-starter-with-app-router-support-39o3)
-- [Top 5 Sectors Where API Integration Is Useful](https://dev.to/newsdataio/top-5-sectors-where-api-integration-is-useful-m1l)
-- [How Developers, CTOs, and Product Managers Are Building Internal Operational Apps in 2023](https://dev.to/astrodevil/how-developers-ctos-and-product-managers-are-building-internal-operational-apps-in-2023-4o4b)
-- [7 DEVs writing quality content about your #career](https://dev.to/jmfayard/7-devs-writing-quality-content-about-your-career-96o)
+- [GraphQL - ReactJS Fetch Data](https://dev.to/shubhamtiwari909/graphql-reactjs-fetch-data-19g6)
+- [Invoking OpenAI&#39;s ChatGPT from 6 different programming languages](https://dev.to/polterguy/invoking-openais-chatgpt-from-6-different-programming-languages-191f)
+- [How to Optimize Your Magento Store for Better Performance](https://dev.to/samuleduke/how-to-optimize-your-magento-store-for-better-performance-1f68)
+- [Instrumentation for Event Driven](https://dev.to/woovi/instrumentation-for-event-driven-3k1m)
 <!-- BLOG-POST-LIST:END -->
 
