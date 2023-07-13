@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Choose Vue.js for Frontend Development](https://dev.to/dreykovic/why-choose-vuejs-for-frontend-development-54h4)
+- [5 AI tools for developers to help boost your productivity](https://dev.to/logrocket/5-ai-tools-for-developers-to-help-boost-your-productivity-2n53)
+- [Skip-Level Meeting: 2023 Questions &amp; Tips Guide](https://dev.to/anthonypelle/skip-level-meeting-2023-questions-tips-guide-289j)
 - [How to upload videos on dev.to 🧠](https://dev.to/schbenedikt/how-to-upload-videos-on-devto-1oim)
-- [The Ultimate Solidity Cheat Sheet for Beginners](https://dev.to/hack-solidity/the-ultimate-solidity-cheat-sheet-for-beginners-4pk9)
-- [Updates from the 97th TC39 meeting](https://dev.to/hemanth/updates-from-the-97th-tc39-meeting-1cnj)
-- [&quot;The Best Programming Languages&quot; to Learn in &quot;2023&quot;](https://dev.to/soumyadeepdey/the-best-programming-languages-to-learn-in-2023-2n5l)
 <!-- BLOG-POST-LIST:END -->
 
