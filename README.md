@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
+- [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
+- [The WebXGuild Chronicles - EP#00: A Journey of Codes and Connections](https://dev.to/darkterminal/the-webxguild-chronicles-a-journey-of-codes-and-connections-00-1pga)
 - [Why Choose Vue.js for Frontend Development](https://dev.to/dreykovic/why-choose-vuejs-for-frontend-development-54h4)
-- [5 AI tools for developers to help boost your productivity](https://dev.to/logrocket/5-ai-tools-for-developers-to-help-boost-your-productivity-2n53)
-- [Skip-Level Meeting: 2023 Questions &amp; Tips Guide](https://dev.to/anthonypelle/skip-level-meeting-2023-questions-tips-guide-289j)
-- [How to upload videos on dev.to 🧠](https://dev.to/schbenedikt/how-to-upload-videos-on-devto-1oim)
 <!-- BLOG-POST-LIST:END -->
 
