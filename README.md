@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [New storage utility methods added to the toolkit-use npm package](https://dev.to/toolkituse/new-storage-utility-methods-added-to-the-toolkit-use-npm-package-8ha)
 - [Enhancing Python Code Quality: A Comprehensive Guide to Linting with Ruff](https://dev.to/ken_mwaura1/enhancing-python-code-quality-a-comprehensive-guide-to-linting-with-ruff-3d6g)
+- [How to Use Arduino IDE with Raspberry Pi Pico W](https://dev.to/shilleh/how-to-use-arduino-ide-with-raspberry-pi-pico-w-5c95)
 - [Let&#39;s dive in to Cross-Origin](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
-- [7 Best Websites Every Developer Should Bookmark in 2023](https://dev.to/durgesh4993/7-best-websites-every-developer-should-bookmark-in-2023-31mg)
 <!-- BLOG-POST-LIST:END -->
 
