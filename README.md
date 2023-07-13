@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Next.js Starter with App Router support](https://dev.to/medusajs/announcing-nextjs-starter-with-app-router-support-39o3)
 - [Top 5 Sectors Where API Integration Is Useful](https://dev.to/newsdataio/top-5-sectors-where-api-integration-is-useful-m1l)
 - [How Developers, CTOs, and Product Managers Are Building Internal Operational Apps in 2023](https://dev.to/astrodevil/how-developers-ctos-and-product-managers-are-building-internal-operational-apps-in-2023-4o4b)
 - [7 DEVs writing quality content about your #career](https://dev.to/jmfayard/7-devs-writing-quality-content-about-your-career-96o)
-- [Reactive database access on the JVM](https://dev.to/nfrankel/reactive-database-access-on-the-jvm-5bb6)
 <!-- BLOG-POST-LIST:END -->
 
