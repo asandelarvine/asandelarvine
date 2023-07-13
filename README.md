@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to upload videos on dev.to 🧠](https://dev.to/schbenedikt/how-to-upload-videos-on-devto-1oim)
 - [The Ultimate Solidity Cheat Sheet for Beginners](https://dev.to/hack-solidity/the-ultimate-solidity-cheat-sheet-for-beginners-4pk9)
 - [Updates from the 97th TC39 meeting](https://dev.to/hemanth/updates-from-the-97th-tc39-meeting-1cnj)
 - [&quot;The Best Programming Languages&quot; to Learn in &quot;2023&quot;](https://dev.to/soumyadeepdey/the-best-programming-languages-to-learn-in-2023-2n5l)
-- [Adding Daily Developer Joke to GitHub README](https://dev.to/vulcanwm/adding-daily-developer-joke-to-github-readme-ap9)
 <!-- BLOG-POST-LIST:END -->
 
