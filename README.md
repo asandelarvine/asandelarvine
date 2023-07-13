@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to cstring in C++](https://dev.to/emilossola/a-comprehensive-guide-to-cstring-in-c-37ha)
-- [Disable anonymous bind for OpenLDAP in Centos7](https://dev.to/joeho888/disable-anonymous-bind-for-openldap-in-centos7-1pmo)
-- [A Step-by-Step Guide for Deploying a Node.js GraphQL Server to AWS Lambda with GitHub Actions and Terraform](https://dev.to/stretch0/a-step-by-step-guide-for-deploying-a-nodejs-graphql-server-to-aws-lambda-with-github-actions-and-terraform-1e1c)
-- [😶‍🌫️ The Invisible Threat to Your Project&#39;s Success &lpar;And How to Deal With It&rpar;](https://dev.to/evergrowingdev/the-invisible-threat-to-your-projects-success-and-how-to-deal-with-it-44pa)
+- [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
+- [Help: How do I create an engaging blog website?](https://dev.to/evansifyke/help-how-do-i-create-an-engaging-blog-website-320h)
+- [Astro Framework](https://dev.to/this-is-learning/astro-framework-169m)
+- [What is localeCompare in JS&lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-localecompare-in-jsjavascript--3jjk)
 <!-- BLOG-POST-LIST:END -->
 
