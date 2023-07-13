@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizing Your Node.js Application](https://dev.to/aagamezl/dockerizing-your-nodejs-application-2p02)
 - [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
+- [O Objetivo é a Mochila](https://dev.to/pedronandi/o-objetivo-e-a-mochila-4a7i)
 - [Help: How do I create an engaging blog website?](https://dev.to/evansifyke/help-how-do-i-create-an-engaging-blog-website-320h)
-- [Astro Framework](https://dev.to/this-is-learning/astro-framework-169m)
-- [What is localeCompare in JS&lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-localecompare-in-jsjavascript--3jjk)
 <!-- BLOG-POST-LIST:END -->
 
