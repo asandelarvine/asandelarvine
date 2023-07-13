@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to strengthen security in your CI/CD pipeline](https://dev.to/snyk/how-to-strengthen-security-in-your-cicd-pipeline-750)
+- [Enhancing Website Accessibility: A Guide for Supporting Users with Disabilities](https://dev.to/uzafar90/enhancing-website-accessibility-a-guide-for-supporting-users-with-disabilities-3cci)
+- [A Step-by-Step Guide to Creating Audio Transcripts with Amazon Transcribe](https://dev.to/arbythecoder/a-step-by-step-guide-to-creating-audio-transcripts-with-amazon-transcribe-4mjg)
 - [Managing Rolling Updates in AWS AutoScaling Groups with AWS CloudFormation Update Policy: Part 1](https://dev.to/obabawale/managing-rolling-updates-in-aws-autoscaling-groups-with-aws-cloudformation-update-policy-part-1-3jhj)
-- [tsParticles 2.11.0 Released](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
-- [Api Docs v2.0-beta prototype for NestJS 😻 🚀](https://dev.to/tony133/api-docs-v20-beta-prototype-for-nestjs-3jdj)
-- [Calculating the Average Execution Price of MARKET Orders on the Binance API](https://dev.to/oler/calculating-the-average-execution-price-of-market-orders-on-the-binance-api-36f8)
 <!-- BLOG-POST-LIST:END -->
 
