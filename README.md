@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance your ChatGPT experience with this user script](https://dev.to/okokdi/enhance-your-chatgpt-experience-with-this-user-script-kg3)
+- [Automate DevOps – Tasks DevOps Should Automate](https://dev.to/gitprotect/automate-devops-tasks-devops-should-automate-2fg3)
 - [Lazy Model in Daxus](https://dev.to/jason89521/lazy-model-in-daxus-5550)
-- [Monolingual Maestro or Polyglot Prodigy: Which Programming Path Resonates with You?](https://dev.to/devteam/monolingual-maestro-or-polyglot-prodigy-which-programming-path-resonates-with-you-aeg)
 - [Coding Problem Interview Series: How to Find the First Non-Repeated Character in a String?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-find-the-first-non-repeated-character-in-a-string-3ha1)
-- [From Connected Devices to Smart Homes: Tracing the Evolution of IoT](https://dev.to/cybersoft/from-connected-devices-to-smart-homes-tracing-the-evolution-of-iot-38c0)
 <!-- BLOG-POST-LIST:END -->
 
