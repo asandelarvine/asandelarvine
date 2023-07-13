@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Python Code Quality: A Comprehensive Guide to Linting with Ruff](https://dev.to/ken_mwaura1/enhancing-python-code-quality-a-comprehensive-guide-to-linting-with-ruff-3d6g)
+- [Let&#39;s dive in to Cross-Origin](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
+- [7 Best Websites Every Developer Should Bookmark in 2023](https://dev.to/durgesh4993/7-best-websites-every-developer-should-bookmark-in-2023-31mg)
 - [How to strengthen security in your CI/CD pipeline](https://dev.to/snyk/how-to-strengthen-security-in-your-cicd-pipeline-750)
-- [Enhancing Website Accessibility: A Guide for Supporting Users with Disabilities](https://dev.to/uzafar90/enhancing-website-accessibility-a-guide-for-supporting-users-with-disabilities-3cci)
-- [A Step-by-Step Guide to Creating Audio Transcripts with Amazon Transcribe](https://dev.to/arbythecoder/a-step-by-step-guide-to-creating-audio-transcripts-with-amazon-transcribe-4mjg)
-- [Managing Rolling Updates in AWS AutoScaling Groups with AWS CloudFormation Update Policy: Part 1](https://dev.to/obabawale/managing-rolling-updates-in-aws-autoscaling-groups-with-aws-cloudformation-update-policy-part-1-3jhj)
 <!-- BLOG-POST-LIST:END -->
 
