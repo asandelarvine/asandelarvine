@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New storage utility methods added to the toolkit-use npm package](https://dev.to/toolkituse/new-storage-utility-methods-added-to-the-toolkit-use-npm-package-8ha)
-- [Enhancing Python Code Quality: A Comprehensive Guide to Linting with Ruff](https://dev.to/ken_mwaura1/enhancing-python-code-quality-a-comprehensive-guide-to-linting-with-ruff-3d6g)
-- [How to Use Arduino IDE with Raspberry Pi Pico W](https://dev.to/shilleh/how-to-use-arduino-ide-with-raspberry-pi-pico-w-5c95)
-- [Let&#39;s dive in to Cross-Origin](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
+- [Lazy Model in Daxus](https://dev.to/jason89521/lazy-model-in-daxus-5550)
+- [Monolingual Maestro or Polyglot Prodigy: Which Programming Path Resonates with You?](https://dev.to/devteam/monolingual-maestro-or-polyglot-prodigy-which-programming-path-resonates-with-you-aeg)
+- [Coding Problem Interview Series: How to Find the First Non-Repeated Character in a String?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-find-the-first-non-repeated-character-in-a-string-3ha1)
+- [From Connected Devices to Smart Homes: Tracing the Evolution of IoT](https://dev.to/cybersoft/from-connected-devices-to-smart-homes-tracing-the-evolution-of-iot-38c0)
 <!-- BLOG-POST-LIST:END -->
 
