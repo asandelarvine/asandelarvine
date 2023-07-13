@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Rolling Updates in AWS AutoScaling Groups with AWS CloudFormation Update Policy: Part 1](https://dev.to/obabawale/managing-rolling-updates-in-aws-autoscaling-groups-with-aws-cloudformation-update-policy-part-1-3jhj)
+- [tsParticles 2.11.0 Released](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
 - [Api Docs v2.0-beta prototype for NestJS 😻 🚀](https://dev.to/tony133/api-docs-v20-beta-prototype-for-nestjs-3jdj)
 - [Calculating the Average Execution Price of MARKET Orders on the Binance API](https://dev.to/oler/calculating-the-average-execution-price-of-market-orders-on-the-binance-api-36f8)
-- [Calculando o preço médio de execução de ordens MARKET na Binance API](https://dev.to/oler/calculando-o-preco-medio-de-execucao-de-ordens-market-na-binance-api-3c39)
-- [How to use mongoDB change streams as a powerful event-driven engine](https://dev.to/woovi/how-to-use-mongodb-change-streams-as-a-powerful-event-driven-engine-4d9c)
 <!-- BLOG-POST-LIST:END -->
 
