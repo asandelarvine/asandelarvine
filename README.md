@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming an Exceptional Git Contributor: A Guide to Effective Collaboration](https://dev.to/stackcodify/becoming-an-exceptional-git-contributor-a-guide-to-effective-collaboration-465i)
 - [O que é HTTP- Internet 2/5](https://dev.to/eduardoopv/o-que-e-http-internet-25-5bd3)
 - [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
 - [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
-- [The WebXGuild Chronicles - EP#00: A Journey of Codes and Connections](https://dev.to/darkterminal/the-webxguild-chronicles-a-journey-of-codes-and-connections-00-1pga)
 <!-- BLOG-POST-LIST:END -->
 
