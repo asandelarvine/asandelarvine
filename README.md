@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance your ChatGPT experience with this user script](https://dev.to/okokdi/enhance-your-chatgpt-experience-with-this-user-script-kg3)
-- [Automate DevOps – Tasks DevOps Should Automate](https://dev.to/gitprotect/automate-devops-tasks-devops-should-automate-2fg3)
-- [Lazy Model in Daxus](https://dev.to/jason89521/lazy-model-in-daxus-5550)
-- [Coding Problem Interview Series: How to Find the First Non-Repeated Character in a String?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-find-the-first-non-repeated-character-in-a-string-3ha1)
+- [Reactive database access on the JVM](https://dev.to/nfrankel/reactive-database-access-on-the-jvm-5bb6)
+- [Exploring Cross-Site Scripting with React and Tauri](https://dev.to/crabnebula/exploring-cross-site-scripting-with-react-and-tauri-2aoa)
+- [The Advantages of Open Source Contributions: A Comprehensive Guide to Engaging with Apache AGE](https://dev.to/shelenderrkumar/the-advantages-of-open-source-contribution-a-comprehensive-guide-to-engaging-with-apache-age-354i)
+- [Serverless and event-driven design thinking](https://dev.to/aws-builders/serverless-and-event-driven-design-thinking-24jf)
 <!-- BLOG-POST-LIST:END -->
 
