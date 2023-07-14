@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategy to find your next business idea](https://dev.to/shreyvijayvargiya/strategy-to-find-your-next-business-idea-4nj3)
+- [Tutorial: Marp for VS Code](https://dev.to/sc0v1n0/tutorial-marp-for-vs-code-5d6k)
 - [Navigating Streamlined Docker container Deployment on AWS](https://dev.to/docker/navigating-streamlined-docker-container-deployment-on-aws-1of9)
-- [PostgreSQL and Apache Age as a stand-alone Approach](https://dev.to/salarzaisuhaib/postgresql-and-apache-age-as-a-stand-alone-approach-35mi)
-- [DEV Office Tour v5](https://dev.to/codenewbieteam/dev-office-tour-v5-26n1)
-- [Tail call optimization in ES6&lpar;javascript&rpar; in easy language](https://dev.to/diwakarkashyap/tail-call-optimization-in-es6javascript-in-easy-language-11e6)
+- [Demystifying Content Delivery Networks &lpar;CDNs&rpar;: Boosting Performance and Global Accessibility](https://dev.to/udara_dananjaya/demystifying-content-delivery-networks-cdns-boosting-performance-and-global-accessibility-5f1p)
 <!-- BLOG-POST-LIST:END -->
 
