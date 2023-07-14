@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use ChatGPT to generate &#39;infinite&#39; amount of High Quality SEO articles](https://dev.to/polterguy/use-chatgpt-to-generate-infinite-amount-of-high-quality-seo-articles-1ha9)
-- [Elon Musk Launches xAI: A New Venture to Unravel the Mysteries of the Universe 🚀💡](https://dev.to/arjuncodess/elon-musk-launches-xai-a-new-venture-to-unravel-the-mysteries-of-the-universe-i84)
-- [Navigation With Compose](https://dev.to/marialuizacs/navigation-with-compose-3lca)
-- [The Ultimate Guide to Securing Your Linux VPS](https://dev.to/josiepeterson/the-ultimate-guide-to-securing-your-linux-vps-2daf)
+- [The WebXGuild Chronicles - #01C01: The Symphony of Seamless Integration](https://dev.to/darkterminal/the-webxguild-chronicles-01c01-the-symphony-of-seamless-integration-2mbn)
+- [If you could choose only one tech stack for the rest of your life, what would you choose?](https://dev.to/sadeedpv/if-you-could-choose-only-one-tech-stack-for-the-rest-of-your-life-what-would-you-choose-5e11)
+- [Creating custom subtitles using python and ffmpeg](https://dev.to/friendlyuser/creating-custom-subtitles-using-python-and-ffmpeg-41hb)
+- [The WebXGuild Chronicles - #01C00: The Last &lpar;but not the last&rpar; Discussion on the GitHub Discussion Thread](https://dev.to/darkterminal/the-webxguild-chronicles-01c00-the-last-but-not-the-last-discussion-on-the-github-discussion-thread-1k2p)
 <!-- BLOG-POST-LIST:END -->
 
