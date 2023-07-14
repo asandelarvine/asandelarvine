@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Streamlined Docker container Deployment on AWS](https://dev.to/docker/navigating-streamlined-docker-container-deployment-on-aws-1of9)
+- [PostgreSQL and Apache Age as a stand-alone Approach](https://dev.to/salarzaisuhaib/postgresql-and-apache-age-as-a-stand-alone-approach-35mi)
 - [DEV Office Tour v5](https://dev.to/codenewbieteam/dev-office-tour-v5-26n1)
 - [Tail call optimization in ES6&lpar;javascript&rpar; in easy language](https://dev.to/diwakarkashyap/tail-call-optimization-in-es6javascript-in-easy-language-11e6)
-- [Exploring the Advantages of PostgreSQL &lpar;part-1&rpar;](https://dev.to/hassanrehan/exploring-the-advantages-of-postgresql-bkf)
-- [File handling 101 in Node Js](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di)
 <!-- BLOG-POST-LIST:END -->
 
