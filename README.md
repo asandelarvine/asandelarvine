@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DEV Office Tour v5](https://dev.to/codenewbieteam/dev-office-tour-v5-26n1)
+- [Tail call optimization in ES6&lpar;javascript&rpar; in easy language](https://dev.to/diwakarkashyap/tail-call-optimization-in-es6javascript-in-easy-language-11e6)
 - [Exploring the Advantages of PostgreSQL &lpar;part-1&rpar;](https://dev.to/hassanrehan/exploring-the-advantages-of-postgresql-bkf)
 - [File handling 101 in Node Js](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di)
-- [Getting comfortable with PostgreSQL](https://dev.to/yosefahab/getting-comfortable-with-postgresql-18d3)
-- [The WebXGuild Chronicles - #01C01: The Symphony of Seamless Integration](https://dev.to/darkterminal/the-webxguild-chronicles-01c01-the-symphony-of-seamless-integration-2mbn)
 <!-- BLOG-POST-LIST:END -->
 
