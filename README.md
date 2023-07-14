@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [toolkit-use npm package have added some functions](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
 - [Becoming an Exceptional Git Contributor: A Guide to Effective Collaboration](https://dev.to/stackcodify/becoming-an-exceptional-git-contributor-a-guide-to-effective-collaboration-465i)
 - [O que é HTTP- Internet 2/5](https://dev.to/eduardoopv/o-que-e-http-internet-25-5bd3)
-- [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
-- [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
+- [Building a Simple Weather App With AWS Lambda and API Gateway](https://dev.to/aws-builders/building-a-simple-weather-app-with-aws-lambda-and-api-gateway-8bi)
 <!-- BLOG-POST-LIST:END -->
 
