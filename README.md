@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn: Networking Goldmine or Overrated Hype?](https://dev.to/devteam/linkedin-networking-goldmine-or-overrated-hype-1mij)
+- [Coding Problem Interview Series: How to Count Character Occurrences in a String?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-count-character-occurrences-in-a-string-1892)
 - [Writing a Transmission Control Protocol stack in Python](https://dev.to/haszankauna/writing-a-transmission-control-protocol-stack-in-python-3p6)
 - [Building a ChatGPT custom plugin for API Gateway](https://dev.to/apisix/building-a-chatgpt-custom-plugin-for-api-gateway-3176)
-- [15 Advanced TypeScript Tips for Development](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
-- [Command Line Application: Bank Loan Tracker [Node]](https://dev.to/bekbrace/command-line-application-bank-loan-tracker-node-56ni)
 <!-- BLOG-POST-LIST:END -->
 
