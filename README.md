@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ingesting Data into OpenSearch using Apache Kafka and Go](https://dev.to/abhirockzz/ingesting-data-into-opensearch-using-apache-kafka-and-go-4j7f)
+- [A Comprehensive Beginner&#39;s Guide to NPM: Simplifying Package Management](https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5)
 - [toolkit-use npm package have added some functions](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
 - [Becoming an Exceptional Git Contributor: A Guide to Effective Collaboration](https://dev.to/stackcodify/becoming-an-exceptional-git-contributor-a-guide-to-effective-collaboration-465i)
-- [O que é HTTP- Internet 2/5](https://dev.to/eduardoopv/o-que-e-http-internet-25-5bd3)
-- [Building a Simple Weather App With AWS Lambda and API Gateway](https://dev.to/aws-builders/building-a-simple-weather-app-with-aws-lambda-and-api-gateway-8bi)
 <!-- BLOG-POST-LIST:END -->
 
