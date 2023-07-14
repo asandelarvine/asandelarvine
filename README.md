@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Your Rate as a Content Creator](https://dev.to/alessiacara753/how-to-set-your-rate-as-a-content-creator-3id5)
+- [Introducing Flame graphs: It’s getting hot in here](https://dev.to/appmap/introducing-flame-graphs-its-getting-hot-in-here-1j9l)
 - [Strategy to find your next business idea](https://dev.to/shreyvijayvargiya/strategy-to-find-your-next-business-idea-4nj3)
-- [Tutorial: Marp for VS Code](https://dev.to/sc0v1n0/tutorial-marp-for-vs-code-5d6k)
-- [Navigating Streamlined Docker container Deployment on AWS](https://dev.to/docker/navigating-streamlined-docker-container-deployment-on-aws-1of9)
-- [Demystifying Content Delivery Networks &lpar;CDNs&rpar;: Boosting Performance and Global Accessibility](https://dev.to/udara_dananjaya/demystifying-content-delivery-networks-cdns-boosting-performance-and-global-accessibility-5f1p)
+- [DAY 41 - Shortest Path in a Binary Matrix](https://dev.to/pahujanayan/day-41-shortest-path-in-a-binary-matrix-1lcd)
 <!-- BLOG-POST-LIST:END -->
 
