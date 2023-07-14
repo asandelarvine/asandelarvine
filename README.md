@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a Transmission Control Protocol stack in Python](https://dev.to/haszankauna/writing-a-transmission-control-protocol-stack-in-python-3p6)
+- [Building a ChatGPT custom plugin for API Gateway](https://dev.to/apisix/building-a-chatgpt-custom-plugin-for-api-gateway-3176)
 - [15 Advanced TypeScript Tips for Development](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
-- [Ingesting Data into OpenSearch using Apache Kafka and Go](https://dev.to/abhirockzz/ingesting-data-into-opensearch-using-apache-kafka-and-go-4j7f)
-- [A Comprehensive Beginner&#39;s Guide to NPM: Simplifying Package Management](https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5)
-- [20 Essential Tips for Beginner Software Engineers to Achieve Success](https://dev.to/jvertt/20-essential-tips-for-beginner-software-engineers-to-achieve-success-19ai)
+- [Command Line Application: Bank Loan Tracker [Node]](https://dev.to/bekbrace/command-line-application-bank-loan-tracker-node-56ni)
 <!-- BLOG-POST-LIST:END -->
 
