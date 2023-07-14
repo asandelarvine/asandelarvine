@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Miço Eklentisi - &quot;mico&quot; ile Başlayan Makineleri Dinamik Koleksiyona Ekleme](https://dev.to/aciklab/mico-eklentisi-mico-ile-baslayan-makineleri-dinamik-koleksiyona-ekleme-3dla)
-- [Leaked C# 12 Preview 3 Features! Worth the Wait or Not?](https://dev.to/bytehide/leaked-c-12-preview-3-features-worth-the-wait-or-not-7if)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13db)
-- [Lockfile merge conflicts, how to handle it correctly?](https://dev.to/francecil/lockfile-merge-conflicts-how-to-handle-it-correctly-588b)
+- [HTML IS JUST LIKE WRITING A WORD DOCUMENT](https://dev.to/csituma/html-is-just-like-writing-a-word-document-2m46)
+- [Mobile Development Best Practices: Strategies for Building Successful Apps for Android and iOS](https://dev.to/chkon/mobile-development-best-practices-strategies-for-building-successful-apps-for-android-and-ios-bgc)
+- [Understanding Streaming Replication in PostgreSQL](https://dev.to/hassanrehan/understanding-streaming-replication-in-postgresql-7jm)
+- [The Future Unleashed: Fully On-Chain Gaming and Its Implications for the Gaming Industry](https://dev.to/galaxiastudios/the-future-unleashed-fully-on-chain-gaming-and-its-implications-for-the-gaming-industry-1no0)
 <!-- BLOG-POST-LIST:END -->
 
