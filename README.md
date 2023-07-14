@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Advanced TypeScript Tips for Development](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
 - [Ingesting Data into OpenSearch using Apache Kafka and Go](https://dev.to/abhirockzz/ingesting-data-into-opensearch-using-apache-kafka-and-go-4j7f)
 - [A Comprehensive Beginner&#39;s Guide to NPM: Simplifying Package Management](https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5)
-- [toolkit-use npm package have added some functions](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
-- [Becoming an Exceptional Git Contributor: A Guide to Effective Collaboration](https://dev.to/stackcodify/becoming-an-exceptional-git-contributor-a-guide-to-effective-collaboration-465i)
+- [20 Essential Tips for Beginner Software Engineers to Achieve Success](https://dev.to/jvertt/20-essential-tips-for-beginner-software-engineers-to-achieve-success-19ai)
 <!-- BLOG-POST-LIST:END -->
 
