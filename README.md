@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Advantages of PostgreSQL &lpar;part-1&rpar;](https://dev.to/hassanrehan/exploring-the-advantages-of-postgresql-bkf)
+- [File handling 101 in Node Js](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di)
+- [Getting comfortable with PostgreSQL](https://dev.to/yosefahab/getting-comfortable-with-postgresql-18d3)
 - [The WebXGuild Chronicles - #01C01: The Symphony of Seamless Integration](https://dev.to/darkterminal/the-webxguild-chronicles-01c01-the-symphony-of-seamless-integration-2mbn)
-- [If you could choose only one tech stack for the rest of your life, what would you choose?](https://dev.to/sadeedpv/if-you-could-choose-only-one-tech-stack-for-the-rest-of-your-life-what-would-you-choose-5e11)
-- [Creating custom subtitles using python and ffmpeg](https://dev.to/friendlyuser/creating-custom-subtitles-using-python-and-ffmpeg-41hb)
-- [The WebXGuild Chronicles - #01C00: The Last &lpar;but not the last&rpar; Discussion on the GitHub Discussion Thread](https://dev.to/darkterminal/the-webxguild-chronicles-01c00-the-last-but-not-the-last-discussion-on-the-github-discussion-thread-1k2p)
 <!-- BLOG-POST-LIST:END -->
 
