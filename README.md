@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn: Networking Goldmine or Overrated Hype?](https://dev.to/devteam/linkedin-networking-goldmine-or-overrated-hype-1mij)
+- [Dockerizing a Node.js App: A Comprehensive Guide for Easy Deployment🐋](https://dev.to/burakboduroglu/dockerizing-a-nodejs-app-a-comprehensive-guide-for-easy-deployment-13o1)
+- [Javascript Mini Projects &lpar;Nodejs starters!&rpar;](https://dev.to/shambashib23/javascript-mini-projects-nodejs-starters-3el2)
 - [Coding Problem Interview Series: How to Count Character Occurrences in a String?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-count-character-occurrences-in-a-string-1892)
-- [Writing a Transmission Control Protocol stack in Python](https://dev.to/haszankauna/writing-a-transmission-control-protocol-stack-in-python-3p6)
-- [Building a ChatGPT custom plugin for API Gateway](https://dev.to/apisix/building-a-chatgpt-custom-plugin-for-api-gateway-3176)
+- [LinkedIn: Networking Goldmine or Overrated Hype?](https://dev.to/devteam/linkedin-networking-goldmine-or-overrated-hype-1mij)
 <!-- BLOG-POST-LIST:END -->
 
