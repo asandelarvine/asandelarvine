@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Miço Eklentisi - &quot;mico&quot; ile Başlayan Makineleri Dinamik Koleksiyona Ekleme](https://dev.to/aciklab/mico-eklentisi-mico-ile-baslayan-makineleri-dinamik-koleksiyona-ekleme-3dla)
 - [Leaked C# 12 Preview 3 Features! Worth the Wait or Not?](https://dev.to/bytehide/leaked-c-12-preview-3-features-worth-the-wait-or-not-7if)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13db)
 - [Lockfile merge conflicts, how to handle it correctly?](https://dev.to/francecil/lockfile-merge-conflicts-how-to-handle-it-correctly-588b)
-- [Dockerizing a Node.js App: A Comprehensive Guide for Easy Deployment🐋](https://dev.to/burakboduroglu/dockerizing-a-nodejs-app-a-comprehensive-guide-for-easy-deployment-13o1)
 <!-- BLOG-POST-LIST:END -->
 
