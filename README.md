@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [#DEVDiscuss: Unions in Tech](https://dev.to/devteam/devdiscuss-unions-in-tech-44c5)
 - [Leveraging AI to Maximize Profits for Short-Term Rentals](https://dev.to/plantsmiles/leveraging-ai-to-maximize-profits-for-short-term-rentals-c50)
 - [Speech Synthesis using JavaScript](https://dev.to/nikitadmitr/speech-synthesis-in-nodejs-47e1)
-- [How to Set Your Rate as a Content Creator](https://dev.to/alessiacara753/how-to-set-your-rate-as-a-content-creator-3id5)
+- [Welcome 🙂](https://dev.to/anarulkhaled/welcome-1ej8)
 <!-- BLOG-POST-LIST:END -->
 
