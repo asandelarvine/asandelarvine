@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi stage builds in OCI images](https://dev.to/heymde/multi-stage-builds-in-oci-images-478k)
+- [The origin of App Router - A Next.Js Rewind](https://dev.to/sigcoding/the-origin-of-app-router-a-nextjs-rewind-564m)
+- [DEV Showcase v8](https://dev.to/codenewbieteam/dev-showcase-v8-19og)
 - [Credit Card Fraud Detection With Autoencoders](https://dev.to/anmorgan2414/credit-card-fraud-detection-with-autoencoders-448o)
-- [Patching a directory traversal attack vulnerability](https://dev.to/donaldsebleung/patching-a-directory-traversal-attack-vulnerability-1n19)
-- [Destructuring and Spread Operators: Why and When to Use?](https://dev.to/ashwani3011/destructuring-and-spread-operators-why-and-when-to-use-2h4g)
-- [O objeto Atomics do JS uma introdução, multithreading e memória!](https://dev.to/urielsouza29/o-objeto-atomics-do-js-uma-introducao-5d17)
 <!-- BLOG-POST-LIST:END -->
 
