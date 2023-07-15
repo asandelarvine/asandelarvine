@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unsafe &#39;PropsWithChildren&#39; Utility type in React TypeScript App](https://dev.to/maafaishal/unsafe-propswithchildren-utility-type-in-react-typescript-app-3bd3)
-- [Getting Started With Typescript](https://dev.to/paulineoraro/getting-started-with-typescript-334l)
-- [Coding Problem Interview Series: How to Implement Merge Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-merge-sort-23o5)
-- [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
+- [Great User Interface Designs for Mobile Applications](https://dev.to/berack/great-user-interface-designs-for-mobile-applications-1ooj)
+- [What to Expect When Engaging Offshore Mobile App Development Services](https://dev.to/berack/what-to-expect-when-engaging-offshore-mobile-app-development-services-4fdo)
+- [Comparing Website and App Development Costs – Do&#39;s &amp; Don&#39;ts](https://dev.to/berack/comparing-website-and-app-development-costs-dos-donts-34ie)
+- [8 Best Mobile App Development Frameworks](https://dev.to/berack/8-best-mobile-app-development-frameworks-lp2)
 <!-- BLOG-POST-LIST:END -->
 
