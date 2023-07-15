@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns in PHP 8: Builder](https://dev.to/zhukmax/design-patterns-in-php-8-builder-2ike)
-- [Python tutorial for creating a coin-flip simulation](https://dev.to/kelechikizito/python-tutorial-for-creating-a-coin-flip-simulation-56aa)
-- [How to build an image without the Docker cache](https://dev.to/kylegalbraith/how-to-build-an-image-without-the-docker-cache-3p7k)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-2l1a)
+- [Destructuring and Spread Operators: Why and When to Use?](https://dev.to/ashwani3011/destructuring-and-spread-operators-why-and-when-to-use-2h4g)
+- [O objeto Atomics do JS uma introdução](https://dev.to/urielsouza29/o-objeto-atomics-do-js-uma-introducao-5d17)
+- [Mastering Sequence Filtering in Python: Comprehensive Guide to Effective Filtering Techniques](https://dev.to/marcelschmitt/mastering-sequence-filtering-in-python-comprehensive-guide-to-effective-filtering-techniques-2dho)
+- [How to contribute a new framework to Sitecore JSS](https://dev.to/illiakovalenko/how-to-contribute-a-new-framework-to-sitecore-jss-232a)
 <!-- BLOG-POST-LIST:END -->
 
