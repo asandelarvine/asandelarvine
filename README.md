@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Great User Interface Designs for Mobile Applications](https://dev.to/berack/great-user-interface-designs-for-mobile-applications-1ooj)
-- [What to Expect When Engaging Offshore Mobile App Development Services](https://dev.to/berack/what-to-expect-when-engaging-offshore-mobile-app-development-services-4fdo)
-- [Comparing Website and App Development Costs – Do&#39;s &amp; Don&#39;ts](https://dev.to/berack/comparing-website-and-app-development-costs-dos-donts-34ie)
-- [8 Best Mobile App Development Frameworks](https://dev.to/berack/8-best-mobile-app-development-frameworks-lp2)
+- [Authentication for Spring Boot App with Authgear and OAuth2](https://dev.to/bobur/authentication-for-spring-boot-app-with-authgear-and-oauth2-48hb)
+- [Mastering JavaScript Interviews: Top Programming Interview Questions You Should Know](https://dev.to/abidullah786/mastering-javascript-interviews-top-programming-interview-questions-you-should-know-433e)
+- [How to develop a Wox Plugin using Python?](https://dev.to/atkumar/how-to-develop-a-wox-plugin-using-python-1omc)
+- [GetBlock Service Update for Q2 2023: Improved Notifications, Streamlined Payments, and Account Enhancements](https://dev.to/getblockapi/getblock-service-update-for-q2-2023-improved-notifications-streamlined-payments-and-account-enhancements-4eh7)
 <!-- BLOG-POST-LIST:END -->
 
