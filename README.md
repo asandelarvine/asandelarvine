@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Array Methods](https://dev.to/noriller/demystifying-array-methods-2bml)
 - [Introducing Continuum Design System: A Modern and Modular UI Framework for Web Development](https://dev.to/rajaniraiyn/introducing-continuum-design-system-a-modern-and-modular-ui-framework-for-web-development-cce)
 - [Multi stage builds in OCI images](https://dev.to/heymde/multi-stage-builds-in-oci-images-478k)
 - [The origin of App Router - A Next.Js Rewind](https://dev.to/sigcoding/the-origin-of-app-router-a-nextjs-rewind-564m)
-- [DEV Showcase v8](https://dev.to/codenewbieteam/dev-showcase-v8-19og)
 <!-- BLOG-POST-LIST:END -->
 
