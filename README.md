@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unsafe &#39;PropsWithChildren&#39; Utility type in React TypeScript App](https://dev.to/maafaishal/unsafe-propswithchildren-utility-type-in-react-typescript-app-3bd3)
+- [Getting Started With Typescript](https://dev.to/paulineoraro/getting-started-with-typescript-334l)
 - [Coding Problem Interview Series: How to Implement Merge Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-merge-sort-23o5)
 - [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
-- [How to know which languages are spoken in a country as official or native.](https://dev.to/vicrider/how-to-know-which-languages-are-spoken-in-a-country-as-official-or-native-3i6g)
-- [Supercharge Your Container Networking: Seamless Host Communication with VxLAN and Docker](https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o)
 <!-- BLOG-POST-LIST:END -->
 
