@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Interactive Earth visualization with JavaScript and the Mapbox GL JS API](https://dev.to/sarahokolo/creating-an-interactive-earth-visualization-with-javascript-and-the-mapbox-gl-js-api-4464)
+- [The Complete Guide to Becoming a Web Developer: Part 4](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-4-3oj9)
 - [Authentication for Spring Boot App with Authgear and OAuth2](https://dev.to/bobur/authentication-for-spring-boot-app-with-authgear-and-oauth2-48hb)
 - [Mastering JavaScript Interviews: Top Programming Interview Questions You Should Know](https://dev.to/abidullah786/mastering-javascript-interviews-top-programming-interview-questions-you-should-know-433e)
-- [How to develop a Wox Plugin using Python?](https://dev.to/atkumar/how-to-develop-a-wox-plugin-using-python-1omc)
-- [GetBlock Service Update for Q2 2023: Improved Notifications, Streamlined Payments, and Account Enhancements](https://dev.to/getblockapi/getblock-service-update-for-q2-2023-improved-notifications-streamlined-payments-and-account-enhancements-4eh7)
 <!-- BLOG-POST-LIST:END -->
 
