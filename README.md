@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Interactive Earth visualization with JavaScript and the Mapbox GL JS API](https://dev.to/sarahokolo/creating-an-interactive-earth-visualization-with-javascript-and-the-mapbox-gl-js-api-4464)
-- [The Complete Guide to Becoming a Web Developer: Part 4](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-4-3oj9)
-- [Authentication for Spring Boot App with Authgear and OAuth2](https://dev.to/bobur/authentication-for-spring-boot-app-with-authgear-and-oauth2-48hb)
-- [Mastering JavaScript Interviews: Top Programming Interview Questions You Should Know](https://dev.to/abidullah786/mastering-javascript-interviews-top-programming-interview-questions-you-should-know-433e)
+- [Design Patterns in PHP 8: Builder](https://dev.to/zhukmax/design-patterns-in-php-8-builder-2ike)
+- [Python tutorial for creating a coin-flip simulation](https://dev.to/kelechikizito/python-tutorial-for-creating-a-coin-flip-simulation-56aa)
+- [How to build an image without the Docker cache](https://dev.to/kylegalbraith/how-to-build-an-image-without-the-docker-cache-3p7k)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-2l1a)
 <!-- BLOG-POST-LIST:END -->
 
