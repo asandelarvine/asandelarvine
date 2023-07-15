@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Container Networking: Seamless Host Communication with VxLAN and Docker](https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o)
+- [[Python] A Journey to Python Async - 2. Generators as Iterators](https://dev.to/uponthesky/python-a-journey-to-python-async-2-generators-as-iterators-4bh5)
 - [Migrating my personal website to an event-driven serverless architecture](https://dev.to/donaldsebleung/migrating-my-personal-website-to-an-event-driven-serverless-architecture-2kfe)
 - [Top 5 security concerns for infrastructure as code](https://dev.to/snyk/top-5-security-concerns-for-infrastructure-as-code-1mg2)
-- [Forays in Ruby](https://dev.to/andrewhcook/forays-in-ruby-41p)
-- [Uncharted Depths: The Mysterious Demise of the Titan Submersible](https://dev.to/samy/uncharted-depths-the-mysterious-demise-of-the-titan-submersible-47md)
 <!-- BLOG-POST-LIST:END -->
 
