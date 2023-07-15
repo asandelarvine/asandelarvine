@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
 - [Coding Problem Interview Series: How to Implement Merge Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-merge-sort-23o5)
+- [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
+- [How to know which languages are spoken in a country as official or native.](https://dev.to/vicrider/how-to-know-which-languages-are-spoken-in-a-country-as-official-or-native-3i6g)
 - [Supercharge Your Container Networking: Seamless Host Communication with VxLAN and Docker](https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o)
-- [[Python] A Journey to Python Async - 2. Generators as Iterators](https://dev.to/uponthesky/python-a-journey-to-python-async-2-generators-as-iterators-4bh5)
 <!-- BLOG-POST-LIST:END -->
 
