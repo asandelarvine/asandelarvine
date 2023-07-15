@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Matching simply](https://dev.to/tobyink/matching-simply-2c8k)
-- [#DEVDiscuss: Unions in Tech](https://dev.to/devteam/devdiscuss-unions-in-tech-44c5)
-- [Mastering React&#39;s useContext Hook: A Comprehensive Guide](https://dev.to/ibrahzizo360/mastering-reacts-usecontext-hook-a-comprehensive-guide-2700)
-- [Leveraging AI to Maximize Profits for Short-Term Rentals](https://dev.to/plantsmiles/leveraging-ai-to-maximize-profits-for-short-term-rentals-c50)
+- [Forays in Ruby](https://dev.to/andrewhcook/forays-in-ruby-41p)
+- [Uncharted Depths: The Mysterious Demise of the Titan Submersible](https://dev.to/samy/uncharted-depths-the-mysterious-demise-of-the-titan-submersible-47md)
+- [How to fix Missing Preprocessor for Sass when using Vite to create React app + Side Commands](https://dev.to/samy/how-to-fix-missing-preprocessor-for-sass-when-using-vite-to-create-react-app-side-commands-1d75)
+- [Reimagining DORA Metrics &amp; Leveraging Feature Flags with Split](https://dev.to/linearb/reimagining-dora-metrics-leveraging-feature-flags-with-split-2o89)
 <!-- BLOG-POST-LIST:END -->
 
