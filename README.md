@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Demystifying Array Methods](https://dev.to/noriller/demystifying-array-methods-2bml)
 - [A Comprehensive Guide to Writing NFC Tags Using Unique Keys](https://dev.to/kasirocswell/a-comprehensive-guide-to-writing-nfc-tags-using-unique-keys-olm)
+- [A pragmatic approach on writing clean code](https://dev.to/climentea/a-pragmatic-approach-on-writing-clean-code-1lm3)
 - [ReactJS lifecycle in detail using function-based components and provide simple and complex examples to illustrate each phase.](https://dev.to/gaurbprajapati/reactjs-lifecycle-in-detail-using-function-based-components-and-provide-simple-and-complex-examples-to-illustrate-each-phase-1j9h)
-- [Introducing Continuum Design System: A Modern and Modular UI Framework for Web Development](https://dev.to/rajaniraiyn/introducing-continuum-design-system-a-modern-and-modular-ui-framework-for-web-development-cce)
 <!-- BLOG-POST-LIST:END -->
 
