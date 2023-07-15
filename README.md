@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating my personal website to an event-driven serverless architecture](https://dev.to/donaldsebleung/migrating-my-personal-website-to-an-event-driven-serverless-architecture-2kfe)
 - [Top 5 security concerns for infrastructure as code](https://dev.to/snyk/top-5-security-concerns-for-infrastructure-as-code-1mg2)
 - [Forays in Ruby](https://dev.to/andrewhcook/forays-in-ruby-41p)
 - [Uncharted Depths: The Mysterious Demise of the Titan Submersible](https://dev.to/samy/uncharted-depths-the-mysterious-demise-of-the-titan-submersible-47md)
-- [How to fix Missing Preprocessor for Sass when using Vite to create React app + Side Commands](https://dev.to/samy/how-to-fix-missing-preprocessor-for-sass-when-using-vite-to-create-react-app-side-commands-1d75)
 <!-- BLOG-POST-LIST:END -->
 
