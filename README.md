@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Credit Card Fraud Detection With Autoencoders](https://dev.to/anmorgan2414/credit-card-fraud-detection-with-autoencoders-448o)
 - [Patching a directory traversal attack vulnerability](https://dev.to/donaldsebleung/patching-a-directory-traversal-attack-vulnerability-1n19)
 - [Destructuring and Spread Operators: Why and When to Use?](https://dev.to/ashwani3011/destructuring-and-spread-operators-why-and-when-to-use-2h4g)
 - [O objeto Atomics do JS uma introdução, multithreading e memória!](https://dev.to/urielsouza29/o-objeto-atomics-do-js-uma-introducao-5d17)
-- [Mastering Sequence Filtering in Python: Comprehensive Guide to Effective Filtering Techniques](https://dev.to/marcelschmitt/mastering-sequence-filtering-in-python-comprehensive-guide-to-effective-filtering-techniques-2dho)
 <!-- BLOG-POST-LIST:END -->
 
