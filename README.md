@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git and GitHub for Beginners - The Basics](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
 - [Trailblazing Language or Legendary Software?](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
 - [Building Trust in a Trustless World: Decentralized Applications Unveiled](https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk)
-- [How to merge Tailwind class in Elixir Phoenix](https://dev.to/bluzky/how-to-merge-tailwind-class-in-elixir-phoenix-2nkp)
-- [RSVQuick: Online Invitation App Made Using Refine](https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e)
+- [Install NGINX in EC2 instance](https://dev.to/camillehe1992/install-nginx-in-ec2-instance-2c90)
 <!-- BLOG-POST-LIST:END -->
 
