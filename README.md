@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Trust in a Trustless World: Decentralized Applications Unveiled](https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk)
+- [How to merge Tailwind class in Elixir Phoenix](https://dev.to/bluzky/how-to-merge-tailwind-class-in-elixir-phoenix-2nkp)
 - [RSVQuick: Online Invitation App Made Using Refine](https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e)
 - [Make JSON file validator in just 5 lines 👀](https://dev.to/noble7/a-json-file-validator-web-app-in-just-5-lines-4lk7)
-- [Building a Progressive Web App with React](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
-- [Exploring the AWS CI/CD Landscape: A Comprehensive Overview of Tools and Services](https://dev.to/brandondamue/exploring-the-aws-cicd-landscape-a-comprehensive-overview-of-tools-and-services-57mn)
 <!-- BLOG-POST-LIST:END -->
 
