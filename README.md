@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [RSVQuick: Online Invitation App Made Using Refine](https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e)
 - [Building a Progressive Web App with React](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
 - [Exploring the AWS CI/CD Landscape: A Comprehensive Overview of Tools and Services](https://dev.to/brandondamue/exploring-the-aws-cicd-landscape-a-comprehensive-overview-of-tools-and-services-57mn)
-- [60+ No-Code Automation Tools To Spark Your Curiosity](https://dev.to/ajtatumdigital/60-no-code-automation-tools-to-spark-your-curiosity-219b)
-- [Demystifying Array Methods](https://dev.to/noriller/demystifying-array-methods-2bml)
+- [Por que usar Python em seu projeto RPA?](https://dev.to/morgannadev/por-que-usar-python-em-seu-projeto-rpa-49fn)
 <!-- BLOG-POST-LIST:END -->
 
