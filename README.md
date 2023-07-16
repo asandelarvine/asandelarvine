@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [RSVQuick: Online Invitation App Made Using Refine](https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e)
+- [Make JSON file validator in just 5 lines 👀](https://dev.to/noble7/a-json-file-validator-web-app-in-just-5-lines-4lk7)
 - [Building a Progressive Web App with React](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
 - [Exploring the AWS CI/CD Landscape: A Comprehensive Overview of Tools and Services](https://dev.to/brandondamue/exploring-the-aws-cicd-landscape-a-comprehensive-overview-of-tools-and-services-57mn)
-- [Por que usar Python em seu projeto RPA?](https://dev.to/morgannadev/por-que-usar-python-em-seu-projeto-rpa-49fn)
 <!-- BLOG-POST-LIST:END -->
 
