@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub for Beginners - The Basics](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
-- [Greek Argumentation: The Ancient Art Applied to Modern Software Testing](https://dev.to/petermilovcik/greek-argumentation-the-ancient-art-applied-to-modern-software-testing-36aj)
-- [Trailblazing Language or Legendary Software?](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
-- [Building Trust in a Trustless World: Decentralized Applications Unveiled](https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk)
+- [ReasonReact, Auth0 and 3rd Party React Components](https://dev.to/psb/reasonreact-auth0-and-3rd-party-react-components-31kp)
+- [This can be your next project](https://dev.to/shreyvijayvargiya/this-can-be-your-next-project-9bj)
+- [JavaScript Naming Conventions: Unlocking the Secrets to Clear and Concise Code](https://dev.to/adii/javascript-naming-conventions-unlocking-the-secrets-to-clear-and-concise-code-23a9)
+- [Leading RPC Node Provider GetBlock attends the Ethereum Community Conference &lpar;EthCC&rpar; 2023](https://dev.to/getblockapi/leading-rpc-node-provider-getblock-attends-the-ethereum-community-conference-ethcc-2023-m6h)
 <!-- BLOG-POST-LIST:END -->
 
