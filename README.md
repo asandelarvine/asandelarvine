@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Configurando Neovim para Java](https://dev.to/eronalves1996/configurando-neovim-para-java-7c4)
+- [Get Geolocation By IP Address API In 2023](https://dev.to/gabriela_avi/get-geolocation-by-ip-address-api-in-2023-1e0g)
 - [Building Serverless Applications with AWS – Compute](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
 - [Two Weeks of Coding](https://dev.to/hetarth02/two-weeks-of-coding-4ijm)
-- [Understanding AWS Lambda Proactive Initialization](https://dev.to/aws-heroes/understanding-aws-lambda-proactive-initialization-477g)
 <!-- BLOG-POST-LIST:END -->
 
