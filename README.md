@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Event in JS &lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-event-in-js-javascript--3302)
+- [Is ChatGPT Secretly Decreasing Potential of Developers? 💻🤖](https://dev.to/akashpattnaik/is-chatgpt-secretly-decreasing-potential-of-developers-6ib)
 - [Real DOM, Virtual DOM, Shadow DOM, What&#39;s the Difference?](https://dev.to/lyndsiwilliams/real-dom-virtual-dom-shadow-dom-whats-the-difference-32ni)
 - [How to start working on Git ???](https://dev.to/lord_jastannun/how-to-start-working-on-git--1mkn)
-- [A Guide to User Interface &lpar;UI&rpar; Design — Principles and Best Practices](https://dev.to/miratam/a-guide-to-user-interface-ui-design-principles-and-best-practices-5ehi)
-- [Jokeday Funday Part #2](https://dev.to/soumyadeepdey/jokeday-funday-part-2-58l6)
 <!-- BLOG-POST-LIST:END -->
 
