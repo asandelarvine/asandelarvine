@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCode Profiles: Optimize Your Coding Environment](https://dev.to/joshuamyers/vscode-profiles-optimize-your-coding-environment-m2a)
+- [Configure &quot;Point to Site VPN&quot; connection Step by Step: Azure portal - Azure VPN Gateway](https://dev.to/payelsingha/configure-point-to-site-vpn-connection-step-by-step-azure-portal-azure-vpn-gateway-23b7)
 - [What is Event in JS &lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-event-in-js-javascript--3302)
 - [Is ChatGPT Secretly Decreasing Potential of Developers? 💻🤖](https://dev.to/akashpattnaik/is-chatgpt-secretly-decreasing-potential-of-developers-6ib)
-- [Real DOM, Virtual DOM, Shadow DOM, What&#39;s the Difference?](https://dev.to/lyndsiwilliams/real-dom-virtual-dom-shadow-dom-whats-the-difference-32ni)
-- [How to start working on Git ???](https://dev.to/lord_jastannun/how-to-start-working-on-git--1mkn)
 <!-- BLOG-POST-LIST:END -->
 
