@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jokeday Funday Part #1](https://dev.to/soumyadeepdey/part-1-1d3g)
-- [Getting Started with Python: A Beginner&#39;s Guide](https://dev.to/soumyadeepdey/getting-started-with-python-a-beginners-guide-990)
-- [The Journey of a Widget: Understanding the Lifecycle in Flutter](https://dev.to/pranjal-barnwal/the-journey-of-a-widget-understanding-the-lifecycle-in-flutter-3plp)
-- [Prompt Engineering - Guidelines](https://dev.to/sahilbansal17/prompt-engineering-guidelines-3ana)
+- [Real DOM, Virtual DOM, Shadow DOM, What&#39;s the Difference?](https://dev.to/lyndsiwilliams/real-dom-virtual-dom-shadow-dom-whats-the-difference-32ni)
+- [How to start working on Git ???](https://dev.to/lord_jastannun/how-to-start-working-on-git--1mkn)
+- [A Guide to User Interface &lpar;UI&rpar; Design — Principles and Best Practices](https://dev.to/miratam/a-guide-to-user-interface-ui-design-principles-and-best-practices-5ehi)
+- [Jokeday Funday Part #2](https://dev.to/soumyadeepdey/jokeday-funday-part-2-58l6)
 <!-- BLOG-POST-LIST:END -->
 
