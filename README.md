@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide to Metaprogramming in Python](https://dev.to/karishmashukla/a-practical-guide-to-metaprogramming-in-python-691)
 - [Are you a T-Shaped Developer?](https://dev.to/aellon/are-you-a-t-shaped-developer-4npk)
 - [Tapshare : Making file/code sharing simple and easy](https://dev.to/maheshbasnet089/tapshare-making-filecode-sharing-simple-and-easy-23f0)
-- [VSCode Profiles: Optimize Your Coding Environment](https://dev.to/joshuamyers/vscode-profiles-optimize-your-coding-environment-m2a)
-- [Configure &quot;Point to Site VPN&quot; connection Step by Step: Azure portal - Azure VPN Gateway](https://dev.to/payelsingha/configure-point-to-site-vpn-connection-step-by-step-azure-portal-azure-vpn-gateway-23b7)
+- [💔 Goodbye Cold Starts ❤️Hello Proactive Initialization](https://dev.to/aws-heroes/goodbye-cold-starts-hello-proactive-initialization-28j7)
 <!-- BLOG-POST-LIST:END -->
 
