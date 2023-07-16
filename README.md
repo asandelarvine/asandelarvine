@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Git and GitHub for Beginners - The Basics](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
+- [Greek Argumentation: The Ancient Art Applied to Modern Software Testing](https://dev.to/petermilovcik/greek-argumentation-the-ancient-art-applied-to-modern-software-testing-36aj)
 - [Trailblazing Language or Legendary Software?](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
 - [Building Trust in a Trustless World: Decentralized Applications Unveiled](https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk)
-- [Install NGINX in EC2 instance](https://dev.to/camillehe1992/install-nginx-in-ec2-instance-2c90)
 <!-- BLOG-POST-LIST:END -->
 
