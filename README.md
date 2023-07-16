@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jokeday Funday Part #1](https://dev.to/soumyadeepdey/part-1-1d3g)
+- [Getting Started with Python: A Beginner&#39;s Guide](https://dev.to/soumyadeepdey/getting-started-with-python-a-beginners-guide-990)
 - [The Journey of a Widget: Understanding the Lifecycle in Flutter](https://dev.to/pranjal-barnwal/the-journey-of-a-widget-understanding-the-lifecycle-in-flutter-3plp)
 - [Prompt Engineering - Guidelines](https://dev.to/sahilbansal17/prompt-engineering-guidelines-3ana)
-- [ReasonReact, Auth0 and 3rd Party React Components](https://dev.to/psb/reasonreact-auth0-and-3rd-party-react-components-31kp)
-- [This can be your next project](https://dev.to/shreyvijayvargiya/this-can-be-your-next-project-9bj)
 <!-- BLOG-POST-LIST:END -->
 
