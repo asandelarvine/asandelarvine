@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Journey of a Widget: Understanding the Lifecycle in Flutter](https://dev.to/pranjal-barnwal/the-journey-of-a-widget-understanding-the-lifecycle-in-flutter-3plp)
+- [Prompt Engineering - Guidelines](https://dev.to/sahilbansal17/prompt-engineering-guidelines-3ana)
 - [ReasonReact, Auth0 and 3rd Party React Components](https://dev.to/psb/reasonreact-auth0-and-3rd-party-react-components-31kp)
 - [This can be your next project](https://dev.to/shreyvijayvargiya/this-can-be-your-next-project-9bj)
-- [JavaScript Naming Conventions: Unlocking the Secrets to Clear and Concise Code](https://dev.to/adii/javascript-naming-conventions-unlocking-the-secrets-to-clear-and-concise-code-23a9)
-- [Leading RPC Node Provider GetBlock attends the Ethereum Community Conference &lpar;EthCC&rpar; 2023](https://dev.to/getblockapi/leading-rpc-node-provider-getblock-attends-the-ethereum-community-conference-ethcc-2023-m6h)
 <!-- BLOG-POST-LIST:END -->
 
