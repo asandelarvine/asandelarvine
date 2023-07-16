@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Configurando Neovim para Java](https://dev.to/eronalves1996/configurando-neovim-para-java-7c4)
 - [Building Serverless Applications with AWS – Compute](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
 - [Two Weeks of Coding](https://dev.to/hetarth02/two-weeks-of-coding-4ijm)
 - [Understanding AWS Lambda Proactive Initialization](https://dev.to/aws-heroes/understanding-aws-lambda-proactive-initialization-477g)
-- [A Practical Guide to Metaprogramming in Python](https://dev.to/karishmashukla/a-practical-guide-to-metaprogramming-in-python-691)
 <!-- BLOG-POST-LIST:END -->
 
