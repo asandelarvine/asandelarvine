@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Serverless Applications with AWS – Compute](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
+- [Two Weeks of Coding](https://dev.to/hetarth02/two-weeks-of-coding-4ijm)
+- [Understanding AWS Lambda Proactive Initialization](https://dev.to/aws-heroes/understanding-aws-lambda-proactive-initialization-477g)
 - [A Practical Guide to Metaprogramming in Python](https://dev.to/karishmashukla/a-practical-guide-to-metaprogramming-in-python-691)
-- [Are you a T-Shaped Developer?](https://dev.to/aellon/are-you-a-t-shaped-developer-4npk)
-- [Tapshare : Making file/code sharing simple and easy](https://dev.to/maheshbasnet089/tapshare-making-filecode-sharing-simple-and-easy-23f0)
-- [💔 Goodbye Cold Starts ❤️Hello Proactive Initialization](https://dev.to/aws-heroes/goodbye-cold-starts-hello-proactive-initialization-28j7)
 <!-- BLOG-POST-LIST:END -->
 
