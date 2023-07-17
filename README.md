@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Clean Code: Mastering the Betty Style 🧑🏾‍💻](https://dev.to/angelotheman/the-art-of-clean-code-mastering-the-betty-style-30mo)
 - [Configurando Neovim para Java](https://dev.to/eronalves1996/configurando-neovim-para-java-7c4)
 - [Get Geolocation By IP Address API In 2023](https://dev.to/gabriela_avi/get-geolocation-by-ip-address-api-in-2023-1e0g)
 - [Building Serverless Applications with AWS – Compute](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
-- [Two Weeks of Coding](https://dev.to/hetarth02/two-weeks-of-coding-4ijm)
 <!-- BLOG-POST-LIST:END -->
 
