@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly for 17 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-17-july-2023-256c)
-- [Meme Monday](https://dev.to/ben/meme-monday-4ah1)
-- [What are the Components of a Web-Based REST API?](https://dev.to/ronan_mcquillan_628bdb9e3/what-are-the-components-of-an-api-39m1)
-- [ASP.NET Core in .NET 8 continues to Reveal New Features! Too many features released?](https://dev.to/bytehide/aspnet-core-in-net-8-continues-to-reveal-new-features-too-many-features-released-4cgm)
+- [O que é um Brag Document?](https://dev.to/biosbug/o-que-e-um-brag-document-3840)
+- [VSCode React Snippets Extension](https://dev.to/onureren/vscode-react-snippets-extension-39l2)
+- [Typescript - Union types e type guards](https://dev.to/luisgustavom1/typescript-union-types-and-type-guards-14gh)
+- [Build A Todo API With .NET And Appwrite](https://dev.to/appwrite/build-a-todo-api-with-net-and-appwrite-218d)
 <!-- BLOG-POST-LIST:END -->
 
