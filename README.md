@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Git: A Guide to Collaborative Version Control](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6)
+- [How to use loops in dart programming language.](https://dev.to/rashtech/how-to-use-loops-in-dart-programming-language-407g)
+- [How to use mergeMap and forkJoin to handle multiple API requests in Angular 🚀](https://dev.to/mana95/how-to-use-mergemap-and-forkjoin-to-handle-multiple-api-requests-in-angular-412p)
 - [Beginner&#39;s Journey into React&#39;s Context API](https://dev.to/mr_emma/beginners-journey-into-reacts-context-api-35h9)
-- [The web has been waiting for HTMX](https://dev.to/bl42/the-web-has-been-waiting-for-htmx-aim)
-- [Which App or Website Would You Makeover &amp; How?](https://dev.to/codenewbieteam/which-app-or-website-would-you-makeover-how-4i8f)
-- [Serverless: The Future of Cloud Computing](https://dev.to/arsalanmee/serverless-the-future-of-cloud-computing-4lbp)
 <!-- BLOG-POST-LIST:END -->
 
