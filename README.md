@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UTM for Developers](https://dev.to/crabnebula/utm-for-developers-1gec)
-- [Evolution of Web : From HTML to AI](https://dev.to/developedbyjk/evolution-of-web-from-html-to-ai-2o93)
-- [How Has Ruby&#39;s Expressive Syntax Enhanced Your Coding Experience?](https://dev.to/devteam/how-has-rubys-expressive-syntax-enhanced-your-coding-experience-26b6)
-- [Ethereum&#39;s Consensus Puzzle: Solving the Trust Equation in a Blockchain Revolution](https://dev.to/sahil_4555/ethereums-consensus-puzzle-solving-the-trust-equation-in-a-blockchain-revolution-2146)
+- [2 Critical Elements of the Rubyist Mindset](https://dev.to/rubycademy/2-critical-elements-of-the-rubyist-mindset-219o)
+- [AWS open source newsletter, #165](https://dev.to/aws/aws-open-source-newsletter-165-4k9g)
+- [Open Source Licensing the Oracle Machine](https://dev.to/polterguy/open-source-licensing-the-oracle-machine-3hag)
+- [How to implement Adapter pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-adapter-pattern-in-ruby-on-rails-1ibg)
 <!-- BLOG-POST-LIST:END -->
 
