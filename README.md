@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Soundtrack Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
 - [Bandit Level 3 Level 4](https://dev.to/christianpaez/bandit-level-3-level-4-23kc)
 - [What is the Future of a Web Developer?](https://dev.to/blackhorse0101/what-is-the-future-of-a-web-developer-nc8)
 - [Micro-Filosofia: A arte da fragmentação](https://dev.to/ocodista/o-poder-da-micro-filosofia-2i6i)
-- [The Art of Clean Code: Mastering the Betty Style 🧑🏾‍💻](https://dev.to/angelotheman/the-art-of-clean-code-mastering-the-betty-style-30mo)
 <!-- BLOG-POST-LIST:END -->
 
