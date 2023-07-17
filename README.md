@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Journey into React&#39;s Context API](https://dev.to/mr_emma/beginners-journey-into-reacts-context-api-35h9)
+- [The web has been waiting for HTMX](https://dev.to/bl42/the-web-has-been-waiting-for-htmx-aim)
 - [Which App or Website Would You Makeover &amp; How?](https://dev.to/codenewbieteam/which-app-or-website-would-you-makeover-how-4i8f)
 - [Serverless: The Future of Cloud Computing](https://dev.to/arsalanmee/serverless-the-future-of-cloud-computing-4lbp)
-- [8 mistakes you must never make as a programmer](https://dev.to/blackhorse0101/8-mistakes-you-must-never-make-as-a-programmer-24j0)
-- [How to inspect transient DOM elements](https://dev.to/mellis481/how-to-inspect-transient-dom-elements-3h9d)
 <!-- BLOG-POST-LIST:END -->
 
