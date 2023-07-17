@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RLS of Supabase&lpar;PostgreSQL&rpar; Is Good, but …🤔](https://dev.to/zenstack/rls-of-supabasepostgresql-is-good-but--1394)
-- [AI USE CASES &amp; APPLICATIONS ACROSS MAJOR INDUSTRIES](https://dev.to/jasperstewart/ai-use-cases-applications-across-major-industries-3clo)
-- [Generative AI: Unlocking the Power of Artificial Intelligence](https://dev.to/matthewhaws/generative-ai-unlocking-the-power-of-artificial-intelligence-1ng2)
-- [8 Best Practices for React.js Component Design](https://dev.to/blossom/8-best-practices-for-reactjs-component-design-4jn5)
+- [ASP.NET Core in .NET 8 continues to Reveal New Features! Too many features released?](https://dev.to/bytehide/aspnet-core-in-net-8-continues-to-reveal-new-features-too-many-features-released-4cgm)
+- [🍽️ Enhanicing a Restaurant with Microservices Architecture! 🍽️](https://dev.to/safvan_8/enhanicing-a-restaurant-with-microservices-architecture-2df9)
+- [A message from an Impostor](https://dev.to/this-is-learning/a-message-from-an-impostor-231)
+- [CSS: The Good Parts](https://dev.to/builderio/css-the-good-parts-5eoo)
 <!-- BLOG-POST-LIST:END -->
 
