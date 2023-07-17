@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you should use emoji in github commit 🐛 ✨ 💄](https://dev.to/idurar/why-you-should-use-emoji-in-github-commit-2a5k)
+- [Fear of AI is Superstitious Mumbo Jumbo](https://dev.to/polterguy/fear-of-ai-is-superstitious-mumbo-jumbo-27lj)
 - [Building a Simple Unit Converter with JavaScript](https://dev.to/peggyou/building-a-simple-unit-converter-with-javascript-3h07)
 - [How to Make a Confetti React Custom Hook](https://dev.to/michaellarocca/how-to-make-a-confetti-react-custom-hook-3190)
-- [The Crucial Role and Influence of SEO in B2B Marketing Strategies](https://dev.to/norawinkens/the-crucial-role-and-influence-of-seo-in-b2b-marketing-strategies-58a7)
-- [🚀 Introducing VS Code Remote Tunnels: Connect to Remote Machines with Ease!](https://dev.to/burkeholland/introducing-vs-code-remote-tunnels-connect-to-remote-machines-with-ease-3nlg)
 <!-- BLOG-POST-LIST:END -->
 
