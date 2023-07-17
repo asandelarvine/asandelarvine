@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Miço - Kapsamlı Rapor Nasıl Hazırlanır?](https://dev.to/aciklab/mico-kapsamli-rapor-nasil-hazirlanir-2moj)
-- [Music Monday — What are you listening to? &lpar;Soundtrack Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
-- [Bandit Level 3 Level 4](https://dev.to/christianpaez/bandit-level-3-level-4-23kc)
-- [What is the Future of a Web Developer?](https://dev.to/blackhorse0101/what-is-the-future-of-a-web-developer-nc8)
+- [UTM for Developers](https://dev.to/crabnebula/utm-for-developers-1gec)
+- [Evolution of Web : From HTML to AI](https://dev.to/developedbyjk/evolution-of-web-from-html-to-ai-2o93)
+- [How Has Ruby&#39;s Expressive Syntax Enhanced Your Coding Experience?](https://dev.to/devteam/how-has-rubys-expressive-syntax-enhanced-your-coding-experience-26b6)
+- [Ethereum&#39;s Consensus Puzzle: Solving the Trust Equation in a Blockchain Revolution](https://dev.to/sahil_4555/ethereums-consensus-puzzle-solving-the-trust-equation-in-a-blockchain-revolution-2146)
 <!-- BLOG-POST-LIST:END -->
 
