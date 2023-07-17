@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Important subjects for placement preparation with free materials](https://dev.to/avinash201199/important-subjects-for-placement-preparation-with-free-materials-o2f)
-- [Tailwind CSS Tips and Tricks Worth Knowing](https://dev.to/hamatoyogi/tailwind-css-tips-and-tricks-worth-knowing-1j00)
-- [What is a Visual Headless CMS &lpar;aka Visual CMS&rpar;?](https://dev.to/builderio/what-is-a-visual-headless-cms-aka-visual-cms-19cb)
-- [2 Critical Elements of the Rubyist Mindset](https://dev.to/rubycademy/2-critical-elements-of-the-rubyist-mindset-219o)
+- [8 Best Practices for React.js Component Design](https://dev.to/blossom/8-best-practices-for-reactjs-component-design-4jn5)
+- [A Small Little Trick to prevent useEffect](https://dev.to/shivamjjha/a-small-little-trick-to-prevent-useeffect-ij9)
+- [Explore the best strategies to migrate to the AWS cloud](https://dev.to/softwebsolution/explore-the-best-strategies-to-migrate-to-the-aws-cloud-1ef8)
+- [13 CSS Tricks that will give you an adrenaline rush🤯](https://dev.to/smitterhane/13-css-tricks-that-will-give-you-an-adrenaline-rush-5908)
 <!-- BLOG-POST-LIST:END -->
 
