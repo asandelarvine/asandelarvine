@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK Stack Weekly for 17 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-17-july-2023-256c)
+- [Meme Monday](https://dev.to/ben/meme-monday-4ah1)
 - [ASP.NET Core in .NET 8 continues to Reveal New Features! Too many features released?](https://dev.to/bytehide/aspnet-core-in-net-8-continues-to-reveal-new-features-too-many-features-released-4cgm)
 - [🍽️ Enhanicing a Restaurant with Microservices Architecture! 🍽️](https://dev.to/safvan_8/enhanicing-a-restaurant-with-microservices-architecture-2df9)
-- [A message from an Impostor](https://dev.to/this-is-learning/a-message-from-an-impostor-231)
-- [CSS: The Good Parts](https://dev.to/builderio/css-the-good-parts-5eoo)
 <!-- BLOG-POST-LIST:END -->
 
