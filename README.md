@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é um Brag Document?](https://dev.to/biosbug/o-que-e-um-brag-document-3840)
-- [VSCode React Snippets Extension](https://dev.to/onureren/vscode-react-snippets-extension-39l2)
-- [Typescript - Union types e type guards](https://dev.to/luisgustavom1/typescript-union-types-and-type-guards-14gh)
-- [Build A Todo API With .NET And Appwrite](https://dev.to/appwrite/build-a-todo-api-with-net-and-appwrite-218d)
+- [Which App or Website Would You Makeover &amp; How?](https://dev.to/codenewbieteam/which-app-or-website-would-you-makeover-how-4i8f)
+- [Serverless: The Future of Cloud Computing](https://dev.to/arsalanmee/serverless-the-future-of-cloud-computing-4lbp)
+- [8 mistakes you must never make as a programmer](https://dev.to/blackhorse0101/8-mistakes-you-must-never-make-as-a-programmer-24j0)
+- [How to inspect transient DOM elements](https://dev.to/mellis481/how-to-inspect-transient-dom-elements-3h9d)
 <!-- BLOG-POST-LIST:END -->
 
