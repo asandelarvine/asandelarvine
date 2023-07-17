@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [RLS of Supabase&lpar;PostgreSQL&rpar; Is Good, but …🤔](https://dev.to/zenstack/rls-of-supabasepostgresql-is-good-but--1394)
+- [AI USE CASES &amp; APPLICATIONS ACROSS MAJOR INDUSTRIES](https://dev.to/jasperstewart/ai-use-cases-applications-across-major-industries-3clo)
+- [Generative AI: Unlocking the Power of Artificial Intelligence](https://dev.to/matthewhaws/generative-ai-unlocking-the-power-of-artificial-intelligence-1ng2)
 - [8 Best Practices for React.js Component Design](https://dev.to/blossom/8-best-practices-for-reactjs-component-design-4jn5)
-- [A Small Little Trick to prevent useEffect](https://dev.to/shivamjjha/a-small-little-trick-to-prevent-useeffect-ij9)
-- [Explore the best strategies to migrate to the AWS cloud](https://dev.to/softwebsolution/explore-the-best-strategies-to-migrate-to-the-aws-cloud-1ef8)
-- [13 CSS Tricks that will give you an adrenaline rush🤯](https://dev.to/smitterhane/13-css-tricks-that-will-give-you-an-adrenaline-rush-5908)
 <!-- BLOG-POST-LIST:END -->
 
