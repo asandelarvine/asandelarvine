@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the Future of a Web Developer?](https://dev.to/blackhorse0101/what-is-the-future-of-a-web-developer-nc8)
+- [Micro-Filosofia: A arte da fragmentação](https://dev.to/ocodista/o-poder-da-micro-filosofia-2i6i)
 - [The Art of Clean Code: Mastering the Betty Style 🧑🏾‍💻](https://dev.to/angelotheman/the-art-of-clean-code-mastering-the-betty-style-30mo)
 - [Configurando Neovim para Java](https://dev.to/eronalves1996/configurando-neovim-para-java-7c4)
-- [Get Geolocation By IP Address API In 2023](https://dev.to/gabriela_avi/get-geolocation-by-ip-address-api-in-2023-1e0g)
-- [Building Serverless Applications with AWS – Compute](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
 <!-- BLOG-POST-LIST:END -->
 
