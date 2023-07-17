@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Important subjects for placement preparation with free materials](https://dev.to/avinash201199/important-subjects-for-placement-preparation-with-free-materials-o2f)
+- [Tailwind CSS Tips and Tricks Worth Knowing](https://dev.to/hamatoyogi/tailwind-css-tips-and-tricks-worth-knowing-1j00)
+- [What is a Visual Headless CMS &lpar;aka Visual CMS&rpar;?](https://dev.to/builderio/what-is-a-visual-headless-cms-aka-visual-cms-19cb)
 - [2 Critical Elements of the Rubyist Mindset](https://dev.to/rubycademy/2-critical-elements-of-the-rubyist-mindset-219o)
-- [AWS open source newsletter, #165](https://dev.to/aws/aws-open-source-newsletter-165-4k9g)
-- [Open Source Licensing the Oracle Machine](https://dev.to/polterguy/open-source-licensing-the-oracle-machine-3hag)
-- [How to implement Adapter pattern in Ruby on Rails?](https://dev.to/vladhilko/how-to-implement-adapter-pattern-in-ruby-on-rails-1ibg)
 <!-- BLOG-POST-LIST:END -->
 
