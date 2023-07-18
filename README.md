@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Doticons - A collection of minimal dot icons](https://dev.to/_eduard26/doticons-a-collection-of-minimal-dot-icons-e2f)
-- [10 JavaScript Best Practices That Every Developer Should Know!](https://dev.to/blackhorse0101/10-javascript-best-practices-that-every-developer-should-know-3a9o)
-- [How This NuGet Package Almost Cost Me My Job](https://dev.to/codaholic/how-this-nuget-package-almost-cost-me-my-job-2n7p)
-- [The Perl and Raku Conference, Toronto 2023](https://dev.to/davorg/the-perl-and-raku-conference-toronto-2023-5c24)
+- [An In-depth Look at Arrays and Sorting Algorithms](https://dev.to/moaz178/an-in-depth-look-at-arrays-and-sorting-algorithms-1o3j)
+- [Composable vs Monolith](https://dev.to/elasticpath/composable-vs-monolith-39ke)
+- [Principles of Composable Architecture](https://dev.to/elasticpath/principles-of-composable-architecture-35h1)
+- [Database 101: Twitch Bot in a higher level for beginners.](https://dev.to/danielhe4rt/database-101-twitch-bot-in-a-higher-level-for-beginners-i91)
 <!-- BLOG-POST-LIST:END -->
 
