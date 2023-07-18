@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An In-depth Look at Arrays and Sorting Algorithms](https://dev.to/moaz178/an-in-depth-look-at-arrays-and-sorting-algorithms-1o3j)
+- [GoodWeek smart contract](https://dev.to/sethlawson/goodweek-smart-contract-575a)
+- [What emerging web development trends do you believe will have the biggest impact in the near future?](https://dev.to/sadeedpv/what-emerging-web-development-trends-do-you-believe-will-have-the-biggest-impact-in-the-near-future-2fmk)
+- [The Theory of Debugging](https://dev.to/codenameone/the-theory-of-debugging-157l)
 - [Composable vs Monolith](https://dev.to/elasticpath/composable-vs-monolith-39ke)
-- [Principles of Composable Architecture](https://dev.to/elasticpath/principles-of-composable-architecture-35h1)
-- [Database 101: Twitch Bot in a higher level for beginners.](https://dev.to/danielhe4rt/database-101-twitch-bot-in-a-higher-level-for-beginners-i91)
 <!-- BLOG-POST-LIST:END -->
 
