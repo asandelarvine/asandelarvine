@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secrets of Styling Forms &lpar;Using AWS Amplify Studio&rpar;](https://dev.to/aws/secrets-of-styling-forms-using-aws-amplify-studio-49f0)
-- [Why you should use emoji in github commit 🐛 ✨ 💄](https://dev.to/idurar/why-you-should-use-emoji-in-github-commit-2a5k)
-- [Fear of AI is Superstitious Mumbo Jumbo](https://dev.to/polterguy/fear-of-ai-is-superstitious-mumbo-jumbo-27lj)
-- [Building a Simple Unit Converter with JavaScript](https://dev.to/peggyou/building-a-simple-unit-converter-with-javascript-3h07)
+- [I built an industrial scale web scraper. Here&#39;s what I learned.](https://dev.to/cleancodestudio/i-built-an-industrial-scale-web-scraper-heres-what-i-learned-p6d)
+- [Embeddable Widgets to Bring Web3 Experience to Any Website](https://dev.to/tvcapital/embeddable-widgets-bring-web3-experience-to-any-website-509k)
+- [The New Vercel AI SDK: Your Own Chatbot in a Flash](https://dev.to/stonediggity/the-new-vercel-ai-sdk-your-own-chatbot-in-a-flash-499g)
+- [Python Orientado a Objetos 1](https://dev.to/dntfindmel_/python-orientado-a-objetos-1-4cen)
 <!-- BLOG-POST-LIST:END -->
 
