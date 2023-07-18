@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective Testing Techniques and Mobile App Development Cost Estimate](https://dev.to/agilitest/effective-testing-techniques-and-mobile-app-development-cost-estimate-1def)
+- [Building a calculator app with React Native and Tailwind CSS](https://dev.to/arshadayvid/building-a-calculator-app-with-react-native-and-tailwind-css-4k7n)
 - [Exploring the Power of Google News API via NewsData.io](https://dev.to/newsdataio/exploring-the-power-of-google-news-api-via-newsdataio-48i2)
-- [Java for Large-scale Enterprise Apps: Pros and Cons?](https://dev.to/devteam/java-for-large-scale-enterprise-apps-pros-and-cons-1h9h)
-- [Top-notch Coding Qualities: Problem-solving Skills](https://dev.to/codenewbieteam/top-notch-coding-qualities-problem-solving-skills-2m25)
-- [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-132f)
+- [Taking Feature Flags to the Next Level: Simplified Feature Flags and Dynamic Overrides](https://dev.to/stretch0/taking-feature-flags-to-the-next-level-simplified-feature-flags-and-dynamic-overrides-254b)
 <!-- BLOG-POST-LIST:END -->
 
