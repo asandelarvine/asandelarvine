@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Beginner to Advanced: Value Bomb in one Shot](https://dev.to/lovepreetsingh/javascript-beginner-to-advanced-value-bomb-in-one-shot-2ll6)
-- [How to simplify form styles using CSS accent-color](https://dev.to/logrocket/how-to-simplify-form-styles-using-css-accent-color-4m1a)
-- [The Moon in 10241 Dots — Re-creating a 1969 Masterpiece](https://dev.to/madsstoumann/the-moon-in-10241-dots-re-creating-a-1969-masterpiece-35e2)
-- [Accept PayPal as a payment method with Stripe in the EU, UK and Switzerland](https://dev.to/stripe/accept-paypal-as-a-payment-method-with-stripe-in-the-eu-uk-and-switzerland-403l)
+- [Doticons - A collection of minimal dot icons](https://dev.to/_eduard26/doticons-a-collection-of-minimal-dot-icons-e2f)
+- [10 JavaScript Best Practices That Every Developer Should Know!](https://dev.to/blackhorse0101/10-javascript-best-practices-that-every-developer-should-know-3a9o)
+- [How This NuGet Package Almost Cost Me My Job](https://dev.to/codaholic/how-this-nuget-package-almost-cost-me-my-job-2n7p)
+- [The Perl and Raku Conference, Toronto 2023](https://dev.to/davorg/the-perl-and-raku-conference-toronto-2023-5c24)
 <!-- BLOG-POST-LIST:END -->
 
