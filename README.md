@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to Turbo Modules in React Native](https://dev.to/anishamalde/a-guide-to-turbo-modules-in-react-native-5aa3)
 - [Track your expenses with Splitwired](https://dev.to/falcosan/track-your-expenses-with-splitwired-1ldo)
 - [How to Build a Web3 NFT Cross-Breeding Dapp with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-web3-nft-cross-breeding-dapp-with-react-solidity-and-cometchat-3nk3)
-- [How to build and deploy an AI Chatbot like ChatGPT without a credit card](https://dev.to/renzhamin/how-to-build-and-deploy-an-ai-chatbot-like-chatgpt-without-a-credit-card-69f)
-- [GoodWeek smart contract](https://dev.to/sethlawson/goodweek-smart-contract-575a)
+- [Is Github API working?](https://dev.to/schbenedikt/is-github-api-working-1d53)
 <!-- BLOG-POST-LIST:END -->
 
