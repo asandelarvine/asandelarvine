@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-132f)
+- [How to Accelerate Flutter Development: Tips for Beginners](https://dev.to/kargatharaaakash/how-to-accelerate-flutter-development-tips-for-beginners-3205)
 - [How to use ASP.NET Core Web APIs for Web Development](https://dev.to/ifourtechnolab/how-to-use-aspnet-core-web-apis-for-web-development-155d)
 - [Stop using npm or yarn to install node_modules](https://dev.to/kristiyan_velkov/stop-using-npm-or-yarn-to-install-nodemodules-o5p)
-- [Entendendo e usando vertical-align: middle no CSS](https://dev.to/oler/entendendo-e-usando-vertical-align-middle-no-css-3acg)
-- [Um dos Matchers mais importantes do Spring Security](https://dev.to/eronalves1996/um-dos-matchers-mais-importantes-do-spring-security-19gg)
 <!-- BLOG-POST-LIST:END -->
 
