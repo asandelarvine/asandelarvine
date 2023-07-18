@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [I built an industrial scale web scraper. Here&#39;s what I learned.](https://dev.to/cleancodestudio/i-built-an-industrial-scale-web-scraper-heres-what-i-learned-p6d)
+- [[Conceito] - Como Atuar com Arquitetura](https://dev.to/zanfranceschi/conceito-como-atuar-com-arquitetura-1a1j)
 - [Embeddable Widgets to Bring Web3 Experience to Any Website](https://dev.to/tvcapital/embeddable-widgets-bring-web3-experience-to-any-website-509k)
 - [The New Vercel AI SDK: Your Own Chatbot in a Flash](https://dev.to/stonediggity/the-new-vercel-ai-sdk-your-own-chatbot-in-a-flash-499g)
-- [Python Orientado a Objetos 1](https://dev.to/dntfindmel_/python-orientado-a-objetos-1-4cen)
 <!-- BLOG-POST-LIST:END -->
 
