@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an industrial scale web scraper. Here&#39;s what I learned.](https://dev.to/cleancodestudio/i-built-an-industrial-scale-web-scraper-heres-what-i-learned-p6d)
-- [[Conceito] - Como Atuar com Arquitetura](https://dev.to/zanfranceschi/conceito-como-atuar-com-arquitetura-1a1j)
-- [Embeddable Widgets to Bring Web3 Experience to Any Website](https://dev.to/tvcapital/embeddable-widgets-bring-web3-experience-to-any-website-509k)
-- [The New Vercel AI SDK: Your Own Chatbot in a Flash](https://dev.to/stonediggity/the-new-vercel-ai-sdk-your-own-chatbot-in-a-flash-499g)
+- [How to use ASP.NET Core Web APIs for Web Development](https://dev.to/ifourtechnolab/how-to-use-aspnet-core-web-apis-for-web-development-155d)
+- [Stop using npm or yarn to install node_modules](https://dev.to/kristiyan_velkov/stop-using-npm-or-yarn-to-install-nodemodules-o5p)
+- [Entendendo e usando vertical-align: middle no CSS](https://dev.to/oler/entendendo-e-usando-vertical-align-middle-no-css-3acg)
+- [Um dos Matchers mais importantes do Spring Security](https://dev.to/eronalves1996/um-dos-matchers-mais-importantes-do-spring-security-19gg)
 <!-- BLOG-POST-LIST:END -->
 
