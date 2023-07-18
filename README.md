@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Dyte’s Live streaming SDK on Product Hunt](https://dev.to/rishit/launching-dytes-live-streaming-sdk-on-product-hunt-d86)
-- [🚀 7 open-source projects you should contribute to in 2023 ⭐️⭐️](https://dev.to/github20k/7-open-source-projects-you-should-contribute-to-in-2023-1nph)
-- [Effective Testing Techniques and Mobile App Development Cost Estimate](https://dev.to/agilitest/effective-testing-techniques-and-mobile-app-development-cost-estimate-1def)
-- [Building a calculator app with React Native and Tailwind CSS](https://dev.to/arshadayvid/building-a-calculator-app-with-react-native-and-tailwind-css-4k7n)
+- [React Series Part-0](https://dev.to/yellowgem/react-series-part-0-323i)
+- [Discover the Power and Simplicity of Daxus: Take Control of Your Data with Ease](https://dev.to/jason89521/discover-the-power-and-simplicity-of-daxus-take-control-of-your-data-with-ease-2fjo)
+- [How to make Radix UI Tabs URL based in NextJS](https://dev.to/yinks/how-to-make-radix-ui-tabs-url-based-in-nextjs-2nfn)
+- [Your First Contribution to a Major Open Source Project - Step by Step [Beginner Edition] 🛠️🚀](https://dev.to/quine/your-first-contribution-to-a-major-open-source-project-step-by-step-beginner-edition-b57)
 <!-- BLOG-POST-LIST:END -->
 
