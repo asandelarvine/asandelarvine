@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neumorphism Website + Github API &lpar;Part 3&rpar;](https://dev.to/schbenedikt/neumorphism-website-github-api-part-3-179b)
-- [Building High Quality Android UI: Embracing Test Driven Development with Jetpack Compose](https://dev.to/zurcher/building-high-quality-android-ui-embracing-test-driven-development-with-jetpack-compose-21aj)
-- [Use a Stored Column for Indexing Values Stored in JSON [MySQL Tip]](https://dev.to/brightdevs/use-a-stored-column-for-indexing-values-stored-in-json-mysql-tip-2imi)
-- [How we built a GPT code agent that generates full-stack web apps in React &amp; Node.js, explained simply](https://dev.to/wasp/how-we-built-a-gpt-code-agent-that-generates-full-stack-web-apps-in-react-nodejs-explained-simply-4f9)
+- [Javascript Beginner to Advanced: Value Bomb in one Shot](https://dev.to/lovepreetsingh/javascript-beginner-to-advanced-value-bomb-in-one-shot-2ll6)
+- [How to simplify form styles using CSS accent-color](https://dev.to/logrocket/how-to-simplify-form-styles-using-css-accent-color-4m1a)
+- [The Moon in 10241 Dots — Re-creating a 1969 Masterpiece](https://dev.to/madsstoumann/the-moon-in-10241-dots-re-creating-a-1969-masterpiece-35e2)
+- [Accept PayPal as a payment method with Stripe in the EU, UK and Switzerland](https://dev.to/stripe/accept-paypal-as-a-payment-method-with-stripe-in-the-eu-uk-and-switzerland-403l)
 <!-- BLOG-POST-LIST:END -->
 
