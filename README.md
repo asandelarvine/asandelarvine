@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Repo manager](https://dev.to/tigawanna/repo-manager-3d53)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-556e)
 - [Netmaker - WireGuard Made Easy](https://dev.to/afeiszli/netmaker-wireguard-made-easy-34gf)
 - [My Journey to AWS Solution Architect Professional Certification: Tips for Success](https://dev.to/jito/my-journey-to-aws-solution-architect-professional-certification-tips-for-success-583o)
-- [Granular Permission Management with CASL Library](https://dev.to/brainhubeu/granular-permission-management-with-casl-library-50g9)
-- [What Is AWS AppConfig?](https://dev.to/kelvinskell/what-is-aws-appconfig-3194)
 <!-- BLOG-POST-LIST:END -->
 
