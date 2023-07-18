@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching Dyte’s Live streaming SDK on Product Hunt](https://dev.to/rishit/launching-dytes-live-streaming-sdk-on-product-hunt-d86)
+- [🚀 7 open-source projects you should contribute to in 2023 ⭐️⭐️](https://dev.to/github20k/7-open-source-projects-you-should-contribute-to-in-2023-1nph)
 - [Effective Testing Techniques and Mobile App Development Cost Estimate](https://dev.to/agilitest/effective-testing-techniques-and-mobile-app-development-cost-estimate-1def)
 - [Building a calculator app with React Native and Tailwind CSS](https://dev.to/arshadayvid/building-a-calculator-app-with-react-native-and-tailwind-css-4k7n)
-- [Exploring the Power of Google News API via NewsData.io](https://dev.to/newsdataio/exploring-the-power-of-google-news-api-via-newsdataio-48i2)
-- [Taking Feature Flags to the Next Level: Simplified Feature Flags and Dynamic Overrides](https://dev.to/stretch0/taking-feature-flags-to-the-next-level-simplified-feature-flags-and-dynamic-overrides-254b)
 <!-- BLOG-POST-LIST:END -->
 
