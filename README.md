@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Roles in Software Development:](https://dev.to/geetechlab/roles-in-software-development-3koo)
+- [Cocaptain the next free Copilot](https://dev.to/ayyoubessadeq/cocaptain-the-next-free-copilot-4785)
+- [Web Development for Beginners](https://dev.to/geetechlab/web-development-in-general-1975)
 - [React Series Part-0](https://dev.to/yellowgem/react-series-part-0-323i)
-- [Discover the Power and Simplicity of Daxus: Take Control of Your Data with Ease](https://dev.to/jason89521/discover-the-power-and-simplicity-of-daxus-take-control-of-your-data-with-ease-2fjo)
-- [How to make Radix UI Tabs URL based in NextJS](https://dev.to/yinks/how-to-make-radix-ui-tabs-url-based-in-nextjs-2nfn)
-- [Your First Contribution to a Major Open Source Project - Step by Step [Beginner Edition] 🛠️🚀](https://dev.to/quine/your-first-contribution-to-a-major-open-source-project-step-by-step-beginner-edition-b57)
 <!-- BLOG-POST-LIST:END -->
 
