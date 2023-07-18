@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Repo manager](https://dev.to/tigawanna/repo-manager-3d53)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-556e)
-- [Netmaker - WireGuard Made Easy](https://dev.to/afeiszli/netmaker-wireguard-made-easy-34gf)
-- [My Journey to AWS Solution Architect Professional Certification: Tips for Success](https://dev.to/jito/my-journey-to-aws-solution-architect-professional-certification-tips-for-success-583o)
+- [Neumorphism Website + Github API &lpar;Part 3&rpar;](https://dev.to/schbenedikt/neumorphism-website-github-api-part-3-179b)
+- [Building High Quality Android UI: Embracing Test Driven Development with Jetpack Compose](https://dev.to/zurcher/building-high-quality-android-ui-embracing-test-driven-development-with-jetpack-compose-21aj)
+- [Use a Stored Column for Indexing Values Stored in JSON [MySQL Tip]](https://dev.to/brightdevs/use-a-stored-column-for-indexing-values-stored-in-json-mysql-tip-2imi)
+- [How we built a GPT code agent that generates full-stack web apps in React &amp; Node.js, explained simply](https://dev.to/wasp/how-we-built-a-gpt-code-agent-that-generates-full-stack-web-apps-in-react-nodejs-explained-simply-4f9)
 <!-- BLOG-POST-LIST:END -->
 
