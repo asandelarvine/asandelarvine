@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top-notch Coding Qualities: Attention to Detail](https://dev.to/codenewbieteam/top-notch-coding-qualities-attention-to-detail-3fmg)
-- [Reducing Cloud Costs on Kubernetes Dev Envs](https://dev.to/gsaraf/reducing-cloud-costs-on-kubernetes-dev-envs-318)
-- [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series 2&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-2-1h8f)
-- [How we support an array of diverse connectors](https://dev.to/logto/how-we-support-an-array-of-diverse-connectors-335n)
+- [Chat GPT Powered Teams Private Virtual Agent](https://dev.to/wyattdave/chat-gpt-powered-teams-private-virtual-agent-3dbc)
+- [learn ethical hacking full course](https://dev.to/tech12lismel/learn-ethical-hacking-full-course-1c3g)
+- [Transforming Pixels into Imagination: Building an AI-Powered Image Generator with React.js and OpenAI API](https://dev.to/onlyoneerin/transforming-pixels-into-imagination-building-an-ai-powered-image-generator-with-reactjs-and-openai-api-473)
+- [Needing backend assistance](https://dev.to/amplitudetdc1/needing-backend-assistance-2hh0)
 <!-- BLOG-POST-LIST:END -->
 
