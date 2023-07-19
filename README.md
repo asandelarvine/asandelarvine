@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding PHP-FPM: A Comprehensive Guide](https://dev.to/arsalanmee/understanding-php-fpm-a-comprehensive-guide-3ng8)
-- [Introducing Fuzzing with Alexandre](https://dev.to/crabnebula/introducing-fuzzing-with-alexandre-4aid)
-- [Unstyled PrimeVue Meets Bulma CSS](https://dev.to/cagataycivici/unstyled-primevue-meets-bulma-css-2epn)
-- [How to Set Up an Azure Kubernetes Service Cluster with Terraform](https://dev.to/bravinsimiyu/how-to-set-up-an-azure-kubernetes-service-cluster-with-terraform-3og9)
+- [Running Slack App on Cloudflare Workers](https://dev.to/seratch/running-slack-app-on-cloudflare-workers-3hhn)
+- [Mastering Laravel: Top 10 Training Tasks to Showcase Your Skills](https://dev.to/faridteymouri/mastering-laravel-top-10-training-tasks-to-showcase-your-skills-4l03)
+- [I am working on the latest software technology](https://dev.to/shreyvijayvargiya/i-am-working-on-the-latest-software-technology-m6d)
+- [What is Event Bubbling? event bubbling in JS](https://dev.to/diwakarkashyap/what-is-event-bubbling-event-bubbling-in-js-4kn7)
 <!-- BLOG-POST-LIST:END -->
 
