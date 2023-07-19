@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind intro – good and bad](https://dev.to/hi_iam_chris/tailwind-intro-good-and-bad-2l1e)
-- [Array Data Structure: With Sketches and Examples](https://dev.to/ggorantala/array-data-structure-4cl2)
-- [Benchmarking &#39;for&#39;, &#39;while&#39;, &#39;for...of&#39;, and &#39;Array.forEach&#39; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-for-while-forof-and-arrayforeach-using-performancenow-1jjg)
-- [Advanced Python Tips for Development](https://dev.to/scofieldidehen/advanced-python-tips-for-development-olo)
+- [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
+- [Is manual testing a good choice in 2023?](https://dev.to/campkathleen3/is-manual-testing-a-good-choice-in-2023-g60)
+- [The Ultimate Comparison: Ant Design vs Material# Ant Design vs Material UI: Which React UI Library to Choose](https://dev.to/idurar/the-ultimate-comparison-ant-design-vs-material-ant-design-vs-material-ui-which-react-ui-library-to-choose-2mkd)
+- [GitHub Pages Wizardry: A Beginner&#39;s Guide to Deploying Your Website on a Custom Domain 🪄](https://dev.to/nessakodo/github-pages-wizardry-a-beginners-guide-to-deploying-your-website-on-a-custom-domain-5154)
 <!-- BLOG-POST-LIST:END -->
 
