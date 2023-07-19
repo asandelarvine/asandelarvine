@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top-notch Coding Qualities: Attention to Detail](https://dev.to/codenewbieteam/top-notch-coding-qualities-attention-to-detail-3fmg)
+- [Reducing Cloud Costs on Kubernetes Dev Envs](https://dev.to/gsaraf/reducing-cloud-costs-on-kubernetes-dev-envs-318)
 - [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series 2&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-2-1h8f)
-- [Top Skills for Frontend Development](https://dev.to/roktim32/top-skills-for-frontend-development-34ce)
-- [Real-time Data Processing Pipeline With MongoDB, Kafka, Debezium And RisingWave](https://dev.to/bobur/real-time-data-processing-pipeline-with-mongodb-kafka-debezium-and-risingwave-58kk)
-- [Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
+- [How we support an array of diverse connectors](https://dev.to/logto/how-we-support-an-array-of-diverse-connectors-335n)
 <!-- BLOG-POST-LIST:END -->
 
