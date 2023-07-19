@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How much does it cost to build on top of Open AI API: building👩‍💻 + covering cost💰](https://dev.to/shnai0/how-much-does-it-cost-to-build-on-top-of-open-ai-api-building-covering-cost-4777)
-- [Storyblok Svelte SDK ready for 4.0 🚀](https://dev.to/storyblok/storyblok-svelte-sdk-ready-for-40-36k4)
-- [This Week In React #152: React 18, RSC, Kuma UI, Expo 49, Next.js, Remix, Fresh, React-Query, Redwood, Catalyst, TC39...](https://dev.to/sebastienlorber/this-week-in-react-152-react-18-rsc-kuma-ui-expo-49-nextjs-remix-fresh-react-query-redwood-catalyst-tc39-28bb)
-- [Next.js Hangout Thread](https://dev.to/vulcanwm/nextjs-hangout-thread-jb8)
+- [From Coder to Entrepreneur: Are You Exploring New Horizons?](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
+- [Practical advice for finding GitHub issues to work on](https://dev.to/opensauced/practical-advice-for-finding-github-issues-to-work-on-2g4o)
+- [Moonly weekly progress update #57 - Automatio the no-code web automation tool](https://dev.to/moonly/moonly-weekly-progress-update-57-automatio-the-no-code-web-automation-tool-2fgn)
+- [Criamos uma nova forma de avaliar jogos: Open Video Game Data [PT-BR]](https://dev.to/andredarcie/criamos-uma-nova-forma-de-avaliar-jogos-open-video-game-data-pt-br-49j3)
 <!-- BLOG-POST-LIST:END -->
 
