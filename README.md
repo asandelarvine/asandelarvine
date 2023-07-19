@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A complete guide to the Node.js event loop](https://dev.to/logrocket/a-complete-guide-to-the-nodejs-event-loop-1ie2)
+- [My Favorite FREE Resources for Learning Technical Skills](https://dev.to/jakecupani/my-favorite-free-resources-for-learning-technical-skills-4j17)
+- [Intersection observer directive to add and remove classes in Angular](https://dev.to/ayyash/intersection-observer-directive-to-add-and-remove-classes-in-angular-2n3g)
 - [DRP Windows Server with AWS DRS &lpar;Elastic Disaster Recovery&rpar;](https://dev.to/acijum81/drp-windows-server-with-aws-drs-elastic-disaster-recovery-502c)
-- [Introducing Open Video Game Data: A new approach to evaluating games.](https://dev.to/andredarcie/introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5)
-- [Streamlining the User Experience: Enhancing the Admin Panel for Seamless Management](https://dev.to/abhixsh/streamlining-the-user-experience-enhancing-the-admin-panel-for-seamless-management-2djl)
-- [Próximos passos com Atlantis](https://dev.to/brunopadz/proximos-passos-com-atlantis-8b8)
 <!-- BLOG-POST-LIST:END -->
 
