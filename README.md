@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Tailwind CSS and Vue to Create Animated and Accessible Tabs](https://dev.to/cruip_com/using-tailwind-css-and-vue-to-create-animated-and-accessible-tabs-4o0c)
-- [Using Tailwind CSS and Next.js to Create Animated and Accessible Tabs](https://dev.to/cruip_com/using-tailwind-css-and-nextjs-to-create-animated-and-accessible-tabs-59jj)
-- [Using Tailwind CSS and Alpine.js to Create Animated and Accessible Tabs](https://dev.to/cruip_com/using-tailwind-css-and-alpinejs-to-create-animated-and-accessible-tabs-49cd)
-- [Anyone using Fiverr?](https://dev.to/pulimoodan/anyone-using-fiverr-1p9l)
+- [Understanding PHP-FPM: A Comprehensive Guide](https://dev.to/arsalanmee/understanding-php-fpm-a-comprehensive-guide-3ng8)
+- [Introducing Fuzzing with Alexandre](https://dev.to/crabnebula/introducing-fuzzing-with-alexandre-4aid)
+- [Unstyled PrimeVue Meets Bulma CSS](https://dev.to/cagataycivici/unstyled-primevue-meets-bulma-css-2epn)
+- [How to Set Up an Azure Kubernetes Service Cluster with Terraform](https://dev.to/bravinsimiyu/how-to-set-up-an-azure-kubernetes-service-cluster-with-terraform-3og9)
 <!-- BLOG-POST-LIST:END -->
 
