@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Do you remember the first &quot;Usable&quot; project you developed?](https://dev.to/rzin/do-you-remember-the-first-usable-project-you-developed-1f64)
 - [Understand what you run before publishing your &lpar;silly&rpar; benchmark results](https://dev.to/yugabyte/understand-what-you-run-before-publishing-your-silly-benchmark-results-48bb)
+- [Supercharge Your Node.js Development with This Starter Configuration](https://dev.to/aagamezl/supercharge-your-nodejs-development-with-this-starter-configuration-4c78)
 - [A complete guide to the Node.js event loop](https://dev.to/logrocket/a-complete-guide-to-the-nodejs-event-loop-1ie2)
-- [My Favorite FREE Resources for Learning Technical Skills](https://dev.to/jakecupani/my-favorite-free-resources-for-learning-technical-skills-4j17)
 <!-- BLOG-POST-LIST:END -->
 
