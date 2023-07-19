@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Neumorphism Website + Github API &lpar;Part 4&rpar;](https://dev.to/schbenedikt/neumorphism-website-github-api-part-4-1e5j)
+- [Memoization using React.useMemo&lpar;&rpar;](https://dev.to/hardiksharma/memoization-using-reactusememo-142h)
 - [Running Slack App on Cloudflare Workers](https://dev.to/seratch/running-slack-app-on-cloudflare-workers-3hhn)
 - [Mastering Laravel: Top 10 Training Tasks to Showcase Your Skills](https://dev.to/faridteymouri/mastering-laravel-top-10-training-tasks-to-showcase-your-skills-4l03)
-- [I am working on the latest software technology](https://dev.to/shreyvijayvargiya/i-am-working-on-the-latest-software-technology-m6d)
-- [What is Event Bubbling? event bubbling in JS](https://dev.to/diwakarkashyap/what-is-event-bubbling-event-bubbling-in-js-4kn7)
 <!-- BLOG-POST-LIST:END -->
 
