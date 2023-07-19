@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
-- [Is manual testing a good choice in 2023?](https://dev.to/campkathleen3/is-manual-testing-a-good-choice-in-2023-g60)
-- [The Ultimate Comparison: Ant Design vs Material# Ant Design vs Material UI: Which React UI Library to Choose](https://dev.to/idurar/the-ultimate-comparison-ant-design-vs-material-ant-design-vs-material-ui-which-react-ui-library-to-choose-2mkd)
-- [GitHub Pages Wizardry: A Beginner&#39;s Guide to Deploying Your Website on a Custom Domain 🪄](https://dev.to/nessakodo/github-pages-wizardry-a-beginners-guide-to-deploying-your-website-on-a-custom-domain-5154)
+- [How much does it cost to build on top of Open AI API: building👩‍💻 + covering cost💰](https://dev.to/shnai0/how-much-does-it-cost-to-build-on-top-of-open-ai-api-building-covering-cost-4777)
+- [Storyblok Svelte SDK ready for 4.0 🚀](https://dev.to/storyblok/storyblok-svelte-sdk-ready-for-40-36k4)
+- [This Week In React #152: React 18, RSC, Kuma UI, Expo 49, Next.js, Remix, Fresh, React-Query, Redwood, Catalyst, TC39...](https://dev.to/sebastienlorber/this-week-in-react-152-react-18-rsc-kuma-ui-expo-49-nextjs-remix-fresh-react-query-redwood-catalyst-tc39-28bb)
+- [Next.js Hangout Thread](https://dev.to/vulcanwm/nextjs-hangout-thread-jb8)
 <!-- BLOG-POST-LIST:END -->
 
