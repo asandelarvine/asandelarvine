@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
 - [Creating an EKS Cluster Using Terraform: A Step-by-Step Guide](https://dev.to/orishadevops/creating-an-eks-cluster-using-terraform-a-step-by-step-guide-2nak)
 - [Assembly essentials](https://dev.to/leviackr/assembly-essentials-4875)
 - [5 Well-known JavaScript Obfuscation and Encryption Tools](https://dev.to/w2sft/5-well-known-javascript-obfuscation-and-encryption-tools-ad5)
-- [TypeScript&#39;s type inference. A readonly array of specific string values.](https://dev.to/mavludin/typescripts-type-inference-a-readonly-array-of-specific-string-values-3moi)
 <!-- BLOG-POST-LIST:END -->
 
