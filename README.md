@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [A complete guide to the Node.js event loop](https://dev.to/logrocket/a-complete-guide-to-the-nodejs-event-loop-1ie2)
 - [My Favorite FREE Resources for Learning Technical Skills](https://dev.to/jakecupani/my-favorite-free-resources-for-learning-technical-skills-4j17)
 - [Intersection observer directive to add and remove classes in Angular](https://dev.to/ayyash/intersection-observer-directive-to-add-and-remove-classes-in-angular-2n3g)
-- [DRP Windows Server with AWS DRS &lpar;Elastic Disaster Recovery&rpar;](https://dev.to/acijum81/drp-windows-server-with-aws-drs-elastic-disaster-recovery-502c)
+- [New React Course Announcement](https://dev.to/theodinproject/new-react-course-announcement-2a6f)
 <!-- BLOG-POST-LIST:END -->
 
