@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Coder to Entrepreneur: Are You Exploring New Horizons?](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
-- [Practical advice for finding GitHub issues to work on](https://dev.to/opensauced/practical-advice-for-finding-github-issues-to-work-on-2g4o)
-- [Moonly weekly progress update #57 - Automatio the no-code web automation tool](https://dev.to/moonly/moonly-weekly-progress-update-57-automatio-the-no-code-web-automation-tool-2fgn)
-- [Criamos uma nova forma de avaliar jogos: Open Video Game Data [PT-BR]](https://dev.to/andredarcie/criamos-uma-nova-forma-de-avaliar-jogos-open-video-game-data-pt-br-49j3)
+- [DRP Windows Server with AWS DRS &lpar;Elastic Disaster Recovery&rpar;](https://dev.to/acijum81/drp-windows-server-with-aws-drs-elastic-disaster-recovery-502c)
+- [Introducing Open Video Game Data: A new approach to evaluating games.](https://dev.to/andredarcie/introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5)
+- [Streamlining the User Experience: Enhancing the Admin Panel for Seamless Management](https://dev.to/abhixsh/streamlining-the-user-experience-enhancing-the-admin-panel-for-seamless-management-2djl)
+- [Próximos passos com Atlantis](https://dev.to/brunopadz/proximos-passos-com-atlantis-8b8)
 <!-- BLOG-POST-LIST:END -->
 
