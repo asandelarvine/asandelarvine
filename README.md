@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Assembly essentials](https://dev.to/leviackr/assembly-essentials-4875)
+- [TypeScript&#39;s type inference. A readonly array of specific string values.](https://dev.to/mavludin/typescripts-type-inference-a-readonly-array-of-specific-string-values-3moi)
 - [Unmasking Ghost Parameters, or How to Save Time and Money](https://dev.to/pelegpor/unmasking-ghost-parameters-or-how-to-save-time-and-money-2gbo)
 - [Creating Accessible Custom Components with React Aria: A Practical Example with Forms](https://dev.to/colinah/creating-accessible-custom-components-with-react-aria-a-practical-example-with-forms-1cp9)
-- [Signals make Angular MUCH easier](https://dev.to/mfp22/signals-make-angular-much-easier-3k9)
-- [Introducing the Employee Onboarding Portal](https://dev.to/jaloplo/introducing-the-employee-onboarding-portal-mph)
 <!-- BLOG-POST-LIST:END -->
 
