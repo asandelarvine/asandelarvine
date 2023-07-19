@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you remember the first &quot;Usable&quot; project you developed?](https://dev.to/rzin/do-you-remember-the-first-usable-project-you-developed-1f64)
+- [Understand what you run before publishing your &lpar;silly&rpar; benchmark results](https://dev.to/yugabyte/understand-what-you-run-before-publishing-your-silly-benchmark-results-48bb)
 - [A complete guide to the Node.js event loop](https://dev.to/logrocket/a-complete-guide-to-the-nodejs-event-loop-1ie2)
 - [My Favorite FREE Resources for Learning Technical Skills](https://dev.to/jakecupani/my-favorite-free-resources-for-learning-technical-skills-4j17)
-- [Intersection observer directive to add and remove classes in Angular](https://dev.to/ayyash/intersection-observer-directive-to-add-and-remove-classes-in-angular-2n3g)
-- [New React Course Announcement](https://dev.to/theodinproject/new-react-course-announcement-2a6f)
 <!-- BLOG-POST-LIST:END -->
 
