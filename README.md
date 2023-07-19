@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neumorphism Website + Github API &lpar;Part 4&rpar;](https://dev.to/schbenedikt/neumorphism-website-github-api-part-4-1e5j)
-- [Memoization using React.useMemo&lpar;&rpar;](https://dev.to/hardiksharma/memoization-using-reactusememo-142h)
-- [Running Slack App on Cloudflare Workers](https://dev.to/seratch/running-slack-app-on-cloudflare-workers-3hhn)
-- [Mastering Laravel: Top 10 Training Tasks to Showcase Your Skills](https://dev.to/faridteymouri/mastering-laravel-top-10-training-tasks-to-showcase-your-skills-4l03)
+- [Tailwind intro – good and bad](https://dev.to/hi_iam_chris/tailwind-intro-good-and-bad-2l1e)
+- [Array Data Structure: With Sketches and Examples](https://dev.to/ggorantala/array-data-structure-4cl2)
+- [Benchmarking &#39;for&#39;, &#39;while&#39;, &#39;for...of&#39;, and &#39;Array.forEach&#39; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-for-while-forof-and-arrayforeach-using-performancenow-1jjg)
+- [Advanced Python Tips for Development](https://dev.to/scofieldidehen/advanced-python-tips-for-development-olo)
 <!-- BLOG-POST-LIST:END -->
 
