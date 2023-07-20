@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding useCallback&lpar;&rpar; vs. useMemo&lpar;&rpar; in React.js 🚀](https://dev.to/kshaikreshma/understanding-usecallback-vs-usememo-in-reactjs-5bc7)
-- [Update your libraries to the latest version with yarn](https://dev.to/edsonjuniornarvaes/update-your-libraries-to-the-latest-version-with-yarn-2cf2)
-- [Supaheroes - AI powered heroes and villains](https://dev.to/asyncerror/supaheroes-ai-powered-heroes-3f3j)
-- [Robust Form - A simple and easy to use Form Builder application like Google Form.](https://dev.to/dilane3/robust-form-a-simple-and-easy-to-use-form-builder-application-like-google-form-20eb)
+- [Bulk Object Detection and Cropping with DETR](https://dev.to/sbang/object-detection-and-cropping-with-detr-2j2l)
+- [Building Portfolio with Next.js: Add Navbar, Footer, and Metadata](https://dev.to/adiatiayu/building-portfolio-with-nextjs-add-navbar-footer-and-metadata-3e3p)
+- [Competee: An online competition platform to unleash hidden talents 🏆](https://dev.to/alexcode4ever/competee-an-online-competition-platform-to-unleash-hidden-talents-nci)
+- [Managify: Manage Your Teams Easily](https://dev.to/rasitcolakel/manage-your-team-easily-with-managify-5gbp)
 <!-- BLOG-POST-LIST:END -->
 
