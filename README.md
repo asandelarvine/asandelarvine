@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do telemarketing pro mundo dev 📞](https://dev.to/anabergerr/do-telemarketing-pro-mundo-dev-498h)
+- [Embracing the Power of Sharing: My Journey in Tech Blogging](https://dev.to/adii9/embracing-the-power-of-sharing-my-journey-in-tech-blogging-2il9)
+- [Sloan&#39;s Inbox: Considering taking a coding sabbatical...](https://dev.to/devteam/sloans-inbox-considering-taking-a-coding-sabbatical-4o87)
 - [Securing your Kubernetes workloads with Sigstore](https://dev.to/donaldsebleung/securing-your-kubernetes-workloads-with-sigstore-3ljm)
-- [The State of the Bird](https://dev.to/grim/the-state-of-the-bird-2pi9)
-- [What If Artificial Intelligence Becomes Self-Aware 🚀🔥](https://dev.to/arjuncodess/what-if-artificial-intelligence-becomes-self-aware-4gcb)
-- [A Comprehensive Guide for Building Efficient Data Structures in Dart](https://dev.to/vadympinchuk/a-comprehensive-guide-for-building-efficient-data-structures-in-dart-2n1o)
 <!-- BLOG-POST-LIST:END -->
 
