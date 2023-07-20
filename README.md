@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About the Difference Between OPA&#39;s Rego and AWS Cedar](https://dev.to/permit_io/everything-you-need-to-know-about-the-difference-between-opas-rego-and-aws-cedar-28h1)
+- [Unleashing the Power of ChatGPT App Development: Transforming User Experiences](https://dev.to/daviscoy42935/unleashing-the-power-of-chatgpt-app-development-transforming-user-experiences-3l99)
+- [Postman Alternative: Hoppscotch 🛸 - open source, self hosted API Development Ecosystem](https://dev.to/hoppscotch/postman-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-9he)
 - [Top-notch Coding Qualities: Collaboration &amp; Communication](https://dev.to/codenewbieteam/top-notch-coding-qualities-collaboration-communication-38l3)
-- [Got Any Unconventional Hacks to Boost Problem-Solving Skills?](https://dev.to/devteam/got-any-unconventional-hacks-to-boost-problem-solving-skills-5hcb)
-- [50 high quality developer jobs - Startup Dev Jobs of The Week [20th July, 2023] - Post 4](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-startup-dev-jobs-of-the-week-20th-july-2023-post-4-15k8)
-- [ASP.NET CORE API with Entity Framework](https://dev.to/ifourtechnolab/aspnet-core-api-with-entity-framework-5ehd)
 <!-- BLOG-POST-LIST:END -->
 
