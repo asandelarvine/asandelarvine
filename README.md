@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React-ing to accessibility: Building accessible e-commerce forms that everyone can use](https://dev.to/martabento/react-ing-to-accessibility-building-accessible-e-commerce-forms-that-everyone-can-use-5d8o)
-- [A Guide to Perfecting Pull Requests](https://dev.to/karaluton/a-guide-to-perfecting-pull-requests-2b66)
-- [Calling for 100 builders](https://dev.to/rapha/calling-for-100-builders-48ld)
-- [Do telemarketing pro mundo dev 📞](https://dev.to/anabergerr/do-telemarketing-pro-mundo-dev-498h)
+- [Robust Form - A simple and easy to use Form Builder application like Google Form.](https://dev.to/dilane3/robust-form-a-simple-and-easy-to-use-form-builder-application-like-google-form-20eb)
+- [Reputation in Tech via Open Source](https://dev.to/arindam_1729/reputation-in-tech-via-open-source-26gf)
+- [Tailwind CSS Vs Inline CSS: Are They the Same?](https://dev.to/arindam_1729/tailwind-css-vs-inline-css-are-they-the-same-82i)
+- [Modules📤📥 in Node.js : Beginner to Advance💻](https://dev.to/tanishtt/modules-in-nodejs-beginner-to-advance-29k)
 <!-- BLOG-POST-LIST:END -->
 
