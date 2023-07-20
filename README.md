@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Event loop in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-event-loop-in-js-javascript-57kh)
-- [Design Patterns in PHP 8: Flyweight](https://dev.to/zhukmax/design-patterns-in-php-8-flyweight-5e0h)
-- [Refine Native](https://dev.to/abdellah711/refine-native-2p1d)
-- [How to migrate a live website without losing data](https://dev.to/accreditly/how-to-migrate-a-live-website-without-losing-data-53g4)
+- [What name should I give the project?](https://dev.to/schbenedikt/what-name-should-i-give-the-project-565g)
+- [10 Portfolio Projects you can try as an entry-level Data Analyst/Scientist](https://dev.to/durgesh4993/10-portfolio-projects-you-can-try-as-an-entry-level-data-analystscientist-e8e)
+- [Most intuitive blog on OOP](https://dev.to/coderatul/best-blog-on-oop-1c2e)
+- [🧑‍🎓 How to Choose the Right Learning Style for You](https://dev.to/evergrowingdev/how-to-choose-the-right-learning-style-for-you-3fa)
 <!-- BLOG-POST-LIST:END -->
 
