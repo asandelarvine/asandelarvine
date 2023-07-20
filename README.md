@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns in PHP 8: Flyweight](https://dev.to/zhukmax/design-patterns-in-php-8-flyweight-5e0h)
+- [Refine Native](https://dev.to/abdellah711/refine-native-2p1d)
 - [How to migrate a live website without losing data](https://dev.to/accreditly/how-to-migrate-a-live-website-without-losing-data-53g4)
 - [Designing APIs with Swagger and OpenAPI](https://dev.to/nfrankel/designing-apis-with-swagger-and-openapi-43e6)
-- [Mastering Frontend Interview Coding Challenges](https://dev.to/abidullah786/mastering-frontend-interview-coding-challenges-21lp)
-- [Measuring ROI in QA automation for business excellence](https://dev.to/softwebsolution/measuring-roi-in-qa-automation-for-business-excellence-3bnh)
 <!-- BLOG-POST-LIST:END -->
 
