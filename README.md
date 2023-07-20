@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LIAPP&#39;s enhanced security features for the app!](https://dev.to/teamliapp/liapps-enhanced-security-features-for-the-app-gpb)
 - [Setting Up a Local WAX Development Environment](https://dev.to/idmontie/setting-up-a-local-wax-development-environment-1cik)
 - [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
 - [How to create a Currency Converter app using ExchangeRate REST API](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
-- [Expense Tracker App](https://dev.to/lizardkinglk/expense-tracker-app-4pdc)
 <!-- BLOG-POST-LIST:END -->
 
