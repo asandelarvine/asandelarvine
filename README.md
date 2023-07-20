@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
 - [How to create a Currency Converter app using ExchangeRate REST API](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
 - [Do you remember the first &quot;Usable&quot; project you developed?](https://dev.to/rzin/do-you-remember-the-first-usable-project-you-developed-1f64)
 - [Publishing Electron apps to GitHub with Electron Forge](https://dev.to/zsevic/publishing-electron-apps-to-github-with-electron-forge-2bp3)
-- [Understand what you run before publishing your &lpar;silly&rpar; benchmark results](https://dev.to/yugabyte/understand-what-you-run-before-publishing-your-silly-benchmark-results-48bb)
 <!-- BLOG-POST-LIST:END -->
 
