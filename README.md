@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What name should I give the project?](https://dev.to/schbenedikt/what-name-should-i-give-the-project-565g)
-- [10 Portfolio Projects you can try as an entry-level Data Analyst/Scientist](https://dev.to/durgesh4993/10-portfolio-projects-you-can-try-as-an-entry-level-data-analystscientist-e8e)
-- [Most intuitive blog on OOP](https://dev.to/coderatul/best-blog-on-oop-1c2e)
-- [🧑‍🎓 How to Choose the Right Learning Style for You](https://dev.to/evergrowingdev/how-to-choose-the-right-learning-style-for-you-3fa)
+- [The State of the Bird](https://dev.to/grim/the-state-of-the-bird-2pi9)
+- [What If Artificial Intelligence Becomes Self-Aware 🚀🔥](https://dev.to/arjuncodess/what-if-artificial-intelligence-becomes-self-aware-4gcb)
+- [A Comprehensive Guide for Building Efficient Data Structures in Dart](https://dev.to/vadympinchuk/a-comprehensive-guide-for-building-efficient-data-structures-in-dart-2n1o)
+- [Tax Simplified with AI](https://dev.to/aiforme/tax-simplified-with-ai-1hl0)
 <!-- BLOG-POST-LIST:END -->
 
