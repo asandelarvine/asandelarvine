@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [React-ing to accessibility: Building accessible e-commerce forms that everyone can use](https://dev.to/martabento/react-ing-to-accessibility-building-accessible-e-commerce-forms-that-everyone-can-use-5d8o)
 - [Calling for 100 builders](https://dev.to/rapha/calling-for-100-builders-48ld)
 - [Do telemarketing pro mundo dev 📞](https://dev.to/anabergerr/do-telemarketing-pro-mundo-dev-498h)
-- [Embracing the Power of Sharing: My Journey in Tech Blogging](https://dev.to/adii9/embracing-the-power-of-sharing-my-journey-in-tech-blogging-2il9)
+- [Using Replit with Node.js to build and deploy apps](https://dev.to/logrocket/using-replit-with-nodejs-to-build-and-deploy-apps-54gi)
 <!-- BLOG-POST-LIST:END -->
 
