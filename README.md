@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LIAPP&#39;s enhanced security features for the app!](https://dev.to/teamliapp/liapps-enhanced-security-features-for-the-app-gpb)
-- [Setting Up a Local WAX Development Environment](https://dev.to/idmontie/setting-up-a-local-wax-development-environment-1cik)
-- [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
-- [How to create a Currency Converter app using ExchangeRate REST API](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
+- [Top-notch Coding Qualities: Collaboration &amp; Communication](https://dev.to/codenewbieteam/top-notch-coding-qualities-collaboration-communication-38l3)
+- [Got Any Unconventional Hacks to Boost Problem-Solving Skills?](https://dev.to/devteam/got-any-unconventional-hacks-to-boost-problem-solving-skills-5hcb)
+- [50 high quality developer jobs - Startup Dev Jobs of The Week [20th July, 2023] - Post 4](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-startup-dev-jobs-of-the-week-20th-july-2023-post-4-15k8)
+- [ASP.NET CORE API with Entity Framework](https://dev.to/ifourtechnolab/aspnet-core-api-with-entity-framework-5ehd)
 <!-- BLOG-POST-LIST:END -->
 
