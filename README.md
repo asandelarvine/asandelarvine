@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [React-ing to accessibility: Building accessible e-commerce forms that everyone can use](https://dev.to/martabento/react-ing-to-accessibility-building-accessible-e-commerce-forms-that-everyone-can-use-5d8o)
+- [A Guide to Perfecting Pull Requests](https://dev.to/karaluton/a-guide-to-perfecting-pull-requests-2b66)
 - [Calling for 100 builders](https://dev.to/rapha/calling-for-100-builders-48ld)
 - [Do telemarketing pro mundo dev 📞](https://dev.to/anabergerr/do-telemarketing-pro-mundo-dev-498h)
-- [Using Replit with Node.js to build and deploy apps](https://dev.to/logrocket/using-replit-with-nodejs-to-build-and-deploy-apps-54gi)
 <!-- BLOG-POST-LIST:END -->
 
