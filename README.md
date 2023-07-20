@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding useCallback&lpar;&rpar; vs. useMemo&lpar;&rpar; in React.js 🚀](https://dev.to/kshaikreshma/understanding-usecallback-vs-usememo-in-reactjs-5bc7)
 - [Update your libraries to the latest version with yarn](https://dev.to/edsonjuniornarvaes/update-your-libraries-to-the-latest-version-with-yarn-2cf2)
+- [Supaheroes - AI powered heroes and villains](https://dev.to/asyncerror/supaheroes-ai-powered-heroes-3f3j)
 - [Robust Form - A simple and easy to use Form Builder application like Google Form.](https://dev.to/dilane3/robust-form-a-simple-and-easy-to-use-form-builder-application-like-google-form-20eb)
-- [Reputation in Tech via Open Source](https://dev.to/arindam_1729/reputation-in-tech-via-open-source-26gf)
-- [Tailwind CSS Vs Inline CSS: Are They the Same?](https://dev.to/arindam_1729/tailwind-css-vs-inline-css-are-they-the-same-82i)
 <!-- BLOG-POST-LIST:END -->
 
