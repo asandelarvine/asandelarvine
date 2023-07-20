@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing your Kubernetes workloads with Sigstore](https://dev.to/donaldsebleung/securing-your-kubernetes-workloads-with-sigstore-3ljm)
 - [The State of the Bird](https://dev.to/grim/the-state-of-the-bird-2pi9)
 - [What If Artificial Intelligence Becomes Self-Aware 🚀🔥](https://dev.to/arjuncodess/what-if-artificial-intelligence-becomes-self-aware-4gcb)
 - [A Comprehensive Guide for Building Efficient Data Structures in Dart](https://dev.to/vadympinchuk/a-comprehensive-guide-for-building-efficient-data-structures-in-dart-2n1o)
-- [Tax Simplified with AI](https://dev.to/aiforme/tax-simplified-with-ai-1hl0)
 <!-- BLOG-POST-LIST:END -->
 
