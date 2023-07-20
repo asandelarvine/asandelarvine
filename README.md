@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React-ing to accessibility: Building accessible e-commerce forms that everyone can use](https://dev.to/martabento/react-ing-to-accessibility-building-accessible-e-commerce-forms-that-everyone-can-use-5d8o)
+- [Calling for 100 builders](https://dev.to/rapha/calling-for-100-builders-48ld)
 - [Do telemarketing pro mundo dev 📞](https://dev.to/anabergerr/do-telemarketing-pro-mundo-dev-498h)
 - [Embracing the Power of Sharing: My Journey in Tech Blogging](https://dev.to/adii9/embracing-the-power-of-sharing-my-journey-in-tech-blogging-2il9)
-- [Sloan&#39;s Inbox: Considering taking a coding sabbatical...](https://dev.to/devteam/sloans-inbox-considering-taking-a-coding-sabbatical-4o87)
-- [Securing your Kubernetes workloads with Sigstore](https://dev.to/donaldsebleung/securing-your-kubernetes-workloads-with-sigstore-3ljm)
 <!-- BLOG-POST-LIST:END -->
 
