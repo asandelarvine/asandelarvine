@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About the Difference Between OPA&#39;s Rego and AWS Cedar](https://dev.to/permit_io/everything-you-need-to-know-about-the-difference-between-opas-rego-and-aws-cedar-28h1)
-- [Unleashing the Power of ChatGPT App Development: Transforming User Experiences](https://dev.to/daviscoy42935/unleashing-the-power-of-chatgpt-app-development-transforming-user-experiences-3l99)
-- [Postman Alternative: Hoppscotch 🛸 - open source, self hosted API Development Ecosystem](https://dev.to/hoppscotch/postman-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-9he)
-- [Top-notch Coding Qualities: Collaboration &amp; Communication](https://dev.to/codenewbieteam/top-notch-coding-qualities-collaboration-communication-38l3)
+- [Designing APIs with Swagger and OpenAPI](https://dev.to/nfrankel/designing-apis-with-swagger-and-openapi-43e6)
+- [Mastering Frontend Interview Coding Challenges](https://dev.to/abidullah786/mastering-frontend-interview-coding-challenges-21lp)
+- [Measuring ROI in QA automation for business excellence](https://dev.to/softwebsolution/measuring-roi-in-qa-automation-for-business-excellence-3bnh)
+- [C# Exception Handling Interview Questions and Answers](https://dev.to/bytehide/c-exception-handling-interview-questions-and-answers-1ib3)
 <!-- BLOG-POST-LIST:END -->
 
