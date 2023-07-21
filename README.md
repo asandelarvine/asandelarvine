@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge your application&#39;s performance: Consuming Symfony messenger messages with Go](https://dev.to/romaixn/supercharge-your-applications-performance-consuming-symfony-messenger-messages-with-go-2b3f)
+- [Unlocking the Future of Design with Apple Vision Pro: A Journey into Spatial Technology](https://dev.to/pranjal-barnwal/unlocking-the-future-of-design-with-apple-vision-pro-a-journey-into-spatial-technology-3ghe)
 - [Adaptability &amp; Flexibility: Key Coding Qualities?](https://dev.to/codenewbieteam/top-notch-coding-qualities-adaptability-flexibility-1doe)
 - [Transformative &quot;Aha!&quot; Moments: How Did They Change Your Coding Approach?](https://dev.to/devteam/transformative-aha-moments-how-did-they-change-your-coding-approach-509k)
-- [Scraping Using Python in Step by step approach](https://dev.to/scofieldidehen/scraping-using-python-in-step-by-step-approach-49l6)
-- [The Power of React Dom For Front-End Development](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
 <!-- BLOG-POST-LIST:END -->
 
