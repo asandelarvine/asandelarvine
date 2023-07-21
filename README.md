@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adaptability &amp; Flexibility: Key Coding Qualities?](https://dev.to/codenewbieteam/top-notch-coding-qualities-adaptability-flexibility-1doe)
+- [Transformative &quot;Aha!&quot; Moments: How Did They Change Your Coding Approach?](https://dev.to/devteam/transformative-aha-moments-how-did-they-change-your-coding-approach-509k)
+- [Scraping Using Python in Step by step approach](https://dev.to/scofieldidehen/scraping-using-python-in-step-by-step-approach-49l6)
 - [The Power of React Dom For Front-End Development](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
-- [Introduction to Common Programming Concepts in Rust](https://dev.to/charles_lukes/introduction-to-common-programming-concepts-in-rust-1c10)
-- [Beyond Tradition: Innovating with Component-Driven Development](https://dev.to/lakshmananarumugam/beyond-tradition-innovating-with-component-driven-development-2ed5)
-- [How to Build an E-commerce App in SwiftUI using Firebase](https://dev.to/mrcflorian/how-to-build-an-e-commerce-app-in-swiftui-using-firebase-55cd)
 <!-- BLOG-POST-LIST:END -->
 
