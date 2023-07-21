@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Data From Zillow?](https://dev.to/dustykaisler/how-to-scrape-data-from-zillow-5cgo)
-- [How to run LLAMA 2 on your local computer](https://dev.to/nithinibhandari1999/how-to-run-llama-2-on-your-local-computer-42g1)
-- [Card-Game-Utils, NPM package for card-games.](https://dev.to/mazimez/card-game-utils-npm-package-for-card-games-2be5)
-- [Hiding HTML elements](https://dev.to/fleal/hiding-html-elements-2fn1)
+- [Data Integration: Google BigQuery with Mage](https://dev.to/mage_ai/data-integration-google-bigquery-with-mage-461p)
+- [PagerDuty Community Update, July 21 2023](https://dev.to/pdcommunity/pagerduty-community-update-july-21-2023-18ib)
+- [Google BigQuery: Serverless data warehousing made simple](https://dev.to/mage_ai/google-bigquery-serverless-data-warehousing-made-simple-3em9)
+- [Snowflake: Revolutionizing data warehousing](https://dev.to/mage_ai/snowflake-revolutionizing-data-warehousing-1dkm)
 <!-- BLOG-POST-LIST:END -->
 
