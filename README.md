@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
+- [Make TrackBy Easy to Use!](https://dev.to/this-is-angular/make-trackby-easy-to-use-28b5)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2434)
 - [What is Conversational AI and Why your Business needs it?](https://dev.to/pssocial/what-is-conversational-ai-and-why-your-business-needs-it-5de3)
-- [JavaScript&#39;s &#39;this&#39; Keyword: Understanding Its Power and Usage](https://dev.to/adii/javascripts-this-keyword-understanding-its-power-and-usage-j70)
-- [Understanding blobs in JavaScript](https://dev.to/accreditly/understanding-blobs-in-javascript-5gcd)
-- [Manage your files in myFiles Alpha 1.2](https://dev.to/blueberry077/manage-your-files-in-myfiles-alpha-12-13og)
 <!-- BLOG-POST-LIST:END -->
 
