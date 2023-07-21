@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering | what is Prompt Engineering 🤖](https://dev.to/diwakarkashyap/prompt-engineering-what-is-prompt-engineering-25h0)
+- [LaunchDarkly across multiple celery tasks](https://dev.to/pjhoberman/launchdarkly-across-multiple-celery-tasks-1fb5)
+- [How To Design A Login Form](https://dev.to/gechiclazz/how-to-design-a-login-form-1mk9)
 - [Deepfakes: Good or Bad?](https://dev.to/scofieldidehen/deepfakes-good-or-bad-onm)
-- [Writing Custom PHPStan Rule to prohibit business logic in controllers](https://dev.to/flashblack/writing-custom-phpstan-rule-to-prohibit-business-logic-in-controllers-4pok)
-- [Como iniciar meus estudos em Python](https://dev.to/feministech/como-iniciar-meus-estudos-em-python-2aii)
-- [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/idurar/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
 <!-- BLOG-POST-LIST:END -->
 
