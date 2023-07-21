@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding blobs in JavaScript](https://dev.to/accreditly/understanding-blobs-in-javascript-5gcd)
+- [Manage your files in myFiles Alpha 1.2](https://dev.to/blueberry077/manage-your-files-in-myfiles-alpha-12-13og)
+- [The Impact of SaaS Marketing Automation on Businesses](https://dev.to/turneremma21/the-impact-of-saas-marketing-automation-on-businesses-2g3k)
 - [Supercharge your application&#39;s performance: Consuming Symfony messenger messages with Go](https://dev.to/romaixn/supercharge-your-applications-performance-consuming-symfony-messenger-messages-with-go-2b3f)
-- [Unlocking the Future of Design with Apple Vision Pro: A Journey into Spatial Technology](https://dev.to/pranjal-barnwal/unlocking-the-future-of-design-with-apple-vision-pro-a-journey-into-spatial-technology-3ghe)
-- [Adaptability &amp; Flexibility: Key Coding Qualities?](https://dev.to/codenewbieteam/top-notch-coding-qualities-adaptability-flexibility-1doe)
-- [Transformative &quot;Aha!&quot; Moments: How Did They Change Your Coding Approach?](https://dev.to/devteam/transformative-aha-moments-how-did-they-change-your-coding-approach-509k)
 <!-- BLOG-POST-LIST:END -->
 
