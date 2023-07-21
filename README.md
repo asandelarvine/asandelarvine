@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
-- [Make TrackBy Easy to Use!](https://dev.to/this-is-angular/make-trackby-easy-to-use-28b5)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2434)
-- [What is Conversational AI and Why your Business needs it?](https://dev.to/pssocial/what-is-conversational-ai-and-why-your-business-needs-it-5de3)
+- [Who&#39;s looking for open source contributors? &lpar;week 51&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-51-41gh)
+- [🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
+- [This is How Generative AI Will Look in the Next 10–15 Years 🚀🔥](https://dev.to/arjuncodess/this-is-how-generative-ai-will-look-in-the-next-10-15-years-3cl)
+- [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
 <!-- BLOG-POST-LIST:END -->
 
