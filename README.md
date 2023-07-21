@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Commit with a Past Date and Time in Git](https://dev.to/pradumnasaraf/commit-with-a-past-date-and-time-in-git-1j2f)
+- [Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
+- [Creating a Game-Changer in Job Search: An Open Source ATS Resume Matcher](https://dev.to/srbhr/creating-a-game-changer-in-job-search-an-open-source-ats-resume-matcher-31g9)
 - [Client-Server Architecture🤝 : Deep Dive](https://dev.to/tanishtt/client-server-architecture-deep-dive-1a2e)
-- [Building any open-source projects this weekend?](https://dev.to/mfts/building-any-open-source-projects-this-weekend-3o46)
-- [The Universal Data License Explained](https://dev.to/fllstck/the-universal-data-license-explained-2di)
-- [CI/CD Pipeline Using GitHub Actions: Automate Software Delivery](https://dev.to/alexhyettdev/cicd-pipeline-using-github-actions-automate-software-delivery-417k)
 <!-- BLOG-POST-LIST:END -->
 
