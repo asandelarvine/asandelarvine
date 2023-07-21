@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of React Dom For Front-End Development](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
+- [Introduction to Common Programming Concepts in Rust](https://dev.to/charles_lukes/introduction-to-common-programming-concepts-in-rust-1c10)
 - [Beyond Tradition: Innovating with Component-Driven Development](https://dev.to/lakshmananarumugam/beyond-tradition-innovating-with-component-driven-development-2ed5)
 - [How to Build an E-commerce App in SwiftUI using Firebase](https://dev.to/mrcflorian/how-to-build-an-e-commerce-app-in-swiftui-using-firebase-55cd)
-- [Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
-- [Bulk Object Detection and Cropping with DETR](https://dev.to/sbang/object-detection-and-cropping-with-detr-2j2l)
 <!-- BLOG-POST-LIST:END -->
 
