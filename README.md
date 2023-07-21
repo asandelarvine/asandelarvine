@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is CSS Padding?](https://dev.to/arsalanmee/what-is-css-padding-3nea)
-- [Who&#39;s looking for open source contributors? &lpar;week 51&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-51-41gh)
-- [🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
-- [This is How Generative AI Will Look in the Next 10–15 Years 🚀🔥](https://dev.to/arjuncodess/this-is-how-generative-ai-will-look-in-the-next-10-15-years-3cl)
+- [Deepfakes: Good or Bad?](https://dev.to/scofieldidehen/deepfakes-good-or-bad-onm)
+- [Writing Custom PHPStan Rule to prohibit business logic in controllers](https://dev.to/flashblack/writing-custom-phpstan-rule-to-prohibit-business-logic-in-controllers-4pok)
+- [Como iniciar meus estudos em Python](https://dev.to/feministech/como-iniciar-meus-estudos-em-python-2aii)
+- [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/idurar/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
 <!-- BLOG-POST-LIST:END -->
 
