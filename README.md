@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering | what is Prompt Engineering 🤖](https://dev.to/diwakarkashyap/prompt-engineering-what-is-prompt-engineering-25h0)
-- [LaunchDarkly across multiple celery tasks](https://dev.to/pjhoberman/launchdarkly-across-multiple-celery-tasks-1fb5)
-- [How To Design A Login Form](https://dev.to/gechiclazz/how-to-design-a-login-form-1mk9)
-- [Deepfakes: Good or Bad?](https://dev.to/scofieldidehen/deepfakes-good-or-bad-onm)
+- [Client-Server Architecture🤝 : Deep Dive](https://dev.to/tanishtt/client-server-architecture-deep-dive-1a2e)
+- [Building any open-source projects this weekend?](https://dev.to/mfts/building-any-open-source-projects-this-weekend-3o46)
+- [The Universal Data License Explained](https://dev.to/fllstck/the-universal-data-license-explained-2di)
+- [CI/CD Pipeline Using GitHub Actions: Automate Software Delivery](https://dev.to/alexhyettdev/cicd-pipeline-using-github-actions-automate-software-delivery-417k)
 <!-- BLOG-POST-LIST:END -->
 
