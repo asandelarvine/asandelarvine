@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Integration: Google BigQuery with Mage](https://dev.to/mage_ai/data-integration-google-bigquery-with-mage-461p)
-- [PagerDuty Community Update, July 21 2023](https://dev.to/pdcommunity/pagerduty-community-update-july-21-2023-18ib)
-- [Google BigQuery: Serverless data warehousing made simple](https://dev.to/mage_ai/google-bigquery-serverless-data-warehousing-made-simple-3em9)
-- [Snowflake: Revolutionizing data warehousing](https://dev.to/mage_ai/snowflake-revolutionizing-data-warehousing-1dkm)
+- [#DEVDiscuss: Google or Grad School?](https://dev.to/devteam/devdiscuss-google-or-grad-school-119h)
+- [Data Modeling in DynamoDB: What You Need to Know for Peak Performance](https://dev.to/brandondamue/data-modeling-in-dynamodb-what-you-need-to-know-for-peak-performance-kgo)
+- [Telling a Story in an Interview](https://dev.to/jcsmileyjr/telling-a-story-in-an-interview-2aio)
+- [Good bye and thanks to &quot;typescript-is&quot; &lpar;ancestor of &quot;typia&quot;, 20,000x faster validator&rpar;](https://dev.to/samchon/good-bye-typescript-is-ancestor-of-typia-20000x-faster-validator-49fi)
 <!-- BLOG-POST-LIST:END -->
 
