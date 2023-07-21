@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Have Engineering Leaders Become Too Hands-off?](https://dev.to/linearb/have-engineering-leaders-become-too-hands-off-12ci)
+- [My first day writing code](https://dev.to/biancacorreia/my-first-day-writing-code-2368)
 - [Instalar xampp en ChromeOS](https://dev.to/pacmankabh/instalar-xampp-en-chromeos-3h5d)
 - [AWS IAM: Creating an IAM User for Access Management](https://dev.to/arbythecoder/aws-iam-creating-an-iam-user-for-access-management-53be)
-- [Installing WordPress in a LAMP server](https://dev.to/sarahcssiqueira/installing-wordpress-in-a-lamp-server-4542)
-- [Top 7 AI Open Source Projects to Contribute to in 2023 ⭐](https://dev.to/thenomadevel/top-7-ai-open-source-projects-to-contribute-to-in-2023-3ff5)
 <!-- BLOG-POST-LIST:END -->
 
