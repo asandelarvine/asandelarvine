@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is CSS Padding?](https://dev.to/arsalanmee/what-is-css-padding-3nea)
 - [Who&#39;s looking for open source contributors? &lpar;week 51&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-51-41gh)
 - [🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
 - [This is How Generative AI Will Look in the Next 10–15 Years 🚀🔥](https://dev.to/arjuncodess/this-is-how-generative-ai-will-look-in-the-next-10-15-years-3cl)
-- [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
 <!-- BLOG-POST-LIST:END -->
 
