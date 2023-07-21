@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
 - [Bulk Object Detection and Cropping with DETR](https://dev.to/sbang/object-detection-and-cropping-with-detr-2j2l)
 - [Building Portfolio with Next.js: Add Navbar, Footer, and Metadata](https://dev.to/adiatiayu/building-portfolio-with-nextjs-add-navbar-footer-and-metadata-3e3p)
 - [Competee: An online competition platform to unleash hidden talents 🏆](https://dev.to/alexcode4ever/competee-an-online-competition-platform-to-unleash-hidden-talents-nci)
-- [Managify: Manage Your Teams Easily](https://dev.to/rasitcolakel/manage-your-team-easily-with-managify-5gbp)
 <!-- BLOG-POST-LIST:END -->
 
