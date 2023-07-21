@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#DEVDiscuss: Google or Grad School?](https://dev.to/devteam/devdiscuss-google-or-grad-school-119h)
-- [Data Modeling in DynamoDB: What You Need to Know for Peak Performance](https://dev.to/brandondamue/data-modeling-in-dynamodb-what-you-need-to-know-for-peak-performance-kgo)
-- [Telling a Story in an Interview](https://dev.to/jcsmileyjr/telling-a-story-in-an-interview-2aio)
-- [Good bye and thanks to &quot;typescript-is&quot; &lpar;ancestor of &quot;typia&quot;, 20,000x faster validator&rpar;](https://dev.to/samchon/good-bye-typescript-is-ancestor-of-typia-20000x-faster-validator-49fi)
+- [Instalar xampp en ChromeOS](https://dev.to/pacmankabh/instalar-xampp-en-chromeos-3h5d)
+- [AWS IAM: Creating an IAM User for Access Management](https://dev.to/arbythecoder/aws-iam-creating-an-iam-user-for-access-management-53be)
+- [Installing WordPress in a LAMP server](https://dev.to/sarahcssiqueira/installing-wordpress-in-a-lamp-server-4542)
+- [Top 7 AI Open Source Projects to Contribute to in 2023 ⭐](https://dev.to/thenomadevel/top-7-ai-open-source-projects-to-contribute-to-in-2023-3ff5)
 <!-- BLOG-POST-LIST:END -->
 
