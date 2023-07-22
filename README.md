@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Me Baby All Night Long](https://dev.to/philipjohnbasile/rust-me-baby-all-night-long-4a06)
+- [All you need to know about AWS Solutions Architect Associate Certificate](https://dev.to/ujjwalkhatri/all-you-need-to-know-about-aws-solutions-architect-associate-certificate-36ja)
 - [Understanding Line Break Types: CR LF, LF, and CR](https://dev.to/pranjal-barnwal/understanding-line-break-types-cr-lf-lf-and-cr-3lg2)
 - [PHP - Create your own Data Validator in PHP: Step-by-Step](https://dev.to/fadymr/php-create-your-own-data-validator-in-php-step-by-step-3pbi)
-- [Automate Python Linting and Code Style Enforcement with Ruff and GitHub Actions](https://dev.to/ken_mwaura1/automate-python-linting-and-code-style-enforcement-with-ruff-and-github-actions-2kk1)
-- [Language Models For Dummies #2 - Popular Language Models 🤖](https://dev.to/layanyashoda/language-models-for-dummies-2-popular-language-models-6cp)
 <!-- BLOG-POST-LIST:END -->
 
