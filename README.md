@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Execution Context | Execution Context in JS](https://dev.to/diwakarkashyap/what-is-execution-context-execution-context-in-js-4gn1)
+- [Talking about JSONP Hijacking Vulnerability](https://dev.to/tutorialboy/talking-about-jsonp-hijacking-vulnerability-213m)
+- [GitHub Insider: Your Monthly Gateway to Developer Excellence!](https://dev.to/mitchiemt11/github-insider-your-monthly-gateway-to-developer-excellence-26ep)
 - [Linux for Troubleshooting - sudo](https://dev.to/sathishpy1808/linux-for-troubleshooting-sudo-4h3h)
-- [Code and Chill Guide 2023](https://dev.to/parmcoder/code-and-chill-guide-2023-aek)
-- [WhatsApp Web Scraper - Find and Export Contacts!](https://dev.to/mrmjt/whatsapp-web-scraper-find-and-export-contacts-1i1g)
-- [Understanding Lists in Python: An In-Depth Overview](https://dev.to/srbhr/understanding-lists-in-python-an-in-depth-overview-3aak)
 <!-- BLOG-POST-LIST:END -->
 
