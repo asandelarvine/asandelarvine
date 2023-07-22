@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Array Strengths, Weaknesses, and Big-O Complexity Analysis](https://dev.to/ggorantala/array-strengths-weaknesses-and-big-o-complexity-analysis-4aho)
 - [Resolving viewport duplication in Next.js 13.4](https://dev.to/oler/resolving-viewport-duplication-in-nextjs-134-51lm)
 - [Resolvendo a duplicidade do viewport no Next.js 13.4](https://dev.to/oler/resolvendo-a-duplicidade-do-viewport-no-nextjs-134-3hki)
 - [Adding skip to main content link to my personal website](https://dev.to/heybran/adding-skip-to-main-content-link-to-my-personal-website-3l10)
-- [Have Engineering Leaders Become Too Hands-off?](https://dev.to/linearb/have-engineering-leaders-become-too-hands-off-12ci)
 <!-- BLOG-POST-LIST:END -->
 
