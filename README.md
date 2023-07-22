@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creativity &amp; Innovation: Game-changers in Coding?](https://dev.to/codenewbieteam/top-notch-coding-qualities-creativity-innovation-1p9o)
+- [Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
 - [Python Beginner Courses: Top 10 Best Online Python Courses for Aspiring Developers](https://dev.to/max24816/python-beginner-courses-top-10-best-online-python-courses-for-aspiring-developers-623)
 - [useEffect&lpar;&rpar; Hook in React: A Comprehensive Guide](https://dev.to/abidullah786/useeffect-hook-in-react-a-comprehensive-guide-1367)
-- [Array Strengths, Weaknesses, and Big-O Complexity Analysis](https://dev.to/ggorantala/array-strengths-weaknesses-and-big-o-complexity-analysis-4aho)
-- [Resolving viewport duplication in Next.js 13.4](https://dev.to/oler/resolving-viewport-duplication-in-nextjs-134-51lm)
 <!-- BLOG-POST-LIST:END -->
 
