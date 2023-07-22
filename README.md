@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TCP/IP Network Model💻 : Deep Dive with example](https://dev.to/tanishtt/tcpip-network-model-deep-dive-with-example-3j3o)
+- [The fastest way to update Node.js on your Mac](https://dev.to/alikarbasicom/the-fastest-way-to-update-nodejs-on-your-mac-20fi)
+- [Safe Route Param Injection in Angular with a Decorator](https://dev.to/bwca/safe-route-param-injection-in-angular-with-a-decorator-1lk7)
 - [Clean Architecture](https://dev.to/iuno-san/clean-architecture-jp2)
-- [Journey Through the Digital Highway🛣️🗺️: How Data📑 Travels From Your Laptop💻 to Your Friend&#39;s Laptop🙋‍♂️: Deep Dive.](https://dev.to/tanishtt/journey-through-the-digital-highway-how-data-travels-from-your-laptop-to-your-friends-laptop-deep-dive-3123)
-- [Why Valgrind is a Better Tool for Detecting Memory Leaks than Leak in macOS](https://dev.to/nightbird07/why-valgrind-is-a-better-tool-for-detecting-memory-leaks-than-leak-in-macos-308)
-- [ChatGPT for Android: Your AI Companion on the Go?](https://dev.to/mitchiemt11/chatgpt-for-android-your-ai-companion-on-the-go-6c6)
 <!-- BLOG-POST-LIST:END -->
 
