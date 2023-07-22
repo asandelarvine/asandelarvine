@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving viewport duplication in Next.js 13.4](https://dev.to/oler/resolving-viewport-duplication-in-nextjs-134-51lm)
+- [Resolvendo a duplicidade do viewport no Next.js 13.4](https://dev.to/oler/resolvendo-a-duplicidade-do-viewport-no-nextjs-134-3hki)
 - [Have Engineering Leaders Become Too Hands-off?](https://dev.to/linearb/have-engineering-leaders-become-too-hands-off-12ci)
 - [My first day writing code](https://dev.to/biancacorreia/my-first-day-writing-code-2368)
-- [Instalar xampp en ChromeOS](https://dev.to/pacmankabh/instalar-xampp-en-chromeos-3h5d)
-- [AWS IAM: Creating an IAM User for Access Management](https://dev.to/arbythecoder/aws-iam-creating-an-iam-user-for-access-management-53be)
 <!-- BLOG-POST-LIST:END -->
 
