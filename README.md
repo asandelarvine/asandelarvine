@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Execution Context | Execution Context in JS](https://dev.to/diwakarkashyap/what-is-execution-context-execution-context-in-js-4gn1)
-- [Talking about JSONP Hijacking Vulnerability](https://dev.to/tutorialboy/talking-about-jsonp-hijacking-vulnerability-213m)
-- [GitHub Insider: Your Monthly Gateway to Developer Excellence!](https://dev.to/mitchiemt11/github-insider-your-monthly-gateway-to-developer-excellence-26ep)
-- [Linux for Troubleshooting - sudo](https://dev.to/sathishpy1808/linux-for-troubleshooting-sudo-4h3h)
+- [Journey Through the Digital Highway🛣️🗺️: How Data📑 Travels From Your Laptop💻 to Your Friend&#39;s Laptop🙋‍♂️: Deep Dive.](https://dev.to/tanishtt/journey-through-the-digital-highway-how-data-travels-from-your-laptop-to-your-friends-laptop-deep-dive-3123)
+- [Why Valgrind is a Better Tool for Detecting Memory Leaks than Leak in macOS](https://dev.to/nightbird07/why-valgrind-is-a-better-tool-for-detecting-memory-leaks-than-leak-in-macos-308)
+- [ChatGPT for Android: Your AI Companion on the Go?](https://dev.to/mitchiemt11/chatgpt-for-android-your-ai-companion-on-the-go-6c6)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-34a8)
 <!-- BLOG-POST-LIST:END -->
 
