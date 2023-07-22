@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux for Troubleshooting - sudo](https://dev.to/sathishpy1808/linux-for-troubleshooting-sudo-4h3h)
 - [Code and Chill Guide 2023](https://dev.to/parmcoder/code-and-chill-guide-2023-aek)
 - [WhatsApp Web Scraper - Find and Export Contacts!](https://dev.to/mrmjt/whatsapp-web-scraper-find-and-export-contacts-1i1g)
 - [Understanding Lists in Python: An In-Depth Overview](https://dev.to/srbhr/understanding-lists-in-python-an-in-depth-overview-3aak)
-- [Creativity &amp; Innovation: Game-changers in Coding?](https://dev.to/codenewbieteam/top-notch-coding-qualities-creativity-innovation-1p9o)
 <!-- BLOG-POST-LIST:END -->
 
