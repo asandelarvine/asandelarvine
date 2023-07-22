@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Creativity &amp; Innovation: Game-changers in Coding?](https://dev.to/codenewbieteam/top-notch-coding-qualities-creativity-innovation-1p9o)
 - [Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
 - [Python Beginner Courses: Top 10 Best Online Python Courses for Aspiring Developers](https://dev.to/max24816/python-beginner-courses-top-10-best-online-python-courses-for-aspiring-developers-623)
-- [useEffect&lpar;&rpar; Hook in React: A Comprehensive Guide](https://dev.to/abidullah786/useeffect-hook-in-react-a-comprehensive-guide-1367)
+- [Circle-Packing with Javascript and SVG — the Kusama Way](https://dev.to/madsstoumann/circle-packing-with-javascript-and-svg-the-kusama-way-b59)
 <!-- BLOG-POST-LIST:END -->
 
