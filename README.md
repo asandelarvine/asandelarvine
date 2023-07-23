@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
+- [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
 - [Microservice architecture - Benefits, how to implement, challenges, etc.](https://dev.to/ra1nbow1/microservice-architecture-benefits-how-to-implement-challenges-etc-4e8l)
 - [Kubernetes Monitoring Best Practices](https://dev.to/squadcast/kubernetes-monitoring-best-practices-17f)
-- [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
-- [Mastering Go Web Development: Building a Flashcard App](https://dev.to/arjeldev/mastering-go-web-development-building-a-flashcard-app-1kjf)
 <!-- BLOG-POST-LIST:END -->
 
