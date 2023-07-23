@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does CSS Animation Do?](https://dev.to/arsalanmee/what-does-css-animation-do-6h)
-- [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-oj9)
-- [Query materialized views with Java, Spring, and streaming database](https://dev.to/bobur/query-materialized-views-with-java-spring-and-streaming-database-2bd1)
-- [Writing a NES game day 11, Fire!](https://dev.to/pablosoifer1/writing-a-nes-game-day-11-fire-3nod)
+- [ASP.net mvc de kodundaki değişiklik tarayıcıda da uygulansın istiyorsan](https://dev.to/mustafacam/aspnet-mvc-de-kodundaki-degisiklik-tarayicida-da-uygulansin-istiyorsan-3hkp)
+- [My first year of programming](https://dev.to/theodep/my-first-year-of-programming-5dee)
+- [Understanding Pseudo-classes and Pseudo-elements in CSS](https://dev.to/joanayebola/understanding-pseudo-classes-and-pseudo-elements-in-css-45ij)
+- [Potential of Data Analytics : AWS Glue and AWS Athena](https://dev.to/dhanushnehru/potential-of-data-analytics-aws-glue-and-aws-athena-2860)
 <!-- BLOG-POST-LIST:END -->
 
