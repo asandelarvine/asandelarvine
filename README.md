@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jokeday Funday Part #3](https://dev.to/soumyadeepdey/jokeday-funday-part-3-481e)
+- [What are the most essential variables in SQL?](https://dev.to/faridteymouri/what-are-the-most-essential-variables-in-sql-51d0)
 - [Open-Source Site Builder - Simpllo](https://dev.to/sm0ke/free-open-source-website-builder-42bc)
 - [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
-- [How to Choose the Right MQTT Data Storage for Your Next Project](https://dev.to/reductstore/how-to-choose-the-right-mqtt-data-storage-for-your-next-project-1031)
-- [Django Caching 101: Understanding the Basics and Beyond](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p)
 <!-- BLOG-POST-LIST:END -->
 
