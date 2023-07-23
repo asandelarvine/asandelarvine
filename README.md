@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s My 1Year anniversary on Dev and I just hit 1500 followers.](https://dev.to/sarahokolo/its-my-1year-anniversary-on-dev-and-i-just-hit-1500-followers-16j3)
 - [CSS Alchemy: Mastering Tailwind 🎨✨🔧💻](https://dev.to/jagroop2000/css-alchemy-mastering-tailwind-44c5)
 - [My Journey with Next.js](https://dev.to/sadeedpv/my-journey-with-nextjs-6og)
 - [Top Websites To Practice Coding.](https://dev.to/blackhorse0101/top-websites-to-practice-coding-553f)
-- [Never forget ACID again!!](https://dev.to/sumitbhanushali/never-forget-acid-again-1g69)
 <!-- BLOG-POST-LIST:END -->
 
