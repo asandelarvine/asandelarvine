@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
 - [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
-- [Microservice architecture - Benefits, how to implement, challenges, etc.](https://dev.to/ra1nbow1/microservice-architecture-benefits-how-to-implement-challenges-etc-4e8l)
-- [Kubernetes Monitoring Best Practices](https://dev.to/squadcast/kubernetes-monitoring-best-practices-17f)
+- [Using Postgresql pg_vector for AI: Part 2, Using vectors For Natural Language Processing](https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40)
+- [Docker: Simplifying Application Deployment and Management](https://dev.to/ankitrival618/docker-simplifying-application-deployment-and-management-3n1n)
 <!-- BLOG-POST-LIST:END -->
 
