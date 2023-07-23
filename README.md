@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Monitoring Best Practices](https://dev.to/squadcast/kubernetes-monitoring-best-practices-17f)
+- [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
 - [Best Practices for Naming Classes in HTML and CSS Files](https://dev.to/stakedesigner/best-practices-for-naming-classes-in-html-and-css-files-2kb5)
 - [Would anyone be interested in a simple Lists App?](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
-- [Unleashing the Power of WordPress: Transforming Your Blogging Experience](https://dev.to/getsmartwebsite/unleashing-the-power-of-wordpress-transforming-your-blogging-experience-3c40)
-- [SOLID principles in Dart&lpar;Flutter&rpar;](https://dev.to/lionnelt/solid-principles-in-dartflutter-2g21)
 <!-- BLOG-POST-LIST:END -->
 
