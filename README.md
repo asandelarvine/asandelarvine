@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Microservice architecture - Benefits, how to implement, challenges, etc.](https://dev.to/ra1nbow1/microservice-architecture-benefits-how-to-implement-challenges-etc-4e8l)
 - [Kubernetes Monitoring Best Practices](https://dev.to/squadcast/kubernetes-monitoring-best-practices-17f)
 - [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
-- [Mastering Go Web Development: Building a Flashcard App](https://dev.to/camunoz2/mastering-go-web-development-building-a-flashcard-app-1kjf)
+- [Mastering Go Web Development: Building a Flashcard App](https://dev.to/arjeldev/mastering-go-web-development-building-a-flashcard-app-1kjf)
 <!-- BLOG-POST-LIST:END -->
 
