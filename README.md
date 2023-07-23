@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migration to .NET Core. Mission Complete](https://dev.to/elanatframework/migration-to-net-core-mission-complete-2bc5)
-- [GitLab Dev Deletes Entire Production Database](https://dev.to/kanani_nirav/gitlab-dev-deletes-entire-production-database-59bb)
-- [Unlocking the Power of PyScript: A Guide to Running Python Code in Your HTML](https://dev.to/scofieldidehen/unlocking-the-power-of-pyscript-a-guide-to-running-python-code-in-your-html-2376)
-- [Jokeday Funday Part #3](https://dev.to/soumyadeepdey/jokeday-funday-part-3-481e)
+- [What Does CSS Animation Do?](https://dev.to/arsalanmee/what-does-css-animation-do-6h)
+- [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-oj9)
+- [Query materialized views with Java, Spring, and streaming database](https://dev.to/bobur/query-materialized-views-with-java-spring-and-streaming-database-2bd1)
+- [Writing a NES game day 11, Fire!](https://dev.to/pablosoifer1/writing-a-nes-game-day-11-fire-3nod)
 <!-- BLOG-POST-LIST:END -->
 
