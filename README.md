@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Naming Classes in HTML and CSS Files](https://dev.to/stakedesigner/best-practices-for-naming-classes-in-html-and-css-files-2kb5)
+- [Would anyone be interested in a simple Lists App?](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
 - [Unleashing the Power of WordPress: Transforming Your Blogging Experience](https://dev.to/getsmartwebsite/unleashing-the-power-of-wordpress-transforming-your-blogging-experience-3c40)
-- [ASP.net mvc de kodundaki değişiklik tarayıcıda da uygulansın istiyorsan](https://dev.to/mustafacam/aspnet-mvc-de-kodundaki-degisiklik-tarayicida-da-uygulansin-istiyorsan-3hkp)
-- [How we enhanced our jobseeker user experience on infosec-jobs.com with og:screen](https://dev.to/infosec_jobscom/how-we-enhanced-our-jobseeker-user-experience-on-infosec-jobscom-with-ogscreen-1b8d)
-- [My first year of programming](https://dev.to/theodep/my-first-year-of-programming-5dee)
+- [SOLID principles in Dart&lpar;Flutter&rpar;](https://dev.to/lionnelt/solid-principles-in-dartflutter-2g21)
 <!-- BLOG-POST-LIST:END -->
 
