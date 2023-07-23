@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID: Single Responsibility Principle With Examples](https://dev.to/ggorantala/solid-single-responsibility-principle-with-examples-h0f)
-- [LeetCode 2790 &lpar;Hard&rpar;. Maximum Number of Groups With Increasing Length. O&lpar;NlogN&rpar;. Math. Only 10 lines of code.](https://dev.to/sergeyleschev/leetcode-2790-hard-maximum-number-of-groups-with-increasing-length-solution-of-the-day-on-logn-math-4lh)
-- [Brush up your CSS knowledge 🚀 Part[2 of 2]](https://dev.to/ankur0904/brush-up-your-css-knowledge-part2-of-2-4hff)
-- [Continuous Learning &amp; Curiosity: Fuels of Top-notch Coders?](https://dev.to/codenewbieteam/top-notch-coding-qualities-continuous-learning-curiosity-4bo6)
+- [CSS Alchemy: Mastering Tailwind 🎨✨🔧💻](https://dev.to/jagroop2000/css-alchemy-mastering-tailwind-44c5)
+- [My Journey with Next.js](https://dev.to/sadeedpv/my-journey-with-nextjs-6og)
+- [Top Websites To Practice Coding.](https://dev.to/blackhorse0101/top-websites-to-practice-coding-553f)
+- [Never forget ACID again!!](https://dev.to/sumitbhanushali/never-forget-acid-again-1g69)
 <!-- BLOG-POST-LIST:END -->
 
