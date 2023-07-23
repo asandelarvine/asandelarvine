@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s My 1Year anniversary on Dev and I just hit 1500 followers.](https://dev.to/sarahokolo/its-my-1year-anniversary-on-dev-and-i-just-hit-1500-followers-16j3)
-- [CSS Alchemy: Mastering Tailwind 🎨✨🔧💻](https://dev.to/jagroop2000/css-alchemy-mastering-tailwind-44c5)
-- [My Journey with Next.js](https://dev.to/sadeedpv/my-journey-with-nextjs-6og)
-- [Top Websites To Practice Coding.](https://dev.to/blackhorse0101/top-websites-to-practice-coding-553f)
+- [Open-Source Site Builder - Simpllo](https://dev.to/sm0ke/free-open-source-website-builder-42bc)
+- [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
+- [How to Choose the Right MQTT Data Storage for Your Next Project](https://dev.to/reductstore/how-to-choose-the-right-mqtt-data-storage-for-your-next-project-1031)
+- [Django Caching 101: Understanding the Basics and Beyond](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p)
 <!-- BLOG-POST-LIST:END -->
 
