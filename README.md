@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🎯 Top 10 Documentations Every Flutter Developer Should Know](https://dev.to/yatendra2001/top-10-documentations-every-flutter-developer-should-know-1g7)
 - [Bandit Level 4 Level 5](https://dev.to/christianpaez/bandit-level-4-level-5-1mmf)
 - [How to Add &quot;Install App&quot; Option to Your Website: Progressive Web Apps](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
-- [📦~Flexbox~📦 {&quot;Java&quot;,&quot;HTML&quot;,&quot;CSS&quot;}](https://dev.to/vikran7_pa7el_/flexbox-javahtmlcss-4hfm)
 - [How To Learn Programming](https://dev.to/delightfulengineering/how-to-learn-programming-1nnl)
 <!-- BLOG-POST-LIST:END -->
 
