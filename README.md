@@ -80,7 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [SOLID: Single Responsibility Principle With Examples](https://dev.to/ggorantala/solid-single-responsibility-principle-with-examples-h0f)
-- [LeetCode 2790 &lpar;Hard&rpar;. Maximum Number of Groups With Increasing Length. Solution of the day. O&lpar;NlogN&rpar;. Math.](https://dev.to/sergeyleschev/leetcode-2790-hard-maximum-number-of-groups-with-increasing-length-solution-of-the-day-on-logn-math-4lh)
+- [LeetCode 2790 &lpar;Hard&rpar;. Maximum Number of Groups With Increasing Length. O&lpar;NlogN&rpar;. Math. Only 10 lines of code.](https://dev.to/sergeyleschev/leetcode-2790-hard-maximum-number-of-groups-with-increasing-length-solution-of-the-day-on-logn-math-4lh)
 - [Brush up your CSS knowledge 🚀 Part[2 of 2]](https://dev.to/ankur0904/brush-up-your-css-knowledge-part2-of-2-4hff)
 - [Continuous Learning &amp; Curiosity: Fuels of Top-notch Coders?](https://dev.to/codenewbieteam/top-notch-coding-qualities-continuous-learning-curiosity-4bo6)
 <!-- BLOG-POST-LIST:END -->
