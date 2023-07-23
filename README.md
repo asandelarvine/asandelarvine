@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Learning &amp; Curiosity: Fuels of Top-notch Coders?](https://dev.to/codenewbieteam/top-notch-coding-qualities-continuous-learning-curiosity-4bo6)
+- [How to Solve hCaptcha using CapSolver and Node.js](https://dev.to/devland/how-to-solve-hcaptcha-using-capsolver-and-nodejs-2hnk)
 - [🎯 Top 10 Documentations Every Flutter Developer Should Know](https://dev.to/yatendra2001/top-10-documentations-every-flutter-developer-should-know-1g7)
 - [AI Utopia is Hell](https://dev.to/cheetah100/ai-utopia-is-hell-2c45)
-- [Bandit Level 4 Level 5](https://dev.to/christianpaez/bandit-level-4-level-5-1mmf)
-- [How to Add &quot;Install App&quot; Option to Your Website: Progressive Web Apps](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
 <!-- BLOG-POST-LIST:END -->
 
