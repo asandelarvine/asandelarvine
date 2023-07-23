@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📦~Flexbox~📦 {&quot;Java&quot;,&quot;HTML&quot;,&quot;CSS&quot;}](https://dev.to/vikran7_pa7el_/flexbox-javahtmlcss-4hfm)
+- [How To Learn Programming](https://dev.to/delightfulengineering/how-to-learn-programming-1nnl)
 - [Rust Me Baby All Night Long](https://dev.to/philipjohnbasile/rust-me-baby-all-night-long-4a06)
 - [All you need to know about AWS Solutions Architect Associate Certificate](https://dev.to/ujjwalkhatri/all-you-need-to-know-about-aws-solutions-architect-associate-certificate-36ja)
-- [Understanding Line Break Types: CR LF, LF, and CR](https://dev.to/pranjal-barnwal/understanding-line-break-types-cr-lf-lf-and-cr-3lg2)
-- [PHP - Create your own Data Validator in PHP: Step-by-Step](https://dev.to/fadymr/php-create-your-own-data-validator-in-php-step-by-step-3pbi)
 <!-- BLOG-POST-LIST:END -->
 
