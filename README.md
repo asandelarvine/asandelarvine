@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-43eo)
-- [Security Advisory for Tauri 1.4 &lpar;CVE-2023-34460&rpar;](https://dev.to/crabnebula/security-advisory-for-tauri-14-cve-2023-34460-3gie)
-- [How to develop Cross-Platform App SDK with Rust？](https://dev.to/nancy1993/how-to-develop-cross-platform-app-sdk-with-rust-3jji)
-- [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-1ne7)
+- [Building a coffee delivery chatbot with React, ChatGPT and TypeChat 🤖](https://dev.to/dev_bre/building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0)
+- [What is Truthy and Falsy in Javascript ?](https://dev.to/diwakarkashyap/what-is-truthy-and-falsy-in-javascript--p3e)
+- [Create an advanced search engine with PostgreSQL](https://dev.to/xata/create-an-advanced-search-engine-with-postgresql-23e5)
+- [LGTM or TL;DR? The Problem of Cop-out Code Reviews](https://dev.to/codesandboxio/lgtm-or-tldr-the-problem-of-cop-out-code-reviews-5917)
 <!-- BLOG-POST-LIST:END -->
 
