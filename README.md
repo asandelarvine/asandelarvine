@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Develop Right on Top of Your Kubernetes Cluster](https://dev.to/gsaraf/develop-right-on-top-of-your-kubernetes-cluster-2id0)
+- [Introduction to JavaScript Array Methods](https://dev.to/abidullah786/introduction-to-javascript-array-methods-2idb)
 - [Currying vs Pipe in javascript](https://dev.to/shacodes/currying-vs-pipe-in-javascript-4m9)
 - [Resilience &amp; Perseverance: How Vital Are They?](https://dev.to/codenewbieteam/top-notch-coding-qualities-resilience-perseverance-p44)
-- [Power Automate Documentation by GPT](https://dev.to/wyattdave/power-automate-documentation-by-gpt-3ba9)
-- [Weekly Roundup &lpar;Jul 17&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jul-17-hot-topics-in-workplace-sharepoint-and-powerplatform-1168)
 <!-- BLOG-POST-LIST:END -->
 
