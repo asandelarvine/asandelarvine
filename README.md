@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DOCKER FOR EVERYONE - &lpar;Learn about Caching, Load-Balancing, and Virtual Machines&rpar;.](https://dev.to/realsteveig/docker-for-everyone-learn-about-caching-load-balancing-and-virtual-machines-1ah9)
-- [Using the reduced motion media query in a project](https://dev.to/plank/using-the-reduced-motion-media-query-in-a-project-34gb)
-- [Telemedicine platform with integrated medical insurance](https://dev.to/abtosoftware/telemedicine-platform-with-integrated-medical-insurance-fa)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-25kn)
+- [Creating a custom form field control group using Angular Material](https://dev.to/shhdharmen/creating-a-custom-form-field-control-group-using-angular-material-mjk)
+- [Introduction to Terraform: From Zero to Hero eBook](https://dev.to/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook-2gea)
+- [How to Integrate Blockchain with Flutter for Web3 Mobile Apps: A Case Study of AI Muse](https://dev.to/yatendra2001/how-to-integrate-blockchain-with-flutter-for-web3-mobile-apps-a-case-study-of-ai-muse-4c7f)
+- [What is LangSmith and why should I care as a developer?](https://dev.to/logankilpatrick/what-is-langsmith-and-why-should-i-care-as-a-developer-19k)
 <!-- BLOG-POST-LIST:END -->
 
