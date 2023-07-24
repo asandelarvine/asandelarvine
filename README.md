@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ExpiringLRUCache and The CLOCK Algorithm: A Fun Dive into Python Caching](https://dev.to/sbalasa/expiringlrucache-and-the-clock-algorithm-a-fun-dive-into-python-caching-5195)
+- [Day 2 of OSS:](https://dev.to/gpsakthivel/day-2-of-oss-2956)
+- [Compreendendo como os Manipuladores de Eventos funcionam no React](https://dev.to/gustavospriebe/compreendendo-como-os-manipuladores-de-eventos-funcionam-no-react-5eh6)
 - [Bandit Level 5 Level 6](https://dev.to/christianpaez/bandit-level-5-level-6-1o65)
-- [Ponteiros 🤮](https://dev.to/leviackr/ponteiros-2e9c)
-- [Caption This! 🤔💭](https://dev.to/thepracticaldev/caption-this-m6p)
-- [Writing a NES game day 12, The Aqualate!](https://dev.to/pablosoifer1/writing-a-nes-game-day-12-the-aqualate-j6j)
 <!-- BLOG-POST-LIST:END -->
 
