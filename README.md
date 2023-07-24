@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #166](https://dev.to/aws/aws-open-source-newsletter-166-1o44)
+- [Introduction to Nuxt Modules - Revisited](https://dev.to/jacobandrewsky/introduction-to-nuxt-modules-revisited-3iaf)
 - [Develop Right on Top of Your Kubernetes Cluster](https://dev.to/gsaraf/develop-right-on-top-of-your-kubernetes-cluster-2id0)
 - [Introduction to JavaScript Array Methods](https://dev.to/abidullah786/introduction-to-javascript-array-methods-2idb)
-- [Currying vs Pipe in javascript](https://dev.to/shacodes/currying-vs-pipe-in-javascript-4m9)
-- [Resilience &amp; Perseverance: How Vital Are They?](https://dev.to/codenewbieteam/top-notch-coding-qualities-resilience-perseverance-p44)
 <!-- BLOG-POST-LIST:END -->
 
