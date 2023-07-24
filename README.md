@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #166](https://dev.to/aws/aws-open-source-newsletter-166-1o44)
-- [Introduction to Nuxt Modules - Revisited](https://dev.to/jacobandrewsky/introduction-to-nuxt-modules-revisited-3iaf)
-- [Develop Right on Top of Your Kubernetes Cluster](https://dev.to/gsaraf/develop-right-on-top-of-your-kubernetes-cluster-2id0)
-- [Introduction to JavaScript Array Methods](https://dev.to/abidullah786/introduction-to-javascript-array-methods-2idb)
+- [Meme Monday](https://dev.to/ben/meme-monday-43eo)
+- [Security Advisory for Tauri 1.4 &lpar;CVE-2023-34460&rpar;](https://dev.to/crabnebula/security-advisory-for-tauri-14-cve-2023-34460-3gie)
+- [How to develop Cross-Platform App SDK with Rust？](https://dev.to/nancy1993/how-to-develop-cross-platform-app-sdk-with-rust-3jji)
+- [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-1ne7)
 <!-- BLOG-POST-LIST:END -->
 
