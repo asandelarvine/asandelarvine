@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save the Data in IPFS Using the Pinata&lpar;2023&rpar;](https://dev.to/cryptoninja0617/how-to-save-the-data-in-ipfs-using-the-pinata2023-1p0g)
-- [Functions Describe the World](https://dev.to/hnrbs/functions-describe-the-world-2cj)
-- [How I Conduct an Accessibility Audit](https://dev.to/thawkin3/how-i-conduct-an-accessibility-audit-57m4)
-- [T3 Stack Template : Supabase &lpar;w/ Auth + DB&rpar; and Shadcn-UI Basic Setup](https://dev.to/remusris/t3-stack-template-supabase-w-auth-db-and-shadcn-ui-basic-setup-2bl9)
+- [How to Secure React.js App Auth with Redux and Node.js](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
+- [Update myFiles to ALPHA 1.3](https://dev.to/blueberry077/update-myfiles-to-alpha-13-1m13)
+- [i puzzle game i made](https://dev.to/jossse69/i-puzzle-game-i-made-4mob)
+- [Guide to Generating SSL Certificates Using OpenSSL for Web Applications](https://dev.to/intikhabalam/guide-to-generating-ssl-certificates-using-openssl-for-web-applications-i6n)
 <!-- BLOG-POST-LIST:END -->
 
