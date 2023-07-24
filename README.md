@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Latest Updates on Next.js in 2023](https://dev.to/wizarddeveloper/the-latest-updates-on-nextjs-in-2023-410e)
+- [Use AdonisJS 6 Alpha today](https://dev.to/adonisframework/use-adonisjs-v6-alpha-today-1lnk)
+- [Desvendando o poder da Dashboard](https://dev.to/biosbug/desvendando-o-poder-da-dashboard-4f58)
 - [Creating a custom form field control group using Angular Material](https://dev.to/shhdharmen/creating-a-custom-form-field-control-group-using-angular-material-mjk)
-- [Introduction to Terraform: From Zero to Hero eBook](https://dev.to/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook-2gea)
-- [How to Integrate Blockchain with Flutter for Web3 Mobile Apps: A Case Study of AI Muse](https://dev.to/yatendra2001/how-to-integrate-blockchain-with-flutter-for-web3-mobile-apps-a-case-study-of-ai-muse-4c7f)
-- [What is LangSmith and why should I care as a developer?](https://dev.to/logankilpatrick/what-is-langsmith-and-why-should-i-care-as-a-developer-19k)
 <!-- BLOG-POST-LIST:END -->
 
