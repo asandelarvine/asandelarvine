@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an Inventory and Order Management App with Google Sheets and ToolJet](https://dev.to/tooljet/building-an-inventory-and-order-management-app-with-google-sheets-and-tooljet-4jjf)
+- [Creating interactive UIs with Motion Layout using Jetpack Compose](https://dev.to/mindfulengineering/creating-interactive-uis-with-motion-layout-using-jetpack-compose-4o0b)
 - [🚀 Building a contacts management system with NextJS, Supabase, and Flatfile 🥂](https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6)
 - [Background Tasks and Scheduled Jobs in .NET? Meet Hangfire🔥](https://dev.to/bytehide/background-tasks-and-scheduled-jobs-in-net-meet-hangfire-30pd)
-- [PrimeFaces v13.0.0 Released](https://dev.to/cagataycivici/primefaces-v1300-released-6io)
-- [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-46fa)
 <!-- BLOG-POST-LIST:END -->
 
