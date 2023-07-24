@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a NES game day 12, The Aqualate!](https://dev.to/pablosoifer1/writing-a-nes-game-day-12-the-aqualate-j6j)
 - [The Latest Updates on Next.js in 2023](https://dev.to/wizarddeveloper/the-latest-updates-on-nextjs-in-2023-410e)
 - [Use AdonisJS 6 Alpha today](https://dev.to/adonisframework/use-adonisjs-v6-alpha-today-1lnk)
 - [Desvendando o poder da Dashboard](https://dev.to/biosbug/desvendando-o-poder-da-dashboard-4f58)
-- [Creating a custom form field control group using Angular Material](https://dev.to/shhdharmen/creating-a-custom-form-field-control-group-using-angular-material-mjk)
 <!-- BLOG-POST-LIST:END -->
 
