@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is SGPA?](https://dev.to/oliviasmit12427/what-is-sgpa-4dlj)
-- [How I Learned To Code In 6 Months &amp; Got a Job Offer &lpar;self-taught&rpar;](https://dev.to/scofieldidehen/how-i-learned-to-code-in-6-months-got-a-job-offer-self-taught-18pm)
-- [Asynchronous JavaScript: Everything you need to know](https://dev.to/scofieldidehen/asynchronous-javascript-everything-you-need-to-know-cec)
-- [Configure SSH Keys for Your GitHub Account](https://dev.to/builditdeploy/configure-ssh-keys-for-your-github-account-3ll1)
+- [Currying vs Pipe in javascript](https://dev.to/shacodes/currying-vs-pipe-in-javascript-4m9)
+- [Resilience &amp; Perseverance: How Vital Are They?](https://dev.to/codenewbieteam/top-notch-coding-qualities-resilience-perseverance-p44)
+- [Power Automate Documentation by GPT](https://dev.to/wyattdave/power-automate-documentation-by-gpt-3ba9)
+- [Weekly Roundup &lpar;Jul 17&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jul-17-hot-topics-in-workplace-sharepoint-and-powerplatform-1168)
 <!-- BLOG-POST-LIST:END -->
 
