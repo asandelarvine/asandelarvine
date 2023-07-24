@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is SGPA?](https://dev.to/oliviasmit12427/what-is-sgpa-4dlj)
+- [How I Learned To Code In 6 Months &amp; Got a Job Offer &lpar;self-taught&rpar;](https://dev.to/scofieldidehen/how-i-learned-to-code-in-6-months-got-a-job-offer-self-taught-18pm)
 - [Asynchronous JavaScript: Everything you need to know](https://dev.to/scofieldidehen/asynchronous-javascript-everything-you-need-to-know-cec)
-- [My Experience At AWS Community Day Malaysia 2023](https://dev.to/dheeraj3choudhary/my-experience-at-aws-community-day-malaysia-2023-1je6)
-- [Python Networking: Servers](https://dev.to/cwprogram/python-networking-servers-4jm1)
-- [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
+- [Configure SSH Keys for Your GitHub Account](https://dev.to/builditdeploy/configure-ssh-keys-for-your-github-account-3ll1)
 <!-- BLOG-POST-LIST:END -->
 
