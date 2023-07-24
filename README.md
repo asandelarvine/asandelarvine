@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Networking: Servers](https://dev.to/cwprogram/python-networking-servers-4jm1)
 - [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
 - [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
 - [Using Postgresql pg_vector for AI: Part 2, Using vectors For Natural Language Processing](https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40)
-- [Docker: Simplifying Application Deployment and Management](https://dev.to/ankitrival618/docker-simplifying-application-deployment-and-management-3n1n)
 <!-- BLOG-POST-LIST:END -->
 
