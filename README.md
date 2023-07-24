@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous JavaScript: Everything you need to know](https://dev.to/scofieldidehen/asynchronous-javascript-everything-you-need-to-know-cec)
 - [My Experience At AWS Community Day Malaysia 2023](https://dev.to/dheeraj3choudhary/my-experience-at-aws-community-day-malaysia-2023-1je6)
 - [Python Networking: Servers](https://dev.to/cwprogram/python-networking-servers-4jm1)
 - [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
-- [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
 <!-- BLOG-POST-LIST:END -->
 
