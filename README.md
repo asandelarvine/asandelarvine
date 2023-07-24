@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Save the Data in IPFS Using the Pinata&lpar;2023&rpar;](https://dev.to/cryptoninja0617/how-to-save-the-data-in-ipfs-using-the-pinata2023-1p0g)
 - [Functions Describe the World](https://dev.to/hnrbs/functions-describe-the-world-2cj)
-- [Learn about XSS, submit your app of the week, have an AI make you a mixtape, and other things to do when it&#39;s too hot outside](https://dev.to/glitch/learn-about-xss-submit-your-app-of-the-week-have-an-ai-make-you-a-mixtape-and-other-things-to-do-when-its-too-hot-outside-4hji)
-- [How To Get a Job With No Experience: A Complete Guide](https://dev.to/devpromoteteam/how-to-get-a-job-with-no-experience-a-complete-guide-10ac)
-- [Beer CSS tips #2: Custom chips](https://dev.to/leonardorafael/beer-css-tips-2-custom-chips-2778)
+- [How I Conduct an Accessibility Audit](https://dev.to/thawkin3/how-i-conduct-an-accessibility-audit-57m4)
+- [T3 Stack Template : Supabase &lpar;w/ Auth + DB&rpar; and Shadcn-UI Basic Setup](https://dev.to/remusris/t3-stack-template-supabase-w-auth-db-and-shadcn-ui-basic-setup-2bl9)
 <!-- BLOG-POST-LIST:END -->
 
