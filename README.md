@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏆 Top 5 full-stack JS frameworks in 2023 - which one should you pick for your next project? 🤔](https://dev.to/matijasos/top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6)
-- [Monitoring Systems with Prometheus and Grafana: A Comprehensive Guide](https://dev.to/deepanshu0810/monitoring-systems-with-prometheus-and-grafana-a-comprehensive-guide-35ag)
-- [Booking service price aggregator](https://dev.to/abtosoftware/booking-service-price-aggregator-2pgp)
-- [Observe Your Phoenix App with Structured Logging](https://dev.to/appsignal/observe-your-phoenix-app-with-structured-logging-5cj7)
+- [Coding Period GSoC&#39;23 | Week 7+8](https://dev.to/prerna0202/coding-period-gsoc23-week-78-2jch)
+- [Higher Order Function &lpar;HOF&rpar; in JavaScript](https://dev.to/diwakarkashyap/higher-order-function-hof-in-javascript-10b1)
+- [Fluid vs. responsive typography with CSS clamp](https://dev.to/logrocket/fluid-vs-responsive-typography-with-css-clamp-4j13)
+- [Zabbix Server Kurulumu](https://dev.to/nurhaksenturk/zabbix-server-kurulumu-2opn)
 <!-- BLOG-POST-LIST:END -->
 
