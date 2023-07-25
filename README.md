@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [A Motivational Guide for Software Developers 💪](https://dev.to/evansifyke/a-motivational-guide-for-software-developers-3bml)
 - [The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
+- [More Accessible Graphs with Jetpack Compose Part 1: Adding Content Description](https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-1-adding-content-description-43be)
 - [How I Created a File Sharing Website using Simple REACT](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-react-41f)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3a6o)
 <!-- BLOG-POST-LIST:END -->
 
