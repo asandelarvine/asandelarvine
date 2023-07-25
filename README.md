@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter X Uncovered: Everything You Need to Know](https://dev.to/thenomadevel/twitter-x-uncovered-everything-you-need-to-know-3fhi)
+- [Better chat.](https://dev.to/schbenedikt/better-chat-3n7e)
 - [Embracing Vue.js and PrimeVue in 2023: A Newbie Developer&#39;s Guide](https://dev.to/wizarddeveloper/embracing-vuejs-and-primevue-in-2023-a-newbie-developers-guide-chc)
 - [Mastering AJAX for Sports Data: A Comprehensive Guide to Seamless Web Development](https://dev.to/jacknorman235/mastering-ajax-for-sports-data-a-comprehensive-guide-to-seamless-web-development-31h1)
-- [Fix VS Code Explorer for Content Projects](https://dev.to/chantastic/fix-vs-code-explorer-for-content-projects-21p0)
-- [A Motivational Guide for Software Developers 💪](https://dev.to/evansifyke/a-motivational-guide-for-software-developers-3bml)
 <!-- BLOG-POST-LIST:END -->
 
