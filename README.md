@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Google Popup Login into Your Website with Google One Tap API](https://dev.to/sh20raj/integrating-google-popup-login-into-your-website-with-google-one-tap-api-11h8)
-- [Brief Explanation of Javascript Module Bundler](https://dev.to/mustafamilyas/brief-explanation-of-javascript-module-bundler-b1k)
-- [How to support dark mode in Next.js with almost no &quot;use client&quot;🌞🌜](https://dev.to/esuki/how-to-support-dark-mode-in-nextjs-with-almost-no-use-client-14d0)
-- [Vite + ReactTS + ESLint Airbnb + Prettier](https://dev.to/joshuanr5/vite-reactts-eslint-airbnb-prettier-5hmp)
+- [Ubuntu 22.04 NEXUS OSS Kurulumu](https://dev.to/aciklab/ubuntu-2204-nexus-oss-kurulumu-6gk)
+- [What Are SOLID Design Principles](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
+- [Exploring Genetic Algorithms with Ruby](https://dev.to/rpaweb/exploring-genetic-algorithms-with-ruby-4lae)
+- [How To Construct An Array-Like Data Structure?](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
 <!-- BLOG-POST-LIST:END -->
 
