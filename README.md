@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Manager Handbook for Distributed AntDB-T - P1](https://dev.to/antdbanhui/antdb-t-distributed-managers-handbook-p1-13ah)
+- [Tokenization in Blockchain 🚀🌐](https://dev.to/akshaykurhekar/tokenization-in-blockchain-4c1)
 - [Microservices vs. Micro Frontends: What&#39;s the Difference?](https://dev.to/pavanbelagatti/microservices-vs-micro-frontends-whats-the-difference-33je)
 - [How to Add Custom Fonts in Next.js and Tailwind CSS Templates](https://dev.to/cruip_com/how-to-add-custom-fonts-in-nextjs-and-tailwind-css-templates-2l9o)
-- [Essential Considerations in Allocating Copilot Licenses](https://dev.to/jaloplo/essential-considerations-in-allocating-copilot-licenses-4c7a)
-- [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-33hk)
 <!-- BLOG-POST-LIST:END -->
 
