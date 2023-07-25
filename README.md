@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Begineer: Synchronous vs Asynchronous Programming](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
+- [Resetting MySQL Root Password in Ubuntu: A Step-by-Step Guide](https://dev.to/asifzcpe/resetting-mysql-root-password-in-ubuntu-a-step-by-step-guide-3gnd)
 - [Setting up SSL Certificate with Nginx](https://dev.to/ajipelumi/setting-up-ssl-certificate-with-nginx-48gn)
 - [Why Is PostgreSQL Getting So Popular](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
-- [Introduction to Kubernetes](https://dev.to/mesut-oezdil/introduction-to-kubernetes-30ki)
-- [Safeguarding Data Integrity with pg-safeupdate in PostgreSQL and Supabase](https://dev.to/supabase/safeguarding-data-integrity-with-pg-safeupdate-in-postgresql-and-supabase-2bgd)
 <!-- BLOG-POST-LIST:END -->
 
