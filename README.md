@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🏆 Top 5 full-stack JS frameworks in 2023 - which one should you pick for your next project? 🤔](https://dev.to/matijasos/top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6)
+- [Monitoring Systems with Prometheus and Grafana: A Comprehensive Guide](https://dev.to/deepanshu0810/monitoring-systems-with-prometheus-and-grafana-a-comprehensive-guide-35ag)
 - [Booking service price aggregator](https://dev.to/abtosoftware/booking-service-price-aggregator-2pgp)
-- [Enhancing TypeScript&#39;s Power: Unleashing the Practical Use of Generics](https://dev.to/ultroneoustech/enhancing-typescripts-power-unleashing-the-practical-use-of-generics-d45)
-- [World of Containers: Kubernetes vs. Docker](https://dev.to/site24x7/world-of-containers-kubernetes-vs-docker-i7d)
-- [Generic HTTP Handlers](https://dev.to/vauntdev/generic-http-handlers-29cg)
+- [Observe Your Phoenix App with Structured Logging](https://dev.to/appsignal/observe-your-phoenix-app-with-structured-logging-5cj7)
 <!-- BLOG-POST-LIST:END -->
 
