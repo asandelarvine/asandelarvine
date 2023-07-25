@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Video Calling APIs: Benefits &amp; Features](https://dev.to/emilyrobertsatstream/10-best-video-calling-apis-benefits-features-2lhg)
-- [Implementing Lazy Loading from Angular ⭐](https://dev.to/mana95/how-to-implement-lazy-loading-in-your-angular-application-4gi1)
-- [Working with Django Forms](https://dev.to/ericnanhu/working-with-django-forms-gmn)
-- [A arquitetura Cliente-Servidor e o protocolo HTTP](https://dev.to/ranierivalenca/a-arquitetura-cliente-servidor-e-o-protocolo-http-21nd)
+- [Setting up SSL Certificate with Nginx](https://dev.to/ajipelumi/setting-up-ssl-certificate-with-nginx-48gn)
+- [Why Is PostgreSQL Getting So Popular](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
+- [Introduction to Kubernetes](https://dev.to/mesut-oezdil/introduction-to-kubernetes-30ki)
+- [Safeguarding Data Integrity with pg-safeupdate in PostgreSQL and Supabase](https://dev.to/supabase/safeguarding-data-integrity-with-pg-safeupdate-in-postgresql-and-supabase-2bgd)
 <!-- BLOG-POST-LIST:END -->
 
