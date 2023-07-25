@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hi everyone!](https://dev.to/liladoc/hi-everyone-lhe)
 - [Coding Period GSoC&#39;23 | Week 7+8](https://dev.to/prerna0202/coding-period-gsoc23-week-78-2jch)
+- [A Guide to Using colorama and pygame in Python CLI](https://dev.to/jerrywu1998/a-guide-to-using-colorama-and-pygame-in-python-cli-1n6e)
 - [Higher Order Function &lpar;HOF&rpar; in JavaScript](https://dev.to/diwakarkashyap/higher-order-function-hof-in-javascript-10b1)
-- [Fluid vs. responsive typography with CSS clamp](https://dev.to/logrocket/fluid-vs-responsive-typography-with-css-clamp-4j13)
-- [Zabbix Server Kurulumu](https://dev.to/nurhaksenturk/zabbix-server-kurulumu-2opn)
 <!-- BLOG-POST-LIST:END -->
 
