@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite + ReactTS + ESLint Airbnb + Prettier](https://dev.to/joshuanr5/vite-reactts-eslint-airbnb-prettier-5hmp)
 - [How to get data from Postgres DB as Java Map?](https://dev.to/raghwendrasonu/how-to-get-data-from-postgres-db-as-java-map-26mi)
 - [Amazon Rekognition Custom Labels for Bears](https://dev.to/aws-heroes/amazon-rekognition-custom-labels-1dj5)
 - [Overview of AWS Security Group](https://dev.to/oyohedmond/overview-of-aws-security-group-31ho)
-- [Road Map To Become a Web Developer](https://dev.to/scofieldidehen/road-map-to-become-a-web-developer-3k7)
 <!-- BLOG-POST-LIST:END -->
 
