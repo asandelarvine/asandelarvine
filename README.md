@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source ABCs: Android](https://dev.to/opensauced/open-source-abcs-android-3akb)
+- [The Force Awakens: A Jedi&#39;s Guide to Developing Postgres Extensions in C](https://dev.to/4bdul4ziz/the-force-awakens-a-jedis-guide-to-developing-postgres-extensions-in-c-17le)
 - [Manager Handbook for Distributed AntDB-T - P1](https://dev.to/antdbanhui/antdb-t-distributed-managers-handbook-p1-13ah)
 - [Tokenization in Blockchain 🚀🌐](https://dev.to/akshaykurhekar/tokenization-in-blockchain-4c1)
-- [Microservices vs. Micro Frontends: What&#39;s the Difference?](https://dev.to/pavanbelagatti/microservices-vs-micro-frontends-whats-the-difference-33je)
-- [How to Add Custom Fonts in Next.js and Tailwind CSS Templates](https://dev.to/cruip_com/how-to-add-custom-fonts-in-nextjs-and-tailwind-css-templates-2l9o)
 <!-- BLOG-POST-LIST:END -->
 
