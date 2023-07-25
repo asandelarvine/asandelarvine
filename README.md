@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure React.js App Auth with Redux and Node.js](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
+- [Road Map To Become a Web Developer](https://dev.to/scofieldidehen/road-map-to-become-a-web-developer-3k7)
+- [🪂 How to Secure React.js App Auth with Redux and Node.js 🔥](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
 - [Update myFiles to ALPHA 1.3](https://dev.to/blueberry077/update-myfiles-to-alpha-13-1m13)
 - [i puzzle game i made](https://dev.to/jossse69/i-puzzle-game-i-made-4mob)
-- [Guide to Generating SSL Certificates Using OpenSSL for Web Applications](https://dev.to/intikhabalam/guide-to-generating-ssl-certificates-using-openssl-for-web-applications-i6n)
 <!-- BLOG-POST-LIST:END -->
 
