@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi everyone!](https://dev.to/liladoc/hi-everyone-lhe)
-- [Coding Period GSoC&#39;23 | Week 7+8](https://dev.to/prerna0202/coding-period-gsoc23-week-78-2jch)
-- [A Guide to Using colorama and pygame in Python CLI](https://dev.to/jerrywu1998/a-guide-to-using-colorama-and-pygame-in-python-cli-1n6e)
-- [Higher Order Function &lpar;HOF&rpar; in JavaScript](https://dev.to/diwakarkashyap/higher-order-function-hof-in-javascript-10b1)
+- [A Motivational Guide for Software Developers 💪](https://dev.to/evansifyke/a-motivational-guide-for-software-developers-3bml)
+- [The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
+- [How I Created a File Sharing Website using Simple REACT](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-react-41f)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3a6o)
 <!-- BLOG-POST-LIST:END -->
 
