@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Google Popup Login into Your Website with Google One Tap API](https://dev.to/sh20raj/integrating-google-popup-login-into-your-website-with-google-one-tap-api-11h8)
+- [Brief Explanation of Javascript Module Bundler](https://dev.to/mustafamilyas/brief-explanation-of-javascript-module-bundler-b1k)
+- [How to support dark mode in Next.js with almost no &quot;use client&quot;🌞🌜](https://dev.to/esuki/how-to-support-dark-mode-in-nextjs-with-almost-no-use-client-14d0)
 - [Vite + ReactTS + ESLint Airbnb + Prettier](https://dev.to/joshuanr5/vite-reactts-eslint-airbnb-prettier-5hmp)
-- [How to get data from Postgres DB as Java Map?](https://dev.to/raghwendrasonu/how-to-get-data-from-postgres-db-as-java-map-26mi)
-- [Amazon Rekognition Custom Labels for Bears](https://dev.to/aws-heroes/amazon-rekognition-custom-labels-1dj5)
-- [Overview of AWS Security Group](https://dev.to/oyohedmond/overview-of-aws-security-group-31ho)
 <!-- BLOG-POST-LIST:END -->
 
