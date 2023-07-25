@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best DevOps Strategies for Accelerating Software Delivery](https://dev.to/edenwheeler/10-best-devops-strategies-for-accelerating-software-delivery-4e3d)
-- [Ubuntu 22.04 NEXUS OSS Kurulumu](https://dev.to/aciklab/ubuntu-2204-nexus-oss-kurulumu-6gk)
-- [What Are SOLID Design Principles](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
-- [Exploring Genetic Algorithms with Ruby](https://dev.to/rpaweb/exploring-genetic-algorithms-with-ruby-4lae)
+- [Is There Any Overlap Between Swift Developers &amp; Swifties?](https://dev.to/devteam/is-there-any-overlap-between-swift-developers-swifties-3n72)
+- [Eyeing a Cybersecurity Career? Which Skills and Certifications Unlock the Best Opportunities?](https://dev.to/codenewbieteam/eyeing-a-cybersecurity-career-which-skills-and-certifications-unlock-the-best-opportunities-3le1)
+- [HOW TO: use Hoppscotch.io to interact with Snowflake API ❄️+🛸](https://dev.to/chaos-genius/how-to-use-hoppscotchio-to-interact-with-snowflake-api--1pa9)
+- [Get Instant Form Submissions data on Your Telegram App - GetIntoTouchBot](https://dev.to/sh20raj/get-instant-form-submissions-data-on-your-telegram-app-getintotouchbot-48da)
 <!-- BLOG-POST-LIST:END -->
 
