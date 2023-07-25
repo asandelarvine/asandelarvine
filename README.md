@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Vue.js and PrimeVue in 2023: A Newbie Developer&#39;s Guide](https://dev.to/wizarddeveloper/embracing-vuejs-and-primevue-in-2023-a-newbie-developers-guide-chc)
+- [Mastering AJAX for Sports Data: A Comprehensive Guide to Seamless Web Development](https://dev.to/jacknorman235/mastering-ajax-for-sports-data-a-comprehensive-guide-to-seamless-web-development-31h1)
+- [Fix VS Code Explorer for Content Projects](https://dev.to/chantastic/fix-vs-code-explorer-for-content-projects-21p0)
 - [A Motivational Guide for Software Developers 💪](https://dev.to/evansifyke/a-motivational-guide-for-software-developers-3bml)
-- [The Art Of Messy Code - Chapter 0 : Unconventional Solutions for Challenging Scenarios](https://dev.to/darkterminal/unconventional-solutions-for-challenging-scenarios-285b)
-- [More Accessible Graphs with Jetpack Compose Part 1: Adding Content Description](https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-1-adding-content-description-43be)
-- [How I Created a File Sharing Website using Simple REACT](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-react-41f)
 <!-- BLOG-POST-LIST:END -->
 
