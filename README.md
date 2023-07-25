@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source ABCs: Android](https://dev.to/opensauced/open-source-abcs-android-3akb)
-- [The Force Awakens: A Jedi&#39;s Guide to Developing Postgres Extensions in C](https://dev.to/4bdul4ziz/the-force-awakens-a-jedis-guide-to-developing-postgres-extensions-in-c-17le)
-- [Manager Handbook for Distributed AntDB-T - P1](https://dev.to/antdbanhui/antdb-t-distributed-managers-handbook-p1-13ah)
-- [Tokenization in Blockchain 🚀🌐](https://dev.to/akshaykurhekar/tokenization-in-blockchain-4c1)
+- [Booking service price aggregator](https://dev.to/abtosoftware/booking-service-price-aggregator-2pgp)
+- [Enhancing TypeScript&#39;s Power: Unleashing the Practical Use of Generics](https://dev.to/ultroneoustech/enhancing-typescripts-power-unleashing-the-practical-use-of-generics-d45)
+- [World of Containers: Kubernetes vs. Docker](https://dev.to/site24x7/world-of-containers-kubernetes-vs-docker-i7d)
+- [Generic HTTP Handlers](https://dev.to/vauntdev/generic-http-handlers-29cg)
 <!-- BLOG-POST-LIST:END -->
 
