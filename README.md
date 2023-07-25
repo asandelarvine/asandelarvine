@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is There Any Overlap Between Swift Developers &amp; Swifties?](https://dev.to/devteam/is-there-any-overlap-between-swift-developers-swifties-3n72)
+- [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-33hk)
 - [Eyeing a Cybersecurity Career? Which Skills and Certifications Unlock the Best Opportunities?](https://dev.to/codenewbieteam/eyeing-a-cybersecurity-career-which-skills-and-certifications-unlock-the-best-opportunities-3le1)
+- [Is There Any Overlap Between Swift Developers &amp; Swifties?](https://dev.to/devteam/is-there-any-overlap-between-swift-developers-swifties-3n72)
 - [HOW TO: use Hoppscotch.io to interact with Snowflake API ❄️+🛸](https://dev.to/chaos-genius/how-to-use-hoppscotchio-to-interact-with-snowflake-api--1pa9)
-- [Get Instant Form Submissions data on Your Telegram App - GetIntoTouchBot](https://dev.to/sh20raj/get-instant-form-submissions-data-on-your-telegram-app-getintotouchbot-48da)
 <!-- BLOG-POST-LIST:END -->
 
