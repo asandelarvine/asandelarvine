@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get data from Postgres DB as Java Map?](https://dev.to/raghwendrasonu/how-to-get-data-from-postgres-db-as-java-map-26mi)
+- [Amazon Rekognition Custom Labels for Bears](https://dev.to/aws-heroes/amazon-rekognition-custom-labels-1dj5)
+- [Overview of AWS Security Group](https://dev.to/oyohedmond/overview-of-aws-security-group-31ho)
 - [Road Map To Become a Web Developer](https://dev.to/scofieldidehen/road-map-to-become-a-web-developer-3k7)
-- [🪂 How to Secure React.js App Auth with Redux and Node.js 🔥](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
-- [Update myFiles to ALPHA 1.3](https://dev.to/blueberry077/update-myfiles-to-alpha-13-1m13)
-- [i puzzle game i made](https://dev.to/jossse69/i-puzzle-game-i-made-4mob)
 <!-- BLOG-POST-LIST:END -->
 
