@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [10 Best Video Calling APIs: Benefits &amp; Features](https://dev.to/emilyrobertsatstream/10-best-video-calling-apis-benefits-features-2lhg)
+- [Implementing Lazy Loading from Angular ⭐](https://dev.to/mana95/how-to-implement-lazy-loading-in-your-angular-application-4gi1)
 - [Working with Django Forms](https://dev.to/ericnanhu/working-with-django-forms-gmn)
 - [A arquitetura Cliente-Servidor e o protocolo HTTP](https://dev.to/ranierivalenca/a-arquitetura-cliente-servidor-e-o-protocolo-http-21nd)
-- [Twitter X Uncovered: Everything You Need to Know](https://dev.to/thenomadevel/twitter-x-uncovered-everything-you-need-to-know-3fhi)
 <!-- BLOG-POST-LIST:END -->
 
