@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microservices vs. Micro Frontends: What&#39;s the Difference?](https://dev.to/pavanbelagatti/microservices-vs-micro-frontends-whats-the-difference-33je)
+- [How to Add Custom Fonts in Next.js and Tailwind CSS Templates](https://dev.to/cruip_com/how-to-add-custom-fonts-in-nextjs-and-tailwind-css-templates-2l9o)
+- [Essential Considerations in Allocating Copilot Licenses](https://dev.to/jaloplo/essential-considerations-in-allocating-copilot-licenses-4c7a)
 - [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-33hk)
-- [Eyeing a Cybersecurity Career? Which Skills and Certifications Unlock the Best Opportunities?](https://dev.to/codenewbieteam/eyeing-a-cybersecurity-career-which-skills-and-certifications-unlock-the-best-opportunities-3le1)
-- [Is There Any Overlap Between Swift Developers &amp; Swifties?](https://dev.to/devteam/is-there-any-overlap-between-swift-developers-swifties-3n72)
-- [HOW TO: use Hoppscotch.io to interact with Snowflake API ❄️+🛸](https://dev.to/chaos-genius/how-to-use-hoppscotchio-to-interact-with-snowflake-api--1pa9)
 <!-- BLOG-POST-LIST:END -->
 
