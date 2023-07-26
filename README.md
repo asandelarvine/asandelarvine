@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 New Features &lpar;or bug fixes🐛&rpar; You Might Have Missed in .NET 8](https://dev.to/bytehide/7-new-features-or-bug-fixes-you-might-have-missed-in-net-8-4f11)
+- [Amazon Aurora is Now 60 Times Faster than RDS for MySQL. Really.](https://dev.to/aws-heroes/amazon-aurora-is-now-60-times-faster-than-rds-for-mysql-really-3c0e)
+- [API&#39;s and Web Development: The Ying to the Yang](https://dev.to/scofieldidehen/apis-and-web-development-the-ying-to-the-yang-d4n)
 - [How we run hackathons inside Discord at Autocode](https://dev.to/jacklynbiggin/how-we-run-hackathons-inside-discord-at-autocode-45jf)
-- [Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)
-- [How to Add Database Triggers in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-database-triggers-in-ruby-on-rails-2b8i)
-- [Microservices Architecture on AWS: Scalable, Flexible, and Reliable Cloud Solutions](https://dev.to/jito/microservices-architecture-on-aws-scalable-flexible-and-reliable-cloud-solutions-1eao)
 <!-- BLOG-POST-LIST:END -->
 
