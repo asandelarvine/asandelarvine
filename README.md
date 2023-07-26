@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [💉 Test-Driven Development and Dependency Injection are the way](https://dev.to/antoinecoulon/test-driven-development-and-dependency-injection-are-the-way-cib)
+- [I developed StratusGFX - a free and open source realtime 3D rendering engine](https://dev.to/ktstephano/i-developed-stratusgfx-a-free-and-open-source-realtime-3d-rendering-engine-119k)
 - [Learn serverless on AWS step-by-step - SNS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46)
-- [Welcome Thread - v235](https://dev.to/devteam/welcome-thread-v237-297p)
-- [Ubuntu 22.04 üzerinde belirli bir Helm sürümü kurulumu](https://dev.to/aciklab/ubuntu-2204-uzerinde-belirli-bir-helm-surumu-kurulumu-2jd2)
+- [Rate limiting with bucket4j, redis, Postgres in SpringBoot](https://dev.to/franciskinyuru/rate-limiting-with-bucket4j-redis-postgres-in-springboot-4p02)
 <!-- BLOG-POST-LIST:END -->
 
