@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up a Wire-Hole server on a free-tier Oracle Cloud instance](https://dev.to/lucasplacentino/set-up-a-wire-hole-server-on-a-free-tier-oracle-cloud-instance-b69)
+- [TIL...GitHub pages!](https://dev.to/melo616/tilgithub-pages-3d69)
 - [API Security 101: Safeguarding Your Data and Applications](https://dev.to/clouddefenseai/api-security-101-safeguarding-your-data-and-applications-5fnj)
 - [#DEVDiscuss: Time Management](https://dev.to/devteam/devdiscuss-time-management-3gcd)
-- [Exploring React.js](https://dev.to/wizarddeveloper/exploring-reactjs-53ad)
-- [Features and Comparing the Special Aspects of AgensSQL with PostgreSQL](https://dev.to/salarzaisuhaib/features-and-comparing-the-special-aspects-of-agenssql-with-postgresql-jl9)
 <!-- BLOG-POST-LIST:END -->
 
