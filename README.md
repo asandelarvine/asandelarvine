@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is First Class Function? First Class Function in JavaScript](https://dev.to/diwakarkashyap/what-is-first-class-function-first-class-function-in-javascript-3ba9)
-- [Kube or Fake: A Kubernetes Minigame](https://dev.to/gsaraf/kube-or-fake-a-kubernetes-minigame-52jf)
-- [Soft Delete: Dealing With Unique Constraint in Real-World Case](https://dev.to/zenstack/soft-delete-dealing-with-unique-constraint-in-real-world-case-4p4n)
-- [How we made the new report feature of sls-mentor](https://dev.to/quentinnativel/generate-pretty-reports-from-your-cli-tool-1m83)
+- [Cursive - The intuitive LLM framework](https://dev.to/henrycunh/cursive-the-intuitive-llm-framework-2b05)
+- [Building Next.js app in 7 different languages 🇫🇷 🇩🇪🇧🇷 with i18n. Open Source.](https://dev.to/shnai0/building-nextjs-app-in-7-different-languages-with-i18n-open-source-442e)
+- [🚀How to fetch API in Proper way &amp; Add additional features 🌟](https://dev.to/bhavyashah/how-to-fetch-api-in-proper-way-add-additional-features-3l52)
+- [Dynamic imports supported in react native](https://dev.to/dannyhw/dynamic-imports-supported-in-react-native-273j)
 <!-- BLOG-POST-LIST:END -->
 
