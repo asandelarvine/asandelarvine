@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is First Class Function? First Class Function in JavaScript](https://dev.to/diwakarkashyap/what-is-first-class-function-first-class-function-in-javascript-3ba9)
 - [Kube or Fake: A Kubernetes Minigame](https://dev.to/gsaraf/kube-or-fake-a-kubernetes-minigame-52jf)
 - [Soft Delete: Dealing With Unique Constraint in Real-World Case](https://dev.to/zenstack/soft-delete-dealing-with-unique-constraint-in-real-world-case-4p4n)
-- [Logto Cloud is officially launched!](https://dev.to/logto/logto-cloud-is-officially-launched-506c)
-- [Mastering CSS Margins, Padding, and the Box Model](https://dev.to/devshefali/mastering-css-margins-padding-and-the-box-model-52fc)
+- [How we made the new report feature of sls-mentor](https://dev.to/quentinnativel/generate-pretty-reports-from-your-cli-tool-1m83)
 <!-- BLOG-POST-LIST:END -->
 
