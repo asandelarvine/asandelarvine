@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💉 Test-Driven Development and Dependency Injection are the way](https://dev.to/antoinecoulon/test-driven-development-and-dependency-injection-are-the-way-cib)
-- [I developed StratusGFX - a free and open source realtime 3D rendering engine](https://dev.to/ktstephano/i-developed-stratusgfx-a-free-and-open-source-realtime-3d-rendering-engine-119k)
-- [Learn serverless on AWS step-by-step - SNS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46)
-- [Rate limiting with bucket4j, redis, Postgres in SpringBoot](https://dev.to/franciskinyuru/rate-limiting-with-bucket4j-redis-postgres-in-springboot-4p02)
+- [Kube or Fake: A Kubernetes Minigame](https://dev.to/gsaraf/kube-or-fake-a-kubernetes-minigame-52jf)
+- [Soft Delete: Dealing With Unique Constraint in Real-World Case](https://dev.to/zenstack/soft-delete-dealing-with-unique-constraint-in-real-world-case-4p4n)
+- [Logto Cloud is officially launched!](https://dev.to/logto/logto-cloud-is-officially-launched-506c)
+- [Mastering CSS Margins, Padding, and the Box Model](https://dev.to/devshefali/mastering-css-margins-padding-and-the-box-model-52fc)
 <!-- BLOG-POST-LIST:END -->
 
