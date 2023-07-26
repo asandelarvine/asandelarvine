@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💉 Test-Driven Development and Dependency Injection are the way](https://dev.to/antoinecoulon/test-driven-development-and-dependency-injection-are-the-way-cib)
+- [Learn serverless on AWS step-by-step - SNS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46)
+- [Welcome Thread - v235](https://dev.to/devteam/welcome-thread-v237-297p)
 - [Ubuntu 22.04 üzerinde belirli bir Helm sürümü kurulumu](https://dev.to/aciklab/ubuntu-2204-uzerinde-belirli-bir-helm-surumu-kurulumu-2jd2)
-- [What is an APi?](https://dev.to/rashtech/what-is-an-api-2mhb)
-- [Tutorial: how to install Meteor.js with Tailwind CSS and Flowbite](https://dev.to/themesberg/learn-how-to-install-meteorjs-with-tailwind-css-and-flowbite-6op)
-- [Building Framer Motion Animations Inside a Qwik Application](https://dev.to/builderio/building-framer-motion-animations-inside-a-qwik-application-3n2l)
 <!-- BLOG-POST-LIST:END -->
 
