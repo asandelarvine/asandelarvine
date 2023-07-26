@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 New Features &lpar;or bug fixes🐛&rpar; You Might Have Missed in .NET 8](https://dev.to/bytehide/7-new-features-or-bug-fixes-you-might-have-missed-in-net-8-4f11)
-- [Amazon Aurora is Now 60 Times Faster than RDS for MySQL. Really.](https://dev.to/aws-heroes/amazon-aurora-is-now-60-times-faster-than-rds-for-mysql-really-3c0e)
-- [API&#39;s and Web Development: The Ying to the Yang](https://dev.to/scofieldidehen/apis-and-web-development-the-ying-to-the-yang-d4n)
-- [How we run hackathons inside Discord at Autocode](https://dev.to/jacklynbiggin/how-we-run-hackathons-inside-discord-at-autocode-45jf)
+- [Building a Document Viewer with react-pdf](https://dev.to/mfts/building-a-beautiful-document-viewer-with-react-pdf-666)
+- [AWS Elemental MediaConvert Service](https://dev.to/aws-builders/aws-elemental-mediaconvert-service-27el)
+- [Dynamic Arrays vs Traditional Arrays, With Illustrations and Examples](https://dev.to/ggorantala/dynamic-arrays-vs-traditional-arrays-with-code-examples-5dch)
+- [Unveiling AI-Logger: The Future of Debugging in Node.js](https://dev.to/victorforissier/unveiling-ai-logger-the-future-of-debugging-in-nodejs-41l8)
 <!-- BLOG-POST-LIST:END -->
 
