@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursive - The intuitive LLM framework](https://dev.to/henrycunh/cursive-the-intuitive-llm-framework-2b05)
-- [Building Next.js app in 7 different languages 🇫🇷 🇩🇪🇧🇷 with i18n. Open Source.](https://dev.to/shnai0/building-nextjs-app-in-7-different-languages-with-i18n-open-source-442e)
-- [🚀How to fetch API in Proper way &amp; Add additional features 🌟](https://dev.to/bhavyashah/how-to-fetch-api-in-proper-way-add-additional-features-3l52)
-- [Dynamic imports supported in react native](https://dev.to/dannyhw/dynamic-imports-supported-in-react-native-273j)
+- [Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)
+- [How to Add Database Triggers in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-database-triggers-in-ruby-on-rails-2b8i)
+- [Microservices Architecture on AWS: Scalable, Flexible, and Reliable Cloud Solutions](https://dev.to/jito/microservices-architecture-on-aws-scalable-flexible-and-reliable-cloud-solutions-1eao)
+- [Easy Passwordless Login Experience with Magic Links and Authgear](https://dev.to/bobur/easy-passwordless-login-experience-with-magic-links-and-authgear-137c)
 <!-- BLOG-POST-LIST:END -->
 
