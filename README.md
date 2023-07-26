@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 3D Model Generators: Overview and Use Cases](https://dev.to/mikeyoung44/ai-3d-model-generators-overview-and-use-cases-2n3j)
-- [Exporting Declaration Files in Vite.js](https://dev.to/rashidshamloo/exporting-declaration-files-in-vitejs-f6m)
-- [The Beginner&#39;s Guide to Learning JavaScript: A Step-by-Step Journey](https://dev.to/rishipande15322/the-beginners-guide-to-learning-javascript-a-step-by-step-journey-3bc0)
-- [Sceptre: The Powerful Infrastructure as Code Tool for AWS](https://dev.to/rumeshsil/sceptre-the-powerful-infrastructure-as-code-tool-for-aws-51il)
+- [How to Integrate ChatGPT API in React Native](https://dev.to/mrcflorian/how-to-integrate-chatgpt-api-in-react-native-3k1j)
+- [📃 😎 DocKing: manage document templates &amp; render PDFs microservice](https://dev.to/sethsandaru/docking-manage-document-templates-render-pdfs-microservice-1apc)
+- [Mastering Web Navigation: How to Save Time and Effort with Text-Fragments](https://dev.to/ankitbrijwasi/mastering-web-navigation-how-to-save-time-and-effort-with-text-fragments-4plb)
+- [Enum in javascript 🤯](https://dev.to/lakshmananarumugam/enum-in-javascript-4980)
 <!-- BLOG-POST-LIST:END -->
 
