@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 22.04 üzerinde belirli bir Helm sürümü kurulumu](https://dev.to/aciklab/ubuntu-2204-uzerinde-belirli-bir-helm-surumu-kurulumu-2jd2)
+- [What is an APi?](https://dev.to/rashtech/what-is-an-api-2mhb)
 - [Tutorial: how to install Meteor.js with Tailwind CSS and Flowbite](https://dev.to/themesberg/learn-how-to-install-meteorjs-with-tailwind-css-and-flowbite-6op)
-- [How to - Web scrape with Power Automate Cloud](https://dev.to/wyattdave/how-to-web-scrape-with-power-automate-cloud-4h16)
-- [Events are the shit](https://dev.to/thepassle/events-are-the-shit-b3i)
-- [What is PHP&#39;s Future with PHP 8?](https://dev.to/devteam/what-is-phps-future-with-php-8-2615)
+- [Building Framer Motion Animations Inside a Qwik Application](https://dev.to/builderio/building-framer-motion-animations-inside-a-qwik-application-3n2l)
 <!-- BLOG-POST-LIST:END -->
 
