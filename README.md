@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetBuddies: Follow friends on Leetcode](https://dev.to/mohitsinghchauhan/leetbuddies-follow-friends-on-leetcode-575a)
-- [How to Integrate ChatGPT API in React Native](https://dev.to/mrcflorian/how-to-integrate-chatgpt-api-in-react-native-3k1j)
-- [📃 😎 DocKing: manage document templates &amp; render PDFs microservice](https://dev.to/sethsandaru/docking-manage-document-templates-render-pdfs-microservice-1apc)
-- [Mastering Web Navigation: How to Save Time and Effort with Text-Fragments](https://dev.to/ankitbrijwasi/mastering-web-navigation-how-to-save-time-and-effort-with-text-fragments-4plb)
+- [What Are the Top Three Must-have Apps on Your Phone?](https://dev.to/codenewbieteam/what-are-the-top-three-must-have-apps-on-your-phone-5b46)
+- [What is PHP&#39;s Future with PHP 8?](https://dev.to/devteam/what-is-phps-future-with-php-8-2615)
+- [Is it legal to scrape websites? The Law and Myths of Web Scraping](https://dev.to/newsdataio/is-it-legal-to-scrape-websites-the-law-and-myths-of-web-scraping-394j)
+- [100 HTML Login Forms For your next project](https://dev.to/jon_snow789/100-html-login-forms-for-your-next-project-19e2)
 <!-- BLOG-POST-LIST:END -->
 
