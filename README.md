@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Top Three Must-have Apps on Your Phone?](https://dev.to/codenewbieteam/what-are-the-top-three-must-have-apps-on-your-phone-5b46)
+- [Tutorial: how to install Meteor.js with Tailwind CSS and Flowbite](https://dev.to/themesberg/learn-how-to-install-meteorjs-with-tailwind-css-and-flowbite-6op)
+- [How to - Web scrape with Power Automate Cloud](https://dev.to/wyattdave/how-to-web-scrape-with-power-automate-cloud-4h16)
+- [Events are the shit](https://dev.to/thepassle/events-are-the-shit-b3i)
 - [What is PHP&#39;s Future with PHP 8?](https://dev.to/devteam/what-is-phps-future-with-php-8-2615)
-- [Is it legal to scrape websites? The Law and Myths of Web Scraping](https://dev.to/newsdataio/is-it-legal-to-scrape-websites-the-law-and-myths-of-web-scraping-394j)
-- [100 HTML Login Forms For your next project](https://dev.to/jon_snow789/100-html-login-forms-for-your-next-project-19e2)
 <!-- BLOG-POST-LIST:END -->
 
