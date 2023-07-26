@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring React.js](https://dev.to/wizarddeveloper/exploring-reactjs-53ad)
+- [Features and Comparing the Special Aspects of AgensSQL with PostgreSQL](https://dev.to/salarzaisuhaib/features-and-comparing-the-special-aspects-of-agenssql-with-postgresql-jl9)
 - [Building a Document Viewer with react-pdf](https://dev.to/mfts/building-a-beautiful-document-viewer-with-react-pdf-666)
 - [AWS Elemental MediaConvert Service](https://dev.to/aws-builders/aws-elemental-mediaconvert-service-27el)
-- [Dynamic Arrays vs Traditional Arrays, With Illustrations and Examples](https://dev.to/ggorantala/dynamic-arrays-vs-traditional-arrays-with-code-examples-5dch)
-- [Unveiling AI-Logger: The Future of Debugging in Node.js](https://dev.to/victorforissier/unveiling-ai-logger-the-future-of-debugging-in-nodejs-41l8)
 <!-- BLOG-POST-LIST:END -->
 
