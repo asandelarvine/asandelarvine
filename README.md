@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Begineer: Synchronous vs Asynchronous Programming](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
-- [222 Stories To Learn About Algorithms](https://dev.to/learnrepo/222-stories-to-learn-about-algorithms-4p8p)
-- [Resetting MySQL Root Password in Ubuntu: A Step-by-Step Guide](https://dev.to/asifzcpe/resetting-mysql-root-password-in-ubuntu-a-step-by-step-guide-3gnd)
-- [Setting up SSL Certificate with Nginx](https://dev.to/ajipelumi/setting-up-ssl-certificate-with-nginx-48gn)
+- [AI 3D Model Generators: Overview and Use Cases](https://dev.to/mikeyoung44/ai-3d-model-generators-overview-and-use-cases-2n3j)
+- [Exporting Declaration Files in Vite.js](https://dev.to/rashidshamloo/exporting-declaration-files-in-vitejs-f6m)
+- [The Beginner&#39;s Guide to Learning JavaScript: A Step-by-Step Journey](https://dev.to/rishipande15322/the-beginners-guide-to-learning-javascript-a-step-by-step-journey-3bc0)
+- [Sceptre: The Powerful Infrastructure as Code Tool for AWS](https://dev.to/rumeshsil/sceptre-the-powerful-infrastructure-as-code-tool-for-aws-51il)
 <!-- BLOG-POST-LIST:END -->
 
