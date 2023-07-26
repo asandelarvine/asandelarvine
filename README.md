@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Begineer: Synchronous vs Asynchronous Programming](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
+- [222 Stories To Learn About Algorithms](https://dev.to/learnrepo/222-stories-to-learn-about-algorithms-4p8p)
 - [Resetting MySQL Root Password in Ubuntu: A Step-by-Step Guide](https://dev.to/asifzcpe/resetting-mysql-root-password-in-ubuntu-a-step-by-step-guide-3gnd)
 - [Setting up SSL Certificate with Nginx](https://dev.to/ajipelumi/setting-up-ssl-certificate-with-nginx-48gn)
-- [Why Is PostgreSQL Getting So Popular](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
 <!-- BLOG-POST-LIST:END -->
 
