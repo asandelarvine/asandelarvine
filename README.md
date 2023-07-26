@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript Shorthands](https://dev.to/leandro_nnz/mastering-javascript-shorthands-33mg)
 - [Set up a Wire-Hole server on a free-tier Oracle Cloud instance](https://dev.to/lucasplacentino/set-up-a-wire-hole-server-on-a-free-tier-oracle-cloud-instance-b69)
-- [TIL...GitHub pages!](https://dev.to/melo616/tilgithub-pages-3d69)
-- [API Security 101: Safeguarding Your Data and Applications](https://dev.to/clouddefenseai/api-security-101-safeguarding-your-data-and-applications-5fnj)
-- [#DEVDiscuss: Time Management](https://dev.to/devteam/devdiscuss-time-management-3gcd)
+- [Unleashing the Power of MongoDB: A Practical Guide for Developers](https://dev.to/leandro_nnz/unleashing-the-power-of-mongodb-a-practical-guide-for-developers-3j6o)
+- [Gerando documentação vimdoc de plugins Neovim com Github Actions](https://dev.to/ellisonleao/gerando-documentacao-vimdoc-de-plugins-neovim-com-github-actions-22if)
 <!-- BLOG-POST-LIST:END -->
 
