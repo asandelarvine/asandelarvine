@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How we run hackathons inside Discord at Autocode](https://dev.to/jacklynbiggin/how-we-run-hackathons-inside-discord-at-autocode-45jf)
 - [Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)
 - [How to Add Database Triggers in Ruby on Rails?](https://dev.to/vladhilko/how-to-add-database-triggers-in-ruby-on-rails-2b8i)
 - [Microservices Architecture on AWS: Scalable, Flexible, and Reliable Cloud Solutions](https://dev.to/jito/microservices-architecture-on-aws-scalable-flexible-and-reliable-cloud-solutions-1eao)
-- [Easy Passwordless Login Experience with Magic Links and Authgear](https://dev.to/bobur/easy-passwordless-login-experience-with-magic-links-and-authgear-137c)
 <!-- BLOG-POST-LIST:END -->
 
