@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with React.js: A Beginner&#39;s Guide](https://dev.to/wizarddeveloper/getting-started-with-reactjs-a-beginners-guide-30p1)
-- [Making a 3D Parallax Effect with CSS](https://dev.to/rashidshamloo/making-a-3d-parallax-effect-with-css-2kpp)
-- [Using Sveltris to build interoperable React and Svelte apps](https://dev.to/logrocket/using-sveltris-to-build-interoperable-react-and-svelte-apps-1j76)
-- [📸 Gallery-Flex:Hover](https://dev.to/gjosueo/gallery-flexhover-1ilf)
+- [What are your favorite coding-related podcasts?](https://dev.to/codenewbieteam/what-are-your-favorite-coding-related-podcasts-4alp)
+- [101 JavaScript Concepts You Need to Know](https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8)
+- [Mastering Background Image Darkening with CSS: Simple Yet Effective Techniques](https://dev.to/gyauelvis/mastering-background-image-darkening-with-css-simple-yet-effective-techniques-1cmn)
+- [Why Choose MetricsWave as Your Google Analytics Alternative](https://dev.to/victoor/why-choose-metricswave-as-your-google-analytics-alternative-5agg)
 <!-- BLOG-POST-LIST:END -->
 
