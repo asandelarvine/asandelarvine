@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [maximum salary of the employee in each department](https://dev.to/realnamehidden1_61/maximum-salary-of-the-employee-in-each-department-58p4)
+- [De um mimo até a elevação de privilégios na Cloud](https://dev.to/bolhasec/de-um-mimo-ate-a-elevacao-de-privilegios-na-cloud-2m5c)
 - [Whatcha Watchin&#39;? 👀📺](https://dev.to/codenewbieteam/whatcha-watchin-c68)
 - [7 dicas para uma boa Revisão de Código &lpar;Code Review&rpar;](https://dev.to/github/7-dicas-para-uma-boa-revisao-de-codigo-code-review-33al)
-- [Got Any Unique Use Cases for JavaScript?](https://dev.to/devteam/got-any-unique-use-cases-for-javascript-4fib)
 <!-- BLOG-POST-LIST:END -->
 
