@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Arrays Methods In Detail Part 3](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-3-3phl)
 - [Object-Oriented Programming in Python](https://dev.to/scofieldidehen/object-oriented-programming-in-python-2f9p)
+- [go.mod มีที่มาอย่างไร &lpar;2&rpar;](https://dev.to/pallat/gomod-miithiimaayaangair-2-3bfl)
 - [How To Code a Simple Number Guessing Game in Python](https://dev.to/balapriya/how-to-code-a-simple-number-guessing-game-in-python-4jai)
-- [AntDB Installation and Deployment Documentation - P2](https://dev.to/antdbanhui/antdb-installation-and-deployment-documentation-p2-2bpn)
-- [Introducing Enhance Movies](https://dev.to/begin/introducing-enhance-movies-23d9)
 <!-- BLOG-POST-LIST:END -->
 
