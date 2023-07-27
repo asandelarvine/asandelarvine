@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Magic of Ephemeral Preview Environments](https://dev.to/livecycle/the-magic-of-ephemeral-preview-environments-49pb)
+- [Announcing the Launch of Godot Community Website: Embracing an Open and Diverse Ecosystem!](https://dev.to/godot/announcing-the-launch-of-godot-community-website-embracing-an-open-and-diverse-ecosystem-43n0)
+- [Next Js Vs Nuxt Js 🔥](https://dev.to/bindupatidar/next-js-vs-nuxt-js-2gck)
 - [“Top Frontend Interview Questions : &lpar;Part 1&rpar; — Boost Your Knowledge and Ace Your Next Job Interview!”](https://dev.to/blackhorse0101/top-frontend-interview-questions-part-1-boost-your-knowledge-and-ace-your-next-job-interview-3b39)
-- [Apache APISIX without etcd](https://dev.to/apisix/apache-apisix-without-etcd-221f)
-- [LLM&lpar;Large Language Models&rpar; for better developer learning of your product](https://dev.to/bobur/llmlarge-language-models-for-better-developer-learning-of-your-product-2aa8)
-- [Moonly weekly progress update #58 - key features of Automatio](https://dev.to/moonly/moonly-weekly-progress-update-58-key-features-of-automatio-1cp7)
 <!-- BLOG-POST-LIST:END -->
 
