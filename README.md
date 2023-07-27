@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Shorthands](https://dev.to/leandro_nnz/mastering-javascript-shorthands-33mg)
-- [Set up a Wire-Hole server on a free-tier Oracle Cloud instance](https://dev.to/lucasplacentino/set-up-a-wire-hole-server-on-a-free-tier-oracle-cloud-instance-b69)
-- [Unleashing the Power of MongoDB: A Practical Guide for Developers](https://dev.to/leandro_nnz/unleashing-the-power-of-mongodb-a-practical-guide-for-developers-3j6o)
-- [Gerando documentação vimdoc de plugins Neovim com Github Actions](https://dev.to/ellisonleao/gerando-documentacao-vimdoc-de-plugins-neovim-com-github-actions-22if)
+- [Introducing Enhance Movies](https://dev.to/begin/introducing-enhance-movies-23d9)
+- [Use ChatGPT to Explore Your Database Schema - Part 2](https://dev.to/sualeh/use-chatgpt-to-explore-your-database-schema-part-2-2429)
+- [From useState to useReducer: Level Up Your State Management in React](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
+- [React Routing: Practical Steps in Creating Navigation Bar that Renders Dynamic Content with React.](https://dev.to/meganad60/react-routing-practical-steps-in-creating-navigation-bar-that-renders-dynamic-content-with-react-2jon)
 <!-- BLOG-POST-LIST:END -->
 
