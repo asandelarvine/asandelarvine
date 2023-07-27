@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Programming in Python](https://dev.to/scofieldidehen/object-oriented-programming-in-python-2f9p)
 - [How To Code a Simple Number Guessing Game in Python](https://dev.to/balapriya/how-to-code-a-simple-number-guessing-game-in-python-4jai)
 - [AntDB Installation and Deployment Documentation - P2](https://dev.to/antdbanhui/antdb-installation-and-deployment-documentation-p2-2bpn)
 - [Introducing Enhance Movies](https://dev.to/begin/introducing-enhance-movies-23d9)
-- [Use ChatGPT to Explore Your Database Schema - Part 2](https://dev.to/sualeh/use-chatgpt-to-explore-your-database-schema-part-2-2429)
 <!-- BLOG-POST-LIST:END -->
 
