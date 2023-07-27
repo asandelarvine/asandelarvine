@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [True Secrets Auto Rotation with ESO and Vault](https://dev.to/canelasevero/true-secrets-auto-rotation-with-eso-and-vault-1g4o)
 - [How to Write Impeccably Clean Code That Will Save Your Sanity](https://dev.to/atkumar/how-to-write-impeccably-clean-code-that-will-save-your-sanity-4np9)
 - [Using Protobuf with TypeScript for data serialization](https://dev.to/logrocket/using-protobuf-with-typescript-for-data-serialization-mf3)
 - [What are your favorite coding-related podcasts?](https://dev.to/codenewbieteam/what-are-your-favorite-coding-related-podcasts-4alp)
-- [101 JavaScript Concepts You Need to Know](https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8)
 <!-- BLOG-POST-LIST:END -->
 
