@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oque estudar {rust}](https://dev.to/leviackr/oque-estudar-rust-28ll)
-- [Filter&lpar;&rpar; method in JavaScript ?](https://dev.to/diwakarkashyap/filter-method-in-javascript--20ha)
-- [Unleashing AI Conversations: Building a .NET Core Console App with ChatGPT](https://dev.to/shishsingh/unleashing-ai-conversations-building-a-net-core-console-app-with-chatgpt-53ab)
-- [Performance Comparison between Python and Ruby](https://dev.to/stokry/performance-comparison-between-python-and-ruby-49a9)
+- [maximum salary of the employee in each department](https://dev.to/realnamehidden1_61/maximum-salary-of-the-employee-in-each-department-58p4)
+- [Whatcha Watchin&#39;? 👀📺](https://dev.to/codenewbieteam/whatcha-watchin-c68)
+- [7 dicas para uma boa Revisão de Código &lpar;Code Review&rpar;](https://dev.to/github/7-dicas-para-uma-boa-revisao-de-codigo-code-review-33al)
+- [Got Any Unique Use Cases for JavaScript?](https://dev.to/devteam/got-any-unique-use-cases-for-javascript-4fib)
 <!-- BLOG-POST-LIST:END -->
 
