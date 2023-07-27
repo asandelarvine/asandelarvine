@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-25ph)
+- [How To Code a Simple Number Guessing Game in Python](https://dev.to/balapriya/how-to-code-a-simple-number-guessing-game-in-python-4jai)
+- [AntDB Installation and Deployment Documentation - P2](https://dev.to/antdbanhui/antdb-installation-and-deployment-documentation-p2-2bpn)
 - [Introducing Enhance Movies](https://dev.to/begin/introducing-enhance-movies-23d9)
 - [Use ChatGPT to Explore Your Database Schema - Part 2](https://dev.to/sualeh/use-chatgpt-to-explore-your-database-schema-part-2-2429)
-- [From useState to useReducer: Level Up Your State Management in React](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
 <!-- BLOG-POST-LIST:END -->
 
