@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HARBOR LDAP Entegrasyonu](https://dev.to/dogukaneren/harbor-ldap-entegrasyonu-1943)
-- [AntDB-T Distributed Manager&#39;s Handbook - P3](https://dev.to/antdbanhui/antdb-t-distributed-managers-handbook-p3-392m)
-- [Illustrative Style in E-commerce UI/UX: Conversions and User Engagement](https://dev.to/khawajadawood/illustrative-style-in-e-commerce-uiux-conversions-and-user-engagement-530i)
-- [How to add pg_embedding extension to PostgreSQL](https://dev.to/bkmalan/how-to-add-pgembedding-extension-to-postgresql-2ii6)
+- [LLM&lpar;Large Language Models&rpar; for better developer learning of your product](https://dev.to/bobur/llmlarge-language-models-for-better-developer-learning-of-your-product-2aa8)
+- [Moonly weekly progress update #58 - key features of Automatio](https://dev.to/moonly/moonly-weekly-progress-update-58-key-features-of-automatio-1cp7)
+- [Why Developers Should Use Preview Environments](https://dev.to/livecycle/why-developers-should-use-preview-environments-31io)
+- [Macros to the Rescue! Add Pagination to Non-DB Collections in Laravel](https://dev.to/asifroyal/macros-to-the-rescue-add-pagination-to-non-db-collections-in-laravel-h94)
 <!-- BLOG-POST-LIST:END -->
 
