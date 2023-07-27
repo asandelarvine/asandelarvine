@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance Comparison between Python and Ruby](https://dev.to/stokry/performance-comparison-between-python-and-ruby-49a9)
+- [5 Useful Resources for React JS](https://dev.to/shubhamtiwari909/5-useful-resources-for-react-js-2enf)
+- [Sloan&#39;s Inbox: Will working with legacy code hold me back?](https://dev.to/devteam/sloans-inbox-will-working-with-legacy-code-hold-me-back-17pd)
 - [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-49gh)
-- [Low Code Development Software Pricing - A Comprehensive Guide](https://dev.to/dhruvjoshi9/low-code-development-software-pricing-a-comprehensive-guide-483l)
-- [Self-Hosting Your Own Cloud Storage on AWS using NextCloud](https://dev.to/devarshishimpi/self-hosting-your-own-cloud-storage-on-aws-using-nextcloud-496l)
-- [Differences in Scaling Stateless vs. Stateful Microservices](https://dev.to/amplication/differences-in-scaling-stateless-vs-stateful-microservices-2fig)
 <!-- BLOG-POST-LIST:END -->
 
