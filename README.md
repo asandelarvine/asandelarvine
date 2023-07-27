@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [maximum salary of the employee in each department](https://dev.to/realnamehidden1_61/maximum-salary-of-the-employee-in-each-department-58p4)
-- [De um mimo até a elevação de privilégios na Cloud](https://dev.to/bolhasec/de-um-mimo-ate-a-elevacao-de-privilegios-na-cloud-2m5c)
-- [Whatcha Watchin&#39;? 👀📺](https://dev.to/codenewbieteam/whatcha-watchin-c68)
-- [7 dicas para uma boa Revisão de Código &lpar;Code Review&rpar;](https://dev.to/github/7-dicas-para-uma-boa-revisao-de-codigo-code-review-33al)
+- [Getting Started with React.js: A Beginner&#39;s Guide](https://dev.to/wizarddeveloper/getting-started-with-reactjs-a-beginners-guide-30p1)
+- [Making a 3D Parallax Effect with CSS](https://dev.to/rashidshamloo/making-a-3d-parallax-effect-with-css-2kpp)
+- [Using Sveltris to build interoperable React and Svelte apps](https://dev.to/logrocket/using-sveltris-to-build-interoperable-react-and-svelte-apps-1j76)
+- [📸 Gallery-Flex:Hover](https://dev.to/gjosueo/gallery-flexhover-1ilf)
 <!-- BLOG-POST-LIST:END -->
 
