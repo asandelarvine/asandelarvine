@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HARBOR LDAP Entegrasyonu](https://dev.to/dogukaneren/harbor-ldap-entegrasyonu-1943)
+- [AntDB-T Distributed Manager&#39;s Handbook - P3](https://dev.to/antdbanhui/antdb-t-distributed-managers-handbook-p3-392m)
+- [Illustrative Style in E-commerce UI/UX: Conversions and User Engagement](https://dev.to/khawajadawood/illustrative-style-in-e-commerce-uiux-conversions-and-user-engagement-530i)
 - [How to add pg_embedding extension to PostgreSQL](https://dev.to/bkmalan/how-to-add-pgembedding-extension-to-postgresql-2ii6)
-- [Add &quot;Add to Home Screen&quot; Functionality to Your Progressive Web App](https://dev.to/sh20raj/add-add-to-home-screen-functionality-to-your-progressive-web-app-2h0n)
-- [JavaScript Arrays Methods In Detail Part 3](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-3-3phl)
-- [Front end practice: CSS and SCSS](https://dev.to/lakshmananarumugam/front-end-practice-css-and-scss-5eea)
 <!-- BLOG-POST-LIST:END -->
 
