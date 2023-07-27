@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source ABCs: Bug](https://dev.to/opensauced/open-source-abcs-bug-1god)
 - [The Magic of Ephemeral Preview Environments](https://dev.to/livecycle/the-magic-of-ephemeral-preview-environments-49pb)
+- [Understanding Progressive Web Apps &lpar;PWAs&rpar; - Part 1](https://dev.to/ashfaqe/understanding-progressive-web-apps-pwas-part-1-432f)
 - [Announcing the Launch of Godot Community Website: Embracing an Open and Diverse Ecosystem!](https://dev.to/godot/announcing-the-launch-of-godot-community-website-embracing-an-open-and-diverse-ecosystem-43n0)
-- [Next Js Vs Nuxt Js 🔥](https://dev.to/bindupatidar/next-js-vs-nuxt-js-2gck)
-- [“Top Frontend Interview Questions : &lpar;Part 1&rpar; — Boost Your Knowledge and Ace Your Next Job Interview!”](https://dev.to/blackhorse0101/top-frontend-interview-questions-part-1-boost-your-knowledge-and-ace-your-next-job-interview-3b39)
 <!-- BLOG-POST-LIST:END -->
 
