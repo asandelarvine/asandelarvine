@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [“Top Frontend Interview Questions : &lpar;Part 1&rpar; — Boost Your Knowledge and Ace Your Next Job Interview!”](https://dev.to/blackhorse0101/top-frontend-interview-questions-part-1-boost-your-knowledge-and-ace-your-next-job-interview-3b39)
+- [Apache APISIX without etcd](https://dev.to/apisix/apache-apisix-without-etcd-221f)
 - [LLM&lpar;Large Language Models&rpar; for better developer learning of your product](https://dev.to/bobur/llmlarge-language-models-for-better-developer-learning-of-your-product-2aa8)
 - [Moonly weekly progress update #58 - key features of Automatio](https://dev.to/moonly/moonly-weekly-progress-update-58-key-features-of-automatio-1cp7)
-- [Why Developers Should Use Preview Environments](https://dev.to/livecycle/why-developers-should-use-preview-environments-31io)
-- [Macros to the Rescue! Add Pagination to Non-DB Collections in Laravel](https://dev.to/asifroyal/macros-to-the-rescue-add-pagination-to-non-db-collections-in-laravel-h94)
 <!-- BLOG-POST-LIST:END -->
 
