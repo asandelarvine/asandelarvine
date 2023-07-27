@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source ABCs: Bug](https://dev.to/opensauced/open-source-abcs-bug-1god)
-- [The Magic of Ephemeral Preview Environments](https://dev.to/livecycle/the-magic-of-ephemeral-preview-environments-49pb)
-- [Understanding Progressive Web Apps &lpar;PWAs&rpar; - Part 1](https://dev.to/ashfaqe/understanding-progressive-web-apps-pwas-part-1-432f)
-- [Announcing the Launch of Godot Community Website: Embracing an Open and Diverse Ecosystem!](https://dev.to/godot/announcing-the-launch-of-godot-community-website-embracing-an-open-and-diverse-ecosystem-43n0)
+- [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-49gh)
+- [Low Code Development Software Pricing - A Comprehensive Guide](https://dev.to/dhruvjoshi9/low-code-development-software-pricing-a-comprehensive-guide-483l)
+- [Self-Hosting Your Own Cloud Storage on AWS using NextCloud](https://dev.to/devarshishimpi/self-hosting-your-own-cloud-storage-on-aws-using-nextcloud-496l)
+- [Differences in Scaling Stateless vs. Stateful Microservices](https://dev.to/amplication/differences-in-scaling-stateless-vs-stateful-microservices-2fig)
 <!-- BLOG-POST-LIST:END -->
 
