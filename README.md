@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add pg_embedding extension to PostgreSQL](https://dev.to/bkmalan/how-to-add-pgembedding-extension-to-postgresql-2ii6)
+- [Add &quot;Add to Home Screen&quot; Functionality to Your Progressive Web App](https://dev.to/sh20raj/add-add-to-home-screen-functionality-to-your-progressive-web-app-2h0n)
 - [JavaScript Arrays Methods In Detail Part 3](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-3-3phl)
-- [Object-Oriented Programming in Python](https://dev.to/scofieldidehen/object-oriented-programming-in-python-2f9p)
-- [go.mod มีที่มาอย่างไร &lpar;2&rpar;](https://dev.to/pallat/gomod-miithiimaayaangair-2-3bfl)
-- [How To Code a Simple Number Guessing Game in Python](https://dev.to/balapriya/how-to-code-a-simple-number-guessing-game-in-python-4jai)
+- [Front end practice: CSS and SCSS](https://dev.to/lakshmananarumugam/front-end-practice-css-and-scss-5eea)
 <!-- BLOG-POST-LIST:END -->
 
