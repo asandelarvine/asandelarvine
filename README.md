@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git For Windows: Step-by-Step Instructions for Setting Up Git in 12 Easy Steps](https://dev.to/blackbond/git-for-windows-step-by-step-instructions-for-setting-up-git-in-12-easy-steps-2058)
-- [Build a simple scraper with Ruby](https://dev.to/stokry/build-a-simple-scraper-with-ruby-okg)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5fll)
-- [CI/CD with Github for Flutter Web to CPanel](https://dev.to/brishav/cicd-with-github-for-flutter-web-to-cpanel-47bb)
+- [5 Reasons why you should choose PostgreSQL for your next Project!](https://dev.to/saifalyy/5-reasons-why-you-should-choose-postgresql-for-your-next-project-1kl2)
+- [NFTs, Blockchains, and Standards Explained without BS](https://dev.to/rytis/nfts-blockchains-and-standards-explained-without-bs-3nm0)
+- [Master Generics in TypeScript](https://dev.to/cliff123tech/master-generics-in-typescript-3kf3)
+- [finally&lpar;&rpar; method in JavaScript](https://dev.to/diwakarkashyap/finally-method-in-javascript-1dfl)
 <!-- BLOG-POST-LIST:END -->
 
