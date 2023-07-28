@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a simple scraper with Ruby](https://dev.to/stokry/build-a-simple-scraper-with-ruby-okg)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5fll)
+- [Wie man Text- und Bild-Wasserzeichen zu einem Word-Dokument in Java hinzufügt](https://dev.to/sironly/wie-man-text-und-bild-wasserzeichen-zu-einem-word-dokument-in-java-hinzufugt-blj)
 - [Implementing OAuth 2.0 social login with Facebook: A comprehensive guide](https://dev.to/hackmamba/implementing-oauth-20-social-login-with-facebook-a-comprehensive-guide-330o)
-- [Assertions: How to Assert Conditions and Types](https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep)
-- [Building Smart Decision Models with Sitecore Personalize: The Power of Programmable Nodes](https://dev.to/annagevel/building-smart-decision-models-with-sitecore-personalize-the-power-of-programmable-nodes-b24)
-- [Top Trends in AI Development 🚀](https://dev.to/bindupatidar/top-trends-in-ai-development-4c1j)
 <!-- BLOG-POST-LIST:END -->
 
