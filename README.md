@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
 - [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-186p)
 - [AI Tooling For Your Dev Team: To Adopt or Not to Adopt?](https://dev.to/linearb/ai-tooling-for-your-dev-team-to-adopt-or-not-to-adopt-82o)
 - [True Secrets Auto Rotation with ESO and Vault](https://dev.to/canelasevero/true-secrets-auto-rotation-with-eso-and-vault-1g4o)
-- [How to Write Impeccably Clean Code That Will Save Your Sanity](https://dev.to/atkumar/how-to-write-impeccably-clean-code-that-will-save-your-sanity-4np9)
 <!-- BLOG-POST-LIST:END -->
 
