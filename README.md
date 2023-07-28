@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using Swagger-UI and MSW, but SDK instead](https://dev.to/samchon/stop-using-swagger-ui-and-msw-but-sdk-instead-412b)
 - [Building Resilient Systems with Idempotent APIs](https://dev.to/karishmashukla/building-resilient-systems-with-idempotent-apis-5e5p)
 - [C# Tuples: An Introductory Guide on Tuples in C# With Examples](https://dev.to/rasheedmozaffar/c-tuples-an-introductory-guide-on-tuples-in-c-with-examples-c46)
 - [Quick Guide To Set Up Your React App Ready For Development.](https://dev.to/meganad60/quick-guide-to-set-up-your-react-app-ready-for-development-1hm9)
-- [It&#39;s Follow Friday! Who&#39;s Lighting up Your dev.to World? ✨💫](https://dev.to/devteam/follow-friday-whos-lighting-up-your-devto-world-587k)
 <!-- BLOG-POST-LIST:END -->
 
