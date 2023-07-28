@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [7 Rules to Write Highly Scalable Code with Practical Examples 🚀](https://dev.to/yatendra2001/7-rules-to-write-highly-scalable-code-with-practical-examples-573e)
+- [Control your role! Kubernetes RBAC explored](https://dev.to/snyk/control-your-role-kubernetes-rbac-explored-2d83)
 - [5 Ways To Create Responsive HTML Tables](https://dev.to/codeboxx/5-ways-to-create-responsive-html-table-3ol8)
 - [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
-- [How to Build Progressive Web Apps &lpar;PWAs&rpar; with Node.js](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
 <!-- BLOG-POST-LIST:END -->
 
