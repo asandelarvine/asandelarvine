@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀📝 Enhance Your GitHub Profile: Level Up with the GitHub Profile README Generator](https://dev.to/preetsuthar17/enhance-your-github-profile-level-up-with-the-github-profile-readme-generator-2j5b)
-- [🚀💡 Quick &amp; Easy Guide to Get Started with Gatsby](https://dev.to/preetsuthar17/quick-easy-guide-to-get-started-with-gatsby-4l6f)
-- [Who&#39;s looking for open source contributors? &lpar;week 52&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-52-1l51)
-- [Difference Between Coding And Programming](https://dev.to/pottoku/test-post-1017)
+- [Building smth cool this weekend? Built👩‍💻 🔜 Launch 🚀](https://dev.to/shnai0/building-smth-cool-this-weekend-built-launch-1297)
+- [CSS Flexbox 💪: A Comprehensive and Easy-to-Understand Guide for Powerful Layouts 🎨🔗](https://dev.to/preetsuthar17/css-flexbox-a-comprehensive-and-easy-to-understand-guide-for-powerful-layouts-535m)
+- [🌗🌙 Implementing a Dark Mode Toggle: Level Up Your Website with CSS and JavaScript](https://dev.to/preetsuthar17/implementing-a-dark-mode-toggle-level-up-your-website-with-css-and-javascript-2bpb)
+- [Mastering Programming Interviews: A Gateway to Software Development Success](https://dev.to/idurar/mastering-programming-interviews-a-gateway-to-software-development-success-4mkd)
 <!-- BLOG-POST-LIST:END -->
 
