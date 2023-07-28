@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailoring tasks and software requirements: Addressing the Needs of Junior, Mid, and Senior Developers](https://dev.to/ivangavlik/tailoring-tasks-and-software-requirements-addressing-the-needs-of-junior-mid-and-senior-developers-bhj)
+- [Why Not to Store images in Database?](https://dev.to/hasanelsherbiny/why-not-to-store-images-in-database-386)
 - [What is API?](https://dev.to/hasanelsherbiny/what-is-api-21bc)
 - [Day 14: This is lost](https://dev.to/dhrn/day-14-situation-this-is-lost-4k3g)
-- [How to add comments to a static site using GitHub Pull Requests and Netlify Functions](https://dev.to/neagle/how-to-add-comments-to-a-static-site-using-github-pull-requests-and-netlify-functions-560l)
-- [Base128 Algorithm: Tool for Encoding and Decoding text data](https://dev.to/lukaszwojcikdev/base128-algorithm-tool-for-encoding-and-decoding-text-data-34ld)
 <!-- BLOG-POST-LIST:END -->
 
