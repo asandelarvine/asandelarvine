@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Follow Friday! Who&#39;s Lighting up Your dev.to World? ✨💫](https://dev.to/devteam/follow-friday-whos-lighting-up-your-devto-world-587k)
+- [PostgreSQL vs MySQL](https://dev.to/mmmalik45/postgresql-vs-mysql-4k3i)
+- [Environmental Science meets Software engineering](https://dev.to/caroline_kurgat/environmental-science-meets-software-engineering-kco)
 - [Building smth cool this weekend? Built👩‍💻 🔜 Launch 🚀](https://dev.to/shnai0/building-smth-cool-this-weekend-built-launch-1297)
-- [CSS Flexbox 💪: A Comprehensive and Easy-to-Understand Guide for Powerful Layouts 🎨🔗](https://dev.to/preetsuthar17/css-flexbox-a-comprehensive-and-easy-to-understand-guide-for-powerful-layouts-535m)
-- [🌗🌙 Implementing a Dark Mode Toggle: Level Up Your Website with CSS and JavaScript](https://dev.to/preetsuthar17/implementing-a-dark-mode-toggle-level-up-your-website-with-css-and-javascript-2bpb)
-- [Mastering Programming Interviews: A Gateway to Software Development Success](https://dev.to/idurar/mastering-programming-interviews-a-gateway-to-software-development-success-4mkd)
 <!-- BLOG-POST-LIST:END -->
 
