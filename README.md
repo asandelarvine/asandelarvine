@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git: A practical guide](https://dev.to/moharamfatema/git-a-practical-guide-no1)
-- [Featured Mod of the Month: Thomas Bnt](https://dev.to/devteam/featured-mod-of-the-month-thomas-bnt-4lo3)
-- [Stop using Swagger-UI and MSW, but SDK instead](https://dev.to/samchon/stop-using-swagger-ui-and-msw-but-sdk-instead-412b)
-- [Copying an Array in Javascript](https://dev.to/vasilgvasilev/copying-an-array-in-javascript-2dg3)
+- [How to add comments to a static site using GitHub Pull Requests and Netlify Functions](https://dev.to/neagle/how-to-add-comments-to-a-static-site-using-github-pull-requests-and-netlify-functions-560l)
+- [Base128 Algorithm: Tool for Encoding and Decoding text data](https://dev.to/lukaszwojcikdev/base128-algorithm-tool-for-encoding-and-decoding-text-data-34ld)
+- [How To Begin Using The IP Geolocation API](https://dev.to/gabriela_avi/how-to-begin-using-the-ip-geolocation-api-19c9)
+- [How to Install PostgreSQL from Source](https://dev.to/markgomer/how-to-install-postgresql-from-source-3jd8)
 <!-- BLOG-POST-LIST:END -->
 
