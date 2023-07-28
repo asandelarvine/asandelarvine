@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Resilient Systems with Idempotent APIs](https://dev.to/karishmashukla/building-resilient-systems-with-idempotent-apis-5e5p)
+- [Quick Guide To Set Up Your React App Ready For Development.](https://dev.to/meganad60/quick-guide-to-set-up-your-react-app-ready-for-development-1hm9)
 - [It&#39;s Follow Friday! Who&#39;s Lighting up Your dev.to World? ✨💫](https://dev.to/devteam/follow-friday-whos-lighting-up-your-devto-world-587k)
-- [PostgreSQL vs MySQL](https://dev.to/mmmalik45/postgresql-vs-mysql-4k3i)
-- [Environmental Science meets Software engineering](https://dev.to/caroline_kurgat/environmental-science-meets-software-engineering-kco)
-- [Building smth cool this weekend? Built👩‍💻 🔜 Launch 🚀](https://dev.to/shnai0/building-smth-cool-this-weekend-built-launch-1297)
+- [In your own opinion, what makes a tutorial beginner friendly?](https://dev.to/savvasstephnds/in-your-own-opinion-what-makes-a-tutorial-beginner-friendly-mg4)
 <!-- BLOG-POST-LIST:END -->
 
