@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing OAuth 2.0 social login with Facebook: A comprehensive guide](https://dev.to/hackmamba/implementing-oauth-20-social-login-with-facebook-a-comprehensive-guide-330o)
+- [Assertions: How to Assert Conditions and Types](https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep)
+- [Building Smart Decision Models with Sitecore Personalize: The Power of Programmable Nodes](https://dev.to/annagevel/building-smart-decision-models-with-sitecore-personalize-the-power-of-programmable-nodes-b24)
 - [Top Trends in AI Development 🚀](https://dev.to/bindupatidar/top-trends-in-ai-development-4c1j)
-- [How Does Python&#39;s Readability Affect Newcomers&#39; Learning Curve?](https://dev.to/devteam/how-does-pythons-readability-affect-newcomers-learning-curve-21kp)
-- [Unravel Your Coding Passion: What Sparks Your Excitement?](https://dev.to/codenewbieteam/unravel-your-coding-passion-what-sparks-your-excitement-5ie)
-- [Mastering Git Shortcuts: A Guide to Git Aliases](https://dev.to/pradumnasaraf/mastering-git-shortcuts-a-guide-to-git-aliases-324j)
 <!-- BLOG-POST-LIST:END -->
 
