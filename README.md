@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Rules to Write Highly Scalable Code with Practical Examples 🚀](https://dev.to/yatendra2001/7-rules-to-write-highly-scalable-code-with-practical-examples-573e)
-- [Control your role! Kubernetes RBAC explored](https://dev.to/snyk/control-your-role-kubernetes-rbac-explored-2d83)
-- [5 Ways To Create Responsive HTML Tables](https://dev.to/codeboxx/5-ways-to-create-responsive-html-table-3ol8)
-- [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
+- [How Does Python&#39;s Readability Affect Newcomers&#39; Learning Curve?](https://dev.to/devteam/how-does-pythons-readability-affect-newcomers-learning-curve-21kp)
+- [Unravel Your Coding Passion: What Sparks Your Excitement?](https://dev.to/codenewbieteam/unravel-your-coding-passion-what-sparks-your-excitement-5ie)
+- [Mastering Git Shortcuts: A Guide to Git Aliases](https://dev.to/pradumnasaraf/mastering-git-shortcuts-a-guide-to-git-aliases-324j)
+- [Are you tired of connecting your android device every time? Then build your own DeviceFarm🏭.](https://dev.to/dogutech/are-you-tired-of-connecting-your-android-device-every-time-then-build-your-own-devicefarm-432o)
 <!-- BLOG-POST-LIST:END -->
 
