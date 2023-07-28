@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
+- [Python for ML/AI - 1.3: Matplotlib, Seaborn &amp; Jupyter Notebooks](https://dev.to/stevenmcgown/python-for-mlai-13-matplotlib-seaborn-jupyter-notebooks-2a76)
+- [Creating shimmer animations using flutter](https://dev.to/fluttertanzania/creating-shimmer-animations-using-flutter-1d0n)
 - [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-186p)
-- [AI Tooling For Your Dev Team: To Adopt or Not to Adopt?](https://dev.to/linearb/ai-tooling-for-your-dev-team-to-adopt-or-not-to-adopt-82o)
-- [True Secrets Auto Rotation with ESO and Vault](https://dev.to/canelasevero/true-secrets-auto-rotation-with-eso-and-vault-1g4o)
 <!-- BLOG-POST-LIST:END -->
 
