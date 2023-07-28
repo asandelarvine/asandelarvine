@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Rules to Write Highly Scalable Code with Practical Examples 🚀](https://dev.to/yatendra2001/7-rules-to-write-highly-scalable-code-with-practical-examples-573e)
+- [5 Ways To Create Responsive HTML Tables](https://dev.to/codeboxx/5-ways-to-create-responsive-html-table-3ol8)
 - [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
-- [Python for ML/AI - 1.3: Matplotlib, Seaborn &amp; Jupyter Notebooks](https://dev.to/stevenmcgown/python-for-mlai-13-matplotlib-seaborn-jupyter-notebooks-2a76)
-- [Creating shimmer animations using flutter](https://dev.to/fluttertanzania/creating-shimmer-animations-using-flutter-1d0n)
-- [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-186p)
+- [How to Build Progressive Web Apps &lpar;PWAs&rpar; with Node.js](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
 <!-- BLOG-POST-LIST:END -->
 
