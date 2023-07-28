@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Reasons why you should choose PostgreSQL for your next Project!](https://dev.to/saifalyy/5-reasons-why-you-should-choose-postgresql-for-your-next-project-1kl2)
-- [NFTs, Blockchains, and Standards Explained without BS](https://dev.to/rytis/nfts-blockchains-and-standards-explained-without-bs-3nm0)
-- [Master Generics in TypeScript](https://dev.to/cliff123tech/master-generics-in-typescript-3kf3)
-- [finally&lpar;&rpar; method in JavaScript](https://dev.to/diwakarkashyap/finally-method-in-javascript-1dfl)
+- [🚀📝 Enhance Your GitHub Profile: Level Up with the GitHub Profile README Generator](https://dev.to/preetsuthar17/enhance-your-github-profile-level-up-with-the-github-profile-readme-generator-2j5b)
+- [🚀💡 Quick &amp; Easy Guide to Get Started with Gatsby](https://dev.to/preetsuthar17/quick-easy-guide-to-get-started-with-gatsby-4l6f)
+- [Who&#39;s looking for open source contributors? &lpar;week 52&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-52-1l51)
+- [Difference Between Coding And Programming](https://dev.to/pottoku/test-post-1017)
 <!-- BLOG-POST-LIST:END -->
 
