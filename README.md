@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enabling local project collaboration with Gitea](https://dev.to/donaldsebleung/enabling-local-project-collaboration-with-gitea-nog)
 - [How secure is WebAssembly? 5 security concerns unique to WebAssembly](https://dev.to/snyk/how-secure-is-webassembly-5-security-concerns-unique-to-webassembly-48gl)
 - [Creating a virtual environment in Python](https://dev.to/techwriterjohn/creating-a-virtual-environment-in-python-j3)
 - [Building a Slack Bot in Python](https://dev.to/haszankauna/building-a-slack-bot-in-python-146d)
-- [Turing Machine Simulator](https://dev.to/waynechoidev/turing-machine-simulator-5in)
 <!-- BLOG-POST-LIST:END -->
 
