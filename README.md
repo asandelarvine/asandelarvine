@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a virtual environment in Python](https://dev.to/techwriterjohn/creating-a-virtual-environment-in-python-j3)
 - [Building a Slack Bot in Python](https://dev.to/haszankauna/building-a-slack-bot-in-python-146d)
 - [Tailoring tasks and software requirements: Addressing the Needs of Junior, Mid, and Senior Developers](https://dev.to/ivangavlik/tailoring-tasks-and-software-requirements-addressing-the-needs-of-junior-mid-and-senior-developers-bhj)
 - [Why Not to Store images in Database?](https://dev.to/hasanelsherbiny/why-not-to-store-images-in-database-386)
-- [What is API?](https://dev.to/hasanelsherbiny/what-is-api-21bc)
 <!-- BLOG-POST-LIST:END -->
 
