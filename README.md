@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Use Sass?](https://dev.to/jishnupsamal/why-use-sass-57h)
+- [4 Important Services Everyone Should Deploy In A Docker Swarm](https://dev.to/paulknulst/4-important-services-everyone-should-deploy-in-a-docker-swarm-1cce)
 - [How to Intercept HTTP Request Response in Spring Boot](https://dev.to/nilan/how-to-intercept-http-request-response-in-spring-boot-4ne2)
-- [Code Talk: Which Languages Speak to Your Developer Soul?](https://dev.to/devteam/code-talk-which-languages-speak-to-your-developer-soul-486)
-- [How Is C# Evolving to Adapt to Modern Dev Trends?](https://dev.to/devteam/how-is-c-evolving-to-adapt-to-modern-dev-trends-3ljd)
-- [Enabling local project collaboration with Gitea](https://dev.to/donaldsebleung/enabling-local-project-collaboration-with-gitea-nog)
+- [Making a Simple Python Text Based Game](https://dev.to/fergusmk/making-a-simple-python-text-based-game-2fl8)
 <!-- BLOG-POST-LIST:END -->
 
