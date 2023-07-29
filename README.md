@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Intercept HTTP Request Response in Spring Boot](https://dev.to/nilan/how-to-intercept-http-request-response-in-spring-boot-4ne2)
 - [Code Talk: Which Languages Speak to Your Developer Soul?](https://dev.to/devteam/code-talk-which-languages-speak-to-your-developer-soul-486)
 - [How Is C# Evolving to Adapt to Modern Dev Trends?](https://dev.to/devteam/how-is-c-evolving-to-adapt-to-modern-dev-trends-3ljd)
 - [Enabling local project collaboration with Gitea](https://dev.to/donaldsebleung/enabling-local-project-collaboration-with-gitea-nog)
-- [How secure is WebAssembly? 5 security concerns unique to WebAssembly](https://dev.to/snyk/how-secure-is-webassembly-5-security-concerns-unique-to-webassembly-48gl)
 <!-- BLOG-POST-LIST:END -->
 
