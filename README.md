@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Website cookies 🍪](https://dev.to/wonuola_w/website-cookies-3l2g)
-- [Ultimate Guide to User Authorization with Identity Platform](https://dev.to/michalmoravik/ultimate-guide-to-user-authorization-with-identity-platform-5ekg)
-- [Practical Betterments](https://dev.to/shadowfaxrodeo/practical-betterments-49gk)
-- [Understanding parseInt&lpar;&rpar; in JavaScript](https://dev.to/ussdlover/understanding-parseint-in-javascript-4a24)
+- [Checking Internet Status in Basic4Android](https://dev.to/alikarbasicom/checking-internet-status-in-basic4android-2kmo)
+- [Drag and Drop with Next.js and Builder](https://dev.to/builderio/drag-and-drop-with-nextjs-and-builder-4olk)
+- [🌟 Building an Impressive Portfolio Website in minutes with Gatsby - A Step-by-Step Guide](https://dev.to/preetsuthar17/building-an-impressive-portfolio-website-with-gatsby-a-step-by-step-guide-21pi)
+- [Understanding Transaction Isolation Levels in Rails with Simple Examples](https://dev.to/vladhilko/understanding-transaction-isolation-levels-in-rails-with-simple-examples-388f)
 <!-- BLOG-POST-LIST:END -->
 
