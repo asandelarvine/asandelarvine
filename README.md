@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Website cookies 🍪](https://dev.to/wonuola_w/website-cookies-3l2g)
 - [Ultimate Guide to User Authorization with Identity Platform](https://dev.to/michalmoravik/ultimate-guide-to-user-authorization-with-identity-platform-5ekg)
 - [Practical Betterments](https://dev.to/shadowfaxrodeo/practical-betterments-49gk)
 - [Understanding parseInt&lpar;&rpar; in JavaScript](https://dev.to/ussdlover/understanding-parseint-in-javascript-4a24)
-- [Enhancing User Experience with Daxus](https://dev.to/jason89521/enhancing-user-experience-with-daxus-1f2f)
 <!-- BLOG-POST-LIST:END -->
 
