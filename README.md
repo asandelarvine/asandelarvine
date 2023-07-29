@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical Betterments](https://dev.to/shadowfaxrodeo/practical-betterments-49gk)
+- [Understanding parseInt&lpar;&rpar; in JavaScript](https://dev.to/ussdlover/understanding-parseint-in-javascript-4a24)
 - [Enhancing User Experience with Daxus](https://dev.to/jason89521/enhancing-user-experience-with-daxus-1f2f)
 - [[Typia] Hidden Class Optimization of v8 Engine](https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb)
-- [Still confused on how to get started in open source?](https://dev.to/wonuola_w/still-confused-on-how-to-get-started-in-open-source-28de)
-- [Quick guide to Rust&#39;s From/Into and TryFrom/TryInto Traits](https://dev.to/peterblockman/quick-guide-to-rusts-frominto-and-tryfromtryinto-traits-3gf1)
 <!-- BLOG-POST-LIST:END -->
 
