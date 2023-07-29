@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📁 Manage your Files with myFiles ALPHA 2.0 🚀](https://dev.to/blueberry077/manage-your-files-in-20-1jef)
+- [Work Types.](https://dev.to/hasanelsherbiny/work-types-1564)
+- [Comenzar en el desarrollo web](https://dev.to/santyramirez/comenzar-en-el-desarrollo-web-2f9m)
 - [WebAssembly: Unraveling the Future of Web Development](https://dev.to/akashpattnaik/webassembly-unraveling-the-future-of-web-development-593)
-- [Checking Internet Status in Basic4Android](https://dev.to/alikarbasicom/checking-internet-status-in-basic4android-2kmo)
-- [53 Stories To Learn About Apis](https://dev.to/learnrepo/53-stories-to-learn-about-apis-3hlp)
-- [Drag and Drop with Next.js and Builder](https://dev.to/builderio/drag-and-drop-with-nextjs-and-builder-4olk)
 <!-- BLOG-POST-LIST:END -->
 
