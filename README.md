@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Roller Coaster Ride: My Experience Speaking at the AWS Summit 2023 in Toronto](https://dev.to/aws-builders/a-roller-coaster-ride-my-experience-speaking-at-the-aws-summit-2023-in-toronto-obl)
 - [Using Angular Signals for Global State](https://dev.to/nordyj/using-angular-signals-for-global-state-3pja)
 - [The Complete Guide to Becoming a Web Developer: Part 5](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-5-4l8j)
 - [Analog Clock: Dark/Light theme](https://dev.to/hradilserhii/analog-clock-darklight-theme-100f)
-- [Work Types.](https://dev.to/hasanelsherbiny/work-types-1564)
 <!-- BLOG-POST-LIST:END -->
 
