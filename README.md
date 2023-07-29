@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📁 Manage your Files with myFiles ALPHA 2.0 🚀](https://dev.to/blueberry077/manage-your-files-in-20-1jef)
 - [Work Types.](https://dev.to/hasanelsherbiny/work-types-1564)
 - [The Definitive Guide to Studying](https://dev.to/adamcole123/the-definitive-guide-to-learning-17he)
 - [Comenzar en el desarrollo web](https://dev.to/santyramirez/comenzar-en-el-desarrollo-web-2f9m)
+- [WebAssembly: Unraveling the Future of Web Development](https://dev.to/akashpattnaik/webassembly-unraveling-the-future-of-web-development-593)
 <!-- BLOG-POST-LIST:END -->
 
