@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK Stack Weekly for 24 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-24-july-2023-40kf)
+- [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-5013)
+- [How to Build a Global Notification System in React](https://dev.to/olabisi09/how-to-build-a-global-notification-system-in-react-4a9n)
 - [Unlocking the Power of GraphQL: How AWS AppSync Simplifies API Development](https://dev.to/brandondamue/unlocking-the-power-of-graphql-how-aws-appsync-simplifies-api-development-3gae)
-- [Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://dev.to/perssondennis/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client-55bb)
-- [Create a table of contents with highlighting in React](https://dev.to/christianah5/create-a-table-of-contents-with-highlighting-in-react-5efl)
-- [I care more about Code than about People](https://dev.to/noriller/i-care-more-about-code-than-about-people-2lc1)
 <!-- BLOG-POST-LIST:END -->
 
