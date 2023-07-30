@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
+- [Angular - Error Handling 101](https://dev.to/this-is-angular/angular-error-handling-101-553)
 - [Python Networking: HTTP](https://dev.to/cwprogram/python-networking-http-2o3)
 - [Bandit Level 7 Level 8](https://dev.to/christianpaez/bandit-level-7-level-8-5am4)
-- [A Beginner&#39;s Guide: Essentials of React](https://dev.to/meganad60/a-beginners-guide-essentials-of-react-3lb0)
-- [Ubie: A Revolutionary Health Quiz Tool for Diagnosing Symptoms](https://dev.to/mitchiemt11/ubie-a-revolutionary-health-quiz-tool-for-diagnosing-symptoms-2l5j)
 <!-- BLOG-POST-LIST:END -->
 
