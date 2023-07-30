@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
+- [Host a static website in AWS using CloudFront, S3 and Terraform](https://dev.to/krishanthisera/host-a-static-website-in-aws-using-cloudfront-s3-and-terraform-hgg)
 - [Angular - Error Handling 101](https://dev.to/this-is-angular/angular-error-handling-101-553)
 - [Python Networking: HTTP](https://dev.to/cwprogram/python-networking-http-2o3)
-- [Bandit Level 7 Level 8](https://dev.to/christianpaez/bandit-level-7-level-8-5am4)
 <!-- BLOG-POST-LIST:END -->
 
