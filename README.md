@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Stack Overflow toxic?](https://dev.to/sadeedpv/is-stack-overflow-toxic-4b0l)
-- [Git Command Cheatsheet: My Top 7 Git Commands](https://dev.to/ananfito/git-command-cheatsheet-my-top-7-git-commands-3lhb)
-- [The Easiest way to install Docker Engine on a Linux Server](https://dev.to/sreekeshiyer/the-easiest-way-to-install-docker-engine-on-a-linux-server-lp8)
-- [iOS Dev Skills. Performance Review.](https://dev.to/sergeyleschev/ios-dev-skills-performance-review-1hho)
+- [📝 Migrating from npm to pnpm: A Journey of Decisions and Experiences 🚀](https://dev.to/levinhphuc91/migrating-from-npm-to-pnpm-a-journey-of-decisions-and-experiences-35dp)
+- [Tutorial: Web Scraping LinkedIn Jobs with Playwright.](https://dev.to/victorlg98/tutorial-web-scraping-linkedin-jobs-with-playwright-2h7l)
+- [Tutorial: Internationalize Your Next.js Static Site &lpar;with App Router&rpar;](https://dev.to/rockystrongo/tutorial-internationalize-your-nextjs-static-site-with-app-router-34hp)
+- [Top 10 best practices for building Scalable Payment System](https://dev.to/vigneshkb7/top-10-best-practices-for-building-scalable-payment-system-64d)
 <!-- BLOG-POST-LIST:END -->
 
