@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing SQL Queries in Apache Age: A Comprehensive Tutorial for Data Analysis and Transformation](https://dev.to/mubeensiddiqui/writing-sql-queries-in-apache-age-a-comprehensive-tutorial-for-data-analysis-and-transformation-4f9b)
+- [Looking Beyond Atlassian StatusPage: The 5 Best Alternatives](https://dev.to/squadcast/looking-beyond-atlassian-statuspage-the-5-best-alternatives-4mop)
 - [FLaNK Stack Weekly for 24 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-24-july-2023-40kf)
 - [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-5013)
-- [How to Build a Global Notification System in React](https://dev.to/olabisi09/how-to-build-a-global-notification-system-in-react-4a9n)
-- [Unlocking the Power of GraphQL: How AWS AppSync Simplifies API Development](https://dev.to/brandondamue/unlocking-the-power-of-graphql-how-aws-appsync-simplifies-api-development-3gae)
 <!-- BLOG-POST-LIST:END -->
 
