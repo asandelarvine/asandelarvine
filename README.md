@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Can the Proliferation of AI Tools Garner Public Trust? 🤔](https://dev.to/mitchiemt11/can-the-proliferation-of-ai-tools-garner-public-trust-2ci3)
 - [Exploring Diverse Avenues of Open Source Contribution.](https://dev.to/chinwenma/exploring-diverse-avenues-of-open-source-contribution-4p1f)
+- [Hosting your django project on vercel: A quick and easy deployment](https://dev.to/codewitgabi/hosting-your-django-project-on-vercel-a-quick-and-easy-deployment-3217)
 - [Web Scraping Booking.com Using Python](https://dev.to/serpdogapi/web-scraping-bookingcom-using-python-2be)
-- [A Guide to Googling🔍: Getting What You Need, Faster 🚀](https://dev.to/allenthomas/a-guide-to-googling-getting-what-you-need-faster-4i9a)
 <!-- BLOG-POST-LIST:END -->
 
