@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Migrating from npm to pnpm: A Journey of Decisions and Experiences 🚀](https://dev.to/levinhphuc91/migrating-from-npm-to-pnpm-a-journey-of-decisions-and-experiences-35dp)
-- [Tutorial: Web Scraping LinkedIn Jobs with Playwright.](https://dev.to/victorlg98/tutorial-web-scraping-linkedin-jobs-with-playwright-2h7l)
-- [Tutorial: Internationalize Your Next.js Static Site &lpar;with App Router&rpar;](https://dev.to/rockystrongo/tutorial-internationalize-your-nextjs-static-site-with-app-router-34hp)
-- [Top 10 best practices for building Scalable Payment System](https://dev.to/vigneshkb7/top-10-best-practices-for-building-scalable-payment-system-64d)
+- [I care more about Code than about People](https://dev.to/noriller/i-care-more-about-code-than-about-people-2lc1)
+- [🇵🇹 GitHub Portugal: the Portuguese development community on GitHub 🇵🇹](https://dev.to/mmroch4/github-portugal-the-portuguese-development-community-on-github-355b)
+- [Decode Your Emotions: Emotional Intelligence for Software Developers](https://dev.to/sushantchhetryy/decode-your-emotions-emotional-intelligence-for-software-developers-453i)
+- [SQL Common Table Expressions and Window functions](https://dev.to/lawrence_cooke_d169c15549/sql-common-table-expressions-and-window-functions-25ce)
 <!-- BLOG-POST-LIST:END -->
 
