@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Easiest way to install Docker Engine on a Linux Server](https://dev.to/sreekeshiyer/the-easiest-way-to-install-docker-engine-on-a-linux-server-lp8)
+- [iOS Dev Skills. Performance Review.](https://dev.to/sergeyleschev/ios-dev-skills-performance-review-1hho)
 - [Simplifying ENUMS in Angular TypeScript Projects: Enhance Code Clarity](https://dev.to/ayushdev_24/simplifying-enums-in-angular-typescript-projects-enhance-code-clarity-57gb)
-- [Web Platform for Enterprise Applications](https://dev.to/denladeside/web-platform-for-enterprise-applications-406p)
-- [Embracing Coding as a Profession in the Era of ChatGPT](https://dev.to/kartikdevs/embracing-coding-as-a-profession-in-the-era-of-chatgpt-4k14)
-- [The method for handling the issue of developer account expiration causing app removal](https://dev.to/gwjunny/the-method-for-handling-the-issue-of-developer-account-expiration-causing-app-removal-1kmk)
+- [Mastering JavaScript: Your Path to Proficiency with Code Examples](https://dev.to/idurar/mastering-javascript-your-path-to-proficiency-with-code-examples-48jo)
 <!-- BLOG-POST-LIST:END -->
 
