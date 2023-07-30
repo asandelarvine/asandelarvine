@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Networking: HTTP](https://dev.to/cwprogram/python-networking-http-2o3)
 - [Bandit Level 7 Level 8](https://dev.to/christianpaez/bandit-level-7-level-8-5am4)
 - [A Beginner&#39;s Guide: Essentials of React](https://dev.to/meganad60/a-beginners-guide-essentials-of-react-3lb0)
 - [Ubie: A Revolutionary Health Quiz Tool for Diagnosing Symptoms](https://dev.to/mitchiemt11/ubie-a-revolutionary-health-quiz-tool-for-diagnosing-symptoms-2l5j)
-- [How Utility-first CSS with TailwindCSS Improved My Website&#39;s Performance by 40%](https://dev.to/josematoswork/how-utility-first-css-with-tailwindcss-improved-my-websites-performance-by-40-2mme)
 <!-- BLOG-POST-LIST:END -->
 
