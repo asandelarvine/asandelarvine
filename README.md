@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 2801 &lpar;Hard, Acceptance Level 14.5%&rpar;. Count Stepping Numbers in Range. DP. Efficiently handles large inputs &lpar;10^9 + 7&rpar;.](https://dev.to/sergeyleschev/leetcode-2801-hard-acceptance-level-145-count-stepping-numbers-in-range-dp-efficiently-handles-large-inputs-109-7-5f1e)
+- [How to Use exec&lpar;&rpar; in Python - Everything You Need to Know](https://dev.to/sachingeek/how-to-use-exec-in-python-everything-you-need-to-know-380f)
+- [How to use DigitalOcean Spaces with Laravel Voyager?](https://dev.to/bobbyiliev/how-to-use-digitalocean-spaces-with-laravel-voyager-4e35)
 - [Sync Your Obsidian Notes Across All Platform for Free](https://dev.to/akshat202002/sync-your-obsidian-notes-across-all-platform-for-free-2po8)
-- [What is Web API and REST API?](https://dev.to/arsalanmee/what-is-web-api-and-rest-api-2m87)
-- [Kotlin&#39;s Interoperability: Impact on Android Dev Choice?](https://dev.to/devteam/kotlins-interoperability-impact-on-android-dev-choice-3pim)
-- [How to Effectively Remove .env File from Git Repo/History](https://dev.to/khaledbenyahya_/how-to-effectively-remove-env-file-from-git-repohistory-1idi)
 <!-- BLOG-POST-LIST:END -->
 
