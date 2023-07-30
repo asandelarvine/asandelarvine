@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Diverse Avenues of Open Source Contribution.](https://dev.to/chinwenma/exploring-diverse-avenues-of-open-source-contribution-4p1f)
+- [Web Scraping Booking.com Using Python](https://dev.to/serpdogapi/web-scraping-bookingcom-using-python-2be)
 - [Writing SQL Queries in Apache Age: A Comprehensive Tutorial for Data Analysis and Transformation](https://dev.to/mubeensiddiqui/writing-sql-queries-in-apache-age-a-comprehensive-tutorial-for-data-analysis-and-transformation-4f9b)
 - [Looking Beyond Atlassian StatusPage: The 5 Best Alternatives](https://dev.to/squadcast/looking-beyond-atlassian-statuspage-the-5-best-alternatives-4mop)
-- [FLaNK Stack Weekly for 24 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-24-july-2023-40kf)
-- [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-5013)
 <!-- BLOG-POST-LIST:END -->
 
