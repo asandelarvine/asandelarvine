@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sync Your Obsidian Notes Across All Platform for Free](https://dev.to/akshat202002/sync-your-obsidian-notes-across-all-platform-for-free-2po8)
+- [What is Web API and REST API?](https://dev.to/arsalanmee/what-is-web-api-and-rest-api-2m87)
 - [Kotlin&#39;s Interoperability: Impact on Android Dev Choice?](https://dev.to/devteam/kotlins-interoperability-impact-on-android-dev-choice-3pim)
 - [How to Effectively Remove .env File from Git Repo/History](https://dev.to/khaledbenyahya_/how-to-effectively-remove-env-file-from-git-repohistory-1idi)
-- [PCIe Passthrough with Cloud-Init in Proxmox VE](https://dev.to/johnbwoodruff/pcie-passthrough-with-cloud-init-in-proxmox-ve-250i)
-- [🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
 <!-- BLOG-POST-LIST:END -->
 
