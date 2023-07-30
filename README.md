@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Can the Proliferation of AI Tools Garner Public Trust? 🤔](https://dev.to/mitchiemt11/can-the-proliferation-of-ai-tools-garner-public-trust-2ci3)
 - [Exploring Diverse Avenues of Open Source Contribution.](https://dev.to/chinwenma/exploring-diverse-avenues-of-open-source-contribution-4p1f)
 - [Web Scraping Booking.com Using Python](https://dev.to/serpdogapi/web-scraping-bookingcom-using-python-2be)
-- [Writing SQL Queries in Apache Age: A Comprehensive Tutorial for Data Analysis and Transformation](https://dev.to/mubeensiddiqui/writing-sql-queries-in-apache-age-a-comprehensive-tutorial-for-data-analysis-and-transformation-4f9b)
-- [Looking Beyond Atlassian StatusPage: The 5 Best Alternatives](https://dev.to/squadcast/looking-beyond-atlassian-statuspage-the-5-best-alternatives-4mop)
+- [A Guide to Googling🔍: Getting What You Need, Faster 🚀](https://dev.to/allenthomas/a-guide-to-googling-getting-what-you-need-faster-4i9a)
 <!-- BLOG-POST-LIST:END -->
 
