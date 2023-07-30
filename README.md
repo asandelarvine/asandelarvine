@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of GraphQL: How AWS AppSync Simplifies API Development](https://dev.to/brandondamue/unlocking-the-power-of-graphql-how-aws-appsync-simplifies-api-development-3gae)
+- [Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://dev.to/perssondennis/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client-55bb)
+- [Create a table of contents with highlighting in React](https://dev.to/christianah5/create-a-table-of-contents-with-highlighting-in-react-5efl)
 - [I care more about Code than about People](https://dev.to/noriller/i-care-more-about-code-than-about-people-2lc1)
-- [🇵🇹 GitHub Portugal: the Portuguese development community on GitHub 🇵🇹](https://dev.to/mmroch4/github-portugal-the-portuguese-development-community-on-github-355b)
-- [Decode Your Emotions: Emotional Intelligence for Software Developers](https://dev.to/sushantchhetryy/decode-your-emotions-emotional-intelligence-for-software-developers-453i)
-- [SQL Common Table Expressions and Window functions](https://dev.to/lawrence_cooke_d169c15549/sql-common-table-expressions-and-window-functions-25ce)
 <!-- BLOG-POST-LIST:END -->
 
