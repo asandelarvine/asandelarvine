@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin&#39;s Interoperability: Impact on Android Dev Choice?](https://dev.to/devteam/kotlins-interoperability-impact-on-android-dev-choice-3pim)
+- [How to Effectively Remove .env File from Git Repo/History](https://dev.to/khaledbenyahya_/how-to-effectively-remove-env-file-from-git-repohistory-1idi)
 - [PCIe Passthrough with Cloud-Init in Proxmox VE](https://dev.to/johnbwoodruff/pcie-passthrough-with-cloud-init-in-proxmox-ve-250i)
 - [🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
-- [Host a static website in AWS using CloudFront, S3 and Terraform](https://dev.to/krishanthisera/host-a-static-website-in-aws-using-cloudfront-s3-and-terraform-hgg)
-- [Building a React/Express Stripe Donation Form](https://dev.to/wra-sol/building-a-reactexpress-stripe-donation-form-2pek)
 <!-- BLOG-POST-LIST:END -->
 
