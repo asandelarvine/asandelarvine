@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Mistakes Junior Developers Make When Programming 🙀🤯](https://dev.to/hectorthedev/5-mistakes-junior-developers-make-when-programming-b76)
 - [A Beginner&#39;s Guide to Creating Pagination in React.js](https://dev.to/sadeedpv/a-beginners-guide-to-creating-pagination-in-reactjs-2a35)
 - [One Year of Dev YouTube](https://dev.to/this-is-learning/one-year-of-dev-youtube-2f5l)
 - [LeetCode 2801 &lpar;Hard, Acceptance Level 14.5%&rpar;. Count Stepping Numbers in Range. DP. Efficiently handles large inputs &lpar;10^9 + 7&rpar;.](https://dev.to/sergeyleschev/leetcode-2801-hard-acceptance-level-145-count-stepping-numbers-in-range-dp-efficiently-handles-large-inputs-109-7-5f1e)
-- [How to Use exec&lpar;&rpar; in Python - Everything You Need to Know](https://dev.to/sachingeek/how-to-use-exec-in-python-everything-you-need-to-know-380f)
 <!-- BLOG-POST-LIST:END -->
 
