@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying ENUMS in Angular TypeScript Projects: Enhance Code Clarity](https://dev.to/ayushdev_24/simplifying-enums-in-angular-typescript-projects-enhance-code-clarity-57gb)
+- [Web Platform for Enterprise Applications](https://dev.to/denladeside/web-platform-for-enterprise-applications-406p)
 - [Embracing Coding as a Profession in the Era of ChatGPT](https://dev.to/kartikdevs/embracing-coding-as-a-profession-in-the-era-of-chatgpt-4k14)
 - [The method for handling the issue of developer account expiration causing app removal](https://dev.to/gwjunny/the-method-for-handling-the-issue-of-developer-account-expiration-causing-app-removal-1kmk)
-- [Simplifying State Management: A Practical Guide to Using Redux with React](https://dev.to/bilal1718/simplifying-state-management-a-practical-guide-to-using-redux-with-react-poa)
-- [PNMP Package Manager: What is it and Why You Should Be Using it - A Comprehensive Guide](https://dev.to/sergioholgado/pnmp-package-manager-what-is-it-and-why-you-should-be-using-it-a-comprehensive-guide-4c66)
 <!-- BLOG-POST-LIST:END -->
 
