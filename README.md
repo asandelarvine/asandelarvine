@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Stack Overflow toxic?](https://dev.to/sadeedpv/is-stack-overflow-toxic-4b0l)
+- [Git Command Cheatsheet: My Top 7 Git Commands](https://dev.to/ananfito/git-command-cheatsheet-my-top-7-git-commands-3lhb)
 - [The Easiest way to install Docker Engine on a Linux Server](https://dev.to/sreekeshiyer/the-easiest-way-to-install-docker-engine-on-a-linux-server-lp8)
 - [iOS Dev Skills. Performance Review.](https://dev.to/sergeyleschev/ios-dev-skills-performance-review-1hho)
-- [Simplifying ENUMS in Angular TypeScript Projects: Enhance Code Clarity](https://dev.to/ayushdev_24/simplifying-enums-in-angular-typescript-projects-enhance-code-clarity-57gb)
-- [Mastering JavaScript: Your Path to Proficiency with Code Examples](https://dev.to/idurar/mastering-javascript-your-path-to-proficiency-with-code-examples-48jo)
 <!-- BLOG-POST-LIST:END -->
 
