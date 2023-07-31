@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🕵🏻‍♂️ I&#39;m a double agent: developer &amp; recruiter 👨🏻‍💻 💒](https://dev.to/jmfayard/im-a-double-agent-developer-recruiter-3odd)
+- [📢 New Additions to DEV&#39;s Code of Conduct!](https://dev.to/devteam/new-additions-to-devs-code-of-conduct-3d58)
+- [Keeping Your Branch Up to Date and Handling Merge Conflicts While Waiting for PR Reviews](https://dev.to/opensauced/keeping-your-branch-up-to-date-and-handling-merge-conflicts-while-waiting-for-pr-reviews-3b3h)
 - [Creating Code Reviews opportunities](https://dev.to/sourcelevel/creating-code-reviews-opportunities-2a0g)
-- [Escreva para você, escreva para todos!](https://dev.to/lsfernandes92/escreva-para-voce-escreva-para-todos-15b9)
-- [Integrating React with Django](https://dev.to/shreya111111/integrating-react-with-django-13lb)
-- [How to Protect Next.js 13 App Routes with Authentication](https://dev.to/codebeast/how-to-protect-nextjs-13-app-routes-with-authentication-1bjh)
 <!-- BLOG-POST-LIST:END -->
 
