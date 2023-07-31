@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Great Developer Has This One Trait: Mastering the Art of Problem-Solving](https://dev.to/idurar/every-great-developer-has-this-one-trait-mastering-the-art-of-problem-solving-4ckk)
-- [🔥 Building an email automation system with React Flow and Resend 🎉](https://dev.to/novu/building-an-email-automation-system-with-react-flow-and-resend-17b5)
-- [The Springboard Pattern](https://dev.to/solidi/the-springboard-pattern-3o04)
-- [🔥 Why I chose Tauri instead of Electron 🔥](https://dev.to/goenning/why-i-chose-tauri-instead-of-electron-34h9)
+- [Android Studio on Devuan 4: インストール](https://dev.to/nabbisen/android-studio-on-devuan-4-insutoru-3h8f)
+- [I published my First App on Google PlayStore 😍😍✨](https://dev.to/dilane3/i-publishee-my-first-app-on-google-playstore-3g5i)
+- [A webpack.config.js for WordPress Projects](https://dev.to/sarahcssiqueira/a-webpackconfigjs-for-wordpress-projects-2d68)
+- [Debugging from different viewpoints](https://dev.to/rajasegar/debugging-from-different-viewpoints-46k0)
 <!-- BLOG-POST-LIST:END -->
 
