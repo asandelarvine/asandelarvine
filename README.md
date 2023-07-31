@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3baj)
-- [Mastering the Art of Delegation](https://dev.to/inovak/mastering-the-art-of-delegation-l22)
-- [Building an Email Marketing Engine Part 4: API Endpoints &amp; Database Enhancements](https://dev.to/codesphere/building-an-email-marketing-engine-part-4-api-endpoints-database-enhancements-428i)
-- [Introduction To Python Programming - part 1](https://dev.to/akinnimimanuel/introduction-to-python-programming-1ie2)
+- [Narrow profile LLM](https://dev.to/aigerim_zhunisbekova_ae0a/narrow-profile-llm-19dl)
+- [Meme Monday](https://dev.to/ben/meme-monday-51j1)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-30gl)
+- [Music Monday — What are you listening to? &lpar;Music from Your Twenties Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-from-your-twenties-edition-2pe1)
 <!-- BLOG-POST-LIST:END -->
 
