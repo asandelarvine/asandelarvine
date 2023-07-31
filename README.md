@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why and How to Create Content as a Software Engineer](https://dev.to/crabnebula/why-and-how-to-create-content-as-a-software-engineer-5g1p)
-- [Create a search engine with PostgreSQL: Postgres vs Elasticsearch](https://dev.to/xata/create-a-search-engine-with-postgresql-postgres-vs-elasticsearch-495k)
-- [Part 3. Ports, Adapters, and UI](https://dev.to/bespoyasov/part-3-ports-adapters-and-ui-311b)
-- [Taming Badly Typed External Libraries - How Zod Boosts Type Safety](https://dev.to/brainhubeu/taming-badly-typed-external-libraries-how-zod-boosts-type-safety-4jog)
+- [4 Best APIs For AI Voice Generators](https://dev.to/gabriela_avi/4-best-apis-for-ai-voice-generators-3pke)
+- [Godot Docs App: Your Offline Godot Engine Documentation Companion!](https://dev.to/godot/godot-docs-app-your-offline-godot-engine-documentation-companion-cpe)
+- [Software Developer, Are You Just A Hammer?](https://dev.to/raddevus/software-developer-are-you-just-a-hammer-gnc)
+- [Android Studio on Devuan 4: Install](https://dev.to/nabbisen/android-studio-on-devuan-4-install-25n1)
 <!-- BLOG-POST-LIST:END -->
 
