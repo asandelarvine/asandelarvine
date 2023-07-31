@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dislikes Dislikes Dislikes Dislikes Dislikes Dislikes Dislikes Dislikes Dislikes Dislikes Dislikes Dislikes](https://dev.to/carlosacsa/dislikes-dislikes-dislikes-dislikes-dislikes-dislikes-dislikes-dislikes-dislikes-dislikes-dislikes-dislikes-48l3)
 - [10 Best Free React UI Libraries in 2023](https://dev.to/ashutoshmishra/10-best-free-react-ui-libraries-in-2023-3ki0)
 - [What Is LINQ?](https://dev.to/hasanelsherbiny/what-is-linq-427p)
 - [GPT3.5 Turbo Game Engine✨ - You can make money from H5 Games now](https://dev.to/lilshake/gpt35-turbo-game-engine-you-can-make-money-from-h5-games-now-405j)
-- [Is Learning Web Development Directly with Frameworks a Mistake?](https://dev.to/character-driven-code/is-learning-web-development-directly-with-frameworks-a-mistake-a3f)
 <!-- BLOG-POST-LIST:END -->
 
