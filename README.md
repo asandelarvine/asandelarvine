@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Studio on Devuan 4: インストール](https://dev.to/nabbisen/android-studio-on-devuan-4-insutoru-3h8f)
-- [I published my First App on Google PlayStore 😍😍✨](https://dev.to/dilane3/i-publishee-my-first-app-on-google-playstore-3g5i)
-- [A webpack.config.js for WordPress Projects](https://dev.to/sarahcssiqueira/a-webpackconfigjs-for-wordpress-projects-2d68)
-- [Debugging from different viewpoints](https://dev.to/rajasegar/debugging-from-different-viewpoints-46k0)
+- [Introduction To Python Programming - part 1](https://dev.to/akinnimimanuel/introduction-to-python-programming-1ie2)
+- [Coding Education for All: Join us in supporting The Odin Project](https://dev.to/theodinproject/coding-education-for-all-join-us-in-supporting-the-odin-project-3ilp)
+- [Building Your Coding Foundation: Where Does Your Expertise Lie?](https://dev.to/codenewbieteam/building-your-coding-foundation-where-does-your-expertise-lie-2e6j)
+- [What is Prototype? Prototype in JavaScript](https://dev.to/diwakarkashyap/what-is-prototype-prototype-in-javascript-41a)
 <!-- BLOG-POST-LIST:END -->
 
