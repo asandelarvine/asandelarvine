@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🕵🏻‍♂️ I&#39;m a double agent: developer &amp; recruiter 👨🏻‍💻 💒](https://dev.to/jmfayard/im-a-double-agent-developer-recruiter-3odd)
-- [📢 New Additions to DEV&#39;s Code of Conduct!](https://dev.to/devteam/new-additions-to-devs-code-of-conduct-3d58)
-- [Keeping Your Branch Up to Date and Handling Merge Conflicts While Waiting for PR Reviews](https://dev.to/opensauced/keeping-your-branch-up-to-date-and-handling-merge-conflicts-while-waiting-for-pr-reviews-3b3h)
-- [Creating Code Reviews opportunities](https://dev.to/sourcelevel/creating-code-reviews-opportunities-2a0g)
+- [10 Best Free React UI Libraries in 2023](https://dev.to/ashutoshmishra/10-best-free-react-ui-libraries-in-2023-3ki0)
+- [What Is LINQ?](https://dev.to/hasanelsherbiny/what-is-linq-427p)
+- [GPT3.5 Turbo Game Engine✨ - You can make money from H5 Games now](https://dev.to/lilshake/gpt35-turbo-game-engine-you-can-make-money-from-h5-games-now-405j)
+- [Is Learning Web Development Directly with Frameworks a Mistake?](https://dev.to/character-driven-code/is-learning-web-development-directly-with-frameworks-a-mistake-a3f)
 <!-- BLOG-POST-LIST:END -->
 
