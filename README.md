@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Badly Typed External Libraries - How Zod Boosts Type Safety?](https://dev.to/brainhubeu/taming-badly-typed-external-libraries-how-zod-boosts-type-safety-4jog)
-- [This Week In React #153: Astro, MUI, Next.js, Remix, React-Query, AsyncLocalStorage, Reanimated, React-Tweet, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-153-astro-mui-nextjs-remix-react-query-asynclocalstorage-reanimated-react-tweet-typescript-4nge)
-- [Streamline your testing workflow with HOPPSCOTCH CLI 🛸](https://dev.to/hoppscotch/streamline-your-testing-workflow-with-hoppscotch-cli-2i3n)
-- [Working with people &gt; Working for people](https://dev.to/karine_bauch/working-with-people-working-for-people-933)
+- [Why and How to Create Content as a Software Engineer](https://dev.to/crabnebula/why-and-how-to-create-content-as-a-software-engineer-5g1p)
+- [Create a search engine with PostgreSQL: Postgres vs Elasticsearch](https://dev.to/xata/create-a-search-engine-with-postgresql-postgres-vs-elasticsearch-495k)
+- [Part 3. Ports, Adapters, and UI](https://dev.to/bespoyasov/part-3-ports-adapters-and-ui-311b)
+- [Taming Badly Typed External Libraries - How Zod Boosts Type Safety](https://dev.to/brainhubeu/taming-badly-typed-external-libraries-how-zod-boosts-type-safety-4jog)
 <!-- BLOG-POST-LIST:END -->
 
