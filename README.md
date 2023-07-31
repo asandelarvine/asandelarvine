@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Task.Run in C# for Multithreading](https://dev.to/bytehide/how-to-use-taskrun-in-c-for-multithreading-4ba9)
-- [5 Things Every JAVA Developer Should Know](https://dev.to/bindupatidar/5-things-every-java-developer-should-know-2c16)
-- [Creating a YouTube Tags Generator Website: The Making of ResearchedTags](https://dev.to/sh20raj/creating-a-youtube-tags-generator-website-the-making-of-researchedtags-d6c)
-- [5 Things Every Javascript Developer Should Know](https://dev.to/bindupatidar/5-things-every-javascript-developer-should-know-38g5)
+- [Five things about public speaking](https://dev.to/codepo8/five-things-about-public-speaking-563f)
+- [Danni, Johny and the Java Feature Flag Problem](https://dev.to/0x4e43/danni-johny-and-the-java-toggle-problem-28h0)
+- [Create an URL Shortener Using Rebrandly API and LocalStorage](https://dev.to/sh20raj/create-an-url-shortener-using-rebrandly-api-and-localstorage-1j14)
+- [AWS open source newsletter, #167](https://dev.to/aws/aws-open-source-newsletter-167-5bg7)
 <!-- BLOG-POST-LIST:END -->
 
