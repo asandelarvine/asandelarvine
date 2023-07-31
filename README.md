@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Best APIs For AI Voice Generators](https://dev.to/gabriela_avi/4-best-apis-for-ai-voice-generators-3pke)
-- [Godot Docs App: Your Offline Godot Engine Documentation Companion!](https://dev.to/godot/godot-docs-app-your-offline-godot-engine-documentation-companion-cpe)
-- [Software Developer, Are You Just A Hammer?](https://dev.to/raddevus/software-developer-are-you-just-a-hammer-gnc)
-- [Android Studio on Devuan 4: Install](https://dev.to/nabbisen/android-studio-on-devuan-4-install-25n1)
+- [Every Great Developer Has This One Trait: Mastering the Art of Problem-Solving](https://dev.to/idurar/every-great-developer-has-this-one-trait-mastering-the-art-of-problem-solving-4ckk)
+- [🔥 Building an email automation system with React Flow and Resend 🎉](https://dev.to/novu/building-an-email-automation-system-with-react-flow-and-resend-17b5)
+- [The Springboard Pattern](https://dev.to/solidi/the-springboard-pattern-3o04)
+- [🔥 Why I chose Tauri instead of Electron 🔥](https://dev.to/goenning/why-i-chose-tauri-instead-of-electron-34h9)
 <!-- BLOG-POST-LIST:END -->
 
