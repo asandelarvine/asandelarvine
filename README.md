@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Ruby&#39;s Focus on Developer Happiness Drive Its Project Success?](https://dev.to/devteam/does-rubys-focus-on-developer-happiness-drive-its-project-success-d6j)
+- [PowerPlay: Tic Tak Toe Precision Vs Language Context](https://dev.to/balagmadhu/powerplay-tic-tak-toe-precision-vs-language-context-2pdp)
+- [Power Automate - All The HTTP Connectors And What They Do](https://dev.to/wyattdave/power-automate-all-the-http-connectors-and-what-they-do-1b42)
 - [Unlock Innovation: How to Rewire Your Brain for Out-of-the-Box Thinking](https://dev.to/seeratawan01/unlock-innovation-how-to-rewire-your-brain-for-out-of-the-box-thinking-172b)
-- [Why I Move from Pixels &lpar;px&rpar; to Relative Units &lpar;rem&rpar; in CSS](https://dev.to/seeratawan01/why-i-move-from-pixels-px-to-relative-units-rem-in-css-1jhb)
-- [Front end practice: Top 25+ Javascript code best practices for development](https://dev.to/lakshmananarumugam/front-end-practice-top-25-javascript-code-best-practices-for-development-4c1d)
-- [Observability Anti-Patterns and How AWS Can Help Overcome Them](https://dev.to/indika_wimalasuriya/observability-anti-patterns-and-how-aws-can-help-overcome-them-4566)
 <!-- BLOG-POST-LIST:END -->
 
