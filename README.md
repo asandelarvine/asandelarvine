@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can the Proliferation of AI Tools Garner Public Trust? 🤔](https://dev.to/mitchiemt11/can-the-proliferation-of-ai-tools-garner-public-trust-2ci3)
-- [Exploring Diverse Avenues of Open Source Contribution.](https://dev.to/chinwenma/exploring-diverse-avenues-of-open-source-contribution-4p1f)
-- [Hosting your django project on vercel: A quick and easy deployment](https://dev.to/codewitgabi/hosting-your-django-project-on-vercel-a-quick-and-easy-deployment-3217)
-- [Web Scraping Booking.com Using Python](https://dev.to/serpdogapi/web-scraping-bookingcom-using-python-2be)
+- [Cocaptain new Features](https://dev.to/ayyoubessadeq/cocaptain-new-features-1fbj)
+- [Building a User-Friendly URL Shortener Using Spring Boot, Postgres, and FL0](https://dev.to/fl0/building-a-user-friendly-url-shortener-using-spring-boot-postgres-and-fl0-d70)
+- [Forum Import rev MySQL](https://dev.to/leviackr/forum-import-rev-mysql-agh)
+- [6 Proven Strategies For Being A Great Platform Engineer](https://dev.to/linearb/6-proven-strategies-for-being-a-great-platform-engineer-1jk2)
 <!-- BLOG-POST-LIST:END -->
 
