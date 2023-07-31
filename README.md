@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Innovation: How to Rewire Your Brain for Out-of-the-Box Thinking](https://dev.to/seeratawan01/unlock-innovation-how-to-rewire-your-brain-for-out-of-the-box-thinking-172b)
+- [Why I Move from Pixels &lpar;px&rpar; to Relative Units &lpar;rem&rpar; in CSS](https://dev.to/seeratawan01/why-i-move-from-pixels-px-to-relative-units-rem-in-css-1jhb)
 - [Front end practice: Top 25+ Javascript code best practices for development](https://dev.to/lakshmananarumugam/front-end-practice-top-25-javascript-code-best-practices-for-development-4c1d)
 - [Observability Anti-Patterns and How AWS Can Help Overcome Them](https://dev.to/indika_wimalasuriya/observability-anti-patterns-and-how-aws-can-help-overcome-them-4566)
-- [Introduction to Foundation models in Azure - Part1](https://dev.to/keonabut/introduction-to-foundation-models-in-azure-part1-1n3k)
-- [Cocaptain new Features](https://dev.to/ayyoubessadeq/cocaptain-new-features-1fbj)
 <!-- BLOG-POST-LIST:END -->
 
