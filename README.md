@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating React with Django](https://dev.to/shreya111111/integrating-react-with-django-13lb)
+- [How to Protect Next.js 13 App Routes with Authentication](https://dev.to/codebeast/how-to-protect-nextjs-13-app-routes-with-authentication-1bjh)
+- [Applying the Open-Closed Principle To Write Clean React Components](https://dev.to/mohammadfaisal/applying-the-open-closed-principle-to-write-clean-react-components-400o)
 - [Narrow profile LLM](https://dev.to/aigerim_zhunisbekova_ae0a/narrow-profile-llm-19dl)
-- [Meme Monday](https://dev.to/ben/meme-monday-51j1)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-30gl)
-- [Music Monday — What are you listening to? &lpar;Music from Your Twenties Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-from-your-twenties-edition-2pe1)
 <!-- BLOG-POST-LIST:END -->
 
