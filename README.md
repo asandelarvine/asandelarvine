@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Five things about public speaking](https://dev.to/codepo8/five-things-about-public-speaking-563f)
-- [Danni, Johny and the Java Feature Flag Problem](https://dev.to/0x4e43/danni-johny-and-the-java-toggle-problem-28h0)
-- [Create an URL Shortener Using Rebrandly API and LocalStorage](https://dev.to/sh20raj/create-an-url-shortener-using-rebrandly-api-and-localstorage-1j14)
-- [AWS open source newsletter, #167](https://dev.to/aws/aws-open-source-newsletter-167-5bg7)
+- [Taming Badly Typed External Libraries - How Zod Boosts Type Safety?](https://dev.to/brainhubeu/taming-badly-typed-external-libraries-how-zod-boosts-type-safety-4jog)
+- [This Week In React #153: Astro, MUI, Next.js, Remix, React-Query, AsyncLocalStorage, Reanimated, React-Tweet, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-153-astro-mui-nextjs-remix-react-query-asynclocalstorage-reanimated-react-tweet-typescript-4nge)
+- [Streamline your testing workflow with HOPPSCOTCH CLI 🛸](https://dev.to/hoppscotch/streamline-your-testing-workflow-with-hoppscotch-cli-2i3n)
+- [Working with people &gt; Working for people](https://dev.to/karine_bauch/working-with-people-working-for-people-933)
 <!-- BLOG-POST-LIST:END -->
 
