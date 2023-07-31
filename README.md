@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Ruby&#39;s Focus on Developer Happiness Drive Its Project Success?](https://dev.to/devteam/does-rubys-focus-on-developer-happiness-drive-its-project-success-d6j)
-- [PowerPlay: Tic Tak Toe Precision Vs Language Context](https://dev.to/balagmadhu/powerplay-tic-tak-toe-precision-vs-language-context-2pdp)
-- [Power Automate - All The HTTP Connectors And What They Do](https://dev.to/wyattdave/power-automate-all-the-http-connectors-and-what-they-do-1b42)
-- [Unlock Innovation: How to Rewire Your Brain for Out-of-the-Box Thinking](https://dev.to/seeratawan01/unlock-innovation-how-to-rewire-your-brain-for-out-of-the-box-thinking-172b)
+- [How To Use Task.Run in C# for Multithreading](https://dev.to/bytehide/how-to-use-taskrun-in-c-for-multithreading-4ba9)
+- [5 Things Every JAVA Developer Should Know](https://dev.to/bindupatidar/5-things-every-java-developer-should-know-2c16)
+- [Creating a YouTube Tags Generator Website: The Making of ResearchedTags](https://dev.to/sh20raj/creating-a-youtube-tags-generator-website-the-making-of-researchedtags-d6c)
+- [5 Things Every Javascript Developer Should Know](https://dev.to/bindupatidar/5-things-every-javascript-developer-should-know-38g5)
 <!-- BLOG-POST-LIST:END -->
 
