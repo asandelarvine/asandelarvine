@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubyist Hangout Thread](https://dev.to/devteam/rubyist-hangout-thread-859)
+- [Elevate Your Android App Development: Transitioning from Kotlin Android Extensions to Jetpack View Binding](https://dev.to/manoj_pedvi/elevate-your-android-app-development-transitioning-from-kotlin-android-extensions-to-jetpack-view-binding-5bga)
 - [Coding Freedom: Exploring Opportunities in Remote Realms?](https://dev.to/codenewbieteam/coding-freedom-exploring-opportunities-in-remote-realms-1o5l)
+- [Rubyist Hangout Thread](https://dev.to/devteam/rubyist-hangout-thread-859)
 - [Impactful Mentorships: How Did They Shape Your Journey?](https://dev.to/devteam/impactful-mentorships-how-did-they-shape-your-journey-n9p)
-- [What are Sealed Classes in Java &amp; Interfaces in JDK 17, and how to use them?](https://dev.to/bindupatidar/what-are-sealed-classes-in-java-interfaces-in-jdk-17-and-how-to-use-them-n6h)
 <!-- BLOG-POST-LIST:END -->
 
