@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet another rant in favor of Kubernetes secrets](https://dev.to/canelasevero/yet-another-rant-in-favor-of-kubernetes-secrets-432k)
+- [How to Use RXJS Debounce Time With Angular](https://dev.to/mana95/how-to-use-rxjs-debounce-time-with-angular-4aj5)
 - [Introduction to Responsive Web Design &lpar;RWD&rpar;](https://dev.to/kelechikizito/introduction-to-responsive-web-design-rwd-2gim)
 - [FLaNK Stack Weekly for 31 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-31-july-2023-2bam)
-- [#ThisMonthInSWA - Jul 2023](https://dev.to/azure/thismonthinswa-jul-2023-348h)
-- [Solo SaaS - How I Built a Serverless Workout App By Myself](https://dev.to/aws-heroes/solo-saas-how-i-built-a-serverless-workout-app-by-myself-1c62)
 <!-- BLOG-POST-LIST:END -->
 
