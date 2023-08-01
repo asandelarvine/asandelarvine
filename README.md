@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🦊 GitLab Pages preview : the no-compromise hack to serve per-branch pages](https://dev.to/zenika/gitlab-pages-preview-the-no-compromise-hack-to-serve-per-branch-pages-5599)
+- [Understanding Node.js Streams](https://dev.to/amplication/understanding-nodejs-streams-534o)
+- [Playing with Redis and Rails](https://dev.to/yet_anotherdev/playing-with-redis-and-rails-46i3)
 - [Yet another rant in favor of Kubernetes secrets](https://dev.to/canelasevero/yet-another-rant-in-favor-of-kubernetes-secrets-432k)
-- [How to Use RXJS Debounce Time With Angular](https://dev.to/mana95/how-to-use-rxjs-debounce-time-with-angular-4aj5)
-- [Introduction to Responsive Web Design &lpar;RWD&rpar;](https://dev.to/kelechikizito/introduction-to-responsive-web-design-rwd-2gim)
-- [FLaNK Stack Weekly for 31 July 2023](https://dev.to/tspannhw/flank-stack-weekly-for-31-july-2023-2bam)
 <!-- BLOG-POST-LIST:END -->
 
