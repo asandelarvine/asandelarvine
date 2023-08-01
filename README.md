@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smol AI 🐣 vs Wasp AI 🐝- Which is the Better AI Junior Developer?](https://dev.to/wasp/smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb)
-- [Henry Fayol’s 14 Principles of Management: A Guide for Students](https://dev.to/kuldipsir/henry-fayols-14-principles-of-management-a-guide-for-students-38e4)
-- [Building a RESTful API with Node.js: A Step-by-Step Guide](https://dev.to/abidullah786/building-a-restful-api-with-nodejs-a-step-by-step-guide-27op)
-- [Powerful Resources Arsenal](https://dev.to/jaloplo/powerful-resources-arsenal-14gg)
+- [Join Virtual Coffee in the Healthy Habits for Happy Devs monthly challenge](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-healthy-habits-for-happy-devs-monthly-challenge-5b7h)
+- [Open-source chart components built with Tailwind CSS, Flowbite and ApexCharts](https://dev.to/themesberg/open-source-chart-components-built-with-tailwind-css-flowbite-and-apexcharts-17mg)
+- [Desvendando a acessibilidade dos aplicativos móveis: descubra como testá-la.](https://dev.to/feministech/desvendando-a-acessibilidade-dos-aplicativos-moveis-descubra-como-testa-la-1m36)
+- [Using Document Picture-in-Picture and Insertable Streams APIs to record your screen and camera](https://dev.to/volcomix/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera-5726)
 <!-- BLOG-POST-LIST:END -->
 
