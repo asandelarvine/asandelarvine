@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Beginner-Friendly Django Project Ideas: Jumpstart Your Web Development Journey](https://dev.to/max24816/top-10-beginner-friendly-django-project-ideas-jumpstart-your-web-development-journey-5e72)
+- [WordPress VS Elanat](https://dev.to/elanatframework/wordpress-vs-elanat-36m1)
 - [Impact of AJAX-Loaded Content on SEO and Search Engines - Google Search Console insights](https://dev.to/sh20raj/impact-of-ajax-loaded-content-on-seo-and-search-engines-google-search-console-insights-330j)
-- [Bandit Level 8 Level 9](https://dev.to/christianpaez/bandit-level-8-level-9-5bp4)
-- [Explore Our World of Badges &amp; Influence the Next Addition! 🏅🌟](https://dev.to/devteam/explore-our-world-of-badges-influence-the-next-addition-1fnf)
-- [How is AI NOT Harmful? Unraveling the Myths and Embracing the Benefits 😃](https://dev.to/akashpattnaik/how-is-ai-not-harmful-unraveling-the-myths-and-embracing-the-benefits-38n4)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g)
 <!-- BLOG-POST-LIST:END -->
 
