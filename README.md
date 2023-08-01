@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 VS Code Extensions for .net developers](https://dev.to/hasanelsherbiny/top-10-vs-code-extensions-for-net-developers-1h3p)
+- [3000+ Follower On Dev Community Thank you All for reading My Content](https://dev.to/sardarmudassaralikhan/3000-follower-on-dev-community-thank-you-all-for-reading-my-content-143n)
 - [🌟OpenCV🎨the Magic of Images](https://dev.to/thisisdeveloper/opencvunleashing-the-magic-of-images-1kdb)
-- [The Art Of Messy Code - Chapter 1: Don&#39;t Think: The Best Solution For Software Development - Preface](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-dont-think-the-best-solution-for-software-development-preface-4035)
-- [Mastering Design Patterns in .NET: Beginner-Friendly AI Examples for Effective Learning](https://dev.to/josemariairiarte/mastering-design-patterns-in-net-beginner-friendly-ai-examples-for-effective-learning-5feh)
-- [Top 10 Beginner-Friendly Django Project Ideas: Jumpstart Your Web Development Journey](https://dev.to/max24816/top-10-beginner-friendly-django-project-ideas-jumpstart-your-web-development-journey-5e72)
+- [Building A Blog Website with Next.js](https://dev.to/indiecodermm/building-a-blog-website-with-nextjs-5kd)
 <!-- BLOG-POST-LIST:END -->
 
