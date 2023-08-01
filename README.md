@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How-to Broadcast a WebRTC stream to Twitch](https://dev.to/dolbyio/how-to-broadcast-a-webrtc-stream-to-twitch-7fa)
-- [Building Trust &amp; Enhancing Seamless User Authentication &amp; Authorization with Amazon Cognito](https://dev.to/brandondamue/building-trust-enhancing-seamless-user-authentication-authorization-with-amazon-cognito-22km)
-- [Can&#39;t Reproduce a Bug?](https://dev.to/codenameone/cant-reproduce-a-bug-3l56)
-- [Building a Weather App with HTML, CSS, JavaScript, and Weather API: Check the Temperature and Weather Conditions!](https://dev.to/sadiqshaik123/building-a-weather-app-with-html-css-javascript-and-weather-api-check-the-temperature-and-weather-conditions-53ik)
+- [Impact of AJAX-Loaded Content on SEO and Search Engines - Google Search Console insights](https://dev.to/sh20raj/impact-of-ajax-loaded-content-on-seo-and-search-engines-google-search-console-insights-330j)
+- [Bandit Level 8 Level 9](https://dev.to/christianpaez/bandit-level-8-level-9-5bp4)
+- [Explore Our World of Badges &amp; Influence the Next Addition! 🏅🌟](https://dev.to/devteam/explore-our-world-of-badges-influence-the-next-addition-1fnf)
+- [How is AI NOT Harmful? Unraveling the Myths and Embracing the Benefits 😃](https://dev.to/akashpattnaik/how-is-ai-not-harmful-unraveling-the-myths-and-embracing-the-benefits-38n4)
 <!-- BLOG-POST-LIST:END -->
 
