@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥](https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071)
+- [How to Create a Feature Comparison Table with Tailwind CSS](https://dev.to/cruip_com/how-to-create-a-feature-comparison-table-with-tailwind-css-a1i)
 - [Building a frontend auth in WordPress](https://dev.to/accreditly/building-a-frontend-auth-in-wordpress-4lpn)
-- [Lazy loading images upon intersection in Angular](https://dev.to/ayyash/lazy-loading-images-upon-intersection-in-angular-1p2m)
-- [All You Need to Know About JavaScript Arrays](https://dev.to/devshefali/all-you-need-to-know-about-javascript-arrays-9m3)
-- [Adding authentication to your apps using Apple OAuth 2.0](https://dev.to/hackmamba/adding-authentication-to-your-apps-using-apple-oauth-20-142b)
+- [Weekly Roundup &lpar;Jul 24&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jul-24-hot-topics-in-workplace-sharepoint-and-powerplatform-2mfi)
 <!-- BLOG-POST-LIST:END -->
 
