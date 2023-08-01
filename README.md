@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#ThisMonthInSWA - Jul 2023](https://dev.to/azure/thismonthinswa-jul-2023-348h)
 - [📁myFiles 2.0 First Week On Sale🚀](https://dev.to/blueberry077/myfiles-20-first-week-on-sale-ma)
+- [50% Discount for Associate-level AWS certifications](https://dev.to/aws-builders/50-discount-for-associate-level-aws-certifications-171h)
 - [How long would it take you to learn something new](https://dev.to/juanfrank77/how-long-would-it-take-you-to-learn-something-new-3go6)
-- [From Novice to Sensei: An Exciting Adventure in Software Development](https://dev.to/avwerosuoghene/from-novice-to-sensei-an-exciting-adventure-in-software-development-1nfk)
-- [Bonzai and how to create a personal CLI to rule them all](https://dev.to/cherryramatis/bonzai-and-how-to-create-a-personal-cli-to-rule-them-all-1bnl)
 <!-- BLOG-POST-LIST:END -->
 
