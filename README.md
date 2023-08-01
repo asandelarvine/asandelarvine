@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🦊 GitLab Pages preview : the no-compromise hack to serve per-branch pages](https://dev.to/zenika/gitlab-pages-preview-the-no-compromise-hack-to-serve-per-branch-pages-5599)
-- [Understanding Node.js Streams](https://dev.to/amplication/understanding-nodejs-streams-534o)
-- [Playing with Redis and Rails](https://dev.to/yet_anotherdev/playing-with-redis-and-rails-46i3)
-- [Yet another rant in favor of Kubernetes secrets](https://dev.to/canelasevero/yet-another-rant-in-favor-of-kubernetes-secrets-432k)
+- [Rubyist Hangout Thread](https://dev.to/devteam/rubyist-hangout-thread-859)
+- [Coding Freedom: Exploring Opportunities in Remote Realms?](https://dev.to/codenewbieteam/coding-freedom-exploring-opportunities-in-remote-realms-1o5l)
+- [Impactful Mentorships: How Did They Shape Your Journey?](https://dev.to/devteam/impactful-mentorships-how-did-they-shape-your-journey-n9p)
+- [What are Sealed Classes in Java &amp; Interfaces in JDK 17, and how to use them?](https://dev.to/bindupatidar/what-are-sealed-classes-in-java-interfaces-in-jdk-17-and-how-to-use-them-n6h)
 <!-- BLOG-POST-LIST:END -->
 
