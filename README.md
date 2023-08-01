@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a frontend auth in WordPress](https://dev.to/accreditly/building-a-frontend-auth-in-wordpress-4lpn)
+- [Lazy loading images upon intersection in Angular](https://dev.to/ayyash/lazy-loading-images-upon-intersection-in-angular-1p2m)
+- [All You Need to Know About JavaScript Arrays](https://dev.to/devshefali/all-you-need-to-know-about-javascript-arrays-9m3)
 - [Adding authentication to your apps using Apple OAuth 2.0](https://dev.to/hackmamba/adding-authentication-to-your-apps-using-apple-oauth-20-142b)
-- [Bacula&amp;Baculum Kurulumu](https://dev.to/nurhaksenturk/baculabaculum-kurulumu-2lob)
-- [Elevate Your Android App Development: Transitioning from Kotlin Android Extensions to Jetpack View Binding](https://dev.to/manoj_pedvi/elevate-your-android-app-development-transitioning-from-kotlin-android-extensions-to-jetpack-view-binding-5bga)
-- [Coding Freedom: Exploring Opportunities in Remote Realms?](https://dev.to/codenewbieteam/coding-freedom-exploring-opportunities-in-remote-realms-1o5l)
 <!-- BLOG-POST-LIST:END -->
 
