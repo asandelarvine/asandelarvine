@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥](https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071)
-- [How to Create a Feature Comparison Table with Tailwind CSS](https://dev.to/cruip_com/how-to-create-a-feature-comparison-table-with-tailwind-css-a1i)
-- [Building a frontend auth in WordPress](https://dev.to/accreditly/building-a-frontend-auth-in-wordpress-4lpn)
-- [Weekly Roundup &lpar;Jul 24&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-jul-24-hot-topics-in-workplace-sharepoint-and-powerplatform-2mfi)
+- [Smol AI 🐣 vs Wasp AI 🐝- Which is the Better AI Junior Developer?](https://dev.to/wasp/smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb)
+- [Henry Fayol’s 14 Principles of Management: A Guide for Students](https://dev.to/kuldipsir/henry-fayols-14-principles-of-management-a-guide-for-students-38e4)
+- [Building a RESTful API with Node.js: A Step-by-Step Guide](https://dev.to/abidullah786/building-a-restful-api-with-nodejs-a-step-by-step-guide-27op)
+- [Powerful Resources Arsenal](https://dev.to/jaloplo/powerful-resources-arsenal-14gg)
 <!-- BLOG-POST-LIST:END -->
 
