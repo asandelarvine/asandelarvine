@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Design Patterns in .NET: Beginner-Friendly AI Examples for Effective Learning](https://dev.to/josemariairiarte/mastering-design-patterns-in-net-beginner-friendly-ai-examples-for-effective-learning-5feh)
 - [Top 10 Beginner-Friendly Django Project Ideas: Jumpstart Your Web Development Journey](https://dev.to/max24816/top-10-beginner-friendly-django-project-ideas-jumpstart-your-web-development-journey-5e72)
-- [WordPress VS Elanat](https://dev.to/elanatframework/wordpress-vs-elanat-36m1)
-- [Impact of AJAX-Loaded Content on SEO and Search Engines - Google Search Console insights](https://dev.to/sh20raj/impact-of-ajax-loaded-content-on-seo-and-search-engines-google-search-console-insights-330j)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g)
+- [🚀 5 Python One-Liners You Should Know](https://dev.to/adarshpunj/5-python-one-liners-you-should-know-3a8n)
+- [Building an Image Slider with Smooth Scrolling using React](https://dev.to/aneeqakhan/building-an-image-slider-with-smooth-scrolling-using-react-1jdb)
 <!-- BLOG-POST-LIST:END -->
 
