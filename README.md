@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔣 5 Best Platforms to Learn and Practise Regex](https://dev.to/evergrowingdev/5-best-platforms-to-learn-and-practise-regex-2np6)
 - [Join Virtual Coffee in the Healthy Habits for Happy Devs monthly challenge](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-healthy-habits-for-happy-devs-monthly-challenge-5b7h)
+- [LeetCode: Elevating Your Programming Career to New Heights](https://dev.to/idurar/leetcode-elevating-your-programming-career-to-new-heights-ae5)
 - [Open-source chart components built with Tailwind CSS, Flowbite and ApexCharts](https://dev.to/themesberg/open-source-chart-components-built-with-tailwind-css-flowbite-and-apexcharts-17mg)
-- [Desvendando a acessibilidade dos aplicativos móveis: descubra como testá-la.](https://dev.to/feministech/desvendando-a-acessibilidade-dos-aplicativos-moveis-descubra-como-testa-la-1m36)
-- [Using Document Picture-in-Picture and Insertable Streams APIs to record your screen and camera](https://dev.to/volcomix/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera-5726)
 <!-- BLOG-POST-LIST:END -->
 
