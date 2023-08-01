@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟OpenCV🎨the Magic of Images](https://dev.to/thisisdeveloper/opencvunleashing-the-magic-of-images-1kdb)
+- [The Art Of Messy Code - Chapter 1: Don&#39;t Think: The Best Solution For Software Development - Preface](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-dont-think-the-best-solution-for-software-development-preface-4035)
 - [Mastering Design Patterns in .NET: Beginner-Friendly AI Examples for Effective Learning](https://dev.to/josemariairiarte/mastering-design-patterns-in-net-beginner-friendly-ai-examples-for-effective-learning-5feh)
 - [Top 10 Beginner-Friendly Django Project Ideas: Jumpstart Your Web Development Journey](https://dev.to/max24816/top-10-beginner-friendly-django-project-ideas-jumpstart-your-web-development-journey-5e72)
-- [🚀 5 Python One-Liners You Should Know](https://dev.to/adarshpunj/5-python-one-liners-you-should-know-3a8n)
-- [Building an Image Slider with Smooth Scrolling using React](https://dev.to/aneeqakhan/building-an-image-slider-with-smooth-scrolling-using-react-1jdb)
 <!-- BLOG-POST-LIST:END -->
 
