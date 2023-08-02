@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazing native Modal with just HTML: meet &lt;dialog&gt; element](https://dev.to/lucasm/amazing-native-modal-with-just-html-meet-element-4jpl)
+- [Efficiently tracking DAU and MAU in high-traffic sites](https://dev.to/logto/efficiently-tracking-dau-and-mau-in-high-traffic-sites-1j7)
+- [Enrich an object - Javascript Recipe](https://dev.to/druchan/enrich-an-object-javascript-recipe-4010)
 - [Express Typescript example](https://dev.to/tienbku/express-typescript-example-37l9)
-- [What&#39;s new in Apache JMeter 5.6?](https://dev.to/qainsights/whats-new-in-apache-jmeter-56-mim)
-- [Building a RESTful API with Node.js: Testing API](https://dev.to/abidullah786/building-a-restful-api-with-nodejs-testing-api-mfe)
-- [A Magia do Event Loop](https://dev.to/ocodista/a-magia-do-event-loop-in1)
 <!-- BLOG-POST-LIST:END -->
 
