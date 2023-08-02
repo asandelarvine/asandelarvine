@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rest VS Soap API](https://dev.to/hasanelsherbiny/rest-vs-soap-api-9jm)
+- [My Journey in Open Source - set-interval-by-id](https://dev.to/cadienvan/my-journey-in-open-source-set-interval-by-id-10o8)
 - [JavaScript Under The Hood: The typeof Operator and Data Types Demystified](https://dev.to/gokhantaskan/javascript-under-the-hood-the-typeof-operator-and-data-types-demystified-1j93)
 - [Tic Tac Toe : HTML scripting](https://dev.to/balagmadhu/tic-tac-toe-html-scripting-4c5c)
-- [How I Discovered That the AWS Lambda Runtime Might Be Written in Go](https://dev.to/aws-builders/how-i-discovered-that-the-aws-lambda-runtime-might-be-written-in-go-3i9l)
-- [Should You Roll Your Own RBAC Authorization?](https://dev.to/gemanor/should-you-roll-your-own-rbac-authorization-42l4)
 <!-- BLOG-POST-LIST:END -->
 
