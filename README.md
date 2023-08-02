@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP-FPM 8.2 on OpenBSD 7.3](https://dev.to/nabbisen/php-fpm-82-on-openbsd-73-ahj)
 - [#DEVDiscuss: API Designing](https://dev.to/devteam/devdiscuss-api-designing-4c1e)
 - [Build DOCKER multi-platform image using buildx REMOTE builder NODE](https://dev.to/aboozar/build-docker-multi-platform-image-using-buildx-remote-builder-node-5631)
 - [How to simply expose an endpoint with API Key in Laravel](https://dev.to/tonyjoe/how-to-simply-expose-an-endpoint-with-api-key-in-laravel-3i1i)
-- [How I Became a Software Engineer](https://dev.to/charlescampbell5/how-i-became-a-software-engineer-3n74)
 <!-- BLOG-POST-LIST:END -->
 
