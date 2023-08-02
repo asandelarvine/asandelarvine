@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Open Source helped me get into the GitHub Octernships program.](https://dev.to/opensauced/how-open-source-helped-me-get-a-github-octernship-4f69)
+- [Understanding and Unleashing the Power of React.Fragment](https://dev.to/diwakarkashyap/understanding-and-unleashing-the-power-of-reactfragment-2584)
 - [How to Make Your Android App Futureproof ? Only Basics!!!](https://dev.to/dhruvjoshi9/how-to-make-your-android-app-futureproof-only-basics-1d3h)
-- [Flutter 3 on Devuan 4: Getting started](https://dev.to/nabbisen/flutter-3-on-devuan-4-getting-started-12ee)
-- [Neumorphism Website + Github Api &lpar;Part 5&rpar;](https://dev.to/schbenedikt/neumorphism-website-github-api-part-5-21hj)
-- [Mastering Input Handling with the Debounce Function in React.js: A Journey to Seamless User Experiences](https://dev.to/raymondkingjnr/mastering-input-handling-with-the-debounce-function-in-reactjs-a-journey-to-seamless-user-experiences-kb3)
+- [Breaking Up with Legacy Systems: A DevOps Love Story ❤️](https://dev.to/karammajdi7/breaking-up-with-legacy-systems-a-devops-love-story-jkk)
 <!-- BLOG-POST-LIST:END -->
 
