@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weather App: An app that fetches and displays the weather information of a given location using an API with JavaScript](https://dev.to/iamcymentho/weather-app-an-app-that-fetches-and-displays-the-weather-information-of-a-given-location-using-an-api-with-javascript-3pji)
+- [The Advantages of Using Agile Methodology in Mobile Application Development](https://dev.to/dhruvjoshi9/the-advantages-of-using-agile-methodology-in-mobile-application-development-57ae)
 - [Chrome Debugger is easier to use than you might think](https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8)
-- [“Aha” Moments: When Did Coding Perspectives Click?](https://dev.to/devteam/aha-moments-when-did-coding-perspectives-click-1cfm)
 - [Role Casting: Which Developer Path Suits Your Ambitions?](https://dev.to/codenewbieteam/role-casting-which-developer-path-suits-your-ambitions-380a)
-- [Using XPath in Selenium: All you need to know](https://dev.to/jennife05918349/using-xpath-in-selenium-all-you-need-to-know-159d)
 <!-- BLOG-POST-LIST:END -->
 
