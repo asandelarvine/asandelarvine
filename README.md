@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Became a Software Engineer](https://dev.to/charlescampbell5/how-i-became-a-software-engineer-3n74)
 - [Rest VS Soap API](https://dev.to/hasanelsherbiny/rest-vs-soap-api-9jm)
 - [My Journey in Open Source - set-interval-by-id](https://dev.to/cadienvan/my-journey-in-open-source-set-interval-by-id-10o8)
-- [JavaScript Under The Hood: The typeof Operator and Data Types Demystified](https://dev.to/gokhantaskan/javascript-under-the-hood-the-typeof-operator-and-data-types-demystified-1j93)
-- [Tic Tac Toe : HTML scripting](https://dev.to/balagmadhu/tic-tac-toe-html-scripting-4c5c)
+- [The Path to Freedom: Unveiling the World of Freelancing Unveiling the World of Freelancing](https://dev.to/arsimfreelance/the-path-to-freedom-unveiling-the-world-of-freelancing-unveiling-the-world-of-freelancing-27mh)
 <!-- BLOG-POST-LIST:END -->
 
