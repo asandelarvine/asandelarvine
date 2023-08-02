@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Serialization and Deserialization in JavaScript](https://dev.to/maafaishal/serialization-and-deserialization-in-javascript-3kdd)
+- [How to Check a Method was Called on a Mock in Moq](https://dev.to/ant_f_dev/how-to-check-a-method-was-called-on-a-mock-in-moq-1gfp)
 - [How Open Source helped me get into the GitHub Octernships program.](https://dev.to/opensauced/how-open-source-helped-me-get-a-github-octernship-4f69)
-- [Understanding and Unleashing the Power of React.Fragment](https://dev.to/diwakarkashyap/understanding-and-unleashing-the-power-of-reactfragment-2584)
-- [How to Make Your Android App Futureproof ? Only Basics!!!](https://dev.to/dhruvjoshi9/how-to-make-your-android-app-futureproof-only-basics-1d3h)
-- [Breaking Up with Legacy Systems: A DevOps Love Story ❤️](https://dev.to/karammajdi7/breaking-up-with-legacy-systems-a-devops-love-story-jkk)
+- [The Pros and Cons of Learning Web Development Directly with Frameworks](https://dev.to/idurar/the-pros-and-cons-of-learning-web-development-directly-with-frameworks-37jo)
 <!-- BLOG-POST-LIST:END -->
 
