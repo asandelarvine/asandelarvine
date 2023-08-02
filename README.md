@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: API Designing](https://dev.to/devteam/devdiscuss-api-designing-4c1e)
+- [Build DOCKER multi-platform image using buildx REMOTE builder NODE](https://dev.to/aboozar/build-docker-multi-platform-image-using-buildx-remote-builder-node-5631)
+- [How to simply expose an endpoint with API Key in Laravel](https://dev.to/tonyjoe/how-to-simply-expose-an-endpoint-with-api-key-in-laravel-3i1i)
 - [How I Became a Software Engineer](https://dev.to/charlescampbell5/how-i-became-a-software-engineer-3n74)
-- [Rest VS Soap API](https://dev.to/hasanelsherbiny/rest-vs-soap-api-9jm)
-- [My Journey in Open Source - set-interval-by-id](https://dev.to/cadienvan/my-journey-in-open-source-set-interval-by-id-10o8)
-- [The Path to Freedom: Unveiling the World of Freelancing Unveiling the World of Freelancing](https://dev.to/arsimfreelance/the-path-to-freedom-unveiling-the-world-of-freelancing-unveiling-the-world-of-freelancing-27mh)
 <!-- BLOG-POST-LIST:END -->
 
