@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a Loading Overlay with next/router Events in Next.js](https://dev.to/designly/implementing-a-loading-overlay-with-nextrouter-events-in-nextjs-17f9)
 - [Artificial intelligence to digitize pet insurance](https://dev.to/abtosoftware/artificial-intelligence-to-digitize-pet-insurance-do4)
 - [Implementing continuous delivery pipelines with GitHub Actions](https://dev.to/donaldsebleung/implementing-continuous-delivery-pipelines-with-github-actions-n5i)
 - [Integrate security testing into your development cycle with Foundry and Diligence Fuzzing](https://dev.to/mbogan/integrate-security-testing-into-your-development-cycle-with-foundry-and-diligence-fuzzing-ma2)
-- [Using react-intersection-observer to create a dynamic header](https://dev.to/logrocket/using-react-intersection-observer-to-create-a-dynamic-header-3mfa)
 <!-- BLOG-POST-LIST:END -->
 
