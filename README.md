@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should New Developers Use AI Coding Tools?](https://dev.to/catalinpit/should-new-developers-use-ai-coding-tools-2bfc)
-- [Pet insurance claim management automation solution](https://dev.to/abtosoftware/pet-insurance-claim-management-automation-solution-2n03)
-- [Argo Rollouts: Unleashing Advanced Deployment Strategies](https://dev.to/pavanbelagatti/argo-rollouts-unleashing-advanced-deployment-strategies-5flk)
-- [AWS Migration Strategies: Best Practices and Insights from Consultants](https://dev.to/softwebsolution/aws-migration-strategies-best-practices-and-insights-from-consultants-227i)
+- [How to Make Your Android App Futureproof ? Only Basics!!!](https://dev.to/dhruvjoshi9/how-to-make-your-android-app-futureproof-only-basics-1d3h)
+- [Flutter 3 on Devuan 4: Getting started](https://dev.to/nabbisen/flutter-3-on-devuan-4-getting-started-12ee)
+- [Neumorphism Website + Github Api &lpar;Part 5&rpar;](https://dev.to/schbenedikt/neumorphism-website-github-api-part-5-21hj)
+- [Mastering Input Handling with the Debounce Function in React.js: A Journey to Seamless User Experiences](https://dev.to/raymondkingjnr/mastering-input-handling-with-the-debounce-function-in-reactjs-a-journey-to-seamless-user-experiences-kb3)
 <!-- BLOG-POST-LIST:END -->
 
