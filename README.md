@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Best VS Code Extensions for Python Developers](https://dev.to/bobbyiliev/7-best-vs-code-extensions-for-python-developers-4e9d)
+- [Introducing the auto-signal pattern](https://dev.to/mfp22/introducing-the-auto-signal-pattern-1a5h)
 - [Weather App: An app that fetches and displays the weather information of a given location using an API with JavaScript](https://dev.to/iamcymentho/weather-app-an-app-that-fetches-and-displays-the-weather-information-of-a-given-location-using-an-api-with-javascript-3pji)
 - [The Advantages of Using Agile Methodology in Mobile Application Development](https://dev.to/dhruvjoshi9/the-advantages-of-using-agile-methodology-in-mobile-application-development-57ae)
-- [Chrome Debugger is easier to use than you might think](https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8)
-- [Role Casting: Which Developer Path Suits Your Ambitions?](https://dev.to/codenewbieteam/role-casting-which-developer-path-suits-your-ambitions-380a)
 <!-- BLOG-POST-LIST:END -->
 
