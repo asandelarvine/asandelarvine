@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Loading Overlay with next/router Events in Next.js](https://dev.to/designly/implementing-a-loading-overlay-with-nextrouter-events-in-nextjs-17f9)
-- [Artificial intelligence to digitize pet insurance](https://dev.to/abtosoftware/artificial-intelligence-to-digitize-pet-insurance-do4)
-- [Implementing continuous delivery pipelines with GitHub Actions](https://dev.to/donaldsebleung/implementing-continuous-delivery-pipelines-with-github-actions-n5i)
-- [Integrate security testing into your development cycle with Foundry and Diligence Fuzzing](https://dev.to/mbogan/integrate-security-testing-into-your-development-cycle-with-foundry-and-diligence-fuzzing-ma2)
+- [Scaling Node.js Web Apps with Docker](https://dev.to/fabiancdng/scaling-nodejs-web-apps-with-docker-mep)
+- [Using AI to Generate Realistic Data for Development](https://dev.to/giantmachines/using-ai-to-generate-realistic-data-for-development-49c8)
+- [The Art Of Messy Code - Chapter 1: Introduction](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-introduction-3j42)
+- [Building a Bubble Chart &lpar;JS&rpar;: Top 30 Most-Liked YouTube Videos](https://dev.to/andreykh/building-a-bubble-chart-js-top-30-most-liked-youtube-videos-3i4g)
 <!-- BLOG-POST-LIST:END -->
 
