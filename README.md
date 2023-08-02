@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazing native Modal with just HTML: meet &lt;dialog&gt; element](https://dev.to/lucasm/amazing-native-modal-with-just-html-meet-element-4jpl)
-- [Efficiently tracking DAU and MAU in high-traffic sites](https://dev.to/logto/efficiently-tracking-dau-and-mau-in-high-traffic-sites-1j7)
-- [Enrich an object - Javascript Recipe](https://dev.to/druchan/enrich-an-object-javascript-recipe-4010)
-- [Express Typescript example](https://dev.to/tienbku/express-typescript-example-37l9)
+- [Chrome Debugger is easier to use than you might think](https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8)
+- [“Aha” Moments: When Did Coding Perspectives Click?](https://dev.to/devteam/aha-moments-when-did-coding-perspectives-click-1cfm)
+- [Role Casting: Which Developer Path Suits Your Ambitions?](https://dev.to/codenewbieteam/role-casting-which-developer-path-suits-your-ambitions-380a)
+- [Using XPath in Selenium: All you need to know](https://dev.to/jennife05918349/using-xpath-in-selenium-all-you-need-to-know-159d)
 <!-- BLOG-POST-LIST:END -->
 
