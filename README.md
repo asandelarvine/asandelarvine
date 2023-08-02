@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Source of Truth](https://dev.to/snowman647/single-source-of-truth-d29)
-- [Flutter State Management: Accessing Scaffold State with GlobalKey](https://dev.to/jasonomondi/flutter-state-management-accessing-scaffold-state-with-globalkey-489k)
-- [Beginner&#39;s Guide to Loops in JavaScript](https://dev.to/bindupatidar/beginners-guide-to-loops-in-javascript-110o)
-- [Welcome Thread - v236](https://dev.to/devteam/welcome-thread-v238-3lam)
+- [Should New Developers Use AI Coding Tools?](https://dev.to/catalinpit/should-new-developers-use-ai-coding-tools-2bfc)
+- [Pet insurance claim management automation solution](https://dev.to/abtosoftware/pet-insurance-claim-management-automation-solution-2n03)
+- [Argo Rollouts: Unleashing Advanced Deployment Strategies](https://dev.to/pavanbelagatti/argo-rollouts-unleashing-advanced-deployment-strategies-5flk)
+- [AWS Migration Strategies: Best Practices and Insights from Consultants](https://dev.to/softwebsolution/aws-migration-strategies-best-practices-and-insights-from-consultants-227i)
 <!-- BLOG-POST-LIST:END -->
 
