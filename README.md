@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Plan Your Dream Trip with Wanderkit.net: A Behind-the-Scenes Look](https://dev.to/levischouten/plan-your-dream-trip-with-wanderkitnet-a-behind-the-scenes-look-3g47)
-- [Keyed Services in .NET8&#39;s Dependency Injection](https://dev.to/xelit3/keyed-services-in-net8s-dependency-injection-2gni)
-- [Implementing To-Do List using JavaScript:](https://dev.to/iamcymentho/implementing-to-do-list-using-javascript-32a7)
-- [Top 10 VS Code Extensions for .net developers](https://dev.to/hasanelsherbiny/top-10-vs-code-extensions-for-net-developers-1h3p)
+- [Building a RESTful API with Node.js: Testing API](https://dev.to/abidullah786/building-a-restful-api-with-nodejs-testing-api-mfe)
+- [Embracing the Power of Seerbit Payment Gateway: A Game-Changer for Web &amp; Mobile based Software Products/Solution](https://dev.to/auraqule/embracing-the-power-of-seerbit-payment-gateway-a-game-changer-for-web-mobile-based-software-productssolution-283j)
+- [Set Up Webpack 5 To Work With Static Files](https://dev.to/matheus4lves/set-up-webpack-5-to-work-with-static-files-52gk)
+- [My Developers Portfolio](https://dev.to/abokintech/my-developers-portfolio-446g)
 <!-- BLOG-POST-LIST:END -->
 
