@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serialization and Deserialization in JavaScript](https://dev.to/maafaishal/serialization-and-deserialization-in-javascript-3kdd)
-- [How to Check a Method was Called on a Mock in Moq](https://dev.to/ant_f_dev/how-to-check-a-method-was-called-on-a-mock-in-moq-1gfp)
-- [How Open Source helped me get into the GitHub Octernships program.](https://dev.to/opensauced/how-open-source-helped-me-get-a-github-octernship-4f69)
-- [The Pros and Cons of Learning Web Development Directly with Frameworks](https://dev.to/idurar/the-pros-and-cons-of-learning-web-development-directly-with-frameworks-37jo)
+- [Artificial intelligence to digitize pet insurance](https://dev.to/abtosoftware/artificial-intelligence-to-digitize-pet-insurance-do4)
+- [Implementing continuous delivery pipelines with GitHub Actions](https://dev.to/donaldsebleung/implementing-continuous-delivery-pipelines-with-github-actions-n5i)
+- [Integrate security testing into your development cycle with Foundry and Diligence Fuzzing](https://dev.to/mbogan/integrate-security-testing-into-your-development-cycle-with-foundry-and-diligence-fuzzing-ma2)
+- [Using react-intersection-observer to create a dynamic header](https://dev.to/logrocket/using-react-intersection-observer-to-create-a-dynamic-header-3mfa)
 <!-- BLOG-POST-LIST:END -->
 
