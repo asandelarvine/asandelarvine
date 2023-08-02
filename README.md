@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Express Typescript example](https://dev.to/tienbku/express-typescript-example-37l9)
+- [What&#39;s new in Apache JMeter 5.6?](https://dev.to/qainsights/whats-new-in-apache-jmeter-56-mim)
 - [Building a RESTful API with Node.js: Testing API](https://dev.to/abidullah786/building-a-restful-api-with-nodejs-testing-api-mfe)
-- [Embracing the Power of Seerbit Payment Gateway: A Game-Changer for Web &amp; Mobile based Software Products/Solution](https://dev.to/auraqule/embracing-the-power-of-seerbit-payment-gateway-a-game-changer-for-web-mobile-based-software-productssolution-283j)
-- [Set Up Webpack 5 To Work With Static Files](https://dev.to/matheus4lves/set-up-webpack-5-to-work-with-static-files-52gk)
-- [My Developers Portfolio](https://dev.to/abokintech/my-developers-portfolio-446g)
+- [A Magia do Event Loop](https://dev.to/ocodista/a-magia-do-event-loop-in1)
 <!-- BLOG-POST-LIST:END -->
 
