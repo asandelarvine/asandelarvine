@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Node.js Web Apps with Docker](https://dev.to/fabiancdng/scaling-nodejs-web-apps-with-docker-mep)
-- [Using AI to Generate Realistic Data for Development](https://dev.to/giantmachines/using-ai-to-generate-realistic-data-for-development-49c8)
-- [The Art Of Messy Code - Chapter 1: Introduction](https://dev.to/darkterminal/the-art-of-messy-code-chapter-1-introduction-3j42)
-- [Building a Bubble Chart &lpar;JS&rpar;: Top 30 Most-Liked YouTube Videos](https://dev.to/andreykh/building-a-bubble-chart-js-top-30-most-liked-youtube-videos-3i4g)
+- [JavaScript Under The Hood: The typeof Operator and Data Types Demystified](https://dev.to/gokhantaskan/javascript-under-the-hood-the-typeof-operator-and-data-types-demystified-1j93)
+- [Tic Tac Toe : HTML scripting](https://dev.to/balagmadhu/tic-tac-toe-html-scripting-4c5c)
+- [How I Discovered That the AWS Lambda Runtime Might Be Written in Go](https://dev.to/aws-builders/how-i-discovered-that-the-aws-lambda-runtime-might-be-written-in-go-3i9l)
+- [Should You Roll Your Own RBAC Authorization?](https://dev.to/gemanor/should-you-roll-your-own-rbac-authorization-42l4)
 <!-- BLOG-POST-LIST:END -->
 
