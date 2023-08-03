@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating APIs with Flask and testing in Postman](https://dev.to/terieyenike/creating-apis-with-flask-and-testing-in-postman-2ojn)
-- [Getting started with Pico CSS](https://dev.to/logrocket/getting-started-with-pico-css-5cji)
-- [Come and geek out over synthesizers with me!](https://dev.to/music-discussions/come-and-geek-out-over-synthesizers-with-me-3lid)
-- [Sky&#39;s the Limit! Supercharging Your Astro Blog with Orama, the Ultimate Stargazing Search Engine!](https://dev.to/thezal/skys-the-limit-supercharging-your-astro-blog-with-orama-the-ultimate-stargazing-search-engine-1ea5)
+- [Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
+- [The Next AGE of Discord](https://dev.to/rrrokhtar/the-next-age-of-discord-4hl5)
+- [Flask Course Tutorials: Top 10 Web Development Resources in 2023](https://dev.to/max24816/flask-course-tutorials-top-10-web-development-resources-in-2023-j7k)
+- [PostGraphile V5 public beta — get involved!](https://dev.to/graphile/postgraphile-v5-public-beta-get-involved-1lg9)
 <!-- BLOG-POST-LIST:END -->
 
