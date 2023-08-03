@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify App - Theme Extension with React + Tailwind CSS](https://dev.to/iskurbanov/shopify-app-theme-extension-with-react-tailwind-css-3n9e)
+- [Testing Flutter Plugins: A Step-by-Step Guide](https://dev.to/odinachi/testing-flutter-plugins-a-step-by-step-guide-5h6b)
+- [5 Essential Frontend Development Best Practices Every Developer Should Know](https://dev.to/josematoswork/5-essential-frontend-development-best-practices-every-developer-should-know-23el)
 - [PHP-FPM 8.2 on OpenBSD 7.3](https://dev.to/nabbisen/php-fpm-82-on-openbsd-73-ahj)
-- [#DEVDiscuss: API Designing](https://dev.to/devteam/devdiscuss-api-designing-4c1e)
-- [Build DOCKER multi-platform image using buildx REMOTE builder NODE](https://dev.to/aboozar/build-docker-multi-platform-image-using-buildx-remote-builder-node-5631)
-- [How to simply expose an endpoint with API Key in Laravel](https://dev.to/tonyjoe/how-to-simply-expose-an-endpoint-with-api-key-in-laravel-3i1i)
 <!-- BLOG-POST-LIST:END -->
 
