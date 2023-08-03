@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cucumber Selenium tests taking longer duration in multi-Threaded mode on latest chrome versions and on AL2 Linux](https://dev.to/venkatesh2944/cucumber-selenium-tests-taking-longer-duration-in-multi-threaded-mode-on-latest-chrome-versions-and-on-al2-linux-1noe)
-- [Perfect Guide To Start Laundry Business In India](https://dev.to/mohit7899/perfect-guide-to-start-laundry-business-in-india-3220)
-- [CSS z index not working &lpar;Reason with solution live snippet code&rpar;](https://dev.to/lakshmananarumugam/css-z-index-not-working-reason-with-solution-live-snippet-code-1589)
-- [What&#39;s the difference between arrow functions and regular functions?](https://dev.to/pedrogustavo/whats-the-difference-between-arrow-functions-and-regular-functions-352c)
+- [Coding Vision: Working on Projects for the Long Haul or Sprinting?](https://dev.to/codenewbieteam/coding-vision-working-on-projects-for-the-long-haul-or-sprinting-4ion)
+- [Mentors’ Influence: Changing Career Path Decisions?](https://dev.to/devteam/mentors-influence-changing-career-path-decisions-49n2)
+- [50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [3rd Aug, 2023]](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-3rd-aug-2023-20ec)
+- [BWC Bootcamp Recap: HTML and CSS vocabulary](https://dev.to/caesiumtea/bwc-bootcamp-recap-html-and-css-vocabulary-41e4)
 <!-- BLOG-POST-LIST:END -->
 
