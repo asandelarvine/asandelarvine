@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Built a Conversational AI Chatbot Using Amazon Lex](https://dev.to/subashkumar/built-a-conversational-ai-chatbot-using-amazon-lex-59p4)
 - [Why we should not mutate in react](https://dev.to/endeavourmonk/why-we-should-not-mutate-in-react-18ej)
 - [How I unsuccessfully tried to recover my lost password](https://dev.to/vinodvms/how-i-unsuccessfully-tried-to-recover-my-lost-password-5cpa)
 - [Tell me about your mentor and what makes them great/not so](https://dev.to/adam_cyclones/tell-me-about-your-mentor-and-what-makes-them-greatnot-so-55lh)
-- [I wrote a metasearch engine called Swirl](https://dev.to/sidswirl/i-wrote-a-metasearch-engine-called-swirl-23i9)
 <!-- BLOG-POST-LIST:END -->
 
