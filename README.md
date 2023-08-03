@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Custom 404 Pages on GitHub Pages](https://dev.to/sh20raj/creating-custom-404-pages-on-github-pages-17nb)
+- [10 Cool CodePen Demos &lpar;July 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2023-590l)
 - [Out Systems Shaping the Future !](https://dev.to/hasanelsherbiny/out-systems-shaping-the-future--4891)
 - [What is Rocketgraph](https://dev.to/kaushik94/what-is-rocketgraph-1h6f)
-- [Finally the messages component](https://dev.to/kaushik94/finally-the-messages-component-j70)
-- [Create event triggers for PostgresDB](https://dev.to/kaushik94/create-event-triggers-for-postgresdb-132o)
 <!-- BLOG-POST-LIST:END -->
 
