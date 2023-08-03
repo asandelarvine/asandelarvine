@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [A Simple Guide to Creating a Pull Request on GitHub](https://dev.to/idurar/a-simple-guide-to-creating-a-pull-request-on-github-3daa)
+- [Sloan&#39;s Inbox: Any advice on how to advocate for a11y improvements at my org?](https://dev.to/devteam/sloans-inbox-any-advice-on-how-to-advocate-for-a11y-improvements-at-my-org-21i3)
 - [Spring @Transactional Rollback Handling](https://dev.to/sgwebfreelancer/spring-transactional-rollback-handling-hc8)
-- [Creating Custom 404 Pages on GitHub Pages](https://dev.to/sh20raj/creating-custom-404-pages-on-github-pages-17nb)
-- [Lambda runtime/version search tool &lpar;across regions&rpar;](https://dev.to/aws-builders/lambda-runtimeversion-search-tool-across-regions-41l0)
+- [🌱 I Built an Ultimate Hub for Developer Tools and Resources](https://dev.to/evergrowingdev/i-built-an-ultimate-hub-for-developer-tools-and-resources-2dd3)
 <!-- BLOG-POST-LIST:END -->
 
