@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS z index not working &lpar;Reason with solution live snippet code&rpar;](https://dev.to/lakshmananarumugam/css-z-index-not-working-reason-with-solution-live-snippet-code-1589)
 - [What&#39;s the difference between arrow functions and regular functions?](https://dev.to/pedrogustavo/whats-the-difference-between-arrow-functions-and-regular-functions-352c)
 - [More Accessible Graphs with Jetpack Compose Part 2: Adding Keyboard Interaction](https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-2-adding-keyboard-interaction-1gpd)
 - [How to upgrade `pnpm`](https://dev.to/adamof/how-to-upgrade-pnpm-3fmo)
-- [The new pdbp &lpar;Pdb+&rpar; Python debugger!](https://dev.to/mintzworld/the-new-pdbp-pdb-python-debugger-2blc)
 <!-- BLOG-POST-LIST:END -->
 
