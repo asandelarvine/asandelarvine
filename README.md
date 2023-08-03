@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Changelog: Don&#39;t forget to hit that notification bell](https://dev.to/devteam/changelog-dont-forget-to-hit-that-notification-bell-328c)
+- [Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
 - [Bandit Level 9 Level 10](https://dev.to/christianpaez/bandit-level-9-level-10-56on)
 - [Community!,The What? The Why? And The When?](https://dev.to/favourmark05/communitythe-whatthe-whyand-the-when-4and)
-- [refine + DEV Hackathon Winners, Announced!](https://dev.to/devteam/refine-dev-hackathon-winners-announced-237g)
-- [8 great software &amp; tech podcasts 2023](https://dev.to/appmap/8-great-software-tech-podcasts-2023-4642)
 <!-- BLOG-POST-LIST:END -->
 
