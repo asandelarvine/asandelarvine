@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging into AWS ECS Task Containers: What You Need to Know](https://dev.to/aws-builders/debugging-into-aws-ecs-task-containers-what-you-need-to-know-219o)
-- [System architecture: move authentication to the API Gateway](https://dev.to/apisix/system-architecture-move-authentication-to-the-api-gateway-1la3)
-- [Python Decorators](https://dev.to/mbuthi/python-decorators-193p)
-- [21 Best Practices for a Clean React Project](https://dev.to/mohammadfaisal/21-best-practices-for-a-clean-react-project-jdf)
+- [Out Systems Shaping the Future !](https://dev.to/hasanelsherbiny/out-systems-shaping-the-future--4891)
+- [What is Rocketgraph](https://dev.to/kaushik94/what-is-rocketgraph-1h6f)
+- [Finally the messages component](https://dev.to/kaushik94/finally-the-messages-component-j70)
+- [Create event triggers for PostgresDB](https://dev.to/kaushik94/create-event-triggers-for-postgresdb-132o)
 <!-- BLOG-POST-LIST:END -->
 
