@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a Conversational AI Chatbot Using Amazon Lex](https://dev.to/subashkumar/built-a-conversational-ai-chatbot-using-amazon-lex-59p4)
-- [Why we should not mutate in react](https://dev.to/endeavourmonk/why-we-should-not-mutate-in-react-18ej)
-- [How I unsuccessfully tried to recover my lost password](https://dev.to/vinodvms/how-i-unsuccessfully-tried-to-recover-my-lost-password-5cpa)
-- [Tell me about your mentor and what makes them great/not so](https://dev.to/adam_cyclones/tell-me-about-your-mentor-and-what-makes-them-greatnot-so-55lh)
+- [refine + DEV Hackathon Winners, Announced!](https://dev.to/devteam/refine-dev-hackathon-winners-announced-237g)
+- [Top 30 Flutter Food App Templates for 2023](https://dev.to/pablonax/top-30-flutter-food-app-templates-for-2023-bfa)
+- [SvelteKit: How to make code-based router, instead of file-based router [August 2023]](https://dev.to/maxcore/sveltekit-how-to-make-code-based-router-instead-of-file-based-router-august-2023-5f9)
+- [Java VS PHP](https://dev.to/arsalanmee/java-vs-php-5fcc)
 <!-- BLOG-POST-LIST:END -->
 
