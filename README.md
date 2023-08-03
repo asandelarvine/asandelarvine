@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Guide to Creating a Pull Request on GitHub](https://dev.to/idurar/a-simple-guide-to-creating-a-pull-request-on-github-3daa)
+- [Spring @Transactional Rollback Handling](https://dev.to/sgwebfreelancer/spring-transactional-rollback-handling-hc8)
 - [Creating Custom 404 Pages on GitHub Pages](https://dev.to/sh20raj/creating-custom-404-pages-on-github-pages-17nb)
-- [10 Cool CodePen Demos &lpar;July 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2023-590l)
-- [Out Systems Shaping the Future !](https://dev.to/hasanelsherbiny/out-systems-shaping-the-future--4891)
-- [What is Rocketgraph](https://dev.to/kaushik94/what-is-rocketgraph-1h6f)
+- [Lambda runtime/version search tool &lpar;across regions&rpar;](https://dev.to/aws-builders/lambda-runtimeversion-search-tool-across-regions-41l0)
 <!-- BLOG-POST-LIST:END -->
 
