@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Vision: Working on Projects for the Long Haul or Sprinting?](https://dev.to/codenewbieteam/coding-vision-working-on-projects-for-the-long-haul-or-sprinting-4ion)
-- [Mentors’ Influence: Changing Career Path Decisions?](https://dev.to/devteam/mentors-influence-changing-career-path-decisions-49n2)
-- [50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [3rd Aug, 2023]](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-3rd-aug-2023-20ec)
-- [BWC Bootcamp Recap: HTML and CSS vocabulary](https://dev.to/caesiumtea/bwc-bootcamp-recap-html-and-css-vocabulary-41e4)
+- [Sveltekit and Appwrite Cloud: How to build a list app](https://dev.to/terieyenike/sveltekit-and-appwrite-cloud-how-to-build-a-list-app-2174)
+- [What is JavaScript used for ?](https://dev.to/bindupatidar/what-is-javascript-used-for--54ge)
+- [This Week In React #154: Server Components, Remix, Next.js, ElementRef, SVG Sprites, NextUI, Storybook, Hermes...](https://dev.to/sebastienlorber/this-week-in-react-154-server-components-remix-nextjs-elementref-svg-sprites-nextui-storybook-hermes-2d17)
+- [How To Effectively Debug CSS?](https://dev.to/bindupatidar/how-to-effectively-debug-css-29kf)
 <!-- BLOG-POST-LIST:END -->
 
