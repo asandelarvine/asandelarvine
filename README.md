@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Guide to Creating a Pull Request on GitHub](https://dev.to/idurar/a-simple-guide-to-creating-a-pull-request-on-github-3daa)
-- [Sloan&#39;s Inbox: Any advice on how to advocate for a11y improvements at my org?](https://dev.to/devteam/sloans-inbox-any-advice-on-how-to-advocate-for-a11y-improvements-at-my-org-21i3)
-- [Spring @Transactional Rollback Handling](https://dev.to/sgwebfreelancer/spring-transactional-rollback-handling-hc8)
-- [🌱 I Built an Ultimate Hub for Developer Tools and Resources](https://dev.to/evergrowingdev/i-built-an-ultimate-hub-for-developer-tools-and-resources-2dd3)
+- [Creating APIs with Flask and testing in Postman](https://dev.to/terieyenike/creating-apis-with-flask-and-testing-in-postman-2ojn)
+- [Getting started with Pico CSS](https://dev.to/logrocket/getting-started-with-pico-css-5cji)
+- [Come and geek out over synthesizers with me!](https://dev.to/music-discussions/come-and-geek-out-over-synthesizers-with-me-3lid)
+- [Sky&#39;s the Limit! Supercharging Your Astro Blog with Orama, the Ultimate Stargazing Search Engine!](https://dev.to/thezal/skys-the-limit-supercharging-your-astro-blog-with-orama-the-ultimate-stargazing-search-engine-1ea5)
 <!-- BLOG-POST-LIST:END -->
 
