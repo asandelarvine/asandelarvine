@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging into AWS ECS Task Containers: What You Need to Know](https://dev.to/aws-builders/debugging-into-aws-ecs-task-containers-what-you-need-to-know-219o)
 - [System architecture: move authentication to the API Gateway](https://dev.to/apisix/system-architecture-move-authentication-to-the-api-gateway-1la3)
-- [Sveltekit and Appwrite Cloud: How to build a list app](https://dev.to/terieyenike/sveltekit-and-appwrite-cloud-how-to-build-a-list-app-2174)
-- [What is JavaScript used for ?](https://dev.to/bindupatidar/what-is-javascript-used-for--54ge)
-- [This Week In React #154: Server Components, Remix, Next.js, ElementRef, SVG Sprites, NextUI, Storybook, Hermes...](https://dev.to/sebastienlorber/this-week-in-react-154-server-components-remix-nextjs-elementref-svg-sprites-nextui-storybook-hermes-2d17)
+- [Python Decorators](https://dev.to/mbuthi/python-decorators-193p)
+- [21 Best Practices for a Clean React Project](https://dev.to/mohammadfaisal/21-best-practices-for-a-clean-react-project-jdf)
 <!-- BLOG-POST-LIST:END -->
 
