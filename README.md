@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
-- [The Next AGE of Discord](https://dev.to/rrrokhtar/the-next-age-of-discord-4hl5)
-- [Flask Course Tutorials: Top 10 Web Development Resources in 2023](https://dev.to/max24816/flask-course-tutorials-top-10-web-development-resources-in-2023-j7k)
-- [PostGraphile V5 public beta — get involved!](https://dev.to/graphile/postgraphile-v5-public-beta-get-involved-1lg9)
+- [Why we should not mutate in react](https://dev.to/endeavourmonk/why-we-should-not-mutate-in-react-18ej)
+- [How I unsuccessfully tried to recover my lost password](https://dev.to/vinodvms/how-i-unsuccessfully-tried-to-recover-my-lost-password-5cpa)
+- [Tell me about your mentor and what makes them great/not so](https://dev.to/adam_cyclones/tell-me-about-your-mentor-and-what-makes-them-greatnot-so-55lh)
+- [I wrote a metasearch engine called Swirl](https://dev.to/sidswirl/i-wrote-a-metasearch-engine-called-swirl-23i9)
 <!-- BLOG-POST-LIST:END -->
 
