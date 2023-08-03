@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The new pdbp &lpar;Pdb+&rpar; Python debugger!](https://dev.to/mintzworld/the-new-pdbp-pdb-python-debugger-2blc)
 - [Shopify App - Theme Extension with React + Tailwind CSS](https://dev.to/iskurbanov/shopify-app-theme-extension-with-react-tailwind-css-3n9e)
 - [Testing Flutter Plugins: A Step-by-Step Guide](https://dev.to/odinachi/testing-flutter-plugins-a-step-by-step-guide-5h6b)
 - [5 Essential Frontend Development Best Practices Every Developer Should Know](https://dev.to/josematoswork/5-essential-frontend-development-best-practices-every-developer-should-know-23el)
-- [PHP-FPM 8.2 on OpenBSD 7.3](https://dev.to/nabbisen/php-fpm-82-on-openbsd-73-ahj)
 <!-- BLOG-POST-LIST:END -->
 
