@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use online VS Code editor alongside your GitHub repo ?](https://dev.to/manutheblacker/how-to-use-online-vs-code-editor-alongside-your-github-repo--58l4)
+- [Using AI Agents to Free LLMops&#39; Creativity: A Revolution in Application Development](https://dev.to/illa/using-ai-agents-to-free-llmops-creativity-a-revolution-in-application-development-aeh)
+- [Styling the HTML5 `&lt;audio&gt;` Tag with CSS and WebKit Properties](https://dev.to/sh20raj/styling-the-html5-tag-with-css-and-webkit-properties-nf3)
 - [Agile VS Scrum VS Waterfall](https://dev.to/hasanelsherbiny/agile-vs-scrum-vs-waterfall-58da)
-- [Thank Goodness It&#39;s Friday: Celebrating Developer Wins! 🎉](https://dev.to/mitchiemt11/thank-goodness-its-friday-celebrating-developer-wins-dnh)
-- [Flutter Full Stack Premium Resource Pack - 2023](https://dev.to/yatendra2001/flutter-full-stack-premium-resource-pack-2023-25c6)
-- [Breaking Down ICO Costs - Budgeting for a Successful Launch](https://dev.to/jessietomaz/breaking-down-ico-costs-budgeting-for-a-successful-launch-57gp)
 <!-- BLOG-POST-LIST:END -->
 
