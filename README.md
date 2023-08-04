@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Bosses: What Made Their Mentorship Stand Out?](https://dev.to/devteam/best-bosses-what-made-their-mentorship-stand-out-1gp0)
+- [tsParticles 2.12.0 Released](https://dev.to/tsparticles/tsparticles-2120-released-hpf)
+- [A beginner&#39;s guide to OAuth 2.0 with Google sign-in: Enhance Android app authentication](https://dev.to/hackmamba/a-beginners-guide-to-oauth-20-with-google-sign-in-enhance-android-app-authentication-2mhi)
 - [Coding Culture Fit: Where Do Your Values Align in Your Dream Workplace?&quot;](https://dev.to/codenewbieteam/coding-culture-fit-where-do-your-values-align-in-your-dream-workplace-4ooa)
-- [What is News API?](https://dev.to/newsdataio/what-is-news-api-1oej)
-- [Top Technical Tips to Reduce Battery Consumption by an Android App](https://dev.to/dhruvjoshi9/top-technical-tips-to-reduce-battery-consumption-by-an-android-app-d5g)
+- [Finding My Blogging Path: Lessons from My Journey](https://dev.to/danielrendox/finding-my-blogging-path-lessons-from-my-journey-31d1)
 <!-- BLOG-POST-LIST:END -->
 
