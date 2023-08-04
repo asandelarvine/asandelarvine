@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Tip Calculator in the Command Line with Python](https://dev.to/terieyenike/how-to-build-a-tip-calculator-in-the-command-line-with-python-4ed2)
+- [Exploring How Websites Talk: A Beginner&#39;s Guide to HTTP Requests, APIs, and Backend Magic](https://dev.to/ibrahzizo360/exploring-how-websites-talk-a-beginners-guide-to-http-requests-apis-and-backend-magic-4l48)
+- [Automating Talend Jobs Using Apache Airflow .](https://dev.to/wanjohichristopher/automating-talend-jobs-using-apache-airflow--4ank)
 - [Changelog: Don&#39;t forget to hit that notification bell](https://dev.to/devteam/changelog-dont-forget-to-hit-that-notification-bell-328c)
-- [Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
-- [Bandit Level 9 Level 10](https://dev.to/christianpaez/bandit-level-9-level-10-56on)
-- [Community!,The What? The Why? And The When?](https://dev.to/favourmark05/communitythe-whatthe-whyand-the-when-4and)
 <!-- BLOG-POST-LIST:END -->
 
