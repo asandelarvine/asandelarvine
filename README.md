@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Best Advanced Data Science Online Courses](https://dev.to/aqsa81/7-best-advanced-data-science-online-courses-2bi8)
+- [Crafting Prompt Templates for Code Generation](https://dev.to/stephenc222/crafting-prompt-templates-for-code-generation-l6d)
+- [Micro-Frontends: Unleashing the Avengers&#39; Newest Superpower!](https://dev.to/kpnigalye/micro-frontends-unleashing-the-avengers-newest-superpower-26k2)
 - [A workaround to handle PSR-4 &amp;&amp; WordPress Coding Standards at same time](https://dev.to/sarahcssiqueira/a-workaround-to-handle-psr-4-wordpress-coding-standards-at-same-time-5ggk)
-- [Preparing for Success: Top REACT Interview Questions](https://dev.to/abidullah786/preparing-for-success-top-react-interview-questions-1la4)
-- [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-49da)
-- [Query Execution Plan inside SQL Server](https://dev.to/jhonpedro/query-execution-plan-inside-sql-server-4585)
 <!-- BLOG-POST-LIST:END -->
 
