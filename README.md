@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Profile Enrichment can boost your product](https://dev.to/bobur/how-profile-enrichment-can-boost-your-product-1nk0)
-- [Who&#39;s looking for open source contributors? &lpar;week 53&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-53-1c00)
-- [How to use online VS Code editor alongside your GitHub repo ?](https://dev.to/manutheblacker/how-to-use-online-vs-code-editor-alongside-your-github-repo--58l4)
-- [How To Convert HTML Page To PDF In Angular Application](https://dev.to/pankajkumar/how-to-convert-html-page-to-pdf-in-angular-application-1h2l)
+- [Implementing Devise in Your Ruby on Rails Application For Authentication](https://dev.to/shedracksunday/implementing-devise-in-your-ruby-on-rails-application-for-authentication-1d21)
+- [The Best UI Libraries for Cross-Platform Apps with Tauri](https://dev.to/crabnebula/the-best-ui-libraries-for-cross-platform-apps-with-tauri-2d78)
+- [Route-based code splitting with React](https://dev.to/cathalmacdonnacha/route-based-code-splitting-with-react-4hm)
+- [How to Create an Engaging Drag and Drop Experience With JavaScript](https://dev.to/aagamezl/how-to-create-an-engaging-drag-and-drop-experience-with-javascript-mp7)
 <!-- BLOG-POST-LIST:END -->
 
