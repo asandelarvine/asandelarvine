@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Labs: The Evolution of Continuous Merge](https://dev.to/linearb/labs-the-evolution-of-continuous-merge-346i)
 - [Top Featured CodeNewbie Posts from the Past Week](https://dev.to/codenewbieteam/top-featured-codenewbie-posts-from-the-past-week-318m)
 - [Mening telegramdagi shaxsiy blogim -&gt; @web_developer_girls](https://dev.to/sevara_nurnazarova/mening-telegramdagi-shaxsiy-blogim-webdevelopergirls-2mc6)
 - [Editing a message of a pushed commit](https://dev.to/alvesjessica/editing-a-message-of-a-pushed-commit-3lc6)
-- [Create digital development certificate](https://dev.to/bytewhisper/create-digital-development-certificate-401c)
 <!-- BLOG-POST-LIST:END -->
 
