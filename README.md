@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WinTalker](https://dev.to/schbenedikt/wintalker-52fo)
 - [Implementing Devise in Your Ruby on Rails Application For Authentication](https://dev.to/shedracksunday/implementing-devise-in-your-ruby-on-rails-application-for-authentication-1d21)
 - [The Best UI Libraries for Cross-Platform Apps with Tauri](https://dev.to/crabnebula/the-best-ui-libraries-for-cross-platform-apps-with-tauri-2d78)
 - [Route-based code splitting with React](https://dev.to/cathalmacdonnacha/route-based-code-splitting-with-react-4hm)
-- [How to Create an Engaging Drag and Drop Experience With JavaScript](https://dev.to/aagamezl/how-to-create-an-engaging-drag-and-drop-experience-with-javascript-mp7)
 <!-- BLOG-POST-LIST:END -->
 
