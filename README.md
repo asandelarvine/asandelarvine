@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Preparing for Success: Top REACT Interview Questions](https://dev.to/abidullah786/preparing-for-success-top-react-interview-questions-1la4)
+- [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-49da)
+- [Query Execution Plan inside SQL Server](https://dev.to/jhonpedro/query-execution-plan-inside-sql-server-4585)
 - [How to Build a Tip Calculator in the Command Line with Python](https://dev.to/terieyenike/how-to-build-a-tip-calculator-in-the-command-line-with-python-4ed2)
-- [Exploring How Websites Talk: A Beginner&#39;s Guide to HTTP Requests, APIs, and Backend Magic](https://dev.to/ibrahzizo360/exploring-how-websites-talk-a-beginners-guide-to-http-requests-apis-and-backend-magic-4l48)
-- [Automating Talend Jobs Using Apache Airflow .](https://dev.to/wanjohichristopher/automating-talend-jobs-using-apache-airflow--4ank)
-- [Changelog: Don&#39;t forget to hit that notification bell](https://dev.to/devteam/changelog-dont-forget-to-hit-that-notification-bell-328c)
 <!-- BLOG-POST-LIST:END -->
 
