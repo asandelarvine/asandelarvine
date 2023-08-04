@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create End-to-End Channels in Rust with Ockam Routing](https://dev.to/build-trust/create-end-to-end-channels-in-rust-with-ockam-routing-2740)
-- [My Problem with Tech Twitter and the Rise of NPC Tweets](https://dev.to/sadeedpv/my-problem-with-tech-twitter-and-the-rise-of-npc-tweets-2ed5)
-- [Container Orchestration: Docker vs. Kubernetes - A Comprehensive Comparison](https://dev.to/iamcymentho/container-orchestration-docker-vs-kubernetes-a-comprehensive-comparison-kp0)
-- [PHP - Creating Your Own PHP SessionStorage](https://dev.to/fadymr/php-creating-your-own-php-sessionstorage-2jkf)
+- [Top Featured CodeNewbie Posts from the Past Week](https://dev.to/codenewbieteam/top-featured-codenewbie-posts-from-the-past-week-318m)
+- [Mening telegramdagi shaxsiy blogim -&gt; @web_developer_girls](https://dev.to/sevara_nurnazarova/mening-telegramdagi-shaxsiy-blogim-webdevelopergirls-2mc6)
+- [Editing a message of a pushed commit](https://dev.to/alvesjessica/editing-a-message-of-a-pushed-commit-3lc6)
+- [Create digital development certificate](https://dev.to/bytewhisper/create-digital-development-certificate-401c)
 <!-- BLOG-POST-LIST:END -->
 
