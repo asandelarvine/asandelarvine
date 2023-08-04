@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Bosses: What Made Their Mentorship Stand Out?](https://dev.to/devteam/best-bosses-what-made-their-mentorship-stand-out-1gp0)
+- [Coding Culture Fit: Where Do Your Values Align in Your Dream Workplace?&quot;](https://dev.to/codenewbieteam/coding-culture-fit-where-do-your-values-align-in-your-dream-workplace-4ooa)
+- [What is News API?](https://dev.to/newsdataio/what-is-news-api-1oej)
 - [Top Technical Tips to Reduce Battery Consumption by an Android App](https://dev.to/dhruvjoshi9/top-technical-tips-to-reduce-battery-consumption-by-an-android-app-d5g)
-- [Case Study: How Company X Leveraged Apache AGE to Enhance Fraud Detection](https://dev.to/huzaiifaaaa/case-study-how-company-x-leveraged-apache-age-to-enhance-fraud-detection-193k)
-- [7 Best Advanced Data Science Online Courses](https://dev.to/aqsa81/7-best-advanced-data-science-online-courses-2bi8)
-- [Crafting Prompt Templates for Code Generation](https://dev.to/stephenc222/crafting-prompt-templates-for-code-generation-l6d)
 <!-- BLOG-POST-LIST:END -->
 
