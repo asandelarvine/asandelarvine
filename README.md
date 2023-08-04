@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Technical Tips to Reduce Battery Consumption by an Android App](https://dev.to/dhruvjoshi9/top-technical-tips-to-reduce-battery-consumption-by-an-android-app-d5g)
+- [Case Study: How Company X Leveraged Apache AGE to Enhance Fraud Detection](https://dev.to/huzaiifaaaa/case-study-how-company-x-leveraged-apache-age-to-enhance-fraud-detection-193k)
 - [7 Best Advanced Data Science Online Courses](https://dev.to/aqsa81/7-best-advanced-data-science-online-courses-2bi8)
 - [Crafting Prompt Templates for Code Generation](https://dev.to/stephenc222/crafting-prompt-templates-for-code-generation-l6d)
-- [Micro-Frontends: Unleashing the Avengers&#39; Newest Superpower!](https://dev.to/kpnigalye/micro-frontends-unleashing-the-avengers-newest-superpower-26k2)
-- [A workaround to handle PSR-4 &amp;&amp; WordPress Coding Standards at same time](https://dev.to/sarahcssiqueira/a-workaround-to-handle-psr-4-wordpress-coding-standards-at-same-time-5ggk)
 <!-- BLOG-POST-LIST:END -->
 
