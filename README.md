@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Labs: The Evolution of Continuous Merge](https://dev.to/linearb/labs-the-evolution-of-continuous-merge-346i)
-- [Top Featured CodeNewbie Posts from the Past Week](https://dev.to/codenewbieteam/top-featured-codenewbie-posts-from-the-past-week-318m)
-- [Mening telegramdagi shaxsiy blogim -&gt; @web_developer_girls](https://dev.to/sevara_nurnazarova/mening-telegramdagi-shaxsiy-blogim-webdevelopergirls-2mc6)
-- [Editing a message of a pushed commit](https://dev.to/alvesjessica/editing-a-message-of-a-pushed-commit-3lc6)
+- [Amazon EC2 &lpar;Elastic Compute Cloud&rpar;: Empowering Scalable Cloud Computing](https://dev.to/hasanelsherbiny/amazon-ec2-elastic-compute-cloud-empowering-scalable-cloud-computing-41ac)
+- [Top 10 AWS Services](https://dev.to/hasanelsherbiny/top-10-aws-services-kjc)
+- [KUCHLI VA PROFESSIONAL DASTURCHILARDAN MASLAHATLAR.](https://dev.to/sevara_nurnazarova/kuchli-va-professional-dasturchilardan-maslahatlar-34fp)
+- [Flutter 3 on Devuan 4: 始め方](https://dev.to/nabbisen/flutter-3-on-devuan-4-shi-mefang-4hik)
 <!-- BLOG-POST-LIST:END -->
 
