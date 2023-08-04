@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Profile Enrichment can boost your product](https://dev.to/bobur/how-profile-enrichment-can-boost-your-product-1nk0)
+- [Who&#39;s looking for open source contributors? &lpar;week 53&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-53-1c00)
 - [How to use online VS Code editor alongside your GitHub repo ?](https://dev.to/manutheblacker/how-to-use-online-vs-code-editor-alongside-your-github-repo--58l4)
-- [Using AI Agents to Free LLMops&#39; Creativity: A Revolution in Application Development](https://dev.to/illa/using-ai-agents-to-free-llmops-creativity-a-revolution-in-application-development-aeh)
-- [Styling the HTML5 `&lt;audio&gt;` Tag with CSS and WebKit Properties](https://dev.to/sh20raj/styling-the-html5-tag-with-css-and-webkit-properties-nf3)
-- [Agile VS Scrum VS Waterfall](https://dev.to/hasanelsherbiny/agile-vs-scrum-vs-waterfall-58da)
+- [How To Convert HTML Page To PDF In Angular Application](https://dev.to/pankajkumar/how-to-convert-html-page-to-pdf-in-angular-application-1h2l)
 <!-- BLOG-POST-LIST:END -->
 
