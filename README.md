@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neumorphism-Website &lpar;Part 6&rpar;](https://dev.to/schbenedikt/neumorphism-website-part-6-503n)
-- [Smooth Sailing with Angular Forms: A Beginner&#39;s Odyssey ⛵️](https://dev.to/abhi9720/smooth-sailing-with-angular-forms-a-beginners-odyssey-7k0)
-- [tsParticles 2.12.0 Released](https://dev.to/tsparticles/tsparticles-2120-released-hpf)
-- [A beginner&#39;s guide to OAuth 2.0 with Google sign-in: Enhance Android app authentication](https://dev.to/hackmamba/a-beginners-guide-to-oauth-20-with-google-sign-in-enhance-android-app-authentication-2mhi)
+- [Breaking Down ICO Costs - Budgeting for a Successful Launch](https://dev.to/jessietomaz/breaking-down-ico-costs-budgeting-for-a-successful-launch-57gp)
+- [Using Golang for your AWS Lambda Functions](https://dev.to/aws-builders/using-golang-for-your-aws-lambda-functions-3ko1)
+- [MIT&#39;s Missing Semester Class: Beyond the CS Curriculum](https://dev.to/balapriya/mits-missing-semester-class-beyond-the-cs-curriculum-4on8)
+- [Hinzufügen oder Entfernen von Ebenen in PDF-Dokumenten in Java](https://dev.to/sironly/hinzufugen-oder-entfernen-von-ebenen-in-pdf-dokumenten-in-java-1mjg)
 <!-- BLOG-POST-LIST:END -->
 
