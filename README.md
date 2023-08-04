@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Agile VS Scrum VS Waterfall](https://dev.to/hasanelsherbiny/agile-vs-scrum-vs-waterfall-58da)
+- [Thank Goodness It&#39;s Friday: Celebrating Developer Wins! 🎉](https://dev.to/mitchiemt11/thank-goodness-its-friday-celebrating-developer-wins-dnh)
+- [Flutter Full Stack Premium Resource Pack - 2023](https://dev.to/yatendra2001/flutter-full-stack-premium-resource-pack-2023-25c6)
 - [Breaking Down ICO Costs - Budgeting for a Successful Launch](https://dev.to/jessietomaz/breaking-down-ico-costs-budgeting-for-a-successful-launch-57gp)
-- [Using Golang for your AWS Lambda Functions](https://dev.to/aws-builders/using-golang-for-your-aws-lambda-functions-3ko1)
-- [MIT&#39;s Missing Semester Class: Beyond the CS Curriculum](https://dev.to/balapriya/mits-missing-semester-class-beyond-the-cs-curriculum-4on8)
-- [Hinzufügen oder Entfernen von Ebenen in PDF-Dokumenten in Java](https://dev.to/sironly/hinzufugen-oder-entfernen-von-ebenen-in-pdf-dokumenten-in-java-1mjg)
 <!-- BLOG-POST-LIST:END -->
 
