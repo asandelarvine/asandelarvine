@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Container Orchestration: Docker vs. Kubernetes - A Comprehensive Comparison](https://dev.to/iamcymentho/container-orchestration-docker-vs-kubernetes-a-comprehensive-comparison-kp0)
+- [PHP - Creating Your Own PHP SessionStorage](https://dev.to/fadymr/php-creating-your-own-php-sessionstorage-2jkf)
 - [It&#39;s Follow Friday! Celebrate the Stars of dev.to! ✨💫](https://dev.to/devteam/its-follow-friday-celebrate-the-stars-of-devto-2h1o)
 - [10 Best Spring Courses in 2023: Master the Spring Framework and Boost Your Java Career](https://dev.to/max24816/10-best-spring-courses-in-2023-master-the-spring-framework-and-boost-your-java-career-589m)
-- [Mastering JavaScript Array Methods](https://dev.to/mohitsinghchauhan/mastering-javascript-array-methods-96p)
-- [Leveraging Existing Web Content to Build Hybrid Apps with .NET MAUI](https://dev.to/dotnet/leveraging-existing-web-content-to-build-hybrid-apps-with-net-maui-48me)
 <!-- BLOG-POST-LIST:END -->
 
