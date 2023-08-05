@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide: Understanding CSS Animation](https://dev.to/meganad60/a-beginners-guide-understanding-css-animation-29l2)
 - [Amazon EC2 &lpar;Elastic Compute Cloud&rpar;: Empowering Scalable Cloud Computing](https://dev.to/hasanelsherbiny/amazon-ec2-elastic-compute-cloud-empowering-scalable-cloud-computing-41ac)
 - [Top 10 AWS Services](https://dev.to/hasanelsherbiny/top-10-aws-services-kjc)
 - [KUCHLI VA PROFESSIONAL DASTURCHILARDAN MASLAHATLAR.](https://dev.to/sevara_nurnazarova/kuchli-va-professional-dasturchilardan-maslahatlar-34fp)
-- [Flutter 3 on Devuan 4: 始め方](https://dev.to/nabbisen/flutter-3-on-devuan-4-shi-mefang-4hik)
 <!-- BLOG-POST-LIST:END -->
 
