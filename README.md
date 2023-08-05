@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unraveling the Magic of APIs: A Beginner&#39;s Guide to Integration Superpowers](https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39)
-- [🧑🏻‍💻 My First 5 {Fun} projects &lpar;source code + demo&rpar;](https://dev.to/lakshmananarumugam/my-first-5-fun-projects-source-code-demo-3e31)
-- [Monitor the Existence of Docker Images in a Registry](https://dev.to/stefanhudelmaier/monitor-the-existence-of-docker-images-in-a-registry-1fi8)
-- [Improving Your Workflow as a Developer with Bash Aliases](https://dev.to/0xjamin/improving-your-workflow-as-a-developer-with-bash-aliases-5bnm)
+- [Suspense in React ? Most Important component](https://dev.to/diwakarkashyap/suspense-in-react-most-important-component-gce)
+- [Dark Mode Tailwind CSS](https://dev.to/hyeo151/dark-mode-tailwind-css-ec6)
+- [Unleash Creativity with Wunjo AI: Synthesize Speech and Create Deepfake Videos on free open-source project](https://dev.to/wladradchenko/unleash-creativity-with-wunjo-ai-synthesize-speech-and-create-deepfake-videos-on-free-open-source-project-58o2)
+- [Extremely reducing the size of NPM package](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
 <!-- BLOG-POST-LIST:END -->
 
