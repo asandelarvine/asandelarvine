@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging Bosses: How Did You Navigate?](https://dev.to/devteam/challenging-bosses-how-did-you-navigate-3jia)
+- [Coding Eternally: Lifelong Learning for Continuous Growth?](https://dev.to/codenewbieteam/coding-eternally-lifelong-learning-for-continuous-growth-360m)
 - [Monoliths vs. Microservices: Breaking Down Software Architectures](https://dev.to/documatic/monoliths-vs-microservices-breaking-down-software-architectures-1keh)
 - [🚀 Embracing the Beauty of Functional-Style Programming! 🌟](https://dev.to/kaushit/embracing-the-beauty-of-functional-style-programming-572n)
-- [Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
-- [Sticky navbar only using CSS](https://dev.to/preetsuthar17/sticky-navbar-only-using-css-3nki)
 <!-- BLOG-POST-LIST:END -->
 
