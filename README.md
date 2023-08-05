@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying software is like opening a new bakery 🧁](https://dev.to/svemaraju/deploying-software-is-like-opening-a-new-bakery-2860)
+- [API 101: Understanding the Basics of Making Requests and Handling Responses](https://dev.to/eunice_dev/api-101-understanding-the-basics-of-making-requests-and-handling-responses-3j00)
+- [Data Structures - Part 1: Everything You Need to Know About Arrays](https://dev.to/burakboduroglu/data-structures-part-1-everything-you-need-to-know-about-arrays-5d8h)
 - [How to Write and Publish Your First JavaScript Library](https://dev.to/oluwaferanmi/how-to-write-and-publish-your-first-javascript-library-cei)
-- [How to create your own completion for vim](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-31ip)
-- [Server-Sent Events Explained](https://dev.to/tjindapitak/server-sent-events-explained-2fd7)
-- [Starting Your Test Automation Journey: A Guide for QAs with automation!](https://dev.to/inanoniloquent/starting-your-test-automation-journey-a-guide-for-fresh-qa-professionals-4ggi)
 <!-- BLOG-POST-LIST:END -->
 
