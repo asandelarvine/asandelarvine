@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ATtiny85 Programming: Your Complete Guide with Arduino and PlatformIO!](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-2pl6)
 - [Suspense in React ? Most Important component](https://dev.to/diwakarkashyap/suspense-in-react-most-important-component-gce)
 - [Dark Mode Tailwind CSS](https://dev.to/hyeo151/dark-mode-tailwind-css-ec6)
-- [Unleash Creativity with Wunjo AI: Synthesize Speech and Create Deepfake Videos on free open-source project](https://dev.to/wladradchenko/unleash-creativity-with-wunjo-ai-synthesize-speech-and-create-deepfake-videos-on-free-open-source-project-58o2)
-- [Extremely reducing the size of NPM package](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
 <!-- BLOG-POST-LIST:END -->
 
