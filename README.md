@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🧑🏻‍💻 My First 5 {Fun} projects &lpar;source code + demo&rpar;](https://dev.to/lakshmananarumugam/my-first-5-fun-projects-source-code-demo-3e31)
 - [Improving Your Workflow as a Developer with Bash Aliases](https://dev.to/0xjamin/improving-your-workflow-as-a-developer-with-bash-aliases-5bnm)
 - [Frontend state management with clean architecture](https://dev.to/oscarprdev/frontend-state-management-with-clean-architecture-22d8)
-- [Challenging Bosses: How Did You Navigate?](https://dev.to/devteam/challenging-bosses-how-did-you-navigate-3jia)
 - [Coding Eternally: Lifelong Learning for Continuous Growth?](https://dev.to/codenewbieteam/coding-eternally-lifelong-learning-for-continuous-growth-360m)
 <!-- BLOG-POST-LIST:END -->
 
