@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 2532 &lpar;Hard&rpar;. Time to Cross a Bridge.](https://dev.to/sergeyleschev/leetcode-2532-hard-time-to-cross-a-bridge-5a5c)
+- [Unleashing the Power of Elegance: A Guide to Styling Django Forms](https://dev.to/conrad/unleashing-the-power-of-elegance-a-guide-to-styling-django-forms-3oi7)
 - [Use Type, not Interface in TypeScript](https://dev.to/treasuredev_/use-type-not-interface-in-typescript-34i7)
 - [Amazon S3](https://dev.to/hasanelsherbiny/amazon-s3-1d2n)
-- [Step by step to deploy and host a high-available WordPress application using AWS EC2 instance,RDS,ASG and VPC &lpar;Part-1&rpar;](https://dev.to/subashkumar/step-by-step-to-deploy-and-host-a-high-available-wordpress-application-using-aws-ec2-instancerdsasg-and-vpc-part-1-1hdk)
-- [ATtiny85 Programming: Your Complete Guide with Arduino and PlatformIO!](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)
 <!-- BLOG-POST-LIST:END -->
 
