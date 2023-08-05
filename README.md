@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monoliths vs. Microservices: Breaking Down Software Architectures](https://dev.to/documatic/monoliths-vs-microservices-breaking-down-software-architectures-1keh)
+- [🚀 Embracing the Beauty of Functional-Style Programming! 🌟](https://dev.to/kaushit/embracing-the-beauty-of-functional-style-programming-572n)
 - [Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
-- [Node.js Key One-Liners to Elevate Your Coding Skills](https://dev.to/abidullah786/nodejs-key-one-liners-to-elevate-your-coding-skills-4nnf)
-- [Angular 16 Pagination example](https://dev.to/tienbku/angular-16-pagination-example-1lb1)
-- [How container technology promotes equity in tech](https://dev.to/github/how-containerization-promotes-equity-in-tech-54h5)
+- [Sticky navbar only using CSS](https://dev.to/preetsuthar17/sticky-navbar-only-using-css-3nki)
 <!-- BLOG-POST-LIST:END -->
 
