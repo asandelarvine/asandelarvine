@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Type, not Interface in TypeScript](https://dev.to/treasuredev_/use-type-not-interface-in-typescript-34i7)
+- [Amazon S3](https://dev.to/hasanelsherbiny/amazon-s3-1d2n)
+- [Step by step to deploy and host a high-available WordPress application using AWS EC2 instance,RDS,ASG and VPC &lpar;Part-1&rpar;](https://dev.to/subashkumar/step-by-step-to-deploy-and-host-a-high-available-wordpress-application-using-aws-ec2-instancerdsasg-and-vpc-part-1-1hdk)
 - [ATtiny85 Programming: Your Complete Guide with Arduino and PlatformIO!](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-2pl6)
-- [Suspense in React ? Most Important component](https://dev.to/diwakarkashyap/suspense-in-react-most-important-component-gce)
-- [Dark Mode Tailwind CSS](https://dev.to/hyeo151/dark-mode-tailwind-css-ec6)
 <!-- BLOG-POST-LIST:END -->
 
