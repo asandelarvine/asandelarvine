@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
 - [Node.js Key One-Liners to Elevate Your Coding Skills](https://dev.to/abidullah786/nodejs-key-one-liners-to-elevate-your-coding-skills-4nnf)
 - [Angular 16 Pagination example](https://dev.to/tienbku/angular-16-pagination-example-1lb1)
 - [How container technology promotes equity in tech](https://dev.to/github/how-containerization-promotes-equity-in-tech-54h5)
-- [Fundamentals of Functional Programming: Learn with JavaScript](https://dev.to/ryosuke/fundamentals-of-functional-programming-learn-with-javascript-185b)
 <!-- BLOG-POST-LIST:END -->
 
