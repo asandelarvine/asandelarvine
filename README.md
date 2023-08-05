@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write and Publish Your First JavaScript Library](https://dev.to/oluwaferanmi/how-to-write-and-publish-your-first-javascript-library-cei)
+- [How to create your own completion for vim](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-31ip)
+- [Server-Sent Events Explained](https://dev.to/tjindapitak/server-sent-events-explained-2fd7)
 - [Starting Your Test Automation Journey: A Guide for QAs with automation!](https://dev.to/inanoniloquent/starting-your-test-automation-journey-a-guide-for-fresh-qa-professionals-4ggi)
-- [VACUUM in PostgreSQL](https://dev.to/mahmoudhossam917/vacuum-in-postgresql-4oek)
-- [CSS Animation: Card Width expand on hover](https://dev.to/jon_snow789/css-animation-card-width-expand-on-hover-me4)
-- [Unleashing the Power of useEffect](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
 <!-- BLOG-POST-LIST:END -->
 
