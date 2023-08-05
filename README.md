@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the Magic of APIs: A Beginner&#39;s Guide to Integration Superpowers](https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39)
 - [🧑🏻‍💻 My First 5 {Fun} projects &lpar;source code + demo&rpar;](https://dev.to/lakshmananarumugam/my-first-5-fun-projects-source-code-demo-3e31)
+- [Monitor the Existence of Docker Images in a Registry](https://dev.to/stefanhudelmaier/monitor-the-existence-of-docker-images-in-a-registry-1fi8)
 - [Improving Your Workflow as a Developer with Bash Aliases](https://dev.to/0xjamin/improving-your-workflow-as-a-developer-with-bash-aliases-5bnm)
-- [Frontend state management with clean architecture](https://dev.to/oscarprdev/frontend-state-management-with-clean-architecture-22d8)
-- [Coding Eternally: Lifelong Learning for Continuous Growth?](https://dev.to/codenewbieteam/coding-eternally-lifelong-learning-for-continuous-growth-360m)
 <!-- BLOG-POST-LIST:END -->
 
