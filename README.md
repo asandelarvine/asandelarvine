@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Deploying software is like opening a new bakery 🧁](https://dev.to/svemaraju/deploying-software-is-like-opening-a-new-bakery-2860)
 - [API 101: Understanding the Basics of Making Requests and Handling Responses](https://dev.to/eunice_dev/api-101-understanding-the-basics-of-making-requests-and-handling-responses-3j00)
 - [Data Structures - Part 1: Everything You Need to Know About Arrays](https://dev.to/burakboduroglu/data-structures-part-1-everything-you-need-to-know-about-arrays-5d8h)
-- [How to Write and Publish Your First JavaScript Library](https://dev.to/oluwaferanmi/how-to-write-and-publish-your-first-javascript-library-cei)
+- [Creating a Sinatra API with system-wide dependency injection using dry-system and rom-rb](https://dev.to/cherryramatis/creating-a-sinatra-api-with-system-wide-dependency-injection-using-dry-system-10mp)
 <!-- BLOG-POST-LIST:END -->
 
