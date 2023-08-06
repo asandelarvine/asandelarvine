@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a minimal k8s environment to your local machine.](https://dev.to/whchi/deploy-a-minimal-k8s-environment-to-your-local-machine-1e5e)
+- [Unlock the power of list: Practical usecase of list&lpar;&rpar; in php.](https://dev.to/jovialcore/unlock-the-power-of-list-practical-usecase-of-list-in-php-52i7)
 - [Boost Your Productivity: 3 Hacks for Efficient React JS Development](https://dev.to/bilal1718/boost-your-productivity-3-hacks-for-efficient-react-js-development-190d)
 - [The Comprehensive Guide to the Vital Role of Code Documentation in Software Development](https://dev.to/idurar/the-comprehensive-guide-to-the-vital-role-of-code-documentation-in-software-development-1i0l)
-- [An Impressive 3D Card with Stunning Hover Effects using HTML and SCSS](https://dev.to/smitprajapati/an-impressive-3d-card-with-stunning-hover-effects-using-html-and-scss-25oc)
-- [Application load balencer Vs Network load balencer Vs Gateway load balencer in AWS with real world examples](https://dev.to/raghavendrak/application-load-balencer-vs-network-load-balencer-vs-gateway-load-balencer-in-aws-with-real-world-examples-25eh)
 <!-- BLOG-POST-LIST:END -->
 
