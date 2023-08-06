@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How AI Will Affect the World and Future](https://dev.to/diwakarkashyap/how-ai-will-affect-the-world-and-future-b0b)
+- [What is Cloud Computing?, Cloud models, Service models.](https://dev.to/rashtech/what-is-cloud-computing-cloud-models-service-models-37ic)
+- [DAY 64 - SUBARRAYS AND OR PROBLEM](https://dev.to/pahujanayan/day-64-subarrays-and-or-problem-2acf)
 - [The Complete Guide to Becoming a Web Developer: Part 6](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-6-4ol5)
-- [Yet Another Newsletter LOL: Sharp!](https://dev.to/nickytonline/yet-another-newsletter-lol-sharp-57o9)
-- [Tansforms, Transitions and Animations : Elevating User Experiences with CSS Transitions and Animations🚀](https://dev.to/mohiyaddeen7/tansforms-transitions-and-animations-elevating-user-experiences-with-css-transitions-and-animations-364j)
-- [Creating a GitHub Action for a Docker Image](https://dev.to/blugreenspace/creating-a-github-action-for-a-docker-image-4n34)
 <!-- BLOG-POST-LIST:END -->
 
