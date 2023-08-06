@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity: 3 Hacks for Efficient React JS Development](https://dev.to/bilal1718/boost-your-productivity-3-hacks-for-efficient-react-js-development-190d)
+- [The Comprehensive Guide to the Vital Role of Code Documentation in Software Development](https://dev.to/idurar/the-comprehensive-guide-to-the-vital-role-of-code-documentation-in-software-development-1i0l)
+- [An Impressive 3D Card with Stunning Hover Effects using HTML and SCSS](https://dev.to/smitprajapati/an-impressive-3d-card-with-stunning-hover-effects-using-html-and-scss-25oc)
 - [Application load balencer Vs Network load balencer Vs Gateway load balencer in AWS with real world examples](https://dev.to/raghavendrak/application-load-balencer-vs-network-load-balencer-vs-gateway-load-balencer-in-aws-with-real-world-examples-25eh)
-- [Security](https://dev.to/foziljonov7/security-31g1)
-- [Full Stack Observability: Connecting AWS with Datadog](https://dev.to/indika_wimalasuriya/full-stack-observability-connecting-aws-with-datadog-1dbj)
-- [*Beginner Friendly* Convert a existing website of HTML and CSS to ReactJS project](https://dev.to/ankur0904/beginner-friendly-convert-a-existing-website-of-html-and-css-to-reactjs-project-3mfh)
 <!-- BLOG-POST-LIST:END -->
 
