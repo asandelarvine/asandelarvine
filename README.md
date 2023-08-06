@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Application load balencer Vs Network load balencer Vs Gateway load balencer in AWS with real world examples](https://dev.to/raghavendrak/application-load-balencer-vs-network-load-balencer-vs-gateway-load-balencer-in-aws-with-real-world-examples-25eh)
+- [Security](https://dev.to/foziljonov7/security-31g1)
 - [Full Stack Observability: Connecting AWS with Datadog](https://dev.to/indika_wimalasuriya/full-stack-observability-connecting-aws-with-datadog-1dbj)
 - [*Beginner Friendly* Convert a existing website of HTML and CSS to ReactJS project](https://dev.to/ankur0904/beginner-friendly-convert-a-existing-website-of-html-and-css-to-reactjs-project-3mfh)
-- [Syntactic Changes between Perl and Raku &lpar;Part 2 of 3&rpar;](https://dev.to/lizmat/syntactic-changes-between-perl-and-raku-part-2-of-3-2a8h)
-- [Code Clicks: When Have Colleagues Sparked Insights?](https://dev.to/devteam/code-clicks-when-have-colleagues-sparked-insights-3o0l)
 <!-- BLOG-POST-LIST:END -->
 
