@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Becoming a Web Developer: Part 6](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-6-4ol5)
 - [Yet Another Newsletter LOL: Sharp!](https://dev.to/nickytonline/yet-another-newsletter-lol-sharp-57o9)
 - [Tansforms, Transitions and Animations : Elevating User Experiences with CSS Transitions and Animations🚀](https://dev.to/mohiyaddeen7/tansforms-transitions-and-animations-elevating-user-experiences-with-css-transitions-and-animations-364j)
-- [The Environmental Impact of Tech: Navigating the Digital Carbon Footprint](https://dev.to/codewithsom/the-environmental-impact-of-tech-navigating-the-digital-carbon-footprint-49jg)
-- [Which UI library for react or next are you using in your project?](https://dev.to/srbhr/which-ui-library-for-react-or-next-are-you-using-in-your-project-4mfm)
+- [Creating a GitHub Action for a Docker Image](https://dev.to/blugreenspace/creating-a-github-action-for-a-docker-image-4n34)
 <!-- BLOG-POST-LIST:END -->
 
