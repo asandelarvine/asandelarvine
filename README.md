@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Environmental Impact of Tech: Navigating the Digital Carbon Footprint](https://dev.to/codewithsom/the-environmental-impact-of-tech-navigating-the-digital-carbon-footprint-49jg)
+- [Which UI library for react or next are you using in your project?](https://dev.to/srbhr/which-ui-library-for-react-or-next-are-you-using-in-your-project-4mfm)
+- [Babylon.js + Google Blockly = No Code FPS, TPS🔥](https://dev.to/helicity/babylonjs-google-blockly-no-code-fps-tps-3bld)
 - [How has AI changed your approach to development?](https://dev.to/ben/how-has-ai-changed-your-approach-to-development-2hk0)
-- [Beautify Your Git Log with a Single Command](https://dev.to/pradumnasaraf/beautify-your-git-log-with-a-single-command-2i5)
-- [The Emotional Intelligence of Developers: The Unsung Skillset](https://dev.to/inovak/the-emotional-intelligence-of-developers-the-unsung-skillset-b3n)
-- [C has some API](https://dev.to/nightbird07/c-has-some-api-4jhl)
 <!-- BLOG-POST-LIST:END -->
 
