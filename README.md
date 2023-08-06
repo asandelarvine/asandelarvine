@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vacation Coding Amnesia](https://dev.to/klc/vacation-coding-amnesia-d11)
 - [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
 - [Introduction to Machine Learning](https://dev.to/opaul/introduction-to-machine-learning-2idn)
 - [Postgres Temporary Tables: A Guide to Data Manipulation](https://dev.to/0xog_pg/postgres-temporary-tables-a-guide-to-data-manipulation-2c7d)
-- [NEXUS OSS Create PostgreSQL Repository using Apt Proxy](https://dev.to/openlab/nexus-oss-create-postgresql-repository-using-apt-proxy-1423)
 <!-- BLOG-POST-LIST:END -->
 
