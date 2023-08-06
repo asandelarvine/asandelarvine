@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I used Node.js to OCR &quot;Meme Monday&quot; threads](https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0)
+- [Mastering JavaScript Shorthand Techniques: Write Code Faster and Cleaner Part 1](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-write-code-faster-and-cleaner-part-1-39g6)
+- [Level Up Your Programming Skills: Git and GitHub Made Easy for Beginners.](https://dev.to/koderkareem/level-up-your-programming-skills-git-and-github-made-easy-for-beginners-1ldc)
 - [Leveraging Amazon Bedrock for Advanced Generative AI Applications on AWS](https://dev.to/jito/leveraging-amazon-bedrock-for-advanced-generative-ai-applications-on-aws-15i8)
-- [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
-- [Build Your Own CLI App in 5 Minutes &lpar;ClackJS + Node + NPM Tutorial&rpar;](https://dev.to/therubberduckiee/build-your-own-cli-app-in-5-minutes-clackjs-node-npm-tutorial-4nkl)
-- [Mastering Flexible Component Design in React with the Compound Components Pattern](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
 <!-- BLOG-POST-LIST:END -->
 
