@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
+- [OpenBSD httpd 7.3: Web サーバー](https://dev.to/nabbisen/openbsd-httpd-73-web-saba-18hj)
 - [Underrated React Hook - useSyncExternalStore](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
 - [I used Node.js to OCR &quot;Meme Monday&quot; threads](https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0)
-- [Mastering JavaScript Shorthand Techniques: Write Code Faster and Cleaner Part 1](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-write-code-faster-and-cleaner-part-1-39g6)
-- [Level Up Your Programming Skills: Git and GitHub Made Easy for Beginners.](https://dev.to/koderkareem/level-up-your-programming-skills-git-and-github-made-easy-for-beginners-1ldc)
 <!-- BLOG-POST-LIST:END -->
 
