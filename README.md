@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reason Why React Was Created In the First Place](https://dev.to/fadhilradh/the-reason-why-react-was-created-in-the-first-place-4125)
+- [📸OpenCV🔮the Enchanted Palette 🎨✨Part: 2](https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-21e2)
 - [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
 - [OpenBSD httpd 7.3: Web サーバー](https://dev.to/nabbisen/openbsd-httpd-73-web-saba-18hj)
 - [Custom cursor in next js](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
