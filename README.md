@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Reason Why React Was Created In the First Place](https://dev.to/fadhilradh/the-reason-why-react-was-created-in-the-first-place-4125)
 - [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
 - [OpenBSD httpd 7.3: Web サーバー](https://dev.to/nabbisen/openbsd-httpd-73-web-saba-18hj)
-- [Underrated React Hook - useSyncExternalStore](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
-- [I used Node.js to OCR &quot;Meme Monday&quot; threads](https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0)
+- [Custom cursor in next js](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
 <!-- BLOG-POST-LIST:END -->
 
