@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
-- [How AI Will Affect the World and Future](https://dev.to/diwakarkashyap/how-ai-will-affect-the-world-and-future-b0b)
-- [What is Cloud Computing?, Cloud models, Service models.](https://dev.to/rashtech/what-is-cloud-computing-cloud-models-service-models-37ic)
-- [DAY 64 - SUBARRAYS AND OR PROBLEM](https://dev.to/pahujanayan/day-64-subarrays-and-or-problem-2acf)
+- [Introduction to Machine Learning](https://dev.to/opaul/introduction-to-machine-learning-2idn)
+- [Postgres Temporary Tables: A Guide to Data Manipulation](https://dev.to/0xog_pg/postgres-temporary-tables-a-guide-to-data-manipulation-2c7d)
+- [NEXUS OSS Create PostgreSQL Repository using Apt Proxy](https://dev.to/openlab/nexus-oss-create-postgresql-repository-using-apt-proxy-1423)
 <!-- BLOG-POST-LIST:END -->
 
