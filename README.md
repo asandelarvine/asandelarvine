@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
 - [How AI Will Affect the World and Future](https://dev.to/diwakarkashyap/how-ai-will-affect-the-world-and-future-b0b)
 - [What is Cloud Computing?, Cloud models, Service models.](https://dev.to/rashtech/what-is-cloud-computing-cloud-models-service-models-37ic)
 - [DAY 64 - SUBARRAYS AND OR PROBLEM](https://dev.to/pahujanayan/day-64-subarrays-and-or-problem-2acf)
-- [The Complete Guide to Becoming a Web Developer: Part 6](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-6-4ol5)
 <!-- BLOG-POST-LIST:END -->
 
