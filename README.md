@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📸OpenCV🔮the Enchanted Palette 🎨✨Part: 2](https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-21e2)
-- [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
-- [OpenBSD httpd 7.3: Web サーバー](https://dev.to/nabbisen/openbsd-httpd-73-web-saba-18hj)
-- [Custom cursor in next js](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
+- [Code Clicks: When Have Colleagues Sparked Insights?](https://dev.to/devteam/code-clicks-when-have-colleagues-sparked-insights-3o0l)
+- [Balancing Your Coding Act: Work-Life Harmony in Your Dream Job?](https://dev.to/codenewbieteam/balancing-your-coding-act-work-life-harmony-in-your-dream-job-412b)
+- [Web Environment Integrity: Google strikes again](https://dev.to/voltra/web-environment-integrity-google-strikes-again-j4a)
+- [AWS Lambda](https://dev.to/hasanelsherbiny/aws-lambda-326e)
 <!-- BLOG-POST-LIST:END -->
 
