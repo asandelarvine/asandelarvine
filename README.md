@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrum: Uma introdução para iniciantes](https://dev.to/hivecommunity_/scrum-uma-introducao-para-iniciantes-3bkh)
-- [Setup your personal cloud](https://dev.to/technology-schaechner/setup-your-personal-cloud-d78)
-- [Lessons learned from messaging strangers on the internet](https://dev.to/leomeloxp/lessons-learned-from-messaging-strangers-on-the-internet-2m57)
-- [Grid in CSS: A Comprehensive Guide](https://dev.to/arsalanmee/grid-in-css-a-comprehensive-guide-5he6)
+- [Hugging Face is now supported in Supabase](https://dev.to/supabase/hugging-face-is-now-supported-in-supabase-l4f)
+- [Understanding Linux Permissions: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-linux-permissions-a-comprehensive-guide-3k1c)
+- [Intro to Python: Day 7 - Private Methods in Python](https://dev.to/jwhubert91/intro-to-python-day-7-private-variables-in-python-7a6)
+- [The Art and Science of Code Reviews](https://dev.to/inovak/the-art-and-science-of-code-reviews-3i2g)
 <!-- BLOG-POST-LIST:END -->
 
