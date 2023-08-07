@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vacation Coding Amnesia](https://dev.to/klc/vacation-coding-amnesia-d11)
-- [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
-- [Introduction to Machine Learning](https://dev.to/opaul/introduction-to-machine-learning-2idn)
-- [Postgres Temporary Tables: A Guide to Data Manipulation](https://dev.to/0xog_pg/postgres-temporary-tables-a-guide-to-data-manipulation-2c7d)
+- [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
+- [Building an AI-Powered, Decentralized App for Time Management](https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l)
+- [Loki: Getting Started](https://dev.to/joachim8675309/loki-getting-started-n8o)
+- [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
 <!-- BLOG-POST-LIST:END -->
 
