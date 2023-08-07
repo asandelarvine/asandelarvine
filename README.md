@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitor API Health Check with Prometheus](https://dev.to/apisix/monitor-api-health-check-with-prometheus-4806)
-- [20x Faster as the Beginning: Introducing pgvecto.rs extension written in Rust](https://dev.to/gaocegege/20x-faster-as-the-beginning-introducing-pgvectors-extension-written-in-rust-3d2f)
-- [Do we really need a specialized vector database?](https://dev.to/gaocegege/do-we-really-need-a-specialized-vector-database-5aci)
-- [Differentiating onclick and addEventListener in JavaScript](https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke)
+- [Power Apps Cards - How to Make Planning Poker](https://dev.to/wyattdave/power-apps-cards-how-to-make-planning-poker-3oi4)
+- [The Power of Default](https://dev.to/eevajonnapanula/the-power-of-default-79c)
+- [Simplify Your Workflow 📈: A Guide to Standardizing Commit Messages with Husky 🐶 in Monorepos 📦](https://dev.to/harithzainudin/simplify-your-workflow-a-guide-to-standardizing-commit-messages-with-husky-in-monorepos-542l)
+- [5 Simple UX Rules that make great front-end](https://dev.to/rushitjivani/5-simple-ux-rules-that-make-great-front-end-3dgl)
 <!-- BLOG-POST-LIST:END -->
 
