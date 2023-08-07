@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explicit Design, Part 4. Ports, Adapters, and Infrastructure](https://dev.to/bespoyasov/explicit-design-part-4-ports-adapters-and-infrastructure-2o)
-- [Hidden Gems: Lesser-Known Features in JavaScript](https://dev.to/josunlp/hidden-gems-lesser-known-features-in-javascript-352j)
-- [Replace bpmn-js and Let Frontend Developers Become More Familiar with Workflow Business](https://dev.to/lawliet/replace-bpmn-js-and-let-frontend-developers-become-more-familiar-with-workflow-business-1jbb)
-- [Multilingual SMS Translation Service built with Hapi, Nodejs and Javascript](https://dev.to/dhamolahedonist/multilingual-sms-translation-service-built-with-hapi-nodejs-and-javascript-1kbn)
+- [Windows Talker &lpar;Part 2&rpar;](https://dev.to/schbenedikt/windows-talker-part-2-375j)
+- [Exploring Mirage JS: Simplifying API Mocking in React Development](https://dev.to/bilal1718/exploring-mirage-js-simplifying-api-mocking-in-react-development-5cld)
+- [5 Must-Have Google Chrome Extensions for Developers](https://dev.to/amarondev/5-must-have-google-chrome-extensions-for-developers-3kie)
+- [What is Digital Banking? Unveiling the Future of Financial Services](https://dev.to/pablonax/what-is-digital-banking-unveiling-the-future-of-financial-services-2mbd)
 <!-- BLOG-POST-LIST:END -->
 
