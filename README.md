@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Code Editor Is Best To Use in 2023? A Beginnerʼs Guide.](https://dev.to/oyohalexandra/which-code-editor-is-best-to-use-in-2023-a-beginners-guide-1fco)
+- [How we improved our Serverless API 300x](https://dev.to/epilot/how-we-improved-our-serverless-api-300x-3o27)
+- [SAML vs OAuth: Choosing the right protocol for authentication](https://dev.to/supertokens/saml-vs-oauth-choosing-the-right-protocol-for-authentication-16j7)
 - [Soft Skills Each developer should learn](https://dev.to/hasanelsherbiny/soft-skills-each-developer-should-learn-4p7e)
-- [AWS open source newsletter, #168](https://dev.to/aws/aws-open-source-newsletter-168-1lji)
-- [Mentoring Others: How Did It Impact Your Growth?](https://dev.to/devteam/mentoring-others-how-did-it-impact-your-growth-452e)
-- [Designing Your Coding Canvas: Who Inspires Your Developer Vision?](https://dev.to/codenewbieteam/designing-your-coding-canvas-who-inspires-your-developer-vision-3p5f)
 <!-- BLOG-POST-LIST:END -->
 
