@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly for 07August2023](https://dev.to/tspannhw/flank-stack-weekly-for-07august2023-188b)
-- [#100DaysOfOSS Recap: Day 1-14](https://dev.to/adiatiayu/100daysofoss-recap-day-1-14-3f0j)
-- [Meme Monday](https://dev.to/ben/meme-monday-43bd)
-- [What is Stack? Important Data Structure](https://dev.to/diwakarkashyap/what-is-stack-important-data-structure-k3d)
+- [Creating a Desktop App with System Tray Integration in Python](https://dev.to/schbenedikt/creating-a-desktop-app-with-system-tray-integration-in-python-3ihd)
+- [AWS Encryption Essentials: Ensuring Data Confidentiality &amp; Safeguarding Your Cloud Assets](https://dev.to/brandondamue/aws-encryption-essentials-ensuring-data-confidentiality-safeguarding-your-cloud-assets-16me)
+- [Best Spring Courses in 2023: Master the Spring Framework and Boost Your Java Career](https://dev.to/max24816/best-spring-courses-in-2023-master-the-spring-framework-and-boost-your-java-career-1i2l)
+- [What are your goals for the week of August 7?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-august-7-3lc)
 <!-- BLOG-POST-LIST:END -->
 
