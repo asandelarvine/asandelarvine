@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK Stack Weekly for 07August2023](https://dev.to/tspannhw/flank-stack-weekly-for-07august2023-188b)
+- [#100DaysOfOSS Recap: Day 1-14](https://dev.to/adiatiayu/100daysofoss-recap-day-1-14-3f0j)
+- [Meme Monday](https://dev.to/ben/meme-monday-43bd)
 - [What is Stack? Important Data Structure](https://dev.to/diwakarkashyap/what-is-stack-important-data-structure-k3d)
-- [Music Monday — What are you listening to? &lpar;Chill Edition II&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-chill-edition-ii-2j5p)
-- [IPv4 vs. IPv6: Bridging the Digital Divide](https://dev.to/idurar/ipv4-vs-ipv6-bridging-the-digital-divide-56hk)
-- [Auto-Completion and Cocktail mixing with Golang’s Cobra CLI](https://dev.to/tomfeigin/auto-completion-and-cocktail-mixing-with-golangs-cobra-cli-h26)
 <!-- BLOG-POST-LIST:END -->
 
