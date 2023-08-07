@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Next.JS Docker Images](https://dev.to/code42cate/understanding-nextjs-docker-images-2g08)
-- [Writing your first post on DEV ✍️](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
-- [Padle is nice but squash &lpar;Rails migration&rpar; is funnier](https://dev.to/yet_anotherdev/padle-is-nice-but-squash-rails-migration-is-funnier-11hp)
-- [&lpar; Token x Criptomoeda &rpar; as diferenças.](https://dev.to/valterlobo/-token-x-criptomoeda-as-diferencas-18kl)
+- [React Custom Hook: useAsync](https://dev.to/sergeyleschev/react-custom-hook-useasync-2fk9)
+- [Build a Serverless Web Application with AWS Lambda, API Gateway,Amplify,DynamoDB and Cognito](https://dev.to/subashkumar/build-a-serverless-web-application-with-aws-lambda-api-gatewayamplifydynamodb-and-cognito-1kd9)
+- [Choose a startup vs established company](https://dev.to/adam_cyclones/choose-a-startup-vs-established-company-4c10)
+- [ChatGPT Prompt Engineering for Developers](https://dev.to/stefanalfbo/chatgpt-prompt-engineering-for-developers-169i)
 <!-- BLOG-POST-LIST:END -->
 
