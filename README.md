@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
-- [How to Create a Sticky NavBar using Tailwind CSS](https://dev.to/bobbyiliev/how-to-create-a-sticky-navbar-using-tailwind-css-1587)
-- [From Personal Project to Open Source: Releasing Japan Listed Companies Site](https://dev.to/yuki0920/from-personal-project-to-open-source-releasing-japan-listed-companies-site-41d3)
-- [Top 7 Things That Kill Developer Productivity](https://dev.to/surajondev/top-7-things-that-kill-developer-productivity-ef9)
+- [What is Stack? Important Data Structure](https://dev.to/diwakarkashyap/what-is-stack-important-data-structure-k3d)
+- [Music Monday — What are you listening to? &lpar;Chill Edition II&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-chill-edition-ii-2j5p)
+- [IPv4 vs. IPv6: Bridging the Digital Divide](https://dev.to/idurar/ipv4-vs-ipv6-bridging-the-digital-divide-56hk)
+- [Auto-Completion and Cocktail mixing with Golang’s Cobra CLI](https://dev.to/tomfeigin/auto-completion-and-cocktail-mixing-with-golangs-cobra-cli-h26)
 <!-- BLOG-POST-LIST:END -->
 
