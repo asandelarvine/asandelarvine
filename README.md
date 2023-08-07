@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Your Coding Canvas: Who Inspires Your Developer Vision?](https://dev.to/codenewbieteam/designing-your-coding-canvas-who-inspires-your-developer-vision-3p5f)
+- [Soft Skills Each developer should learn](https://dev.to/hasanelsherbiny/soft-skills-each-developer-should-learn-4p7e)
+- [AWS open source newsletter, #168](https://dev.to/aws/aws-open-source-newsletter-168-1lji)
 - [Mentoring Others: How Did It Impact Your Growth?](https://dev.to/devteam/mentoring-others-how-did-it-impact-your-growth-452e)
-- [Team Selection Strategy: FPL Manager](https://dev.to/balagmadhu/team-selection-strategy-fpl-manager-h5l)
-- [Power Apps Cards - How to Make Planning Poker](https://dev.to/wyattdave/power-apps-cards-how-to-make-planning-poker-3oi4)
+- [Designing Your Coding Canvas: Who Inspires Your Developer Vision?](https://dev.to/codenewbieteam/designing-your-coding-canvas-who-inspires-your-developer-vision-3p5f)
 <!-- BLOG-POST-LIST:END -->
 
