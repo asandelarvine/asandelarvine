@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing Your Coding Canvas: Who Inspires Your Developer Vision?](https://dev.to/codenewbieteam/designing-your-coding-canvas-who-inspires-your-developer-vision-3p5f)
+- [Mentoring Others: How Did It Impact Your Growth?](https://dev.to/devteam/mentoring-others-how-did-it-impact-your-growth-452e)
+- [Team Selection Strategy: FPL Manager](https://dev.to/balagmadhu/team-selection-strategy-fpl-manager-h5l)
 - [Power Apps Cards - How to Make Planning Poker](https://dev.to/wyattdave/power-apps-cards-how-to-make-planning-poker-3oi4)
-- [The Power of Default](https://dev.to/eevajonnapanula/the-power-of-default-79c)
-- [Simplify Your Workflow 📈: A Guide to Standardizing Commit Messages with Husky 🐶 in Monorepos 📦](https://dev.to/harithzainudin/simplify-your-workflow-a-guide-to-standardizing-commit-messages-with-husky-in-monorepos-542l)
-- [5 Simple UX Rules that make great front-end](https://dev.to/rushitjivani/5-simple-ux-rules-that-make-great-front-end-3dgl)
 <!-- BLOG-POST-LIST:END -->
 
