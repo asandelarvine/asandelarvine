@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Next.JS Docker Images](https://dev.to/code42cate/understanding-nextjs-docker-images-2g08)
+- [Writing your first post on DEV ✍️](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
+- [Padle is nice but squash &lpar;Rails migration&rpar; is funnier](https://dev.to/yet_anotherdev/padle-is-nice-but-squash-rails-migration-is-funnier-11hp)
 - [&lpar; Token x Criptomoeda &rpar; as diferenças.](https://dev.to/valterlobo/-token-x-criptomoeda-as-diferencas-18kl)
-- [You Don’t Need a Mentor: Embracing the Power of Community](https://dev.to/opensauced/you-dont-need-a-mentor-embracing-the-power-of-community-1g3k)
-- [Tailscale vs WireGuard](https://dev.to/afeiszli/tailscale-vs-wireguard-1plf)
-- [Enhance your TypeScript with Type Guards](https://dev.to/brainiacneit/enhance-your-typescript-with-type-guards-1f2h)
 <!-- BLOG-POST-LIST:END -->
 
