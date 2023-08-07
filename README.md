@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of Jetpack DataStore - Kotlin: Elevate Your Android App’s Data Storage Experience](https://dev.to/manoj_pedvi/unleashing-the-power-of-jetpack-datastore-kotlin-elevate-your-android-apps-data-storage-experience-4nic)
-- [Docker 20.10 on Devuan 4: Install and Run container](https://dev.to/nabbisen/docker-2010-on-devuan-4-install-and-run-container-4jna)
-- [Building Your First Neural Network: Image Classification with MNIST Fashion Dataset](https://dev.to/jaynwabueze/building-your-first-neural-network-image-classification-with-mnist-fashion-dataset-4a7i)
-- [JPA @ManyToOne example in Spring Boot](https://dev.to/tienbku/jpa-manytoone-example-in-spring-boot-3n97)
+- [Monitor API Health Check with Prometheus](https://dev.to/apisix/monitor-api-health-check-with-prometheus-4806)
+- [20x Faster as the Beginning: Introducing pgvecto.rs extension written in Rust](https://dev.to/gaocegege/20x-faster-as-the-beginning-introducing-pgvectors-extension-written-in-rust-3d2f)
+- [Do we really need a specialized vector database?](https://dev.to/gaocegege/do-we-really-need-a-specialized-vector-database-5aci)
+- [Differentiating onclick and addEventListener in JavaScript](https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke)
 <!-- BLOG-POST-LIST:END -->
 
