@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Code Editor Is Best To Use in 2023? A Beginnerʼs Guide.](https://dev.to/oyohalexandra/which-code-editor-is-best-to-use-in-2023-a-beginners-guide-1fco)
-- [How we improved our Serverless API 300x](https://dev.to/epilot/how-we-improved-our-serverless-api-300x-3o27)
-- [SAML vs OAuth: Choosing the right protocol for authentication](https://dev.to/supertokens/saml-vs-oauth-choosing-the-right-protocol-for-authentication-16j7)
-- [Soft Skills Each developer should learn](https://dev.to/hasanelsherbiny/soft-skills-each-developer-should-learn-4p7e)
+- [Explicit Design, Part 4. Ports, Adapters, and Infrastructure](https://dev.to/bespoyasov/explicit-design-part-4-ports-adapters-and-infrastructure-2o)
+- [Hidden Gems: Lesser-Known Features in JavaScript](https://dev.to/josunlp/hidden-gems-lesser-known-features-in-javascript-352j)
+- [Replace bpmn-js and Let Frontend Developers Become More Familiar with Workflow Business](https://dev.to/lawliet/replace-bpmn-js-and-let-frontend-developers-become-more-familiar-with-workflow-business-1jbb)
+- [Multilingual SMS Translation Service built with Hapi, Nodejs and Javascript](https://dev.to/dhamolahedonist/multilingual-sms-translation-service-built-with-hapi-nodejs-and-javascript-1kbn)
 <!-- BLOG-POST-LIST:END -->
 
