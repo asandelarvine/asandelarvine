@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Your First Neural Network: Image Classification with MNIST Fashion Dataset](https://dev.to/jaynwabueze/building-your-first-neural-network-image-classification-with-mnist-fashion-dataset-4a7i)
+- [JPA @ManyToOne example in Spring Boot](https://dev.to/tienbku/jpa-manytoone-example-in-spring-boot-3n97)
 - [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
 - [Building an AI-Powered, Decentralized App for Time Management](https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l)
-- [Loki: Getting Started](https://dev.to/joachim8675309/loki-getting-started-n8o)
-- [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
 <!-- BLOG-POST-LIST:END -->
 
