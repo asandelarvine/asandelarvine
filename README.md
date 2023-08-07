@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Jetpack DataStore - Kotlin: Elevate Your Android App’s Data Storage Experience](https://dev.to/manoj_pedvi/unleashing-the-power-of-jetpack-datastore-kotlin-elevate-your-android-apps-data-storage-experience-4nic)
+- [Docker 20.10 on Devuan 4: Install and Run container](https://dev.to/nabbisen/docker-2010-on-devuan-4-install-and-run-container-4jna)
 - [Building Your First Neural Network: Image Classification with MNIST Fashion Dataset](https://dev.to/jaynwabueze/building-your-first-neural-network-image-classification-with-mnist-fashion-dataset-4a7i)
 - [JPA @ManyToOne example in Spring Boot](https://dev.to/tienbku/jpa-manytoone-example-in-spring-boot-3n97)
-- [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
-- [Building an AI-Powered, Decentralized App for Time Management](https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l)
 <!-- BLOG-POST-LIST:END -->
 
