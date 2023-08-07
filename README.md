@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-Time Chat Gateway with NestJS: Testing WebSocket Features and Implementing Simple Private Messaging](https://dev.to/jfrancai/building-a-real-time-chat-gateway-with-nestjs-testing-websocket-features-and-implementing-simple-private-messaging-467l)
 - [React Custom Hook: useAsync](https://dev.to/sergeyleschev/react-custom-hook-useasync-2fk9)
 - [Build a Serverless Web Application with AWS Lambda, API Gateway,Amplify,DynamoDB and Cognito](https://dev.to/subashkumar/build-a-serverless-web-application-with-aws-lambda-api-gatewayamplifydynamodb-and-cognito-1kd9)
-- [Choose a startup vs established company](https://dev.to/adam_cyclones/choose-a-startup-vs-established-company-4c10)
 - [ChatGPT Prompt Engineering for Developers](https://dev.to/stefanalfbo/chatgpt-prompt-engineering-for-developers-169i)
 <!-- BLOG-POST-LIST:END -->
 
