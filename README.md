@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Desktop App with System Tray Integration in Python](https://dev.to/schbenedikt/creating-a-desktop-app-with-system-tray-integration-in-python-3ihd)
-- [AWS Encryption Essentials: Ensuring Data Confidentiality &amp; Safeguarding Your Cloud Assets](https://dev.to/brandondamue/aws-encryption-essentials-ensuring-data-confidentiality-safeguarding-your-cloud-assets-16me)
-- [Best Spring Courses in 2023: Master the Spring Framework and Boost Your Java Career](https://dev.to/max24816/best-spring-courses-in-2023-master-the-spring-framework-and-boost-your-java-career-1i2l)
-- [What are your goals for the week of August 7?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-august-7-3lc)
+- [Scrum: Uma introdução para iniciantes](https://dev.to/hivecommunity_/scrum-uma-introducao-para-iniciantes-3bkh)
+- [Setup your personal cloud](https://dev.to/technology-schaechner/setup-your-personal-cloud-d78)
+- [Lessons learned from messaging strangers on the internet](https://dev.to/leomeloxp/lessons-learned-from-messaging-strangers-on-the-internet-2m57)
+- [Grid in CSS: A Comprehensive Guide](https://dev.to/arsalanmee/grid-in-css-a-comprehensive-guide-5he6)
 <!-- BLOG-POST-LIST:END -->
 
