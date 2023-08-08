@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JS Shorthand Techniques Part-3: Ternary Operators, Arrays Methods, and Object Properties](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-3-2mb9)
+- [Using Object.create to clone](https://dev.to/idmontie/using-objectcreate-to-clone-30bp)
+- [SSH Authentication Process: Practical Walkthrough - Part 1](https://dev.to/thatechmaestro/ssh-authentication-process-practical-walkthrough-part-1-2k0o)
 - [Amazon RDS](https://dev.to/hasanelsherbiny/amazon-rds-3i16)
-- [Building a Real-Time Chat Gateway with NestJS: Testing WebSocket Features and Implementing Simple Private Messaging](https://dev.to/jfrancai/building-a-real-time-chat-gateway-with-nestjs-testing-websocket-features-and-implementing-simple-private-messaging-467l)
-- [React Custom Hook: useAsync](https://dev.to/sergeyleschev/react-custom-hook-useasync-2fk9)
-- [Build a Serverless Web Application with AWS Lambda, API Gateway,Amplify,DynamoDB and Cognito](https://dev.to/subashkumar/build-a-serverless-web-application-with-aws-lambda-api-gatewayamplifydynamodb-and-cognito-1kd9)
 <!-- BLOG-POST-LIST:END -->
 
