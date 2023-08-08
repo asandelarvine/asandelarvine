@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unearthing the Forgotten: Lesser-Known and Unused Programming Languages](https://dev.to/idurar/unearthing-the-forgotten-lesser-known-and-unused-programming-languages-4fdn)
-- [Simplifying Data Transfer: Methods for Moving Large Amounts of Data with Ease](https://dev.to/seeyouoncloud/simplifying-data-transfer-methods-for-moving-large-amounts-of-data-with-ease-494o)
-- [🪄 Migrating from RBAC to ABAC with Permit.io 🐕🤯](https://dev.to/permit_io/migrating-from-rbac-to-abac-with-permitio-1lko)
-- [Is OpenJDK Just a Drop-In Replacement?](https://dev.to/codenameone/is-openjdk-just-a-drop-in-replacement-4dok)
+- [You Could Be Wrong About Probability](https://dev.to/atkumar/you-could-be-wrong-about-probability-35p6)
+- [Open Source LLM: Llama 2](https://dev.to/nashetking/open-source-llm-llama-2-4icc)
+- [⚡An Introduction to Using FastAPI](https://dev.to/refine/an-introduction-to-using-fastapi-ieh)
+- [I created my first open source project on github.](https://dev.to/redbeardjunior/i-created-my-first-open-source-project-on-github-1fd7)
 <!-- BLOG-POST-LIST:END -->
 
