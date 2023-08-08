@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useClickOutside](https://dev.to/sergeyleschev/react-custom-hook-useclickoutside-2gb1)
+- [🚀Navigating Git Storms: A Comprehensive Guide to Overcoming Version Control Challenges🎉](https://dev.to/childerx/navigating-git-storms-a-comprehensive-guide-to-overcoming-version-control-challenges-725)
 - [200 Web-Based, Must-Try Web Design and Development Tools](https://dev.to/j9t/200-web-based-must-try-web-design-and-development-tools-fbc)
 - [Disallow GPT Bot from Scraping our Blog Posts](https://dev.to/ervin_szilagyi/disallow-gpt-bot-from-scraping-our-blog-posts-38pc)
-- [The simplest example to understand Server Actions in Next.js](https://dev.to/scastiel/the-simplest-example-to-understand-server-actions-in-nextjs-5533)
-- [Understanding Architecture in AWS](https://dev.to/aws-builders/understanding-architecture-in-aws-3i9d)
 <!-- BLOG-POST-LIST:END -->
 
