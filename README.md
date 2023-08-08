@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JS Shorthand Techniques Part-3: Ternary Operators, Arrays Methods, and Object Properties](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-3-2mb9)
-- [Using Object.create to clone](https://dev.to/idmontie/using-objectcreate-to-clone-30bp)
-- [SSH Authentication Process: Practical Walkthrough - Part 1](https://dev.to/thatechmaestro/ssh-authentication-process-practical-walkthrough-part-1-2k0o)
-- [Amazon RDS](https://dev.to/hasanelsherbiny/amazon-rds-3i16)
+- [Node.js asynchronous flow control and event loop](https://dev.to/amplication/nodejs-asynchronous-flow-control-and-event-loop-4aa5)
+- [Flutter&#39;s Rise in Web and Desktop Development: A Comprehensive Guide.](https://dev.to/yatendra2001/flutters-rise-in-web-and-desktop-development-a-comprehensive-guide-5dih)
+- [20 Essential Docker Commands Every Developer Should Know](https://dev.to/giasuddin90/20-essential-docker-commands-every-developer-should-know-34dk)
+- [Apache2 in Local Machine](https://dev.to/technonotes/apache2-in-local-machine-28no)
 <!-- BLOG-POST-LIST:END -->
 
