@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [gnu-on-alpine 3.18.3 and alpine-plus-plus 3.18.3 Released](https://dev.to/cicirello/gnu-on-alpine-3183-and-alpine-plus-plus-3183-released-256f)
+- [Utilizing VisX for React Data Visualization](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
+- [5 Ways to Center A Div](https://dev.to/jon_snow789/5-ways-to-center-a-div-22cg)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-26gk)
-- [Running The Feast Feature Store With Dragonfly](https://dev.to/dragonflydbio/running-the-feast-feature-store-with-dragonfly-195a)
-- [React Hooks: Cheat Sheet, with examples](https://dev.to/alakkadshaw/react-hooks-cheat-sheet-with-examples-4o30)
-- [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
 <!-- BLOG-POST-LIST:END -->
 
