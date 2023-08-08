@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Custom Hook: useClickOutside](https://dev.to/sergeyleschev/react-custom-hook-useclickoutside-2gb1)
-- [🚀Navigating Git Storms: A Comprehensive Guide to Overcoming Version Control Challenges🎉](https://dev.to/childerx/navigating-git-storms-a-comprehensive-guide-to-overcoming-version-control-challenges-725)
-- [200 Web-Based, Must-Try Web Design and Development Tools](https://dev.to/j9t/200-web-based-must-try-web-design-and-development-tools-fbc)
-- [Disallow GPT Bot from Scraping our Blog Posts](https://dev.to/ervin_szilagyi/disallow-gpt-bot-from-scraping-our-blog-posts-38pc)
+- [Which Tech Trends Missed the Mark?](https://dev.to/devteam/which-tech-trends-missed-the-mark-2f7p)
+- [Amazon API Gateway](https://dev.to/hasanelsherbiny/amazon-api-gateway-o64)
+- [Boost software testing productivity and improve skills with AI assistance](https://dev.to/n_demia/boost-software-testing-productivity-and-improve-skills-with-ai-assistance-1j22)
+- [Step-by-Step guide for implementing Amazon login on the web with OAuth](https://dev.to/hackmamba/step-by-step-guide-for-implementing-amazon-login-on-the-web-with-oauth-c6g)
 <!-- BLOG-POST-LIST:END -->
 
