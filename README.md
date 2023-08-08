@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ 7 open-source libraries you must know in 2023 🪄✨](https://dev.to/github20k/7-open-source-libraries-you-must-know-in-2023-2ach)
+- [Open Source ABCs: Evolution](https://dev.to/opensauced/open-source-abcs-evolution-4on6)
 - [Moonly weekly progress update #60 - Automatio FAQ](https://dev.to/moonly/moonly-weekly-progress-update-60-automatio-faq-18g1)
 - [What is API Integration?](https://dev.to/newsdataio/what-is-api-integration-4661)
-- [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript.](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia)
-- [Downloading All Images and Videos from a Web Page](https://dev.to/sh20raj/downloading-all-images-and-videos-from-a-web-page-530j)
 <!-- BLOG-POST-LIST:END -->
 
