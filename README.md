@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [gnu-on-alpine 3.18.3 and alpine-plus-plus 3.18.3 Released](https://dev.to/cicirello/gnu-on-alpine-3183-and-alpine-plus-plus-3183-released-256f)
+- [Debugging Typeform webhooks](https://dev.to/orliesaurus/debugging-typeform-webhooks-2m7j)
 - [Utilizing VisX for React Data Visualization](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
-- [5 Ways to Center A Div](https://dev.to/jon_snow789/5-ways-to-center-a-div-22cg)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-26gk)
+- [🔥 Create GPT-3 bot out of your own PDFs using Python](https://dev.to/adarshpunj/create-gpt-3-bot-out-of-your-own-pdfs-using-python-4fbm)
 <!-- BLOG-POST-LIST:END -->
 
