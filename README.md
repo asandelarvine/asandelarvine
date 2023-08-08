@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My final take on Gradle &lpar;vs. Maven&rpar;](https://dev.to/nfrankel/my-final-take-on-gradle-vs-maven-3dcd)
-- [Why Do I Need RSC&lpar;react server components&rpar; if I Already Have Remix](https://dev.to/zenstack/why-do-i-need-react-server-components-if-i-already-have-remix-595b)
-- [Understanding The Event Loop in NodeJs Easily.](https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m)
-- [Why does the indexing of array start with ZERO in C?](https://dev.to/skywind3000/why-does-the-indexing-of-array-start-with-zero-in-c-4djh)
+- [Moonly weekly progress update #60 - Automatio FAQ](https://dev.to/moonly/moonly-weekly-progress-update-60-automatio-faq-18g1)
+- [What is API Integration?](https://dev.to/newsdataio/what-is-api-integration-4661)
+- [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript.](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia)
+- [Downloading All Images and Videos from a Web Page](https://dev.to/sh20raj/downloading-all-images-and-videos-from-a-web-page-530j)
 <!-- BLOG-POST-LIST:END -->
 
