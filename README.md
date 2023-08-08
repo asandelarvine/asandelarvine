@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Could Be Wrong About Probability](https://dev.to/atkumar/you-could-be-wrong-about-probability-35p6)
-- [Open Source LLM: Llama 2](https://dev.to/nashetking/open-source-llm-llama-2-4icc)
-- [⚡An Introduction to Using FastAPI](https://dev.to/refine/an-introduction-to-using-fastapi-ieh)
-- [I created my first open source project on github.](https://dev.to/redbeardjunior/i-created-my-first-open-source-project-on-github-1fd7)
+- [How to set up Nextcloud webAuthn.](https://dev.to/technology-schaechner/how-to-set-up-nextcloud-webauthn-2c90)
+- [Stored Procedures: The Secret to Improving Your Database Applications](https://dev.to/immah/stored-procedures-the-secret-to-improving-your-database-applications-462g)
+- [How to clear Docker cache and free up space on your system](https://dev.to/kylegalbraith/how-to-clear-docker-cache-and-free-up-space-on-your-system-72f)
+- [Time Management Techniques for Developers: 10 Tips to Boost Productivity](https://dev.to/athifbinu/time-management-techniques-for-developers-10-tips-to-boost-productivity-4518)
 <!-- BLOG-POST-LIST:END -->
 
