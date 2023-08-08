@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-26gk)
+- [Running The Feast Feature Store With Dragonfly](https://dev.to/dragonflydbio/running-the-feast-feature-store-with-dragonfly-195a)
 - [React Hooks: Cheat Sheet, with examples](https://dev.to/alakkadshaw/react-hooks-cheat-sheet-with-examples-4o30)
 - [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
-- [25 Essential Linux Commands &lpar;CLI&rpar;](https://dev.to/mike_in_tech/25-essential-linux-commands-cli-3j8p)
-- [How to set up Nextcloud webAuthn.](https://dev.to/technology-schaechner/how-to-set-up-nextcloud-webauthn-2c90)
 <!-- BLOG-POST-LIST:END -->
 
