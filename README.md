@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Hooks: Cheat Sheet, with examples](https://dev.to/alakkadshaw/react-hooks-cheat-sheet-with-examples-4o30)
+- [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
+- [25 Essential Linux Commands &lpar;CLI&rpar;](https://dev.to/mike_in_tech/25-essential-linux-commands-cli-3j8p)
 - [How to set up Nextcloud webAuthn.](https://dev.to/technology-schaechner/how-to-set-up-nextcloud-webauthn-2c90)
-- [Stored Procedures: The Secret to Improving Your Database Applications](https://dev.to/immah/stored-procedures-the-secret-to-improving-your-database-applications-462g)
-- [How to clear Docker cache and free up space on your system](https://dev.to/kylegalbraith/how-to-clear-docker-cache-and-free-up-space-on-your-system-72f)
-- [Time Management Techniques for Developers: 10 Tips to Boost Productivity](https://dev.to/athifbinu/time-management-techniques-for-developers-10-tips-to-boost-productivity-4518)
 <!-- BLOG-POST-LIST:END -->
 
