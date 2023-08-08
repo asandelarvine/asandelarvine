@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Future-Proofing Your Coding Odyssey: Innovation or Stability?](https://dev.to/codenewbieteam/future-proofing-your-coding-odyssey-innovation-or-stability-16e9)
-- [How to Deploy a Node.js App to DigitalOcean?](https://dev.to/puratabla/how-to-deploy-a-nodejs-app-to-digitalocean-1en1)
-- [Why is it important to write good code?](https://dev.to/mikenjuki/why-is-it-important-to-write-good-code-pke)
-- [Node.js asynchronous flow control and event loop](https://dev.to/amplication/nodejs-asynchronous-flow-control-and-event-loop-4aa5)
+- [Why does the indexing of array start with ZERO in C?](https://dev.to/skywind3000/why-does-the-indexing-of-array-start-with-zero-in-c-4djh)
+- [Building a Simple Animated Accordion Component with Tailwind CSS](https://dev.to/cruip_com/building-a-simple-animated-accordion-component-with-tailwind-css-2af7)
+- [My PHP login page is not working.](https://dev.to/oplueas/my-php-login-page-is-not-working-2hb8)
+- [Updating Ubuntu has never been easier](https://dev.to/technology-schaechner/updating-ubuntu-has-never-been-easier-3k74)
 <!-- BLOG-POST-LIST:END -->
 
