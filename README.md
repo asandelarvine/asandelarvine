@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 7 open-source libraries you must know in 2023 🪄✨](https://dev.to/github20k/7-open-source-libraries-you-must-know-in-2023-2ach)
-- [Open Source ABCs: Evolution](https://dev.to/opensauced/open-source-abcs-evolution-4on6)
-- [Moonly weekly progress update #60 - Automatio FAQ](https://dev.to/moonly/moonly-weekly-progress-update-60-automatio-faq-18g1)
-- [What is API Integration?](https://dev.to/newsdataio/what-is-api-integration-4661)
+- [🪄 Migrating from RBAC to ABAC with Permit.io 🐕🤯](https://dev.to/permit_io/migrating-from-rbac-to-abac-with-permitio-1lko)
+- [Is OpenJDK Just a Drop-In Replacement?](https://dev.to/codenameone/is-openjdk-just-a-drop-in-replacement-4dok)
+- [Biometric Authentication in Flutter&lpar;Face ID/ Fingerprint&rpar;](https://dev.to/fluttertanzania/biometric-authenticationin-flutterface-id-fingerprint-20gl)
+- [Reset centOS root password](https://dev.to/technology-schaechner/reset-centos-root-password-25l0)
 <!-- BLOG-POST-LIST:END -->
 
