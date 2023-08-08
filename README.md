@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a Node.js App to DigitalOcean?](https://dev.to/puratabla/how-to-deploy-a-nodejs-app-to-digitalocean-1en1)
+- [Why is it important to write good code?](https://dev.to/mikenjuki/why-is-it-important-to-write-good-code-pke)
 - [Node.js asynchronous flow control and event loop](https://dev.to/amplication/nodejs-asynchronous-flow-control-and-event-loop-4aa5)
 - [Flutter&#39;s Rise in Web and Desktop Development: A Comprehensive Guide.](https://dev.to/yatendra2001/flutters-rise-in-web-and-desktop-development-a-comprehensive-guide-5dih)
-- [20 Essential Docker Commands Every Developer Should Know](https://dev.to/giasuddin90/20-essential-docker-commands-every-developer-should-know-34dk)
-- [Apache2 in Local Machine](https://dev.to/technonotes/apache2-in-local-machine-28no)
 <!-- BLOG-POST-LIST:END -->
 
