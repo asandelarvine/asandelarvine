@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [gnu-on-alpine 3.18.3 and alpine-plus-plus 3.18.3 Released](https://dev.to/cicirello/gnu-on-alpine-3183-and-alpine-plus-plus-3183-released-256f)
-- [Debugging Typeform webhooks](https://dev.to/orliesaurus/debugging-typeform-webhooks-2m7j)
-- [Utilizing VisX for React Data Visualization](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
-- [🔥 Create GPT-3 bot out of your own PDFs using Python](https://dev.to/adarshpunj/create-gpt-3-bot-out-of-your-own-pdfs-using-python-4fbm)
+- [200 Web-Based, Must-Try Web Design and Development Tools](https://dev.to/j9t/200-web-based-must-try-web-design-and-development-tools-fbc)
+- [Disallow GPT Bot from Scraping our Blog Posts](https://dev.to/ervin_szilagyi/disallow-gpt-bot-from-scraping-our-blog-posts-38pc)
+- [The simplest example to understand Server Actions in Next.js](https://dev.to/scastiel/the-simplest-example-to-understand-server-actions-in-nextjs-5533)
+- [Understanding Architecture in AWS](https://dev.to/aws-builders/understanding-architecture-in-aws-3i9d)
 <!-- BLOG-POST-LIST:END -->
 
