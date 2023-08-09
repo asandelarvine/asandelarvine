@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals of the Internet 🌐: The Basics 📚](https://dev.to/arjuncodess/fundamentals-of-the-internet-the-basics-59mb)
+- [Semaphore in Operating System with implementation in C](https://dev.to/endeavourmonk/semaphore-in-operating-system-with-its-own-implementation-in-c-19ia)
 - [The web is broken, and developers let it happen](https://dev.to/soulwish/the-web-is-broken-and-developers-let-it-happen-3cm5)
 - [Creating an animated navbar inspired by Vercel for my personal site using React &lpar;Next.js v13&rpar;, Framer-Motion, and Tailwind CSS](https://dev.to/asheeshh/creating-an-animated-navbar-inspired-by-vercel-for-my-personal-site-using-react-nextjs-v13-framer-motion-and-tailwind-css-7ki)
-- [GitHub Organisations](https://dev.to/davorg/github-organisations-1fb4)
-- [Caching Git Repos: A Deep Dive into OpenSauced’s ‘Pizza Oven’ Service](https://dev.to/opensauced/caching-git-repos-a-deep-dive-into-opensauceds-pizza-oven-service-49nf)
 <!-- BLOG-POST-LIST:END -->
 
