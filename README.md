@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To Python Programming - part 2](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-2-3f36)
-- [Use Pseudocode for a more efficient &lpar;and headache-free&rpar; coding](https://dev.to/kinsta/use-pseudocode-for-a-more-efficient-and-headache-free-coding-2o5e)
-- [Azure Networking fundamental](https://dev.to/omiossec/azure-networking-fundamental-4oa9)
-- [Supabase Studio 3.0: AI SQL Editor, Schema Diagrams, and new Wrappers](https://dev.to/supabase/supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-297f)
+- [Navigating a Standard .NET API Service: A Real Estate Example](https://dev.to/josemariairiarte/navigating-a-standard-net-api-service-a-real-estate-example-1heb)
+- [The Constant Gardener](https://dev.to/jameslau/the-constant-gardener-531l)
+- [Neumorphism Button Styles in CSS](https://dev.to/jon_snow789/neumorphism-button-styles-in-css-26of)
+- [Exploring the Cutting-Edge: Frontend AI Tools Transforming Companies](https://dev.to/yogeshhack/exploring-the-cutting-edge-frontend-ai-tools-transforming-companies-166m)
 <!-- BLOG-POST-LIST:END -->
 
