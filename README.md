@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose for Maps](https://dev.to/darrylbayliss/jetpack-compose-for-maps-4ip2)
 - [Bandit Level 10 Level 11](https://dev.to/christianpaez/bandit-level-10-level-11-pj1)
 - [Navigating a Standard .NET API Service: A Real Estate Example](https://dev.to/josemariairiarte/navigating-a-standard-net-api-service-a-real-estate-example-1heb)
 - [The Constant Gardener](https://dev.to/jameslau/the-constant-gardener-531l)
-- [Neumorphism Button Styles in CSS](https://dev.to/jon_snow789/neumorphism-button-styles-in-css-26of)
 <!-- BLOG-POST-LIST:END -->
 
