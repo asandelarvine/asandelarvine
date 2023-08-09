@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Caching Git Repos: A Deep Dive into OpenSauced’s ‘Pizza Oven’ Service](https://dev.to/opensauced/caching-git-repos-a-deep-dive-into-opensauceds-pizza-oven-service-49nf)
+- [The Significance of HTML in the Programming World: Building the Foundation of the Web](https://dev.to/idurar/the-significance-of-html-in-the-programming-world-building-the-foundation-of-the-web-4k77)
+- [The Pyramide-Shadow path](https://dev.to/dimple031/the-pyramide-shadow-path-4bf9)
 - [Why Most Android Apps Fail in the Market? Unveiling the Challenges and Solutions](https://dev.to/dhruvjoshi9/why-most-android-apps-fail-in-the-market-unveiling-the-challenges-and-solutions-37go)
-- [Comparing Tortoise and Bark for Voice Synthesis](https://dev.to/mikeyoung44/comparing-tortoise-and-bark-for-voice-synthesis-1nlb)
-- [Building a multilingual NextJS app using the new app directory](https://dev.to/codegino/building-a-multilingual-nextjs-app-using-the-new-app-directory-2anf)
-- [Build a real-time voting app with WebSockets, React &amp; TypeScript 🔌⚡️](https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-1bm9)
 <!-- BLOG-POST-LIST:END -->
 
