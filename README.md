@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useCookie](https://dev.to/sergeyleschev/react-custom-hook-usecookie-5e35)
+- [Simplified: 8 Guidelines for Commit Message](https://dev.to/titusnjuguna/simplified-8-guidelines-for-commit-message-536g)
+- [Mountpoint for Amazon S3 is now generally available and ready for production workloads 🚀](https://dev.to/aws-builders/mountpoint-for-amazon-s3-is-now-generally-available-and-ready-for-production-workloads-1kdl)
 - [Jetpack Compose for Maps](https://dev.to/darrylbayliss/jetpack-compose-for-maps-4ip2)
-- [Bandit Level 10 Level 11](https://dev.to/christianpaez/bandit-level-10-level-11-pj1)
-- [Navigating a Standard .NET API Service: A Real Estate Example](https://dev.to/josemariairiarte/navigating-a-standard-net-api-service-a-real-estate-example-1heb)
-- [The Constant Gardener](https://dev.to/jameslau/the-constant-gardener-531l)
 <!-- BLOG-POST-LIST:END -->
 
