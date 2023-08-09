@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentals of the Internet 🌐: The Basics 📚](https://dev.to/arjuncodess/fundamentals-of-the-internet-the-basics-59mb)
-- [Semaphore in Operating System with implementation in C](https://dev.to/endeavourmonk/semaphore-in-operating-system-with-its-own-implementation-in-c-19ia)
-- [The web is broken, and developers let it happen](https://dev.to/soulwish/the-web-is-broken-and-developers-let-it-happen-3cm5)
-- [Creating an animated navbar inspired by Vercel for my personal site using React &lpar;Next.js v13&rpar;, Framer-Motion, and Tailwind CSS](https://dev.to/asheeshh/creating-an-animated-navbar-inspired-by-vercel-for-my-personal-site-using-react-nextjs-v13-framer-motion-and-tailwind-css-7ki)
+- [cloneElement in React? important for interview](https://dev.to/diwakarkashyap/cloneelement-in-react-important-for-interview-40n8)
+- [🎨 The Ultimate Guide to Web Design Rules and Best Practices: Creating Exceptional User Experiences](https://dev.to/mohiyaddeen7/the-ultimate-guide-to-web-design-rules-and-best-practices-creating-exceptional-user-experiences-35oe)
+- [The Moq-gate: You Either Die a Hero...](https://dev.to/pbouillon/the-moq-gate-you-either-die-a-hero-8)
+- [Amazon DynamoDB](https://dev.to/hasanelsherbiny/amazon-dynamodb-mhp)
 <!-- BLOG-POST-LIST:END -->
 
