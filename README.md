@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React State vs. React Context: Deciding How to Manage State](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
+- [Binary Tree 3.0](https://dev.to/livshits_ivan/binary-tree-30-4jjo)
 - [React Custom Hook: useCookie](https://dev.to/sergeyleschev/react-custom-hook-usecookie-5e35)
 - [Simplified: 8 Guidelines for Commit Message](https://dev.to/titusnjuguna/simplified-8-guidelines-for-commit-message-536g)
-- [Mountpoint for Amazon S3 is now generally available and ready for production workloads 🚀](https://dev.to/aws-builders/mountpoint-for-amazon-s3-is-now-generally-available-and-ready-for-production-workloads-1kdl)
-- [Jetpack Compose for Maps](https://dev.to/darrylbayliss/jetpack-compose-for-maps-4ip2)
 <!-- BLOG-POST-LIST:END -->
 
