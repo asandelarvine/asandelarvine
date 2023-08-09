@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The web is broken, and developers let it happen](https://dev.to/soulwish/the-web-is-broken-and-developers-let-it-happen-3cm5)
+- [Creating an animated navbar inspired by Vercel for my personal site using React &lpar;Next.js v13&rpar;, Framer-Motion, and Tailwind CSS](https://dev.to/asheeshh/creating-an-animated-navbar-inspired-by-vercel-for-my-personal-site-using-react-nextjs-v13-framer-motion-and-tailwind-css-7ki)
+- [GitHub Organisations](https://dev.to/davorg/github-organisations-1fb4)
 - [Caching Git Repos: A Deep Dive into OpenSauced’s ‘Pizza Oven’ Service](https://dev.to/opensauced/caching-git-repos-a-deep-dive-into-opensauceds-pizza-oven-service-49nf)
-- [The Significance of HTML in the Programming World: Building the Foundation of the Web](https://dev.to/idurar/the-significance-of-html-in-the-programming-world-building-the-foundation-of-the-web-4k77)
-- [The Pyramide-Shadow path](https://dev.to/dimple031/the-pyramide-shadow-path-4bf9)
-- [Why Most Android Apps Fail in the Market? Unveiling the Challenges and Solutions](https://dev.to/dhruvjoshi9/why-most-android-apps-fail-in-the-market-unveiling-the-challenges-and-solutions-37go)
 <!-- BLOG-POST-LIST:END -->
 
