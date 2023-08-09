@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kettlebells &amp; Code: Dev Health](https://dev.to/nickytonline/kettlebells-code-dev-health-3eim)
+- [Testing the Redux Store using Cypress in Next.js &lpar;TypeScript&rpar;](https://dev.to/rashidshamloo/testing-the-redux-store-using-cypress-in-nextjs-typescript-1k6o)
 - [Introdução a APIS s](https://dev.to/leviackr/introducao-a-apiss-3jp0)
 - [How to get a beautiful Github Profile](https://dev.to/linnovel/how-to-get-a-beautiful-github-profile-19n5)
-- [Telegram Channel Developer Cheatsheet](https://dev.to/colinmcdermott/telegram-channel-developer-cheatsheet-bci)
-- [New Relic Interactive Application Security Testing &lpar;IAST&rpar; - Data Sheet](https://dev.to/newrelic/new-relic-interactive-application-security-testing-iast-data-sheet-fn0)
 <!-- BLOG-POST-LIST:END -->
 
