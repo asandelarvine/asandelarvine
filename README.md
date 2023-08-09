@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Remote Work Uproot Your Routine?](https://dev.to/devteam/did-remote-work-uproot-your-routine-490b)
+- [How to get more suggestions from GitHub Copilot](https://dev.to/github/how-to-get-more-suggestions-from-github-copilot-12i2)
 - [Finding Your Coding Habitat: Where Do You Thrive Best?](https://dev.to/codenewbieteam/finding-your-coding-habitat-where-do-you-thrive-best-1bk5)
-- [Clean UI Guide: 15 White Space Design Tips 🚀💡](https://dev.to/margishpatel/clean-ui-guide-15-white-space-design-tips-3fkg)
-- [Kettlebells &amp; Code: Dev Health](https://dev.to/nickytonline/kettlebells-code-dev-health-3eim)
+- [Did Remote Work Uproot Your Routine?](https://dev.to/devteam/did-remote-work-uproot-your-routine-490b)
+- [Cloud Providers Showdown: AWS vs. Azure vs. Google Cloud](https://dev.to/iamcymentho/cloud-providers-showdown-aws-vs-azure-vs-google-cloud-424o)
 <!-- BLOG-POST-LIST:END -->
 
