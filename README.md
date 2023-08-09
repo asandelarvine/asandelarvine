@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [cloneElement in React? important for interview](https://dev.to/diwakarkashyap/cloneelement-in-react-important-for-interview-40n8)
-- [🎨 The Ultimate Guide to Web Design Rules and Best Practices: Creating Exceptional User Experiences](https://dev.to/mohiyaddeen7/the-ultimate-guide-to-web-design-rules-and-best-practices-creating-exceptional-user-experiences-35oe)
-- [The Moq-gate: You Either Die a Hero...](https://dev.to/pbouillon/the-moq-gate-you-either-die-a-hero-8)
-- [Amazon DynamoDB](https://dev.to/hasanelsherbiny/amazon-dynamodb-mhp)
+- [Introduction To Python Programming - part 2](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-2-3f36)
+- [Use Pseudocode for a more efficient &lpar;and headache-free&rpar; coding](https://dev.to/kinsta/use-pseudocode-for-a-more-efficient-and-headache-free-coding-2o5e)
+- [Azure Networking fundamental](https://dev.to/omiossec/azure-networking-fundamental-4oa9)
+- [Supabase Studio 3.0: AI SQL Editor, Schema Diagrams, and new Wrappers](https://dev.to/supabase/supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-297f)
 <!-- BLOG-POST-LIST:END -->
 
