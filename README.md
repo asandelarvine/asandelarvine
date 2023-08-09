@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Tech Trends Missed the Mark?](https://dev.to/devteam/which-tech-trends-missed-the-mark-2f7p)
-- [Amazon API Gateway](https://dev.to/hasanelsherbiny/amazon-api-gateway-o64)
-- [Boost software testing productivity and improve skills with AI assistance](https://dev.to/n_demia/boost-software-testing-productivity-and-improve-skills-with-ai-assistance-1j22)
-- [Step-by-Step guide for implementing Amazon login on the web with OAuth](https://dev.to/hackmamba/step-by-step-guide-for-implementing-amazon-login-on-the-web-with-oauth-c6g)
+- [How to get a beautiful Github Profile](https://dev.to/linnovel/how-to-get-a-beautiful-github-profile-19n5)
+- [Telegram Channel Developer Cheatsheet](https://dev.to/colinmcdermott/telegram-channel-developer-cheatsheet-bci)
+- [Configure Grafana Cloud SAML to work with JumpCloud](https://dev.to/hronom/configure-grafana-cloud-saml-to-work-with-jumpcloud-2l92)
+- [The Ultimate Guide to building a UI Library](https://dev.to/byteflowinc/the-ultimate-guide-to-building-a-ui-library-mbp)
 <!-- BLOG-POST-LIST:END -->
 
