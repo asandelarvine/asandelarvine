@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Did Remote Work Uproot Your Routine?](https://dev.to/devteam/did-remote-work-uproot-your-routine-490b)
+- [Finding Your Coding Habitat: Where Do You Thrive Best?](https://dev.to/codenewbieteam/finding-your-coding-habitat-where-do-you-thrive-best-1bk5)
 - [Clean UI Guide: 15 White Space Design Tips 🚀💡](https://dev.to/margishpatel/clean-ui-guide-15-white-space-design-tips-3fkg)
 - [Kettlebells &amp; Code: Dev Health](https://dev.to/nickytonline/kettlebells-code-dev-health-3eim)
-- [A Guide to Python](https://dev.to/cry/a-guide-to-python-48ob)
-- [Testing the Redux Store using Cypress in Next.js &lpar;TypeScript&rpar;](https://dev.to/rashidshamloo/testing-the-redux-store-using-cypress-in-nextjs-typescript-1k6o)
 <!-- BLOG-POST-LIST:END -->
 
