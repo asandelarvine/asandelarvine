@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introdução a APIS s](https://dev.to/leviackr/introducao-a-apiss-3jp0)
 - [How to get a beautiful Github Profile](https://dev.to/linnovel/how-to-get-a-beautiful-github-profile-19n5)
 - [Telegram Channel Developer Cheatsheet](https://dev.to/colinmcdermott/telegram-channel-developer-cheatsheet-bci)
 - [Configure Grafana Cloud SAML to work with JumpCloud](https://dev.to/hronom/configure-grafana-cloud-saml-to-work-with-jumpcloud-2l92)
-- [The Ultimate Guide to building a UI Library](https://dev.to/byteflowinc/the-ultimate-guide-to-building-a-ui-library-mbp)
 <!-- BLOG-POST-LIST:END -->
 
