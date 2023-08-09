@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Undoing the Most Recent Local Commits in Git: A Step-by-Step Guide](https://dev.to/iamcymentho/undoing-the-most-recent-local-commits-in-git-a-step-by-step-guide-39d6)
+- [An 18+ joke](https://dev.to/b1ek/an-18-joke-31km)
 - [High-Performing Engineering Teams @ Meta/Facebook](https://dev.to/alexr/high-performing-engineering-teams-metafacebook-9f)
 - [Getting Started with React Native in 2023: An Comprehensive Guide for Beginners](https://dev.to/dravidjones28/getting-started-with-react-native-in-2023-an-comprehensive-guide-for-beginners-2b3e)
-- [Welcome Thread - v237](https://dev.to/devteam/welcome-thread-v239-2oij)
-- [Learn to protect passwords with Bcrypt hash in a few minutes.](https://dev.to/stevepurpose/learn-to-protect-passwords-with-bcrypt-hash-in-a-few-minutes-c82)
 <!-- BLOG-POST-LIST:END -->
 
