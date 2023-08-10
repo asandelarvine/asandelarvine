@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: AI Coding Tools](https://dev.to/devteam/devdiscuss-ai-coding-tools-489b)
 - [React State vs. React Context: Deciding How to Manage State](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
+- [Embarking on a Cloud Adventure: Unveiling the Magic of Cloud Computing](https://dev.to/arbythecoder/embarking-on-a-cloud-adventure-unveiling-the-magic-of-cloud-computing-118c)
 - [Binary Tree 3.0](https://dev.to/livshits_ivan/binary-tree-30-4jjo)
-- [React Custom Hook: useCookie](https://dev.to/sergeyleschev/react-custom-hook-usecookie-5e35)
-- [Simplified: 8 Guidelines for Commit Message](https://dev.to/titusnjuguna/simplified-8-guidelines-for-commit-message-536g)
 <!-- BLOG-POST-LIST:END -->
 
