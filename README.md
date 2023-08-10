@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Host your own 🖊️blog, chat, community and courses for FREE🆓.](https://dev.to/schbenedikt/host-your-own-blog-chat-community-and-courses-for-free-pa0)
+- [TaiPy - Some quirks](https://dev.to/gbritoda/taipy-some-quirks-6b4)
 - [AWS IAM](https://dev.to/hasanelsherbiny/aws-iam-1b4d)
 - [50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [10th Aug, 2023]](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-10th-aug-2023-2445)
-- [💡 What&#39;s new in txtai 6.0](https://dev.to/neuml/whats-new-in-txtai-60-l8h)
-- [Circles transformation shade](https://dev.to/dimple031/circles-transformation-shade-3b01)
 <!-- BLOG-POST-LIST:END -->
 
