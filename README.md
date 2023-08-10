@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of JavaScript: From Vanilla to Modern ES2023 Features](https://dev.to/digitalpollution/the-evolution-of-javascript-from-vanilla-to-modern-es2023-features-5bj0)
-- [Differentiating Zustand and Redux](https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6)
-- [Reflecting on my first React app](https://dev.to/mishmishel/reflecting-on-my-first-react-app-27ei)
-- [Learn Godot 4 by Making a 2D Platformer — Part 22: Music &amp; SFX](https://dev.to/christinec_dev/learn-godot-4-by-making-a-2d-platformer-part-22-music-sfx-1ome)
+- [Linux Devices Management](https://dev.to/scorcism/linux-devices-management-2e18)
+- [createContext in React? Important for Interview and Development](https://dev.to/diwakarkashyap/createcontext-in-react-important-for-interview-and-development-22d3)
+- [Navigating Challenges and Embracing Growth: Insights from a Software Engineer&#39;s Journey](https://dev.to/sushantchhetryy/navigating-challenges-and-embracing-growth-insights-from-a-software-engineers-journey-3mi0)
+- [10+ Complex typeScript type defining Tips for Development](https://dev.to/lakshmananarumugam/10-complex-typescript-type-defining-tips-for-development-1p3n)
 <!-- BLOG-POST-LIST:END -->
 
