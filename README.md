@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useCopyToClipboard](https://dev.to/sergeyleschev/react-custom-hook-usecopytoclipboard-48p6)
+- [ScoreCast: A Tool for Predicting Football Game Outcomes in Minor Leagues](https://dev.to/costas8/scorecast-a-tool-for-predicting-football-game-outcomes-in-minor-leagues-4m19)
+- [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-491d)
 - [Bringing Javascipt Files Together: How to Combine Them](https://dev.to/avwerosuoghene/bringing-javascipt-files-together-how-to-combine-them-4819)
-- [Electron with React: The Ultimate guide to create cross platform desktop apps easily](https://dev.to/navdeepm20/electron-with-react-create-cross-platform-desktop-app-easily-1a13)
-- [Two+ things I do every time I set up a new node project](https://dev.to/receter/two-things-i-do-every-time-i-set-up-a-new-node-project-1mg3)
-- [Community Highlights: Svelte Storefront, Medusa Flutter Admin, and lots of new plugins](https://dev.to/medusajs/community-highlights-svelte-storefront-medusa-flutter-admin-and-lots-of-new-plugins-4jia)
 <!-- BLOG-POST-LIST:END -->
 
