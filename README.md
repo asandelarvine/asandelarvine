@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Money with ChatGPT: Unleashing the Potential of ChatGPT Empire](https://dev.to/ronakmunjapara/making-money-with-chatgpt-unleashing-the-potential-of-chatgpt-empire-2dl3)
 - [React Custom Hook: useCopyToClipboard](https://dev.to/sergeyleschev/react-custom-hook-usecopytoclipboard-48p6)
 - [ScoreCast: A Tool for Predicting Football Game Outcomes in Minor Leagues](https://dev.to/costas8/scorecast-a-tool-for-predicting-football-game-outcomes-in-minor-leagues-4m19)
 - [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-491d)
-- [Bringing Javascipt Files Together: How to Combine Them](https://dev.to/avwerosuoghene/bringing-javascipt-files-together-how-to-combine-them-4819)
 <!-- BLOG-POST-LIST:END -->
 
