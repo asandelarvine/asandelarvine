@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #155: RSC DevTools, Next.js Caching, Expo Party, Graph Gallery, Astro, Storybook, Remix, Reanimated...](https://dev.to/sebastienlorber/this-week-in-react-155-rsc-devtools-nextjs-caching-expo-party-graph-gallery-astro-storybook-remix-reanimated-1g08)
 - [What&#39;s an Achievement You Were Initially Nervous to Share?](https://dev.to/codenewbieteam/whats-an-achievement-you-were-initially-nervous-to-share-1fbf)
 - [How to use Azure VM metadata service to automate post-provisioning metadata configuration in your IaC for VMSS](https://dev.to/mahrrah/how-to-use-azure-vm-metadata-service-to-automate-post-provisioning-metadata-configuration-in-your-iac-for-vmss-32g9)
 - [Linux Processes](https://dev.to/scorcism/linux-processes-49g1)
-- [Linux file system](https://dev.to/scorcism/linux-file-system-217i)
 <!-- BLOG-POST-LIST:END -->
 
