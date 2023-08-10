@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What if Apps had superpowers](https://dev.to/fred_abkb/what-if-apps-had-superpowers-373f)
-- [Host your own 🖊️blog, chat, community and courses for FREE🆓.](https://dev.to/schbenedikt/host-your-own-blog-chat-community-and-courses-for-free-pa0)
-- [TaiPy - Some quirks with a neat Python GUI library](https://dev.to/gbritoda/taipy-some-quirks-6b4)
-- [AWS IAM](https://dev.to/hasanelsherbiny/aws-iam-1b4d)
+- [Web Scraping with Python: A Quick Guide to Scrape Data from Website](https://dev.to/dhruvjoshi9/web-scraping-with-python-a-quick-guide-to-scrape-data-from-website-n3o)
+- [class, constructor and magic methods !](https://dev.to/coderatul/class-constructor-and-magic-methods--2195)
+- [What Lessons Have You Learned from Remote Work?](https://dev.to/devteam/what-lessons-have-you-learned-from-remote-work-1hh7)
+- [Ubuntu 22.04&#39;te systemd-timesyncd ile NTP İstemcisi Yapılandırma](https://dev.to/aciklab/ubuntu-2204te-systemd-timesyncd-ile-ntp-istemcisi-yapilandirma-3d3k)
 <!-- BLOG-POST-LIST:END -->
 
