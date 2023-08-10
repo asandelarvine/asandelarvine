@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux file system](https://dev.to/scorcism/linux-file-system-217i)
+- [DevRel is not a big deal: How to do it like a PRO?](https://dev.to/codingnninja/devrel-is-not-a-big-deal-how-to-do-it-like-a-pro-16e7)
+- [Linux Kernel](https://dev.to/scorcism/linux-kernel-4don)
 - [Linux Devices Management](https://dev.to/scorcism/linux-devices-management-2e18)
-- [createContext in React? Important for Interview and Development](https://dev.to/diwakarkashyap/createcontext-in-react-important-for-interview-and-development-22d3)
-- [Navigating Challenges and Embracing Growth: Insights from a Software Engineer&#39;s Journey](https://dev.to/sushantchhetryy/navigating-challenges-and-embracing-growth-insights-from-a-software-engineers-journey-3mi0)
-- [10+ Complex typeScript type defining Tips for Development](https://dev.to/lakshmananarumugam/10-complex-typescript-type-defining-tips-for-development-1p3n)
 <!-- BLOG-POST-LIST:END -->
 
