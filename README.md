@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux - INODE](https://dev.to/scorcism/linux-inode-1a2g)
-- [Sloan&#39;s Inbox: Applying for jobs with an inactive GitHub profile?](https://dev.to/devteam/sloans-inbox-applying-for-jobs-with-an-inactive-github-profile-31je)
-- [How to Acquire Users for Your Developer Tool? with Rishabh Kaul &lpar;Appsmith&rpar;](https://dev.to/jonathimer/how-to-acquire-users-for-your-developer-tool-with-rishabh-kaul-appsmith-3jch)
-- [Developing A Task Management ChatGPT Plugin with Typescript](https://dev.to/jamesoyanna/developing-a-task-management-chatgpt-plugin-with-typescript-a5m)
+- [Build a Discord Bot Using Visual Programming in VSCode With Flyde](https://dev.to/gabigrin/build-a-discord-bot-using-visual-programming-in-vscode-with-flyde-1o3d)
+- [Flutter Inception: A Free Shorebird Alternative](https://dev.to/codeontherocks/flutter-inception-a-free-shorebird-alternative-5hif)
+- [CSS TRANSITIONS](https://dev.to/stanthewebdev/css-transitions-4h71)
+- [Dockerfile](https://dev.to/scorcism/dockerfile-12ho)
 <!-- BLOG-POST-LIST:END -->
 
