@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of JavaScript: From Vanilla to Modern ES2023 Features](https://dev.to/digitalpollution/the-evolution-of-javascript-from-vanilla-to-modern-es2023-features-5bj0)
 - [Differentiating Zustand and Redux](https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6)
 - [Reflecting on my first React app](https://dev.to/mishmishel/reflecting-on-my-first-react-app-27ei)
 - [Learn Godot 4 by Making a 2D Platformer — Part 22: Music &amp; SFX](https://dev.to/christinec_dev/learn-godot-4-by-making-a-2d-platformer-part-22-music-sfx-1ome)
-- [Unveiling the Mystery: How the `DESC` Command Creates Temporary Tables in MySQL/MariaDB](https://dev.to/n0nag0n/unveiling-the-mystery-how-the-desc-command-creates-temporary-tables-in-mysqlmariadb-2m6e)
 <!-- BLOG-POST-LIST:END -->
 
