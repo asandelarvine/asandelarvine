@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Integrations Marketplace](https://dev.to/supabase/supabase-integrations-marketplace-o9o)
-- [Vercel Integration and Next.js App Router Support](https://dev.to/supabase/vercel-integration-and-nextjs-app-router-support-282g)
-- [How I Tackled the AWS Developer Associate Exam &lpar;DVA-C02&rpar;](https://dev.to/brandondamue/how-i-tackled-the-aws-developer-associate-exam-dva-c02-41hm)
-- [Networking - OSI](https://dev.to/scorcism/networking-osi-26ni)
+- [Bringing Javascipt Files Together: How to Combine Them](https://dev.to/avwerosuoghene/bringing-javascipt-files-together-how-to-combine-them-4819)
+- [Electron with React: The Ultimate guide to create cross platform desktop apps easily](https://dev.to/navdeepm20/electron-with-react-create-cross-platform-desktop-app-easily-1a13)
+- [Two+ things I do every time I set up a new node project](https://dev.to/receter/two-things-i-do-every-time-i-set-up-a-new-node-project-1mg3)
+- [Community Highlights: Svelte Storefront, Medusa Flutter Admin, and lots of new plugins](https://dev.to/medusajs/community-highlights-svelte-storefront-medusa-flutter-admin-and-lots-of-new-plugins-4jia)
 <!-- BLOG-POST-LIST:END -->
 
