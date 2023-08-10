@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS IAM](https://dev.to/hasanelsherbiny/aws-iam-1b4d)
+- [50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [10th Aug, 2023]](https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-10th-aug-2023-2445)
+- [💡 What&#39;s new in txtai 6.0](https://dev.to/neuml/whats-new-in-txtai-60-l8h)
 - [Circles transformation shade](https://dev.to/dimple031/circles-transformation-shade-3b01)
-- [Introducing Kids to Coding Through Tkinter: A Fun Path to Python&#39;s Graphical User Interfaces](https://dev.to/phylis/introducing-kids-to-coding-through-tkinter-a-fun-path-to-pythons-graphical-user-interfaces-135c)
-- [7 GitHub Repositories to help you Master Flutter in no time! 🚀](https://dev.to/yatendra2001/7-github-repositories-to-help-you-master-flutter-in-no-time-pi0)
-- [The Role of Queues in Building Efficient Distributed Applications](https://dev.to/amplication/the-role-of-queues-in-building-efficient-distributed-applications-1i6e)
 <!-- BLOG-POST-LIST:END -->
 
