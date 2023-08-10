@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s an Achievement You Were Initially Nervous to Share?](https://dev.to/codenewbieteam/whats-an-achievement-you-were-initially-nervous-to-share-1fbf)
+- [How to use Azure VM metadata service to automate post-provisioning metadata configuration in your IaC for VMSS](https://dev.to/mahrrah/how-to-use-azure-vm-metadata-service-to-automate-post-provisioning-metadata-configuration-in-your-iac-for-vmss-32g9)
+- [Linux Processes](https://dev.to/scorcism/linux-processes-49g1)
 - [Linux file system](https://dev.to/scorcism/linux-file-system-217i)
-- [DevRel is not a big deal: How to do it like a PRO?](https://dev.to/codingnninja/devrel-is-not-a-big-deal-how-to-do-it-like-a-pro-16e7)
-- [Linux Kernel](https://dev.to/scorcism/linux-kernel-4don)
-- [Linux Devices Management](https://dev.to/scorcism/linux-devices-management-2e18)
 <!-- BLOG-POST-LIST:END -->
 
