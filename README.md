@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Ways to Improve Application Performance](https://dev.to/harperdb/8-ways-to-improve-application-performance-4i5h)
-- [A guide to the 4 new Array.prototype methods in JavaScript](https://dev.to/logrocket/a-guide-to-the-4-new-arrayprototype-methods-in-javascript-2mej)
-- [Engineering Management Platforms: What You Need to Know](https://dev.to/hatica/engineering-management-platforms-what-you-need-to-know-1pa5)
-- [User and Group Management](https://dev.to/scorcism/user-and-group-management-deo)
+- [Supabase Integrations Marketplace](https://dev.to/supabase/supabase-integrations-marketplace-o9o)
+- [Vercel Integration and Next.js App Router Support](https://dev.to/supabase/vercel-integration-and-nextjs-app-router-support-282g)
+- [How I Tackled the AWS Developer Associate Exam &lpar;DVA-C02&rpar;](https://dev.to/brandondamue/how-i-tackled-the-aws-developer-associate-exam-dva-c02-41hm)
+- [Networking - OSI](https://dev.to/scorcism/networking-osi-26ni)
 <!-- BLOG-POST-LIST:END -->
 
