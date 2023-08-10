@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como contribuir com projeto open source e apoiar a comunidade](https://dev.to/hmontarroyos/como-contribuir-com-projeto-open-source-e-apoiar-a-comunidade-5g7a)
 - [Web Scraping with Python: A Quick Guide to Scrape Data from Website](https://dev.to/dhruvjoshi9/web-scraping-with-python-a-quick-guide-to-scrape-data-from-website-n3o)
 - [class, constructor and magic methods !](https://dev.to/coderatul/class-constructor-and-magic-methods--2195)
 - [What Lessons Have You Learned from Remote Work?](https://dev.to/devteam/what-lessons-have-you-learned-from-remote-work-1hh7)
-- [Ubuntu 22.04&#39;te systemd-timesyncd ile NTP İstemcisi Yapılandırma](https://dev.to/aciklab/ubuntu-2204te-systemd-timesyncd-ile-ntp-istemcisi-yapilandirma-3d3k)
 <!-- BLOG-POST-LIST:END -->
 
