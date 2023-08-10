@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Discord Bot Using Visual Programming in VSCode With Flyde](https://dev.to/gabigrin/build-a-discord-bot-using-visual-programming-in-vscode-with-flyde-1o3d)
-- [Flutter Inception: A Free Shorebird Alternative](https://dev.to/codeontherocks/flutter-inception-a-free-shorebird-alternative-5hif)
-- [CSS TRANSITIONS](https://dev.to/stanthewebdev/css-transitions-4h71)
-- [Dockerfile](https://dev.to/scorcism/dockerfile-12ho)
+- [Get Class Name in Typescript](https://dev.to/idmontie/get-class-name-in-typescript-23ih)
+- [How to install PDlib on your Server💻 &lpar;EASY&rpar;](https://dev.to/technology-schaechner/how-to-install-pdlib-hg)
+- [How to build a custom widget in Flutter — GoGoSoon](https://dev.to/5minslearn/how-to-build-a-custom-widget-in-flutter-gogosoon-mpl)
+- [Introducing Goctopus: open-source, state-of-the-art GraphQL endpoint discovery &amp; fingerprinting tool.](https://dev.to/escape/introducing-goctopus-open-source-state-of-the-art-graphql-endpoint-discovery-fingerprinting-tool-mg1)
 <!-- BLOG-POST-LIST:END -->
 
