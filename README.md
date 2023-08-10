@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como contribuir com projeto open source e apoiar a comunidade](https://dev.to/hmontarroyos/como-contribuir-com-projeto-open-source-e-apoiar-a-comunidade-5g7a)
-- [Web Scraping with Python: A Quick Guide to Scrape Data from Website](https://dev.to/dhruvjoshi9/web-scraping-with-python-a-quick-guide-to-scrape-data-from-website-n3o)
-- [class, constructor and magic methods !](https://dev.to/coderatul/class-constructor-and-magic-methods--2195)
-- [What Lessons Have You Learned from Remote Work?](https://dev.to/devteam/what-lessons-have-you-learned-from-remote-work-1hh7)
+- [Linux - INODE](https://dev.to/scorcism/linux-inode-1a2g)
+- [Sloan&#39;s Inbox: Applying for jobs with an inactive GitHub profile?](https://dev.to/devteam/sloans-inbox-applying-for-jobs-with-an-inactive-github-profile-31je)
+- [How to Acquire Users for Your Developer Tool? with Rishabh Kaul &lpar;Appsmith&rpar;](https://dev.to/jonathimer/how-to-acquire-users-for-your-developer-tool-with-rishabh-kaul-appsmith-3jch)
+- [Developing A Task Management ChatGPT Plugin with Typescript](https://dev.to/jamesoyanna/developing-a-task-management-chatgpt-plugin-with-typescript-a5m)
 <!-- BLOG-POST-LIST:END -->
 
