@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#DEVDiscuss: AI Coding Tools](https://dev.to/devteam/devdiscuss-ai-coding-tools-489b)
-- [React State vs. React Context: Deciding How to Manage State](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
-- [Embarking on a Cloud Adventure: Unveiling the Magic of Cloud Computing](https://dev.to/arbythecoder/embarking-on-a-cloud-adventure-unveiling-the-magic-of-cloud-computing-118c)
-- [Binary Tree 3.0](https://dev.to/livshits_ivan/binary-tree-30-4jjo)
+- [Differentiating Zustand and Redux](https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6)
+- [Reflecting on my first React app](https://dev.to/mishmishel/reflecting-on-my-first-react-app-27ei)
+- [Learn Godot 4 by Making a 2D Platformer — Part 22: Music &amp; SFX](https://dev.to/christinec_dev/learn-godot-4-by-making-a-2d-platformer-part-22-music-sfx-1ome)
+- [Unveiling the Mystery: How the `DESC` Command Creates Temporary Tables in MySQL/MariaDB](https://dev.to/n0nag0n/unveiling-the-mystery-how-the-desc-command-creates-temporary-tables-in-mysqlmariadb-2m6e)
 <!-- BLOG-POST-LIST:END -->
 
