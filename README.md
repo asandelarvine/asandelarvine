@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop using JavaScript for everything!](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
-- [Supavisor: Scaling Postgres to 1 Million Connections](https://dev.to/supabase/supavisor-scaling-postgres-to-1-million-connections-n70)
-- [ES5 vs ES6 in JavaScript. 14 big😱 changes⚠️](https://dev.to/diwakarkashyap/es5-vs-es6-in-javascript-14-big-changes-ple)
-- [Making a chatbot in PictoBlox](https://dev.to/krishnaagarwal/making-a-chatbot-in-pictoblox-123f)
+- [HTML Semantic Tags](https://dev.to/tech_olaide/html-semantic-tags-424o)
+- [Top 10 Flutter Side Projects that can end up becoming your next big startup project or SAAS 🚀](https://dev.to/yatendra2001/top-10-flutter-side-projects-that-can-end-up-becoming-your-next-big-startup-project-or-saas-4pma)
+- [GADT-like types in Rust](https://dev.to/aripiprazole/gadt-like-types-in-rust-4hcp)
+- [Channels in Go](https://dev.to/sd007cse/channels-in-go-273h)
 <!-- BLOG-POST-LIST:END -->
 
