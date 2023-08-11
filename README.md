@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My First Project: Making a VSCode Color Theme](https://dev.to/psudo-dev/my-first-project-making-a-vscode-color-theme-306i)
 - [State Management with RxJS and React](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
-- [What&#39;s wrong with Docker?🐳](https://dev.to/code42cate/whats-wrong-with-docker-3414)
-- [5 Docker Commands You Don&#39;t Know Yet](https://dev.to/code42cate/5-docker-commands-you-dont-know-yet-2e78)
-- [Create a Wordpress site Using EC2 and Amazon RDS](https://dev.to/aws-builders/create-a-wordpress-site-using-ec2-and-amazon-rds-45n)
+- [Getting Familiar with GSAP ScrollTrigger 🌱](https://dev.to/quicksilversel/getting-familiar-with-gsap-scrolltrigger-5bda)
+- [Setting JavaScript framework standards &lpar; what’s wrong with the React-set standard and why everyone should be like Svelte&rpar;](https://dev.to/n3rd/setting-javascript-framework-standards-whats-wrong-with-the-react-set-standard-and-why-everyone-should-be-like-svelte-4eha)
 <!-- BLOG-POST-LIST:END -->
 
