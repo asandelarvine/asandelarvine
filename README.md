@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Have You Ever Felt Intimidated to Ask &#39;Basic&#39; Questions?](https://dev.to/codenewbieteam/have-you-ever-felt-intimidated-to-ask-basic-questions-bin)
 - [The ultimate crypto terminology list](https://dev.to/thevenice/the-ultimate-crypto-terminology-list-1m83)
-- [My First Project: Making a VSCode Color Theme](https://dev.to/psudo-dev/my-first-project-making-a-vscode-color-theme-306i)
-- [State Management with RxJS and React](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
+- [Run your Custom GitHub Action](https://dev.to/balastrong/run-your-custom-github-action-246k)
+- [Bugs, errors and causes from an 1975 paper](https://dev.to/lucianghinda/bugs-errors-and-causes-from-an-1975-paper-oh5)
 <!-- BLOG-POST-LIST:END -->
 
