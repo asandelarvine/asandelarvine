@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS CloudFormation](https://dev.to/hasanelsherbiny/aws-cloudformation-5afe)
 - [6 Essential React Libraries You Should Know](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
 - [Desvendando as Diferenças: APIs, Web Services, SOAP e HTTP Simplificados](https://dev.to/matt1cs/desvendando-as-diferencas-apis-web-services-soap-e-http-simplificados-4230)
 - [Ubuntu 22.04 - Using NTP and Disabling It](https://dev.to/openlab/ubuntu-2204-using-ntp-and-disabling-it-31f1)
-- [Product of Array Except Self - LeetCode Java Solution](https://dev.to/aswin2001barath/product-of-array-except-self-leetcode-java-solution-4j72)
 <!-- BLOG-POST-LIST:END -->
 
