@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker networking](https://dev.to/scorcism/docker-networking-og7)
+- [Visualizing shapefiles in R with sf and ggplot2!](https://dev.to/chrisgreening/visualizing-shapefiles-in-r-with-sf-and-ggplot2-58aj)
+- [SOLID: writing better interfaces](https://dev.to/jmau111/solid-writing-better-interfaces-11lm)
 - [Docker essential commands](https://dev.to/scorcism/docker-essential-commands-4o6l)
-- [CSS Battle Two-Toned Circle](https://dev.to/jarvisscript/css-battle-two-toned-circle-3a44)
-- [Share Your Secrets for Staying Connected with Colleagues](https://dev.to/devteam/share-your-secrets-for-staying-connected-with-colleagues-3hbg)
-- [Step-by-step guide on installing AgensBrowser using a Docker image.](https://dev.to/chidera/step-by-step-guide-on-installing-agensbrowser-using-a-docker-image-1f53)
 <!-- BLOG-POST-LIST:END -->
 
