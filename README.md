@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [cURL basics](https://dev.to/zsevic/curl-basics-13a4)
 - [Supabase is now HIPAA and SOC2 Type 2 compliant](https://dev.to/supabase/supabase-is-now-hipaa-and-soc2-type-2-compliant-5976)
+- [SaaS platform with integrated 3D body measurement technology](https://dev.to/abtosoftware/saas-platform-with-integrated-3d-body-measurement-technology-2g6o)
 - [HTML Semantic Tags](https://dev.to/tech_olaide/html-semantic-tags-424o)
-- [Top 10 Flutter Side Projects that can end up becoming your next big startup project or SAAS 🚀](https://dev.to/yatendra2001/top-10-flutter-side-projects-that-can-end-up-becoming-your-next-big-startup-project-or-saas-4pma)
 <!-- BLOG-POST-LIST:END -->
 
