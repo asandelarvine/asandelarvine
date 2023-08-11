@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install NodeJS](https://dev.to/technology-schaechner/how-to-install-nodejs-2e81)
 - [Have You Ever Felt Intimidated to Ask &#39;Basic&#39; Questions?](https://dev.to/codenewbieteam/have-you-ever-felt-intimidated-to-ask-basic-questions-bin)
 - [The ultimate crypto terminology list](https://dev.to/thevenice/the-ultimate-crypto-terminology-list-1m83)
 - [Run your Custom GitHub Action](https://dev.to/balastrong/run-your-custom-github-action-246k)
-- [Bugs, errors and causes from an 1975 paper](https://dev.to/lucianghinda/bugs-errors-and-causes-from-an-1975-paper-oh5)
 <!-- BLOG-POST-LIST:END -->
 
