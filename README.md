@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented Design: Why don&#39;t you explain this to me like I&#39;m five](https://dev.to/salimcodes/object-oriented-design-why-dont-you-explain-this-to-me-like-im-five-173h)
-- [AWS CloudFormation](https://dev.to/hasanelsherbiny/aws-cloudformation-5afe)
-- [6 Essential React Libraries You Should Know](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
-- [Desvendando as Diferenças: APIs, Web Services, SOAP e HTTP Simplificados](https://dev.to/matt1cs/desvendando-as-diferencas-apis-web-services-soap-e-http-simplificados-4230)
+- [Docker essential commands](https://dev.to/scorcism/docker-essential-commands-4o6l)
+- [CSS Battle Two-Toned Circle](https://dev.to/jarvisscript/css-battle-two-toned-circle-3a44)
+- [Share Your Secrets for Staying Connected with Colleagues](https://dev.to/devteam/share-your-secrets-for-staying-connected-with-colleagues-3hbg)
+- [Step-by-step guide on installing AgensBrowser using a Docker image.](https://dev.to/chidera/step-by-step-guide-on-installing-agensbrowser-using-a-docker-image-1f53)
 <!-- BLOG-POST-LIST:END -->
 
