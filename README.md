@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Design: Why don&#39;t you explain this to me like I&#39;m five](https://dev.to/salimcodes/object-oriented-design-why-dont-you-explain-this-to-me-like-im-five-173h)
 - [AWS CloudFormation](https://dev.to/hasanelsherbiny/aws-cloudformation-5afe)
 - [6 Essential React Libraries You Should Know](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
 - [Desvendando as Diferenças: APIs, Web Services, SOAP e HTTP Simplificados](https://dev.to/matt1cs/desvendando-as-diferencas-apis-web-services-soap-e-http-simplificados-4230)
-- [Ubuntu 22.04 - Using NTP and Disabling It](https://dev.to/openlab/ubuntu-2204-using-ntp-and-disabling-it-31f1)
 <!-- BLOG-POST-LIST:END -->
 
