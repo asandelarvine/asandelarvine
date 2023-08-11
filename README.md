@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Open Source: The Heart of Hoppscotch&#39;s Journey](https://dev.to/liyasthomas/embracing-open-source-the-heart-of-hoppscotchs-journey-4bio)
-- [mirrord as an alternative to Telepresence](https://dev.to/eyalb/mirrord-as-an-alternative-to-telepresence-39mn)
-- [Meet the new Core Web Vital: Interaction to Next Paint &lpar;INP&rpar; 🎨](https://dev.to/enterspeed/meet-the-new-core-web-vital-interaction-to-next-paint-inp-dbc)
-- [How to install NodeJS](https://dev.to/technology-schaechner/how-to-install-nodejs-2e81)
+- [Product of Array Except Self - LeetCode Java Solution](https://dev.to/aswin2001barath/product-of-array-except-self-leetcode-java-solution-4j72)
+- [Two Sum — LeetCode Java Solution](https://dev.to/aswin2001barath/two-sum-leetcode-java-solution-5545)
+- [Valid Anagram - LeetCode Java Solution](https://dev.to/aswin2001barath/valid-anagram-leetcode-java-solution-48nm)
+- [Getting started with react native storybook](https://dev.to/dannyhw/getting-started-with-react-native-storybook-96c)
 <!-- BLOG-POST-LIST:END -->
 
