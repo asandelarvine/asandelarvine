@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker networking](https://dev.to/scorcism/docker-networking-og7)
-- [Visualizing shapefiles in R with sf and ggplot2!](https://dev.to/chrisgreening/visualizing-shapefiles-in-r-with-sf-and-ggplot2-58aj)
-- [SOLID: writing better interfaces](https://dev.to/jmau111/solid-writing-better-interfaces-11lm)
-- [Docker essential commands](https://dev.to/scorcism/docker-essential-commands-4o6l)
+- [Stop using JavaScript for everything!](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
+- [Supavisor: Scaling Postgres to 1 Million Connections](https://dev.to/supabase/supavisor-scaling-postgres-to-1-million-connections-n70)
+- [ES5 vs ES6 in JavaScript. 14 big😱 changes⚠️](https://dev.to/diwakarkashyap/es5-vs-es6-in-javascript-14-big-changes-ple)
+- [Making a chatbot in PictoBlox](https://dev.to/krishnaagarwal/making-a-chatbot-in-pictoblox-123f)
 <!-- BLOG-POST-LIST:END -->
 
