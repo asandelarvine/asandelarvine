@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [State Management with RxJS and React](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
 - [What&#39;s wrong with Docker?🐳](https://dev.to/code42cate/whats-wrong-with-docker-3414)
 - [5 Docker Commands You Don&#39;t Know Yet](https://dev.to/code42cate/5-docker-commands-you-dont-know-yet-2e78)
-- [🧠 How to validate ideas &lpar;Building 101 #2&rpar;](https://dev.to/ideahub/how-to-validate-ideas-building-101-2-30n5)
-- [Why You Should Stop Building Communities on Slack w/ Domitrius Clerk](https://dev.to/tdesseyn/why-you-should-stop-building-communities-on-slack-w-domitrius-clerk-4pjo)
+- [Create a Wordpress site Using EC2 and Amazon RDS](https://dev.to/aws-builders/create-a-wordpress-site-using-ec2-and-amazon-rds-45n)
 <!-- BLOG-POST-LIST:END -->
 
