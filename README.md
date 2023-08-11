@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [cURL basics](https://dev.to/zsevic/curl-basics-13a4)
+- [Supabase is now HIPAA and SOC2 Type 2 compliant](https://dev.to/supabase/supabase-is-now-hipaa-and-soc2-type-2-compliant-5976)
 - [HTML Semantic Tags](https://dev.to/tech_olaide/html-semantic-tags-424o)
 - [Top 10 Flutter Side Projects that can end up becoming your next big startup project or SAAS 🚀](https://dev.to/yatendra2001/top-10-flutter-side-projects-that-can-end-up-becoming-your-next-big-startup-project-or-saas-4pma)
-- [GADT-like types in Rust](https://dev.to/aripiprazole/gadt-like-types-in-rust-4hcp)
-- [Channels in Go](https://dev.to/sd007cse/channels-in-go-273h)
 <!-- BLOG-POST-LIST:END -->
 
