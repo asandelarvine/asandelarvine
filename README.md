@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [cURL basics](https://dev.to/zsevic/curl-basics-13a4)
-- [Supabase is now HIPAA and SOC2 Type 2 compliant](https://dev.to/supabase/supabase-is-now-hipaa-and-soc2-type-2-compliant-5976)
-- [SaaS platform with integrated 3D body measurement technology](https://dev.to/abtosoftware/saas-platform-with-integrated-3d-body-measurement-technology-2g6o)
-- [HTML Semantic Tags](https://dev.to/tech_olaide/html-semantic-tags-424o)
+- [React Custom Hook: useDarkMode](https://dev.to/sergeyleschev/react-custom-hook-usedarkmode-38k8)
+- [Returning Responses from Asynchronous Calls: A Multilingual Guide](https://dev.to/iamcymentho/returning-responses-from-asynchronous-calls-a-multilingual-guide-44hb)
+- [Navigating the Unknown: The Hidden Worlds Behind a Simple Press of &quot;Enter&quot;](https://dev.to/inovak/navigating-the-unknown-the-hidden-worlds-behind-a-simple-press-of-enter-45d9)
+- [Roadmap to being a Full Stack Web Developer](https://dev.to/soumodeep_ghosh_be7eb9c6c/roadmap-to-being-a-full-stack-web-developer-2984)
 <!-- BLOG-POST-LIST:END -->
 
