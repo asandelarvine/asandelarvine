@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [“Sprints”: The biggest mistake of Software Engineering](https://dev.to/noriller/sprints-the-biggest-mistake-of-software-engineering-39oo)
 - [Creating abilities - Ground pound](https://dev.to/eduardojuliao/creating-abilities-ground-pound-50ho)
+- [🧠 Unleash Your Focus: The Ultimate ADHD Pomodoro Method for Enhanced Productivity! 🚀](https://dev.to/matheusmanuel/unleash-your-focus-the-ultimate-adhd-pomodoro-method-for-enhanced-productivity-3pmd)
 - [Prestige Over Influence: Choosing A More Impactful Online Presence](https://dev.to/jpmcb/prestige-over-influence-choosing-a-more-impactful-online-presence-5cje)
-- [Build a Chrome Extension using Manifest V3](https://dev.to/nazmulidris/build-a-chrome-extension-using-manifest-v3-2oid)
-- [How to build a URL Shortener with Go](https://dev.to/envitab/how-to-build-a-url-shortener-with-go-5hn5)
 <!-- BLOG-POST-LIST:END -->
 
