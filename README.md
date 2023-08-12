@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Working with JavaScript Local Storage](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
+- [Getting started with CSS Nesting](https://dev.to/creatures-dev/getting-started-with-css-nesting-1b1k)
+- [Create an Emoji Selector for Next.js Forms using Tailwind + DaisyUI](https://dev.to/designly/create-an-emoji-selector-for-nextjs-forms-using-tailwind-daisyui-3mnn)
 - [React Custom Hook: useDebounce](https://dev.to/sergeyleschev/react-custom-hook-usedebounce-p03)
-- [Unlocking Real-Time Insights: Harnessing Lambda and SES to Supercharge S3 Bucket Alerts](https://dev.to/rahulkspace/unlocking-real-time-insights-harnessing-lambda-and-ses-to-supercharge-s3-bucket-alerts-4cka)
-- [Exploring the Power of React Hooks in Modern Web Development](https://dev.to/nechey/exploring-the-power-of-react-hooks-in-modern-web-development-5g3b)
 <!-- BLOG-POST-LIST:END -->
 
