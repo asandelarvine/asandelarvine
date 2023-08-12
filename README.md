@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useDebounce](https://dev.to/sergeyleschev/react-custom-hook-usedebounce-p03)
+- [Exploring the Power of React Hooks in Modern Web Development](https://dev.to/nechey/exploring-the-power-of-react-hooks-in-modern-web-development-5g3b)
 - [Pagination in React with implementation](https://dev.to/endeavourmonk/pagination-in-react-with-implementation-21nn)
-- [Unlocking Innovation: Join us at ETHToronto with XDC Network!](https://dev.to/nadarsuresh/unlocking-innovation-join-us-at-ethtoronto-with-xdc-network-39mm)
-- [Quickly make a NextJS app installable with Chrome](https://dev.to/armelpingault/quickly-make-a-nextjs-app-installable-with-chrome-3g9d)
-- [5 Communication Mistakes That Could Be Hurting Your Career in the Tech Ecosystem](https://dev.to/anilkaundal/5-communication-mistakes-that-could-be-hurting-your-career-in-the-tech-ecosystem-57bk)
+- [My Exam Experience - AWS Certified Solutions Architect - Associate &lpar;AWS SAA-C03&rpar;](https://dev.to/awscloudclubs/my-exam-experience-aws-certified-solutions-architect-associate-aws-saa-c03-3ck3)
 <!-- BLOG-POST-LIST:END -->
 
