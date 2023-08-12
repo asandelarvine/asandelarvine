@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with JavaScript Local Storage](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
 - [React Custom Hook: useDebounce](https://dev.to/sergeyleschev/react-custom-hook-usedebounce-p03)
+- [Unlocking Real-Time Insights: Harnessing Lambda and SES to Supercharge S3 Bucket Alerts](https://dev.to/rahulkspace/unlocking-real-time-insights-harnessing-lambda-and-ses-to-supercharge-s3-bucket-alerts-4cka)
 - [Exploring the Power of React Hooks in Modern Web Development](https://dev.to/nechey/exploring-the-power-of-react-hooks-in-modern-web-development-5g3b)
-- [Pagination in React with implementation](https://dev.to/endeavourmonk/pagination-in-react-with-implementation-21nn)
-- [My Exam Experience - AWS Certified Solutions Architect - Associate &lpar;AWS SAA-C03&rpar;](https://dev.to/awscloudclubs/my-exam-experience-aws-certified-solutions-architect-associate-aws-saa-c03-3ck3)
 <!-- BLOG-POST-LIST:END -->
 
