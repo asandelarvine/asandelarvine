@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your Coding Quirk?](https://dev.to/codenewbieteam/whats-your-coding-quirk-1oc9)
-- [Lonely vs. Connected: How Do You Balance Social Interaction in Remote Settings?](https://dev.to/devteam/lonely-vs-connected-how-do-you-balance-social-interaction-in-remote-settings-5b05)
-- [Websites to practice &amp; upskill your Web Development skills](https://dev.to/rahilisvahora/websites-to-practice-upskill-your-web-development-skills-ol3)
-- [Best Django Courses and Certifications for Web Developers](https://dev.to/max24816/best-django-courses-and-certifications-for-web-developers-2dlm)
+- [The Key to Passing your AWS Solutions Architect Professional!!!](https://dev.to/aws-builders/the-key-to-passing-your-aws-solutions-architect-professional-34a1)
+- [Simplify Infinite Loading with React Query](https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj)
+- [Amazon CloudWatch](https://dev.to/hasanelsherbiny/amazon-cloudwatch-363d)
+- [Benchmarked new perl class feature with many class builders](https://dev.to/kfly8/benchmarked-new-perl-class-feature-with-many-class-builders-17n)
 <!-- BLOG-POST-LIST:END -->
 
