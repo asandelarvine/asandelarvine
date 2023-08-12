@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on the Cybersecurity Journey: A Beginner’s Guide](https://dev.to/aswin2001barath/embarking-on-the-cybersecurity-journey-a-beginners-guide-307o)
+- [Debugging Rules: Understand the System](https://dev.to/rajasegar/debugging-rules-understand-the-system-ho5)
 - [The Ultimate Roadmap and Free Resources for Becoming a DevOps Engineer in 2023](https://dev.to/durgesh4993/the-ultimate-roadmap-and-free-resources-for-becoming-a-devops-engineer-in-2023-5b8n)
 - [Mastering HTML Interview Questions Part-2: Explore autofocus, span, blockquote and progress tag](https://dev.to/abidullah786/mastering-html-interview-questions-part-2-explore-autofocus-span-blockquote-and-progress-tag-222d)
-- [Felt Cute, Might git rm --rf](https://dev.to/tythos/felt-cute-might-git-rm-rf-45i0)
-- [3 Ways to Make Your API Beautiful](https://dev.to/rcooper47/3-keys-to-making-a-beautiful-api-46la)
 <!-- BLOG-POST-LIST:END -->
 
