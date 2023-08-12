@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Communication Mistakes That Could Be Hurting Your Career in the Tech Ecosystem](https://dev.to/anilkaundal/5-communication-mistakes-that-could-be-hurting-your-career-in-the-tech-ecosystem-57bk)
+- [PyScript: Python in the Browser](https://dev.to/0xog_pg/pyscript-python-in-the-browser-3dbd)
+- [Does PostGIS+QGIS support geometric network?](https://dev.to/devcodef1/does-postgisqgis-support-geometric-network-27af)
 - [How to Write Quality Code: A Developer&#39;s Guide.](https://dev.to/yatendra2001/how-to-write-quality-code-a-developers-guide-3lbm)
-- [52 Frontend Interview Questions - JavaScript](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
-- [Kubernetes Architecture](https://dev.to/scorcism/kubernetes-architecture-390j)
-- [Full-Stack Engineer: Decoding the Jack-of-All-Trades in Software Development](https://dev.to/inovak/full-stack-engineer-decoding-the-jack-of-all-trades-in-software-development-5bg2)
 <!-- BLOG-POST-LIST:END -->
 
