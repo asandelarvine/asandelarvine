@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Serverless Applications with AWS – Security](https://dev.to/aws-builders/building-serverless-applications-with-aws-security-44bk)
 - [Kubernetes Intro](https://dev.to/scorcism/kubernetes-intro-1cgf)
 - [Adding Items - Coin](https://dev.to/eduardojuliao/adding-items-coin-1ejh)
 - [Introduction To Python Programming - part 3](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-3-32ma)
-- [Streaming Large Files with PHP to Save Memory](https://dev.to/accreditly/streaming-large-files-with-php-to-save-memory-4nmk)
 <!-- BLOG-POST-LIST:END -->
 
