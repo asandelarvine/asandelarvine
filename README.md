@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction To Python Programming - part 3](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-3-32ma)
 - [Streaming Large Files with PHP to Save Memory](https://dev.to/accreditly/streaming-large-files-with-php-to-save-memory-4nmk)
 - [createFactory in React. 🏭 important function in React](https://dev.to/diwakarkashyap/createfactory-in-react-important-function-in-react-1gn7)
 - [Creating a Custom URL Protocol in .NET](https://dev.to/jamiemcmanus/creating-a-custom-url-protocol-in-net-322h)
-- [Deployment - Kubernetes](https://dev.to/daniellcas/deployment-kubernetes-1ja4)
 <!-- BLOG-POST-LIST:END -->
 
