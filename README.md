@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Websites to practice &amp; upskill your Web Development skills](https://dev.to/rahilisvahora/websites-to-practice-upskill-your-web-development-skills-ol3)
+- [Best Django Courses and Certifications for Web Developers](https://dev.to/max24816/best-django-courses-and-certifications-for-web-developers-2dlm)
 - [Embarking on the Cybersecurity Journey: A Beginner’s Guide](https://dev.to/aswin2001barath/embarking-on-the-cybersecurity-journey-a-beginners-guide-307o)
 - [Debugging Rules: Understand the System](https://dev.to/rajasegar/debugging-rules-understand-the-system-ho5)
-- [The Ultimate Roadmap and Free Resources for Becoming a DevOps Engineer in 2023](https://dev.to/durgesh4993/the-ultimate-roadmap-and-free-resources-for-becoming-a-devops-engineer-in-2023-5b8n)
-- [Mastering HTML Interview Questions Part-2: Explore autofocus, span, blockquote and progress tag](https://dev.to/abidullah786/mastering-html-interview-questions-part-2-explore-autofocus-span-blockquote-and-progress-tag-222d)
 <!-- BLOG-POST-LIST:END -->
 
