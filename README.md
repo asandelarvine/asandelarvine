@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day5: Profile](https://dev.to/dimple031/day5-profile-3ba8)
-- [Must Know AWS Services](https://dev.to/scorcism/must-know-aws-services-1b6j)
-- [Integrate Pyspark Structured Streaming with confluent-kafka](https://dev.to/devcodef1/integrate-pyspark-structured-streaming-with-confluent-kafka-48ge)
-- [What is 360 Marketing Strategy? A Beginner’s Guide](https://dev.to/fourty60blog/what-is-360deg-marketing-strategy-a-beginners-guide-59e9)
+- [Create and Publish Your First NPM Package: A Comprehensive Guide](https://dev.to/martinpersson/create-and-publish-your-first-npm-package-a-comprehensive-guide-3l0a)
+- [Job apply script for hirist and instahyre platform](https://dev.to/shacodes/job-apply-script-for-hirist-and-instahyre-platform-m05)
+- [Getting Started With Farmtronics](https://dev.to/midsubspace/getting-started-with-farmtronics-13p3)
+- [Circle drawing algorithm in C](https://dev.to/sjmulder/circle-drawing-algorithm-in-c-4057)
 <!-- BLOG-POST-LIST:END -->
 
