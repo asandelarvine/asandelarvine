@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering HTML Interview Questions Part-2: Explore autofocus, span, blockquote and progress tag](https://dev.to/abidullah786/mastering-html-interview-questions-part-2-explore-autofocus-span-blockquote-and-progress-tag-222d)
+- [Felt Cute, Might git rm --rf](https://dev.to/tythos/felt-cute-might-git-rm-rf-45i0)
+- [3 Ways to Make Your API Beautiful](https://dev.to/rcooper47/3-keys-to-making-a-beautiful-api-46la)
 - [“Sprints”: The biggest mistake of Software Engineering](https://dev.to/noriller/sprints-the-biggest-mistake-of-software-engineering-39oo)
-- [Creating abilities - Ground pound](https://dev.to/eduardojuliao/creating-abilities-ground-pound-50ho)
-- [🧠 Unleash Your Focus: The Ultimate ADHD Pomodoro Method for Enhanced Productivity! 🚀](https://dev.to/matheusmanuel/unleash-your-focus-the-ultimate-adhd-pomodoro-method-for-enhanced-productivity-3pmd)
-- [Prestige Over Influence: Choosing A More Impactful Online Presence](https://dev.to/jpmcb/prestige-over-influence-choosing-a-more-impactful-online-presence-5cje)
 <!-- BLOG-POST-LIST:END -->
 
