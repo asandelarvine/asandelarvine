@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create and Publish Your First NPM Package: A Comprehensive Guide](https://dev.to/martinpersson/create-and-publish-your-first-npm-package-a-comprehensive-guide-3l0a)
-- [Job apply script for hirist and instahyre platform](https://dev.to/shacodes/job-apply-script-for-hirist-and-instahyre-platform-m05)
-- [Getting Started With Farmtronics](https://dev.to/midsubspace/getting-started-with-farmtronics-13p3)
-- [Circle drawing algorithm in C](https://dev.to/sjmulder/circle-drawing-algorithm-in-c-4057)
+- [Streaming Large Files with PHP to Save Memory](https://dev.to/accreditly/streaming-large-files-with-php-to-save-memory-4nmk)
+- [createFactory in React. 🏭 important function in React](https://dev.to/diwakarkashyap/createfactory-in-react-important-function-in-react-1gn7)
+- [Creating a Custom URL Protocol in .NET](https://dev.to/jamiemcmanus/creating-a-custom-url-protocol-in-net-322h)
+- [Deployment - Kubernetes](https://dev.to/daniellcas/deployment-kubernetes-1ja4)
 <!-- BLOG-POST-LIST:END -->
 
