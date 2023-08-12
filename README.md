@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pagination in React with implementation](https://dev.to/endeavourmonk/pagination-in-react-with-implementation-21nn)
+- [Unlocking Innovation: Join us at ETHToronto with XDC Network!](https://dev.to/nadarsuresh/unlocking-innovation-join-us-at-ethtoronto-with-xdc-network-39mm)
+- [Quickly make a NextJS app installable with Chrome](https://dev.to/armelpingault/quickly-make-a-nextjs-app-installable-with-chrome-3g9d)
 - [5 Communication Mistakes That Could Be Hurting Your Career in the Tech Ecosystem](https://dev.to/anilkaundal/5-communication-mistakes-that-could-be-hurting-your-career-in-the-tech-ecosystem-57bk)
-- [PyScript: Python in the Browser](https://dev.to/0xog_pg/pyscript-python-in-the-browser-3dbd)
-- [Does PostGIS+QGIS support geometric network?](https://dev.to/devcodef1/does-postgisqgis-support-geometric-network-27af)
-- [How to Write Quality Code: A Developer&#39;s Guide.](https://dev.to/yatendra2001/how-to-write-quality-code-a-developers-guide-3lbm)
 <!-- BLOG-POST-LIST:END -->
 
