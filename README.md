@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is SQL?](https://dev.to/rashtech/what-is-sql-13fn)
+- [LeetCode, Hard, last two problems: 2809. Min Time to Make Array Sum At Most x &amp; 2813. Max Elegance of a K-Length Subseq.](https://dev.to/sergeyleschev/leetcode-hard-the-last-two-problems-2809-minimum-time-to-make-array-sum-at-most-x-2813-max-elegance-of-a-k-length-subseq-123i)
+- [10 Benefits of Using Ruby on Rails for Startups](https://dev.to/edenwheeler/10-benefits-of-using-ruby-on-rails-for-startups-22c7)
 - [The Key to Passing your AWS Solutions Architect Professional!!!](https://dev.to/aws-builders/the-key-to-passing-your-aws-solutions-architect-professional-34a1)
-- [Simplify Infinite Loading with React Query](https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj)
-- [Amazon CloudWatch](https://dev.to/hasanelsherbiny/amazon-cloudwatch-363d)
-- [Benchmarked new perl class feature with many class builders](https://dev.to/kfly8/benchmarked-new-perl-class-feature-with-many-class-builders-17n)
 <!-- BLOG-POST-LIST:END -->
 
