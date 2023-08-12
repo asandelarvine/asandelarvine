@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your Coding Quirk?](https://dev.to/codenewbieteam/whats-your-coding-quirk-1oc9)
+- [Lonely vs. Connected: How Do You Balance Social Interaction in Remote Settings?](https://dev.to/devteam/lonely-vs-connected-how-do-you-balance-social-interaction-in-remote-settings-5b05)
 - [Websites to practice &amp; upskill your Web Development skills](https://dev.to/rahilisvahora/websites-to-practice-upskill-your-web-development-skills-ol3)
 - [Best Django Courses and Certifications for Web Developers](https://dev.to/max24816/best-django-courses-and-certifications-for-web-developers-2dlm)
-- [Embarking on the Cybersecurity Journey: A Beginner’s Guide](https://dev.to/aswin2001barath/embarking-on-the-cybersecurity-journey-a-beginners-guide-307o)
-- [Debugging Rules: Understand the System](https://dev.to/rajasegar/debugging-rules-understand-the-system-ho5)
 <!-- BLOG-POST-LIST:END -->
 
