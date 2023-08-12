@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Serverless Applications with AWS – Security](https://dev.to/aws-builders/building-serverless-applications-with-aws-security-44bk)
-- [Kubernetes Intro](https://dev.to/scorcism/kubernetes-intro-1cgf)
-- [Adding Items - Coin](https://dev.to/eduardojuliao/adding-items-coin-1ejh)
-- [Introduction To Python Programming - part 3](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-3-32ma)
+- [How to Write Quality Code: A Developer&#39;s Guide.](https://dev.to/yatendra2001/how-to-write-quality-code-a-developers-guide-3lbm)
+- [52 Frontend Interview Questions - JavaScript](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
+- [Kubernetes Architecture](https://dev.to/scorcism/kubernetes-architecture-390j)
+- [Full-Stack Engineer: Decoding the Jack-of-All-Trades in Software Development](https://dev.to/inovak/full-stack-engineer-decoding-the-jack-of-all-trades-in-software-development-5bg2)
 <!-- BLOG-POST-LIST:END -->
 
