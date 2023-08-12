@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch, Logstash, and Kibana Compatibility Matrix](https://dev.to/shunmare/elasticsearch-logstash-and-kibana-compatibility-matrix-2a7p)
-- [Understanding and Handling NullPointerException Across Multiple Languages](https://dev.to/iamcymentho/understanding-and-handling-nullpointerexception-across-multiple-languages-a-comprehensive-guide-kek)
-- [What is SQL?](https://dev.to/rashtech/what-is-sql-13fn)
-- [LeetCode, Hard, last two problems: 2809. Min Time to Make Array Sum At Most x &amp; 2813. Max Elegance of a K-Length Subseq.](https://dev.to/sergeyleschev/leetcode-hard-the-last-two-problems-2809-minimum-time-to-make-array-sum-at-most-x-2813-max-elegance-of-a-k-length-subseq-123i)
+- [Day5: Profile](https://dev.to/dimple031/day5-profile-3ba8)
+- [Must Know AWS Services](https://dev.to/scorcism/must-know-aws-services-1b6j)
+- [Integrate Pyspark Structured Streaming with confluent-kafka](https://dev.to/devcodef1/integrate-pyspark-structured-streaming-with-confluent-kafka-48ge)
+- [What is 360 Marketing Strategy? A Beginner’s Guide](https://dev.to/fourty60blog/what-is-360deg-marketing-strategy-a-beginners-guide-59e9)
 <!-- BLOG-POST-LIST:END -->
 
