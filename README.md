@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Diagramming and Database Design📊🔍💡](https://dev.to/documatic/diagramming-and-database-design-42ff)
+- [Power of Parallel Query Execution in PostgreSQL](https://dev.to/sarmadmm/power-of-parallel-query-execution-in-postgresql-57pn)
 - [AWS Elastic Beanstalk](https://dev.to/hasanelsherbiny/aws-elastic-beanstalk-4cdb)
-- [How Did You Bounce Back from Failed Coding Attempts?](https://dev.to/codenewbieteam/how-did-you-bounce-back-from-failed-coding-attempts-47o9)
 - [What&#39;s Your Funniest Coding Memory from the Retro Archives?](https://dev.to/devteam/whats-your-funniest-coding-memory-from-the-retro-archives-31di)
-- [HTML Interview Questions with Answers and Code Examples Part-3](https://dev.to/abidullah786/html-interview-questions-with-answers-and-code-examples-part-3-11i4)
 <!-- BLOG-POST-LIST:END -->
 
