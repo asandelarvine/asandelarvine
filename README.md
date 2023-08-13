@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentication with middlewares in NextJS](https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p)
 - [Monorepo vs Microrepo: How to Choose the Best Repository Structure for Your Code](https://dev.to/kanani_nirav/monorepo-vs-microrepo-how-to-choose-the-best-repository-structure-for-your-code-4pce)
 - [Mocha/Chai with TypeScript &lpar;2023 update&rpar;](https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f)
 - [roguelike i made &lpar;wip&rpar;](https://dev.to/jossse69/roguelike-i-made-wip-361m)
-- [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-to-use-abi-in-javascriptetherjs-115h)
 <!-- BLOG-POST-LIST:END -->
 
