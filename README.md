@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Becoming a Web Developer: Part 7](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-7-1nbd)
+- [Internet Proxies](https://dev.to/scorcism/proxies-3m9d)
 - [Unveiling the Finest CSS Frameworks: Elevate Your Web Development Game](https://dev.to/arsalanmee/unveiling-the-finest-css-frameworks-elevate-your-web-development-game-ci4)
 - [The SQL Language &lpar;Part-1&rpar;](https://dev.to/pawankukreja01/the-sql-language-part-1-3i92)
-- [Understanding Closures in JavaScript](https://dev.to/avwerosuoghene/understanding-closures-in-javascript-1dkb)
-- [First step to SSR and HTML First](https://dev.to/amirahmadzadeh/first-step-to-ssr-and-html-first-1khl)
 <!-- BLOG-POST-LIST:END -->
 
