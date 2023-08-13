@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Storing image from React formData to Cloudinary using Node/Express API](https://dev.to/meghannfh/storing-image-from-react-formdata-to-cloudinary-using-nodeexpress-api-1c6a)
-- [Top ReactJS Courses to Excel in Web Development](https://dev.to/max24816/top-reactjs-courses-to-excel-in-web-development-5hbd)
-- [Toying with web API&#39;s: Media Capture and Download!](https://dev.to/sfundomhlungu/toying-with-web-apis-media-capture-and-download-38d2)
-- [From Zero to GraphQL Hero: The Ultimate Getting Started Guide](https://dev.to/mohitsinghchauhan/from-zero-to-graphql-hero-the-ultimate-getting-started-guide-46o7)
+- [AWS Elastic Beanstalk](https://dev.to/hasanelsherbiny/aws-elastic-beanstalk-4cdb)
+- [How Did You Bounce Back from Failed Coding Attempts?](https://dev.to/codenewbieteam/how-did-you-bounce-back-from-failed-coding-attempts-47o9)
+- [What&#39;s Your Funniest Coding Memory from the Retro Archives?](https://dev.to/devteam/whats-your-funniest-coding-memory-from-the-retro-archives-31di)
+- [HTML Interview Questions with Answers and Code Examples Part-3](https://dev.to/abidullah786/html-interview-questions-with-answers-and-code-examples-part-3-11i4)
 <!-- BLOG-POST-LIST:END -->
 
