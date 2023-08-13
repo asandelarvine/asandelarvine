@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with JavaScript Local Storage](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
-- [Getting started with CSS Nesting](https://dev.to/creatures-dev/getting-started-with-css-nesting-1b1k)
-- [Create an Emoji Selector for Next.js Forms using Tailwind + DaisyUI](https://dev.to/designly/create-an-emoji-selector-for-nextjs-forms-using-tailwind-daisyui-3mnn)
-- [React Custom Hook: useDebounce](https://dev.to/sergeyleschev/react-custom-hook-usedebounce-p03)
+- [Mocha/Chai with TypeScript &lpar;2023 update&rpar;](https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f)
+- [roguelike i made &lpar;wip&rpar;](https://dev.to/jossse69/roguelike-i-made-wip-361m)
+- [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-to-use-abi-in-javascriptetherjs-115h)
+- [How to delete ENI&#39;s](https://dev.to/aws-builders/how-to-delete-enis-26eg)
 <!-- BLOG-POST-LIST:END -->
 
