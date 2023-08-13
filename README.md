@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useDebugInformation](https://dev.to/sergeyleschev/react-custom-hook-usedebuginformation-431e)
+- [Reinforce the type safety of your PHP arrays](https://dev.to/anwar_nairi/reinforce-the-type-safety-of-your-php-arrays-fh7)
 - [count&lpar;*&rpar;: The Most Efficient Way to Count Rows in Your Table](https://dev.to/anilkaundal/count-the-most-efficient-way-to-count-rows-in-your-table-3kgd)
 - [blockchain data is hard to find, but we&#39;re making it easily accessible @chainparser.](https://dev.to/mawut0r/blockchain-data-is-hard-to-find-but-were-making-it-easily-accessible-chainparser-2no9)
-- [Diving into React and Redux Toolkit: A Comprehensive Glossary of Key Terms and Concepts](https://dev.to/madhavigaikwad/diving-into-react-and-redux-toolkit-a-comprehensive-glossary-of-key-terms-and-concepts-48e0)
-- [Yet Another Newsletter LOL: Liftoff!](https://dev.to/nickytonline/yet-another-newsletter-lol-liftoff-2ma5)
 <!-- BLOG-POST-LIST:END -->
 
