@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [count&lpar;*&rpar;: The Most Efficient Way to Count Rows in Your Table](https://dev.to/anilkaundal/count-the-most-efficient-way-to-count-rows-in-your-table-3kgd)
 - [blockchain data is hard to find, but we&#39;re making it easily accessible @chainparser.](https://dev.to/mawut0r/blockchain-data-is-hard-to-find-but-were-making-it-easily-accessible-chainparser-2no9)
+- [Diving into React and Redux Toolkit: A Comprehensive Glossary of Key Terms and Concepts](https://dev.to/madhavigaikwad/diving-into-react-and-redux-toolkit-a-comprehensive-glossary-of-key-terms-and-concepts-48e0)
 - [Yet Another Newsletter LOL: Liftoff!](https://dev.to/nickytonline/yet-another-newsletter-lol-liftoff-2ma5)
-- [Easily using print styling in Tailwind](https://dev.to/andreasbergstrom/how-to-easily-use-media-queries-for-print-in-tailwind-2o9a)
-- [*Beginner Friendly* Version control using `git`](https://dev.to/ankur0904/beginner-friendly-version-control-using-git-4m51)
 <!-- BLOG-POST-LIST:END -->
 
