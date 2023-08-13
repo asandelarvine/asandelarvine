@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication with middlewares in NextJS](https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p)
-- [Monorepo vs Microrepo: How to Choose the Best Repository Structure for Your Code](https://dev.to/kanani_nirav/monorepo-vs-microrepo-how-to-choose-the-best-repository-structure-for-your-code-4pce)
-- [Mocha/Chai with TypeScript &lpar;2023 update&rpar;](https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f)
-- [roguelike i made &lpar;wip&rpar;](https://dev.to/jossse69/roguelike-i-made-wip-361m)
+- [Storing image from React formData to Cloudinary using Node/Express API](https://dev.to/meghannfh/storing-image-from-react-formdata-to-cloudinary-using-nodeexpress-api-1c6a)
+- [Top ReactJS Courses to Excel in Web Development](https://dev.to/max24816/top-reactjs-courses-to-excel-in-web-development-5hbd)
+- [Toying with web API&#39;s: Media Capture and Download!](https://dev.to/sfundomhlungu/toying-with-web-apis-media-capture-and-download-38d2)
+- [From Zero to GraphQL Hero: The Ultimate Getting Started Guide](https://dev.to/mohitsinghchauhan/from-zero-to-graphql-hero-the-ultimate-getting-started-guide-46o7)
 <!-- BLOG-POST-LIST:END -->
 
