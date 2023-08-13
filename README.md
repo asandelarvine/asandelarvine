@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [*Beginner Friendly* Version control using `git`](https://dev.to/ankur0904/beginner-friendly-version-control-using-git-4m51)
 - [K8s Pods](https://dev.to/scorcism/k8s-pod-d7l)
 - [Criando um hello world para micro controladores Atmel usando o avr-gcc](https://dev.to/prinewgirl/criando-um-hello-world-para-micro-controladores-atmel-usando-o-avr-gcc-5alm)
 - [Supercharge Your Flutter Workflow Using 7 Pro Tools 🚀](https://dev.to/yatendra2001/supercharge-your-flutter-workflow-using-7-pro-tools-1bji)
-- [Advancеd Quеrying Tеchniquеs in PostgrеSQL: Part 2](https://dev.to/hassanrehan/advancied-quierying-tiechniquies-in-postgriesql-part-2-2gh7)
 <!-- BLOG-POST-LIST:END -->
 
