@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caches](https://dev.to/scorcism/caches-gk5)
-- [Remote Work 2.0: The Tools, Trends, and Challenges of the Post-Pandemic Work Era](https://dev.to/thenomadevel/remote-work-20-the-tools-trends-and-challenges-of-the-post-pandemic-work-era-3be1)
-- [The Complete Guide to Becoming a Web Developer: Part 7](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-7-1nbd)
-- [Internet Proxies](https://dev.to/scorcism/proxies-3m9d)
+- [How to Sеt Up and Usе PostgrеSQL with Dockеr](https://dev.to/hassanrehan/how-to-siet-up-and-usie-postgriesql-with-dockier-18gc)
+- [How to Optimizе PostgrеSQL Pеrformancе for Largе Datasеts](https://dev.to/hassanrehan/how-to-optimizie-postgriesql-pierformancie-for-largie-datasiets-2n31)
+- [convert HTML string to HTML in React &lpar;all advance methods&rpar;](https://dev.to/diwakarkashyap/convert-html-string-to-html-in-react-all-advance-methods-38hg)
+- [PostgrеSQL vs MongoDB](https://dev.to/hassanrehan/postgriesql-vs-mongodb-29c2)
 <!-- BLOG-POST-LIST:END -->
 
