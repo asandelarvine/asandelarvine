@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Building a Responsive and Mobile-Friendly website from scratch](https://dev.to/wilsonadedamola/a-step-by-step-guide-to-building-a-responsive-and-mobile-friendly-website-from-scratch-h51)
+- [My Life as an Influencer](https://dev.to/polterguy/my-life-as-an-influencer-1f2)
+- [What does a good Software Architecture support?](https://dev.to/khrasikh/what-does-a-good-software-architecture-support-4oho)
 - [__init__ Vs __new__ - When to Use and How](https://dev.to/sachingeek/init-vs-new-when-to-use-and-how-119e)
-- [Diagramming and Database Design📊🔍💡](https://dev.to/documatic/diagramming-and-database-design-42ff)
-- [Sigils &lpar;Part 1 of 2&rpar;](https://dev.to/lizmat/sigils-part-1-of-2-48pf)
-- [Power of Parallel Query Execution in PostgreSQL](https://dev.to/sarmadmm/power-of-parallel-query-execution-in-postgresql-57pn)
 <!-- BLOG-POST-LIST:END -->
 
