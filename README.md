@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Circle-rectangle Transformation](https://dev.to/dimple031/circle-rectangle-transformation-3mif)
-- [Top 10 CLI Tools for DevOps Teams](https://dev.to/globalping/top-10-cli-tools-for-devops-teams-4fok)
-- [The Power of Writing for Developers: More Than Just Code](https://dev.to/inovak/the-power-of-writing-for-developers-more-than-just-code-2j2n)
-- [Where to Find Open Source Projects for Contribution?](https://dev.to/ashutoshmishra/where-to-find-open-source-projects-for-contribution-1ek)
+- [Better Code Quality with TypeScript’s Utility Types: Pick, Partial, and Omit](https://dev.to/martinpersson/better-code-quality-with-typescripts-utility-types-pick-partial-and-omit-3605)
+- [Deploying a Simple Application in a Container with Minikube in a Docker runtime.](https://dev.to/donhadley22/deploying-a-simple-application-in-a-container-with-minikube-in-a-docker-runtime-3en8)
+- [Keeping Data Secure in Cloudtech &amp; DevOps](https://dev.to/mariepettit22/keeping-data-secure-in-cloudtech-devops-kod)
+- [When Use Arrays, Tuples, Maps, and Sets In Typescript with Examples](https://dev.to/danywalls/when-use-arrays-tuples-maps-and-sets-in-typescript-with-examples-57l6)
 <!-- BLOG-POST-LIST:END -->
 
