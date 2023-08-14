@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Shape Makes It All](https://dev.to/this-is-learning/developer-shape-makes-it-all-1gc2)
-- [Full Stack Airbnb Clone with Next.js, Tailwind CSS, Zustand and Amplication](https://dev.to/koolkishan/full-stack-airbnb-clone-with-nextjs-tailwind-css-zustand-and-amplication-125b)
-- [GDScript Coding Conventions: Best Practices for Readable and Maintainable Code](https://dev.to/godot/gdscript-coding-conventions-51nd)
-- [How do you market software?](https://dev.to/robole/how-do-you-market-software-15co)
+- [🔥 2 TRICKS 🔥 to build a Meetup.com clone with React in 30 minutes 🪄✨](https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm)
+- [Safeguarding the Digital Frontier](https://dev.to/hillary/safeguarding-the-digital-frontier-33c1)
+- [Case study: PDF Insights with AWS Textract and OpenAI integration](https://dev.to/brainhubeu/case-study-pdf-insights-with-aws-textract-and-openai-integration-5fp9)
+- [Why and how to check if your app environment is staging or production?](https://dev.to/woovi/why-and-how-to-check-if-your-app-environment-is-staging-or-production-29ah)
 <!-- BLOG-POST-LIST:END -->
 
