@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Blob Storage Account in Azure](https://dev.to/ogah2_il/creating-a-blob-storage-account-in-azure-16kb)
+- [A Better Way To Store Record Status In A Relational Database](https://dev.to/houseman/a-better-way-to-store-record-status-in-a-relational-database-2ik1)
 - [React Custom Hook: useDeepCompareEffect](https://dev.to/sergeyleschev/react-custom-hook-usedeepcompareeffect-5d0c)
 - [Smooth Scrolling with React &amp; Framer Motion](https://dev.to/ironcladdev/smooth-scrolling-with-react-framer-motion-dih)
-- [Cypher Query Language with Apache Age](https://dev.to/fahadullah112/cypher-query-language-with-apache-age-56i)
-- [Apache Age New Features](https://dev.to/fahadullah112/apache-age-new-features-2m0e)
 <!-- BLOG-POST-LIST:END -->
 
