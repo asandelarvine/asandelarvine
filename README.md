@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add user auth with Clerk to Nextjs &lpar;App Directory&rpar; and store it in Embedded Sanity CMS](https://dev.to/julimancan/how-to-add-user-auth-with-clerk-to-nextjs-app-directory-and-store-it-in-embedded-sanity-cms-f0)
+- [Create Custom Block in Quill like Video, Link, Banner.](https://dev.to/deepakjaiswal/create-custom-block-in-quill-like-video-link-banner-1k13)
 - [Quick Guide On How To Create a Generative AI Mobile App with Flutter &amp; OpenAI GPT-4](https://dev.to/yatendra2001/quick-guide-on-how-to-create-a-generative-ai-mobile-app-with-flutter-openai-gpt-4-6j5)
-- [Unlocking the Power of Functional Programming in JavaScript: A Comprehensive Guide](https://dev.to/urstrulyvishwak/unlocking-the-power-of-functional-programming-in-javascript-a-comprehensive-guide-fbk)
-- [Protected Routes in React](https://dev.to/sundarbadagala081/protected-routes-in-react-47b1)
-- [Build your own custom AI CLI tools](https://dev.to/wesen/build-your-own-custom-ai-cli-tools-195)
+- [Python Developer&#39;s Guide to Character Encoding](https://dev.to/honeybadger/python-developers-guide-to-character-encoding-2e8i)
 <!-- BLOG-POST-LIST:END -->
 
