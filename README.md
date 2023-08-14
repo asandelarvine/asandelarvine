@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Digital Restaurant: A Taste of Authentication and Authorization in JavaScript](https://dev.to/madhavigaikwad/navigating-the-digital-restaurant-a-taste-of-authentication-and-authorization-in-javascript-2li7)
+- [The &lpar;Detailed &amp; Creative&rpar; Playbook for More GitHub Stars](https://dev.to/livecycle/the-detailed-creative-playbook-for-more-github-stars-5fo5)
+- [Meme Monday](https://dev.to/ben/meme-monday-c8j)
 - [🔥 2 TRICKS 🔥 to build a Meetup.com clone with React in 30 minutes 🪄✨](https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm)
-- [Safeguarding the Digital Frontier](https://dev.to/hillary/safeguarding-the-digital-frontier-33c1)
-- [Case study: PDF Insights with AWS Textract and OpenAI integration](https://dev.to/brainhubeu/case-study-pdf-insights-with-aws-textract-and-openai-integration-5fp9)
-- [Why and how to check if your app environment is staging or production?](https://dev.to/woovi/why-and-how-to-check-if-your-app-environment-is-staging-or-production-29ah)
 <!-- BLOG-POST-LIST:END -->
 
