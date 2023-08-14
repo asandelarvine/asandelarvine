@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating open source project in React js](https://dev.to/scorcism/creating-open-source-project-in-2-hrs-129j)
+- [Enhancing gRPC Error Handling in a Microservice Architecture](https://dev.to/homayoonalimohammadi/enhancing-grpc-error-handling-in-a-microservice-architecture-4n5m)
+- [How to make a horizontal moving carousel with Vanilla JS &amp; TS](https://dev.to/min11benja/how-to-make-a-horizontal-moving-carousel-with-vanilla-js-ts-elc)
 - [How to add user auth with Clerk to Nextjs &lpar;App Directory&rpar; and store it in Embedded Sanity CMS](https://dev.to/julimancan/how-to-add-user-auth-with-clerk-to-nextjs-app-directory-and-store-it-in-embedded-sanity-cms-f0)
-- [Create Custom Block in Quill like Video, Link, Banner.](https://dev.to/deepakjaiswal/create-custom-block-in-quill-like-video-link-banner-1k13)
-- [Quick Guide On How To Create a Generative AI Mobile App with Flutter &amp; OpenAI GPT-4](https://dev.to/yatendra2001/quick-guide-on-how-to-create-a-generative-ai-mobile-app-with-flutter-openai-gpt-4-6j5)
-- [Python Developer&#39;s Guide to Character Encoding](https://dev.to/honeybadger/python-developers-guide-to-character-encoding-2e8i)
 <!-- BLOG-POST-LIST:END -->
 
