@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your Favorite Outdated School &#39;Tech&#39; Gadget?](https://dev.to/devteam/whats-your-favorite-outdated-school-tech-gadget-2lgk)
+- [Overcoming Hesitations to Seek Help &amp; Collaboration](https://dev.to/codenewbieteam/overcoming-hesitations-to-seek-help-collaboration-4gdl)
+- [Elevate Your Python Skills: Machine Learning Packages That Transformed My Journey as ML Engineer](https://dev.to/proteusiq/elevate-your-python-skills-machine-learning-packages-that-transformed-my-journey-as-ml-engineer-42nj)
 - [Getting Started with Svelte: A Refreshingly Different Approach to Web Development](https://dev.to/ironside/getting-started-with-svelte-a-refreshingly-different-approach-to-web-development-35j1)
-- [Docker Compose Logs: Guide &amp; Best Practices](https://dev.to/squadcast/docker-compose-logs-guide-best-practices-1b2k)
-- [Linux Commands - All Purpose](https://dev.to/scorcism/linux-commands-all-purpose-l06)
-- [Differentiating Material and Cupertino in Flutter](https://dev.to/brainiacneit/differentiating-material-and-cupertino-in-flutter-1pll)
 <!-- BLOG-POST-LIST:END -->
 
