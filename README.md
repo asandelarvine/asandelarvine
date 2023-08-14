@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your Favorite Outdated School &#39;Tech&#39; Gadget?](https://dev.to/devteam/whats-your-favorite-outdated-school-tech-gadget-2lgk)
-- [Overcoming Hesitations to Seek Help &amp; Collaboration](https://dev.to/codenewbieteam/overcoming-hesitations-to-seek-help-collaboration-4gdl)
-- [Elevate Your Python Skills: Machine Learning Packages That Transformed My Journey as ML Engineer](https://dev.to/proteusiq/elevate-your-python-skills-machine-learning-packages-that-transformed-my-journey-as-ml-engineer-42nj)
-- [Getting Started with Svelte: A Refreshingly Different Approach to Web Development](https://dev.to/ironside/getting-started-with-svelte-a-refreshingly-different-approach-to-web-development-35j1)
+- [How I approach Java Web Development to the first job](https://dev.to/ducdmd152/how-i-approach-java-web-development-to-the-first-job-585a)
+- [CommonJs in simple language](https://dev.to/samluxtech/commonjs-in-simple-language-2im8)
+- [UPDATED: Bootstrap 5.3.0 Navbar Multi Level and Mega Menu with Dark Theme!](https://dev.to/typo3freelancer/updated-bootstrap-530-navbar-multi-level-and-mega-menu-with-dark-theme-3hb3)
+- [5 Books Every Developer Must Read](https://dev.to/alexanderisora/5-books-every-developer-must-read-20ff)
 <!-- BLOG-POST-LIST:END -->
 
