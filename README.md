@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
-- [Injecting Micro-Frontend CSS in single-spa](https://dev.to/webjose/injecting-micro-frontend-css-in-single-spa-oe8)
-- [Complementing exceptions - Introducing monads for error handling in ruby](https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip)
-- [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
+- [Exploring the Depths of Observables and RxJS in Angular Applications](https://dev.to/ifleonardo_/exploring-the-depths-of-observables-and-rxjs-in-angular-applications-5c4p)
+- [Firebase Alternatives for your flutter apps](https://dev.to/odinachi/firebase-alternatives-for-your-flutter-apps-326g)
+- [HTML Interview Questions with Answers and Code Examples Part-4](https://dev.to/abidullah786/html-interview-questions-with-answers-and-code-examples-part-4-2db5)
+- [Helm Installation - Ubuntu &amp; Windows](https://dev.to/iamunnip/helm-installation-ubuntu-windows-2md7)
 <!-- BLOG-POST-LIST:END -->
 
