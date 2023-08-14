@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Code Quality with TypeScript’s Utility Types: Pick, Partial, and Omit](https://dev.to/martinpersson/better-code-quality-with-typescripts-utility-types-pick-partial-and-omit-3605)
-- [Deploying a Simple Application in a Container with Minikube in a Docker runtime.](https://dev.to/donhadley22/deploying-a-simple-application-in-a-container-with-minikube-in-a-docker-runtime-3en8)
-- [Keeping Data Secure in Cloudtech &amp; DevOps](https://dev.to/mariepettit22/keeping-data-secure-in-cloudtech-devops-kod)
-- [When Use Arrays, Tuples, Maps, and Sets In Typescript with Examples](https://dev.to/danywalls/when-use-arrays-tuples-maps-and-sets-in-typescript-with-examples-57l6)
+- [Quick Guide On How To Create a Generative AI Mobile App with Flutter &amp; OpenAI GPT-4](https://dev.to/yatendra2001/quick-guide-on-how-to-create-a-generative-ai-mobile-app-with-flutter-openai-gpt-4-6j5)
+- [Unlocking the Power of Functional Programming in JavaScript: A Comprehensive Guide](https://dev.to/urstrulyvishwak/unlocking-the-power-of-functional-programming-in-javascript-a-comprehensive-guide-fbk)
+- [Protected Routes in React](https://dev.to/sundarbadagala081/protected-routes-in-react-47b1)
+- [Build your own custom AI CLI tools](https://dev.to/wesen/build-your-own-custom-ai-cli-tools-195)
 <!-- BLOG-POST-LIST:END -->
 
