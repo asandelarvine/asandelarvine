@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Generators - Harnessing Lazy Evaluation](https://dev.to/blugreenspace/understanding-python-generators-harnessing-lazy-evaluation-52c)
-- [How to create a custom Static Site Generator for Blogs in 2023](https://dev.to/codesphere/how-to-create-a-custom-static-site-generator-for-blogs-in-2023-483b)
-- [IoT integration to transform pet insurance](https://dev.to/abtosoftware/iot-integration-to-transform-pet-insurance-io0)
-- [WebAssembly: byte-code of the future](https://dev.to/joshnuss/webassembly-byte-code-of-the-future-402p)
+- [Circle-rectangle Transformation](https://dev.to/dimple031/circle-rectangle-transformation-3mif)
+- [Top 10 CLI Tools for DevOps Teams](https://dev.to/globalping/top-10-cli-tools-for-devops-teams-4fok)
+- [The Power of Writing for Developers: More Than Just Code](https://dev.to/inovak/the-power-of-writing-for-developers-more-than-just-code-2j2n)
+- [Where to Find Open Source Projects for Contribution?](https://dev.to/ashutoshmishra/where-to-find-open-source-projects-for-contribution-1ek)
 <!-- BLOG-POST-LIST:END -->
 
