@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Digital Restaurant: A Taste of Authentication and Authorization in JavaScript](https://dev.to/madhavigaikwad/navigating-the-digital-restaurant-a-taste-of-authentication-and-authorization-in-javascript-2li7)
-- [The &lpar;Detailed &amp; Creative&rpar; Playbook for More GitHub Stars](https://dev.to/livecycle/the-detailed-creative-playbook-for-more-github-stars-5fo5)
-- [Meme Monday](https://dev.to/ben/meme-monday-c8j)
-- [🔥 2 TRICKS 🔥 to build a Meetup.com clone with React in 30 minutes 🪄✨](https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm)
+- [🤖 We asked AI to imagine web frameworks as superheroes 🦸‍♂️ 🦾](https://dev.to/matijasos/we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j)
+- [TON Smart Contract Pipeline - write simple contract and compile it](https://dev.to/roma_i_m/ton-smart-contract-pipeline-write-simple-contract-and-compile-it-4pnh)
+- [Common graph algorithms: MST &lpar;Minimum Spanning Tree&rpar; algorithm](https://dev.to/capnspek/common-graph-algorithms-mst-minimum-spanning-tree-algorithm-1c35)
+- [✨🎨 An Eye-Catching Card with a nice Hover Effect using HTML and SCSS](https://dev.to/smitprajapati/an-eye-catching-card-with-a-nice-hover-effect-using-html-and-scss-mj1)
 <!-- BLOG-POST-LIST:END -->
 
