@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Svelte: A Refreshingly Different Approach to Web Development](https://dev.to/ironside/getting-started-with-svelte-a-refreshingly-different-approach-to-web-development-35j1)
+- [Docker Compose Logs: Guide &amp; Best Practices](https://dev.to/squadcast/docker-compose-logs-guide-best-practices-1b2k)
 - [Linux Commands - All Purpose](https://dev.to/scorcism/linux-commands-all-purpose-l06)
 - [Differentiating Material and Cupertino in Flutter](https://dev.to/brainiacneit/differentiating-material-and-cupertino-in-flutter-1pll)
-- [Let&#39;s Connect and Collaborate! || My Inbox](https://dev.to/abidullah786/lets-connect-and-collaborate-my-inbox-bbe)
-- [Linux Journey](https://dev.to/scorcism/linux-journey-5bjf)
 <!-- BLOG-POST-LIST:END -->
 
