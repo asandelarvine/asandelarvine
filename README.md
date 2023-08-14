@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I approach Java Web Development to the first job](https://dev.to/ducdmd152/how-i-approach-java-web-development-to-the-first-job-585a)
-- [CommonJs in simple language](https://dev.to/samluxtech/commonjs-in-simple-language-2im8)
-- [UPDATED: Bootstrap 5.3.0 Navbar Multi Level and Mega Menu with Dark Theme!](https://dev.to/typo3freelancer/updated-bootstrap-530-navbar-multi-level-and-mega-menu-with-dark-theme-3hb3)
-- [5 Books Every Developer Must Read](https://dev.to/alexanderisora/5-books-every-developer-must-read-20ff)
+- [Why You Shouldn’t Learn JavaScript?](https://dev.to/devland/why-you-shouldnt-learn-javascript-3ela)
+- [Top 5 SQL Databases You Need To Learn](https://dev.to/hasanelsherbiny/top-5-sql-databases-you-need-to-learn-48mi)
+- [What Does an Open Source Triage Team Do?](https://dev.to/opensauced/what-does-an-open-source-triage-team-do-2egd)
+- [AWS open source newsletter, #169](https://dev.to/aws/aws-open-source-newsletter-169-30gf)
 <!-- BLOG-POST-LIST:END -->
 
