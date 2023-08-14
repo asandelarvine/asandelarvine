@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 We asked AI to imagine web frameworks as superheroes 🦸‍♂️ 🦾](https://dev.to/matijasos/we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j)
-- [TON Smart Contract Pipeline - write simple contract and compile it](https://dev.to/roma_i_m/ton-smart-contract-pipeline-write-simple-contract-and-compile-it-4pnh)
-- [Common graph algorithms: MST &lpar;Minimum Spanning Tree&rpar; algorithm](https://dev.to/capnspek/common-graph-algorithms-mst-minimum-spanning-tree-algorithm-1c35)
-- [✨🎨 An Eye-Catching Card with a nice Hover Effect using HTML and SCSS](https://dev.to/smitprajapati/an-eye-catching-card-with-a-nice-hover-effect-using-html-and-scss-mj1)
+- [Understanding Python Generators - Harnessing Lazy Evaluation](https://dev.to/blugreenspace/understanding-python-generators-harnessing-lazy-evaluation-52c)
+- [How to create a custom Static Site Generator for Blogs in 2023](https://dev.to/codesphere/how-to-create-a-custom-static-site-generator-for-blogs-in-2023-483b)
+- [IoT integration to transform pet insurance](https://dev.to/abtosoftware/iot-integration-to-transform-pet-insurance-io0)
+- [WebAssembly: byte-code of the future](https://dev.to/joshnuss/webassembly-byte-code-of-the-future-402p)
 <!-- BLOG-POST-LIST:END -->
 
