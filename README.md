@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you market software?](https://dev.to/robole/how-do-you-market-software-15co)
 - [Why You Shouldn’t Learn JavaScript?](https://dev.to/devland/why-you-shouldnt-learn-javascript-3ela)
 - [Top 5 SQL Databases You Need To Learn](https://dev.to/hasanelsherbiny/top-5-sql-databases-you-need-to-learn-48mi)
 - [What Does an Open Source Triage Team Do?](https://dev.to/opensauced/what-does-an-open-source-triage-team-do-2egd)
-- [AWS open source newsletter, #169](https://dev.to/aws/aws-open-source-newsletter-169-30gf)
 <!-- BLOG-POST-LIST:END -->
 
