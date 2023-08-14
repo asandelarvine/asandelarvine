@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating open source project in React js](https://dev.to/scorcism/creating-open-source-project-in-2-hrs-129j)
-- [Enhancing gRPC Error Handling in a Microservice Architecture](https://dev.to/homayoonalimohammadi/enhancing-grpc-error-handling-in-a-microservice-architecture-4n5m)
-- [How to make a horizontal moving carousel with Vanilla JS &amp; TS](https://dev.to/min11benja/how-to-make-a-horizontal-moving-carousel-with-vanilla-js-ts-elc)
-- [How to add user auth with Clerk to Nextjs &lpar;App Directory&rpar; and store it in Embedded Sanity CMS](https://dev.to/julimancan/how-to-add-user-auth-with-clerk-to-nextjs-app-directory-and-store-it-in-embedded-sanity-cms-f0)
+- [React Custom Hook: useDeepCompareEffect](https://dev.to/sergeyleschev/react-custom-hook-usedeepcompareeffect-5d0c)
+- [Smooth Scrolling with React &amp; Framer Motion](https://dev.to/ironcladdev/smooth-scrolling-with-react-framer-motion-dih)
+- [Cypher Query Language with Apache Age](https://dev.to/fahadullah112/cypher-query-language-with-apache-age-56i)
+- [Apache Age New Features](https://dev.to/fahadullah112/apache-age-new-features-2m0e)
 <!-- BLOG-POST-LIST:END -->
 
