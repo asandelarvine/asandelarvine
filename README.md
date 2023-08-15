@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Guide &amp; Resources to Enhancing Your ReactJS Skills || 16 GitHub repositories](https://dev.to/abidullah786/ultimate-guide-resources-to-enhancing-your-reactjs-skills-16-github-repositories-4eg0)
 - [How to choose a design system](https://dev.to/byewind/how-to-choose-a-design-system-4oad)
+- [Kubernetes Pods Explained](https://dev.to/aws-builders/kubernetes-pods-explained-2120)
 - [If you are begging to be hired, you are probably doing something very wrong](https://dev.to/sarahokolo/if-you-are-begging-to-be-hired-you-are-probably-doing-something-very-wrong-2cg8)
-- [10 Essential Firebase Tutorials for Beginners](https://dev.to/mrcflorian/10-essential-firebase-tutorials-for-beginners-4i39)
-- [Creating a Blob Storage Account in Azure](https://dev.to/ogah2_il/creating-a-blob-storage-account-in-azure-16kb)
 <!-- BLOG-POST-LIST:END -->
 
