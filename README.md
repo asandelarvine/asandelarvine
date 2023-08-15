@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentando o desenvolvimento com issues](https://dev.to/compjunior/documentando-o-desenvolvimento-com-issues-32ki)
 - [How to generate a random password in Java](https://dev.to/antoniomacave/how-to-generate-a-random-password-in-java-32c)
 - [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
-- [Angular Change Detection and OnPush Strategy 🚀](https://dev.to/mana95/angular-change-detection-and-onpush-strategy-4l63)
-- [Getting started with go](https://dev.to/dwarft/getting-started-with-go-4lo6)
+- [Frontend Development: Approaches to Web Page Rendering](https://dev.to/ezaz-ahmed/frontend-development-approaches-to-web-page-rendering-47gg)
 <!-- BLOG-POST-LIST:END -->
 
