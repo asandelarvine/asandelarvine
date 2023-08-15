@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing dev.to: My Perspective on Blogging Platform Preference](https://dev.to/frolovpetro/choosing-devto-my-perspective-on-blogging-platform-preference-1816)
-- [Introduction To Python Programming - part 4](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-4-1d10)
-- [A guide to Git Aliases](https://dev.to/techielass/a-guide-to-git-aliases-558n)
-- [Seaborn-High Level Graphical Representation](https://dev.to/muradalhasan/seaborn-high-level-graphical-representation-167d)
+- [🎆7 open-source libraries you must know🎆](https://dev.to/idurar/7-open-source-libraries-you-must-know-3aei)
+- [Pulling WordPress Post Categories &amp; Tags Into Eleventy](https://dev.to/stevenwoodson/pulling-wordpress-post-categories-tags-into-eleventy-5bjc)
+- [✨Git Bisect - The Underdog Git Command🔥](https://dev.to/shricodev/git-bisect-the-underdog-git-command-3h2p)
+- [Debugging as a Process of Isolating Assumptions](https://dev.to/codenameone/debugging-as-a-process-of-isolating-assumptions-3c91)
 <!-- BLOG-POST-LIST:END -->
 
