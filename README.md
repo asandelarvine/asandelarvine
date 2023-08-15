@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DAY 73 - 86. Partition List](https://dev.to/pahujanayan/day-73-86-partition-list-nf5)
 - [I “Promise” that u will understand promises in JS forever 😜](https://dev.to/dev_en/i-promise-that-u-will-understand-promises-in-js-forever-1i32)
 - [The Union of GraphQL and Large Language Models](https://dev.to/blazestudios23/the-union-of-graphql-and-large-language-models-23dl)
 - [We moved our Cloud operations to a Kubernetes Operator](https://dev.to/sklarsa/we-moved-our-cloud-operations-to-a-kubernetes-operator-392n)
-- [Why are WebSockets so hard?](https://dev.to/momentohq/why-are-websockets-so-hard-59i4)
 <!-- BLOG-POST-LIST:END -->
 
