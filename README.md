@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive guide to making your web app feel native](https://dev.to/atype/a-comprehensive-guide-to-making-your-web-app-feel-native-3bl9)
-- [Unveiling the Future: Buzz Chat - Where AI Shapes Personalized App Experiences](https://dev.to/fred_abkb/unveiling-the-future-buzz-chat-where-ai-shapes-personalized-app-experiences-1gff)
-- [“Talckatoo: Your Real-Time Multilingual Chat Solution Built with SocketIO, Express.js, and React!” — Part 2](https://dev.to/miminiverse/talckatoo-your-real-time-multilingual-chat-solution-built-with-socketio-expressjs-and-react-part-2-2h35)
-- [9. Zinx Connection Management and Property Setting](https://dev.to/aceld/9-zinx-connection-management-and-property-setting-28ha)
+- [DEV&#39;s Sorting Hat: What&#39;s Your Developer&#39;s Hogwart &quot;&#39;House&quot;?](https://dev.to/devteam/devs-sorting-hat-whats-your-developers-hogwart-house-3ohn)
+- [How Do You Handle Self-Doubt in Coding?](https://dev.to/codenewbieteam/how-do-you-handle-self-doubt-in-coding-4dl0)
+- [The Kinesis Analytics &amp; Apache Flink Playlist](https://dev.to/aws-builders/the-kinesis-analytics-apache-flink-playlist-2h6n)
+- [Boost Your JavaScript Performance with the Debounce Technique!](https://dev.to/yanagisawahidetoshi/boost-your-javascript-performance-with-the-debounce-technique-497i)
 <!-- BLOG-POST-LIST:END -->
 
