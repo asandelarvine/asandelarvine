@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Unveiling Open Source: The Real Reasons Top Companies Share Their Code!🔓](https://dev.to/quine/unveiling-open-source-the-real-reasons-top-companies-share-their-code-4mh3)
-- [Supercharging Your Flutter Development with VS Code: 9 Must-Know Tips! 🚀](https://dev.to/yatendra2001/supercharging-your-flutter-development-with-vs-code-9-must-know-tips-ddi)
-- [Cursor Everywhere: An experiment on shared cursors for every website](https://dev.to/tomczoink/cursor-everywhere-an-experiment-on-shared-cursors-for-every-website-4o7l)
-- [Promise Pool JavaScript LeetCode 2636](https://dev.to/endeavourmonk/promise-pool-javascript-leetcode-2636-598k)
+- [I “Promise” that u will understand promises in JS forever 😜](https://dev.to/dev_en/i-promise-that-u-will-understand-promises-in-js-forever-1i32)
+- [The Union of GraphQL and Large Language Models](https://dev.to/blazestudios23/the-union-of-graphql-and-large-language-models-23dl)
+- [We moved our Cloud operations to a Kubernetes Operator](https://dev.to/sklarsa/we-moved-our-cloud-operations-to-a-kubernetes-operator-392n)
+- [Why are WebSockets so hard?](https://dev.to/momentohq/why-are-websockets-so-hard-59i4)
 <!-- BLOG-POST-LIST:END -->
 
