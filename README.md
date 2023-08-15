@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive guide to making your web app feel native](https://dev.to/atype/a-comprehensive-guide-to-making-your-web-app-feel-native-3bl9)
 - [Unveiling the Future: Buzz Chat - Where AI Shapes Personalized App Experiences](https://dev.to/fred_abkb/unveiling-the-future-buzz-chat-where-ai-shapes-personalized-app-experiences-1gff)
 - [“Talckatoo: Your Real-Time Multilingual Chat Solution Built with SocketIO, Express.js, and React!” — Part 2](https://dev.to/miminiverse/talckatoo-your-real-time-multilingual-chat-solution-built-with-socketio-expressjs-and-react-part-2-2h35)
 - [9. Zinx Connection Management and Property Setting](https://dev.to/aceld/9-zinx-connection-management-and-property-setting-28ha)
-- [Profile not creating when creating a User with Django](https://dev.to/highcenburg/profile-not-creating-when-creating-a-user-with-django-27nd)
 <!-- BLOG-POST-LIST:END -->
 
