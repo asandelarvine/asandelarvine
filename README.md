@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mine XMR with OLD devices! 🤑](https://dev.to/technology-schaechner/mine-xmr-with-old-devices-1e84)
+- [Como resolver serviços que aguentam poucas requisições?](https://dev.to/eronalves1996/como-resolver-servicos-que-aguentam-poucas-requisicoes-5bm9)
+- [Mine XMR with OLD devices + Raspberry Pi! 💰](https://dev.to/technology-schaechner/mine-xmr-with-old-devices-1e84)
+- [Monthly Amazon Location Service Updates - 2023.07](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202307-nh)
 - [📚 ReactJS vs Next.js 🌐](https://dev.to/shivabollam07/reactjs-vs-nextjs-40c0)
-- [createRef in React](https://dev.to/diwakarkashyap/createref-in-react-16f2)
-- [Mastering List Manipulation and Filtering in Python](https://dev.to/scofieldidehen/mastering-list-manipulation-and-filtering-in-python-dm2)
 <!-- BLOG-POST-LIST:END -->
 
