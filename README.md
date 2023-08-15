@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to choose a design system](https://dev.to/byewind/how-to-choose-a-design-system-4oad)
+- [If you are begging to be hired, you are probably doing something very wrong](https://dev.to/sarahokolo/if-you-are-begging-to-be-hired-you-are-probably-doing-something-very-wrong-2cg8)
+- [10 Essential Firebase Tutorials for Beginners](https://dev.to/mrcflorian/10-essential-firebase-tutorials-for-beginners-4i39)
 - [Creating a Blob Storage Account in Azure](https://dev.to/ogah2_il/creating-a-blob-storage-account-in-azure-16kb)
-- [A Better Way To Store Record Status In A Relational Database](https://dev.to/houseman/a-better-way-to-store-record-status-in-a-relational-database-2ik1)
-- [React Custom Hook: useDeepCompareEffect](https://dev.to/sergeyleschev/react-custom-hook-usedeepcompareeffect-5d0c)
-- [Smooth Scrolling with React &amp; Framer Motion](https://dev.to/ironcladdev/smooth-scrolling-with-react-framer-motion-dih)
 <!-- BLOG-POST-LIST:END -->
 
