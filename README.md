@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [React Custom Hook: useEffectOnce](https://dev.to/sergeyleschev/react-custom-hook-useeffectonce-24j4)
 - [Using database functions in JPA Criteria projections](https://dev.to/vhogemann/using-database-functions-in-jpa-criteria-projections-4aih)
 - [My Worst Mistake](https://dev.to/maiommhoon/my-worst-mistake-21p4)
-- [HOW TO AUTOMATE CI/CD ON YOUR AZURE KUBERNETES CLUSTER](https://dev.to/realsteveig/how-to-automate-cicd-on-your-azure-kubernetes-cluster-52c9)
+- [Reverse Engineering Pokemon&#39;s SBIN File Format](https://dev.to/ghrake/reverse-engineering-pokemons-sbin-file-format-4p3h)
 <!-- BLOG-POST-LIST:END -->
 
