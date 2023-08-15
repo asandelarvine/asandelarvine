@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎆7 open-source libraries you must know🎆](https://dev.to/idurar/7-open-source-libraries-you-must-know-3aei)
-- [Pulling WordPress Post Categories &amp; Tags Into Eleventy](https://dev.to/stevenwoodson/pulling-wordpress-post-categories-tags-into-eleventy-5bjc)
-- [✨Git Bisect - The Underdog Git Command🔥](https://dev.to/shricodev/git-bisect-the-underdog-git-command-3h2p)
-- [Debugging as a Process of Isolating Assumptions](https://dev.to/codenameone/debugging-as-a-process-of-isolating-assumptions-3c91)
+- [Mine XMR with OLD devices! 🤑](https://dev.to/technology-schaechner/mine-xmr-with-old-devices-1e84)
+- [📚 ReactJS vs Next.js 🌐](https://dev.to/shivabollam07/reactjs-vs-nextjs-40c0)
+- [createRef in React](https://dev.to/diwakarkashyap/createref-in-react-16f2)
+- [Mastering List Manipulation and Filtering in Python](https://dev.to/scofieldidehen/mastering-list-manipulation-and-filtering-in-python-dm2)
 <!-- BLOG-POST-LIST:END -->
 
