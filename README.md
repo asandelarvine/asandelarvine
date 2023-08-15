@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing dev.to: My Perspective on Blogging Platform Preference](https://dev.to/frolovpetro/choosing-devto-my-perspective-on-blogging-platform-preference-1816)
+- [Introduction To Python Programming - part 4](https://dev.to/akinnimimanuel/introduction-to-python-programming-part-4-1d10)
 - [A guide to Git Aliases](https://dev.to/techielass/a-guide-to-git-aliases-558n)
 - [Seaborn-High Level Graphical Representation](https://dev.to/muradalhasan/seaborn-high-level-graphical-representation-167d)
-- [I was tired of Langchain and created my own wrapper](https://dev.to/zakharsmirnoff/i-was-tired-of-langchain-and-created-my-own-wrapper-1dfo)
-- [Creating a Sliding Text Animation with Tailwind CSS](https://dev.to/cruip_com/creating-a-sliding-text-animation-with-tailwind-css-399n)
 <!-- BLOG-POST-LIST:END -->
 
