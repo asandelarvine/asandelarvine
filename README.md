@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV&#39;s Sorting Hat: What&#39;s Your Developer&#39;s Hogwart &quot;&#39;House&quot;?](https://dev.to/devteam/devs-sorting-hat-whats-your-developers-hogwart-house-3ohn)
-- [How Do You Handle Self-Doubt in Coding?](https://dev.to/codenewbieteam/how-do-you-handle-self-doubt-in-coding-4dl0)
-- [The Kinesis Analytics &amp; Apache Flink Playlist](https://dev.to/aws-builders/the-kinesis-analytics-apache-flink-playlist-2h6n)
-- [Boost Your JavaScript Performance with the Debounce Technique!](https://dev.to/yanagisawahidetoshi/boost-your-javascript-performance-with-the-debounce-technique-497i)
+- [Unleash the Power of the Platform with These HTML Tags](https://dev.to/builderio/unleash-the-power-of-the-platform-with-these-html-tags-2i5n)
+- [How To Convert C# Enum in into Arrays](https://dev.to/bytehide/how-to-convert-c-enum-in-into-arrays-4cg)
+- [Fetching Query String Values in JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/fetching-query-string-values-in-javascript-a-step-by-step-guide-1chb)
+- [Mastering Web Development: Top Tools for 2023](https://dev.to/mkamil92/mastering-web-development-top-tools-for-2023-4mlc)
 <!-- BLOG-POST-LIST:END -->
 
