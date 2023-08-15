@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I was tired of Langchain and created my own wrapper](https://dev.to/zakharsmirnoff/i-was-tired-of-langchain-and-created-my-own-wrapper-1dfo)
+- [Creating a Sliding Text Animation with Tailwind CSS](https://dev.to/cruip_com/creating-a-sliding-text-animation-with-tailwind-css-399n)
 - [JavaScript Equality Operators: Demystifying == vs. === for Precise Comparisons](https://dev.to/iamcymentho/javascript-equality-operators-demystifying-vs-for-precise-comparisons-19bg)
 - [Unleash the Power of the Platform with These HTML Tags](https://dev.to/builderio/unleash-the-power-of-the-platform-with-these-html-tags-2i5n)
-- [Managing State with the setState Method in React](https://dev.to/the2minengineer/managing-state-with-the-setstate-method-in-react-2e6k)
-- [Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)
 <!-- BLOG-POST-LIST:END -->
 
