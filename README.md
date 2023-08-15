@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentando o desenvolvimento com issues](https://dev.to/compjunior/documentando-o-desenvolvimento-com-issues-32ki)
-- [How to generate a random password in Java](https://dev.to/antoniomacave/how-to-generate-a-random-password-in-java-32c)
-- [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
-- [Frontend Development: Approaches to Web Page Rendering](https://dev.to/ezaz-ahmed/frontend-development-approaches-to-web-page-rendering-47gg)
+- [React Custom Hook: useEffectOnce](https://dev.to/sergeyleschev/react-custom-hook-useeffectonce-24j4)
+- [Using database functions in JPA Criteria projections](https://dev.to/vhogemann/using-database-functions-in-jpa-criteria-projections-4aih)
+- [My Worst Mistake](https://dev.to/maiommhoon/my-worst-mistake-21p4)
+- [HOW TO AUTOMATE CI/CD ON YOUR AZURE KUBERNETES CLUSTER](https://dev.to/realsteveig/how-to-automate-cicd-on-your-azure-kubernetes-cluster-52c9)
 <!-- BLOG-POST-LIST:END -->
 
