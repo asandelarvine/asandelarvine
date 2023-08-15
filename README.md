@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Equality Operators: Demystifying == vs. === for Precise Comparisons](https://dev.to/iamcymentho/javascript-equality-operators-demystifying-vs-for-precise-comparisons-19bg)
 - [Unleash the Power of the Platform with These HTML Tags](https://dev.to/builderio/unleash-the-power-of-the-platform-with-these-html-tags-2i5n)
-- [How To Convert C# Enum in into Arrays](https://dev.to/bytehide/how-to-convert-c-enum-in-into-arrays-4cg)
-- [Fetching Query String Values in JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/fetching-query-string-values-in-javascript-a-step-by-step-guide-1chb)
-- [Mastering Web Development: Top Tools for 2023](https://dev.to/mkamil92/mastering-web-development-top-tools-for-2023-4mlc)
+- [Managing State with the setState Method in React](https://dev.to/the2minengineer/managing-state-with-the-setstate-method-in-react-2e6k)
+- [Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)
 <!-- BLOG-POST-LIST:END -->
 
