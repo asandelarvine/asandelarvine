@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Building a Simple Next.js 13 Blog](https://dev.to/digitalpollution/a-step-by-step-guide-to-building-a-simple-nextjs-13-blog-2cc8)
 - [React Custom Hook: useEffectOnce](https://dev.to/sergeyleschev/react-custom-hook-useeffectonce-24j4)
 - [Using database functions in JPA Criteria projections](https://dev.to/vhogemann/using-database-functions-in-jpa-criteria-projections-4aih)
 - [My Worst Mistake](https://dev.to/maiommhoon/my-worst-mistake-21p4)
-- [Reverse Engineering Pokemon&#39;s SBIN File Format](https://dev.to/ghrake/reverse-engineering-pokemons-sbin-file-format-4p3h)
 <!-- BLOG-POST-LIST:END -->
 
