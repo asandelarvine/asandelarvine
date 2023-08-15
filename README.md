@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 73 - 86. Partition List](https://dev.to/pahujanayan/day-73-86-partition-list-nf5)
-- [I “Promise” that u will understand promises in JS forever 😜](https://dev.to/dev_en/i-promise-that-u-will-understand-promises-in-js-forever-1i32)
-- [The Union of GraphQL and Large Language Models](https://dev.to/blazestudios23/the-union-of-graphql-and-large-language-models-23dl)
-- [We moved our Cloud operations to a Kubernetes Operator](https://dev.to/sklarsa/we-moved-our-cloud-operations-to-a-kubernetes-operator-392n)
+- [How to generate a random password in Java](https://dev.to/antoniomacave/how-to-generate-a-random-password-in-java-32c)
+- [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
+- [Angular Change Detection and OnPush Strategy 🚀](https://dev.to/mana95/angular-change-detection-and-onpush-strategy-4l63)
+- [Getting started with go](https://dev.to/dwarft/getting-started-with-go-4lo6)
 <!-- BLOG-POST-LIST:END -->
 
