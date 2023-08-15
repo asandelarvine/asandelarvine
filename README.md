@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide &amp; Resources to Enhancing Your ReactJS Skills || 16 GitHub repositories](https://dev.to/abidullah786/ultimate-guide-resources-to-enhancing-your-reactjs-skills-16-github-repositories-4eg0)
-- [How to choose a design system](https://dev.to/byewind/how-to-choose-a-design-system-4oad)
-- [Kubernetes Pods Explained](https://dev.to/aws-builders/kubernetes-pods-explained-2120)
-- [If you are begging to be hired, you are probably doing something very wrong](https://dev.to/sarahokolo/if-you-are-begging-to-be-hired-you-are-probably-doing-something-very-wrong-2cg8)
+- [“Talckatoo: Your Real-Time Multilingual Chat Solution Built with SocketIO, Express.js, and React!” — Part 2](https://dev.to/miminiverse/talckatoo-your-real-time-multilingual-chat-solution-built-with-socketio-expressjs-and-react-part-2-2h35)
+- [9. Zinx Connection Management and Property Setting](https://dev.to/aceld/9-zinx-connection-management-and-property-setting-28ha)
+- [Profile not creating when creating a User with Django](https://dev.to/highcenburg/profile-not-creating-when-creating-a-user-with-django-27nd)
+- [A Tale of Two Pointers: How Linked Lists Work 🖇️](https://dev.to/aztec_mirage/a-tale-of-two-pointers-how-linked-lists-work-3c6h)
 <!-- BLOG-POST-LIST:END -->
 
