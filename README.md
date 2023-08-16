@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Share Your Encounters with Sticky Coding Obstacles](https://dev.to/codenewbieteam/share-your-encounters-with-sticky-coding-obstacles-2l5e)
-- [Ctrl+Z to the Past: Time-Travelling to Your First Code Line](https://dev.to/devteam/ctrlz-to-the-past-time-travelling-to-your-first-code-line-elg)
-- [Preventing Multiple Lock Files in Your Git Repository using Husky](https://dev.to/nirajniroula/preventing-multiple-lock-files-in-your-git-repository-using-husky-5bcc)
-- [Random Gradient Generator](https://dev.to/rahilisvahora/random-gradient-generator-2m78)
+- [GDScript Code Ordering](https://dev.to/godot/gdscript-code-ordering-5d9f)
+- [&quot;Mastering Remote Work: A Developer&#39;s Guide to Success&quot;](https://dev.to/kssaiteja/mastering-remote-work-a-developers-guide-to-success-pf7)
+- [Transaction Isolation Levels and why we should care](https://dev.to/adammetis/transaction-isolation-levels-and-why-we-should-care-25c5)
+- [PostgreSQL Background Processes: A Simple Guide](https://dev.to/humzakt/postgresql-background-processes-a-simple-guide-12d5)
 <!-- BLOG-POST-LIST:END -->
 
