@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CV-based self-diagnosis telemedicine application](https://dev.to/abtosoftware/cv-based-self-diagnosis-telemedicine-application-439m)
-- [Extensions Guide for Nebula Oni Color Theme](https://dev.to/psudo-dev/extensions-guide-for-nebula-oni-color-theme-2hl0)
-- [Did anyone built online store with Next.JS?](https://dev.to/shnai0/did-anyone-built-online-store-with-nextjs-3a41)
-- [Refine &amp; Nest.js boilerplate](https://dev.to/igolubic/refine-nestjs-boilerplate-4jh6)
+- [Crew-Go](https://dev.to/aaronblondeau/crew-go-368d)
+- [How To Handle Authentication with Micro-Services](https://dev.to/morintd/how-to-handle-authentication-with-micro-services-2hij)
+- [Mastering JSON in Flutter: A Comprehensive Guide 🔧](https://dev.to/yatendra2001/mastering-json-in-flutter-a-comprehensive-guide-2a16)
+- [Data Encryption: Securing Data at Rest and in Transit with Encryption Technologies](https://dev.to/documatic/data-encryption-securing-data-at-rest-and-in-transit-with-encryption-technologies-1lc2)
 <!-- BLOG-POST-LIST:END -->
 
