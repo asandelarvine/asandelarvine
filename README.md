@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Formatting Dates in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/formatting-dates-in-javascript-a-comprehensive-guide-1i9o)
-- [Side effect in creating table text boxes using Angular](https://dev.to/elad770/side-effect-in-creating-table-text-boxes-using-angular-2ikk)
-- [Top 6 tools for text-based UML sequence diagrams](https://dev.to/icepanel/top-6-tools-for-text-based-uml-sequence-diagrams-7ce)
-- [SQL Data Types: A Comprehensive Overview](https://dev.to/elvescmd/sql-data-types-a-comprehensive-overview-a3)
+- [CV-based self-diagnosis telemedicine application](https://dev.to/abtosoftware/cv-based-self-diagnosis-telemedicine-application-439m)
+- [Extensions Guide for Nebula Oni Color Theme](https://dev.to/psudo-dev/extensions-guide-for-nebula-oni-color-theme-2hl0)
+- [Did anyone built online store with Next.JS?](https://dev.to/shnai0/did-anyone-built-online-store-with-nextjs-3a41)
+- [Refine &amp; Nest.js boilerplate](https://dev.to/igolubic/refine-nestjs-boilerplate-4jh6)
 <!-- BLOG-POST-LIST:END -->
 
