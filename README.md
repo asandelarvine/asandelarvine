@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GDScript Code Ordering](https://dev.to/godot/gdscript-code-ordering-5d9f)
-- [&quot;Mastering Remote Work: A Developer&#39;s Guide to Success&quot;](https://dev.to/kssaiteja/mastering-remote-work-a-developers-guide-to-success-pf7)
-- [Transaction Isolation Levels and why we should care](https://dev.to/adammetis/transaction-isolation-levels-and-why-we-should-care-25c5)
-- [PostgreSQL Background Processes: A Simple Guide](https://dev.to/humzakt/postgresql-background-processes-a-simple-guide-12d5)
+- [Websites with AWS: Hosting, HTTPS and Custom Domain](https://dev.to/zirkelc/websites-with-aws-hosting-https-and-custom-domain-2l57)
+- [What is side-effect in ReactJS and how to handle it?](https://dev.to/hellonehha/what-is-side-effect-in-reactjs-and-how-to-handle-it-39j8)
+- [Git Tags Continued - Share, Delete and Checkout](https://dev.to/ello/git-tags-continued-share-delete-and-checkout-4p0n)
+- [System Design: A Guide for Beginners](https://dev.to/anilkaundal/system-design-a-guide-for-beginners-346a)
 <!-- BLOG-POST-LIST:END -->
 
