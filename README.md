@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic SQL Select + From Statements with Examples.](https://dev.to/rashtech/basic-sql-select-from-statements-with-examples-32hn)
-- [Transactions And Transaction Propagation](https://dev.to/sohailshah/transactions-and-transaction-propagation-2noh)
-- [LAMP &amp; Wordpress Installation](https://dev.to/technonotes/lamp-wordpress-installation-1acf)
-- [From Task List to Mind Map: Generative AI&#39;s Role in Workflow Visualization](https://dev.to/taskade/from-task-list-to-mind-map-generative-ais-role-in-workflow-visualization-5bgo)
+- [Share Your Encounters with Sticky Coding Obstacles](https://dev.to/codenewbieteam/share-your-encounters-with-sticky-coding-obstacles-2l5e)
+- [Ctrl+Z to the Past: Time-Travelling to Your First Code Line](https://dev.to/devteam/ctrlz-to-the-past-time-travelling-to-your-first-code-line-elg)
+- [Preventing Multiple Lock Files in Your Git Repository using Husky](https://dev.to/nirajniroula/preventing-multiple-lock-files-in-your-git-repository-using-husky-5bcc)
+- [Random Gradient Generator](https://dev.to/rahilisvahora/random-gradient-generator-2m78)
 <!-- BLOG-POST-LIST:END -->
 
