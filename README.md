@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NHẬN ĐỊNH KẾT QUẢ BÓNG ĐÁ HÔM NAY](https://dev.to/nhandinhbongda68/nhan-dinh-ket-qua-bong-da-hom-nay-124i)
 - [STYLES CSS ET HTML : RELIER LES FEUILLES DE STYLE CSS AUX DOCUMENT HTML, STYLE CSS EN LIGNE OU EXTERNE.](https://dev.to/kadea-academy/styles-css-et-html-relier-les-feuilles-de-style-css-aux-document-html-style-css-en-ligne-ou-externe-n69)
 - [Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
 - [Top Resources for High-Quality Images, Vectors, and Icons](https://dev.to/abidullah786/top-resources-for-high-quality-images-vectors-and-icons-3ffn)
+- [tRPC: What the future of the backend looks like](https://dev.to/makinox/trpc-what-the-future-of-the-backend-looks-like-3boe)
 <!-- BLOG-POST-LIST:END -->
 
