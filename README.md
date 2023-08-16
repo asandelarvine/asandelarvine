@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Benefits of Using Prisma in Your Next Project](https://dev.to/brilworks/discover-the-benefits-of-using-prisma-in-your-next-project-7jg)
-- [From Banking Sales to Software Success: A Journey of Passion and Perseverance](https://dev.to/ritadee/from-banking-sales-to-software-success-a-journey-of-passion-and-perseverance-52e9)
-- [You won&#39;t be able to answer this simple JavaScript question!](https://dev.to/sadeedpv/you-wont-be-able-to-answer-this-javascript-question-235i)
-- [Welcome Thread - v238](https://dev.to/devteam/welcome-thread-v239-2f67)
+- [Demystifying &quot;No &#39;Access-Control-Allow-Origin&#39; Header&quot; in JavaScript and Postman: A Comprehensive Exploration](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
+- [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/slsbytheodo/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
+- [Top Api Architectural Styles](https://dev.to/emmanuel_ishola/top-api-architectural-styles-4340)
+- [Impossible⁉️ CSS only syntax highlighting 😱 ...with a single element and GRADIENTS 🤯](https://dev.to/grahamthedev/impossible-css-only-js-syntax-highlighting-with-a-single-element-and-gradients-243j)
 <!-- BLOG-POST-LIST:END -->
 
