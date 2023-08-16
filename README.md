@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying &quot;No &#39;Access-Control-Allow-Origin&#39; Header&quot; in JavaScript and Postman: A Comprehensive Exploration](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
-- [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/slsbytheodo/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
-- [Top Api Architectural Styles](https://dev.to/emmanuel_ishola/top-api-architectural-styles-4340)
-- [Impossible⁉️ CSS only syntax highlighting 😱 ...with a single element and GRADIENTS 🤯](https://dev.to/grahamthedev/impossible-css-only-js-syntax-highlighting-with-a-single-element-and-gradients-243j)
+- [Build an Expandable / Collapsible Data Table with 2 shadcn/ui Components](https://dev.to/mfts/build-an-expandable-data-table-with-2-shadcnui-components-4nge)
+- [Dev Job Oppurtunities @ VC-Backed Startups](https://dev.to/mohanmukund13/vc-backed-startups-dev-job-oppurtunities-488k)
+- [MASTERING RESPONSIVE DESIGN TECHNIQUES FOR MODERN WEBSITES](https://dev.to/mofe/mastering-responsive-design-techniques-for-modern-websites-2pc5)
+- [Emmanuel Katto | 11 Beginner Tips for Learning Python Programming](https://dev.to/emmanuelkatto/emmanuel-katto-11-beginner-tips-for-learning-python-programming-2b7m)
 <!-- BLOG-POST-LIST:END -->
 
