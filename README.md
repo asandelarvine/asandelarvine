@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crew-Go](https://dev.to/aaronblondeau/crew-go-368d)
-- [How To Handle Authentication with Micro-Services](https://dev.to/morintd/how-to-handle-authentication-with-micro-services-2hij)
-- [Mastering JSON in Flutter: A Comprehensive Guide 🔧](https://dev.to/yatendra2001/mastering-json-in-flutter-a-comprehensive-guide-2a16)
-- [Data Encryption: Securing Data at Rest and in Transit with Encryption Technologies](https://dev.to/documatic/data-encryption-securing-data-at-rest-and-in-transit-with-encryption-technologies-1lc2)
+- [build your own FAAS provider](https://dev.to/saphidev/build-your-own-faas-provider-2gca)
+- [The significance of performance testing for retail and e-commerce apps](https://dev.to/williamamanda23/the-significance-of-performance-testing-for-retail-and-e-commerce-apps-1e89)
+- [Migrate from WordPress to a headless CMS in 3 easy steps](https://dev.to/tonyspiro/migrate-from-wordpress-to-a-headless-cms-in-3-easy-steps-20fp)
+- [How to create Sitemap.xml for ASP.net Core Razor Pages](https://dev.to/xakpc/how-to-create-sitemapxml-for-aspnet-core-razor-pages-38fl)
 <!-- BLOG-POST-LIST:END -->
 
