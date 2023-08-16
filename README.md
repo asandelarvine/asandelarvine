@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular vs React Native : A Comparison](https://dev.to/bradlyhammer/angular-vs-react-native-a-comparison-co8)
+- [Discover the Benefits of Using Prisma in Your Next Project](https://dev.to/brilworks/discover-the-benefits-of-using-prisma-in-your-next-project-7jg)
+- [From Banking Sales to Software Success: A Journey of Passion and Perseverance](https://dev.to/ritadee/from-banking-sales-to-software-success-a-journey-of-passion-and-perseverance-52e9)
 - [You won&#39;t be able to answer this simple JavaScript question!](https://dev.to/sadeedpv/you-wont-be-able-to-answer-this-javascript-question-235i)
 - [Welcome Thread - v238](https://dev.to/devteam/welcome-thread-v239-2f67)
-- [Websites with AWS: Hosting, HTTPS and Custom Domain](https://dev.to/zirkelc/websites-with-aws-hosting-https-and-custom-domain-2l57)
 <!-- BLOG-POST-LIST:END -->
 
