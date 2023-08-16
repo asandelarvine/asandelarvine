@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is DigitalOcean? - Everything You Need to Know](https://dev.to/devarshishimpi/what-is-digitalocean-everything-you-need-to-know-39ph)
+- [PostgreSQL Full-Text Search: A Practical Introduction with Examples](https://dev.to/thedataisaac/postgresql-full-text-search-a-practical-introduction-with-examples-bn9)
 - [Build an Expandable / Collapsible Data Table with 2 shadcn/ui Components](https://dev.to/mfts/build-an-expandable-data-table-with-2-shadcnui-components-4nge)
 - [Dev Job Oppurtunities @ VC-Backed Startups](https://dev.to/mohanmukund13/vc-backed-startups-dev-job-oppurtunities-488k)
-- [MASTERING RESPONSIVE DESIGN TECHNIQUES FOR MODERN WEBSITES](https://dev.to/mofe/mastering-responsive-design-techniques-for-modern-websites-2pc5)
-- [Emmanuel Katto | 11 Beginner Tips for Learning Python Programming](https://dev.to/emmanuelkatto/emmanuel-katto-11-beginner-tips-for-learning-python-programming-2b7m)
 <!-- BLOG-POST-LIST:END -->
 
