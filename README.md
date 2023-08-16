@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular vs React Native : A Comparison](https://dev.to/bradlyhammer/angular-vs-react-native-a-comparison-co8)
+- [You won&#39;t be able to answer this simple JavaScript question!](https://dev.to/sadeedpv/you-wont-be-able-to-answer-this-javascript-question-235i)
+- [Welcome Thread - v238](https://dev.to/devteam/welcome-thread-v239-2f67)
 - [Websites with AWS: Hosting, HTTPS and Custom Domain](https://dev.to/zirkelc/websites-with-aws-hosting-https-and-custom-domain-2l57)
-- [What is side-effect in ReactJS and how to handle it?](https://dev.to/hellonehha/what-is-side-effect-in-reactjs-and-how-to-handle-it-39j8)
-- [Git Tags Continued - Share, Delete and Checkout](https://dev.to/ello/git-tags-continued-share-delete-and-checkout-4p0n)
-- [System Design: A Guide for Beginners](https://dev.to/anilkaundal/system-design-a-guide-for-beginners-346a)
 <!-- BLOG-POST-LIST:END -->
 
