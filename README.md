@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Building a Simple Next.js 13 Blog](https://dev.to/digitalpollution/a-step-by-step-guide-to-building-a-simple-nextjs-13-blog-2cc8)
-- [React Custom Hook: useEffectOnce](https://dev.to/sergeyleschev/react-custom-hook-useeffectonce-24j4)
-- [Using database functions in JPA Criteria projections](https://dev.to/vhogemann/using-database-functions-in-jpa-criteria-projections-4aih)
-- [My Worst Mistake](https://dev.to/maiommhoon/my-worst-mistake-21p4)
+- [tRPC: What the future of the backend looks like](https://dev.to/makinox/trpc-what-the-future-of-the-backend-looks-like-3boe)
+- [Code, Kids, and Tavern Tales: Phil&#39;s Digital Odyssey](https://dev.to/philipjohnbasile/code-kids-and-tavern-tales-phils-digital-odyssey-2ek8)
+- [Computer Science 4 Newbies - Understanding The Big-O](https://dev.to/yelldutz/computer-science-4-newbies-understanding-the-big-o-4pf1)
+- [Week 04: Unleash the Power of AWS Storage: Dive into Amazon S3](https://dev.to/arbythecoder/week-04-unleash-the-power-of-aws-storage-dive-into-amazon-s3-27lk)
 <!-- BLOG-POST-LIST:END -->
 
