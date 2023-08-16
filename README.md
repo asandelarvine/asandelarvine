@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do millions of people book meetings with God?](https://dev.to/svemaraju/how-do-millions-of-people-book-meetings-with-god-4ccb)
 - [Getting Started in a New Codebase](https://dev.to/abbeyperini/getting-started-in-a-new-codebase-e7b)
 - [React Custom Hook: useEventListener](https://dev.to/sergeyleschev/react-custom-hook-useeventlistener-4kb7)
-- [A Beginner&#39;s Guide to the Serverless Application Model &lpar;SAM&rpar;](https://dev.to/aws-heroes/a-beginners-guide-to-the-serverless-application-model-sam-4gdf)
-- [#DEVDiscuss: Error Handling](https://dev.to/devteam/devdiscuss-error-handling-575i)
+- [The Side Hustle: Developers, Passion, and Passive Income](https://dev.to/inovak/the-side-hustle-developers-passion-and-passive-income-44jp)
 <!-- BLOG-POST-LIST:END -->
 
