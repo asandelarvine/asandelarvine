@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is DigitalOcean? - Everything You Need to Know](https://dev.to/devarshishimpi/what-is-digitalocean-everything-you-need-to-know-39ph)
-- [PostgreSQL Full-Text Search: A Practical Introduction with Examples](https://dev.to/thedataisaac/postgresql-full-text-search-a-practical-introduction-with-examples-bn9)
-- [Build an Expandable / Collapsible Data Table with 2 shadcn/ui Components](https://dev.to/mfts/build-an-expandable-data-table-with-2-shadcnui-components-4nge)
-- [Dev Job Oppurtunities @ VC-Backed Startups](https://dev.to/mohanmukund13/vc-backed-startups-dev-job-oppurtunities-488k)
+- [Formatting Dates in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/formatting-dates-in-javascript-a-comprehensive-guide-1i9o)
+- [Side effect in creating table text boxes using Angular](https://dev.to/elad770/side-effect-in-creating-table-text-boxes-using-angular-2ikk)
+- [Top 6 tools for text-based UML sequence diagrams](https://dev.to/icepanel/top-6-tools-for-text-based-uml-sequence-diagrams-7ce)
+- [SQL Data Types: A Comprehensive Overview](https://dev.to/elvescmd/sql-data-types-a-comprehensive-overview-a3)
 <!-- BLOG-POST-LIST:END -->
 
