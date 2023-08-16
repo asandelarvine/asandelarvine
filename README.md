@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [STYLES CSS ET HTML : RELIER LES FEUILLES DE STYLE CSS AUX DOCUMENT HTML, STYLE CSS EN LIGNE OU EXTERNE.](https://dev.to/kadea-academy/styles-css-et-html-relier-les-feuilles-de-style-css-aux-document-html-style-css-en-ligne-ou-externe-n69)
-- [Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
-- [Top Resources for High-Quality Images, Vectors, and Icons](https://dev.to/abidullah786/top-resources-for-high-quality-images-vectors-and-icons-3ffn)
-- [tRPC: What the future of the backend looks like](https://dev.to/makinox/trpc-what-the-future-of-the-backend-looks-like-3boe)
+- [Basic SQL Select + From Statements with Examples.](https://dev.to/rashtech/basic-sql-select-from-statements-with-examples-32hn)
+- [Transactions And Transaction Propagation](https://dev.to/sohailshah/transactions-and-transaction-propagation-2noh)
+- [LAMP &amp; Wordpress Installation](https://dev.to/technonotes/lamp-wordpress-installation-1acf)
+- [From Task List to Mind Map: Generative AI&#39;s Role in Workflow Visualization](https://dev.to/taskade/from-task-list-to-mind-map-generative-ais-role-in-workflow-visualization-5bgo)
 <!-- BLOG-POST-LIST:END -->
 
