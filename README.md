@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
 - [Top Resources for High-Quality Images, Vectors, and Icons](https://dev.to/abidullah786/top-resources-for-high-quality-images-vectors-and-icons-3ffn)
 - [tRPC: What the future of the backend looks like](https://dev.to/makinox/trpc-what-the-future-of-the-backend-looks-like-3boe)
 - [Code, Kids, and Tavern Tales: Phil&#39;s Digital Odyssey](https://dev.to/philipjohnbasile/code-kids-and-tavern-tales-phils-digital-odyssey-2ek8)
-- [Computer Science 4 Newbies - Understanding The Big-O](https://dev.to/yelldutz/computer-science-4-newbies-understanding-the-big-o-4pf1)
 <!-- BLOG-POST-LIST:END -->
 
