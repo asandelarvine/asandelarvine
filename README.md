@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MLH Fellowship - My Experience](https://dev.to/anubhav-gupta/mlh-fellowship-my-experience-fnm)
+- [Specify Node Version in package.json](https://dev.to/walternascimentobarroso/specify-node-version-in-packagejson-47de)
+- [JavaScript is Extraordinarily Weird! Hear Me Out! 👨‍💻📢🔥](https://dev.to/arjuncodess/javascript-is-extraordinarily-weird-hear-me-out-56j5)
 - [Guia para Iniciantes: Como Começar a Fazer Freelance Desenvolvendo Sites para Empresas Locais](https://dev.to/robsonamendonca/guia-para-iniciantes-como-comecar-a-fazer-freelance-desenvolvendo-sites-para-empresas-locais-4nof)
-- [Top 5 Project Management Tools Platforms Solutions](https://dev.to/vs7330242/top-5-project-management-tools-platforms-solutions-1ekd)
-- [🍃  What Happens When You Let Go in Programming &lpar;Surprising Results&rpar;](https://dev.to/evergrowingdev/what-happens-when-you-let-go-in-programming-surprising-results-2pdd)
-- [Building Machine Learning Models with PySpark&#39;s pyspark.ml Library: A Comprehensive Guide.](https://dev.to/grayhat/building-machine-learning-models-with-pysparks-pysparkml-library-a-comprehensive-guide-4g5h)
 <!-- BLOG-POST-LIST:END -->
 
