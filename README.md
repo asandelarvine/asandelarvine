@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Deep Cloning of Objects in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/efficient-deep-cloning-of-objects-in-javascript-a-comprehensive-guide-2dei)
-- [Optimize Dockerfile By `Yarn Prune`](https://dev.to/berk/optimize-dockerfile-for-yarn-based-nodejs-web-apps-3al7)
-- [Open Source ABCs: Hacking](https://dev.to/opensauced/open-source-abcs-hacking-74g)
-- [What&#39;s a Merge Queue and Why Use it?](https://dev.to/wakatepemergify/whats-a-merge-queue-and-why-use-it-1b39)
+- [Guia para Iniciantes: Como Começar a Fazer Freelance Desenvolvendo Sites para Empresas Locais](https://dev.to/robsonamendonca/guia-para-iniciantes-como-comecar-a-fazer-freelance-desenvolvendo-sites-para-empresas-locais-4nof)
+- [Top 5 Project Management Tools Platforms Solutions](https://dev.to/vs7330242/top-5-project-management-tools-platforms-solutions-1ekd)
+- [🍃  What Happens When You Let Go in Programming &lpar;Surprising Results&rpar;](https://dev.to/evergrowingdev/what-happens-when-you-let-go-in-programming-surprising-results-2pdd)
+- [Building Machine Learning Models with PySpark&#39;s pyspark.ml Library: A Comprehensive Guide.](https://dev.to/grayhat/building-machine-learning-models-with-pysparks-pysparkml-library-a-comprehensive-guide-4g5h)
 <!-- BLOG-POST-LIST:END -->
 
