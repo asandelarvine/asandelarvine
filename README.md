@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Completely FREE Big Data Resources](https://dev.to/aqsa81/8-completely-free-big-data-resources-2chh)
-- [Top 5 Best News APIs for developers](https://dev.to/newsdataio/top-5-best-news-apis-for-developers-4e5a)
-- [30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.](https://dev.to/jsqueen/30-days-of-solidity-day-3-getter-setter-uint-int-516k)
-- [Establishing PostgreSQL Connection with Prisma in NestJS: A Comprehensive Guide with Bookmark API Example](https://dev.to/vishnucprasad/establishing-postgresql-connection-with-prisma-in-nestjs-a-comprehensive-guide-with-bookmark-api-example-2960)
+- [What Aspects of Coding Still Leave You Feeling Uncertain?](https://dev.to/codenewbieteam/what-aspects-of-coding-still-leave-you-feeling-uncertain-4ea)
+- [School Lessons: Will I Use It in Real Life?](https://dev.to/devteam/school-lessons-will-i-use-it-in-real-life-1395)
+- [STO Development Services - Paving the Perfect Path for Your Successful Token Sale](https://dev.to/jessietomaz/sto-development-services-paving-the-perfect-path-for-your-successful-token-sale-118c)
+- [Creating Multiple Themes in Tailwind CSS and Next.js](https://dev.to/ultroneoustech/creating-multiple-themes-in-tailwind-css-and-nextjs-2e98)
 <!-- BLOG-POST-LIST:END -->
 
