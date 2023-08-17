@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Accessibility: A Web for Everyone by Empowering Inclusion and Equal Access for All](https://dev.to/miracool/web-accessibility-a-web-for-everyone-by-empowering-inclusion-and-equal-access-for-all-3jgg)
-- [C# record keyword &amp; Nondestructive Mutation: Tell Me a Time](https://dev.to/raddevus/c-record-keyword-nondestructive-mutation-tell-me-a-time-2ipe)
-- [Sloan&#39;s Inbox: Bored... Is it time to get another job?](https://dev.to/devteam/sloans-inbox-bored-is-it-time-to-get-another-job-71e)
-- [Intro to Python: Day 11 - Another Class Inheritance Example](https://dev.to/jwhubert91/intro-to-python-day-11-another-class-inheritance-example-29o6)
+- [You too can help &lpar;+ earn&rpar;! 📈](https://dev.to/schbenedikt/you-too-can-help-2c8l)
+- [Understanding the automatic minimum size of flex items](https://dev.to/tsudhishnair/understanding-the-automatic-minimum-size-of-flex-items-3fcd)
+- [Best CI/CD tools for React Native](https://dev.to/logrocket/best-cicd-tools-for-react-native-25ga)
+- [Auto Generate Post Thumbnail in Python using Html2Image](https://dev.to/nilan/auto-generate-post-thumbnail-in-python-using-html2image-3055)
 <!-- BLOG-POST-LIST:END -->
 
