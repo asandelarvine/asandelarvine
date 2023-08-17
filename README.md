@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 List Of 10 Flutter Libraries and Frameworks to Speed Up Your Development:](https://dev.to/yatendra2001/list-of-10-flutter-libraries-and-frameworks-to-speed-up-your-development-5fe6)
+- [Custom Middleware for FastAPI](https://dev.to/sbalasa/custom-middleware-for-fastapi-4ifg)
 - [How should I start?](https://dev.to/alanmbarr/how-should-i-start-4ccj)
 - [System Design Introduction](https://dev.to/rajrathod/system-design-introduction-9o8)
-- [React useInView Hook - How to create useInView Hook in ReactJs](https://dev.to/gihanrangana/react-useinview-hook-how-to-create-useinview-hook-in-reactjs-1hp9)
-- [Running React and Express with concurrently](https://dev.to/logrocket/running-react-and-express-with-concurrently-3m1k)
 <!-- BLOG-POST-LIST:END -->
 
