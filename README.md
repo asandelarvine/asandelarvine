@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.Js 13 Parallel Routes: A Comprehensive Guide](https://dev.to/digitalpollution/nextjs-13-parallel-routes-a-comprehensive-guide-5fgi)
+- [Broken pinky... any suggestions for voice to text apps? 🤙](https://dev.to/michaeltharrington/broken-pinky-any-suggestions-for-voice-to-text-apps-4ep2)
+- [Top 5 Free AI Courses Every Enthusiast Should Consider: Have You Enrolled Yet?](https://dev.to/thenomadevel/top-5-ai-courses-every-enthusiast-should-consider-have-you-enrolled-yet-4k99)
 - [React Custom Hook: useFetch](https://dev.to/sergeyleschev/react-custom-hook-usefetch-3k0p)
-- [How to update your .gitignore file](https://dev.to/jafetmeza/how-to-update-your-gitignore-file-325e)
-- [Does imposter syndrome ever get better?: CodeNewbie Podcast](https://dev.to/codenewbieteam/does-imposter-syndrome-ever-get-better-codenewbie-podcast-19dh)
-- [&quot;Мобильная&quot; разработка. [Операционные системы и терминал]](https://dev.to/mainarthur/mobilnaia-razrabotka-opieratsionnyie-sistiemy-i-tierminal-5fpb)
 <!-- BLOG-POST-LIST:END -->
 
