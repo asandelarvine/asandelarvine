@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MLH Fellowship - My Experience](https://dev.to/anubhav-gupta/mlh-fellowship-my-experience-fnm)
-- [Specify Node Version in package.json](https://dev.to/walternascimentobarroso/specify-node-version-in-packagejson-47de)
-- [JavaScript is Extraordinarily Weird! Hear Me Out! 👨‍💻📢🔥](https://dev.to/arjuncodess/javascript-is-extraordinarily-weird-hear-me-out-56j5)
-- [Guia para Iniciantes: Como Começar a Fazer Freelance Desenvolvendo Sites para Empresas Locais](https://dev.to/robsonamendonca/guia-para-iniciantes-como-comecar-a-fazer-freelance-desenvolvendo-sites-para-empresas-locais-4nof)
+- [Web Accessibility: A Web for Everyone by Empowering Inclusion and Equal Access for All](https://dev.to/miracool/web-accessibility-a-web-for-everyone-by-empowering-inclusion-and-equal-access-for-all-3jgg)
+- [C# record keyword &amp; Nondestructive Mutation: Tell Me a Time](https://dev.to/raddevus/c-record-keyword-nondestructive-mutation-tell-me-a-time-2ipe)
+- [Sloan&#39;s Inbox: Bored... Is it time to get another job?](https://dev.to/devteam/sloans-inbox-bored-is-it-time-to-get-another-job-71e)
+- [Intro to Python: Day 11 - Another Class Inheritance Example](https://dev.to/jwhubert91/intro-to-python-day-11-another-class-inheritance-example-29o6)
 <!-- BLOG-POST-LIST:END -->
 
