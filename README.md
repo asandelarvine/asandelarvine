@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple AWS: 20 Advanced Tips for Lambda](https://dev.to/aws-builders/simple-aws-20-advanced-tips-for-lambda-1oif)
-- [Test our new Fastly apps on Glitch](https://dev.to/glitch/test-our-new-fastly-apps-on-glitch-221h)
-- [You too can help &lpar;+ earn&rpar;! 📈](https://dev.to/schbenedikt/you-too-can-help-2c8l)
-- [Best CI/CD tools for React Native](https://dev.to/logrocket/best-cicd-tools-for-react-native-25ga)
+- [How should I start?](https://dev.to/alanmbarr/how-should-i-start-4ccj)
+- [System Design Introduction](https://dev.to/rajrathod/system-design-introduction-9o8)
+- [React useInView Hook - How to create useInView Hook in ReactJs](https://dev.to/gihanrangana/react-useinview-hook-how-to-create-useinview-hook-in-reactjs-1hp9)
+- [Running React and Express with concurrently](https://dev.to/logrocket/running-react-and-express-with-concurrently-3m1k)
 <!-- BLOG-POST-LIST:END -->
 
