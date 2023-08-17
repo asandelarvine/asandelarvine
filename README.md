@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Best News APIs for developers](https://dev.to/newsdataio/top-5-best-news-apis-for-developers-4e5a)
+- [30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.](https://dev.to/jsqueen/30-days-of-solidity-day-3-getter-setter-uint-int-516k)
 - [Establishing PostgreSQL Connection with Prisma in NestJS: A Comprehensive Guide with Bookmark API Example](https://dev.to/vishnucprasad/establishing-postgresql-connection-with-prisma-in-nestjs-a-comprehensive-guide-with-bookmark-api-example-2960)
 - [Generating Optimized Image Formats with Node.js](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
-- [How to debug a Firefox add-on &lpar;extension&rpar;](https://dev.to/nickytonline/how-to-debug-a-firefox-add-on-extension-489f)
-- [useCallback: Guide, use-cases, examples](https://dev.to/alakkadshaw/usecallback-guide-use-cases-examples-40fg)
 <!-- BLOG-POST-LIST:END -->
 
