@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Cool Developer Console Tricks you must know! &lpar;with code&rpar;](https://dev.to/jeetvora331/3-cool-developer-console-tricks-you-must-know-1ncc)
+- [Never write tests or docs again! - Amalgam could change everything.](https://dev.to/adam_cyclones/never-write-a-tests-or-docs-again-amalgam-could-change-everything-1m99)
+- [Adding a &quot;share to mastodon&quot; link to any web site](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
 - [Next.Js 13 Parallel Routes: A Comprehensive Guide](https://dev.to/digitalpollution/nextjs-13-parallel-routes-a-comprehensive-guide-5fgi)
-- [Broken pinky... any suggestions for voice to text apps? 🤙](https://dev.to/michaeltharrington/broken-pinky-any-suggestions-for-voice-to-text-apps-4ep2)
-- [Top 5 Free AI Courses Every Enthusiast Should Consider: Have You Enrolled Yet?](https://dev.to/thenomadevel/top-5-ai-courses-every-enthusiast-should-consider-have-you-enrolled-yet-4k99)
-- [React Custom Hook: useFetch](https://dev.to/sergeyleschev/react-custom-hook-usefetch-3k0p)
 <!-- BLOG-POST-LIST:END -->
 
