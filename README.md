@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 List Of 10 Flutter Libraries and Frameworks to Speed Up Your Development:](https://dev.to/yatendra2001/list-of-10-flutter-libraries-and-frameworks-to-speed-up-your-development-5fe6)
-- [Custom Middleware for FastAPI](https://dev.to/sbalasa/custom-middleware-for-fastapi-4ifg)
-- [How should I start?](https://dev.to/alanmbarr/how-should-i-start-4ccj)
-- [System Design Introduction](https://dev.to/rajrathod/system-design-introduction-9o8)
+- [HTML5 Semantic Tags](https://dev.to/syedmuhammadaliraza/html5-semantic-tags-424l)
+- [This Week&#39;s Undiscovered &lpar;8/17/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-36cc)
+- [Handling CORS with Slim 4](https://dev.to/dopitz/handling-cors-with-slim-4-4jbf)
+- [INSERT statement in PostgreSQL](https://dev.to/mmmalik45/insert-statement-in-postgresql-n83)
 <!-- BLOG-POST-LIST:END -->
 
