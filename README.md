@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Deep Cloning of Objects in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/efficient-deep-cloning-of-objects-in-javascript-a-comprehensive-guide-2dei)
+- [Optimize Dockerfile By `Yarn Prune`](https://dev.to/berk/optimize-dockerfile-for-yarn-based-nodejs-web-apps-3al7)
+- [Open Source ABCs: Hacking](https://dev.to/opensauced/open-source-abcs-hacking-74g)
 - [What&#39;s a Merge Queue and Why Use it?](https://dev.to/wakatepemergify/whats-a-merge-queue-and-why-use-it-1b39)
-- [Migrating Legacy Apps to AWS: Overcoming Challenges for Success](https://dev.to/softwebsolution/migrating-legacy-apps-to-aws-overcoming-challenges-for-success-997)
-- [The Role of MicroGateways in Microservices](https://dev.to/amplication/the-role-of-microgateways-in-microservices-3a29)
-- [Ops friendly Apache APISIX](https://dev.to/apisix/ops-friendly-apache-apisix-2b8c)
 <!-- BLOG-POST-LIST:END -->
 
