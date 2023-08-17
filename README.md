@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple AWS: 20 Advanced Tips for Lambda](https://dev.to/aws-builders/simple-aws-20-advanced-tips-for-lambda-1oif)
+- [Test our new Fastly apps on Glitch](https://dev.to/glitch/test-our-new-fastly-apps-on-glitch-221h)
 - [You too can help &lpar;+ earn&rpar;! 📈](https://dev.to/schbenedikt/you-too-can-help-2c8l)
-- [Understanding the automatic minimum size of flex items](https://dev.to/tsudhishnair/understanding-the-automatic-minimum-size-of-flex-items-3fcd)
 - [Best CI/CD tools for React Native](https://dev.to/logrocket/best-cicd-tools-for-react-native-25ga)
-- [Auto Generate Post Thumbnail in Python using Html2Image](https://dev.to/nilan/auto-generate-post-thumbnail-in-python-using-html2image-3055)
 <!-- BLOG-POST-LIST:END -->
 
