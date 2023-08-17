@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML5 Semantic Tags](https://dev.to/syedmuhammadaliraza/html5-semantic-tags-424l)
-- [This Week&#39;s Undiscovered &lpar;8/17/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-36cc)
-- [Handling CORS with Slim 4](https://dev.to/dopitz/handling-cors-with-slim-4-4jbf)
-- [INSERT statement in PostgreSQL](https://dev.to/mmmalik45/insert-statement-in-postgresql-n83)
+- [NestJS Pipes](https://dev.to/sanjaisak/nestjs-pipes-1o5h)
+- [Tips to back to university for IT students](https://dev.to/manueljesus00/tips-to-back-to-university-for-it-students-4ngm)
+- [Investigate GitHub Dependabot patches for npm packages](https://dev.to/stefanalfbo/investigate-github-dependabot-patches-for-npm-packages-n9j)
+- [Building an efficient sparse keyword index in Python](https://dev.to/neuml/building-an-efficient-sparse-keyword-index-in-python-27ib)
 <!-- BLOG-POST-LIST:END -->
 
