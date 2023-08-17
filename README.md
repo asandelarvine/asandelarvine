@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s a Merge Queue and Why Use it?](https://dev.to/wakatepemergify/whats-a-merge-queue-and-why-use-it-1b39)
+- [Migrating Legacy Apps to AWS: Overcoming Challenges for Success](https://dev.to/softwebsolution/migrating-legacy-apps-to-aws-overcoming-challenges-for-success-997)
+- [The Role of MicroGateways in Microservices](https://dev.to/amplication/the-role-of-microgateways-in-microservices-3a29)
 - [Ops friendly Apache APISIX](https://dev.to/apisix/ops-friendly-apache-apisix-2b8c)
-- [Create your own URL shortener!](https://dev.to/technology-schaechner/create-your-own-url-shortener-5fed)
-- [How to Become a Web3 Engineer: A Beginner’s Guide](https://dev.to/drsavvina/how-to-become-a-web3-engineer-a-beginners-guide-2ae2)
-- [This Week In React #156: Server Actions, React Falls Behind, Expo Builds, Suspense Throttling, Obsidiosaurus, Expo DevTools...](https://dev.to/sebastienlorber/this-week-in-react-156-server-actions-react-falls-behind-expo-builds-suspense-throttling-obsidiosaurus-expo-devtools-2mga)
 <!-- BLOG-POST-LIST:END -->
 
