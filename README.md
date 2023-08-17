@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Aspects of Coding Still Leave You Feeling Uncertain?](https://dev.to/codenewbieteam/what-aspects-of-coding-still-leave-you-feeling-uncertain-4ea)
+- [Learning JavaScript the easy way: Variables](https://dev.to/unkletayo/learning-javascript-the-easy-way-variables-1390)
 - [School Lessons: Will I Use It in Real Life?](https://dev.to/devteam/school-lessons-will-i-use-it-in-real-life-1395)
+- [What Aspects of Coding Still Leave You Feeling Uncertain?](https://dev.to/codenewbieteam/what-aspects-of-coding-still-leave-you-feeling-uncertain-4ea)
 - [STO Development Services - Paving the Perfect Path for Your Successful Token Sale](https://dev.to/jessietomaz/sto-development-services-paving-the-perfect-path-for-your-successful-token-sale-118c)
-- [Creating Multiple Themes in Tailwind CSS and Next.js](https://dev.to/ultroneoustech/creating-multiple-themes-in-tailwind-css-and-nextjs-2e98)
 <!-- BLOG-POST-LIST:END -->
 
