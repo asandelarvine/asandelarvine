@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Pipes](https://dev.to/sanjaisak/nestjs-pipes-1o5h)
-- [Tips to back to university for IT students](https://dev.to/manueljesus00/tips-to-back-to-university-for-it-students-4ngm)
-- [Investigate GitHub Dependabot patches for npm packages](https://dev.to/stefanalfbo/investigate-github-dependabot-patches-for-npm-packages-n9j)
-- [Building an efficient sparse keyword index in Python](https://dev.to/neuml/building-an-efficient-sparse-keyword-index-in-python-27ib)
+- [React Custom Hook: useFetch](https://dev.to/sergeyleschev/react-custom-hook-usefetch-3k0p)
+- [How to update your .gitignore file](https://dev.to/jafetmeza/how-to-update-your-gitignore-file-325e)
+- [Does imposter syndrome ever get better?: CodeNewbie Podcast](https://dev.to/codenewbieteam/does-imposter-syndrome-ever-get-better-codenewbie-podcast-19dh)
+- [&quot;Мобильная&quot; разработка. [Операционные системы и терминал]](https://dev.to/mainarthur/mobilnaia-razrabotka-opieratsionnyie-sistiemy-i-tierminal-5fpb)
 <!-- BLOG-POST-LIST:END -->
 
