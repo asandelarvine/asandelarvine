@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer to Entrepreneur: The Uncharted Path](https://dev.to/inovak/developer-to-entrepreneur-the-uncharted-path-322b)
 - [📦 React Props: A Visual Guide](https://dev.to/reedbarger/react-props-a-visual-guide-3gcc)
-- [A Deployment Preview for Every Branch](https://dev.to/codesandboxio/a-deployment-preview-for-every-branch-3iea)
-- [CAP Theorem](https://dev.to/rajrathod/cap-theorem-2681)
-- [Painful Code Reviews: The #3 Killer Of Developer Productivity](https://dev.to/hatica/painful-code-reviews-the-3-killer-of-developer-productivity-43i7)
+- [Entendendo Membros Estáticos](https://dev.to/ruthless/entendendo-membros-estaticos-1fi0)
+- [A Deep Dive into Parking Spot LLD Design](https://dev.to/mjsf1234/a-deep-dive-into-parking-spot-lld-design-5bj2)
 <!-- BLOG-POST-LIST:END -->
 
