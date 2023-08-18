@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A brief overview of HTTP protocol](https://dev.to/supriya-kotturu/a-brief-overwief-of-http-protocol-5e67)
-- [From Localhost to the Cloud: Deploying my First Node.js App with Docker](https://dev.to/ikemhood/from-localhost-to-the-cloud-deploying-my-first-nodejs-app-with-docker-1nn3)
-- [Top 5 Skills To learn in 2023–2025: How to learn](https://dev.to/durgesh4993/top-5-skills-to-learn-in-2023-2025-how-to-learn-4o79)
-- [Mistakes to Avoid as a New Programmer: Common Pitfalls That Can Hinder Your Learning Progress](https://dev.to/scofieldidehen/mistakes-to-avoid-as-a-new-programmer-common-pitfalls-that-can-hinder-your-learning-progress-370o)
+- [Mastering Background Processing in Android with WorkManager: A Guide to Efficient Background Processing](https://dev.to/manoj_pedvi/mastering-background-processing-in-android-with-workmanager-a-guide-to-efficient-background-processing-1h7h)
+- [Mastering Email Address Validation in JavaScript](https://dev.to/iamcymentho/mastering-email-address-validation-in-javascript-4f0j)
+- [How to Process Scheduled Queue Jobs in Node.js with BullMQ and Redis on Heroku](https://dev.to/lirantal/how-to-process-scheduled-queue-jobs-in-nodejs-with-bullmq-and-redis-on-heroku-3dl7)
+- [Database Transactions in Laravel](https://dev.to/jonhyknid/database-transactions-in-laravel-39b1)
 <!-- BLOG-POST-LIST:END -->
 
