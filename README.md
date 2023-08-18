@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple AWS: Lambda in a VPC](https://dev.to/aws-builders/simple-aws-lambda-in-a-vpc-2eg7)
+- [Object Oriented Programming &lpar;OOP&rpar;](https://dev.to/scorcism/object-oriented-programming-oop-hn7)
+- [User Experience in Real Life: This is Not a Door](https://dev.to/neagle/user-experience-in-real-life-this-is-not-a-door-8hj)
 - [Developer to Entrepreneur: The Uncharted Path](https://dev.to/inovak/developer-to-entrepreneur-the-uncharted-path-322b)
-- [📦 React Props: A Visual Guide](https://dev.to/reedbarger/react-props-a-visual-guide-3gcc)
-- [Entendendo Membros Estáticos](https://dev.to/ruthless/entendendo-membros-estaticos-1fi0)
-- [A Deep Dive into Parking Spot LLD Design](https://dev.to/mjsf1234/a-deep-dive-into-parking-spot-lld-design-5bj2)
 <!-- BLOG-POST-LIST:END -->
 
