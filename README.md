@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Simple AWS: Lambda in a VPC](https://dev.to/aws-builders/simple-aws-lambda-in-a-vpc-2eg7)
+- [A sweet spot between signals and observables 🍬](https://dev.to/this-is-angular/a-sweet-spot-between-signals-and-observables-4chb)
 - [Object Oriented Programming &lpar;OOP&rpar;](https://dev.to/scorcism/object-oriented-programming-oop-hn7)
 - [User Experience in Real Life: This is Not a Door](https://dev.to/neagle/user-experience-in-real-life-this-is-not-a-door-8hj)
-- [Developer to Entrepreneur: The Uncharted Path](https://dev.to/inovak/developer-to-entrepreneur-the-uncharted-path-322b)
 <!-- BLOG-POST-LIST:END -->
 
