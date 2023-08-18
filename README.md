@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A brief overview of HTTP protocol](https://dev.to/supriya-kotturu/a-brief-overwief-of-http-protocol-5e67)
+- [From Localhost to the Cloud: Deploying my First Node.js App with Docker](https://dev.to/ikemhood/from-localhost-to-the-cloud-deploying-my-first-nodejs-app-with-docker-1nn3)
 - [Top 5 Skills To learn in 2023–2025: How to learn](https://dev.to/durgesh4993/top-5-skills-to-learn-in-2023-2025-how-to-learn-4o79)
 - [Mistakes to Avoid as a New Programmer: Common Pitfalls That Can Hinder Your Learning Progress](https://dev.to/scofieldidehen/mistakes-to-avoid-as-a-new-programmer-common-pitfalls-that-can-hinder-your-learning-progress-370o)
-- [The sword refers to immer, the faster and stronger immutable data js tool limu stable version released!](https://dev.to/fantasticsoul/the-sword-refers-to-immer-the-faster-and-stronger-immutable-data-js-tool-limu-stable-version-released-1bo1)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ff)
 <!-- BLOG-POST-LIST:END -->
 
