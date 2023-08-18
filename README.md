@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Background Processing in Android with WorkManager: A Guide to Efficient Background Processing](https://dev.to/manoj_pedvi/mastering-background-processing-in-android-with-workmanager-a-guide-to-efficient-background-processing-1h7h)
-- [Mastering Email Address Validation in JavaScript](https://dev.to/iamcymentho/mastering-email-address-validation-in-javascript-4f0j)
-- [Smart Lock Box: Revolutionizing Security and Convenience](https://dev.to/kenronesafe/smart-lock-box-revolutionizing-security-and-convenience-1gp4)
-- [How to Process Scheduled Queue Jobs in Node.js with BullMQ and Redis on Heroku](https://dev.to/lirantal/how-to-process-scheduled-queue-jobs-in-nodejs-with-bullmq-and-redis-on-heroku-3dl7)
+- [📦 React Props: A Visual Guide](https://dev.to/reedbarger/react-props-a-visual-guide-3gcc)
+- [A Deployment Preview for Every Branch](https://dev.to/codesandboxio/a-deployment-preview-for-every-branch-3iea)
+- [CAP Theorem](https://dev.to/rajrathod/cap-theorem-2681)
+- [Painful Code Reviews: The #3 Killer Of Developer Productivity](https://dev.to/hatica/painful-code-reviews-the-3-killer-of-developer-productivity-43i7)
 <!-- BLOG-POST-LIST:END -->
 
