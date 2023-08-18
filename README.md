@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#100DaysOfOSS Recap: Day 15-27](https://dev.to/adiatiayu/100daysofoss-recap-day-15-27-360h)
 - [Online Security - A Simple Guide](https://dev.to/mohabgabber/online-security-a-simple-guide-d7g)
 - [React Custom Hook: useGeolocation](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
 - [Proving natural numbers are infinity in Coq 🧙🏼](https://dev.to/vit0rr/proving-natural-numbers-are-infinity-in-coq-2356)
-- [ListenAI: Elevate Your Health Journey with Our Caring AI Chatbot Companion](https://dev.to/devanshu17/listenai-elevate-your-health-journey-with-our-caring-ai-chatbot-companion-2i40)
 <!-- BLOG-POST-LIST:END -->
 
