@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to install Qwik with Tailwind CSS and Flowbite](https://dev.to/themesberg/learn-how-to-install-qwik-with-tailwind-css-and-flowbite-4b54)
-- [Appwrite + Rust: Build APIs without technical overhead](https://dev.to/hackmamba/appwrite-rust-build-apis-without-technical-overhead-3a73)
-- [Appwrite + Go: Build APIs without technical overhead](https://dev.to/hackmamba/appwrite-go-build-apis-without-technical-overhead-3nhj)
-- [A Comprehensive Guide For Creating Silky Smooth Animations Using Flutter.](https://dev.to/yatendra2001/a-comprehensive-guide-for-creating-silky-smooth-animations-using-flutter-1fmj)
+- [Top 5 Skills To learn in 2023–2025: How to learn](https://dev.to/durgesh4993/top-5-skills-to-learn-in-2023-2025-how-to-learn-4o79)
+- [Mistakes to Avoid as a New Programmer: Common Pitfalls That Can Hinder Your Learning Progress](https://dev.to/scofieldidehen/mistakes-to-avoid-as-a-new-programmer-common-pitfalls-that-can-hinder-your-learning-progress-370o)
+- [The sword refers to immer, the faster and stronger immutable data js tool limu stable version released!](https://dev.to/fantasticsoul/the-sword-refers-to-immer-the-faster-and-stronger-immutable-data-js-tool-limu-stable-version-released-1bo1)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ff)
 <!-- BLOG-POST-LIST:END -->
 
