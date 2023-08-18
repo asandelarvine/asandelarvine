@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple AWS: From EC2 to Scalable ECS](https://dev.to/aws-builders/simple-aws-from-ec2-to-scalable-ecs-4a45)
-- [Did you know? A Git branch is essentially a 41-byte file](https://dev.to/ello/did-you-know-a-git-branch-is-essentially-a-41-byte-file-4po2)
-- [A Guide to Using the Option Type in TypeScript](https://dev.to/martinpersson/a-guide-to-using-the-option-type-in-typescript-ki2)
-- [Demystifying CORS: Understanding How Cross-Origin Resource Sharing Works](https://dev.to/martinwachira/demystifying-cors-understanding-how-cross-origin-resource-sharing-works-93k)
+- [React Custom Hook: useGeolocation](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
+- [Proving natural numbers are infinity in Coq 🧙🏼](https://dev.to/vit0rr/proving-natural-numbers-are-infinity-in-coq-2356)
+- [ListenAI: Elevate Your Health Journey with Our Caring AI Chatbot Companion](https://dev.to/devanshu17/listenai-elevate-your-health-journey-with-our-caring-ai-chatbot-companion-2i40)
+- [Imposter Syndrome and the Final Phase of a Coding Bootcamp: Inevitable Perhaps, but Possible to Overcome?](https://dev.to/amsfreeman/imposter-syndrome-and-the-final-phase-of-a-coding-bootcamp-inevitable-perhaps-but-possible-to-overcome-1920)
 <!-- BLOG-POST-LIST:END -->
 
