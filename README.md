@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Simple AWS: From EC2 to Scalable ECS](https://dev.to/aws-builders/simple-aws-from-ec2-to-scalable-ecs-4a45)
-- [Moonly weekly progress update #61 - Automatio FAQ/2](https://dev.to/moonly/moonly-weekly-progress-update-61-automatio-faq2-ibl)
-- [Exploring Component Lifecycle Methods in React](https://dev.to/the2minengineer/exploring-component-lifecycle-methods-in-react-13p9)
-- [Benefits of hybrid search](https://dev.to/neuml/benefits-of-hybrid-search-4fma)
+- [Did you know? A Git branch is essentially a 41-byte file](https://dev.to/ello/did-you-know-a-git-branch-is-essentially-a-41-byte-file-4po2)
+- [A Guide to Using the Option Type in TypeScript](https://dev.to/martinpersson/a-guide-to-using-the-option-type-in-typescript-ki2)
+- [Demystifying CORS: Understanding How Cross-Origin Resource Sharing Works](https://dev.to/martinwachira/demystifying-cors-understanding-how-cross-origin-resource-sharing-works-93k)
 <!-- BLOG-POST-LIST:END -->
 
