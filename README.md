@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Customize or Make your own VSCode Color Theme](https://dev.to/psudo-dev/how-to-customize-or-make-your-own-vscode-color-theme-49j1)
 - [3 Cool Developer Console Tricks you must know! &lpar;with code&rpar;](https://dev.to/jeetvora331/3-cool-developer-console-tricks-you-must-know-1ncc)
 - [Never write tests or docs again! - Amalgam could change everything.](https://dev.to/adam_cyclones/never-write-a-tests-or-docs-again-amalgam-could-change-everything-1m99)
 - [Adding a &quot;share to mastodon&quot; link to any web site](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
-- [Next.Js 13 Parallel Routes: A Comprehensive Guide](https://dev.to/digitalpollution/nextjs-13-parallel-routes-a-comprehensive-guide-5fgi)
 <!-- BLOG-POST-LIST:END -->
 
