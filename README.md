@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Design System Creation to Boost Up the Design-to-Code Process](https://dev.to/function12_io/quick-design-system-creation-to-boost-up-the-design-to-code-process-1hjg)
-- [Single Page Application: Authentication and Authorization in AgularJS](https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2)
-- [CSS Specificity](https://dev.to/monkdev/css-specificity-2l62)
-- [Embracing Node.js: A Game-Changer for Top Tech Companies](https://dev.to/abidullah786/embracing-nodejs-a-game-changer-for-top-tech-companies-16kn)
+- [ESP32 Standard Library Embedded Rust: Analog Temperature Sensing using the ADC](https://dev.to/apollolabsbin/esp32-standard-library-embedded-rust-analog-temperature-sensing-using-the-adc-5h55)
+- [Offline-First Development in React Native: Creating Robust Apps📱🔌🛠️](https://dev.to/medaimane/offline-first-development-in-react-native-creating-robust-apps-1jb)
+- [Unlocking Success: The Top 5 Benefits of Engaging a Dedicated Development Team for Your Upcoming Project](https://dev.to/techwabmaster/unlocking-success-the-top-5-benefits-of-engaging-a-dedicated-development-team-for-your-upcoming-project-5404)
+- [🚀 &#39;GET&#39; API in API Maker](https://dev.to/apimaker/get-api-in-api-maker-5c45)
 <!-- BLOG-POST-LIST:END -->
 
