@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to be great](https://dev.to/batizofht/how-to-be-great-5746)
 - [What If Coding Classes Were Mandatory?](https://dev.to/devteam/what-if-coding-classes-were-mandatory-4jd5)
 - [What&#39;s Been Your Most Perplexing Coding Moment?](https://dev.to/codenewbieteam/whats-been-your-most-perplexing-coding-moment-29f1)
 - [180k+ Open Source Free Icons](https://dev.to/mddanishyusuf/180k-open-source-free-icons-2hfa)
-- [ESP32 Standard Library Embedded Rust: Analog Temperature Sensing using the ADC](https://dev.to/apollolabsbin/esp32-standard-library-embedded-rust-analog-temperature-sensing-using-the-adc-5h55)
 <!-- BLOG-POST-LIST:END -->
 
