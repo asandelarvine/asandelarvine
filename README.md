@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to be great](https://dev.to/batizofht/how-to-be-great-5746)
-- [What If Coding Classes Were Mandatory?](https://dev.to/devteam/what-if-coding-classes-were-mandatory-4jd5)
-- [What&#39;s Been Your Most Perplexing Coding Moment?](https://dev.to/codenewbieteam/whats-been-your-most-perplexing-coding-moment-29f1)
-- [180k+ Open Source Free Icons](https://dev.to/mddanishyusuf/180k-open-source-free-icons-2hfa)
+- [Learn how to install Qwik with Tailwind CSS and Flowbite](https://dev.to/themesberg/learn-how-to-install-qwik-with-tailwind-css-and-flowbite-4b54)
+- [Appwrite + Rust: Build APIs without technical overhead](https://dev.to/hackmamba/appwrite-rust-build-apis-without-technical-overhead-3a73)
+- [Appwrite + Go: Build APIs without technical overhead](https://dev.to/hackmamba/appwrite-go-build-apis-without-technical-overhead-3nhj)
+- [A Comprehensive Guide For Creating Silky Smooth Animations Using Flutter.](https://dev.to/yatendra2001/a-comprehensive-guide-for-creating-silky-smooth-animations-using-flutter-1fmj)
 <!-- BLOG-POST-LIST:END -->
 
