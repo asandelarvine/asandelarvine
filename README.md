@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Mastering Background Processing in Android with WorkManager: A Guide to Efficient Background Processing](https://dev.to/manoj_pedvi/mastering-background-processing-in-android-with-workmanager-a-guide-to-efficient-background-processing-1h7h)
 - [Mastering Email Address Validation in JavaScript](https://dev.to/iamcymentho/mastering-email-address-validation-in-javascript-4f0j)
+- [Smart Lock Box: Revolutionizing Security and Convenience](https://dev.to/kenronesafe/smart-lock-box-revolutionizing-security-and-convenience-1gp4)
 - [How to Process Scheduled Queue Jobs in Node.js with BullMQ and Redis on Heroku](https://dev.to/lirantal/how-to-process-scheduled-queue-jobs-in-nodejs-with-bullmq-and-redis-on-heroku-3dl7)
-- [Database Transactions in Laravel](https://dev.to/jonhyknid/database-transactions-in-laravel-39b1)
 <!-- BLOG-POST-LIST:END -->
 
