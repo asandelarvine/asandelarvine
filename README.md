@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Single Page Application: Authentication and Authorization in AgularJS](https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2)
 - [CSS Specificity](https://dev.to/monkdev/css-specificity-2l62)
 - [Embracing Node.js: A Game-Changer for Top Tech Companies](https://dev.to/abidullah786/embracing-nodejs-a-game-changer-for-top-tech-companies-16kn)
-- [How to Customize or Make your own VSCode Color Theme](https://dev.to/psudo-dev/how-to-customize-or-make-your-own-vscode-color-theme-49j1)
+- [New to this:](https://dev.to/synt7177/new-to-this-5f59)
 <!-- BLOG-POST-LIST:END -->
 
