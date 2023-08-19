@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript in Detail](https://dev.to/scorcism/javascript-in-detail-51a4)
+- [Optional Semicolons in JavaScript](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
 - [What is Machine Learning?](https://dev.to/codeperfectplus/what-is-machine-learning-4kc8)
 - [#100DaysOfOSS Recap: Day 15-27](https://dev.to/adiatiayu/100daysofoss-recap-day-15-27-360h)
-- [Online Security - A Simple Guide](https://dev.to/mohabgabber/online-security-a-simple-guide-d7g)
-- [Navigating Databases with Python: A Beginner-Friendly Guide](https://dev.to/thunter1987/navigating-databases-with-python-a-beginner-friendly-guide-1710)
 <!-- BLOG-POST-LIST:END -->
 
