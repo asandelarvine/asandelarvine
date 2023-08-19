@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use of Golang](https://dev.to/diwakarkashyap/use-of-golang-2j81)
+- [Simplified Micro Front-Ends: Mastering Global State Management with Redux and Redux Toolkit](https://dev.to/serifcolakel/simplified-micro-front-ends-mastering-global-state-management-with-redux-and-redux-toolkit-4lan)
 - [How to increase your product page conversion rate [20+ examples]](https://dev.to/belhassen07/how-to-increase-your-product-page-conversion-rate-20-examples-24da)
 - [Harnessing GitHub Actions for Seamless Workflow Automation](https://dev.to/nitinkumar30/harnessing-github-actions-for-seamless-workflow-automation-40kp)
-- [Ways To Keep Up Motivation In Your Career](https://dev.to/eleftheriabatsou/ways-to-keep-up-motivation-in-your-career-3jll)
-- [Implementing Enums in Golang](https://dev.to/ankitmalikg/implementing-enums-in-golang-40ie)
 <!-- BLOG-POST-LIST:END -->
 
