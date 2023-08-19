@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useHover](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
 - [Converting Any Python Web Framework to FastAPI: A Comprehensive Guide](https://dev.to/akarshan/converting-any-python-web-framework-to-fastapi-a-comprehensive-guide-291b)
 - [Appwrite Functions: Learn to deploy serverless functions within minutes](https://dev.to/navdeepm20/appwrite-functions-learn-to-deploy-serverless-functions-within-minutes-5918)
 - [Essential Terminal Commands for Basic Tasks](https://dev.to/sh20raj/a-beginners-guide-to-essential-terminal-commands-for-basic-tasks-2a9g)
-- [Hello!](https://dev.to/marshallshaddy/hello-137e)
 <!-- BLOG-POST-LIST:END -->
 
