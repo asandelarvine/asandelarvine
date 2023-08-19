@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Go: A Quick Guide.](https://dev.to/hazarnenni/getting-started-with-go-a-quick-guide-1m95)
-- [How do I switch from 1 database to 1 database per subdomain rails in saas app](https://dev.to/suhelrana10/how-do-i-switch-from-1-database-to-1-database-per-subdomain-rails-in-saas-app-21i7)
-- [LeetCode, Hard: 2818. Apply Operations to Maximize Score. Swift](https://dev.to/sergeyleschev/leetcode-hard-2818-apply-operations-to-maximize-score-swift-3n60)
-- [Gestão de tempo e produtividade para Devs](https://dev.to/ryrden/gestao-de-tempo-e-produtividade-para-devs-2h85)
+- [Converting Any Python Web Framework to FastAPI: A Comprehensive Guide](https://dev.to/akarshan/converting-any-python-web-framework-to-fastapi-a-comprehensive-guide-291b)
+- [Appwrite Functions: Learn to deploy serverless functions within minutes](https://dev.to/navdeepm20/appwrite-functions-learn-to-deploy-serverless-functions-within-minutes-5918)
+- [Essential Terminal Commands for Basic Tasks](https://dev.to/sh20raj/a-beginners-guide-to-essential-terminal-commands-for-basic-tasks-2a9g)
+- [Hello!](https://dev.to/marshallshaddy/hello-137e)
 <!-- BLOG-POST-LIST:END -->
 
