@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Notified in Slack for Every New User Sign Up With Authgear](https://dev.to/bobur/get-notified-in-slack-for-every-new-user-sign-up-with-authgear-4n99)
-- [Notes: Advanced Node.js Concepts by Stephen Grider](https://dev.to/midnqp/notes-advanced-nodejs-concepts-by-stephen-grider-4pp7)
-- [Getting started with SCSS - The CSS Preprocessor with Superpowers](https://dev.to/classicthedemigod/getting-started-with-scss-the-css-preprocessor-with-superpowers-34ed)
-- [Advanced JavaScript... All you need to know and more](https://dev.to/dumebii/advanced-javascript-all-you-need-to-know-and-more-4li9)
+- [How do I switch from 1 database to 1 database per subdomain rails in saas app](https://dev.to/suhelrana10/how-do-i-switch-from-1-database-to-1-database-per-subdomain-rails-in-saas-app-21i7)
+- [LeetCode, Hard: 2818. Apply Operations to Maximize Score. Swift](https://dev.to/sergeyleschev/leetcode-hard-2818-apply-operations-to-maximize-score-swift-3n60)
+- [“Rails of the unexpected”](https://dev.to/paulxcodes/rails-of-the-unexpected-5hlp)
+- [What makes a great API?](https://dev.to/nickytonline/what-makes-a-great-api-1n8e)
 <!-- BLOG-POST-LIST:END -->
 
