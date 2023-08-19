@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rainy Night](https://dev.to/dimple031/rainy-night-22g0)
-- [Infrastructure as Code: A Beginner&#39;s Guide](https://dev.to/aniljaiswal/infrastructure-as-code-a-beginners-guide-26ln)
-- [What Was Your Nobel Prize Moment?](https://dev.to/devteam/what-was-your-nobel-prize-moment-5j)
-- [Unpacking The OSI Model](https://dev.to/stungnet/unpacking-the-osi-model-3fha)
+- [Scanning and remediating vulnerabilities with Grype](https://dev.to/donaldsebleung/scanning-and-remediating-vulnerabilities-with-grype-25an)
+- [From Floppies to Dial-Up : Reminiscing the Tech Days Gone By](https://dev.to/devrx/from-floppies-to-dial-up-reminiscing-the-tech-days-gone-by-2la2)
+- [Service Worker Templating Language &lpar;SWTL&rpar;](https://dev.to/thepassle/service-worker-templating-language-swtl-47e5)
+- [Unlocking the Secrets of GoF Design Patterns: A Beginner&#39;s Guide](https://dev.to/shshank/unlocking-the-secrets-of-gof-design-patterns-a-beginners-guide-h24)
 <!-- BLOG-POST-LIST:END -->
 
