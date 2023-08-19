@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Update - Day 95](https://dev.to/shreyvijayvargiya/mobile-app-update-day-95-olo)
-- [JavaScript Tricky Interview Questions 2023](https://dev.to/mainulspace/javascript-tricky-interview-questions-2023-14li)
-- [Smoke Animation&lpar;Colorful&rpar;](https://dev.to/dimple031/smoke-animationcolorful-5ap3)
-- [Deploying a Vite App to GitHub Pages using GitHub Actions: A Step-by-Step Guide](https://dev.to/daslaw/deploying-a-vite-app-to-github-pages-using-github-actions-a-step-by-step-guide-2p4h)
+- [How to increase your product page conversion rate [20+ examples]](https://dev.to/belhassen07/how-to-increase-your-product-page-conversion-rate-20-examples-24da)
+- [Harnessing GitHub Actions for Seamless Workflow Automation](https://dev.to/nitinkumar30/harnessing-github-actions-for-seamless-workflow-automation-40kp)
+- [Ways To Keep Up Motivation In Your Career](https://dev.to/eleftheriabatsou/ways-to-keep-up-motivation-in-your-career-3jll)
+- [Implementing Enums in Golang](https://dev.to/ankitmalikg/implementing-enums-in-golang-40ie)
 <!-- BLOG-POST-LIST:END -->
 
