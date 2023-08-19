@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobile App Update - Day 95](https://dev.to/shreyvijayvargiya/mobile-app-update-day-95-olo)
+- [JavaScript Tricky Interview Questions 2023](https://dev.to/mainulspace/javascript-tricky-interview-questions-2023-14li)
 - [Smoke Animation&lpar;Colorful&rpar;](https://dev.to/dimple031/smoke-animationcolorful-5ap3)
-- [Scanning and remediating vulnerabilities with Grype](https://dev.to/donaldsebleung/scanning-and-remediating-vulnerabilities-with-grype-25an)
-- [From Floppies to Dial-Up : Reminiscing the Tech Days Gone By](https://dev.to/devrx/from-floppies-to-dial-up-reminiscing-the-tech-days-gone-by-2la2)
-- [Service Worker Templating Language &lpar;SWTL&rpar;](https://dev.to/thepassle/service-worker-templating-language-swtl-47e5)
+- [Deploying a Vite App to GitHub Pages using GitHub Actions: A Step-by-Step Guide](https://dev.to/daslaw/deploying-a-vite-app-to-github-pages-using-github-actions-a-step-by-step-guide-2p4h)
 <!-- BLOG-POST-LIST:END -->
 
