@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your Nobel Prize Moment?](https://dev.to/devteam/what-was-your-nobel-prize-moment-5j)
 - [Unpacking The OSI Model](https://dev.to/stungnet/unpacking-the-osi-model-3fha)
 - [6 Tips for Effective React Pagination: Building a User-Friendly Navigation Component](https://dev.to/bilal1718/6-tips-for-effective-react-pagination-building-a-user-friendly-navigation-component-4i5h)
 - [JavaScript in Detail](https://dev.to/scorcism/javascript-in-detail-51a4)
-- [Optional Semicolons in JavaScript](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
 <!-- BLOG-POST-LIST:END -->
 
