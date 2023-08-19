@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [#100DaysOfOSS Recap: Day 15-27](https://dev.to/adiatiayu/100daysofoss-recap-day-15-27-360h)
 - [Online Security - A Simple Guide](https://dev.to/mohabgabber/online-security-a-simple-guide-d7g)
+- [Navigating Databases with Python: A Beginner-Friendly Guide](https://dev.to/thunter1987/navigating-databases-with-python-a-beginner-friendly-guide-1710)
 - [React Custom Hook: useGeolocation](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
-- [A Step-by-Step Guide to Building and Publishing a React Package](https://dev.to/iamkelv/a-step-by-step-guide-to-building-and-publishing-a-react-package-3o8m)
 <!-- BLOG-POST-LIST:END -->
 
