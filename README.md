@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking The OSI Model](https://dev.to/stungnet/unpacking-the-osi-model-3fha)
+- [6 Tips for Effective React Pagination: Building a User-Friendly Navigation Component](https://dev.to/bilal1718/6-tips-for-effective-react-pagination-building-a-user-friendly-navigation-component-4i5h)
 - [JavaScript in Detail](https://dev.to/scorcism/javascript-in-detail-51a4)
 - [Optional Semicolons in JavaScript](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
-- [What is Machine Learning?](https://dev.to/codeperfectplus/what-is-machine-learning-4kc8)
-- [#100DaysOfOSS Recap: Day 15-27](https://dev.to/adiatiayu/100daysofoss-recap-day-15-27-360h)
 <!-- BLOG-POST-LIST:END -->
 
