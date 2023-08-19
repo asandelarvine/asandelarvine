@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power up host component by directive composition API in Angular](https://dev.to/railsstudent/power-up-host-component-by-directive-composition-api-in-angular-3g79)
-- [Top 10 Web3 Interview Questions And Answers #Part1](https://dev.to/drsavvina/top-10-web3-interview-questions-and-answers-part1-55ac)
-- [Mastering Code Assignments: A Frontend Engineer&#39;s Journey with React and REST API](https://dev.to/madhavigaikwad/mastering-code-assignments-a-frontend-engineers-journey-with-react-and-rest-api-1l3d)
-- [Use of Golang](https://dev.to/diwakarkashyap/use-of-golang-2j81)
+- [Get Notified in Slack for Every New User Sign Up With Authgear](https://dev.to/bobur/get-notified-in-slack-for-every-new-user-sign-up-with-authgear-4n99)
+- [Notes: Advanced Node.js Concepts by Stephen Grider](https://dev.to/midnqp/notes-advanced-nodejs-concepts-by-stephen-grider-4pp7)
+- [Getting started with SCSS - The CSS Preprocessor with Superpowers](https://dev.to/classicthedemigod/getting-started-with-scss-the-css-preprocessor-with-superpowers-34ed)
+- [Advanced JavaScript... All you need to know and more](https://dev.to/dumebii/advanced-javascript-all-you-need-to-know-and-more-4li9)
 <!-- BLOG-POST-LIST:END -->
 
