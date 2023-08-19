@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [#100DaysOfOSS Recap: Day 15-27](https://dev.to/adiatiayu/100daysofoss-recap-day-15-27-360h)
 - [Online Security - A Simple Guide](https://dev.to/mohabgabber/online-security-a-simple-guide-d7g)
 - [React Custom Hook: useGeolocation](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
-- [Proving natural numbers are infinity in Coq 🧙🏼](https://dev.to/vit0rr/proving-natural-numbers-are-infinity-in-coq-2356)
+- [A Step-by-Step Guide to Building and Publishing a React Package](https://dev.to/iamkelv/a-step-by-step-guide-to-building-and-publishing-a-react-package-3o8m)
 <!-- BLOG-POST-LIST:END -->
 
