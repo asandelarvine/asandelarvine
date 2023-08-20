@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
+- [JavaScript Objects and its secret associates](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
+- [Astro Beginners Guide, Part 1: Overview](https://dev.to/kblo4517/astro-beginners-guide-part-1-overview-2647)
 - [Unveiling Our Art-Guide Telegram Bot: Where AI and Artistry Converge](https://dev.to/arielxx/unveiling-our-art-guide-telegram-bot-where-ai-and-artistry-converge-58k2)
-- [Revolutionizing Open Source Revenue Generation: Introducing MintyCode.io Marketplace](https://dev.to/nikitakoselev/revolutionizing-open-source-revenue-generation-introducing-mintycodeio-marketplace-4nek)
-- [Background Jobs](https://dev.to/rajrathod/background-jobs-473j)
 <!-- BLOG-POST-LIST:END -->
 
