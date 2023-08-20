@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
+- [Unveiling Our Art-Guide Telegram Bot: Where AI and Artistry Converge](https://dev.to/arielxx/unveiling-our-art-guide-telegram-bot-where-ai-and-artistry-converge-58k2)
+- [Revolutionizing Open Source Revenue Generation: Introducing MintyCode.io Marketplace](https://dev.to/nikitakoselev/revolutionizing-open-source-revenue-generation-introducing-mintycodeio-marketplace-4nek)
 - [Background Jobs](https://dev.to/rajrathod/background-jobs-473j)
-- [File transfer through SSH is easy!](https://dev.to/mateusabelli/file-transfer-through-ssh-is-easy-5193)
-- [JavaScript Object and Object Prototypes: What are they?🤷‍♂️🤔](https://dev.to/kelvinguchu/javascript-object-and-object-prototypes-what-are-they-31m5)
-- [How to make an impact as a developer advocate](https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge)
 <!-- BLOG-POST-LIST:END -->
 
