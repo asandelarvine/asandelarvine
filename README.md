@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bare Metal vs Virtual Machine vs Containers](https://dev.to/scorcism/bare-metal-vs-virtual-machine-vs-containers-a7e)
-- [Types, Values, and Variables in JavaScript](https://dev.to/better678/types-values-and-variables-in-javascript-123g)
-- [🚀 Your Guide to Prometheus Monitoring on Kubernetes with Grafana](https://dev.to/softwaresennin/your-guide-to-prometheus-monitoring-on-kubernetes-with-grafana-gi8)
-- [Part 2 - Building a Full Stack Contact Form: Node.js Backend 2023](https://dev.to/elenadiaz32505/part-2-building-a-full-stack-contact-form-nodejs-backend-2023-jdp)
+- [How Do You Manage Your Schedule Effectively While Working Remotely?](https://dev.to/devteam/how-do-you-manage-your-schedule-effectively-while-working-remotely-4opp)
+- [User Guides in Code Documentation: Empowering Users with Usage Instructions](https://dev.to/documatic/user-guides-in-code-documentation-empowering-users-with-usage-instructions-3lmo)
+- [Building a Llama2 Langchain powered Simple Chat Bot hosted on Napptive](https://dev.to/sreekeshiyer/building-a-llama2-langchain-powered-simple-chat-bot-hosted-on-napptive-2h96)
+- [One-Year of Learning Frontend Web Development](https://dev.to/ananfito/one-year-of-learning-frontend-web-development-40je)
 <!-- BLOG-POST-LIST:END -->
 
