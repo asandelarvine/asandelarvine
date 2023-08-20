@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The ChatGPT Boom is Over - FINALLY!](https://dev.to/polterguy/the-chatgpt-boom-is-over-finally-45db)
-- [From Bits to Bytes: Understanding Network Protocols and Seamless Communication](https://dev.to/ainasanghi/from-bits-to-bytes-understanding-network-protocols-and-seamless-communication-3n2n)
-- [Exceptions](https://dev.to/lizmat/exceptions-3g0i)
-- [How Do You Manage Your Schedule Effectively While Working Remotely?](https://dev.to/devteam/how-do-you-manage-your-schedule-effectively-while-working-remotely-4opp)
+- [How to first migrate custom User model within models directory](https://dev.to/doridoro/how-to-first-migrate-custom-user-model-within-models-directory-1bdl)
+- [SEO for Developers: Pagination](https://dev.to/fabiancdng/seo-for-developers-pagination-3g9a)
+- [Seamlessly Integrating AWS S3 Static Web Hosting with CloudFront and DNS Configuration: An In-Depth Guide](https://dev.to/aws-builders/seamlessly-integrating-aws-s3-static-web-hosting-with-cloudfront-and-dns-configuration-an-in-depth-guide-553c)
+- [Weekly reading digest #1](https://dev.to/rubenrubiob/weekly-reading-digest-1-6ob)
 <!-- BLOG-POST-LIST:END -->
 
