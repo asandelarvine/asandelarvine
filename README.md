@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is REST or REST API ? in easy language](https://dev.to/diwakarkashyap/what-is-rest-or-rest-api-in-easy-language-5a8m)
-- [20 VS Code Extensions That Will Take Your Productivity to the Next Level](https://dev.to/devland/20-vs-code-extensions-that-will-take-your-productivity-to-the-next-level-9g)
-- [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
-- [Spring Shell - Build CLI apps](https://dev.to/noelopez/spring-shell-build-cli-apps-2l1o)
+- [Modernizing Legacy Systems with Amplication&#39;s DB Schema Import](https://dev.to/yuvalhazaz/modernizing-legacy-systems-with-amplications-db-schema-import-221g)
+- [React Hook: useGlobalState](https://dev.to/perssondennis/react-hook-useglobalstate-3c9b)
+- [Yet Another Newsletter LOL: So Fresh!](https://dev.to/nickytonline/yet-another-newsletter-lol-so-fresh-1ojf)
+- [15 Free Bootstrap 5 Admin Dashboard Templates 2023.](https://dev.to/freedashboards/15-free-bootstrap-5-admin-dashboard-templates-2023-268b)
 <!-- BLOG-POST-LIST:END -->
 
