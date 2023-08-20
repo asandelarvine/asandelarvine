@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Operators: A Comprehensive Guide](https://dev.to/arsalanmee/javascript-operators-a-comprehensive-guide-592l)
+- [Getting Started with WebSockets in Deno: Tutorial and Examples](https://dev.to/franciscomendes10866/getting-started-with-websockets-in-deno-tutorial-and-examples-4e5i)
 - [Modernizing Legacy Systems with Amplication&#39;s DB Schema Import](https://dev.to/yuvalhazaz/modernizing-legacy-systems-with-amplications-db-schema-import-221g)
 - [React Hook: useGlobalState](https://dev.to/perssondennis/react-hook-useglobalstate-3c9b)
-- [Yet Another Newsletter LOL: So Fresh!](https://dev.to/nickytonline/yet-another-newsletter-lol-so-fresh-1ojf)
-- [15 Free Bootstrap 5 Admin Dashboard Templates 2023.](https://dev.to/freedashboards/15-free-bootstrap-5-admin-dashboard-templates-2023-268b)
 <!-- BLOG-POST-LIST:END -->
 
