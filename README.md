@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is REST or REST API ? in easy language](https://dev.to/diwakarkashyap/what-is-rest-or-rest-api-in-easy-language-5a8m)
 - [20 VS Code Extensions That Will Take Your Productivity to the Next Level](https://dev.to/devland/20-vs-code-extensions-that-will-take-your-productivity-to-the-next-level-9g)
 - [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
 - [Spring Shell - Build CLI apps](https://dev.to/noelopez/spring-shell-build-cli-apps-2l1o)
-- [Difference between cookie and session in PHP?](https://dev.to/sonamojha/difference-between-cookie-and-session-in-php-hm)
 <!-- BLOG-POST-LIST:END -->
 
