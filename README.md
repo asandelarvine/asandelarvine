@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Background Jobs](https://dev.to/rajrathod/background-jobs-473j)
+- [File transfer through SSH is easy!](https://dev.to/mateusabelli/file-transfer-through-ssh-is-easy-5193)
 - [JavaScript Object and Object Prototypes: What are they?🤷‍♂️🤔](https://dev.to/kelvinguchu/javascript-object-and-object-prototypes-what-are-they-31m5)
 - [How to make an impact as a developer advocate](https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge)
-- [Demystifying EKS Authentication and Authorization: A Guide to Strengthening Network Security](https://dev.to/aws-builders/demystifying-eks-authentication-and-authorization-a-guide-to-strengthening-network-security-32eb)
-- [Comprehensive Walkthrough on How to Connect Your Flutter App to a REST API](https://dev.to/yatendra2001/comprehensive-walkthrough-on-how-to-connect-your-flutter-app-to-a-rest-api-33pe)
 <!-- BLOG-POST-LIST:END -->
 
