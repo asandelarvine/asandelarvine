@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to show Nerd Fonts in Visual Studio Code](https://dev.to/owl777/how-to-show-nerd-fonts-in-visual-studio-code-15fd)
-- [How to first migrate custom User model within models directory](https://dev.to/doridoro/how-to-first-migrate-custom-user-model-within-models-directory-1bdl)
-- [SEO for Developers: Pagination](https://dev.to/fabiancdng/seo-for-developers-pagination-3g9a)
-- [Seamlessly Integrating AWS S3 Static Web Hosting with CloudFront and DNS Configuration: An In-Depth Guide](https://dev.to/aws-builders/seamlessly-integrating-aws-s3-static-web-hosting-with-cloudfront-and-dns-configuration-an-in-depth-guide-553c)
+- [20 VS Code Extensions That Will Take Your Productivity to the Next Level](https://dev.to/devland/20-vs-code-extensions-that-will-take-your-productivity-to-the-next-level-9g)
+- [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
+- [Spring Shell - Build CLI apps](https://dev.to/noelopez/spring-shell-build-cli-apps-2l1o)
+- [Difference between cookie and session in PHP?](https://dev.to/sonamojha/difference-between-cookie-and-session-in-php-hm)
 <!-- BLOG-POST-LIST:END -->
 
