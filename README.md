@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Your Guide to Prometheus Monitoring on Kubernetes with Grafana](https://dev.to/softwaresennin/your-guide-to-prometheus-monitoring-on-kubernetes-with-grafana-gi8)
 - [Part 2 - Building a Full Stack Contact Form: Node.js Backend 2023](https://dev.to/elenadiaz32505/part-2-building-a-full-stack-contact-form-nodejs-backend-2023-jdp)
 - [Part 1 - Full Stack Contact Form: Getting Started &amp; React Frontend 2023](https://dev.to/elenadiaz32505/part-1-full-stack-contact-form-getting-started-react-frontend-2023-1bh4)
 - [Explorando o Poder do Hook useRef no React: Guia Detalhado](https://dev.to/levyhanunes/explorando-o-poder-do-hook-useref-no-react-guia-detalhado-3o4l)
-- [SQL is consuming the lives of data scientists](https://dev.to/jbx1279/sql-is-consuming-the-lives-of-data-scientists-1gk5)
 <!-- BLOG-POST-LIST:END -->
 
