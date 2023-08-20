@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interstellar: a movie review](https://dev.to/grey41/interstellar-a-movie-review-ml)
+- [Figma to React](https://dev.to/herofy_co/figma-to-react-1d1h)
+- [How to create a SLO for Cloud Run programatically](https://dev.to/mesmacosta/how-to-create-a-slo-for-cloud-run-programatically-hp)
 - [React Custom Hook: useHover](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
 - [Use Precise types instead of String types](https://dev.to/adeleke5140/use-precise-types-instead-of-string-types-2f05)
-- [Converting Any Python Web Framework to FastAPI: A Comprehensive Guide](https://dev.to/akarshan/converting-any-python-web-framework-to-fastapi-a-comprehensive-guide-291b)
 <!-- BLOG-POST-LIST:END -->
 
