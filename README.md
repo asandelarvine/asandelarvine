@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The ChatGPT Boom is Over - FINALLY!](https://dev.to/polterguy/the-chatgpt-boom-is-over-finally-45db)
+- [From Bits to Bytes: Understanding Network Protocols and Seamless Communication](https://dev.to/ainasanghi/from-bits-to-bytes-understanding-network-protocols-and-seamless-communication-3n2n)
+- [Exceptions](https://dev.to/lizmat/exceptions-3g0i)
 - [How Do You Manage Your Schedule Effectively While Working Remotely?](https://dev.to/devteam/how-do-you-manage-your-schedule-effectively-while-working-remotely-4opp)
-- [User Guides in Code Documentation: Empowering Users with Usage Instructions](https://dev.to/documatic/user-guides-in-code-documentation-empowering-users-with-usage-instructions-3lmo)
-- [Building a Llama2 Langchain powered Simple Chat Bot hosted on Napptive](https://dev.to/sreekeshiyer/building-a-llama2-langchain-powered-simple-chat-bot-hosted-on-napptive-2h96)
-- [One-Year of Learning Frontend Web Development](https://dev.to/ananfito/one-year-of-learning-frontend-web-development-40je)
 <!-- BLOG-POST-LIST:END -->
 
