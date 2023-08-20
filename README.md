@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma to React](https://dev.to/herofy_co/figma-to-react-1d1h)
-- [How to create a SLO for Cloud Run programatically](https://dev.to/mesmacosta/how-to-create-a-slo-for-cloud-run-programatically-hp)
-- [React Custom Hook: useHover](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
-- [Use Precise types instead of String types](https://dev.to/adeleke5140/use-precise-types-instead-of-string-types-2f05)
+- [Part 2 - Building a Full Stack Contact Form: Node.js Backend 2023](https://dev.to/elenadiaz32505/part-2-building-a-full-stack-contact-form-nodejs-backend-2023-jdp)
+- [Part 1 - Full Stack Contact Form: Getting Started &amp; React Frontend 2023](https://dev.to/elenadiaz32505/part-1-full-stack-contact-form-getting-started-react-frontend-2023-1bh4)
+- [Explorando o Poder do Hook useRef no React: Guia Detalhado](https://dev.to/levyhanunes/explorando-o-poder-do-hook-useref-no-react-guia-detalhado-3o4l)
+- [SQL is consuming the lives of data scientists](https://dev.to/jbx1279/sql-is-consuming-the-lives-of-data-scientists-1gk5)
 <!-- BLOG-POST-LIST:END -->
 
