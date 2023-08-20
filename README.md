@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying EKS Authentication and Authorization: A Guide to Strengthening Network Security](https://dev.to/aws-builders/demystifying-eks-authentication-and-authorization-a-guide-to-strengthening-network-security-32eb)
+- [Comprehensive Walkthrough on How to Connect Your Flutter App to a REST API](https://dev.to/yatendra2001/comprehensive-walkthrough-on-how-to-connect-your-flutter-app-to-a-rest-api-33pe)
 - [JavaScript Operators: A Comprehensive Guide](https://dev.to/arsalanmee/javascript-operators-a-comprehensive-guide-592l)
 - [Getting Started with WebSockets in Deno: Tutorial and Examples](https://dev.to/franciscomendes10866/getting-started-with-websockets-in-deno-tutorial-and-examples-4e5i)
-- [Modernizing Legacy Systems with Amplication&#39;s DB Schema Import](https://dev.to/yuvalhazaz/modernizing-legacy-systems-with-amplications-db-schema-import-221g)
-- [React Hook: useGlobalState](https://dev.to/perssondennis/react-hook-useglobalstate-3c9b)
 <!-- BLOG-POST-LIST:END -->
 
