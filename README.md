@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
 - [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
 - [JavaScript Objects and its secret associates](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
 - [Astro Beginners Guide, Part 1: Overview](https://dev.to/kblo4517/astro-beginners-guide-part-1-overview-2647)
-- [Unveiling Our Art-Guide Telegram Bot: Where AI and Artistry Converge](https://dev.to/arielxx/unveiling-our-art-guide-telegram-bot-where-ai-and-artistry-converge-58k2)
 <!-- BLOG-POST-LIST:END -->
 
