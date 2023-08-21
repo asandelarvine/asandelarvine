@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
+- [The Paradox of Passion](https://dev.to/inovak/the-paradox-of-passion-3op7)
 - [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
 - [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
-- [JavaScript Objects and its secret associates](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
-- [Astro Beginners Guide, Part 1: Overview](https://dev.to/kblo4517/astro-beginners-guide-part-1-overview-2647)
 <!-- BLOG-POST-LIST:END -->
 
