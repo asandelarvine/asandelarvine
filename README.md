@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useMediaQuery](https://dev.to/sergeyleschev/react-custom-hook-usemediaquery-1pbo)
+- [&quot;X&quot; &lpar;Twitter&rpar; Ad Revenue Generator](https://dev.to/fatihtelis/x-twitter-ad-revenue-generator-3npl)
 - [Why use git worktree?](https://dev.to/programmingdecoded/why-use-git-worktree-5gj0)
 - [Announcing the Icebreaker Badge! 🧊🔨](https://dev.to/devteam/announcing-the-icebreaker-badge-20k3)
-- [Dive Into Docker part 4: Inspecting Docker Image](https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o)
-- [11 Ways to Improve Website Performance in Next.js Webpages](https://dev.to/oleanji/11-ways-to-improve-website-performance-in-nextjs-webpages-3i5e)
 <!-- BLOG-POST-LIST:END -->
 
