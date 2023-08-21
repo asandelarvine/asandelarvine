@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways AI Pair Programmers Impact Developer Productivity](https://dev.to/domfive/5-ways-ai-pair-programmers-impact-developer-productivity-491m)
 - [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
 - [The Paradox of Passion](https://dev.to/inovak/the-paradox-of-passion-3op7)
 - [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
-- [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
 <!-- BLOG-POST-LIST:END -->
 
