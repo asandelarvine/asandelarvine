@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #170](https://dev.to/aws/aws-open-source-newsletter-170-13cl)
-- [State Management with Redux](https://dev.to/haszankauna/state-management-with-redux-34ca)
-- [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-4n05)
-- [First Code Crush: Which Language Feels Like Home?](https://dev.to/codenewbieteam/first-code-crush-which-language-feels-like-home-577f)
+- [6 Benefits of Transparent Marketing for Brands to Consider](https://dev.to/syedbalkhi/6-benefits-of-transparent-marketing-for-brands-to-consider-1f0g)
+- [Building Android Application with Jetpack Compose](https://dev.to/peculiaruc/building-android-application-with-jetpack-compose-469m)
+- [Selenium WebDriverWait: Implementing The Explicit Wait Command](https://dev.to/upendraprasadmahto/selenium-webdriverwait-implementing-the-explicit-wait-command-373d)
+- [Learning Web Development Together with a Real Project](https://dev.to/this-is-learning/learning-web-development-together-with-a-real-project-1bf8)
 <!-- BLOG-POST-LIST:END -->
 
