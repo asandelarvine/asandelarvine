@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [rpcbenchmark.com - New SaaS to benchmark RPC Nodes](https://dev.to/aspnxdd/rpcbenchmarkcom-new-saas-to-benchmark-rpc-nodes-52g2)
-- [Venture Capitalism, the Ponzi Scheme of the 21st Century](https://dev.to/polterguy/venture-capitalism-the-ponzi-scheme-of-the-21st-century-27n5)
-- [Part 1: Tracking Interactions - Initial Design and Data Modeling](https://dev.to/vcavanna/part-1-tracking-interactions-initial-design-and-data-modeling-563k)
-- [Libraries vs. Frameworks: Which is right for your next web project?](https://dev.to/hackmamba/libraries-vs-frameworks-which-is-right-for-your-next-web-project-32pl)
+- [Simplify Complex SQL Queries with Common Table Expressions &lpar;CTEs&rpar;](https://dev.to/karishmashukla/simplify-complex-sql-queries-with-common-table-expressions-ctes-3kf5)
+- [Some Popular React.js Libraries](https://dev.to/munavvar/some-popular-reactjs-libraries-298e)
+- [9 Pro Tips for Effective Version Control and Collaboration using Git](https://dev.to/yatendra2001/9-pro-tips-for-effective-version-control-and-collaboration-using-git-3nik)
+- [Demystifying JavaScript Arrays: A Comprehensive Guide for Beginners and Intermediates](https://dev.to/bolajibolajoko51/demystifying-javascript-arrays-a-comprehensive-guide-for-beginners-and-intermediates-19n5)
 <!-- BLOG-POST-LIST:END -->
 
