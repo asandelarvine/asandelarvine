@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL - ReactJS | Update and Delete](https://dev.to/shubhamtiwari909/graphql-reactjs-update-and-delete-19al)
-- [GraphQL - ReactJS | Add Data](https://dev.to/shubhamtiwari909/graphql-reactjs-add-data-49d0)
-- [DOM traversal in JavaScript](https://dev.to/accreditly/dom-traversal-in-javascript-3b00)
-- [Meme Monday](https://dev.to/ben/meme-monday-4d8o)
+- [FLaNK Stack Weekly for 21 August 2023](https://dev.to/tspannhw/flank-stack-weekly-for-21-august-2023-nb0)
+- [Visual Studio : Power Of TODO](https://dev.to/hasanelsherbiny/visual-studio-power-of-todo-4g04)
+- [Rust on AWS App Runner - Part1](https://dev.to/aws-builders/rust-on-aws-app-runner-part1-4hpp)
+- [Intro to Python: Day 14 - OOP - Method signatures in polymorphism](https://dev.to/jwhubert91/intro-to-python-day-14-oop-method-signatures-in-polymorphism-33pl)
 <!-- BLOG-POST-LIST:END -->
 
