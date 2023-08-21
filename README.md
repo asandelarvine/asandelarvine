@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-43nb)
+- [Should you ALWAYS write unit tests?](https://dev.to/alanmbarr/should-you-always-write-unit-tests-144e)
+- [Building Your Own VPN for Free](https://dev.to/williambaptist/building-your-own-vpn-for-free-3o9h)
 - [React Custom Hook: useMediaQuery](https://dev.to/sergeyleschev/react-custom-hook-usemediaquery-1pbo)
-- [&quot;X&quot; &lpar;Twitter&rpar; Ad Revenue Generator](https://dev.to/fatihtelis/x-twitter-ad-revenue-generator-3npl)
-- [Why use git worktree?](https://dev.to/programmingdecoded/why-use-git-worktree-5gj0)
-- [Announcing the Icebreaker Badge! 🧊🔨](https://dev.to/devteam/announcing-the-icebreaker-badge-20k3)
 <!-- BLOG-POST-LIST:END -->
 
