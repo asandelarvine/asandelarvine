@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your free link shortener with Next.js and Vercel Postgres](https://dev.to/codegino/build-your-free-link-shortener-with-nextjs-and-vercel-postgres-3991)
-- [Getting Started with GitHub Copilot Chat in VSCode](https://dev.to/github/getting-started-with-github-copilot-chat-in-vscode-174m)
-- [Overcoming The Challenges Of Software Quality Assurance: Strategies For Success](https://dev.to/vinsay11/overcoming-the-challenges-of-software-quality-assurance-strategies-for-success-58d1)
-- [Simplify Complex SQL Queries with Common Table Expressions &lpar;CTEs&rpar;](https://dev.to/karishmashukla/simplify-complex-sql-queries-with-common-table-expressions-ctes-3kf5)
+- [Why use git worktree?](https://dev.to/programmingdecoded/why-use-git-worktree-5gj0)
+- [Announcing the Icebreaker Badge! 🧊🔨](https://dev.to/devteam/announcing-the-icebreaker-badge-20k3)
+- [Dive Into Docker part 4: Inspecting Docker Image](https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o)
+- [11 Ways to Improve Website Performance in Next.js Webpages](https://dev.to/oleanji/11-ways-to-improve-website-performance-in-nextjs-webpages-3i5e)
 <!-- BLOG-POST-LIST:END -->
 
