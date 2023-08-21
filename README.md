@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your free link shortener with Next.js and Vercel Postgres](https://dev.to/codegino/build-your-free-link-shortener-with-nextjs-and-vercel-postgres-3991)
+- [Getting Started with GitHub Copilot Chat in VSCode](https://dev.to/github/getting-started-with-github-copilot-chat-in-vscode-174m)
+- [Overcoming The Challenges Of Software Quality Assurance: Strategies For Success](https://dev.to/vinsay11/overcoming-the-challenges-of-software-quality-assurance-strategies-for-success-58d1)
 - [Simplify Complex SQL Queries with Common Table Expressions &lpar;CTEs&rpar;](https://dev.to/karishmashukla/simplify-complex-sql-queries-with-common-table-expressions-ctes-3kf5)
-- [Some Popular React.js Libraries](https://dev.to/munavvar/some-popular-reactjs-libraries-298e)
-- [9 Pro Tips for Effective Version Control and Collaboration using Git](https://dev.to/yatendra2001/9-pro-tips-for-effective-version-control-and-collaboration-using-git-3nik)
-- [Demystifying JavaScript Arrays: A Comprehensive Guide for Beginners and Intermediates](https://dev.to/bolajibolajoko51/demystifying-javascript-arrays-a-comprehensive-guide-for-beginners-and-intermediates-19n5)
 <!-- BLOG-POST-LIST:END -->
 
