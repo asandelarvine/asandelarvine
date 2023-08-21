@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🍕 เชื่อฟังและอวยพร](https://dev.to/nantipatsoften/echuuefangaelawyphr-59an)
-- [Top 5 JavaScript Courses on Udemy -  Is it worth it?](https://dev.to/aswin2001barath/top-5-javascript-courses-on-udemy-is-it-worth-it-3523)
-- [A simple theme switcher in React for Tailwind CSS](https://dev.to/danhawkins/a-simple-theme-switcher-in-react-for-tailwind-css-1349)
-- [VSCode for PHP and Laravel](https://dev.to/sean_kegel/vscode-for-php-and-laravel-lnk)
+- [What is routing and how to implement attribute routing in Asp.net MVC?](https://dev.to/ifourtechnolab/what-is-routing-and-how-to-implement-attribute-routing-in-aspnet-mvc-3hn3)
+- [Conditional Statements: Making Decisions in JavaScript 😎🔀](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
+- [Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
+- [Understanding Variables in JavaScript: The Var, Let, and Const Adventure!](https://dev.to/aswin2001barath/understanding-variables-in-javascript-the-var-let-and-const-adventure-1a4d)
 <!-- BLOG-POST-LIST:END -->
 
