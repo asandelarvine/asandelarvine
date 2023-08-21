@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database 101: How does migration between databases work in the real world?](https://dev.to/danielhe4rt/database-101-how-does-migration-between-databases-work-in-the-real-world-24dn)
-- [Mastering State Management in React eCommerce with Redux Toolkit!](https://dev.to/aeeshah/mastering-state-management-in-react-ecommerce-with-redux-toolkit-1dmp)
-- [Cookies vs Local Storage in JavaScript](https://dev.to/diwakarkashyap/cookies-vs-local-storage-in-javascript-3m0h)
-- [Enable CORS in ASP.NET Core in the Easiest Way](https://dev.to/bytehide/enable-cors-in-aspnet-core-in-the-easiest-way-3c5i)
+- [GraphQL - ReactJS | Update and Delete](https://dev.to/shubhamtiwari909/graphql-reactjs-update-and-delete-19al)
+- [GraphQL - ReactJS | Add Data](https://dev.to/shubhamtiwari909/graphql-reactjs-add-data-49d0)
+- [DOM traversal in JavaScript](https://dev.to/accreditly/dom-traversal-in-javascript-3b00)
+- [Meme Monday](https://dev.to/ben/meme-monday-4d8o)
 <!-- BLOG-POST-LIST:END -->
 
