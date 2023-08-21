@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🕵️‍♂️ Uncovering Hidden Dependencies in Microservices 🕵️‍♂️ with Term Analysis 📊](https://dev.to/francescobianco/uncovering-hidden-dependencies-in-microservices-with-term-analysis-1j68)
-- [FLaNK Stack Weekly for 21 August 2023](https://dev.to/tspannhw/flank-stack-weekly-for-21-august-2023-nb0)
-- [Visual Studio : Power Of TODO](https://dev.to/hasanelsherbiny/visual-studio-power-of-todo-4g04)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-3b7g)
+- [rpcbenchmark.com - New SaaS to benchmark RPC Nodes](https://dev.to/aspnxdd/rpcbenchmarkcom-new-saas-to-benchmark-rpc-nodes-52g2)
+- [Venture Capitalism, the Ponzi Scheme of the 21st Century](https://dev.to/polterguy/venture-capitalism-the-ponzi-scheme-of-the-21st-century-27n5)
+- [Part 1: Tracking Interactions - Initial Design and Data Modeling](https://dev.to/vcavanna/part-1-tracking-interactions-initial-design-and-data-modeling-563k)
+- [Libraries vs. Frameworks: Which is right for your next web project?](https://dev.to/hackmamba/libraries-vs-frameworks-which-is-right-for-your-next-web-project-32pl)
 <!-- BLOG-POST-LIST:END -->
 
