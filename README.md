@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥🤖 Automate MEMEs posting to your Discord with NodeJS and Novu 🚀🚀](https://dev.to/novu/automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi)
-- [Exploring the Diverse Landscape: 10 Roles of UX/UI Designers](https://dev.to/stokry/exploring-the-diverse-landscape-10-roles-of-uxui-designers-4fd6)
-- [Boost Your Coding Speed with These Productivity Tools](https://dev.to/surajondev/boost-your-coding-speed-with-these-productivity-tools-1k4a)
-- [Understanding AWS Key Management Service &lpar;KMS&rpar; Policies](https://dev.to/aws-builders/understanding-aws-key-management-service-kms-policies-3l5i)
+- [Database 101: How does migration between databases work in the real world?](https://dev.to/danielhe4rt/database-101-how-does-migration-between-databases-work-in-the-real-world-24dn)
+- [Mastering State Management in React eCommerce with Redux Toolkit!](https://dev.to/aeeshah/mastering-state-management-in-react-ecommerce-with-redux-toolkit-1dmp)
+- [Cookies vs Local Storage in JavaScript](https://dev.to/diwakarkashyap/cookies-vs-local-storage-in-javascript-3m0h)
+- [Enable CORS in ASP.NET Core in the Easiest Way](https://dev.to/bytehide/enable-cors-in-aspnet-core-in-the-easiest-way-3c5i)
 <!-- BLOG-POST-LIST:END -->
 
