@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Maven: A Beginner&#39;s Guide to Java Build Automation](https://dev.to/nilan/getting-started-with-maven-a-beginners-guide-to-java-build-automation-41f2)
+- [How to enhance your Lambda function performance with memory configuration?](https://dev.to/aws-builders/how-to-enhance-your-lambda-function-performance-with-memory-configuration-3kd1)
 - [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-43nb)
-- [Should you ALWAYS write unit tests?](https://dev.to/alanmbarr/should-you-always-write-unit-tests-144e)
-- [Building Your Own VPN for Free](https://dev.to/williambaptist/building-your-own-vpn-for-free-3o9h)
-- [React Custom Hook: useMediaQuery](https://dev.to/sergeyleschev/react-custom-hook-usemediaquery-1pbo)
+- [The best way to integrate in a new team](https://dev.to/noblica/the-best-way-to-integrate-in-a-new-team-4k29)
 <!-- BLOG-POST-LIST:END -->
 
