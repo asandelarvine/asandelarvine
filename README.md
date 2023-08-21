@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test the Magento API in Postman?](https://dev.to/dustykaisler/how-to-test-the-magento-api-in-postman-2fdl)
-- [What is routing and how to implement attribute routing in Asp.net MVC?](https://dev.to/ifourtechnolab/what-is-routing-and-how-to-implement-attribute-routing-in-aspnet-mvc-3hn3)
-- [Conditional Statements: Making Decisions in JavaScript 😎🔀](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
-- [Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
+- [Embarking on a React Adventure? First, Master These 5 JS concepts! 🚀](https://dev.to/ale3oula/embarking-on-a-react-adventure-first-master-these-5-js-concepts-211b)
+- [Complete Guide to JavaScript Promises, Async/await and Promise Methods](https://dev.to/myogeshchavan97/complete-guide-to-javascript-promises-asyncawait-and-promise-methods-5aom)
+- [Navigating the Maze: Solving Shortest Path Challenges with Dijkstra&#39;s Algorithm](https://dev.to/balagmadhu/navigating-the-maze-solving-shortest-path-challenges-with-dijkstras-algorithm-29la)
+- [Learning Go by examples: part 12 - Deploy Go apps in Go with Pulumi](https://dev.to/aurelievache/learning-go-by-examples-part-12-deploy-go-apps-in-go-with-pulumi-1cim)
 <!-- BLOG-POST-LIST:END -->
 
