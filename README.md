@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a product page in an eCommerce website?](https://dev.to/emmanuelkatto/how-to-create-a-product-page-in-an-ecommerce-website-1l1l)
+- [Software installation with Ansible](https://dev.to/kuldipmori/software-installation-with-ansible-14i6)
+- [iOS CI/CD Evolution: From Bitrise to GitHub Actions Migration Study](https://dev.to/brainhubeu/ios-cicd-evolution-from-bitrise-to-github-actions-migration-study-80f)
 - [6 Benefits of Transparent Marketing for Brands to Consider](https://dev.to/syedbalkhi/6-benefits-of-transparent-marketing-for-brands-to-consider-1f0g)
-- [Building Android Application with Jetpack Compose](https://dev.to/peculiaruc/building-android-application-with-jetpack-compose-469m)
-- [Selenium WebDriverWait: Implementing The Explicit Wait Command](https://dev.to/upendraprasadmahto/selenium-webdriverwait-implementing-the-explicit-wait-command-373d)
-- [Learning Web Development Together with a Real Project](https://dev.to/this-is-learning/learning-web-development-together-with-a-real-project-1bf8)
 <!-- BLOG-POST-LIST:END -->
 
