@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embarking on a React Adventure? First, Master These 5 JS concepts! 🚀](https://dev.to/ale3oula/embarking-on-a-react-adventure-first-master-these-5-js-concepts-211b)
-- [Complete Guide to JavaScript Promises, Async/await and Promise Methods](https://dev.to/myogeshchavan97/complete-guide-to-javascript-promises-asyncawait-and-promise-methods-5aom)
-- [Navigating the Maze: Solving Shortest Path Challenges with Dijkstra&#39;s Algorithm](https://dev.to/balagmadhu/navigating-the-maze-solving-shortest-path-challenges-with-dijkstras-algorithm-29la)
-- [Learning Go by examples: part 12 - Deploy Go apps in Go with Pulumi](https://dev.to/aurelievache/learning-go-by-examples-part-12-deploy-go-apps-in-go-with-pulumi-1cim)
+- [AWS open source newsletter, #170](https://dev.to/aws/aws-open-source-newsletter-170-13cl)
+- [State Management with Redux](https://dev.to/haszankauna/state-management-with-redux-34ca)
+- [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-4n05)
+- [First Code Crush: Which Language Feels Like Home?](https://dev.to/codenewbieteam/first-code-crush-which-language-feels-like-home-577f)
 <!-- BLOG-POST-LIST:END -->
 
