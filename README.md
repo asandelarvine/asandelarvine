@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a product page in an eCommerce website?](https://dev.to/emmanuelkatto/how-to-create-a-product-page-in-an-ecommerce-website-1l1l)
-- [Software installation with Ansible](https://dev.to/kuldipmori/software-installation-with-ansible-14i6)
-- [iOS CI/CD Evolution: From Bitrise to GitHub Actions Migration Study](https://dev.to/brainhubeu/ios-cicd-evolution-from-bitrise-to-github-actions-migration-study-80f)
-- [6 Benefits of Transparent Marketing for Brands to Consider](https://dev.to/syedbalkhi/6-benefits-of-transparent-marketing-for-brands-to-consider-1f0g)
+- [🔥🤖 Automate MEMEs posting to your Discord with NodeJS and Novu 🚀🚀](https://dev.to/novu/automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi)
+- [Exploring the Diverse Landscape: 10 Roles of UX/UI Designers](https://dev.to/stokry/exploring-the-diverse-landscape-10-roles-of-uxui-designers-4fd6)
+- [Boost Your Coding Speed with These Productivity Tools](https://dev.to/surajondev/boost-your-coding-speed-with-these-productivity-tools-1k4a)
+- [Understanding AWS Key Management Service &lpar;KMS&rpar; Policies](https://dev.to/aws-builders/understanding-aws-key-management-service-kms-policies-3l5i)
 <!-- BLOG-POST-LIST:END -->
 
