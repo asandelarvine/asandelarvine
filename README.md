@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🕵️‍♂️ Uncovering Hidden Dependencies in Microservices 🕵️‍♂️ with Term Analysis 📊](https://dev.to/francescobianco/uncovering-hidden-dependencies-in-microservices-with-term-analysis-1j68)
 - [FLaNK Stack Weekly for 21 August 2023](https://dev.to/tspannhw/flank-stack-weekly-for-21-august-2023-nb0)
 - [Visual Studio : Power Of TODO](https://dev.to/hasanelsherbiny/visual-studio-power-of-todo-4g04)
-- [Rust on AWS App Runner - Part1](https://dev.to/aws-builders/rust-on-aws-app-runner-part1-4hpp)
-- [Intro to Python: Day 14 - OOP - Method signatures in polymorphism](https://dev.to/jwhubert91/intro-to-python-day-14-oop-method-signatures-in-polymorphism-33pl)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-3b7g)
 <!-- BLOG-POST-LIST:END -->
 
