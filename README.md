@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🍕 เชื่อฟังและอวยพร](https://dev.to/nantipatsoften/echuuefangaelawyphr-59an)
 - [Top 5 JavaScript Courses on Udemy -  Is it worth it?](https://dev.to/aswin2001barath/top-5-javascript-courses-on-udemy-is-it-worth-it-3523)
+- [A simple theme switcher in React for Tailwind CSS](https://dev.to/danhawkins/a-simple-theme-switcher-in-react-for-tailwind-css-1349)
 - [VSCode for PHP and Laravel](https://dev.to/sean_kegel/vscode-for-php-and-laravel-lnk)
-- [5 Ways AI Pair Programmers Impact Developer Productivity](https://dev.to/domfive/5-ways-ai-pair-programmers-impact-developer-productivity-491m)
-- [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
 <!-- BLOG-POST-LIST:END -->
 
