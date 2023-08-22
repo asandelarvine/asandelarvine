@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building ETL/ELT Pipelines For Data Engineers.](https://dev.to/wanjohichristopher/building-etlelt-pipelines-for-data-engineers-2d8g)
-- [Modelos de Referência para Redes de Computadores](https://dev.to/bl4cktux89/modelos-de-referencia-para-redes-de-computadores-2np3)
-- [Introdução a Redes de Computadores](https://dev.to/bl4cktux89/introducao-a-redes-de-computadores-4nm4)
-- [Sendbird Alternatives vs Compititors](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
+- [Scratch is Addictive: How to get rid of your Scratch addiction](https://dev.to/alteca/scratch-is-addictive-how-to-get-rid-of-your-scratch-addiction-28cg)
+- [Differences Between ASP.NET and ASP.NET Core - ASP.NET vs ASP.NET Core](https://dev.to/ifourtechnolab/differences-between-aspnet-and-aspnet-core-aspnet-vs-aspnet-core-1pc0)
+- [Walking Boot](https://dev.to/dimple031/walking-boot-38oc)
+- [Font-size slider](https://dev.to/preetsuthar17/font-size-slider-5kf)
 <!-- BLOG-POST-LIST:END -->
 
