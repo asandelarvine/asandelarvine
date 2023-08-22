@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Outsmarting AI 🤖🧠 The hack for generating fully-functional web apps](https://dev.to/wasp/outsmarting-ai-the-hack-for-generating-fully-functional-web-apps-13ja)
-- [Automate your repitative git commands like a pro](https://dev.to/eagledev_/automate-your-repetitive-git-commands-like-a-pro-15c2)
-- [React Native Maps: Easy Bird&#39;s Eye View Animation](https://dev.to/noahvelasco/react-native-maps-easy-birds-eye-view-animation-23dj)
-- [Guide: Creating Stored Procedures in PostgreSQL](https://dev.to/dukeofhazardz/guide-creating-stored-procedures-in-postgresql-4g3c)
+- [A deep-dive on a Progressive Web App implementation for a React-based App Platform &lpar;DHIS2&rpar;](https://dev.to/kaivandivier/a-deep-dive-on-a-progressive-web-app-implementation-for-a-react-based-app-platform-dhis2-1bn6)
+- [AWS Advanced: Serverless Prometheus in Action](https://dev.to/authress/aws-advanced-serverless-prometheus-in-action-j1h)
+- [AWS Metrics: Advanced](https://dev.to/authress/aws-metrics-advanced-40f8)
+- [Way to High Confidence: The Ideal Testing Trophy](https://dev.to/borysshulyak/high-confidence-testing-levels-1n1m)
 <!-- BLOG-POST-LIST:END -->
 
