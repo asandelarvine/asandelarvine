@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Steps to become a web developer in Nigeria](https://dev.to/sabiprogrammershq/5-steps-to-become-a-web-developer-in-nigeria-4ncp)
+- [It&#39;s 2AM Do you Know What Your Code is Doing?](https://dev.to/codenameone/its-2am-do-you-know-what-your-code-is-doing-399k)
+- [Mastering A Framework](https://dev.to/jinxcoy/mastering-a-framework-ha9)
 - [What is the concept of DevSecOps?](https://dev.to/rawati/what-is-the-concept-of-devsecops-5g1d)
-- [How Machine Learning is Driving Innovation in Web Development](https://dev.to/muzammilrawjani/how-machine-learning-is-driving-innovation-in-webdevelopment-5an9)
-- [Mastering Prompt Engineering: A Journey into AI-Powered Conversations](https://dev.to/shubhamkcloud/mastering-prompt-engineering-a-journey-into-ai-powered-conversations-3897)
-- [Gently reminder to set up backups](https://dev.to/mainarthur/gently-reminder-to-set-up-backups-151i)
 <!-- BLOG-POST-LIST:END -->
 
