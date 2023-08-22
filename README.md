@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the concept of DevSecOps?](https://dev.to/rawati/what-is-the-concept-of-devsecops-5g1d)
+- [How Machine Learning is Driving Innovation in Web Development](https://dev.to/muzammilrawjani/how-machine-learning-is-driving-innovation-in-webdevelopment-5an9)
+- [Mastering Prompt Engineering: A Journey into AI-Powered Conversations](https://dev.to/shubhamkcloud/mastering-prompt-engineering-a-journey-into-ai-powered-conversations-3897)
 - [Gently reminder to set up backups](https://dev.to/mainarthur/gently-reminder-to-set-up-backups-151i)
-- [Web3 Mobile app update - Day 96](https://dev.to/shreyvijayvargiya/web3-mobile-app-update-day-96-5ao)
-- [It&#39;s The End Of The World - And I&#39;m having a BLAST 😂](https://dev.to/polterguy/the-end-of-the-world-and-im-having-a-blast-4k8p)
-- [Comparison of Search and Information Retrieval Technologies](https://dev.to/hashcode01/comparison-of-search-and-information-retrieval-technologies-1jf7)
 <!-- BLOG-POST-LIST:END -->
 
