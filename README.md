@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useOnlineStatus](https://dev.to/sergeyleschev/react-custom-hook-useonlinestatus-59ki)
+- [Mastering Navigation in Flutter: A Comprehensive Guide](https://dev.to/yatendra2001/mastering-navigation-in-flutter-a-comprehensive-guide-1p1l)
 - [Before You Code: Strategies for Validation](https://dev.to/inovak/before-you-code-strategies-for-validation-5830)
 - [Github Actions - Output](https://dev.to/rafael_svieira/github-actions-output-5ach)
-- [Navigating Open Source: My Journey to Contributing and Getting My First PR Accepted in the freeCodeCamp Repository](https://dev.to/opensauced/navigating-open-source-my-journey-to-contributing-and-getting-my-first-pr-accepted-in-the-freecodecamp-repository-2o4c)
-- [🚀 Discover Comprehensive Programming Language Roadmaps at roadmap.sh](https://dev.to/ayoubelsvg/discover-comprehensive-programming-language-roadmaps-at-roadmapsh-1l38)
 <!-- BLOG-POST-LIST:END -->
 
