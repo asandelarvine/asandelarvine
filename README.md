@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Performance and Bulk Data Population: Console-based DynamoDB Read and Write with S3 Import](https://dev.to/oloruntobiolurombi/testing-performance-and-bulk-data-population-console-based-dynamodb-read-and-write-with-s3-import-49k4)
-- [Starting Your Coding Journey: What Sparks Excitement?](https://dev.to/codenewbieteam/starting-your-coding-journey-what-sparks-excitement-3d6g)
-- [Which Topic Would Shape Your TED Talk?](https://dev.to/devteam/which-topic-would-shape-your-ted-talk-5gdn)
-- [Importance of Idempotency in Microservice Architectures](https://dev.to/amplication/importance-of-idempotency-in-microservice-architectures-1gom)
+- [Gently reminder to set up backups](https://dev.to/mainarthur/gently-reminder-to-set-up-backups-151i)
+- [Web3 Mobile app update - Day 96](https://dev.to/shreyvijayvargiya/web3-mobile-app-update-day-96-5ao)
+- [It&#39;s The End Of The World - And I&#39;m having a BLAST 😂](https://dev.to/polterguy/the-end-of-the-world-and-im-having-a-blast-4k8p)
+- [Comparison of Search and Information Retrieval Technologies](https://dev.to/hashcode01/comparison-of-search-and-information-retrieval-technologies-1jf7)
 <!-- BLOG-POST-LIST:END -->
 
