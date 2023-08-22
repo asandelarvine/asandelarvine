@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a plugin for Elanat?](https://dev.to/elanatframework/how-to-create-a-plugin-for-elanat-22oe)
-- [Using path aliases for cleaner React and TypeScript imports](https://dev.to/logrocket/using-path-aliases-for-cleaner-react-and-typescript-imports-nkp)
-- [Exciting news for remote dev job seekers](https://dev.to/kendalmintcode/exciting-news-for-remote-dev-job-seekers-4e51)
-- [HubSpot&#39;s Chatbot versus AINIRO&#39;s Chatbot](https://dev.to/polterguy/hubspots-chatbot-versus-ainiros-chatbot-4h85)
+- [Unleashing the Power of Generator Functions in JavaScript: Cooking Up Code Magic! 🎩](https://dev.to/rajaniraiyn/unleashing-the-power-of-generator-functions-in-javascript-cooking-up-code-magic-110a)
+- [What is Web 1.0, Web 2.0 and Web 3.0 ?](https://dev.to/saji37/what-is-web-10-web-20-and-web-30--41l9)
+- [Index-Only Scan in Postgresql is not always Index “Only”!](https://dev.to/garvit_gupta/index-only-scan-in-postgresql-is-not-always-index-only-ogo)
+- [CSS Lube: Highly-optimized CSS Interpreter](https://dev.to/artxe2/css-lube-highly-optimized-css-interpreter-2nl5)
 <!-- BLOG-POST-LIST:END -->
 
