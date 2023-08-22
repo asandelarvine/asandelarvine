@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building ETL/ELT Pipelines For Data Engineers.](https://dev.to/wanjohichristopher/building-etlelt-pipelines-for-data-engineers-2d8g)
 - [Modelos de Referência para Redes de Computadores](https://dev.to/bl4cktux89/modelos-de-referencia-para-redes-de-computadores-2np3)
 - [Introdução a Redes de Computadores](https://dev.to/bl4cktux89/introducao-a-redes-de-computadores-4nm4)
 - [Sendbird Alternatives vs Compititors](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
-- [Unlocking Your dev.to Portfolio: Elevate Your Web Presence with Integrated Article Showcase](https://dev.to/jcvb/unlocking-your-devto-portfolio-elevate-your-web-presence-with-integrated-article-showcase-2akh)
 <!-- BLOG-POST-LIST:END -->
 
