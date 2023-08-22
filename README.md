@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Autenticação e Autorização de uma ASP .NET Web API com Keycloak](https://dev.to/gloinho/autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe)
 - [React Custom Hook: useOnlineStatus](https://dev.to/sergeyleschev/react-custom-hook-useonlinestatus-59ki)
 - [Mastering Navigation in Flutter: A Comprehensive Guide](https://dev.to/yatendra2001/mastering-navigation-in-flutter-a-comprehensive-guide-1p1l)
 - [Before You Code: Strategies for Validation](https://dev.to/inovak/before-you-code-strategies-for-validation-5830)
-- [Github Actions - Output](https://dev.to/rafael_svieira/github-actions-output-5ach)
 <!-- BLOG-POST-LIST:END -->
 
