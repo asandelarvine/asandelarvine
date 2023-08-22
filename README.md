@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup SonarQube locally for your Next.js project](https://dev.to/elisabethleonhardt/setup-sonarqube-locally-for-your-nextjs-project-497m)
-- [Unleashing the Power of Generator Functions in JavaScript: Cooking Up Code Magic! 🎩](https://dev.to/rajaniraiyn/unleashing-the-power-of-generator-functions-in-javascript-cooking-up-code-magic-110a)
-- [What is Web 1.0, Web 2.0 and Web 3.0 ?](https://dev.to/saji37/what-is-web-10-web-20-and-web-30--41l9)
-- [Index-Only Scan in Postgresql is not always Index “Only”!](https://dev.to/garvit_gupta/index-only-scan-in-postgresql-is-not-always-index-only-ogo)
+- [🔥✍️ Notion-like Experience for Your GitHub Content](https://dev.to/areknawo/notion-like-experience-for-your-github-content-5gk1)
+- [Building Next.js apps with Materio](https://dev.to/logrocket/building-nextjs-apps-with-materio-21mc)
+- [🪂 Looking Beyond ChatGPT: 7 Innovative Chatbot Alternatives 🚀](https://dev.to/shreya_gr/looking-beyond-chatgpt-7-innovative-chatbot-alternatives-4c4c)
+- [Containerizing Next.js App with Docker: Quick Guide](https://dev.to/pulkit30/containerizing-nextjs-app-with-docker-quick-guide-51ml)
 <!-- BLOG-POST-LIST:END -->
 
