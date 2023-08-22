@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup SonarQube locally for your Next.js project](https://dev.to/elisabethleonhardt/setup-sonarqube-locally-for-your-nextjs-project-497m)
 - [Unleashing the Power of Generator Functions in JavaScript: Cooking Up Code Magic! 🎩](https://dev.to/rajaniraiyn/unleashing-the-power-of-generator-functions-in-javascript-cooking-up-code-magic-110a)
 - [What is Web 1.0, Web 2.0 and Web 3.0 ?](https://dev.to/saji37/what-is-web-10-web-20-and-web-30--41l9)
 - [Index-Only Scan in Postgresql is not always Index “Only”!](https://dev.to/garvit_gupta/index-only-scan-in-postgresql-is-not-always-index-only-ogo)
-- [CSS Lube: Highly-optimized CSS Interpreter](https://dev.to/artxe2/css-lube-highly-optimized-css-interpreter-2nl5)
 <!-- BLOG-POST-LIST:END -->
 
