@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Performance and Bulk Data Population: Console-based DynamoDB Read and Write with S3 Import](https://dev.to/oloruntobiolurombi/testing-performance-and-bulk-data-population-console-based-dynamodb-read-and-write-with-s3-import-49k4)
 - [Starting Your Coding Journey: What Sparks Excitement?](https://dev.to/codenewbieteam/starting-your-coding-journey-what-sparks-excitement-3d6g)
 - [Which Topic Would Shape Your TED Talk?](https://dev.to/devteam/which-topic-would-shape-your-ted-talk-5gdn)
 - [Importance of Idempotency in Microservice Architectures](https://dev.to/amplication/importance-of-idempotency-in-microservice-architectures-1gom)
-- [Collection of retry patterns for SDK calls in AWS SDK for Go v2](https://dev.to/aws-builders/collection-of-retry-patterns-for-sdk-calls-in-aws-sdk-for-go-v2-14p4)
 <!-- BLOG-POST-LIST:END -->
 
