@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Maven: A Beginner&#39;s Guide to Java Build Automation](https://dev.to/nilan/getting-started-with-maven-a-beginners-guide-to-java-build-automation-41f2)
-- [How to enhance your Lambda function performance with memory configuration?](https://dev.to/aws-builders/how-to-enhance-your-lambda-function-performance-with-memory-configuration-3kd1)
-- [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-43nb)
-- [The best way to integrate in a new team](https://dev.to/noblica/the-best-way-to-integrate-in-a-new-team-4k29)
+- [Sendbird Alternatives vs Compititors](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
+- [Unlocking Your dev.to Portfolio: Elevate Your Web Presence with Integrated Article Showcase](https://dev.to/jcvb/unlocking-your-devto-portfolio-elevate-your-web-presence-with-integrated-article-showcase-2akh)
+- [Practical steps on how to apply the useParams hook of React router.](https://dev.to/meganad60/practical-steps-on-how-to-apply-the-useparams-hook-of-react-router-101o)
+- [Exploring Go&#39;s Concurrency: The Benefits of Goroutines and Channels](https://dev.to/tonieng/exploring-gos-concurrency-the-benefits-of-goroutines-and-channels-dg)
 <!-- BLOG-POST-LIST:END -->
 
