@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a plugin for Elanat?](https://dev.to/elanatframework/how-to-create-a-plugin-for-elanat-22oe)
+- [Using path aliases for cleaner React and TypeScript imports](https://dev.to/logrocket/using-path-aliases-for-cleaner-react-and-typescript-imports-nkp)
+- [Exciting news for remote dev job seekers](https://dev.to/kendalmintcode/exciting-news-for-remote-dev-job-seekers-4e51)
 - [HubSpot&#39;s Chatbot versus AINIRO&#39;s Chatbot](https://dev.to/polterguy/hubspots-chatbot-versus-ainiros-chatbot-4h85)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10nm)
-- [Track AWS IAM changes in Git](https://dev.to/castrapel/track-aws-iam-changes-in-git-1mn5)
-- [Day 31: Async Await](https://dev.to/dhrn/day-31-async-await-2934)
 <!-- BLOG-POST-LIST:END -->
 
