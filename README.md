@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scratch is Addictive: How to get rid of your Scratch addiction](https://dev.to/alteca/scratch-is-addictive-how-to-get-rid-of-your-scratch-addiction-28cg)
-- [Differences Between ASP.NET and ASP.NET Core - ASP.NET vs ASP.NET Core](https://dev.to/ifourtechnolab/differences-between-aspnet-and-aspnet-core-aspnet-vs-aspnet-core-1pc0)
-- [Walking Boot](https://dev.to/dimple031/walking-boot-38oc)
-- [Font-size slider](https://dev.to/preetsuthar17/font-size-slider-5kf)
+- [Starting Your Coding Journey: What Sparks Excitement?](https://dev.to/codenewbieteam/starting-your-coding-journey-what-sparks-excitement-3d6g)
+- [Which Topic Would Shape Your TED Talk?](https://dev.to/devteam/which-topic-would-shape-your-ted-talk-5gdn)
+- [Importance of Idempotency in Microservice Architectures](https://dev.to/amplication/importance-of-idempotency-in-microservice-architectures-1gom)
+- [Collection of retry patterns for SDK calls in AWS SDK for Go v2](https://dev.to/aws-builders/collection-of-retry-patterns-for-sdk-calls-in-aws-sdk-for-go-v2-14p4)
 <!-- BLOG-POST-LIST:END -->
 
