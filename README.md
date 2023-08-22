@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Before You Code: Strategies for Validation](https://dev.to/inovak/before-you-code-strategies-for-validation-5830)
+- [Github Actions - Output](https://dev.to/rafael_svieira/github-actions-output-5ach)
+- [Navigating Open Source: My Journey to Contributing and Getting My First PR Accepted in the freeCodeCamp Repository](https://dev.to/opensauced/navigating-open-source-my-journey-to-contributing-and-getting-my-first-pr-accepted-in-the-freecodecamp-repository-2o4c)
 - [🚀 Discover Comprehensive Programming Language Roadmaps at roadmap.sh](https://dev.to/ayoubelsvg/discover-comprehensive-programming-language-roadmaps-at-roadmapsh-1l38)
-- [Event Capturing and Event Bubbling in JavaScript: Exploring DOM Event Handling Mechanisms](https://dev.to/endeavourmonk/event-capturing-and-event-bubbling-in-javascript-exploring-dom-event-handling-mechanisms-54la)
-- [How to Implement Pagination With Reactjs](https://dev.to/canhamzacode/how-to-implement-pagination-with-reactjs-2b04)
-- [How to Use Scratch to Make Games](https://dev.to/nemo011/how-to-use-scratch-to-make-games-2k35)
 <!-- BLOG-POST-LIST:END -->
 
