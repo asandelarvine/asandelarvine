@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Steps to become a web developer in Nigeria](https://dev.to/sabiprogrammershq/5-steps-to-become-a-web-developer-in-nigeria-4ncp)
-- [It&#39;s 2AM Do you Know What Your Code is Doing?](https://dev.to/codenameone/its-2am-do-you-know-what-your-code-is-doing-399k)
-- [Mastering A Framework](https://dev.to/jinxcoy/mastering-a-framework-ha9)
-- [What is the concept of DevSecOps?](https://dev.to/rawati/what-is-the-concept-of-devsecops-5g1d)
+- [Outsmarting AI 🤖🧠 The hack for generating fully-functional web apps](https://dev.to/wasp/outsmarting-ai-the-hack-for-generating-fully-functional-web-apps-13ja)
+- [Automate your repitative git commands like a pro](https://dev.to/eagledev_/automate-your-repetitive-git-commands-like-a-pro-15c2)
+- [React Native Maps: Easy Bird&#39;s Eye View Animation](https://dev.to/noahvelasco/react-native-maps-easy-birds-eye-view-animation-23dj)
+- [Guide: Creating Stored Procedures in PostgreSQL](https://dev.to/dukeofhazardz/guide-creating-stored-procedures-in-postgresql-4g3c)
 <!-- BLOG-POST-LIST:END -->
 
