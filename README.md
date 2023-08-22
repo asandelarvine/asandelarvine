@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia para Iniciantes: Criando uma API com Node.js, PostgreSQL e Padrão MVC](https://dev.to/matt1cs/guia-para-iniciantes-criando-uma-api-com-nodejs-postgresql-e-padrao-mvc-4027)
+- [Infer keyword in TypeScript 📜](https://dev.to/0ro/infer-keyword-in-typescript-3nig)
 - [Autenticação e Autorização de uma ASP .NET Web API com Keycloak](https://dev.to/gloinho/autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe)
-- [React Custom Hook: useOnlineStatus](https://dev.to/sergeyleschev/react-custom-hook-useonlinestatus-59ki)
-- [Mastering Navigation in Flutter: A Comprehensive Guide](https://dev.to/yatendra2001/mastering-navigation-in-flutter-a-comprehensive-guide-1p1l)
-- [Before You Code: Strategies for Validation](https://dev.to/inovak/before-you-code-strategies-for-validation-5830)
+- [Concurrent Data-structure Design Walk-Through](https://dev.to/questdb/concurrent-data-structure-design-walk-through-1hc1)
 <!-- BLOG-POST-LIST:END -->
 
