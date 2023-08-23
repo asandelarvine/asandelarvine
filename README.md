@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerging Tech: Your Insights on Shaping the Future?](https://dev.to/devteam/emerging-tech-your-insights-on-shaping-the-future-o5n)
-- [Share Your Unique Insights &amp; Wisdom](https://dev.to/codenewbieteam/share-your-unique-insights-wisdom-2kg5)
-- [Netflix System Design Using AWS Services](https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6)
-- [Getting started with cybersecurity/ethical hacking](https://dev.to/madhusudanbabar/getting-started-with-cybersecurityethical-hacking-1cjg)
+- [Building responsive Cards with Hover Effect using React and Tailwindcss](https://dev.to/ryaddev/building-responsive-cards-with-hover-effect-using-react-and-tailwindcss-1d4b)
+- [14. Building the Project and User Login](https://dev.to/aceld/14-building-the-project-and-user-login-b7p)
+- [Understanding the Vigenère Cipher](https://dev.to/cognivibes/understanding-the-vigenere-cipher-16g5)
+- [My Current Data Project Workflow: Simplifying Complexity with a Touch of Humor](https://dev.to/itsdru/my-current-data-project-workflow-simplifying-complexity-with-a-touch-of-humor-377e)
 <!-- BLOG-POST-LIST:END -->
 
