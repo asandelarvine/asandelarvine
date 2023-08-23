@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Hangout Thread](https://dev.to/vulcanwm/nextjs-hangout-thread-1n48)
+- [Open Source ABCs: JavaScript](https://dev.to/opensauced/open-source-abcs-javascript-28kp)
 - [Singleton Design Pattern in C#: Full Guide](https://dev.to/bytehide/singleton-design-pattern-in-c-full-guide-12f0)
 - [Utilizando Operadores com o Angular HTTP Client para Lidar com Requisições HTTP](https://dev.to/levyhanunes/utilizando-operadores-com-o-angular-http-client-para-lidar-com-requisicoes-http-1khi)
-- [How to use SQFlite on Windows Flutter](https://dev.to/ayoubzulfiqar/how-to-use-sqflite-on-windows-flutter-ggm)
-- [Tailwind, HALT AND CATCH FIRE animated logo](https://dev.to/sohrabzia/tailwind-halt-and-catch-fire-animated-logo-1c17)
 <!-- BLOG-POST-LIST:END -->
 
