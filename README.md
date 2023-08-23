@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to learn fast? Then &quot;reinvent the wheel&quot; all the time.](https://dev.to/valentinkuharic/want-to-learn-fast-then-reinvent-the-wheel-all-the-time-4nfg)
-- [Escape Breakout](https://dev.to/vulcanwm/escape-breakout-5bl6)
-- [use camelcase in angular and asp.net web api json](https://dev.to/mustafacam/use-camelcase-in-angular-and-aspnet-web-api-json-2a7g)
-- [🛑 Stop covering ALL the Components with Integration tests 🛑](https://dev.to/borysshulyak/stop-covering-all-the-components-with-integration-tests-m0a)
+- [Bash, the magic that empowers the Cloud](https://dev.to/sm0ke/bash-the-magic-that-empowers-the-cloud-5394)
+- [Down for me?](https://dev.to/alanmbarr/down-for-me-595)
+- [Better GitHub AWS Secrets with OIDC](https://dev.to/aws-builders/better-github-aws-secrets-with-oidc-1g62)
+- [Dev Job Oppurtunities @ VC-Backed Startups + Public Launch of Kombai](https://dev.to/mohanmukund13/dev-job-oppurtunities-vc-backed-startups-public-launch-of-kombai-38kj)
 <!-- BLOG-POST-LIST:END -->
 
