@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Software Engineers Aren&#39;t Going Anywhere, Even with AI](https://dev.to/bolshchikov/why-software-engineers-arent-going-anywhere-even-with-ai-4i3d)
-- [Python libraries and Framework](https://dev.to/balakrishnasajja/python-libraries-and-framework-3k82)
-- [Is Coding On Its Way Out?](https://dev.to/aws-heroes/is-coding-on-its-way-out-1129)
-- [The best way to build mobile apps in 2023](https://dev.to/kalashin1/the-best-way-to-build-mobile-apps-in-2023-4l0j)
+- [use camelcase in angular and asp.net web api json](https://dev.to/mustafacam/use-camelcase-in-angular-and-aspnet-web-api-json-2a7g)
+- [🛑 Stop covering ALL the Components with Integration tests 🛑](https://dev.to/borysshulyak/stop-covering-all-the-components-with-integration-tests-m0a)
+- [Essential HTML Tags: Best Practices Breakdown](https://dev.to/max88git/essential-html-tags-best-practices-breakdown-4065)
+- [NextJS Tip ⚡️ High Priority image Preloading for Improved Performance 🚀](https://dev.to/codewithshan/nextjs-tip-high-priority-image-preloading-for-improved-performance-i7l)
 <!-- BLOG-POST-LIST:END -->
 
