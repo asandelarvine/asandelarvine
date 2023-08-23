@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to DevOps](https://dev.to/cloudsec_/an-introduction-to-devops-26kj)
-- [Publish a GitHub Action in the Marketplace](https://dev.to/balastrong/publish-a-github-action-in-the-marketplace-7f0)
-- [The Convenience of Printout Shops: Your Ultimate Resource for Quick and Quality Printing](https://dev.to/himanshu9/the-convenience-of-printout-shops-your-ultimate-resource-for-quick-and-quality-printing-169g)
-- [Hosting static websites with versioning for free](https://dev.to/pebl/hosting-static-websites-with-versioning-for-free-1a49)
+- [Emerging Tech: Your Insights on Shaping the Future?](https://dev.to/devteam/emerging-tech-your-insights-on-shaping-the-future-o5n)
+- [Share Your Unique Insights &amp; Wisdom](https://dev.to/codenewbieteam/share-your-unique-insights-wisdom-2kg5)
+- [Netflix System Design Using AWS Services](https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6)
+- [Getting started with cybersecurity/ethical hacking](https://dev.to/madhusudanbabar/getting-started-with-cybersecurityethical-hacking-1cjg)
 <!-- BLOG-POST-LIST:END -->
 
