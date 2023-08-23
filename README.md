@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to learn fast? Then &quot;reinvent the wheel&quot; all the time.](https://dev.to/valentinkuharic/want-to-learn-fast-then-reinvent-the-wheel-all-the-time-4nfg)
+- [Escape Breakout](https://dev.to/vulcanwm/escape-breakout-5bl6)
 - [use camelcase in angular and asp.net web api json](https://dev.to/mustafacam/use-camelcase-in-angular-and-aspnet-web-api-json-2a7g)
 - [🛑 Stop covering ALL the Components with Integration tests 🛑](https://dev.to/borysshulyak/stop-covering-all-the-components-with-integration-tests-m0a)
-- [Essential HTML Tags: Best Practices Breakdown](https://dev.to/max88git/essential-html-tags-best-practices-breakdown-4065)
-- [NextJS Tip ⚡️ High Priority image Preloading for Improved Performance 🚀](https://dev.to/codewithshan/nextjs-tip-high-priority-image-preloading-for-improved-performance-i7l)
 <!-- BLOG-POST-LIST:END -->
 
