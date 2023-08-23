@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Vector Database for AI](https://dev.to/alakkadshaw/implementing-vector-database-for-ai-5a61)
-- [Automated Updates Made Easy: Unveiling Docker Compose File Watch 🐳](https://dev.to/docker/automated-updates-made-easy-unveiling-docker-compose-file-watch-4jgc)
-- [React Custom Hook: useOnScreen](https://dev.to/sergeyleschev/react-custom-hook-useonscreen-1l7c)
-- [Embarking on a Journey of Web Development Mastery: From Novice to Explorer](https://dev.to/viditgoel/embarking-on-a-journey-of-web-development-mastery-from-novice-to-explorer-14fj)
+- [Setting up Bcrypt in your Rails project](https://dev.to/mandy_petrakis/setting-up-bcrypt-in-your-rails-project-fn0)
+- [Interesting Malware Analysis Writeups](https://dev.to/ghrake/interesting-malware-analysis-writeups-23la)
+- [Agile or not Agile](https://dev.to/ivangavlik/agile-or-not-agile-28hn)
+- [How to mirror GitLab repo to GitHub](https://dev.to/dmitry-kabanov/how-to-mirror-gitlab-repo-to-github-5835)
 <!-- BLOG-POST-LIST:END -->
 
