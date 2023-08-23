@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React useLayoutEffect vs useEffect with examples](https://dev.to/alakkadshaw/react-uselayouteffect-vs-useeffect-with-examples-470g)
+- [Exploring The Benefits of GraphQL Code Gen](https://dev.to/tnodell/exploring-the-benefits-of-graphql-code-gen-22gd)
 - [Guia para Iniciantes: Criando uma API com Node.js, PostgreSQL e Padrão MVC](https://dev.to/matt1cs/guia-para-iniciantes-criando-uma-api-com-nodejs-postgresql-e-padrao-mvc-4027)
 - [Infer keyword in TypeScript 📜](https://dev.to/0ro/infer-keyword-in-typescript-3nig)
-- [Autenticação e Autorização de uma ASP .NET Web API com Keycloak](https://dev.to/gloinho/autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe)
-- [Concurrent Data-structure Design Walk-Through](https://dev.to/questdb/concurrent-data-structure-design-walk-through-1hc1)
 <!-- BLOG-POST-LIST:END -->
 
