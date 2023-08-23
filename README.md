@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Consuming a Standard .NET API: An MVC Real Estate Example](https://dev.to/josemariairiarte/consuming-a-standard-net-api-a-real-estate-example-5hm9)
+- [Rebasing: The Scariest Git Command?](https://dev.to/mustafahashmani/rebasing-the-scariest-git-command-439i)
 - [Top 10 VSCode Extensions for Flutter Developers](https://dev.to/yatendra2001/top-10-vscode-extensions-for-flutter-developers-4am3)
 - [Migration of Terraform State file from Azure Storage Account to Terraform Cloud workspace](https://dev.to/this-is-learning/migration-of-terraform-state-file-from-azure-storage-account-to-terraform-cloud-workspace-3530)
-- [&quot;The Journey from a Bootcamp to a FAANG&quot;: CodeNewbie Podcast S25E2](https://dev.to/codenewbieteam/the-journey-from-a-bootcamp-to-a-faang-codenewbie-podcast-s25e2-1c0m)
-- [#DEVDiscuss: Sassy CSS](https://dev.to/devteam/devdiscuss-sassy-css-acn)
 <!-- BLOG-POST-LIST:END -->
 
