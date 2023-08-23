@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to DevOps](https://dev.to/cloudsec_/an-introduction-to-devops-26kj)
+- [Publish a GitHub Action in the Marketplace](https://dev.to/balastrong/publish-a-github-action-in-the-marketplace-7f0)
+- [The Convenience of Printout Shops: Your Ultimate Resource for Quick and Quality Printing](https://dev.to/himanshu9/the-convenience-of-printout-shops-your-ultimate-resource-for-quick-and-quality-printing-169g)
 - [Hosting static websites with versioning for free](https://dev.to/pebl/hosting-static-websites-with-versioning-for-free-1a49)
-- [How to Deploy a React app to Heroku](https://dev.to/mrcflorian/how-to-deploy-a-react-app-to-heroku-44ig)
-- [Docker MERN stack example](https://dev.to/tienbku/docker-mern-stack-example-7j)
-- [Best practices for building a production-ready Dockerfile for PHP applications](https://dev.to/snyk/best-practices-for-building-a-production-ready-dockerfile-for-php-applications-3afj)
 <!-- BLOG-POST-LIST:END -->
 
