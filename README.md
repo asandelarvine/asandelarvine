@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Copilot Chat to Guide Your JavaScript to TypeScript Migration](https://dev.to/github/migrate-from-javascript-to-typescript-with-copilot-chat-2f91)
+- [Setting up WordPress with Docker](https://dev.to/olucasquadros/setting-up-wordpress-with-docker-2b9i)
 - [Bash, the magic that empowers the Cloud](https://dev.to/sm0ke/bash-the-magic-that-empowers-the-cloud-5394)
-- [Down for me?](https://dev.to/alanmbarr/down-for-me-595)
-- [Better GitHub AWS Secrets with OIDC](https://dev.to/aws-builders/better-github-aws-secrets-with-oidc-1g62)
-- [Dev Job Oppurtunities @ VC-Backed Startups + Public Launch of Kombai](https://dev.to/mohanmukund13/dev-job-oppurtunities-vc-backed-startups-public-launch-of-kombai-38kj)
+- [Hit 1000 followers on DEV 🎉 🎉 🎉](https://dev.to/nilan/hit-1000-followers-on-dev-p10)
 <!-- BLOG-POST-LIST:END -->
 
