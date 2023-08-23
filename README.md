@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step by Step process to learn Golang](https://dev.to/diwakarkashyap/step-by-step-process-to-learn-golang-2d12)
-- [Tipos de dados primitivos com Java](https://dev.to/monokai_dev/tipos-de-dados-primitivos-com-java-3o4g)
-- [Introduction to GitHub Actions: Streamlining CI/CD Pipelines](https://dev.to/documatic/introduction-to-github-actions-streamlining-cicd-pipelines-1fkf)
-- [Empowering your developments with AI](https://dev.to/fred_abkb/empowering-your-developments-with-ai-2p7k)
+- [Why Software Engineers Aren&#39;t Going Anywhere, Even with AI](https://dev.to/bolshchikov/why-software-engineers-arent-going-anywhere-even-with-ai-4i3d)
+- [Python libraries and Framework](https://dev.to/balakrishnasajja/python-libraries-and-framework-3k82)
+- [Is Coding On Its Way Out?](https://dev.to/aws-heroes/is-coding-on-its-way-out-1129)
+- [The best way to build mobile apps in 2023](https://dev.to/kalashin1/the-best-way-to-build-mobile-apps-in-2023-4l0j)
 <!-- BLOG-POST-LIST:END -->
 
