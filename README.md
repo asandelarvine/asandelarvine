@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a React app to Heroku](https://dev.to/mrcflorian/how-to-deploy-a-react-app-to-heroku-44ig)
+- [Docker MERN stack example](https://dev.to/tienbku/docker-mern-stack-example-7j)
 - [Best practices for building a production-ready Dockerfile for PHP applications](https://dev.to/snyk/best-practices-for-building-a-production-ready-dockerfile-for-php-applications-3afj)
-- [React useLayoutEffect vs useEffect with examples](https://dev.to/alakkadshaw/react-uselayouteffect-vs-useeffect-with-examples-470g)
-- [Exploring The Benefits of GraphQL Code Gen](https://dev.to/tnodell/exploring-the-benefits-of-graphql-code-gen-22gd)
-- [Guia para Iniciantes: Criando uma API com Node.js, PostgreSQL e Padrão MVC](https://dev.to/matt1cs/guia-para-iniciantes-criando-uma-api-com-nodejs-postgresql-e-padrao-mvc-4027)
+- [A Step-by-Step Guide on Creating a Resource Group, Virtual Network and Subnet in Azure with Terraform.](https://dev.to/donhadley22/a-step-by-step-guide-on-creating-a-resource-group-virtual-network-and-subnet-in-azure-with-terraform-4b7c)
 <!-- BLOG-POST-LIST:END -->
 
