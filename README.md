@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Copilot Chat to Guide Your JavaScript to TypeScript Migration](https://dev.to/github/migrate-from-javascript-to-typescript-with-copilot-chat-2f91)
-- [Setting up WordPress with Docker](https://dev.to/olucasquadros/setting-up-wordpress-with-docker-2b9i)
-- [Bash, the magic that empowers the Cloud](https://dev.to/sm0ke/bash-the-magic-that-empowers-the-cloud-5394)
-- [Hit 1000 followers on DEV 🎉 🎉 🎉](https://dev.to/nilan/hit-1000-followers-on-dev-p10)
+- [Top 10 VSCode Extensions for Flutter Developers](https://dev.to/yatendra2001/top-10-vscode-extensions-for-flutter-developers-4am3)
+- [Migration of Terraform State file from Azure Storage Account to Terraform Cloud workspace](https://dev.to/this-is-learning/migration-of-terraform-state-file-from-azure-storage-account-to-terraform-cloud-workspace-3530)
+- [&quot;The Journey from a Bootcamp to a FAANG&quot;: CodeNewbie Podcast S25E2](https://dev.to/codenewbieteam/the-journey-from-a-bootcamp-to-a-faang-codenewbie-podcast-s25e2-1c0m)
+- [#DEVDiscuss: Sassy CSS](https://dev.to/devteam/devdiscuss-sassy-css-acn)
 <!-- BLOG-POST-LIST:END -->
 
