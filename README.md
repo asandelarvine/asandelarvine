@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Building responsive Cards with Hover Effect using React and Tailwindcss](https://dev.to/ryaddev/building-responsive-cards-with-hover-effect-using-react-and-tailwindcss-1d4b)
 - [14. Building the Project and User Login](https://dev.to/aceld/14-building-the-project-and-user-login-b7p)
+- [Multi-Dispatch](https://dev.to/lizmat/multi-dispatch-2md3)
 - [Understanding the Vigenère Cipher](https://dev.to/cognivibes/understanding-the-vigenere-cipher-16g5)
-- [My Current Data Project Workflow: Simplifying Complexity with a Touch of Humor](https://dev.to/itsdru/my-current-data-project-workflow-simplifying-complexity-with-a-touch-of-humor-377e)
 <!-- BLOG-POST-LIST:END -->
 
