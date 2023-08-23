@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating MONGODB in GOLANG applications](https://dev.to/wafulakevin/integrating-mongodb-in-golang-applications-1ehg)
-- [This Week In React #157: Concurrent Mode, Gatsby, hydration, useMemo, React-Redux, Fresh, TinyBase, TFLite, Bootsplash...](https://dev.to/sebastienlorber/this-week-in-react-157-concurrent-mode-gatsby-hydration-usememo-react-redux-fresh-tinybase-tflite-bootsplash-3jef)
-- [Consuming a Standard .API: An MVC Real Estate Example](https://dev.to/josemariairiarte/consuming-a-standard-net-api-a-real-estate-example-5hm9)
-- [Rebasing: The Scariest Git Command?](https://dev.to/mustafahashmani/rebasing-the-scariest-git-command-439i)
+- [React Custom Hook: useOnScreen](https://dev.to/sergeyleschev/react-custom-hook-useonscreen-1l7c)
+- [🔥Advanced CSS class for Beginners](https://dev.to/dumebii/advanced-css-class-for-beginners-2885)
+- [Generate Date Series in popular Databases](https://dev.to/rozhnev/generate-date-series-in-popular-databases-5cag)
+- [CSS container queries with SASS mixins](https://dev.to/kenystev/css-container-queries-with-sass-mixins-6ic)
 <!-- BLOG-POST-LIST:END -->
 
