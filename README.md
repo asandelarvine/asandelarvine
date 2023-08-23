@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Vector Database for AI](https://dev.to/alakkadshaw/implementing-vector-database-for-ai-5a61)
+- [Automated Updates Made Easy: Unveiling Docker Compose File Watch 🐳](https://dev.to/docker/automated-updates-made-easy-unveiling-docker-compose-file-watch-4jgc)
 - [React Custom Hook: useOnScreen](https://dev.to/sergeyleschev/react-custom-hook-useonscreen-1l7c)
-- [🔥Advanced CSS class for Beginners](https://dev.to/dumebii/advanced-css-class-for-beginners-2885)
-- [Generate Date Series in popular Databases](https://dev.to/rozhnev/generate-date-series-in-popular-databases-5cag)
-- [CSS container queries with SASS mixins](https://dev.to/kenystev/css-container-queries-with-sass-mixins-6ic)
+- [Embarking on a Journey of Web Development Mastery: From Novice to Explorer](https://dev.to/viditgoel/embarking-on-a-journey-of-web-development-mastery-from-novice-to-explorer-14fj)
 <!-- BLOG-POST-LIST:END -->
 
