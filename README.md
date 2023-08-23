@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for building a production-ready Dockerfile for PHP applications](https://dev.to/snyk/best-practices-for-building-a-production-ready-dockerfile-for-php-applications-3afj)
 - [React useLayoutEffect vs useEffect with examples](https://dev.to/alakkadshaw/react-uselayouteffect-vs-useeffect-with-examples-470g)
 - [Exploring The Benefits of GraphQL Code Gen](https://dev.to/tnodell/exploring-the-benefits-of-graphql-code-gen-22gd)
 - [Guia para Iniciantes: Criando uma API com Node.js, PostgreSQL e Padrão MVC](https://dev.to/matt1cs/guia-para-iniciantes-criando-uma-api-com-nodejs-postgresql-e-padrao-mvc-4027)
-- [Infer keyword in TypeScript 📜](https://dev.to/0ro/infer-keyword-in-typescript-3nig)
 <!-- BLOG-POST-LIST:END -->
 
