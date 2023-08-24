@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Animating the 3D cube with Three.js](https://dev.to/aneeqakhan/animating-the-3d-cube-with-threejs-1i12)
 - [Variables in Go &lpar;Golang&rpar;](https://dev.to/diwakarkashyap/variables-in-go-golang-34b4)
+- [Diving into the GitHub Octernships program with OpenSauced](https://dev.to/opensauced/diving-into-the-github-octernships-program-with-opensauced-1inf)
 - [Developer Starter Pack](https://dev.to/hasanelsherbiny/developer-starter-pack-15k8)
-- [Security in Angular Applications: Protecting Your Data and Users](https://dev.to/ifleonardo_/security-in-angular-applications-protecting-your-data-and-users-42d2)
-- [🧨 Getting That Coding Spark Back When You Hit a Plateau](https://dev.to/evergrowingdev/getting-that-coding-spark-back-when-you-hit-a-plateau-52ae)
 <!-- BLOG-POST-LIST:END -->
 
