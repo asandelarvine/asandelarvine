@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Hero in Technical Writing: Making Consistent Income](https://dev.to/surajondev/zero-to-hero-in-technical-writing-making-consistent-income-3ddi)
-- [Mastering the Box Model in CSS: Block vs Inline](https://dev.to/angelocodes/mastering-the-box-model-in-css-block-vs-inline-267n)
-- [What&#39;s New in Node.js 20 for API Development](https://dev.to/amplication/whats-new-in-nodejs-20-for-api-development-3b6c)
-- [How I Became a Tech Conference Speaker as a Newbie &amp; How You Can Do It Too](https://dev.to/eleftheriabatsou/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too-4km8)
+- [Variables in Go &lpar;Golang&rpar;](https://dev.to/diwakarkashyap/variables-in-go-golang-34b4)
+- [Developer Starter Pack](https://dev.to/hasanelsherbiny/developer-starter-pack-15k8)
+- [Security in Angular Applications: Protecting Your Data and Users](https://dev.to/ifleonardo_/security-in-angular-applications-protecting-your-data-and-users-42d2)
+- [🧨 Getting That Coding Spark Back When You Hit a Plateau](https://dev.to/evergrowingdev/getting-that-coding-spark-back-when-you-hit-a-plateau-52ae)
 <!-- BLOG-POST-LIST:END -->
 
