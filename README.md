@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to the Tower library](https://dev.to/nfrankel/introduction-to-the-tower-library-3jp6)
 - [Setting up Bcrypt in your Rails project](https://dev.to/mandy_petrakis/setting-up-bcrypt-in-your-rails-project-fn0)
 - [Interesting Malware Analysis Writeups](https://dev.to/ghrake/interesting-malware-analysis-writeups-23la)
 - [Agile or not Agile](https://dev.to/ivangavlik/agile-or-not-agile-28hn)
-- [How to mirror GitLab repo to GitHub](https://dev.to/dmitry-kabanov/how-to-mirror-gitlab-repo-to-github-5835)
 <!-- BLOG-POST-LIST:END -->
 
