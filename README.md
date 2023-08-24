@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Regular Expressions](https://dev.to/lizmat/regular-expressions-bm5)
+- [Callback, Callback Hell, Promise Chaining and Async/Await in JavaScript](https://dev.to/shameel/callback-callback-hell-promise-chaining-and-asyncawait-in-javascript-120i)
 - [It&#39;s AMA Day! What Are Your Questions?](https://dev.to/codenewbieteam/its-ama-day-what-are-your-questions-2e58)
 - [Developer Branding: How Does It Shape Your Path?](https://dev.to/devteam/developer-branding-how-does-it-shape-your-path-394l)
-- [Bad Practices In JavaScript](https://dev.to/ikamran01/bad-pratices-in-javascript-2213)
-- [Currying in Javascript](https://dev.to/zeeshanali0704/currying-in-javascript-2ioa)
 <!-- BLOG-POST-LIST:END -->
 
