@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in Node.js 20 for API Development](https://dev.to/amplication/whats-new-in-nodejs-20-for-api-development-3b6c)
+- [How I Became a Tech Conference Speaker as a Newbie &amp; How You Can Do It Too](https://dev.to/eleftheriabatsou/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too-4km8)
 - [How to grow a developer blog to 3M annual visitors? with Jakub Czakon &lpar;Neptune.ai&rpar;](https://dev.to/crowddotdev/how-to-grow-a-developer-blog-to-3m-annual-visitors-with-jakub-czakon-neptuneai-29m6)
 - [Mobile App Update Day 98](https://dev.to/shreyvijayvargiya/mobile-app-update-day-98-2nle)
-- [How to update a few years old outdated project in Node and React?](https://dev.to/meatboy/how-to-update-a-few-years-old-outdated-project-in-node-and-react-31jm)
-- [ClipBoard API in JavaScript](https://dev.to/salehmubashar/clipboard-api-in-javascript-p18)
 <!-- BLOG-POST-LIST:END -->
 
