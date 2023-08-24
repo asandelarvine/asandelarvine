@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Currying in Javascript](https://dev.to/zeeshanali0704/currying-in-javascript-2ioa)
 - [Supercharge Your Spreadsheet Skills with Python in Microsoft Excel](https://dev.to/vamsikrishna71/supercharge-your-spreadsheet-skills-with-python-in-microsoft-excel-2b5b)
+- [Failing The Google Coding Interview: A Learning Story](https://dev.to/nothanii/failing-the-google-coding-interview-a-learning-story-3l3j)
 - [Socket.IO on Azure](https://dev.to/kevinguo/socketio-on-azure-1ma)
-- [Explorando o Amazon Athena na AWS e usando o Athena Express](https://dev.to/kaike_castro/explorando-o-amazon-athena-na-aws-e-usando-o-athena-express-27kp)
-- [Introduction to the Tower library](https://dev.to/nfrankel/introduction-to-the-tower-library-3jp6)
 <!-- BLOG-POST-LIST:END -->
 
