@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Imperfection: The Power of Iteration in Software Development](https://dev.to/hichem/embracing-imperfection-the-power-of-iteration-in-software-development-1767)
-- [Running Python code as a migration operation in Django](https://dev.to/j_mplourde/running-python-code-as-a-migration-operation-in-django-5gbj)
-- [.NET Best Practices](https://dev.to/yogini16/net-best-practices-nh3)
-- [Mastering React&#39;s useRef Hook: A Deep Dive](https://dev.to/samanabbasi/mastering-reacts-useref-hook-a-deep-dive-1548)
+- [How Messages travel internally from one system to another](https://dev.to/scorcism/how-messages-travel-internally-from-one-system-to-another-2ao8)
+- [🤖 AI Search and Q&amp;A for Your Dev.to Content with Vrite](https://dev.to/areknawo/ai-search-and-qa-for-your-devto-content-with-vrite-4fch)
+- [Getting Started with spartan/ui - Shadcn-like UI Components for Angular](https://dev.to/this-is-angular/getting-started-with-spartanui-shadcn-like-ui-components-for-angular-8df)
+- [Sloan&#39;s Inbox: Any advice for estimating work?](https://dev.to/devteam/sloans-inbox-any-advice-for-estimating-work-284e)
 <!-- BLOG-POST-LIST:END -->
 
