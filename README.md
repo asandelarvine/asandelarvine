@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to the Tower library](https://dev.to/nfrankel/introduction-to-the-tower-library-3jp6)
+- [Effortless Data Storage: MongoDB Database and Raspberry Pi Pico W Walkthrough - Part 1](https://dev.to/shilleh/effortless-data-storage-mongodb-database-and-raspberry-pi-pico-w-walkthrough-part-1-p0p)
 - [Setting up Bcrypt in your Rails project](https://dev.to/mandy_petrakis/setting-up-bcrypt-in-your-rails-project-fn0)
 - [Interesting Malware Analysis Writeups](https://dev.to/ghrake/interesting-malware-analysis-writeups-23la)
-- [Agile or not Agile](https://dev.to/ivangavlik/agile-or-not-agile-28hn)
 <!-- BLOG-POST-LIST:END -->
 
