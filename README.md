@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s AMA Day! What Are Your Questions?](https://dev.to/codenewbieteam/its-ama-day-what-are-your-questions-2e58)
+- [Developer Branding: How Does It Shape Your Path?](https://dev.to/devteam/developer-branding-how-does-it-shape-your-path-394l)
+- [Bad Practices In JavaScript](https://dev.to/ikamran01/bad-pratices-in-javascript-2213)
 - [Currying in Javascript](https://dev.to/zeeshanali0704/currying-in-javascript-2ioa)
-- [Supercharge Your Spreadsheet Skills with Python in Microsoft Excel](https://dev.to/vamsikrishna71/supercharge-your-spreadsheet-skills-with-python-in-microsoft-excel-2b5b)
-- [Failing The Google Coding Interview: A Learning Story](https://dev.to/nothanii/failing-the-google-coding-interview-a-learning-story-3l3j)
-- [Socket.IO on Azure](https://dev.to/kevinguo/socketio-on-azure-1ma)
 <!-- BLOG-POST-LIST:END -->
 
