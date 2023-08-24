@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explorando o Amazon Athena na AWS e usando o Athena Express](https://dev.to/kaike_castro/explorando-o-amazon-athena-na-aws-e-usando-o-athena-express-27kp)
 - [Introduction to the Tower library](https://dev.to/nfrankel/introduction-to-the-tower-library-3jp6)
+- [Padrões React: Container/Presentational](https://dev.to/gonkristiano/padroes-react-containerpresentational-2oj1)
 - [Effortless Data Storage: MongoDB Database and Raspberry Pi Pico W Walkthrough - Part 1](https://dev.to/shilleh/effortless-data-storage-mongodb-database-and-raspberry-pi-pico-w-walkthrough-part-1-p0p)
-- [Setting up Bcrypt in your Rails project](https://dev.to/mandy_petrakis/setting-up-bcrypt-in-your-rails-project-fn0)
-- [Interesting Malware Analysis Writeups](https://dev.to/ghrake/interesting-malware-analysis-writeups-23la)
 <!-- BLOG-POST-LIST:END -->
 
