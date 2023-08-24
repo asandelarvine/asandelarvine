@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your best resume tips?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-best-resume-tips-102b)
+- [Marketing for Developers: The Unconventional Guide](https://dev.to/inovak/marketing-for-developers-the-unconventional-guide-3a1j)
 - [React Custom Hook: usePrevious](https://dev.to/sergeyleschev/react-custom-hook-useprevious-1oii)
 - [Returning to Angular](https://dev.to/adam_cyclones/returning-to-angular-gh9)
-- [Moonly weekly progress update #62 - Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-62-raffle-feature-and-twitter-space-giveaway-12lf)
-- [Complete Guide to Authentication in JavaScript](https://dev.to/honeybadger/complete-guide-to-authentication-in-javascript-3576)
 <!-- BLOG-POST-LIST:END -->
 
