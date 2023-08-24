@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #62 - Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-62-raffle-feature-and-twitter-space-giveaway-12lf)
 - [Complete Guide to Authentication in JavaScript](https://dev.to/honeybadger/complete-guide-to-authentication-in-javascript-3576)
 - [Decoding the Magic: How Google Authenticator Safeguards Your Digital Realm](https://dev.to/shishsingh/decoding-the-magic-how-google-authenticator-safeguards-your-digital-realm-2if2)
 - [Ultimate Guide to Write Tests in Flutter](https://dev.to/yatendra2001/ultimate-guide-to-write-tests-in-flutter-2boj)
-- [AWS DMS - Database Migration to AWS](https://dev.to/shubhamkcloud/aws-dms-database-migration-to-aws-4k5o)
 <!-- BLOG-POST-LIST:END -->
 
