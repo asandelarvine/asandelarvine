@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Animating the 3D cube with Three.js](https://dev.to/aneeqakhan/animating-the-3d-cube-with-threejs-1i12)
-- [Variables in Go &lpar;Golang&rpar;](https://dev.to/diwakarkashyap/variables-in-go-golang-34b4)
-- [Diving into the GitHub Octernships program with OpenSauced](https://dev.to/opensauced/diving-into-the-github-octernships-program-with-opensauced-1inf)
-- [Developer Starter Pack](https://dev.to/hasanelsherbiny/developer-starter-pack-15k8)
+- [.NET Best Practices](https://dev.to/yogini16/net-best-practices-nh3)
+- [Mastering React&#39;s useRef Hook: A Deep Dive](https://dev.to/samanabbasi/mastering-reacts-useref-hook-a-deep-dive-1548)
+- [How to implement a vector database for AI](https://dev.to/logrocket/how-to-implement-a-vector-database-for-ai-53op)
+- [Main-ly Speaking](https://dev.to/colabottles/main-ly-speaking-39np)
 <!-- BLOG-POST-LIST:END -->
 
