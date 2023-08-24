@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Spreadsheet Skills with Python in Microsoft Excel](https://dev.to/vamsikrishna71/supercharge-your-spreadsheet-skills-with-python-in-microsoft-excel-2b5b)
+- [Socket.IO on Azure](https://dev.to/kevinguo/socketio-on-azure-1ma)
 - [Explorando o Amazon Athena na AWS e usando o Athena Express](https://dev.to/kaike_castro/explorando-o-amazon-athena-na-aws-e-usando-o-athena-express-27kp)
 - [Introduction to the Tower library](https://dev.to/nfrankel/introduction-to-the-tower-library-3jp6)
-- [Padrões React: Container/Presentational](https://dev.to/gonkristiano/padroes-react-containerpresentational-2oj1)
-- [Effortless Data Storage: MongoDB Database and Raspberry Pi Pico W Walkthrough - Part 1](https://dev.to/shilleh/effortless-data-storage-mongodb-database-and-raspberry-pi-pico-w-walkthrough-part-1-p0p)
 <!-- BLOG-POST-LIST:END -->
 
