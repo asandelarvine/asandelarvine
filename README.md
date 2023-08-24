@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regular Expressions](https://dev.to/lizmat/regular-expressions-bm5)
-- [Callback, Callback Hell, Promise Chaining and Async/Await in JavaScript](https://dev.to/shameel/callback-callback-hell-promise-chaining-and-asyncawait-in-javascript-120i)
-- [It&#39;s AMA Day! What Are Your Questions?](https://dev.to/codenewbieteam/its-ama-day-what-are-your-questions-2e58)
-- [Developer Branding: How Does It Shape Your Path?](https://dev.to/devteam/developer-branding-how-does-it-shape-your-path-394l)
+- [Mobile App Update Day 98](https://dev.to/shreyvijayvargiya/mobile-app-update-day-98-2nle)
+- [How to update a few years old outdated project in Node and React?](https://dev.to/meatboy/how-to-update-a-few-years-old-outdated-project-in-node-and-react-31jm)
+- [ClipBoard API in JavaScript](https://dev.to/salehmubashar/clipboard-api-in-javascript-p18)
+- [Episode 23/33: Signal Patterns, &quot;The Women of Angular&quot;](https://dev.to/this-is-angular/episode-2333-signal-patterns-the-women-of-angular-3jah)
 <!-- BLOG-POST-LIST:END -->
 
