@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Game of Templates with AWS Cloud Formation: Simple and Templates with Intrinsic Functions, including ForEach and FindInMap](https://dev.to/aws-builders/game-of-templates-with-aws-cloud-formation-simple-and-templates-with-intrinsic-functions-including-foreach-and-findinmap-hem)
+- [Design Thinking](https://dev.to/hivecommunity_/design-thinking-2kjg)
 - [What are your best resume tips?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-best-resume-tips-102b)
-- [Marketing for Developers: The Unconventional Guide](https://dev.to/inovak/marketing-for-developers-the-unconventional-guide-3a1j)
-- [React Custom Hook: usePrevious](https://dev.to/sergeyleschev/react-custom-hook-useprevious-1oii)
-- [Returning to Angular](https://dev.to/adam_cyclones/returning-to-angular-gh9)
+- [Safeguarding AI Conversations: The Role of a ChatGPT Killswitch Engineer](https://dev.to/illa/safeguarding-ai-conversations-the-role-of-a-chatgpt-killswitch-engineer-3eh0)
 <!-- BLOG-POST-LIST:END -->
 
