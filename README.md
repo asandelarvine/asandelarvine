@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Development of H5 Game - Toy Claw](https://dev.to/kcodez/development-of-h5-game-toy-claw-49di)
-- [Power of Terraform Code Refactoring](https://dev.to/aws-builders/power-of-terraform-code-refactoring-3i1h)
-- [Game Dev Digest — Issue #201 - Multiplayer, Animation, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-201-multiplayer-animation-and-more-3n02)
-- [Guardians Of The Cloud: Vol .1 “Guardians Of The Infrastructure”](https://dev.to/farrukhkhalid/guardians-of-the-cloud-vol-1-guardians-of-the-infrastructure-1f5e)
+- [Answer: Docker Desktop requires a newer WSL kernel version](https://dev.to/nirmalsankalana/answer-docker-desktop-requires-a-newer-wsl-kernel-version-18ap)
+- [25 Best Productivity Apps: 2023 Review Guide](https://dev.to/anthonypelle/25-best-productivity-apps-2023-review-guide-86a)
+- [Evaluating and securing your Kubernetes infrastructure with kube-bench](https://dev.to/donaldsebleung/evaluating-and-securing-your-kubernetes-infrastructure-with-kube-bench-4db6)
+- [How to send message to teams using python.](https://dev.to/shadow_b/how-to-send-message-to-teams-using-python-496g)
 <!-- BLOG-POST-LIST:END -->
 
