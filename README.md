@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer: Docker Desktop requires a newer WSL kernel version](https://dev.to/nirmalsankalana/answer-docker-desktop-requires-a-newer-wsl-kernel-version-18ap)
+- [Complete Markdown Tutorial for Beginners](https://dev.to/devarshishimpi/complete-markdown-tutorial-for-beginners-1e)
 - [25 Best Productivity Apps: 2023 Review Guide](https://dev.to/anthonypelle/25-best-productivity-apps-2023-review-guide-86a)
 - [Evaluating and securing your Kubernetes infrastructure with kube-bench](https://dev.to/donaldsebleung/evaluating-and-securing-your-kubernetes-infrastructure-with-kube-bench-4db6)
 - [How to send message to teams using python.](https://dev.to/shadow_b/how-to-send-message-to-teams-using-python-496g)
