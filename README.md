@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ESP32 Standard Library Embedded Rust: SPI with the MAX7219 LED Dot Matrix](https://dev.to/apollolabsbin/esp32-standard-library-embedded-rust-spi-with-the-max7219-led-dot-matrix-1ge0)
+- [Exciting News: LangChain Now Supports Memgraph!](https://dev.to/memgraph/exciting-news-langchain-now-supports-memgraph-4mc8)
 - [Tech Visionaries Wanted: Who Would You Interview?](https://dev.to/codenewbieteam/tech-visionaries-wanted-who-would-you-interview-4i8c)
 - [Open Source: What’s Your Contribution?](https://dev.to/devteam/open-source-whats-your-contribution-51p5)
-- [Iterate Like a Pro: Mastering JavaScript Iterators for Effortless Code](https://dev.to/this-is-learning/iterate-like-a-pro-mastering-javascript-iterators-for-effortless-code-4e5p)
-- [5 FREE Machine Learning Online Courses](https://dev.to/aqsa81/5-free-machine-learning-online-courses-2odn)
 <!-- BLOG-POST-LIST:END -->
 
