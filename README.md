@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to run visual tests in 2023](https://dev.to/chromatic/how-to-run-visual-tests-in-2023-2lk1)
 - [Git Commands To Know As A Developer [Cheatsheet for Beginners] 👨‍💻📑](https://dev.to/arjuncodess/git-commands-to-know-as-a-developer-cheatsheet-for-beginners-196o)
-- [Steganography Part 3: JPEG&#39;s](https://dev.to/vapourisation/steganography-part-3-jpegs-15hc)
-- [API Integration: GraphQL vs gRPC vs REST: Which API is Right for You?](https://dev.to/newsdataio/api-integration-graphql-vs-grpc-vs-rest-which-api-is-right-for-you-hl9)
-- [Analog Clock](https://dev.to/dimple031/analog-clock-2m2g)
+- [PowerShell: Turn Your Custom Objects into CSV Files &lpar;and vice versa&rpar; with a Snap of Your Fingers](https://dev.to/kasuken/powershell-turn-your-custom-objects-into-csv-files-and-vice-versa-with-a-snap-of-your-fingers-ifk)
+- [7 Unique and Underrated Python Libraries](https://dev.to/chinemere/7-unique-and-underrated-python-libraries-l6e)
 <!-- BLOG-POST-LIST:END -->
 
