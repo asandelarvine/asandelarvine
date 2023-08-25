@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Commands To Know As A Developer [Cheatsheet for Beginners] 👨‍💻📑](https://dev.to/arjuncodess/git-commands-to-know-as-a-developer-cheatsheet-for-beginners-196o)
+- [Steganography Part 3: JPEG&#39;s](https://dev.to/vapourisation/steganography-part-3-jpegs-15hc)
 - [API Integration: GraphQL vs gRPC vs REST: Which API is Right for You?](https://dev.to/newsdataio/api-integration-graphql-vs-grpc-vs-rest-which-api-is-right-for-you-hl9)
 - [Analog Clock](https://dev.to/dimple031/analog-clock-2m2g)
-- [Who&#39;s looking for open source contributors? &lpar;week 56&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-56-2fk8)
-- [The Power of 3D on the Web and Introduction to Three.js](https://dev.to/nargaw/the-power-of-3d-on-the-web-and-introduction-to-threejs-196j)
 <!-- BLOG-POST-LIST:END -->
 
