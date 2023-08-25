@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WTF Is a Vector Database: A Beginner&#39;s Guide!](https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p)
 - [Cryptography: The Backbone of Bitcoin Transactions](https://dev.to/scofieldidehen/cryptography-the-backbone-of-bitcoin-transactions-1c2a)
 - [.what?](https://dev.to/wcocro25/what-2bn0)
 - [Networking 101: Intro to Human Networking](https://dev.to/sushantchhetryy/networking-101-intro-to-human-networking-4llh)
-- [Top 5 VS Code extensions for security](https://dev.to/snyk/top-5-vs-code-extensions-for-security-15h)
 <!-- BLOG-POST-LIST:END -->
 
