@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cryptography: The Backbone of Bitcoin Transactions](https://dev.to/scofieldidehen/cryptography-the-backbone-of-bitcoin-transactions-1c2a)
 - [.what?](https://dev.to/wcocro25/what-2bn0)
 - [Networking 101: Intro to Human Networking](https://dev.to/sushantchhetryy/networking-101-intro-to-human-networking-4llh)
-- [Storybook Actions in Action](https://dev.to/chantastic/storybook-actions-in-action-4b7h)
-- [Datadog vs New Relic: A Duel for Dominance in LLM Observability Platforms](https://dev.to/indika_wimalasuriya/datadog-vs-new-relic-a-duel-for-dominance-in-llm-observability-platforms-a5i)
+- [Top 5 VS Code extensions for security](https://dev.to/snyk/top-5-vs-code-extensions-for-security-15h)
 <!-- BLOG-POST-LIST:END -->
 
