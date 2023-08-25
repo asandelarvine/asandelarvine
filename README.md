@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [End-to-end Tutorial For Custom Painting in Flutter](https://dev.to/yatendra2001/end-to-end-tutorial-for-custom-painting-in-flutter-bmc)
 - [Session Manager: SSH to EC2 Instances Securely](https://dev.to/aws-builders/session-manager-ssh-to-ec2-instances-securely-4o2o)
 - [Story Of A Corporate Engineer.](https://dev.to/goldennoodles/story-of-a-corporate-engineer-40m1)
-- [Complete Markdown Tutorial for Beginners](https://dev.to/devarshishimpi/complete-markdown-tutorial-for-beginners-1e)
+- [This Week&#39;s Undiscovered &lpar;8/25/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-82523-38jf)
 <!-- BLOG-POST-LIST:END -->
 
