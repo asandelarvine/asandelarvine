@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-end Tutorial For Custom Painting in Flutter](https://dev.to/yatendra2001/end-to-end-tutorial-for-custom-painting-in-flutter-bmc)
-- [Session Manager: SSH to EC2 Instances Securely](https://dev.to/aws-builders/session-manager-ssh-to-ec2-instances-securely-4o2o)
-- [Story Of A Corporate Engineer.](https://dev.to/goldennoodles/story-of-a-corporate-engineer-40m1)
-- [This Week&#39;s Undiscovered &lpar;8/25/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-82523-38jf)
+- [Set up Hot Reload for Typescript ESM projects](https://dev.to/mangadev/set-up-hot-reload-for-typescript-esm-projects-42en)
+- [Killing the Create React App - CRA to Vite migration guide &lpar;Javascript&rpar;](https://dev.to/navdeepm20/killing-the-create-react-app-cra-to-vite-migration-guide-javascript-1f5)
+- [🎯 Overcoming Impostor Syndrome in the World of Web Development 💻](https://dev.to/mohsindev369/overcoming-impostor-syndrome-in-the-world-of-web-development-45pp)
+- [Using the event bus pattern in Android with Kotlin](https://dev.to/theplebdev/handling-complex-state-logic-in-android-authentication-2mff)
 <!-- BLOG-POST-LIST:END -->
 
