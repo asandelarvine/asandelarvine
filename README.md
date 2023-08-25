@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 4 &lpar;a&rpar;: Project: How to Build a Mini App with Vue.Js](https://dev.to/miracool/part-4-a-project-how-to-build-a-mini-app-with-vuejs-3nc2)
+- [React Custom Hook: useRenderCount](https://dev.to/sergeyleschev/react-custom-hook-userendercount-192p)
+- [GPT Mental Health Chatbot💛 and Google Calendar API📆](https://dev.to/lilshake/gpt-mental-health-chatbot-and-google-calendar-api-3d94)
 - [Set up Hot Reload for Typescript ESM projects](https://dev.to/mangadev/set-up-hot-reload-for-typescript-esm-projects-42en)
-- [Killing the Create React App - CRA to Vite migration guide &lpar;Javascript&rpar;](https://dev.to/navdeepm20/killing-the-create-react-app-cra-to-vite-migration-guide-javascript-1f5)
-- [🎯 Overcoming Impostor Syndrome in the World of Web Development 💻](https://dev.to/mohsindev369/overcoming-impostor-syndrome-in-the-world-of-web-development-45pp)
-- [Using the event bus pattern in Android with Kotlin](https://dev.to/theplebdev/handling-complex-state-logic-in-android-authentication-2mff)
 <!-- BLOG-POST-LIST:END -->
 
