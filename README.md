@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Annotations in C#: Your Complete Guide](https://dev.to/bytehide/data-annotations-in-c-your-complete-guide-50p1)
-- [ESP32 Standard Library Embedded Rust: SPI with the MAX7219 LED Dot Matrix](https://dev.to/apollolabsbin/esp32-standard-library-embedded-rust-spi-with-the-max7219-led-dot-matrix-1ge0)
-- [Exciting News: LangChain Now Supports Memgraph!](https://dev.to/memgraph/exciting-news-langchain-now-supports-memgraph-4mc8)
-- [Tech Visionaries Wanted: Who Would You Interview?](https://dev.to/codenewbieteam/tech-visionaries-wanted-who-would-you-interview-4i8c)
+- [Analog Clock](https://dev.to/dimple031/analog-clock-2m2g)
+- [The Power of 3D on the Web and Introduction to Three.js](https://dev.to/nargaw/the-power-of-3d-on-the-web-and-introduction-to-threejs-196j)
+- [Creating a Responsive Footer Component in React Using Tailwind CSS](https://dev.to/ryaddev/creating-a-responsive-footer-component-in-react-using-tailwind-css-1lpo)
+- [Mastering Angular Control Value Accessor: A Guide for Angular Developer](https://dev.to/chintanonweb/mastering-angular-control-value-accessor-a-guide-for-angular-developer-4l4i)
 <!-- BLOG-POST-LIST:END -->
 
