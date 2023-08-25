@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Visionaries Wanted: Who Would You Interview?](https://dev.to/codenewbieteam/tech-visionaries-wanted-who-would-you-interview-4i8c)
+- [Open Source: What’s Your Contribution?](https://dev.to/devteam/open-source-whats-your-contribution-51p5)
+- [Iterate Like a Pro: Mastering JavaScript Iterators for Effortless Code](https://dev.to/this-is-learning/iterate-like-a-pro-mastering-javascript-iterators-for-effortless-code-4e5p)
 - [5 FREE Machine Learning Online Courses](https://dev.to/aqsa81/5-free-machine-learning-online-courses-2odn)
-- [WTF Is a Vector Database: A Beginner&#39;s Guide!](https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p)
-- [Cryptography: The Backbone of Bitcoin Transactions](https://dev.to/scofieldidehen/cryptography-the-backbone-of-bitcoin-transactions-1c2a)
-- [.what?](https://dev.to/wcocro25/what-2bn0)
 <!-- BLOG-POST-LIST:END -->
 
