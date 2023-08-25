@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to look for when hiring a new engineer for your team?](https://dev.to/gregorojstersek/what-to-look-for-when-hiring-a-new-engineer-for-your-team-ndb)
-- [How to run visual tests in 2023](https://dev.to/chromatic/how-to-run-visual-tests-in-2023-2lk1)
-- [Git Commands To Know As A Developer [Cheatsheet for Beginners] 👨‍💻📑](https://dev.to/arjuncodess/git-commands-to-know-as-a-developer-cheatsheet-for-beginners-196o)
-- [PowerShell: Turn Your Custom Objects into CSV Files &lpar;and vice versa&rpar; with a Snap of Your Fingers](https://dev.to/kasuken/powershell-turn-your-custom-objects-into-csv-files-and-vice-versa-with-a-snap-of-your-fingers-ifk)
+- [Development of H5 Game - Toy Claw](https://dev.to/kcodez/development-of-h5-game-toy-claw-49di)
+- [Power of Terraform Code Refactoring](https://dev.to/aws-builders/power-of-terraform-code-refactoring-3i1h)
+- [Game Dev Digest — Issue #201 - Multiplayer, Animation, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-201-multiplayer-animation-and-more-3n02)
+- [Guardians Of The Cloud: Vol .1 “Guardians Of The Infrastructure”](https://dev.to/farrukhkhalid/guardians-of-the-cloud-vol-1-guardians-of-the-infrastructure-1f5e)
 <!-- BLOG-POST-LIST:END -->
 
