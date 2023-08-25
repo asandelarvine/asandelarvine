@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [API Integration: GraphQL vs gRPC vs REST: Which API is Right for You?](https://dev.to/newsdataio/api-integration-graphql-vs-grpc-vs-rest-which-api-is-right-for-you-hl9)
 - [Analog Clock](https://dev.to/dimple031/analog-clock-2m2g)
+- [Who&#39;s looking for open source contributors? &lpar;week 56&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-56-2fk8)
 - [The Power of 3D on the Web and Introduction to Three.js](https://dev.to/nargaw/the-power-of-3d-on-the-web-and-introduction-to-threejs-196j)
-- [Creating a Responsive Footer Component in React Using Tailwind CSS](https://dev.to/ryaddev/creating-a-responsive-footer-component-in-react-using-tailwind-css-1lpo)
-- [Mastering Angular Control Value Accessor: A Guide for Angular Developer](https://dev.to/chintanonweb/mastering-angular-control-value-accessor-a-guide-for-angular-developer-4l4i)
 <!-- BLOG-POST-LIST:END -->
 
