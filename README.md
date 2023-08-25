@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Storybook Actions in Action](https://dev.to/chantastic/storybook-actions-in-action-4b7h)
+- [Datadog vs New Relic: A Duel for Dominance in LLM Observability Platforms](https://dev.to/indika_wimalasuriya/datadog-vs-new-relic-a-duel-for-dominance-in-llm-observability-platforms-a5i)
 - [Game of Templates with AWS Cloud Formation: Simple and Templates with Intrinsic Functions, including ForEach and FindInMap](https://dev.to/aws-builders/game-of-templates-with-aws-cloud-formation-simple-and-templates-with-intrinsic-functions-including-foreach-and-findinmap-hem)
 - [Design Thinking](https://dev.to/hivecommunity_/design-thinking-2kjg)
-- [What are your best resume tips?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-are-your-best-resume-tips-102b)
-- [Safeguarding AI Conversations: The Role of a ChatGPT Killswitch Engineer](https://dev.to/illa/safeguarding-ai-conversations-the-role-of-a-chatgpt-killswitch-engineer-3eh0)
 <!-- BLOG-POST-LIST:END -->
 
