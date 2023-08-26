@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js and GraphQL Tutorial: How to build a GraphQL API with an Apollo server](https://dev.to/realsteveig/nodejs-and-graphql-tutorial-how-to-build-a-graphql-api-with-an-apollo-server-2733)
-- [JavaScript&#39;s async function and topological ordering](https://dev.to/artxe2/javascripts-async-function-and-topological-ordering-51f8)
-- [A Developer&#39;s Guide to Blogging](https://dev.to/robertmjohnson/a-developers-guide-to-blogging-n01)
-- [Automate invoice processing using AWS Textract](https://dev.to/sjejurkar/automate-invoice-processing-using-aws-textract-3e6e)
+- [Generate API docs under a minute in Django](https://dev.to/ankitbrijwasi/generate-api-docs-under-a-minute-in-django-31pf)
+- [Setup pgadmin4 Development Environment](https://dev.to/maimoonaabid/setup-pgadmin4-development-environment-3hhm)
+- [Mastering Angular’s Hierarchical Dependency Injection with inject&lpar;&rpar; Function](https://dev.to/railsstudent/mastering-angulars-hierarchical-dependency-injection-with-inject-function-1e5g)
+- [Browser automation with Puppeteer](https://dev.to/zsevic/browser-automation-with-puppeteer-4c0h)
 <!-- BLOG-POST-LIST:END -->
 
