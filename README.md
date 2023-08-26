@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Coding Challenges Will You Take on Next?](https://dev.to/codenewbieteam/what-coding-challenges-will-you-take-on-next-4o64)
+- [What Have You Learned from Your Tech Career Changes?](https://dev.to/devteam/what-have-you-learned-from-your-tech-career-changes-3amc)
 - [Best regexp alternative for Go. Benchmarks. Plots.](https://dev.to/karust/best-regexp-alternative-for-go-benchmarks-plots-57jg)
 - [Simplifying Servlet Security: Keeping Your Web Apps Safe](https://dev.to/safvan_8/simplifying-servlet-security-keeping-your-web-apps-safe-ce0)
-- [MY NEW WEBSITE [Free AI image creator]](https://dev.to/mygyt11/my-new-website-free-ai-image-creator-5c75)
-- [ColorHub | The new best site on the internet for finding and testing colors!](https://dev.to/legwasthere/colorhub-the-new-best-site-on-the-internet-for-finding-and-testing-colors-3j0g)
 <!-- BLOG-POST-LIST:END -->
 
