@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Conduct High-Quality Code Review?](https://dev.to/vladhilko/how-to-conduct-high-quality-code-review-2loo)
 - [From Data to Frame: The Evolution of PDUs Across the OSI Model](https://dev.to/stungnet/from-data-to-frame-the-evolution-of-pdus-across-the-osi-model-21gd)
 - [Overcoming Terraform Deployment Challenges: How to fix authorization issues using Service Principal on Azure Cloud](https://dev.to/oruchepaschal/overcoming-terraform-deployment-challenges-how-to-fix-authorization-issues-using-service-principal-on-azure-cloud-428h)
 - [Introduction to Sets in JavaScript: A Comprehensive Guide](https://dev.to/abidullah786/introduction-to-sets-in-javascript-a-comprehensive-guide-3d68)
-- [Created a Markdown Desktop App with Tauri](https://dev.to/maqi1520/created-a-markdown-desktop-app-with-tauri-h8d)
 <!-- BLOG-POST-LIST:END -->
 
