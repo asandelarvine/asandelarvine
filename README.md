@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The best platform to build serverless apps on in 2023](https://dev.to/kalashin1/the-best-platform-to-build-serverless-apps-on-in-2023-2kof)
+- [Demystifying CSS Pseudo-Elements: Unveiling Design Magic](https://dev.to/arsalanmee/demystifying-css-pseudo-elements-unveiling-design-magic-2p6d)
 - [Tutorial: Integrating GraphQL with Flutter](https://dev.to/yatendra2001/end-to-end-tutorial-integrating-graphql-with-flutter-526f)
-- [Packages and Import in Go &lpar;Golang&rpar;](https://dev.to/diwakarkashyap/packages-and-import-in-go-golang-3adk)
-- [React.js Hooks: A Quick Guide](https://dev.to/pulkit30/reactjs-hooks-a-quick-guide-1le2)
-- [A Definitive Guideline for Creating APIs with Django and Neo4j database, Part-2](https://dev.to/afrozansenjuti/a-definitive-guideline-for-creating-apis-with-django-and-neo4j-database-part-2-25od)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-k65)
 <!-- BLOG-POST-LIST:END -->
 
