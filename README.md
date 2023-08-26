@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Dominate React Project Startups: Insider Tips for Dev Success! 🤓](https://dev.to/0ro/dominate-react-project-startups-insider-tips-for-dev-success-4c21)
-- [Memory Management in JavaScript](https://dev.to/syedmuhammadaliraza/memory-management-in-javascript-5gjk)
-- [🧪 **Demystifying Kotlin Unit Testing**: Your Odyssey to Code Confidence! 🚀](https://dev.to/kh40sz3r0/demystifying-kotlin-unit-testing-your-odyssey-to-code-confidence-cd4)
-- [7 Habits to Cultivate for Becoming a Better Software Engineer](https://dev.to/inovak/7-habits-to-cultivate-for-becoming-a-better-software-engineer-344o)
+- [Creating Interactive Country Maps with Flutter and google_maps_flutter](https://dev.to/mybytecode/creating-interactive-country-maps-with-flutter-and-googlemapsflutter-4pn7)
+- [Coding&#39;s New Best Friend: How GitHub Copilot Chat Transformed My Developer Journey](https://dev.to/lotfijb/codings-new-best-friend-how-github-copilot-chat-transformed-my-developer-journey-17ac)
+- [React Custom Hook: useScript](https://dev.to/sergeyleschev/react-custom-hook-usescript-3hc8)
+- [Free Open-Source Blog Template for Developers ✏️📃](https://dev.to/danielcgilibert/free-open-source-blog-template-for-developers-jpp)
 <!-- BLOG-POST-LIST:END -->
 
