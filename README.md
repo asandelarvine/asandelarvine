@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate API docs under a minute in Django](https://dev.to/ankitbrijwasi/generate-api-docs-under-a-minute-in-django-31pf)
-- [Setup pgadmin4 Development Environment](https://dev.to/maimoonaabid/setup-pgadmin4-development-environment-3hhm)
-- [Mastering Angular’s Hierarchical Dependency Injection with inject&lpar;&rpar; Function](https://dev.to/railsstudent/mastering-angulars-hierarchical-dependency-injection-with-inject-function-1e5g)
-- [Browser automation with Puppeteer](https://dev.to/zsevic/browser-automation-with-puppeteer-4c0h)
+- [🚀 Dominate React Project Startups: Insider Tips for Dev Success! 🤓](https://dev.to/0ro/dominate-react-project-startups-insider-tips-for-dev-success-4c21)
+- [Memory Management in JavaScript](https://dev.to/syedmuhammadaliraza/memory-management-in-javascript-5gjk)
+- [🧪 **Demystifying Kotlin Unit Testing**: Your Odyssey to Code Confidence! 🚀](https://dev.to/kh40sz3r0/demystifying-kotlin-unit-testing-your-odyssey-to-code-confidence-cd4)
+- [7 Habits to Cultivate for Becoming a Better Software Engineer](https://dev.to/inovak/7-habits-to-cultivate-for-becoming-a-better-software-engineer-344o)
 <!-- BLOG-POST-LIST:END -->
 
