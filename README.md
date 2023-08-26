@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SRP: Refactoring the Data Science Beyond Classes](https://dev.to/proteusiq/srp-refactoring-the-data-science-beyond-classes-5ake)
+- [how to run multiple queries in .txt file on sql plus](https://dev.to/realnamehidden1_61/how-to-run-multiple-queries-in-txt-file-on-sql-plus-1e8l)
 - [What Coding Challenges Will You Take on Next?](https://dev.to/codenewbieteam/what-coding-challenges-will-you-take-on-next-4o64)
 - [What Have You Learned from Your Tech Career Changes?](https://dev.to/devteam/what-have-you-learned-from-your-tech-career-changes-3amc)
-- [Best regexp alternative for Go. Benchmarks. Plots.](https://dev.to/karust/best-regexp-alternative-for-go-benchmarks-plots-57jg)
-- [Simplifying Servlet Security: Keeping Your Web Apps Safe](https://dev.to/safvan_8/simplifying-servlet-security-keeping-your-web-apps-safe-ce0)
 <!-- BLOG-POST-LIST:END -->
 
