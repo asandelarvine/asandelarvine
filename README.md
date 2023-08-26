@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Key Steps to Prepare for a Software Engineer Interview](https://dev.to/arslan_ah/key-steps-to-prepare-for-a-software-engineer-interview-52ll)
 - [Building a distributed workflow engine from scratch](https://dev.to/acoh3n/building-a-distributed-workflow-engine-from-scratch-22kl)
 - [41 Frontend Interview Questions - CSS](https://dev.to/m_midas/41-frontend-interview-questions-css-4imc)
 - [🐦 Inventing Issues to Solve Real Problems: My Dive into Jira Connector Development](https://dev.to/adam_cyclones/inventing-issues-to-solve-real-problems-my-dive-into-jira-tool-development-3ol9)
-- [Part 4 &lpar;a&rpar;: Project: How to Build a Mini App with Vue.Js](https://dev.to/miracool/part-4-a-project-how-to-build-a-mini-app-with-vuejs-3nc2)
 <!-- BLOG-POST-LIST:END -->
 
