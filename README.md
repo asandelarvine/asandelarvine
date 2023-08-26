@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript&#39;s async function and topological ordering](https://dev.to/artxe2/javascripts-async-function-and-topological-ordering-51f8)
+- [A Developer&#39;s Guide to Blogging](https://dev.to/robertmjohnson/a-developers-guide-to-blogging-n01)
+- [Automate invoice processing using AWS Textract](https://dev.to/sjejurkar/automate-invoice-processing-using-aws-textract-3e6e)
 - [The best platform to build serverless apps on in 2023](https://dev.to/kalashin1/the-best-platform-to-build-serverless-apps-on-in-2023-2kof)
-- [Demystifying CSS Pseudo-Elements: Unveiling Design Magic](https://dev.to/arsalanmee/demystifying-css-pseudo-elements-unveiling-design-magic-2p6d)
-- [Tutorial: Integrating GraphQL with Flutter](https://dev.to/yatendra2001/end-to-end-tutorial-integrating-graphql-with-flutter-526f)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-k65)
 <!-- BLOG-POST-LIST:END -->
 
