@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Data to Frame: The Evolution of PDUs Across the OSI Model](https://dev.to/stungnet/from-data-to-frame-the-evolution-of-pdus-across-the-osi-model-21gd)
+- [Overcoming Terraform Deployment Challenges: How to fix authorization issues using Service Principal on Azure Cloud](https://dev.to/oruchepaschal/overcoming-terraform-deployment-challenges-how-to-fix-authorization-issues-using-service-principal-on-azure-cloud-428h)
 - [Introduction to Sets in JavaScript: A Comprehensive Guide](https://dev.to/abidullah786/introduction-to-sets-in-javascript-a-comprehensive-guide-3d68)
-- [How to Choose the Best Hosting Provider for your WordPress Website?](https://dev.to/zahrahassan/how-to-choose-the-best-hosting-provider-for-your-wordpress-website-3il9)
-- [Part 4: Continuous Integration for Confidence: Running Tests in CI with GoLang RestAPI and MariaDB](https://dev.to/suranisaunak/part-4-continuous-integration-for-confidence-running-tests-in-ci-with-golang-restapi-and-mariadb-4296)
-- [SRP: Refactoring the Data Science Beyond Classes](https://dev.to/proteusiq/srp-refactoring-the-data-science-beyond-classes-5ake)
+- [Created a Markdown Desktop App with Tauri](https://dev.to/maqi1520/created-a-markdown-desktop-app-with-tauri-h8d)
 <!-- BLOG-POST-LIST:END -->
 
