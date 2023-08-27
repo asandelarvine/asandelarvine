@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Fetching with React Suspense](https://dev.to/alakkadshaw/data-fetching-with-react-suspense-5ccn)
+- [TIL: From test to Testing Playground](https://dev.to/noriller/til-from-test-to-testing-playground-laa)
+- [The future of voice chat technology: revolutionizing communication in the digital age](https://dev.to/shishirjayant/the-future-of-voice-chat-technology-revolutionizing-communication-in-the-digital-age-11j0)
 - [Conway&#39;s game of life...in pure SQL [Postgres]! 💪🏼🤯](https://dev.to/grahamthedev/conways-game-of-lifein-pure-sql-postgres-2okc)
-- [The Interface Segregation Situation](https://dev.to/alexhyettdev/the-interface-segregation-situation-941)
-- [Complex Data Types in Golang &lpar;go&rpar;](https://dev.to/diwakarkashyap/complex-data-types-in-golang-go-328l)
-- [Handling Pop-Up Windows in Selenium](https://dev.to/10-minutes-qa-story/handling-pop-up-windows-in-selenium-32k4)
 <!-- BLOG-POST-LIST:END -->
 
