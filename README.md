@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Guide on Using Platform Channels in Flutter](https://dev.to/yatendra2001/comprehensive-guide-on-using-platform-channels-in-flutter-1865)
+- [Excelize 2.8.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-280-released-powerful-open-source-library-for-spreadsheet-excel-document-5a0d)
+- [DevContainer and Makefile: A Duo for Simplified GCP Workflows](https://dev.to/tanvirrahman/devcontainer-and-makefile-a-duo-for-simplified-gcp-workflows-ii9)
 - [Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://dev.to/charnog/unlocking-the-puzzle-investigating-multiple-event-listeners-in-vuejs-3cl2)
-- [&quot;Supercharge Your Workflow with XFCE&#39;s Productivity Arsenal&quot;](https://dev.to/luxxgit2k4/supercharge-your-workflow-with-xfces-productivity-arsenal-1f8h)
-- [Yet Another Newsletter LOL: That&#39;s so fetch](https://dev.to/nickytonline/yet-another-newsletter-lol-thats-so-fetch-4981)
-- [Inside the Cutting-Edge Technology Powering Optus Stadium in Perth](https://dev.to/jaydipparikh/inside-the-cutting-edge-technology-powering-optus-stadium-in-perth-4cfn)
 <!-- BLOG-POST-LIST:END -->
 
