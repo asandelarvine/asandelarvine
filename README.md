@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conway&#39;s game of life...in pure SQL [Postgres]! 💪🏼🤯](https://dev.to/grahamthedev/conways-game-of-lifein-pure-sql-postgres-2okc)
+- [Complex Data Types in Golang &lpar;go&rpar;](https://dev.to/diwakarkashyap/complex-data-types-in-golang-go-328l)
 - [Handling Pop-Up Windows in Selenium](https://dev.to/10-minutes-qa-story/handling-pop-up-windows-in-selenium-32k4)
-- [Shell Scripting 101: Essential Commands for Every Developer](https://dev.to/devrx/shell-scripting-101-essential-commands-for-every-developer-j3p)
-- [Efficient Data Validation in Nestjs using class-validator: A Quick Guide](https://dev.to/m4r14/efficient-data-validation-in-nestjs-using-class-validator-a-quick-guide-2ff)
-- [Automating the installation of Docker on Linux using a shell script](https://dev.to/nipu/automat-your-docker-install-3lf3)
+- [Introducing My &#39;🌟 10 CSS Card Wonders&#39; Project! 💫](https://dev.to/smitprajapati/introducing-my-10-css-card-wonders-project-5a09)
 <!-- BLOG-POST-LIST:END -->
 
