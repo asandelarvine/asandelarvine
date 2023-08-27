@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Custom Hook: useStateWithHistory](https://dev.to/sergeyleschev/react-custom-hook-usestatewithhistory-ni9)
 - [Is Data Struct about memory?](https://dev.to/vit0rr/is-data-struct-about-memory-474g)
 - [Vanilla DB is out for a try](https://dev.to/zedic/vanilla-db-is-out-for-a-try-393)
 - [Architecting Serverless Applications with AWS](https://dev.to/farrukhkhalid/architecting-serverless-applications-with-aws-12al)
-- [Revolutionizing Database Scaling with CitusDB](https://dev.to/m4rcxs/revolutionizing-database-scaling-with-citusdb-3412)
 <!-- BLOG-POST-LIST:END -->
 
