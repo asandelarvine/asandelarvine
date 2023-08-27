@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://dev.to/charnog/unlocking-the-puzzle-investigating-multiple-event-listeners-in-vuejs-3cl2)
 - [&quot;Supercharge Your Workflow with XFCE&#39;s Productivity Arsenal&quot;](https://dev.to/luxxgit2k4/supercharge-your-workflow-with-xfces-productivity-arsenal-1f8h)
+- [Yet Another Newsletter LOL: That&#39;s so fetch](https://dev.to/nickytonline/yet-another-newsletter-lol-thats-so-fetch-4981)
 - [Inside the Cutting-Edge Technology Powering Optus Stadium in Perth](https://dev.to/jaydipparikh/inside-the-cutting-edge-technology-powering-optus-stadium-in-perth-4cfn)
-- [Building a Simple 🎶 Music Synthesizer 🎵 /w JavaScript](https://dev.to/mike-at-redspace/building-a-simple-music-synthesizer-w-javascript-542c)
-- [Data Fetching with React Suspense](https://dev.to/alakkadshaw/data-fetching-with-react-suspense-5ccn)
 <!-- BLOG-POST-LIST:END -->
 
