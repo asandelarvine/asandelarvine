@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Live Image editor w/ JavaScript: Canvas API and Tesseract.js&lpar;OCR&rpar;](https://dev.to/sfundomhlungu/live-image-editor-w-javascript-canvas-api-and-tesseractjsocr-1n59)
-- [Track every PostgreSQL data change using Debezium](https://dev.to/emtiajium/track-every-postgresql-data-change-using-debezium-5e19)
-- [Software-Defined Vehicle: The Potential and Reasons to Keep It in Check](https://dev.to/antonrysin/software-defined-vehicle-the-potential-and-reasons-to-keep-it-in-check-5efp)
-- [Creating Interactive Country Maps with Flutter and google_maps_flutter](https://dev.to/mybytecode/creating-interactive-country-maps-with-flutter-and-googlemapsflutter-4pn7)
+- [Embracing the CodeNewbie Spirit. How Do You Define It?](https://dev.to/codenewbieteam/embracing-the-codenewbie-spirit-how-do-you-define-it-1pn1)
+- [What&#39;s Your Role in Nurturing the Coding Community?](https://dev.to/devteam/whats-your-role-in-nurturing-the-coding-community-1de)
+- [Immediately Boost Your Social Media Traffic](https://dev.to/mia9831/immediately-boost-your-social-media-traffic-mld)
+- [Demystifying Agile Methodology: A Comprehensive Guide for Everyone](https://dev.to/documatic/demystifying-agile-methodology-a-comprehensive-guide-for-everyone-119i)
 <!-- BLOG-POST-LIST:END -->
 
