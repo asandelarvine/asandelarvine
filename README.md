@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Live Image editor w/ JavaScript: Canvas API and Tesseract.js&lpar;OCR&rpar;](https://dev.to/sfundomhlungu/live-image-editor-w-javascript-canvas-api-and-tesseractjsocr-1n59)
 - [Software-Defined Vehicle: The Potential and Reasons to Keep It in Check](https://dev.to/antonrysin/software-defined-vehicle-the-potential-and-reasons-to-keep-it-in-check-5efp)
 - [Creating Interactive Country Maps with Flutter and google_maps_flutter](https://dev.to/mybytecode/creating-interactive-country-maps-with-flutter-and-googlemapsflutter-4pn7)
 - [Coding&#39;s New Best Friend: How GitHub Copilot Chat Transformed My Developer Journey](https://dev.to/lotfijb/codings-new-best-friend-how-github-copilot-chat-transformed-my-developer-journey-17ac)
-- [React Custom Hook: useScript](https://dev.to/sergeyleschev/react-custom-hook-usescript-3hc8)
 <!-- BLOG-POST-LIST:END -->
 
