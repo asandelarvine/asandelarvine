@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide on Using Platform Channels in Flutter](https://dev.to/yatendra2001/comprehensive-guide-on-using-platform-channels-in-flutter-1865)
-- [Excelize 2.8.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-280-released-powerful-open-source-library-for-spreadsheet-excel-document-5a0d)
-- [DevContainer and Makefile: A Duo for Simplified GCP Workflows](https://dev.to/tanvirrahman/devcontainer-and-makefile-a-duo-for-simplified-gcp-workflows-ii9)
-- [Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://dev.to/charnog/unlocking-the-puzzle-investigating-multiple-event-listeners-in-vuejs-3cl2)
+- [A first project with ExpressoTS](https://dev.to/danielboll/a-first-project-with-expressots-30e8)
+- [A Comprehensive Difference between Frontend and Backend Programming](https://dev.to/adaeze123_/a-comprehensive-difference-between-frontend-and-backend-programming-492h)
+- [Cybersecurity In The World Of Generative AI](https://dev.to/mohabgabber/cybersecurity-in-the-world-of-generative-ai-2b32)
+- [An Engineer&#39;s Toolkit for continuous upskilling](https://dev.to/lulaleus/an-engineers-toolkit-for-continuous-upskilling-1g07)
 <!-- BLOG-POST-LIST:END -->
 
