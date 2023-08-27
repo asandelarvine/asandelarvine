@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Shell Scripting 101: Essential Commands for Every Developer](https://dev.to/devrx/shell-scripting-101-essential-commands-for-every-developer-j3p)
+- [Efficient Data Validation in Nestjs using class-validator: A Quick Guide](https://dev.to/m4r14/efficient-data-validation-in-nestjs-using-class-validator-a-quick-guide-2ff)
 - [Automating the installation of Docker on Linux using a shell script](https://dev.to/nipu/automat-your-docker-install-3lf3)
 - [Learning About APIs and Postman: My experience at API101 by Yash Katyan and Maharishi Sinha](https://dev.to/mayurk04/learning-about-apis-and-postman-my-experience-at-api101-by-yash-katyan-and-maharishi-sinha-2mao)
-- [Vue.js Testing applications](https://dev.to/noobizdev/vuejs-testing-applications-4m4e)
 <!-- BLOG-POST-LIST:END -->
 
