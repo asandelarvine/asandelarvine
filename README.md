@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Supercharge Your Workflow with XFCE&#39;s Productivity Arsenal&quot;](https://dev.to/luxxgit2k4/supercharge-your-workflow-with-xfces-productivity-arsenal-1f8h)
+- [Inside the Cutting-Edge Technology Powering Optus Stadium in Perth](https://dev.to/jaydipparikh/inside-the-cutting-edge-technology-powering-optus-stadium-in-perth-4cfn)
+- [Building a Simple 🎶 Music Synthesizer 🎵 /w JavaScript](https://dev.to/mike-at-redspace/building-a-simple-music-synthesizer-w-javascript-542c)
 - [Data Fetching with React Suspense](https://dev.to/alakkadshaw/data-fetching-with-react-suspense-5ccn)
-- [TIL: From test to Testing Playground](https://dev.to/noriller/til-from-test-to-testing-playground-laa)
-- [The future of voice chat technology: revolutionizing communication in the digital age](https://dev.to/shishirjayant/the-future-of-voice-chat-technology-revolutionizing-communication-in-the-digital-age-11j0)
-- [Conway&#39;s game of life...in pure SQL [Postgres]! 💪🏼🤯](https://dev.to/grahamthedev/conways-game-of-lifein-pure-sql-postgres-2okc)
 <!-- BLOG-POST-LIST:END -->
 
