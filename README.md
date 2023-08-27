@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling Pop-Up Windows in Selenium](https://dev.to/10-minutes-qa-story/handling-pop-up-windows-in-selenium-32k4)
 - [Shell Scripting 101: Essential Commands for Every Developer](https://dev.to/devrx/shell-scripting-101-essential-commands-for-every-developer-j3p)
 - [Efficient Data Validation in Nestjs using class-validator: A Quick Guide](https://dev.to/m4r14/efficient-data-validation-in-nestjs-using-class-validator-a-quick-guide-2ff)
 - [Automating the installation of Docker on Linux using a shell script](https://dev.to/nipu/automat-your-docker-install-3lf3)
-- [hello world](https://dev.to/seasonedcode/hello-world-2j33)
 <!-- BLOG-POST-LIST:END -->
 
