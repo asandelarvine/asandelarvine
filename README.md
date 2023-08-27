@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
 - [React TS- How to Use React Contexts for State Management](https://dev.to/brdnicolas/react-ts-how-to-use-react-contexts-for-state-management-4mh3)
+- [Cómo utilizar QR y blockchain para la trazabilidad de productos](https://dev.to/dennysjmarquez/como-utilizar-qr-y-blockchain-para-la-trazabilidad-de-productos-1nb6)
 - [Java: &quot;Pass-by-Value&quot; vs &quot;Pass-by-Reference&quot; - Unraveling the Confusion](https://dev.to/iamcymentho/java-pass-by-value-vs-pass-by-reference-unraveling-the-confusion-3gmh)
-- [React Custom Hook: useStateWithHistory](https://dev.to/sergeyleschev/react-custom-hook-usestatewithhistory-ni9)
 <!-- BLOG-POST-LIST:END -->
 
