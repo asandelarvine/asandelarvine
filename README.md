@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Conway&#39;s game of life...in pure SQL [Postgres]! 💪🏼🤯](https://dev.to/grahamthedev/conways-game-of-lifein-pure-sql-postgres-2okc)
+- [The Interface Segregation Situation](https://dev.to/alexhyettdev/the-interface-segregation-situation-941)
 - [Complex Data Types in Golang &lpar;go&rpar;](https://dev.to/diwakarkashyap/complex-data-types-in-golang-go-328l)
 - [Handling Pop-Up Windows in Selenium](https://dev.to/10-minutes-qa-story/handling-pop-up-windows-in-selenium-32k4)
-- [Introducing My &#39;🌟 10 CSS Card Wonders&#39; Project! 💫](https://dev.to/smitprajapati/introducing-my-10-css-card-wonders-project-5a09)
 <!-- BLOG-POST-LIST:END -->
 
