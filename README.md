@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Period GSoC&#39;23 | Week 11 + 12](https://dev.to/prerna0202/coding-period-gsoc23-week-11-12-3pni)
-- [Jokeday Funday: Part 5 - More Hilarious Programming Jokes](https://dev.to/soumyadeepdey/jokeday-funday-part-5-more-hilarious-programming-jokes-2lbk)
-- [Evolution from Programmer to Software Engineer](https://dev.to/astronomer/evolution-from-programmer-to-software-engineer-59mo)
-- [Enhancing Microservice Boundary Design: Principles and Strategies](https://dev.to/postamentovich/enhancing-microservice-boundary-design-principles-and-strategies-2p30)
+- [Is Data Struct about memory?](https://dev.to/vit0rr/is-data-struct-about-memory-474g)
+- [Vanilla DB is out for a try](https://dev.to/zedic/vanilla-db-is-out-for-a-try-393)
+- [Architecting Serverless Applications with AWS](https://dev.to/farrukhkhalid/architecting-serverless-applications-with-aws-12al)
+- [Revolutionizing Database Scaling with CitusDB](https://dev.to/m4rcxs/revolutionizing-database-scaling-with-citusdb-3412)
 <!-- BLOG-POST-LIST:END -->
 
