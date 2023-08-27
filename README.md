@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing the CodeNewbie Spirit. How Do You Define It?](https://dev.to/codenewbieteam/embracing-the-codenewbie-spirit-how-do-you-define-it-1pn1)
-- [What&#39;s Your Role in Nurturing the Coding Community?](https://dev.to/devteam/whats-your-role-in-nurturing-the-coding-community-1de)
-- [Immediately Boost Your Social Media Traffic](https://dev.to/mia9831/immediately-boost-your-social-media-traffic-mld)
-- [Demystifying Agile Methodology: A Comprehensive Guide for Everyone](https://dev.to/documatic/demystifying-agile-methodology-a-comprehensive-guide-for-everyone-119i)
+- [Shell Scripting 101: Essential Commands for Every Developer](https://dev.to/devrx/shell-scripting-101-essential-commands-for-every-developer-j3p)
+- [Automating the installation of Docker on Linux using a shell script](https://dev.to/nipu/automat-your-docker-install-3lf3)
+- [Learning About APIs and Postman: My experience at API101 by Yash Katyan and Maharishi Sinha](https://dev.to/mayurk04/learning-about-apis-and-postman-my-experience-at-api101-by-yash-katyan-and-maharishi-sinha-2mao)
+- [Vue.js Testing applications](https://dev.to/noobizdev/vuejs-testing-applications-4m4e)
 <!-- BLOG-POST-LIST:END -->
 
