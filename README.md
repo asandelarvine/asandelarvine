@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Training Juniors Remotely Is Possible. Here&#39;s How.](https://dev.to/codemouse92/training-juniors-remotely-is-possible-heres-how-1g0n)
+- [Navigating Security and Compliance](https://dev.to/klip_klop/navigating-security-and-compliance-fd)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-23n8)
-- [VSCODE THEMED PORTFOLIO USING REACT.JS AND TAILWINDCSS.](https://dev.to/manavss/vscode-themed-portfolio-3bl7)
-- [Pointers in Golang &lpar;go&rpar;](https://dev.to/diwakarkashyap/pointers-in-golang-go-1910)
-- [Part 4 &lpar;b&rpar;: How to Build a To-Do App with Vue Js: Creating Reusable UI](https://dev.to/miracool/part-4-b-how-to-build-a-to-do-app-with-vue-js-creating-reusable-ui-5en8)
+- [Building a Blog Subscription and Pusher with AirCode and Resend](https://dev.to/aircode/building-a-blog-subscription-and-pusher-with-aircode-and-resend-1j2i)
 <!-- BLOG-POST-LIST:END -->
 
