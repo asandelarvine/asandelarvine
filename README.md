@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Are Turning off Listings](https://dev.to/devteam/we-are-turning-off-listings-5857)
-- [Guide: Creating Temporary Tables in PostgreSQL](https://dev.to/dukeofhazardz/guide-creating-temporary-tables-in-postgresql-4i05)
-- [Tooltip](https://dev.to/dimple031/tooltip-phn)
-- [Training Juniors Remotely Is Possible. Here&#39;s How.](https://dev.to/codemouse92/training-juniors-remotely-is-possible-heres-how-1g0n)
+- [Quick Guide to BLoC as State Manager For Your Next Flutter Project](https://dev.to/yatendra2001/quick-guide-to-bloc-as-state-manager-for-your-next-flutter-project-14h8)
+- [Preventing SQL Injection in PHP: A Comprehensive Guide](https://dev.to/iamcymentho/preventing-sql-injection-in-php-a-comprehensive-guide-1l)
+- [Why Every Designer Should Consider an IQ Test: Unlocking Creative Potential](https://dev.to/alyciakyla/why-every-designer-should-consider-an-iq-test-unlocking-creative-potential-1o5i)
+- [FLaNK Stack Weekly 28 August 2023](https://dev.to/tspannhw/flank-stack-weekly-28-august-2023-57gp)
 <!-- BLOG-POST-LIST:END -->
 
