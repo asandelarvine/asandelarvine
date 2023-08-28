@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We Are Turning off Listings](https://dev.to/devteam/we-are-turning-off-listings-5857)
+- [Guide: Creating Temporary Tables in PostgreSQL](https://dev.to/dukeofhazardz/guide-creating-temporary-tables-in-postgresql-4i05)
+- [Tooltip](https://dev.to/dimple031/tooltip-phn)
 - [Training Juniors Remotely Is Possible. Here&#39;s How.](https://dev.to/codemouse92/training-juniors-remotely-is-possible-heres-how-1g0n)
-- [Navigating Security and Compliance](https://dev.to/klip_klop/navigating-security-and-compliance-fd)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-23n8)
-- [Building a Blog Subscription and Pusher with AirCode and Resend](https://dev.to/aircode/building-a-blog-subscription-and-pusher-with-aircode-and-resend-1j2i)
 <!-- BLOG-POST-LIST:END -->
 
