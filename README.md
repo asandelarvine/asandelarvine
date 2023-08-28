@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add License Headers to Your Code Files: NWA - A More Powerful License Statement Management Tool](https://dev.to/justlorain/add-license-headers-to-your-code-files-nwa-a-more-powerful-license-statement-management-tool-86o)
-- [Power Automate - Child Flows](https://dev.to/wyattdave/power-automate-child-flows-16pf)
-- [Roadmap to Becoming a Web3 Developer in 2023](https://dev.to/scofieldidehen/roadmap-to-becoming-a-web3-developer-in-2023-b92)
-- [Mastering Python Operators: A Comprehensive Guide](https://dev.to/scofieldidehen/mastering-python-operators-a-comprehensive-guide-34na)
+- [Tech Ethics: Have You Managed Complex Dilemmas?](https://dev.to/devteam/tech-ethics-have-you-managed-complex-dilemmas-35k4)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-2lf8)
+- [Hello, Me. It&#39;s Me! What Advice Would You Give Your Younger Self?](https://dev.to/codenewbieteam/hello-me-its-me-what-advice-would-you-give-your-younger-self-35d4)
+- [Angular Signals: A Reactive Way to Manage State](https://dev.to/chintanonweb/angular-signals-a-reactive-way-to-manage-state-lih)
 <!-- BLOG-POST-LIST:END -->
 
