@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Ethics: Have You Managed Complex Dilemmas?](https://dev.to/devteam/tech-ethics-have-you-managed-complex-dilemmas-35k4)
+- [Terraform - Variable Validation](https://dev.to/pwd9000/terraform-variable-validation-47ka)
+- [Exploring the Top Trending Clone Scripts For 2023](https://dev.to/jessietomaz/exploring-the-top-trending-clone-scripts-for-2023-p1)
+- [Node.js Event Loop](https://dev.to/endeavourmonk/nodejs-event-loop-46oo)
 - [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-2lf8)
-- [Hello, Me. It&#39;s Me! What Advice Would You Give Your Younger Self?](https://dev.to/codenewbieteam/hello-me-its-me-what-advice-would-you-give-your-younger-self-35d4)
-- [Angular Signals: A Reactive Way to Manage State](https://dev.to/chintanonweb/angular-signals-a-reactive-way-to-manage-state-lih)
 <!-- BLOG-POST-LIST:END -->
 
