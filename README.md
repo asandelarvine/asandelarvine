@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get Sponsored by DigitalOcean for Your Open Source Project](https://dev.to/idurar/how-to-get-sponsored-by-digitalocean-for-your-open-source-project-5370)
 - [React Custom Hook: useStateWithValidation](https://dev.to/sergeyleschev/react-custom-hook-usestatewithvalidation-1813)
 - [Unlock Limitless Possibilities: Supercharge Your Azure Virtual Machine with Additional Disk Space!](https://dev.to/sam_awoyemi/unlock-limitless-possibilities-supercharge-your-azure-virtual-machine-with-additional-disk-space-5h2f)
 - [My Flutter Development Toolkit 2023: Daily Apps and Software](https://dev.to/blkkkbvsik/my-essential-toolkit-2023-daily-apps-and-software-hardware-for-flutter-development-nbk)
-- [pyaction 4.22.0 Released](https://dev.to/cicirello/pyaction-4220-released-11fe)
 <!-- BLOG-POST-LIST:END -->
 
