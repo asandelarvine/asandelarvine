@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket, a free Django Generator - Insights for Developers](https://dev.to/sm0ke/rocket-a-free-django-generator-insights-for-developers-2f58)
-- [Quick Guide to BLoC as State Manager For Your Next Flutter Project](https://dev.to/yatendra2001/quick-guide-to-bloc-as-state-manager-for-your-next-flutter-project-14h8)
-- [Preventing SQL Injection in PHP: A Comprehensive Guide](https://dev.to/iamcymentho/preventing-sql-injection-in-php-a-comprehensive-guide-1l)
-- [Why Every Designer Should Consider an IQ Test: Unlocking Creative Potential](https://dev.to/alyciakyla/why-every-designer-should-consider-an-iq-test-unlocking-creative-potential-1o5i)
+- [Streamline SVG Sprites in Your React Applications](https://dev.to/simprl/streamline-svg-sprites-in-your-react-applications-37c)
+- [I love negative comments!](https://dev.to/apetryla/i-love-negative-comments-ohp)
+- [Entendendo JOINs no SQL: Unindo Tabelas Como um Profissional](https://dev.to/rafaelarc/entendendo-joins-no-sql-unindo-tabelas-como-um-profissional-260d)
+- [Next x Nest - Connecting your NextJs App to a NestJs Backend](https://dev.to/abhikbanerjee99/next-x-nest-connecting-your-nextjs-app-to-a-nestjs-backend-419c)
 <!-- BLOG-POST-LIST:END -->
 
