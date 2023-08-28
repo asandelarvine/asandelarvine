@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📜 Novu&#39;s Communication Manifest: Lighting the Path to our Future 💡](https://dev.to/novu/novus-communication-manifest-lighting-the-path-to-our-future-2meb)
-- [C# Multithreading Interview Questions and Answers](https://dev.to/bytehide/c-multithreading-interview-questions-and-answers-4opj)
-- [Log Viewer v3 is out](https://dev.to/arukomp/log-viewer-v3-is-out-64f)
-- [Performance e elegância! Escrevendo uma CLI CRUD utilizando ScyllaDB e Ruby](https://dev.to/he4rt/performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452)
+- [VueJS Part 1: Intro to VueJS](https://dev.to/hi_iam_chris/vuejs-part-1-intro-to-vuejs-32cj)
+- [Mastering the Art of Establishing an Amazon RDS Database: A Comprehensive Guide to Setting Up and Optimising](https://dev.to/oloruntobiolurombi/mastering-the-art-of-establishing-an-amazon-rds-database-a-comprehensive-guide-to-setting-up-and-optimising-1999)
+- [NumPy Tutorial #11: Array Search](https://dev.to/tech_plygrnd/numpy-tutorial-11-array-search-4abb)
+- [The Newest Upgrades and Features for Laravel 10.2](https://dev.to/zhukmax/the-newest-upgrades-and-features-for-laravel-102-29h6)
 <!-- BLOG-POST-LIST:END -->
 
