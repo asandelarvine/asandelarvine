@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline SVG Sprites in Your React Applications](https://dev.to/simprl/streamline-svg-sprites-in-your-react-applications-37c)
-- [I love negative comments!](https://dev.to/apetryla/i-love-negative-comments-ohp)
-- [Entendendo JOINs no SQL: Unindo Tabelas Como um Profissional](https://dev.to/rafaelarc/entendendo-joins-no-sql-unindo-tabelas-como-um-profissional-260d)
-- [Next x Nest - Connecting your NextJs App to a NestJs Backend](https://dev.to/abhikbanerjee99/next-x-nest-connecting-your-nextjs-app-to-a-nestjs-backend-419c)
+- [React Custom Hook: useStateWithValidation](https://dev.to/sergeyleschev/react-custom-hook-usestatewithvalidation-1813)
+- [Unlock Limitless Possibilities: Supercharge Your Azure Virtual Machine with Additional Disk Space!](https://dev.to/sam_awoyemi/unlock-limitless-possibilities-supercharge-your-azure-virtual-machine-with-additional-disk-space-5h2f)
+- [My Flutter Development Toolkit 2023: Daily Apps and Software](https://dev.to/blkkkbvsik/my-essential-toolkit-2023-daily-apps-and-software-hardware-for-flutter-development-nbk)
+- [pyaction 4.22.0 Released](https://dev.to/cicirello/pyaction-4220-released-11fe)
 <!-- BLOG-POST-LIST:END -->
 
