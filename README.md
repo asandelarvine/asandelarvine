@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Smart Working Experience: Pros and Cons](https://dev.to/this-is-learning/my-smart-working-experience-pros-and-cons-bkm)
+- [How I Prepared for the Google Cloud Associate Cloud Engineer Exam](https://dev.to/lucavallin/how-i-prepared-for-the-google-cloud-associate-cloud-engineer-exam-37a8)
 - [Terraform - Variable Validation](https://dev.to/pwd9000/terraform-variable-validation-47ka)
-- [Exploring the Top Trending Clone Scripts For 2023](https://dev.to/jessietomaz/exploring-the-top-trending-clone-scripts-for-2023-p1)
-- [Node.js Event Loop](https://dev.to/endeavourmonk/nodejs-event-loop-46oo)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-2lf8)
+- [Mi experiencia en la certificaciones Tech](https://dev.to/monihikari/mi-experiencia-en-la-certificaciones-tech-1j05)
 <!-- BLOG-POST-LIST:END -->
 
