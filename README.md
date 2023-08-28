@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Progression Systems to Keep Players Engaged](https://dev.to/godot/using-progression-systems-to-keep-players-engaged-3k7n)
-- [Deploying a Multi-Video call project using Node.js on Ubuntu using stun and turn](https://dev.to/syedasadrazadevops/deploying-a-multi-video-call-project-using-nodejs-on-ubuntu-using-stun-and-turn-n9i)
-- [Mobile App Update Day 101](https://dev.to/shreyvijayvargiya/mobile-app-update-day-101-5h59)
-- [8 Habits That Hold Back Your Developer Potential](https://dev.to/devland/8-habits-that-hold-back-your-developer-potential-330b)
+- [Exploring How Node.js Works Hand in Hand with Frontend Technologies](https://dev.to/jjohnsonliam/exploring-how-nodejs-works-hand-in-hand-with-frontend-technologies-3ij)
+- [Lazy Loading in React](https://dev.to/sidddharthamishra/lazy-loading-in-react-412i)
+- [📃 👀 Run in-app surveys in your web app in 10 minutes with Formbricks 🤓❤️‍🔥](https://dev.to/jobenjada/run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl)
+- [Guidelines for Deprecating Old API Versions](https://dev.to/ragavi_document360/guidelines-for-deprecating-old-api-versions-3j5h)
 <!-- BLOG-POST-LIST:END -->
 
