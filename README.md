@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Awesome GumRoad Products for Developers](https://dev.to/surajondev/7-awesome-gumroad-products-for-developers-2fk9)
-- [Brazilian &quot;Rinha de Backend&quot; challenge #1 - How To Fail](https://dev.to/lukas8219/brazilian-rinha-de-backend-challenge-1-how-to-fail-13n4)
-- [Meme Monday](https://dev.to/ben/meme-monday-2p7o)
-- [PHP: Dynamic Web Development](https://dev.to/cooptothe/php-dynamic-web-development-323c)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-23n8)
+- [VSCODE THEMED PORTFOLIO USING REACT.JS AND TAILWINDCSS.](https://dev.to/manavss/vscode-themed-portfolio-3bl7)
+- [Pointers in Golang &lpar;go&rpar;](https://dev.to/diwakarkashyap/pointers-in-golang-go-1910)
+- [Part 4 &lpar;b&rpar;: How to Build a To-Do App with Vue Js: Creating Reusable UI](https://dev.to/miracool/part-4-b-how-to-build-a-to-do-app-with-vue-js-creating-reusable-ui-5en8)
 <!-- BLOG-POST-LIST:END -->
 
