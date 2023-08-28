@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Add License Headers to Your Code Files: NWA - A More Powerful License Statement Management Tool](https://dev.to/justlorain/add-license-headers-to-your-code-files-nwa-a-more-powerful-license-statement-management-tool-86o)
+- [Power Automate - Child Flows](https://dev.to/wyattdave/power-automate-child-flows-16pf)
+- [Roadmap to Becoming a Web3 Developer in 2023](https://dev.to/scofieldidehen/roadmap-to-becoming-a-web3-developer-in-2023-b92)
 - [Mastering Python Operators: A Comprehensive Guide](https://dev.to/scofieldidehen/mastering-python-operators-a-comprehensive-guide-34na)
-- [Socket.IO user study](https://dev.to/kevinguo/socketio-user-study-10bb)
-- [Understanding Use Cases for Pattern Matching](https://dev.to/lazypro/understanding-use-cases-for-pattern-matching-21c9)
-- [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
 <!-- BLOG-POST-LIST:END -->
 
