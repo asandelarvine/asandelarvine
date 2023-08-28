@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python Operators: A Comprehensive Guide](https://dev.to/scofieldidehen/mastering-python-operators-a-comprehensive-guide-34na)
 - [Socket.IO user study](https://dev.to/kevinguo/socketio-user-study-10bb)
 - [Understanding Use Cases for Pattern Matching](https://dev.to/lazypro/understanding-use-cases-for-pattern-matching-21c9)
 - [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
-- [Use Github actions for Trunk Based Development to deploy AWS ECS Service](https://dev.to/smadan2703/use-github-actions-for-trunk-based-development-to-deploy-aws-ecs-service-59n5)
 <!-- BLOG-POST-LIST:END -->
 
