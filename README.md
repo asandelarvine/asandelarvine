@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring How Node.js Works Hand in Hand with Frontend Technologies](https://dev.to/jjohnsonliam/exploring-how-nodejs-works-hand-in-hand-with-frontend-technologies-3ij)
-- [Lazy Loading in React](https://dev.to/sidddharthamishra/lazy-loading-in-react-412i)
-- [📃 👀 Run in-app surveys in your web app in 10 minutes with Formbricks 🤓❤️‍🔥](https://dev.to/jobenjada/run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl)
-- [Guidelines for Deprecating Old API Versions](https://dev.to/ragavi_document360/guidelines-for-deprecating-old-api-versions-3j5h)
+- [📜 Novu&#39;s Communication Manifest: Lighting the Path to our Future 💡](https://dev.to/novu/novus-communication-manifest-lighting-the-path-to-our-future-2meb)
+- [C# Multithreading Interview Questions and Answers](https://dev.to/bytehide/c-multithreading-interview-questions-and-answers-4opj)
+- [Log Viewer v3 is out](https://dev.to/arukomp/log-viewer-v3-is-out-64f)
+- [Performance e elegância! Escrevendo uma CLI CRUD utilizando ScyllaDB e Ruby](https://dev.to/he4rt/performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452)
 <!-- BLOG-POST-LIST:END -->
 
