@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Smart Working Experience: Pros and Cons](https://dev.to/this-is-learning/my-smart-working-experience-pros-and-cons-bkm)
-- [How I Prepared for the Google Cloud Associate Cloud Engineer Exam](https://dev.to/lucavallin/how-i-prepared-for-the-google-cloud-associate-cloud-engineer-exam-37a8)
-- [Terraform - Variable Validation](https://dev.to/pwd9000/terraform-variable-validation-47ka)
-- [Mi experiencia en la certificaciones Tech](https://dev.to/monihikari/mi-experiencia-en-la-certificaciones-tech-1j05)
+- [Using Progression Systems to Keep Players Engaged](https://dev.to/godot/using-progression-systems-to-keep-players-engaged-3k7n)
+- [Deploying a Multi-Video call project using Node.js on Ubuntu using stun and turn](https://dev.to/syedasadrazadevops/deploying-a-multi-video-call-project-using-nodejs-on-ubuntu-using-stun-and-turn-n9i)
+- [Mobile App Update Day 101](https://dev.to/shreyvijayvargiya/mobile-app-update-day-101-5h59)
+- [8 Habits That Hold Back Your Developer Potential](https://dev.to/devland/8-habits-that-hold-back-your-developer-potential-330b)
 <!-- BLOG-POST-LIST:END -->
 
