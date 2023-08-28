@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
 - [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
+- [PoC x MVP x Prototipo: diferentes técnicas.](https://dev.to/valterlobo/poc-x-mvp-x-prototipo-diferentes-tecnicas-3695)
 - [React TS- How to Use React Contexts for State Management](https://dev.to/brdnicolas/react-ts-how-to-use-react-contexts-for-state-management-4mh3)
-- [Cómo utilizar QR y blockchain para la trazabilidad de productos](https://dev.to/dennysjmarquez/como-utilizar-qr-y-blockchain-para-la-trazabilidad-de-productos-1nb6)
-- [Java: &quot;Pass-by-Value&quot; vs &quot;Pass-by-Reference&quot; - Unraveling the Confusion](https://dev.to/iamcymentho/java-pass-by-value-vs-pass-by-reference-unraveling-the-confusion-3gmh)
 <!-- BLOG-POST-LIST:END -->
 
