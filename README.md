@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket, a free Django Generator - Insights for Developers](https://dev.to/sm0ke/rocket-a-free-django-generator-insights-for-developers-2f58)
 - [Quick Guide to BLoC as State Manager For Your Next Flutter Project](https://dev.to/yatendra2001/quick-guide-to-bloc-as-state-manager-for-your-next-flutter-project-14h8)
 - [Preventing SQL Injection in PHP: A Comprehensive Guide](https://dev.to/iamcymentho/preventing-sql-injection-in-php-a-comprehensive-guide-1l)
 - [Why Every Designer Should Consider an IQ Test: Unlocking Creative Potential](https://dev.to/alyciakyla/why-every-designer-should-consider-an-iq-test-unlocking-creative-potential-1o5i)
-- [FLaNK Stack Weekly 28 August 2023](https://dev.to/tspannhw/flank-stack-weekly-28-august-2023-57gp)
 <!-- BLOG-POST-LIST:END -->
 
