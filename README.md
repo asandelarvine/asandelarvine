@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VueJS Part 1: Intro to VueJS](https://dev.to/hi_iam_chris/vuejs-part-1-intro-to-vuejs-32cj)
-- [Mastering the Art of Establishing an Amazon RDS Database: A Comprehensive Guide to Setting Up and Optimising](https://dev.to/oloruntobiolurombi/mastering-the-art-of-establishing-an-amazon-rds-database-a-comprehensive-guide-to-setting-up-and-optimising-1999)
-- [NumPy Tutorial #11: Array Search](https://dev.to/tech_plygrnd/numpy-tutorial-11-array-search-4abb)
-- [The Newest Upgrades and Features for Laravel 10.2](https://dev.to/zhukmax/the-newest-upgrades-and-features-for-laravel-102-29h6)
+- [7 Awesome GumRoad Products for Developers](https://dev.to/surajondev/7-awesome-gumroad-products-for-developers-2fk9)
+- [Brazilian &quot;Rinha de Backend&quot; challenge #1 - How To Fail](https://dev.to/lukas8219/brazilian-rinha-de-backend-challenge-1-how-to-fail-13n4)
+- [Meme Monday](https://dev.to/ben/meme-monday-2p7o)
+- [PHP: Dynamic Web Development](https://dev.to/cooptothe/php-dynamic-web-development-323c)
 <!-- BLOG-POST-LIST:END -->
 
