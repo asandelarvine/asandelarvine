@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Mastering SMART Goals to Overcome Loneliness 🌟](https://dev.to/apetryla/mastering-smart-goals-to-overcome-loneliness-396o)
+- [ZenStack: The Complete Authorization Solution for Prisma Projects](https://dev.to/zenstack/zenstack-the-complete-authorization-solution-for-prisma-projects-25fo)
+- [AWS open source newsletter, #171](https://dev.to/aws/aws-open-source-newsletter-171-4o49)
 - [SQL VS NOSQL](https://dev.to/hasanelsherbiny/sql-vs-nosql-875)
-- [Overcoming Coding Roadblocks: How Can the DEV Community Help?](https://dev.to/codenewbieteam/overcoming-coding-roadblocks-how-can-the-dev-community-help-3mfd)
-- [What&#39;s Your Most Intriguing Coding Puzzle?](https://dev.to/codenewbieteam/whats-your-most-intriguing-coding-puzzle-2k2a)
-- [If You Switched Languages, Which Would You Choose?](https://dev.to/devteam/if-you-switched-languages-which-would-you-choose-gfd)
 <!-- BLOG-POST-LIST:END -->
 
