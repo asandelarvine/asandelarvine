@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Beautiful Snap Scrolling with CSS Scroll Snap](https://dev.to/ubahthebuilder/create-beautiful-snap-scrolling-with-css-scroll-snap-3oj9)
 - [how to build impressive real estate website using html css and js](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
+- [Introducing CodeGlossary: Your Go-To Resource for Programming Terminology](https://dev.to/j471n/introducing-codeglossary-your-go-to-resource-for-programming-terminology-22ml)
 - [The struggle for developers to collaborate on microservices](https://dev.to/signadot/the-struggle-for-developers-to-collaborate-on-microservices-1j0k)
-- [Divide &amp; Conquer &lpar;Grokking Algorithms&rpar;](https://dev.to/bhavkushwaha/divide-conquer-grokking-algorithms-7gi)
-- [Introducing JavaScript&#39;s new &quot;using&quot; Keyword &lpar;for Variables&rpar;](https://dev.to/ubahthebuilder/introducing-javascripts-new-using-keyword-for-variables-1o2i)
 <!-- BLOG-POST-LIST:END -->
 
