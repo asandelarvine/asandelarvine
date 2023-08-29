@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Form Handling | React | Part 2 | Error Validation](https://dev.to/shubhamtiwari909/form-handling-react-part-2-error-validation-3hfp)
-- [How Much Does It Cost To Create Soulbound Token &lpar;SBT&rpar;?](https://dev.to/adelelara/how-much-does-it-cost-to-create-soulbound-token-sbt-1hob)
-- [How to Test HarperDB Custom Functions with Node Tap](https://dev.to/doabledanny/how-to-test-harperdb-custom-functions-with-node-tap-53hl)
-- [❤️6 open-source libraries you must contribute❤️](https://dev.to/idurar/6-open-source-libraries-you-must-contribute-pda)
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-194)
+- [Avoid Smart Contract Hacks with Fuzz Testing](https://dev.to/mbogan/avoid-smart-contract-hacks-with-fuzz-testing-1a3a)
+- [Leet Code — 2315. Count Asterisks](https://dev.to/bendlmp/leet-code-2315-count-asterisks-1bfl)
+- [The Art of Understanding Before Coding](https://dev.to/vit0rr/the-art-of-understanding-before-coding-40g1)
 <!-- BLOG-POST-LIST:END -->
 
