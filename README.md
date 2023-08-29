@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source e Software Livre: conheça e entenda de uma vez por todas o que cada um significa](https://dev.to/he4rt/open-source-e-software-livre-conheca-e-entenda-de-uma-vez-por-todas-o-que-cada-um-significa-15in)
+- [How I moved from React to Svelte](https://dev.to/kedzior_io/how-i-moved-from-react-to-svelte-gdi)
 - [How to get Sponsored by DigitalOcean for Your Open Source Project](https://dev.to/idurar/how-to-get-sponsored-by-digitalocean-for-your-open-source-project-5370)
-- [React Custom Hook: useStateWithValidation](https://dev.to/sergeyleschev/react-custom-hook-usestatewithvalidation-1813)
-- [Unlock Limitless Possibilities: Supercharge Your Azure Virtual Machine with Additional Disk Space!](https://dev.to/sam_awoyemi/unlock-limitless-possibilities-supercharge-your-azure-virtual-machine-with-additional-disk-space-5h2f)
-- [My Flutter Development Toolkit 2023: Daily Apps and Software](https://dev.to/blkkkbvsik/my-essential-toolkit-2023-daily-apps-and-software-hardware-for-flutter-development-nbk)
+- [Computing the 10,000th Fibonacci number in less than a second. Unveiling the Secrets of Giant Numbers: Building Your Own BigInt](https://dev.to/nopass0/computing-the-10000th-fibonacci-number-in-less-than-a-second-unveiling-the-secrets-of-giant-numbers-building-your-own-bigint-3cp8)
 <!-- BLOG-POST-LIST:END -->
 
