@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Mastering SMART Goals to Overcome Loneliness 🌟](https://dev.to/apetryla/mastering-smart-goals-to-overcome-loneliness-396o)
-- [ZenStack: The Complete Authorization Solution for Prisma Projects](https://dev.to/zenstack/zenstack-the-complete-authorization-solution-for-prisma-projects-25fo)
-- [AWS open source newsletter, #171](https://dev.to/aws/aws-open-source-newsletter-171-4o49)
-- [SQL VS NOSQL](https://dev.to/hasanelsherbiny/sql-vs-nosql-875)
+- [What&#39;s new in LiveG OS V0.2.0: multiplatform support and plenty more](https://dev.to/liveg/whats-new-in-liveg-os-v020-multiplatform-support-and-plenty-more-14e0)
+- [Understanding Closures](https://dev.to/bupd/understanding-closures-1mm9)
+- [The Terror of Mongolia JS13k Post-mortem &lpar;part 1&rpar;](https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-1-33a4)
+- [Enabling Dark Mode in React.js with SCSS Modules 🌙](https://dev.to/0ro/enabling-dark-mode-in-reactjs-with-scss-modules-2mm0)
 <!-- BLOG-POST-LIST:END -->
 
