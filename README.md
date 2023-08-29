@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Beautiful Snap Scrolling with CSS Scroll Snap](https://dev.to/ubahthebuilder/create-beautiful-snap-scrolling-with-css-scroll-snap-3oj9)
-- [how to build impressive real estate website using html css and js](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
-- [Introducing CodeGlossary: Your Go-To Resource for Programming Terminology](https://dev.to/j471n/introducing-codeglossary-your-go-to-resource-for-programming-terminology-22ml)
-- [The struggle for developers to collaborate on microservices](https://dev.to/signadot/the-struggle-for-developers-to-collaborate-on-microservices-1j0k)
+- [From TSV to CSV: How GitHub Copilot Chat Made Data Conversion a Breeze!](https://dev.to/github/from-tsv-to-csv-how-github-copilot-chat-made-data-conversion-a-breeze-2i3g)
+- [Scrap LinkedIn Company Data using Voyager Api](https://dev.to/scofieldidehen/scrap-linkedin-company-data-using-voyager-api-3785)
+- [10 Productivity Techniques for Developers](https://dev.to/yatendra2001/10-productivity-techniques-for-developers-1ml2)
+- [Interfaces and Embedding in Golang &lpar;Go&rpar;](https://dev.to/diwakarkashyap/interfaces-and-embedding-in-golang-go-2em4)
 <!-- BLOG-POST-LIST:END -->
 
