@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [how to build impressive real estate website using html css and js](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
+- [The struggle for developers to collaborate on microservices](https://dev.to/signadot/the-struggle-for-developers-to-collaborate-on-microservices-1j0k)
 - [Divide &amp; Conquer &lpar;Grokking Algorithms&rpar;](https://dev.to/bhavkushwaha/divide-conquer-grokking-algorithms-7gi)
 - [Introducing JavaScript&#39;s new &quot;using&quot; Keyword &lpar;for Variables&rpar;](https://dev.to/ubahthebuilder/introducing-javascripts-new-using-keyword-for-variables-1o2i)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-194)
-- [Avoid Smart Contract Hacks with Fuzz Testing](https://dev.to/mbogan/avoid-smart-contract-hacks-with-fuzz-testing-1a3a)
 <!-- BLOG-POST-LIST:END -->
 
