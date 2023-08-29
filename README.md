@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Must-Have TypeScript Utility Types with Uses and Examples](https://dev.to/rajatkaush1k/12-must-have-typescript-utility-types-with-uses-and-examples-213j)
 - [From TSV to CSV: How GitHub Copilot Chat Made Data Conversion a Breeze!](https://dev.to/github/from-tsv-to-csv-how-github-copilot-chat-made-data-conversion-a-breeze-2i3g)
 - [Scrap LinkedIn Company Data using Voyager Api](https://dev.to/scofieldidehen/scrap-linkedin-company-data-using-voyager-api-3785)
 - [10 Productivity Techniques for Developers](https://dev.to/yatendra2001/10-productivity-techniques-for-developers-1ml2)
-- [Interfaces and Embedding in Golang &lpar;Go&rpar;](https://dev.to/diwakarkashyap/interfaces-and-embedding-in-golang-go-2em4)
 <!-- BLOG-POST-LIST:END -->
 
