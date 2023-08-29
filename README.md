@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Must-Have TypeScript Utility Types with Uses and Examples](https://dev.to/rajatkaush1k/12-must-have-typescript-utility-types-with-uses-and-examples-213j)
-- [From TSV to CSV: How GitHub Copilot Chat Made Data Conversion a Breeze!](https://dev.to/github/from-tsv-to-csv-how-github-copilot-chat-made-data-conversion-a-breeze-2i3g)
-- [Scrap LinkedIn Company Data using Voyager Api](https://dev.to/scofieldidehen/scrap-linkedin-company-data-using-voyager-api-3785)
-- [10 Productivity Techniques for Developers](https://dev.to/yatendra2001/10-productivity-techniques-for-developers-1ml2)
+- [React Custom Hook: useStorage](https://dev.to/sergeyleschev/react-custom-hook-usestorage-and)
+- [Why Developers are Ditching Jenkins for CircleCI !](https://dev.to/farrukhkhalid/why-developers-are-ditching-jenkins-for-circleci--216g)
+- [How to Stop Procrastinating](https://dev.to/juanthe3rd/how-to-stop-procrastinating-3i49)
+- [Expense Chart - Frontend Mentor](https://dev.to/virtualpujadev/expense-chart-frontend-mentor-4d8i)
 <!-- BLOG-POST-LIST:END -->
 
