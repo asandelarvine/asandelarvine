@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 Very Unique and Rare Developer Productivity Tips from Seniors](https://dev.to/dhruvjoshi9/top-20-very-unique-and-rare-developer-productivity-tips-from-seniors-44nc)
-- [Nulls are equal in distinct but inequal in unique.](https://dev.to/nightbird07/nulls-are-equal-in-distinct-but-inequal-in-unique-52me)
-- [Why join me at HalfStack Vienna 2023](https://dev.to/bogomil/why-join-me-at-halfstack-vienna-2023-5pb)
-- [NumPy Tutorial #12: Array Sorting](https://dev.to/tech_plygrnd/numpy-tutorial-12-array-sorting-1ilb)
+- [Form Handling | React | Part 2 | Error Validation](https://dev.to/shubhamtiwari909/form-handling-react-part-2-error-validation-3hfp)
+- [How Much Does It Cost To Create Soulbound Token &lpar;SBT&rpar;?](https://dev.to/adelelara/how-much-does-it-cost-to-create-soulbound-token-sbt-1hob)
+- [How to Test HarperDB Custom Functions with Node Tap](https://dev.to/doabledanny/how-to-test-harperdb-custom-functions-with-node-tap-53hl)
+- [❤️6 open-source libraries you must contribute❤️](https://dev.to/idurar/6-open-source-libraries-you-must-contribute-pda)
 <!-- BLOG-POST-LIST:END -->
 
