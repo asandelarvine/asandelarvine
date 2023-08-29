@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Microservices with NestJS](https://dev.to/scofieldidehen/building-microservices-with-nestjs-4c2p)
+- [Understanding DBT &lpar;Data Build Tool&rpar;: An Introduction](https://dev.to/mage_ai/understanding-dbt-data-build-tool-an-introduction-1e43)
 - [An In-Depth Guide to Python Data Types](https://dev.to/scofieldidehen/an-in-depth-guide-to-python-data-types-2eaa)
 - [Programmers need to learn how to communicate](https://dev.to/ocean678/programmers-need-to-learn-how-to-communicate-1dbl)
-- [New dog is ready to rock](https://dev.to/indika_wimalasuriya/new-dog-is-ready-to-rock-doh)
-- [Open Source e Software Livre: conheça e entenda de uma vez por todas o que cada um significa](https://dev.to/he4rt/open-source-e-software-livre-conheca-e-entenda-de-uma-vez-por-todas-o-que-cada-um-significa-15in)
 <!-- BLOG-POST-LIST:END -->
 
