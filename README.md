@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Divide &amp; Conquer &lpar;Grokking Algorithms&rpar;](https://dev.to/bhavkushwaha/divide-conquer-grokking-algorithms-7gi)
+- [Introducing JavaScript&#39;s new &quot;using&quot; Keyword &lpar;for Variables&rpar;](https://dev.to/ubahthebuilder/introducing-javascripts-new-using-keyword-for-variables-1o2i)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-194)
 - [Avoid Smart Contract Hacks with Fuzz Testing](https://dev.to/mbogan/avoid-smart-contract-hacks-with-fuzz-testing-1a3a)
-- [Leet Code — 2315. Count Asterisks](https://dev.to/bendlmp/leet-code-2315-count-asterisks-1bfl)
-- [The Art of Understanding Before Coding](https://dev.to/vit0rr/the-art-of-understanding-before-coding-40g1)
 <!-- BLOG-POST-LIST:END -->
 
