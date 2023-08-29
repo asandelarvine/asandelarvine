@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Microservices with NestJS](https://dev.to/scofieldidehen/building-microservices-with-nestjs-4c2p)
-- [Understanding DBT &lpar;Data Build Tool&rpar;: An Introduction](https://dev.to/mage_ai/understanding-dbt-data-build-tool-an-introduction-1e43)
-- [An In-Depth Guide to Python Data Types](https://dev.to/scofieldidehen/an-in-depth-guide-to-python-data-types-2eaa)
-- [Programmers need to learn how to communicate](https://dev.to/ocean678/programmers-need-to-learn-how-to-communicate-1dbl)
+- [SQL VS NOSQL](https://dev.to/hasanelsherbiny/sql-vs-nosql-875)
+- [Overcoming Coding Roadblocks: How Can the DEV Community Help?](https://dev.to/codenewbieteam/overcoming-coding-roadblocks-how-can-the-dev-community-help-3mfd)
+- [If You Switched Languages, Which Would You Choose?](https://dev.to/devteam/if-you-switched-languages-which-would-you-choose-gfd)
+- [What&#39;s Your Most Intriguing Coding Puzzle?](https://dev.to/codenewbieteam/whats-your-most-intriguing-coding-puzzle-2k2a)
 <!-- BLOG-POST-LIST:END -->
 
