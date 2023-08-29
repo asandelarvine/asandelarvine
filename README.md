@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers need to learn how to communicate](https://dev.to/ocean678/programmers-need-to-learn-how-to-communicate-1dbl)
 - [New dog is ready to rock](https://dev.to/indika_wimalasuriya/new-dog-is-ready-to-rock-doh)
 - [Open Source e Software Livre: conheça e entenda de uma vez por todas o que cada um significa](https://dev.to/he4rt/open-source-e-software-livre-conheca-e-entenda-de-uma-vez-por-todas-o-que-cada-um-significa-15in)
 - [How I moved from React to Svelte](https://dev.to/kedzior_io/how-i-moved-from-react-to-svelte-gdi)
-- [How to get Sponsored by DigitalOcean for Your Open Source Project](https://dev.to/idurar/how-to-get-sponsored-by-digitalocean-for-your-open-source-project-5370)
 <!-- BLOG-POST-LIST:END -->
 
