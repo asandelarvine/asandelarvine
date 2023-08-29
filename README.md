@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why join me at HalfStack Vienna 2023](https://dev.to/bogomil/why-join-me-at-halfstack-vienna-2023-5pb)
+- [NumPy Tutorial #12: Array Sorting](https://dev.to/tech_plygrnd/numpy-tutorial-12-array-sorting-1ilb)
 - [What&#39;s new in LiveG OS V0.2.0: multiplatform support and plenty more](https://dev.to/liveg/whats-new-in-liveg-os-v020-multiplatform-support-and-plenty-more-14e0)
 - [Understanding Closures](https://dev.to/bupd/understanding-closures-1mm9)
-- [The Terror of Mongolia JS13k Post-mortem &lpar;part 1&rpar;](https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-1-33a4)
-- [Enabling Dark Mode in React.js with SCSS Modules 🌙](https://dev.to/0ro/enabling-dark-mode-in-reactjs-with-scss-modules-2mm0)
 <!-- BLOG-POST-LIST:END -->
 
