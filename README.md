@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build Custom, Reusable Web Components From Scratch](https://dev.to/ubahthebuilder/how-to-build-custom-reusable-web-components-from-scratch-fbn)
 - [5 types of fonts](https://dev.to/stokry/5-types-of-fonts-5d20)
+- [Getting Started with Angular: A Step-by-Step Guide](https://dev.to/doctdev/getting-started-with-angular-a-step-by-step-guide-3bce)
 - [💡From Idea to Exit: Building and Selling an AI-powered SaaS in 5 Months 🤖💰](https://dev.to/wasp/from-idea-to-exit-building-and-selling-an-ai-powered-saas-in-5-months-27d9)
-- [How To Use the New CSS Anchor Feature for Popovers](https://dev.to/ubahthebuilder/how-to-use-the-new-css-anchor-feature-for-popovers-aj)
-- [Fundamentals of the Internet 🌐: The Basics 📚](https://dev.to/arjuncodess/fundamentals-of-the-internet-the-basics-1hpp)
 <!-- BLOG-POST-LIST:END -->
 
