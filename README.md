@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handle Stripe events in 2 minutes with Sailhouse](https://dev.to/estephinson/handle-stripe-events-in-2-minutes-with-sailhouse-3moo)
 - [React Custom Hook: useTimeout](https://dev.to/sergeyleschev/react-custom-hook-usetimeout-41k)
 - [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9)
 - [Named Arguments in JavaScript: Cleaner Code with Destructuring](https://dev.to/joelnbl/named-arguments-in-javascript-cleaner-code-with-destructuring-329m)
-- [#DEVDiscuss: Marketing for Developers](https://dev.to/devteam/devdiscuss-5504)
 <!-- BLOG-POST-LIST:END -->
 
