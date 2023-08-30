@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Concurrency in Go &lpar;Golang&rpar;](https://dev.to/diwakarkashyap/concurrency-in-go-golang-3l1h)
 - [Connect your Anvil apps to GitHub](https://dev.to/anvil/connect-your-anvil-apps-to-github-5dm)
 - [AWS Project: Architecting a Secure and Scalable Network with AWS VPCs and Subnets](https://dev.to/brandondamue/aws-project-architecting-a-secure-and-scalable-network-with-aws-vpcs-and-subnets-1174)
 - [Basic Python: 12. Python File Handling](https://dev.to/akashsingh3031/basic-python-12-python-file-handling-1cjn)
-- [Basic Python: 11. Python Modules and Packages](https://dev.to/akashsingh3031/basic-python-11-python-modules-and-packages-26el)
 <!-- BLOG-POST-LIST:END -->
 
