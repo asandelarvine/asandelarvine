@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [19 Developer Tools to Improve Your Workflow ⚡🚀](https://dev.to/madza/19-developer-tools-to-improve-your-workflow-2md)
+- [🔥🚀 Unmasking the 10 Sins of Merge Requests! 🚀🔥](https://dev.to/apetryla/unmasking-the-10-sins-of-merge-requests-1ld5)
+- [Serving Frontends in Microservices Architecture](https://dev.to/amplication/serving-frontends-in-microservices-architecture-4p61)
 - [MySQL Basic Queries: A Beginner’s Guide](https://dev.to/softwaretechit/mysql-basic-queries-a-beginners-guide-2oen)
-- [Prompt Engineering is Programming](https://dev.to/polterguy/prompt-engineering-is-programming-4052)
-- [What Would You Change about You Career?](https://dev.to/codenewbieteam/what-would-you-change-about-you-career-2jaa)
-- [What&#39;s Your Current Project&#39;s Elevator Pitch?](https://dev.to/devteam/whats-your-current-projects-elevator-pitch-527l)
 <!-- BLOG-POST-LIST:END -->
 
