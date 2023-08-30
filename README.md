@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source and Git Glossary](https://dev.to/adiatiayu/open-source-and-git-glossary-mn2)
-- [Regular Expressions Cheat Sheet PART - 1](https://dev.to/burakboduroglu/regular-expressions-cheat-sheet-part-1-1eml)
-- [Top 10 Flutter Libraries and Frameworks to Speed Up Your Development](https://dev.to/yatendra2001/top-10-flutter-libraries-and-frameworks-to-speed-up-your-development-4h1e)
-- [What Inspired You To Became A Coder? 🤔](https://dev.to/soumyadeepdey/what-inspired-you-to-became-a-coder-4cpc)
+- [React Custom Hook: useTimeout](https://dev.to/sergeyleschev/react-custom-hook-usetimeout-41k)
+- [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9)
+- [Named Arguments in JavaScript: Cleaner Code with Destructuring](https://dev.to/joelnbl/named-arguments-in-javascript-cleaner-code-with-destructuring-329m)
+- [#DEVDiscuss: Marketing for Developers](https://dev.to/devteam/devdiscuss-5504)
 <!-- BLOG-POST-LIST:END -->
 
