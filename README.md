@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Tailwind CSS with Svelte](https://dev.to/alakkadshaw/how-to-use-tailwind-css-with-svelte-1an1)
 - [Introduction to Rails API: How to Create Your First Endpoint in Less Than a Minute?](https://dev.to/vladhilko/introduction-to-rails-api-how-to-create-your-first-endpoint-in-less-than-a-minute-4l66)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-33i3)
 - [Unlocking Web Accessibility with Semantic HTML Elements; Beyond Design and Presentation](https://dev.to/vayolapradeep/unlocking-web-accessibility-with-semantic-html-elements-beyond-design-and-presentation-5ahg)
-- [One staging for each engineer: introducing Layerform](https://dev.to/lucasfcosta/one-staging-for-each-engineer-introducing-layerform-5bc5)
 <!-- BLOG-POST-LIST:END -->
 
