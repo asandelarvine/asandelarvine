@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Beautiful CRUD App with Spring Boot and Angular](https://dev.to/oktadev/build-a-beautiful-crud-app-with-spring-boot-and-angular-3ig6)
+- [How to Retrieve Travel Time with React Native Maps Directions](https://dev.to/yanagisawahidetoshi/how-to-retrieve-travel-time-with-react-native-maps-directions-5hh5)
 - [How to use Tailwind CSS with Svelte](https://dev.to/alakkadshaw/how-to-use-tailwind-css-with-svelte-1an1)
-- [Introduction to Rails API: How to Create Your First Endpoint in Less Than a Minute?](https://dev.to/vladhilko/introduction-to-rails-api-how-to-create-your-first-endpoint-in-less-than-a-minute-4l66)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-33i3)
-- [Unlocking Web Accessibility with Semantic HTML Elements; Beyond Design and Presentation](https://dev.to/vayolapradeep/unlocking-web-accessibility-with-semantic-html-elements-beyond-design-and-presentation-5ahg)
+- [Evolutionary Recommender Design with Amazon Personalize](https://dev.to/aws-heroes/evolutionary-recommender-design-with-amazon-personalize-3730)
 <!-- BLOG-POST-LIST:END -->
 
