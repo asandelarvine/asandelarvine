@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source and Git Glossary](https://dev.to/adiatiayu/open-source-and-git-glossary-mn2)
+- [Regular Expressions Cheat Sheet PART - 1](https://dev.to/burakboduroglu/regular-expressions-cheat-sheet-part-1-1eml)
 - [Top 10 Flutter Libraries and Frameworks to Speed Up Your Development](https://dev.to/yatendra2001/top-10-flutter-libraries-and-frameworks-to-speed-up-your-development-4h1e)
 - [What Inspired You To Became A Coder? 🤔](https://dev.to/soumyadeepdey/what-inspired-you-to-became-a-coder-4cpc)
-- [Qakbot: Understand how Ransomware works](https://dev.to/scofieldidehen/qakbot-understand-how-ransomware-works-4p26)
-- [Why Every Developer Should Understand Basic UX Principles](https://dev.to/inovak/why-every-developer-should-understand-basic-ux-principles-1pdp)
 <!-- BLOG-POST-LIST:END -->
 
