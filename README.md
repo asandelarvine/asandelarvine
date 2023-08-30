@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data structures and algorithms for multi-language programmers: C++, Swift, Python, Java, C#, JavaSCript.](https://dev.to/khaledhosseini/data-structures-and-algorithms-for-multi-language-programmers-c-swift-python-java-c-javascript-alp)
+- [🛡️The Ultimate Defense: Introduction to Spring Security 🔐](https://dev.to/safvan_8/the-ultimate-defense-introduction-to-spring-security-9de)
 - [Build a Beautiful CRUD App with Spring Boot and Angular](https://dev.to/oktadev/build-a-beautiful-crud-app-with-spring-boot-and-angular-3ig6)
-- [How to Retrieve Travel Time with React Native Maps Directions](https://dev.to/yanagisawahidetoshi/how-to-retrieve-travel-time-with-react-native-maps-directions-5hh5)
-- [How to use Tailwind CSS with Svelte](https://dev.to/alakkadshaw/how-to-use-tailwind-css-with-svelte-1an1)
-- [Evolutionary Recommender Design with Amazon Personalize](https://dev.to/aws-heroes/evolutionary-recommender-design-with-amazon-personalize-3730)
+- [How to implement SSL/TLS pinning in Node.js](https://dev.to/snyk/how-to-implement-ssltls-pinning-in-nodejs-4f1a)
 <!-- BLOG-POST-LIST:END -->
 
