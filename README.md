@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [IT, CS, SE, AI, and All Tech Students: 180+ Final Year Project Topics](https://dev.to/durgesh4993/top-10-ai-projects-supercharge-your-resume-with-in-july-2023--55f6)
 - [Data structures and algorithms for multi-language programmers: C++, Swift, Python, Java, C#, JavaSCript.](https://dev.to/khaledhosseini/data-structures-and-algorithms-for-multi-language-programmers-c-swift-python-java-c-javascript-alp)
 - [🛡️The Ultimate Defense: Introduction to Spring Security 🔐](https://dev.to/safvan_8/the-ultimate-defense-introduction-to-spring-security-9de)
 - [Build a Beautiful CRUD App with Spring Boot and Angular](https://dev.to/oktadev/build-a-beautiful-crud-app-with-spring-boot-and-angular-3ig6)
-- [How to implement SSL/TLS pinning in Node.js](https://dev.to/snyk/how-to-implement-ssltls-pinning-in-nodejs-4f1a)
 <!-- BLOG-POST-LIST:END -->
 
