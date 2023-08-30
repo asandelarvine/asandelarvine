@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your Current Project&#39;s Elevator Pitch?](https://dev.to/devteam/whats-your-current-projects-elevator-pitch-527l)
+- [What Would You Change about You Career?](https://dev.to/codenewbieteam/what-would-you-change-about-you-career-2jaa)
 - [Uidai Appointment, Aadhar Service kendra, Online Appointment, Full Details](https://dev.to/aadharc28797652/uidai-appointment-aadhar-service-kendra-online-appointment-full-details-513i)
 - [A Beginner’s Guide to Building LLM-Powered Applications with LangChain!](https://dev.to/pavanbelagatti/a-beginners-guide-to-building-llm-powered-applications-with-langchain-2d6e)
-- [What is a Programming Language?](https://dev.to/aswin2001barath/what-is-a-programming-language-43na)
-- [Step-by-Step Guide: Installing React.js on Ubuntu](https://dev.to/vidvatek/step-by-step-guide-installing-reactjs-on-ubuntu-582e)
 <!-- BLOG-POST-LIST:END -->
 
