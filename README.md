@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your Current Project&#39;s Elevator Pitch?](https://dev.to/devteam/whats-your-current-projects-elevator-pitch-527l)
+- [MySQL Basic Queries: A Beginner’s Guide](https://dev.to/softwaretechit/mysql-basic-queries-a-beginners-guide-2oen)
+- [Prompt Engineering is Programming](https://dev.to/polterguy/prompt-engineering-is-programming-4052)
 - [What Would You Change about You Career?](https://dev.to/codenewbieteam/what-would-you-change-about-you-career-2jaa)
-- [Uidai Appointment, Aadhar Service kendra, Online Appointment, Full Details](https://dev.to/aadharc28797652/uidai-appointment-aadhar-service-kendra-online-appointment-full-details-513i)
-- [A Beginner’s Guide to Building LLM-Powered Applications with LangChain!](https://dev.to/pavanbelagatti/a-beginners-guide-to-building-llm-powered-applications-with-langchain-2d6e)
+- [What&#39;s Your Current Project&#39;s Elevator Pitch?](https://dev.to/devteam/whats-your-current-projects-elevator-pitch-527l)
 <!-- BLOG-POST-LIST:END -->
 
