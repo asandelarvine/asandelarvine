@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to migrate Apache Solr from the existing cluster to Amazon EKS](https://dev.to/haintkit/how-to-migrate-apache-solr-from-the-existing-cluster-to-amazon-eks-3b3l)
+- [DynamoDB Streams EventBridge Pipes Enrichment](https://dev.to/aws-builders/dynamodb-streams-eventbridge-pipes-enrichment-bl4)
 - [Mastering Event Debouncing in JavaScript: A Guide with Practical Example](https://dev.to/anjankarmakar/mastering-event-debouncing-in-javascript-a-guide-with-practical-example-19oe)
 - [[ptbr] Entendendo programação reativa e imperativa com Naruto.](https://dev.to/dellamas/entendendo-programacao-reativa-e-imperativa-com-naruto-2lde)
-- [CSS Style Queries](https://dev.to/creatures-dev/css-style-queries-5i)
-- [CSS Container Queries](https://dev.to/creatures-dev/css-container-queries-1idj)
 <!-- BLOG-POST-LIST:END -->
 
