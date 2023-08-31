@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependency injection in action filters in ASP.NET Core](https://dev.to/ifourtechnolab/dependency-injection-in-action-filters-in-aspnet-core-2692)
+- [Send your logs to Loki](https://dev.to/nfrankel/send-your-logs-to-loki-2ko3)
+- [Python Cheat Sheet for Data Engineers and Data Scientists!](https://dev.to/pavanbelagatti/python-cheat-sheet-for-data-engineers-and-data-scientists-3emj)
 - [Laravel101: A Practical Guide for Seeders and Factories](https://dev.to/kazemmdev/laravel101-a-practical-guide-for-seeders-and-factories-535b)
-- [Accessibility Tips for Frontend Engineers](https://dev.to/domantasjurkus/accessibility-tips-for-frontend-engineers-4j8o)
-- [The Impact of Social Engineering Attacks: Strategies for Prevention and Awareness](https://dev.to/borisgigovic/the-impact-of-social-engineering-attacks-strategies-for-prevention-and-awareness-1bkh)
-- [Balancing Personal Growth and Work-Life Harmony in the Tech Industry](https://dev.to/ashevelyov/balancing-personal-growth-and-work-life-harmony-in-the-tech-industry-13ja)
 <!-- BLOG-POST-LIST:END -->
 
