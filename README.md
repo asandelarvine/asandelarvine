@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛑 Stop adding ESlint to an existing project Incorrectly🛑](https://dev.to/borysshulyak/stop-adding-eslint-to-an-existing-project-incorrectly-3p2n)
-- [Learn serverless on AWS step-by-step - DynamoDB Streams](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-dynamodb-streams-21g5)
-- [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
-- [Adding sound wave overlays to videos and pictures using FFMPEG](https://dev.to/codepo8/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg-2mg2)
+- [Setting up VS Code for C# development](https://dev.to/this-is-learning/setting-up-vs-code-for-c-development-21do)
+- [Ubuntu Sistemlerde Disk boyutunu artırma - lvextend ve resize2fs kullanımı](https://dev.to/aciklab/ubuntu-sistemlerde-disk-boyutunu-artirma-lvextend-ve-resize2fs-kullanimi-kik)
+- [How to model a following system similar to Twitter and Instagram with Python and Django](https://dev.to/uhttred/how-to-model-a-following-system-similar-to-twitter-and-instagram-with-python-and-django-3d9h)
+- [Form Handling | React | Part 3 | Components](https://dev.to/shubhamtiwari909/form-handling-react-part-3-components-5a9m)
 <!-- BLOG-POST-LIST:END -->
 
