@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🛑 Stop adding ESlint to an existing project Incorrectly🛑](https://dev.to/borysshulyak/stop-adding-eslint-to-an-existing-project-incorrectly-3p2n)
+- [Learn serverless on AWS step-by-step - DynamoDB Streams](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-dynamodb-streams-21g5)
+- [How To Make a Delicious Contributing Guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
 - [Adding sound wave overlays to videos and pictures using FFMPEG](https://dev.to/codepo8/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg-2mg2)
-- [The Unseen Forces Shaping Your Work-Life Balance](https://dev.to/riteshscloud/the-unseen-forces-shaping-your-work-life-balance-1ihp)
-- [Introducing Appwrite Migrations: Effortless data migration from your platforms](https://dev.to/appwrite/introducing-appwrite-migrations-effortless-data-migration-from-your-platforms-5dhh)
-- [How to build a full-stack authentication app](https://dev.to/apisix/how-to-build-a-full-stack-authentication-app-1cp0)
 <!-- BLOG-POST-LIST:END -->
 
