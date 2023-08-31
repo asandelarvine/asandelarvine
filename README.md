@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Hoppscotch Enterprise Edition and a plethora of features - The Hoppscotch August 2023 Release You Can&#39;t Miss!](https://dev.to/hoppscotch/introducing-hoppscotch-enterprise-edition-and-a-plethora-of-features-the-hoppscotch-august-2023-release-you-cant-miss-hcg)
 - [Dependency injection in action filters in ASP.NET Core](https://dev.to/ifourtechnolab/dependency-injection-in-action-filters-in-aspnet-core-2692)
 - [Send your logs to Loki](https://dev.to/nfrankel/send-your-logs-to-loki-2ko3)
 - [Python Cheat Sheet for Data Engineers and Data Scientists!](https://dev.to/pavanbelagatti/python-cheat-sheet-for-data-engineers-and-data-scientists-3emj)
-- [Laravel101: A Practical Guide for Seeders and Factories](https://dev.to/kazemmdev/laravel101-a-practical-guide-for-seeders-and-factories-535b)
 <!-- BLOG-POST-LIST:END -->
 
