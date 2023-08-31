@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Muhammad Bilal: A Technical Visionary and Expert in Enterprise IT Solutions](https://dev.to/muhammadbilal/muhammad-bilal-a-technical-visionary-and-expert-in-enterprise-it-solutions-nkc)
+- [10 Best Dark Mode Extensions for Google Chrome in 2023](https://dev.to/devgauravjatt/10-best-dark-mode-extensions-for-google-chrome-in-2023-3f7i)
+- [Type Casting with TypeScript: A tutorial](https://dev.to/alakkadshaw/type-casting-with-typescript-a-tutorial-cg9)
 - [Trust Summit 2024](https://dev.to/volobuevalex/trust-summit-2024-4lap)
-- [Handle Stripe events in 2 minutes with Sailhouse](https://dev.to/estephinson/handle-stripe-events-in-2-minutes-with-sailhouse-3moo)
-- [React Custom Hook: useTimeout](https://dev.to/sergeyleschev/react-custom-hook-usetimeout-41k)
-- [Every Project Deserves its CI/CD pipeline, no matter how small](https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9)
 <!-- BLOG-POST-LIST:END -->
 
