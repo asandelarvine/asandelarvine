@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding sound wave overlays to videos and pictures using FFMPEG](https://dev.to/codepo8/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg-2mg2)
+- [The Unseen Forces Shaping Your Work-Life Balance](https://dev.to/riteshscloud/the-unseen-forces-shaping-your-work-life-balance-1ihp)
 - [Introducing Appwrite Migrations: Effortless data migration from your platforms](https://dev.to/appwrite/introducing-appwrite-migrations-effortless-data-migration-from-your-platforms-5dhh)
 - [How to build a full-stack authentication app](https://dev.to/apisix/how-to-build-a-full-stack-authentication-app-1cp0)
-- [Computer Networking - part2](https://dev.to/keerthan0521/computer-networking-part-2-7ae)
-- [Introducing Hoppscotch Enterprise Edition and a plethora of features - The Hoppscotch August 2023 Release You Can&#39;t Miss!](https://dev.to/hoppscotch/introducing-hoppscotch-enterprise-edition-and-a-plethora-of-features-the-hoppscotch-august-2023-release-you-cant-miss-hcg)
 <!-- BLOG-POST-LIST:END -->
 
