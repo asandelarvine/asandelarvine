@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DATA STORAGE ON AWS](https://dev.to/aws-builders/data-storage-on-aws-4kh6)
-- [How to migrate Apache Solr from the existing cluster to Amazon EKS](https://dev.to/haintkit/how-to-migrate-apache-solr-from-the-existing-cluster-to-amazon-eks-3b3l)
-- [DynamoDB Streams EventBridge Pipes Enrichment](https://dev.to/aws-builders/dynamodb-streams-eventbridge-pipes-enrichment-bl4)
-- [Did NFT Impact The Growth of Web3 Negatively?](https://dev.to/scofieldidehen/did-nft-impact-the-growth-of-web3-negatively-3oll)
+- [How Many Hours Do You Work in a Week?](https://dev.to/codenewbieteam/how-many-hours-do-you-work-in-a-week-f14)
+- [Post an Elegant Code Snippet You Love.](https://dev.to/devteam/post-an-elegant-code-snippet-you-love-2mne)
+- [Save Data to Kintone with an ESP8266](https://dev.to/kintonedevprogram/save-data-to-kintone-with-an-esp8266-2f7a)
+- [Ubuntu Repolardan SSL kontrolünü kaldırma](https://dev.to/aciklab/ubuntu-repolardan-ssl-kontrolunu-kaldirma-4p5f)
 <!-- BLOG-POST-LIST:END -->
 
