@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Headless CMS: a Visual Guide](https://dev.to/builderio/what-is-a-headless-cms-a-visual-guide-3b5i)
 - [Design System para pessoas desenvolvedoras](https://dev.to/lixeletto/design-system-para-pessoas-desenvolvedoras-282g)
 - [Reduce SMS costs with passkeys](https://dev.to/corbado/reduce-sms-costs-with-passkeys-1e0)
 - [🧘 A Deep Work Guide to Programming in The Zone](https://dev.to/evergrowingdev/a-deep-work-guide-to-programming-in-the-zone-3872)
-- [9 Best Tools to Make Infographics in 2023](https://dev.to/amitkakkar/9-best-tools-to-make-infographics-in-2023-2gjb)
 <!-- BLOG-POST-LIST:END -->
 
