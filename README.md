@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Headless CMS: a Visual Guide](https://dev.to/builderio/what-is-a-headless-cms-a-visual-guide-3b5i)
-- [Design System para pessoas desenvolvedoras](https://dev.to/lixeletto/design-system-para-pessoas-desenvolvedoras-282g)
-- [Reduce SMS costs with passkeys](https://dev.to/corbado/reduce-sms-costs-with-passkeys-1e0)
-- [🧘 A Deep Work Guide to Programming in The Zone](https://dev.to/evergrowingdev/a-deep-work-guide-to-programming-in-the-zone-3872)
+- [DAY 89 - Kadane&#39;s Algorithm](https://dev.to/pahujanayan/day-89-kadanes-algorithm-474f)
+- [New input binding for NgComponentOutlet](https://dev.to/this-is-angular/new-input-binding-for-ngcomponentoutlet-c0g)
+- [Objects in JavaScript: A Comprehensive Look](https://dev.to/akinnimimanuel/objects-in-javascript-a-comprehensive-look-2ikf)
+- [📜 Length of String in TypeScript](https://dev.to/0ro/length-of-string-in-typescript-4p15)
 <!-- BLOG-POST-LIST:END -->
 
