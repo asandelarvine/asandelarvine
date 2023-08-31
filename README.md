@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use just to manage Rust project commands](https://dev.to/nazmulidris/use-just-to-manage-rust-project-commands-56cp)
+- [The Communication Shortcomings of Programmers](https://dev.to/bytebodger/the-communication-shortcomings-of-programmers-4ej0)
 - [DAY 89 - Kadane&#39;s Algorithm](https://dev.to/pahujanayan/day-89-kadanes-algorithm-474f)
 - [New input binding for NgComponentOutlet](https://dev.to/this-is-angular/new-input-binding-for-ngcomponentoutlet-c0g)
-- [Objects in JavaScript: A Comprehensive Look](https://dev.to/akinnimimanuel/objects-in-javascript-a-comprehensive-look-2ikf)
-- [📜 Length of String in TypeScript](https://dev.to/0ro/length-of-string-in-typescript-4p15)
 <!-- BLOG-POST-LIST:END -->
 
