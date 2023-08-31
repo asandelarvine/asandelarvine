@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Hours Do You Work in a Week?](https://dev.to/codenewbieteam/how-many-hours-do-you-work-in-a-week-f14)
-- [Post an Elegant Code Snippet You Love.](https://dev.to/devteam/post-an-elegant-code-snippet-you-love-2mne)
-- [Save Data to Kintone with an ESP8266](https://dev.to/kintonedevprogram/save-data-to-kintone-with-an-esp8266-2f7a)
-- [Ubuntu Repolardan SSL kontrolünü kaldırma](https://dev.to/aciklab/ubuntu-repolardan-ssl-kontrolunu-kaldirma-4p5f)
+- [Laravel101: A Practical Guide for Seeders and Factories](https://dev.to/kazemmdev/laravel101-a-practical-guide-for-seeders-and-factories-535b)
+- [Accessibility Tips for Frontend Engineers](https://dev.to/domantasjurkus/accessibility-tips-for-frontend-engineers-4j8o)
+- [The Impact of Social Engineering Attacks: Strategies for Prevention and Awareness](https://dev.to/borisgigovic/the-impact-of-social-engineering-attacks-strategies-for-prevention-and-awareness-1bkh)
+- [Balancing Personal Growth and Work-Life Harmony in the Tech Industry](https://dev.to/ashevelyov/balancing-personal-growth-and-work-life-harmony-in-the-tech-industry-13ja)
 <!-- BLOG-POST-LIST:END -->
 
