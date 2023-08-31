@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Journey: African Folktales App - Where AI Meets Culture 🌍📚](https://dev.to/cypriantinasheaarons/unveiling-the-journey-african-folktales-app-where-ai-meets-culture-1kn2)
-- [The useEffect Conversations we Shouldn&#39;t be Having Anymore](https://dev.to/ghamadi/the-useeffect-conversations-we-shouldnt-be-having-anymore-15b8)
-- [Build A Full-Stack Typescript Application with Nuxt and tRPC](https://dev.to/aaronksaunders/build-a-full-stack-typescript-application-with-nuxt-and-trpc-4gag)
-- [Setup your NextJS app](https://dev.to/noblica/setup-your-nextjs-app-35io)
+- [Design System para pessoas desenvolvedoras](https://dev.to/lixeletto/design-system-para-pessoas-desenvolvedoras-282g)
+- [Reduce SMS costs with passkeys](https://dev.to/corbado/reduce-sms-costs-with-passkeys-1e0)
+- [🧘 A Deep Work Guide to Programming in The Zone](https://dev.to/evergrowingdev/a-deep-work-guide-to-programming-in-the-zone-3872)
+- [9 Best Tools to Make Infographics in 2023](https://dev.to/amitkakkar/9-best-tools-to-make-infographics-in-2023-2gjb)
 <!-- BLOG-POST-LIST:END -->
 
