@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Embracing Change for Professional Growth 🌟](https://dev.to/apetryla/embracing-change-for-professional-growth-4blf)
+- [🩰 Scheduling automated tests](https://dev.to/ruthmoog/scheduling-automated-tests-3p4l)
 - [Exploring managed IT services: Types, benefits &amp; challenges](https://dev.to/abtosoftware/exploring-managed-it-services-types-benefits-challenges-4an5)
 - [🤘🤓🤘 Join Formbricks! &lpar;Senior&rpar; Full-Stack Engineer needed 🤘🤓🤘](https://dev.to/jobenjada/join-formbricks-senior-full-stack-engineer-needed-4g6b)
-- [OpenStack Sflow Entegrasyonu Openvswitch](https://dev.to/aciklab/openstack-sflow-entegrasyonu-openvswitch-gld)
-- [OpenStack Keystone LDAP Konfigürasyonu](https://dev.to/dogukaneren/openstack-keystone-ldap-konfigurasyonu-3l4h)
 <!-- BLOG-POST-LIST:END -->
 
