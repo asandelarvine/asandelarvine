@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The difference between functional testing and non-functional testing with example](https://dev.to/saravana_kumar_22/the-difference-between-functional-testing-and-non-functional-testing-with-example-2h5a)
+- [12 Best Practices to ABSOLUTELY Destroy your Codebase! 🧨](https://dev.to/rubycademy/12-best-practices-to-absolutely-destroy-you-codebase-57b)
+- [Side Projects as Learning Tools: How I learn new tech](https://dev.to/parth_codes/side-projects-as-learning-tools-how-i-learn-new-tech-3ag2)
 - [Clocks &amp; Countdowns: Timing in CSS and JavaScript](https://dev.to/madsstoumann/clocks-countdowns-timing-in-css-and-javascript-554n)
-- [Fluent Validation or Data Annotations in C# – Which Is Better?](https://dev.to/bytehide/fluent-validation-or-data-annotations-in-c-which-is-better-1302)
-- [The 5 Pillars for taking LLM to production](https://dev.to/pezzo/the-5-pillars-for-taking-llm-to-production-1olg)
-- [The CIA hacking arsenal. Here’s what you need to know.](https://dev.to/scofieldidehen/the-cia-hacking-arsenal-heres-what-you-need-to-know-3kjg)
 <!-- BLOG-POST-LIST:END -->
 
