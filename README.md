@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring managed IT services: Types, benefits &amp; challenges](https://dev.to/abtosoftware/exploring-managed-it-services-types-benefits-challenges-4an5)
+- [🤘🤓🤘 Join Formbricks! &lpar;Senior&rpar; Full-Stack Engineer needed 🤘🤓🤘](https://dev.to/jobenjada/join-formbricks-senior-full-stack-engineer-needed-4g6b)
+- [OpenStack Sflow Entegrasyonu Openvswitch](https://dev.to/aciklab/openstack-sflow-entegrasyonu-openvswitch-gld)
 - [OpenStack Keystone LDAP Konfigürasyonu](https://dev.to/dogukaneren/openstack-keystone-ldap-konfigurasyonu-3l4h)
-- [How Much Freedom Do You Have in Shaping Your Coding Projects?](https://dev.to/codenewbieteam/how-much-freedom-do-you-have-in-shaping-your-coding-projects-3p1)
-- [Describe Your Unique Project Feature with Emojis!](https://dev.to/devteam/describe-your-unique-project-feature-with-emojis-d7d)
-- [Explained in 2023: 10 of the Most Popular Machine Learning Algorithms](https://dev.to/durgesh4993/explained-in-2023-10-of-the-most-popular-machine-learning-algorithms-4jbl)
 <!-- BLOG-POST-LIST:END -->
 
