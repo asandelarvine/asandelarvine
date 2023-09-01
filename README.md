@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Communication 101: A Guide to Different Types of Business Conversations](https://dev.to/knoledge/communication-101-a-guide-to-different-types-of-business-conversations-3eol)
 - [🌟 Embracing Change for Professional Growth 🌟](https://dev.to/apetryla/embracing-change-for-professional-growth-4blf)
-- [🩰 Scheduling automated tests](https://dev.to/ruthmoog/scheduling-automated-tests-3p4l)
-- [Exploring managed IT services: Types, benefits &amp; challenges](https://dev.to/abtosoftware/exploring-managed-it-services-types-benefits-challenges-4an5)
-- [🤘🤓🤘 Join Formbricks! &lpar;Senior&rpar; Full-Stack Engineer needed 🤘🤓🤘](https://dev.to/jobenjada/join-formbricks-senior-full-stack-engineer-needed-4g6b)
+- [🩰 Schedule automated tests; become premier ballet artiste](https://dev.to/ruthmoog/scheduling-automated-tests-3p4l)
+- [Handling Massive Fan-out with AWS Lambdas](https://dev.to/ably/handling-massive-fan-out-with-aws-lambdas-28cl)
 <!-- BLOG-POST-LIST:END -->
 
