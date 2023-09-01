@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you stay creative as a dev?](https://dev.to/svemaraju/how-do-you-stay-creative-as-a-dev-2gbg)
-- [cls3, Búsqueda y Eliminación Masiva de Buckets S3](https://dev.to/aws-espanol/cls3-busqueda-y-eliminacion-masiva-de-buckets-s3-1gb)
-- [Communication 101: A Guide to Different Types of Business Conversations](https://dev.to/knoledge/communication-101-a-guide-to-different-types-of-business-conversations-3eol)
-- [🌟 Embracing Change for Professional Growth 🌟](https://dev.to/apetryla/embracing-change-for-professional-growth-4blf)
+- [Clocks &amp; Countdowns: Timing in CSS and JavaScript](https://dev.to/madsstoumann/clocks-countdowns-timing-in-css-and-javascript-554n)
+- [Fluent Validation or Data Annotations in C# – Which Is Better?](https://dev.to/bytehide/fluent-validation-or-data-annotations-in-c-which-is-better-1302)
+- [The 5 Pillars for taking LLM to production](https://dev.to/pezzo/the-5-pillars-for-taking-llm-to-production-1olg)
+- [The CIA hacking arsenal. Here’s what you need to know.](https://dev.to/scofieldidehen/the-cia-hacking-arsenal-heres-what-you-need-to-know-3kjg)
 <!-- BLOG-POST-LIST:END -->
 
