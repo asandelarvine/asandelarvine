@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ExpressoTS vs Nest vs Expressjs vs Fastify &lpar;Benchmark&rpar;](https://dev.to/expressots/expressots-vs-nest-vs-expressjs-vs-fastify-benchmark-5d17)
+- [Exploring lesser-known React hooks and their importance](https://dev.to/gbadeboife/exploring-lesser-known-react-hooks-and-their-importance-i0l)
+- [Hide &amp; Seek Content multiple places in same page](https://dev.to/dev_sagar_lakshkar/hide-seek-content-multiple-places-in-same-page-3bhi)
 - [Manual testing, Benefits and drawbacks of manual testing and also a example](https://dev.to/saravana_kumar_22/manual-testing-benefits-and-drawbacks-of-manual-testing-and-also-a-example-46b2)
-- [Small Details to Improve Your Website&#39;s Experience](https://dev.to/alvaromontoro/small-details-to-improve-your-websites-experience-hio)
-- [CSS moderno: Media Queries Range Syntax 😎](https://dev.to/duxtech/media-queries-range-syntax-1o2l)
-- [Devuan Upgrade: 4 to 5 Daedalus](https://dev.to/nabbisen/devuan-upgrade-4-to-5-daedalus-1n0k)
 <!-- BLOG-POST-LIST:END -->
 
