@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 🥳🎉 2 year](https://dev.to/samanmahmood/celebrating-2-year-2je9)
+- [Develop a Video Chat App with WebRTC, Socket.IO, Express and React.](https://dev.to/eyitayoitalt/develop-a-video-chat-app-with-webrtc-socketio-express-and-react-3jc4)
 - [What is DNS and CDN ?](https://dev.to/rajrathod/what-is-dns-and-cdn--3o38)
 - [Top Featured CodeNewbie Posts &lpar;8/30/23&rpar;](https://dev.to/codenewbieteam/top-featured-codenewbie-posts-83023-3hko)
-- [September Sparks: Ignite Creativity and Coding Joy! 🔥](https://dev.to/mitchiemt11/september-sparks-ignite-creativity-and-coding-joy-5146)
-- [All you need to know about Pass by Value and Pass by Reference](https://dev.to/devlawrence/all-you-need-to-know-about-pass-by-value-and-pass-by-reference-4mjn)
 <!-- BLOG-POST-LIST:END -->
 
