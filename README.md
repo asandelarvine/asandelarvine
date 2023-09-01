@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Manual testing, Benefits and drawbacks of manual testing and also a example](https://dev.to/saravana_kumar_22/manual-testing-benefits-and-drawbacks-of-manual-testing-and-also-a-example-46b2)
+- [Small Details to Improve Your Website&#39;s Experience](https://dev.to/alvaromontoro/small-details-to-improve-your-websites-experience-hio)
+- [CSS moderno: Media Queries Range Syntax 😎](https://dev.to/duxtech/media-queries-range-syntax-1o2l)
 - [Devuan Upgrade: 4 to 5 Daedalus](https://dev.to/nabbisen/devuan-upgrade-4-to-5-daedalus-1n0k)
-- [Day 38: Assertions](https://dev.to/dhrn/day-38-assertions-3da0)
-- [Becoming a F***ing developer](https://dev.to/mmvergara/becoming-a-fing-developer-2gkj)
-- [Taming the whale: introduction to Docker](https://dev.to/matfire/taming-the-whale-introduction-to-docker-2nb0)
 <!-- BLOG-POST-LIST:END -->
 
