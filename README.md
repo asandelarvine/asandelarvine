@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is DNS and CDN ?](https://dev.to/rajrathod/what-is-dns-and-cdn--3o38)
+- [September Sparks: Ignite Creativity and Coding Joy! 🔥](https://dev.to/mitchiemt11/september-sparks-ignite-creativity-and-coding-joy-5146)
 - [All you need to know about Pass by Value and Pass by Reference](https://dev.to/devlawrence/all-you-need-to-know-about-pass-by-value-and-pass-by-reference-4mjn)
 - [Crafting Your Personal Movie Bookmark Application using Next 13.4.13, Redux Toolkit, Firebase, and TypeScript](https://dev.to/thankgod/crafting-your-personal-movie-bookmark-application-using-next-13413-redux-toolkit-firebase-and-typescript-2dgj)
-- [Beginners guide to TailwindCSS !](https://dev.to/jeetvora331/beginners-guide-to-tailwindcss--5eni)
-- [Have you ever doubted if you are in the right field?: CodeNewbie Podcast](https://dev.to/codenewbieteam/have-you-ever-doubted-if-you-are-in-the-right-field-codenewbie-podcast-5ha1)
 <!-- BLOG-POST-LIST:END -->
 
