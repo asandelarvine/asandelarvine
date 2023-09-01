@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Tauri with Nuxt](https://dev.to/waradu/how-to-use-tauri-with-nuxt-18d9)
 - [Nobody knows how to estimate software projects](https://dev.to/0ro/nobody-knows-how-to-estimate-software-projects-2c94)
 - [Announcing Appwrite’s New .NET SDK](https://dev.to/appwrite/announcing-appwrites-new-net-sdk-5028)
 - [ExpressoTS vs Nest vs Expressjs vs Fastify &lpar;Benchmark&rpar;](https://dev.to/expressots/expressots-vs-nest-vs-expressjs-vs-fastify-benchmark-5d17)
-- [Exploring lesser-known React hooks and their importance](https://dev.to/gbadeboife/exploring-lesser-known-react-hooks-and-their-importance-i0l)
 <!-- BLOG-POST-LIST:END -->
 
