@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The difference between functional testing and non-functional testing with example](https://dev.to/saravana_kumar_22/the-difference-between-functional-testing-and-non-functional-testing-with-example-2h5a)
-- [12 Best Practices to ABSOLUTELY Destroy your Codebase! 🧨](https://dev.to/rubycademy/12-best-practices-to-absolutely-destroy-you-codebase-57b)
-- [Side Projects as Learning Tools: How I learn new tech](https://dev.to/parth_codes/side-projects-as-learning-tools-how-i-learn-new-tech-3ag2)
-- [Clocks &amp; Countdowns: Timing in CSS and JavaScript](https://dev.to/madsstoumann/clocks-countdowns-timing-in-css-and-javascript-554n)
+- [Habits &amp; Practices to Elevate Your Freelance Developer Career](https://dev.to/mikacodez/habits-practices-to-elevate-your-freelance-developer-career-5ff7)
+- [Getting Started with AWS Cloud](https://dev.to/zapeeosheikh/getting-started-with-aws-cloud-136p)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-14l1)
+- [Who&#39;s looking for open source contributors? &lpar;week 57&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-5t-43om)
 <!-- BLOG-POST-LIST:END -->
 
