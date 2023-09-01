@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you stay creative as a dev?](https://dev.to/svemaraju/how-do-you-stay-creative-as-a-dev-2gbg)
+- [cls3, Búsqueda y Eliminación Masiva de Buckets S3](https://dev.to/aws-espanol/cls3-busqueda-y-eliminacion-masiva-de-buckets-s3-1gb)
 - [Communication 101: A Guide to Different Types of Business Conversations](https://dev.to/knoledge/communication-101-a-guide-to-different-types-of-business-conversations-3eol)
 - [🌟 Embracing Change for Professional Growth 🌟](https://dev.to/apetryla/embracing-change-for-professional-growth-4blf)
-- [🩰 Schedule automated tests; become premier ballet artiste](https://dev.to/ruthmoog/scheduling-automated-tests-3p4l)
-- [Handling Massive Fan-out with AWS Lambdas](https://dev.to/ably/handling-massive-fan-out-with-aws-lambdas-28cl)
 <!-- BLOG-POST-LIST:END -->
 
