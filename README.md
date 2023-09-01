@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What is DNS and CDN ?](https://dev.to/rajrathod/what-is-dns-and-cdn--3o38)
+- [Top Featured CodeNewbie Posts &lpar;8/30/23&rpar;](https://dev.to/codenewbieteam/top-featured-codenewbie-posts-83023-3hko)
 - [September Sparks: Ignite Creativity and Coding Joy! 🔥](https://dev.to/mitchiemt11/september-sparks-ignite-creativity-and-coding-joy-5146)
 - [All you need to know about Pass by Value and Pass by Reference](https://dev.to/devlawrence/all-you-need-to-know-about-pass-by-value-and-pass-by-reference-4mjn)
-- [Crafting Your Personal Movie Bookmark Application using Next 13.4.13, Redux Toolkit, Firebase, and TypeScript](https://dev.to/thankgod/crafting-your-personal-movie-bookmark-application-using-next-13413-redux-toolkit-firebase-and-typescript-2dgj)
 <!-- BLOG-POST-LIST:END -->
 
