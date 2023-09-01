@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Tauri with Nuxt](https://dev.to/waradu/how-to-use-tauri-with-nuxt-18d9)
+- [Cloud Economics 101: AWS EC2 Pricing Models &amp; Cost Optimization](https://dev.to/farrukhkhalid/cloud-economics-101-aws-ec2-pricing-models-cost-optimization-11o3)
+- [How to Improve Website Performance and Speed for Better User Experience](https://dev.to/samy/how-to-improve-website-performance-and-speed-for-better-user-experience-40j5)
+- [Use the power of Nuxt with Tauri](https://dev.to/waradu/how-to-use-tauri-with-nuxt-18d9)
 - [Nobody knows how to estimate software projects](https://dev.to/0ro/nobody-knows-how-to-estimate-software-projects-2c94)
-- [Announcing Appwrite’s New .NET SDK](https://dev.to/appwrite/announcing-appwrites-new-net-sdk-5028)
-- [ExpressoTS vs Nest vs Expressjs vs Fastify &lpar;Benchmark&rpar;](https://dev.to/expressots/expressots-vs-nest-vs-expressjs-vs-fastify-benchmark-5d17)
 <!-- BLOG-POST-LIST:END -->
 
