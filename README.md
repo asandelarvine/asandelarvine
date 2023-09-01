@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explained in 2023: 10 of the Most Popular Machine Learning Algorithms](https://dev.to/durgesh4993/explained-in-2023-10-of-the-most-popular-machine-learning-algorithms-4jbl)
 - [Celebrating 🥳🎉 2 year](https://dev.to/samanmahmood/celebrating-2-year-2je9)
 - [Develop a Video Chat App with WebRTC, Socket.IO, Express and React.](https://dev.to/eyitayoitalt/develop-a-video-chat-app-with-webrtc-socketio-express-and-react-3jc4)
-- [What is DNS and CDN ?](https://dev.to/rajrathod/what-is-dns-and-cdn--3o38)
-- [Top Featured CodeNewbie Posts &lpar;8/30/23&rpar;](https://dev.to/codenewbieteam/top-featured-codenewbie-posts-83023-3hko)
+- [How can you enable rich text editing on your web pages?](https://dev.to/muhammadmedhat/how-can-you-enable-rich-text-editing-on-your-web-pages-594n)
 <!-- BLOG-POST-LIST:END -->
 
