@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Habits &amp; Practices to Elevate Your Freelance Developer Career](https://dev.to/mikacodez/habits-practices-to-elevate-your-freelance-developer-career-5ff7)
-- [Getting Started with AWS Cloud](https://dev.to/zapeeosheikh/getting-started-with-aws-cloud-136p)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-14l1)
-- [Who&#39;s looking for open source contributors? &lpar;week 57&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-5t-43om)
+- [Devuan Upgrade: 4 to 5 Daedalus](https://dev.to/nabbisen/devuan-upgrade-4-to-5-daedalus-1n0k)
+- [Day 38: Assertions](https://dev.to/dhrn/day-38-assertions-3da0)
+- [Becoming a F***ing developer](https://dev.to/mmvergara/becoming-a-fing-developer-2gkj)
+- [Taming the whale: introduction to Docker](https://dev.to/matfire/taming-the-whale-introduction-to-docker-2nb0)
 <!-- BLOG-POST-LIST:END -->
 
