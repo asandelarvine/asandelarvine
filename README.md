@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/scofieldidehen/server-side-rendering-ssr-353e)
+- [How To Create Utility Tokens for Your Fundraising Business?](https://dev.to/jessietomaz/how-to-create-utility-tokens-for-your-fundraising-business-38pd)
+- [How to Build AI 🤖 like ChatGPT 😱](https://dev.to/diwakarkashyap/how-to-build-ai-like-chatgpt-252l)
 - [Security tools and AI are a perfect match](https://dev.to/azasypkin/security-tools-and-ai-are-a-perfect-match-3301)
-- [Design Patterns in PHP 8: Proxy](https://dev.to/zhukmax/design-patterns-in-php-8-proxy-58ab)
-- [Web End Projects](https://dev.to/aswin2001barath/web-end-projects-26be)
-- [JU Query: Web App for community based learning &lpar;Project&rpar;](https://dev.to/aswin2001barath/ju-query-web-app-for-community-based-learning-project-39n)
 <!-- BLOG-POST-LIST:END -->
 
