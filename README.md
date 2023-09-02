@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Profundezas do Node.js: Explorando I/O Assíncrono](https://dev.to/ocodista/profundezas-do-nodejs-explorando-io-assincrono-mim)
 - [10 projects for data analysis to help you get your first job.](https://dev.to/durgesh4993/10-projects-for-data-analysis-to-help-you-get-your-first-job-2ipn)
 - [Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/scofieldidehen/server-side-rendering-ssr-353e)
 - [How To Create Utility Tokens for Your Fundraising Business?](https://dev.to/jessietomaz/how-to-create-utility-tokens-for-your-fundraising-business-38pd)
-- [How to Build AI 🤖 like ChatGPT 😱](https://dev.to/diwakarkashyap/how-to-build-ai-like-chatgpt-252l)
 <!-- BLOG-POST-LIST:END -->
 
