@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Upload File](https://dev.to/dimple031/upload-file-2e9k)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3223)
 - [What programming languages are you most comfortable or skilled with? 🤔](https://dev.to/soumyadeepdey/what-programming-languages-are-you-most-comfortable-or-skilled-with-5dm6)
-- [Profundezas do Node.js: Explorando I/O Assíncrono](https://dev.to/ocodista/profundezas-do-nodejs-explorando-io-assincrono-mim)
-- [10 projects for data analysis to help you get your first job.](https://dev.to/durgesh4993/10-projects-for-data-analysis-to-help-you-get-your-first-job-2ipn)
+- [Agile and Modular Development with Vertical Slice Architecture and MediatR in C# Projects](https://dev.to/ifleonardo_/agile-and-modular-development-with-vertical-slice-architecture-and-mediatr-in-c-projects-3p4o)
 <!-- BLOG-POST-LIST:END -->
 
