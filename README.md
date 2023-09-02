@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Namespace std;&quot; in C++: Why It&#39;s Considered Bad Practice](https://dev.to/iamcymentho/using-namespace-std-in-c-why-its-considered-bad-practice-2adf)
 - [Deep dive into understanding Props in React](https://dev.to/hassanshahzadaheer/deep-dive-into-understanding-props-in-react-38g9)
 - [What&#39;s Your Go-To Hack for Breaking Through a Coding Block?](https://dev.to/codenewbieteam/whats-your-go-to-hack-for-breaking-through-a-coding-block-51am)
 - [What Feature Was Added from User Input?](https://dev.to/devteam/what-feature-was-added-from-user-input-5339)
-- [On questions that are impossible to answer](https://dev.to/apetryla/on-questions-that-are-impossible-to-answer-9e)
 <!-- BLOG-POST-LIST:END -->
 
