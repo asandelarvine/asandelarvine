@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [MariaDB 10.9 on OpenBSD 7.3: Install](https://dev.to/nabbisen/mariadb-109-on-openbsd-73-install-4e73)
+- [How I derived at AWS Modernization Cost estimate for my Microsoft workload?](https://dev.to/aws-builders/how-i-derived-at-aws-modernization-cost-estimate-for-my-microsoft-workload-55f1)
 - [How To Implement GridView Class in Flutter](https://dev.to/maxixo/how-to-implement-gridview-class-in-flutter-10c4)
 - [How to set up JSDoc for NPM packages](https://dev.to/artxe2/how-to-set-up-jsdoc-for-npm-packages-1jm1)
-- [🚀 Mastering Advanced Complex React useContext with useReducer ⭐ &lpar;Redux Style&rpar; ⭐](https://dev.to/idurar/mastering-advanced-complex-react-usecontext-with-usereducer-redux-style-2jl0)
 <!-- BLOG-POST-LIST:END -->
 
