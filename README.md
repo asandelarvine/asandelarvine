@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Simple and Customizable Image Classifier with Teachable Machine and Python](https://dev.to/meqdad_dev/building-simple-and-customizable-image-classifier-with-teachable-machine-and-python-4jim)
 - [Upload File](https://dev.to/dimple031/upload-file-2e9k)
+- [Mastering &#39;useRef&#39; in React with TypeScript: 4 Different Use-Cases for &#39;useRef&#39;](https://dev.to/kirubelkinfe/mastering-useref-in-react-with-typescript-4-different-use-cases-for-useref-2a87)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3223)
-- [What programming languages are you most comfortable or skilled with? 🤔](https://dev.to/soumyadeepdey/what-programming-languages-are-you-most-comfortable-or-skilled-with-5dm6)
-- [Agile and Modular Development with Vertical Slice Architecture and MediatR in C# Projects](https://dev.to/ifleonardo_/agile-and-modular-development-with-vertical-slice-architecture-and-mediatr-in-c-projects-3p4o)
 <!-- BLOG-POST-LIST:END -->
 
