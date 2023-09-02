@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [👩🏾‍💻React for beginners: an overview](https://dev.to/dumebii/react-for-beginners-an-overview-5fai)
+- [CSS VS SCSS](https://dev.to/arsalanmee/css-vs-scss-2jff)
 - [Celebrating over 2 million pulls of pyaction from the GitHub Container Registry](https://dev.to/cicirello/celebrating-over-2-million-pulls-of-pyaction-from-the-github-container-registry-20hb)
 - [Pezzo v0.5 - Dashboards, Caching, Python Client, and More!](https://dev.to/pezzo/pezzo-v05-dashboards-caching-python-client-and-more-2enk)
 - [Building Simple and Customizable Image Classifier with Teachable Machine and Python](https://dev.to/meqdad_dev/building-simple-and-customizable-image-classifier-with-teachable-machine-and-python-4jim)
