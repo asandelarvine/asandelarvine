@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MariaDB 10.9 on OpenBSD 7.3: Install](https://dev.to/nabbisen/mariadb-109-on-openbsd-73-install-4e73)
 - [How to set up JSDoc for NPM packages](https://dev.to/artxe2/how-to-set-up-jsdoc-for-npm-packages-1jm1)
 - [🚀 Mastering Advanced Complex React useContext with useReducer ⭐ &lpar;Redux Style&rpar; ⭐](https://dev.to/idurar/mastering-advanced-complex-react-usecontext-with-usereducer-redux-style-2jl0)
 - [Cloud Economics 101: AWS EC2 Pricing Models &amp; Cost Optimization](https://dev.to/farrukhkhalid/cloud-economics-101-aws-ec2-pricing-models-cost-optimization-11o3)
-- [How to Improve Website Performance and Speed for Better User Experience](https://dev.to/samy/how-to-improve-website-performance-and-speed-for-better-user-experience-40j5)
 <!-- BLOG-POST-LIST:END -->
 
