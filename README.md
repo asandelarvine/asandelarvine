@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MariaDB 10.9 on OpenBSD 7.3: Install](https://dev.to/nabbisen/mariadb-109-on-openbsd-73-install-4e73)
-- [How I derived at AWS Modernization Cost estimate for my Microsoft workload?](https://dev.to/aws-builders/how-i-derived-at-aws-modernization-cost-estimate-for-my-microsoft-workload-55f1)
-- [How To Implement GridView Class in Flutter](https://dev.to/maxixo/how-to-implement-gridview-class-in-flutter-10c4)
-- [How to set up JSDoc for NPM packages](https://dev.to/artxe2/how-to-set-up-jsdoc-for-npm-packages-1jm1)
+- [Deep dive into understanding Props in React](https://dev.to/hassanshahzadaheer/deep-dive-into-understanding-props-in-react-38g9)
+- [What&#39;s Your Go-To Hack for Breaking Through a Coding Block?](https://dev.to/codenewbieteam/whats-your-go-to-hack-for-breaking-through-a-coding-block-51am)
+- [What Feature Was Added from User Input?](https://dev.to/devteam/what-feature-was-added-from-user-input-5339)
+- [On questions that are impossible to answer](https://dev.to/apetryla/on-questions-that-are-impossible-to-answer-9e)
 <!-- BLOG-POST-LIST:END -->
 
