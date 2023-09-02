@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Security tools and AI are a perfect match](https://dev.to/azasypkin/security-tools-and-ai-are-a-perfect-match-3301)
 - [Design Patterns in PHP 8: Proxy](https://dev.to/zhukmax/design-patterns-in-php-8-proxy-58ab)
 - [Web End Projects](https://dev.to/aswin2001barath/web-end-projects-26be)
 - [JU Query: Web App for community based learning &lpar;Project&rpar;](https://dev.to/aswin2001barath/ju-query-web-app-for-community-based-learning-project-39n)
-- [6 Security Tips for .NET App Development that Every Developer Should Know](https://dev.to/ifourtechnolab/6-security-tips-for-net-app-development-that-every-developer-should-know-51b)
 <!-- BLOG-POST-LIST:END -->
 
