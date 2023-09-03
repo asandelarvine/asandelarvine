@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why every startup should be built on open-source... 🤔🤔](https://dev.to/github20k/why-every-startup-should-be-built-on-open-source-2kh)
 - [⚠️ Don&#39;t try this at home: A CMS written in Bash ONLY??](https://dev.to/thormeier/dont-try-this-at-home-a-cms-written-in-bash-only-4j6i)
 - [🤔 How I Choose Fabric.js Again](https://dev.to/0ro/how-i-choose-fabricjs-again-41jn)
-- [Visual Studio unknown keyboard shortcuts](https://dev.to/karenpayneoregon/visual-studio-unknwn-keyboard-shortcuts-1g3e)
-- [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
+- [React Server Components and NEXT.js](https://dev.to/vasujhawar/react-server-components-and-nextjs-1i90)
 <!-- BLOG-POST-LIST:END -->
 
