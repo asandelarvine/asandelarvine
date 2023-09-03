@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker And Containerization](https://dev.to/hasanelsherbiny/docker-and-containerization-4p7d)
-- [Describe Your Dream Workspace Setup for Maximum Productivity!](https://dev.to/codenewbieteam/describe-your-dream-workspace-setup-for-maximum-productivity-3ig0)
-- [Share the Funniest Bug/Error Message You&#39;ve Seen?](https://dev.to/devteam/share-the-funniest-bugerror-message-youve-seen-1ic1)
-- [10 Essential JavaScript Code Snippets for Every Developer](https://dev.to/shshank/10-essential-javascript-code-snippets-for-every-developer-59ml)
+- [The Road to Enhanced Flutter Development Part 1](https://dev.to/gillarohith/the-road-to-enhanced-flutter-development-part-1-1pk1)
+- [How to Deploy Your Code with AWS S3 - DevOps Basics](https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
+- [How to Deploy a Managed MySQL Instance in an Amazon RDS Database.](https://dev.to/giftcup/how-to-deploy-a-managed-mysql-instance-in-an-amazon-rds-database-3dpm)
+- [Storing and retrieving data from MySQL in Go APIs](https://dev.to/the-arcade-01/storing-and-retrieving-data-from-mysql-in-go-apis-3k33)
 <!-- BLOG-POST-LIST:END -->
 
