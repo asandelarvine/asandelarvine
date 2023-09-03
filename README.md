@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Markdown Cheat Sheet: A Blogger’s Best Friend](https://dev.to/kanani_nirav/the-ultimate-markdown-cheat-sheet-a-bloggers-best-friend-31kp)
-- [JavaScript CONSTANTS](https://dev.to/maafaishal/javascript-constants-1pb0)
-- [Supabase returning &quot;JSON object requested, multiple &lpar;or no&rpar; rows returned&quot; in production &lpar;vercel&rpar;](https://dev.to/atinypixel/supabase-returning-json-object-requested-multiple-or-no-rows-returned-in-production-vercel-4b46)
-- [The Journey of a Coder: Why Diversity of Experience is an Asset, Not a Liability](https://dev.to/philipjohnbasile/the-journey-of-a-coder-why-diversity-of-experience-is-an-asset-not-a-liability-50m6)
+- [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
+- [Yet Another Newsletter LOL: Astronomical week](https://dev.to/nickytonline/yet-another-newsletter-lol-astronomical-week-1gn2)
+- [Code Smell 223 - Racial Naming](https://dev.to/mcsee/code-smell-223-racial-naming-1n16)
+- [What&#39;s the most challenging coding problem you&#39;ve encountered, and how did you overcome it? 😮](https://dev.to/soumyadeepdey/whats-the-most-challenging-coding-problem-youve-encountered-and-how-did-you-overcome-it-5mi)
 <!-- BLOG-POST-LIST:END -->
 
