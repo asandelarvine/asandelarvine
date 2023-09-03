@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Jobs in Tech Will AI🤖 Replace⚠️? The Trending Debate](https://dev.to/diwakarkashyap/which-jobs-in-tech-will-ai-replace-the-trending-debate-1l8h)
-- [Understanding Blockchain Concepts: Proof of Stake vs. Proof of Work](https://dev.to/shishsingh/understanding-blockchain-concepts-proof-of-stake-vs-proof-of-work-41mk)
-- [The Road to Enhanced Flutter Development Part 1](https://dev.to/gillarohith/the-road-to-enhanced-flutter-development-part-1-1pk1)
-- [How to Deploy Your Code with AWS S3 - DevOps Basics](https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
+- [The Journey of a Coder: Why Diversity of Experience is an Asset, Not a Liability](https://dev.to/philipjohnbasile/the-journey-of-a-coder-why-diversity-of-experience-is-an-asset-not-a-liability-50m6)
+- [CSS only list filtering, or abusing the platform](https://dev.to/lexswed/css-only-list-filtering-or-abusing-the-platform-36mf)
+- [🎨 👉 Start doing THIS to improve your CSS Architecture](https://dev.to/juanoa/start-doing-this-to-improve-your-css-architecture-n3n)
+- [Javascript Essentials 🧑‍💻](https://dev.to/localhostd3veloper/javascript-essentials-40he)
 <!-- BLOG-POST-LIST:END -->
 
