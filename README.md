@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker And Containerization](https://dev.to/hasanelsherbiny/docker-and-containerization-4p7d)
+- [Describe Your Dream Workspace Setup for Maximum Productivity!](https://dev.to/codenewbieteam/describe-your-dream-workspace-setup-for-maximum-productivity-3ig0)
+- [Share the Funniest Bug/Error Message You&#39;ve Seen?](https://dev.to/devteam/share-the-funniest-bugerror-message-youve-seen-1ic1)
 - [Top hackathons where companies recruit](https://dev.to/durgesh4993/top-hackathons-where-companies-recruit-4m2j)
-- [A Guide to Atomic Design with React Components](https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1)
-- [Enhance User Experience with Automatic Token Refresh](https://dev.to/neil585456525/enhance-user-experience-with-automatic-token-refresh-1013)
-- [[ptbr]Fazendo de uma comunidade a sua segunda casa.](https://dev.to/dellamas/ptbrfazendo-de-uma-comunidade-a-sua-segunda-casa-a9j)
 <!-- BLOG-POST-LIST:END -->
 
