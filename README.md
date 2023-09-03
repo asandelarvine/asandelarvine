@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PDF Chat with Node.js, OpenAI and ModelFusion](https://dev.to/lgrammel/pdf-chat-with-nodejs-openai-and-modelfusion-oip)
 - [Aplicando a Orientação a Objetos: Gerenciamento de memória [4/10]🧶](https://dev.to/majulia/aplicando-a-orientacao-a-objetos-gerenciamento-de-memoria-410-537k)
 - [Unit test your react hook in minutes](https://dev.to/ibrahimshamma99/unit-test-your-react-hook-in-minutes-aah)
 - [Mastering Jest: A Complete Guide to Testing Next.js Applications](https://dev.to/shuvotdr/mastering-jest-a-complete-guide-to-testing-nextjs-applications-e85)
-- [The Ultimate Emoji Cheat Sheet for Developers](https://dev.to/emojipedia/the-ultimate-emoji-cheat-sheet-for-developers-3d55)
 <!-- BLOG-POST-LIST:END -->
 
