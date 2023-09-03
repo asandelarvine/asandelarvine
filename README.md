@@ -80,7 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
-- [Yet Another Newsletter LOL: Astronomical week](https://dev.to/nickytonline/yet-another-newsletter-lol-astronomical-week-1gn2)
+- [The AIKEA Effect](https://dev.to/artpi/the-aikea-effect-1mo5)
 - [Code Smell 223 - Racial Naming](https://dev.to/mcsee/code-smell-223-racial-naming-1n16)
 - [What&#39;s the most challenging coding problem you&#39;ve encountered, and how did you overcome it? 😮](https://dev.to/soumyadeepdey/whats-the-most-challenging-coding-problem-youve-encountered-and-how-did-you-overcome-it-5mi)
 <!-- BLOG-POST-LIST:END -->
