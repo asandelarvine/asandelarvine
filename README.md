@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Atomic Design with React Components](https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1)
 - [Enhance User Experience with Automatic Token Refresh](https://dev.to/neil585456525/enhance-user-experience-with-automatic-token-refresh-1013)
 - [[ptbr]Fazendo de uma comunidade a sua segunda casa.](https://dev.to/dellamas/ptbrfazendo-de-uma-comunidade-a-sua-segunda-casa-a9j)
 - [From Wires to Wireless: Understanding LAN &amp; WLAN in Your Home](https://dev.to/stungnet/from-wires-to-wireless-understanding-lan-wlan-in-your-home-730)
-- [Microservices Architecture](https://dev.to/amburi/microservices-architecture-3b98)
 <!-- BLOG-POST-LIST:END -->
 
