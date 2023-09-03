@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⚠️ Don&#39;t try this at home: A CMS written in Bash ONLY??](https://dev.to/thormeier/dont-try-this-at-home-a-cms-written-in-bash-only-4j6i)
+- [🤔 How I Choose Fabric.js Again](https://dev.to/0ro/how-i-choose-fabricjs-again-41jn)
+- [Visual Studio unknown keyboard shortcuts](https://dev.to/karenpayneoregon/visual-studio-unknwn-keyboard-shortcuts-1g3e)
 - [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
-- [The AIKEA Effect](https://dev.to/artpi/the-aikea-effect-1mo5)
-- [Code Smell 223 - Racial Naming](https://dev.to/mcsee/code-smell-223-racial-naming-1n16)
-- [What&#39;s the most challenging coding problem you&#39;ve encountered, and how did you overcome it? 😮](https://dev.to/soumyadeepdey/whats-the-most-challenging-coding-problem-youve-encountered-and-how-did-you-overcome-it-5mi)
 <!-- BLOG-POST-LIST:END -->
 
