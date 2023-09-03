@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Docker And Containerization](https://dev.to/hasanelsherbiny/docker-and-containerization-4p7d)
 - [Describe Your Dream Workspace Setup for Maximum Productivity!](https://dev.to/codenewbieteam/describe-your-dream-workspace-setup-for-maximum-productivity-3ig0)
 - [Share the Funniest Bug/Error Message You&#39;ve Seen?](https://dev.to/devteam/share-the-funniest-bugerror-message-youve-seen-1ic1)
-- [Diving into AWS - Understanding IAM](https://dev.to/aravindvenkatesan/diving-into-aws-understanding-iam-1afb)
+- [10 Essential JavaScript Code Snippets for Every Developer](https://dev.to/shshank/10-essential-javascript-code-snippets-for-every-developer-59ml)
 <!-- BLOG-POST-LIST:END -->
 
