@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Jobs in Tech Will AI🤖 Replace⚠️? The Trending Debate](https://dev.to/diwakarkashyap/which-jobs-in-tech-will-ai-replace-the-trending-debate-1l8h)
+- [Understanding Blockchain Concepts: Proof of Stake vs. Proof of Work](https://dev.to/shishsingh/understanding-blockchain-concepts-proof-of-stake-vs-proof-of-work-41mk)
 - [The Road to Enhanced Flutter Development Part 1](https://dev.to/gillarohith/the-road-to-enhanced-flutter-development-part-1-1pk1)
 - [How to Deploy Your Code with AWS S3 - DevOps Basics](https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
-- [How to Deploy a Managed MySQL Instance in an Amazon RDS Database.](https://dev.to/giftcup/how-to-deploy-a-managed-mysql-instance-in-an-amazon-rds-database-3dpm)
-- [Storing and retrieving data from MySQL in Go APIs](https://dev.to/the-arcade-01/storing-and-retrieving-data-from-mysql-in-go-apis-3k33)
 <!-- BLOG-POST-LIST:END -->
 
