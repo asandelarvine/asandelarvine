@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Markdown Cheat Sheet: A Blogger’s Best Friend](https://dev.to/kanani_nirav/the-ultimate-markdown-cheat-sheet-a-bloggers-best-friend-31kp)
+- [JavaScript CONSTANTS](https://dev.to/maafaishal/javascript-constants-1pb0)
+- [Supabase returning &quot;JSON object requested, multiple &lpar;or no&rpar; rows returned&quot; in production &lpar;vercel&rpar;](https://dev.to/atinypixel/supabase-returning-json-object-requested-multiple-or-no-rows-returned-in-production-vercel-4b46)
 - [The Journey of a Coder: Why Diversity of Experience is an Asset, Not a Liability](https://dev.to/philipjohnbasile/the-journey-of-a-coder-why-diversity-of-experience-is-an-asset-not-a-liability-50m6)
-- [CSS only list filtering, or abusing the platform](https://dev.to/lexswed/css-only-list-filtering-or-abusing-the-platform-36mf)
-- [🎨 👉 Start doing THIS to improve your CSS Architecture](https://dev.to/juanoa/start-doing-this-to-improve-your-css-architecture-n3n)
-- [Javascript Essentials 🧑‍💻](https://dev.to/localhostd3veloper/javascript-essentials-40he)
 <!-- BLOG-POST-LIST:END -->
 
