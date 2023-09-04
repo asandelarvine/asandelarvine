@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
 - [From Tweet to Launch 🚀 – My Open Source Journey](https://dev.to/papermark/from-tweet-to-launch-my-open-source-journey-199l)
 - [Cloud9 starter guide with Spring Boot](https://dev.to/aws-builders/cloud9-starter-guide-with-spring-boot-ig0)
-- [Before I Die Code: Week 3 Roundup and Gratitude for Our Open Source Contributors](https://dev.to/xanderrubio/before-i-die-code-week-3-roundup-and-gratitude-for-our-open-source-contributors-3gpo)
-- [Merge your first Pull Request - Prepare for the Hacktoberfest 2023](https://dev.to/ankur0904/merge-your-first-pull-request-prepare-for-the-hacktoberfest-2023-1bn2)
+- [We raised a $2.2M pre-seed round for our open-source application platform for Kubernetes](https://dev.to/rigdev/we-raised-a-22m-pre-seed-round-for-our-open-source-application-platform-for-kubernetes-3ea)
 <!-- BLOG-POST-LIST:END -->
 
