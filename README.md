@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 5 open-source copy and paste Tailwind CSS 💨component libraries YOU HAVE to try in 2023 🔥](https://dev.to/garrrikkotua/5-open-source-copy-and-paste-tailwind-css-component-libraries-you-have-to-try-in-2023-47k3)
+- [Building Adaptive User Interfaces in React Native](https://dev.to/builderio/building-adaptive-user-interfaces-in-react-native-np7)
+- [Como usar o forEach em Javascript: exemplos detalhados contados em uma história](https://dev.to/demenezes/como-usar-o-foreach-em-javascript-exemplos-detalhados-contados-em-uma-historia-31a4)
 - [Meet the Team: Matthias &amp; Knowledge Transfer](https://dev.to/crabnebuladev/meet-the-team-matthias-knowledge-transfer-2d58)
-- [Load Balancers and Reverse Proxy: System design](https://dev.to/rajrathod/load-balancers-and-reverse-proxy-system-design-k51)
-- [All you should know about numbers in TypeScript. Tutorial](https://dev.to/nopass0/all-you-should-know-about-numbers-in-typescript-tutorial-4lcn)
-- [IP Info was a mistake, and how digging for the source of the problem is tricky](https://dev.to/voltra/ip-info-was-a-mistake-and-how-digging-for-the-source-of-the-problem-is-tricky-4b94)
 <!-- BLOG-POST-LIST:END -->
 
