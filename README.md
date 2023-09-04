@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Cyber Security and why is it needed?](https://dev.to/aswin2001barath/what-is-cyber-security-and-why-is-it-needed-431a)
+- [Creating Accent-Color Checkboxes: A Step-by-Step Tutorial](https://dev.to/foxinfotech/creating-accent-color-checkboxes-a-step-by-step-tutorial-131b)
+- [No More Password: Passwordless Authentication](https://dev.to/scofieldidehen/no-more-password-passwordless-authentication-5c0e)
 - [Semantic HTML](https://dev.to/monkdev/semantic-html-2kb0)
-- [My First Step to Become a Front-End Engineer](https://dev.to/yuki-92c/my-first-step-to-become-a-front-end-engineer-44fo)
-- [Building a Text Recognition App in Flutter: Part 2 - Scanning and Cropping Images](https://dev.to/raman04byte/building-a-text-recognition-app-in-flutter-part-2-scanning-and-cropping-images-2d50)
-- [The Basics of React Props for Beginners](https://dev.to/meganad60/the-basics-of-react-props-for-beginners-3j01)
 <!-- BLOG-POST-LIST:END -->
 
