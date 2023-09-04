@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Semantic HTML](https://dev.to/monkdev/semantic-html-2kb0)
+- [My First Step to Become a Front-End Engineer](https://dev.to/yuki-92c/my-first-step-to-become-a-front-end-engineer-44fo)
 - [Building a Text Recognition App in Flutter: Part 2 - Scanning and Cropping Images](https://dev.to/raman04byte/building-a-text-recognition-app-in-flutter-part-2-scanning-and-cropping-images-2d50)
 - [The Basics of React Props for Beginners](https://dev.to/meganad60/the-basics-of-react-props-for-beginners-3j01)
-- [Nebula Oni Color Theme: &lpar;NEW&rpar; Dimmed Syntax Brightness](https://dev.to/psudo-dev/nebula-oni-color-theme-dimmed-syntax-colors-24ld)
-- [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
 <!-- BLOG-POST-LIST:END -->
 
