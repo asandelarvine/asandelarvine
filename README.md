@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Deployment Speed Exponentially: The Magic of Smaller Changes](https://dev.to/apetryla/boost-your-deployment-speed-exponentially-the-magic-of-smaller-changes-h0l)
-- [Share a Time When a Seemingly Crazy Idea Led to Incredible Innovation.](https://dev.to/codenewbieteam/share-a-time-when-a-seemingly-crazy-idea-led-to-incredible-innovation-26k6)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-3adg)
-- [What&#39;s Your Favorite Shortcut?](https://dev.to/devteam/whats-your-favorite-shortcut-hk3)
+- [AWS open source newsletter, #172](https://dev.to/aws/aws-open-source-newsletter-172-54i)
+- [Welcome Note](https://dev.to/isahtech200/welcome-note-4jhf)
+- [🤓🚀 Supercharge Your Agile Skills with tectrain Academy&#39;s SAFe Training!](https://dev.to/azizatasenn/supercharge-your-agile-skills-with-tectrain-academys-safe-training-1b8l)
+- [Building accessible forms in Vue with Formkit ⚡️](https://dev.to/jacobandrewsky/building-accessible-forms-in-vue-with-formkit-4n7o)
 <!-- BLOG-POST-LIST:END -->
 
