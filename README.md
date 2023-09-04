@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Templating and how to use it in JavaScript?](https://dev.to/endeavourmonk/what-is-templating-and-how-to-use-it-in-javascript-13a0)
-- [Medusa Next.js Starter now has Product Module support](https://dev.to/medusajs/medusa-nextjs-starter-now-has-product-module-support-1i80)
-- [Meme Monday](https://dev.to/ben/meme-3opp)
-- [What are your Goals for the week of September 4th?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-september-4th-8h3)
+- [Merge your first Pull Request - Prepare for the Hacktoberfest 2023](https://dev.to/ankur0904/merge-your-first-pull-request-prepare-for-the-hacktoberfest-2023-1bn2)
+- [jacoco-badge-generator 2.10.0 Released](https://dev.to/cicirello/jacoco-badge-generator-2100-released-58c0)
+- [Creating a Chrome extension to convert the URL to use localhost in 1 click](https://dev.to/thomasledoux1/creating-a-chrome-extension-to-convert-the-url-to-use-localhost-in-1-click-oge)
+- [🚀 Effortless Integration Tests with Testcontainers in Golang 🧪](https://dev.to/sergiomarcial/effortless-integration-testing-with-testcontainers-in-golang-44bp)
 <!-- BLOG-POST-LIST:END -->
 
