@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Boost Your Deployment Speed Exponentially: The Magic of Smaller Changes](https://dev.to/apetryla/boost-your-deployment-speed-exponentially-the-magic-of-smaller-changes-h0l)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-3adg)
 - [Share a Time When a Seemingly Crazy Idea Led to Incredible Innovation.](https://dev.to/codenewbieteam/share-a-time-when-a-seemingly-crazy-idea-led-to-incredible-innovation-26k6)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-3adg)
 - [What&#39;s Your Favorite Shortcut?](https://dev.to/devteam/whats-your-favorite-shortcut-hk3)
 <!-- BLOG-POST-LIST:END -->
 
