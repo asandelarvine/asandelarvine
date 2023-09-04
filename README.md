@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the Team: Matthias &amp; Knowledge Transfer](https://dev.to/crabnebuladev/meet-the-team-matthias-knowledge-transfer-2d58)
+- [Load Balancers and Reverse Proxy: System design](https://dev.to/rajrathod/load-balancers-and-reverse-proxy-system-design-k51)
+- [All you should know about numbers in TypeScript. Tutorial](https://dev.to/nopass0/all-you-should-know-about-numbers-in-typescript-tutorial-4lcn)
 - [IP Info was a mistake, and how digging for the source of the problem is tricky](https://dev.to/voltra/ip-info-was-a-mistake-and-how-digging-for-the-source-of-the-problem-is-tricky-4b94)
-- [Devuan アップグレード: 4 から 5 Daedalus へ](https://dev.to/nabbisen/devuan-atupuguredo-4-kara-5-daedalus-he-35bh)
-- [How To Build Healthcare CRM: A Comprehensive Guide](https://dev.to/flatlogic/how-to-build-healthcare-crm-a-comprehensive-guide-6o3)
-- [How to Use TailwindCSS with Flask](https://dev.to/sachingeek/how-to-use-tailwindcss-with-flask-1hm9)
 <!-- BLOG-POST-LIST:END -->
 
