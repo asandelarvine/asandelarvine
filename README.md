@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dispose or Finalize in C#? Discover which to use](https://dev.to/bytehide/dispose-or-finalize-in-c-discover-which-to-use-150h)
-- [📢 Call for Paper Launch: PyLadiesCon - Share Your Insights with Us!](https://dev.to/pyladiesdub/call-for-paper-launch-pyladiescon-share-your-insights-with-us-4m13)
-- [How to test Machine Learning code in Python? April 2023](https://dev.to/pyladiesdub/how-to-test-machine-learning-code-in-python-april-2023-3i7k)
-- [Math for Devs - Encryption Essentials](https://dev.to/josethz00/math-for-devs-encryption-essentials-2f1)
+- [Meme Monday](https://dev.to/ben/meme-3opp)
+- [What are your Goals for the week of September 4th?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-september-4th-8h3)
+- [Short Trailer - 1 min GamePlay](https://dev.to/chickendip86/short-trailer-1-min-gameplay-1mlh)
+- [Wtf is Grpc? Part 1: Authentication and Authorization in Flutter and Golang.](https://dev.to/djsmk123/wtf-is-grpc-part-1-authentication-and-authorization-in-flutter-and-golang-37jj)
 <!-- BLOG-POST-LIST:END -->
 
