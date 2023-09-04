@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 5 open-source copy and paste Tailwind CSS 💨component libraries YOU HAVE to try in 2023 🔥](https://dev.to/garrrikkotua/5-open-source-copy-and-paste-tailwind-css-component-libraries-you-have-to-try-in-2023-47k3)
-- [Building Adaptive User Interfaces in React Native](https://dev.to/builderio/building-adaptive-user-interfaces-in-react-native-np7)
-- [Como usar o forEach em Javascript: exemplos detalhados contados em uma história](https://dev.to/demenezes/como-usar-o-foreach-em-javascript-exemplos-detalhados-contados-em-uma-historia-31a4)
-- [Meet the Team: Matthias &amp; Knowledge Transfer](https://dev.to/crabnebuladev/meet-the-team-matthias-knowledge-transfer-2d58)
+- [Hoppscotch for Enterprise: The open source, on premise API Platform](https://dev.to/hoppscotch/hoppscotch-for-enterprise-the-open-source-on-premise-api-platform-1knh)
+- [Next.js 13 Blog Tutorial: Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS 🔥](https://dev.to/codebucks/nextjs-13-blog-tutorial-build-seo-optimized-blog-with-nextjs-contentlayer-and-tailwind-css-574g)
+- [Send Hanko Auth emails from your domain via Resend](https://dev.to/hanko/send-hanko-auth-emails-from-your-domain-via-resend-1p32)
+- [How We Fixed Performance With JS Object Variable Mutation](https://dev.to/appsmith/how-we-fixed-performance-with-js-object-variable-mutation-2icm)
 <!-- BLOG-POST-LIST:END -->
 
