@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hoppscotch for Enterprise: The open source, on premise API Platform](https://dev.to/hoppscotch/hoppscotch-for-enterprise-the-open-source-on-premise-api-platform-1knh)
-- [Next.js 13 Blog Tutorial: Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS 🔥](https://dev.to/codebucks/nextjs-13-blog-tutorial-build-seo-optimized-blog-with-nextjs-contentlayer-and-tailwind-css-574g)
-- [Send Hanko Auth emails from your domain via Resend](https://dev.to/hanko/send-hanko-auth-emails-from-your-domain-via-resend-1p32)
-- [How We Fixed Performance With JS Object Variable Mutation](https://dev.to/appsmith/how-we-fixed-performance-with-js-object-variable-mutation-2icm)
+- [Dispose or Finalize in C#? Discover which to use](https://dev.to/bytehide/dispose-or-finalize-in-c-discover-which-to-use-150h)
+- [📢 Call for Paper Launch: PyLadiesCon - Share Your Insights with Us!](https://dev.to/pyladiesdub/call-for-paper-launch-pyladiescon-share-your-insights-with-us-4m13)
+- [How to test Machine Learning code in Python? April 2023](https://dev.to/pyladiesdub/how-to-test-machine-learning-code-in-python-april-2023-3i7k)
+- [Math for Devs - Encryption Essentials](https://dev.to/josethz00/math-for-devs-encryption-essentials-2f1)
 <!-- BLOG-POST-LIST:END -->
 
