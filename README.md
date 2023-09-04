@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Templating and how to use it in JavaScript?](https://dev.to/endeavourmonk/what-is-templating-and-how-to-use-it-in-javascript-13a0)
+- [Medusa Next.js Starter now has Product Module support](https://dev.to/medusajs/medusa-nextjs-starter-now-has-product-module-support-1i80)
 - [Meme Monday](https://dev.to/ben/meme-3opp)
 - [What are your Goals for the week of September 4th?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-september-4th-8h3)
-- [Short Trailer - 1 min GamePlay](https://dev.to/chickendip86/short-trailer-1-min-gameplay-1mlh)
-- [Wtf is Grpc? Part 1: Authentication and Authorization in Flutter and Golang.](https://dev.to/djsmk123/wtf-is-grpc-part-1-authentication-and-authorization-in-flutter-and-golang-37jj)
 <!-- BLOG-POST-LIST:END -->
 
