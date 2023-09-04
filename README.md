@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #172](https://dev.to/aws/aws-open-source-newsletter-172-54i)
-- [Welcome Note](https://dev.to/isahtech200/welcome-note-4jhf)
-- [🤓🚀 Supercharge Your Agile Skills with tectrain Academy&#39;s SAFe Training!](https://dev.to/azizatasenn/supercharge-your-agile-skills-with-tectrain-academys-safe-training-1b8l)
-- [Building accessible forms in Vue with Formkit ⚡️](https://dev.to/jacobandrewsky/building-accessible-forms-in-vue-with-formkit-4n7o)
+- [IP Info was a mistake, and how digging for the source of the problem is tricky](https://dev.to/voltra/ip-info-was-a-mistake-and-how-digging-for-the-source-of-the-problem-is-tricky-4b94)
+- [Devuan アップグレード: 4 から 5 Daedalus へ](https://dev.to/nabbisen/devuan-atupuguredo-4-kara-5-daedalus-he-35bh)
+- [How To Build Healthcare CRM: A Comprehensive Guide](https://dev.to/flatlogic/how-to-build-healthcare-crm-a-comprehensive-guide-6o3)
+- [How to Use TailwindCSS with Flask](https://dev.to/sachingeek/how-to-use-tailwindcss-with-flask-1hm9)
 <!-- BLOG-POST-LIST:END -->
 
