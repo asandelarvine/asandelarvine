@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Before I Die Code: Week 3 Roundup and Gratitude for Our Open Source Contributors](https://dev.to/xanderrubio/before-i-die-code-week-3-roundup-and-gratitude-for-our-open-source-contributors-3gpo)
 - [Merge your first Pull Request - Prepare for the Hacktoberfest 2023](https://dev.to/ankur0904/merge-your-first-pull-request-prepare-for-the-hacktoberfest-2023-1bn2)
 - [jacoco-badge-generator 2.10.0 Released](https://dev.to/cicirello/jacoco-badge-generator-2100-released-58c0)
 - [Creating a Chrome extension to convert the URL to use localhost in 1 click](https://dev.to/thomasledoux1/creating-a-chrome-extension-to-convert-the-url-to-use-localhost-in-1-click-oge)
-- [🚀 Effortless Integration Tests with Testcontainers in Golang 🧪](https://dev.to/sergiomarcial/effortless-integration-testing-with-testcontainers-in-golang-44bp)
 <!-- BLOG-POST-LIST:END -->
 
