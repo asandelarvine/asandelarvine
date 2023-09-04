@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [☸️ Kubernetes: Awesome Maintained Links You Will Keep Using Next Year](https://dev.to/zenika/kubernetes-awesome-maintained-links-you-will-keep-using-next-year-48o8)
 - [What is Cyber Security and why is it needed?](https://dev.to/aswin2001barath/what-is-cyber-security-and-why-is-it-needed-431a)
+- [What is going on here? Getting Started With Logging in Angular](https://dev.to/this-is-angular/what-is-going-on-here-getting-started-with-logging-in-angular-59k)
 - [Creating Accent-Color Checkboxes: A Step-by-Step Tutorial](https://dev.to/foxinfotech/creating-accent-color-checkboxes-a-step-by-step-tutorial-131b)
-- [No More Password: Passwordless Authentication](https://dev.to/scofieldidehen/no-more-password-passwordless-authentication-5c0e)
-- [Semantic HTML](https://dev.to/monkdev/semantic-html-2kb0)
 <!-- BLOG-POST-LIST:END -->
 
