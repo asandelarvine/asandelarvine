@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nebula Oni Color Theme: Dimmed Syntax Colors](https://dev.to/psudo-dev/nebula-oni-color-theme-dimmed-syntax-colors-24ld)
+- [Nebula Oni Color Theme: &lpar;NEW&rpar; Dimmed Syntax Brightness](https://dev.to/psudo-dev/nebula-oni-color-theme-dimmed-syntax-colors-24ld)
 - [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
 - [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
 - [Enhancing development with REPLs - A practical guide](https://dev.to/cherryramatis/enhancing-development-with-repls-a-practical-guide-2fij)
