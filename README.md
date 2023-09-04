@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nebula Oni Color Theme: Dimmed Syntax Colors](https://dev.to/psudo-dev/nebula-oni-color-theme-dimmed-syntax-colors-24ld)
+- [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
 - [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
-- [Drag &amp; Drop implementation using html/css and Javascript](https://dev.to/ndickers/drag-drop-implementation-using-htmlcss-and-javascript-8mc)
-- [PDF Chat with Node.js, OpenAI and ModelFusion](https://dev.to/lgrammel/pdf-chat-with-nodejs-openai-and-modelfusion-oip)
-- [Aplicando a Orientação a Objetos: Gerenciamento de memória [4/10]🧶](https://dev.to/majulia/aplicando-a-orientacao-a-objetos-gerenciamento-de-memoria-410-537k)
+- [Enhancing development with REPLs - A practical guide](https://dev.to/cherryramatis/enhancing-development-with-repls-a-practical-guide-2fij)
 <!-- BLOG-POST-LIST:END -->
 
