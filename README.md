@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [☸️ Kubernetes: Awesome Maintained Links You Will Keep Using Next Year](https://dev.to/zenika/kubernetes-awesome-maintained-links-you-will-keep-using-next-year-48o8)
-- [What is Cyber Security and why is it needed?](https://dev.to/aswin2001barath/what-is-cyber-security-and-why-is-it-needed-431a)
-- [What is going on here? Getting Started With Logging in Angular](https://dev.to/this-is-angular/what-is-going-on-here-getting-started-with-logging-in-angular-59k)
-- [Creating Accent-Color Checkboxes: A Step-by-Step Tutorial](https://dev.to/foxinfotech/creating-accent-color-checkboxes-a-step-by-step-tutorial-131b)
+- [Boost Your Deployment Speed Exponentially: The Magic of Smaller Changes](https://dev.to/apetryla/boost-your-deployment-speed-exponentially-the-magic-of-smaller-changes-h0l)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-3adg)
+- [Share a Time When a Seemingly Crazy Idea Led to Incredible Innovation.](https://dev.to/codenewbieteam/share-a-time-when-a-seemingly-crazy-idea-led-to-incredible-innovation-26k6)
+- [What&#39;s Your Favorite Shortcut?](https://dev.to/devteam/whats-your-favorite-shortcut-hk3)
 <!-- BLOG-POST-LIST:END -->
 
