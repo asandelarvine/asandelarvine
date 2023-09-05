@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma Produtora de TV no mundo DEV!](https://dev.to/acamikuro/-uma-produtora-de-tv-no-mundo-dev-44p3)
-- [Managing the Keyboard in SwiftUI: A Comprehensive Tutorial](https://dev.to/mrcflorian/managing-the-keyboard-in-swiftui-a-comprehensive-tutorial-11p0)
-- [MariaDB 10.9 on OpenBSD 7.3: インストール](https://dev.to/nabbisen/mariadb-109-on-openbsd-73-insutoru-1aco)
-- [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
+- [UIUC MCS - CS 513 Review - Theory and Practice of Data Cleaning](https://dev.to/scc33/uiuc-mcs-cs-513-review-theory-and-practice-of-data-cleaning-f0n)
+- [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
+- [Understanding Semantic Commits: What They Are, Why, and How to Use Them](https://dev.to/ronilsonalves/understanding-semantic-commits-what-they-are-why-and-how-to-use-them-4lp1)
+- [UIUC MCS - CS 416 Review - Data Visualization](https://dev.to/scc33/uiuc-mcs-cs-416-review-data-visualization-1897)
 <!-- BLOG-POST-LIST:END -->
 
