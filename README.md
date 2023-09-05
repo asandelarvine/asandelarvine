@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🤩5 open-source libraries you must know🤩 Week 3](https://dev.to/idurar/5-open-source-libraries-you-must-know-week-3-5hh9)
 - [Joomla! 4.3 on OpenBSD 7.3: Install](https://dev.to/nabbisen/joomla-43-on-openbsd-73-install-16m6)
 - [Interfaces or abstract classes?](https://dev.to/jmau111/interfaces-or-abstract-classes-3ab7)
-- [$render — write React with pure JavaScript.](https://dev.to/codingnninja/render-write-react-with-pure-javascript-49cc)
-- [Design Patterns in PHP 8: Interpreter](https://dev.to/zhukmax/design-patterns-in-php-8-interpreter-ee5)
+- [How does a school help a student to develop through school software?](https://dev.to/trainings24x7/how-does-a-school-help-a-student-to-develop-through-school-software-2cjf)
 <!-- BLOG-POST-LIST:END -->
 
