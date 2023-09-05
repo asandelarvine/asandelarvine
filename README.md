@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Commits signed on GITHUB using GPG key](https://dev.to/walternascimentobarroso/commits-signed-on-github-using-gpg-key-31gb)
-- [First negative user feedback](https://dev.to/azasypkin/first-negative-user-feedback-237o)
-- [Open-source Fine-Tuning on Codebase with Refact](https://dev.to/refact/open-source-fine-tuning-on-codebase-with-refact-3po1)
-- [Introduction to Azure SDK Architecture](https://dev.to/ifourtechnolab/introduction-to-azure-sdk-architecture-al8)
+- [Joomla! 4.3 on OpenBSD 7.3: Install](https://dev.to/nabbisen/joomla-43-on-openbsd-73-install-16m6)
+- [Interfaces or abstract classes?](https://dev.to/jmau111/interfaces-or-abstract-classes-3ab7)
+- [$render — write React with pure JavaScript.](https://dev.to/codingnninja/render-write-react-with-pure-javascript-49cc)
+- [Design Patterns in PHP 8: Interpreter](https://dev.to/zhukmax/design-patterns-in-php-8-interpreter-ee5)
 <!-- BLOG-POST-LIST:END -->
 
