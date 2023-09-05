@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices to Improve Performance of Flutter App](https://dev.to/ijackseifert/best-practices-to-improve-performance-of-flutter-app-4fpg)
+- [Pure Critique of Pure Functions in Functional Programming](https://dev.to/artxe2/pure-critique-of-pure-functions-in-functional-programming-4fkn)
 - [Unlock Your Potential: Become a Expert on Meetdox and earn money](https://dev.to/volknut/unlock-your-potential-become-a-expert-on-meetdox-and-earn-money-5g4h)
-- [Generate Dynamic Open Graph and Twitter Images in Next.js](https://dev.to/cruip_com/generate-dynamic-open-graph-and-twitter-images-in-nextjs-58m)
-- [Machine Learning challenge: Chihuahua vs Muffin with PostgreSQL and pgvector](https://dev.to/ftisiot/machine-learning-challenge-chihuahua-vs-muffin-with-postgresql-and-pgvector-4j1j)
-- [Building an Installable Desktop App with Python, PyQt, and Py2app](https://dev.to/alexaldearroyo/building-an-installable-desktop-app-with-python-pyqt-and-py2app-j83)
+- [OpenAI `function calling` to enforce reply format/schema](https://dev.to/maximsaplin/openai-function-calling-to-enforce-reply-formatschema-23gi)
 <!-- BLOG-POST-LIST:END -->
 
