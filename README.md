@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sick of Writing Code Just for Mock Data? Try Sharkio 🚀🦈](https://dev.to/sharkio/sick-of-writing-code-just-for-mock-data-try-sharkio-4g5f)
 - [Elanat 2 Released, Best .NET Core CMS](https://dev.to/elanatframework/elanat-2-released-best-net-core-cms-1985)
+- [Level Up Your Readme File 📈](https://dev.to/ikhaledabdelfattah/level-up-your-readme-file-495f)
 - [Mocking Browsershot library in your tests](https://dev.to/devlopez/mocking-browsershot-library-in-your-tests-350e)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mig)
-- [Level-up Container Security: 4 Open-Source Tools for Secure Software Supply Chain](https://dev.to/azure/level-up-container-security-4-open-source-tools-for-secure-software-supply-chain-2gp5)
 <!-- BLOG-POST-LIST:END -->
 
