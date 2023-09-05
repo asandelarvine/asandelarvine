@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Architectural Patterns with Examples](https://dev.to/sasithwarnakafonseka/nodejs-architectural-patterns-with-examples-1335)
+- [Loops in c#](https://dev.to/zafarurakov/loops-in-c-4ppi)
+- [Understanding Next.js Server Actions With Examples](https://dev.to/atapas/understanding-nextjs-server-actions-with-examples-2241)
 - [UIUC MCS - CS 513 Review - Theory and Practice of Data Cleaning](https://dev.to/scc33/uiuc-mcs-cs-513-review-theory-and-practice-of-data-cleaning-f0n)
-- [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
-- [Understanding Semantic Commits: What They Are, Why, and How to Use Them](https://dev.to/ronilsonalves/understanding-semantic-commits-what-they-are-why-and-how-to-use-them-4lp1)
-- [UIUC MCS - CS 416 Review - Data Visualization](https://dev.to/scc33/uiuc-mcs-cs-416-review-data-visualization-1897)
 <!-- BLOG-POST-LIST:END -->
 
