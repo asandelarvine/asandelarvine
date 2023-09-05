@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤩5 open-source libraries you must know🤩 Week 3](https://dev.to/idurar/5-open-source-libraries-you-must-know-week-3-5hh9)
-- [Joomla! 4.3 on OpenBSD 7.3: Install](https://dev.to/nabbisen/joomla-43-on-openbsd-73-install-16m6)
-- [Interfaces or abstract classes?](https://dev.to/jmau111/interfaces-or-abstract-classes-3ab7)
-- [How does a school help a student to develop through school software?](https://dev.to/trainings24x7/how-does-a-school-help-a-student-to-develop-through-school-software-2cjf)
+- [Handling errors in TypeScript the right way](https://dev.to/nbouvrette/handling-errors-in-typescript-the-right-way-5aej)
+- [Top 10 FAQs about BEP20 Token Development](https://dev.to/adelelara/top-10-faqs-about-bep20-token-development-4ga8)
+- [Introducing Rig.dev: An open-source application platform for Kubernetes](https://dev.to/rigdev/introducing-rigdev-an-open-source-application-platform-for-kubernetes-1dge)
+- [Generate invoice PDF file using HTML template](https://dev.to/chrisgordon256/generate-invoice-pdf-file-using-html-template-481f)
 <!-- BLOG-POST-LIST:END -->
 
