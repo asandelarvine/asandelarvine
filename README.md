@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Uma Produtora de TV no mundo DEV!](https://dev.to/acamikuro/-uma-produtora-de-tv-no-mundo-dev-44p3)
 - [Managing the Keyboard in SwiftUI: A Comprehensive Tutorial](https://dev.to/mrcflorian/managing-the-keyboard-in-swiftui-a-comprehensive-tutorial-11p0)
 - [MariaDB 10.9 on OpenBSD 7.3: インストール](https://dev.to/nabbisen/mariadb-109-on-openbsd-73-insutoru-1aco)
 - [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
-- [From Tweet to Launch 🚀 – My Open Source Journey](https://dev.to/papermark/from-tweet-to-launch-my-open-source-journey-199l)
 <!-- BLOG-POST-LIST:END -->
 
