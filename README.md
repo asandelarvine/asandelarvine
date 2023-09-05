@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The typeface you didn&#39;t know you wanted and were trained to hate](https://dev.to/drhyde/the-typeface-you-didnt-know-you-wanted-and-were-trained-to-hate-5f3f)
+- [You might not need TypeScript Enum](https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n)
+- [Rust on AWS App Runner - Part2](https://dev.to/aws-builders/rust-on-aws-app-runner-part2-17d2)
 - [Handling errors in TypeScript the right way](https://dev.to/nbouvrette/handling-errors-in-typescript-the-right-way-5aej)
-- [Top 10 FAQs about BEP20 Token Development](https://dev.to/adelelara/top-10-faqs-about-bep20-token-development-4ga8)
-- [Introducing Rig.dev: An open-source application platform for Kubernetes](https://dev.to/rigdev/introducing-rigdev-an-open-source-application-platform-for-kubernetes-1dge)
-- [Generate invoice PDF file using HTML template](https://dev.to/chrisgordon256/generate-invoice-pdf-file-using-html-template-481f)
 <!-- BLOG-POST-LIST:END -->
 
