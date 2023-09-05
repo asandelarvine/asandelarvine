@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Participate in Hackoberfest](https://dev.to/opensauced/how-to-participate-in-hackoberfest-13hm)
+- [How Augmented Reality &lpar;AR&rpar; and Virtual Reality &lpar;VR&rpar; Will Transform Mobile App Development?](https://dev.to/dhruvjoshi9/how-augmented-reality-ar-and-virtual-reality-vr-will-transform-mobile-app-development-2obb)
+- [This New React Hook Changes How You Use Forms](https://dev.to/ubahthebuilder/this-new-react-hook-changes-how-you-use-forms-2ohb)
 - [The typeface you didn&#39;t know you wanted and were trained to hate](https://dev.to/drhyde/the-typeface-you-didnt-know-you-wanted-and-were-trained-to-hate-5f3f)
-- [You might not need TypeScript Enum](https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n)
-- [Rust on AWS App Runner - Part2](https://dev.to/aws-builders/rust-on-aws-app-runner-part2-17d2)
-- [Handling errors in TypeScript the right way](https://dev.to/nbouvrette/handling-errors-in-typescript-the-right-way-5aej)
 <!-- BLOG-POST-LIST:END -->
 
