@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add Backblaze adapter to an Appwrite instance](https://dev.to/hackmamba/how-to-add-backblaze-adapter-to-an-appwrite-instance-54g)
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5gmo)
 - [How Does It Feel When Your Code Works?](https://dev.to/devteam/how-does-it-feel-when-your-code-works-2nf0)
 - [What Coding Quests Fill Your Day?](https://dev.to/codenewbieteam/what-coding-quests-fill-your-day-5hjm)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5gmo)
-- [Python For The Blinds &lpar;Part-1&rpar;](https://dev.to/scofieldidehen/python-for-the-blinds-part-1-18n1)
 <!-- BLOG-POST-LIST:END -->
 
