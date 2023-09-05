@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add Backblaze adapter to an Appwrite instance](https://dev.to/hackmamba/how-to-add-backblaze-adapter-to-an-appwrite-instance-54g)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5gmo)
-- [How Does It Feel When Your Code Works?](https://dev.to/devteam/how-does-it-feel-when-your-code-works-2nf0)
-- [What Coding Quests Fill Your Day?](https://dev.to/codenewbieteam/what-coding-quests-fill-your-day-5hjm)
+- [Unlock Your Potential: Become a Expert on Meetdox and earn money](https://dev.to/volknut/unlock-your-potential-become-a-expert-on-meetdox-and-earn-money-5g4h)
+- [Generate Dynamic Open Graph and Twitter Images in Next.js](https://dev.to/cruip_com/generate-dynamic-open-graph-and-twitter-images-in-nextjs-58m)
+- [Machine Learning challenge: Chihuahua vs Muffin with PostgreSQL and pgvector](https://dev.to/ftisiot/machine-learning-challenge-chihuahua-vs-muffin-with-postgresql-and-pgvector-4j1j)
+- [Building an Installable Desktop App with Python, PyQt, and Py2app](https://dev.to/alexaldearroyo/building-an-installable-desktop-app-with-python-pyqt-and-py2app-j83)
 <!-- BLOG-POST-LIST:END -->
 
