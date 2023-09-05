@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK Stack Weekly 5 September 2023](https://dev.to/tspannhw/flank-stack-weekly-5-september-2023-5g0f)
+- [✨ How I Made my First Coding Contribution as a Complete Beginner 🚀](https://dev.to/quine/how-i-made-my-first-coding-contribution-as-a-complete-beginner-2g8f)
 - [How to Participate in Hackoberfest](https://dev.to/opensauced/how-to-participate-in-hackoberfest-13hm)
 - [How Augmented Reality &lpar;AR&rpar; and Virtual Reality &lpar;VR&rpar; Will Transform Mobile App Development?](https://dev.to/dhruvjoshi9/how-augmented-reality-ar-and-virtual-reality-vr-will-transform-mobile-app-development-2obb)
-- [This New React Hook Changes How You Use Forms](https://dev.to/ubahthebuilder/this-new-react-hook-changes-how-you-use-forms-2ohb)
-- [The typeface you didn&#39;t know you wanted and were trained to hate](https://dev.to/drhyde/the-typeface-you-didnt-know-you-wanted-and-were-trained-to-hate-5f3f)
 <!-- BLOG-POST-LIST:END -->
 
