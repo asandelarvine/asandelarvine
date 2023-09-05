@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices to Improve Performance of Flutter App](https://dev.to/ijackseifert/best-practices-to-improve-performance-of-flutter-app-4fpg)
-- [Pure Critique of Pure Functions in Functional Programming](https://dev.to/artxe2/pure-critique-of-pure-functions-in-functional-programming-4fkn)
-- [Unlock Your Potential: Become a Expert on Meetdox and earn money](https://dev.to/volknut/unlock-your-potential-become-a-expert-on-meetdox-and-earn-money-5g4h)
-- [OpenAI `function calling` to enforce reply format/schema](https://dev.to/maximsaplin/openai-function-calling-to-enforce-reply-formatschema-23gi)
+- [Commits signed on GITHUB using GPG key](https://dev.to/walternascimentobarroso/commits-signed-on-github-using-gpg-key-31gb)
+- [First negative user feedback](https://dev.to/azasypkin/first-negative-user-feedback-237o)
+- [Open-source Fine-Tuning on Codebase with Refact](https://dev.to/refact/open-source-fine-tuning-on-codebase-with-refact-3po1)
+- [Introduction to Azure SDK Architecture](https://dev.to/ifourtechnolab/introduction-to-azure-sdk-architecture-al8)
 <!-- BLOG-POST-LIST:END -->
 
