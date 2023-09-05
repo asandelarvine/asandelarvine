@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [fartlang.org](https://dev.to/maximsaplin/fartlangorg-j85)
-- [Vleer: The Music Player That Lets You Hear More for Less](https://dev.to/waradu/vleer-the-music-player-that-lets-you-hear-more-for-less-5hme)
-- [Unlock Your Developer Potential: A Guide to the Best Chrome Extensions](https://dev.to/jane49cloud/unlock-your-developer-potential-a-guide-to-the-best-chrome-extensions-20fb)
-- [Unlocking Agile Potential with GrowthBook and Feature Flags](https://dev.to/brainhubeu/unlocking-agile-potential-with-growthbook-and-feature-flags-17lb)
+- [Elanat 2 Released, Best .NET Core CMS](https://dev.to/elanatframework/elanat-2-released-best-net-core-cms-1985)
+- [Mocking Browsershot library in your tests](https://dev.to/devlopez/mocking-browsershot-library-in-your-tests-350e)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mig)
+- [Level-up Container Security: 4 Open-Source Tools for Secure Software Supply Chain](https://dev.to/azure/level-up-container-security-4-open-source-tools-for-secure-software-supply-chain-2gp5)
 <!-- BLOG-POST-LIST:END -->
 
