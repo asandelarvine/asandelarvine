@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [fartlang.org](https://dev.to/maximsaplin/fartlangorg-j85)
 - [Vleer: The Music Player That Lets You Hear More for Less](https://dev.to/waradu/vleer-the-music-player-that-lets-you-hear-more-for-less-5hme)
+- [Unlock Your Developer Potential: A Guide to the Best Chrome Extensions](https://dev.to/jane49cloud/unlock-your-developer-potential-a-guide-to-the-best-chrome-extensions-20fb)
 - [Unlocking Agile Potential with GrowthBook and Feature Flags](https://dev.to/brainhubeu/unlocking-agile-potential-with-growthbook-and-feature-flags-17lb)
-- [Join Virtual Coffee in the Preptember 2023 Monthly Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-preptember-2023-monthly-challenge-51d2)
-- [FLaNK Stack Weekly 5 September 2023](https://dev.to/tspannhw/flank-stack-weekly-5-september-2023-5g0f)
 <!-- BLOG-POST-LIST:END -->
 
