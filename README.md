@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prototype API&#39;s Quickly with In Memory DB](https://dev.to/expressots/prototype-apis-quickly-with-in-memory-db-3656)
-- [Top 6 FAQs about Security Token Offering Platform](https://dev.to/jessietomaz/top-6-faqs-about-security-token-offering-platform-473n)
-- [Fluent Validation in .NET Core - Advantages and Disadvantages](https://dev.to/bytehide/fluent-validation-in-net-core-advantages-and-disadvantages-1m07)
-- [🚀 Revolutionize Your Dev Workflow: Prioritizing Impact Over Busywork 🚀](https://dev.to/apetryla/revolutionize-your-dev-workflow-prioritizing-impact-over-busywork-3icc)
+- [The Top 8 E-commerce Niches with High Profit Potential in 2023: A SalesOperator&#39;s Guide](https://dev.to/salesoperator777/the-top-8-e-commerce-niches-with-high-profit-potential-in-2023-a-salesoperators-guide-1ppf)
+- [Welcome Thread - v241](https://dev.to/devteam/welcome-thread-v241-14jg)
+- [Essential 20% of DevOps that will give you 80% of the knowledge](https://dev.to/ronakmunjapara/essential-20-of-devops-that-will-give-you-80-of-the-knowledge-4fpo)
+- [In-depth Exploration of the Fundamental Principles and Broad-Spectrum Applications of LLMs](https://dev.to/ulianaev/in-depth-exploration-of-the-fundamental-principles-and-broad-spectrum-applications-of-llms-3p90)
 <!-- BLOG-POST-LIST:END -->
 
