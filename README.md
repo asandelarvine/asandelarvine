@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Bugs](https://dev.to/codenameone/the-evolution-of-bugs-cec)
-- [Advanced Git Commands and Workflows: A Comprehensive Guide for Developers](https://dev.to/documatic/advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865)
-- [Linux Sistemlerde Chroot kullanarak İmaj Dosyalarına Bağlanma](https://dev.to/dogukaneren/linux-sistemlerde-chroot-kullanarak-imaj-dosyalarina-baglanma-2npc)
-- [Solving LeetCode &quot;5. Longest Palindromic Substring&quot; using Dynamic Programming](https://dev.to/shivabollam07/solving-leetcode-5-longest-palindromic-substring-using-dynamic-programming-2in3)
+- [What&#39;s the Typical Tech Industry Job Tenure?](https://dev.to/codenewbieteam/whats-the-typical-tech-industry-job-tenure-55nl)
+- [Code Pet Peeves: What&#39;s Yours?](https://dev.to/devteam/code-pet-peeves-whats-yours-158l)
+- [Share Your Proudest UI Element Screenshot!](https://dev.to/devteam/share-your-proudest-ui-element-screenshot-2gpi)
+- [How to install Ghost CMS](https://dev.to/technology-schaechner/how-to-install-ghost-cms-32if)
 <!-- BLOG-POST-LIST:END -->
 
