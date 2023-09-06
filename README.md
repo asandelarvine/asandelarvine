@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Arbitrage Trading and Building an Automated Bot with Python](https://dev.to/paulwababu/a-comprehensive-guide-to-arbitrage-trading-and-building-an-automated-bot-with-python-1kf0)
+- [CSS Light/Dark Mode Implementation WITHOUT Duplicating Vars](https://dev.to/janeori/css-lightdark-mode-implementation-without-duplicating-vars-22c9)
+- [Hack Together: The Power Platform AI Global Hack](https://dev.to/azure/hack-together-the-power-platform-ai-global-hack-4bkb)
 - [Swirl: An open-source search engine with LLMs and ChatGPT to provide all the answers you need 🌌](https://dev.to/srbhr/swirl-an-open-source-search-engine-with-llms-and-chatgpt-to-provide-all-the-answers-you-need-1amc)
-- [Moneyball for engineers](https://dev.to/opensauced/moneyball-for-engineers-4ki9)
-- [Why should I learn Linux before going into cloud?](https://dev.to/ooluwatobi_o/why-should-i-learn-linux-before-going-into-cloud-25oe)
-- [NextJS API + React Query + Zod = type safety](https://dev.to/petrtcoi/nextjs-api-react-query-zod-type-safety-4c5e)
 <!-- BLOG-POST-LIST:END -->
 
