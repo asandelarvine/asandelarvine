@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluent Validation in .NET Core - Advantages and Disadvantages](https://dev.to/bytehide/fluent-validation-in-net-core-advantages-and-disadvantages-1m07)
+- [🚀 Revolutionize Your Dev Workflow: Prioritizing Impact Over Busywork 🚀](https://dev.to/apetryla/revolutionize-your-dev-workflow-prioritizing-impact-over-busywork-3icc)
+- [React Components | Gallary](https://dev.to/shubhamtiwari909/react-components-gallary-3p7b)
 - [What&#39;s the Typical Tech Industry Job Tenure?](https://dev.to/codenewbieteam/whats-the-typical-tech-industry-job-tenure-55nl)
-- [Code Pet Peeves: What&#39;s Yours?](https://dev.to/devteam/code-pet-peeves-whats-yours-158l)
-- [Share Your Proudest UI Element Screenshot!](https://dev.to/devteam/share-your-proudest-ui-element-screenshot-2gpi)
-- [How to install Ghost CMS](https://dev.to/technology-schaechner/how-to-install-ghost-cms-32if)
 <!-- BLOG-POST-LIST:END -->
 
