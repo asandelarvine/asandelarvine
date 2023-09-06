@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Techniques for Printing the Lowercase Alphabet without Newlines in Python](https://dev.to/scofieldidehen/techniques-for-printing-the-lowercase-alphabet-without-newlines-in-python-2o0e)
+- [How to make this quick image change animation with JS!](https://dev.to/lensco825/how-to-make-this-quick-image-change-animation-with-js-5dke)
+- [Building our first blockchain project: A blockchain voting contract](https://dev.to/feranmiodugbemi/building-our-first-blockchain-project-a-blockchain-voting-contract-fp8)
 - [Why Haven&#39;t Legal Amendments Adopted Version Control Systems Like Git?](https://dev.to/ranggakd/why-havent-legal-amendments-adopted-version-control-systems-like-git-1h4d)
-- [How to Find First and Last Position of Element in Sorted Array](https://dev.to/scc33/how-to-find-first-and-last-position-of-element-in-sorted-array-d7f)
-- [Mastering Jest: A Complete Guide to Testing Next.js Applications Part-2](https://dev.to/shuvotdr/mastering-jest-a-complete-guide-to-testing-nextjs-applications-part-2-5pl)
 <!-- BLOG-POST-LIST:END -->
 
