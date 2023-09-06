@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Prototype API&#39;s Quickly with In Memory DB](https://dev.to/expressots/prototype-apis-quickly-with-in-memory-db-3656)
+- [Top 6 FAQs about Security Token Offering Platform](https://dev.to/jessietomaz/top-6-faqs-about-security-token-offering-platform-473n)
 - [Fluent Validation in .NET Core - Advantages and Disadvantages](https://dev.to/bytehide/fluent-validation-in-net-core-advantages-and-disadvantages-1m07)
 - [🚀 Revolutionize Your Dev Workflow: Prioritizing Impact Over Busywork 🚀](https://dev.to/apetryla/revolutionize-your-dev-workflow-prioritizing-impact-over-busywork-3icc)
-- [React Components | Gallary](https://dev.to/shubhamtiwari909/react-components-gallary-3p7b)
-- [What&#39;s the Typical Tech Industry Job Tenure?](https://dev.to/codenewbieteam/whats-the-typical-tech-industry-job-tenure-55nl)
 <!-- BLOG-POST-LIST:END -->
 
