@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why should I learn Linux before going into cloud?](https://dev.to/ooluwatobi_o/why-should-i-learn-linux-before-going-into-cloud-25oe)
 - [How to robustly expose a webhook in Laravel](https://dev.to/tonyjoe/how-to-robustly-expose-a-webhook-in-laravel-4dip)
 - [A Guide to Node.js Streams: Advanced Functionality](https://dev.to/idurar/a-guide-to-nodejs-streams-advanced-functionality-kf4)
-- [Open Source ABCs: Network](https://dev.to/opensauced/open-source-abcs-network-3j1g)
-- [Securing Your Code with GitHub](https://dev.to/pwd9000/securing-your-code-with-github-3le0)
+- [Reverse Engineering for the Good: From the Source Code to the System Blueprint &lpar;Part I&rpar;](https://dev.to/remit/reverse-engineering-for-the-good-from-the-source-code-to-the-system-blueprint-part-i-1665)
 <!-- BLOG-POST-LIST:END -->
 
