@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sick of Writing Code Just for Mock Data? Try Sharkio 🚀🦈](https://dev.to/sharkio/sick-of-writing-code-just-for-mock-data-try-sharkio-4g5f)
-- [Elanat 2 Released, Best .NET Core CMS](https://dev.to/elanatframework/elanat-2-released-best-net-core-cms-1985)
-- [Level Up Your Readme File 📈](https://dev.to/ikhaledabdelfattah/level-up-your-readme-file-495f)
-- [Mocking Browsershot library in your tests](https://dev.to/devlopez/mocking-browsershot-library-in-your-tests-350e)
+- [Techniques for Printing the Lowercase Alphabet without Newlines in Python](https://dev.to/scofieldidehen/techniques-for-printing-the-lowercase-alphabet-without-newlines-in-python-2o0e)
+- [Why Haven&#39;t Legal Amendments Adopted Version Control Systems Like Git?](https://dev.to/ranggakd/why-havent-legal-amendments-adopted-version-control-systems-like-git-1h4d)
+- [How to Find First and Last Position of Element in Sorted Array](https://dev.to/scc33/how-to-find-first-and-last-position-of-element-in-sorted-array-d7f)
+- [Mastering Jest: A Complete Guide to Testing Next.js Applications Part-2](https://dev.to/shuvotdr/mastering-jest-a-complete-guide-to-testing-nextjs-applications-part-2-5pl)
 <!-- BLOG-POST-LIST:END -->
 
