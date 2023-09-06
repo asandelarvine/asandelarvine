@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own AI Meme Generator &amp; learn how to use OpenAI&#39;s function calls ☎️](https://dev.to/wasp/build-your-own-ai-meme-generator-learn-how-to-use-openais-function-calls-1p21)
+- [Building a Secure RESTful API Using NestJS and Prisma With Minimum Code](https://dev.to/zenstack/building-a-secure-restful-api-using-nestjs-and-prisma-with-minimum-code-45b5)
+- [Setting up a free &amp; production-ready web app backend in Go &lpar;with database&rpar; in less than 100 lines](https://dev.to/encore/setting-up-a-free-production-ready-web-app-backend-in-go-with-database-in-less-than-100-lines-4ge4)
 - [Jupyter Notebooks Tutorial for Beginners!](https://dev.to/pavanbelagatti/jupyter-notebooks-tutorial-for-beginners-12a8)
-- [Incremental HTML Rendering &amp; The Footgun Fallacy](https://dev.to/noamr/incremental-html-rendering-the-footgun-dillema-21ch)
-- [Understanding Nonce in Blockchain: A Simple Explanation](https://dev.to/shishsingh/understanding-nonce-in-blockchain-a-simple-explanation-1gm8)
-- [The Top 8 E-commerce Niches with High Profit Potential in 2023: A SalesOperator&#39;s Guide](https://dev.to/salesoperator777/the-top-8-e-commerce-niches-with-high-profit-potential-in-2023-a-salesoperators-guide-1ppf)
 <!-- BLOG-POST-LIST:END -->
 
