@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling computer vision events in real-time with Python, Kafka and Pipeless](https://dev.to/miguelaeh/handling-computer-vision-events-in-real-time-with-python-kafka-and-pipeless-4pno)
 - [👽 0.2.1 Amalgam takes the back seat and becomes Passenger](https://dev.to/adam_cyclones/amalgam-takes-the-back-seat-and-becomes-passenger-5e1e)
 - [Build your own AI Meme Generator &amp; learn how to use OpenAI&#39;s function calls ☎️](https://dev.to/wasp/build-your-own-ai-meme-generator-learn-how-to-use-openais-function-calls-1p21)
 - [Building a Secure RESTful API Using NestJS and Prisma With Minimum Code](https://dev.to/zenstack/building-a-secure-restful-api-using-nestjs-and-prisma-with-minimum-code-45b5)
-- [How to Process Stripe Subscriptions In Your Serverless Apps](https://dev.to/aws-heroes/how-to-process-stripe-subscriptions-in-your-serverless-apps-1dha)
 <!-- BLOG-POST-LIST:END -->
 
