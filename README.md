@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to robustly expose a webhook in Laravel](https://dev.to/tonyjoe/how-to-robustly-expose-a-webhook-in-laravel-4dip)
+- [A Guide to Node.js Streams: Advanced Functionality](https://dev.to/idurar/a-guide-to-nodejs-streams-advanced-functionality-kf4)
+- [Open Source ABCs: Network](https://dev.to/opensauced/open-source-abcs-network-3j1g)
 - [Securing Your Code with GitHub](https://dev.to/pwd9000/securing-your-code-with-github-3le0)
-- [GPT Pilot - a dev tool that writes 95% of coding tasks](https://dev.to/zvone187/gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-dem)
-- [Nx 16.8 Release!!!](https://dev.to/nx/nx-168-release-mn5)
-- [Displaying Country Flags in React: Emojis vs SVG](https://dev.to/rodionchachura/displaying-country-flags-in-react-emojis-vs-svg-58h8)
 <!-- BLOG-POST-LIST:END -->
 
