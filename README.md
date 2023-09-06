@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥🤖 Build an AI-Powered Discord Bot to Recommend HackerNews Posts using OpenAI, Novu and Agenta 🚀](https://dev.to/agenta/build-an-ai-powered-discord-bot-to-recommend-hackernews-posts-using-openai-novu-and-agenta-3ffi)
-- [Learning JavaScript the Easy Way: Unlocking the Power of Scope with Closures](https://dev.to/unkletayo/learning-javascript-the-easy-way-unlocking-the-power-of-scope-with-closures-3mgb)
-- [Understanding NaN Equality in JavaScript](https://dev.to/mmvergara/understanding-nan-equality-in-javascript-n10)
-- [Agile Board: A Trello-like API in NestJS with Unit and e2e Testing](https://dev.to/malikidrees/agile-board-a-trello-like-api-in-nestjs-with-unit-and-e2e-testing-4823)
+- [How to Build a Developer Blog using Next JS 13 and Contentlayer - Part three](https://dev.to/dbrownsoftware/how-to-build-a-developer-blog-using-next-js-13-and-contentlayer-part-three-1155)
+- [How to Build a Developer Blog using Next JS 13 and Contentlayer - Part two](https://dev.to/dbrownsoftware/how-to-build-a-developer-blog-using-next-js-13-and-contentlayer-part-two-bp4)
+- [How to Build a Developer Blog using Next JS 13 and Contentlayer - Part one](https://dev.to/dbrownsoftware/how-to-build-a-developer-blog-using-next-js-13-and-contentlayer-part-one-k2c)
+- [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan)
 <!-- BLOG-POST-LIST:END -->
 
