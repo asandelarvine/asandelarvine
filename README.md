@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter Notebooks Tutorial for Beginners!](https://dev.to/pavanbelagatti/jupyter-notebooks-tutorial-for-beginners-12a8)
+- [Incremental HTML Rendering &amp; The Footgun Fallacy](https://dev.to/noamr/incremental-html-rendering-the-footgun-dillema-21ch)
+- [Understanding Nonce in Blockchain: A Simple Explanation](https://dev.to/shishsingh/understanding-nonce-in-blockchain-a-simple-explanation-1gm8)
 - [The Top 8 E-commerce Niches with High Profit Potential in 2023: A SalesOperator&#39;s Guide](https://dev.to/salesoperator777/the-top-8-e-commerce-niches-with-high-profit-potential-in-2023-a-salesoperators-guide-1ppf)
-- [Welcome Thread - v241](https://dev.to/devteam/welcome-thread-v241-14jg)
-- [Essential 20% of DevOps that will give you 80% of the knowledge](https://dev.to/ronakmunjapara/essential-20-of-devops-that-will-give-you-80-of-the-knowledge-4fpo)
-- [In-depth Exploration of the Fundamental Principles and Broad-Spectrum Applications of LLMs](https://dev.to/ulianaev/in-depth-exploration-of-the-fundamental-principles-and-broad-spectrum-applications-of-llms-3p90)
 <!-- BLOG-POST-LIST:END -->
 
