@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Solving LeetCode &quot;5. Longest Palindromic Substring&quot; using Dynamic Programming](https://dev.to/shivabollam07/solving-leetcode-5-longest-palindromic-substring-using-dynamic-programming-2in3)
 - [How to Connect BMP-180 to Raspberry Pi Pico W](https://dev.to/shilleh/how-to-connect-bmp-180-to-raspberry-pi-pico-w-4ofc)
+- [Playing with low-level memory in WebAssembly](https://dev.to/iprosk/playing-with-low-level-memory-in-webassembly-257i)
 - [How to Connect MPU6050 to ESP32: Physical Setup and Code](https://dev.to/shilleh/how-to-connect-mpu6050-to-esp32-physical-setup-and-code-4phi)
-- [Effortless Data Storage: MongoDB Database and Raspberry Pi Pico W Walkthrough - Part 2 &lpar;CRUD&rpar;](https://dev.to/shilleh/effortless-data-storage-mongodb-database-and-raspberry-pi-pico-w-walkthrough-part-2-crud-4fb1)
 <!-- BLOG-POST-LIST:END -->
 
