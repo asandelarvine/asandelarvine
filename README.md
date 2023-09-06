@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Swirl: An open-source search engine with LLMs and ChatGPT to provide all the answers you need 🌌](https://dev.to/srbhr/swirl-an-open-source-search-engine-with-llms-and-chatgpt-to-provide-all-the-answers-you-need-1amc)
+- [Moneyball for engineers](https://dev.to/opensauced/moneyball-for-engineers-4ki9)
 - [Why should I learn Linux before going into cloud?](https://dev.to/ooluwatobi_o/why-should-i-learn-linux-before-going-into-cloud-25oe)
-- [How to robustly expose a webhook in Laravel](https://dev.to/tonyjoe/how-to-robustly-expose-a-webhook-in-laravel-4dip)
-- [A Guide to Node.js Streams: Advanced Functionality](https://dev.to/idurar/a-guide-to-nodejs-streams-advanced-functionality-kf4)
-- [Reverse Engineering for the Good: From the Source Code to the System Blueprint &lpar;Part I&rpar;](https://dev.to/remit/reverse-engineering-for-the-good-from-the-source-code-to-the-system-blueprint-part-i-1665)
+- [NextJS API + React Query + Zod = type safety](https://dev.to/petrtcoi/nextjs-api-react-query-zod-type-safety-4c5e)
 <!-- BLOG-POST-LIST:END -->
 
