@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning JavaScript the Easy Way: Unlocking the Power of Scope with Closures](https://dev.to/unkletayo/learning-javascript-the-easy-way-unlocking-the-power-of-scope-with-closures-3mgb)
+- [Understanding NaN Equality in JavaScript](https://dev.to/mmvergara/understanding-nan-equality-in-javascript-n10)
+- [Agile Board: A Trello-like API in NestJS with Unit and e2e Testing](https://dev.to/malikidrees/agile-board-a-trello-like-api-in-nestjs-with-unit-and-e2e-testing-4823)
 - [&quot;Diversity Dialogues in Tech&quot;: CodeNewbie Podcast S25E4](https://dev.to/codenewbieteam/diversity-dialogues-in-tech-codenewbie-podcast-s25e4-1h62)
-- [ARE WEB 3 PROJECT COST EFFECTIVE?](https://dev.to/scofieldidehen/are-web-3-project-cost-effective-34jn)
-- [[ptbr] Podman, uma bela opção.](https://dev.to/dellamas/ptbr-podman-uma-bela-opcao-1lg6)
-- [Automating AWS WorkSpaces Tier Management with CloudFormation](https://dev.to/thetrebelcc/automating-aws-workspaces-tier-management-with-cloudformation-80m)
 <!-- BLOG-POST-LIST:END -->
 
