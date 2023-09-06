@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Techniques for Printing the Lowercase Alphabet without Newlines in Python](https://dev.to/scofieldidehen/techniques-for-printing-the-lowercase-alphabet-without-newlines-in-python-2o0e)
-- [How to make this quick image change animation with JS!](https://dev.to/lensco825/how-to-make-this-quick-image-change-animation-with-js-5dke)
-- [Building our first blockchain project: A blockchain voting contract](https://dev.to/feranmiodugbemi/building-our-first-blockchain-project-a-blockchain-voting-contract-fp8)
-- [Why Haven&#39;t Legal Amendments Adopted Version Control Systems Like Git?](https://dev.to/ranggakd/why-havent-legal-amendments-adopted-version-control-systems-like-git-1h4d)
+- [Solving LeetCode &quot;5. Longest Palindromic Substring&quot; using Dynamic Programming](https://dev.to/shivabollam07/solving-leetcode-5-longest-palindromic-substring-using-dynamic-programming-2in3)
+- [How to Connect BMP-180 to Raspberry Pi Pico W](https://dev.to/shilleh/how-to-connect-bmp-180-to-raspberry-pi-pico-w-4ofc)
+- [How to Connect MPU6050 to ESP32: Physical Setup and Code](https://dev.to/shilleh/how-to-connect-mpu6050-to-esp32-physical-setup-and-code-4phi)
+- [Effortless Data Storage: MongoDB Database and Raspberry Pi Pico W Walkthrough - Part 2 &lpar;CRUD&rpar;](https://dev.to/shilleh/effortless-data-storage-mongodb-database-and-raspberry-pi-pico-w-walkthrough-part-2-crud-4fb1)
 <!-- BLOG-POST-LIST:END -->
 
