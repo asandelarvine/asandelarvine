@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to become a Bug Bounty Hunter](https://dev.to/parmita17/how-to-become-a-bug-bounty-hunting-40jd)
+- [AI coding tools are good at simple tasks. McKinsey and GitHub data suggests](https://dev.to/maximsaplin/ai-coding-tools-are-good-at-simple-tasks-mckinsey-and-github-data-suggests-3ij2)
+- [Exploring the Differences: Next.js 12 vs. Next.js 13 - What&#39;s New?](https://dev.to/dj1samsoe/exploring-the-differences-nextjs-12-vs-nextjs-13-whats-new-32g4)
 - [What Do You Wish People Asked?](https://dev.to/devteam/what-do-you-wish-people-asked-2d2k)
-- [Domain Modeling: Creating Conceptual Models for Software](https://dev.to/nvspavankalyan/domain-modeling-creating-conceptual-models-for-software-emh)
-- [How to Contribute to Open-Source Projects – A Handbook for Beginners](https://dev.to/larymak/how-to-contribute-to-open-source-projects-a-handbook-for-beginners-kci)
-- [Boosting Business Success: Customer Retention and Acquisition Insights](https://dev.to/salesoperator777/boosting-business-success-customer-retention-and-acquisition-insights-2l46)
 <!-- BLOG-POST-LIST:END -->
 
