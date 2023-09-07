@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting changes in JavaScript and CSS isn&#39;t an easy task, Part 1](https://dev.to/azasypkin/detecting-changes-in-javascript-and-css-isnt-an-easy-task-part-1-2p62)
-- [✨Stylish Product Card with Pure CSS ✨](https://dev.to/smitprajapati/stylish-product-card-with-pure-css-3me2)
-- [How To Launch STO Platform? - A Pathway to Successful Business](https://dev.to/adelelara/how-to-launch-sto-platform-a-pathway-to-successful-business-fgk)
-- [Serverless your way: Unleashing Appwrite Function’s true potential](https://dev.to/appwrite/serverless-your-way-unleashing-appwrite-functions-true-potential-2l4f)
+- [How to write maintainable code: Straightforward logic](https://dev.to/how-to-dev/how-to-write-maintainable-code-straightforward-logic-4nie)
+- [Implementing OAuth2 Clients with Flutter made simple](https://dev.to/hackmamba/implementing-oauth2-clients-with-flutter-made-simple-n4l)
+- [Learn a11y](https://dev.to/easewithtuts/learn-a11y-5186)
+- [SIMPLE GAME USING PYGAME](https://dev.to/suryanshcode/simple-game-using-pygame-1m1n)
 <!-- BLOG-POST-LIST:END -->
 
