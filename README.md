@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal With DataStore Preferences In Android App Using Kotlin](https://dev.to/karim_abdallah/deal-with-datastore-preferences-in-android-app-using-kotlin-27e9)
+- [Discussion of the Week - v1](https://dev.to/devteam/discussion-of-the-week-v1-2alj)
 - [It’s My Birthday!!](https://dev.to/thatcomputerguy/its-my-birthday-kna)
 - [Testing is not about the happy path](https://dev.to/noriller/testing-is-not-about-the-happy-path-3je1)
-- [Mojo🔥SDK has been released for Linux](https://dev.to/maximsaplin/mojosdk-has-been-released-for-linux-2phh)
-- [📝How to use embeds on your Dev Community blogposts 🧾](https://dev.to/dumebii/how-to-use-embeds-on-your-dev-community-blogposts-3oe5)
 <!-- BLOG-POST-LIST:END -->
 
