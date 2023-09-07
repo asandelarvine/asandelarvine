@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use a News API for Media Monitoring](https://dev.to/newsdataio/how-to-use-a-news-api-for-media-monitoring-5akp)
+- [Mastering Conflict Resolution: 8 Expert Tips to Transform Challenging Interactions into Opportunities](https://dev.to/apetryla/mastering-conflict-resolution-8-expert-tips-to-transform-challenging-interactions-into-opportunities-4c6k)
 - [Offering my blog to new authors](https://dev.to/nfrankel/offering-my-blog-to-new-authors-45df)
-- [Insanely easy to add themes to your Next.js + Tailwind project](https://dev.to/vasujhawar/insanely-easy-to-add-themes-to-your-nextjs-tailwind-project-fjk)
-- [Zero-downtime Docker-Compose Blue-Green deployment on a service layer with Consul &amp; Registrator](https://dev.to/andrewkangg/zero-downtime-docker-compose-blue-green-deployment-on-a-service-layer-with-consul-registrator-202g)
-- [How to become a Bug Bounty Hunter](https://dev.to/parmita17/how-to-become-a-bug-bounty-hunting-40jd)
+- [Insanely easy to add theme to your NEXT.js + Tailwind project](https://dev.to/vasujhawar/insanely-easy-to-add-themes-to-your-nextjs-tailwind-project-fjk)
 <!-- BLOG-POST-LIST:END -->
 
