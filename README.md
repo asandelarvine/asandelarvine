@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gradle: from Newbie to Strong fundamentals](https://dev.to/y9vad9/gradle-from-newbie-to-strong-fundamentals-mdf)
-- [Boost your editorial experience with distributed content management](https://dev.to/graphcms/boost-your-editorial-experience-with-distributed-content-management-50ni)
-- [4 Steps to Update the Next.js Marketplace Template](https://dev.to/tonyspiro/4-steps-to-update-the-nextjs-marketplace-template-2iaj)
-- [External database integration](https://dev.to/neuml/external-database-integration-1001)
+- [📝How to use embeds on your Dev Community blogposts 🧾](https://dev.to/dumebii/how-to-use-embeds-on-your-dev-community-blogposts-3oe5)
+- [Estudo de base sobre RAID: origem, tipos e características](https://dev.to/luigibelanda/estudo-de-base-sobre-raid-origem-tipos-e-caracteristicas-5fd9)
+- [GameOn: Cómo AWS y Riot Games están abriendo nuevos caminos en el campo de los e-sports](https://dev.to/davidshaek/gameon-como-aws-y-riot-games-estan-abriendo-nuevos-caminos-en-el-campo-de-los-e-sports-1ai7)
+- [GameOn: How AWS and Riot Games Revolutionize the E-Sports Scene with a Splash of Innovation! 🎮](https://dev.to/davidshaek/gameon-how-aws-and-riot-games-revolutionize-the-e-sports-scene-with-a-splash-of-innovation-5b3o)
 <!-- BLOG-POST-LIST:END -->
 
