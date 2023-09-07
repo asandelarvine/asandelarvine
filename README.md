@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the &quot;Search Insert Position&quot; Problem on LeetCode using Binary search](https://dev.to/shivabollam07/solving-the-search-insert-position-problem-on-leetcode-using-binary-search-og)
-- [Sloan&#39;s Inbox: Considering a role as a Dev Advocate, but worried about less coding &amp; more marketing...](https://dev.to/devteam/sloans-inbox-considering-a-role-as-a-dev-advocate-but-worried-about-less-coding-more-marketing-152c)
-- [Pilot - Start of my blog journey](https://dev.to/rjsgml/pilot-start-of-my-blog-journey-2b04)
-- [Learn Intl API](https://dev.to/easewithtuts/learn-intl-api-4705)
+- [How to Contribute to Open-Source Projects – A Handbook for Beginners](https://dev.to/larymak/how-to-contribute-to-open-source-projects-a-handbook-for-beginners-kci)
+- [Boosting Business Success: Customer Retention and Acquisition Insights](https://dev.to/salesoperator777/boosting-business-success-customer-retention-and-acquisition-insights-2l46)
+- [Electron Forge + Vite + VueJS](https://dev.to/brojenuel/electron-forge-vite-vuejs-21he)
+- [Custom Modal Box HTML CSS &amp; JavaScript](https://dev.to/stakedesigner/custom-modal-box-html-css-javascript-35o8)
 <!-- BLOG-POST-LIST:END -->
 
