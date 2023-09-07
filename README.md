@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 Building a real-time chat with Websockets, Novel and Clerk 🚀🚀](https://dev.to/novu/building-a-real-time-chat-with-websockets-novel-and-clerk-40ac)
-- [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-eib)
-- [#DEVDiscuss: Marketing for Developers](https://dev.to/devteam/devdiscuss-marketing-for-developers-f9k)
-- [dev log 1](https://dev.to/wyattbubbylee/dev-log-1-9ep)
+- [Build an AI-powered NFT generator with TS, GPT, Polygon an CASE &lpar;Part 1/2&rpar;](https://dev.to/casejs/build-an-ai-powered-nft-generator-with-ts-gpt-polygon-an-case-part-12-2fko)
+- [ESP32 Standard Library Embedded Rust: GPIO Interrupts](https://dev.to/apollolabsbin/esp32-standard-library-embedded-rust-gpio-interrupts-2j2i)
+- [Closing a chapter at GitHub](https://dev.to/blackgirlbytes/closing-a-chapter-at-github-1k06)
+- [Project: Creating a Scalable Serverless Chat Application on AWS](https://dev.to/brandondamue/project-creating-a-scalable-serverless-chat-application-on-aws-3geg)
 <!-- BLOG-POST-LIST:END -->
 
