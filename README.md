@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost your editorial experience with distributed content management](https://dev.to/graphcms/boost-your-editorial-experience-with-distributed-content-management-50ni)
+- [4 Steps to Update the Next.js Marketplace Template](https://dev.to/tonyspiro/4-steps-to-update-the-nextjs-marketplace-template-2iaj)
+- [External database integration](https://dev.to/neuml/external-database-integration-1001)
 - [Demystifying HTTP Status Codes: Essential Knowledge for Node.js Newbies](https://dev.to/codewithrabeeh/demystifying-http-status-codes-essential-knowledge-for-nodejs-newbies-3dph)
-- [A new way of saying good morning to my dad](https://dev.to/fricardi/a-new-way-of-saying-good-morning-to-my-dad-3mp0)
-- [Top 10 Online Courses to Learn ChatGPT in 2023](https://dev.to/couponos99/top-10-online-courses-to-learn-chatgpt-in-2023-29hc)
-- [Getting started with Python and Playwright](https://dev.to/debs_obrien/getting-started-with-python-and-playwright-7lf)
 <!-- BLOG-POST-LIST:END -->
 
