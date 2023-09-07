@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💬 Building a real-time chat with Websockets, Novel and Clerk 🚀🚀](https://dev.to/novu/building-a-real-time-chat-with-websockets-novel-and-clerk-40ac)
+- [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-eib)
+- [#DEVDiscuss: Marketing for Developers](https://dev.to/devteam/devdiscuss-marketing-for-developers-f9k)
 - [dev log 1](https://dev.to/wyattbubbylee/dev-log-1-9ep)
-- [Easy Dockerization with Docker init](https://dev.to/livecycle/easy-dockerization-with-docker-init-3oom)
-- [Shadow API Adoption Skyrockets 900%! 🚀](https://dev.to/nathan20/shadow-api-adoption-skyrockets-900-3827)
-- [Parsing URL Search Parameters with Zod 💎](https://dev.to/rgolawski/parsing-url-search-parameters-with-zod-4kef)
 <!-- BLOG-POST-LIST:END -->
 
