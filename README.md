@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle: from Newbie to Strong fundamentals](https://dev.to/y9vad9/gradle-from-newbie-to-strong-fundamentals-mdf)
 - [Boost your editorial experience with distributed content management](https://dev.to/graphcms/boost-your-editorial-experience-with-distributed-content-management-50ni)
 - [4 Steps to Update the Next.js Marketplace Template](https://dev.to/tonyspiro/4-steps-to-update-the-nextjs-marketplace-template-2iaj)
 - [External database integration](https://dev.to/neuml/external-database-integration-1001)
-- [Demystifying HTTP Status Codes: Essential Knowledge for Node.js Newbies](https://dev.to/codewithrabeeh/demystifying-http-status-codes-essential-knowledge-for-nodejs-newbies-3dph)
 <!-- BLOG-POST-LIST:END -->
 
