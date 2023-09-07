@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deal With DataStore Preferences In Android App Using Kotlin](https://dev.to/karim_abdallah/deal-with-datastore-preferences-in-android-app-using-kotlin-27e9)
+- [Angular 15: Transitioning deprecated CanDeactivate&lpar;&rpar; to Functional Guards](https://dev.to/junlow/angular-15-transitioning-deprecated-candeactivate-to-functional-guards-4ia8)
+- [How To use DataStore Preferences In Android App Using Kotlin](https://dev.to/karim_abdallah/deal-with-datastore-preferences-in-android-app-using-kotlin-27e9)
 - [Discussion of the Week - v1](https://dev.to/devteam/discussion-of-the-week-v1-2alj)
-- [It’s My Birthday!!](https://dev.to/thatcomputerguy/its-my-birthday-kna)
-- [Testing is not about the happy path](https://dev.to/noriller/testing-is-not-about-the-happy-path-3je1)
+- [Setting Up A Node.JS Environment On A Steam Deck](https://dev.to/justinbauerweb/setting-up-a-nodejs-environment-on-a-steam-deck-53mk)
 <!-- BLOG-POST-LIST:END -->
 
