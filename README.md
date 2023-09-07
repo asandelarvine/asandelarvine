@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Do You Wish People Asked?](https://dev.to/devteam/what-do-you-wish-people-asked-2d2k)
+- [Domain Modeling: Creating Conceptual Models for Software](https://dev.to/nvspavankalyan/domain-modeling-creating-conceptual-models-for-software-emh)
 - [How to Contribute to Open-Source Projects – A Handbook for Beginners](https://dev.to/larymak/how-to-contribute-to-open-source-projects-a-handbook-for-beginners-kci)
 - [Boosting Business Success: Customer Retention and Acquisition Insights](https://dev.to/salesoperator777/boosting-business-success-customer-retention-and-acquisition-insights-2l46)
-- [Electron Forge + Vite + VueJS](https://dev.to/brojenuel/electron-forge-vite-vuejs-21he)
-- [Custom Modal Box HTML CSS &amp; JavaScript](https://dev.to/stakedesigner/custom-modal-box-html-css-javascript-35o8)
 <!-- BLOG-POST-LIST:END -->
 
