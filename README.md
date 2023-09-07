@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Offering my blog to new authors](https://dev.to/nfrankel/offering-my-blog-to-new-authors-45df)
+- [Insanely easy to add themes to your Next.js + Tailwind project](https://dev.to/vasujhawar/insanely-easy-to-add-themes-to-your-nextjs-tailwind-project-fjk)
+- [Zero-downtime Docker-Compose Blue-Green deployment on a service layer with Consul &amp; Registrator](https://dev.to/andrewkangg/zero-downtime-docker-compose-blue-green-deployment-on-a-service-layer-with-consul-registrator-202g)
 - [How to become a Bug Bounty Hunter](https://dev.to/parmita17/how-to-become-a-bug-bounty-hunting-40jd)
-- [AI coding tools are good at simple tasks. McKinsey and GitHub data suggests](https://dev.to/maximsaplin/ai-coding-tools-are-good-at-simple-tasks-mckinsey-and-github-data-suggests-3ij2)
-- [Exploring the Differences: Next.js 12 vs. Next.js 13 - What&#39;s New?](https://dev.to/dj1samsoe/exploring-the-differences-nextjs-12-vs-nextjs-13-whats-new-32g4)
-- [What Do You Wish People Asked?](https://dev.to/devteam/what-do-you-wish-people-asked-2d2k)
 <!-- BLOG-POST-LIST:END -->
 
