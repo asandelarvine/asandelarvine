@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use a News API for Media Monitoring](https://dev.to/newsdataio/how-to-use-a-news-api-for-media-monitoring-5akp)
-- [Mastering Conflict Resolution: 8 Expert Tips to Transform Challenging Interactions into Opportunities](https://dev.to/apetryla/mastering-conflict-resolution-8-expert-tips-to-transform-challenging-interactions-into-opportunities-4c6k)
-- [Offering my blog to new authors](https://dev.to/nfrankel/offering-my-blog-to-new-authors-45df)
-- [Insanely easy to add theme to your NEXT.js + Tailwind project](https://dev.to/vasujhawar/insanely-easy-to-add-themes-to-your-nextjs-tailwind-project-fjk)
+- [Detecting changes in JavaScript and CSS isn&#39;t an easy task, Part 1](https://dev.to/azasypkin/detecting-changes-in-javascript-and-css-isnt-an-easy-task-part-1-2p62)
+- [✨Stylish Product Card with Pure CSS ✨](https://dev.to/smitprajapati/stylish-product-card-with-pure-css-3me2)
+- [How To Launch STO Platform? - A Pathway to Successful Business](https://dev.to/adelelara/how-to-launch-sto-platform-a-pathway-to-successful-business-fgk)
+- [Serverless your way: Unleashing Appwrite Function’s true potential](https://dev.to/appwrite/serverless-your-way-unleashing-appwrite-functions-true-potential-2l4f)
 <!-- BLOG-POST-LIST:END -->
 
