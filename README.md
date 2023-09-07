@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s My Birthday!!](https://dev.to/thatcomputerguy/its-my-birthday-kna)
+- [Testing is not about the happy path](https://dev.to/noriller/testing-is-not-about-the-happy-path-3je1)
+- [Mojo🔥SDK has been released for Linux](https://dev.to/maximsaplin/mojosdk-has-been-released-for-linux-2phh)
 - [📝How to use embeds on your Dev Community blogposts 🧾](https://dev.to/dumebii/how-to-use-embeds-on-your-dev-community-blogposts-3oe5)
-- [Estudo de base sobre RAID: origem, tipos e características](https://dev.to/luigibelanda/estudo-de-base-sobre-raid-origem-tipos-e-caracteristicas-5fd9)
-- [GameOn: Cómo AWS y Riot Games están abriendo nuevos caminos en el campo de los e-sports](https://dev.to/davidshaek/gameon-como-aws-y-riot-games-estan-abriendo-nuevos-caminos-en-el-campo-de-los-e-sports-1ai7)
-- [GameOn: How AWS and Riot Games Revolutionize the E-Sports Scene with a Splash of Innovation! 🎮](https://dev.to/davidshaek/gameon-how-aws-and-riot-games-revolutionize-the-e-sports-scene-with-a-splash-of-innovation-5b3o)
 <!-- BLOG-POST-LIST:END -->
 
