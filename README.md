@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI-powered NFT generator with TS, GPT, Polygon an CASE &lpar;Part 1/2&rpar;](https://dev.to/casejs/build-an-ai-powered-nft-generator-with-ts-gpt-polygon-an-case-part-12-2fko)
-- [ESP32 Standard Library Embedded Rust: GPIO Interrupts](https://dev.to/apollolabsbin/esp32-standard-library-embedded-rust-gpio-interrupts-2j2i)
-- [Closing a chapter at GitHub](https://dev.to/blackgirlbytes/closing-a-chapter-at-github-1k06)
-- [Project: Creating a Scalable Serverless Chat Application on AWS](https://dev.to/brandondamue/project-creating-a-scalable-serverless-chat-application-on-aws-3geg)
+- [A new way of saying good morning to my dad](https://dev.to/fricardi/a-new-way-of-saying-good-morning-to-my-dad-3mp0)
+- [Top 10 Online Courses to Learn ChatGPT in 2023](https://dev.to/couponos99/top-10-online-courses-to-learn-chatgpt-in-2023-29hc)
+- [Getting started with Python and Playwright](https://dev.to/debs_obrien/getting-started-with-python-and-playwright-7lf)
+- [UART Communication protocol](https://dev.to/raks2000/uart-communication-protocol-2oa7)
 <!-- BLOG-POST-LIST:END -->
 
