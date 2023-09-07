@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stay Ahead of the Game Must Have Front-End Boilerplates and Starter Kits for Every Developer](https://dev.to/dev_arizon/stay-ahead-of-the-game-must-have-front-end-boilerplates-and-starter-kits-for-every-developer-498b)
 - [How to Build a Developer Blog using Next JS 13 and Contentlayer - Part three](https://dev.to/dbrownsoftware/how-to-build-a-developer-blog-using-next-js-13-and-contentlayer-part-three-1155)
 - [How to Build a Developer Blog using Next JS 13 and Contentlayer - Part two](https://dev.to/dbrownsoftware/how-to-build-a-developer-blog-using-next-js-13-and-contentlayer-part-two-bp4)
 - [How to Build a Developer Blog using Next JS 13 and Contentlayer - Part one](https://dev.to/dbrownsoftware/how-to-build-a-developer-blog-using-next-js-13-and-contentlayer-part-one-k2c)
-- [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan)
 <!-- BLOG-POST-LIST:END -->
 
