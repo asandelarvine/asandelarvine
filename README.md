@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make Random Color Palette Generator](https://dev.to/stakedesigner/how-to-make-random-color-palette-generator-4gdk)
+- [Pest-Driven Development: Literally The First Test](https://dev.to/sifrious/pest-driven-development-in-a-volunteering-coordination-application-literally-the-first-test-3dn5)
 - [How to Connect BMP-280 to ESP32: Get Pressure &amp; Temp](https://dev.to/shilleh/how-to-connect-bmp-280-to-esp32-get-pressure-temp-31pb)
 - [Give Me A .JSON, Vasili; One .JSON Only, Please](https://dev.to/tythos/give-me-a-json-vasili-one-json-only-please-3kli)
-- [Mastering ES6 - Map, Filter, and Reduce](https://dev.to/easewithtuts/mastering-es6-map-filter-and-reduce-3bln)
-- [The Silent Power of Data Structures and Algorithms - A Developer&#39;s Guide](https://dev.to/stungnet/the-silent-power-of-data-structures-and-algorithms-a-developers-guide-3g83)
 <!-- BLOG-POST-LIST:END -->
 
