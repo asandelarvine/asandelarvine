@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Contact Form with Microsoft Azure and Blazor](https://dev.to/this-is-learning/building-a-contact-form-with-microsoft-azure-and-blazor-3fbh)
+- [Create Matrix Animation using JavaScript](https://dev.to/dshaw0004/create-matrix-animation-using-javascript-36m3)
 - [Top 10 tips for becoming a proficient JavaScript developer](https://dev.to/sureshpattu/top-10-tips-for-becoming-a-proficient-javascript-developer-475h)
 - [Mastering Data Analysis with Pandas: A Comprehensive Guide for Python Enthusiasts](https://dev.to/iamcymentho/mastering-data-analysis-with-pandas-a-comprehensive-guide-for-python-enthusiasts-426e)
-- [Mastering Proxy: Forward and Reverse Proxy](https://dev.to/emmanuel_ishola/what-do-you-know-about-proxy-forward-and-reverse-proxy-jem)
-- [Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/patric12/understanding-javascript-promises-a-beginners-guide-51ee)
 <!-- BLOG-POST-LIST:END -->
 
