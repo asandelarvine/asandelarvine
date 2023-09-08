@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Free Public APIs For Developer](https://dev.to/shivamblog/8-free-public-apis-for-developer-5ah9)
+- [I efficiently learned &quot;webpack development environment configuration&quot; using this idea](https://dev.to/limingcan562/i-efficiently-learned-webpack-development-environment-configuration-using-this-idea-2f2e)
+- [Deploying Documenso with Vercel, Supabase and Resend](https://dev.to/documenso/deploying-documenso-with-vercel-supabase-and-resend-foi)
 - [A simple way to deal with closure over a stale state in React code](https://dev.to/varadan13/a-simple-way-to-deal-with-closure-over-a-stale-state-in-react-code-3hjh)
-- [Pest-Driven Development: Minimum Viable Routing](https://dev.to/sifrious/pest-driven-development-minimum-viable-routing-2k2p)
-- [Hidden Talents Unveiled: Skills Beyond Coding](https://dev.to/codenewbieteam/hidden-talents-unveiled-skills-beyond-coding-3lej)
-- [What Are the Benefits of Being Uncomfortable?](https://dev.to/devteam/what-are-the-benefits-of-being-uncomfortable-411e)
 <!-- BLOG-POST-LIST:END -->
 
