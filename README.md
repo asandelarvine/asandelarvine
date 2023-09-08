@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Easy Steps to Secure your Cloud Server](https://dev.to/sliplane/5-easy-steps-to-secure-your-cloud-server-i17)
+- [Testing Microservices with Skyramp in IntelliJ IDEA](https://dev.to/dangross/testing-microservices-with-skyramp-in-intellij-idea-2a2k)
 - [The Spectrum of Developer Entrepreneurship](https://dev.to/inovak/the-spectrum-of-developer-entrepreneurship-566p)
-- [Tailwind CSS: Using Dynamic Breakpoints and Container Queries](https://dev.to/alakkadshaw/tailwind-css-using-dynamic-breakpoints-and-container-queries-5clb)
-- [Exploring Script Loading Strategies: Normal, async, and defer](https://dev.to/muhammedshameel/exploring-script-loading-strategies-normal-async-and-defer-26ne)
-- [How can I enhance my website&#39;s performance in Lighthouse?](https://dev.to/ucrynet/how-can-i-enhance-my-websites-performance-in-lighthouse-3en0)
+- [Mastering JavaScript Classes: Your Shortcut to OOP Success!](https://dev.to/miroiudev/mastering-javascript-classes-your-shortcut-to-oop-success-57pp)
 <!-- BLOG-POST-LIST:END -->
 
