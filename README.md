@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Tips for Clean TypeScript Code you Must Know](https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k)
+- [Introduction to TypeScript with React - A Youtube Video](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-a-youtube-video-452d)
 - [How to make Random Color Palette Generator](https://dev.to/stakedesigner/how-to-make-random-color-palette-generator-4gdk)
-- [Pest-Driven Development: Literally The First Test](https://dev.to/sifrious/pest-driven-development-in-a-volunteering-coordination-application-literally-the-first-test-3dn5)
-- [How to Connect BMP-280 to ESP32: Get Pressure &amp; Temp](https://dev.to/shilleh/how-to-connect-bmp-280-to-esp32-get-pressure-temp-31pb)
-- [Give Me A .JSON, Vasili; One .JSON Only, Please](https://dev.to/tythos/give-me-a-json-vasili-one-json-only-please-3kli)
+- [Rust, Go, Rinha e I/O](https://dev.to/leandronsp/rust-go-rinha-e-io-39o2)
 <!-- BLOG-POST-LIST:END -->
 
