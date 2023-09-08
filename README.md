@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript Async Iterators: Unlocking Asynchronous Magic](https://dev.to/this-is-learning/mastering-javascript-async-iterators-unlocking-asynchronous-magic-470k)
 - [8 Tips for Clean TypeScript Code you Must Know](https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k)
 - [Introduction to TypeScript with React - A Youtube Video](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-a-youtube-video-452d)
 - [How to make Random Color Palette Generator](https://dev.to/stakedesigner/how-to-make-random-color-palette-generator-4gdk)
-- [Rust, Go, Rinha e I/O](https://dev.to/leandronsp/rust-go-rinha-e-io-39o2)
 <!-- BLOG-POST-LIST:END -->
 
