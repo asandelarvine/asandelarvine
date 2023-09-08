@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-50ch)
+- [&quot;Мобильная&quot; разработка. [Системы контроля версий, Git]](https://dev.to/mainarthur/mobilnaia-razrabotka-sistiemy-kontrolia-viersii-git-2bf2)
+- [👥 Prioritizing People Over Tasks: The Key to Thriving Teams! 🚀](https://dev.to/apetryla/prioritizing-people-over-tasks-the-key-to-thriving-teams-3o1h)
 - [8 Free Public APIs For Developer](https://dev.to/shivamblog/8-free-public-apis-for-developer-5ah9)
-- [I efficiently learned &quot;webpack development environment configuration&quot; using this idea](https://dev.to/limingcan562/i-efficiently-learned-webpack-development-environment-configuration-using-this-idea-2f2e)
-- [Deploying Documenso with Vercel, Supabase and Resend](https://dev.to/documenso/deploying-documenso-with-vercel-supabase-and-resend-foi)
-- [A simple way to deal with closure over a stale state in React code](https://dev.to/varadan13/a-simple-way-to-deal-with-closure-over-a-stale-state-in-react-code-3hjh)
 <!-- BLOG-POST-LIST:END -->
 
