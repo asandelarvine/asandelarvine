@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VueJS Part 2: Hello Vue and displaying values in HTML](https://dev.to/hi_iam_chris/vuejs-part-2-hello-vue-and-displaying-values-in-html-4eip)
+- [How to do stunning 3D with pure HTML/CSS](https://dev.to/martinp/how-to-do-stunning-3d-with-pure-htmlcss-ah)
+- [Event Handling in JavaScript](https://dev.to/shubhankarval/event-handling-in-javascript-51n3)
 - [5 Easy Steps to Secure your Cloud Server](https://dev.to/sliplane/5-easy-steps-to-secure-your-cloud-server-i17)
-- [Testing Microservices with Skyramp in IntelliJ IDEA](https://dev.to/dangross/testing-microservices-with-skyramp-in-intellij-idea-2a2k)
-- [The Spectrum of Developer Entrepreneurship](https://dev.to/inovak/the-spectrum-of-developer-entrepreneurship-566p)
-- [Mastering JavaScript Classes: Your Shortcut to OOP Success!](https://dev.to/miroiudev/mastering-javascript-classes-your-shortcut-to-oop-success-57pp)
 <!-- BLOG-POST-LIST:END -->
 
