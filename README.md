@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Community Badges Page Just Got Better!](https://dev.to/devteam/our-community-badges-page-just-got-better-8c2)
-- [TypeScript: To be or not to be](https://dev.to/rprabhu/typescript-to-be-or-not-to-be-53kg)
-- [Changelog: Take control of your feed with hidden tags](https://dev.to/devteam/changelog-take-control-of-your-feed-with-hidden-tags-5db5)
-- [Supercharge Your Fastify App with DynamoDB Pagination Plugin](https://dev.to/massimobiagioli/supercharge-your-fastify-app-with-dynamodb-pagination-plugin-1p83)
+- [Build A Full-Stack Typescript Application with Nuxt and tRPC](https://dev.to/aaronksaunders/build-a-full-stack-typescript-application-with-nuxt-and-trpc-4kdd)
+- [Navigating the obstacles of Navigation Compose](https://dev.to/peter_chege79/navigating-the-obstacles-of-navigation-compose-39gm)
+- [Astra Pro Addon Cheap Price $3.49](https://dev.to/wplugin/astra-pro-addon-cheap-price-349-22g1)
+- [Introduction](https://dev.to/rachit1313/introduction-2gpn)
 <!-- BLOG-POST-LIST:END -->
 
