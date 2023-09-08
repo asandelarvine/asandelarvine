@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-50ch)
-- [&quot;Мобильная&quot; разработка. [Системы контроля версий, Git]](https://dev.to/mainarthur/mobilnaia-razrabotka-sistiemy-kontrolia-viersii-git-2bf2)
-- [👥 Prioritizing People Over Tasks: The Key to Thriving Teams! 🚀](https://dev.to/apetryla/prioritizing-people-over-tasks-the-key-to-thriving-teams-3o1h)
-- [8 Free Public APIs For Developer](https://dev.to/shivamblog/8-free-public-apis-for-developer-5ah9)
+- [Top 10 tips for becoming a proficient JavaScript developer](https://dev.to/sureshpattu/top-10-tips-for-becoming-a-proficient-javascript-developer-475h)
+- [Mastering Data Analysis with Pandas: A Comprehensive Guide for Python Enthusiasts](https://dev.to/iamcymentho/mastering-data-analysis-with-pandas-a-comprehensive-guide-for-python-enthusiasts-426e)
+- [What do you know about Proxy? Forward and Reverse Proxy](https://dev.to/emmanuel_ishola/what-do-you-know-about-proxy-forward-and-reverse-proxy-jem)
+- [Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/patric12/understanding-javascript-promises-a-beginners-guide-51ee)
 <!-- BLOG-POST-LIST:END -->
 
