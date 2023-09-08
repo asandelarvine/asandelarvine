@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Mobile Game with Phaser and Ionic Vue: Part One](https://dev.to/ceceliacreates/building-a-mobile-game-with-phaser-and-ionic-vue-part-one-3e0o)
+- [It&#39;s Time to End the Biggest Programming Myth](https://dev.to/grace_harders/its-time-to-end-the-biggest-programming-myth-42lp)
 - [Build A Full-Stack Typescript Application with Nuxt and tRPC](https://dev.to/aaronksaunders/build-a-full-stack-typescript-application-with-nuxt-and-trpc-4kdd)
-- [Navigating the obstacles of Navigation Compose](https://dev.to/peter_chege79/navigating-the-obstacles-of-navigation-compose-39gm)
-- [Astra Pro Addon Cheap Price $3.49](https://dev.to/wplugin/astra-pro-addon-cheap-price-349-22g1)
-- [Introduction](https://dev.to/rachit1313/introduction-2gpn)
+- [Mouse Cursor Trail Effect with Flutter](https://dev.to/sidney_pao/mouse-cursor-trail-effect-with-flutter-1fjc)
 <!-- BLOG-POST-LIST:END -->
 
