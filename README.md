@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [pyaction 4.23.0 Released](https://dev.to/cicirello/pyaction-4230-released-2ibp)
-- [Moonly weekly progress update #63 - Holder Verification Bot V2](https://dev.to/moonly/moonly-weekly-progress-update-63-holder-verification-bot-v2-iik)
-- [Running Artisan Commands from Your Browser Using Laravel&#39;s Artisan Facade](https://dev.to/snehalkadwe/running-artisan-commands-from-your-browser-using-laravels-artisan-facade-55o2)
-- [Building a Contact Form with Microsoft Azure and Blazor](https://dev.to/this-is-learning/building-a-contact-form-with-microsoft-azure-and-blazor-3fbh)
+- [Understanding Amazon Route 53: An In-depth Guide](https://dev.to/scc33/understanding-amazon-route-53-an-in-depth-guide-3ocf)
+- [Bun 1.0 - JavaScript meets speed of light](https://dev.to/sebastian_wessel/bun-10-javascript-meets-speed-of-light-4hfn)
+- [Who&#39;s looking for open source contributors? &lpar;week 58&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-58-2j30)
+- [Links in Next Js: A Detailed Guide](https://dev.to/alakkadshaw/links-in-next-js-a-detailed-guide-4cgj)
 <!-- BLOG-POST-LIST:END -->
 
