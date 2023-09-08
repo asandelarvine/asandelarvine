@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 15: Transitioning deprecated CanDeactivate&lpar;&rpar; to Functional Guards](https://dev.to/junlow/angular-15-transitioning-deprecated-candeactivate-to-functional-guards-4ia8)
-- [How To use DataStore Preferences In Android App Using Kotlin](https://dev.to/karim_abdallah/deal-with-datastore-preferences-in-android-app-using-kotlin-27e9)
-- [Discussion of the Week - v1](https://dev.to/devteam/discussion-of-the-week-v1-2alj)
-- [Setting Up A Node.JS Environment On A Steam Deck](https://dev.to/justinbauerweb/setting-up-a-nodejs-environment-on-a-steam-deck-53mk)
+- [How to Connect BMP-280 to ESP32: Get Pressure &amp; Temp](https://dev.to/shilleh/how-to-connect-bmp-280-to-esp32-get-pressure-temp-31pb)
+- [Give Me A .JSON, Vasili; One .JSON Only, Please](https://dev.to/tythos/give-me-a-json-vasili-one-json-only-please-3kli)
+- [Javascript VS TypeScript : Going Back to JavaScript and stop using TypeScript](https://dev.to/idurar/javascript-vs-typescript-going-back-to-javascript-and-stop-using-typescript-59j5)
+- [Mastering ES6 - Map, Filter, and Reduce](https://dev.to/easewithtuts/mastering-es6-map-filter-and-reduce-3bln)
 <!-- BLOG-POST-LIST:END -->
 
