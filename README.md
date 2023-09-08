@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Amazon Route 53: An In-depth Guide](https://dev.to/scc33/understanding-amazon-route-53-an-in-depth-guide-3ocf)
-- [Bun 1.0 - JavaScript meets speed of light](https://dev.to/sebastian_wessel/bun-10-javascript-meets-speed-of-light-4hfn)
-- [Who&#39;s looking for open source contributors? &lpar;week 58&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-58-2j30)
-- [Links in Next Js: A Detailed Guide](https://dev.to/alakkadshaw/links-in-next-js-a-detailed-guide-4cgj)
+- [Our Community Badges Page Just Got Better!](https://dev.to/devteam/our-community-badges-page-just-got-better-8c2)
+- [TypeScript: To be or not to be](https://dev.to/rprabhu/typescript-to-be-or-not-to-be-53kg)
+- [Changelog: Take control of your feed with hidden tags](https://dev.to/devteam/changelog-take-control-of-your-feed-with-hidden-tags-5db5)
+- [Supercharge Your Fastify App with DynamoDB Pagination Plugin](https://dev.to/massimobiagioli/supercharge-your-fastify-app-with-dynamodb-pagination-plugin-1p83)
 <!-- BLOG-POST-LIST:END -->
 
