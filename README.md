@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Top 10 tips for becoming a proficient JavaScript developer](https://dev.to/sureshpattu/top-10-tips-for-becoming-a-proficient-javascript-developer-475h)
 - [Mastering Data Analysis with Pandas: A Comprehensive Guide for Python Enthusiasts](https://dev.to/iamcymentho/mastering-data-analysis-with-pandas-a-comprehensive-guide-for-python-enthusiasts-426e)
-- [What do you know about Proxy? Forward and Reverse Proxy](https://dev.to/emmanuel_ishola/what-do-you-know-about-proxy-forward-and-reverse-proxy-jem)
+- [Mastering Proxy: Forward and Reverse Proxy](https://dev.to/emmanuel_ishola/what-do-you-know-about-proxy-forward-and-reverse-proxy-jem)
 - [Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/patric12/understanding-javascript-promises-a-beginners-guide-51ee)
 <!-- BLOG-POST-LIST:END -->
 
