@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidden Talents Unveiled: Skills Beyond Coding](https://dev.to/codenewbieteam/hidden-talents-unveiled-skills-beyond-coding-3lej)
+- [What Are the Benefits of Being Uncomfortable?](https://dev.to/devteam/what-are-the-benefits-of-being-uncomfortable-411e)
+- [CodeCraft: The Full-Stack Wizard&#39;s Journey](https://dev.to/codegino/codecraft-the-full-stack-wizards-journey-4p39)
 - [Mastering JavaScript Async Iterators: Unlocking Asynchronous Magic](https://dev.to/this-is-learning/mastering-javascript-async-iterators-unlocking-asynchronous-magic-470k)
-- [8 Tips for Clean TypeScript Code you Must Know](https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k)
-- [Introduction to TypeScript with React - A Youtube Video](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-a-youtube-video-452d)
-- [How to make Random Color Palette Generator](https://dev.to/stakedesigner/how-to-make-random-color-palette-generator-4gdk)
 <!-- BLOG-POST-LIST:END -->
 
