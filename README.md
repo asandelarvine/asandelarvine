@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Mobile Game with Phaser and Ionic Vue: Part One](https://dev.to/ceceliacreates/building-a-mobile-game-with-phaser-and-ionic-vue-part-one-3e0o)
-- [It&#39;s Time to End the Biggest Programming Myth](https://dev.to/grace_harders/its-time-to-end-the-biggest-programming-myth-42lp)
-- [Build A Full-Stack Typescript Application with Nuxt and tRPC](https://dev.to/aaronksaunders/build-a-full-stack-typescript-application-with-nuxt-and-trpc-4kdd)
-- [Mouse Cursor Trail Effect with Flutter](https://dev.to/sidney_pao/mouse-cursor-trail-effect-with-flutter-1fjc)
+- [Tailwind CSS: Using Dynamic Breakpoints and Container Queries](https://dev.to/alakkadshaw/tailwind-css-using-dynamic-breakpoints-and-container-queries-5clb)
+- [Exploring Script Loading Strategies: Normal, async, and defer](https://dev.to/muhammedshameel/exploring-script-loading-strategies-normal-async-and-defer-26ne)
+- [How can I enhance my website&#39;s performance in Lighthouse?](https://dev.to/ucrynet/how-can-i-enhance-my-websites-performance-in-lighthouse-3en0)
+- [Getting Started with Helm](https://dev.to/smurawski/getting-started-with-helm-4g1d)
 <!-- BLOG-POST-LIST:END -->
 
