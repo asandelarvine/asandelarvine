@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A simple way to deal with closure over a stale state in React code](https://dev.to/varadan13/a-simple-way-to-deal-with-closure-over-a-stale-state-in-react-code-3hjh)
+- [Pest-Driven Development: Minimum Viable Routing](https://dev.to/sifrious/pest-driven-development-minimum-viable-routing-2k2p)
 - [Hidden Talents Unveiled: Skills Beyond Coding](https://dev.to/codenewbieteam/hidden-talents-unveiled-skills-beyond-coding-3lej)
 - [What Are the Benefits of Being Uncomfortable?](https://dev.to/devteam/what-are-the-benefits-of-being-uncomfortable-411e)
-- [CodeCraft: The Full-Stack Wizard&#39;s Journey](https://dev.to/codegino/codecraft-the-full-stack-wizards-journey-4p39)
-- [Mastering JavaScript Async Iterators: Unlocking Asynchronous Magic](https://dev.to/this-is-learning/mastering-javascript-async-iterators-unlocking-asynchronous-magic-470k)
 <!-- BLOG-POST-LIST:END -->
 
