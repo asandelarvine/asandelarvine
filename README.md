@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD acme-client で Let&#39;s Encrypt 証明書を取得する](https://dev.to/nabbisen/openbsd-acme-client-de-lets-encrypt-zheng-ming-shu-woqu-de-suru-4e7a)
-- [JSON VS XML](https://dev.to/arsalanmeee/json-vs-xml-4ekp)
-- [All About Aditya L1: Which Tech Is Used? Know As Fast As Possible](https://dev.to/dhruvjoshi9/all-about-aditya-l1-which-tech-is-used-know-as-fast-as-possible-3g69)
-- [How I approach and structure Enterprise frontend applications after 4 years of using Next.js](https://dev.to/josemukorivo/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs-2f5)
+- [The Top 10 Programming Tutorials YouTube Channels for 2023](https://dev.to/frontendin52/the-top-10-programming-tutorials-youtube-channels-for-2023-3516)
+- [How to fetch images with Unsplash API with Javascript](https://dev.to/maxixo/how-to-fetch-images-with-unsplash-api-with-javascript-5gf0)
+- [Creating Kubernetes Operators with operator-sdk](https://dev.to/eminetto/creating-kubernetes-operators-with-operator-sdk-49f9)
+- [How to Integrate Vedro with Allure](https://dev.to/mickeystreicher/how-to-integrate-vedro-with-allure-3jkb)
 <!-- BLOG-POST-LIST:END -->
 
