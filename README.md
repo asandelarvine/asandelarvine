@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authentication in Next.js using NextAuth.js](https://dev.to/chirag__dev/authentication-in-nextjs-using-nextauthjs-597k)
+- [How to solve hydration error in Next.js](https://dev.to/chirag__dev/how-to-solve-hydration-error-in-nextjs-5e1b)
 - [The Top 10 Programming Tutorials YouTube Channels for 2023](https://dev.to/frontendin52/the-top-10-programming-tutorials-youtube-channels-for-2023-3516)
 - [How to fetch images with Unsplash API with Javascript](https://dev.to/maxixo/how-to-fetch-images-with-unsplash-api-with-javascript-5gf0)
-- [Creating Kubernetes Operators with operator-sdk](https://dev.to/eminetto/creating-kubernetes-operators-with-operator-sdk-49f9)
-- [How to Integrate Vedro with Allure](https://dev.to/mickeystreicher/how-to-integrate-vedro-with-allure-3jkb)
 <!-- BLOG-POST-LIST:END -->
 
