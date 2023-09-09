@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [30 Best Free AI Tools Online for Your Business or Personal Use](https://dev.to/ronakmunjapara/30-best-free-ai-tools-online-for-your-business-or-personal-use-5e7o)
+- [Get Ahead of 99% of Your Competition in FullStack Development](https://dev.to/ronakmunjapara/get-ahead-of-99-of-your-competition-in-fullstack-development-3l9f)
+- [GPG secret key: How to change the passphrase](https://dev.to/nabbisen/gpg-secret-key-how-to-change-the-passphrase-5dn1)
 - [Learn C++: An Introduction for Beginners](https://dev.to/godot/learn-c-an-introduction-for-beginners-2m06)
-- [Announcing Ghostfolio 2.0](https://dev.to/dtslvr/announcing-ghostfolio-20-2a2d)
-- [What is the Difference Between Reverse and Reversed in Python](https://dev.to/sachingeek/what-is-the-difference-between-reverse-and-reversed-in-python-54ik)
-- [Bun 1.0 got released, its Packager Manager is 10x faster then yarn](https://dev.to/sharmakushal/bun-10-got-released-bun-packager-manager-is-1gng)
 <!-- BLOG-POST-LIST:END -->
 
