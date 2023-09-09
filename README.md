@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Byzantine Generals Teach Us About AWS SQS](https://dev.to/ayogun/what-byzantine-generals-teach-us-about-aws-sqs-3fi5)
-- [Detecting changes in JavaScript and CSS isn&#39;t an easy task, Part 2](https://dev.to/azasypkin/detecting-changes-in-javascript-and-css-isnt-an-easy-task-part-2-3m7g)
-- [How to remove Vercel Deployments Previews from GitHub Actions](https://dev.to/thereis/how-to-remove-vercel-deployments-from-github-actions-4nfh)
-- [30 Best Free AI Tools Online for Your Business or Personal Use](https://dev.to/ronakmunjapara/30-best-free-ai-tools-online-for-your-business-or-personal-use-5e7o)
+- [OpenBSD acme-client で Let&#39;s Encrypt 証明書を取得する](https://dev.to/nabbisen/openbsd-acme-client-de-lets-encrypt-zheng-ming-shu-woqu-de-suru-4e7a)
+- [JSON VS XML](https://dev.to/arsalanmeee/json-vs-xml-4ekp)
+- [All About Aditya L1: Which Tech Is Used? Know As Fast As Possible](https://dev.to/dhruvjoshi9/all-about-aditya-l1-which-tech-is-used-know-as-fast-as-possible-3g69)
+- [How I approach and structure Enterprise frontend applications after 4 years of using Next.js](https://dev.to/josemukorivo/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs-2f5)
 <!-- BLOG-POST-LIST:END -->
 
