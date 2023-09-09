@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OLD PROJECTS](https://dev.to/mtendekuyokwa19/old-projects-1a6n)
 - [Resumo: Como ser um programador melhor](https://dev.to/ericarodrigs/resumo-como-ser-um-programador-melhor-1386)
+- [get refresh token form google login api](https://dev.to/abdulghaffar/get-refresh-token-form-google-login-api-1k6h)
 - [Python For Seniors &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/python-for-the-seniors-part-2-275e)
-- [**TOP** CSS Variables Tips](https://dev.to/noobizdev/top-css-variables-tips-1750)
-- [Solving the &quot;Letter Combinations of a Phone Number&quot; Problem on Leet Code](https://dev.to/leetcode/solving-the-letter-combinations-of-a-phone-number-problem-on-leet-code-10g8)
 <!-- BLOG-POST-LIST:END -->
 
