@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun 1.0 got released, its Packager Manager is 10x faster then yarn](https://dev.to/sharmakushal/bun-10-got-released-bun-packager-manager-is-1gng)
+- [Are you still using the ternary operator to dynamically apply Tailwind styles?](https://dev.to/artxe2/are-you-still-using-the-ternary-operator-to-dynamically-apply-tailwind-styles-32jp)
+- [Mastering ZIP File Handling in Python: Reading and Creating Zip Archives](https://dev.to/max24816/mastering-zip-file-handling-in-python-reading-and-creating-zip-archives-252g)
 - [What&#39;s Your Go-to Movie Quote?](https://dev.to/codenewbieteam/whats-your-go-to-movie-quote-1lpg)
-- [Can You Explain Your Project to a 5-Year-Old?](https://dev.to/devteam/can-you-explain-your-project-to-a-5-year-old-14h2)
-- [How to use tags on dev.to effectively?](https://dev.to/riorolann/how-to-use-tags-on-devto-effectively-13b3)
-- [Node.js 20.6.0: Say Goodbye to &#39;dotenv&#39;](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 <!-- BLOG-POST-LIST:END -->
 
