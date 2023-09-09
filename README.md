@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication in Next.js using NextAuth.js](https://dev.to/chirag__dev/authentication-in-nextjs-using-nextauthjs-597k)
-- [How to solve hydration error in Next.js](https://dev.to/chirag__dev/how-to-solve-hydration-error-in-nextjs-5e1b)
-- [The Top 10 Programming Tutorials YouTube Channels for 2023](https://dev.to/frontendin52/the-top-10-programming-tutorials-youtube-channels-for-2023-3516)
-- [How to fetch images with Unsplash API with Javascript](https://dev.to/maxixo/how-to-fetch-images-with-unsplash-api-with-javascript-5gf0)
+- [**TOP** CSS Variables Tips](https://dev.to/noobizdev/top-css-variables-tips-1750)
+- [Solving the &quot;Letter Combinations of a Phone Number&quot; Problem on Leet Code](https://dev.to/leetcode/solving-the-letter-combinations-of-a-phone-number-problem-on-leet-code-10g8)
+- [Optimizing React Native app performance](https://dev.to/newrelic/optimizing-react-native-app-performance-41pf)
+- [Generate code snippet for REST API call from Postman](https://dev.to/hardiquedasore/generate-code-snippet-for-rest-api-call-from-postman-23ii)
 <!-- BLOG-POST-LIST:END -->
 
