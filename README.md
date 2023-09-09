@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js 20.6.0: Say Goodbye to &#39;dotenv&#39;](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 - [Collapsible Markdown on GitHub Markdown and Beacons AI](https://dev.to/ranggakd/collapsible-markdown-on-github-markdown-and-beacons-ai-2h1c)
 - [Unlock $10 and the Future of OCR with Verifik&#39;s Scan-Prompt API!](https://dev.to/verifik/unlock-10-and-the-future-of-ocr-with-verifiks-scan-prompt-api-377b)
 - [10 Common mistakes in CSS](https://dev.to/aviligonda/10-common-mistakes-in-css-532j)
-- [VueJS Part 2: Hello Vue and displaying values in HTML](https://dev.to/hi_iam_chris/vuejs-part-2-hello-vue-and-displaying-values-in-html-4eip)
 <!-- BLOG-POST-LIST:END -->
 
