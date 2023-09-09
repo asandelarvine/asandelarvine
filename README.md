@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Byzantine Generals Teach Us About AWS SQS](https://dev.to/ayogun/what-byzantine-generals-teach-us-about-aws-sqs-3fi5)
 - [Detecting changes in JavaScript and CSS isn&#39;t an easy task, Part 2](https://dev.to/azasypkin/detecting-changes-in-javascript-and-css-isnt-an-easy-task-part-2-3m7g)
 - [How to remove Vercel Deployments Previews from GitHub Actions](https://dev.to/thereis/how-to-remove-vercel-deployments-from-github-actions-4nfh)
 - [30 Best Free AI Tools Online for Your Business or Personal Use](https://dev.to/ronakmunjapara/30-best-free-ai-tools-online-for-your-business-or-personal-use-5e7o)
-- [Get Ahead of 99% of Your Competition in FullStack Development](https://dev.to/ronakmunjapara/get-ahead-of-99-of-your-competition-in-fullstack-development-3l9f)
 <!-- BLOG-POST-LIST:END -->
 
