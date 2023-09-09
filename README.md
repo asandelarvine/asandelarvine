@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your Go-to Movie Quote?](https://dev.to/codenewbieteam/whats-your-go-to-movie-quote-1lpg)
+- [Can You Explain Your Project to a 5-Year-Old?](https://dev.to/devteam/can-you-explain-your-project-to-a-5-year-old-14h2)
+- [How to use tags on dev.to effectively?](https://dev.to/riorolann/how-to-use-tags-on-devto-effectively-13b3)
 - [Node.js 20.6.0: Say Goodbye to &#39;dotenv&#39;](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
-- [Collapsible Markdown on GitHub Markdown and Beacons AI](https://dev.to/ranggakd/collapsible-markdown-on-github-markdown-and-beacons-ai-2h1c)
-- [Unlock $10 and the Future of OCR with Verifik&#39;s Scan-Prompt API!](https://dev.to/verifik/unlock-10-and-the-future-of-ocr-with-verifiks-scan-prompt-api-377b)
-- [10 Common mistakes in CSS](https://dev.to/aviligonda/10-common-mistakes-in-css-532j)
 <!-- BLOG-POST-LIST:END -->
 
