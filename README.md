@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Use an API with JavaScript &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/noobizdev/use-an-api-with-javascript-beginners-guide-2mak)
+- [A Comprehensive Guide to AWS DynamoDB vs. Redshift for Databases and Data Warehouses](https://dev.to/scc33/a-comprehensive-guide-to-aws-dynamodb-vs-redshift-for-databases-and-data-warehouses-22hb)
+- [Delete Duplicate Emails](https://dev.to/scc33/delete-duplicate-emails-2k0e)
 - [OLD PROJECTS](https://dev.to/mtendekuyokwa19/old-projects-1a6n)
-- [Resumo: Como ser um programador melhor](https://dev.to/ericarodrigs/resumo-como-ser-um-programador-melhor-1386)
-- [get refresh token form google login api](https://dev.to/abdulghaffar/get-refresh-token-form-google-login-api-1k6h)
-- [Python For Seniors &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/python-for-the-seniors-part-2-275e)
 <!-- BLOG-POST-LIST:END -->
 
