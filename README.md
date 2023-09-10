@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [about arianzagrosmachinery](https://dev.to/arianzagrosmachinery/about-arianzagrosmachinery-558k)
+- [Solving the &quot;Container With Most Water&quot; Problem on Leet Code](https://dev.to/leetcode/solving-the-container-with-most-water-problem-on-leet-code-51f5)
+- [Rest VS gRPC](https://dev.to/hasanelsherbiny/rest-vs-grpc-1bj3)
 - [How Do You Get Unstuck from A Difficult Problem?](https://dev.to/devteam/how-do-you-get-unstuck-from-a-difficult-problem-3ocj)
-- [🚀 Unlock Success: Ask, Don&#39;t Assume! 🚀](https://dev.to/apetryla/unlock-success-ask-dont-assume-34fd)
-- [AI-Powered Quiz Generation: Introducing QwizLab with NextJS](https://dev.to/tashynw/ai-powered-quiz-generation-introducing-qwizlab-with-nextjs-i13)
-- [Solving the &quot;Trapping Rain Water&quot; Problem on Leet Code](https://dev.to/leetcode/solving-the-trapping-rain-water-problem-on-leet-code-ham)
 <!-- BLOG-POST-LIST:END -->
 
