@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving &quot;Climbing Stairs&quot; Leet code Problem](https://dev.to/leetcode/solving-climbing-stairs-leet-code-problem-46kf)
+- [I Created a Chrome Extension in 15 Minutes with Zero Front-End Knowledge Using GPT](https://dev.to/justlorain/i-created-a-chrome-extension-in-15-minutes-with-zero-front-end-knowledge-using-gpt-33df)
+- [Websites must Know #1](https://dev.to/scorcism/websites-must-know-1-484)
 - [I Hired an AI as a Developer - This Is What Happened](https://dev.to/perssondennis/i-hired-an-ai-as-a-developer-this-is-what-happened-1nl6)
-- [cpp-as-is: A taste of the future of genericity, in the past](https://dev.to/voltra/cpp-as-is-a-taste-of-the-future-of-genericity-in-the-past-2k0o)
-- [Setup Next.js with Airbnb ESLint, Prettier, TypeScript and Tailwind CSS](https://dev.to/m4xshen/setup-nextjs-with-airbnb-eslint-prettier-typescript-and-tailwind-css-273d)
-- [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
 <!-- BLOG-POST-LIST:END -->
 
