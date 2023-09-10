@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Angular Cheatsheet](https://dev.to/easewithtuts/angular-cheatsheet-53ki)
 - [Recap - Reflection of Term 1 🧐](https://dev.to/rjsgml/recap-reflection-of-term-1-2ic6)
+- [How to display API data on map using React?](https://dev.to/thedev_subrat/how-to-display-api-data-on-map-using-react-51de)
 - [SQL Commands](https://dev.to/nathalia_friederichs/sql-commands-1md6)
-- [Use an API with JavaScript &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/noobizdev/use-an-api-with-javascript-beginners-guide-2mak)
 <!-- BLOG-POST-LIST:END -->
 
