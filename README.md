@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🎯 Medium vs. DEV vs. Hashnode vs. Hackernoon 🔥](https://dev.to/github20k/medium-vs-dev-vs-hashnode-vs-hackernoon-4ma1)
+- [Networking Hardware - Summary](https://dev.to/scorcism/networking-hardware-summary-4ngi)
+- [Node.js Unveiled: The Inner Workings of a Runtime Revolution](https://dev.to/hakan_turan/nodejs-unveiled-the-inner-workings-of-a-runtime-revolution-agf)
 - [How to Improve Front-end performance??🤔](https://dev.to/manish7107/how-to-improve-front-end-performance-3ag7)
-- [about arianzagrosmachinery](https://dev.to/arianzagrosmachinery/about-arianzagrosmachinery-558k)
-- [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)
-- [Solving the &quot;Container With Most Water&quot; Problem on Leet Code](https://dev.to/leetcode/solving-the-container-with-most-water-problem-on-leet-code-51f5)
 <!-- BLOG-POST-LIST:END -->
 
