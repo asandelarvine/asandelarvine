@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Cheatsheet](https://dev.to/easewithtuts/angular-cheatsheet-53ki)
+- [Recap - Reflection of Term 1 🧐](https://dev.to/rjsgml/recap-reflection-of-term-1-2ic6)
 - [SQL Commands](https://dev.to/nathalia_friederichs/sql-commands-1md6)
 - [Use an API with JavaScript &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/noobizdev/use-an-api-with-javascript-beginners-guide-2mak)
-- [A Comprehensive Guide to AWS DynamoDB vs. Redshift for Databases and Data Warehouses](https://dev.to/scc33/a-comprehensive-guide-to-aws-dynamodb-vs-redshift-for-databases-and-data-warehouses-22hb)
-- [Delete Duplicate Emails](https://dev.to/scc33/delete-duplicate-emails-2k0e)
 <!-- BLOG-POST-LIST:END -->
 
