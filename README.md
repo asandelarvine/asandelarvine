@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 SEO Things That Even Experienced Experts Don&#39;t Know](https://dev.to/dhruvjoshi9/top-10-seo-things-that-even-experienced-experts-dont-know-22ma)
+- [Javascript Zoned-Date library - fully DST support](https://dev.to/sang/javascript-zoned-date-library-fully-dst-support-3mmo)
 - [Manage Node versions with NVM.](https://dev.to/arindam_1729/manage-node-versions-with-nvm-2n0j)
 - [Angular Cheatsheet](https://dev.to/easewithtuts/angular-cheatsheet-53ki)
-- [Recap - Reflection of Term 1 🧐](https://dev.to/rjsgml/recap-reflection-of-term-1-2ic6)
-- [How to display API data on map using React?](https://dev.to/thedev_subrat/how-to-display-api-data-on-map-using-react-51de)
 <!-- BLOG-POST-LIST:END -->
 
