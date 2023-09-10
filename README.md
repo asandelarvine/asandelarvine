@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I Hired an AI as a Developer - This Is What Happened](https://dev.to/perssondennis/i-hired-an-ai-as-a-developer-this-is-what-happened-1nl6)
 - [cpp-as-is: A taste of the future of genericity, in the past](https://dev.to/voltra/cpp-as-is-a-taste-of-the-future-of-genericity-in-the-past-2k0o)
-- [I have Developed a Free Web Scraping API](https://dev.to/muhammadmobeen/i-have-developed-a-free-web-scraping-api-8ma)
 - [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
-- [Discover Bun - A Faster, Modern JavaScript Runtime](https://dev.to/thevinitgupta/discover-bun-a-faster-modern-javascript-runtime-5fob)
+- [Exploring Apache AGE: A Graph Database Built on PostgreSQL](https://dev.to/danielwambo/exploring-apache-age-a-graph-database-built-on-postgresqlapache-age-cypher-postgres-346a)
 <!-- BLOG-POST-LIST:END -->
 
