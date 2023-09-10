@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Principles for Scaling Frontend Application Developments](https://dev.to/hashcode01/principles-for-scaling-frontend-application-developments-2kja)
+- [Explorando o Flutter: Um Guia Básico para Iniciantes](https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6)
 - [GDScript Cheatsheet](https://dev.to/godot/gdscript-cheatsheet-5ghe)
 - [HTML For Beginners The Easy Way](https://dev.to/noobizdev/html-for-beginners-the-easy-way-mhp)
-- [Colouring Your Arrow / Link with `linkStyle` in Mermaid Markdown](https://dev.to/ranggakd/coloring-your-arrow-link-with-linkstyle-in-mermaid-markdown-39kk)
-- [Dynamic and Asynchronous Vue Components: The What &amp; How](https://dev.to/nyior/dynamic-and-asynchronous-vue-components-the-what-how-44em)
 <!-- BLOG-POST-LIST:END -->
 
