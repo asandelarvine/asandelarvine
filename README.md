@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
 - [sudo apt update &amp;&amp; upgrade ?](https://dev.to/scorcism/sudo-apt-update-upgrade--48g3)
 - [🎯 Medium vs. DEV vs. Hashnode vs. Hackernoon 🔥](https://dev.to/github20k/medium-vs-dev-vs-hashnode-vs-hackernoon-4ma1)
 - [Networking Hardware - Summary](https://dev.to/scorcism/networking-hardware-summary-4ngi)
-- [Node.js Unveiled: The Inner Workings of a Runtime Revolution](https://dev.to/hakan_turan/nodejs-unveiled-the-inner-workings-of-a-runtime-revolution-agf)
 <!-- BLOG-POST-LIST:END -->
 
