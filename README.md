@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [I Hired an AI as a Developer - This Is What Happened](https://dev.to/perssondennis/i-hired-an-ai-as-a-developer-this-is-what-happened-1nl6)
 - [cpp-as-is: A taste of the future of genericity, in the past](https://dev.to/voltra/cpp-as-is-a-taste-of-the-future-of-genericity-in-the-past-2k0o)
+- [Setup Next.js with Airbnb ESLint, Prettier, TypeScript and Tailwind CSS](https://dev.to/m4xshen/setup-nextjs-with-airbnb-eslint-prettier-typescript-and-tailwind-css-273d)
 - [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
-- [Exploring Apache AGE: A Graph Database Built on PostgreSQL](https://dev.to/danielwambo/exploring-apache-age-a-graph-database-built-on-postgresqlapache-age-cypher-postgres-346a)
 <!-- BLOG-POST-LIST:END -->
 
