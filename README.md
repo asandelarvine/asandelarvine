@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [cpp-as-is: A taste of the future of genericity, in the past](https://dev.to/voltra/cpp-as-is-a-taste-of-the-future-of-genericity-in-the-past-2k0o)
+- [I have Developed a Free Web Scraping API](https://dev.to/muhammadmobeen/i-have-developed-a-free-web-scraping-api-8ma)
 - [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
-- [sudo apt update &amp;&amp; upgrade ?](https://dev.to/scorcism/sudo-apt-update-upgrade--48g3)
-- [🎯 Medium vs. DEV vs. Hashnode vs. Hackernoon 🔥](https://dev.to/github20k/medium-vs-dev-vs-hashnode-vs-hackernoon-4ma1)
-- [Networking Hardware - Summary](https://dev.to/scorcism/networking-hardware-summary-4ngi)
+- [Discover Bun - A Faster, Modern JavaScript Runtime](https://dev.to/thevinitgupta/discover-bun-a-faster-modern-javascript-runtime-5fob)
 <!-- BLOG-POST-LIST:END -->
 
