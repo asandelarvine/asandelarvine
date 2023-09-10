@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Get Unstuck from A Difficult Problem?](https://dev.to/devteam/how-do-you-get-unstuck-from-a-difficult-problem-3ocj)
 - [🚀 Unlock Success: Ask, Don&#39;t Assume! 🚀](https://dev.to/apetryla/unlock-success-ask-dont-assume-34fd)
+- [AI-Powered Quiz Generation: Introducing QwizLab with NextJS](https://dev.to/tashynw/ai-powered-quiz-generation-introducing-qwizlab-with-nextjs-i13)
 - [Solving the &quot;Trapping Rain Water&quot; Problem on Leet Code](https://dev.to/leetcode/solving-the-trapping-rain-water-problem-on-leet-code-ham)
-- [ChatGPT API vs Google&#39;s Palm API](https://dev.to/nikola_cosic_e7c912ef9079/chatgpt-api-vs-googles-palm-api-2dcg)
-- [Top React Libraries Every Developer Must Know](https://dev.to/scofieldidehen/top-react-libraries-every-developer-must-know-18e7)
 <!-- BLOG-POST-LIST:END -->
 
