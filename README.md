@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is API &amp; REST API ?](https://dev.to/parmita17/what-is-api-rest-api--3noe)
+- [DOM reading and writing with new lifecycle hooks in Angular](https://dev.to/railsstudent/dom-reading-and-writing-with-new-lifecycle-hooks-in-angular-4n7e)
+- [How to create a custom alert component in REACT with Context API](https://dev.to/ayo_tech/how-to-create-a-custom-alert-component-in-react-with-context-api-1dfj)
 - [Solving &quot;Climbing Stairs&quot; Leet code Problem](https://dev.to/leetcode/solving-climbing-stairs-leet-code-problem-46kf)
-- [I Created a Chrome Extension in 15 Minutes with Zero Front-End Knowledge Using GPT](https://dev.to/justlorain/i-created-a-chrome-extension-in-15-minutes-with-zero-front-end-knowledge-using-gpt-33df)
-- [Websites must Know #1](https://dev.to/scorcism/websites-must-know-1-484)
-- [I Hired an AI as a Developer - This Is What Happened](https://dev.to/perssondennis/i-hired-an-ai-as-a-developer-this-is-what-happened-1nl6)
 <!-- BLOG-POST-LIST:END -->
 
