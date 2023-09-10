@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic and Asynchronous Vue Components: The What &amp; How](https://dev.to/nyior/dynamic-and-asynchronous-vue-components-the-what-how-44em)
 - [What is API &amp; REST API ?](https://dev.to/parmita17/what-is-api-rest-api--3noe)
 - [DOM reading and writing with new lifecycle hooks in Angular](https://dev.to/railsstudent/dom-reading-and-writing-with-new-lifecycle-hooks-in-angular-4n7e)
 - [How to create a custom alert component in REACT with Context API](https://dev.to/ayo_tech/how-to-create-a-custom-alert-component-in-react-with-context-api-1dfj)
-- [Solving &quot;Climbing Stairs&quot; Leet code Problem](https://dev.to/leetcode/solving-climbing-stairs-leet-code-problem-46kf)
 <!-- BLOG-POST-LIST:END -->
 
