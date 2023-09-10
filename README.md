@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Improve Front-end performance??🤔](https://dev.to/manish7107/how-to-improve-front-end-performance-3ag7)
 - [about arianzagrosmachinery](https://dev.to/arianzagrosmachinery/about-arianzagrosmachinery-558k)
+- [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)
 - [Solving the &quot;Container With Most Water&quot; Problem on Leet Code](https://dev.to/leetcode/solving-the-container-with-most-water-problem-on-leet-code-51f5)
-- [Rest VS gRPC](https://dev.to/hasanelsherbiny/rest-vs-grpc-1bj3)
-- [How Do You Get Unstuck from A Difficult Problem?](https://dev.to/devteam/how-do-you-get-unstuck-from-a-difficult-problem-3ocj)
 <!-- BLOG-POST-LIST:END -->
 
