@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #173](https://dev.to/aws/aws-open-source-newsletter-173-3bof)
-- [🖊 I am building a pastebin alternative!](https://dev.to/shaancodes/i-am-building-a-pastebin-alternative-57o2)
-- [Which AI Tool is the Best?](https://dev.to/ronakmunjapara/which-ai-tool-is-the-best-1987)
-- [Let’s Create an End-to-End Web Scraping Pipeline With Scrapy!](https://dev.to/nanellooo/lets-create-an-end-to-end-web-scraping-pipeline-with-scrapy-261o)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-5458)
+- [Who Has a Positive Opinion of You?](https://dev.to/devteam/who-has-a-positive-opinion-of-you-305j)
+- [Generating Thumbnails from Videos using ApyHub’s API](https://dev.to/apyhub/generating-thumbnails-from-videos-using-apyhubs-api-p3k)
+- [Power Automate - Flow Logging in App Insights](https://dev.to/wyattdave/power-automate-flow-logging-in-app-insights-lp)
 <!-- BLOG-POST-LIST:END -->
 
