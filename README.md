@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Social bookmarks in the Fediverse](https://dev.to/andypiper/social-bookmarks-in-the-fediverse-5bki)
+- [This Context API Mistake Ruins Your Whole React App &lpar;All Components Re-Render&rpar;](https://dev.to/ubahthebuilder/this-context-api-mistake-ruins-your-whole-react-app-all-components-re-render-2k63)
+- [What Are the Biggest Misconceptions about Your Work?](https://dev.to/codenewbieteam/what-are-the-biggest-misconceptions-about-your-work-2da0)
 - [PURISTA: Build with rimraf, esbuild, Turbo &amp; git-cliff](https://dev.to/purista/purista-build-with-rimraf-esbuild-turbo-git-cliff-5h5e)
-- [Unlocking the Potential of Telegram Bot Development Using .NET Core](https://dev.to/ronakmunjapara/unlocking-the-potential-of-telegram-bot-development-using-net-core-597g)
-- [Validando chave ssh pública no Laravel](https://dev.to/devlopez/validando-chave-ssh-no-laravel-2d2i)
-- [Boost Your Productivity with the Top 10 AI Tools](https://dev.to/ronakmunjapara/boost-your-productivity-with-the-top-10-ai-tools-1ma)
 <!-- BLOG-POST-LIST:END -->
 
