@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Behind the Excitement in the JavaScript Community about Bun.js?](https://dev.to/mitchiemt11/whats-behind-the-excitement-in-the-javascript-community-about-bunjs-2p4l)
-- [How to Build a Passkey Login Page with React](https://dev.to/vdelitz/how-to-build-a-passkey-login-page-with-react-16jl)
-- [Maximizing Efficiency and Savings: A Guide to Optimizing Amazon Redshift](https://dev.to/luxacademy/maximizing-efficiency-and-savings-a-guide-to-optimizing-amazon-redshift-3ddl)
-- [4 Open-Source Technologies Every True Full-Stack Developer Should Master](https://dev.to/rigdev/4-open-source-technologies-every-true-full-stack-developer-should-master-33e9)
+- [Brewing a Full-Stack Breakfast with ExpressoTS, Bun, and Elysia](https://dev.to/expressots/brewing-a-full-stack-breakfast-with-expressots-bun-and-elysia-1d40)
+- [My Opinion on Adopting New Technologies: Using Bun as a Case Study.](https://dev.to/rsaz/opinion-about-new-technology-adoption-using-bun-as-an-example-2o66)
+- [How to Finetune Llama 2: A Beginner&#39;s Guide](https://dev.to/dhanushreddy29/how-to-finetune-llama-2-a-beginners-guide-219e)
+- [100 + Login/Signup form for web developers](https://dev.to/jon_snow789/100-loginsignup-form-for-web-developers-l7f)
 <!-- BLOG-POST-LIST:END -->
 
