@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Node.js and MongoDB example](https://dev.to/tienbku/docker-nodejs-and-mongodb-example-doc)
+- [Automating AWS Operations: A Deep Dive into Systems Manager for SysOps](https://dev.to/brandondamue/automating-aws-operations-a-deep-dive-into-systems-manager-for-sysops-30nc)
+- [How to use geolocation api using ReactJS](https://dev.to/choiruladamm/how-to-use-geolocation-api-using-reactjs-ndk)
 - [Data Communication : System design](https://dev.to/rajrathod/data-communication-system-design-3hgf)
-- [Self-developed PSD parser dynamically generates static code to improve your development efficiency](https://dev.to/yuanmr/self-developed-psd-parser-dynamically-generates-static-code-to-improve-your-development-efficiency-200c)
-- [Navigating the shift from customer service to coding](https://dev.to/wdp/navigating-the-shift-from-customer-service-to-coding-oe6)
-- [Lidando com regressão visual: enfrentando desafios com Django, Selenium e Pillow](https://dev.to/eduardojm/lidando-com-regressao-visual-enfrentando-desafios-com-django-selenium-e-pillow-o8d)
 <!-- BLOG-POST-LIST:END -->
 
