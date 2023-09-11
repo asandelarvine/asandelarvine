@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PURISTA: Build with rimraf, esbuild, Turbo &amp; git-cliff](https://dev.to/purista/purista-build-with-rimraf-esbuild-turbo-git-cliff-5h5e)
 - [Unlocking the Potential of Telegram Bot Development Using .NET Core](https://dev.to/ronakmunjapara/unlocking-the-potential-of-telegram-bot-development-using-net-core-597g)
+- [Validando chave ssh pública no Laravel](https://dev.to/devlopez/validando-chave-ssh-no-laravel-2d2i)
 - [Boost Your Productivity with the Top 10 AI Tools](https://dev.to/ronakmunjapara/boost-your-productivity-with-the-top-10-ai-tools-1ma)
-- [**Don&#39;t Miss!!!** TOP Google Penalties Guide](https://dev.to/noobizdev/dont-miss-top-google-penalties-guide-4dcd)
-- [Creating an 👩‍💻 Open Source Search Platform: Search Engines with AI - Swirl 🌌](https://dev.to/swirl/creating-an-open-source-search-platform-search-engines-with-ai-swirl-2m0h)
 <!-- BLOG-POST-LIST:END -->
 
