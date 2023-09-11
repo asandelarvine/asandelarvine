@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Websites with AWS: Single Page Applications](https://dev.to/aws-builders/websites-with-aws-single-page-applications-59o3)
+- [Next JS | Multistep Form](https://dev.to/shubhamtiwari909/next-js-multistep-form-2gc9)
+- [📘 Just devoured &quot;The DevOps Career Handbook&quot; and WOW, what a gem! 🚀](https://dev.to/apetryla/just-devoured-the-devops-career-handbook-and-wow-what-a-gem-h4n)
 - [🐬Top 5 MySQL GUI Clients to Command MySQL⚡️](https://dev.to/bytebase/top-5-mysql-gui-clients-to-command-mysql-8lf)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-5458)
-- [Who Has a Positive Opinion of You?](https://dev.to/devteam/who-has-a-positive-opinion-of-you-305j)
-- [Leveling Up in OR: Excel Solver vs. Python](https://dev.to/balagmadhu/leveling-up-in-or-excel-solver-vs-python-388j)
 <!-- BLOG-POST-LIST:END -->
 
