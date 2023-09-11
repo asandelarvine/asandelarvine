@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Features of PostgreSQL &lpar;Part 01&rpar;](https://dev.to/pawankukreja01/advanced-features-of-postgresql-part-01-lnb)
-- [Websites with AWS: Single Page Applications](https://dev.to/aws-builders/websites-with-aws-single-page-applications-59o3)
-- [Next JS | Multi-Step Form](https://dev.to/shubhamtiwari909/next-js-multistep-form-2gc9)
-- [8 Best Chrome Extensions Every Developer Needs🌐](https://dev.to/shivamblog/8-best-chrome-extensions-every-developer-needs-218f)
+- [Scoped C# - What you need to know &lpar;Guide&rpar;](https://dev.to/bytehide/scoped-c-what-you-need-to-know-guide-1a4g)
+- [Using Bash and Python Together](https://dev.to/sm0ke/using-bash-and-python-together-2bli)
+- [Weekly Roundup &lpar;Sep 4&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-4-hot-topics-in-workplace-sharepoint-and-powerplatform-g81)
+- [What are Blockchain Layers and how do they work?](https://dev.to/hkaybaba/what-are-blockchain-layers-and-how-do-they-work-8e9)
 <!-- BLOG-POST-LIST:END -->
 
