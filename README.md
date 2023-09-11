@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Authentication Strategies in Microfrontends: A Deep Dive into BFF Authorization and Frontend Silent Login](https://dev.to/lojhan/exploring-authentication-strategies-in-microfrontends-a-deep-dive-into-bff-authorization-and-frontend-silent-login-2jie)
+- [Introducing Spaces: Build collaborative environments in a few lines of code](https://dev.to/ably/introducing-spaces-build-collaborative-environments-in-a-few-lines-of-code-3n01)
+- [Updating Docker Apps automagically with Watchtower✨🐳](https://dev.to/sliplane/updating-docker-apps-automagically-with-watchtower-1a61)
 - [how much % you have used out of your life???](https://dev.to/rodonguyen/how-much-you-have-used-out-of-your-life-3nnb)
-- [Getting Started with SMS Notifications using Africas Talking and GitHub Actions🐙](https://dev.to/ken_mwaura1/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-5de0)
-- [Linux filters - How to streamline text like a boss](https://dev.to/cherryramatis/linux-filters-how-to-streamline-text-like-a-boss-2dp4)
-- [Advancеd Backup Stratеgiеs in PostgrеSQL](https://dev.to/hassanrehan/advancied-backup-stratiegiies-in-postgriesql-2g84)
 <!-- BLOG-POST-LIST:END -->
 
