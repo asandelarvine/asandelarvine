@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Tips &amp; Tricks to Enhance Your Tailwind CSS Code](https://dev.to/arindam_1729/5-tips-tricks-to-enhance-your-tailwind-css-code-1h7c)
-- [Soon every person on earth will have at least one passkey – if they want or not](https://dev.to/vdelitz/soon-every-person-on-earth-will-have-at-least-one-passkey-if-they-want-or-not-4c7b)
-- [FFMPEG-Coder: Simplifying Video Conversion with FFMPEG](https://dev.to/abirtx/ffmpeg-coder-simplifying-video-conversion-with-ffmpeg-14aj)
-- [Node.js path module](https://dev.to/endeavourmonk/nodejs-path-module-16fm)
+- [4 Open-Source Technologies Every True Full-Stack Developer Should Master](https://dev.to/rigdev/4-open-source-technologies-every-true-full-stack-developer-should-master-33e9)
+- [Mastering Test-Driven Development &lpar;TDD&rpar; with C# Examples](https://dev.to/bakatsiasgeorge/title-mastering-test-driven-development-tdd-with-c-examples-5fk4)
+- [Fluid Typography](https://dev.to/marcelluscaio/fluid-typography-1mfl)
+- [Install Playwright and Visual Studio Code](https://dev.to/hambalee/install-playwright-and-visual-studio-code-37ep)
 <!-- BLOG-POST-LIST:END -->
 
