@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Features of PostgreSQL &lpar;Part 01&rpar;](https://dev.to/pawankukreja01/advanced-features-of-postgresql-part-01-lnb)
 - [Websites with AWS: Single Page Applications](https://dev.to/aws-builders/websites-with-aws-single-page-applications-59o3)
-- [Next JS | Multistep Form](https://dev.to/shubhamtiwari909/next-js-multistep-form-2gc9)
-- [📘 Just devoured &quot;The DevOps Career Handbook&quot; and WOW, what a gem! 🚀](https://dev.to/apetryla/just-devoured-the-devops-career-handbook-and-wow-what-a-gem-h4n)
-- [🐬Top 5 MySQL GUI Clients to Command MySQL⚡️](https://dev.to/bytebase/top-5-mysql-gui-clients-to-command-mysql-8lf)
+- [Next JS | Multi-Step Form](https://dev.to/shubhamtiwari909/next-js-multistep-form-2gc9)
+- [8 Best Chrome Extensions Every Developer Needs🌐](https://dev.to/shivamblog/8-best-chrome-extensions-every-developer-needs-218f)
 <!-- BLOG-POST-LIST:END -->
 
