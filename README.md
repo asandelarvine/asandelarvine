@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Authentication Strategies in Microfrontends: A Deep Dive into BFF Authorization and Frontend Silent Login](https://dev.to/lojhan/exploring-authentication-strategies-in-microfrontends-a-deep-dive-into-bff-authorization-and-frontend-silent-login-2jie)
-- [Introducing Spaces: Build collaborative environments in a few lines of code](https://dev.to/ably/introducing-spaces-build-collaborative-environments-in-a-few-lines-of-code-3n01)
-- [Updating Docker Apps automagically with Watchtower✨🐳](https://dev.to/sliplane/updating-docker-apps-automagically-with-watchtower-1a61)
-- [how much % you have used out of your life???](https://dev.to/rodonguyen/how-much-you-have-used-out-of-your-life-3nnb)
+- [5 Tips &amp; Tricks to Enhance Your Tailwind CSS Code](https://dev.to/arindam_1729/5-tips-tricks-to-enhance-your-tailwind-css-code-1h7c)
+- [Soon every person on earth will have at least one passkey – if they want or not](https://dev.to/vdelitz/soon-every-person-on-earth-will-have-at-least-one-passkey-if-they-want-or-not-4c7b)
+- [FFMPEG-Coder: Simplifying Video Conversion with FFMPEG](https://dev.to/abirtx/ffmpeg-coder-simplifying-video-conversion-with-ffmpeg-14aj)
+- [Node.js path module](https://dev.to/endeavourmonk/nodejs-path-module-16fm)
 <!-- BLOG-POST-LIST:END -->
 
