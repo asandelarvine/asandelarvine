@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Mode with Next.js, TypeScript, Styled Components and Redux Toolkit🔯🔮](https://dev.to/koyablue/dark-mode-with-nextjs-typescript-styled-components-and-redux-toolkit-3863)
+- [DynamoDB Streams EventBridge Pipes Multiple Items](https://dev.to/aws-builders/dynamodb-streams-eventbridge-pipes-multiple-items-4657)
+- [Code Smell 224 - Deodorant Comments](https://dev.to/mcsee/code-smell-224-deodorant-comments-3nfk)
 - [Principles for Scaling Frontend Application Developments](https://dev.to/hashcode01/principles-for-scaling-frontend-application-developments-2kja)
-- [Explorando o Flutter: Um Guia Básico para Iniciantes](https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6)
-- [GDScript Cheatsheet](https://dev.to/godot/gdscript-cheatsheet-5ghe)
-- [HTML For Beginners The Easy Way](https://dev.to/noobizdev/html-for-beginners-the-easy-way-mhp)
 <!-- BLOG-POST-LIST:END -->
 
