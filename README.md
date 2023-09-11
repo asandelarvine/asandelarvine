@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scoped C# - What you need to know &lpar;Guide&rpar;](https://dev.to/bytehide/scoped-c-what-you-need-to-know-guide-1a4g)
-- [Using Bash and Python Together](https://dev.to/sm0ke/using-bash-and-python-together-2bli)
-- [Weekly Roundup &lpar;Sep 4&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-4-hot-topics-in-workplace-sharepoint-and-powerplatform-g81)
-- [What are Blockchain Layers and how do they work?](https://dev.to/hkaybaba/what-are-blockchain-layers-and-how-do-they-work-8e9)
+- [Advancеd Backup Stratеgiеs in PostgrеSQL](https://dev.to/hassanrehan/advancied-backup-stratiegiies-in-postgriesql-2g84)
+- [Better Git Commits with `@commitlint`](https://dev.to/maafaishal/better-git-commits-with-commitlint-g18)
+- [We had a date bug that happened two times a year, and we didn&#39;t know, you might have it too 😱](https://dev.to/novu/we-had-a-date-bug-that-happened-two-times-a-year-and-we-didnt-know-you-might-have-it-too-56o6)
+- [Dependency Injection for Games — Appendix: Injection Container](https://dev.to/filippoceffa/dependency-injection-for-games-appendix-injection-container-5ebd)
 <!-- BLOG-POST-LIST:END -->
 
