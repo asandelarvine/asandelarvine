@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Index Optimization in Database Query Performance: Guidelines and Real-world Examples](https://dev.to/nightbird07/index-optimization-in-database-query-performance-guidelines-and-real-world-examples-4f80)
+- [DevOpsDays Ukraine: Disaster Recovery at scale on September 14-15th ⚙️](https://dev.to/devopsdays_kyiv/devopsdays-ukraine-disaster-recovery-at-scale-on-september-14-15th-3hai)
+- [Announcing The Browser Conference](https://dev.to/joelgriffith/announcing-the-browser-conference-44i4)
 - [Brewing a Full-Stack Breakfast with ExpressoTS, Bun, and Elysia](https://dev.to/expressots/brewing-a-full-stack-breakfast-with-expressots-bun-and-elysia-1d40)
-- [My Opinion on Adopting New Technologies: Using Bun as a Case Study.](https://dev.to/rsaz/opinion-about-new-technology-adoption-using-bun-as-an-example-2o66)
-- [How to Finetune Llama 2: A Beginner&#39;s Guide](https://dev.to/dhanushreddy29/how-to-finetune-llama-2-a-beginners-guide-219e)
-- [100 + Login/Signup form for web developers](https://dev.to/jon_snow789/100-loginsignup-form-for-web-developers-l7f)
 <!-- BLOG-POST-LIST:END -->
 
