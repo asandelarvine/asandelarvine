@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [**Don&#39;t Miss!!!** TOP Google Penalties Guide](https://dev.to/noobizdev/dont-miss-top-google-penalties-guide-4dcd)
+- [Creating an 👩‍💻 Open Source Search Platform: Search Engines with AI - Swirl 🌌](https://dev.to/swirl/creating-an-open-source-search-platform-search-engines-with-ai-swirl-2m0h)
 - [Index Optimization in Database Query Performance: Guidelines and Real-world Examples](https://dev.to/nightbird07/index-optimization-in-database-query-performance-guidelines-and-real-world-examples-4f80)
 - [DevOpsDays Ukraine: Disaster Recovery at scale on September 14-15th ⚙️](https://dev.to/devopsdays_kyiv/devopsdays-ukraine-disaster-recovery-at-scale-on-september-14-15th-3hai)
-- [Announcing The Browser Conference](https://dev.to/joelgriffith/announcing-the-browser-conference-44i4)
-- [Brewing a Full-Stack Breakfast with ExpressoTS, Bun, and Elysia](https://dev.to/expressots/brewing-a-full-stack-breakfast-with-expressots-bun-and-elysia-1d40)
 <!-- BLOG-POST-LIST:END -->
 
