@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Mode with Next.js, TypeScript, Styled Components and Redux Toolkit🔯🔮](https://dev.to/koyablue/dark-mode-with-nextjs-typescript-styled-components-and-redux-toolkit-3863)
-- [DynamoDB Streams EventBridge Pipes Multiple Items](https://dev.to/aws-builders/dynamodb-streams-eventbridge-pipes-multiple-items-4657)
-- [Code Smell 224 - Deodorant Comments](https://dev.to/mcsee/code-smell-224-deodorant-comments-3nfk)
-- [Principles for Scaling Frontend Application Developments](https://dev.to/hashcode01/principles-for-scaling-frontend-application-developments-2kja)
+- [Data Communication : System design](https://dev.to/rajrathod/data-communication-system-design-3hgf)
+- [Self-developed PSD parser dynamically generates static code to improve your development efficiency](https://dev.to/yuanmr/self-developed-psd-parser-dynamically-generates-static-code-to-improve-your-development-efficiency-200c)
+- [Navigating the shift from customer service to coding](https://dev.to/wdp/navigating-the-shift-from-customer-service-to-coding-oe6)
+- [Lidando com regressão visual: enfrentando desafios com Django, Selenium e Pillow](https://dev.to/eduardojm/lidando-com-regressao-visual-enfrentando-desafios-com-django-selenium-e-pillow-o8d)
 <!-- BLOG-POST-LIST:END -->
 
