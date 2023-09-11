@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [how much % you have used out of your life???](https://dev.to/rodonguyen/how-much-you-have-used-out-of-your-life-3nnb)
+- [Getting Started with SMS Notifications using Africas Talking and GitHub Actions🐙](https://dev.to/ken_mwaura1/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-5de0)
+- [Linux filters - How to streamline text like a boss](https://dev.to/cherryramatis/linux-filters-how-to-streamline-text-like-a-boss-2dp4)
 - [Advancеd Backup Stratеgiеs in PostgrеSQL](https://dev.to/hassanrehan/advancied-backup-stratiegiies-in-postgriesql-2g84)
-- [Better Git Commits with `@commitlint`](https://dev.to/maafaishal/better-git-commits-with-commitlint-g18)
-- [We had a date bug that happened two times a year, and we didn&#39;t know, you might have it too 😱](https://dev.to/novu/we-had-a-date-bug-that-happened-two-times-a-year-and-we-didnt-know-you-might-have-it-too-56o6)
-- [Dependency Injection for Games — Appendix: Injection Container](https://dev.to/filippoceffa/dependency-injection-for-games-appendix-injection-container-5ebd)
 <!-- BLOG-POST-LIST:END -->
 
