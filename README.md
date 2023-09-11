@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Node.js and MongoDB example](https://dev.to/tienbku/docker-nodejs-and-mongodb-example-doc)
-- [Automating AWS Operations: A Deep Dive into Systems Manager for SysOps](https://dev.to/brandondamue/automating-aws-operations-a-deep-dive-into-systems-manager-for-sysops-30nc)
-- [How to use geolocation api using ReactJS](https://dev.to/choiruladamm/how-to-use-geolocation-api-using-reactjs-ndk)
-- [Data Communication : System design](https://dev.to/rajrathod/data-communication-system-design-3hgf)
+- [Which AI Tool is the Best?](https://dev.to/ronakmunjapara/which-ai-tool-is-the-best-1987)
+- [Let’s Create an End-to-End Web Scraping Pipeline With Scrapy!](https://dev.to/nanellooo/lets-create-an-end-to-end-web-scraping-pipeline-with-scrapy-261o)
+- [How to animate Fire TV splash screens with React Native &amp; Lottie](https://dev.to/amazonappdev/how-to-animate-fire-tv-splash-screens-with-react-native-lottie-32ca)
+- [Convert a Hygraph Next.js project to Next.js app directory](https://dev.to/brob/convert-a-hygraph-nextjs-project-to-nextjs-app-directory-beta-4m13)
 <!-- BLOG-POST-LIST:END -->
 
