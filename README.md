@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Behind the Excitement in the JavaScript Community about Bun.js?](https://dev.to/mitchiemt11/whats-behind-the-excitement-in-the-javascript-community-about-bunjs-2p4l)
+- [How to Build a Passkey Login Page with React](https://dev.to/vdelitz/how-to-build-a-passkey-login-page-with-react-16jl)
+- [Maximizing Efficiency and Savings: A Guide to Optimizing Amazon Redshift](https://dev.to/luxacademy/maximizing-efficiency-and-savings-a-guide-to-optimizing-amazon-redshift-3ddl)
 - [4 Open-Source Technologies Every True Full-Stack Developer Should Master](https://dev.to/rigdev/4-open-source-technologies-every-true-full-stack-developer-should-master-33e9)
-- [Mastering Test-Driven Development &lpar;TDD&rpar; with C# Examples](https://dev.to/bakatsiasgeorge/title-mastering-test-driven-development-tdd-with-c-examples-5fk4)
-- [Fluid Typography](https://dev.to/marcelluscaio/fluid-typography-1mfl)
-- [Install Playwright and Visual Studio Code](https://dev.to/hambalee/install-playwright-and-visual-studio-code-37ep)
 <!-- BLOG-POST-LIST:END -->
 
