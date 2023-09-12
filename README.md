@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular State Management: A Comparison of the Different Options Available](https://dev.to/chintanonweb/angular-state-management-a-comparison-of-the-different-options-available-100e)
+- [Exploring Steganography in the Wild - Part 1](https://dev.to/ranggakd/exploring-steganography-in-the-wild-part-1-5hll)
+- [Blood pressure tracker with Microsoft Lists and Power Automate](https://dev.to/jaloplo/blood-pressure-tracker-with-microsoft-lists-and-power-automate-45jp)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-33hc)
-- [Beyond Work, What Are Your Goals for the Next 5 Years?](https://dev.to/codenewbieteam/beyond-work-what-are-your-goals-for-the-next-5-years-5eea)
-- [Got Coding Superstitions?🤞](https://dev.to/devteam/got-coding-superstitions-8im)
-- [🛠️ 10 Exceptional Developer Tools Launched in 2023 🚀](https://dev.to/permit_io/10-exceptional-developer-tools-launched-in-2023-42a8)
 <!-- BLOG-POST-LIST:END -->
 
