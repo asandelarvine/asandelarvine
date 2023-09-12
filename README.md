@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting changes in JavaScript and CSS isn&#39;t an easy task, Part 3](https://dev.to/azasypkin/detecting-changes-in-javascript-and-css-isnt-an-easy-task-part-3-5dji)
-- [PostgrеSQL Triggеrs: An Advancеd Guidе](https://dev.to/hassanrehan/postgriesql-triggiers-an-advancied-guidie-3ac8)
-- [PostgrеSQL and JSON: An Advancеd Guidе](https://dev.to/hassanrehan/postgriesql-and-json-an-advancied-guidie-2lhp)
-- [Displaying cacheable content with a partial component in Angular](https://dev.to/ayyash/displaying-cacheable-content-with-a-partial-component-in-angular-286h)
+- [Build an AI Meme Generator with OpenAI&#39;s function calls, Part 2: Cron Jobs ⏰☎️](https://dev.to/wasp/build-an-ai-meme-generator-with-openais-function-calls-part-2-cron-jobs-54nm)
+- [How to Learn Programming in 2023](https://dev.to/scofieldidehen/how-to-learn-programming-in-2023-2981)
+- [17 years of frustration: The best lesson I&#39;ve learned about teaching](https://dev.to/apetryla/the-best-lesson-ive-learned-about-teaching-in-17-years-of-frustration-3pcc)
+- [The Benefits of Using JavaScript Libraries in Startup Projects](https://dev.to/plazarev/the-benefits-of-using-javascript-libraries-in-startup-projects-1p9p)
 <!-- BLOG-POST-LIST:END -->
 
