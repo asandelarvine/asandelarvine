@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Meme Generator with OpenAI&#39;s function calls, Part 2: Cron Jobs ⏰☎️](https://dev.to/wasp/build-an-ai-meme-generator-with-openais-function-calls-part-2-cron-jobs-54nm)
-- [How to Learn Programming in 2023](https://dev.to/scofieldidehen/how-to-learn-programming-in-2023-2981)
-- [17 years of frustration: The best lesson I&#39;ve learned about teaching](https://dev.to/apetryla/the-best-lesson-ive-learned-about-teaching-in-17-years-of-frustration-3pcc)
-- [The Benefits of Using JavaScript Libraries in Startup Projects](https://dev.to/plazarev/the-benefits-of-using-javascript-libraries-in-startup-projects-1p9p)
+- [5 Git Commands You Shouldn’t Ignore](https://dev.to/mainulspace/5-git-commands-you-shouldnt-ignore-2c19)
+- [Programming Languages as Super Heroes Comics!!](https://dev.to/idurar/programming-languages-as-super-heroes-comics-1e9h)
+- [NEXT.Js Link routing on steroids](https://dev.to/chocoscoding/nextjs-link-routing-on-steroids-1i06)
+- [Advanced React.js Concepts: A Deep Dive](https://dev.to/alisamirali/advanced-reactjs-concepts-a-deep-dive-2ni8)
 <!-- BLOG-POST-LIST:END -->
 
