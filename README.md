@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion - Tailwind CSS Template Builder](https://dev.to/rarestoma/motion-tailwind-css-template-builder-3nm)
+- [In React, You Don&#39;t Need To Start Your Component Name With Capital First Letter](https://dev.to/myogeshchavan97/in-react-you-dont-need-to-start-your-component-name-with-capital-first-letter-51la)
+- [Creating Your First Droplet - DigitalOcean Tutorials](https://dev.to/devarshishimpi/creating-your-first-droplet-digitalocean-tutorials-b16)
 - [Part 4 &lpar;c&rpar;: Unit Testing: How to Build a To-do App with Vue.Js](https://dev.to/miracool/part-4-c-unit-testing-how-to-build-a-to-do-app-with-vuejs-2dli)
-- [Solving &quot;Move Zeroes&quot; Leet code Question.](https://dev.to/leetcode/solving-move-zeroes-leet-code-question-8k2)
-- [Bleeding-edge Project Using Everything New In Next.js 13📚](https://dev.to/apestein/bleeding-edge-project-using-everything-new-in-nextjs-13-4mlg)
-- [Learning basic SQL with me:](https://dev.to/jnx257/learning-basic-sql-with-me-29f7)
 <!-- BLOG-POST-LIST:END -->
 
