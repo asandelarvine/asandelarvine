@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Detecting changes in JavaScript and CSS isn&#39;t an easy task, Part 3](https://dev.to/azasypkin/detecting-changes-in-javascript-and-css-isnt-an-easy-task-part-3-5dji)
+- [PostgrеSQL Triggеrs: An Advancеd Guidе](https://dev.to/hassanrehan/postgriesql-triggiers-an-advancied-guidie-3ac8)
+- [PostgrеSQL and JSON: An Advancеd Guidе](https://dev.to/hassanrehan/postgriesql-and-json-an-advancied-guidie-2lhp)
 - [Displaying cacheable content with a partial component in Angular](https://dev.to/ayyash/displaying-cacheable-content-with-a-partial-component-in-angular-286h)
-- [Angular Signals: what&#39;s all the fuss about?](https://dev.to/sparkfabrik/angular-signals-whats-all-the-fuss-about-3hm5)
-- [Creating a CSS-only Card Slider with Tailwind CSS](https://dev.to/cruip_com/creating-a-css-only-card-slider-with-tailwind-css-44do)
-- [GitHub: Composite Actions vs Reusable Workflows [Updated 2023]](https://dev.to/n3wt0n/github-composite-actions-vs-reusable-workflows-updated-2023-bl8)
 <!-- BLOG-POST-LIST:END -->
 
