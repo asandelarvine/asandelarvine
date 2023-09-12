@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js: How &lt;Suspense /&gt; and Components Streaming works?](https://dev.to/charnog/nextjs-how-and-components-streaming-works-30ao)
 - [Trending Discussions of the Week - 9/12/23](https://dev.to/devteam/trending-discussions-of-the-week-91223-4kim)
 - [Creating a Dockerfile for your Go Backend](https://dev.to/sadeedpv/creating-a-dockerfile-for-your-go-backend-20n5)
 - [Data fetching in Next.js with getServerSideProps and getStaticProps](https://dev.to/logrocket/data-fetching-in-nextjs-with-getserversideprops-and-getstaticprops-4pcl)
-- [Display website icons in the VSCode markdown preview](https://dev.to/rxliuli/display-website-icons-in-the-vscode-markdown-preview-30cd)
 <!-- BLOG-POST-LIST:END -->
 
