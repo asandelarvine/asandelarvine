@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [you may need this - bash script](https://dev.to/scorcism/you-may-need-this-bash-script-p0e)
-- [Our Team&#39;s Favourite Open Source Projects Right Now](https://dev.to/rigdev/our-teams-favourite-open-source-projects-right-now-4jlc)
-- [NestJS: Bun vs NodeJS](https://dev.to/mourishitz/running-nestjs-server-with-bun-4cdl)
-- [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
+- [Bun: The Next Big Thing in Javascript](https://dev.to/kalashin1/bun-the-next-big-thing-in-javascript-jeg)
+- [16 Essential Tools Every Freelancer Must Try 🚀💯](https://dev.to/madza/16-essential-tools-every-freelancer-must-try-5h8)
+- [GitHub profile of the day: Philippe Massicotte](https://dev.to/szabgab/github-profile-of-the-day-philippe-massicotte-2e5o)
+- [Configuring a simple router with OpenBSD](https://dev.to/donaldsebleung/configuring-a-simple-router-with-openbsd-2bno)
 <!-- BLOG-POST-LIST:END -->
 
