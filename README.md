@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Git Commands You Shouldn’t Ignore](https://dev.to/mainulspace/5-git-commands-you-shouldnt-ignore-2c19)
-- [Programming Languages as Super Heroes Comics!!](https://dev.to/idurar/programming-languages-as-super-heroes-comics-1e9h)
-- [NEXT.Js Link routing on steroids](https://dev.to/chocoscoding/nextjs-link-routing-on-steroids-1i06)
-- [Advanced React.js Concepts: A Deep Dive](https://dev.to/alisamirali/advanced-reactjs-concepts-a-deep-dive-2ni8)
+- [you may need this - bash script](https://dev.to/scorcism/you-may-need-this-bash-script-p0e)
+- [Our Team&#39;s Favourite Open Source Projects Right Now](https://dev.to/rigdev/our-teams-favourite-open-source-projects-right-now-4jlc)
+- [NestJS: Bun vs NodeJS](https://dev.to/mourishitz/running-nestjs-server-with-bun-4cdl)
+- [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
 <!-- BLOG-POST-LIST:END -->
 
