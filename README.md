@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an AI SMS Chatbot with Replicate, LLaMA 2, and LangChain](https://dev.to/twilio/build-an-ai-sms-chatbot-with-replicate-llama-2-and-langchain-3i72)
+- [Unlocking the Potential of Large Language Models &lpar;LLMs&rpar; for Business Insights](https://dev.to/devnenyasha/unlocking-the-potential-of-large-language-models-llms-for-business-insights-23n9)
 - [Next.js: How &lt;Suspense /&gt; and Components Streaming works?](https://dev.to/charnog/nextjs-how-and-components-streaming-works-30ao)
-- [Mastering React Styling: A Beginner&#39;s Guide](https://dev.to/cybermaxi7/mastering-react-styling-a-beginners-guide-1lel)
-- [Trending Discussions of the Week - 9/12/23](https://dev.to/devteam/trending-discussions-of-the-week-91223-4kim)
-- [Creating a Dockerfile for your Go Backend](https://dev.to/sadeedpv/creating-a-dockerfile-for-your-go-backend-20n5)
+- [Validating SSH keys on Laravel](https://dev.to/devlopez/validating-ssh-keys-on-laravel-2545)
 <!-- BLOG-POST-LIST:END -->
 
