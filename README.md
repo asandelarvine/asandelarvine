@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Displaying cacheable content with a partial component in Angular](https://dev.to/ayyash/displaying-cacheable-content-with-a-partial-component-in-angular-286h)
+- [Angular Signals: what&#39;s all the fuss about?](https://dev.to/sparkfabrik/angular-signals-whats-all-the-fuss-about-3hm5)
 - [Creating a CSS-only Card Slider with Tailwind CSS](https://dev.to/cruip_com/creating-a-css-only-card-slider-with-tailwind-css-44do)
 - [GitHub: Composite Actions vs Reusable Workflows [Updated 2023]](https://dev.to/n3wt0n/github-composite-actions-vs-reusable-workflows-updated-2023-bl8)
-- [Frontend vs. Backend](https://dev.to/hasanelsherbiny/frontend-vs-backend-5edk)
-- [Angular State Management: A Comparison of the Different Options Available](https://dev.to/chintanonweb/angular-state-management-a-comparison-of-the-different-options-available-100e)
 <!-- BLOG-POST-LIST:END -->
 
