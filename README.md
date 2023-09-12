@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Dockerfile for your Go Backend](https://dev.to/sadeedpv/creating-a-dockerfile-for-your-go-backend-20n5)
+- [Data fetching in Next.js with getServerSideProps and getStaticProps](https://dev.to/logrocket/data-fetching-in-nextjs-with-getserversideprops-and-getstaticprops-4pcl)
+- [Display website icons in the VSCode markdown preview](https://dev.to/rxliuli/display-website-icons-in-the-vscode-markdown-preview-30cd)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4bfl)
-- [What are your takeaways from the Apple event?](https://dev.to/ben/what-are-your-takeaways-from-the-apple-event-24f7)
-- [Understanding Variable Declaration in JavaScript: let vs. var](https://dev.to/iamcymentho/understanding-variable-declaration-in-javascript-let-vs-var-50an)
-- [How to block ChatGPT from scraping your website.](https://dev.to/ricovz/how-to-block-chatgpt-from-scraping-your-website-593c)
 <!-- BLOG-POST-LIST:END -->
 
