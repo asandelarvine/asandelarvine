@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extensões do Visual Studio Code para um SRE](https://dev.to/laryssa/extensoes-do-visual-studio-code-para-um-sre-2nj5)
-- [Social bookmarks in the Fediverse](https://dev.to/andypiper/social-bookmarks-in-the-fediverse-5bki)
-- [This Context API Mistake Ruins Your Whole React App &lpar;All Components Re-Render&rpar;](https://dev.to/ubahthebuilder/this-context-api-mistake-ruins-your-whole-react-app-all-components-re-render-2k63)
-- [What Are the Biggest Misconceptions about Your Work?](https://dev.to/codenewbieteam/what-are-the-biggest-misconceptions-about-your-work-2da0)
+- [Solving &quot;Move Zeroes&quot; Leet code Question.](https://dev.to/leetcode/solving-move-zeroes-leet-code-question-8k2)
+- [Bleeding-edge Project Using Everything New In Next.js 13📚](https://dev.to/apestein/bleeding-edge-project-using-everything-new-in-nextjs-13-4mlg)
+- [Learning basic SQL with me:](https://dev.to/jnx257/learning-basic-sql-with-me-29f7)
+- [EKS and NetworkPolicies: the story so far](https://dev.to/aws-builders/eks-and-networkpolicies-the-story-so-far-3f45)
 <!-- BLOG-POST-LIST:END -->
 
