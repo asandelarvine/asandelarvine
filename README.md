@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a CSS-only Card Slider with Tailwind CSS](https://dev.to/cruip_com/creating-a-css-only-card-slider-with-tailwind-css-44do)
+- [GitHub: Composite Actions vs Reusable Workflows [Updated 2023]](https://dev.to/n3wt0n/github-composite-actions-vs-reusable-workflows-updated-2023-bl8)
+- [Frontend vs. Backend](https://dev.to/hasanelsherbiny/frontend-vs-backend-5edk)
 - [Angular State Management: A Comparison of the Different Options Available](https://dev.to/chintanonweb/angular-state-management-a-comparison-of-the-different-options-available-100e)
-- [Exploring Steganography in the Wild - Part 1](https://dev.to/ranggakd/exploring-steganography-in-the-wild-part-1-5hll)
-- [Blood pressure tracker with Microsoft Lists and Power Automate](https://dev.to/jaloplo/blood-pressure-tracker-with-microsoft-lists-and-power-automate-45jp)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-33hc)
 <!-- BLOG-POST-LIST:END -->
 
