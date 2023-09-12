@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun: The Next Big Thing in Javascript](https://dev.to/kalashin1/bun-the-next-big-thing-in-javascript-jeg)
-- [16 Essential Tools Every Freelancer Must Try 🚀💯](https://dev.to/madza/16-essential-tools-every-freelancer-must-try-5h8)
-- [GitHub profile of the day: Philippe Massicotte](https://dev.to/szabgab/github-profile-of-the-day-philippe-massicotte-2e5o)
-- [Configuring a simple router with OpenBSD](https://dev.to/donaldsebleung/configuring-a-simple-router-with-openbsd-2bno)
+- [Hugging Face 101: A Tutorial for Absolute Beginners!](https://dev.to/pavanbelagatti/hugging-face-101-a-tutorial-for-absolute-beginners-3b0l)
+- [Calling service in Angular](https://dev.to/inexperienced_coder/calling-service-in-angular-4a1o)
+- [useState Hook in React](https://dev.to/parmita17/usestate-hook-in-react-296o)
+- [Unity New Pricing in 2024 is Crazy](https://dev.to/godot/unity-new-pricing-in-2024-is-crazy-3hnn)
 <!-- BLOG-POST-LIST:END -->
 
