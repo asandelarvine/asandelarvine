@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 4 &lpar;c&rpar;: Unit Testing: How to Build a To-do App with Vue.Js](https://dev.to/miracool/part-4-c-unit-testing-how-to-build-a-to-do-app-with-vuejs-2dli)
 - [Solving &quot;Move Zeroes&quot; Leet code Question.](https://dev.to/leetcode/solving-move-zeroes-leet-code-question-8k2)
 - [Bleeding-edge Project Using Everything New In Next.js 13📚](https://dev.to/apestein/bleeding-edge-project-using-everything-new-in-nextjs-13-4mlg)
 - [Learning basic SQL with me:](https://dev.to/jnx257/learning-basic-sql-with-me-29f7)
-- [EKS and NetworkPolicies: the story so far](https://dev.to/aws-builders/eks-and-networkpolicies-the-story-so-far-3f45)
 <!-- BLOG-POST-LIST:END -->
 
