@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion - Tailwind CSS Template Builder](https://dev.to/rarestoma/motion-tailwind-css-template-builder-3nm)
-- [In React, You Don&#39;t Need To Start Your Component Name With Capital First Letter](https://dev.to/myogeshchavan97/in-react-you-dont-need-to-start-your-component-name-with-capital-first-letter-51la)
-- [Creating Your First Droplet - DigitalOcean Tutorials](https://dev.to/devarshishimpi/creating-your-first-droplet-digitalocean-tutorials-b16)
-- [Part 4 &lpar;c&rpar;: Unit Testing: How to Build a To-do App with Vue.Js](https://dev.to/miracool/part-4-c-unit-testing-how-to-build-a-to-do-app-with-vuejs-2dli)
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-33hc)
+- [Beyond Work, What Are Your Goals for the Next 5 Years?](https://dev.to/codenewbieteam/beyond-work-what-are-your-goals-for-the-next-5-years-5eea)
+- [Got Coding Superstitions?🤞](https://dev.to/devteam/got-coding-superstitions-8im)
+- [🛠️ 10 Exceptional Developer Tools Launched in 2023 🚀](https://dev.to/permit_io/10-exceptional-developer-tools-launched-in-2023-42a8)
 <!-- BLOG-POST-LIST:END -->
 
