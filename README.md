@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4bfl)
+- [What are your takeaways from the Apple event?](https://dev.to/ben/what-are-your-takeaways-from-the-apple-event-24f7)
 - [Understanding Variable Declaration in JavaScript: let vs. var](https://dev.to/iamcymentho/understanding-variable-declaration-in-javascript-let-vs-var-50an)
 - [How to block ChatGPT from scraping your website.](https://dev.to/ricovz/how-to-block-chatgpt-from-scraping-your-website-593c)
-- [Hugging Face 101: A Tutorial for Absolute Beginners!](https://dev.to/pavanbelagatti/hugging-face-101-a-tutorial-for-absolute-beginners-3b0l)
-- [Calling service in Angular](https://dev.to/inexperienced_coder/calling-service-in-angular-4a1o)
 <!-- BLOG-POST-LIST:END -->
 
