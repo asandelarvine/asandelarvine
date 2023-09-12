@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Extensões do Visual Studio Code para um SRE](https://dev.to/laryssa/extensoes-do-visual-studio-code-para-um-sre-2nj5)
 - [Social bookmarks in the Fediverse](https://dev.to/andypiper/social-bookmarks-in-the-fediverse-5bki)
 - [This Context API Mistake Ruins Your Whole React App &lpar;All Components Re-Render&rpar;](https://dev.to/ubahthebuilder/this-context-api-mistake-ruins-your-whole-react-app-all-components-re-render-2k63)
 - [What Are the Biggest Misconceptions about Your Work?](https://dev.to/codenewbieteam/what-are-the-biggest-misconceptions-about-your-work-2da0)
-- [PURISTA: Build with rimraf, esbuild, Turbo &amp; git-cliff](https://dev.to/purista/purista-build-with-rimraf-esbuild-turbo-git-cliff-5h5e)
 <!-- BLOG-POST-LIST:END -->
 
