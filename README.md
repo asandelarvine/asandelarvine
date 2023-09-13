@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publish an NPM Package from a GitHub Repository](https://dev.to/sh20raj/publish-an-npm-package-from-a-github-repository-4i8f)
-- [Building Your Professional Portfolio Website: A Step-by-Step Guide](https://dev.to/templatesjungle/building-your-professional-portfolio-website-a-step-by-step-guide-252e)
-- [Building a Job Board with Next.js, Chakra UI, and Directus](https://dev.to/directus/building-a-job-board-with-nextjs-chakra-ui-and-directus-3df5)
-- [ChatGPT: The Good, the Bad, and the Risky for Developers](https://dev.to/mainulspace/chatgpt-the-good-the-bad-and-the-risky-for-developers-5ag2)
+- [Creating a Quantum Computing Portfolio Segment Using Variational Quantum Eigensolver](https://dev.to/aws/creating-a-quantum-computing-portfolio-segment-using-variational-quantum-eigensolver-ioc)
+- [🧭 Navigating the Open Source Landscape: ⭐Finding Your First Contribution](https://dev.to/nathan_tarbert/navigating-the-open-source-landscape-finding-your-first-contribution-3fap)
+- [Top Cloud Tools For Cloud Computing](https://dev.to/scofieldidehen/top-cloud-tools-for-cloud-computing-3jck)
+- [7-Stage Roadmap for Data Science](https://dev.to/imadadrees/7-stage-roadmap-for-data-science-451n)
 <!-- BLOG-POST-LIST:END -->
 
