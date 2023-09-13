@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips for Acing Technical Interviews: Lessons from Both Sides of the Table](https://dev.to/pacheco/tips-for-acing-technical-interviews-lessons-from-both-sides-of-the-table-5262)
+- [React Native Error: A navigator cannot contain multiple &#39;Screen&#39; components with the same name ...](https://dev.to/emmyjaff/react-native-error-a-navigator-cannot-contain-multiple-screen-components-with-the-same-name--e7m)
+- [Analyzing data accurancy with Puppeteer and Axios&lpar; example: book prices &rpar;](https://dev.to/qaproengineer/analyzing-book-prices-with-puppeteer-and-axios-example-book-prices--4hbm)
 - [This Week In React #159: Bun, Static Hermes, Next.js, React Aria Components, Next Nav, visionOS, Reanimated, Skia Fonts...](https://dev.to/sebastienlorber/this-week-in-react-159-bun-static-hermes-nextjs-react-aria-components-next-nav-visionos-reanimated-skia-fonts-3k32)
-- [Create a JavaScript Tool to Generate Acronym from User Input](https://dev.to/codewithshan/create-a-javascript-tool-to-generate-acronym-from-user-input-2ib7)
-- [Tech Events are NOT as cool as you think &lpar;from an organizer perspective&rpar;](https://dev.to/k8adev/tech-events-are-not-as-cool-as-you-think-from-an-organizer-perspective-2b70)
-- [TinyMCE Rich Text Editor: Multi-Root vs Inline Editing](https://dev.to/tinymce/tinymce-rich-text-editor-multi-root-vs-inline-editing-7hh)
 <!-- BLOG-POST-LIST:END -->
 
