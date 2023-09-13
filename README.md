@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy Programmers&#39; Day 🎉🎉](https://dev.to/vanessatelles/happy-programmers-day-466a)
+- [⚡👨🏾‍💻Understanding Developer personas for a more inclusive community👨‍👩‍👦](https://dev.to/dumebii/understanding-developer-personas-for-a-more-inclusive-community-26cn)
 - [Setup Vite+ ReactJs with Tailwind CSS](https://dev.to/arindam_1729/setup-vite-reactjs-with-tailwind-css-4dj2)
-- [AWS Golden Jacket; Is it worth the race?](https://dev.to/aws-builders/aws-golden-jacket-is-it-worth-the-race-466a)
-- [Vue 3: Options API vs the Composition API](https://dev.to/alakkadshaw/vue-3-options-api-vs-the-composition-api-5556)
-- [Flet is &quot;The fastest way to build Flutter apps in Python&quot; - it&#39;s not :&lpar;](https://dev.to/maximsaplin/flet-is-the-fastest-way-to-build-flutter-apps-in-python-its-not--3dkm)
+- [🚀 Elevate Your React Router Skills: The Ultimate Nuggets 🌐](https://dev.to/judeebekes67/elevate-your-react-router-skills-the-ultimate-nuggets-3icp)
 <!-- BLOG-POST-LIST:END -->
 
