@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Unit Testing With NestJS](https://dev.to/ehsaantech/mastering-unit-testing-with-nestjs-37g9)
+- [Python, type hints, and future annotations](https://dev.to/derlin/python-type-hints-and-future-annotations-4kc5)
 - [Creating a Quantum Computing Portfolio Segment Using Variational Quantum Eigensolver](https://dev.to/aws/creating-a-quantum-computing-portfolio-segment-using-variational-quantum-eigensolver-ioc)
 - [🧭 Navigating the Open Source Landscape: ⭐Finding Your First Contribution](https://dev.to/nathan_tarbert/navigating-the-open-source-landscape-finding-your-first-contribution-3fap)
-- [Top Cloud Tools For Cloud Computing](https://dev.to/scofieldidehen/top-cloud-tools-for-cloud-computing-3jck)
-- [7-Stage Roadmap for Data Science](https://dev.to/imadadrees/7-stage-roadmap-for-data-science-451n)
 <!-- BLOG-POST-LIST:END -->
 
