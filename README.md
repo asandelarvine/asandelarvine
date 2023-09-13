@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Some aspects of Merkle Tree](https://dev.to/sergeyshandar/some-aspects-of-merkle-tree-19jo)
+- [Everything I Learnt From Making a Service Worker Build Plugin](https://dev.to/hedgehog125/everything-i-learnt-from-making-a-service-worker-build-plugin-3n64)
+- [XSS Attack - Why strip_tags is not enough](https://dev.to/rodrigojavornik/xss-attack-why-striptags-is-not-enough-5gmo)
 - [Tips for Acing Technical Interviews: Lessons from Both Sides of the Table](https://dev.to/pacheco/tips-for-acing-technical-interviews-lessons-from-both-sides-of-the-table-5262)
-- [React Native Error: A navigator cannot contain multiple &#39;Screen&#39; components with the same name ...](https://dev.to/emmyjaff/react-native-error-a-navigator-cannot-contain-multiple-screen-components-with-the-same-name--e7m)
-- [Analyzing data accurancy with Puppeteer and Axios&lpar; example: book prices &rpar;](https://dev.to/qaproengineer/analyzing-book-prices-with-puppeteer-and-axios-example-book-prices--4hbm)
-- [This Week In React #159: Bun, Static Hermes, Next.js, React Aria Components, Next Nav, visionOS, Reanimated, Skia Fonts...](https://dev.to/sebastienlorber/this-week-in-react-159-bun-static-hermes-nextjs-react-aria-components-next-nav-visionos-reanimated-skia-fonts-3k32)
 <!-- BLOG-POST-LIST:END -->
 
