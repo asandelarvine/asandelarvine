@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥TOP🔥 WordPress Themes You Should KNOW...](https://dev.to/noobizdev/top-wordpress-themes-you-should-know-4bme)
+- [Generate New Project Code Using &quot;create-blank-app&quot; command and ChatGPT](https://dev.to/ngduc/generate-new-project-code-using-create-blank-app-command-and-chatgpt-1a2m)
 - [Some aspects of Merkle Tree](https://dev.to/sergeyshandar/some-aspects-of-merkle-tree-19jo)
 - [Everything I Learnt From Making a Service Worker Build Plugin](https://dev.to/hedgehog125/everything-i-learnt-from-making-a-service-worker-build-plugin-3n64)
-- [XSS Attack - Why strip_tags is not enough](https://dev.to/rodrigojavornik/xss-attack-why-striptags-is-not-enough-5gmo)
-- [Tips for Acing Technical Interviews: Lessons from Both Sides of the Table](https://dev.to/pacheco/tips-for-acing-technical-interviews-lessons-from-both-sides-of-the-table-5262)
 <!-- BLOG-POST-LIST:END -->
 
