@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Baby steps to instantly improve your React project](https://dev.to/rajeshroyal/baby-steps-to-instantly-improve-your-react-project-56o2)
+- [Enhanced Image Generation With Stable Diffusion and Roop.](https://dev.to/jamesbright/enhanced-image-generation-with-stable-diffusion-and-roop-1c49)
+- [CTF Challenges: Reconnaissance](https://dev.to/therealchiwoo/ctf-challenges-reconnaissance-1bl5)
 - [What is your Why?](https://dev.to/acoh3n/what-is-your-why-j9b)
-- [Extensões do Visual Studio Code para um Front-end](https://dev.to/manzoliric/extensoes-do-visual-studio-code-para-um-front-end-2pgk)
-- [PHP e o Machine Learning](https://dev.to/lenog/php-e-o-machine-learning-3b2b)
-- [If you have these three things, then you’re a user &lpar;and not a programmer&rpar;](https://dev.to/noriller/if-you-have-these-three-things-then-youre-a-user-and-not-a-programmer-45nk)
 <!-- BLOG-POST-LIST:END -->
 
