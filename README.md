@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is your Why?](https://dev.to/acoh3n/what-is-your-why-j9b)
+- [Extensões do Visual Studio Code para um Front-end](https://dev.to/manzoliric/extensoes-do-visual-studio-code-para-um-front-end-2pgk)
+- [PHP e o Machine Learning](https://dev.to/lenog/php-e-o-machine-learning-3b2b)
 - [If you have these three things, then you’re a user &lpar;and not a programmer&rpar;](https://dev.to/noriller/if-you-have-these-three-things-then-youre-a-user-and-not-a-programmer-45nk)
-- [Build an AI SMS Chatbot with Replicate, LLaMA 2, and LangChain](https://dev.to/twilio/build-an-ai-sms-chatbot-with-replicate-llama-2-and-langchain-3i72)
-- [Unlocking the Potential of Large Language Models &lpar;LLMs&rpar; for Business Insights](https://dev.to/devnenyasha/unlocking-the-potential-of-large-language-models-llms-for-business-insights-23n9)
-- [Next.js: How &lt;Suspense /&gt; and Components Streaming works?](https://dev.to/charnog/nextjs-how-and-components-streaming-works-30ao)
 <!-- BLOG-POST-LIST:END -->
 
