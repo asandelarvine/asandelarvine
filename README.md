@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Unit Testing With NestJS](https://dev.to/ehsaantech/mastering-unit-testing-with-nestjs-37g9)
-- [Python, type hints, and future annotations](https://dev.to/derlin/python-type-hints-and-future-annotations-4kc5)
-- [Creating a Quantum Computing Portfolio Segment Using Variational Quantum Eigensolver](https://dev.to/aws/creating-a-quantum-computing-portfolio-segment-using-variational-quantum-eigensolver-ioc)
-- [🧭 Navigating the Open Source Landscape: ⭐Finding Your First Contribution](https://dev.to/nathan_tarbert/navigating-the-open-source-landscape-finding-your-first-contribution-3fap)
+- [Why we launched earlier than what felt comfortable](https://dev.to/rigdev/why-we-launched-earlier-than-what-felt-comfortable-5bhm)
+- [Job Schedulers for Node: Bull or Agenda?](https://dev.to/appsignal/job-schedulers-for-node-bull-or-agenda-39n3)
+- [Top FAQs of ICO Software Development](https://dev.to/adelelara/top-faqs-of-ico-software-development-3606)
+- [How to Optimize SQL Performance with esProc SPL](https://dev.to/grayhat/how-to-optimize-sql-performance-with-esproc-spl-15m7)
 <!-- BLOG-POST-LIST:END -->
 
