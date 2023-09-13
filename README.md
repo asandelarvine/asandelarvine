@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Baby steps to instantly improve your React project](https://dev.to/rajeshroyal/baby-steps-to-instantly-improve-your-react-project-56o2)
-- [Enhanced Image Generation With Stable Diffusion and Roop.](https://dev.to/jamesbright/enhanced-image-generation-with-stable-diffusion-and-roop-1c49)
-- [CTF Challenges: Reconnaissance](https://dev.to/therealchiwoo/ctf-challenges-reconnaissance-1bl5)
-- [What is your Why?](https://dev.to/acoh3n/what-is-your-why-j9b)
+- [Silver Screen Code: What&#39;s Your Job&#39;s Movie Genre?](https://dev.to/codenewbieteam/silver-screen-code-whats-your-jobs-movie-genre-49l7)
+- [How Do You Create Inclusive Workplaces?](https://dev.to/devteam/how-do-you-create-inclusive-workplaces-d5m)
+- [An In-Depth Manual for Backing Up Data from Your NAS Device](https://dev.to/jhighsmith0033/an-in-depth-manual-for-backing-up-data-from-your-nas-device-1kc5)
+- [Mastering React Query: Navigating the Waters of Data Fetching and Error Handling](https://dev.to/xanyl/mastering-react-query-navigating-the-waters-of-data-fetching-and-error-handling-4d2l)
 <!-- BLOG-POST-LIST:END -->
 
