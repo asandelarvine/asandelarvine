@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t sound like a robot: use CSS to Control Text-to-Speech](https://dev.to/ingosteinke/using-css-to-control-text-to-speech-1i0d)
-- [Welcome Thread - v242](https://dev.to/devteam/welcome-thread-v242-1b40)
-- [🕰️My C# Time Machine: 13 Lessons From a 10-Year Voyage](https://dev.to/bytehide/my-c-time-machine-13-lessons-from-a-10-year-voyage-27j2)
-- [Examining Blockchain Transaction Speed: Real Performance vs. Marketing Claims](https://dev.to/fromaline/examining-blockchain-transaction-speed-real-performance-vs-marketing-claims-417g)
+- [Publish an NPM Package from a GitHub Repository](https://dev.to/sh20raj/publish-an-npm-package-from-a-github-repository-4i8f)
+- [Building Your Professional Portfolio Website: A Step-by-Step Guide](https://dev.to/templatesjungle/building-your-professional-portfolio-website-a-step-by-step-guide-252e)
+- [Building a Job Board with Next.js, Chakra UI, and Directus](https://dev.to/directus/building-a-job-board-with-nextjs-chakra-ui-and-directus-3df5)
+- [ChatGPT: The Good, the Bad, and the Risky for Developers](https://dev.to/mainulspace/chatgpt-the-good-the-bad-and-the-risky-for-developers-5ag2)
 <!-- BLOG-POST-LIST:END -->
 
