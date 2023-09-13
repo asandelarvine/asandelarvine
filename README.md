@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Silver Screen Code: What&#39;s Your Job&#39;s Movie Genre?](https://dev.to/codenewbieteam/silver-screen-code-whats-your-jobs-movie-genre-49l7)
-- [How Do You Create Inclusive Workplaces?](https://dev.to/devteam/how-do-you-create-inclusive-workplaces-d5m)
-- [An In-Depth Manual for Backing Up Data from Your NAS Device](https://dev.to/jhighsmith0033/an-in-depth-manual-for-backing-up-data-from-your-nas-device-1kc5)
-- [Mastering React Query: Navigating the Waters of Data Fetching and Error Handling](https://dev.to/xanyl/mastering-react-query-navigating-the-waters-of-data-fetching-and-error-handling-4d2l)
+- [Implementing hassle-free audits in the SQL database](https://dev.to/metis/implementing-hassle-free-audits-in-the-sql-database-5971)
+- [10 Open Source Alternatives To Proprietary Software](https://dev.to/rigdev/10-open-source-alternatives-to-proprietary-software-34lb)
+- [jest.SpyOn @pnp/sp select&lpar;&rpar; and filter&lpar;&rpar;](https://dev.to/kkazala/spyon-pnpsp-select-and-filter-3ap4)
+- [A complete guide on Behavioral Design Pattern and Chain of Responsibility Pattern in Java](https://dev.to/ifourtechnolab/a-complete-guide-on-behavioral-design-pattern-and-chain-of-responsibility-pattern-in-java-1ejj)
 <!-- BLOG-POST-LIST:END -->
 
