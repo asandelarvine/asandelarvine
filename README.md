@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Programmers&#39; Day 🎉🎉](https://dev.to/vanessatelles/happy-programmers-day-466a)
-- [⚡👨🏾‍💻Understanding Developer personas for a more inclusive community👨‍👩‍👦](https://dev.to/dumebii/understanding-developer-personas-for-a-more-inclusive-community-26cn)
-- [Setup Vite+ ReactJs with Tailwind CSS](https://dev.to/arindam_1729/setup-vite-reactjs-with-tailwind-css-4dj2)
-- [🚀 Elevate Your React Router Skills: The Ultimate Nuggets 🌐](https://dev.to/judeebekes67/elevate-your-react-router-skills-the-ultimate-nuggets-3icp)
+- [Tech Events are NOT as cool as you think &lpar;from an organizer perspective&rpar;](https://dev.to/k8adev/tech-events-are-not-as-cool-as-you-think-from-an-organizer-perspective-2b70)
+- [TinyMCE Rich Text Editor: Multi-Root vs Inline Editing](https://dev.to/tinymce/tinymce-rich-text-editor-multi-root-vs-inline-editing-7hh)
+- [&quot;Mastering Leadership&quot;: CodeNewbie Podcast S25E5](https://dev.to/codenewbieteam/mastering-leadership-codenewbie-podcast-s25e5-pha)
+- [Guia de Components - para quem tem pressa!](https://dev.to/aninhapardini/guia-de-components-para-quem-tem-pressa-47n3)
 <!-- BLOG-POST-LIST:END -->
 
