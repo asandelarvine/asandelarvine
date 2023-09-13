@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Stack UI to build your personal portfolio](https://dev.to/krybone/how-to-use-stack-ui-to-build-your-personal-portfolio-2pme)
+- [Book Club: Grokking Algorithms. 6: Dynamic programming and k-nearest neighbours](https://dev.to/ruthmoog/book-club-grokking-algorithms-6-dynamic-programming-and-k-nearest-neighbours-81f)
+- [💥 Building a Next.js 13 Todo app with Prisma and passkey authentication by Hanko 🤯](https://dev.to/hanko/building-a-nextjs-13-todo-app-with-prisma-and-passkey-authentication-by-hanko-4o8a)
 - [Why we launched earlier than what felt comfortable](https://dev.to/rigdev/why-we-launched-earlier-than-what-felt-comfortable-5bhm)
-- [Job Schedulers for Node: Bull or Agenda?](https://dev.to/appsignal/job-schedulers-for-node-bull-or-agenda-39n3)
-- [Top FAQs of ICO Software Development](https://dev.to/adelelara/top-faqs-of-ico-software-development-3606)
-- [How to Optimize SQL Performance with esProc SPL](https://dev.to/grayhat/how-to-optimize-sql-performance-with-esproc-spl-15m7)
 <!-- BLOG-POST-LIST:END -->
 
