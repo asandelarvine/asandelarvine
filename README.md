@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Frustrations With the Context API in React](https://dev.to/mohammadfaisal/my-frustrations-with-the-context-api-in-react-379m)
+- [Queueing in multi-tenant SaaS systems. How to ensure its fairness](https://dev.to/accesto/queueing-in-multi-tenant-saas-systems-how-to-ensure-its-fairness-509l)
 - [Implementing hassle-free audits in the SQL database](https://dev.to/metis/implementing-hassle-free-audits-in-the-sql-database-5971)
 - [10 Open Source Alternatives To Proprietary Software](https://dev.to/rigdev/10-open-source-alternatives-to-proprietary-software-34lb)
-- [jest.SpyOn @pnp/sp select&lpar;&rpar; and filter&lpar;&rpar;](https://dev.to/kkazala/spyon-pnpsp-select-and-filter-3ap4)
-- [A complete guide on Behavioral Design Pattern and Chain of Responsibility Pattern in Java](https://dev.to/ifourtechnolab/a-complete-guide-on-behavioral-design-pattern-and-chain-of-responsibility-pattern-in-java-1ejj)
 <!-- BLOG-POST-LIST:END -->
 
