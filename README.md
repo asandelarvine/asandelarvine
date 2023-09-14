@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 10 tools I install on every new Mac I get](https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59)
+- [C# Arrays](https://dev.to/zafarurakov/c-arrays-4acj)
+- [I built WebComponents-based framework, I am HTML Developer](https://dev.to/oknoorap/i-built-webcomponents-based-framework-i-am-html-developer-2jjb)
 - [Happy Programmers&#39; Day!](https://dev.to/devu/happy-programmers-day-53cc)
-- [Favorite Dev Tool?](https://dev.to/devteam/favorite-dev-tool-1p0j)
-- [What Are the Qualities That Define You?](https://dev.to/codenewbieteam/what-are-the-qualities-that-define-you-4jpm)
-- [Brilliant Ways for a Crypto Business to Ace Fundraising](https://dev.to/jessietomaz/brilliant-ways-for-a-crypto-business-to-ace-fundraising-22ad)
 <!-- BLOG-POST-LIST:END -->
 
