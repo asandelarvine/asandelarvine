@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Analytics 101 - How to Improve your LLM app](https://dev.to/clemra/llm-analytics-101-how-to-improve-your-llm-app-1ph5)
+- [How I Got Feedback After Every Tech Interview](https://dev.to/abbeyperini/how-i-got-feedback-after-every-tech-interview-2ig4)
 - [Debating the Right Programming Language? Focus Here Instead](https://dev.to/mainulspace/debating-the-right-programming-language-focus-here-instead-2mka)
 - [Developing personal Jarvis using AI](https://dev.to/shreyvijayvargiya/developing-personal-jarvis-using-ai-3n8)
-- [How Rust memory management work to beginners.](https://dev.to/canhassi/how-rust-memory-management-work-to-beginners-622)
-- [The Mentor Dilemma: Finding Your Way in IT 🚀](https://dev.to/0ro/the-mentor-dilemma-finding-your-way-in-it-4hi6)
 <!-- BLOG-POST-LIST:END -->
 
