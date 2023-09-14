@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to MVP: How to Build a Successful Minimum Viable Product for Startups](https://dev.to/onix-systems/from-idea-to-mvp-how-to-build-a-successful-minimum-viable-product-for-startups-1eem)
-- [Pixel-Perfect Development with React Plugin from FIGMA](https://dev.to/chocoscoding/pixel-perfect-development-with-react-plugin-from-figma-2eg)
-- [Unlocking the Power of Open Source Contribution for Beginner Developers](https://dev.to/ronakmunjapara/unlocking-the-power-of-open-source-contribution-for-beginner-developers-3je4)
-- [Media Queries and Responsive Design](https://dev.to/rashidshamloo/media-queries-and-responsive-design-4efa)
+- [Why you should not use Product Hunt as a developer anymore?](https://dev.to/sididev/why-you-should-not-use-product-hunt-as-a-developer-anymore-3jim)
+- [Pagination - Mongo DB, Express](https://dev.to/scorcism/pagination-mongo-db-express-4pho)
+- [Mastering Common and Advanced Ruby Design Patterns: A Comprehensive Guide with Code Examples](https://dev.to/daviducolo/mastering-common-and-advanced-ruby-design-patterns-a-comprehensive-guide-with-code-examples-17l0)
+- [Creating an Appwrite Website UI with Flutter Web](https://dev.to/raman04byte/creating-an-appwrite-website-ui-with-flutter-web-4pje)
 <!-- BLOG-POST-LIST:END -->
 
