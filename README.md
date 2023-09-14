@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s #LearnLive: Deconstruct an Enterprise-Grade Serverless Architecture running on Azure](https://dev.to/azure/lets-learnlive-deconstruct-an-enterprise-grade-serverless-architecture-running-on-azure-52n8)
+- [ROScribe](https://dev.to/robocoach/roscribe-1h2k)
 - [🔥TOP🔥 WordPress Themes You Should KNOW...](https://dev.to/noobizdev/top-wordpress-themes-you-should-know-4bme)
 - [Generate New Project Code Using &quot;create-blank-app&quot; command and ChatGPT](https://dev.to/ngduc/generate-new-project-code-using-create-blank-app-command-and-chatgpt-1a2m)
-- [Some aspects of Merkle Tree](https://dev.to/sergeyshandar/some-aspects-of-merkle-tree-19jo)
-- [Everything I Learnt From Making a Service Worker Build Plugin](https://dev.to/hedgehog125/everything-i-learnt-from-making-a-service-worker-build-plugin-3n64)
 <!-- BLOG-POST-LIST:END -->
 
