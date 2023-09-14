@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we made our Go microservice 24x faster](https://dev.to/opensauced/how-we-made-our-go-microservice-24x-faster-5h3l)
-- [Pest-Driven Development: Learning, Iterating and Project Planning](https://dev.to/sifrious/pest-driven-development-learning-iterating-and-project-planning-50e0)
-- [Why you should not use Product Hunt as a developer anymore?](https://dev.to/sididev/why-you-should-not-use-product-hunt-as-a-developer-anymore-3jim)
-- [Pagination - Mongo DB, Express](https://dev.to/scorcism/pagination-mongo-db-express-4pho)
+- [The Mentor Dilemma: Finding Your Way in IT 🚀](https://dev.to/0ro/the-mentor-dilemma-finding-your-way-in-it-4hi6)
+- [#DEVDiscuss: JavaScript Runtimes](https://dev.to/devteam/devdiscuss-javascript-runtimes-2e4d)
+- [Recommitting to this blog](https://dev.to/jasonmishi/recommitting-to-this-blog-kja)
+- [9 Tips for Designing a Multi-Language Website](https://dev.to/noobizdev/9-tips-for-designing-a-multi-language-website-3lmc)
 <!-- BLOG-POST-LIST:END -->
 
