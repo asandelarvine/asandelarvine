@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How is it to build something in public?](https://dev.to/azasypkin/how-is-it-to-build-something-in-public-3m3j)
+- [What&#39;s new in Novu 0.19?](https://dev.to/novu/whats-new-in-novu-019-1pcc)
 - [Testμ 2023: Highlights From Day 2](https://dev.to/lambdatest/testm-2023-highlights-from-day-2-513p)
 - [Музыкальный discord бот Kai&#39;Sa](https://dev.to/edexade/muzykalnyi-discord-bot-kaisa-1p24)
-- [Create an entry approval workflow with Statamic Revisions](https://dev.to/visuellverstehen/create-an-entry-approval-workflow-with-statamic-revisions-4gnc)
-- [Solving &quot;Diameter of Binary Tree&quot; Leet code Question](https://dev.to/leetcode/solving-diameter-of-binary-tree-leet-code-question-264l)
 <!-- BLOG-POST-LIST:END -->
 
