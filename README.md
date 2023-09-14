@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get started with MongoDB as a Student](https://dev.to/1grace/how-to-get-started-with-mongodb-as-a-student-55j8)
 - [Fiz um push sem checar as alterações do repositório, e agora?](https://dev.to/nikolai1312/fiz-um-push-sem-checar-as-alteracoes-do-repositorio-e-agora-f7k)
 - [Let&#39;s #LearnLive: Deconstruct an Enterprise-Grade Serverless Architecture running on Azure](https://dev.to/azure/lets-learnlive-deconstruct-an-enterprise-grade-serverless-architecture-running-on-azure-52n8)
 - [ROScribe](https://dev.to/robocoach/roscribe-1h2k)
-- [🔥TOP🔥 WordPress Themes You Should KNOW...](https://dev.to/noobizdev/top-wordpress-themes-you-should-know-4bme)
 <!-- BLOG-POST-LIST:END -->
 
