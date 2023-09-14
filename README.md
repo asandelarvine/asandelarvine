@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How is it to build something in public?](https://dev.to/azasypkin/how-is-it-to-build-something-in-public-3m3j)
-- [What&#39;s new in Novu 0.19?](https://dev.to/novu/whats-new-in-novu-019-1pcc)
-- [Testμ 2023: Highlights From Day 2](https://dev.to/lambdatest/testm-2023-highlights-from-day-2-513p)
-- [Музыкальный discord бот Kai&#39;Sa](https://dev.to/edexade/muzykalnyi-discord-bot-kaisa-1p24)
+- [Don’t compare and compete with others, instead collaborate](https://dev.to/gregorojstersek/dont-compare-and-compete-with-others-instead-collaborate-b8j)
+- [Microservices: Unleashing the Power of Modular Software Architecture](https://dev.to/documatic/microservices-unleashing-the-power-of-modular-software-architecture-23h6)
+- [How to Run a Competitor&#39;s Backlink Analysis: A Comprehensive Guide](https://dev.to/blog-post/how-to-run-a-competitors-backlink-analysis-a-comprehensive-guide-1a4i)
+- [How to Create a Successful eCommerce App in 2023 ?](https://dev.to/richarddukusa/how-to-create-a-successful-ecommerce-app-in-2023--3e4p)
 <!-- BLOG-POST-LIST:END -->
 
