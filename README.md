@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Testμ 2023: Highlights From Day 2](https://dev.to/lambdatest/testm-2023-highlights-from-day-2-513p)
+- [Музыкальный discord бот Kai&#39;Sa](https://dev.to/edexade/muzykalnyi-discord-bot-kaisa-1p24)
+- [Create an entry approval workflow with Statamic Revisions](https://dev.to/visuellverstehen/create-an-entry-approval-workflow-with-statamic-revisions-4gnc)
 - [Solving &quot;Diameter of Binary Tree&quot; Leet code Question](https://dev.to/leetcode/solving-diameter-of-binary-tree-leet-code-question-264l)
-- [Best Tips and Practices for .NET Performance Optimization and Scalability](https://dev.to/ifourtechnolab/best-tips-and-practices-for-net-performance-optimization-and-scalability-41gh)
-- [&quot;I need to test something on a Mac real quick&quot;, as solved by AWS EC2](https://dev.to/klardotsh/i-need-to-test-something-on-a-mac-real-quick-as-solved-by-aws-ec2-3og9)
-- [The 10 tools I install on every new Mac I get](https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59)
 <!-- BLOG-POST-LIST:END -->
 
