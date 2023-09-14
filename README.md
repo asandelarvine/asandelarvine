@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We updated our &quot;Year Club&quot; Badges!](https://dev.to/devteam/we-updated-our-year-club-badges-1lhi)
+- [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
 - [Discussion of the Week - v2](https://dev.to/devteam/discussion-of-the-week-v2-517c)
 - [Any sober devs on here?: CodeNewbie Podcast](https://dev.to/codenewbieteam/any-sober-devs-on-here-codenewbie-podcast-182g)
-- [💥PWA TOP Benefits and Features⚡️](https://dev.to/noobizdev/pwa-top-benefits-and-features-20nj)
-- [The timing is ripe to instill trust in the open Internet — and why this must get done](https://dev.to/fastly/the-timing-is-ripe-to-instill-trust-in-the-open-internet-and-why-this-must-get-done-22c9)
 <!-- BLOG-POST-LIST:END -->
 
