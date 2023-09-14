@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle-Linux 8&#39;de Chronyd ile NTP İstemcisi Yapılandırma](https://dev.to/aciklab/oracle-linux-8de-chronyd-ile-ntp-istemcisi-yapilandirma-1p6f)
-- [How to get started with MongoDB as a Student](https://dev.to/1grace/how-to-get-started-with-mongodb-as-a-student-55j8)
-- [Fiz um push sem checar as alterações do repositório, e agora?](https://dev.to/nikolai1312/fiz-um-push-sem-checar-as-alteracoes-do-repositorio-e-agora-f7k)
-- [Let&#39;s #LearnLive: Deconstruct an Enterprise-Grade Serverless Architecture running on Azure](https://dev.to/azure/lets-learnlive-deconstruct-an-enterprise-grade-serverless-architecture-running-on-azure-52n8)
+- [Happy Programmers&#39; Day!](https://dev.to/devu/happy-programmers-day-53cc)
+- [Favorite Dev Tool?](https://dev.to/devteam/favorite-dev-tool-1p0j)
+- [What Are the Qualities That Define You?](https://dev.to/codenewbieteam/what-are-the-qualities-that-define-you-4jpm)
+- [Brilliant Ways for a Crypto Business to Ace Fundraising](https://dev.to/jessietomaz/brilliant-ways-for-a-crypto-business-to-ace-fundraising-22ad)
 <!-- BLOG-POST-LIST:END -->
 
