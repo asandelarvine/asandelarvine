@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debating the Right Programming Language? Focus Here Instead](https://dev.to/mainulspace/debating-the-right-programming-language-focus-here-instead-2mka)
+- [Developing personal Jarvis using AI](https://dev.to/shreyvijayvargiya/developing-personal-jarvis-using-ai-3n8)
+- [How Rust memory management work to beginners.](https://dev.to/canhassi/how-rust-memory-management-work-to-beginners-622)
 - [The Mentor Dilemma: Finding Your Way in IT 🚀](https://dev.to/0ro/the-mentor-dilemma-finding-your-way-in-it-4hi6)
-- [#DEVDiscuss: JavaScript Runtimes](https://dev.to/devteam/devdiscuss-javascript-runtimes-2e4d)
-- [Recommitting to this blog](https://dev.to/jasonmishi/recommitting-to-this-blog-kja)
-- [9 Tips for Designing a Multi-Language Website](https://dev.to/noobizdev/9-tips-for-designing-a-multi-language-website-3lmc)
 <!-- BLOG-POST-LIST:END -->
 
