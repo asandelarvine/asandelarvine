@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating DevHunt: How We Put Weekly Emails on Autopilot](https://dev.to/forcequit/automating-devhunt-how-we-put-weekly-emails-on-autopilot-3m8l)
-- [LLM Analytics 101 - How to Improve your LLM app](https://dev.to/clemra/llm-analytics-101-how-to-improve-your-llm-app-1ph5)
-- [How I Got Feedback After Every Tech Interview](https://dev.to/abbeyperini/how-i-got-feedback-after-every-tech-interview-2ig4)
-- [Debating the Right Programming Language? Focus Here Instead](https://dev.to/mainulspace/debating-the-right-programming-language-focus-here-instead-2mka)
+- [Discussion of the Week - v2](https://dev.to/devteam/discussion-of-the-week-v2-517c)
+- [Any sober devs on here?: CodeNewbie Podcast](https://dev.to/codenewbieteam/any-sober-devs-on-here-codenewbie-podcast-182g)
+- [💥PWA TOP Benefits and Features⚡️](https://dev.to/noobizdev/pwa-top-benefits-and-features-20nj)
+- [The timing is ripe to instill trust in the open Internet — and why this must get done](https://dev.to/fastly/the-timing-is-ripe-to-instill-trust-in-the-open-internet-and-why-this-must-get-done-22c9)
 <!-- BLOG-POST-LIST:END -->
 
