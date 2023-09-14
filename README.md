@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving &quot;Diameter of Binary Tree&quot; Leet code Question](https://dev.to/leetcode/solving-diameter-of-binary-tree-leet-code-question-264l)
+- [Best Tips and Practices for .NET Performance Optimization and Scalability](https://dev.to/ifourtechnolab/best-tips-and-practices-for-net-performance-optimization-and-scalability-41gh)
+- [&quot;I need to test something on a Mac real quick&quot;, as solved by AWS EC2](https://dev.to/klardotsh/i-need-to-test-something-on-a-mac-real-quick-as-solved-by-aws-ec2-3og9)
 - [The 10 tools I install on every new Mac I get](https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59)
-- [C# Arrays](https://dev.to/zafarurakov/c-arrays-4acj)
-- [I built WebComponents-based framework, I am HTML Developer](https://dev.to/oknoorap/i-built-webcomponents-based-framework-i-am-html-developer-2jjb)
-- [Happy Programmers&#39; Day!](https://dev.to/devu/happy-programmers-day-53cc)
 <!-- BLOG-POST-LIST:END -->
 
