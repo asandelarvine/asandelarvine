@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How we made our Go microservice 24x faster](https://dev.to/opensauced/how-we-made-our-go-microservice-24x-faster-5h3l)
+- [Pest-Driven Development: Learning, Iterating and Project Planning](https://dev.to/sifrious/pest-driven-development-learning-iterating-and-project-planning-50e0)
 - [Why you should not use Product Hunt as a developer anymore?](https://dev.to/sididev/why-you-should-not-use-product-hunt-as-a-developer-anymore-3jim)
 - [Pagination - Mongo DB, Express](https://dev.to/scorcism/pagination-mongo-db-express-4pho)
-- [Mastering Common and Advanced Ruby Design Patterns: A Comprehensive Guide with Code Examples](https://dev.to/daviducolo/mastering-common-and-advanced-ruby-design-patterns-a-comprehensive-guide-with-code-examples-17l0)
-- [Creating an Appwrite Website UI with Flutter Web](https://dev.to/raman04byte/creating-an-appwrite-website-ui-with-flutter-web-4pje)
 <!-- BLOG-POST-LIST:END -->
 
