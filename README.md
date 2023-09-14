@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Review Comments: Building a Friendlier Code Review Process with Code Reactions](https://dev.to/adadot/beyond-review-comments-building-a-friendlier-code-review-process-with-code-reactions-4job)
-- [Don’t compare and compete with others, instead collaborate](https://dev.to/gregorojstersek/dont-compare-and-compete-with-others-instead-collaborate-b8j)
-- [Microservices: Unleashing the Power of Modular Software Architecture](https://dev.to/documatic/microservices-unleashing-the-power-of-modular-software-architecture-23h6)
-- [How to Run a Competitor&#39;s Backlink Analysis: A Comprehensive Guide](https://dev.to/blog-post/how-to-run-a-competitors-backlink-analysis-a-comprehensive-guide-1a4i)
+- [From Idea to MVP: How to Build a Successful Minimum Viable Product for Startups](https://dev.to/onix-systems/from-idea-to-mvp-how-to-build-a-successful-minimum-viable-product-for-startups-1eem)
+- [Pixel-Perfect Development with React Plugin from FIGMA](https://dev.to/chocoscoding/pixel-perfect-development-with-react-plugin-from-figma-2eg)
+- [Unlocking the Power of Open Source Contribution for Beginner Developers](https://dev.to/ronakmunjapara/unlocking-the-power-of-open-source-contribution-for-beginner-developers-3je4)
+- [Media Queries and Responsive Design](https://dev.to/rashidshamloo/media-queries-and-responsive-design-4efa)
 <!-- BLOG-POST-LIST:END -->
 
