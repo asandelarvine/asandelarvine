@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web-AR: Shaping the Future of Marketing in 2023](https://dev.to/shwetkhatri2001/web-ar-shaping-the-future-of-marketing-in-2023-5hf3)
+- [Godot 3 or Godot 4: Which Version Should You Choose?](https://dev.to/godot/godot-3-or-godot-4-which-version-should-you-choose-2eb4)
+- [Exploring Symbols in JavaScript](https://dev.to/mainulspace/exploring-symbols-in-javascript-300g)
 - [My Journey as Project Admin in GSSoC’23](https://dev.to/shwetkhatri2001/my-journey-as-project-admin-in-gssoc23-5hk9)
-- [9 Benefits of Using Engineering Management Platforms](https://dev.to/hatica/9-benefits-of-using-engineering-management-platforms-1o7l)
-- [Creating Own Chat GPT](https://dev.to/brnikita/creating-own-chat-gpt-cgo)
-- [My Journey in XROS Fellowship Summer’23](https://dev.to/shwetkhatri2001/my-journey-in-xros-fellowship-summer23-59da)
 <!-- BLOG-POST-LIST:END -->
 
