@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Latest Technologies That Are Transforming Web App Development](https://dev.to/piyalidebroy/top-10-latest-technologies-that-are-transforming-web-app-development-4i65)
+- [Mintable ERC20 Token Development](https://dev.to/adelelara/mintable-erc20-token-development-4kck)
 - [Share Your Work Attire Secrets](https://dev.to/codenewbieteam/share-your-work-attire-secrets-4hh9)
 - [Toughest Learning Moment?](https://dev.to/devteam/toughest-learning-moment-1la2)
-- [The Secret Sauce of Success: Soft Skills Every data Scientist needs](https://dev.to/imadadrees/the-secret-sauce-of-success-soft-skills-every-data-scientist-needs-3bl4)
-- [Best API For Android App Development](https://dev.to/newsdataio/best-api-for-android-app-development-5nm)
 <!-- BLOG-POST-LIST:END -->
 
