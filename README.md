@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We updated our &quot;Year Club&quot; Badges!](https://dev.to/devteam/we-updated-our-year-club-badges-1lhi)
+- [Breaking Terraform files into composable layers](https://dev.to/he4rt/breaking-terraform-files-into-composable-layers-1mj8)
+- [AWS Lambda and Slack integration](https://dev.to/aws-builders/aws-lambda-and-slack-integration-2d3g)
+- [We Updated Our &quot;Year Club&quot; Badges!](https://dev.to/devteam/we-updated-our-year-club-badges-1lhi)
 - [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
-- [Discussion of the Week - v2](https://dev.to/devteam/discussion-of-the-week-v2-517c)
-- [Any sober devs on here?: CodeNewbie Podcast](https://dev.to/codenewbieteam/any-sober-devs-on-here-codenewbie-podcast-182g)
 <!-- BLOG-POST-LIST:END -->
 
