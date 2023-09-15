@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React: Fine-grained reactivity should be the norm](https://dev.to/gabrielprrd/react-fine-grained-reactivity-should-be-the-norm-45pi)
+- [Taking Control of your EC2 instances: From Instance Lifecycle to Termination Protection](https://dev.to/brandondamue/taking-control-of-your-ec2-instances-from-instance-lifecycle-to-termination-protection-59bp)
+- [I hold back on job applications, compensating with tech dev blogging and ongoing side projects – this ain&#39;t effective innit?](https://dev.to/ranggakd/i-hold-back-on-job-applications-compensating-with-tech-dev-blogging-and-ongoing-side-projects-this-aint-effective-innit-4f1j)
 - [Exploring the Horizon: Future Trends and Developments in Apache Age](https://dev.to/mohanadtoaima/exploring-the-horizon-future-trends-and-developments-in-apache-age-57e3)
-- [The 9 Best APIs for File Sharing in 2023](https://dev.to/itsrorymurphy/the-9-best-apis-for-file-sharing-in-2023-27f7)
-- [I built Product Hunt using NextJS. Step by step guide.](https://dev.to/johnrushx/i-built-product-hunt-using-nextjs-step-by-step-guide-1652)
-- [Top 10 common Dockerfile linting issues](https://dev.to/kylegalbraith/top-10-common-dockerfile-linting-issues-29mh)
 <!-- BLOG-POST-LIST:END -->
 
