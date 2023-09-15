@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My 100 Days of Code Journey &lpar;2021&rpar;](https://dev.to/aswin2001barath/my-100-days-of-code-journey-2021-3cam)
-- [I made ERD and documents genertor of Prisma ORM](https://dev.to/samchon/i-made-erd-and-documents-genertor-of-prisma-orm-4mgl)
-- [8 Best JavaScript One-Liners](https://dev.to/shivamblog/8-best-javascript-one-liners-303o)
-- [A Deep Dive into Flutter ListView](https://dev.to/mrcflorian/a-deep-dive-into-flutter-listview-2fmn)
+- [Share Your Work Attire Secrets](https://dev.to/codenewbieteam/share-your-work-attire-secrets-4hh9)
+- [Toughest Learning Moment?](https://dev.to/devteam/toughest-learning-moment-1la2)
+- [The Secret Sauce of Success: Soft Skills Every data Scientist needs](https://dev.to/imadadrees/the-secret-sauce-of-success-soft-skills-every-data-scientist-needs-3bl4)
+- [Best API For Android App Development](https://dev.to/newsdataio/best-api-for-android-app-development-5nm)
 <!-- BLOG-POST-LIST:END -->
 
