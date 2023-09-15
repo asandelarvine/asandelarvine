@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting an Exceptional White Paper for Your Blockchain Project](https://dev.to/ngariwilson30/crafting-an-exceptional-white-paper-for-your-blockchain-project-f3n)
+- [DevHunt: The Launchpad Changing the Developer Game!](https://dev.to/vitalikmay/devhunt-the-launchpad-changing-the-developer-game-2kc3)
+- [Data binding: Directives 🫰](https://dev.to/dvalin99/data-binding-directives-5gn2)
 - [Top 10 Latest Technologies That Are Transforming Web App Development](https://dev.to/piyalidebroy/top-10-latest-technologies-that-are-transforming-web-app-development-4i65)
-- [Mintable ERC20 Token Development](https://dev.to/adelelara/mintable-erc20-token-development-4kck)
-- [Share Your Work Attire Secrets](https://dev.to/codenewbieteam/share-your-work-attire-secrets-4hh9)
-- [Toughest Learning Moment?](https://dev.to/devteam/toughest-learning-moment-1la2)
 <!-- BLOG-POST-LIST:END -->
 
