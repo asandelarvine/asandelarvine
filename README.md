@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conceitos OpenTelemetry](https://dev.to/ezziomoreira/conceitos-opentelemetry-9k0)
-- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-557h)
-- [👩‍💻 Everything you need to know about Hacktoberfest 2023 &lpar;and what&#39;s happening with the free tee shirts &rpar;? ➡️](https://dev.to/quine/everything-you-need-to-know-about-2023-hacktoberfest-and-whats-happening-with-the-free-tee-shirts--993)
-- [C# Intrepid Voyage: 10 Strategies to Master the Language](https://dev.to/bytehide/c-intrepid-voyage-10-strategies-to-master-the-language-13c6)
+- [Exploring the Horizon: Future Trends and Developments in Apache Age](https://dev.to/mohanadtoaima/exploring-the-horizon-future-trends-and-developments-in-apache-age-57e3)
+- [The 9 Best APIs for File Sharing in 2023](https://dev.to/itsrorymurphy/the-9-best-apis-for-file-sharing-in-2023-27f7)
+- [I built Product Hunt using NextJS. Step by step guide.](https://dev.to/johnrushx/i-built-product-hunt-using-nextjs-step-by-step-guide-1652)
+- [Top 10 common Dockerfile linting issues](https://dev.to/kylegalbraith/top-10-common-dockerfile-linting-issues-29mh)
 <!-- BLOG-POST-LIST:END -->
 
