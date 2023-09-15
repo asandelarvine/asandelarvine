@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O que a Fórmula 1 e todo software tem em comum?](https://dev.to/brunonovais/o-que-a-formula-1-e-todo-software-tem-em-comum-320m)
 - [Breaking Terraform files into composable layers](https://dev.to/he4rt/breaking-terraform-files-into-composable-layers-1mj8)
-- [AWS Lambda and Slack integration](https://dev.to/aws-builders/aws-lambda-and-slack-integration-2d3g)
+- [Streamlining Communication: Unleashing the Power of Slack API with Lambda Functions](https://dev.to/aws-builders/aws-lambda-and-slack-integration-2d3g)
 - [We Updated Our &quot;Year Club&quot; Badges!](https://dev.to/devteam/we-updated-our-year-club-badges-1lhi)
-- [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
 <!-- BLOG-POST-LIST:END -->
 
