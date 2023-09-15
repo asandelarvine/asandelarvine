@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Changelog: Tools for Organizations](https://dev.to/devteam/changelog-tools-for-organizations-mbp)
 - [Demystifying Nested Data: A Guide to Accessing and Processing Objects, Arrays, and JSON in JavaScript](https://dev.to/iamcymentho/demystifying-nested-data-a-guide-to-accessing-and-processing-objects-arrays-and-json-in-javascript-34im)
 - [Mastering Event Binding for Dynamically Created Elements in JavaScript](https://dev.to/iamcymentho/mastering-event-binding-for-dynamically-created-elements-in-javascript-16l3)
 - [Create up-to-date screenshots of your application](https://dev.to/marcin_codes/create-up-to-date-screenshots-of-your-application-41el)
-- [The Role of Soft Skills in a Coding Bootcamp and Your Tech Career](https://dev.to/vijaykhatri96/the-role-of-soft-skills-in-a-coding-bootcamp-and-your-tech-career-3gnb)
 <!-- BLOG-POST-LIST:END -->
 
