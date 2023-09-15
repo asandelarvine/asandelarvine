@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey as Project Admin in GSSoC’23](https://dev.to/shwetkhatri2001/my-journey-as-project-admin-in-gssoc23-5hk9)
 - [9 Benefits of Using Engineering Management Platforms](https://dev.to/hatica/9-benefits-of-using-engineering-management-platforms-1o7l)
 - [Creating Own Chat GPT](https://dev.to/brnikita/creating-own-chat-gpt-cgo)
-- [Changelog: Tools for Organizations](https://dev.to/devteam/changelog-tools-for-organizations-mbp)
-- [Demystifying Nested Data: A Guide to Accessing and Processing Objects, Arrays, and JSON in JavaScript](https://dev.to/iamcymentho/demystifying-nested-data-a-guide-to-accessing-and-processing-objects-arrays-and-json-in-javascript-34im)
+- [My Journey in XROS Fellowship Summer’23](https://dev.to/shwetkhatri2001/my-journey-in-xros-fellowship-summer23-59da)
 <!-- BLOG-POST-LIST:END -->
 
