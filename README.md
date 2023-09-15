@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conceitos OpenTelemetry](https://dev.to/ezziomoreira/conceitos-opentelemetry-9k0)
 - [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-557h)
 - [👩‍💻 Everything you need to know about Hacktoberfest 2023 &lpar;and what&#39;s happening with the free tee shirts &rpar;? ➡️](https://dev.to/quine/everything-you-need-to-know-about-2023-hacktoberfest-and-whats-happening-with-the-free-tee-shirts--993)
 - [C# Intrepid Voyage: 10 Strategies to Master the Language](https://dev.to/bytehide/c-intrepid-voyage-10-strategies-to-master-the-language-13c6)
-- [Vagrant For Begginers: Creating Your First Virtual Environment](https://dev.to/breakingpitt/vagrant-for-begginers-creating-your-first-virtual-environment-22ok)
 <!-- BLOG-POST-LIST:END -->
 
