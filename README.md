@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React: Fine-grained reactivity should be the norm](https://dev.to/gabrielprrd/react-fine-grained-reactivity-should-be-the-norm-45pi)
-- [Taking Control of your EC2 instances: From Instance Lifecycle to Termination Protection](https://dev.to/brandondamue/taking-control-of-your-ec2-instances-from-instance-lifecycle-to-termination-protection-59bp)
-- [I hold back on job applications, compensating with tech dev blogging and ongoing side projects – this ain&#39;t effective innit?](https://dev.to/ranggakd/i-hold-back-on-job-applications-compensating-with-tech-dev-blogging-and-ongoing-side-projects-this-aint-effective-innit-4f1j)
-- [Exploring the Horizon: Future Trends and Developments in Apache Age](https://dev.to/mohanadtoaima/exploring-the-horizon-future-trends-and-developments-in-apache-age-57e3)
+- [The Role of Soft Skills in a Coding Bootcamp and Your Tech Career](https://dev.to/vijaykhatri96/the-role-of-soft-skills-in-a-coding-bootcamp-and-your-tech-career-3gnb)
+- [Whataboutism](https://dev.to/colabottles/whataboutism-3mj2)
+- [VPN vs. Zero Trust Network: Which is More Secure for Remote Access?](https://dev.to/anurag_vishwakarma/vpn-vs-zero-trust-network-which-is-more-secure-for-remote-access-4ne2)
+- [React Component library with Storybook + Anima](https://dev.to/canopassoftware/react-component-library-with-storybook-anima-46ga)
 <!-- BLOG-POST-LIST:END -->
 
