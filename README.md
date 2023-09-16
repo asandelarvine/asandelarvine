@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to manage state in a React app using Redux.](https://dev.to/efkumah/how-to-manage-state-in-a-react-app-using-redux-5pc)
+- [Code review - a unique way of debugging](https://dev.to/namatuzio/code-review-a-unique-way-of-debugging-13kp)
+- [Navigating Success: The Art of Following Instructions in the Tech Industry](https://dev.to/coderosion/navigating-success-the-art-of-following-instructions-in-the-tech-industry-5ef7)
 - [What is the difference between Delphi Community Edition and Delphi Professional Edition?](https://dev.to/s15458304scott/what-is-the-difference-between-delphi-community-edition-and-delphi-professional-edition-130m)
-- [Top Container Orchestration Platforms: Kubernetes vs. Docker Swarm](https://dev.to/firstfingerin/top-container-orchestration-platforms-kubernetes-vs-docker-swarm-56pd)
-- [Building a Game with Phaser](https://dev.to/ceceliacreates/building-a-mobile-game-with-phaser-and-ionic-vue-building-a-phaser-game-2f74)
-- [Process of working in parallel branches in GitHub](https://dev.to/avelynhc/process-of-working-in-parallel-branches-in-github-14em)
 <!-- BLOG-POST-LIST:END -->
 
