@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
+- [How To Change WordPress Dashboard Footer Copyright Text?](https://dev.to/jemeeroy/change-wordpress-dashboard-footer-copyright-text-h5m)
 - [How to manage state in a React app using Redux.](https://dev.to/efkumah/how-to-manage-state-in-a-react-app-using-redux-5pc)
 - [Code review - a unique way of debugging](https://dev.to/namatuzio/code-review-a-unique-way-of-debugging-13kp)
-- [Navigating Success: The Art of Following Instructions in the Tech Industry](https://dev.to/coderosion/navigating-success-the-art-of-following-instructions-in-the-tech-industry-5ef7)
-- [What is the difference between Delphi Community Edition and Delphi Professional Edition?](https://dev.to/s15458304scott/what-is-the-difference-between-delphi-community-edition-and-delphi-professional-edition-130m)
 <!-- BLOG-POST-LIST:END -->
 
