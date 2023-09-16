@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Would You Plan Your Office Redesign?](https://dev.to/codenewbieteam/how-would-you-plan-your-office-redesign-2inc)
+- [It&#39;s Not Me, Is It?](https://dev.to/devteam/its-not-me-is-it-598o)
+- [🚀Mastering Performance Optimisation in React Applications🚀](https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421)
 - [Solving &quot;All Nodes Distance K in Binary Tree&quot; Leet code Question](https://dev.to/leetcode/solving-all-nodes-distance-k-in-binary-tree-leet-code-question-30if)
-- [Migrating from MongoDB to PostgrеSQL: An Advancеd Guidе](https://dev.to/hassanrehan/migrating-from-mongodb-to-postgriesql-an-advancied-guidie-3akj)
-- [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
-- [How To Change WordPress Dashboard Footer Copyright Text?](https://dev.to/jemeeroy/change-wordpress-dashboard-footer-copyright-text-h5m)
 <!-- BLOG-POST-LIST:END -->
 
