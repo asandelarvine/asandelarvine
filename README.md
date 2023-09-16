@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with SMS Notifications using Africas Talking and GitHub Actions Part 2](https://dev.to/ken_mwaura1/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-part-2-1nj3)
+- [You don&#39;t need sockets for chatting with GPT](https://dev.to/neeldev96/you-dont-need-sockets-for-chatting-with-gpt-26og)
 - [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)
 - [Announcing Secutils.dev 1.0.0-alpha.2 release](https://dev.to/azasypkin/announcing-secutilsdev-100-alpha2-release-31c1)
-- [Istalgan Onlayn kurslarni 100% lik chegirma asosida olishni istaysizmi?](https://dev.to/web_developer/istalgan-onlayn-kurslarni-100-lik-chegirma-asosida-olishni-istaysizmi-dnl)
-- [BEST 5 Python Projects for Beginners](https://dev.to/noobizdev/best-5-python-projects-for-beginners-208h)
 <!-- BLOG-POST-LIST:END -->
 
