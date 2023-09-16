@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuring an IPsec VPN connection with OpenIKED](https://dev.to/donaldsebleung/configuring-an-ipsec-vpn-connection-with-openiked-4o9)
 - [Build a Full Stack ReminderApp with React, NextJs, Typescript, ServerAction, Zod, Hook-form, Prisma, and Tailwind](https://dev.to/kliton/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-and-tailwind-27nb)
 - [Throw away the &quot;Script&quot; from &quot;Type&quot;&quot;Script&quot;.](https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5)
 - [Getting Started with SMS Notifications using Africas Talking and GitHub Actions Part 2](https://dev.to/ken_mwaura1/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-part-2-1nj3)
-- [You don&#39;t need sockets for chatting with GPT](https://dev.to/neeldev96/you-dont-need-sockets-for-chatting-with-gpt-26og)
 <!-- BLOG-POST-LIST:END -->
 
