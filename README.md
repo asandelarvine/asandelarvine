@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Parallax Effects Source Code](https://dev.to/noobizdev/top-5-parallax-effects-source-code-5j5)
 - [How to create a website using the Cample.js framework?](https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a)
 - [Send Form Data With Ajax](https://dev.to/yubaeloualidi/send-form-data-with-ajax-1d78)
 - [Building shopping cart with html,tailwindcss and Javascript](https://dev.to/ndickers/building-shopping-cart-with-htmltailwindcss-and-javascript-1i5p)
-- [Mastering Javascript: Building An Interactive Shopping List App.](https://dev.to/paulineoraro/mastering-javascript-building-an-interactive-shopping-list-app-3j4f)
 <!-- BLOG-POST-LIST:END -->
 
