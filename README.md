@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Would You Plan Your Office Redesign?](https://dev.to/codenewbieteam/how-would-you-plan-your-office-redesign-2inc)
+- [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
+- [🚀Learn Next.js 13 Within 2 Hours🚀](https://dev.to/myogeshchavan97/learn-nextjs-13-within-2-hours-3i7n)
 - [It&#39;s Not Me, Is It?](https://dev.to/devteam/its-not-me-is-it-598o)
-- [🚀Mastering Performance Optimisation in React Applications🚀](https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421)
-- [Solving &quot;All Nodes Distance K in Binary Tree&quot; Leet code Question](https://dev.to/leetcode/solving-all-nodes-distance-k-in-binary-tree-leet-code-question-30if)
+- [How Would You Plan Your Office Redesign?](https://dev.to/codenewbieteam/how-would-you-plan-your-office-redesign-2inc)
 <!-- BLOG-POST-LIST:END -->
 
