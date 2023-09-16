@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Secutils.dev 1.0.0-alpha.2 release](https://dev.to/azasypkin/announcing-secutilsdev-100-alpha2-release-31c1)
+- [Istalgan Onlayn kurslarni 100% lik chegirma asosida olishni istaysizmi?](https://dev.to/web_developer/istalgan-onlayn-kurslarni-100-lik-chegirma-asosida-olishni-istaysizmi-dnl)
 - [BEST 5 Python Projects for Beginners](https://dev.to/noobizdev/best-5-python-projects-for-beginners-208h)
 - [Fetch API in JavaScript](https://dev.to/mursalfk/fetch-api-in-javascript-2nea)
-- [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
-- [🚀Learn Next.js 13 Within 2 Hours🚀](https://dev.to/myogeshchavan97/learn-nextjs-13-within-2-hours-3i7n)
 <!-- BLOG-POST-LIST:END -->
 
