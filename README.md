@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from MongoDB to PostgrеSQL: An Advancеd Guidе](https://dev.to/hassanrehan/migrating-from-mongodb-to-postgriesql-an-advancied-guidie-3akj)
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 - [How To Change WordPress Dashboard Footer Copyright Text?](https://dev.to/jemeeroy/change-wordpress-dashboard-footer-copyright-text-h5m)
-- [How to manage state in a React app using Redux.](https://dev.to/efkumah/how-to-manage-state-in-a-react-app-using-redux-5pc)
-- [Code review - a unique way of debugging](https://dev.to/namatuzio/code-review-a-unique-way-of-debugging-13kp)
+- [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
 <!-- BLOG-POST-LIST:END -->
 
