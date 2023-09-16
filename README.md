@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Full Stack ReminderApp with React, NextJs, Typescript, ServerAction, Zod, Hook-form, Prisma, and Tailwind](https://dev.to/kliton/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-and-tailwind-27nb)
+- [Throw away the &quot;Script&quot; from &quot;Type&quot;&quot;Script&quot;.](https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5)
 - [Getting Started with SMS Notifications using Africas Talking and GitHub Actions Part 2](https://dev.to/ken_mwaura1/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-part-2-1nj3)
 - [You don&#39;t need sockets for chatting with GPT](https://dev.to/neeldev96/you-dont-need-sockets-for-chatting-with-gpt-26og)
-- [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)
-- [Announcing Secutils.dev 1.0.0-alpha.2 release](https://dev.to/azasypkin/announcing-secutilsdev-100-alpha2-release-31c1)
 <!-- BLOG-POST-LIST:END -->
 
