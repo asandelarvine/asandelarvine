@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a website using the Cample.js framework?](https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a)
 - [Send Form Data With Ajax](https://dev.to/yubaeloualidi/send-form-data-with-ajax-1d78)
 - [Elevate Your Flutter App with Advanced Animations: A Deep Dive into AnimationController and Tween 🚀](https://dev.to/raman04byte/elevate-your-flutter-app-with-advanced-animations-a-deep-dive-into-animationcontroller-and-tween-367n)
 - [How to integrate sentry to Nextjs application](https://dev.to/max24816/how-to-integrate-sentry-to-nextjs-application-52a0)
-- [Configuring an IPsec VPN connection with OpenIKED](https://dev.to/donaldsebleung/configuring-an-ipsec-vpn-connection-with-openiked-4o9)
 <!-- BLOG-POST-LIST:END -->
 
