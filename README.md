@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Send Form Data With Ajax](https://dev.to/yubaeloualidi/send-form-data-with-ajax-1d78)
 - [Elevate Your Flutter App with Advanced Animations: A Deep Dive into AnimationController and Tween 🚀](https://dev.to/raman04byte/elevate-your-flutter-app-with-advanced-animations-a-deep-dive-into-animationcontroller-and-tween-367n)
 - [How to integrate sentry to Nextjs application](https://dev.to/max24816/how-to-integrate-sentry-to-nextjs-application-52a0)
 - [Configuring an IPsec VPN connection with OpenIKED](https://dev.to/donaldsebleung/configuring-an-ipsec-vpn-connection-with-openiked-4o9)
-- [Build a Full Stack ReminderApp with React, NextJs, Typescript, ServerAction, Zod, Hook-form, Prisma, and Tailwind](https://dev.to/kliton/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-and-tailwind-27nb)
 <!-- BLOG-POST-LIST:END -->
 
