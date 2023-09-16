@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving &quot;All Nodes Distance K in Binary Tree&quot; Leet code Question](https://dev.to/leetcode/solving-all-nodes-distance-k-in-binary-tree-leet-code-question-30if)
 - [Migrating from MongoDB to PostgrеSQL: An Advancеd Guidе](https://dev.to/hassanrehan/migrating-from-mongodb-to-postgriesql-an-advancied-guidie-3akj)
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 - [How To Change WordPress Dashboard Footer Copyright Text?](https://dev.to/jemeeroy/change-wordpress-dashboard-footer-copyright-text-h5m)
-- [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
 <!-- BLOG-POST-LIST:END -->
 
