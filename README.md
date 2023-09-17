@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Alternatives Open Source](https://dev.to/arsalanmeee/wordpress-alternatives-open-source-42l7)
+- [iTerm2: your Mac&#39;s terminal, Upgraded!](https://dev.to/athanstan/iterm2-your-macs-terminal-upgraded-3fk2)
 - [How Do You Find Balance? 🍵🌊](https://dev.to/devteam/how-do-you-find-balance-3m65)
-- [The Ultimate Guide to Building an Efficient CI/CD Pipeline](https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
-- [The hassle of Frontend frameworks](https://dev.to/hasanelsherbiny/the-hassle-of-frontend-frameworks-2459)
-- [🌀 Unraveling React Fiber: A Dive into React&#39;s Reconciliation Algorithm🌀](https://dev.to/ajayprakash/unraveling-react-fiber-a-dive-into-reacts-reconciliation-algorithm-4g29)
+- [Phi-1.5: Microsoft&#39;s 1.3B Parameters AI Model Beats Llama 2](https://dev.to/bitohq/phi-15-microsofts-13b-parameters-ai-model-beats-llama-2-2c87)
 <!-- BLOG-POST-LIST:END -->
 
