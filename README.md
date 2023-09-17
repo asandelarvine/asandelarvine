@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Tips for Becoming a Proficient Programmer](https://dev.to/sharmakushal/top-5-tips-for-becoming-a-proficient-programmer-25e2)
-- [Difference between n++ and ++n?](https://dev.to/kopal__/difference-between-n-and-n-202c)
-- [What Crazy Idea Actually Worked?](https://dev.to/codenewbieteam/what-crazy-idea-actually-worked-cpa)
-- [&quot;Cracking the Binary Tree Code: Serialize and Deserialize like a Pro!&quot; #Leetcode Question](https://dev.to/leetcode/cracking-the-binary-tree-code-serialize-and-deserialize-like-a-pro-leetcode-question-1191)
+- [DiffAE: How to use AI to make your friends look bald, happy, young, blond, old - you name it!](https://dev.to/mikeyoung44/diffae-how-to-use-ai-to-make-your-friends-look-bald-happy-young-blond-old-you-name-it-2pb7)
+- [Mastering the `array.reduce&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/mastering-the-arrayreduce-method-in-javascript-2n69)
+- [jacoco-badge-generator 2.11.0 Released](https://dev.to/cicirello/jacoco-badge-generator-2110-released-14g9)
+- [💰The ultimate guide for a paid UGC 💸 💸](https://dev.to/github20k/the-ultimate-guide-for-a-paid-ugc-38cg)
 <!-- BLOG-POST-LIST:END -->
 
