@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DiffAE: How to use AI to make your friends look bald, happy, young, blond, old - you name it!](https://dev.to/mikeyoung44/diffae-how-to-use-ai-to-make-your-friends-look-bald-happy-young-blond-old-you-name-it-2pb7)
-- [Mastering the `array.reduce&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/mastering-the-arrayreduce-method-in-javascript-2n69)
-- [jacoco-badge-generator 2.11.0 Released](https://dev.to/cicirello/jacoco-badge-generator-2110-released-14g9)
-- [💰The ultimate guide for a paid UGC 💸 💸](https://dev.to/github20k/the-ultimate-guide-for-a-paid-ugc-38cg)
+- [Demystifying Apache AGE and PostgreSQL: Your Guide to Understanding Database Systems](https://dev.to/danielwambo/demystifying-apache-age-and-postgresql-your-guide-to-understanding-database-systems-16em)
+- [What Is The Dark Web ?](https://dev.to/ia3thedevil/what-is-the-dark-web--4lhi)
+- [Building Accessible Web Experiences: A Checklist for Frontend Developers](https://dev.to/snoblomma/building-accessible-web-experiences-a-checklist-for-frontend-developers-4b98)
+- [WordPress Shortcodes: How to Create Reusable Components in WordPress](https://dev.to/stephengade/wordpress-shortcodes-how-to-create-reusable-components-in-wordpress-4nc8)
 <!-- BLOG-POST-LIST:END -->
 
