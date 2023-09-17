@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Crazy Idea Actually Worked?](https://dev.to/codenewbieteam/what-crazy-idea-actually-worked-cpa)
+- [&quot;Cracking the Binary Tree Code: Serialize and Deserialize like a Pro!&quot; #Leetcode Question](https://dev.to/leetcode/cracking-the-binary-tree-code-serialize-and-deserialize-like-a-pro-leetcode-question-1191)
+- [Yet Another Newsletter LOL: New Beginnings](https://dev.to/nickytonline/yet-another-newsletter-lol-new-beginnings-o1d)
 - [How I Passed both AWS Professional Exams in 6 Months &amp; Tips on how you can TOO!!!](https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em)
-- [How to Design a SurrealDB schema and create a basic client for TypeScript](https://dev.to/sebastian_wessel/how-to-design-a-surrealdb-schema-and-create-a-basic-client-for-typescript-o6o)
-- [Rust &amp; MySQL: executing MySQL stored procedures which return multiple result sets using crate sqlx.](https://dev.to/behainguyen/rust-mysql-executing-mysql-stored-procedures-which-return-multiple-result-sets-using-crate-sqlx-c1l)
-- [15 Most Common Frontend Interview Questions](https://dev.to/m_midas/15-most-common-frontend-interview-questions-4njp)
 <!-- BLOG-POST-LIST:END -->
 
