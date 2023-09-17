@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s in my bag for Experts Live Europe](https://dev.to/this-is-learning/whats-in-my-bag-for-experts-live-europe-9dn)
+- [VueJS part 3: Vue directives and conditional rendering](https://dev.to/hi_iam_chris/vuejs-part-3-vue-directives-and-conditional-rendering-4pam)
+- [How to Speed up Windows Date Sorting ⚡](https://dev.to/ricovz/how-to-speed-up-windows-date-sorting-5d1f)
 - [My Interview Experience at Google - Customer Engineer, Gen AI](https://dev.to/jhaji12/my-interview-experience-at-google-customer-engineer-gen-ai-996)
-- [Demystifying Apache AGE and PostgreSQL: Your Guide to Understanding Database Systems](https://dev.to/danielwambo/demystifying-apache-age-and-postgresql-your-guide-to-understanding-database-systems-16em)
-- [Converting Dates into Human-Readable Time Ago Format in JavaScript](https://dev.to/sh20raj/converting-dates-into-human-readable-time-ago-format-in-javascript-595g)
-- [What Is The Dark Web ?](https://dev.to/ia3thedevil/what-is-the-dark-web--4lhi)
 <!-- BLOG-POST-LIST:END -->
 
