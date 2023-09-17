@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Alternatives Open Source](https://dev.to/arsalanmeee/wordpress-alternatives-open-source-42l7)
-- [iTerm2: your Mac&#39;s terminal, Upgraded!](https://dev.to/athanstan/iterm2-your-macs-terminal-upgraded-3fk2)
-- [How Do You Find Balance? 🍵🌊](https://dev.to/devteam/how-do-you-find-balance-3m65)
-- [Phi-1.5: Microsoft&#39;s 1.3B Parameters AI Model Beats Llama 2](https://dev.to/bitohq/phi-15-microsofts-13b-parameters-ai-model-beats-llama-2-2c87)
+- [If You&#39;re Using Helm, Why Not Give It a Pretty UI As Well?](https://dev.to/rinkiyakedad/if-youre-using-helm-why-not-give-it-a-pretty-ui-as-well-4eo7)
+- [Establishing a Personal Goerli Node: A Step-by-Step Guide](https://dev.to/xavierop877/establishing-a-personal-goerli-node-a-step-by-step-guide-17kk)
+- [15 Developer Tools to Improve Your Workflow](https://dev.to/ronakmunjapara/15-developer-tools-to-improve-your-workflow-243)
+- [UI, API, DB: pushing &quot;three-tier architecture&quot; too far? 🤔](https://dev.to/dagnelies/ui-api-db-pushing-three-tier-architecture-too-far-47oa)
 <!-- BLOG-POST-LIST:END -->
 
