@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node&lpar;20.6.0&rpar; now supports built-in .env files](https://dev.to/nejos97/node2060-now-supports-built-in-env-files-48ah)
-- [Hoisting: Does the Order Matter for Functions in Dart &lpar;and Python&rpar;?](https://dev.to/ranggakd/hoisting-does-the-order-matter-for-functions-in-dart-and-python-35gk)
-- [Power Up Your API with Cloud Magic: Lambda Functions in Node.js](https://dev.to/thelordofth3cloud/power-up-your-api-with-cloud-magic-lambda-functions-in-nodejs-107b)
-- [JSX in React: A Comprehensive Guide](https://dev.to/easewithtuts/jsx-a-comprehensive-guide-32nh)
+- [Why Every Coder Should Consider the Linux &amp; Neovim Leap](https://dev.to/stungnet/why-every-coder-should-consider-the-linux-neovim-leap-no3)
+- [7 Data Visualization Techniques That Will Boost your Data Science Journey](https://dev.to/izammohammed/7-data-visualization-techniques-that-will-boost-your-data-science-journey-2g6h)
+- [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
+- [100 Machine Learning Projects](https://dev.to/izammohammed/100-machine-learning-projects-3ene)
 <!-- BLOG-POST-LIST:END -->
 
