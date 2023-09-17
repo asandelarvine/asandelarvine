@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Find Balance? 🍵🌊](https://dev.to/devteam/how-do-you-find-balance-3m65)
+- [The Ultimate Guide to Building an Efficient CI/CD Pipeline](https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+- [The hassle of Frontend frameworks](https://dev.to/hasanelsherbiny/the-hassle-of-frontend-frameworks-2459)
 - [🌀 Unraveling React Fiber: A Dive into React&#39;s Reconciliation Algorithm🌀](https://dev.to/ajayprakash/unraveling-react-fiber-a-dive-into-reacts-reconciliation-algorithm-4g29)
-- [Why Every Coder Should Consider the Linux &amp; Neovim Leap](https://dev.to/stungnet/why-every-coder-should-consider-the-linux-neovim-leap-no3)
-- [7 Data Visualization Techniques That Will Boost your Data Science Journey](https://dev.to/izammohammed/7-data-visualization-techniques-that-will-boost-your-data-science-journey-2g6h)
-- [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
 <!-- BLOG-POST-LIST:END -->
 
