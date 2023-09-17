@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Tips for Becoming a Proficient Programmer](https://dev.to/sharmakushal/top-5-tips-for-becoming-a-proficient-programmer-25e2)
+- [Difference between n++ and ++n?](https://dev.to/kopal__/difference-between-n-and-n-202c)
 - [What Crazy Idea Actually Worked?](https://dev.to/codenewbieteam/what-crazy-idea-actually-worked-cpa)
 - [&quot;Cracking the Binary Tree Code: Serialize and Deserialize like a Pro!&quot; #Leetcode Question](https://dev.to/leetcode/cracking-the-binary-tree-code-serialize-and-deserialize-like-a-pro-leetcode-question-1191)
-- [Yet Another Newsletter LOL: New Beginnings](https://dev.to/nickytonline/yet-another-newsletter-lol-new-beginnings-o1d)
 <!-- BLOG-POST-LIST:END -->
 
