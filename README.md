@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Power Up Your API with Cloud Magic: Lambda Functions in Node.js](https://dev.to/thelordofth3cloud/power-up-your-api-with-cloud-magic-lambda-functions-in-nodejs-107b)
+- [JSX in React: A Comprehensive Guide](https://dev.to/easewithtuts/jsx-a-comprehensive-guide-32nh)
 - [Optimizing Database Performance with Indexing in Apache AGE and PostgreSQL](https://dev.to/danielwambo/optimizing-database-performance-with-indexing-in-apache-age-and-postgresql-327p)
 - [The first step of Bun](https://dev.to/obrkn/the-first-step-of-bun-56ib)
-- [Top 5 Parallax Effects Source Code](https://dev.to/noobizdev/top-5-parallax-effects-source-code-5j5)
-- [Troubleshooting parallel routing in Next.js](https://dev.to/zmzlois/troubleshooting-parallel-routing-in-nextjs-pdo)
 <!-- BLOG-POST-LIST:END -->
 
