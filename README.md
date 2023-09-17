@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Save some bytes when using multiple themes in angular material components](https://dev.to/shhdharmen/save-some-bytes-when-using-multiple-themes-in-angular-material-components-agh)
 - [If You&#39;re Using Helm, Why Not Give It a Pretty UI As Well?](https://dev.to/rinkiyakedad/if-youre-using-helm-why-not-give-it-a-pretty-ui-as-well-4eo7)
-- [Establishing a Personal Goerli Node: A Step-by-Step Guide](https://dev.to/xavierop877/establishing-a-personal-goerli-node-a-step-by-step-guide-17kk)
 - [15 Developer Tools to Improve Your Workflow](https://dev.to/ronakmunjapara/15-developer-tools-to-improve-your-workflow-243)
 - [UI, API, DB: pushing &quot;three-tier architecture&quot; too far? 🤔](https://dev.to/dagnelies/ui-api-db-pushing-three-tier-architecture-too-far-47oa)
 <!-- BLOG-POST-LIST:END -->
