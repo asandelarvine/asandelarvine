@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Interview Experience at Google - Customer Engineer, Gen AI](https://dev.to/jhaji12/my-interview-experience-at-google-customer-engineer-gen-ai-996)
 - [Demystifying Apache AGE and PostgreSQL: Your Guide to Understanding Database Systems](https://dev.to/danielwambo/demystifying-apache-age-and-postgresql-your-guide-to-understanding-database-systems-16em)
+- [Converting Dates into Human-Readable Time Ago Format in JavaScript](https://dev.to/sh20raj/converting-dates-into-human-readable-time-ago-format-in-javascript-595g)
 - [What Is The Dark Web ?](https://dev.to/ia3thedevil/what-is-the-dark-web--4lhi)
-- [Building Accessible Web Experiences: A Checklist for Frontend Developers](https://dev.to/snoblomma/building-accessible-web-experiences-a-checklist-for-frontend-developers-4b98)
-- [WordPress Shortcodes: How to Create Reusable Components in WordPress](https://dev.to/stephengade/wordpress-shortcodes-how-to-create-reusable-components-in-wordpress-4nc8)
 <!-- BLOG-POST-LIST:END -->
 
