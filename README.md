@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Database Performance with Indexing in Apache AGE and PostgreSQL](https://dev.to/danielwambo/optimizing-database-performance-with-indexing-in-apache-age-and-postgresql-327p)
+- [The first step of Bun](https://dev.to/obrkn/the-first-step-of-bun-56ib)
 - [Top 5 Parallax Effects Source Code](https://dev.to/noobizdev/top-5-parallax-effects-source-code-5j5)
 - [Troubleshooting parallel routing in Next.js](https://dev.to/zmzlois/troubleshooting-parallel-routing-in-nextjs-pdo)
-- [Writing Clean Code: Best Practices and Principles](https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh)
-- [How to create a website using the Cample.js framework?](https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a)
 <!-- BLOG-POST-LIST:END -->
 
