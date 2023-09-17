@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Tips for Becoming a Proficient Programmer](https://dev.to/sharmakushal/top-5-tips-for-becoming-a-proficient-programmer-25e2)
 - [What Crazy Idea Actually Worked?](https://dev.to/codenewbieteam/what-crazy-idea-actually-worked-cpa)
 - [&quot;Cracking the Binary Tree Code: Serialize and Deserialize like a Pro!&quot; #Leetcode Question](https://dev.to/leetcode/cracking-the-binary-tree-code-serialize-and-deserialize-like-a-pro-leetcode-question-1191)
 - [Yet Another Newsletter LOL: New Beginnings](https://dev.to/nickytonline/yet-another-newsletter-lol-new-beginnings-o1d)
-- [How I Passed both AWS Professional Exams in 6 Months &amp; Tips on how you can TOO!!!](https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em)
 <!-- BLOG-POST-LIST:END -->
 
