@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Save some bytes when using multiple themes in angular material components](https://dev.to/shhdharmen/save-some-bytes-when-using-multiple-themes-in-angular-material-components-agh)
-- [If You&#39;re Using Helm, Why Not Give It a Pretty UI As Well?](https://dev.to/rinkiyakedad/if-youre-using-helm-why-not-give-it-a-pretty-ui-as-well-4eo7)
-- [15 Developer Tools to Improve Your Workflow](https://dev.to/ronakmunjapara/15-developer-tools-to-improve-your-workflow-243)
-- [UI, API, DB: pushing &quot;three-tier architecture&quot; too far? 🤔](https://dev.to/dagnelies/ui-api-db-pushing-three-tier-architecture-too-far-47oa)
+- [15 Most Common Frontend Interview Questions](https://dev.to/m_midas/15-most-common-frontend-interview-questions-4njp)
+- [Reverse Engineering for the Good: From the Source Code to the System Blueprint &lpar;Part II&rpar;](https://dev.to/remit/reverse-engineering-for-the-good-from-the-source-code-to-the-system-blueprint-part-ii-3357)
+- [4 steps to send token using Web3.js](https://dev.to/shreyvijayvargiya/4-steps-to-send-token-using-web3js-5h6e)
+- [Best HTML Parsing Libraries in JavaScript](https://dev.to/serpdogapi/best-html-parsing-libraries-in-javascript-6bn)
 <!-- BLOG-POST-LIST:END -->
 
