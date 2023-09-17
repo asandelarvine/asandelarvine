@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Passed both AWS Professional Exams in 6 Months &amp; Tips on how you can TOO!!!](https://dev.to/aws-builders/how-i-passed-both-aws-professional-exams-in-6-months-tips-on-how-you-can-too-32em)
+- [How to Design a SurrealDB schema and create a basic client for TypeScript](https://dev.to/sebastian_wessel/how-to-design-a-surrealdb-schema-and-create-a-basic-client-for-typescript-o6o)
+- [Rust &amp; MySQL: executing MySQL stored procedures which return multiple result sets using crate sqlx.](https://dev.to/behainguyen/rust-mysql-executing-mysql-stored-procedures-which-return-multiple-result-sets-using-crate-sqlx-c1l)
 - [15 Most Common Frontend Interview Questions](https://dev.to/m_midas/15-most-common-frontend-interview-questions-4njp)
-- [Reverse Engineering for the Good: From the Source Code to the System Blueprint &lpar;Part II&rpar;](https://dev.to/remit/reverse-engineering-for-the-good-from-the-source-code-to-the-system-blueprint-part-ii-3357)
-- [4 steps to send token using Web3.js](https://dev.to/shreyvijayvargiya/4-steps-to-send-token-using-web3js-5h6e)
-- [Best HTML Parsing Libraries in JavaScript](https://dev.to/serpdogapi/best-html-parsing-libraries-in-javascript-6bn)
 <!-- BLOG-POST-LIST:END -->
 
