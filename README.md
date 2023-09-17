@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node&lpar;20.6.0&rpar; now supports built-in .env files](https://dev.to/nejos97/node2060-now-supports-built-in-env-files-48ah)
+- [Hoisting: Does the Order Matter for Functions in Dart &lpar;and Python&rpar;?](https://dev.to/ranggakd/hoisting-does-the-order-matter-for-functions-in-dart-and-python-35gk)
 - [Power Up Your API with Cloud Magic: Lambda Functions in Node.js](https://dev.to/thelordofth3cloud/power-up-your-api-with-cloud-magic-lambda-functions-in-nodejs-107b)
 - [JSX in React: A Comprehensive Guide](https://dev.to/easewithtuts/jsx-a-comprehensive-guide-32nh)
-- [Optimizing Database Performance with Indexing in Apache AGE and PostgreSQL](https://dev.to/danielwambo/optimizing-database-performance-with-indexing-in-apache-age-and-postgresql-327p)
-- [The first step of Bun](https://dev.to/obrkn/the-first-step-of-bun-56ib)
 <!-- BLOG-POST-LIST:END -->
 
