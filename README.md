@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ The Podcasts Top Developers In The World Are Listening To Right Now](https://dev.to/proxify_dev/the-podcasts-the-best-developers-in-the-world-are-listening-to-right-now-2gb8)
-- [How To Build a High-Concurrency Ticket Booking System With Prisma](https://dev.to/zenstack/how-to-build-a-high-concurrency-ticket-booking-system-with-prisma-184n)
-- [How to Secure Your ASP.NET Core MVC Application](https://dev.to/me_janki/how-to-secure-your-aspnet-core-mvc-application-3ji8)
-- [react-tweet: Vercel’s New React Library for Embedding Tweets](https://dev.to/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
+- [Unlimited File Hosting + Direct Download Using HuggingFace Spaces](https://dev.to/sh20raj/unlimited-file-hosting-direct-download-using-huggingface-spaces-7mf)
+- [🚀 how to Create a Modal Component with Vanilla JavaScript](https://dev.to/idurar/how-to-create-a-modal-component-with-just-javascript-without-react-or-vue-5767)
+- [Deploying Container Images With PaaS](https://dev.to/thenjdevopsguy/deploying-container-images-with-paas-20ag)
+- [AWS open source newsletter, #174](https://dev.to/aws/aws-open-source-newsletter-174-3304)
 <!-- BLOG-POST-LIST:END -->
 
