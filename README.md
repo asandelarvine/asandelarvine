@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fibonacci Sequence in C#: From Zero to Hero](https://dev.to/bytehide/fibonacci-sequence-in-c-from-zero-to-hero-2g67)
+- [Modify colors of Angular Material Button](https://dev.to/ngmaterialdev/modify-colors-of-angular-material-button-3m4f)
 - [Weekly Roundup &lpar;Sep 11&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-11-hot-topics-in-workplace-sharepoint-and-powerplatform-32p7)
 - [You’re in Good Company with OSS: CrabNebula and Impierce Technologies](https://dev.to/crabnebula/youre-in-good-company-with-oss-crabnebula-and-impierce-technologies-pli)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-309n)
-- [Is Coding Sans Comments Always A Mistake?](https://dev.to/codenewbieteam/is-coding-sans-comments-always-a-mistake-262c)
 <!-- BLOG-POST-LIST:END -->
 
