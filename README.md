@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build a High-Concurrency Ticket Booking System With Prisma](https://dev.to/zenstack/how-to-build-a-high-concurrency-ticket-booking-system-with-prisma-184n)
+- [react-tweet: Vercel’s New React Library for Embedding Tweets](https://dev.to/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
+- [Crafting a Language Server in Golang: A VSCode LSP for Lama2](https://dev.to/lovestaco/crafting-a-language-server-in-golang-a-vscode-lsp-for-lama2-ofp)
 - [Fibonacci Sequence in C#: From Zero to Hero](https://dev.to/bytehide/fibonacci-sequence-in-c-from-zero-to-hero-2g67)
-- [Modify colors of Angular Material Button](https://dev.to/ngmaterialdev/modify-colors-of-angular-material-button-3m4f)
-- [Weekly Roundup &lpar;Sep 11&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-11-hot-topics-in-workplace-sharepoint-and-powerplatform-32p7)
-- [You’re in Good Company with OSS: CrabNebula and Impierce Technologies](https://dev.to/crabnebula/youre-in-good-company-with-oss-crabnebula-and-impierce-technologies-pli)
 <!-- BLOG-POST-LIST:END -->
 
