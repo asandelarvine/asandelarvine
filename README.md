@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo os códigos de status HTTP: Um guia teórico para desenvolvedores](https://dev.to/fransborges/entendendo-os-codigos-de-status-http-um-guia-teorico-para-desenvolvedores-5ged)
-- [FLaNK Stack Weekly 18 September 2023](https://dev.to/tspannhw/flank-stack-weekly-18-september-2023-3j56)
-- [Shifting Frontend to the Server](https://dev.to/smarthead/shifting-frontend-to-the-server-3lf9)
-- [The Risks and Rewards of Adopting Kubernetes](https://dev.to/rigdev/the-risks-and-rewards-of-adopting-kubernetes-1k57)
+- [Console.log it](https://dev.to/0ro/consolelog-it-20lg)
+- [AI-Powered Selection of Asset Management Companies using MindsDB and LlamaIndex](https://dev.to/chandrevdw31/ai-powered-selection-of-asset-management-companies-using-mindsdb-and-llamaindex-15ch)
+- [How was Halfstack Vienna 2023?](https://dev.to/bogomil/how-was-halfstack-vienna-2023-57o7)
+- [Getting Started with Spring Boot: A Beginner’s Guide](https://dev.to/nilan/getting-started-with-spring-boot-a-beginners-guide-3e5h)
 <!-- BLOG-POST-LIST:END -->
 
