@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Action Verbs for a Technical Resume](https://dev.to/cleveroscar/action-verbs-for-a-technical-resume-hnm)
 - [Laravel routes: apiResource vs resource](https://dev.to/jonhyknid/laravel-routes-apiresource-vs-resource-ij5)
 - [What&#39;s the point of Web5?](https://dev.to/tbdevs/whats-the-point-of-web5-2kjb)
 - [Laravel 4Ways to Select specific columns](https://dev.to/jonhyknid/laravel-4ways-to-select-specific-columns-3b5m)
-- [Make Signup Systems That Thrive in The Real World](https://dev.to/drpraze/make-signup-systems-that-thrive-in-the-real-world-4ha0)
 <!-- BLOG-POST-LIST:END -->
 
