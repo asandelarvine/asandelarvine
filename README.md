@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlimited File Hosting + Direct Download Using HuggingFace Spaces](https://dev.to/sh20raj/unlimited-file-hosting-direct-download-using-huggingface-spaces-7mf)
-- [🚀 how to Create a Modal Component with Vanilla JavaScript](https://dev.to/idurar/how-to-create-a-modal-component-with-just-javascript-without-react-or-vue-5767)
-- [Deploying Container Images With PaaS](https://dev.to/thenjdevopsguy/deploying-container-images-with-paas-20ag)
-- [AWS open source newsletter, #174](https://dev.to/aws/aws-open-source-newsletter-174-3304)
+- [Integrate Orquesta with LangChain](https://dev.to/orquesta/integrate-orquesta-with-langchain-37ml)
+- [Integrate Orquesta with Cohere using Python SDK](https://dev.to/orquesta/integrate-orquesta-with-cohere-using-python-sdk-13ba)
+- [Integrate Orquesta with OpenAI using Python SDK](https://dev.to/orquesta/integrate-orquesta-with-openai-using-python-sdk-2mlk)
+- [🧞‍♂️ Generator unlocked: Create memes with ChatGPT and NextJS 🚀 💥](https://dev.to/triggerdotdev/generator-unlocked-create-memes-with-chatgpt-and-nextjs-2g3c)
 <!-- BLOG-POST-LIST:END -->
 
