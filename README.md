@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of Git](https://dev.to/gitwithsarthak/basics-of-git-2h7h)
-- [Loop audio Godot](https://dev.to/eduardojuliao/loop-audio-godot-5h42)
-- [How to Create a Discussion Forum Using PHP and MySQL?](https://dev.to/puratabla/how-to-create-a-discussion-forum-using-php-and-mysql-33dm)
-- [JSDoc in TS and JS](https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j)
+- [You’re in Good Company with OSS: CrabNebula and Impierce Technologies](https://dev.to/crabnebula/youre-in-good-company-with-oss-crabnebula-and-impierce-technologies-pli)
+- [Is Coding Sans Comments Always A Mistake?](https://dev.to/codenewbieteam/is-coding-sans-comments-always-a-mistake-262c)
+- [What&#39;s Your Ideal Coding Environment?](https://dev.to/devteam/whats-your-ideal-coding-environment-414i)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-309n)
 <!-- BLOG-POST-LIST:END -->
 
