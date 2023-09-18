@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is jQuery?](https://dev.to/dumebii/what-is-jquery-mcg)
-- [⚛️ React.js: Avoid Memory Leaks and Race Conditions in API Calls🧹](https://dev.to/shameel/reactjs-avoid-memory-leaks-and-race-conditions-in-api-calls-4k1m)
-- [📝 🚀 Creating our first documentation from scratch using Astro and Refact AI coding assistant](https://dev.to/refact/creating-our-first-documentation-from-scratch-using-astro-and-refact-ai-coding-assistant-36pg)
-- [Node.js: A Guide to Native .env Support and local development](https://dev.to/usulpro/nodejs-a-guide-to-native-env-support-and-local-development-300g)
+- [Retrieval Augmented Generation &lpar;RAG&rpar;: How To Get AI Models Learn Your Data &amp; Give You Answers](https://dev.to/swirl/retrieval-augmented-generation-rag-how-to-get-ai-models-learn-your-data-give-you-answers-1hk9)
+- [Hacktoberfest 2023: Sneak Peek at Badges &amp; What&#39;s to Come](https://dev.to/devteam/hacktoberfest-2023-sneak-peek-at-badges-whats-to-come-4h22)
+- [The Evolution of Programming Languages](https://dev.to/lordneic/the-evolution-of-programming-languages-1hb9)
+- [NUNit and C# - Tutorial to automate your API Tests from scratch](https://dev.to/m4rri4nne/nunit-and-c-tutorial-to-automate-your-api-tests-from-scratch-24nf)
 <!-- BLOG-POST-LIST:END -->
 
