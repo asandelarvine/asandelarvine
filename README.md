@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Discussion Forum Using PHP and MySQL?](https://dev.to/puratabla/how-to-create-a-discussion-forum-using-php-and-mysql-33dm)
 - [JSDoc in TS and JS](https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j)
+- [Ready System with a Modern Stack and Many Features Using Ruby 3.2, Rails 7.0 and Avo 2](https://dev.to/dailsonigo/ready-system-with-a-modern-stack-and-many-features-using-ruby-32-rails-70-and-avo-2-ni4)
 - [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
-- [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://dev.to/kanani_nirav/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-564j)
-- [CodeIgniter vs Laravel : Introduction To PHP Frameworks](https://dev.to/domfive/codeigniter-vs-laravel-introduction-to-php-frameworks-3f2o)
 <!-- BLOG-POST-LIST:END -->
 
