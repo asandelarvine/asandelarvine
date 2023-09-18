@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s in my bag for Experts Live Europe](https://dev.to/this-is-learning/whats-in-my-bag-for-experts-live-europe-9dn)
-- [VueJS part 3: Vue directives and conditional rendering](https://dev.to/hi_iam_chris/vuejs-part-3-vue-directives-and-conditional-rendering-4pam)
-- [How to Speed up Windows Date Sorting ⚡](https://dev.to/ricovz/how-to-speed-up-windows-date-sorting-5d1f)
-- [My Interview Experience at Google - Customer Engineer, Gen AI](https://dev.to/jhaji12/my-interview-experience-at-google-customer-engineer-gen-ai-996)
+- [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
+- [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://dev.to/kanani_nirav/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-564j)
+- [CodeIgniter vs Laravel : Introduction To PHP Frameworks](https://dev.to/domfive/codeigniter-vs-laravel-introduction-to-php-frameworks-3f2o)
+- [The Entire Process Of Handling URL Requests.](https://dev.to/code_lover/the-entire-process-of-handling-url-requests-1nbd)
 <!-- BLOG-POST-LIST:END -->
 
