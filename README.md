@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data migrations in regular migrations and why you &lpar;probably&rpar; should not do that](https://dev.to/katafrakt/data-migrations-in-regular-migrations-and-why-you-probably-should-not-do-that-2eem)
 - [How Progressive Web Apps &lpar;PWS&rpar; are Changing the Game](https://dev.to/codewithshahan/how-progressive-web-apps-pws-are-changing-the-game-29g9)
 - [How to write a CRUD CLI using Elixir and ScyllaDB](https://dev.to/guto/how-to-write-a-crud-cli-using-elixir-and-scylladb-4bek)
 - [function of function &amp; closure](https://dev.to/horiyorrmi72/function-of-function-closure-56m2)
-- [Retrieval Augmented Generation &lpar;RAG&rpar;: How To Get AI Models Learn Your Data &amp; Give You Answers](https://dev.to/swirl/retrieval-augmented-generation-rag-how-to-get-ai-models-learn-your-data-give-you-answers-1hk9)
 <!-- BLOG-POST-LIST:END -->
 
