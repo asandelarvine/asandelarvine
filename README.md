@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Console.log it](https://dev.to/0ro/consolelog-it-20lg)
-- [AI-Powered Selection of Asset Management Companies using MindsDB and LlamaIndex](https://dev.to/chandrevdw31/ai-powered-selection-of-asset-management-companies-using-mindsdb-and-llamaindex-15ch)
-- [How was Halfstack Vienna 2023?](https://dev.to/bogomil/how-was-halfstack-vienna-2023-57o7)
-- [Getting Started with Spring Boot: A Beginner’s Guide](https://dev.to/nilan/getting-started-with-spring-boot-a-beginners-guide-3e5h)
+- [Laravel routes: apiResource vs resource](https://dev.to/jonhyknid/laravel-routes-apiresource-vs-resource-ij5)
+- [What&#39;s the point of Web5?](https://dev.to/tbdevs/whats-the-point-of-web5-2kjb)
+- [Laravel 4Ways to Select specific columns](https://dev.to/jonhyknid/laravel-4ways-to-select-specific-columns-3b5m)
+- [Make Signup Systems That Thrive in The Real World](https://dev.to/drpraze/make-signup-systems-that-thrive-in-the-real-world-4ha0)
 <!-- BLOG-POST-LIST:END -->
 
