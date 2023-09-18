@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Git](https://dev.to/gitwithsarthak/basics-of-git-2h7h)
 - [Loop audio Godot](https://dev.to/eduardojuliao/loop-audio-godot-5h42)
 - [How to Create a Discussion Forum Using PHP and MySQL?](https://dev.to/puratabla/how-to-create-a-discussion-forum-using-php-and-mysql-33dm)
 - [JSDoc in TS and JS](https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j)
-- [Ready System with a Modern Stack and Many Features Using Ruby 3.2, Rails 7.0 and Avo 2](https://dev.to/dailsonigo/ready-system-with-a-modern-stack-and-many-features-using-ruby-32-rails-70-and-avo-2-ni4)
 <!-- BLOG-POST-LIST:END -->
 
