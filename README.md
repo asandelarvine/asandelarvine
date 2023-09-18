@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📝 🚀 Creating our first documentation from scratch using Astro and Refact AI coding assistant](https://dev.to/refact/creating-our-first-documentation-from-scratch-using-astro-and-refact-ai-coding-assistant-36pg)
+- [Node.js: A Guide to Native .env Support and local development](https://dev.to/usulpro/nodejs-a-guide-to-native-env-support-and-local-development-300g)
+- [Introducing Playwright Support for Nx](https://dev.to/nx/introducing-playwright-support-for-nx-43ln)
 - [Action Verbs for a Technical Resume](https://dev.to/cleveroscar/action-verbs-for-a-technical-resume-hnm)
-- [Laravel routes: apiResource vs resource](https://dev.to/jonhyknid/laravel-routes-apiresource-vs-resource-ij5)
-- [What&#39;s the point of Web5?](https://dev.to/tbdevs/whats-the-point-of-web5-2kjb)
-- [Laravel 4Ways to Select specific columns](https://dev.to/jonhyknid/laravel-4ways-to-select-specific-columns-3b5m)
 <!-- BLOG-POST-LIST:END -->
 
