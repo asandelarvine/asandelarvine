@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Orquesta with LangChain](https://dev.to/orquesta/integrate-orquesta-with-langchain-37ml)
-- [Integrate Orquesta with Cohere using Python SDK](https://dev.to/orquesta/integrate-orquesta-with-cohere-using-python-sdk-13ba)
-- [Integrate Orquesta with OpenAI using Python SDK](https://dev.to/orquesta/integrate-orquesta-with-openai-using-python-sdk-2mlk)
-- [🧞‍♂️ Generator unlocked: Create memes with ChatGPT and NextJS 🚀 💥](https://dev.to/triggerdotdev/generator-unlocked-create-memes-with-chatgpt-and-nextjs-2g3c)
+- [Entendendo os códigos de status HTTP: Um guia teórico para desenvolvedores](https://dev.to/fransborges/entendendo-os-codigos-de-status-http-um-guia-teorico-para-desenvolvedores-5ged)
+- [FLaNK Stack Weekly 18 September 2023](https://dev.to/tspannhw/flank-stack-weekly-18-september-2023-3j56)
+- [Shifting Frontend to the Server](https://dev.to/smarthead/shifting-frontend-to-the-server-3lf9)
+- [The Risks and Rewards of Adopting Kubernetes](https://dev.to/rigdev/the-risks-and-rewards-of-adopting-kubernetes-1k57)
 <!-- BLOG-POST-LIST:END -->
 
