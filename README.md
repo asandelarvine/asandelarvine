@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Progressive Web Apps &lpar;PWS&rpar; are Changing the Game](https://dev.to/codewithshahan/how-progressive-web-apps-pws-are-changing-the-game-29g9)
+- [How to write a CRUD CLI using Elixir and ScyllaDB](https://dev.to/guto/how-to-write-a-crud-cli-using-elixir-and-scylladb-4bek)
+- [function of function &amp; closure](https://dev.to/horiyorrmi72/function-of-function-closure-56m2)
 - [Retrieval Augmented Generation &lpar;RAG&rpar;: How To Get AI Models Learn Your Data &amp; Give You Answers](https://dev.to/swirl/retrieval-augmented-generation-rag-how-to-get-ai-models-learn-your-data-give-you-answers-1hk9)
-- [Understanding the Cloud: Service Categories](https://dev.to/cristuker/understanding-the-cloud-service-categories-23m7)
-- [Hacktoberfest 2023: Sneak Peek at Badges &amp; What&#39;s to Come](https://dev.to/devteam/hacktoberfest-2023-sneak-peek-at-badges-whats-to-come-4h22)
-- [The Evolution of Programming Languages](https://dev.to/lordneic/the-evolution-of-programming-languages-1hb9)
 <!-- BLOG-POST-LIST:END -->
 
