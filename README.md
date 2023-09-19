@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSCA: Analysis of Composer Dependencies](https://dev.to/opensca/opensca-analysis-of-composer-dependencies-1go4)
 - [How to Use Type Guards in TypeScript: A Complete Guide with Examples](https://dev.to/akuoko_konadu/how-to-use-type-guards-in-typescript-a-complete-guide-with-examples-46h2)
+- [Get All That Network Activity Under Control with Priority Hints](https://dev.to/alexmacarthur/get-all-that-network-activity-under-control-with-priority-hints-25k)
 - [Is Debugging Really More Fun Than Coding?](https://dev.to/codenewbieteam/is-debugging-really-more-fun-than-coding-2ha1)
-- [Vuex or Pinia](https://dev.to/aditianand8/vuex-or-pinia-39m)
-- [Data migrations in regular migrations and why you &lpar;probably&rpar; should not do that](https://dev.to/katafrakt/data-migrations-in-regular-migrations-and-why-you-probably-should-not-do-that-2eem)
 <!-- BLOG-POST-LIST:END -->
 
