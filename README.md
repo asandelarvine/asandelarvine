@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Dev Efficiency: Achieving Faster Builds and Lower Memory Load with Webpack](https://dev.to/woovi/web-dev-efficiency-achieving-faster-builds-and-lower-memory-load-with-webpack-4cm8)
-- [SAML SSO: The Missing Piece in Your Next.js App&#39;s Authentication Puzzle 🧩](https://dev.to/nathan_tarbert/saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f)
-- [CSS | Trigonometry Circle](https://dev.to/shubhamtiwari909/css-trigonometry-circle-3bl3)
-- [An Introduction to Flutter State Management](https://dev.to/raman04byte/an-introduction-to-flutter-state-management-2edm)
+- [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
+- [React Profiler: A Step by step guide to measuring app performance](https://dev.to/alakkadshaw/react-profiler-a-step-by-step-guide-to-measuring-app-performance-36id)
+- [Unleashing the Power of Blockchain Platform - A Must-Have for Your Crypto Business](https://dev.to/adelelara/unleashing-the-power-of-blockchain-platform-a-must-have-for-your-crypto-business-3ppb)
+- [Your privacy is optional](https://dev.to/alexhyettdev/your-privacy-is-optional-pad)
 <!-- BLOG-POST-LIST:END -->
 
