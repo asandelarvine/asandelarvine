@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Has AI Taken My Job Yet?](https://dev.to/kallmanation/has-ai-taken-my-job-yet-9o4)
+- [Trending Discussions of the Week - 9/19/23](https://dev.to/devteam/trending-discussions-of-the-week-91923-5di7)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3dg4)
 - [Build an HTTP server in Bun](https://dev.to/sadeedpv/build-an-http-server-in-bun-4k8l)
-- [🔥FULL💎 Guide to Create a Game with Babylon.js](https://dev.to/noobizdev/full-guide-to-create-a-game-with-babylonjs-4lc8)
-- [News about JDK 21 update](https://dev.to/hanniel09/news-about-jdk-21-update-297e)
-- [Novidades sobre a atualização JDK 21](https://dev.to/hanniel09/novidades-sobre-a-atualizacao-jdk-21-1h84)
 <!-- BLOG-POST-LIST:END -->
 
