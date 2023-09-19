@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing My First Pull Request](https://dev.to/pbelokon/writing-my-first-pull-request-2j50)
 - [Offer Digital Assets Using Mintbase JS](https://dev.to/starpause/offer-digital-assets-using-mintbase-js-c85)
 - [Integrating Flutter {all 6 platforms} and Python: Part 2, Live Talk](https://dev.to/maximsaplin/integrating-flutter-all-6-platforms-and-python-part-2-live-talk-542e)
-- [Has AI Taken My Job Yet?](https://dev.to/kallmanation/has-ai-taken-my-job-yet-9o4)
-- [Trending Discussions of the Week - 9/19/23](https://dev.to/devteam/trending-discussions-of-the-week-91923-5di7)
+- [Create a cluster in Amazon EKS and install kubectl](https://dev.to/aws-builders/create-a-cluster-in-amazon-eks-and-install-kubectl-4664)
 <!-- BLOG-POST-LIST:END -->
 
