@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Remix PWA v3.0: A new era](https://dev.to/shafspecs/remix-pwa-v30-a-new-era-48f)
+- [A roller coaster career path](https://dev.to/crispitipina/a-roller-coaster-career-path-3fn0)
 - [The Systemic Process of Debugging](https://dev.to/codenameone/the-systemic-process-of-debugging-53b2)
 - [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
-- [React Profiler: A Step by step guide to measuring app performance](https://dev.to/alakkadshaw/react-profiler-a-step-by-step-guide-to-measuring-app-performance-36id)
-- [Unleashing the Power of Blockchain Platform - A Must-Have for Your Crypto Business](https://dev.to/adelelara/unleashing-the-power-of-blockchain-platform-a-must-have-for-your-crypto-business-3ppb)
 <!-- BLOG-POST-LIST:END -->
 
