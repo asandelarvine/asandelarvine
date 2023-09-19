@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Maker - Update many API [Put operation]](https://dev.to/apimaker/api-maker-update-many-api-put-operation-47b0)
-- [A tiny fix with big impact and high risk](https://dev.to/azasypkin/a-tiny-fix-with-big-impact-and-high-risk-3m8l)
-- [Today&#39;s Intranet: What does it mean in the current age?](https://dev.to/jaloplo/todays-intranet-what-does-it-mean-in-the-current-age-51ef)
-- [Bamboolib : Toolkit for Smart Data Exploration and Analysis](https://dev.to/balagmadhu/bamboolib-toolkit-for-smart-data-exploration-and-analysis-2pbi)
+- [An Introduction to Flutter State Management](https://dev.to/raman04byte/an-introduction-to-flutter-state-management-2edm)
+- [PDF to JSON](https://dev.to/alester12/pdf-to-json-na9)
+- [💡 JavaScript Hack: Conditionally Add Properties within Objects](https://dev.to/shameel/javascript-hack-conditionally-add-properties-within-objects-1n32)
+- [✨How to make your first contribution to open source in the next 10 min! [Hacktoberfest + beginner edition] 🚀](https://dev.to/quine/how-to-make-your-first-contribution-to-open-source-in-the-next-10-min-hacktoberfest-beginner-edition-1jhl)
 <!-- BLOG-POST-LIST:END -->
 
