@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Novidades sobre a atualização JDK 21](https://dev.to/hanniel09/novidades-sobre-a-atualizacao-jdk-21-1h84)
+- [Talk like a Pirate day](https://dev.to/jarvisscript/talk-like-a-pirate-day-1lej)
 - [Optimizing text for ChatGPT: NLP and text pre-processing techniques](https://dev.to/victoria/optimizing-text-for-chatgpt-nlp-and-text-pre-processing-techniques-5cop)
-- [Remix PWA v3.0: A new era](https://dev.to/shafspecs/remix-pwa-v30-a-new-era-48f)
-- [A roller coaster career path](https://dev.to/crispitipina/a-roller-coaster-career-path-3fn0)
-- [The Systemic Process of Debugging](https://dev.to/codenameone/the-systemic-process-of-debugging-53b2)
+- [VeeValidate VS Vuelidate](https://dev.to/sumandev/veevalidate-vs-vuelidate-5foi)
 <!-- BLOG-POST-LIST:END -->
 
