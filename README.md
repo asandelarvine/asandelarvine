@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Offer Digital Assets Using Mintbase JS](https://dev.to/starpause/offer-digital-assets-using-mintbase-js-c85)
+- [Integrating Flutter {all 6 platforms} and Python: Part 2, Live Talk](https://dev.to/maximsaplin/integrating-flutter-all-6-platforms-and-python-part-2-live-talk-542e)
 - [Has AI Taken My Job Yet?](https://dev.to/kallmanation/has-ai-taken-my-job-yet-9o4)
 - [Trending Discussions of the Week - 9/19/23](https://dev.to/devteam/trending-discussions-of-the-week-91923-5di7)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3dg4)
-- [Build an HTTP server in Bun](https://dev.to/sadeedpv/build-an-http-server-in-bun-4k8l)
 <!-- BLOG-POST-LIST:END -->
 
