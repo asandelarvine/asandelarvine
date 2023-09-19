@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Should any developer product follow a PLG motion? with Prashant Sridharan &lpar;Tinybird&rpar;](https://dev.to/crowddotdev/should-any-developer-product-follow-a-plg-motion-with-prashant-sridharan-tinybird-56k0)
 - [Accordion Component With Only CSS [No Javascript]](https://dev.to/navdeepm20/accordion-component-with-only-css-no-javascript-195o)
 - [How does a non-keyed implementation differ from keys in javascript frameworks?](https://dev.to/camplejs/how-does-a-non-keyed-implementation-differ-from-keys-in-javascript-frameworks-407f)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-2i84)
+- [Hiring Decision Influences?](https://dev.to/devteam/hiring-decision-influences-4nej)
 <!-- BLOG-POST-LIST:END -->
 
