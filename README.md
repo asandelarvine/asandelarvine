@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing ExpressoTS 2.0](https://dev.to/expressots/introducing-expressots-3b58)
 - [OpenSCA: Analysis of Composer Dependencies](https://dev.to/opensca/opensca-analysis-of-composer-dependencies-1go4)
 - [How to Use Type Guards in TypeScript: A Complete Guide with Examples](https://dev.to/akuoko_konadu/how-to-use-type-guards-in-typescript-a-complete-guide-with-examples-46h2)
 - [Get All That Network Activity Under Control with Priority Hints](https://dev.to/alexmacarthur/get-all-that-network-activity-under-control-with-priority-hints-25k)
-- [Is Debugging Really More Fun Than Coding?](https://dev.to/codenewbieteam/is-debugging-really-more-fun-than-coding-2ha1)
 <!-- BLOG-POST-LIST:END -->
 
