@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should any developer product follow a PLG motion? with Prashant Sridharan &lpar;Tinybird&rpar;](https://dev.to/crowddotdev/should-any-developer-product-follow-a-plg-motion-with-prashant-sridharan-tinybird-56k0)
-- [Accordion Component With Only CSS [No Javascript]](https://dev.to/navdeepm20/accordion-component-with-only-css-no-javascript-195o)
-- [How does a non-keyed implementation differ from keys in javascript frameworks?](https://dev.to/camplejs/how-does-a-non-keyed-implementation-differ-from-keys-in-javascript-frameworks-407f)
-- [Hiring Decision Influences?](https://dev.to/devteam/hiring-decision-influences-4nej)
+- [7 Advanced CSS Selectors You Should Know](https://dev.to/mainulspace/7-advanced-css-selectors-you-should-know-70g)
+- [How to Build a Functional To-Do List App with JavaScript, HTML, and CSS: A Step-by-Step Guide](https://dev.to/iamcymentho/how-to-build-a-functional-to-do-list-app-with-javascript-html-and-css-a-step-by-step-guide-h9f)
+- [RxJS Library in Angular](https://dev.to/ifourtechnolab/rxjs-library-in-angular-12e7)
+- [Implementing Tailwind CSS Dark Mode Toggle with No Flicker](https://dev.to/cruip_com/implementing-tailwind-css-dark-mode-toggle-with-no-flicker-384e)
 <!-- BLOG-POST-LIST:END -->
 
