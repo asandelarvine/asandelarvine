@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an HTTP server in Bun](https://dev.to/sadeedpv/build-an-http-server-in-bun-4k8l)
+- [🔥FULL💎 Guide to Create a Game with Babylon.js](https://dev.to/noobizdev/full-guide-to-create-a-game-with-babylonjs-4lc8)
 - [News about JDK 21 update](https://dev.to/hanniel09/news-about-jdk-21-update-297e)
 - [Novidades sobre a atualização JDK 21](https://dev.to/hanniel09/novidades-sobre-a-atualizacao-jdk-21-1h84)
-- [Talk like a Pirate day](https://dev.to/jarvisscript/talk-like-a-pirate-day-1lej)
-- [Azure Graph Explorer, intro to aggregation functions](https://dev.to/omiossec/azure-graph-explorer-intro-to-aggregation-functions-5bid)
 <!-- BLOG-POST-LIST:END -->
 
