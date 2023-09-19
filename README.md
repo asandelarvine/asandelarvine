@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Dev Efficiency: Achieving Faster Builds and Lower Memory Load with Webpack](https://dev.to/woovi/web-dev-efficiency-achieving-faster-builds-and-lower-memory-load-with-webpack-4cm8)
+- [SAML SSO: The Missing Piece in Your Next.js App&#39;s Authentication Puzzle 🧩](https://dev.to/nathan_tarbert/saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f)
+- [CSS | Trigonometry Circle](https://dev.to/shubhamtiwari909/css-trigonometry-circle-3bl3)
 - [An Introduction to Flutter State Management](https://dev.to/raman04byte/an-introduction-to-flutter-state-management-2edm)
-- [PDF to JSON](https://dev.to/alester12/pdf-to-json-na9)
-- [💡 JavaScript Hack: Conditionally Add Properties within Objects](https://dev.to/shameel/javascript-hack-conditionally-add-properties-within-objects-1n32)
-- [✨How to make your first contribution to open source in the next 10 min! [Hacktoberfest + beginner edition] 🚀](https://dev.to/quine/how-to-make-your-first-contribution-to-open-source-in-the-next-10-min-hacktoberfest-beginner-edition-1jhl)
 <!-- BLOG-POST-LIST:END -->
 
