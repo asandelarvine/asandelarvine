@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Advanced CSS Selectors You Should Know](https://dev.to/mainulspace/7-advanced-css-selectors-you-should-know-70g)
-- [How to Build a Functional To-Do List App with JavaScript, HTML, and CSS: A Step-by-Step Guide](https://dev.to/iamcymentho/how-to-build-a-functional-to-do-list-app-with-javascript-html-and-css-a-step-by-step-guide-h9f)
-- [RxJS Library in Angular](https://dev.to/ifourtechnolab/rxjs-library-in-angular-12e7)
-- [Implementing Tailwind CSS Dark Mode Toggle with No Flicker](https://dev.to/cruip_com/implementing-tailwind-css-dark-mode-toggle-with-no-flicker-384e)
+- [🚀 API Maker - Update many API [Put operation]](https://dev.to/apimaker/api-maker-update-many-api-put-operation-47b0)
+- [A tiny fix with big impact and high risk](https://dev.to/azasypkin/a-tiny-fix-with-big-impact-and-high-risk-3m8l)
+- [Today&#39;s Intranet: What does it mean in the current age?](https://dev.to/jaloplo/todays-intranet-what-does-it-mean-in-the-current-age-51ef)
+- [Bamboolib : Toolkit for Smart Data Exploration and Analysis](https://dev.to/balagmadhu/bamboolib-toolkit-for-smart-data-exploration-and-analysis-2pbi)
 <!-- BLOG-POST-LIST:END -->
 
