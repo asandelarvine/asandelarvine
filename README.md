@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Systemic Process of Debugging](https://dev.to/codenameone/the-systemic-process-of-debugging-53b2)
 - [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
 - [React Profiler: A Step by step guide to measuring app performance](https://dev.to/alakkadshaw/react-profiler-a-step-by-step-guide-to-measuring-app-performance-36id)
 - [Unleashing the Power of Blockchain Platform - A Must-Have for Your Crypto Business](https://dev.to/adelelara/unleashing-the-power-of-blockchain-platform-a-must-have-for-your-crypto-business-3ppb)
-- [Your privacy is optional](https://dev.to/alexhyettdev/your-privacy-is-optional-pad)
 <!-- BLOG-POST-LIST:END -->
 
