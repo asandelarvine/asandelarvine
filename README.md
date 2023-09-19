@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Type Guards in TypeScript: A Complete Guide with Examples](https://dev.to/akuoko_konadu/how-to-use-type-guards-in-typescript-a-complete-guide-with-examples-46h2)
+- [Is Debugging Really More Fun Than Coding?](https://dev.to/codenewbieteam/is-debugging-really-more-fun-than-coding-2ha1)
+- [Vuex or Pinia](https://dev.to/aditianand8/vuex-or-pinia-39m)
 - [Data migrations in regular migrations and why you &lpar;probably&rpar; should not do that](https://dev.to/katafrakt/data-migrations-in-regular-migrations-and-why-you-probably-should-not-do-that-2eem)
-- [How Progressive Web Apps &lpar;PWS&rpar; are Changing the Game](https://dev.to/codewithshahan/how-progressive-web-apps-pws-are-changing-the-game-29g9)
-- [How to write a CRUD CLI using Elixir and ScyllaDB](https://dev.to/guto/how-to-write-a-crud-cli-using-elixir-and-scylladb-4bek)
-- [function of function &amp; closure](https://dev.to/horiyorrmi72/function-of-function-closure-56m2)
 <!-- BLOG-POST-LIST:END -->
 
