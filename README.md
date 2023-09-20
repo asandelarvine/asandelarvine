@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[EKS Hand-on Series] Introduction and setup environment](https://dev.to/coangha21/eks-hand-on-series-introduction-and-setup-environment-b9h)
-- [My Journey into Computer Graphics - Part 4: The Quaternion Menace](https://dev.to/ericbl3/my-journey-into-computer-graphics-part-4-the-quaternion-menace-5d2)
-- [AWS Savings Plans - Things to know !!](https://dev.to/aws-builders/aws-savings-plans-things-to-know--2d63)
-- [Saia do Loop - Data Annotation.](https://dev.to/fcarvalhodev/programador-de-c-e-r-data-annotation-01-2ep2)
+- [Do Tech Generalists Outshine Specialists?](https://dev.to/codenewbieteam/do-tech-generalists-outshine-specialists-4l37)
+- [Recent &#39;Panic Moment&#39;?](https://dev.to/devteam/recent-panic-moment-49n5)
+- [Right way of cloning JavaScript Objects](https://dev.to/shameel/right-way-of-cloning-javascript-objects-4gbk)
+- [Unveiling the Magic: Exploring JavaScript Symbols](https://dev.to/this-is-learning/unveiling-the-magic-exploring-javascript-symbols-15d9)
 <!-- BLOG-POST-LIST:END -->
 
