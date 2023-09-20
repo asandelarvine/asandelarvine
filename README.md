@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#34:👻 Nada como um dia péssimo para os monstros voltarem](https://dev.to/marciovsena/34-nada-como-um-dia-pessimo-para-os-monstros-voltarem-5gf0)
-- [What repos would you recommend to new contributors for Hacktoberfest?](https://dev.to/bekahhw/what-repos-would-you-recommend-to-new-contributors-for-hacktoberfest-47no)
-- [Harvesting the Power of Prometheus: Metrics Monitoring on Steroids.](https://dev.to/maksimmuravev/harvesting-the-power-of-prometheus-metrics-monitoring-on-steroids-1e8h)
-- [Angular Signals : A Comprehensive Introduction](https://dev.to/nikhil6076/angular-signals-a-comprehensive-introduction-45h2)
+- [Build a Serverless App Fast with Zipper: Write TypeScript, Offload Everything Else](https://dev.to/johnjvester/build-a-serverless-app-fast-with-zipper-write-typescript-offload-everything-else-1dn3)
+- [Optimize Embedded Development: Must-Have VSCode Extensions](https://dev.to/dariocasciato/optimize-embedded-development-must-have-vscode-extensions-5d91)
+- [Deep dive : Privacy risks of fine-tuning](https://dev.to/mithrilsecurity/deep-dive-privacy-risks-of-fine-tuning-5cj6)
+- [React sees a dip in downloads on npm 📉. What&#39;s going on?](https://dev.to/srbhr/react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode)
 <!-- BLOG-POST-LIST:END -->
 
