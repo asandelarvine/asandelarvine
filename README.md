@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 WordPress Security Threats](https://dev.to/noobizdev/top-5-wordpress-security-threats-4lh9)
+- [Object detection with ONNX, Pipeless and a YOLO model](https://dev.to/miguelaeh/object-detection-with-onnx-pipeless-and-a-yolo-model-4j1j)
+- [How are you prepping for Hacktoberfest?](https://dev.to/cbid2/how-are-you-prepping-for-hacktoberfest-26p9)
 - [WakaTime: Uma Forma de Aumentar Sua Produtividade e Gerenciar Seu Tempo](https://dev.to/nahtanpng/wakatime-uma-forma-de-aumentar-sua-produtividade-e-gerenciar-seu-tempo-568p)
-- [Falcon 180B vs. Llama 2: Who Wins the AI Battle?](https://dev.to/thenomadevel/falcon-180b-vs-llama-2-who-wins-the-ai-battle-2cj3)
-- [We need a new browser](https://dev.to/dshaw0004/we-need-a-new-browser-130j)
-- [3 State Switches are not tough - Ultimate guide to CSS Switches using CSS only](https://dev.to/navdeepm20/3-state-switches-are-not-tough-ultimate-guide-to-css-switches-using-css-only-1gja)
 <!-- BLOG-POST-LIST:END -->
 
