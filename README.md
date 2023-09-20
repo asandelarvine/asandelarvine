@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How sports made me a better developer](https://dev.to/tayyabbashir/how-sports-made-me-a-better-developer-3cno)
 - [Welcome Thread - v243](https://dev.to/devteam/welcome-thread-v243-10b)
 - [Eye Catching Greek Flowers](https://dev.to/gardenar04/eye-catching-greek-flowers-12c2)
 - [Binary Newbie Coder&#39;s Dreams](https://dev.to/jemwebkey/binary-newbie-coders-dreams-45f5)
-- [Open Source ABCs: Repository](https://dev.to/opensauced/open-source-abcs-repository-17po)
 <!-- BLOG-POST-LIST:END -->
 
