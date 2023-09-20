@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Saia do Loop - Data Annotation.](https://dev.to/fcarvalhodev/programador-de-c-e-r-data-annotation-01-2ep2)
+- [Understanding Process Restart Strategies: Transient, Temporary, and Permanent](https://dev.to/herminiotorres/understanding-process-restart-strategies-transient-temporary-and-permanent-1eac)
 - [Writing My First Pull Request](https://dev.to/pbelokon/writing-my-first-pull-request-2j50)
 - [Offer Digital Assets Using Mintbase JS](https://dev.to/starpause/offer-digital-assets-using-mintbase-js-c85)
-- [Integrating Flutter {all 6 platforms} and Python: Part 2, Live Talk](https://dev.to/maximsaplin/integrating-flutter-all-6-platforms-and-python-part-2-live-talk-542e)
-- [Has AI Taken My Job Yet?](https://dev.to/kallmanation/has-ai-taken-my-job-yet-9o4)
 <!-- BLOG-POST-LIST:END -->
 
