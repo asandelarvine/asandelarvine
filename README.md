@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Search your AWS resources blazingly fast ⚡️](https://dev.to/slsbytheodo/search-your-aws-resources-blazingly-fast-42h8)
-- [Don’t block your users! Why you should adopt event-driven architecture](https://dev.to/estephinson/dont-block-your-users-why-you-should-adopt-event-driven-architecture-38e6)
-- [AI Tools to Supercharge Your Interview Preparation](https://dev.to/kartikbudhraja/ai-tools-to-supercharge-your-interview-preparation-58ph)
-- [Solving the Tech Debt Puzzle: Strategies that boost business](https://dev.to/brainhubeu/solving-the-tech-debt-puzzle-strategies-that-boost-business-3noe)
+- [Welcome Thread - v243](https://dev.to/devteam/welcome-thread-v243-10b)
+- [Eye Catching Greek Flowers](https://dev.to/gardenar04/eye-catching-greek-flowers-12c2)
+- [Binary Newbie Coder&#39;s Dreams](https://dev.to/jemwebkey/binary-newbie-coders-dreams-45f5)
+- [Open Source ABCs: Repository](https://dev.to/opensauced/open-source-abcs-repository-17po)
 <!-- BLOG-POST-LIST:END -->
 
