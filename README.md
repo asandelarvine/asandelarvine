@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Contribution on GitHub](https://dev.to/pwd9000/open-source-contribution-on-github-545a)
-- [Bun 1.0: A New Era for JavaScript Development](https://dev.to/taquiimam14/bun-10-a-new-era-for-javascript-development-2oe5)
-- [Build a Serverless App Fast with Zipper: Write TypeScript, Offload Everything Else](https://dev.to/johnjvester/build-a-serverless-app-fast-with-zipper-write-typescript-offload-everything-else-1dn3)
-- [Optimize Embedded Development: Must-Have VSCode Extensions](https://dev.to/dariocasciato/optimize-embedded-development-must-have-vscode-extensions-5d91)
+- [Your first API with Bun, Express and Prisma](https://dev.to/clerijr/your-first-api-with-bun-express-and-prisma-p90)
+- [Cracking the Code: Counting All Valid Pickup and Delivery Options](https://dev.to/speaklouder/cracking-the-code-counting-all-valid-pickup-and-delivery-options-1kkj)
+- [How to package your cloud-native Java app for faster startup](https://dev.to/openliberty/how-to-package-your-cloud-native-java-app-for-faster-startup-103p)
+- [Unlocking the Mystery of LeetCode 2612: Minimum Reverse Operations &lpar;Hard&rpar;](https://dev.to/speaklouder/unlocking-the-mystery-of-leetcode-2612-minimum-reverse-operations-hard-52n5)
 <!-- BLOG-POST-LIST:END -->
 
