@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Tech Generalists Outshine Specialists?](https://dev.to/codenewbieteam/do-tech-generalists-outshine-specialists-4l37)
 - [Recent &#39;Panic Moment&#39;?](https://dev.to/devteam/recent-panic-moment-49n5)
+- [Do Tech Generalists Outshine Specialists?](https://dev.to/codenewbieteam/do-tech-generalists-outshine-specialists-4l37)
 - [Right way of cloning JavaScript Objects](https://dev.to/shameel/right-way-of-cloning-javascript-objects-4gbk)
 - [Unveiling the Magic: Exploring JavaScript Symbols](https://dev.to/this-is-learning/unveiling-the-magic-exploring-javascript-symbols-15d9)
 <!-- BLOG-POST-LIST:END -->
