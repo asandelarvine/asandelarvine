@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [[EKS Hand-on Series] Introduction and setup environment](https://dev.to/coangha21/eks-hand-on-series-introduction-and-setup-environment-b9h)
 - [My Journey into Computer Graphics - Part 4: The Quaternion Menace](https://dev.to/ericbl3/my-journey-into-computer-graphics-part-4-the-quaternion-menace-5d2)
+- [AWS Savings Plans - Things to know !!](https://dev.to/aws-builders/aws-savings-plans-things-to-know--2d63)
 - [Saia do Loop - Data Annotation.](https://dev.to/fcarvalhodev/programador-de-c-e-r-data-annotation-01-2ep2)
-- [Understanding Process Restart Strategies: Transient, Temporary, and Permanent](https://dev.to/herminiotorres/understanding-process-restart-strategies-transient-temporary-and-permanent-1eac)
 <!-- BLOG-POST-LIST:END -->
 
