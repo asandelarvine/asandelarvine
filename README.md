@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How sports made me a better developer](https://dev.to/tayyabbashir/how-sports-made-me-a-better-developer-3cno)
-- [Welcome Thread - v243](https://dev.to/devteam/welcome-thread-v243-10b)
-- [Eye Catching Greek Flowers](https://dev.to/gardenar04/eye-catching-greek-flowers-12c2)
-- [Binary Newbie Coder&#39;s Dreams](https://dev.to/jemwebkey/binary-newbie-coders-dreams-45f5)
+- [Serilog vs log4net vs NLog - Detailed Comparison](https://dev.to/bytehide/serilog-vs-log4net-vs-nlog-detailed-comparison-526k)
+- [Why we build our Startup Open-Source](https://dev.to/rigdev/why-we-build-our-startup-open-source-400m)
+- [VSCode Fetching Extensions xhr failed Çözümü](https://dev.to/aciklab/vscode-fetching-extensions-xhr-failed-cozumu-267d)
+- [Best Mouse for Programming](https://dev.to/sajalmanjhi/best-mouse-for-programming-1nng)
 <!-- BLOG-POST-LIST:END -->
 
