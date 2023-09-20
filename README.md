@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Saia do Loop - Data Annotation.](https://dev.to/fcarvalhodev/programador-de-c-e-r-data-annotation-01-2ep2)
 - [Understanding Process Restart Strategies: Transient, Temporary, and Permanent](https://dev.to/herminiotorres/understanding-process-restart-strategies-transient-temporary-and-permanent-1eac)
 - [Writing My First Pull Request](https://dev.to/pbelokon/writing-my-first-pull-request-2j50)
-- [Offer Digital Assets Using Mintbase JS](https://dev.to/starpause/offer-digital-assets-using-mintbase-js-c85)
+- [Destructuring in JS](https://dev.to/kyrierui/destructuring-in-js-2009)
 <!-- BLOG-POST-LIST:END -->
 
