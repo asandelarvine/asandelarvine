@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Preptember Diaries: Gearing up for hacktoberfest 2023!](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2)
 - [Quais as principais métricas de engajamento em comunidades avaliadas por DevRel](https://dev.to/larideoliiveira/quais-as-principais-metricas-de-engajamento-em-comunidades-avaliadas-por-devrel-309m)
 - [&quot;Big Tech: What They Say vs. What They Mean&quot;: CodeNewbie Podcast S25E6](https://dev.to/codenewbieteam/big-tech-what-they-say-vs-what-they-mean-codenewbie-podcast-s25e6-37n7)
 - [Top 5 WordPress Security Threats](https://dev.to/noobizdev/top-5-wordpress-security-threats-4lh9)
-- [Object detection with ONNX, Pipeless and a YOLO model](https://dev.to/miguelaeh/object-detection-with-onnx-pipeless-and-a-yolo-model-4j1j)
 <!-- BLOG-POST-LIST:END -->
 
