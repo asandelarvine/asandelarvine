@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 State Switches are not tough - Ultimate guide to CSS Switches using CSS only](https://dev.to/navdeepm20/3-state-switches-are-not-tough-ultimate-guide-to-css-switches-using-css-only-1gja)
+- [[pt-BR] Criando um sistema operacional &lpar;quase&rpar; do zero](https://dev.to/pbalduino/criando-um-sistema-operacional-quase-do-zero-27m8)
 - [Your first API with Bun, Express and Prisma](https://dev.to/clerijr/your-first-api-with-bun-express-and-prisma-p90)
 - [Cracking the Code: Counting All Valid Pickup and Delivery Options](https://dev.to/speaklouder/cracking-the-code-counting-all-valid-pickup-and-delivery-options-1kkj)
-- [How to package your cloud-native Java app for faster startup](https://dev.to/openliberty/how-to-package-your-cloud-native-java-app-for-faster-startup-103p)
-- [Unlocking the Mystery of LeetCode 2612: Minimum Reverse Operations &lpar;Hard&rpar;](https://dev.to/speaklouder/unlocking-the-mystery-of-leetcode-2612-minimum-reverse-operations-hard-52n5)
 <!-- BLOG-POST-LIST:END -->
 
