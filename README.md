@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recent &#39;Panic Moment&#39;?](https://dev.to/devteam/recent-panic-moment-49n5)
-- [Do Tech Generalists Outshine Specialists?](https://dev.to/codenewbieteam/do-tech-generalists-outshine-specialists-4l37)
-- [Right way of cloning JavaScript Objects](https://dev.to/shameel/right-way-of-cloning-javascript-objects-4gbk)
-- [Unveiling the Magic: Exploring JavaScript Symbols](https://dev.to/this-is-learning/unveiling-the-magic-exploring-javascript-symbols-15d9)
+- [Search your AWS resources blazingly fast ⚡️](https://dev.to/slsbytheodo/search-your-aws-resources-blazingly-fast-42h8)
+- [Don’t block your users! Why you should adopt event-driven architecture](https://dev.to/estephinson/dont-block-your-users-why-you-should-adopt-event-driven-architecture-38e6)
+- [AI Tools to Supercharge Your Interview Preparation](https://dev.to/kartikbudhraja/ai-tools-to-supercharge-your-interview-preparation-58ph)
+- [Solving the Tech Debt Puzzle: Strategies that boost business](https://dev.to/brainhubeu/solving-the-tech-debt-puzzle-strategies-that-boost-business-3noe)
 <!-- BLOG-POST-LIST:END -->
 
