@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serilog vs log4net vs NLog - Detailed Comparison](https://dev.to/bytehide/serilog-vs-log4net-vs-nlog-detailed-comparison-526k)
-- [Why we build our Startup Open-Source](https://dev.to/rigdev/why-we-build-our-startup-open-source-400m)
-- [VSCode Fetching Extensions xhr failed Çözümü](https://dev.to/aciklab/vscode-fetching-extensions-xhr-failed-cozumu-267d)
-- [Best Mouse for Programming](https://dev.to/sajalmanjhi/best-mouse-for-programming-1nng)
+- [#34:👻 Nada como um dia péssimo para os monstros voltarem](https://dev.to/marciovsena/34-nada-como-um-dia-pessimo-para-os-monstros-voltarem-5gf0)
+- [What repos would you recommend to new contributors for Hacktoberfest?](https://dev.to/bekahhw/what-repos-would-you-recommend-to-new-contributors-for-hacktoberfest-47no)
+- [Harvesting the Power of Prometheus: Metrics Monitoring on Steroids.](https://dev.to/maksimmuravev/harvesting-the-power-of-prometheus-metrics-monitoring-on-steroids-1e8h)
+- [Angular Signals : A Comprehensive Introduction](https://dev.to/nikhil6076/angular-signals-a-comprehensive-introduction-45h2)
 <!-- BLOG-POST-LIST:END -->
 
