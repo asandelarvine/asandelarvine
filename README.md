@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Algorithms: 8 Common Challenges and Solutions in JavaScript](https://dev.to/frantchessico/mastering-algorithms-8-common-challenges-and-solutions-in-javascript-2kkf)
 - [Getting Started with SQL: A Beginners Hands-On Guide!](https://dev.to/pavanbelagatti/getting-started-with-sql-a-beginners-hands-on-guide-46p1)
 - [Vlang now supports Lambda](https://dev.to/h4cd/vlang-now-supports-lambda-2coe)
 - [How to Change WordPress Login Page Logo without Plugin?](https://dev.to/jemeeroy/change-wordpress-login-page-logo-539d)
-- [Simple Internationalization &lpar;i18n&rpar; for Nextjs &lpar;App Router&rpar; with Server Actions and cookies](https://dev.to/angelalexqc/simple-internationalization-i18n-for-nextjs-app-router-with-server-actions-and-cookies-2n27)
 <!-- BLOG-POST-LIST:END -->
 
