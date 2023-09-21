@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building A Secure Note-Taking App: With HTML, CSS, and Javascript](https://dev.to/scofieldidehen/building-a-secure-note-taking-app-with-html-css-and-javascript-1o59)
+- [CSS | Worm Animation](https://dev.to/shubhamtiwari909/css-worm-animation-lcb)
+- [Design System 101: Top-down Approach in Component Spacing](https://dev.to/woovi/design-system-101-top-down-approach-in-component-spacing-281m)
 - [The World of Web Development: A Comprehensive Overview](https://dev.to/codewithshahan/the-world-of-web-development-a-comprehensive-overview-4i45)
-- [Introducing Bun 1.0: A Game-Changer in Web Development](https://dev.to/pasindu_anuhas/introducing-bun-10-a-game-changer-in-web-development-4cml)
-- [Monkey-patching in Java](https://dev.to/nfrankel/monkey-patching-in-java-1c2k)
-- [The Complete Microservices Guide](https://dev.to/amplication/the-complete-microservices-guide-5d64)
 <!-- BLOG-POST-LIST:END -->
 
