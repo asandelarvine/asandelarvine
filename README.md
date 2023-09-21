@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with SQL: A Beginners Hands-On Guide!](https://dev.to/pavanbelagatti/getting-started-with-sql-a-beginners-hands-on-guide-46p1)
+- [Vlang now supports Lambda](https://dev.to/h4cd/vlang-now-supports-lambda-2coe)
 - [How to Change WordPress Login Page Logo without Plugin?](https://dev.to/jemeeroy/change-wordpress-login-page-logo-539d)
-- [Construindo um bot com Python RPA para interagir com sistemas desktop](https://dev.to/botcitydev/construindo-um-bot-com-python-rpa-para-interagir-com-sistemas-desktop-54n9)
-- [Preptember Diaries: Gearing up for hacktoberfest 2023!](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2)
-- [Quais as principais métricas de engajamento em comunidades avaliadas por DevRel](https://dev.to/larideoliiveira/quais-as-principais-metricas-de-engajamento-em-comunidades-avaliadas-por-devrel-309m)
+- [Simple Internationalization &lpar;i18n&rpar; for Nextjs &lpar;App Router&rpar; with Server Actions and cookies](https://dev.to/angelalexqc/simple-internationalization-i18n-for-nextjs-app-router-with-server-actions-and-cookies-2n27)
 <!-- BLOG-POST-LIST:END -->
 
