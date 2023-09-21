@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Bun 1.0: A Game-Changer in Web Development](https://dev.to/pasindu_anuhas/introducing-bun-10-a-game-changer-in-web-development-4cml)
 - [Monkey-patching in Java](https://dev.to/nfrankel/monkey-patching-in-java-1c2k)
 - [The Complete Microservices Guide](https://dev.to/amplication/the-complete-microservices-guide-5d64)
-- [Eating Our Own Dog Food](https://dev.to/thisisfinedev/eating-our-own-dog-food-26dd)
-- [Top 5 Js Frameworks](https://dev.to/hasanelsherbiny/top-5-js-frameworks-1ge3)
+- [A few things about regular expressions in JavaScript](https://dev.to/artxe2/a-few-things-about-regular-expressions-in-javascript-41k2)
 <!-- BLOG-POST-LIST:END -->
 
