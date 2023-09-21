@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How has the COVID-19 Pandemic Effected Leadership?: CodeNewbie Podcast](https://dev.to/codenewbieteam/how-has-the-covid-19-pandemic-effected-leadership-in-the-developer-community-codenewbie-podcast-13p2)
+- [Very Simple way to handle requests](https://dev.to/mmvergara/supabase-way-of-handling-request-18mn)
+- [Difference between microtask and macrotask queue in the event loop](https://dev.to/jeetvora331/difference-between-microtask-and-macrotask-queue-in-the-event-loop-4i4i)
 - [You&#39;re Not Alone w/ Mark Thompson](https://dev.to/tdesseyn/youre-not-alone-w-mark-thompson-380o)
-- [Create AI-generated art via SMS with Replicate in Python](https://dev.to/twilio/create-ai-generated-art-via-sms-with-replicate-in-python-1gkd)
-- [Discussion of the Week - v3](https://dev.to/devteam/discussion-of-the-week-v3-4fn1)
-- [Let&#39;s Talk About Job Interviews](https://dev.to/wraith/lets-talk-about-job-interviews-5edl)
 <!-- BLOG-POST-LIST:END -->
 
