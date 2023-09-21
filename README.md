@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DALLE-3 Is Here. Open AI&#39;s New Text to Image Model 🔥](https://dev.to/srbhr/dalle-3-is-here-open-ais-new-text-to-image-model-4jh1)
+- [Building a Complete Weather App from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/building-a-complete-weather-app-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-30h4)
+- [Less dev, more advocate](https://dev.to/dumebii/less-dev-more-advocate-1j6b)
+- [Writing Rust bindings for Node.js with Neon](https://dev.to/logrocket/writing-rust-bindings-for-nodejs-with-neon-1pn4)
 - [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-3bgb)
-- [Building A Secure Note-Taking App: With HTML, CSS, and Javascript](https://dev.to/scofieldidehen/building-a-secure-note-taking-app-with-html-css-and-javascript-1o59)
-- [🦾 How To Use ChatGPT for Learning to Code &lpar;With Examples&rpar;](https://dev.to/evergrowingdev/how-to-use-chatgpt-for-learning-to-code-with-examples-39e7)
 <!-- BLOG-POST-LIST:END -->
 
