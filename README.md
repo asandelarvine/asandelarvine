@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re Not Alone w/ Mark Thompson](https://dev.to/tdesseyn/youre-not-alone-w-mark-thompson-380o)
+- [Create AI-generated art via SMS with Replicate in Python](https://dev.to/twilio/create-ai-generated-art-via-sms-with-replicate-in-python-1gkd)
+- [Discussion of the Week - v3](https://dev.to/devteam/discussion-of-the-week-v3-4fn1)
 - [Let&#39;s Talk About Job Interviews](https://dev.to/wraith/lets-talk-about-job-interviews-5edl)
-- [What’s MTTR? How to reduce Mean Time To Recovery?](https://dev.to/hatica/whats-mttr-how-to-reduce-mean-time-to-recovery-4pfk)
-- [Note-Taking Weapons I Use to Tame the Tech Beast](https://dev.to/livelong_ponder/note-taking-weapons-i-use-to-tame-the-tech-beast-3ji9)
-- [What is Strict Mode in JavaScript?](https://dev.to/catherineisonline/what-is-strict-mode-in-javascript-phn)
 <!-- BLOG-POST-LIST:END -->
 
