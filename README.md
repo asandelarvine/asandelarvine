@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Now Awarding Badges to Elevate Top Discussions 💬💥](https://dev.to/devteam/now-awarding-badges-to-elevate-top-discussions-2bi5)
-- [Supercharge your Repository with Code Owners](https://dev.to/opensauced/supercharge-your-repository-with-code-owners-4clg)
-- [Dialogs vs. Modals: Is there a difference?](https://dev.to/iam_timsmith/dialogs-vs-modals-is-there-a-difference-210k)
-- [Mastering Remote Work: The Art of Asynchronous Communication and Interruption Minimization](https://dev.to/nilanth/mastering-remote-work-the-art-of-asynchronous-communication-and-interruption-minimization-3b2o)
+- [Thoughts on Bun so far?](https://dev.to/sadeedpv/thoughts-on-bun-so-far-1dhk)
+- [pyaction 4.24.0 Released](https://dev.to/cicirello/pyaction-4240-released-5bkk)
+- [Is Unity&#39;s New Pricing Model a Game Changer or Game Over?](https://dev.to/devteam/is-unitys-new-pricing-model-a-game-changer-or-game-over-1277)
+- [C# List](https://dev.to/zafarurakov/c-list-1edl)
 <!-- BLOG-POST-LIST:END -->
 
