@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on Bun so far?](https://dev.to/sadeedpv/thoughts-on-bun-so-far-1dhk)
-- [Next.js 13.5 have 22% faster local server startup](https://dev.to/kumarkalyan/nextjs-135-have-22-faster-local-server-startup-2eld)
-- [pyaction 4.24.0 Released](https://dev.to/cicirello/pyaction-4240-released-5bkk)
-- [Is Unity&#39;s New Pricing Model a Game Changer or Game Over?](https://dev.to/devteam/is-unitys-new-pricing-model-a-game-changer-or-game-over-1277)
+- [What’s MTTR? How to reduce Mean Time To Recovery?](https://dev.to/hatica/whats-mttr-how-to-reduce-mean-time-to-recovery-4pfk)
+- [Note-Taking Weapons I Use to Tame the Tech Beast](https://dev.to/livelong_ponder/note-taking-weapons-i-use-to-tame-the-tech-beast-3ji9)
+- [What is Strict Mode in JavaScript?](https://dev.to/catherineisonline/what-is-strict-mode-in-javascript-phn)
+- [VueJS part 4: Rendering in loop](https://dev.to/hi_iam_chris/vuejs-part-4-rendering-in-loop-n84)
 <!-- BLOG-POST-LIST:END -->
 
