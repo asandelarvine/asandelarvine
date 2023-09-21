@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Complete Weather App from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/building-a-complete-weather-app-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-30h4)
-- [Less dev, more advocate](https://dev.to/dumebii/less-dev-more-advocate-1j6b)
-- [Writing Rust bindings for Node.js with Neon](https://dev.to/logrocket/writing-rust-bindings-for-nodejs-with-neon-1pn4)
-- [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-3bgb)
+- [Inside the Box: August Community Update](https://dev.to/codesandboxio/inside-the-box-august-community-update-32af)
+- [Unraveling the Mystery of Prompt Injection with OpenAI&#39;s Models](https://dev.to/rainleander/unraveling-the-mystery-of-prompt-injection-with-openais-models-3170)
+- [Sloan&#39;s Inbox: Striving to be a T-shaped developer... how to find my specialization?](https://dev.to/devteam/sloans-inbox-striving-to-be-a-t-shaped-developer-how-to-find-my-specialization-ljn)
+- [Working of Garbage Collection in JavaScript: Under the Hood ✨](https://dev.to/thebuildguy/working-of-garbage-collection-in-javascript-under-the-hood-231e)
 <!-- BLOG-POST-LIST:END -->
 
