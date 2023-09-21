@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Haikus for Coding? Wax Poetic!](https://dev.to/devteam/haikus-for-coding-wax-poetic-3dcm)
+- [10 common React Js interview questions.](https://dev.to/mahfuzurrahman01/10-common-react-js-interview-questions-2chd)
 - [A Complete Guide on Notification Infrastructure for Modern Applications in 2023](https://dev.to/nikl/a-complete-guide-on-notification-infrastructure-for-modern-applications-in-2023-13b9)
-- [Mastering Algorithms: 8 Common Challenges and Solutions in JavaScript](https://dev.to/frantchessico/mastering-algorithms-8-common-challenges-and-solutions-in-javascript-2kkf)
-- [Getting Started with SQL: A Beginners Hands-On Guide!](https://dev.to/pavanbelagatti/getting-started-with-sql-a-beginners-hands-on-guide-46p1)
-- [Vlang now supports Lambda](https://dev.to/h4cd/vlang-now-supports-lambda-2coe)
+- [Terraform Full Course in 9 hours .. Zero to Hero Series #FREE#](https://dev.to/aws-builders/terraform-full-course-in-9-hours-zero-to-hero-series-5492)
 <!-- BLOG-POST-LIST:END -->
 
