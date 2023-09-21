@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Thoughts on Bun so far?](https://dev.to/sadeedpv/thoughts-on-bun-so-far-1dhk)
+- [Next.js 13.5 have 22% faster local server startup](https://dev.to/kumarkalyan/nextjs-135-have-22-faster-local-server-startup-2eld)
 - [pyaction 4.24.0 Released](https://dev.to/cicirello/pyaction-4240-released-5bkk)
 - [Is Unity&#39;s New Pricing Model a Game Changer or Game Over?](https://dev.to/devteam/is-unitys-new-pricing-model-a-game-changer-or-game-over-1277)
-- [C# List](https://dev.to/zafarurakov/c-list-1edl)
 <!-- BLOG-POST-LIST:END -->
 
