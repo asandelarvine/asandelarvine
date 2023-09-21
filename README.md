@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Talk About Job Interviews](https://dev.to/wraith/lets-talk-about-job-interviews-5edl)
 - [What’s MTTR? How to reduce Mean Time To Recovery?](https://dev.to/hatica/whats-mttr-how-to-reduce-mean-time-to-recovery-4pfk)
 - [Note-Taking Weapons I Use to Tame the Tech Beast](https://dev.to/livelong_ponder/note-taking-weapons-i-use-to-tame-the-tech-beast-3ji9)
 - [What is Strict Mode in JavaScript?](https://dev.to/catherineisonline/what-is-strict-mode-in-javascript-phn)
-- [VueJS part 4: Rendering in loop](https://dev.to/hi_iam_chris/vuejs-part-4-rendering-in-loop-n84)
 <!-- BLOG-POST-LIST:END -->
 
