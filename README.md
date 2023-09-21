@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Box: August Community Update](https://dev.to/codesandboxio/inside-the-box-august-community-update-32af)
-- [Unraveling the Mystery of Prompt Injection with OpenAI&#39;s Models](https://dev.to/rainleander/unraveling-the-mystery-of-prompt-injection-with-openais-models-3170)
-- [Sloan&#39;s Inbox: Striving to be a T-shaped developer... how to find my specialization?](https://dev.to/devteam/sloans-inbox-striving-to-be-a-t-shaped-developer-how-to-find-my-specialization-ljn)
-- [Working of Garbage Collection in JavaScript: Under the Hood ✨](https://dev.to/thebuildguy/working-of-garbage-collection-in-javascript-under-the-hood-231e)
+- [Supercharge your Repository with Code Owners](https://dev.to/opensauced/supercharge-your-repository-with-code-owners-4clg)
+- [Dialogs vs. Modals: Is there a difference?](https://dev.to/iam_timsmith/dialogs-vs-modals-is-there-a-difference-210k)
+- [Telehealth solutions – key statistics and forecasts worth knowing](https://dev.to/abtosoftware/telehealth-solutions-key-statistics-and-forecasts-worth-knowing-4eg5)
+- [How to start with Django](https://dev.to/volodys1ove/how-to-start-with-django-5cp5)
 <!-- BLOG-POST-LIST:END -->
 
