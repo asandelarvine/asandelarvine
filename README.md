@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Change WordPress Login Page Logo without Plugin?](https://dev.to/jemeeroy/change-wordpress-login-page-logo-539d)
 - [Construindo um bot com Python RPA para interagir com sistemas desktop](https://dev.to/botcitydev/construindo-um-bot-com-python-rpa-para-interagir-com-sistemas-desktop-54n9)
 - [Preptember Diaries: Gearing up for hacktoberfest 2023!](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2)
 - [Quais as principais métricas de engajamento em comunidades avaliadas por DevRel](https://dev.to/larideoliiveira/quais-as-principais-metricas-de-engajamento-em-comunidades-avaliadas-por-devrel-309m)
-- [&quot;Big Tech: What They Say vs. What They Mean&quot;: CodeNewbie Podcast S25E6](https://dev.to/codenewbieteam/big-tech-what-they-say-vs-what-they-mean-codenewbie-podcast-s25e6-37n7)
 <!-- BLOG-POST-LIST:END -->
 
