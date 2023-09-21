@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monkey-patching in Java](https://dev.to/nfrankel/monkey-patching-in-java-1c2k)
+- [The Complete Microservices Guide](https://dev.to/amplication/the-complete-microservices-guide-5d64)
+- [Eating Our Own Dog Food](https://dev.to/thisisfinedev/eating-our-own-dog-food-26dd)
 - [Top 5 Js Frameworks](https://dev.to/hasanelsherbiny/top-5-js-frameworks-1ge3)
-- [Haikus for Coding? Wax Poetic!](https://dev.to/devteam/haikus-for-coding-wax-poetic-3dcm)
-- [10 common React Js interview questions.](https://dev.to/mahfuzurrahman01/10-common-react-js-interview-questions-2chd)
-- [A Complete Guide on Notification Infrastructure for Modern Applications in 2023](https://dev.to/nikl/a-complete-guide-on-notification-infrastructure-for-modern-applications-in-2023-13b9)
 <!-- BLOG-POST-LIST:END -->
 
