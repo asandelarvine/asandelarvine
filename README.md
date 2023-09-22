@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create Resource Groups in Azure Portal](https://dev.to/jetsumz/how-to-create-resource-groups-in-azure-portal-458l)
+- [29 Websites For Free Icon Sets](https://dev.to/vincenius/websites-for-free-icon-sets-2paf)
 - [🔥 How To Get Juicy User Insights With In-App Pre-Churn Survey In Next.js With Formbricks 💡💬](https://dev.to/formbricks/how-to-get-juicy-user-insights-with-in-app-pre-churn-survey-in-nextjs-with-formbricks-1536)
 - [My React Hooks](https://dev.to/lxchurbakov/my-react-hooks-3m83)
-- [🚀 Embracing the Exciting New CSS Viewport Units! 🎉](https://dev.to/kartikbudhraja/embracing-the-exciting-new-css-viewport-units-meg)
-- [What Is the Difference Between Cloud Adoption and Cloud Migration?](https://dev.to/codingcrafts/what-is-the-difference-between-cloud-adoption-and-cloud-migration-462a)
 <!-- BLOG-POST-LIST:END -->
 
