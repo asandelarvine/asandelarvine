@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023: The Complete Guide](https://dev.to/srbhr/hacktoberfest-2023-the-complete-guide-1lkj)
 - [Check Out DEV Lead Software Engineer Ridhwana Khan’s talk at Rocky Mountain Ruby!](https://dev.to/devteam/checkout-dev-lead-software-engineer-ridhwana-khans-talk-at-rocky-mountain-ruby-2ci7)
 - [🚀 Mastering the 10 Pillars of Front-End](https://dev.to/phanimurari/mastering-the-10-pillars-of-front-end-5fa)
 - [Inspiring Quotes &lpar;of Richard P. Feynman&rpar; For Software Devs To Consider](https://dev.to/raddevus/inspiring-quotes-of-richard-p-feynman-for-software-devs-to-consider-5bbj)
-- [Build a language translator app powered by OpenAI](https://dev.to/gadget/build-a-language-translator-app-powered-by-openai-37n0)
 <!-- BLOG-POST-LIST:END -->
 
