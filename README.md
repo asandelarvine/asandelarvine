@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Can self-taught programmers get jobs?](https://dev.to/codewithshahan/can-self-taught-programmers-get-jobs-4f4d)
+- [Coisas que você talvez não saiba sobre botões no HTML](https://dev.to/lixeletto/coisas-que-voce-talvez-nao-saiba-sobre-botoes-no-html-4aad)
 - [How to prevent NullPointerExceptions in Java](https://dev.to/snyk/how-to-prevent-nullpointerexceptions-in-java-3o43)
-- [📢 Announcing New Local Dev Setup Options for Contributing to Forem!](https://dev.to/devteam/announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49)
-- [docs&lpar;Conventional Commits&rpar;: Feat, Fix, Refactor… which is which?](https://dev.to/noriller/docsconventional-commits-feat-fix-refactor-which-is-which-1n57)
-- [Connect infrastructure monitoring and APM in a snap](https://dev.to/newrelic/connect-infrastructure-monitoring-and-apm-in-a-snap-31d4)
+- [Docker on Ubuntu 22.10: running mysql:8.0.34-debian with custom config, socket, database and log files reside on host machine.](https://dev.to/behainguyen/docker-on-ubuntu-2210-running-mysql8034-debian-with-custom-config-socket-database-and-log-files-reside-on-host-machine-3j26)
 <!-- BLOG-POST-LIST:END -->
 
