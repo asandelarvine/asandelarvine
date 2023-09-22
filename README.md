@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #64 - Announcement Catcher and Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-64-announcement-catcher-and-staking-v2-2jol)
+- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-101f)
 - [The Data Engineering Docker-Compose Starter Kit](https://dev.to/olgabraginskaya/the-data-engineering-docker-compose-starter-kit-33me)
-- [How to build a Slack Bot in Go](https://dev.to/encore/how-to-build-a-slack-bot-in-go-3j78)
-- [Implementing Dark and Light Themes in Next.js 13 with Tailwind CSS](https://dev.to/mnamesujit/implementing-dark-and-light-themes-in-nextjs-13-with-tailwind-css-57l5)
-- [Getting Started with Apache Age and Age Viewer](https://dev.to/k1hara/getting-started-with-apache-age-and-age-viewer-379a)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1158)
 <!-- BLOG-POST-LIST:END -->
 
