@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a User Feedback Widget with Vue.js and Directus](https://dev.to/directus/building-a-user-feedback-widget-with-vuejs-and-directus-4bm1)
 - [Can self-taught programmers get jobs?](https://dev.to/codewithshahan/can-self-taught-programmers-get-jobs-4f4d)
 - [Coisas que você talvez não saiba sobre botões no HTML](https://dev.to/lixeletto/coisas-que-voce-talvez-nao-saiba-sobre-botoes-no-html-4aad)
 - [How to prevent NullPointerExceptions in Java](https://dev.to/snyk/how-to-prevent-nullpointerexceptions-in-java-3o43)
-- [Docker on Ubuntu 22.10: running mysql:8.0.34-debian with custom config, socket, database and log files reside on host machine.](https://dev.to/behainguyen/docker-on-ubuntu-2210-running-mysql8034-debian-with-custom-config-socket-database-and-log-files-reside-on-host-machine-3j26)
 <!-- BLOG-POST-LIST:END -->
 
