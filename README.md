@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 1 as a Mobile Developer for a Fin-tech.](https://dev.to/cudium/day-1-as-a-mobile-developer-for-a-fin-tech-7po)
 - [Managing experienced engineers as a new manager: A guide to success](https://dev.to/alexr/managing-experienced-engineers-as-a-new-manager-a-guide-to-success-2j5a)
 - [How to view, assign and remove roles in Azure](https://dev.to/jetsumz/how-to-view-assign-and-remove-roles-in-azure-5h6m)
 - [AWS Lambda Meets Bun through SST 🐰: Prime Time or Just Prime Hype? 🥵](https://dev.to/slsbytheodo/aws-lambda-meets-bun-through-sst-prime-time-or-just-prime-hype-2pb2)
-- [¿Qué es la metodología Kanban y cómo usarla?](https://dev.to/oroscoloyamena/que-es-la-metodologia-kanban-y-como-usarla-38km)
 <!-- BLOG-POST-LIST:END -->
 
