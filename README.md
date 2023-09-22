@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Stateful vs. Stateless Widgets in Flutter](https://dev.to/raman04byte/understanding-stateful-vs-stateless-widgets-in-flutter-3016)
+- [Creating a key vault and adding a Secret in Azure](https://dev.to/jetsumz/creating-a-key-vault-and-adding-a-secret-in-azure-2hdp)
 - [How to create Resource Groups in Azure Portal](https://dev.to/jetsumz/how-to-create-resource-groups-in-azure-portal-458l)
-- [29 Websites For Free Icon Sets](https://dev.to/vincenius/websites-for-free-icon-sets-2paf)
-- [🔥 How To Get Juicy User Insights With In-App Pre-Churn Survey In Next.js With Formbricks 💡💬](https://dev.to/formbricks/how-to-get-juicy-user-insights-with-in-app-pre-churn-survey-in-nextjs-with-formbricks-1536)
-- [My React Hooks](https://dev.to/lxchurbakov/my-react-hooks-3m83)
+- [How to setup a PostgreSQL database with Docker Compose](https://dev.to/1cadumagalhaes/how-to-setup-a-postgresql-database-with-docker-compose-1j57)
 <!-- BLOG-POST-LIST:END -->
 
