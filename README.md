@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to prevent NullPointerExceptions in Java](https://dev.to/snyk/how-to-prevent-nullpointerexceptions-in-java-3o43)
 - [📢 Announcing New Local Dev Setup Options for Contributing to Forem!](https://dev.to/devteam/announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49)
 - [docs&lpar;Conventional Commits&rpar;: Feat, Fix, Refactor… which is which?](https://dev.to/noriller/docsconventional-commits-feat-fix-refactor-which-is-which-1n57)
-- [How has the COVID-19 Pandemic Effected Leadership?: CodeNewbie Podcast](https://dev.to/codenewbieteam/how-has-the-covid-19-pandemic-effected-leadership-in-the-developer-community-codenewbie-podcast-13p2)
+- [Connect infrastructure monitoring and APM in a snap](https://dev.to/newrelic/connect-infrastructure-monitoring-and-apm-in-a-snap-31d4)
 <!-- BLOG-POST-LIST:END -->
 
