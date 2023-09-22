@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [By Teaching AI to Make Pictures and Write, Scientists Improve Its Grasp of Vision and Language](https://dev.to/mikeyoung44/by-teaching-ai-to-make-pictures-and-write-scientists-improve-its-grasp-of-vision-and-language-318j)
+- [Overcoming Life&#39;s Challenges: A Personal Journey](https://dev.to/u_usama14/overcoming-lifes-challenges-a-personal-journey-1nfm)
 - [Bringing Still Pictures to Life with Neural Motion Textures](https://dev.to/mikeyoung44/bringing-still-pictures-to-life-with-neural-motion-textures-44l6)
 - [Javascript Sort: Simplified🧑‍💻](https://dev.to/localhostd3veloper/javascript-sort-simplified-akm)
-- [Hacktoberfest 2023: The Complete Guide](https://dev.to/srbhr/hacktoberfest-2023-the-complete-guide-1lkj)
-- [Check Out DEV Lead Software Engineer Ridhwana Khan’s talk at Rocky Mountain Ruby!](https://dev.to/devteam/checkout-dev-lead-software-engineer-ridhwana-khans-talk-at-rocky-mountain-ruby-2ci7)
 <!-- BLOG-POST-LIST:END -->
 
