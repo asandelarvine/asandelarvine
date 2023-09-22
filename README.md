@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Dark and Light Themes in Next.js 13 with Tailwind CSS](https://dev.to/mnamesujit/implementing-dark-and-light-themes-in-nextjs-13-with-tailwind-css-57l5)
+- [# &quot;JavaScript Closures: Demystified.&quot;](https://dev.to/muhd/-javascript-closures-demystified-3jda)
+- [CSS Positioning: Simplified for Beginners](https://dev.to/akindeleemmanuel/css-positioning-simplified-for-beginners-8mi)
 - [🐳 Docker for Nodejs Developers](https://dev.to/shameel/docker-for-nodejs-developers-5458)
-- [Is Isolation Key to Writing Perfect Code?](https://dev.to/codenewbieteam/is-isolation-key-to-writing-perfect-code-440a)
-- [What&#39;s A Tough Concept You&#39;re &lpar;Re&rpar;Learning?](https://dev.to/devteam/whats-a-tough-concept-youre-relearning-1n5e)
-- [How to Use Push Notifications in React: A Step-by-Step Guide](https://dev.to/ajayupreti/how-to-use-push-notifications-in-react-a-step-by-step-guide-341d)
 <!-- BLOG-POST-LIST:END -->
 
