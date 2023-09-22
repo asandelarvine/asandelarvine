@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📢 Announcing New Local Dev Setup Options for Contributing to Forem!](https://dev.to/devteam/announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49)
+- [docs&lpar;Conventional Commits&rpar;: Feat, Fix, Refactor… which is which?](https://dev.to/noriller/docsconventional-commits-feat-fix-refactor-which-is-which-1n57)
 - [How has the COVID-19 Pandemic Effected Leadership?: CodeNewbie Podcast](https://dev.to/codenewbieteam/how-has-the-covid-19-pandemic-effected-leadership-in-the-developer-community-codenewbie-podcast-13p2)
 - [Very Simple way to handle requests](https://dev.to/mmvergara/supabase-way-of-handling-request-18mn)
-- [Difference between microtask and macrotask queue in the event loop](https://dev.to/jeetvora331/difference-between-microtask-and-macrotask-queue-in-the-event-loop-4i4i)
-- [You&#39;re Not Alone w/ Mark Thompson](https://dev.to/tdesseyn/youre-not-alone-w-mark-thompson-380o)
 <!-- BLOG-POST-LIST:END -->
 
