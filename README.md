@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Isolation Key to Writing Perfect Code?](https://dev.to/codenewbieteam/is-isolation-key-to-writing-perfect-code-440a)
+- [What&#39;s A Tough Concept You&#39;re &lpar;Re&rpar;Learning?](https://dev.to/devteam/whats-a-tough-concept-youre-relearning-1n5e)
+- [How to Use Push Notifications in React: A Step-by-Step Guide](https://dev.to/ajayupreti/how-to-use-push-notifications-in-react-a-step-by-step-guide-341d)
 - [Building a User Feedback Widget with Vue.js and Directus](https://dev.to/directus/building-a-user-feedback-widget-with-vuejs-and-directus-4bm1)
-- [Can self-taught programmers get jobs?](https://dev.to/codewithshahan/can-self-taught-programmers-get-jobs-4f4d)
-- [Coisas que você talvez não saiba sobre botões no HTML](https://dev.to/lixeletto/coisas-que-voce-talvez-nao-saiba-sobre-botoes-no-html-4aad)
-- [How to prevent NullPointerExceptions in Java](https://dev.to/snyk/how-to-prevent-nullpointerexceptions-in-java-3o43)
 <!-- BLOG-POST-LIST:END -->
 
