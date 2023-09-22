@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 as a Mobile Developer for a Fin-tech.](https://dev.to/cudium/day-1-as-a-mobile-developer-for-a-fin-tech-7po)
-- [Managing experienced engineers as a new manager: A guide to success](https://dev.to/alexr/managing-experienced-engineers-as-a-new-manager-a-guide-to-success-2j5a)
-- [How to view, assign and remove roles in Azure](https://dev.to/jetsumz/how-to-view-assign-and-remove-roles-in-azure-5h6m)
-- [AWS Lambda Meets Bun through SST 🐰: Prime Time or Just Prime Hype? 🥵](https://dev.to/slsbytheodo/aws-lambda-meets-bun-through-sst-prime-time-or-just-prime-hype-2pb2)
+- [🚀 Mastering the 10 Pillars of Front-End](https://dev.to/phanimurari/mastering-the-10-pillars-of-front-end-5fa)
+- [Inspiring Quotes &lpar;of Richard P. Feynman&rpar; For Software Devs To Consider](https://dev.to/raddevus/inspiring-quotes-of-richard-p-feynman-for-software-devs-to-consider-5bbj)
+- [Build a language translator app powered by OpenAI](https://dev.to/gadget/build-a-language-translator-app-powered-by-openai-37n0)
+- [Cracking the LeetCode:392 Is Subsequence?](https://dev.to/speaklouder/cracking-the-leetcode392-is-subsequence-25b8)
 <!-- BLOG-POST-LIST:END -->
 
