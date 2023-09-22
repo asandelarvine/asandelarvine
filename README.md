@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonly weekly progress update #64 - Announcement Catcher and Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-64-announcement-catcher-and-staking-v2-2jol)
-- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-101f)
-- [The Data Engineering Docker-Compose Starter Kit](https://dev.to/olgabraginskaya/the-data-engineering-docker-compose-starter-kit-33me)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1158)
+- [Let&#39;s Build a Movie Recommendation App Using OpenAI &amp; Python!](https://dev.to/pavanbelagatti/lets-build-a-movie-recommendation-app-using-openai-python-235m)
+- [My React Hooks](https://dev.to/lxchurbakov/my-react-hooks-3m83)
+- [🚀 Embracing the Exciting New CSS Viewport Units! 🎉](https://dev.to/kartikbudhraja/embracing-the-exciting-new-css-viewport-units-meg)
+- [What Is the Difference Between Cloud Adoption and Cloud Migration?](https://dev.to/codingcrafts/what-is-the-difference-between-cloud-adoption-and-cloud-migration-462a)
 <!-- BLOG-POST-LIST:END -->
 
