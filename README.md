@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Taming one of the trickiest business concepts](https://dev.to/apetryla/taming-one-of-the-trickiest-business-concepts-kdb)
 - [Largest free templates gallery for web developers](https://dev.to/luciantartea/largest-free-templates-gallery-for-web-developers-5fj4)
 - [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
 - [Frontend Architecture: The Architecture &lpar;Part. 6&rpar;](https://dev.to/hamed_farag/frontend-architecture-the-architecture-part-6-ae0)
-- [Building A Simple React Login Form: A Step By Step Guide.](https://dev.to/paulineoraro/building-a-simple-react-login-form-a-step-by-step-guide-17g1)
 <!-- BLOG-POST-LIST:END -->
 
