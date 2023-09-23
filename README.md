@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Flutter: Building a Cross-Platform Mobile App](https://dev.to/code_jedi/getting-started-with-flutter-building-a-cross-platform-mobile-app-5caa)
 - [Accenture - ASE Interview Experience](https://dev.to/anubhav-gupta/accenture-ase-interview-experience-3kma)
 - [Crafting Stunning Emails with Next.js and Tailwind CSS](https://dev.to/thevinitgupta/crafting-stunning-emails-with-nextjs-and-tailwind-css-529a)
 - [Debouncing and Throttling: Choosing the Right Strategy for Your Web Projects.](https://dev.to/kartikbudhraja/debouncing-and-throttling-choosing-the-right-strategy-for-your-web-projects-5cjh)
-- [Egoless Crafting&lpar;criação sem ego&rpar; para software: os princípios](https://dev.to/urielsouza29/egoless-craftingcriacao-sem-ego-para-sofwtare-os-principios-119j)
 <!-- BLOG-POST-LIST:END -->
 
