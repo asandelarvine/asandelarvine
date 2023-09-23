@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of note taking...](https://dev.to/michthebrandofficial/benefits-of-note-taking-2e5a)
 - [Taming one of the trickiest business concepts](https://dev.to/apetryla/taming-one-of-the-trickiest-business-concepts-kdb)
 - [Largest free templates gallery for web developers](https://dev.to/luciantartea/largest-free-templates-gallery-for-web-developers-5fj4)
 - [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
-- [Frontend Architecture: The Architecture &lpar;Part. 6&rpar;](https://dev.to/hamed_farag/frontend-architecture-the-architecture-part-6-ae0)
 <!-- BLOG-POST-LIST:END -->
 
