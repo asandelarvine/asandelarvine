@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Money on GitHub: A Guide for Developers](https://dev.to/1amkaizen/making-money-on-github-a-guide-for-developers-815)
-- [How are threads created in Linux x86_64](https://dev.to/betobit/how-are-threads-created-in-linux-x8664-4cl1)
-- [Align e Justify no Flexbox e no Grid pra você nunca mais confundir](https://dev.to/lixeletto/align-e-justify-no-flexbox-e-no-grid-pra-voce-nunca-mais-confundir-17l2)
-- [Mastering Diagrams: A Professional Approach to Enhancing Visuals with ChatGPT and Mermaid](https://dev.to/adelshousha/mastering-diagrams-a-professional-approach-to-enhancing-visuals-with-chatgpt-and-mermaid-51l3)
+- [First Coding Burnout?](https://dev.to/devteam/first-coding-burnout-aib)
+- [Do Mechanical Keyboards Boost Coding?](https://dev.to/codenewbieteam/do-mechanical-keyboards-boost-coding-4gom)
+- [&quot;type&quot; keyword in Typescript | What is Type Alias ?](https://dev.to/diwakarkashyap/type-keyword-in-typescript-what-is-type-alias--3bim)
+- [Importance Of Scalability In Software](https://dev.to/aravindvenkatesan/importance-of-scalability-in-software-18p2)
 <!-- BLOG-POST-LIST:END -->
 
