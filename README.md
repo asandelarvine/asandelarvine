@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How are threads created in Linux x86_64](https://dev.to/betobit/how-are-threads-created-in-linux-x8664-4cl1)
+- [Align e Justify no Flexbox e no Grid pra você nunca mais confundir](https://dev.to/lixeletto/align-e-justify-no-flexbox-e-no-grid-pra-voce-nunca-mais-confundir-17l2)
 - [Mastering Diagrams: A Professional Approach to Enhancing Visuals with ChatGPT and Mermaid](https://dev.to/adelshousha/mastering-diagrams-a-professional-approach-to-enhancing-visuals-with-chatgpt-and-mermaid-51l3)
 - [I Built A SaaS Directory That Uses AI To Recommend Tools](https://dev.to/johnwritescode_/i-built-a-saas-directory-that-uses-ai-to-recommend-tools-14c7)
-- [Kafka Ease: Simplifying Kafka Topic and ACL Management](https://dev.to/rdomenzain/kafka-ease-simplifying-kafka-topic-and-acl-management-p3e)
 <!-- BLOG-POST-LIST:END -->
 
