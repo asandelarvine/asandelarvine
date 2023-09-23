@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Backup and Disaster Recovery Strategies](https://dev.to/scofieldidehen/advanced-backup-and-disaster-recovery-strategies-12h7)
-- [Getting Saucy: I joined OpenSauced!](https://dev.to/nickytonline/getting-saucy-i-joined-opensauced-2ici)
-- [Getting Started with Flutter: Building a Cross-Platform Mobile App](https://dev.to/code_jedi/getting-started-with-flutter-building-a-cross-platform-mobile-app-5caa)
-- [Accenture - ASE Interview Experience](https://dev.to/anubhav-gupta/accenture-ase-interview-experience-3kma)
+- [😍BEST😍 CSS Animation Generator Online Website](https://dev.to/noobizdev/best-css-animation-generator-online-website-40dh)
+- [How to Setup Tailwind CSS in React JS with VS Code](https://dev.to/david_bilsonn/how-to-setup-tailwind-css-in-react-js-with-vs-code-59p4)
+- [Building a Workout Tracker Web App with React and Docker Part 1](https://dev.to/scofieldidehen/building-a-workout-tracker-web-app-with-react-and-docker-part-1-p9c)
+- [AndShare CMS: A new age of content curation, development, and syndication](https://dev.to/gbti/introducing-andshare-cms-navigating-a-new-age-of-content-curation-development-and-syndication-with-llms-32di)
 <!-- BLOG-POST-LIST:END -->
 
