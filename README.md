@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Do Mechanical Keyboards Boost Coding?](https://dev.to/codenewbieteam/do-mechanical-keyboards-boost-coding-4gom)
 - [First Coding Burnout?](https://dev.to/devteam/first-coding-burnout-aib)
+- [How to use a single base URL for multiple services in big serverless applications — SAM, API gateway](https://dev.to/aws-builders/how-to-use-a-single-base-url-for-multiple-services-in-big-serverless-applications-sam-api-gateway-2hep)
 - [&quot;type&quot; keyword in Typescript | What is Type Alias ?](https://dev.to/diwakarkashyap/type-keyword-in-typescript-what-is-type-alias--3bim)
-- [Importance Of Scalability In Software](https://dev.to/aravindvenkatesan/importance-of-scalability-in-software-18p2)
 <!-- BLOG-POST-LIST:END -->
 
