@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Diagrams: A Professional Approach to Enhancing Visuals with ChatGPT and Mermaid](https://dev.to/adelshousha/mastering-diagrams-a-professional-approach-to-enhancing-visuals-with-chatgpt-and-mermaid-51l3)
 - [What is the __ programming language?](https://dev.to/pxlmastrxd/what-is-the-programming-language-4dc7)
 - [I Built A SaaS Directory That Uses AI To Recommend Tools](https://dev.to/johnwritescode_/i-built-a-saas-directory-that-uses-ai-to-recommend-tools-14c7)
 - [What is JavaScript&lpar;and what can you do with it&rpar;](https://dev.to/annoh_karlgusta/what-is-javascriptand-what-can-you-do-with-it-5fec)
-- [What and Why to use HOCs in React](https://dev.to/xmohamedawad/what-and-why-to-use-hocs-in-react-1m8m)
 <!-- BLOG-POST-LIST:END -->
 
