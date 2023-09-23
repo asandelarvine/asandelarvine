@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debouncing and Throttling: Choosing the Right Strategy for Your Web Projects.](https://dev.to/kartikbudhraja/debouncing-and-throttling-choosing-the-right-strategy-for-your-web-projects-5cjh)
+- [Egoless Crafting&lpar;criação sem ego&rpar; para software: os princípios](https://dev.to/urielsouza29/egoless-craftingcriacao-sem-ego-para-sofwtare-os-principios-119j)
 - [&quot;as&quot; in TypeScript | &quot;as&quot; keyword in TypeScript](https://dev.to/diwakarkashyap/as-in-typescript-as-keyword-in-typescript-31k7)
 - [Benefits of note taking...](https://dev.to/michthebrandofficial/benefits-of-note-taking-2e5a)
-- [Taming one of the trickiest business concepts](https://dev.to/apetryla/taming-one-of-the-trickiest-business-concepts-kdb)
-- [HTMLrev free templates gallery for web developers](https://dev.to/luciantartea/largest-free-templates-gallery-for-web-developers-5fj4)
 <!-- BLOG-POST-LIST:END -->
 
