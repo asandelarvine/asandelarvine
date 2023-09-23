@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;as&quot; in TypeScript | &quot;as&quot; keyword in TypeScript](https://dev.to/diwakarkashyap/as-in-typescript-as-keyword-in-typescript-31k7)
 - [Benefits of note taking...](https://dev.to/michthebrandofficial/benefits-of-note-taking-2e5a)
 - [Taming one of the trickiest business concepts](https://dev.to/apetryla/taming-one-of-the-trickiest-business-concepts-kdb)
-- [Largest free templates gallery for web developers](https://dev.to/luciantartea/largest-free-templates-gallery-for-web-developers-5fj4)
-- [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
+- [HTMLrev free templates gallery for web developers](https://dev.to/luciantartea/largest-free-templates-gallery-for-web-developers-5fj4)
 <!-- BLOG-POST-LIST:END -->
 
