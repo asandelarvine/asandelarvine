@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Asynchronous Programming in JavaScript: Unraveling the Magic of async/await, Promises, and More](https://dev.to/oluwatobi_/mastering-asynchronous-programming-in-javascript-unraveling-the-magic-of-asyncawait-promises-and-more-3lc5)
 - [😍BEST😍 CSS Animation Generator Online Website](https://dev.to/noobizdev/best-css-animation-generator-online-website-40dh)
 - [How to Setup Tailwind CSS in React JS with VS Code](https://dev.to/david_bilsonn/how-to-setup-tailwind-css-in-react-js-with-vs-code-59p4)
 - [Código Limpo - Capítulo 4](https://dev.to/loremimpsu/codigo-limpo-capitulo-4-24ne)
-- [Building a Workout Tracker Web App with React and Docker Part 1](https://dev.to/scofieldidehen/building-a-workout-tracker-web-app-with-react-and-docker-part-1-p9c)
 <!-- BLOG-POST-LIST:END -->
 
