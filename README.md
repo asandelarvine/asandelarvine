@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode, Hard++ &lpar;Acceptance 24%, Latest&rpar;: 2867. Count Valid Paths in a Tree. DFS. O&lpar;n&rpar;. Swift.](https://dev.to/sergeyleschev/leetcode-hard-acceptance-24-2867-count-valid-paths-in-a-tree-latest-swift-dfs-on-34nm)
+- [Seeding Database With Drizzle ORM](https://dev.to/anasrin/seeding-database-with-drizzle-orm-fga)
 - [A Detailed Introduction To JavaScript Objects](https://dev.to/thejason/a-detailed-introduction-to-javascript-objects-4p73)
 - [Guess the JavaScript Output: Level impossible!](https://dev.to/sadeedpv/guess-the-javascript-output-level-impossible-4bp3)
-- [Machine Learning Model Deployment with FastAPI and Docker](https://dev.to/code_jedi/machine-learning-model-deployment-with-fastapi-and-docker-llo)
-- [Exploring the Magic of JavaScript Sets and Maps 🗺️](https://dev.to/taquiimam14/exploring-the-magic-of-javascript-sets-and-maps-3df1)
 <!-- BLOG-POST-LIST:END -->
 
