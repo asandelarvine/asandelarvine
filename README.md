@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing NeoHaskell: A beacon of joy in a greyed tech world](https://dev.to/neohaskell/introducing-neohaskell-a-beacon-of-joy-in-a-greyed-tech-world-4f9b)
+- [Drupal 10.1 On OpenBSD 7.3: Install with Composer](https://dev.to/nabbisen/drupal-101-on-openbsd-73-install-with-composer-58mm)
 - [10 Exceptional Developer Tools Launched in 2023](https://dev.to/ronakmunjapara/10-exceptional-developer-tools-launched-in-2023-276m)
 - [Master Leet code : LeetCode 799 - Champagne Tower](https://dev.to/speaklouder/master-leet-code-leetcode-799-champagne-tower-1p86)
-- [Simplify State Management with Provider in Flutter](https://dev.to/raman04byte/simplify-state-management-with-provider-in-flutter-37bj)
-- [Using Content Security Policy headers with React &amp; emotion](https://dev.to/ranquild/using-content-security-policy-headers-with-react-emotion-1a0f)
 <!-- BLOG-POST-LIST:END -->
 
