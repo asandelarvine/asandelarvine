@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Top 20 Programming Languages and Their Origins](https://dev.to/scofieldidehen/the-top-20-programming-languages-and-their-origins-22pd)
-- [Introducing NeoHaskell: A beacon of joy in a greyed tech world](https://dev.to/neohaskell/introducing-neohaskell-a-beacon-of-joy-in-a-greyed-tech-world-4f9b)
-- [Drupal 10.1 On OpenBSD 7.3: Install with Composer](https://dev.to/nabbisen/drupal-101-on-openbsd-73-install-with-composer-58mm)
-- [Starting a Startup from Zero - EP 1: Idea 💡](https://dev.to/wimadev/starting-a-startup-from-zero-ep-1-idea-35n8)
+- [React Advanced: Decoupling your components in the right way](https://dev.to/riktar/react-advance-decoupling-your-components-in-the-right-way-4pkn)
+- [Los 20 principales lenguajes de programación 🚀](https://dev.to/yoezequiel/los-20-principales-lenguajes-de-programacion-2n7n)
+- [Step by Step instruction hosting on aks cluster for begineers](https://dev.to/jaganrajagopal/step-by-step-instruction-hosting-on-aks-cluster-for-begineers-2fb9)
+- [Build your own toxic comment detector API](https://dev.to/emmakodes_/build-your-own-toxic-comment-detector-api-2fe5)
 <!-- BLOG-POST-LIST:END -->
 
