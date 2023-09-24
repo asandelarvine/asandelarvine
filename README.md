@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Mastering useEffect: Rules, Best Practices, and Pitfalls](https://dev.to/cybermaxi7/mastering-useeffect-rules-best-practices-and-pitfalls-353e)
 - [Making Numbers Speak Your Language in JavaScript](https://dev.to/diorla/making-numbers-speak-your-language-in-javascript-44j6)
+- [All you need to know about metadata in next.js 13 by Anik Routh](https://dev.to/anikrouth/all-you-need-to-know-about-metadata-in-nextjs-13-by-anik-routh-1e8i)
 - [HTTP Status Codes That Will Make You Think](https://dev.to/pragativerma18/http-status-codes-that-will-make-you-think-5mc)
-- [Mock API For Testing](https://dev.to/ankitjaininfo/mock-api-for-testing-20n)
 <!-- BLOG-POST-LIST:END -->
 
