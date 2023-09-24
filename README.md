@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⭐️ Optimizes your response using Laravel Resource Reducer](https://dev.to/sethsandaru/optimizes-your-response-using-laravel-resource-reducer-49ni)
 - [What&#39;s the Main Issue in Software Today?](https://dev.to/devteam/whats-the-main-issue-in-software-today-4nk1)
 - [Taking Ownership as a Developer](https://dev.to/everas7/taking-ownership-as-a-developer-4mnc)
 - [Mastering Asynchronous Programming in JavaScript: Unraveling the Magic of async/await, Promises, and More](https://dev.to/oluwatobi_/mastering-asynchronous-programming-in-javascript-unraveling-the-magic-of-asyncawait-promises-and-more-3lc5)
-- [How to Setup Tailwind CSS in React JS with VS Code](https://dev.to/david_bilsonn/how-to-setup-tailwind-css-in-react-js-with-vs-code-59p4)
 <!-- BLOG-POST-LIST:END -->
 
