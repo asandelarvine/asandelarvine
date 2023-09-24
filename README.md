@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering useEffect: Rules, Best Practices, and Pitfalls](https://dev.to/cybermaxi7/mastering-useeffect-rules-best-practices-and-pitfalls-353e)
 - [Making Numbers Speak Your Language in JavaScript](https://dev.to/diorla/making-numbers-speak-your-language-in-javascript-44j6)
 - [HTTP Status Codes That Will Make You Think](https://dev.to/pragativerma18/http-status-codes-that-will-make-you-think-5mc)
 - [Mock API For Testing](https://dev.to/ankitjaininfo/mock-api-for-testing-20n)
-- [React Advanced: Decoupling your components in the right way](https://dev.to/riktar/react-advance-decoupling-your-components-in-the-right-way-4pkn)
 <!-- BLOG-POST-LIST:END -->
 
