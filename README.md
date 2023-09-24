@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master Leet code : LeetCode 799 - Champagne Tower](https://dev.to/speaklouder/master-leet-code-leetcode-799-champagne-tower-1p86)
+- [Simplify State Management with Provider in Flutter](https://dev.to/raman04byte/simplify-state-management-with-provider-in-flutter-37bj)
 - [Using Content Security Policy headers with React &amp; emotion](https://dev.to/ranquild/using-content-security-policy-headers-with-react-emotion-1a0f)
 - [Art of creating accessible link](https://dev.to/this-is-learning/art-of-creating-accessible-link-5glk)
-- [PostgreSQL 16 Installation on Ubuntu 22.04](https://dev.to/rainbowhat/postgresql-16-installation-on-ubuntu-2204-51ia)
-- [LeetCode, Hard++ &lpar;Acceptance 24%, Latest&rpar;: 2867. Count Valid Paths in a Tree. DFS. O&lpar;n&rpar;. Swift.](https://dev.to/sergeyleschev/leetcode-hard-acceptance-24-2867-count-valid-paths-in-a-tree-latest-swift-dfs-on-34nm)
 <!-- BLOG-POST-LIST:END -->
 
