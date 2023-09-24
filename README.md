@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mock API For Testing](https://dev.to/ankitjaininfo/mock-api-for-testing-20n)
 - [React Advanced: Decoupling your components in the right way](https://dev.to/riktar/react-advance-decoupling-your-components-in-the-right-way-4pkn)
 - [Los 20 principales lenguajes de programación 🚀](https://dev.to/yoezequiel/los-20-principales-lenguajes-de-programacion-2n7n)
 - [Step by Step instruction hosting on aks cluster for begineers](https://dev.to/jaganrajagopal/step-by-step-instruction-hosting-on-aks-cluster-for-begineers-2fb9)
-- [Build your own toxic comment detector API](https://dev.to/emmakodes_/build-your-own-toxic-comment-detector-api-2fe5)
 <!-- BLOG-POST-LIST:END -->
 
