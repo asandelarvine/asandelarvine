@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Match Case: A Switch Case Statement of Python](https://dev.to/sachingeek/match-case-a-switch-case-statement-of-python-250i)
+- [Mastering the Art of Software Design: Unveiling the Core Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-core-principles-1ag3)
 - [Rants of a Beginner Techie 2](https://dev.to/golden_builds/rants-of-a-beginner-techie-2-4c4o)
 - [Why is Programming so Difficult?](https://dev.to/scofieldidehen/why-is-programming-so-difficult-90p)
-- [⭐️ Optimizes your response using Laravel Resource Reducer](https://dev.to/sethsandaru/optimizes-your-response-using-laravel-resource-reducer-49ni)
-- [Elevate Your React App: A Guide to Enhanced SEO](https://dev.to/ethand91/elevate-your-react-app-a-guide-to-enhanced-seo-4ec1)
 <!-- BLOG-POST-LIST:END -->
 
