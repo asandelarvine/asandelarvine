@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Sentiment Analysis App with Python and Hugging Face Transformers](https://dev.to/code_jedi/building-a-sentiment-analysis-app-with-python-and-hugging-face-transformers-18f7)
+- [Top 50+ AWS Services That You Should Know in 2023](https://dev.to/firstfingerin/top-50-aws-services-that-you-should-know-in-2023-h02)
+- [5 steps to build an authority for you and your repository](https://dev.to/github20k/5-steps-to-build-an-authority-for-you-and-your-repository-2m5f)
 - [Is AI the Biggest Threat to Programming Jobs?](https://dev.to/codenewbieteam/is-ai-the-biggest-threat-to-programming-jobs-10f5)
-- [Match Case: A Switch Case Statement of Python](https://dev.to/sachingeek/match-case-a-switch-case-statement-of-python-250i)
-- [Mastering the Art of Software Design: Unveiling the Core Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-core-principles-1ag3)
-- [Rants of a Beginner Techie 2](https://dev.to/golden_builds/rants-of-a-beginner-techie-2-4c4o)
 <!-- BLOG-POST-LIST:END -->
 
