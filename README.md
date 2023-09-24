@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Exceptional Developer Tools Launched in 2023](https://dev.to/ronakmunjapara/10-exceptional-developer-tools-launched-in-2023-276m)
 - [Master Leet code : LeetCode 799 - Champagne Tower](https://dev.to/speaklouder/master-leet-code-leetcode-799-champagne-tower-1p86)
 - [Simplify State Management with Provider in Flutter](https://dev.to/raman04byte/simplify-state-management-with-provider-in-flutter-37bj)
 - [Using Content Security Policy headers with React &amp; emotion](https://dev.to/ranquild/using-content-security-policy-headers-with-react-emotion-1a0f)
-- [Art of creating accessible link](https://dev.to/this-is-learning/art-of-creating-accessible-link-5glk)
 <!-- BLOG-POST-LIST:END -->
 
