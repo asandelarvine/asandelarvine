@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rants of a Beginner Techie 2](https://dev.to/golden_builds/rants-of-a-beginner-techie-2-4c4o)
+- [Why is Programming so Difficult?](https://dev.to/scofieldidehen/why-is-programming-so-difficult-90p)
 - [⭐️ Optimizes your response using Laravel Resource Reducer](https://dev.to/sethsandaru/optimizes-your-response-using-laravel-resource-reducer-49ni)
-- [What&#39;s the Main Issue in Software Today?](https://dev.to/devteam/whats-the-main-issue-in-software-today-4nk1)
-- [Mastering Asynchronous Programming in JavaScript: Unraveling the Magic of async/await, Promises, and More](https://dev.to/oluwatobi_/mastering-asynchronous-programming-in-javascript-unraveling-the-magic-of-asyncawait-promises-and-more-3lc5)
-- [How to Setup Tailwind CSS in React JS with VS Code](https://dev.to/david_bilsonn/how-to-setup-tailwind-css-in-react-js-with-vs-code-59p4)
+- [Elevate Your React App: A Guide to Enhanced SEO](https://dev.to/ethand91/elevate-your-react-app-a-guide-to-enhanced-seo-4ec1)
 <!-- BLOG-POST-LIST:END -->
 
