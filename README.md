@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest is coming](https://dev.to/jarvisscript/hacktoberfest-is-coming-58a4)
+- [Enhancing Redwood: A Guide to Implementing Zod for Data Validation and Schema Sharing Between the API and Web Layers](https://dev.to/growms/enhancing-redwood-a-guide-to-implementing-zod-for-data-validation-and-schema-sharing-between-the-api-and-web-layers-4do0)
 - [Mastering useEffect: Rules, Best Practices, and Pitfalls](https://dev.to/cybermaxi7/mastering-useeffect-rules-best-practices-and-pitfalls-353e)
-- [Making Numbers Speak Your Language in JavaScript](https://dev.to/diorla/making-numbers-speak-your-language-in-javascript-44j6)
-- [All you need to know about metadata in next.js 13 by Anik Routh](https://dev.to/anikrouth/all-you-need-to-know-about-metadata-in-nextjs-13-by-anik-routh-1e8i)
-- [HTTP Status Codes That Will Make You Think](https://dev.to/pragativerma18/http-status-codes-that-will-make-you-think-5mc)
+- [TypeScript Documentary: the Web evolved with types!](https://dev.to/lucasm/review-of-typescript-documentary-the-web-evolved-with-types-3af1)
 <!-- BLOG-POST-LIST:END -->
 
