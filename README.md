@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is AI the Biggest Threat to Programming Jobs?](https://dev.to/codenewbieteam/is-ai-the-biggest-threat-to-programming-jobs-10f5)
 - [Match Case: A Switch Case Statement of Python](https://dev.to/sachingeek/match-case-a-switch-case-statement-of-python-250i)
 - [Mastering the Art of Software Design: Unveiling the Core Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-core-principles-1ag3)
 - [Rants of a Beginner Techie 2](https://dev.to/golden_builds/rants-of-a-beginner-techie-2-4c4o)
-- [Why is Programming so Difficult?](https://dev.to/scofieldidehen/why-is-programming-so-difficult-90p)
 <!-- BLOG-POST-LIST:END -->
 
