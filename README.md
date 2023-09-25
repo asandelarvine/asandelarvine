@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Earworm Edition 👂🐛&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-earworm-edition--41p3)
-- [Host Docker Image Builds with GitHub](https://dev.to/rainbowhat/host-docker-image-builds-with-github-3jeo)
-- [Optimizing JavaScript Runtime for Peak Performance](https://dev.to/codingcrafts/optimizing-javascript-runtime-for-peak-performance-30f)
-- [Handling Broken Images in React](https://dev.to/eidellev/handling-broken-images-in-react-4oo2)
+- [Django: What, Why, and How?](https://dev.to/ghubrakesh/django-what-why-and-how-agk)
+- [Meme Monday](https://dev.to/ben/meme-monday-an6)
+- [From LCP to CLS: Improve your Core Web Vitals with Image Loading Best Practices](https://dev.to/whitep4nth3r/from-lcp-to-cls-improve-your-core-web-vitals-with-image-loading-best-practices-j6k)
+- [&quot;@ts-expect-error&quot; over &quot;@ts-ignore&quot; in TypeScript](https://dev.to/maafaishal/ts-expect-error-over-ts-ignore-in-typescript-5140)
 <!-- BLOG-POST-LIST:END -->
 
