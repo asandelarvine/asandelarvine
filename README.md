@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Os limites do Tailwind CSS](https://dev.to/lixeletto/os-limites-do-tailwind-css-55od)
+- [Surviving the LLM Jungle: When to use Prompt Engineering, Retrieval Augmented Generation or Fine Tuning?](https://dev.to/rafaelpierre/surviving-the-llm-jungle-when-to-use-prompt-engineering-retrieval-augmented-generation-or-fine-tuning-4j9m)
+- [🦖 APIs, fetch and Deno or how I make rate limiter](https://dev.to/sevapp/apis-fetch-and-deno-or-how-i-make-rate-limiter-1ch0)
 - [React Hooks now part of Ably’s JavaScript SDK &lpar;and how to build a simple React App with Ably&rpar;](https://dev.to/ably/react-hooks-now-part-of-ablys-javascript-sdk-and-how-to-build-a-simple-react-app-with-ably-588i)
-- [Aggregate streaming data within windows of time using Atlas Stream Processing](https://dev.to/mongodb/aggregate-streaming-data-within-windows-of-time-using-atlas-stream-processing-1lm1)
-- [ClickOps to GitOps &lpar;an Azure Marketplace story&rpar;](https://dev.to/azure/clickops-to-gitops-an-azure-marketplace-story-1353)
-- [Share us your project for Hacktoberfest 2023!](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2023-3phg)
 <!-- BLOG-POST-LIST:END -->
 
