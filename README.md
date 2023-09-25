@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django: What, Why, and How?](https://dev.to/ghubrakesh/django-what-why-and-how-agk)
-- [Meme Monday](https://dev.to/ben/meme-monday-an6)
-- [From LCP to CLS: Improve your Core Web Vitals with Image Loading Best Practices](https://dev.to/whitep4nth3r/from-lcp-to-cls-improve-your-core-web-vitals-with-image-loading-best-practices-j6k)
-- [&quot;@ts-expect-error&quot; over &quot;@ts-ignore&quot; in TypeScript](https://dev.to/maafaishal/ts-expect-error-over-ts-ignore-in-typescript-5140)
+- [PHP easy file handling](https://dev.to/domnyus/php-easy-file-handling-2fcf)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-e7o)
+- [Meet Your Short Term Cross Browser Testing Needs](https://dev.to/lambdatest/meet-your-short-term-cross-browser-testing-needs-4hg9)
+- [Perform Easy Cross Browser Testing With LambdaTest WordPress Plugin](https://dev.to/lambdatest/perform-easy-cross-browser-testing-with-lambdatest-wordpress-plugin-4b2g)
 <!-- BLOG-POST-LIST:END -->
 
