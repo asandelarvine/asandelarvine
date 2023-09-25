@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Serverless Reader View with Lambda and Chrome](https://dev.to/aws-builders/building-a-serverless-reader-view-with-lambda-and-chrome-766)
-- [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
-- [Deploying Bun Apps On Hetzner](https://dev.to/code42cate/deploying-bun-apps-on-hetzner-33kb)
-- [AI Tools Directory](https://dev.to/foxinfotech/ai-tools-directory-2k8o)
+- [Handling Broken Images in React](https://dev.to/eidellev/handling-broken-images-in-react-4oo2)
+- [Easy K8S Connectivity for Local Utils](https://dev.to/t4lz/easy-k8s-connectivity-for-local-utils-1mfc)
+- [Mastering the Essentials: 10 Fundamental SQL Commands for Beginners](https://dev.to/grayhat/mastering-the-essentials-10-fundamental-sql-commands-for-beginners-1ig4)
+- [Don&#39;t Build Docker Apps Without This Flag](https://dev.to/code42cate/dont-build-docker-apps-without-this-flag-48kg)
 <!-- BLOG-POST-LIST:END -->
 
