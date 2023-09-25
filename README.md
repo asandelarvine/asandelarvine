@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP easy file handling](https://dev.to/domnyus/php-easy-file-handling-2fcf)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-e7o)
-- [Meet Your Short Term Cross Browser Testing Needs](https://dev.to/lambdatest/meet-your-short-term-cross-browser-testing-needs-4hg9)
-- [Perform Easy Cross Browser Testing With LambdaTest WordPress Plugin](https://dev.to/lambdatest/perform-easy-cross-browser-testing-with-lambdatest-wordpress-plugin-4b2g)
+- [Vulnerability Scanning of Node.js Applications](https://dev.to/saint_vandora/vulnerability-scanning-of-nodejs-applications-1oic)
+- [Open Source ABCs: Stack Overflow](https://dev.to/opensauced/open-source-abcs-stack-overflow-2jj)
+- [Thrilling Features of ECMAScript 2023 &lpar;ES14&rpar;](https://dev.to/dhanushnehru/thrilling-features-of-ecmascript-2023-es14-9mp)
+- [React Props vs State: What&#39;s the Difference?](https://dev.to/highflyer910/react-props-vs-state-whats-the-difference-4e3i)
 <!-- BLOG-POST-LIST:END -->
 
