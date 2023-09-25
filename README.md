@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 CSS Frameworks](https://dev.to/hasanelsherbiny/top-5-css-frameworks-4hk2)
-- [🌲Svelte + 🍃Leaflet + 📍 Clusters](https://dev.to/arnaudfl/svelte-leaflet-clusters-1fgb)
-- [Top 10 Hackers](https://dev.to/scofieldidehen/top-10-hackers-4c7m)
-- [Demystifying Laravel Design Patterns: Building Robust Applications](https://dev.to/arafatweb/demystifying-laravel-design-patterns-building-robust-applications-pha)
+- [A complete guide on React fundamentals: Props and State](https://dev.to/ifourtechnolab/a-complete-guide-on-react-fundamentals-props-and-state-4ad4)
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-1kbn)
+- [Can Anyone Master Coding?](https://dev.to/codenewbieteam/can-anyone-master-coding-p1f)
+- [Canyon Escape - a Power Automate Game](https://dev.to/wyattdave/canyon-escape-a-power-automate-game-52ec)
 <!-- BLOG-POST-LIST:END -->
 
