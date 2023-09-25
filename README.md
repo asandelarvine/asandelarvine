@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Tools Directory](https://dev.to/foxinfotech/ai-tools-directory-2k8o)
+- [My Database History](https://dev.to/mainarthur/my-database-history-mfg)
+- [AWS - Red Hat OpenShift for Everyone series &lpar; I - Intro&rpar;](https://dev.to/aws-builders/aws-red-hat-openshift-for-everyone-series-i-intro-3ib9)
 - [Scope Creep: Causes, Examples, and How to Avoid It](https://dev.to/hatica/scope-creep-causes-examples-and-how-to-avoid-it-46k5)
-- [Server-side integration with Sitecore Personalize API](https://dev.to/annagevel/server-side-integration-with-sitecore-personalize-api-4ce)
-- [🦊 GitLab CI: 10+ Best Practices to Avoid Widespread Anti-patterns](https://dev.to/zenika/gitlab-ci-10-best-practices-to-avoid-widespread-anti-patterns-2mb5)
-- [Weekly Roundup &lpar;Sep 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-18-hot-topics-in-workplace-sharepoint-and-powerplatform-255d)
 <!-- BLOG-POST-LIST:END -->
 
