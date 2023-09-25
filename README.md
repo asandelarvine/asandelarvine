@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Connecting Multiple Kafka Clusters in ClickHouse Using Named Collections](https://dev.to/ranjbaryshahab/connecting-multiple-kafka-clusters-in-clickhouse-using-named-collections-4i79)
+- [Is There a Developer Shortage?](https://dev.to/devteam/is-there-a-developer-shortage-2l56)
 - [Hacktoberfest is coming](https://dev.to/jarvisscript/hacktoberfest-is-coming-58a4)
-- [Enhancing Redwood: A Guide to Implementing Zod for Data Validation and Schema Sharing Between the API and Web Layers](https://dev.to/growms/enhancing-redwood-a-guide-to-implementing-zod-for-data-validation-and-schema-sharing-between-the-api-and-web-layers-4do0)
-- [Mastering useEffect: Rules, Best Practices, and Pitfalls](https://dev.to/cybermaxi7/mastering-useeffect-rules-best-practices-and-pitfalls-353e)
-- [TypeScript Documentary: the Web evolved with types!](https://dev.to/lucasm/review-of-typescript-documentary-the-web-evolved-with-types-3af1)
+- [OpenMP Notes](https://dev.to/winstonpuckett/openmp-notes-1cfa)
 <!-- BLOG-POST-LIST:END -->
 
