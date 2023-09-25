@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Os limites do Tailwind CSS](https://dev.to/lixeletto/os-limites-do-tailwind-css-55od)
-- [Surviving the LLM Jungle: When to use Prompt Engineering, Retrieval Augmented Generation or Fine Tuning?](https://dev.to/rafaelpierre/surviving-the-llm-jungle-when-to-use-prompt-engineering-retrieval-augmented-generation-or-fine-tuning-4j9m)
-- [🦖 APIs, fetch and Deno or how I make rate limiter](https://dev.to/sevapp/apis-fetch-and-deno-or-how-i-make-rate-limiter-1ch0)
-- [React Hooks now part of Ably’s JavaScript SDK &lpar;and how to build a simple React App with Ably&rpar;](https://dev.to/ably/react-hooks-now-part-of-ablys-javascript-sdk-and-how-to-build-a-simple-react-app-with-ably-588i)
+- [👑👑ℹ Content is King; Community is Queen, and Data is the heir apparent!](https://dev.to/dumebii/content-is-king-community-is-queen-and-data-is-the-heir-apparent-4o26)
+- [The Limits of Tailwind CSS](https://dev.to/lixeletto/the-limits-of-tailwind-css-2pg0)
+- [FLaNK Stack for 25 September 2023](https://dev.to/tspannhw/flank-stack-for-25-september-2023-4ib1)
+- [Community Spotlight: Casey Kolderup, creator of Postmarks, has joined the W3C’s Social Web Community Group!](https://dev.to/fastly/community-spotlight-casey-kolderup-creator-of-postmarks-has-joined-the-w3cs-social-web-community-group-bf8)
 <!-- BLOG-POST-LIST:END -->
 
