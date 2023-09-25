@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Serverless Reader View with Lambda and Chrome](https://dev.to/aws-builders/building-a-serverless-reader-view-with-lambda-and-chrome-766)
+- [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
+- [Deploying Bun Apps On Hetzner](https://dev.to/code42cate/deploying-bun-apps-on-hetzner-33kb)
 - [AI Tools Directory](https://dev.to/foxinfotech/ai-tools-directory-2k8o)
-- [My Database History](https://dev.to/mainarthur/my-database-history-mfg)
-- [AWS - Red Hat OpenShift for Everyone series &lpar; I - Intro&rpar;](https://dev.to/aws-builders/aws-red-hat-openshift-for-everyone-series-i-intro-3ib9)
-- [Scope Creep: Causes, Examples, and How to Avoid It](https://dev.to/hatica/scope-creep-causes-examples-and-how-to-avoid-it-46k5)
 <!-- BLOG-POST-LIST:END -->
 
