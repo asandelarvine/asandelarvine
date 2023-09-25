@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup &lpar;Sep 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-18-hot-topics-in-workplace-sharepoint-and-powerplatform-255d)
+- [Event-Driven Architecture 101](https://dev.to/encore/event-driven-architecture-101-26ph)
+- [How to prevent breaking API changes with API Gateway](https://dev.to/apisix/how-to-prevent-breaking-api-changes-with-api-gateway-13ca)
 - [A complete guide on React fundamentals: Props and State](https://dev.to/ifourtechnolab/a-complete-guide-on-react-fundamentals-props-and-state-4ad4)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-1kbn)
-- [Can Anyone Master Coding?](https://dev.to/codenewbieteam/can-anyone-master-coding-p1f)
-- [Canyon Escape - a Power Automate Game](https://dev.to/wyattdave/canyon-escape-a-power-automate-game-52ec)
 <!-- BLOG-POST-LIST:END -->
 
