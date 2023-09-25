@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scope Creep: Causes, Examples, and How to Avoid It](https://dev.to/hatica/scope-creep-causes-examples-and-how-to-avoid-it-46k5)
+- [Server-side integration with Sitecore Personalize API](https://dev.to/annagevel/server-side-integration-with-sitecore-personalize-api-4ce)
+- [🦊 GitLab CI: 10+ Best Practices to Avoid Widespread Anti-patterns](https://dev.to/zenika/gitlab-ci-10-best-practices-to-avoid-widespread-anti-patterns-2mb5)
 - [Weekly Roundup &lpar;Sep 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-18-hot-topics-in-workplace-sharepoint-and-powerplatform-255d)
-- [Event-Driven Architecture 101](https://dev.to/encore/event-driven-architecture-101-26ph)
-- [How to prevent breaking API changes with API Gateway](https://dev.to/apisix/how-to-prevent-breaking-api-changes-with-api-gateway-13ca)
-- [A complete guide on React fundamentals: Props and State](https://dev.to/ifourtechnolab/a-complete-guide-on-react-fundamentals-props-and-state-4ad4)
 <!-- BLOG-POST-LIST:END -->
 
