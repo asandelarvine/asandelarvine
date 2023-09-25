@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [👑👑ℹ Content is King; Community is Queen, and Data is the heir apparent!](https://dev.to/dumebii/content-is-king-community-is-queen-and-data-is-the-heir-apparent-4o26)
-- [The Limits of Tailwind CSS](https://dev.to/lixeletto/the-limits-of-tailwind-css-2pg0)
-- [FLaNK Stack for 25 September 2023](https://dev.to/tspannhw/flank-stack-for-25-september-2023-4ib1)
-- [Community Spotlight: Casey Kolderup, creator of Postmarks, has joined the W3C’s Social Web Community Group!](https://dev.to/fastly/community-spotlight-casey-kolderup-creator-of-postmarks-has-joined-the-w3cs-social-web-community-group-bf8)
+- [📣 Registration Opens Today! Hacktoberfest 2023 🍁🎃](https://dev.to/devteam/registration-opens-today-hacktoberfest-2023-5898)
+- [Navigating the Waters of Unemployment in Tech: 5 Months and Counting](https://dev.to/philipjohnbasile/navigating-the-waters-of-unemployment-in-tech-5-months-and-counting-5hm5)
+- [How to Be a Good Open Source Contributor During Hacktoberfest and Beyond](https://dev.to/github/how-to-be-a-good-open-source-contributor-during-hacktoberfest-and-beyond-cdi)
+- [Tech in the tent](https://dev.to/andypiper/tech-in-the-tent-35lk)
 <!-- BLOG-POST-LIST:END -->
 
