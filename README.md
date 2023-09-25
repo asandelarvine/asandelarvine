@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP Design Patterns: Active Record](https://dev.to/xxzeroxx/php-design-patterns-active-record-1i5)
 - [📣 Registration Opens Today! Hacktoberfest 2023 🍁🎃](https://dev.to/devteam/registration-opens-today-hacktoberfest-2023-5898)
+- [Hacktoberfest 2023 for Maintainers](https://dev.to/devteam/hacktoberfest-2023-for-maintainers-4fhj)
 - [Navigating the Waters of Unemployment in Tech: 5 Months and Counting](https://dev.to/philipjohnbasile/navigating-the-waters-of-unemployment-in-tech-5-months-and-counting-5hm5)
-- [How to Be a Good Open Source Contributor During Hacktoberfest and Beyond](https://dev.to/github/how-to-be-a-good-open-source-contributor-during-hacktoberfest-and-beyond-cdi)
-- [Tech in the tent](https://dev.to/andypiper/tech-in-the-tent-35lk)
 <!-- BLOG-POST-LIST:END -->
 
