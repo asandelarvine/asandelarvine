@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Earworm Edition 👂🐛&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-earworm-edition--41p3)
+- [Host Docker Image Builds with GitHub](https://dev.to/rainbowhat/host-docker-image-builds-with-github-3jeo)
+- [Optimizing JavaScript Runtime for Peak Performance](https://dev.to/codingcrafts/optimizing-javascript-runtime-for-peak-performance-30f)
 - [Handling Broken Images in React](https://dev.to/eidellev/handling-broken-images-in-react-4oo2)
-- [Easy K8S Connectivity for Local Utils](https://dev.to/t4lz/easy-k8s-connectivity-for-local-utils-1mfc)
-- [Mastering the Essentials: 10 Fundamental SQL Commands for Beginners](https://dev.to/grayhat/mastering-the-essentials-10-fundamental-sql-commands-for-beginners-1ig4)
-- [Don&#39;t Build Docker Apps Without This Flag](https://dev.to/code42cate/dont-build-docker-apps-without-this-flag-48kg)
 <!-- BLOG-POST-LIST:END -->
 
