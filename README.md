@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Laravel Design Patterns: Building Robust Applications](https://dev.to/arafatweb/demystifying-laravel-design-patterns-building-robust-applications-pha)
 - [C# Methods](https://dev.to/zafarurakov/c-methods-1hoa)
 - [Connecting Multiple Kafka Clusters in ClickHouse Using Named Collections](https://dev.to/ranjbaryshahab/connecting-multiple-kafka-clusters-in-clickhouse-using-named-collections-4i79)
 - [Is There a Developer Shortage?](https://dev.to/devteam/is-there-a-developer-shortage-2l56)
-- [Hacktoberfest is coming](https://dev.to/jarvisscript/hacktoberfest-is-coming-58a4)
 <!-- BLOG-POST-LIST:END -->
 
