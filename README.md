@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Design Patterns: Active Record](https://dev.to/xxzeroxx/php-design-patterns-active-record-1i5)
-- [📣 Registration Opens Today! Hacktoberfest 2023 🍁🎃](https://dev.to/devteam/registration-opens-today-hacktoberfest-2023-5898)
-- [Hacktoberfest 2023 for Maintainers](https://dev.to/devteam/hacktoberfest-2023-for-maintainers-4fhj)
-- [Navigating the Waters of Unemployment in Tech: 5 Months and Counting](https://dev.to/philipjohnbasile/navigating-the-waters-of-unemployment-in-tech-5-months-and-counting-5hm5)
+- [Handling state between multiple processes with elixir](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
+- [Which Developers Are in High Demand Now?](https://dev.to/devteam/which-developers-are-in-high-demand-now-5hga)
+- [Introducing NextJS Google Drive Directory: Simplifying Google Drive Navigation](https://dev.to/gbti/introducing-nextjs-google-drive-directory-simplifying-google-drive-navigation-4gc3)
+- [Understanding Object-Oriented Programming &lpar;OOP&rpar; in TypeScript: Key Concepts and Practical Example](https://dev.to/frantchessico/understanding-object-oriented-programming-oop-in-typescript-key-concepts-and-practical-example-4e1a)
 <!-- BLOG-POST-LIST:END -->
 
