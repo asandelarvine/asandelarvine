@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Modern SQL Databases Are Changing Web Development - #2 New Ways to Program](https://dev.to/zenstack/how-modern-sql-databases-are-changing-web-development-2-new-ways-to-program-enm)
+- [Step-by-Step Guide to Setting Up Sauce Labs CI/CD with GitHub Actions for mobile App testing](https://dev.to/qaproengineer/step-by-step-guide-to-setting-up-sauce-labs-cicd-with-github-actions-for-mobile-app-testing-4a7n)
+- [Getting Started with Golang: An Introduction for Beginners](https://dev.to/frantchessico/getting-started-with-golang-an-introduction-for-beginners-4j02)
 - [Debugging Tips and Tricks: A Comprehensive Guide](https://dev.to/codenameone/debugging-tips-and-tricks-a-comprehensive-guide-4hb)
-- [How to Integrate Search Engine Optimization For Frontend Website](https://dev.to/scofieldidehen/how-to-integrate-search-engine-optimization-for-frontend-website-o7h)
-- [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/10-must-know-questions-for-junior-developers-what-are-the-differences-between-const-let-and-var-11le)
-- [👾 Getting started with Astro Framework](https://dev.to/refine/getting-started-with-astro-framework-2f2f)
 <!-- BLOG-POST-LIST:END -->
 
