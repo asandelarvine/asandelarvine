@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Learner’s Guide To No-code Development Platforms](https://dev.to/emilyjj09/a-learners-guide-to-no-code-development-platforms-1ffp)
+- [Starting a Startup from Zero - EP 3: Planning the MVP](https://dev.to/wimadev/starting-a-startup-from-zero-ep-3-creating-an-mvp-125i)
+- [Track the view controllers&#39; lifecycle using symbolic breakpoints in Xcode](https://dev.to/incodable/track-the-view-controllers-lifecycle-using-symbolic-breakpoints-in-xcode-1kn8)
 - [10 AI-Powered Tools to Boost Developer Productivity](https://dev.to/scofieldidehen/10-ai-powered-tools-to-boost-developer-productivity-413o)
-- [Navigating the Offshore Development Landscape: Outsourcing vs. In-House Development](https://dev.to/cynoteckts/navigating-the-offshore-development-landscape-outsourcing-vs-in-house-development-868)
-- [Simple API CRUD done with ExpressoTS and Postgres](https://dev.to/rsaz/simple-api-done-with-expressots-and-postgres-348l)
-- [Exploring Employee Content Creation: Is It Possible to Mirror Tik Tok or Instagram?](https://dev.to/jaloplo/exploring-employee-content-creation-is-it-possible-to-mirror-tik-tok-or-instagram-36io)
 <!-- BLOG-POST-LIST:END -->
 
