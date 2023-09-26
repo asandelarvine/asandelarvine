@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Modern SQL Databases Are Changing Web Development - #2 New Ways to Program](https://dev.to/zenstack/how-modern-sql-databases-are-changing-web-development-2-new-ways-to-program-enm)
-- [Step-by-Step Guide to Setting Up Sauce Labs CI/CD with GitHub Actions for mobile App testing](https://dev.to/qaproengineer/step-by-step-guide-to-setting-up-sauce-labs-cicd-with-github-actions-for-mobile-app-testing-4a7n)
-- [Getting Started with Golang: An Introduction for Beginners](https://dev.to/frantchessico/getting-started-with-golang-an-introduction-for-beginners-4j02)
-- [Debugging Tips and Tricks: A Comprehensive Guide](https://dev.to/codenameone/debugging-tips-and-tricks-a-comprehensive-guide-4hb)
+- [DEV Team Update](https://dev.to/devteam/dev-team-update-22c9)
+- [The Epic Saga of Former and Latter Approaches in Software Engineering: A Comprehensive Discourse](https://dev.to/lordneic/the-epic-saga-of-former-and-latter-approaches-in-software-engineering-a-comprehensive-discourse-4ea2)
+- [Learn AI for Free in 2023: The Expert List of Resources, Guidance, and Announced AI Events &lpar;in progress&rpar;](https://dev.to/missgorgeoustech/learn-ai-for-free-in-2023-the-expert-list-of-resources-guidance-and-announced-ai-events-in-progress-8hb)
+- [Building a store for digital products with Next.js and Medusa](https://dev.to/medusajs/building-a-store-for-digital-products-with-nextjs-and-medusa-1o6m)
 <!-- BLOG-POST-LIST:END -->
 
