@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TPScore: transactions per second metrics made easy](https://dev.to/fromaline/tpscore-transactions-per-second-metrics-made-easy-508f)
+- [Building a scheduler for a Rust application](https://dev.to/azasypkin/building-a-scheduler-for-a-rust-application-3kng)
+- [Hacktoberfest 2023: Beyond Green Squares](https://dev.to/opensauced/hacktoberfest-2023-beyond-green-squares-4d6j)
 - [The Secret to Achieving Your Goals: Getting Specific 🎯](https://dev.to/apetryla/the-secret-to-achieving-your-goals-getting-specific-21e1)
-- [A Learner’s Guide To No-code Development Platforms](https://dev.to/emilyjj09/a-learners-guide-to-no-code-development-platforms-1ffp)
-- [Starting a Startup from Zero - EP 3: Planning the MVP](https://dev.to/wimadev/starting-a-startup-from-zero-ep-3-creating-an-mvp-125i)
-- [Track the view controllers&#39; lifecycle using symbolic breakpoints in Xcode](https://dev.to/incodable/track-the-view-controllers-lifecycle-using-symbolic-breakpoints-in-xcode-1kn8)
 <!-- BLOG-POST-LIST:END -->
 
