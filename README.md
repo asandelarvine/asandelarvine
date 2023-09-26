@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-mg6)
-- [Can Top Devs Excel without Google Searches?](https://dev.to/codenewbieteam/can-top-devs-excel-without-google-searches-40d9)
-- [So chat GPT can hear now!!](https://dev.to/shreyvijayvargiya/so-chat-gpt-can-hear-now-4ggp)
-- [Nextjs useContext to change language html in layout.tsx from child component](https://dev.to/chungleba/nextjs-usecontext-to-change-language-html-in-layouttsx-from-child-component-3id8)
+- [10 AI-Powered Tools to Boost Developer Productivity](https://dev.to/scofieldidehen/10-ai-powered-tools-to-boost-developer-productivity-413o)
+- [Navigating the Offshore Development Landscape: Outsourcing vs. In-House Development](https://dev.to/cynoteckts/navigating-the-offshore-development-landscape-outsourcing-vs-in-house-development-868)
+- [Simple API CRUD done with ExpressoTS and Postgres](https://dev.to/rsaz/simple-api-done-with-expressots-and-postgres-348l)
+- [Exploring Employee Content Creation: Is It Possible to Mirror Tik Tok or Instagram?](https://dev.to/jaloplo/exploring-employee-content-creation-is-it-possible-to-mirror-tik-tok-or-instagram-36io)
 <!-- BLOG-POST-LIST:END -->
 
