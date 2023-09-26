@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Liman MYS&#39;de Vue.js ve typescript Template i Kullanarak Eklenti Nasıl Yazılır](https://dev.to/aciklab/liman-mysde-vuejs-ve-typescript-template-i-kullanarak-eklenti-nasil-yazilir-3lc8)
 - [Security Best Practices For GitHub Actions Secrets](https://dev.to/n3wt0n/security-best-practices-for-github-actions-secrets-jka)
 - [JavaScript Magic Tricks: Debugger Interception](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-debugger-interception-2gp)
 - [Top Programming Languages Sought by Employers in 2023 for Software Engineers](https://dev.to/chukwuma1976/top-programming-languages-sought-by-employers-in-2023-for-software-engineers-fh)
-- [Como o npm install resolve as dependências de um projeto](https://dev.to/dan_bertolini/como-o-npm-install-resolve-as-dependencias-de-um-projeto-25cm)
 <!-- BLOG-POST-LIST:END -->
 
