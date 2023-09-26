@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Our Hacktoberfest Issue Board!](https://dev.to/devteam/announcing-our-hacktoberfest-issue-board-1835)
+- [📣 Registration Opens Today! Hacktoberfest 2023 🍁🎃](https://dev.to/devteam/registration-opens-today-hacktoberfest-2023-5898)
 - [Addressing The Underworld of Software Engineering: Fixing Those Nasty Code Gremlins and Whimsical Architectures](https://dev.to/lordneic/addressing-the-underworld-of-software-engineering-fixing-those-nasty-code-gremlins-and-whimsical-architectures-15p2)
 - [Push Notification Using Firebase, Node.js, Flutter/Dart](https://dev.to/kleekit/push-notification-using-firebase-nodejs-flutterdart-4be5)
-- [An Introduction to Web Testing: Ensuring a Seamless Online Experience](https://dev.to/damilshahzad7/an-introduction-to-web-testing-ensuring-a-seamless-online-experience-4ni)
-- [DEV Team Update](https://dev.to/devteam/dev-team-update-22c9)
 <!-- BLOG-POST-LIST:END -->
 
