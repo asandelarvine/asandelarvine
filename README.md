@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Code: LeetCode 389 &lpar;simple method&rpar;](https://dev.to/speaklouder/cracking-the-code-leetcode-389-simple-method-1pef)
-- [Accordions: 1, 5 and 10 minute versions...all accessible [quicka11y]](https://dev.to/tota11ydev/accordions-1-5-and-10-minute-versionsall-accessible-quicka11y-2d3b)
-- [Efficient Dart: optimizing CPU-bound load in Flutter without missing a frame](https://dev.to/maximsaplin/efficient-dart-optimizing-cpu-bound-load-in-flutter-without-missing-a-frame-5dme)
-- [The Golden Assumptions of Product Design](https://dev.to/this-is-learning/the-golden-assumptions-of-product-design-119m)
+- [Debugging Tips and Tricks: A Comprehensive Guide](https://dev.to/codenameone/debugging-tips-and-tricks-a-comprehensive-guide-4hb)
+- [How to Integrate Search Engine Optimization For Frontend Website](https://dev.to/scofieldidehen/how-to-integrate-search-engine-optimization-for-frontend-website-o7h)
+- [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/10-must-know-questions-for-junior-developers-what-are-the-differences-between-const-let-and-var-11le)
+- [👾 Getting started with Astro Framework](https://dev.to/refine/getting-started-with-astro-framework-2f2f)
 <!-- BLOG-POST-LIST:END -->
 
