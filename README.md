@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Jest to bulletproof a TypeScript Class - Part 2](https://dev.to/joaotextor/using-jest-to-bulletproof-a-typescript-class-part-2-1njf)
+- [TOP Guide to Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
+- [Frontend podcast list 🎙️](https://dev.to/tech_foutraque/frontend-podcast-list-fh7)
 - [☁️ Serviços da AWS que vão te salvar em uma entrevista de system design &lpar;Part 1/4&rpar;](https://dev.to/vanessatelles/servicos-da-aws-que-vao-te-salvar-em-uma-entrevista-de-system-design-part-14-29jh)
-- [TypeScript: entendendo de forma simplificada esse superconjunto do JS.](https://dev.to/larideoliiveira/typescript-entendendo-de-forma-simplificada-esse-superconjunto-do-js-1m0c)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-160a)
-- [Announcing Our Hacktoberfest Issue Board!](https://dev.to/devteam/announcing-our-hacktoberfest-issue-board-1835)
 <!-- BLOG-POST-LIST:END -->
 
