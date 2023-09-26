@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Addressing The Underworld of Software Engineering: Fixing Those Nasty Code Gremlins and Whimsical Architectures](https://dev.to/lordneic/addressing-the-underworld-of-software-engineering-fixing-those-nasty-code-gremlins-and-whimsical-architectures-15p2)
+- [Push Notification Using Firebase, Node.js, Flutter/Dart](https://dev.to/kleekit/push-notification-using-firebase-nodejs-flutterdart-4be5)
+- [An Introduction to Web Testing: Ensuring a Seamless Online Experience](https://dev.to/damilshahzad7/an-introduction-to-web-testing-ensuring-a-seamless-online-experience-4ni)
 - [DEV Team Update](https://dev.to/devteam/dev-team-update-22c9)
-- [The Epic Saga of Former and Latter Approaches in Software Engineering: A Comprehensive Discourse](https://dev.to/lordneic/the-epic-saga-of-former-and-latter-approaches-in-software-engineering-a-comprehensive-discourse-4ea2)
-- [Learn AI for Free in 2023: The Expert List of Resources, Guidance, and Announced AI Events &lpar;in progress&rpar;](https://dev.to/missgorgeoustech/learn-ai-for-free-in-2023-the-expert-list-of-resources-guidance-and-announced-ai-events-in-progress-8hb)
-- [Building a store for digital products with Next.js and Medusa](https://dev.to/medusajs/building-a-store-for-digital-products-with-nextjs-and-medusa-1o6m)
 <!-- BLOG-POST-LIST:END -->
 
