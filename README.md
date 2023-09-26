@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Magic Tricks: Debugger Interception](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-debugger-interception-2gp)
+- [Top Programming Languages Sought by Employers in 2023 for Software Engineers](https://dev.to/chukwuma1976/top-programming-languages-sought-by-employers-in-2023-for-software-engineers-fh)
+- [Como o npm install resolve as dependências de um projeto](https://dev.to/dan_bertolini/como-o-npm-install-resolve-as-dependencias-de-um-projeto-25cm)
 - [Handling state between multiple processes with elixir](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
-- [Which Developers Are in High Demand Now?](https://dev.to/devteam/which-developers-are-in-high-demand-now-5hga)
-- [Introducing NextJS Google Drive Directory: Simplifying Google Drive Navigation](https://dev.to/gbti/introducing-nextjs-google-drive-directory-simplifying-google-drive-navigation-4gc3)
-- [Understanding Object-Oriented Programming &lpar;OOP&rpar; in TypeScript: Key Concepts and Practical Example](https://dev.to/frantchessico/understanding-object-oriented-programming-oop-in-typescript-key-concepts-and-practical-example-4e1a)
 <!-- BLOG-POST-LIST:END -->
 
