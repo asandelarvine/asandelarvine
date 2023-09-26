@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TPScore: transactions per second metrics made easy](https://dev.to/fromaline/tpscore-transactions-per-second-metrics-made-easy-508f)
-- [Building a scheduler for a Rust application](https://dev.to/azasypkin/building-a-scheduler-for-a-rust-application-3kng)
-- [Hacktoberfest 2023: Beyond Green Squares](https://dev.to/opensauced/hacktoberfest-2023-beyond-green-squares-4d6j)
-- [The Secret to Achieving Your Goals: Getting Specific 🎯](https://dev.to/apetryla/the-secret-to-achieving-your-goals-getting-specific-21e1)
+- [GPG/PGP Encryption Decryption](https://dev.to/silvenleaf/gpg-encryption-decryption-55cl)
+- [🚀 10 Github repositories to achieve Javascript mastery 🧙‍♂️🪄✨](https://dev.to/novu/10-github-repositories-to-achieve-javascript-mastery-50hk)
+- [VueJS part 5: Handling events](https://dev.to/hi_iam_chris/vuejs-part-5-handling-events-1p2a)
+- [Contributing to Tech Communities: How Open-Source can land you a job and get you out of the Skill Paradox 💼](https://dev.to/wasp/contributing-to-tech-communities-how-open-source-can-land-you-a-job-and-get-you-out-of-the-skill-paradox-4ejh)
 <!-- BLOG-POST-LIST:END -->
 
