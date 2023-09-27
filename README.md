@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When 20.5 billions is not enough](https://dev.to/inv2004/trying-to-restore-aws-account-5dh5)
+- [Simplifying AWS Access with Border0](https://dev.to/aws-builders/simplifying-aws-access-with-border0-eec)
+- [Beginner&#39;s Guide to Debugging &lpar;JavaScript&rpar;](https://dev.to/khamerling-potts/beginners-guide-to-debugging-javascript-1c3a)
 - [Sane front-end project architecture based on 12 years of experience](https://dev.to/bolshchikov/sane-front-end-project-architecture-based-on-12-years-of-experience-5051)
-- [🦖 Gentle, promise-based HTTP client for Deno and Node.js &lpar;part 2&rpar;](https://dev.to/sevapp/gentle-promise-based-http-client-for-deno-and-nodejs-part-2-1ian)
-- [A Step-by-Step Guide to Implementing React Router for Dynamic Single-Page Applications](https://dev.to/scofieldidehen/a-step-by-step-guide-to-implementing-react-router-for-dynamic-single-page-applications-34oh)
-- [Building an App in Jobber Platform](https://dev.to/jobber/building-an-app-in-jobber-platform-57aj)
 <!-- BLOG-POST-LIST:END -->
 
