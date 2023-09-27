@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sane front-end project architecture based on 12 years of experience](https://dev.to/bolshchikov/sane-front-end-project-architecture-based-on-12-years-of-experience-5051)
+- [🦖 Gentle, promise-based HTTP client for Deno and Node.js &lpar;part 2&rpar;](https://dev.to/sevapp/gentle-promise-based-http-client-for-deno-and-nodejs-part-2-1ian)
 - [A Step-by-Step Guide to Implementing React Router for Dynamic Single-Page Applications](https://dev.to/scofieldidehen/a-step-by-step-guide-to-implementing-react-router-for-dynamic-single-page-applications-34oh)
-- [Demystifying the Ternary Operator in JavaScript](https://dev.to/ewenikeemmanue4/demystifying-the-ternary-operator-in-javascript-2d2f)
-- [Building a reactive web app in Go with Fir](https://dev.to/logrocket/building-a-reactive-web-app-in-go-with-fir-5e5n)
-- [Dotnet Benchmarks – How To Use BenchmarkDotNet For Beginners](https://dev.to/devleader/dotnet-benchmarks-how-to-use-benchmarkdotnet-for-beginners-kdk)
+- [Building an App in Jobber Platform](https://dev.to/jobber/building-an-app-in-jobber-platform-57aj)
 <!-- BLOG-POST-LIST:END -->
 
