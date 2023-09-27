@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s in Your Coder&#39;s Survival Kit?](https://dev.to/codenewbieteam/whats-in-your-coders-survival-kit-58ej)
-- [Smart Contract Language Comparison - Cadence vs Solidity vs Move](https://dev.to/mbogan/smart-contract-language-comparison-cadence-vs-solidity-vs-move-3gi6)
-- [I asked ChatGPT what he thought of our open source project. Here’s what it says.](https://dev.to/opensourcee/i-asked-chatgpt-what-he-thought-of-our-open-source-project-heres-what-it-says-3h5e)
-- [Mojo🔥: Head-to-Head with Python and Numba](https://dev.to/maximsaplin/mojo-head-to-head-with-python-and-numba-5bn9)
+- [Best roadmap for developers](https://dev.to/mechatron/best-roadmap-for-developers-5cfd)
+- [DRY up RSpec subject defining](https://dev.to/epigene/dry-up-rspec-subject-defining-5d7i)
+- [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/what-are-the-differences-between-const-let-and-var-10-must-know-questions-for-junior-developers-2ji4)
+- [History lesson: what are class components?](https://dev.to/oferlis/history-lesson-what-are-class-components-4pga)
 <!-- BLOG-POST-LIST:END -->
 
