@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Overcoming Fears and Pursuing Passions&quot;: CodeNewbie Podcast S25E7](https://dev.to/codenewbieteam/overcoming-fears-and-pursuing-passions-codenewbie-podcast-s25e7-10g9)
+- [How to test and analyze website performance with lighthouse](https://dev.to/luwadev/how-to-test-and-analyze-website-performance-with-lighthouse-6oe)
 - [Cloning JavaScript Objects: A Comprehensive Guide](https://dev.to/iamcymentho/cloning-javascript-objects-a-comprehensive-guide-2pgo)
 - [CodeCraft: Full-Stack Chapter 3](https://dev.to/codegino/codecraft-full-stack-chapter-3-4h06)
-- [Gratitude Unleashed: Celebrating a Week of Stellar Contributions to Before I Die Code](https://dev.to/xanderrubio/gratitude-unleashed-celebrating-a-week-of-stellar-contributions-to-before-i-die-code-1kn0)
-- [Generating Universally Unique Identifiers &lpar;UUIDs&rpar; in JavaScript: A Comprehensive Guide with Code Examples](https://dev.to/iamcymentho/generating-universally-unique-identifiers-uuids-in-javascript-a-comprehensive-guide-with-code-examples-41cm)
 <!-- BLOG-POST-LIST:END -->
 
