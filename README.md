@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When 20.5 billions is not enough](https://dev.to/inv2004/trying-to-restore-aws-account-5dh5)
-- [Simplifying AWS Access with Border0](https://dev.to/aws-builders/simplifying-aws-access-with-border0-eec)
-- [Beginner&#39;s Guide to Debugging &lpar;JavaScript&rpar;](https://dev.to/khamerling-potts/beginners-guide-to-debugging-javascript-1c3a)
-- [Sane front-end project architecture based on 12 years of experience](https://dev.to/bolshchikov/sane-front-end-project-architecture-based-on-12-years-of-experience-5051)
+- [Trabalhando com Threads em Ruby](https://dev.to/nandosts/trabalhando-com-threads-em-ruby-44f1)
+- [Hacktoberfest 2023: Where Open Source Enthusiasts of All Levels Unite](https://dev.to/pelegpor/hacktoberfest-2023-where-open-source-enthusiasts-of-all-levels-unite-42fk)
+- [Your first API with GO &amp; Nitric](https://dev.to/rsiv/your-first-api-with-go-nitric-39b7)
+- [ROScribe release v0.0.3: Supporting ROS2](https://dev.to/robocoach/roscribe-release-v003-supporting-ros2-3hf6)
 <!-- BLOG-POST-LIST:END -->
 
