@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trabalhando com Threads em Ruby](https://dev.to/nandosts/trabalhando-com-threads-em-ruby-44f1)
-- [Hacktoberfest 2023: Where Open Source Enthusiasts of All Levels Unite](https://dev.to/pelegpor/hacktoberfest-2023-where-open-source-enthusiasts-of-all-levels-unite-42fk)
-- [Your first API with GO &amp; Nitric](https://dev.to/rsiv/your-first-api-with-go-nitric-39b7)
-- [ROScribe release v0.0.3: Supporting ROS2](https://dev.to/robocoach/roscribe-release-v003-supporting-ros2-3hf6)
+- [Cloning JavaScript Objects: A Comprehensive Guide](https://dev.to/iamcymentho/cloning-javascript-objects-a-comprehensive-guide-2pgo)
+- [CodeCraft: Full-Stack Chapter 3](https://dev.to/codegino/codecraft-full-stack-chapter-3-4h06)
+- [Gratitude Unleashed: Celebrating a Week of Stellar Contributions to Before I Die Code](https://dev.to/xanderrubio/gratitude-unleashed-celebrating-a-week-of-stellar-contributions-to-before-i-die-code-1kn0)
+- [Generating Universally Unique Identifiers &lpar;UUIDs&rpar; in JavaScript: A Comprehensive Guide with Code Examples](https://dev.to/iamcymentho/generating-universally-unique-identifiers-uuids-in-javascript-a-comprehensive-guide-with-code-examples-41cm)
 <!-- BLOG-POST-LIST:END -->
 
