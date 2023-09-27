@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [StackOverflow alternatives for web developers](https://dev.to/ingosteinke/stackoverflow-alternatives-for-web-developers-30o2)
-- [Top 6 Javascript Libraries You Must Know](https://dev.to/scofieldidehen/top-6-javascript-libraries-you-must-know-2pa8)
-- [JS Crush, the JavaScript Equality Game](https://dev.to/herrington_darkholme/js-crush-the-javascript-equality-game-3c9b)
-- [💻 Web Development Resources #167](https://dev.to/vincenius/web-development-resources-167-2m2d)
+- [⚡ Best Open Source React framework and libraries for Building Enterprise B2B apps](https://dev.to/refine/best-open-source-react-framework-and-libraries-for-building-enterprise-b2b-apps-5a0m)
+- [Disabling SSL Certificate Verification for RedHat Subscriptions](https://dev.to/openlab/how-to-disable-ssl-control-on-redhat-subscriptions-1j8n)
+- [Understanding the anatomy of a URL: A breakdown of the components and their significance](https://dev.to/hackmamba/understanding-the-anatomy-of-a-url-a-breakdown-of-the-components-and-their-significance-ndp)
+- [8 Developer Conferences Still Open for Registration!](https://dev.to/pavanbelagatti/8-developer-conferences-still-open-for-registration-1l8e)
 <!-- BLOG-POST-LIST:END -->
 
