@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft Researchers Propose AI Morality Test for LLMs](https://dev.to/mikeyoung44/microsoft-researchers-propose-ai-morality-test-for-llms-17bg)
+- [Web Scraping News with 4 lines using Python](https://dev.to/fahmisalman/web-scraping-news-with-4-lines-using-python-4gj4)
 - [What Are the Top 3 Qualities of Successful Devs?](https://dev.to/devteam/what-are-the-top-3-qualities-of-successful-devs-5bm4)
 - [Introdução ao expo-dev-client](https://dev.to/lucasm4sco/introducao-ao-expo-dev-client-1ann)
-- [Using Jest to bulletproof a TypeScript Class - Part 2](https://dev.to/joaotextor/using-jest-to-bulletproof-a-typescript-class-part-2-1njf)
 <!-- BLOG-POST-LIST:END -->
 
