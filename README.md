@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Come and see me speaking at GeeCon 2023 in Prague.](https://dev.to/bogomil/come-and-see-me-speaking-at-geecon-2023-in-prague-2bd5)
-- [Logging to Infinity and Beyond - Exploring the hidden value of your logs](https://dev.to/mbogan/logging-to-infinity-and-beyond-exploring-the-hidden-value-of-your-logs-5b5d)
-- [Tests for Developers - How you can avoid bugs at 5pm on Friday](https://dev.to/m4rri4nne/tests-for-developers-how-you-can-avoid-bugs-at-5pm-on-friday-41og)
-- [Hello back! Sharing some projects](https://dev.to/terceranexus6/hello-back-sharing-some-projects-2h2i)
+- [What&#39;s in Your Coder&#39;s Survival Kit?](https://dev.to/codenewbieteam/whats-in-your-coders-survival-kit-58ej)
+- [Smart Contract Language Comparison - Cadence vs Solidity vs Move](https://dev.to/mbogan/smart-contract-language-comparison-cadence-vs-solidity-vs-move-3gi6)
+- [I asked ChatGPT what he thought of our open source project. Here’s what it says.](https://dev.to/opensourcee/i-asked-chatgpt-what-he-thought-of-our-open-source-project-heres-what-it-says-3h5e)
+- [Mojo🔥: Head-to-Head with Python and Numba](https://dev.to/maximsaplin/mojo-head-to-head-with-python-and-numba-5bn9)
 <!-- BLOG-POST-LIST:END -->
 
