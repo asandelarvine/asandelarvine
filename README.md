@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best roadmap for developers](https://dev.to/mechatron/best-roadmap-for-developers-5cfd)
-- [DRY up RSpec subject defining](https://dev.to/epigene/dry-up-rspec-subject-defining-5d7i)
-- [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/what-are-the-differences-between-const-let-and-var-10-must-know-questions-for-junior-developers-2ji4)
-- [History lesson: what are class components?](https://dev.to/oferlis/history-lesson-what-are-class-components-4pga)
+- [A Step-by-Step Guide to Implementing React Router for Dynamic Single-Page Applications](https://dev.to/scofieldidehen/a-step-by-step-guide-to-implementing-react-router-for-dynamic-single-page-applications-34oh)
+- [Demystifying the Ternary Operator in JavaScript](https://dev.to/ewenikeemmanue4/demystifying-the-ternary-operator-in-javascript-2d2f)
+- [Building a reactive web app in Go with Fir](https://dev.to/logrocket/building-a-reactive-web-app-in-go-with-fir-5e5n)
+- [Dotnet Benchmarks – How To Use BenchmarkDotNet For Beginners](https://dev.to/devleader/dotnet-benchmarks-how-to-use-benchmarkdotnet-for-beginners-kdk)
 <!-- BLOG-POST-LIST:END -->
 
