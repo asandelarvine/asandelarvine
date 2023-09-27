@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Application Development Services: A Roadmap and Best Practices for Success](https://dev.to/dhruvjoshi9/web-application-development-services-a-roadmap-and-best-practices-for-success-3ml6)
-- [Cracking the LeetCode 880. Decoded String at Index &lpar;Medium&rpar;](https://dev.to/speaklouder/cracking-the-leetcode-880-decoded-string-at-index-medium-hn9)
-- [Unlocking JavaScript&#39;s Secret Weapon: The Power of WeakMaps](https://dev.to/this-is-learning/unlocking-javascripts-secret-weapon-the-power-of-weakmaps-36ni)
-- [All the Git Commands You Need to Know](https://dev.to/frantchessico/all-the-git-commands-you-need-to-know-1m6e)
+- [StackOverflow alternatives for web developers](https://dev.to/ingosteinke/stackoverflow-alternatives-for-web-developers-30o2)
+- [Top 6 Javascript Libraries You Must Know](https://dev.to/scofieldidehen/top-6-javascript-libraries-you-must-know-2pa8)
+- [JS Crush, the JavaScript Equality Game](https://dev.to/herrington_darkholme/js-crush-the-javascript-equality-game-3c9b)
+- [💻 Web Development Resources #167](https://dev.to/vincenius/web-development-resources-167-2m2d)
 <!-- BLOG-POST-LIST:END -->
 
