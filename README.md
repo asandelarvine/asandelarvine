@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All the Git Commands You Need to Know](https://dev.to/frantchessico/all-the-git-commands-you-need-to-know-1m6e)
 - [🚀 API Maker - Count, Distinct &amp; Distinct with query](https://dev.to/apimaker/api-maker-count-distinct-distinct-with-query-531e)
 - [Three ways to keep track &amp; save with AWS Free Tier !!](https://dev.to/aws-builders/three-ways-to-keep-track-save-with-aws-free-tier--1dp)
 - [Typescript utility types](https://dev.to/djzenma/typescript-utility-types-3np3)
-- [Deciphering GraphQL: A Deep Dive into Type Merging and Schema Stitching](https://dev.to/kenfdev/deciphering-graphql-a-deep-dive-into-type-merging-and-schema-stitching-3b05)
 <!-- BLOG-POST-LIST:END -->
 
