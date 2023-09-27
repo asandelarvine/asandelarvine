@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fields vs Properties in C# OOP - Which one should you use?](https://dev.to/bytehide/fields-vs-properties-in-c-oop-which-one-should-you-use-1adn)
-- [How to Easily Create New Mock Instances in Unit Tests](https://dev.to/ant_f_dev/how-to-easily-create-new-mock-instances-in-unit-tests-37c7)
-- [Build a Serverless Application for entity detection on AWS](https://dev.to/abhirockzz/build-a-serverless-application-for-entity-detection-on-aws-39hj)
-- [Leveraging Technology for Efficient Logistics in E-commerce: Key Strategies for Scaling Up](https://dev.to/ababichev/leveraging-technology-for-efficient-logistics-in-e-commerce-key-strategies-for-scaling-up-30op)
+- [Making the navbar of the Appwrite website](https://dev.to/raman04byte/making-the-navbar-of-the-appwrite-website-2c54)
+- [Quick start with MongoDB references | Mongoose, Nest.js + Examples](https://dev.to/juliecherner/quick-start-with-mongodb-references-mongoose-nestjs-examples-15c0)
+- [Hacktoberfest Pledge 🎉](https://dev.to/jd2r/hacktoberfest-pledge-ffi)
+- [🔥7 open-source libraries to keep an eye on &lpar;and contribute to!&rpar; ✨👩‍💻](https://dev.to/quine/7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96)
 <!-- BLOG-POST-LIST:END -->
 
