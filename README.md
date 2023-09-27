@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making the navbar of the Appwrite website](https://dev.to/raman04byte/making-the-navbar-of-the-appwrite-website-2c54)
-- [Quick start with MongoDB references | Mongoose, Nest.js + Examples](https://dev.to/juliecherner/quick-start-with-mongodb-references-mongoose-nestjs-examples-15c0)
-- [Hacktoberfest Pledge 🎉](https://dev.to/jd2r/hacktoberfest-pledge-ffi)
-- [🔥7 open-source libraries to keep an eye on &lpar;and contribute to!&rpar; ✨👩‍💻](https://dev.to/quine/7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96)
+- [Come and see me speaking at GeeCon 2023 in Prague.](https://dev.to/bogomil/come-and-see-me-speaking-at-geecon-2023-in-prague-2bd5)
+- [Logging to Infinity and Beyond - Exploring the hidden value of your logs](https://dev.to/mbogan/logging-to-infinity-and-beyond-exploring-the-hidden-value-of-your-logs-5b5d)
+- [Tests for Developers - How you can avoid bugs at 5pm on Friday](https://dev.to/m4rri4nne/tests-for-developers-how-you-can-avoid-bugs-at-5pm-on-friday-41og)
+- [Hello back! Sharing some projects](https://dev.to/terceranexus6/hello-back-sharing-some-projects-2h2i)
 <!-- BLOG-POST-LIST:END -->
 
