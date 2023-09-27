@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Best Open Source React framework and libraries for Building Enterprise B2B apps](https://dev.to/refine/best-open-source-react-framework-and-libraries-for-building-enterprise-b2b-apps-5a0m)
-- [Disabling SSL Certificate Verification for RedHat Subscriptions](https://dev.to/openlab/how-to-disable-ssl-control-on-redhat-subscriptions-1j8n)
-- [Singleton Pattern? No! Use this instead 💡](https://dev.to/gabrielprrd/singleton-pattern-no-use-this-instead-4oh7)
-- [Understanding the anatomy of a URL: A breakdown of the components and their significance](https://dev.to/hackmamba/understanding-the-anatomy-of-a-url-a-breakdown-of-the-components-and-their-significance-ndp)
+- [Leveraging Technology for Efficient Logistics in E-commerce: Key Strategies for Scaling Up](https://dev.to/ababichev/leveraging-technology-for-efficient-logistics-in-e-commerce-key-strategies-for-scaling-up-30op)
+- [GraphQL Visualizer vs. Low-Code API Builder - DevHunt Digest #2](https://dev.to/gerimate/graphql-visualizer-vs-low-code-api-builder-devhunt-digest-2-ghp)
+- [Welcome Thread - v244](https://dev.to/devteam/welcome-thread-v242-3a4g)
+- [Healthier way to open source your code](https://dev.to/sapegin/healthier-way-to-open-source-your-code-2el6)
 <!-- BLOG-POST-LIST:END -->
 
