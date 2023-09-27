@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Signing container images: Comparing Sigstore, Notary, and Docker Content Trust](https://dev.to/snyk/signing-container-images-comparing-sigstore-notary-and-docker-content-trust-1bfm)
-- [Microsoft Researchers Propose AI Morality Test for LLMs](https://dev.to/mikeyoung44/microsoft-researchers-propose-ai-morality-test-for-llms-17bg)
-- [Web Scraping News with 4 lines using Python](https://dev.to/fahmisalman/web-scraping-news-with-4-lines-using-python-4gj4)
-- [What Are the Top 3 Qualities of Successful Devs?](https://dev.to/devteam/what-are-the-top-3-qualities-of-successful-devs-5bm4)
+- [🚀 API Maker - Count, Distinct &amp; Distinct with query](https://dev.to/apimaker/api-maker-count-distinct-distinct-with-query-531e)
+- [Three ways to keep track &amp; save with AWS Free Tier !!](https://dev.to/aws-builders/three-ways-to-keep-track-save-with-aws-free-tier--1dp)
+- [Typescript utility types](https://dev.to/djzenma/typescript-utility-types-3np3)
+- [Deciphering GraphQL: A Deep Dive into Type Merging and Schema Stitching](https://dev.to/kenfdev/deciphering-graphql-a-deep-dive-into-type-merging-and-schema-stitching-3b05)
 <!-- BLOG-POST-LIST:END -->
 
