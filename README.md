@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [⚡ Best Open Source React framework and libraries for Building Enterprise B2B apps](https://dev.to/refine/best-open-source-react-framework-and-libraries-for-building-enterprise-b2b-apps-5a0m)
 - [Disabling SSL Certificate Verification for RedHat Subscriptions](https://dev.to/openlab/how-to-disable-ssl-control-on-redhat-subscriptions-1j8n)
+- [Singleton Pattern? No! Use this instead 💡](https://dev.to/gabrielprrd/singleton-pattern-no-use-this-instead-4oh7)
 - [Understanding the anatomy of a URL: A breakdown of the components and their significance](https://dev.to/hackmamba/understanding-the-anatomy-of-a-url-a-breakdown-of-the-components-and-their-significance-ndp)
-- [8 Developer Conferences Still Open for Registration!](https://dev.to/pavanbelagatti/8-developer-conferences-still-open-for-registration-1l8e)
 <!-- BLOG-POST-LIST:END -->
 
