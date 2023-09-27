@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Researchers Propose AI Morality Test for LLMs](https://dev.to/mikeyoung44/microsoft-researchers-propose-ai-morality-test-for-llms-17bg)
+- [What Are the Top 3 Qualities of Successful Devs?](https://dev.to/devteam/what-are-the-top-3-qualities-of-successful-devs-5bm4)
+- [Introdução ao expo-dev-client](https://dev.to/lucasm4sco/introducao-ao-expo-dev-client-1ann)
 - [Using Jest to bulletproof a TypeScript Class - Part 2](https://dev.to/joaotextor/using-jest-to-bulletproof-a-typescript-class-part-2-1njf)
-- [TOP Guide to Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
-- [Frontend podcast list 🎙️](https://dev.to/tech_foutraque/frontend-podcast-list-fh7)
-- [☁️ Serviços da AWS que vão te salvar em uma entrevista de system design &lpar;Part 1/4&rpar;](https://dev.to/vanessatelles/servicos-da-aws-que-vao-te-salvar-em-uma-entrevista-de-system-design-part-14-29jh)
 <!-- BLOG-POST-LIST:END -->
 
