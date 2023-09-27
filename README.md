@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fields vs Properties in C# OOP - Which one should you use?](https://dev.to/bytehide/fields-vs-properties-in-c-oop-which-one-should-you-use-1adn)
+- [How to Easily Create New Mock Instances in Unit Tests](https://dev.to/ant_f_dev/how-to-easily-create-new-mock-instances-in-unit-tests-37c7)
+- [Build a Serverless Application for entity detection on AWS](https://dev.to/abhirockzz/build-a-serverless-application-for-entity-detection-on-aws-39hj)
 - [Leveraging Technology for Efficient Logistics in E-commerce: Key Strategies for Scaling Up](https://dev.to/ababichev/leveraging-technology-for-efficient-logistics-in-e-commerce-key-strategies-for-scaling-up-30op)
-- [GraphQL Visualizer vs. Low-Code API Builder - DevHunt Digest #2](https://dev.to/gerimate/graphql-visualizer-vs-low-code-api-builder-devhunt-digest-2-ghp)
-- [Welcome Thread - v244](https://dev.to/devteam/welcome-thread-v242-3a4g)
-- [Healthier way to open source your code](https://dev.to/sapegin/healthier-way-to-open-source-your-code-2el6)
 <!-- BLOG-POST-LIST:END -->
 
