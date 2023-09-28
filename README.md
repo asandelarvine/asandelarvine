@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Firecracker microVMs in Go](https://dev.to/lucasjacques/managing-firecracker-microvms-in-go-2ja0)
+- [Exploring Astro and Svelte vs. SvelteKit: A comparative guide](https://dev.to/logrocket/exploring-astro-and-svelte-vs-sveltekit-a-comparative-guide-1ee6)
+- [My Favorite Interview Questions](https://dev.to/wraith/my-favorite-interview-questions-33cm)
 - [How to create a simple VSCE for CSS Lube](https://dev.to/artxe2/how-to-create-a-simple-vsce-for-css-lube-33cf)
-- [Make sure the python env is always running in cloud shell.](https://dev.to/aksrao1998/make-sure-the-python-env-is-always-running-in-cloud-shell-4m5k)
-- [Método de la ruta crítica: guía para principiantes](https://dev.to/oroscoloyamena/metodo-de-la-ruta-critica-guia-para-principiantes-ccn)
-- [Scaling with Karpenter and Empty Pod&lpar;A.k.a Overprovisioning&rpar;](https://dev.to/aws-builders/scaling-with-karpenter-and-empty-podaka-overprovisioning-1j5j)
 <!-- BLOG-POST-LIST:END -->
 
