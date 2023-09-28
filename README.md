@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Discussion of the Week - v4](https://dev.to/devteam/discussion-of-the-week-v4-jj2)
 - [Badge for Security FAQs: Strengthening Online Trust](https://dev.to/safezoneasa/badge-for-security-faqs-strengthening-online-trust-4a80)
+- [Data Science for Beginners: 2023 - 2024 Complete Roadmap.](https://dev.to/stacyjacqueen/data-science-for-beginners-2023-2024-complete-roadmap-15ep)
 - [Chromium Spelunking: Connecting to Proxies](https://dev.to/djmitche/chromium-spelunking-connecting-to-proxies-fo)
-- [I&#39;ve created my own web framework from scratch!](https://dev.to/letsaguiar/ive-created-my-own-web-framework-from-scratch-2bi4)
 <!-- BLOG-POST-LIST:END -->
 
