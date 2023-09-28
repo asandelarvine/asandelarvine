@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Advantages of Learning Typed Languages for Beginners](https://dev.to/derekzyl/the-advantages-of-learning-typed-languages-for-beginners-1n28)
 - [Mistral 7B Beats Llama 2 13B on All Benchmarks](https://dev.to/ananddas/mistral-7b-beats-llama-2-13b-on-all-benchmarks-55j2)
+- [10 best practices for securely developing with AI](https://dev.to/snyk/10-best-practices-for-securely-developing-with-ai-22p0)
 - [Building an Efficient Waitlist App with Next.js and Xata](https://dev.to/terieyenike/building-an-efficient-waitlist-app-with-nextjs-and-xata-caf)
-- [ChatGPT Got Internet Access!](https://dev.to/ananddas/chatgpt-got-internet-access-21gj)
-- [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
 <!-- BLOG-POST-LIST:END -->
 
