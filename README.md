@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Método de la ruta crítica: guía para principiantes](https://dev.to/oroscoloyamena/metodo-de-la-ruta-critica-guia-para-principiantes-ccn)
+- [TinEAR, using GA for music inspiration](https://dev.to/terceranexus6/tinear-for-using-ga-for-music-inspiration-327k)
 - [🚀 Deep populate in API Maker](https://dev.to/apimaker/deep-populate-in-api-maker-2n4)
 - [Cracking the LeetCode 905. Sort Array By Parity By Nilesh](https://dev.to/speaklouder/cracking-the-leetcode-905-sort-array-by-parity-by-nilesh-4n4o)
-- [Down the rabbit hole of an Apache APISIX plugin](https://dev.to/apisix/down-the-rabbit-hole-of-an-apache-apisix-plugin-5d45)
-- [Learn how to install Blazor &lpar;.NET&rpar; with Flowbite and Tailwind CSS](https://dev.to/themesberg/learn-how-to-install-blazor-net-with-flowbite-and-tailwind-css-2inn)
 <!-- BLOG-POST-LIST:END -->
 
