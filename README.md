@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make sure the python env is always running in cloud shell.](https://dev.to/aksrao1998/make-sure-the-python-env-is-always-running-in-cloud-shell-4m5k)
 - [Método de la ruta crítica: guía para principiantes](https://dev.to/oroscoloyamena/metodo-de-la-ruta-critica-guia-para-principiantes-ccn)
 - [TinEAR, using GA for music inspiration](https://dev.to/terceranexus6/tinear-for-using-ga-for-music-inspiration-327k)
 - [🚀 Deep populate in API Maker](https://dev.to/apimaker/deep-populate-in-api-maker-2n4)
-- [Cracking the LeetCode 905. Sort Array By Parity By Nilesh](https://dev.to/speaklouder/cracking-the-leetcode-905-sort-array-by-parity-by-nilesh-4n4o)
 <!-- BLOG-POST-LIST:END -->
 
