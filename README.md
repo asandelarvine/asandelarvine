@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Event Listeners 🎧](https://dev.to/shivamblog/day-6-event-listeners-3n6o)
+- [GitHub Recovery Code](https://dev.to/gitprotect/github-recovery-code-3pm)
 - [Middleware: The Hidden Hero of Web Development](https://dev.to/oxyjem/middleware-the-hidden-hero-of-web-development-1an7)
 - [Basic Authentication in Swagger &lpar;Open API&rpar; .NET5](https://dev.to/ifourtechnolab/basic-authentication-in-swagger-open-api-net5-4a4c)
-- [6502 Programming](https://dev.to/ijacobscpa/6502-programming-3b44)
-- [The Advantages of Learning Typed Languages for Beginners](https://dev.to/derekzyl/the-advantages-of-learning-typed-languages-for-beginners-1n28)
 <!-- BLOG-POST-LIST:END -->
 
