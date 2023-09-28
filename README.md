@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you an HTML expert? Find out with the new State of HTML 2023 survey](https://dev.to/dianale/are-you-an-html-expert-find-out-with-the-new-state-of-html-2023-survey-58g4)
-- [APIWorld 2023 Pass Giveaway!](https://dev.to/intesar/apiworld-2023-pass-giveaway-ihn)
-- [Multithreading in Python: the obvious and the incredible](https://dev.to/abstractart/multithreading-in-python-the-obvious-and-the-incredible-1o9c)
-- [Automatio + SpreadSheet + ChatGPT = 👌](https://dev.to/moonly/automatio-spreadsheet-chatgpt--34a3)
+- [Discussion of the Week - v4](https://dev.to/devteam/discussion-of-the-week-v4-jj2)
+- [Badge for Security FAQs: Strengthening Online Trust](https://dev.to/safezoneasa/badge-for-security-faqs-strengthening-online-trust-4a80)
+- [Chromium Spelunking: Connecting to Proxies](https://dev.to/djmitche/chromium-spelunking-connecting-to-proxies-fo)
+- [I&#39;ve created my own web framework from scratch!](https://dev.to/letsaguiar/ive-created-my-own-web-framework-from-scratch-2bi4)
 <!-- BLOG-POST-LIST:END -->
 
