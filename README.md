@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a simple VSCE for CSS Lube](https://dev.to/artxe2/how-to-create-a-simple-vsce-for-css-lube-33cf)
 - [Make sure the python env is always running in cloud shell.](https://dev.to/aksrao1998/make-sure-the-python-env-is-always-running-in-cloud-shell-4m5k)
 - [Método de la ruta crítica: guía para principiantes](https://dev.to/oroscoloyamena/metodo-de-la-ruta-critica-guia-para-principiantes-ccn)
-- [TinEAR, using GA for music inspiration](https://dev.to/terceranexus6/tinear-for-using-ga-for-music-inspiration-327k)
-- [🚀 Deep populate in API Maker](https://dev.to/apimaker/deep-populate-in-api-maker-2n4)
+- [Scaling with Karpenter and Empty Pod&lpar;A.k.a Overprovisioning&rpar;](https://dev.to/aws-builders/scaling-with-karpenter-and-empty-podaka-overprovisioning-1j5j)
 <!-- BLOG-POST-LIST:END -->
 
