@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [👌 What is Git? Why do you use it? what is CIDI? git Flow or Github Flow? 10 Must-Know Questions💡🚀](https://dev.to/xmohammedawad/what-is-git-why-do-you-use-it-what-do-you-know-about-the-cidi-and-git-flow-or-github-flow-3mgb)
+- [Optimizing Vue.js apps with web workers](https://dev.to/logrocket/optimizing-vuejs-apps-with-web-workers-3d5b)
+- [Who Ate My Disk Space? It&#39;s &quot;node_modules&quot; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp)
 - [Managing Firecracker microVMs in Go](https://dev.to/lucasjacques/managing-firecracker-microvms-in-go-2ja0)
-- [Exploring Astro and Svelte vs. SvelteKit: A comparative guide](https://dev.to/logrocket/exploring-astro-and-svelte-vs-sveltekit-a-comparative-guide-1ee6)
-- [My Favorite Interview Questions](https://dev.to/wraith/my-favorite-interview-questions-33cm)
-- [How to create a simple VSCE for CSS Lube](https://dev.to/artxe2/how-to-create-a-simple-vsce-for-css-lube-33cf)
 <!-- BLOG-POST-LIST:END -->
 
