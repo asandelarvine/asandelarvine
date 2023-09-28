@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral 7B Beats Llama 2 13B on All Benchmarks](https://dev.to/ananddas/mistral-7b-beats-llama-2-13b-on-all-benchmarks-55j2)
 - [Building an Efficient Waitlist App with Next.js and Xata](https://dev.to/terieyenike/building-an-efficient-waitlist-app-with-nextjs-and-xata-caf)
+- [ChatGPT Got Internet Access!](https://dev.to/ananddas/chatgpt-got-internet-access-21gj)
 - [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
-- [The Dev&#39;s Future Landscape: What Lies Ahead?](https://dev.to/devteam/the-devs-future-landscape-what-lies-ahead-34b6)
-- [How I got fired from my dream job](https://dev.to/juandadev/how-i-got-fired-from-my-dream-job-56hf)
 <!-- BLOG-POST-LIST:END -->
 
