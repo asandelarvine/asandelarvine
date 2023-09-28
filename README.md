@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A base de Redux Toolkit e React Redux](https://dev.to/nickgabe/redux-toolkit-e-react-redux-2o9k)
 - [Discussion of the Week - v4](https://dev.to/devteam/discussion-of-the-week-v4-jj2)
 - [Badge for Security FAQs: Strengthening Online Trust](https://dev.to/safezoneasa/badge-for-security-faqs-strengthening-online-trust-4a80)
 - [Data Science for Beginners: 2023 - 2024 Complete Roadmap.](https://dev.to/stacyjacqueen/data-science-for-beginners-2023-2024-complete-roadmap-15ep)
-- [Chromium Spelunking: Connecting to Proxies](https://dev.to/djmitche/chromium-spelunking-connecting-to-proxies-fo)
 <!-- BLOG-POST-LIST:END -->
 
