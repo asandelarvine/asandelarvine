@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Overcoming Fears and Pursuing Passions&quot;: CodeNewbie Podcast S25E7](https://dev.to/codenewbieteam/overcoming-fears-and-pursuing-passions-codenewbie-podcast-s25e7-10g9)
-- [How to test and analyze website performance with lighthouse](https://dev.to/luwadev/how-to-test-and-analyze-website-performance-with-lighthouse-6oe)
-- [Cloning JavaScript Objects: A Comprehensive Guide](https://dev.to/iamcymentho/cloning-javascript-objects-a-comprehensive-guide-2pgo)
-- [CodeCraft: Full-Stack Chapter 3](https://dev.to/codegino/codecraft-full-stack-chapter-3-4h06)
+- [The Dev&#39;s Future Landscape: What Lies Ahead?](https://dev.to/devteam/the-devs-future-landscape-what-lies-ahead-34b6)
+- [How I got fired from my dream job](https://dev.to/juandadev/how-i-got-fired-from-my-dream-job-56hf)
+- [Predicting Poverty Reduction in Nigeria: A Machine Learning Approach](https://dev.to/fwangjoe/predicting-poverty-reduction-in-nigeria-a-machine-learning-approach-b7a)
+- [Tips for using Javascript in your projects](https://dev.to/axedigitalci/tips-for-using-javascript-in-your-projects-5h76)
 <!-- BLOG-POST-LIST:END -->
 
