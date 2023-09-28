@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crossed 200$ in revenue with my first side project](https://dev.to/askwhyharsh/crossed-200-in-revenue-with-my-first-side-project-3md2)
+- [Daily Standups: Maximizing Value in 15 Minutes](https://dev.to/sprinthq/daily-standups-maximizing-value-in-15-minutes-15pc)
 - [Making of next element of the @Appwrite website](https://dev.to/raman04byte/making-of-next-element-of-the-appwrite-website-i1d)
 - [👌 What is Git? Why do you use it? what is CIDI? git Flow or Github Flow? 10 Must-Know Questions💡🚀](https://dev.to/xmohammedawad/what-is-git-why-do-you-use-it-what-do-you-know-about-the-cidi-and-git-flow-or-github-flow-3mgb)
-- [Optimizing Vue.js apps with web workers](https://dev.to/logrocket/optimizing-vuejs-apps-with-web-workers-3d5b)
-- [Who Ate My Disk Space? It&#39;s &quot;node_modules&quot; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp)
 <!-- BLOG-POST-LIST:END -->
 
