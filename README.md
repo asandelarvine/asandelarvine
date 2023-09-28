@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic Authentication in Swagger &lpar;Open API&rpar; .NET5](https://dev.to/ifourtechnolab/basic-authentication-in-swagger-open-api-net5-4a4c)
 - [The Advantages of Learning Typed Languages for Beginners](https://dev.to/derekzyl/the-advantages-of-learning-typed-languages-for-beginners-1n28)
-- [Mistral 7B Beats Llama 2 13B on All Benchmarks](https://dev.to/ananddas/mistral-7b-beats-llama-2-13b-on-all-benchmarks-55j2)
-- [10 best practices for securely developing with AI](https://dev.to/snyk/10-best-practices-for-securely-developing-with-ai-22p0)
-- [Building an Efficient Waitlist App with Next.js and Xata](https://dev.to/terieyenike/building-an-efficient-waitlist-app-with-nextjs-and-xata-caf)
+- [Balancing Act: Tips for Cost Optimization in AWS Data Lake Architectures](https://dev.to/aws-builders/balancing-act-tips-for-cost-optimization-in-aws-data-lake-architectures-422h)
+- [Poetry &lpar;Packaging&rpar; in motion](https://dev.to/jelloeater/poetry-packaging-in-motion-185h)
 <!-- BLOG-POST-LIST:END -->
 
