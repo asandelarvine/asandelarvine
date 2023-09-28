@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Deep populate in API Maker](https://dev.to/apimaker/deep-populate-in-api-maker-2n4)
+- [Cracking the LeetCode 905. Sort Array By Parity By Nilesh](https://dev.to/speaklouder/cracking-the-leetcode-905-sort-array-by-parity-by-nilesh-4n4o)
 - [Down the rabbit hole of an Apache APISIX plugin](https://dev.to/apisix/down-the-rabbit-hole-of-an-apache-apisix-plugin-5d45)
 - [Learn how to install Blazor &lpar;.NET&rpar; with Flowbite and Tailwind CSS](https://dev.to/themesberg/learn-how-to-install-blazor-net-with-flowbite-and-tailwind-css-2inn)
-- [Make Notion search great again: vector embeddings](https://dev.to/brainhubeu/make-notion-search-great-again-vector-embeddings-1m3o)
-- [👉 TypeScript Record Type with Examples](https://dev.to/refine/typescript-record-type-with-examples-l09)
 <!-- BLOG-POST-LIST:END -->
 
