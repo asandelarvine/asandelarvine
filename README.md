@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [From Converters to Dependency Injection: Navigating Model Migrations](https://dev.to/manhhungtran/from-converters-to-dependency-injection-navigating-model-migrations-4lfc)
+- [Código Limpo - Intermédio](https://dev.to/loremimpsu/codigo-limpo-intermedio-44gp)
 - [Custom File Generator Tutorial](https://dev.to/sethdavis512/custom-file-generator-tutorial-17pa)
 - [Musikly! Updated!](https://dev.to/liftoffstudios/musikly-updated-42kh)
-- [Creating a CRUD Application with React and Bootstrap](https://dev.to/kartikbudhraja/creating-a-crud-application-with-react-and-bootstrap-859)
 <!-- BLOG-POST-LIST:END -->
 
