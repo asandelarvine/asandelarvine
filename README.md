@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Converters to Dependency Injection: Navigating Model Migrations](https://dev.to/manhhungtran/from-converters-to-dependency-injection-navigating-model-migrations-4lfc)
 - [Custom File Generator Tutorial](https://dev.to/sethdavis512/custom-file-generator-tutorial-17pa)
 - [Musikly! Updated!](https://dev.to/liftoffstudios/musikly-updated-42kh)
 - [Creating a CRUD Application with React and Bootstrap](https://dev.to/kartikbudhraja/creating-a-crud-application-with-react-and-bootstrap-859)
-- [How to use jQuery with Astro](https://dev.to/whitep4nth3r/how-to-use-jquery-with-astro-56lk)
 <!-- BLOG-POST-LIST:END -->
 
