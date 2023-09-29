@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Native Modules in JavaScript: An Introductory Guide](https://dev.to/danielboll/unlocking-the-power-of-native-modules-in-javascript-an-introductory-guide-4jh1)
+- [Is GitHub Copilot a Game-Changer?](https://dev.to/devteam/is-github-copilot-a-game-changer-42gh)
 - [Code Fusion: What Super Skills Would You Create?](https://dev.to/codenewbieteam/code-fusion-what-super-skills-would-you-create-f9j)
 - [CodeNewbie post](https://dev.to/codenewbieteam/codenewbie-post-2ph0)
-- [Is GitHub Copilot a Game-Changer?](https://dev.to/devteam/is-github-copilot-a-game-changer-42gh)
-- [Raspberry Pi 4 vs. Raspberry Pi 5: Which Offers Better Value and Performance?](https://dev.to/anurag_vishwakarma/raspberry-pi-4-vs-raspberry-pi-5-which-offers-better-value-and-performance-b50)
 <!-- BLOG-POST-LIST:END -->
 
