@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Episode 23/38: TypeScript Origins, Reusable Forms, Bun in Angular, Svelte Runes](https://dev.to/this-is-angular/episode-2338-typescript-origins-reusable-forms-bun-in-angular-svelte-runes-1g54)
 - [Running a Node.js App &lpar;Angular/React&rpar; on Android using Termux](https://dev.to/radualexandrub/running-a-nodejs-app-angularreact-on-android-using-termux-5abi)
 - [Mastering JavaScript Closures: A Comprehensive Guide to Understanding Scope, Context, and Practical Applications](https://dev.to/iamcymentho/mastering-javascript-closures-a-comprehensive-guide-to-understanding-scope-context-and-practical-applications-1j9o)
 - [Featured Mod of the Month: Pradumna Saraf](https://dev.to/devteam/featured-mod-of-the-month-pradumna-saraf-e7j)
-- [Building Authentication in React Using Firebase](https://dev.to/jps27cse/building-authentication-in-react-using-firebase-2ihl)
 <!-- BLOG-POST-LIST:END -->
 
