@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Happy Number Problem in Java: Helpful Tips](https://dev.to/vaibhhav/solving-the-happy-number-problem-in-java-helpful-tips-6cm)
-- [Matplotlib Tutorial: Let’s Take Your Country Maps to Another Level](https://dev.to/oscarleo/matplotlib-tutorial-lets-take-your-country-maps-to-another-level-26cm)
-- [🚀 API Maker - Query for get data API [ Find Join ]](https://dev.to/apimaker/api-maker-query-for-get-data-api-find-join--21d0)
-- [Starting a Startup from Zero - EP 4: Should we validate our Idea first?](https://dev.to/wimadev/starting-a-startup-from-zero-ep-4-should-we-validate-our-idea-first-56k3)
+- [Find out first unique element from array](https://dev.to/indrakantm23/find-out-first-unique-element-from-array-5e7f)
+- [Rewrite styled-components in ReactJS with just 60 lines of JavaScript code](https://dev.to/ducga1998/rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb)
+- [😯 gRPC vs REST - A Brief Comparison](https://dev.to/refine/grpc-vs-rest-a-brief-comparison-4p8b)
+- [DEV: Followers != Readers](https://dev.to/maximsaplin/dev-followers-readers-3da2)
 <!-- BLOG-POST-LIST:END -->
 
