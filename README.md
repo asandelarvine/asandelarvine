@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Terminal Commands and Jupyter Notebook Shortcuts: Your Complete Handbook](https://dev.to/grayhat/mastering-terminal-commands-and-jupyter-notebook-shortcuts-your-complete-handbook-53n9)
-- [Streamlining AWS S3 Object Handling and Optimizing User Experience](https://dev.to/mhm13dev/streamlining-aws-s3-object-handling-and-optimizing-user-experience-3a7e)
-- [Desenvolva sua Experiência de Forma Inteligente](https://dev.to/kainangabriel/como-adquirir-experiencia-5e2o)
-- [20++ Essential Articles for Vue.js &lpar;Vue 3&rpar; Beginner](https://dev.to/ansonch/20-essential-articles-for-vuejs-vue-3-beginner-1dmf)
+- [😱 ESlint over Conventions - You have Not unlocked the power of ESlint 😱](https://dev.to/borysshulyak/eslint-over-conventions-you-have-not-unlocked-the-power-of-eslint-2h30)
+- [Broken laptop](https://dev.to/adam_cyclones/broken-laptop-4g0h)
+- [How to Mint Fungible Tokens in JavaScript Using Agoric](https://dev.to/wolzcodelife/how-to-mint-fungible-tokens-in-javascript-using-agoric-2h3)
+- [My Last Blog](https://dev.to/raman04byte/my-last-blog-486o)
 <!-- BLOG-POST-LIST:END -->
 
