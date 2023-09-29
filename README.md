@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Terminal Commands and Jupyter Notebook Shortcuts: Your Complete Handbook](https://dev.to/grayhat/mastering-terminal-commands-and-jupyter-notebook-shortcuts-your-complete-handbook-53n9)
+- [Streamlining AWS S3 Object Handling and Optimizing User Experience](https://dev.to/mhm13dev/streamlining-aws-s3-object-handling-and-optimizing-user-experience-3a7e)
+- [Desenvolva sua Experiência de Forma Inteligente](https://dev.to/kainangabriel/como-adquirir-experiencia-5e2o)
 - [20++ Essential Articles for Vue.js &lpar;Vue 3&rpar; Beginner](https://dev.to/ansonch/20-essential-articles-for-vuejs-vue-3-beginner-1dmf)
-- [React VS Angular](https://dev.to/arsalanmee/react-vs-angular-2h8n)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1841)
-- [Find out first unique element from array](https://dev.to/indrakantm23/find-out-first-unique-element-from-array-5e7f)
 <!-- BLOG-POST-LIST:END -->
 
