@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeless vs Nvidia DeepStream](https://dev.to/miguelaeh/pipeless-vs-nvidia-deepstream-4n5h)
-- [Exciting News!: Introducing Our Recognition Program 🚀](https://dev.to/tbdevs/exciting-news-introducing-our-recognition-program-1go4)
-- [React Advanced: Manage Server States in the right way](https://dev.to/riktar/react-advanced-manage-server-states-in-the-right-way-2740)
-- [What are those HTTP Response Codes??](https://dev.to/ghubrakesh/what-are-those-http-response-codes-321e)
+- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/kevoluke/data-science-for-beginners-2023-2024-complete-roadmap-2b7b)
+- [gnu-on-alpine 3.18.4 and alpine-plus-plus 3.18.4 Released](https://dev.to/cicirello/gnu-on-alpine-3184-and-alpine-plus-plus-3184-released-4gng)
+- [Lee esto antes de Implementar VPC Endpoints y S3 con Terraform](https://dev.to/aws-espanol/lee-esto-antes-de-implementar-vpc-endpoints-y-s3-con-terraform-47bp)
+- [Experts Live 2023 - My Recap](https://dev.to/this-is-learning/experts-live-2023-my-recap-4ack)
 <!-- BLOG-POST-LIST:END -->
 
