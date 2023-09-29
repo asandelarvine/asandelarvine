@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pipeless vs Nvidia DeepStream](https://dev.to/miguelaeh/pipeless-vs-nvidia-deepstream-4n5h)
+- [Exciting News!: Introducing Our Recognition Program 🚀](https://dev.to/tbdevs/exciting-news-introducing-our-recognition-program-1go4)
 - [React Advanced: Manage Server States in the right way](https://dev.to/riktar/react-advanced-manage-server-states-in-the-right-way-2740)
 - [What are those HTTP Response Codes??](https://dev.to/ghubrakesh/what-are-those-http-response-codes-321e)
-- [Episode 23/38: TypeScript Origins, Reusable Forms, Bun in Angular, Svelte Runes](https://dev.to/this-is-angular/episode-2338-typescript-origins-reusable-forms-bun-in-angular-svelte-runes-1g54)
-- [Running a Node.js App &lpar;Angular/React&rpar; on Android using Termux](https://dev.to/radualexandrub/running-a-nodejs-app-angularreact-on-android-using-termux-5abi)
 <!-- BLOG-POST-LIST:END -->
 
