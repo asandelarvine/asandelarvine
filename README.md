@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20++ Essential Articles for Vue.js &lpar;Vue 3&rpar; Beginner](https://dev.to/ansonch/20-essential-articles-for-vuejs-vue-3-beginner-1dmf)
 - [React VS Angular](https://dev.to/arsalanmee/react-vs-angular-2h8n)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1841)
 - [Find out first unique element from array](https://dev.to/indrakantm23/find-out-first-unique-element-from-array-5e7f)
-- [How to create a GitHub Packages for typescript projectsg](https://dev.to/vitoraguila/how-to-create-a-github-packages-for-typescript-projectsg-2d7g)
-- [Rewrite styled-components in ReactJS with just 60 lines of JavaScript code](https://dev.to/ducga1998/rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb)
 <!-- BLOG-POST-LIST:END -->
 
