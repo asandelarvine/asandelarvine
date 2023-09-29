@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [😱 ESlint over Conventions - You have Not unlocked the power of ESlint 😱](https://dev.to/borysshulyak/eslint-over-conventions-you-have-not-unlocked-the-power-of-eslint-2h30)
-- [Broken laptop](https://dev.to/adam_cyclones/broken-laptop-4g0h)
-- [How to Mint Fungible Tokens in JavaScript Using Agoric](https://dev.to/wolzcodelife/how-to-mint-fungible-tokens-in-javascript-using-agoric-2h3)
-- [My Last Blog](https://dev.to/raman04byte/my-last-blog-486o)
+- [Custom File Generator Tutorial](https://dev.to/sethdavis512/custom-file-generator-tutorial-17pa)
+- [Musikly! Updated!](https://dev.to/liftoffstudios/musikly-updated-42kh)
+- [Creating a CRUD Application with React and Bootstrap](https://dev.to/kartikbudhraja/creating-a-crud-application-with-react-and-bootstrap-859)
+- [How to use jQuery with Astro](https://dev.to/whitep4nth3r/how-to-use-jquery-with-astro-56lk)
 <!-- BLOG-POST-LIST:END -->
 
