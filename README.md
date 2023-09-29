@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Tracing and OpenTelemetry Guide](https://dev.to/amplication/distributed-tracing-and-opentelemetry-guide-8b6)
-- [Mastering Laravel Console Commands: Harnessing the Power of Argument Passing&quot;](https://dev.to/snehalkadwe/mastering-laravel-console-commands-harnessing-the-power-of-argument-passing-2kh2)
-- [Improving SEO for React Apps with Server-Side Rendering and Static Site Generation](https://dev.to/scofieldidehen/improving-seo-for-react-apps-with-server-side-rendering-and-static-site-generation-4397)
-- [Data Analysis with SQL](https://dev.to/scofieldidehen/data-analysis-with-sql-1m73)
+- [Solving the Happy Number Problem in Java: Helpful Tips](https://dev.to/vaibhhav/solving-the-happy-number-problem-in-java-helpful-tips-6cm)
+- [Matplotlib Tutorial: Let’s Take Your Country Maps to Another Level](https://dev.to/oscarleo/matplotlib-tutorial-lets-take-your-country-maps-to-another-level-26cm)
+- [🚀 API Maker - Query for get data API [ Find Join ]](https://dev.to/apimaker/api-maker-query-for-get-data-api-find-join--21d0)
+- [Starting a Startup from Zero - EP 4: Should we validate our Idea first?](https://dev.to/wimadev/starting-a-startup-from-zero-ep-4-should-we-validate-our-idea-first-56k3)
 <!-- BLOG-POST-LIST:END -->
 
