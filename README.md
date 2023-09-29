@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving SEO for React Apps with Server-Side Rendering and Static Site Generation](https://dev.to/scofieldidehen/improving-seo-for-react-apps-with-server-side-rendering-and-static-site-generation-4397)
 - [Data Analysis with SQL](https://dev.to/scofieldidehen/data-analysis-with-sql-1m73)
+- [Creating a Simple Chatbot with Context on Amazon Bedrock](https://dev.to/aws-builders/creating-a-simple-chatbot-with-context-on-amazon-bedrock-5bi1)
 - [Unlocking the Power of Native Modules in JavaScript: An Introductory Guide](https://dev.to/danielboll/unlocking-the-power-of-native-modules-in-javascript-an-introductory-guide-4jh1)
-- [CodeNewbie post](https://dev.to/codenewbieteam/codenewbie-post-2ph0)
-- [Code Fusion: What Super Skills Would You Create?](https://dev.to/codenewbieteam/code-fusion-what-super-skills-would-you-create-f9j)
 <!-- BLOG-POST-LIST:END -->
 
