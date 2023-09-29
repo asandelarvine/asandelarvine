@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Fusion: What Super Skills Would You Create?](https://dev.to/codenewbieteam/code-fusion-what-super-skills-would-you-create-f9j)
+- [CodeNewbie post](https://dev.to/codenewbieteam/codenewbie-post-2ph0)
 - [Is GitHub Copilot a Game-Changer?](https://dev.to/devteam/is-github-copilot-a-game-changer-42gh)
 - [Raspberry Pi 4 vs. Raspberry Pi 5: Which Offers Better Value and Performance?](https://dev.to/anurag_vishwakarma/raspberry-pi-4-vs-raspberry-pi-5-which-offers-better-value-and-performance-b50)
-- [250-Web-Development-Tools Of course, here&#39;s a list of 250 web development and SEO tools for 2023 Design](https://dev.to/ltcbuzy/250-web-development-tools-of-course-heres-a-list-of-250-web-development-and-seo-tools-for-2023-design-5c1l)
-- [A base de Redux Toolkit e React Redux](https://dev.to/nickgabe/redux-toolkit-e-react-redux-2o9k)
 <!-- BLOG-POST-LIST:END -->
 
