@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023 registrations start! - The complete guide to win a T Shirt, Learn and Contribute.](https://dev.to/collectivhq/hacktoberfest-2023-registrations-start-the-complete-guide-to-win-a-t-shirt-learn-and-contribute-32lg)
+- [Exploring the Fundamentals: A Comprehensive Guide to Linux for Beginner](https://dev.to/msfaizi/exploring-the-fundamentals-a-comprehensive-guide-to-linux-for-beginner-ba8)
 - [Create a ChatGPT Chatbot from YouTube videos and Podcasts](https://dev.to/polterguy/create-a-chatgpt-chatbot-from-youtube-videos-and-podcasts-2jfm)
 - [Everything you need to know about Hacktoberfest 2023 &lpar;and why there are no free t-shirts?&rpar;](https://dev.to/durgesh4993/everything-you-need-to-know-about-hacktoberfest-2023-and-why-there-are-no-free-t-shirts-9fn)
-- [An Overview of the Path to Machine Learning Engineering](https://dev.to/durgesh4993/an-overview-of-the-path-to-machine-learning-engineering-4min)
-- [Beyond the Code: Essential Non-Technical Skills for a Thriving Career in Tech](https://dev.to/shieldstring/beyond-the-code-essential-non-technical-skills-for-a-thriving-career-in-tech-3pjm)
 <!-- BLOG-POST-LIST:END -->
 
