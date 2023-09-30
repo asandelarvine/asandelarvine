@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do GitHub stars ⭐️ = Money 💰?](https://dev.to/github20k/do-github-stars-money--348a)
-- [All about Hactoberfest&#39;23](https://dev.to/er_saifullah/all-about-hactoberfest23-2bb2)
-- [Lo que necesitas para iniciar con Gen AI utilizando PaLM 2 y MakeSuite](https://dev.to/marianocodes/lo-que-necesitas-para-iniciar-con-gen-ai-utilizando-palm-2-y-makesuite-3alc)
-- [Top 5 form validation libraries in React JS and Next JS](https://dev.to/zeeshanmustfai/top-5-form-validation-libraries-in-react-js-and-next-js-2i50)
+- [Everything you need to know about Hacktoberfest 2023 &lpar;and why there are no free t-shirts?&rpar;](https://dev.to/durgesh4993/everything-you-need-to-know-about-hacktoberfest-2023-and-why-there-are-no-free-t-shirts-9fn)
+- [Top 5 NO SQL databases to learn](https://dev.to/hasanelsherbiny/top-5-no-sql-databases-to-learn-1kga)
+- [An Overview of the Path to Machine Learning Engineering](https://dev.to/durgesh4993/an-overview-of-the-path-to-machine-learning-engineering-4min)
+- [Beyond the Code: Essential Non-Technical Skills for a Thriving Career in Tech](https://dev.to/shieldstring/beyond-the-code-essential-non-technical-skills-for-a-thriving-career-in-tech-3pjm)
 <!-- BLOG-POST-LIST:END -->
 
