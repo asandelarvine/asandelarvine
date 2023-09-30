@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Roadmap to Web Dev Mastery &lpar;Best Resources&rpar;](https://dev.to/codewithshahan/the-roadmap-to-web-dev-mastery-best-resources-2o1m)
+- [Stop throwing errors like this, do that instead!](https://dev.to/ksawery297/stop-throwing-errors-like-this-do-that-instead-354)
+- [Rants of a Beginner Techie3](https://dev.to/golden_builds/rants-of-a-beginner-techie3-326f)
 - [LaTeX book with examples](https://dev.to/anmnv/latex-book-with-examples-2jm8)
-- [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
-- [Hacktoberfest 2023 Contributors Wanted: Additional Translations for the user-statistician GitHub Action](https://dev.to/cicirello/hacktoberfest-2023-contributors-wanted-additional-translations-for-the-user-statistician-github-action-3bb5)
-- [Data science for beginners Detailed Road map for 2023–2024.](https://dev.to/edina/data-science-for-beginners-in-week-one-detailed-road-map-for-2023-2024-1kpe)
 <!-- BLOG-POST-LIST:END -->
 
