@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering Plug in Play architecture](https://dev.to/ivangavlik/discovering-plug-in-play-architecture-in-java-4ibp)
 - [Angular — New Control flow with a working example](https://dev.to/madhust/angular-new-control-flow-with-a-working-example-i48)
 - [How to Build an Accordion Menu in React from Scratch.](https://dev.to/kartikbudhraja/how-to-build-an-accordion-menu-in-react-from-scratch-1l0a)
 - [Munmap_chunk&lpar;&rpar; invalid pointer Fixed](https://dev.to/coderlegion/munmapchunk-invalid-pointer-fixed-5ebj)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3nna)
 <!-- BLOG-POST-LIST:END -->
 
