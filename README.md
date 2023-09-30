@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to choose the license of your GitHub repository](https://dev.to/opensourcee/explain-like-im-five-licenses-for-open-source-projects-16ob)
-- [Do Laundry During System Demos](https://dev.to/solidi/do-laundry-during-system-demos-2ndk)
-- [🔥 A next-generation CLI tool for building amazing web apps in Go using htmx &amp; hyperscript](https://dev.to/koddr/a-next-generation-cli-tool-for-building-amazing-web-apps-in-go-using-htmx-hyperscript-336d)
-- [Hacktoberfest 2023 registrations start! - The complete guide to win a T Shirt, Learn and Contribute.](https://dev.to/collectivhq/hacktoberfest-2023-registrations-start-the-complete-guide-to-win-a-t-shirt-learn-and-contribute-32lg)
+- [Super Safe Zero-Downtime Blue-Green Deployment with Docker-Compose, Consul, Integrity Checking](https://dev.to/andrewkangg/super-safe-zero-downtime-blue-green-deployment-with-docker-compose-consul-integrity-checking-56o0)
+- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/kipngenoruto/data-science-for-beginners-2023-2024-complete-roadmap-29mg)
+- [🔥Hacktoberfest 2023! let&#39;s gooo 🚀](https://dev.to/firecampdev/firecamp-is-participating-in-hacktoberfest-2023-245h)
+- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/k_ndrick/data-science-for-beginners-2023-2024-complete-roadmap-23dn)
 <!-- BLOG-POST-LIST:END -->
 
