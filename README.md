@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an Accordion Menu in React from Scratch.](https://dev.to/kartikbudhraja/how-to-build-an-accordion-menu-in-react-from-scratch-1l0a)
+- [Munmap_chunk&lpar;&rpar; invalid pointer Fixed](https://dev.to/coderlegion/munmapchunk-invalid-pointer-fixed-5ebj)
 - [Super Safe Zero-Downtime Blue-Green Deployment with Docker-Compose, Consul, Integrity Checking](https://dev.to/andrewkangg/super-safe-zero-downtime-blue-green-deployment-with-docker-compose-consul-integrity-checking-56o0)
-- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/kipngenoruto/data-science-for-beginners-2023-2024-complete-roadmap-29mg)
-- [🔥Hacktoberfest 2023! let&#39;s gooo 🚀](https://dev.to/firecampdev/firecamp-is-participating-in-hacktoberfest-2023-245h)
-- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/k_ndrick/data-science-for-beginners-2023-2024-complete-roadmap-23dn)
+- [How to Create a Pie Chart in JavaScript: IPL Winnership](https://dev.to/andreykh/how-to-create-a-pie-chart-in-javascript-ipl-winnership-15lc)
 <!-- BLOG-POST-LIST:END -->
 
