@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data science for beginners Detailed Road map for 2023–2024.](https://dev.to/edina/data-science-for-beginners-in-week-one-detailed-road-map-for-2023-2024-1kpe)
+- [Começando com Verilog 2 - Instanciação de Módulos](https://dev.to/marlonhenq/comecando-com-verilog-2-instanciacao-de-modulos-1mno)
+- [What I&#39;ve learned and done after 1 year on DEV!](https://dev.to/lensco825/what-ive-learned-and-done-after-1-year-on-dev-4l8n)
 - [👨🏾‍💻🚀HTML for Front-end Web Development](https://dev.to/dumebii/html-for-front-end-web-development-2jh)
-- [7 Blogging Mistakes I Wish I Had Known Before I Started](https://dev.to/nilan/7-blogging-mistakes-i-wish-i-had-known-before-i-started-o54)
-- [Discovering Plug in Play architecture](https://dev.to/ivangavlik/discovering-plug-in-play-architecture-in-java-4ibp)
-- [Web5: How to Query Records by Protocol Path](https://dev.to/tbdevs/web5-how-to-query-records-by-protocol-path-1g6h)
 <!-- BLOG-POST-LIST:END -->
 
