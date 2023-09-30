@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LaTeX book with examples](https://dev.to/anmnv/latex-book-with-examples-2jm8)
+- [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
 - [Hacktoberfest 2023 Contributors Wanted: Additional Translations for the user-statistician GitHub Action](https://dev.to/cicirello/hacktoberfest-2023-contributors-wanted-additional-translations-for-the-user-statistician-github-action-3bb5)
 - [Data science for beginners Detailed Road map for 2023–2024.](https://dev.to/edina/data-science-for-beginners-in-week-one-detailed-road-map-for-2023-2024-1kpe)
-- [Começando com Verilog 2 - Instanciação de Módulos](https://dev.to/marlonhenq/comecando-com-verilog-2-instanciacao-de-modulos-1mno)
-- [What I&#39;ve learned and done after 1 year on DEV!](https://dev.to/lensco825/what-ive-learned-and-done-after-1-year-on-dev-4l8n)
 <!-- BLOG-POST-LIST:END -->
 
