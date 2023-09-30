@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 form validation libraries in React JS and Next JS](https://dev.to/zeeshanmustfai/top-5-form-validation-libraries-in-react-js-and-next-js-2i50)
+- [Blockchain Dev Decline: Advice for Specialists?](https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe)
+- [Migrating Your WordPress Website to Another Host](https://dev.to/noobizdev/migrating-your-wordpress-website-to-another-host-1ohc)
 - [How I deployed my website as a container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
-- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/kevoluke/data-science-for-beginners-2023-2024-complete-roadmap-2b7b)
-- [gnu-on-alpine 3.18.4 and alpine-plus-plus 3.18.4 Released](https://dev.to/cicirello/gnu-on-alpine-3184-and-alpine-plus-plus-3184-released-4gng)
-- [Lee esto antes de Implementar VPC Endpoints y S3 con Terraform](https://dev.to/aws-espanol/lee-esto-antes-de-implementar-vpc-endpoints-y-s3-con-terraform-47bp)
 <!-- BLOG-POST-LIST:END -->
 
