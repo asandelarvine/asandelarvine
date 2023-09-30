@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a ChatGPT Chatbot from YouTube videos and Podcasts](https://dev.to/polterguy/create-a-chatgpt-chatbot-from-youtube-videos-and-podcasts-2jfm)
 - [Everything you need to know about Hacktoberfest 2023 &lpar;and why there are no free t-shirts?&rpar;](https://dev.to/durgesh4993/everything-you-need-to-know-about-hacktoberfest-2023-and-why-there-are-no-free-t-shirts-9fn)
-- [Top 5 NO SQL databases to learn](https://dev.to/hasanelsherbiny/top-5-no-sql-databases-to-learn-1kga)
 - [An Overview of the Path to Machine Learning Engineering](https://dev.to/durgesh4993/an-overview-of-the-path-to-machine-learning-engineering-4min)
 - [Beyond the Code: Essential Non-Technical Skills for a Thriving Career in Tech](https://dev.to/shieldstring/beyond-the-code-essential-non-technical-skills-for-a-thriving-career-in-tech-3pjm)
 <!-- BLOG-POST-LIST:END -->
