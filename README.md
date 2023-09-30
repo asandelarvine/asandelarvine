@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lo que necesitas para iniciar con Gen AI utilizando PaLM 2 y MakeSuite](https://dev.to/marianocodes/lo-que-necesitas-para-iniciar-con-gen-ai-utilizando-palm-2-y-makesuite-3alc)
 - [Top 5 form validation libraries in React JS and Next JS](https://dev.to/zeeshanmustfai/top-5-form-validation-libraries-in-react-js-and-next-js-2i50)
 - [Blockchain Dev Decline: Advice for Specialists?](https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe)
 - [Migrating Your WordPress Website to Another Host](https://dev.to/noobizdev/migrating-your-wordpress-website-to-another-host-1ohc)
-- [How I deployed my website as a container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
 <!-- BLOG-POST-LIST:END -->
 
