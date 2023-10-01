@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessible* ANIMATED Accordion: in pure CSS??? No way! 😱](https://dev.to/grahamthedev/accessible-animated-accordion-in-pure-css-no-way-5980)
-- [Hacktoberfest 2023 Help Thread: Your Community Hub!](https://dev.to/devteam/hacktoberfest-2023-help-thread-your-community-hub-4o69)
-- [Dictionaries and File Operations in Python](https://dev.to/scofieldidehen/dictionaries-and-file-operations-in-python-598)
-- [API Benchmarking with Artillery and Gitpod: Emulating Production for Enterprises](https://dev.to/siddhantkcode/api-benchmarking-with-artillery-and-gitpod-emulating-production-for-enterprises-315i)
+- [The MERN Stack Tutorial: The complete guide with examples](https://dev.to/alakkadshaw/the-mern-stack-tutorial-the-complete-guide-with-examples-2nf7)
+- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/zabayo92/data-science-for-beginners-2023-2024-complete-roadmap-3hhe)
+- [Researchers discover explicit registers eliminate vision transformer attention spikes](https://dev.to/mikeyoung44/researchers-discover-explicit-registers-eliminate-vision-transformer-attention-spikes-487j)
+- [The Art of Code Review and Why You Need It](https://dev.to/perssondennis/the-art-of-code-review-and-why-you-need-it-4b9m)
 <!-- BLOG-POST-LIST:END -->
 
