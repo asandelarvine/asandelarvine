@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Dynamic Property Keys with ES6 ?](https://dev.to/speaklouder/how-to-set-dynamic-property-keys-with-es6--3b3e)
 - [Introduction to CLI &amp; Cloud CLI Tools](https://dev.to/adewumi0550/introduction-to-cli-cloud-cli-tools-1a83)
 - [Mastering SQL&#39;s Recursive CTEs](https://dev.to/anilkaundal/mastering-sqls-recursive-ctes-4h28)
 - [Building a Firebase Authentication and Private Route System in a React App](https://dev.to/jps27cse/building-a-firebase-authentication-and-private-route-system-in-a-react-app-5203)
-- [Mastering the Art of Software Design: Unveiling the Power of Design Patterns](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-power-of-design-patterns-3f30)
 <!-- BLOG-POST-LIST:END -->
 
