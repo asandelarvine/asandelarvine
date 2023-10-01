@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessible* ANIMATED Accordion: in pure CSS??? No way! 😱](https://dev.to/grahamthedev/accessible-animated-accordion-in-pure-css-no-way-5980)
+- [Hacktoberfest 2023 Help Thread: Your Community Hub!](https://dev.to/devteam/hacktoberfest-2023-help-thread-your-community-hub-4o69)
 - [Dictionaries and File Operations in Python](https://dev.to/scofieldidehen/dictionaries-and-file-operations-in-python-598)
 - [API Benchmarking with Artillery and Gitpod: Emulating Production for Enterprises](https://dev.to/siddhantkcode/api-benchmarking-with-artillery-and-gitpod-emulating-production-for-enterprises-315i)
-- [6 frontend utilities for you](https://dev.to/opensourcee/6-frontend-utilities-for-you-1iim)
-- [Adapting API Strategies to Dynamic AI Trend](https://dev.to/apisix/adapting-api-strategies-to-dynamic-ai-trend-25eh)
 <!-- BLOG-POST-LIST:END -->
 
