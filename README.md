@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Firebase Authentication and Private Route System in a React App](https://dev.to/jps27cse/building-a-firebase-authentication-and-private-route-system-in-a-react-app-5203)
 - [💻🎃 Hacktoberfest 2023 is Here!](https://dev.to/devteam/hacktoberfest-2023-is-here-58bo)
+- [Single Responsibility Principle in React](https://dev.to/mikhaelesa/single-responsibility-principle-in-react-10oc)
 - [LeetCode 557. Reverse Words in a String III &lpar;easy&rpar;](https://dev.to/speaklouder/leetcode-557-reverse-words-in-a-string-iii-easy-523)
-- [Job Automation Process](https://dev.to/shreyvijayvargiya/job-automation-process-1ljp)
-- [Optimizing Image Loading for Lightning-Fast Performance in NEXT.js](https://dev.to/devantoniorogers/optimizing-image-loading-for-lightning-fast-performance-in-nextjs-533i)
 <!-- BLOG-POST-LIST:END -->
 
