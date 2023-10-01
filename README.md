@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The MERN Stack Tutorial: The complete guide with examples](https://dev.to/alakkadshaw/the-mern-stack-tutorial-the-complete-guide-with-examples-2nf7)
-- [Data Science for Beginners: 2023 - 2024 Complete Roadmap](https://dev.to/zabayo92/data-science-for-beginners-2023-2024-complete-roadmap-3hhe)
-- [Researchers discover explicit registers eliminate vision transformer attention spikes](https://dev.to/mikeyoung44/researchers-discover-explicit-registers-eliminate-vision-transformer-attention-spikes-487j)
-- [The Art of Code Review and Why You Need It](https://dev.to/perssondennis/the-art-of-code-review-and-why-you-need-it-4b9m)
+- [What is Web OTP, and which benefits do it provide to users?](https://dev.to/patik123/what-is-web-otp-and-which-benefits-do-it-provide-to-users-4h1f)
+- [Taming Async Operations in React with use-async-stateful](https://dev.to/everkers/taming-async-operations-in-react-with-use-async-stateful-3cla)
+- [Introduction to Linux eBook: A Comprehensive Guide for Beginners](https://dev.to/bobbyiliev/introduction-to-linux-ebook-a-comprehensive-guide-for-beginners-39hh)
+- [6 ways to find projects for Hacktoberfest 2023](https://dev.to/pradumnasaraf/6-ways-to-find-projects-for-hacktoberfest-2023-5cm1)
 <!-- BLOG-POST-LIST:END -->
 
