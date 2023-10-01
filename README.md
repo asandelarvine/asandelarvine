@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [I stopped using Google and here&#39;s why.](https://dev.to/alessandrofoglia07/i-stopped-using-google-and-heres-why-421l)
 - [I made Simba using pure CSS](https://dev.to/melnik909/i-made-simba-using-pure-css-2p4f)
 - [Introdução ao Python: parte 2](https://dev.to/eduardoromeiro_/introducao-ao-python-parte-2-e8g)
-- [Media.Net SRE 1 Role: My Interview Journey](https://dev.to/heybarun/medianet-sre-1-role-my-interview-journey-2lb0)
+- [Ayu&#39;s Hacktoberfest 2023 Pledge](https://dev.to/adiatiayu/ayus-hacktoberfest-2023-pledge-4d48)
 <!-- BLOG-POST-LIST:END -->
 
