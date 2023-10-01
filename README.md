@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Media.Net SRE 1 Role: My Interview Journey](https://dev.to/heybarun/medianet-sre-1-role-my-interview-journey-2lb0)
+- [How to convert text to speech with AI](https://dev.to/rouaham/how-to-convert-text-to-speech-with-ai-3pi3)
+- [Understanding Bun.js: A Modern JavaScript Bundler](https://dev.to/riyajathahamed/understanding-bunjs-a-modern-javascript-bundler-2gie)
 - [What is Web OTP, and which benefits do it provide to users?](https://dev.to/patik123/what-is-web-otp-and-which-benefits-do-it-provide-to-users-4h1f)
-- [Taming Async Operations in React with use-async-stateful](https://dev.to/everkers/taming-async-operations-in-react-with-use-async-stateful-3cla)
-- [Introduction to Linux eBook: A Comprehensive Guide for Beginners](https://dev.to/bobbyiliev/introduction-to-linux-ebook-a-comprehensive-guide-for-beginners-39hh)
-- [6 ways to find projects for Hacktoberfest 2023](https://dev.to/pradumnasaraf/6-ways-to-find-projects-for-hacktoberfest-2023-5cm1)
 <!-- BLOG-POST-LIST:END -->
 
