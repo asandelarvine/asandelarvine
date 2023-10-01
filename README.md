@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💻🎃 Hacktoberfest 2023 is Here!](https://dev.to/devteam/hacktoberfest-2023-is-here-58bo)
+- [LeetCode 557. Reverse Words in a String III &lpar;easy&rpar;](https://dev.to/speaklouder/leetcode-557-reverse-words-in-a-string-iii-easy-523)
 - [Job Automation Process](https://dev.to/shreyvijayvargiya/job-automation-process-1ljp)
 - [Optimizing Image Loading for Lightning-Fast Performance in NEXT.js](https://dev.to/devantoniorogers/optimizing-image-loading-for-lightning-fast-performance-in-nextjs-533i)
-- [Next.js 13: A Comprehensive Guide](https://dev.to/nathlowe/nextjs-13-a-comprehensive-guide-4cja)
-- [Ruby&#39;s main object](https://dev.to/hungle00/rubys-main-object-5hni)
 <!-- BLOG-POST-LIST:END -->
 
