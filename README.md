@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding the right macOS `defaults` command](https://dev.to/santisbon/finding-the-right-macos-defaults-command-4186)
 - [Low-Code Challenges: What&#39;s Next](https://dev.to/devteam/low-code-challenges-whats-next-5a9d)
 - [Coding and ADHD should be best friends](https://dev.to/mhmxs/coding-and-adhd-should-be-best-friends-15ml)
 - [The Roadmap to Web Dev Mastery &lpar;Best Resources&rpar;](https://dev.to/codewithshahan/the-roadmap-to-web-dev-mastery-best-resources-2o1m)
-- [Stop throwing errors like this, do that instead!](https://dev.to/ksawery297/stop-throwing-errors-like-this-do-that-instead-354)
 <!-- BLOG-POST-LIST:END -->
 
