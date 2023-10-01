@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dictionaries and File Operations in Python](https://dev.to/scofieldidehen/dictionaries-and-file-operations-in-python-598)
+- [API Benchmarking with Artillery and Gitpod: Emulating Production for Enterprises](https://dev.to/siddhantkcode/api-benchmarking-with-artillery-and-gitpod-emulating-production-for-enterprises-315i)
 - [6 frontend utilities for you](https://dev.to/opensourcee/6-frontend-utilities-for-you-1iim)
 - [Adapting API Strategies to Dynamic AI Trend](https://dev.to/apisix/adapting-api-strategies-to-dynamic-ai-trend-25eh)
-- [Have you tried these frontend techs?](https://dev.to/opensourcee/curated-list-of-frontend-utilities-6-3ggo)
-- [Build apps and sites with these tools](https://dev.to/opensourcee/curated-list-of-frontend-utilities-5-38b4)
 <!-- BLOG-POST-LIST:END -->
 
