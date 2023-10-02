@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Complete Guide to Deploying Next.js Standalone with Bun and Docker](https://dev.to/imamdev_/complete-guide-to-deploying-nextjs-standalone-with-bun-and-docker-1fc9)
+- [Cracking the Code: Leetcode 2038 - Removing Colored Pieces with Identical Neighbors](https://dev.to/speaklouder/cracking-the-code-leetcode-2038-removing-colored-pieces-with-identical-neighbors-2j94)
 - [Monolithic Apps in Containers: Viable or Not?](https://dev.to/devteam/monolithic-apps-in-containers-viable-or-not-11pm)
-- [I stopped using Google and here&#39;s why.](https://dev.to/alessandrofoglia07/i-stopped-using-google-and-heres-why-421l)
-- [I made Simba using pure CSS](https://dev.to/melnik909/i-made-simba-using-pure-css-2p4f)
-- [Introdução ao Python: parte 2](https://dev.to/eduardoromeiro_/introducao-ao-python-parte-2-e8g)
+- [Exploring Turbopack with Next.js 13](https://dev.to/rajaerobinson/exploring-turbopack-with-nextjs-13-2djo)
 <!-- BLOG-POST-LIST:END -->
 
