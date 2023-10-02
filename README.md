@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Common Security Vulnerabilities in Web Applications](https://dev.to/joymukherjee_18/9-common-security-vulnerabilities-in-web-applications-207)
 - [Data Science for Beginners📊: 2023-2024 Complete Roadmap✅](https://dev.to/musyoki97/data-science-for-beginners-2023-2024-complete-roadmap-1bgc)
+- [Introducing daily-python: An SDK for AI-powered interactive video and audio](https://dev.to/trydaily/introducing-daily-python-an-sdk-for-ai-powered-interactive-video-and-audio-2o44)
 - [O Futuro do Desenvolvimento Web: Node.js vs Bun](https://dev.to/fransborges/o-futuro-do-desenvolvimento-web-nodejs-vs-bun-1hk2)
-- [Unlock the Digital World: Web Development for Beginners Guide](https://dev.to/jcodes5/unlock-the-digital-world-web-development-for-beginners-guide-4n2j)
-- [Raku Blog Posts 2023.40](https://dev.to/lizmat/raku-blog-posts-202340-51k5)
 <!-- BLOG-POST-LIST:END -->
 
