@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Hacktoberfest as a Maintainer - Gadgets Ecommerce Project](https://dev.to/jps27cse/my-first-hacktoberfest-as-a-maintainer-gadgets-ecommerce-project-196b)
-- [Long Term Ownership of an Event-Driven System](https://dev.to/encore/long-term-ownership-of-an-event-driven-system-ajl)
-- [Building for Failure](https://dev.to/encore/building-for-failure-47gb)
-- [Making a Business Case for an Event-Driven Architecture](https://dev.to/encore/making-a-business-case-for-an-event-driven-architecture-2pdd)
+- [Open Source ABCs: Upstream](https://dev.to/opensauced/open-source-abcs-upstream-3i8e)
+- [How to run Jekyll on Kubernetes](https://dev.to/aws-builders/how-to-run-jekyll-on-kubernetes-aen)
+- [Develop a Simple PDF Invoicing App for your Business with CASE](https://dev.to/casejs/develop-a-simple-pdf-invoicing-app-for-your-business-with-case-1pca)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3hlb)
 <!-- BLOG-POST-LIST:END -->
 
