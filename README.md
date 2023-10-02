@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚛️ Full Stack Amazon Clone with Next.js, Typescript, Tailwind CSS, Zustand, Next UI, Recharts and Amplication 🚀](https://dev.to/koolkishan/full-stack-amazon-clone-with-nextjs-typescript-tailwind-css-zustand-next-ui-recharts-and-amplication-1h89)
-- [Generate Java Classes from JSON Schema](https://dev.to/murarikumar42/generate-java-classes-from-json-schema-3kam)
-- [Open Source ABCs: Upstream](https://dev.to/opensauced/open-source-abcs-upstream-3i8e)
-- [How to run Jekyll on Kubernetes](https://dev.to/aws-builders/how-to-run-jekyll-on-kubernetes-aen)
+- [Creating Bucket &lpar;S3&rpar; Notifications on AWS with GO](https://dev.to/rsiv/creating-bucket-s3-notifications-34h7)
+- [Building a Neural Network from Scratch in Python](https://dev.to/shroudian/building-a-neural-network-from-scratch-in-python-49cb)
+- [Pattern matching - Dealing with the if statement nightmare](https://dev.to/cherryramatis/pattern-matching-dealing-with-the-if-statement-nightmare-kkb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jnj)
 <!-- BLOG-POST-LIST:END -->
 
