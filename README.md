@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Our Parents&#39; Faves Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-our-parents-faves-edition-635)
-- [Kubernetes Cheatsheet: Essential Commands and Concepts for Efficient Container Orchestration](https://dev.to/msfaizi/kubernetes-cheatsheet-essential-commands-and-concepts-for-efficient-container-orchestration-201n)
-- [Building a Real-Time Location Sharing App with React, Socket.io, and Leaflet](https://dev.to/manishmehra/building-a-real-time-location-sharing-app-with-react-socketio-and-leaflet-236l)
-- [How to Install Python Pyenv on macOS](https://dev.to/fahmisalman/how-to-install-python-pyenv-on-macos-7k6)
+- [My First Hacktoberfest as a Maintainer - Gadgets Ecommerce Project](https://dev.to/jps27cse/my-first-hacktoberfest-as-a-maintainer-gadgets-ecommerce-project-196b)
+- [Long Term Ownership of an Event-Driven System](https://dev.to/encore/long-term-ownership-of-an-event-driven-system-ajl)
+- [Building for Failure](https://dev.to/encore/building-for-failure-47gb)
+- [Making a Business Case for an Event-Driven Architecture](https://dev.to/encore/making-a-business-case-for-an-event-driven-architecture-2pdd)
 <!-- BLOG-POST-LIST:END -->
 
