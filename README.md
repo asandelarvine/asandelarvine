@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Translate API in a React.js](https://dev.to/codelover405/google-translate-api-in-a-reactjs-2697)
-- [🚀 API Maker - Custom API [Post operation]](https://dev.to/apimaker/api-maker-custom-api-post-operation-23k8)
-- [Mastering the Javascript DOM 🎡](https://dev.to/shivamblog/mastering-the-javascript-dom-43gj)
-- [2023-09-29: Back on my own](https://dev.to/armantark/2023-09-29-back-on-my-own-4b4)
+- [Deploy Any AI/ML Application On Kubernetes: A Step-by-Step Guide!](https://dev.to/pavanbelagatti/deploy-any-aiml-application-on-kubernetes-a-step-by-step-guide-2i37)
+- [Pakku Through Images](https://dev.to/hythm7/pakku-through-images-3mec)
+- [Understanding SQL Types of Indexes: A Beginner&#39;s Guide](https://dev.to/jackynote/understanding-sql-types-of-indexes-a-beginners-guide-2ag1)
+- [Creating My First npx Package: &quot;create-sra&quot;](https://dev.to/bladearya/creating-my-first-npx-package-create-sra-3762)
 <!-- BLOG-POST-LIST:END -->
 
