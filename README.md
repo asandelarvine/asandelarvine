@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Deploying Next.js Standalone with Bun and Docker](https://dev.to/imamdev_/complete-guide-to-deploying-nextjs-standalone-with-bun-and-docker-1fc9)
-- [Cracking the Code: Leetcode 2038 - Removing Colored Pieces with Identical Neighbors](https://dev.to/speaklouder/cracking-the-code-leetcode-2038-removing-colored-pieces-with-identical-neighbors-2j94)
-- [Monolithic Apps in Containers: Viable or Not?](https://dev.to/devteam/monolithic-apps-in-containers-viable-or-not-11pm)
-- [Exploring Turbopack with Next.js 13](https://dev.to/rajaerobinson/exploring-turbopack-with-nextjs-13-2djo)
+- [Google Translate API in a React.js](https://dev.to/codelover405/google-translate-api-in-a-reactjs-2697)
+- [🚀 API Maker - Custom API [Post operation]](https://dev.to/apimaker/api-maker-custom-api-post-operation-23k8)
+- [Mastering the Javascript DOM 🎡](https://dev.to/shivamblog/mastering-the-javascript-dom-43gj)
+- [2023-09-29: Back on my own](https://dev.to/armantark/2023-09-29-back-on-my-own-4b4)
 <!-- BLOG-POST-LIST:END -->
 
