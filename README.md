@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Diferentes tipos de gráficos y su uso en la gestión de proyectos](https://dev.to/oroscoloyamena/diferentes-tipos-de-graficos-y-su-uso-en-la-gestion-de-proyectos-27e3)
+- [Using Conditional Put to Solve MongoDB Concurrency Issues](https://dev.to/woovi/using-conditional-put-to-solve-mongodb-concurrency-issues-405a)
 - [Meteor Core issues for Hacktoberfest 2023](https://dev.to/meteor/meteor-core-issues-for-hacktoberfest-2023-447k)
 - [building a basic markdown editor: unified, trees and data](https://dev.to/matfire/building-a-basic-markdown-editor-unified-trees-and-data-588a)
-- [How to contribute to Hacktoberfest 2023](https://dev.to/durgesh4993/how-to-contribute-to-hacktoberfest-2023-3b5p)
-- [Specificity in CSS Selectors](https://dev.to/salehmubashar/specificity-in-css-selectors-58i5)
 <!-- BLOG-POST-LIST:END -->
 
