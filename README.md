@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🎃 Embarking On My Hacktoberfest Journey as a Unity Game Repo Maintainer 🎮](https://dev.to/tarynmcmillan/embarking-on-my-hacktoberfest-journey-as-a-unity-game-repo-maintainer-2o46)
+- [Getting Started with SMS Notifications using Africas Talking and GitHub Actions Part 3 - Error Notifications](https://dev.to/ken_mwaura1/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-part-3-error-notifications-2e36)
 - [Creating Bucket &lpar;S3&rpar; Notifications on AWS with GO](https://dev.to/rsiv/creating-bucket-s3-notifications-34h7)
 - [Building a Neural Network from Scratch in Python](https://dev.to/shroudian/building-a-neural-network-from-scratch-in-python-49cb)
-- [Pattern matching - Dealing with the if statement nightmare](https://dev.to/cherryramatis/pattern-matching-dealing-with-the-if-statement-nightmare-kkb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jnj)
 <!-- BLOG-POST-LIST:END -->
 
