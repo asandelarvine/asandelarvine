@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O Futuro do Desenvolvimento Web: Node.js vs Bun](https://dev.to/fransborges/o-futuro-do-desenvolvimento-web-nodejs-vs-bun-1hk2)
 - [Unlock the Digital World: Web Development for Beginners Guide](https://dev.to/jcodes5/unlock-the-digital-world-web-development-for-beginners-guide-4n2j)
 - [Raku Blog Posts 2023.40](https://dev.to/lizmat/raku-blog-posts-202340-51k5)
 - [Programming Languages Every Developer Should Watch Out For](https://dev.to/gyauelvis/programming-languages-every-developer-should-watch-out-for-1ak4)
-- [🎃 Embarking On My Hacktoberfest Journey as a Unity Game Repo Maintainer 🎮](https://dev.to/tarynmcmillan/embarking-on-my-hacktoberfest-journey-as-a-unity-game-repo-maintainer-2o46)
 <!-- BLOG-POST-LIST:END -->
 
