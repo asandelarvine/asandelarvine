@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⚛️ Full Stack Amazon Clone with Next.js, Typescript, Tailwind CSS, Zustand, Next UI, Recharts and Amplication 🚀](https://dev.to/koolkishan/full-stack-amazon-clone-with-nextjs-typescript-tailwind-css-zustand-next-ui-recharts-and-amplication-1h89)
+- [Generate Java Classes from JSON Schema](https://dev.to/murarikumar42/generate-java-classes-from-json-schema-3kam)
 - [Open Source ABCs: Upstream](https://dev.to/opensauced/open-source-abcs-upstream-3i8e)
 - [How to run Jekyll on Kubernetes](https://dev.to/aws-builders/how-to-run-jekyll-on-kubernetes-aen)
-- [Develop a Simple PDF Invoicing App for your Business with CASE](https://dev.to/casejs/develop-a-simple-pdf-invoicing-app-for-your-business-with-case-1pca)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3hlb)
 <!-- BLOG-POST-LIST:END -->
 
