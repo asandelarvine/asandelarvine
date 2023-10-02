@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-3ll2)
+- [🖼️ Unleash graph visualization power to take full control over your project with skott](https://dev.to/antoinecoulon/unleash-graph-visualization-power-to-take-full-control-over-your-project-with-skott-3cm2)
+- [Amazon Comprehend](https://dev.to/aws-builders/amazon-comprehend-44hf)
 - [Video Content Aggregator - MoviePy 🎬](https://dev.to/rjsgml/video-content-aggregator-moviepy-2b27)
-- [Salesforce Testing: A Complete Guide](https://dev.to/rohits613/salesforce-testing-a-complete-guide-1hhe)
-- [Choose Your Struggle: Navigating the Tech Landscape](https://dev.to/msnmongare/choose-your-struggle-navigating-the-tech-landscape-4m0b)
-- [Using URL to store state in Vue](https://dev.to/jacobandrewsky/using-url-to-store-state-in-vue-275c)
 <!-- BLOG-POST-LIST:END -->
 
