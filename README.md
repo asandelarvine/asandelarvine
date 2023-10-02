@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-3ll2)
-- [🖼️ Unleash graph visualization power to take full control over your project with skott](https://dev.to/antoinecoulon/unleash-graph-visualization-power-to-take-full-control-over-your-project-with-skott-3cm2)
-- [Amazon Comprehend](https://dev.to/aws-builders/amazon-comprehend-44hf)
-- [Video Content Aggregator - MoviePy 🎬](https://dev.to/rjsgml/video-content-aggregator-moviepy-2b27)
+- [How Kubescape reached 2,000 stars in one week](https://dev.to/github20k/how-kubescape-reached-2000-stars-in-one-week-122c)
+- [This Is The Weirdest JavaScript Operator 🤯](https://dev.to/taquiimam14/this-is-the-weirdest-javascript-operator-1d01)
+- [Insomnia Alternative: Hoppscotch - Open Source, Self-Hosted API Development Ecosystem](https://dev.to/hoppscotch/insomnia-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-2h2e)
+- [How Networks Work: Exploring the Fundamentals of Switches, Routers, DNS, DHCP, NAT, VPN, and More](https://dev.to/kaushit/how-networks-work-exploring-the-fundamentals-of-switches-routers-dns-dhcp-nat-vpn-and-more-33d1)
 <!-- BLOG-POST-LIST:END -->
 
