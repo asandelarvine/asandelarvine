@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup &lpar;Sep 25&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-sep-25-hot-topics-in-workplace-sharepoint-and-powerplatform-52ml)
+- [What is GIT and version Control](https://dev.to/hasanelsherbiny/what-is-git-and-version-control-4gib)
+- [GraphQL vs. REST: Which Is Right for Your API?](https://dev.to/codingcrafts/graphql-vs-rest-which-is-right-for-your-api-5do2)
 - [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-2o2j)
-- [How do I make the Openai API message output in real time?](https://dev.to/breath3manually/how-do-i-make-the-openai-api-message-output-in-real-time-2p3b)
-- [What are Promises &amp; Async/Await in JavaScript?](https://dev.to/justmrkhan/what-are-promises-asyncawait-in-javascript-8p0)
-- [Apache AGE: A Technical Deep Dive](https://dev.to/danielwambo/apache-age-a-technical-deep-dive-48n)
 <!-- BLOG-POST-LIST:END -->
 
