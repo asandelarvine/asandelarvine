@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Any AI/ML Application On Kubernetes: A Step-by-Step Guide!](https://dev.to/pavanbelagatti/deploy-any-aiml-application-on-kubernetes-a-step-by-step-guide-2i37)
-- [Pakku Through Images](https://dev.to/hythm7/pakku-through-images-3mec)
-- [Understanding SQL Types of Indexes: A Beginner&#39;s Guide](https://dev.to/jackynote/understanding-sql-types-of-indexes-a-beginners-guide-2ag1)
-- [Creating My First npx Package: &quot;create-sra&quot;](https://dev.to/bladearya/creating-my-first-npx-package-create-sra-3762)
+- [Apache AGE: A Technical Deep Dive](https://dev.to/danielwambo/apache-age-a-technical-deep-dive-48n)
+- [Hacktoberfest 2023 Pledge](https://dev.to/darkbits018/hacktoberfest-2023-pledge-4015)
+- [Comprehensive Overview of CASE Tools: Streamlining Software Development](https://dev.to/adityapratapbh1/comprehensive-overview-of-case-tools-streamlining-software-development-2p9p)
+- [Top 5 AI Tools for 10x productivity](https://dev.to/chrisimade/top-5-ai-tools-for-10x-productivity-1n73)
 <!-- BLOG-POST-LIST:END -->
 
