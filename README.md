@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-2o2j)
+- [How do I make the Openai API message output in real time?](https://dev.to/breath3manually/how-do-i-make-the-openai-api-message-output-in-real-time-2p3b)
+- [What are Promises &amp; Async/Await in JavaScript?](https://dev.to/justmrkhan/what-are-promises-asyncawait-in-javascript-8p0)
 - [Apache AGE: A Technical Deep Dive](https://dev.to/danielwambo/apache-age-a-technical-deep-dive-48n)
-- [Hacktoberfest 2023 Pledge](https://dev.to/darkbits018/hacktoberfest-2023-pledge-4015)
-- [Comprehensive Overview of CASE Tools: Streamlining Software Development](https://dev.to/adityapratapbh1/comprehensive-overview-of-case-tools-streamlining-software-development-2p9p)
-- [Top 5 AI Tools for 10x productivity](https://dev.to/chrisimade/top-5-ai-tools-for-10x-productivity-1n73)
 <!-- BLOG-POST-LIST:END -->
 
