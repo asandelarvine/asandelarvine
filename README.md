@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-3b3b)
-- [🔥 Building a Complete React CRM App with refine, Ant Design and GraphQL](https://dev.to/refine/building-a-complete-react-crm-app-with-refine-ant-design-and-graphql-4pgm)
-- [🚀 API Maker - Third party API](https://dev.to/apimaker/api-maker-third-party-api-nj3)
-- [C# Classes](https://dev.to/zafarurakov/c-classes-4md7)
+- [Why SharePoint Online is Indispensable for Copilot](https://dev.to/jaloplo/why-sharepoint-online-is-indispensable-for-copilot-3ib4)
+- [How to Make an Animated Number Counter with Tailwind CSS](https://dev.to/cruip_com/how-to-make-an-animated-number-counter-with-tailwind-css-fif)
+- [Introduction to SQL for Absolute Beginners!](https://dev.to/pavanbelagatti/introduction-to-sql-for-absolute-beginners-4773)
+- [How to create a simple Outlook Add-in using C#?](https://dev.to/ifourtechnolab/how-to-create-a-simple-outlook-add-in-using-c-1g9k)
 <!-- BLOG-POST-LIST:END -->
 
