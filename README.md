@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build flexible Rails application w/ pattern Bridge &lpar;Scale your Rails App #1&rpar;](https://dev.to/justthev/build-flexible-rails-application-w-pattern-bridge-scale-your-rails-app-1-b9d)
+- [Exposure in the Workplace - VS Code Extensions](https://dev.to/wraith/exposure-in-the-workplace-vs-code-extensions-474)
+- [How to Secure Your Container Registries With GitGuardian&#39;s Honeytoken](https://dev.to/gitguardian/how-to-secure-your-container-registries-with-gitguardians-honeytoken-12dp)
 - [VueJS part 6: Components introduction](https://dev.to/hi_iam_chris/vuejs-part-6-components-introduction-12b5)
-- [Speeding up MongoDB migrations with cursors and bulkWrite](https://dev.to/woovi/speeding-up-mongodb-migrations-with-cursors-and-bulkwrite-3hm2)
-- [Not a Single Trace](https://dev.to/codenameone/not-a-single-trace-3903)
-- [End of React? Web Components Review](https://dev.to/easewithtuts/end-of-react-web-components-review-4664)
 <!-- BLOG-POST-LIST:END -->
 
