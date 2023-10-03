@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HR Don&#39;t like Buzzwords: How Being Real Lands You the Job](https://dev.to/xmohammedawad/hr-dont-like-buzzwords-how-being-real-lands-you-the-job-3j9n)
 - [How to Pretty JSON Output using JavaScript](https://dev.to/speaklouder/how-to-pretty-json-output-using-javascript-27k6)
 - [Optimizing Container Loading for a Logistics Company with the LAFF Algorithm](https://dev.to/jackynote/optimizing-container-loading-for-a-logistics-company-with-the-laff-algorithm-538h)
-- [Javascript Debugging &amp; Error Handling 🐞](https://dev.to/shivamblog/javascript-debugging-error-handling-ci8)
-- [Technical Writing for Programmers](https://dev.to/easewithtuts/technical-writing-for-programmers-5dk4)
+- [Unlocking the Power of JavaScript Generators 🦾⏭️](https://dev.to/alessandrofoglia07/unlocking-the-power-of-javascript-generators-5d4i)
 <!-- BLOG-POST-LIST:END -->
 
