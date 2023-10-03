@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Common Security Vulnerabilities in Web Applications](https://dev.to/joymukherjee_18/9-common-security-vulnerabilities-in-web-applications-207)
-- [Data Science for Beginners📊: 2023-2024 Complete Roadmap✅](https://dev.to/musyoki97/data-science-for-beginners-2023-2024-complete-roadmap-1bgc)
-- [Introducing daily-python: An SDK for AI-powered interactive video and audio](https://dev.to/trydaily/introducing-daily-python-an-sdk-for-ai-powered-interactive-video-and-audio-2o44)
-- [O Futuro do Desenvolvimento Web: Node.js vs Bun](https://dev.to/fransborges/o-futuro-do-desenvolvimento-web-nodejs-vs-bun-1hk2)
+- [Technical Writing for Programmers](https://dev.to/easewithtuts/technical-writing-for-programmers-5dk4)
+- [Outsourcing Software Dev: What Factors Matter?](https://dev.to/devteam/outsourcing-software-dev-what-factors-matter-42a5)
+- [My #100DaysOfCode Challenge](https://dev.to/devencourt/my-100daysofcode-challenge-1d66)
+- [Integrating Prometheus with SAP&#39;s Enterprise Software for Kubernetes Monitoring: A Step-by-Step Guide](https://dev.to/johnpottergr/integrating-prometheus-with-saps-enterprise-software-for-kubernetes-monitoring-a-step-by-step-guide-4i68)
 <!-- BLOG-POST-LIST:END -->
 
