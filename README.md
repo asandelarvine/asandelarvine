@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Pretty JSON Output using JavaScript](https://dev.to/speaklouder/how-to-pretty-json-output-using-javascript-27k6)
+- [Optimizing Container Loading for a Logistics Company with the LAFF Algorithm](https://dev.to/jackynote/optimizing-container-loading-for-a-logistics-company-with-the-laff-algorithm-538h)
+- [Javascript Debugging &amp; Error Handling 🐞](https://dev.to/shivamblog/javascript-debugging-error-handling-ci8)
 - [Technical Writing for Programmers](https://dev.to/easewithtuts/technical-writing-for-programmers-5dk4)
-- [Tool-Integrated Reasoning: A New Approach for Math-Savvy LLMs](https://dev.to/mikeyoung44/tool-integrated-reasoning-a-new-approach-for-math-savvy-llms-242g)
-- [&quot;Enhancing Text2page: Adding Markdown and Code Block Support&quot; #LAB 3](https://dev.to/vishnudas2003/enhancing-text2page-adding-markdown-and-code-block-supportlab-3-2mi2)
-- [Infinite Context Windows? LLMs for Streaming Applications with Attention Sinks](https://dev.to/mikeyoung44/infinite-context-windows-llms-for-streaming-applications-with-attention-sinks-277f)
 <!-- BLOG-POST-LIST:END -->
 
