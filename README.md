@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsividade CSS 101 - Breakpoints](https://dev.to/lixeletto/responsividade-css-101-breakpoints-1c06)
-- [12 Personal Go Tricks That Transformed My Productivity](https://dev.to/func25/12-personal-go-tricks-that-transformed-my-productivity-mne)
-- [Custom vs. off-the-shelf React web notification systems: Which is better?](https://dev.to/ably/custom-vs-off-the-shelf-react-web-notification-systems-which-is-better-2ddn)
-- [6 Reasons why JSON Schema is worth your time](https://dev.to/apfrancis/6-reasons-why-json-schema-is-worth-your-time-429n)
+- [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
+- [Demystifying JavaScript IIFE](https://dev.to/arindam_1729/demystifying-javascript-iife-1c0k)
+- [Unveiling Javascript Scopes](https://dev.to/arindam_1729/unveiling-javascript-scopes-4bl5)
+- [Understanding JavaScript Execution Context](https://dev.to/arindam_1729/understanding-javascript-execution-context-573k)
 <!-- BLOG-POST-LIST:END -->
 
