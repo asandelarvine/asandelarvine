@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
 - [Hello, Dev.to](https://dev.to/yagowences/hello-devto-3535)
 - [Performance Testing: Why, When, and What](https://dev.to/cloudx/performance-testing-why-when-and-what-45k3)
 - [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
-- [Demystifying JavaScript IIFE](https://dev.to/arindam_1729/demystifying-javascript-iife-1c0k)
 <!-- BLOG-POST-LIST:END -->
 
