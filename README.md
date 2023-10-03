@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsividade CSS 101 - Breakpoints](https://dev.to/lixeletto/responsividade-css-101-breakpoints-1c06)
 - [12 Personal Go Tricks That Transformed My Productivity](https://dev.to/func25/12-personal-go-tricks-that-transformed-my-productivity-mne)
-- [How to be a Top Contributor this Hacktoberfest](https://dev.to/opensauced/how-to-be-a-top-contributor-this-hacktoberfest-f1k)
-- [Kubernetes For The Sysadmin - Enter KubeVirt](https://dev.to/thenjdevopsguy/kubernetes-for-the-sysadmin-enter-kubevirt-5024)
-- [Validate database schema changes in your CI pipeline before deploying to production](https://dev.to/nicolewhite-ab/validate-database-schema-changes-in-your-ci-pipeline-before-deploying-to-production-1bfh)
+- [Custom vs. off-the-shelf React web notification systems: Which is better?](https://dev.to/ably/custom-vs-off-the-shelf-react-web-notification-systems-which-is-better-2ddn)
+- [6 Reasons why JSON Schema is worth your time](https://dev.to/apfrancis/6-reasons-why-json-schema-is-worth-your-time-429n)
 <!-- BLOG-POST-LIST:END -->
 
