@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, Dev.to](https://dev.to/yagowences/hello-devto-3535)
+- [Performance Testing: Why, When, and What](https://dev.to/cloudx/performance-testing-why-when-and-what-45k3)
 - [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
 - [Demystifying JavaScript IIFE](https://dev.to/arindam_1729/demystifying-javascript-iife-1c0k)
-- [Unveiling Javascript Scopes](https://dev.to/arindam_1729/unveiling-javascript-scopes-4bl5)
-- [Understanding JavaScript Execution Context](https://dev.to/arindam_1729/understanding-javascript-execution-context-573k)
 <!-- BLOG-POST-LIST:END -->
 
