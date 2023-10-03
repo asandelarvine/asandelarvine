@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Predictive Analytics in Shaping the Future of Healthcare](https://dev.to/marutitech/the-role-of-predictive-analytics-in-shaping-the-future-of-healthcare-5bf5)
+- [VueJS part 6: Components introduction](https://dev.to/hi_iam_chris/vuejs-part-6-components-introduction-12b5)
+- [Speeding up MongoDB migrations with cursors and bulkWrite](https://dev.to/woovi/speeding-up-mongodb-migrations-with-cursors-and-bulkwrite-3hm2)
+- [Not a Single Trace](https://dev.to/codenameone/not-a-single-trace-3903)
 - [End of React? Web Components Review](https://dev.to/easewithtuts/end-of-react-web-components-review-4664)
-- [Specificity Mechanism of CSS](https://dev.to/eminaltan/specificity-mechanism-of-css-28dk)
-- [Deep Dive into API Testing - An introduction to RESTful APIs](https://dev.to/m4rri4nne/deep-dive-into-api-testing-an-introduction-to-restful-apis-62o)
 <!-- BLOG-POST-LIST:END -->
 
