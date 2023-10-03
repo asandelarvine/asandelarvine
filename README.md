@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How can decorators simplify the web forms development](https://dev.to/yoskutik/how-can-decorators-simplify-the-web-forms-development-4hle)
-- [How to have the coolest booth at a tech conference 🕹👾](https://dev.to/wasp/how-to-have-the-coolest-booth-at-a-tech-conference-5eoh)
-- [Some brainstorming about how to theme a marketplace](https://dev.to/yelldutz/some-brainstorming-about-how-to-theme-a-marketplace-5d1c)
-- [Lessons from my Technical Writing journey](https://dev.to/dumebii/what-i-have-learned-so-far-in-technical-writing-3cj6)
+- [Develop over a full database managed service on your laptop!](https://dev.to/javierdelatorre/develop-over-a-full-database-managed-service-on-your-laptop-20pg)
+- [Eleventy components woes](https://dev.to/graphqleditor/eleventy-components-woes-3nap)
+- [Level Up Your Coding Interview Skills: 5 Secret Weapons](https://dev.to/alexr/level-up-your-coding-interview-skills-5-secret-weapons-bbi)
+- [GPT Pilot - a dev tool that writes 95% of coding tasks [Part 2/3 - Coding Workflow]](https://dev.to/zvone187/gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-part-23-coding-workflow-1e15)
 <!-- BLOG-POST-LIST:END -->
 
