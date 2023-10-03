@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Technical Writing for Programmers](https://dev.to/easewithtuts/technical-writing-for-programmers-5dk4)
-- [Outsourcing Software Dev: What Factors Matter?](https://dev.to/devteam/outsourcing-software-dev-what-factors-matter-42a5)
-- [My #100DaysOfCode Challenge](https://dev.to/devencourt/my-100daysofcode-challenge-1d66)
-- [Integrating Prometheus with SAP&#39;s Enterprise Software for Kubernetes Monitoring: A Step-by-Step Guide](https://dev.to/johnpottergr/integrating-prometheus-with-saps-enterprise-software-for-kubernetes-monitoring-a-step-by-step-guide-4i68)
+- [Tool-Integrated Reasoning: A New Approach for Math-Savvy LLMs](https://dev.to/mikeyoung44/tool-integrated-reasoning-a-new-approach-for-math-savvy-llms-242g)
+- [&quot;Enhancing Text2page: Adding Markdown and Code Block Support&quot; #LAB 3](https://dev.to/vishnudas2003/enhancing-text2page-adding-markdown-and-code-block-supportlab-3-2mi2)
+- [Infinite Context Windows? LLMs for Streaming Applications with Attention Sinks](https://dev.to/mikeyoung44/infinite-context-windows-llms-for-streaming-applications-with-attention-sinks-277f)
 <!-- BLOG-POST-LIST:END -->
 
