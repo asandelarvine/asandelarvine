@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication and Authorization](https://dev.to/shafia/authentication-and-authorization-17b3)
-- [Why SharePoint Online is Indispensable for Copilot](https://dev.to/jaloplo/why-sharepoint-online-is-indispensable-for-copilot-3ib4)
-- [How to Make an Animated Number Counter with Tailwind CSS](https://dev.to/cruip_com/how-to-make-an-animated-number-counter-with-tailwind-css-fif)
-- [Introduction to SQL for Absolute Beginners!](https://dev.to/pavanbelagatti/introduction-to-sql-for-absolute-beginners-4773)
+- [Open source admin dashboard template for Tailwind CSS &amp; NextJS - Use it for free](https://dev.to/fredy/open-source-admin-dashboard-template-for-tailwind-css-nextjs-use-it-for-free-20fj)
+- [DevOps with Fast API &amp; PostgreSQL: How to containerize Fast API Application with Docker](https://dev.to/mbuthi/devops-with-fast-api-postgresql-how-to-containerize-fast-api-application-with-docker-1jdb)
+- [The one thing everyone&#39;s doing wrong with ChatGPT... 🤫🤔](https://dev.to/confidentai/the-one-thing-everyones-doing-wrong-with-chatgpt-3api)
+- [⚛️ 7 Top Platforms to Learn React for Free](https://dev.to/evergrowingdev/7-top-platforms-to-learn-react-for-free-2922)
 <!-- BLOG-POST-LIST:END -->
 
