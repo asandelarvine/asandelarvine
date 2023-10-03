@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source admin dashboard template for Tailwind CSS &amp; NextJS - Use it for free](https://dev.to/fredy/open-source-admin-dashboard-template-for-tailwind-css-nextjs-use-it-for-free-20fj)
-- [DevOps with Fast API &amp; PostgreSQL: How to containerize Fast API Application with Docker](https://dev.to/mbuthi/devops-with-fast-api-postgresql-how-to-containerize-fast-api-application-with-docker-1jdb)
-- [The one thing everyone&#39;s doing wrong with ChatGPT... 🤫🤔](https://dev.to/confidentai/the-one-thing-everyones-doing-wrong-with-chatgpt-3api)
-- [⚛️ 7 Top Platforms to Learn React for Free](https://dev.to/evergrowingdev/7-top-platforms-to-learn-react-for-free-2922)
+- [Deep Dive into API Testing - An introduction to RESTful APIs](https://dev.to/m4rri4nne/deep-dive-into-api-testing-an-introduction-to-restful-apis-62o)
+- [🚀 Achieve NextJS Mastery: Build a Sales Page with Stripe and Airtable 🧙‍♂️🪄✨](https://dev.to/triggerdotdev/achieve-nextjs-mastery-build-a-sales-page-with-stripe-and-airtable-1p5m)
+- [An Introduction to Exceptions in Elixir](https://dev.to/appsignal/an-introduction-to-exceptions-in-elixir-2kil)
+- [Website with AWS: Modern Hosting](https://dev.to/aws-builders/website-with-aws-modern-hosting-4la3)
 <!-- BLOG-POST-LIST:END -->
 
