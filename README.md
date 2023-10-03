@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Develop over a full database managed service on your laptop!](https://dev.to/javierdelatorre/develop-over-a-full-database-managed-service-on-your-laptop-20pg)
-- [Eleventy components woes](https://dev.to/graphqleditor/eleventy-components-woes-3nap)
-- [Level Up Your Coding Interview Skills: 5 Secret Weapons](https://dev.to/alexr/level-up-your-coding-interview-skills-5-secret-weapons-bbi)
-- [GPT Pilot - a dev tool that writes 95% of coding tasks [Part 2/3 - Coding Workflow]](https://dev.to/zvone187/gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-part-23-coding-workflow-1e15)
+- [12 Personal Go Tricks That Transformed My Productivity](https://dev.to/func25/12-personal-go-tricks-that-transformed-my-productivity-mne)
+- [How to be a Top Contributor this Hacktoberfest](https://dev.to/opensauced/how-to-be-a-top-contributor-this-hacktoberfest-f1k)
+- [Kubernetes For The Sysadmin - Enter KubeVirt](https://dev.to/thenjdevopsguy/kubernetes-for-the-sysadmin-enter-kubevirt-5024)
+- [Validate database schema changes in your CI pipeline before deploying to production](https://dev.to/nicolewhite-ab/validate-database-schema-changes-in-your-ci-pipeline-before-deploying-to-production-1bfh)
 <!-- BLOG-POST-LIST:END -->
 
