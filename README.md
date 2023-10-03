@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build flexible Rails application w/ pattern Bridge &lpar;Scale your Rails App #1&rpar;](https://dev.to/justthev/build-flexible-rails-application-w-pattern-bridge-scale-your-rails-app-1-b9d)
-- [Exposure in the Workplace - VS Code Extensions](https://dev.to/wraith/exposure-in-the-workplace-vs-code-extensions-474)
-- [How to Secure Your Container Registries With GitGuardian&#39;s Honeytoken](https://dev.to/gitguardian/how-to-secure-your-container-registries-with-gitguardians-honeytoken-12dp)
-- [VueJS part 6: Components introduction](https://dev.to/hi_iam_chris/vuejs-part-6-components-introduction-12b5)
+- [How can decorators simplify the web forms development](https://dev.to/yoskutik/how-can-decorators-simplify-the-web-forms-development-4hle)
+- [How to have the coolest booth at a tech conference 🕹👾](https://dev.to/wasp/how-to-have-the-coolest-booth-at-a-tech-conference-5eoh)
+- [Some brainstorming about how to theme a marketplace](https://dev.to/yelldutz/some-brainstorming-about-how-to-theme-a-marketplace-5d1c)
+- [Lessons from my Technical Writing journey](https://dev.to/dumebii/what-i-have-learned-so-far-in-technical-writing-3cj6)
 <!-- BLOG-POST-LIST:END -->
 
