@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking inside GPT-Synthesizer and the idea of LLM-based code generation](https://dev.to/robocoach/looking-inside-gpt-synthesizer-and-the-idea-of-llm-based-code-generation-41d9)
+- [Must have software for programmers](https://dev.to/codewithshahan/must-have-software-for-programmers-48b7)
+- [How to run mongodb using docker-compose in ubuntu](https://dev.to/shaikhalamin/how-to-run-mongodb-using-docker-compose-in-ubuntu-14l3)
 - [Javascript: Nullish Coalescing vs OR operator](https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297)
-- [Building a DataGrid with the right tools](https://dev.to/radubrehar/building-a-datagrid-with-the-right-tools-dil)
-- [pyaction 4.25.0 Released](https://dev.to/cicirello/pyaction-4250-released-44o1)
-- [Create Custom Colour Themes on VSCode](https://dev.to/jeolad/create-custom-colour-themes-on-vscode-1i2j)
 <!-- BLOG-POST-LIST:END -->
 
