@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Empowering Developers of All Abilities&quot;: CodeNewbie Podcast S25E8](https://dev.to/codenewbieteam/empowering-developers-of-all-abilities-codenewbie-podcast-s25e8-10mb)
+- [7 Open-Source Search Engines for your Enterprise and Startups you MUST know.](https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504)
+- [Celebrate Hacktoberfest with these Exciting Open Source Repositories to contribute to](https://dev.to/dhanushnehru/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to-2mb6)
 - [Data Science Project For Measuring the Success of an Instagram TV Product.](https://dev.to/sammie_musyoki/data-science-project-for-measuring-the-success-of-an-instagram-tv-product-1jgj)
-- [Um rápido Hello World com Haskell](https://dev.to/clerijr/um-rapido-hello-world-com-haskell-h39)
-- [O que é um deploy?](https://dev.to/nikolai1312/o-que-e-um-deploy-nen)
-- [Give credit to Open Source Contributors](https://dev.to/this-is-learning/give-credit-to-open-source-contributors-36da)
 <!-- BLOG-POST-LIST:END -->
 
