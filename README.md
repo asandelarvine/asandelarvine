@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ 7 learnings as a new DevRel [first months on the job edition] 🚀](https://dev.to/fernandezbaptiste/7-learnings-as-a-devrel-in-my-first-months-on-the-job-nmd)
+- [Bandit Level 11 Level 12](https://dev.to/christianpaez/bandit-level-11-level-12-3e40)
+- [Como Habilitar o Botão de Envio apenas com Inputs Preenchidos Usando JavaScript](https://dev.to/anabergerr/como-habilitar-o-botao-de-envio-apenas-com-inputs-preenchidos-usando-javascript-1djh)
 - [&quot;Empowering Developers of All Abilities&quot;: CodeNewbie Podcast S25E8](https://dev.to/codenewbieteam/empowering-developers-of-all-abilities-codenewbie-podcast-s25e8-10mb)
-- [7 Open-Source Search Engines for your Enterprise and Startups you MUST know.](https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504)
-- [Celebrate Hacktoberfest with these Exciting Open Source Repositories to contribute to](https://dev.to/dhanushnehru/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to-2mb6)
-- [Data Science Project For Measuring the Success of an Instagram TV Product.](https://dev.to/sammie_musyoki/data-science-project-for-measuring-the-success-of-an-instagram-tv-product-1jgj)
 <!-- BLOG-POST-LIST:END -->
 
