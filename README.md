@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup lsp in neovim.](https://dev.to/rishavmngo/how-to-setup-lsp-in-neovim-nh1)
-- [A Roadmap to Learn DataScience by the close of 2023!](https://dev.to/ngenzimativo/a-roadmap-to-learn-datascience-by-the-close-of-2023-476l)
-- [First Hacktoberfest PR](https://dev.to/pbelokon/first-hacktoberfest-pr-4c0c)
-- [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
+- [NoSQL Databases](https://dev.to/yogini16/nosql-databases-2l2j)
+- [Must-Have WooCommerce Plugins to Supercharge Your Online Store in 2024](https://dev.to/malikshehzad952/must-have-woocommerce-plugins-to-supercharge-your-online-store-in-2024-2ig8)
+- [20+ Best Ever WooCommerce Plugins for Online Store | WooCommerce | Readmorr.com](https://dev.to/malikshehzad952/20-best-ever-woocommerce-plugins-for-online-store-woocommerce-readmorrcom-1oe0)
+- [Technical Blogging VS Technical Writing: Main Differences](https://dev.to/maddy/technical-blogging-vs-technical-writing-main-differences-2e66)
 <!-- BLOG-POST-LIST:END -->
 
