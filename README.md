@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Data Structures: Leetcode 706 - Design HashMap](https://dev.to/speaklouder/unlocking-the-power-of-data-structures-leetcode-706-design-hashmap-iol)
 - [NoSQL Databases](https://dev.to/yogini16/nosql-databases-2l2j)
 - [Must-Have WooCommerce Plugins to Supercharge Your Online Store in 2024](https://dev.to/malikshehzad952/must-have-woocommerce-plugins-to-supercharge-your-online-store-in-2024-2ig8)
 - [20+ Best Ever WooCommerce Plugins for Online Store | WooCommerce | Readmorr.com](https://dev.to/malikshehzad952/20-best-ever-woocommerce-plugins-for-online-store-woocommerce-readmorrcom-1oe0)
-- [Technical Blogging VS Technical Writing: Main Differences](https://dev.to/maddy/technical-blogging-vs-technical-writing-main-differences-2e66)
 <!-- BLOG-POST-LIST:END -->
 
