@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 7 learnings as a new DevRel [first months on the job edition] 🚀](https://dev.to/fernandezbaptiste/7-learnings-as-a-devrel-in-my-first-months-on-the-job-nmd)
-- [Bandit Level 11 Level 12](https://dev.to/christianpaez/bandit-level-11-level-12-3e40)
-- [Como Habilitar o Botão de Envio apenas com Inputs Preenchidos Usando JavaScript](https://dev.to/anabergerr/como-habilitar-o-botao-de-envio-apenas-com-inputs-preenchidos-usando-javascript-1djh)
-- [&quot;Empowering Developers of All Abilities&quot;: CodeNewbie Podcast S25E8](https://dev.to/codenewbieteam/empowering-developers-of-all-abilities-codenewbie-podcast-s25e8-10mb)
+- [pyaction 4.25.0 Released](https://dev.to/cicirello/pyaction-4250-released-44o1)
+- [Concurrency Management: How Web Servers Keep the Show Running Smoothly ⚡🚀](https://dev.to/gul/concurrency-management-how-web-servers-keep-the-show-running-smoothly-52o4)
+- [✨ 7 learnings from my first months as a new DevRel 🚀](https://dev.to/fernandezbaptiste/7-learnings-as-a-devrel-in-my-first-months-on-the-job-nmd)
+- [Mr-Robot CTF](https://dev.to/dmnuggins/mr-robot-ctf-2ao8)
 <!-- BLOG-POST-LIST:END -->
 
