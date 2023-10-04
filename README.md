@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [First Hacktoberfest PR](https://dev.to/pbelokon/first-hacktoberfest-pr-4c0c)
 - [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
 - [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
 - [AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/documatic/ai-in-software-testing-revolutionizing-quality-assurance-4fcg)
-- [Web3 backend and smart contract development for Python developers part 8: Django backend &lpar;logging and logout functionality&rpar;](https://dev.to/ilija/web3-backend-and-smart-contract-development-for-python-developers-part-8-django-backend-logging-and-logout-functionality-3be1)
 <!-- BLOG-POST-LIST:END -->
 
