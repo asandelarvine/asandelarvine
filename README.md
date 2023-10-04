@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Delight your users with this instant scroll restoration custom hook](https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd)
+- [🐳 A Detailed Guide on Docker run Command](https://dev.to/refine/a-detailed-guide-on-docker-run-command-3mjc)
+- [How to add an Open-Source payments plugin to your WooCommerce store](https://dev.to/timcrook/how-to-add-an-open-source-payments-plugin-to-your-woocommerce-store-32f8)
 - [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-5ag)
-- [In-Flight Collaboration With The Livecycle Docker Extension](https://dev.to/livecycle/in-flight-collaboration-with-the-livecycle-docker-extension-o3e)
-- [Hacktoberfest 2023 - How AI can create an impact on Open Source Contributions](https://dev.to/nischalj10/hacktoberfest-2023-how-ai-can-create-an-impact-on-open-source-contributions-29ni)
-- [Part 2: Configure the backend](https://dev.to/simongreen/part-2-configure-the-backend-2gm9)
 <!-- BLOG-POST-LIST:END -->
 
