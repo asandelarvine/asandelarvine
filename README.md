@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VITE vs CREATE REACT APP - A Quick Comparison](https://dev.to/vamsitupakula_/vite-vs-create-react-app-a-quick-comparison-2dj2)
-- [Introducing Our First Prototype - Zero to Startup EP 5](https://dev.to/wimadev/introducing-our-first-prototype-zero-to-startup-ep-5-1goa)
-- [🚀 API Maker - Web-socket Notifications](https://dev.to/apimaker/api-maker-web-socket-notifications-29c6)
-- [What Did I Learn from a Product Based Company in 1 Year?](https://dev.to/liama/what-did-i-learn-from-a-product-based-company-in-1-year-126c)
+- [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-5ag)
+- [In-Flight Collaboration With The Livecycle Docker Extension](https://dev.to/livecycle/in-flight-collaboration-with-the-livecycle-docker-extension-o3e)
+- [Hacktoberfest 2023 - How AI can create an impact on Open Source Contributions](https://dev.to/nischalj10/hacktoberfest-2023-how-ai-can-create-an-impact-on-open-source-contributions-29ni)
+- [Part 2: Configure the backend](https://dev.to/simongreen/part-2-configure-the-backend-2gm9)
 <!-- BLOG-POST-LIST:END -->
 
