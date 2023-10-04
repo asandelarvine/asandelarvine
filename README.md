@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Replacing All Occurrences of a String in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/replacing-all-occurrences-of-a-string-in-javascript-a-comprehensive-guide-3o9n)
-- [Welcome Thread - v246](https://dev.to/devteam/welcome-thread-v246-4ko7)
-- [Welcome Thread - v245](https://dev.to/devteam/welcome-thread-v245-l3p)
-- [4 Ways to Merge Arrays in JavaScript - SpeakLouder](https://dev.to/speaklouder/4-ways-to-merge-arrays-in-javascript-speaklouder-3b43)
+- [VITE vs CREATE REACT APP - A Quick Comparison](https://dev.to/vamsitupakula_/vite-vs-create-react-app-a-quick-comparison-2dj2)
+- [Introducing Our First Prototype - Zero to Startup EP 5](https://dev.to/wimadev/introducing-our-first-prototype-zero-to-startup-ep-5-1goa)
+- [🚀 API Maker - Web-socket Notifications](https://dev.to/apimaker/api-maker-web-socket-notifications-29c6)
+- [What Did I Learn from a Product Based Company in 1 Year?](https://dev.to/liama/what-did-i-learn-from-a-product-based-company-in-1-year-126c)
 <!-- BLOG-POST-LIST:END -->
 
