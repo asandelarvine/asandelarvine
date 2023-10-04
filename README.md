@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to setup lsp in neovim.](https://dev.to/rishavmngo/how-to-setup-lsp-in-neovim-nh1)
+- [A Roadmap to Learn DataScience by the close of 2023!](https://dev.to/ngenzimativo/a-roadmap-to-learn-datascience-by-the-close-of-2023-476l)
 - [First Hacktoberfest PR](https://dev.to/pbelokon/first-hacktoberfest-pr-4c0c)
 - [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
-- [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
 <!-- BLOG-POST-LIST:END -->
 
