@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é um deploy?](https://dev.to/nikolai1312/o-que-e-um-deploy-nen)
 - [Give credit to Open Source Contributors](https://dev.to/this-is-learning/give-credit-to-open-source-contributors-36da)
+- [Introduction to Pandas: Data Reading](https://dev.to/codeitmichael/introduction-to-pandas-data-reading-45e5)
 - [Using the Driver.js library to guide user focus](https://dev.to/logrocket/using-the-driverjs-library-to-guide-user-focus-43ie)
-- [Viktor Farcic: There is no such thing as a DevOps engineer](https://dev.to/shiftmag/viktor-farcic-there-is-no-such-thing-as-a-devops-engineer-hdk)
-- [Bridging the Gap: Understanding Adapter and Composite Patterns in Rust](https://dev.to/zhukmax/bridging-the-gap-understanding-adapter-and-composite-patterns-in-rust-50ab)
 <!-- BLOG-POST-LIST:END -->
 
