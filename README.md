@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Give credit to Open Source Contributors](https://dev.to/this-is-learning/give-credit-to-open-source-contributors-36da)
+- [Using the Driver.js library to guide user focus](https://dev.to/logrocket/using-the-driverjs-library-to-guide-user-focus-43ie)
+- [Viktor Farcic: There is no such thing as a DevOps engineer](https://dev.to/shiftmag/viktor-farcic-there-is-no-such-thing-as-a-devops-engineer-hdk)
 - [Bridging the Gap: Understanding Adapter and Composite Patterns in Rust](https://dev.to/zhukmax/bridging-the-gap-understanding-adapter-and-composite-patterns-in-rust-50ab)
-- [Career Growth After 35: What Awaits Programmers?](https://dev.to/devteam/career-growth-after-35-what-awaits-programmers-1ff0)
-- [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Svelte - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-svelte-is-out-556a)
-- [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Laravel - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-laravel-is-out-29hc)
 <!-- BLOG-POST-LIST:END -->
 
