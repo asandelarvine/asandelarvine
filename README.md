@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Project For Measuring the Success of an Instagram TV Product.](https://dev.to/sammie_musyoki/data-science-project-for-measuring-the-success-of-an-instagram-tv-product-1jgj)
 - [Um rápido Hello World com Haskell](https://dev.to/clerijr/um-rapido-hello-world-com-haskell-h39)
 - [O que é um deploy?](https://dev.to/nikolai1312/o-que-e-um-deploy-nen)
 - [Give credit to Open Source Contributors](https://dev.to/this-is-learning/give-credit-to-open-source-contributors-36da)
-- [Introduction to Pandas: Data Reading](https://dev.to/codeitmichael/introduction-to-pandas-data-reading-45e5)
 <!-- BLOG-POST-LIST:END -->
 
