@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript: Nullish Coalescing vs OR operator](https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297)
+- [Building a DataGrid with the right tools](https://dev.to/radubrehar/building-a-datagrid-with-the-right-tools-dil)
 - [pyaction 4.25.0 Released](https://dev.to/cicirello/pyaction-4250-released-44o1)
-- [Concurrency Management: How Web Servers Keep the Show Running Smoothly ⚡🚀](https://dev.to/gul/concurrency-management-how-web-servers-keep-the-show-running-smoothly-52o4)
-- [✨ 7 learnings from my first months as a new DevRel 🚀](https://dev.to/fernandezbaptiste/7-learnings-as-a-devrel-in-my-first-months-on-the-job-nmd)
-- [Mr-Robot CTF](https://dev.to/dmnuggins/mr-robot-ctf-2ao8)
+- [Create Custom Colour Themes on VSCode](https://dev.to/jeolad/create-custom-colour-themes-on-vscode-1i2j)
 <!-- BLOG-POST-LIST:END -->
 
