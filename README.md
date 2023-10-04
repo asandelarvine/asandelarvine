@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
 - [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
+- [AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/documatic/ai-in-software-testing-revolutionizing-quality-assurance-4fcg)
 - [Hello, Dev.to](https://dev.to/yagowences/hello-devto-3535)
-- [Performance Testing: Why, When, and What](https://dev.to/cloudx/performance-testing-why-when-and-what-45k3)
-- [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
 <!-- BLOG-POST-LIST:END -->
 
