@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Um rápido Hello World com Haskell](https://dev.to/clerijr/um-rapido-hello-world-com-haskell-h39)
 - [O que é um deploy?](https://dev.to/nikolai1312/o-que-e-um-deploy-nen)
 - [Give credit to Open Source Contributors](https://dev.to/this-is-learning/give-credit-to-open-source-contributors-36da)
 - [Introduction to Pandas: Data Reading](https://dev.to/codeitmichael/introduction-to-pandas-data-reading-45e5)
-- [Using the Driver.js library to guide user focus](https://dev.to/logrocket/using-the-driverjs-library-to-guide-user-focus-43ie)
 <!-- BLOG-POST-LIST:END -->
 
