@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deciphering the Enigma of DNS: A Delightful Ruby Implementation Odyssey](https://dev.to/daviducolo/deciphering-the-enigma-of-dns-a-delightful-ruby-implementation-odyssey-1i7f)
-- [💻 Web Development Resources #168](https://dev.to/vincenius/web-development-resources-168-234a)
-- [Unlocking the Power of Data Structures: Leetcode 706 - Design HashMap](https://dev.to/speaklouder/unlocking-the-power-of-data-structures-leetcode-706-design-hashmap-iol)
-- [Hosting Apps For Free With Github Actions 🤯🚀](https://dev.to/code42cate/hosting-apps-for-free-with-github-actions-4fd4)
+- [Tailwind &amp; Django - Free Starter](https://dev.to/sm0ke/tailwind-django-free-starter-1209)
+- [I hate making dashboards #1](https://dev.to/alesten/i-hate-making-dashboards-1-2o8n)
+- [Flutter Documentation Clone Project: A New Learning Adventure Begins!](https://dev.to/raman04byte/flutter-documentation-clone-project-a-new-learning-adventure-begins-4l1n)
+- [AWS Custom Resource using CDK](https://dev.to/aws-builders/aws-custom-resource-using-cdk-387k)
 <!-- BLOG-POST-LIST:END -->
 
