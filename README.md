@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind &amp; Django - Free Starter](https://dev.to/sm0ke/tailwind-django-free-starter-1209)
-- [I hate making dashboards #1](https://dev.to/alesten/i-hate-making-dashboards-1-2o8n)
-- [Flutter Documentation Clone Project: A New Learning Adventure Begins!](https://dev.to/raman04byte/flutter-documentation-clone-project-a-new-learning-adventure-begins-4l1n)
-- [AWS Custom Resource using CDK](https://dev.to/aws-builders/aws-custom-resource-using-cdk-387k)
+- [Replacing All Occurrences of a String in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/replacing-all-occurrences-of-a-string-in-javascript-a-comprehensive-guide-3o9n)
+- [Welcome Thread - v246](https://dev.to/devteam/welcome-thread-v246-4ko7)
+- [Welcome Thread - v245](https://dev.to/devteam/welcome-thread-v245-l3p)
+- [4 Ways to Merge Arrays in JavaScript - SpeakLouder](https://dev.to/speaklouder/4-ways-to-merge-arrays-in-javascript-speaklouder-3b43)
 <!-- BLOG-POST-LIST:END -->
 
