@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup lsp in neovim.](https://dev.to/rishavmngo/how-to-setup-lsp-in-neovim-nh1)
 - [First Hacktoberfest PR](https://dev.to/pbelokon/first-hacktoberfest-pr-4c0c)
 - [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
 - [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
-- [AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/documatic/ai-in-software-testing-revolutionizing-quality-assurance-4fcg)
 <!-- BLOG-POST-LIST:END -->
 
