@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Delight your users with this instant scroll restoration custom hook](https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd)
-- [🐳 A Detailed Guide on Docker run Command](https://dev.to/refine/a-detailed-guide-on-docker-run-command-3mjc)
-- [How to add an Open-Source payments plugin to your WooCommerce store](https://dev.to/timcrook/how-to-add-an-open-source-payments-plugin-to-your-woocommerce-store-32f8)
-- [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-5ag)
+- [Bridging the Gap: Understanding Adapter and Composite Patterns in Rust](https://dev.to/zhukmax/bridging-the-gap-understanding-adapter-and-composite-patterns-in-rust-50ab)
+- [Career Growth After 35: What Awaits Programmers?](https://dev.to/devteam/career-growth-after-35-what-awaits-programmers-1ff0)
+- [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Svelte - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-svelte-is-out-556a)
+- [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Laravel - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-laravel-is-out-29hc)
 <!-- BLOG-POST-LIST:END -->
 
