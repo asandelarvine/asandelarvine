@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create A PAT &lpar;Personal Access Token&rpar; For GitHub Repo Access](https://dev.to/raddevus/create-a-pat-personal-access-token-for-github-repo-access-23jn)
+- [Custom Achievements on GitHub: Introducing My-Badges](https://dev.to/antonmedv/custom-achievements-on-github-introducing-my-badges-27c3)
 - [Building a Real-Time Messaging Service with Nitric SDK in Go](https://dev.to/rsiv/building-a-real-time-messaging-service-with-nitric-sdk-in-go-547d)
-- [OpenTelemetry is not just for Monitoring and Troubleshooting any longer. Announcing Tracetest Open Beta!](https://dev.to/kubeshop/opentelemetry-is-not-just-for-monitoring-and-troubleshooting-any-longer-announcing-tracetest-open-beta-1ab1)
-- [Silly Git Mistakes! Resetting Author name in git history](https://dev.to/navdeepm20/silly-git-mistakes-resetting-author-name-in-git-history-1ffk)
-- [generate-sitemap 1.9.2 Released](https://dev.to/cicirello/generate-sitemap-192-released-4991)
+- [Beyond Hacktoberfest: The Pitfalls of Rushing to Open Source](https://dev.to/yalladevrel/beyond-hacktoberfest-the-pitfalls-of-rushing-to-open-source-1m8h)
 <!-- BLOG-POST-LIST:END -->
 
