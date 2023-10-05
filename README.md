@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brotli vs. GZIP vs. Zopfli: Comparing JavaScript Compression Techniques.](https://dev.to/codingcrafts/brotli-vs-gzip-vs-zopfli-comparing-javascript-compression-techniques-1fo2)
-- [Mastering PHP Foreach Loops: The Power of &#39;&amp;&#39; for References ⚡🚀](https://dev.to/gul/mastering-php-foreach-loops-the-power-of-for-references-40of)
-- [Taking over the Dev Digest Newsletter](https://dev.to/codepo8/taking-over-the-dev-digest-newsletter-57jn)
-- [Ruby on Rails and Node.js: which one to choose? ⌨️](https://dev.to/proxify_dev/ruby-on-rails-and-nodejs-which-one-to-choose-2p9n)
+- [Generating production-level streaming microservices using AI](https://dev.to/airtai/generating-production-level-streaming-microservices-using-ai-41ji)
+- [🤘 Docker Swarm Mode Guide](https://dev.to/refine/docker-swarm-mode-guide-1g04)
+- [Complete Guide to Flutter State Management](https://dev.to/tadaspetra/complete-guide-to-state-management-218a)
+- [Article 1: Exploring Java 21: A Look at the Exciting API Changes](https://dev.to/onix-systems/article-1-exploring-java-21-a-look-at-the-exciting-api-changes-4pa9)
 <!-- BLOG-POST-LIST:END -->
 
