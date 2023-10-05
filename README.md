@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips to listen Songs Online with Work.](https://dev.to/drew_michael/tips-to-listen-songs-online-with-work-34pf)
+- [Implementing Authentication with Passkeys using Authsignal and Next.JS](https://dev.to/osadavc/implementing-authentication-with-passkeys-using-authsignal-and-nextjs-488g)
+- [Node.Js - Stream from S3 with Partial Content support &lpar;206&rpar;](https://dev.to/edumqs/nodejs-stream-from-s3-with-partial-content-support-206-324i)
 - [Three Recent Examples of Why You Need to Know How Vulnerable Your Secrets Are](https://dev.to/gitguardian/three-recent-examples-of-why-you-need-to-know-how-vulnerable-your-secrets-are-5cd)
-- [javadoc-cleanup 1.3.7 Released &lpar;minor bug fixes&rpar;](https://dev.to/cicirello/javadoc-cleanup-137-released-minor-bug-fixes-1na2)
-- [Harmonizing Your App&#39;s Performance: The Art of Cross-Platform Testing](https://dev.to/nathan_tarbert/harmonizing-your-apps-performance-the-art-of-cross-platform-testing-17b0)
-- [How to stop code execution after a 401 response in Axios](https://dev.to/bhaidar/how-to-stop-code-execution-after-a-401-response-in-axios-1ecc)
 <!-- BLOG-POST-LIST:END -->
 
