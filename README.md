@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Altern: Your Gateway to the AI Universe](https://dev.to/dariubs/altern-your-gateway-to-the-ai-universe-5gbd)
 - [4 Ways to Convert String to Character Array in JavaScript](https://dev.to/speaklouder/4-ways-to-convert-string-to-character-array-in-javascript-3en)
 - [WTH is Prompt Engineering?](https://dev.to/pavanbelagatti/wth-is-prompt-engineering-h03)
 - [Learn serverless on AWS step-by-step: Strong Types!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-strong-types-213i)
-- [Resizing images on-the-fly](https://dev.to/apisix/resizing-images-on-the-fly-2dn)
 <!-- BLOG-POST-LIST:END -->
 
