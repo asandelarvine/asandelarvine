@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Automating TypeScript Interfaces: A Step-by-Step Guide](https://dev.to/shriharimurali/automating-typescript-interfaces-a-step-by-step-guide-257)
+- [Introduction to Python Programming - Organizing Your Code With Modules](https://dev.to/medosa/introduction-to-python-programming-organizing-your-code-with-modules-4nch)
 - [Deploy Laravel App Using GitHub Actions](https://dev.to/3x1io/deploy-laravel-app-using-github-actions-3h9p)
 - [Hot Take: Knowing How To Code Does Not Make You a Software Engineer](https://dev.to/ngfizzy/hot-take-knowing-how-to-code-does-not-make-you-a-software-engineer-37al)
-- [Build blazing fast serverless apps using Cloudflare 🏃](https://dev.to/slsbytheodo/build-blazing-fast-serverless-apps-using-cloudflare-n3g)
 <!-- BLOG-POST-LIST:END -->
 
