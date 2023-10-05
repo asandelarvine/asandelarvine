@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating production-level streaming microservices using AI](https://dev.to/airtai/generating-production-level-streaming-microservices-using-ai-41ji)
-- [🤘 Docker Swarm Mode Guide](https://dev.to/refine/docker-swarm-mode-guide-1g04)
-- [Complete Guide to Flutter State Management](https://dev.to/tadaspetra/complete-guide-to-state-management-218a)
-- [Article 1: Exploring Java 21: A Look at the Exciting API Changes](https://dev.to/onix-systems/article-1-exploring-java-21-a-look-at-the-exciting-api-changes-4pa9)
+- [Sending emails in NodeJs with NodeMailer: The Comprehensive Guide](https://dev.to/alakkadshaw/sending-emails-in-nodejs-with-nodemailer-the-comprehensive-guide-5429)
+- [Docker’s Recent Product Announcement is Bigger than You Realize](https://dev.to/livecycle/dockers-recent-product-announcement-is-bigger-than-you-realize-32b6)
+- [Failing without Knowing Why: The Tragedy of Performative Content](https://dev.to/daedtech/failing-without-knowing-why-the-tragedy-of-performative-content-4b9k)
+- [Trigger.dev update – September 2023](https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj)
 <!-- BLOG-POST-LIST:END -->
 
