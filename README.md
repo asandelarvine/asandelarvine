@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tudo que você precisa saber sobre Git](https://dev.to/1cadumagalhaes/tudo-que-voce-precisa-saber-sobre-git-3gbi)
 - [Should You Lower Your Possibilities When Looking For a Job?](https://dev.to/juandadev/should-you-lower-your-possibilities-when-looking-for-a-job-2p0j)
 - [Entendendo Algoritmos: Introdução a Algoritmos](https://dev.to/eusoumabel/entendendo-algoritmos-introducao-a-algoritmos-3d2n)
 - [Create A PAT &lpar;Personal Access Token&rpar; For GitHub Repo Access](https://dev.to/raddevus/create-a-pat-personal-access-token-for-github-repo-access-23jn)
-- [How to Center Text in CSS](https://dev.to/mlproductions01/how-to-center-text-in-css-5fbg)
 <!-- BLOG-POST-LIST:END -->
 
