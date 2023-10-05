@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Altern: Your Gateway to the AI Universe](https://dev.to/dariubs/altern-your-gateway-to-the-ai-universe-5gbd)
-- [4 Ways to Convert String to Character Array in JavaScript](https://dev.to/speaklouder/4-ways-to-convert-string-to-character-array-in-javascript-3en)
-- [WTH is Prompt Engineering?](https://dev.to/pavanbelagatti/wth-is-prompt-engineering-h03)
-- [Learn serverless on AWS step-by-step: Strong Types!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-strong-types-213i)
+- [Brotli vs. GZIP vs. Zopfli: Comparing JavaScript Compression Techniques.](https://dev.to/codingcrafts/brotli-vs-gzip-vs-zopfli-comparing-javascript-compression-techniques-1fo2)
+- [Mastering PHP Foreach Loops: The Power of &#39;&amp;&#39; for References ⚡🚀](https://dev.to/gul/mastering-php-foreach-loops-the-power-of-for-references-40of)
+- [Taking over the Dev Digest Newsletter](https://dev.to/codepo8/taking-over-the-dev-digest-newsletter-57jn)
+- [Ruby on Rails and Node.js: which one to choose? ⌨️](https://dev.to/proxify_dev/ruby-on-rails-and-nodejs-which-one-to-choose-2p9n)
 <!-- BLOG-POST-LIST:END -->
 
