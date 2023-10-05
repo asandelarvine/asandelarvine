@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Web Technology Skills for a Better Future](https://dev.to/arafatweb/enhancing-web-technology-skills-for-a-better-future-21i8)
-- [Mastering LANscapes: A Journey Through Local Area Networking](https://dev.to/ainasanghi/mastering-lanscapes-a-journey-through-local-area-networking-3mdb)
-- [Multiple-Column Indexes and Hashing: The Ultimate Guide to Boosting Database Performance](https://dev.to/lordneic/multiple-column-indexes-and-hashing-the-ultimate-guide-to-boosting-database-performance-iid)
-- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g)
+- [Resizing images on-the-fly](https://dev.to/apisix/resizing-images-on-the-fly-2dn)
+- [Guess the JavaScript Output: Very Tricky!](https://dev.to/sadeedpv/guess-the-javascript-output-very-tricky-2a6i)
+- [What If You Only Need One Table for Your Entire Database System?](https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40)
+- [Welcome to the dark side. Ree.js awaits you!](https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p)
 <!-- BLOG-POST-LIST:END -->
 
