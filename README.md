@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Respondendo perguntas de responsividade CSS no Twitter](https://dev.to/lixeletto/respondendo-perguntas-de-responsividade-css-no-twitter-24k7)
-- [Your Daily Hacks for Staying Super Effective: What&#39;s Your Secret Sauce?](https://dev.to/codenewbieteam/your-daily-hacks-for-staying-super-effective-whats-your-secret-sauce-kce)
-- [I&#39;ve been waiting!](https://dev.to/ladydarwe/ive-been-waiting-48o5)
-- [Looking inside GPT-Synthesizer and the idea of LLM-based code generation](https://dev.to/robocoach/looking-inside-gpt-synthesizer-and-the-idea-of-llm-based-code-generation-41d9)
+- [Sloan&#39;s Inbox: How to connect with folks over Open Source?](https://dev.to/devteam/sloans-inbox-how-to-connect-with-folks-over-open-source-2ojl)
+- [GitHub Actions CICD in AWS](https://dev.to/aws-builders/github-actions-cicd-in-aws-4daf)
+- [This Week In React #161: useFormState, Memo, Conform, Progressive Enhancement, Astro, Radix, React-Aria...](https://dev.to/sebastienlorber/this-week-in-react-161-useformstate-memo-conform-progressive-enhancement-astro-radix-react-aria-4d07)
+- [The Enigma of MySQL&#39;s INT&lpar;11&rpar;: Unraveling the Mystery](https://dev.to/lordneic/the-enigma-of-mysqls-int11-unraveling-the-mystery-203n)
 <!-- BLOG-POST-LIST:END -->
 
