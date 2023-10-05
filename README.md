@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple-Column Indexes and Hashing: The Ultimate Guide to Boosting Database Performance](https://dev.to/lordneic/multiple-column-indexes-and-hashing-the-ultimate-guide-to-boosting-database-performance-iid)
+- [GIT VS GitHub](https://dev.to/hasanelsherbiny/git-vs-github-42da)
+- [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-592f)
 - [Sloan&#39;s Inbox: How to connect with folks over Open Source?](https://dev.to/devteam/sloans-inbox-how-to-connect-with-folks-over-open-source-2ojl)
-- [GitHub Actions CICD in AWS](https://dev.to/aws-builders/github-actions-cicd-in-aws-4daf)
-- [This Week In React #161: useFormState, Memo, Conform, Progressive Enhancement, Astro, Radix, React-Aria...](https://dev.to/sebastienlorber/this-week-in-react-161-useformstate-memo-conform-progressive-enhancement-astro-radix-react-aria-4d07)
-- [The Enigma of MySQL&#39;s INT&lpar;11&rpar;: Unraveling the Mystery](https://dev.to/lordneic/the-enigma-of-mysqls-int11-unraveling-the-mystery-203n)
 <!-- BLOG-POST-LIST:END -->
 
