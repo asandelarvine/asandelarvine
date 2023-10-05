@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips to listen Songs Online with Work.](https://dev.to/drew_michael/tips-to-listen-songs-online-with-work-34pf)
-- [Implementing Authentication with Passkeys using Authsignal and Next.JS](https://dev.to/osadavc/implementing-authentication-with-passkeys-using-authsignal-and-nextjs-488g)
-- [Node.Js - Stream from S3 with Partial Content support &lpar;206&rpar;](https://dev.to/edumqs/nodejs-stream-from-s3-with-partial-content-support-206-324i)
-- [Three Recent Examples of Why You Need to Know How Vulnerable Your Secrets Are](https://dev.to/gitguardian/three-recent-examples-of-why-you-need-to-know-how-vulnerable-your-secrets-are-5cd)
+- [OpenTelemetry is not just for Monitoring and Troubleshooting any longer. Announcing Tracetest Open Beta!](https://dev.to/kubeshop/opentelemetry-is-not-just-for-monitoring-and-troubleshooting-any-longer-announcing-tracetest-open-beta-1ab1)
+- [Silly Git Mistakes! Resetting Author name in git history](https://dev.to/navdeepm20/silly-git-mistakes-resetting-author-name-in-git-history-1ffk)
+- [generate-sitemap 1.9.2 Released](https://dev.to/cicirello/generate-sitemap-192-released-4991)
+- [Introduction to PostgreSQL &lpar;Coding Style&rpar; Part-2](https://dev.to/vkt1271/introduction-to-postgresql-coding-style-part-2-5d8i)
 <!-- BLOG-POST-LIST:END -->
 
