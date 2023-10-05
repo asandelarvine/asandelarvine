@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Web Technology Skills for a Better Future](https://dev.to/arafatweb/enhancing-web-technology-skills-for-a-better-future-21i8)
+- [Mastering LANscapes: A Journey Through Local Area Networking](https://dev.to/ainasanghi/mastering-lanscapes-a-journey-through-local-area-networking-3mdb)
 - [Multiple-Column Indexes and Hashing: The Ultimate Guide to Boosting Database Performance](https://dev.to/lordneic/multiple-column-indexes-and-hashing-the-ultimate-guide-to-boosting-database-performance-iid)
-- [GIT VS GitHub](https://dev.to/hasanelsherbiny/git-vs-github-42da)
-- [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-592f)
-- [Sloan&#39;s Inbox: How to connect with folks over Open Source?](https://dev.to/devteam/sloans-inbox-how-to-connect-with-folks-over-open-source-2ojl)
+- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g)
 <!-- BLOG-POST-LIST:END -->
 
