@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Daily Hacks for Staying Super Effective: What&#39;s Your Secret Sauce?](https://dev.to/codenewbieteam/your-daily-hacks-for-staying-super-effective-whats-your-secret-sauce-kce)
 - [I&#39;ve been waiting!](https://dev.to/ladydarwe/ive-been-waiting-48o5)
 - [Looking inside GPT-Synthesizer and the idea of LLM-based code generation](https://dev.to/robocoach/looking-inside-gpt-synthesizer-and-the-idea-of-llm-based-code-generation-41d9)
 - [Must have software for programmers](https://dev.to/codewithshahan/must-have-software-for-programmers-48b7)
-- [How to run mongodb using docker-compose in ubuntu](https://dev.to/shaikhalamin/how-to-run-mongodb-using-docker-compose-in-ubuntu-14l3)
 <!-- BLOG-POST-LIST:END -->
 
