@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating TypeScript Interfaces: A Step-by-Step Guide](https://dev.to/shriharimurali/automating-typescript-interfaces-a-step-by-step-guide-257)
-- [Introduction to Python Programming - Organizing Your Code With Modules](https://dev.to/medosa/introduction-to-python-programming-organizing-your-code-with-modules-4nch)
-- [Deploy Laravel App Using GitHub Actions](https://dev.to/3x1io/deploy-laravel-app-using-github-actions-3h9p)
-- [Hot Take: Knowing How To Code Does Not Make You a Software Engineer](https://dev.to/ngfizzy/hot-take-knowing-how-to-code-does-not-make-you-a-software-engineer-37al)
+- [Three Recent Examples of Why You Need to Know How Vulnerable Your Secrets Are](https://dev.to/gitguardian/three-recent-examples-of-why-you-need-to-know-how-vulnerable-your-secrets-are-5cd)
+- [javadoc-cleanup 1.3.7 Released &lpar;minor bug fixes&rpar;](https://dev.to/cicirello/javadoc-cleanup-137-released-minor-bug-fixes-1na2)
+- [Harmonizing Your App&#39;s Performance: The Art of Cross-Platform Testing](https://dev.to/nathan_tarbert/harmonizing-your-apps-performance-the-art-of-cross-platform-testing-17b0)
+- [How to stop code execution after a 401 response in Axios](https://dev.to/bhaidar/how-to-stop-code-execution-after-a-401-response-in-axios-1ecc)
 <!-- BLOG-POST-LIST:END -->
 
