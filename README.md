@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending emails in NodeJs with NodeMailer: The Comprehensive Guide](https://dev.to/alakkadshaw/sending-emails-in-nodejs-with-nodemailer-the-comprehensive-guide-5429)
-- [Docker’s Recent Product Announcement is Bigger than You Realize](https://dev.to/livecycle/dockers-recent-product-announcement-is-bigger-than-you-realize-32b6)
-- [Failing without Knowing Why: The Tragedy of Performative Content](https://dev.to/daedtech/failing-without-knowing-why-the-tragedy-of-performative-content-4b9k)
-- [Trigger.dev update – September 2023](https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj)
+- [Automating TypeScript Interfaces: A Step-by-Step Guide](https://dev.to/shriharimurali/automating-typescript-interfaces-a-step-by-step-guide-257)
+- [Deploy Laravel App Using GitHub Actions](https://dev.to/3x1io/deploy-laravel-app-using-github-actions-3h9p)
+- [Hot Take: Knowing How To Code Does Not Make You a Software Engineer](https://dev.to/ngfizzy/hot-take-knowing-how-to-code-does-not-make-you-a-software-engineer-37al)
+- [Build blazing fast serverless apps using Cloudflare 🏃](https://dev.to/slsbytheodo/build-blazing-fast-serverless-apps-using-cloudflare-n3g)
 <!-- BLOG-POST-LIST:END -->
 
