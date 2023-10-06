@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Regression testing with Playwright](https://dev.to/hashcode01/visual-regression-testing-with-playwright-2137)
-- [Custom guest profile attributes in Sitecore CDP](https://dev.to/annagevel/custom-guest-profile-attributes-in-sitecore-cdp-2ibp)
-- [I was wrong, it&#39;s never finished!](https://dev.to/nombrekeff/i-was-wrong-its-never-finished-1dd7)
-- [PWC 237 Maximise Greatness](https://dev.to/boblied/pwc-237-maximise-greatness-57ib)
+- [MongoDB Quick Start Guide 🍃⚡️](https://dev.to/dpills/mongodb-quick-start-guide-13mp)
+- [User-Defined Functions in SQL: Expanding Your Database Toolkit](https://dev.to/dare_johnson/user-defined-functions-in-sql-expanding-your-database-toolkit-lfh)
+- [Learning Game Dev: Respawn Mechanics and Game Objects](https://dev.to/resendetech/learning-game-dev-respawn-mechanics-and-game-objects-4hn0)
+- [Object.groupBy&lpar;&rpar;, la manera nativa de agrupar datos en JavaScript 👌](https://dev.to/duxtech/objectgroupby-la-manera-nativa-de-agrupar-datos-en-javascript-3l6)
 <!-- BLOG-POST-LIST:END -->
 
