@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You Don&#39;t Know CSS Specificity: Writing Efficient CSS Code](https://dev.to/xmohammedawad/you-dont-know-css-specificity-writing-efficient-css-code-1ce0)
 - [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-3bch)
+- [Automatically switching laminas-form Annotations to Attributes with Rector](https://dev.to/ramchale/automatically-switching-laminas-form-annotations-to-attributes-with-rector-2m42)
 - [SEO Technical Interview Questions and Answers Made Simple](https://dev.to/everythingblogging/seo-technical-interview-questions-and-answers-made-simple-4gff)
-- [How to grab high paying Python jobs in 2023](https://dev.to/learningpath/how-to-grab-high-paying-python-jobs-in-2023-5g2a)
-- [The unreasonable effectiveness of working with a live programming image](https://dev.to/mcsh/the-unreasonable-effectiveness-of-working-with-a-live-programming-image-44kj)
 <!-- BLOG-POST-LIST:END -->
 
