@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory Data Analysis using Data Visualization Techniques.](https://dev.to/edina/exploratory-data-analysis-using-data-visualization-techniques-3mnn)
 - [Deploy a Full Stack Next.js App to a DigitalOcean VPS With Docker!](https://dev.to/andrews1022/deploy-a-full-stack-nextjs-app-to-a-digitalocean-vps-with-docker-5f0m)
+- [Test your React Libraries Locally with Yalc](https://dev.to/propelauth/test-your-react-libraries-locally-with-yalc-4nfh)
 - [Discussion of the Week - v5](https://dev.to/devteam/discussion-of-the-week-v5-19bo)
-- [AI-Powered Carousel Maker - Create Carousels 10x Faster](https://dev.to/seeratawan01/ai-powered-carousel-maker-create-carousels-10x-faster-4n1b)
-- [Hacktoberfest 2023 Swags Compilation. Do not give up on T Shirts yet!](https://dev.to/collectivhq/hacktoberfest-2023-swags-compilation-do-not-give-up-on-t-shirts-yet-1mk)
 <!-- BLOG-POST-LIST:END -->
 
