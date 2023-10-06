@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Material Theme Builder - Beer CSS Tips #3](https://dev.to/leonardorafael/material-theme-builder-beer-css-tips-3-2lcj)
 - [MongoDB Quick Start Guide 🍃⚡️](https://dev.to/dpills/mongodb-quick-start-guide-13mp)
 - [User-Defined Functions in SQL: Expanding Your Database Toolkit](https://dev.to/dare_johnson/user-defined-functions-in-sql-expanding-your-database-toolkit-lfh)
 - [Learning Game Dev: Respawn Mechanics and Game Objects](https://dev.to/resendetech/learning-game-dev-respawn-mechanics-and-game-objects-4hn0)
-- [Object.groupBy&lpar;&rpar;, la manera nativa de agrupar datos en JavaScript 👌](https://dev.to/duxtech/objectgroupby-la-manera-nativa-de-agrupar-datos-en-javascript-3l6)
 <!-- BLOG-POST-LIST:END -->
 
