@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2023: Contributing to React &amp; Next.js projects](https://dev.to/this_mkhy/hacktoberfest-2023-contributing-to-react-nextjs-projects-2laf)
-- [How to Build an Image Search App With Pagination Using React](https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6)
-- [# Algorithm Assignment](https://dev.to/shoeheyot/-algorithm-assignment-1p5)
-- [Docker vs. Kubernetes: A Comparative Study](https://dev.to/documatic/docker-vs-kubernetes-a-comparative-study-4aa2)
+- [Linux servers setup - essential security tips](https://dev.to/kwnaidoo/linux-servers-setup-essential-security-tips-e7e)
+- [How can Hacktoberfest 2023 be a turning point in your OSS journey &amp; why AI is crucial to it.](https://dev.to/collectivhq/how-can-hacktoberfest-2023-be-a-turning-point-in-your-oss-journey-why-ai-is-crucial-to-it-jma)
+- [Offshore Web App Development for Virtual Reality Training and Simulations](https://dev.to/agarralexx/offshore-web-app-development-for-virtual-reality-training-and-simulations-3e5a)
+- [5 Tips How to Start a Side Project while Working a Day Job - Zero to Startup Ep 6](https://dev.to/wimadev/5-tips-to-start-a-side-project-while-working-a-day-job-zero-to-startup-ep-6-1kfc)
 <!-- BLOG-POST-LIST:END -->
 
