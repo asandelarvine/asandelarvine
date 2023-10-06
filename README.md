@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Material Theme Builder - Beer CSS Tips #3](https://dev.to/leonardorafael/material-theme-builder-beer-css-tips-3-2lcj)
-- [MongoDB Quick Start Guide 🍃⚡️](https://dev.to/dpills/mongodb-quick-start-guide-13mp)
-- [User-Defined Functions in SQL: Expanding Your Database Toolkit](https://dev.to/dare_johnson/user-defined-functions-in-sql-expanding-your-database-toolkit-lfh)
-- [Learning Game Dev: Respawn Mechanics and Game Objects](https://dev.to/resendetech/learning-game-dev-respawn-mechanics-and-game-objects-4hn0)
+- [Environment Variables in Environment Variables in NodeJs: The complete Guide](https://dev.to/alakkadshaw/environment-variables-in-environment-variables-in-nodejs-the-complete-guide-em1)
+- [Empowering the Present with Blockchain: Crowdfunding Platforms Leading the Way](https://dev.to/kkartik07/empowering-the-present-with-blockchain-crowdfunding-platforms-leading-the-way-3c0m)
+- [Look how global our community is!](https://dev.to/opensourcee/look-how-global-the-dev-community-is-2j39)
+- [The Jitter Strategy for Step Functions Error Retries on the New Workflow Studio](https://dev.to/aws-heroes/the-jitter-strategy-for-step-functions-error-retries-on-the-new-workflow-studio-195b)
 <!-- BLOG-POST-LIST:END -->
 
