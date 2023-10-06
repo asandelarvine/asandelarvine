@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Artistry: 5 Inspiring Prompts for Image Generation](https://dev.to/arnavk09/ai-powered-artistry-5-inspiring-prompts-for-image-generation-3kp4)
-- [No Code vs. Low Code: What&#39;s the Difference?](https://dev.to/ipratikmali/no-code-vs-low-code-whats-the-difference-285g)
-- [So I might be doing this wrong...](https://dev.to/jd2r/so-i-might-be-doing-this-wrong-3ni7)
-- [Who&#39;s looking for open source contributors? &lpar;week 62&rpar;](https://dev.to/bekahhw/whos-looking-for-open-source-contributors-week-62-346a)
+- [Visual Regression testing with Playwright](https://dev.to/hashcode01/visual-regression-testing-with-playwright-2137)
+- [Custom guest profile attributes in Sitecore CDP](https://dev.to/annagevel/custom-guest-profile-attributes-in-sitecore-cdp-2ibp)
+- [I was wrong, it&#39;s never finished!](https://dev.to/nombrekeff/i-was-wrong-its-never-finished-1dd7)
+- [PWC 237 Maximise Greatness](https://dev.to/boblied/pwc-237-maximise-greatness-57ib)
 <!-- BLOG-POST-LIST:END -->
 
