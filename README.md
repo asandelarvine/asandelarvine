@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Easy Shared Reactive State in React without External Libraries](https://dev.to/jdgamble555/easy-shared-reactive-state-in-react-without-external-libraries-36cc)
 - [Best React.js Frontend Bootcamp 🧑‍💻](https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7)
 - [First, but with feeling.](https://dev.to/jarvisscript/first-but-with-feeling-70d)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-aod)
-- [You must know the difference between Unknown and Any in Typescript](https://dev.to/rajaerobinson/you-must-know-the-difference-between-unknown-and-any-in-typescript-3j2o)
 <!-- BLOG-POST-LIST:END -->
 
