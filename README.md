@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [# Algorithm Assignment](https://dev.to/shoeheyot/-algorithm-assignment-1p5)
+- [Docker vs. Kubernetes: A Comparative Study](https://dev.to/documatic/docker-vs-kubernetes-a-comparative-study-4aa2)
+- [07 Website&#39;s you will love as a dev.](https://dev.to/er_saifullah/10-websites-you-will-love-as-a-dev-24p7)
 - [Easy Shared Reactive State in React without External Libraries](https://dev.to/jdgamble555/easy-shared-reactive-state-in-react-without-external-libraries-36cc)
-- [VS Code Sticky Scroll!](https://dev.to/amrsamy/vs-code-sticky-scroll-2jcd)
-- [Best React.js Frontend Bootcamp 🧑‍💻](https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7)
-- [First, but with Feeling.](https://dev.to/jarvisscript/first-but-with-feeling-70d)
 <!-- BLOG-POST-LIST:END -->
 
