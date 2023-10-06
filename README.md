@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to React Query](https://dev.to/refine/beginners-guide-to-react-query-1o27)
-- [Status Page 101](https://dev.to/nicopaez/status-page-101-11aa)
-- [Monorepos: Making Development Easier and Smoother](https://dev.to/furqanramzan/monorepos-making-development-easier-and-smoother-3kl8)
-- [Moonly weekly progress update #65 - Karamendos WL Flow](https://dev.to/moonly/moonly-weekly-progress-update-65-karamendos-wl-flow-jfh)
+- [Dark Mode UX: How Dimmed Screens Became the Hottest Tech Trend](https://dev.to/scofieldidehen/dark-mode-ux-how-dimmed-screens-became-the-hottest-tech-trend-ok3)
+- [A Python steganography API at your service.](https://dev.to/bogomil/a-python-steganography-api-at-your-service-5dm2)
+- [Build A Website Blocker App With Python](https://dev.to/scofieldidehen/build-a-website-blocker-app-with-python-1p7n)
+- [🙈 Beginner&#39;s Guide to React Query](https://dev.to/refine/beginners-guide-to-react-query-1o27)
 <!-- BLOG-POST-LIST:END -->
 
