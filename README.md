@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best React.js Frontend Bootcamp 🧑‍💻](https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7)
+- [First, but with feeling.](https://dev.to/jarvisscript/first-but-with-feeling-70d)
+- [You must know the difference between Unknown and Any in Typescript](https://dev.to/rajaerobinson/you-must-know-the-difference-between-unknown-and-any-in-typescript-3j2o)
 - [Tudo que você precisa saber sobre Git](https://dev.to/1cadumagalhaes/tudo-que-voce-precisa-saber-sobre-git-3gbi)
-- [Should You Lower Your Possibilities When Looking For a Job?](https://dev.to/juandadev/should-you-lower-your-possibilities-when-looking-for-a-job-2p0j)
-- [Entendendo Algoritmos: Introdução a Algoritmos](https://dev.to/eusoumabel/entendendo-algoritmos-introducao-a-algoritmos-3d2n)
-- [Create A PAT &lpar;Personal Access Token&rpar; For GitHub Repo Access](https://dev.to/raddevus/create-a-pat-personal-access-token-for-github-repo-access-23jn)
 <!-- BLOG-POST-LIST:END -->
 
