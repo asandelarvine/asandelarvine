@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023 Swags Compilation. Do not give up on T Shirts yet!](https://dev.to/collectivhq/hacktoberfest-2023-swags-compilation-do-not-give-up-on-t-shirts-yet-1mk)
+- [Building a Simple Tic-Tac-Toe Game with React](https://dev.to/kartikbudhraja/building-a-simple-tic-tac-toe-game-with-react-4bdj)
 - [Environment Variables in Environment Variables in NodeJs: The complete Guide](https://dev.to/alakkadshaw/environment-variables-in-environment-variables-in-nodejs-the-complete-guide-em1)
 - [Empowering the Present with Blockchain: Crowdfunding Platforms Leading the Way](https://dev.to/kkartik07/empowering-the-present-with-blockchain-crowdfunding-platforms-leading-the-way-3c0m)
-- [Look how global our community is!](https://dev.to/opensourcee/look-how-global-the-dev-community-is-2j39)
-- [The Jitter Strategy for Step Functions Error Retries on the New Workflow Studio](https://dev.to/aws-heroes/the-jitter-strategy-for-step-functions-error-retries-on-the-new-workflow-studio-195b)
 <!-- BLOG-POST-LIST:END -->
 
