@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a Full Stack Next.js App to a DigitalOcean VPS With Docker!](https://dev.to/andrews1022/deploy-a-full-stack-nextjs-app-to-a-digitalocean-vps-with-docker-5f0m)
+- [Discussion of the Week - v5](https://dev.to/devteam/discussion-of-the-week-v5-19bo)
+- [AI-Powered Carousel Maker - Create Carousels 10x Faster](https://dev.to/seeratawan01/ai-powered-carousel-maker-create-carousels-10x-faster-4n1b)
 - [Hacktoberfest 2023 Swags Compilation. Do not give up on T Shirts yet!](https://dev.to/collectivhq/hacktoberfest-2023-swags-compilation-do-not-give-up-on-t-shirts-yet-1mk)
-- [Building a Simple Tic-Tac-Toe Game with React](https://dev.to/kartikbudhraja/building-a-simple-tic-tac-toe-game-with-react-4bdj)
-- [Environment Variables in Environment Variables in NodeJs: The complete Guide](https://dev.to/alakkadshaw/environment-variables-in-environment-variables-in-nodejs-the-complete-guide-em1)
-- [Empowering the Present with Blockchain: Crowdfunding Platforms Leading the Way](https://dev.to/kkartik07/empowering-the-present-with-blockchain-crowdfunding-platforms-leading-the-way-3c0m)
 <!-- BLOG-POST-LIST:END -->
 
