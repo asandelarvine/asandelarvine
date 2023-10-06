@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023: Contributing to React &amp; Next.js projects](https://dev.to/this_mkhy/hacktoberfest-2023-contributing-to-react-nextjs-projects-2laf)
+- [How to Build an Image Search App With Pagination Using React](https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6)
 - [# Algorithm Assignment](https://dev.to/shoeheyot/-algorithm-assignment-1p5)
 - [Docker vs. Kubernetes: A Comparative Study](https://dev.to/documatic/docker-vs-kubernetes-a-comparative-study-4aa2)
-- [07 Website&#39;s you will love as a dev.](https://dev.to/er_saifullah/10-websites-you-will-love-as-a-dev-24p7)
-- [Easy Shared Reactive State in React without External Libraries](https://dev.to/jdgamble555/easy-shared-reactive-state-in-react-without-external-libraries-36cc)
 <!-- BLOG-POST-LIST:END -->
 
