@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Mode UX: How Dimmed Screens Became the Hottest Tech Trend](https://dev.to/scofieldidehen/dark-mode-ux-how-dimmed-screens-became-the-hottest-tech-trend-ok3)
-- [A Python steganography API at your service.](https://dev.to/bogomil/a-python-steganography-api-at-your-service-5dm2)
-- [Build A Website Blocker App With Python](https://dev.to/scofieldidehen/build-a-website-blocker-app-with-python-1p7n)
-- [🙈 Beginner&#39;s Guide to React Query](https://dev.to/refine/beginners-guide-to-react-query-1o27)
+- [AI-Powered Artistry: 5 Inspiring Prompts for Image Generation](https://dev.to/arnavk09/ai-powered-artistry-5-inspiring-prompts-for-image-generation-3kp4)
+- [No Code vs. Low Code: What&#39;s the Difference?](https://dev.to/ipratikmali/no-code-vs-low-code-whats-the-difference-285g)
+- [So I might be doing this wrong...](https://dev.to/jd2r/so-i-might-be-doing-this-wrong-3ni7)
+- [Who&#39;s looking for open source contributors? &lpar;week 62&rpar;](https://dev.to/bekahhw/whos-looking-for-open-source-contributors-week-62-346a)
 <!-- BLOG-POST-LIST:END -->
 
