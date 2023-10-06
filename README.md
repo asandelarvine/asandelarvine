@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Know CSS Specificity: Writing Efficient CSS Code](https://dev.to/xmohammedawad/you-dont-know-css-specificity-writing-efficient-css-code-1ce0)
-- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-3bch)
-- [Automatically switching laminas-form Annotations to Attributes with Rector](https://dev.to/ramchale/automatically-switching-laminas-form-annotations-to-attributes-with-rector-2m42)
-- [SEO Technical Interview Questions and Answers Made Simple](https://dev.to/everythingblogging/seo-technical-interview-questions-and-answers-made-simple-4gff)
+- [Beginner&#39;s Guide to React Query](https://dev.to/refine/beginners-guide-to-react-query-1o27)
+- [Status Page 101](https://dev.to/nicopaez/status-page-101-11aa)
+- [Monorepos: Making Development Easier and Smoother](https://dev.to/furqanramzan/monorepos-making-development-easier-and-smoother-3kl8)
+- [Moonly weekly progress update #65 - Karamendos WL Flow](https://dev.to/moonly/moonly-weekly-progress-update-65-karamendos-wl-flow-jfh)
 <!-- BLOG-POST-LIST:END -->
 
