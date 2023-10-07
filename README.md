@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [SQLite vs. Chroma: A Comparative Analysis for Managing Vector Embeddings](https://dev.to/stephenc222/sqlite-vs-chroma-a-comparative-analysis-for-managing-vector-embeddings-4i76)
+- [We should get rid of Typescript](https://dev.to/gene/we-should-get-rid-of-typescript-3n51)
 - [Any product to help us be better at meetings?](https://dev.to/zmzlois/do-they-actuall-know-what-they-are-talking-about-2ep6)
 - [ClickHouse ReplacingMergeTree Engine: The Airport &amp; Flights Metaphor](https://dev.to/sbalasa/clickhouse-replacing-merging-engines-the-airport-flights-metaphor-26cl)
-- [String.charAt&lpar;&rpar; Method in JavaScript](https://dev.to/speaklouder/stringcharat-method-in-javascript-2jm3)
 <!-- BLOG-POST-LIST:END -->
 
