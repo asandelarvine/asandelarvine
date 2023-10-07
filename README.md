@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Missing HashiConf: An Emotional Journey Through the World of HashiCorp](https://dev.to/aditmodi/missing-hashiconf-an-emotional-journey-through-the-world-of-hashicorp-58g5)
+- [Microtask Queue + RxJS + Angular](https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah)
 - [JavaScript Magic Tricks: Mutable Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-mutable-eval-2496)
 - [PHP PSRs : PSR-2 &amp; PSR-12 Parte 1](https://dev.to/xxzeroxx/php-psrs-psr-2-psr-12-parte-1-1m4e)
-- [Replace Embedded Tomcat Server with Jetty or Undertow in Spring Boot3](https://dev.to/nilan/replace-embedded-tomcat-server-with-jetty-or-undertow-in-spring-boot3-2506)
-- [Becoming an AWS All Builders Welcome Grant Alumni Mentor: Empowering the Next Generation of Innovators](https://dev.to/aws-builders/becoming-an-aws-all-builders-welcome-grant-alumni-mentor-empowering-the-next-generation-of-innovators-5f3n)
 <!-- BLOG-POST-LIST:END -->
 
