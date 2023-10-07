@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 1.1 - Build a fullstack blogging website using MERN &lpar; MongoDB, ReactJS, ExpressJS and NodeJS &rpar;](https://dev.to/themodernweb/part-11-build-a-fullstack-blogging-website-using-mern-mongodb-reactjs-expressjs-and-nodejs--hdo)
+- [Using Github Actions with Bun](https://dev.to/code42cate/using-github-actions-with-bun-g0o)
 - [Cloud Scheduler to stop a Cloud SQL database](https://dev.to/mkdev/cloud-scheduler-to-stop-a-cloud-sql-database-1e61)
 - [Unveiling the Magic of Coding Principles DRY and KISS in C#](https://dev.to/chaudharyhit/unveiling-the-magic-of-coding-principles-dry-and-kiss-in-c-78l)
-- [What exactly Technical writer do and How to get hire!!](https://dev.to/shreyvijayvargiya/what-exactly-technical-writer-do-and-how-to-get-hire-pmf)
-- [Privacy Policy](https://dev.to/lifelong/privacy-policy-e8k)
 <!-- BLOG-POST-LIST:END -->
 
