@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP PSRs : PSR-2 &amp; PSR-12 Parte 1](https://dev.to/xxzeroxx/php-psrs-psr-2-psr-12-parte-1-1m4e)
 - [Replace Embedded Tomcat Server with Jetty or Undertow in Spring Boot3](https://dev.to/nilan/replace-embedded-tomcat-server-with-jetty-or-undertow-in-spring-boot3-2506)
+- [Becoming an AWS All Builders Welcome Grant Alumni Mentor: Empowering the Next Generation of Innovators](https://dev.to/aws-builders/becoming-an-aws-all-builders-welcome-grant-alumni-mentor-empowering-the-next-generation-of-innovators-5f3n)
 - [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-5fhg)
-- [What Kind Act Will You Do for Yourself Today?](https://dev.to/codenewbieteam/what-kind-act-will-you-do-for-yourself-today-4cij)
-- [Getting Started with Drizzle ORM: A Beginner&#39;s Guide](https://dev.to/franciscomendes10866/getting-started-with-drizzle-orm-a-beginners-tutorial-4782)
 <!-- BLOG-POST-LIST:END -->
 
