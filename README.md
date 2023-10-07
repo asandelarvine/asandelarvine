@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 3 Image Optimization Services](https://dev.to/eklesiast/top-3-image-optimization-services-2mhc)
-- [The Advantages of Artificial Intelligence &lpar;AI&rpar; in Everyday Existence](https://dev.to/sumberilmu/the-advantages-of-artificial-intelligence-ai-in-everyday-existence-5e57)
-- [Lossless Cut is my new favourite tool to cut parts from a video without any hassle](https://dev.to/codepo8/lossless-cut-is-my-new-favourite-tool-to-cut-parts-from-a-video-without-any-hassle-28lh)
-- [Top Web Development Tips Every Developer Should Know in 2024](https://dev.to/dhruvjoshi9/top-web-development-tips-every-developer-should-know-in-2024-2fi6)
+- [Cloud Scheduler to stop a Cloud SQL database](https://dev.to/mkdev/cloud-scheduler-to-stop-a-cloud-sql-database-1e61)
+- [Unveiling the Magic of Coding Principles DRY and KISS in C#](https://dev.to/chaudharyhit/unveiling-the-magic-of-coding-principles-dry-and-kiss-in-c-78l)
+- [What exactly Technical writer do and How to get hire!!](https://dev.to/shreyvijayvargiya/what-exactly-technical-writer-do-and-how-to-get-hire-pmf)
+- [Privacy Policy](https://dev.to/lifelong/privacy-policy-e8k)
 <!-- BLOG-POST-LIST:END -->
 
