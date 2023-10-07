@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Replace Embedded Tomcat Server with Jetty or Undertow in Spring Boot3](https://dev.to/nilan/replace-embedded-tomcat-server-with-jetty-or-undertow-in-spring-boot3-2506)
-- [Exploratory Data Analysis using Data Visualization Techniques.](https://dev.to/edina/exploratory-data-analysis-using-data-visualization-techniques-3mnn)
-- [Deploy a Full Stack Next.js App to a DigitalOcean VPS With Docker!](https://dev.to/andrews1022/deploy-a-full-stack-nextjs-app-to-a-digitalocean-vps-with-docker-5f0m)
-- [Test your React Libraries Locally with Yalc](https://dev.to/propelauth/test-your-react-libraries-locally-with-yalc-4nfh)
+- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-5fhg)
+- [What Kind Act Will You Do for Yourself Today?](https://dev.to/codenewbieteam/what-kind-act-will-you-do-for-yourself-today-4cij)
+- [Getting Started with Drizzle ORM: A Beginner&#39;s Guide](https://dev.to/franciscomendes10866/getting-started-with-drizzle-orm-a-beginners-tutorial-4782)
 <!-- BLOG-POST-LIST:END -->
 
