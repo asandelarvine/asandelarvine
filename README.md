@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 Image Optimization Services](https://dev.to/eklesiast/top-3-image-optimization-services-2mhc)
+- [The Advantages of Artificial Intelligence &lpar;AI&rpar; in Everyday Existence](https://dev.to/sumberilmu/the-advantages-of-artificial-intelligence-ai-in-everyday-existence-5e57)
+- [Lossless Cut is my new favourite tool to cut parts from a video without any hassle](https://dev.to/codepo8/lossless-cut-is-my-new-favourite-tool-to-cut-parts-from-a-video-without-any-hassle-28lh)
 - [Top Web Development Tips Every Developer Should Know in 2024](https://dev.to/dhruvjoshi9/top-web-development-tips-every-developer-should-know-in-2024-2fi6)
-- [Why Your Website is Lagging? Here&#39;s How to Fix It and Boost Your Web Application Development!](https://dev.to/dhruvjoshi9/why-your-website-is-lagging-heres-how-to-fix-it-and-boost-your-web-application-development-a7b)
-- [Missing HashiConf: An Emotional Journey Through the World of HashiCorp](https://dev.to/aditmodi/missing-hashiconf-an-emotional-journey-through-the-world-of-hashicorp-58g5)
-- [Microtask Queue + RxJS + Angular](https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah)
 <!-- BLOG-POST-LIST:END -->
 
