@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [RegEx cheat sheet for JavaScript](https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np)
+- [Making Cardboard, Hobos sibling!](https://dev.to/nombrekeff/making-cardboard-hobos-sibling-2dnf)
 - [Internet And Shadow Groups](https://dev.to/sarthology/internet-and-shadow-groups-14bo)
 - [Como fazer um robô para publicar mensagens no seu grupo do teams 🚀](https://dev.to/antoniorws/como-fazer-um-robo-para-publicar-mensagens-no-seu-grupo-do-teams-1nd6)
-- [A Deep Dive into Prompt Engineering for Amazon Bedrock](https://dev.to/rengond/a-deep-dive-into-prompt-engineering-for-amazon-bedrock-1lb3)
-- [5 best open source IDEs for programming](https://dev.to/rendick/5-best-open-source-ides-for-programming-4eng)
 <!-- BLOG-POST-LIST:END -->
 
