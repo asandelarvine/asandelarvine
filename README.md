@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 best open source IDEs for programming](https://dev.to/rendick/5-best-open-source-ides-for-programming-4eng)
 - [White labeling colors in embedded applications](https://dev.to/ranquild/white-labeling-colors-in-embedded-applications-5e92)
 - [How to Make CRUD app in JavaScript](https://dev.to/codewithsadee/how-to-make-crud-app-in-javascript-27je)
 - [Part 1.1 - Build a fullstack blogging website using MERN &lpar; MongoDB, ReactJS, ExpressJS and NodeJS &rpar;](https://dev.to/themodernweb/part-11-build-a-fullstack-blogging-website-using-mern-mongodb-reactjs-expressjs-and-nodejs--hdo)
-- [Understanding The New Control Flow And Deferred Loading in Angular](https://dev.to/luishcastroc/understanding-the-new-control-flow-and-deferred-loading-in-angular-26kh)
 <!-- BLOG-POST-LIST:END -->
 
