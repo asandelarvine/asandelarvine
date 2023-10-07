@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Any product to help us be better at meetings?](https://dev.to/zmzlois/do-they-actuall-know-what-they-are-talking-about-2ep6)
 - [ClickHouse ReplacingMergeTree Engine: The Airport &amp; Flights Metaphor](https://dev.to/sbalasa/clickhouse-replacing-merging-engines-the-airport-flights-metaphor-26cl)
 - [String.charAt&lpar;&rpar; Method in JavaScript](https://dev.to/speaklouder/stringcharat-method-in-javascript-2jm3)
 - [C# OOP](https://dev.to/zafarurakov/c-oop-22hp)
-- [How to customize colors in dark and light modes in Material UI](https://dev.to/minhchi1509/how-to-customize-colors-in-dark-and-light-modes-in-material-ui-1j5c)
 <!-- BLOG-POST-LIST:END -->
 
