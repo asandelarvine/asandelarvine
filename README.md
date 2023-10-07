@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace Embedded Tomcat Server with Jetty or Undertow in Spring Boot3](https://dev.to/nilan/replace-embedded-tomcat-server-with-jetty-or-undertow-in-spring-boot3-2506)
 - [Exploratory Data Analysis using Data Visualization Techniques.](https://dev.to/edina/exploratory-data-analysis-using-data-visualization-techniques-3mnn)
 - [Deploy a Full Stack Next.js App to a DigitalOcean VPS With Docker!](https://dev.to/andrews1022/deploy-a-full-stack-nextjs-app-to-a-digitalocean-vps-with-docker-5f0m)
 - [Test your React Libraries Locally with Yalc](https://dev.to/propelauth/test-your-react-libraries-locally-with-yalc-4nfh)
-- [Discussion of the Week - v5](https://dev.to/devteam/discussion-of-the-week-v5-19bo)
 <!-- BLOG-POST-LIST:END -->
 
