@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/k_ndrick/exploratory-data-analysis-using-data-visualization-techniques-3ifg)
 - [Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/frontend-development-roadmap-3ghe)
 - [JavaScript Magic Tricks: Html Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-html-encryption-49hd)
 - [Building a Tkinter GUI Application from Scratch with Python](https://dev.to/scofieldidehen/building-a-tkinter-gui-application-from-scratch-2lok)
-- [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/johnkyalo/exploratory-data-analysis-using-data-visualization-techniques-2ok5)
 <!-- BLOG-POST-LIST:END -->
 
