@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Preparing a React course in public - Raw HTML + CSS](https://dev.to/manuartero/preparing-a-react-course-in-public-raw-html-css-4gbc)
+- [How to Cut Your Data Analysis Costs With esProc SPL](https://dev.to/grayhat/how-to-cut-your-data-analysis-costs-with-esproc-spl-6fj)
+- [Blockchain Scaling solutions and types](https://dev.to/hkaybaba/blockchain-scaling-solutions-and-types-1geg)
 - [Yet Another Newsletter LOL: Pizza Byte](https://dev.to/nickytonline/yet-another-newsletter-lol-pizza-byte-1i06)
-- [Exploratory data Analysis using Visualization Techniques](https://dev.to/am_mambo/exploratory-data-analysis-using-visualization-techniques-2lf9)
-- [Get started with Amazon Bedrock for Image Generation - Part 1 Generative AI](https://dev.to/aws-heroes/get-started-with-amazon-bedrock-for-image-generation-part-1-generative-ai-1ho1)
-- [Golang 1.21 is here &lpar;Part 3&rpar;](https://dev.to/pedrobertao/golang-121-is-here-part-3-11j)
 <!-- BLOG-POST-LIST:END -->
 
