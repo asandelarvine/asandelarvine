@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Tkinter GUI Application from Scratch with Python](https://dev.to/scofieldidehen/building-a-tkinter-gui-application-from-scratch-2lok)
+- [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/johnkyalo/exploratory-data-analysis-using-data-visualization-techniques-2ok5)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fk3)
-- [Interface Segregation Principle in React](https://dev.to/mikhaelesa/interface-segregation-principle-in-react-2501)
-- [Framework Interoperable Component Libraries Using Lit Web Components.](https://dev.to/reggi/framework-interoperable-component-libraries-using-lit-web-components-43ac)
-- [It was not &quot;Good First Issue&quot;](https://dev.to/rabroldan/it-was-not-good-first-issue-3bj9)
+- [Mastering ROUGE Matrix: Your Guide to Large Language Model Evaluation for Summarization with Examples](https://dev.to/aws-builders/mastering-rouge-matrix-your-guide-to-large-language-model-evaluation-for-summarization-with-examples-jjg)
 <!-- BLOG-POST-LIST:END -->
 
