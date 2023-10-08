@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic Python Project Layout](https://dev.to/cwprogram/basic-python-project-layout-1pg2)
+- [Exploratory Data Analysis &lpar;EDA&rpar;and visualization Techniques](https://dev.to/lornam12/exploratory-data-analysis-edaand-visualization-techniques-5gdp)
 - [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/bradleydaudi/exploratory-data-analysis-using-data-visualization-techniques-ea0)
-- [10 Cool CodePen Demos &lpar;September 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2023-2pk)
-- [Who will be Mr. or Mrs. #100? 👀](https://dev.to/opensourcee/who-will-be-mr-or-mrs-100-1dg0)
-- [Intro to Relational DBMS](https://dev.to/endeavourmonk/intro-to-relational-dbms-1b6)
+- [Scalable range sharding to avoid hotspots on indexes](https://dev.to/yugabyte/scalable-range-sharding-with-yugabytedb-1o51)
 <!-- BLOG-POST-LIST:END -->
 
