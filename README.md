@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fk3)
 - [Interface Segregation Principle in React](https://dev.to/mikhaelesa/interface-segregation-principle-in-react-2501)
 - [Framework Interoperable Component Libraries Using Lit Web Components.](https://dev.to/reggi/framework-interoperable-component-libraries-using-lit-web-components-43ac)
 - [It was not &quot;Good First Issue&quot;](https://dev.to/rabroldan/it-was-not-good-first-issue-3bj9)
-- [&lt;rant&gt;I&#39;m bored of reading copy writing...](https://dev.to/omicreative/im-bored-of-reading-copy-writing-4gm)
 <!-- BLOG-POST-LIST:END -->
 
