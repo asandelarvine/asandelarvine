@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Tenancy In EKS Cluster Using Vcluster](https://dev.to/aws-builders/multi-tenancy-in-eks-cluster-using-vcluster-2pni)
+- [Brain.js for Beginners](https://dev.to/gfish94/brainjs-for-beginners-1g77)
+- [My Journey to Accelerate Load Times in Heavy Frontend](https://dev.to/dsitdikov/my-journey-to-accelerate-load-times-in-heavy-frontend-30c7)
 - [instant distributed database- gun.js](https://dev.to/heyraghab/instant-distributed-database-gunjs-4394)
-- [GIT - It can be fun.](https://dev.to/sanjeevani/git-it-can-be-fun-463c)
-- [Preparing a React course in public - Raw HTML + CSS](https://dev.to/manuartero/preparing-a-react-course-in-public-raw-html-css-4gbc)
-- [Exploratory Data Analysis: Data Visualization](https://dev.to/parq254/exploratory-data-analysis-data-visualization-47j6)
 <!-- BLOG-POST-LIST:END -->
 
