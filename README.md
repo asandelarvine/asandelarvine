@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Elanat 2.1 released - .NET Honor!](https://dev.to/elanatframework/elanat-21-released-net-honor-2np9)
+- [Can You -- and Should You -- Stop Caring What Others Think?](https://dev.to/devteam/can-you-and-should-you-stop-caring-what-others-think-4bm4)
+- [Introdução ao .NET com Visual Studio Code](https://dev.to/ebagabe/introducao-ao-net-com-visual-studio-code-2gmp)
 - [SQLite vs. Chroma: A Comparative Analysis for Managing Vector Embeddings](https://dev.to/stephenc222/sqlite-vs-chroma-a-comparative-analysis-for-managing-vector-embeddings-4i76)
-- [We should get rid of Typescript](https://dev.to/gene/we-should-get-rid-of-typescript-3n51)
-- [Any product to help us be better at meetings?](https://dev.to/zmzlois/do-they-actuall-know-what-they-are-talking-about-2ep6)
-- [ClickHouse ReplacingMergeTree Engine: The Airport &amp; Flights Metaphor](https://dev.to/sbalasa/clickhouse-replacing-merging-engines-the-airport-flights-metaphor-26cl)
 <!-- BLOG-POST-LIST:END -->
 
