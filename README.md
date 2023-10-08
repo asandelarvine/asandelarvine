@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory data Analysis using Visualization Techniques](https://dev.to/am_mambo/exploratory-data-analysis-using-visualization-techniques-2lf9)
+- [Golang 1.21 is here &lpar;Part 3&rpar;](https://dev.to/pedrobertao/golang-121-is-here-part-3-11j)
 - [Go is bigger than crab!](https://dev.to/rsteube/go-is-bigger-than-crab-33kf)
 - [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/k_ndrick/exploratory-data-analysis-using-data-visualization-techniques-3ifg)
-- [Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/frontend-development-roadmap-3ghe)
-- [AWS NETWORKING 101](https://dev.to/zeelz/aws-networking-101-1co6)
 <!-- BLOG-POST-LIST:END -->
 
