@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/bradleydaudi/exploratory-data-analysis-using-data-visualization-techniques-ea0)
+- [10 Cool CodePen Demos &lpar;September 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2023-2pk)
 - [Who will be Mr. or Mrs. #100? 👀](https://dev.to/opensourcee/who-will-be-mr-or-mrs-100-1dg0)
 - [Intro to Relational DBMS](https://dev.to/endeavourmonk/intro-to-relational-dbms-1b6)
-- [Chapter 2: SPCT-RIM](https://dev.to/sarthology/chapter-2-spct-rim-3kdd)
-- [[VISUAL] CSS Intro, Syntax &amp; the CSS Cascade](https://dev.to/itsmohamedyahia/visual-css-intro-syntax-the-css-cascade-2hjl)
 <!-- BLOG-POST-LIST:END -->
 
