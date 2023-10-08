@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Go is bigger than crab!](https://dev.to/rsteube/go-is-bigger-than-crab-33kf)
 - [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/k_ndrick/exploratory-data-analysis-using-data-visualization-techniques-3ifg)
 - [Frontend Development Roadmap](https://dev.to/shreyvijayvargiya/frontend-development-roadmap-3ghe)
-- [JavaScript Magic Tricks: Html Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-html-encryption-49hd)
-- [Building a Tkinter GUI Application from Scratch with Python](https://dev.to/scofieldidehen/building-a-tkinter-gui-application-from-scratch-2lok)
+- [AWS NETWORKING 101](https://dev.to/zeelz/aws-networking-101-1co6)
 <!-- BLOG-POST-LIST:END -->
 
