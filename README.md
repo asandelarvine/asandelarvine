@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GIT - It can be fun.](https://dev.to/sanjeevani/git-it-can-be-fun-463c)
 - [Preparing a React course in public - Raw HTML + CSS](https://dev.to/manuartero/preparing-a-react-course-in-public-raw-html-css-4gbc)
-- [How to Cut Your Data Analysis Costs With esProc SPL](https://dev.to/grayhat/how-to-cut-your-data-analysis-costs-with-esproc-spl-6fj)
-- [Blockchain Scaling solutions and types](https://dev.to/hkaybaba/blockchain-scaling-solutions-and-types-1geg)
-- [Yet Another Newsletter LOL: Pizza Byte](https://dev.to/nickytonline/yet-another-newsletter-lol-pizza-byte-1i06)
+- [Exploratory Data Analysis: Data Visualization](https://dev.to/parq254/exploratory-data-analysis-data-visualization-47j6)
+- [Beyond the Basics: The Ultimate Guide to CSS Precedence](https://dev.to/jaimaldullat/beyond-the-basics-the-ultimate-guide-to-css-precedence-2fpj)
 <!-- BLOG-POST-LIST:END -->
 
