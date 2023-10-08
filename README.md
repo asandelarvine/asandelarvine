@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [instant distributed database- gun.js](https://dev.to/heyraghab/instant-distributed-database-gunjs-4394)
 - [GIT - It can be fun.](https://dev.to/sanjeevani/git-it-can-be-fun-463c)
 - [Preparing a React course in public - Raw HTML + CSS](https://dev.to/manuartero/preparing-a-react-course-in-public-raw-html-css-4gbc)
 - [Exploratory Data Analysis: Data Visualization](https://dev.to/parq254/exploratory-data-analysis-data-visualization-47j6)
-- [Beyond the Basics: The Ultimate Guide to CSS Precedence](https://dev.to/jaimaldullat/beyond-the-basics-the-ultimate-guide-to-css-precedence-2fpj)
 <!-- BLOG-POST-LIST:END -->
 
