@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory Data Analysis using Data Visualization Techniques.](https://dev.to/mosesmorris/exploratory-data-analysis-using-data-visualization-techniques-eoi)
-- [ChatGPT Vision](https://dev.to/nextideatech/chatgpt-vision-2haf)
-- [Bridging Web2 and Web3: Simplifying Platform Authentication with Dynamic.xyz](https://dev.to/davidadeola/bridging-web2-and-web3-simplifying-platform-authentication-with-dynamicxyz-2ahf)
-- [Delve into CSS Selectors](https://dev.to/ericnanhu/delve-into-css-selectors-hmh)
+- [Anotando: Plugins da comunidade que utilizo no Obsidian](https://dev.to/wevtimoteo/anotando-plugins-da-comunidade-que-utilizo-no-obsidian-lhm)
+- [[UPDATED] The DynamoDB-Toolbox v1 beta is here 🙌 All you need to know!](https://dev.to/slsbytheodo/updated-the-dynamodb-toolbox-v1-beta-is-here-all-you-need-to-know-ep2)
+- [New DynamoDB-Toolbox v1 beta: Features and breaking changes](https://dev.to/slsbytheodo/new-dynamodb-toolbox-v1-beta-features-and-breaking-changes-1ji5)
+- [Unit testing: The Beginner&#39;s guide](https://dev.to/ozor/unit-testing-the-beginners-guide-3ecn)
 <!-- BLOG-POST-LIST:END -->
 
