@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Web Application Performance with JavaScript Debouncing](https://dev.to/ghnshym/enhance-web-application-performance-with-javascript-debouncing-4ldp)
+- [Turning Text into Talk on AWS: The Polly-Phonic Symphony of S3, Lambda and Amazon Polly](https://dev.to/aws-builders/turning-text-into-talk-on-aws-the-polly-phonic-symphony-of-s3-lambda-and-amazon-polly-3aid)
+- [Decoding the Art of Software Patterns: An Exhaustive Odyssey into Strategy, Building Blocks, and Observers](https://dev.to/lordneic/decoding-the-art-of-software-patterns-an-exhaustive-odyssey-into-strategy-building-blocks-and-observers-2a1c)
 - [SQLite with Python](https://dev.to/scofieldidehen/sqlite-with-python-507i)
-- [Azure Automation vs Azure Functions with Powershell](https://dev.to/this-is-learning/azure-automation-vs-azure-functions-with-powershell-ef)
-- [🚀 API Maker - Schedulers](https://dev.to/apimaker/api-maker-schedulers-3k8l)
-- [JavaScript Magic Tricks: Code Minification &amp; Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-code-minification-encryption-4297)
 <!-- BLOG-POST-LIST:END -->
 
