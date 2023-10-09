@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Magic Tricks: Code Minification &amp; Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-code-minification-encryption-4297)
+- [Shapes in CSS](https://dev.to/alvaromontoro/shapes-in-css-2o9d)
+- [Stop using Next.js. Here are Some Alternatives](https://dev.to/rajaerobinson/stop-using-nextjs-here-are-some-alternatives-321o)
 - [Basic Python Project Layout](https://dev.to/cwprogram/basic-python-project-layout-1pg2)
-- [Exploratory Data Analysis &lpar;EDA&rpar;and visualization Techniques](https://dev.to/lornam12/exploratory-data-analysis-edaand-visualization-techniques-5gdp)
-- [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/bradleydaudi/exploratory-data-analysis-using-data-visualization-techniques-ea0)
-- [Scalable range sharding to avoid hotspots on indexes](https://dev.to/yugabyte/scalable-range-sharding-with-yugabytedb-1o51)
 <!-- BLOG-POST-LIST:END -->
 
