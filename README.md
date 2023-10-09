@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5770)
-- [Building Serverless Python Apps with AWS Lambda and Docker](https://dev.to/thecodersden/building-serverless-python-apps-with-aws-lambda-and-docker-5b1a)
-- [Meme Monday](https://dev.to/ben/meme-monday-5h4i)
-- [Exploratory Data Analysis with Data Visualization Techniques](https://dev.to/brendamukami/exploratory-data-analysis-with-data-visualization-techniques-27n)
+- [Exploratory Data Analysis using Data Visualization Techniques.](https://dev.to/mosesmorris/exploratory-data-analysis-using-data-visualization-techniques-eoi)
+- [ChatGPT Vision](https://dev.to/nextideatech/chatgpt-vision-2haf)
+- [Bridging Web2 and Web3: Simplifying Platform Authentication with Dynamic.xyz](https://dev.to/davidadeola/bridging-web2-and-web3-simplifying-platform-authentication-with-dynamicxyz-2ahf)
+- [Delve into CSS Selectors](https://dev.to/ericnanhu/delve-into-css-selectors-hmh)
 <!-- BLOG-POST-LIST:END -->
 
