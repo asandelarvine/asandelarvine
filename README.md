@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite with Python](https://dev.to/scofieldidehen/sqlite-with-python-507i)
+- [Azure Automation vs Azure Functions with Powershell](https://dev.to/this-is-learning/azure-automation-vs-azure-functions-with-powershell-ef)
 - [🚀 API Maker - Schedulers](https://dev.to/apimaker/api-maker-schedulers-3k8l)
 - [JavaScript Magic Tricks: Code Minification &amp; Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-code-minification-encryption-4297)
-- [Shapes in CSS](https://dev.to/alvaromontoro/shapes-in-css-2o9d)
-- [Stop using Next.js. Here are Some Alternatives](https://dev.to/rajaerobinson/stop-using-nextjs-here-are-some-alternatives-321o)
 <!-- BLOG-POST-LIST:END -->
 
