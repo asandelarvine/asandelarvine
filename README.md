@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023 Update from Maintainer of the user-statistician GitHub Action](https://dev.to/cicirello/hacktoberfest-2023-update-from-maintainer-of-the-user-statistician-github-action-253g)
+- [Best practices for HarperDB projects using TypeScript](https://dev.to/_staticvoid/best-practices-for-harperdb-projects-using-typescript-44ak)
+- [Is Open Source communism?](https://dev.to/opensourcee/open-source-communism-577)
 - [Top 10 Pub-Sub interview questions](https://dev.to/fromfullstack/top-10-pub-sub-interview-questions-1ao4)
-- [Top 25 Kafka interview questions](https://dev.to/fromfullstack/top-25-kafka-interview-questions-271b)
-- [Building a ToDo app with SwiftUI and Cosmic](https://dev.to/_kejk/building-a-todo-app-with-swiftui-and-cosmic-3g1b)
-- [Top 10 Docker vs Virtualization interview questions](https://dev.to/fromfullstack/top-10-docker-vs-virtualization-interview-questions-56jk)
 <!-- BLOG-POST-LIST:END -->
 
