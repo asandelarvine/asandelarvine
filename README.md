@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anotando: Plugins da comunidade que utilizo no Obsidian](https://dev.to/wevtimoteo/anotando-plugins-da-comunidade-que-utilizo-no-obsidian-lhm)
-- [[UPDATED] The DynamoDB-Toolbox v1 beta is here 🙌 All you need to know!](https://dev.to/slsbytheodo/updated-the-dynamodb-toolbox-v1-beta-is-here-all-you-need-to-know-ep2)
-- [New DynamoDB-Toolbox v1 beta: Features and breaking changes](https://dev.to/slsbytheodo/new-dynamodb-toolbox-v1-beta-features-and-breaking-changes-1ji5)
-- [Unit testing: The Beginner&#39;s guide](https://dev.to/ozor/unit-testing-the-beginners-guide-3ecn)
+- [Announcing Hacktoberfest Game Jam](https://dev.to/thatcomputerguy/announcing-hacktoberfest-game-jam-1e2l)
+- [Top 10 Java interview questions about Rate Limiters](https://dev.to/fromfullstack/top-10-java-interview-questions-about-rate-limiters-3ba7)
+- [Understanding Flutter Architecture Part 1 - Introduction](https://dev.to/bigdexter/understanding-flutter-architecture-part-1-introduction-2h09)
+- [How to write a YAML configuration file? | A Step-by-Step Guide for Beginners](https://dev.to/msfaizi/how-to-write-a-yaml-configuration-file-a-step-by-step-guide-for-beginners-jf0)
 <!-- BLOG-POST-LIST:END -->
 
