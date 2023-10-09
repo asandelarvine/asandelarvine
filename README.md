@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [JavaScript Magic Tricks: Code Minification &amp; Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-code-minification-encryption-4297)
 - [Shapes in CSS](https://dev.to/alvaromontoro/shapes-in-css-2o9d)
 - [Stop using Next.js. Here are Some Alternatives](https://dev.to/rajaerobinson/stop-using-nextjs-here-are-some-alternatives-321o)
-- [Basic Python Project Layout](https://dev.to/cwprogram/basic-python-project-layout-1pg2)
+- [If You Could Automate One Aspect of Your Life, What Would It Be?](https://dev.to/devteam/if-you-could-automate-one-aspect-of-your-life-what-would-it-be-4nop)
 <!-- BLOG-POST-LIST:END -->
 
