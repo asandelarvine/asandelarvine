@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Hacktoberfest Game Jam](https://dev.to/thatcomputerguy/announcing-hacktoberfest-game-jam-1e2l)
-- [Top 10 Java interview questions about Rate Limiters](https://dev.to/fromfullstack/top-10-java-interview-questions-about-rate-limiters-3ba7)
-- [Understanding Flutter Architecture Part 1 - Introduction](https://dev.to/bigdexter/understanding-flutter-architecture-part-1-introduction-2h09)
-- [How to write a YAML configuration file? | A Step-by-Step Guide for Beginners](https://dev.to/msfaizi/how-to-write-a-yaml-configuration-file-a-step-by-step-guide-for-beginners-jf0)
+- [Testando testes no Python - Parte 2: fixtures parametrizadas](https://dev.to/vbuxbaum/testando-testes-no-python-parte-2-fixtures-parametrizadas-270g)
+- [KeePass Memory Leakage Vulnerability Analysis - CVE-2023-32784](https://dev.to/tutorialboy/keepass-memory-leakage-vulnerability-analysis-cve-2023-32784-17nf)
+- [Automation Testing](https://dev.to/anandhsrinivasan/automation-testing-lap)
+- [The Power of CSS Grid: Creating Complex Layouts Made Easy](https://dev.to/uiuxsatyam/the-power-of-css-grid-creating-complex-layouts-made-easy-4n8i)
 <!-- BLOG-POST-LIST:END -->
 
