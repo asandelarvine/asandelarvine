@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rebuilding Isometric World](https://dev.to/sheunglaili/rebuilding-isometric-world-5dm1)
+- [Full description of the add-on at Elanat CMS](https://dev.to/elanatframework/full-description-of-the-add-on-at-elanat-cms-18a6)
 - [Hacktoberfest 2023 Update from Maintainer of the user-statistician GitHub Action](https://dev.to/cicirello/hacktoberfest-2023-update-from-maintainer-of-the-user-statistician-github-action-253g)
 - [Best practices for HarperDB projects using TypeScript](https://dev.to/_staticvoid/best-practices-for-harperdb-projects-using-typescript-44ak)
-- [Is Open Source communism?](https://dev.to/opensourcee/open-source-communism-577)
-- [Top 10 Pub-Sub interview questions](https://dev.to/fromfullstack/top-10-pub-sub-interview-questions-1ao4)
 <!-- BLOG-POST-LIST:END -->
 
