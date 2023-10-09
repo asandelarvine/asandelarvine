@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Contribute to Open Source: A Step-by-Step Guide](https://dev.to/nabinbhatt/how-to-contribute-to-open-source-a-step-by-step-guide-2d6k)
+- [Prime Numbers in C#: A Detailed Guide📚](https://dev.to/bytehide/prime-numbers-in-c-a-detailed-guide-442n)
+- [Hacktoberfest is ON CXXGraph](https://dev.to/cxxgraph/hacktoberfest-is-on-cxxgraph-43bd)
 - [Top 10 GIT Commands](https://dev.to/hasanelsherbiny/top-10-git-commands-58p0)
-- [❄️ An Intro to Server Components in React](https://dev.to/refine/an-intro-to-server-components-in-react-192k)
-- [Weekly Roundup &lpar;Oct 2&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-oct-2-hot-topics-in-workplace-sharepoint-and-powerplatform-3ok9)
-- [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-mfl)
 <!-- BLOG-POST-LIST:END -->
 
