@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monday Motivation: The Power of Perseverance for Developers](https://dev.to/mitchiemt11/monday-motivation-the-power-of-perseverance-for-developers-5ea0)
 - [How to Contribute to Open Source: A Step-by-Step Guide](https://dev.to/nabinbhatt/how-to-contribute-to-open-source-a-step-by-step-guide-2d6k)
 - [Prime Numbers in C#: A Detailed Guide📚](https://dev.to/bytehide/prime-numbers-in-c-a-detailed-guide-442n)
-- [Hacktoberfest is ON CXXGraph](https://dev.to/cxxgraph/hacktoberfest-is-on-cxxgraph-43bd)
-- [Top 10 GIT Commands](https://dev.to/hasanelsherbiny/top-10-git-commands-58p0)
+- [Increase community engagement with trunk-based management](https://dev.to/crowddotdev/increase-community-engagement-with-trunk-based-management-2108)
 <!-- BLOG-POST-LIST:END -->
 
