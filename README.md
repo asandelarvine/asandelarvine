@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 GIT Commands](https://dev.to/hasanelsherbiny/top-10-git-commands-58p0)
+- [❄️ An Intro to Server Components in React](https://dev.to/refine/an-intro-to-server-components-in-react-192k)
+- [Weekly Roundup &lpar;Oct 2&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-oct-2-hot-topics-in-workplace-sharepoint-and-powerplatform-3ok9)
 - [Weekly AI News and Discussion Thread](https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-mfl)
-- [Enhance Web Application Performance with JavaScript Debouncing](https://dev.to/ghnshym/enhance-web-application-performance-with-javascript-debouncing-4ldp)
-- [Turning Text into Talk on AWS: The Polly-Phonic Symphony of S3, Lambda and Amazon Polly](https://dev.to/aws-builders/turning-text-into-talk-on-aws-the-polly-phonic-symphony-of-s3-lambda-and-amazon-polly-3aid)
-- [Decoding the Art of Software Patterns: An Exhaustive Odyssey into Strategy, Building Blocks, and Observers](https://dev.to/lordneic/decoding-the-art-of-software-patterns-an-exhaustive-odyssey-into-strategy-building-blocks-and-observers-2a1c)
 <!-- BLOG-POST-LIST:END -->
 
