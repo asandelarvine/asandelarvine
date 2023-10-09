@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testando testes no Python - Parte 2: fixtures parametrizadas](https://dev.to/vbuxbaum/testando-testes-no-python-parte-2-fixtures-parametrizadas-270g)
-- [KeePass Memory Leakage Vulnerability Analysis - CVE-2023-32784](https://dev.to/tutorialboy/keepass-memory-leakage-vulnerability-analysis-cve-2023-32784-17nf)
-- [Automation Testing](https://dev.to/anandhsrinivasan/automation-testing-lap)
-- [The Power of CSS Grid: Creating Complex Layouts Made Easy](https://dev.to/uiuxsatyam/the-power-of-css-grid-creating-complex-layouts-made-easy-4n8i)
+- [Top 10 Pub-Sub interview questions](https://dev.to/fromfullstack/top-10-pub-sub-interview-questions-1ao4)
+- [Top 25 Kafka interview questions](https://dev.to/fromfullstack/top-25-kafka-interview-questions-271b)
+- [Building a ToDo app with SwiftUI and Cosmic](https://dev.to/_kejk/building-a-todo-app-with-swiftui-and-cosmic-3g1b)
+- [Top 10 Docker vs Virtualization interview questions](https://dev.to/fromfullstack/top-10-docker-vs-virtualization-interview-questions-56jk)
 <!-- BLOG-POST-LIST:END -->
 
