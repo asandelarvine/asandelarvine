@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rants of a Beginner Techie 4](https://dev.to/golden_builds/rants-of-a-beginner-techie-4-296f)
+- [What happens when you type google.com in your browser and press Enter?](https://dev.to/judevector/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-4a2n)
+- [The Lonely Journey of Open-Source Maintainers: A Call for Connection and Recognition](https://dev.to/opensauced/the-lonely-journey-of-open-source-maintainers-a-call-for-connection-and-recognition-2ghe)
 - [My first PR to Hacktoberfest](https://dev.to/rachit1313/my-first-pr-to-hacktoberfest-3ifi)
-- [How to build a card grid with background image and text using React and Tailwindcss](https://dev.to/ryaddev/how-to-build-a-card-grid-with-background-image-and-text-using-react-and-tailwindcss-4445)
-- [Como baixar e instalar o Node.JS no Ubuntu](https://dev.to/herissonnogueira/como-baixar-e-instalar-o-nodejs-no-ubuntu-5ccn)
-- [Socketioxide - Socketio in Rust!](https://dev.to/enoshy/socketio-in-rust-360a)
 <!-- BLOG-POST-LIST:END -->
 
