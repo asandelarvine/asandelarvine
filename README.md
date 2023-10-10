@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Neovim plugin in Lua 🌙](https://dev.to/m4xshen/building-a-neovim-plugin-in-lua-54j9)
+- [GCP to AWS migration: A comprehensive guide](https://dev.to/softwebsolution/gcp-to-aws-migration-a-comprehensive-guide-495k)
+- [Top 15 iOS App Performance Optimization Techniques To Know](https://dev.to/dhruvjoshi9/top-15-performance-optimization-techniques-boosting-ios-app-responsiveness-2h58)
 - [How to Add Geolocation-Based Property Search &amp; Map Integration in Laravel for an Airbnb Clone with External APIs?](https://dev.to/richardcron/how-to-add-geolocation-based-property-search-map-integration-in-laravel-for-an-airbnb-clone-with-external-apis-3gba)
-- [How to deploy Full Stack Amazon Clone with Next.js, Tailwind CSS, Zustand, and Nest.js on Aptible](https://dev.to/kishansheth/how-to-deploy-full-stack-amazon-clone-with-nextjs-tailwind-css-zustand-and-nestjs-on-aptible-4i2j)
-- [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Vue - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-vue-is-out-4k39)
-- [Preptember - How to setup your project for Hacktoberfest](https://dev.to/axem/preptember-how-to-setup-your-project-for-hacktoberfest-1bp3)
 <!-- BLOG-POST-LIST:END -->
 
