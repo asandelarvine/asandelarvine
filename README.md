@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Sticky On Scroll Effect with JavaScript](https://dev.to/cruip_com/how-to-create-a-sticky-on-scroll-effect-with-javascript-169a)
-- [An ode to Type Safety in Software Development](https://dev.to/encore/an-ode-to-type-safety-in-software-development-4g9i)
-- [Creating a WhatsApp Bot with Python: a step-by-step guide for developer](https://dev.to/whapicloud/creating-a-whatsapp-bot-with-python-a-step-by-step-guide-for-developer-1m9c)
-- [Creating a hackathon winning AI based app in a weekend using Supabase, OpenAI, &amp; Next.js](https://dev.to/asheeshh/creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7)
+- [Preptember - How to setup your project for Hacktoberfest](https://dev.to/axem/preptember-how-to-setup-your-project-for-hacktoberfest-1bp3)
+- [Data Analysis of the Titanic with Python!](https://dev.to/pavanbelagatti/data-analysis-of-the-titanic-with-python-koj)
+- [Getting to Know Bing Chat Enterprise](https://dev.to/jaloplo/getting-to-know-bing-chat-enterprise-4gc2)
+- [🐳Run ClickHouse with Docker and Connect Using MySQL Client☄️](https://dev.to/bytebase/run-clickhouse-with-docker-and-connect-using-mysql-client-47ge)
 <!-- BLOG-POST-LIST:END -->
 
