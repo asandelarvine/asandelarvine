@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lets build a Github document search tool using React + Supabase + LLAMA2](https://dev.to/neeldev96/lets-build-a-github-document-search-tool-using-react-supabase-llama2-4635)
-- [What is the CASE Statement in sql?](https://dev.to/rashtech/what-is-the-case-statement-in-sql-2ik7)
-- [Drizzle or Prisma? I Built an App Twice to Find Out Which Is Better](https://dev.to/zenstack/drizzle-or-prisma-i-built-an-app-twice-to-find-out-which-is-better-1f82)
-- [EDA Data Visualization Techniques](https://dev.to/jordan_gamba/eda-data-visualization-techniques-2jde)
+- [My first PR to Hacktoberfest](https://dev.to/rachit1313/my-first-pr-to-hacktoberfest-3ifi)
+- [How to build a card grid with background image and text using React and Tailwindcss](https://dev.to/ryaddev/how-to-build-a-card-grid-with-background-image-and-text-using-react-and-tailwindcss-4445)
+- [Como baixar e instalar o Node.JS no Ubuntu](https://dev.to/herissonnogueira/como-baixar-e-instalar-o-nodejs-no-ubuntu-5ccn)
+- [Socketioxide - Socketio in Rust!](https://dev.to/enoshy/socketio-in-rust-360a)
 <!-- BLOG-POST-LIST:END -->
 
