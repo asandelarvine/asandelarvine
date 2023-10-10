@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ownership - It&#39;s Importance in Software Engineering](https://dev.to/gauravsingh9356/ownership-its-importance-in-software-engineering-34bo)
 - [💥 Docker Volumes](https://dev.to/refine/docker-volumes-3lk8)
 - [Being a New Hire is a Super Power...Don&#39;t Waste It](https://dev.to/wraith/being-a-new-hire-is-a-super-powerdont-waste-it-15ga)
 - [A beginner&#39;s guide to building an accessible website](https://dev.to/ilizette/a-beginners-guide-to-building-an-accessible-website-32fj)
-- [Feature flags implementation in Nest.js 😻](https://dev.to/ed_lcrt/feature-flags-implementation-in-nestjs-3o6o)
 <!-- BLOG-POST-LIST:END -->
 
