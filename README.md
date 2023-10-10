@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando Exceptions para impressionar no Teste Técnico](https://dev.to/danielhe4rt/criando-exceptions-para-impressionar-no-teste-tecnico-2nie)
-- [Which Beliefs or Practices Have Your Reevaluated Over Time?](https://dev.to/devteam/which-beliefs-or-practices-have-your-reevaluated-over-time-59c)
-- [Using refresh-only mode to sync Terraform state File](https://dev.to/aws-builders/using-refresh-only-mode-to-sync-terraform-state-file-2o1j)
-- [Building a Vector Search Microservice on NodeJS [Developer&#39;s Guide 🔥]](https://dev.to/belyaev/building-a-vector-search-microservice-on-nodejs-developers-guide--39j3)
+- [Mistral-7b on GCP](https://dev.to/alkanet88/mistral-ai-on-gcp-45jp)
+- [Tantas opções... O que eu faço?](https://dev.to/ebagabe/tantas-opcoes-o-que-eu-faco-3bk3)
+- [Introducing react-store-js: A State Management Library Tailored for React inspire in Svelte store](https://dev.to/riviergrullon/introducing-react-store-js-a-state-management-library-tailored-for-react-inspire-in-svelte-store-ibo)
+- [Criando Exceptions para impressionar no Teste Técnico](https://dev.to/he4rt/criando-exceptions-para-impressionar-no-teste-tecnico-2nie)
 <!-- BLOG-POST-LIST:END -->
 
