@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Your own private ChatGPT in hours? Azure Chat makes it possible!](https://dev.to/asimmon/your-own-private-chatgpt-in-hours-azure-chat-makes-it-possible-5060)
+- [Understanding CSS Flexbox: A Comprehensive Guide](https://dev.to/jaimaldullat/understanding-css-flexbox-a-comprehensive-guide-4m28)
 - [Building a Neovim plugin in Lua 🌙](https://dev.to/m4xshen/building-a-neovim-plugin-in-lua-54j9)
 - [GCP to AWS migration: A comprehensive guide](https://dev.to/softwebsolution/gcp-to-aws-migration-a-comprehensive-guide-495k)
-- [Top 15 iOS App Performance Optimization Techniques To Know](https://dev.to/dhruvjoshi9/top-15-performance-optimization-techniques-boosting-ios-app-responsiveness-2h58)
-- [How to Add Geolocation-Based Property Search &amp; Map Integration in Laravel for an Airbnb Clone with External APIs?](https://dev.to/richardcron/how-to-add-geolocation-based-property-search-map-integration-in-laravel-for-an-airbnb-clone-with-external-apis-3gba)
 <!-- BLOG-POST-LIST:END -->
 
