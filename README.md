@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ownership - It&#39;s Importance in Software Engineering](https://dev.to/gauravsingh9356/ownership-its-importance-in-software-engineering-34bo)
-- [💥 Docker Volumes](https://dev.to/refine/docker-volumes-3lk8)
-- [Being a New Hire is a Super Power...Don&#39;t Waste It](https://dev.to/wraith/being-a-new-hire-is-a-super-powerdont-waste-it-15ga)
-- [A beginner&#39;s guide to building an accessible website](https://dev.to/ilizette/a-beginners-guide-to-building-an-accessible-website-32fj)
+- [21 AI Productivity Tools to Improve Your Workflow 🔥🚀](https://dev.to/madza/21-ai-productivity-tools-to-improve-your-workflow-329e)
+- [Tackle building a Rich Text Editor with Remirror and React](https://dev.to/ironcladdev/tackle-building-a-rich-text-editor-with-remirror-and-react-3205)
+- [How to build a content recommendation feature using Flutter, Open AI, and Supabase](https://dev.to/supabase/how-to-build-a-content-recommendation-feature-using-flutter-open-ai-and-supabase-3mg4)
+- [Join the TinyMCE Challenge at the online API World + AI DevWorld Hackathon 2023](https://dev.to/tinymce/join-the-tinymce-challenge-at-api-world-ai-devworld-hackathon-2023-i2k)
 <!-- BLOG-POST-LIST:END -->
 
