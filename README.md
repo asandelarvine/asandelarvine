@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lets build a Github document search tool using React + Supabase + LLAMA2](https://dev.to/neeldev96/lets-build-a-github-document-search-tool-using-react-supabase-llama2-4635)
 - [What is the CASE Statement in sql?](https://dev.to/rashtech/what-is-the-case-statement-in-sql-2ik7)
 - [Drizzle or Prisma? I Built an App Twice to Find Out Which Is Better](https://dev.to/zenstack/drizzle-or-prisma-i-built-an-app-twice-to-find-out-which-is-better-1f82)
 - [EDA Data Visualization Techniques](https://dev.to/jordan_gamba/eda-data-visualization-techniques-2jde)
-- [21 AI Productivity Tools to Improve Your Workflow 🔥🚀](https://dev.to/madza/21-ai-productivity-tools-to-improve-your-workflow-329e)
 <!-- BLOG-POST-LIST:END -->
 
