@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly 09 Oct 2023](https://dev.to/tspannhw/flank-stack-weekly-09-oct-2023-1bg5)
-- [What is Embedding? Generating Embedding using Supabase](https://dev.to/surajondev/what-is-embedding-generating-embedding-using-supabase-4pnl)
-- [VueJS part 7: Lifecycle methods](https://dev.to/hi_iam_chris/vuejs-part-7-lifecycle-methods-35fp)
-- [Developer’s Guide to Building Kubernetes Cloud Apps ☁️🚀](https://dev.to/dpills/developers-guide-to-building-kubernetes-cloud-apps-7f1)
+- [💥 Docker Volumes](https://dev.to/refine/docker-volumes-3lk8)
+- [Being a New Hire is a Super Power...Don&#39;t Waste It](https://dev.to/wraith/being-a-new-hire-is-a-super-powerdont-waste-it-15ga)
+- [A beginner&#39;s guide to building an accessible website](https://dev.to/ilizette/a-beginners-guide-to-building-an-accessible-website-32fj)
+- [Feature flags implementation in Nest.js 😻](https://dev.to/ed_lcrt/feature-flags-implementation-in-nestjs-3o6o)
 <!-- BLOG-POST-LIST:END -->
 
