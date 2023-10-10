@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-gcn)
-- [Webpack installation](https://dev.to/abertie/webpack-installation-1ek5)
-- [Track your variables: Watchers 👀](https://dev.to/dvalin99/track-your-variables-watchers-3j6c)
-- [🚀 API Maker - Events](https://dev.to/apimaker/api-maker-events-4nb8)
+- [How to Create a Sticky On Scroll Effect with JavaScript](https://dev.to/cruip_com/how-to-create-a-sticky-on-scroll-effect-with-javascript-169a)
+- [An ode to Type Safety in Software Development](https://dev.to/encore/an-ode-to-type-safety-in-software-development-4g9i)
+- [Creating a WhatsApp Bot with Python: a step-by-step guide for developer](https://dev.to/whapicloud/creating-a-whatsapp-bot-with-python-a-step-by-step-guide-for-developer-1m9c)
+- [Creating a hackathon winning AI based app in a weekend using Supabase, OpenAI, &amp; Next.js](https://dev.to/asheeshh/creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7)
 <!-- BLOG-POST-LIST:END -->
 
