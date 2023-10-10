@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [EDA Data Visualization Techniques](https://dev.to/jordan_gamba/eda-data-visualization-techniques-2jde)
 - [21 AI Productivity Tools to Improve Your Workflow 🔥🚀](https://dev.to/madza/21-ai-productivity-tools-to-improve-your-workflow-329e)
 - [Tackle building a Rich Text Editor with Remirror and React](https://dev.to/ironcladdev/tackle-building-a-rich-text-editor-with-remirror-and-react-3205)
 - [How to build a content recommendation feature using Flutter, Open AI, and Supabase](https://dev.to/supabase/how-to-build-a-content-recommendation-feature-using-flutter-open-ai-and-supabase-3mg4)
-- [Join the TinyMCE Challenge at the online API World + AI DevWorld Hackathon 2023](https://dev.to/tinymce/join-the-tinymce-challenge-at-api-world-ai-devworld-hackathon-2023-i2k)
 <!-- BLOG-POST-LIST:END -->
 
