@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging JavaScript for Common Search Operations](https://dev.to/frantchessico/leveraging-javascript-for-common-search-operations-4gc6)
+- [How do you define the main sections of a web page using HTML?](https://dev.to/matheushchaves/how-do-you-define-the-main-sections-of-a-web-page-using-html-253j)
+- [Error handling in Express Server - NodeJS](https://dev.to/myepes82/error-handling-in-express-server-nodejs-44c)
 - [Rants of a Beginner Techie 4](https://dev.to/golden_builds/rants-of-a-beginner-techie-4-296f)
-- [What happens when you type google.com in your browser and press Enter?](https://dev.to/judevector/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-4a2n)
-- [The Lonely Journey of Open-Source Maintainers: A Call for Connection and Recognition](https://dev.to/opensauced/the-lonely-journey-of-open-source-maintainers-a-call-for-connection-and-recognition-2ghe)
-- [My first PR to Hacktoberfest](https://dev.to/rachit1313/my-first-pr-to-hacktoberfest-3ifi)
 <!-- BLOG-POST-LIST:END -->
 
