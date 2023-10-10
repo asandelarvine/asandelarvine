@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Geolocation-Based Property Search &amp; Map Integration in Laravel for an Airbnb Clone with External APIs?](https://dev.to/richardcron/how-to-add-geolocation-based-property-search-map-integration-in-laravel-for-an-airbnb-clone-with-external-apis-3gba)
+- [How to deploy Full Stack Amazon Clone with Next.js, Tailwind CSS, Zustand, and Nest.js on Aptible](https://dev.to/kishansheth/how-to-deploy-full-stack-amazon-clone-with-nextjs-tailwind-css-zustand-and-nestjs-on-aptible-4i2j)
+- [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Vue - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-vue-is-out-4k39)
 - [Preptember - How to setup your project for Hacktoberfest](https://dev.to/axem/preptember-how-to-setup-your-project-for-hacktoberfest-1bp3)
-- [Data Analysis of the Titanic with Python!](https://dev.to/pavanbelagatti/data-analysis-of-the-titanic-with-python-koj)
-- [Getting to Know Bing Chat Enterprise](https://dev.to/jaloplo/getting-to-know-bing-chat-enterprise-4gc2)
-- [🐳Run ClickHouse with Docker and Connect Using MySQL Client☄️](https://dev.to/bytebase/run-clickhouse-with-docker-and-connect-using-mysql-client-47ge)
 <!-- BLOG-POST-LIST:END -->
 
