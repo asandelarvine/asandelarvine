@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding Isometric World](https://dev.to/sheunglaili/rebuilding-isometric-world-5dm1)
-- [Full description of the add-on at Elanat CMS](https://dev.to/elanatframework/full-description-of-the-add-on-at-elanat-cms-18a6)
-- [Hacktoberfest 2023 Update from Maintainer of the user-statistician GitHub Action](https://dev.to/cicirello/hacktoberfest-2023-update-from-maintainer-of-the-user-statistician-github-action-253g)
-- [Best practices for HarperDB projects using TypeScript](https://dev.to/_staticvoid/best-practices-for-harperdb-projects-using-typescript-44ak)
+- [Criando Exceptions para impressionar no Teste Técnico](https://dev.to/danielhe4rt/criando-exceptions-para-impressionar-no-teste-tecnico-2nie)
+- [Which Beliefs or Practices Have Your Reevaluated Over Time?](https://dev.to/devteam/which-beliefs-or-practices-have-your-reevaluated-over-time-59c)
+- [Using refresh-only mode to sync Terraform state File](https://dev.to/aws-builders/using-refresh-only-mode-to-sync-terraform-state-file-2o1j)
+- [Building a Vector Search Microservice on NodeJS [Developer&#39;s Guide 🔥]](https://dev.to/belyaev/building-a-vector-search-microservice-on-nodejs-developers-guide--39j3)
 <!-- BLOG-POST-LIST:END -->
 
