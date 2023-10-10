@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-gcn)
+- [Webpack installation](https://dev.to/abertie/webpack-installation-1ek5)
+- [Track your variables: Watchers 👀](https://dev.to/dvalin99/track-your-variables-watchers-3j6c)
 - [🚀 API Maker - Events](https://dev.to/apimaker/api-maker-events-4nb8)
-- [JavaScript Magic Tricks: From Lexical Analysis to Confusing Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-from-lexical-analysis-to-confusing-encryption-5ggf)
-- [Bouncing Back: How to get out of a slump as a developer](https://dev.to/sushantchhetryy/bouncing-back-how-to-get-out-of-a-slump-as-a-developer-17hj)
-- [Transforming Figma Designs into a Flutter App: A Journey](https://dev.to/raman04byte/transforming-figma-designs-into-a-flutter-app-a-journey-3n1d)
 <!-- BLOG-POST-LIST:END -->
 
