@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bouncing Back: How to get out of a slump as a developer](https://dev.to/sushantchhetryy/bouncing-back-how-to-get-out-of-a-slump-as-a-developer-17hj)
+- [Transforming Figma Designs into a Flutter App: A Journey](https://dev.to/raman04byte/transforming-figma-designs-into-a-flutter-app-a-journey-3n1d)
+- [Open github repo in Visual studio code without cloning or downloading on local](https://dev.to/indrakantm23/open-github-repo-in-visual-studio-code-without-cloning-or-downloading-on-local-47gp)
 - [Mistral-7b on GCP](https://dev.to/alkanet88/mistral-ai-on-gcp-45jp)
-- [Tantas opções... O que eu faço?](https://dev.to/ebagabe/tantas-opcoes-o-que-eu-faco-3bk3)
-- [Introducing react-store-js: A State Management Library Tailored for React inspire in Svelte store](https://dev.to/riviergrullon/introducing-react-store-js-a-state-management-library-tailored-for-react-inspire-in-svelte-store-ibo)
-- [Criando Exceptions para impressionar no Teste Técnico](https://dev.to/he4rt/criando-exceptions-para-impressionar-no-teste-tecnico-2nie)
 <!-- BLOG-POST-LIST:END -->
 
