@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into MySQL Enums: The Good, The Bad, and The Ugly Operations](https://dev.to/lordneic/a-deep-dive-into-mysql-enums-the-good-the-bad-and-the-ugly-operations-3m25)
 - [Dapr: Transforming Microservices into Magic with Real-World Wizardry](https://dev.to/yogini16/dapr-transforming-microservices-into-magic-with-real-world-wizardry-53od)
 - [🐍 Mastering Python: The Art of *args and **kwargs 🚀💻](https://dev.to/mrafay/mastering-python-the-art-of-args-and-kwargs-58l6)
 - [Global Exception Handler in Spring Boot](https://dev.to/tienbku/global-exception-handler-in-spring-boot-3mbp)
-- [A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
 <!-- BLOG-POST-LIST:END -->
 
