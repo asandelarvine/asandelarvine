@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Ifs in Tests](https://dev.to/tsv1/avoid-ifs-in-tests-1h9m)
+- [This Week In React #162: Lit-React, Remix, Next.js, Fresh, next-safe-actions, Starlight, RN 0.73 RC, RCTText...](https://dev.to/sebastienlorber/this-week-in-react-162-lit-react-remix-nextjs-fresh-next-safe-actions-starlight-rn-073-rc-rcttext-4gfn)
 - [🚀 Level up your Hacktoberfest game with these new treats 🍫](https://dev.to/quine/level-up-your-hacktoberfest-game-with-these-new-treats-402d)
 - [Incident Response For Common Attack Types](https://dev.to/attaullahshafiq10/incident-response-for-common-attack-types-4pdb)
-- [Three Ways of Defining Colors in CSS](https://dev.to/ericnanhu/three-ways-of-defining-colors-in-css-3a0g)
-- [Why API performance equals to 50% user experience?](https://dev.to/intesar/why-api-performance-equals-to-50-user-experience-hp8)
 <!-- BLOG-POST-LIST:END -->
 
