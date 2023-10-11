@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory Data Analysis using Data Visualization Techniques.](https://dev.to/theai433/exploratory-data-analysis-using-data-visualization-techniques-4m86)
+- [The 7 best plugins to use in your Tailwind project](https://dev.to/logrocket/the-7-best-plugins-to-use-in-your-tailwind-project-16ml)
 - [CXOs&#39; Guide to SDLC: Processes, Models, and Best Practices](https://dev.to/hatica/cxos-guide-to-sdlc-processes-models-and-best-practices-277f)
 - [Bun vs. Node.js: Which JavaScript Runtime Is Better?](https://dev.to/fively/bun-vs-nodejs-which-javascript-runtime-is-better-31dp)
-- [Hacktoberfest has started! Are you doing these things?](https://dev.to/github/hacktoberfest-has-started-are-you-doing-these-things-748)
-- [Challenges of scaling WebSockets](https://dev.to/ably/challenges-of-scaling-websockets-3493)
 <!-- BLOG-POST-LIST:END -->
 
