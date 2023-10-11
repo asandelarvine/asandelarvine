@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
+- [.NET Core Interview Question &amp; Answers](https://dev.to/bytehide/net-core-interview-question-answers-4bc1)
+- [Zsh and Bash](https://dev.to/refine/zsh-and-bash-55i0)
 - [Deploy a Lambda with a static IP for FREE 💸](https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l)
-- [CrabNebula Raised a 7.5m Seed Round with OSS Capital and over 20 Angel Investors](https://dev.to/crabnebula/crabnebula-raised-a-75m-seed-round-with-oss-capital-and-over-20-angel-investors-45lo)
-- [Props and Context API - Understanding the Purpose - when use props and when use context api : For Beginners](https://dev.to/antoniomarques/props-and-context-api-understanding-the-purpose-when-use-props-and-when-use-context-api-for-beginners-2ahe)
-- [Top 6 ORMs for Modern Node.js App Development](https://dev.to/amplication/top-6-orms-for-modern-nodejs-app-development-2fop)
 <!-- BLOG-POST-LIST:END -->
 
