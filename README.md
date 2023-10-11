@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Your full guide to contributing to SWIRL 🌌](https://dev.to/swirl/your-full-guide-to-contributing-to-swirl-256f)
 - [From Pixels to Art: Mastering Edges in CV 🌟](https://dev.to/ssk14/from-pixels-to-art-mastering-edges-in-cv-2835)
 - [Secure Upload URLs Buckets with Nitric in Go](https://dev.to/rsiv/secure-upload-urls-buckets-with-nitric-in-go-k16)
 - [What Is Astro? An Introduction to the Popular Static Site Generator](https://dev.to/kinsta/what-is-astro-an-introduction-to-the-popular-static-site-generator-1ilh)
-- [🤯 Get visibility on X &lpar;Twitter&rpar;: Schedule your posts with NextJS 🚀🚀](https://dev.to/triggerdotdev/get-visibility-on-x-twitter-schedule-your-posts-with-nextjs-225g)
 <!-- BLOG-POST-LIST:END -->
 
