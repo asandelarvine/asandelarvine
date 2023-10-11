@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory Data Analysis using Data Visualization Techniques.](https://dev.to/theai433/exploratory-data-analysis-using-data-visualization-techniques-4m86)
-- [The 7 best plugins to use in your Tailwind project](https://dev.to/logrocket/the-7-best-plugins-to-use-in-your-tailwind-project-16ml)
-- [CXOs&#39; Guide to SDLC: Processes, Models, and Best Practices](https://dev.to/hatica/cxos-guide-to-sdlc-processes-models-and-best-practices-277f)
-- [Bun vs. Node.js: Which JavaScript Runtime Is Better?](https://dev.to/fively/bun-vs-nodejs-which-javascript-runtime-is-better-31dp)
+- [Why API performance equals to 50% user experience?](https://dev.to/intesar/why-api-performance-equals-to-50-user-experience-hp8)
+- [O déficit no mercado de TI nunca acaba, será que ele existe?](https://dev.to/lixeletto/o-deficit-no-mercado-de-ti-nunca-acaba-sera-que-ele-existe-kpd)
+- [The Technical Impact of the 11 Missing Days in 1972 and Its Relevance in the Linux Ecosystem](https://dev.to/piyushbagani15/the-technical-impact-of-the-11-missing-days-in-1972-and-its-relevance-in-the-linux-ecosystem-187)
+- [Demystifying Java Threads for Beginners](https://dev.to/akashdev23/demystifying-java-threads-for-beginners-4m96)
 <!-- BLOG-POST-LIST:END -->
 
