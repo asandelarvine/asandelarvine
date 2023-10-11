@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Git Branching Strategy for Your Organization](https://dev.to/adesoji1/choosing-the-right-git-branching-strategy-for-your-organization-3o9p)
-- [Interesting Features of DevTools for QA](https://dev.to/byteminds_agency/interesting-features-of-devtools-for-qa-27pk)
-- [🚀 API Maker - Logging](https://dev.to/apimaker/api-maker-logging-1apc)
-- [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
+- [From Pixels to Art: Mastering Edges in CV 🌟](https://dev.to/ssk14/from-pixels-to-art-mastering-edges-in-cv-2835)
+- [Secure Upload URLs Buckets with Nitric in Go](https://dev.to/rsiv/secure-upload-urls-buckets-with-nitric-in-go-k16)
+- [What Is Astro? An Introduction to the Popular Static Site Generator](https://dev.to/kinsta/what-is-astro-an-introduction-to-the-popular-static-site-generator-1ilh)
+- [🤯 Get visibility on X &lpar;Twitter&rpar;: Schedule your posts with NextJS 🚀🚀](https://dev.to/triggerdotdev/get-visibility-on-x-twitter-schedule-your-posts-with-nextjs-225g)
 <!-- BLOG-POST-LIST:END -->
 
