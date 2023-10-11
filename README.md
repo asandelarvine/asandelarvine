@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Interesting Features of DevTools for QA](https://dev.to/byteminds_agency/interesting-features-of-devtools-for-qa-27pk)
+- [🚀 API Maker - Logging](https://dev.to/apimaker/api-maker-logging-1apc)
 - [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
 - [.NET Core Interview Question &amp; Answers](https://dev.to/bytehide/net-core-interview-question-answers-4bc1)
-- [Zsh and Bash](https://dev.to/refine/zsh-and-bash-55i0)
-- [Deploy a Lambda with a static IP for FREE 💸](https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l)
 <!-- BLOG-POST-LIST:END -->
 
