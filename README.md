@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Global Exception Handler in Spring Boot](https://dev.to/tienbku/global-exception-handler-in-spring-boot-3mbp)
+- [A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
 - [Easy Context in React Server Components &lpar;RSC&rpar;](https://dev.to/jdgamble555/easy-context-in-react-server-components-rsc-1mdf)
 - [Top Reasons for Updating to the New OBS 30.0 Release](https://dev.to/dolbyio/top-reasons-for-updating-to-the-new-obs-300-release-g6m)
-- [Network Programming: The computer network.](https://dev.to/jothamntekim1/network-programming-the-computer-network-312m)
-- [Leveraging JavaScript for Common Search Operations](https://dev.to/frantchessico/leveraging-javascript-for-common-search-operations-4gc6)
 <!-- BLOG-POST-LIST:END -->
 
