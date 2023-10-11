@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Props and Context API - Understanding the Purpose - when use props and when use context api : For Beginners](https://dev.to/antoniomarques/props-and-context-api-understanding-the-purpose-when-use-props-and-when-use-context-api-for-beginners-2ahe)
+- [Top 6 ORMs for Modern Node.js App Development](https://dev.to/amplication/top-6-orms-for-modern-nodejs-app-development-2fop)
 - [ReductStore v1.7.0 has been released with provisioning and batch writing](https://dev.to/reductstore/reductstore-v170-has-been-released-with-provisioning-and-batch-writing-2n0h)
 - [5 Tips for Increasing Your Digital Marketing ROI &lpar;Return On Investment&rpar;](https://dev.to/poonam-poonjan/5-tips-for-increasing-your-digital-marketing-roi-return-on-investment-33ob)
-- [Welcome Thread - v246](https://dev.to/devteam/welcome-thread-v246-2e94)
-- [JavaScript WeakRef Explained: Harnessing Memory Management Magic](https://dev.to/this-is-learning/javascript-weakref-explained-harnessing-memory-management-magic-16f6)
 <!-- BLOG-POST-LIST:END -->
 
