@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the Right Git Branching Strategy for Your Organization](https://dev.to/adesoji1/choosing-the-right-git-branching-strategy-for-your-organization-3o9p)
 - [Interesting Features of DevTools for QA](https://dev.to/byteminds_agency/interesting-features-of-devtools-for-qa-27pk)
 - [🚀 API Maker - Logging](https://dev.to/apimaker/api-maker-logging-1apc)
 - [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
-- [.NET Core Interview Question &amp; Answers](https://dev.to/bytehide/net-core-interview-question-answers-4bc1)
 <!-- BLOG-POST-LIST:END -->
 
