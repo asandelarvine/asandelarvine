@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up Commitzen with Husky](https://dev.to/ricardo_borges/how-to-set-up-commitzen-with-husky-4a57)
 - [Deep Dive into API Testing - Boost your experience with Postman - Part I](https://dev.to/m4rri4nne/deep-dive-into-api-testing-boost-your-experience-with-postman-part-i-3jgk)
 - [Cybersecurity Resources for beginners](https://dev.to/swapanroy/cybersecurity-resources-for-beginners-14p0)
 - [Avoid Ifs in Tests](https://dev.to/tsv1/avoid-ifs-in-tests-1h9m)
-- [This Week In React #162: Lit-React, Remix, Next.js, Fresh, next-safe-actions, Starlight, RN 0.73 RC, RCTText...](https://dev.to/sebastienlorber/this-week-in-react-162-lit-react-remix-nextjs-fresh-next-safe-actions-starlight-rn-073-rc-rcttext-4gfn)
 <!-- BLOG-POST-LIST:END -->
 
