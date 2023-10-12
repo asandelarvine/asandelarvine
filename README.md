@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Pledge in Hacktoberfest 2023](https://dev.to/sabbirshawon/my-pledge-in-hacktoberfest-2023-5h7f)
-- [Boost Your Productivity in VS Code with the Best Themes: A Developer&#39;s Guide 🚀](https://dev.to/trdxlucifer/boost-your-productivity-in-vs-code-with-the-best-themes-a-developers-guide-aka)
-- [Comment convertir entre Excel et CSV avec Python](https://dev.to/liamanderson1/comment-convertir-entre-excel-et-csv-avec-python-43bo)
-- [How to update cURL](https://dev.to/snyk/how-to-update-curl-3780)
+- [Whatsapp Bot in NodeJS: a step-by-step guide](https://dev.to/whapicloud/whatsapp-bot-in-nodejs-a-step-by-step-guide-k7o)
+- [Less is better - the pitfalls of Tech Bloat](https://dev.to/richardevcom/less-is-better-the-pitfalls-of-tech-bloat-5596)
+- [Comparing 11 Top Email Service Providers](https://dev.to/shreyvijayvargiya/comparing-11-top-email-service-providers-3kbh)
+- [Inefficient Developer Workflows: The #4 Productivity Killer](https://dev.to/hatica/inefficient-developer-workflows-the-4-productivity-killer-4hdm)
 <!-- BLOG-POST-LIST:END -->
 
