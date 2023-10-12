@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The CSS :not Selector](https://dev.to/speaklouder/the-css-not-selector-k29)
+- [Introducing Visual Copilot: A Better Figma-to-Code Workflow](https://dev.to/builderio/introducing-visual-copilot-a-better-figma-to-code-workflow-3i96)
 - [Flutter&#39;s Multilingual Support: Crafting World-Ready Applications](https://dev.to/yatendra2001/flutters-multilingual-support-crafting-world-ready-applications-3io4)
 - [Why kNN doesn&#39;t scale...](https://dev.to/ingem99/why-knn-doesnt-scale-3461)
-- [Decorating The Fetch API](https://dev.to/sayjava/decorating-the-fetch-api-5bh5)
-- [007-Inspired Challenge: Blind coding competition on James Bond Day](https://dev.to/n_demia/007-inspired-challenge-blind-coding-competition-on-james-bond-day-l5b)
 <!-- BLOG-POST-LIST:END -->
 
