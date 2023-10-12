@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Awareness of Energy Consumption](https://dev.to/nogrend/awareness-of-energy-consumption-k39)
 - [The Role of a DevOps Engineer: Responsibilities and Skills](https://dev.to/neeljyo/the-role-of-a-devops-engineer-responsibilities-and-skills-1l5c)
 - [Tips for programming and debugging code](https://dev.to/samuellubliner/tips-for-programming-and-debugging-code-4707)
 - [Building a Secure Next.js Application with Redux Toolkit Query and cookie tokens](https://dev.to/esponges/building-a-secure-nextjs-application-with-redux-toolkit-query-and-cookie-tokens-2en2)
-- [The CSS :not Selector](https://dev.to/speaklouder/the-css-not-selector-k29)
 <!-- BLOG-POST-LIST:END -->
 
