@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 API Maker - Automatic Caching](https://dev.to/apimaker/api-maker-automatic-caching-3k1n)
+- [E-Commerce Chatbots 101: How ChatGPT Training Enhances Customer Interactions](https://dev.to/agarralexx/e-commerce-chatbots-101-how-chatgpt-training-enhances-customer-interactions-5gap)
+- [Code Refactoring: The Art of Crafting Readable, Concise, and Well-Designed Code](https://dev.to/lordneic/code-refactoring-the-art-of-crafting-readable-concise-and-well-designed-code-3g79)
 - [Contributing to HUGE Open Source Projects](https://dev.to/this-is-learning/contributing-to-huge-open-source-projects-31n2)
-- [Power of .git ignore](https://dev.to/hasanelsherbiny/power-of-git-ignore-40cp)
-- [How to write Jenkinsfile? | A Comprehensive Guide for Beginners](https://dev.to/msfaizi/how-to-write-jenkinsfile-a-comprehensive-guide-for-beginners-58d2)
-- [Configure a privately hosted Git repository for EMR Studio](https://dev.to/aws-builders/configure-a-privately-hosted-git-repository-for-emr-studio-2ih)
 <!-- BLOG-POST-LIST:END -->
 
