@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Which is Better: In-Person or Remote Coding Interviews?](https://dev.to/codenewbieteam/which-is-better-in-person-or-remote-coding-interviews-4npp)
+- [Single Responsibility Principle in a Laravel Project](https://dev.to/iamgabrieloliveira/single-responsibility-principle-in-a-laravel-project-20ab)
 - [Certificações do GitHub: Descubra essa novidade e já prepare seus estudos!](https://dev.to/larideoliiveira/certificacoes-do-github-descubra-essa-novidade-e-ja-prepare-seus-estudos-1bae)
-- [How to set up Commitzen with Husky](https://dev.to/ricardo_borges/how-to-set-up-commitzen-with-husky-4a57)
-- [Uma Jornada na Engenharia de Software: Minha História e Experiência](https://dev.to/rntvicente/uma-jornada-na-engenharia-de-software-minha-historia-e-experiencia-jbn)
-- [Deep Dive into API Testing - Boost your experience with Postman - Part I](https://dev.to/m4rri4nne/deep-dive-into-api-testing-boost-your-experience-with-postman-part-i-3jgk)
+- [GitHub Profile Native Web Components](https://dev.to/scottnath/github-profile-native-web-components-4ed7)
 <!-- BLOG-POST-LIST:END -->
 
