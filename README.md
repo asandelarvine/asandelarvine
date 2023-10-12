@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Whatsapp Bot in NodeJS: a step-by-step guide](https://dev.to/whapicloud/whatsapp-bot-in-nodejs-a-step-by-step-guide-k7o)
-- [Less is better - the pitfalls of Tech Bloat](https://dev.to/richardevcom/less-is-better-the-pitfalls-of-tech-bloat-5596)
-- [Comparing 11 Top Email Service Providers](https://dev.to/shreyvijayvargiya/comparing-11-top-email-service-providers-3kbh)
-- [Inefficient Developer Workflows: The #4 Productivity Killer](https://dev.to/hatica/inefficient-developer-workflows-the-4-productivity-killer-4hdm)
+- [Contributing to HUGE Open Source Projects](https://dev.to/this-is-learning/contributing-to-huge-open-source-projects-31n2)
+- [Power of .git ignore](https://dev.to/hasanelsherbiny/power-of-git-ignore-40cp)
+- [How to write Jenkinsfile? | A Comprehensive Guide for Beginners](https://dev.to/msfaizi/how-to-write-jenkinsfile-a-comprehensive-guide-for-beginners-58d2)
+- [Configure a privately hosted Git repository for EMR Studio](https://dev.to/aws-builders/configure-a-privately-hosted-git-repository-for-emr-studio-2ih)
 <!-- BLOG-POST-LIST:END -->
 
