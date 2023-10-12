@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Monetize Your YouTube Channel with less Than 1,000 Subscribers](https://dev.to/reign/how-to-monetize-your-youtube-channel-with-less-than-1000-subscribers-30o0)
 - [Unlocking Efficiency: The Enterprise Low-Code Revolution](https://dev.to/laradissouza99/unlocking-efficiency-the-enterprise-low-code-revolution-5enn)
 - [🎃 The Hacktoberfest challenge giving physical merch prizes 🧢](https://dev.to/quine/the-hacktoberfest-challenge-giving-physical-merch-prizes-32oa)
-- [Avoid the Promise.all pitfall!](https://dev.to/miketalbot/avoid-the-promiseall-pitfall-38ik)
-- [From Concept to Reality: My process of building Cardboard](https://dev.to/nombrekeff/from-concept-to-reality-my-process-of-building-cardboard-40fb)
+- [Building a Simple Node.js App for Downloading PDFs using Express.js](https://dev.to/fredabod/building-a-simple-nodejs-app-for-downloading-pdfs-using-expressjs-42ki)
 <!-- BLOG-POST-LIST:END -->
 
