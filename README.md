@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [codedamn: The Perfect Platform to Learn Programming 🖥️💡](https://dev.to/arjuncodess/codedamn-the-perfect-platform-to-learn-programming-417e)
+- [Construction Application Development – A Step-by-step Guide](https://dev.to/onix-systems/construction-application-development-a-step-by-step-guide-46b2)
 - [Unpopular Opinion: It’s harder than ever to be a good software engineer](https://dev.to/mjuraj/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer-32ek)
 - [🏗 How To Use What You Know to Learn What You Don&#39;t](https://dev.to/evergrowingdev/how-to-use-what-you-know-to-learn-what-you-dont-30ge)
-- [ACID and Transactions in SQL](https://dev.to/despider/acid-and-transactions-in-sql-26id)
-- [Guide to Implementing Function-as-a-Service: A Deep Dive into Serverless Computing](https://dev.to/documatic/guide-to-implementing-function-as-a-service-a-deep-dive-into-serverless-computing-55gd)
 <!-- BLOG-POST-LIST:END -->
 
