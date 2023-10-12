@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Pledge in Hacktoberfest 2023](https://dev.to/sabbirshawon/my-pledge-in-hacktoberfest-2023-5h7f)
 - [Comment convertir entre Excel et CSV avec Python](https://dev.to/liamanderson1/comment-convertir-entre-excel-et-csv-avec-python-43bo)
 - [How to update cURL](https://dev.to/snyk/how-to-update-curl-3780)
 - [Top 6 Free Services to Help You Deploy Your App](https://dev.to/tonychain/top-6-free-services-to-help-you-deploy-your-app-le8)
-- [JavaScript Magic Tricks: Manipulating URLs](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-manipulating-urls-11i7)
 <!-- BLOG-POST-LIST:END -->
 
