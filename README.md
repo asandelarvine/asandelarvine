@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Monetize Your YouTube Channel with less Than 1,000 Subscribers](https://dev.to/reign/how-to-monetize-your-youtube-channel-with-less-than-1000-subscribers-30o0)
-- [Unlocking Efficiency: The Enterprise Low-Code Revolution](https://dev.to/laradissouza99/unlocking-efficiency-the-enterprise-low-code-revolution-5enn)
-- [🎃 The Hacktoberfest challenge giving physical merch prizes 🧢](https://dev.to/quine/the-hacktoberfest-challenge-giving-physical-merch-prizes-32oa)
-- [Building a Simple Node.js App for Downloading PDFs using Express.js](https://dev.to/fredabod/building-a-simple-nodejs-app-for-downloading-pdfs-using-expressjs-42ki)
+- [Flutter&#39;s Multilingual Support: Crafting World-Ready Applications](https://dev.to/yatendra2001/flutters-multilingual-support-crafting-world-ready-applications-3io4)
+- [Why kNN doesn&#39;t scale...](https://dev.to/ingem99/why-knn-doesnt-scale-3461)
+- [Decorating The Fetch API](https://dev.to/sayjava/decorating-the-fetch-api-5bh5)
+- [007-Inspired Challenge: Blind coding competition on James Bond Day](https://dev.to/n_demia/007-inspired-challenge-blind-coding-competition-on-james-bond-day-l5b)
 <!-- BLOG-POST-LIST:END -->
 
