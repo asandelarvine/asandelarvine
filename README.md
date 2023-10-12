@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Top 6 Free Services to Help You Deploy Your App](https://dev.to/tonychain/top-6-free-services-to-help-you-deploy-your-app-le8)
 - [JavaScript Magic Tricks: Manipulating URLs](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-manipulating-urls-11i7)
-- [How Do You Sleep &lpar;Better&rpar;?](https://dev.to/devteam/how-do-you-sleep-better-5h5h)
-- [Which is Better: In-Person or Remote Coding Interviews?](https://dev.to/codenewbieteam/which-is-better-in-person-or-remote-coding-interviews-4npp)
+- [VS Code Still Doesn&#39;t Have Vertical Tabs??](https://dev.to/cppshane/vs-code-still-doesnt-have-vertical-tabs-1g3m)
+- [Entendendo as métricas do K6 - Parte 1](https://dev.to/marlo2222/entendendo-as-metricas-do-k6-parte-1-4kig)
 <!-- BLOG-POST-LIST:END -->
 
