@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment convertir entre Excel et CSV avec Python](https://dev.to/liamanderson1/comment-convertir-entre-excel-et-csv-avec-python-43bo)
+- [How to update cURL](https://dev.to/snyk/how-to-update-curl-3780)
 - [Top 6 Free Services to Help You Deploy Your App](https://dev.to/tonychain/top-6-free-services-to-help-you-deploy-your-app-le8)
 - [JavaScript Magic Tricks: Manipulating URLs](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-manipulating-urls-11i7)
-- [VS Code Still Doesn&#39;t Have Vertical Tabs??](https://dev.to/cppshane/vs-code-still-doesnt-have-vertical-tabs-1g3m)
-- [Entendendo as métricas do K6 - Parte 1](https://dev.to/marlo2222/entendendo-as-metricas-do-k6-parte-1-4kig)
 <!-- BLOG-POST-LIST:END -->
 
