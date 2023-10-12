@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid the Promise.all pitfall!](https://dev.to/miketalbot/avoid-the-promiseall-pitfall-38ik)
+- [From Concept to Reality: My process of building Cardboard](https://dev.to/nombrekeff/from-concept-to-reality-my-process-of-building-cardboard-40fb)
 - [Easy Form Validation | React | 1](https://dev.to/shubhamtiwari909/easy-form-validation-react-1-6g1)
 - [My 15 Gas Optimization techniques for a standard Solidity smart contract](https://dev.to/jonassebera/my-15-gas-optimization-techniques-for-a-standard-solidity-smart-contract-1p9m)
-- [codedamn: The Perfect Platform to Learn Programming 🖥️💡](https://dev.to/arjuncodess/codedamn-the-perfect-platform-to-learn-programming-417e)
-- [Construction Application Development – A Step-by-step Guide](https://dev.to/onix-systems/construction-application-development-a-step-by-step-guide-46b2)
 <!-- BLOG-POST-LIST:END -->
 
