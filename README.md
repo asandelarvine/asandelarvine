@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 Free Services to Help You Deploy Your App](https://dev.to/tonychain/top-6-free-services-to-help-you-deploy-your-app-le8)
+- [JavaScript Magic Tricks: Manipulating URLs](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-manipulating-urls-11i7)
+- [How Do You Sleep &lpar;Better&rpar;?](https://dev.to/devteam/how-do-you-sleep-better-5h5h)
 - [Which is Better: In-Person or Remote Coding Interviews?](https://dev.to/codenewbieteam/which-is-better-in-person-or-remote-coding-interviews-4npp)
-- [Single Responsibility Principle in a Laravel Project](https://dev.to/iamgabrieloliveira/single-responsibility-principle-in-a-laravel-project-20ab)
-- [Certificações do GitHub: Descubra essa novidade e já prepare seus estudos!](https://dev.to/larideoliiveira/certificacoes-do-github-descubra-essa-novidade-e-ja-prepare-seus-estudos-1bae)
-- [GitHub Profile Native Web Components](https://dev.to/scottnath/github-profile-native-web-components-4ed7)
 <!-- BLOG-POST-LIST:END -->
 
