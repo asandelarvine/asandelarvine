@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Role of a DevOps Engineer: Responsibilities and Skills](https://dev.to/neeljyo/the-role-of-a-devops-engineer-responsibilities-and-skills-1l5c)
+- [Tips for programming and debugging code](https://dev.to/samuellubliner/tips-for-programming-and-debugging-code-4707)
+- [Building a Secure Next.js Application with Redux Toolkit Query and cookie tokens](https://dev.to/esponges/building-a-secure-nextjs-application-with-redux-toolkit-query-and-cookie-tokens-2en2)
 - [The CSS :not Selector](https://dev.to/speaklouder/the-css-not-selector-k29)
-- [Introducing Visual Copilot: A Better Figma-to-Code Workflow](https://dev.to/builderio/introducing-visual-copilot-a-better-figma-to-code-workflow-3i96)
-- [Flutter&#39;s Multilingual Support: Crafting World-Ready Applications](https://dev.to/yatendra2001/flutters-multilingual-support-crafting-world-ready-applications-3io4)
-- [Why kNN doesn&#39;t scale...](https://dev.to/ingem99/why-knn-doesnt-scale-3461)
 <!-- BLOG-POST-LIST:END -->
 
