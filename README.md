@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O problema com vh no mobile](https://dev.to/nickgabe/o-problema-com-vh-no-mobile-12jn)
+- [Understanding and Performing Matrix Multiplication in C Programming: A Step-by-Step Guide with Real-Life Analogies 🚀🧩](https://dev.to/fonyuygita/understanding-and-performing-matrix-multiplication-in-c-programming-a-step-by-step-guide-with-real-life-analogies-574a)
 - [Tomato PHP: The Essential Open Source Tool for PHP Backend Web Developers 🚀🍅](https://dev.to/martinlechene/tomato-php-the-essential-open-source-tool-for-php-backend-web-developers-3g1a)
 - [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-c72)
-- [Adding New Element in Array : JavaScript 💭](https://dev.to/speaklouder/adding-new-element-in-array-javascript-5e3l)
-- [Nx Conf 2023 - Recap](https://dev.to/nx/nx-conf-2023-recap-53ep)
 <!-- BLOG-POST-LIST:END -->
 
