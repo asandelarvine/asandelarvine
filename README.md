@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Higher Order Components: Cleaning Up Repetitive React Code](https://dev.to/janellephalon/higher-order-components-cleaning-up-repetitive-react-code-1en5)
-- [Sync clerk users to your database using Webhooks: A Step-by-Step Guide](https://dev.to/devlawrence/sync-clerk-users-to-your-database-using-webhooks-a-step-by-step-guide-263i)
-- [Empowering Enterprises with Serverless Generative AI: Amazon Bedrock](https://dev.to/aws-builders/empowering-enterprises-with-serverless-generative-ai-amazon-bedrock-4m7d)
-- [wtransport - WebTransport in Rust 🦀](https://dev.to/tausifcreates/wtransport-webtransport-in-rust-1n2g)
+- [7 Repositories That Will Make You 90% Smarter](https://dev.to/nathan_tarbert/7-repositories-that-will-make-you-90-smarter-2jb3)
+- [📊🔍Measure Your Product-Market Fit With Formbricks&#39; In-App Product-Market Fit Survey 📏📈](https://dev.to/formbricks/measure-your-product-market-fit-with-formbricks-in-app-product-market-fit-survey-aif)
+- [Como adicionar as badges do Hacktoberfest no seu perfil do GitHub](https://dev.to/feministech/como-adicionar-as-badges-do-hacktoberfest-no-seu-perfil-do-github-3ngk)
+- [Thinking Locally with Signals](https://dev.to/this-is-learning/thinking-locally-with-signals-3b7h)
 <!-- BLOG-POST-LIST:END -->
 
