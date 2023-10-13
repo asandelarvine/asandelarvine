@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I created AI-powered ORM for PostgreSQL, MySQL and SQLite and why you shouldn&#39;t use it](https://dev.to/meatboy/how-i-created-ai-powered-orm-for-postgresql-mysql-and-sqlite-and-why-you-shouldnt-use-it-1a)
+- [🚀 API Maker - System APIs](https://dev.to/apimaker/api-maker-system-apis-2gai)
 - [🐣 Step-by-Step Guide to Data Masking 🎭](https://dev.to/bytebase/step-by-step-guide-to-data-masking-1h4l)
 - [Let&#39;s optimize dependency management with URL Imports](https://dev.to/renhiyama/lets-optimize-dependency-management-with-url-imports-1401)
-- [🧠 An AI / neural network...in vanilla JS! 😱 With no libraries! 🤯](https://dev.to/grahamthedev/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92)
-- [3 reasons NOT to use StoreKit](https://dev.to/glassfy/3-reasons-not-to-use-storekit-39lg)
 <!-- BLOG-POST-LIST:END -->
 
