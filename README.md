@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CS61A: Projeto HOG &lpar;Parte 1&rpar;](https://dev.to/matt1cs/cs61a-projeto-hog-parte-1-54bl)
+- [Top 10 Tips for using GitHub from the Command Line](https://dev.to/github/top-10-tips-for-using-github-from-the-command-line-1me6)
 - [O problema com vh no mobile](https://dev.to/nickgabe/o-problema-com-vh-no-mobile-12jn)
 - [Understanding and Performing Matrix Multiplication in C Programming: A Step-by-Step Guide with Real-Life Analogies 🚀🧩](https://dev.to/fonyuygita/understanding-and-performing-matrix-multiplication-in-c-programming-a-step-by-step-guide-with-real-life-analogies-574a)
-- [Tomato PHP: The Essential Open Source Tool for PHP Backend Web Developers 🚀🍅](https://dev.to/martinlechene/tomato-php-the-essential-open-source-tool-for-php-backend-web-developers-3g1a)
-- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-c72)
 <!-- BLOG-POST-LIST:END -->
 
