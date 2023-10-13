@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [44 React Frontend Interview Questions](https://dev.to/m_midas/44-react-frontend-interview-questions-2o63)
 - [Hacktoberfest 2023 Chronicles: Diverse Insights &amp; Viewpoints](https://dev.to/devteam/hacktoberfest-2023-chronicles-diverse-insights-viewpoints-4i8l)
+- [How to fix a Terraform for_each Error](https://dev.to/aws-builders/how-to-fix-a-terraform-foreach-error-46hg)
 - [Discussion of the Week - v6](https://dev.to/devteam/discussion-of-the-week-v6-46h0)
-- [Awareness of Energy Consumption](https://dev.to/nogrend/awareness-of-energy-consumption-k39)
-- [The Role of a DevOps Engineer: Responsibilities and Skills](https://dev.to/neeljyo/the-role-of-a-devops-engineer-responsibilities-and-skills-1l5c)
 <!-- BLOG-POST-LIST:END -->
 
