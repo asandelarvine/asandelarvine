@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Package All the Things](https://dev.to/crabnebula/package-all-the-things-7p3)
-- [Open Source vs Proprietary Software: Pro &amp; Cons](https://dev.to/codingcrafts/open-source-vs-proprietary-software-pro-cons-49d0)
-- [Setup Your Own iTerm2 - Install iTerm2 and Configure its Color Presets](https://dev.to/poloxue/setup-your-own-iterm2-install-iterm2-and-configure-its-color-presets-m8g)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-81k)
+- [Pareto: Genesis](https://dev.to/mosaabemam/pareto-genesis-5g85)
+- [Build a Type-Safe Web App with Encore + Next.js](https://dev.to/encore/build-a-type-safe-web-app-with-encore-nextjs-d4c)
+- [Crafting Commits with Finesse: The 7 Rules for Exceptional Git Commit Messages](https://dev.to/mitchiemt11/crafting-commits-with-finesse-the-7-rules-for-exceptional-git-commit-messages-2d8b)
+- [Nobel Laureates’ Countries, or Creating a Word Cloud with JS](https://dev.to/andreykh/nobel-laureates-countries-or-creating-a-word-cloud-with-js-4ik4)
 <!-- BLOG-POST-LIST:END -->
 
