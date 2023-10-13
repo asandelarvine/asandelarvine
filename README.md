@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Package All the Things](https://dev.to/crabnebula/package-all-the-things-7p3)
 - [Open Source vs Proprietary Software: Pro &amp; Cons](https://dev.to/codingcrafts/open-source-vs-proprietary-software-pro-cons-49d0)
-- [How to avoid Microsoft Graph API throttling and optimize network traffic](https://dev.to/this-is-learning/how-to-avoid-microsoft-graph-api-throttling-and-optimize-network-traffic-5c2g)
-- [Dive into Open Source: A Guide to Hacktoberfest 2023](https://dev.to/devvsakib/dive-into-open-source-a-guide-to-hacktoberfest-2023-3o41)
-- [Managed environments &lpar;Part 1&rpar;](https://dev.to/fernandaek/managed-environments-part-1-4jlg)
+- [Setup Your Own iTerm2 - Install iTerm2 and Configure its Color Presets](https://dev.to/poloxue/setup-your-own-iterm2-install-iterm2-and-configure-its-color-presets-m8g)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-81k)
 <!-- BLOG-POST-LIST:END -->
 
