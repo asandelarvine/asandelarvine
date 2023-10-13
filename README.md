@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Shorthand Techniques](https://dev.to/shriharimurali/javascript-shorthand-techniques-23lk)
 - [Flutter docs Navigation](https://dev.to/raman04byte/flutter-docs-navigation-364j)
 - [How does API work under the hood?](https://dev.to/easewithtuts/how-does-api-work-under-the-hood-1imo)
 - [Do you know all these Typescript Utility Types?](https://dev.to/rajaerobinson/do-you-know-all-these-typescript-utility-types-4m00)
-- [What&#39;s A Book You&#39;d Love to Read Again for the First Time?](https://dev.to/codenewbieteam/whats-a-book-youd-love-to-read-again-for-the-first-time-3edb)
 <!-- BLOG-POST-LIST:END -->
 
