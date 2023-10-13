@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I created AI-powered ORM for PostgreSQL, MySQL and SQLite and why you shouldn&#39;t use it](https://dev.to/meatboy/how-i-created-ai-powered-orm-for-postgresql-mysql-and-sqlite-and-why-you-shouldnt-use-it-1a)
-- [🚀 API Maker - System APIs](https://dev.to/apimaker/api-maker-system-apis-2gai)
-- [🐣 Step-by-Step Guide to Data Masking 🎭](https://dev.to/bytebase/step-by-step-guide-to-data-masking-1h4l)
-- [Let&#39;s optimize dependency management with URL Imports](https://dev.to/renhiyama/lets-optimize-dependency-management-with-url-imports-1401)
+- [Open Source vs Proprietary Software: Pro &amp; Cons](https://dev.to/codingcrafts/open-source-vs-proprietary-software-pro-cons-49d0)
+- [How to avoid Microsoft Graph API throttling and optimize network traffic](https://dev.to/this-is-learning/how-to-avoid-microsoft-graph-api-throttling-and-optimize-network-traffic-5c2g)
+- [Dive into Open Source: A Guide to Hacktoberfest 2023](https://dev.to/devvsakib/dive-into-open-source-a-guide-to-hacktoberfest-2023-3o41)
+- [Managed environments &lpar;Part 1&rpar;](https://dev.to/fernandaek/managed-environments-part-1-4jlg)
 <!-- BLOG-POST-LIST:END -->
 
