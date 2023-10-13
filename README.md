@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AWS Cognito with Serverless for User Authentication and Data Management](https://dev.to/aws-builders/leveraging-aws-cognito-with-serverless-for-user-authentication-and-data-management-15m1)
-- [JavaScript Shorthand Techniques](https://dev.to/shriharimurali/javascript-shorthand-techniques-23lk)
-- [Flutter docs Navigation](https://dev.to/raman04byte/flutter-docs-navigation-364j)
-- [How does API work under the hood?](https://dev.to/easewithtuts/how-does-api-work-under-the-hood-1imo)
+- [Enhancing Backend Security: Safeguarding Firebase App Check for Flutter Apps](https://dev.to/asifroyal/enhancing-backend-security-safeguarding-firebase-app-check-for-flutter-apps-14p9)
+- [Revolutionizing Water Management: The Power of Water Quality Sensors](https://dev.to/wanghaoyu/revolutionizing-water-management-the-power-of-water-quality-sensors-3f48)
+- [Creating Reusable Angular Components](https://dev.to/ifourtechnolab/creating-reusable-angular-components-35a0)
+- [What KPIs to Look at? - Zero to Startup Ep 8](https://dev.to/wimadev/what-kpis-to-look-at-zero-to-startup-ep-8-1khc)
 <!-- BLOG-POST-LIST:END -->
 
