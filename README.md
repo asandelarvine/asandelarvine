@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🧠 An AI / neural network...in vanilla JS! 😱 With no libraries! 🤯](https://dev.to/grahamthedev/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92)
+- [3 reasons NOT to use StoreKit](https://dev.to/glassfy/3-reasons-not-to-use-storekit-39lg)
 - [Enhancing Backend Security: Safeguarding Firebase App Check for Flutter Apps](https://dev.to/asifroyal/enhancing-backend-security-safeguarding-firebase-app-check-for-flutter-apps-14p9)
-- [Revolutionizing Water Management: The Power of Water Quality Sensors](https://dev.to/wanghaoyu/revolutionizing-water-management-the-power-of-water-quality-sensors-3f48)
-- [Creating Reusable Angular Components](https://dev.to/ifourtechnolab/creating-reusable-angular-components-35a0)
-- [What KPIs to Look at? - Zero to Startup Ep 8](https://dev.to/wimadev/what-kpis-to-look-at-zero-to-startup-ep-8-1khc)
+- [Hacktoberfest Week 1 PR](https://dev.to/katiel/hacktoberfest-week-1-pr-423)
 <!-- BLOG-POST-LIST:END -->
 
