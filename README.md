@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Tomato PHP: The Essential Open Source Tool for PHP Backend Web Developers 🚀🍅](https://dev.to/martinlechene/tomato-php-the-essential-open-source-tool-for-php-backend-web-developers-3g1a)
 - [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-c72)
 - [Adding New Element in Array : JavaScript 💭](https://dev.to/speaklouder/adding-new-element-in-array-javascript-5e3l)
-- [⚡⚡ 7 Open Source Repositories That Will Make You 90% Smarter 😎](https://dev.to/nathan_tarbert/7-repositories-that-will-make-you-90-smarter-2jb3)
+- [Nx Conf 2023 - Recap](https://dev.to/nx/nx-conf-2023-recap-53ep)
 <!-- BLOG-POST-LIST:END -->
 
