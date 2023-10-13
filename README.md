@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pareto: Genesis](https://dev.to/mosaabemam/pareto-genesis-5g85)
-- [Build a Type-Safe Web App with Encore + Next.js](https://dev.to/encore/build-a-type-safe-web-app-with-encore-nextjs-d4c)
-- [Crafting Commits with Finesse: The 7 Rules for Exceptional Git Commit Messages](https://dev.to/mitchiemt11/crafting-commits-with-finesse-the-7-rules-for-exceptional-git-commit-messages-2d8b)
-- [Nobel Laureates’ Countries, or Creating a Word Cloud with JS](https://dev.to/andreykh/nobel-laureates-countries-or-creating-a-word-cloud-with-js-4ik4)
+- [Sync clerk users to your database using Webhooks: A Step-by-Step Guide](https://dev.to/devlawrence/sync-clerk-users-to-your-database-using-webhooks-a-step-by-step-guide-263i)
+- [Empowering Enterprises with Serverless Generative AI: Amazon Bedrock](https://dev.to/aws-builders/empowering-enterprises-with-serverless-generative-ai-amazon-bedrock-4m7d)
+- [wtransport - WebTransport in Rust 🦀](https://dev.to/tausifcreates/wtransport-webtransport-in-rust-1n2g)
+- [Community Contributor Spotlight: @ktmouk](https://dev.to/devteam/community-contributor-spotlight-ktmouk-2e9n)
 <!-- BLOG-POST-LIST:END -->
 
