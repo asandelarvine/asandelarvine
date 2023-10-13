@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Higher Order Components: Cleaning Up Repetitive React Code](https://dev.to/janellephalon/higher-order-components-cleaning-up-repetitive-react-code-1en5)
 - [Sync clerk users to your database using Webhooks: A Step-by-Step Guide](https://dev.to/devlawrence/sync-clerk-users-to-your-database-using-webhooks-a-step-by-step-guide-263i)
 - [Empowering Enterprises with Serverless Generative AI: Amazon Bedrock](https://dev.to/aws-builders/empowering-enterprises-with-serverless-generative-ai-amazon-bedrock-4m7d)
 - [wtransport - WebTransport in Rust 🦀](https://dev.to/tausifcreates/wtransport-webtransport-in-rust-1n2g)
-- [Community Contributor Spotlight: @ktmouk](https://dev.to/devteam/community-contributor-spotlight-ktmouk-2e9n)
 <!-- BLOG-POST-LIST:END -->
 
