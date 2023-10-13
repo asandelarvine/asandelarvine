@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Repositories That Will Make You 90% Smarter](https://dev.to/nathan_tarbert/7-repositories-that-will-make-you-90-smarter-2jb3)
-- [📊🔍Measure Your Product-Market Fit With Formbricks&#39; In-App Product-Market Fit Survey 📏📈](https://dev.to/formbricks/measure-your-product-market-fit-with-formbricks-in-app-product-market-fit-survey-aif)
-- [Como adicionar as badges do Hacktoberfest no seu perfil do GitHub](https://dev.to/feministech/como-adicionar-as-badges-do-hacktoberfest-no-seu-perfil-do-github-3ngk)
-- [Thinking Locally with Signals](https://dev.to/this-is-learning/thinking-locally-with-signals-3b7h)
+- [Tomato PHP: The Essential Open Source Tool for PHP Backend Web Developers 🚀🍅](https://dev.to/martinlechene/tomato-php-the-essential-open-source-tool-for-php-backend-web-developers-3g1a)
+- [Challenging Bugs and Solutions of the Week: Share Your Stories! 🐞](https://dev.to/mainarthur/challenging-bugs-and-solutions-of-the-week-share-your-stories-c72)
+- [Adding New Element in Array : JavaScript 💭](https://dev.to/speaklouder/adding-new-element-in-array-javascript-5e3l)
+- [⚡⚡ 7 Open Source Repositories That Will Make You 90% Smarter 😎](https://dev.to/nathan_tarbert/7-repositories-that-will-make-you-90-smarter-2jb3)
 <!-- BLOG-POST-LIST:END -->
 
