@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Ace a Coding Interview Without Solving the Problem&lpar;s&rpar;?](https://dev.to/codenewbieteam/can-you-ace-a-coding-interview-without-solving-the-problems-5cea)
-- [What&#39;s A Book You&#39;d Love to Read Again for the First Time?](https://dev.to/codenewbieteam/whats-a-book-youd-love-to-read-again-for-the-first-time-3edb)
+- [Flutter docs Navigation](https://dev.to/raman04byte/flutter-docs-navigation-364j)
+- [Do you know all these Typescript Utility Types?](https://dev.to/rajaerobinson/do-you-know-all-these-typescript-utility-types-4m00)
 - [What&#39;s the One Work Task You&#39;d Cut?](https://dev.to/devteam/whats-the-one-work-task-youd-cut-26ge)
-- [Build a CI/CD pipeline for Flask apps using GitHub Actions](https://dev.to/honeybadger/build-a-cicd-pipeline-for-flask-apps-using-github-actions-4nb4)
+- [What&#39;s A Book You&#39;d Love to Read Again for the First Time?](https://dev.to/codenewbieteam/whats-a-book-youd-love-to-read-again-for-the-first-time-3edb)
 <!-- BLOG-POST-LIST:END -->
 
