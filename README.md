@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [44 React Frontend Interview Questions](https://dev.to/m_midas/44-react-frontend-interview-questions-2o63)
-- [Hacktoberfest 2023 Chronicles: Diverse Insights &amp; Viewpoints](https://dev.to/devteam/hacktoberfest-2023-chronicles-diverse-insights-viewpoints-4i8l)
-- [How to fix a Terraform for_each Error](https://dev.to/aws-builders/how-to-fix-a-terraform-foreach-error-46hg)
-- [Discussion of the Week - v6](https://dev.to/devteam/discussion-of-the-week-v6-46h0)
+- [Can You Ace a Coding Interview Without Solving the Problem&lpar;s&rpar;?](https://dev.to/codenewbieteam/can-you-ace-a-coding-interview-without-solving-the-problems-5cea)
+- [What&#39;s A Book You&#39;d Love to Read Again for the First Time?](https://dev.to/codenewbieteam/whats-a-book-youd-love-to-read-again-for-the-first-time-3edb)
+- [What&#39;s the One Work Task You&#39;d Cut?](https://dev.to/devteam/whats-the-one-work-task-youd-cut-26ge)
+- [Build a CI/CD pipeline for Flask apps using GitHub Actions](https://dev.to/honeybadger/build-a-cicd-pipeline-for-flask-apps-using-github-actions-4nb4)
 <!-- BLOG-POST-LIST:END -->
 
