@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Manually Uploading Your Site To The Hosting Service](https://dev.to/joaotextor/stop-manually-uploading-your-site-to-the-hosting-service-3c64)
 - [Want to help with Cardboard? JS/TS Vanilla Reactive Framework](https://dev.to/nombrekeff/want-to-help-with-cardboard-jsts-vanilla-reactive-framework-jcl)
 - [🚀 Easy string manipulation in JavaScript](https://dev.to/ksawery297/easy-string-manipulation-in-javascript-4ln3)
 - [How Python Programs Works?](https://dev.to/vayolapradeep/how-python-programs-works-15f)
-- [Dependency Inversion Principle in React](https://dev.to/mikhaelesa/dependency-inversion-principle-in-react-5287)
 <!-- BLOG-POST-LIST:END -->
 
