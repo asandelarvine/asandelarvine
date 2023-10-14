@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 21 on Devuan 5 &lpar;Debian 12&rpar;: Install manually](https://dev.to/nabbisen/java-21-on-devuan-5-debian-12-install-manually-57pg)
 - [use camelcase in angular and asp.net web api jsonset](https://dev.to/mustafacam/use-camelcase-in-angular-and-aspnet-web-api-jsonset-4886)
 - [12 Obscure Ethical Hacking Techniques for Bug Bounties](https://dev.to/code_jedi/12-obscure-ethical-hacking-techniques-for-bug-bounties-58i)
 - [Tuning Out Spotify: A Programmer’s Approach to Music Streaming](https://dev.to/redheadphone/tuning-out-spotify-a-programmers-approach-to-music-streaming-44hi)
-- [Your Daily CVE Reminder 🦸🏻‍♀️](https://dev.to/aws-builders/your-daily-cve-reminder-cpn)
 <!-- BLOG-POST-LIST:END -->
 
