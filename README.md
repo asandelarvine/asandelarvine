@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Junior to Senior Web Developer Roadmap: Breakdown](https://dev.to/aswin2001barath/junior-to-senior-web-developer-roadmap-breakdown-1525)
+- [How Do You Navigate the &#39;Valley of Disappointment?](https://dev.to/codenewbieteam/how-do-you-navigate-the-valley-of-disappointment-12ne)
+- [What&#39;s A Life Lesson You Wish You&#39;d Learned Sooner?](https://dev.to/devteam/whats-a-life-lesson-you-wish-youd-learned-sooner-163d)
 - [🧠 9 ways to grow your SaaS](https://dev.to/ideahub_charlie/9-ways-to-grow-your-saas-8kp)
-- [CS61A: Projeto HOG &lpar;Parte 1&rpar;](https://dev.to/matt1cs/cs61a-projeto-hog-parte-1-54bl)
-- [How Svelte made me understand Web development better in general](https://dev.to/nicholascostadev/how-svelte-made-me-understand-web-development-better-in-general-ag5)
-- [Top 10 Tips for using GitHub from the Command Line](https://dev.to/github/top-10-tips-for-using-github-from-the-command-line-1me6)
 <!-- BLOG-POST-LIST:END -->
 
