@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Supercharge Your Next.js App with Stunning Images! Learn the Ultimate Cloudinary Image Upload Hack 🔥](https://dev.to/kishansheth/supercharge-your-nextjs-app-with-stunning-images-learn-the-ultimate-cloudinary-image-upload-hack-31ja)
+- [Elephant in the room - use AWS Budgets&#39; Usage Types !!](https://dev.to/aws-builders/elephant-in-the-room-use-aws-budgets-usage-types--38po)
 - [Junior to Senior Web Developer Roadmap: Breakdown](https://dev.to/aswin2001barath/junior-to-senior-web-developer-roadmap-breakdown-1525)
-- [How Do You Navigate the &#39;Valley of Disappointment?](https://dev.to/codenewbieteam/how-do-you-navigate-the-valley-of-disappointment-12ne)
 - [What&#39;s A Life Lesson You Wish You&#39;d Learned Sooner?](https://dev.to/devteam/whats-a-life-lesson-you-wish-youd-learned-sooner-163d)
-- [🧠 9 ways to grow your SaaS](https://dev.to/ideahub_charlie/9-ways-to-grow-your-saas-8kp)
 <!-- BLOG-POST-LIST:END -->
 
