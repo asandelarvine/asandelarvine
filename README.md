@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bubble Sort...in PURE CSS? [No JS] 😱](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
+- [How to Use Git with Hugging Face: From Cloning to Pushing with Access Token Verification](https://dev.to/sh20raj/how-to-use-git-with-hugging-face-from-cloning-to-pushing-with-access-token-verification-5711)
 - [Java 21 on Devuan 5 &lpar;Debian 12&rpar;: Install manually](https://dev.to/nabbisen/java-21-on-devuan-5-debian-12-install-manually-57pg)
 - [use camelcase in angular and asp.net web api jsonset](https://dev.to/mustafacam/use-camelcase-in-angular-and-aspnet-web-api-jsonset-4886)
-- [12 Obscure Ethical Hacking Techniques for Bug Bounties](https://dev.to/code_jedi/12-obscure-ethical-hacking-techniques-for-bug-bounties-58i)
-- [Tuning Out Spotify: A Programmer’s Approach to Music Streaming](https://dev.to/redheadphone/tuning-out-spotify-a-programmers-approach-to-music-streaming-44hi)
 <!-- BLOG-POST-LIST:END -->
 
