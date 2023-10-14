@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Suspense your federated component with caution](https://dev.to/ibrahimshamma99/suspense-your-federated-component-with-caution-2gnc)
+- [10 game-changing shortcut links that can supercharge your online productivity. 💼🚀](https://dev.to/harshal255/10-game-changing-shortcut-links-that-can-supercharge-your-online-productivity-1in3)
 - [What is selenium? Why do we use selenium for automation?](https://dev.to/sadiquaakthar/what-is-selenium-why-do-we-use-selenium-for-automation-bi)
 - [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
-- [Stop Manually Uploading Your Site To The Hosting Service](https://dev.to/joaotextor/stop-manually-uploading-your-site-to-the-hosting-service-3c64)
 <!-- BLOG-POST-LIST:END -->
 
