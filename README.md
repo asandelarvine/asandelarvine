@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Dependency Inversion Principle in React](https://dev.to/mikhaelesa/dependency-inversion-principle-in-react-5287)
+- [SOLID Principles Series: Demystifying the Liskov Substitution Principle &lpar;LSP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-demystifying-the-liskov-substitution-principle-lsp-in-nodejs-with-typescript-4j96)
 - [Predicting Flight Prices with MindsDB](https://dev.to/learnearnfun/predicting-flight-prices-with-mindsdb-10dd)
 - [Bubble Sort...in PURE CSS? [No JS] 😱](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
-- [How to Use Git with Hugging Face: From Cloning to Pushing with Access Token Verification](https://dev.to/sh20raj/how-to-use-git-with-hugging-face-from-cloning-to-pushing-with-access-token-verification-5711)
 <!-- BLOG-POST-LIST:END -->
 
