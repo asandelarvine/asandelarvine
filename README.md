@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Suspense your federated component with caution](https://dev.to/ibrahimshamma99/suspense-your-federated-component-with-caution-2gnc)
+- [What is selenium? Why do we use selenium for automation?](https://dev.to/sadiquaakthar/what-is-selenium-why-do-we-use-selenium-for-automation-bi)
 - [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
 - [Stop Manually Uploading Your Site To The Hosting Service](https://dev.to/joaotextor/stop-manually-uploading-your-site-to-the-hosting-service-3c64)
-- [Want to help with Cardboard? JS/TS Vanilla Reactive Framework](https://dev.to/nombrekeff/want-to-help-with-cardboard-jsts-vanilla-reactive-framework-jcl)
-- [🚀 Easy string manipulation in JavaScript](https://dev.to/ksawery297/easy-string-manipulation-in-javascript-4ln3)
 <!-- BLOG-POST-LIST:END -->
 
