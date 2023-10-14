@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🧠 9 ways to grow your SaaS](https://dev.to/ideahub_charlie/9-ways-to-grow-your-saas-8kp)
 - [CS61A: Projeto HOG &lpar;Parte 1&rpar;](https://dev.to/matt1cs/cs61a-projeto-hog-parte-1-54bl)
+- [How Svelte made me understand Web development better in general](https://dev.to/nicholascostadev/how-svelte-made-me-understand-web-development-better-in-general-ag5)
 - [Top 10 Tips for using GitHub from the Command Line](https://dev.to/github/top-10-tips-for-using-github-from-the-command-line-1me6)
-- [O problema com vh no mobile](https://dev.to/nickgabe/o-problema-com-vh-no-mobile-12jn)
-- [Understanding and Performing Matrix Multiplication in C Programming: A Step-by-Step Guide with Real-Life Analogies 🚀🧩](https://dev.to/fonyuygita/understanding-and-performing-matrix-multiplication-in-c-programming-a-step-by-step-guide-with-real-life-analogies-574a)
 <!-- BLOG-POST-LIST:END -->
 
