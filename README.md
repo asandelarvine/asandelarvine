@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to help with Cardboard? JS/TS Vanilla Reactive Framework](https://dev.to/nombrekeff/want-to-help-with-cardboard-jsts-vanilla-reactive-framework-jcl)
+- [🚀 Easy string manipulation in JavaScript](https://dev.to/ksawery297/easy-string-manipulation-in-javascript-4ln3)
 - [How Python Programs Works?](https://dev.to/vayolapradeep/how-python-programs-works-15f)
 - [Dependency Inversion Principle in React](https://dev.to/mikhaelesa/dependency-inversion-principle-in-react-5287)
-- [SOLID Principles Series: Demystifying the Liskov Substitution Principle &lpar;LSP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-demystifying-the-liskov-substitution-principle-lsp-in-nodejs-with-typescript-4j96)
-- [Predicting Flight Prices with MindsDB](https://dev.to/learnearnfun/predicting-flight-prices-with-mindsdb-10dd)
 <!-- BLOG-POST-LIST:END -->
 
