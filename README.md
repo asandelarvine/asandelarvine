@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Obscure Ethical Hacking Techniques for Bug Bounties](https://dev.to/code_jedi/12-obscure-ethical-hacking-techniques-for-bug-bounties-58i)
 - [Your Daily CVE Reminder 🦸🏻‍♀️](https://dev.to/aws-builders/your-daily-cve-reminder-cpn)
 - [Building an Amazon Bedrock App for Text and Image Retrieval](https://dev.to/aws-builders/building-an-amazon-bedrock-app-for-text-and-image-retrieval-3hal)
 - [🚀 Supercharge Your Next.js App with Stunning Images! Learn the Ultimate Cloudinary Image Upload Hack 🔥](https://dev.to/kishansheth/supercharge-your-nextjs-app-with-stunning-images-learn-the-ultimate-cloudinary-image-upload-hack-31ja)
-- [Elephant in the room - use AWS Budgets&#39; Usage Types !!](https://dev.to/aws-builders/elephant-in-the-room-use-aws-budgets-usage-types--38po)
 <!-- BLOG-POST-LIST:END -->
 
