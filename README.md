@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Junior to Senior Web Developer Roadmap: Breakdown](https://dev.to/aswin2001barath/junior-to-senior-web-developer-roadmap-breakdown-1525)
-- [How Do You Navigate the &#39;Valley of Disappointment?](https://dev.to/codenewbieteam/how-do-you-navigate-the-valley-of-disappointment-12ne)
 - [What&#39;s A Life Lesson You Wish You&#39;d Learned Sooner?](https://dev.to/devteam/whats-a-life-lesson-you-wish-youd-learned-sooner-163d)
+- [How Do You Navigate the &#39;Valley of Disappointment?](https://dev.to/codenewbieteam/how-do-you-navigate-the-valley-of-disappointment-12ne)
 - [🧠 9 ways to grow your SaaS](https://dev.to/ideahub_charlie/9-ways-to-grow-your-saas-8kp)
 <!-- BLOG-POST-LIST:END -->
 
