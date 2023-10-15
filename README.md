@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Grokking Bit Manipulation Tricks and Complete Guide](https://dev.to/ggorantala/grokking-bit-manipulation-tricks-and-complete-guide-5cdo)
-- [Maven on Java 21 &amp; Devuan 5 &lpar;Debian 12&rpar;: インストール &lpar;手動で&rpar;](https://dev.to/nabbisen/maven-on-java-21-devuan-5-debian-12-insutoru-shou-dong-de-2plf)
-- [Build a GraphQL API and deploy it in minutes with Encore 🚀](https://dev.to/encore/build-a-graphql-api-and-deploy-it-in-minutes-with-encore-41ih)
-- [Advancеd Topics in Apachе AGЕ](https://dev.to/hassanrehan/advancied-topics-in-apachie-agie-3068)
+- [Upwork vs. Fiverr vs. Freelancer: Choosing the Right Freelance Platform](https://dev.to/fisayomi/upwork-vs-fiverr-vs-freelancer-choosing-the-right-freelance-platform-3dfd)
+- [Testing React Components: A Comprehensive Overview of Testing Libraries](https://dev.to/rowsanali/testing-react-components-a-comprehensive-overview-of-testing-libraries-2gd1)
+- [React Context API: A step-by-step guide](https://dev.to/luqmanshaban/react-context-api-a-step-by-step-guide-i1i)
+- [How to write types for better usability](https://dev.to/artxe2/how-to-write-types-for-better-usability-2b6b)
 <!-- BLOG-POST-LIST:END -->
 
