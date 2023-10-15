@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 File Upload in Node.js and React - Build React App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-build-react-app-4fei)
-- [What I would like to see in the future of React development](https://dev.to/opensourcee/what-i-would-like-to-see-in-the-future-of-react-development-4f7f)
-- [I contributed in October 2023](https://dev.to/thomasbnt/i-contributed-in-october-2023-24lh)
-- [Code Review Rewards: Journey of Integrating Gitlab through Automated Hooks](https://dev.to/lovestaco/code-review-rewards-journey-of-integrating-gitlab-through-automated-hooks-1dd5)
+- [Exploratory Data Analysis Using Data Visualization Techniques 📊.](https://dev.to/sammie_musyoki/exploratory-data-analysis-using-data-visualization-techniques--3ocm)
+- [AWS CLI | Important &amp; Useful Commands](https://dev.to/msfaizi/aws-cli-important-useful-commands-2o4k)
+- [Store your notes in your browser 😎🔥](https://dev.to/navdeepm20/store-your-notes-in-your-browser-304m)
+- [Neo4j - Database on Crack 🚀](https://dev.to/tausifcreates/neo4j-database-on-crack-4728)
 <!-- BLOG-POST-LIST:END -->
 
