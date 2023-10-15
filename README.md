@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 21 on Devuan 5 &lpar;Debian 12&rpar;: インストール &lpar;手動で&rpar;](https://dev.to/nabbisen/java-21-on-devuan-5-debian-12-insutoru-shou-dong-de-56pb)
 - [Running Swirl Search🌌in an instant on Gitpod🌐💻and GitHub Codespaces🌩️🚀](https://dev.to/svamshi/running-swirl-searchin-an-instant-on-gitpodand-github-codespaces-l86)
 - [Maven on Java 21 and Devuan 5 &lpar;Debian 12&rpar;: Install manually](https://dev.to/nabbisen/maven-on-java-21-and-devuan-5-debian-12-install-manually-4he5)
 - [Observability: What, Why and How](https://dev.to/iamebonyhope/observability-what-why-and-how-1lj0)
-- [React and the New Tools for Rapid Software Development](https://dev.to/orjamar/react-and-the-new-tools-for-rapid-software-development-oh4)
 <!-- BLOG-POST-LIST:END -->
 
