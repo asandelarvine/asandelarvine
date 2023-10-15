@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Chapter 3: Three Worlds](https://dev.to/sarthology/chapter-3-three-worlds-1kad)
 - [Exploratory Data Analysis Using Data Visualization Techniques 📊.](https://dev.to/sammie_musyoki/exploratory-data-analysis-using-data-visualization-techniques--3ocm)
+- [DevSecOps with AWS- Ephemeral Environments – Creating test Environments On-Demand - Part 1](https://dev.to/aws-builders/devsecops-with-aws-ephemeral-environments-creating-test-environments-on-demand-part-1-54il)
 - [AWS CLI | Important &amp; Useful Commands](https://dev.to/msfaizi/aws-cli-important-useful-commands-2o4k)
-- [Store your notes in your browser 😎🔥](https://dev.to/navdeepm20/store-your-notes-in-your-browser-304m)
 <!-- BLOG-POST-LIST:END -->
 
