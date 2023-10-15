@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 227 - Cowboy Coding](https://dev.to/mcsee/code-smell-227-cowboy-coding-38kb)
 - [Chapter 3: Three Worlds](https://dev.to/sarthology/chapter-3-three-worlds-1kad)
 - [Exploratory Data Analysis Using Data Visualization Techniques 📊.](https://dev.to/sammie_musyoki/exploratory-data-analysis-using-data-visualization-techniques--3ocm)
 - [DevSecOps with AWS- Ephemeral Environments – Creating test Environments On-Demand - Part 1](https://dev.to/aws-builders/devsecops-with-aws-ephemeral-environments-creating-test-environments-on-demand-part-1-54il)
-- [AWS CLI | Important &amp; Useful Commands](https://dev.to/msfaizi/aws-cli-important-useful-commands-2o4k)
 <!-- BLOG-POST-LIST:END -->
 
