@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Mom&#39;n&#39;Pop store gave Silicon Valley a Whoppin](https://dev.to/polterguy/how-a-momnpop-store-gave-silicon-valley-a-whoppin-4n16)
-- [From Lab to Live: Implementing Open-Source AI Models for Real-Time Unsupervised Anomaly Detection in Images](https://dev.to/reductstore/from-lab-to-live-implementing-open-source-ai-models-for-real-time-unsupervised-anomaly-detection-in-images-2h18)
-- [Understanding Object.seal&lpar;&rpar;, Object.freeze&lpar;&rpar;, and Object.preventExtensions&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/objectseal-objectfreeze-and-objectpreventextensions-in-javascript-4c3k)
-- [Creating an Earth Engine Cloud Project](https://dev.to/geedevs-nairobi/creating-an-earth-engine-cloud-project-4gja)
+- [Build a GraphQL API and deploy it in minutes with Encore 🚀](https://dev.to/encore/build-a-graphql-api-and-deploy-it-in-minutes-with-encore-41ih)
+- [Advancеd Topics in Apachе AGЕ](https://dev.to/hassanrehan/advancied-topics-in-apachie-agie-3068)
+- [Full stack developer: A process and not an end goal.](https://dev.to/ap45/full-stack-developer-a-process-and-not-an-end-goal-1n8c)
+- [Diving Dееpеr into Apachе AGЕ: Advancеd Usagе and Complеx Quеriеs](https://dev.to/hassanrehan/diving-dieiepier-into-apachie-agie-advancied-usagie-and-compliex-quieriies-3pb9)
 <!-- BLOG-POST-LIST:END -->
 
