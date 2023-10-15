@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How a Mom&#39;n&#39;Pop store gave Silicon Valley a Whoppin](https://dev.to/polterguy/how-a-momnpop-store-gave-silicon-valley-a-whoppin-4n16)
+- [From Lab to Live: Implementing Open-Source AI Models for Real-Time Unsupervised Anomaly Detection in Images](https://dev.to/reductstore/from-lab-to-live-implementing-open-source-ai-models-for-real-time-unsupervised-anomaly-detection-in-images-2h18)
 - [Understanding Object.seal&lpar;&rpar;, Object.freeze&lpar;&rpar;, and Object.preventExtensions&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/objectseal-objectfreeze-and-objectpreventextensions-in-javascript-4c3k)
 - [Creating an Earth Engine Cloud Project](https://dev.to/geedevs-nairobi/creating-an-earth-engine-cloud-project-4gja)
-- [Java 21 on Devuan 5 &lpar;Debian 12&rpar;: インストール &lpar;手動で&rpar;](https://dev.to/nabbisen/java-21-on-devuan-5-debian-12-insutoru-shou-dong-de-56pb)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-10fc)
 <!-- BLOG-POST-LIST:END -->
 
