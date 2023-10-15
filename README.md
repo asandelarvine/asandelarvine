@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Object.seal&lpar;&rpar;, Object.freeze&lpar;&rpar;, and Object.preventExtensions&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/objectseal-objectfreeze-and-objectpreventextensions-in-javascript-4c3k)
 - [Creating an Earth Engine Cloud Project](https://dev.to/geedevs-nairobi/creating-an-earth-engine-cloud-project-4gja)
 - [Java 21 on Devuan 5 &lpar;Debian 12&rpar;: インストール &lpar;手動で&rpar;](https://dev.to/nabbisen/java-21-on-devuan-5-debian-12-insutoru-shou-dong-de-56pb)
-- [Running Swirl Search🌌in an instant on Gitpod🌐💻and GitHub Codespaces🌩️🚀](https://dev.to/svamshi/running-swirl-searchin-an-instant-on-gitpodand-github-codespaces-l86)
-- [Maven on Java 21 and Devuan 5 &lpar;Debian 12&rpar;: Install manually](https://dev.to/nabbisen/maven-on-java-21-and-devuan-5-debian-12-install-manually-4he5)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-10fc)
 <!-- BLOG-POST-LIST:END -->
 
