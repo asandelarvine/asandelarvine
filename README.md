@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Efficient E2E Testing for Next.js: A Playwright Tutorial](https://dev.to/lucgagan/efficient-e2e-testing-for-nextjs-a-playwright-tutorial-1mmh)
+- [Talent vs. Effort in Learning Complex Skills?](https://dev.to/codenewbieteam/talent-vs-effort-in-learning-complex-skills-1p1)
+- [Which Trends Will Become Obsolete?](https://dev.to/devteam/which-trends-will-become-obsolete-35jj)
 - [Suspense your federated component with caution](https://dev.to/ibrahimshamma99/suspense-your-federated-component-with-caution-2gnc)
-- [10 game-changing shortcut links that can supercharge your online productivity. 💼🚀](https://dev.to/harshal255/10-game-changing-shortcut-links-that-can-supercharge-your-online-productivity-1in3)
-- [What is selenium? Why do we use selenium for automation?](https://dev.to/sadiquaakthar/what-is-selenium-why-do-we-use-selenium-for-automation-bi)
-- [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
 <!-- BLOG-POST-LIST:END -->
 
