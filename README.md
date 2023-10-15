@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [S3 File Upload in Node.js and React - Build React App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-build-react-app-4fei)
+- [What I would like to see in the future of React development](https://dev.to/opensourcee/what-i-would-like-to-see-in-the-future-of-react-development-4f7f)
+- [I contributed in October 2023](https://dev.to/thomasbnt/i-contributed-in-october-2023-24lh)
 - [Code Review Rewards: Journey of Integrating Gitlab through Automated Hooks](https://dev.to/lovestaco/code-review-rewards-journey-of-integrating-gitlab-through-automated-hooks-1dd5)
-- [HacktoberFest Week two](https://dev.to/jarvisscript/hacktoberfest-week-two-4fpn)
-- [Upwork vs. Fiverr vs. Freelancer: Choosing the Right Freelance Platform](https://dev.to/fisayomi/upwork-vs-fiverr-vs-freelancer-choosing-the-right-freelance-platform-3dfd)
-- [Testing React Components: A Comprehensive Overview of Testing Libraries](https://dev.to/rowsanali/testing-react-components-a-comprehensive-overview-of-testing-libraries-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
