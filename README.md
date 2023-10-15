@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Chapter 3: Three Worlds](https://dev.to/sarthology/chapter-3-three-worlds-1kad)
 - [Exploratory Data Analysis Using Data Visualization Techniques 📊.](https://dev.to/sammie_musyoki/exploratory-data-analysis-using-data-visualization-techniques--3ocm)
 - [AWS CLI | Important &amp; Useful Commands](https://dev.to/msfaizi/aws-cli-important-useful-commands-2o4k)
 - [Store your notes in your browser 😎🔥](https://dev.to/navdeepm20/store-your-notes-in-your-browser-304m)
-- [Neo4j - Database on Crack 🚀](https://dev.to/tausifcreates/neo4j-database-on-crack-4728)
 <!-- BLOG-POST-LIST:END -->
 
