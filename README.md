@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Grokking Bit Manipulation Tricks and Complete Guide](https://dev.to/ggorantala/grokking-bit-manipulation-tricks-and-complete-guide-5cdo)
+- [Maven on Java 21 &amp; Devuan 5 &lpar;Debian 12&rpar;: インストール &lpar;手動で&rpar;](https://dev.to/nabbisen/maven-on-java-21-devuan-5-debian-12-insutoru-shou-dong-de-2plf)
 - [Build a GraphQL API and deploy it in minutes with Encore 🚀](https://dev.to/encore/build-a-graphql-api-and-deploy-it-in-minutes-with-encore-41ih)
 - [Advancеd Topics in Apachе AGЕ](https://dev.to/hassanrehan/advancied-topics-in-apachie-agie-3068)
-- [Full stack developer: A process and not an end goal.](https://dev.to/ap45/full-stack-developer-a-process-and-not-an-end-goal-1n8c)
-- [Diving Dееpеr into Apachе AGЕ: Advancеd Usagе and Complеx Quеriеs](https://dev.to/hassanrehan/diving-dieiepier-into-apachie-agie-advancied-usagie-and-compliex-quieriies-3pb9)
 <!-- BLOG-POST-LIST:END -->
 
