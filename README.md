@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HacktoberFest 4th PR accepted.](https://dev.to/jarvisscript/hacktoberfest-4th-pr-accepted-48h0)
-- [Dicas de estudo para se manter atualizado em TI](https://dev.to/fhmurakami/dicas-de-estudo-para-se-manter-atualizado-em-ti-3l6f)
-- [Boost your experience with Postman - Part II](https://dev.to/m4rri4nne/boost-your-experience-with-postman-part-ii-5cde)
-- [AI coding assistant | API Costs](https://dev.to/maximsaplin/ai-coding-assistant-api-costs-245c)
+- [How To Cache Playwright Browser On Github Actions](https://dev.to/ayomiku222/how-to-cache-playwright-browser-on-github-actions-51o6)
+- [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
+- [It&#39;s all just a little bit of history repeating](https://dev.to/alvaromontoro/its-all-just-a-little-bit-of-history-repeating-13oc)
+- [How To Write Awesome Article Titles For SEO 💎](https://dev.to/thospfuller/how-to-write-awesome-article-titles-for-seo-3d5j)
 <!-- BLOG-POST-LIST:END -->
 
