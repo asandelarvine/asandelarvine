@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Issues That Will Help You Grow as a top contributor in Opensource 🏅🏅](https://dev.to/firecampdev/10-issues-that-will-help-you-grow-as-a-top-contributor-in-opensource-261p)
+- [Top 25 Code Repository interview questions](https://dev.to/fromfullstack/top-25-code-repository-interview-questions-ea8)
+- [The Power of Progressive Web Apps: Enhancing User Experience and Engagement](https://dev.to/arafatweb/the-power-of-progressive-web-apps-enhancing-user-experience-and-engagement-236m)
 - [🐘 Introduction to Docker Compose](https://dev.to/refine/introduction-to-docker-compose-1i1i)
-- [AWS open source newsletter, #175](https://dev.to/aws/aws-open-source-newsletter-175-2dmn)
-- [✨ Make Hanko Components Shine 💫](https://dev.to/hanko/make-hanko-components-shine-1d61)
-- [esProc SPL: A High-Performance Data Analysis Engine](https://dev.to/grayhat/esproc-spl-a-high-performance-data-analysis-engine-2cbo)
 <!-- BLOG-POST-LIST:END -->
 
