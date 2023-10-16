@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HacktoberFest 4th PR accepted.](https://dev.to/jarvisscript/hacktoberfest-4th-pr-accepted-48h0)
 - [Dicas de estudo para se manter atualizado em TI](https://dev.to/fhmurakami/dicas-de-estudo-para-se-manter-atualizado-em-ti-3l6f)
 - [Boost your experience with Postman - Part II](https://dev.to/m4rri4nne/boost-your-experience-with-postman-part-ii-5cde)
-- [FastStream: Python&#39;s framework for Efficient Message Queue Handling](https://dev.to/airtai/faststream-pythons-framework-for-efficient-message-queue-handling-3pd2)
-- [Startup Testing Dilemma: E2E or Not E2E?](https://dev.to/jsfez/startup-testing-dilemma-e2e-or-not-e2e-46nj)
+- [AI coding assistant | API Costs](https://dev.to/maximsaplin/ai-coding-assistant-api-costs-245c)
 <!-- BLOG-POST-LIST:END -->
 
