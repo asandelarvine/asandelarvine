@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Best School Library Management Sofware](https://dev.to/lijon/3-best-school-library-management-sofware-27m7)
+- [✨ 8 components to become a React master 🧙‍♂️ 🪄](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)
+- [Implement custom retry logic with SQS &amp; Lambda - Part I - using SQS delayed messages](https://dev.to/aws-builders/implement-custom-retry-logic-with-sqs-lambda-part-i-using-sqs-delayed-messages-gpa)
 - [What actually happens when you type google.com in your browser and press Enter](https://dev.to/mbianoubradon/what-actually-happens-when-you-type-googlecom-in-your-browser-and-press-enter-1674)
-- [Hactoberfest Completed](https://dev.to/mannu/hactoberfest-completed-5dm2)
-- [Optimizing React Components: A Guide to useCallback and useMemo](https://dev.to/dickinsontiwari/optimizing-react-components-a-guide-to-usecallback-and-usememo-3mgk)
-- [🚀 API authorization in API Maker](https://dev.to/apimaker/api-authorization-in-api-maker-pcm)
 <!-- BLOG-POST-LIST:END -->
 
