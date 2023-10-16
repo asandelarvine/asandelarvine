@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
+- [[off-topic] Top 5 Playlists Que Eu Escuto Enquanto Estou Programando](https://dev.to/analaura/off-topic-top-5-playlists-que-eu-escuto-enquanto-programo-537e)
+- [Unveiling the Power of K-Nearest Neighbors &lpar;KNN&rpar; in Machine Learning](https://dev.to/edelapaz/unveiling-the-power-of-k-nearest-neighbors-knn-in-machine-learning-5b0a)
 - [Get involved: Your guide to contributing to WebCrumbs](https://dev.to/opensourcee/get-involved-your-guide-to-contributing-to-webcrumbs-30p7)
-- [Toggling Mobile Navigation Visibility with CSS: The Checkbox Hack](https://dev.to/joxx/toggling-mobile-navigation-visibility-with-css-the-checkbox-hack-7ej)
-- [Code Smell 227 - Cowboy Coding](https://dev.to/mcsee/code-smell-227-cowboy-coding-38kb)
-- [Docker Best Practices.](https://dev.to/hazarnenni/docker-best-practices-55j0)
 <!-- BLOG-POST-LIST:END -->
 
