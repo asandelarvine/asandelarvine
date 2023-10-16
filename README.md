@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Issues That Will Help You Grow as a top contributor in Opensource 🏅🏅](https://dev.to/firecampdev/10-issues-that-will-help-you-grow-as-a-top-contributor-in-opensource-261p)
-- [Top 25 Code Repository interview questions](https://dev.to/fromfullstack/top-25-code-repository-interview-questions-ea8)
-- [The Power of Progressive Web Apps: Enhancing User Experience and Engagement](https://dev.to/arafatweb/the-power-of-progressive-web-apps-enhancing-user-experience-and-engagement-236m)
-- [🐘 Introduction to Docker Compose](https://dev.to/refine/introduction-to-docker-compose-1i1i)
+- [Automate Form Submission: ChatGPT-Powered Bot with Google Sheet Integration via Automatio 🤖](https://dev.to/moonly/automate-form-submission-chatgpt-powered-bot-with-google-sheet-integration-via-automatio-2i74)
+- [🟣 Compilation of Best Full Stack Clones: Amazon, Airbnb, Fiverr, Whatsapp, Netflix, Spotify, Youtube, Zoom &amp; Candy Crush](https://dev.to/kishansheth/compilation-of-best-full-stack-clones-amazon-airbnb-fiverr-whatsapp-netflix-spotify-youtube-zoom-candy-crush-3b8n)
+- [The Future of iOS App Development: Emerging Technologies](https://dev.to/piyalidebroy/the-future-of-ios-app-development-emerging-technologies-3dg1)
+- [How to monitor your requests between multiple applications... 🤔](https://dev.to/odigos/how-to-monitor-your-requests-between-multiple-applications-4fi8)
 <!-- BLOG-POST-LIST:END -->
 
