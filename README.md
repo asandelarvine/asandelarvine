@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What actually happens when you type google.com in your browser and press Enter](https://dev.to/mbianoubradon/what-actually-happens-when-you-type-googlecom-in-your-browser-and-press-enter-1674)
 - [Hactoberfest Completed](https://dev.to/mannu/hactoberfest-completed-5dm2)
 - [Optimizing React Components: A Guide to useCallback and useMemo](https://dev.to/dickinsontiwari/optimizing-react-components-a-guide-to-usecallback-and-usememo-3mgk)
 - [🚀 API authorization in API Maker](https://dev.to/apimaker/api-authorization-in-api-maker-pcm)
-- [JWT con Node y Express](https://dev.to/fynio/jwt-con-node-y-express-6dh)
 <!-- BLOG-POST-LIST:END -->
 
