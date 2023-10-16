@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [npm projects](https://dev.to/itsmohamedyahia/npm-projects-4o7a)
-- [Learning HTML: A Beginner&#39;s Guide to Web Development](https://dev.to/ronbryon/learning-html-a-beginners-guide-to-web-development-3hmo)
-- [Dall-E 3 vs MidJourney - Which is better?](https://dev.to/jeremycmorgan/dall-e-3-vs-midjourney-which-is-better-88j)
-- [How To Cache Playwright Browser On Github Actions](https://dev.to/ayomiku222/how-to-cache-playwright-browser-on-github-actions-51o6)
+- [C - Pointer &amp; Struct](https://dev.to/jasperoh/c-pointer-struct-44o)
+- [React Ecosystem in 2024](https://dev.to/avinashvagh/react-ecosystem-in-2024-418k)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-6di)
+- [FaaS Comparison: AWS Lambda vs Azure Functions](https://dev.to/aws-builders/faas-comparison-aws-lambda-vs-azure-functions-4110)
 <!-- BLOG-POST-LIST:END -->
 
