@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Wasp Launch Week #4: Waspolution + win swag! 👕🐝](https://dev.to/wasp/announcing-wasp-launch-week-4-waspolution-win-swag-4i85)
+- [1 hour features](https://dev.to/alertpix/1-hour-features-1la7)
+- [CS61A: Projeto Hog &lpar;Parte 2&rpar;](https://dev.to/matt1cs/cs61a-projeto-hog-parte-2-13al)
 - [Automate Form Submission: ChatGPT-Powered Bot with Google Sheet Integration via Automatio 🤖](https://dev.to/moonly/automate-form-submission-chatgpt-powered-bot-with-google-sheet-integration-via-automatio-2i74)
-- [🟣 Compilation of Best Full Stack Clones: Amazon, Airbnb, Fiverr, Whatsapp, Netflix, Spotify, Youtube, Zoom &amp; Candy Crush](https://dev.to/kishansheth/compilation-of-best-full-stack-clones-amazon-airbnb-fiverr-whatsapp-netflix-spotify-youtube-zoom-candy-crush-3b8n)
-- [The Future of iOS App Development: Emerging Technologies](https://dev.to/piyalidebroy/the-future-of-ios-app-development-emerging-technologies-3dg1)
-- [How to monitor your requests between multiple applications... 🤔](https://dev.to/odigos/how-to-monitor-your-requests-between-multiple-applications-4fi8)
 <!-- BLOG-POST-LIST:END -->
 
