@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [esProc SPL: A High-Performance Data Analysis Engine](https://dev.to/grayhat/esproc-spl-a-high-performance-data-analysis-engine-2cbo)
 - [☸️ Kubernetes NGINX Ingress Controller: 10+ Complementary Configurations for Web Applications](https://dev.to/zenika/kubernetes-nginx-ingress-controller-10-complementary-configurations-for-web-applications-ken)
 - [Weekly Roundup &lpar;Oct 9&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-oct-9-hot-topics-in-workplace-sharepoint-and-powerplatform-6g8)
 - [Unveiling IoT and Sensor Data Insights with Apache Age](https://dev.to/danielwambo/unveiling-iot-and-sensor-data-insights-with-apache-age-4lhg)
-- [10 VS Code Extensions To Boost Your Productivity as a Web Developer](https://dev.to/devshefali/10-vs-code-extensions-to-boost-your-productivity-as-a-web-developer-2nej)
 <!-- BLOG-POST-LIST:END -->
 
