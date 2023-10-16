@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goal for the week of Oct 16? HacktoberFest?](https://dev.to/jarvisscript/what-are-your-goal-for-the-week-of-oct-16-hacktoberfest-461j)
-- [Quarkus 3.4 - Container-first Java Stack: Install with OpenJDK 21 and Create REST API](https://dev.to/nabbisen/quarkus-34-container-first-java-stack-install-with-openjdk-21-and-create-rest-api-h81)
-- [Prefer Accommodating Over Accurate App Experiences](https://dev.to/solidi/prefer-accommodating-over-accurate-app-experiences-7nh)
-- [Contribute to Swirl this Hacktoberfest. Win Swags up to $100](https://dev.to/srbhr/contribute-to-swirl-this-hacktoberfest-win-swags-up-to-100-40ii)
+- [Dicas de estudo para se manter atualizado em TI](https://dev.to/fhmurakami/dicas-de-estudo-para-se-manter-atualizado-em-ti-3l6f)
+- [Boost your experience with Postman - Part II](https://dev.to/m4rri4nne/boost-your-experience-with-postman-part-ii-5cde)
+- [FastStream: Python&#39;s framework for Efficient Message Queue Handling](https://dev.to/airtai/faststream-pythons-framework-for-efficient-message-queue-handling-3pd2)
+- [Startup Testing Dilemma: E2E or Not E2E?](https://dev.to/jsfez/startup-testing-dilemma-e2e-or-not-e2e-46nj)
 <!-- BLOG-POST-LIST:END -->
 
