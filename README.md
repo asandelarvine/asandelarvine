@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Linux 8 NEXUS OSS Kurulumu](https://dev.to/aciklab/oracle-linux-8-nexus-oss-kurulumu-2lb8)
+- [Website Sitemaps 101: your website’s guide to success](https://dev.to/jyotiogennavar/website-sitemaps-101-your-websites-guide-to-success-5g1c)
+- [How to Make Money From Digital Healthcare App?](https://dev.to/ijackseifert/how-to-make-money-from-digital-healthcare-app-la)
 - [3 Best School Library Management Sofware](https://dev.to/lijon/3-best-school-library-management-sofware-27m7)
-- [✨ 8 components to become a React master 🧙‍♂️ 🪄](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)
-- [Implement custom retry logic with SQS &amp; Lambda - Part I - using SQS delayed messages](https://dev.to/aws-builders/implement-custom-retry-logic-with-sqs-lambda-part-i-using-sqs-delayed-messages-gpa)
-- [What actually happens when you type google.com in your browser and press Enter](https://dev.to/mbianoubradon/what-actually-happens-when-you-type-googlecom-in-your-browser-and-press-enter-1674)
 <!-- BLOG-POST-LIST:END -->
 
