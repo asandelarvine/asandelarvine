@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Hacktoberfest 2023 Repository for newbie contributors](https://dev.to/inuad/my-hacktoberfest-2023-repository-for-newbie-contributors-1o1k)
 - [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
 - [[off-topic] Top 5 Playlists Que Eu Escuto Enquanto Estou Programando](https://dev.to/analaura/off-topic-top-5-playlists-que-eu-escuto-enquanto-programo-537e)
 - [Unveiling the Power of K-Nearest Neighbors &lpar;KNN&rpar; in Machine Learning](https://dev.to/edelapaz/unveiling-the-power-of-k-nearest-neighbors-knn-in-machine-learning-5b0a)
-- [Get involved: Your guide to contributing to WebCrumbs](https://dev.to/opensourcee/get-involved-your-guide-to-contributing-to-webcrumbs-30p7)
 <!-- BLOG-POST-LIST:END -->
 
