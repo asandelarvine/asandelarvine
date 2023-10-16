@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [npm projects](https://dev.to/itsmohamedyahia/npm-projects-4o7a)
+- [Learning HTML: A Beginner&#39;s Guide to Web Development](https://dev.to/ronbryon/learning-html-a-beginners-guide-to-web-development-3hmo)
 - [Dall-E 3 vs MidJourney - Which is better?](https://dev.to/jeremycmorgan/dall-e-3-vs-midjourney-which-is-better-88j)
 - [How To Cache Playwright Browser On Github Actions](https://dev.to/ayomiku222/how-to-cache-playwright-browser-on-github-actions-51o6)
-- [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
-- [It&#39;s all just a little bit of history repeating](https://dev.to/alvaromontoro/its-all-just-a-little-bit-of-history-repeating-13oc)
 <!-- BLOG-POST-LIST:END -->
 
