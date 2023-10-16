@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Wasp Launch Week #4: Waspolution + win swag! 👕🐝](https://dev.to/wasp/announcing-wasp-launch-week-4-waspolution-win-swag-4i85)
-- [1 hour features](https://dev.to/alertpix/1-hour-features-1la7)
-- [CS61A: Projeto Hog &lpar;Parte 2&rpar;](https://dev.to/matt1cs/cs61a-projeto-hog-parte-2-13al)
-- [Automate Form Submission: ChatGPT-Powered Bot with Google Sheet Integration via Automatio 🤖](https://dev.to/moonly/automate-form-submission-chatgpt-powered-bot-with-google-sheet-integration-via-automatio-2i74)
+- [What are your goal for the week of Oct 16? HacktoberFest?](https://dev.to/jarvisscript/what-are-your-goal-for-the-week-of-oct-16-hacktoberfest-461j)
+- [Quarkus 3.4 - Container-first Java Stack: Install with OpenJDK 21 and Create REST API](https://dev.to/nabbisen/quarkus-34-container-first-java-stack-install-with-openjdk-21-and-create-rest-api-h81)
+- [Prefer Accommodating Over Accurate App Experiences](https://dev.to/solidi/prefer-accommodating-over-accurate-app-experiences-7nh)
+- [Contribute to Swirl this Hacktoberfest. Win Swags up to $100](https://dev.to/srbhr/contribute-to-swirl-this-hacktoberfest-win-swags-up-to-100-40ii)
 <!-- BLOG-POST-LIST:END -->
 
