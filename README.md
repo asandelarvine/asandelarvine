@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest 2023 Repository for newbie contributors](https://dev.to/inuad/my-hacktoberfest-2023-repository-for-newbie-contributors-1o1k)
-- [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
-- [Creating a 13kb Game in JavaScript](https://dev.to/justaguyfrombr/creating-a-13kb-game-in-javascript-42g5)
-- [[off-topic] Top 5 Playlists Que Eu Escuto Enquanto Estou Programando](https://dev.to/analaura/off-topic-top-5-playlists-que-eu-escuto-enquanto-programo-537e)
+- [Hactoberfest Completed](https://dev.to/mannu/hactoberfest-completed-5dm2)
+- [Optimizing React Components: A Guide to useCallback and useMemo](https://dev.to/dickinsontiwari/optimizing-react-components-a-guide-to-usecallback-and-usememo-3mgk)
+- [🚀 API authorization in API Maker](https://dev.to/apimaker/api-authorization-in-api-maker-pcm)
+- [JWT con Node y Express](https://dev.to/fynio/jwt-con-node-y-express-6dh)
 <!-- BLOG-POST-LIST:END -->
 
