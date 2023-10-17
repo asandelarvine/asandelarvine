@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [24 Open-Source Projects for Developers in 2023 🔥👍](https://dev.to/madza/24-open-source-projects-for-developers-in-2023-391l)
+- [FLaNK Stack Weekly 16 October 2023](https://dev.to/tspannhw/flank-stack-weekly-16-october-2023-3md)
 - [Cognitive Load and Your Development Environment](https://dev.to/abbeyperini/cognitive-load-and-your-development-environment-2nc3)
-- [Your 5-Minute Guide to Creating Your Own ERC20 Token](https://dev.to/braxton/your-5-minute-guide-to-creating-your-own-erc20-token-22h9)
-- [What are you reading now? &lpar;plus a photo of my cat&rpar;](https://dev.to/opensourcee/what-are-you-reading-now-plus-a-photo-of-my-cat-1ma3)
-- [Entendendo Algoritmos - Segunda Semana](https://dev.to/loremimpsu/entendendo-algoritmos-segunda-semana-ao0)
+- [Reason and React Meta-Frameworks](https://dev.to/psb/reason-and-react-meta-frameworks-d7n)
 <!-- BLOG-POST-LIST:END -->
 
