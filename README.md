@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Docker Commands: Managing Containers Like a Pro](https://dev.to/ayomiku222/a-comprehensive-guide-to-docker-commands-managing-containers-like-a-pro-43li)
-- [🚀 Turn your face into a super-hero with NextJS, Replicate, and Trigger.dev 🦸🏻‍♂️](https://dev.to/triggerdotdev/turn-your-face-into-a-super-hero-with-nextjs-replicate-and-triggerdev-17ln)
-- [Step-Step Complete Guide Cryptocurrency MLM Software Development](https://dev.to/comfygenpvt/step-step-complete-guide-cryptocurrency-mlm-software-development-1hb1)
-- [WebAssembly with Go: Taking Web Apps to the Next Level](https://dev.to/permify/webassembly-with-go-taking-web-apps-to-the-next-level-1imd)
+- [Cognitive Load and Your Development Environment](https://dev.to/abbeyperini/cognitive-load-and-your-development-environment-2nc3)
+- [Your 5-Minute Guide to Creating Your Own ERC20 Token](https://dev.to/braxton/your-5-minute-guide-to-creating-your-own-erc20-token-22h9)
+- [What are you reading now? &lpar;plus a photo of my cat&rpar;](https://dev.to/opensourcee/what-are-you-reading-now-plus-a-photo-of-my-cat-1ma3)
+- [Entendendo Algoritmos - Segunda Semana](https://dev.to/loremimpsu/entendendo-algoritmos-segunda-semana-ao0)
 <!-- BLOG-POST-LIST:END -->
 
