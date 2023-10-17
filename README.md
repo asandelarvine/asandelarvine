@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Maker - Headers](https://dev.to/apimaker/api-maker-headers-jcm)
-- [Configuring Host names &amp; Name resolution](https://dev.to/randiakm/configuring-host-names-name-resolution-p2l)
-- [💡 An important addition on deploying a Go application in Docker, if net/http is used](https://dev.to/koddr/an-important-addition-on-deploying-a-go-application-in-docker-if-nethttp-is-used-4mjd)
-- [5 Tips on How To Create The Perfect Freelancer Profile.](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-53op)
+- [Create an Animated Gradient Text with Tailwind CSS](https://dev.to/cruip_com/create-an-animated-gradient-text-with-tailwind-css-1496)
+- [✨7 Github Repositories to Master React](https://dev.to/taquiimam14/7-github-repositories-to-master-react-446)
+- [Crossplane: Streamline your infrastructure provisioning &amp; management](https://dev.to/polarsquad/crossplane-streamline-your-infrastructure-provisioning-management-3hni)
+- [CSS : Inline vs Inline-Block, vs Block](https://dev.to/speaklouder/css-inline-vs-inline-block-vs-block-o98)
 <!-- BLOG-POST-LIST:END -->
 
