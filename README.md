@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Diving into CORS with Nitric in GO](https://dev.to/rsiv/diving-into-cors-with-nitric-in-go-fpi)
+- [Are You Motivated or Disciplined?](https://dev.to/codenewbieteam/are-you-motivated-or-disciplined-m7l)
 - [If You Could Redefine Your Life, What Career Would You Choose?](https://dev.to/devteam/if-you-could-redefine-your-life-what-career-would-you-choose-2ei1)
 - [Conhecendo o ecossistema Crystal: ferramentas e projetos](https://dev.to/he4rt/conhecendo-o-ecossistema-crystal-ferramentas-e-projetos-49m1)
-- [Best Kubernetes DevOps Tools: A Comprehensive Guide](https://dev.to/dsudia/best-kubernetes-devops-tools-a-comprehensive-guide-da9)
-- [Blueprint: Navigating the UX to Code Handoff](https://dev.to/mrrogercampbell/blueprint-navigating-the-ux-to-code-handoff-2ofm)
 <!-- BLOG-POST-LIST:END -->
 
