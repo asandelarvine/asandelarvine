@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT vs. Industry Giants: How It Stacks Up Against Other AI Chatbots](https://dev.to/agarralexx/chatgpt-vs-industry-giants-how-it-stacks-up-against-other-ai-chatbots-25bk)
+- [👾 Making Open Source contributions a GAME? 🎲](https://dev.to/jobenjada/making-open-source-contributions-a-game-2m1b)
+- [Q3 2023 update - Notifications](https://dev.to/azasypkin/q3-2023-update-notifications-27jd)
 - [Where are the Good Bots?](https://dev.to/sarthology/where-are-the-good-bots-5fjb)
-- [Web Designers, Architects, and More: 5 Use Cases of Bing Chat Enterprise](https://dev.to/jaloplo/web-designers-architects-and-more-5-use-cases-of-bing-chat-enterprise-2n3d)
-- [Create an Animated Gradient Text with Tailwind CSS](https://dev.to/cruip_com/create-an-animated-gradient-text-with-tailwind-css-1496)
-- [Make Notion search great again: Notion API](https://dev.to/brainhubeu/make-notion-search-great-again-notion-api-55pp)
 <!-- BLOG-POST-LIST:END -->
 
