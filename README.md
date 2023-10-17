@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 API Maker - Headers](https://dev.to/apimaker/api-maker-headers-jcm)
+- [Configuring Host names &amp; Name resolution](https://dev.to/randiakm/configuring-host-names-name-resolution-p2l)
 - [💡 An important addition on deploying a Go application in Docker, if net/http is used](https://dev.to/koddr/an-important-addition-on-deploying-a-go-application-in-docker-if-nethttp-is-used-4mjd)
 - [5 Tips on How To Create The Perfect Freelancer Profile.](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-53op)
-- [How To Handle Microsoft Graph Paging in PowerShell](https://dev.to/this-is-learning/how-to-handle-microsoft-graph-paging-in-powershell-4l8m)
-- [Creating Issues in GitHub](https://dev.to/gravy/creating-issues-in-github-2758)
 <!-- BLOG-POST-LIST:END -->
 
