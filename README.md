@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔍 Save these 5 free platforms next time you&#39;re looking to contribute to open source 👩‍💻](https://dev.to/quine/save-these-5-free-platforms-next-time-you-contribute-to-open-source-50c2)
+- [Validating structural data with Valibot](https://dev.to/logrocket/validating-structural-data-with-valibot-1ae2)
 - [Getting Started with GitHub Actions](https://dev.to/nirzak/getting-started-with-github-actions-1ppa)
-- [My Experience on Hacktoberfest 2023](https://dev.to/nirzak/my-experience-on-hacktoberfest-2023-207g)
-- [Website&#39;s best for JavaScript beginners!](https://dev.to/pujita789/websites-best-for-javascript-beginners-44m)
-- [Amazon Rolls Out Passkeys](https://dev.to/vdelitz/amazon-rolls-out-passkeys-1f1b)
+- [Enumerations in C](https://dev.to/pauljlucas/enumerations-in-c-ae7)
 <!-- BLOG-POST-LIST:END -->
 
