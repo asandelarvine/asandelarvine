@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with GitHub Actions](https://dev.to/nirzak/getting-started-with-github-actions-1ppa)
+- [My Experience on Hacktoberfest 2023](https://dev.to/nirzak/my-experience-on-hacktoberfest-2023-207g)
 - [Website&#39;s best for JavaScript beginners!](https://dev.to/pujita789/websites-best-for-javascript-beginners-44m)
 - [Amazon Rolls Out Passkeys](https://dev.to/vdelitz/amazon-rolls-out-passkeys-1f1b)
-- [Automate repetitive tasks with Next.js cron jobs](https://dev.to/logrocket/automate-repetitive-tasks-with-nextjs-cron-jobs-5dpn)
-- [Sending Notifications In Your Web Apps](https://dev.to/oluwatobi_/sending-notifications-in-your-web-apps-3iof)
 <!-- BLOG-POST-LIST:END -->
 
