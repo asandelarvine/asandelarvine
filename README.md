@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonly weekly progress update #66 - Upgraded Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-66-upgraded-raffle-feature-and-twitter-space-giveaway-3epb)
 - [Reference: CSS Units](https://dev.to/mshertzberg/reference-css-units-94a)
 - [GitHub Form Templates](https://dev.to/this-is-learning/github-form-templates-3n49)
 - [COPILOT, my Precious: Steering the Ship with Gandalf as Your First Mate](https://dev.to/balagmadhu/copilot-my-precious-steering-the-ship-with-gandalf-as-your-first-mate-4mja)
-- [VueJS part 8: Creating the Vue app with CLI](https://dev.to/hi_iam_chris/vuejs-part-8-creating-the-vue-app-with-cli-4gkb)
 <!-- BLOG-POST-LIST:END -->
 
