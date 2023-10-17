@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Where are the Good Bots?](https://dev.to/sarthology/where-are-the-good-bots-5fjb)
+- [Web Designers, Architects, and More: 5 Use Cases of Bing Chat Enterprise](https://dev.to/jaloplo/web-designers-architects-and-more-5-use-cases-of-bing-chat-enterprise-2n3d)
 - [Create an Animated Gradient Text with Tailwind CSS](https://dev.to/cruip_com/create-an-animated-gradient-text-with-tailwind-css-1496)
-- [✨7 Github Repositories to Master React](https://dev.to/taquiimam14/7-github-repositories-to-master-react-446)
-- [Crossplane: Streamline your infrastructure provisioning &amp; management](https://dev.to/polarsquad/crossplane-streamline-your-infrastructure-provisioning-management-3hni)
-- [CSS : Inline vs Inline-Block, vs Block](https://dev.to/speaklouder/css-inline-vs-inline-block-vs-block-o98)
+- [Make Notion search great again: Notion API](https://dev.to/brainhubeu/make-notion-search-great-again-notion-api-55pp)
 <!-- BLOG-POST-LIST:END -->
 
