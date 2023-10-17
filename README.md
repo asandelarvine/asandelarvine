@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to ⚡FastAPI](https://dev.to/refine/an-introduction-to-fastapi-2fda)
 - [ChatGPT vs. Industry Giants: How It Stacks Up Against Other AI Chatbots](https://dev.to/agarralexx/chatgpt-vs-industry-giants-how-it-stacks-up-against-other-ai-chatbots-25bk)
 - [👾 Making Open Source contributions a GAME? 🎲](https://dev.to/jobenjada/making-open-source-contributions-a-game-2m1b)
 - [Q3 2023 update - Notifications](https://dev.to/azasypkin/q3-2023-update-notifications-27jd)
-- [Where are the Good Bots?](https://dev.to/sarthology/where-are-the-good-bots-5fjb)
 <!-- BLOG-POST-LIST:END -->
 
