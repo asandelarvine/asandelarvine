@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No code API development for front end engineer/web developer 🔥](https://dev.to/lakshmananarumugam/no-code-api-development-for-front-end-engineerweb-developer-29c0)
-- [Implementing Mobile Push Notifications with AWS using Terraform](https://dev.to/onepoint/implementing-mobile-push-notifications-with-aws-using-terraform-1lb3)
-- [🔍 Save these 5 free platforms next time you&#39;re looking to contribute to open source 👩‍💻](https://dev.to/quine/save-these-5-free-platforms-next-time-you-contribute-to-open-source-50c2)
-- [Validating structural data with Valibot](https://dev.to/logrocket/validating-structural-data-with-valibot-1ae2)
+- [COPILOT, my Precious: Steering the Ship with Gandalf as Your First Mate](https://dev.to/balagmadhu/copilot-my-precious-steering-the-ship-with-gandalf-as-your-first-mate-4mja)
+- [VueJS part 8: Creating the Vue app with CLI](https://dev.to/hi_iam_chris/vuejs-part-8-creating-the-vue-app-with-cli-4gkb)
+- [Unlocking the Potential of Remote Work: How Hosting Services Empower Distributed Teams](https://dev.to/aroraamn/unlocking-the-potential-of-remote-work-how-hosting-services-empower-distributed-teams-d0b)
+- [Hummock: A Storage Engine Designed for Stream Processing](https://dev.to/__354f265b41dafa0d901b/hummock-a-storage-engine-designed-for-stream-processing-1ejk)
 <!-- BLOG-POST-LIST:END -->
 
