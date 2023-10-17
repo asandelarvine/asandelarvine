@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Diving into CORS with Nitric in GO](https://dev.to/rsiv/diving-into-cors-with-nitric-in-go-fpi)
-- [Working with forms in SvelteKit coming from React](https://dev.to/nicholascostadev/working-with-forms-in-sveltekit-coming-from-react-5a2n)
-- [If You Could Redefine Your Life, What Career Would You Choose?](https://dev.to/devteam/if-you-could-redefine-your-life-what-career-would-you-choose-2ei1)
-- [Are You Motivated or Disciplined?](https://dev.to/codenewbieteam/are-you-motivated-or-disciplined-m7l)
+- [💡 An important addition on deploying a Go application in Docker, if net/http is used](https://dev.to/koddr/an-important-addition-on-deploying-a-go-application-in-docker-if-nethttp-is-used-4mjd)
+- [5 Tips on How To Create The Perfect Freelancer Profile.](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-53op)
+- [How To Handle Microsoft Graph Paging in PowerShell](https://dev.to/this-is-learning/how-to-handle-microsoft-graph-paging-in-powershell-4l8m)
+- [Creating Issues in GitHub](https://dev.to/gravy/creating-issues-in-github-2758)
 <!-- BLOG-POST-LIST:END -->
 
