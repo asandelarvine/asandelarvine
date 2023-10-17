@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [No code API development for front end engineer/web developer 🔥](https://dev.to/lakshmananarumugam/no-code-api-development-for-front-end-engineerweb-developer-29c0)
+- [Implementing Mobile Push Notifications with AWS using Terraform](https://dev.to/onepoint/implementing-mobile-push-notifications-with-aws-using-terraform-1lb3)
 - [🔍 Save these 5 free platforms next time you&#39;re looking to contribute to open source 👩‍💻](https://dev.to/quine/save-these-5-free-platforms-next-time-you-contribute-to-open-source-50c2)
 - [Validating structural data with Valibot](https://dev.to/logrocket/validating-structural-data-with-valibot-1ae2)
-- [Getting Started with GitHub Actions](https://dev.to/nirzak/getting-started-with-github-actions-1ppa)
-- [Enumerations in C](https://dev.to/pauljlucas/enumerations-in-c-ae7)
 <!-- BLOG-POST-LIST:END -->
 
