@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to ⚡FastAPI](https://dev.to/refine/an-introduction-to-fastapi-2fda)
-- [ChatGPT vs. Industry Giants: How It Stacks Up Against Other AI Chatbots](https://dev.to/agarralexx/chatgpt-vs-industry-giants-how-it-stacks-up-against-other-ai-chatbots-25bk)
-- [👾 Making Open Source contributions a GAME? 🎲](https://dev.to/jobenjada/making-open-source-contributions-a-game-2m1b)
-- [Q3 2023 update - Notifications](https://dev.to/azasypkin/q3-2023-update-notifications-27jd)
+- [Step-Step Complete Guide Cryptocurrency MLM Software Development](https://dev.to/comfygenpvt/step-step-complete-guide-cryptocurrency-mlm-software-development-1hb1)
+- [👥 From Candidate to Colleague: Acing a competitive Junior-level recruitment challenge📋](https://dev.to/wasp/from-candidate-to-colleague-acing-a-competitive-junior-level-recruitment-challenge-l3k)
+- [WebAssembly with Go: Taking Web Apps to the Next Level](https://dev.to/permify/webassembly-with-go-taking-web-apps-to-the-next-level-1imd)
+- [The Ultimate Tech Stack for Building a Full-Stack MVP and Iterating Quickly](https://dev.to/martinxpn/the-ultimate-tech-stack-for-building-a-full-stack-mvp-and-iterating-quickly-3cdk)
 <!-- BLOG-POST-LIST:END -->
 
