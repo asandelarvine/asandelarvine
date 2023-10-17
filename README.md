@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [If You Could Redefine Your Life, What Career Would You Choose?](https://dev.to/devteam/if-you-could-redefine-your-life-what-career-would-you-choose-2ei1)
 - [Conhecendo o ecossistema Crystal: ferramentas e projetos](https://dev.to/he4rt/conhecendo-o-ecossistema-crystal-ferramentas-e-projetos-49m1)
 - [Best Kubernetes DevOps Tools: A Comprehensive Guide](https://dev.to/dsudia/best-kubernetes-devops-tools-a-comprehensive-guide-da9)
-- [Demystifying useLocation in ReactJS: A Beginner’s Guide to Navigation](https://dev.to/gaurbprajapati/demystifying-uselocation-in-reactjs-a-beginners-guide-to-navigation-4h6f)
-- [Optimizing Gradle Builds in Multi-module Projects](https://dev.to/touchlab/optimizing-gradle-builds-in-multi-module-projects-3ijp)
+- [Blueprint: Navigating the UX to Code Handoff](https://dev.to/mrrogercampbell/blueprint-navigating-the-ux-to-code-handoff-2ofm)
 <!-- BLOG-POST-LIST:END -->
 
