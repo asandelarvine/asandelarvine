@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [24 Open-Source Projects for Developers in 2023 🔥👍](https://dev.to/madza/24-open-source-projects-for-developers-in-2023-391l)
-- [FLaNK Stack Weekly 16 October 2023](https://dev.to/tspannhw/flank-stack-weekly-16-october-2023-3md)
-- [Cognitive Load and Your Development Environment](https://dev.to/abbeyperini/cognitive-load-and-your-development-environment-2nc3)
-- [Reason and React Meta-Frameworks](https://dev.to/psb/reason-and-react-meta-frameworks-d7n)
+- [Website&#39;s best for JavaScript beginners!](https://dev.to/pujita789/websites-best-for-javascript-beginners-44m)
+- [Amazon Rolls Out Passkeys](https://dev.to/vdelitz/amazon-rolls-out-passkeys-1f1b)
+- [Automate repetitive tasks with Next.js cron jobs](https://dev.to/logrocket/automate-repetitive-tasks-with-nextjs-cron-jobs-5dpn)
+- [Sending Notifications In Your Web Apps](https://dev.to/oluwatobi_/sending-notifications-in-your-web-apps-3iof)
 <!-- BLOG-POST-LIST:END -->
 
