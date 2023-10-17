@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Diving into CORS with Nitric in GO](https://dev.to/rsiv/diving-into-cors-with-nitric-in-go-fpi)
-- [Are You Motivated or Disciplined?](https://dev.to/codenewbieteam/are-you-motivated-or-disciplined-m7l)
+- [Working with forms in SvelteKit coming from React](https://dev.to/nicholascostadev/working-with-forms-in-sveltekit-coming-from-react-5a2n)
 - [If You Could Redefine Your Life, What Career Would You Choose?](https://dev.to/devteam/if-you-could-redefine-your-life-what-career-would-you-choose-2ei1)
-- [Conhecendo o ecossistema Crystal: ferramentas e projetos](https://dev.to/he4rt/conhecendo-o-ecossistema-crystal-ferramentas-e-projetos-49m1)
+- [Are You Motivated or Disciplined?](https://dev.to/codenewbieteam/are-you-motivated-or-disciplined-m7l)
 <!-- BLOG-POST-LIST:END -->
 
