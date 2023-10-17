@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conhecendo o ecossistema Crystal: ferramentas e projetos](https://dev.to/he4rt/conhecendo-o-ecossistema-crystal-ferramentas-e-projetos-49m1)
+- [Best Kubernetes DevOps Tools: A Comprehensive Guide](https://dev.to/dsudia/best-kubernetes-devops-tools-a-comprehensive-guide-da9)
 - [Demystifying useLocation in ReactJS: A Beginner’s Guide to Navigation](https://dev.to/gaurbprajapati/demystifying-uselocation-in-reactjs-a-beginners-guide-to-navigation-4h6f)
 - [Optimizing Gradle Builds in Multi-module Projects](https://dev.to/touchlab/optimizing-gradle-builds-in-multi-module-projects-3ijp)
-- [C - Pointer &amp; Struct](https://dev.to/jasperoh/c-pointer-struct-44o)
-- [React Ecosystem in 2024](https://dev.to/avinashvagh/react-ecosystem-in-2024-418k)
 <!-- BLOG-POST-LIST:END -->
 
