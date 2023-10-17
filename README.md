@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Docker Commands: Managing Containers Like a Pro](https://dev.to/ayomiku222/a-comprehensive-guide-to-docker-commands-managing-containers-like-a-pro-43li)
+- [🚀 Turn your face into a super-hero with NextJS, Replicate, and Trigger.dev 🦸🏻‍♂️](https://dev.to/triggerdotdev/turn-your-face-into-a-super-hero-with-nextjs-replicate-and-triggerdev-17ln)
 - [Step-Step Complete Guide Cryptocurrency MLM Software Development](https://dev.to/comfygenpvt/step-step-complete-guide-cryptocurrency-mlm-software-development-1hb1)
-- [👥 From Candidate to Colleague: Acing a competitive Junior-level recruitment challenge📋](https://dev.to/wasp/from-candidate-to-colleague-acing-a-competitive-junior-level-recruitment-challenge-l3k)
 - [WebAssembly with Go: Taking Web Apps to the Next Level](https://dev.to/permify/webassembly-with-go-taking-web-apps-to-the-next-level-1imd)
-- [The Ultimate Tech Stack for Building a Full-Stack MVP and Iterating Quickly](https://dev.to/martinxpn/the-ultimate-tech-stack-for-building-a-full-stack-mvp-and-iterating-quickly-3cdk)
 <!-- BLOG-POST-LIST:END -->
 
