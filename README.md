@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [😍 How to set up a WebSocket connection with Node and React?](https://dev.to/refine/how-to-set-up-a-websocket-connection-with-node-and-react-dn9)
-- [10 Bad Habits That Can Slow Down Your JavaScript Applications 🐌](https://dev.to/mattryanmtl/10-bad-habits-that-can-slow-down-your-javascript-applications-3f2p)
-- [Azure fundamentals concepts - AZ 900](https://dev.to/keerthan0521/azure-fundamentals-concepts-az-900-2pp7)
-- [Leveraging Temporal for resilient remote procedure calls &lpar;RPC&rpar;](https://dev.to/escape/leveraging-temporal-for-resilient-remote-procedure-calls-rpc-34l4)
+- [How I built a session recommender in 1 hour using Open AI](https://dev.to/azure/how-i-built-a-session-recommender-in-1-hour-using-open-ai-5419)
+- [Will StackOverflow survive AI?](https://dev.to/polterguy/will-stackoverflow-survive-ai-420e)
+- [JSX Unchained: Make a template engine without React](https://dev.to/argonauta/jsx-unchained-make-a-template-engine-4h56)
+- [Need for Automation - GitOps at Scale](https://dev.to/harness/need-for-automation-gitops-at-scale-1dcp)
 <!-- BLOG-POST-LIST:END -->
 
