@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 8 is on the Way! 7 Features that will blow your mind 🤯](https://dev.to/bytehide/net-8-is-on-the-way-7-features-that-will-blow-your-mind-32gh)
-- [Routing is FUN - the Web is weird, but fun](https://dev.to/nombrekeff/routing-is-fun-the-web-is-weird-but-fun-iap)
-- [SSH 101: Junior to Senior Web Dev Roadmap](https://dev.to/aswin2001barath/ssh-101-junior-to-senior-web-dev-roadmap-2l31)
-- [10 Bad Practices to Avoid in ASP.NET Core API Controllers](https://dev.to/yogini16/10-bad-practices-to-avoid-in-aspnet-core-api-controllers-2pba)
+- [🚀 API Maker - Call external APIs](https://dev.to/apimaker/api-maker-call-external-apis-3ekd)
+- [Welcome Thread - v247](https://dev.to/devteam/welcome-thread-v247-11p4)
+- [ZenGPT: a simple ChapGPT alternative frontend](https://dev.to/christianfei/zengpt-a-simple-chapgpt-alternative-frontend-2kln)
+- [What shiny new object is good to learn now?](https://dev.to/highcenburg/whats-shiny-new-object-is-good-to-learn-now-2i9i)
 <!-- BLOG-POST-LIST:END -->
 
