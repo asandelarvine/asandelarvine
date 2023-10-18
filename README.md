@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WYSIWYG for MDX?! Introducing Vrite&#39;s Hybrid Editor](https://dev.to/vrite/wysiwyg-for-mdx-introducing-vrites-hybrid-editor-4j13)
-- [Azure Storage Account service -learning day 2](https://dev.to/rashmiranjan28/azure-storage-account-service-learning-day-2-22a8)
-- [The Role of Data Analytics in the Telecom Industry](https://dev.to/flutterwtf/the-role-of-data-analytics-in-the-telecom-industry-32ak)
-- [NextGenCSS 🔥: Transform Frontend With this NEW CSS framework work!!](https://dev.to/rudransh61/nextgencss-transform-frontend-with-this-new-css-framework-work-4bl2)
+- [An Introduction to Ruby](https://dev.to/dumebii/an-introduction-to-ruby-33fk)
+- [Respect reduced motion preference for animated GIFs in WordPress](https://dev.to/ingosteinke/respect-reduced-motion-preference-for-animated-gifs-in-wordpress-53i7)
+- [The cutest tools to practice CSS 🧃](https://dev.to/jeeanny/the-best-way-to-master-css-3fdf)
+- [Python: creating tokens without the Django auth models](https://dev.to/bumho12/creating-tokens-without-the-django-user-model-3fmj)
 <!-- BLOG-POST-LIST:END -->
 
