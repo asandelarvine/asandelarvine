@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you learn from a chaotic code base?](https://dev.to/highcenburg/how-do-you-learn-a-chaotic-code-base-2fi6)
-- [Level Up Your OOP Knowledge with Nintendo Switch 🎮👾](https://dev.to/juandadev/level-up-your-oop-knowledge-with-nintendo-switch-78n)
-- [Escreva o melhor markdown que você ja fez com esses 5 snippets](https://dev.to/lixeletto/escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni)
-- [React Native vs Flutter: My Opinion](https://dev.to/jayantaadhikary/react-native-vs-flutter-my-opinion-770)
+- [Email Marketing Best Practices for Developers: A Guide to Effective Campaigns](https://dev.to/kevinmutua/email-marketing-best-practices-for-developers-a-guide-to-effective-campaigns-12b0)
+- [Tutorial paso a paso: Desarrollando y desplegando una aplicación Java Spring Boot con Azure DevOps I](https://dev.to/danieljsaldana/tutorial-paso-a-paso-desarrollando-y-desplegando-una-aplicacion-java-spring-boot-con-azure-devops-i-1f8a)
+- [JavaScript ES6 Features Every Developer Should Know.](https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak)
+- [Unlocking the Power of Proxies: JavaScript&#39;s Secret Superheroes](https://dev.to/this-is-learning/unlocking-the-power-of-proxies-javascripts-secret-superheroes-2298)
 <!-- BLOG-POST-LIST:END -->
 
