@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨Big News! Renaming: TW Elements is the new name of the game, TWE for short! 🚨](https://dev.to/mdbootstrap/big-news-renaming-tw-elements-is-the-new-name-of-the-game-twe-for-short-1hpl)
-- [Form Validation Library | React | 2](https://dev.to/shubhamtiwari909/form-validation-library-react-2-38km)
-- [Programming Cheat Sheets for $2. Interested? Check it Out.](https://dev.to/brojenuel/programming-cheat-sheets-for-2-1k3e)
-- [🚀 API Maker - Call external APIs](https://dev.to/apimaker/api-maker-call-external-apis-3ekd)
+- [Level Up Node.js E2E and Integration Testing with OpenTelemetry](https://dev.to/kubeshop/level-up-nodejs-e2e-and-integration-testing-with-opentelemetry-5882)
+- [Episode 23/41: @defer, Application Builder, new equality check in Signals](https://dev.to/this-is-angular/episode-2341-defer-application-builder-new-equality-check-in-signals-g4f)
+- [Fault Tolerance in Distributed Systems: Strategies and Case Studies](https://dev.to/nekto0n/fault-tolerance-in-distributed-systems-strategies-and-case-studies-29d2)
+- [Explore Stylish Bootstrap 5 Free Admin Templates😇](https://dev.to/ritirathod0/explore-3-stylish-bootstrap-5-free-templates-1gel)
 <!-- BLOG-POST-LIST:END -->
 
