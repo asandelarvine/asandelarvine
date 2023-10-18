@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Jest: A Comprehensive Guide for Beginners and Intermediate Developers](https://dev.to/easewithtuts/getting-started-with-jest-a-comprehensive-guide-for-beginners-and-intermediate-developers-2ibh)
+- [Want to Master BEM CSS Like a Pro? Check out this Ultimate Guide!](https://dev.to/jaimaldullat/want-to-master-bem-css-like-a-pro-check-out-this-ultimate-guide-1nj0)
+- [How to Boost Your App&#39;s User Productivity](https://dev.to/intesar/how-to-boost-your-apps-user-productivity-1all)
 - [Moonly weekly progress update #66 - Upgraded Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-66-upgraded-raffle-feature-and-twitter-space-giveaway-3epb)
-- [Reference: CSS Units](https://dev.to/mshertzberg/reference-css-units-94a)
-- [GitHub Form Templates](https://dev.to/this-is-learning/github-form-templates-3n49)
-- [COPILOT, my Precious: Steering the Ship with Gandalf as Your First Mate](https://dev.to/balagmadhu/copilot-my-precious-steering-the-ship-with-gandalf-as-your-first-mate-4mja)
 <!-- BLOG-POST-LIST:END -->
 
