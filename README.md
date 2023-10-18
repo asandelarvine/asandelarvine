@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Routing is FUN - the Web is weird, but fun](https://dev.to/nombrekeff/routing-is-fun-the-web-is-weird-but-fun-iap)
+- [SSH 101: Junior to Senior Web Dev Roadmap](https://dev.to/aswin2001barath/ssh-101-junior-to-senior-web-dev-roadmap-2l31)
+- [10 Bad Practices to Avoid in ASP.NET Core API Controllers](https://dev.to/yogini16/10-bad-practices-to-avoid-in-aspnet-core-api-controllers-2pba)
 - [Email Marketing Best Practices for Developers: A Guide to Effective Campaigns](https://dev.to/kevinmutua/email-marketing-best-practices-for-developers-a-guide-to-effective-campaigns-12b0)
-- [Tutorial paso a paso: Desarrollando y desplegando una aplicación Java Spring Boot con Azure DevOps I](https://dev.to/danieljsaldana/tutorial-paso-a-paso-desarrollando-y-desplegando-una-aplicacion-java-spring-boot-con-azure-devops-i-1f8a)
-- [JavaScript ES6 Features Every Developer Should Know.](https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak)
-- [Unlocking the Power of Proxies: JavaScript&#39;s Secret Superheroes](https://dev.to/this-is-learning/unlocking-the-power-of-proxies-javascripts-secret-superheroes-2298)
 <!-- BLOG-POST-LIST:END -->
 
