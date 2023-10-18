@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you learn from a chaotic code base?](https://dev.to/highcenburg/how-do-you-learn-a-chaotic-code-base-2fi6)
 - [Level Up Your OOP Knowledge with Nintendo Switch 🎮👾](https://dev.to/juandadev/level-up-your-oop-knowledge-with-nintendo-switch-78n)
 - [Escreva o melhor markdown que você ja fez com esses 5 snippets](https://dev.to/lixeletto/escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni)
-- [Getting Started with Jest: A Comprehensive Guide for Beginners and Intermediate Developers](https://dev.to/easewithtuts/getting-started-with-jest-a-comprehensive-guide-for-beginners-and-intermediate-developers-2ibh)
-- [How Do You Relax?](https://dev.to/devteam/how-do-you-relax-5c0b)
+- [React Native vs Flutter: My Opinion](https://dev.to/jayantaadhikary/react-native-vs-flutter-my-opinion-770)
 <!-- BLOG-POST-LIST:END -->
 
