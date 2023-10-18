@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to Ruby](https://dev.to/dumebii/an-introduction-to-ruby-33fk)
+- [Open Source ABCs: Zsh](https://dev.to/opensauced/open-source-abcs-zsh-1hn1)
+- [JavaScript Promises](https://dev.to/umahichristopher/javascript-promises-f0i)
+- [🧑‍💻🔥 An Introduction to Ruby](https://dev.to/dumebii/an-introduction-to-ruby-33fk)
 - [Respect reduced motion preference for animated GIFs in WordPress](https://dev.to/ingosteinke/respect-reduced-motion-preference-for-animated-gifs-in-wordpress-53i7)
-- [The cutest tools to practice CSS 🧃](https://dev.to/jeeanny/the-best-way-to-master-css-3fdf)
-- [Python: creating tokens without the Django auth models](https://dev.to/bumho12/creating-tokens-without-the-django-user-model-3fmj)
 <!-- BLOG-POST-LIST:END -->
 
