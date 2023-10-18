@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Jest: A Comprehensive Guide for Beginners and Intermediate Developers](https://dev.to/easewithtuts/getting-started-with-jest-a-comprehensive-guide-for-beginners-and-intermediate-developers-2ibh)
+- [How Do You Relax?](https://dev.to/devteam/how-do-you-relax-5c0b)
 - [Want to Master BEM CSS Like a Pro? Check out this Ultimate Guide!](https://dev.to/jaimaldullat/want-to-master-bem-css-like-a-pro-check-out-this-ultimate-guide-1nj0)
 - [How to Boost Your App&#39;s User Productivity](https://dev.to/intesar/how-to-boost-your-apps-user-productivity-1all)
-- [Moonly weekly progress update #66 - Upgraded Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-66-upgraded-raffle-feature-and-twitter-space-giveaway-3epb)
 <!-- BLOG-POST-LIST:END -->
 
