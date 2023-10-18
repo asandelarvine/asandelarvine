@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your OOP Knowledge with Nintendo Switch 🎮👾](https://dev.to/juandadev/level-up-your-oop-knowledge-with-nintendo-switch-78n)
+- [Escreva o melhor markdown que você ja fez com esses 5 snippets](https://dev.to/lixeletto/escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni)
 - [Getting Started with Jest: A Comprehensive Guide for Beginners and Intermediate Developers](https://dev.to/easewithtuts/getting-started-with-jest-a-comprehensive-guide-for-beginners-and-intermediate-developers-2ibh)
 - [How Do You Relax?](https://dev.to/devteam/how-do-you-relax-5c0b)
-- [Want to Master BEM CSS Like a Pro? Check out this Ultimate Guide!](https://dev.to/jaimaldullat/want-to-master-bem-css-like-a-pro-check-out-this-ultimate-guide-1nj0)
-- [How to Boost Your App&#39;s User Productivity](https://dev.to/intesar/how-to-boost-your-apps-user-productivity-1all)
 <!-- BLOG-POST-LIST:END -->
 
