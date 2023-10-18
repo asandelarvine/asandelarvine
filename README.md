@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a session recommender in 1 hour using Open AI](https://dev.to/azure/how-i-built-a-session-recommender-in-1-hour-using-open-ai-5419)
-- [Will StackOverflow survive AI?](https://dev.to/polterguy/will-stackoverflow-survive-ai-420e)
-- [JSX Unchained: Make a template engine without React](https://dev.to/argonauta/jsx-unchained-make-a-template-engine-4h56)
-- [Need for Automation - GitOps at Scale](https://dev.to/harness/need-for-automation-gitops-at-scale-1dcp)
+- [WYSIWYG for MDX?! Introducing Vrite&#39;s Hybrid Editor](https://dev.to/vrite/wysiwyg-for-mdx-introducing-vrites-hybrid-editor-4j13)
+- [Azure Storage Account service -learning day 2](https://dev.to/rashmiranjan28/azure-storage-account-service-learning-day-2-22a8)
+- [The Role of Data Analytics in the Telecom Industry](https://dev.to/flutterwtf/the-role-of-data-analytics-in-the-telecom-industry-32ak)
+- [NextGenCSS 🔥: Transform Frontend With this NEW CSS framework work!!](https://dev.to/rudransh61/nextgencss-transform-frontend-with-this-new-css-framework-work-4bl2)
 <!-- BLOG-POST-LIST:END -->
 
