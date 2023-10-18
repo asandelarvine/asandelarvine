@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Basics: Advanced Routing in Next.js](https://dev.to/rowsanali/beyond-the-basics-advanced-routing-in-nextjs-1gml)
+- [Embracing Tech: Tools, Not Threats 🩸](https://dev.to/magnificode/embracing-tech-tools-not-threats-3fgf)
 - [Open Source ABCs: Zsh](https://dev.to/opensauced/open-source-abcs-zsh-1hn1)
 - [JavaScript Promises](https://dev.to/umahichristopher/javascript-promises-f0i)
-- [🧑‍💻🔥 An Introduction to Ruby](https://dev.to/dumebii/an-introduction-to-ruby-33fk)
-- [Respect reduced motion preference for animated GIFs in WordPress](https://dev.to/ingosteinke/respect-reduced-motion-preference-for-animated-gifs-in-wordpress-53i7)
 <!-- BLOG-POST-LIST:END -->
 
