@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Node.js E2E and Integration Testing with OpenTelemetry](https://dev.to/kubeshop/level-up-nodejs-e2e-and-integration-testing-with-opentelemetry-5882)
-- [Episode 23/41: @defer, Application Builder, new equality check in Signals](https://dev.to/this-is-angular/episode-2341-defer-application-builder-new-equality-check-in-signals-g4f)
-- [Fault Tolerance in Distributed Systems: Strategies and Case Studies](https://dev.to/nekto0n/fault-tolerance-in-distributed-systems-strategies-and-case-studies-29d2)
-- [Explore Stylish Bootstrap 5 Free Admin Templates😇](https://dev.to/ritirathod0/explore-3-stylish-bootstrap-5-free-templates-1gel)
+- [Azure fundamentals concepts - AZ 900](https://dev.to/keerthan0521/azure-fundamentals-concepts-az-900-2pp7)
+- [Leveraging Temporal for resilient remote procedure calls &lpar;RPC&rpar;](https://dev.to/escape/leveraging-temporal-for-resilient-remote-procedure-calls-rpc-34l4)
+- [Understanding functions and function signatures in Typescript](https://dev.to/fonyuygita/understanding-functions-and-function-signatures-in-typescript-5epe)
+- [From Slow to Lightning Fast: Optimizing String Concatenation in Ruby on Rails](https://dev.to/justthev/from-slow-to-lightning-fast-optimizing-string-concatenation-in-ruby-on-rails-28nk)
 <!-- BLOG-POST-LIST:END -->
 
