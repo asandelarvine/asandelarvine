@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Basics: Advanced Routing in Next.js](https://dev.to/rowsanali/beyond-the-basics-advanced-routing-in-nextjs-1gml)
-- [Embracing Tech: Tools, Not Threats 🩸](https://dev.to/magnificode/embracing-tech-tools-not-threats-3fgf)
-- [Open Source ABCs: Zsh](https://dev.to/opensauced/open-source-abcs-zsh-1hn1)
-- [JavaScript Promises](https://dev.to/umahichristopher/javascript-promises-f0i)
+- [Top 5 Code Collaboration Tools for Remote Work](https://dev.to/get_pieces/top-5-code-collaboration-tools-for-remote-work-508g)
+- [Meetup Soon](https://dev.to/tspannhw/meetup-soon-ga5)
+- [Important Hacktoberfest 2023 Completion Instructions 🚀](https://dev.to/devteam/important-hacktoberfest-2023-completion-instructions-3ldg)
+- [Erros comuns de iniciantes em ReactJS](https://dev.to/m1guelsb/erros-comuns-de-iniciantes-em-reactjs-1fla)
 <!-- BLOG-POST-LIST:END -->
 
