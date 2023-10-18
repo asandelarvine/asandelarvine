@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [😍 How to set up a WebSocket connection with Node and React?](https://dev.to/refine/how-to-set-up-a-websocket-connection-with-node-and-react-dn9)
+- [10 Bad Habits That Can Slow Down Your JavaScript Applications 🐌](https://dev.to/mattryanmtl/10-bad-habits-that-can-slow-down-your-javascript-applications-3f2p)
 - [Azure fundamentals concepts - AZ 900](https://dev.to/keerthan0521/azure-fundamentals-concepts-az-900-2pp7)
 - [Leveraging Temporal for resilient remote procedure calls &lpar;RPC&rpar;](https://dev.to/escape/leveraging-temporal-for-resilient-remote-procedure-calls-rpc-34l4)
-- [Understanding functions and function signatures in Typescript](https://dev.to/fonyuygita/understanding-functions-and-function-signatures-in-typescript-5epe)
-- [From Slow to Lightning Fast: Optimizing String Concatenation in Ruby on Rails](https://dev.to/justthev/from-slow-to-lightning-fast-optimizing-string-concatenation-in-ruby-on-rails-28nk)
 <!-- BLOG-POST-LIST:END -->
 
