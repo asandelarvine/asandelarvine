@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚨Big News! Renaming: TW Elements is the new name of the game, TWE for short! 🚨](https://dev.to/mdbootstrap/big-news-renaming-tw-elements-is-the-new-name-of-the-game-twe-for-short-1hpl)
+- [Form Validation Library | React | 2](https://dev.to/shubhamtiwari909/form-validation-library-react-2-38km)
+- [Programming Cheat Sheets for $2. Interested? Check it Out.](https://dev.to/brojenuel/programming-cheat-sheets-for-2-1k3e)
 - [🚀 API Maker - Call external APIs](https://dev.to/apimaker/api-maker-call-external-apis-3ekd)
-- [Welcome Thread - v247](https://dev.to/devteam/welcome-thread-v247-11p4)
-- [ZenGPT: a simple ChapGPT alternative frontend](https://dev.to/christianfei/zengpt-a-simple-chapgpt-alternative-frontend-2kln)
-- [What shiny new object is good to learn now?](https://dev.to/highcenburg/whats-shiny-new-object-is-good-to-learn-now-2i9i)
 <!-- BLOG-POST-LIST:END -->
 
