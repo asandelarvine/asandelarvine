@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Por debaixo do capô: async/await e as mágicas do compilador csharp](https://dev.to/angelobelchior/por-debaixo-do-capo-asyncawait-e-as-magicas-do-compilador-csharp-28ol)
+- [A simple architecture for Flutter apps](https://dev.to/jckodel/a-simple-architecture-for-flutter-apps-2424)
 - [What&#39;s your favorite scary movie? 😱](https://dev.to/devteam/whats-your-favorite-scary-movie-35lj)
 - [Dev.to articles migration to markdown files](https://dev.to/idiglove/devto-articles-migration-to-markdown-files-4iop)
-- [How to Customize SVGs using Next.js and Tailwind CSS](https://dev.to/renao/how-to-customize-svgs-using-nextjs-and-tailwind-css-39b)
-- [Top 5 Code Collaboration Tools for Remote Work](https://dev.to/get_pieces/top-5-code-collaboration-tools-for-remote-work-508g)
 <!-- BLOG-POST-LIST:END -->
 
