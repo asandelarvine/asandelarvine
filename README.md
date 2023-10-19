@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Your LinkedIn Profile Shine in the Tech World](https://dev.to/wdp/making-your-linkedin-profile-shine-in-the-tech-world-3ek5)
+- [What is Private field in JS &lpar;JavaScript&rpar;](https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0)
+- [From dropout to developer.](https://dev.to/swastikyadav/from-dropout-to-developer-ieo)
 - [Como simular APIs online sem configurar um servidor](https://dev.to/jasonchan/como-simular-apis-online-sem-configurar-um-servidor-1kho)
-- [🚀 API Maker - Database migration](https://dev.to/apimaker/api-maker-database-migration-3co8)
-- [Dockerize Nodejs and Postgres example](https://dev.to/tienbku/dockerize-nodejs-and-postgres-example-4k2j)
-- [Hacktoberfest 2023: Celebrando o Open Source💻🎃](https://dev.to/nagref/hacktoberfest-2023-celebrando-o-open-source-3oo6)
 <!-- BLOG-POST-LIST:END -->
 
