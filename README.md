@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
 - [Running web scraping service securely](https://dev.to/azasypkin/running-web-scraping-service-securely-5ap)
 - [Unraveling the Marvel of ChatGPT Development: A Journey Through Innovation](https://dev.to/agarralexx/unraveling-the-marvel-of-chatgpt-development-a-journey-through-innovation-12j1)
 - [Flutter and IoT: The Perfect Pair for Modern App Development](https://dev.to/richarddukusa/flutter-and-iot-the-perfect-pair-for-modern-app-development-3e1d)
-- [How to NOT decide the next tech stack: 4 decision making anti-patterns](https://dev.to/this-is-learning/how-to-not-decide-the-next-tech-stack-4-decision-making-anti-patterns-5f5a)
 <!-- BLOG-POST-LIST:END -->
 
