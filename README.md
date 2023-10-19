@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Achieve true AI Alignment?](https://dev.to/sarthology/how-to-achieve-true-ai-alignment-4ejm)
+- [CodeBehind framework is faster than ASP.NET Core](https://dev.to/elanatframework/codebehind-framework-is-faster-than-aspnet-core-3m70)
 - [Discussion of the Week - v7](https://dev.to/devteam/discussion-of-the-week-v7-3a)
-- [4 Simple Steps to Supercharge User Experience](https://dev.to/intesar/4-simple-steps-to-supercharge-user-experience-5391)
-- [Mastering Rails Web Navigation with link_to and button_to Helpers - Part 1](https://dev.to/ahmednadar/mastering-rails-web-navigation-with-linkto-and-buttonto-helpers-part-1-3gbg)
-- [SSH into a DigitalOcean Droplet using Password Authentication](https://dev.to/aswin2001barath/ssh-into-a-digitalocean-droplet-using-password-authentication-3923)
+- [Don’t do it on Frontend or... Frontend good practices for devs](https://dev.to/lucasm/frontend-best-practices-guide-or-dont-do-it-on-frontend-32n4)
 <!-- BLOG-POST-LIST:END -->
 
