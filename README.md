@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 10 books to achieve Javascript mastery 👨‍💻](https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj)
-- [🐍🐍 23 Python github issues for Beginners to Foster Development into a Proficient Developer🧑‍💻 🥇](https://dev.to/firecampdev/23-issues-to-grow-yourself-as-an-exceptional-open-source-python-expert-37nn)
-- [PDF Viewer in Nextjs 13.4 using @react-pdf-viewer](https://dev.to/ryaddev/pdf-viewer-in-nextjs-134-using-react-pdf-viewer-nom)
-- [Sloan&#39;s Inbox: How and when to choose a JavaScript Framework?](https://dev.to/devteam/sloans-inbox-how-and-when-to-choose-a-javascript-framework-ch9)
+- [🏆 🏆 Top 6 Open Source Repositories for Web Developers - ⭐ Most rated by community](https://dev.to/necatiozmen/top-6-open-source-repositories-for-web-developers-most-rated-by-community-5g2)
+- [La guía más sencilla sobre las funciones de Microsoft Project](https://dev.to/oroscoloyamena/la-guia-mas-sencilla-sobre-las-funciones-de-microsoft-project-2hl5)
+- [Building Apps with Tauri and Elixir](https://dev.to/crabnebula/building-apps-with-tauri-and-elixir-5cll)
+- [Free C# Certificate By Microsoft](https://dev.to/brojenuel/free-c-certificate-by-microsoft-3mne)
 <!-- BLOG-POST-LIST:END -->
 
