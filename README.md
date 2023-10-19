@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏆 🏆 Top 6 Open Source Repositories for Web Developers - ⭐ Most rated by community](https://dev.to/necatiozmen/top-6-open-source-repositories-for-web-developers-most-rated-by-community-5g2)
-- [La guía más sencilla sobre las funciones de Microsoft Project](https://dev.to/oroscoloyamena/la-guia-mas-sencilla-sobre-las-funciones-de-microsoft-project-2hl5)
-- [Building Apps with Tauri and Elixir](https://dev.to/crabnebula/building-apps-with-tauri-and-elixir-5cll)
-- [Free C# Certificate By Microsoft](https://dev.to/brojenuel/free-c-certificate-by-microsoft-3mne)
+- [🤔What to expect from a Backend Development Platform](https://dev.to/encore/what-to-expect-from-a-backend-development-platform-p5c)
+- [The 7 best transactional email services for developers in 2023](https://dev.to/knocklabs/the-7-best-transactional-email-services-for-developers-in-2023-584j)
+- [Introducing Storybook 7.5](https://dev.to/storybookjs/introducing-storybook-75-3lhp)
+- [Javascript - Polyfills](https://dev.to/sandyabhi/javascript-polyfills-21b3)
 <!-- BLOG-POST-LIST:END -->
 
