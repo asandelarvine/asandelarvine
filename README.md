@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Template Method com composição](https://dev.to/hugaomarques/template-method-com-composicao-33cg)
-- [Por debaixo do capô: async/await e as mágicas do compilador csharp](https://dev.to/angelobelchior/por-debaixo-do-capo-asyncawait-e-as-magicas-do-compilador-csharp-28ol)
-- [A simple architecture for Flutter apps](https://dev.to/jckodel/a-simple-architecture-for-flutter-apps-2424)
-- [What&#39;s your favorite scary movie? 😱](https://dev.to/devteam/whats-your-favorite-scary-movie-35lj)
+- [Hacktoberfest 2023: Celebrando o Open Source💻🎃](https://dev.to/nagref/hacktoberfest-2023-celebrando-o-open-source-3oo6)
+- [Amazing tools that you must use to improve your work flow](https://dev.to/mp-link/tools-that-might-help-you-in-your-workflow-45pi)
+- [Got A Home Gadget Game Changer?](https://dev.to/devteam/got-a-home-gadget-game-changer-532p)
+- [Clerk JWT Authentication with NestJs + Passport for REST &amp; GraphQL](https://dev.to/robertoyamanaka/clerk-jwt-authentication-with-nestjs-passport-for-rest-graphql-23jf)
 <!-- BLOG-POST-LIST:END -->
 
