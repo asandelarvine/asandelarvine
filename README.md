@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [🚀 10 books to achieve Javascript mastery 👨‍💻](https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj)
-- [🐍🐍 23 issues to grow yourself as an exceptional open-source Python expert 🧑‍💻 🥇](https://dev.to/firecampdev/23-issues-to-grow-yourself-as-an-exceptional-open-source-python-expert-37nn)
+- [🐍🐍 23 Python github issues for Beginners to Foster Development into a Proficient Developer🧑‍💻 🥇](https://dev.to/firecampdev/23-issues-to-grow-yourself-as-an-exceptional-open-source-python-expert-37nn)
 - [PDF Viewer in Nextjs 13.4 using @react-pdf-viewer](https://dev.to/ryaddev/pdf-viewer-in-nextjs-134-using-react-pdf-viewer-nom)
-- [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
+- [Sloan&#39;s Inbox: How and when to choose a JavaScript Framework?](https://dev.to/devteam/sloans-inbox-how-and-when-to-choose-a-javascript-framework-ch9)
 <!-- BLOG-POST-LIST:END -->
 
