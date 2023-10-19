@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python &quot;magic&quot; methods - part 1](https://dev.to/nfrankel/python-magic-methods-part-1-46e)
 - [Seekable OCI - Lazy Loading Container Images on ECS and Fargate](https://dev.to/aws-builders/seekable-oci-lazy-loading-container-images-on-ecs-and-fargate-8dp)
 - [Took A Break, I AM BACK!!!](https://dev.to/scofieldidehen/took-a-break-i-am-back-1l1d)
 - [Why you should choose HTMX for your next project](https://dev.to/turculaurentiu91/why-you-should-choose-htmx-for-your-next-project-o7j)
-- [Making Your LinkedIn Profile Shine in the Tech World](https://dev.to/wdp/making-your-linkedin-profile-shine-in-the-tech-world-3ek5)
 <!-- BLOG-POST-LIST:END -->
 
