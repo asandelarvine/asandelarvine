@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize Nodejs and Postgres example](https://dev.to/tienbku/dockerize-nodejs-and-postgres-example-4k2j)
 - [Hacktoberfest 2023: Celebrando o Open Source💻🎃](https://dev.to/nagref/hacktoberfest-2023-celebrando-o-open-source-3oo6)
 - [Amazing tools that you must use to improve your work flow](https://dev.to/mp-link/tools-that-might-help-you-in-your-workflow-45pi)
 - [Got A Home Gadget Game Changer?](https://dev.to/devteam/got-a-home-gadget-game-changer-532p)
-- [Clerk JWT Authentication with NestJs + Passport for REST &amp; GraphQL](https://dev.to/robertoyamanaka/clerk-jwt-authentication-with-nestjs-passport-for-rest-graphql-23jf)
 <!-- BLOG-POST-LIST:END -->
 
