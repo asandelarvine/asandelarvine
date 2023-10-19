@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 10 books to achieve Javascript mastery 👨‍💻](https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj)
+- [🐍🐍 23 issues to grow yourself as an exceptional open-source Python expert 🧑‍💻 🥇](https://dev.to/firecampdev/23-issues-to-grow-yourself-as-an-exceptional-open-source-python-expert-37nn)
+- [PDF Viewer in Nextjs 13.4 using @react-pdf-viewer](https://dev.to/ryaddev/pdf-viewer-in-nextjs-134-using-react-pdf-viewer-nom)
 - [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
-- [Running web scraping service securely](https://dev.to/azasypkin/running-web-scraping-service-securely-5ap)
-- [Unraveling the Marvel of ChatGPT Development: A Journey Through Innovation](https://dev.to/agarralexx/unraveling-the-marvel-of-chatgpt-development-a-journey-through-innovation-12j1)
-- [Flutter and IoT: The Perfect Pair for Modern App Development](https://dev.to/richarddukusa/flutter-and-iot-the-perfect-pair-for-modern-app-development-3e1d)
 <!-- BLOG-POST-LIST:END -->
 
