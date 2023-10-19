@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python &quot;magic&quot; methods - part 1](https://dev.to/nfrankel/python-magic-methods-part-1-46e)
-- [Seekable OCI - Lazy Loading Container Images on ECS and Fargate](https://dev.to/aws-builders/seekable-oci-lazy-loading-container-images-on-ecs-and-fargate-8dp)
-- [Took A Break, I AM BACK!!!](https://dev.to/scofieldidehen/took-a-break-i-am-back-1l1d)
-- [Why you should choose HTMX for your next project](https://dev.to/turculaurentiu91/why-you-should-choose-htmx-for-your-next-project-o7j)
+- [Running web scraping service securely](https://dev.to/azasypkin/running-web-scraping-service-securely-5ap)
+- [Unraveling the Marvel of ChatGPT Development: A Journey Through Innovation](https://dev.to/agarralexx/unraveling-the-marvel-of-chatgpt-development-a-journey-through-innovation-12j1)
+- [Flutter and IoT: The Perfect Pair for Modern App Development](https://dev.to/richarddukusa/flutter-and-iot-the-perfect-pair-for-modern-app-development-3e1d)
+- [How to NOT decide the next tech stack: 4 decision making anti-patterns](https://dev.to/this-is-learning/how-to-not-decide-the-next-tech-stack-4-decision-making-anti-patterns-5f5a)
 <!-- BLOG-POST-LIST:END -->
 
