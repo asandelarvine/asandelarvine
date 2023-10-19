@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Simple Steps to Supercharge User Experience](https://dev.to/intesar/4-simple-steps-to-supercharge-user-experience-5391)
+- [Mastering Rails Web Navigation with link_to and button_to Helpers - Part 1](https://dev.to/ahmednadar/mastering-rails-web-navigation-with-linkto-and-buttonto-helpers-part-1-3gbg)
 - [SSH into a DigitalOcean Droplet using Password Authentication](https://dev.to/aswin2001barath/ssh-into-a-digitalocean-droplet-using-password-authentication-3923)
 - [Learn Django Easily in 2023](https://dev.to/aurnab990/learn-django-easily-in-2023-3ke9)
-- [Ways to Set Default Values in JavaScript](https://dev.to/speaklouder/ways-to-set-default-values-in-javascript-3n79)
-- [APIs needed in the Tech](https://dev.to/shreyvijayvargiya/apis-needed-in-the-tech-1opk)
 <!-- BLOG-POST-LIST:END -->
 
