@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Took A Break, I AM BACK!!!](https://dev.to/scofieldidehen/took-a-break-i-am-back-1l1d)
 - [Making Your LinkedIn Profile Shine in the Tech World](https://dev.to/wdp/making-your-linkedin-profile-shine-in-the-tech-world-3ek5)
 - [What is Private field in JS &lpar;JavaScript&rpar;](https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0)
 - [From dropout to developer.](https://dev.to/swastikyadav/from-dropout-to-developer-ieo)
-- [Como simular APIs online sem configurar um servidor](https://dev.to/jasonchan/como-simular-apis-online-sem-configurar-um-servidor-1kho)
 <!-- BLOG-POST-LIST:END -->
 
