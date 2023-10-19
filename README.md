@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⚛ The Terrible React Anti-Pattern You Must Avoid](https://dev.to/shameel/the-terrible-react-anti-pattern-you-must-avoid-4el8)
+- [A Guide to Application Programming Interfaces&lpar;APIs&rpar;](https://dev.to/comfortdeola/a-guide-to-application-programming-interfacesapis-5cdb)
 - [🌱 How I realized my website was affecting climate change 🌡️](https://dev.to/michelebitetto/how-i-realized-my-website-was-affecting-climate-change-48kn)
-- [Tip: Never Forget a console.log In Your Patch Again](https://dev.to/ngfizzy/tip-never-forget-a-consolelog-in-your-patch-again-4c3b)
-- [Hacktoberfest23: The 5th Year Contributor](https://dev.to/adiatiayu/hacktoberfest23-the-5th-year-contributor-48o3)
-- [🤔What to expect from a Backend Development Platform](https://dev.to/encore/what-to-expect-from-a-backend-development-platform-p5c)
+- [Day 72: Advise mentor app](https://dev.to/dhrn/day-72-advise-mentor-app-5g98)
 <!-- BLOG-POST-LIST:END -->
 
