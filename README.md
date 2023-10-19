@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding in Costume! Join Our Halloween Costume Contest! 👻🎃](https://dev.to/devteam/coding-in-costume-join-our-halloween-costume-contest-3dg1)
-- [SSH Command: Junior to Senior Web Dev Roadmap](https://dev.to/aswin2001barath/ssh-command-junior-to-senior-web-dev-roadmap-210g)
-- [HTML &amp; CSS - 101](https://dev.to/sanjeevani/html-css-101-2b4c)
-- [My 8 Tips for a Better Life as a Developer](https://dev.to/wraith/my-8-tips-for-a-better-life-as-a-developer-1hfg)
+- [SSH into a DigitalOcean Droplet using Password Authentication](https://dev.to/aswin2001barath/ssh-into-a-digitalocean-droplet-using-password-authentication-3923)
+- [Learn Django Easily in 2023](https://dev.to/aurnab990/learn-django-easily-in-2023-3ke9)
+- [Ways to Set Default Values in JavaScript](https://dev.to/speaklouder/ways-to-set-default-values-in-javascript-3n79)
+- [APIs needed in the Tech](https://dev.to/shreyvijayvargiya/apis-needed-in-the-tech-1opk)
 <!-- BLOG-POST-LIST:END -->
 
