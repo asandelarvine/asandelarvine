@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Magic Tricks: try &amp; catch encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-try-catch-encryption-4ko0)
-- [Leveraging Java Reflection to Improve Code Quality in Spring Boot](https://dev.to/jackynote/leveraging-java-reflection-to-improve-code-quality-in-spring-boot-54f)
-- [🚀 API Maker - Git Integration](https://dev.to/apimaker/api-maker-git-integration-222p)
-- [Companies already using micro frontends and why](https://dev.to/opensourcee/companies-already-using-micro-frontends-and-why-o37)
+- [This Week In React #163: React-Query, Remix Vite, Next.js Barrels, Gluestack, VisionCamera, Unistyles, Expo debugging...](https://dev.to/sebastienlorber/this-week-in-react-163-react-query-remix-vite-nextjs-barrels-gluestack-visioncamera-unistyles-expo-debugging-3ckj)
+- [How APISIX protects against the OWASP top 10 API security threats](https://dev.to/apisix/how-apisix-protects-against-the-owasp-top-10-api-security-threats-3pj3)
+- [🐋 How to use the Docker Exec command?](https://dev.to/refine/how-to-use-the-docker-exec-command-46e9)
+- [Remove image background with python](https://dev.to/isolderea/remove-image-background-with-python-52i2)
 <!-- BLOG-POST-LIST:END -->
 
