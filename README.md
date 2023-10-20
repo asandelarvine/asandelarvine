@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your next project with &quot;create-blank-app&quot; CLI](https://dev.to/ngduc/create-your-next-project-with-create-blank-app-cli-4391)
 - [How to Achieve true AI Alignment?](https://dev.to/sarthology/how-to-achieve-true-ai-alignment-4ejm)
 - [CodeBehind framework is faster than ASP.NET Core](https://dev.to/elanatframework/codebehind-framework-is-faster-than-aspnet-core-3m70)
 - [Discussion of the Week - v7](https://dev.to/devteam/discussion-of-the-week-v7-3a)
-- [Don’t do it on Frontend or... Frontend good practices for devs](https://dev.to/lucasm/frontend-best-practices-guide-or-dont-do-it-on-frontend-32n4)
 <!-- BLOG-POST-LIST:END -->
 
