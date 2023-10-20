@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with Cookies in JavaScript🍪](https://dev.to/iarchitsharma/working-with-cookies-in-javascript-12ea)
+- [How to position and align elements using CSS](https://dev.to/ericnanhu/how-to-position-and-align-elements-using-css-20a)
 - [Hello Godot!](https://dev.to/resendetech/hello-godot-4hlk)
 - [DEV Community Contributor Spotlight: @narender2031](https://dev.to/devteam/community-contributor-spotlight-narender2031-2a58)
-- [What to use instead of `@ember/string`](https://dev.to/nullvoxpopuli/what-to-use-instead-of-emberstring-34mo)
-- [Lista em Java Sem Valores Repetidos](https://dev.to/antoniorws/lista-em-java-sem-valores-repetidos-4n42)
 <!-- BLOG-POST-LIST:END -->
 
