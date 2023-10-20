@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Subroutines in c&#39;](https://dev.to/fonyuygita/subroutines-in-c-441i)
+- [Declarative Loop Control Flow in Angular 17](https://dev.to/this-is-angular/declarative-loop-control-flow-in-angular-17-97d)
+- [Building a Full Stack Application with Ruby on Rails and React within the MVC Architecture](https://dev.to/minchulan/building-a-full-stack-mvc-application-with-ruby-on-rails-and-react-4n9n)
 - [Patch Pulse: Devlog #1 - Get notified when new packages are released](https://dev.to/barrymichaeldoyle/patch-pulse-devlog-1-get-notified-when-new-packages-are-released-5c42)
-- [Hacktoberfest: PR #3](https://dev.to/omalk98/hacktoberfest-pr-3-4l0i)
-- [Hacktoberfest PR 3](https://dev.to/sdthaker/hacktoberfest-pr-3-5a3n)
-- [Working with Cookies in JavaScript🍪](https://dev.to/iarchitsharma/working-with-cookies-in-javascript-12ea)
 <!-- BLOG-POST-LIST:END -->
 
