@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Gitting Started with Git: A Beginner&#39;s Guide to Version Control](https://dev.to/easewithtuts/gitting-started-with-git-a-beginners-guide-to-version-control-15gi)
+- [How to get a Free News API Key?](https://dev.to/newsdataio/how-to-get-a-free-news-api-key-59mc)
+- [Build an Event-Driven Uptime Monitor in Go 🚀](https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd)
 - [How Recast AI Improves Your Daily Reading Lifestyle and Boosts Productivity](https://dev.to/daveyhert/how-recast-ai-improves-your-daily-reading-lifestyle-and-boosts-productivity-4no6)
-- [RSA Encryption Decryption](https://dev.to/silvenleaf/rsa-encryption-decryption-1bm8)
-- [What&#39;s new in .NET 8? - New Features Unveiled](https://dev.to/ifourtechnolab/whats-new-in-net-8-new-features-unveiled-123a)
-- [5 JavaScript Project Ideas Beyond TODO Apps.](https://dev.to/swastikyadav/5-javascript-project-ideas-beyond-todo-apps-h9h)
 <!-- BLOG-POST-LIST:END -->
 
