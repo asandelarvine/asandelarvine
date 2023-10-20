@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
+- [Creating REST APIs with Node.js](https://dev.to/juanpinheirx/creating-rest-apis-with-nodejs-3o8o)
 - [Entendendo Algoritmos: Recursão](https://dev.to/eusoumabel/entendendo-algoritmos-recursao-db6)
 - [Part 01: Why should we understand compilers?](https://dev.to/jairussw/part-01-why-should-we-understand-compilers-4ed2)
-- [Going real time with donation alerts](https://dev.to/alertpix/going-real-time-with-donation-alerts-92n)
 <!-- BLOG-POST-LIST:END -->
 
