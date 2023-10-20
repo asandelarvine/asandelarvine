@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
+- [Entendendo Algoritmos: Recursão](https://dev.to/eusoumabel/entendendo-algoritmos-recursao-db6)
 - [Part 01: Why should we understand compilers?](https://dev.to/jairussw/part-01-why-should-we-understand-compilers-4ed2)
 - [Going real time with donation alerts](https://dev.to/alertpix/going-real-time-with-donation-alerts-92n)
-- [Build and test a Golang app with Gitness](https://dev.to/harness/build-and-test-a-golang-app-with-gitness-5cf6)
-- [Singly Linked Lists in C - A Fun and Easy Guide](https://dev.to/ukeme/singly-linked-lists-in-c-a-fun-and-easy-guide-1nc8)
 <!-- BLOG-POST-LIST:END -->
 
