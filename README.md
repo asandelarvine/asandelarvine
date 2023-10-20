@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Create your next project with &quot;create-blank-app&quot; CLI](https://dev.to/ngduc/create-your-next-project-with-create-blank-app-cli-4391)
+- [What Fundamental Principles Persist in Backend Engineering?](https://dev.to/devteam/what-fundamental-principles-persist-in-backend-engineering-56g7)
 - [How to Achieve true AI Alignment?](https://dev.to/sarthology/how-to-achieve-true-ai-alignment-4ejm)
 - [CodeBehind framework is faster than ASP.NET Core](https://dev.to/elanatframework/codebehind-framework-is-faster-than-aspnet-core-3m70)
-- [Discussion of the Week - v7](https://dev.to/devteam/discussion-of-the-week-v7-3a)
 <!-- BLOG-POST-LIST:END -->
 
