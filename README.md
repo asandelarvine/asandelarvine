@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create your next project with &quot;create-blank-app&quot; CLI](https://dev.to/ngduc/create-your-next-project-with-create-blank-app-cli-4391)
+- [PREREQUISITE OF THE APPLICATION](https://dev.to/raman04byte/prerequisite-of-the-application-5l3)
 - [What Fundamental Principles Persist in Backend Engineering?](https://dev.to/devteam/what-fundamental-principles-persist-in-backend-engineering-56g7)
 - [How to Achieve true AI Alignment?](https://dev.to/sarthology/how-to-achieve-true-ai-alignment-4ejm)
 - [CodeBehind framework is faster than ASP.NET Core](https://dev.to/elanatframework/codebehind-framework-is-faster-than-aspnet-core-3m70)
