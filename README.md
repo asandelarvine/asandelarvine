@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #163: React-Query, Remix Vite, Next.js Barrels, Gluestack, VisionCamera, Unistyles, Expo debugging...](https://dev.to/sebastienlorber/this-week-in-react-163-react-query-remix-vite-nextjs-barrels-gluestack-visioncamera-unistyles-expo-debugging-3ckj)
-- [How APISIX protects against the OWASP top 10 API security threats](https://dev.to/apisix/how-apisix-protects-against-the-owasp-top-10-api-security-threats-3pj3)
-- [🐋 How to use the Docker Exec command?](https://dev.to/refine/how-to-use-the-docker-exec-command-46e9)
-- [Remove image background with python](https://dev.to/isolderea/remove-image-background-with-python-52i2)
+- [How Recast AI Improves Your Daily Reading Lifestyle and Boosts Productivity](https://dev.to/daveyhert/how-recast-ai-improves-your-daily-reading-lifestyle-and-boosts-productivity-4no6)
+- [RSA Encryption Decryption](https://dev.to/silvenleaf/rsa-encryption-decryption-1bm8)
+- [What&#39;s new in .NET 8? - New Features Unveiled](https://dev.to/ifourtechnolab/whats-new-in-net-8-new-features-unveiled-123a)
+- [5 JavaScript Project Ideas Beyond TODO Apps.](https://dev.to/swastikyadav/5-javascript-project-ideas-beyond-todo-apps-h9h)
 <!-- BLOG-POST-LIST:END -->
 
