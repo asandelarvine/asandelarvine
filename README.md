@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Performance Testing using k6](https://dev.to/qainsights/browser-performance-testing-using-k6-1b6f)
-- [I am a senior developer. Now what ?](https://dev.to/bd_perez/i-am-a-senior-developer-now-what--9pd)
-- [A Guide to Enhancing QA](https://dev.to/cloudx/a-guide-to-enhancing-qa-1hi)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lba)
+- [OSS: A Guide to Its Benefits and How to Get Started](https://dev.to/nabinbhatt/oss-a-guide-to-its-benefits-and-how-to-get-started-4j3o)
+- [Context leaking in EmberJS tests](https://dev.to/michalbryxi/context-leaking-in-emberjs-tests-52nm)
+- [Creating and Exporting Project-Specific Configurations in VS Code](https://dev.to/axem/creating-and-exporting-project-specific-configurations-in-vs-code-3cpi)
+- [Optimizing performance: how our extension became lightning fast](https://dev.to/qostya/optimizing-performance-how-our-extension-became-lightning-fast-j16)
 <!-- BLOG-POST-LIST:END -->
 
