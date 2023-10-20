@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I am a senior developer. Now what ?](https://dev.to/bd_perez/i-am-a-senior-developer-now-what--9pd)
+- [A Guide to Enhancing QA](https://dev.to/cloudx/a-guide-to-enhancing-qa-1hi)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lba)
 - [Gitting Started with Git: A Beginner&#39;s Guide to Version Control](https://dev.to/easewithtuts/gitting-started-with-git-a-beginners-guide-to-version-control-15gi)
-- [How to get a Free News API Key?](https://dev.to/newsdataio/how-to-get-a-free-news-api-key-59mc)
-- [Hacktoberfest 2023: First Experience as a Maintainer](https://dev.to/adiatiayu/hacktoberfest-2023-first-experience-as-a-maintainer-16)
 <!-- BLOG-POST-LIST:END -->
 
