@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Patch Pulse: Devlog #1 - Get notified when new packages are released](https://dev.to/barrymichaeldoyle/patch-pulse-devlog-1-get-notified-when-new-packages-are-released-5c42)
+- [Hacktoberfest: PR #3](https://dev.to/omalk98/hacktoberfest-pr-3-4l0i)
+- [Hacktoberfest PR 3](https://dev.to/sdthaker/hacktoberfest-pr-3-5a3n)
 - [Working with Cookies in JavaScript🍪](https://dev.to/iarchitsharma/working-with-cookies-in-javascript-12ea)
-- [How to position and align elements using CSS](https://dev.to/ericnanhu/how-to-position-and-align-elements-using-css-20a)
-- [Hello Godot!](https://dev.to/resendetech/hello-godot-4hlk)
-- [DEV Community Contributor Spotlight: @narender2031](https://dev.to/devteam/community-contributor-spotlight-narender2031-2a58)
 <!-- BLOG-POST-LIST:END -->
 
