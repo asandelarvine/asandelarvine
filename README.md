@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OSS: A Guide to Its Benefits and How to Get Started](https://dev.to/nabinbhatt/oss-a-guide-to-its-benefits-and-how-to-get-started-4j3o)
-- [Context leaking in EmberJS tests](https://dev.to/michalbryxi/context-leaking-in-emberjs-tests-52nm)
-- [Creating and Exporting Project-Specific Configurations in VS Code](https://dev.to/axem/creating-and-exporting-project-specific-configurations-in-vs-code-3cpi)
-- [Optimizing performance: how our extension became lightning fast](https://dev.to/qostya/optimizing-performance-how-our-extension-became-lightning-fast-j16)
+- [Hello Godot!](https://dev.to/resendetech/hello-godot-4hlk)
+- [DEV Community Contributor Spotlight: @narender2031](https://dev.to/devteam/community-contributor-spotlight-narender2031-2a58)
+- [What to use instead of `@ember/string`](https://dev.to/nullvoxpopuli/what-to-use-instead-of-emberstring-34mo)
+- [Lista em Java Sem Valores Repetidos](https://dev.to/antoniorws/lista-em-java-sem-valores-repetidos-4n42)
 <!-- BLOG-POST-LIST:END -->
 
