@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Magic Tricks: try &amp; catch encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-try-catch-encryption-4ko0)
+- [Leveraging Java Reflection to Improve Code Quality in Spring Boot](https://dev.to/jackynote/leveraging-java-reflection-to-improve-code-quality-in-spring-boot-54f)
 - [🚀 API Maker - Git Integration](https://dev.to/apimaker/api-maker-git-integration-222p)
-- [Beware these Surprises in Datadog Pricing](https://dev.to/signoz/beware-these-surprises-in-datadog-pricing-172g)
-- [8 Steps to Create a Successful Cloud Strategy](https://dev.to/signoz/8-steps-to-create-a-successful-cloud-strategy-3gih)
-- [PREREQUISITE OF THE APPLICATION](https://dev.to/raman04byte/prerequisite-of-the-application-5l3)
+- [Companies already using micro frontends and why](https://dev.to/opensourcee/companies-already-using-micro-frontends-and-why-o37)
 <!-- BLOG-POST-LIST:END -->
 
