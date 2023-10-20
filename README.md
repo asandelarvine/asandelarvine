@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Going real time with donation alerts](https://dev.to/alertpix/going-real-time-with-donation-alerts-92n)
+- [Build and test a Golang app with Gitness](https://dev.to/harness/build-and-test-a-golang-app-with-gitness-5cf6)
+- [Singly Linked Lists in C - A Fun and Easy Guide](https://dev.to/ukeme/singly-linked-lists-in-c-a-fun-and-easy-guide-1nc8)
 - [Subroutines in c&#39;](https://dev.to/fonyuygita/subroutines-in-c-441i)
-- [Declarative Loop Control Flow in Angular 17](https://dev.to/this-is-angular/declarative-loop-control-flow-in-angular-17-97d)
-- [Building a Full Stack Application with Ruby on Rails and React within the MVC Architecture](https://dev.to/minchulan/building-a-full-stack-mvc-application-with-ruby-on-rails-and-react-4n9n)
-- [Patch Pulse: Devlog #1 - Get notified when new packages are released](https://dev.to/barrymichaeldoyle/patch-pulse-devlog-1-get-notified-when-new-packages-are-released-5c42)
 <!-- BLOG-POST-LIST:END -->
 
