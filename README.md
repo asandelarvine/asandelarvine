@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lba)
 - [Gitting Started with Git: A Beginner&#39;s Guide to Version Control](https://dev.to/easewithtuts/gitting-started-with-git-a-beginners-guide-to-version-control-15gi)
 - [How to get a Free News API Key?](https://dev.to/newsdataio/how-to-get-a-free-news-api-key-59mc)
-- [Build an Event-Driven Uptime Monitor in Go 🚀](https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd)
-- [How Recast AI Improves Your Daily Reading Lifestyle and Boosts Productivity](https://dev.to/daveyhert/how-recast-ai-improves-your-daily-reading-lifestyle-and-boosts-productivity-4no6)
+- [Hacktoberfest 2023: First Experience as a Maintainer](https://dev.to/adiatiayu/hacktoberfest-2023-first-experience-as-a-maintainer-16)
 <!-- BLOG-POST-LIST:END -->
 
