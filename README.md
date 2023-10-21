@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install and Set Up a Ghost Blog on AWS Lightsail - Step by Step Tutorial](https://dev.to/devarshishimpi/how-to-install-and-set-up-a-ghost-blog-on-aws-lightsail-step-by-step-tutorial-48kf)
 - [Singly Linked Lists](https://dev.to/iamadhee/singly-linked-lists-518n)
 - [Simplify your Infrastructure Management using AWS CloudFormation](https://dev.to/aws-builders/simplify-your-infrastructure-management-using-aws-cloudformation-51pd)
 - [Lets talk about A-Frame](https://dev.to/anandson47/lets-talk-about-a-frame-2n3d)
-- [What is Natural Language Processing? Examples Explained](https://dev.to/foxinfotech/what-is-natural-language-processing-examples-explained-2jmf)
 <!-- BLOG-POST-LIST:END -->
 
