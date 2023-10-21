@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Enhancing AI Interaction: A Guide to Prompt Engineering](https://dev.to/_ollie20_/enhancing-ai-interaction-a-guide-to-prompt-engineering-1f9g)
 - [I am here now](https://dev.to/codingfeedsme/i-am-here-now-328h)
+- [Practical tips for code reviews in large teams](https://dev.to/rchugunov/practical-tips-for-code-reviews-in-large-teams-25nb)
 - [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j)
-- [Bandit Level 12 Level 13](https://dev.to/christianpaez/bandit-level-12-level-13-140f)
 <!-- BLOG-POST-LIST:END -->
 
