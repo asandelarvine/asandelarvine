@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [About Logging](https://dev.to/primalskill/about-logging-1b2p)
-- [Accelerate Your Career 👩🏻‍💻 by Contributing to these 9 Repositories 🔥](https://dev.to/swirl/accelerate-your-career-by-contributing-to-these-9-repositories-28e3)
-- [Hi I&#39;m King Johney](https://dev.to/kingjohneycodey/hi-im-king-johney-4ol5)
-- [How to Install and Set Up a Ghost Blog on AWS Lightsail - Step by Step Tutorial](https://dev.to/devarshishimpi/how-to-install-and-set-up-a-ghost-blog-on-aws-lightsail-step-by-step-tutorial-48kf)
+- [Create a Custom VS Code Snippet](https://dev.to/arindam_1729/create-a-custom-vs-code-snippet-5gie)
+- [Tuner is a flexible project configurator as code for Deno.](https://dev.to/artpani/tuner-is-a-flexible-project-configurator-as-code-for-deno-1a8p)
+- [Making Sense of Version Control — Git vs GitHub](https://dev.to/jaimaldullat/making-sense-of-version-control-git-vs-github-1ekn)
+- [🚀 My Journey in Hacktoberfest 2023](https://dev.to/farhakousar1601/placeholder-contributor-mh0)
 <!-- BLOG-POST-LIST:END -->
 
