@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Singly Linked Lists](https://dev.to/iamadhee/singly-linked-lists-518n)
+- [Simplify your Infrastructure Management using AWS CloudFormation](https://dev.to/aws-builders/simplify-your-infrastructure-management-using-aws-cloudformation-51pd)
+- [Lets talk about A-Frame](https://dev.to/anandson47/lets-talk-about-a-frame-2n3d)
 - [What is Natural Language Processing? Examples Explained](https://dev.to/foxinfotech/what-is-natural-language-processing-examples-explained-2jmf)
-- [For all the Developers! 🐍💻 | The Best Interview Coding Question 🚀🤖](https://dev.to/arjuncodess/for-all-the-developers-the-best-interview-coding-question-2hcf)
-- [My GameDev Story!](https://dev.to/shadycrisp/my-gamedev-story-5f3k)
-- [How do I back up all my Gitlab repositories?](https://dev.to/isma/how-do-i-back-up-all-my-gitlab-repositories-oje)
 <!-- BLOG-POST-LIST:END -->
 
