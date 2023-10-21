@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Milvus Adventures](https://dev.to/chrischurilo/milvus-adventures-8fo)
 - [What&#39;s Your Frog Today? Eat It and Tell Us About It!](https://dev.to/codenewbieteam/whats-your-frog-today-eat-it-and-tell-us-about-it-59bh)
-- [How Java works ?](https://dev.to/iamdevmarcos/how-java-works--44i6)
-- [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
-- [Creating REST APIs with Node.js](https://dev.to/juanpinheirx/creating-rest-apis-with-nodejs-3o8o)
+- [Unveil Your App Secrets!](https://dev.to/devteam/unveil-your-app-secrets-lll)
+- [How to Create a Django Project and Application.](https://dev.to/chryzcode/how-to-create-a-django-project-and-application-2j3j)
 <!-- BLOG-POST-LIST:END -->
 
