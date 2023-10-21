@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [“Zero dependencies” is overrated, build it like Theseus](https://dev.to/noriller/zero-dependencies-is-overrated-build-it-like-theseus-1p25)
+- [Next.js: Enhancing Modern Web Development with a Simple Example](https://dev.to/mursalfk/nextjs-enhancing-modern-web-development-with-a-simple-example-k28)
 - [Create a Custom VS Code Snippet](https://dev.to/arindam_1729/create-a-custom-vs-code-snippet-5gie)
 - [Tuner is a flexible project configurator as code for Deno.](https://dev.to/artpani/tuner-is-a-flexible-project-configurator-as-code-for-deno-1a8p)
-- [Making Sense of Version Control — Git vs GitHub](https://dev.to/jaimaldullat/making-sense-of-version-control-git-vs-github-1ekn)
-- [🚀 My Journey in Hacktoberfest 2023](https://dev.to/farhakousar1601/placeholder-contributor-mh0)
 <!-- BLOG-POST-LIST:END -->
 
