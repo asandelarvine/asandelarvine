@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your Frog Today? Eat It and Tell Us About It!](https://dev.to/codenewbieteam/whats-your-frog-today-eat-it-and-tell-us-about-it-59bh)
+- [How Java works ?](https://dev.to/iamdevmarcos/how-java-works--44i6)
 - [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
 - [Creating REST APIs with Node.js](https://dev.to/juanpinheirx/creating-rest-apis-with-nodejs-3o8o)
-- [Entendendo Algoritmos: Recursão](https://dev.to/eusoumabel/entendendo-algoritmos-recursao-db6)
-- [Part 01: Why should we understand compilers?](https://dev.to/jairussw/part-01-why-should-we-understand-compilers-4ed2)
 <!-- BLOG-POST-LIST:END -->
 
