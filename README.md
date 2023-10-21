@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing AI Interaction: A Guide to Prompt Engineering](https://dev.to/_ollie20_/enhancing-ai-interaction-a-guide-to-prompt-engineering-1f9g)
 - [I am here now](https://dev.to/codingfeedsme/i-am-here-now-328h)
 - [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j)
 - [Bandit Level 12 Level 13](https://dev.to/christianpaez/bandit-level-12-level-13-140f)
-- [Understanding Tech: Looking Beyond the Surface](https://dev.to/anuraghazra/understanding-tech-looking-beyond-the-surface-5fo7)
 <!-- BLOG-POST-LIST:END -->
 
