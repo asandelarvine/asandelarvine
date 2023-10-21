@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [For all the Developers! 🐍💻 | The Best Interview Coding Question 🚀🤖](https://dev.to/arjuncodess/for-all-the-developers-the-best-interview-coding-question-2hcf)
 - [My GameDev Story!](https://dev.to/shadycrisp/my-gamedev-story-5f3k)
 - [How do I back up all my Gitlab repositories?](https://dev.to/isma/how-do-i-back-up-all-my-gitlab-repositories-oje)
 - [10 AI Tools That Are Similar To ChatGPT](https://dev.to/foxinfotech/10-ai-tools-that-are-similar-to-chatgpt-4jei)
-- [10K Views! &lpar;All Posts Combined&rpar;](https://dev.to/easewithtuts/10k-views-all-posts-combined-2mhi)
 <!-- BLOG-POST-LIST:END -->
 
