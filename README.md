@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j)
 - [Bandit Level 12 Level 13](https://dev.to/christianpaez/bandit-level-12-level-13-140f)
 - [Understanding Tech: Looking Beyond the Surface](https://dev.to/anuraghazra/understanding-tech-looking-beyond-the-surface-5fo7)
 - [“Zero dependencies” is overrated, build it like Theseus](https://dev.to/noriller/zero-dependencies-is-overrated-build-it-like-theseus-1p25)
-- [The Deceptive Ease of Easy Problems on LeetCode: 10 Confidence-Boosting Challenges for Beginners](https://dev.to/vitalipri/the-deceptive-ease-of-easy-problems-on-leetcode-10-confidence-boosting-challenges-for-beginners-2g48)
 <!-- BLOG-POST-LIST:END -->
 
