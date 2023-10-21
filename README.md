@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perspectives on the Evolution of DevSecOps Engineering Based on from My Experiences](https://dev.to/iilness2/perspectives-on-the-evolution-of-devsecops-engineering-based-on-from-my-experiences-21me)
-- [🌹 Awesome development tools for PHP 2023](https://dev.to/sethsandaru/awesome-development-tools-for-php-2023-5boj)
-- [Create your own Azure Openai Platform](https://dev.to/karleeov/create-your-own-azure-openai-platform-3ld5)
-- [Milvus Adventures](https://dev.to/chrischurilo/milvus-adventures-8fo)
+- [10 AI Tools That Are Similar To ChatGPT](https://dev.to/foxinfotech/10-ai-tools-that-are-similar-to-chatgpt-4jei)
+- [10K Views! &lpar;All Posts Combined&rpar;](https://dev.to/easewithtuts/10k-views-all-posts-combined-2mhi)
+- [How to Securely Connect to a Database from a Local Environment Using AWS Session Manager](https://dev.to/suzuki0430/how-to-securely-connect-to-a-database-from-a-local-environment-using-aws-session-manager-i07)
+- [What Is LangChain? Unlocking the Potential of LLMs](https://dev.to/dariubs/what-is-langchain-unlocking-the-potential-of-llms-olg)
 <!-- BLOG-POST-LIST:END -->
 
