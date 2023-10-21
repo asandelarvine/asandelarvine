@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My GameDev Story!](https://dev.to/shadycrisp/my-gamedev-story-5f3k)
+- [How do I back up all my Gitlab repositories?](https://dev.to/isma/how-do-i-back-up-all-my-gitlab-repositories-oje)
 - [10 AI Tools That Are Similar To ChatGPT](https://dev.to/foxinfotech/10-ai-tools-that-are-similar-to-chatgpt-4jei)
 - [10K Views! &lpar;All Posts Combined&rpar;](https://dev.to/easewithtuts/10k-views-all-posts-combined-2mhi)
-- [How to Securely Connect to a Database from a Local Environment Using AWS Session Manager](https://dev.to/suzuki0430/how-to-securely-connect-to-a-database-from-a-local-environment-using-aws-session-manager-i07)
-- [What Is LangChain? Unlocking the Potential of LLMs](https://dev.to/dariubs/what-is-langchain-unlocking-the-potential-of-llms-olg)
 <!-- BLOG-POST-LIST:END -->
 
