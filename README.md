@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bandit Level 12 Level 13](https://dev.to/christianpaez/bandit-level-12-level-13-140f)
+- [Understanding Tech: Looking Beyond the Surface](https://dev.to/anuraghazra/understanding-tech-looking-beyond-the-surface-5fo7)
 - [“Zero dependencies” is overrated, build it like Theseus](https://dev.to/noriller/zero-dependencies-is-overrated-build-it-like-theseus-1p25)
-- [Next.js: Enhancing Modern Web Development with a Simple Example](https://dev.to/mursalfk/nextjs-enhancing-modern-web-development-with-a-simple-example-k28)
-- [Create a Custom VS Code Snippet](https://dev.to/arindam_1729/create-a-custom-vs-code-snippet-5gie)
-- [Tuner is a flexible project configurator as code for Deno.](https://dev.to/artpani/tuner-is-a-flexible-project-configurator-as-code-for-deno-1a8p)
+- [The Deceptive Ease of Easy Problems on LeetCode: 10 Confidence-Boosting Challenges for Beginners](https://dev.to/vitalipri/the-deceptive-ease-of-easy-problems-on-leetcode-10-confidence-boosting-challenges-for-beginners-2g48)
 <!-- BLOG-POST-LIST:END -->
 
