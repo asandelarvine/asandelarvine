@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your own Azure Openai Platform](https://dev.to/karleeov/create-your-own-azure-openai-platform-3ld5)
 - [Milvus Adventures](https://dev.to/chrischurilo/milvus-adventures-8fo)
-- [What&#39;s Your Frog Today? Eat It and Tell Us About It!](https://dev.to/codenewbieteam/whats-your-frog-today-eat-it-and-tell-us-about-it-59bh)
 - [Unveil Your App Secrets!](https://dev.to/devteam/unveil-your-app-secrets-lll)
-- [How to Create a Django Project and Application.](https://dev.to/chryzcode/how-to-create-a-django-project-and-application-2j3j)
+- [What&#39;s Your Frog Today? Eat It and Tell Us About It!](https://dev.to/codenewbieteam/whats-your-frog-today-eat-it-and-tell-us-about-it-59bh)
 <!-- BLOG-POST-LIST:END -->
 
