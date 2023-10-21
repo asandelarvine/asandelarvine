@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [About Logging](https://dev.to/primalskill/about-logging-1b2p)
+- [Accelerate Your Career 👩🏻‍💻 by Contributing to these 9 Repositories 🔥](https://dev.to/swirl/accelerate-your-career-by-contributing-to-these-9-repositories-28e3)
+- [Hi I&#39;m King Johney](https://dev.to/kingjohneycodey/hi-im-king-johney-4ol5)
 - [How to Install and Set Up a Ghost Blog on AWS Lightsail - Step by Step Tutorial](https://dev.to/devarshishimpi/how-to-install-and-set-up-a-ghost-blog-on-aws-lightsail-step-by-step-tutorial-48kf)
-- [Singly Linked Lists](https://dev.to/iamadhee/singly-linked-lists-518n)
-- [Simplify your Infrastructure Management using AWS CloudFormation](https://dev.to/aws-builders/simplify-your-infrastructure-management-using-aws-cloudformation-51pd)
-- [Lets talk about A-Frame](https://dev.to/anandson47/lets-talk-about-a-frame-2n3d)
 <!-- BLOG-POST-LIST:END -->
 
