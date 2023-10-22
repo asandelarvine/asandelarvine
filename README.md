@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Not my type](https://dev.to/cedricfrancoys/not-my-type-56fo)
+- [Docker - Utilize Docker Compose for Local Development Environments](https://dev.to/theramoliya/docker-utilize-docker-compose-for-local-development-environments-17di)
+- [How to Start a Podcast: 10 Easy Steps](https://dev.to/syedbalkhi/how-to-start-a-podcast-10-easy-steps-4e0b)
 - [The Complete Guide to Time Series Models](https://dev.to/johnkyalo/the-complete-guide-to-time-series-models-o6g)
-- [Tortoise and Hare Algorithm](https://dev.to/iamadhee/tortoise-and-hare-algorithm-2a5f)
-- [The 20 Most Common Use Cases for JavaScript Arrays](https://dev.to/perssondennis/the-20-most-common-use-cases-for-javascript-arrays-2j8j)
-- [Yet Another Newsletter LOL: So Nullish](https://dev.to/nickytonline/yet-another-newsletter-lol-so-nullish-a0l)
 <!-- BLOG-POST-LIST:END -->
 
