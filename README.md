@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jest Mastery: Elevating Your Testing Skills with Proven Best Practices](https://dev.to/thagichucodes/jest-mastery-elevating-your-testing-skills-with-proven-best-practices-4d7m)
+- [Navigating Docker With Captains - Francesco Ciulla](https://dev.to/livecycle/navigating-docker-with-captains-francesco-ciulla-4pie)
 - [WordPress Development Best Practices: Building Efficient and Secure Websites](https://dev.to/kevinmutua/wordpress-development-best-practices-building-efficient-and-secure-websites-j6)
 - [CatGPT - or How to Position Elements on Overlays](https://dev.to/eevajonnapanula/catgpt-or-how-to-position-elements-on-overlays-1c48)
-- [MySQL x Flask: Add MySQL database with Flask App](https://dev.to/sachingeek/mysql-x-flask-add-mysql-database-with-flask-app-e79)
-- [#Leetcode 1361: Validating Binary Tree Nodes &lpar;Medium&rpar;](https://dev.to/speaklouder/leetcode-1361-validating-binary-tree-nodes-medium-2bla)
 <!-- BLOG-POST-LIST:END -->
 
