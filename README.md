@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#Leetcode 1361: Validating Binary Tree Nodes &lpar;Medium&rpar;](https://dev.to/speaklouder/leetcode-1361-validating-binary-tree-nodes-medium-2bla)
+- [LeetCode1425: Solving Constrained Subsequence Sum with DP and Heap Approach](https://dev.to/speaklouder/leetcode1425-solving-constrained-subsequence-sum-with-dp-and-heap-approach-a51)
 - [Solving LeetCode 1793: Maximum Score of a Good Subarray](https://dev.to/speaklouder/solving-leetcode-1793-maximum-score-of-a-good-subarray-24dn)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-48bl)
 - [Are Tech Industry Layoffs Reflecting New Tech Landscape Realities?](https://dev.to/devteam/are-tech-industry-layoffs-reflecting-new-tech-landscape-realities-3470)
-- [Crafting Multi-Chapter Narratives with AI: A Journey into Automated Storytelling](https://dev.to/aws-builders/crafting-multi-chapter-narratives-with-ai-a-journey-into-automated-storytelling-19gg)
 <!-- BLOG-POST-LIST:END -->
 
