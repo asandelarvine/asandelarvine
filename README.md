@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [IMAP vs POP3 vs SMTP - A Comprehensive Guide for Choosing the Right Email Protocol](https://dev.to/nikl/imap-vs-pop3-vs-smtp-a-comprehensive-guide-for-choosing-the-right-email-protocol-33m7)
 - [Jest Mastery: Elevating Your Testing Skills with Proven Best Practices](https://dev.to/thagichucodes/jest-mastery-elevating-your-testing-skills-with-proven-best-practices-4d7m)
 - [Navigating Docker With Captains - Francesco Ciulla](https://dev.to/livecycle/navigating-docker-with-captains-francesco-ciulla-4pie)
 - [WordPress Development Best Practices: Building Efficient and Secure Websites](https://dev.to/kevinmutua/wordpress-development-best-practices-building-efficient-and-secure-websites-j6)
-- [CatGPT - or How to Position Elements on Overlays](https://dev.to/eevajonnapanula/catgpt-or-how-to-position-elements-on-overlays-1c48)
 <!-- BLOG-POST-LIST:END -->
 
