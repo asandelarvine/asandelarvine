@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Development Best Practices: Building Efficient and Secure Websites](https://dev.to/kevinmutua/wordpress-development-best-practices-building-efficient-and-secure-websites-j6)
+- [CatGPT - or How to Position Elements on Overlays](https://dev.to/eevajonnapanula/catgpt-or-how-to-position-elements-on-overlays-1c48)
 - [MySQL x Flask: Add MySQL database with Flask App](https://dev.to/sachingeek/mysql-x-flask-add-mysql-database-with-flask-app-e79)
 - [#Leetcode 1361: Validating Binary Tree Nodes &lpar;Medium&rpar;](https://dev.to/speaklouder/leetcode-1361-validating-binary-tree-nodes-medium-2bla)
-- [LeetCode1425: Solving Constrained Subsequence Sum with DP and Heap Approach](https://dev.to/speaklouder/leetcode1425-solving-constrained-subsequence-sum-with-dp-and-heap-approach-a51)
-- [Solving LeetCode 1793: Maximum Score of a Good Subarray](https://dev.to/speaklouder/solving-leetcode-1793-maximum-score-of-a-good-subarray-24dn)
 <!-- BLOG-POST-LIST:END -->
 
