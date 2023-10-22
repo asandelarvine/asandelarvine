@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make a rotating circular text button](https://dev.to/developedbyluke/make-a-rotating-circular-text-button-1nlh)
+- [Tailwind CSS Linear Gradient Utility Tool](https://dev.to/rudolfolah/tailwind-css-linear-gradient-utility-tool-1448)
 - [AWS ECS: How does it work?](https://dev.to/ltcavalcanti/aws-ecs-how-does-it-work-ikd)
-- [🚣 10 Must-Know VS Code Shortcuts](https://dev.to/stefirosca/10-must-know-vs-code-shortcuts-1n17)
-- [Local Development with AWS Lambda and NestJS: Docker Debugging and Hot Reload](https://dev.to/venyabrodetskiy/local-development-with-aws-lambda-and-nestjs-docker-debugging-and-hot-reload-2k0h)
-- [Build A Translator App in 30 Min or Less](https://dev.to/aws/build-a-translator-app-in-30-min-or-less-n9c)
+- [Evolution of unit tests in Android](https://dev.to/ivanshafran/evolution-of-unit-tests-in-android-32c2)
 <!-- BLOG-POST-LIST:END -->
 
