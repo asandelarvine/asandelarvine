@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Intensive JSON Course: Mastering JavaScript Object Notation](https://dev.to/frantchessico/intensive-json-course-mastering-javascript-object-notation-49pf)
 - [Iterating through Arrays: forEach vs for...of](https://dev.to/frantchessico/iterating-through-arrays-foreach-vs-forof-kkc)
+- [Near Blockchain Development Guide For Ethereum Developers](https://dev.to/rishabhraghwendra/near-blockchain-development-guide-for-ethereum-developers-1f1n)
 - [Build A Web App Using Django](https://dev.to/scofieldidehen/build-a-web-app-using-django-4l22)
-- [The Complete Git Tutorial for Beginners: Master Version Control and Start Contributing to Open Source](https://dev.to/scofieldidehen/the-complete-git-tutorial-for-beginners-master-version-control-and-start-contributing-to-open-source-1k42)
 <!-- BLOG-POST-LIST:END -->
 
