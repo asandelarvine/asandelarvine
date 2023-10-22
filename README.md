@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia para Trainee e Dev Jr usando Java](https://dev.to/albertribeirov/guia-para-trainee-e-dev-jr-usando-java-1614)
 - [Not my type](https://dev.to/cedricfrancoys/not-my-type-56fo)
 - [Docker - Utilize Docker Compose for Local Development Environments](https://dev.to/theramoliya/docker-utilize-docker-compose-for-local-development-environments-17di)
 - [How to Start a Podcast: 10 Easy Steps](https://dev.to/syedbalkhi/how-to-start-a-podcast-10-easy-steps-4e0b)
-- [The Complete Guide to Time Series Models](https://dev.to/johnkyalo/the-complete-guide-to-time-series-models-o6g)
 <!-- BLOG-POST-LIST:END -->
 
