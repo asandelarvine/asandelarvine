@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Intensive JSON Course: Mastering JavaScript Object Notation](https://dev.to/frantchessico/intensive-json-course-mastering-javascript-object-notation-49pf)
+- [Iterating through Arrays: forEach vs for...of](https://dev.to/frantchessico/iterating-through-arrays-foreach-vs-forof-kkc)
+- [Build A Web App Using Django](https://dev.to/scofieldidehen/build-a-web-app-using-django-4l22)
 - [The Complete Git Tutorial for Beginners: Master Version Control and Start Contributing to Open Source](https://dev.to/scofieldidehen/the-complete-git-tutorial-for-beginners-master-version-control-and-start-contributing-to-open-source-1k42)
-- [Introducing Bloggy: The Open-Source Blogging Platform Built with Python and Django](https://dev.to/nilan/introducing-bloggy-the-open-source-blogging-platform-built-with-python-and-django-293e)
-- [Choosing the Right Notification Infrastructure for Your App or Website](https://dev.to/nikl/choosing-the-right-notification-infrastructure-for-your-app-or-website-5fk9)
-- [IMAP vs POP3 vs SMTP - A Comprehensive Guide for Choosing the Right Email Protocol](https://dev.to/nikl/imap-vs-pop3-vs-smtp-a-comprehensive-guide-for-choosing-the-right-email-protocol-33m7)
 <!-- BLOG-POST-LIST:END -->
 
