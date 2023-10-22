@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intensive JSON Course: Mastering JavaScript Object Notation](https://dev.to/frantchessico/intensive-json-course-mastering-javascript-object-notation-49pf)
-- [Iterating through Arrays: forEach vs for...of](https://dev.to/frantchessico/iterating-through-arrays-foreach-vs-forof-kkc)
-- [Near Blockchain Development Guide For Ethereum Developers](https://dev.to/rishabhraghwendra/near-blockchain-development-guide-for-ethereum-developers-1f1n)
-- [Build A Web App Using Django](https://dev.to/scofieldidehen/build-a-web-app-using-django-4l22)
+- [The Complete Guide to Time Series Models](https://dev.to/johnkyalo/the-complete-guide-to-time-series-models-o6g)
+- [Tortoise and Hare Algorithm](https://dev.to/iamadhee/tortoise-and-hare-algorithm-2a5f)
+- [The 20 Most Common Use Cases for JavaScript Arrays](https://dev.to/perssondennis/the-20-most-common-use-cases-for-javascript-arrays-2j8j)
+- [Yet Another Newsletter LOL: So Nullish](https://dev.to/nickytonline/yet-another-newsletter-lol-so-nullish-a0l)
 <!-- BLOG-POST-LIST:END -->
 
