@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Tech Industry Layoffs Reflecting New Tech Landscape Realities?](https://dev.to/devteam/are-tech-industry-layoffs-reflecting-new-tech-landscape-realities-3470)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-48bl)
+- [Crafting Multi-Chapter Narratives with AI: A Journey into Automated Storytelling](https://dev.to/aws-builders/crafting-multi-chapter-narratives-with-ai-a-journey-into-automated-storytelling-19gg)
 - [Enhancing AI Interaction: A Guide to Prompt Engineering](https://dev.to/_ollie20_/enhancing-ai-interaction-a-guide-to-prompt-engineering-1f9g)
-- [I am here now](https://dev.to/codingfeedsme/i-am-here-now-328h)
-- [Practical tips for code reviews in large teams](https://dev.to/rchugunov/practical-tips-for-code-reviews-in-large-teams-25nb)
-- [Thank you so much everyone!](https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j)
 <!-- BLOG-POST-LIST:END -->
 
