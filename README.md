@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Bloggy: The Open-Source Blogging Platform Built with Python and Django](https://dev.to/nilan/introducing-bloggy-the-open-source-blogging-platform-built-with-python-and-django-293e)
+- [Choosing the Right Notification Infrastructure for Your App or Website](https://dev.to/nikl/choosing-the-right-notification-infrastructure-for-your-app-or-website-5fk9)
 - [IMAP vs POP3 vs SMTP - A Comprehensive Guide for Choosing the Right Email Protocol](https://dev.to/nikl/imap-vs-pop3-vs-smtp-a-comprehensive-guide-for-choosing-the-right-email-protocol-33m7)
 - [Jest Mastery: Elevating Your Testing Skills with Proven Best Practices](https://dev.to/thagichucodes/jest-mastery-elevating-your-testing-skills-with-proven-best-practices-4d7m)
-- [Navigating Docker With Captains - Francesco Ciulla](https://dev.to/livecycle/navigating-docker-with-captains-francesco-ciulla-4pie)
-- [WordPress Development Best Practices: Building Efficient and Secure Websites](https://dev.to/kevinmutua/wordpress-development-best-practices-building-efficient-and-secure-websites-j6)
 <!-- BLOG-POST-LIST:END -->
 
