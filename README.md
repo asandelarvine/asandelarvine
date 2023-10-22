@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Local Development with AWS Lambda and NestJS: Docker Debugging and Hot Reload](https://dev.to/venyabrodetskiy/local-development-with-aws-lambda-and-nestjs-docker-debugging-and-hot-reload-2k0h)
+- [Build A Translator App in 30 Min or Less](https://dev.to/aws/build-a-translator-app-in-30-min-or-less-n9c)
+- [Exploring Error Boundary in React: Enhancing Robustness and Error Handling](https://dev.to/m_midas/exploring-error-boundary-in-react-enhancing-robustness-and-error-handling-3457)
 - [The JavaScript open-source ebook](https://dev.to/robertobutti/the-javascript-open-source-ebook-1j4e)
-- [Guia para Trainee e Dev Jr usando Java](https://dev.to/albertribeirov/guia-para-trainee-e-dev-jr-usando-java-1614)
-- [Not my type](https://dev.to/cedricfrancoys/not-my-type-56fo)
-- [Docker - Utilize Docker Compose for Local Development Environments](https://dev.to/theramoliya/docker-utilize-docker-compose-for-local-development-environments-17di)
 <!-- BLOG-POST-LIST:END -->
 
