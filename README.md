@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 React Lazy-Loading Images Libraries for 2023](https://dev.to/martygo/top-5-react-lazy-loading-images-libraries-for-2023-40nf)
+- [Revolutionizing E-commerce with AIOps and ChatGPT: The Future of Customer Engagement](https://dev.to/agarralexx/revolutionizing-e-commerce-with-aiops-and-chatgpt-the-future-of-customer-engagement-1idd)
+- [Leaked .NET 8 Features! 5 New Cool Things Added](https://dev.to/bytehide/leaked-net-8-features-5-new-cool-things-added-1gmm)
 - [What&#39;s New in Angular 16? Top features to discover.](https://dev.to/ifourtechnolab/whats-new-in-angular-16-top-features-to-discover-37n1)
-- [Replace any object in a photograph with Stable Diffusion Python SDK.](https://dev.to/anyisalin/replace-any-object-in-a-photograph-with-stable-diffusion-python-sdk-23f5)
-- [AWS open source newsletter, #176](https://dev.to/aws/aws-open-source-newsletter-176-2ige)
-- [Weekly Roundup 023 &lpar;Oct 16&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-023-oct-16-hot-topics-in-workplace-sharepoint-and-powerplatform-1im7)
 <!-- BLOG-POST-LIST:END -->
 
