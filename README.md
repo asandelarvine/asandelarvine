@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in Angular 16? Top features to discover.](https://dev.to/ifourtechnolab/whats-new-in-angular-16-top-features-to-discover-37n1)
+- [Replace any object in a photograph with Stable Diffusion Python SDK.](https://dev.to/anyisalin/replace-any-object-in-a-photograph-with-stable-diffusion-python-sdk-23f5)
+- [AWS open source newsletter, #176](https://dev.to/aws/aws-open-source-newsletter-176-2ige)
 - [Weekly Roundup 023 &lpar;Oct 16&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-023-oct-16-hot-topics-in-workplace-sharepoint-and-powerplatform-1im7)
-- [Your Expense Entry Sidekick: The &#39;Irona&#39; of Automation](https://dev.to/balagmadhu/your-expense-entry-sidekick-the-irona-of-automation-5ko)
-- [The Art of Agile Software Development: Building Better Software, Faster](https://dev.to/sediak/the-art-of-agile-software-development-building-better-software-faster-1i50)
-- [Don&#39;t Lose Your Events! Use the Transactional Outbox Pattern.](https://dev.to/aws-builders/dont-lose-your-events-use-the-transactional-outbox-pattern-ggo)
 <!-- BLOG-POST-LIST:END -->
 
