@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Make a rotating circular text button](https://dev.to/developedbyluke/make-a-rotating-circular-text-button-1nlh)
 - [Tailwind CSS Linear Gradient Utility Tool](https://dev.to/rudolfolah/tailwind-css-linear-gradient-utility-tool-1448)
+- [NeobrutalismCSS - A Classless CSS Library](https://dev.to/matifandy8/neobrutalismcss-a-classless-css-library-13e9)
 - [AWS ECS: How does it work?](https://dev.to/ltcavalcanti/aws-ecs-how-does-it-work-ikd)
-- [Evolution of unit tests in Android](https://dev.to/ivanshafran/evolution-of-unit-tests-in-android-32c2)
 <!-- BLOG-POST-LIST:END -->
 
