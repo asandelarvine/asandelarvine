@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 API Maker - i18n Internationalization](https://dev.to/apimaker/api-maker-i18n-internationalization-10c0)
 - [The Magic of Interfaces in Go](https://dev.to/calvinmclean/the-magic-of-interfaces-in-go-5gga)
 - [What Innovative Possibilities Does Generative AI Unlock?](https://dev.to/devteam/what-innovative-possibilities-does-generative-ai-unlock-504)
 - [Make a rotating circular text button](https://dev.to/developedbyluke/make-a-rotating-circular-text-button-1nlh)
-- [Tailwind CSS Linear Gradient Utility Tool](https://dev.to/rudolfolah/tailwind-css-linear-gradient-utility-tool-1448)
 <!-- BLOG-POST-LIST:END -->
 
