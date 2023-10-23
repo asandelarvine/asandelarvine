@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Magic of Interfaces in Go](https://dev.to/calvinmclean/the-magic-of-interfaces-in-go-5gga)
+- [What Innovative Possibilities Does Generative AI Unlock?](https://dev.to/devteam/what-innovative-possibilities-does-generative-ai-unlock-504)
 - [Make a rotating circular text button](https://dev.to/developedbyluke/make-a-rotating-circular-text-button-1nlh)
 - [Tailwind CSS Linear Gradient Utility Tool](https://dev.to/rudolfolah/tailwind-css-linear-gradient-utility-tool-1448)
-- [NeobrutalismCSS - A Classless CSS Library](https://dev.to/matifandy8/neobrutalismcss-a-classless-css-library-13e9)
-- [AWS ECS: How does it work?](https://dev.to/ltcavalcanti/aws-ecs-how-does-it-work-ikd)
 <!-- BLOG-POST-LIST:END -->
 
