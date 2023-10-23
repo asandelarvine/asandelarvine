@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you might want to switch to Linux as an Computing Undergraduate](https://dev.to/ayoitsyas/why-you-might-want-to-switch-to-linux-as-an-computing-undergraduate-4j5h)
+- [Creating and Testing Apollo Client Links](https://dev.to/companycam/creating-and-testing-apollo-client-links-cca)
 - [Beyond the Blockchain Hype: The Future After the Fall](https://dev.to/scofieldidehen/beyond-the-blockchain-hype-the-future-after-the-fall-343n)
 - [FLaNK Stack Weekly 23 Oct 2023](https://dev.to/tspannhw/flank-stack-weekly-23-oct-2023-17ej)
-- [Supervisors - Letting things crash](https://dev.to/cherryramatis/supervisors-letting-things-crash-1lh2)
-- [Introducing BattlePlan - Free Notion Template for Dev Teams with Tight Deadlines](https://dev.to/thedevtimeline/introducing-battleplan-free-notion-template-for-dev-teams-with-tight-deadlines-49li)
 <!-- BLOG-POST-LIST:END -->
 
