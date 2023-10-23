@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stress Relief and Focus: Mindfulness Techniques for Developers](https://dev.to/codingcrafts/stress-relief-and-focus-mindfulness-techniques-for-developers-4ff)
+- [💅 Creating Polished Content with React Markdown](https://dev.to/refine/creating-polished-content-with-react-markdown-3h65)
 - [Java Messaging Service &lpar; JMS &rpar;](https://dev.to/safvan_8/java-messaging-service-jms--2aeb)
 - [Updated: Build a PWA with Next.js with achieve 100% score in lighthouse](https://dev.to/lakshmananarumugam/updated-build-a-pwa-with-nextjs-with-achieve-100-score-in-lighthouse-j74)
-- [🚀 API Maker - i18n Internationalization](https://dev.to/apimaker/api-maker-i18n-internationalization-10c0)
-- [Mastering JavaScript: A Comprehensive Interview Guide for Students](https://dev.to/mi1an/mastering-javascript-a-comprehensive-interview-guide-for-students-37l2)
 <!-- BLOG-POST-LIST:END -->
 
