@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinpoint performance regressions with CI-Integrated differential profiling](https://dev.to/codspeed/pinpoint-performance-regressions-with-ci-integrated-differential-profiling-546k)
-- [Top 11 Grafana Alternatives in 2023](https://dev.to/signoz/top-11-grafana-alternatives-in-2023-48m3)
-- [Fix IT: One person always speaks in meetings but does not say anything that could interest you.](https://dev.to/bogomil/one-person-always-speaks-in-meetings-but-does-not-say-anything-that-could-interest-you-474)
-- [JavaScript as a Query Language: The Invisible RPC](https://dev.to/doseofted/javascript-as-a-query-language-the-invisible-rpc-5d52)
+- [Beyond the Blockchain Hype: The Future After the Fall](https://dev.to/scofieldidehen/beyond-the-blockchain-hype-the-future-after-the-fall-343n)
+- [FLaNK Stack Weekly 23 Oct 2023](https://dev.to/tspannhw/flank-stack-weekly-23-oct-2023-17ej)
+- [Supervisors - Letting things crash](https://dev.to/cherryramatis/supervisors-letting-things-crash-1lh2)
+- [Introducing BattlePlan - Free Notion Template for Dev Teams with Tight Deadlines](https://dev.to/thedevtimeline/introducing-battleplan-free-notion-template-for-dev-teams-with-tight-deadlines-49li)
 <!-- BLOG-POST-LIST:END -->
 
