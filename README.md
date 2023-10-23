@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is an open graph? You must know this feature in web development.](https://dev.to/patik123/what-is-an-open-graph-you-must-know-this-feature-in-web-development-7bo)
+- [Implementing Supabase Auth in Next13 with Prisma](https://dev.to/mihaiandrei97/implementing-supabase-auth-in-next13-with-prisma-172i)
+- [Generating Types for Feature Flags](https://dev.to/flipt/generating-types-for-feature-flags-22cm)
 - [Open Source Document Sharing platform built developer-friendly: launches, updates, stats](https://dev.to/papermark/open-source-document-sharing-platform-built-developer-friendly-launches-updates-stats-35i4)
-- [In defense of learning on company time](https://dev.to/isaacdlyman/in-defense-of-learning-on-company-time-59i)
-- [pgvector vs Pinecone: cost and performance](https://dev.to/supabase/pgvector-vs-pinecone-cost-and-performance-22g5)
-- [Why you might want to switch to Linux as an Computing Undergraduate](https://dev.to/ayoitsyas/why-you-might-want-to-switch-to-linux-as-an-computing-undergraduate-4j5h)
 <!-- BLOG-POST-LIST:END -->
 
