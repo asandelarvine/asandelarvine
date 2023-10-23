@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [🚀 API Maker - i18n Internationalization](https://dev.to/apimaker/api-maker-i18n-internationalization-10c0)
+- [Mastering JavaScript: A Comprehensive Interview Guide for Students](https://dev.to/mi1an/mastering-javascript-a-comprehensive-interview-guide-for-students-37l2)
 - [The Magic of Interfaces in Go](https://dev.to/calvinmclean/the-magic-of-interfaces-in-go-5gga)
 - [What Innovative Possibilities Does Generative AI Unlock?](https://dev.to/devteam/what-innovative-possibilities-does-generative-ai-unlock-504)
-- [Make a rotating circular text button](https://dev.to/developedbyluke/make-a-rotating-circular-text-button-1nlh)
 <!-- BLOG-POST-LIST:END -->
 
