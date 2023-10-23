@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Direct and Indirect Effects of Test-Driven Development &lpar;TDD&rpar;](https://dev.to/mungaben/direct-and-indirect-effects-of-test-driven-development-tdd-23fl)
-- [The Test List in Test-Driven Development &lpar;TDD&rpar;](https://dev.to/mungaben/the-test-list-in-test-driven-development-tdd-2i01)
-- [Triangulation in Test-Driven Development &lpar;TDD&rpar;](https://dev.to/mungaben/triangulation-in-test-driven-development-tdd-gnd)
-- [The TDD Cycle: Red, Green, Refactor](https://dev.to/mungaben/the-tdd-cycle-red-green-refactor-1aaf)
+- [Top 11 Grafana Alternatives in 2023](https://dev.to/signoz/top-11-grafana-alternatives-in-2023-48m3)
+- [Fix IT: One person always speaks in meetings but does not say anything that could interest you.](https://dev.to/bogomil/one-person-always-speaks-in-meetings-but-does-not-say-anything-that-could-interest-you-474)
+- [JavaScript as a Query Language: The Invisible RPC](https://dev.to/doseofted/javascript-as-a-query-language-the-invisible-rpc-5d52)
+- [Determining Tests in Test-Driven Development &lpar;TDD&rpar;](https://dev.to/mungaben/determining-tests-in-test-driven-development-tdd-48d8)
 <!-- BLOG-POST-LIST:END -->
 
