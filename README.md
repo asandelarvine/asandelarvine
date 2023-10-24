@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Developer Soft Skills](https://dev.to/hasanelsherbiny/top-5-developer-soft-skills-4fkk)
-- [Customize your components: Class and Style Bindings 💅](https://dev.to/dvalin99/customize-your-components-class-and-style-bindings-2kk9)
-- [Understanding the Weighted Random Algorithm](https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p)
-- [Choosing the Right AWS Database: A Guide for Modern Applications](https://dev.to/aws-builders/choosing-the-right-aws-database-a-guide-for-modern-applications-47l0)
+- [Understanding Different Types of Deployments](https://dev.to/yogini16/understanding-different-types-of-deployments-38c0)
+- [Answers to your questions about ispmanager. How we test the product and deal with bugs](https://dev.to/issi/answers-to-your-questions-about-ispmanager-how-we-test-the-product-and-deal-with-bugs-fif)
+- [HTML META TAGS](https://dev.to/shubhamtiwari909/html-meta-tags-3799)
+- [🤯20 JavaScript Tricks to Optimize Code Like a Pro 🚀](https://dev.to/todayscode14/20-javascript-tricks-to-optimize-code-like-a-pro-2e3a)
 <!-- BLOG-POST-LIST:END -->
 
