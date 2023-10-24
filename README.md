@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best way to create requirements.txt](https://dev.to/sajidurshajib/best-way-to-create-requirementstxt-5co9)
+- [Unlock developer creativity with GitHub Actions](https://dev.to/appmap/unlock-developer-creativity-with-github-actions-211j)
 - [Before You Learn React In 2023](https://dev.to/scofieldidehen/before-you-learn-react-in-2023-3c5i)
-- [✨ The quickest way to find Hacktoberfest projects 🚀](https://dev.to/quine/the-quickest-way-to-find-hacktoberfest-projects-1795)
-- [Playing with the Gamepad API](https://dev.to/alvaromontoro/playing-with-the-gamepad-api-gha)
-- [Trigger Lambda Function When New Image is Uploaded to S3 - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-builders/trigger-lambda-function-when-new-image-is-uploaded-to-s3-lets-build-series-foa)
+- [have to go to school so i wont post very much](https://dev.to/emilio-and-asher/have-to-go-to-school-so-i-wont-post-very-much-8h9)
 <!-- BLOG-POST-LIST:END -->
 
