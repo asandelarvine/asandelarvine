@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Announcing 1.0.0-alpha.3 release: more powerful resource tracking, notifications and content sharing](https://dev.to/azasypkin/announcing-100-alpha3-release-more-powerful-resource-tracking-notifications-and-content-sharing-35ca)
 - [How To Get Type-Safety Frontend Queries Like GraphQL Without GraphQL Using Typescript](https://dev.to/zenstack/how-to-get-type-safety-frontend-queries-like-graphql-without-graphql-using-typescript-1n70)
 - [Creating a Fun and Engaging Workplace - Create your own Emojis](https://dev.to/jaloplo/creating-a-fun-and-engaging-workplace-create-your-own-emojis-3dm0)
-- [Synergy in AI: Bridging the Gap Between Data Science and Business](https://dev.to/shittu_olumide_/synergy-in-ai-bridging-the-gap-between-data-science-and-business-510j)
+- [BLM - Build Learn Monetize: My Journey of Learning](https://dev.to/d41_dev/blm-build-learn-monetize-my-journey-of-learning-lp0)
 <!-- BLOG-POST-LIST:END -->
 
