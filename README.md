@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing 1.0.0-alpha.3 release: more powerful resource tracking, notifications and content sharing](https://dev.to/azasypkin/announcing-100-alpha3-release-more-powerful-resource-tracking-notifications-and-content-sharing-35ca)
-- [How To Get Type-Safety Frontend Queries Like GraphQL Without GraphQL Using Typescript](https://dev.to/zenstack/how-to-get-type-safety-frontend-queries-like-graphql-without-graphql-using-typescript-1n70)
-- [Creating a Fun and Engaging Workplace - Create your own Emojis](https://dev.to/jaloplo/creating-a-fun-and-engaging-workplace-create-your-own-emojis-3dm0)
-- [BLM - Build Learn Monetize: My Journey of Learning](https://dev.to/d41_dev/blm-build-learn-monetize-my-journey-of-learning-lp0)
+- [Benefits of Blockchain Platforms for Token Development](https://dev.to/braxton/benefits-of-blockchain-platforms-for-token-development-2i9g)
+- [🎉 17 Javascript repositories to become the best developer in the world 🌍](https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3)
+- [Simplifying JavaScript Code with Array Destructuring](https://dev.to/shameel/simplifying-javascript-code-with-array-destructuring-3j4k)
+- [Compondo música com Java! É hora do Jmusic](https://dev.to/he4rt/compondo-musica-com-java-e-hora-do-jmusic-db)
 <!-- BLOG-POST-LIST:END -->
 
