@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [24 Antipatterns to Avoid in 2024 🚫2️⃣0️⃣2️⃣4️⃣🚫 🤖💩🤡🤯](https://dev.to/ingosteinke/24-antipatterns-to-avoid-in-2024-2024-175f)
-- [Azure Arc Windows and Linux Dashboard](https://dev.to/techielass/azure-arc-windows-and-linux-dashboard-5df7)
-- [Why I believe in open source](https://dev.to/opensourcee/why-i-believe-in-open-source-1fjb)
-- [🎉 17 Javascript repositories to become the best developer in the world 🌍](https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3)
+- [DEPLOY A LINUX CUSTOM TEMPLATE &lpar;ARM&rpar;](https://dev.to/jeffderick/how-to-deploy-a-linux-custom-template-arm-42eg)
+- [🧠 4 Traits of Successful Engineers](https://dev.to/alexr/4-traits-of-successful-engineers-29md)
+- [[Long read] Deep dive into AutoGPT: A comprehensive and in-depth step-by-step guide to how it works](https://dev.to/airtai/long-read-deep-dive-into-autogpt-a-comprehensive-and-in-depth-step-by-step-guide-to-how-it-works-48gd)
+- [How to Create a Booking Website for Travel and Hospitality Businesses](https://dev.to/onix-systems/how-to-create-a-booking-website-for-travel-and-hospitality-businesses-3108)
 <!-- BLOG-POST-LIST:END -->
 
