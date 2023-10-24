@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Programming Works](https://dev.to/vayolapradeep/exploring-the-wonders-of-how-programming-really-works-kp0)
+- [Setting up Tailwind, the easy way](https://dev.to/nullvoxpopuli/setting-up-tailwind-the-easy-way-5843)
 - [The top real-time notification services for building in-app notifications](https://dev.to/knocklabs/the-top-real-time-notification-services-for-building-in-app-notifications-olc)
 - [How to Use TanStack-Query to Write Cleaner React Code as a Junior Developer](https://dev.to/elisabethleonhardt/how-to-use-tanstack-query-to-write-cleaner-react-code-as-a-junior-developer-2k88)
-- [React Calculator: Building Basic Arithmetic Operations with User-Friendly Interface](https://dev.to/kartikbudhraja/react-calculator-building-basic-arithmetic-operations-with-user-friendly-interface-1b1b)
-- [Server-Side Rendering with AWS Amplify](https://dev.to/aws-builders/server-side-rendering-with-aws-amplify-3o66)
 <!-- BLOG-POST-LIST:END -->
 
