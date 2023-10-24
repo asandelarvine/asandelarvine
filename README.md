@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Go backend service with PostgreSQL database in 5 minutes](https://dev.to/encore/build-and-deploy-a-go-backend-with-a-postgresql-database-in-5-minutes-51gh)
+- [Top 10 AI Tools Every Developer Should Know About](https://dev.to/foxinfotech/top-10-ai-tools-every-developer-should-know-about-3gg6)
+- [How to use the different content types in Appwrite functions](https://dev.to/hackmamba/how-to-use-the-different-content-types-in-appwrite-functions-55hm)
 - [Understanding Different Types of Deployments](https://dev.to/yogini16/understanding-different-types-of-deployments-38c0)
-- [Answers to your questions about ispmanager. How we test the product and deal with bugs](https://dev.to/issi/answers-to-your-questions-about-ispmanager-how-we-test-the-product-and-deal-with-bugs-fif)
-- [HTML META TAGS](https://dev.to/shubhamtiwari909/html-meta-tags-3799)
-- [🤯20 JavaScript Tricks to Optimize Code Like a Pro 🚀](https://dev.to/todayscode14/20-javascript-tricks-to-optimize-code-like-a-pro-2e3a)
 <!-- BLOG-POST-LIST:END -->
 
