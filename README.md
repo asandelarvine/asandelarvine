@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add Authentication with HANKO in your project? ✨✨✨](https://dev.to/ankur0904/how-to-add-authentication-with-hanko-in-your-project-p0j)
-- [Evaluating the blockchain trilemma and its solution](https://dev.to/aysha/evaluating-the-blockchain-trilemma-and-its-solution-4hak)
-- [Create a constraint in xcode](https://dev.to/avelynhc/create-a-constraint-in-xcode-13fd)
-- [Create another view controller in Xcode](https://dev.to/avelynhc/create-another-view-controller-in-xcode-49io)
+- [Before You Learn React In 2023](https://dev.to/scofieldidehen/before-you-learn-react-in-2023-3c5i)
+- [✨ The quickest way to find Hacktoberfest projects 🚀](https://dev.to/quine/the-quickest-way-to-find-hacktoberfest-projects-1795)
+- [Playing with the Gamepad API](https://dev.to/alvaromontoro/playing-with-the-gamepad-api-gha)
+- [Trigger Lambda Function When New Image is Uploaded to S3 - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-builders/trigger-lambda-function-when-new-image-is-uploaded-to-s3-lets-build-series-foa)
 <!-- BLOG-POST-LIST:END -->
 
