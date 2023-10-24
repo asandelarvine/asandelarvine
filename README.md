@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing Essential Software on Kali Linux: Browsers, Office Suite, Code Editors, and More](https://dev.to/brlikhon/installing-essential-software-on-kali-linux-browsers-office-suite-code-editors-and-more-2jn)
 - [🚀 API Maker - API Testing Environment](https://dev.to/apimaker/api-maker-api-testing-environment-246e)
 - [Can You Transform Blame into Empowerment?](https://dev.to/devteam/can-you-transform-blame-into-empowerment-2gmh)
 - [What&#39;s Your Preferred Srategy for Organizing Code?](https://dev.to/codenewbieteam/whats-your-preferred-srategy-for-organizing-code-f91)
-- [Looking inside ROScribe and the idea of LLM-based robotic platform](https://dev.to/robocoach/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform-3i12)
 <!-- BLOG-POST-LIST:END -->
 
