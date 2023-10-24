@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Go backend service with PostgreSQL database in 5 minutes](https://dev.to/encore/build-and-deploy-a-go-backend-with-a-postgresql-database-in-5-minutes-51gh)
-- [Top 10 AI Tools Every Developer Should Know About](https://dev.to/foxinfotech/top-10-ai-tools-every-developer-should-know-about-3gg6)
-- [How to use the different content types in Appwrite functions](https://dev.to/hackmamba/how-to-use-the-different-content-types-in-appwrite-functions-55hm)
-- [Understanding Different Types of Deployments](https://dev.to/yogini16/understanding-different-types-of-deployments-38c0)
+- [Announcing 1.0.0-alpha.3 release: more powerful resource tracking, notifications and content sharing](https://dev.to/azasypkin/announcing-100-alpha3-release-more-powerful-resource-tracking-notifications-and-content-sharing-35ca)
+- [How To Get Type-Safety Frontend Queries Like GraphQL Without GraphQL Using Typescript](https://dev.to/zenstack/how-to-get-type-safety-frontend-queries-like-graphql-without-graphql-using-typescript-1n70)
+- [Creating a Fun and Engaging Workplace - Create your own Emojis](https://dev.to/jaloplo/creating-a-fun-and-engaging-workplace-create-your-own-emojis-3dm0)
+- [Synergy in AI: Bridging the Gap Between Data Science and Business](https://dev.to/shittu_olumide_/synergy-in-ai-bridging-the-gap-between-data-science-and-business-510j)
 <!-- BLOG-POST-LIST:END -->
 
