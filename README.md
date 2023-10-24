@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We need a new convention for Javascript](https://dev.to/shreyvijayvargiya/we-need-a-new-convention-for-javascript-1ck9)
+- [Hey guys, how are you with Hacktoberfest, let&#39;s talk!](https://dev.to/renancferro/hey-guys-how-are-you-with-hacktoberfest-lets-talk-56d6)
+- [Automatically deploying WordPress plugins and/or themes with GitHub actions](https://dev.to/sarahcssiqueira/automatically-deploying-wordpress-plugins-andor-themes-with-github-actions-4m4n)
 - [How Programming Works](https://dev.to/vayolapradeep/exploring-the-wonders-of-how-programming-really-works-kp0)
-- [Setting up Tailwind, the easy way](https://dev.to/nullvoxpopuli/setting-up-tailwind-the-easy-way-5843)
-- [The top real-time notification services for building in-app notifications](https://dev.to/knocklabs/the-top-real-time-notification-services-for-building-in-app-notifications-olc)
-- [How to Use TanStack-Query to Write Cleaner React Code as a Junior Developer](https://dev.to/elisabethleonhardt/how-to-use-tanstack-query-to-write-cleaner-react-code-as-a-junior-developer-2k88)
 <!-- BLOG-POST-LIST:END -->
 
