@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of Blockchain Platforms for Token Development](https://dev.to/braxton/benefits-of-blockchain-platforms-for-token-development-2i9g)
+- [24 Antipatterns to Avoid in 2024 🚫2️⃣0️⃣2️⃣4️⃣🚫 🤖💩🤡🤯](https://dev.to/ingosteinke/24-antipatterns-to-avoid-in-2024-2024-175f)
+- [Azure Arc Windows and Linux Dashboard](https://dev.to/techielass/azure-arc-windows-and-linux-dashboard-5df7)
+- [Why I believe in open source](https://dev.to/opensourcee/why-i-believe-in-open-source-1fjb)
 - [🎉 17 Javascript repositories to become the best developer in the world 🌍](https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3)
-- [Simplifying JavaScript Code with Array Destructuring](https://dev.to/shameel/simplifying-javascript-code-with-array-destructuring-3j4k)
-- [Compondo música com Java! É hora do Jmusic](https://dev.to/he4rt/compondo-musica-com-java-e-hora-do-jmusic-db)
 <!-- BLOG-POST-LIST:END -->
 
