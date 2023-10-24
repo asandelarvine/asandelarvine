@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best way to create requirements.txt](https://dev.to/sajidurshajib/best-way-to-create-requirementstxt-5co9)
-- [Unlock developer creativity with GitHub Actions](https://dev.to/appmap/unlock-developer-creativity-with-github-actions-211j)
-- [Before You Learn React In 2023](https://dev.to/scofieldidehen/before-you-learn-react-in-2023-3c5i)
-- [have to go to school so i wont post very much](https://dev.to/emilio-and-asher/have-to-go-to-school-so-i-wont-post-very-much-8h9)
+- [Unlocking the Secrets: Exploring &quot;Guess the Logo&quot; in the Programming Universe](https://dev.to/rakeshkr2/unlocking-the-secrets-exploring-guess-the-logo-in-the-programming-universe-47c1)
+- [Beginner’s Guide On Sending Automated Emails With Node.js, Nodemailer, and Cron Jobs](https://dev.to/scofieldidehen/beginners-guide-on-sending-automated-emails-with-nodejs-nodemailer-and-cron-jobs-35pm)
+- [Create fullstack Web Application with Spring Boot and Next.js](https://dev.to/himanshue3/create-fullstack-web-application-with-spring-boot-and-nextjs-27c1)
+- [Mastering Automation with Ansible](https://dev.to/mohammadtb/mastering-automation-with-ansible-1k5)
 <!-- BLOG-POST-LIST:END -->
 
