@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking inside ROScribe and the idea of LLM-based robotic platform](https://dev.to/robocoach/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform-3i12)
+- [Hardcore is more than just difficulty.](https://dev.to/atoome/hardcore-is-more-than-just-difficulty-3bj)
 - [Meme Monday](https://dev.to/ben/meme-monday-1jjg)
-- [Demystifying Embeddings in AI: The Heartbeat of Language Models](https://dev.to/alkanet88/demystifying-embeddings-in-ai-the-heartbeat-of-language-models-12c)
-- [How to stop individual and all Docker processes](https://dev.to/unkletayo/how-to-stop-individual-and-all-docker-processes-52fh)
-- [Probabilistic Data Structures and Algorithms in NoSQL databases](https://dev.to/mknasiecki/probabilistic-data-structures-and-algorithms-in-nosql-databases-4mp7)
+- [Viewport units in CSS: Beyond VH](https://dev.to/leomunizq/viewport-units-in-css-beyond-vh-4ndn)
 <!-- BLOG-POST-LIST:END -->
 
