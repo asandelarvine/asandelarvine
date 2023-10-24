@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Secrets: Exploring &quot;Guess the Logo&quot; in the Programming Universe](https://dev.to/rakeshkr2/unlocking-the-secrets-exploring-guess-the-logo-in-the-programming-universe-47c1)
-- [Beginner’s Guide On Sending Automated Emails With Node.js, Nodemailer, and Cron Jobs](https://dev.to/scofieldidehen/beginners-guide-on-sending-automated-emails-with-nodejs-nodemailer-and-cron-jobs-35pm)
-- [Create fullstack Web Application with Spring Boot and Next.js](https://dev.to/himanshue3/create-fullstack-web-application-with-spring-boot-and-nextjs-27c1)
-- [Mastering Automation with Ansible](https://dev.to/mohammadtb/mastering-automation-with-ansible-1k5)
+- [React Calculator: Building Basic Arithmetic Operations with User-Friendly Interface](https://dev.to/kartikbudhraja/react-calculator-building-basic-arithmetic-operations-with-user-friendly-interface-1b1b)
+- [Server-Side Rendering with AWS Amplify](https://dev.to/aws-builders/server-side-rendering-with-aws-amplify-3o66)
+- [ways to Convert values to String](https://dev.to/speaklouder/ways-to-convert-values-to-string-4cc0)
+- [Decoding the Marvel: Unveiling the Intricacies of YouTube&#39;s Architecture](https://dev.to/rakeshkr2/decoding-the-marvel-unveiling-the-intricacies-of-youtubes-architecture-378i)
 <!-- BLOG-POST-LIST:END -->
 
