@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Developer Soft Skills](https://dev.to/hasanelsherbiny/top-5-developer-soft-skills-4fkk)
+- [Customize your components: Class and Style Bindings 💅](https://dev.to/dvalin99/customize-your-components-class-and-style-bindings-2kk9)
+- [Understanding the Weighted Random Algorithm](https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p)
 - [Choosing the Right AWS Database: A Guide for Modern Applications](https://dev.to/aws-builders/choosing-the-right-aws-database-a-guide-for-modern-applications-47l0)
-- [Deploying a Single Page Application &lpar;SPA&rpar; on AWS: A Beginner&#39;s Guide. Part 1. Theory](https://dev.to/aws-builders/deploying-a-single-page-application-spa-on-aws-a-beginners-guide-part-1-theory-36m0)
-- [Installing Essential Software on Kali Linux: Browsers, Office Suite, Code Editors, and More](https://dev.to/brlikhon/installing-essential-software-on-kali-linux-browsers-office-suite-code-editors-and-more-2jn)
-- [🚀 API Maker - API Testing Environment](https://dev.to/apimaker/api-maker-api-testing-environment-246e)
 <!-- BLOG-POST-LIST:END -->
 
