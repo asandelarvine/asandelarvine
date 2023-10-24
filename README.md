@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEPLOY A LINUX CUSTOM TEMPLATE &lpar;ARM&rpar;](https://dev.to/jeffderick/how-to-deploy-a-linux-custom-template-arm-42eg)
-- [🧠 4 Traits of Successful Engineers](https://dev.to/alexr/4-traits-of-successful-engineers-29md)
-- [[Long read] Deep dive into AutoGPT: A comprehensive and in-depth step-by-step guide to how it works](https://dev.to/airtai/long-read-deep-dive-into-autogpt-a-comprehensive-and-in-depth-step-by-step-guide-to-how-it-works-48gd)
-- [How to Create a Booking Website for Travel and Hospitality Businesses](https://dev.to/onix-systems/how-to-create-a-booking-website-for-travel-and-hospitality-businesses-3108)
+- [How to add Authentication with HANKO in your project? ✨✨✨](https://dev.to/ankur0904/how-to-add-authentication-with-hanko-in-your-project-p0j)
+- [Evaluating the blockchain trilemma and its solution](https://dev.to/aysha/evaluating-the-blockchain-trilemma-and-its-solution-4hak)
+- [Create a constraint in xcode](https://dev.to/avelynhc/create-a-constraint-in-xcode-13fd)
+- [Create another view controller in Xcode](https://dev.to/avelynhc/create-another-view-controller-in-xcode-49io)
 <!-- BLOG-POST-LIST:END -->
 
