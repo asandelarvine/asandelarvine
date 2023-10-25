@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeSmash LTD Campaign](https://dev.to/mariostopfer/codesmash-ltd-campaign-9ji)
+- [AI ignites the rain: Content Storm is back](https://dev.to/supabase/ai-ignites-the-rain-content-storm-is-back-kdl)
+- [Have multiple config file types in a project? Here’s a single tool to validate them all!](https://dev.to/kehoecj/have-multiple-config-file-types-in-a-project-heres-a-single-tool-to-validate-them-all-4l2m)
 - [How to Deploy Puppeteer with AWS Lambda](https://dev.to/qaproengineer/how-to-deploy-puppeteer-with-aws-lambda-2goe)
-- [Tech and Drugs: The Dark Side of Tech](https://dev.to/scofieldidehen/tech-and-drugs-the-dark-side-of-tech-648)
-- [Giving Power Back to Your Users with Flow’s Account Model](https://dev.to/mbogan/giving-power-back-to-your-users-with-flows-account-model-4g83)
-- [VueJS part 9: Creating components in the .vue files](https://dev.to/hi_iam_chris/vuejs-part-9-creating-components-in-the-vue-files-10n2)
 <!-- BLOG-POST-LIST:END -->
 
