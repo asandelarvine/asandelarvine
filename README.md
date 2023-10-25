@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy Puppeteer with AWS Lambda](https://dev.to/qaproengineer/how-to-deploy-puppeteer-with-aws-lambda-2goe)
+- [Tech and Drugs: The Dark Side of Tech](https://dev.to/scofieldidehen/tech-and-drugs-the-dark-side-of-tech-648)
+- [Giving Power Back to Your Users with Flow’s Account Model](https://dev.to/mbogan/giving-power-back-to-your-users-with-flows-account-model-4g83)
 - [VueJS part 9: Creating components in the .vue files](https://dev.to/hi_iam_chris/vuejs-part-9-creating-components-in-the-vue-files-10n2)
-- [CSS Layouts: Get Started with Container Queries](https://dev.to/dianale/css-layouts-get-started-with-container-queries-3dnf)
-- [Celebrating Hacktoberfest With Tips for Open-Source](https://dev.to/codesandboxio/celebrating-hacktoberfest-with-tips-for-open-source-3ba1)
-- [30 Killer Project Ideas 😍 For Your Resume 💪](https://dev.to/todayscode14/30-killer-project-ideas-for-your-resume-4cj8)
 <!-- BLOG-POST-LIST:END -->
 
