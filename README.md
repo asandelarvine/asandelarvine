@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Time Series Models.](https://dev.to/theai433/the-complete-guide-to-time-series-models-f89)
-- [A Blazingly Fast Open-Source Federation V1/V2 Gateway](https://dev.to/slickstef11/a-blazingly-fast-open-source-federation-v1v2-gateway-4i7k)
-- [CodeSmash LTD Campaign](https://dev.to/mariostopfer/codesmash-ltd-campaign-9ji)
-- [AI ignites the rain: Content Storm is back](https://dev.to/supabase/ai-ignites-the-rain-content-storm-is-back-kdl)
+- [How to train an Iris dataset classifier with Tinygrad](https://dev.to/skynse/how-to-train-an-iris-dataset-classifier-with-tinygrad-1gee)
+- [How I Achieved 10x Productivity at Remote Work](https://dev.to/ilatif/how-i-achieved-10x-productivity-at-remote-work-1040)
+- [The Advantages of Agentless Solutions for Backup](https://dev.to/ekurtovic/the-advantages-of-agentless-solutions-for-backup-30bg)
+- [Why Can&#39;t I Just Use This Function? The Struggles with Code Reusability in JS](https://dev.to/reggi/why-cant-i-just-use-this-function-the-struggles-with-code-reusability-in-js-23j3)
 <!-- BLOG-POST-LIST:END -->
 
