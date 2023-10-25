@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to train an Iris dataset classifier with Tinygrad](https://dev.to/skynse/how-to-train-an-iris-dataset-classifier-with-tinygrad-1gee)
-- [How I Achieved 10x Productivity at Remote Work](https://dev.to/ilatif/how-i-achieved-10x-productivity-at-remote-work-1040)
-- [The Advantages of Agentless Solutions for Backup](https://dev.to/ekurtovic/the-advantages-of-agentless-solutions-for-backup-30bg)
-- [Why Can&#39;t I Just Use This Function? The Struggles with Code Reusability in JS](https://dev.to/reggi/why-cant-i-just-use-this-function-the-struggles-with-code-reusability-in-js-23j3)
+- [How to Write Good Commit Messages](https://dev.to/jeeanny/how-to-write-good-commit-messages-5a66)
+- [The hustle free way to build a next.js blog with dev.to](https://dev.to/zmzlois/the-hustle-free-way-to-build-a-nextjs-blog-with-devto-3cae)
+- [ChatGPT&#39;S, evil twins are here](https://dev.to/fonyuygita/chatgpts-evil-twins-are-here-4hd4)
+- [Finding the Right Balance in Gradle Dependency Strategy](https://dev.to/y9vad9/finding-the-right-balance-in-gradle-dependency-strategy-4jdl)
 <!-- BLOG-POST-LIST:END -->
 
