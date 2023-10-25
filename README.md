@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Enable Hardware Acceleration on Chrome, Chromium &amp; Puppeteer on AWS in Headless mode](https://dev.to/mirzabilal/how-to-enable-hardware-acceleration-on-chrome-chromium-puppeteer-on-aws-in-headless-mode-50hd)
-- [10 typescript developers you must follow to become typescript expert in 2024](https://dev.to/firecampdev/10-typescript-developer-you-must-follow-to-become-typescript-expert-in-2024-5c19)
-- [42 Developer Resources to Kickstart Your Coding Journey 🚀🔥](https://dev.to/madza/42-developer-resources-to-kickstart-your-coding-journey-1p0e)
-- [What&#39;s left behind after hacktoberfest 2023?](https://dev.to/masterujjval/whats-left-behind-after-hacktoberfest-2023-2ip2)
+- [VueJS part 9: Creating components in the .vue files](https://dev.to/hi_iam_chris/vuejs-part-9-creating-components-in-the-vue-files-10n2)
+- [CSS Layouts: Get Started with Container Queries](https://dev.to/dianale/css-layouts-get-started-with-container-queries-3dnf)
+- [Celebrating Hacktoberfest With Tips for Open-Source](https://dev.to/codesandboxio/celebrating-hacktoberfest-with-tips-for-open-source-3ba1)
+- [30 Killer Project Ideas 😍 For Your Resume 💪](https://dev.to/todayscode14/30-killer-project-ideas-for-your-resume-4cj8)
 <!-- BLOG-POST-LIST:END -->
 
