@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Cool Animations in React with Framer Motion](https://dev.to/salehmubashar/5-cool-animations-in-react-with-framer-motion-5g9k)
+- [Laravel: API Resources: With or Without &quot;data&quot;?](https://dev.to/akhilh2o/laravel-api-resources-with-or-without-data-5dkn)
+- [What Is Terraform?](https://dev.to/hasanelsherbiny/what-is-terraform-2f8n)
 - [First Ever Experience at Hacktobefest&#39;23 Contributor✨🎉](https://dev.to/hritik6918/placeholder-contributor-54of)
-- [JavaScript FinalizationRegistry Unraveled: Memory Management Magic Explained!](https://dev.to/this-is-learning/javascript-finalizationregistry-unraveled-memory-management-magic-explained-3m70)
-- [The Complete Guide to Time Series Models](https://dev.to/muiruriiii/the-complete-guide-to-time-series-models-5b7n)
-- [What is NextJs?  Why Should You Use it in 2023?  NextJs Pros and Cons Guide](https://dev.to/suniljoshi19/what-is-nextjs-why-should-you-use-it-in-2023-nextjs-pros-and-cons-guide-57ce)
 <!-- BLOG-POST-LIST:END -->
 
