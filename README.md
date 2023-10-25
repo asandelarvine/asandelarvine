@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Base64 problem solved](https://dev.to/toviszsolt/base64-problem-solved-29og)
+- [Finding the largest value in each tree row](https://dev.to/mauricioabreu/finding-the-largest-value-in-each-tree-row-djg)
 - [Mastering Advanced Web Animations](https://dev.to/ctrlcoding/mastering-advanced-web-animations-455f)
-- [We need a new convention for Javascript](https://dev.to/shreyvijayvargiya/we-need-a-new-convention-for-javascript-1ck9)
-- [Hey guys, how are you with Hacktoberfest, let&#39;s talk!](https://dev.to/renancferro/hey-guys-how-are-you-with-hacktoberfest-lets-talk-56d6)
-- [Automatically deploying WordPress plugins and/or themes with GitHub actions](https://dev.to/sarahcssiqueira/automatically-deploying-wordpress-plugins-andor-themes-with-github-actions-4m4n)
+- [5 JavaScript Portfolio Projects You Need To Build](https://dev.to/domfive/5-javascript-portfolio-projects-to-unleash-your-web-dev-potential-i3i)
 <!-- BLOG-POST-LIST:END -->
 
