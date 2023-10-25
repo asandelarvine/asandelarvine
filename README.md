@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I think it&#39;s an effortful 😔 but great way to kickstart your Freelancer career](https://dev.to/ako61142833/i-think-its-an-effortful-but-great-way-to-kickstartyour-freelancer-career-3p7k)
-- [🔄 Looping Through JavaScript Arrays with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-arrays-with-different-approaches-4h87)
-- [What is Retrieval Augmented Generation &lpar;RAG&rpar;? 🚀](https://dev.to/confidentai/what-is-retrieval-augmented-generation-rag-4n7g)
-- [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
+- [How To Enable Hardware Acceleration on Chrome, Chromium &amp; Puppeteer on AWS in Headless mode](https://dev.to/mirzabilal/how-to-enable-hardware-acceleration-on-chrome-chromium-puppeteer-on-aws-in-headless-mode-50hd)
+- [10 typescript developers you must follow to become typescript expert in 2024](https://dev.to/firecampdev/10-typescript-developer-you-must-follow-to-become-typescript-expert-in-2024-5c19)
+- [42 Developer Resources to Kickstart Your Coding Journey 🚀🔥](https://dev.to/madza/42-developer-resources-to-kickstart-your-coding-journey-1p0e)
+- [What&#39;s left behind after hacktoberfest 2023?](https://dev.to/masterujjval/whats-left-behind-after-hacktoberfest-2023-2ip2)
 <!-- BLOG-POST-LIST:END -->
 
