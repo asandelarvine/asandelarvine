@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [First Ever Experience at Hacktobefest&#39;23 Contributor✨🎉](https://dev.to/hritik6918/placeholder-contributor-54of)
+- [JavaScript FinalizationRegistry Unraveled: Memory Management Magic Explained!](https://dev.to/this-is-learning/javascript-finalizationregistry-unraveled-memory-management-magic-explained-3m70)
 - [The Complete Guide to Time Series Models](https://dev.to/muiruriiii/the-complete-guide-to-time-series-models-5b7n)
 - [What is NextJs?  Why Should You Use it in 2023?  NextJs Pros and Cons Guide](https://dev.to/suniljoshi19/what-is-nextjs-why-should-you-use-it-in-2023-nextjs-pros-and-cons-guide-57ce)
-- [Adding a real feature to a project 🧛](https://dev.to/amnish04/adding-a-real-feature-to-a-project-400h)
-- [Building an Realtime Web Notepad App](https://dev.to/varshithvhegde/building-an-realtime-web-notepad-app-4g50)
 <!-- BLOG-POST-LIST:END -->
 
