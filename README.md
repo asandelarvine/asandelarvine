@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Time Series Models](https://dev.to/muiruriiii/the-complete-guide-to-time-series-models-5b7n)
+- [What is NextJs?  Why Should You Use it in 2023?  NextJs Pros and Cons Guide](https://dev.to/suniljoshi19/what-is-nextjs-why-should-you-use-it-in-2023-nextjs-pros-and-cons-guide-57ce)
 - [Adding a real feature to a project 🧛](https://dev.to/amnish04/adding-a-real-feature-to-a-project-400h)
-- [A Beginner&#39;s Guide to APIs](https://dev.to/scofieldidehen/a-beginners-guide-to-apis-2i0g)
-- [Using Web APIs to Create a Camera Application](https://dev.to/rebeccapeltz/using-web-apis-to-create-a-camera-application-oip)
-- [JavaScript Magic Tricks: Anti-Copy](https://dev.to/wangliwen/javascript-magic-tricks-anti-copy-2882)
+- [Building an Realtime Web Notepad App](https://dev.to/varshithvhegde/building-an-realtime-web-notepad-app-4g50)
 <!-- BLOG-POST-LIST:END -->
 
