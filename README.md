@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Base64 problem solved](https://dev.to/toviszsolt/base64-problem-solved-29og)
-- [Finding the largest value in each tree row](https://dev.to/mauricioabreu/finding-the-largest-value-in-each-tree-row-djg)
-- [Mastering Advanced Web Animations](https://dev.to/ctrlcoding/mastering-advanced-web-animations-455f)
-- [5 JavaScript Portfolio Projects You Need To Build](https://dev.to/domfive/5-javascript-portfolio-projects-to-unleash-your-web-dev-potential-i3i)
+- [JavaScript Magic Tricks: Anti-Copy](https://dev.to/wangliwen/javascript-magic-tricks-anti-copy-2882)
+- [Network Programming: The OSI Model](https://dev.to/jothamntekim1/network-programming-the-osi-model-2a1o)
+- [🚀 API Maker - Auto Increment](https://dev.to/apimaker/api-maker-auto-increment-c9h)
+- [Hacktoberfest experience as a first time contributor](https://dev.to/bhavsarhem/placeholder-contributor-4g3o)
 <!-- BLOG-POST-LIST:END -->
 
