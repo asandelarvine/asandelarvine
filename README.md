@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I think it&#39;s an effortful 😔 but great way to kickstart your Freelancer career](https://dev.to/ako61142833/i-think-its-an-effortful-but-great-way-to-kickstartyour-freelancer-career-3p7k)
+- [🔄 Looping Through JavaScript Arrays with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-arrays-with-different-approaches-4h87)
 - [What is Retrieval Augmented Generation &lpar;RAG&rpar;? 🚀](https://dev.to/confidentai/what-is-retrieval-augmented-generation-rag-4n7g)
-- [Understanding Tail Call Optimization With JavaScript](https://dev.to/douglasdemoura/understanding-tail-call-optimization-with-javascript-3da8)
-- [Anti-FAQs: Use localhost for collaboration?? Seriously?!](https://dev.to/livecycle/anti-faqs-use-localhost-for-collaboration-seriously-39pm)
-- [Two things that metal music could teach us to be better Technical Program Managers.](https://dev.to/bogomil/two-things-that-metal-music-could-teach-us-to-be-better-technical-program-managers-2ll3)
+- [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
 <!-- BLOG-POST-LIST:END -->
 
