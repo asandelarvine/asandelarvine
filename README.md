@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Time Series Models.](https://dev.to/theai433/the-complete-guide-to-time-series-models-f89)
 - [A Blazingly Fast Open-Source Federation V1/V2 Gateway](https://dev.to/slickstef11/a-blazingly-fast-open-source-federation-v1v2-gateway-4i7k)
 - [CodeSmash LTD Campaign](https://dev.to/mariostopfer/codesmash-ltd-campaign-9ji)
 - [AI ignites the rain: Content Storm is back](https://dev.to/supabase/ai-ignites-the-rain-content-storm-is-back-kdl)
-- [Have multiple config file types in a project? Here’s a single tool to validate them all!](https://dev.to/kehoecj/have-multiple-config-file-types-in-a-project-heres-a-single-tool-to-validate-them-all-4l2m)
 <!-- BLOG-POST-LIST:END -->
 
