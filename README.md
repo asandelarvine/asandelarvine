@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding a real feature to a project 🧛](https://dev.to/amnish04/adding-a-real-feature-to-a-project-400h)
+- [A Beginner&#39;s Guide to APIs](https://dev.to/scofieldidehen/a-beginners-guide-to-apis-2i0g)
+- [Using Web APIs to Create a Camera Application](https://dev.to/rebeccapeltz/using-web-apis-to-create-a-camera-application-oip)
 - [JavaScript Magic Tricks: Anti-Copy](https://dev.to/wangliwen/javascript-magic-tricks-anti-copy-2882)
-- [Network Programming: The OSI Model](https://dev.to/jothamntekim1/network-programming-the-osi-model-2a1o)
-- [🚀 API Maker - Auto Increment](https://dev.to/apimaker/api-maker-auto-increment-c9h)
-- [Hacktoberfest experience as a first time contributor](https://dev.to/bhavsarhem/placeholder-contributor-4g3o)
 <!-- BLOG-POST-LIST:END -->
 
