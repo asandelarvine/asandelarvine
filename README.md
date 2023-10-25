@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Retrieval Augmented Generation &lpar;RAG&rpar;? 🚀](https://dev.to/confidentai/what-is-retrieval-augmented-generation-rag-4n7g)
+- [Understanding Tail Call Optimization With JavaScript](https://dev.to/douglasdemoura/understanding-tail-call-optimization-with-javascript-3da8)
 - [Anti-FAQs: Use localhost for collaboration?? Seriously?!](https://dev.to/livecycle/anti-faqs-use-localhost-for-collaboration-seriously-39pm)
 - [Two things that metal music could teach us to be better Technical Program Managers.](https://dev.to/bogomil/two-things-that-metal-music-could-teach-us-to-be-better-technical-program-managers-2ll3)
-- [Welcome Thread - v248](https://dev.to/devteam/welcome-thread-v248-j2i)
-- [Node.js Worker Threads Vs. Child Processes: Which one should you use?](https://dev.to/amplication/nodejs-worker-threads-vs-child-processes-which-one-should-you-use-178i)
 <!-- BLOG-POST-LIST:END -->
 
