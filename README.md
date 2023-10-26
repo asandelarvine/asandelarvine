@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Linux File and Folder Permissions](https://dev.to/unkletayo/understanding-linux-file-and-folder-permissions-3kaa)
+- [Exclusive collection of free SVG icons download for commercial projects without attribution](https://dev.to/nikrunic/exclusive-collection-of-free-svg-icons-downloadfor-commercial-projects-without-attribution-5254)
 - [Sloan&#39;s Inbox: Considering a career change from coding to graphic design, any advice?](https://dev.to/devteam/sloans-inbox-considering-a-career-change-from-coding-to-graphic-design-any-advice-565n)
 - [CSS Flexbox Tutorial](https://dev.to/wilsmex/css-flexbox-tutorial-3e8b)
-- [From Skillset to Networking: Tactics for Standing Out in a Challenging Job Market](https://dev.to/michaellarocca/from-skillset-to-networking-tactics-for-standing-out-in-a-challenging-job-market-8ml)
-- [Understanding Streaming Joins in RisingWave](https://dev.to/__354f265b41dafa0d901b/understanding-streaming-joins-in-risingwave-1gl4)
 <!-- BLOG-POST-LIST:END -->
 
