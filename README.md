@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Task.ConfigureAwait, Deadlock e Pink Floyd](https://dev.to/angelobelchior/taskconfigureawait-deadlock-e-pink-floyd-416g)
 - [Accept E-Commerce Payments Easily with PayPal’s Buttons Component! 💰](https://dev.to/aritdeveloper/accept-e-commerce-payments-easily-with-paypals-buttons-component-494e)
 - [How to Write Good Commit Messages](https://dev.to/jeeanny/how-to-write-good-commit-messages-5a66)
 - [The hustle free way to build a next.js blog with dev.to](https://dev.to/zmzlois/the-hustle-free-way-to-build-a-nextjs-blog-with-devto-3cae)
-- [ChatGPT&#39;S, evil twins are here](https://dev.to/fonyuygita/chatgpts-evil-twins-are-here-4hd4)
 <!-- BLOG-POST-LIST:END -->
 
