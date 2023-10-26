@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 12 Python Web Development Frameworks In 2023](https://dev.to/urwashipriya651/top-12-python-web-development-frameworks-in-2023-3mom)
+- [Setting Up A Local Environment For Shopify Theme Development](https://dev.to/quratulaiinn/setting-up-a-local-environment-for-shopify-theme-development-2ema)
 - [Easy Vue internationalization - guide to the Vue I18n plugin](https://dev.to/devtranslate/easy-vue-internationalization-guide-to-the-vue-i18n-plugin-37i3)
-- [Is Next.js 13 + RSC a Good Choice? I Built an App Without Client-Side Javascript to Find Out](https://dev.to/zenstack/is-nextjs-13-rsc-a-good-choice-i-built-an-app-without-client-side-javascript-to-find-out-hik)
-- [How to Add a VS Code Editor to Your Website](https://dev.to/sh20raj/how-to-add-a-vs-code-editor-to-your-website-267h)
-- [Tech Toolbox: A Beginner Guide to Choosing Software Development Tools](https://dev.to/jaimaldullat/tech-toolbox-a-beginner-guide-to-choosing-software-development-tools-pb)
+- [Using the View Transitions API with Astro](https://dev.to/logrocket/using-the-view-transitions-api-with-astro-1ejl)
 <!-- BLOG-POST-LIST:END -->
 
