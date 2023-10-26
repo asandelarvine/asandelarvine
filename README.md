@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ESM vs CJS - the prelude, the clash, and the solution](https://dev.to/midnqp/esm-vs-cjs-the-prelude-the-clash-and-the-solution-46ia)
+- [What is Nodemailer?](https://dev.to/scofieldidehen/what-is-nodemailer-4hk2)
+- [Web Storage in JavaScript](https://dev.to/iarchitsharma/web-storage-in-javascript-mbi)
 - [Error Handling and Logging in NestJS: Best Practices](https://dev.to/vivekagent47/error-handling-and-logging-in-nestjs-best-practices-5a5k)
-- [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://dev.to/sachinchaurasiya/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs-3ckd)
-- [Advanced Next.js URL handling with URLSearchParams](https://dev.to/lakshmananarumugam/advanced-nextjs-url-handling-with-urlsearchparams-2gp3)
-- [Oráculos Descentralizados em Blockchain: Conectando o Mundo Real à Blockchain.](https://dev.to/valterlobo/sistema-de-oraculo-descentralizado-em-blockchain-344)
 <!-- BLOG-POST-LIST:END -->
 
