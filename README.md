@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion of the Week - v8](https://dev.to/devteam/discussion-of-the-week-v8-194n)
 - [Crossing the senior chasm](https://dev.to/jenc/crossing-the-senior-chasm-5h0d)
+- [Making ChatGPT do Clean Code](https://dev.to/lluismf/making-chatgpt-do-clean-code-4f3j)
 - [React Performance Booster - Introduction to the useMemo hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
-- [Let&#39;s play a game &quot;Your Topic My Article&quot;](https://dev.to/pavelkeyzik/lets-play-a-game-your-topic-my-article-25i7)
-- [OpsCanvas Emerges from Stealth Mode with its Cloud Deployment Solution Using Generative IaC](https://dev.to/kimber1/opscanvas-emerges-from-stealth-mode-with-its-cloud-deployment-solution-using-generative-iac-581i)
 <!-- BLOG-POST-LIST:END -->
 
