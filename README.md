@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Linux File and Folder Permissions](https://dev.to/unkletayo/understanding-linux-file-and-folder-permissions-3kaa)
-- [Exclusive collection of free SVG icons download for commercial projects without attribution](https://dev.to/nikrunic/exclusive-collection-of-free-svg-icons-downloadfor-commercial-projects-without-attribution-5254)
-- [Sloan&#39;s Inbox: Considering a career change from coding to graphic design, any advice?](https://dev.to/devteam/sloans-inbox-considering-a-career-change-from-coding-to-graphic-design-any-advice-565n)
-- [CSS Flexbox Tutorial](https://dev.to/wilsmex/css-flexbox-tutorial-3e8b)
+- [JavaScript ES6 Features Every Developer Should Know](https://dev.to/baransel/javascript-es6-features-every-developer-should-know-40el)
+- [Hacktoberfest 2023 Reflections](https://dev.to/kalkwst/hacktoberfest-2023-reflections-140c)
+- [An introduction to the Web Preferences API](https://dev.to/logrocket/an-introduction-to-the-web-preferences-api-42l9)
+- [Is there any website which lists all tech events?](https://dev.to/mandarbadve/is-there-any-website-which-lists-all-tech-events-c9b)
 <!-- BLOG-POST-LIST:END -->
 
