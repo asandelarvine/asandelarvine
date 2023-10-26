@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m not a perfect developer...and neither are you.](https://dev.to/ravavyr/im-not-a-perfect-developerand-neither-are-you-4e82)
+- [Como eu estudei para certificação DP900 e fui aprovada](https://dev.to/franolv/como-eu-estudei-para-certificacao-dp900-e-fui-aprovada-4hbd)
+- [NodeJS - Ofuscando rostos humanos em fotos](https://dev.to/justaguyfrombr/nodejs-ofuscando-rostos-humanos-em-fotos-2ip)
 - [Discussion of the Week - v8](https://dev.to/devteam/discussion-of-the-week-v8-194n)
-- [Crossing the senior chasm](https://dev.to/jenc/crossing-the-senior-chasm-5h0d)
-- [Making ChatGPT do Clean Code](https://dev.to/lluismf/making-chatgpt-do-clean-code-4f3j)
-- [React Performance Booster - Introduction to the useMemo hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
 <!-- BLOG-POST-LIST:END -->
 
