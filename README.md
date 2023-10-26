@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Oráculos Descentralizados em Blockchain: Conectando o Mundo Real à Blockchain.](https://dev.to/valterlobo/sistema-de-oraculo-descentralizado-em-blockchain-344)
 - [Cloud Secrets with SDK in Go](https://dev.to/rsiv/cloud-secrets-with-sdk-in-go-2jam)
-- [What&#39;s Beyond Senior Engineer?](https://dev.to/devteam/whats-beyond-senior-engineer-2f5o)
 - [What&#39;s Your Favorite Corporate Jargon?](https://dev.to/codenewbieteam/whats-your-favorite-corporate-jargon-1j3p)
-- [Task.ConfigureAwait, Deadlock e Pink Floyd](https://dev.to/angelobelchior/taskconfigureawait-deadlock-e-pink-floyd-416g)
+- [What&#39;s Beyond Senior Engineer?](https://dev.to/devteam/whats-beyond-senior-engineer-2f5o)
 <!-- BLOG-POST-LIST:END -->
 
