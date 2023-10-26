@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Password protection for developers: importance and best practices](https://dev.to/appwrite/password-protection-for-developers-importance-and-best-practices-1ofm)
+- [Learn serverless on AWS step-by-step: Master DynamoDB!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-master-dynamodb-3cki)
+- [Driving Engagement and Impact: How Targeting Enhances Digital Out-of-Home Campaigns](https://dev.to/zotkina/driving-engagement-and-impact-how-targeting-enhances-digital-out-of-home-campaigns-neg)
 - [🚀How JavaScript Works &lpar;Part 10&rpar;? Class](https://dev.to/samanabbasi/how-javascript-works-part-10-class-17oi)
-- [🚀How JavaScript Works &lpar;Part 9&rpar;? Arrow functions and lexical this](https://dev.to/samanabbasi/how-javascript-works-part-9-arrow-functions-and-lexical-this-38jo)
-- [🚀How JavaScript Works &lpar;Part 8&rpar;? Binding](https://dev.to/samanabbasi/how-javascript-works-part-8-binding-4kn)
-- [🚀How JavaScript Works &lpar;Part 7&rpar;? `this`](https://dev.to/samanabbasi/how-javascript-works-part-7-this-a3b)
 <!-- BLOG-POST-LIST:END -->
 
