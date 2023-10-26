@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python &quot;magic&quot; methods - part 2](https://dev.to/nfrankel/python-magic-methods-part-2-3b9j)
-- [💅 Tailwind Flex for Responsive React Component](https://dev.to/refine/tailwind-flex-for-responsive-react-component-22ob)
-- [My 8 Key Aspects Of Contract Auditing in Solidity](https://dev.to/jonassebera/my-8-key-aspects-of-contract-auditing-in-solidity-c86)
-- [My Hacktoberfest 2023 Experience with Trigger.dev](https://dev.to/shelar1423/my-hacktoberfest-2023-experience-with-triggerdev-lce)
+- [Storing Secrets Securely for Go Cloud Applications 🔑](https://dev.to/encore/storing-secrets-securely-for-go-cloud-applications-e9f)
+- [Revolutionizing E-commerce: 7 Innovative ChatGPT Use Cases](https://dev.to/agarralexx/revolutionizing-e-commerce-7-innovative-chatgpt-use-cases-5d57)
+- [8 Best WebSocket Libraries For Node](https://dev.to/ably/8-best-websocket-libraries-for-node-2e0m)
+- [𝑫𝒖𝒎𝒃𝒆𝒓 𝒚𝒆𝒕 S𝒎𝒂𝒓𝒕𝒆𝒓 A𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝒐𝒇 D𝒆𝒃𝒖𝒈𝒈𝒊𝒏𝒈](https://dev.to/shameel/s-a-d-35kn)
 <!-- BLOG-POST-LIST:END -->
 
