@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript ES6 Features Every Developer Should Know](https://dev.to/baransel/javascript-es6-features-every-developer-should-know-40el)
-- [Hacktoberfest 2023 Reflections](https://dev.to/kalkwst/hacktoberfest-2023-reflections-140c)
-- [An introduction to the Web Preferences API](https://dev.to/logrocket/an-introduction-to-the-web-preferences-api-42l9)
-- [Is there any website which lists all tech events?](https://dev.to/mandarbadve/is-there-any-website-which-lists-all-tech-events-c9b)
+- [React Performance Booster - Introduction to the useMemo hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
+- [OpsCanvas Emerges from Stealth Mode with its Cloud Deployment Solution Using Generative IaC](https://dev.to/kimber1/opscanvas-emerges-from-stealth-mode-with-its-cloud-deployment-solution-using-generative-iac-581i)
+- [NodeMailer vs EmailJS](https://dev.to/scofieldidehen/nodemailer-vs-emailjs-5fdl)
+- [Building a Simple Note-Taking App with React](https://dev.to/kartikbudhraja/building-a-simple-note-taking-app-with-react-2g2k)
 <!-- BLOG-POST-LIST:END -->
 
