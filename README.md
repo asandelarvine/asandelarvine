@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥 9 Open-Source Repos That Will Make Your SaaS Gold 🤔](https://dev.to/nathan_tarbert/9-open-source-repos-that-will-make-your-saas-gold-54h7)
+- [Good engineers train their skills - great engineers train their mindset](https://dev.to/mjuraj/good-engineers-train-their-skills-great-engineers-train-their-mindset-21h)
 - [Password protection for developers: importance and best practices](https://dev.to/appwrite/password-protection-for-developers-importance-and-best-practices-1ofm)
 - [Learn serverless on AWS step-by-step: Master DynamoDB!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-master-dynamodb-3cki)
-- [Driving Engagement and Impact: How Targeting Enhances Digital Out-of-Home Campaigns](https://dev.to/zotkina/driving-engagement-and-impact-how-targeting-enhances-digital-out-of-home-campaigns-neg)
-- [🚀How JavaScript Works &lpar;Part 10&rpar;? Class](https://dev.to/samanabbasi/how-javascript-works-part-10-class-17oi)
 <!-- BLOG-POST-LIST:END -->
 
