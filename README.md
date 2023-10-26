@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Storing Secrets Securely for Go Cloud Applications 🔑](https://dev.to/encore/storing-secrets-securely-for-go-cloud-applications-e9f)
-- [Revolutionizing E-commerce: 7 Innovative ChatGPT Use Cases](https://dev.to/agarralexx/revolutionizing-e-commerce-7-innovative-chatgpt-use-cases-5d57)
-- [8 Best WebSocket Libraries For Node](https://dev.to/ably/8-best-websocket-libraries-for-node-2e0m)
-- [𝑫𝒖𝒎𝒃𝒆𝒓 𝒚𝒆𝒕 S𝒎𝒂𝒓𝒕𝒆𝒓 A𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝒐𝒇 D𝒆𝒃𝒖𝒈𝒈𝒊𝒏𝒈](https://dev.to/shameel/s-a-d-35kn)
+- [🚀How JavaScript Works &lpar;Part 10&rpar;? Class](https://dev.to/samanabbasi/how-javascript-works-part-10-class-17oi)
+- [🚀How JavaScript Works &lpar;Part 9&rpar;? Arrow functions and lexical this](https://dev.to/samanabbasi/how-javascript-works-part-9-arrow-functions-and-lexical-this-38jo)
+- [🚀How JavaScript Works &lpar;Part 8&rpar;? Binding](https://dev.to/samanabbasi/how-javascript-works-part-8-binding-4kn)
+- [🚀How JavaScript Works &lpar;Part 7&rpar;? `this`](https://dev.to/samanabbasi/how-javascript-works-part-7-this-a3b)
 <!-- BLOG-POST-LIST:END -->
 
