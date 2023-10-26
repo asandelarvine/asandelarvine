@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Signed Up for Any Spooky Fall Challenges or Projects? 🍁](https://dev.to/devteam/signed-up-for-any-spooky-fall-challenges-or-projects-2d72)
+- [Celebrating a Milestone: My Fourth Merged Pull Request as a Hacktoberfest Maintainer](https://dev.to/jps27cse/celebrating-a-milestone-my-fourth-merged-pull-request-as-a-hacktoberfest-maintainer-3nd2)
+- [The Future of Crypto Payment Gateway | Unveiling the Latest Trends](https://dev.to/braxton/the-future-of-crypto-payment-gateway-unveiling-the-latest-trends-6ka)
 - [ESM vs CJS - the prelude, the clash, and the solution](https://dev.to/midnqp/esm-vs-cjs-the-prelude-the-clash-and-the-solution-46ia)
-- [What is Nodemailer?](https://dev.to/scofieldidehen/what-is-nodemailer-4hk2)
-- [Web Storage in JavaScript](https://dev.to/iarchitsharma/web-storage-in-javascript-mbi)
-- [Error Handling and Logging in NestJS: Best Practices](https://dev.to/vivekagent47/error-handling-and-logging-in-nestjs-best-practices-5a5k)
 <!-- BLOG-POST-LIST:END -->
 
