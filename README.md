@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Next.js URL handling with URLSearchParams](https://dev.to/lakshmananarumugam/advanced-nextjs-url-handling-with-urlsearchparams-2gp3)
+- [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://dev.to/sachinchaurasiya/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs-3ckd)
 - [Oráculos Descentralizados em Blockchain: Conectando o Mundo Real à Blockchain.](https://dev.to/valterlobo/sistema-de-oraculo-descentralizado-em-blockchain-344)
 - [Cloud Secrets with SDK in Go](https://dev.to/rsiv/cloud-secrets-with-sdk-in-go-2jam)
-- [What&#39;s Your Favorite Corporate Jargon?](https://dev.to/codenewbieteam/whats-your-favorite-corporate-jargon-1j3p)
-- [What&#39;s Beyond Senior Engineer?](https://dev.to/devteam/whats-beyond-senior-engineer-2f5o)
 <!-- BLOG-POST-LIST:END -->
 
