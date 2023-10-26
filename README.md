@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 9 Open-Source Repos That Will Make Your SaaS Gold 🤔](https://dev.to/nathan_tarbert/9-open-source-repos-that-will-make-your-saas-gold-54h7)
-- [Good engineers train their skills - great engineers train their mindset](https://dev.to/mjuraj/good-engineers-train-their-skills-great-engineers-train-their-mindset-21h)
-- [Password protection for developers: importance and best practices](https://dev.to/appwrite/password-protection-for-developers-importance-and-best-practices-1ofm)
-- [Learn serverless on AWS step-by-step: Master DynamoDB!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-master-dynamodb-3cki)
+- [Easy Vue internationalization - guide to the Vue I18n plugin](https://dev.to/devtranslate/easy-vue-internationalization-guide-to-the-vue-i18n-plugin-37i3)
+- [Is Next.js 13 + RSC a Good Choice? I Built an App Without Client-Side Javascript to Find Out](https://dev.to/zenstack/is-nextjs-13-rsc-a-good-choice-i-built-an-app-without-client-side-javascript-to-find-out-hik)
+- [How to Add a VS Code Editor to Your Website](https://dev.to/sh20raj/how-to-add-a-vs-code-editor-to-your-website-267h)
+- [Tech Toolbox: A Beginner Guide to Choosing Software Development Tools](https://dev.to/jaimaldullat/tech-toolbox-a-beginner-guide-to-choosing-software-development-tools-pb)
 <!-- BLOG-POST-LIST:END -->
 
