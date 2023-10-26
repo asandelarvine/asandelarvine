@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💅 Tailwind Flex for Responsive React Component](https://dev.to/refine/tailwind-flex-for-responsive-react-component-22ob)
+- [My Hacktoberfest 2023 Experience with Trigger.dev](https://dev.to/shelar1423/my-hacktoberfest-2023-experience-with-triggerdev-lce)
 - [Signed Up for Any Spooky Fall Challenges or Projects? 🍁](https://dev.to/devteam/signed-up-for-any-spooky-fall-challenges-or-projects-2d72)
 - [Celebrating a Milestone: My Fourth Merged Pull Request as a Hacktoberfest Maintainer](https://dev.to/jps27cse/celebrating-a-milestone-my-fourth-merged-pull-request-as-a-hacktoberfest-maintainer-3nd2)
-- [The Future of Crypto Payment Gateway | Unveiling the Latest Trends](https://dev.to/braxton/the-future-of-crypto-payment-gateway-unveiling-the-latest-trends-6ka)
-- [ESM vs CJS - the prelude, the clash, and the solution](https://dev.to/midnqp/esm-vs-cjs-the-prelude-the-clash-and-the-solution-46ia)
 <!-- BLOG-POST-LIST:END -->
 
