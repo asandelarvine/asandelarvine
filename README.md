@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 12 Python Web Development Frameworks In 2023](https://dev.to/urwashipriya651/top-12-python-web-development-frameworks-in-2023-3mom)
-- [Setting Up A Local Environment For Shopify Theme Development](https://dev.to/quratulaiinn/setting-up-a-local-environment-for-shopify-theme-development-2ema)
-- [Easy Vue internationalization - guide to the Vue I18n plugin](https://dev.to/devtranslate/easy-vue-internationalization-guide-to-the-vue-i18n-plugin-37i3)
-- [Using the View Transitions API with Astro](https://dev.to/logrocket/using-the-view-transitions-api-with-astro-1ejl)
+- [Sloan&#39;s Inbox: Considering a career change from coding to graphic design, any advice?](https://dev.to/devteam/sloans-inbox-considering-a-career-change-from-coding-to-graphic-design-any-advice-565n)
+- [CSS Flexbox Tutorial](https://dev.to/wilsmex/css-flexbox-tutorial-3e8b)
+- [From Skillset to Networking: Tactics for Standing Out in a Challenging Job Market](https://dev.to/michaellarocca/from-skillset-to-networking-tactics-for-standing-out-in-a-challenging-job-market-8ml)
+- [Understanding Streaming Joins in RisingWave](https://dev.to/__354f265b41dafa0d901b/understanding-streaming-joins-in-risingwave-1gl4)
 <!-- BLOG-POST-LIST:END -->
 
