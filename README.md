@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python &quot;magic&quot; methods - part 2](https://dev.to/nfrankel/python-magic-methods-part-2-3b9j)
 - [💅 Tailwind Flex for Responsive React Component](https://dev.to/refine/tailwind-flex-for-responsive-react-component-22ob)
+- [My 8 Key Aspects Of Contract Auditing in Solidity](https://dev.to/jonassebera/my-8-key-aspects-of-contract-auditing-in-solidity-c86)
 - [My Hacktoberfest 2023 Experience with Trigger.dev](https://dev.to/shelar1423/my-hacktoberfest-2023-experience-with-triggerdev-lce)
-- [Signed Up for Any Spooky Fall Challenges or Projects? 🍁](https://dev.to/devteam/signed-up-for-any-spooky-fall-challenges-or-projects-2d72)
-- [Celebrating a Milestone: My Fourth Merged Pull Request as a Hacktoberfest Maintainer](https://dev.to/jps27cse/celebrating-a-milestone-my-fourth-merged-pull-request-as-a-hacktoberfest-maintainer-3nd2)
 <!-- BLOG-POST-LIST:END -->
 
