@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding MySQL Enums: Unveiling Surprising Behaviors](https://dev.to/vivekagent47/understanding-mysql-enums-unveiling-surprising-behaviors-9lo)
+- [Front-End Development &amp; Design Tools](https://dev.to/shaikat/front-end-development-design-tools-4fmk)
 - [dev.to conference? 😃💁](https://dev.to/bogomil/devto-conference-4f43)
 - [Using Heroicons with TailwindCSS](https://dev.to/refine/using-heroicons-with-tailwindcss-4c96)
-- [STARTING SAAS ON HRM](https://dev.to/devsimc/starting-saas-on-hrm-3hj)
-- [Why Haven&#39;t u Migrated to Nuxt 3 Yet? 🥵 7 Benefits to Consider](https://dev.to/userof/why-havent-u-migrated-to-nuxt-3-yet-7-benefits-to-consider-26ga)
 <!-- BLOG-POST-LIST:END -->
 
