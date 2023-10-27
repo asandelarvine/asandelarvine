@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔄 Looping Through JavaScript Objects with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-objects-with-different-approaches-3c6m)
+- [Highlight on the new features of Next JS 14 config 2023](https://dev.to/muhammadazfaraslam/highlight-on-the-new-features-of-next-js-14-config-2023-4lbe)
+- [Box Test Steps in Playwright](https://dev.to/playwright/box-test-steps-in-playwright-15d9)
 - [Mastering TypeScript: A Beginner&#39;s Guide](https://dev.to/baransel/mastering-typescript-a-beginners-guide-5ch6)
-- [Automating Relay Connection Testing for a Seamless User Experience](https://dev.to/woovi/automating-relay-connection-testing-for-a-seamless-user-experience-2bpo)
-- [Harnessing the Power of a Monorepo: AWS Serverless API Gateway, NestJS, and Microservices gRPC](https://dev.to/dpejic/harnessing-the-power-of-a-monorepo-aws-serverless-api-gateway-nestjs-and-microservices-grpc-3pho)
-- [Web Design Services for Small Businesses: A Comprehensive Guide](https://dev.to/davismarketing/web-design-services-for-small-businesses-a-comprehensive-guide-255o)
 <!-- BLOG-POST-LIST:END -->
 
