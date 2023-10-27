@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Understanding MySQL Enums: Unveiling Surprising Behaviors](https://dev.to/vivekagent47/understanding-mysql-enums-unveiling-surprising-behaviors-9lo)
 - [Front-End Development &amp; Design Tools](https://dev.to/shaikat/front-end-development-design-tools-4fmk)
-- [dev.to conference? 😃💁](https://dev.to/bogomil/devto-conference-4f43)
-- [Using Heroicons with TailwindCSS](https://dev.to/refine/using-heroicons-with-tailwindcss-4c96)
+- [Frontend Frameworks Showdown: React vs. Angular vs. Vue](https://dev.to/adamparker/frontend-frameworks-showdown-react-vs-angular-vs-vue-p3b)
+- [💥 10 Ways React Made Me a Faster Developer 💪](https://dev.to/todayscode14/10-ways-react-made-me-a-faster-developer-3mec)
 <!-- BLOG-POST-LIST:END -->
 
