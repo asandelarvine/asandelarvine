@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [dev.to conference? 😃💁](https://dev.to/bogomil/devto-conference-4f43)
+- [Using Heroicons with TailwindCSS](https://dev.to/refine/using-heroicons-with-tailwindcss-4c96)
 - [STARTING SAAS ON HRM](https://dev.to/devsimc/starting-saas-on-hrm-3hj)
-- [30,000 websites are hacked every single day…](https://dev.to/julia_kot/30000-websites-are-hacked-every-single-day-3nn7)
 - [Why Haven&#39;t u Migrated to Nuxt 3 Yet? 🥵 7 Benefits to Consider](https://dev.to/userof/why-havent-u-migrated-to-nuxt-3-yet-7-benefits-to-consider-26ga)
-- [What Tech Gadget Gives You Pumpkin Spice Vibes? 🎃](https://dev.to/devteam/what-tech-gadget-gives-you-pumpkin-spice-vibes-208e)
 <!-- BLOG-POST-LIST:END -->
 
