@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/nodejs-for-beginners-a-step-by-step-guide-2996)
+- [Developers are Burning out Daily, Find Out Why!](https://dev.to/scofieldidehen/developers-are-burning-out-daily-find-out-why-38el)
+- [Building a Stopwatch in React](https://dev.to/kartikbudhraja/building-a-stopwatch-in-react-1nb3)
 - [The Top Animation Libraries for React in 2023](https://dev.to/onix-systems/the-top-animation-libraries-for-react-in-2023-3n9f)
-- [Hacktoberfest 2023: Celebrating the Home Stretch](https://dev.to/devteam/hacktoberfest-2023-celebrating-the-home-stretch-46kp)
-- [Distribuindo uma aplicação Go sem o Docker](https://dev.to/faabiosr/distribuindo-uma-aplicacao-go-sem-o-docker-p73)
-- [Why ReactJS? Exploring the Benefits of Learning This Framework](https://dev.to/cleveroscar/why-reactjs-exploring-the-benefits-of-learning-this-framework-3n5i)
 <!-- BLOG-POST-LIST:END -->
 
