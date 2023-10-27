@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging Infrastructure as Code &lpar;IaC&rpar; for AWS Lambda: A Comparative Analysis of AWS SAM, Terraform, and Serverless Framework](https://dev.to/aws-builders/leveraging-infrastructure-as-code-iac-for-aws-lambda-a-comparative-analysis-of-aws-sam-terraform-and-serverless-framework-2ia8)
 - [Implementing Paystack Payment in a React Application: A Step-by-Step Guide](https://dev.to/devlawrence/implementing-paystack-payment-in-a-react-application-a-step-by-step-guide-10bf)
 - [Hiring is Broken, But How Do We Fix It?](https://dev.to/tdesseyn/hiring-is-broken-but-how-do-we-fix-it-41m7)
 - [Design Patterns: A Brief Primer](https://dev.to/jakeespinosa/design-patterns-a-brief-primer-3e59)
-- [The Code Whisper Magic with Amazon Code Whisperer](https://dev.to/aws-builders/the-code-whisper-magic-with-amazon-code-whisperer-331i)
 <!-- BLOG-POST-LIST:END -->
 
