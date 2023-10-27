@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Nodemailer with Proper Authentication](https://dev.to/scofieldidehen/securing-nodemailer-with-proper-authentication-3i8g)
 - [React roadmap &lpar; with explanations and resources, all in one place&rpar;](https://dev.to/arking115/react-roadmap-with-explanations-and-resources-all-in-one-place-34d9)
 - [Node.js Unit Testing with Jest: A Quick Guide](https://dev.to/xcoder03/nodejs-unit-testing-with-jest-a-quick-guide-1p47)
 - [Leveraging Infrastructure as Code &lpar;IaC&rpar; for AWS Lambda: A Comparative Analysis of AWS SAM, Terraform, and Serverless Framework](https://dev.to/aws-builders/leveraging-infrastructure-as-code-iac-for-aws-lambda-a-comparative-analysis-of-aws-sam-terraform-and-serverless-framework-2ia8)
-- [Episode 23/42: Template Control Flow &amp; @defer, Forms &amp; Signals](https://dev.to/this-is-angular/episode-2342-template-control-flow-defer-forms-signals-5fga)
 <!-- BLOG-POST-LIST:END -->
 
