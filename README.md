@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📈 Top 7 open source repos on GitHub 🚀✨](https://dev.to/quine/top-7-open-source-repos-on-github-2l64)
+- [ltag: A little CLI tool for tagged text searching](https://dev.to/mebble/ltag-a-little-cli-tool-for-tagged-text-searching-31o3)
+- [Demystifying &#39;this&#39; in JavaScript](https://dev.to/ptheodosiou/demystifying-this-in-javascript-4ec6)
 - [[Python 🐍 Mastery] Python&#39;s Object-Oriented Programming Overview and Fundamentals ⭐️](https://dev.to/swirl/python-mastery-pythons-object-oriented-programming-overview-and-fundamentals-22m1)
-- [How to download and install Python 3 for Mac](https://dev.to/vayolapradeep/how-to-download-and-installpython-3-for-mac-2o9n)
-- [🔄 Looping Through JavaScript Objects with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-objects-with-different-approaches-3c6m)
-- [Highlight on the new features of Next JS 14 config 2023](https://dev.to/muhammadazfaraslam/highlight-on-the-new-features-of-next-js-14-config-2023-4lbe)
 <!-- BLOG-POST-LIST:END -->
 
