@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CodePush with ReactNative for Android.](https://dev.to/raghad60/codepush-with-reactnative-for-android-4l02)
-- [The PHP open-source ebook](https://dev.to/robertobutti/the-php-open-source-ebook-nd6)
-- [🚀🚀Beginner CSS ZERO to HERO](https://dev.to/dumebii/beginner-css-zero-to-hero-4mi3)
-- [Cracking the Code: Communicating Tech to Non-Tech](https://dev.to/syskin/cracking-the-code-communicating-tech-to-non-tech-3oo4)
+- [The Top Animation Libraries for React in 2023](https://dev.to/onix-systems/the-top-animation-libraries-for-react-in-2023-3n9f)
+- [Hacktoberfest 2023: Celebrating the Home Stretch](https://dev.to/devteam/hacktoberfest-2023-celebrating-the-home-stretch-46kp)
+- [Distribuindo uma aplicação Go sem o Docker](https://dev.to/faabiosr/distribuindo-uma-aplicacao-go-sem-o-docker-p73)
+- [Why ReactJS? Exploring the Benefits of Learning This Framework](https://dev.to/cleveroscar/why-reactjs-exploring-the-benefits-of-learning-this-framework-3n5i)
 <!-- BLOG-POST-LIST:END -->
 
