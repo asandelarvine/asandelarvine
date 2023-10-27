@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MySQL Enums: Unveiling Surprising Behaviors](https://dev.to/vivekagent47/understanding-mysql-enums-unveiling-surprising-behaviors-9lo)
-- [Front-End Development &amp; Design Tools](https://dev.to/shaikat/front-end-development-design-tools-4fmk)
-- [Frontend Frameworks Showdown: React vs. Angular vs. Vue](https://dev.to/adamparker/frontend-frameworks-showdown-react-vs-angular-vs-vue-p3b)
-- [💥 10 Ways React Made Me a Faster Developer 💪](https://dev.to/todayscode14/10-ways-react-made-me-a-faster-developer-3mec)
+- [Mastering TypeScript: A Beginner&#39;s Guide](https://dev.to/baransel/mastering-typescript-a-beginners-guide-5ch6)
+- [Automating Relay Connection Testing for a Seamless User Experience](https://dev.to/woovi/automating-relay-connection-testing-for-a-seamless-user-experience-2bpo)
+- [Harnessing the Power of a Monorepo: AWS Serverless API Gateway, NestJS, and Microservices gRPC](https://dev.to/dpejic/harnessing-the-power-of-a-monorepo-aws-serverless-api-gateway-nestjs-and-microservices-grpc-3pho)
+- [Web Design Services for Small Businesses: A Comprehensive Guide](https://dev.to/davismarketing/web-design-services-for-small-businesses-a-comprehensive-guide-255o)
 <!-- BLOG-POST-LIST:END -->
 
