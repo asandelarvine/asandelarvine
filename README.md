@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Haven&#39;t u Migrated to Nuxt 3 Yet? 🥵 7 Benefits to Consider](https://dev.to/userof/why-havent-u-migrated-to-nuxt-3-yet-7-benefits-to-consider-26ga)
 - [What Tech Gadget Gives You Pumpkin Spice Vibes? 🎃](https://dev.to/devteam/what-tech-gadget-gives-you-pumpkin-spice-vibes-208e)
 - [Securing Nodemailer with Proper Authentication](https://dev.to/scofieldidehen/securing-nodemailer-with-proper-authentication-3i8g)
 - [React roadmap &lpar; with explanations and resources, all in one place&rpar;](https://dev.to/arking115/react-roadmap-with-explanations-and-resources-all-in-one-place-34d9)
-- [Node.js Unit Testing with Jest: A Quick Guide](https://dev.to/xcoder03/nodejs-unit-testing-with-jest-a-quick-guide-1p47)
 <!-- BLOG-POST-LIST:END -->
 
