@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React roadmap &lpar; with explanations and resources, all in one place&rpar;](https://dev.to/arking115/react-roadmap-with-explanations-and-resources-all-in-one-place-34d9)
 - [Node.js Unit Testing with Jest: A Quick Guide](https://dev.to/xcoder03/nodejs-unit-testing-with-jest-a-quick-guide-1p47)
 - [Leveraging Infrastructure as Code &lpar;IaC&rpar; for AWS Lambda: A Comparative Analysis of AWS SAM, Terraform, and Serverless Framework](https://dev.to/aws-builders/leveraging-infrastructure-as-code-iac-for-aws-lambda-a-comparative-analysis-of-aws-sam-terraform-and-serverless-framework-2ia8)
-- [Implementing Paystack Payment in a React Application: A Step-by-Step Guide](https://dev.to/devlawrence/implementing-paystack-payment-in-a-react-application-a-step-by-step-guide-10bf)
-- [Hiring is Broken, But How Do We Fix It?](https://dev.to/tdesseyn/hiring-is-broken-but-how-do-we-fix-it-41m7)
+- [Episode 23/42: Template Control Flow &amp; @defer, Forms &amp; Signals](https://dev.to/this-is-angular/episode-2342-template-control-flow-defer-forms-signals-5fga)
 <!-- BLOG-POST-LIST:END -->
 
