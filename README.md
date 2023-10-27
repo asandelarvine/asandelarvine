@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [dotgenv – Revolutionize Your Node.js Secret Management](https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m)
+- [[Python] Project ideas for every level of advancement](https://dev.to/deenuu1/python-project-ideas-for-every-level-of-advancement-3g5f)
 - [Node.js for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/nodejs-for-beginners-a-step-by-step-guide-2996)
 - [Developers are Burning out Daily, Find Out Why!](https://dev.to/scofieldidehen/developers-are-burning-out-daily-find-out-why-38el)
-- [Building a Stopwatch in React](https://dev.to/kartikbudhraja/building-a-stopwatch-in-react-1nb3)
-- [The Top Animation Libraries for React in 2023](https://dev.to/onix-systems/the-top-animation-libraries-for-react-in-2023-3n9f)
 <!-- BLOG-POST-LIST:END -->
 
