@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📈 Top 7 open source repos on GitHub 🚀✨](https://dev.to/quine/top-7-open-source-repos-on-github-2l64)
-- [ltag: A little CLI tool for tagged text searching](https://dev.to/mebble/ltag-a-little-cli-tool-for-tagged-text-searching-31o3)
-- [Demystifying &#39;this&#39; in JavaScript](https://dev.to/ptheodosiou/demystifying-this-in-javascript-4ec6)
-- [[Python 🐍 Mastery] Python&#39;s Object-Oriented Programming Overview and Fundamentals ⭐️](https://dev.to/swirl/python-mastery-pythons-object-oriented-programming-overview-and-fundamentals-22m1)
+- [CodePush with ReactNative for Android.](https://dev.to/raghad60/codepush-with-reactnative-for-android-4l02)
+- [🚀🚀Beginner CSS ZERO to HERO](https://dev.to/dumebii/beginner-css-zero-to-hero-4mi3)
+- [Cracking the Code: Communicating Tech to Non-Tech](https://dev.to/syskin/cracking-the-code-communicating-tech-to-non-tech-3oo4)
+- [DevOps CI/CD Quick Start Guide with GitHub Actions 🛠️🐙⚡️](https://dev.to/dpills/devops-cicd-quick-start-guide-with-github-actions-3c2b)
 <!-- BLOG-POST-LIST:END -->
 
