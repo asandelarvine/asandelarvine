@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Python 🐍 Mastery] Python&#39;s Object-Oriented Programming Overview and Fundamentals ⭐️](https://dev.to/swirl/python-mastery-pythons-object-oriented-programming-overview-and-fundamentals-22m1)
+- [How to download and install Python 3 for Mac](https://dev.to/vayolapradeep/how-to-download-and-installpython-3-for-mac-2o9n)
 - [🔄 Looping Through JavaScript Objects with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-objects-with-different-approaches-3c6m)
 - [Highlight on the new features of Next JS 14 config 2023](https://dev.to/muhammadazfaraslam/highlight-on-the-new-features-of-next-js-14-config-2023-4lbe)
-- [Box Test Steps in Playwright](https://dev.to/playwright/box-test-steps-in-playwright-15d9)
-- [Mastering TypeScript: A Beginner&#39;s Guide](https://dev.to/baransel/mastering-typescript-a-beginners-guide-5ch6)
 <!-- BLOG-POST-LIST:END -->
 
