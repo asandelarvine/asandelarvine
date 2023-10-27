@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m not a perfect developer...and neither are you.](https://dev.to/ravavyr/im-not-a-perfect-developerand-neither-are-you-4e82)
-- [Como eu estudei para certificação DP900 e fui aprovada](https://dev.to/franolv/como-eu-estudei-para-certificacao-dp900-e-fui-aprovada-4hbd)
-- [NodeJS - Ofuscando rostos humanos em fotos](https://dev.to/justaguyfrombr/nodejs-ofuscando-rostos-humanos-em-fotos-2ip)
-- [Discussion of the Week - v8](https://dev.to/devteam/discussion-of-the-week-v8-194n)
+- [Implementing Paystack Payment in a React Application: A Step-by-Step Guide](https://dev.to/devlawrence/implementing-paystack-payment-in-a-react-application-a-step-by-step-guide-10bf)
+- [Hiring is Broken, But How Do We Fix It?](https://dev.to/tdesseyn/hiring-is-broken-but-how-do-we-fix-it-41m7)
+- [Design Patterns: A Brief Primer](https://dev.to/jakeespinosa/design-patterns-a-brief-primer-3e59)
+- [The Code Whisper Magic with Amazon Code Whisperer](https://dev.to/aws-builders/the-code-whisper-magic-with-amazon-code-whisperer-331i)
 <!-- BLOG-POST-LIST:END -->
 
