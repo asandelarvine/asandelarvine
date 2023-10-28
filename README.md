@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
+- [Get Hired FASTER With These 10 CSS Skills 📚](https://dev.to/todayscode14/get-hired-faster-with-these-10-css-skills-965)
 - [Performing CRUD Operations in a React-Express-MongoDB Application](https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4)
 - [WTH is Retrieval Augmented Generation &lpar;RAG&rpar;?](https://dev.to/pavanbelagatti/wth-is-retrieval-augmented-generation-rag-2a5a)
-- [Redis queues for SaaS apps](https://dev.to/ianwcarlson/redis-queues-for-saas-apps-433p)
-- [How do I earn 10k monthly using honeygain?](https://dev.to/connectaryal/how-do-i-earn-10k-monthly-using-honeygain-51fl)
 <!-- BLOG-POST-LIST:END -->
 
