@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make an adaptive emoji card &lpar;TS React and Chakra UI&rpar;](https://dev.to/arielbk/how-to-make-an-adaptive-emoji-card-ts-react-and-chakra-ui-54kf)
 - [How @support works?](https://dev.to/yuridevat/how-support-works-4bf3)
+- [Subjects and BehaviorSubjects in Angular: A Deep Dive](https://dev.to/mariazayed/subjects-and-behaviorsubjects-in-angular-a-deep-dive-4kf2)
 - [Tailwind CSS for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/tailwind-css-for-beginners-a-step-by-step-guide-3gff)
-- [Golang Tutorial 18](https://dev.to/gargkunal/golang-tutorial-18-4m95)
-- [Everything you need to know about Date in Programming](https://dev.to/shreyvijayvargiya/everything-you-need-to-know-about-date-in-programming-2a1j)
 <!-- BLOG-POST-LIST:END -->
 
