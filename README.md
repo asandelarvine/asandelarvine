@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Scraping Instagram Data. How to bypass Instagram login while scraping - Facebook Spy / Meta Spy](https://dev.to/deenuu1/a-comprehensive-guide-to-scraping-instagram-data-how-to-bypass-instagram-login-while-scraping-facebook-spy-meta-spy-3p4a)
+- [If your code was a hotel, would you stay at it?](https://dev.to/noriller/if-your-code-was-a-hotel-would-you-stay-at-it-4de5)
 - [How to Release a Side Project as a Real Product](https://dev.to/this-is-learning/how-to-release-a-side-project-as-a-real-product-emj)
 - [A smart way to create scalable web sockets in NestJS](https://dev.to/axotion/a-smart-way-to-create-scalable-web-sockets-in-nestjs-2ipi)
-- [Enhancing Customer Experiences: A Key Benefit of Chatbots for Websites](https://dev.to/vishalkhurana/enhancing-customer-experiences-a-key-benefit-of-chatbots-for-websites-17g5)
-- [Screenshot your code with CodeSnap - Top VS Code Extensions - CodeSnap.](https://dev.to/pinky057/screenshot-your-code-with-codesnap-top-vs-code-extensions-codesnap-c12)
 <!-- BLOG-POST-LIST:END -->
 
