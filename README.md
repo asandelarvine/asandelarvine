@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How and when to use keys in React](https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb)
 - [A Comprehensive Introduction to Golang](https://dev.to/intellect4all/a-comprehensive-introduction-to-golang-5ab5)
+- [Simplifying Java Application Development](https://dev.to/frensdude/simplifying-java-application-development-4g57)
 - [Unused Childhood Lessons - Share Yours!](https://dev.to/codenewbieteam/unused-childhood-lessons-share-yours-5dk3)
-- [How to Manage Multiple Appwrite Functions in a Single Repository](https://dev.to/chukwutosin_/how-to-manage-multiple-appwrite-functions-in-a-single-repository-4lpo)
 <!-- BLOG-POST-LIST:END -->
 
