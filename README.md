@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [These 3 Types of Coding Projects Give You an UNFAIR Advantage](https://dev.to/codewithshahan/these-3-types-of-coding-projects-give-you-an-unfair-advantage-4jp4)
+- [Spring Framework: Your Foundation for Building Java Marvels&quot;](https://dev.to/tyagi_data_wizard/spring-framework-your-foundation-for-building-java-marvels-h03)
 - [Roll your own auth with Rust and Protobuf](https://dev.to/martinp/roll-your-own-auth-with-rust-and-protobuf-24ke)
 - [Top 5 Github repositories to achieve system design mastery](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4)
-- [Fetching LinkedIn user Data and Sign In with LinkedIn using OpenID Connect](https://dev.to/fardinabir/fetching-linkedin-user-data-and-sign-in-with-linkedin-using-openid-connect-3kf)
-- [Hacktoberfest 2023](https://dev.to/thexxturboxx/hacktoberfest-2023-31j5)
 <!-- BLOG-POST-LIST:END -->
 
