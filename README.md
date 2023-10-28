@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Release a Side Project as a Real Product](https://dev.to/this-is-learning/how-to-release-a-side-project-as-a-real-product-emj)
 - [A smart way to create scalable web sockets in NestJS](https://dev.to/axotion/a-smart-way-to-create-scalable-web-sockets-in-nestjs-2ipi)
 - [Enhancing Customer Experiences: A Key Benefit of Chatbots for Websites](https://dev.to/vishalkhurana/enhancing-customer-experiences-a-key-benefit-of-chatbots-for-websites-17g5)
 - [Screenshot your code with CodeSnap - Top VS Code Extensions - CodeSnap.](https://dev.to/pinky057/screenshot-your-code-with-codesnap-top-vs-code-extensions-codesnap-c12)
-- [These 3 Types of Coding Projects Give You an UNFAIR Advantage](https://dev.to/codewithshahan/these-3-types-of-coding-projects-give-you-an-unfair-advantage-4jp4)
 <!-- BLOG-POST-LIST:END -->
 
