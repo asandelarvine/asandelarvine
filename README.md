@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting on my first CLI Application](https://dev.to/mishmishel/reflecting-on-my-first-cli-application-49cb)
 - [How and when to use keys in React](https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb)
 - [A Comprehensive Introduction to Golang](https://dev.to/intellect4all/a-comprehensive-introduction-to-golang-5ab5)
 - [Simplifying Java Application Development](https://dev.to/frensdude/simplifying-java-application-development-4g57)
-- [Unused Childhood Lessons - Share Yours!](https://dev.to/codenewbieteam/unused-childhood-lessons-share-yours-5dk3)
 <!-- BLOG-POST-LIST:END -->
 
