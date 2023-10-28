@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A smart way to create scalable web sockets in NestJS](https://dev.to/axotion/a-smart-way-to-create-scalable-web-sockets-in-nestjs-2ipi)
+- [Enhancing Customer Experiences: A Key Benefit of Chatbots for Websites](https://dev.to/vishalkhurana/enhancing-customer-experiences-a-key-benefit-of-chatbots-for-websites-17g5)
+- [Screenshot your code with CodeSnap - Top VS Code Extensions - CodeSnap.](https://dev.to/pinky057/screenshot-your-code-with-codesnap-top-vs-code-extensions-codesnap-c12)
 - [These 3 Types of Coding Projects Give You an UNFAIR Advantage](https://dev.to/codewithshahan/these-3-types-of-coding-projects-give-you-an-unfair-advantage-4jp4)
-- [Spring Framework: Your Foundation for Building Java Marvels&quot;](https://dev.to/tyagi_data_wizard/spring-framework-your-foundation-for-building-java-marvels-h03)
-- [Roll your own auth with Rust and Protobuf](https://dev.to/martinp/roll-your-own-auth-with-rust-and-protobuf-24ke)
-- [Top 5 Github repositories to achieve system design mastery](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4)
 <!-- BLOG-POST-LIST:END -->
 
