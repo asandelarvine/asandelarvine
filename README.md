@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make an adaptive emoji card &lpar;TS React and Chakra UI&rpar;](https://dev.to/arielbk/how-to-make-an-adaptive-emoji-card-ts-react-and-chakra-ui-54kf)
-- [How @support works?](https://dev.to/yuridevat/how-support-works-4bf3)
-- [Subjects and BehaviorSubjects in Angular: A Deep Dive](https://dev.to/mariazayed/subjects-and-behaviorsubjects-in-angular-a-deep-dive-4kf2)
-- [Tailwind CSS for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/tailwind-css-for-beginners-a-step-by-step-guide-3gff)
+- [Roll your own auth with Rust and Protobuf](https://dev.to/martinp/roll-your-own-auth-with-rust-and-protobuf-24ke)
+- [Top 5 Github repositories to achieve system design mastery](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4)
+- [Fetching LinkedIn user Data and Sign In with LinkedIn using OpenID Connect](https://dev.to/fardinabir/fetching-linkedin-user-data-and-sign-in-with-linkedin-using-openid-connect-3kf)
+- [Hacktoberfest 2023](https://dev.to/thexxturboxx/hacktoberfest-2023-31j5)
 <!-- BLOG-POST-LIST:END -->
 
