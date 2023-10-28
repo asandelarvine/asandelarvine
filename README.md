@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic Pattern - Javascript Interview](https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0)
+- [why learn web &lpar;javascript&rpar; ML&lpar;machine learning&rpar; 2024](https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1)
 - [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
 - [Get Hired FASTER With These 10 CSS Skills 📚](https://dev.to/todayscode14/get-hired-faster-with-these-10-css-skills-965)
-- [Performing CRUD Operations in a React-Express-MongoDB Application](https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4)
-- [WTH is Retrieval Augmented Generation &lpar;RAG&rpar;?](https://dev.to/pavanbelagatti/wth-is-retrieval-augmented-generation-rag-2a5a)
 <!-- BLOG-POST-LIST:END -->
 
