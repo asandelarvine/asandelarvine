@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis queues for SaaS apps](https://dev.to/ianwcarlson/redis-queues-for-saas-apps-433p)
 - [How do I earn 10k monthly using honeygain?](https://dev.to/connectaryal/how-do-i-earn-10k-monthly-using-honeygain-51fl)
 - [ActionMailer attachments in Ruby on Rails](https://dev.to/harrisonbroadbent/actionmailer-attachments-in-ruby-on-rails-1hf1)
 - [K8s Exercise : Labels and Annotations](https://dev.to/aksrao1998/k8s-exercise-labels-and-annotations-3nl0)
-- [Reflecting on my first CLI Application](https://dev.to/mishmishel/reflecting-on-my-first-cli-application-49cb)
 <!-- BLOG-POST-LIST:END -->
 
