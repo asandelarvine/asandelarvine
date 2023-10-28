@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Simple JQuery Carousel](https://dev.to/bieefilled/building-a-simple-jquery-carousel-1db7)
 - [Title: 10 Tips for Effective Remote Work Productivity](https://dev.to/l1qu3d/title-10-tips-for-effective-remote-work-productivity-25g6)
+- [Why is node_modules heavier than the universe? &lpar;No seriously, why is it so big?&rpar;](https://dev.to/faizbshah/why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl)
 - [Basic Pattern - Javascript Interview](https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0)
-- [why learn web &lpar;javascript&rpar; ML&lpar;machine learning&rpar; 2024](https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1)
-- [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
 <!-- BLOG-POST-LIST:END -->
 
