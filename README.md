@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The true power of Git 🔥😤.](https://dev.to/fayomihorace/the-true-power-of-git--1lp2)
+- [Celebrating Open Source Innovation: Reflecting on Trigger.dev&#39;s Hacktoberfest Journey](https://dev.to/devrx/celebrating-open-source-innovation-reflecting-on-triggerdevs-hacktoberfest-journey-2k4n)
 - [👻 Happy Halloween Page using pure css](https://dev.to/freecodez/happy-halloween-page-using-pure-css-5354)
 - [Have You Ever Encountered A Ghost in the Machine? 👻](https://dev.to/devteam/favorite-spooky-movie-for-the-season-5c9b)
-- [30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎](https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el)
-- [React State Management Basics](https://dev.to/dsibinski/react-state-management-basics-3252)
 <!-- BLOG-POST-LIST:END -->
 
