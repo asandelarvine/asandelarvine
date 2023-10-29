@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master the Art of Customizing Angular Components 🚀](https://dev.to/khangtrannn/master-the-art-of-customizing-angular-components-2a1e)
+- [TypeScript vs. JavaScript: Making the Right Choice for Your Project](https://dev.to/baransel/typescript-vs-javascript-making-the-right-choice-for-your-project-5blo)
 - [If movies were all about software development.](https://dev.to/grahamthedev/if-movies-were-all-about-software-development-5ej5)
 - [Must-have Skills to Become a Frontend Developer in 6 Months &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
-- [Creating a Dynamic Star Rating System in React](https://dev.to/kartikbudhraja/creating-a-dynamic-star-rating-system-in-react-2c8)
-- [What is callback function in JavaScript](https://dev.to/xuho/what-is-callback-function-in-javascript-1ecl)
 <!-- BLOG-POST-LIST:END -->
 
