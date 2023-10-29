@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How C-Pointers Works: A Step-by-Step Beginner&#39;s Tutorial](https://dev.to/koderkareem/how-c-pointers-works-a-step-by-step-beginners-tutorial-1jpc)
-- [Hacktoberfest 2023: A Digital Swag Revolution for Open-Source Enthusiasts](https://dev.to/abhixsh/hacktoberfest-2023-a-digital-swag-revolution-for-open-source-enthusiasts-1i69)
-- [Bridging the Gap Between Developers and QA Testers with Maestro](https://dev.to/tuliocalil/bridging-the-gap-between-developers-and-qa-testers-with-maestro-4h6g)
-- [Data teams can deliver 10x better to the rest of us](https://dev.to/mzsrtgzr2/data-teams-can-deliver-10x-better-to-the-rest-of-us-5hbh)
+- [LinkedIn Voyager API: The Ultimate Developer&#39;s Guide](https://dev.to/scofieldidehen/linkedin-voyager-api-the-ultimate-developers-guide-1a08)
+- [Decoding Machine Learning: Unveiling the Learning Process](https://dev.to/jagroop2001/decoding-machine-learning-unveiling-the-learning-process-1fg)
+- [Resilient Architecture in React: Using Error Boundaries](https://dev.to/leomunizq/resilient-architecture-in-react-using-error-boundaries-4bjd)
+- [Good Bye CRUD APIs, Hello Sync: Realtime PostgreSQL with ElectricSQL](https://dev.to/lovestaco/good-bye-crud-apis-hello-sync-realtime-postgresql-with-electricsql-1f8j)
 <!-- BLOG-POST-LIST:END -->
 
