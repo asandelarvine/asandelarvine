@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in Nextjs 14 ✨](https://dev.to/todayscode14/whats-new-in-nextjs-14-iep)
+- [Hacktoberfest 2023: Celebrating the Last Days- My Rewards and Your Opportunity to Shine](https://dev.to/abhixsh/hacktoberfest-2023-celebrating-the-last-days-my-rewards-and-your-opportunity-to-shine-gim)
+- [🤑 I Developed a Visual Novel and Earned $2](https://dev.to/denizhan/i-developed-a-visual-novel-and-earned-2-1j3c)
 - [LinkedIn Voyager API: The Ultimate Developer&#39;s Guide](https://dev.to/scofieldidehen/linkedin-voyager-api-the-ultimate-developers-guide-1a08)
-- [Decoding Machine Learning: Unveiling the Learning Process](https://dev.to/jagroop2001/decoding-machine-learning-unveiling-the-learning-process-1fg)
-- [Resilient Architecture in React: Using Error Boundaries](https://dev.to/leomunizq/resilient-architecture-in-react-using-error-boundaries-4bjd)
-- [A closer look to page performance](https://dev.to/efpage/a-closer-look-to-page-performance-57nm)
 <!-- BLOG-POST-LIST:END -->
 
