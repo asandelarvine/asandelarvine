@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build WebSocket Server and Client in Python](https://dev.to/sachingeek/build-websocket-server-and-client-in-python-5c3m)
 - [Maximizing Streaming Recommendations: A Real-Time System Design](https://dev.to/devopsking/maximizing-streaming-recommendations-a-real-time-system-design-3c8l)
 - [Comece Por Aqui: Conceitos Básicos Kotlin Parte I](https://dev.to/analaura/explorando-os-conceitos-basicos-do-kotlin-parte-i-2pll)
 - [Linear Algebra: Invertibility](https://dev.to/ben12002/linear-algebra-invertibility-fhh)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3jh)
 <!-- BLOG-POST-LIST:END -->
 
