@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [LinkedIn Voyager API: The Ultimate Developer&#39;s Guide](https://dev.to/scofieldidehen/linkedin-voyager-api-the-ultimate-developers-guide-1a08)
 - [Decoding Machine Learning: Unveiling the Learning Process](https://dev.to/jagroop2001/decoding-machine-learning-unveiling-the-learning-process-1fg)
 - [Resilient Architecture in React: Using Error Boundaries](https://dev.to/leomunizq/resilient-architecture-in-react-using-error-boundaries-4bjd)
-- [Good Bye CRUD APIs, Hello Sync: Realtime PostgreSQL with ElectricSQL](https://dev.to/lovestaco/good-bye-crud-apis-hello-sync-realtime-postgresql-with-electricsql-1f8j)
+- [A closer look to page performance](https://dev.to/efpage/a-closer-look-to-page-performance-57nm)
 <!-- BLOG-POST-LIST:END -->
 
