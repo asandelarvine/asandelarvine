@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Explorando os Conceitos Básicos do Kotlin: Parte I](https://dev.to/analaura/explorando-os-conceitos-basicos-do-kotlin-parte-i-2pll)
 - [Linear Algebra: Invertibility](https://dev.to/ben12002/linear-algebra-invertibility-fhh)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3jh)
-- [Sidecar Pattern](https://dev.to/jiisanda/sidecar-pattern-4cp3)
+- [What Movie or Book Still Holds a Special Place in Your Heart?](https://dev.to/codenewbieteam/what-movie-or-book-still-holds-a-special-place-in-your-heart-4ie6)
 <!-- BLOG-POST-LIST:END -->
 
