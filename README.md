@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Q Learnig with PyTorch](https://dev.to/akshayballal/deep-q-learnig-with-pytorch-5bl1)
 - [How do I found out who created a website?](https://dev.to/mrmijanjoy/how-do-i-found-out-who-created-a-website-5hl9)
 - [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
-- [How to create a custom cursor follower with gsap](https://dev.to/dionarodrigues/how-to-create-a-custom-cursor-follower-with-gsap-87k)
-- [🔒 Authenticate with Session-Based Auth in Django, Bootstrap, React &amp; Vite](https://dev.to/bekbrace/authenticate-with-session-based-auth-in-django-bootstrap-react-vite-363o)
+- [Hacktoberfest2023 - completion!](https://dev.to/tanushree_aggarwal/hacktoberfest2023-completion-4pe6)
 <!-- BLOG-POST-LIST:END -->
 
