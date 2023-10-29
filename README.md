@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master the Art of Customizing Angular Components 🚀](https://dev.to/khangtrannn/master-the-art-of-customizing-angular-components-2a1e)
-- [TypeScript vs. JavaScript: Making the Right Choice for Your Project](https://dev.to/baransel/typescript-vs-javascript-making-the-right-choice-for-your-project-5blo)
-- [If movies were all about software development.](https://dev.to/grahamthedev/if-movies-were-all-about-software-development-5ej5)
-- [Must-have Skills to Become a Frontend Developer in 6 Months &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
+- [How C-Pointers Works: A Step-by-Step Beginner&#39;s Tutorial](https://dev.to/koderkareem/how-c-pointers-works-a-step-by-step-beginners-tutorial-1jpc)
+- [Hacktoberfest 2023: A Digital Swag Revolution for Open-Source Enthusiasts](https://dev.to/abhixsh/hacktoberfest-2023-a-digital-swag-revolution-for-open-source-enthusiasts-1i69)
+- [Bridging the Gap Between Developers and QA Testers with Maestro](https://dev.to/tuliocalil/bridging-the-gap-between-developers-and-qa-testers-with-maestro-4h6g)
+- [Data teams can deliver 10x better to the rest of us](https://dev.to/mzsrtgzr2/data-teams-can-deliver-10x-better-to-the-rest-of-us-5hbh)
 <!-- BLOG-POST-LIST:END -->
 
