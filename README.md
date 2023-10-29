@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build WebSocket Server and Client in Python](https://dev.to/sachingeek/build-websocket-server-and-client-in-python-5c3m)
-- [Maximizing Streaming Recommendations: A Real-Time System Design](https://dev.to/devopsking/maximizing-streaming-recommendations-a-real-time-system-design-3c8l)
-- [Comece Por Aqui: Conceitos Básicos Kotlin Parte I](https://dev.to/analaura/explorando-os-conceitos-basicos-do-kotlin-parte-i-2pll)
-- [Linear Algebra: Invertibility](https://dev.to/ben12002/linear-algebra-invertibility-fhh)
+- [Have You Ever Encountered A Ghost in the Machine? 👻](https://dev.to/devteam/favorite-spooky-movie-for-the-season-5c9b)
+- [30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎](https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el)
+- [Top 10 C# Libraries You Need to Know About](https://dev.to/durgesh4993/top-10-c-libraries-you-need-to-know-about-4f73)
+- [Title: &quot;Voice Search Optimization: Stay Ahead in the Age of Voice Assistants&quot;](https://dev.to/l1qu3d/title-voice-search-optimization-stay-ahead-in-the-age-of-voice-assistants-1jkk)
 <!-- BLOG-POST-LIST:END -->
 
