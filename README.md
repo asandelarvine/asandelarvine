@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [If movies were all about software development.](https://dev.to/grahamthedev/if-movies-were-all-about-software-development-5ej5)
+- [Must-have Skills to Become a Frontend Developer in 6 Months &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
+- [Creating a Dynamic Star Rating System in React](https://dev.to/kartikbudhraja/creating-a-dynamic-star-rating-system-in-react-2c8)
 - [What is callback function in JavaScript](https://dev.to/xuho/what-is-callback-function-in-javascript-1ecl)
-- [The true power of Git 🔥😤.](https://dev.to/fayomihorace/the-true-power-of-git--1lp2)
-- [Celebrating Open Source Innovation: Reflecting on Trigger.dev&#39;s Hacktoberfest Journey](https://dev.to/devrx/celebrating-open-source-innovation-reflecting-on-triggerdevs-hacktoberfest-journey-2k4n)
-- [👻 Happy Halloween Page using pure css](https://dev.to/freecodez/happy-halloween-page-using-pure-css-5354)
 <!-- BLOG-POST-LIST:END -->
 
