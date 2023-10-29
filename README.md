@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [👻 Happy Halloween Page using pure css](https://dev.to/freecodez/happy-halloween-page-using-pure-css-5354)
 - [Have You Ever Encountered A Ghost in the Machine? 👻](https://dev.to/devteam/favorite-spooky-movie-for-the-season-5c9b)
 - [30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎](https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el)
 - [React State Management Basics](https://dev.to/dsibinski/react-state-management-basics-3252)
-- [Top 10 C# Libraries You Need to Know About](https://dev.to/durgesh4993/top-10-c-libraries-you-need-to-know-about-4f73)
 <!-- BLOG-POST-LIST:END -->
 
