@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explorando os Conceitos Básicos do Kotlin: Parte I](https://dev.to/analaura/explorando-os-conceitos-basicos-do-kotlin-parte-i-2pll)
+- [Linear Algebra: Invertibility](https://dev.to/ben12002/linear-algebra-invertibility-fhh)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3jh)
 - [Sidecar Pattern](https://dev.to/jiisanda/sidecar-pattern-4cp3)
-- [[Python] A Comprehensive Guide to Scraping Instagram Data. How to bypass Instagram login while scraping - Meta Spy](https://dev.to/deenuu1/a-comprehensive-guide-to-scraping-instagram-data-how-to-bypass-instagram-login-while-scraping-facebook-spy-meta-spy-3p4a)
-- [What is Quantum Computing?](https://dev.to/anurag_vishwakarma/what-is-quantum-computing-19gp)
-- [If your code was a hotel, would you stay at it?](https://dev.to/noriller/if-your-code-was-a-hotel-would-you-stay-at-it-4de5)
 <!-- BLOG-POST-LIST:END -->
 
