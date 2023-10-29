@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
+- [How to create a custom cursor follower with gsap](https://dev.to/dionarodrigues/how-to-create-a-custom-cursor-follower-with-gsap-87k)
 - [🔒 Authenticate with Session-Based Auth in Django, Bootstrap, React &amp; Vite](https://dev.to/bekbrace/authenticate-with-session-based-auth-in-django-bootstrap-react-vite-363o)
 - [Yet Another Newsletter LOL: No New APIs](https://dev.to/nickytonline/yet-another-newsletter-lol-no-new-apis-20p5)
-- [What&#39;s new in Nextjs 14 ✨](https://dev.to/todayscode14/whats-new-in-nextjs-14-iep)
-- [Hacktoberfest 2023: Celebrating the Last Days- My Rewards and Your Opportunity to Shine](https://dev.to/abhixsh/hacktoberfest-2023-celebrating-the-last-days-my-rewards-and-your-opportunity-to-shine-gim)
 <!-- BLOG-POST-LIST:END -->
 
