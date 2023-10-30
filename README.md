@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a PDF Builder in React?](https://dev.to/nadim_ch0wdhury/how-to-make-a-pdf-builder-in-react-27b6)
-- [Running out of disk space? Delete node_modules](https://dev.to/opensourcee/running-out-of-disk-space-delete-nodemodules-36l6)
-- [Math for computer science roadmap](https://dev.to/erupturatis/math-for-computer-science-roadmap-1d8h)
-- [CALL me, maybe](https://dev.to/terceranexus6/call-me-maybe-1jg2)
+- [Meme Monday](https://dev.to/ben/meme-monday-2mk3)
+- [Price and Analysis: Why is Bitcoin Price Skyrocketing to $35,000?](https://dev.to/victordelpino/price-and-analysis-why-is-bitcoin-price-skyrocketing-to-35000-1efg)
+- [How to use UIAlertController in Xcode?](https://dev.to/avelynhc/how-to-use-uialertcontroller-in-xcode-1pg6)
+- [⤴️ Top 5 projects for building scalable cloud-based applications 🚀](https://dev.to/odigos/top-5-projects-for-building-scalable-cloud-based-applications-3e38)
 <!-- BLOG-POST-LIST:END -->
 
