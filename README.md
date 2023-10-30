@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to use JavaScript to power UI components based on Tailwind CSS](https://dev.to/themesberg/learn-how-to-use-javascript-to-power-ui-components-based-on-tailwind-css-57ci)
-- [Build a URL Shortener in Go using REST &amp; PostgreSQL 🚀](https://dev.to/encore/build-a-url-shortener-in-go-using-rest-postgresql-a7i)
-- [Applying Unit Tests on NestJS with Jest and GitHub Actions](https://dev.to/henriqueweiand/applying-unit-tests-on-nestjs-with-jest-and-github-actions-a0j)
-- [Weekly Roundup 024 &lpar;Oct 23&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-024-oct-23-hot-topics-in-workplace-sharepoint-and-powerplatform-h0p)
+- [How to make a PDF Builder in React?](https://dev.to/nadim_ch0wdhury/how-to-make-a-pdf-builder-in-react-27b6)
+- [Running out of disk space? Delete node_modules](https://dev.to/opensourcee/running-out-of-disk-space-delete-nodemodules-36l6)
+- [Math for computer science roadmap](https://dev.to/erupturatis/math-for-computer-science-roadmap-1d8h)
+- [CALL me, maybe](https://dev.to/terceranexus6/call-me-maybe-1jg2)
 <!-- BLOG-POST-LIST:END -->
 
