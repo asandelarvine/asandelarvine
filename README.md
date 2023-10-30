@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Delve into CSS Grids and Flexboxes](https://dev.to/ericnanhu/delve-into-css-grids-and-flexboxes-1523)
+- [Quick overview of Next JS 14 Updates](https://dev.to/mukeshkuiry/quick-overview-of-next-js-14-updates-521o)
+- [Git cheatsheet](https://dev.to/farhakousar1601/git-cheatsheet-3cb4)
 - [Meme Monday](https://dev.to/ben/meme-monday-2mk3)
-- [Price and Analysis: Why is Bitcoin Price Skyrocketing to $35,000?](https://dev.to/victordelpino/price-and-analysis-why-is-bitcoin-price-skyrocketing-to-35000-1efg)
-- [How to use UIAlertController in Xcode?](https://dev.to/avelynhc/how-to-use-uialertcontroller-in-xcode-1pg6)
-- [⤴️ Top 5 projects for building scalable cloud-based applications 🚀](https://dev.to/odigos/top-5-projects-for-building-scalable-cloud-based-applications-3e38)
 <!-- BLOG-POST-LIST:END -->
 
