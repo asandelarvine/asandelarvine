@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DON&#39;T Just a Programmer Be a COACH!](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
+- [Redux Toolkit Query - Cache Behavior](https://dev.to/kartikbudhraja/redux-toolkit-query-cache-behavior-2nnj)
 - [I Created An Amazing Programming Study Plan with ChatGPT: Here’s how!](https://dev.to/chasetramel/i-created-an-amazing-programming-study-plan-with-chatgpt-heres-how-2jo9)
-- [Exploring Variables in CSS &lpar;custom properties&rpar;](https://dev.to/gideon1999/exploring-variables-in-css-custom-properties-401g)
-- [Transform Digital Identity with AgentChain](https://dev.to/agentchain/transform-digital-identity-with-agentchain-42ep)
-- [TypeScript Generics Demystified: Unlocking the Power of Parametric Polymorphism](https://dev.to/baransel/typescript-generics-demystified-unlocking-the-power-of-parametric-polymorphism-742)
+- [How Does AI Code Generation Work? And what are some popular AI code generation tools?](https://dev.to/exocody/how-does-ai-code-generation-work-and-what-are-some-popular-ai-code-generation-tools-j2p)
 <!-- BLOG-POST-LIST:END -->
 
