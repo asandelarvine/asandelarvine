@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Generics Demystified: Unlocking the Power of Parametric Polymorphism](https://dev.to/baransel/typescript-generics-demystified-unlocking-the-power-of-parametric-polymorphism-742)
+- [My Hacktoberfest](https://dev.to/jolo/my-hacktoberfest-1o1o)
+- [Introduction to Web Scraping: Fundamentals and Getting Started](https://dev.to/rodneywilham/introduction-to-web-scraping-fundamentals-and-getting-started-27dk)
 - [Delve into CSS Grids and Flexboxes](https://dev.to/ericnanhu/delve-into-css-grids-and-flexboxes-1523)
-- [Quick overview of Next JS 14 Updates](https://dev.to/mukeshkuiry/quick-overview-of-next-js-14-updates-521o)
-- [Git cheatsheet](https://dev.to/farhakousar1601/git-cheatsheet-3cb4)
-- [Meme Monday](https://dev.to/ben/meme-monday-2mk3)
 <!-- BLOG-POST-LIST:END -->
 
