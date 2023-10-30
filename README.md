@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [😱 Pure CSS! Neural Network / AI...it&#39;s easier that you think! 🤯](https://dev.to/grahamthedev/pure-css-neural-network-aiits-easier-that-you-think-f02)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e0p)
-- [What&#39;s New In Flask 3.0](https://dev.to/khaleelhabeeb/whats-new-in-flask-30-2g5a)
-- [Be a coach; don&#39;t just be a programmer](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
+- [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
+- [Como tratar erros http no Spring Boot](https://dev.to/m1guelsb/como-tratar-erros-http-no-spring-boot-41de)
+- [Metaprogramming in ruby](https://dev.to/cherryramatis/metaprogramming-in-ruby-4p1g)
+- [😱 Pure CSS! Neural Network / AI...it&#39;s easier than you think! 🤯](https://dev.to/grahamthedev/pure-css-neural-network-aiits-easier-that-you-think-f02)
 <!-- BLOG-POST-LIST:END -->
 
