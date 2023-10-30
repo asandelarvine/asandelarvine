@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All-Time Favorite Halloween Costume?](https://dev.to/devteam/all-time-favorite-halloween-costume-4gnk)
+- [Effortlessly add new characters to Your keyboard layout](https://dev.to/apetryla/effortlessly-add-new-characters-to-your-keyboard-layout-12l4)
+- [What&#39;s new in NgRx Version 12 of Angular?](https://dev.to/ifourtechnolab/whats-new-in-ngrx-version-12-of-angular-4a3m)
 - [Passwords vs Keys](https://dev.to/aungkohtat/passwords-vs-keys-31dn)
-- [The Rise of TypeScript: A Strongly Typed JavaScript Superset](https://dev.to/saloman_james/the-rise-of-typescript-a-strongly-typed-javascript-superset-5b27)
-- [Adding a search feature to my app](https://dev.to/paulkim26/adding-a-search-feature-to-my-app-12g4)
-- [SMTP.js – Send Email without a Server from the Browser](https://dev.to/scofieldidehen/smtpjs-send-email-without-a-server-from-the-browser-2oo2)
 <!-- BLOG-POST-LIST:END -->
 
