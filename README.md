@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [😱 Pure CSS! Neural Network / AI...it&#39;s easier that you think! 🤯](https://dev.to/grahamthedev/pure-css-neural-network-aiits-easier-that-you-think-f02)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e0p)
 - [What&#39;s New In Flask 3.0](https://dev.to/khaleelhabeeb/whats-new-in-flask-30-2g5a)
-- [DON&#39;T Just a Programmer Be a COACH!](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
-- [Redux Toolkit Query - Cache Behavior](https://dev.to/kartikbudhraja/redux-toolkit-query-cache-behavior-2nnj)
+- [Be a coach; don&#39;t just be a programmer](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
 <!-- BLOG-POST-LIST:END -->
 
