@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerabilities Exposed in LinkedIn&#39;s Voyager API](https://dev.to/scofieldidehen/vulnerabilities-exposed-in-linkedins-voyager-api-73a)
+- [Solving Sudoku](https://dev.to/prantoran/solving-sudoku-142o)
 - [Reading Docusaurus code](https://dev.to/avelynhc/reading-docusaurus-code-ggm)
-- [How to setup and configure TURN server using coTURN?](https://dev.to/alakkadshaw/how-to-setup-and-configure-turn-server-using-coturn-4oec)
-- [Deep Q Learning with PyTorch](https://dev.to/akshayballal/deep-q-learnig-with-pytorch-5bl1)
-- [Implement a Simple Version Control with JavaScript to Understand Git Better!](https://dev.to/pshaddel/implement-a-simple-version-control-with-javascript-to-understand-git-better-48i6)
+- [Cooking Up Convenience - Symfony Flex&#39;s Recipes and the Drupal Recipes Initiative](https://dev.to/reubenwalker64/cooking-up-convenience-symfony-flexs-recipes-and-the-drupal-recipes-initiative-1k4i)
 <!-- BLOG-POST-LIST:END -->
 
