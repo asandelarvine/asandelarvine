@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SMTP.js – Send Email without a Server from the Browser](https://dev.to/scofieldidehen/smtpjs-send-email-without-a-server-from-the-browser-2oo2)
 - [Vulnerabilities Exposed in LinkedIn&#39;s Voyager API](https://dev.to/scofieldidehen/vulnerabilities-exposed-in-linkedins-voyager-api-73a)
+- [Optimizing Java Memory Management: Preventing &#39;GC Overhead Limit Exceeded&#39; Errors](https://dev.to/jackynote/optimizing-java-memory-management-preventing-gc-overhead-limit-exceeded-errors-4meb)
 - [Solving Sudoku](https://dev.to/prantoran/solving-sudoku-142o)
-- [Reading Docusaurus code](https://dev.to/avelynhc/reading-docusaurus-code-ggm)
-- [Cooking Up Convenience - Symfony Flex&#39;s Recipes and the Drupal Recipes Initiative](https://dev.to/reubenwalker64/cooking-up-convenience-symfony-flexs-recipes-and-the-drupal-recipes-initiative-1k4i)
 <!-- BLOG-POST-LIST:END -->
 
