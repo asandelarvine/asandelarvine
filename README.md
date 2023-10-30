@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry Exporters - Types and Configuration Steps](https://dev.to/signoz/opentelemetry-exporters-types-and-configuration-steps-1g9f)
+- [😳 Next.js vs React - A Beginner&#39;s Guide](https://dev.to/refine/nextjs-vs-react-a-beginners-guide-5607)
+- [Are there any alternatives to OpenTelemetry worth considering?](https://dev.to/signoz/are-there-any-alternatives-to-opentelemetry-worth-considering-4527)
 - [All-Time Favorite Halloween Costume?](https://dev.to/devteam/all-time-favorite-halloween-costume-4gnk)
-- [Effortlessly add new characters to Your keyboard layout](https://dev.to/apetryla/effortlessly-add-new-characters-to-your-keyboard-layout-12l4)
-- [What&#39;s new in NgRx Version 12 of Angular?](https://dev.to/ifourtechnolab/whats-new-in-ngrx-version-12-of-angular-4a3m)
-- [Passwords vs Keys](https://dev.to/aungkohtat/passwords-vs-keys-31dn)
 <!-- BLOG-POST-LIST:END -->
 
