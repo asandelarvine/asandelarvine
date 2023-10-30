@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Passwords vs Keys](https://dev.to/aungkohtat/passwords-vs-keys-31dn)
+- [The Rise of TypeScript: A Strongly Typed JavaScript Superset](https://dev.to/saloman_james/the-rise-of-typescript-a-strongly-typed-javascript-superset-5b27)
+- [Adding a search feature to my app](https://dev.to/paulkim26/adding-a-search-feature-to-my-app-12g4)
 - [SMTP.js – Send Email without a Server from the Browser](https://dev.to/scofieldidehen/smtpjs-send-email-without-a-server-from-the-browser-2oo2)
-- [Vulnerabilities Exposed in LinkedIn&#39;s Voyager API](https://dev.to/scofieldidehen/vulnerabilities-exposed-in-linkedins-voyager-api-73a)
-- [Optimizing Java Memory Management: Preventing &#39;GC Overhead Limit Exceeded&#39; Errors](https://dev.to/jackynote/optimizing-java-memory-management-preventing-gc-overhead-limit-exceeded-errors-4meb)
-- [Solving Sudoku](https://dev.to/prantoran/solving-sudoku-142o)
 <!-- BLOG-POST-LIST:END -->
 
