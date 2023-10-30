@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth 2.0 - What is it?](https://dev.to/shameel/oauth-20-what-is-it-30p5)
+- [Access Amazon Bedrock with CLI, SDK, API Gateway, and AppSync](https://dev.to/aws-heroes/access-amazon-bedrock-with-cli-sdk-api-gateway-and-appsync-1pcj)
+- [🚀Intermediate Ruby: conditionals and loops](https://dev.to/dumebii/intermediate-ruby-conditionals-and-loops-411p)
+- [Making APIs the Right Way with API Platform](https://dev.to/juststevemcd/making-apis-the-right-way-with-api-platform-565p)
 - [Generate P3 Color Variations from RGB Hex Values](https://dev.to/ingosteinke/generate-p3-color-variations-from-rgb-hex-values-3fgo)
-- [Top 10 Terraform Commands](https://dev.to/hasanelsherbiny/top-10-terraform-commands-52j3)
-- [Understanding the Difference Between GPT and LLM: Deciphering AI Language Models](https://dev.to/agarralexx/understanding-the-difference-between-gpt-and-llm-deciphering-ai-language-models-2ga9)
 <!-- BLOG-POST-LIST:END -->
 
