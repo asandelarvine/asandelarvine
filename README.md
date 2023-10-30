@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Exporters - Types and Configuration Steps](https://dev.to/signoz/opentelemetry-exporters-types-and-configuration-steps-1g9f)
-- [😳 Next.js vs React - A Beginner&#39;s Guide](https://dev.to/refine/nextjs-vs-react-a-beginners-guide-5607)
-- [Are there any alternatives to OpenTelemetry worth considering?](https://dev.to/signoz/are-there-any-alternatives-to-opentelemetry-worth-considering-4527)
-- [All-Time Favorite Halloween Costume?](https://dev.to/devteam/all-time-favorite-halloween-costume-4gnk)
+- [What&#39;s New In Docker 2023?](https://dev.to/livecycle/whats-new-in-docker-2023-4omm)
+- [Energize the Multiverse: Unveiling the Mystic Mixed Reality Gateway](https://dev.to/balagmadhu/energize-the-multiverse-unveiling-the-mystic-mixed-reality-gateway-caf)
+- [Power Automate - Top 10 Cool Under Used Expressions](https://dev.to/wyattdave/power-automate-top-10-cool-under-used-expressions-739)
+- [Host a Static website on AWS S3. Configure Amazon CloudFront for content delivery and Route 53 for domain management.](https://dev.to/msfaizi/host-a-static-website-on-aws-s3-configure-amazon-cloudfront-for-content-delivery-and-route-53-for-domain-management-1g60)
 <!-- BLOG-POST-LIST:END -->
 
