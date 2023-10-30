@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New In Docker 2023?](https://dev.to/livecycle/whats-new-in-docker-2023-4omm)
-- [Energize the Multiverse: Unveiling the Mystic Mixed Reality Gateway](https://dev.to/balagmadhu/energize-the-multiverse-unveiling-the-mystic-mixed-reality-gateway-caf)
-- [Power Automate - Top 10 Cool Under Used Expressions](https://dev.to/wyattdave/power-automate-top-10-cool-under-used-expressions-739)
-- [Host a Static website on AWS S3. Configure Amazon CloudFront for content delivery and Route 53 for domain management.](https://dev.to/msfaizi/host-a-static-website-on-aws-s3-configure-amazon-cloudfront-for-content-delivery-and-route-53-for-domain-management-1g60)
+- [OAuth 2.0 - What is it?](https://dev.to/shameel/oauth-20-what-is-it-30p5)
+- [Generate P3 Color Variations from RGB Hex Values](https://dev.to/ingosteinke/generate-p3-color-variations-from-rgb-hex-values-3fgo)
+- [Top 10 Terraform Commands](https://dev.to/hasanelsherbiny/top-10-terraform-commands-52j3)
+- [Understanding the Difference Between GPT and LLM: Deciphering AI Language Models](https://dev.to/agarralexx/understanding-the-difference-between-gpt-and-llm-deciphering-ai-language-models-2ga9)
 <!-- BLOG-POST-LIST:END -->
 
