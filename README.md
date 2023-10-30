@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I Created An Amazing Programming Study Plan with ChatGPT: Here’s how!](https://dev.to/chasetramel/i-created-an-amazing-programming-study-plan-with-chatgpt-heres-how-2jo9)
+- [Exploring Variables in CSS &lpar;custom properties&rpar;](https://dev.to/gideon1999/exploring-variables-in-css-custom-properties-401g)
+- [Transform Digital Identity with AgentChain](https://dev.to/agentchain/transform-digital-identity-with-agentchain-42ep)
 - [TypeScript Generics Demystified: Unlocking the Power of Parametric Polymorphism](https://dev.to/baransel/typescript-generics-demystified-unlocking-the-power-of-parametric-polymorphism-742)
-- [My Hacktoberfest](https://dev.to/jolo/my-hacktoberfest-1o1o)
-- [Introduction to Web Scraping: Fundamentals and Getting Started](https://dev.to/rodneywilham/introduction-to-web-scraping-fundamentals-and-getting-started-27dk)
-- [Delve into CSS Grids and Flexboxes](https://dev.to/ericnanhu/delve-into-css-grids-and-flexboxes-1523)
 <!-- BLOG-POST-LIST:END -->
 
