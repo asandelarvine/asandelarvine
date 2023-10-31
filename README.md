@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [`This` Keyword JavaScript -Simplified!!](https://dev.to/tanmaycode/this-keyword-javascript-simplified-4b3l)
+- [Keep Life Organized With Dashb.io: It changed my morning routine](https://dev.to/ngduc/keep-life-organized-with-dashbio-it-changed-my-morning-routine-2ogb)
+- [Enhancing Engineering Efficiency with Velocity Metrics](https://dev.to/hatica/enhancing-engineering-efficiency-with-velocity-metrics-5hhb)
 - [Redis: The Speedy Magic Behind Your Favorite Apps](https://dev.to/yogini16/redis-the-speedy-magic-behind-your-favorite-apps-2jed)
-- [An efficient way to build your serverless microservices. Part 3. CI/CD with AWS SAM.](https://dev.to/aws-builders/an-efficient-way-to-build-your-serverless-microservices-part-3-cicd-with-aws-sam-1aad)
-- [How to migrate a Mongo Database with Ansible Playbook](https://dev.to/budiantoip/how-to-migrate-a-mongo-database-with-ansible-playbook-2fha)
-- [The Elegance of JS Code: A Comprehensive Guide](https://dev.to/alvisonhunter/the-art-of-writing-clean-concise-and-precise-javascript-with-typescript-220l)
 <!-- BLOG-POST-LIST:END -->
 
