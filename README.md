@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Open Source AI projects to code faster in 2023 🧑‍💻🚀](https://dev.to/llmonitor/7-open-source-ai-projects-to-code-faster-in-2023-2306)
+- [Display your list: v-for 🫨](https://dev.to/dvalin99/display-your-list-v-for-4m8c)
 - [Beware the Creepiest Crawliest Coding Bugs! 👾👾👾](https://dev.to/devteam/beware-the-creepiest-crawliest-coding-bugs-803)
 - [5 Github Repositories To Master Next.js 😎](https://dev.to/todayscode14/5-github-repositories-to-master-nextjs-d5i)
-- [Blockchain for Social Impact](https://dev.to/codingcrafts/blockchain-for-social-impact-3jph)
-- [Unveiling the Top ERC20 Tokens List - Why They Matter?](https://dev.to/braxton/unveiling-the-top-erc20-tokens-list-why-they-matter-1ld2)
 <!-- BLOG-POST-LIST:END -->
 
