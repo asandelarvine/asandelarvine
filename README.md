@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A 3-minute tutorial on how to make a Halloween prank on your colleagues 👻](https://dev.to/juliianikitina/a-3-minute-tutorial-on-how-to-make-a-halloween-prank-on-your-colleagues-1flk)
-- [Why you should migrate to Rspack from webpack](https://dev.to/logrocket/why-you-should-migrate-to-rspack-from-webpack-30da)
-- [What are HTTP headers in a REST API?](https://dev.to/sharmakushal/what-are-http-headers-in-a-rest-api-18c4)
-- [The Toll of Long Hours on Developers’ Health](https://dev.to/scofieldidehen/the-toll-of-long-hours-on-developers-health-2d0)
+- [The developer&#39;s guide to Slack&#39;s Markdown formatting](https://dev.to/knocklabs/the-developers-guide-to-slacks-markdown-formatting-22cl)
+- [🔥 4 formas simples de customizar o Bootstrap](https://dev.to/lixeletto/4-formas-simples-de-customizar-o-bootstrap-4hpm)
+- [Understanding and Implementing Advanced Encryption Standard &lpar;AES&rpar; in Node.js with TypeScript](https://dev.to/ruffiano/understanding-and-implementing-advanced-encryption-standard-aes-in-nodejs-with-typescript-57lh)
+- [Understanding Callback Functions in JavaScript](https://dev.to/joanayebola/understanding-callback-functions-in-javascript-1leh)
 <!-- BLOG-POST-LIST:END -->
 
