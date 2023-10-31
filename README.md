@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The complete guide to WebSockets with React](https://dev.to/ably/the-complete-guide-to-websockets-with-react-5d0m)
-- [🎃🦇 HTMLoween🦇🎃 HTML, CSS and JS that&#39;ll make you scream! 😱](https://dev.to/grahamthedev/htmloween-html-css-and-js-thatll-make-you-scream-2mad)
-- [Quick overview on “How to write scalable code?”](https://dev.to/mukeshkuiry/quick-overview-on-how-to-write-scalable-code-dc3)
-- [Happy Halloween 🎃](https://dev.to/ben/happy-halloween-4g62)
+- [RabbitMQ Monitoring | Key Metrics &amp; In-Built RabbitMQ Monitoring Tools](https://dev.to/signoz/rabbitmq-monitoring-key-metrics-in-built-rabbitmq-monitoring-tools-57g8)
+- [Database GitOps with Bytebase for MySQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-mysql-45b3)
+- [Dummy Variable Trap in Machine Learning](https://dev.to/jagroop2001/dummy-variable-trap-in-machine-learning-1ah2)
+- [Database GitOps with Bytebase for PostgreSQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-postgresql-104h)
 <!-- BLOG-POST-LIST:END -->
 
