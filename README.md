@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [`This` Keyword JavaScript -Simplified!!](https://dev.to/tanmaycode/this-keyword-javascript-simplified-4b3l)
-- [Keep Life Organized With Dashb.io: It changed my morning routine](https://dev.to/ngduc/keep-life-organized-with-dashbio-it-changed-my-morning-routine-2ogb)
-- [Enhancing Engineering Efficiency with Velocity Metrics](https://dev.to/hatica/enhancing-engineering-efficiency-with-velocity-metrics-5hhb)
-- [Redis: The Speedy Magic Behind Your Favorite Apps](https://dev.to/yogini16/redis-the-speedy-magic-behind-your-favorite-apps-2jed)
+- [Beware the Creepiest Crawliest Coding Bugs! 👾👾👾](https://dev.to/devteam/beware-the-creepiest-crawliest-coding-bugs-803)
+- [5 Github Repositories To Master Next.js 😎](https://dev.to/todayscode14/5-github-repositories-to-master-nextjs-d5i)
+- [Blockchain for Social Impact](https://dev.to/codingcrafts/blockchain-for-social-impact-3jph)
+- [Unveiling the Top ERC20 Tokens List - Why They Matter?](https://dev.to/braxton/unveiling-the-top-erc20-tokens-list-why-they-matter-1ld2)
 <!-- BLOG-POST-LIST:END -->
 
