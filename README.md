@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Halloween Horror Story - The Missing CTA](https://dev.to/wraith/a-halloween-horror-story-the-missing-cta-58i0)
-- [JSON is Slower. Here Are Its 4 Faster Alternatives](https://dev.to/nikl/json-is-slower-here-are-its-4-faster-alternatives-2g30)
-- [RabbitMQ Monitoring | Key Metrics &amp; In-Built RabbitMQ Monitoring Tools](https://dev.to/signoz/rabbitmq-monitoring-key-metrics-in-built-rabbitmq-monitoring-tools-57g8)
-- [Javascript em 6 meses do zero é possível?](https://dev.to/devdoido/javascript-em-6-meses-do-zero-e-possivel-ded)
+- [The Power of Content Marketing: Strategies for Success](https://dev.to/tejasree1768/the-power-of-content-marketing-strategies-for-success-4jh2)
+- [Featured Mod of the Month: Elizabeth Mattijsen](https://dev.to/devteam/featured-mod-of-the-month-elizabeth-mattijsen-3gfe)
+- [I Fixed Trello](https://dev.to/this-is-learning/i-fixed-trello-41l8)
+- [VueJS part 10: Passing data to the components](https://dev.to/hi_iam_chris/vuejs-part-10-passing-data-to-the-components-3ehg)
 <!-- BLOG-POST-LIST:END -->
 
