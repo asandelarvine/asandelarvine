@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Toll of Long Hours on Developers’ Health](https://dev.to/scofieldidehen/the-toll-of-long-hours-on-developers-health-2d0)
+- [How to create a dropdown menu with HTML and CSS](https://dev.to/luwadev/how-to-create-a-dropdown-menu-with-html-and-css-20b2)
+- [Made an .io game in 10 days✈️](https://dev.to/lilshake/made-an-io-game-in-10-days-48fi)
 - [The Power of Content Marketing: Strategies for Success](https://dev.to/tejasree1768/the-power-of-content-marketing-strategies-for-success-4jh2)
-- [Featured Mod of the Month: Elizabeth Mattijsen](https://dev.to/devteam/featured-mod-of-the-month-elizabeth-mattijsen-3gfe)
-- [I Fixed Trello](https://dev.to/this-is-learning/i-fixed-trello-41l8)
-- [VueJS part 10: Passing data to the components](https://dev.to/hi_iam_chris/vuejs-part-10-passing-data-to-the-components-3ehg)
 <!-- BLOG-POST-LIST:END -->
 
