@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ com Java e Spring : Começando &lpar;pt. 1&rpar;](https://dev.to/kauegatto/rabbitmq-com-java-e-spring-comecando-pt-1-265f)
 - [Dark Mode Toggle in React](https://dev.to/kartikbudhraja/dark-mode-toggle-in-react-2b7h)
+- [python Screenshot for linux using Xlib](https://dev.to/ur4n0235/python-screenshot-for-linux-using-xlib-1md8)
 - [Data Loss, Replication and Disaster Recovery on AWS](https://dev.to/aws-builders/data-loss-replication-and-disaster-recovery-on-aws-2l2p)
-- [The developer&#39;s guide to Slack&#39;s Markdown formatting](https://dev.to/knocklabs/the-developers-guide-to-slacks-markdown-formatting-22cl)
-- [🔥 4 formas simples de customizar o Bootstrap](https://dev.to/lixeletto/4-formas-simples-de-customizar-o-bootstrap-4hpm)
 <!-- BLOG-POST-LIST:END -->
 
