@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Open Source AI projects to code faster in 2023 🧑‍💻🚀](https://dev.to/llmonitor/7-open-source-ai-projects-to-code-faster-in-2023-2306)
-- [Display your list: v-for 🫨](https://dev.to/dvalin99/display-your-list-v-for-4m8c)
-- [Beware the Creepiest Crawliest Coding Bugs! 👾👾👾](https://dev.to/devteam/beware-the-creepiest-crawliest-coding-bugs-803)
-- [5 Github Repositories To Master Next.js 😎](https://dev.to/todayscode14/5-github-repositories-to-master-nextjs-d5i)
+- [Create a Stacking Cards Waterfall Effect with Tailwind and Alpine.js](https://dev.to/cruip_com/create-a-stacking-cards-waterfall-effect-with-tailwind-and-alpinejs-1chh)
+- [My Journey to SC-400 Certification Success](https://dev.to/jaloplo/my-journey-to-sc-400-certification-success-2g19)
+- [💻 Free Tailwind and Nuxt.js/Next.js job board code starter](https://dev.to/momciloo/free-tailwind-and-nuxtjsnextjs-job-board-code-starter-c0p)
+- [New Angular 17 feature: new control flow syntax](https://dev.to/this-is-angular/new-angular-17-feature-new-control-flow-syntax-23j3)
 <!-- BLOG-POST-LIST:END -->
 
