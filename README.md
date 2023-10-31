@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Logs de Aplicações: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-motivacoes-e-melhores-praticas-de-utilizacao-agi)
+- [CSS and Responsive Design](https://dev.to/ericnanhu/css-and-responsive-design-4b7m)
+- [Placeholder Maintainer](https://dev.to/rihamnazeer/placeholder-maintainer-4mo9)
 - [Hacktoberfest Week 4 PR](https://dev.to/katiel/hacktoberfest-week-4-pr-15dm)
-- [Array-like Objects in JavaScript: A Deep Dive](https://dev.to/rasaf_ibrahim/array-like-objects-in-javascript-a-deep-dive-469b)
-- [Placeholder Contributor](https://dev.to/rihamnazeer/placeholder-contributor-5g22)
-- [Learning from over-engineering](https://dev.to/ericcheatham/learning-from-over-engineering-2dgh)
 <!-- BLOG-POST-LIST:END -->
 
