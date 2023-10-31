@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A 3-minute tutorial on how to make a Halloween prank on your colleagues 👻](https://dev.to/juliianikitina/a-3-minute-tutorial-on-how-to-make-a-halloween-prank-on-your-colleagues-1flk)
+- [Why you should migrate to Rspack from webpack](https://dev.to/logrocket/why-you-should-migrate-to-rspack-from-webpack-30da)
+- [What are HTTP headers in a REST API?](https://dev.to/sharmakushal/what-are-http-headers-in-a-rest-api-18c4)
 - [The Toll of Long Hours on Developers’ Health](https://dev.to/scofieldidehen/the-toll-of-long-hours-on-developers-health-2d0)
-- [How to create a dropdown menu with HTML and CSS](https://dev.to/luwadev/how-to-create-a-dropdown-menu-with-html-and-css-20b2)
-- [Made an .io game in 10 days✈️](https://dev.to/lilshake/made-an-io-game-in-10-days-48fi)
-- [The Power of Content Marketing: Strategies for Success](https://dev.to/tejasree1768/the-power-of-content-marketing-strategies-for-success-4jh2)
 <!-- BLOG-POST-LIST:END -->
 
