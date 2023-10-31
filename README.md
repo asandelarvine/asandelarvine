@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Mode Toggle in React](https://dev.to/kartikbudhraja/dark-mode-toggle-in-react-2b7h)
+- [Data Loss, Replication and Disaster Recovery on AWS](https://dev.to/aws-builders/data-loss-replication-and-disaster-recovery-on-aws-2l2p)
 - [The developer&#39;s guide to Slack&#39;s Markdown formatting](https://dev.to/knocklabs/the-developers-guide-to-slacks-markdown-formatting-22cl)
 - [🔥 4 formas simples de customizar o Bootstrap](https://dev.to/lixeletto/4-formas-simples-de-customizar-o-bootstrap-4hpm)
-- [Understanding and Implementing Advanced Encryption Standard &lpar;AES&rpar; in Node.js with TypeScript](https://dev.to/ruffiano/understanding-and-implementing-advanced-encryption-standard-aes-in-nodejs-with-typescript-57lh)
-- [Understanding Callback Functions in JavaScript](https://dev.to/joanayebola/understanding-callback-functions-in-javascript-1leh)
 <!-- BLOG-POST-LIST:END -->
 
