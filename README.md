@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Networking Overview](https://dev.to/imaculate7/aws-networking-overview-3go0)
+- [Afraid of getting stuck? Vendor lock-in is in the small details 🔐](https://dev.to/keephq/afraid-of-getting-stuck-vendor-lock-in-is-in-the-small-details-9fg)
 - [Create a Stacking Cards Waterfall Effect with Tailwind and Alpine.js](https://dev.to/cruip_com/create-a-stacking-cards-waterfall-effect-with-tailwind-and-alpinejs-1chh)
 - [My Journey to SC-400 Certification Success](https://dev.to/jaloplo/my-journey-to-sc-400-certification-success-2g19)
-- [💻 Free Tailwind and Nuxt.js/Next.js job board code starter](https://dev.to/momciloo/free-tailwind-and-nuxtjsnextjs-job-board-code-starter-c0p)
-- [New Angular 17 feature: new control flow syntax](https://dev.to/this-is-angular/new-angular-17-feature-new-control-flow-syntax-23j3)
 <!-- BLOG-POST-LIST:END -->
 
