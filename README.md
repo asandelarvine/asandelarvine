@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [StackOverflow suck and full of idiots](https://dev.to/villelmo/stackoverflow-suck-and-full-of-idiots-2mhi)
-- [Destrancando o Docker: Garantindo que seu aplicativo espere pelo banco de dados com Dockerize](https://dev.to/rntvicente/destrancando-o-docker-garantindo-que-seu-aplicativo-espere-pelo-banco-de-dados-com-dockerize-hp1)
-- [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
-- [Como tratar erros http no Spring Boot](https://dev.to/m1guelsb/como-tratar-erros-http-no-spring-boot-41de)
+- [Deep-dive into Vegeta - HTTP load testing tool and library](https://dev.to/qainsights/deep-dive-into-vegeta-http-load-testing-tool-and-library-10li)
+- [[Relato] Os testes atrasaram meu projeto /s](https://dev.to/hugaomarques/relato-os-testes-atrasaram-meu-projeto-s-3lgb)
+- [All about vector quantization](https://dev.to/neuml/all-about-vector-quantization-1ej)
+- [Understanding APIs](https://dev.to/danielwambo/understanding-apis-2j3m)
 <!-- BLOG-POST-LIST:END -->
 
