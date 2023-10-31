@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Halloween Horror Story - The Missing CTA](https://dev.to/wraith/a-halloween-horror-story-the-missing-cta-58i0)
+- [JSON is Slower. Here Are Its 4 Faster Alternatives](https://dev.to/nikl/json-is-slower-here-are-its-4-faster-alternatives-2g30)
 - [RabbitMQ Monitoring | Key Metrics &amp; In-Built RabbitMQ Monitoring Tools](https://dev.to/signoz/rabbitmq-monitoring-key-metrics-in-built-rabbitmq-monitoring-tools-57g8)
-- [Database GitOps with Bytebase for MySQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-mysql-45b3)
-- [Dummy Variable Trap in Machine Learning](https://dev.to/jagroop2001/dummy-variable-trap-in-machine-learning-1ah2)
-- [Database GitOps with Bytebase for PostgreSQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-postgresql-104h)
+- [Javascript em 6 meses do zero é possível?](https://dev.to/devdoido/javascript-em-6-meses-do-zero-e-possivel-ded)
 <!-- BLOG-POST-LIST:END -->
 
