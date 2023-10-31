@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AluraFlix - Clase 03](https://dev.to/zulyjazmin/aluraflix-clase-03-2n6i)
 - [Deep-dive into Vegeta - HTTP load testing tool and library](https://dev.to/qainsights/deep-dive-into-vegeta-http-load-testing-tool-and-library-10li)
 - [[Relato] Os testes atrasaram meu projeto /s](https://dev.to/hugaomarques/relato-os-testes-atrasaram-meu-projeto-s-3lgb)
 - [All about vector quantization](https://dev.to/neuml/all-about-vector-quantization-1ej)
-- [Understanding APIs](https://dev.to/danielwambo/understanding-apis-2j3m)
 <!-- BLOG-POST-LIST:END -->
 
