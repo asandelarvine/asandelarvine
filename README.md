@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RabbitMQ com Java e Spring : Começando &lpar;pt. 1&rpar;](https://dev.to/kauegatto/rabbitmq-com-java-e-spring-comecando-pt-1-265f)
-- [Dark Mode Toggle in React](https://dev.to/kartikbudhraja/dark-mode-toggle-in-react-2b7h)
-- [python Screenshot for linux using Xlib](https://dev.to/ur4n0235/python-screenshot-for-linux-using-xlib-1md8)
-- [Data Loss, Replication and Disaster Recovery on AWS](https://dev.to/aws-builders/data-loss-replication-and-disaster-recovery-on-aws-2l2p)
+- [Hacktoberfest Week 4 PR](https://dev.to/katiel/hacktoberfest-week-4-pr-15dm)
+- [Array-like Objects in JavaScript: A Deep Dive](https://dev.to/rasaf_ibrahim/array-like-objects-in-javascript-a-deep-dive-469b)
+- [Placeholder Contributor](https://dev.to/rihamnazeer/placeholder-contributor-5g22)
+- [Learning from over-engineering](https://dev.to/ericcheatham/learning-from-over-engineering-2dgh)
 <!-- BLOG-POST-LIST:END -->
 
