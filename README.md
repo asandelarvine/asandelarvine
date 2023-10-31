@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis: The Speedy Magic Behind Your Favorite Apps](https://dev.to/yogini16/redis-the-speedy-magic-behind-your-favorite-apps-2jed)
+- [An efficient way to build your serverless microservices. Part 3. CI/CD with AWS SAM.](https://dev.to/aws-builders/an-efficient-way-to-build-your-serverless-microservices-part-3-cicd-with-aws-sam-1aad)
 - [How to migrate a Mongo Database with Ansible Playbook](https://dev.to/budiantoip/how-to-migrate-a-mongo-database-with-ansible-playbook-2fha)
-- [The art of conditional rendering: Tips and tricks for React and Next.js developers](https://dev.to/snyk/the-art-of-conditional-rendering-tips-and-tricks-for-react-and-nextjs-developers-mhe)
-- [AluraFlix - Clase 03](https://dev.to/zulyjazmin/aluraflix-clase-03-2n6i)
-- [Deep-dive into Vegeta - HTTP load testing tool and library](https://dev.to/qainsights/deep-dive-into-vegeta-http-load-testing-tool-and-library-10li)
+- [The Elegance of JS Code: A Comprehensive Guide](https://dev.to/alvisonhunter/the-art-of-writing-clean-concise-and-precise-javascript-with-typescript-220l)
 <!-- BLOG-POST-LIST:END -->
 
