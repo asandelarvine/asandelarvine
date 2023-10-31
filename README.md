@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Networking Overview](https://dev.to/imaculate7/aws-networking-overview-3go0)
-- [Afraid of getting stuck? Vendor lock-in is in the small details 🔐](https://dev.to/keephq/afraid-of-getting-stuck-vendor-lock-in-is-in-the-small-details-9fg)
-- [Create a Stacking Cards Waterfall Effect with Tailwind and Alpine.js](https://dev.to/cruip_com/create-a-stacking-cards-waterfall-effect-with-tailwind-and-alpinejs-1chh)
-- [My Journey to SC-400 Certification Success](https://dev.to/jaloplo/my-journey-to-sc-400-certification-success-2g19)
+- [The complete guide to WebSockets with React](https://dev.to/ably/the-complete-guide-to-websockets-with-react-5d0m)
+- [🎃🦇 HTMLoween🦇🎃 HTML, CSS and JS that&#39;ll make you scream! 😱](https://dev.to/grahamthedev/htmloween-html-css-and-js-thatll-make-you-scream-2mad)
+- [Quick overview on “How to write scalable code?”](https://dev.to/mukeshkuiry/quick-overview-on-how-to-write-scalable-code-dc3)
+- [Happy Halloween 🎃](https://dev.to/ben/happy-halloween-4g62)
 <!-- BLOG-POST-LIST:END -->
 
