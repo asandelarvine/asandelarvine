@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Logs de Aplicações: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-motivacoes-e-melhores-praticas-de-utilizacao-agi)
 - [CSS and Responsive Design](https://dev.to/ericnanhu/css-and-responsive-design-4b7m)
 - [Placeholder Maintainer](https://dev.to/rihamnazeer/placeholder-maintainer-4mo9)
-- [Hacktoberfest Week 4 PR](https://dev.to/katiel/hacktoberfest-week-4-pr-15dm)
+- [Setup User Auth for your Reflex Python app using supabase &lpar;supabase-py&rpar;](https://dev.to/emmakodes_/setup-user-auth-for-your-reflex-python-app-using-supabase-supabase-py-49jb)
 <!-- BLOG-POST-LIST:END -->
 
