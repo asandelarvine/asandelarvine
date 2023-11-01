@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Email Functionality with Node.js, React.js, Nodemailer, and OAuth2 in 2023](https://dev.to/scofieldidehen/advanced-email-functionality-with-nodejs-reactjs-nodemailer-and-oauth2-in-2023-134o)
 - [How to get custom sounds for Unity Games?](https://dev.to/woodendoors7/how-to-get-custom-sounds-for-unity-games-31pm)
-- [Architecting for Resilience: Crafting Opinionated EKS Clusters with Karpenter &amp; Cilium Cluster Mesh — Part 1](https://dev.to/aws-builders/architecting-for-resilience-crafting-opinionated-eks-clusters-with-karpenter-cilium-cluster-mesh-part-1-1b9a)
-- [Azure Automated Onboarding Project](https://dev.to/bmeinert8/azure-automated-onboarding-project-2jj4)
-- [Logs de Aplicações: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-motivacoes-e-melhores-praticas-de-utilizacao-agi)
+- [Is Your Code Running Slow? The Impact of Neglecting Function Memoization](https://dev.to/jaimaldullat/is-your-code-running-slow-the-impact-of-neglecting-function-memoization-2lmd)
+- [Top 7 Javascript Web Scraping Libraries in 2023](https://dev.to/serpapi/top-7-javascript-web-scraping-libraries-in-2023-4he)
 <!-- BLOG-POST-LIST:END -->
 
