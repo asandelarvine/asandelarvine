@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The state of HTML](https://dev.to/robole/the-state-of-html-57ek)
+- [Data Modeling](https://dev.to/k_ndrick/data-modeling-1bk5)
+- [Type-Safe Infrastructure: Pioneering Simplicity and Stability](https://dev.to/encore/type-safe-infrastructure-pioneering-simplicity-and-stability-4fej)
 - [Welcome Thread - v249](https://dev.to/devteam/welcome-thread-v249-2jj2)
-- [Doing 23 micro launches instead of just 1 platform](https://dev.to/ako61142833/doing-23-micro-launches-instead-of-just-1-platform-1hn8)
-- [How to Build Chatbots with Amazon Bedrock &amp; LangChain](https://dev.to/aws-builders/how-to-build-chatbots-with-amazon-bedrock-langchain-517a)
-- [Gear Up for a Tech-tastic End of the Year! 🚀🌟](https://dev.to/mitchiemt11/gear-up-for-a-tech-tastic-end-of-the-year-16cn)
 <!-- BLOG-POST-LIST:END -->
 
