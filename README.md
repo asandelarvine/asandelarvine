@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 ways to catch all the events going through the EventBridge Event Bus](https://dev.to/aws-builders/3-ways-to-catch-all-the-events-going-through-the-eventbridge-event-bus-aja)
-- [&quot;Make Your Accomplishments Visible&quot;: CodeNewbie Podcast S26E1](https://dev.to/codenewbieteam/make-your-accomplishments-visible-codenewbie-podcast-s26e1-142h)
-- [# The Imperative of Open-Source Alignment in Today’s Digital Era](https://dev.to/nikitakoselev/-the-imperative-of-open-source-alignment-in-todays-digital-era-22bl)
-- [Taming the HTML dialog with React and TailwindCSS](https://dev.to/fibonacid/taming-the-html-dialog-with-react-and-tailwindcss-5hec)
+- [Master Helm, Chart the Kubernetes Seas 🌊🧭🏴‍☠️](https://dev.to/dpills/master-helm-chart-the-kubernetes-seas-508c)
+- [Step-by-Step: Building a GPT-Enhanced Twitter Bot with WordPress and Convoworks](https://dev.to/tolecar/step-by-step-building-a-gpt-enhanced-twitter-bot-with-wordpress-and-convoworks-2bdo)
+- [Kotlin Multiplatform is now stable – What&#39;s the Impact?](https://dev.to/y9vad9/kotlin-multiplatform-is-now-stable-whats-the-impact-4f18)
+- [Embracing Key Communication Trends?](https://dev.to/devteam/embracing-key-communication-trends-249p)
 <!-- BLOG-POST-LIST:END -->
 
