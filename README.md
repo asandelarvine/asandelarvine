@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🤓 Signal&lpar; &rpar; are most underrated in React.js](https://dev.to/todayscode14/signal-are-most-underrated-in-reactjs-16dg)
+- [Building a Lazy Loader from Scratch in React &lpar;Part 2&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-2-51cn)
+- [The Cloud Resume Challenge: Conquering the Cloud](https://dev.to/waseq225/the-cloud-resume-challenge-conquering-the-cloud-31oe)
 - [Is copying from open source projects stealing?](https://dev.to/rjwignar/are-you-stealing-from-other-projects-4f0n)
-- [อย่าเพิ่งใช้ fiber ถ้ายังไม่ได้อ่าน doc](https://dev.to/pallat/yaaephingaich-fiber-thaayangaimaidaan-doc-2gnh)
-- [Making the image element of the docs](https://dev.to/raman04byte/making-the-image-element-of-the-docs-1g54)
-- [Lets talk a little about OAuth in Android 12](https://dev.to/theplebdev/lets-talk-a-little-about-oauth-in-android-12-217d)
 <!-- BLOG-POST-LIST:END -->
 
