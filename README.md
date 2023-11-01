@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 ways to catch all the events going through the EventBridge Event Bus](https://dev.to/aws-builders/3-ways-to-catch-all-the-events-going-through-the-eventbridge-event-bus-aja)
 - [&quot;Make Your Accomplishments Visible&quot;: CodeNewbie Podcast S26E1](https://dev.to/codenewbieteam/make-your-accomplishments-visible-codenewbie-podcast-s26e1-142h)
 - [# The Imperative of Open-Source Alignment in Today’s Digital Era](https://dev.to/nikitakoselev/-the-imperative-of-open-source-alignment-in-todays-digital-era-22bl)
 - [Taming the HTML dialog with React and TailwindCSS](https://dev.to/fibonacid/taming-the-html-dialog-with-react-and-tailwindcss-5hec)
-- [Cannot use a custom SSH port in Ubuntu 22.10 or above? Here&#39;s a fix](https://dev.to/sneh27/cannot-use-a-custom-ssh-port-in-ubuntu-2210-or-above-heres-a-fix-2nhk)
 <!-- BLOG-POST-LIST:END -->
 
