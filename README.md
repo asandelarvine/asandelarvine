@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer relations: the secret for a thriving open-source project](https://dev.to/opensourcee/developer-relations-the-secret-for-a-thriving-open-source-project-20bi)
+- [Concept Drift em Aprendizado de Máquina - Uma Introdução](https://dev.to/nobrelucas/concept-drift-em-aprendizado-de-maquina-uma-introducao-46pf)
 - [AI supported jump recognition and analysis](https://dev.to/abtosoftware/ai-supported-jump-recognition-and-analysis-2eo2)
-- [24 Best Resources 🎨 For Web Developers 💻 [HTML + CSS + JavaScript] 😱](https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog)
-- [Data Engineering for Beginners: A Step-by-Step Guide.](https://dev.to/theai433/data-engineering-for-beginners-a-step-by-step-guide-50ib)
-- [Simple Screen Recorder in 20 lines of JavaScript](https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina)
+- [What&#39;s New in Node.js 21](https://dev.to/appsignal/whats-new-in-nodejs-21-137b)
 <!-- BLOG-POST-LIST:END -->
 
