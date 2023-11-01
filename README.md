@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get custom sounds for Unity Games?](https://dev.to/woodendoors7/how-to-get-custom-sounds-for-unity-games-31pm)
+- [Architecting for Resilience: Crafting Opinionated EKS Clusters with Karpenter &amp; Cilium Cluster Mesh — Part 1](https://dev.to/aws-builders/architecting-for-resilience-crafting-opinionated-eks-clusters-with-karpenter-cilium-cluster-mesh-part-1-1b9a)
+- [Azure Automated Onboarding Project](https://dev.to/bmeinert8/azure-automated-onboarding-project-2jj4)
 - [Logs de Aplicações: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-motivacoes-e-melhores-praticas-de-utilizacao-agi)
-- [CSS and Responsive Design](https://dev.to/ericnanhu/css-and-responsive-design-4b7m)
-- [Placeholder Maintainer](https://dev.to/rihamnazeer/placeholder-maintainer-4mo9)
-- [Setup User Auth for your Reflex Python app using supabase &lpar;supabase-py&rpar;](https://dev.to/emmakodes_/setup-user-auth-for-your-reflex-python-app-using-supabase-supabase-py-49jb)
 <!-- BLOG-POST-LIST:END -->
 
