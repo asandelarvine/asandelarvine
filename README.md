@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Doing 23 micro launches instead of just 1 platform](https://dev.to/ako61142833/doing-23-micro-launches-instead-of-just-1-platform-1hn8)
+- [How to Build Chatbots with Amazon Bedrock &amp; LangChain](https://dev.to/aws-builders/how-to-build-chatbots-with-amazon-bedrock-langchain-517a)
 - [Gear Up for a Tech-tastic End of the Year! 🚀🌟](https://dev.to/mitchiemt11/gear-up-for-a-tech-tastic-end-of-the-year-16cn)
 - [Debouncing and Throttling in JS](https://dev.to/tanmaycode/debouncing-and-throttling-in-js-36f6)
-- [Fine Grained Authorization in OutSystems with Amazon Verified Permissions](https://dev.to/aws-builders/fine-grained-authorization-in-outsystems-with-amazon-verified-permissions-2gaf)
-- [Docker and Kubernetes From Localhost To Production: Containers; The what, why, and How](https://dev.to/ngfizzy/containers-the-what-why-and-how-391n)
 <!-- BLOG-POST-LIST:END -->
 
