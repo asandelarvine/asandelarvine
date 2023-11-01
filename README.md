@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Gear Up for a Tech-tastic End of the Year! 🚀🌟](https://dev.to/mitchiemt11/gear-up-for-a-tech-tastic-end-of-the-year-16cn)
 - [Debouncing and Throttling in JS](https://dev.to/tanmaycode/debouncing-and-throttling-in-js-36f6)
 - [Fine Grained Authorization in OutSystems with Amazon Verified Permissions](https://dev.to/aws-builders/fine-grained-authorization-in-outsystems-with-amazon-verified-permissions-2gaf)
-- [🤓 Signal&lpar; &rpar; are most underrated in React.js](https://dev.to/todayscode14/signal-are-most-underrated-in-reactjs-16dg)
-- [Building a Lazy Loader from Scratch in React &lpar;Part 2&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-2-51cn)
+- [Docker and Kubernetes From Localhost To Production: Containers; The what, why, and How](https://dev.to/ngfizzy/containers-the-what-why-and-how-391n)
 <!-- BLOG-POST-LIST:END -->
 
