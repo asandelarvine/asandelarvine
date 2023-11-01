@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer relations: the secret for a thriving open-source project](https://dev.to/opensourcee/developer-relations-the-secret-for-a-thriving-open-source-project-20bi)
-- [Concept Drift em Aprendizado de Máquina - Uma Introdução](https://dev.to/nobrelucas/concept-drift-em-aprendizado-de-maquina-uma-introducao-46pf)
-- [AI supported jump recognition and analysis](https://dev.to/abtosoftware/ai-supported-jump-recognition-and-analysis-2eo2)
-- [What&#39;s New in Node.js 21](https://dev.to/appsignal/whats-new-in-nodejs-21-137b)
+- [🤣 Revolutionize Your Web Development with EJS: Creating Dynamic and Personalized Web Content Made Easy! 👩‍💻](https://dev.to/fonyuygita/revolutionize-your-web-development-with-ejs-creating-dynamic-and-personalized-web-content-made-easy-i94)
+- [Implementing Role-Based Access Control in Django](https://dev.to/permify/implementing-role-based-access-control-in-django-nob)
+- [Hacktoberfest Results!](https://dev.to/rollczi/hacktoberfest-results-1f77)
+- [17 common Node.js errors and how to solve them](https://dev.to/logrocket/17-common-nodejs-errors-and-how-to-solve-them-8g1)
 <!-- BLOG-POST-LIST:END -->
 
