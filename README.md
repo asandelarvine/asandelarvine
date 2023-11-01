@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Hacktoberfest Journey: Exploring Open Source Contributions](https://dev.to/luciakirami/my-first-hacktoberfest-journey-exploring-open-source-contributions-58jm)
-- [Flutter vs Electron: What’s the Difference? &lpar;Comparison Guide 2023&rpar;](https://dev.to/get_pieces/flutter-vs-electron-whats-the-difference-comparison-guide-2023-3kak)
-- [🏆 The top 3 repos from hacktoberfest you CANNOT ignore 🚀](https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb)
-- [What do you guys think about AI-made coding?](https://dev.to/emilio-asher-and-kaylee/what-do-you-guys-think-about-ai-made-coding-3a24)
+- [Overcoming Imposter Syndrome](https://dev.to/jonnyray/overcoming-imposter-syndrome-21o8)
+- [Is It Possible To Become a Programmer in 3 Months?](https://dev.to/scofieldidehen/is-it-possible-to-become-a-programmer-in-3-months-405h)
+- [🚀 How I built AI pictures generator in a GitHub logo style 😻 and got featured in GitHub&#39;s Twitter and Instagram 🤯](https://dev.to/garrrikkotua/how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226)
+- [My 5 favorite CSS authors that you should follow](https://dev.to/melnik909/my-5-favorite-css-authors-that-you-should-follow-3l24)
 <!-- BLOG-POST-LIST:END -->
 
