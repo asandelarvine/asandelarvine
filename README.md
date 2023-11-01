@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom API Endpoints](https://dev.to/neuml/custom-api-endpoints-2fl6)
+- [RoadSense : A Realtime Accident Predicting System](https://dev.to/ayush10/roadsense-a-realtime-accident-predicting-system-2k3p)
 - [Overcoming Imposter Syndrome](https://dev.to/jonnyray/overcoming-imposter-syndrome-21o8)
 - [Is It Possible To Become a Programmer in 3 Months?](https://dev.to/scofieldidehen/is-it-possible-to-become-a-programmer-in-3-months-405h)
-- [🚀 How I built AI pictures generator in a GitHub logo style 😻 and got featured in GitHub&#39;s Twitter and Instagram 🤯](https://dev.to/garrrikkotua/how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226)
-- [My 5 favorite CSS authors that you should follow](https://dev.to/melnik909/my-5-favorite-css-authors-that-you-should-follow-3l24)
 <!-- BLOG-POST-LIST:END -->
 
