@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The state of HTML](https://dev.to/robole/the-state-of-html-57ek)
-- [Data Modeling](https://dev.to/k_ndrick/data-modeling-1bk5)
-- [Type-Safe Infrastructure: Pioneering Simplicity and Stability](https://dev.to/encore/type-safe-infrastructure-pioneering-simplicity-and-stability-4fej)
-- [Welcome Thread - v249](https://dev.to/devteam/welcome-thread-v249-2jj2)
+- [24 Best Resources 🎨 For Web Developers 💻 [HTML + CSS + JavaScript ] 😱](https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog)
+- [Data Engineering for Beginners: A Step-by-Step Guide.](https://dev.to/theai433/data-engineering-for-beginners-a-step-by-step-guide-50ib)
+- [Simple Screen Recorder in 20 lines of JavaScript](https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina)
+- [🔥 Big update: the Gowebly CLI now supports Templ](https://dev.to/koddr/big-update-the-gowebly-cli-now-supports-templ-3gog)
 <!-- BLOG-POST-LIST:END -->
 
