@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤣 Revolutionize Your Web Development with EJS: Creating Dynamic and Personalized Web Content Made Easy! 👩‍💻](https://dev.to/fonyuygita/revolutionize-your-web-development-with-ejs-creating-dynamic-and-personalized-web-content-made-easy-i94)
-- [Implementing Role-Based Access Control in Django](https://dev.to/permify/implementing-role-based-access-control-in-django-nob)
-- [Hacktoberfest Results!](https://dev.to/rollczi/hacktoberfest-results-1f77)
-- [17 common Node.js errors and how to solve them](https://dev.to/logrocket/17-common-nodejs-errors-and-how-to-solve-them-8g1)
+- [My First Hacktoberfest Journey: Exploring Open Source Contributions](https://dev.to/luciakirami/my-first-hacktoberfest-journey-exploring-open-source-contributions-58jm)
+- [Flutter vs Electron: What’s the Difference? &lpar;Comparison Guide 2023&rpar;](https://dev.to/get_pieces/flutter-vs-electron-whats-the-difference-comparison-guide-2023-3kak)
+- [🏆 The top 3 repos from hacktoberfest you CANNOT ignore 🚀](https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb)
+- [What do you guys think about AI-made coding?](https://dev.to/emilio-asher-and-kaylee/what-do-you-guys-think-about-ai-made-coding-3a24)
 <!-- BLOG-POST-LIST:END -->
 
