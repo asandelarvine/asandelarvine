@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [อย่าเพิ่งใช้ fiber ถ้ายังไม่ได้อ่าน doc](https://dev.to/pallat/yaaephingaich-fiber-thaayangaimaidaan-doc-2gnh)
 - [Making the image element of the docs](https://dev.to/raman04byte/making-the-image-element-of-the-docs-1g54)
+- [Lets talk a little about OAuth in Android 12](https://dev.to/theplebdev/lets-talk-a-little-about-oauth-in-android-12-217d)
 - [Advanced Email Functionality with Node.js, React.js, Nodemailer, and OAuth2 in 2023](https://dev.to/scofieldidehen/advanced-email-functionality-with-nodejs-reactjs-nodemailer-and-oauth2-in-2023-134o)
-- [How to get custom sounds for Unity Games?](https://dev.to/woodendoors7/how-to-get-custom-sounds-for-unity-games-31pm)
-- [Is Your Code Running Slow? The Impact of Neglecting Function Memoization](https://dev.to/jaimaldullat/is-your-code-running-slow-the-impact-of-neglecting-function-memoization-2lmd)
 <!-- BLOG-POST-LIST:END -->
 
