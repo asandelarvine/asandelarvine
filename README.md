@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom API Endpoints](https://dev.to/neuml/custom-api-endpoints-2fl6)
-- [RoadSense : A Realtime Accident Predicting System](https://dev.to/ayush10/roadsense-a-realtime-accident-predicting-system-2k3p)
-- [Overcoming Imposter Syndrome](https://dev.to/jonnyray/overcoming-imposter-syndrome-21o8)
-- [Is It Possible To Become a Programmer in 3 Months?](https://dev.to/scofieldidehen/is-it-possible-to-become-a-programmer-in-3-months-405h)
+- [&quot;Make Your Accomplishments Visible&quot;: CodeNewbie Podcast S26E1](https://dev.to/codenewbieteam/make-your-accomplishments-visible-codenewbie-podcast-s26e1-142h)
+- [# The Imperative of Open-Source Alignment in Today’s Digital Era](https://dev.to/nikitakoselev/-the-imperative-of-open-source-alignment-in-todays-digital-era-22bl)
+- [Taming the HTML dialog with React and TailwindCSS](https://dev.to/fibonacid/taming-the-html-dialog-with-react-and-tailwindcss-5hec)
+- [Cannot use a custom SSH port in Ubuntu 22.10 or above? Here&#39;s a fix](https://dev.to/sneh27/cannot-use-a-custom-ssh-port-in-ubuntu-2210-or-above-heres-a-fix-2nhk)
 <!-- BLOG-POST-LIST:END -->
 
