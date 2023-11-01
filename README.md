@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v249](https://dev.to/devteam/welcome-thread-v249-2jj2)
 - [Doing 23 micro launches instead of just 1 platform](https://dev.to/ako61142833/doing-23-micro-launches-instead-of-just-1-platform-1hn8)
 - [How to Build Chatbots with Amazon Bedrock &amp; LangChain](https://dev.to/aws-builders/how-to-build-chatbots-with-amazon-bedrock-langchain-517a)
 - [Gear Up for a Tech-tastic End of the Year! 🚀🌟](https://dev.to/mitchiemt11/gear-up-for-a-tech-tastic-end-of-the-year-16cn)
-- [Debouncing and Throttling in JS](https://dev.to/tanmaycode/debouncing-and-throttling-in-js-36f6)
 <!-- BLOG-POST-LIST:END -->
 
