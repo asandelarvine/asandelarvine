@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging 101: How to Find and Fix Programming Errors](https://dev.to/saloman_james/debugging-101-how-to-find-and-fix-programming-errors-1d14)
-- [Debounce vs. Throttle in JavaScript](https://dev.to/xuho/debounce-vs-throttle-in-javascript-4b71)
-- [Construí o layout do site do Space Jam de 1996 com CSS moderno 🤯](https://dev.to/lixeletto/construi-o-layout-do-site-do-space-jam-de-1996-com-css-moderno-mhl)
-- [Stripe Payments with Nextjs](https://dev.to/jeremypersing/stripe-payments-with-nextjs-5fnl)
+- [The Power of Positive Thinking](https://dev.to/brojenuel/the-power-of-positive-thinking-22h5)
+- [Polyfill in JavaScript](https://dev.to/tanmaycode/polyfill-in-javascript-14jp)
+- [Tentando Conquistar o Mundo da Programação: Dicas para Resolver Problemas](https://dev.to/analaura/tentando-conquistar-o-mundo-da-programacao-dicas-para-resolver-problemas-2cfk)
+- [Secrets to Build a Million-Dollar App: Start Your Mobile App Journey NOW!](https://dev.to/dhruvjoshi9/secrets-to-build-a-million-dollar-app-start-your-mobile-app-journey-now-3ho3)
 <!-- BLOG-POST-LIST:END -->
 
