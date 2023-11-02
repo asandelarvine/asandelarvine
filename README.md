@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Boost Productivity Amidst Disengagement?](https://dev.to/devteam/how-to-boost-productivity-amidst-disengagement-mk8)
+- [Stripe Payments with Nextjs](https://dev.to/jeremypersing/stripe-payments-with-nextjs-5fnl)
 - [Can Code Review Rules Transform Teams?](https://dev.to/codenewbieteam/can-code-review-rules-transform-teams-57fg)
-- [Master Helm, Chart the Kubernetes Seas 🌊🧭🏴‍☠️](https://dev.to/dpills/master-helm-chart-the-kubernetes-seas-508c)
-- [Step-by-Step: Building a GPT-Enhanced Twitter Bot with WordPress and Convoworks](https://dev.to/tolecar/step-by-step-building-a-gpt-enhanced-twitter-bot-with-wordpress-and-convoworks-2bdo)
+- [How to Boost Productivity Amidst Disengagement?](https://dev.to/devteam/how-to-boost-productivity-amidst-disengagement-mk8)
+- [HacktoberRest](https://dev.to/bseefieldt/hacktoberrest-4oi5)
 <!-- BLOG-POST-LIST:END -->
 
