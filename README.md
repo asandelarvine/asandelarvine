@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Q&amp;A App with OpenAI: A Beginner&#39;s Guide!](https://dev.to/pavanbelagatti/build-your-own-qa-app-with-openai-a-beginners-guide-47l8)
+- [Navigating Docker With Captains - Harsh Manvar](https://dev.to/livecycle/navigating-docker-with-captains-harsh-manvar-2828)
+- [Introduction to React createPortal API](https://dev.to/refine/introduction-to-react-createportal-api-442o)
 - [The Power of Positive Thinking](https://dev.to/brojenuel/the-power-of-positive-thinking-22h5)
-- [Polyfill in JavaScript](https://dev.to/tanmaycode/polyfill-in-javascript-14jp)
-- [Tentando Conquistar o Mundo da Programação: Dicas para Resolver Problemas](https://dev.to/analaura/tentando-conquistar-o-mundo-da-programacao-dicas-para-resolver-problemas-2cfk)
-- [Secrets to Build a Million-Dollar App: Start Your Mobile App Journey NOW!](https://dev.to/dhruvjoshi9/secrets-to-build-a-million-dollar-app-start-your-mobile-app-journey-now-3ho3)
 <!-- BLOG-POST-LIST:END -->
 
