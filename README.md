@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Exploring the ChatGPT API: Unlocking the Power of Conversational AI](https://dev.to/agarralexx/exploring-the-chatgpt-api-unlocking-the-power-of-conversational-ai-5ec7)
+- [Making Testing Fun with Playwright [Testμ 2023]](https://dev.to/lambdatest/making-testing-fun-with-playwright-testm-2023-18lo)
 - [The GPT Site Assistant: A New Era of AI Integration with WordPress](https://dev.to/tolecar/the-gpt-site-assistant-a-new-era-of-ai-integration-with-wordpress-2h8g)
 - [Feedback from calling Rust from Python](https://dev.to/nfrankel/feedback-from-calling-rust-from-python-cdg)
-- [Unlock the World of Python with Free Ebooks: Python_EBook_Free](https://dev.to/farhakousar1601/unlock-the-world-of-python-with-free-ebooks-pythonebookfree-alb)
 <!-- BLOG-POST-LIST:END -->
 
