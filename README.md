@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Construí o layout do site do Space Jam de 1996 com CSS moderno 🤯](https://dev.to/lixeletto/construi-o-layout-do-site-do-space-jam-de-1996-com-css-moderno-mhl)
 - [Stripe Payments with Nextjs](https://dev.to/jeremypersing/stripe-payments-with-nextjs-5fnl)
 - [How to Boost Productivity Amidst Disengagement?](https://dev.to/devteam/how-to-boost-productivity-amidst-disengagement-mk8)
 - [Can Code Review Rules Transform Teams?](https://dev.to/codenewbieteam/can-code-review-rules-transform-teams-57fg)
-- [HacktoberRest](https://dev.to/bseefieldt/hacktoberrest-4oi5)
 <!-- BLOG-POST-LIST:END -->
 
