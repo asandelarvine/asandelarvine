@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ReactJS + Docker : Getting started](https://dev.to/ichintansoni/reactjs-docker-getting-started-4306)
+- [🚀 7 Open Source Projects on Product Hunt you CANNOT miss 👀💨](https://dev.to/quine/7-open-source-projects-on-product-hunt-you-cannot-miss-5bje)
+- [Bridging the Gap: Better Token Standards for Cross-chain Assets](https://dev.to/johnjvester/bridging-the-gap-better-token-standards-for-cross-chain-assets-1em2)
 - [Exploring the ChatGPT API: Unlocking the Power of Conversational AI](https://dev.to/agarralexx/exploring-the-chatgpt-api-unlocking-the-power-of-conversational-ai-5ec7)
-- [Making Testing Fun with Playwright [Testμ 2023]](https://dev.to/lambdatest/making-testing-fun-with-playwright-testm-2023-18lo)
-- [The GPT Site Assistant: A New Era of AI Integration with WordPress](https://dev.to/tolecar/the-gpt-site-assistant-a-new-era-of-ai-integration-with-wordpress-2h8g)
-- [Feedback from calling Rust from Python](https://dev.to/nfrankel/feedback-from-calling-rust-from-python-cdg)
 <!-- BLOG-POST-LIST:END -->
 
