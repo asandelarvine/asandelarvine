@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why we replaced Pinecone with PGVector 😇](https://dev.to/confidentai/why-we-replaced-pinecone-with-pgvector-2ofj)
+- [Using TanStack Query with Next.js](https://dev.to/logrocket/using-tanstack-query-with-nextjs-5bdo)
+- [Por que aprender OCaml?](https://dev.to/renatoalencar/por-que-aprender-ocaml-38dc)
 - [JavaScript Variable: Should you choose let, var or const?](https://dev.to/shameel/javascript-variable-should-you-choose-let-var-or-const-47ke)
-- [😎 React App Leveled Up with SSO Auth Wizardry 🪄](https://dev.to/nathan_tarbert/react-app-leveled-up-with-sso-auth-wizardry-3h2)
-- [How to Win Any Hackathon 🚀🤑](https://dev.to/code42cate/how-to-win-any-hackathon-3i99)
-- [Working With Your Live Data Using LangChain](https://dev.to/aws/working-with-your-live-data-using-langchain-19d3)
 <!-- BLOG-POST-LIST:END -->
 
