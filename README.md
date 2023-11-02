@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Basic to Custom: AI Chatbot Building 101](https://dev.to/focusedlabs/from-basic-to-custom-ai-chatbot-building-101-ilf)
-- [Find the Secret - Solution Explained](https://dev.to/nombrekeff/find-the-secret-solution-explained-1c0m)
-- [Meet entr, the standalone file watcher](https://dev.to/joeljuca/meet-entr-the-standalone-file-watcher-42a)
-- [Why we replaced Pinecone with PGVector 😇](https://dev.to/confidentai/why-we-replaced-pinecone-with-pgvector-2ofj)
+- [Implementing Feature Flags with Next.js and App Router](https://dev.to/kylessg/implementing-feature-flags-with-nextjs-and-app-router-1gl8)
+- [Hook into Netlify’s build events with Private Integrations](https://dev.to/netlify/hook-into-netlifys-build-events-with-private-integrations-11c9)
+- [Data Engineering Roadmap 2023](https://dev.to/muinde_esther/data-engineering-roadmap-2023-1a0i)
+- [In Defense of Having All Code in a Single File.](https://dev.to/reggi/in-defense-of-having-all-code-in-a-single-file-18lb)
 <!-- BLOG-POST-LIST:END -->
 
