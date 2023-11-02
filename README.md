@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comic Book App With Marvel API and React](https://dev.to/alekswritescode/comic-book-app-with-marvel-api-and-react-4p2h)
+- [The Top 5 Document Signing Solutions to look for in 2024: Why OpenSign™ Stands Out](https://dev.to/alexopensource/the-top-5-document-signing-solutions-to-look-for-in-2024-why-opensign-stands-out-18ee)
 - [Discussion of the Week - v9](https://dev.to/devteam/discussion-of-the-week-v9-4oal)
-- [Arquitetura Resiliente no React: Usando Error Boundaries](https://dev.to/leomunizq/arquitetura-resiliente-no-react-usando-error-boundaries-1o94)
-- [For, Map and Reduce in Elixir](https://dev.to/adolfont/for-map-and-reduce-in-elixir-26op)
-- [Microservices](https://dev.to/jananie98/microservices-2khc)
+- [Memoization and the Magic of Self-Containing Functions](https://dev.to/corinamurg/memoization-and-the-magic-of-self-containing-functions-4b75)
 <!-- BLOG-POST-LIST:END -->
 
