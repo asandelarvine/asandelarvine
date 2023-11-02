@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Basic to Custom: AI Chatbot Building 101](https://dev.to/focusedlabs/from-basic-to-custom-ai-chatbot-building-101-ilf)
+- [Find the Secret - Solution Explained](https://dev.to/nombrekeff/find-the-secret-solution-explained-1c0m)
+- [Meet entr, the standalone file watcher](https://dev.to/joeljuca/meet-entr-the-standalone-file-watcher-42a)
 - [Why we replaced Pinecone with PGVector 😇](https://dev.to/confidentai/why-we-replaced-pinecone-with-pgvector-2ofj)
-- [Using TanStack Query with Next.js](https://dev.to/logrocket/using-tanstack-query-with-nextjs-5bdo)
-- [Por que aprender OCaml?](https://dev.to/renatoalencar/por-que-aprender-ocaml-38dc)
-- [JavaScript Variable: Should you choose let, var or const?](https://dev.to/shameel/javascript-variable-should-you-choose-let-var-or-const-47ke)
 <!-- BLOG-POST-LIST:END -->
 
