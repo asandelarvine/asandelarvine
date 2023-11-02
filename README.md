@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💪💪 Top 5 Open-Source Insomnia alternatives that you must try in 2024 🔥](https://dev.to/shreya_gr/top-5-open-source-insomnia-alternatives-that-you-must-try-in-2024-37lm)
+- [TLV: A Powerful Tool for handling Data in Embedded Systems](https://dev.to/dariocasciato/tlv-a-powerful-tool-for-handling-data-in-embedded-systems-f4e)
 - [ReactJS + Docker : Getting started](https://dev.to/ichintansoni/reactjs-docker-getting-started-4306)
 - [🚀 7 Open Source Projects on Product Hunt you CANNOT miss 👀💨](https://dev.to/quine/7-open-source-projects-on-product-hunt-you-cannot-miss-5bje)
-- [Bridging the Gap: Better Token Standards for Cross-chain Assets](https://dev.to/johnjvester/bridging-the-gap-better-token-standards-for-cross-chain-assets-1em2)
-- [Exploring the ChatGPT API: Unlocking the Power of Conversational AI](https://dev.to/agarralexx/exploring-the-chatgpt-api-unlocking-the-power-of-conversational-ai-5ec7)
 <!-- BLOG-POST-LIST:END -->
 
