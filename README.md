@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging 101: How to Find and Fix Programming Errors](https://dev.to/saloman_james/debugging-101-how-to-find-and-fix-programming-errors-1d14)
+- [Debounce vs. Throttle in JavaScript](https://dev.to/xuho/debounce-vs-throttle-in-javascript-4b71)
 - [Construí o layout do site do Space Jam de 1996 com CSS moderno 🤯](https://dev.to/lixeletto/construi-o-layout-do-site-do-space-jam-de-1996-com-css-moderno-mhl)
 - [Stripe Payments with Nextjs](https://dev.to/jeremypersing/stripe-payments-with-nextjs-5fnl)
-- [How to Boost Productivity Amidst Disengagement?](https://dev.to/devteam/how-to-boost-productivity-amidst-disengagement-mk8)
-- [Can Code Review Rules Transform Teams?](https://dev.to/codenewbieteam/can-code-review-rules-transform-teams-57fg)
 <!-- BLOG-POST-LIST:END -->
 
