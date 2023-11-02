@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion of the Week - v9](https://dev.to/devteam/discussion-of-the-week-v9-4oal)
 - [Arquitetura Resiliente no React: Usando Error Boundaries](https://dev.to/leomunizq/arquitetura-resiliente-no-react-usando-error-boundaries-1o94)
 - [For, Map and Reduce in Elixir](https://dev.to/adolfont/for-map-and-reduce-in-elixir-26op)
 - [Microservices](https://dev.to/jananie98/microservices-2khc)
-- [The Art of Combining Makeup Products for a Unique Look](https://dev.to/jamesmac/the-art-of-combining-makeup-products-for-a-unique-look-3oc6)
 <!-- BLOG-POST-LIST:END -->
 
