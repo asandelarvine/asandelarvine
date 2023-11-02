@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💪💪 Top 5 Open-Source Insomnia alternatives that you must try in 2024 🔥](https://dev.to/shreya_gr/top-5-open-source-insomnia-alternatives-that-you-must-try-in-2024-37lm)
-- [TLV: A Powerful Tool for handling Data in Embedded Systems](https://dev.to/dariocasciato/tlv-a-powerful-tool-for-handling-data-in-embedded-systems-f4e)
-- [ReactJS + Docker : Getting started](https://dev.to/ichintansoni/reactjs-docker-getting-started-4306)
-- [🚀 7 Open Source Projects on Product Hunt you CANNOT miss 👀💨](https://dev.to/quine/7-open-source-projects-on-product-hunt-you-cannot-miss-5bje)
+- [JavaScript Variable: Should you choose let, var or const?](https://dev.to/shameel/javascript-variable-should-you-choose-let-var-or-const-47ke)
+- [😎 React App Leveled Up with SSO Auth Wizardry 🪄](https://dev.to/nathan_tarbert/react-app-leveled-up-with-sso-auth-wizardry-3h2)
+- [How to Win Any Hackathon 🚀🤑](https://dev.to/code42cate/how-to-win-any-hackathon-3i99)
+- [Working With Your Live Data Using LangChain](https://dev.to/aws/working-with-your-live-data-using-langchain-19d3)
 <!-- BLOG-POST-LIST:END -->
 
