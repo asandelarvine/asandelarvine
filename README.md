@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the ChatGPT API: Unlocking the Power of Conversational AI](https://dev.to/agarralexx/exploring-the-chatgpt-api-unlocking-the-power-of-conversational-ai-5ec7)
+- [The GPT Site Assistant: A New Era of AI Integration with WordPress](https://dev.to/tolecar/the-gpt-site-assistant-a-new-era-of-ai-integration-with-wordpress-2h8g)
 - [Feedback from calling Rust from Python](https://dev.to/nfrankel/feedback-from-calling-rust-from-python-cdg)
 - [Unlock the World of Python with Free Ebooks: Python_EBook_Free](https://dev.to/farhakousar1601/unlock-the-world-of-python-with-free-ebooks-pythonebookfree-alb)
-- [Introducing producthunt.py: A Python Wrapper for the Product Hunt API](https://dev.to/dariubs/introducing-producthuntpy-a-python-wrapper-for-the-product-hunt-api-31p)
-- [Serverless Image Generation Application Using Generative AI on AWS](https://dev.to/abhirockzz/serverless-image-generation-application-using-generative-ai-on-aws-1427)
 <!-- BLOG-POST-LIST:END -->
 
