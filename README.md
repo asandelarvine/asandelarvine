@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the World of Python with Free Ebooks: Python_EBook_Free](https://dev.to/farhakousar1601/unlock-the-world-of-python-with-free-ebooks-pythonebookfree-alb)
+- [Introducing producthunt.py: A Python Wrapper for the Product Hunt API](https://dev.to/dariubs/introducing-producthuntpy-a-python-wrapper-for-the-product-hunt-api-31p)
+- [Serverless Image Generation Application Using Generative AI on AWS](https://dev.to/abhirockzz/serverless-image-generation-application-using-generative-ai-on-aws-1427)
 - [Build Your Own Q&amp;A App with OpenAI: A Beginner&#39;s Guide!](https://dev.to/pavanbelagatti/build-your-own-qa-app-with-openai-a-beginners-guide-47l8)
-- [Navigating Docker With Captains - Harsh Manvar](https://dev.to/livecycle/navigating-docker-with-captains-harsh-manvar-2828)
-- [Introduction to React createPortal API](https://dev.to/refine/introduction-to-react-createportal-api-442o)
-- [The Power of Positive Thinking](https://dev.to/brojenuel/the-power-of-positive-thinking-22h5)
 <!-- BLOG-POST-LIST:END -->
 
