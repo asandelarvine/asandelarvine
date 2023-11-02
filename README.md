@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Software Development Journey: What I Wish I Knew as a Junior Developer](https://dev.to/delia_code/navigating-the-software-development-journey-what-i-wish-i-knew-as-a-junior-developer-4egd)
 - [Extracting Links from Gmail Emails Using Node.js,Imap and Puppeteer](https://dev.to/qaproengineer/extracting-links-from-gmail-emails-using-nodejsimap-and-puppeteer-dec)
 - [Horizontal and vertical scaling - System design by @mukeshkuiry](https://dev.to/mukeshkuiry/horizontal-and-vertical-scaling-system-design-by-mukeshkuiry-29h5)
 - [Implementing Feature Flags with Next.js and App Router](https://dev.to/kylessg/implementing-feature-flags-with-nextjs-and-app-router-1gl8)
-- [Simplify JavaScript&#39;s Async Concepts with One GIF](https://dev.to/devsmitra/simplify-javascripts-async-concepts-with-one-gif-3c6a)
 <!-- BLOG-POST-LIST:END -->
 
