@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to LlamaIndex!](https://dev.to/pavanbelagatti/a-beginners-guide-to-llamaindex-3mip)
-- [Everything About HTML: A Beginner’s Guide](https://dev.to/scofieldidehen/everything-about-html-a-beginners-guide-5dfd)
-- [Top 10 Amazing AI Tools That Will Make Your Life Easier](https://dev.to/nothanii/top-10-amazing-ai-tools-that-will-make-your-life-easier-1o1i)
-- [What is an AI Directory? A Comprehensive Guide](https://dev.to/foxinfotech/what-is-an-ai-directory-a-comprehensive-guide-528n)
+- [Mastering Indoor Comfort: AC Installation Services in Perry, IA](https://dev.to/jhon99/mastering-indoor-comfort-ac-installation-services-in-perry-ia-5feb)
+- [Travel Safely and Explore Things to Do in Sudbury with Pearson Airport to Sudbury Limo Service](https://dev.to/pearsonexpresslimo/travel-safely-and-explore-things-to-do-in-sudbury-with-pearson-airport-to-sudbury-limo-service-kc)
+- [The Most Valuable DevOps Certifications for Career Growth in 2023](https://dev.to/anurag_vishwakarma/the-most-valuable-devops-certifications-for-career-growth-in-2023-1pp4)
+- [Finding Your Fit: Crafting Diverse Development Environments on AWS Lightsail](https://dev.to/cloudedthings/finding-your-fit-crafting-diverse-development-environments-on-aws-lightsail-18ah)
 <!-- BLOG-POST-LIST:END -->
 
