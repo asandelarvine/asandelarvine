@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding JSON: A Beginner&#39;s Guide](https://dev.to/xuho/understanding-json-a-beginners-guide-483g)
+- [Angular Directive Grammar &amp; Microsyntax: Demystifying the Hidden Parts](https://dev.to/khangtrannn/angular-directive-grammar-microsyntax-demystifying-the-hidden-parts-529g)
 - [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/shameel/momentjs-is-now-legacy-project-alternatives-5738)
 - [How To Use PyCharm As A Python Developer](https://dev.to/scofieldidehen/how-to-use-pycharm-as-a-python-developer-2hek)
-- [Error Handling in JavaScript](https://dev.to/tanmaycode/error-handling-in-javascript-186p)
-- [10 Tips and Tricks With JavaScript Objects](https://dev.to/xuho/10-tips-and-tricks-with-javascript-objects-3al0)
 <!-- BLOG-POST-LIST:END -->
 
