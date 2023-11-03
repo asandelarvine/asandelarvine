@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Medical Records Summarization: A Game-Changer](https://dev.to/marutitech/ai-powered-medical-records-summarization-a-game-changer-2h30)
 - [Understanding JSON: A Beginner&#39;s Guide](https://dev.to/xuho/understanding-json-a-beginners-guide-483g)
 - [Angular Directive Grammar &amp; Microsyntax: Demystifying the Hidden Parts](https://dev.to/khangtrannn/angular-directive-grammar-microsyntax-demystifying-the-hidden-parts-529g)
 - [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/shameel/momentjs-is-now-legacy-project-alternatives-5738)
-- [How To Use PyCharm As A Python Developer](https://dev.to/scofieldidehen/how-to-use-pycharm-as-a-python-developer-2hek)
 <!-- BLOG-POST-LIST:END -->
 
