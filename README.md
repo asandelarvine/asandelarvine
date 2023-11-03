@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comic Book App With Marvel API and React](https://dev.to/alekswritescode/comic-book-app-with-marvel-api-and-react-4p2h)
-- [The Top 5 Document Signing Solutions to look for in 2024: Why OpenSign™ Stands Out](https://dev.to/alexopensource/the-top-5-document-signing-solutions-to-look-for-in-2024-why-opensign-stands-out-18ee)
-- [Discussion of the Week - v9](https://dev.to/devteam/discussion-of-the-week-v9-4oal)
-- [Memoization and the Magic of Self-Containing Functions](https://dev.to/corinamurg/memoization-and-the-magic-of-self-containing-functions-4b75)
+- [Enhancing Deployment Security through the Integration of IAM Roles and GitHub Actions](https://dev.to/suzuki0430/enhancing-deployment-security-through-the-integration-of-iam-roles-and-github-actions-4gb6)
+- [Is There a Faster Alternative to JSON?](https://dev.to/devteam/is-there-a-faster-alternative-to-json-o38)
+- [A Comprehensive Guide on How to Use Git and GitHub for Beginners](https://dev.to/abdrzqsalihu/a-comprehensive-guide-on-how-to-use-git-and-github-for-beginners-20c0)
+- [Testable Go Code](https://dev.to/stneto1/testable-go-code-13k5)
 <!-- BLOG-POST-LIST:END -->
 
