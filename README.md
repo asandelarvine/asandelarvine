@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make an Animated Menu like Stripe with React, Tailwind, and AI](https://dev.to/builderio/make-an-animated-menu-like-stripe-with-react-tailwind-and-ai-28lh)
+- [Microservices Architecture Mobile Development: Get Free Consultation!](https://dev.to/dhruvjoshi9/microservices-architecture-mobile-development-get-free-consultation-50cf)
+- [New Sponsorship Partners on DEV](https://dev.to/devteam/new-sponsorship-partners-on-dev-1pgi)
 - [Restore or Migrate your MySQL Database to Railway](https://dev.to/simplebackups/restore-or-migrate-your-mysql-database-to-railway-4183)
-- [Restore your MySQL Database on PlanetScale](https://dev.to/simplebackups/restore-your-mysql-database-on-planetscale-44fk)
-- [Functional event sourcing example in Kotlin](https://dev.to/jakub_zalas/functional-event-sourcing-example-in-kotlin-3245)
-- [Top 5 AI Chatbot Platforms: Your Guide to Building Chatbots with Ease](https://dev.to/diwakarkashyap/top-5-ai-chatbot-platforms-your-guide-to-building-chatbots-with-ease-1nof)
 <!-- BLOG-POST-LIST:END -->
 
