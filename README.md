@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ready to use Google Colab to finetune SDXL + T2I Sketch Adapter 🤖🤯](https://dev.to/norflin321/ready-to-use-google-colab-to-finetune-sdxl-t2i-sketch-adapter-1l7p)
-- [Mastering Indoor Comfort: AC Installation Services in Perry, IA](https://dev.to/jhon99/mastering-indoor-comfort-ac-installation-services-in-perry-ia-5feb)
-- [Travel Safely and Explore Things to Do in Sudbury with Pearson Airport to Sudbury Limo Service](https://dev.to/pearsonexpresslimo/travel-safely-and-explore-things-to-do-in-sudbury-with-pearson-airport-to-sudbury-limo-service-kc)
-- [The Most Valuable DevOps Certifications for Career Growth in 2023](https://dev.to/anurag_vishwakarma/the-most-valuable-devops-certifications-for-career-growth-in-2023-1pp4)
+- [Restore or Migrate your MySQL Database to Railway](https://dev.to/simplebackups/restore-or-migrate-your-mysql-database-to-railway-4183)
+- [Restore your MySQL Database on PlanetScale](https://dev.to/simplebackups/restore-your-mysql-database-on-planetscale-44fk)
+- [Functional event sourcing example in Kotlin](https://dev.to/jakub_zalas/functional-event-sourcing-example-in-kotlin-3245)
+- [Top 5 AI Chatbot Platforms: Your Guide to Building Chatbots with Ease](https://dev.to/diwakarkashyap/top-5-ai-chatbot-platforms-your-guide-to-building-chatbots-with-ease-1nof)
 <!-- BLOG-POST-LIST:END -->
 
