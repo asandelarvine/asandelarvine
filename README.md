@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Class in ES6 vs Class in Typescript](https://dev.to/tuanhuynhvn/class-in-es6-vs-class-in-typescript-49mi)
+- [How to Automatically Remove Console Logs and Other Code Snippets](https://dev.to/codarbind/how-to-automatically-remove-console-logs-and-other-code-snippets-1b02)
+- [What Kinds of Tests Should be Automated](https://dev.to/wetest/what-kinds-of-tests-should-be-automated-2j01)
 - [Llama Ollama: Unlocking Local LLMs with ollama.ai](https://dev.to/alkanet88/llama-ollama-unlocking-local-llms-with-ollamaai-3ilm)
-- [Enhancing Deployment Security through the Integration of IAM Roles and GitHub Actions](https://dev.to/suzuki0430/enhancing-deployment-security-through-the-integration-of-iam-roles-and-github-actions-4gb6)
-- [Is There a Faster Alternative to JSON?](https://dev.to/devteam/is-there-a-faster-alternative-to-json-o38)
-- [A Comprehensive Guide on How to Use Git and GitHub for Beginners](https://dev.to/abdrzqsalihu/a-comprehensive-guide-on-how-to-use-git-and-github-for-beginners-20c0)
 <!-- BLOG-POST-LIST:END -->
 
