@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Git Hooks](https://dev.to/arindam_1729/understanding-git-hooks-3log)
 - [pyaction 4.26.0 Released](https://dev.to/cicirello/pyaction-4260-released-5g6o)
 - [Cleaning your working directory in Git &lpar;including untracked files&rpar; 😎](https://dev.to/wevtimoteo/cleaning-your-working-directory-in-git-including-untracked-files-117m)
 - [Unleash Your Coding Superpowers with CoderKit! 🚀](https://dev.to/bibekkakati/unleash-your-coding-superpowers-with-coderkit-k9h)
-- [Every GitHub Repo 404 😱](https://dev.to/ben/every-github-repo-404-74e)
 <!-- BLOG-POST-LIST:END -->
 
