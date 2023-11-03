@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Object-Oriented Programming &lpar;OOP&rpar; for Newbies](https://dev.to/saloman_james/introduction-to-object-oriented-programming-oop-for-newbies-10n3)
 - [Class in ES6 vs Class in Typescript](https://dev.to/tuanhuynhvn/class-in-es6-vs-class-in-typescript-49mi)
 - [How to Automatically Remove Console Logs and Other Code Snippets](https://dev.to/codarbind/how-to-automatically-remove-console-logs-and-other-code-snippets-1b02)
 - [What Kinds of Tests Should be Automated](https://dev.to/wetest/what-kinds-of-tests-should-be-automated-2j01)
-- [Llama Ollama: Unlocking Local LLMs with ollama.ai](https://dev.to/alkanet88/llama-ollama-unlocking-local-llms-with-ollamaai-3ilm)
 <!-- BLOG-POST-LIST:END -->
 
