@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleaning your working directory in Git &lpar;including untracked files&rpar; 😎](https://dev.to/wevtimoteo/cleaning-your-working-directory-in-git-including-untracked-files-117m)
+- [Unleash Your Coding Superpowers with CoderKit! 🚀](https://dev.to/bibekkakati/unleash-your-coding-superpowers-with-coderkit-k9h)
 - [Every GitHub Repo 404 😱](https://dev.to/ben/every-github-repo-404-74e)
 - [The JAM stack: A Bright Future for Web Development](https://dev.to/sakethkowtha/the-jam-stack-a-bright-future-for-web-development-1c21)
-- [Como eu estudei para AZ-900 e fui aprovada?](https://dev.to/franolv/como-eu-estudei-para-az-900-e-fui-aprovada-3hbg)
-- [Random Password Generator with Reactjs](https://dev.to/kartikbudhraja/random-password-generator-with-reactjs-308e)
 <!-- BLOG-POST-LIST:END -->
 
