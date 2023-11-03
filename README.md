@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Emotion-driven development](https://dev.to/ingosteinke/emotion-driven-development-4ai1)
-- [How sketching made me improve my products design](https://dev.to/galinor/how-sketching-made-me-improve-my-products-design-4egb)
-- [AI-Powered Medical Records Summarization: A Game-Changer](https://dev.to/marutitech/ai-powered-medical-records-summarization-a-game-changer-2h30)
-- [Understanding JSON: A Beginner&#39;s Guide](https://dev.to/xuho/understanding-json-a-beginners-guide-483g)
+- [A Beginner&#39;s Guide to LlamaIndex!](https://dev.to/pavanbelagatti/a-beginners-guide-to-llamaindex-3mip)
+- [Everything About HTML: A Beginner’s Guide](https://dev.to/scofieldidehen/everything-about-html-a-beginners-guide-5dfd)
+- [Top 10 Amazing AI Tools That Will Make Your Life Easier](https://dev.to/nothanii/top-10-amazing-ai-tools-that-will-make-your-life-easier-1o1i)
+- [What is an AI Directory? A Comprehensive Guide](https://dev.to/foxinfotech/what-is-an-ai-directory-a-comprehensive-guide-528n)
 <!-- BLOG-POST-LIST:END -->
 
