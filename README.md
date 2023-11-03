@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Best Practices: Writing Clean and Maintainable Code](https://dev.to/baransel/typescript-best-practices-writing-clean-and-maintainable-code-33dg)
-- [Make an Animated Menu like Stripe with React, Tailwind, and AI](https://dev.to/builderio/make-an-animated-menu-like-stripe-with-react-tailwind-and-ai-28lh)
-- [New Sponsorship Partners on DEV](https://dev.to/devteam/new-sponsorship-partners-on-dev-1pgi)
-- [Restore or Migrate your MySQL Database to Railway](https://dev.to/simplebackups/restore-or-migrate-your-mysql-database-to-railway-4183)
+- [Every GitHub Repo 404 😱](https://dev.to/ben/every-github-repo-404-74e)
+- [The JAM stack: A Bright Future for Web Development](https://dev.to/sakethkowtha/the-jam-stack-a-bright-future-for-web-development-1c21)
+- [Como eu estudei para AZ-900 e fui aprovada?](https://dev.to/franolv/como-eu-estudei-para-az-900-e-fui-aprovada-3hbg)
+- [Random Password Generator with Reactjs](https://dev.to/kartikbudhraja/random-password-generator-with-reactjs-308e)
 <!-- BLOG-POST-LIST:END -->
 
