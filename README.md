@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use PyCharm As A Python Developer](https://dev.to/scofieldidehen/how-to-use-pycharm-as-a-python-developer-2hek)
 - [Error Handling in JavaScript](https://dev.to/tanmaycode/error-handling-in-javascript-186p)
 - [10 Tips and Tricks With JavaScript Objects](https://dev.to/xuho/10-tips-and-tricks-with-javascript-objects-3al0)
 - [Introduction to Object-Oriented Programming &lpar;OOP&rpar; for Newbies](https://dev.to/saloman_james/introduction-to-object-oriented-programming-oop-for-newbies-10n3)
-- [Class in ES6 vs Class in Typescript](https://dev.to/tuanhuynhvn/class-in-es6-vs-class-in-typescript-49mi)
 <!-- BLOG-POST-LIST:END -->
 
