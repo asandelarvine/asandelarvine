@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ready to use Google Colab to finetune SDXL + T2I Sketch Adapter 🤖🤯](https://dev.to/norflin321/ready-to-use-google-colab-to-finetune-sdxl-t2i-sketch-adapter-1l7p)
 - [Mastering Indoor Comfort: AC Installation Services in Perry, IA](https://dev.to/jhon99/mastering-indoor-comfort-ac-installation-services-in-perry-ia-5feb)
 - [Travel Safely and Explore Things to Do in Sudbury with Pearson Airport to Sudbury Limo Service](https://dev.to/pearsonexpresslimo/travel-safely-and-explore-things-to-do-in-sudbury-with-pearson-airport-to-sudbury-limo-service-kc)
 - [The Most Valuable DevOps Certifications for Career Growth in 2023](https://dev.to/anurag_vishwakarma/the-most-valuable-devops-certifications-for-career-growth-in-2023-1pp4)
-- [Finding Your Fit: Crafting Diverse Development Environments on AWS Lightsail](https://dev.to/cloudedthings/finding-your-fit-crafting-diverse-development-environments-on-aws-lightsail-18ah)
 <!-- BLOG-POST-LIST:END -->
 
