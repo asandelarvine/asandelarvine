@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Syncing a Spreadsheet with Google Calendar using Google Scripts to be &lpar;or at least try&rpar; more productive](https://dev.to/sarahcssiqueira/syncing-a-spreadsheet-with-google-calendar-using-google-scripts-to-be-or-at-least-try-more-productive-18cc)
+- [Hate on Tailwind... I have seen that before!](https://dev.to/nickgabe/hate-on-tailwind-i-have-seen-that-before-549i)
+- [Proxy Servers, Redundancy, and Replication: A Deep Dive into System Design 🌐🔐🚀](https://dev.to/mukeshkuiry/proxy-servers-redundancy-and-replication-a-deep-dive-into-system-design-jk1)
 - [Deploy Next JS App To Cpanel Using Github Actions](https://dev.to/heyitsuzair/deploy-next-js-app-to-cpanel-using-github-actions-1nl9)
-- [Switch from a Framework/Library User to a Pro Frontend Engineer](https://dev.to/ahmeddammarr/switch-from-a-frameworklibrary-user-to-a-pro-frontend-engineer-2cci)
-- [Creating Linux user without home directory](https://dev.to/sjegadeeswaran/creating-linux-user-without-home-directory-1kfk)
-- [How to Create User Routes in Node.js: A Step-by-Step Guide](https://dev.to/aneeqakhan/create-user-model-3cfb)
 <!-- BLOG-POST-LIST:END -->
 
