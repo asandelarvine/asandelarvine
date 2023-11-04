@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What Defines a Software Developer? Navigating Beyond Technical Expertise](https://dev.to/itsvinayak/what-defines-a-software-developer-navigating-beyond-technical-expertise-3n62)
+- [Schwoogle, Open Source AS-based Search Engine](https://dev.to/polterguy/schwoogle-open-source-as-based-search-engine-31hm)
+- [Using Dapper - C# Part 1-A](https://dev.to/karenpayneoregon/using-dapper-c-part-1-a-eec)
 - [MASTERING MYSQL](https://dev.to/adewaleomosanya/mastering-mysql-12bn)
-- [How did I reduce project onboarding from 2H 😫 to 3 MINUTES 🔥🔥🔥 ?](https://dev.to/mzsrtgzr2/how-did-i-reduce-project-onboarding-from-2-hours-to-2-minutes--4m92)
-- [Building a distributed Task scheduling and execution system with NoestJs, Docker, and RabbitMQ &lpar;Part 1&rpar;](https://dev.to/abumuhab/building-a-distributed-task-scheduling-and-executing-system-with-noestjs-docker-and-rabbitmq-part-1-1k2j)
 <!-- BLOG-POST-LIST:END -->
 
