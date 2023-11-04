@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Three years of completing Hacktoberfest!](https://dev.to/ayushshahh/three-years-of-completing-hacktoberfest-22c4)
 - [Beginner-Level PHP Interview Questions](https://dev.to/durgesh4993/beginner-level-php-interview-questions-1cil)
-- [HELB Application, Processing, and Disbursement for Kenyan Universities and Colleges](https://dev.to/l1qu3d/helb-application-processing-and-disbursement-for-kenyan-universities-and-colleges-3m0b)
-- [🧹🧹 Sanitizing user input with OpenAI under $1](https://dev.to/bolshchikov/sanitizing-any-user-input-with-openai-under-1-3ief)
-- [Supercharge Your AWS Lambda Game With Lambda Powertools](https://dev.to/kknd4eva/supercharge-your-aws-lambda-game-with-lambda-powertools-43np)
+- [Tmux a terminal multiplexer](https://dev.to/mannuelf/tmux-a-terminal-multiplexer-j83)
+- [How to Structure your Resume After your First Job](https://dev.to/jookllo/how-to-structure-your-resume-after-your-first-job-50ai)
 <!-- BLOG-POST-LIST:END -->
 
