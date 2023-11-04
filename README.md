@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Objects Recap](https://dev.to/tanmaycode/javascript-objects-recap-510e)
 - [Using EventTarget and CustomEvent to build a web-native event emitter](https://dev.to/itshugo/using-eventtarget-and-customevent-to-build-a-web-native-event-emitter-16hc)
 - [Docker Compose: MongoDB and Spring Boot example](https://dev.to/tienbku/docker-compose-mongodb-and-spring-boot-example-4808)
 - [A Necessidade de Remover Código Antigo e Não Necessário de Code Bases: Uma Analogia com a Síndrome de Diógenes](https://dev.to/robsoncassianosoftware/a-necessidade-de-remover-codigo-antigo-e-nao-necessario-de-code-bases-uma-analogia-com-a-sindrome-de-diogenes-3o2d)
-- [Milvus Adventures Nov 3, 2023](https://dev.to/chrischurilo/milvus-adventures-nov-3-2023-1a57)
 <!-- BLOG-POST-LIST:END -->
 
