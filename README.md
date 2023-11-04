@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Defines a Software Developer? Navigating Beyond Technical Expertise](https://dev.to/itsvinayak/what-defines-a-software-developer-navigating-beyond-technical-expertise-3n62)
+- [MASTERING MYSQL](https://dev.to/adewaleomosanya/mastering-mysql-12bn)
+- [How did I reduce project onboarding from 2H 😫 to 3 MINUTES 🔥🔥🔥 ?](https://dev.to/mzsrtgzr2/how-did-i-reduce-project-onboarding-from-2-hours-to-2-minutes--4m92)
 - [Building a distributed Task scheduling and execution system with NoestJs, Docker, and RabbitMQ &lpar;Part 1&rpar;](https://dev.to/abumuhab/building-a-distributed-task-scheduling-and-executing-system-with-noestjs-docker-and-rabbitmq-part-1-1k2j)
-- [PDF generation with Gotenberg](https://dev.to/zsevic/pdf-generation-with-gotenberg-3hfe)
-- [Syncing a Spreadsheet with Google Calendar using Google Scripts to be &lpar;or at least try&rpar; more productive](https://dev.to/sarahcssiqueira/syncing-a-spreadsheet-with-google-calendar-using-google-scripts-to-be-or-at-least-try-more-productive-18cc)
-- [Hate on Tailwind... I have seen that before!](https://dev.to/nickgabe/hate-on-tailwind-i-have-seen-that-before-549i)
 <!-- BLOG-POST-LIST:END -->
 
