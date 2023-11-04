@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your Own Chrome Extension Using ChatGPT](https://dev.to/justlorain/how-to-build-your-own-chrome-extension-using-chatgpt-1pfa)
 - [Three years of completing Hacktoberfest!](https://dev.to/ayushshahh/three-years-of-completing-hacktoberfest-22c4)
 - [Beginner-Level PHP Interview Questions](https://dev.to/durgesh4993/beginner-level-php-interview-questions-1cil)
 - [Tmux a terminal multiplexer](https://dev.to/mannuelf/tmux-a-terminal-multiplexer-j83)
-- [How to Structure your Resume After your First Job](https://dev.to/jookllo/how-to-structure-your-resume-after-your-first-job-50ai)
 <!-- BLOG-POST-LIST:END -->
 
