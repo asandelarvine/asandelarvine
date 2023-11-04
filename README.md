@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PDF generation with Gotenberg](https://dev.to/zsevic/pdf-generation-with-gotenberg-3hfe)
 - [Syncing a Spreadsheet with Google Calendar using Google Scripts to be &lpar;or at least try&rpar; more productive](https://dev.to/sarahcssiqueira/syncing-a-spreadsheet-with-google-calendar-using-google-scripts-to-be-or-at-least-try-more-productive-18cc)
 - [Hate on Tailwind... I have seen that before!](https://dev.to/nickgabe/hate-on-tailwind-i-have-seen-that-before-549i)
 - [Proxy Servers, Redundancy, and Replication: A Deep Dive into System Design 🌐🔐🚀](https://dev.to/mukeshkuiry/proxy-servers-redundancy-and-replication-a-deep-dive-into-system-design-jk1)
-- [Deploy Next JS App To Cpanel Using Github Actions](https://dev.to/heyitsuzair/deploy-next-js-app-to-cpanel-using-github-actions-1nl9)
 <!-- BLOG-POST-LIST:END -->
 
