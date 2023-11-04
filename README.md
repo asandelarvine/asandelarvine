@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Next JS App To Cpanel Using Github Actions](https://dev.to/heyitsuzair/deploy-next-js-app-to-cpanel-using-github-actions-1nl9)
 - [Switch from a Framework/Library User to a Pro Frontend Engineer](https://dev.to/ahmeddammarr/switch-from-a-frameworklibrary-user-to-a-pro-frontend-engineer-2cci)
-- [Category Magic: Transforming Categorical Data in ML](https://dev.to/jagroop2001/category-magic-transforming-categorical-data-in-ml-5foh)
-- [Day 81: Web Workers](https://dev.to/dhrn/day-81-web-workers-4ec0)
-- [SSH as VPN Alternative](https://dev.to/sibprogrammer/ssh-as-vpn-alternative-484h)
+- [Creating Linux user without home directory](https://dev.to/sjegadeeswaran/creating-linux-user-without-home-directory-1kfk)
+- [How to Create User Routes in Node.js: A Step-by-Step Guide](https://dev.to/aneeqakhan/create-user-model-3cfb)
 <!-- BLOG-POST-LIST:END -->
 
