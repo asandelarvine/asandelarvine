@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Build a Full-Stack AI Application in React!](https://dev.to/pavanbelagatti/lets-build-a-full-stack-ai-application-in-react-19ha)
 - [JavaScript Objects Recap](https://dev.to/tanmaycode/javascript-objects-recap-510e)
 - [Using EventTarget and CustomEvent to build a web-native event emitter](https://dev.to/itshugo/using-eventtarget-and-customevent-to-build-a-web-native-event-emitter-16hc)
 - [Static Analysis Tooling 🐍](https://dev.to/amnish04/static-analysis-tooling-11e3)
-- [Docker Compose: MongoDB and Spring Boot example](https://dev.to/tienbku/docker-compose-mongodb-and-spring-boot-example-4808)
 <!-- BLOG-POST-LIST:END -->
 
