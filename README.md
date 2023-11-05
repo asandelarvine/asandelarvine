@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2024 Web Development Trends: The Future of Web Tech That You Can’t Ignore](https://dev.to/delia_code/2024-web-development-trends-the-future-of-web-tech-that-you-cant-ignore-7k8)
-- [I built a Snake Game in React](https://dev.to/menard_codes/i-built-a-snake-game-in-react-48b6)
-- [Retrieve route data with resolver function in Angular](https://dev.to/railsstudent/retrieve-route-data-with-resolver-function-in-angular-12nf)
-- [[Beginner Friendly] Transform Your Web App with Formbricks Surveys: A Must-Know Guide🔥🔥🔥](https://dev.to/ankur0904/beginner-friendly-transform-your-web-app-with-formbricks-surveys-a-must-know-guide-3a4i)
+- [What&#39;s New in StateAdapt 2.0.0: adapt rework](https://dev.to/this-is-angular/whats-new-in-stateadapt-200-adapt-rework-42g9)
+- [🟢 GitHub Workflows reimagined - A visual node system for GitHub workflows](https://dev.to/sebastianrath/github-workflows-reimagined-a-visual-node-system-for-github-workflows-18a3)
+- [Code to Cloud: DevOps with AWS](https://dev.to/aws-builders/code-to-cloud-devops-with-aws-242)
+- [Why useSyncExternalStore Is Not Used in Jotai](https://dev.to/dai_shi/why-usesyncexternalstore-is-not-used-in-jotai-23h9)
 <!-- BLOG-POST-LIST:END -->
 
