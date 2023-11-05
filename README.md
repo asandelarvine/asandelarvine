@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Interpreting Code with Amazon Bedrock&#39;s Claude Foundational Model](https://dev.to/aws-builders/interpreting-code-with-amazon-bedrocks-claude-foundational-model-2foi)
 - [A Missed Modifier, A Race Against Time: The Genesis of a Handy Online Smart Contract Editor](https://dev.to/mister_g/a-missed-modifier-a-race-against-time-the-genesis-of-a-handy-online-smart-contract-editor-2ll8)
 - [How to set up and turn off Find My Device on Android](https://dev.to/rogerwillium/how-to-set-up-and-turn-off-find-my-device-on-android-4bgb)
 - [Redis: A Comparison with Other Databases &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/redis-a-comparison-with-other-databases-bite-size-article-2lip)
-- [✨Top 15 GitHub repositories to achieve Typescript Mastery🏆](https://dev.to/kumarkalyan/top-15-github-repositories-to-achieve-typescript-mastery-gk0)
 <!-- BLOG-POST-LIST:END -->
 
