@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Eat the 🍪 [All In One Bite]](https://dev.to/cleancodestudio/dont-eat-the-all-in-one-bite-7l0)
+- [Como deixar o Swagger com tema dark mode usando NestJS](https://dev.to/wiliamvj/como-deixar-o-swagger-com-o-tema-dark-mode-com-nestjs-405o)
 - [useRef helps you to avoid re-rendering of the component](https://dev.to/learnwithparam/useref-helps-you-to-avoid-re-rendering-of-the-component-39jn)
 - [Python Secure Password Management: Hashing and Encryption #️⃣🔐✨](https://dev.to/dpills/python-secure-password-management-hashing-and-encryption--1246)
-- [PROMEΘEUS - Pyro Detection Global Team](https://dev.to/g0d/prometheus-pyro-detection-global-team-4gi9)
-- [My Unexpected journey into data science](https://dev.to/evansifyke/my-unexpected-journey-into-data-science-3i6b)
 <!-- BLOG-POST-LIST:END -->
 
