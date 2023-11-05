@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [useRef helps you to avoid re-rendering of the component](https://dev.to/learnwithparam/useref-helps-you-to-avoid-re-rendering-of-the-component-39jn)
 - [Python Secure Password Management: Hashing and Encryption #️⃣🔐✨](https://dev.to/dpills/python-secure-password-management-hashing-and-encryption--1246)
 - [PROMEΘEUS - Pyro Detection Global Team](https://dev.to/g0d/prometheus-pyro-detection-global-team-4gi9)
 - [My Unexpected journey into data science](https://dev.to/evansifyke/my-unexpected-journey-into-data-science-3i6b)
-- [3 Different Ways to Center A Div in CSS](https://dev.to/huericnan/3-different-ways-to-center-a-div-in-css-1ic9)
 <!-- BLOG-POST-LIST:END -->
 
