@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 Web Development Trends: The Future of Web Tech That You Can’t Ignore](https://dev.to/delia_code/2024-web-development-trends-the-future-of-web-tech-that-you-cant-ignore-7k8)
 - [I built a Snake Game in React](https://dev.to/menard_codes/i-built-a-snake-game-in-react-48b6)
 - [Retrieve route data with resolver function in Angular](https://dev.to/railsstudent/retrieve-route-data-with-resolver-function-in-angular-12nf)
 - [[Beginner Friendly] Transform Your Web App with Formbricks Surveys: A Must-Know Guide🔥🔥🔥](https://dev.to/ankur0904/beginner-friendly-transform-your-web-app-with-formbricks-surveys-a-must-know-guide-3a4i)
-- [Hashing User Passwords Using bcrypt in Python](https://dev.to/sachingeek/hashing-user-passwords-using-bcrypt-in-python-1gij)
 <!-- BLOG-POST-LIST:END -->
 
