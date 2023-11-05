@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [✨Top 15 GitHub repositories to achieve Typescript Mastery 🏆](https://dev.to/kumarkalyan/top-15-github-repositories-to-achieve-typescript-mastery-gk0)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-49g3)
+- [Add Prettier and Linter](https://dev.to/seogjun/add-prettier-and-linter-2cge)
 - [What Defines a Software Developer? Navigating Beyond Technical Expertise](https://dev.to/itsvinayak/what-defines-a-software-developer-navigating-beyond-technical-expertise-3n62)
-- [Schwoogle, Open Source AS-based Search Engine](https://dev.to/polterguy/schwoogle-open-source-as-based-search-engine-31hm)
-- [Using Dapper - C# Part 1-A](https://dev.to/karenpayneoregon/using-dapper-c-part-1-a-eec)
-- [MASTERING MYSQL](https://dev.to/adewaleomosanya/mastering-mysql-12bn)
 <!-- BLOG-POST-LIST:END -->
 
