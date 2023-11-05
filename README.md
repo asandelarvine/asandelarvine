@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [What&#39;s New in StateAdapt 2.0.0: adapt rework](https://dev.to/this-is-angular/whats-new-in-stateadapt-200-adapt-rework-42g9)
 - [🟢 GitHub Workflows reimagined - A visual node system for GitHub workflows](https://dev.to/sebastianrath/github-workflows-reimagined-a-visual-node-system-for-github-workflows-18a3)
 - [Code to Cloud: DevOps with AWS](https://dev.to/aws-builders/code-to-cloud-devops-with-aws-242)
-- [Why useSyncExternalStore Is Not Used in Jotai](https://dev.to/dai_shi/why-usesyncexternalstore-is-not-used-in-jotai-23h9)
+- [First Open source contribution](https://dev.to/alisha786/first-open-source-contribution-3ji9)
 <!-- BLOG-POST-LIST:END -->
 
