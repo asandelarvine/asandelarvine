@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yet Another Newsletter LOL: The Narrows](https://dev.to/nickytonline/yet-another-newsletter-lol-the-narrows-595n)
-- [What&#39;s New in StateAdapt 2.0.0: adapt rework](https://dev.to/this-is-angular/whats-new-in-stateadapt-200-adapt-rework-42g9)
-- [🟢 GitHub Workflows reimagined - A visual node system for GitHub workflows](https://dev.to/sebastianrath/github-workflows-reimagined-a-visual-node-system-for-github-workflows-18a3)
-- [Code to Cloud: DevOps with AWS](https://dev.to/aws-builders/code-to-cloud-devops-with-aws-242)
+- [Python Secure Password Management: Hashing and Encryption #️⃣🔐✨](https://dev.to/dpills/python-secure-password-management-hashing-and-encryption--1246)
+- [PROMEΘEUS - Pyro Detection Global Team](https://dev.to/g0d/prometheus-pyro-detection-global-team-4gi9)
+- [My Unexpected journey into data science](https://dev.to/evansifyke/my-unexpected-journey-into-data-science-3i6b)
+- [3 Different Ways to Center A Div in CSS](https://dev.to/huericnan/3-different-ways-to-center-a-div-in-css-1ic9)
 <!-- BLOG-POST-LIST:END -->
 
