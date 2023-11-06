@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tinker in Lumen: Your Ultimate Debugging Companion](https://dev.to/jackmiras/tinker-in-lumen-your-ultimate-debugging-companion-102e)
-- [5 Open-Source Repositories for Faster Development in Monolithic Architecture](https://dev.to/flagsmith/5-open-source-repositories-for-faster-development-in-monolithic-architecture-52c0)
-- [The Complete Guide to Time Series Models](https://dev.to/jstnharmon/the-complete-guide-to-time-series-models-120d)
-- [Meme Monday](https://dev.to/ben/meme-monday-1i9a)
+- [[Alien Hunter Series Pt. 1] Mastering the COBOL Programming Language](https://dev.to/github20k/alien-hunter-series-pt-1-mastering-the-cobol-programming-language-3kmh)
+- [🚨Avoid this when running containerized applications in production](https://dev.to/antoinecoulon/avoid-this-when-running-containerized-applications-in-production-562k)
+- [Deploying a Go backend to a new Kubernetes Cluster in minutes&lpar;!&rpar;](https://dev.to/encore/deploying-a-go-backend-to-a-new-kubernetes-cluster-in-minutes-1afd)
+- [Descubriendo AWS DeepRacer: Aprendizaje en la Pista de Carreras](https://dev.to/aws-espanol/descubriendo-aws-deepracer-aprendizaje-en-la-pista-de-carreras-2d4c)
 <!-- BLOG-POST-LIST:END -->
 
