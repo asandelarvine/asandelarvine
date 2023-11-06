@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK Stack Weekly 06 Nov 2023](https://dev.to/tspannhw/flank-stack-weekly-06-nov-2023-3f4e)
+- [Comunicação, comunidade e tecnologia: detalhes sobre dia a dia de uma pessoa Tech Community Manager](https://dev.to/laricavitoriano/comunicacao-comunidade-e-tecnologia-detalhes-sobre-dia-a-dia-de-uma-pessoa-tech-community-manager-26p5)
+- [Data ethics in AI 🤖](https://dev.to/oskidev/data-ethics-in-ai-19g8)
 - [Rapyd API Request Signatures in PHP](https://dev.to/rapyd/rapyd-api-request-signatures-in-php-304f)
-- [Enhancing Your WordPress Site Speed Via Asset Optimization](https://dev.to/jexie_wren/enhancing-your-wordpress-site-speed-via-asset-optimization-184d)
-- [[Alien Hunter Series Pt. 1] Mastering the COBOL Programming Language](https://dev.to/github20k/alien-hunter-series-pt-1-mastering-the-cobol-programming-language-3kmh)
-- [🚨Avoid this mistake when running containerized applications in production](https://dev.to/antoinecoulon/avoid-this-when-running-containerized-applications-in-production-562k)
 <!-- BLOG-POST-LIST:END -->
 
