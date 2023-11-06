@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tricksters of JavaScript](https://dev.to/tanmaycode/tricksters-of-javascript-6b)
 - [How to Save Single or Multiple Records Using API Maker 🚀](https://dev.to/apimaker/how-to-save-single-or-multiple-records-using-api-maker-453d)
 - [IDURAR Open Source Code Alternative to SalesForce 🎉Got 2000 Stars on GitHub 🌟](https://dev.to/idurar/idurar-open-source-code-alternative-to-salesforce-got-2000-stars-on-github-26o9)
 - [Construye un Asistente Personal con super poderes de IA Generativa](https://dev.to/ensamblador/construye-un-asistente-personal-con-super-poderes-de-ia-generativa-1593)
-- [Writing a Book with Packt](https://dev.to/integerman/writing-a-book-with-packt-551l)
 <!-- BLOG-POST-LIST:END -->
 
