@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ho)
 - [How to use labels in Appwrite to create a subscription system](https://dev.to/hackmamba/how-to-use-labels-in-appwrite-to-create-a-subscription-system-ad6)
 - [Intern2Grow: Virtual Internships, Real Tasks](https://dev.to/ahmed0saber/intern2grow-virtual-internships-real-tasks-326n)
 - [Domino’s built a better way to deliver pizza with New Relic APM.](https://dev.to/newrelic/dominos-built-a-better-way-to-deliver-pizza-with-new-relic-apm-h0m)
-- [Manual for Regression Buzzwords that you might encounter ❕](https://dev.to/jordan_gamba/manual-for-regression-buzzwords-that-you-might-encounter-2bee)
 <!-- BLOG-POST-LIST:END -->
 
