@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to Save Single or Multiple Records Using API Maker 🚀](https://dev.to/apimaker/how-to-save-single-or-multiple-records-using-api-maker-453d)
 - [IDURAR Open Source Code Alternative to SalesForce 🎉Got 2000 Stars on GitHub 🌟](https://dev.to/idurar/idurar-open-source-code-alternative-to-salesforce-got-2000-stars-on-github-26o9)
 - [Construye un Asistente Personal con super poderes de IA Generativa](https://dev.to/ensamblador/construye-un-asistente-personal-con-super-poderes-de-ia-generativa-1593)
-- [Optimizing Data Analysis: A Guide to Handling Missing Data Effectively](https://dev.to/jagroop2001/optimizing-data-analysis-a-guide-to-handling-missing-data-effectively-47c9)
+- [Writing a Book with Packt](https://dev.to/integerman/writing-a-book-with-packt-551l)
 <!-- BLOG-POST-LIST:END -->
 
