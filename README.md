@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility, SustyWeb, SDGs, and upcoming European Legislation in 2024/2025 🇪🇺⚖️](https://dev.to/ingosteinke/accessibility-sustyweb-sdgs-and-upcoming-european-legislation-in-20242025-1m03)
+- [Comparing New and Previous Column Value in SharePoint on Item Modification via Power Automate](https://dev.to/iwaniukooo11/comparing-new-and-previous-column-value-in-sharepoint-on-item-modification-via-power-automate-5c8k)
+- [TypeScript and React: Enforcing Props for Accessibility](https://dev.to/nickytonline/typescript-and-react-enforcing-props-for-accessibility-2h49)
 - [Weekly Roundup 025 &lpar;Oct 30&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-025-oct-30-hot-topics-in-workplace-sharepoint-and-powerplatform-1811)
-- [Implementing GPT Models: A Deep Dive into Transformative AI Applications](https://dev.to/agarralexx/implementing-gpt-models-a-deep-dive-into-transformative-ai-applications-5fdp)
-- [Master Angular 17 &lpar;a study guide&rpar;](https://dev.to/this-is-angular/master-angular-17-a-study-guide-1679)
-- [AWS open source news, #178](https://dev.to/aws/aws-open-source-news-178-nmf)
 <!-- BLOG-POST-LIST:END -->
 
