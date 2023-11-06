@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
 - [Don&#39;t Eat the 🍪 [All In One Bite]](https://dev.to/cleancodestudio/dont-eat-the-all-in-one-bite-7l0)
+- [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
 - [Como deixar o Swagger com tema dark mode usando NestJS](https://dev.to/wiliamvj/como-deixar-o-swagger-com-o-tema-dark-mode-com-nestjs-405o)
-- [useRef helps you to avoid re-rendering of the component](https://dev.to/learnwithparam/useref-helps-you-to-avoid-re-rendering-of-the-component-39jn)
-- [Python Secure Password Management: Hashing and Encryption #️⃣🔐✨](https://dev.to/dpills/python-secure-password-management-hashing-and-encryption--1246)
 <!-- BLOG-POST-LIST:END -->
 
