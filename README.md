@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Steps to Solving Programming Problems](https://dev.to/onix-systems/5-steps-to-solving-programming-problems-11gc)
-- [Various storage techniques in data storage 🗄️](https://dev.to/mukeshkuiry/various-storage-techniques-in-data-storage-e10)
-- [🔥 Top 11 Open Source Innovators Who Shaped the Developer World as We Live Today 🔭🔭](https://dev.to/shreya_gr/top-11-open-source-innovators-who-shaped-the-developer-world-as-we-live-today-j0b)
-- [Ubuntu 20.x PostgreSQL 15 Yedekli Yapı - Patroni, ETCD, HA - Patroni Yeni Node Ekleme](https://dev.to/aciklab/ubuntu-20x-postgresql-15-yedekli-yapi-patroni-etcd-ha-patroni-yeni-node-ekleme-1n8c)
+- [The Complete Guide to Time Series Models](https://dev.to/jstnharmon/the-complete-guide-to-time-series-models-120d)
+- [Meme Monday](https://dev.to/ben/meme-monday-1i9a)
+- [A Step-by-Step Guide to Containerizing and Deploying Machine Learning Models with Docker!](https://dev.to/pavanbelagatti/a-step-by-step-guide-to-containerizing-and-deploying-machine-learning-models-with-docker-21al)
+- [Embracing modularity as 2024 nears](https://dev.to/opensourcee/embracing-modularity-as-2024-nears-31ha)
 <!-- BLOG-POST-LIST:END -->
 
