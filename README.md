@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly 06 Nov 2023](https://dev.to/tspannhw/flank-stack-weekly-06-nov-2023-3f4e)
-- [Comunicação, comunidade e tecnologia: detalhes sobre dia a dia de uma pessoa Tech Community Manager](https://dev.to/laricavitoriano/comunicacao-comunidade-e-tecnologia-detalhes-sobre-dia-a-dia-de-uma-pessoa-tech-community-manager-26p5)
-- [Data ethics in AI 🤖](https://dev.to/oskidev/data-ethics-in-ai-19g8)
-- [Rapyd API Request Signatures in PHP](https://dev.to/rapyd/rapyd-api-request-signatures-in-php-304f)
+- [Intern2Grow: Virtual Internships, Real Tasks](https://dev.to/ahmed0saber/intern2grow-virtual-internships-real-tasks-326n)
+- [Using AI to Generate Database Query Is Cool. But What About Access Control?](https://dev.to/zenstack/using-ai-to-generate-database-query-is-cool-but-what-about-access-control-cc)
+- [Magical C# Constructors](https://dev.to/elliezub/magical-c-constructors-i01)
+- [Raku Blog Posts 2023.45](https://dev.to/lizmat/raku-blog-posts-202345-4f9k)
 <!-- BLOG-POST-LIST:END -->
 
