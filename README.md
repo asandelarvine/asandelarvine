@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Code Generation in Rust](https://dev.to/crabnebula/introduction-to-code-generation-in-rust-5hi5)
-- [JavaScript Variable: Declaration vs. Initialization](https://dev.to/shameel/javascript-variable-declaration-vs-initialization-4d8b)
-- [Wubba Lubba Code: Rick and Morty-Approved Automation for Dev to Prod](https://dev.to/balagmadhu/wubba-lubba-code-rick-and-morty-approved-automation-for-dev-to-prod-1j0l)
-- [Power Automate - Environment Variables](https://dev.to/wyattdave/power-automate-environment-variables-a5d)
+- [Weekly Roundup 025 &lpar;Oct 30&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-025-oct-30-hot-topics-in-workplace-sharepoint-and-powerplatform-1811)
+- [Implementing GPT Models: A Deep Dive into Transformative AI Applications](https://dev.to/agarralexx/implementing-gpt-models-a-deep-dive-into-transformative-ai-applications-5fdp)
+- [Master Angular 17 &lpar;a study guide&rpar;](https://dev.to/this-is-angular/master-angular-17-a-study-guide-1679)
+- [AWS open source news, #178](https://dev.to/aws/aws-open-source-news-178-nmf)
 <!-- BLOG-POST-LIST:END -->
 
