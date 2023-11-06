@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rapyd API Request Signatures in PHP](https://dev.to/rapyd/rapyd-api-request-signatures-in-php-304f)
+- [Enhancing Your WordPress Site Speed Via Asset Optimization](https://dev.to/jexie_wren/enhancing-your-wordpress-site-speed-via-asset-optimization-184d)
 - [[Alien Hunter Series Pt. 1] Mastering the COBOL Programming Language](https://dev.to/github20k/alien-hunter-series-pt-1-mastering-the-cobol-programming-language-3kmh)
 - [🚨Avoid this mistake when running containerized applications in production](https://dev.to/antoinecoulon/avoid-this-when-running-containerized-applications-in-production-562k)
-- [Deploying a Go backend to a new Kubernetes Cluster in minutes&lpar;!&rpar;](https://dev.to/encore/deploying-a-go-backend-to-a-new-kubernetes-cluster-in-minutes-1afd)
-- [Descubriendo AWS DeepRacer: Aprendizaje en la Pista de Carreras](https://dev.to/aws-espanol/descubriendo-aws-deepracer-aprendizaje-en-la-pista-de-carreras-2d4c)
 <!-- BLOG-POST-LIST:END -->
 
