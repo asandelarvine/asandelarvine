@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Various storage techniques in data storage 🗄️](https://dev.to/mukeshkuiry/various-storage-techniques-in-data-storage-e10)
+- [🔥 Top 11 Open Source Innovators Who Shaped the Developer World as We Live Today 🔭🔭](https://dev.to/shreya_gr/top-11-open-source-innovators-who-shaped-the-developer-world-as-we-live-today-j0b)
 - [Ubuntu 20.x PostgreSQL 15 Yedekli Yapı - Patroni, ETCD, HA - Patroni Yeni Node Ekleme](https://dev.to/aciklab/ubuntu-20x-postgresql-15-yedekli-yapi-patroni-etcd-ha-patroni-yeni-node-ekleme-1n8c)
-- [⚡Understanding methods and modules in Ruby with a solved example](https://dev.to/dumebii/understanding-methods-and-modules-in-ruby-with-a-solved-example-30hf)
-- [Save Time and Stay Informed: 9 Must-Know Updates in NextJS v14 🔥](https://dev.to/usulpro/save-time-and-stay-informed-9-must-know-updates-in-nextjs-v14-5fnp)
-- [💨 How to know what&#39;s going on in your cloud 🌥️⚡️](https://dev.to/odigos/how-to-know-whats-going-on-in-your-cloud-dn6)
+- [🚀Unlocking the Power of Ruby Modules and Methods: Tutorial with Code](https://dev.to/dumebii/understanding-methods-and-modules-in-ruby-with-a-solved-example-30hf)
 <!-- BLOG-POST-LIST:END -->
 
