@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Construye un Asistente Personal con super poderes de IA Generativa](https://dev.to/ensamblador/construye-un-asistente-personal-con-super-poderes-de-ia-generativa-1593)
 - [Optimizing Data Analysis: A Guide to Handling Missing Data Effectively](https://dev.to/jagroop2001/optimizing-data-analysis-a-guide-to-handling-missing-data-effectively-47c9)
 - [Como começar a estudar Cybersecurity?](https://dev.to/xssrae/como-comecar-a-estudar-cybersecurity-39pm)
 - [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
-- [The story behind WebCrumbs](https://dev.to/opensourcee/the-story-behind-webcrumbs-4k6n)
 <!-- BLOG-POST-LIST:END -->
 
