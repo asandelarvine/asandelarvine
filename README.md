@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Variable: Declaration vs. Initialization](https://dev.to/shameel/javascript-variable-declaration-vs-initialization-4d8b)
+- [Wubba Lubba Code: Rick and Morty-Approved Automation for Dev to Prod](https://dev.to/balagmadhu/wubba-lubba-code-rick-and-morty-approved-automation-for-dev-to-prod-1j0l)
+- [Power Automate - Environment Variables](https://dev.to/wyattdave/power-automate-environment-variables-a5d)
 - [Tricksters of JavaScript](https://dev.to/tanmaycode/tricksters-of-javascript-6b)
-- [How to Save Single or Multiple Records Using API Maker 🚀](https://dev.to/apimaker/how-to-save-single-or-multiple-records-using-api-maker-453d)
-- [IDURAR Open Source Code Alternative to SalesForce 🎉Got 2000 Stars on GitHub 🌟](https://dev.to/idurar/idurar-open-source-code-alternative-to-salesforce-got-2000-stars-on-github-26o9)
-- [Construye un Asistente Personal con super poderes de IA Generativa](https://dev.to/ensamblador/construye-un-asistente-personal-con-super-poderes-de-ia-generativa-1593)
 <!-- BLOG-POST-LIST:END -->
 
