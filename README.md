@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility, SustyWeb, SDGs, and upcoming European Legislation in 2024/2025 🇪🇺⚖️](https://dev.to/ingosteinke/accessibility-sustyweb-sdgs-and-upcoming-european-legislation-in-20242025-1m03)
-- [Comparing New and Previous Column Value in SharePoint on Item Modification via Power Automate](https://dev.to/iwaniukooo11/comparing-new-and-previous-column-value-in-sharepoint-on-item-modification-via-power-automate-5c8k)
-- [TypeScript and React: Enforcing Props for Accessibility](https://dev.to/nickytonline/typescript-and-react-enforcing-props-for-accessibility-2h49)
-- [Weekly Roundup 025 &lpar;Oct 30&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-025-oct-30-hot-topics-in-workplace-sharepoint-and-powerplatform-1811)
+- [Ubuntu 20.x PostgreSQL 15 Yedekli Yapı - Patroni, ETCD, HA - Patroni Yeni Node Ekleme](https://dev.to/aciklab/ubuntu-20x-postgresql-15-yedekli-yapi-patroni-etcd-ha-patroni-yeni-node-ekleme-1n8c)
+- [⚡Understanding methods and modules in Ruby with a solved example](https://dev.to/dumebii/understanding-methods-and-modules-in-ruby-with-a-solved-example-30hf)
+- [Save Time and Stay Informed: 9 Must-Know Updates in NextJS v14 🔥](https://dev.to/usulpro/save-time-and-stay-informed-9-must-know-updates-in-nextjs-v14-5fnp)
+- [💨 How to know what&#39;s going on in your cloud 🌥️⚡️](https://dev.to/odigos/how-to-know-whats-going-on-in-your-cloud-dn6)
 <!-- BLOG-POST-LIST:END -->
 
