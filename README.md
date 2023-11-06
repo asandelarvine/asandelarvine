@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinker in Lumen: Your Ultimate Debugging Companion](https://dev.to/jackmiras/tinker-in-lumen-your-ultimate-debugging-companion-102e)
+- [5 Open-Source Repositories for Faster Development in Monolithic Architecture](https://dev.to/flagsmith/5-open-source-repositories-for-faster-development-in-monolithic-architecture-52c0)
 - [The Complete Guide to Time Series Models](https://dev.to/jstnharmon/the-complete-guide-to-time-series-models-120d)
 - [Meme Monday](https://dev.to/ben/meme-monday-1i9a)
-- [A Step-by-Step Guide to Containerizing and Deploying Machine Learning Models with Docker!](https://dev.to/pavanbelagatti/a-step-by-step-guide-to-containerizing-and-deploying-machine-learning-models-with-docker-21al)
-- [Embracing modularity as 2024 nears](https://dev.to/opensourcee/embracing-modularity-as-2024-nears-31ha)
 <!-- BLOG-POST-LIST:END -->
 
