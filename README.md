@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Data Analysis: A Guide to Handling Missing Data Effectively](https://dev.to/jagroop2001/optimizing-data-analysis-a-guide-to-handling-missing-data-effectively-47c9)
+- [Como começar a estudar Cybersecurity?](https://dev.to/xssrae/como-comecar-a-estudar-cybersecurity-39pm)
 - [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
-- [Don&#39;t Eat the 🍪 [All In One Bite]](https://dev.to/cleancodestudio/dont-eat-the-all-in-one-bite-7l0)
-- [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
-- [Como deixar o Swagger com tema dark mode usando NestJS](https://dev.to/wiliamvj/como-deixar-o-swagger-com-o-tema-dark-mode-com-nestjs-405o)
+- [The story behind WebCrumbs](https://dev.to/opensourcee/the-story-behind-webcrumbs-4k6n)
 <!-- BLOG-POST-LIST:END -->
 
