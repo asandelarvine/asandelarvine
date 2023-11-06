@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Code Generation in Rust](https://dev.to/crabnebula/introduction-to-code-generation-in-rust-5hi5)
 - [JavaScript Variable: Declaration vs. Initialization](https://dev.to/shameel/javascript-variable-declaration-vs-initialization-4d8b)
 - [Wubba Lubba Code: Rick and Morty-Approved Automation for Dev to Prod](https://dev.to/balagmadhu/wubba-lubba-code-rick-and-morty-approved-automation-for-dev-to-prod-1j0l)
 - [Power Automate - Environment Variables](https://dev.to/wyattdave/power-automate-environment-variables-a5d)
-- [Tricksters of JavaScript](https://dev.to/tanmaycode/tricksters-of-javascript-6b)
 <!-- BLOG-POST-LIST:END -->
 
