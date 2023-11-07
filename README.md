@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mojo - A New Programming Language for AI](https://dev.to/refine/mojo-a-new-programming-language-for-ai-16n5)
-- [17 Essential Tools to Boost Your Productivity 🚀🔥](https://dev.to/madza/17-essential-tools-to-boost-your-productivity-4ncl)
-- [Outsourcing cons and pros](https://dev.to/hasanelsherbiny/outsourcing-cons-and-pros-18jn)
-- [Feedback needed: Cerbos Hub is now in public beta!](https://dev.to/cerbos/feedback-needed-cerbos-hub-is-now-in-public-beta-i2j)
+- [AI is nice you said? Look what happened at my OpenFest talk. 🤖](https://dev.to/bogomil/ai-is-nice-you-said-look-what-happened-at-my-openfest-talk-abj)
+- [Leveraging Travel Booking APIs for Tourism Providers: Enhancing the Customer Experience](https://dev.to/onix-systems/leveraging-travel-booking-apis-for-tourism-providers-enhancing-the-customer-experience-1d5g)
+- [Two simple rules for better and more secure code](https://dev.to/azasypkin/two-simple-rules-for-better-and-more-secure-code-166j)
+- [Google Icons from Google Fonts with Nextjs](https://dev.to/sabbirsobhani/google-icons-from-google-fonts-with-nextjs-11pa)
 <!-- BLOG-POST-LIST:END -->
 
