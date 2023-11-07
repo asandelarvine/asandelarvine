@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Novu 0.21?](https://dev.to/novu/whats-new-in-novu-021-1bam)
 - [The Complete Guide to Time Series Models.](https://dev.to/dkkinyua/the-complete-guide-to-time-series-models-305i)
 - [AI is nice you said? Look what happened at my OpenFest talk. 🤖](https://dev.to/bogomil/ai-is-nice-you-said-look-what-happened-at-my-openfest-talk-abj)
 - [Leveraging Travel Booking APIs for Tourism Providers: Enhancing the Customer Experience](https://dev.to/onix-systems/leveraging-travel-booking-apis-for-tourism-providers-enhancing-the-customer-experience-1d5g)
-- [Two simple rules for better and more secure code](https://dev.to/azasypkin/two-simple-rules-for-better-and-more-secure-code-166j)
 <!-- BLOG-POST-LIST:END -->
 
