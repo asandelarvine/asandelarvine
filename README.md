@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 83: Push Notifications](https://dev.to/dhrn/day-83-push-notifications-274a)
+- [I made a CSS Frankenstein 👻](https://dev.to/francescovetere/i-made-a-css-frankenstein-ahk)
 - [Python Multithreading: Benefits, Use Cases, and Comparison](https://dev.to/get_pieces/python-multithreading-benefits-use-cases-and-comparison-20na)
-- [A Complete Guide to Getting Started in Open Source](https://dev.to/opensauced/a-complete-guide-to-getting-started-in-open-source-2449)
-- [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)
-- [Data Engineering For Beginners: A Step-By-Step Guide](https://dev.to/k_ndrick/data-engineering-for-beginners-a-step-by-step-guide-3d1f)
+- [Day 8 Rejected In An Interview](https://dev.to/harshaart/day-8-rejected-in-an-interview-5al0)
 <!-- BLOG-POST-LIST:END -->
 
