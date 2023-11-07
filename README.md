@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [XRPL Accelerator Unveils 11 Cutting-Edge Projects as Part of its Second Cohort](https://dev.to/sopvictori/xrpl-accelerator-unveils-11-cutting-edge-projects-as-part-of-its-second-cohort-1ik1)
+- [Using HTTP Headers for faster Responses](https://dev.to/stneto1/using-http-headers-for-faster-responses-3oc2)
 - [Effective Code Documentation: Best Practices for Developers](https://dev.to/baransel/effective-code-documentation-best-practices-for-developers-4n7)
 - [How I Found a Front-End Bug on Spotify&#39;s Mobile App: Bug Bounty and Beyond](https://dev.to/aswin2001barath/how-i-found-a-front-end-bug-on-spotifys-mobile-app-bug-bounty-and-beyond-2lbi)
-- [Top 10 Software Development KPIs](https://dev.to/clickit_devops/top-10-software-development-kpis-252c)
-- [Bootstrap v/s Tailwind CSS: Which Front-End Framework is Right for You?](https://dev.to/sanjeevani/bootstrap-vs-tailwind-css-which-front-end-framework-is-right-for-you-19j3)
 <!-- BLOG-POST-LIST:END -->
 
