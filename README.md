@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Returning to Fundamentals: A Step-by-Step Guide for Structuring Company Departments with Folders in SharePoint Online](https://dev.to/jaloplo/returning-to-fundamentals-a-step-by-step-guide-for-structuring-company-departments-with-folders-in-sharepoint-online-2m0e)
-- [ArtistAssistApp - the open source web app to paint better with ease 🖌️🎨🖼️](https://dev.to/eugene-khyst/artistassistapp-the-open-source-web-app-to-paint-better-with-ease-10da)
-- [MDB React v.7 is out!](https://dev.to/mdbootstrap/mdb-react-v7-is-out-3g09)
-- [It&#39;s been nearly 50 years. Is SQL outdated?](https://dev.to/esproc_spl/its-been-nearly-50-years-is-sql-outdated-23od)
+- [Outsourcing cons and pros](https://dev.to/hasanelsherbiny/outsourcing-cons-and-pros-18jn)
+- [Feedback needed: Cerbos Hub is now in public beta!](https://dev.to/cerbos/feedback-needed-cerbos-hub-is-now-in-public-beta-i2j)
+- [Building an Expandable Header with Tailwind CSS and Alpine.js](https://dev.to/cruip_com/building-an-expandable-header-with-tailwind-css-and-alpinejs-1na1)
+- [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 1](https://dev.to/this-is-learning/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-1-h49)
 <!-- BLOG-POST-LIST:END -->
 
