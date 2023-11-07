@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DynamoDB: A Beginner&#39;s Guide to Amazon&#39;s NoSQL Database](https://dev.to/yogini16/dynamodb-a-beginners-guide-to-amazons-nosql-database-55jn)
+- [11. Implementing Authentication in Microservices with NestJS](https://dev.to/techjayvee/11-implementing-authentication-in-microservices-with-nestjs-2jah)
 - [How to write a well-written README](https://dev.to/jeeanny/how-to-write-a-well-written-readme-20im)
 - [Natural Cron ⏰⏰](https://dev.to/satyajitnayak/natural-cron-2l3o)
-- [🔥🚀 Top 10 Open-Source Must-Have Tools for Crafting Your Own Chatbot 🤖💬](https://dev.to/kiselitza/top-10-open-source-must-have-tools-for-crafting-your-own-chatbot-58d8)
-- [Demystifying Materialized Views in PostgreSQL](https://dev.to/adii9/demystifying-materialized-views-in-postgresql-48h4)
 <!-- BLOG-POST-LIST:END -->
 
