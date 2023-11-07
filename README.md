@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Multithreading: Benefits, Use Cases, and Comparison](https://dev.to/get_pieces/python-multithreading-benefits-use-cases-and-comparison-20na)
+- [A Complete Guide to Getting Started in Open Source](https://dev.to/opensauced/a-complete-guide-to-getting-started-in-open-source-2449)
+- [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)
 - [Data Engineering For Beginners: A Step-By-Step Guide](https://dev.to/k_ndrick/data-engineering-for-beginners-a-step-by-step-guide-3d1f)
-- [Crafting a Language Server in Golang: A VSCode LSP for Lama2](https://dev.to/lovestaco/crafting-a-language-server-in-golang-a-vscode-lsp-for-lama2-34l4)
-- [The Road to GraphQL At Enterprise Scale](https://dev.to/shevchenkonik/the-road-to-graphql-at-enterprise-scale-j01)
-- [Appwrite&#39;s Hacktoberfest 2023 journey](https://dev.to/appwrite/appwrites-hacktoberfest-2023-journey-4i8k)
 <!-- BLOG-POST-LIST:END -->
 
