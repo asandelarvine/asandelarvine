@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node Package Manager🦆🦆🦆🦆](https://dev.to/tanmaycode/node-package-manager-5ff4)
+- [Simplifying CRUD Operations with Firestore and Flutter: A Beginner&#39;s Guide](https://dev.to/dhanush17tech/simplifying-crud-operations-with-firestore-and-flutter-a-beginners-guide-57b1)
+- [Resources for Learning Programming: Books, Courses, and Websites](https://dev.to/saloman_james/resources-for-learning-programming-books-courses-and-websites-53aa)
 - [DynamoDB: A Beginner&#39;s Guide to Amazon&#39;s NoSQL Database](https://dev.to/yogini16/dynamodb-a-beginners-guide-to-amazons-nosql-database-55jn)
-- [11. Implementing Authentication in Microservices with NestJS](https://dev.to/techjayvee/11-implementing-authentication-in-microservices-with-nestjs-2jah)
-- [How to write a well-written README](https://dev.to/jeeanny/how-to-write-a-well-written-readme-20im)
-- [Natural Cron ⏰⏰](https://dev.to/satyajitnayak/natural-cron-2l3o)
 <!-- BLOG-POST-LIST:END -->
 
