@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mojo - A New Programming Language for AI](https://dev.to/refine/mojo-a-new-programming-language-for-ai-16n5)
+- [17 Essential Tools to Boost Your Productivity 🚀🔥](https://dev.to/madza/17-essential-tools-to-boost-your-productivity-4ncl)
 - [Outsourcing cons and pros](https://dev.to/hasanelsherbiny/outsourcing-cons-and-pros-18jn)
 - [Feedback needed: Cerbos Hub is now in public beta!](https://dev.to/cerbos/feedback-needed-cerbos-hub-is-now-in-public-beta-i2j)
-- [Building an Expandable Header with Tailwind CSS and Alpine.js](https://dev.to/cruip_com/building-an-expandable-header-with-tailwind-css-and-alpinejs-1na1)
-- [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 1](https://dev.to/this-is-learning/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-1-h49)
 <!-- BLOG-POST-LIST:END -->
 
