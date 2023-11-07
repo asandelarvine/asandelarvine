@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bootstrap v/s Tailwind CSS: Which Front-End Framework is Right for You?](https://dev.to/sanjeevani/bootstrap-vs-tailwind-css-which-front-end-framework-is-right-for-you-19j3)
+- [Decoding PHP&#39;s Empty Value Functions: When to Use Which](https://dev.to/salmazz/php-check-for-empty-values-vs-isnull-vs-isset-vs-isempty-46k4)
+- [Config-file-validator v1.5.0 Released!](https://dev.to/kehoecj/config-file-validator-v150-released-3acg)
 - [Day 83: Push Notifications](https://dev.to/dhrn/day-83-push-notifications-274a)
-- [I made a CSS Frankenstein 👻](https://dev.to/francescovetere/i-made-a-css-frankenstein-ahk)
-- [Python Multithreading: Benefits, Use Cases, and Comparison](https://dev.to/get_pieces/python-multithreading-benefits-use-cases-and-comparison-20na)
-- [Day 8 Rejected In An Interview](https://dev.to/harshaart/day-8-rejected-in-an-interview-5al0)
 <!-- BLOG-POST-LIST:END -->
 
