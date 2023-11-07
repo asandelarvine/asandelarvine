@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas de codificação segura em C#](https://dev.to/gabogaldino/dicas-de-codificacao-segura-em-c-o1p)
+- [Put that Framework Down Before Someone Gets Hurt](https://dev.to/wagslane/put-that-framework-down-before-someone-gets-hurt-29fn)
+- [Updates from the Angular Team and new Angular 17 features!](https://dev.to/ismaestro/updates-from-the-angular-team-and-new-angular-17-features-2pld)
 - [What’s new in Novu 0.21?](https://dev.to/novu/whats-new-in-novu-021-1bam)
-- [The Complete Guide to Time Series Models.](https://dev.to/dkkinyua/the-complete-guide-to-time-series-models-305i)
-- [AI is nice you said? Look what happened at my OpenFest talk. 🤖](https://dev.to/bogomil/ai-is-nice-you-said-look-what-happened-at-my-openfest-talk-abj)
-- [Leveraging Travel Booking APIs for Tourism Providers: Enhancing the Customer Experience](https://dev.to/onix-systems/leveraging-travel-booking-apis-for-tourism-providers-enhancing-the-customer-experience-1d5g)
 <!-- BLOG-POST-LIST:END -->
 
