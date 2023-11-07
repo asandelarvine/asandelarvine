@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node Package Manager🦆🦆🦆🦆](https://dev.to/tanmaycode/node-package-manager-5ff4)
-- [Simplifying CRUD Operations with Firestore and Flutter: A Beginner&#39;s Guide](https://dev.to/dhanush17tech/simplifying-crud-operations-with-firestore-and-flutter-a-beginners-guide-57b1)
-- [Resources for Learning Programming: Books, Courses, and Websites](https://dev.to/saloman_james/resources-for-learning-programming-books-courses-and-websites-53aa)
-- [DynamoDB: A Beginner&#39;s Guide to Amazon&#39;s NoSQL Database](https://dev.to/yogini16/dynamodb-a-beginners-guide-to-amazons-nosql-database-55jn)
+- [MDB React v.7 is out!](https://dev.to/mdbootstrap/mdb-react-v7-is-out-3g09)
+- [It&#39;s been nearly 50 years. Is SQL outdated?](https://dev.to/esproc_spl/its-been-nearly-50-years-is-sql-outdated-23od)
+- [What&#39;s new in OpenAI - Announcements at Nov&#39;2023 DevDay](https://dev.to/maximsaplin/whats-new-in-openai-announcements-at-nov2023-devday-1k7c)
+- [POE Prompt Generator](https://dev.to/foxinfotech/poe-prompt-generator-1kf6)
 <!-- BLOG-POST-LIST:END -->
 
