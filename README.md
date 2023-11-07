@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥🚀 Top 10 Open-Source Must-Have Tools for Crafting Your Own Chatbot 🤖💬](https://dev.to/kiselitza/top-10-open-source-must-have-tools-for-crafting-your-own-chatbot-58d8)
 - [Demystifying Materialized Views in PostgreSQL](https://dev.to/adii9/demystifying-materialized-views-in-postgresql-48h4)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ho)
 - [How to use labels in Appwrite to create a subscription system](https://dev.to/hackmamba/how-to-use-labels-in-appwrite-to-create-a-subscription-system-ad6)
-- [Intern2Grow: Virtual Internships, Real Tasks](https://dev.to/ahmed0saber/intern2grow-virtual-internships-real-tasks-326n)
 <!-- BLOG-POST-LIST:END -->
 
