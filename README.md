@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Found a Front-End Bug on Spotify&#39;s Mobile App: Bug Bounty and Beyond](https://dev.to/aswin2001barath/how-i-found-a-front-end-bug-on-spotifys-mobile-app-bug-bounty-and-beyond-2lbi)
 - [Bootstrap v/s Tailwind CSS: Which Front-End Framework is Right for You?](https://dev.to/sanjeevani/bootstrap-vs-tailwind-css-which-front-end-framework-is-right-for-you-19j3)
 - [Decoding PHP&#39;s Empty Value Functions: When to Use Which](https://dev.to/salmazz/php-check-for-empty-values-vs-isnull-vs-isset-vs-isempty-46k4)
-- [Config-file-validator v1.5.0 Released!](https://dev.to/kehoecj/config-file-validator-v150-released-3acg)
-- [Day 83: Push Notifications](https://dev.to/dhrn/day-83-push-notifications-274a)
+- [Reasoning behind automated tests](https://dev.to/negrel/reasoning-behind-automated-tests-33l5)
 <!-- BLOG-POST-LIST:END -->
 
