@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas de codificação segura em C#](https://dev.to/gabogaldino/dicas-de-codificacao-segura-em-c-o1p)
-- [Put that Framework Down Before Someone Gets Hurt](https://dev.to/wagslane/put-that-framework-down-before-someone-gets-hurt-29fn)
-- [Updates from the Angular Team and new Angular 17 features!](https://dev.to/ismaestro/updates-from-the-angular-team-and-new-angular-17-features-2pld)
-- [What’s new in Novu 0.21?](https://dev.to/novu/whats-new-in-novu-021-1bam)
+- [Data Engineering For Beginners: A Step-By-Step Guide](https://dev.to/k_ndrick/data-engineering-for-beginners-a-step-by-step-guide-3d1f)
+- [Crafting a Language Server in Golang: A VSCode LSP for Lama2](https://dev.to/lovestaco/crafting-a-language-server-in-golang-a-vscode-lsp-for-lama2-34l4)
+- [The Road to GraphQL At Enterprise Scale](https://dev.to/shevchenkonik/the-road-to-graphql-at-enterprise-scale-j01)
+- [Appwrite&#39;s Hacktoberfest 2023 journey](https://dev.to/appwrite/appwrites-hacktoberfest-2023-journey-4i8k)
 <!-- BLOG-POST-LIST:END -->
 
