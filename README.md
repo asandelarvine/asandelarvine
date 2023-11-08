@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up AWS CICD](https://dev.to/codingcrafts/setting-up-aws-cicd-32n1)
 - [Google Chrome&#39;s New UI Refresh 2023 &lpar;I love it!&rpar;](https://dev.to/aswin2001barath/chrome-new-ui-refresh-2023-i-love-it-1b5d)
 - [Learning Probability through a Story.](https://dev.to/jagroop2001/learning-probability-through-a-story-377n)
 - [Exploring HTTP Requests in Flutter](https://dev.to/raman04byte/exploring-http-requests-in-flutter-1d3b)
-- [Random Data Generator Website](https://dev.to/satyajitnayak/random-data-generator-website-21hc)
 <!-- BLOG-POST-LIST:END -->
 
