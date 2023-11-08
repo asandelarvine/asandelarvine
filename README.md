@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Benefits of Combining Thigh and Buttock Lift Procedures?](https://dev.to/pacificaspa/what-are-the-benefits-of-combining-thigh-and-buttock-lift-procedures-efn)
+- [Next JS might be exposing your backend environment variables](https://dev.to/thecodeinfluencer/next-js-might-be-exposing-your-backend-environment-variables-4bmd)
 - [Crafting a basic React IP Address Fetch Utility for beginners: From Start to Finish](https://dev.to/alexopensource/crafting-a-basic-react-ip-address-fetch-utility-for-beginners-from-start-to-finish-k4k)
 - [Tree Shaking in JavaScript: Boost Web Performance](https://dev.to/kartikbudhraja/tree-shaking-in-javascript-boost-web-performance-1ach)
-- [File Upload with Progress Bar HTML CSS &amp; JavaScript](https://dev.to/codingcss/file-upload-with-progress-bar-html-css-javascript-341c)
-- [What is Linting and how to use a Linter tool.](https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l)
 <!-- BLOG-POST-LIST:END -->
 
