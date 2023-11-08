@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Modules Architecture: Dependency Management _ Build your own gradle plugin](https://dev.to/ham8821/multi-modules-architecture-dependency-management-build-your-own-gradle-plugin-1p1g)
+- [How to build the Client-Server Architecture using Self Hosted WCF Service and WPF Client?](https://dev.to/ifourtechnolab/how-to-build-the-client-server-architecture-using-self-hosted-wcf-service-and-wpf-client-4npm)
 - [Ethonline 2023, my experience, challenge, and Lessons Learnt](https://dev.to/joshuajee/ethonline-2023-my-experience-challenge-and-lessons-learnt-1o1p)
 - [Guide To Learn Dayjs](https://dev.to/shameel/guide-to-learn-dayjs-36l9)
-- [Setting up AWS CICD](https://dev.to/codingcrafts/setting-up-aws-cicd-32n1)
-- [Google Chrome&#39;s New UI Refresh 2023 &lpar;I love it!&rpar;](https://dev.to/aswin2001barath/chrome-new-ui-refresh-2023-i-love-it-1b5d)
 <!-- BLOG-POST-LIST:END -->
 
