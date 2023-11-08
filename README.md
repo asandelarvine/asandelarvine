@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using Lambda Layers &lpar;use this instead&rpar;](https://dev.to/aws-heroes/stop-using-lambda-layers-use-this-instead-46o0)
+- [Set and Map in JavaScript: A Close Look](https://dev.to/rasaf_ibrahim/set-and-map-in-javascript-a-close-look-h01)
 - [Transaction Per Second &lpar;TPS&rpar;](https://dev.to/fromaline/transaction-per-second-tps-3f8b)
 - [Learn serverless on AWS step-by-step: Upload files on S3](https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-upload-files-on-s3-50d4)
-- [🚀Creating a resume builder with NextJS, Trigger.dev and GPT4🔥✨](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
-- [Low-Code No-Code: Shaping the Future of Software Development](https://dev.to/dhruvjoshi9/low-code-no-code-shaping-the-future-of-software-development-1d3p)
 <!-- BLOG-POST-LIST:END -->
 
