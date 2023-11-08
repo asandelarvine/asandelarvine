@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Transaction Per Second &lpar;TPS&rpar;](https://dev.to/fromaline/transaction-per-second-tps-3f8b)
+- [Learn serverless on AWS step-by-step: Upload files on S3](https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-upload-files-on-s3-50d4)
 - [🚀Creating a resume builder with NextJS, Trigger.dev and GPT4🔥✨](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
 - [Low-Code No-Code: Shaping the Future of Software Development](https://dev.to/dhruvjoshi9/low-code-no-code-shaping-the-future-of-software-development-1d3p)
-- [Seeking SSR Pioneers: Join WebCrumbs&#39; Research and Experimentation Efforts](https://dev.to/opensourcee/seeking-ssr-pioneers-join-webcrumbs-research-and-experimentation-efforts-4ncn)
-- [Cypress vs. Sorry-Cypress - Decoding the Drama](https://dev.to/inanoniloquent/cypress-vs-sorry-cypress-decoding-the-drama-4an4)
 <!-- BLOG-POST-LIST:END -->
 
