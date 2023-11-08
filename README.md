@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Random Data Generator Website](https://dev.to/satyajitnayak/random-data-generator-website-21hc)
+- [Introduction to Backend Security](https://dev.to/fonyuygita/introduction-to-backend-security-5dlp)
+- [Introducing Humming-Bird v3](https://dev.to/rawleyfowler/introducing-humming-bird-v3-3eni)
 - [Instalar Zabbix Agent no Sistema Operacional Windows via Script Batch](https://dev.to/alfredotavio/instalar-zabbix-agent-no-sistema-operacional-windows-via-script-batch-hgk)
-- [Is Managing Your Manager an Art to Master?](https://dev.to/sloan/is-managing-your-manager-an-art-to-master-3di8)
-- [XRPL Accelerator Unveils 11 Cutting-Edge Projects as Part of its Second Cohort](https://dev.to/sopvictori/xrpl-accelerator-unveils-11-cutting-edge-projects-as-part-of-its-second-cohort-1ik1)
-- [Using HTTP Headers for faster Responses](https://dev.to/stneto1/using-http-headers-for-faster-responses-3oc2)
 <!-- BLOG-POST-LIST:END -->
 
