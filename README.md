@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Freelancing While Homeschooling&quot;: CodeNewbie Podcast S26E2](https://dev.to/codenewbieteam/freelancing-while-homeschooling-codenewbie-podcast-s26e2-ke4)
+- [Importance of File system in system design 📂](https://dev.to/mukeshkuiry/importance-of-file-system-in-system-design-475e)
+- [Computer vision to digitize MSK rehabilitation](https://dev.to/abtosoftware/computer-vision-to-digitize-msk-rehabilitation-18d0)
 - [How it went Today?](https://dev.to/craftingbugs/how-it-went-today-5chm)
-- [A Developer’s Guide to Implementing a Design System &lpar;Part 2&rpar;](https://dev.to/kathryngrayson/a-developers-guide-to-implementing-a-design-system-part-2-4inl)
-- [Design Tokens: Cool Philosophy, Cumbersome Experience](https://dev.to/devdalgic/design-tokens-cool-philosophy-cumbersome-experience-3im8)
-- [Function Calling and Code Interpretation with OpenAI&#39;s Assistant API: A Quick and Simple Tutorial](https://dev.to/airtai/function-calling-and-code-interpretation-with-openais-assistant-api-a-quick-and-simple-tutorial-5ce5)
 <!-- BLOG-POST-LIST:END -->
 
