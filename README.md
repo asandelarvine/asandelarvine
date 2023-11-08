@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Tokens: Cool Philosophy, Cumbersome Experience](https://dev.to/devdalgic/design-tokens-cool-philosophy-cumbersome-experience-3im8)
+- [Function Calling and Code Interpretation with OpenAI&#39;s Assistant API: A Quick and Simple Tutorial](https://dev.to/airtai/function-calling-and-code-interpretation-with-openais-assistant-api-a-quick-and-simple-tutorial-5ce5)
 - [🕵️ Looking at the top 5 FREE Alternatives to Postman 🔥](https://dev.to/quine/looking-at-the-top-5-free-alternatives-to-postman-58jl)
 - [Does an OpenAi outage have an impact on your workflow?](https://dev.to/ben/does-an-openai-outage-have-an-impact-on-your-workflow-3gph)
-- [Stop using Lambda Layers &lpar;use this instead&rpar;](https://dev.to/aws-heroes/stop-using-lambda-layers-use-this-instead-46o0)
-- [Set and Map in JavaScript: A Close Look](https://dev.to/rasaf_ibrahim/set-and-map-in-javascript-a-close-look-h01)
 <!-- BLOG-POST-LIST:END -->
 
