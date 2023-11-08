@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice to a New Engineer](https://dev.to/anotherengineer/advice-to-a-new-engineer-1a62)
+- [Supercharge Your Testing Workflow: Creating Unit and E2E Tests 10x Faster with ChatGPT-3 Inside NestJS](https://dev.to/henriqueweiand/supercharge-your-testing-workflow-creating-unit-and-e2e-tests-10x-faster-with-chatgpt-3-inside-nestjs-4kin)
 - [The Ultimate Guide To GraphQL Error Handling](https://dev.to/oliverjumpertz/the-ultimate-guide-to-graphql-error-handling-1j2a)
 - [Why Should You Learn OCaml?](https://dev.to/renatoalencar/why-should-you-learn-ocaml-1pll)
-- [TOP - Objects and Object Constructors](https://dev.to/copious/top-objects-and-object-constructors-1p0)
-- [What Are the Benefits of Combining Thigh and Buttock Lift Procedures?](https://dev.to/pacificaspa/what-are-the-benefits-of-combining-thigh-and-buttock-lift-procedures-efn)
 <!-- BLOG-POST-LIST:END -->
 
