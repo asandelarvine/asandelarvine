@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Modules Architecture: Dependency Management _ Build your own gradle plugin](https://dev.to/ham8821/multi-modules-architecture-dependency-management-build-your-own-gradle-plugin-1p1g)
-- [How to build the Client-Server Architecture using Self Hosted WCF Service and WPF Client?](https://dev.to/ifourtechnolab/how-to-build-the-client-server-architecture-using-self-hosted-wcf-service-and-wpf-client-4npm)
-- [Exploring Resilience4j: Enhancing Circuit Breaker Patterns for Robust Applications](https://dev.to/maheshbabu11/exploring-resilience4j-enhancing-circuit-breaker-patterns-for-robust-applications-3i8e)
-- [💻 Web Development Resources #173](https://dev.to/vincenius/web-development-resources-173-3oil)
+- [Ensuring effective cloud security: Best practices and real-world insights](https://dev.to/gbadeboife/ensuring-effective-cloud-security-best-practices-and-real-world-insights-1ang)
+- [Welcome Thread - v250](https://dev.to/devteam/welcome-thread-v250-1hhd)
+- [How we used Neural network, Replicate.com, and WebGL to generate photorealistic 3D avatars for the GitNation portal`s users](https://dev.to/focusreactive/how-we-used-neural-network-replicatecom-and-webgl-to-generate-photorealistic-3d-avatars-for-the-gitnation-portals-users-3cim)
+- [Tackle DDOS attacks with Redis Rate Limiting](https://dev.to/reeshee/tackle-ddos-with-redis-rate-limiting-3n1i)
 <!-- BLOG-POST-LIST:END -->
 
