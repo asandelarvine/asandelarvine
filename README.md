@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting a basic React IP Address Fetch Utility for beginners: From Start to Finish](https://dev.to/alexopensource/crafting-a-basic-react-ip-address-fetch-utility-for-beginners-from-start-to-finish-k4k)
+- [Tree Shaking in JavaScript: Boost Web Performance](https://dev.to/kartikbudhraja/tree-shaking-in-javascript-boost-web-performance-1ach)
+- [File Upload with Progress Bar HTML CSS &amp; JavaScript](https://dev.to/codingcss/file-upload-with-progress-bar-html-css-javascript-341c)
 - [What is Linting and how to use a Linter tool.](https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l)
-- [&quot;Freelancing While Homeschooling&quot;: CodeNewbie Podcast S26E2](https://dev.to/codenewbieteam/freelancing-while-homeschooling-codenewbie-podcast-s26e2-ke4)
-- [Importance of File system in system design 📂](https://dev.to/mukeshkuiry/importance-of-file-system-in-system-design-475e)
-- [Computer vision to digitize MSK rehabilitation](https://dev.to/abtosoftware/computer-vision-to-digitize-msk-rehabilitation-18d0)
 <!-- BLOG-POST-LIST:END -->
 
