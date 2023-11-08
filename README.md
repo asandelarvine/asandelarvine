@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Instalar Zabbix Agent no Sistema Operacional Windows via Script Batch](https://dev.to/alfredotavio/instalar-zabbix-agent-no-sistema-operacional-windows-via-script-batch-hgk)
+- [Is Managing Your Manager an Art to Master?](https://dev.to/sloan/is-managing-your-manager-an-art-to-master-3di8)
 - [XRPL Accelerator Unveils 11 Cutting-Edge Projects as Part of its Second Cohort](https://dev.to/sopvictori/xrpl-accelerator-unveils-11-cutting-edge-projects-as-part-of-its-second-cohort-1ik1)
 - [Using HTTP Headers for faster Responses](https://dev.to/stneto1/using-http-headers-for-faster-responses-3oc2)
-- [Effective Code Documentation: Best Practices for Developers](https://dev.to/baransel/effective-code-documentation-best-practices-for-developers-4n7)
-- [How I Found a Front-End Bug on Spotify&#39;s Mobile App: Bug Bounty and Beyond](https://dev.to/aswin2001barath/how-i-found-a-front-end-bug-on-spotifys-mobile-app-bug-bounty-and-beyond-2lbi)
 <!-- BLOG-POST-LIST:END -->
 
