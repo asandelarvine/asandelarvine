@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How it went Today?](https://dev.to/craftingbugs/how-it-went-today-5chm)
+- [A Developer’s Guide to Implementing a Design System &lpar;Part 2&rpar;](https://dev.to/kathryngrayson/a-developers-guide-to-implementing-a-design-system-part-2-4inl)
 - [Design Tokens: Cool Philosophy, Cumbersome Experience](https://dev.to/devdalgic/design-tokens-cool-philosophy-cumbersome-experience-3im8)
 - [Function Calling and Code Interpretation with OpenAI&#39;s Assistant API: A Quick and Simple Tutorial](https://dev.to/airtai/function-calling-and-code-interpretation-with-openais-assistant-api-a-quick-and-simple-tutorial-5ce5)
-- [🕵️ Looking at the top 5 FREE Alternatives to Postman 🔥](https://dev.to/quine/looking-at-the-top-5-free-alternatives-to-postman-58jl)
-- [Does an OpenAi outage have an impact on your workflow?](https://dev.to/ben/does-an-openai-outage-have-an-impact-on-your-workflow-3gph)
 <!-- BLOG-POST-LIST:END -->
 
