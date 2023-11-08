@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide To GraphQL Error Handling](https://dev.to/oliverjumpertz/the-ultimate-guide-to-graphql-error-handling-1j2a)
+- [Why Should You Learn OCaml?](https://dev.to/renatoalencar/why-should-you-learn-ocaml-1pll)
+- [TOP - Objects and Object Constructors](https://dev.to/copious/top-objects-and-object-constructors-1p0)
 - [What Are the Benefits of Combining Thigh and Buttock Lift Procedures?](https://dev.to/pacificaspa/what-are-the-benefits-of-combining-thigh-and-buttock-lift-procedures-efn)
-- [Next JS might be exposing your backend environment variables](https://dev.to/thecodeinfluencer/next-js-might-be-exposing-your-backend-environment-variables-4bmd)
-- [Crafting a basic React IP Address Fetch Utility for beginners: From Start to Finish](https://dev.to/alexopensource/crafting-a-basic-react-ip-address-fetch-utility-for-beginners-from-start-to-finish-k4k)
-- [Tree Shaking in JavaScript: Boost Web Performance](https://dev.to/kartikbudhraja/tree-shaking-in-javascript-boost-web-performance-1ach)
 <!-- BLOG-POST-LIST:END -->
 
