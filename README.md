@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring HTTP Requests in Flutter](https://dev.to/raman04byte/exploring-http-requests-in-flutter-1d3b)
 - [Random Data Generator Website](https://dev.to/satyajitnayak/random-data-generator-website-21hc)
 - [Introduction to Backend Security](https://dev.to/fonyuygita/introduction-to-backend-security-5dlp)
 - [Introducing Humming-Bird v3](https://dev.to/rawleyfowler/introducing-humming-bird-v3-3eni)
-- [Instalar Zabbix Agent no Sistema Operacional Windows via Script Batch](https://dev.to/alfredotavio/instalar-zabbix-agent-no-sistema-operacional-windows-via-script-batch-hgk)
 <!-- BLOG-POST-LIST:END -->
 
