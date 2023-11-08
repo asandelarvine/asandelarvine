@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Linting and how to use a Linter tool.](https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l)
 - [&quot;Freelancing While Homeschooling&quot;: CodeNewbie Podcast S26E2](https://dev.to/codenewbieteam/freelancing-while-homeschooling-codenewbie-podcast-s26e2-ke4)
 - [Importance of File system in system design 📂](https://dev.to/mukeshkuiry/importance-of-file-system-in-system-design-475e)
 - [Computer vision to digitize MSK rehabilitation](https://dev.to/abtosoftware/computer-vision-to-digitize-msk-rehabilitation-18d0)
-- [How it went Today?](https://dev.to/craftingbugs/how-it-went-today-5chm)
 <!-- BLOG-POST-LIST:END -->
 
