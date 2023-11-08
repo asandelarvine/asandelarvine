@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Businesses Hesitate to Employ Freelancers: Unveiling the Reasons](https://dev.to/mirzabilal/why-businesses-hesitate-to-employ-freelancers-unveiling-the-reasons-364p)
-- [Building a React Web App with a Go Backend](https://dev.to/encore/building-a-react-web-app-with-a-go-backend-2bdn)
-- [Ensuring effective cloud security: Best practices and real-world insights](https://dev.to/gbadeboife/ensuring-effective-cloud-security-best-practices-and-real-world-insights-1ang)
-- [Welcome Thread - v250](https://dev.to/devteam/welcome-thread-v250-1hhd)
+- [🚀Creating a resume builder with NextJS, Trigger.dev and GPT4🔥✨](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
+- [Low-Code No-Code: Shaping the Future of Software Development](https://dev.to/dhruvjoshi9/low-code-no-code-shaping-the-future-of-software-development-1d3p)
+- [Seeking SSR Pioneers: Join WebCrumbs&#39; Research and Experimentation Efforts](https://dev.to/opensourcee/seeking-ssr-pioneers-join-webcrumbs-research-and-experimentation-efforts-4ncn)
+- [Cypress vs. Sorry-Cypress - Decoding the Drama](https://dev.to/inanoniloquent/cypress-vs-sorry-cypress-decoding-the-drama-4an4)
 <!-- BLOG-POST-LIST:END -->
 
