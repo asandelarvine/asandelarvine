@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best 6 Python IDEs: Made For Python Only. 😎](https://dev.to/themeselection/best-python-ides-1mgk)
+- [De Array para Set e Volta: Uma Jornada Sem ou Com Duplicatas!](https://dev.to/mattheuzz/de-array-para-set-e-volta-uma-jornada-sem-ou-com-duplicatas-22fh)
+- [Linux Shell Scripting for DevOps: A Beginner&#39;s Guide](https://dev.to/arbythecoder/linux-shell-scripting-for-devops-a-beginners-guide-1fgf)
 - [👵🏼 It’s Never Too Late to Learn: Meet “The World’s Oldest Developer”](https://dev.to/evergrowingdev/its-never-too-late-to-learn-meet-the-worlds-oldest-developer-46pe)
-- [Why Is the Nullish Coalescing Operator&lpar;??&rpar; Essential in JavaScript?](https://dev.to/jaimaldullat/why-is-the-nullish-coalescing-operator-essential-in-javascript-4g2j)
-- [Future of AI Development: CodiumAI&#39;s VSCode extension](https://dev.to/qbentil/future-of-ai-development-codiumais-vscode-extension-36n2)
-- [How to solve reCAPTCHA in Puppeteer using extension](https://dev.to/2captcha/how-to-solve-recaptcha-in-puppeteer-using-extension-1m18)
 <!-- BLOG-POST-LIST:END -->
 
