@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [API versioning](https://dev.to/apisix/api-versioning-3p6p)
+- [Is Duolingo the right tool for learning?](https://dev.to/apetryla/is-duolingo-the-right-tool-for-learning-53aj)
 - [The Reflect API: The Swiss Army Knife Every JavaScript Developer Needs](https://dev.to/this-is-learning/the-reflect-api-the-swiss-army-knife-every-javascript-developer-needs-512k)
 - [Unable to Log In? Fixes QuickBooks Time Tracking Login Issues](https://dev.to/quickproadvisor/unable-to-log-in-fixes-quickbooks-time-tracking-login-issues-38i5)
-- [Use ngrok with secret key on Google Colab](https://dev.to/0xkoji/use-ngrok-with-secret-key-on-google-colab-47l0)
-- [White Label Crypto Payment Gateway Platform - Revolutionize Your Business](https://dev.to/braxton/white-label-crypto-payment-gateway-platform-revolutionize-your-business-3jb2)
 <!-- BLOG-POST-LIST:END -->
 
