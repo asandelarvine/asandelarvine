@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gut Check Time: The &quot;Are You Sure You Want Organic Traffic&quot; Checklist](https://dev.to/daedtech/gut-check-time-the-are-you-sure-you-want-organic-traffic-checklist-1iem)
-- [So software engineering isn&#39;t working out for you](https://dev.to/isaacdlyman/so-software-engineering-isnt-working-out-for-you-f54)
-- [Personal Project Domain Ideas for Computer Science Students](https://dev.to/nandinishinduja/personal-project-domain-ideas-for-computer-science-students-1j0b)
-- [Debugging Silent Create Action Failures in Rails](https://dev.to/joshdevhub/debugging-silent-create-action-failures-in-rails-1boo)
+- [Key differences between GraphQL and RESTful API](https://dev.to/hashcode01/key-differences-between-graphql-and-restful-api-17o9)
+- [The Walrus Operator](https://dev.to/flaniyanjr/the-walrus-operator-4mmm)
+- [Why I Love Interviewing And How You Can Too](https://dev.to/megdiv/why-i-love-to-interview-and-how-you-can-too-4ma3)
+- [ES6 Features You Didn&#39;t Know You Needed: A JavaScript Guide for Beginners](https://dev.to/opensign/es6-features-you-didnt-know-you-needed-a-javascript-guide-for-beginners-543e)
 <!-- BLOG-POST-LIST:END -->
 
