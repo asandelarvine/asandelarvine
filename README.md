@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Key, Your Crypto: Retrieving Your Wallet Address from a Private Key Using JavaScript and Web3.js](https://dev.to/mister_g/your-key-your-crypto-retrieving-your-wallet-address-from-a-private-key-using-javascript-and-web3js-4ed7)
 - [Take Control of Your Crypto: Creating Your Wallet with JavaScript](https://dev.to/mister_g/take-control-of-your-crypto-creating-your-wallet-with-javascript-5en4)
 - [Retrieving Implementation Contract Addresses from Proxy Contracts in EVM Networks](https://dev.to/mister_g/retrieving-implementation-contract-addresses-from-proxy-contracts-in-evm-networks-38fm)
 - [Despliega tu Asistente de IA Generativa en AWS](https://dev.to/aws-espanol/despliega-tu-asistente-de-ia-generativa-en-aws-4h3i)
-- [Announcing AppMap for GitHub - Runtime Code Reviews for Every Pull Request](https://dev.to/appmap/announcing-appmap-for-github-runtime-code-reviews-for-every-pull-request-47km)
 <!-- BLOG-POST-LIST:END -->
 
