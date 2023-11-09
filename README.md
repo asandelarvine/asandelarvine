@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Openchat Installation](https://dev.to/alkanet88/openchat-installation-144)
 - [How to Get Data by ID Using API Maker 🚀](https://dev.to/apimaker/how-to-get-data-by-id-using-api-maker-4fm4)
 - [Understanding Ruby Objects and Instance Variables](https://dev.to/bhumi/understanding-ruby-objects-and-instance-variables-4157)
 - [Your Key, Your Crypto: Retrieving Your Wallet Address from a Private Key Using JavaScript and Web3.js](https://dev.to/mister_g/your-key-your-crypto-retrieving-your-wallet-address-from-a-private-key-using-javascript-and-web3js-4ed7)
-- [Take Control of Your Crypto: Creating Your Wallet with JavaScript](https://dev.to/mister_g/take-control-of-your-crypto-creating-your-wallet-with-javascript-5en4)
 <!-- BLOG-POST-LIST:END -->
 
