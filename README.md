@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key differences between GraphQL and RESTful API](https://dev.to/hashcode01/key-differences-between-graphql-and-restful-api-17o9)
-- [The Walrus Operator](https://dev.to/flaniyanjr/the-walrus-operator-4mmm)
-- [Why I Love Interviewing And How You Can Too](https://dev.to/megdiv/why-i-love-to-interview-and-how-you-can-too-4ma3)
-- [ES6 Features You Didn&#39;t Know You Needed: A JavaScript Guide for Beginners](https://dev.to/opensign/es6-features-you-didnt-know-you-needed-a-javascript-guide-for-beginners-543e)
+- [Discussion of the Week - v10](https://dev.to/devteam/discussion-of-the-week-v9-2a3g)
+- [HTB - Pilgrimage Writeup](https://dev.to/quiescent/htb-pilgrimage-writeup-1aln)
+- [Realistic Day In The Life of a Remote Software Developer](https://dev.to/brendamichellle/realistic-day-in-the-life-of-a-remote-software-developer-3054)
+- [OCI Instance with External Volume](https://dev.to/paihari/oci-instance-with-external-volume-3mia)
 <!-- BLOG-POST-LIST:END -->
 
