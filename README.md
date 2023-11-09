@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Challenges that developers face](https://dev.to/nandinishinduja/challenges-that-developers-face-44dn)
+- [How to Implement Partial Screenshare](https://dev.to/mupati/how-to-implement-partial-screenshare-3j0e)
 - [Address Search with React and Mapbox API](https://dev.to/alekswritescode/address-search-with-react-and-mapbox-api-3jlc)
-- [Making it simple - Clean architecture - Crud Users &amp; Authentication .Net 7.0 - My Nuget PearlCore .ADO.NET .UnitOfWork Mediator](https://dev.to/raphamendes/making-it-simple-clean-architecture-crud-users-authentication-net-70-my-nuget-pearlcore-adonet-unitofwork-mediator-5eaa)
-- [14 Tips for Becoming an Indie Author](https://dev.to/j9t/14-tips-for-becoming-an-indie-author-4ae4)
+- [Data Engineering for Beginners: Navigating the Foundations of a Data-Driven World](https://dev.to/carlmk7734/data-engineering-for-beginners-navigating-the-foundations-of-a-data-driven-world-52md)
 <!-- BLOG-POST-LIST:END -->
 
