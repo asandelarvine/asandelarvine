@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenges that developers face](https://dev.to/nandinishinduja/challenges-that-developers-face-44dn)
+- [Address Search with React and Mapbox API](https://dev.to/alekswritescode/address-search-with-react-and-mapbox-api-3jlc)
 - [Making it simple - Clean architecture - Crud Users &amp; Authentication .Net 7.0 - My Nuget PearlCore .ADO.NET .UnitOfWork Mediator](https://dev.to/raphamendes/making-it-simple-clean-architecture-crud-users-authentication-net-70-my-nuget-pearlcore-adonet-unitofwork-mediator-5eaa)
-- [Standardizing the Data Using StandardScaler in ML](https://dev.to/sachingeek/standardizing-the-data-using-standardscaler-in-ml-40d2)
-- [Git Stash Magic: Navigating Code Emergencies and Context Switches with Ease](https://dev.to/croddev/xswift-context-switching-mastering-git-stash-38fe)
-- [Unveiling Angular 17 - The Angular Renaissance](https://dev.to/luishcastroc/unveiling-angular-17-the-angular-renaissance-hlh)
+- [14 Tips for Becoming an Indie Author](https://dev.to/j9t/14-tips-for-becoming-an-indie-author-4ae4)
 <!-- BLOG-POST-LIST:END -->
 
