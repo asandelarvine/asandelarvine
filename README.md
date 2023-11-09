@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo aumentar tu cuota de correo electrónico de 200 a 50,000 mensajes por día en 24 horas con AWS-SES.](https://dev.to/aws-espanol/como-aumentar-tu-cuota-de-correo-electronico-de-200-a-50000-mensajes-por-dia-en-24-horas-con-aws-ses-29ok)
-- [AWS Shield: Your Digital Bodyguard in the Wild World of Cloud Computing](https://dev.to/aws-builders/aws-shield-your-digital-bodyguard-in-the-wild-world-of-cloud-computing-25hh)
-- [Hoppscotch - API testing at the speed of light⚡](https://dev.to/hoppscotch/hoppscotch-api-testing-at-the-speed-of-light-3aj1)
-- [Criando Ambientes Virtuais com Venv](https://dev.to/nobrelucas/criando-ambientes-virtuais-com-venv-14c0)
+- [Unveiling Angular 17 - The Angular Renaissance](https://dev.to/luishcastroc/unveiling-angular-17-the-angular-renaissance-hlh)
+- [Glosario de gerente proyecto: 29 términos imprescindibles](https://dev.to/oroscoloyamena/glosario-de-gerente-proyecto-29-terminos-imprescindibles-2fe)
+- [Virtual Coffee Hacktoberfest 2023 Roundup](https://dev.to/virtualcoffee/virtual-coffee-hacktoberfest-2023-roundup-18cj)
+- [SOLIDify Your Foundation: Mastering Software Design with a Deep Dive into SOLID Principles](https://dev.to/sarthakkshailendra/solidify-your-foundation-mastering-software-design-with-a-deep-dive-into-solid-principles-3ji2)
 <!-- BLOG-POST-LIST:END -->
 
