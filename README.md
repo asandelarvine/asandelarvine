@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best 6 Python IDEs: Made For Python Only. 😎](https://dev.to/themeselection/best-python-ides-1mgk)
-- [De Array para Set e Volta: Uma Jornada Sem ou Com Duplicatas!](https://dev.to/mattheuzz/de-array-para-set-e-volta-uma-jornada-sem-ou-com-duplicatas-22fh)
-- [Linux Shell Scripting for DevOps: A Beginner&#39;s Guide](https://dev.to/arbythecoder/linux-shell-scripting-for-devops-a-beginners-guide-1fgf)
-- [👵🏼 It’s Never Too Late to Learn: Meet “The World’s Oldest Developer”](https://dev.to/evergrowingdev/its-never-too-late-to-learn-meet-the-worlds-oldest-developer-46pe)
+- [Cómo aumentar tu cuota de correo electrónico de 200 a 50,000 mensajes por día en 24 horas con AWS-SES.](https://dev.to/aws-espanol/como-aumentar-tu-cuota-de-correo-electronico-de-200-a-50000-mensajes-por-dia-en-24-horas-con-aws-ses-29ok)
+- [AWS Shield: Your Digital Bodyguard in the Wild World of Cloud Computing](https://dev.to/aws-builders/aws-shield-your-digital-bodyguard-in-the-wild-world-of-cloud-computing-25hh)
+- [Hoppscotch - API testing at the speed of light⚡](https://dev.to/hoppscotch/hoppscotch-api-testing-at-the-speed-of-light-3aj1)
+- [Criando Ambientes Virtuais com Venv](https://dev.to/nobrelucas/criando-ambientes-virtuais-com-venv-14c0)
 <!-- BLOG-POST-LIST:END -->
 
