@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [White Label Crypto Payment Gateway Platform - Revolutionize Your Business](https://dev.to/braxton/white-label-crypto-payment-gateway-platform-revolutionize-your-business-3jb2)
 - [Making a Multiplayer WEB RPG - Part 7: Quests, Trainers, Vendors](https://dev.to/orion3d/making-a-multiplayer-web-rpg-part-7-quests-trainers-vendors-2j1f)
 - [Unlocking the Power of Open Source: How to Get Involved and Why It Matters](https://dev.to/alexopensource/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68)
 - [Openchat Installation](https://dev.to/alkanet88/openchat-installation-144)
-- [How to Get Data by ID Using API Maker 🚀](https://dev.to/apimaker/how-to-get-data-by-id-using-api-maker-4fm4)
 <!-- BLOG-POST-LIST:END -->
 
