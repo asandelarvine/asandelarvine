@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discussion of the Week - v10](https://dev.to/devteam/discussion-of-the-week-v9-2a3g)
-- [HTB - Pilgrimage Writeup](https://dev.to/quiescent/htb-pilgrimage-writeup-1aln)
-- [Realistic Day In The Life of a Remote Software Developer](https://dev.to/brendamichellle/realistic-day-in-the-life-of-a-remote-software-developer-3054)
-- [OCI Instance with External Volume](https://dev.to/paihari/oci-instance-with-external-volume-3mia)
+- [Getting started with sqlite3 in Python](https://dev.to/dastinnette/getting-started-with-sqlite3-in-python-3h0n)
+- [Testing in Python](https://dev.to/amnish04/testing-in-python-4ne7)
+- [You Are Using ChatGPT Incorrectly!](https://dev.to/ham8821/you-are-using-chatgpt-incorrectly-12ii)
+- [The Assumptions of the Hidden Class](https://dev.to/oculus42/the-assumptions-of-the-hidden-class-3ajn)
 <!-- BLOG-POST-LIST:END -->
 
