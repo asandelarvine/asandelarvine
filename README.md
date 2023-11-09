@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Reflect API: The Swiss Army Knife Every JavaScript Developer Needs](https://dev.to/this-is-learning/the-reflect-api-the-swiss-army-knife-every-javascript-developer-needs-512k)
+- [Unable to Log In? Fixes QuickBooks Time Tracking Login Issues](https://dev.to/quickproadvisor/unable-to-log-in-fixes-quickbooks-time-tracking-login-issues-38i5)
+- [Use ngrok with secret key on Google Colab](https://dev.to/0xkoji/use-ngrok-with-secret-key-on-google-colab-47l0)
 - [White Label Crypto Payment Gateway Platform - Revolutionize Your Business](https://dev.to/braxton/white-label-crypto-payment-gateway-platform-revolutionize-your-business-3jb2)
-- [Making a Multiplayer WEB RPG - Part 7: Quests, Trainers, Vendors](https://dev.to/orion3d/making-a-multiplayer-web-rpg-part-7-quests-trainers-vendors-2j1f)
-- [Unlocking the Power of Open Source: How to Get Involved and Why It Matters](https://dev.to/alexopensource/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68)
-- [Openchat Installation](https://dev.to/alkanet88/openchat-installation-144)
 <!-- BLOG-POST-LIST:END -->
 
