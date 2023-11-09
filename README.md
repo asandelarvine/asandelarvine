@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Multiplayer WEB RPG - Part 7: Quests, Trainers, Vendors](https://dev.to/orion3d/making-a-multiplayer-web-rpg-part-7-quests-trainers-vendors-2j1f)
+- [Unlocking the Power of Open Source: How to Get Involved and Why It Matters](https://dev.to/alexopensource/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68)
 - [Openchat Installation](https://dev.to/alkanet88/openchat-installation-144)
 - [How to Get Data by ID Using API Maker 🚀](https://dev.to/apimaker/how-to-get-data-by-id-using-api-maker-4fm4)
-- [Understanding Ruby Objects and Instance Variables](https://dev.to/bhumi/understanding-ruby-objects-and-instance-variables-4157)
-- [Your Key, Your Crypto: Retrieving Your Wallet Address from a Private Key Using JavaScript and Web3.js](https://dev.to/mister_g/your-key-your-crypto-retrieving-your-wallet-address-from-a-private-key-using-javascript-and-web3js-4ed7)
 <!-- BLOG-POST-LIST:END -->
 
