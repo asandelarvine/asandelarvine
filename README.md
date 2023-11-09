@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Skip Lists](https://dev.to/nyctonio/understanding-skip-lists-4i8b)
 - [React Design Patterns](https://dev.to/refine/react-design-patterns-230o)
+- [Sharpening Your Toolbox: Staying Ahead In The Tech World [Testμ 2023]](https://dev.to/lambdatest/sharpening-your-toolbox-staying-ahead-in-the-tech-world-testm-2023-1829)
 - [How To Secure Your AWS API Gateway Using A Lambda Authorizer](https://dev.to/kelvinskell/how-to-secure-your-aws-api-gateway-using-a-lambda-authorizer-phc)
-- [From Bias to Belonging: Creating Inclusive Communities in Tech](https://dev.to/josefine/from-bias-to-belonging-creating-inclusive-communities-in-tech-5deo)
-- [10 Common API Resilience Design Patterns with API Gateway](https://dev.to/apisix/10-common-api-resilience-design-patterns-with-api-gateway-94k)
 <!-- BLOG-POST-LIST:END -->
 
