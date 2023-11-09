@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges that developers face](https://dev.to/nandinishinduja/challenges-that-developers-face-44dn)
-- [How to Implement Partial Screenshare](https://dev.to/mupati/how-to-implement-partial-screenshare-3j0e)
-- [Address Search with React and Mapbox API](https://dev.to/alekswritescode/address-search-with-react-and-mapbox-api-3jlc)
-- [Data Engineering for Beginners: Navigating the Foundations of a Data-Driven World](https://dev.to/carlmk7734/data-engineering-for-beginners-navigating-the-foundations-of-a-data-driven-world-52md)
+- [Gut Check Time: The &quot;Are You Sure You Want Organic Traffic&quot; Checklist](https://dev.to/daedtech/gut-check-time-the-are-you-sure-you-want-organic-traffic-checklist-1iem)
+- [So software engineering isn&#39;t working out for you](https://dev.to/isaacdlyman/so-software-engineering-isnt-working-out-for-you-f54)
+- [Personal Project Domain Ideas for Computer Science Students](https://dev.to/nandinishinduja/personal-project-domain-ideas-for-computer-science-students-1j0b)
+- [Debugging Silent Create Action Failures in Rails](https://dev.to/joshdevhub/debugging-silent-create-action-failures-in-rails-1boo)
 <!-- BLOG-POST-LIST:END -->
 
