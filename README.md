@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Documentation With Docstrings and Sphinx](https://dev.to/cwprogram/python-documentation-with-docstrings-and-sphinx-3mom)
+- [Beginners Guide to TensorFlow](https://dev.to/wheezeus/beginners-guide-to-tensorflow-49d6)
 - [[Python 🐍 Mastery] Overview of Linked List in Python &amp; Essential Linked List Operations 🛠️](https://dev.to/swirl/python-mastery-overview-of-linked-list-in-python-essential-linked-list-operations-hn3)
 - [VueJS part 11: Sending data from component to parent](https://dev.to/hi_iam_chris/vuejs-part-11-sending-data-from-component-to-parent-4hn3)
-- [DEV Community Contributor Spotlight: Christine Belzie](https://dev.to/devteam/dev-community-contributor-spotlight-christine-belzie-38bg)
-- [Creating a Single-File Node.js API with Express, MongoDB, and EJS Integration](https://dev.to/eneaslari/creating-a-single-file-nodejs-api-with-express-mongodb-and-ejs-integration-pa7)
 <!-- BLOG-POST-LIST:END -->
 
