@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use multiple checkboxes in Livewire3](https://dev.to/waziridev/how-to-use-multiple-checkboxes-in-livewire3-1jpm)
-- [Navigating the Ups and Downs: Strategies to Overcome Job Search Burnout](https://dev.to/drsavvina/navigating-the-ups-and-downs-strategies-to-overcome-job-search-burnout-4nph)
-- [Understanding simple-pgvector-python: A Tool for Vector Search in Python](https://dev.to/nlake44/understanding-simple-pgvector-python-a-tool-for-vector-search-in-python-1fgi)
-- [Monetizing Your Vision: 🤓 Perfect Timing for Implementing Pricing in Your Project 🤯](https://dev.to/userof/monetizing-your-vision-perfect-timing-for-implementing-pricing-in-your-project-4el2)
+- [challenge: can you solve this puzzle? 🧐](https://dev.to/nombrekeff/challenge-can-you-solve-this-puzzle-1947)
+- [What is JSON?](https://dev.to/catherineisonline/what-is-json-1042)
+- [Want to Earn Millions with a Mobile app?](https://dev.to/dhruvjoshi9/want-to-earn-millions-with-a-mobile-app-e18)
+- [Why you should never use the date validation rule without the data_format rule in Laravel](https://dev.to/waziridev/why-you-should-never-use-the-date-validation-rule-without-the-dataformat-rule-in-laravel-2jje)
 <!-- BLOG-POST-LIST:END -->
 
