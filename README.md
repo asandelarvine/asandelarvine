@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Git: Essential Tips and Best Practices for Developers](https://dev.to/baransel/mastering-git-essential-tips-and-best-practices-for-developers-1642)
+- [Why Kotlin is a Prime Choice for Your Project](https://dev.to/onix-systems/why-kotlin-is-a-prime-choice-for-your-project-517j)
+- [Why 0 is better than NULL sometimes](https://dev.to/alinaramfu/why-0-is-better-than-null-sometimes-2i77)
 - [ChatGPT Code Interpreter Feature: 2023’s Detailed Guide](https://dev.to/hatica/chatgpt-code-interpreter-feature-2023s-detailed-guide-8md)
-- [The Future of Shopping: Innovative Startup with Robots for Automated Dark Stores](https://dev.to/kirilldedeshin/the-future-of-shopping-innovative-startup-with-robots-for-automated-dark-stores-2cdf)
-- [Creating Interactive Web Animations with CSS and JavaScript](https://dev.to/haszankauna/creating-interactive-web-animations-with-css-and-javascript-e3f)
-- [🚛 Deploy Database Schema Migrations with Bytebase](https://dev.to/bytebase/deploy-schema-migration-with-bytebase-1173)
 <!-- BLOG-POST-LIST:END -->
 
