@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Git: Essential Tips and Best Practices for Developers](https://dev.to/baransel/mastering-git-essential-tips-and-best-practices-for-developers-1642)
-- [Why Kotlin is a Prime Choice for Your Project](https://dev.to/onix-systems/why-kotlin-is-a-prime-choice-for-your-project-517j)
-- [Why 0 is better than NULL sometimes](https://dev.to/alinaramfu/why-0-is-better-than-null-sometimes-2i77)
-- [ChatGPT Code Interpreter Feature: 2023’s Detailed Guide](https://dev.to/hatica/chatgpt-code-interpreter-feature-2023s-detailed-guide-8md)
+- [Lets Explore LSM Tree](https://dev.to/nyctonio/lets-explore-lsm-tree-o8b)
+- [Introducing DFlex - A Modern Javascript Drag and Drop Library](https://dev.to/jalal246/introducing-dflex-a-modern-javascript-drag-and-drop-library-26k0)
+- [Account Management with Account Factory for Terraform [Demo]](https://dev.to/jay_sheth/account-management-with-account-factory-for-terraform-demo-1ce4)
+- [Installing Python Packages in AWS Glue using AWS CodeArtifact](https://dev.to/aws-builders/installing-python-packages-in-aws-glue-using-aws-codeartifact-cag)
 <!-- BLOG-POST-LIST:END -->
 
