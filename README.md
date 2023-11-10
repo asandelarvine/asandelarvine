@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with sqlite3 in Python](https://dev.to/dastinnette/getting-started-with-sqlite3-in-python-3h0n)
-- [Testing in Python](https://dev.to/amnish04/testing-in-python-4ne7)
-- [You Are Using ChatGPT Incorrectly!](https://dev.to/ham8821/you-are-using-chatgpt-incorrectly-12ii)
-- [The Assumptions of the Hidden Class](https://dev.to/oculus42/the-assumptions-of-the-hidden-class-3ajn)
+- [Can the First 5 Minutes of Your Day Set the Tone?](https://dev.to/devteam/can-the-first-5-minutes-of-your-day-set-the-tone-21h3)
+- [Can Anyone Do Anything?](https://dev.to/codenewbieteam/can-anyone-do-anything-3jm6)
+- [Singleton classes with Typescript](https://dev.to/thalesbruno/singleton-classes-with-typescript-3fkg)
+- [Exploring the Pros and Cons of Standalone Components in Angular](https://dev.to/ctahirih/exploring-the-pros-and-cons-of-standalone-components-in-angular-3433)
 <!-- BLOG-POST-LIST:END -->
 
