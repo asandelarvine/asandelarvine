@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building LangChain applications with Amazon Bedrock and Go - An introduction](https://dev.to/abhirockzz/building-langchain-applications-with-amazon-bedrock-and-go-an-introduction-80)
-- [My Personal Portfolio](https://dev.to/athuljain/my-personal-portfolio-3fif)
-- [How Much Does a Senior Project Manager Make: Unraveling the Average Salary of Project Managers](https://dev.to/arun6058/how-much-does-a-senior-project-manager-make-unraveling-the-average-salary-of-project-managers-3ml2)
-- [Can Anyone Do Anything?](https://dev.to/codenewbieteam/can-anyone-do-anything-3jm6)
+- [How to GraphQL in Your React.js Project](https://dev.to/haszankauna/how-to-graphql-in-your-reactjs-project-3neh)
+- [Using Tailwind CSS with React.js: A Concise Guide](https://dev.to/haszankauna/using-tailwind-css-with-reactjs-a-concise-guide-33j)
+- [Advantages and Disadvantages of Artificial Intelligence in the Development of Mobile Applications](https://dev.to/pryanka46/advantages-and-disadvantages-of-artificial-intelligence-in-the-development-of-mobile-applications-146k)
+- [Encoding Schemes and Number System](https://dev.to/iritikdev/encoding-schemes-and-number-system-306p)
 <!-- BLOG-POST-LIST:END -->
 
