@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Productivity: A Complete Guide to modify VS Code looks ! 🚀🔥](https://dev.to/lakshitsomani/supercharge-your-productivity-a-complete-guide-to-modify-vs-code-looks--1bhj)
-- [GraphQL AI Platform for developers](https://dev.to/aexol-studio/graphql-ai-platform-for-developers-1hgm)
-- [TW Elements new pricing plans announcement!](https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3)
-- [Run rippled on Windows using WSL](https://dev.to/schlaubidev/run-rippled-on-windows-using-wsl-38ld)
+- [[Python 🐍 Mastery] Overview of Linked List in Python &amp; Essential Linked List Operations 🛠️](https://dev.to/swirl/python-mastery-overview-of-linked-list-in-python-essential-linked-list-operations-hn3)
+- [VueJS part 11: Sending data from component to parent](https://dev.to/hi_iam_chris/vuejs-part-11-sending-data-from-component-to-parent-4hn3)
+- [DEV Community Contributor Spotlight: Christine Belzie](https://dev.to/devteam/dev-community-contributor-spotlight-christine-belzie-38bg)
+- [Creating a Single-File Node.js API with Express, MongoDB, and EJS Integration](https://dev.to/eneaslari/creating-a-single-file-nodejs-api-with-express-mongodb-and-ejs-integration-pa7)
 <!-- BLOG-POST-LIST:END -->
 
