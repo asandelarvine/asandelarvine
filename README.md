@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My process for writing Laravel packages](https://dev.to/dcblog/my-process-for-writing-laravel-packages-2o36)
 - [My humble project](https://dev.to/_pandacrew_/my-humble-project-4aja)
+- [Introdução aos Dados Geoespaciais no MongoDB](https://dev.to/ricardoleme/introducao-aos-dados-geoespaciais-no-mongodb-5fl2)
 - [Fundamentals of Go - FARMISS](https://dev.to/jankaritech/fundamentals-of-go-farmiss-4ifh)
-- [Python Documentation With Docstrings and Sphinx](https://dev.to/cwprogram/python-documentation-with-docstrings-and-sphinx-3mom)
-- [Beginners Guide to TensorFlow](https://dev.to/wheezeus/beginners-guide-to-tensorflow-49d6)
 <!-- BLOG-POST-LIST:END -->
 
