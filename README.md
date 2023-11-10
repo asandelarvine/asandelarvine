@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to GraphQL in Your React.js Project](https://dev.to/haszankauna/how-to-graphql-in-your-reactjs-project-3neh)
-- [Using Tailwind CSS with React.js: A Concise Guide](https://dev.to/haszankauna/using-tailwind-css-with-reactjs-a-concise-guide-33j)
-- [Advantages and Disadvantages of Artificial Intelligence in the Development of Mobile Applications](https://dev.to/pryanka46/advantages-and-disadvantages-of-artificial-intelligence-in-the-development-of-mobile-applications-146k)
-- [Encoding Schemes and Number System](https://dev.to/iritikdev/encoding-schemes-and-number-system-306p)
+- [ChatGPT Code Interpreter Feature: 2023’s Detailed Guide](https://dev.to/hatica/chatgpt-code-interpreter-feature-2023s-detailed-guide-8md)
+- [The Future of Shopping: Innovative Startup with Robots for Automated Dark Stores](https://dev.to/kirilldedeshin/the-future-of-shopping-innovative-startup-with-robots-for-automated-dark-stores-2cdf)
+- [Creating Interactive Web Animations with CSS and JavaScript](https://dev.to/haszankauna/creating-interactive-web-animations-with-css-and-javascript-e3f)
+- [🚛 Deploy Database Schema Migrations with Bytebase](https://dev.to/bytebase/deploy-schema-migration-with-bytebase-1173)
 <!-- BLOG-POST-LIST:END -->
 
