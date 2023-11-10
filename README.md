@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My humble project](https://dev.to/_pandacrew_/my-humble-project-4aja)
+- [Fundamentals of Go - FARMISS](https://dev.to/jankaritech/fundamentals-of-go-farmiss-4ifh)
 - [Python Documentation With Docstrings and Sphinx](https://dev.to/cwprogram/python-documentation-with-docstrings-and-sphinx-3mom)
 - [Beginners Guide to TensorFlow](https://dev.to/wheezeus/beginners-guide-to-tensorflow-49d6)
-- [[Python 🐍 Mastery] Overview of Linked List in Python &amp; Essential Linked List Operations 🛠️](https://dev.to/swirl/python-mastery-overview-of-linked-list-in-python-essential-linked-list-operations-hn3)
-- [VueJS part 11: Sending data from component to parent](https://dev.to/hi_iam_chris/vuejs-part-11-sending-data-from-component-to-parent-4hn3)
 <!-- BLOG-POST-LIST:END -->
 
