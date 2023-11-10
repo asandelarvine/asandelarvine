@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Productivity: A Complete Guide to modify VS Code looks ! 🚀🔥](https://dev.to/lakshitsomani/supercharge-your-productivity-a-complete-guide-to-modify-vs-code-looks--1bhj)
+- [GraphQL AI Platform for developers](https://dev.to/aexol-studio/graphql-ai-platform-for-developers-1hgm)
 - [TW Elements new pricing plans announcement!](https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3)
 - [Run rippled on Windows using WSL](https://dev.to/schlaubidev/run-rippled-on-windows-using-wsl-38ld)
-- [Building a fully Type-Safe Event-Driven Backend in Go](https://dev.to/encore/building-a-fully-type-safe-event-driven-backend-in-go-2g8m)
-- [The evolution of Web Development: from dial-up to instant React](https://dev.to/opensourcee/the-evolution-of-web-development-from-dial-up-to-instant-react-2f5k)
 <!-- BLOG-POST-LIST:END -->
 
