@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React useMemo](https://dev.to/lorenzojkrl/react-usememo-3faf)
+- [Why is it so important to evaluate Large Language Models &lpar;LLMs&rpar;? 🤯🔥](https://dev.to/lucamartial/why-is-it-so-important-to-evaluate-large-language-models-llms-59jl)
 - [challenge: can you solve this puzzle? 🧐](https://dev.to/nombrekeff/challenge-can-you-solve-this-puzzle-1947)
 - [What is JSON?](https://dev.to/catherineisonline/what-is-json-1042)
-- [Want to Earn Millions with a Mobile app?](https://dev.to/dhruvjoshi9/want-to-earn-millions-with-a-mobile-app-e18)
-- [Why you should never use the date validation rule without the data_format rule in Laravel](https://dev.to/waziridev/why-you-should-never-use-the-date-validation-rule-without-the-dataformat-rule-in-laravel-2jje)
 <!-- BLOG-POST-LIST:END -->
 
