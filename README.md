@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lets Explore LSM Tree](https://dev.to/nyctonio/lets-explore-lsm-tree-o8b)
-- [Introducing DFlex - A Modern Javascript Drag and Drop Library](https://dev.to/jalal246/introducing-dflex-a-modern-javascript-drag-and-drop-library-26k0)
-- [Account Management with Account Factory for Terraform [Demo]](https://dev.to/jay_sheth/account-management-with-account-factory-for-terraform-demo-1ce4)
-- [Installing Python Packages in AWS Glue using AWS CodeArtifact](https://dev.to/aws-builders/installing-python-packages-in-aws-glue-using-aws-codeartifact-cag)
+- [How to use multiple checkboxes in Livewire3](https://dev.to/waziridev/how-to-use-multiple-checkboxes-in-livewire3-1jpm)
+- [Navigating the Ups and Downs: Strategies to Overcome Job Search Burnout](https://dev.to/drsavvina/navigating-the-ups-and-downs-strategies-to-overcome-job-search-burnout-4nph)
+- [Understanding simple-pgvector-python: A Tool for Vector Search in Python](https://dev.to/nlake44/understanding-simple-pgvector-python-a-tool-for-vector-search-in-python-1fgi)
+- [Monetizing Your Vision: 🤓 Perfect Timing for Implementing Pricing in Your Project 🤯](https://dev.to/userof/monetizing-your-vision-perfect-timing-for-implementing-pricing-in-your-project-4el2)
 <!-- BLOG-POST-LIST:END -->
 
