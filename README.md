@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Building LangChain applications with Amazon Bedrock and Go - An introduction](https://dev.to/abhirockzz/building-langchain-applications-with-amazon-bedrock-and-go-an-introduction-80)
+- [My Personal Portfolio](https://dev.to/athuljain/my-personal-portfolio-3fif)
 - [How Much Does a Senior Project Manager Make: Unraveling the Average Salary of Project Managers](https://dev.to/arun6058/how-much-does-a-senior-project-manager-make-unraveling-the-average-salary-of-project-managers-3ml2)
-- [Can the First 5 Minutes of Your Day Set the Tone?](https://dev.to/devteam/can-the-first-5-minutes-of-your-day-set-the-tone-21h3)
 - [Can Anyone Do Anything?](https://dev.to/codenewbieteam/can-anyone-do-anything-3jm6)
 <!-- BLOG-POST-LIST:END -->
 
