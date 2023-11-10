@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Much Does a Senior Project Manager Make: Unraveling the Average Salary of Project Managers](https://dev.to/arun6058/how-much-does-a-senior-project-manager-make-unraveling-the-average-salary-of-project-managers-3ml2)
 - [Can the First 5 Minutes of Your Day Set the Tone?](https://dev.to/devteam/can-the-first-5-minutes-of-your-day-set-the-tone-21h3)
 - [Can Anyone Do Anything?](https://dev.to/codenewbieteam/can-anyone-do-anything-3jm6)
 - [Singleton classes with Typescript](https://dev.to/thalesbruno/singleton-classes-with-typescript-3fkg)
-- [Exploring the Pros and Cons of Standalone Components in Angular](https://dev.to/ctahirih/exploring-the-pros-and-cons-of-standalone-components-in-angular-3433)
 <!-- BLOG-POST-LIST:END -->
 
