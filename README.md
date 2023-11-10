@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Check if a Value is an Object in JavaScript](https://dev.to/alesm0101/how-to-check-if-a-value-is-an-object-in-javascript-3pin)
+- [How to Clone an Object in JavaScript](https://dev.to/alesm0101/how-to-clone-an-object-in-javascript-ij0)
+- [JAVASCRIPT CONSTRUCTORS](https://dev.to/maame_afia/javascript-constructors-4gk4)
 - [My process for writing Laravel packages](https://dev.to/dcblog/my-process-for-writing-laravel-packages-2o36)
-- [My humble project](https://dev.to/_pandacrew_/my-humble-project-4aja)
-- [Introdução aos Dados Geoespaciais no MongoDB](https://dev.to/ricardoleme/introducao-aos-dados-geoespaciais-no-mongodb-5fl2)
-- [Fundamentals of Go - FARMISS](https://dev.to/jankaritech/fundamentals-of-go-farmiss-4ifh)
 <!-- BLOG-POST-LIST:END -->
 
