@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [AfricAi Chronicles: Crafting Tech Awesomeness in 2023 🚀](https://dev.to/cypriantinasheaarons/africai-chronicles-crafting-tech-awesomeness-in-2023-4jfo)
+- [I made a simple Room-based Low Code Multiplayer Framework for Gamemaker🚀](https://dev.to/lilshake/i-made-a-simple-room-based-low-code-multiplayer-framework-for-gamemaker-49mc)
 - [Базовый ультимативный гайд по Node.js на примере SvelteKit [sry all my dear subs, I&#39;ll translate it later]. Андрюха, для тебя :D](https://dev.to/maxcore/base-ultimate-guide-to-nodejs-3a4m)
 - [A story about HTTP status codes and why you should read documentation](https://dev.to/whitep4nth3r/a-story-about-http-status-codes-and-why-you-should-read-documentation-52fo)
-- [7 categorías de software imprescindible para una empresa de TI &lpar;con opciones&rpar;](https://dev.to/oroscoloyamena/7-categorias-de-software-imprescindible-para-una-empresa-de-ti-con-opciones-2ki8)
 <!-- BLOG-POST-LIST:END -->
 
