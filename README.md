@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Story of Leetcode Biweekly Contest 117](https://dev.to/craftingbugs/my-story-of-leetcode-biweekly-contest-117-3n8o)
 - [Difference Between Scripting and Programming Languages](https://dev.to/rogerwillium/difference-between-scripting-and-programming-languages-eie)
+- [Secure your Web Applications with Facial Authentication](https://dev.to/0ruko002/secure-your-web-applications-with-facial-authentication-3gof)
 - [How to deploy your frontend APP on firebase hosting.](https://dev.to/hermannleboss/how-to-deploy-your-frontend-app-on-firebase-hosting-16c9)
-- [What you learning about this weekend?](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-1da0)
-- [Tailwind CSS in React - Creating Modal Popup](https://dev.to/pramodkumar115/tailwind-css-in-react-creating-modal-popup-21b7)
 <!-- BLOG-POST-LIST:END -->
 
