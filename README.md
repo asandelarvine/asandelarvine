@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Part 1: Unit/Integration Testing](https://dev.to/namatuzio/cicd-part-1-unitintegration-testing-3639)
-- [How to Check if a Value is an Object in JavaScript](https://dev.to/alesm0101/how-to-check-if-a-value-is-an-object-in-javascript-3pin)
-- [How to Clone an Object in JavaScript](https://dev.to/alesm0101/how-to-clone-an-object-in-javascript-ij0)
-- [JAVASCRIPT CONSTRUCTORS](https://dev.to/maame_afia/javascript-constructors-4gk4)
+- [Alert Fatigue, and How to Fix it](https://dev.to/klip_klop/alert-fatigue-and-how-to-fix-it-34nl)
+- [Hosting index.html with HTTPS using Docker and Nginx](https://dev.to/hkthirano/hosting-indexhtml-with-https-using-docker-and-nginx-121p)
+- [Getting Started with ML &amp; AI on AWS](https://dev.to/adewongdotcom/getting-started-with-ml-ai-on-aws-3edd)
+- [A React E-commerce app with dynamic cart features](https://dev.to/mohammadtaseenkhan/a-react-e-commerce-app-with-dynamic-cart-features-4mpi)
 <!-- BLOG-POST-LIST:END -->
 
