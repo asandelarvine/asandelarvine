@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Day 3: Wrote an Article on Computer Networking](https://dev.to/codewithtee/day-3-wrote-an-article-on-computer-networking-34ad)
 - [Maximize Instagram Growth in 2023 with Top Services!](https://dev.to/igburst/maximize-instagram-growth-in-2023-with-top-services-200i)
 - [One “IF” to rule them all](https://dev.to/noriller/one-if-to-rule-them-all-4jpp)
-- [Understanding Computer Networking: Part 1 - The OSI Model](https://dev.to/codewithtee/understanding-computer-networking-part-1-the-osi-model-25m0)
+- [Understanding Computer Networking: Part 1 - The OSI Model✨](https://dev.to/codewithtee/understanding-computer-networking-part-1-the-osi-model-25m0)
 <!-- BLOG-POST-LIST:END -->
 
