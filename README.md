@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 3: Wrote an Article on Computer Networking](https://dev.to/codewithtee/day-3-wrote-an-article-on-computer-networking-34ad)
+- [Maximize Instagram Growth in 2023 with Top Services!](https://dev.to/igburst/maximize-instagram-growth-in-2023-with-top-services-200i)
 - [One “IF” to rule them all](https://dev.to/noriller/one-if-to-rule-them-all-4jpp)
 - [Understanding Computer Networking: Part 1 - The OSI Model](https://dev.to/codewithtee/understanding-computer-networking-part-1-the-osi-model-25m0)
-- [Como deixar o Swagger com tema dark mode usando Swaggo e Golang](https://dev.to/wiliamvj/como-deixar-o-swagger-com-tema-dark-mode-usando-swaggo-e-golang-5966)
-- [My Story of Leetcode Biweekly Contest 117](https://dev.to/craftingbugs/my-story-of-leetcode-biweekly-contest-117-3n8o)
 <!-- BLOG-POST-LIST:END -->
 
