@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 categorías de software imprescindible para una empresa de TI &lpar;con opciones&rpar;](https://dev.to/oroscoloyamena/7-categorias-de-software-imprescindible-para-una-empresa-de-ti-con-opciones-2ki8)
+- [3 new Open AI release, 6 November 6, 2023](https://dev.to/shreyvijayvargiya/3-new-open-ai-release-6-november-6-2023-p0f)
 - [Design Callback Pattern in Java for WorkerContext](https://dev.to/parthasutradhar/build-callback-in-java-for-workercontext-3925)
 - [YouTube AdBlocker: The Ultimate Solution to Blocking Ads on Chrome, Microsoft Edge, and Firefox](https://dev.to/kanani_nirav/youtube-adblocker-the-ultimate-solution-to-blocking-ads-on-chrome-microsoft-edge-and-firefox-app)
-- [Alert Fatigue, and How to Fix it](https://dev.to/klip_klop/alert-fatigue-and-how-to-fix-it-34nl)
-- [Hosting index.html with HTTPS using Docker and Nginx](https://dev.to/hkthirano/hosting-indexhtml-with-https-using-docker-and-nginx-121p)
 <!-- BLOG-POST-LIST:END -->
 
