@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Computer Networking: Part 1 - The OSI Model](https://dev.to/codewithtee/understanding-computer-networking-part-1-the-osi-model-25m0)
 - [My Story of Leetcode Biweekly Contest 117](https://dev.to/craftingbugs/my-story-of-leetcode-biweekly-contest-117-3n8o)
 - [Difference Between Scripting and Programming Languages](https://dev.to/rogerwillium/difference-between-scripting-and-programming-languages-eie)
 - [Secure your Web Applications with Facial Authentication](https://dev.to/0ruko002/secure-your-web-applications-with-facial-authentication-3gof)
-- [How to deploy your frontend APP on firebase hosting.](https://dev.to/hermannleboss/how-to-deploy-your-frontend-app-on-firebase-hosting-16c9)
 <!-- BLOG-POST-LIST:END -->
 
