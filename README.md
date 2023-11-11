@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [asdasdasd](https://dev.to/leindfraust/asdasdasd-4h3e)
+- [How to deploy your frontend APP on firebase hosting.](https://dev.to/hermannleboss/how-to-deploy-your-frontend-app-on-firebase-hosting-16c9)
 - [Tailwind CSS in React - Creating Modal Popup](https://dev.to/pramodkumar115/tailwind-css-in-react-creating-modal-popup-21b7)
 - [AfricAi Chronicles: Crafting Tech Awesomeness in 2023 🚀](https://dev.to/cypriantinasheaarons/africai-chronicles-crafting-tech-awesomeness-in-2023-4jfo)
 - [I made a simple Room-based Low Code Multiplayer Framework for Gamemaker🚀](https://dev.to/lilshake/i-made-a-simple-room-based-low-code-multiplayer-framework-for-gamemaker-49mc)
