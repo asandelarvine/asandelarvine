@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Callback Pattern in Java for WorkerContext](https://dev.to/parthasutradhar/build-callback-in-java-for-workercontext-3925)
+- [YouTube AdBlocker: The Ultimate Solution to Blocking Ads on Chrome, Microsoft Edge, and Firefox](https://dev.to/kanani_nirav/youtube-adblocker-the-ultimate-solution-to-blocking-ads-on-chrome-microsoft-edge-and-firefox-app)
 - [Alert Fatigue, and How to Fix it](https://dev.to/klip_klop/alert-fatigue-and-how-to-fix-it-34nl)
 - [Hosting index.html with HTTPS using Docker and Nginx](https://dev.to/hkthirano/hosting-indexhtml-with-https-using-docker-and-nginx-121p)
-- [Getting Started with ML &amp; AI on AWS](https://dev.to/adewongdotcom/getting-started-with-ml-ai-on-aws-3edd)
-- [A React E-commerce app with dynamic cart features](https://dev.to/mohammadtaseenkhan/a-react-e-commerce-app-with-dynamic-cart-features-4mpi)
 <!-- BLOG-POST-LIST:END -->
 
