@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀](https://dev.to/dpills/create-a-streaming-ai-assistant-with-chatgpt-fastapi-websockets-and-react-3ehf)
 - [Automating your API tests using Python and Pytest](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
 - [All {M3 MacBook Pro} configs: Ranking by Compute/RAM/SSD per $](https://dev.to/maximsaplin/all-m3-macbook-pro-configs-ranking-by-computeramssd-per--pca)
 - [11 Ways to Optimize Your Website](https://dev.to/huericnan/11-ways-to-optimize-your-website-1356)
-- [BONUS: Diwali](https://dev.to/dhrn/day-86-diwali-2foc)
 <!-- BLOG-POST-LIST:END -->
 
