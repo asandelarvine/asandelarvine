@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Dependabot and Art](https://dev.to/nickytonline/yet-another-newsletter-lol-dependabot-and-art-40pd)
 - [Are You Ashamed of Your Old Code?](https://dev.to/anitaolsen/are-you-ashamed-of-your-old-code-3jeb)
 - [Python&#39;s Static Typing Safari: In Search of Code Clarity](https://dev.to/matteospanio/pythons-static-typing-safari-in-search-of-code-clarity-1bnb)
 - [Speed Up Hackathon Collaboration 🏃🤝](https://dev.to/livecycle/speed-up-hackathon-collaboration-2c1e)
-- [How to Evaluate LLM Applications](https://dev.to/guybuildingai/how-to-evaluate-llm-applications-5c92)
 <!-- BLOG-POST-LIST:END -->
 
