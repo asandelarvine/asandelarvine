@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yet Another Newsletter LOL: Dependabot and Art](https://dev.to/nickytonline/yet-another-newsletter-lol-dependabot-and-art-40pd)
-- [Are You Ashamed of Your Old Code?](https://dev.to/anitaolsen/are-you-ashamed-of-your-old-code-3jeb)
-- [Python&#39;s Static Typing Safari: In Search of Code Clarity](https://dev.to/matteospanio/pythons-static-typing-safari-in-search-of-code-clarity-1bnb)
-- [Speed Up Hackathon Collaboration 🏃🤝](https://dev.to/livecycle/speed-up-hackathon-collaboration-2c1e)
+- [Unboxing Ragna: Getting hands on and making it to work with Amazon Bedrock](https://dev.to/aws/unboxing-ragna-getting-hands-on-and-making-it-to-work-with-amazon-bedrock-7k3)
+- [How To Make a Hero Image in Next.js 13 and 14](https://dev.to/perssondennis/how-to-make-a-hero-image-in-nextjs-13-and-14-399k)
+- [What Is A Hash?](https://dev.to/scofieldidehen/what-is-a-hash-2op5)
+- [Hibernate Cheat Sheet](https://dev.to/burakboduroglu/hibernate-cheat-sheet-2dke)
 <!-- BLOG-POST-LIST:END -->
 
