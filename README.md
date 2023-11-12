@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Wrote an Article on Computer Networking](https://dev.to/codewithtee/day-3-wrote-an-article-on-computer-networking-34ad)
-- [Maximize Instagram Growth in 2023 with Top Services!](https://dev.to/igburst/maximize-instagram-growth-in-2023-with-top-services-200i)
-- [One “IF” to rule them all](https://dev.to/noriller/one-if-to-rule-them-all-4jpp)
-- [Understanding Computer Networking: Part 1 - The OSI Model✨](https://dev.to/codewithtee/understanding-computer-networking-part-1-the-osi-model-25m0)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-43lk)
+- [Is &quot;Work Less, Earn More&quot; an Achievable Dream?](https://dev.to/devteam/is-work-less-earn-more-an-achievable-dream-1nh)
+- [HTML: Tag vs. Element](https://dev.to/corinamurg/html-tag-vs-element-3dc5)
+- [Enhancing Service Security with Systemd](https://dev.to/dgries/enhancing-service-security-with-systemd-j2i)
 <!-- BLOG-POST-LIST:END -->
 
