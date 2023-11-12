@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring React&#39;s Top Useful Hooks with Code Examples](https://dev.to/rakibcloud/exploring-reacts-top-useful-hooks-with-code-examples-3ikc)
+- [The Power of Nothing: Crafting Elegant UI Designs](https://dev.to/iayeshasahar/the-power-of-nothing-crafting-elegant-ui-designs-36l6)
 - [Data warehouse without using SQL](https://dev.to/vivi9876/data-warehouse-without-using-sql-32j7)
-- [Mastering React: Essential JavaScript Concepts for Web Developers](https://dev.to/josephmaina/mastering-react-essential-javascript-concepts-for-web-developers-4i1i)
-- [Interceptando mensagens de erro com o nginx](https://dev.to/renandotcorrea/interceptando-mensagens-de-erro-com-o-nginx-346a)
-- [TypeScript for Beginners: A Gentle Introduction](https://dev.to/gurrudev/typescript-for-beginners-a-gentle-introduction-33ca)
+- [10 Useful Chrome Extensions for Web Developers](https://dev.to/this-is-learning/10-useful-chrome-extensions-for-web-developers-meg)
 <!-- BLOG-POST-LIST:END -->
 
