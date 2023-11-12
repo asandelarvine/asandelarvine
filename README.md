@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Evaluate LLM Applications](https://dev.to/guybuildingai/how-to-evaluate-llm-applications-5c92)
 - [Common mistakes to avoid when using React Hooks](https://dev.to/emkay860/common-mistakes-to-avoid-when-using-react-hooks-53gn)
 - [🧠 4 Traits of Successful Engineers](https://dev.to/alexr/4-traits-of-successful-engineers-5299)
 - [Indexes 101: What They Are, Why They Matter, and How to Use Them in PostgreSQL](https://dev.to/adii9/indexes-101-what-they-are-why-they-matter-and-how-to-use-them-in-postgresql-421e)
-- [Exploring React&#39;s Top Useful Hooks with Code Examples](https://dev.to/rakibcloud/exploring-reacts-top-useful-hooks-with-code-examples-3ikc)
 <!-- BLOG-POST-LIST:END -->
 
