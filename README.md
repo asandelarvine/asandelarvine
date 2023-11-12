@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Learned Generics in Go](https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6)
 - [Breaking Down SQL Syntax Guide to Using Quotes](https://dev.to/salmazz/breaking-down-sql-syntax-guide-to-using-quotes-8ic)
 - [Create a streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀](https://dev.to/dpills/create-a-streaming-ai-assistant-with-chatgpt-fastapi-websockets-and-react-3ehf)
 - [A Tale of Two Kitchens - Hypermodernizing Your Python Code Base](https://dev.to/ldrscke/a-tale-of-two-kitchens-hypermodernizing-your-python-code-base-3jnh)
-- [Automating your API tests using Python and Pytest](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
 <!-- BLOG-POST-LIST:END -->
 
