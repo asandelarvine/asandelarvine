@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is &quot;Work Less, Earn More&quot; an Achievable Dream?](https://dev.to/devteam/is-work-less-earn-more-an-achievable-dream-1nh)
+- [Top 6 System Design Patterns to Ace Every System Design Interview](https://dev.to/mukeshkuiry/top-6-system-design-patterns-to-ace-every-system-design-interview-4388)
+- [How I organize my CSS declarations 🗂️](https://dev.to/francescovetere/how-i-organize-my-css-declarations-2d52)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-43lk)
-- [HTML: Tag vs. Element](https://dev.to/corinamurg/html-tag-vs-element-3dc5)
-- [Enhancing Service Security with Systemd](https://dev.to/dgries/enhancing-service-security-with-systemd-j2i)
+- [Is &quot;Work Less, Earn More&quot; an Achievable Dream?](https://dev.to/devteam/is-work-less-earn-more-an-achievable-dream-1nh)
 <!-- BLOG-POST-LIST:END -->
 
