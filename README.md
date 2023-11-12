@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All {M3 MacBook Pro} configs: Ranking by Compute/RAM/SSD per $](https://dev.to/maximsaplin/all-m3-macbook-pro-configs-ranking-by-computeramssd-per--pca)
+- [11 Ways to Optimize Your Website](https://dev.to/huericnan/11-ways-to-optimize-your-website-1356)
+- [BONUS: Diwali](https://dev.to/dhrn/day-86-diwali-2foc)
 - [Como instalar o Docker Engine no Linux](https://dev.to/alfredotavio/como-instalar-o-docker-engine-no-linux-5092)
-- [Unboxing Ragna: Getting hands on and making it to work with Amazon Bedrock](https://dev.to/aws/unboxing-ragna-getting-hands-on-and-making-it-to-work-with-amazon-bedrock-7k3)
-- [How To Make a Hero Image in Next.js 13 and 14](https://dev.to/perssondennis/how-to-make-a-hero-image-in-nextjs-13-and-14-399k)
-- [What Is A Hash?](https://dev.to/scofieldidehen/what-is-a-hash-2op5)
 <!-- BLOG-POST-LIST:END -->
 
