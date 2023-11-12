@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering React: Essential JavaScript Concepts for Web Developers](https://dev.to/josephmaina/mastering-react-essential-javascript-concepts-for-web-developers-4i1i)
 - [Interceptando mensagens de erro com o nginx](https://dev.to/renandotcorrea/interceptando-mensagens-de-erro-com-o-nginx-346a)
+- [TypeScript for Beginners: A Gentle Introduction](https://dev.to/gurrudev/typescript-for-beginners-a-gentle-introduction-33ca)
 - [Top 6 System Design Patterns to Ace Every System Design Interview](https://dev.to/mukeshkuiry/top-6-system-design-patterns-to-ace-every-system-design-interview-4388)
-- [How I organize my CSS declarations 🗂️](https://dev.to/francescovetere/how-i-organize-my-css-declarations-2d52)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-43lk)
 <!-- BLOG-POST-LIST:END -->
 
