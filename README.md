@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Breaking Down SQL Syntax Guide to Using Quotes](https://dev.to/salmazz/breaking-down-sql-syntax-guide-to-using-quotes-8ic)
 - [Create a streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀](https://dev.to/dpills/create-a-streaming-ai-assistant-with-chatgpt-fastapi-websockets-and-react-3ehf)
+- [A Tale of Two Kitchens - Hypermodernizing Your Python Code Base](https://dev.to/ldrscke/a-tale-of-two-kitchens-hypermodernizing-your-python-code-base-3jnh)
 - [Automating your API tests using Python and Pytest](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
-- [All {M3 MacBook Pro} configs: Ranking by Compute/RAM/SSD per $](https://dev.to/maximsaplin/all-m3-macbook-pro-configs-ranking-by-computeramssd-per--pca)
 <!-- BLOG-POST-LIST:END -->
 
