@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create A Netflix Login Page in HTML and CSS | Learn With Danial](https://dev.to/codingcss/create-a-netflix-login-page-in-html-and-css-learn-with-danial-1cll)
 - [How I Learned Generics in Go](https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6)
 - [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
 - [Explaining Kubernetes To My Uber Driver](https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60)
-- [Mastering ES2019: A Deep Dive into Five Key JavaScript Features](https://dev.to/gervaisamoah/mastering-es2019-a-deep-dive-into-five-key-javascript-features-f4p)
 <!-- BLOG-POST-LIST:END -->
 
