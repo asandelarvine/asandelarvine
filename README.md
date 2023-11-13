@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How I Learned Generics in Go](https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6)
 - [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
-- [Breaking Down SQL Syntax Guide to Using Quotes](https://dev.to/salmazz/breaking-down-sql-syntax-guide-to-using-quotes-8ic)
-- [Create a streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀](https://dev.to/dpills/create-a-streaming-ai-assistant-with-chatgpt-fastapi-websockets-and-react-3ehf)
+- [Explaining Kubernetes To My Uber Driver](https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60)
+- [Mastering ES2019: A Deep Dive into Five Key JavaScript Features](https://dev.to/gervaisamoah/mastering-es2019-a-deep-dive-into-five-key-javascript-features-f4p)
 <!-- BLOG-POST-LIST:END -->
 
