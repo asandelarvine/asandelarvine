@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #179](https://dev.to/aws/aws-open-source-newsletter-179-4pje)
+- [Spring JDBC: Where Java Meets the Database, with a Dash of Humor!](https://dev.to/tyagi_data_wizard/spring-jdbc-where-java-meets-the-database-with-a-dash-of-humor-3kk3)
 - [Create A Netflix Login Page in HTML and CSS | Learn With Danial](https://dev.to/codingcss/create-a-netflix-login-page-in-html-and-css-learn-with-danial-1cll)
 - [How I Learned Generics in Go](https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6)
-- [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
-- [Explaining Kubernetes To My Uber Driver](https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60)
 <!-- BLOG-POST-LIST:END -->
 
