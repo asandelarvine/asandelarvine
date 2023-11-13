@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-59oj)
-- [🚀The Netflix DevSecOps Project 🚀](https://dev.to/swapi123/the-netflix-devsecops-project-49e3)
-- [My AI assistant took over my slides and presentation to make a statement.](https://dev.to/bogomil/my-ai-assistant-took-over-my-slides-and-presentation-to-make-a-statement-1e6c)
-- [The Importance of Math Drills for Elementary Students](https://dev.to/shikshapthinstitute/the-importance-of-math-drills-for-elementary-students-3622)
+- [10 Essential Tools Every Data Analyst Must Have](https://dev.to/rashtech/10-essential-tools-every-data-analyst-must-have-1pep)
+- [How I used Github Copilot Chat to debug my deployment workflow 🐥🤖](https://dev.to/github/how-i-used-github-copilot-chat-to-debug-my-deployment-workflow-3p51)
+- [OOP Clone Objects](https://dev.to/hasanelsherbiny/oop-clone-objects-2p66)
+- [Reducing Cold Starts on AWS Lambda with Java Runtime - Future Ideas about SnapStart, GraalVM and Co](https://dev.to/aws-builders/reducing-cold-starts-on-aws-lambda-with-java-runtime-future-ideas-about-snapstart-graalvm-and-co-3a1b)
 <!-- BLOG-POST-LIST:END -->
 
