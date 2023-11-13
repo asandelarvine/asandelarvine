@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot Dreams &amp; Markdown Streams: Creating React JS ChatGPT Bots in Minutes](https://dev.to/salmenus/chatbot-dreams-markdown-streams-creating-react-js-chatgpt-bots-in-minutes-1nig)
-- [How Giskard got their first 1,200 stars!](https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k)
-- [Modern API Development &lpar;Part 3&rpar; : Add GraphQL](https://dev.to/mitch1009/modern-api-development-part-3-add-graphql-3don)
-- [Security in modern Web Applications -&gt; Owasp to the rescue!](https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9)
+- [Day 4: React Native Onboarding UI using Lottie Animations](https://dev.to/codewithtee/day-4-react-native-onboarding-ui-using-lottie-animations-2366)
+- [Weekly Roundup 026 &lpar;Nov 6&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-026-nov-6-hot-topics-in-workplace-sharepoint-and-powerplatform-1ec1)
+- [I have made 100+ CSS-only Ribbon Shapes | The Perfect Collection 🎀](https://dev.to/afif/i-have-made-100-css-only-ribbon-shapes-the-perfect-collection-4374)
+- [SOLID, KISS, YAGNI and DRY Principles](https://dev.to/nknghiem/solid-kiss-yagni-and-dry-principles-ie7)
 <!-- BLOG-POST-LIST:END -->
 
