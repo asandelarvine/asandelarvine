@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I love Monaspace font for coding](https://dev.to/this-is-learning/why-i-love-monaspace-font-for-coding-47e7)
-- [AWS open source newsletter, #179](https://dev.to/aws/aws-open-source-newsletter-179-4pje)
-- [Spring JDBC: Where Java Meets the Database, with a Dash of Humor!](https://dev.to/tyagi_data_wizard/spring-jdbc-where-java-meets-the-database-with-a-dash-of-humor-3kk3)
-- [Create A Netflix Login Page in HTML and CSS | Learn With Danial](https://dev.to/codingcss/create-a-netflix-login-page-in-html-and-css-learn-with-danial-1cll)
+- [How Giskard got their first 1,200 stars!](https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k)
+- [A Tale of Two Heroes: Azure Form Recognizer vs. AI Builder](https://dev.to/balagmadhu/a-tale-of-two-heroes-azure-form-recognizer-vs-ai-builder-18dm)
+- [How to Build a Custom React Hook to Listen for Keyboard Events](https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4)
+- [How to use a Workqueue in Power Automate](https://dev.to/wyattdave/how-to-use-a-workqueue-in-power-automate-1o9a)
 <!-- BLOG-POST-LIST:END -->
 
