@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: React Native Onboarding UI using Lottie Animations](https://dev.to/codewithtee/day-4-react-native-onboarding-ui-using-lottie-animations-2366)
-- [Weekly Roundup 026 &lpar;Nov 6&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-026-nov-6-hot-topics-in-workplace-sharepoint-and-powerplatform-1ec1)
-- [I have made 100+ CSS-only Ribbon Shapes | The Perfect Collection 🎀](https://dev.to/afif/i-have-made-100-css-only-ribbon-shapes-the-perfect-collection-4374)
-- [SOLID, KISS, YAGNI and DRY Principles](https://dev.to/nknghiem/solid-kiss-yagni-and-dry-principles-ie7)
+- [Insurigo – Insurance WordPress Theme - 70% Off](https://dev.to/rs_rashid/insurigo-insurance-wordpress-theme-70-off-1nl5)
+- [🙌Top 10 🐍 Python libraries for any ML projects 🚀](https://dev.to/taipy/top-10-python-libraries-for-any-ml-projects-3gfp)
+- [Instalando Zabbix Server com MySQL, Grafana e Traefik em Docker](https://dev.to/alfredotavio/instalando-zabbix-server-com-mysql-grafana-e-traefik-em-docker-50em)
+- [I Finally Joined Twitter for My Developer Journey](https://dev.to/manishmehra/i-finally-joined-twitter-for-my-developer-journey-1d90)
 <!-- BLOG-POST-LIST:END -->
 
