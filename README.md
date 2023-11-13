@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Tools Every Data Analyst Must Have](https://dev.to/rashtech/10-essential-tools-every-data-analyst-must-have-1pep)
-- [How I used Github Copilot Chat to debug my deployment workflow 🐥🤖](https://dev.to/github/how-i-used-github-copilot-chat-to-debug-my-deployment-workflow-3p51)
-- [OOP Clone Objects](https://dev.to/hasanelsherbiny/oop-clone-objects-2p66)
-- [Reducing Cold Starts on AWS Lambda with Java Runtime - Future Ideas about SnapStart, GraalVM and Co](https://dev.to/aws-builders/reducing-cold-starts-on-aws-lambda-with-java-runtime-future-ideas-about-snapstart-graalvm-and-co-3a1b)
+- [How to make VS Code transparent || Glassy VS code](https://dev.to/pinky057/how-to-make-vs-code-transparent-glassy-vs-code-4gnj)
+- [Setting up Django in a Better Way in 5 Minutes and Understanding How It Works](https://dev.to/farhanmasud/setting-up-django-in-a-better-way-in-5-minutes-and-understanding-how-it-works-2lkg)
+- [The Power of Constraints: Why Less is More in Social Media](https://dev.to/khromov/the-power-of-constraints-why-less-is-more-in-social-media-3pg7)
+- [Insane new App/Game launch requirements on Android 😰](https://dev.to/svprdga/insane-new-appgame-launch-requirements-on-android-564i)
 <!-- BLOG-POST-LIST:END -->
 
