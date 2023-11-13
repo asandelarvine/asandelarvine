@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master Decorators and Generators in Python](https://dev.to/faithbolanle/master-decorators-and-generators-in-python-fme)
 - [Exploring Clerk Metadata with Stripe Webhooks](https://dev.to/clerk/exploring-clerk-metadata-with-stripe-webhooks-k04)
 - [Compartilhando seu conhecimento com o mundo! Como escrever artigos](https://dev.to/he4rt/compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc)
 - [🇺🇳 Discover a country UN SDGs concerns w/ Open Metadata on Neo4J](https://dev.to/adriens/discover-a-country-un-sdgs-concerns-w-open-metadata-on-neo4j-13df)
-- [Modern Database Management Explained](https://dev.to/domfive/modern-database-management-explained-16n0)
 <!-- BLOG-POST-LIST:END -->
 
