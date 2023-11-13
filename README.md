@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I just started learning SOLIDITY! Study with me?](https://dev.to/rodonguyen/i-just-started-learning-solidity-study-with-me-1o3j)
-- [Surveys for React Native](https://dev.to/nsmet/surveys-for-react-native-217c)
-- [Introduction to Docker Networking](https://dev.to/refine/introduction-to-docker-networking-35nl)
-- [Building a Type-Safe Microservices Backend in Go](https://dev.to/encore/building-a-type-safe-microservices-backend-in-go-198k)
+- [Creating an Interactive Image Gallery with HTML and CSS](https://dev.to/alvaromontoro/creating-an-interactive-image-gallery-with-html-and-css-35pi)
+- [What are your goals for the week of Nov 13?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-nov-13-599a)
+- [Meme Monday](https://dev.to/ben/meme-monday-11d4)
+- [Exploring the Cadence Access Model: Fine-Grained permissions for flow contracts](https://dev.to/mbogan/exploring-the-cadence-access-model-fine-grained-permissions-for-flow-contracts-4akd)
 <!-- BLOG-POST-LIST:END -->
 
