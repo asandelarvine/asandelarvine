@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [XML in Android Studio &lpar;Part 1&rpar;](https://dev.to/nandinishinduja/xml-in-android-studio-part-1-52k9)
-- [How to make VS Code transparent || Glassy VS code](https://dev.to/pinky057/how-to-make-vs-code-transparent-glassy-vs-code-4gnj)
-- [Setting up Django in a Better Way in 5 Minutes and Understanding How It Works](https://dev.to/farhanmasud/setting-up-django-in-a-better-way-in-5-minutes-and-understanding-how-it-works-2lkg)
-- [Raku Blog Posts 2023.46](https://dev.to/lizmat/raku-blog-posts-202346-2bi8)
+- [Exploring Clerk Metadata with Stripe Webhooks](https://dev.to/clerk/exploring-clerk-metadata-with-stripe-webhooks-k04)
+- [Compartilhando seu conhecimento com o mundo! Como escrever artigos](https://dev.to/he4rt/compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc)
+- [🇺🇳 Discover a country UN SDGs concerns w/ Open Metadata on Neo4J](https://dev.to/adriens/discover-a-country-un-sdgs-concerns-w-open-metadata-on-neo4j-13df)
+- [Modern Database Management Explained](https://dev.to/domfive/modern-database-management-explained-16n0)
 <!-- BLOG-POST-LIST:END -->
 
