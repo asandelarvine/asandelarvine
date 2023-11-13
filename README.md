@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I just started learning SOLIDITY! Study with me?](https://dev.to/rodonguyen/i-just-started-learning-solidity-study-with-me-1o3j)
+- [Surveys for React Native](https://dev.to/nsmet/surveys-for-react-native-217c)
 - [Introduction to Docker Networking](https://dev.to/refine/introduction-to-docker-networking-35nl)
 - [Building a Type-Safe Microservices Backend in Go](https://dev.to/encore/building-a-type-safe-microservices-backend-in-go-198k)
-- [Boosting Career in Data Engineering: Insights and Strategies](https://dev.to/rayanral/boosting-career-in-data-engineering-insights-and-strategies-1d9m)
-- [Preprocessor Directives in C#: Guide to Become a Pro](https://dev.to/bytehide/preprocessor-directives-in-c-guide-to-become-a-pro-1b12)
 <!-- BLOG-POST-LIST:END -->
 
