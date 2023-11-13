@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must have VS Code Extensions for Developers](https://dev.to/princegupta/10-must-have-vs-code-extensions-for-developers-3a23)
+- [Chatbot Dreams &amp; Markdown Streams: Creating React JS ChatGPT Bots in Minutes](https://dev.to/salmenus/chatbot-dreams-markdown-streams-creating-react-js-chatgpt-bots-in-minutes-1nig)
 - [How Giskard got their first 1,200 stars!](https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k)
 - [Modern API Development &lpar;Part 3&rpar; : Add GraphQL](https://dev.to/mitch1009/modern-api-development-part-3-add-graphql-3don)
 - [Security in modern Web Applications -&gt; Owasp to the rescue!](https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9)
