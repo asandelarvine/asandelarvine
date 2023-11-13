@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [XML in Android Studio &lpar;Part 1&rpar;](https://dev.to/nandinishinduja/xml-in-android-studio-part-1-52k9)
 - [How to make VS Code transparent || Glassy VS code](https://dev.to/pinky057/how-to-make-vs-code-transparent-glassy-vs-code-4gnj)
 - [Setting up Django in a Better Way in 5 Minutes and Understanding How It Works](https://dev.to/farhanmasud/setting-up-django-in-a-better-way-in-5-minutes-and-understanding-how-it-works-2lkg)
-- [The Power of Constraints: Why Less is More in Social Media](https://dev.to/khromov/the-power-of-constraints-why-less-is-more-in-social-media-3pg7)
-- [Insane new App/Game launch requirements on Android 😰](https://dev.to/svprdga/insane-new-appgame-launch-requirements-on-android-564i)
+- [Raku Blog Posts 2023.46](https://dev.to/lizmat/raku-blog-posts-202346-2bi8)
 <!-- BLOG-POST-LIST:END -->
 
