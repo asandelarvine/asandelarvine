@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Must have VS Code Extensions for Developers](https://dev.to/princegupta/10-must-have-vs-code-extensions-for-developers-3a23)
 - [How Giskard got their first 1,200 stars!](https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k)
-- [A Tale of Two Heroes: Azure Form Recognizer vs. AI Builder](https://dev.to/balagmadhu/a-tale-of-two-heroes-azure-form-recognizer-vs-ai-builder-18dm)
-- [How to Build a Custom React Hook to Listen for Keyboard Events](https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4)
-- [How to use a Workqueue in Power Automate](https://dev.to/wyattdave/how-to-use-a-workqueue-in-power-automate-1o9a)
+- [Modern API Development &lpar;Part 3&rpar; : Add GraphQL](https://dev.to/mitch1009/modern-api-development-part-3-add-graphql-3don)
+- [Security in modern Web Applications -&gt; Owasp to the rescue!](https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9)
 <!-- BLOG-POST-LIST:END -->
 
