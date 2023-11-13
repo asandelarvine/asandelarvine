@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Insurigo – Insurance WordPress Theme - 70% Off](https://dev.to/rs_rashid/insurigo-insurance-wordpress-theme-70-off-1nl5)
-- [🙌Top 10 🐍 Python libraries for any ML projects 🚀](https://dev.to/taipy/top-10-python-libraries-for-any-ml-projects-3gfp)
-- [Instalando Zabbix Server com MySQL, Grafana e Traefik em Docker](https://dev.to/alfredotavio/instalando-zabbix-server-com-mysql-grafana-e-traefik-em-docker-50em)
-- [I Finally Joined Twitter for My Developer Journey](https://dev.to/manishmehra/i-finally-joined-twitter-for-my-developer-journey-1d90)
+- [Building a Type-Safe Microservices Backend in Go](https://dev.to/encore/building-a-type-safe-microservices-backend-in-go-198k)
+- [Boosting Career in Data Engineering: Insights and Strategies](https://dev.to/rayanral/boosting-career-in-data-engineering-insights-and-strategies-1d9m)
+- [Preprocessor Directives in C#: Guide to Become a Pro](https://dev.to/bytehide/preprocessor-directives-in-c-guide-to-become-a-pro-1b12)
+- [Deploy your first Node 20 Lambda function on AWS!](https://dev.to/slsbytheodo/deploy-your-first-node-20-lambda-function-on-aws-2ac1)
 <!-- BLOG-POST-LIST:END -->
 
