@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Interactive Image Gallery with HTML and CSS](https://dev.to/alvaromontoro/creating-an-interactive-image-gallery-with-html-and-css-35pi)
-- [What are your goals for the week of Nov 13?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-nov-13-599a)
-- [Meme Monday](https://dev.to/ben/meme-monday-11d4)
-- [Exploring the Cadence Access Model: Fine-Grained permissions for flow contracts](https://dev.to/mbogan/exploring-the-cadence-access-model-fine-grained-permissions-for-flow-contracts-4akd)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-59oj)
+- [🚀The Netflix DevSecOps Project 🚀](https://dev.to/swapi123/the-netflix-devsecops-project-49e3)
+- [My AI assistant took over my slides and presentation to make a statement.](https://dev.to/bogomil/my-ai-assistant-took-over-my-slides-and-presentation-to-make-a-statement-1e6c)
+- [The Importance of Math Drills for Elementary Students](https://dev.to/shikshapthinstitute/the-importance-of-math-drills-for-elementary-students-3622)
 <!-- BLOG-POST-LIST:END -->
 
