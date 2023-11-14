@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Preferences: Long-Term or Quick Wins?](https://dev.to/codenewbieteam/project-preferences-long-term-or-quick-wins-3d60)
-- [How to host static sites on Github pages](https://dev.to/danielomehe/how-to-host-static-apps-on-github-pages-1464)
-- [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
-- [How to use CSS variables to create amazing theme transitions 🎨✨](https://dev.to/cataon/how-to-use-css-variables-to-create-amazing-theme-transitions-1po9)
+- [Database in System Design | Relational &amp; Non-relational Database](https://dev.to/mukeshkuiry/database-in-system-design-relational-non-relational-database-3ghl)
+- [Dynamic rate-limiting middleware in Express](https://dev.to/techjayvee/dynamic-rate-limiting-middleware-in-express-5hlm)
+- [Build a chatbot with the new OpenAI Assistant API and Function Calling](https://dev.to/esponges/build-the-new-openai-assistant-with-function-calling-52f5)
+- [Simplifying Daily Life with Automation and Python: A Journey into Artificial Intelligence](https://dev.to/devjaime/simplifying-daily-life-with-automation-and-python-a-journey-into-artificial-intelligence-1h2k)
 <!-- BLOG-POST-LIST:END -->
 
