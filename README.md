@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tags in HTML &lpar;part 1&rpar;](https://dev.to/nandinishinduja/tags-in-html-part-1-5d0m)
-- [The Open-source SPL Boosts MongoDB Computing Ability](https://dev.to/qbentil/the-open-source-spl-boosts-mongodb-computing-ability-45dl)
-- [How to add a Light/Dark mode button into a React or Next.js app using TailwindCSS](https://dev.to/dforrunner/how-to-add-a-lightdark-mode-button-into-a-react-or-nextjs-app-using-tailwindcss-4fhf)
-- [Jamstack: A Modern Way to Build Fast and Secure Websites 🪛](https://dev.to/martygo/jamstack-a-modern-way-to-build-fast-and-secure-websites-4l09)
+- [Amazing Loading Animation Using Html Css and Javascript.](https://dev.to/codingcss/amazing-loading-animation-using-html-css-and-javascript-4b44)
+- [Enhancing Code Efficiency: A Deep Dive into the Popularity Algorithm](https://dev.to/highcenburg/enhancing-code-efficiency-a-deep-dive-into-the-popularity-algorithm-4kfm)
+- [Customer Data Protection in GDPR-Compliant Marketing: Best Practices](https://dev.to/cbolick0033/customer-data-protection-in-gdpr-compliant-marketing-best-practices-1pa)
+- [Write your tech talk slides rapidly with Marp](https://dev.to/andyhaskell/write-your-tech-talk-slides-rapidly-with-marp-2c7g)
 <!-- BLOG-POST-LIST:END -->
 
