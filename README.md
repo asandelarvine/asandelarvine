@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thumbs Up Milestone Badges! 👍](https://dev.to/devteam/thumbs-up-milestone-badges-4992)
 - [Deep Dive into Docker](https://dev.to/adnanlatif/deep-dive-into-docker-2if)
 - [Using Dioxus with Rust to build performant single-page apps](https://dev.to/logrocket/using-dioxus-with-rust-to-build-performant-single-page-apps-3aem)
 - [Criando ambiente de desenvolvimento Java no Windows - sem wsl](https://dev.to/guilhermemiguel/criando-ambiente-de-desenvolvimento-java-no-windows-sem-wsl-5fek)
-- [I built an Markdown editor using Next.js and TailwindCss 🔥](https://dev.to/acidop/i-built-an-markdown-editor-using-nextjs-and-tailwindcss-46bg)
 <!-- BLOG-POST-LIST:END -->
 
