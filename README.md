@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Playable Piano Using HTML, CSS And JavaScript](https://dev.to/codingcss/playable-piano-using-html-css-and-javascript-5g6c)
+- [⚡️7 easy AI-product integrations &lpar;to keep up with the times 👴🏻👨‍🔧&rpar;](https://dev.to/copilotkit/7-easy-ai-product-integrations-to-keep-up-with-the-times--1cg2)
 - [What became of Heroku? 🤔](https://dev.to/encore/what-became-of-heroku-4c9i)
 - [🔥 Take NextJS to the next level: Create a GitHub stars monitor 🤯](https://dev.to/triggerdotdev/take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a)
-- [Deploy Rancher on AWS EKS using Terraform &amp; Helm Charts](https://dev.to/acloudguy/deploy-rancher-on-aws-eks-using-terraform-helm-charts-2gmj)
-- [Descubriendo AWS DeepRacer: Entrenando tu Primer Modelo](https://dev.to/aws-espanol/descubriendo-aws-deepracer-entrenando-tu-primer-modelo-4k84)
 <!-- BLOG-POST-LIST:END -->
 
