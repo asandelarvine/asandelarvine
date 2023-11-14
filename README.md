@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Unpacked: A Comprehensive Exploration of Containerization Revolution](https://dev.to/yogini16/docker-unpacked-a-comprehensive-exploration-of-containerization-revolution-4n5a)
 - [Amazing Loading Animation Using Html Css and Javascript.](https://dev.to/codingcss/amazing-loading-animation-using-html-css-and-javascript-4b44)
+- [[Programming Notes] Pseudo-REPL-driven programming in Rust with Evcxr and Emacs](https://dev.to/veer66/pseudo-repl-driven-programming-in-rust-2c6m)
 - [Enhancing Code Efficiency: A Deep Dive into the Popularity Algorithm](https://dev.to/highcenburg/enhancing-code-efficiency-a-deep-dive-into-the-popularity-algorithm-4kfm)
-- [Customer Data Protection in GDPR-Compliant Marketing: Best Practices](https://dev.to/cbolick0033/customer-data-protection-in-gdpr-compliant-marketing-best-practices-1pa)
-- [Write your tech talk slides rapidly with Marp](https://dev.to/andyhaskell/write-your-tech-talk-slides-rapidly-with-marp-2c7g)
 <!-- BLOG-POST-LIST:END -->
 
