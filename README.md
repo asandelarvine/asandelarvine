@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Preferences: Long-Term or Quick Wins?](https://dev.to/codenewbieteam/project-preferences-long-term-or-quick-wins-3d60)
+- [How to host static sites on Github pages](https://dev.to/danielomehe/how-to-host-static-apps-on-github-pages-1464)
 - [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
 - [How to use CSS variables to create amazing theme transitions 🎨✨](https://dev.to/cataon/how-to-use-css-variables-to-create-amazing-theme-transitions-1po9)
-- [Master Decorators and Generators in Python](https://dev.to/faithbolanle/master-decorators-and-generators-in-python-fme)
-- [Exploring Clerk Metadata with Stripe Webhooks](https://dev.to/clerk/exploring-clerk-metadata-with-stripe-webhooks-k04)
 <!-- BLOG-POST-LIST:END -->
 
