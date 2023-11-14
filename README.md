@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Unpacked: A Comprehensive Exploration of Containerization Revolution](https://dev.to/yogini16/docker-unpacked-a-comprehensive-exploration-of-containerization-revolution-4n5a)
-- [Amazing Loading Animation Using Html Css and Javascript.](https://dev.to/codingcss/amazing-loading-animation-using-html-css-and-javascript-4b44)
-- [[Programming Notes] Pseudo-REPL-driven programming in Rust with Evcxr and Emacs](https://dev.to/veer66/pseudo-repl-driven-programming-in-rust-2c6m)
-- [Enhancing Code Efficiency: A Deep Dive into the Popularity Algorithm](https://dev.to/highcenburg/enhancing-code-efficiency-a-deep-dive-into-the-popularity-algorithm-4kfm)
+- [Cloud Migration Challenges and Proven Solutions](https://dev.to/codingcrafts/cloud-migration-challenges-and-proven-solutions-47pb)
+- [3D Flip Product Card | CSS Tutorial](https://dev.to/codingcss/3d-flip-product-card-css-tutorial-57n8)
+- [Quản lý công việc với RemindWork](https://dev.to/remindwork/quan-ly-cong-viec-voi-remindwork-17lg)
+- [The Dawn of AI-Driven Intranets](https://dev.to/jaloplo/the-dawn-of-ai-driven-intranets-55l7)
 <!-- BLOG-POST-LIST:END -->
 
