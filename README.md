@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigating a failed VolumeSnapshot with NFS on Kubernetes](https://dev.to/donaldsebleung/investigating-a-failed-volumesnapshot-with-nfs-on-kubernetes-4hp1)
+- [Boost productivity with the GitHub CLI](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne)
 - [Playable Piano Using HTML, CSS And JavaScript](https://dev.to/codingcss/playable-piano-using-html-css-and-javascript-5g6c)
-- [⚡️7 easy AI-product integrations &lpar;to keep up with the times 👴🏻👨‍🔧&rpar;](https://dev.to/copilotkit/7-easy-ai-product-integrations-to-keep-up-with-the-times--1cg2)
-- [What became of Heroku? 🤔](https://dev.to/encore/what-became-of-heroku-4c9i)
-- [🔥 Take NextJS to the next level: Create a GitHub stars monitor 🤯](https://dev.to/triggerdotdev/take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a)
+- [You Probably Missed This Bug Because it Slips Through TypeScript](https://dev.to/nuxt-wimadev/this-bug-is-missed-all-the-time-because-typescript-doesnt-catch-it-1lc6)
 <!-- BLOG-POST-LIST:END -->
 
