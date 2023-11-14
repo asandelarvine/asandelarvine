@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use MySQL Database in Total.js with QueryBuilderMySQL?](https://dev.to/louis_bertson_1124e9cdc59/how-to-use-mysql-database-in-totaljs-with-querybuildermysql-20jc)
+- [How to create a blog with Next.js and React Bricks](https://dev.to/dsalinasgardon/how-to-create-a-blog-with-nextjs-and-react-bricks-2p6h)
 - [OPA vs. Google Zanzibar: A Brief Comparison](https://dev.to/egeaytin/opa-vs-google-zanzibar-a-brief-comparison-3gij)
 - [Understanding the Distinction: PUT vs. PATCH in API Design](https://dev.to/highcenburg/understanding-the-distinction-put-vs-patch-in-api-design-27bc)
-- [How To Build A Portfolio Website: React.js, Next.js 14, Tailwind CSS, Shadcn UI](https://dev.to/codingcss/how-to-build-a-portfolio-website-reactjs-nextjs-14-tailwind-css-shadcn-ui-3c6d)
-- [The Pomodoro Technique - How to use it effectively as a programmer](https://dev.to/eneaslari/the-pomodoro-technique-how-to-use-it-effectively-as-a-programmer-271f)
 <!-- BLOG-POST-LIST:END -->
 
