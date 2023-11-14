@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
+- [How to use CSS variables to create amazing theme transitions 🎨✨](https://dev.to/cataon/how-to-use-css-variables-to-create-amazing-theme-transitions-1po9)
 - [Master Decorators and Generators in Python](https://dev.to/faithbolanle/master-decorators-and-generators-in-python-fme)
 - [Exploring Clerk Metadata with Stripe Webhooks](https://dev.to/clerk/exploring-clerk-metadata-with-stripe-webhooks-k04)
-- [Compartilhando seu conhecimento com o mundo! Como escrever artigos](https://dev.to/he4rt/compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc)
-- [🇺🇳 Discover a country UN SDGs concerns w/ Open Metadata on Neo4J](https://dev.to/adriens/discover-a-country-un-sdgs-concerns-w-open-metadata-on-neo4j-13df)
 <!-- BLOG-POST-LIST:END -->
 
