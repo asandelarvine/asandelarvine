@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Migration Challenges and Proven Solutions](https://dev.to/codingcrafts/cloud-migration-challenges-and-proven-solutions-47pb)
-- [3D Flip Product Card | CSS Tutorial](https://dev.to/codingcss/3d-flip-product-card-css-tutorial-57n8)
-- [Quản lý công việc với RemindWork](https://dev.to/remindwork/quan-ly-cong-viec-voi-remindwork-17lg)
-- [The Dawn of AI-Driven Intranets](https://dev.to/jaloplo/the-dawn-of-ai-driven-intranets-55l7)
+- [Introducing our new startup Freeflow | Feedback needed](https://dev.to/mukeshkuiry/introducing-our-new-startup-freeflow-feedback-needed-490l)
+- [Accessibility Testing with Chrome DevTools](https://dev.to/josefine/accessibility-testing-with-chrome-devtools-2bl4)
+- [Create a Gradient Text Reveal on Scroll with Tailwind CSS and JS](https://dev.to/cruip_com/create-a-gradient-text-reveal-on-scroll-with-tailwind-css-and-js-4973)
+- [WHY REAL FRONT-END DEVELOPERS SHOULD REWRITE EVERYTHING IN RUST IN 2024](https://dev.to/jmfayard/why-real-developers-should-rewrite-everything-in-rust-in-2024-2hh)
 <!-- BLOG-POST-LIST:END -->
 
