@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I test a website for accessibility](https://dev.to/ilizette/how-i-test-a-website-for-accessibility-167g)
 - [Introducing our new startup Freeflow | Feedback needed](https://dev.to/mukeshkuiry/introducing-our-new-startup-freeflow-feedback-needed-490l)
+- [Data Engineer vs. Business Intelligence Data Analyst](https://dev.to/ai_jobsnet/data-engineer-vs-business-intelligence-data-analyst-2lc5)
 - [Accessibility Testing with Chrome DevTools](https://dev.to/josefine/accessibility-testing-with-chrome-devtools-2bl4)
-- [Create a Gradient Text Reveal on Scroll with Tailwind CSS and JS](https://dev.to/cruip_com/create-a-gradient-text-reveal-on-scroll-with-tailwind-css-and-js-4973)
-- [WHY REAL FRONT-END DEVELOPERS SHOULD REWRITE EVERYTHING IN RUST IN 2024](https://dev.to/jmfayard/why-real-developers-should-rewrite-everything-in-rust-in-2024-2hh)
 <!-- BLOG-POST-LIST:END -->
 
