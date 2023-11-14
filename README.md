@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Open-source SPL Boosts MongoDB Computing Ability](https://dev.to/qbentil/the-open-source-spl-boosts-mongodb-computing-ability-45dl)
+- [How to add a Light/Dark mode button into a React or Next.js app using TailwindCSS](https://dev.to/dforrunner/how-to-add-a-lightdark-mode-button-into-a-react-or-nextjs-app-using-tailwindcss-4fhf)
 - [Jamstack: A Modern Way to Build Fast and Secure Websites 🪛](https://dev.to/martygo/jamstack-a-modern-way-to-build-fast-and-secure-websites-4l09)
 - [Advantages and Disadvantages of React](https://dev.to/ayako_yk/advantages-and-disadvantages-of-react-2f2)
-- [Reponsive by default](https://dev.to/craft-code/reponsive-by-default-mjb)
-- [Database in System Design | Relational &amp; Non-relational Database](https://dev.to/mukeshkuiry/database-in-system-design-relational-non-relational-database-3ghl)
 <!-- BLOG-POST-LIST:END -->
 
