@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I built an Markdown editor using Next.js and TailwindCss 🔥](https://dev.to/acidop/i-built-an-markdown-editor-using-nextjs-and-tailwindcss-46bg)
+- [Day 87: Credentials](https://dev.to/dhrn/day-87-web-credentials-40ao)
 - [How to Use MySQL Database in Total.js with QueryBuilderMySQL?](https://dev.to/louis_bertson_1124e9cdc59/how-to-use-mysql-database-in-totaljs-with-querybuildermysql-20jc)
 - [How to create a blog with Next.js and React Bricks](https://dev.to/dsalinasgardon/how-to-create-a-blog-with-nextjs-and-react-bricks-2p6h)
-- [OPA vs. Google Zanzibar: A Brief Comparison](https://dev.to/egeaytin/opa-vs-google-zanzibar-a-brief-comparison-3gij)
-- [Understanding the Distinction: PUT vs. PATCH in API Design](https://dev.to/highcenburg/understanding-the-distinction-put-vs-patch-in-api-design-27bc)
 <!-- BLOG-POST-LIST:END -->
 
