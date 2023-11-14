@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💨 The fastest way to deploy your Javascript app to Kubernetes 🌬️ ✨](https://dev.to/odigos/the-fastest-way-to-deploy-your-javascript-app-to-kubernetes-2j33)
-- [Why is the ‘this’ Keyword Important in JavaScript?](https://dev.to/jaimaldullat/why-is-the-this-keyword-important-in-javascript-1gl1)
-- [45 NPM Packages to Solve 16 React Problems](https://dev.to/mohammadfaisal/45-npm-packages-to-solve-16-react-problems-1ogn)
-- [Mastering the GPT Workflow: A Comprehensive Guide to Harnessing AI-Powered Language Models](https://dev.to/agarralexx/mastering-the-gpt-workflow-a-comprehensive-guide-to-harnessing-ai-powered-language-models-3392)
+- [What became of Heroku? 🤔](https://dev.to/encore/what-became-of-heroku-4c9i)
+- [🔥 Take NextJS to the next level: Create a GitHub stars monitor 🤯](https://dev.to/triggerdotdev/take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a)
+- [Deploy Rancher on AWS EKS using Terraform &amp; Helm Charts](https://dev.to/acloudguy/deploy-rancher-on-aws-eks-using-terraform-helm-charts-2gmj)
+- [Descubriendo AWS DeepRacer: Entrenando tu Primer Modelo](https://dev.to/aws-espanol/descubriendo-aws-deepracer-entrenando-tu-primer-modelo-4k84)
 <!-- BLOG-POST-LIST:END -->
 
