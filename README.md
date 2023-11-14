@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Investigating a failed VolumeSnapshot with NFS on Kubernetes](https://dev.to/donaldsebleung/investigating-a-failed-volumesnapshot-with-nfs-on-kubernetes-4hp1)
-- [Boost productivity with the GitHub CLI](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne)
-- [Playable Piano Using HTML, CSS And JavaScript](https://dev.to/codingcss/playable-piano-using-html-css-and-javascript-5g6c)
-- [You Probably Missed This Bug Because it Slips Through TypeScript](https://dev.to/nuxt-wimadev/this-bug-is-missed-all-the-time-because-typescript-doesnt-catch-it-1lc6)
+- [OPA vs. Google Zanzibar: A Brief Comparison](https://dev.to/egeaytin/opa-vs-google-zanzibar-a-brief-comparison-3gij)
+- [Understanding the Distinction: PUT vs. PATCH in API Design](https://dev.to/highcenburg/understanding-the-distinction-put-vs-patch-in-api-design-27bc)
+- [How To Build A Portfolio Website: React.js, Next.js 14, Tailwind CSS, Shadcn UI](https://dev.to/codingcss/how-to-build-a-portfolio-website-reactjs-nextjs-14-tailwind-css-shadcn-ui-3c6d)
+- [The Pomodoro Technique - How to use it effectively as a programmer](https://dev.to/eneaslari/the-pomodoro-technique-how-to-use-it-effectively-as-a-programmer-271f)
 <!-- BLOG-POST-LIST:END -->
 
