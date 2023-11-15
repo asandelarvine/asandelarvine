@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [UI Components in React Native](https://dev.to/nandinishinduja/ui-components-in-react-native-19dh)
 - [Spring Boot + GraphQL example](https://dev.to/tienbku/spring-boot-graphql-example-39d8)
+- [How to set up on-prem Gitlab VCS, Gitlab CI/CD, Gitlab Runner, with Docker](https://dev.to/boiledsteak/how-to-set-up-on-prem-gitlab-vcs-gitlab-cicd-gitlab-runner-with-docker-3b5c)
 - [Add CI workflow to repo](https://dev.to/avelynhc/add-ci-workflow-to-repo-4993)
-- [How Do You Stay Inspired on Large Projects?](https://dev.to/codenewbieteam/how-do-you-stay-inspired-on-large-projects-4fgc)
-- [Git Revert: How to the complete guide](https://dev.to/alakkadshaw/git-revert-how-to-the-complete-guide-nd)
 <!-- BLOG-POST-LIST:END -->
 
