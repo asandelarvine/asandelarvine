@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Low-Code GPT AI App in 5 Minutes](https://dev.to/polterguy/create-a-low-code-gpt-ai-app-in-5-minutes-41ph)
-- [UI Components in React Native](https://dev.to/nandinishinduja/ui-components-in-react-native-19dh)
-- [Spring Boot + GraphQL example](https://dev.to/tienbku/spring-boot-graphql-example-39d8)
-- [How to set up on-prem Gitlab VCS, Gitlab CI/CD, Gitlab Runner, with Docker](https://dev.to/boiledsteak/how-to-set-up-on-prem-gitlab-vcs-gitlab-cicd-gitlab-runner-with-docker-3b5c)
+- [Getting Started with Routers in Next.js 13](https://dev.to/haszankauna/getting-started-with-routers-in-nextjs-13-1110)
+- [Day 5: Apni Canteen-Food Delivery App Using React Native And Sanity](https://dev.to/codewithtee/day-5-apni-canteen-food-delivery-app-using-react-native-and-sanity-4n0d)
+- [ESPC 2023: How to Spice Up Your Meetings with Microsoft Teams Meeting Extensions](https://dev.to/kasuken/espc-2023-how-to-spice-up-your-meetings-with-microsoft-teams-meeting-extensions-20kg)
+- [How Boilerplate Entity Framework is used in .Net Web Applications](https://dev.to/ifourtechnolab/how-boilerplate-entity-framework-is-used-in-net-web-applications-m7f)
 <!-- BLOG-POST-LIST:END -->
 
