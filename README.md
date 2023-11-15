@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make OpenAI API to Return JSON](https://dev.to/bolshchikov/how-to-make-openai-api-to-return-json-1hpi)
+- [Astro Markdoc: Readable, Declarative MDX Alternative](https://dev.to/askrodney/astro-markdoc-readable-declarative-mdx-alternative-9m)
+- [Didn&#39;t want to click on refresh to see updates, this is what I did!](https://dev.to/whykay/didnt-want-to-click-on-refresh-to-see-updates-this-is-what-i-did-4mm3)
 - [The Battle of IDEs: Visual Studio Code vs. JetBrains - Which Reigns Supreme?](https://dev.to/bhavesh_yadav/the-battle-of-ides-visual-studio-code-vs-jetbrains-which-reigns-supreme-30bj)
-- [How to Install Visual Studio Code](https://dev.to/mailingdelgadomedina/how-to-install-visual-studio-code-4ga7)
-- [Easy Customizable Star Rating Component in React](https://dev.to/alekswritescode/easy-customizable-star-rating-component-in-react-2e49)
-- [🚀 Git - Boost Your Productivity with Git worktrees 🌟](https://dev.to/theramoliya/git-boost-your-productivity-with-git-worktrees-3adn)
 <!-- BLOG-POST-LIST:END -->
 
