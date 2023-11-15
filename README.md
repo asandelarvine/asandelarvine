@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Learning to Code with a Full-Time Job&quot;: CodeNewbie Podcast S26E3](https://dev.to/codenewbieteam/learning-to-code-with-a-full-time-job-codenewbie-podcast-s26e3-47a6)
+- [O poder do CLI com Golang e Cobra CLI](https://dev.to/wiliamvj/o-poder-do-cli-com-golang-e-cobra-cli-5d5j)
 - [How to Make OpenAI API to Return JSON](https://dev.to/bolshchikov/how-to-make-openai-api-to-return-json-1hpi)
-- [Astro Markdoc: Readable, Declarative MDX Alternative](https://dev.to/askrodney/astro-markdoc-readable-declarative-mdx-alternative-9m)
-- [Didn&#39;t want to click on refresh to see updates, this is what I did!](https://dev.to/whykay/didnt-want-to-click-on-refresh-to-see-updates-this-is-what-i-did-4mm3)
-- [The Battle of IDEs: Visual Studio Code vs. JetBrains - Which Reigns Supreme?](https://dev.to/bhavesh_yadav/the-battle-of-ides-visual-studio-code-vs-jetbrains-which-reigns-supreme-30bj)
+- [A Guide to Debouncing in JavaScript and React | Create a Custom Hook](https://dev.to/knirmalkumar/a-guide-to-debouncing-in-javascript-and-react-create-a-custom-hook-4lcf)
 <!-- BLOG-POST-LIST:END -->
 
