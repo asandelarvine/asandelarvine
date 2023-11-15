@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Learning to Code with a Full-Time Job&quot;: CodeNewbie Podcast S26E3](https://dev.to/codenewbieteam/learning-to-code-with-a-full-time-job-codenewbie-podcast-s26e3-47a6)
-- [O poder do CLI com Golang e Cobra CLI](https://dev.to/wiliamvj/o-poder-do-cli-com-golang-e-cobra-cli-5d5j)
-- [How to Make OpenAI API to Return JSON](https://dev.to/bolshchikov/how-to-make-openai-api-to-return-json-1hpi)
-- [A Guide to Debouncing in JavaScript and React | Create a Custom Hook](https://dev.to/knirmalkumar/a-guide-to-debouncing-in-javascript-and-react-create-a-custom-hook-4lcf)
+- [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
+- [Introducing NumPy, a hero in Pythonland](https://dev.to/zarinsaima333/introducing-numpy-a-hero-in-pythonland-2p1f)
+- [Create a table of contents with highlighting in React](https://dev.to/asiakajoy42/create-a-table-of-contents-with-highlighting-in-react-1loi)
+- [A minimal dependency-free translation system for Next.js](https://dev.to/thomasledoux1/a-minimal-dependency-free-translation-system-for-nextjs-281o)
 <!-- BLOG-POST-LIST:END -->
 
