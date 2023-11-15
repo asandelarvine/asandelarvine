@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Traces: Learn by Contributing to OpenTelemetry](https://dev.to/kubeshop/the-power-of-traces-learn-by-contributing-to-opentelemetry-2ii9)
+- [Pesky common issues developers have with most dependencies and how MDB fixes them #1](https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-1-2hm5)
+- [Responsive dashboard using HTML &amp; CSS | Part - 2](https://dev.to/codingcss/responsive-dashboard-using-html-css-part-2-2pkb)
 - [Meet Your Future Co-workers: The Rise of AI Agents in the Office](https://dev.to/dawiddahl/meet-your-future-co-workers-the-rise-of-ai-agents-in-the-office-441m)
-- [Ethical Hacking](https://dev.to/stephenstalin21/ethical-hacking-og9)
-- [🚀 Software Developer &amp; Outdoor Enthusiast 🏄‍♂️🏔️🏊](https://dev.to/t0mclaudio/software-developer-outdoor-enthusiast-2c55)
-- [39 Programming Courses for Beginner Developers 👨‍💻👩‍💻](https://dev.to/madza/39-programming-courses-for-beginner-developers-3m6f)
 <!-- BLOG-POST-LIST:END -->
 
