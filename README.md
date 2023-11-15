@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is It So Hard To Find A Developer Job In 2023 &lpar;And How To Fix It&rpar; 🚀](https://dev.to/dragosnedelcu/why-is-it-so-hard-to-find-a-developer-job-in-2023-and-how-to-fix-it-2d13)
-- [A Primer on Unity Addressables and UGS Cloud Content Delivery](https://dev.to/attiliohimeki/a-primer-on-unity-addressables-and-ugs-cloud-content-delivery-4n1d)
-- [How dev-first startup Supabase grew from 0 to 50K+ GitHub stars](https://dev.to/fmerian/how-dev-first-startup-supabase-grew-from-0-to-50k-github-stars-5d4d)
-- [Securing CI/CD Images with Cosign and OPA](https://dev.to/harness/securing-cicd-images-with-cosign-and-opa-3plo)
+- [Easy Customizable Star Rating Component in React](https://dev.to/alekswritescode/easy-customizable-star-rating-component-in-react-2e49)
+- [🚀 Git - Boost Your Productivity with Git worktrees 🌟](https://dev.to/theramoliya/git-boost-your-productivity-with-git-worktrees-3adn)
+- [HasMySecretLeaked - Building a Trustless and Secure Protocol](https://dev.to/gitguardian/hasmysecretleaked-building-a-trustless-and-secure-protocol-3ife)
+- [Removing 100% of Hamster Wheel from Backend Development](https://dev.to/encore/removing-100-of-hamster-wheel-from-backend-development-3110)
 <!-- BLOG-POST-LIST:END -->
 
