@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Web: Unleashing is.firefox and is.not_firefox with &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-the-web-unleashing-isfirefox-and-isnotfirefox-with-thiis-1a88)
+- [Create an SVG Fractal Tree by Writing a Recursive Function - Easy JavaScript Tutorial](https://dev.to/piko/i-am-very-excited-i-wrote-a-simple-function-that-generates-fractal-trees-3986)
+- [🚀 Exciting React Project Showcase for Beginners! 🌟](https://dev.to/kawsarkabir/exciting-react-project-showcase-for-beginners-32ca)
 - [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
-- [Introducing NumPy, a hero in Pythonland](https://dev.to/zarinsaima333/introducing-numpy-a-hero-in-pythonland-2p1f)
-- [Create a table of contents with highlighting in React](https://dev.to/asiakajoy42/create-a-table-of-contents-with-highlighting-in-react-1loi)
-- [A minimal dependency-free translation system for Next.js](https://dev.to/thomasledoux1/a-minimal-dependency-free-translation-system-for-nextjs-281o)
 <!-- BLOG-POST-LIST:END -->
 
