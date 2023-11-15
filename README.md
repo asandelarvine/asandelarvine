@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [doIf &lpar;if/then/else&rpar;: JavaScript Functional Programming](https://dev.to/oculus42/doif-ifthenelse-javascript-functional-programming-4ni)
+- [Top 5 Interactive Tools to Learn Git: Essential for Every Junior Dev! 🚀](https://dev.to/rgolawski/top-5-interactive-tools-to-learn-git-essential-for-every-junior-dev-1lic)
 - [Navigating the Web: Unleashing is.firefox and is.not_firefox with &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-the-web-unleashing-isfirefox-and-isnotfirefox-with-thiis-1a88)
 - [Create an SVG Fractal Tree by Writing a Recursive Function - Easy JavaScript Tutorial](https://dev.to/piko/i-am-very-excited-i-wrote-a-simple-function-that-generates-fractal-trees-3986)
-- [🚀 Exciting React Project Showcase for Beginners! 🌟](https://dev.to/kawsarkabir/exciting-react-project-showcase-for-beginners-32ca)
-- [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
 <!-- BLOG-POST-LIST:END -->
 
