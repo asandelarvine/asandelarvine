@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A complete guide to Kubectl exec - K8s](https://dev.to/refine/a-complete-guide-to-kubectl-exec-k8s-2hc)
+- [How we built a GPT Web App Generator for React &amp; Node.js - from idea to 25,000 apps in 4 months](https://dev.to/wasp/how-we-built-a-gpt-web-app-generator-for-react-nodejs-from-idea-to-25000-apps-in-4-months-1aol)
 - [The Power of Traces: Learn by Contributing to OpenTelemetry](https://dev.to/kubeshop/the-power-of-traces-learn-by-contributing-to-opentelemetry-2ii9)
 - [Pesky common issues developers have with most dependencies and how MDB fixes them #1](https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-1-2hm5)
-- [Responsive dashboard using HTML &amp; CSS | Part - 2](https://dev.to/codingcss/responsive-dashboard-using-html-css-part-2-2pkb)
-- [Meet Your Future Co-workers: The Rise of AI Agents in the Office](https://dev.to/dawiddahl/meet-your-future-co-workers-the-rise-of-ai-agents-in-the-office-441m)
 <!-- BLOG-POST-LIST:END -->
 
