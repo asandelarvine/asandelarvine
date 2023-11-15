@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A complete guide to Kubectl exec - K8s](https://dev.to/refine/a-complete-guide-to-kubectl-exec-k8s-2hc)
-- [How we built a GPT Web App Generator for React &amp; Node.js - from idea to 25,000 apps in 4 months](https://dev.to/wasp/how-we-built-a-gpt-web-app-generator-for-react-nodejs-from-idea-to-25000-apps-in-4-months-1aol)
-- [The Power of Traces: Learn by Contributing to OpenTelemetry](https://dev.to/kubeshop/the-power-of-traces-learn-by-contributing-to-opentelemetry-2ii9)
-- [Pesky common issues developers have with most dependencies and how MDB fixes them #1](https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-1-2hm5)
+- [Why Is It So Hard To Find A Developer Job In 2023 &lpar;And How To Fix It&rpar; 🚀](https://dev.to/dragosnedelcu/why-is-it-so-hard-to-find-a-developer-job-in-2023-and-how-to-fix-it-2d13)
+- [A Primer on Unity Addressables and UGS Cloud Content Delivery](https://dev.to/attiliohimeki/a-primer-on-unity-addressables-and-ugs-cloud-content-delivery-4n1d)
+- [How dev-first startup Supabase grew from 0 to 50K+ GitHub stars](https://dev.to/fmerian/how-dev-first-startup-supabase-grew-from-0-to-50k-github-stars-5d4d)
+- [Securing CI/CD Images with Cosign and OPA](https://dev.to/harness/securing-cicd-images-with-cosign-and-opa-3plo)
 <!-- BLOG-POST-LIST:END -->
 
