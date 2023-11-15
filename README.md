@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot + GraphQL example](https://dev.to/tienbku/spring-boot-graphql-example-39d8)
+- [Add CI workflow to repo](https://dev.to/avelynhc/add-ci-workflow-to-repo-4993)
+- [How Do You Stay Inspired on Large Projects?](https://dev.to/codenewbieteam/how-do-you-stay-inspired-on-large-projects-4fgc)
 - [Git Revert: How to the complete guide](https://dev.to/alakkadshaw/git-revert-how-to-the-complete-guide-nd)
-- [Entendendo @decorators no Python em 6 passos](https://dev.to/vbuxbaum/entendendo-decorators-no-python-em-6-passos-4g5k)
-- [Web5 Meets Generative AI: Reimagining the Future of Digital Identity with Netonomy](https://dev.to/tbdevs/web5-meets-generative-ai-reimagining-the-future-of-digital-identity-with-netonomy-53fo)
 <!-- BLOG-POST-LIST:END -->
 
