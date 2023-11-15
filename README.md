@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Routers in Next.js 13](https://dev.to/haszankauna/getting-started-with-routers-in-nextjs-13-1110)
+- [Python Asyncio: A Guide to Asynchronous Programming and Concurrency](https://dev.to/greyisheepai/python-asyncio-a-guide-to-asynchronous-programming-and-concurrency-3kl5)
+- [Best Crypto VIP Programs in 2023](https://dev.to/deniz_tutku/best-crypto-vip-programs-in-2023-5b08)
 - [Day 5: Apni Canteen-Food Delivery App Using React Native And Sanity](https://dev.to/codewithtee/day-5-apni-canteen-food-delivery-app-using-react-native-and-sanity-4n0d)
 - [ESPC 2023: How to Spice Up Your Meetings with Microsoft Teams Meeting Extensions](https://dev.to/kasuken/espc-2023-how-to-spice-up-your-meetings-with-microsoft-teams-meeting-extensions-20kg)
-- [How Boilerplate Entity Framework is used in .Net Web Applications](https://dev.to/ifourtechnolab/how-boilerplate-entity-framework-is-used-in-net-web-applications-m7f)
 <!-- BLOG-POST-LIST:END -->
 
