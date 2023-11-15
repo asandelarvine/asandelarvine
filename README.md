@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Battle of IDEs: Visual Studio Code vs. JetBrains - Which Reigns Supreme?](https://dev.to/bhavesh_yadav/the-battle-of-ides-visual-studio-code-vs-jetbrains-which-reigns-supreme-30bj)
+- [How to Install Visual Studio Code](https://dev.to/mailingdelgadomedina/how-to-install-visual-studio-code-4ga7)
 - [Easy Customizable Star Rating Component in React](https://dev.to/alekswritescode/easy-customizable-star-rating-component-in-react-2e49)
 - [🚀 Git - Boost Your Productivity with Git worktrees 🌟](https://dev.to/theramoliya/git-boost-your-productivity-with-git-worktrees-3adn)
-- [HasMySecretLeaked - Building a Trustless and Secure Protocol](https://dev.to/gitguardian/hasmysecretleaked-building-a-trustless-and-secure-protocol-3ife)
-- [Removing 100% of Hamster Wheel from Backend Development](https://dev.to/encore/removing-100-of-hamster-wheel-from-backend-development-3110)
 <!-- BLOG-POST-LIST:END -->
 
