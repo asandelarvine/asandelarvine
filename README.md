@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⤴️ Be a prompt engineer: Understanding Midjourney LLM](https://dev.to/confidentai/be-a-prompt-engineer-understanding-midjourney-llm-464k)
-- [Welcome Thread - v251](https://dev.to/devteam/welcome-thread-v251-4fjl)
-- [Integrating Bun with Vite Ruby for Lightning-Fast Frontend Builds](https://dev.to/pftg/integrating-bun-with-vite-ruby-for-lightning-fast-frontend-builds-1fh2)
-- [CrabNebula and Tauri: Pioneering Resilient App Development Together](https://dev.to/crabnebula/crabnebula-and-tauri-pioneering-resilient-app-development-together-3gm2)
+- [Meet Your Future Co-workers: The Rise of AI Agents in the Office](https://dev.to/dawiddahl/meet-your-future-co-workers-the-rise-of-ai-agents-in-the-office-441m)
+- [Ethical Hacking](https://dev.to/stephenstalin21/ethical-hacking-og9)
+- [🚀 Software Developer &amp; Outdoor Enthusiast 🏄‍♂️🏔️🏊](https://dev.to/t0mclaudio/software-developer-outdoor-enthusiast-2c55)
+- [39 Programming Courses for Beginner Developers 👨‍💻👩‍💻](https://dev.to/madza/39-programming-courses-for-beginner-developers-3m6f)
 <!-- BLOG-POST-LIST:END -->
 
