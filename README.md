@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ain&#39;t no party like a PartyRock! Introducing the new Amazon Bedrock Playground](https://dev.to/aws-builders/aint-no-party-like-a-partyrock-introducing-the-new-amazon-bedrock-playground-10m4)
 - [Sloan&#39;s Inbox: How do you find a mentor?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-25)
 - [Navigating the Challenges of Home-Office Loneliness: A Personal Journey](https://dev.to/joaolandino/navigating-the-challenges-of-home-office-loneliness-a-personal-journey-45d9)
 - [Discussion of the Week - v11](https://dev.to/devteam/discussion-of-the-week-v11-449)
-- [The Future of Project Management: Leveraging AI to Streamline Operations and Enhance Communication](https://dev.to/leading-edje/the-future-of-project-management-leveraging-ai-to-streamline-operations-and-enhance-communication-286f)
 <!-- BLOG-POST-LIST:END -->
 
