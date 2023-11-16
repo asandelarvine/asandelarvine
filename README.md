@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗞 Rapyd Developer Newsletter: November 2023](https://dev.to/rapyd/rapyd-developer-newsletter-november-2023-55jn)
-- [Generative AI For Noobs: Learn With AWS PartyRock!](https://dev.to/aws-builders/generative-ai-for-noobs-learn-with-aws-partyrock-33ea)
-- [Down the Data Rabbit Hole: Alice&#39;s Adventure from Pandas to DuckDB Wonderland](https://dev.to/proteusiq/down-the-data-rabbit-hole-alices-adventure-from-pandas-to-duckdb-wonderland-25h0)
-- [How to build a desktop markdown editor](https://dev.to/ebuckley/how-to-build-a-desktop-markdown-editor-1agm)
+- [Sloan&#39;s Inbox: How do you find a mentor?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-25)
+- [Navigating the Challenges of Home-Office Loneliness: A Personal Journey](https://dev.to/joaolandino/navigating-the-challenges-of-home-office-loneliness-a-personal-journey-45d9)
+- [Discussion of the Week - v11](https://dev.to/devteam/discussion-of-the-week-v11-449)
+- [The Future of Project Management: Leveraging AI to Streamline Operations and Enhance Communication](https://dev.to/leading-edje/the-future-of-project-management-leveraging-ai-to-streamline-operations-and-enhance-communication-286f)
 <!-- BLOG-POST-LIST:END -->
 
