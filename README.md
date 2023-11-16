@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Python] How to get full url from shortened url](https://dev.to/deenuu1/python-how-to-get-full-url-from-shortened-url-24no)
+- [Stop Using ChatGPT To Write Your Blog Posts For You! It&#39;s Not Working...](https://dev.to/barrymichaeldoyle/stop-using-chatgpt-to-write-your-blog-posts-for-you-its-not-working-139g)
 - [doIf &lpar;if/then/else&rpar;: JavaScript Functional Programming](https://dev.to/oculus42/doif-ifthenelse-javascript-functional-programming-4ni)
 - [Top 5 Interactive Tools to Learn Git: Essential for Every Junior Dev! 🚀](https://dev.to/rgolawski/top-5-interactive-tools-to-learn-git-essential-for-every-junior-dev-1lic)
-- [Navigating the Web: Unleashing is.firefox and is.not_firefox with &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-the-web-unleashing-isfirefox-and-isnotfirefox-with-thiis-1a88)
-- [Create an SVG Fractal Tree by Writing a Recursive Function - Easy JavaScript Tutorial](https://dev.to/piko/i-am-very-excited-i-wrote-a-simple-function-that-generates-fractal-trees-3986)
 <!-- BLOG-POST-LIST:END -->
 
