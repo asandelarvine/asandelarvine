@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevating Your Mobile App Dreams: Expert React Native Development for iOS and Android](https://dev.to/ozair0/elevating-your-mobile-app-dreams-expert-react-native-development-for-ios-and-android-29ce)
-- [Message queue in System Design | Important topic for Interview 🚀](https://dev.to/mukeshkuiry/message-queue-in-system-design-important-topic-for-interview-4g1c)
-- [To Junior Developers](https://dev.to/mcharytoniuk/to-junior-developers-2ec5)
-- [Basic methods for comprehension](https://dev.to/____marcell/simple-techniques-for-understanding-something-4col)
+- [Build Expense Manager App Using React And TypeScript](https://dev.to/myogeshchavan97/build-expense-manager-app-using-react-and-typescript-46lo)
+- [The Real Cost of Open Source Software](https://dev.to/mattylantz/the-real-cost-of-open-source-software-1he)
+- [Cost optimisation on AWS: Navigating NAT Charges with Private ECS Tasks on Fargate](https://dev.to/chayanikaa/cost-optimisation-on-aws-navigating-nat-charges-with-private-ecs-tasks-on-fargate-21lp)
+- [Automatically run tests &amp; linters with CI!](https://dev.to/katiel/automatically-run-tests-formatters-linters-with-ci-487b)
 <!-- BLOG-POST-LIST:END -->
 
