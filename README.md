@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Operators, Loops, and Flow Control: A Comprehensive Guide](https://dev.to/serenepine/javascript-operators-loops-and-flow-control-a-comprehensive-guide-1a5m)
-- [Analyzing VTU Study Marks with Python: A Self-Motivation Tool](https://dev.to/farhakousar1601/analyzing-vtu-study-marks-with-python-a-self-motivation-tool-3b0b)
-- [GitHub Actions for Easy ARM64 and AMD64 Docker Image Builds](https://dev.to/gedeagas/github-actions-for-easy-arm64-and-amd64-docker-image-builds-fn)
-- [CSS Liquid Text Effect](https://dev.to/codingcss/css-liquid-text-effect-4adm)
+- [Meme November: Day - 16](https://dev.to/jon_snow789/meme-november-day-16-59fc)
+- [Release 0.35.0 of Spellcheck &lpar;GitHub&rpar; Action - another maintenance release](https://dev.to/jonasbn/release-0350-of-spellcheck-github-action-another-maintenance-release-30ja)
+- [Unlocking Front-End and Back-End Challenges: A Tech Journey](https://dev.to/flrnd/unlocking-front-end-and-back-end-challenges-a-tech-journey-2pid)
+- [How to become a better developer?](https://dev.to/victorg1002/how-to-become-a-better-developer-55dg)
 <!-- BLOG-POST-LIST:END -->
 
