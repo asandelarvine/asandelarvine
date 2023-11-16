@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Portfolio : Explore My World](https://dev.to/dev_kiran/portfolio-explore-my-world-1jge)
+- [SObjectizer Tales – 6. Is the stream still in progress?](https://dev.to/ilpropheta/sobjectizer-tales-6-is-the-stream-still-in-progress-1do2)
+- [The Art of Efficient Web Browsing - Last-Modified](https://dev.to/didof/the-art-of-efficient-web-browsing-public-resources-27hl)
 - [How to Create an Awesome Landing Page 💻 📱 with Tailwind CSS&lpar;Step-by-Step guide&rpar;](https://dev.to/creativetim_official/how-to-create-a-landing-page-with-tailwind-cssstep-by-step-guide-5b52)
-- [Remote vs Hybrid vs Office](https://dev.to/mainarthur/remote-vs-hybrid-vs-office-3k78)
-- [These 5 Open Source AI Startups are changing the AI Landscape](https://dev.to/fast/these-5-open-source-ai-startups-are-changing-the-ai-landscape-59dg)
-- [I present you HackerDigest: TLDR Version of HackerNews](https://dev.to/ogzhanolguncu/i-present-you-hackerdigest-tldr-version-of-hackernews-3b8a)
 <!-- BLOG-POST-LIST:END -->
 
