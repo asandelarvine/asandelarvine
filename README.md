@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Responsive Space Travel Agency Website | HTML , CSS And JavaScript](https://dev.to/codingcss/build-a-responsive-space-travel-agency-website-html-css-and-javascript-41d)
-- [How to get the count of your followers on dev.to](https://dev.to/tqbit/how-to-get-the-count-of-your-followers-on-devto-d5o)
-- [Exploring the OpenTelemetry Collector](https://dev.to/nfrankel/exploring-the-opentelemetry-collector-ldc)
-- [What&#39;s new in Angular 17](https://dev.to/this-is-angular/whats-new-in-angular-17-c81)
+- [Debug a React app with Visual Studio Code](https://dev.to/this-is-learning/debug-a-react-app-with-visual-studio-code-3cid)
+- [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
+- [MDB v7 is coming soon, very soon.](https://dev.to/mdbootstrap/mdb-v7-is-coming-soon-very-soon-1j2e)
+- [Coding Goes Online: A Brief Guide to Cloud Development Environments](https://dev.to/strongnetwork/coding-goes-online-a-brief-guide-to-cloud-development-environments-32oc)
 <!-- BLOG-POST-LIST:END -->
 
