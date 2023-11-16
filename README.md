@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Elevating Your Mobile App Dreams: Expert React Native Development for iOS and Android](https://dev.to/ozair0/elevating-your-mobile-app-dreams-expert-react-native-development-for-ios-and-android-29ce)
 - [Message queue in System Design | Important topic for Interview 🚀](https://dev.to/mukeshkuiry/message-queue-in-system-design-important-topic-for-interview-4g1c)
+- [To Junior Developers](https://dev.to/mcharytoniuk/to-junior-developers-2ec5)
 - [Basic methods for comprehension](https://dev.to/____marcell/simple-techniques-for-understanding-something-4col)
-- [[Python] How to get full url from shortened url](https://dev.to/deenuu1/python-how-to-get-full-url-from-shortened-url-24no)
 <!-- BLOG-POST-LIST:END -->
 
