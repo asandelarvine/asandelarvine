@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [These 8 Podcasts will help increase your knowledge and expand your mindset.](https://dev.to/vectorpodcast/these-8-podcasts-will-help-increase-your-knowledge-and-expand-your-mindset-5lb)
+- [Announcing the winners of the Ably Realtime Hackathon](https://dev.to/ably/announcing-the-winners-of-the-ably-realtime-hackathon-2eln)
+- [Extend your GPTs with C#](https://dev.to/polterguy/extend-your-gpts-with-c-2db)
 - [Debug a React app with Visual Studio Code](https://dev.to/this-is-learning/debug-a-react-app-with-visual-studio-code-3cid)
-- [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
-- [MDB v7 is coming soon, very soon.](https://dev.to/mdbootstrap/mdb-v7-is-coming-soon-very-soon-1j2e)
-- [Coding Goes Online: A Brief Guide to Cloud Development Environments](https://dev.to/strongnetwork/coding-goes-online-a-brief-guide-to-cloud-development-environments-32oc)
 <!-- BLOG-POST-LIST:END -->
 
