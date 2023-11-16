@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [These 8 Podcasts will help increase your knowledge and expand your mindset.](https://dev.to/vectorpodcast/these-8-podcasts-will-help-increase-your-knowledge-and-expand-your-mindset-5lb)
-- [Announcing the winners of the Ably Realtime Hackathon](https://dev.to/ably/announcing-the-winners-of-the-ably-realtime-hackathon-2eln)
-- [Extend your GPTs with C#](https://dev.to/polterguy/extend-your-gpts-with-c-2db)
-- [Debug a React app with Visual Studio Code](https://dev.to/this-is-learning/debug-a-react-app-with-visual-studio-code-3cid)
+- [How to Create an Awesome Landing Page 💻 📱 with Tailwind CSS&lpar;Step-by-Step guide&rpar;](https://dev.to/creativetim_official/how-to-create-a-landing-page-with-tailwind-cssstep-by-step-guide-5b52)
+- [Remote vs Hybrid vs Office](https://dev.to/mainarthur/remote-vs-hybrid-vs-office-3k78)
+- [These 5 Open Source AI Startups are changing the AI Landscape](https://dev.to/fast/these-5-open-source-ai-startups-are-changing-the-ai-landscape-59dg)
+- [I present you HackerDigest: TLDR Version of HackerNews](https://dev.to/ogzhanolguncu/i-present-you-hackerdigest-tldr-version-of-hackernews-3b8a)
 <!-- BLOG-POST-LIST:END -->
 
