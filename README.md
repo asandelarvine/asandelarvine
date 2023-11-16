@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Weather App Journey with Pyramid Framework ☁️🌦️](https://dev.to/bekbrace/my-weather-app-journey-with-pyramid-framework-55kg)
+- [Code Alchemy: Navigating the Zen of Software Mastery](https://dev.to/sagaofsilence/code-alchemy-navigating-the-zen-of-software-mastery-3ige)
+- [AWS PartyRock - Anyone can become a developer](https://dev.to/aws-builders/aws-partyrock-anyone-can-become-a-developer-2kn5)
 - [Revolutionary Approach to Information Scraping: Using OpenAI API for Efficient Data extraction](https://dev.to/n_demia/revolutionary-approach-to-information-scraping-using-openai-api-for-efficient-data-extraction-2fa9)
-- [CSS Liquid Text Effect](https://dev.to/codingcss/css-liquid-text-effect-267l)
-- [🥳 with Bedrock - partyrock!](https://dev.to/aws-builders/with-bedrock-partyrock-2n99)
-- [Day 89: Share it](https://dev.to/dhrn/day-89-share-405o)
 <!-- BLOG-POST-LIST:END -->
 
