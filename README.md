@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your program may not actually be Type-Safe](https://dev.to/encore/your-program-may-not-actually-be-type-safe-2g17)
-- [Adding Amazon Bedrock Llama2 as an assistant in Ragna](https://dev.to/aws/adding-amazon-bedrock-llama2-as-an-assistant-in-ragna-pdl)
-- [Stunning 3D Text Effect Using HTML And CSS](https://dev.to/codingcss/stunning-3d-text-effect-using-html-and-css-43m8)
-- [Rest is Key to Good Quality Code](https://dev.to/mattylantz/rest-is-key-to-good-quality-code-9be)
+- [JavaScript Operators, Loops, and Flow Control: A Comprehensive Guide](https://dev.to/serenepine/javascript-operators-loops-and-flow-control-a-comprehensive-guide-1a5m)
+- [Analyzing VTU Study Marks with Python: A Self-Motivation Tool](https://dev.to/farhakousar1601/analyzing-vtu-study-marks-with-python-a-self-motivation-tool-3b0b)
+- [GitHub Actions for Easy ARM64 and AMD64 Docker Image Builds](https://dev.to/gedeagas/github-actions-for-easy-arm64-and-amd64-docker-image-builds-fn)
+- [CSS Liquid Text Effect](https://dev.to/codingcss/css-liquid-text-effect-4adm)
 <!-- BLOG-POST-LIST:END -->
 
