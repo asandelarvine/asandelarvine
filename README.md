@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How did I hit 1000 followers in just 15 days?](https://dev.to/mukeshkuiry/how-did-i-hit-1000-followers-in-just-15-days-2ha4)
 - [Build Expense Manager App Using React And TypeScript](https://dev.to/myogeshchavan97/build-expense-manager-app-using-react-and-typescript-46lo)
-- [The Real Cost of Open Source Software](https://dev.to/mattylantz/the-real-cost-of-open-source-software-1he)
-- [Cost optimisation on AWS: Navigating NAT Charges with Private ECS Tasks on Fargate](https://dev.to/chayanikaa/cost-optimisation-on-aws-navigating-nat-charges-with-private-ecs-tasks-on-fargate-21lp)
-- [Automatically run tests &amp; linters with CI!](https://dev.to/katiel/automatically-run-tests-formatters-linters-with-ci-487b)
+- [How to Add Content Descriptions in Compose - A Guide for Android Devs](https://dev.to/eevajonnapanula/how-to-add-content-descriptions-in-compose-a-guide-for-android-devs-d22)
+- [How to Use @FindBy Annotation in Selenium Java](https://dev.to/lambdatest/how-to-use-findby-annotation-in-selenium-java-jf4)
 <!-- BLOG-POST-LIST:END -->
 
