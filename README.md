@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the OpenTelemetry Collector](https://dev.to/nfrankel/exploring-the-opentelemetry-collector-ldc)
 - [How did I hit 1000 followers in just 15 days?](https://dev.to/mukeshkuiry/how-did-i-hit-1000-followers-in-just-15-days-2ha4)
 - [Build Expense Manager App Using React And TypeScript](https://dev.to/myogeshchavan97/build-expense-manager-app-using-react-and-typescript-46lo)
 - [How to Add Content Descriptions in Compose - A Guide for Android Devs](https://dev.to/eevajonnapanula/how-to-add-content-descriptions-in-compose-a-guide-for-android-devs-d22)
-- [How to Use @FindBy Annotation in Selenium Java](https://dev.to/lambdatest/how-to-use-findby-annotation-in-selenium-java-jf4)
 <!-- BLOG-POST-LIST:END -->
 
