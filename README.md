@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme November: Day - 16](https://dev.to/jon_snow789/meme-november-day-16-59fc)
-- [Release 0.35.0 of Spellcheck &lpar;GitHub&rpar; Action - another maintenance release](https://dev.to/jonasbn/release-0350-of-spellcheck-github-action-another-maintenance-release-30ja)
-- [Unlocking Front-End and Back-End Challenges: A Tech Journey](https://dev.to/flrnd/unlocking-front-end-and-back-end-challenges-a-tech-journey-2pid)
-- [How to become a better developer?](https://dev.to/victorg1002/how-to-become-a-better-developer-55dg)
+- [Revolutionary Approach to Information Scraping: Using OpenAI API for Efficient Data extraction](https://dev.to/n_demia/revolutionary-approach-to-information-scraping-using-openai-api-for-efficient-data-extraction-2fa9)
+- [CSS Liquid Text Effect](https://dev.to/codingcss/css-liquid-text-effect-267l)
+- [🥳 with Bedrock - partyrock!](https://dev.to/aws-builders/with-bedrock-partyrock-2n99)
+- [Day 89: Share it](https://dev.to/dhrn/day-89-share-405o)
 <!-- BLOG-POST-LIST:END -->
 
