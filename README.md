@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Weather App Journey with Pyramid Framework ☁️🌦️](https://dev.to/bekbrace/my-weather-app-journey-with-pyramid-framework-55kg)
-- [Code Alchemy: Navigating the Zen of Software Mastery](https://dev.to/sagaofsilence/code-alchemy-navigating-the-zen-of-software-mastery-3ige)
-- [AWS PartyRock - Anyone can become a developer](https://dev.to/aws-builders/aws-partyrock-anyone-can-become-a-developer-2kn5)
-- [Revolutionary Approach to Information Scraping: Using OpenAI API for Efficient Data extraction](https://dev.to/n_demia/revolutionary-approach-to-information-scraping-using-openai-api-for-efficient-data-extraction-2fa9)
+- [Containerizing my Pipeline Service](https://dev.to/itech88/containerizing-my-pipeline-service-54a2)
+- [What&#39;s new in .NET 8?](https://dev.to/satish/whats-new-in-net-8-k1j)
+- [Tidy Code--Unique Names](https://dev.to/delonnewman/tidy-code-unique-names-582g)
+- [Code Reviewer using PartyRock](https://dev.to/aws-builders/code-reviewer-using-partyrock-4fj)
 <!-- BLOG-POST-LIST:END -->
 
