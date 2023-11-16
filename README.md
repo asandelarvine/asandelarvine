@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerizing my Pipeline Service](https://dev.to/itech88/containerizing-my-pipeline-service-54a2)
-- [What&#39;s new in .NET 8?](https://dev.to/satish/whats-new-in-net-8-k1j)
-- [Tidy Code--Unique Names](https://dev.to/delonnewman/tidy-code-unique-names-582g)
-- [Code Reviewer using PartyRock](https://dev.to/aws-builders/code-reviewer-using-partyrock-4fj)
+- [🗞 Rapyd Developer Newsletter: November 2023](https://dev.to/rapyd/rapyd-developer-newsletter-november-2023-55jn)
+- [Generative AI For Noobs: Learn With AWS PartyRock!](https://dev.to/aws-builders/generative-ai-for-noobs-learn-with-aws-partyrock-33ea)
+- [Down the Data Rabbit Hole: Alice&#39;s Adventure from Pandas to DuckDB Wonderland](https://dev.to/proteusiq/down-the-data-rabbit-hole-alices-adventure-from-pandas-to-duckdb-wonderland-25h0)
+- [How to build a desktop markdown editor](https://dev.to/ebuckley/how-to-build-a-desktop-markdown-editor-1agm)
 <!-- BLOG-POST-LIST:END -->
 
