@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio : Explore My World](https://dev.to/dev_kiran/portfolio-explore-my-world-1jge)
-- [SObjectizer Tales – 6. Is the stream still in progress?](https://dev.to/ilpropheta/sobjectizer-tales-6-is-the-stream-still-in-progress-1do2)
-- [The Art of Efficient Web Browsing - Last-Modified](https://dev.to/didof/the-art-of-efficient-web-browsing-public-resources-27hl)
-- [How to Create an Awesome Landing Page 💻 📱 with Tailwind CSS&lpar;Step-by-Step guide&rpar;](https://dev.to/creativetim_official/how-to-create-a-landing-page-with-tailwind-cssstep-by-step-guide-5b52)
+- [Your program may not actually be Type-Safe](https://dev.to/encore/your-program-may-not-actually-be-type-safe-2g17)
+- [Adding Amazon Bedrock Llama2 as an assistant in Ragna](https://dev.to/aws/adding-amazon-bedrock-llama2-as-an-assistant-in-ragna-pdl)
+- [Stunning 3D Text Effect Using HTML And CSS](https://dev.to/codingcss/stunning-3d-text-effect-using-html-and-css-43m8)
+- [Rest is Key to Good Quality Code](https://dev.to/mattylantz/rest-is-key-to-good-quality-code-9be)
 <!-- BLOG-POST-LIST:END -->
 
