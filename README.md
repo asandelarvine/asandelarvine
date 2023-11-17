@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Going PartyRocking and Best Practices with PartyRock, an Amazon Bedrock Playground](https://dev.to/aws-builders/a-guide-to-going-partyrocking-with-partyrock-3gg5)
-- [Generative AI for Kids: PartyRock to the Rescue](https://dev.to/aws-heroes/generative-ai-for-kids-partyrock-to-the-rescue-4eoc)
-- [Create a Full stack Rust desktop App with Tauri, Yew and Tailwind CSS](https://dev.to/maxtaylor/create-a-full-stack-rust-desktop-app-with-tauri-yew-and-tailwind-css-2962)
-- [Ain&#39;t no party like a PartyRock! Introducing the new Amazon Bedrock Playground](https://dev.to/aws-builders/aint-no-party-like-a-partyrock-introducing-the-new-amazon-bedrock-playground-10m4)
+- [How to market a new born Startup | Discuss](https://dev.to/mukeshkuiry/how-to-market-a-new-born-startup-discuss-df3)
+- [Navigating the Browser Landscape with is.ie and is.not_ie from &#39;thiis&#39;: A Journey into Internet Explorer Detection](https://dev.to/karbashevskyi/navigating-the-browser-landscape-with-isie-and-isnotie-from-thiis-a-journey-into-internet-explorer-detection-1c4m)
+- [Introducing Mr-Know-It-All-O-Matic](https://dev.to/aws-builders/introducing-mr-know-it-all-o-matic-3bpp)
+- [How Do You Stay Fit As A Busy Tech Professional?](https://dev.to/chukwuma1976/how-do-you-stay-fit-as-a-busy-tech-professional-345a)
 <!-- BLOG-POST-LIST:END -->
 
