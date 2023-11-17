@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Rebrands Bing Chat as &quot;Copilot&quot; in a Move to Unify AI Offerings](https://dev.to/alexr/microsoft-rebrands-bing-chat-as-copilot-in-a-move-to-unify-ai-offerings-9lk)
-- [What is Fuzz Testing?](https://dev.to/shivamchamoli18/what-is-fuzz-testing-c9j)
-- [Creating and running a Next.js project using Bun](https://dev.to/emesislol/creating-and-running-a-nextjs-project-using-bun-aef)
-- [Is POSIX Really Unsuitable for Object Stores? A Data-Backed Answer](https://dev.to/daswu/is-posix-really-unsuitable-for-object-stores-a-data-backed-answer-30k9)
+- [Complete Website using HTML And CSS | CSS Project](https://dev.to/codingcss/complete-website-using-html-and-css-css-project-3l99)
+- [Remainder Operator in JS](https://dev.to/shubhamtiwari909/remainder-operator-in-js-41jk)
+- [How to Use JavaScript Array Splice](https://dev.to/refine/how-to-use-javascript-array-splice-1873)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ebf)
 <!-- BLOG-POST-LIST:END -->
 
