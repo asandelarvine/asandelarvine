@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Rebrands Bing Chat as &quot;Copilot&quot; in a Move to Unify AI Offerings](https://dev.to/alexr/microsoft-rebrands-bing-chat-as-copilot-in-a-move-to-unify-ai-offerings-9lk)
+- [What is Fuzz Testing?](https://dev.to/shivamchamoli18/what-is-fuzz-testing-c9j)
+- [Creating and running a Next.js project using Bun](https://dev.to/emesislol/creating-and-running-a-nextjs-project-using-bun-aef)
 - [Is POSIX Really Unsuitable for Object Stores? A Data-Backed Answer](https://dev.to/daswu/is-posix-really-unsuitable-for-object-stores-a-data-backed-answer-30k9)
-- [🐬How to Install Local MySQL on Your Mac, Ubuntu, CentOS, Windows🚀🦾](https://dev.to/bytebase/how-to-install-local-mysql-on-your-mac-ubuntu-centos-windows-42bf)
-- [How to Create Glass Dashboard with HTML and CSS](https://dev.to/codingcss/how-to-create-glass-dashboard-with-html-and-css-27g8)
-- [Boost Your React Projects with These Open Source Component Libraries](https://dev.to/codingcrafts/boost-your-react-projects-with-these-open-source-component-libraries-4nai)
 <!-- BLOG-POST-LIST:END -->
 
