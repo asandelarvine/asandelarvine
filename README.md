@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O problema de SQL que quase me enlouqueceu](https://dev.to/nobrelucas/o-problema-de-sql-que-quase-me-enlouqueceu-2j6f)
 - [Mastering Progressive Web Apps &lpar;PWAs&rpar;: Advanced Techniques and Best Practices](https://dev.to/ahmed_onour/mastering-progressive-web-apps-pwas-advanced-techniques-and-best-practices-5e92)
 - [Understanding Object Copying in Python](https://dev.to/suvhotta/understanding-object-copying-in-python-19k1)
-- [Codemotion Milan 2023: my first session in public](https://dev.to/th3wall/codemotion-milan-2023-my-first-session-in-public-hc6)
-- [The Power of Product Roadmaps: Aligning Teams for Success](https://dev.to/alexr/the-power-of-product-roadmaps-aligning-teams-for-success-3gdn)
+- [How to Install Wordpress on AWS &lpar;TAMIL-தமிழில்&rpar;:](https://dev.to/muthukumark98/how-to-install-wordpress-on-aws-tamil-tmilllil-n48)
 <!-- BLOG-POST-LIST:END -->
 
