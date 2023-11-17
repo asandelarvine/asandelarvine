@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Website using HTML And CSS | CSS Project](https://dev.to/codingcss/complete-website-using-html-and-css-css-project-3l99)
-- [Remainder Operator in JS](https://dev.to/shubhamtiwari909/remainder-operator-in-js-41jk)
-- [How to Use JavaScript Array Splice](https://dev.to/refine/how-to-use-javascript-array-splice-1873)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ebf)
+- [Mastering Progressive Web Apps &lpar;PWAs&rpar;: Advanced Techniques and Best Practices](https://dev.to/ahmed_onour/mastering-progressive-web-apps-pwas-advanced-techniques-and-best-practices-5e92)
+- [Understanding Object Copying in Python](https://dev.to/suvhotta/understanding-object-copying-in-python-19k1)
+- [Codemotion Milan 2023: my first session in public](https://dev.to/th3wall/codemotion-milan-2023-my-first-session-in-public-hc6)
+- [The Power of Product Roadmaps: Aligning Teams for Success](https://dev.to/alexr/the-power-of-product-roadmaps-aligning-teams-for-success-3gdn)
 <!-- BLOG-POST-LIST:END -->
 
