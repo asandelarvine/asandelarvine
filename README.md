@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Going PartyRocking and Best Practices with PartyRock, an Amazon Bedrock Playground](https://dev.to/aws-builders/a-guide-to-going-partyrocking-with-partyrock-3gg5)
+- [Generative AI for Kids: PartyRock to the Rescue](https://dev.to/aws-heroes/generative-ai-for-kids-partyrock-to-the-rescue-4eoc)
+- [Create a Full stack Rust desktop App with Tauri, Yew and Tailwind CSS](https://dev.to/maxtaylor/create-a-full-stack-rust-desktop-app-with-tauri-yew-and-tailwind-css-2962)
 - [Ain&#39;t no party like a PartyRock! Introducing the new Amazon Bedrock Playground](https://dev.to/aws-builders/aint-no-party-like-a-partyrock-introducing-the-new-amazon-bedrock-playground-10m4)
-- [Sloan&#39;s Inbox: How do you find a mentor?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-25)
-- [Navigating the Challenges of Home-Office Loneliness: A Personal Journey](https://dev.to/joaolandino/navigating-the-challenges-of-home-office-loneliness-a-personal-journey-45d9)
-- [Discussion of the Week - v11](https://dev.to/devteam/discussion-of-the-week-v11-449)
 <!-- BLOG-POST-LIST:END -->
 
