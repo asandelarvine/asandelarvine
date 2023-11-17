@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Zebras Guide to Showcase Your Images in Light &amp; Dark](https://dev.to/nathan_tarbert/the-zebras-guide-to-showcase-your-images-in-light-dark-17f5)
-- [Ansible Playbook writing for beginners: Automate your morning routine](https://dev.to/xlab_steampunk/ansible-playbook-writing-for-beginners-automate-your-morning-routine-2ii1)
-- [O problema de SQL que quase me enlouqueceu](https://dev.to/nobrelucas/o-problema-de-sql-que-quase-me-enlouqueceu-2j6f)
-- [How to create a Kotlin Multi-Module Project](https://dev.to/tleipzig/how-to-create-a-kotlin-multi-module-project-55da)
+- [Dark Mode Duck and other CSS Ducks.](https://dev.to/jarvisscript/dark-mode-duck-and-other-css-ducks-4oag)
+- [Why Hedera has the highest TPS on Chainspect?](https://dev.to/fromaline/why-hedera-has-the-highest-tps-on-chainspect-1io4)
+- [Maximizing Profits: A Comprehensive Guide to Mobile Ad Networks and Tools for App Monetization](https://dev.to/onix-systems/maximizing-profits-a-comprehensive-guide-to-mobile-ad-networks-and-tools-for-app-monetization-1p61)
+- [MongoDB with Laravel - Simple CRUD app](https://dev.to/jeevanizm/mongodb-with-laravel-simple-crud-app-2je0)
 <!-- BLOG-POST-LIST:END -->
 
