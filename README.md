@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn to code in 5 steps, and 3 habits, Hello folks,](https://dev.to/salahmz/learn-to-code-in-5-steps-and-3-habits-hello-folks-ea7)
+- [Creating an AWS Setup for Testing GraphDB and Generative AI Applications](https://dev.to/aws-builders/creating-an-aws-setup-for-testing-graphdb-and-generative-ai-applications-9i1)
+- [Array methods and when to use them, forEach, map, reduce](https://dev.to/gingerchew/array-methods-and-when-to-use-them-foreach-map-reduce-5bab)
 - [Rust Concurrency Explained: A Beginner&#39;s Guide to Arc and Mutex](https://dev.to/ietxaniz/rust-concurrency-explained-a-beginners-guide-to-arc-and-mutex-13ca)
-- [JavaScript From 0 to Mastery: My Personal Playbook for Conquering Web Development](https://dev.to/opensourcee/javascript-from-0-to-mastery-the-way-i-would-do-it-today-5d19)
-- [# A new look at modals in vue 3](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
-- [Having fun with svelte stores with store proxies](https://dev.to/nasheomirro/having-fun-with-svelte-stores-with-store-proxies-k6e)
 <!-- BLOG-POST-LIST:END -->
 
