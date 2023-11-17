@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Concurrency Explained: A Beginner&#39;s Guide to Arc and Mutex](https://dev.to/ietxaniz/rust-concurrency-explained-a-beginners-guide-to-arc-and-mutex-13ca)
+- [JavaScript From 0 to Mastery: My Personal Playbook for Conquering Web Development](https://dev.to/opensourcee/javascript-from-0-to-mastery-the-way-i-would-do-it-today-5d19)
 - [# A new look at modals in vue 3](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
-- [Luck = [Doing Things] x [Telling People]](https://dev.to/satoshi-sh/luck-doing-things-x-telling-people-17kl)
-- [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
-- [Creating simple static server component](https://dev.to/denisx/creating-simple-static-server-component-39l2)
+- [Having fun with svelte stores with store proxies](https://dev.to/nasheomirro/having-fun-with-svelte-stores-with-store-proxies-k6e)
 <!-- BLOG-POST-LIST:END -->
 
