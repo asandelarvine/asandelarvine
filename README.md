@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DynamoDB And Lambda Triggers](https://dev.to/gilhope/dynamodb-and-lambda-triggers-53he)
-- [DevOps Interview:Absolute path and Relative path in Linux](https://dev.to/devopstune/devops-interviewabsolute-path-and-relative-path-in-linux-29j6)
-- [How to market a new born Startup | Discuss](https://dev.to/mukeshkuiry/how-to-market-a-new-born-startup-discuss-df3)
-- [Navigating the Browser Landscape with is.ie and is.not_ie from &#39;thiis&#39;: A Journey into Internet Explorer Detection](https://dev.to/karbashevskyi/navigating-the-browser-landscape-with-isie-and-isnotie-from-thiis-a-journey-into-internet-explorer-detection-1c4m)
+- [First ever Blog on JavaScript](https://dev.to/ibrahimajalloh96/first-ever-blog-on-javascript-5c1a)
+- [Setting up Continuous Integration](https://dev.to/amnish04/setting-up-continuous-integration-1cb5)
+- [Exploring the Significance of Telecommuting Technology and Its Future Prospects](https://dev.to/cbolick0033/exploring-the-significance-of-telecommuting-technology-and-its-future-prospects-2fon)
+- [How to Achieve Zero Downtime Deployments with Blue-Green Deployment in Kubernetes?](https://dev.to/firstfingerin/how-to-achieve-zero-downtime-deployments-with-blue-green-deployment-in-kubernetes-24ni)
 <!-- BLOG-POST-LIST:END -->
 
