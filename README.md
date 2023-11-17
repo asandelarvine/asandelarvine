@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DynamoDB And Lambda Triggers](https://dev.to/gilhope/dynamodb-and-lambda-triggers-53he)
+- [DevOps Interview:Absolute path and Relative path in Linux](https://dev.to/devopstune/devops-interviewabsolute-path-and-relative-path-in-linux-29j6)
 - [How to market a new born Startup | Discuss](https://dev.to/mukeshkuiry/how-to-market-a-new-born-startup-discuss-df3)
 - [Navigating the Browser Landscape with is.ie and is.not_ie from &#39;thiis&#39;: A Journey into Internet Explorer Detection](https://dev.to/karbashevskyi/navigating-the-browser-landscape-with-isie-and-isnotie-from-thiis-a-journey-into-internet-explorer-detection-1c4m)
-- [Introducing Mr-Know-It-All-O-Matic](https://dev.to/aws-builders/introducing-mr-know-it-all-o-matic-3bpp)
-- [How Do You Stay Fit As A Busy Tech Professional?](https://dev.to/chukwuma1976/how-do-you-stay-fit-as-a-busy-tech-professional-345a)
 <!-- BLOG-POST-LIST:END -->
 
