@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Episode 23/45: Angular 17](https://dev.to/this-is-angular/episode-2345-angular-17-50oe)
 - [Learn to code in 5 steps, and 3 habits, Hello folks,](https://dev.to/salahmz/learn-to-code-in-5-steps-and-3-habits-hello-folks-ea7)
 - [Creating an AWS Setup for Testing GraphDB and Generative AI Applications](https://dev.to/aws-builders/creating-an-aws-setup-for-testing-graphdb-and-generative-ai-applications-9i1)
 - [Array methods and when to use them, forEach, map, reduce](https://dev.to/gingerchew/array-methods-and-when-to-use-them-foreach-map-reduce-5bab)
-- [Rust Concurrency Explained: A Beginner&#39;s Guide to Arc and Mutex](https://dev.to/ietxaniz/rust-concurrency-explained-a-beginners-guide-to-arc-and-mutex-13ca)
 <!-- BLOG-POST-LIST:END -->
 
