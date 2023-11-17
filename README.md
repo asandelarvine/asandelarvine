@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your React Projects with These Open Source Component Libraries](https://dev.to/codingcrafts/boost-your-react-projects-with-these-open-source-component-libraries-4nai)
+- [How to publish on npm with `--provenance` using Lerna-Lite](https://dev.to/ghiscoding/how-to-publish-on-npm-with-provenance-using-lerna-lite-3cjf)
+- [Understanding Git: A Short Guide](https://dev.to/jgar514/understanding-git-a-short-guide-2pk8)
 - [First ever Blog on JavaScript](https://dev.to/ibrahimajalloh96/first-ever-blog-on-javascript-5c1a)
-- [Setting up Continuous Integration](https://dev.to/amnish04/setting-up-continuous-integration-1cb5)
-- [Exploring the Significance of Telecommuting Technology and Its Future Prospects](https://dev.to/cbolick0033/exploring-the-significance-of-telecommuting-technology-and-its-future-prospects-2fon)
-- [How to Achieve Zero Downtime Deployments with Blue-Green Deployment in Kubernetes?](https://dev.to/firstfingerin/how-to-achieve-zero-downtime-deployments-with-blue-green-deployment-in-kubernetes-24ni)
 <!-- BLOG-POST-LIST:END -->
 
