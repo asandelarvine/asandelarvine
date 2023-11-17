@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [# A new look at modals in vue 3](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
+- [Luck = [Doing Things] x [Telling People]](https://dev.to/satoshi-sh/luck-doing-things-x-telling-people-17kl)
 - [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
 - [Creating simple static server component](https://dev.to/denisx/creating-simple-static-server-component-39l2)
-- [Getting Started with GitHub Copilot in the CLI🚀](https://dev.to/github/stop-struggling-with-terminal-commands-github-copilot-in-the-cli-is-here-to-help-4pnb)
-- [[Challenge]: Nobody&#39;s solved this yet, can you?](https://dev.to/nombrekeff/challenge-nobodys-solved-this-yet-can-you-aj5)
 <!-- BLOG-POST-LIST:END -->
 
