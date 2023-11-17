@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Zebras Guide to Showcase Your Images in Light &amp; Dark](https://dev.to/nathan_tarbert/the-zebras-guide-to-showcase-your-images-in-light-dark-17f5)
+- [Ansible Playbook writing for beginners: Automate your morning routine](https://dev.to/xlab_steampunk/ansible-playbook-writing-for-beginners-automate-your-morning-routine-2ii1)
 - [O problema de SQL que quase me enlouqueceu](https://dev.to/nobrelucas/o-problema-de-sql-que-quase-me-enlouqueceu-2j6f)
-- [Mastering Progressive Web Apps &lpar;PWAs&rpar;: Advanced Techniques and Best Practices](https://dev.to/ahmed_onour/mastering-progressive-web-apps-pwas-advanced-techniques-and-best-practices-5e92)
-- [Understanding Object Copying in Python](https://dev.to/suvhotta/understanding-object-copying-in-python-19k1)
-- [How to Install Wordpress on AWS &lpar;TAMIL-தமிழில்&rpar;:](https://dev.to/muthukumark98/how-to-install-wordpress-on-aws-tamil-tmilllil-n48)
+- [How to create a Kotlin Multi-Module Project](https://dev.to/tleipzig/how-to-create-a-kotlin-multi-module-project-55da)
 <!-- BLOG-POST-LIST:END -->
 
