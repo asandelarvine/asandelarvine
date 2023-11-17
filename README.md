@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Challenge]: Nobody&#39;s solved this yet, can you?](https://dev.to/nombrekeff/challenge-nobodys-solved-this-yet-can-you-aj5)
+- [Day 90: Indexdb](https://dev.to/dhrn/day-90-index-db-1lh7)
 - [Dark Mode Duck and other CSS Ducks.](https://dev.to/jarvisscript/dark-mode-duck-and-other-css-ducks-4oag)
 - [Why Hedera has the highest TPS on Chainspect?](https://dev.to/fromaline/why-hedera-has-the-highest-tps-on-chainspect-1io4)
-- [Maximizing Profits: A Comprehensive Guide to Mobile Ad Networks and Tools for App Monetization](https://dev.to/onix-systems/maximizing-profits-a-comprehensive-guide-to-mobile-ad-networks-and-tools-for-app-monetization-1p61)
-- [MongoDB with Laravel - Simple CRUD app](https://dev.to/jeevanizm/mongodb-with-laravel-simple-crud-app-2je0)
 <!-- BLOG-POST-LIST:END -->
 
