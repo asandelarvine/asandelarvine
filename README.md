@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
+- [Creating simple static server component](https://dev.to/denisx/creating-simple-static-server-component-39l2)
+- [Getting Started with GitHub Copilot in the CLI🚀](https://dev.to/github/stop-struggling-with-terminal-commands-github-copilot-in-the-cli-is-here-to-help-4pnb)
 - [[Challenge]: Nobody&#39;s solved this yet, can you?](https://dev.to/nombrekeff/challenge-nobodys-solved-this-yet-can-you-aj5)
-- [Day 90: Indexdb](https://dev.to/dhrn/day-90-index-db-1lh7)
-- [Dark Mode Duck and other CSS Ducks.](https://dev.to/jarvisscript/dark-mode-duck-and-other-css-ducks-4oag)
-- [Why Hedera has the highest TPS on Chainspect?](https://dev.to/fromaline/why-hedera-has-the-highest-tps-on-chainspect-1io4)
 <!-- BLOG-POST-LIST:END -->
 
