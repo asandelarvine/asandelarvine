@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is POSIX Really Unsuitable for Object Stores? A Data-Backed Answer](https://dev.to/daswu/is-posix-really-unsuitable-for-object-stores-a-data-backed-answer-30k9)
 - [🐬How to Install Local MySQL on Your Mac, Ubuntu, CentOS, Windows🚀🦾](https://dev.to/bytebase/how-to-install-local-mysql-on-your-mac-ubuntu-centos-windows-42bf)
 - [How to Create Glass Dashboard with HTML and CSS](https://dev.to/codingcss/how-to-create-glass-dashboard-with-html-and-css-27g8)
 - [Boost Your React Projects with These Open Source Component Libraries](https://dev.to/codingcrafts/boost-your-react-projects-with-these-open-source-component-libraries-4nai)
-- [How to publish on npm with `--provenance` using Lerna-Lite](https://dev.to/ghiscoding/how-to-publish-on-npm-with-provenance-using-lerna-lite-3cjf)
 <!-- BLOG-POST-LIST:END -->
 
