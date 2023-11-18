@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Web Performance Optimization: Strategies for Faster Websites 🌐✨](https://dev.to/gurrudev/web-performance-optimization-strategies-for-faster-websites-goc)
+- [Complete Responsive Food / Restaurant Website Design Using HTML, CSS And JAVASCRIPT](https://dev.to/codingcss/complete-responsive-food-restaurant-website-design-using-html-css-and-javascript-1fa3)
 - [javaScript newbies, I have a challenge for you!](https://dev.to/piko/javascript-newbies-i-have-a-challenge-for-you-4eif)
 - [How To Memorize Everything You Learn!](https://dev.to/fazicodes/how-to-memorize-everything-you-learn-112f)
-- [Connecting Alpine.js to a Database REST API: A Simple Guide](https://dev.to/restdbjones/connecting-alpinejs-to-a-database-rest-api-a-simple-guide-47j6)
-- [A few additional words…](https://dev.to/sandros94/a-few-additional-words-2o85)
 <!-- BLOG-POST-LIST:END -->
 
