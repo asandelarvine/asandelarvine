@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
+- [A Guide to React Custom Hooks](https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h)
 - [🚀 Web Performance Optimization: Strategies for Faster Websites 🌐✨](https://dev.to/gurrudev/web-performance-optimization-strategies-for-faster-websites-goc)
 - [Complete Responsive Food / Restaurant Website Design Using HTML, CSS And JAVASCRIPT](https://dev.to/codingcss/complete-responsive-food-restaurant-website-design-using-html-css-and-javascript-1fa3)
-- [javaScript newbies, I have a challenge for you!](https://dev.to/piko/javascript-newbies-i-have-a-challenge-for-you-4eif)
-- [How To Memorize Everything You Learn!](https://dev.to/fazicodes/how-to-memorize-everything-you-learn-112f)
 <!-- BLOG-POST-LIST:END -->
 
