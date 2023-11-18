@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The CSS property you didn&#39;t know you needed 👈](https://dev.to/francescovetere/the-css-property-you-didnt-know-you-needed-3fk0)
+- [How to handle loading screens in Next JS](https://dev.to/elihood/how-to-handle-loading-screens-in-next-js-4p0h)
 - [What is Distributed systems?](https://dev.to/mukeshkuiry/what-is-distributed-systems-1ig3)
 - [Understanding the Process of Running Metabase on Docker for the First Time 📊🐋](https://dev.to/ranggakd/understanding-the-process-of-running-metabase-on-docker-for-the-first-time-pm9)
-- [Angular is Much Better, But is Angular Universal?](https://dev.to/jdgamble555/angular-is-much-better-but-is-angular-universal-57nb)
-- [Streaming Your Screen Using GStreamer C++](https://dev.to/ethand91/streaming-your-screen-using-gstreamer-c-46dm)
 <!-- BLOG-POST-LIST:END -->
 
