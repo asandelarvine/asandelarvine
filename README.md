@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Distributed systems?](https://dev.to/mukeshkuiry/what-is-distributed-systems-1ig3)
+- [Understanding the Process of Running Metabase on Docker for the First Time 📊🐋](https://dev.to/ranggakd/understanding-the-process-of-running-metabase-on-docker-for-the-first-time-pm9)
 - [Angular is Much Better, But is Angular Universal?](https://dev.to/jdgamble555/angular-is-much-better-but-is-angular-universal-57nb)
 - [Streaming Your Screen Using GStreamer C++](https://dev.to/ethand91/streaming-your-screen-using-gstreamer-c-46dm)
-- [GitHub Actions Workflow](https://dev.to/yousefmajidi/github-actions-workflow-5a2l)
-- [AWS - Amazon Web Services - Series 1.0](https://dev.to/technonotes/aws-amazon-web-services-series-10-3ko7)
 <!-- BLOG-POST-LIST:END -->
 
