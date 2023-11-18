@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your First Django App: Beginner&#39;s Guide](https://dev.to/doreen970/build-your-first-django-app-beginners-guide-4a30)
+- [Caddy Server - Basic Configuration](https://dev.to/mariinkys/caddy-basic-configuration-193j)
 - [Usando migrations com Golang](https://dev.to/wiliamvj/usando-migrations-com-golang-4i4e)
 - [Robust Error Handling in TypeScript: A Journey from Naive to Rust-Inspired Solutions](https://dev.to/alexanderop/robust-error-handling-in-typescript-a-journey-from-naive-to-rust-inspired-solutions-1mdh)
-- [Understanding Array Shapes in NumPy](https://dev.to/mariazayed/understanding-array-shapes-in-numpy-4j9m)
-- [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
 <!-- BLOG-POST-LIST:END -->
 
