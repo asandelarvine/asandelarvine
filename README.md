@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [javaScript newbies, I have a challenge for you!](https://dev.to/piko/javascript-newbies-i-have-a-challenge-for-you-4eif)
+- [How To Memorize Everything You Learn!](https://dev.to/fazicodes/how-to-memorize-everything-you-learn-112f)
 - [Connecting Alpine.js to a Database REST API: A Simple Guide](https://dev.to/restdbjones/connecting-alpinejs-to-a-database-rest-api-a-simple-guide-47j6)
 - [A few additional words…](https://dev.to/sandros94/a-few-additional-words-2o85)
-- [Debugging Techniques: How To Solve Common Coding Errors.](https://dev.to/paulineoraro/debugging-techniques-how-to-solve-common-coding-errors-28jc)
-- [Why do I distrust CSS Frameworks &lpar;and why should you, sometimes&rpar;?](https://dev.to/godwinmanu3/why-do-i-distrust-css-frameworks-and-why-should-you-sometimes-347o)
 <!-- BLOG-POST-LIST:END -->
 
