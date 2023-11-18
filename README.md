@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [26 Frontend Certifications for Web Developers 🔥🔥](https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7)
+- [Road Blockers while Coding](https://dev.to/nandinishinduja/road-blockers-while-coding-ckj)
 - [Placeholder Pledge](https://dev.to/weshaan/placeholder-pledge-43h3)
 - [Placeholder Contributor](https://dev.to/weshaan/placeholder-contributor-i47)
-- [Endless refactoring ...when things keep piling up](https://dev.to/dagnelies/endless-refactoring-when-things-keep-piling-up-1272)
-- [Enhancing UX: Leveraging Nextjs Router Events for Form Manipulation](https://dev.to/glopgeek/enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd)
 <!-- BLOG-POST-LIST:END -->
 
