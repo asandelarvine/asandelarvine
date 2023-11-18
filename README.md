@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Usando migrations com Golang](https://dev.to/wiliamvj/usando-migrations-com-golang-4i4e)
+- [Robust Error Handling in TypeScript: A Journey from Naive to Rust-Inspired Solutions](https://dev.to/alexanderop/robust-error-handling-in-typescript-a-journey-from-naive-to-rust-inspired-solutions-1mdh)
+- [Understanding Array Shapes in NumPy](https://dev.to/mariazayed/understanding-array-shapes-in-numpy-4j9m)
 - [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
-- [A Guide to React Custom Hooks](https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h)
-- [🚀 Web Performance Optimization: Strategies for Faster Websites 🌐✨](https://dev.to/gurrudev/web-performance-optimization-strategies-for-faster-websites-goc)
-- [Complete Responsive Food / Restaurant Website Design Using HTML, CSS And JAVASCRIPT](https://dev.to/codingcss/complete-responsive-food-restaurant-website-design-using-html-css-and-javascript-1fa3)
 <!-- BLOG-POST-LIST:END -->
 
