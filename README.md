@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [To Do List Javscript | Javascript Project](https://dev.to/codingcss/to-do-list-javscript-javascript-project-4c46)
 - [26 Frontend Certifications for Web Developers 🔥🔥](https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7)
 - [Road Blockers while Coding](https://dev.to/nandinishinduja/road-blockers-while-coding-ckj)
 - [Placeholder Pledge](https://dev.to/weshaan/placeholder-pledge-43h3)
-- [Placeholder Contributor](https://dev.to/weshaan/placeholder-contributor-i47)
 <!-- BLOG-POST-LIST:END -->
 
