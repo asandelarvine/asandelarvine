@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como coletar e dividir pagamentos com a API do Stripe](https://dev.to/sigcoding/como-coletar-e-dividir-pagamentos-com-a-api-do-stripe-3ee2)
 - [Sam Altman: Corporate Collateral Damage?](https://dev.to/scofieldidehen/sam-altman-corporate-collateral-damage-52oc)
+- [Why did you become a software engineer/software developer?](https://dev.to/johnnylouistech/why-did-you-become-a-software-engineersoftware-developer-56ni)
 - [Made a custom scripting language in one day :&rpar;](https://dev.to/psylilulu/made-a-custom-scripting-language-in-one-day--542c)
-- [How to Check if an Object Has a Property in JavaScript](https://dev.to/alesm0101/how-to-check-if-an-object-has-a-property-in-javascript-4d5o)
-- [Stored Procedures: Where to Go](https://dev.to/jbx1279/stored-procedures-where-to-go-1b1)
 <!-- BLOG-POST-LIST:END -->
 
