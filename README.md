@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PartyRock With Leftovers!](https://dev.to/ahoughro/partyrock-with-leftovers-26ci)
 - [Kubernetes Volumes](https://dev.to/barbara/kubernetes-volumes-33e2)
+- [Usando Ngnix-Controller com MetalLB no meu Home Lab](https://dev.to/ibmenezes/usando-ngnix-controller-com-metallb-no-meu-home-lab-57c6)
 - [A Developer’s Dilemma: Navigating Rust 🦀 and Python 🐍](https://dev.to/devangtomar/a-developers-dilemma-navigating-rust-and-python-1nm3)
-- [Navigating React.js SEO Challenges: A Case Study with CoderKit](https://dev.to/bibekkakati/navigating-reactjs-seo-challenges-a-case-study-with-coderkit-33j6)
-- [Run Multiple NodeJS microservices with tmux](https://dev.to/sanketh_sh/run-multiple-nodejs-microservices-with-tmux-5f30)
 <!-- BLOG-POST-LIST:END -->
 
