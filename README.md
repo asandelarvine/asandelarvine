@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Robust Web Platform on AWS: A Step-by-Step Journey Through AWS CLI and IAM Identity Center](https://dev.to/alex_pustovalov/building-a-robust-web-platform-on-aws-a-step-by-step-journey-through-aws-cli-and-iam-identity-center-40f7)
-- [The Roadmap to Web Development &lpar;unforgettable&rpar;](https://dev.to/horsecoder/the-roadmap-to-web-development-unforgettable-1d2i)
-- [Intermediate HTML and CSS Course | Day 1](https://dev.to/codingcss/intermediate-html-and-css-course-day-1-5e4a)
-- [Set up your authentication with Next.js and AWS Cognito](https://dev.to/fabientownsend/set-up-your-authentication-with-nextjs-and-aws-cognito-2f08)
+- [Yet Another Newsletter LOL: Fast Like a Fox](https://dev.to/nickytonline/yet-another-newsletter-lol-fast-like-a-fox-53d6)
+- [Advent Artificial Intelligence](https://dev.to/ppiova/advent-artificial-intelligence-2881)
+- [SOLID Design Principles: Learn the Open-Closed Principle](https://dev.to/revisto/solid-design-principles-learn-the-open-closed-principle-2o8o)
+- [DFCCIL Various Post Result 2023](https://dev.to/sarkarilinks/dfccil-various-post-result-2023-11pd)
 <!-- BLOG-POST-LIST:END -->
 
