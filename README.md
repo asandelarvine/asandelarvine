@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unique HTML Attributes You Should Know About](https://dev.to/pinky057/unique-html-attributes-you-should-know-about-57e5)
 - [Kubernetes Security](https://dev.to/barbara/kubernetes-security-3o0j)
 - [PartyRock With Leftovers!](https://dev.to/ahoughro/partyrock-with-leftovers-26ci)
 - [Kubernetes Volumes](https://dev.to/barbara/kubernetes-volumes-33e2)
-- [Usando Ngnix-Controller com MetalLB no meu Home Lab](https://dev.to/ibmenezes/usando-ngnix-controller-com-metallb-no-meu-home-lab-57c6)
 <!-- BLOG-POST-LIST:END -->
 
