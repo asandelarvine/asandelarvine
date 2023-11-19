@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Volumes](https://dev.to/barbara/kubernetes-volumes-33e2)
 - [A Developer’s Dilemma: Navigating Rust 🦀 and Python 🐍](https://dev.to/devangtomar/a-developers-dilemma-navigating-rust-and-python-1nm3)
 - [Navigating React.js SEO Challenges: A Case Study with CoderKit](https://dev.to/bibekkakati/navigating-reactjs-seo-challenges-a-case-study-with-coderkit-33j6)
 - [Run Multiple NodeJS microservices with tmux](https://dev.to/sanketh_sh/run-multiple-nodejs-microservices-with-tmux-5f30)
-- [Junior to Senior Developer Guide: Navigating the Evolution of Your Coding Journey](https://dev.to/baransel/junior-to-senior-developer-guide-navigating-the-evolution-of-your-coding-journey-2fap)
 <!-- BLOG-POST-LIST:END -->
 
