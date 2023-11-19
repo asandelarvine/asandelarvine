@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Check if an Object Has a Property in JavaScript](https://dev.to/alesm0101/how-to-check-if-an-object-has-a-property-in-javascript-4d5o)
+- [My script to install husky, commitlint and lint-staged with zx](https://dev.to/amiceli/my-script-to-install-husky-commitlint-and-lint-staged-with-zx-4hj5)
+- [The Best Way to Learn Web Development](https://dev.to/codewithshahan/the-best-way-to-learn-web-development-a10)
 - [Build Your First Django App: Beginner&#39;s Guide](https://dev.to/doreen970/build-your-first-django-app-beginners-guide-4a30)
-- [Caddy Server - Basic Configuration](https://dev.to/mariinkys/caddy-basic-configuration-193j)
-- [Usando migrations com Golang](https://dev.to/wiliamvj/usando-migrations-com-golang-4i4e)
-- [Robust Error Handling in TypeScript: A Journey from Naive to Rust-Inspired Solutions](https://dev.to/alexanderop/robust-error-handling-in-typescript-a-journey-from-naive-to-rust-inspired-solutions-1mdh)
 <!-- BLOG-POST-LIST:END -->
 
