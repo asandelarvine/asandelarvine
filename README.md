@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Robust Web Platform on AWS: A Step-by-Step Journey Through AWS CLI and IAM Identity Center](https://dev.to/alex_pustovalov/building-a-robust-web-platform-on-aws-a-step-by-step-journey-through-aws-cli-and-iam-identity-center-40f7)
+- [The Roadmap to Web Development &lpar;unforgettable&rpar;](https://dev.to/horsecoder/the-roadmap-to-web-development-unforgettable-1d2i)
 - [Intermediate HTML and CSS Course | Day 1](https://dev.to/codingcss/intermediate-html-and-css-course-day-1-5e4a)
-- [Navigating Arrays in JavaScript with is.array and is.not_array: Your Companion in List Adventures](https://dev.to/karbashevskyi/navigating-arrays-in-javascript-with-isarray-and-isnotarray-your-companion-in-list-adventures-3jnj)
-- [The Do’s and Don’ts of Resume Writing: How to Create a Professional CV](https://dev.to/drsavvina/the-dos-and-donts-of-resume-writing-how-to-create-a-professional-cv-40pl)
-- [Behind the Scenes: Exploring Powerful Backend Frameworks](https://dev.to/burakboduroglu/behind-the-scenes-exploring-powerful-backend-frameworks-1an1)
+- [Set up your authentication with Next.js and AWS Cognito](https://dev.to/fabientownsend/set-up-your-authentication-with-nextjs-and-aws-cognito-2f08)
 <!-- BLOG-POST-LIST:END -->
 
