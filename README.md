@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VueJS part 12: Exposing methods and data in components](https://dev.to/hi_iam_chris/vuejs-part-12-exposing-methods-and-data-in-components-33mc)
+- [Creating a Sidebar with Active Links](https://dev.to/ciscovlahakis/creating-a-sidebar-with-active-links-1j3d)
 - [Unique HTML Attributes You Should Know About](https://dev.to/pinky057/unique-html-attributes-you-should-know-about-57e5)
 - [Kubernetes Security](https://dev.to/barbara/kubernetes-security-3o0j)
-- [PartyRock With Leftovers!](https://dev.to/ahoughro/partyrock-with-leftovers-26ci)
-- [Kubernetes Volumes](https://dev.to/barbara/kubernetes-volumes-33e2)
 <!-- BLOG-POST-LIST:END -->
 
