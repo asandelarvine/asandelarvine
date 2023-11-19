@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Year-End Review for 2023](https://dev.to/steelwolf180/my-year-end-review-for-2023-1391)
+- [Unlocking Efficiency: A Deep Dive into Redis as an In-Memory Datastore](https://dev.to/bilalulhaque/unlocking-efficiency-a-deep-dive-into-redis-as-an-in-memory-datastore-4cn5)
 - [From being a web developer to a 5 figure entrepreneur](https://dev.to/saswat_design/from-being-a-web-developer-to-a-5-figure-entrepreneur-2iba)
 - [LinkedIn tried censorship against me in the worst possible way. No More Joke.](https://dev.to/jmfayard/linkedin-tried-censorship-against-me-in-the-worst-possible-way-2e2l)
 - [Future of Web Developers: Embracing Emerging Technologies and Challenges](https://dev.to/saswat_design/future-of-web-developers-embracing-emerging-technologies-and-challenges-3nk4)
