@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman: Corporate Collateral Damage?](https://dev.to/scofieldidehen/sam-altman-corporate-collateral-damage-52oc)
+- [Made a custom scripting language in one day :&rpar;](https://dev.to/psylilulu/made-a-custom-scripting-language-in-one-day--542c)
 - [How to Check if an Object Has a Property in JavaScript](https://dev.to/alesm0101/how-to-check-if-an-object-has-a-property-in-javascript-4d5o)
-- [My script to install husky, commitlint and lint-staged with zx](https://dev.to/amiceli/my-script-to-install-husky-commitlint-and-lint-staged-with-zx-4hj5)
-- [The Best Way to Learn Web Development](https://dev.to/codewithshahan/the-best-way-to-learn-web-development-a10)
-- [Build Your First Django App: Beginner&#39;s Guide](https://dev.to/doreen970/build-your-first-django-app-beginners-guide-4a30)
+- [Stored Procedures: Where to Go](https://dev.to/jbx1279/stored-procedures-where-to-go-1b1)
 <!-- BLOG-POST-LIST:END -->
 
