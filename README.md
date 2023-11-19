@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Common CSS Mistakes: What to Avoid for Clean &amp; Efficient Code | Part 1](https://dev.to/rohitsondigala/5-common-css-mistakes-what-to-avoid-for-clean-efficient-code-part-1-ej5)
+- [100 days of CSS animation code challenges - Reveal](https://dev.to/lakshmananarumugam/100-days-of-css-animation-code-challenges-reveal-1a5d)
 - [How to Find the Best Hosting provider for your website Development?](https://dev.to/dhruvjoshi9/how-to-find-the-best-hosting-provider-for-your-website-development-23l1)
 - [What’s new in Flutter 3.16](https://dev.to/durgesh4993/whats-new-in-flutter-316-4hab)
-- [Hi! I&#39;m new here..](https://dev.to/rverwey/hi-im-new-here-2069)
-- [DevOps Interview: Ansible Vaults Commands and Usuage](https://dev.to/devopstune/devops-interview-ansible-vaults-commands-and-usuage-462h)
 <!-- BLOG-POST-LIST:END -->
 
