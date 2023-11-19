@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Efficiency: A Deep Dive into Redis as an In-Memory Datastore](https://dev.to/bilalulhaque/unlocking-efficiency-a-deep-dive-into-redis-as-an-in-memory-datastore-4cn5)
+- [Navigating Arrays in JavaScript with is.array and is.not_array: Your Companion in List Adventures](https://dev.to/karbashevskyi/navigating-arrays-in-javascript-with-isarray-and-isnotarray-your-companion-in-list-adventures-3jnj)
+- [The Do’s and Don’ts of Resume Writing: How to Create a Professional CV](https://dev.to/drsavvina/the-dos-and-donts-of-resume-writing-how-to-create-a-professional-cv-40pl)
+- [Behind the Scenes: Exploring Powerful Backend Frameworks](https://dev.to/burakboduroglu/behind-the-scenes-exploring-powerful-backend-frameworks-1an1)
 - [From being a web developer to a 5 figure entrepreneur](https://dev.to/saswat_design/from-being-a-web-developer-to-a-5-figure-entrepreneur-2iba)
-- [LinkedIn tried censorship against me in the worst possible way. No More Joke.](https://dev.to/jmfayard/linkedin-tried-censorship-against-me-in-the-worst-possible-way-2e2l)
-- [Future of Web Developers: Embracing Emerging Technologies and Challenges](https://dev.to/saswat_design/future-of-web-developers-embracing-emerging-technologies-and-challenges-3nk4)
 <!-- BLOG-POST-LIST:END -->
 
