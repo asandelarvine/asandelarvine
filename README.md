@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From being a web developer to a 5 figure entrepreneur](https://dev.to/saswat_design/from-being-a-web-developer-to-a-5-figure-entrepreneur-2iba)
+- [LinkedIn tried censorship against me in the worst possible way. No Joke.](https://dev.to/jmfayard/linkedin-tried-censorship-against-me-in-the-worst-possible-way-2e2l)
 - [Future of Web Developers: Embracing Emerging Technologies and Challenges](https://dev.to/saswat_design/future-of-web-developers-embracing-emerging-technologies-and-challenges-3nk4)
 - [5 Common CSS Mistakes: What to Avoid for Clean &amp; Efficient Code | Part 1](https://dev.to/rohitsondigala/5-common-css-mistakes-what-to-avoid-for-clean-efficient-code-part-1-ej5)
-- [100 days of CSS animation code challenges - Reveal](https://dev.to/lakshmananarumugam/100-days-of-css-animation-code-challenges-reveal-1a5d)
-- [How to Find the Best Hosting provider for your website Development?](https://dev.to/dhruvjoshi9/how-to-find-the-best-hosting-provider-for-your-website-development-23l1)
 <!-- BLOG-POST-LIST:END -->
 
