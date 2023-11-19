@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Find the Best Hosting provider for your website Development?](https://dev.to/dhruvjoshi9/how-to-find-the-best-hosting-provider-for-your-website-development-23l1)
+- [What’s new in Flutter 3.16](https://dev.to/durgesh4993/whats-new-in-flutter-316-4hab)
 - [Hi! I&#39;m new here..](https://dev.to/rverwey/hi-im-new-here-2069)
 - [DevOps Interview: Ansible Vaults Commands and Usuage](https://dev.to/devopstune/devops-interview-ansible-vaults-commands-and-usuage-462h)
-- [Como coletar e dividir pagamentos com a API do Stripe](https://dev.to/sigcoding/como-coletar-e-dividir-pagamentos-com-a-api-do-stripe-3ee2)
-- [Sam Altman: Corporate Collateral Damage?](https://dev.to/scofieldidehen/sam-altman-corporate-collateral-damage-52oc)
 <!-- BLOG-POST-LIST:END -->
 
