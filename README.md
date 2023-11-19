@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Year-End Review for 2023](https://dev.to/steelwolf180/my-year-end-review-for-2023-1391)
 - [From being a web developer to a 5 figure entrepreneur](https://dev.to/saswat_design/from-being-a-web-developer-to-a-5-figure-entrepreneur-2iba)
-- [LinkedIn tried censorship against me in the worst possible way. No Joke.](https://dev.to/jmfayard/linkedin-tried-censorship-against-me-in-the-worst-possible-way-2e2l)
+- [LinkedIn tried censorship against me in the worst possible way. No More Joke.](https://dev.to/jmfayard/linkedin-tried-censorship-against-me-in-the-worst-possible-way-2e2l)
 - [Future of Web Developers: Embracing Emerging Technologies and Challenges](https://dev.to/saswat_design/future-of-web-developers-embracing-emerging-technologies-and-challenges-3nk4)
-- [5 Common CSS Mistakes: What to Avoid for Clean &amp; Efficient Code | Part 1](https://dev.to/rohitsondigala/5-common-css-mistakes-what-to-avoid-for-clean-efficient-code-part-1-ej5)
 <!-- BLOG-POST-LIST:END -->
 
