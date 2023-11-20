@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [DopeSaaS: The Comprehensive NextJS Starter Kit for Rapid SaaS Development](https://dev.to/mrcflorian/dopesaas-the-comprehensive-nextjs-starter-kit-for-rapid-saas-development-3b5e)
+- [Reverse-engineering GPTs for fun and data](https://dev.to/andrei_fyi/reverse-engineering-gpts-for-fun-and-data-9kl)
 - [Muay Thaideas: A Roundhouse Kickstart](https://dev.to/jjb9922/muay-thaideas-a-roundhouse-kickstart-1c5a)
 - [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
-- [TypeError: ‘Win’ and ‘NotTyped’ have no overlap](https://dev.to/noriller/typeerror-win-and-nottyped-have-no-overlap-g4i)
 <!-- BLOG-POST-LIST:END -->
 
