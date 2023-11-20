@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use LLMs for real-time alerting](https://dev.to/bobur/how-to-use-llms-for-real-time-alerting-3n50)
+- [Exploring the Low-Code Realm: Your PowerApps Adventure](https://dev.to/balagmadhu/exploring-the-low-code-realm-your-powerapps-adventure-37aa)
+- [Unleashing the Power of Squarespace for Photography Portfolios: A Comprehensive Guide 📸✨](https://dev.to/loftydevs/unleashing-the-power-of-squarespace-for-photography-portfolios-a-comprehensive-guide-1ab2)
 - [Distributed system fundamentals | Beginner](https://dev.to/mukeshkuiry/distributed-system-fundamentals-beginner-3hmj)
-- [Choosing Between React and Next.js](https://dev.to/dev_kiran/choosing-between-react-and-nextjs-4j7j)
-- [What Not to do in Power Automate](https://dev.to/wyattdave/what-not-to-do-in-power-automate-eom)
-- [How to Create an OHLC Chart in JavaScript](https://dev.to/anychart/how-to-create-an-ohlc-chart-in-javascript-2bch)
 <!-- BLOG-POST-LIST:END -->
 
