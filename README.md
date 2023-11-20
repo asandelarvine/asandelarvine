@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use LLMs for real-time alerting](https://dev.to/bobur/how-to-use-llms-for-real-time-alerting-3n50)
-- [Exploring the Low-Code Realm: Your PowerApps Adventure](https://dev.to/balagmadhu/exploring-the-low-code-realm-your-powerapps-adventure-37aa)
-- [Unleashing the Power of Squarespace for Photography Portfolios: A Comprehensive Guide 📸✨](https://dev.to/loftydevs/unleashing-the-power-of-squarespace-for-photography-portfolios-a-comprehensive-guide-1ab2)
-- [Distributed system fundamentals | Beginner](https://dev.to/mukeshkuiry/distributed-system-fundamentals-beginner-3hmj)
+- [50 ways to bring in extra cash as a developer 💰](https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6)
+- [Common errors encountered in React development, along with potential causes and solutions](https://dev.to/muhammadshakkeer/common-errors-encountered-in-react-development-along-with-potential-causes-and-solutions-270n)
+- [AWS Is A Zoo: Anyone Can Navigate the Cloud Jungle!](https://dev.to/aws-builders/aws-is-a-zoo-anyone-can-navigate-the-cloud-jungle-3mfb)
+- [Unleashing the Power of ChatGPT: A Comprehensive JavaScript Example](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-comprehensive-javascript-example-3174)
 <!-- BLOG-POST-LIST:END -->
 
