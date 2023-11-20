@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 ways to bring in extra cash as a developer 💰](https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6)
-- [Common errors encountered in React development, along with potential causes and solutions](https://dev.to/muhammadshakkeer/common-errors-encountered-in-react-development-along-with-potential-causes-and-solutions-270n)
-- [AWS Is A Zoo: Anyone Can Navigate the Cloud Jungle!](https://dev.to/aws-builders/aws-is-a-zoo-anyone-can-navigate-the-cloud-jungle-3mfb)
-- [Unleashing the Power of ChatGPT: A Comprehensive JavaScript Example](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-comprehensive-javascript-example-3174)
+- [Essential Terminal Settings for macOS](https://dev.to/zerocodilla/essential-terminal-settings-for-macos-3oh2)
+- [Github as an absolute beginner](https://dev.to/vanshajpoonia/github-as-an-absolute-beginner-1jn7)
+- [10 Cool CodePen Demos &lpar;October 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-october-2023-5a8n)
+- [Event-Driven Architecture in Node.js](https://dev.to/learn-to-earn/event-driven-architecture-in-nodejs-1o98)
 <!-- BLOG-POST-LIST:END -->
 
