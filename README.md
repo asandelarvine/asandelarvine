@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4b0h)
-- [One Weird Kubernetes Trick, Timothée Chalomet, our first Code Jam ever, and more 🍓🤳](https://dev.to/glitch/one-weird-kubernetes-trick-timothee-chalomet-our-first-code-jam-ever-and-more-51om)
-- [A deep dive into new control flow syntax for Angular &lpar;17&rpar;](https://dev.to/this-is-angular/a-deep-dive-into-new-control-flow-syntax-for-angular-17-24ld)
-- [Music Monday — What are you listening to? &lpar;Sunrise Edition 🌅&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunrise-edition--2401)
+- [⚙️ Leetcode Heap &lpar;Priority Queue&rpar; in JavaScript](https://dev.to/raaynaldo/leetcode-heap-priority-queue-in-javascript-4f25)
+- [My 5 favorite tips to improve your CSS](https://dev.to/melnik909/5-my-favorite-tops-to-improve-your-css-1p4p)
+- [Triggering Lambda function with Application Load Balancer](https://dev.to/brooklyn2706/triggering-lambda-function-with-application-load-balancer-2947)
+- [FLaNK Stack Weekly for 20 Nov 2023](https://dev.to/tspannhw/flank-stack-weekly-for-20-nov-2023-3bdj)
 <!-- BLOG-POST-LIST:END -->
 
