@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The fastest way to deploy a Go app to Kubernetes](https://dev.to/encore/the-fastest-way-to-deploy-a-go-app-to-kubernetes-4ahn)
-- [Mastering Python Operators: A Comprehensive Guide to Power Your Code](https://dev.to/rashtech/mastering-python-operators-a-comprehensive-guide-to-power-your-code-5f04)
-- [😂11 Fun Python libraries to make your day better☀️](https://dev.to/taipy/11-fun-python-libraries-to-make-your-day-better-4gpc)
-- [The &quot;Modern email&quot; devroom at FOSDEM is looking for proposals.](https://dev.to/bogomil/the-modern-email-devroom-at-fosdem-is-looking-for-proposals-36ef)
+- [VS Code - Sticky code sections for improved contextual browsing &lpar;sticky scroll&rpar;](https://dev.to/robole/vs-code-sticky-code-sections-for-improved-contextual-browsing-sticky-scroll-1o6)
+- [Kubectl Restart Pod](https://dev.to/refine/kubectl-restart-pod-608)
+- [🔥🤯 Top 7 AI-Enhanced Database Tools for Next-Level Development 🚀🧠](https://dev.to/guerra2fernando/top-7-ai-enhanced-database-tools-for-next-level-development-3j58)
+- [Singleton — JavaScript Design Patterns— Part 2](https://dev.to/jaimaldullat/singleton-javascript-design-patterns-part-2-4ekg)
 <!-- BLOG-POST-LIST:END -->
 
