@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to ACTUALLY Learn to Code: Roadmaps for Beginners](https://dev.to/codewithshahan/how-to-actually-learn-to-code-roadmaps-for-beginners-39o8)
+- [Trailblazing Tech: A Candid Chronicle of My Journey as a Woman in Tech](https://dev.to/devnenyasha/trailblazing-tech-a-candid-chronicle-of-my-journey-as-a-woman-in-tech-4ma3)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3bdn)
 - [Getting started with React Native authentication](https://dev.to/supabase/getting-started-with-react-native-authentication-2mpl)
-- [Converting JS Libraries to Clojure: Part 1](https://dev.to/bop/converting-js-libraries-to-clojure-part-1-3c3l)
-- [The 3D object model of software construction](https://dev.to/isaacdlyman/the-3d-object-model-of-software-construction-36ch)
-- [Pure HTML/CSS Software Developer Portfolio Template](https://dev.to/melnik909/pure-htmlcss-software-developer-portfolio-template-1oio)
 <!-- BLOG-POST-LIST:END -->
 
