@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to ACTUALLY Learn to Code: Roadmaps for Beginners](https://dev.to/codewithshahan/how-to-actually-learn-to-code-roadmaps-for-beginners-39o8)
-- [Trailblazing Tech: A Candid Chronicle of My Journey as a Woman in Tech](https://dev.to/devnenyasha/trailblazing-tech-a-candid-chronicle-of-my-journey-as-a-woman-in-tech-4ma3)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3bdn)
-- [Getting started with React Native authentication](https://dev.to/supabase/getting-started-with-react-native-authentication-2mpl)
+- [Marketing Tips for Developers 💡](https://dev.to/zevir/marketing-tips-for-developers-35fa)
+- [Free DocuSign Alternatives - Comprehensive list for 2024](https://dev.to/docusignlog-in/free-docusign-alternatives-comprehensive-list-for-2024-4cb3)
+- [How To Create Many-to-Many Relationships in SQL](https://dev.to/domfive/how-to-create-many-to-many-relationships-in-sql-j73)
+- [IPV6 Migration Guide for Developers using AWS EC2 -- A Primer](https://dev.to/tonymet/ipv6-migration-guide-for-developers-using-aws-ec2-a-primer-50df)
 <!-- BLOG-POST-LIST:END -->
 
