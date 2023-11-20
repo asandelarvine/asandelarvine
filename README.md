@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ferramentas que você pode usar para praticar Python online](https://dev.to/feministech/ferramentas-que-voce-pode-usar-para-praticar-python-online-27no)
-- [GPT-4, 128K context - it is not big enough](https://dev.to/maximsaplin/gpt-4-128k-context-it-is-not-big-enough-1h02)
-- [Alarm App JavaScript | With Multiple Alarm Feature | JavaScript Project](https://dev.to/codingcss/alarm-app-javascript-with-multiple-alarm-feature-javascript-project-25fn)
-- [VS Code - Sticky code sections for improved contextual browsing &lpar;sticky scroll&rpar;](https://dev.to/robole/vs-code-sticky-code-sections-for-improved-contextual-browsing-sticky-scroll-1o6)
+- [Meme Monday](https://dev.to/ben/meme-monday-4b0h)
+- [One Weird Kubernetes Trick, Timothée Chalomet, our first Code Jam ever, and more 🍓🤳](https://dev.to/glitch/one-weird-kubernetes-trick-timothee-chalomet-our-first-code-jam-ever-and-more-51om)
+- [A deep dive into new control flow syntax for Angular &lpar;17&rpar;](https://dev.to/this-is-angular/a-deep-dive-into-new-control-flow-syntax-for-angular-17-24ld)
+- [Music Monday — What are you listening to? &lpar;Sunrise Edition 🌅&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunrise-edition--2401)
 <!-- BLOG-POST-LIST:END -->
 
