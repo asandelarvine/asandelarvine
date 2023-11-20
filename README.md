@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20 ways for Developers to boost income 💰](https://dev.to/baransel/20-ways-for-developers-to-boost-income-5j0)
+- [Pure HTML/CSS Software Developer Portfolio Template](https://dev.to/melnik909/pure-htmlcss-software-developer-portfolio-template-1oio)
 - [⚙️ Leetcode Heap &lpar;Priority Queue&rpar; in JavaScript](https://dev.to/raaynaldo/leetcode-heap-priority-queue-in-javascript-4f25)
 - [My 5 favorite tips to improve your CSS](https://dev.to/melnik909/5-my-favorite-tops-to-improve-your-css-1p4p)
-- [Triggering Lambda function with Application Load Balancer](https://dev.to/brooklyn2706/triggering-lambda-function-with-application-load-balancer-2947)
-- [FLaNK Stack Weekly for 20 Nov 2023](https://dev.to/tspannhw/flank-stack-weekly-for-20-nov-2023-3bdj)
 <!-- BLOG-POST-LIST:END -->
 
