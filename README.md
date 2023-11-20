@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootcamps don&#39;t teach you this...](https://dev.to/grahamthedev/bootcamps-dont-teach-you-this-4j30)
-- [Postnitro.ai has officially launched on Product Hunt! 🚀](https://dev.to/seeratawan01/postnitroai-has-officially-launched-on-product-hunt-1ema)
-- [Weekly Roundup 027 &lpar;Nov 13&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-027-nov-13-hot-topics-in-workplace-sharepoint-and-powerplatform-24jp)
-- [🤓 🚀 These 6 repos will help you crush React Server Components &lpar;RSC&rpar; ✅🔥](https://dev.to/jobenjada/these-6-repos-will-help-you-crush-react-server-components-rsc-4c2o)
+- [The fastest way to deploy a Go app to Kubernetes](https://dev.to/encore/the-fastest-way-to-deploy-a-go-app-to-kubernetes-4ahn)
+- [Mastering Python Operators: A Comprehensive Guide to Power Your Code](https://dev.to/rashtech/mastering-python-operators-a-comprehensive-guide-to-power-your-code-5f04)
+- [😂11 Fun Python libraries to make your day better☀️](https://dev.to/taipy/11-fun-python-libraries-to-make-your-day-better-4gpc)
+- [The &quot;Modern email&quot; devroom at FOSDEM is looking for proposals.](https://dev.to/bogomil/the-modern-email-devroom-at-fosdem-is-looking-for-proposals-36ef)
 <!-- BLOG-POST-LIST:END -->
 
