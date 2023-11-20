@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Image Slider with HTML, CSS, and JavaScript](https://dev.to/huericnan/creating-an-image-slider-with-html-css-and-javascript-4jl6)
-- [DopeSaaS: The Comprehensive NextJS Starter Kit for Rapid SaaS Development](https://dev.to/mrcflorian/dopesaas-the-comprehensive-nextjs-starter-kit-for-rapid-saas-development-3b5e)
-- [Reverse-engineering GPTs for fun and data](https://dev.to/andrei_fyi/reverse-engineering-gpts-for-fun-and-data-9kl)
-- [Muay Thaideas: A Roundhouse Kickstart](https://dev.to/jjb9922/muay-thaideas-a-roundhouse-kickstart-1c5a)
+- [Distributed system fundamentals | Beginner](https://dev.to/mukeshkuiry/distributed-system-fundamentals-beginner-3hmj)
+- [Choosing Between React and Next.js](https://dev.to/dev_kiran/choosing-between-react-and-nextjs-4j7j)
+- [What Not to do in Power Automate](https://dev.to/wyattdave/what-not-to-do-in-power-automate-eom)
+- [How to Create an OHLC Chart in JavaScript](https://dev.to/anychart/how-to-create-an-ohlc-chart-in-javascript-2bch)
 <!-- BLOG-POST-LIST:END -->
 
