@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Image Slider with HTML, CSS, and JavaScript](https://dev.to/huericnan/creating-an-image-slider-with-html-css-and-javascript-4jl6)
 - [DopeSaaS: The Comprehensive NextJS Starter Kit for Rapid SaaS Development](https://dev.to/mrcflorian/dopesaas-the-comprehensive-nextjs-starter-kit-for-rapid-saas-development-3b5e)
 - [Reverse-engineering GPTs for fun and data](https://dev.to/andrei_fyi/reverse-engineering-gpts-for-fun-and-data-9kl)
 - [Muay Thaideas: A Roundhouse Kickstart](https://dev.to/jjb9922/muay-thaideas-a-roundhouse-kickstart-1c5a)
-- [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
 <!-- BLOG-POST-LIST:END -->
 
