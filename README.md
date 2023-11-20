@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Terminal Settings for macOS](https://dev.to/zerocodilla/essential-terminal-settings-for-macos-3oh2)
-- [Github as an absolute beginner](https://dev.to/vanshajpoonia/github-as-an-absolute-beginner-1jn7)
-- [10 Cool CodePen Demos &lpar;October 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-october-2023-5a8n)
-- [Event-Driven Architecture in Node.js](https://dev.to/learn-to-earn/event-driven-architecture-in-nodejs-1o98)
+- [Bootcamps don&#39;t teach you this...](https://dev.to/grahamthedev/bootcamps-dont-teach-you-this-4j30)
+- [Postnitro.ai has officially launched on Product Hunt! 🚀](https://dev.to/seeratawan01/postnitroai-has-officially-launched-on-product-hunt-1ema)
+- [Weekly Roundup 027 &lpar;Nov 13&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-027-nov-13-hot-topics-in-workplace-sharepoint-and-powerplatform-24jp)
+- [🤓 🚀 These 6 repos will help you crush React Server Components &lpar;RSC&rpar; ✅🔥](https://dev.to/jobenjada/these-6-repos-will-help-you-crush-react-server-components-rsc-4c2o)
 <!-- BLOG-POST-LIST:END -->
 
