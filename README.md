@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with React Native authentication](https://dev.to/supabase/getting-started-with-react-native-authentication-2mpl)
 - [Converting JS Libraries to Clojure: Part 1](https://dev.to/bop/converting-js-libraries-to-clojure-part-1-3c3l)
 - [The 3D object model of software construction](https://dev.to/isaacdlyman/the-3d-object-model-of-software-construction-36ch)
 - [Pure HTML/CSS Software Developer Portfolio Template](https://dev.to/melnik909/pure-htmlcss-software-developer-portfolio-template-1oio)
-- [Complete Guide to Become a Blockchain Developer | Must-have skills](https://dev.to/wahidanon/complete-guide-to-become-a-blockchain-developer-must-have-skills-3id0)
 <!-- BLOG-POST-LIST:END -->
 
