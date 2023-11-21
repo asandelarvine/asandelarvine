@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Infer Types to Avoid Explicit Types](https://dev.to/nickytonline/infer-types-to-avoid-explicit-types-1pnn)
+- [Spring Data REST example](https://dev.to/tienbku/spring-data-rest-example-ggg)
 - [Publishing package to npm registry, tagging and doing a release, and beyond...](https://dev.to/sdthaker/publishing-package-to-npm-registry-tagging-and-doing-a-release-and-beyond-1321)
 - [Develop AI Apps with React and Javascript](https://dev.to/salmenus/develop-ai-apps-with-react-and-javascript-516b)
-- [AWS Lambda Advanced Logging](https://dev.to/asankab/advanced-logging-for-aws-lambda-3070)
-- [A Beginner&#39;s Guide to Online Image Labeling &amp; Annotation Using PixLab Annotate](https://dev.to/unqlite_db/a-beginners-guide-to-online-image-labeling-annotation-using-pixlab-annotate-52l4)
 <!-- BLOG-POST-LIST:END -->
 
