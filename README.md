@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unproductive Meetings: The #5 Developer Productivity Killer](https://dev.to/hatica/unproductive-meetings-the-5-developer-productivity-killer-3j1c)
 - [Want to host your own website manually? Start here &lpar;Part 1&rpar;](https://dev.to/wb19/want-to-host-your-own-website-manually-start-here-part-1-465j)
 - [Debugging Kubernetes Apps with kubectl debug](https://dev.to/giladmaayan/debugging-kubernetes-apps-with-kubectl-debug-3863)
 - [Top 10 Unique HTML Attributes You Should Know About. 🚀💡💯](https://dev.to/margishpatel/top-10-unique-html-attributes-you-should-know-about-53gb)
-- [Infer Types to Avoid Explicit Types](https://dev.to/nickytonline/infer-types-to-avoid-explicit-types-1pnn)
 <!-- BLOG-POST-LIST:END -->
 
