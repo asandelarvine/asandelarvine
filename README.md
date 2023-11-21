@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Safe Blue-Green Docker-Compose Deployment](https://dev.to/andrewkangg/safe-blue-green-docker-compose-deployment-59bn)
-- [🦃 Reacts-giving: 11 react components for aspiring pros 👩🏻‍🌾🍁](https://dev.to/copilotkit/reacts-giving-11-react-components-for-aspiring-pros-eck)
-- [Trampo na gringa - Parte 1](https://dev.to/lucianodiisouza/trampo-na-gringa-parte-1-4kpn)
-- [Building Serverless Applications On AWS: A Practical Guide To Managing Event Processing](https://dev.to/kelvinskell/building-serverless-applications-on-aws-a-practical-guide-to-managing-event-processing-2fpa)
+- [So You&#39;re Interested in Being an Open Source Maintainer](https://dev.to/opensauced/so-youre-interested-in-being-an-open-source-maintainer-5bb2)
+- [Web Caching - ETag/If-None-Match](https://dev.to/didof/web-caching-etagif-none-match-517n)
+- [Linux commands you should know](https://dev.to/kwnaidoo/linux-commands-you-should-know-4ecn)
+- [Mobile DevOps: Tools, Techniques, and Triumphs in App Development](https://dev.to/romanburdiuzha/mobile-devops-tools-techniques-and-triumphs-in-app-development-31p)
 <!-- BLOG-POST-LIST:END -->
 
