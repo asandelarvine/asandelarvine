@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Your Brand as a Developer Through Open Source](https://dev.to/adiatiayu/building-your-brand-as-a-developer-through-open-source-djl)
+- [Flask-SQLAlchemy Many-to-Many Relationships: # Association Tables and Association Objects](https://dev.to/jimgrimes86/flask-sqlalchemy-many-to-many-relationships-association-tables-and-association-objects-3aej)
 - [Como a Comunicação Assertiva Pode Ser o Seu Diferencial no Home Office](https://dev.to/pripoliveira50/como-a-comunicacao-assertiva-pode-ser-o-seu-diferencial-no-home-office-23do)
 - [How could AI influence our evolution? 🧠🤖](https://dev.to/nombrekeff/how-could-ai-influence-our-evolution-2cpp)
-- [Using Accessibility Rules with SwiftLint](https://dev.to/steady5063/using-accessibility-rules-with-swiftlint-47cb)
-- [Set up GitHub Codespaces for a .NET 8 application](https://dev.to/this-is-learning/set-up-github-codespaces-for-a-net-8-application-5999)
 <!-- BLOG-POST-LIST:END -->
 
