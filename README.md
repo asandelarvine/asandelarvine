@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [So You&#39;re Interested in Being an Open Source Maintainer](https://dev.to/opensauced/so-youre-interested-in-being-an-open-source-maintainer-5bb2)
-- [Web Caching - ETag/If-None-Match](https://dev.to/didof/web-caching-etagif-none-match-517n)
-- [Linux commands you should know](https://dev.to/kwnaidoo/linux-commands-you-should-know-4ecn)
-- [Mobile DevOps: Tools, Techniques, and Triumphs in App Development](https://dev.to/romanburdiuzha/mobile-devops-tools-techniques-and-triumphs-in-app-development-31p)
+- [3 Essential Lessons After Hundreds of Open Source Developer Interviews](https://dev.to/flipt/3-essential-lessons-after-hundreds-of-open-source-developer-interviews-1b4j)
+- [Organize the mess of your photo folders with Node](https://dev.to/alagrede/organize-the-mess-of-your-photo-folders-with-node-2l19)
+- [I made a free tool to spy on any website&#39;s hosting &amp; domain providers](https://dev.to/souviktests/i-made-a-free-tool-to-spy-on-any-websites-hosting-domain-providers-3bn3)
+- [React SSR web-server from scratch](https://dev.to/ndesmic/react-ssr-web-server-from-scratch-43ig)
 <!-- BLOG-POST-LIST:END -->
 
