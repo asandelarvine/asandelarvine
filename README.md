@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como a Comunicação Assertiva Pode Ser o Seu Diferencial no Home Office](https://dev.to/pripoliveira50/como-a-comunicacao-assertiva-pode-ser-o-seu-diferencial-no-home-office-23do)
+- [How could AI influence our evolution? 🧠🤖](https://dev.to/nombrekeff/how-could-ai-influence-our-evolution-2cpp)
+- [Using Accessibility Rules with SwiftLint](https://dev.to/steady5063/using-accessibility-rules-with-swiftlint-47cb)
 - [Set up GitHub Codespaces for a .NET 8 application](https://dev.to/this-is-learning/set-up-github-codespaces-for-a-net-8-application-5999)
-- [GitHub Codespaces: A Faster Way to Develop in the Cloud](https://dev.to/this-is-learning/github-codespaces-a-faster-way-to-develop-in-the-cloud-2ml4)
-- [The True Price of My Open Source Journey](https://dev.to/mbround18/the-true-price-of-my-open-source-journey-100k)
-- [Multiple Regression](https://dev.to/jordan_gamba/multiple-regression-52lm)
 <!-- BLOG-POST-LIST:END -->
 
