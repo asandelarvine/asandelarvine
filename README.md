@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Top 4 ways to send notifications about new stars ⭐️⭐️⭐️](https://dev.to/triggerdotdev/top-4-ways-to-send-notifications-about-new-stars-1cgb)
+- [Building Serverless Applications On AWS: A Practical Guide To Managing Event Processing](https://dev.to/kelvinskell/building-serverless-applications-on-aws-a-practical-guide-to-managing-event-processing-2fpa)
+- [Emmet | Intermediate HTML and CSS Course | Day 2](https://dev.to/codingcss/emmet-intermediate-html-and-css-course-day-2-5e0i)
+- [🚀 Top 4 ways to send notifications about new stars ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️](https://dev.to/triggerdotdev/top-4-ways-to-send-notifications-about-new-stars-1cgb)
 - [Supercharge your Windows Development: The Ultimate Guide to WSL 🚀📟](https://dev.to/wasp/supercharge-your-windows-development-the-ultimate-guide-to-wsl-195m)
-- [Why does Flutter go unnoticed?](https://dev.to/lnahrf/why-does-flutter-go-unnoticed-2mb8)
-- [Advanced Scripting Techniques in Linux Shell Scripting](https://dev.to/arbythecoder/advanced-scripting-techniques-in-linux-shell-scripting-3jii)
 <!-- BLOG-POST-LIST:END -->
 
