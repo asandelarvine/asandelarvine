@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishing package to npm registry, tagging and doing a release, and beyond...](https://dev.to/sdthaker/publishing-package-to-npm-registry-tagging-and-doing-a-release-and-beyond-1321)
 - [Develop AI Apps with React and Javascript](https://dev.to/salmenus/develop-ai-apps-with-react-and-javascript-516b)
+- [AWS Lambda Advanced Logging](https://dev.to/asankab/advanced-logging-for-aws-lambda-3070)
 - [A Beginner&#39;s Guide to Online Image Labeling &amp; Annotation Using PixLab Annotate](https://dev.to/unqlite_db/a-beginners-guide-to-online-image-labeling-annotation-using-pixlab-annotate-52l4)
-- [How Does Swift Career Growth Affect Your Coding?](https://dev.to/codenewbieteam/how-does-swift-career-growth-affect-your-coding-2i34)
-- [What Evening Habits Boost Productivity?](https://dev.to/devteam/what-evening-habits-boost-productivity-466n)
 <!-- BLOG-POST-LIST:END -->
 
