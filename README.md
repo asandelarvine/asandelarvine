@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Like Button - Building a User-Owned Future with Web3](https://dev.to/calyptus_ninja1/beyond-the-like-button-building-a-user-owned-future-with-web3-23fn)
+- [Unlocking Agility with a Multi-Cloud DevOps Strategy: 3 Expert Tips](https://dev.to/hatica/unlocking-agility-with-a-multi-cloud-devops-strategy-3-expert-tips-214k)
+- [Kubernetes Troubleshooting](https://dev.to/barbara/kubernetes-troubleshooting-575p)
 - [Mad Devs’ #18 Newsletter. October 2023](https://dev.to/maddevs/mad-devs-18-newsletter-october-2023-371p)
-- [Unproductive Meetings: The #5 Developer Productivity Killer](https://dev.to/hatica/unproductive-meetings-the-5-developer-productivity-killer-3j1c)
-- [Mastering Git Checkout: Decoding the Impact of One Simple Command](https://dev.to/iahtisham/mastering-git-checkout-decoding-the-impact-of-one-simple-command-4e7h)
-- [Want to host your own website manually? Start here &lpar;Part 1&rpar;](https://dev.to/wb19/want-to-host-your-own-website-manually-start-here-part-1-465j)
 <!-- BLOG-POST-LIST:END -->
 
