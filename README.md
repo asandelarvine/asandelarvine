@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS advanced folder structure for scalable projects.](https://dev.to/kartikbudhraja/reactjs-advanced-folder-structure-for-scalable-projects-mle)
-- [How Tech Youtubers saved my Software Developer Career.](https://dev.to/manavkush/how-tech-youtubers-saved-my-software-developer-career-4g6j)
-- [Navigating computer vision development](https://dev.to/miguelaeh/navigating-computer-vision-development-63e)
-- [🌟✨ Unveiling the Future: Women Shaping Ethical AI ✨🌟](https://dev.to/devnenyasha/unveiling-the-future-women-shaping-ethical-ai-aoe)
+- [Set up GitHub Codespaces for a .NET 8 application](https://dev.to/this-is-learning/set-up-github-codespaces-for-a-net-8-application-5999)
+- [GitHub Codespaces: A Faster Way to Develop in the Cloud](https://dev.to/this-is-learning/github-codespaces-a-faster-way-to-develop-in-the-cloud-2ml4)
+- [The True Price of My Open Source Journey](https://dev.to/mbround18/the-true-price-of-my-open-source-journey-100k)
+- [Multiple Regression](https://dev.to/jordan_gamba/multiple-regression-52lm)
 <!-- BLOG-POST-LIST:END -->
 
