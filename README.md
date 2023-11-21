@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Marketing Tips for Developers 💡](https://dev.to/zevir/marketing-tips-for-developers-35fa)
-- [Free DocuSign Alternatives - Comprehensive list for 2024](https://dev.to/docusignlog-in/free-docusign-alternatives-comprehensive-list-for-2024-4cb3)
-- [How To Create Many-to-Many Relationships in SQL](https://dev.to/domfive/how-to-create-many-to-many-relationships-in-sql-j73)
-- [IPV6 Migration Guide for Developers using AWS EC2 -- A Primer](https://dev.to/tonymet/ipv6-migration-guide-for-developers-using-aws-ec2-a-primer-50df)
+- [Develop AI Apps with React and Javascript](https://dev.to/salmenus/develop-ai-apps-with-react-and-javascript-516b)
+- [A Beginner&#39;s Guide to Online Image Labeling &amp; Annotation Using PixLab Annotate](https://dev.to/unqlite_db/a-beginners-guide-to-online-image-labeling-annotation-using-pixlab-annotate-52l4)
+- [How Does Swift Career Growth Affect Your Coding?](https://dev.to/codenewbieteam/how-does-swift-career-growth-affect-your-coding-2i34)
+- [What Evening Habits Boost Productivity?](https://dev.to/devteam/what-evening-habits-boost-productivity-466n)
 <!-- BLOG-POST-LIST:END -->
 
