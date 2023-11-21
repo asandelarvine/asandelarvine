@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Frontend update: the Gowebly CLI now supports daisyUI components library](https://dev.to/koddr/frontend-update-the-gowebly-cli-now-supports-daisyui-components-library-3dmn)
-- [News API and Web Scraping: A Comparative Analysis](https://dev.to/newsdataio/news-api-and-web-scraping-a-comparative-analysis-287e)
-- [How To Create And Sell Notion Templates as a Developer](https://dev.to/surajondev/how-to-create-and-sell-notion-templates-as-a-developer-2gba)
-- [I took my side project from $0 to $200+ in 4 days](https://dev.to/salmandotweb/i-took-my-side-project-from-0-to-180-in-4-days-2i09)
+- [🚀 Top 4 ways to send notifications about new stars ⭐️⭐️⭐️](https://dev.to/triggerdotdev/top-4-ways-to-send-notifications-about-new-stars-1cgb)
+- [Supercharge your Windows Development: The Ultimate Guide to WSL 🚀📟](https://dev.to/wasp/supercharge-your-windows-development-the-ultimate-guide-to-wsl-195m)
+- [Why does Flutter go unnoticed?](https://dev.to/lnahrf/why-does-flutter-go-unnoticed-2mb8)
+- [Advanced Scripting Techniques in Linux Shell Scripting](https://dev.to/arbythecoder/advanced-scripting-techniques-in-linux-shell-scripting-3jii)
 <!-- BLOG-POST-LIST:END -->
 
