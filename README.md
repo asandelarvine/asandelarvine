@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to host your own website manually? Start here &lpar;Part 1&rpar;](https://dev.to/wb19/want-to-host-your-own-website-manually-start-here-part-1-465j)
+- [Debugging Kubernetes Apps with kubectl debug](https://dev.to/giladmaayan/debugging-kubernetes-apps-with-kubectl-debug-3863)
+- [Top 10 Unique HTML Attributes You Should Know About. 🚀💡💯](https://dev.to/margishpatel/top-10-unique-html-attributes-you-should-know-about-53gb)
 - [Infer Types to Avoid Explicit Types](https://dev.to/nickytonline/infer-types-to-avoid-explicit-types-1pnn)
-- [Spring Data REST example](https://dev.to/tienbku/spring-data-rest-example-ggg)
-- [Publishing package to npm registry, tagging and doing a release, and beyond...](https://dev.to/sdthaker/publishing-package-to-npm-registry-tagging-and-doing-a-release-and-beyond-1321)
-- [Develop AI Apps with React and Javascript](https://dev.to/salmenus/develop-ai-apps-with-react-and-javascript-516b)
 <!-- BLOG-POST-LIST:END -->
 
