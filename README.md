@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zustand - A beginners guids](https://dev.to/shubhamtiwari909/zustand-a-beginners-guids-fh7)
-- [R&amp;D Cost Capitalization For Engineering Teams Explained](https://dev.to/hatica/rd-cost-capitalization-for-engineering-teams-explained-4p8n)
-- [A Retrospective on Error Management: Where Do We Go From Here?](https://dev.to/stefanofago73/a-retrospective-on-error-management-where-do-we-go-from-here-4ffn)
-- [Optimize your JS code in 10 seconds](https://dev.to/mainarthur/optimize-your-js-code-in-10-seconds-6jb)
+- [🔥 Frontend update: the Gowebly CLI now supports daisyUI components library](https://dev.to/koddr/frontend-update-the-gowebly-cli-now-supports-daisyui-components-library-3dmn)
+- [News API and Web Scraping: A Comparative Analysis](https://dev.to/newsdataio/news-api-and-web-scraping-a-comparative-analysis-287e)
+- [How To Create And Sell Notion Templates as a Developer](https://dev.to/surajondev/how-to-create-and-sell-notion-templates-as-a-developer-2gba)
+- [I took my side project from $0 to $200+ in 4 days](https://dev.to/salmandotweb/i-took-my-side-project-from-0-to-180-in-4-days-2i09)
 <!-- BLOG-POST-LIST:END -->
 
