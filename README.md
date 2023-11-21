@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Essential Lessons After Hundreds of Open Source Developer Interviews](https://dev.to/flipt/3-essential-lessons-after-hundreds-of-open-source-developer-interviews-1b4j)
-- [Organize the mess of your photo folders with Node](https://dev.to/alagrede/organize-the-mess-of-your-photo-folders-with-node-2l19)
-- [I made a free tool to spy on any website&#39;s hosting &amp; domain providers](https://dev.to/souviktests/i-made-a-free-tool-to-spy-on-any-websites-hosting-domain-providers-3bn3)
-- [React SSR web-server from scratch](https://dev.to/ndesmic/react-ssr-web-server-from-scratch-43ig)
+- [How Tech Youtubers saved my Software Developer Career.](https://dev.to/manavkush/how-tech-youtubers-saved-my-software-developer-career-4g6j)
+- [Navigating computer vision development](https://dev.to/miguelaeh/navigating-computer-vision-development-63e)
+- [🌟✨ Unveiling the Future: Women Shaping Ethical AI ✨🌟](https://dev.to/devnenyasha/unveiling-the-future-women-shaping-ethical-ai-aoe)
+- [Variables in C++](https://dev.to/igorcastilhos/variables-in-c-3dlj)
 <!-- BLOG-POST-LIST:END -->
 
