@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Safe Blue-Green Docker-Compose Deployment](https://dev.to/andrewkangg/safe-blue-green-docker-compose-deployment-59bn)
+- [🦃 Reacts-giving: 11 react components for aspiring pros 👩🏻‍🌾🍁](https://dev.to/copilotkit/reacts-giving-11-react-components-for-aspiring-pros-eck)
+- [Trampo na gringa - Parte 1](https://dev.to/lucianodiisouza/trampo-na-gringa-parte-1-4kpn)
 - [Building Serverless Applications On AWS: A Practical Guide To Managing Event Processing](https://dev.to/kelvinskell/building-serverless-applications-on-aws-a-practical-guide-to-managing-event-processing-2fpa)
-- [Emmet | Intermediate HTML and CSS Course | Day 2](https://dev.to/codingcss/emmet-intermediate-html-and-css-course-day-2-5e0i)
-- [🚀 Top 4 ways to send notifications about new stars ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️](https://dev.to/triggerdotdev/top-4-ways-to-send-notifications-about-new-stars-1cgb)
-- [Supercharge your Windows Development: The Ultimate Guide to WSL 🚀📟](https://dev.to/wasp/supercharge-your-windows-development-the-ultimate-guide-to-wsl-195m)
 <!-- BLOG-POST-LIST:END -->
 
