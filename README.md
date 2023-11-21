@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ReactJS advanced folder structure for scalable projects.](https://dev.to/kartikbudhraja/reactjs-advanced-folder-structure-for-scalable-projects-mle)
 - [How Tech Youtubers saved my Software Developer Career.](https://dev.to/manavkush/how-tech-youtubers-saved-my-software-developer-career-4g6j)
 - [Navigating computer vision development](https://dev.to/miguelaeh/navigating-computer-vision-development-63e)
 - [🌟✨ Unveiling the Future: Women Shaping Ethical AI ✨🌟](https://dev.to/devnenyasha/unveiling-the-future-women-shaping-ethical-ai-aoe)
-- [Variables in C++](https://dev.to/igorcastilhos/variables-in-c-3dlj)
 <!-- BLOG-POST-LIST:END -->
 
