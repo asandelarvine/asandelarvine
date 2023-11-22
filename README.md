@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Resolve Merge Conflicts Using the Merge Editor Feature on VS Code](https://dev.to/adiatiayu/how-to-resolve-merge-conflicts-using-the-merge-editor-feature-on-vs-code-pic)
+- [2023 Black Friday &amp; Cyber Monday for Developers](https://dev.to/jarvisscript/2023-black-friday-cyber-monday-for-developers-92p)
+- [Make your own HTTP server in ruby](https://dev.to/yet_anotherdev/make-your-own-http-server-in-ruby-38em)
 - [HTMX - Exploring The Capabilities](https://dev.to/refine/htmx-exploring-the-capabilities-3gma)
-- [Swirl Search: Open Source Enterprise Search 🔍 to Securely 🔐 Search your Data.](https://dev.to/swirl/swirl-search-open-source-enterprise-search-to-securely-search-your-data-2pcp)
-- [How to add pinned repos in your portfolio or website?](https://dev.to/kremilly/how-to-added-pinned-repos-in-your-portfolio-or-website-3agg)
-- [Day 93: Web components](https://dev.to/dhrn/day-93-web-components-1dik)
 <!-- BLOG-POST-LIST:END -->
 
