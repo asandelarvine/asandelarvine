@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀Ruby on Rails for beginners: build an online store with Rails](https://dev.to/dumebii/beginner-ruby-on-rails-build-a-simple-online-store-with-ruby-on-rails-2egl)
+- [The Art of Crafting a Powerful Go Lambda Function from Scratch](https://dev.to/rodrigodh/the-art-of-crafting-a-powerful-go-lambda-function-from-scratch-1fkg)
 - [Moonly weekly progress update #68 - Wallet checker improvements](https://dev.to/moonly/moonly-weekly-progress-update-68-wallet-checker-improvements-26io)
-- [Responsive CSS Art For Beginners With Source Code](https://dev.to/codingcss/responsive-css-art-for-beginners-with-source-code-52pm)
-- [Open-source number input component examples with Tailwind CSS](https://dev.to/themesberg/open-source-number-input-component-examples-with-tailwind-css-56m5)
-- [Unleashing the Power of ChatGPT: A Deep Dive into CRM Capabilities](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-deep-dive-into-crm-capabilities-3clk)
+- [HTML tags | search](https://dev.to/carlosespada/html-tags-search-50e9)
 <!-- BLOG-POST-LIST:END -->
 
