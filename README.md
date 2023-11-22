@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Confessions: Lessons from 3+ Years in the Trenches](https://dev.to/isotech/coding-confessions-lessons-from-3-years-in-the-trenches-1173)
-- [Bun adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/bun-adoption-guide-overview-examples-and-alternatives-309f)
-- [You don&#39;t need CRDTs for collaborative experiences](https://dev.to/ably/you-dont-need-crdts-for-collaborative-experiences-emj)
-- [Do you find it DIFFICULT to take regular breaks behind your laptop?](https://dev.to/boadusamuel/do-you-find-it-difficult-to-take-regular-breaks-behind-your-laptop-8kp)
+- [Should I get an M3 iMac, an M1 iMac, an M2 Mac Mini, or something else?](https://dev.to/michaeltharrington/should-i-get-an-m3-imac-an-m1-imac-an-m2-mac-mini-or-something-else-24oj)
+- [Understanding Blockchain RPC Nodes: A Simplified Guide](https://dev.to/getblockapi/understanding-blockchain-rpc-nodes-a-simplified-guide-3eh2)
+- [Portfolio Website Developed in React, Framer Motion and Tailwind CSS](https://dev.to/craftingbugs/portfolio-website-developed-in-react-framer-motion-and-tailwind-css-5f22)
+- [JavaScript Execution Context &amp; Hoisting](https://dev.to/badr21/javascript-execution-context-hoisting-2e4h)
 <!-- BLOG-POST-LIST:END -->
 
