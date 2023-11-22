@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Security Analyst vs. Cyber Security Specialist](https://dev.to/infosec_jobscom/cyber-security-analyst-vs-cyber-security-specialist-1jg5)
+- [Business Intelligence Data Analyst vs. BI Developer](https://dev.to/ai_jobsnet/business-intelligence-data-analyst-vs-bi-developer-1f88)
 - [How to Resolve Merge Conflicts Using the Merge Editor Feature on VS Code](https://dev.to/adiatiayu/how-to-resolve-merge-conflicts-using-the-merge-editor-feature-on-vs-code-pic)
 - [2023 Black Friday &amp; Cyber Monday for Developers](https://dev.to/jarvisscript/2023-black-friday-cyber-monday-for-developers-92p)
-- [Make your own HTTP server in ruby](https://dev.to/yet_anotherdev/make-your-own-http-server-in-ruby-38em)
-- [HTMX - Exploring The Capabilities](https://dev.to/refine/htmx-exploring-the-capabilities-3gma)
 <!-- BLOG-POST-LIST:END -->
 
