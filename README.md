@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lo-Fi Service Discovery in .NET8](https://dev.to/david_whitney/lo-fi-service-discovery-in-net8-2h5o)
 - [Embracing &quot;I Don&#39;t Know&quot;: What Have You Learned?](https://dev.to/codenewbieteam/embracing-i-dont-know-what-have-you-learned-2l8k)
 - [Building Your Brand as a Developer Through Open Source](https://dev.to/adiatiayu/building-your-brand-as-a-developer-through-open-source-djl)
 - [AWS SSO Aliases you need to have](https://dev.to/aws-builders/aws-sso-aliases-you-need-to-have-3a98)
-- [Flask-SQLAlchemy Many-to-Many Relationships: # Association Tables and Association Objects](https://dev.to/jimgrimes86/flask-sqlalchemy-many-to-many-relationships-association-tables-and-association-objects-3aej)
 <!-- BLOG-POST-LIST:END -->
 
