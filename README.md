@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting your own AI chat app using Hilla and Spring AI](https://dev.to/maheshbabu11/crafting-your-own-ai-chat-app-using-hilla-and-spring-ai-4b3)
+- [Day 9 of MDB UI Kits discounts &lpar;up to 97% OFF❗️&rpar;](https://dev.to/mdbootstrap/day-9-of-mdb-ui-kits-discounts-up-to-97-off-2pfp)
+- [The State of JS 2023 Survey is Now Open](https://dev.to/sachagreif/the-state-of-js-2023-survey-is-now-open-2hah)
 - [Claude 2.1 AI model with 200K Context is Live](https://dev.to/maximsaplin/claude-21-ai-model-with-200k-context-is-live-1jjm)
-- [Asking Questions is Always Smart](https://dev.to/jmfayard/asking-questions-is-always-smart-19mj)
-- [Python Important](https://dev.to/studiobox/python-important-1nm6)
-- [The mistaken assumption of software startups](https://dev.to/saborrie/the-mistaken-assumption-of-software-startups-d7b)
 <!-- BLOG-POST-LIST:END -->
 
