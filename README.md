@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Best IT Documentation Tools for DevOps in 2024](https://dev.to/ragavi_document360/8-best-it-documentation-tools-for-devops-in-2024-4fen)
+- [Como Instalar Visual Studio Code en Mac, Windows y Linux](https://dev.to/mailingdelgadomedina/como-instalar-visual-studio-code-en-mac-windows-y-linux-3ma1)
 - [CI/CD Pipeline for Terraform Workflow Using Amazon CodeCatalyst](https://dev.to/aws-builders/cicd-pipeline-for-terraform-workflow-using-amazon-codecatalyst-3a4c)
 - [Top 5 Distributed System Design Pattern to ace SD interviews](https://dev.to/mukeshkuiry/top-5-distributed-system-design-pattern-to-ace-sd-interviews-20c7)
-- [🔥Top psql Commands with Examples🐘](https://dev.to/bytebase/top-psql-commands-with-examples-1h5)
-- [Deploying a Vite app on GitHub Pages using GitHub Actions with GitHub Secrets](https://dev.to/dwtoledo/deploying-a-vite-app-on-github-pages-using-github-actions-with-github-secrets-1hn0)
 <!-- BLOG-POST-LIST:END -->
 
