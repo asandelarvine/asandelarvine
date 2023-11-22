@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The Ins and Outs of Linkedin&quot;: CodeNewbie Podcast S26E4](https://dev.to/codenewbieteam/the-ins-and-outs-of-linkedin-codenewbie-podcast-s26e4-2op7)
 - [Cyber Security Analyst vs. Cyber Security Specialist](https://dev.to/infosec_jobscom/cyber-security-analyst-vs-cyber-security-specialist-1jg5)
+- [Learning to code and making some cash?](https://dev.to/codewithshahan/learning-to-code-and-making-some-cash-4d12)
 - [Business Intelligence Data Analyst vs. BI Developer](https://dev.to/ai_jobsnet/business-intelligence-data-analyst-vs-bi-developer-1f88)
-- [How to Resolve Merge Conflicts Using the Merge Editor Feature on VS Code](https://dev.to/adiatiayu/how-to-resolve-merge-conflicts-using-the-merge-editor-feature-on-vs-code-pic)
-- [2023 Black Friday &amp; Cyber Monday for Developers](https://dev.to/jarvisscript/2023-black-friday-cyber-monday-for-developers-92p)
 <!-- BLOG-POST-LIST:END -->
 
