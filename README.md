@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HTMX - Exploring The Capabilities](https://dev.to/refine/htmx-exploring-the-capabilities-3gma)
+- [Swirl Search: Open Source Enterprise Search 🔍 to Securely 🔐 Search your Data.](https://dev.to/swirl/swirl-search-open-source-enterprise-search-to-securely-search-your-data-2pcp)
 - [How to add pinned repos in your portfolio or website?](https://dev.to/kremilly/how-to-added-pinned-repos-in-your-portfolio-or-website-3agg)
-- [Debugging Playwright Tests in VS Code](https://dev.to/playwright/debugging-tests-21ck)
 - [Day 93: Web components](https://dev.to/dhrn/day-93-web-components-1dik)
-- [Announcing NgRx v17: Introducing NgRx Signals, Operators, Performance Improvements, Workshops, and more!](https://dev.to/ngrx/announcing-ngrx-v17-introducing-ngrx-signals-operators-performance-improvements-workshops-and-more-55e4)
 <!-- BLOG-POST-LIST:END -->
 
