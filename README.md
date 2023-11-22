@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add pinned repos in your portfolio or website?](https://dev.to/kremilly/how-to-added-pinned-repos-in-your-portfolio-or-website-3agg)
+- [Debugging Playwright Tests in VS Code](https://dev.to/playwright/debugging-tests-21ck)
 - [Day 93: Web components](https://dev.to/dhrn/day-93-web-components-1dik)
 - [Announcing NgRx v17: Introducing NgRx Signals, Operators, Performance Improvements, Workshops, and more!](https://dev.to/ngrx/announcing-ngrx-v17-introducing-ngrx-signals-operators-performance-improvements-workshops-and-more-55e4)
-- [Web Development Frameworks: A Comparative Analysis](https://dev.to/onix-systems/web-development-frameworks-a-comparative-analysis-pjc)
-- [Should I get an M3 iMac, an M1 iMac, an M2 Mac Mini, or something else?](https://dev.to/michaeltharrington/should-i-get-an-m3-imac-an-m1-imac-an-m2-mac-mini-or-something-else-24oj)
 <!-- BLOG-POST-LIST:END -->
 
