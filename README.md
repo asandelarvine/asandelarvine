@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source number input component examples with Tailwind CSS](https://dev.to/themesberg/open-source-number-input-component-examples-with-tailwind-css-56m5)
+- [Unleashing the Power of ChatGPT: A Deep Dive into CRM Capabilities](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-deep-dive-into-crm-capabilities-3clk)
 - [Demystifying Hoisting in JavaScript😵](https://dev.to/kushagra_aa/demystifying-hoisting-in-javascript-24og)
 - [Welcome Thread - v252](https://dev.to/devteam/welcome-thread-v252-5hm3)
-- [Kubernetes](https://dev.to/hasanelsherbiny/kubernetes-1b7b)
-- [Decoding Readability Score? Meaning, Use-cases &amp; Approaches](https://dev.to/iamspathan/decoding-readability-score-meaning-use-cases-approaches-638)
 <!-- BLOG-POST-LIST:END -->
 
