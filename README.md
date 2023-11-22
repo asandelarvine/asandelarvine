@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Ruby on Rails for beginners: build an online store with Rails](https://dev.to/dumebii/beginner-ruby-on-rails-build-a-simple-online-store-with-ruby-on-rails-2egl)
-- [The Art of Crafting a Powerful Go Lambda Function from Scratch](https://dev.to/rodrigodh/the-art-of-crafting-a-powerful-go-lambda-function-from-scratch-1fkg)
-- [Moonly weekly progress update #68 - Wallet checker improvements](https://dev.to/moonly/moonly-weekly-progress-update-68-wallet-checker-improvements-26io)
-- [HTML tags | search](https://dev.to/carlosespada/html-tags-search-50e9)
+- [Do you find it DIFFICULT to take regular breaks behind your laptop?](https://dev.to/boadusamuel/do-you-find-it-difficult-to-take-regular-breaks-behind-your-laptop-8kp)
+- [Learn serverless on AWS step-by-step: Lambda Destinations](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-lambda-destinations-f5b)
+- [Arrow Functions vs. Regular Functions in JavaScript: A Comprehensive Guide](https://dev.to/ichintansoni/arrow-functions-vs-regular-functions-in-javascript-a-comprehensive-guide-4dpi)
+- [Mastering NullReferenceException in C# .NET Development](https://dev.to/iamcymentho/mastering-nullreferenceexception-in-c-net-development-1k2j)
 <!-- BLOG-POST-LIST:END -->
 
