@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Pipeline for Terraform Workflow Using Amazon CodeCatalyst](https://dev.to/aws-builders/cicd-pipeline-for-terraform-workflow-using-amazon-codecatalyst-3a4c)
 - [Top 5 Distributed System Design Pattern to ace SD interviews](https://dev.to/mukeshkuiry/top-5-distributed-system-design-pattern-to-ace-sd-interviews-20c7)
 - [🔥Top psql Commands with Examples🐘](https://dev.to/bytebase/top-psql-commands-with-examples-1h5)
-- [Lo-Fi Service Discovery in .NET8](https://dev.to/david_whitney/lo-fi-service-discovery-in-net8-2h5o)
-- [Embracing &quot;I Don&#39;t Know&quot;: What Have You Learned?](https://dev.to/codenewbieteam/embracing-i-dont-know-what-have-you-learned-2l8k)
+- [Deploying a Vite app on GitHub Pages using GitHub Actions with GitHub Secrets](https://dev.to/dwtoledo/deploying-a-vite-app-on-github-pages-using-github-actions-with-github-secrets-1hn0)
 <!-- BLOG-POST-LIST:END -->
 
