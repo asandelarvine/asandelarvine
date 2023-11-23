@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📌 Azure Landing Zone baseline](https://dev.to/brainboard/azure-landing-zone-baseline-n2l)
-- [Navigating and Mastering the Work-From-Home Lifestyle](https://dev.to/andrewjensen42/navigating-and-mastering-the-work-from-home-lifestyle-6co)
-- [MDB LAST CHANCE PRE #BlackFriday2023 SALE!](https://dev.to/mdbootstrap/mdb-last-chance-pre-blackfriday2023-sale-3a6o)
-- [What is super&quot; keyword in Java?](https://dev.to/kishantarai/what-is-super-keyword-in-java-2jbp)
+- [How to Send JSON Data in Postman](https://dev.to/serenepine/how-to-send-json-data-in-postman-90a)
+- [Using a Transactional Pub/Sub Outbox to Guarantee Consistency](https://dev.to/encore/using-a-transactional-pubsub-outbox-to-guarantee-consistency-4g91)
+- [What is test automation: Ultimate guide and best practices](https://dev.to/softwebsolution/what-is-test-automation-ultimate-guide-and-best-practices-1h79)
+- [Unlocking Empowerment: The Essence of Self-Service](https://dev.to/kairavibuch/unlocking-empowerment-the-essence-of-self-service-565c)
 <!-- BLOG-POST-LIST:END -->
 
