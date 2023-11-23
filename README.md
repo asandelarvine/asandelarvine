@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My top personal software upgrades](https://dev.to/isaacdlyman/my-top-personal-software-upgrades-f64)
-- [GitHub Repository Initialization Script](https://dev.to/cosmicwanderer7/github-repository-initialization-script-12pp)
-- [Delete code to accelerate your dev career](https://dev.to/moozzyk/delete-code-to-accelerate-your-dev-career-jk3)
-- [Parallax using scroll driven animations](https://dev.to/codingjlu/parallax-using-scroll-driven-animations-44o7)
+- [📌 Azure Landing Zone baseline](https://dev.to/brainboard/azure-landing-zone-baseline-n2l)
+- [Navigating and Mastering the Work-From-Home Lifestyle](https://dev.to/andrewjensen42/navigating-and-mastering-the-work-from-home-lifestyle-6co)
+- [MDB LAST CHANCE PRE #BlackFriday2023 SALE!](https://dev.to/mdbootstrap/mdb-last-chance-pre-blackfriday2023-sale-3a6o)
+- [What is super&quot; keyword in Java?](https://dev.to/kishantarai/what-is-super-keyword-in-java-2jbp)
 <!-- BLOG-POST-LIST:END -->
 
