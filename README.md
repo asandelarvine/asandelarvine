@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Core vs Java: Which Programming Platform Has Better Performance?](https://dev.to/amelie-lamb/net-core-vs-java-which-programming-platform-has-better-performance-2018)
 - [Unleashing the Power of Multithreading in C# Development](https://dev.to/iamcymentho/unleashing-the-power-of-multithreading-in-c-development-dnj)
 - [5 Common useState Mistakes React Devs Make](https://dev.to/refine/5-common-usestate-mistakes-react-devs-make-ohm)
 - [How to Send JSON Data in Postman](https://dev.to/serenepine/how-to-send-json-data-in-postman-90a)
-- [Using a Transactional Pub/Sub Outbox to Guarantee Consistency](https://dev.to/encore/using-a-transactional-pubsub-outbox-to-guarantee-consistency-4g91)
 <!-- BLOG-POST-LIST:END -->
 
