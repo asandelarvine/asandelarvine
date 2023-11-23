@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [My top personal software upgrades](https://dev.to/isaacdlyman/my-top-personal-software-upgrades-f64)
 - [GitHub Repository Initialization Script](https://dev.to/cosmicwanderer7/github-repository-initialization-script-12pp)
 - [Parallax using scroll driven animations](https://dev.to/codingjlu/parallax-using-scroll-driven-animations-44o7)
-- [What Are Effective Strategies for Mental Well-Being?](https://dev.to/devteam/what-are-effective-strategies-for-mental-well-being-1d05)
+- [Do you need an IDE to write Common Lisp?](https://dev.to/vindarel/do-you-need-an-ide-to-write-common-lisp-25nf)
 <!-- BLOG-POST-LIST:END -->
 
