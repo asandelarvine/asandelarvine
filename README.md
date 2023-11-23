@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Colors in Between](https://dev.to/colortools/colors-in-between-3i73)
+- [Mastering WordPress CLI: A Comprehensive Guide to Boost Your Productivity](https://dev.to/robiulawal40/mastering-wordpress-cli-a-comprehensive-guide-to-boost-your-productivity-3j79)
+- [Episode 23/46: Implicit Imports &amp; Signal-based inputs, Becoming Angular Contributor, DI deep-dive](https://dev.to/this-is-angular/episode-2346-implicit-imports-signal-based-inputs-becoming-angular-contributor-di-deep-dive-2jl)
 - [Responsive Number Counting Animation With JavaScript Project With Source Code](https://dev.to/codingcss/responsive-number-counting-animation-with-javascript-project-with-source-code-2m5)
-- [Choosing the Best Tech Stack for Your Project: A Strategic Guide](https://dev.to/khalisspasha/choosing-the-best-tech-stack-for-your-project-a-strategic-guide-3fgm)
-- [21 Internship Programs to Gain Tech Experience 🚀💯](https://dev.to/madza/21-internship-programs-to-gain-tech-experience-4e18)
-- [The Power of Mentorship in Coding: Building Connections Beyond the Screen](https://dev.to/craigouma/the-power-of-mentorship-in-coding-building-connections-beyond-the-screen-gkm)
 <!-- BLOG-POST-LIST:END -->
 
