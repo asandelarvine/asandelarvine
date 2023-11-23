@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Parallax using scroll driven animations](https://dev.to/codingjlu/parallax-using-scroll-driven-animations-44o7)
+- [What Are Effective Strategies for Mental Well-Being?](https://dev.to/devteam/what-are-effective-strategies-for-mental-well-being-1d05)
 - [Comandos basicos de Docker](https://dev.to/haroldo89/comandos-basicos-de-docker-4f44)
 - [mrdr is born &lpar;from hell!&rpar;](https://dev.to/padcom/mrdr-is-born-from-hell-1i47)
-- [How open source landed me a job in a YC company](https://dev.to/opensauced/how-open-source-landed-me-a-job-in-a-yc-company-50ck)
 <!-- BLOG-POST-LIST:END -->
 
