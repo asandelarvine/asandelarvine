@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Core vs Java: Which Programming Platform Has Better Performance?](https://dev.to/amelie-lamb/net-core-vs-java-which-programming-platform-has-better-performance-2018)
-- [Unleashing the Power of Multithreading in C# Development](https://dev.to/iamcymentho/unleashing-the-power-of-multithreading-in-c-development-dnj)
-- [5 Common useState Mistakes React Devs Make](https://dev.to/refine/5-common-usestate-mistakes-react-devs-make-ohm)
-- [How to Send JSON Data in Postman](https://dev.to/serenepine/how-to-send-json-data-in-postman-90a)
+- [Mac command + C 3D buttons using html, css](https://dev.to/freecodez/mac-command-c-3d-buttons-using-html-css-43e6)
+- [⚡️⚡️ 7 ML repos used by the TOP 1% of Python developers 🐉](https://dev.to/quine/7-ml-repos-used-by-the-top-1-of-python-developers-based-on-real-data-30hc)
+- [Subnetting](https://dev.to/mithunsreeram/subnetting-2oa)
+- [Dagger 101: How to Get Started with Containerized CI Workflows](https://dev.to/dyrectorio/dagger-101-how-to-get-started-with-containerized-ci-workflows-105m)
 <!-- BLOG-POST-LIST:END -->
 
