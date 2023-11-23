@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [My top personal software upgrades](https://dev.to/isaacdlyman/my-top-personal-software-upgrades-f64)
 - [GitHub Repository Initialization Script](https://dev.to/cosmicwanderer7/github-repository-initialization-script-12pp)
+- [Delete code to accelerate your dev career](https://dev.to/moozzyk/delete-code-to-accelerate-your-dev-career-jk3)
 - [Parallax using scroll driven animations](https://dev.to/codingjlu/parallax-using-scroll-driven-animations-44o7)
-- [Do you need an IDE to write Common Lisp?](https://dev.to/vindarel/do-you-need-an-ide-to-write-common-lisp-25nf)
 <!-- BLOG-POST-LIST:END -->
 
