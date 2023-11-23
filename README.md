@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SimpleJS - Your Lightweight JavaScript Utility Toolkit](https://dev.to/cybercrackers/simplejs-your-lightweight-javascript-utility-toolkit-2ml8)
 - [Mac command + C 3D buttons using html, css](https://dev.to/freecodez/mac-command-c-3d-buttons-using-html-css-43e6)
 - [⚡️⚡️ 7 ML repos used by the TOP 1% of Python developers 🐉](https://dev.to/quine/7-ml-repos-used-by-the-top-1-of-python-developers-based-on-real-data-30hc)
 - [Subnetting](https://dev.to/mithunsreeram/subnetting-2oa)
-- [Dagger 101: How to Get Started with Containerized CI Workflows](https://dev.to/dyrectorio/dagger-101-how-to-get-started-with-containerized-ci-workflows-105m)
 <!-- BLOG-POST-LIST:END -->
 
