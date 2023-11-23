@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Secure Spring Boot Microservices on Amazon EKS Using Terraform and Kubernetes](https://dev.to/oktadev/deploy-secure-spring-boot-microservices-on-amazon-eks-using-terraform-and-kubernetes-3f0d)
-- [Is Nuxt 3 Really Production Ready?](https://dev.to/nuxt-wimadev/is-nuxt-3-really-production-ready-1gik)
-- [Detect Idle User With JavaScript Project With Source Code](https://dev.to/codingcss/detect-idle-user-with-javascript-project-with-source-code-26lb)
-- [Big data models 📊 vs. Computer memory 💾](https://dev.to/taipy/big-data-models-vs-computer-memory-4po6)
+- [A Comprehensive Guide to SQL Query Optimization Techniques](https://dev.to/sardarmudassaralikhan/a-comprehensive-guide-to-sql-query-optimization-techniques-1jjk)
+- [Kubiya AI and AWS Integration](https://dev.to/subbaramireddyk/kubiya-ai-and-aws-integration-11i1)
+- [Custom Exceptions in modern js / ts](https://dev.to/manuartero/custom-exceptions-in-modern-js-ts-2in9)
+- [Announcing API Insights: Your Compass in the World of APIs!](https://dev.to/treblle/announcing-api-insights-your-compass-in-the-world-of-apis-52om)
 <!-- BLOG-POST-LIST:END -->
 
