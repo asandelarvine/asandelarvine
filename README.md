@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Nuxt 3 Really Production Ready?](https://dev.to/wimadev/is-nuxt-3-really-production-ready-1gik)
+- [Deploy Secure Spring Boot Microservices on Amazon EKS Using Terraform and Kubernetes](https://dev.to/oktadev/deploy-secure-spring-boot-microservices-on-amazon-eks-using-terraform-and-kubernetes-3f0d)
+- [Is Nuxt 3 Really Production Ready?](https://dev.to/nuxt-wimadev/is-nuxt-3-really-production-ready-1gik)
 - [Detect Idle User With JavaScript Project With Source Code](https://dev.to/codingcss/detect-idle-user-with-javascript-project-with-source-code-26lb)
 - [Big data models 📊 vs. Computer memory 💾](https://dev.to/taipy/big-data-models-vs-computer-memory-4po6)
-- [SimpleJS - Your Lightweight JavaScript Utility Toolkit](https://dev.to/cybercrackers/simplejs-your-lightweight-javascript-utility-toolkit-2ml8)
 <!-- BLOG-POST-LIST:END -->
 
