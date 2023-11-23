@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2 - GraphQL Core Concepts: Schema, Resolvers, Query, Apollo](https://dev.to/lorenzojkrl/2-graphql-core-concepts-4gkd)
-- [A Comprehensive Guide to SQL Query Optimization Techniques](https://dev.to/sardarmudassaralikhan/a-comprehensive-guide-to-sql-query-optimization-techniques-1jjk)
-- [Kubiya AI and AWS Integration](https://dev.to/subbaramireddyk/kubiya-ai-and-aws-integration-11i1)
-- [Custom Exceptions in modern js / ts](https://dev.to/manuartero/custom-exceptions-in-modern-js-ts-2in9)
+- [21 Internship Programs to Gain Tech Experience 🚀💯](https://dev.to/madza/21-internship-programs-to-gain-tech-experience-4e18)
+- [Can you become an AI Developer without a degree?](https://dev.to/ai_jobsnet/can-you-become-an-ai-developer-without-a-degree-h2c)
+- [Can you become an Ethical Hacker without a degree?](https://dev.to/infosec_jobscom/can-you-become-an-ethical-hacker-without-a-degree-3k02)
+- [How to change an Ansible namespace with FQCN migration tool](https://dev.to/rpelisse/how-to-change-an-ansible-namespace-with-fqcn-migration-tool-5f4m)
 <!-- BLOG-POST-LIST:END -->
 
