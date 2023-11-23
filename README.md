@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comandos basicos de Docker](https://dev.to/haroldo89/comandos-basicos-de-docker-4f44)
+- [mrdr is born &lpar;from hell!&rpar;](https://dev.to/padcom/mrdr-is-born-from-hell-1i47)
+- [How open source landed me a job in a YC company](https://dev.to/opensauced/how-open-source-landed-me-a-job-in-a-yc-company-50ck)
 - [&quot;The Ins and Outs of Linkedin&quot;: CodeNewbie Podcast S26E4](https://dev.to/codenewbieteam/the-ins-and-outs-of-linkedin-codenewbie-podcast-s26e4-2op7)
-- [How to Perform Form Validation in React](https://dev.to/obere4u/how-to-perform-form-validation-in-react-3kgi)
-- [Web3 backend and smart contract development for Python developers Musical NFTs part 17: Deployment time!](https://dev.to/ilija/web3-backend-and-smart-contract-development-for-python-developers-musical-nfts-part-17-deployment-time-276b)
-- [Cyber Security Analyst vs. Cyber Security Specialist](https://dev.to/infosec_jobscom/cyber-security-analyst-vs-cyber-security-specialist-1jg5)
 <!-- BLOG-POST-LIST:END -->
 
