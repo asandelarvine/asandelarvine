@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Responsive Number Counting Animation With JavaScript Project With Source Code](https://dev.to/codingcss/responsive-number-counting-animation-with-javascript-project-with-source-code-2m5)
+- [Choosing the Best Tech Stack for Your Project: A Strategic Guide](https://dev.to/khalisspasha/choosing-the-best-tech-stack-for-your-project-a-strategic-guide-3fgm)
 - [21 Internship Programs to Gain Tech Experience 🚀💯](https://dev.to/madza/21-internship-programs-to-gain-tech-experience-4e18)
 - [The Power of Mentorship in Coding: Building Connections Beyond the Screen](https://dev.to/craigouma/the-power-of-mentorship-in-coding-building-connections-beyond-the-screen-gkm)
-- [Can you become an AI Developer without a degree?](https://dev.to/ai_jobsnet/can-you-become-an-ai-developer-without-a-degree-h2c)
 <!-- BLOG-POST-LIST:END -->
 
