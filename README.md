@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Nuxt 3 Really Production Ready?](https://dev.to/wimadev/is-nuxt-3-really-production-ready-1gik)
+- [Detect Idle User With JavaScript Project With Source Code](https://dev.to/codingcss/detect-idle-user-with-javascript-project-with-source-code-26lb)
+- [Big data models 📊 vs. Computer memory 💾](https://dev.to/taipy/big-data-models-vs-computer-memory-4po6)
 - [SimpleJS - Your Lightweight JavaScript Utility Toolkit](https://dev.to/cybercrackers/simplejs-your-lightweight-javascript-utility-toolkit-2ml8)
-- [Mac command + C 3D buttons using html, css](https://dev.to/freecodez/mac-command-c-3d-buttons-using-html-css-43e6)
-- [⚡️⚡️ 7 ML repos used by the TOP 1% of Python developers 🐉](https://dev.to/quine/7-ml-repos-used-by-the-top-1-of-python-developers-based-on-real-data-30hc)
-- [Subnetting](https://dev.to/mithunsreeram/subnetting-2oa)
 <!-- BLOG-POST-LIST:END -->
 
