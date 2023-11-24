@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CyberArk Interview Questions](https://dev.to/shivamchamoli18/cyberark-interview-questions-228h)
 - [Understanding Server-Side Rendering &lpar;SSR&rpar; vs. Client-Side Rendering &lpar;CSR&rpar;](https://dev.to/haszankauna/understanding-server-side-rendering-ssr-vs-client-side-rendering-csr-8gi)
 - [Mastering Flexbox Basics: A Comprehensive guide](https://dev.to/hariet/flexbox-4gdl)
-- [Configure Authentication to your AWS account in your GitHub actions CI](https://dev.to/slsbytheodo/configure-authentication-to-your-aws-account-in-your-github-actions-ci-13p3)
-- [5 Best Static Site Generators in Python](https://dev.to/stokry/5-best-static-site-generators-in-python-56a8)
+- [Angular Interview Coding Question](https://dev.to/deepachaurasia1/angular-interview-coding-question-1gok)
 <!-- BLOG-POST-LIST:END -->
 
