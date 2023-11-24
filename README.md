@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dog Makeover Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/dog-makeover-game-html-css-javascript-project-2k5m)
+- [Building an E-commerce Admin Panel with Laravel, Livewire, and Kotlin Multiplatform](https://dev.to/soheilkhaledabadi/building-an-e-commerce-admin-panel-with-laravel-livewire-and-kotlin-multiplatform-545i)
+- [Get to know Flesh Kincaid Readability Score 📃](https://dev.to/iamspathan/get-to-know-flesh-kincaid-readability-score-2d0o)
 - [JavaScript&#39;s Grouping Methods: Object.groupBy and Map.groupBy 🤯](https://dev.to/shameel/javascripts-grouping-methods-objectgroupby-and-mapgroupby-aba)
-- [My New Nextjs Project &quot;Devletter&quot; 🔥](https://dev.to/random_ti/my-new-nextjs-project-devletter-5c2l)
-- [Boletín AWS Open Source, November Edition](https://dev.to/aws-espanol/boletin-aws-open-source-november-edition-18k9)
-- [Sitecore Personalize: tips &amp; tricks for decision models and programmable nodes](https://dev.to/byteminds_agency/sitecore-personalize-tips-tricks-for-decision-models-and-programmable-nodes-2emm)
 <!-- BLOG-POST-LIST:END -->
 
