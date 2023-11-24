@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conversational AI: Transforming Interactions in the Digital Era](https://dev.to/agarralexx/conversational-ai-transforming-interactions-in-the-digital-era-5f35)
+- [How to code faster - VS Code edition](https://dev.to/kinginit/how-to-code-faster-vs-code-edition-4pa)
 - [What is Load Balancers? | What is DNS?](https://dev.to/mukeshkuiry/what-is-load-balancers-what-is-dns-fkh)
 - [Web Development fundamentals: A Comprehensive Guide for Beginners](https://dev.to/seunamos/web-development-fundamentals-a-comprehensive-guide-for-beginners-328b)
-- [Adding Dockerfiles to Open-Source Projects](https://dev.to/amnish04/adding-dockerfiles-to-open-source-projects-2cip)
-- [Stream Amazon Bedrock Response with AWS Lambda Response Streaming](https://dev.to/aws-builders/stream-amazon-bedrock-response-with-aws-lambda-response-streaming-59en)
 <!-- BLOG-POST-LIST:END -->
 
