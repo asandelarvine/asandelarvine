@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dog Makeover Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/dog-makeover-game-html-css-javascript-project-2k5m)
-- [Building an E-commerce Admin Panel with Laravel, Livewire, and Kotlin Multiplatform](https://dev.to/soheilkhaledabadi/building-an-e-commerce-admin-panel-with-laravel-livewire-and-kotlin-multiplatform-545i)
-- [Get to know Flesh Kincaid Readability Score 📃](https://dev.to/iamspathan/get-to-know-flesh-kincaid-readability-score-2d0o)
-- [JavaScript&#39;s Grouping Methods: Object.groupBy and Map.groupBy 🤯](https://dev.to/shameel/javascripts-grouping-methods-objectgroupby-and-mapgroupby-aba)
+- [🤩 20 Awesome Tools For Your Web Dev Toolkit 🛠️](https://dev.to/bigsondev/20-awesome-tools-for-your-web-dev-toolkit-3d8c)
+- [Vue Modal Router](https://dev.to/jenesius/vue-modal-router-mj8)
+- [12 Signs you might be burning out 🔥🚒](https://dev.to/samuelfaure/12-signs-you-might-be-burning-out-368d)
+- [Unlocking Success: The Benefits of Online Payment Gateways for Travel Businesses](https://dev.to/onix-systems/unlocking-success-the-benefits-of-online-payment-gateways-for-travel-businesses-349g)
 <!-- BLOG-POST-LIST:END -->
 
