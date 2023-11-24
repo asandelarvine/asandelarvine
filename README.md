@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [File-Based vs. Directory-Based Routing: Understanding the Difference](https://dev.to/psypher1/file-based-vs-directory-based-routing-understanding-the-difference-30mp)
 - [Structured Query Language &lpar;SQL&rpar; - Series](https://dev.to/kellyblaire/structured-query-language-sql-series-1p0k)
 - [WebGL texture slots allocation](https://dev.to/jacklehamster/webgl-texture-slots-allocation-4cg5)
 - [Mobile Responsive Website With HTML CSS - How To Make Responsive Website](https://dev.to/codingcss/mobile-responsive-website-with-html-css-how-to-make-responsive-website-8i4)
-- [Does size matter in Pull Requests: Analysis on 30k Developers](https://dev.to/adadot/does-size-matter-in-pull-requests-analysis-on-30k-developers-1aef)
 <!-- BLOG-POST-LIST:END -->
 
