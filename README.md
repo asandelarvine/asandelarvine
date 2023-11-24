@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sitecore Personalize: tips &amp; tricks for decision models and programmable nodes](https://dev.to/byteminds_agency/sitecore-personalize-tips-tricks-for-decision-models-and-programmable-nodes-2emm)
+- [World Best Database Documentation Tool - &quot;Prisma Markdown&quot;](https://dev.to/samchon/world-best-database-documentation-tool-prisma-markdown-1g5c)
 - [Why OpenAI Assistants is a Big Win for LLM Evaluation](https://dev.to/confidentai/why-openai-assistants-is-a-big-win-for-llm-evaluation-540l)
 - [React Server Components: A Developer&#39;s Gateway to Modern Web Apps](https://dev.to/codingcrafts/react-server-components-a-developers-gateway-to-modern-web-apps-3i5d)
-- [28h. Left: TWE Elements Up To 500$ OFF❗️](https://dev.to/mz2387/28h-left-twe-elements-up-to-500-off-kdf)
-- [How to Open Visual Studio Code &lpar;Vs Code&rpar; Online in Your Browser](https://dev.to/idurar/how-to-open-visual-studio-code-vs-code-online-in-your-browser-1k6i)
 <!-- BLOG-POST-LIST:END -->
 
