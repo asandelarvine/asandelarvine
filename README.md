@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Dockerfiles to Open-Source Projects](https://dev.to/amnish04/adding-dockerfiles-to-open-source-projects-2cip)
+- [Which YouTube Channels Enhance Developer Skills?](https://dev.to/devteam/which-youtube-channels-enhance-developer-skills-441f)
 - [AWS In-Memory Databases: Complete Guide to Accelerated Data Processing](https://dev.to/aws-builders/aws-in-memory-databases-complete-guide-to-accelerated-data-processing-38k5)
 - [Open Source is More Secure than Closed Source because Closed Source is More Secure than Open Source](https://dev.to/janderssonse/open-source-is-more-secure-than-closed-source-because-closed-source-is-more-secure-than-open-source-54fm)
-- [Colors in Between](https://dev.to/colortools/colors-in-between-3i73)
-- [Benchmark TypeScript Parsers: Demystify Rust Tooling Performance](https://dev.to/herrington_darkholme/benchmark-typescript-parsers-demystify-rust-tooling-performance-2go8)
 <!-- BLOG-POST-LIST:END -->
 
