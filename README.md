@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript&#39;s Grouping Methods: Object.groupBy and Map.groupBy 🤯](https://dev.to/shameel/javascripts-grouping-methods-objectgroupby-and-mapgroupby-aba)
+- [My New Nextjs Project &quot;Devletter&quot; 🔥](https://dev.to/random_ti/my-new-nextjs-project-devletter-5c2l)
+- [Boletín AWS Open Source, November Edition](https://dev.to/aws-espanol/boletin-aws-open-source-november-edition-18k9)
 - [Sitecore Personalize: tips &amp; tricks for decision models and programmable nodes](https://dev.to/byteminds_agency/sitecore-personalize-tips-tricks-for-decision-models-and-programmable-nodes-2emm)
-- [World Best Database Documentation Tool - &quot;Prisma Markdown&quot;](https://dev.to/samchon/world-best-database-documentation-tool-prisma-markdown-1g5c)
-- [Why OpenAI Assistants is a Big Win for LLM Evaluation](https://dev.to/confidentai/why-openai-assistants-is-a-big-win-for-llm-evaluation-540l)
-- [React Server Components: A Developer&#39;s Gateway to Modern Web Apps](https://dev.to/codingcrafts/react-server-components-a-developers-gateway-to-modern-web-apps-3i5d)
 <!-- BLOG-POST-LIST:END -->
 
