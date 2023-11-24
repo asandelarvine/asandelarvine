@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [What is Load Balancers? | What is DNS?](https://dev.to/mukeshkuiry/what-is-load-balancers-what-is-dns-fkh)
 - [Web Development fundamentals: A Comprehensive Guide for Beginners](https://dev.to/seunamos/web-development-fundamentals-a-comprehensive-guide-for-beginners-328b)
 - [Adding Dockerfiles to Open-Source Projects](https://dev.to/amnish04/adding-dockerfiles-to-open-source-projects-2cip)
-- [Which YouTube Channels Enhance Developer Skills?](https://dev.to/devteam/which-youtube-channels-enhance-developer-skills-441f)
+- [Stream Amazon Bedrock Response with AWS Lambda Response Streaming](https://dev.to/aws-builders/stream-amazon-bedrock-response-with-aws-lambda-response-streaming-59en)
 <!-- BLOG-POST-LIST:END -->
 
