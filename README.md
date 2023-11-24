@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobile Responsive Website With HTML CSS - How To Make Responsive Website](https://dev.to/codingcss/mobile-responsive-website-with-html-css-how-to-make-responsive-website-8i4)
+- [Does size matter in Pull Requests: Analysis on 30k Developers](https://dev.to/adadot/does-size-matter-in-pull-requests-analysis-on-30k-developers-1aef)
 - [🤩 20 Awesome Tools For Your Web Dev Toolkit 🛠️](https://dev.to/bigsondev/20-awesome-tools-for-your-web-dev-toolkit-3d8c)
 - [Vue Modal Router](https://dev.to/jenesius/vue-modal-router-mj8)
-- [12 Signs you might be burning out 🔥🚒](https://dev.to/samuelfaure/12-signs-you-might-be-burning-out-368d)
-- [Unlocking Success: The Benefits of Online Payment Gateways for Travel Businesses](https://dev.to/onix-systems/unlocking-success-the-benefits-of-online-payment-gateways-for-travel-businesses-349g)
 <!-- BLOG-POST-LIST:END -->
 
