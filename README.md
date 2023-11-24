@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS In-Memory Databases: Complete Guide to Accelerated Data Processing](https://dev.to/aws-builders/aws-in-memory-databases-complete-guide-to-accelerated-data-processing-38k5)
 - [Open Source is More Secure than Closed Source because Closed Source is More Secure than Open Source](https://dev.to/janderssonse/open-source-is-more-secure-than-closed-source-because-closed-source-is-more-secure-than-open-source-54fm)
 - [Colors in Between](https://dev.to/colortools/colors-in-between-3i73)
 - [Mastering WordPress CLI: A Comprehensive Guide to Boost Your Productivity](https://dev.to/robiulawal40/mastering-wordpress-cli-a-comprehensive-guide-to-boost-your-productivity-3j79)
-- [Episode 23/46: Implicit Imports &amp; Signal-based inputs, Becoming Angular Contributor, DI deep-dive](https://dev.to/this-is-angular/episode-2346-implicit-imports-signal-based-inputs-becoming-angular-contributor-di-deep-dive-2jl)
 <!-- BLOG-POST-LIST:END -->
 
