@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File-Based vs. Directory-Based Routing: Understanding the Difference](https://dev.to/psypher1/file-based-vs-directory-based-routing-understanding-the-difference-30mp)
-- [Structured Query Language &lpar;SQL&rpar; - Series](https://dev.to/kellyblaire/structured-query-language-sql-series-1p0k)
-- [WebGL texture slots allocation](https://dev.to/jacklehamster/webgl-texture-slots-allocation-4cg5)
-- [Mobile Responsive Website With HTML CSS - How To Make Responsive Website](https://dev.to/codingcss/mobile-responsive-website-with-html-css-how-to-make-responsive-website-8i4)
+- [Authentication and authorization with Spring-Boot](https://dev.to/m1guelsb/authentication-and-authorization-with-spring-boot-4m2n)
+- [Lean Startup y MVPs: Soluciones Ágiles para el Desarrollo de Software](https://dev.to/dennysjmarquez/lean-startup-y-mvps-soluciones-agiles-para-el-desarrollo-de-software-2gb2)
+- [O que é JSON? 🏒](https://dev.to/gustavoflor/o-que-e-json-3g2g)
+- [O que é REST? 😴](https://dev.to/gustavoflor/o-que-e-rest-1bb9)
 <!-- BLOG-POST-LIST:END -->
 
