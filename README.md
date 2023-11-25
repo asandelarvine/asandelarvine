@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create Responsive Website Using HTML CSS and Some jQuery](https://dev.to/codingcss/how-to-create-responsive-website-using-html-css-and-some-jquery-aa)
+- [Azure ChatGPT](https://dev.to/nashetking/azure-chatgpt-595f)
+- [New issues are coming in the next days](https://dev.to/opensourcee/new-issues-are-coming-in-the-few-days-293b)
 - [3 Best Code Quality Tools For Your Open Source Project](https://dev.to/flipt/3-best-code-quality-tools-for-your-open-source-project-57h5)
-- [🗺️ Crack the System Design Interview &lpar;Template&rpar;](https://dev.to/alexr/crack-the-system-design-interview-template-2h99)
-- [Difference between @Controller vs @RestController in Spring](https://dev.to/somadevtoo/difference-between-controller-vs-restcontroller-in-spring-4emk)
-- [You Should Have Your Own Pi Server](https://dev.to/syki/you-should-have-your-own-pi-server-1d1n)
 <!-- BLOG-POST-LIST:END -->
 
