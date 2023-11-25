@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Difference between @Controller vs @RestController in Spring](https://dev.to/somadevtoo/difference-between-controller-vs-restcontroller-in-spring-4emk)
+- [You Should Have Your Own Pi Server](https://dev.to/syki/you-should-have-your-own-pi-server-1d1n)
 - [🧙‍♂️ CSS trick: transition from height 0 to auto!](https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de)
-- [Crafting Custom flavored Markdown for Svelte with mdsvex](https://dev.to/siddhantkcode/crafting-custom-flavored-markdown-for-svelte-with-mdsvex-12fp)
-- [Responsive Product Card Landing Page HTML CSS JAVASCRIPT](https://dev.to/codingcss/responsive-product-card-landing-page-html-css-javascript-mmi)
+- [Exploring the Wonders of Svelte: A Personal Journey](https://dev.to/vanshajpoonia/exploring-the-wonders-of-svelte-a-personal-journey-2bpi)
 <!-- BLOG-POST-LIST:END -->
 
