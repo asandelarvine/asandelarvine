@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between @Controller vs @RestController in Spring](https://dev.to/somadevtoo/difference-between-controller-vs-restcontroller-in-spring-4emk)
 - [🧙‍♂️ CSS trick: transition from height 0 to auto!](https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de)
 - [Crafting Custom flavored Markdown for Svelte with mdsvex](https://dev.to/siddhantkcode/crafting-custom-flavored-markdown-for-svelte-with-mdsvex-12fp)
 - [Responsive Product Card Landing Page HTML CSS JAVASCRIPT](https://dev.to/codingcss/responsive-product-card-landing-page-html-css-javascript-mmi)
-- [Rebuild All currently doesn&#39;t work properly](https://dev.to/aptivi/rebuild-all-currently-doesnt-work-properly-52l6)
 <!-- BLOG-POST-LIST:END -->
 
