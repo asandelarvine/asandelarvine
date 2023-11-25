@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why lowercase letters save data](https://dev.to/shadowfaxrodeo/why-lowercase-letters-save-data-17p3)
 - [Contrasting UX Design Methods](https://dev.to/rverwey/contrasting-ux-design-methods-38b)
 - [Beginner&#39;s guide to Object Oriented Programming in python&lpar;OOP&rpar;](https://dev.to/doreen970/beginners-guide-to-object-oriented-programming-in-pythonoop-15j5)
 - [Code Smell 232 - Reusable Code](https://dev.to/mcsee/code-smell-232-reusable-code-44p5)
-- [Tenha controle sobre seu SQL com Golang e SQLC](https://dev.to/wiliamvj/tenha-controle-sobre-seu-sql-com-golang-e-sqlc-37k2)
 <!-- BLOG-POST-LIST:END -->
 
