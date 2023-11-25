@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a R&amp;R app with PartyRock and Bedrock!](https://dev.to/aws-builders/build-a-rr-app-with-partyrock-and-bedrock-3658)
+- [Error handling: Are You In Charge or In Chaos?](https://dev.to/niyiojeyinka/error-handling-are-you-in-charge-or-in-chaos-200g)
 - [Milvus Adventures Nov 24, 2023](https://dev.to/chrischurilo/milvus-adventures-nov-24-2023-53bf)
 - [How to get notified of newly connected devices on your OpenWRT router](https://dev.to/brandawg93/how-to-get-notified-of-newly-connected-devices-on-your-openwrt-router-3jjf)
-- [Swirl Security Overview](https://dev.to/swirl/swirl-security-overview-3iok)
-- [Speed Run de MicroFrontends com Single-SPA &lpar;any%&rpar;](https://dev.to/mbarbosasan/speed-run-de-microfrontends-com-single-spa-any-2dl4)
 <!-- BLOG-POST-LIST:END -->
 
