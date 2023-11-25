@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Best Code Quality Tools For Your Open Source Project](https://dev.to/flipt/3-best-code-quality-tools-for-your-open-source-project-57h5)
+- [🗺️ Crack the System Design Interview &lpar;Template&rpar;](https://dev.to/alexr/crack-the-system-design-interview-template-2h99)
 - [Difference between @Controller vs @RestController in Spring](https://dev.to/somadevtoo/difference-between-controller-vs-restcontroller-in-spring-4emk)
 - [You Should Have Your Own Pi Server](https://dev.to/syki/you-should-have-your-own-pi-server-1d1n)
-- [🧙‍♂️ CSS trick: transition from height 0 to auto!](https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de)
-- [Exploring the Wonders of Svelte: A Personal Journey](https://dev.to/vanshajpoonia/exploring-the-wonders-of-svelte-a-personal-journey-2bpi)
 <!-- BLOG-POST-LIST:END -->
 
