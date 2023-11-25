@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get un-stuck while coding?](https://dev.to/nandinishinduja/how-to-get-un-stuck-while-coding-fgc)
+- [17 JavaScript Array Methods Everyone Needs to Know](https://dev.to/opensourcee/17-javascript-array-methods-everyone-needs-to-know-1j35)
+- [How to Become a 10x Dev](https://dev.to/idboussadel/how-to-become-a-10x-dev-ake)
 - [How To Create Responsive Website Using HTML CSS and Some jQuery](https://dev.to/codingcss/how-to-create-responsive-website-using-html-css-and-some-jquery-aa)
-- [Azure ChatGPT](https://dev.to/nashetking/azure-chatgpt-595f)
-- [New issues are coming in the next days](https://dev.to/opensourcee/new-issues-are-coming-in-the-few-days-293b)
-- [3 Best Code Quality Tools For Your Open Source Project](https://dev.to/flipt/3-best-code-quality-tools-for-your-open-source-project-57h5)
 <!-- BLOG-POST-LIST:END -->
 
