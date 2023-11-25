@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack&#39;s remote functions on Cloudflare Workers](https://dev.to/seratch/slacks-remote-functions-on-cloudflare-workers-1dg0)
 - [PostgreSQL: Tipos de Dados](https://dev.to/nobrelucas/postgresql-tipos-de-dados-1la3)
 - [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-3ome)
 - [📜 RepoList - A tool to generate wordlists based on GitHub repositories](https://dev.to/ademking/repolist-a-tool-to-generate-wordlists-based-on-github-repositories-219)
-- [.NET 8, JIT e AOT](https://dev.to/angelobelchior/net-8-jit-e-aot-25lk)
 <!-- BLOG-POST-LIST:END -->
 
