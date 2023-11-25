@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tenha controle sobre seu SQL com Golang e SQLC](https://dev.to/wiliamvj/tenha-controle-sobre-seu-sql-com-golang-e-sqlc-37k2)
 - [How to get un-stuck while coding?](https://dev.to/nandinishinduja/how-to-get-un-stuck-while-coding-fgc)
 - [17 JavaScript Array Methods Everyone Needs to Know](https://dev.to/opensourcee/17-javascript-array-methods-everyone-needs-to-know-1j35)
 - [How to Become a 10x Dev](https://dev.to/idboussadel/how-to-become-a-10x-dev-ake)
-- [How To Create Responsive Website Using HTML CSS and Some jQuery](https://dev.to/codingcss/how-to-create-responsive-website-using-html-css-and-some-jquery-aa)
 <!-- BLOG-POST-LIST:END -->
 
