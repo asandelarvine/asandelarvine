@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Product Card Landing Page HTML CSS JAVASCRIPT](https://dev.to/codingcss/responsive-product-card-landing-page-html-css-javascript-mmi)
 - [Getting Kinetic With Amazon Kinesis: The Ultimate Guide](https://dev.to/kelvinskell/getting-kinetic-with-amazon-kinesis-the-ultimate-guide-41d8)
+- [6 TOP JAVASCRIPT TRICKS FOR CLEANER CODE](https://dev.to/big_smoke/6-top-javascript-tricks-for-cleaner-code-1mck)
 - [Slack&#39;s remote functions on Cloudflare Workers](https://dev.to/seratch/slacks-remote-functions-on-cloudflare-workers-1dg0)
-- [PostgreSQL: Tipos de Dados](https://dev.to/nobrelucas/postgresql-tipos-de-dados-1la3)
-- [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-3ome)
 <!-- BLOG-POST-LIST:END -->
 
