@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🤔Cloud Document AI Too Expensive? A Concise Review of State-Of-The-Art Alternatives 💸🚀](https://dev.to/lovestaco/cloud-document-ai-too-expensive-a-concise-review-of-state-of-the-art-alternatives-94o)
+- [Number Trivia App | JavaScript Project](https://dev.to/codingcss/number-trivia-app-javascript-project-23d)
+- [Yet Another Newsletter LOL: Getting Griddy](https://dev.to/nickytonline/yet-another-newsletter-lol-getting-griddy-5687)
 - [FCM notification with Laravel](https://dev.to/mazimez/fcm-notification-with-laravel-me1)
-- [Implement Fallback with API Gateway](https://dev.to/apisix/implement-fallback-with-api-gateway-14da)
-- [Just starting out](https://dev.to/nicole__/just-starting-out-4cf6)
-- [If I could, THIS is how I will learn Python again 🐍](https://dev.to/krishsharma0413/if-i-could-this-is-how-i-will-learn-python-again-1k67)
 <!-- BLOG-POST-LIST:END -->
 
