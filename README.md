@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why lowercase letters save data](https://dev.to/shadowfaxrodeo/why-lowercase-letters-save-data-17p3)
-- [Contrasting UX Design Methods](https://dev.to/rverwey/contrasting-ux-design-methods-38b)
-- [Beginner&#39;s guide to Object Oriented Programming in python&lpar;OOP&rpar;](https://dev.to/doreen970/beginners-guide-to-object-oriented-programming-in-pythonoop-15j5)
-- [Code Smell 232 - Reusable Code](https://dev.to/mcsee/code-smell-232-reusable-code-44p5)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
+- [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
+- [Which Soft Skills Should You Highlight in Interviews?](https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj)
+- [Building a PHP client for Faktory, Part 6: Higher-level usage](https://dev.to/shalvah/building-a-php-client-for-faktory-part-6-higher-level-usage-4g6h)
 <!-- BLOG-POST-LIST:END -->
 
