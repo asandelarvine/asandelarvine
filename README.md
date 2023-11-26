@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Ownership: 5 ways to Amplify Your Software Engineering Success](https://dev.to/vequan_clark/ownership-5-ways-to-amplify-your-software-engineering-success-4d18)
 - [Understanding React useContext](https://dev.to/ayako_yk/understanding-react-usecontext-2bch)
-- [Which Soft Skills Should You Highlight in Interviews?](https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj)
 - [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
 <!-- BLOG-POST-LIST:END -->
 
