@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Infinite Scroll](https://dev.to/moruno21/graphql-infinite-scroll-4oan)
-- [Soft introduction to Dapper and EF Core](https://dev.to/karenpayneoregon/soft-intoduction-to-dapper-and-ef-core-2m56)
-- [Hi, Im new here 🤗](https://dev.to/alaayt/hi-im-new-here-20mk)
-- [Using Blueprint to Organize Flask Apps](https://dev.to/sachingeek/using-blueprint-to-organize-flask-apps-51be)
+- [StackOverflow is dying &lpar;Believe me!&rpar;](https://dev.to/codewithshahan/stackoverflow-is-dying-believe-me-4g0e)
+- [How I teach Git](https://dev.to/tbroyer/how-i-teach-git-3nj3)
+- [Developers and Sherpas: A Mountainous Analogy](https://dev.to/this-is-learning/developers-and-sherpas-a-mountainous-analogy-362i)
+- [ASP.NET Core startup validation](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-20e7)
 <!-- BLOG-POST-LIST:END -->
 
