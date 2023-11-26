@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Begineer: TypeScript Utility Types](https://dev.to/maxwiggedal/begineer-typescript-utility-types-3l35)
-- [A Minimalist&#39;s Guide to Software Development: Less Code, More Elegance](https://dev.to/vedangit/a-minimalists-guide-to-software-development-less-code-more-elegance-37n1)
-- [Introduction to TypeScript with React](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p)
-- [🚀 Fastest way to build transparent login page HTML/CSS](https://dev.to/lakshmananarumugam/fastest-way-to-build-transparent-login-page-17m8)
+- [FCM notification with Laravel](https://dev.to/mazimez/fcm-notification-with-laravel-me1)
+- [Implement Fallback with API Gateway](https://dev.to/apisix/implement-fallback-with-api-gateway-14da)
+- [Just starting out](https://dev.to/nicole__/just-starting-out-4cf6)
+- [If I could, THIS is how I will learn Python again 🐍](https://dev.to/krishsharma0413/if-i-could-this-is-how-i-will-learn-python-again-1k67)
 <!-- BLOG-POST-LIST:END -->
 
