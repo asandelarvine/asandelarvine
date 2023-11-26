@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL Infinite Scroll](https://dev.to/moruno21/graphql-infinite-scroll-4oan)
+- [Soft introduction to Dapper and EF Core](https://dev.to/karenpayneoregon/soft-intoduction-to-dapper-and-ef-core-2m56)
 - [Hi, Im new here 🤗](https://dev.to/alaayt/hi-im-new-here-20mk)
 - [Using Blueprint to Organize Flask Apps](https://dev.to/sachingeek/using-blueprint-to-organize-flask-apps-51be)
-- [Securely deploying Swirl in Azure.](https://dev.to/swirl/securely-deploying-swirl-in-azure-48bn)
-- [TypeScript vs JavaScript - What&#39;s the difference?](https://dev.to/sreeju/typescript-vs-javascript-whats-the-difference-3jmb)
 <!-- BLOG-POST-LIST:END -->
 
