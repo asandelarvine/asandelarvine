@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Begineer: TypeScript Utility Types](https://dev.to/maxwiggedal/begineer-typescript-utility-types-3l35)
+- [A Minimalist&#39;s Guide to Software Development: Less Code, More Elegance](https://dev.to/vedangit/a-minimalists-guide-to-software-development-less-code-more-elegance-37n1)
 - [Introduction to TypeScript with React](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p)
 - [🚀 Fastest way to build transparent login page HTML/CSS](https://dev.to/lakshmananarumugam/fastest-way-to-build-transparent-login-page-17m8)
-- [Scalable web applications | HTTP | REST API | N-tier Applications | Beginner](https://dev.to/mukeshkuiry/scalable-web-applications-http-rest-api-n-tier-applications-beginner-515b)
 <!-- BLOG-POST-LIST:END -->
 
