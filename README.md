@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to TypeScript with React](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p)
+- [Scalable web applications | HTTP | REST API | N-tier Applications | Beginner](https://dev.to/mukeshkuiry/scalable-web-applications-http-rest-api-n-tier-applications-beginner-515b)
 - [Ownership: 5 ways to Amplify Your Software Engineering Success](https://dev.to/vequan_clark/ownership-5-ways-to-amplify-your-software-engineering-success-4d18)
 - [Understanding React useContext](https://dev.to/ayako_yk/understanding-react-usecontext-2bch)
-- [Which Soft Skills Should You Highlight in Interviews?](https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
 <!-- BLOG-POST-LIST:END -->
 
