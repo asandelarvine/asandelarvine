@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
-- [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
+- [Ownership: 5 ways to Amplify Your Software Engineering Success](https://dev.to/vequan_clark/ownership-5-ways-to-amplify-your-software-engineering-success-4d18)
+- [Understanding React useContext](https://dev.to/ayako_yk/understanding-react-usecontext-2bch)
 - [Which Soft Skills Should You Highlight in Interviews?](https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj)
-- [Building a PHP client for Faktory, Part 6: Higher-level usage](https://dev.to/shalvah/building-a-php-client-for-faktory-part-6-higher-level-usage-4g6h)
+- [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
 <!-- BLOG-POST-LIST:END -->
 
