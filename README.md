@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing 3Engine: The No-Code Web3 Game Engine](https://dev.to/3engine/introducing-3engine-the-no-code-web3-game-engine-42j1)
 - [🤔Cloud Document AI Too Expensive? A Concise Review of State-Of-The-Art Alternatives 💸🚀](https://dev.to/lovestaco/cloud-document-ai-too-expensive-a-concise-review-of-state-of-the-art-alternatives-94o)
+- [Lazy Loading vs Write-Through: A Guide to Performance Optimization](https://dev.to/aws-builders/lazy-loading-vs-write-through-a-guide-to-performance-optimization-28ka)
 - [Number Trivia App | JavaScript Project](https://dev.to/codingcss/number-trivia-app-javascript-project-23d)
-- [Yet Another Newsletter LOL: Getting Griddy](https://dev.to/nickytonline/yet-another-newsletter-lol-getting-griddy-5687)
-- [FCM notification with Laravel](https://dev.to/mazimez/fcm-notification-with-laravel-me1)
 <!-- BLOG-POST-LIST:END -->
 
