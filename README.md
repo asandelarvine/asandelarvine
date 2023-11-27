@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redirecting mobile users to App or Play Store in NextJS](https://dev.to/andreasbergstrom/redirecting-mobile-users-to-app-or-play-store-using-nextjs-3pp1)
+- [Raku Blog Posts 2023.47/48](https://dev.to/lizmat/raku-blog-posts-20234748-3042)
+- [Despliega un servidor Nginx en AWS con Terraform](https://dev.to/gareisdev/despliega-un-servidor-nginx-en-aws-con-terraform-3385)
 - [How To Make Responsive App Landing Page Website Design Using Pure HTML And CSS Only | Step By Step](https://dev.to/codingcss/how-to-make-responsive-app-landing-page-website-design-using-pure-html-and-css-only-step-by-step-269m)
-- [A counter that listen keyboard events 🕹️](https://dev.to/stacy-roll/a-counter-that-listen-keyboard-events-m6h)
-- [Understanding npm vs npx: A Developer&#39;s Guide 📦🚀](https://dev.to/saji37/understanding-npm-vs-npx-a-developers-guide-fkp)
-- [Can I create another WordPress that satisfies humanity?](https://dev.to/collections/can-i-create-another-wordpress-that-satisfies-humanity-35le)
 <!-- BLOG-POST-LIST:END -->
 
