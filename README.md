@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Low-Code Realm: Your PowerAutomate Adventure](https://dev.to/balagmadhu/exploring-the-low-code-realm-your-powerautomate-adventure-4np6)
 - [AWS open source newsletter, #181](https://dev.to/aws/aws-open-source-newsletter-181-31e)
 - [Weekly Roundup 028 &lpar;Nov 20&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-028-nov-20-hot-topics-in-workplace-sharepoint-and-powerplatform-2on1)
 - [Python One Liners](https://dev.to/tinegagideon/python-one-liners-1klg)
-- [IP Address](https://dev.to/mithunsreeram/ip-address-3cm)
 <!-- BLOG-POST-LIST:END -->
 
