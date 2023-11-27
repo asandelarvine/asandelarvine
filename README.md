@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly for 27 November 2023](https://dev.to/tspannhw/flank-stack-weekly-for-27-november-2023-3l75)
-- [📢SAVE Up To 💰500$. 4 Days Cyber Monday PROMO❗️](https://dev.to/mz2387/save-up-to-500-4-days-cyber-monday-promo-4k2j)
-- [🚀 Hey Dev.to Community!](https://dev.to/ibra_sha/hey-devto-community-59h2)
-- [Intro to Async / Await Syntax](https://dev.to/danielj/intro-to-async-await-syntax-2g1h)
+- [Git commands that every coder should know](https://dev.to/nandinishinduja/git-commands-that-every-coder-should-know-27bd)
+- [How to Make Money Online with Affiliate Marketing](https://dev.to/hhbvjch64y/how-to-make-money-online-with-affiliate-marketing-312m)
+- [🚀⚡New open-source⚡ VS. old open-source 🦖](https://dev.to/taipy/new-open-source-vs-old-open-source-33k7)
+- [Say Goodbye to Docker Volumes 👋](https://dev.to/code42cate/say-goodbye-to-docker-volumes-j9l)
 <!-- BLOG-POST-LIST:END -->
 
