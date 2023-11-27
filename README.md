@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter University: Best Flutter Handbook Out There](https://dev.to/yatendra2001/flutter-university-best-flutter-handbook-out-there-40bh)
+- [Regular Expressions in Python](https://dev.to/ghubrakesh/regular-expressions-in-python-593e)
+- [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
 - [🪄 CSS Animation: Card hover animation 💫](https://dev.to/lakshmananarumugam/css-animation-card-hover-animation-1f7a)
-- [Releasing my Python Project](https://dev.to/amnish04/releasing-my-python-project-2569)
-- [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
-- [Replace Your Authentication System with Face Recognition using FACEIO&#39;s fio.js, &amp; Tailwind.css](https://dev.to/pixlab/replace-your-authentication-system-with-face-recognition-using-faceios-fiojs-tailwindcss-4985)
 <!-- BLOG-POST-LIST:END -->
 
