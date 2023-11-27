@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git commands that every coder should know](https://dev.to/nandinishinduja/git-commands-that-every-coder-should-know-27bd)
-- [How to Make Money Online with Affiliate Marketing](https://dev.to/hhbvjch64y/how-to-make-money-online-with-affiliate-marketing-312m)
-- [🚀⚡New open-source⚡ VS. old open-source 🦖](https://dev.to/taipy/new-open-source-vs-old-open-source-33k7)
-- [Say Goodbye to Docker Volumes 👋](https://dev.to/code42cate/say-goodbye-to-docker-volumes-j9l)
+- [Building a backend in Go using REST and PostgreSQL](https://dev.to/encore/build-a-backend-in-go-using-rest-and-postgresql-307b)
+- [Containerizing AOM AV1 and encoding videos with FFmpeg in an Node.js app](https://dev.to/sw360cab/containerizing-aom-av1-and-encoding-videos-with-ffmpeg-in-an-nodejs-app-1lh2)
+- [How To Build A CRUD App With NextJS And Prisma + PostgreSQL](https://dev.to/skipperhoa/how-to-build-a-crud-app-with-nextjs-and-prisma-postgresql-4l79)
+- [How to quickly generate dynamic images with Node.js and Puppeteer.](https://dev.to/vexell/how-to-quickly-generate-dynamic-images-with-nodejs-and-puppeteer-4o4n)
 <!-- BLOG-POST-LIST:END -->
 
