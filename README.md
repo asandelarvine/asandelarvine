@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #181](https://dev.to/aws/aws-open-source-newsletter-181-31e)
+- [Weekly Roundup 028 &lpar;Nov 20&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-028-nov-20-hot-topics-in-workplace-sharepoint-and-powerplatform-2on1)
+- [Python One Liners](https://dev.to/tinegagideon/python-one-liners-1klg)
 - [IP Address](https://dev.to/mithunsreeram/ip-address-3cm)
-- [Terraform Expertise: Valuable Takeaways from Years in Production](https://dev.to/tutunak/terraform-expertise-valuable-takeaways-from-years-in-production-2pb1)
-- [Client Side Caching With Interceptors](https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii)
-- [Flutter University: Best Flutter Handbook Out There](https://dev.to/yatendra2001/flutter-university-best-flutter-handbook-out-there-40bh)
 <!-- BLOG-POST-LIST:END -->
 
