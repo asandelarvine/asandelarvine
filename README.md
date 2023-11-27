@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Redirecting mobile users to App or Play Store in NextJS](https://dev.to/andreasbergstrom/redirecting-mobile-users-to-app-or-play-store-using-nextjs-3pp1)
+- [Introduction to Lambda Function URLs](https://dev.to/aws-builders/introduction-to-lambda-function-urls-253b)
 - [Raku Blog Posts 2023.47/48](https://dev.to/lizmat/raku-blog-posts-20234748-3042)
-- [Despliega un servidor Nginx en AWS con Terraform](https://dev.to/gareisdev/despliega-un-servidor-nginx-en-aws-con-terraform-3385)
-- [How To Make Responsive App Landing Page Website Design Using Pure HTML And CSS Only | Step By Step](https://dev.to/codingcss/how-to-make-responsive-app-landing-page-website-design-using-pure-html-and-css-only-step-by-step-269m)
+- [Use VSCode to write Terraform? AWS AI can now help you write your code!](https://dev.to/aws-builders/use-vscode-to-write-terraform-aws-ai-can-now-help-you-write-your-code-59nn)
 <!-- BLOG-POST-LIST:END -->
 
