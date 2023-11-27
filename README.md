@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LiveCodes for Education 🎓](https://dev.to/livecodes_io/livecodes-for-education-57ip)
+- [Cute Koala Illustration | CSS Art | CSS Project](https://dev.to/codingcss/cute-koala-illustration-css-art-css-project-3jb2)
 - [How to Deploy React App on gh-pages: Beginner&#39;s Guide](https://dev.to/dev_kiran/how-to-deploy-react-app-on-gh-pages-beginners-guide-1g50)
-- [5 Docker Extensions to make your development life easier](https://dev.to/pradumnasaraf/5-docker-extensions-to-make-your-development-life-easier-102l)
-- [TeaTable: Create Dynamic Crud Table Paginated Sorted](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-4bcg)
-- [☸️ Web Application on Kubernetes: A Tutorial to Observability with the Elastic Stack](https://dev.to/zenika/web-application-on-kubernetes-a-tutorial-to-observability-with-the-elastic-stack-2p8a)
+- [We Shall Improve Hiring Somewhat](https://dev.to/jmfayard/we-shall-improve-hiring-somewhat-1ip2)
 <!-- BLOG-POST-LIST:END -->
 
