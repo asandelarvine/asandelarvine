@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a backend in Go using REST and PostgreSQL](https://dev.to/encore/build-a-backend-in-go-using-rest-and-postgresql-307b)
-- [Containerizing AOM AV1 and encoding videos with FFmpeg in an Node.js app](https://dev.to/sw360cab/containerizing-aom-av1-and-encoding-videos-with-ffmpeg-in-an-nodejs-app-1lh2)
-- [How To Build A CRUD App With NextJS And Prisma + PostgreSQL](https://dev.to/skipperhoa/how-to-build-a-crud-app-with-nextjs-and-prisma-postgresql-4l79)
-- [How to quickly generate dynamic images with Node.js and Puppeteer.](https://dev.to/vexell/how-to-quickly-generate-dynamic-images-with-nodejs-and-puppeteer-4o4n)
+- [Uncovering thousands of unique secrets in PyPI packages](https://dev.to/gitguardian/uncovering-thousands-of-unique-secrets-in-pypi-packages-3bh5)
+- [1 Month Anniversary on DEV! 🎉](https://dev.to/anitaolsen/1-month-anniversary-on-dev-4gk1)
+- [Music Monday — What are you listening to? &lpar;Sunset Edition 🌆&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunset-edition--54lj)
+- [🔥5 Must have tools to install on your Kubernetes cluster ✨️🚀](https://dev.to/odigos/5-must-have-tools-to-install-on-your-kubernetes-cluster-489k)
 <!-- BLOG-POST-LIST:END -->
 
