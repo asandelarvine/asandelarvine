@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Make Responsive App Landing Page Website Design Using Pure HTML And CSS Only | Step By Step](https://dev.to/codingcss/how-to-make-responsive-app-landing-page-website-design-using-pure-html-and-css-only-step-by-step-269m)
 - [A counter that listen keyboard events 🕹️](https://dev.to/stacy-roll/a-counter-that-listen-keyboard-events-m6h)
-- [Deploy your React App using Docker and Nginx](https://dev.to/sourabpramanik/deploy-your-react-app-using-docker-and-nginx-14lk)
-- [Creating a movie finder app with Streamlit and OMDb API](https://dev.to/david001/creating-a-movie-finder-app-with-streamlit-and-omdb-api-2fak)
-- [Meme Monday](https://dev.to/ben/meme-monday-106)
+- [Understanding npm vs npx: A Developer&#39;s Guide 📦🚀](https://dev.to/saji37/understanding-npm-vs-npx-a-developers-guide-fkp)
+- [Can I create another WordPress that satisfies humanity?](https://dev.to/collections/can-i-create-another-wordpress-that-satisfies-humanity-35le)
 <!-- BLOG-POST-LIST:END -->
 
