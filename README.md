@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LiveCodes for Education 🎓](https://dev.to/livecodes_io/livecodes-for-education-57ip)
-- [Cute Koala Illustration | CSS Art | CSS Project](https://dev.to/codingcss/cute-koala-illustration-css-art-css-project-3jb2)
-- [How to Deploy React App on gh-pages: Beginner&#39;s Guide](https://dev.to/dev_kiran/how-to-deploy-react-app-on-gh-pages-beginners-guide-1g50)
-- [We Shall Improve Hiring Somewhat](https://dev.to/jmfayard/we-shall-improve-hiring-somewhat-1ip2)
+- [FLaNK Stack Weekly for 27 November 2023](https://dev.to/tspannhw/flank-stack-weekly-for-27-november-2023-3l75)
+- [📢SAVE Up To 💰500$. 4 Days Cyber Monday PROMO❗️](https://dev.to/mz2387/save-up-to-500-4-days-cyber-monday-promo-4k2j)
+- [🚀 Hey Dev.to Community!](https://dev.to/ibra_sha/hey-devto-community-59h2)
+- [Intro to Async / Await Syntax](https://dev.to/danielj/intro-to-async-await-syntax-2g1h)
 <!-- BLOG-POST-LIST:END -->
 
