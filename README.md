@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Client Side Caching With Interceptors](https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii)
 - [Flutter University: Best Flutter Handbook Out There](https://dev.to/yatendra2001/flutter-university-best-flutter-handbook-out-there-40bh)
 - [Regular Expressions in Python](https://dev.to/ghubrakesh/regular-expressions-in-python-593e)
 - [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
-- [🪄 CSS Animation: Card hover animation 💫](https://dev.to/lakshmananarumugam/css-animation-card-hover-animation-1f7a)
 <!-- BLOG-POST-LIST:END -->
 
