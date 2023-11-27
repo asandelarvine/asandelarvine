@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [IP Address](https://dev.to/mithunsreeram/ip-address-3cm)
+- [Terraform Expertise: Valuable Takeaways from Years in Production](https://dev.to/tutunak/terraform-expertise-valuable-takeaways-from-years-in-production-2pb1)
 - [Client Side Caching With Interceptors](https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii)
 - [Flutter University: Best Flutter Handbook Out There](https://dev.to/yatendra2001/flutter-university-best-flutter-handbook-out-there-40bh)
-- [Regular Expressions in Python](https://dev.to/ghubrakesh/regular-expressions-in-python-593e)
-- [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
 <!-- BLOG-POST-LIST:END -->
 
