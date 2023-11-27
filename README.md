@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy React App on gh-pages: Beginner&#39;s Guide](https://dev.to/dev_kiran/how-to-deploy-react-app-on-gh-pages-beginners-guide-1g50)
 - [5 Docker Extensions to make your development life easier](https://dev.to/pradumnasaraf/5-docker-extensions-to-make-your-development-life-easier-102l)
 - [TeaTable: Create Dynamic Crud Table Paginated Sorted](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-4bcg)
 - [☸️ Web Application on Kubernetes: A Tutorial to Observability with the Elastic Stack](https://dev.to/zenika/web-application-on-kubernetes-a-tutorial-to-observability-with-the-elastic-stack-2p8a)
-- [Exploring the Low-Code Realm: Your PowerAutomate Adventure](https://dev.to/balagmadhu/exploring-the-low-code-realm-your-powerautomate-adventure-4np6)
 <!-- BLOG-POST-LIST:END -->
 
