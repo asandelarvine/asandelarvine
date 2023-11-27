@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Releasing my Python Project](https://dev.to/amnish04/releasing-my-python-project-2569)
+- [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
 - [Replace Your Authentication System with Face Recognition using FACEIO&#39;s fio.js, &amp; Tailwind.css](https://dev.to/pixlab/replace-your-authentication-system-with-face-recognition-using-faceios-fiojs-tailwindcss-4985)
 - [Typescript: Discriminated Type Union Pattern](https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi)
-- [Introducing the Moderation Tools Plugin for Robo.js](https://dev.to/waveplay/introducing-the-moderation-tools-plugin-for-robojs-59mn)
-- [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
 <!-- BLOG-POST-LIST:END -->
 
