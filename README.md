@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncovering thousands of unique secrets in PyPI packages](https://dev.to/gitguardian/uncovering-thousands-of-unique-secrets-in-pypi-packages-3bh5)
-- [1 Month Anniversary on DEV! 🎉](https://dev.to/anitaolsen/1-month-anniversary-on-dev-4gk1)
-- [Music Monday — What are you listening to? &lpar;Sunset Edition 🌆&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunset-edition--54lj)
-- [🔥5 Must have tools to install on your Kubernetes cluster ✨️🚀](https://dev.to/odigos/5-must-have-tools-to-install-on-your-kubernetes-cluster-489k)
+- [A counter that listen keyboard events 🕹️](https://dev.to/stacy-roll/a-counter-that-listen-keyboard-events-m6h)
+- [Deploy your React App using Docker and Nginx](https://dev.to/sourabpramanik/deploy-your-react-app-using-docker-and-nginx-14lk)
+- [Creating a movie finder app with Streamlit and OMDb API](https://dev.to/david001/creating-a-movie-finder-app-with-streamlit-and-omdb-api-2fak)
+- [Meme Monday](https://dev.to/ben/meme-monday-106)
 <!-- BLOG-POST-LIST:END -->
 
