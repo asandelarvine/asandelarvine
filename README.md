@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace Your Authentication System with Face Recognition using FACEIO&#39;s fio.js, &amp; Tailwind.css](https://dev.to/pixlab/replace-your-authentication-system-with-face-recognition-using-faceios-fiojs-tailwindcss-4985)
+- [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
+- [VueJS part 13: Introduction to slots](https://dev.to/hi_iam_chris/vuejs-part-13-introduction-to-slots-52o0)
 - [Disrupting the Status Quo: PR-Agents Reimagined](https://dev.to/devrx/disrupting-the-status-quo-pr-agents-reimagined-1ila)
-- [How to become a better web developer in 2024](https://dev.to/codewithshahan/how-to-become-a-better-web-developer-in-2024-lo6)
-- [How I teach Git](https://dev.to/tbroyer/how-i-teach-git-3nj3)
-- [Developers and Sherpas: A Mountainous Analogy](https://dev.to/this-is-learning/developers-and-sherpas-a-mountainous-analogy-362i)
 <!-- BLOG-POST-LIST:END -->
 
