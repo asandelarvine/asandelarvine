@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Launch - AWS Free Tier API](https://dev.to/virajnadkarni/new-launch-aws-free-tier-api-4di4)
-- [7 JavaScript Quick Coding Tips ✨](https://dev.to/random_ti/7-javascript-quick-coding-tips-55kl)
-- [What exactly is Kafka? Not the novelist.](https://dev.to/gsbc/what-exactly-is-kafka-not-the-novelist-58f1)
-- [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
+- [🚀PHP - Essential Framework](https://dev.to/fadymr/php-essential-framework-995)
+- [Strategies for Successful Contributor Onboarding](https://dev.to/opensauced/strategies-for-successful-contributor-onboarding-3066)
+- [JavaScript Substring Method](https://dev.to/refine/javascript-substring-method-4boh)
+- [Next js Routing](https://dev.to/ewenikeemmanue4/next-js-routing-1f7a)
 <!-- BLOG-POST-LIST:END -->
 
