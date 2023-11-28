@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
 - [Story Of Kubernetes](https://dev.to/yogini16/story-of-kubernetes-1h12)
 - [Can You Begin a Coding Career at 50?](https://dev.to/codenewbieteam/can-you-begin-a-coding-career-at-50-3gie)
 - [Introdução ao Clojure Component](https://dev.to/renatoalencar/introducao-ao-clojure-component-1375)
-- [Understanding Semantics html](https://dev.to/hariet/understanding-semantics-html-2b3l)
 <!-- BLOG-POST-LIST:END -->
 
