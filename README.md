@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to do if you are not assigned any good projects at work?](https://dev.to/nandinishinduja/what-to-do-if-you-are-not-assigned-any-good-projects-at-work-3d4o)
-- [Navigating the Web Future: A Fun Guide to What&#39;s Next in Development! 🚀](https://dev.to/mitchiemt11/navigating-the-web-future-a-fun-guide-to-whats-next-in-development-cop)
-- [🚀PHP - Essential Framework](https://dev.to/fadymr/php-essential-framework-995)
-- [Strategies for Successful Contributor Onboarding](https://dev.to/opensauced/strategies-for-successful-contributor-onboarding-3066)
+- [How we misuse naming boolean and how they should be named](https://dev.to/shameel/how-we-misuse-naming-boolean-and-how-they-should-be-named-22g6)
+- [20+ Best Free Grocery Store HTML CSS Website Templates](https://dev.to/templatesjungle/20-best-free-grocery-store-html-css-website-templates-4gbd)
+- [Making a Text Scramble Animation with JavaScript](https://dev.to/cruip_com/making-a-text-scramble-animation-with-javascript-2nb3)
+- [Open-source phone input components coded with Tailwind CSS](https://dev.to/themesberg/open-source-phone-input-components-coded-with-tailwind-css-26d2)
 <!-- BLOG-POST-LIST:END -->
 
