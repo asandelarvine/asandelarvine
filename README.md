@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Math Functions with Use Cases](https://dev.to/ashsajal/sql-math-functions-with-use-cases-3j84)
-- [Explore web applications through their content security policy &lpar;CSP&rpar;](https://dev.to/azasypkin/explore-web-applications-through-their-content-security-policy-csp-401d)
-- [MacOS Virtualization using VMware](https://dev.to/ken_mwaura1/macos-virtualization-using-vmware-2001)
-- [Are you really an innovator? Here&#39;s how to find out](https://dev.to/opensourcee/are-you-really-an-innovator-275f)
+- [Custom Scrollbar With CSS | Supported By All Major Browsers | CSS Project](https://dev.to/codingcss/custom-scrollbar-with-css-supported-by-all-major-browsers-css-project-3c40)
+- [Clean authorization control in serverless functions](https://dev.to/slsbytheodo/clean-authorization-control-in-serverless-functions-hm9)
+- [The Latest .NET 8 Features Will Change the Way You Code](https://dev.to/bytehide/the-latest-net-8features-will-change-the-way-you-code-12dg)
+- [CZ Leaving Binance CEO Seat: Visionary Game or Setback?](https://dev.to/endeo/cz-leaving-binance-ceo-seat-visionary-game-or-setback-p0n)
 <!-- BLOG-POST-LIST:END -->
 
