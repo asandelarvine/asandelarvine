@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building interactive tutorials with WebContainers](https://dev.to/jxd-dev/building-interactive-tutorials-with-webcontainers-372i)
-- [Introducing a Unified Development Platform](https://dev.to/codesandboxio/introducing-a-unified-development-platform-4e6p)
-- [Jumblie Build Log](https://dev.to/cassidoo/jumblie-build-log-2m0l)
-- [Embracing Coachability: A Deeper Dive into Personal Disruption and Growth](https://dev.to/nikitakoselev/embracing-coachability-a-deeper-dive-into-personal-disruption-and-growth-3kik)
+- [Hashes](https://dev.to/ahuynh3a/hashes-5clo)
+- [The Inner Workings of Web Browsers!](https://dev.to/arindam_1729/the-inner-workings-of-web-browsers-4ghh)
+- [Create your own Schema Type in mongoose](https://dev.to/4bhis1/create-your-own-schema-type-in-mongoose-71k)
+- [Coding in the Shadows: Hidden Gems of Lisp, Clojure, and friends](https://dev.to/offcode/coding-in-the-shadows-hidden-gems-of-lisp-clojure-and-friends-1bj3)
 <!-- BLOG-POST-LIST:END -->
 
