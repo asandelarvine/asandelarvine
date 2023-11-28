@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡️Speeding up debugging with local tracing](https://dev.to/encore/speeding-up-debugging-with-local-tracing-4199)
+- [Paradigmas de programação](https://dev.to/loremimpsu/paradigmas-de-programacao-3aba)
 - [Custom Scrollbar With CSS | Supported By All Major Browsers | CSS Project](https://dev.to/codingcss/custom-scrollbar-with-css-supported-by-all-major-browsers-css-project-3c40)
 - [Clean authorization control in serverless functions](https://dev.to/slsbytheodo/clean-authorization-control-in-serverless-functions-hm9)
-- [The Latest .NET 8 Features Will Change the Way You Code](https://dev.to/bytehide/the-latest-net-8features-will-change-the-way-you-code-12dg)
-- [CZ Leaving Binance CEO Seat: Visionary Game or Setback?](https://dev.to/endeo/cz-leaving-binance-ceo-seat-visionary-game-or-setback-p0n)
 <!-- BLOG-POST-LIST:END -->
 
