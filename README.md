@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New Launch - AWS Free Tier API](https://dev.to/virajnadkarni/new-launch-aws-free-tier-api-4di4)
 - [7 JavaScript Quick Coding Tips ✨](https://dev.to/random_ti/7-javascript-quick-coding-tips-55kl)
 - [What exactly is Kafka? Not the novelist.](https://dev.to/gsbc/what-exactly-is-kafka-not-the-novelist-58f1)
 - [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
-- [A Beginner&#39;s Journey: Serving a Simple Static Web Page with Docker and Nginx](https://dev.to/alok38/a-beginners-journey-serving-a-simple-static-web-page-with-docker-and-nginx-5ca5)
 <!-- BLOG-POST-LIST:END -->
 
