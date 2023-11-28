@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does Semantic Search Work in Databases?](https://dev.to/pavanbelagatti/how-does-semantic-search-work-in-databases-222l)
-- [Comprehensive Guide to E-commerce Integration Platforms](https://dev.to/agarralexx/comprehensive-guide-to-e-commerce-integration-platforms-40go)
-- [How we misuse naming boolean and how they should be named](https://dev.to/shameel/how-we-misuse-naming-boolean-and-how-they-should-be-named-22g6)
-- [20+ Best Free Grocery Store HTML CSS Website Templates](https://dev.to/templatesjungle/20-best-free-grocery-store-html-css-website-templates-4gbd)
+- [SQL Math Functions with Use Cases](https://dev.to/ashsajal/sql-math-functions-with-use-cases-3j84)
+- [Explore web applications through their content security policy &lpar;CSP&rpar;](https://dev.to/azasypkin/explore-web-applications-through-their-content-security-policy-csp-401d)
+- [MacOS Virtualization using VMware](https://dev.to/ken_mwaura1/macos-virtualization-using-vmware-2001)
+- [Are you really an innovator? Here&#39;s how to find out](https://dev.to/opensourcee/are-you-really-an-innovator-275f)
 <!-- BLOG-POST-LIST:END -->
 
