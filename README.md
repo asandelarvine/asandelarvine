@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Random Fact Generator App | JavaScript Project With Source Code](https://dev.to/codingcss/random-fact-generator-app-javascript-project-with-source-code-1mal)
 - [Streamline your Workflow with VSCode Dev Containers &amp; Red Hat Images](https://dev.to/chrisschneider/streamline-your-workflow-with-vscode-dev-containers-red-hat-images-48mo)
+- [Serverless Computing 101: AWS Lambda and the Rise of Function-as-a-Service](https://dev.to/aws-builders/serverless-computing-101-aws-lambda-and-the-rise-of-function-as-a-service-98e)
 - [Como Foi O Front In Floripa? 🤔](https://dev.to/analaura/como-foi-o-front-in-floripa-4240)
-- [Adding Dependencies on Clojure Projects the Node Way: A Small Intro to neil CLI](https://dev.to/bop/adding-dependencies-on-clojure-project-the-node-way-a-small-intro-to-neil-55n)
-- [✨ Train ChatGPT on your Documentation 🪄 ✨](https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g)
 <!-- BLOG-POST-LIST:END -->
 
