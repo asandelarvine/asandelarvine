@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Story Of Kubernetes](https://dev.to/yogini16/story-of-kubernetes-1h12)
+- [Can You Begin a Coding Career at 50?](https://dev.to/codenewbieteam/can-you-begin-a-coding-career-at-50-3gie)
 - [Introdução ao Clojure Component](https://dev.to/renatoalencar/introducao-ao-clojure-component-1375)
 - [Understanding Semantics html](https://dev.to/hariet/understanding-semantics-html-2b3l)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2i23)
-- [Explaining SSH to my Uber Driver](https://dev.to/therubberduckiee/explaining-ssh-to-my-uber-driver-38a)
 <!-- BLOG-POST-LIST:END -->
 
