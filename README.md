@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Does Semantic Search Work in Databases?](https://dev.to/pavanbelagatti/how-does-semantic-search-work-in-databases-222l)
+- [Comprehensive Guide to E-commerce Integration Platforms](https://dev.to/agarralexx/comprehensive-guide-to-e-commerce-integration-platforms-40go)
 - [How we misuse naming boolean and how they should be named](https://dev.to/shameel/how-we-misuse-naming-boolean-and-how-they-should-be-named-22g6)
 - [20+ Best Free Grocery Store HTML CSS Website Templates](https://dev.to/templatesjungle/20-best-free-grocery-store-html-css-website-templates-4gbd)
-- [Making a Text Scramble Animation with JavaScript](https://dev.to/cruip_com/making-a-text-scramble-animation-with-javascript-2nb3)
-- [Open-source phone input components coded with Tailwind CSS](https://dev.to/themesberg/open-source-phone-input-components-coded-with-tailwind-css-26d2)
 <!-- BLOG-POST-LIST:END -->
 
