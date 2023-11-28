@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master schema validation in TypeScript with Zod](https://dev.to/_domenicocolandrea/master-schema-validation-in-typescript-with-zod-28dc)
 - [Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫](https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc)
 - [YAML developer is a profession](https://dev.to/inv2004/yaml-developer-is-a-profession-3ofa)
 - [Getting Started With AWS Cloudformation](https://dev.to/aybims/getting-started-with-aws-cloudformation-1h90)
-- [Hashes](https://dev.to/ahuynh3a/hashes-5clo)
 <!-- BLOG-POST-LIST:END -->
 
