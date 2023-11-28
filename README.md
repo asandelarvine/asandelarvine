@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building interactive tutorials with WebContainers](https://dev.to/jxd-dev/building-interactive-tutorials-with-webcontainers-372i)
+- [Introducing a Unified Development Platform](https://dev.to/codesandboxio/introducing-a-unified-development-platform-4e6p)
+- [Jumblie Build Log](https://dev.to/cassidoo/jumblie-build-log-2m0l)
 - [Embracing Coachability: A Deeper Dive into Personal Disruption and Growth](https://dev.to/nikitakoselev/embracing-coachability-a-deeper-dive-into-personal-disruption-and-growth-3kik)
-- [Diciotech: o dicionário tech colaborativo que você pode ajudar a construir](https://dev.to/feministech/diciotech-o-dicionario-tech-colaborativo-que-voce-pode-ajudar-a-construir-14c4)
-- [SQL Server Procedures Cheat Sheet](https://dev.to/jgsneves/sql-server-procedures-cheat-sheet-217o)
-- [From Prisma to TanStack Query: Fast Lane to Full-Stack Type Safety](https://dev.to/zenstack/from-prisma-to-tanstack-query-fast-lane-to-full-stack-type-safety-346m)
 <!-- BLOG-POST-LIST:END -->
 
