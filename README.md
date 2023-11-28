@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamline your Workflow with VSCode Dev Containers &amp; Red Hat Images](https://dev.to/chrisschneider/streamline-your-workflow-with-vscode-dev-containers-red-hat-images-48mo)
+- [Como Foi O Front In Floripa? 🤔](https://dev.to/analaura/como-foi-o-front-in-floripa-4240)
+- [Adding Dependencies on Clojure Projects the Node Way: A Small Intro to neil CLI](https://dev.to/bop/adding-dependencies-on-clojure-project-the-node-way-a-small-intro-to-neil-55n)
 - [✨ Train ChatGPT on your Documentation 🪄 ✨](https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g)
-- [🛠️6 tools to kickstart your full-stack app with AI 🤖](https://dev.to/matijasos/6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3)
-- [How to use Strings in C Programming](https://dev.to/koderkareem/how-to-use-strings-in-c-programming-24mc)
-- [⚡️Speeding up debugging with local tracing](https://dev.to/encore/speeding-up-debugging-with-local-tracing-4199)
 <!-- BLOG-POST-LIST:END -->
 
