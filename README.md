@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
+- [A Beginner&#39;s Journey: Serving a Simple Static Web Page with Docker and Nginx](https://dev.to/alok38/a-beginners-journey-serving-a-simple-static-web-page-with-docker-and-nginx-5ca5)
+- [How I Use Terraform in My Work and What I Learned from It](https://dev.to/gpt-prompt-coder/how-i-use-terraform-in-my-work-and-what-i-learned-from-it-4pn4)
 - [Story Of Kubernetes](https://dev.to/yogini16/story-of-kubernetes-1h12)
-- [Can You Begin a Coding Career at 50?](https://dev.to/codenewbieteam/can-you-begin-a-coding-career-at-50-3gie)
-- [Introdução ao Clojure Component](https://dev.to/renatoalencar/introducao-ao-clojure-component-1375)
 <!-- BLOG-POST-LIST:END -->
 
