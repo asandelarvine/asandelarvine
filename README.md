@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Semantics html](https://dev.to/hariet/understanding-semantics-html-2b3l)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2i23)
+- [Explaining SSH to my Uber Driver](https://dev.to/therubberduckiee/explaining-ssh-to-my-uber-driver-38a)
 - [Introducing Croct, a personalization infrastructure for the web ✨](https://dev.to/amorimjuliana/introducing-croct-a-personalization-infrastructure-for-the-web-4pj)
-- [Top 10 Kubernetes Commands](https://dev.to/hasanelsherbiny/top-10-kubernetes-commands-466j)
-- [Exploring Angular’s evolution: Why it’s worth another look](https://dev.to/logrocket/exploring-angulars-evolution-why-its-worth-another-look-20g1)
 <!-- BLOG-POST-LIST:END -->
 
