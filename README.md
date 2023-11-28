@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ Train ChatGPT on your Documentation 🪄 ✨](https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g)
+- [🛠️6 tools to kickstart your full-stack app with AI 🤖](https://dev.to/matijasos/6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3)
+- [How to use Strings in C Programming](https://dev.to/koderkareem/how-to-use-strings-in-c-programming-24mc)
 - [⚡️Speeding up debugging with local tracing](https://dev.to/encore/speeding-up-debugging-with-local-tracing-4199)
-- [Paradigmas de programação](https://dev.to/loremimpsu/paradigmas-de-programacao-3aba)
-- [Custom Scrollbar With CSS | Supported By All Major Browsers | CSS Project](https://dev.to/codingcss/custom-scrollbar-with-css-supported-by-all-major-browsers-css-project-3c40)
-- [Clean authorization control in serverless functions](https://dev.to/slsbytheodo/clean-authorization-control-in-serverless-functions-hm9)
 <!-- BLOG-POST-LIST:END -->
 
