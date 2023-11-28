@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What to do if you are not assigned any good projects at work?](https://dev.to/nandinishinduja/what-to-do-if-you-are-not-assigned-any-good-projects-at-work-3d4o)
+- [Navigating the Web Future: A Fun Guide to What&#39;s Next in Development! 🚀](https://dev.to/mitchiemt11/navigating-the-web-future-a-fun-guide-to-whats-next-in-development-cop)
 - [🚀PHP - Essential Framework](https://dev.to/fadymr/php-essential-framework-995)
 - [Strategies for Successful Contributor Onboarding](https://dev.to/opensauced/strategies-for-successful-contributor-onboarding-3066)
-- [JavaScript Substring Method](https://dev.to/refine/javascript-substring-method-4boh)
-- [Next js Routing](https://dev.to/ewenikeemmanue4/next-js-routing-1f7a)
 <!-- BLOG-POST-LIST:END -->
 
