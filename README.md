@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [⤴️How to build a Midjourney API with Nest.js 🚀](https://dev.to/confidentai/how-to-build-unofficial-midjourney-api-with-nestjs-1lnd)
+- [💡 Understanding SEO for Web Developers](https://dev.to/margishpatel/understanding-seo-for-web-developers-2efm)
+- [Oracle Apex Forum](https://dev.to/foxinfotech/oracle-apex-forum-3d2b)
 - [Building Intelligent Applications with Machine Learning APIs](https://dev.to/onix-systems/building-intelligent-applications-with-machine-learning-apis-5471)
-- [Welcome Thread - v253](https://dev.to/devteam/welcome-thread-v253-1p3b)
-- [Testing an OpenAPI specification in PHP](https://dev.to/rubenrubiob/testing-the-openapi-specification-in-php-5hle)
-- [Enhancing Web App Performance](https://dev.to/iamspathan/enhancing-web-app-performance-1gj)
 <!-- BLOG-POST-LIST:END -->
 
