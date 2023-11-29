@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Coffee to Code: a year in life of a junior software engineer at Inato](https://dev.to/42f/from-coffee-to-code-a-year-in-life-of-a-junior-software-engineer-at-inato-369n)
-- [Domain Services and Factories in Domain-Driven Design](https://dev.to/ruben_alapont/domain-services-and-factories-in-domain-driven-design-55lo)
-- [Semantic Elements in HTML](https://dev.to/amarachi_kanu_20/semantic-elements-in-html-2a7k)
-- [Migration from Classic Hosting to Serverless](https://dev.to/florianrappl/migration-from-classic-hosting-to-serverless-3pkh)
+- [🏆How to master 📊 Big Data pipelines with Taipy and PySpark 🐍](https://dev.to/taipy/how-to-master-big-data-pipelines-with-taipy-and-pyspark-14oe)
+- [🚀 GITLAB ON KUBERNETES: The Ultimate Deployment Guide! 🌟](https://dev.to/glasskube/gitlab-on-kubernetes-the-ultimate-deployment-guide-188b)
+- [Nuxt Social Share module has many new features 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-many-new-features-5b75)
+- [Increasing Your Cloud Function Development Velocity Using Dynamically Loading Python Classes](https://dev.to/davidharcombe/increasing-your-cloud-function-development-velocity-using-dynamically-loading-python-classes-4fm3)
 <!-- BLOG-POST-LIST:END -->
 
