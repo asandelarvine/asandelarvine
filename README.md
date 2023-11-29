@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Migration from Classic Hosting to Serverless](https://dev.to/florianrappl/migration-from-classic-hosting-to-serverless-3pkh)
+- [Just made $5000 in revenue with my MVP](https://dev.to/mariostopfer/just-made-5000-in-revenue-with-my-mvp-16c2)
+- [JavaScript in 2023: A Year of Surprises and Transformations! 😮](https://dev.to/bhavesh_yadav/javascript-in-2023-a-year-of-surprises-and-transformations-3pf2)
 - [How to migrate from Api Platform v2 to v3?](https://dev.to/theodo/how-to-migrate-from-api-platform-v2-to-v3-2nec)
-- [Overcoming Procrastination in Coding: Strategies for Peak Productivity 🚀](https://dev.to/baransel/overcoming-procrastination-in-coding-strategies-for-peak-productivity-24oi)
-- [Build RAG pipelines with txtai](https://dev.to/neuml/build-rag-pipelines-with-txtai-nd9)
-- [Mastering the Art of Clean Code: Unlocking the Power of Programming Principles](https://dev.to/fsh02/mastering-the-art-of-clean-code-unlocking-the-power-of-programming-principles-51nk)
 <!-- BLOG-POST-LIST:END -->
 
