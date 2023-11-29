@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is generative AI and how can Amazon Bedrock help businesses?](https://dev.to/softwebsolution/what-is-generative-ai-and-how-can-amazon-bedrock-help-businesses-24he)
-- [Navigating Remote Opportunities for Engineers and Tech Leaders](https://dev.to/alexr/navigating-remote-opportunities-for-engineers-and-tech-leaders-2mfk)
-- [API-first Invoicing – A Guide to Simplifying Financial Document Generation](https://dev.to/monite/api-first-invoicing-a-guide-to-simplifying-financial-document-generation-3p1f)
-- [⤴️How to build a Midjourney API with Nest.js 🚀](https://dev.to/confidentai/how-to-build-unofficial-midjourney-api-with-nestjs-1lnd)
+- [🔥 Create a Responsive Portfolio Website Using React JS &amp; Tailwind CSS](https://dev.to/codingcss/create-a-responsive-portfolio-website-using-react-js-tailwind-css-em4)
+- [Secure Your Business With DevSecOps Tools](https://dev.to/techdogs_inc/secure-your-business-with-devsecops-tools-4nae)
+- [✨Be a 10X Linux User with these tools 😎💫](https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f)
+- [The Agile Methodology in Professional App Development](https://dev.to/richarddukusa/the-agile-methodology-in-professional-app-development-261g)
 <!-- BLOG-POST-LIST:END -->
 
