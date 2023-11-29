@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is generative AI and how can Amazon Bedrock help businesses?](https://dev.to/softwebsolution/what-is-generative-ai-and-how-can-amazon-bedrock-help-businesses-24he)
+- [Navigating Remote Opportunities for Engineers and Tech Leaders](https://dev.to/alexr/navigating-remote-opportunities-for-engineers-and-tech-leaders-2mfk)
+- [API-first Invoicing – A Guide to Simplifying Financial Document Generation](https://dev.to/monite/api-first-invoicing-a-guide-to-simplifying-financial-document-generation-3p1f)
 - [⤴️How to build a Midjourney API with Nest.js 🚀](https://dev.to/confidentai/how-to-build-unofficial-midjourney-api-with-nestjs-1lnd)
-- [💡 Understanding SEO for Web Developers](https://dev.to/margishpatel/understanding-seo-for-web-developers-2efm)
-- [Oracle Apex Forum](https://dev.to/foxinfotech/oracle-apex-forum-3d2b)
-- [Building Intelligent Applications with Machine Learning APIs](https://dev.to/onix-systems/building-intelligent-applications-with-machine-learning-apis-5471)
 <!-- BLOG-POST-LIST:END -->
 
