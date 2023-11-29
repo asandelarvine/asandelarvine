@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q launched today at #AWSreInvent2023](https://dev.to/aws-builders/amazon-q-launched-today-at-awsreinvent2023-3j32)
-- [How Do Snap Judgments Shape Our Perceptions?](https://dev.to/devteam/how-do-snap-judgments-shape-our-perceptions-cam)
-- [Ray.so, Roadmap.sh, and More?](https://dev.to/codenewbieteam/rayso-roadmapsh-and-more-553g)
-- [Your LLM hallucinates, Why?](https://dev.to/shittu_olumide_/your-llm-hallucinates-why-4lgk)
+- [Showcasing Excellence: A Step-by-Step Guide to Your Kickass Portfolio](https://dev.to/lakshmananarumugam/showcasing-excellence-a-step-by-step-guide-to-your-kickass-portfolio-13h1)
+- [Atomic clocks in EC2](https://dev.to/aws-heroes/atomic-clocks-in-ec2-74h)
+- [How to integrate ASPM with your application security program](https://dev.to/snyk/how-to-integrate-aspm-with-your-application-security-program-430k)
+- [Clerk Webhooks: Getting Started](https://dev.to/clerk/clerk-webhooks-getting-started-lbi)
 <!-- BLOG-POST-LIST:END -->
 
