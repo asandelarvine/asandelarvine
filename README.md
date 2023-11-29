@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Web App Performance](https://dev.to/iamspathan/enhancing-web-app-performance-1gj)
 - [Salesforce Commerce Cloud- Features and Importance](https://dev.to/edenwheeler/salesforce-commerce-cloud-features-and-importance-522j)
 - [How Does Chrome&#39;s V8 Engine Actually Work?](https://dev.to/mainak0907/how-does-chromes-v8-engine-actually-work-4c2h)
 - [Typescript type vs interface](https://dev.to/manthanank/typescript-type-vs-interface-2gf)
-- [💻 Web Development Resources #176](https://dev.to/vincenius/web-development-resources-176-74n)
 <!-- BLOG-POST-LIST:END -->
 
