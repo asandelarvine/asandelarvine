@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting Quality Products with DevOps Magic](https://dev.to/romanburdiuzha/crafting-quality-products-with-devops-magic-2336)
+- [An Actually Strategic Way to Do SEO Competitor Analysis](https://dev.to/daedtech/an-actually-strategic-way-to-do-seo-competitor-analysis-48n8)
+- [Pimp My Code : Come and Clean Code with V #1](https://dev.to/justthev/pimp-my-code-come-and-clean-code-with-v-1-3c4p)
 - [🏆How to master 📊 Big Data pipelines with Taipy and PySpark 🐍](https://dev.to/taipy/how-to-master-big-data-pipelines-with-taipy-and-pyspark-14oe)
-- [🚀 GITLAB ON KUBERNETES: The Ultimate Deployment Guide! 🌟](https://dev.to/glasskube/gitlab-on-kubernetes-the-ultimate-deployment-guide-188b)
-- [Nuxt Social Share module has many new features 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-many-new-features-5b75)
-- [Increasing Your Cloud Function Development Velocity Using Dynamically Loading Python Classes](https://dev.to/davidharcombe/increasing-your-cloud-function-development-velocity-using-dynamically-loading-python-classes-4fm3)
 <!-- BLOG-POST-LIST:END -->
 
