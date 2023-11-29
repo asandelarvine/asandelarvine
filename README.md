@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the login page](https://dev.to/tbroyer/beyond-the-login-page-4hjd)
+- [What are JWT?](https://dev.to/tbroyer/what-are-jwt-nm0)
+- [Caching &amp; Revalidate: ServerSide vs ClientSide](https://dev.to/rakshit47/caching-revalidate-serverside-vs-clientside-1emm)
 - [Tortoise CSS Art | CSS Project With Source Code](https://dev.to/codingcss/tortoise-css-art-css-project-with-source-code-5eaa)
-- [Building Thriving Communities: Strategies for New Community Managers](https://dev.to/coffeecraftcode/building-thriving-communities-strategies-for-new-community-managers-4jpa)
-- [Building a progressive web app in Remix with Remix PWA](https://dev.to/logrocket/building-a-progressive-web-app-in-remix-with-remix-pwa-1938)
-- [Tips to use GitHub as your Portfolio](https://dev.to/pachicodes/tips-to-use-github-as-your-portfolio-4kb2)
 <!-- BLOG-POST-LIST:END -->
 
