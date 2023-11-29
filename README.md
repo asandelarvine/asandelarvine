@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Coffee to Code: a year in life of a junior software engineer at Inato](https://dev.to/42f/from-coffee-to-code-a-year-in-life-of-a-junior-software-engineer-at-inato-369n)
+- [Domain Services and Factories in Domain-Driven Design](https://dev.to/ruben_alapont/domain-services-and-factories-in-domain-driven-design-55lo)
+- [Semantic Elements in HTML](https://dev.to/amarachi_kanu_20/semantic-elements-in-html-2a7k)
 - [Migration from Classic Hosting to Serverless](https://dev.to/florianrappl/migration-from-classic-hosting-to-serverless-3pkh)
-- [Just made $5000 in revenue with my MVP](https://dev.to/mariostopfer/just-made-5000-in-revenue-with-my-mvp-16c2)
-- [JavaScript in 2023: A Year of Surprises and Transformations! 😮](https://dev.to/bhavesh_yadav/javascript-in-2023-a-year-of-surprises-and-transformations-3pf2)
-- [How to migrate from Api Platform v2 to v3?](https://dev.to/theodo/how-to-migrate-from-api-platform-v2-to-v3-2nec)
 <!-- BLOG-POST-LIST:END -->
 
