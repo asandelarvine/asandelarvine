@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing in Production with Canary Deployments: A How-To Guide](https://dev.to/pradumnasaraf/testing-in-production-with-canary-deployments-a-how-to-guide-m4g)
+- [Center A Div With Flex!](https://dev.to/jgdevelopments/center-a-div-with-flex-2aho)
 - [Showcasing Excellence: A Step-by-Step Guide to Your Kickass Portfolio](https://dev.to/lakshmananarumugam/showcasing-excellence-a-step-by-step-guide-to-your-kickass-portfolio-13h1)
 - [Atomic clocks in EC2](https://dev.to/aws-heroes/atomic-clocks-in-ec2-74h)
-- [How to integrate ASPM with your application security program](https://dev.to/snyk/how-to-integrate-aspm-with-your-application-security-program-430k)
-- [Clerk Webhooks: Getting Started](https://dev.to/clerk/clerk-webhooks-getting-started-lbi)
 <!-- BLOG-POST-LIST:END -->
 
