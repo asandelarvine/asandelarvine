@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Create a Responsive Portfolio Website Using React JS &amp; Tailwind CSS](https://dev.to/codingcss/create-a-responsive-portfolio-website-using-react-js-tailwind-css-em4)
-- [Secure Your Business With DevSecOps Tools](https://dev.to/techdogs_inc/secure-your-business-with-devsecops-tools-4nae)
-- [✨Be a 10X Linux User with these tools 😎💫](https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f)
-- [The Agile Methodology in Professional App Development](https://dev.to/richarddukusa/the-agile-methodology-in-professional-app-development-261g)
+- [How to migrate from Api Platform v2 to v3?](https://dev.to/theodo/how-to-migrate-from-api-platform-v2-to-v3-2nec)
+- [Overcoming Procrastination in Coding: Strategies for Peak Productivity 🚀](https://dev.to/baransel/overcoming-procrastination-in-coding-strategies-for-peak-productivity-24oi)
+- [Build RAG pipelines with txtai](https://dev.to/neuml/build-rag-pipelines-with-txtai-nd9)
+- [Mastering the Art of Clean Code: Unlocking the Power of Programming Principles](https://dev.to/fsh02/mastering-the-art-of-clean-code-unlocking-the-power-of-programming-principles-51nk)
 <!-- BLOG-POST-LIST:END -->
 
