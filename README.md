@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blend background images and colours with CSS.](https://dev.to/pinky057/blend-background-images-and-colours-with-css-4opo)
+- [Blend background images and colours with CSS 🧚🏽‍♀️.](https://dev.to/pinky057/blend-background-images-and-colours-with-css-4opo)
 - [&quot;Exploring the Path from Medicine to a Tech Career&quot;: CodeNewbie Podcast S26E5](https://dev.to/codenewbieteam/exploring-the-path-from-medicine-to-a-tech-career-codenewbie-podcast-s26e5-341b)
 - [Guia Passo a Passo: Deploy de uma API REST Java no Docker](https://dev.to/dsb88/guia-passo-a-passo-deploy-de-uma-api-rest-java-no-docker-33mp)
 - [The Most Upvoted Visual Studio Code Feature](https://dev.to/this-is-learning/the-most-upvoted-visual-studio-code-feature-4heh)
