@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Quality Products with DevOps Magic](https://dev.to/romanburdiuzha/crafting-quality-products-with-devops-magic-2336)
-- [An Actually Strategic Way to Do SEO Competitor Analysis](https://dev.to/daedtech/an-actually-strategic-way-to-do-seo-competitor-analysis-48n8)
-- [Pimp My Code : Come and Clean Code with V #1](https://dev.to/justthev/pimp-my-code-come-and-clean-code-with-v-1-3c4p)
-- [🏆How to master 📊 Big Data pipelines with Taipy and PySpark 🐍](https://dev.to/taipy/how-to-master-big-data-pipelines-with-taipy-and-pyspark-14oe)
+- [Tortoise CSS Art | CSS Project With Source Code](https://dev.to/codingcss/tortoise-css-art-css-project-with-source-code-5eaa)
+- [Building Thriving Communities: Strategies for New Community Managers](https://dev.to/coffeecraftcode/building-thriving-communities-strategies-for-new-community-managers-4jpa)
+- [Building a progressive web app in Remix with Remix PWA](https://dev.to/logrocket/building-a-progressive-web-app-in-remix-with-remix-pwa-1938)
+- [Tips to use GitHub as your Portfolio](https://dev.to/pachicodes/tips-to-use-github-as-your-portfolio-4kb2)
 <!-- BLOG-POST-LIST:END -->
 
