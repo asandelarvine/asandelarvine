@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce Commerce Cloud- Features and Importance](https://dev.to/edenwheeler/salesforce-commerce-cloud-features-and-importance-522j)
 - [How Does Chrome&#39;s V8 Engine Actually Work?](https://dev.to/mainak0907/how-does-chromes-v8-engine-actually-work-4c2h)
-- [Testing in Production with Canary Deployments: A How-To Guide](https://dev.to/pradumnasaraf/testing-in-production-with-canary-deployments-a-how-to-guide-m4g)
-- [How to implement mock testing with Java Agent?](https://dev.to/arex_test/the-role-of-java-agent-in-mock-testing-52ah)
-- [Center A Div With Flex!](https://dev.to/jgdevelopments/center-a-div-with-flex-2aho)
+- [Typescript type vs interface](https://dev.to/manthanank/typescript-type-vs-interface-2gf)
+- [💻 Web Development Resources #176](https://dev.to/vincenius/web-development-resources-176-74n)
 <!-- BLOG-POST-LIST:END -->
 
