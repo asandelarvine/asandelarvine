@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A developer’s introduction to graph databases](https://dev.to/aerospike/a-developers-introduction-to-graph-databases-clb)
+- [Using Node.js to check for proxy and VPN with IP2Location.io geolocation API](https://dev.to/camilarales/using-nodejs-to-check-for-proxy-and-vpn-with-ip2locationio-geolocation-api-57dk)
+- [Customer: Use Case &lpar;4: Implementing Front-end Service&rpar;](https://dev.to/amalja0/customer-use-case-4-implementing-front-end-service-5hha)
 - [How to connect Supabase to Payload CMS](https://dev.to/petipois/how-to-connect-supabase-to-payload-cms-3emp)
-- [How “Merge Sort” works in JavaScript?](https://dev.to/jaimaldullat/how-merge-sort-works-in-javascript-5c1e)
-- [Best CSS Resources For Web Developers 💻](https://dev.to/pinky057/best-css-resources-for-web-developers-29ad)
-- [Image Compression in JavaScript/TypeScript](https://dev.to/konstantinstanmeyer/image-compression-in-javascripttypescript-dc9)
 <!-- BLOG-POST-LIST:END -->
 
