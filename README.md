@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Create a Responsive Law Firm Website Using React JS &amp; Tailwind CSS](https://dev.to/codingcss/create-a-responsive-law-firm-website-using-react-js-tailwind-css-1mlb)
+- [Everyday Linux Commands](https://dev.to/chigozieco/everyday-linux-commands-4gh0)
+- [Choosing the Right Database for Your Application](https://dev.to/onix-systems/choosing-the-right-database-for-your-application-34m2)
 - [Top React Component UI Libraries to Enhance Your Web Development Projects](https://dev.to/vishnusatheesh/top-react-component-ui-libraries-to-enhance-your-web-development-projects-3392)
-- [Sharing Your Localhost with Other Devices Easily](https://dev.to/heratyian/sharing-your-localhost-with-other-devices-easily-4o5)
-- [Using dev containers with VS Code for an easier dev setup](https://dev.to/logrocket/using-dev-containers-with-vs-code-for-an-easier-dev-setup-3bkh)
-- [November Stripe Developer Digest](https://dev.to/stripe/november-stripe-developer-digest-1e3i)
 <!-- BLOG-POST-LIST:END -->
 
