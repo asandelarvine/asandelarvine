@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How “Merge Sort” works in JavaScript?](https://dev.to/jaimaldullat/how-merge-sort-works-in-javascript-5c1e)
 - [Best CSS Resources For Web Developers 💻](https://dev.to/pinky057/best-css-resources-for-web-developers-29ad)
+- [Image Compression in JavaScript/TypeScript](https://dev.to/konstantinstanmeyer/image-compression-in-javascripttypescript-dc9)
 - [What’s the Optimal Coding Environment?](https://dev.to/codenewbieteam/whats-the-optimal-coding-environment-34n2)
-- [What Makes Confident People Confident, Including Healthy Boundaries?](https://dev.to/devteam/what-makes-confident-people-confident-including-healthy-boundaries-4jli)
-- [🐙 ✅ GitHub Actions workflows: How to replace YAML with a visual editor](https://dev.to/sebastianrath/github-actions-workflows-how-to-replace-yaml-with-a-visual-editor-36dd)
 <!-- BLOG-POST-LIST:END -->
 
