@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an event-driven system in Go using Pub/Sub](https://dev.to/encore/building-an-event-driven-system-in-go-using-pubsub-4l0h)
-- [19 GitHub Repositories Every Developer Should Bookmark 📚👍](https://dev.to/madza/19-github-repositories-every-developer-should-bookmark-13bd)
-- [Legacy Code as a Trap](https://dev.to/ingosteinke/legacy-code-as-a-trap-1f70)
-- [🚀 5 PRO Tips for an Unbeatable README! 🥊](https://dev.to/quine/5-pro-tips-for-an-unbeatable-readme-143i)
+- [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje)
+- [How to Use ConfigCat Feature Flags with Docker](https://dev.to/codedbychavez/how-to-use-configcat-feature-flags-with-docker-9jo)
+- [5 KILLER WEBSITES FOR CODERS 💎](https://dev.to/random_ti/5-killer-websites-for-coders-a7)
+- [Improving Code Quality in React with JavaScript Best Practices](https://dev.to/surajondev/improving-code-quality-in-react-with-javascript-best-practices-3me)
 <!-- BLOG-POST-LIST:END -->
 
