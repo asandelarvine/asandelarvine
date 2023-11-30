@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS IAM POLICIES OVERVIEW](https://dev.to/aws-builders/aws-iam-policies-overview-89f)
+- [ECS Blue/Green deployment with CodeDeploy and Terraform](https://dev.to/aws-builders/ecs-bluegreen-deployment-with-codedeploy-and-terraform-3gf1)
 - [Recreating the Apple Calculator in Rust using Tauri, Yew and Tailwind](https://dev.to/maxtaylor/recreating-the-apple-calculator-in-rust-using-tauri-yew-and-tailwind-5akh)
 - [Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”](https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa)
-- [Discussion of the Week: What is the most fun coding language?](https://dev.to/devteam/discussion-of-the-week-what-is-the-most-fun-coding-language-col)
-- [Dr. Werner Vogels on the Art of Being a Frugal Architect](https://dev.to/aws-builders/dr-werner-vogels-on-the-art-of-being-a-frugal-architect-4fel)
 <!-- BLOG-POST-LIST:END -->
 
