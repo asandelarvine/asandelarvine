@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup RSpec on a Rails Project](https://dev.to/iamak/how-to-setup-rspec-on-a-rails-project-bjp)
 - [Cisco Router&#39;da Nasıl Netflow Verileri Açılır ?](https://dev.to/aciklab/cisco-routerda-nasil-netflow-verileri-acilir--1h9m)
 - [Cisco Router&#39;da Statik Yönlendirme Nasıl Yapılır?](https://dev.to/aciklab/cisco-routerda-statik-yonlendirme-nasil-yapilir-4kj9)
 - [HTML Data Attributes: One of the Original State Management Libraries](https://dev.to/nickytonline/html-data-attributes-one-of-the-original-state-management-libraries-8bf)
-- [Value Objects in PHP 8: Building a better code](https://dev.to/cnastasi/value-objects-in-php-8-building-a-better-code-38k8)
 <!-- BLOG-POST-LIST:END -->
 
