@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an event-driven system in Go using Pub/Sub](https://dev.to/encore/building-an-event-driven-system-in-go-using-pubsub-4l0h)
+- [19 GitHub Repositories Every Developer Should Bookmark 📚👍](https://dev.to/madza/19-github-repositories-every-developer-should-bookmark-13bd)
+- [Legacy Code as a Trap](https://dev.to/ingosteinke/legacy-code-as-a-trap-1f70)
 - [🚀 5 PRO Tips for an Unbeatable README! 🥊](https://dev.to/quine/5-pro-tips-for-an-unbeatable-readme-143i)
-- [How Vector Databases Work: A Hands-On Tutorial!](https://dev.to/pavanbelagatti/how-vector-databases-work-a-hands-on-tutorial-4h2d)
-- [Chopping the monolith in a smarter way](https://dev.to/apisix/chopping-the-monolith-in-a-smarter-way-5df4)
-- [Write good commit messages to accelerate your dev career](https://dev.to/moozzyk/write-good-commit-messages-to-accelerate-your-dev-career-2mjf)
 <!-- BLOG-POST-LIST:END -->
 
