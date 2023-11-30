@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje)
-- [How to Use ConfigCat Feature Flags with Docker](https://dev.to/codedbychavez/how-to-use-configcat-feature-flags-with-docker-9jo)
-- [5 KILLER WEBSITES FOR CODERS 💎](https://dev.to/random_ti/5-killer-websites-for-coders-a7)
-- [Improving Code Quality in React with JavaScript Best Practices](https://dev.to/surajondev/improving-code-quality-in-react-with-javascript-best-practices-3me)
+- [Color Guessing Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/color-guessing-game-html-css-javascript-project-33hk)
+- [8 Best BI Tools For Small Businesses](https://dev.to/gnese/8-best-bi-tools-for-small-businesses-4iim)
+- [This Week In React #164: Next.js, Remix, RSCs, React-Forget, MDX, Expo Orbit, Ignite, Victory XL, Reanimated, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-164-nextjs-remix-rscs-react-forget-mdx-expo-orbit-ignite-victory-xl-reanimated-typescript-37j7)
+- [What to do when your PR fails](https://dev.to/opensauced/what-to-do-when-your-pr-fails-bl1)
 <!-- BLOG-POST-LIST:END -->
 
