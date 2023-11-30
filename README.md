@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Taking Programming Notes &lpar;Try THIS!&rpar;](https://dev.to/codewithshahan/stop-taking-programming-notes-try-this-26dp)
+- [CSS Art: Drawing Santa Claus in CSS](https://dev.to/alvaromontoro/css-art-drawing-santa-claus-in-css-5049)
+- [Beginner&#39;s guide to monorepos and turborepo.](https://dev.to/sammaji15/beginners-guide-to-monorepos-and-turborepo-590c)
 - [🔥 Create a Responsive Law Firm Website Using React JS &amp; Tailwind CSS](https://dev.to/codingcss/create-a-responsive-law-firm-website-using-react-js-tailwind-css-1mlb)
-- [Everyday Linux Commands](https://dev.to/chigozieco/everyday-linux-commands-4gh0)
-- [Choosing the Right Database for Your Application](https://dev.to/onix-systems/choosing-the-right-database-for-your-application-34m2)
-- [Top React Component UI Libraries to Enhance Your Web Development Projects](https://dev.to/vishnusatheesh/top-react-component-ui-libraries-to-enhance-your-web-development-projects-3392)
 <!-- BLOG-POST-LIST:END -->
 
