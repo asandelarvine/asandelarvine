@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [November Stripe Developer Digest](https://dev.to/stripe/november-stripe-developer-digest-1e3i)
 - [Logical OR &lpar;||&rpar; vs. Nullish Coalescing &lpar;??&rpar; For Default Values](https://dev.to/shameel/logical-or-vs-nullish-coalescing-for-default-values-53b0)
 - [Crushing Work Burnout: Developer&#39;s Guide to Managing Stress and Thriving](https://dev.to/ayomiku222/crushing-work-burnout-developers-guide-to-managing-stress-and-thriving-55bo)
 - [Stateless vs Stateful hooks in your computer vision applications with Pipeless](https://dev.to/miguelaeh/stateless-vs-stateful-hooks-in-your-computer-vision-applications-with-pipeless-3hd4)
-- [WTF...Next.js app deployed with Docker?](https://dev.to/francescoxx/wtfnextjs-app-deployed-with-docker-4h3m)
 <!-- BLOG-POST-LIST:END -->
 
