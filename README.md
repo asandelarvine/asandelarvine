@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Router&#39;da Statik Yönlendirme Nasıl Yapılır?](https://dev.to/aciklab/cisco-routerda-statik-yonlendirme-nasil-yapilir-4kj9)
+- [HTML Data Attributes: One of the Original State Management Libraries](https://dev.to/nickytonline/html-data-attributes-one-of-the-original-state-management-libraries-8bf)
 - [A developer’s introduction to graph databases](https://dev.to/aerospike/a-developers-introduction-to-graph-databases-clb)
 - [Using Node.js to check for proxy and VPN with IP2Location.io geolocation API](https://dev.to/camilarales/using-nodejs-to-check-for-proxy-and-vpn-with-ip2locationio-geolocation-api-57dk)
-- [Customer: Use Case &lpar;4: Implementing Front-end Service&rpar;](https://dev.to/amalja0/customer-use-case-4-implementing-front-end-service-5hha)
-- [How to connect Supabase to Payload CMS](https://dev.to/petipois/how-to-connect-supabase-to-payload-cms-3emp)
 <!-- BLOG-POST-LIST:END -->
 
