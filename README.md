@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: What strategies are most effective for retaining acquired knowledge?](https://dev.to/devteam/sloans-inbox-what-strategies-are-most-effective-for-retaining-acquired-knowledge-131j)
+- [Join Virtual Coffee in the Creative Community Monthly Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-creative-community-monthly-challenge-44d5)
 - [Stop Taking Programming Notes &lpar;Try THIS!&rpar;](https://dev.to/codewithshahan/stop-taking-programming-notes-try-this-26dp)
 - [CSS Art: Drawing Santa Claus in CSS](https://dev.to/alvaromontoro/css-art-drawing-santa-claus-in-css-5049)
-- [Beginner&#39;s guide to monorepos and turborepo.](https://dev.to/sammaji15/beginners-guide-to-monorepos-and-turborepo-590c)
-- [🔥 Create a Responsive Law Firm Website Using React JS &amp; Tailwind CSS](https://dev.to/codingcss/create-a-responsive-law-firm-website-using-react-js-tailwind-css-1mlb)
 <!-- BLOG-POST-LIST:END -->
 
