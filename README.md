@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: What strategies are most effective for retaining acquired knowledge?](https://dev.to/devteam/sloans-inbox-what-strategies-are-most-effective-for-retaining-acquired-knowledge-131j)
-- [Join Virtual Coffee in the Creative Community Monthly Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-creative-community-monthly-challenge-44d5)
-- [Stop Taking Programming Notes &lpar;Try THIS!&rpar;](https://dev.to/codewithshahan/stop-taking-programming-notes-try-this-26dp)
-- [CSS Art: Drawing Santa Claus in CSS](https://dev.to/alvaromontoro/css-art-drawing-santa-claus-in-css-5049)
+- [Recreating the Apple Calculator in Rust using Tauri, Yew and Tailwind](https://dev.to/maxtaylor/recreating-the-apple-calculator-in-rust-using-tauri-yew-and-tailwind-5akh)
+- [Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”](https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa)
+- [Discussion of the Week: What is the most fun coding language?](https://dev.to/devteam/discussion-of-the-week-what-is-the-most-fun-coding-language-col)
+- [Dr. Werner Vogels on the Art of Being a Frugal Architect](https://dev.to/aws-builders/dr-werner-vogels-on-the-art-of-being-a-frugal-architect-4fel)
 <!-- BLOG-POST-LIST:END -->
 
