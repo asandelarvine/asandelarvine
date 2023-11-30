@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup RSpec on a Rails Project](https://dev.to/iamak/how-to-setup-rspec-on-a-rails-project-bjp)
-- [Cisco Router&#39;da Nasıl Netflow Verileri Açılır ?](https://dev.to/aciklab/cisco-routerda-nasil-netflow-verileri-acilir--1h9m)
-- [Cisco Router&#39;da Statik Yönlendirme Nasıl Yapılır?](https://dev.to/aciklab/cisco-routerda-statik-yonlendirme-nasil-yapilir-4kj9)
-- [HTML Data Attributes: One of the Original State Management Libraries](https://dev.to/nickytonline/html-data-attributes-one-of-the-original-state-management-libraries-8bf)
+- [Write good commit messages to accelerate your dev career](https://dev.to/moozzyk/write-good-commit-messages-to-accelerate-your-dev-career-2mjf)
+- [The Future Horizon: Unveiling the Potential of Customer Relationship Management &lpar;CRM&rpar;](https://dev.to/agarralexx/the-future-horizon-unveiling-the-potential-of-customer-relationship-management-crm-1bim)
+- [SObjectizer Tales - 8. Representing errors](https://dev.to/ilpropheta/sobjectizer-tales-8-representing-errors-37of)
+- [15 Time-Saving Websites You Should Know As A CSS Developer](https://dev.to/devshefali/15-time-saving-websites-you-should-know-as-a-css-developer-5e9j)
 <!-- BLOG-POST-LIST:END -->
 
