@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
+- [onepoint au BDX/IO 2023](https://dev.to/onepoint/onepoint-au-bdxio-2023-3ag2)
+- [Virtual care: benefits, challenges, and prospects](https://dev.to/abtosoftware/virtual-care-benefits-challenges-and-prospects-2m09)
 - [Exploring JavaScript Algorithms: A Beginner’s Guide](https://dev.to/ryver_dev/exploring-javascript-algorithms-a-beginners-guide-2ekj)
-- [5 Docker Extensions to 4.2x your Productivity](https://dev.to/code42cate/5-docker-extensions-to-42x-your-productivity-7f)
-- [10 Useful websites for flutter developers!](https://dev.to/rashnk/useful-websites-for-flutter-developers-297j)
-- [Server-Side Rendering &lpar;SSR&rpar; vs. Client-Side Rendering &lpar;CSR&rpar;: The Fascinating World of Page Rendering](https://dev.to/kkadzielawa/server-side-rendering-ssr-vs-client-side-rendering-csr-the-fascinating-world-of-page-rendering-2fba)
 <!-- BLOG-POST-LIST:END -->
 
