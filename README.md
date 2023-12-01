@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create a Before and After Image Slider With Vanilla JavaScript](https://dev.to/daviduzondu/how-to-create-a-before-and-after-image-slider-with-vanilla-javascript-4n78)
-- [Optimizing data flow with the keep-unchanged-values library](https://dev.to/qostya/optimizing-data-flow-with-the-keep-unchanged-values-library-19c)
-- [CPAP Mask Maintenance: Tips for Prolonging Lifespan and Efficacy](https://dev.to/jamesred9567/cpap-mask-maintenance-tips-for-prolonging-lifespan-and-efficacy-17fm)
-- [CS50T 🖥️: Unveiling Tech - A Comprehensive Intro 🚀](https://dev.to/arjuncodess/cs50t-unveiling-tech-a-comprehensive-intro-2ba7)
+- [Mais dados é melhor que um algoritmo mais eficiente](https://dev.to/nobrelucas/mais-dados-e-melhor-que-um-algoritmo-mais-eficiente-40mk)
+- [How to remove git from the project and then upload it to the new repo ?](https://dev.to/sardarmudassaralikhan/how-to-remove-git-from-the-project-and-then-upload-it-to-the-new-repo-4jm6)
+- [Transition to OpenTelemetry, enhanced policy testing, and more - Cerbos v0.32](https://dev.to/cerbos/transition-to-opentelemetry-enhanced-policy-testing-and-more-cerbos-v032-1993)
+- [Custom Integrations with SDK &amp; REST APIs](https://dev.to/kavithar/custom-integrations-with-sdk-rest-apis-1bb8)
 <!-- BLOG-POST-LIST:END -->
 
