@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [API completa em Golang - Parte 1](https://dev.to/wiliamvj/api-completa-em-golang-parte-1-mah)
 - [Scanning ports and finding network vulnerabilities using nmap](https://dev.to/gpiechnik/scanning-ports-and-finding-network-vulnerabilities-using-nmap-17g2)
 - [gnu-on-alpine 3.18.5 and alpine-plus-plus 3.18.5 Released](https://dev.to/cicirello/gnu-on-alpine-3185-and-alpine-plus-plus-3185-released-2m4o)
 - [How to Integrate Neo4j with OpenAI&#39;s GPT Assistants](https://dev.to/stephenc222/how-to-integrate-neo4j-with-openais-gpt-assistants-2mm)
-- [Best way to learn a programming language](https://dev.to/nightdev/best-way-to-learn-a-programming-language-4223)
 <!-- BLOG-POST-LIST:END -->
 
