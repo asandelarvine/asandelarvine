@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scanning ports and finding network vulnerabilities using nmap](https://dev.to/gpiechnik/scanning-ports-and-finding-network-vulnerabilities-using-nmap-17g2)
+- [gnu-on-alpine 3.18.5 and alpine-plus-plus 3.18.5 Released](https://dev.to/cicirello/gnu-on-alpine-3185-and-alpine-plus-plus-3185-released-2m4o)
+- [How to Integrate Neo4j with OpenAI&#39;s GPT Assistants](https://dev.to/stephenc222/how-to-integrate-neo4j-with-openais-gpt-assistants-2mm)
 - [Best way to learn a programming language](https://dev.to/nightdev/best-way-to-learn-a-programming-language-4223)
-- [Creating a Responsive Website Using HTML CSS and JavaScript](https://dev.to/codingcss/creating-a-responsive-website-using-html-css-and-javascript-2keg)
-- [Use Spotify made for Developers](https://dev.to/prometheus_78/using-spotify-made-for-developers-d28)
-- [What is FIDO? — The Future of Secure and Passwordless Authentication](https://dev.to/anurag_vishwakarma/what-is-fido-the-future-of-secure-and-passwordless-authentication-48j0)
 <!-- BLOG-POST-LIST:END -->
 
