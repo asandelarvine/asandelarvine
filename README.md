@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mais dados é melhor que um algoritmo mais eficiente](https://dev.to/nobrelucas/mais-dados-e-melhor-que-um-algoritmo-mais-eficiente-40mk)
-- [How to remove git from the project and then upload it to the new repo ?](https://dev.to/sardarmudassaralikhan/how-to-remove-git-from-the-project-and-then-upload-it-to-the-new-repo-4jm6)
-- [Transition to OpenTelemetry, enhanced policy testing, and more - Cerbos v0.32](https://dev.to/cerbos/transition-to-opentelemetry-enhanced-policy-testing-and-more-cerbos-v032-1993)
-- [Custom Integrations with SDK &amp; REST APIs](https://dev.to/kavithar/custom-integrations-with-sdk-rest-apis-1bb8)
+- [Fractions Calculator With HTML, CSS and JavaScript](https://dev.to/codingcss/fractions-calculator-with-html-css-and-javascript-138m)
+- [Stack and Queue in JavaScript](https://dev.to/bekbrace/stack-and-queue-34de)
+- [Kubernetes DaemonSet: Practical Guide to Monitoring in Kubernetes](https://dev.to/cast_ai/kubernetes-daemonset-practical-guide-to-monitoring-in-kubernetes-46n6)
+- [Building spider chart with D3 JS and React js](https://dev.to/simbamkenya/building-spider-chart-with-d3-js-and-react-js-50pj)
 <!-- BLOG-POST-LIST:END -->
 
