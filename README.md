@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mechanically Detecting Accessibility Violations](https://dev.to/hiro0218/mechanically-detecting-accessibility-violations-ja1)
+- [100 computer science concepts, you should know.](https://dev.to/chhunneng/100-computer-science-concepts-you-should-know-2pgk)
 - [Lessons from Starting an Open Source Project](https://dev.to/alexcurtisslep/lessons-from-starting-an-open-source-project-2g3l)
 - [Should I be hacking on the weekend?](https://dev.to/ebuckley/should-i-be-hacking-on-the-weekend-3kmb)
-- [A Year in Review: Celebrating the Virtual Coffee Community](https://dev.to/virtualcoffee/a-year-in-review-celebrating-the-virtual-coffee-community-4fgj)
-- [Does technology cause brain damage?](https://dev.to/durgesh4993/does-technology-cause-brain-damage-360a)
 <!-- BLOG-POST-LIST:END -->
 
