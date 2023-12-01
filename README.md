@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Should I be hacking on the weekend?](https://dev.to/ebuckley/should-i-be-hacking-on-the-weekend-3kmb)
+- [A Year in Review: Celebrating the Virtual Coffee Community](https://dev.to/virtualcoffee/a-year-in-review-celebrating-the-virtual-coffee-community-4fgj)
 - [Does technology cause brain damage?](https://dev.to/durgesh4993/does-technology-cause-brain-damage-360a)
 - [Free Events in December 2023 to Help You Learn About the Cloud](https://dev.to/mlhacks/free-events-in-december-2023-to-help-you-learn-about-the-cloud-1hbm)
-- [Validating forms in React Apps with Zod](https://dev.to/guilhermecheng/validating-forms-in-react-apps-with-zod-2boh)
-- [AWS IAM POLICIES OVERVIEW](https://dev.to/aws-builders/aws-iam-policies-overview-89f)
 <!-- BLOG-POST-LIST:END -->
 
