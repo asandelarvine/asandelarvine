@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JSONSerializer meets Source Generators](https://dev.to/j0nimost/jsonserializer-meets-source-generators-1h0c)
 - [Mechanically Detecting Accessibility Violations](https://dev.to/hiro0218/mechanically-detecting-accessibility-violations-ja1)
 - [100 computer science concepts, you should know.](https://dev.to/chhunneng/100-computer-science-concepts-you-should-know-2pgk)
 - [Lessons from Starting an Open Source Project](https://dev.to/alexcurtisslep/lessons-from-starting-an-open-source-project-2g3l)
-- [Should I be hacking on the weekend?](https://dev.to/ebuckley/should-i-be-hacking-on-the-weekend-3kmb)
 <!-- BLOG-POST-LIST:END -->
 
