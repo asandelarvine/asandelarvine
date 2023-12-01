@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
 - [onepoint au BDX/IO 2023](https://dev.to/onepoint/onepoint-au-bdxio-2023-3ag2)
 - [Virtual care: benefits, challenges, and prospects](https://dev.to/abtosoftware/virtual-care-benefits-challenges-and-prospects-2m09)
-- [Exploring JavaScript Algorithms: A Beginner’s Guide](https://dev.to/ryver_dev/exploring-javascript-algorithms-a-beginners-guide-2ekj)
+- [Calibrating an Elven Trebuchet in Rust: Advent of Code 2023 Day 1](https://dev.to/jwrunge/calibrating-an-elven-trebuchet-in-rust-advent-of-code-2023-day-1-15kj)
 <!-- BLOG-POST-LIST:END -->
 
