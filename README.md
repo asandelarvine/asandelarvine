@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fractions Calculator With HTML, CSS and JavaScript](https://dev.to/codingcss/fractions-calculator-with-html-css-and-javascript-138m)
-- [Stack and Queue in JavaScript](https://dev.to/bekbrace/stack-and-queue-34de)
-- [Kubernetes DaemonSet: Practical Guide to Monitoring in Kubernetes](https://dev.to/cast_ai/kubernetes-daemonset-practical-guide-to-monitoring-in-kubernetes-46n6)
-- [Building spider chart with D3 JS and React js](https://dev.to/simbamkenya/building-spider-chart-with-d3-js-and-react-js-50pj)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-h04)
+- [Custom ordering without custom SQL with Ruby on Rails 7](https://dev.to/jetthoughts/custom-ordering-without-custom-sql-with-ruby-on-rails-7-33o)
+- [Creating a simple recoil script in Python](https://dev.to/vike256/creating-a-simple-recoil-script-in-python-3a8a)
+- [Document360 Vs Traditional Authoring Tools &lpar; DITA XML&rpar;](https://dev.to/ragavi_document360/document360-vs-traditional-authoring-tools-dita-xml-1a6i)
 <!-- BLOG-POST-LIST:END -->
 
