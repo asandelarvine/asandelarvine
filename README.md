@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Responsive Website Using HTML CSS and JavaScript](https://dev.to/codingcss/creating-a-responsive-website-using-html-css-and-javascript-2keg)
+- [What is FIDO? — The Future of Secure and Passwordless Authentication](https://dev.to/anurag_vishwakarma/what-is-fido-the-future-of-secure-and-passwordless-authentication-48j0)
 - [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
 - [onepoint au BDX/IO 2023](https://dev.to/onepoint/onepoint-au-bdxio-2023-3ag2)
-- [Virtual care: benefits, challenges, and prospects](https://dev.to/abtosoftware/virtual-care-benefits-challenges-and-prospects-2m09)
-- [Calibrating an Elven Trebuchet in Rust: Advent of Code 2023 Day 1](https://dev.to/jwrunge/calibrating-an-elven-trebuchet-in-rust-advent-of-code-2023-day-1-15kj)
 <!-- BLOG-POST-LIST:END -->
 
