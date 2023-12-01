@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create a Before and After Image Slider With Vanilla JavaScript](https://dev.to/daviduzondu/how-to-create-a-before-and-after-image-slider-with-vanilla-javascript-4n78)
+- [Optimizing data flow with the keep-unchanged-values library](https://dev.to/qostya/optimizing-data-flow-with-the-keep-unchanged-values-library-19c)
 - [CS50T 🖥️: Unveiling Tech - A Comprehensive Intro 🚀](https://dev.to/arjuncodess/cs50t-unveiling-tech-a-comprehensive-intro-2ba7)
 - [Google&#39;s Future: A Tale of Two Ex-Googlers](https://dev.to/maximsaplin/googles-future-a-tale-of-two-ex-googlers-4i1o)
-- [Order-based Group Operations &lpar;I&rpar;](https://dev.to/esproc_spl/order-based-group-operations-i-1him)
-- [Oracle Linux Makinede Statik IP Adresi Nasıl Tanımlanır?](https://dev.to/aciklab/oracle-linux-makinede-statik-ip-adresi-nasil-tanimlanir-4d6a)
 <!-- BLOG-POST-LIST:END -->
 
