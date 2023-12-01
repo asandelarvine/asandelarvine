@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Bypass AI Content Detectors with Undetectable AI](https://dev.to/aiaddict/how-to-bypass-ai-content-detectors-with-undetectable-ai-148e)
+- [8 HIDDEN WEBSITES FOR PROGRAMMERS !!](https://dev.to/big_smoke/8-hidden-websites-for-programmers--1ioi)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-h04)
 - [Custom ordering without custom SQL with Ruby on Rails 7](https://dev.to/jetthoughts/custom-ordering-without-custom-sql-with-ruby-on-rails-7-33o)
-- [Creating a simple recoil script in Python](https://dev.to/vike256/creating-a-simple-recoil-script-in-python-3a8a)
-- [Document360 Vs Traditional Authoring Tools &lpar; DITA XML&rpar;](https://dev.to/ragavi_document360/document360-vs-traditional-authoring-tools-dita-xml-1a6i)
 <!-- BLOG-POST-LIST:END -->
 
