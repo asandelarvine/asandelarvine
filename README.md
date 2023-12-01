@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How To Create a Before and After Image Slider With Vanilla JavaScript](https://dev.to/daviduzondu/how-to-create-a-before-and-after-image-slider-with-vanilla-javascript-4n78)
 - [Optimizing data flow with the keep-unchanged-values library](https://dev.to/qostya/optimizing-data-flow-with-the-keep-unchanged-values-library-19c)
+- [CPAP Mask Maintenance: Tips for Prolonging Lifespan and Efficacy](https://dev.to/jamesred9567/cpap-mask-maintenance-tips-for-prolonging-lifespan-and-efficacy-17fm)
 - [CS50T 🖥️: Unveiling Tech - A Comprehensive Intro 🚀](https://dev.to/arjuncodess/cs50t-unveiling-tech-a-comprehensive-intro-2ba7)
-- [Google&#39;s Future: A Tale of Two Ex-Googlers](https://dev.to/maximsaplin/googles-future-a-tale-of-two-ex-googlers-4i1o)
 <!-- BLOG-POST-LIST:END -->
 
