@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from Starting an Open Source Project](https://dev.to/alexcurtisslep/lessons-from-starting-an-open-source-project-2g3l)
 - [Should I be hacking on the weekend?](https://dev.to/ebuckley/should-i-be-hacking-on-the-weekend-3kmb)
 - [A Year in Review: Celebrating the Virtual Coffee Community](https://dev.to/virtualcoffee/a-year-in-review-celebrating-the-virtual-coffee-community-4fgj)
 - [Does technology cause brain damage?](https://dev.to/durgesh4993/does-technology-cause-brain-damage-360a)
-- [Free Events in December 2023 to Help You Learn About the Cloud](https://dev.to/mlhacks/free-events-in-december-2023-to-help-you-learn-about-the-cloud-1hbm)
 <!-- BLOG-POST-LIST:END -->
 
