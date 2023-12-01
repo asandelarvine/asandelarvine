@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best way to learn a programming language](https://dev.to/nightdev/best-way-to-learn-a-programming-language-4223)
 - [Creating a Responsive Website Using HTML CSS and JavaScript](https://dev.to/codingcss/creating-a-responsive-website-using-html-css-and-javascript-2keg)
+- [Use Spotify made for Developers](https://dev.to/prometheus_78/using-spotify-made-for-developers-d28)
 - [What is FIDO? — The Future of Secure and Passwordless Authentication](https://dev.to/anurag_vishwakarma/what-is-fido-the-future-of-secure-and-passwordless-authentication-48j0)
-- [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
-- [onepoint au BDX/IO 2023](https://dev.to/onepoint/onepoint-au-bdxio-2023-3ag2)
 <!-- BLOG-POST-LIST:END -->
 
