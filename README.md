@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Does technology cause brain damage?](https://dev.to/durgesh4993/does-technology-cause-brain-damage-360a)
+- [Free Events in December 2023 to Help You Learn About the Cloud](https://dev.to/mlhacks/free-events-in-december-2023-to-help-you-learn-about-the-cloud-1hbm)
+- [Validating forms in React Apps with Zod](https://dev.to/guilhermecheng/validating-forms-in-react-apps-with-zod-2boh)
 - [AWS IAM POLICIES OVERVIEW](https://dev.to/aws-builders/aws-iam-policies-overview-89f)
-- [ECS Blue/Green deployment with CodeDeploy and Terraform](https://dev.to/aws-builders/ecs-bluegreen-deployment-with-codedeploy-and-terraform-3gf1)
-- [Recreating the Apple Calculator in Rust using Tauri, Yew and Tailwind](https://dev.to/maxtaylor/recreating-the-apple-calculator-in-rust-using-tauri-yew-and-tailwind-5akh)
-- [Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”](https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa)
 <!-- BLOG-POST-LIST:END -->
 
