@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Future: A Tale of Two Ex-Googlers](https://dev.to/maximsaplin/googles-future-a-tale-of-two-ex-googlers-4i1o)
+- [Order-based Group Operations &lpar;I&rpar;](https://dev.to/esproc_spl/order-based-group-operations-i-1him)
+- [Oracle Linux Makinede Statik IP Adresi Nasıl Tanımlanır?](https://dev.to/aciklab/oracle-linux-makinede-statik-ip-adresi-nasil-tanimlanir-4d6a)
 - [AI in Security: The Next Frontier for IT Professionals](https://dev.to/nikitakoselev/ai-in-security-the-next-frontier-for-it-professionals-3l1n)
-- [World AIDS Day: Together We Can Make a Difference | Quokka Labs](https://dev.to/dhruvjoshi9/world-aids-day-together-we-can-make-a-difference-quokka-labs-32l1)
-- [Ubuntu Makinede Statik IP Adresi Nasıl Tanımlanır?](https://dev.to/aciklab/ubuntu-makinede-statik-ip-adresi-nasil-tanimlanir-i1n)
-- [AWS Step Functions: Using the Wait State Type](https://dev.to/aws-builders/aws-step-functions-using-the-wait-state-type-1ab1)
 <!-- BLOG-POST-LIST:END -->
 
