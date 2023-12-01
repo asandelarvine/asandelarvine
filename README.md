@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSONSerializer meets Source Generators](https://dev.to/j0nimost/jsonserializer-meets-source-generators-1h0c)
-- [Mechanically Detecting Accessibility Violations](https://dev.to/hiro0218/mechanically-detecting-accessibility-violations-ja1)
-- [100 computer science concepts, you should know.](https://dev.to/chhunneng/100-computer-science-concepts-you-should-know-2pgk)
-- [Lessons from Starting an Open Source Project](https://dev.to/alexcurtisslep/lessons-from-starting-an-open-source-project-2g3l)
+- [AI in Security: The Next Frontier for IT Professionals](https://dev.to/nikitakoselev/ai-in-security-the-next-frontier-for-it-professionals-3l1n)
+- [World AIDS Day: Together We Can Make a Difference | Quokka Labs](https://dev.to/dhruvjoshi9/world-aids-day-together-we-can-make-a-difference-quokka-labs-32l1)
+- [Ubuntu Makinede Statik IP Adresi Nasıl Tanımlanır?](https://dev.to/aciklab/ubuntu-makinede-statik-ip-adresi-nasil-tanimlanir-i1n)
+- [AWS Step Functions: Using the Wait State Type](https://dev.to/aws-builders/aws-step-functions-using-the-wait-state-type-1ab1)
 <!-- BLOG-POST-LIST:END -->
 
