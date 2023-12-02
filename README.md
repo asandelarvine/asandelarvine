@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rank 2904 🚀 in Leetcode Contest](https://dev.to/craftingbugs/rank-2904-in-leetcode-contest-4136)
 - [Mastering JavaScript Screen Capture: Essential Tips for Taking Screenshots | JavaScript Projects](https://dev.to/codingcss/mastering-javascript-screen-capture-essential-tips-for-taking-screenshots-javascript-projects-3gp6)
-- [Build a Free and Easy Prompter&lpar;like ChatGPT&rpar; with Hugging Face Models in Just 8 Lines of Code 🚀💬🤖](https://dev.to/jagroop2001/build-a-free-and-easy-prompterlike-chatgpt-with-hugging-face-models-in-just-8-lines-of-code-2744)
-- [🤗 Welcome to DevLetter, the coolest tech newsletter!](https://dev.to/random_ti/welcome-to-devletter-the-coolest-tech-newsletter-ec2)
-- [String refs](https://dev.to/phuocng/string-refs-45d5)
+- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-1839)
+- [Docker - Setup a local JS and Python Development environment](https://dev.to/jagkush/docker-setup-a-local-js-and-python-development-environment-2ffc)
 <!-- BLOG-POST-LIST:END -->
 
