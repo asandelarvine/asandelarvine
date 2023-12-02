@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploy React Vite PWA to GitHub Pages](https://dev.to/iamfranco/deploy-react-vite-pwa-to-github-pages-35i)
+- [10 Cool CodePen Demos &lpar;November 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-november-2023-jj)
 - [Money or Passion?](https://dev.to/mcharytoniuk/money-or-passion-3h51)
 - [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
-- [How to get a job in front end development](https://dev.to/codewithshahan/how-to-get-a-job-in-front-end-development-19ea)
 <!-- BLOG-POST-LIST:END -->
 
