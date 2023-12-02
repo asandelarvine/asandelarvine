@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rank 2904 🚀 in Leetcode Contest](https://dev.to/craftingbugs/rank-2904-in-leetcode-contest-4136)
-- [Mastering JavaScript Screen Capture: Essential Tips for Taking Screenshots | JavaScript Projects](https://dev.to/codingcss/mastering-javascript-screen-capture-essential-tips-for-taking-screenshots-javascript-projects-3gp6)
-- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-1839)
-- [Docker - Setup a local JS and Python Development environment](https://dev.to/jagkush/docker-setup-a-local-js-and-python-development-environment-2ffc)
+- [C# - Struct Improvements in C# 10.0](https://dev.to/theramoliya/c-struct-improvements-in-c-100-4jgc)
+- [HTML: The Language That Shapes the Web](https://dev.to/anbhagat/html-the-language-that-shapes-the-web-223m)
+- [5 Productivity Tips for Programmers: Boost Your Workflow! 🚀💻](https://dev.to/arjuncodess/5-productivity-tips-for-programmers-boost-your-workflow-3j3e)
+- [JavaScript Coercion : Beyond Basics](https://dev.to/thefaisal/javascript-coercion-beyond-basics-al7)
 <!-- BLOG-POST-LIST:END -->
 
