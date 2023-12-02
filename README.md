@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to get motivated to code?](https://dev.to/nandinishinduja/how-to-get-motivated-to-code-3f6j)
 - [Project Two: Calendar](https://dev.to/valeriavg/project-two-calendar-3m1h)
 - [Mastering Responsive Design: A Frontend Developer&#39;s Guide](https://dev.to/omnathdubeyofficial/mastering-responsive-design-a-frontend-developers-guide-ome)
-- [Adding Smooth Animations to Diagrams in Draw.io](https://dev.to/ikhaledabdelfattah/adding-smooth-animations-to-diagrams-in-drawio-hjo)
+- [Pitching a Tech Book to a Publisher](https://dev.to/integerman/pitching-a-tech-book-to-a-publisher-4gg0)
 <!-- BLOG-POST-LIST:END -->
 
