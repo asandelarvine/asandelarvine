@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
+- [How to get a job in front end development](https://dev.to/codewithshahan/how-to-get-a-job-in-front-end-development-19ea)
+- [What is bind shell and reverse shell](https://dev.to/gpiechnik/what-is-bind-shell-and-reverse-shell-48i2)
 - [What is Forward Proxy and Reverse Proxy](https://dev.to/gpiechnik/what-is-forward-proxy-and-reverse-proxy-20c7)
-- [C# - Struct Improvements in C# 10.0](https://dev.to/theramoliya/c-struct-improvements-in-c-100-4jgc)
-- [HTML: The Language That Shapes the Web](https://dev.to/anbhagat/html-the-language-that-shapes-the-web-223m)
-- [5 Productivity Tips for Programmers: Boost Your Workflow! 🚀💻](https://dev.to/arjuncodess/5-productivity-tips-for-programmers-boost-your-workflow-3j3e)
 <!-- BLOG-POST-LIST:END -->
 
