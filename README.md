@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing Git Aliases: A Guide to Boosting Linux Productivity](https://dev.to/christianpaez/unleashing-git-aliases-a-guide-to-boosting-linux-productivity-3gb8)
+- [Containerization and System Design](https://dev.to/mukeshkuiry/containerization-and-system-design-4dmd)
 - [PreVue 3.0: Vue’s most visual prototyping tool yet](https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh)
 - [STORED PROCEDURE](https://dev.to/slcwill/stored-procedure-2307)
-- [Top 10 Essentials to Launch a Thriving Hosting Company](https://dev.to/abhineetraj1/top-10-essentials-to-launch-a-thriving-hosting-company-2ce9)
-- [How to Add/Embed Stream Chat to OBS Studio | Jan 2024](https://dev.to/alakkadshaw/how-to-addembed-stream-chat-to-obs-studio-jan-2024-23aa)
 <!-- BLOG-POST-LIST:END -->
 
