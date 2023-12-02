@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PreVue 3.0: Vue’s most visual prototyping tool yet](https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh)
+- [STORED PROCEDURE](https://dev.to/slcwill/stored-procedure-2307)
 - [Top 10 Essentials to Launch a Thriving Hosting Company](https://dev.to/abhineetraj1/top-10-essentials-to-launch-a-thriving-hosting-company-2ce9)
 - [How to Add/Embed Stream Chat to OBS Studio | Jan 2024](https://dev.to/alakkadshaw/how-to-addembed-stream-chat-to-obs-studio-jan-2024-23aa)
-- [API completa em Golang - Parte 1](https://dev.to/wiliamvj/api-completa-em-golang-parte-1-mah)
-- [Cloud Run - TypeScript boilerplate for getting started](https://dev.to/subfuzion/cloud-run-typescript-boilerplate-for-getting-started-4gco)
 <!-- BLOG-POST-LIST:END -->
 
