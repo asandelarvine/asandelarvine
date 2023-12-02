@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Top 10 Essentials to Launch a Thriving Hosting Company](https://dev.to/abhineetraj1/top-10-essentials-to-launch-a-thriving-hosting-company-2ce9)
 - [How to Add/Embed Stream Chat to OBS Studio | Jan 2024](https://dev.to/alakkadshaw/how-to-addembed-stream-chat-to-obs-studio-jan-2024-23aa)
 - [API completa em Golang - Parte 1](https://dev.to/wiliamvj/api-completa-em-golang-parte-1-mah)
-- [Understand web Accessibility: how to navigate on the web with disabilities &lpar;part 2&rpar;](https://dev.to/abdermaiza/understand-web-accessibility-how-to-navigate-on-the-web-with-disabilities-part-2-3j0f)
+- [Cloud Run - TypeScript boilerplate for getting started](https://dev.to/subfuzion/cloud-run-typescript-boilerplate-for-getting-started-4gco)
 <!-- BLOG-POST-LIST:END -->
 
