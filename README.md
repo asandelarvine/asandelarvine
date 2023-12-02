@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Essentials to Launch a Thriving Hosting Company](https://dev.to/abhineetraj1/top-10-essentials-to-launch-a-thriving-hosting-company-2ce9)
+- [How to Add/Embed Stream Chat to OBS Studio | Jan 2024](https://dev.to/alakkadshaw/how-to-addembed-stream-chat-to-obs-studio-jan-2024-23aa)
 - [API completa em Golang - Parte 1](https://dev.to/wiliamvj/api-completa-em-golang-parte-1-mah)
-- [Scanning ports and finding network vulnerabilities using nmap](https://dev.to/gpiechnik/scanning-ports-and-finding-network-vulnerabilities-using-nmap-17g2)
-- [gnu-on-alpine 3.18.5 and alpine-plus-plus 3.18.5 Released](https://dev.to/cicirello/gnu-on-alpine-3185-and-alpine-plus-plus-3185-released-2m4o)
-- [How to Integrate Neo4j with OpenAI&#39;s GPT Assistants](https://dev.to/stephenc222/how-to-integrate-neo4j-with-openais-gpt-assistants-2mm)
+- [Understand web Accessibility: how to navigate on the web with disabilities &lpar;part 2&rpar;](https://dev.to/abdermaiza/understand-web-accessibility-how-to-navigate-on-the-web-with-disabilities-part-2-3j0f)
 <!-- BLOG-POST-LIST:END -->
 
