@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Forward Proxy and Reverse Proxy](https://dev.to/gpiechnik/what-is-forward-proxy-and-reverse-proxy-20c7)
 - [C# - Struct Improvements in C# 10.0](https://dev.to/theramoliya/c-struct-improvements-in-c-100-4jgc)
 - [HTML: The Language That Shapes the Web](https://dev.to/anbhagat/html-the-language-that-shapes-the-web-223m)
 - [5 Productivity Tips for Programmers: Boost Your Workflow! 🚀💻](https://dev.to/arjuncodess/5-productivity-tips-for-programmers-boost-your-workflow-3j3e)
-- [JavaScript Coercion : Beyond Basics](https://dev.to/thefaisal/javascript-coercion-beyond-basics-al7)
 <!-- BLOG-POST-LIST:END -->
 
