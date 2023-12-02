@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to get motivated to code?](https://dev.to/nandinishinduja/how-to-get-motivated-to-code-3f6j)
+- [Project Two: Calendar](https://dev.to/valeriavg/project-two-calendar-3m1h)
 - [Mastering Responsive Design: A Frontend Developer&#39;s Guide](https://dev.to/omnathdubeyofficial/mastering-responsive-design-a-frontend-developers-guide-ome)
 - [Adding Smooth Animations to Diagrams in Draw.io](https://dev.to/ikhaledabdelfattah/adding-smooth-animations-to-diagrams-in-drawio-hjo)
-- [Ring Shopping 101: How to Find the Right Fit and Style for Your Bride](https://dev.to/richardharrisonqa/ring-shopping-101-how-to-find-the-right-fit-and-style-for-your-bride-3831)
 <!-- BLOG-POST-LIST:END -->
 
