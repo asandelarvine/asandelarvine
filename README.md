@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Free and Easy Prompter&lpar;like ChatGPT&rpar; with Hugging Face Models in Just 8 Lines of Code 🚀💬🤖](https://dev.to/jagroop2001/build-a-free-and-easy-prompterlike-chatgpt-with-hugging-face-models-in-just-8-lines-of-code-2744)
 - [🤗 Welcome to DevLetter, the coolest tech newsletter!](https://dev.to/random_ti/welcome-to-devletter-the-coolest-tech-newsletter-ec2)
 - [String refs](https://dev.to/phuocng/string-refs-45d5)
 - [Optimizing Ruby on Rails Serializers: Efficient Hash Unpacking in Serializer](https://dev.to/erados/optimizing-ruby-on-rails-serializers-efficient-hash-unpacking-in-serializer-4a0f)
-- [How to get motivated to code?](https://dev.to/nandinishinduja/how-to-get-motivated-to-code-3f6j)
 <!-- BLOG-POST-LIST:END -->
 
