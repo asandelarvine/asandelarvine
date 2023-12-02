@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy React Vite PWA to GitHub Pages](https://dev.to/iamfranco/deploy-react-vite-pwa-to-github-pages-35i)
+- [Money or Passion?](https://dev.to/mcharytoniuk/money-or-passion-3h51)
 - [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
 - [How to get a job in front end development](https://dev.to/codewithshahan/how-to-get-a-job-in-front-end-development-19ea)
-- [What is bind shell and reverse shell](https://dev.to/gpiechnik/what-is-bind-shell-and-reverse-shell-48i2)
-- [What is Forward Proxy and Reverse Proxy](https://dev.to/gpiechnik/what-is-forward-proxy-and-reverse-proxy-20c7)
 <!-- BLOG-POST-LIST:END -->
 
