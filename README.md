@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Fixed GitHub&#39;s Repo Traffic Insights 🛠️ 📊](https://dev.to/repohistory/how-i-fixed-githubs-repo-traffic-insights-3721)
 - [JavaScript fundamentals before learning React](https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1)
 - [Why getting token from &#39;header&#39; is more secure](https://dev.to/vishalkandu01/why-getting-token-from-header-is-more-secure-7p3)
 - [My side-project made &gt;$2k in 72 hours. In pre-orders only!](https://dev.to/danmindru/my-side-project-made-2k-in-72-hours-in-pre-orders-only-10ge)
-- [Using :has as a previous sibling selector](https://dev.to/nicm42/using-has-as-a-previous-sibling-selector-4g83)
 <!-- BLOG-POST-LIST:END -->
 
