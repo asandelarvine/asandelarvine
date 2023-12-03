@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Interview Questions: Kubernetes Components](https://dev.to/tutunak/kubernetes-interview-questions-kubernetes-components-1lge)
+- [Responsive Personal Portfolio Website using HTML &amp; CSS](https://dev.to/codingcss/responsive-personal-portfolio-website-using-html-css-3ble)
 - [The Cloud and System Design](https://dev.to/mukeshkuiry/the-cloud-and-system-design-3cml)
 - [Spring Boot Monitoring with Open-Source Tools](https://dev.to/signoz/spring-boot-monitoring-with-open-source-tools-4na9)
-- [Why learn Web Accessibility?](https://dev.to/fran8zucolota/why-learn-web-accessibility-15h0)
-- [My top picks of re:Invent 2023](https://dev.to/aws/my-top-picks-of-reinvent-2023-ie1)
 <!-- BLOG-POST-LIST:END -->
 
