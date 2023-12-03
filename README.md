@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Interview Questions: Kubernetes Components](https://dev.to/tutunak/kubernetes-interview-questions-kubernetes-components-1lge)
-- [Responsive Personal Portfolio Website using HTML &amp; CSS](https://dev.to/codingcss/responsive-personal-portfolio-website-using-html-css-3ble)
-- [The Cloud and System Design](https://dev.to/mukeshkuiry/the-cloud-and-system-design-3cml)
-- [Spring Boot Monitoring with Open-Source Tools](https://dev.to/signoz/spring-boot-monitoring-with-open-source-tools-4na9)
+- [Using :has as a previous sibling selector](https://dev.to/nicm42/using-has-as-a-previous-sibling-selector-4g83)
+- [Weekly reading digest #16](https://dev.to/rubenrubiob/weekly-reading-digest-16-5fe4)
+- [Decoding the challenge of business urgency and engineering rigor](https://dev.to/marrek13/decoding-the-challenge-of-business-urgency-and-engineering-rigor-892)
+- [URL Redirection Using API Gateway](https://dev.to/aws-builders/url-redirection-using-api-gateway-5b93)
 <!-- BLOG-POST-LIST:END -->
 
