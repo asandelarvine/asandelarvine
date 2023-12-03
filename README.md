@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why SQL still leads of others?](https://dev.to/akashpattnaik/why-sql-still-leads-of-others-529)
-- [How to beat impostor syndrome as a software developer?](https://dev.to/nandinishinduja/how-to-beat-impostor-syndrome-as-a-software-developer-2f9n)
-- [React Hook: useElementDimensions](https://dev.to/perssondennis/react-hook-useelementdimensions-42cl)
-- [PIXART-α : First Open Source Rival to Midjourney - Better Than Stable Diffusion SDXL - Full Tutorial](https://dev.to/furkangozukara/pixart-a-first-open-source-rival-to-midjourney-better-than-stable-diffusion-sdxl-full-tutorial-2nga)
+- [Pros and Cons of Remote Work](https://dev.to/nandinishinduja/pros-and-cons-of-remote-work-2dl0)
+- [re:Invent 2023](https://dev.to/aws-builders/reinvent-2023-2145)
+- [Side hustles for programmers](https://dev.to/codewithshahan/side-hustles-for-programmers-1pga)
+- [Z-Index Trick You Might Not Know 🚀](https://dev.to/0ro/z-index-trick-you-might-not-know-4ih2)
 <!-- BLOG-POST-LIST:END -->
 
