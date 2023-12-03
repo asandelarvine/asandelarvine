@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Monitoring with Open-Source Tools](https://dev.to/signoz/spring-boot-monitoring-with-open-source-tools-4na9)
+- [Why learn Web Accessibility?](https://dev.to/fran8zucolota/why-learn-web-accessibility-15h0)
+- [My top picks of re:Invent 2023](https://dev.to/aws/my-top-picks-of-reinvent-2023-ie1)
 - [The Easiest Way to Create a REST API With Go](https://dev.to/calvinmclean/the-easiest-way-to-create-a-rest-api-with-go-20bo)
-- [Can Problem-Solving Unlock Your Path to Happiness?](https://dev.to/devteam/can-problem-solving-unlock-your-path-to-happiness-52a0)
-- [Under Pressure: Benchmarking Node.js on a Single-Core EC2](https://dev.to/ocodista/under-pressure-benchmarking-nodejs-on-a-single-core-ec2-5ghe)
-- [A Beginners Guide to HTML](https://dev.to/knowicki024/a-beginners-guide-to-html-145j)
 <!-- BLOG-POST-LIST:END -->
 
