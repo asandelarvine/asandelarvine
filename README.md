@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Easiest Way to Create a REST API With Go](https://dev.to/calvinmclean/the-easiest-way-to-create-a-rest-api-with-go-20bo)
+- [Can Problem-Solving Unlock Your Path to Happiness?](https://dev.to/devteam/can-problem-solving-unlock-your-path-to-happiness-52a0)
+- [Under Pressure: Benchmarking Node.js on a Single-Core EC2](https://dev.to/ocodista/under-pressure-benchmarking-nodejs-on-a-single-core-ec2-5ghe)
 - [A Beginners Guide to HTML](https://dev.to/knowicki024/a-beginners-guide-to-html-145j)
-- [Deploy React Vite PWA to GitHub Pages](https://dev.to/iamfranco/deploy-react-vite-pwa-to-github-pages-35i)
-- [How cybercriminals steal your passwords by listening to your keyboard 🕵️‍♀️ 💁‍♀️](https://dev.to/stacy-roll/how-cybercriminals-steal-your-passwords-by-listening-to-your-keyboard-4p1p)
-- [10 Cool CodePen Demos &lpar;November 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-november-2023-jj)
 <!-- BLOG-POST-LIST:END -->
 
