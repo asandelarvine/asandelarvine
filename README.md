@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Fazer Restore do MongoDB usando mongorestore com Arquivos wiredTriger](https://dev.to/renanbastos93/como-fazer-restore-do-mongodb-usando-mongorestore-com-arquivos-wiredtriger-47af)
 - [ReactJs Course for Beginners](https://dev.to/evansifyke/reactjs-course-for-beginners-3mo8)
+- [Observer Pattern for Beginners](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64)
 - [Don&#39;t worry, I&#39;ve not given up!](https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1)
-- [Pros and Cons of Remote Work](https://dev.to/nandinishinduja/pros-and-cons-of-remote-work-2dl0)
-- [Designing with PHP 8.1 Enumerations](https://dev.to/stefanofago73/designing-with-php-81-enumerations-33o8)
 <!-- BLOG-POST-LIST:END -->
 
