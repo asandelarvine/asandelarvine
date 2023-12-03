@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript fundamentals before learning React](https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1)
+- [Why getting token from &#39;header&#39; is more secure](https://dev.to/vishalkandu01/why-getting-token-from-header-is-more-secure-7p3)
+- [My side-project made &gt;$2k in 72 hours. In pre-orders only!](https://dev.to/danmindru/my-side-project-made-2k-in-72-hours-in-pre-orders-only-10ge)
 - [Using :has as a previous sibling selector](https://dev.to/nicm42/using-has-as-a-previous-sibling-selector-4g83)
-- [Weekly reading digest #16](https://dev.to/rubenrubiob/weekly-reading-digest-16-5fe4)
-- [Decoding the challenge of business urgency and engineering rigor](https://dev.to/marrek13/decoding-the-challenge-of-business-urgency-and-engineering-rigor-892)
-- [URL Redirection Using API Gateway](https://dev.to/aws-builders/url-redirection-using-api-gateway-5b93)
 <!-- BLOG-POST-LIST:END -->
 
