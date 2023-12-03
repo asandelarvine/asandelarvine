@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Migration of a Multiplayer Game from Hosted to Serverless](https://dev.to/florianrappl/migration-of-a-multiplayer-game-from-hosted-to-serverless-2c6o)
+- [Which are the best websites for teens and college students to earn money online?](https://dev.to/mrmijanjoy/which-are-the-best-websites-for-teens-and-college-students-to-earn-money-online-2578)
+- [0 to 1, working in a startup as Software Engineer](https://dev.to/ponikar/0-to-1-working-in-a-startup-as-software-engineer-4jlp)
 - [Terminal Multiplexing with TMux in Linux](https://dev.to/itsvinayak/terminal-multiplexing-with-tmux-in-linux-59mh)
-- [Como Fazer Restore do MongoDB usando mongorestore com Arquivos wiredTriger](https://dev.to/renanbastos93/como-fazer-restore-do-mongodb-usando-mongorestore-com-arquivos-wiredtriger-47af)
-- [ReactJs Course for Beginners](https://dev.to/evansifyke/reactjs-course-for-beginners-3mo8)
-- [Observer Pattern for Beginners](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64)
 <!-- BLOG-POST-LIST:END -->
 
