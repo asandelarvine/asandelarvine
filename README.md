@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ReactJs Course for Beginners](https://dev.to/evansifyke/reactjs-course-for-beginners-3mo8)
+- [Don&#39;t worry, I&#39;ve not given up!](https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1)
 - [Pros and Cons of Remote Work](https://dev.to/nandinishinduja/pros-and-cons-of-remote-work-2dl0)
-- [re:Invent 2023](https://dev.to/aws-builders/reinvent-2023-2145)
-- [Side hustles for programmers](https://dev.to/codewithshahan/side-hustles-for-programmers-1pga)
-- [Z-Index Trick You Might Not Know 🚀](https://dev.to/0ro/z-index-trick-you-might-not-know-4ih2)
+- [Designing with PHP 8.1 Enumerations](https://dev.to/stefanofago73/designing-with-php-81-enumerations-33o8)
 <!-- BLOG-POST-LIST:END -->
 
