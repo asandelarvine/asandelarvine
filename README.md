@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginners Guide to HTML](https://dev.to/knowicki024/a-beginners-guide-to-html-145j)
 - [Deploy React Vite PWA to GitHub Pages](https://dev.to/iamfranco/deploy-react-vite-pwa-to-github-pages-35i)
+- [How cybercriminals steal your passwords by listening to your keyboard 🕵️‍♀️ 💁‍♀️](https://dev.to/stacy-roll/how-cybercriminals-steal-your-passwords-by-listening-to-your-keyboard-4p1p)
 - [10 Cool CodePen Demos &lpar;November 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-november-2023-jj)
-- [Money or Passion?](https://dev.to/mcharytoniuk/money-or-passion-3h51)
-- [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
 <!-- BLOG-POST-LIST:END -->
 
