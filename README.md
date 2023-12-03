@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yet Another Newsletter LOL: Const is the GOAT](https://dev.to/nickytonline/yet-another-newsletter-lol-const-is-the-goat-4kk8)
-- [Save 500+ Hours of Maintenance Work With These 3 GitHub Actions](https://dev.to/flipt/save-500-hours-of-maintenance-work-with-these-3-github-actions-2nm3)
-- [5 Tools Every Programmer Must Use &lpar;10X Profits!&rpar; 🔥](https://dev.to/arjuncodess/5-tools-every-programmer-must-use-10x-profits-4pkc)
-- [How I Fixed GitHub&#39;s Repo Traffic Insights 🛠️ 📊](https://dev.to/repohistory/how-i-fixed-githubs-repo-traffic-insights-3721)
+- [Why SQL still leads of others?](https://dev.to/akashpattnaik/why-sql-still-leads-of-others-529)
+- [How to beat impostor syndrome as a software developer?](https://dev.to/nandinishinduja/how-to-beat-impostor-syndrome-as-a-software-developer-2f9n)
+- [React Hook: useElementDimensions](https://dev.to/perssondennis/react-hook-useelementdimensions-42cl)
+- [PIXART-α : First Open Source Rival to Midjourney - Better Than Stable Diffusion SDXL - Full Tutorial](https://dev.to/furkangozukara/pixart-a-first-open-source-rival-to-midjourney-better-than-stable-diffusion-sdxl-full-tutorial-2nga)
 <!-- BLOG-POST-LIST:END -->
 
