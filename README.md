@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Const is the GOAT](https://dev.to/nickytonline/yet-another-newsletter-lol-const-is-the-goat-4kk8)
 - [Save 500+ Hours of Maintenance Work With These 3 GitHub Actions](https://dev.to/flipt/save-500-hours-of-maintenance-work-with-these-3-github-actions-2nm3)
 - [5 Tools Every Programmer Must Use &lpar;10X Profits!&rpar; 🔥](https://dev.to/arjuncodess/5-tools-every-programmer-must-use-10x-profits-4pkc)
 - [How I Fixed GitHub&#39;s Repo Traffic Insights 🛠️ 📊](https://dev.to/repohistory/how-i-fixed-githubs-repo-traffic-insights-3721)
-- [JavaScript fundamentals before learning React](https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1)
 <!-- BLOG-POST-LIST:END -->
 
