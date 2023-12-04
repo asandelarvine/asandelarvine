@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which language should you learn first in 2024?](https://dev.to/codewithshahan/which-language-should-i-learn-first-in-2024-4koa)
-- [24 Pull Requests: A Holiday Tradition for Open Source Contributors](https://dev.to/sarveshk76/24-pull-requests-a-holiday-tradition-for-open-source-contributors-465h)
-- [Best resources to learn web development](https://dev.to/nandinishinduja/best-resources-to-learn-web-development-3l6g)
-- [O que é o método .split&lpar; &rpar; e como podemos manipular nossas strings utilizando ele](https://dev.to/luks_borges/o-que-e-o-metodo-split-e-como-podemos-manipular-nossas-strings-utilizando-ele-57bj)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jbm)
+- [Auto scaling Node.js applications with PM2 and pm2-autoscale module](https://dev.to/vexell/auto-scaling-nodejs-applications-with-pm2-and-pm2-autoscale-module-60h)
+- [6 🔥 Awesome Golang packages &lpar;web devs&rpar;](https://dev.to/kwnaidoo/5-awesome-golang-packages-web-devs-5ekd)
+- [Which language should you learn first?](https://dev.to/codewithshahan/which-language-should-i-learn-first-in-2024-4koa)
 <!-- BLOG-POST-LIST:END -->
 
