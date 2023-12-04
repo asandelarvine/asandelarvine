@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding Odyssey: Embarking on a Matrix Adventure with Go](https://dev.to/angeljrp/coding-odyssey-embarking-on-a-matrix-adventure-with-go-5bl3)
+- [🚀Clean Code y buenas prácticas con JavaScript - Cómo nombrar variables, funciones y clases de forma autodescriptiva](https://dev.to/vancorcodes/clean-code-y-buenas-practicas-con-javascript-como-nombrar-variables-funciones-y-clases-de-forma-autodescriptiva-4f19)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jbm)
 - [Auto scaling Node.js applications with PM2 and pm2-autoscale module](https://dev.to/vexell/auto-scaling-nodejs-applications-with-pm2-and-pm2-autoscale-module-60h)
-- [6 🔥 Awesome Golang packages &lpar;web devs&rpar;](https://dev.to/kwnaidoo/5-awesome-golang-packages-web-devs-5ekd)
-- [Which language should you learn first?](https://dev.to/codewithshahan/which-language-should-i-learn-first-in-2024-4koa)
 <!-- BLOG-POST-LIST:END -->
 
