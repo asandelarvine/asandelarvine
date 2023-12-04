@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Internal developer portals aren&#39;t a silver bullet for platform engineering](https://dev.to/gitpod/internal-developer-portals-arent-a-silver-bullet-for-platform-engineering-3h8b)
+- [Use jest.fakeTimers correctly](https://dev.to/rbeier/use-jestfaketimers-correctly-2nd)
 - [Using Unblocked to Fix a Service That Nobody Owns](https://dev.to/johnjvester/using-unblocked-to-fix-a-service-that-nobody-owns-1df)
 - [SAP Analytics Cloud Analytic Application](https://dev.to/edenwheeler/sap-analytics-cloud-analytic-application-1j1f)
-- [100+ GitHub Repos that created Awesome Lists: A Curated Collection](https://dev.to/themeselection/100-github-repos-that-created-awesome-lists-a-curated-collection-p06)
-- [Letʼs enhance our forms](https://dev.to/craft-code/lets-enhance-our-forms-2i7p)
 <!-- BLOG-POST-LIST:END -->
 
