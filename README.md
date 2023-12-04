@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Top 5 Killer Websites for Developers😎](https://dev.to/dev_kiran/top-5-killer-websites-for-developers-2knm)
-- [Comprehensive Guide to Integrating the Upsales API: Streamlining Sales and Marketing Operations](https://dev.to/agarralexx/comprehensive-guide-to-integrating-the-upsales-api-streamlining-sales-and-marketing-operations-1beg)
-- [Magic of Template Literals in JavaScript](https://dev.to/muhammedshameel/magic-of-template-literals-in-javascript-omo)
-- [Assigning default properties efficiently with Defu](https://dev.to/jacobandrewsky/assigning-default-properties-efficiently-with-defu-2in2)
+- [Using Unblocked to Fix a Service That Nobody Owns](https://dev.to/johnjvester/using-unblocked-to-fix-a-service-that-nobody-owns-1df)
+- [SAP Analytics Cloud Analytic Application](https://dev.to/edenwheeler/sap-analytics-cloud-analytic-application-1j1f)
+- [100+ GitHub Repos that created Awesome Lists: A Curated Collection](https://dev.to/themeselection/100-github-repos-that-created-awesome-lists-a-curated-collection-p06)
+- [Letʼs enhance our forms](https://dev.to/craft-code/lets-enhance-our-forms-2i7p)
 <!-- BLOG-POST-LIST:END -->
 
