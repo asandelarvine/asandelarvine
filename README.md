@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-12c9)
-- [✨ 7 AI Libraries EVERY Dev Needs to Know &lpar;to be a wiz&rpar;🧙‍♂️ 🪄](https://dev.to/copilotkit/7-ai-libraries-every-dev-needs-to-know-to-be-a-wiz-4lim)
-- [FLaNK Stack for 04 December 2023](https://dev.to/tspannhw/flank-stack-for-04-december-2023-3jbf)
-- [ES6 Map &amp; Set](https://dev.to/nwcassiani/es6-map-set-22di)
+- [100 Bucket List Ideas for Programmers](https://dev.to/syki/100-bucket-list-ideas-for-programmers-506m)
+- [Programming paths for different kinds of people](https://dev.to/nandinishinduja/programming-paths-for-different-kinds-of-people-lo5)
+- [Docusaurus Site Search Plugin](https://dev.to/alakkadshaw/docusaurus-site-search-plugin-2cp)
+- [Tech-related goals for 2024](https://dev.to/nandinishinduja/tech-related-goals-for-2024-4gbb)
 <!-- BLOG-POST-LIST:END -->
 
