@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best resources to learn web development](https://dev.to/nandinishinduja/best-resources-to-learn-web-development-3l6g)
 - [SQL Commands that every Developer should know](https://dev.to/nandinishinduja/sql-commands-that-every-developer-should-know-5126)
 - [100 Bucket List Ideas for Programmers](https://dev.to/syki/100-bucket-list-ideas-for-programmers-506m)
 - [Programming paths for different kinds of people](https://dev.to/nandinishinduja/programming-paths-for-different-kinds-of-people-lo5)
-- [Docusaurus Site Search Plugin](https://dev.to/alakkadshaw/docusaurus-site-search-plugin-2cp)
 <!-- BLOG-POST-LIST:END -->
 
