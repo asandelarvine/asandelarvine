@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Go Cloud?](https://dev.to/hasanelsherbiny/why-you-should-go-cloud-3f72)
 - [Earn Millions By 5G and Mobile App Development](https://dev.to/dhruvjoshi9/earn-billions-by-5g-and-mobile-app-development-2aip)
 - [Key Takeaways from AWS re:Invent 2023](https://dev.to/aditmodi/key-takeaways-from-aws-reinvent-2023-31cj)
-- [Virtual Host Setup with SSL Certificate in Your Localhost](https://dev.to/rubab2020/virtual-host-setup-with-ssl-certificate-in-your-localhost-4mca)
-- [Containerize a Web Application using docker compose](https://dev.to/jankaritech/containerize-a-web-application-using-docker-compose-255a)
+- [[Java] How to Insert Line Breaks in a String](https://dev.to/hiro0218/java-how-to-insert-line-breaks-in-a-string-5dfn)
 <!-- BLOG-POST-LIST:END -->
 
