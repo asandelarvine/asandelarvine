@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Earn Millions By 5G and Mobile App Development](https://dev.to/dhruvjoshi9/earn-billions-by-5g-and-mobile-app-development-2aip)
+- [Key Takeaways from AWS re:Invent 2023](https://dev.to/aditmodi/key-takeaways-from-aws-reinvent-2023-31cj)
 - [Virtual Host Setup with SSL Certificate in Your Localhost](https://dev.to/rubab2020/virtual-host-setup-with-ssl-certificate-in-your-localhost-4mca)
 - [Containerize a Web Application using docker compose](https://dev.to/jankaritech/containerize-a-web-application-using-docker-compose-255a)
-- [Unlocking the Power of Backend Development: A Comprehensive Guide](https://dev.to/rohanjavadev/unlocking-the-power-of-backend-development-a-comprehensive-guide-23m8)
-- [Steps to find a good developer for your Inventree project](https://dev.to/lenina59400/steps-to-find-a-good-developer-for-your-inventree-project-17f4)
 <!-- BLOG-POST-LIST:END -->
 
