@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Which language should you learn first in 2024?](https://dev.to/codewithshahan/which-language-should-i-learn-first-in-2024-4koa)
+- [24 Pull Requests: A Holiday Tradition for Open Source Contributors](https://dev.to/sarveshk76/24-pull-requests-a-holiday-tradition-for-open-source-contributors-465h)
 - [Best resources to learn web development](https://dev.to/nandinishinduja/best-resources-to-learn-web-development-3l6g)
-- [SQL Commands that every Developer should know](https://dev.to/nandinishinduja/sql-commands-that-every-developer-should-know-5126)
-- [100 Bucket List Ideas for Programmers](https://dev.to/syki/100-bucket-list-ideas-for-programmers-506m)
-- [Programming paths for different kinds of people](https://dev.to/nandinishinduja/programming-paths-for-different-kinds-of-people-lo5)
+- [O que é o método .split&lpar; &rpar; e como podemos manipular nossas strings utilizando ele](https://dev.to/luks_borges/o-que-e-o-metodo-split-e-como-podemos-manipular-nossas-strings-utilizando-ele-57bj)
 <!-- BLOG-POST-LIST:END -->
 
