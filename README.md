@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
+- [Top 5 Remote Support Software Solutions &lpar;Free &amp; Paid&rpar;](https://dev.to/paraskevans/top-5-remote-support-software-solutions-free-paid-455f)
 - [Advanced Value Objects in PHP 8](https://dev.to/cnastasi/advanced-value-objects-in-php-8-1lp0)
 - [Advent of Code Automation for Javascript/Typescript](https://dev.to/this-is-learning/advent-of-code-automation-for-javascripttypescript-4111)
-- [Learn Resend in 2 hours — Full course 4k 2023](https://dev.to/guillaumeduhan/learn-resend-in-2-hours-full-course-4k-2023-4gc7)
 <!-- BLOG-POST-LIST:END -->
 
