@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥Top 5 Killer Websites for Developers😎](https://dev.to/dev_kiran/top-5-killer-websites-for-developers-2knm)
+- [Comprehensive Guide to Integrating the Upsales API: Streamlining Sales and Marketing Operations](https://dev.to/agarralexx/comprehensive-guide-to-integrating-the-upsales-api-streamlining-sales-and-marketing-operations-1beg)
 - [Magic of Template Literals in JavaScript](https://dev.to/muhammedshameel/magic-of-template-literals-in-javascript-omo)
-- [Weekly Roundup 029 &lpar;Nov 27&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-029-nov-27-hot-topics-in-workplace-sharepoint-and-powerplatform-f26)
-- [Why You Should Go Cloud?](https://dev.to/hasanelsherbiny/why-you-should-go-cloud-3f72)
-- [Read Only Sharing in Power Automate](https://dev.to/wyattdave/read-only-sharing-in-power-automate-32hl)
+- [Assigning default properties efficiently with Defu](https://dev.to/jacobandrewsky/assigning-default-properties-efficiently-with-defu-2in2)
 <!-- BLOG-POST-LIST:END -->
 
