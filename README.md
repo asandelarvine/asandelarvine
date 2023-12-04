@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Host Setup with SSL Certificate in Your Localhost](https://dev.to/rubab2020/virtual-host-setup-with-ssl-certificate-in-your-localhost-4mca)
+- [Containerize a Web Application using docker compose](https://dev.to/jankaritech/containerize-a-web-application-using-docker-compose-255a)
+- [Frequently Asked Questions about Swimming Ear Plugs Answered](https://dev.to/theresagruwellqa/frequently-asked-questions-about-swimming-ear-plugs-answered-1i56)
 - [Understanding J1939 SAE Protocol: The Complete Guide to Communication in Commercial Vehicles](https://dev.to/arvind_b_n_luxoft/understanding-j1939-sae-protocol-the-complete-guide-to-communication-in-commercial-vehicles-3a8)
-- [Transitioning from Docker to Podman: Navigating Challenges and Practical Solutions](https://dev.to/pdrocaldeira/transitioning-from-docker-to-podman-navigating-challenges-and-practical-solutions-2l3g)
-- [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
-- [Top 5 Remote Support Software Solutions &lpar;Free &amp; Paid&rpar;](https://dev.to/paraskevans/top-5-remote-support-software-solutions-free-paid-455f)
 <!-- BLOG-POST-LIST:END -->
 
