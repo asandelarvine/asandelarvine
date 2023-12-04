@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic of Template Literals in JavaScript](https://dev.to/muhammedshameel/magic-of-template-literals-in-javascript-omo)
 - [Weekly Roundup 029 &lpar;Nov 27&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-029-nov-27-hot-topics-in-workplace-sharepoint-and-powerplatform-f26)
 - [Why You Should Go Cloud?](https://dev.to/hasanelsherbiny/why-you-should-go-cloud-3f72)
 - [Read Only Sharing in Power Automate](https://dev.to/wyattdave/read-only-sharing-in-power-automate-32hl)
-- [Earn Millions By 5G and Mobile App Development](https://dev.to/dhruvjoshi9/earn-billions-by-5g-and-mobile-app-development-2aip)
 <!-- BLOG-POST-LIST:END -->
 
