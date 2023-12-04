@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Virtual Host Setup with SSL Certificate in Your Localhost](https://dev.to/rubab2020/virtual-host-setup-with-ssl-certificate-in-your-localhost-4mca)
 - [Containerize a Web Application using docker compose](https://dev.to/jankaritech/containerize-a-web-application-using-docker-compose-255a)
-- [Frequently Asked Questions about Swimming Ear Plugs Answered](https://dev.to/theresagruwellqa/frequently-asked-questions-about-swimming-ear-plugs-answered-1i56)
-- [Understanding J1939 SAE Protocol: The Complete Guide to Communication in Commercial Vehicles](https://dev.to/arvind_b_n_luxoft/understanding-j1939-sae-protocol-the-complete-guide-to-communication-in-commercial-vehicles-3a8)
+- [Unlocking the Power of Backend Development: A Comprehensive Guide](https://dev.to/rohanjavadev/unlocking-the-power-of-backend-development-a-comprehensive-guide-23m8)
+- [Steps to find a good developer for your Inventree project](https://dev.to/lenina59400/steps-to-find-a-good-developer-for-your-inventree-project-17f4)
 <!-- BLOG-POST-LIST:END -->
 
