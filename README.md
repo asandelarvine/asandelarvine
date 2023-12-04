@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Internal developer portals aren&#39;t a silver bullet for platform engineering](https://dev.to/gitpod/internal-developer-portals-arent-a-silver-bullet-for-platform-engineering-3h8b)
-- [Use jest.fakeTimers correctly](https://dev.to/rbeier/use-jestfaketimers-correctly-2nd)
-- [Using Unblocked to Fix a Service That Nobody Owns](https://dev.to/johnjvester/using-unblocked-to-fix-a-service-that-nobody-owns-1df)
-- [SAP Analytics Cloud Analytic Application](https://dev.to/edenwheeler/sap-analytics-cloud-analytic-application-1j1f)
+- [The Impact of Tech Layoffs: A Personal Story](https://dev.to/coffeecraftcode/the-impact-of-tech-layoffs-a-personal-story-13ie)
+- [Building a web app backend in Go &lpar;with PostgreSQL database&rpar; in &lt;100 lines](https://dev.to/encore/building-a-web-app-backend-in-go-with-postgresql-database-in-100-lines-53j2)
+- [How to apply reverse proxy over websocket](https://dev.to/justlorain/how-to-apply-reverse-proxy-over-websocket-27ml)
+- [Top 12 interview question for a React Developer](https://dev.to/brdnicolas/top-12-interview-question-for-a-react-developer-34f1)
 <!-- BLOG-POST-LIST:END -->
 
