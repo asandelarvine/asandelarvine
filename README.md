@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Commands that every Developer should know](https://dev.to/nandinishinduja/sql-commands-that-every-developer-should-know-5126)
 - [100 Bucket List Ideas for Programmers](https://dev.to/syki/100-bucket-list-ideas-for-programmers-506m)
 - [Programming paths for different kinds of people](https://dev.to/nandinishinduja/programming-paths-for-different-kinds-of-people-lo5)
 - [Docusaurus Site Search Plugin](https://dev.to/alakkadshaw/docusaurus-site-search-plugin-2cp)
-- [Tech-related goals for 2024](https://dev.to/nandinishinduja/tech-related-goals-for-2024-4gbb)
 <!-- BLOG-POST-LIST:END -->
 
