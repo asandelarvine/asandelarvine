@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Tech Layoffs: A Personal Story](https://dev.to/coffeecraftcode/the-impact-of-tech-layoffs-a-personal-story-13ie)
-- [Building a web app backend in Go &lpar;with PostgreSQL database&rpar; in &lt;100 lines](https://dev.to/encore/building-a-web-app-backend-in-go-with-postgresql-database-in-100-lines-53j2)
-- [How to apply reverse proxy over websocket](https://dev.to/justlorain/how-to-apply-reverse-proxy-over-websocket-27ml)
-- [Top 12 interview question for a React Developer](https://dev.to/brdnicolas/top-12-interview-question-for-a-react-developer-34f1)
+- [ES6 Map &amp; Set](https://dev.to/nwcassiani/es6-map-set-22di)
+- [Eslint &amp; Prettier Configuration React Native&lpar;Airbnb Style&rpar;](https://dev.to/ajmal_hasan/eslint-prettier-configuration-react-nativeairbnb-style-3mao)
+- [AI/ML](https://dev.to/bhupendrajogi/aiml-355o)
+- [Significant Guidelines All Programmers Should Adhere To](https://dev.to/dhanushnehru/significant-guidelines-all-programmers-should-adhere-to-3bd1)
 <!-- BLOG-POST-LIST:END -->
 
