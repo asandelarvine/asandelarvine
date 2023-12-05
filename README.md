@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SPL understanding and Open Source](https://dev.to/francescoxx/spl-understanding-and-open-source-1ep2)
+- [Contributing To Open Source Projects Might Be Easier Than You Think](https://dev.to/zenstack/contributing-to-open-source-projects-might-be-easier-than-you-think-5efn)
 - [Develop the right thing every time and become a 10x engineer 🏆: The art of writing RFCs 🥋](https://dev.to/wasp/develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6)
 - [Everything I install and set up on a new MacBook as a web developer](https://dev.to/whitep4nth3r/everything-i-install-and-set-up-on-a-new-macbook-as-a-web-developer-50cd)
-- [How keepHQ got their first 2,000 stars!](https://dev.to/github20k/how-keephq-got-their-first-2000-stars-l7i)
-- [Building Your Notion Replica: A Quick Guide &lpar;using Next.js, Appwrite, and Shadcn-ui&rpar;](https://dev.to/goswamianshuman/building-your-notion-replica-a-quick-guide-using-nextjs-appwrite-and-shadcn-ui-35po)
 <!-- BLOG-POST-LIST:END -->
 
