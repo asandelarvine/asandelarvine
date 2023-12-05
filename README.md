@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in AWS Amplify: Features to Build and Scale Fullstack Apps](https://dev.to/aws/whats-new-in-aws-amplify-features-to-build-and-scale-fullstack-apps-4gek)
+- [Angular Signals: Por que surgiu?](https://dev.to/_matheus_rian/angular-signals-por-que-surgiu-cfh)
 - [Optimizing Website Performance – Tips and Tricks](https://dev.to/onix-systems/optimizing-website-performance-tips-and-tricks-3hjo)
 - [My 5 Functions to QuickStart Functional Programming in Python](https://dev.to/opensourcee/5-functions-to-quickstart-functional-programming-in-python-idb)
-- [&quot;Unveiling Amazon Bedrock: Simplified Insights&quot;](https://dev.to/aws-builders/unveiling-amazon-bedrock-simplified-insights-57oc)
-- [Next.JS in a Nutshell: Rendering](https://dev.to/oktadev/nextjs-in-a-nutshell-5dj1)
 <!-- BLOG-POST-LIST:END -->
 
