@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert a Color – HEX, RGB, HSL, CMYK](https://dev.to/colortools/convert-a-color-hex-rgb-hsl-cmyk-4kpf)
-- [19 Essential Tools to Improve Your Developer Workflow 👍💯](https://dev.to/madza/19-essential-tools-to-improve-your-developer-workflow-4fi0)
-- [Creating a Pricing Table with Range Slider using Tailwind CSS and Alpine.js](https://dev.to/cruip_com/creating-a-pricing-table-with-range-slider-using-tailwind-css-and-alpinejs-8pb)
-- [Get Ready to Rock Web Development: Screenshot to Code with GPT-4V!](https://dev.to/gpt-prompt-coder/get-ready-to-rock-web-development-screenshot-to-code-with-gpt-4v-c81)
+- [How keepHQ got their first 2,000 stars!](https://dev.to/github20k/how-keephq-got-their-first-2000-stars-l7i)
+- [Building Your Notion Replica: A Quick Guide &lpar;using Next.js, Appwrite, and Shadcn-ui&rpar;](https://dev.to/goswamianshuman/building-your-notion-replica-a-quick-guide-using-nextjs-appwrite-and-shadcn-ui-35po)
+- [How to Use Cloud Functions to Automate GitHub Moderation](https://dev.to/hackmamba/how-to-use-cloud-functions-to-automate-github-moderation-3g5p)
+- [Functional Programming in Python: The Way I Do It &lpar;with 5 key functions&rpar;](https://dev.to/opensourcee/functional-programming-in-python-the-way-i-do-it-with-copy-paste-code-56pn)
 <!-- BLOG-POST-LIST:END -->
 
