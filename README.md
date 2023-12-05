@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner friendly programming languages](https://dev.to/nandinishinduja/beginner-friendly-programming-languages-420o)
-- [How can you qualify for a web developer job?](https://dev.to/rohitashsingh89/how-can-you-qualify-for-a-web-developer-job-176b)
-- [6 AI tools that feels illegal to know🤖](https://dev.to/qbentil/6-ai-tools-that-feels-illegal-to-know-17i0)
-- [[GitHub Actions] How to Automatically Run npm Update and Create a Pull Request](https://dev.to/hiro0218/github-actions-how-to-automatically-run-npm-update-and-create-a-pull-request-1oig)
+- [How security and privacy impacts the database design](https://dev.to/dagnelies/how-security-and-privacy-impacts-the-database-design-51ed)
+- [👨🏼‍💻 Building a news app with React Native, Expo Router, and Tanstack Query 📰](https://dev.to/arshadayvid/building-a-news-app-with-react-native-expo-router-and-tanstack-query-48ck)
+- [Getting to know SharePoint Embedded](https://dev.to/jaloplo/getting-to-know-sharepoint-embedded-3f01)
+- [ECMAScript v/s JavaScript](https://dev.to/saji37/ecmascript-vs-javascript-48mc)
 <!-- BLOG-POST-LIST:END -->
 
