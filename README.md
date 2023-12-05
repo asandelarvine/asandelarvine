@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Disaster Recovery and Business Continuity on AWS](https://dev.to/aws-builders/disaster-recovery-and-business-continuity-on-aws-5hc1)
+- [Tech is not for me, I am a fraud: A Journey of Growth and Overcoming Imposter Syndrome](https://dev.to/eworld/tech-is-not-for-me-i-am-a-fraud-a-journey-of-growth-and-overcoming-imposter-syndrome-jk9)
+- [Should more developers be starting software companies?](https://dev.to/isaacdlyman/should-more-developers-be-starting-software-companies-ne3)
 - [What’s new in AWS Amplify: Features to Build and Scale Fullstack Apps](https://dev.to/aws/whats-new-in-aws-amplify-features-to-build-and-scale-fullstack-apps-4gek)
-- [Angular Signals: Por que surgiu?](https://dev.to/_matheus_rian/angular-signals-por-que-surgiu-cfh)
-- [Optimizing Website Performance – Tips and Tricks](https://dev.to/onix-systems/optimizing-website-performance-tips-and-tricks-3hjo)
-- [My 5 Functions to QuickStart Functional Programming in Python](https://dev.to/opensourcee/5-functions-to-quickstart-functional-programming-in-python-idb)
 <!-- BLOG-POST-LIST:END -->
 
