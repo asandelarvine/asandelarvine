@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner friendly programming languages](https://dev.to/nandinishinduja/beginner-friendly-programming-languages-420o)
+- [How can you qualify for a web developer job?](https://dev.to/rohitashsingh89/how-can-you-qualify-for-a-web-developer-job-176b)
 - [6 AI tools that feels illegal to know🤖](https://dev.to/qbentil/6-ai-tools-that-feels-illegal-to-know-17i0)
-- [Explored the deployment of a 2048 Game Application on AWS EKS](https://dev.to/swapi123/explored-the-deployment-of-a-2048-game-application-on-aws-eks-dho)
-- [NextJS vs RedwoodJS](https://dev.to/serenepine/nextjs-vs-redwoodjs-48hn)
-- [How to Build REST Endpoints with Node.js and Dynamsoft Vision SDKs](https://dev.to/yushulx/how-to-build-rest-endpoints-with-nodejs-and-dynamsoft-vision-sdks-57lp)
+- [[GitHub Actions] How to Automatically Run npm Update and Create a Pull Request](https://dev.to/hiro0218/github-actions-how-to-automatically-run-npm-update-and-create-a-pull-request-1oig)
 <!-- BLOG-POST-LIST:END -->
 
