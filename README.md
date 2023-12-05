@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Website Performance – Tips and Tricks](https://dev.to/onix-systems/optimizing-website-performance-tips-and-tricks-3hjo)
+- [My 5 Functions to QuickStart Functional Programming in Python](https://dev.to/opensourcee/5-functions-to-quickstart-functional-programming-in-python-idb)
 - [&quot;Unveiling Amazon Bedrock: Simplified Insights&quot;](https://dev.to/aws-builders/unveiling-amazon-bedrock-simplified-insights-57oc)
-- [🙏 TS developer ? We need your honest feedback on our PoC](https://dev.to/bd_perez/ts-developer-we-need-your-honest-feedback-on-our-poc-2o92)
-- [5 best JavaScript multidimensional array libraries](https://dev.to/logrocket/5-best-javascript-multidimensional-array-libraries-16mj)
-- [Simplifying Kubernetes Cluster Management with Claudie and Sveltos](https://dev.to/gianlucam76/simplifying-kubernetes-cluster-management-with-claudie-and-sveltos-1f4o)
+- [Next.JS in a Nutshell: Rendering](https://dev.to/oktadev/nextjs-in-a-nutshell-5dj1)
 <!-- BLOG-POST-LIST:END -->
 
