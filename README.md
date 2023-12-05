@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀5-Minute Guide to Blazing Fast React Apps🚀](https://dev.to/opensign/5-minute-guide-to-blazing-fast-react-apps-4h5b)
-- [API Gateway, Lambda, DynamoDB and Rust](https://dev.to/aws-builders/api-gateway-lambda-dynamodb-and-rust-1bk9)
-- [Disaster Recovery and Business Continuity on AWS](https://dev.to/aws-builders/disaster-recovery-and-business-continuity-on-aws-5hc1)
-- [Type-safe Data Access in Go using Prisma and sqlc](https://dev.to/gretro/type-safe-data-access-in-go-using-prisma-and-sqlc-241n)
+- [Featured Mod of the Month: Dumebi Okolo](https://dev.to/devteam/featured-mod-of-the-month-dumebi-okolo-4adk)
+- [Multi-Window Synchronization functionality for Windows GUI using PyQt5](https://dev.to/makra/multi-window-synchronization-functionality-for-windows-gui-using-pyqt5-530j)
+- [How Django keeps track of your model classes?](https://dev.to/svemaraju/how-django-keeps-track-of-your-model-classes-ci5)
+- [How to temporarily save your uncommitted changes using Git Stash?](https://dev.to/danyson/how-to-temporarily-save-your-uncommitted-changes-using-git-stash-2fho)
 <!-- BLOG-POST-LIST:END -->
 
