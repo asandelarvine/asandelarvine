@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NextJS vs RedwoodJS](https://dev.to/serenepine/nextjs-vs-redwoodjs-48hn)
+- [How to Build REST Endpoints with Node.js and Dynamsoft Vision SDKs](https://dev.to/yushulx/how-to-build-rest-endpoints-with-nodejs-and-dynamsoft-vision-sdks-57lp)
+- [Advent of Code 2023: Day 4 - Scratchcards](https://dev.to/gweaths/advent-of-code-2023-day-4-scratchcards-18ca)
 - [Ditch the Hassle - Get your GenAI Code Productionized Now! 🚀](https://dev.to/tanyarai/ditch-the-hassle-get-your-genai-code-productionized-now-3f2l)
-- [Is Personality More Important Than Experience?](https://dev.to/codenewbieteam/is-personality-more-important-than-experience-27al)
-- [tsParticles 3.0.0 is out. Breaking changes ahead.](https://dev.to/tsparticles/tsparticles-300-is-out-breaking-changes-ahead-3hl1)
-- [Coding Odyssey: Embarking on a Matrix Adventure with Go](https://dev.to/angeljrp/coding-odyssey-embarking-on-a-matrix-adventure-with-go-5bl3)
 <!-- BLOG-POST-LIST:END -->
 
