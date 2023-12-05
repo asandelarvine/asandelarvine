@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-4 vs Claude-2 context recall analysis](https://dev.to/zvone187/gpt-4-vs-claude-2-context-recall-analysis-84g)
-- [Amazon EKS Monitoring with OpenTelemetry [Step By Step Guide]](https://dev.to/signoz/amazon-eks-monitoring-with-opentelemetry-step-by-step-guide-2p0j)
-- [Go deadlock detection: delock library](https://dev.to/ietxaniz/go-deadlock-detection-delock-library-1eig)
-- [My 3 Rules for Documenting Code](https://dev.to/wraith/my-3-rules-for-documenting-code-2f54)
+- [🙏 TS developer ? We need your honest feedback on our PoC](https://dev.to/bd_perez/ts-developer-we-need-your-honest-feedback-on-our-poc-2o92)
+- [5 best JavaScript multidimensional array libraries](https://dev.to/logrocket/5-best-javascript-multidimensional-array-libraries-16mj)
+- [Simplifying Kubernetes Cluster Management with Claudie and Sveltos](https://dev.to/gianlucam76/simplifying-kubernetes-cluster-management-with-claudie-and-sveltos-1f4o)
+- [🤜💥🤛 GPT-4 vs Claude-2 context recall analysis](https://dev.to/zvone187/gpt-4-vs-claude-2-context-recall-analysis-84g)
 <!-- BLOG-POST-LIST:END -->
 
