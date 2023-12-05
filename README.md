@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SPL understanding and Open Source](https://dev.to/francescoxx/spl-understanding-and-open-source-1ep2)
-- [Contributing To Open Source Projects Might Be Easier Than You Think](https://dev.to/zenstack/contributing-to-open-source-projects-might-be-easier-than-you-think-5efn)
-- [Develop the right thing every time and become a 10x engineer 🏆: The art of writing RFCs 🥋](https://dev.to/wasp/develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6)
-- [Everything I install and set up on a new MacBook as a web developer](https://dev.to/whitep4nth3r/everything-i-install-and-set-up-on-a-new-macbook-as-a-web-developer-50cd)
+- [GPT-4 vs Claude-2 context recall analysis](https://dev.to/zvone187/gpt-4-vs-claude-2-context-recall-analysis-84g)
+- [Amazon EKS Monitoring with OpenTelemetry [Step By Step Guide]](https://dev.to/signoz/amazon-eks-monitoring-with-opentelemetry-step-by-step-guide-2p0j)
+- [Go deadlock detection: delock library](https://dev.to/ietxaniz/go-deadlock-detection-delock-library-1eig)
+- [My 3 Rules for Documenting Code](https://dev.to/wraith/my-3-rules-for-documenting-code-2f54)
 <!-- BLOG-POST-LIST:END -->
 
