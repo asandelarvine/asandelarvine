@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How security and privacy impacts the database design](https://dev.to/dagnelies/how-security-and-privacy-impacts-the-database-design-51ed)
-- [👨🏼‍💻 Building a news app with React Native, Expo Router, and Tanstack Query 📰](https://dev.to/arshadayvid/building-a-news-app-with-react-native-expo-router-and-tanstack-query-48ck)
-- [Getting to know SharePoint Embedded](https://dev.to/jaloplo/getting-to-know-sharepoint-embedded-3f01)
-- [ECMAScript v/s JavaScript](https://dev.to/saji37/ecmascript-vs-javascript-48mc)
+- [Convert a Color – HEX, RGB, HSL, CMYK](https://dev.to/colortools/convert-a-color-hex-rgb-hsl-cmyk-4kpf)
+- [19 Essential Tools to Improve Your Developer Workflow 👍💯](https://dev.to/madza/19-essential-tools-to-improve-your-developer-workflow-4fi0)
+- [Creating a Pricing Table with Range Slider using Tailwind CSS and Alpine.js](https://dev.to/cruip_com/creating-a-pricing-table-with-range-slider-using-tailwind-css-and-alpinejs-8pb)
+- [Get Ready to Rock Web Development: Screenshot to Code with GPT-4V!](https://dev.to/gpt-prompt-coder/get-ready-to-rock-web-development-screenshot-to-code-with-gpt-4v-c81)
 <!-- BLOG-POST-LIST:END -->
 
