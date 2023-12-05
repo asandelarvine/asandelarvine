@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 AI tools that feels illegal to know🤖](https://dev.to/qbentil/6-ai-tools-that-feels-illegal-to-know-17i0)
+- [Explored the deployment of a 2048 Game Application on AWS EKS](https://dev.to/swapi123/explored-the-deployment-of-a-2048-game-application-on-aws-eks-dho)
 - [NextJS vs RedwoodJS](https://dev.to/serenepine/nextjs-vs-redwoodjs-48hn)
 - [How to Build REST Endpoints with Node.js and Dynamsoft Vision SDKs](https://dev.to/yushulx/how-to-build-rest-endpoints-with-nodejs-and-dynamsoft-vision-sdks-57lp)
-- [Advent of Code 2023: Day 4 - Scratchcards](https://dev.to/gweaths/advent-of-code-2023-day-4-scratchcards-18ca)
-- [Ditch the Hassle - Get your GenAI Code Productionized Now! 🚀](https://dev.to/tanyarai/ditch-the-hassle-get-your-genai-code-productionized-now-3f2l)
 <!-- BLOG-POST-LIST:END -->
 
