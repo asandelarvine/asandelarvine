@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀5-Minute Guide to Blazing Fast React Apps🚀](https://dev.to/opensign/5-minute-guide-to-blazing-fast-react-apps-4h5b)
+- [API Gateway, Lambda, DynamoDB and Rust](https://dev.to/aws-builders/api-gateway-lambda-dynamodb-and-rust-1bk9)
 - [Disaster Recovery and Business Continuity on AWS](https://dev.to/aws-builders/disaster-recovery-and-business-continuity-on-aws-5hc1)
-- [Tech is not for me, I am a fraud: A Journey of Growth and Overcoming Imposter Syndrome](https://dev.to/eworld/tech-is-not-for-me-i-am-a-fraud-a-journey-of-growth-and-overcoming-imposter-syndrome-jk9)
-- [Should more developers be starting software companies?](https://dev.to/isaacdlyman/should-more-developers-be-starting-software-companies-ne3)
-- [What’s new in AWS Amplify: Features to Build and Scale Fullstack Apps](https://dev.to/aws/whats-new-in-aws-amplify-features-to-build-and-scale-fullstack-apps-4gek)
+- [Type-safe Data Access in Go using Prisma and sqlc](https://dev.to/gretro/type-safe-data-access-in-go-using-prisma-and-sqlc-241n)
 <!-- BLOG-POST-LIST:END -->
 
