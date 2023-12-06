@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I built NextJS starters directory in 54 minutes](https://dev.to/johnrushx/i-built-nextjs-starters-directory-in-54-minutes-4hfe)
+- [Do medo do Open Source ao impacto na comunidade: Projeto Octocats Hacktoberfest 2023](https://dev.to/feministech/do-medo-do-open-source-ao-impacto-na-comunidade-projeto-octocats-hacktoberfest-2023-168b)
 - [Config vs. Code in Gen AI](https://dev.to/andrewlastmile/config-vs-code-in-gen-ai-3bal)
 - [Building Your Django App: A Beginner&#39;s Guide &lpar;Part 2&rpar;](https://dev.to/arbythecoder/building-your-django-app-a-beginners-guide-part-2-2gam)
-- [Featured Mod of the Month: Dumebi Okolo](https://dev.to/devteam/featured-mod-of-the-month-dumebi-okolo-4adk)
-- [Multi-Window Synchronization functionality for Windows GUI using PyQt5](https://dev.to/makra/multi-window-synchronization-functionality-for-windows-gui-using-pyqt5-530j)
 <!-- BLOG-POST-LIST:END -->
 
