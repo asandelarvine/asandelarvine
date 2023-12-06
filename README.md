@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🧙‍♂️ Generate blogs with ChatGPT assistant 🪄 ✨](https://dev.to/triggerdotdev/generate-blogs-with-chatgpt-assistant-1894)
+- [Mastering File Upload Security: Understanding File Types](https://dev.to/theodo/mastering-file-upload-security-understanding-file-types-5fd6)
+- [⚡⚡ Level Up Your Cloud Experience with These 7 Open Source Projects 🌩️](https://dev.to/nathan_tarbert/level-up-your-cloud-experience-with-these-7-open-source-projects-37p8)
 - [🔥🔥 Our awesome OSS friends 😍](https://dev.to/firecampdev/our-awesome-oss-friends-4ech)
-- [5 Serverless Best Practices to Become a Skilled Cloud Architect](https://dev.to/slsbytheodo/5-serverless-best-practices-to-become-a-skilled-cloud-architect-5dej)
-- [🤓7 Useful JavaScript One-Liner Code You Must Know 💎](https://dev.to/random_ti/7-useful-javascript-one-liner-code-you-must-know-4jl1)
-- [💻 7 Open-Source DevTools That Save Time You Didn&#39;t Know to Exist ⌛🚀](https://dev.to/kiselitza/7-open-source-devtools-that-save-time-you-didnt-know-to-exist-5dbd)
 <!-- BLOG-POST-LIST:END -->
 
