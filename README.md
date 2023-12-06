@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Order-based Group Operations &lpar;II&rpar;](https://dev.to/esproc_spl/order-based-group-operations-ii-jo3)
 - [I built NextJS starters directory in 54 minutes](https://dev.to/johnrushx/i-built-nextjs-starters-directory-in-54-minutes-4hfe)
 - [Do medo do Open Source ao impacto na comunidade: Projeto Octocats Hacktoberfest 2023](https://dev.to/feministech/do-medo-do-open-source-ao-impacto-na-comunidade-projeto-octocats-hacktoberfest-2023-168b)
 - [Config vs. Code in Gen AI](https://dev.to/andrewlastmile/config-vs-code-in-gen-ai-3bal)
-- [Building Your Django App: A Beginner&#39;s Guide &lpar;Part 2&rpar;](https://dev.to/arbythecoder/building-your-django-app-a-beginners-guide-part-2-2gam)
 <!-- BLOG-POST-LIST:END -->
 
