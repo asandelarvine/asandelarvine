@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to fall in love with coding?](https://dev.to/nandinishinduja/how-to-fall-in-love-with-coding-4mdf)
-- [Introduction to WordPress: A beginner&#39;s guide](https://dev.to/zestplugins/introduction-to-wordpress-a-beginners-guide-23f4)
-- [AI Log #4: Vectorization &amp; NumPy in Machine Learning](https://dev.to/ctrlaltvictoria/ai-log-4-vectorization-numpy-in-machine-learning-3npl)
-- [Custom Fields: Give Your Customers the Fields They Need](https://dev.to/productive/custom-fields-give-your-customers-the-fields-they-need-41pi)
+- [Top 20 Premium and Free Electronics Store E-Commerce Website Templates](https://dev.to/laragrace/top-20-premium-and-free-electronics-store-e-commerce-website-templates-2dn6)
+- [How to build an accessible navigation menu](https://dev.to/ilizette/how-to-build-an-accessible-navigation-menu-1omk)
+- [How You Can Build the Best Software Development Team?](https://dev.to/pritesh80/how-you-can-build-the-best-software-development-team-2fna)
+- [Be a part of something bigger](https://dev.to/opensourcee/be-a-part-of-something-bigger-13lb)
 <!-- BLOG-POST-LIST:END -->
 
