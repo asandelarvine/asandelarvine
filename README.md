@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Embracing Rest for Productivity&quot;: CodeNewbie Podcast S26E6](https://dev.to/codenewbieteam/embracing-rest-for-productivity-codenewbie-podcast-s26e6-1n80)
 - [Day 7 - 30 Days learn Web Dev](https://dev.to/johnc/day-7-30-days-learn-web-dev-2mkh)
 - [Progress - Open Source Project&lpar;w. Codu&rpar;](https://dev.to/seogjun/progress-open-source-projectw-codu-4g08)
 - [APIs in Go with Huma 2.0](https://dev.to/danielgtaylor/apis-in-go-with-huma-20-2eb4)
-- [Using Rust and Leptos to build beautiful, declarative UIs](https://dev.to/logrocket/using-rust-and-leptos-to-build-beautiful-declarative-uis-flk)
 <!-- BLOG-POST-LIST:END -->
 
