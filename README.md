@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Serialization and Deserialization in C#: A Comprehensive Guide](https://dev.to/iamcymentho/serialization-and-deserialization-in-c-a-comprehensive-guide-5bj9)
 - [Llama 2: ChatGPT Contender Everyone Is Talking About!](https://dev.to/pavanbelagatti/llama-2-chatgpt-contender-everyone-is-talking-about-5313)
 - [5 Tips for Creating a Successful Grocery App](https://dev.to/codebrewlabsusa/5-tips-for-creating-a-successful-grocery-app-38i0)
 - [Survey Reveals Top Benefits of AI in Software Development](https://dev.to/ananddas/survey-reveals-top-benefits-of-ai-in-software-development-pfe)
-- [Understanding Git And Git Workflow](https://dev.to/untilyou58/understanding-git-and-git-workflow-1e6a)
 <!-- BLOG-POST-LIST:END -->
 
