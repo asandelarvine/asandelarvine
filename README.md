@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Git And Git Workflow](https://dev.to/untilyou58/understanding-git-and-git-workflow-1e6a)
+- [SQL - Advanced SQL Concepts](https://dev.to/fatimaalam1234/sql-advanced-sql-concepts-495k)
+- [NextJS App Router with Pocketbase SSR setup](https://dev.to/tsensei/nextjs-app-router-with-pocketbase-ssr-setup-1m9k)
 - [Order-based Group Operations &lpar;II&rpar;](https://dev.to/esproc_spl/order-based-group-operations-ii-jo3)
-- [I built NextJS starters directory in 54 minutes](https://dev.to/johnrushx/i-built-nextjs-starters-directory-in-54-minutes-4hfe)
-- [Do medo do Open Source ao impacto na comunidade: Projeto Octocats Hacktoberfest 2023](https://dev.to/feministech/do-medo-do-open-source-ao-impacto-na-comunidade-projeto-octocats-hacktoberfest-2023-168b)
-- [Config vs. Code in Gen AI](https://dev.to/andrewlastmile/config-vs-code-in-gen-ai-3bal)
 <!-- BLOG-POST-LIST:END -->
 
