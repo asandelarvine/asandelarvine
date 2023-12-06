@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Innovation: The Transformative Power of Codium AI in Technical Realms](https://dev.to/iamcymentho/unlocking-innovation-the-transformative-power-of-codium-ai-in-technical-realms-480b)
-- [How to generate PDF in React.js Application](https://dev.to/pankajkumar/how-to-generate-pdf-in-reactjs-application-1d2j)
-- [Kubectl config set context and Best Practices](https://dev.to/refine/kubectl-config-set-context-and-best-practices-2gpd)
-- [🔮 Open-Source Launch of SuperDuperDB: Integrate AI with your Database](https://dev.to/guerra2fernando/open-source-launch-of-superduperdb-integrate-ai-with-your-database-47g8)
+- [🔥🔥 Our awesome OSS friends 😍](https://dev.to/firecampdev/our-awesome-oss-friends-4ech)
+- [5 Serverless Best Practices to Become a Skilled Cloud Architect](https://dev.to/slsbytheodo/5-serverless-best-practices-to-become-a-skilled-cloud-architect-5dej)
+- [🤓7 Useful JavaScript One-Liner Code You Must Know 💎](https://dev.to/random_ti/7-useful-javascript-one-liner-code-you-must-know-4jl1)
+- [💻 7 Open-Source DevTools That Save Time You Didn&#39;t Know to Exist ⌛🚀](https://dev.to/kiselitza/7-open-source-devtools-that-save-time-you-didnt-know-to-exist-5dbd)
 <!-- BLOG-POST-LIST:END -->
 
