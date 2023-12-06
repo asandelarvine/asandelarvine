@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [tsParticles 3.0.2 Released](https://dev.to/tsparticles/tsparticles-302-released-29e9)
-- [Buying a Dedicated Server with Bitcoin: A Guide for Cryptocurrency Enthusiasts](https://dev.to/arzhost/buying-a-dedicated-server-with-bitcoin-a-guide-for-cryptocurrency-enthusiasts-2elc)
-- [10 FREE Frontend Certificates for Web Warriors](https://dev.to/codewithshahan/10-free-frontend-certificates-for-web-warriors-56a0)
-- [&quot;Embracing Rest for Productivity&quot;: CodeNewbie Podcast S26E6](https://dev.to/codenewbieteam/embracing-rest-for-productivity-codenewbie-podcast-s26e6-1n80)
+- [19 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
+- [Advent of Code 2023 Day 6](https://dev.to/nickymeuleman/advent-of-code-2023-day-6-17eh)
+- [Nuxt vs Next: Which JavaScript Framework Suits Your Next Project?](https://dev.to/get_pieces/nuxt-vs-next-which-javascript-framework-suits-your-next-project-dof)
+- [The first month in CS Diploma](https://dev.to/esraanasr92/the-first-month-in-cs-diploma-28aj)
 <!-- BLOG-POST-LIST:END -->
 
