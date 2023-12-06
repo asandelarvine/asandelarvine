@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Generative AI this December [For Free]](https://dev.to/alexr/learn-generative-ai-this-december-for-free-5hna)
+- [Building a Multi-Tenant App with FastAPI, SQLModel, and PropelAuth](https://dev.to/propelauth/building-a-multi-tenant-app-with-fastapi-sqlmodel-and-propelauth-2797)
 - [19 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
-- [Advent of Code 2023 Day 6](https://dev.to/nickymeuleman/advent-of-code-2023-day-6-17eh)
-- [Nuxt vs Next: Which JavaScript Framework Suits Your Next Project?](https://dev.to/get_pieces/nuxt-vs-next-which-javascript-framework-suits-your-next-project-dof)
-- [The first month in CS Diploma](https://dev.to/esraanasr92/the-first-month-in-cs-diploma-28aj)
+- [Triggers](https://dev.to/nicolly_carmo/triggers-315e)
 <!-- BLOG-POST-LIST:END -->
 
