@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧙‍♂️ Generate blogs with ChatGPT assistant 🪄 ✨](https://dev.to/triggerdotdev/generate-blogs-with-chatgpt-assistant-1894)
-- [Mastering File Upload Security: Understanding File Types](https://dev.to/theodo/mastering-file-upload-security-understanding-file-types-5fd6)
-- [⚡⚡ Level Up Your Cloud Experience with These 7 Open Source Projects 🌩️](https://dev.to/nathan_tarbert/level-up-your-cloud-experience-with-these-7-open-source-projects-37p8)
-- [🔥🔥 Our awesome OSS friends 😍](https://dev.to/firecampdev/our-awesome-oss-friends-4ech)
+- [How does history.js work?](https://dev.to/luicoding/how-does-historyjs-work-4oin)
+- [Color Guessing Game JavaScript Project With Source Code](https://dev.to/codingcss/color-guessing-game-javascript-project-with-source-code-b9)
+- [.NET Source Generators: gerando código em tempo de escrita de código!](https://dev.to/angelobelchior/net-source-generators-gerando-codigo-em-tempo-de-escrita-de-codigo-10h6)
+- [You do not need TDD. Only if...](https://dev.to/m0n0x41d/you-do-not-need-tdd-only-if-ffj)
 <!-- BLOG-POST-LIST:END -->
 
