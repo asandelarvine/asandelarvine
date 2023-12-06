@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 Premium and Free Electronics Store E-Commerce Website Templates](https://dev.to/laragrace/top-20-premium-and-free-electronics-store-e-commerce-website-templates-2dn6)
-- [How to build an accessible navigation menu](https://dev.to/ilizette/how-to-build-an-accessible-navigation-menu-1omk)
-- [How You Can Build the Best Software Development Team?](https://dev.to/pritesh80/how-you-can-build-the-best-software-development-team-2fna)
-- [Be a part of something bigger](https://dev.to/opensourcee/be-a-part-of-something-bigger-13lb)
+- [Unlocking Innovation: The Transformative Power of Codium AI in Technical Realms](https://dev.to/iamcymentho/unlocking-innovation-the-transformative-power-of-codium-ai-in-technical-realms-480b)
+- [How to generate PDF in React.js Application](https://dev.to/pankajkumar/how-to-generate-pdf-in-reactjs-application-1d2j)
+- [Kubectl config set context and Best Practices](https://dev.to/refine/kubectl-config-set-context-and-best-practices-2gpd)
+- [🔮 Open-Source Launch of SuperDuperDB: Integrate AI with your Database](https://dev.to/guerra2fernando/open-source-launch-of-superduperdb-integrate-ai-with-your-database-47g8)
 <!-- BLOG-POST-LIST:END -->
 
