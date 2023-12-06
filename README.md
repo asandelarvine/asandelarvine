@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Rust and Leptos to build beautiful, declarative UIs](https://dev.to/logrocket/using-rust-and-leptos-to-build-beautiful-declarative-uis-flk)
 - [How does history.js work?](https://dev.to/luicoding/how-does-historyjs-work-4oin)
 - [Color Guessing Game JavaScript Project With Source Code](https://dev.to/codingcss/color-guessing-game-javascript-project-with-source-code-b9)
 - [.NET Source Generators: gerando código em tempo de escrita de código!](https://dev.to/angelobelchior/net-source-generators-gerando-codigo-em-tempo-de-escrita-de-codigo-10h6)
-- [You do not need TDD. Only if...](https://dev.to/m0n0x41d/you-do-not-need-tdd-only-if-ffj)
 <!-- BLOG-POST-LIST:END -->
 
