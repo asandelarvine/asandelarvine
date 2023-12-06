@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling Deployment From Release With Feature Toggles](https://dev.to/productive/decoupling-deployment-from-release-with-feature-toggles-7lo)
-- [Building a Microservices Cloud Backend using Go and PostgreSQL](https://dev.to/encore/building-a-microservices-cloud-backend-with-go-and-postgresql-3e8d)
-- [Welcome Thread - v254](https://dev.to/devteam/welcome-thread-v254-5d5m)
-- [Keep Your Fork In Sync: Understanding git remote upstream](https://dev.to/untilyou58/keep-your-fork-in-sync-understanding-git-remote-upstream-366l)
+- [How to fall in love with coding?](https://dev.to/nandinishinduja/how-to-fall-in-love-with-coding-4mdf)
+- [Introduction to WordPress: A beginner&#39;s guide](https://dev.to/zestplugins/introduction-to-wordpress-a-beginners-guide-23f4)
+- [AI Log #4: Vectorization &amp; NumPy in Machine Learning](https://dev.to/ctrlaltvictoria/ai-log-4-vectorization-numpy-in-machine-learning-3npl)
+- [Custom Fields: Give Your Customers the Fields They Need](https://dev.to/productive/custom-fields-give-your-customers-the-fields-they-need-41pi)
 <!-- BLOG-POST-LIST:END -->
 
