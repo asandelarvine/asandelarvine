@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Survey Reveals Top Benefits of AI in Software Development](https://dev.to/ananddas/survey-reveals-top-benefits-of-ai-in-software-development-pfe)
 - [Understanding Git And Git Workflow](https://dev.to/untilyou58/understanding-git-and-git-workflow-1e6a)
 - [SQL - Advanced SQL Concepts](https://dev.to/fatimaalam1234/sql-advanced-sql-concepts-495k)
 - [NextJS App Router with Pocketbase SSR setup](https://dev.to/tsensei/nextjs-app-router-with-pocketbase-ssr-setup-1m9k)
-- [Order-based Group Operations &lpar;II&rpar;](https://dev.to/esproc_spl/order-based-group-operations-ii-jo3)
 <!-- BLOG-POST-LIST:END -->
 
