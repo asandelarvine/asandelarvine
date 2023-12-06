@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 7 - 30 Days learn Web Dev](https://dev.to/johnc/day-7-30-days-learn-web-dev-2mkh)
+- [Progress - Open Source Project&lpar;w. Codu&rpar;](https://dev.to/seogjun/progress-open-source-projectw-codu-4g08)
+- [APIs in Go with Huma 2.0](https://dev.to/danielgtaylor/apis-in-go-with-huma-20-2eb4)
 - [Using Rust and Leptos to build beautiful, declarative UIs](https://dev.to/logrocket/using-rust-and-leptos-to-build-beautiful-declarative-uis-flk)
-- [How does history.js work?](https://dev.to/luicoding/how-does-historyjs-work-4oin)
-- [Color Guessing Game JavaScript Project With Source Code](https://dev.to/codingcss/color-guessing-game-javascript-project-with-source-code-b9)
-- [.NET Source Generators: gerando código em tempo de escrita de código!](https://dev.to/angelobelchior/net-source-generators-gerando-codigo-em-tempo-de-escrita-de-codigo-10h6)
 <!-- BLOG-POST-LIST:END -->
 
