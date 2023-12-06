@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing E-Commerce: The Impact of ChatGPT on Customer Experience and Business Success](https://dev.to/agarralexx/revolutionizing-e-commerce-the-impact-of-chatgpt-on-customer-experience-and-business-success-2h7d)
-- [Advantages And Disadvantages Of Upgrading Inventory Management System](https://dev.to/lenina59400/advantages-and-disadvantages-of-upgrading-inventory-management-system-3em9)
-- [Serialization and Deserialization in C#: A Comprehensive Guide](https://dev.to/iamcymentho/serialization-and-deserialization-in-c-a-comprehensive-guide-5bj9)
-- [Llama 2: ChatGPT Contender Everyone Is Talking About!](https://dev.to/pavanbelagatti/llama-2-chatgpt-contender-everyone-is-talking-about-5313)
+- [Decoupling Deployment From Release With Feature Toggles](https://dev.to/productive/decoupling-deployment-from-release-with-feature-toggles-7lo)
+- [Building a Microservices Cloud Backend using Go and PostgreSQL](https://dev.to/encore/building-a-microservices-cloud-backend-with-go-and-postgresql-3e8d)
+- [Welcome Thread - v254](https://dev.to/devteam/welcome-thread-v254-5d5m)
+- [Keep Your Fork In Sync: Understanding git remote upstream](https://dev.to/untilyou58/keep-your-fork-in-sync-understanding-git-remote-upstream-366l)
 <!-- BLOG-POST-LIST:END -->
 
