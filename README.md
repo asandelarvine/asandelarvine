@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [tsParticles 3.0.2 Released](https://dev.to/tsparticles/tsparticles-302-released-29e9)
+- [Buying a Dedicated Server with Bitcoin: A Guide for Cryptocurrency Enthusiasts](https://dev.to/arzhost/buying-a-dedicated-server-with-bitcoin-a-guide-for-cryptocurrency-enthusiasts-2elc)
+- [10 FREE Frontend Certificates for Web Warriors](https://dev.to/codewithshahan/10-free-frontend-certificates-for-web-warriors-56a0)
 - [&quot;Embracing Rest for Productivity&quot;: CodeNewbie Podcast S26E6](https://dev.to/codenewbieteam/embracing-rest-for-productivity-codenewbie-podcast-s26e6-1n80)
-- [Day 7 - 30 Days learn Web Dev](https://dev.to/johnc/day-7-30-days-learn-web-dev-2mkh)
-- [Progress - Open Source Project&lpar;w. Codu&rpar;](https://dev.to/seogjun/progress-open-source-projectw-codu-4g08)
-- [APIs in Go with Huma 2.0](https://dev.to/danielgtaylor/apis-in-go-with-huma-20-2eb4)
 <!-- BLOG-POST-LIST:END -->
 
