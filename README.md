@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7+ Free Tailwind React Admin Dashboard Templates for 2024](https://dev.to/tailwindcss/top-7-free-tailwind-react-admin-dashboard-templates-for-2024-1gc9)
+- [Unveiling the Wonders of ChatGPT: A Dive into the Backend Magic](https://dev.to/vanshajpoonia/unveiling-the-wonders-of-chatgpt-a-dive-into-the-backend-magic-kjj)
+- [🤯 8 LLMs and Deep Learning repos to get you into the TOP 1% 🚀](https://dev.to/quine/8-llms-and-deep-learning-repos-to-get-you-into-the-top-1-108g)
 - [Move WSL2 Distro To Other Driver](https://dev.to/brojenuel/move-wsl2-distro-to-other-driver-og3)
-- [Announcing DevTools for Tauri](https://dev.to/crabnebula/announcing-devtools-for-tauri-19c)
-- [Data Structure Classification🧑‍🔧](https://dev.to/untilyou58/data-structure-classification-4gng)
-- [Best Websites for Front-End Development Practice 🚀](https://dev.to/rishabh07r/best-websites-for-front-end-development-practice-3lni)
 <!-- BLOG-POST-LIST:END -->
 
