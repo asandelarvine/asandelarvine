@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React: Front-end and back-end combined LLaMA Artificial Intelligence Project Demo](https://dev.to/kyrierui/react-front-end-and-back-end-combined-llama-artificial-intelligence-project-demo-95l)
 - [&quot;Geographical Demand Data Extraction: Web Automation and Efficient Data Handling with Python, Selenium, and BeautifulSoup&quot; 🚀✨](https://dev.to/coderbiozed/geographical-demand-data-extraction-web-automation-and-efficient-data-handling-with-python-selenium-and-beautifulsoup-1a97)
 - [With AI&#39;s Ascension, Are We Nearing the End of Human Intelligence as We Know It?](https://dev.to/rsaz/with-ais-ascension-are-we-nearing-the-end-of-human-intelligence-as-we-know-it-4gjk)
 - [What Type of 5G Apps Are Beneficial for Mobile App Development?](https://dev.to/dhruvjoshi9/what-type-of-5g-apps-are-beneficial-for-mobile-app-development-322p)
-- [MySQL Beginner&#39;s Guide](https://dev.to/aaravpatel1985/mysql-beginners-guide-4mb3)
 <!-- BLOG-POST-LIST:END -->
 
