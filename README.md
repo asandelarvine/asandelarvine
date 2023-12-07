@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternate Career Paths for Computer Science Graduates](https://dev.to/nandinishinduja/alternate-career-paths-for-computer-science-graduates-3c5i)
-- [React Beyond the Boilerplate: Unleashing Creativity with Manual Mastery - Part 1: React as a CDN](https://dev.to/ajayprakash/react-beyond-the-boilerplate-unleashing-creativity-with-manual-mastery-part-1-using-react-as-a-cdn-without-npm-or-jsx-8oe)
-- [Optimizing Developer Experience: The Crucial Role of a Robust API Documentation](https://dev.to/devxme/optimizing-developer-experience-the-crucial-role-of-a-robust-api-documentation-5f5o)
-- [Unleashing Productivity and Efficiency: 10 Essential Tools for Every Web Developer](https://dev.to/bhavesh_yadav/unleashing-productivity-and-efficiency-10-essential-tools-for-every-web-developer-256n)
+- [WebAuthN in Remix - FaceID, YubiKey, and more!](https://dev.to/rametta/webauthn-in-remix-faceid-yubikey-and-more-5en)
+- [Microservice communication - Part 01](https://dev.to/cawizca/microservice-communication-part-01-47jk)
+- [Interview Tips: “Tell Me About a Time You Made a Mistake” in an Interview](https://dev.to/alexr/interview-tips-tell-me-about-a-time-you-made-a-mistake-in-an-interview-bfj)
+- [Using ElectricSQL to build a local-first application](https://dev.to/logrocket/using-electricsql-to-build-a-local-first-application-5e42)
 <!-- BLOG-POST-LIST:END -->
 
