@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Slick Examples - Creating a carousel](https://dev.to/refine/react-slick-examples-creating-a-carousel-282c)
+- [Coding skills are only 10%](https://dev.to/kingjotaro/coding-skills-are-only-the-10-4pno)
+- [Turn email designs to code that works even in Outlook, in a single click](https://dev.to/kombaico/turn-email-designs-to-code-that-works-even-in-outlook-in-a-single-click-2ng9)
 - [Introduction to C Programming.](https://dev.to/sujithvsuresh/introduction-to-c-programming-50ag)
-- [3D cube loader using html css](https://dev.to/freecodez/3d-cube-loader-using-html-css-2d1b)
-- [Why Your Website Should Work Offline &lpar;And What You Should Do About It&rpar;](https://dev.to/opensourcee/why-your-website-should-work-offline-and-what-you-should-do-about-it-fck)
-- [Serverless and event-driven translation bot](https://dev.to/aws-builders/serverless-and-event-driven-translation-bot-4c8h)
 <!-- BLOG-POST-LIST:END -->
 
