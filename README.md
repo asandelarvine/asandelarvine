@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Canary releases with Apache APISIX](https://dev.to/apisix/canary-releases-with-apache-apisix-2o39)
-- [Using IAM authentication for Redis on AWS](https://dev.to/abhirockzz/using-iam-authentication-for-redis-on-aws-32kd)
-- [Elevate Your Web Development Game: 12 JavaScript Features Every Developer Should Master](https://dev.to/shadbalti/elevate-your-web-development-game-12-javascript-features-every-developer-should-master-21f)
-- [⚡️ Testing Individual StepFunction States](https://dev.to/aws-builders/testing-individual-stepfunction-states-5eil)
+- [Move WSL2 Distro To Other Driver](https://dev.to/brojenuel/move-wsl2-distro-to-other-driver-og3)
+- [Announcing DevTools for Tauri](https://dev.to/crabnebula/announcing-devtools-for-tauri-19c)
+- [Data Structure Classification🧑‍🔧](https://dev.to/untilyou58/data-structure-classification-4gng)
+- [Best Websites for Front-End Development Practice 🚀](https://dev.to/rishabh07r/best-websites-for-front-end-development-practice-3lni)
 <!-- BLOG-POST-LIST:END -->
 
