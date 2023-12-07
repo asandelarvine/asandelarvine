@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [With AI&#39;s Ascension, Are We Nearing the End of Human Intelligence as We Know It?](https://dev.to/rsaz/with-ais-ascension-are-we-nearing-the-end-of-human-intelligence-as-we-know-it-4gjk)
+- [What Type of 5G Apps Are Beneficial for Mobile App Development?](https://dev.to/dhruvjoshi9/what-type-of-5g-apps-are-beneficial-for-mobile-app-development-322p)
+- [Let&#39;s Talk Constructive Vibes in Development Teams! 🚀](https://dev.to/sagaofsilence/lets-talk-constructive-vibes-in-development-teams-4opb)
 - [DFGV: Self-Contained Full-Stack Web Apps](https://dev.to/tythos/dfgv-self-contained-full-stack-web-apps-32fj)
-- [Time-Independent Dates in Swift](https://dev.to/hugh_jeremy/time-independent-dates-in-swift-26j5)
-- [Web Development with Vite, Vue, and Flask](https://dev.to/atsu/web-development-with-vite-vue-and-flask-40ep)
-- [Searching for news with google news rss feeds](https://dev.to/friendlyuser/searching-for-news-with-google-news-rss-feeds-3hhp)
 <!-- BLOG-POST-LIST:END -->
 
