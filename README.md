@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Generative AI this December [For Free]](https://dev.to/alexr/learn-generative-ai-this-december-for-free-5hna)
-- [Building a Multi-Tenant App with FastAPI, SQLModel, and PropelAuth](https://dev.to/propelauth/building-a-multi-tenant-app-with-fastapi-sqlmodel-and-propelauth-2797)
-- [19 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
-- [Triggers](https://dev.to/nicolly_carmo/triggers-315e)
+- [Web Development with Vite, Vue, and Flask](https://dev.to/atsu/web-development-with-vite-vue-and-flask-40ep)
+- [How Do You Navigate Career Shifts?](https://dev.to/codenewbieteam/how-do-you-navigate-career-shifts-8m1)
+- [How Do You Organize Your Digital World?](https://dev.to/devteam/how-do-you-organize-your-digital-world-446g)
+- [Testing routed components with RouterTestingHarness](https://dev.to/this-is-angular/testing-routed-components-with-routertestingharness-22dl)
 <!-- BLOG-POST-LIST:END -->
 
