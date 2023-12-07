@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion of the Week: Money or Passion?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-439m)
 - [Views, Sequences e Synonyms: Um tutorial prático](https://dev.to/mizevski/views-sequences-e-synonyms-um-tutorial-pratico-379d)
 - [Uprobes Siblings - Capturing HTTPS Traffic: A Rust and eBPF Odyssey](https://dev.to/douglasmakey/uprobes-siblings-capturing-https-traffic-a-rust-and-ebpf-odyssey-4gcg)
 - [Why I got into a tech career?](https://dev.to/nandinishinduja/why-i-got-into-a-tech-career-3dlp)
-- [How to Handle Shadow DOM in Cypress](https://dev.to/lambdatest/how-to-handle-shadow-dom-in-cypress-3a4j)
 <!-- BLOG-POST-LIST:END -->
 
