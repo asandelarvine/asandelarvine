@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Slick Examples - Creating a carousel](https://dev.to/refine/react-slick-examples-creating-a-carousel-282c)
-- [Coding skills are only 10%](https://dev.to/kingjotaro/coding-skills-are-only-the-10-4pno)
-- [Turn email designs to code that works even in Outlook, in a single click](https://dev.to/kombaico/turn-email-designs-to-code-that-works-even-in-outlook-in-a-single-click-2ng9)
-- [Introduction to C Programming.](https://dev.to/sujithvsuresh/introduction-to-c-programming-50ag)
+- [Variables in C Programming](https://dev.to/sujithvsuresh/variables-in-c-programming-4o06)
+- [Asynchronous Batching: The &lpar;not so&rpar; secret weapon of JavaScript](https://dev.to/cadienvan/asynchronous-batching-the-not-so-secret-weapon-of-javascript-2gno)
+- [The One Plot to Rule Them All](https://dev.to/proteusiq/the-one-plot-to-rule-them-all-52e1)
+- [Oracle Linux 8.8&#39;de PostgreSQL 13 Yedekli Yapı Nasıl Kurulur? - Patroni, ETCD, HAProxy](https://dev.to/aciklab/oracle-linux-88de-postgresql-13-yedekli-yapi-nasil-kurulur-patroni-etcd-haproxy-4711)
 <!-- BLOG-POST-LIST:END -->
 
