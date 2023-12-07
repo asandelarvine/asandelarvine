@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DFGV: Self-Contained Full-Stack Web Apps](https://dev.to/tythos/dfgv-self-contained-full-stack-web-apps-32fj)
+- [Time-Independent Dates in Swift](https://dev.to/hugh_jeremy/time-independent-dates-in-swift-26j5)
 - [Web Development with Vite, Vue, and Flask](https://dev.to/atsu/web-development-with-vite-vue-and-flask-40ep)
-- [How Do You Navigate Career Shifts?](https://dev.to/codenewbieteam/how-do-you-navigate-career-shifts-8m1)
-- [How Do You Organize Your Digital World?](https://dev.to/devteam/how-do-you-organize-your-digital-world-446g)
 - [Testing routed components with RouterTestingHarness](https://dev.to/this-is-angular/testing-routed-components-with-routertestingharness-22dl)
 <!-- BLOG-POST-LIST:END -->
 
