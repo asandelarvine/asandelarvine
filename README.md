@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7+ Free Tailwind React Admin Dashboard Templates for 2024](https://dev.to/tailwindcss/top-7-free-tailwind-react-admin-dashboard-templates-for-2024-1gc9)
-- [Unveiling the Wonders of ChatGPT: A Dive into the Backend Magic](https://dev.to/vanshajpoonia/unveiling-the-wonders-of-chatgpt-a-dive-into-the-backend-magic-kjj)
-- [🤯 8 LLMs and Deep Learning repos to get you into the TOP 1% 🚀](https://dev.to/quine/8-llms-and-deep-learning-repos-to-get-you-into-the-top-1-108g)
-- [Move WSL2 Distro To Other Driver](https://dev.to/brojenuel/move-wsl2-distro-to-other-driver-og3)
+- [Introduction to C Programming.](https://dev.to/sujithvsuresh/introduction-to-c-programming-50ag)
+- [3D cube loader using html css](https://dev.to/freecodez/3d-cube-loader-using-html-css-2d1b)
+- [Why Your Website Should Work Offline &lpar;And What You Should Do About It&rpar;](https://dev.to/opensourcee/why-your-website-should-work-offline-and-what-you-should-do-about-it-fck)
+- [Serverless and event-driven translation bot](https://dev.to/aws-builders/serverless-and-event-driven-translation-bot-4c8h)
 <!-- BLOG-POST-LIST:END -->
 
