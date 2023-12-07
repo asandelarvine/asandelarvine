@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Financial Data Analysis](https://dev.to/pierpaolo28/financial-data-analysis-1ka5)
+- [5 Essential Websites for Developers 🚀](https://dev.to/baransel/5-essential-websites-for-developers-4e1)
 - [WebAuthN in Remix - FaceID, YubiKey, and more!](https://dev.to/rametta/webauthn-in-remix-faceid-yubikey-and-more-5en)
 - [Microservice communication - Part 01](https://dev.to/cawizca/microservice-communication-part-01-47jk)
-- [Interview Tips: “Tell Me About a Time You Made a Mistake” in an Interview](https://dev.to/alexr/interview-tips-tell-me-about-a-time-you-made-a-mistake-in-an-interview-bfj)
-- [Using ElectricSQL to build a local-first application](https://dev.to/logrocket/using-electricsql-to-build-a-local-first-application-5e42)
 <!-- BLOG-POST-LIST:END -->
 
