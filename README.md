@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 01: Modelo Entidade Relacionamento](https://dev.to/mpfdev/dia-01-modelo-entidade-relacionamento-11bd)
-- [Upload repository to GitHub with Git.](https://dev.to/elmurod5676/upload-repository-to-github-with-git-3nif)
-- [AWS Bedrock Claude 2.1 - Return only JSON](https://dev.to/aws-builders/aws-bedrock-claude-21-return-only-json-4pfk)
-- [Datatypes in C Programming.](https://dev.to/sujithvsuresh/datatypes-in-c-programming-6ep)
+- [Views, Sequences e Synonyms: Um tutorial prático](https://dev.to/mizevski/views-sequences-e-synonyms-um-tutorial-pratico-379d)
+- [Uprobes Siblings - Capturing HTTPS Traffic: A Rust and eBPF Odyssey](https://dev.to/douglasmakey/uprobes-siblings-capturing-https-traffic-a-rust-and-ebpf-odyssey-4gcg)
+- [Why I got into a tech career?](https://dev.to/nandinishinduja/why-i-got-into-a-tech-career-3dlp)
+- [How to Handle Shadow DOM in Cypress](https://dev.to/lambdatest/how-to-handle-shadow-dom-in-cypress-3a4j)
 <!-- BLOG-POST-LIST:END -->
 
