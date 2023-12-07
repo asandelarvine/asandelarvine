@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Chromatic’s Cypress integration](https://dev.to/chromatic/introducing-chromatics-cypress-integration-ohe)
-- [CSS Spiderman Animation](https://dev.to/codingcss/css-spiderman-animation-5d76)
-- [Financial Data Analysis](https://dev.to/pierpaolo28/financial-data-analysis-1ka5)
-- [5 Essential Websites for Developers 🚀](https://dev.to/baransel/5-essential-websites-for-developers-4e1)
+- [Dia 01: Modelo Entidade Relacionamento](https://dev.to/mpfdev/dia-01-modelo-entidade-relacionamento-11bd)
+- [Upload repository to GitHub with Git.](https://dev.to/elmurod5676/upload-repository-to-github-with-git-3nif)
+- [AWS Bedrock Claude 2.1 - Return only JSON](https://dev.to/aws-builders/aws-bedrock-claude-21-return-only-json-4pfk)
+- [Datatypes in C Programming.](https://dev.to/sujithvsuresh/datatypes-in-c-programming-6ep)
 <!-- BLOG-POST-LIST:END -->
 
