@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Variables in C Programming](https://dev.to/sujithvsuresh/variables-in-c-programming-4o06)
-- [Asynchronous Batching: The &lpar;not so&rpar; secret weapon of JavaScript](https://dev.to/cadienvan/asynchronous-batching-the-not-so-secret-weapon-of-javascript-2gno)
-- [The One Plot to Rule Them All](https://dev.to/proteusiq/the-one-plot-to-rule-them-all-52e1)
-- [Oracle Linux 8.8&#39;de PostgreSQL 13 Yedekli Yapı Nasıl Kurulur? - Patroni, ETCD, HAProxy](https://dev.to/aciklab/oracle-linux-88de-postgresql-13-yedekli-yapi-nasil-kurulur-patroni-etcd-haproxy-4711)
+- [Alternate Career Paths for Computer Science Graduates](https://dev.to/nandinishinduja/alternate-career-paths-for-computer-science-graduates-3c5i)
+- [React Beyond the Boilerplate: Unleashing Creativity with Manual Mastery - Part 1: React as a CDN](https://dev.to/ajayprakash/react-beyond-the-boilerplate-unleashing-creativity-with-manual-mastery-part-1-using-react-as-a-cdn-without-npm-or-jsx-8oe)
+- [Optimizing Developer Experience: The Crucial Role of a Robust API Documentation](https://dev.to/devxme/optimizing-developer-experience-the-crucial-role-of-a-robust-api-documentation-5f5o)
+- [Unleashing Productivity and Efficiency: 10 Essential Tools for Every Web Developer](https://dev.to/bhavesh_yadav/unleashing-productivity-and-efficiency-10-essential-tools-for-every-web-developer-256n)
 <!-- BLOG-POST-LIST:END -->
 
