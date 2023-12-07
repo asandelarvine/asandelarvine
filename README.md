@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Canary releases with Apache APISIX](https://dev.to/apisix/canary-releases-with-apache-apisix-2o39)
+- [Using IAM authentication for Redis on AWS](https://dev.to/abhirockzz/using-iam-authentication-for-redis-on-aws-32kd)
+- [Elevate Your Web Development Game: 12 JavaScript Features Every Developer Should Master](https://dev.to/shadbalti/elevate-your-web-development-game-12-javascript-features-every-developer-should-master-21f)
 - [⚡️ Testing Individual StepFunction States](https://dev.to/aws-builders/testing-individual-stepfunction-states-5eil)
-- [Liman 2.0 Ağ İzleme Eklentisi Ayarları Nasıl Yapılır?](https://dev.to/aciklab/liman-20-ag-izleme-eklentisi-ayarlari-nasil-yapilir-22nn)
-- [🔥 How to Convert Word &lpar;Doc/ Docx&rpar; to PDF in Python?](https://dev.to/codingco/how-to-convert-word-doc-docx-to-pdf-in-python-308h)
-- [Python 3.12 Performance - a Quick Test](https://dev.to/maximsaplin/python-312-performance-a-quick-test-4en5)
 <!-- BLOG-POST-LIST:END -->
 
