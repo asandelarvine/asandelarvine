@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Git stash commands every developer should know](https://dev.to/atapas/10-git-stash-commands-every-developer-should-know-96d)
+- [Switch Case in different ways](https://dev.to/jrtilak/switch-case-in-different-ways-4926)
+- [Testing GraphQL with Ruby](https://dev.to/yet_anotherdev/testing-graphql-with-ruby-5g5h)
 - [Recapping Re:Invent 2023](https://dev.to/aws-builders/recapping-reinvent-2023-mm3)
-- [Basic Data Types](https://dev.to/untilyou58/basic-data-types-49bo)
-- [Have You Faced the Challenge of Changing Jobs?](https://dev.to/devteam/have-you-faced-the-challenge-of-changing-jobs-2hci)
-- [Layoff Lessons: A Survival Guide with Joe Previte](https://dev.to/tdesseyn/layoff-lessons-a-survival-guide-with-joe-previte-1l5k)
 <!-- BLOG-POST-LIST:END -->
 
