@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive Into Programming Language Coding in a Grid](https://dev.to/codewithvoid/a-deep-dive-into-programming-language-coding-in-a-grid-1214)
-- [SPL: Transforming Data Processing with Grid-Style Coding](https://dev.to/mukeshkuiry/spl-transforming-data-processing-with-grid-style-coding-3if)
-- [Five tools to add to your K8s cluster](https://dev.to/cyclops-ui/five-tools-to-add-to-your-k8s-cluster-2j89)
-- [The Future of Remote Patient Monitoring Software Development](https://dev.to/rick78/the-future-of-remote-patient-monitoring-software-development-fic)
+- [Make your own Pomodoro Application with Python](https://dev.to/buzzpy/make-your-own-pomodoro-application-with-python-10lk)
+- [Changelog: Updating the Stats Page](https://dev.to/devteam/changelog-updating-the-stats-page-dp0)
+- [Mastering PR Messages: Why worry about them when there&#39;s AI &lpar;Part 2&rpar;](https://dev.to/tecnosam/mastering-pr-messages-why-worry-about-them-when-theres-ai-part-2-2dae)
+- [Hadoop/Spark is too heavy, esProc SPL is light](https://dev.to/vivi9876/hadoopspark-is-too-heavy-esproc-spl-is-light-8e2)
 <!-- BLOG-POST-LIST:END -->
 
