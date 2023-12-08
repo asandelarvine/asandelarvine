@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn open-source contribution.](https://dev.to/sujithvsuresh/learn-open-source-contribution-4me3)
 - [15 Websites That Every Developer Should Know!](https://dev.to/idboussadel/15-websites-that-every-developer-should-know-2beo)
 - [pyaction 4.27.0 Released](https://dev.to/cicirello/pyaction-4270-released-fbn)
 - [gnu-on-alpine 3.19.0 and alpine-plus-plus 3.19.0 Released](https://dev.to/cicirello/gnu-on-alpine-3190-and-alpine-plus-plus-3190-released-210h)
-- [How to build your own 3D avatar](https://dev.to/superviz/how-to-build-your-own-3d-avatar-4n5p)
 <!-- BLOG-POST-LIST:END -->
 
