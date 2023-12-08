@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Conundrum of the &quot;Top X&quot; Articles 🤔](https://dev.to/rgolawski/the-conundrum-of-the-top-x-articles-l55)
-- [The Good and Bad Of My First Tech Event](https://dev.to/golden_builds/the-good-and-bad-of-my-first-tech-event-4p53)
-- [This Week In React #165: StyleX, PandaCSS, Tailwind, Redux, Astro, Next.js, React-Native 0.73, Skia text layouts, Expo EAS...](https://dev.to/sebastienlorber/this-week-in-react-165-stylex-pandacss-tailwind-redux-astro-nextjs-react-native-073-skia-text-layouts-expo-eas-2fg8)
-- [Crafting Efficiency: The Symphony of Protocol Buffers and gRPC](https://dev.to/tyagi_data_wizard/crafting-efficiency-the-symphony-of-protocol-buffers-and-grpc-1gcl)
+- [Soldering 101: A Beginners guide](https://dev.to/codingcss/soldering-101-a-beginners-guide-42f6)
+- [Open-source chat bubble components built with Tailwind CSS](https://dev.to/themesberg/open-source-chat-bubble-components-built-with-tailwind-css-jkj)
+- [Power of AIOps in E-Commerce: Revolutionizing Operations with Artificial Intelligence](https://dev.to/agarralexx/power-of-aiops-in-e-commerce-revolutionizing-operations-with-artificial-intelligence-3p4j)
+- [Experience the magic of the new control flow in Angular 17](https://dev.to/railsstudent/experience-the-magic-of-the-new-control-flow-in-angular-17-30le)
 <!-- BLOG-POST-LIST:END -->
 
