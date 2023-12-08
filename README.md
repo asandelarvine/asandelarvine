@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your own Pomodoro Application with Python](https://dev.to/buzzpy/make-your-own-pomodoro-application-with-python-10lk)
-- [Changelog: Updating the Stats Page](https://dev.to/devteam/changelog-updating-the-stats-page-dp0)
-- [Mastering PR Messages: Why worry about them when there&#39;s AI &lpar;Part 2&rpar;](https://dev.to/tecnosam/mastering-pr-messages-why-worry-about-them-when-theres-ai-part-2-2dae)
-- [Hadoop/Spark is too heavy, esProc SPL is light](https://dev.to/vivi9876/hadoopspark-is-too-heavy-esproc-spl-is-light-8e2)
+- [The Intersection of AI and Cybersecurity: Strengthening Digital Defenses](https://dev.to/onix-systems/the-intersection-of-ai-and-cybersecurity-strengthening-digital-defenses-b1j)
+- [A Practical Guide To Building A Standard Continuous Integration Pipeline with Jenkins](https://dev.to/kelvinskell/a-practical-guide-to-building-a-standard-continuous-integration-pipeline-with-jenkins-2kp9)
+- [🔮 SuperDuperDB is #3 on GitHub Trending globally! 🥉](https://dev.to/guerra2fernando/superduperdb-is-3-on-github-trending-globally-5d)
+- [How I Would Break Into Tech in 2024](https://dev.to/brendamichellle/how-i-would-break-into-tech-in-2024-3d2j)
 <!-- BLOG-POST-LIST:END -->
 
