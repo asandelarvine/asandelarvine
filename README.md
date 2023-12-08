@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive Into Programming Language Coding in a Grid](https://dev.to/codewithvoid/a-deep-dive-into-programming-language-coding-in-a-grid-1214)
 - [SPL: Transforming Data Processing with Grid-Style Coding](https://dev.to/mukeshkuiry/spl-transforming-data-processing-with-grid-style-coding-3if)
-- [🔝 10 Open-Source Trending GitHub Repositories 📈](https://dev.to/bigsondev/10-open-source-trending-github-repositories-5gop)
 - [Five tools to add to your K8s cluster](https://dev.to/cyclops-ui/five-tools-to-add-to-your-k8s-cluster-2j89)
-- [[Postgres] More fun with JSON](https://dev.to/joolsmcfly/postgres-more-fun-with-json-31a0)
+- [The Future of Remote Patient Monitoring Software Development](https://dev.to/rick78/the-future-of-remote-patient-monitoring-software-development-fic)
 <!-- BLOG-POST-LIST:END -->
 
