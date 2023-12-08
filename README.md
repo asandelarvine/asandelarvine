@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Prompt Management 💫](https://dev.to/tanyarai/mastering-prompt-management-fbn)
+- [JavaScript ¿Qué es? 🤔 y ¿Con que se come? 🤤](https://dev.to/sandybecariait/javascript-que-es-y-con-que-se-come-33go)
 - [10 Git stash commands every developer should know](https://dev.to/atapas/10-git-stash-commands-every-developer-should-know-96d)
 - [Switch Case in different ways](https://dev.to/jrtilak/switch-case-in-different-ways-4926)
-- [Testing GraphQL with Ruby](https://dev.to/yet_anotherdev/testing-graphql-with-ruby-5g5h)
-- [Recapping Re:Invent 2023](https://dev.to/aws-builders/recapping-reinvent-2023-mm3)
 <!-- BLOG-POST-LIST:END -->
 
