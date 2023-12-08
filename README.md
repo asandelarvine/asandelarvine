@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Modern Python for Web Development](https://dev.to/mbrignone/embracing-modern-python-for-web-development-3nk7)
-- [A Practical Guide To Building A Standard Continuous Integration Pipeline with Jenkins](https://dev.to/kelvinskell/a-practical-guide-to-building-a-standard-continuous-integration-pipeline-with-jenkins-2kp9)
-- [🔮 SuperDuperDB is #3 on GitHub Trending globally! 🥉](https://dev.to/guerra2fernando/superduperdb-is-3-on-github-trending-globally-5d)
-- [How I Would Break Into Tech in 2024](https://dev.to/brendamichellle/how-i-would-break-into-tech-in-2024-3d2j)
+- [15 Websites That Every Developer Should Know!](https://dev.to/idboussadel/15-websites-that-every-developer-should-know-2beo)
+- [pyaction 4.27.0 Released](https://dev.to/cicirello/pyaction-4270-released-fbn)
+- [gnu-on-alpine 3.19.0 and alpine-plus-plus 3.19.0 Released](https://dev.to/cicirello/gnu-on-alpine-3190-and-alpine-plus-plus-3190-released-210h)
+- [How to build your own 3D avatar](https://dev.to/superviz/how-to-build-your-own-3d-avatar-4n5p)
 <!-- BLOG-POST-LIST:END -->
 
