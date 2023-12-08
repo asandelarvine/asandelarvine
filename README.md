@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Recapping Re:Invent 2023](https://dev.to/aws-builders/recapping-reinvent-2023-mm3)
 - [Basic Data Types](https://dev.to/untilyou58/basic-data-types-49bo)
 - [Have You Faced the Challenge of Changing Jobs?](https://dev.to/devteam/have-you-faced-the-challenge-of-changing-jobs-2hci)
 - [Layoff Lessons: A Survival Guide with Joe Previte](https://dev.to/tdesseyn/layoff-lessons-a-survival-guide-with-joe-previte-1l5k)
-- [How To Add Autoprefix To CSS Codes](https://dev.to/mertcanyurttas/how-to-add-autoprefix-to-css-codes-16c2)
 <!-- BLOG-POST-LIST:END -->
 
