@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Soldering 101: A Beginners guide](https://dev.to/codingcss/soldering-101-a-beginners-guide-42f6)
-- [Open-source chat bubble components built with Tailwind CSS](https://dev.to/themesberg/open-source-chat-bubble-components-built-with-tailwind-css-jkj)
-- [Power of AIOps in E-Commerce: Revolutionizing Operations with Artificial Intelligence](https://dev.to/agarralexx/power-of-aiops-in-e-commerce-revolutionizing-operations-with-artificial-intelligence-3p4j)
-- [Experience the magic of the new control flow in Angular 17](https://dev.to/railsstudent/experience-the-magic-of-the-new-control-flow-in-angular-17-30le)
+- [SPL: Transforming Data Processing with Grid-Style Coding](https://dev.to/mukeshkuiry/spl-transforming-data-processing-with-grid-style-coding-3if)
+- [🔝 10 Open-Source Trending GitHub Repositories 📈](https://dev.to/bigsondev/10-open-source-trending-github-repositories-5gop)
+- [Five tools to add to your K8s cluster](https://dev.to/cyclops-ui/five-tools-to-add-to-your-k8s-cluster-2j89)
+- [[Postgres] More fun with JSON](https://dev.to/joolsmcfly/postgres-more-fun-with-json-31a0)
 <!-- BLOG-POST-LIST:END -->
 
