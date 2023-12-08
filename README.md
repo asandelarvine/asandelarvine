@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Linux 8.8&#39;de Yedekli Yapıya Node Nasıl Eklenir?](https://dev.to/aciklab/oracle-linux-88de-yedekli-yapiya-node-nasil-eklenir-34a)
+- [What is the Difference between Native Mobile App Design and Responsive Web Design](https://dev.to/helmsman-consultancy/what-is-the-difference-between-native-mobile-app-design-and-responsive-web-design-1k8o)
+- [Is Host-based Cloud Platform Useless?](https://dev.to/aws-builders/is-host-based-cloud-platform-useless-222n)
 - [Mastering Prompt Management 💫](https://dev.to/tanyarai/mastering-prompt-management-fbn)
-- [JavaScript ¿Qué es? 🤔 y ¿Con que se come? 🤤](https://dev.to/sandybecariait/javascript-que-es-y-con-que-se-come-33go)
-- [10 Git stash commands every developer should know](https://dev.to/atapas/10-git-stash-commands-every-developer-should-know-96d)
-- [Switch Case in different ways](https://dev.to/jrtilak/switch-case-in-different-ways-4926)
 <!-- BLOG-POST-LIST:END -->
 
