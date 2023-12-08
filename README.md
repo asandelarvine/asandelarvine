@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Basic Data Types](https://dev.to/untilyou58/basic-data-types-49bo)
 - [Have You Faced the Challenge of Changing Jobs?](https://dev.to/devteam/have-you-faced-the-challenge-of-changing-jobs-2hci)
-- [Discussion of the Week: Money or Passion?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-439m)
-- [Views, Sequences e Synonyms: Um tutorial prático](https://dev.to/mizevski/views-sequences-e-synonyms-um-tutorial-pratico-379d)
+- [Layoff Lessons: A Survival Guide with Joe Previte](https://dev.to/tdesseyn/layoff-lessons-a-survival-guide-with-joe-previte-1l5k)
+- [How To Add Autoprefix To CSS Codes](https://dev.to/mertcanyurttas/how-to-add-autoprefix-to-css-codes-16c2)
 <!-- BLOG-POST-LIST:END -->
 
