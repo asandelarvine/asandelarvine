@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Asynchronous JavaScript: A Comprehensive Guide](https://dev.to/codingcss/mastering-asynchronous-javascript-a-comprehensive-guide-4bh5)
 - [Jobs &amp; Queues in Laravel](https://dev.to/mazimez/jobs-queues-in-laravel-5k8)
 - [Handle React forms like a pro](https://dev.to/evansifyke/handle-react-forms-like-a-pro-402n)
 - [AWS Container Services: ECS, EKS, Fargate, ECR](https://dev.to/fpesre/aws-container-services-ecs-eks-fargate-ecr-393o)
-- [Quitting During Layoffs was a Terrible Idea](https://dev.to/mohammadfaisal/quitting-during-layoffs-was-a-terrible-idea-g62)
 <!-- BLOG-POST-LIST:END -->
 
