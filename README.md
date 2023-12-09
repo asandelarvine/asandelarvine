@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Chose Not To Continue Interviewing With A Certain Popular Tech Podcast](https://dev.to/levisharpe/why-i-chose-not-to-continue-interviewing-with-a-certain-popular-tech-podcast-4m4l)
+- [Instalando GitLab Usando Docker](https://dev.to/alfredotavio/instalando-gitlab-usando-docker-4b57)
 - [Using Facebook Research&#39;s Llama Guard to moderate ChatGPT convos](https://dev.to/tanyarai/using-facebook-researchs-llama-guard-to-moderate-chatgpt-convos-32ha)
 - [What new releases are you most excited about these days?](https://dev.to/ben/what-new-releases-are-you-most-excited-about-these-days-4cac)
-- [Desenvolvendo Controllers Robustos em ASP.NET: Implementando BaseController com BaseResponse para Respostas Eficientes](https://dev.to/akioserizawa/desenvolvendo-controllers-robustos-em-aspnet-implementando-basecontroller-com-baseresponse-para-respostas-eficientes-4n2k)
-- [Operators in C programming](https://dev.to/sujithvsuresh/operators-in-c-programming-1hb5)
 <!-- BLOG-POST-LIST:END -->
 
