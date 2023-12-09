@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [📝Komodore&#39;s ✅TO-DO APP Sales](https://dev.to/blueberry077/komodores-to-do-app-sales-4h2a)
+- [Why you should never use an UUID as the primary key in SQL Databases](https://dev.to/frederik_vl/why-you-should-never-use-an-uuid-as-the-primary-key-in-sql-databases-147b)
 - [🔝 10 Open-Source Trending GitHub Repositories 📈](https://dev.to/bigsondev/10-open-source-trending-github-repositories-1a98)
-- [I built this postgres logger](https://dev.to/kaushik94/i-built-this-postgres-logger-17e4)
-- [I built an URL shortener with Cloudflare KV](https://dev.to/vikashrathee/i-built-an-url-shortener-with-cloudflare-kv-5b7i)
+- [Zod - TypeScript-first schema declaration and validation library #5](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-5-1hc0)
 <!-- BLOG-POST-LIST:END -->
 
