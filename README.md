@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What new releases are you most excited about these days?](https://dev.to/ben/what-new-releases-are-you-most-excited-about-these-days-4cac)
+- [Desenvolvendo Controllers Robustos em ASP.NET: Implementando BaseController com BaseResponse para Respostas Eficientes](https://dev.to/akioserizawa/desenvolvendo-controllers-robustos-em-aspnet-implementando-basecontroller-com-baseresponse-para-respostas-eficientes-4n2k)
 - [Operators in C programming](https://dev.to/sujithvsuresh/operators-in-c-programming-1hb5)
 - [How to Build Your Own CLI with Nodejs &lpar;and Push it to npm&rpar;](https://dev.to/opensourcee/how-to-build-your-own-cli-with-nodejs-and-push-it-to-npm-43hk)
-- [Advent of Code 2023 Day 9](https://dev.to/nickymeuleman/advent-of-code-2023-day-9-266n)
-- [Mastering Asynchronous JavaScript: A Comprehensive Guide](https://dev.to/codingcss/mastering-asynchronous-javascript-a-comprehensive-guide-4bh5)
 <!-- BLOG-POST-LIST:END -->
 
