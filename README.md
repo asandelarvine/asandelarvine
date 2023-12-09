@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-powered GitHub app to automatically link issues in a PR](https://dev.to/gitcommitshow/ai-powered-github-app-to-automatically-link-issues-in-a-pr-4idj)
-- [Replit&#39;s 100 Days of code &lpar;Day 13 Challenge&rpar;](https://dev.to/erictwillis/replits-100-days-of-code-day-13-challenge-50l8)
-- [From Tags to Braces: Understanding XML and JSON](https://dev.to/vedangit/from-tags-to-braces-understanding-xml-and-json-im9)
-- [💻 GitHub&#39;s Illusion: Debunking the Dot Count Craze for Developers &quot;](https://dev.to/c0mmand3rj/githubs-illusion-debunking-the-dot-count-craze-for-developers--1e3d)
+- [React Native flex-box concepts](https://dev.to/sujithvsuresh/react-native-flex-box-concepts-1d2)
+- [Comments in C](https://dev.to/sujithvsuresh/comments-in-c-3d2d)
+- [Input and Output in C](https://dev.to/sujithvsuresh/input-and-output-in-c-agj)
+- [My take on how to improve the performance and accessibility of our website with React? &lpar;1&rpar; Performance](https://dev.to/anthonyzhang220/my-take-on-how-to-improve-the-performance-and-accessibility-of-our-website-with-react-1-performance-3l2c)
 <!-- BLOG-POST-LIST:END -->
 
