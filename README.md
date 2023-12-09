@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-86o)
-- [Building Cloud Native Monitoring Application on Kubernetes and AWS ECR 🚀 🚀 🚀](https://dev.to/swapi123/building-cloud-native-monitoring-application-on-kubernetes-and-aws-ecr-3d2)
-- [I used CodiumAI&#39;s PR Agent, and I love it](https://dev.to/akshayballal/i-used-codiumais-pr-agent-and-i-love-it-1nb8)
-- [Python Projects for Beginners: Learn by Doing](https://dev.to/akashdev23/python-projects-for-beginners-learn-by-doing-2n7l)
+- [📝Komodore&#39;s ✅TO-DO APP Sales](https://dev.to/blueberry077/komodores-to-do-app-sales-4h2a)
+- [🔝 10 Open-Source Trending GitHub Repositories 📈](https://dev.to/bigsondev/10-open-source-trending-github-repositories-1a98)
+- [I built this postgres logger](https://dev.to/kaushik94/i-built-this-postgres-logger-17e4)
+- [I built an URL shortener with Cloudflare KV](https://dev.to/vikashrathee/i-built-an-url-shortener-with-cloudflare-kv-5b7i)
 <!-- BLOG-POST-LIST:END -->
 
