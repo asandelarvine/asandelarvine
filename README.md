@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📝Komodore&#39;s ✅TO-DO APP Sales](https://dev.to/blueberry077/komodores-to-do-app-sales-4h2a)
-- [Why you should never use an UUID as the primary key in SQL Databases](https://dev.to/frederik_vl/why-you-should-never-use-an-uuid-as-the-primary-key-in-sql-databases-147b)
-- [🔝 10 Open-Source Trending GitHub Repositories 📈](https://dev.to/bigsondev/10-open-source-trending-github-repositories-1a98)
-- [Zod - TypeScript-first schema declaration and validation library #5](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-5-1hc0)
+- [🔥 9 Useful Web Extensions For Developers 💎](https://dev.to/random_ti/9-useful-web-extensions-for-developers-2m72)
+- [✨23 Open-Source libraries to launch your portfolio &lpar;to the moon&rpar;🚀🚀](https://dev.to/copilotkit/23-open-source-libraries-to-launch-your-portfolio-to-the-moon-fe)
+- [Should listicles be forced to have a tag so we can hide them from feed?](https://dev.to/nombrekeff/should-listicles-be-forced-to-have-a-tag-so-we-can-hide-them-from-feed-1j25)
+- [AWS Lambda: Serverless Computing Made Easy](https://dev.to/ismail11/aws-lambda-serverless-computing-made-easy-1347)
 <!-- BLOG-POST-LIST:END -->
 
