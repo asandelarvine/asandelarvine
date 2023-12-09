@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit&#39;s 100 Days of code &lpar;Day 13 Challenge&rpar;](https://dev.to/erictwillis/replits-100-days-of-code-day-13-challenge-50l8)
+- [From Tags to Braces: Understanding XML and JSON](https://dev.to/vedangit/from-tags-to-braces-understanding-xml-and-json-im9)
 - [Business Intelligence and Analytics: A Comprehensive Guide](https://dev.to/codewithsom/business-intelligence-and-analytics-a-comprehensive-guide-4nen)
 - [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c)
-- [Focus Strategies: How Can You Enhance Productivity?](https://dev.to/codenewbieteam/focus-strategies-how-can-you-enhance-productivity-27f4)
-- [Using Benthos: A Practical Guide for Kafka and PostgreSQL Integration](https://dev.to/ranjbaryshahab/using-benthos-a-practical-guide-for-kafka-and-postgresql-integration-2dln)
 <!-- BLOG-POST-LIST:END -->
 
