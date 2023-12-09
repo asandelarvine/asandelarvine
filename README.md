@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding AI ✨ To Your Enterprise with Swirl: Search Smarter, Better, and Faster ⚡️](https://dev.to/swirl/adding-ai-to-your-enterprise-with-swirl-search-smarter-better-and-faster-4f9b)
-- [🔥 9 Useful Web Extensions For Developers 💎](https://dev.to/random_ti/9-useful-web-extensions-for-developers-2m72)
-- [✨23 Open-Source libraries to launch your portfolio &lpar;to the moon&rpar;🚀🚀](https://dev.to/copilotkit/23-open-source-libraries-to-launch-your-portfolio-to-the-moon-fe)
-- [Should listicles be forced to have a tag so we can hide them from feed?](https://dev.to/nombrekeff/should-listicles-be-forced-to-have-a-tag-so-we-can-hide-them-from-feed-1j25)
+- [Quitting During Layoffs was a Terrible Idea](https://dev.to/mohammadfaisal/quitting-during-layoffs-was-a-terrible-idea-g62)
+- [Mining Adventure V.0.1](https://dev.to/lwdrury09/mining-adventure-v01-33a5)
+- [AI tools for web developers you need to follow](https://dev.to/syki/ai-tools-for-web-developers-you-need-to-follow-1fil)
+- [Unleash the Power of SWR: Mastering Data Fetching in Next.js](https://dev.to/a4arpon/unleash-the-power-of-swr-mastering-data-fetching-in-nextjs-bca)
 <!-- BLOG-POST-LIST:END -->
 
