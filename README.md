@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Focus Strategies: How Can You Enhance Productivity?](https://dev.to/codenewbieteam/focus-strategies-how-can-you-enhance-productivity-27f4)
+- [Using Benthos: A Practical Guide for Kafka and PostgreSQL Integration](https://dev.to/ranjbaryshahab/using-benthos-a-practical-guide-for-kafka-and-postgresql-integration-2dln)
+- [Enhancing Error Handling in TypeScript: Leveraging Functional Concepts for Better Practices](https://dev.to/atsyot/enhancing-error-handling-in-typescript-leveraging-functional-concepts-for-better-practices-hib)
 - [Discovering Plug in Play architecture - Exploring Successful Plug-and-Play Implementations](https://dev.to/ivangavlik/discovering-plug-in-play-architecture-exploring-successful-plug-and-play-implementations-1i8e)
-- [How to Effectively Search Large Datasets in Python](https://dev.to/oluseyej/how-to-effectively-search-large-datasets-in-python-5a6l)
-- [TIL - Today I Learn 12-11 18-11 parte 2](https://dev.to/devhat/til-today-i-learn-12-11-18-11-parte-2-45n4)
-- [Top 7 Frontend Trends 📈 and Predictions For 2024 You Should Watch Out &lpar;According to Experts&rpar;💎](https://dev.to/blarzhernandez/top-7-frontend-trends-and-predictions-for-2024-you-should-watch-out-according-to-experts-239n)
 <!-- BLOG-POST-LIST:END -->
 
