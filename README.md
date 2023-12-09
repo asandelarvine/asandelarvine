@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-86o)
+- [Building Cloud Native Monitoring Application on Kubernetes and AWS ECR 🚀 🚀 🚀](https://dev.to/swapi123/building-cloud-native-monitoring-application-on-kubernetes-and-aws-ecr-3d2)
 - [I used CodiumAI&#39;s PR Agent, and I love it](https://dev.to/akshayballal/i-used-codiumais-pr-agent-and-i-love-it-1nb8)
 - [Python Projects for Beginners: Learn by Doing](https://dev.to/akashdev23/python-projects-for-beginners-learn-by-doing-2n7l)
-- [React Native flex-box concepts](https://dev.to/sujithvsuresh/react-native-flex-box-concepts-1d2)
-- [Comments in C](https://dev.to/sujithvsuresh/comments-in-c-3d2d)
 <!-- BLOG-POST-LIST:END -->
 
