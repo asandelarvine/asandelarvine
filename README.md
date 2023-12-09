@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Operators in C programming](https://dev.to/sujithvsuresh/operators-in-c-programming-1hb5)
+- [How to Build Your Own CLI with Nodejs &lpar;and Push it to npm&rpar;](https://dev.to/opensourcee/how-to-build-your-own-cli-with-nodejs-and-push-it-to-npm-43hk)
+- [Advent of Code 2023 Day 9](https://dev.to/nickymeuleman/advent-of-code-2023-day-9-266n)
 - [Mastering Asynchronous JavaScript: A Comprehensive Guide](https://dev.to/codingcss/mastering-asynchronous-javascript-a-comprehensive-guide-4bh5)
-- [Jobs &amp; Queues in Laravel](https://dev.to/mazimez/jobs-queues-in-laravel-5k8)
-- [Handle React forms like a pro](https://dev.to/evansifyke/handle-react-forms-like-a-pro-402n)
-- [AWS Container Services: ECS, EKS, Fargate, ECR](https://dev.to/fpesre/aws-container-services-ecs-eks-fargate-ecr-393o)
 <!-- BLOG-POST-LIST:END -->
 
