@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jobs &amp; Queues in Laravel](https://dev.to/mazimez/jobs-queues-in-laravel-5k8)
+- [Handle React forms like a pro](https://dev.to/evansifyke/handle-react-forms-like-a-pro-402n)
+- [AWS Container Services: ECS, EKS, Fargate, ECR](https://dev.to/fpesre/aws-container-services-ecs-eks-fargate-ecr-393o)
 - [Quitting During Layoffs was a Terrible Idea](https://dev.to/mohammadfaisal/quitting-during-layoffs-was-a-terrible-idea-g62)
-- [Mining Adventure V.0.1](https://dev.to/lwdrury09/mining-adventure-v01-33a5)
-- [AI tools for web developers you need to follow](https://dev.to/syki/ai-tools-for-web-developers-you-need-to-follow-1fil)
-- [Unleash the Power of SWR: Mastering Data Fetching in Next.js](https://dev.to/a4arpon/unleash-the-power-of-swr-mastering-data-fetching-in-nextjs-bca)
 <!-- BLOG-POST-LIST:END -->
 
