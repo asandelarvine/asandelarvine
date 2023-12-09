@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered GitHub app to automatically link issues in a PR](https://dev.to/gitcommitshow/ai-powered-github-app-to-automatically-link-issues-in-a-pr-4idj)
 - [Replit&#39;s 100 Days of code &lpar;Day 13 Challenge&rpar;](https://dev.to/erictwillis/replits-100-days-of-code-day-13-challenge-50l8)
 - [From Tags to Braces: Understanding XML and JSON](https://dev.to/vedangit/from-tags-to-braces-understanding-xml-and-json-im9)
-- [Business Intelligence and Analytics: A Comprehensive Guide](https://dev.to/codewithsom/business-intelligence-and-analytics-a-comprehensive-guide-4nen)
-- [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c)
+- [💻 GitHub&#39;s Illusion: Debunking the Dot Count Craze for Developers &quot;](https://dev.to/c0mmand3rj/githubs-illusion-debunking-the-dot-count-craze-for-developers--1e3d)
 <!-- BLOG-POST-LIST:END -->
 
