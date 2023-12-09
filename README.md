@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Business Intelligence and Analytics: A Comprehensive Guide](https://dev.to/codewithsom/business-intelligence-and-analytics-a-comprehensive-guide-4nen)
+- [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c)
 - [Focus Strategies: How Can You Enhance Productivity?](https://dev.to/codenewbieteam/focus-strategies-how-can-you-enhance-productivity-27f4)
 - [Using Benthos: A Practical Guide for Kafka and PostgreSQL Integration](https://dev.to/ranjbaryshahab/using-benthos-a-practical-guide-for-kafka-and-postgresql-integration-2dln)
-- [Enhancing Error Handling in TypeScript: Leveraging Functional Concepts for Better Practices](https://dev.to/atsyot/enhancing-error-handling-in-typescript-leveraging-functional-concepts-for-better-practices-hib)
-- [Discovering Plug in Play architecture - Exploring Successful Plug-and-Play Implementations](https://dev.to/ivangavlik/discovering-plug-in-play-architecture-exploring-successful-plug-and-play-implementations-1i8e)
 <!-- BLOG-POST-LIST:END -->
 
