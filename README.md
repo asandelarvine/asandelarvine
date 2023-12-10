@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 SQL Coding Questions for Data Analysts and Data Scientists](https://dev.to/ghulam/7-sql-coding-questions-for-data-analysts-and-data-scientists-d7d)
 - [Integrate LLM Frameworks](https://dev.to/neuml/integrate-llm-frameworks-3078)
 - [Why I Chose Not To Continue Interviewing With A Certain Popular Tech Podcast](https://dev.to/levisharpe/why-i-chose-not-to-continue-interviewing-with-a-certain-popular-tech-podcast-4m4l)
 - [Instalando GitLab Usando Docker](https://dev.to/alfredotavio/instalando-gitlab-usando-docker-4b57)
-- [Data Pagination in React &lpar;Nextjs&rpar; with Custom Hooks](https://dev.to/stephengade/data-pagination-in-react-nextjs-with-custom-hooks-1ik0)
 <!-- BLOG-POST-LIST:END -->
 
