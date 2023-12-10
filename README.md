@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Thread Pool in C++ from scratch](https://dev.to/ish4n10/making-a-thread-pool-in-c-from-scratch-bnm)
+- [Numeric encoding](https://dev.to/untilyou58/numeric-encoding-jlf)
 - [Redefine your Logic for stricter, safer JavaScript defaults with the &#39;??&#39; operator](https://dev.to/subaash_b/redefine-your-logic-for-stricter-safer-javascript-defaults-with-the-operator-393m)
 - [5 JavaScript Mistakes Every Beginner Must Avoid 🔥](https://dev.to/arjuncodess/5-javascript-mistakes-every-beginner-must-avoid-4ceo)
-- [Data Warehouse Concepts, focusing on the Kimball vs. Inmon methodologies](https://dev.to/senpuki/data-warehouse-concepts-focusing-on-the-kimball-vs-inmon-methodologies-4bdk)
-- [venv: Create Virtual Environments Easily in Python](https://dev.to/sachingeek/venv-create-virtual-environments-easily-in-python-2ei1)
 <!-- BLOG-POST-LIST:END -->
 
