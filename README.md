@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 GitHub Repos to Improve as a Backend Engineer](https://dev.to/durgesh4993/10-github-repos-to-improve-as-a-backend-engineer-4lmi)
+- [Project Ten: Image Filters](https://dev.to/valeriavg/project-ten-image-filters-2k7o)
 - [Human and AiConfig - Life is all about Composition](https://dev.to/ranjancse/human-and-aiconfig-life-is-all-about-composition-i29)
 - [Simplifying ETL Pipelines with SQL: Three Tips for Data Processing](https://dev.to/priyagupta0112/simplifying-etl-pipelines-with-sql-three-tips-for-data-processing-4goc)
-- [Offline eventually consistent synchronization using CRDTS](https://dev.to/ebuckley/offline-eventually-consistent-synchronization-using-crdts-2826)
-- [7 SQL Coding Questions for Data Analysts and Data Scientists](https://dev.to/ghulam/7-sql-coding-questions-for-data-analysts-and-data-scientists-d7d)
 <!-- BLOG-POST-LIST:END -->
 
