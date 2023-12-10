@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Summary Artwork with the AiConfig](https://dev.to/ranjancse/summary-artwork-with-the-aiconfig-kmc)
+- [Building a Type-Safe Go Backend for a React Web App](https://dev.to/encore/building-a-type-safe-go-backend-for-a-react-web-app-3hmf)
 - [10 GitHub Repos to Improve as a Backend Engineer](https://dev.to/durgesh4993/10-github-repos-to-improve-as-a-backend-engineer-4lmi)
 - [Project Ten: Image Filters](https://dev.to/valeriavg/project-ten-image-filters-2k7o)
-- [Human and AiConfig - Life is all about Composition](https://dev.to/ranjancse/human-and-aiconfig-life-is-all-about-composition-i29)
-- [Simplifying ETL Pipelines with SQL: Three Tips for Data Processing](https://dev.to/priyagupta0112/simplifying-etl-pipelines-with-sql-three-tips-for-data-processing-4goc)
 <!-- BLOG-POST-LIST:END -->
 
