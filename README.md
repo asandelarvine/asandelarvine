@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Interview: Replica sets vs Daemon sets](https://dev.to/devopstune/devops-interview-replica-sets-vs-daemon-sets-2bo7)
-- [Building Real-Time Next.js Apps with WebSockets and Soketi](https://dev.to/franciscomendes10866/building-real-time-applications-with-nextjs-and-websockets-588j)
-- [Making a Thread Pool in C++ from scratch](https://dev.to/ish4n10/making-a-thread-pool-in-c-from-scratch-bnm)
-- [Numeric encoding](https://dev.to/untilyou58/numeric-encoding-jlf)
+- [Making a single line break in markdown](https://dev.to/cassidoo/making-a-single-line-break-in-markdown-3db1)
+- [How to Deploy a Dockerized App to Amazon EKS](https://dev.to/ken_mwaura1/how-to-deploy-a-dockerized-app-to-amazon-eks-5e1)
+- [Authenticate your React App with Supabase](https://dev.to/arindam_1729/authenticate-your-react-app-with-supabase-59oh)
+- [Authenticate Your React App with Firebase](https://dev.to/arindam_1729/authenticate-your-react-app-with-firebase-2jp6)
 <!-- BLOG-POST-LIST:END -->
 
