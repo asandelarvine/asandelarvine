@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Interview: Replica sets vs Daemon sets](https://dev.to/devopstune/devops-interview-replica-sets-vs-daemon-sets-2bo7)
+- [Building Real-Time Next.js Apps with WebSockets and Soketi](https://dev.to/franciscomendes10866/building-real-time-applications-with-nextjs-and-websockets-588j)
 - [Making a Thread Pool in C++ from scratch](https://dev.to/ish4n10/making-a-thread-pool-in-c-from-scratch-bnm)
 - [Numeric encoding](https://dev.to/untilyou58/numeric-encoding-jlf)
-- [Redefine your Logic for stricter, safer JavaScript defaults with the &#39;??&#39; operator](https://dev.to/subaash_b/redefine-your-logic-for-stricter-safer-javascript-defaults-with-the-operator-393m)
-- [5 JavaScript Mistakes Every Beginner Must Avoid 🔥](https://dev.to/arjuncodess/5-javascript-mistakes-every-beginner-must-avoid-4ceo)
 <!-- BLOG-POST-LIST:END -->
 
