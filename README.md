@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Serve Laravel Apps With Valet on MacOS](https://dev.to/martinsonuoha/how-to-serve-laravel-apps-with-valet-on-macos-5014)
 - [How to Get Audio Transcriptions from Whisper without a File System](https://dev.to/ajones_codes/how-to-get-audio-transcriptions-from-whisper-without-a-file-system-21ek)
 - [Making a single line break in markdown](https://dev.to/cassidoo/making-a-single-line-break-in-markdown-3db1)
 - [How to Deploy a Dockerized App to Amazon EKS](https://dev.to/ken_mwaura1/how-to-deploy-a-dockerized-app-to-amazon-eks-5e1)
-- [Authenticate your React App with Supabase](https://dev.to/arindam_1729/authenticate-your-react-app-with-supabase-59oh)
 <!-- BLOG-POST-LIST:END -->
 
