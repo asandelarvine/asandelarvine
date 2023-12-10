@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q in Amazon QuickSight &lpar;Preview&rpar;- Generative BI dashboards with Natural Language Processing](https://dev.to/aws-heroes/amazon-q-in-amazon-quicksight-previewpart-1-build-dashboards-with-nlp-339o)
+- [Amazon Q in Amazon QuickSight &lpar;Preview&rpar;- Generative BI with Natural Language Processing](https://dev.to/aws-heroes/amazon-q-in-amazon-quicksight-previewpart-1-build-dashboards-with-nlp-339o)
 - [🔥14 Excellent Open-source Projects for Developers😎](https://dev.to/codewithshahan/14-excellent-open-source-projects-for-developers-431k)
 - [Summary Artwork with the AiConfig](https://dev.to/ranjancse/summary-artwork-with-the-aiconfig-kmc)
 - [Building a Type-Safe Go Backend for a React Web App](https://dev.to/encore/building-a-type-safe-go-backend-for-a-react-web-app-3hmf)
