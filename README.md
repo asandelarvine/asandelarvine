@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [給前端的簡單 AI 教學 - 1. 連接 OpenAI](https://dev.to/shunnnet/gei-qian-duan-de-jian-dan-ai-jiao-xue-lian-jie-openai-1e93)
-- [AI code generation vs. coding by hand - what programming is going to look like in 202X 🤖 🤔](https://dev.to/wasp/ai-code-generation-vs-coding-by-hand-what-programming-is-going-to-look-like-in-202x-1idh)
-- [FLaNK Stack Weekly 11 Dec 2023](https://dev.to/tspannhw/flank-stack-weekly-11-dec-2023-1mj0)
-- [Creating Standout Documentation: The Six C&#39;s of Technical Writing Excellence](https://dev.to/valeriahhdez/creating-standout-documentation-the-six-cs-of-technical-writing-excellence-2co3)
+- [Meme Monday](https://dev.to/ben/meme-monday-1gg7)
+- [Underline And Overline Menu Hover Effect | CSS Projects](https://dev.to/codingcss/underline-and-overline-menu-hover-effect-css-projects-1ngm)
+- [Replacing Parts of my Laptop](https://dev.to/ingosteinke/replacing-parts-of-my-laptop-6gh)
+- [Competitive Coding Websites](https://dev.to/nandinishinduja/competitive-coding-websites-4po2)
 <!-- BLOG-POST-LIST:END -->
 
