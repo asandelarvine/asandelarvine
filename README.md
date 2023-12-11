@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [✨FACEIO for Password-less Web Authentication](https://dev.to/dev_kiran/faceio-for-password-less-web-authentication-4k2i)
-- [Agrega consulta de documentos a tu Asistente de IA Generativa](https://dev.to/aws-espanol/agrega-consulta-de-documentos-a-tu-asistente-de-ia-generativa-2bjc)
 - [What are your goals that you want to achieve before year ends ? 🚀](https://dev.to/craftingbugs/what-are-your-goals-that-you-want-to-achieve-before-year-end--3pap)
 - [🚨 🚀 25 Reasons &lpar;You MUST Know!!&rpar; Why “Listicles” Are BAD for dev.to 🤯 👿 🚨](https://dev.to/best_codes/25-reasons-you-must-know-why-listicles-are-bad-for-devto-1hok)
+- [3 Simple Responsive Sidebar Designs In HTML CSS](https://dev.to/codeboxx/3-simple-responsive-sidebar-designs-in-html-css-4nn4)
 <!-- BLOG-POST-LIST:END -->
 
