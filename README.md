@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Four Ways to Improve Back-end Performance for Multidimensional Analysis](https://dev.to/esproc_spl/four-ways-to-improve-back-end-performance-for-multidimensional-analysis-5gmp)
+- [Power Apps - Arch Reviews](https://dev.to/wyattdave/power-apps-arch-reviews-21fp)
+- [Cooking Up Data Perfection in Power Apps: Bob&#39;s Burgers Style](https://dev.to/balagmadhu/cooking-up-data-perfection-in-power-apps-bobs-burgers-style-2ebh)
 - [10 Youtube channels to enhance your skills as a frontend developer](https://dev.to/emkay860/10-youtube-channels-to-enhance-your-skills-as-a-frontend-developer-546i)
-- [25 Web Development Projects You Must Work On- 2024](https://dev.to/mukeshkuiry/25-web-development-projects-you-must-work-on-2024-4onl)
-- [A Guide To Using Nivo with ReactJS](https://dev.to/jgdevelopments/a-guide-to-using-nivo-with-reactjs-2hh8)
-- [✨FACEIO for Password-less Web Authentication](https://dev.to/dev_kiran/faceio-for-password-less-web-authentication-4k2i)
 <!-- BLOG-POST-LIST:END -->
 
