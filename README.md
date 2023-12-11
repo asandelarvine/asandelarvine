@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [✨FACEIO for Password-less Web Authentication](https://dev.to/dev_kiran/faceio-for-password-less-web-authentication-4k2i)
+- [Agrega consulta de documentos a tu Asistente de IA Generativa](https://dev.to/aws-espanol/agrega-consulta-de-documentos-a-tu-asistente-de-ia-generativa-2bjc)
+- [What are your goals that you want to achieve before year ends ? 🚀](https://dev.to/craftingbugs/what-are-your-goals-that-you-want-to-achieve-before-year-end--3pap)
 - [🚨 🚀 25 Reasons &lpar;You MUST Know!!&rpar; Why “Listicles” Are BAD for dev.to 🤯 👿 🚨](https://dev.to/best_codes/25-reasons-you-must-know-why-listicles-are-bad-for-devto-1hok)
-- [3 Reasons Why You Should Contribute to Open Source in 2024](https://dev.to/flipt/3-reasons-why-you-should-contribute-to-open-source-in-2024-16h3)
-- [Seamless Cloud Infrastructure: Integrating Terragrunt and Terraform with AWS](https://dev.to/lpossamai/seamless-cloud-infrastructure-integrating-terragrunt-and-terraform-with-aws-3pbb)
-- [How to Serve Laravel Apps With Valet on MacOS](https://dev.to/martinsonuoha/how-to-serve-laravel-apps-with-valet-on-macos-5014)
 <!-- BLOG-POST-LIST:END -->
 
