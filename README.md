@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚨 🚀 25 Reasons &lpar;You MUST Know!!&rpar; Why “Listicles” Are BAD for dev.to 🤯 👿 🚨](https://dev.to/best_codes/25-reasons-you-must-know-why-listicles-are-bad-for-devto-1hok)
 - [3 Reasons Why You Should Contribute to Open Source in 2024](https://dev.to/flipt/3-reasons-why-you-should-contribute-to-open-source-in-2024-16h3)
 - [Seamless Cloud Infrastructure: Integrating Terragrunt and Terraform with AWS](https://dev.to/lpossamai/seamless-cloud-infrastructure-integrating-terragrunt-and-terraform-with-aws-3pbb)
 - [How to Serve Laravel Apps With Valet on MacOS](https://dev.to/martinsonuoha/how-to-serve-laravel-apps-with-valet-on-macos-5014)
-- [How to Get Audio Transcriptions from Whisper without a File System](https://dev.to/ajones_codes/how-to-get-audio-transcriptions-from-whisper-without-a-file-system-21ek)
 <!-- BLOG-POST-LIST:END -->
 
