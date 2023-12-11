@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 🚀 💻 Which is Better in JavaScript: require or import? 🤔🚀🧐👩‍💻👨‍💻](https://dev.to/marmariadev/which-is-better-in-javascript-require-or-import-i-need-advice-from-experts-14ec)
-- [The big Angular UI library comparison 📚](https://dev.to/kinginit/the-big-angular-ui-library-comparison-4ifp)
-- [🔪 6 Killer Open-Source Libraries to Achieve AI Mastery before 2024 🔥🪄](https://dev.to/confidentai/6-killer-open-source-libraries-to-achieve-ai-mastery-before-2024-4p1c)
-- [Load Pokemon data into Postgres](https://dev.to/kaushik94/load-pokemon-data-into-postgres-1566)
+- [🎉One must-have tool for anyone in Data field 🤯✨](https://dev.to/shricodev/one-must-have-tool-for-anyone-in-data-field-2jek)
+- [Lean Product Development: Strategies for Agile and Efficient Results](https://dev.to/codingcrafts/lean-product-development-strategies-for-agile-and-efficient-results-4k4m)
+- [Build a tooltip component](https://dev.to/phuocng/build-a-tooltip-component-204)
+- [CodePen November challenge: WebDataRocks experience](https://dev.to/juliianikitina/codepen-november-challenge-webdatarocks-experience-2jff)
 <!-- BLOG-POST-LIST:END -->
 
