@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Relevant DEV Posts - an Updated Reading List &lpar;no developer must read this&rpar;](https://dev.to/ingosteinke/relevant-dev-posts-an-updated-reading-list-no-developer-must-read-this-5eej)
-- [Supabase Studio: AI Assistant and User Impersonation](https://dev.to/supabase/supabase-studio-ai-assistant-and-user-impersonation-22mn)
-- [Best Tech YouTube Channels](https://dev.to/nandinishinduja/best-tech-youtube-channels-1aki)
-- [Websites where you can search for developer jobs](https://dev.to/nandinishinduja/websites-where-you-can-search-for-developer-jobs-kdg)
+- [Developer Relations is an all-company effort](https://dev.to/blackgirlbytes/developer-relations-is-an-all-company-effort-4onm)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-dgp)
+- [Explain AWS Lambda to your EC2 guy in 5 steps](https://dev.to/shamendra/explain-aws-lambda-to-your-ec2-guy-in-5-steps-2jha)
+- [SwiftUI Sheets Demystified &lpar;Episode I &rpar;](https://dev.to/niqt/swiftui-sheets-demystified-episode-ideg-2abp)
 <!-- BLOG-POST-LIST:END -->
 
