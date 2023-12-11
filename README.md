@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #182](https://dev.to/aws/aws-open-source-newsletter-182-2fjh)
 - [Four Ways to Improve Back-end Performance for Multidimensional Analysis](https://dev.to/esproc_spl/four-ways-to-improve-back-end-performance-for-multidimensional-analysis-5gmp)
 - [Power Apps - Arch Reviews](https://dev.to/wyattdave/power-apps-arch-reviews-21fp)
 - [Cooking Up Data Perfection in Power Apps: Bob&#39;s Burgers Style](https://dev.to/balagmadhu/cooking-up-data-perfection-in-power-apps-bobs-burgers-style-2ebh)
-- [10 Youtube channels to enhance your skills as a frontend developer](https://dev.to/emkay860/10-youtube-channels-to-enhance-your-skills-as-a-frontend-developer-546i)
 <!-- BLOG-POST-LIST:END -->
 
