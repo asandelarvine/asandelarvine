@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Programming mistakes to avoid ❎ 👨🏻‍💻](https://dev.to/dhanushnehru/top-10-programming-mistakes-to-avoid-342f)
-- [React Server-Side Rendering without Next.js](https://dev.to/opensourcee/react-server-side-rendering-without-nextjs-1kcj)
-- [The Pipeline🛠️Repos Showdown⚔️: Python 🐍 Edition](https://dev.to/taipy/the-pipeline-repos-showdown-python-edition-39i5)
-- [Recursion for Technical Interviews - A Guide For Self-taught Developers](https://dev.to/piko/recursion-for-technical-interviews-guide-for-self-taught-developers-new-to-algorithms-and-recursion-32d9)
+- [給前端的簡單 AI 教學 - 1. 連接 OpenAI](https://dev.to/shunnnet/gei-qian-duan-de-jian-dan-ai-jiao-xue-lian-jie-openai-1e93)
+- [AI code generation vs. coding by hand - what programming is going to look like in 202X 🤖 🤔](https://dev.to/wasp/ai-code-generation-vs-coding-by-hand-what-programming-is-going-to-look-like-in-202x-1idh)
+- [FLaNK Stack Weekly 11 Dec 2023](https://dev.to/tspannhw/flank-stack-weekly-11-dec-2023-1mj0)
+- [Creating Standout Documentation: The Six C&#39;s of Technical Writing Excellence](https://dev.to/valeriahhdez/creating-standout-documentation-the-six-cs-of-technical-writing-excellence-2co3)
 <!-- BLOG-POST-LIST:END -->
 
