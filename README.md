@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Relevant DEV Posts - an Updated Reading List &lpar;no developer must read this&rpar;](https://dev.to/ingosteinke/relevant-dev-posts-an-updated-reading-list-no-developer-must-read-this-5eej)
+- [Supabase Studio: AI Assistant and User Impersonation](https://dev.to/supabase/supabase-studio-ai-assistant-and-user-impersonation-22mn)
 - [Best Tech YouTube Channels](https://dev.to/nandinishinduja/best-tech-youtube-channels-1aki)
 - [Websites where you can search for developer jobs](https://dev.to/nandinishinduja/websites-where-you-can-search-for-developer-jobs-kdg)
-- [Data Structures Implementation in JavaScript or TypeScript](https://dev.to/bugudiramu/data-structures-implementation-in-javascript-or-typescript-4h3c)
-- [How to Successfully Integrate with Legacy APIs Using NodeJS](https://dev.to/aluisiodev/how-to-successfully-integrate-with-legacy-apis-using-nodejs-3kbf)
 <!-- BLOG-POST-LIST:END -->
 
