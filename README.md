@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Youtube channels to enhance your skills as a frontend developer](https://dev.to/emkay860/10-youtube-channels-to-enhance-your-skills-as-a-frontend-developer-546i)
 - [25 Web Development Projects You Must Work On- 2024](https://dev.to/mukeshkuiry/25-web-development-projects-you-must-work-on-2024-4onl)
 - [A Guide To Using Nivo with ReactJS](https://dev.to/jgdevelopments/a-guide-to-using-nivo-with-reactjs-2hh8)
 - [✨FACEIO for Password-less Web Authentication](https://dev.to/dev_kiran/faceio-for-password-less-web-authentication-4k2i)
-- [What are your goals that you want to achieve before year ends ? 🚀](https://dev.to/craftingbugs/what-are-your-goals-that-you-want-to-achieve-before-year-end--3pap)
 <!-- BLOG-POST-LIST:END -->
 
