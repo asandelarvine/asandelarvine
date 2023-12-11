@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revojs: How a Local Conference in 🇷🇴 Romania turned into a Networking Gold Mine](https://dev.to/mihneasim/revojs-how-a-local-conference-in-romania-turned-into-a-networking-gold-mine-3eio)
-- [🎉One must-have tool for anyone in Data field 🤯✨](https://dev.to/shricodev/one-must-have-tool-for-anyone-in-data-field-2jek)
-- [:has&lpar;&rpar; pseudo-class](https://dev.to/joefrey/has-pseudo-class-og)
-- [Lean Product Development: Strategies for Agile and Efficient Results](https://dev.to/codingcrafts/lean-product-development-strategies-for-agile-and-efficient-results-4k4m)
+- [Top 10 Programming mistakes to avoid ❎ 👨🏻‍💻](https://dev.to/dhanushnehru/top-10-programming-mistakes-to-avoid-342f)
+- [React Server-Side Rendering without Next.js](https://dev.to/opensourcee/react-server-side-rendering-without-nextjs-1kcj)
+- [The Pipeline🛠️Repos Showdown⚔️: Python 🐍 Edition](https://dev.to/taipy/the-pipeline-repos-showdown-python-edition-39i5)
+- [Recursion for Technical Interviews - A Guide For Self-taught Developers](https://dev.to/piko/recursion-for-technical-interviews-guide-for-self-taught-developers-new-to-algorithms-and-recursion-32d9)
 <!-- BLOG-POST-LIST:END -->
 
