@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revojs: How a Local Conference in 🇷🇴 Romania turned into a Networking Gold Mine](https://dev.to/mihneasim/revojs-how-a-local-conference-in-romania-turned-into-a-networking-gold-mine-3eio)
 - [🎉One must-have tool for anyone in Data field 🤯✨](https://dev.to/shricodev/one-must-have-tool-for-anyone-in-data-field-2jek)
+- [:has&lpar;&rpar; pseudo-class](https://dev.to/joefrey/has-pseudo-class-og)
 - [Lean Product Development: Strategies for Agile and Efficient Results](https://dev.to/codingcrafts/lean-product-development-strategies-for-agile-and-efficient-results-4k4m)
-- [Build a tooltip component](https://dev.to/phuocng/build-a-tooltip-component-204)
-- [CodePen November challenge: WebDataRocks experience](https://dev.to/juliianikitina/codepen-november-challenge-webdatarocks-experience-2jff)
 <!-- BLOG-POST-LIST:END -->
 
