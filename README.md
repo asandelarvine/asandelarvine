@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Back to the Future: Exploring Frameworkless and Serverless Web Development](https://dev.to/restdbjones/back-to-the-future-exploring-frameworkless-and-serverless-web-development-2gjg)
+- [AI + OSS](https://dev.to/opensauced/ai-oss-25kb)
 - [Top 10 terraform tools you should know about.](https://dev.to/digger/top-10-terraform-tools-you-should-know-about-1fhg)
 - [Embracing the AI and Cybersecurity Evolution: Lessons from Tech Conferences](https://dev.to/nikitakoselev/embracing-the-ai-and-cybersecurity-evolution-lessons-from-tech-conferences-42da)
-- [Meme Monday](https://dev.to/ben/meme-monday-1gg7)
-- [Underline And Overline Menu Hover Effect | CSS Projects](https://dev.to/codingcss/underline-and-overline-menu-hover-effect-css-projects-1ngm)
 <!-- BLOG-POST-LIST:END -->
 
