@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Amazing Frontend Libraries to Supercharge Your Web Design 🚀🔥](https://dev.to/hosseinyazdi/12-amazing-frontend-libraries-to-supercharge-your-web-design-384e)
-- [👋 Why we say GOODBYE to HELM 👋](https://dev.to/glasskube/why-we-say-goodbye-to-helm-3bmf)
-- [News Content Aggregation Platform](https://dev.to/shreyvijayvargiya/news-content-aggregation-platform-2820)
-- [AWS open source newsletter, #182](https://dev.to/aws/aws-open-source-newsletter-182-2fjh)
+- [🚨 🚀 💻 Which is Better in JavaScript: require or import? 🤔🚀🧐👩‍💻👨‍💻](https://dev.to/marmariadev/which-is-better-in-javascript-require-or-import-i-need-advice-from-experts-14ec)
+- [The big Angular UI library comparison 📚](https://dev.to/kinginit/the-big-angular-ui-library-comparison-4ifp)
+- [🔪 6 Killer Open-Source Libraries to Achieve AI Mastery before 2024 🔥🪄](https://dev.to/confidentai/6-killer-open-source-libraries-to-achieve-ai-mastery-before-2024-4p1c)
+- [Load Pokemon data into Postgres](https://dev.to/kaushik94/load-pokemon-data-into-postgres-1566)
 <!-- BLOG-POST-LIST:END -->
 
