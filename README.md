@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover da RocketSeat - Módulo 1.](https://dev.to/licia-afk/discover-da-rocketseat-modulo-1-2hb)
+- [Which Skills Are Essential for Juniors Front End Developers? ✅ 👩‍💻](https://dev.to/brian_curricular/which-skills-are-essential-for-juniors-front-end-developers-4lhm)
+- [Unit Test Like a Pro: Automock, My Open Source Answer to Mocking Frustration 🤓💡🎭](https://dev.to/omermorad/unit-test-like-a-pro-automock-my-open-source-answer-to-mocking-frustration-31p4)
 - [Getting Started With Kubectl: A Guide To Kubernetes](https://dev.to/fizy_hector/getting-started-with-kubectl-a-guide-to-kubernetes-2e7n)
-- [Day 97: Typed Effect](https://dev.to/dhrn/day-97-typed-effect-4lcb)
-- [How to End Your Day Productively?](https://dev.to/devteam/how-to-end-your-day-productively-4jpi)
-- [🖌️⚙️ Innovate Like Da Vinci: Blending Art and Science in Software Development](https://dev.to/kiselitza/innovate-like-da-vinci-blending-art-and-science-in-software-development-2b20)
 <!-- BLOG-POST-LIST:END -->
 
