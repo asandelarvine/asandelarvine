@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Tooltip-like Testimonial with Tailwind and Alpine.js](https://dev.to/cruip_com/creating-a-tooltip-like-testimonial-with-tailwind-and-alpinejs-2i6)
 - [A cost-efficient and event-driven BigQuery loading for Intermediate Data Engineers](https://dev.to/stack-labs/a-cost-efficient-and-event-driven-bigquery-loading-for-intermediate-data-engineers-30b4)
 - [Introduction to React Table - TanStack Table Adapter for React](https://dev.to/refine/introduction-to-react-table-tanstack-table-adapter-for-react-4ao6)
 - [19 Handy Websites for Web Developers](https://dev.to/devland/19-handy-websites-for-web-developers-1m3i)
-- [Github Authentication](https://dev.to/mintuagarwal/github-authentication-3il3)
 <!-- BLOG-POST-LIST:END -->
 
