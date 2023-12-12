@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge Functions: Node and native npm compatibility](https://dev.to/supabase/edge-functions-node-and-native-npm-compatibility-77f)
+- [Top 9 Tech Trends &lpar;Insights &amp; Industry Impacts 2024&rpar;](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
+- [What is Machine Learning?](https://dev.to/terieyenike/what-is-machine-learning-3j3e)
 - [Understanding the Event Loop in JavaScript](https://dev.to/ryver_dev/understanding-the-event-loop-in-javascript-4051)
-- [Ruby on Rails Payment Gateway Integration with Rapyd API](https://dev.to/rapyd/ruby-on-rails-payment-gateway-integration-with-rapyd-api-14l6)
-- [Discover da RocketSeat - Módulo 1.](https://dev.to/licia-afk/discover-da-rocketseat-modulo-1-2hb)
-- [Which Skills Are Essential for Juniors Front End Developers? ✅ 👩‍💻](https://dev.to/brian_curricular/which-skills-are-essential-for-juniors-front-end-developers-4lhm)
 <!-- BLOG-POST-LIST:END -->
 
