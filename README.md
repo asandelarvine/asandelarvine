@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [19 Handy Websites for Web Developers](https://dev.to/devland/19-handy-websites-for-web-developers-1m3i)
 - [Revolutionizing Pull Request Collaboration: CodiumAI PR-Agent VS GitHub Copilot For Pull Requests](https://dev.to/dukeofhazardz/revolutionizing-pull-request-collaboration-codiumai-pr-agent-vs-github-copilot-for-pull-requests-2e7o)
 - [Online Web Scraping 101: A Beginner&#39;s Guide to Extract Data from the Web](https://dev.to/newsdataio/online-web-scraping-101-a-beginners-guide-to-extract-data-from-the-web-5fp0)
 - [Liman 2.0 Eklentiye Lisans Nasıl Eklenir?](https://dev.to/aciklab/liman-20-eklentiye-lisans-nasil-eklenir-46b5)
-- [Top 7 Highest paying software jobs in India for fresher](https://dev.to/learningpath/navigating-the-tech-jungle-the-highest-paying-software-jobs-in-india-for-fresher-5dm4)
 <!-- BLOG-POST-LIST:END -->
 
