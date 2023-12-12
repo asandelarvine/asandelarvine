@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a CI/CD Integration with Amazon EC2, Jenkins and Docker](https://dev.to/aws-builders/building-a-cicd-integration-with-amazon-ec2-jenkins-and-docker-5bnh)
+- [14 tips to write better Javascript](https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0)
 - [Work Focus Techniques: Strategies for a More Productive Day?](https://dev.to/codenewbieteam/work-focus-techniques-strategies-for-a-more-productive-day-162k)
 - [Building a PDF Summarizer with LangChain](https://dev.to/shittu_olumide_/building-a-pdf-summarizer-with-langchain-18fe)
-- [NativeScript-Vue unit testing with Vitest](https://dev.to/vallemar/nativescript-vue-unit-testing-with-vitest-5e7b)
-- [Any STEM-themed gift or activity ideas for kids that aren&#39;t books?](https://dev.to/jess/any-stem-themed-gift-or-activity-ideas-for-kids-that-arent-books-36n1)
 <!-- BLOG-POST-LIST:END -->
 
