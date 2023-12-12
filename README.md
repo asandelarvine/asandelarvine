@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An open source Spotify-like yearly recap using your Github contributions](https://dev.to/dhruvagarwal/an-open-source-spotify-like-yearly-recap-using-your-github-contributions-43p)
+- [Hardening Cluster Security in Google Kubernetes Engine](https://dev.to/monarene/hardening-cluster-security-in-google-kubernetes-engine-3n30)
+- [Implementing HMR for Pinia in NativeScript-Vue with Webpack 5](https://dev.to/vladyslav_uk/implementing-hmr-for-pinia-in-nativescript-vue-with-webpack-5-580l)
 - [Edge Functions: Node and native npm compatibility](https://dev.to/supabase/edge-functions-node-and-native-npm-compatibility-77f)
-- [Top 9 Tech Trends &lpar;Insights &amp; Industry Impacts 2024&rpar;](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
-- [What is Machine Learning?](https://dev.to/terieyenike/what-is-machine-learning-3j3e)
-- [Understanding the Event Loop in JavaScript](https://dev.to/ryver_dev/understanding-the-event-loop-in-javascript-4051)
 <!-- BLOG-POST-LIST:END -->
 
