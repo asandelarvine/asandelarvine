@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Network - Nasıl Dashboard Oluşturulur?](https://dev.to/aciklab/network-nasil-dashboard-olusturulur-12jm)
 - [Monetization plan for a Telegram Bot: From zero to first profit.](https://dev.to/aadrobushevskiy/monetization-plan-for-a-telegram-bot-from-zero-to-first-profit-2bpo)
 - [Building a CI/CD Integration with Amazon EC2, Jenkins and Docker](https://dev.to/aws-builders/building-a-cicd-integration-with-amazon-ec2-jenkins-and-docker-5bnh)
 - [14 tips to write better Javascript](https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0)
-- [Work Focus Techniques: Strategies for a More Productive Day?](https://dev.to/codenewbieteam/work-focus-techniques-strategies-for-a-more-productive-day-162k)
 <!-- BLOG-POST-LIST:END -->
 
