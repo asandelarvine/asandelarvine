@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Kubectl: A Guide To Kubernetes](https://dev.to/fizy_hector/getting-started-with-kubectl-a-guide-to-kubernetes-2e7n)
+- [Day 97: Typed Effect](https://dev.to/dhrn/day-97-typed-effect-4lcb)
+- [How to End Your Day Productively?](https://dev.to/devteam/how-to-end-your-day-productively-4jpi)
 - [🖌️⚙️ Innovate Like Da Vinci: Blending Art and Science in Software Development](https://dev.to/kiselitza/innovate-like-da-vinci-blending-art-and-science-in-software-development-2b20)
-- [Shopware changes since the 6.0 dev training videos](https://dev.to/ingosteinke/shopware-changes-since-the-60-dev-training-videos-481o)
-- [Celebrating 1000 Followers on Dev.to 🎉](https://dev.to/cadienvan/celebrating-1000-followers-on-devto-32f1)
-- [JavaScript Fullstack WEB App: Nextjs &amp; Docker](https://dev.to/francescoxx/javascript-fullstack-web-app-nextjs-docker-4d44)
 <!-- BLOG-POST-LIST:END -->
 
