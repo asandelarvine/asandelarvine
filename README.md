@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Amazon Q in VSCode using IAM Identity Centre](https://dev.to/sanketkalekar/setting-up-amazon-q-in-vscode-using-iam-identity-centre-4p71)
-- [🔥 Top 12 libraries for your NextJS project 🏆](https://dev.to/nevodavid/top-12-libraries-for-your-nextjs-project-1oob)
-- [Unique Ironman button using html css](https://dev.to/freecodez/unique-ironman-button-using-html-css-9le)
-- [Creating a Tooltip-like Testimonial with Tailwind and Alpine.js](https://dev.to/cruip_com/creating-a-tooltip-like-testimonial-with-tailwind-and-alpinejs-2i6)
+- [Rise of ChatGPT in Sales](https://dev.to/agarralexx/rise-of-chatgpt-in-sales-2gll)
+- [Network - Makineye Özel Dashboard Nasıl Oluşturulur?](https://dev.to/aciklab/network-makineye-ozel-dashboard-nasil-olusturulur-45po)
+- [You don’t know communication](https://dev.to/noriller/you-dont-know-communication-45ne)
+- [Authentication vs Authorization: Exploring The Difference](https://dev.to/permify/authentication-vs-authorization-exploring-the-difference-2l14)
 <!-- BLOG-POST-LIST:END -->
 
