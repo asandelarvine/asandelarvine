@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Network - Nasıl Dashboard Oluşturulur?](https://dev.to/aciklab/network-nasil-dashboard-olusturulur-12jm)
-- [Monetization plan for a Telegram Bot: From zero to first profit.](https://dev.to/aadrobushevskiy/monetization-plan-for-a-telegram-bot-from-zero-to-first-profit-2bpo)
-- [Building a CI/CD Integration with Amazon EC2, Jenkins and Docker](https://dev.to/aws-builders/building-a-cicd-integration-with-amazon-ec2-jenkins-and-docker-5bnh)
-- [14 tips to write better Javascript](https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0)
+- [Navigating the Tech Jungle: The highest paying software jobs in India for fresher](https://dev.to/learningpath/navigating-the-tech-jungle-the-highest-paying-software-jobs-in-india-for-fresher-5dm4)
+- [Type Conversion in C](https://dev.to/sujithvsuresh/type-conversion-in-c-28bo)
+- [10 Programming Mistakes to Avoid ❎ 👨🏻‍💻](https://dev.to/dhanushnehru/10-programming-mistakes-to-avoid-24d8)
+- [Climbing the AI Application Value Ladder: 🤖🪜](https://dev.to/dawiddahl/climbing-the-ai-application-value-ladder-4cf0)
 <!-- BLOG-POST-LIST:END -->
 
