@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NativeScript-Vue unit testing with Vitest](https://dev.to/vallemar/nativescript-vue-unit-testing-with-vitest-5e7b)
 - [Any STEM-themed gift or activity ideas for kids that aren&#39;t books?](https://dev.to/jess/any-stem-themed-gift-or-activity-ideas-for-kids-that-arent-books-36n1)
 - [Go concurrency simplified. Part 2: Syncing goroutines with `sync.WaitGroup`](https://dev.to/_n0rdy_/go-concurrency-simplified-part-2-syncing-goroutines-with-syncwaitgroup-k6d)
 - [Developer Relations is an all-company effort](https://dev.to/blackgirlbytes/developer-relations-is-an-all-company-effort-4onm)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-dgp)
 <!-- BLOG-POST-LIST:END -->
 
