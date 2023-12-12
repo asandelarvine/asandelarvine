@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rise of ChatGPT in Sales](https://dev.to/agarralexx/rise-of-chatgpt-in-sales-2gll)
-- [Network - Makineye Özel Dashboard Nasıl Oluşturulur?](https://dev.to/aciklab/network-makineye-ozel-dashboard-nasil-olusturulur-45po)
-- [You don’t know communication](https://dev.to/noriller/you-dont-know-communication-45ne)
-- [Authentication vs Authorization: Exploring The Difference](https://dev.to/permify/authentication-vs-authorization-exploring-the-difference-2l14)
+- [Celebrating 1000 Followers on Dev.to 🎉](https://dev.to/cadienvan/celebrating-1000-followers-on-devto-32f1)
+- [JavaScript Fullstack WEB App: Nextjs &amp; Docker](https://dev.to/francescoxx/javascript-fullstack-web-app-nextjs-docker-4d44)
+- [Lazy Loading in React](https://dev.to/teddapollo/lazy-loading-in-react-4a6f)
+- [Network - Ajansız ve SNMP&#39;siz Zabbix Host Nasıl İzlenir?](https://dev.to/aciklab/network-ajansiz-ve-snmpsiz-zabbix-host-nasil-izlenir-3j61)
 <!-- BLOG-POST-LIST:END -->
 
