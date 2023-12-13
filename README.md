@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Color Encyclopedia](https://dev.to/colortools/color-encyclopedia-298e)
 - [Configuring permissions on Hasura for Pokemon data](https://dev.to/kaushik94/configuring-permissions-on-hasura-for-pokemon-data-1lfm)
 - [Build a pokemon collectibles app in React.js in minutes 👨‍💻](https://dev.to/kaushik94/build-a-pokemon-collectibles-app-in-reactjs-in-minutes-2a06)
 - [Welcome Thread - v255](https://dev.to/devteam/welcome-thread-v255-2m85)
-- [The Strictest TypeScript Config](https://dev.to/what1s1ove/the-strictest-typescript-config-mad)
 <!-- BLOG-POST-LIST:END -->
 
