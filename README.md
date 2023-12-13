@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Cake Animation](https://dev.to/codingcss/css-cake-animation-3n5c)
+- [6 guidelines for risk-less data migrations](https://dev.to/slsbytheodo/6-guidelines-for-risk-less-data-migrations-3idl)
+- [Code Challenge: Calling Web Developers](https://dev.to/opensourcee/code-challenge-calling-web-developers-2eo1)
 - [New Meteor.js 2.14, updates to CLI and Tracker changes](https://dev.to/meteor/new-meteorjs-214-updates-to-cli-and-tracker-changes-3k49)
-- [10 Best performance monitoring tools](https://dev.to/zipy/10-best-performance-monitoring-tools-3ifm)
-- [Demystifying Deref Coercion in Rust](https://dev.to/melbournebaldove/demystifying-deref-coercion-in-rust-4kbn)
-- [Make your background task easy with Hangfire in .NET](https://dev.to/ifourtechnolab/make-your-background-task-easy-with-hangfire-in-net-3kfe)
 <!-- BLOG-POST-LIST:END -->
 
