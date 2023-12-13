@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Is New Tech Always Better?](https://dev.to/hasanelsherbiny/is-new-tech-always-better-2hdd)
 - [Intro to Python&#39;s &quot;Lock&quot; w/ Flask](https://dev.to/thetrebelcc/intro-to-pythons-lock-w-flask-2o88)
 - [Programar sin Título Universitario](https://dev.to/javascriptchile/programar-sin-titulo-universitario-2c42)
-- [I made a simple website 100% for FREE! 🤯](https://dev.to/best_codes/i-made-a-simple-website-100-for-free-hnf)
+- [Open Source Document Signing: Revolutionizing Digital Authentication](https://dev.to/opensign/open-source-document-signing-revolutionizing-digital-authentication-33m0)
 <!-- BLOG-POST-LIST:END -->
 
