@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nesting web components in vanilla JavaScript](https://dev.to/logrocket/nesting-web-components-in-vanilla-javascript-hhb)
 - [10 Tips for junior developers](https://dev.to/nandinishinduja/10-tips-for-junior-developers-kfb)
 - [Circular liquid loader using html css](https://dev.to/freecodez/circular-liquid-loader-using-html-css-4lbj)
 - [12 Senior Developer Traits Junior Developers Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
-- [When you want to use js/ts to obtain a large amount of network data, you may want to try x-crawl](https://dev.to/coderhxl/when-you-want-to-use-jsts-to-obtain-a-large-amount-of-network-data-you-may-want-to-try-x-crawl-4g8c)
 <!-- BLOG-POST-LIST:END -->
 
