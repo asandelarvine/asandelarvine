@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[TechStory]: How to add distributed tracing using Jaeger and OpenTelemetry into a Golang application](https://dev.to/arshamalh/techstory-how-to-add-distributed-tracing-using-jaeger-and-opentelemetry-into-a-golang-application-1p37)
+- [How to Get Preview Environments for Every Pull Request](https://dev.to/livecycle/how-to-get-preview-environments-for-every-pull-request-3fg0)
 - [Relational Algebra Is the Root of SQL Problems](https://dev.to/esproc_spl/relational-algebra-is-the-root-of-sql-problems-1cg5)
 - [StyleX - The new Game changer?](https://dev.to/tani1964/stylex-the-new-game-changer-54mn)
-- [Top 12 No Code Tools for Running a One-Person Startup](https://dev.to/gpt-prompt-coder/top-12-no-code-tools-for-running-a-one-person-startup-3m9j)
-- [Swift and Strategic Response: Dealing with Exposed IAM Access Keys](https://dev.to/aws-heroes/swift-and-strategic-response-dealing-with-exposed-iam-access-keys-4a6)
 <!-- BLOG-POST-LIST:END -->
 
