@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Simplify Your Code With Effective Code Refactoring](https://dev.to/devleader/how-to-simplify-your-code-with-effective-code-refactoring-5fon)
-- [You &lpar;probably&rpar; don&#39;t need DateTime](https://dev.to/scorpil/you-probably-dont-need-datetime-1p60)
-- [Nesting web components in vanilla JavaScript](https://dev.to/logrocket/nesting-web-components-in-vanilla-javascript-hhb)
-- [10 Tips for junior developers](https://dev.to/nandinishinduja/10-tips-for-junior-developers-kfb)
+- [Advent of Code 2023 - December 12th](https://dev.to/robvanderleek/advent-of-code-2023-december-12th-5a2g)
+- [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-builders/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-mpp)
+- [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-espanol/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-7k3)
+- [How to get good at competitive programming](https://dev.to/codewithshahan/how-to-get-good-at-competitive-programming-1dm7)
 <!-- BLOG-POST-LIST:END -->
 
