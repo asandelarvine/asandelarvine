@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
+- [My prediction for tech founders for 2024-2026](https://dev.to/johnrushx/my-prediction-for-tech-founders-for-2024-2026-2ap1)
+- [Supabase Branching](https://dev.to/supabase/supabase-branching-2m64)
 - [Demo Highlight: Angles](https://dev.to/joestrout/demo-highlight-angles-56o3)
-- [&quot;Thoughts on Degrees and Bootcamps&quot;: CodeNewbie Podcast S26E7](https://dev.to/codenewbieteam/thoughts-on-degrees-and-bootcamps-codenewbie-podcast-s26e7-33eb)
-- [Bandit Level 17 Level 18](https://dev.to/christianpaez/bandit-level-17-level-18-5dgf)
-- [🤩 11 AMAZING Bookmarklets for Web Devs 🔖 🚀 &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
 <!-- BLOG-POST-LIST:END -->
 
