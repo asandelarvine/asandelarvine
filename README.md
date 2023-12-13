@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 12 No Code Tools for Running a One-Person Startup](https://dev.to/gpt-prompt-coder/top-12-no-code-tools-for-running-a-one-person-startup-3m9j)
+- [Harness the power of multiple LLMs 🤝](https://dev.to/tanyarai/harness-the-power-of-multiple-llms-437d)
 - [Decoding the Cyber Threat Landscape: Exploring Different Types of Cyber Attacks](https://dev.to/abhixsh/different-types-of-cyber-attacks-6j9)
 - [RegEX: Anchors](https://dev.to/lavenderyellowbellie/regex-anchors-200j)
-- [Progress with Cloudinary](https://dev.to/amnish04/progress-with-cloudinary-5pp)
-- [El Real Enemigo en Nuestros Tiempos.](https://dev.to/javascriptchile/el-real-enemigo-en-nuestros-tiempos-3772)
 <!-- BLOG-POST-LIST:END -->
 
