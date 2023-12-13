@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Simplify Your Code With Effective Code Refactoring](https://dev.to/devleader/how-to-simplify-your-code-with-effective-code-refactoring-5fon)
+- [You &lpar;probably&rpar; don&#39;t need DateTime](https://dev.to/scorpil/you-probably-dont-need-datetime-1p60)
 - [Nesting web components in vanilla JavaScript](https://dev.to/logrocket/nesting-web-components-in-vanilla-javascript-hhb)
 - [10 Tips for junior developers](https://dev.to/nandinishinduja/10-tips-for-junior-developers-kfb)
-- [Circular liquid loader using html css](https://dev.to/freecodez/circular-liquid-loader-using-html-css-4lbj)
-- [12 Senior Developer Traits Junior Developers Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
 <!-- BLOG-POST-LIST:END -->
 
