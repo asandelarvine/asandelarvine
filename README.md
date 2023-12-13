@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Programming Languages are Employed for Developing Web Applications?](https://dev.to/dhruvjoshi9/what-programming-languages-are-employed-for-developing-web-applications-7kg)
+- [Demystifying Deref Coercion in Rust](https://dev.to/melbournebaldove/demystifying-deref-coercion-in-rust-4kbn)
+- [Make your background task easy with Hangfire in .NET](https://dev.to/ifourtechnolab/make-your-background-task-easy-with-hangfire-in-net-3kfe)
 - [Color Encyclopedia](https://dev.to/colortools/color-encyclopedia-298e)
-- [Configuring permissions on Hasura for Pokemon data](https://dev.to/kaushik94/configuring-permissions-on-hasura-for-pokemon-data-1lfm)
-- [Build a pokemon collectibles app in React.js in minutes 👨‍💻](https://dev.to/kaushik94/build-a-pokemon-collectibles-app-in-reactjs-in-minutes-2a06)
-- [Welcome Thread - v255](https://dev.to/devteam/welcome-thread-v255-2m85)
 <!-- BLOG-POST-LIST:END -->
 
