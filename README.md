@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[TechStory]: How to add distributed tracing using Jaeger and OpenTelemetry into a Golang application](https://dev.to/arshamalh/techstory-how-to-add-distributed-tracing-using-jaeger-and-opentelemetry-into-a-golang-application-1p37)
-- [How to Get Preview Environments for Every Pull Request](https://dev.to/livecycle/how-to-get-preview-environments-for-every-pull-request-3fg0)
-- [Relational Algebra Is the Root of SQL Problems](https://dev.to/esproc_spl/relational-algebra-is-the-root-of-sql-problems-1cg5)
-- [StyleX - The new Game changer?](https://dev.to/tani1964/stylex-the-new-game-changer-54mn)
+- [Configuring permissions on Hasura for Pokemon data](https://dev.to/kaushik94/configuring-permissions-on-hasura-for-pokemon-data-1lfm)
+- [Build a pokemon collectibles app in React.js in minutes 👨‍💻](https://dev.to/kaushik94/build-a-pokemon-collectibles-app-in-reactjs-in-minutes-2a06)
+- [Welcome Thread - v255](https://dev.to/devteam/welcome-thread-v255-2m85)
+- [The Strictest TypeScript Config](https://dev.to/what1s1ove/the-strictest-typescript-config-mad)
 <!-- BLOG-POST-LIST:END -->
 
