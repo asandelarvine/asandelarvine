@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Programming Languages are Employed for Developing Web Applications?](https://dev.to/dhruvjoshi9/what-programming-languages-are-employed-for-developing-web-applications-7kg)
+- [New Meteor.js 2.14, updates to CLI and Tracker changes](https://dev.to/meteor/new-meteorjs-214-updates-to-cli-and-tracker-changes-3k49)
+- [10 Best performance monitoring tools](https://dev.to/zipy/10-best-performance-monitoring-tools-3ifm)
 - [Demystifying Deref Coercion in Rust](https://dev.to/melbournebaldove/demystifying-deref-coercion-in-rust-4kbn)
 - [Make your background task easy with Hangfire in .NET](https://dev.to/ifourtechnolab/make-your-background-task-easy-with-hangfire-in-net-3kfe)
-- [Color Encyclopedia](https://dev.to/colortools/color-encyclopedia-298e)
 <!-- BLOG-POST-LIST:END -->
 
