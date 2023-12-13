@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [StyleX - The new Game changer?](https://dev.to/tani1964/stylex-the-new-game-changer-54mn)
 - [Top 12 No Code Tools for Running a One-Person Startup](https://dev.to/gpt-prompt-coder/top-12-no-code-tools-for-running-a-one-person-startup-3m9j)
+- [Swift and Strategic Response: Dealing with Exposed IAM Access Keys](https://dev.to/aws-heroes/swift-and-strategic-response-dealing-with-exposed-iam-access-keys-4a6)
 - [Harness the power of multiple LLMs 🤝](https://dev.to/tanyarai/harness-the-power-of-multiple-llms-437d)
-- [Decoding the Cyber Threat Landscape: Exploring Different Types of Cyber Attacks](https://dev.to/abhixsh/different-types-of-cyber-attacks-6j9)
-- [RegEX: Anchors](https://dev.to/lavenderyellowbellie/regex-anchors-200j)
 <!-- BLOG-POST-LIST:END -->
 
