@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎄 Top Front-End Frameworks in 2024 Worth Your Time and Effort to Master](https://dev.to/necatiozmen/top-front-end-frameworks-in-2024-worth-your-time-and-effort-to-master-2pce)
-- [❌ React Error Boundaries - Handling Errors Gracefully](https://dev.to/refine/react-error-boundaries-handling-errors-gracefully-5c77)
-- [Linux Commands Cheat Sheet](https://dev.to/serverspace/linux-commands-cheat-sheet-aif)
-- [CSS Cake Animation](https://dev.to/codingcss/css-cake-animation-3n5c)
+- [10 Tips for junior developers](https://dev.to/nandinishinduja/10-tips-for-junior-developers-kfb)
+- [Circular liquid loader using html css](https://dev.to/freecodez/circular-liquid-loader-using-html-css-4lbj)
+- [12 Senior Developer Traits Junior Developers Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
+- [When you want to use js/ts to obtain a large amount of network data, you may want to try x-crawl](https://dev.to/coderhxl/when-you-want-to-use-jsts-to-obtain-a-large-amount-of-network-data-you-may-want-to-try-x-crawl-4g8c)
 <!-- BLOG-POST-LIST:END -->
 
