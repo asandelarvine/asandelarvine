@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Roblox Limited Items Sniping with Python: Introducing AMP UGC Sniper](https://dev.to/incasedname/automated-roblox-limited-items-sniping-with-python-introducing-amp-ugc-sniper-i5e)
-- [JavaScript Snow](https://dev.to/codebubb/javascript-snow-52im)
-- [Load Balancers Explained](https://dev.to/gpiechnik/load-balancers-explained-14k3)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-1p0i)
+- [Deploying a Go backend to Kubernetes with Automatic Cluster Provisioning](https://dev.to/encore/deploying-a-go-backend-to-kubernetes-with-automatic-cluster-provisioning-4omm)
+- [How to Create Fully Reusable React Components](https://dev.to/theodorusclarence/how-to-create-fully-reusable-react-components-5f8o)
+- [🎉Monitor your Javascript application like a pro🧙‍♂️💫](https://dev.to/odigos/monitor-your-javascript-application-like-a-pro-581p)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-bfl)
 <!-- BLOG-POST-LIST:END -->
 
