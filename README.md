@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated Roblox Limited Items Sniping with Python: Introducing AMP UGC Sniper](https://dev.to/incasedname/automated-roblox-limited-items-sniping-with-python-introducing-amp-ugc-sniper-i5e)
+- [JavaScript Snow](https://dev.to/codebubb/javascript-snow-52im)
 - [Load Balancers Explained](https://dev.to/gpiechnik/load-balancers-explained-14k3)
 - [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-1p0i)
-- [Pitfalls in software design reasoning](https://dev.to/m0n0x41d/pitfalls-in-software-design-reasoning-36jh)
-- [Seasonal Surge in RPC Nodes: GetBlock Unveils Triple RPS Enhancement](https://dev.to/getblockapi/seasonal-surge-in-rpc-nodes-getblock-unveils-triple-rps-enhancement-aai)
 <!-- BLOG-POST-LIST:END -->
 
