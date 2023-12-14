@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Google Meet AI assistant app in 10 minutes without coding](https://dev.to/bobur/how-to-build-a-google-meet-ai-assistant-app-in-10-minutes-without-coding-1g06)
-- [Generative AI Frameworks and Tools Every Developer Should Know!](https://dev.to/pavanbelagatti/generative-ai-frameworks-and-tools-every-developer-should-know-39jk)
-- [AWS Well-Architected Review in Action](https://dev.to/aws-heroes/aws-well-architected-review-in-action-15a9)
-- [Using ChatGPT To Translate React App into Over 40 Languages in Just 100 Seconds](https://dev.to/idurar/using-chatgpt-to-translate-react-app-into-over-40-languages-in-just-100-seconds-1c8n)
+- [✨ Meta&#39;s StyleX - The styling system that powers Instagram](https://dev.to/refine/metas-stylex-the-styling-system-that-powers-instagram-25oo)
+- [Middleware&#39;s in NodeJS](https://dev.to/tanmaycode/middlewares-in-nodejs-4h2c)
+- [Top 10 Websites to Get Help When You Are Stuck as a Developer](https://dev.to/gpt-prompt-coder/top-10-websites-to-get-help-when-you-are-stuck-as-a-developer-2l8b)
+- [The Trade-Offs of Optimizing and Compressing Go Binaries](https://dev.to/aryaprakasa/the-trade-offs-of-optimizing-and-compressing-go-binaries-492d)
 <!-- BLOG-POST-LIST:END -->
 
