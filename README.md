@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Do Authorization - A Decision Framework: Part 1](https://dev.to/zenstack/how-to-do-authorization-a-decision-framework-part-1-4ado)
+- [The Advent of Monitoring, Day 3: Easy Monitoring for Self-Hosted Projects with Checkly](https://dev.to/checkly/the-advent-of-monitoring-day-3-easy-monitoring-for-self-hosted-projects-with-checkly-38c9)
 - [Deploying a Go backend to Kubernetes with Automatic Cluster Provisioning](https://dev.to/encore/deploying-a-go-backend-to-kubernetes-with-automatic-cluster-provisioning-4omm)
 - [How to Create Fully Reusable React Components](https://dev.to/theodorusclarence/how-to-create-fully-reusable-react-components-5f8o)
-- [🎉Monitor your Javascript application like a pro🧙‍♂️💫](https://dev.to/odigos/monitor-your-javascript-application-like-a-pro-581p)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-bfl)
 <!-- BLOG-POST-LIST:END -->
 
