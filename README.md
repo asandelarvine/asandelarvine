@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Load Balancers Explained](https://dev.to/gpiechnik/load-balancers-explained-14k3)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-1p0i)
 - [Pitfalls in software design reasoning](https://dev.to/m0n0x41d/pitfalls-in-software-design-reasoning-36jh)
 - [Seasonal Surge in RPC Nodes: GetBlock Unveils Triple RPS Enhancement](https://dev.to/getblockapi/seasonal-surge-in-rpc-nodes-getblock-unveils-triple-rps-enhancement-aai)
-- [Apache APISIX plugin priority, a leaky abstraction?](https://dev.to/apisix/apache-apisix-plugin-priority-a-leaky-abstraction-4oj1)
-- [Final Year Project, Lungs Cancer Detection Project using machine learning](https://dev.to/freecodez/final-year-project-lungs-cancer-detection-project-using-machine-learning-5gb9)
 <!-- BLOG-POST-LIST:END -->
 
