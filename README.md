@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Volta and NW.js are amazing together](https://dev.to/thejaredwilcurt/volta-and-nwjs-are-amazing-together-3i3i)
+- [Search Engine Optimization &lpar;SEO&rpar; #3 - Meta-Tags](https://dev.to/per-starke-642/search-engine-optimization-seo-3-meta-tags-5dgj)
+- [Giving a Three-Hour Workshop: Do&#39;s and Don&#39;ts](https://dev.to/carlastabile/three-hour-workshop-dos-and-donts-1dnp)
 - [AWS -Relational Database Service&lpar;RDS&rpar;](https://dev.to/kannanbaskaran/aws-relational-database-servicerds-3coa)
-- [Sloan&#39;s Inbox: What&#39;s the hardest thing about being a developer?](https://dev.to/devteam/sloans-inbox-whats-the-hardest-thing-about-being-a-developer-57b5)
-- [Common Mistakes of Building a Productivity Tool](https://dev.to/devslovecoffee/common-mistakes-of-building-a-productivity-tool-52a0)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-19cp)
 <!-- BLOG-POST-LIST:END -->
 
