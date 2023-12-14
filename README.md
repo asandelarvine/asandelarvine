@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Pretty Laravel x Tailwind emails](https://dev.to/jxd-dev/pretty-laravel-x-tailwind-emails-2145)
+- [Building a signature capture widget with an Appsmith Iframe and SignaturePad.js](https://dev.to/appsmith/building-a-signature-capture-widget-with-an-appsmith-iframe-and-signaturepadjs-fkn)
 - [9 Projects to Master Frontend Web Development in 2024 | **with resource**](https://dev.to/mukeshkuiry/9-projects-to-master-frontend-web-development-in-2024-with-resource-d0k)
 - [Convert Image Format In Javascript](https://dev.to/codeboxx/convert-image-format-in-javascript-5b49)
-- [🔥Our TOP 13 DEPLOYMENT &amp; TEMPLATING tools for KUBERNETES 🚀](https://dev.to/glasskube/our-top-13-deployment-templating-tools-for-kubernetes-4mei)
-- [Synthetic Monitoring with the Tracetest GitHub Action](https://dev.to/kubeshop/synthetic-monitoring-with-the-tracetest-github-action-5c8i)
 <!-- BLOG-POST-LIST:END -->
 
