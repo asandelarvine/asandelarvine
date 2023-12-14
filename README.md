@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Volta and NW.js are amazing together](https://dev.to/thejaredwilcurt/volta-and-nwjs-are-amazing-together-3i3i)
-- [Search Engine Optimization &lpar;SEO&rpar; #3 - Meta-Tags](https://dev.to/per-starke-642/search-engine-optimization-seo-3-meta-tags-5dgj)
-- [Giving a Three-Hour Workshop: Do&#39;s and Don&#39;ts](https://dev.to/carlastabile/three-hour-workshop-dos-and-donts-1dnp)
-- [AWS -Relational Database Service&lpar;RDS&rpar;](https://dev.to/kannanbaskaran/aws-relational-database-servicerds-3coa)
+- [Supabase Auth: Identity Linking, Hooks, and HaveIBeenPwned integration](https://dev.to/supabase/supabase-auth-identity-linking-hooks-and-haveibeenpwned-integration-19e1)
+- [Agile Tools](https://dev.to/nandinishinduja/agile-tools-3c0m)
+- [Clean Code: Lições essenciais do terceiro capítulo](https://dev.to/giovannamoeller/clean-code-licoes-essenciais-do-terceiro-capitulo-488a)
+- [Impacts Of Not Setting Requests, Limits, and Quotas](https://dev.to/thenjdevopsguy/impacts-of-not-setting-requests-limits-and-quotas-5f4b)
 <!-- BLOG-POST-LIST:END -->
 
