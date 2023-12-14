@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS -Relational Database Service&lpar;RDS&rpar;](https://dev.to/kannanbaskaran/aws-relational-database-servicerds-3coa)
 - [Sloan&#39;s Inbox: What&#39;s the hardest thing about being a developer?](https://dev.to/devteam/sloans-inbox-whats-the-hardest-thing-about-being-a-developer-57b5)
 - [Common Mistakes of Building a Productivity Tool](https://dev.to/devslovecoffee/common-mistakes-of-building-a-productivity-tool-52a0)
 - [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-19cp)
-- [Testando filas em projetos Laravel](https://dev.to/themattos/testando-filas-em-projetos-laravel-4g65)
 <!-- BLOG-POST-LIST:END -->
 
