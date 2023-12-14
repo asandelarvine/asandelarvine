@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Meta&#39;s StyleX - The styling system that powers Instagram](https://dev.to/refine/metas-stylex-the-styling-system-that-powers-instagram-25oo)
-- [Middleware&#39;s in NodeJS](https://dev.to/tanmaycode/middlewares-in-nodejs-4h2c)
-- [Top 10 Websites to Get Help When You Are Stuck as a Developer](https://dev.to/gpt-prompt-coder/top-10-websites-to-get-help-when-you-are-stuck-as-a-developer-2l8b)
-- [The Trade-Offs of Optimizing and Compressing Go Binaries](https://dev.to/aryaprakasa/the-trade-offs-of-optimizing-and-compressing-go-binaries-492d)
+- [OpenPose ControlNet: A Beginner&#39;s Guide](https://dev.to/novita_ai/openpose-controlnet-a-beginners-guide-3dm9)
+- [Free Online Courses](https://dev.to/brojenuel/free-online-courses-5f38)
+- [Building a Tech-Savvy Brand in the Sportswear Industry](https://dev.to/cristinematuran/building-a-tech-savvy-brand-in-the-sportswear-industry-2jkk)
+- [Stable Diffusion: The Ultimate Upscaler Guide](https://dev.to/novita_ai/stable-diffusion-the-ultimate-upscaler-guide-1de2)
 <!-- BLOG-POST-LIST:END -->
 
