@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using ChatGPT To Translate React App into Over 40 Languages in Just 100 Seconds](https://dev.to/idurar/using-chatgpt-to-translate-react-app-into-over-40-languages-in-just-100-seconds-1c8n)
+- [Venciendo al Impostor: Cómo este Síndrome Puede Limitar tu Crecimiento en el Desarrollo de Software](https://dev.to/javascriptchile/venciendo-al-impostor-como-este-sindrome-puede-limitar-tu-crecimiento-en-el-desarrollo-de-software-55in)
 - [Setting up Next.js project with prisma](https://dev.to/isaacdyor/setting-up-nextjs-project-with-prisma-200j)
 - [Next.js Deploy as a Static Site using Github Pages](https://dev.to/lico/nextjs-deploy-as-static-site-using-github-pages-3bhm)
-- [Web scraping with cURL &lpar;fetching RAW HTML data&rpar;](https://dev.to/serpapi/web-scraping-with-curl-fetching-raw-html-data-5c6n)
-- [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
 <!-- BLOG-POST-LIST:END -->
 
