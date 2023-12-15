@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 GitHub Repos To Make You a Better for Learning Developer.](https://dev.to/durgesh4993/5-github-repos-to-make-you-a-better-for-learning-developer-n1m)
+- [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
+- [Mastering TraceOptions in execution-engine: Advanced Code Tracing &lpar;part 2&rpar;](https://dev.to/tabkram/mastering-traceoptions-in-execution-engine-advanced-code-tracing-263e)
 - [My Must Have VSCode Plugins](https://dev.to/nikacodes/my-must-have-vscode-plugins-23c5)
-- [Celebrating Small Achievements: The Key to Sustained Motivation in Your Development Projects](https://dev.to/marmariadev/celebrating-small-achievements-the-key-to-sustained-motivation-in-your-development-projects-2h45)
-- [Discussion of the Week: Which is your first programming language?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-3kd5)
-- [A bit about Agile](https://dev.to/nandinishinduja/history-of-agile-mja)
 <!-- BLOG-POST-LIST:END -->
 
