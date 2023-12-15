@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for when you have work with dependents](https://dev.to/adam_cyclones/looking-for-when-you-have-work-with-dependents-m28)
 - [Introducing Read Replicas](https://dev.to/supabase/introducing-read-replicas-4j7j)
 - [Better Discord.js Chatbots: Revamped AI Plugin for Robo.js](https://dev.to/waveplay/better-discordjs-chatbots-revamped-ai-plugin-for-robojs-115f)
 - [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
-- [5 Open Source tools written in Golang that you should know about](https://dev.to/digger/5-open-source-tools-written-in-golang-that-you-should-know-about-3jad)
 <!-- BLOG-POST-LIST:END -->
 
