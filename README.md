@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When is it right to make code less efficient?](https://dev.to/best_codes/when-is-it-right-to-make-code-less-efficient-3ld1)
+- [Master LLM Hallucinations 💭](https://dev.to/tanyarai/master-llm-hallucinations-2210)
+- [How I Used Electron and React to Create a Sweet UI for FFMPEG](https://dev.to/designly/how-i-used-electron-and-react-to-create-a-sweet-ui-for-ffmpeg-1f22)
 - [C#: Bug ou Feature?](https://dev.to/angelobelchior/c-bug-ou-feature-443i)
-- [Thankful for the AWS Community Builders Program &amp; Building](https://dev.to/brianhhough/thankful-for-the-aws-community-builders-program-building-19bi)
-- [Laravel Pint for tidy code](https://dev.to/mazimez/laravel-pint-for-tidy-code-2227)
-- [Announcing Mutative 1.0 - A New Era in Efficient Immutable Updates](https://dev.to/unadlib/announcing-mutative-10-a-new-era-in-efficient-immutable-updates-nml)
 <!-- BLOG-POST-LIST:END -->
 
