@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover da RocketSeat - Módulo 2](https://dev.to/licia-afk/discover-da-rocketseat-modulo-2-1aaj)
+- [About Using SQL for Big Data Computing](https://dev.to/esproc_spl/-about-using-sql-for-big-data-computing-1gfk)
 - [toSorted&lpar;&rpar; vs sort&lpar;&rpar;](https://dev.to/mailtodanish/tosorted-vs-sort-898)
 - [5 GitHub Repos To Make You a Better for Learning Developer.](https://dev.to/durgesh4993/5-github-repos-to-make-you-a-better-for-learning-developer-n1m)
-- [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
-- [Create and configure a file with a directory.](https://dev.to/ulomaekpe/create-and-configure-a-file-with-a-directory-3cn9)
 <!-- BLOG-POST-LIST:END -->
 
