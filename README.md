@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Mantine UI Library](https://dev.to/refine/introduction-to-mantine-ui-library-16k)
+- [Multithreading: Event Loops vs Thread Pools and more...](https://dev.to/lovepreetsingh/multithreading-event-loops-vs-thread-pools-and-more-48di)
 - [Boundless Potential of GPT Chatbots: Revolutionizing Conversations in the Digital Era](https://dev.to/agarralexx/boundless-potential-of-gpt-chatbots-revolutionizing-conversations-in-the-digital-era-9pf)
 - [A Close Call with Real-Time: How Rethinking Pub-Sub Saved the Day](https://dev.to/productive/a-close-call-with-real-time-how-rethinking-pub-sub-saved-the-day-52kp)
-- [Network - Web Senaryosu Nasıl Eklenir ve Trigger Nasıl Oluşturulur?](https://dev.to/aciklab/network-web-senaryosu-nasil-eklenir-ve-trigger-nasil-olusturulur-3f7b)
-- [Top 14 best free Icon Packs for Web Development](https://dev.to/shubhadip_bhowmik/top-14-best-free-icon-packs-for-web-development-2hpb)
 <!-- BLOG-POST-LIST:END -->
 
