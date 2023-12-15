@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thankful for the AWS Community Builders Program &amp; Building](https://dev.to/brianhhough/thankful-for-the-aws-community-builders-program-building-19bi)
 - [Laravel Pint for tidy code](https://dev.to/mazimez/laravel-pint-for-tidy-code-2227)
+- [Announcing Mutative 1.0 - A New Era in Efficient Immutable Updates](https://dev.to/unadlib/announcing-mutative-10-a-new-era-in-efficient-immutable-updates-nml)
 - [🌟 Celebrate Your Impact: #DEVImpact2023 Reflections](https://dev.to/devteam/celebrate-your-impact-devimpact2023-reflections-g3f)
-- [Mejorando Rendimiento y Escalabilidad: Guía de Caché Distribuido en ASP.NET Core](https://dev.to/isaacojeda/mejorando-rendimiento-y-escalabilidad-guia-de-cache-distribuido-en-aspnet-core-3149)
-- [Time Saving Tip #2 - User Snippets in VSCode](https://dev.to/wraith/time-saving-tip-2-user-snippets-in-vscode-5d54)
 <!-- BLOG-POST-LIST:END -->
 
