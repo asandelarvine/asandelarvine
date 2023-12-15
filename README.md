@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Save these 24 free website code starters](https://dev.to/momciloo/just-open-sourced-24-website-code-starters-43on)
+- [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
 - [Looking for when you have work with dependents](https://dev.to/adam_cyclones/looking-for-when-you-have-work-with-dependents-m28)
-- [Introducing Read Replicas](https://dev.to/supabase/introducing-read-replicas-4j7j)
-- [Better Discord.js Chatbots: Revamped AI Plugin for Robo.js](https://dev.to/waveplay/better-discordjs-chatbots-revamped-ai-plugin-for-robojs-115f)
-- [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
+- [Getting Started with Actix Web - The Battle-tested Rust Framework](https://dev.to/shuttle_dev/getting-started-with-actix-web-the-battle-tested-rust-framework-50ok)
 <!-- BLOG-POST-LIST:END -->
 
