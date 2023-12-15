@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Save these 24 free website code starters](https://dev.to/momciloo/just-open-sourced-24-website-code-starters-43on)
-- [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
 - [Looking for when you have work with dependents](https://dev.to/adam_cyclones/looking-for-when-you-have-work-with-dependents-m28)
 - [Getting Started with Actix Web - The Battle-tested Rust Framework](https://dev.to/shuttle_dev/getting-started-with-actix-web-the-battle-tested-rust-framework-50ok)
+- [Navigating the AR Landscape in React Native with Kotlin](https://dev.to/9bytes/navigating-the-ar-landscape-in-react-native-with-kotlin-2caj)
 <!-- BLOG-POST-LIST:END -->
 
