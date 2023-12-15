@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Knowledge Ascent: A Stairway Where Plateaus Lead to Descent](https://dev.to/iamthebuilder/knowledge-ascent-a-stairway-where-plateaus-lead-to-descent-194e)
 - [🫵 5 achievable side hustles for developers💰](https://dev.to/quine/5-achievable-side-hustles-for-developers-4bcg)
 - [This Week In React #166: Waku, React-Forget, React-Native, Expo, Million, Remotion, Next.js, Storybook, Remix...](https://dev.to/sebastienlorber/this-week-in-react-166-waku-react-forget-react-native-expo-million-remotion-nextjs-storybook-remix-3f1b)
-- [Building a Simple AI-Powered Text Summarizer with Transformers in Python](https://dev.to/ryver_dev/building-a-simple-ai-powered-text-summarizer-with-transformers-in-python-42le)
-- [What is Google Hacking Database &lpar;GHDB&rpar;?](https://dev.to/shivamchamoli18/what-is-google-hacking-database-ghdb-2o9d)
+- [Engineering Bolt ⚡: #1 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-1-friday-developer-fun-36k7)
 <!-- BLOG-POST-LIST:END -->
 
