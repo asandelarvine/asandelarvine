@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Cyber Battlefield: Unmasking Various Types of Online Threats 🤖](https://dev.to/layanyashoda/navigating-the-cyber-battlefield-unmasking-various-types-of-online-threats-2a5c)
-- [Ugly Sweater CSS: Spider-man.](https://dev.to/jarvisscript/ugly-sweater-css-spider-man-2ke2)
-- [Thank you Community Builder Leaders &#39;23](https://dev.to/aws-builders/thank-you-community-builder-leaders-23-82a)
-- [💳 Payments 101 for a Developer👨‍💻](https://dev.to/vedantkhairnar/payments-101-for-a-developer-1g4k)
+- [Introducing Read Replicas](https://dev.to/supabase/introducing-read-replicas-4j7j)
+- [Better Discord.js Chatbots: Revamped AI Plugin for Robo.js](https://dev.to/waveplay/better-discordjs-chatbots-revamped-ai-plugin-for-robojs-115f)
+- [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
+- [5 Open Source tools written in Golang that you should know about](https://dev.to/digger/5-open-source-tools-written-in-golang-that-you-should-know-about-3jad)
 <!-- BLOG-POST-LIST:END -->
 
