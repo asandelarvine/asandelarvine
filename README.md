@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Mantine UI Library](https://dev.to/refine/introduction-to-mantine-ui-library-16k)
-- [Multithreading: Event Loops vs Thread Pools and more...](https://dev.to/lovepreetsingh/multithreading-event-loops-vs-thread-pools-and-more-48di)
-- [Boundless Potential of GPT Chatbots: Revolutionizing Conversations in the Digital Era](https://dev.to/agarralexx/boundless-potential-of-gpt-chatbots-revolutionizing-conversations-in-the-digital-era-9pf)
-- [A Close Call with Real-Time: How Rethinking Pub-Sub Saved the Day](https://dev.to/productive/a-close-call-with-real-time-how-rethinking-pub-sub-saved-the-day-52kp)
+- [🫵 5 achievable side hustles for developers💰](https://dev.to/quine/5-achievable-side-hustles-for-developers-4bcg)
+- [This Week In React #166: Waku, React-Forget, React-Native, Expo, Million, Remotion, Next.js, Storybook, Remix...](https://dev.to/sebastienlorber/this-week-in-react-166-waku-react-forget-react-native-expo-million-remotion-nextjs-storybook-remix-3f1b)
+- [Building a Simple AI-Powered Text Summarizer with Transformers in Python](https://dev.to/ryver_dev/building-a-simple-ai-powered-text-summarizer-with-transformers-in-python-42le)
+- [What is Google Hacking Database &lpar;GHDB&rpar;?](https://dev.to/shivamchamoli18/what-is-google-hacking-database-ghdb-2o9d)
 <!-- BLOG-POST-LIST:END -->
 
