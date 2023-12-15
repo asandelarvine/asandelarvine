@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Save these 24 free website code starters](https://dev.to/momciloo/just-open-sourced-24-website-code-starters-43on)
-- [Looking for when you have work with dependents](https://dev.to/adam_cyclones/looking-for-when-you-have-work-with-dependents-m28)
-- [Getting Started with Actix Web - The Battle-tested Rust Framework](https://dev.to/shuttle_dev/getting-started-with-actix-web-the-battle-tested-rust-framework-50ok)
-- [Navigating the AR Landscape in React Native with Kotlin](https://dev.to/9bytes/navigating-the-ar-landscape-in-react-native-with-kotlin-2caj)
+- [Laravel Pint for tidy code](https://dev.to/mazimez/laravel-pint-for-tidy-code-2227)
+- [🌟 Celebrate Your Impact: #DEVImpact2023 Reflections](https://dev.to/devteam/celebrate-your-impact-devimpact2023-reflections-g3f)
+- [Mejorando Rendimiento y Escalabilidad: Guía de Caché Distribuido en ASP.NET Core](https://dev.to/isaacojeda/mejorando-rendimiento-y-escalabilidad-guia-de-cache-distribuido-en-aspnet-core-3149)
+- [Time Saving Tip #2 - User Snippets in VSCode](https://dev.to/wraith/time-saving-tip-2-user-snippets-in-vscode-5d54)
 <!-- BLOG-POST-LIST:END -->
 
