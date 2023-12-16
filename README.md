@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML can do this? Part 1](https://dev.to/yuridevat/html-can-do-this-part-1-3ab2)
 - [Skipping Test Environments for Faster and Safer Deployments](https://dev.to/codedbychavez/skipping-test-environments-for-faster-and-safer-deployments-215k)
 - [Mastering Full-Stack app | Spotify Clone Project with NodeJS, ExpressJS, EJS, CSS, Authentication](https://dev.to/codewithsadee/mastering-full-stack-app-spotify-clone-project-with-nodejs-expressjs-ejs-css-authentication-45gk)
 - [Embracing Simplicity: The Advantages of Nomad over Kubernetes](https://dev.to/justinepdevasia/embracing-simplicity-the-advantages-of-nomad-over-kubernetes-3kjm)
-- [🌟 #DEVImpact2023 Reflections](https://dev.to/nandinishinduja/devimpact2023-reflections-2ahb)
 <!-- BLOG-POST-LIST:END -->
 
