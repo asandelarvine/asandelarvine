@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 #DEVImpact2023 Reflections](https://dev.to/nandinishinduja/devimpact2023-reflections-2ahb)
 - [CSS framework for 2024🔥](https://dev.to/rudransh61/css-framework-for-2024-2b3)
 - [Like htmx, but with only one attribute per element - a prototype](https://dev.to/mrhdias/like-htmx-but-with-only-one-attribute-per-element-a-prototype-4n24)
 - [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-58o4)
-- [Programmatically Setting File Inputs in JavaScript](https://dev.to/code_rabbi/programmatically-setting-file-inputs-in-javascript-2p7i)
 <!-- BLOG-POST-LIST:END -->
 
