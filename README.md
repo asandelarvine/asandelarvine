@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
+- [How to create a hash for a STRING in Swift](https://dev.to/bibinjaimon/how-to-create-a-hash-for-a-string-in-swift-114g)
 - [Is Javascript Object.groupBy&lpar;&rpar; worth the hype? let&#39;s find out](https://dev.to/svidlak/is-javascript-objectgroupby-worth-the-hype-lets-find-out-48lc)
-- [Project Sixteen: Typewriter](https://dev.to/valeriavg/project-sixteen-typewriter-id8)
-- [Loops in C programming](https://dev.to/sujithvsuresh/loops-in-c-programming-4lnn)
-- [Frontend devs, what are your thoughts on WordPress? Have you used it in your corporate jobs?](https://dev.to/opensourcee/frontend-devs-what-are-your-thoughts-on-wordpress-have-you-used-it-in-your-corporate-jobs-bej)
+- [Advent of Code 2023: Day 11 - Cosmic Expansion](https://dev.to/gweaths/advent-of-code-2023-day-11-cosmic-expansion-5fo1)
 <!-- BLOG-POST-LIST:END -->
 
