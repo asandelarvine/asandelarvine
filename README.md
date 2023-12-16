@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis Keyspace Notifications with Docker](https://dev.to/serhatayata/redis-keyspace-notifications-with-docker-4o90)
+- [Kubectl Cheat Sheet - With Examples](https://dev.to/refine/kubectl-cheat-sheet-with-examples-4e6l)
 - [The Ultimate Showdown: Linux vs. Windows - Unveiling the Battle of Operating Systems](https://dev.to/codewithsom/the-ultimate-showdown-linux-vs-windows-unveiling-the-battle-of-operating-systems-g20)
 - [DevOps Simplified: Easy-to-Use Container Projects Deployment](https://dev.to/mrmissx/devops-simplified-easy-to-use-container-projects-deployment-96d)
-- [Creating an IOT Hub on Azure Portal and Authenticate using Raspberry Pi](https://dev.to/lanreogunlade1998/creating-an-iot-hub-on-azure-portal-and-authenticate-using-raspberry-pi-587a)
-- [First 15 Open Source Advent projects](https://dev.to/chrischurilo/first-15-open-source-advent-projects-7d)
 <!-- BLOG-POST-LIST:END -->
 
