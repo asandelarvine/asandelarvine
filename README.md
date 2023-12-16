@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When is it right to make code less efficient?](https://dev.to/best_codes/when-is-it-right-to-make-code-less-efficient-3ld1)
-- [Master LLM Hallucinations 💭](https://dev.to/tanyarai/master-llm-hallucinations-2210)
-- [How I Used Electron and React to Create a Sweet UI for FFMPEG](https://dev.to/designly/how-i-used-electron-and-react-to-create-a-sweet-ui-for-ffmpeg-1f22)
-- [C#: Bug ou Feature?](https://dev.to/angelobelchior/c-bug-ou-feature-443i)
+- [132 noCode WebSite Builders in Dec 2023](https://dev.to/johnrushx/132-nocode-website-builders-in-dec-2023-262b)
+- [React Tutorial: Tic-Tac-Toe - Interactive Remaster!](https://dev.to/igorfilippov3/react-tutorial-tic-tac-toe-interactive-remaster-4d1)
+- [Community Cheers🥂 Who Inspired You in 2023?](https://dev.to/devteam/community-cheers-who-inspired-you-in-2023-5e6h)
+- [How to Understand Humans](https://dev.to/codenewbieteam/how-to-understand-humans-n22)
 <!-- BLOG-POST-LIST:END -->
 
