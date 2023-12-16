@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Showdown: Linux vs. Windows - Unveiling the Battle of Operating Systems](https://dev.to/codewithsom/the-ultimate-showdown-linux-vs-windows-unveiling-the-battle-of-operating-systems-g20)
+- [DevOps Simplified: Easy-to-Use Container Projects Deployment](https://dev.to/mrmissx/devops-simplified-easy-to-use-container-projects-deployment-96d)
+- [Creating an IOT Hub on Azure Portal and Authenticate using Raspberry Pi](https://dev.to/lanreogunlade1998/creating-an-iot-hub-on-azure-portal-and-authenticate-using-raspberry-pi-587a)
 - [First 15 Open Source Advent projects](https://dev.to/chrischurilo/first-15-open-source-advent-projects-7d)
-- [SQL for Big Data: Tips and Tricks Every Data Scientist Should Know](https://dev.to/priyagupta0112/sql-for-big-data-tips-and-tricks-every-data-scientist-should-know-2d4p)
-- [Object-Oriented Programming](https://dev.to/ericsomtochukwu/object-oriented-programming-40g0)
-- [Milvus Adventures Dec 15, 2023](https://dev.to/chrischurilo/milvus-adventures-dec-15-2023-fp5)
 <!-- BLOG-POST-LIST:END -->
 
