@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coloring console text easily with Terminaux](https://dev.to/aptivi/coloring-console-text-easily-with-terminaux-1a4)
-- [Best ChatGPT Prompts for Financial Accountants](https://dev.to/chatgptpromptsforprofessionals/best-chatgpt-prompts-for-financial-accountants-56bm)
-- [Mastering TypeScript: A Comprehensive Guide. Part&lpar;1&rpar;](https://dev.to/cliff123tech/mastering-typescript-a-comprehensive-guide-part1-191k)
-- [Redis Keyspace Notifications with Docker](https://dev.to/serhatayata/redis-keyspace-notifications-with-docker-4o90)
+- [CSS framework for 2024🔥](https://dev.to/rudransh61/css-framework-for-2024-2b3)
+- [Like htmx, but with only one attribute per element - a prototype](https://dev.to/mrhdias/like-htmx-but-with-only-one-attribute-per-element-a-prototype-4n24)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-58o4)
+- [Programmatically Setting File Inputs in JavaScript](https://dev.to/code_rabbi/programmatically-setting-file-inputs-in-javascript-2p7i)
 <!-- BLOG-POST-LIST:END -->
 
