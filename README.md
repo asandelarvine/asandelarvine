@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [API completa em Golang - Parte 3](https://dev.to/wiliamvj/api-completa-em-golang-parte-3-40gn)
+- [A arte do erro sem mensagem: por que meu código Python interpretou minha variável como tupla ao invés de int](https://dev.to/feministech/a-arte-do-erro-sem-mensagem-por-que-meu-codigo-python-interpretou-minha-variavel-como-tupla-ao-inves-de-int-56bf)
+- [Introduction to YAML for Kubernetes](https://dev.to/fizy_hector/introduction-to-yaml-for-kubernetes-1dfa)
 - [The Beginning of My Glow-Up Journey](https://dev.to/jay818/the-beginning-of-my-glow-up-journey-4229)
-- [How I Built A Santa Chatbot To Mess With My Brother](https://dev.to/aws-heroes/how-i-built-a-santa-chatbot-to-mess-with-my-brother-21mm)
-- [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
-- [How to create a hash for a STRING in Swift](https://dev.to/bibinjaimon/how-to-create-a-hash-for-a-string-in-swift-114g)
 <!-- BLOG-POST-LIST:END -->
 
