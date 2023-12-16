@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coloring console text easily with Terminaux](https://dev.to/aptivi/coloring-console-text-easily-with-terminaux-1a4)
 - [Best ChatGPT Prompts for Financial Accountants](https://dev.to/chatgptpromptsforprofessionals/best-chatgpt-prompts-for-financial-accountants-56bm)
+- [Mastering TypeScript: A Comprehensive Guide. Part&lpar;1&rpar;](https://dev.to/cliff123tech/mastering-typescript-a-comprehensive-guide-part1-191k)
 - [Redis Keyspace Notifications with Docker](https://dev.to/serhatayata/redis-keyspace-notifications-with-docker-4o90)
-- [Kubectl Cheat Sheet - With Examples](https://dev.to/refine/kubectl-cheat-sheet-with-examples-4e6l)
-- [The Ultimate Showdown: Linux vs. Windows - Unveiling the Battle of Operating Systems](https://dev.to/codewithsom/the-ultimate-showdown-linux-vs-windows-unveiling-the-battle-of-operating-systems-g20)
 <!-- BLOG-POST-LIST:END -->
 
