@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Full-Stack app | Spotify Clone Project with NodeJS, ExpressJS, EJS, CSS, Authentication](https://dev.to/codewithsadee/mastering-full-stack-app-spotify-clone-project-with-nodejs-expressjs-ejs-css-authentication-45gk)
 - [🌟 #DEVImpact2023 Reflections](https://dev.to/nandinishinduja/devimpact2023-reflections-2ahb)
 - [CSS framework for 2024🔥](https://dev.to/rudransh61/css-framework-for-2024-2b3)
 - [Like htmx, but with only one attribute per element - a prototype](https://dev.to/mrhdias/like-htmx-but-with-only-one-attribute-per-element-a-prototype-4n24)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-58o4)
 <!-- BLOG-POST-LIST:END -->
 
