@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [First 15 Open Source Advent projects](https://dev.to/chrischurilo/first-15-open-source-advent-projects-7d)
 - [SQL for Big Data: Tips and Tricks Every Data Scientist Should Know](https://dev.to/priyagupta0112/sql-for-big-data-tips-and-tricks-every-data-scientist-should-know-2d4p)
 - [Object-Oriented Programming](https://dev.to/ericsomtochukwu/object-oriented-programming-40g0)
 - [Milvus Adventures Dec 15, 2023](https://dev.to/chrischurilo/milvus-adventures-dec-15-2023-fp5)
-- [132 noCode WebSite Builders in Dec 2023](https://dev.to/johnrushx/132-nocode-website-builders-in-dec-2023-262b)
 <!-- BLOG-POST-LIST:END -->
 
