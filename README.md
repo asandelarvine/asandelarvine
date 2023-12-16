@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Sixteen: Typewriter](https://dev.to/valeriavg/project-sixteen-typewriter-id8)
 - [Loops in C programming](https://dev.to/sujithvsuresh/loops-in-c-programming-4lnn)
 - [HTML can do this? Part 1](https://dev.to/yuridevat/html-can-do-this-part-1-3ab2)
 - [Skipping Test Environments for Faster and Safer Deployments](https://dev.to/codedbychavez/skipping-test-environments-for-faster-and-safer-deployments-215k)
-- [Mastering Full-Stack app | Spotify Clone Project with NodeJS, ExpressJS, EJS, CSS, Authentication](https://dev.to/codewithsadee/mastering-full-stack-app-spotify-clone-project-with-nodejs-expressjs-ejs-css-authentication-45gk)
 <!-- BLOG-POST-LIST:END -->
 
