@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-8e2)
+- [Creating a Multi-Level Sidebar Animation with Tailwind and Framer Motion in React](https://dev.to/ksaini9/creating-a-multi-level-sidebar-animation-with-tailwind-and-framer-motion-in-react-53f1)
 - [API completa em Golang - Parte 3](https://dev.to/wiliamvj/api-completa-em-golang-parte-3-40gn)
 - [A arte do erro sem mensagem: por que meu código Python interpretou minha variável como tupla ao invés de int](https://dev.to/feministech/a-arte-do-erro-sem-mensagem-por-que-meu-codigo-python-interpretou-minha-variavel-como-tupla-ao-inves-de-int-56bf)
-- [Introduction to YAML for Kubernetes](https://dev.to/fizy_hector/introduction-to-yaml-for-kubernetes-1dfa)
-- [The Beginning of My Glow-Up Journey](https://dev.to/jay818/the-beginning-of-my-glow-up-journey-4229)
 <!-- BLOG-POST-LIST:END -->
 
