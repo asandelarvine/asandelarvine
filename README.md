@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate Automated API Documentation](https://dev.to/elliot_brenya/how-to-generate-automated-api-documentation-5g9b)
+- [The Best Free Cloud Storage Services of 2024](https://dev.to/chhunneng/the-best-free-cloud-storage-services-of-2024-5d7n)
+- [Solana Development 101: What are Accounts, Programs, Transactions and more....](https://dev.to/scaleweb3/solana-development-101-what-are-accounts-programs-transactions-and-more-2je)
 - [Migration of a Dynamic Website to a Static Website](https://dev.to/florianrappl/migration-of-a-dynamic-website-to-a-static-website-iaj)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-210b)
-- [Mastering JavaScript with GitHub Repositories](https://dev.to/pinky057/mastering-javascript-with-github-repositories-3248)
-- [Getting started w/ Google&#39;s Gemini Pro LLM using Langchain JS](https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1)
 <!-- BLOG-POST-LIST:END -->
 
