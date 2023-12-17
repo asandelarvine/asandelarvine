@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Supabranch](https://dev.to/nickytonline/yet-another-newsletter-lol-supabranch-45pg)
 - [State Management in Frontend Applications: Redux, Context API, and Beyond](https://dev.to/flaancs/state-management-in-frontend-applications-redux-context-api-and-beyond-74m)
 - [Building a collaborative whiteboard app using ReactJS, Socket.io and NodeJS](https://dev.to/fidalmathew/building-a-collaborative-whiteboard-app-using-reactjs-socketio-and-nodejs-2o71)
 - [React vs. Vue: Choosing the Right Framework for Your Single-Page Applications](https://dev.to/namankatewa/react-vs-vue-choosing-the-right-framework-for-your-single-page-applications-4hpb)
-- [ECMAScript 2023: Fresh Goodies for JavaScript Developers](https://dev.to/navdeepm20/dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda)
 <!-- BLOG-POST-LIST:END -->
 
