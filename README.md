@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using only vim to solve AdventOfCode Challenges | Episode 2](https://dev.to/cipherlogs/using-only-vim-to-solve-adventofcode-challenges-episode-2-561b)
-- [Using only vim to solve AdventOfCode Challenges | Episode 1](https://dev.to/cipherlogs/using-only-vim-to-solve-adventofcode-challenges-episode-1-2e99)
-- [Effortless PR Handling: CodiumAI&#39;s PR-Agent for Developers](https://dev.to/mritunjaysri28/effortless-pr-handling-codiumais-pr-agent-for-developers-5dh3)
-- [A Design Newbie&#39;s Guide to Using Color](https://dev.to/theoriginalbpc/a-design-newbies-guide-to-using-color-4f1f)
+- [#Bitcoin fee hits $37👀](https://dev.to/irmakork/bitcoin-fee-hits-37-3gc3)
+- [Advent of Code #14 &lpar;in Crystal&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-crystal-4dmm)
+- [Advent of Code 2023 Day 16](https://dev.to/nickymeuleman/advent-of-code-2023-day-16-2gg6)
+- [SQL Server &amp; MongoDB sync &lpar;Kafka + Kubernetes + Debezium&rpar;](https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc)
 <!-- BLOG-POST-LIST:END -->
 
