@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using only vim to solve AdventOfCode Challenges | Episode 2](https://dev.to/cipherlogs/using-only-vim-to-solve-adventofcode-challenges-episode-2-561b)
+- [Using only vim to solve AdventOfCode Challenges | Episode 1](https://dev.to/cipherlogs/using-only-vim-to-solve-adventofcode-challenges-episode-1-2e99)
+- [Effortless PR Handling: CodiumAI&#39;s PR-Agent for Developers](https://dev.to/mritunjaysri28/effortless-pr-handling-codiumais-pr-agent-for-developers-5dh3)
 - [A Design Newbie&#39;s Guide to Using Color](https://dev.to/theoriginalbpc/a-design-newbies-guide-to-using-color-4f1f)
-- [Stun Server: What is Session Traversal Utilities for NAT?](https://dev.to/alakkadshaw/stun-server-what-is-session-traversal-utilities-for-nat-2d8k)
-- [Understanding Object-Oriented Programming: Unveiling the Power of Classes](https://dev.to/mzunairtariq/understanding-object-oriented-programming-unveiling-the-power-of-classes-2kd0)
-- [Bandit Level 19 Level 20](https://dev.to/christianpaez/bandit-level-19-level-20-1ljg)
 <!-- BLOG-POST-LIST:END -->
 
