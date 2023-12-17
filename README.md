@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-3gdl)
+- [Simplify, Groupify, Conquer: The convenience of Object.GroupBy&lpar;&rpar; in JavaScript](https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5)
+- [The difference between clean code and clean architecture?](https://dev.to/hossamrakha0/the-difference-between-clean-code-and-clean-architecture-3881)
 - [shutil Module: High-level File Operations in Python Made Easy](https://dev.to/sachingeek/shutil-module-high-level-file-operations-in-python-made-easy-1pnm)
-- [Building Your DevOps Playground: A Beginner&#39;s Guide to Setting Up Your Development Environment](https://dev.to/arbythecoder/building-your-devops-playground-a-beginners-guide-to-setting-up-your-development-environment-397h)
-- [Build your first custom AI-powered application with LangChain](https://dev.to/lovestaco/build-your-first-custom-ai-powered-application-with-langchain-3f2h)
-- [I Quit DEV and Moved to Substack](https://dev.to/ivanovyordan/i-quit-dev-and-moved-to-substack-la5)
 <!-- BLOG-POST-LIST:END -->
 
