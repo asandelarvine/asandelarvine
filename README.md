@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [shutil Module: High-level File Operations in Python Made Easy](https://dev.to/sachingeek/shutil-module-high-level-file-operations-in-python-made-easy-1pnm)
+- [Building Your DevOps Playground: A Beginner&#39;s Guide to Setting Up Your Development Environment](https://dev.to/arbythecoder/building-your-devops-playground-a-beginners-guide-to-setting-up-your-development-environment-397h)
 - [Build your first custom AI-powered application with LangChain](https://dev.to/lovestaco/build-your-first-custom-ai-powered-application-with-langchain-3f2h)
-- [Yet Another Newsletter LOL: Supabranch](https://dev.to/nickytonline/yet-another-newsletter-lol-supabranch-45pg)
-- [State Management in Frontend Applications: Redux, Context API, and Beyond](https://dev.to/flaancs/state-management-in-frontend-applications-redux-context-api-and-beyond-74m)
-- [Building a collaborative whiteboard app using ReactJS, Socket.io and NodeJS](https://dev.to/fidalmathew/building-a-collaborative-whiteboard-app-using-reactjs-socketio-and-nodejs-2o71)
+- [I Quit DEV and Moved to Substack](https://dev.to/ivanovyordan/i-quit-dev-and-moved-to-substack-la5)
 <!-- BLOG-POST-LIST:END -->
 
