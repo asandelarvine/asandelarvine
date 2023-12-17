@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL to Python Pandas: A SQL User&#39;s Quick Guide](https://dev.to/r0mymendez/sql-to-python-pandas-a-sql-users-quick-guide-2d57)
+- [Why Node Locksmith is the Game Changer for Node.js Applications](https://dev.to/saivaraprasad/why-node-locksmith-is-the-game-changer-for-nodejs-applications-fnh)
 - [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-3gdl)
 - [Simplify, Groupify, Conquer: The convenience of Object.GroupBy&lpar;&rpar; in JavaScript](https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5)
-- [The difference between clean code and clean architecture?](https://dev.to/hossamrakha0/the-difference-between-clean-code-and-clean-architecture-3881)
-- [shutil Module: High-level File Operations in Python Made Easy](https://dev.to/sachingeek/shutil-module-high-level-file-operations-in-python-made-easy-1pnm)
 <!-- BLOG-POST-LIST:END -->
 
