@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Design Newbie&#39;s Guide to Using Color](https://dev.to/theoriginalbpc/a-design-newbies-guide-to-using-color-4f1f)
 - [Stun Server: What is Session Traversal Utilities for NAT?](https://dev.to/alakkadshaw/stun-server-what-is-session-traversal-utilities-for-nat-2d8k)
+- [Understanding Object-Oriented Programming: Unveiling the Power of Classes](https://dev.to/mzunairtariq/understanding-object-oriented-programming-unveiling-the-power-of-classes-2kd0)
 - [Bandit Level 19 Level 20](https://dev.to/christianpaez/bandit-level-19-level-20-1ljg)
-- [SQL to Python Pandas: A SQL User&#39;s Quick Guide](https://dev.to/r0mymendez/sql-to-python-pandas-a-sql-users-quick-guide-2d57)
-- [Why Node Locksmith is the Game Changer for Node.js Applications](https://dev.to/saivaraprasad/why-node-locksmith-is-the-game-changer-for-nodejs-applications-fnh)
 <!-- BLOG-POST-LIST:END -->
 
