@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started w/ Google&#39;s Gemini Pro LLM using Langchain JS](https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1)
+- [My &quot;solution&quot; to integrate ChatGPT into any database](https://dev.to/thelime1/my-solution-to-integrate-chatgpt-into-any-database-8lb)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-8e2)
 - [Creating a Multi-Level Sidebar Animation with Tailwind and Framer Motion in React](https://dev.to/ksaini9/creating-a-multi-level-sidebar-animation-with-tailwind-and-framer-motion-in-react-53f1)
-- [API completa em Golang - Parte 3](https://dev.to/wiliamvj/api-completa-em-golang-parte-3-40gn)
-- [A arte do erro sem mensagem: por que meu código Python interpretou minha variável como tupla ao invés de int](https://dev.to/feministech/a-arte-do-erro-sem-mensagem-por-que-meu-codigo-python-interpretou-minha-variavel-como-tupla-ao-inves-de-int-56bf)
 <!-- BLOG-POST-LIST:END -->
 
