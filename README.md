@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking Dynamic Programming Challenge!](https://dev.to/craftingbugs/taking-dynamic-programming-challenge-21nb)
-- [Run Go + HTMX in the Cloud with Acorn](https://dev.to/calvinmclean/run-go-htmx-in-the-cloud-with-acorn-5egd)
-- [React Native PSA - select and highlight text with custom context menus](https://dev.to/rob117/react-native-psa-select-and-highlight-text-with-custom-context-menus-lml)
-- [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
+- [Building Secure Neon-Infused Web Apps with Auth0, Express, and EJS](https://dev.to/terieyenike/building-secure-neon-infused-web-apps-with-auth0-express-and-ejs-32dn)
+- [OpenSauced: Your fast track to open source](https://dev.to/codingcatdev/opensauced-your-fast-track-to-open-source-a77)
+- [Power Apps Tracks Santa](https://dev.to/wyattdave/power-apps-tracks-santa-80h)
+- [Understanding Reverse Proxy with Nginx - Step By Step Guide](https://dev.to/shubhamkcloud/understanding-reverse-proxy-with-nginx-step-by-step-guide-18a0)
 <!-- BLOG-POST-LIST:END -->
 
