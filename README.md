@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complexity by Simplicity - A Deep Dive Into Kubernetes Components](https://dev.to/cyclops-ui/complexity-by-simplicity-a-deep-dive-into-kubernetes-components-4l59)
-- [How fast is JS tiktoken?](https://dev.to/maximsaplin/how-fast-is-js-tiktoken-3fmk)
-- [Discovering the Gem in .NET 8: Introducing &quot;.NET Aspire&quot;](https://dev.to/prameshkc/discovering-the-gem-in-net-8-introducing-net-aspire-1mlo)
-- [How to fix error: invalid character in entity name in RSS feeds](https://dev.to/whitep4nth3r/how-to-fix-error-invalid-character-in-entity-name-in-rss-feeds-3op8)
+- [FLaNK Weekly 18 Dec 2023](https://dev.to/tspannhw/flank-weekly-18-dec-2023-2m20)
+- [The Bubble](https://dev.to/kingjotaro/the-bubble-281l)
+- [5-Step Approach: Projectsveltos for Kubernetes add-on deployment and management on RKE2](https://dev.to/egrosdou/5-step-approach-projectsveltos-for-kubernetes-add-on-deployment-and-management-on-rke2-35gm)
+- [How to Train your Transformer 🐲](https://dev.to/akshayballal/how-to-train-your-transformer-21om)
 <!-- BLOG-POST-LIST:END -->
 
