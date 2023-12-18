@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Queuing jobs in NestJS using @nestjs/bullmq package](https://dev.to/railsstudent/queuing-jobs-in-nestjs-using-nestjsbullmq-package-55c1)
-- [11 free and fun APIs you must use in your side project](https://dev.to/firecampdev/11-free-and-fun-apis-you-must-use-in-your-side-project-219m)
-- [Valida automáticamente tus respuestas de AWS Bedrock LLM](https://dev.to/aws-espanol/valida-automaticamente-tus-respuestas-de-aws-bedrock-llm-32a6)
-- [Building a cloud backend in Go using REST and PostgreSQL](https://dev.to/encore/building-a-cloud-backend-in-go-using-rest-and-postgresql-147l)
+- [Dev.to and &quot;The Missing Middle&quot; Economics](https://dev.to/terabytetiger/devto-and-the-missing-middle-economics-59ip)
+- [Shell Scripting For DevOps: Quick Beginner&#39;s Guide 💎](https://dev.to/aniket762/shell-scripting-for-devops-quick-beginners-guide-24hk)
+- [Top 42 🐍 Python libraries you need to know 🦾](https://dev.to/taipy/top-42-python-libraries-you-need-to-know-1omo)
+- [Introducing Flama for Robust Machine Learning APIs](https://dev.to/vortico/introducing-flama-for-robust-machine-learning-apis-b3n)
 <!-- BLOG-POST-LIST:END -->
 
