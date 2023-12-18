@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1bd)
+- [Meme Monday](https://dev.to/ben/meme-monday-gph)
+- [Most Meaningful Jobs](https://dev.to/nandinishinduja/most-meaningful-jobs-3fp8)
 - [Equality Comparisons](https://dev.to/catherineisonline/equality-comparisons-7hj)
-- [Hooks in React](https://dev.to/izmroen/hooks-in-react-4nkl)
-- [ZooKeeper Chronicles: Navigating EOFException and the Enigma of 0-Length Files](https://dev.to/suavebajaj/zookeeper-chronicles-navigating-eofexception-and-the-enigma-of-0-length-files-1h24)
-- [break and continue statements in C programming.](https://dev.to/sujithvsuresh/break-and-continue-statements-in-c-programming-o70)
 <!-- BLOG-POST-LIST:END -->
 
