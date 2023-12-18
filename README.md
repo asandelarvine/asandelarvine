@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week of Dec 18?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-dec-18-40na)
-- [Dev.to and &quot;The Missing Middle&quot; Economics](https://dev.to/terabytetiger/devto-and-the-missing-middle-economics-59ip)
-- [Shell Scripting For DevOps: Quick Beginner&#39;s Guide 💎](https://dev.to/aniket762/shell-scripting-for-devops-quick-beginners-guide-24hk)
-- [Top 42 🐍 Python libraries you need to know 🦾](https://dev.to/taipy/top-42-python-libraries-you-need-to-know-1omo)
+- [Exploring the World of Minuscule Windows Executables](https://dev.to/ercin/exploring-the-world-of-minuscule-windows-executables-1imk)
+- [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
+- [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
+- [Raku Blog Posts 2023.51](https://dev.to/lizmat/raku-blog-posts-202351-47ob)
 <!-- BLOG-POST-LIST:END -->
 
