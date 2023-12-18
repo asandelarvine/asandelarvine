@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Use k3d for Local Development. A Developer&#39;s Guide](https://dev.to/cloudx/why-you-should-use-k3d-for-local-development-a-developers-guide-2cp5)
 - [Exploring the World of Minuscule Windows Executables](https://dev.to/ercin/exploring-the-world-of-minuscule-windows-executables-1imk)
 - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 - [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
-- [Raku Blog Posts 2023.51](https://dev.to/lizmat/raku-blog-posts-202351-47ob)
 <!-- BLOG-POST-LIST:END -->
 
