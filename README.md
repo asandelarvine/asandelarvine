@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use k3d for Local Development. A Developer&#39;s Guide](https://dev.to/cloudx/why-you-should-use-k3d-for-local-development-a-developers-guide-2cp5)
-- [Exploring the World of Minuscule Windows Executables](https://dev.to/ercin/exploring-the-world-of-minuscule-windows-executables-1imk)
-- [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
-- [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
+- [ZooKeeper Chronicles: Navigating EOFException and the Enigma of 0-Length Files](https://dev.to/suavebajaj/zookeeper-chronicles-navigating-eofexception-and-the-enigma-of-0-length-files-1h24)
+- [break and continue statements in C programming.](https://dev.to/sujithvsuresh/break-and-continue-statements-in-c-programming-o70)
+- [What do we look in a Software Engineer](https://dev.to/woovi/what-do-we-look-in-a-software-engineer-470b)
+- [It&#39;s our #giftgiving Code Jam, plus a couple dozen more cool links you can and should click on this December](https://dev.to/glitch/its-our-giftgiving-code-jam-plus-a-couple-dozen-more-cool-links-you-can-and-should-click-on-this-december-1nfa)
 <!-- BLOG-POST-LIST:END -->
 
