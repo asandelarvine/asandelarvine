@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploiting the Hype Cycle in Tech](https://dev.to/this-is-learning/exploiting-the-hype-cycle-in-tech-29a3)
+- [Weekly Roundup 031 &lpar;Dec 11&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-031-dec-11-hot-topics-in-workplace-sharepoint-and-powerplatform-4co9)
+- [`Get Abstract` for Lex Fridman and Jeff Bezos talk &lpar;December 2023&rpar;](https://dev.to/maximsaplin/get-abstract-for-lex-fridman-and-jeff-bezos-talk-december-2023-36n)
 - [Building Secure Neon-Infused Web Apps with Auth0, Express, and EJS](https://dev.to/terieyenike/building-secure-neon-infused-web-apps-with-auth0-express-and-ejs-32dn)
-- [OpenSauced: Your fast track to open source](https://dev.to/codingcatdev/opensauced-your-fast-track-to-open-source-a77)
-- [Power Apps Tracks Santa](https://dev.to/wyattdave/power-apps-tracks-santa-80h)
-- [Understanding Reverse Proxy with Nginx - Step By Step Guide](https://dev.to/shubhamkcloud/understanding-reverse-proxy-with-nginx-step-by-step-guide-18a0)
 <!-- BLOG-POST-LIST:END -->
 
