@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
 - [#Bitcoin fee hits $37👀](https://dev.to/irmakork/bitcoin-fee-hits-37-3gc3)
+- [Using Flask-SQLAlchemy Validations](https://dev.to/tranmatt/using-flask-sqlalchemy-validations-31bi)
 - [Advent of Code #14 &lpar;in Crystal&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-crystal-4dmm)
-- [Advent of Code 2023 Day 16](https://dev.to/nickymeuleman/advent-of-code-2023-day-16-2gg6)
-- [SQL Server &amp; MongoDB sync &lpar;Kafka + Kubernetes + Debezium&rpar;](https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc)
 <!-- BLOG-POST-LIST:END -->
 
