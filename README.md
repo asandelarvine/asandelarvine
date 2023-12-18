@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Weekly 18 Dec 2023](https://dev.to/tspannhw/flank-weekly-18-dec-2023-2m20)
-- [The Bubble](https://dev.to/kingjotaro/the-bubble-281l)
-- [5-Step Approach: Projectsveltos for Kubernetes add-on deployment and management on RKE2](https://dev.to/egrosdou/5-step-approach-projectsveltos-for-kubernetes-add-on-deployment-and-management-on-rke2-35gm)
-- [How to Train your Transformer 🐲](https://dev.to/akshayballal/how-to-train-your-transformer-21om)
+- [Queuing jobs in NestJS using @nestjs/bullmq package](https://dev.to/railsstudent/queuing-jobs-in-nestjs-using-nestjsbullmq-package-55c1)
+- [11 free and fun APIs you must use in your side project](https://dev.to/firecampdev/11-free-and-fun-apis-you-must-use-in-your-side-project-219m)
+- [Valida automáticamente tus respuestas de AWS Bedrock LLM](https://dev.to/aws-espanol/valida-automaticamente-tus-respuestas-de-aws-bedrock-llm-32a6)
+- [Building a cloud backend in Go using REST and PostgreSQL](https://dev.to/encore/building-a-cloud-backend-in-go-using-rest-and-postgresql-147l)
 <!-- BLOG-POST-LIST:END -->
 
