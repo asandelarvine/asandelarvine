@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PWA Development Toolbox: The 8 Best Tools for Optimal Results](https://dev.to/codingcrafts/pwa-development-toolbox-the-8-best-tools-for-optimal-results-3nb4)
+- [💸🤑 Rexx 🪂AirDrop🪂 Reward: 500 Rexx Coins &lpar;worth $50&rpar;](https://dev.to/rexxcoin/rexx-airdrop-reward-500-rexx-coins-worth-50-2e5o)
+- [Embed Substack Signup Form in React](https://dev.to/akilesh/embed-substack-signup-form-in-react-32oi)
 - [Supercharge your remote development environment with DevPod](https://dev.to/hrittikhere/supercharge-your-remote-development-environment-with-devpod-11ah)
-- [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
-- [Frontend Development in 2024: Crafting a Dynamic Skillset for Success](https://dev.to/eduardomrigo/frontend-development-in-2024-crafting-a-dynamic-skillset-for-success-i3d)
-- [Open Source Impact: Reflecting on 2023 Contributions](https://dev.to/devteam/open-source-impact-reflecting-on-2023-contributions-2h6d)
 <!-- BLOG-POST-LIST:END -->
 
