@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redux Toolkit Simplified](https://dev.to/tanmaycode/redux-toolkit-simplified-1iig)
-- [How To Build Your Personal Brand as a Developer](https://dev.to/devland/how-to-build-your-personal-brand-as-a-developer-go2)
-- [My experience in creating Css with Alert Full Screen sell store](https://dev.to/racss/my-experience-in-creating-css-with-alert-full-screen-sell-store-2e99)
-- [PWA Development Toolbox: The 8 Best Tools for Optimal Results](https://dev.to/codingcrafts/pwa-development-toolbox-the-8-best-tools-for-optimal-results-3nb4)
+- [Building a modern landing page with Next.js and One Entry Headless CMS](https://dev.to/arshadayvid/building-a-modern-landing-page-with-nextjs-and-one-entry-headless-cms-34ne)
+- [Best 33 YouTube Channels Every Coder Must Subscribe Now](https://dev.to/gpt-prompt-coder/best-33-youtube-channels-every-coder-must-subscribe-now-18d2)
+- [How to Use Substring in C#: A Detailed Guide](https://dev.to/bytehide/how-to-use-substring-in-c-a-detailed-guide-165d)
+- [Phi-2 is available for chat through LM Studio Beta](https://dev.to/maximsaplin/phi-2-is-available-for-chat-through-lm-studio-beta-449b)
 <!-- BLOG-POST-LIST:END -->
 
