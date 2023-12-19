@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Image APIs To Use On Your Product In 2023](https://dev.to/camposped/7-image-apis-to-use-on-your-product-in-2023-2kd7)
 - [Playing a piano with your eyes - Gaze estimation](https://dev.to/miguelaeh/playing-a-piano-with-your-eyes-gaze-estimation-3e07)
 - [Functions in C programming.](https://dev.to/sujithvsuresh/functions-in-c-programming-3bce)
 - [🔥 Big frontend update: the Gowebly CLI now supports Bootstrap and Bulma](https://dev.to/koddr/big-frontend-update-the-gowebly-cli-now-supports-bootstrap-and-bulma-1c45)
-- [IDE Extension for AWS Application Composer](https://dev.to/aws-builders/ide-extension-for-aws-application-composer-3k3a)
 <!-- BLOG-POST-LIST:END -->
 
