@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleaning Your Git History: Safely Removing Sensitive Data](https://dev.to/balogh08/cleaning-your-git-history-safely-removing-sensitive-data-10i5)
+- [Implementing scroll-aware UI state with CSS](https://dev.to/logrocket/implementing-scroll-aware-ui-state-with-css-4ee5)
+- [Responsive Web Design: Enhancing User Experience Across All Devices](https://dev.to/hariet/responsive-web-design-enhancing-user-experience-across-all-devices-4ebl)
 - [Add Localization Translate to React App with redux &lpar;without i18next&rpar;](https://dev.to/idurar/add-localization-translate-to-react-app-with-redux-without-i18next-2hoi)
-- [🚀 DevSecOps ⚙️: &quot;A Deep Dive into Scanning External Docker Images with Aqua Trivy in Amazon CodePipeline&quot; 💭](https://dev.to/aws-builders/devsecops-a-deep-dive-into-scanning-external-docker-images-with-aqua-trivy-in-amazon-codepipeline-4ocb)
-- [Mocking Requests in Python](https://dev.to/quame_jnr1/mocking-requests-in-python-2anc)
-- [How to determine if your idea for a new business is viable](https://dev.to/intesar/how-to-determine-if-your-idea-for-a-new-business-is-viable-3ldk)
 <!-- BLOG-POST-LIST:END -->
 
