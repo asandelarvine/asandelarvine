@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
+- [Top 10 Rusty Repositories for you to start your Open Source Journey](https://dev.to/vedantkhairnar/top-10-rusty-repositories-for-you-to-start-your-open-source-journey-l9b)
 - [7 Image APIs To Use On Your Product In 2023](https://dev.to/camposped/7-image-apis-to-use-on-your-product-in-2023-2kd7)
-- [Playing a piano with your eyes - Gaze estimation](https://dev.to/miguelaeh/playing-a-piano-with-your-eyes-gaze-estimation-3e07)
-- [Functions in C programming.](https://dev.to/sujithvsuresh/functions-in-c-programming-3bce)
-- [🔥 Big frontend update: the Gowebly CLI now supports Bootstrap and Bulma](https://dev.to/koddr/big-frontend-update-the-gowebly-cli-now-supports-bootstrap-and-bulma-1c45)
+- [What&#39;s new in Novu 0.22?](https://dev.to/novu/whats-new-in-novu-022-3afm)
 <!-- BLOG-POST-LIST:END -->
 
