@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Are SoftNote Ordinals the Future Of NFTs?](https://dev.to/scofieldidehen/are-softnote-ordinals-the-future-of-nfts-494i)
+- [Top Developer Communities to Join in 2024 👨‍💻👩‍💻](https://dev.to/madza/top-developer-communities-to-join-in-2024-1ogm)
 - [Building a modern landing page with Next.js and One Entry Headless CMS](https://dev.to/arshadayvid/building-a-modern-landing-page-with-nextjs-and-one-entry-headless-cms-34ne)
 - [Best 33 YouTube Channels Every Coder Must Subscribe Now](https://dev.to/gpt-prompt-coder/best-33-youtube-channels-every-coder-must-subscribe-now-18d2)
-- [How to Use Substring in C#: A Detailed Guide](https://dev.to/bytehide/how-to-use-substring-in-c-a-detailed-guide-165d)
-- [Phi-2 is available for chat through LM Studio Beta](https://dev.to/maximsaplin/phi-2-is-available-for-chat-through-lm-studio-beta-449b)
 <!-- BLOG-POST-LIST:END -->
 
