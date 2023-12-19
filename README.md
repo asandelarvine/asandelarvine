@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge your remote development environment with DevPod](https://dev.to/hrittikhere/supercharge-your-remote-development-environment-with-devpod-11ah)
 - [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
 - [Frontend Development in 2024: Crafting a Dynamic Skillset for Success](https://dev.to/eduardomrigo/frontend-development-in-2024-crafting-a-dynamic-skillset-for-success-i3d)
 - [Open Source Impact: Reflecting on 2023 Contributions](https://dev.to/devteam/open-source-impact-reflecting-on-2023-contributions-2h6d)
-- [Laravel Octane and FrankenPHP](https://dev.to/robertobutti/laravel-octane-and-frankenphp-240o)
 <!-- BLOG-POST-LIST:END -->
 
