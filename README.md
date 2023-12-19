@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My experience in creating Css with Alert Full Screen sell store](https://dev.to/racss/my-experience-in-creating-css-with-alert-full-screen-sell-store-2e99)
 - [PWA Development Toolbox: The 8 Best Tools for Optimal Results](https://dev.to/codingcrafts/pwa-development-toolbox-the-8-best-tools-for-optimal-results-3nb4)
-- [💸🤑 Rexx 🪂AirDrop🪂 Reward: 500 Rexx Coins &lpar;worth $50&rpar;](https://dev.to/rexxcoin/rexx-airdrop-reward-500-rexx-coins-worth-50-2e5o)
 - [Embed Substack Signup Form in React](https://dev.to/akilesh/embed-substack-signup-form-in-react-32oi)
 - [Supercharge your remote development environment with DevPod](https://dev.to/hrittikhere/supercharge-your-remote-development-environment-with-devpod-11ah)
 <!-- BLOG-POST-LIST:END -->
