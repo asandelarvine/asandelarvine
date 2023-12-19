@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch of the VPN service](https://dev.to/serverspace/launch-of-the-vpn-service-2d62)
+- [💎 5 Cool JavaScript Physics Libraries 🤓](https://dev.to/random_ti/5-cool-javascript-physics-libraries-f9)
+- [Analyzing a Linux malware binary](https://dev.to/terceranexus6/analyzing-a-linux-malware-binary-4b2g)
 - [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
-- [Top 10 Rusty Repositories for you to start your Open Source Journey](https://dev.to/vedantkhairnar/top-10-rusty-repositories-for-you-to-start-your-open-source-journey-l9b)
-- [7 Image APIs To Use On Your Product In 2023](https://dev.to/camposped/7-image-apis-to-use-on-your-product-in-2023-2kd7)
-- [What&#39;s new in Novu 0.22?](https://dev.to/novu/whats-new-in-novu-022-3afm)
 <!-- BLOG-POST-LIST:END -->
 
