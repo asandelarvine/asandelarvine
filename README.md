@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch of the VPN service](https://dev.to/serverspace/launch-of-the-vpn-service-2d62)
-- [💎 5 Cool JavaScript Physics Libraries 🤓](https://dev.to/random_ti/5-cool-javascript-physics-libraries-f9)
-- [Analyzing a Linux malware binary](https://dev.to/terceranexus6/analyzing-a-linux-malware-binary-4b2g)
-- [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
+- [8 Awesome JavaScript String Manipulation Techniques](https://dev.to/serenepine/8-awesome-javascript-string-manipulation-techniques-fdh)
+- [Build a full stack app with Rust, Next.js and Docker](https://dev.to/francescoxx/build-a-full-stack-app-with-rust-nextjs-and-docker-436h)
+- [Basics of Deployment 03: 6 Best Practices for Security](https://dev.to/seal-io/basics-of-deployment-03-6-best-practices-for-security-4a74)
+- [A Comprehensive Guide to Writing Custom Hooks ✨&quot;](https://dev.to/prathamisonline/a-comprehensive-guide-to-writing-custom-hooks--33d4)
 <!-- BLOG-POST-LIST:END -->
 
