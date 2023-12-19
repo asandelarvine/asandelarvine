@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DEV Top Stats &amp; Trends in 2023](https://dev.to/devteam/dev-top-stats-trends-in-2023-530c)
+- [Building an Archiver in Rust](https://dev.to/sighgone/building-an-archiver-in-rust-2bdi)
+- [Exploring Modern Mobile App Development: A Comprehensive Guide](https://dev.to/kiraaziz/exploring-modern-mobile-app-development-a-comprehensive-guide-1724)
 - [Apps which will become famous in 2024](https://dev.to/nandinishinduja/apps-which-will-become-famous-in-2024-1djl)
-- [Cleaning Your Git History: Safely Removing Sensitive Data](https://dev.to/balogh08/cleaning-your-git-history-safely-removing-sensitive-data-10i5)
-- [Implementing scroll-aware UI state with CSS](https://dev.to/logrocket/implementing-scroll-aware-ui-state-with-css-4ee5)
-- [Connecting Debugger to Rails Applications](https://dev.to/joshdevhub/connecting-debugger-to-rails-applications-2p4p)
 <!-- BLOG-POST-LIST:END -->
 
