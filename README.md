@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Apps which will become famous in 2024](https://dev.to/nandinishinduja/apps-which-will-become-famous-in-2024-1djl)
 - [Cleaning Your Git History: Safely Removing Sensitive Data](https://dev.to/balogh08/cleaning-your-git-history-safely-removing-sensitive-data-10i5)
 - [Implementing scroll-aware UI state with CSS](https://dev.to/logrocket/implementing-scroll-aware-ui-state-with-css-4ee5)
-- [Responsive Web Design: Enhancing User Experience Across All Devices](https://dev.to/hariet/responsive-web-design-enhancing-user-experience-across-all-devices-4ebl)
-- [Add Localization Translate to React App with redux &lpar;without i18next&rpar;](https://dev.to/idurar/add-localization-translate-to-react-app-with-redux-without-i18next-2hoi)
+- [Connecting Debugger to Rails Applications](https://dev.to/joshdevhub/connecting-debugger-to-rails-applications-2p4p)
 <!-- BLOG-POST-LIST:END -->
 
