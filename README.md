@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are SoftNote Ordinals the Future Of NFTs?](https://dev.to/scofieldidehen/are-softnote-ordinals-the-future-of-nfts-494i)
-- [Top Developer Communities to Join in 2024 👨‍💻👩‍💻](https://dev.to/madza/top-developer-communities-to-join-in-2024-1ogm)
-- [Building a modern landing page with Next.js and One Entry Headless CMS](https://dev.to/arshadayvid/building-a-modern-landing-page-with-nextjs-and-one-entry-headless-cms-34ne)
-- [Best 33 YouTube Channels Every Coder Must Subscribe Now](https://dev.to/gpt-prompt-coder/best-33-youtube-channels-every-coder-must-subscribe-now-18d2)
+- [Coding with crustaceans?🦐 - CodeLobster IDE🦞 review](https://dev.to/thormeier/coding-with-crustaceans-codelobster-ide-review-la5)
+- [Mixtral, OpenAI and the race to bottom](https://dev.to/govindsb/mixtral-openai-and-the-race-to-bottom-1l38)
+- [Asynchronous Programming in JavaScript: An Essential Guide](https://dev.to/marmariadev/asynchronous-programming-in-javascript-an-essential-guide-28h1)
+- [Create a Carousel with Progress Indicators using Tailwind and Alpine.js](https://dev.to/cruip_com/create-a-carousel-with-progress-indicators-using-tailwind-and-alpinejs-1de5)
 <!-- BLOG-POST-LIST:END -->
 
