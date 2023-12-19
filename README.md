@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retail software: Key challenges and benefits](https://dev.to/abtosoftware/retail-software-key-challenges-and-benefits-3ca2)
-- [Featured Mod of the Month: Helen Anderson](https://dev.to/devteam/featured-mod-of-the-month-helen-anderson-38mc)
-- [How to Generate Swagger Docs Easily with Apitoolkit&#39;s Live Traffic](https://dev.to/elliot_brenya/how-to-generate-swagger-docs-easily-with-apitoolkits-live-traffic-4e1h)
-- [What You Need to Know About Domain and Hosting](https://dev.to/theoriginalbpc/what-you-need-to-know-about-domain-and-hosting-2bdh)
+- [🚀 DevSecOps ⚙️: &quot;A Deep Dive into Scanning External Docker Images with Aqua Trivy in Amazon CodePipeline&quot; 💭](https://dev.to/aws-builders/devsecops-a-deep-dive-into-scanning-external-docker-images-with-aqua-trivy-in-amazon-codepipeline-4ocb)
+- [Mocking Requests in Python](https://dev.to/quame_jnr1/mocking-requests-in-python-2anc)
+- [How to determine if your idea for a new business is viable](https://dev.to/intesar/how-to-determine-if-your-idea-for-a-new-business-is-viable-3ldk)
+- [CSS subgrid: Designing advanced layouts](https://dev.to/logrocket/css-subgrid-designing-advanced-layouts-44d1)
 <!-- BLOG-POST-LIST:END -->
 
