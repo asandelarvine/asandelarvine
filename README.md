@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [🔥 The Single Best Tip To Attract More Contributors To Your GitHub Project💡](https://dev.to/flipt/the-single-best-tip-to-attract-more-contributors-to-your-github-project-4o2l)
 - [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
-- [What Tech-Related DIY Project Do You Recommend?](https://dev.to/codenewbieteam/what-tech-related-diy-project-do-you-recommend-486)
 - [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
+- [What Tech-Related DIY Project Do You Recommend?](https://dev.to/codenewbieteam/what-tech-related-diy-project-do-you-recommend-486)
 <!-- BLOG-POST-LIST:END -->
 
