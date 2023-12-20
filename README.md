@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Secret Management](https://dev.to/oyedeletemitope/kubernetes-secret-management-18hm)
-- [How to Host WordPress for Free on Vercel: A Step-by-Step Guide](https://dev.to/yunuserturk/how-to-host-wordpress-for-free-on-vercel-a-step-by-step-guide-8cd)
-- [The Simplest Guide on Ruby Methods Arguments](https://dev.to/justthev/the-simplest-guide-on-ruby-methods-arguments-25pk)
-- [ERC Token Standards - Everything You Need to Know](https://dev.to/braxton/erc-token-standards-everything-you-need-to-know-388b)
+- [Unlocking the Power of Large Language Models with Kel: Enhancing Workflow and Productivity](https://dev.to/qainsights/unlocking-the-power-of-large-language-models-with-kel-enhancing-workflow-and-productivity-22cb)
+- [Setting Up AWS Config: A Practical Guide to Real-World Implementation and Use Cases](https://dev.to/osamagamal/setting-up-aws-config-a-practical-guide-to-real-world-implementation-and-use-cases-2lkh)
+- [Tech Talk: React in the Terminal? Hold my Beer 🍺](https://dev.to/manuartero/tech-talk-react-in-the-terminal-hold-my-beer-2pnf)
+- [The Top 10 GitHub Repositories Making Waves 🌊📊](https://dev.to/arjuncodess/the-top-10-github-repositories-making-waves-4p1o)
 <!-- BLOG-POST-LIST:END -->
 
