@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Set-oriented Syntax – Using SQL as an Example](https://dev.to/esproc_spl/set-oriented-syntax-using-sql-as-an-example-36c)
+- [How to use cURL in PHP](https://dev.to/serpapi/how-to-use-curl-in-php-2aga)
 - [🔥 The Single Best Tip To Attract More Contributors To Your GitHub Project💡](https://dev.to/flipt/the-single-best-tip-to-attract-more-contributors-to-your-github-project-4o2l)
-- [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
 - [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
-- [What Tech-Related DIY Project Do You Recommend?](https://dev.to/codenewbieteam/what-tech-related-diy-project-do-you-recommend-486)
 <!-- BLOG-POST-LIST:END -->
 
