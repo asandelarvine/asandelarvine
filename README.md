@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nx 17.2 Update!!](https://dev.to/nx/nx-172-update-5ag8)
+- [echo3D Uses AI to Streamline 3D Asset Management](https://dev.to/echo3d/echo3d-uses-ai-to-streamline-3d-asset-management-5if)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-76m)
 - [Announcing @ngneat/avvvatars](https://dev.to/shhdharmen/announcing-ngneatavvvatars-1bbj)
-- [Angular Signals: Na Prática](https://dev.to/matheusriann/angular-signals-na-pratica-140o)
-- [KALI LINUX TOOL: SECRET UNICORN POWERS YOU WON&#39;T BELIEVE! &lpar;Don&#39;t Hack Grandma!&rpar;](https://dev.to/walterowuor/kali-linux-tool-secret-unicorn-powers-you-wont-believe-dont-hack-grandma-84p)
-- [Choosing Between Controllers and Minimal API for .NET APIs](https://dev.to/michaeljolley/choosing-between-controllers-and-minimal-api-for-net-apis-1pf9)
 <!-- BLOG-POST-LIST:END -->
 
