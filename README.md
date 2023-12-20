@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Large Language Models with Kel: Enhancing Workflow and Productivity](https://dev.to/qainsights/unlocking-the-power-of-large-language-models-with-kel-enhancing-workflow-and-productivity-22cb)
-- [Setting Up AWS Config: A Practical Guide to Real-World Implementation and Use Cases](https://dev.to/osamagamal/setting-up-aws-config-a-practical-guide-to-real-world-implementation-and-use-cases-2lkh)
-- [Tech Talk: React in the Terminal? Hold my Beer 🍺](https://dev.to/manuartero/tech-talk-react-in-the-terminal-hold-my-beer-2pnf)
-- [The Top 10 GitHub Repositories Making Waves 🌊📊](https://dev.to/arjuncodess/the-top-10-github-repositories-making-waves-4p1o)
+- [7 Portfolio Websites That Will Make You Jealous](https://dev.to/mukeshkuiry/7-portfolio-websites-that-will-make-you-jealous-332b)
+- [Discrimination Faced by Women In Tech](https://dev.to/nandinishinduja/women-in-tech-1gpm)
+- [🌟 #DEVImpact2023 Reflections](https://dev.to/pachicodes/devimpact2023-reflections-4jgn)
+- [How to Use Shoulda Matchers with RSpec for Ruby on Rails](https://dev.to/appsignal/how-to-use-shoulda-matchers-with-rspec-for-ruby-on-rails-2m47)
 <!-- BLOG-POST-LIST:END -->
 
