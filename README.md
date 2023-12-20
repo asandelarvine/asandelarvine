@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Portfolio Websites That Will Make You Jealous](https://dev.to/mukeshkuiry/7-portfolio-websites-that-will-make-you-jealous-332b)
-- [Discrimination Faced by Women In Tech](https://dev.to/nandinishinduja/women-in-tech-1gpm)
-- [🌟 #DEVImpact2023 Reflections](https://dev.to/pachicodes/devimpact2023-reflections-4jgn)
-- [How to Use Shoulda Matchers with RSpec for Ruby on Rails](https://dev.to/appsignal/how-to-use-shoulda-matchers-with-rspec-for-ruby-on-rails-2m47)
+- [Announcing @ngneat/avvvatars](https://dev.to/shhdharmen/announcing-ngneatavvvatars-1bbj)
+- [Angular Signals: Na Prática](https://dev.to/matheusriann/angular-signals-na-pratica-140o)
+- [KALI LINUX TOOL: SECRET UNICORN POWERS YOU WON&#39;T BELIEVE! &lpar;Don&#39;t Hack Grandma!&rpar;](https://dev.to/walterowuor/kali-linux-tool-secret-unicorn-powers-you-wont-believe-dont-hack-grandma-84p)
+- [Choosing Between Controllers and Minimal API for .NET APIs](https://dev.to/michaeljolley/choosing-between-controllers-and-minimal-api-for-net-apis-1pf9)
 <!-- BLOG-POST-LIST:END -->
 
