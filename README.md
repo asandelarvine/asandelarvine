@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Abstract Classes in Python](https://dev.to/sarahmarie73/abstract-classes-in-python-55mj)
 - [Top Tips for Overcoming Budget Issues in a Software Startup](https://dev.to/dhruvjoshi9/top-tips-for-overcoming-budget-issues-in-a-software-startup-j46)
+- [On Writing Well &lpar;Part I The Transaction&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-3ndg)
 - [Mastering Terraform: How to Manage Multiple Environments with Dynamic S3 Backends](https://dev.to/aws-builders/mastering-terraform-how-to-manage-multiple-environments-with-dynamic-s3-backends-1p9)
-- [Vulnerabilities in Guilded.gg](https://dev.to/antogarand/vulnerabilities-in-guildedgg-58m6)
 <!-- BLOG-POST-LIST:END -->
 
