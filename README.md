@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the power of Inheritance in Object Oriented Programming](https://dev.to/mzunairtariq/unveiling-thepower-of-inheritance-in-object-oriented-programming-4f8k)
 - [The &quot;Censorship Brush&quot; - GIMP enabled Invoice Redaction](https://dev.to/realvorl/the-censorship-brush-gimp-enabled-invoice-redaction-42mh)
 - [What&#39;s going on in the Zilliz Universe? December 2023](https://dev.to/zilliz/whats-going-on-in-the-zilliz-universe-december-2023-51od)
 - [Nx 17.2 Update!!](https://dev.to/nx/nx-172-update-5ag8)
-- [🐧5 useful resources for anyone learning Linux](https://dev.to/kwnaidoo/5-useful-resources-for-anyone-learning-linux-1f7f)
 <!-- BLOG-POST-LIST:END -->
 
