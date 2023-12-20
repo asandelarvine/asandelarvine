@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nexus OSS servisinin önüne nginx vekil servisi ekleme](https://dev.to/aciklab/nexus-oss-servisinin-onune-nginx-vekil-servisi-ekleme-5b29)
+- [Automated Labeling or Tagging using Google Gemini](https://dev.to/ranjancse/automated-labeling-or-tagging-using-google-gemini-37h)
+- [Devfest Dijon 2023](https://dev.to/onepoint/devfest-dijon-2023-5f97)
 - [Unraveling the Kubernetes ImagePullBackOff Error](https://dev.to/refine/unraveling-the-kubernetes-imagepullbackoff-error-55fj)
-- [Day 1, January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
-- [Authorize on the edge with Cerbos Hub and Embedded PDP bundles](https://dev.to/cerbos/authorize-on-the-edge-with-cerbos-hub-and-embedded-pdp-bundles-5e6g)
-- [Deploying Super Mario on Kubernetes🎮🎮](https://dev.to/swapi123/deploying-super-mario-on-kubernetes-3ojc)
 <!-- BLOG-POST-LIST:END -->
 
