@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nexus OSS servisinin önüne nginx vekil servisi ekleme](https://dev.to/aciklab/nexus-oss-servisinin-onune-nginx-vekil-servisi-ekleme-5b29)
-- [Automated Labeling or Tagging using Google Gemini](https://dev.to/ranjancse/automated-labeling-or-tagging-using-google-gemini-37h)
-- [Devfest Dijon 2023](https://dev.to/onepoint/devfest-dijon-2023-5f97)
-- [Unraveling the Kubernetes ImagePullBackOff Error](https://dev.to/refine/unraveling-the-kubernetes-imagepullbackoff-error-55fj)
+- [Variable scope in C programming.](https://dev.to/sujithvsuresh/variable-scope-in-c-programming-4ebd)
+- [Breaking Barriers: Chat with PDF Made Easy with Walles.AI](https://dev.to/geekyqee/breaking-barriers-chat-with-pdf-made-easy-with-wallesai-2o2j)
+- [Events in C#: When and How to Implement Them](https://dev.to/bytehide/events-in-c-when-and-how-to-implement-them-4mcb)
+- [Welcome Thread - v256](https://dev.to/devteam/welcome-thread-v257-5g3e)
 <!-- BLOG-POST-LIST:END -->
 
