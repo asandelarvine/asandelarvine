@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Abstract Classes in Python](https://dev.to/sarahmarie73/abstract-classes-in-python-55mj)
 - [Top Tips for Overcoming Budget Issues in a Software Startup](https://dev.to/dhruvjoshi9/top-tips-for-overcoming-budget-issues-in-a-software-startup-j46)
 - [Mastering Terraform: How to Manage Multiple Environments with Dynamic S3 Backends](https://dev.to/aws-builders/mastering-terraform-how-to-manage-multiple-environments-with-dynamic-s3-backends-1p9)
 - [Vulnerabilities in Guilded.gg](https://dev.to/antogarand/vulnerabilities-in-guildedgg-58m6)
-- [How to use GoLang in Flutter Application - Golang FFI](https://dev.to/leehack/how-to-use-golang-in-flutter-application-golang-ffi-1950)
 <!-- BLOG-POST-LIST:END -->
 
