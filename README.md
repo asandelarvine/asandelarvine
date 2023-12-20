@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
+- [🔥 The Single Best Tip To Attract More Contributors To Your GitHub Project💡](https://dev.to/flipt/the-single-best-tip-to-attract-more-contributors-to-your-github-project-4o2l)
 - [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
-- [Simple Database Software For MySQL](https://dev.to/domfive/simple-database-software-for-mysql-502n)
-- [Master Prompt Engineering with OpenAI 🧠](https://dev.to/tanyarai/master-prompt-engineering-with-openai-1he3)
+- [What Tech-Related DIY Project Do You Recommend?](https://dev.to/codenewbieteam/what-tech-related-diy-project-do-you-recommend-486)
+- [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
 <!-- BLOG-POST-LIST:END -->
 
