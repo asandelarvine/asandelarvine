@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a desktop app with JavaScript](https://dev.to/opensourcee/building-a-desktop-app-with-javascript-4lge)
-- [Exploring Electron: A JavaScript Developer&#39;s Guide](https://dev.to/opensourcee/exploring-electron-a-javascript-developers-guide-1fjm)
-- [Top 5 Ways To Host Your Full-Stack App For Free 🚀✨](https://dev.to/wasp/top-5-ways-to-host-your-full-stack-app-for-free-c2j)
-- [Information Extraction with Google Gemini](https://dev.to/ranjancse/information-extraction-with-google-gemini-253e)
+- [Kubernetes Secret Management](https://dev.to/oyedeletemitope/kubernetes-secret-management-18hm)
+- [How to Host WordPress for Free on Vercel: A Step-by-Step Guide](https://dev.to/yunuserturk/how-to-host-wordpress-for-free-on-vercel-a-step-by-step-guide-8cd)
+- [The Simplest Guide on Ruby Methods Arguments](https://dev.to/justthev/the-simplest-guide-on-ruby-methods-arguments-25pk)
+- [ERC Token Standards - Everything You Need to Know](https://dev.to/braxton/erc-token-standards-everything-you-need-to-know-388b)
 <!-- BLOG-POST-LIST:END -->
 
