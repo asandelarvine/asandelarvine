@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing GPT Crawler - Turn Any Site Into a Custom GPT With Just a URL](https://dev.to/builderio/introducing-gpt-crawler-turn-any-site-into-a-custom-gpt-with-just-a-url-1ibj)
-- [Ugly Sweater CSS: Black Widow](https://dev.to/jarvisscript/ugly-sweater-css-black-widow-220h)
-- [Who’s That Pokémon? | JavaScript Project](https://dev.to/codingcss/whos-that-pokemon-javascript-project-45m5)
-- [Create VM on Microsoft Azure with Terraform](https://dev.to/iharshbhavsar/create-vm-on-microsoft-azure-with-terraform-55n6)
+- [Managing Access Control Policies and PDPs with Cerbos Hub](https://dev.to/cerbos/managing-access-control-policies-and-pdps-with-cerbos-hub-39o3)
+- [I installed Metasploit on my android device. check out.](https://dev.to/walterowuor/i-installed-metasploit-on-my-android-device-check-out-pj6)
+- [Block Time](https://dev.to/chainspect_app/block-time-2p98)
+- [How to Translate Open Source Contributions into Career Opportunities](https://dev.to/opensauced/how-to-translate-open-source-contributions-into-career-opportunities-1ib3)
 <!-- BLOG-POST-LIST:END -->
 
