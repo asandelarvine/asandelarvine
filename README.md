@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Data Analysis and How Can You Get Started?](https://dev.to/pavanbelagatti/what-is-data-analysis-and-how-can-you-get-started-ndm)
-- [Prompt Engineering with Serverless AI](https://dev.to/technosophos/prompt-engineering-with-serverless-ai-3fmn)
-- [Setting up your first Django Project](https://dev.to/celestialchips/setting-up-your-first-django-project-35d7)
-- [State of the Art Prompt Builder with AiConfig](https://dev.to/ranjancse/state-of-the-art-prompt-builder-with-aiconfig-839)
+- [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
+- [The Impact of AI on Writing Code](https://dev.to/iaauteco/the-impact-of-ai-on-writing-code-1c4i)
+- [Hydra: The Multi-Headed Beast of Password Cracking](https://dev.to/walterowuor/hydra-the-multi-headed-beast-of-password-cracking-327a)
+- [CRACK ANY PASSWORD IN SECONDS! This KALI LINUX TOOL is ILLEGAL &lpar;But AMAZING!&rpar;](https://dev.to/walterowuor/crack-any-password-in-seconds-this-kali-linux-tool-is-illegal-but-amazing-65n)
 <!-- BLOG-POST-LIST:END -->
 
