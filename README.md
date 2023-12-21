@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless Function as a Service: A Simple Guide to Implementing it with Query](https://dev.to/gc-victor/effortless-function-as-a-service-a-simple-guide-to-implementing-it-with-query-3ha0)
-- [Trend Detection and Analysis with the AiConfig](https://dev.to/ranjancse/trend-detection-and-analysis-with-the-aiconfig-2ek)
-- [Project Twenty One: Rich Text](https://dev.to/valeriavg/project-twenty-one-rich-text-23c8)
-- [Essentials of TypeScript Classes](https://dev.to/refine/essentials-of-typescript-classes-4mi8)
+- [What will happen to the full-stack framework in the future?](https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00)
+- [API completa em Golang - Parte 4](https://dev.to/wiliamvj/api-completa-em-golang-parte-4-i5p)
+- [Enhancing Content Creation: Visual Editing with Sanity and Storyblok for Next.js](https://dev.to/focusreactive/enhancing-content-creation-visual-editing-with-sanity-and-storyblok-for-nextjs-279a)
+- [Navigating the Educational Landscape: A Deeper Dive into Essay Typer Tools](https://dev.to/jessicatyler/navigating-the-educational-landscape-a-deeper-dive-into-essay-typer-tools-3poe)
 <!-- BLOG-POST-LIST:END -->
 
