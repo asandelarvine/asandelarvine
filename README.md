@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [State of the Art Prompt Builder with AiConfig](https://dev.to/ranjancse/state-of-the-art-prompt-builder-with-aiconfig-839)
+- [Django Query Expressions F&lpar;&rpar;](https://dev.to/codewitgabi/django-query-expressions-f-1gp0)
+- [Aprimorando as respostas do ChatGPT com prompts estratégicos](https://dev.to/joaoiacillo/aprimorando-as-respostas-do-chatgpt-com-prompts-estrategicos-p7d)
 - [Playground for Generative AI](https://dev.to/tanyarai/playground-for-generative-ai-40nc)
-- [Tech in Everyday Life: When Did Your Coding Skills Unexpectedly Shine?](https://dev.to/codenewbieteam/tech-in-everyday-life-when-did-your-coding-skills-unexpectedly-shine-39f8)
-- [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
-- [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
 <!-- BLOG-POST-LIST:END -->
 
