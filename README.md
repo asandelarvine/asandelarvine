@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Vector Database Videos of 2023 🎥](https://dev.to/zilliz/top-5-vector-database-videos-of-2023-26hc)
 - [Managing Access Control Policies and PDPs with Cerbos Hub](https://dev.to/cerbos/managing-access-control-policies-and-pdps-with-cerbos-hub-39o3)
 - [I installed Metasploit on my android device. check out.](https://dev.to/walterowuor/i-installed-metasploit-on-my-android-device-check-out-pj6)
 - [Block Time](https://dev.to/chainspect_app/block-time-2p98)
-- [How to Translate Open Source Contributions into Career Opportunities](https://dev.to/opensauced/how-to-translate-open-source-contributions-into-career-opportunities-1ib3)
 <!-- BLOG-POST-LIST:END -->
 
