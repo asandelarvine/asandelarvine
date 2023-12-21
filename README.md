@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Trend Detection and Analysis with the AiConfig](https://dev.to/ranjancse/trend-detection-and-analysis-with-the-aiconfig-2ek)
 - [Essentials of TypeScript Classes](https://dev.to/refine/essentials-of-typescript-classes-4mi8)
 - [Amazon Simple Storage Service &lpar;Amazon S3&rpar;](https://dev.to/oncloud7/amazon-simple-storage-service-amazon-s3-4d53)
 - [KNIP | unused files detector](https://dev.to/shubhamtiwari909/knip-unused-files-detector-l1d)
-- [Five Apache projects you probably didn&#39;t know about](https://dev.to/nfrankel/five-apache-projects-you-probably-didnt-know-about-4c5f)
 <!-- BLOG-POST-LIST:END -->
 
