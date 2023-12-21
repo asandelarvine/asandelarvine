@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#Cardano Analysis for December 21](https://dev.to/irmakork/cardano-analysis-for-december-21-2gp)
-- [Operadores numéricos são mais complexos do que parece](https://dev.to/lucas_ac_am/operadores-numericos-sao-mais-complexos-do-que-parece-2f16)
-- [&quot;Being Open to the Unexpected&quot;: CodeNewbie Podcast S26E8](https://dev.to/codenewbieteam/being-open-to-the-unexpected-codenewbie-podcast-s26e8-1li0)
-- [My criticism about the new Observables API](https://dev.to/artalar/my-criticism-about-the-new-observables-api-37d5)
+- [Playground for Generative AI](https://dev.to/tanyarai/playground-for-generative-ai-40nc)
+- [Tech in Everyday Life: When Did Your Coding Skills Unexpectedly Shine?](https://dev.to/codenewbieteam/tech-in-everyday-life-when-did-your-coding-skills-unexpectedly-shine-39f8)
+- [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
+- [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
 <!-- BLOG-POST-LIST:END -->
 
