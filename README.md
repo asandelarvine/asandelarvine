@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Data Analysis and How Can You Get Started?](https://dev.to/pavanbelagatti/what-is-data-analysis-and-how-can-you-get-started-ndm)
 - [Prompt Engineering with Serverless AI](https://dev.to/technosophos/prompt-engineering-with-serverless-ai-3fmn)
 - [State of the Art Prompt Builder with AiConfig](https://dev.to/ranjancse/state-of-the-art-prompt-builder-with-aiconfig-839)
 - [Django Query Expressions F&lpar;&rpar;](https://dev.to/codewitgabi/django-query-expressions-f-1gp0)
-- [Aprimorando as respostas do ChatGPT com prompts estratégicos](https://dev.to/joaoiacillo/aprimorando-as-respostas-do-chatgpt-com-prompts-estrategicos-p7d)
 <!-- BLOG-POST-LIST:END -->
 
