@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV Mods&#39; Favorites of 2023](https://dev.to/devteam/dev-mods-favorites-of-2023-2k3c)
-- [This Week In React #167: Hydration, Remix, Server Components, cache, perf, Glow, Unistyles, Expo, :has&lpar;&rpar;, Tailwind, date-fns...](https://dev.to/sebastienlorber/this-week-in-react-167-hydration-remix-server-components-cache-perf-glow-unistyles-expo-has-tailwind-date-fns-2259)
-- [STO Development: The Future of Investment Opportunities](https://dev.to/matthewthamos/sto-development-the-future-of-investment-opportunities-ipg)
-- [Using ChatGPT with Your Own Data using LangChain and Supabase](https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1jke)
+- [⭐ 6 Open-Source Vector Databases to Power Your AI App 🔗💽](https://dev.to/lunary/6-open-source-vector-databases-to-power-your-ai-app-o45)
+- [Can we implement asynchronous circuit breakers with serverless architecture?](https://dev.to/aws-builders/can-we-implement-asynchronous-circuit-breakers-with-serverless-architecture-34gh)
+- [🎄2023 is over ...](https://dev.to/jphi_baconnais/2023-is-over--38oi)
 <!-- BLOG-POST-LIST:END -->
 
