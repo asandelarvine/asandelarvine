@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Share your Docker Compose app terminal remotely](https://dev.to/pradumnasaraf/share-your-docker-compose-app-terminal-remotely-c3d)
 - [Add password-less OTP based authentication to your Next.js apps using Supabase &amp; Twilio](https://dev.to/asheeshh/add-password-less-otp-based-authentication-to-your-nextjs-apps-using-supabase-twilio-4na1)
 - [Angular V17 Update: Top Things You Need to Know](https://dev.to/dhruvjoshi9/angular-v17-update-top-things-you-need-to-know-15gc)
 - [Trends in Software Architecture and Design for the year 2023](https://dev.to/yogini16/trends-in-software-architecture-and-design-for-the-year-2023-3m3k)
-- [I have taken advantage of Excel&#39;s functionality to develop a CLI tool to better manage data](https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6)
 <!-- BLOG-POST-LIST:END -->
 
