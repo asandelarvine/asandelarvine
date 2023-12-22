@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Sanity&#39;s Presentation Tool with Next.js: Comprehensive Guide](https://dev.to/focusreactive/integrating-sanitys-presentation-tool-with-nextjs-comprehensive-guide-1d0j)
+- [Using Docker Cache Layer to Speed Up Build Time](https://dev.to/akbarnafisa/using-docker-cache-layer-to-speed-up-build-time-2gm)
+- [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
 - [Simplified Networking - Crafting Isolated Echo Server with Rust](https://dev.to/douglasmakey/simplified-networking-crafting-isolated-echo-server-with-rust-c72)
-- [⚡ Levenshtein Distance: A Powerful Algorithm for String Comparison ⚡](https://dev.to/best_codes/understanding-levenshtein-distance-a-powerful-algorithm-for-string-comparison-4p4a)
-- [Manage Your Cypress Logs Like a Pro](https://dev.to/elaichenkov/manage-your-cypress-logs-like-a-pro-23dc)
-- [Why you MUST Add Logger To your project?](https://dev.to/hasanelsherbiny/why-you-must-add-logger-to-your-project-i31)
 <!-- BLOG-POST-LIST:END -->
 
