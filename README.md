@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How To Nail Your Next Technical Interview In 2024: Step By Step 🚀](https://dev.to/dragosnedelcu/how-to-nail-your-next-technical-interview-in-2024-step-by-step-4jh0)
 - [How to Maintain Your Online Presence with Social Media](https://dev.to/theoriginalbpc/how-to-maintain-your-online-presence-with-social-media-3ci7)
-- [The Dawn of a New Era in Creativity: GenAI as the Great Equalizer](https://dev.to/alexr/the-dawn-of-a-new-era-in-creativity-genai-as-the-great-equalizer-2kp1)
-- [How I passed the AWS Certified SysOps Administrator - Associate exam](https://dev.to/arsalan00/how-i-passed-the-aws-certified-sysops-administrator-associate-exam-4g7p)
+- [Oracles with Soroban Smart Contracts: A Practical and Flexible On-Chain Framework](https://dev.to/kyung_jin/oracles-with-soroban-smart-contracts-a-practical-and-flexible-on-chain-framework-f3g)
+- [Eliminating additional bandwidth charges for multi-zone sites on Vercel](https://dev.to/matthewwilson/eliminating-additional-bandwidth-charges-for-multi-zone-sites-on-vercel-1k5a)
 <!-- BLOG-POST-LIST:END -->
 
