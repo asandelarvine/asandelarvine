@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1jke)
-- [⭐ 6 Open-Source Vector Databases to Power Your AI App 🔗💽](https://dev.to/lunary/6-open-source-vector-databases-to-power-your-ai-app-o45)
-- [Can we implement asynchronous circuit breakers with serverless architecture?](https://dev.to/aws-builders/can-we-implement-asynchronous-circuit-breakers-with-serverless-architecture-34gh)
-- [🎄2023 is over ...](https://dev.to/jphi_baconnais/2023-is-over--38oi)
+- [The Dawn of a New Era in Creativity: GenAI as the Great Equalizer](https://dev.to/alexr/the-dawn-of-a-new-era-in-creativity-genai-as-the-great-equalizer-2kp1)
+- [How I passed the AWS Certified SysOps Administrator - Associate exam](https://dev.to/arsalan00/how-i-passed-the-aws-certified-sysops-administrator-associate-exam-4g7p)
+- [Laravel 10 Find Month Difference Between Two Dates with Example](https://dev.to/larainfo/laravel-10-find-month-difference-between-two-dates-with-example-4pjd)
+- [Tips for styling React apps in JavaScript](https://dev.to/codingcss/tips-for-styling-react-apps-in-javascript-57ag)
 <!-- BLOG-POST-LIST:END -->
 
