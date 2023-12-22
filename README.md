@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 mejores programas para pequeñas empresas compatibles con Mac](https://dev.to/oroscoloyamena/10-mejores-programas-para-pequenas-empresas-compatibles-con-mac-2nen)
+- [HashMap in C#: Detailed Guide](https://dev.to/bytehide/hashmap-in-c-detailed-guide-1p9p)
 - [Access Current Entry in Custom Validation Rule](https://dev.to/visuellverstehen/access-current-entry-in-custom-validation-rule-5ao3)
 - [MySQL: Everything You Need To Know](https://dev.to/serverspace/mysql-everything-you-need-to-know-4mg6)
-- [Database relationships: many-to-one, one-to-one and many-to-many](https://dev.to/ilija/database-relationships-many-to-one-one-to-one-and-many-to-many-3819)
-- [Day 3 - The 12 Days of DEV: March 2023](https://dev.to/devteam/day-3-the-12-days-of-dev-march-2023-4dp2)
 <!-- BLOG-POST-LIST:END -->
 
