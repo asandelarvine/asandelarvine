@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DEV Mods&#39; Favorites of 2023](https://dev.to/devteam/dev-mods-favorites-of-2023-2k3c)
+- [This Week In React #167: Hydration, Remix, Server Components, cache, perf, Glow, Unistyles, Expo, :has&lpar;&rpar;, Tailwind, date-fns...](https://dev.to/sebastienlorber/this-week-in-react-167-hydration-remix-server-components-cache-perf-glow-unistyles-expo-has-tailwind-date-fns-2259)
 - [STO Development: The Future of Investment Opportunities](https://dev.to/matthewthamos/sto-development-the-future-of-investment-opportunities-ipg)
 - [Using ChatGPT with Your Own Data using LangChain and Supabase](https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c)
-- [Growing from Junior to Senior Designer: How to Climb the Career Ladder](https://dev.to/rafikke_lion/growing-from-junior-to-senior-designer-how-to-climb-the-career-ladder-e4o)
-- [TypeScript vs JavaScript - A Detailed Comparison](https://dev.to/refine/typescript-vs-javascript-a-detailed-comparison-479f)
 <!-- BLOG-POST-LIST:END -->
 
