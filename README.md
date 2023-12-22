@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Instalando a Wiki Outline em Docker com Autenticação via GitLab](https://dev.to/alfredotavio/instalando-a-wiki-outline-em-docker-com-autenticacao-via-gitlab-2fk7)
 - [Surgical insertion — Neovim From Scratch](https://dev.to/aminnairi/surgical-insertion-neovim-from-scratch-4ccf)
 - [All the new javascript array methods you missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
 - [🌟 #DEVImpact2023 Reflections](https://dev.to/alais29/devimpact2023-reflections-36i2)
-- [Building A Crousal Maker Tool with NextJS ⭐](https://dev.to/random_ti/building-a-crousal-maker-tool-with-nextjs-4pd0)
 <!-- BLOG-POST-LIST:END -->
 
