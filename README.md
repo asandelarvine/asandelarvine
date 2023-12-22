@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using ChatGPT with Your Own Data using LangChain and Supabase](https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c)
 - [Growing from Junior to Senior Designer: How to Climb the Career Ladder](https://dev.to/rafikke_lion/growing-from-junior-to-senior-designer-how-to-climb-the-career-ladder-e4o)
 - [TypeScript vs JavaScript - A Detailed Comparison](https://dev.to/refine/typescript-vs-javascript-a-detailed-comparison-479f)
 - [A Comprehensive Guide to Creative Resources for UI development](https://dev.to/rubiin/a-comprehensive-guide-to-creative-resources-for-ui-development-11ac)
-- [10 mejores programas para pequeñas empresas compatibles con Mac](https://dev.to/oroscoloyamena/10-mejores-programas-para-pequenas-empresas-compatibles-con-mac-2nen)
 <!-- BLOG-POST-LIST:END -->
 
