@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharing a state between windows without a serve](https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an)
 - [To Code and Beyond: A Neverland Adventure in Bash, Lua, Python, and Rust](https://dev.to/proteusiq/to-code-and-beyond-a-neverland-adventure-in-bash-lua-python-and-rust-1jon)
+- [HTML Demystified: Unraveling the Foundations of Web Development](https://dev.to/iamdoncarey/unveiling-html-the-bedrock-of-web-development-4nog)
 - [Run Kafka Locally using Docker](https://dev.to/satyajitnayak/run-kafka-locally-using-docker-2p8d)
-- [Track Your Facebook Page&#39;s Success with Our Analytics Tool](https://dev.to/facebook-page/track-your-facebook-pages-success-with-our-analytics-tool-78n)
-- [Deploy .NET Web Applications In Linux - Simple And Comprehensive Guide](https://dev.to/zairiaimendev/deploy-net-web-applications-in-linux-simple-and-comprehensive-guide-10hk)
 <!-- BLOG-POST-LIST:END -->
 
