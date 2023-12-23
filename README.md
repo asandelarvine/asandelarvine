@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Twilio TURN Server Alternative](https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m)
+- [Building the Bubble Estimator Game: A JavaScript Project with SVG and Sound Effects](https://dev.to/piko/building-the-bubble-estimator-game-a-javascript-project-with-svg-and-sound-effects-akb)
 - [Tech/Non-tech books which Tech people should read](https://dev.to/nandinishinduja/technon-tech-books-which-tech-people-should-read-1kh0)
-- [Tested 275 SDXL Prompt Styles of Fooocus on Automatic1111 SD Web UI With My For Realism Overtrained DreamBooth Model](https://dev.to/furkangozukara/tested-275-sdxl-prompt-styles-of-fooocus-on-automatic1111-sd-web-ui-with-my-for-realism-overtrained-dreambooth-model-16a)
-- [Using launcher and themed icons in Android studio, the manual way](https://dev.to/marlonlom/using-launcher-and-themed-icons-in-android-studio-the-manual-way-1h2a)
+- [Mastering Express.js: Essential Concepts for Professional Web and REST API Development](https://dev.to/marmariadev/mastering-expressjs-essential-concepts-for-professional-web-and-rest-api-development-4664)
 <!-- BLOG-POST-LIST:END -->
 
