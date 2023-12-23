@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Kafka Locally using Docker](https://dev.to/satyajitnayak/run-kafka-locally-using-docker-2p8d)
 - [Deploy .NET Web Applications In Linux - Simple And Comprehensive Guide](https://dev.to/zairiaimendev/deploy-net-web-applications-in-linux-simple-and-comprehensive-guide-10hk)
 - [Unleash the power of NextGenCSS 🔥](https://dev.to/rudransh61/unleash-the-power-of-nextgencss-4196)
 - [Simple way to play around with terraform locally without any cloud account](https://dev.to/boroscsaba/simple-way-to-play-around-with-terraform-locally-without-any-cloud-account-12k5)
-- [Guide to Installing and Configuring Grafana on AWS EC2 with MySQL Database Integration](https://dev.to/randiakm/guide-to-installing-and-configuring-grafana-on-aws-ec2-with-mysql-database-integration-d37)
 <!-- BLOG-POST-LIST:END -->
 
