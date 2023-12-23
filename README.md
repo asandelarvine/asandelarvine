@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 - The 12 Days of DEV: April 2023](https://dev.to/devteam/day-4-the-12-days-of-dev-april-2023-2k7m)
 - [Getting started with the Azure Content Safety API.](https://dev.to/drkclw/getting-started-with-the-azure-content-safety-api-59mo)
 - [The Basics: Everything About Hypertext Transfer Protocol](https://dev.to/arijit_m_1/the-basics-everything-about-hypertext-transfer-protocol-1pb8)
 - [Serverless Site Health Check Notification System](https://dev.to/rdarrylr/serverless-site-health-check-notification-system-5bed)
-- [Excited to share my latest creations on AWS PartyRock!](https://dev.to/aws-builders/excited-to-share-my-latest-creation-on-aws-partyrock-2jk)
 <!-- BLOG-POST-LIST:END -->
 
