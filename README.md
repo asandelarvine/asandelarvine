@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authenticate your React App with Appwrite](https://dev.to/arindam_1729/authenticate-your-react-app-with-appwrite-10bh)
-- [Designing new programming language](https://dev.to/hady_eslam/designing-new-programming-language-4jh1)
-- [Rust Learning Note: Multithreading](https://dev.to/raineyanguoft/rust-learning-note-multithreading-3h8j)
-- [Dockerizing Laravel 10 [Ubuntu image + PHP 8.2 FPM + NGINX] 🛳️🛳️](https://dev.to/adnanbabakan/dockerizing-laravel-10-ubuntu-image-php-82-fpm-nginx-318p)
+- [Twilio TURN Server Alternative](https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m)
+- [Tech/Non-tech books which Tech people should read](https://dev.to/nandinishinduja/technon-tech-books-which-tech-people-should-read-1kh0)
+- [Tested 275 SDXL Prompt Styles of Fooocus on Automatic1111 SD Web UI With My For Realism Overtrained DreamBooth Model](https://dev.to/furkangozukara/tested-275-sdxl-prompt-styles-of-fooocus-on-automatic1111-sd-web-ui-with-my-for-realism-overtrained-dreambooth-model-16a)
+- [Using launcher and themed icons in Android studio, the manual way](https://dev.to/marlonlom/using-launcher-and-themed-icons-in-android-studio-the-manual-way-1h2a)
 <!-- BLOG-POST-LIST:END -->
 
