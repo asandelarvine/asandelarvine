@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Excited to share my latest creations on AWS PartyRock!](https://dev.to/aws-builders/excited-to-share-my-latest-creation-on-aws-partyrock-2jk)
 - [Change comment color visibility in a VS Code theme](https://dev.to/amanhimself/change-comment-color-visibility-in-a-vs-code-theme-12aj)
 - [Instalando a Wiki Outline em Docker com Autenticação via GitLab](https://dev.to/alfredotavio/instalando-a-wiki-outline-em-docker-com-autenticacao-via-gitlab-2fk7)
 - [Surgical insertion — Neovim From Scratch](https://dev.to/aminnairi/surgical-insertion-neovim-from-scratch-4ccf)
-- [All the new javascript array methods you missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
 <!-- BLOG-POST-LIST:END -->
 
