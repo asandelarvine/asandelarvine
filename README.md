@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizing Laravel 10 [Ubuntu image + PHP 8.2 FPM + NGINX] 🛳️🛳️](https://dev.to/adnanbabakan/dockerizing-laravel-10-ubuntu-image-php-82-fpm-nginx-318p)
 - [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3fle)
 - [Advent of typescript 2023 day 23 : Connect 4](https://dev.to/ecyrbe/advent-of-typescript-2023-day-23-connect-4-4jj2)
 - [Mastering Next.js 14: A Comprehensive Tutorial for Web Developers](https://dev.to/azizbergach/mastering-nextjs-14-a-comprehensive-tutorial-for-web-developers-3nd3)
-- [Sharing a state between windows without a serve](https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an)
 <!-- BLOG-POST-LIST:END -->
 
