@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Excited to share my latest creations on AWS PartyRock!](https://dev.to/aws-builders/excited-to-share-my-latest-creation-on-aws-partyrock-2jk)
+- [Top Coding Tools 2023: What Won Your Heart?](https://dev.to/devteam/top-coding-tools-2023-what-won-your-heart-51cn)
 - [Change comment color visibility in a VS Code theme](https://dev.to/amanhimself/change-comment-color-visibility-in-a-vs-code-theme-12aj)
 - [Instalando a Wiki Outline em Docker com Autenticação via GitLab](https://dev.to/alfredotavio/instalando-a-wiki-outline-em-docker-com-autenticacao-via-gitlab-2fk7)
-- [Surgical insertion — Neovim From Scratch](https://dev.to/aminnairi/surgical-insertion-neovim-from-scratch-4ccf)
 <!-- BLOG-POST-LIST:END -->
 
