@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3fle)
 - [Advent of typescript 2023 day 23 : Connect 4](https://dev.to/ecyrbe/advent-of-typescript-2023-day-23-connect-4-4jj2)
 - [Mastering Next.js 14: A Comprehensive Tutorial for Web Developers](https://dev.to/azizbergach/mastering-nextjs-14-a-comprehensive-tutorial-for-web-developers-3nd3)
 - [Sharing a state between windows without a serve](https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an)
-- [To Code and Beyond: A Neverland Adventure in Bash, Lua, Python, and Rust](https://dev.to/proteusiq/to-code-and-beyond-a-neverland-adventure-in-bash-lua-python-and-rust-1jon)
 <!-- BLOG-POST-LIST:END -->
 
