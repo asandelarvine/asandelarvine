@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Building a Conversational AI Interface with AWS Bedrock and Claude 2.1](https://dev.to/msveshnikov/building-a-conversational-ai-interface-with-aws-bedrock-and-claude-21-4lc2)
 - [JavaScript Just Changed Forever](https://dev.to/aarvinr/javascript-just-changed-forever-with-bun-bpj)
+- [How to install PHP 8.2 and Laravel version 10 in Ubuntu](https://dev.to/shaikhalamin/how-to-install-php-82-and-laravel-version-10-in-ubuntu-53jj)
 - [A Powerful Node.JS CLI Time Tracker ⏱️🚀](https://dev.to/f3rno64/a-powerful-nodejs-cli-time-tracker-1fb0)
-- [Boletín AWS Open Source, Christmas Edition](https://dev.to/aws-espanol/boletin-aws-open-source-christmas-edition-13dg)
 <!-- BLOG-POST-LIST:END -->
 
