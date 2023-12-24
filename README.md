@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust 🦀: Why JS devs are switching to it?](https://dev.to/bhavesh_yadav/rust-a-comprehensive-guide-for-javascript-developers-55jm)
-- [How to Get Custom Email Notification for EC2 State Changes](https://dev.to/aws-builders/how-to-get-custom-email-notification-for-ec2-state-changes-3jno)
-- [How to Update NPM Packages:](https://dev.to/ashwan_lal/how-to-update-npm-packages-41aa)
-- [5 Ways to Instantly Optimize Your React Application](https://dev.to/ryver_dev/5-ways-to-instantly-optimize-your-react-application-5fii)
+- [Creating a TikTok-like Scrolling Video Feed with React Native Expo](https://dev.to/albertocabrerajr/implement-tiktok-like-feed-using-react-native-expo-1le2)
+- [Contributing to the cause: doing it the open-source way](https://dev.to/thecodersden/contributing-to-the-cause-doing-it-the-open-source-way-3f1)
+- [If only someone told me this before my 1st startup](https://dev.to/johnrushx/if-only-someone-told-me-this-before-my-1st-startup-13aj)
+- [Spent the weekend crafting a delightful animated card using @chakra_ui and @framer motion! 🌟✨](https://dev.to/m_ahmad/spent-the-weekend-crafting-a-delightful-animated-card-using-chakraui-and-framer-motion-2h70)
 <!-- BLOG-POST-LIST:END -->
 
