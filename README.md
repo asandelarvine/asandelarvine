@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Instantly Optimize Your React Application](https://dev.to/ryver_dev/5-ways-to-instantly-optimize-your-react-application-5fii)
+- [🚀Hack Your Design Skills: Basic Rules of Design for Non-Designers 🎨🌎](https://dev.to/lovestaco/hack-your-design-skills-basic-rules-of-design-for-non-designers-42ip)
 - [Yet Another Newsletter LOL: Time to Recharge](https://dev.to/nickytonline/yet-another-newsletter-lol-time-to-recharge-1h24)
 - [Play Games, Learn Code - 7 Top CSS Resources 🎉](https://dev.to/random_ti/play-games-learn-code-7-top-css-resources-1982)
-- [Uno Bomb is yet another Uno-like game with fun complications](https://dev.to/cieux1/uno-bomb-is-yet-another-uno-like-game-with-fun-complications-13gj)
-- [Capturing Code Chronicles: A Guide to Git Snapshotting](https://dev.to/iredox10/capturing-code-chronicles-a-guide-to-git-snapshotting-557c)
 <!-- BLOG-POST-LIST:END -->
 
