@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Uno Bomb is yet another Uno-like game with fun complications](https://dev.to/cieux1/uno-bomb-is-yet-another-uno-like-game-with-fun-complications-13gj)
+- [Capturing Code Chronicles: A Guide to Git Snapshotting](https://dev.to/iredox10/capturing-code-chronicles-a-guide-to-git-snapshotting-557c)
 - [Tublian Internship Journey: Navigating the Internship Landscape in Week One](https://dev.to/lymah/tublian-internship-journey-navigating-the-internship-landscape-in-week-one-3dj7)
 - [AI 2023: The Year In A Nutshell!](https://dev.to/mitchiemt11/ai-2023-the-year-in-a-nutshell-119e)
-- [Day 5 - The 12 Days of DEV: May 2023](https://dev.to/devteam/day-5-the-12-days-of-dev-may-2023-1ngg)
-- [I Killed Electron with Webpack: Guide to Migrate Electron Forge Webpack to Vite](https://dev.to/navdeepm20/i-killed-electro-with-webpack-guide-to-migrate-electron-forge-webpack-to-vite-3nek)
 <!-- BLOG-POST-LIST:END -->
 
