@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Powerful Node.JS CLI Time Tracker ⏱️🚀](https://dev.to/f3rno64/a-powerful-nodejs-cli-time-tracker-1fb0)
 - [Boletín AWS Open Source, Christmas Edition](https://dev.to/aws-espanol/boletin-aws-open-source-christmas-edition-13dg)
 - [Optimizing Your AWS EC2 Windows Instance: A Comprehensive Guide to Extending Root Volumes and Adding Extra Storage](https://dev.to/msfaizi/optimizing-your-aws-ec2-windows-instance-a-comprehensive-guide-to-extending-root-volumes-and-adding-extra-storage-2hc7)
 - [Merry Christmas, and a Happy New Year](https://dev.to/sagaofsilence/merry-christmas-and-a-happy-new-year-50h6)
-- [Creating a TikTok-like Scrolling Video Feed with React Native Expo](https://dev.to/albertocabrerajr/implement-tiktok-like-feed-using-react-native-expo-1le2)
 <!-- BLOG-POST-LIST:END -->
 
