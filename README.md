@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 5 - The 12 Days of DEV: May 2023](https://dev.to/devteam/day-5-the-12-days-of-dev-may-2023-1ngg)
+- [I Killed Electro with Webpack: Guide to Migrate Electron Forge Webpack to Vite](https://dev.to/navdeepm20/i-killed-electro-with-webpack-guide-to-migrate-electron-forge-webpack-to-vite-3nek)
 - [Remove Duplicate CSS Online Tool](https://dev.to/foxinfotech/remove-duplicate-css-online-tool-7bp)
 - [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
-- [Breaking Into Cybersecurity Without Experience or a Degree: A Practical Guide](https://dev.to/neviarrawlinson/breaking-into-cybersecurity-without-experience-or-a-degree-a-practical-guide-23oi)
-- [Areon&#39;s network hackathon](https://dev.to/directorjohnny/areons-network-hackathon-3e92)
 <!-- BLOG-POST-LIST:END -->
 
