@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boletín AWS Open Source, Christmas Edition](https://dev.to/aws-espanol/boletin-aws-open-source-christmas-edition-13dg)
+- [Optimizing Your AWS EC2 Windows Instance: A Comprehensive Guide to Extending Root Volumes and Adding Extra Storage](https://dev.to/msfaizi/optimizing-your-aws-ec2-windows-instance-a-comprehensive-guide-to-extending-root-volumes-and-adding-extra-storage-2hc7)
+- [Merry Christmas, and a Happy New Year](https://dev.to/sagaofsilence/merry-christmas-and-a-happy-new-year-50h6)
 - [Creating a TikTok-like Scrolling Video Feed with React Native Expo](https://dev.to/albertocabrerajr/implement-tiktok-like-feed-using-react-native-expo-1le2)
-- [Contributing to the cause: doing it the open-source way](https://dev.to/thecodersden/contributing-to-the-cause-doing-it-the-open-source-way-3f1)
-- [If only someone told me this before my 1st startup](https://dev.to/johnrushx/if-only-someone-told-me-this-before-my-1st-startup-13aj)
-- [Spent the weekend crafting a delightful animated card using @chakra_ui and @framer motion! 🌟✨](https://dev.to/m_ahmad/spent-the-weekend-crafting-a-delightful-animated-card-using-chakraui-and-framer-motion-2h70)
 <!-- BLOG-POST-LIST:END -->
 
