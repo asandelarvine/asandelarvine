@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
+- [Top 7&#39;s Top Authors of the Year](https://dev.to/devteam/top-7s-top-authors-of-the-year-120m)
+- [Figma to HTML: Convert designs to clean HTML code in a click](https://dev.to/builderio/figma-to-html-convert-designs-to-clean-html-code-in-a-click-214)
 - [PDF generation in Laravel](https://dev.to/mazimez/pdf-generation-in-laravel-127d)
-- [Digital Image Processing Notes](https://dev.to/hrshihab/digital-image-processing-notes-851)
-- [Computer Network Notes](https://dev.to/hrshihab/computer-network-notes-2ihn)
-- [Mastering SOLID Principles in C# Building Robust and Maintainable Software](https://dev.to/sardarmudassaralikhan/mastering-solid-principles-in-c-building-robust-and-maintainable-software-1mgo)
 <!-- BLOG-POST-LIST:END -->
 
