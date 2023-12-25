@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Digital Image Processing Notes](https://dev.to/hrshihab/digital-image-processing-notes-851)
 - [Computer Network Notes](https://dev.to/hrshihab/computer-network-notes-2ihn)
+- [Mastering SOLID Principles in C# Building Robust and Maintainable Software](https://dev.to/sardarmudassaralikhan/mastering-solid-principles-in-c-building-robust-and-maintainable-software-1mgo)
 - [Coding Challenges 2024: What&#39;s Your New Year&#39;s Resolution?](https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228)
-- [Retrospective 2023](https://dev.to/dionarodrigues/retrospective-2023-387h)
 <!-- BLOG-POST-LIST:END -->
 
