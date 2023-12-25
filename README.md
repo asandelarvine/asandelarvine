@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding Conway&#39;s Game of Life on JavaScript](https://dev.to/vladimirschneider/coding-conways-game-of-life-on-javascript-4epj)
+- [An alternative to form builders you pay for monthly](https://dev.to/sididev/an-alternative-to-form-builders-you-pay-for-monthly-1ee1)
+- [Getting Started With Nest.js](https://dev.to/shameel/getting-started-with-nestjs-cl1)
 - [Meme Monday &lpar;Holiday themed?&rpar;](https://dev.to/ben/meme-monday-holiday-themed-13l5)
-- [Embarking on a Coding Adventure with CodeCompanion: Revolutionizing Collaboration and Efficiency](https://dev.to/lotfijb/embarking-on-a-coding-adventure-with-codecompanion-revolutionizing-collaboration-and-efficiency-2740)
-- [Weekly Roundup 032 &lpar;Dec 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-032-dec-18-hot-topics-in-workplace-sharepoint-and-powerplatform-4d8g)
-- [The 7 HTML Tags You Most Probably Do Not Know](https://dev.to/muthuannamalai12/the-7-html-tags-you-most-probably-do-not-know-388e)
 <!-- BLOG-POST-LIST:END -->
 
