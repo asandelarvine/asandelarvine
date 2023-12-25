@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s your biggest nightmare as a developer?](https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp)
+- [Byte-sized Brilliance: JARVIS Picks the Top 5 Tech Trends of the Year](https://dev.to/balagmadhu/byte-sized-brilliance-jarvis-picks-the-top-5-tech-trends-of-the-year-5h11)
+- [Real-time updates in Vue apps with Polling](https://dev.to/jacobandrewsky/real-time-updates-in-vue-apps-with-polling-35eg)
 - [String to Byte Array Conversion in C#: Tutorial](https://dev.to/bytehide/string-to-byte-array-conversion-in-c-tutorial-4h1a)
-- [Angular on Steroids: Elevating Performance with WebAssembly](https://dev.to/railsstudent/angular-on-steroids-elevating-performance-with-webassembly-43gb)
-- [Integration Digest: October 2023](https://dev.to/stn1slv/integration-digest-october-2023-3h2)
-- [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
 <!-- BLOG-POST-LIST:END -->
 
