@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lets connect on X](https://dev.to/baransel/lets-connect-on-x-1048)
+- [I built the same app 7 times! Which JS Framework is best?](https://dev.to/johnrushx/i-built-the-same-app-7-times-which-js-framework-is-best-39e0)
+- [How to Deploy Your React or Vite Project on GitHub Pages using gh-pages](https://dev.to/tharakamts/how-to-deploy-your-react-or-vite-project-on-github-pages-using-gh-pages-d7f)
 - [The CTO DevOps Handbook: Simple Principles and Examples](https://dev.to/meteorops/the-cto-devops-handbook-simple-principles-and-examples-2jcb)
-- [RBAC in Kubernetes: Elevating Access Control](https://dev.to/fpesre/rbac-in-kubernetes-elevating-access-control-2dfn)
-- [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
-- [Jamstack Development: Revolutionizing Web Development](https://dev.to/goswamianshuman/jamstack-development-revolutionizing-web-development-3npc)
 <!-- BLOG-POST-LIST:END -->
 
