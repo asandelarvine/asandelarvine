@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [PDF generation in Laravel](https://dev.to/mazimez/pdf-generation-in-laravel-127d)
 - [Digital Image Processing Notes](https://dev.to/hrshihab/digital-image-processing-notes-851)
 - [Computer Network Notes](https://dev.to/hrshihab/computer-network-notes-2ihn)
 - [Mastering SOLID Principles in C# Building Robust and Maintainable Software](https://dev.to/sardarmudassaralikhan/mastering-solid-principles-in-c-building-robust-and-maintainable-software-1mgo)
-- [Coding Challenges 2024: What&#39;s Your New Year&#39;s Resolution?](https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228)
 <!-- BLOG-POST-LIST:END -->
 
