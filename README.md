@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluent Bit with ECS: Configuration Tips and Tricks](https://dev.to/aws-builders/fluent-bit-with-ecs-configuration-tips-and-tricks-4acp)
 - [Running stateful workloads on Kubernetes with Rook Ceph](https://dev.to/donaldsebleung/running-stateful-workloads-on-kubernetes-with-rook-ceph-cnl)
 - [Extending GitOps: Effortless continuous integration and deployment on Kubernetes](https://dev.to/amplication/extending-gitops-effortless-continuous-integration-and-deployment-on-kubernetes-1oem)
 - [Instruction driven &quot;State of the Artwork&quot; with AiConfig](https://dev.to/ranjancse/instruction-drive-state-of-the-artwork-with-aiconfig-3i6a)
-- [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
 <!-- BLOG-POST-LIST:END -->
 
