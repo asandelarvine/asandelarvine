@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Go + TypeScript full stack web app, with nextjs, PostgreSQL and Docker](https://dev.to/francescoxx/go-typescript-full-stack-web-app-with-nextjs-postgresql-and-docker-42ln)
+- [First Try on AWS Security Hub Central Configuration](https://dev.to/aws-builders/first-try-on-aws-security-hub-central-configuration-4kni)
+- [Embracing the AWS Community: Unpacking My AWS Community Builder Welcome Swag Kit 🚀](https://dev.to/aws-builders/embracing-the-aws-community-unpacking-my-aws-community-builder-welcome-swag-kit-5d1l)
 - [FLaNK 25 December 2023](https://dev.to/tspannhw/flank-25-december-2023-54i5)
-- [Top 9 AI APIs you must try in 2024](https://dev.to/firecampdev/top-9-ai-apis-you-must-try-in-2024-3pma)
-- [Resources I wish I knew when I started my career](https://dev.to/harshitkumar31/resources-i-wish-i-knew-when-i-started-my-career-4gh6)
-- [Systematic Modern Artwork with AiConfig](https://dev.to/ranjancse/systematic-modern-artwork-with-aiconfig-1ol8)
 <!-- BLOG-POST-LIST:END -->
 
