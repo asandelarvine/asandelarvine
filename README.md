@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Prompt Routing with Zeroshot Technique -AiConfig](https://dev.to/ranjancse/prompt-routing-with-zeroshot-technique-aiconfig-3115)
+- [Convert text links in a text area to clickable links](https://dev.to/phuocng/convert-text-links-in-a-text-area-to-clickable-links-58e5)
 - [How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 - [First Contributions: learn how to contribute to open source projects](https://dev.to/shalakadeshan/first-contributions-learn-how-to-contribute-to-open-source-projects-4aom)
-- [Lets connect on X](https://dev.to/baransel/lets-connect-on-x-1048)
 <!-- BLOG-POST-LIST:END -->
 
