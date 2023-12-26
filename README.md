@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Fluent Bit with ECS: Configuration Tips and Tricks](https://dev.to/aws-builders/fluent-bit-with-ecs-configuration-tips-and-tricks-4acp)
+- [My GitHub Sponsors Revenue @ 2023](https://dev.to/azu/my-github-sponsors-revenue-2023-1m3d)
+- [Interview: Can You Stop “forEach” in JavaScript?](https://dev.to/polakshahar/interview-can-you-stop-foreach-in-javascript-57h0)
 - [Running stateful workloads on Kubernetes with Rook Ceph](https://dev.to/donaldsebleung/running-stateful-workloads-on-kubernetes-with-rook-ceph-cnl)
-- [Extending GitOps: Effortless continuous integration and deployment on Kubernetes](https://dev.to/amplication/extending-gitops-effortless-continuous-integration-and-deployment-on-kubernetes-1oem)
-- [Instruction driven &quot;State of the Artwork&quot; with AiConfig](https://dev.to/ranjancse/instruction-drive-state-of-the-artwork-with-aiconfig-3i6a)
 <!-- BLOG-POST-LIST:END -->
 
