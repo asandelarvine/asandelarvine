@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Object Methods](https://dev.to/elaoqby/javascript-object-methods-3dgf)
 - [How To Make A Budgeting App In C# With Blazor](https://dev.to/devleader/how-to-make-a-budgeting-app-in-c-with-blazor-28p1)
 - [5 Most Common Security Misconfiguration Vulnerabilities and Their Mitigation](https://dev.to/yayabobi/5-most-common-security-misconfiguration-vulnerabilities-and-their-mitigation-31bc)
-- [Building an AI Image Classification Tool with Next.js](https://dev.to/codingcss/building-an-ai-image-classification-tool-with-nextjs-470)
-- [Go + TypeScript full stack web app, with nextjs, PostgreSQL and Docker](https://dev.to/francescoxx/go-typescript-full-stack-web-app-with-nextjs-postgresql-and-docker-42ln)
+- [Publishing documentation with Astro Starlight](https://dev.to/mrrobot/publishing-documentation-with-astro-starlight-691)
 <!-- BLOG-POST-LIST:END -->
 
