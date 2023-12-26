@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Lets connect on X](https://dev.to/baransel/lets-connect-on-x-1048)
 - [I built the same app 7 times! Which JS Framework is best?](https://dev.to/johnrushx/i-built-the-same-app-7-times-which-js-framework-is-best-39e0)
 - [How to Deploy Your React or Vite Project on GitHub Pages using gh-pages](https://dev.to/tharakamts/how-to-deploy-your-react-or-vite-project-on-github-pages-using-gh-pages-d7f)
-- [The CTO DevOps Handbook: Simple Principles and Examples](https://dev.to/meteorops/the-cto-devops-handbook-simple-principles-and-examples-2jcb)
+- [Markdown in Substack, Medium, Dev.to; all from GitHub as VCS - v5](https://dev.to/anrodriguez/markdown-in-substack-medium-devto-all-from-github-as-vcs-v5-5eb4)
 <!-- BLOG-POST-LIST:END -->
 
