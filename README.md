@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make resources more reusable in Laravel](https://dev.to/yasserelgammal/how-to-make-resources-more-reusable-in-laravel-2n3b)
 - [How to get the Top Software Engineering Practices Voice Badge on LinkedIn](https://dev.to/nandinishinduja/how-to-get-the-top-software-engineering-practices-voice-badge-on-linkedin-2imb)
 - [Ugly Sweater CSS: Christmas on Endor](https://dev.to/jarvisscript/ugly-sweater-css-christmas-on-endor-pjp)
-- [I made a website to create memorial pages quickly and easily](https://dev.to/mariorojas/i-made-a-website-to-create-memorial-websites-quickly-and-easily-5fjf)
-- [JavaScript Object Accessors](https://dev.to/elaoqby/javascript-object-accessors-2gf4)
+- [Introduction to SVG in html5: Creating basic shapes](https://dev.to/hariet/introduction-to-svg-in-html5-creating-basic-shapes-4l2p)
 <!-- BLOG-POST-LIST:END -->
 
