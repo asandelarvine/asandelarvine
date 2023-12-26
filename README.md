@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Object Methods](https://dev.to/elaoqby/javascript-object-methods-3dgf)
-- [How To Make A Budgeting App In C# With Blazor](https://dev.to/devleader/how-to-make-a-budgeting-app-in-c-with-blazor-28p1)
-- [5 Most Common Security Misconfiguration Vulnerabilities and Their Mitigation](https://dev.to/yayabobi/5-most-common-security-misconfiguration-vulnerabilities-and-their-mitigation-31bc)
-- [Publishing documentation with Astro Starlight](https://dev.to/mrrobot/publishing-documentation-with-astro-starlight-691)
+- [How to get the Top Software Engineering Practices Voice Badge on LinkedIn](https://dev.to/nandinishinduja/how-to-get-the-top-software-engineering-practices-voice-badge-on-linkedin-2imb)
+- [Ugly Sweater CSS: Christmas on Endor](https://dev.to/jarvisscript/ugly-sweater-css-christmas-on-endor-pjp)
+- [I made a website to create memorial pages quickly and easily](https://dev.to/mariorojas/i-made-a-website-to-create-memorial-websites-quickly-and-easily-5fjf)
+- [JavaScript Object Accessors](https://dev.to/elaoqby/javascript-object-accessors-2gf4)
 <!-- BLOG-POST-LIST:END -->
 
