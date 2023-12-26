@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I WILL DEVELOP PORTFOLIO OR LANDING PAGE. [FOR FREE 🌟]](https://dev.to/craftingbugs/i-will-develop-portfolio-or-landing-page-for-free--6ab)
 - [Instruction driven &quot;State of the Artwork&quot; with AiConfig](https://dev.to/ranjancse/instruction-drive-state-of-the-artwork-with-aiconfig-3i6a)
 - [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
 - [👀 Under the Hood at DevHunt 🚀](https://dev.to/livecycle/under-the-hood-at-devhunt-94j)
-- [API Vs Web Scraping: Online Data Extraction Tools](https://dev.to/newsdataio/api-vs-web-scraping-online-data-extraction-tools-5e78)
 <!-- BLOG-POST-LIST:END -->
 
