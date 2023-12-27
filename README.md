@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Evitando SQL Injection com Golang](https://dev.to/wiliamvj/evitando-sql-injection-com-golang-1od6)
+- [5 Things Most Developers Learn Too Late](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
 - [Lambda Unleashed: Mastering Massive Data Responses](https://dev.to/epilot/lambda-unleashed-mastering-massive-data-responses-3gka)
 - [Create a Raffle Draw Smart Contract Using Foundry 2024 &lpar;Part 1&rpar;](https://dev.to/scofieldidehen/create-a-raffle-draw-smart-contract-using-foundry-2024-part-1-48ak)
-- [A Guide to Mastery in Type Conversion on JavaScript](https://dev.to/seracoder/a-guide-to-mastery-in-type-conversion-on-javascript-5879)
-- [Javascript .splice&lpar;&rpar; vs .toSpliced&lpar;&rpar;](https://dev.to/vvkkumar06/javascript-splice-vs-tospliced-3b78)
 <!-- BLOG-POST-LIST:END -->
 
