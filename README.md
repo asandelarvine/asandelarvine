@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Action in C#: Tutorial](https://dev.to/bytehide/action-in-c-tutorial-3o89)
-- [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
-- [Key Strategies for Effective Decision-Making in Software Engineering](https://dev.to/marmariadev/key-strategies-for-effective-decision-making-in-software-engineering-2jkf)
-- [Day 8 - The 12 Days of DEV: August 2023](https://dev.to/devteam/day-8-the-12-days-of-dev-august-2023-9p4)
+- [Recursion in C programming.](https://dev.to/sujithvsuresh/recursion-in-c-programming-3p8p)
+- [Dominando Objetos en JavaScript: Una Guía completa](https://dev.to/soyclaradev/dominando-objetos-en-javascript-una-guia-completa-1n9a)
+- [Unlock the Django Way](https://dev.to/parthib_deb23/unlock-the-django-way-3i4f)
+- [🚀 #DevImpact2023: My 2023 year-in Review](https://dev.to/dumebii/devimpact2023-my-2023-year-in-review-b78)
 <!-- BLOG-POST-LIST:END -->
 
