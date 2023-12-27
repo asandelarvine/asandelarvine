@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS on Hacks: Get to know Preline UI](https://dev.to/cezarymazur/tailwindcss-on-hacks-get-to-know-prelineui-4kmo)
 - [Mastering Standard Commits: Quick Guide to Structured Commit Messages](https://dev.to/tharakamts/mastering-standard-commits-quick-guide-to-structured-commit-messages-2nm1)
 - [Quick guide to CSS Grid](https://dev.to/tlakomy/quick-guide-to-css-grid-1b95)
-- [Terraform - Using GitHub Copilot Chat with Terraform](https://dev.to/pwd9000/terraform-using-github-copilot-chat-with-terraform-6ih)
-- [TWC is not a revolution but…](https://dev.to/jsfez/twc-is-not-a-revolution-but-mb9)
+- [Exploring the shift from CSS-in-JS to headless UI libraries](https://dev.to/logrocket/exploring-the-shift-from-css-in-js-to-headless-ui-libraries-43o2)
 <!-- BLOG-POST-LIST:END -->
 
