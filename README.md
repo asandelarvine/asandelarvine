@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [How to copy table data easily with this Chrome Extension](https://dev.to/gbti/how-to-copy-table-data-easily-with-this-chrome-extension-3724)
+- [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
 - [3 Important Lessons I Learned From My First Paid Tech Writing Gig](https://dev.to/cbid2/3-important-lessons-i-learned-from-my-first-paid-tech-writing-gig-51kl)
 - [Fillable, Guarded in Laravel ! What’s the difference](https://dev.to/kepsondiaz/fillable-guarded-in-laravel-whats-the-difference-589j)
-- [How to get the Top Software Engineering Practices Voice Badge on LinkedIn](https://dev.to/nandinishinduja/how-to-get-the-top-software-engineering-practices-voice-badge-on-linkedin-2imb)
 <!-- BLOG-POST-LIST:END -->
 
