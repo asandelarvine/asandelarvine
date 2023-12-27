@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cold Start Challenge in AWS Lambda Functions](https://dev.to/wlepczynski/cold-start-challenge-in-aws-lambda-functions-ne)
-- [Featured Mods of the Year 2023](https://dev.to/devteam/featured-mods-of-the-year-2023-4726)
-- [Display a modal when users leave website](https://dev.to/phuocng/display-a-modal-when-users-leave-website-2hg9)
-- [My 2023 Coding Recap](https://dev.to/vulcanwm/my-2023-coding-recap-3b3m)
+- [Lambda Unleashed: Mastering Massive Data Responses](https://dev.to/epilot/lambda-unleashed-mastering-massive-data-responses-3gka)
+- [Create a Raffle Draw Smart Contract Using Foundry 2024 &lpar;Part 1&rpar;](https://dev.to/scofieldidehen/create-a-raffle-draw-smart-contract-using-foundry-2024-part-1-48ak)
+- [A Guide to Mastery in Type Conversion on JavaScript](https://dev.to/seracoder/a-guide-to-mastery-in-type-conversion-on-javascript-5879)
+- [Javascript .splice&lpar;&rpar; vs .toSpliced&lpar;&rpar;](https://dev.to/vvkkumar06/javascript-splice-vs-tospliced-3b78)
 <!-- BLOG-POST-LIST:END -->
 
