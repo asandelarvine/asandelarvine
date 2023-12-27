@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Modular System Using ASP.NET Core?](https://dev.to/elanatframework/how-to-build-a-modular-system-using-aspnet-core-401o)
+- [Bandit Level 20 Level 21](https://dev.to/christianpaez/bandit-level-20-level-21-1pm5)
+- [Understanding Git: A Beginner&#39;s Guide !!](https://dev.to/izmroen/understanding-git-a-beginners-guide--5dha)
 - [Tailwind CSS on Hacks: Get to know Preline UI](https://dev.to/cezarymazur/tailwindcss-on-hacks-get-to-know-prelineui-4kmo)
-- [Creating a Searchable Video List in React](https://dev.to/vignalbrice/creating-a-searchable-video-list-in-react-1ja5)
-- [Creating a Searchable Video List in React](https://dev.to/vignalbrice/creating-a-searchable-video-list-in-react-oaj)
-- [Rundeck](https://dev.to/mouni123/rundeck-12d2)
 <!-- BLOG-POST-LIST:END -->
 
