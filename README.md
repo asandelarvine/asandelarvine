@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Syntax of Discreteness - Using SQL as an Example](https://dev.to/esproc_spl/the-syntax-of-discreteness-using-sql-as-an-example-32k3)
+- [Add a special message when users copy text](https://dev.to/phuocng/add-a-special-message-when-users-copy-text-1i0j)
+- [TailwindCSS: The Objective Truth](https://dev.to/aarvinr/tailwindcss-the-objective-truth-3pdf)
 - [What are Your Strategies for Mastering Small Talk?](https://dev.to/codenewbieteam/what-are-your-strategies-for-mastering-small-talk-2nh)
-- [How to copy table data easily with this Chrome Extension](https://dev.to/gbti/how-to-copy-table-data-easily-with-this-chrome-extension-3724)
-- [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
 <!-- BLOG-POST-LIST:END -->
 
