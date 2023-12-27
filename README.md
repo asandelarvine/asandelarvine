@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Master the Art of Frontend: Essential Free Image Tools to Use in 2024! 🚀](https://dev.to/ritesh2204/essential-free-image-tools-for-frontend-developers-in-2023-2ecp)
+- [Display a confirm modal when closing the browser](https://dev.to/phuocng/display-a-confirm-modal-when-closing-the-browser-52co)
 - [The Syntax of Discreteness - Using SQL as an Example](https://dev.to/esproc_spl/the-syntax-of-discreteness-using-sql-as-an-example-32k3)
 - [Add a special message when users copy text](https://dev.to/phuocng/add-a-special-message-when-users-copy-text-1i0j)
-- [TailwindCSS: The Objective Truth](https://dev.to/aarvinr/tailwindcss-the-objective-truth-3pdf)
-- [What are Your Strategies for Mastering Small Talk?](https://dev.to/codenewbieteam/what-are-your-strategies-for-mastering-small-talk-2nh)
 <!-- BLOG-POST-LIST:END -->
 
