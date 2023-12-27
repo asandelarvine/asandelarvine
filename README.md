@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Syntax of Discreteness - Using SQL as an Example](https://dev.to/esproc_spl/the-syntax-of-discreteness-using-sql-as-an-example-32k3)
+- [What are Your Strategies for Mastering Small Talk?](https://dev.to/codenewbieteam/what-are-your-strategies-for-mastering-small-talk-2nh)
 - [How to copy table data easily with this Chrome Extension](https://dev.to/gbti/how-to-copy-table-data-easily-with-this-chrome-extension-3724)
 - [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
-- [3 Important Lessons I Learned From My First Paid Tech Writing Gig](https://dev.to/cbid2/3-important-lessons-i-learned-from-my-first-paid-tech-writing-gig-51kl)
-- [Fillable, Guarded in Laravel ! What’s the difference](https://dev.to/kepsondiaz/fillable-guarded-in-laravel-whats-the-difference-589j)
 <!-- BLOG-POST-LIST:END -->
 
