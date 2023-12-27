@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion in C programming.](https://dev.to/sujithvsuresh/recursion-in-c-programming-3p8p)
-- [Dominando Objetos en JavaScript: Una Guía completa](https://dev.to/soyclaradev/dominando-objetos-en-javascript-una-guia-completa-1n9a)
-- [Unlock the Django Way](https://dev.to/parthib_deb23/unlock-the-django-way-3i4f)
-- [🚀 #DevImpact2023: My 2023 year-in Review](https://dev.to/dumebii/devimpact2023-my-2023-year-in-review-b78)
+- [🚀 Introducing GitLoop: Revolutionize Your Coding Workflow with AI - Join Our Beta!](https://dev.to/akirasato/introducing-gitloop-revolutionize-your-coding-workflow-with-ai-join-our-beta-b86)
+- [Understanding Default NestJS Project Structure](https://dev.to/shameel/understanding-default-nestjs-project-structure-4ff2)
+- [Transform Text into Speech Instantly - Free &amp; No Signup Required](https://dev.to/foxinfotech/transform-text-into-speech-instantly-free-no-signup-required-k72)
+- [I created a list of all Stripe alternatives.](https://dev.to/alexanderisora/i-created-a-list-of-all-stripe-alternatives-4gbj)
 <!-- BLOG-POST-LIST:END -->
 
