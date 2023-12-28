@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why doesn&#39;t the App Module exist in Angular 17?](https://dev.to/anilsingh/why-doesnt-the-app-module-exist-in-angular-17-4b0m)
 - [Day 9 - The 12 Days of DEV: September 2023](https://dev.to/devteam/day-9-the-12-days-of-dev-september-2023-44ag)
 - [DevOps : An emerging need of tech-world](https://dev.to/ghubrakesh/devops-an-emerging-need-of-tech-world-1194)
-- [Writing a toy ECMAScript parser](https://dev.to/ndesmic/writing-a-parser-3658)
-- [Publishing to my blog from Obsidian](https://dev.to/cassidoo/publishing-to-my-blog-from-obsidian-45o8)
+- [Connect Your Github To VS Code](https://dev.to/jacobdev/connect-your-github-to-vs-code-3l69)
 <!-- BLOG-POST-LIST:END -->
 
