@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Websites into Android Apps with Xtaapp: A Game-Changing Solution for Developers](https://dev.to/aieeeo/turn-websites-into-android-apps-with-xtaapp-a-game-changing-solution-for-developers-3ac)
-- [A Beginner&#39;s Guide to Structure Blog Post URLs](https://dev.to/canburaks/a-beginners-guide-to-structure-blog-post-urls-leg)
-- [Simplify Routing Parameters in Angular Components](https://dev.to/danywalls/simplify-routing-parameters-in-angular-components-3fkd)
-- [Handling Pagination with StateAdapt](https://dev.to/this-is-angular/handling-pagination-with-stateadapt-60c)
+- [Free Icons for your reactjs and web applications](https://dev.to/apicrud/free-icons-for-your-reactjs-and-web-applications-ld1)
+- [Factory — JavaScript Design Patterns — Part 3](https://dev.to/jaimaldullat/factory-javascript-design-patterns-part-3-3odl)
+- [2024’s Tech Trend: Frontend for Backend](https://dev.to/opensourcee/2024-is-the-year-of-frontend-for-backend-ffb-6fg)
+- [Code Smell 236 - Unwrapped Lines](https://dev.to/mcsee/code-smell-236-unwrapped-lines-8n7)
 <!-- BLOG-POST-LIST:END -->
 
