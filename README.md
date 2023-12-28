@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [1 Year. 12 Languages.](https://dev.to/jd2r/1-year-12-languages-4k5n)
 - [Make Like a Binary Search Tree and...Node?](https://dev.to/greenteaisgreat/make-like-a-binary-search-tree-andnode-1fng)
 - [Generate Photos Of Yourself In Different Cities &amp; Different Fancy Suits With SDXL DreamBooth Training For Free](https://dev.to/furkangozukara/generate-photos-of-yourself-in-different-cities-different-fancy-suits-with-sdxl-dreambooth-training-for-free-5bhf)
 - [Set up Laravel in few steps](https://dev.to/mktheitguy/set-up-laravel-in-few-steps-234n)
-- [My First AWS Event Experience: AWS Summit Berlin 2023](https://dev.to/bongoe/my-first-aws-event-experience-aws-summit-berlin-2023-1795)
 <!-- BLOG-POST-LIST:END -->
 
