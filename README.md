@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Icons for your reactjs and web applications](https://dev.to/apicrud/free-icons-for-your-reactjs-and-web-applications-ld1)
-- [Factory — JavaScript Design Patterns — Part 3](https://dev.to/jaimaldullat/factory-javascript-design-patterns-part-3-3odl)
-- [2024’s Tech Trend: Frontend for Backend](https://dev.to/opensourcee/2024-is-the-year-of-frontend-for-backend-ffb-6fg)
-- [Code Smell 236 - Unwrapped Lines](https://dev.to/mcsee/code-smell-236-unwrapped-lines-8n7)
+- [Enums and Events in Solidity](https://dev.to/scofieldidehen/enums-and-events-in-solidity-36i1)
+- [Encryption ,Hashing , Encoding,...](https://dev.to/hasanelsherbiny/encryption-hashing-encoding-2lpi)
+- [Do Crypto Price Predictions Actually Predict?](https://dev.to/endeo/do-crypto-price-predictions-actually-predict-3koa)
+- [CSS in Perl](https://dev.to/smonff/css-in-perl-1pl8)
 <!-- BLOG-POST-LIST:END -->
 
