@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise projects: what does a developer need to know?](https://dev.to/byteminds/enterprise-projects-what-does-a-developer-need-to-know-j68)
-- [Unveiling Cloud Security Blind Spots: Navigating the Shadows 🌐🔒](https://dev.to/ayushgupta/unveiling-cloud-security-blind-spots-navigating-the-shadows-3h2c)
-- [Walles.Ai in Education: The Role of AI in Learning and Tutoring](https://dev.to/geekyqee/wallesai-in-education-the-role-of-ai-in-learning-and-tutoring-3klg)
-- [Breaking Free from Tutorial Hell: A Step-by-Step Guide](https://dev.to/mscmsit/breaking-free-from-tutorial-hell-a-step-by-step-guide-1kpb)
+- [Handling pagination with StateAdapt](https://dev.to/this-is-angular/handling-pagination-with-stateadapt-60c)
+- [How do you integrate SEO considerations into the development process?](https://dev.to/webstep/how-do-you-integrate-seo-considerations-into-the-development-process-2l9e)
+- [Low Code vs Traditional Development: Optimal Efficiency in Choice](https://dev.to/illa/low-code-vs-traditional-development-optimal-efficiency-in-choice-4fmo)
+- [Top 11 New Relic Alternatives &amp; Competitors](https://dev.to/signoz/top-11-new-relic-alternatives-competitors-2jko)
 <!-- BLOG-POST-LIST:END -->
 
