@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Your Digital Realm: Understanding Cybersecurity Threats and Defenses](https://dev.to/adityapratapbh1/protecting-your-digital-realm-understanding-cybersecurity-threats-and-defenses-2bb0)
-- [What are the key differences between React and Angular?](https://dev.to/anilsingh/what-are-the-key-differences-between-react-and-angular-1i5l)
-- [OnLogs – open-source simplified web logs viewer for Docker containers](https://dev.to/ivictbor/onlogs-open-source-simplified-web-logs-viewer-for-docker-containers-34bn)
-- [Why doesn&#39;t the App Module exist in Angular 17?](https://dev.to/anilsingh/why-doesnt-the-app-module-exist-in-angular-17-4b0m)
+- [Enterprise projects: what does a developer need to know?](https://dev.to/byteminds/enterprise-projects-what-does-a-developer-need-to-know-j68)
+- [Unveiling Cloud Security Blind Spots: Navigating the Shadows 🌐🔒](https://dev.to/ayushgupta/unveiling-cloud-security-blind-spots-navigating-the-shadows-3h2c)
+- [Walles.Ai in Education: The Role of AI in Learning and Tutoring](https://dev.to/geekyqee/wallesai-in-education-the-role-of-ai-in-learning-and-tutoring-3klg)
+- [Breaking Free from Tutorial Hell: A Step-by-Step Guide](https://dev.to/mscmsit/breaking-free-from-tutorial-hell-a-step-by-step-guide-1kpb)
 <!-- BLOG-POST-LIST:END -->
 
