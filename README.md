@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Your Digital Realm: Understanding Cybersecurity Threats and Defenses](https://dev.to/adityapratapbh1/protecting-your-digital-realm-understanding-cybersecurity-threats-and-defenses-2bb0)
+- [What are the key differences between React and Angular?](https://dev.to/anilsingh/what-are-the-key-differences-between-react-and-angular-1i5l)
+- [OnLogs – open-source simplified web logs viewer for Docker containers](https://dev.to/ivictbor/onlogs-open-source-simplified-web-logs-viewer-for-docker-containers-34bn)
 - [Why doesn&#39;t the App Module exist in Angular 17?](https://dev.to/anilsingh/why-doesnt-the-app-module-exist-in-angular-17-4b0m)
-- [Day 9 - The 12 Days of DEV: September 2023](https://dev.to/devteam/day-9-the-12-days-of-dev-september-2023-44ag)
-- [DevOps : An emerging need of tech-world](https://dev.to/ghubrakesh/devops-an-emerging-need-of-tech-world-1194)
-- [Connect Your Github To VS Code](https://dev.to/jacobdev/connect-your-github-to-vs-code-3l69)
 <!-- BLOG-POST-LIST:END -->
 
