@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How we built a Swift app that uses Rust](https://dev.to/build-trust/how-we-built-a-swift-app-that-uses-rust-102f)
 - [Enums and Events in Solidity](https://dev.to/scofieldidehen/enums-and-events-in-solidity-36i1)
 - [Encryption ,Hashing , Encoding,...](https://dev.to/hasanelsherbiny/encryption-hashing-encoding-2lpi)
-- [Do Crypto Price Predictions Actually Predict?](https://dev.to/endeo/do-crypto-price-predictions-actually-predict-3koa)
-- [CSS in Perl](https://dev.to/smonff/css-in-perl-1pl8)
+- [Automate the task of creating requirements.txt with pyreqs!](https://dev.to/arnavrneo/automate-the-task-of-creating-requirementstxt-with-pyreqs-85)
 <!-- BLOG-POST-LIST:END -->
 
