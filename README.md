@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Data Science](https://dev.to/shaheryaryousaf/introduction-to-data-science-for-beginners-1ci6)
+- [Top 10 Projects for Top 1% Frontend Engineers in 2024](https://dev.to/ombharatiya/top-10-projects-for-top-1-frontend-engineers-1443)
 - [Stay Playful, Neurodiversity](https://dev.to/adam_cyclones/stay-playful-neurodiversity-3kg6)
 - [I Build a GitHub Worth Estimate Generator](https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd)
-- [Developing Next.js microservices with Nx](https://dev.to/logrocket/developing-nextjs-microservices-with-nx-3h2a)
-- [Nest.js Controller in Easier Terms](https://dev.to/shameel/nestjs-controller-in-easier-terms-37og)
 <!-- BLOG-POST-LIST:END -->
 
