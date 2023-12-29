@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactorización de código JavaScript para Startups: Eficiencia con Set y Map](https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4)
-- [Set up your Node.js environment in few seconds.](https://dev.to/humjerry/set-up-your-nodejs-environment-in-few-seconds-59jm)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
-- [Casos de Uso de Arrays, Objects, Sets y Maps en Aplicaciones Modernas](https://dev.to/soyclaradev/casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1)
+- [Getting started with Google&#39;s Multi-modal &quot;Gemini Pro Vision&quot; LLM with Javascript for Beginners](https://dev.to/oyemade/getting-started-with-googles-multi-modal-gemini-pro-vision-llm-with-javascript-for-beginners-4144)
+- [The New York Times Files Lawsuit Against OpenAI and Microsoft Over A.I. Usage](https://dev.to/mayankvikash/the-new-york-times-files-lawsuit-against-openai-and-microsoft-over-ai-usage-h3)
+- [🌟 #DEVImpact2023: My End of Year Reflections](https://dev.to/adiatiayu/devimpact2023-my-end-of-year-reflections-2pok)
+- [A better, faster approach to downloading docker images without docker-pull: Skopeo](https://dev.to/cprime50/a-better-faster-approach-to-downloading-docker-images-without-docker-pull-skopeo-1n1j)
 <!-- BLOG-POST-LIST:END -->
 
