@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SELF-PUBLISHING VS TRADITIONAL PUBLISHING: WHICH ONE IS MORE PROFITABLE?](https://dev.to/tullipstudio/self-publishing-vs-traditional-publishing-which-one-is-more-profitable-3k7i)
+- [What&#39;s new features in Angular 17?](https://dev.to/anilsingh/whats-new-features-in-angular-17-421g)
+- [🚀 API Maker : Release Notes for v1.0.3](https://dev.to/apimaker/api-maker-release-notes-for-v103-2d2h)
+- [Show an addition toolbar after users selects text](https://dev.to/phuocng/show-an-addition-toolbar-after-users-selects-text-5h9f)
 - [Dominando las Estructuras de Datos en JavaScript: Arrays, Objects, Sets y Maps](https://dev.to/soyclaradev/dominando-las-estructuras-de-datos-en-javascript-arrays-objects-sets-y-maps-35e3)
-- [Why standard deviation is important in performance tests](https://dev.to/gpiechnik/why-standard-deviation-is-important-in-performance-tests-1hm7)
-- [High System quality with Spring integration tests](https://dev.to/alexferreiradev/high-system-quality-with-spring-integration-tests-3b53)
 <!-- BLOG-POST-LIST:END -->
 
