@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SELF-PUBLISHING VS TRADITIONAL PUBLISHING: WHICH ONE IS MORE PROFITABLE?](https://dev.to/tullipstudio/self-publishing-vs-traditional-publishing-which-one-is-more-profitable-3k7i)
 - [Dominando las Estructuras de Datos en JavaScript: Arrays, Objects, Sets y Maps](https://dev.to/soyclaradev/dominando-las-estructuras-de-datos-en-javascript-arrays-objects-sets-y-maps-35e3)
 - [Why standard deviation is important in performance tests](https://dev.to/gpiechnik/why-standard-deviation-is-important-in-performance-tests-1hm7)
 - [High System quality with Spring integration tests](https://dev.to/alexferreiradev/high-system-quality-with-spring-integration-tests-3b53)
-- [Clipboards, Terminals, and Linux](https://dev.to/djmitche/clipboards-terminals-and-linux-3pk5)
 <!-- BLOG-POST-LIST:END -->
 
