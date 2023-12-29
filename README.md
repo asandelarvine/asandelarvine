@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up environment - Godot with VSCode](https://dev.to/eduardojuliao/setting-up-environment-godot-with-vscode-1i90)
 - [A Brief History of JavaScript Frameworks](https://dev.to/feketegy/a-brief-history-of-javascript-frameworks-2g44)
+- [Understanding and Managing Latency in APISIX: A Comprehensive Technical Guide](https://dev.to/api7/understanding-and-managing-latency-in-apisix-a-comprehensive-technical-guide-imj)
 - [Year in review, 2023](https://dev.to/aws-heroes/year-in-review-2023-gij)
-- [Supporting the future of open source](https://dev.to/appwrite/supporting-the-future-of-open-source-25bg)
-- [HttpClientHandler in C# - Easy Guide](https://dev.to/bytehide/httpclienthandler-in-c-easy-guide-3490)
 <!-- BLOG-POST-LIST:END -->
 
