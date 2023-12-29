@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Dominando las Estructuras de Datos en JavaScript: Arrays, Objects, Sets y Maps](https://dev.to/soyclaradev/dominando-las-estructuras-de-datos-en-javascript-arrays-objects-sets-y-maps-35e3)
-- [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
-- [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
-- [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
+- [Why standard deviation is important in performance tests](https://dev.to/gpiechnik/why-standard-deviation-is-important-in-performance-tests-1hm7)
+- [High System quality with Spring integration tests](https://dev.to/alexferreiradev/high-system-quality-with-spring-integration-tests-3b53)
+- [Clipboards, Terminals, and Linux](https://dev.to/djmitche/clipboards-terminals-and-linux-3pk5)
 <!-- BLOG-POST-LIST:END -->
 
