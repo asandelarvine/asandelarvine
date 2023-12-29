@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
+- [A Look Back at 2023&#39;s Top Workplace, SharePoint, and Power Platform Digests](https://dev.to/jaloplo/a-look-back-at-2023s-top-workplace-sharepoint-and-power-platform-digests-2j63)
 - [Pycharm for Python Developers: A Beginners Guide](https://dev.to/scofieldidehen/pycharm-for-python-developers-a-beginners-guide-592o)
 - [What you can learn from my 2023](https://dev.to/catalinpit/what-you-can-learn-from-my-2023-bc8)
-- [What&#39;s new features in Angular 17?](https://dev.to/anilsingh/whats-new-features-in-angular-17-421g)
 <!-- BLOG-POST-LIST:END -->
 
