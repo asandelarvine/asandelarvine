@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief History of JavaScript Frameworks](https://dev.to/feketegy/a-brief-history-of-javascript-frameworks-2g44)
+- [Year in review, 2023](https://dev.to/aws-heroes/year-in-review-2023-gij)
 - [Supporting the future of open source](https://dev.to/appwrite/supporting-the-future-of-open-source-25bg)
 - [HttpClientHandler in C# - Easy Guide](https://dev.to/bytehide/httpclienthandler-in-c-easy-guide-3490)
-- [Javascript Object.groupBy&lpar;&rpar;, an important method](https://dev.to/vvkkumar06/javascript-objectgroupby-an-important-method-482)
-- [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
 <!-- BLOG-POST-LIST:END -->
 
