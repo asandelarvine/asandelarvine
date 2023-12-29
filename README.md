@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
+- [Pycharm for Python Developers: A Beginners Guide](https://dev.to/scofieldidehen/pycharm-for-python-developers-a-beginners-guide-592o)
+- [What you can learn from my 2023](https://dev.to/catalinpit/what-you-can-learn-from-my-2023-bc8)
 - [What&#39;s new features in Angular 17?](https://dev.to/anilsingh/whats-new-features-in-angular-17-421g)
-- [🚀 API Maker : Release Notes for v1.0.3](https://dev.to/apimaker/api-maker-release-notes-for-v103-2d2h)
-- [Show an addition toolbar after users selects text](https://dev.to/phuocng/show-an-addition-toolbar-after-users-selects-text-5h9f)
-- [Dominando las Estructuras de Datos en JavaScript: Arrays, Objects, Sets y Maps](https://dev.to/soyclaradev/dominando-las-estructuras-de-datos-en-javascript-arrays-objects-sets-y-maps-35e3)
 <!-- BLOG-POST-LIST:END -->
 
