@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data Science](https://dev.to/shaheryaryousaf/introduction-to-data-science-for-beginners-1ci6)
-- [Top 10 Projects for Top 1% Frontend Engineers in 2024](https://dev.to/ombharatiya/top-10-projects-for-top-1-frontend-engineers-1443)
-- [Stay Playful, Neurodiversity](https://dev.to/adam_cyclones/stay-playful-neurodiversity-3kg6)
-- [I Build a GitHub Worth Estimate Generator](https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd)
+- [Dominando las Estructuras de Datos en JavaScript: Arrays, Objects, Sets y Maps](https://dev.to/soyclaradev/dominando-las-estructuras-de-datos-en-javascript-arrays-objects-sets-y-maps-35e3)
+- [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
+- [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
+- [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
 <!-- BLOG-POST-LIST:END -->
 
