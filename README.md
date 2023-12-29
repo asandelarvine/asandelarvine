@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The new CSS pseudo-classes explained :has&lpar;&rpar;](https://dev.to/cezarymazur/the-new-css-pseudo-classes-explained-has-21pc)
+- [Avoid These 6 Common React useState Hook Mistakes &lpar;Code Example&rpar;](https://dev.to/iamakshaykaushik/avoid-these-6-common-react-usestate-hook-mistakes-code-example-4kgi)
 - [Getting started with Google&#39;s Multi-modal &quot;Gemini Pro Vision&quot; LLM with Javascript for Beginners](https://dev.to/oyemade/getting-started-with-googles-multi-modal-gemini-pro-vision-llm-with-javascript-for-beginners-4144)
 - [The New York Times Files Lawsuit Against OpenAI and Microsoft Over A.I. Usage](https://dev.to/mayankvikash/the-new-york-times-files-lawsuit-against-openai-and-microsoft-over-ai-usage-h3)
-- [🌟 #DEVImpact2023: My End of Year Reflections](https://dev.to/adiatiayu/devimpact2023-my-end-of-year-reflections-2pok)
-- [A better, faster approach to downloading docker images without docker-pull: Skopeo](https://dev.to/cprime50/a-better-faster-approach-to-downloading-docker-images-without-docker-pull-skopeo-1n1j)
 <!-- BLOG-POST-LIST:END -->
 
