@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Tech Landscape: My journey with Django, JavaScript, and Unfinished Projects](https://dev.to/kimani/navigating-the-tech-landscape-my-journey-with-django-javascript-and-unfinished-projects-4p9f)
 - [Tech-nically Speaking: 30 Days In](https://dev.to/nerajno/tech-nically-speaking-30-days-in-4i70)
 - [The Ultimate Mobile Accessibility Resource Guide](https://dev.to/steady5063/the-ultimate-mobile-accessibility-resource-guide-53gh)
 - [2023 in review... What a year, again and again!!](https://dev.to/aurelievache/2023-in-review-what-a-year-again-and-again-51f2)
-- [My 2023 recap in two words: THANK YOU](https://dev.to/balastrong/my-2023-recap-in-two-words-thank-you-2ah0)
 <!-- BLOG-POST-LIST:END -->
 
