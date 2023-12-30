@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I created a Dark-Web Search Engine](https://dev.to/mohammadtaseenkhan/i-created-a-dark-web-search-engine-j7i)
+- [Top 10 AR &amp; VR Uses in Mobile App Development to see in 2024](https://dev.to/dhruvjoshi9/top-10-ar-vr-uses-in-mobile-app-development-to-see-in-2024-3adp)
 - [Power of Tokens:Refresh Tokens and Access Tokens in Backend Development](https://dev.to/speaklouder/power-of-tokensrefresh-tokens-and-access-tokens-in-backend-development-4bc1)
 - [🕺🏼 My life update and the Open Source #DEVImpact2023](https://dev.to/thomasbnt/my-life-update-and-the-open-source-devimpact2023-41h1)
-- [Player Character - First steps &lpar;literally&rpar;](https://dev.to/eduardojuliao/player-character-first-steps-literally-1agm)
-- [Distributed Systems: Challenges, Experiences and Tips](https://dev.to/sirneij/distributed-systems-challenges-experiences-and-tips-eik)
 <!-- BLOG-POST-LIST:END -->
 
