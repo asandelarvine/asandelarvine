@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to know about Inheritance in programming](https://dev.to/ishitajuneja/everything-you-need-to-know-about-inheritance-in-programming-4j3h)
-- [Kolay ve Hızlı PDF Sıkıştırma: Ghostscript Kullanımı](https://dev.to/baris/kolay-ve-hizli-pdf-sikistirma-ghostscript-kullanimi-2ci6)
-- [Cheers to Craft Design: Beer CSS - A Lightweight Material Design Framework](https://dev.to/leonardorafael/cheers-to-craft-design-beer-css-a-lightweight-material-design-framework-3gkp)
-- [Understanding JSON Web Tokens &lpar;JWT&rpar;](https://dev.to/mdanassabah/understanding-json-web-tokens-jwt-3n68)
+- [Nest.js Request | Param, Body, Query, Headers, IP](https://dev.to/shameel/nestjs-request-param-body-query-headers-ip-5e6k)
+- [Why you should only use TypeScript ☝️](https://dev.to/disane/why-you-should-only-use-typescript-5c8b)
+- [Warum du nur noch TypeScript nutzen solltest ☝️](https://dev.to/disane/warum-du-nur-noch-typescript-nutzen-solltest-4onm)
+- [Enabling CORS in a .NET Core Server-Side Application](https://dev.to/ussdlover/enabling-cors-in-a-net-core-server-side-application-2akk)
 <!-- BLOG-POST-LIST:END -->
 
