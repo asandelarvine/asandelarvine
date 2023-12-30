@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Connect-Four Game](https://dev.to/armaanbarak/connect-four-game-1376)
+- [React is Slow, What to do now?](https://dev.to/nikl/react-is-slow-what-to-do-now-369g)
 - [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
 - [Best Crypto To Invest in 2024 [Expert Guide]](https://dev.to/scofieldidehen/best-crypto-to-invest-in-2024-expert-guide-4kda)
-- [Your Tech Journey - 2023 Highlights, 2024 Previews! 💻](https://dev.to/dev_kiran/your-tech-journey-2023-highlights-2024-previews-mcp)
 <!-- BLOG-POST-LIST:END -->
 
