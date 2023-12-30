@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Tutorial Hell: Choosing Great Learning Resources 🧠](https://dev.to/brian_curricular/avoid-tutorial-hell-choosing-great-learning-resources-215c)
 - [Access EC2 Instances Privately Using AWS Systems Manager](https://dev.to/codehirise/access-instances-privately-using-aws-systems-manager-28cm)
 - [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-22h1)
 - [Engineering Bolt ⚡: #2 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-2-friday-developer-fun-27p6)
-- [Optimising Performance with Next.js [Part 1]](https://dev.to/eddyoc/optimising-performance-with-nextjs-part-1-5d7f)
 <!-- BLOG-POST-LIST:END -->
 
