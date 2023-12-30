@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-22h1)
+- [Engineering Bolt ⚡: #2 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-2-friday-developer-fun-27p6)
 - [Optimising Performance with Next.js [Part 1]](https://dev.to/eddyoc/optimising-performance-with-nextjs-part-1-5d7f)
 - [Top 10 AI trends for 2025](https://dev.to/durgesh4993/top-10-ai-trends-for-2025-1290)
-- [Expressões encadeadas e agrupamento](https://dev.to/lucas_ac_am/expressoes-encadeadas-e-agrupamento-14g6)
-- [Nest.js Nested Routing, Wildcard, Request](https://dev.to/shameel/nestjs-nested-routing-wildcard-request-5888)
 <!-- BLOG-POST-LIST:END -->
 
