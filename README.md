@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nest.js Nested Routing, Wildcard, Request](https://dev.to/shameel/nestjs-nested-routing-wildcard-request-5888)
+- [The Agile Community is the Priesthood of the 21st Century](https://dev.to/polterguy/the-agile-community-is-the-priesthood-of-the-21st-century-283o)
+- [DjangoConUS 2023: A Wish Fulfilled](https://dev.to/veldakiara/djangoconus-2023-a-wish-fulfilled-2mmc)
 - [Connect-Four Game](https://dev.to/armaanbarak/connect-four-game-1376)
-- [React is Slow, What to do now?](https://dev.to/nikl/react-is-slow-what-to-do-now-369g)
-- [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
-- [Best Crypto To Invest in 2024 [Expert Guide]](https://dev.to/scofieldidehen/best-crypto-to-invest-in-2024-expert-guide-4kda)
 <!-- BLOG-POST-LIST:END -->
 
