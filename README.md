@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [What to Expect from Angular in 2024](https://dev.to/swebdev/what-to-expect-from-angular-in-2024-43hd)
+- [5 Tips for Saving Money on Home Insurance in Atlanta](https://dev.to/zaraellie457/5-tips-for-saving-money-on-home-insurance-in-atlanta-3iee)
 - [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
 - [Make your player roll and animations!](https://dev.to/eduardojuliao/make-your-player-roll-and-animations-4ch8)
-- [Stock options, vesting, and exercising, oh my](https://dev.to/cassidoo/stock-options-vesting-and-exercising-oh-my-228c)
 <!-- BLOG-POST-LIST:END -->
 
