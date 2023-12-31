@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My checklist for a production-ready website](https://dev.to/hunghvu/my-checklist-for-a-production-ready-website-3lm7)
-- [FLaNK Weekly 31 December 2023](https://dev.to/tspannhw/flank-weekly-31-december-2023-7l8)
-- [Regex is not your enemy](https://dev.to/aloisseckar/regex-is-not-your-enemy-4mgb)
-- [How to get a tech job](https://dev.to/nandinishinduja/how-to-get-a-tech-job-3046)
+- [Navigating Week Two: Insights and Experiences from My Tublian Internship Journey](https://dev.to/lymah/navigating-week-two-insights-and-experiences-from-my-tublian-internship-journey-3ima)
+- [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
+- [In-Home Dog Training &amp; Behavior Modification: Transforming Canine Behavior in the Comfort of Home](https://dev.to/comesitstay/in-home-dog-training-behavior-modification-transforming-canine-behavior-in-the-comfort-of-home-4e99)
+- [A Simple Guide to Organizing Api Services in Your Web App](https://dev.to/tazdecoder/a-simple-guide-to-organizing-api-services-in-your-web-app-1o2o)
 <!-- BLOG-POST-LIST:END -->
 
