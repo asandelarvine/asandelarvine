@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Principios de Desarrollo Frontend Avanzado: Una Guía Profesional](https://dev.to/soyclaradev/principios-de-desarrollo-frontend-avanzado-una-guia-del-profesional-30lf)
 - [7 Web Components I maybe should have blogged about in 2023](https://dev.to/dannyengelman/7-web-components-i-maybe-should-have-blogged-about-in-2023-28ph)
 - [Enhancing Machine Learning Models: A Deep Dive into Feature Engineering](https://dev.to/salmank/enhancing-machine-learning-models-a-deep-dive-into-feature-engineering-2dh7)
-- [Top 8 Tech Skills You Must Learn in 2024 to Get a Job in Today&#39;s Dynamic Job Market](https://dev.to/mukeshkuiry/top-8-tech-skills-you-must-learn-in-2024-to-get-a-job-in-todays-dynamic-job-market-55pf)
-- [Dominando GitOps con ArgoCD: Una guía práctica para kubernetes](https://dev.to/danieljsaldana/dominando-gitops-con-argocd-una-guia-practica-para-kubernetes-h7m)
+- [Dev Recap: A Look Back at 2023 in Coding and Open‐Source Development](https://dev.to/hlexnc/dev-recap-a-look-back-at-2023-in-coding-and-open-source-development-ofn)
 <!-- BLOG-POST-LIST:END -->
 
