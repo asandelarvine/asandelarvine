@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker - Setup a local JS and Python Development environment &lpar;Part 2&rpar;](https://dev.to/jagkush/docker-setup-a-local-js-and-python-development-environment-part-2-bbh)
 - [Principios de Desarrollo Frontend Avanzado: Una Guía Profesional](https://dev.to/soyclaradev/principios-de-desarrollo-frontend-avanzado-una-guia-del-profesional-30lf)
 - [7 Web Components I maybe should have blogged about in 2023](https://dev.to/dannyengelman/7-web-components-i-maybe-should-have-blogged-about-in-2023-28ph)
 - [Enhancing Machine Learning Models: A Deep Dive into Feature Engineering](https://dev.to/salmank/enhancing-machine-learning-models-a-deep-dive-into-feature-engineering-2dh7)
-- [Dev Recap: A Look Back at 2023 in Coding and Open‐Source Development](https://dev.to/hlexnc/dev-recap-a-look-back-at-2023-in-coding-and-open-source-development-ofn)
 <!-- BLOG-POST-LIST:END -->
 
