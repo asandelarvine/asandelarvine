@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The DevRel Digest December 2023: DevRel You Should Know Part Two and Reflections on 2023](https://dev.to/lizzzzz/the-devrel-digest-december-2023-devrel-you-should-know-part-two-and-reflections-on-2023-5fk5)
 - [Navigating Week Two: Insights and Experiences from My Tublian Internship Journey](https://dev.to/lymah/navigating-week-two-insights-and-experiences-from-my-tublian-internship-journey-3ima)
+- [Running A Headless Raspberry Pi](https://dev.to/fizy_hector/running-a-headless-raspberry-pi-1ljl)
 - [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
-- [Understanding In-Memory Cache](https://dev.to/fatay/lets-deep-dive-in-memory-cache-3heg)
-- [A Simple Guide to Organizing Api Services in Your Web App](https://dev.to/tazdecoder/a-simple-guide-to-organizing-api-services-in-your-web-app-1o2o)
 <!-- BLOG-POST-LIST:END -->
 
