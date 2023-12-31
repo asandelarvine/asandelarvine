@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Day 12 - The 12 Days of DEV: December 2023](https://dev.to/devteam/day-12-the-12-days-of-dev-december-2023-1hdf)
+- [Laravel Boiler Template: Elevate Your Laravel Experience](https://dev.to/arafatweb/laravel-boiler-template-elevate-your-laravel-experience-411k)
 - [Future of LLM Interaction](https://dev.to/ranjancse/future-of-llm-interaction-4lcl)
 - [10 Facts Proving NFTs are Scams in 2024](https://dev.to/scofieldidehen/10-facts-proving-nfts-are-scams-in-2024-1he8)
-- [Kubernetes concepts part -3 Introduction to services &amp; Ingress](https://dev.to/pavithra_sandamini/kubernetes-concepts-part-3-introduction-to-services-ingress-4gff)
 <!-- BLOG-POST-LIST:END -->
 
