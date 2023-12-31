@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Navigating Week Two: Insights and Experiences from My Tublian Internship Journey](https://dev.to/lymah/navigating-week-two-insights-and-experiences-from-my-tublian-internship-journey-3ima)
 - [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
-- [In-Home Dog Training &amp; Behavior Modification: Transforming Canine Behavior in the Comfort of Home](https://dev.to/comesitstay/in-home-dog-training-behavior-modification-transforming-canine-behavior-in-the-comfort-of-home-4e99)
+- [Understanding In-Memory Cache](https://dev.to/fatay/lets-deep-dive-in-memory-cache-3heg)
 - [A Simple Guide to Organizing Api Services in Your Web App](https://dev.to/tazdecoder/a-simple-guide-to-organizing-api-services-in-your-web-app-1o2o)
 <!-- BLOG-POST-LIST:END -->
 
