@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Expect from Angular in 2024](https://dev.to/swebdev/what-to-expect-from-angular-in-2024-43hd)
-- [5 Tips for Saving Money on Home Insurance in Atlanta](https://dev.to/zaraellie457/5-tips-for-saving-money-on-home-insurance-in-atlanta-3iee)
-- [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
-- [Make your player roll and animations!](https://dev.to/eduardojuliao/make-your-player-roll-and-animations-4ch8)
+- [Future of LLM Interaction](https://dev.to/ranjancse/future-of-llm-interaction-4lcl)
+- [10 Facts Proving NFTs are Scams in 2024](https://dev.to/scofieldidehen/10-facts-proving-nfts-are-scams-in-2024-1he8)
+- [Kubernetes concepts part -3 Introduction to services &amp; Ingress](https://dev.to/pavithra_sandamini/kubernetes-concepts-part-3-introduction-to-services-ingress-4gff)
+- [GitOps for Devs - Part 2: Navigating the Code](https://dev.to/krishanthisera/gitops-for-devs-part-2-the-code-4g5f)
 <!-- BLOG-POST-LIST:END -->
 
