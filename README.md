@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
 - [Make your player roll and animations!](https://dev.to/eduardojuliao/make-your-player-roll-and-animations-4ch8)
-- [Why Angular will shine more in 2024](https://dev.to/swebdev/why-angular-will-shine-more-in-2024-1gmn)
 - [Stock options, vesting, and exercising, oh my](https://dev.to/cassidoo/stock-options-vesting-and-exercising-oh-my-228c)
+- [Using facts and the GitHub API in Ansible](https://dev.to/rimelek/using-facts-and-the-github-api-in-ansible-4i00)
 <!-- BLOG-POST-LIST:END -->
 
