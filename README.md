@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 API Maker : Release Notes for v1.0.5](https://dev.to/apimaker/api-maker-release-notes-for-v105-2336)
+- [How to do local setup of API Maker 🚀](https://dev.to/apimaker/how-to-do-local-setup-of-api-maker-3hje)
 - [Player camera](https://dev.to/eduardojuliao/player-camera-1ga9)
 - [Top Android &amp; React Native events to attend in 2024](https://dev.to/amazonappdev/top-android-react-native-events-to-attend-in-2024-477e)
-- [Let&#39;s Test Your CSS skill](https://dev.to/melnik909/lets-test-your-css-skill-5d3m)
-- [How to add Filtering to Jquery Datatables](https://dev.to/kingzamzon/how-to-add-filtering-to-jquery-datatables-4jm0)
 <!-- BLOG-POST-LIST:END -->
 
