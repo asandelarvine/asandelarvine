@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introdução ao Protocolo IP](https://dev.to/bl4cktux89/protocolo-ip-2200)
 - [How to Add Dashboards to Unleashed X – 2024 Guides](https://dev.to/zaraellie457/how-to-add-dashboards-to-unleashed-x-2024-guides-i4)
 - [Travel Agency Landing Page](https://dev.to/codingcss/travel-agency-landing-page-3g61)
 - [Happy New Year! 🎉 As we welcome 2024](https://dev.to/marmariadev/happy-new-year-as-we-welcome-2024-15k1)
-- [6 Security Measures: A Guide to Safeguarding AI Applications with API Gateway](https://dev.to/api7/6-security-measures-a-guide-to-safeguarding-ai-applications-with-api-gateway-14np)
 <!-- BLOG-POST-LIST:END -->
 
