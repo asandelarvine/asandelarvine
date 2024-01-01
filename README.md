@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do I hate Java? 😠🤔](https://dev.to/gpiechnik/why-do-i-hate-java-kme)
+- [Building Jira apps with Atlassian Forge for beginners](https://dev.to/ivadyhabimana/building-jira-apps-with-atlassian-forge-for-beginners-1bjl)
 - [How to set up a continous deployment pipeline for a Laravel App on a Linux server](https://dev.to/dreywandowski/how-to-set-up-a-continous-deployment-pipeline-for-a-laravel-app-on-a-linux-server-i6f)
 - [Weekly Roundup 033 &lpar;Dec 25&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-033-dec-25-hot-topics-in-workplace-sharepoint-and-powerplatform-4df6)
-- [Data Streaming Hands-On: Building Kinesis Data Streams App](https://dev.to/aws-builders/data-streaming-hands-on-building-kinesis-data-streams-app-g72)
-- [Elixir: A BEAM Machine](https://dev.to/alexmbeasley/elixir-a-beam-machine-33ha)
 <!-- BLOG-POST-LIST:END -->
 
