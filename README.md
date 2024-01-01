@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The DevRel Digest December 2023: DevRel You Should Know Part Two and Reflections on 2023](https://dev.to/lizzzzz/the-devrel-digest-december-2023-devrel-you-should-know-part-two-and-reflections-on-2023-5fk5)
-- [Navigating Week Two: Insights and Experiences from My Tublian Internship Journey](https://dev.to/lymah/navigating-week-two-insights-and-experiences-from-my-tublian-internship-journey-3ima)
-- [Running A Headless Raspberry Pi](https://dev.to/fizy_hector/running-a-headless-raspberry-pi-1ljl)
-- [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
+- [Top Android &amp; React Native events to attend in 2024](https://dev.to/amazonappdev/top-android-react-native-events-to-attend-in-2024-477e)
+- [Let&#39;s Test Your CSS skill](https://dev.to/melnik909/lets-test-your-css-skill-5d3m)
+- [Securing Your App: TOTP Authentication with Spring Boot and Angular — Part One — Overview &amp; Project Setup](https://dev.to/amailath/securing-your-app-totp-authentication-with-spring-boot-and-angular-part-one-overview-project-setup-1f3f)
+- [Will AI also replace automation testers? 🤖💭](https://dev.to/gpiechnik/will-ai-also-replace-automation-testers-5eoe)
 <!-- BLOG-POST-LIST:END -->
 
