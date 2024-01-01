@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Best JavaScript Courses Online in 2024 &lpar;Free and Paid&rpar;](https://dev.to/stakedesigner/6-best-javascript-courses-online-in-2024-free-and-paid-1oj7)
 - [Test your Code Efficiently using pytest Module](https://dev.to/sachingeek/test-your-code-efficiently-using-pytest-module-4pi7)
 - [Popularity is not Efficiency: Solid.js vs React.js](https://dev.to/miracool/popularity-is-not-efficiency-solidjs-vs-reactjs-de7)
-- [Viral Paper Tested MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://dev.to/furkangozukara/viral-paper-tested-magicanimate-temporally-consistent-human-image-animation-using-diffusion-model-n9c)
-- [Music Monday — What are you listening to? &lpar;New Year&#39;s Edition 🥳&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-new-years-edition--29ih)
+- [How to make CSS :has&lpar;&rpar; pseudo-class work on Firefox](https://dev.to/yuridevat/how-to-make-css-has-selector-work-on-firefox-1087)
 <!-- BLOG-POST-LIST:END -->
 
