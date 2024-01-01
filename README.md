@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Maker : Release Notes for v1.0.5](https://dev.to/apimaker/api-maker-release-notes-for-v105-2336)
-- [How to do local setup of API Maker 🚀](https://dev.to/apimaker/how-to-do-local-setup-of-api-maker-3hje)
-- [Player camera](https://dev.to/eduardojuliao/player-camera-1ga9)
-- [Top Android &amp; React Native events to attend in 2024](https://dev.to/amazonappdev/top-android-react-native-events-to-attend-in-2024-477e)
+- [Object-Oriented Programming Concepts in Angular &lpar;OOP Paradigm&rpar;](https://dev.to/omamaaslam/object-oriented-programming-concepts-in-angular-oop-paradigm-m9n)
+- [Django ORM Kullanımı Üzerine Temel Bilgiler](https://dev.to/tahsinsoyak/django-orm-kullanimi-uzerine-temel-bilgiler-4a7k)
+- [&quot;Optimized Connection: Enhance Your Communication with the Power of Contact Form 7 and Zoho Integration&quot;](https://dev.to/johnsmith244303/optimized-connection-enhance-your-communication-with-the-power-of-contact-form-7-and-zoho-integration-526j)
+- [What is Master Data Management &lpar;MDM&rpar;](https://dev.to/kedark/what-is-master-data-management-mdm-2mae)
 <!-- BLOG-POST-LIST:END -->
 
