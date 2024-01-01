@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented Programming Concepts in Angular &lpar;OOP Paradigm&rpar;](https://dev.to/omamaaslam/object-oriented-programming-concepts-in-angular-oop-paradigm-m9n)
-- [Django ORM Kullanımı Üzerine Temel Bilgiler](https://dev.to/tahsinsoyak/django-orm-kullanimi-uzerine-temel-bilgiler-4a7k)
-- [&quot;Optimized Connection: Enhance Your Communication with the Power of Contact Form 7 and Zoho Integration&quot;](https://dev.to/johnsmith244303/optimized-connection-enhance-your-communication-with-the-power-of-contact-form-7-and-zoho-integration-526j)
-- [What is Master Data Management &lpar;MDM&rpar;](https://dev.to/kedark/what-is-master-data-management-mdm-2mae)
+- [MongoDB on Your Local Machine Using Docker: A Step-by-Step Guide](https://dev.to/speaklouder/mongodb-on-your-local-machine-using-docker-a-step-by-step-guide-4b2h)
+- [New Year, New Code: #DEVResolutions2024](https://dev.to/devteam/new-year-new-code-devresolutions2024-2e5h)
+- [Why I still use WordPress despite being a full-stack web developer](https://dev.to/piouskenny/why-i-still-use-wordpress-despite-being-a-full-stack-web-developer-569i)
+- [🔥Top 7 Useful Tools for Developers😎](https://dev.to/dev_kiran/top-7-useful-tools-for-developers-57fl)
 <!-- BLOG-POST-LIST:END -->
 
