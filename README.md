@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Player camera](https://dev.to/eduardojuliao/player-camera-1ga9)
 - [Top Android &amp; React Native events to attend in 2024](https://dev.to/amazonappdev/top-android-react-native-events-to-attend-in-2024-477e)
 - [Let&#39;s Test Your CSS skill](https://dev.to/melnik909/lets-test-your-css-skill-5d3m)
-- [Securing Your App: TOTP Authentication with Spring Boot and Angular — Part One — Overview &amp; Project Setup](https://dev.to/amailath/securing-your-app-totp-authentication-with-spring-boot-and-angular-part-one-overview-project-setup-1f3f)
+- [How to add Filtering to Jquery Datatables](https://dev.to/kingzamzon/how-to-add-filtering-to-jquery-datatables-4jm0)
 <!-- BLOG-POST-LIST:END -->
 
