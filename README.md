@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Mastering the Art of Consistency in Tech: My Journey and Strategies 🌟](https://dev.to/nikitakoselev/mastering-the-art-of-consistency-in-tech-my-journey-and-strategies-2npp)
-- [Decimal in C# : How and Where to Use It?](https://dev.to/bytehide/decimal-in-c-how-and-where-to-use-it-387b)
-- [#DEVResolutions2024](https://dev.to/nandinishinduja/devresolutions2024-56h8)
-- [My #DEVResolutions2024 🌟](https://dev.to/robinamirbahar/devresolutions2024-dfj)
+- [Redirection in Nest.js](https://dev.to/shameel/redirection-in-nestjs-2lba)
+- [What is Machine Learning?](https://dev.to/burakboduroglu/what-is-machine-learning-1nn4)
+- [Interview Questions for Web Developer - JavaScript](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-javascript-31b7)
+- [Mastering TypeScript: Looping with Types](https://dev.to/alexanderop/mastering-typescript-looping-with-types-2f92)
 <!-- BLOG-POST-LIST:END -->
 
