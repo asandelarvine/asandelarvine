@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [6 Best JavaScript Courses Online in 2024 &lpar;Free and Paid&rpar;](https://dev.to/stakedesigner/6-best-javascript-courses-online-in-2024-free-and-paid-1oj7)
 - [Test your Code Efficiently using pytest Module](https://dev.to/sachingeek/test-your-code-efficiently-using-pytest-module-4pi7)
 - [Popularity is not Efficiency: Solid.js vs React.js](https://dev.to/miracool/popularity-is-not-efficiency-solidjs-vs-reactjs-de7)
-- [How to make CSS :has&lpar;&rpar; pseudo-class work on Firefox](https://dev.to/yuridevat/how-to-make-css-has-selector-work-on-firefox-1087)
+- [Integrating AI chatbot💩 into your application in 2024 🧙🏻‍♂️🏆 is how easy? 🤔](https://dev.to/shricodev/integrating-ai-chatbot-into-your-application-in-2024-is-how-easy-147p)
 <!-- BLOG-POST-LIST:END -->
 
