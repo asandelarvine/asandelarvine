@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Best JavaScript Courses Online in 2024 &lpar;Free and Paid&rpar;](https://dev.to/stakedesigner/6-best-javascript-courses-online-in-2024-free-and-paid-1oj7)
-- [Test your Code Efficiently using pytest Module](https://dev.to/sachingeek/test-your-code-efficiently-using-pytest-module-4pi7)
-- [Popularity is not Efficiency: Solid.js vs React.js](https://dev.to/miracool/popularity-is-not-efficiency-solidjs-vs-reactjs-de7)
-- [Integrating AI chatbot💩 into your application in 2024 🧙🏻‍♂️🏆 is how easy? 🤔](https://dev.to/shricodev/integrating-ai-chatbot-into-your-application-in-2024-is-how-easy-147p)
+- [How to Add Dashboards to Unleashed X – 2024 Guides](https://dev.to/zaraellie457/how-to-add-dashboards-to-unleashed-x-2024-guides-i4)
+- [Travel Agency Landing Page](https://dev.to/codingcss/travel-agency-landing-page-3g61)
+- [Happy New Year! 🎉 As we welcome 2024](https://dev.to/marmariadev/happy-new-year-as-we-welcome-2024-15k1)
+- [6 Security Measures: A Guide to Safeguarding AI Applications with API Gateway](https://dev.to/api7/6-security-measures-a-guide-to-safeguarding-ai-applications-with-api-gateway-14np)
 <!-- BLOG-POST-LIST:END -->
 
