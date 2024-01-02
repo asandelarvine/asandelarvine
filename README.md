@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kick off Your New Year Goals with #100DaysOfOSS](https://dev.to/opensauced/kick-off-your-new-year-goals-with-100daysofoss-12n8)
+- [After using RawJS, I&#39;m never touching React again &lpar;or any framework&rpar;. Vanilla JavaScript is the future.](https://dev.to/paulgordon/after-using-rawjs-im-never-touching-react-again-or-any-framework-vanilla-javascript-is-the-future-3ac1)
 - [Getting started with Azure Resource Graph](https://dev.to/techielass/getting-started-with-azure-resource-graph-2foe)
 - [A Passwordless Future! Passkeys for Java Developers](https://dev.to/oktadev/a-passwordless-future-passkeys-for-java-developers-3f0c)
-- [Enforcing ESLint rules: A guide to taming codebase chaos](https://dev.to/theodo/enforcing-eslint-rules-a-guide-to-taming-codebase-chaos-1o7m)
-- [Um Dia De Trabalho Async - A Rotina Ideal](https://dev.to/lincolixavier/um-dia-trabalho-async-a-rotina-ideal-4ngd)
 <!-- BLOG-POST-LIST:END -->
 
