@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🟢 Demo of Face Recognition Authentication in NextJS ✨](https://dev.to/random_ti/a-demo-of-face-recognition-authentication-in-nextjs-54g4)
+- [🔥 Tools I Fell in Love with ❤️](https://dev.to/thatman/tools-i-fell-in-love-with-5fm8)
 - [HIPAA Compliance Checklist: Key to Expediting HIPAA](https://dev.to/clouddefenseai/hipaa-compliance-checklist-key-to-expediting-hipaa-34kh)
 - [Cloud Computing Market Growth 2023: Optimizing Operations Worldwide](https://dev.to/pkp9/cloud-computing-market-growth-2023-optimizing-operations-worldwide-1fh3)
-- [IoT and Its Impact on IT Networking](https://dev.to/ajaytie/iot-and-its-impact-on-it-networking-3l8k)
-- [Top Signs Your E-commerce Store Needs Professional Magento Support Services](https://dev.to/markdenial/top-signs-your-e-commerce-store-needs-professional-magento-support-services-4pd7)
 <!-- BLOG-POST-LIST:END -->
 
