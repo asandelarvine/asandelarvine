@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Mug: Exploring the First Decade of AWS Transformation](https://dev.to/ahmedattia/beyond-the-mug-exploring-the-first-decade-of-aws-transformation-1gc0)
 - [Software Dev Interviews: What I look for in a Candidate](https://dev.to/nestedsoftware/software-dev-interviews-what-i-look-for-in-a-candidate-25h6)
+- [PDLC: Prompt Development Life Cycle](https://dev.to/justinmacorin/pdlc-prompt-development-life-cycle-16e6)
 - [10 Ways for Kubernetes Declarative Configuration Management](https://dev.to/peefy/10-ways-for-kubernetes-declarative-configuration-management-5pb)
-- [Cloud Migration Testing with HeadSpin: A Comprehensive Guide](https://dev.to/berthaw82414312/cloud-migration-testing-with-headspin-a-comprehensive-guide-3d4c)
-- [A Collaboration Guide to Github](https://dev.to/knowicki024/a-collaboration-guide-to-github-36ig)
 <!-- BLOG-POST-LIST:END -->
 
