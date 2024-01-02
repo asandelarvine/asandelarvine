@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 dias de JAVA: Dias 21 a 30](https://dev.to/leitoraincomum/100-dias-de-java-dias-21-a-30-41d6)
-- [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
-- [Understanding CSS Box Sizing: A Guide to &#39;content-box&#39; and &#39;border-box&#39;](https://dev.to/rawas_aditya/understanding-css-box-sizing-a-guide-to-content-box-and-border-box-3ini)
-- [Streamlining Email Verification: A Step-by-Step Guide with Spring Boot and Angular](https://dev.to/amailath/streamlining-email-verification-a-step-by-step-guide-with-spring-boot-and-angular-eff)
+- [Software Dev Interviews: What I look for in a Candidate](https://dev.to/nestedsoftware/software-dev-interviews-what-i-look-for-in-a-candidate-25h6)
+- [10 Ways for Kubernetes Declarative Configuration Management](https://dev.to/peefy/10-ways-for-kubernetes-declarative-configuration-management-5pb)
+- [Cloud Migration Testing with HeadSpin: A Comprehensive Guide](https://dev.to/berthaw82414312/cloud-migration-testing-with-headspin-a-comprehensive-guide-3d4c)
+- [A Collaboration Guide to Github](https://dev.to/knowicki024/a-collaboration-guide-to-github-36ig)
 <!-- BLOG-POST-LIST:END -->
 
