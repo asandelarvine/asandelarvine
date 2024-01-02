@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GO vs RUST speed test | Which one to choose in 2024](https://dev.to/mukeshkuiry/go-vs-rust-speed-test-which-one-to-choose-in-2024-1ck)
 - [Basics of Statistics in Data Science](https://dev.to/shaheryaryousaf/basics-of-statistics-in-data-science-5ag0)
 - [Building an AI Game Bot 🤖Using Imitation Learning and 3D Convolution ResNet](https://dev.to/akshayballal/building-an-ai-game-bot-using-imitation-learning-and-3d-convolution-resnet-3fe4)
 - [Three tricks to rolling out GitHub Copilot to your team](https://dev.to/github/three-tricks-to-rolling-out-github-copilot-to-your-team-1m07)
-- [Pseudo-Classes In CSS](https://dev.to/shahidbugti/pseudo-classes-in-css-5emh)
 <!-- BLOG-POST-LIST:END -->
 
