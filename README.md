@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
 - [Streamlining Email Verification: A Step-by-Step Guide with Spring Boot and Angular](https://dev.to/amailath/streamlining-email-verification-a-step-by-step-guide-with-spring-boot-and-angular-eff)
 - [Bandit Level 21 Level 22](https://dev.to/christianpaez/bandit-level-21-level-22-4ojh)
-- [Coding Wisdom: Insights from Your Interview Experiences?](https://dev.to/codenewbieteam/coding-wisdom-insights-from-your-interview-experiences-117n)
+- [How Have You Contributed to the DEV Community?](https://dev.to/devteam/how-have-you-contributed-to-the-dev-community-1m5g)
 <!-- BLOG-POST-LIST:END -->
 
