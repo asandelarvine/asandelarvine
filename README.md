@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Hacker News Story Aggregator Using Next.js, Resend and Cron Atlas](https://dev.to/pmbanugo/top-hacker-news-story-aggregator-using-nextjs-resend-and-cron-atlas-18k2)
 - [How To Install Lemon Rat In Termux 2024](https://dev.to/h4ck3r/how-to-install-lemon-rat-in-termux-2024-4pb1)
 - [🟢 Build a Demo of Face Recognition Authentication ✨](https://dev.to/random_ti/a-demo-of-face-recognition-authentication-in-nextjs-54g4)
 - [🔥 Tools I Fell in Love with ❤️](https://dev.to/thatman/tools-i-fell-in-love-with-5fm8)
-- [HIPAA Compliance Checklist: Key to Expediting HIPAA](https://dev.to/clouddefenseai/hipaa-compliance-checklist-key-to-expediting-hipaa-34kh)
 <!-- BLOG-POST-LIST:END -->
 
