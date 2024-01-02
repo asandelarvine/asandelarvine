@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 API tools for Every Budget and Requirement](https://dev.to/elliot_brenya/50-api-tools-for-every-budget-and-requirement-3ok2)
-- [My first post](https://dev.to/thrashraf/my-first-post-b1m)
-- [Why do I hate Java? 😠🤔](https://dev.to/gpiechnik/why-do-i-hate-java-kme)
-- [Building Jira apps with Atlassian Forge for beginners](https://dev.to/ivadyhabimana/building-jira-apps-with-atlassian-forge-for-beginners-1bjl)
+- [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
+- [Streamlining Email Verification: A Step-by-Step Guide with Spring Boot and Angular](https://dev.to/amailath/streamlining-email-verification-a-step-by-step-guide-with-spring-boot-and-angular-eff)
+- [Bandit Level 21 Level 22](https://dev.to/christianpaez/bandit-level-21-level-22-4ojh)
+- [Coding Wisdom: Insights from Your Interview Experiences?](https://dev.to/codenewbieteam/coding-wisdom-insights-from-your-interview-experiences-117n)
 <!-- BLOG-POST-LIST:END -->
 
