@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bookmarklets, and why you should use them](https://dev.to/yawaramin/bookmarklets-and-why-you-should-use-them-33j0)
-- [A key constraint blunder ruined my MySQL practical exam. Don&#39;t let it happen to you.](https://dev.to/vedangit/a-key-constraint-blunder-ruined-my-mysql-practical-exam-dont-let-it-happen-to-you-3j6n)
-- [Build your own ChatGPT using Google Gemini API](https://dev.to/codemaker2015/build-your-own-chatgpt-using-google-gemini-api-51bh)
-- [hello &lpar;dev.to&rpar; world](https://dev.to/localhost-run/hello-devto-world-4ppd)
+- [Unlocking Infinite Possibilities with LangChain 🦜🚀](https://dev.to/jaydeepb21/unlocking-infinite-possibilities-with-langchain-4543)
+- [SOLID: Princípios para um Design de Software Eficaz](https://dev.to/vitorrios1001/solid-principios-para-um-design-de-software-eficaz-19c9)
+- [Navigating the AWS Cloud: My Cloud Resume Challenge Adventure 🚀](https://dev.to/harveyarchitect1/navigating-the-aws-cloud-my-cloud-resume-challenge-adventure-58nb)
+- [Build your first Django app part 2](https://dev.to/doreen970/build-your-first-django-app-part-2-5a4g)
 <!-- BLOG-POST-LIST:END -->
 
