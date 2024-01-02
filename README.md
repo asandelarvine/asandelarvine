@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 dias de JAVA: Dias 21 a 30](https://dev.to/leitoraincomum/100-dias-de-java-dias-21-a-30-41d6)
 - [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
+- [Understanding CSS Box Sizing: A Guide to &#39;content-box&#39; and &#39;border-box&#39;](https://dev.to/rawas_aditya/understanding-css-box-sizing-a-guide-to-content-box-and-border-box-3ini)
 - [Streamlining Email Verification: A Step-by-Step Guide with Spring Boot and Angular](https://dev.to/amailath/streamlining-email-verification-a-step-by-step-guide-with-spring-boot-and-angular-eff)
-- [Bandit Level 21 Level 22](https://dev.to/christianpaez/bandit-level-21-level-22-4ojh)
-- [How Have You Contributed to the DEV Community?](https://dev.to/devteam/how-have-you-contributed-to-the-dev-community-1m5g)
 <!-- BLOG-POST-LIST:END -->
 
