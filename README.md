@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Type-Safe Infrastructure in Go for Event-Driven Backends](https://dev.to/encore/using-type-safe-infrastructure-in-go-for-event-driven-backends-1831)
-- [Woovi Bets on JavaScript, Should You?](https://dev.to/gabriel-palhares/woovi-bets-on-javascript-should-you-2178)
-- [XRPL in December 2023: A Leap Forward into 2024](https://dev.to/xpmarket/xrpl-in-december-2023-a-leap-forward-into-2024-181b)
-- [Multimodal Chaining: GPT4 with ElevenLabs 🔊](https://dev.to/tanyarai/multimodal-chaining-gpt4-with-elevenlabs-1k8o)
+- [Kubernetes Made Simple - Introducing Cyclops](https://dev.to/cyclops-ui/kubernetes-made-simple-introducing-cyclops-44g0)
+- [How to authenticate to the GitHub REST API with PowerShell](https://dev.to/omiossec/how-to-authenticate-to-the-github-rest-api-with-powershell-blh)
+- [Boost SEO: A Comprehensive Guide to Crawl Budget Optimization &lpar;2024&rpar;](https://dev.to/tomaslau/boost-seo-a-comprehensive-guide-to-crawl-budget-optimization-2024-2f3n)
+- [How to allow users to add Contextual Comments to anywhere on your page](https://dev.to/superviz/how-to-allow-users-to-add-contextual-comments-to-anywhere-on-your-page-428n)
 <!-- BLOG-POST-LIST:END -->
 
