@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Better Alternative To Any CMS](https://dev.to/sskyy/a-better-alternative-to-any-cms-490f)
-- [String functions in C programming.](https://dev.to/sujithvsuresh/string-functions-in-c-programming-28hh)
-- [Full-Stack Toolbox 🧰: Python🐍 Edition](https://dev.to/taipy/full-stack-toolbox-python-edition-20h2)
-- [String in C programming.](https://dev.to/sujithvsuresh/string-in-c-programming-1egj)
+- [Multimodal Chaining: GPT4 with ElevenLabs 🔊](https://dev.to/tanyarai/multimodal-chaining-gpt4-with-elevenlabs-1k8o)
+- [Terraform - Keep dependencies up to date with Dependabot &lpar;Azure DevOps version&rpar;](https://dev.to/pwd9000/terraform-keep-dependencies-up-to-date-with-dependabot-azure-devops-version-40kp)
+- [Paracetamol.py🐍| #09: Explica este código Python](https://dev.to/duxtech/paracetamolpy-09-explica-este-codigo-python-146g)
+- [API7 Solution: High Availability for B2B Services](https://dev.to/api7/api7-solution-high-availability-for-b2b-services-26ii)
 <!-- BLOG-POST-LIST:END -->
 
