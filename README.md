@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Crushing it: My New Year&#39;s Resolutions for 2024](https://dev.to/cbid2/crushing-it-my-new-years-resolutions-for-2024-541l)
 - [Unveiling the Future of React: A Dive into Concurrent Mode and Suspense](https://dev.to/ryver_dev/unveiling-the-future-of-react-a-dive-into-concurrent-mode-and-suspense-2m98)
+- [6 Proven Steps for a Recovery Plan After a Career Setback](https://dev.to/brighty_miriam/6-proven-steps-for-a-recovery-plan-after-a-career-setback-m8i)
 - [Building Your First Streamlit Application: A Beginner&#39;s Guide](https://dev.to/shaheryaryousaf/building-your-first-streamlit-application-a-beginners-guide-14ki)
-- [Animated Sprite 2D](https://dev.to/eduardojuliao/animated-sprite-2d-147a)
-- [Era SOLID o que me faltava](https://dev.to/clintonrocha98/era-solid-o-que-me-faltava-bhp)
 <!-- BLOG-POST-LIST:END -->
 
