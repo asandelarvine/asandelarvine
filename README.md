@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Cool CodePen Demos &lpar;December 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-december-2023-5105)
+- [Unreasonable Requirements for Audio Producer Jobs &lpar;Yes, Even At Tech Companies&rpar;](https://dev.to/levisharpe/unreasonable-requirements-for-audio-producer-jobsyes-even-at-tech-companies-2i40)
 - [How to Include Version, Git Commit, and Build Date in Your Angular Builds](https://dev.to/rensjaspers/how-to-include-version-git-commit-and-build-date-in-your-angular-builds-53ok)
 - [Using TypeScript with WebGL to render graphics on the web](https://dev.to/logrocket/using-typescript-with-webgl-to-render-graphics-on-the-web-5dpi)
-- [“Can&#39;t perform a React state update on an unmounted component” warning in React 18](https://dev.to/alaa-m1/cant-perform-a-react-state-update-on-an-unmounted-component-warning-in-react-18-5747)
-- [LangChain&#39;s 1st Module: Model I/O 🤖](https://dev.to/jaydeepb21/1st-module-model-io-4b6a)
 <!-- BLOG-POST-LIST:END -->
 
