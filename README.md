@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [18 Awesome GitHub Repositories to Bookmark in 2024 🚀🏆](https://dev.to/madza/18-awesome-github-repositories-to-bookmark-in-2024-17kh)
 - [2D Arrays in C#: How To Use Them](https://dev.to/bytehide/2d-arrays-in-c-how-to-use-them-4jgi)
-- [A Guide for Delete Pods from Kubernetes Nodes - kubectl delete](https://dev.to/refine/a-guide-for-delete-pods-from-kubernetes-nodes-kubectl-delete-394e)
-- [A Nazi Christmas at Substack](https://dev.to/jmfayard/a-nazi-christmas-at-substack-1m6f)
+- [Decoding the Protected Internal Access Modifier in C#: A Balance of Encapsulation and Collaboration](https://dev.to/hamidmolareza/decoding-the-protected-internal-access-modifier-in-c-a-balance-of-encapsulation-and-collaboration-49e3)
+- [CSS in Stylesheets](https://dev.to/lebbe/css-in-stylesheets-bke)
 <!-- BLOG-POST-LIST:END -->
 
