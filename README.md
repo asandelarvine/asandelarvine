@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [18 Awesome GitHub Repositories to Bookmark in 2024 🚀🏆](https://dev.to/madza/18-awesome-github-repositories-to-bookmark-in-2024-17kh)
-- [2D Arrays in C#: How To Use Them](https://dev.to/bytehide/2d-arrays-in-c-how-to-use-them-4jgi)
-- [Decoding the Protected Internal Access Modifier in C#: A Balance of Encapsulation and Collaboration](https://dev.to/hamidmolareza/decoding-the-protected-internal-access-modifier-in-c-a-balance-of-encapsulation-and-collaboration-49e3)
-- [CSS in Stylesheets](https://dev.to/lebbe/css-in-stylesheets-bke)
+- [In Rust for Python: A Match from Heaven](https://dev.to/proteusiq/in-rust-for-python-a-match-from-heaven-51fn)
+- [Building an Email-Protected Notion Page Using Next.js and React-Notion-X](https://dev.to/papermark/building-an-email-protected-notion-page-using-nextjs-and-react-notion-x-2mki)
+- [ChatGPT Systems: Prompt Injection and How to avoid ?](https://dev.to/shahwar_ai/chatgpt-systems-prompt-injection-and-how-to-avoid--2nc5)
+- [𝟓 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐭𝐨 𝐫𝐞𝐢𝐧𝐯𝐞𝐧𝐭 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐢𝐧 𝟐𝟎𝟐𝟒](https://dev.to/johnrushx/-to-reinvent-the-world-in-2024-1f7p)
 <!-- BLOG-POST-LIST:END -->
 
