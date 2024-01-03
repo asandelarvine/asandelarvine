@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using TypeScript with WebGL to render graphics on the web](https://dev.to/logrocket/using-typescript-with-webgl-to-render-graphics-on-the-web-5dpi)
 - [“Can&#39;t perform a React state update on an unmounted component” warning in React 18](https://dev.to/alaa-m1/cant-perform-a-react-state-update-on-an-unmounted-component-warning-in-react-18-5747)
+- [LangChain&#39;s 1st Module: Model I/O 🤖](https://dev.to/jaydeepb21/1st-module-model-io-4b6a)
 - [Unveiling the Power of Window and Ranking Functions in SQL](https://dev.to/ridhiarora/unveiling-the-power-of-window-and-ranking-functions-in-sql-f8f)
-- [Cloudformation templates for Cloudfront automatic cache invalidation using Lambda within CodePipeline](https://dev.to/maguzzi/cloudformation-templates-for-cloudfront-automatic-cache-invalidation-using-lambda-within-codepipeline-39ko)
-- [Mastering Caching in Nuxt 3: A Comprehensive Guide](https://dev.to/ymir/mastering-caching-in-nuxt-3-a-comprehensive-guide-22ea)
 <!-- BLOG-POST-LIST:END -->
 
