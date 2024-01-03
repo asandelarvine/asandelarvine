@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Essential Guide to Prompt Engineering for Creators and Innovators](https://dev.to/jeremycmorgan/the-essential-guide-to-prompt-engineering-for-creators-and-innovators-28pk)
-- [HTTP Status Codes: A Guide for Developers](https://dev.to/m__mdy__m/http-status-codes-a-guide-for-developers-822)
-- [Why and When to use Docker, Developing React App using Docker Container with Live Reload](https://dev.to/alaa-m1/why-and-when-to-use-docker-developing-react-app-using-docker-container-with-live-reload-5ei2)
-- [GO vs RUST speed test | Which one to choose in 2024](https://dev.to/mukeshkuiry/go-vs-rust-speed-test-which-one-to-choose-in-2024-1ck)
+- [Building Your First Streamlit Application: A Beginner&#39;s Guide](https://dev.to/shaheryaryousaf/building-your-first-streamlit-application-a-beginners-guide-14ki)
+- [Animated Sprite 2D](https://dev.to/eduardojuliao/animated-sprite-2d-147a)
+- [Era SOLID o que me faltava](https://dev.to/clintonrocha98/era-solid-o-que-me-faltava-bhp)
+- [😈 EvilDevOPS chatBOT is here &lpar;fork it!&rpar; 🤣](https://dev.to/adriens/evildevops-chatbot-is-here-fork-it-50hi)
 <!-- BLOG-POST-LIST:END -->
 
