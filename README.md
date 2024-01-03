@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Type-Safe Infrastructure in Go for Event-Driven Backends](https://dev.to/encore/using-type-safe-infrastructure-in-go-for-event-driven-backends-1831)
+- [Woovi Bets on JavaScript, Should You?](https://dev.to/gabriel-palhares/woovi-bets-on-javascript-should-you-2178)
+- [XRPL in December 2023: A Leap Forward into 2024](https://dev.to/xpmarket/xrpl-in-december-2023-a-leap-forward-into-2024-181b)
 - [Multimodal Chaining: GPT4 with ElevenLabs 🔊](https://dev.to/tanyarai/multimodal-chaining-gpt4-with-elevenlabs-1k8o)
-- [Terraform - Keep dependencies up to date with Dependabot &lpar;Azure DevOps version&rpar;](https://dev.to/pwd9000/terraform-keep-dependencies-up-to-date-with-dependabot-azure-devops-version-40kp)
-- [Paracetamol.py🐍| #09: Explica este código Python](https://dev.to/duxtech/paracetamolpy-09-explica-este-codigo-python-146g)
-- [API7 Solution: High Availability for B2B Services](https://dev.to/api7/api7-solution-high-availability-for-b2b-services-26ii)
 <!-- BLOG-POST-LIST:END -->
 
