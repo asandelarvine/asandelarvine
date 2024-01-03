@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Cloud Certifications and Skill Development](https://dev.to/bytesfarms/a-guide-to-cloud-certifications-and-skill-development-5fof)
 - [JavaScript Strings and String Methods as a Beginners you should know](https://dev.to/coderpink/javascript-strings-and-string-methods-as-a-beginners-you-should-know-2ckc)
+- [Hands On: Pull metrics into Kubernetes from anywhere and treat them generically with the Keptn Metrics Server](https://dev.to/agardnerit/hands-on-pull-metrics-into-kubernetes-from-anywhere-and-treat-them-generically-with-the-keptn-metrics-server-1c5n)
 - [Multi-dimensional Array](https://dev.to/sujithvsuresh/multi-dimensional-array-3mdi)
-- [Improving JOIN Performance: Foreign Key Pointerization](https://dev.to/esproc_spl/improving-join-performance-foreign-key-pointerization-4efl)
-- [Crushing it: My New Year&#39;s Resolutions for 2024](https://dev.to/cbid2/crushing-it-my-new-years-resolutions-for-2024-541l)
 <!-- BLOG-POST-LIST:END -->
 
