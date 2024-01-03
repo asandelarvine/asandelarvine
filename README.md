@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In Rust for Python: A Match from Heaven](https://dev.to/proteusiq/in-rust-for-python-a-match-from-heaven-51fn)
-- [Building an Email-Protected Notion Page Using Next.js and React-Notion-X](https://dev.to/papermark/building-an-email-protected-notion-page-using-nextjs-and-react-notion-x-2mki)
-- [ChatGPT Systems: Prompt Injection and How to avoid ?](https://dev.to/shahwar_ai/chatgpt-systems-prompt-injection-and-how-to-avoid--2nc5)
-- [𝟓 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐭𝐨 𝐫𝐞𝐢𝐧𝐯𝐞𝐧𝐭 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐢𝐧 𝟐𝟎𝟐𝟒](https://dev.to/johnrushx/-to-reinvent-the-world-in-2024-1f7p)
+- [A Better Alternative To Any CMS](https://dev.to/sskyy/a-better-alternative-to-any-cms-490f)
+- [String functions in C programming.](https://dev.to/sujithvsuresh/string-functions-in-c-programming-28hh)
+- [Full-Stack Toolbox 🧰: Python🐍 Edition](https://dev.to/taipy/full-stack-toolbox-python-edition-20h2)
+- [String in C programming.](https://dev.to/sujithvsuresh/string-in-c-programming-1egj)
 <!-- BLOG-POST-LIST:END -->
 
