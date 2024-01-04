@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About Forming a Professional Support Network](https://dev.to/theoriginalbpc/everything-you-need-to-know-about-forming-a-professional-support-network-472m)
-- [How to build a PDF invoice generator in minutes](https://dev.to/hackmamba/how-to-build-a-pdf-invoice-generator-in-minutes-49fh)
-- [Python &amp; OpenAI beginner journey 7 | Bot working &amp; JavaScript for front-end](https://dev.to/gregor_schafroth/python-openai-beginner-journey-7-bot-working-javascript-for-front-end-57f6)
-- [JavaScript Interview: Run loop without pre-determined method](https://dev.to/shameel/javascript-interview-run-loop-without-pre-determined-method-36g7)
+- [Taming the Flame: Securely Connecting Next.js and Firebase with TypeScript](https://dev.to/mungaben/taming-the-flame-securely-connecting-nextjs-and-firebase-with-typescript-28i1)
+- [API Authorization and Authentication](https://dev.to/neuml/api-authorization-and-authentication-237g)
+- [how to get more views](https://dev.to/daniellimae/how-to-get-more-views-1lah)
+- [Crafting Malicious Pluggable Authentication Modules for Persistence, Privilege Escalation, and Lateral Movement](https://dev.to/rosesecurity/crafting-malicious-pluggable-authentication-modules-for-persistence-privilege-escalation-and-lateral-movement-183i)
 <!-- BLOG-POST-LIST:END -->
 
