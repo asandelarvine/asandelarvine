@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Change Default Python On A Linux Machine](https://dev.to/furkangozukara/how-to-change-default-python-on-a-linux-machine-5ef)
-- [🚀 7 AI Tools to Improve your productivity: A Deep Dive 🪄✨](https://dev.to/ukanwat/7-ai-tools-to-improve-your-productivity-a-deep-dive-307)
-- [Generating temporary access actions in policies using Terraform with DATE and TIME conditions in AWS.](https://dev.to/segoja7/generating-temporary-access-actions-in-policies-using-terraform-with-date-and-time-conditions-in-aws-1e75)
-- [10 Cool CodePen Demos &lpar;December 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-december-2023-5105)
+- [No jobs for juniors in IT? 💻👩‍💻](https://dev.to/gpiechnik/no-jobs-for-juniors-in-it-3fii)
+- [Kubernetes Gateway API v1.0: Should You Switch?](https://dev.to/apisix/kubernetes-gateway-api-v10-should-you-switch-45c0)
+- [Quase tudo o que um usuário precisa saber sobre a Stack Overflow](https://dev.to/wonderwanny/quase-tudo-o-que-um-usuario-precisa-saber-sobre-a-stack-overflow-lo)
+- [How Did One Moment Alter Your Path?](https://dev.to/devteam/how-did-a-one-moment-alter-your-path-2g65)
 <!-- BLOG-POST-LIST:END -->
 
