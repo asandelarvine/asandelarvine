@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Next.js 14 Server Actions](https://dev.to/hackmamba/getting-started-with-nextjs-14-server-actions-3863)
+- [Getting started with Nuxt Server Handlers](https://dev.to/hackmamba/getting-started-with-nuxt-server-handlers-2in9)
+- [What is the use of React Router?](https://dev.to/arsalanmee/what-is-the-use-of-react-router-3053)
 - [Create a Login API Endpoint in 4 minutes](https://dev.to/polterguy/create-a-login-api-endpoint-in-4-minutes-m69)
-- [Network Cihazlarında SNMPv3 Nasıl Açılır ?](https://dev.to/aciklab/network-cihazlarinda-snmpv3-nasil-acilir--627)
-- [Small Business Ideas Make Money 2024](https://dev.to/johnmichaelkrohn/small-business-ideas-make-money-2024-3gm8)
-- [How to build your own SAAS business](https://dev.to/kwnaidoo/how-to-build-your-own-saas-business-2op0)
 <!-- BLOG-POST-LIST:END -->
 
