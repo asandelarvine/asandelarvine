@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Popular Go Frameworks and Libraries](https://dev.to/luthfisauqi17/exploring-popular-go-frameworks-and-libraries-3412)
+- [Cryptoflow: Building a secure and scalable system with Axum and SvelteKit - Part 0](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-0-mn5)
+- [Why name it Javascript though?Emascript](https://dev.to/mtendekuyokwa19/why-name-it-javascript-thoughemascript-50eh)
 - [10 open source tools that platform, SRE and DevOps engineers should consider in 2024.](https://dev.to/digger/10-open-source-tools-that-platform-sre-and-devops-engineers-should-consider-in-2024-2kkg)
-- [Building a React Native number pad feature from scratch](https://dev.to/logrocket/building-a-react-native-number-pad-feature-from-scratch-12ih)
-- [Don&#39;t waste 6 months on hiring DevOps, take the 10 Hours DevOps Pill](https://dev.to/michaelzion/dont-waste-6-months-on-hiring-devops-take-the-10-hours-devops-pill-40f9)
-- [Understanding ThreadPool in C#](https://dev.to/theramoliya/understanding-threadpool-in-c-203n)
 <!-- BLOG-POST-LIST:END -->
 
