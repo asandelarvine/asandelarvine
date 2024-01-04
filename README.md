@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Registration API in 15 minutes](https://dev.to/polterguy/create-a-registration-api-in-15-minutes-7nk)
+- [13 best React debugging tools](https://dev.to/zipy/13-best-react-debugging-tools-4288)
 - [Improving Azure AI Search results with semantic search](https://dev.to/willvelida/improving-azure-ai-search-results-with-semantic-search-1mpk)
-- [Introduction to Pandas and NumPy for Data Analysis](https://dev.to/ankithajitwta/introduction-to-pandas-and-numpy-for-data-analysis-2ip2)
-- [December NFT Highlights: Robust Growth and Key Shifts Shape Year-End Trends](https://dev.to/footprint-analytics/december-nft-highlights-robust-growth-and-key-shifts-shape-year-end-trends-3ile)
-- [Morocoin&#39;s Tokenization and Blockchain Insights](https://dev.to/morocoin12545/morocoins-tokenization-and-blockchain-insights-4c03)
+- [Improving Cloud performance and Availability](https://dev.to/aws-builders/improving-cloud-performance-and-availability-1lah)
 <!-- BLOG-POST-LIST:END -->
 
