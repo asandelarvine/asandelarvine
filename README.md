@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 open source tools that platform, SRE and DevOps engineers should consider in 2024.](https://dev.to/digger/10-open-source-tools-that-platform-sre-and-devops-engineers-should-consider-in-2024-2kkg)
+- [Building a React Native number pad feature from scratch](https://dev.to/logrocket/building-a-react-native-number-pad-feature-from-scratch-12ih)
 - [Don&#39;t waste 6 months on hiring DevOps, take the 10 Hours DevOps Pill](https://dev.to/michaelzion/dont-waste-6-months-on-hiring-devops-take-the-10-hours-devops-pill-40f9)
 - [Understanding ThreadPool in C#](https://dev.to/theramoliya/understanding-threadpool-in-c-203n)
-- [AWS Step Functions: Using Parallel State](https://dev.to/aws-builders/aws-step-functions-using-parallel-state-34dm)
-- [How to specify the data format when saving Excel via Python?](https://dev.to/luca1iu/how-to-specify-the-data-format-when-saving-excel-via-python-3eoh)
 <!-- BLOG-POST-LIST:END -->
 
