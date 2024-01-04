@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Server Components Vs. Server-side Rendering](https://dev.to/khriztianmoreno/server-components-vs-server-side-rendering-4ghe)
+- [How To Structure a Perfect Technical Tutorial?](https://dev.to/dunithd/how-to-structure-a-perfect-technical-tutorial-21h9)
 - [Codium | AI Assistant for DEVs](https://dev.to/shubhamtiwari909/codium-ai-assistant-for-devs-57of)
-- [🔥Matomo 5 UPGRADE - A step-by-step GUIDE 🤌](https://dev.to/glasskube/matomo-5-upgrade-a-step-by-step-guide-1ohe)
-- [🐍 8 backend repos used by the top 1% of python devs 🏆](https://dev.to/quine/8-backend-repos-used-by-the-top-1-of-python-devs-1fbj)
-- [Pointers in C programming.](https://dev.to/sujithvsuresh/pointers-in-c-programming-3ngp)
+- [Understanding the Twitter Hack of 2020: A Deep Dive](https://dev.to/nikitakoselev/understanding-the-twitter-hack-of-2020-a-deep-dive-2cf4)
 <!-- BLOG-POST-LIST:END -->
 
