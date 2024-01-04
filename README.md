@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy NodeJS REST API on ECS Fargate using AWS CodePipeline](https://dev.to/aws-builders/deploy-nodejs-rest-api-on-ecs-fargate-using-aws-codepipeline-coa)
 - [Create a Next.js Server Component S3 Picture Uploader with SST](https://dev.to/aws-builders/create-a-nextjs-server-component-s3-picture-uploader-with-sst-14d4)
 - [Practical Strategies for GraphQL API Rate Limiting](https://dev.to/api7/practical-strategies-for-graphql-api-rate-limiting-agg)
 - [Getting started with Next.js 14 Server Actions](https://dev.to/hackmamba/getting-started-with-nextjs-14-server-actions-3863)
-- [Getting started with Nuxt Server Handlers](https://dev.to/hackmamba/getting-started-with-nuxt-server-handlers-2in9)
 <!-- BLOG-POST-LIST:END -->
 
