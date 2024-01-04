@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Forming a Professional Support Network](https://dev.to/theoriginalbpc/everything-you-need-to-know-about-forming-a-professional-support-network-472m)
+- [How to build a PDF invoice generator in minutes](https://dev.to/hackmamba/how-to-build-a-pdf-invoice-generator-in-minutes-49fh)
+- [Python &amp; OpenAI beginner journey 7 | Bot working &amp; JavaScript for front-end](https://dev.to/gregor_schafroth/python-openai-beginner-journey-7-bot-working-javascript-for-front-end-57f6)
 - [JavaScript Interview: Run loop without pre-determined method](https://dev.to/shameel/javascript-interview-run-loop-without-pre-determined-method-36g7)
-- [Exploring the World of AWS Badges: A Comprehensive Guide](https://dev.to/davidshaek/almost-all-aws-badges-egi)
-- [Mastering the Art of Dynamic Content: A Guide to Harnessing DraftJS in React for Seamless Post Creation and Server Integration](https://dev.to/astrodev5945/mastering-the-art-of-dynamic-content-a-guide-to-harnessing-draftjs-in-react-for-seamless-post-creation-and-server-integration-5fgh)
-- [&lpar;de&rpar;Bugging](https://dev.to/drewclem/debugging-3lfn)
 <!-- BLOG-POST-LIST:END -->
 
