@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Interview: Run loop without pre-determined method](https://dev.to/shameel/javascript-interview-run-loop-without-pre-determined-method-36g7)
 - [Exploring the World of AWS Badges: A Comprehensive Guide](https://dev.to/davidshaek/almost-all-aws-badges-egi)
-- [Build The Perfect Developer CV: 6 Dumb Mistakes To Avoid In 2024](https://dev.to/dragosnedelcu/build-the-perfect-developer-cv-7-dumb-mistakes-to-avoid-in-2024-3p15)
 - [Mastering the Art of Dynamic Content: A Guide to Harnessing DraftJS in React for Seamless Post Creation and Server Integration](https://dev.to/astrodev5945/mastering-the-art-of-dynamic-content-a-guide-to-harnessing-draftjs-in-react-for-seamless-post-creation-and-server-integration-5fgh)
+- [&lpar;de&rpar;Bugging](https://dev.to/drewclem/debugging-3lfn)
 <!-- BLOG-POST-LIST:END -->
 
