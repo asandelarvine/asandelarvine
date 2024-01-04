@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Registration API in 15 minutes](https://dev.to/polterguy/create-a-registration-api-in-15-minutes-7nk)
-- [13 best React debugging tools](https://dev.to/zipy/13-best-react-debugging-tools-4288)
-- [Improving Azure AI Search results with semantic search](https://dev.to/willvelida/improving-azure-ai-search-results-with-semantic-search-1mpk)
-- [Improving Cloud performance and Availability](https://dev.to/aws-builders/improving-cloud-performance-and-availability-1lah)
+- [Create a Login API Endpoint in 4 minutes](https://dev.to/polterguy/create-a-login-api-endpoint-in-4-minutes-m69)
+- [Network Cihazlarında SNMPv3 Nasıl Açılır ?](https://dev.to/aciklab/network-cihazlarinda-snmpv3-nasil-acilir--627)
+- [Small Business Ideas Make Money 2024](https://dev.to/johnmichaelkrohn/small-business-ideas-make-money-2024-3gm8)
+- [How to build your own SAAS business](https://dev.to/kwnaidoo/how-to-build-your-own-saas-business-2op0)
 <!-- BLOG-POST-LIST:END -->
 
