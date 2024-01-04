@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Popular Go Frameworks and Libraries](https://dev.to/luthfisauqi17/exploring-popular-go-frameworks-and-libraries-3412)
-- [Cryptoflow: Building a secure and scalable system with Axum and SvelteKit - Part 0](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-0-mn5)
-- [Why name it Javascript though?Emascript](https://dev.to/mtendekuyokwa19/why-name-it-javascript-thoughemascript-50eh)
-- [10 open source tools that platform, SRE and DevOps engineers should consider in 2024.](https://dev.to/digger/10-open-source-tools-that-platform-sre-and-devops-engineers-should-consider-in-2024-2kkg)
+- [JavaScript Interview: Run loop without pre-determined method](https://dev.to/shameel/javascript-interview-run-loop-without-pre-determined-method-36g7)
+- [Exploring the World of AWS Badges: A Comprehensive Guide](https://dev.to/davidshaek/almost-all-aws-badges-egi)
+- [Build The Perfect Developer CV: 6 Dumb Mistakes To Avoid In 2024](https://dev.to/dragosnedelcu/build-the-perfect-developer-cv-7-dumb-mistakes-to-avoid-in-2024-3p15)
+- [Mastering the Art of Dynamic Content: A Guide to Harnessing DraftJS in React for Seamless Post Creation and Server Integration](https://dev.to/astrodev5945/mastering-the-art-of-dynamic-content-a-guide-to-harnessing-draftjs-in-react-for-seamless-post-creation-and-server-integration-5fgh)
 <!-- BLOG-POST-LIST:END -->
 
