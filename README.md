@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ditch REST, go intent based](https://dev.to/alertpix/ditch-rest-go-intent-based-34hp)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6l8)
-- [Beginners Guide to Managing User Roles and Pemissions in Node.js](https://dev.to/oyedeletemitope/beginners-guide-to-managing-user-roles-and-pemissions-4glc)
-- [Method Usage in C#: Detailed Guide](https://dev.to/bytehide/method-usage-in-c-detailed-guide-o9b)
-- [Web Server vs. Service Mesh vs. API Gateway: Which One is Right for You?](https://dev.to/apisix/web-server-vs-service-mesh-vs-api-gateway-which-one-is-right-for-you-1eke)
+- [Isolation Levels - part XIII: Explicit Locking with SELECT &lpar;FOR UPDATE&rpar; intention](https://dev.to/yugabyte/isolation-levels-part-xiii-explicit-locking-with-select-for-update-intention-4na3)
+- [Testing Fastify with Node:Test](https://dev.to/massimobiagioli/testing-fastify-with-nodetest-34lm)
 <!-- BLOG-POST-LIST:END -->
 
