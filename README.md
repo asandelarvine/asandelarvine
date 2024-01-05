@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Notifications to your system](https://dev.to/hasanelsherbiny/implementing-notifications-to-your-system-50i4)
-- [🌌 31 Open-Source Libraries to kickstart your journey 🗺️](https://dev.to/copilotkit/31-open-source-libraries-to-kickstart-your-journey-4hhd)
-- [¡Oportunidad única en el Microsoft Learn Cloud Skills Challenge!](https://dev.to/danieljsaldana/oportunidad-unica-en-el-microsoft-learn-cloud-skills-challenge-423f)
-- [Top React UI libraries for 2024](https://dev.to/alakkadshaw/top-react-ui-libraries-for-2024-4f21)
+- [Exploring Numeric Data in Python: Integers, Floats, and Operations](https://dev.to/ken_mwaura1/exploring-numeric-data-in-python-integers-floats-and-operations-2d9l)
+- [Vite makes your Remix dev productivity 10x in SaasRock v0.9.4](https://dev.to/alexandromtzg/vite-makes-your-remix-dev-productivity-10x-in-saasrock-v094-2978)
+- [Key Takeaways for Developers: iOS Development Trends in 2024](https://dev.to/romanburdiuzha/key-takeaways-for-developers-ios-development-trends-in-2024-2gki)
+- [Understanding the basics of React Refs](https://dev.to/programmergeek/understanding-the-basics-of-react-refs-3g1a)
 <!-- BLOG-POST-LIST:END -->
 
