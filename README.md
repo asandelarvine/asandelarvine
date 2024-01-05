@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Legacy modernization: Your path to efficiency and growth](https://dev.to/softwebsolution/legacy-modernization-your-path-to-efficiency-and-growth-1km1)
+- [📌 How to design cloud architectures?](https://dev.to/brainboard/how-to-design-cloud-architectures-bb6)
+- [Amazon Bedrock: Game-changing disruption in 4 sectors](https://dev.to/softwebsolution/amazon-bedrock-game-changing-disruption-in-4-sectors-2j72)
 - [AI For DevOps — Concepts, Benefits, and Tools](https://dev.to/hatica/ai-for-devops-concepts-benefits-and-tools-4lla)
-- [Do you know Closure in JavaScript ?](https://dev.to/mohammad1105/do-you-know-closure-in-javascript--4j95)
-- [[JS] What happens when “use strict” is defined](https://dev.to/yutakusuno/js-what-happens-when-use-strict-is-defined-566f)
-- [How Has a DEV Friendship Enriched Your Experience?](https://dev.to/devteam/how-has-a-dev-friendship-enriched-your-experience-5bh5)
 <!-- BLOG-POST-LIST:END -->
 
