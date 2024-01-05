@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6l8)
 - [Beginners Guide to Managing User Roles and Pemissions in Node.js](https://dev.to/oyedeletemitope/beginners-guide-to-managing-user-roles-and-pemissions-4glc)
 - [Method Usage in C#: Detailed Guide](https://dev.to/bytehide/method-usage-in-c-detailed-guide-o9b)
-- [Kubernetes CrashLoopBackOff - What is it and how to fix it?](https://dev.to/refine/kubernetes-crashloopbackoff-what-is-it-and-how-to-fix-it-4oad)
-- [📌 How to design cloud architectures?](https://dev.to/brainboard/how-to-design-cloud-architectures-bb6)
+- [Web Server vs. Service Mesh vs. API Gateway: Which One is Right for You?](https://dev.to/apisix/web-server-vs-service-mesh-vs-api-gateway-which-one-is-right-for-you-1eke)
 <!-- BLOG-POST-LIST:END -->
 
