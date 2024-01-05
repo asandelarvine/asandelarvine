@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Flame: Securely Connecting Next.js and Firebase with TypeScript](https://dev.to/mungaben/taming-the-flame-securely-connecting-nextjs-and-firebase-with-typescript-28i1)
-- [API Authorization and Authentication](https://dev.to/neuml/api-authorization-and-authentication-237g)
-- [how to get more views](https://dev.to/daniellimae/how-to-get-more-views-1lah)
-- [Crafting Malicious Pluggable Authentication Modules for Persistence, Privilege Escalation, and Lateral Movement](https://dev.to/rosesecurity/crafting-malicious-pluggable-authentication-modules-for-persistence-privilege-escalation-and-lateral-movement-183i)
+- [Pointer and Array in C programming.](https://dev.to/sujithvsuresh/pointer-and-array-in-c-programming-p1p)
+- [First Look: The Initial Wave of #DEVResolutions2024](https://dev.to/devteam/first-look-the-initial-wave-of-devresolutions2024-l4f)
+- [Sitecore XM Cloud - Webhooks demo](https://dev.to/sebasab/sitecore-xm-cloud-webhooks-demo-2jb)
+- [Unity + Arquitetura Model-View-Presenter?](https://dev.to/lepsistemas/unity-arquitetura-model-view-presenter-3ild)
 <!-- BLOG-POST-LIST:END -->
 
