@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Pointer and Array in C programming.](https://dev.to/sujithvsuresh/pointer-and-array-in-c-programming-p1p)
 - [First Look: The Initial Wave of #DEVResolutions2024](https://dev.to/devteam/first-look-the-initial-wave-of-devresolutions2024-l4f)
+- [[Desafio] - Race Condition em Sistemas Distribuídos](https://dev.to/zanfranceschi/desafio-race-condition-em-sistemas-distribuidos-5hb3)
 - [Sitecore XM Cloud - Webhooks demo](https://dev.to/sebasab/sitecore-xm-cloud-webhooks-demo-2jb)
-- [Unity + Arquitetura Model-View-Presenter?](https://dev.to/lepsistemas/unity-arquitetura-model-view-presenter-3ild)
 <!-- BLOG-POST-LIST:END -->
 
