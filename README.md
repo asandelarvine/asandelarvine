@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI For DevOps — Concepts, Benefits, and Tools](https://dev.to/hatica/ai-for-devops-concepts-benefits-and-tools-4lla)
 - [Do you know Closure in JavaScript ?](https://dev.to/mohammad1105/do-you-know-closure-in-javascript--4j95)
 - [[JS] What happens when “use strict” is defined](https://dev.to/yutakusuno/js-what-happens-when-use-strict-is-defined-566f)
 - [How Has a DEV Friendship Enriched Your Experience?](https://dev.to/devteam/how-has-a-dev-friendship-enriched-your-experience-5bh5)
-- [Pointer and Array in C programming.](https://dev.to/sujithvsuresh/pointer-and-array-in-c-programming-p1p)
 <!-- BLOG-POST-LIST:END -->
 
