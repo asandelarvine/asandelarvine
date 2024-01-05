@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Numeric Data in Python: Integers, Floats, and Operations](https://dev.to/ken_mwaura1/exploring-numeric-data-in-python-integers-floats-and-operations-2d9l)
-- [Vite makes your Remix dev productivity 10x in SaasRock v0.9.4](https://dev.to/alexandromtzg/vite-makes-your-remix-dev-productivity-10x-in-saasrock-v094-2978)
-- [Key Takeaways for Developers: iOS Development Trends in 2024](https://dev.to/romanburdiuzha/key-takeaways-for-developers-ios-development-trends-in-2024-2gki)
-- [Understanding the basics of React Refs](https://dev.to/programmergeek/understanding-the-basics-of-react-refs-3g1a)
+- [We are multi-talented](https://dev.to/nandinishinduja/we-are-multi-talented-2n63)
+- [Top 5 High Demand Programming Languages in 2024](https://dev.to/jaydeepb21/top-5-highly-sought-after-programming-languages-in-2024-548l)
+- [Underestimating rust for my Project.](https://dev.to/surajraika/underestimating-rust-for-my-project-5793)
+- [Mastering Node.js: From Fundamentals to Production-Ready Apps](https://dev.to/sanketkalekar/mastering-nodejs-from-fundamentals-to-production-ready-apps-1230)
 <!-- BLOG-POST-LIST:END -->
 
