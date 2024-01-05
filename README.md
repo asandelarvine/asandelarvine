@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We Tested 40 Python Courses. Here Are the Best. 👨‍💻🚀](https://dev.to/brian_curricular/we-tested-40-python-courses-here-are-the-best-1jb1)
+- [10 Must-Know Git Commands for Software Engineers](https://dev.to/mukeshkuiry/10-must-know-git-commands-for-software-engineers-3733)
+- [How to test the performance of a webpage](https://dev.to/nandinishinduja/how-to-test-the-performance-of-a-webpage-59pm)
 - [We are multi-talented](https://dev.to/nandinishinduja/we-are-multi-talented-2n63)
-- [Top 5 High Demand Programming Languages in 2024](https://dev.to/jaydeepb21/top-5-highly-sought-after-programming-languages-in-2024-548l)
-- [Underestimating rust for my Project.](https://dev.to/surajraika/underestimating-rust-for-my-project-5793)
-- [Mastering Node.js: From Fundamentals to Production-Ready Apps](https://dev.to/sanketkalekar/mastering-nodejs-from-fundamentals-to-production-ready-apps-1230)
 <!-- BLOG-POST-LIST:END -->
 
