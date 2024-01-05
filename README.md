@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Your Website: Tips for Lightning-Fast Page Speed ⚡](https://dev.to/baransel/turbocharge-your-website-tips-for-lightning-fast-page-speed-428e)
-- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions.](https://dev.to/kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-4bk9)
-- [5 Ways to Convert String to a Number in JavaScript](https://dev.to/alakkadshaw/5-ways-to-convert-string-to-a-number-in-javascript-1c0)
-- [Lua Quick Reference 🔎](https://dev.to/jd2r/lua-quick-reference-4ij0)
+- [Understanding React Routing Using React Router](https://dev.to/iankcode/understanding-react-routing-using-react-router-19dk)
+- [Testing NgRx Store with Cypress Component Testing](https://dev.to/angular/testing-ngrx-store-with-cypress-component-testing-52bm)
+- [How to Use Function Calling with OpenAI&#39;s new Tools Feature to Solve Word Problems](https://dev.to/ajones_codes/how-to-use-function-calling-with-openais-new-tools-feature-to-solve-word-problems-5146)
+- [S.O.L.I.D no Front End](https://dev.to/edsonalencar/solid-no-front-end-3c9m)
 <!-- BLOG-POST-LIST:END -->
 
