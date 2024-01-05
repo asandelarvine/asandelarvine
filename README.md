@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy modernization: Your path to efficiency and growth](https://dev.to/softwebsolution/legacy-modernization-your-path-to-efficiency-and-growth-1km1)
+- [Kubernetes CrashLoopBackOff - What is it and how to fix it?](https://dev.to/refine/kubernetes-crashloopbackoff-what-is-it-and-how-to-fix-it-4oad)
 - [📌 How to design cloud architectures?](https://dev.to/brainboard/how-to-design-cloud-architectures-bb6)
 - [Amazon Bedrock: Game-changing disruption in 4 sectors](https://dev.to/softwebsolution/amazon-bedrock-game-changing-disruption-in-4-sectors-2j72)
-- [AI For DevOps — Concepts, Benefits, and Tools](https://dev.to/hatica/ai-for-devops-concepts-benefits-and-tools-4lla)
+- [Building a Modular Ecosystem for Code Reusability](https://dev.to/zelcion/meta-system-addons-building-a-modular-ecosystem-for-code-reusability-28ai)
 <!-- BLOG-POST-LIST:END -->
 
