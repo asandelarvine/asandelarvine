@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who&#39;s looking for open source contributors? &lpar;week 64&rpar;](https://dev.to/bekahhw/whos-looking-for-open-source-contributors-week-64-n91)
-- [Why I Personally Decided to Bet on JavaScript](https://dev.to/gabriel-palhares/why-i-personally-decided-to-bet-on-javascript-fm2)
-- [Criando modal/popover sem JS e CSS em 1 min!](https://dev.to/iurynogueira/criando-modalpopover-sem-js-e-css-em-1-min-5ebk)
-- [Node.js Explained: A Beginner&#39;s Guide to Server-Side JavaScript Runtime](https://dev.to/ihssmaheel/nodejs-explained-a-beginners-guide-to-server-side-javascript-runtime-319n)
+- [Implementing Notifications to your system](https://dev.to/hasanelsherbiny/implementing-notifications-to-your-system-50i4)
+- [🌌 31 Open-Source Libraries to kickstart your journey 🗺️](https://dev.to/copilotkit/31-open-source-libraries-to-kickstart-your-journey-4hhd)
+- [¡Oportunidad única en el Microsoft Learn Cloud Skills Challenge!](https://dev.to/danieljsaldana/oportunidad-unica-en-el-microsoft-learn-cloud-skills-challenge-423f)
+- [Top React UI libraries for 2024](https://dev.to/alakkadshaw/top-react-ui-libraries-for-2024-4f21)
 <!-- BLOG-POST-LIST:END -->
 
