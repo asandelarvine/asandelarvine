@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Guide to Managing User Roles and Pemissions in Node.js](https://dev.to/oyedeletemitope/beginners-guide-to-managing-user-roles-and-pemissions-4glc)
+- [Method Usage in C#: Detailed Guide](https://dev.to/bytehide/method-usage-in-c-detailed-guide-o9b)
 - [Kubernetes CrashLoopBackOff - What is it and how to fix it?](https://dev.to/refine/kubernetes-crashloopbackoff-what-is-it-and-how-to-fix-it-4oad)
 - [📌 How to design cloud architectures?](https://dev.to/brainboard/how-to-design-cloud-architectures-bb6)
-- [Amazon Bedrock: Game-changing disruption in 4 sectors](https://dev.to/softwebsolution/amazon-bedrock-game-changing-disruption-in-4-sectors-2j72)
-- [Building a Modular Ecosystem for Code Reusability](https://dev.to/zelcion/meta-system-addons-building-a-modular-ecosystem-for-code-reusability-28ai)
 <!-- BLOG-POST-LIST:END -->
 
