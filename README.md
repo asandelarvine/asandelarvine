@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [The Lua Tutorial](https://dev.to/jd2r/the-lua-tutorial-544b)
 - [Google Docs Viewer - view/embed various file types directly in their BROWSER without the need for downloading](https://dev.to/sh20raj/google-docs-viewer-viewembed-various-file-types-directly-in-their-browser-without-the-need-for-downloading-59p8)
+- [Bisecting vendors](https://dev.to/greg0ire/bisecting-vendors-12kd)
 - [Ditch REST, go intent based](https://dev.to/alertpix/ditch-rest-go-intent-based-34hp)
-- [Why should you use a monorepo for your Product?](https://dev.to/woovi/why-should-you-use-a-monorepo-for-your-product-3led)
 <!-- BLOG-POST-LIST:END -->
 
