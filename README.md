@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3p4j)
+- [API completa em Golang - Parte 5](https://dev.to/wiliamvj/api-completa-em-golang-parte-5-4lbo)
+- [Meow | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-3j0b)
 - [Unveiling the Power of AWS EC2: An Introduction to Elastic Compute Cloud.](https://dev.to/oncloud7/unveiling-the-power-of-aws-ec2-an-introduction-to-elastic-compute-cloud-471m)
-- [Build, Collaborate, Learn: Remote Projects V46 Showcase](https://dev.to/chingu/build-collaborate-learn-remote-projects-v46-showcase-2fkb)
-- [How to Make Money in 2024 as a Freelance Developer](https://dev.to/kemuhost/how-to-make-money-in-2024-as-a-freelance-developer-2mn3)
-- [GANs 101: Unraveling the Wonders of Generative Adversarial Networks 🌌](https://dev.to/sahilmadhyan/gans-101-unraveling-the-wonders-of-generative-adversarial-networks-5a18)
 <!-- BLOG-POST-LIST:END -->
 
