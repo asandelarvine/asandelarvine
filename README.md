@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Year summary - books I recommend](https://dev.to/grzegorzgrzegorz/year-summary-books-i-recommend-26n9)
 - [The Art of Clean Code in Web Development](https://dev.to/bartzalewski/the-art-of-clean-code-in-web-development-6aa)
 - [Ramblings on HTML Page Structure and Bootstrap](https://dev.to/laustke/ramblings-on-html-page-structure-and-bootstrap-2h2a)
 - [☸️ Kubernetes: A Pragmatic Kubectl Aliases Collection](https://dev.to/zenika/kubernetes-a-pragmatic-kubectl-aliases-collection-17oc)
-- [Developing AWS Lambda Functions In Locally](https://dev.to/randiakm/developing-aws-lambda-functions-locally-4iam)
 <!-- BLOG-POST-LIST:END -->
 
