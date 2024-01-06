@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React Routing Using React Router](https://dev.to/iankcode/understanding-react-routing-using-react-router-19dk)
-- [Testing NgRx Store with Cypress Component Testing](https://dev.to/angular/testing-ngrx-store-with-cypress-component-testing-52bm)
-- [How to Use Function Calling with OpenAI&#39;s new Tools Feature to Solve Word Problems](https://dev.to/ajones_codes/how-to-use-function-calling-with-openais-new-tools-feature-to-solve-word-problems-5146)
-- [S.O.L.I.D no Front End](https://dev.to/edsonalencar/solid-no-front-end-3c9m)
+- [Milvus Adventures Jan 5, 2023](https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb)
+- [Do You Have a Mantra That Guides You?](https://dev.to/devteam/do-you-have-a-mantra-that-guides-you-17bf)
+- [Open Source Advent Fun Wraps Up!](https://dev.to/chrischurilo/open-source-advent-fun-wraps-up-1i0d)
+- [Git Prom! My Favorite Git Alias](https://dev.to/technosophos/git-prom-my-favorite-git-alias-2mbd)
 <!-- BLOG-POST-LIST:END -->
 
