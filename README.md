@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
-- [⚡Top GitHub Repositories for UI Components](https://dev.to/dev_kiran/top-github-repositories-for-ui-components-dg4)
-- [Master Git with Interactive Learning Platforms! 🚀](https://dev.to/kevinrawal/master-git-with-interactive-learning-platforms-4ohk)
-- [Django Stripe Tutorial](https://dev.to/learndjango/django-stripe-tutorial-3kco)
+- [Enhancing Merge Requests with Vedro and GitLab Test Reports](https://dev.to/mickeystreicher/enhancing-merge-requests-with-vedro-and-gitlab-test-reports-1cl9)
+- [Writing type safe API clients in TypeScript](https://dev.to/nazeelashraf/writing-type-safe-api-clients-in-typescript-1j92)
+- [Learn NextGenCSS🔥 with Project in 4 minutes !?!?](https://dev.to/rudransh61/learn-nextgencss-with-project-in-4-minutes--23b0)
+- [Create a custom cursor](https://dev.to/phuocng/create-a-custom-cursor-2imf)
 <!-- BLOG-POST-LIST:END -->
 
