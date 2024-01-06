@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
 - [⚡Top GitHub Repositories for UI Components](https://dev.to/dev_kiran/top-github-repositories-for-ui-components-dg4)
 - [Master Git with Interactive Learning Platforms! 🚀](https://dev.to/kevinrawal/master-git-with-interactive-learning-platforms-4ohk)
 - [Django Stripe Tutorial](https://dev.to/learndjango/django-stripe-tutorial-3kco)
-- [Milvus Adventures Jan 5, 2023](https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb)
 <!-- BLOG-POST-LIST:END -->
 
