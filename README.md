@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Milvus Adventures Jan 5, 2023](https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb)
-- [Do You Have a Mantra That Guides You?](https://dev.to/devteam/do-you-have-a-mantra-that-guides-you-17bf)
-- [Open Source Advent Fun Wraps Up!](https://dev.to/chrischurilo/open-source-advent-fun-wraps-up-1i0d)
-- [Git Prom! My Favorite Git Alias](https://dev.to/technosophos/git-prom-my-favorite-git-alias-2mbd)
+- [Mini Micro Web-Runner CLI](https://dev.to/sebnozzi/mini-micro-web-runner-cli-268f)
+- [2024, me voilà ! 🤩](https://dev.to/thomasbnt/2024-me-voila--45ec)
+- [T3 stack with app router and supabase](https://dev.to/isaacdyor/t3-stack-with-app-router-and-supabase-jh9)
 <!-- BLOG-POST-LIST:END -->
 
