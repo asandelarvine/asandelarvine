@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [mdka: Rust crate to convert HTML to Markdown](https://dev.to/nabbisen/mdka-rust-crate-to-convert-html-to-markdown-3bf1)
-- [Unleash the Power of AI with Menu Generator](https://dev.to/aimenugenerator/unleash-the-power-of-ai-with-menu-generator-d1c)
-- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3p4j)
-- [Thank you 2023, onwards to 2024](https://dev.to/anuradhakumari/thank-you-2023-onwards-to-2024-m56)
+- [The Art of Clean Code in Web Development](https://dev.to/bartzalewski/the-art-of-clean-code-in-web-development-6aa)
+- [Ramblings on HTML Page Structure and Bootstrap](https://dev.to/laustke/ramblings-on-html-page-structure-and-bootstrap-2h2a)
+- [☸️ Kubernetes: A Pragmatic Kubectl Aliases Collection](https://dev.to/zenika/kubernetes-a-pragmatic-kubectl-aliases-collection-17oc)
+- [Developing AWS Lambda Functions In Locally](https://dev.to/randiakm/developing-aws-lambda-functions-locally-4iam)
 <!-- BLOG-POST-LIST:END -->
 
