@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Mastering Frontend Development: A Comprehensive Roadmap 🌐💻](https://dev.to/aajinkya/mastering-frontend-development-a-comprehensive-roadmap-30b6)
+- [Creating a modular typography scale with CSS](https://dev.to/carmenansio/creating-a-modular-typography-scale-with-css-2d29)
 - [Year summary - books I recommend](https://dev.to/grzegorzgrzegorz/year-summary-books-i-recommend-26n9)
 - [Rust Learning Note: Writing a Simple Tokio](https://dev.to/raineyanguoft/rust-learning-notewriting-a-simple-tokio-2h2g)
-- [Streamlining Home Entertainment: How to Use a Linux Machine for Streaming Content to Smart TVs and More](https://dev.to/ietxaniz/streamlining-home-entertainment-how-to-use-a-linux-machine-for-streaming-content-to-smart-tvs-and-more-dgg)
-- [The Art of Clean Code in Web Development](https://dev.to/bartzalewski/the-art-of-clean-code-in-web-development-6aa)
 <!-- BLOG-POST-LIST:END -->
 
