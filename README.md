@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [My 2023 Year in Review](https://dev.to/nickytonline/my-2023-year-in-review-33ep)
+- [Optimizing Docker Images with Multi-Stage Builds and Distroless Approach](https://dev.to/suzuki0430/optimizing-docker-images-with-multi-stage-builds-and-distroless-approach-h0l)
 - [S3MER - Advanced Customizable Live Streaming Platform](https://dev.to/ricardogesteves/s3mer-advanced-customizable-live-streaming-platform-3g8j)
 - [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-builders/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-5931)
-- [Lazy.nvim: plugin configuration](https://dev.to/vonheikemen/lazynvim-plugin-configuration-3opi)
 <!-- BLOG-POST-LIST:END -->
 
