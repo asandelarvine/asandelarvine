@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [El fascinante viaje de DevOps: Desde Gante hasta el mundo](https://dev.to/danieljsaldana/el-fascinante-viaje-de-devops-desde-gante-hasta-el-mundo-l0b)
+- [Scaling the Cloud: Vertical and Horizontal Scaling Strategies](https://dev.to/mirzabilal/scaling-the-cloud-vertical-and-horizontal-scaling-strategies-591b)
 - [CodeBehind 2.1; aspx Back to ASP.NET Core](https://dev.to/elanatframework/codebehind-21-aspx-back-to-aspnet-core-5bj6)
 - [Mastering UI Psychology: A Technical Deep Dive with React, TypeScript, and Tailwind CSS](https://dev.to/bobbyhalljr/mastering-ui-psychology-a-technical-deep-dive-with-react-typescript-and-tailwind-css-2nc7)
-- [Excel Wizardry in Laravel 🚀](https://dev.to/mazimez/excel-wizardry-in-laravel-100)
-- [Stop using Google to lookup error codes and write your own error lookup class.](https://dev.to/antidisestablishmentarianism/stop-using-google-to-lookup-error-codes-and-write-your-own-error-lookup-class-2369)
 <!-- BLOG-POST-LIST:END -->
 
