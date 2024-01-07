@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [What is Semantic Versioning and why you should use it for your software ?](https://dev.to/zied_ghalleb/what-is-semantic-versioning-and-why-you-should-use-it-for-your-software--3449)
 - [Authenticate nextjs application with hanko frontend auth.](https://dev.to/ismailmirza/authenticate-nextjs-application-with-hanko-frontend-auth-4i39)
+- [Data Diaries: Unveiling Weekly Insights Chapter by Chapter 🚀 | #DataScience #DataAnalysis #DataEngineering #LearningJourney](https://dev.to/nitinbhatt46/data-diaries-unveiling-weekly-insights-chapter-by-chapter-datascience-dataanalysis-dataengineering-learningjourney-4ch5)
 - [How to write code fast and efficiently ❓](https://dev.to/dhanushnehru/how-to-write-code-fast-and-efficiently-3ji7)
-- [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 <!-- BLOG-POST-LIST:END -->
 
