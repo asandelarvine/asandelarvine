@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handle component state using local storage: useLocalStorage with Typescript](https://dev.to/alaa-m1/handle-component-state-using-local-storage-uselocalstorage-with-typescript-29g4)
+- [SwiftUI UI Layout Introduction](https://dev.to/happyer/swiftui-ui-layout-introduction-l16)
 - [OneTrainer Stable Diffusion XL &lpar;SDXL&rpar; Fine Tuning Best Presets](https://dev.to/furkangozukara/onetrainer-stable-diffusion-xl-sdxl-fine-tuning-best-presets-28am)
 - [Face Hop animation using CSS and Js](https://dev.to/codingcss/face-hop-animation-using-css-and-js-3co0)
-- [Scraping Data from Websites using JavaScript: A Beginner&#39;s Guide](https://dev.to/redheadphone/scraping-data-from-websites-using-javascript-a-beginners-guide-1f1)
-- [Generate High-Quality Thumbnails with an AI Tool](https://dev.to/aithumbnailmaker/generate-high-quality-thumbnails-with-an-ai-tool-fe5)
 <!-- BLOG-POST-LIST:END -->
 
