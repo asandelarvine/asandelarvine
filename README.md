@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [El fascinante viaje de DevOps: Desde Gante hasta el mundo](https://dev.to/danieljsaldana/el-fascinante-viaje-de-devops-desde-gante-hasta-el-mundo-l0b)
-- [Scaling the Cloud: Vertical and Horizontal Scaling Strategies](https://dev.to/mirzabilal/scaling-the-cloud-vertical-and-horizontal-scaling-strategies-591b)
-- [What is your challenge of this month?](https://dev.to/thomasbnt/what-is-your-challenge-of-this-month-24kd)
-- [CodeBehind 2.1; aspx Back to ASP.NET Core](https://dev.to/elanatframework/codebehind-21-aspx-back-to-aspnet-core-5bj6)
+- [Creating an Elixir library for Spell Checking](https://dev.to/byronsalty/creating-an-elixir-library-for-spell-checking-feo)
+- [Build your own Vue UI library with Unstyled PrimeVue Core and Tailwind CSS](https://dev.to/cagataycivici/build-your-own-vue-ui-library-with-unstyled-primevue-core-and-tailwind-css-23ll)
+- [Pinterest’s Epic Journey from 10K to 22M Users with Just 6 Engineers 🚀🤯](https://dev.to/devangtomar/pinterests-epic-journey-from-10k-to-22m-users-with-just-6-engineers-51k)
+- [What is integration testing in UI/Front End?](https://dev.to/gxrobb/what-is-integration-testing-in-uifront-end-1mlc)
 <!-- BLOG-POST-LIST:END -->
 
