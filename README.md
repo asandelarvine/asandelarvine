@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Securing Web Applications: Identifying and Mitigating Common Vulnerabilities](https://dev.to/zee_codes/securing-web-applications-identifying-and-mitigating-common-vulnerabilities-490o)
 - [Space Complexity for Java Dev : Beginners](https://dev.to/dashgriva/space-complexity-for-java-dev-beginners-5688)
+- [AWS Pattern: Mastering Serverless Error Handling with SQS and Dead Letter Queue &lpar;DLQ&rpar;](https://dev.to/am_i_dev/aws-pattern-mastering-serverless-error-handling-with-sqs-and-dead-letter-queue-dlq-4b10)
 - [MiniScript Roundup #12](https://dev.to/synapticbytes/miniscript-roundup-12-1dcd)
-- [Build an OTP input field](https://dev.to/phuocng/build-an-otp-input-field-33m8)
 <!-- BLOG-POST-LIST:END -->
 
