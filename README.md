@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Excel Wizardry in Laravel 🚀](https://dev.to/mazimez/excel-wizardry-in-laravel-100)
+- [Stop using Google to lookup error codes and write your own error lookup class.](https://dev.to/antidisestablishmentarianism/stop-using-google-to-lookup-error-codes-and-write-your-own-error-lookup-class-2369)
+- [Building a Kubernetes Operator with the Operator Framework](https://dev.to/patrickdomnick/building-a-kubernetes-operator-with-the-operator-framework-5fh0)
 - [What is Semantic Versioning and why you should use it for your software ?](https://dev.to/zied_ghalleb/what-is-semantic-versioning-and-why-you-should-use-it-for-your-software--3449)
-- [Authenticate nextjs application with hanko frontend auth.](https://dev.to/ismailmirza/authenticate-nextjs-application-with-hanko-frontend-auth-4i39)
-- [Data Diaries: Unveiling Weekly Insights Chapter by Chapter 🚀 | #DataScience #DataAnalysis #DataEngineering #LearningJourney](https://dev.to/nitinbhatt46/data-diaries-unveiling-weekly-insights-chapter-by-chapter-datascience-dataanalysis-dataengineering-learningjourney-4ch5)
-- [How to write code fast and efficiently ❓](https://dev.to/dhanushnehru/how-to-write-code-fast-and-efficiently-3ji7)
 <!-- BLOG-POST-LIST:END -->
 
