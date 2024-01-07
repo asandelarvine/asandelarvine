@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Face Hop animation using CSS and Js](https://dev.to/codingcss/face-hop-animation-using-css-and-js-3co0)
+- [Scraping Data from Websites using JavaScript: A Beginner&#39;s Guide](https://dev.to/redheadphone/scraping-data-from-websites-using-javascript-a-beginners-guide-1f1)
+- [Generate High-Quality Thumbnails with an AI Tool](https://dev.to/aithumbnailmaker/generate-high-quality-thumbnails-with-an-ai-tool-fe5)
 - [Brainfuck Interpreter in C](https://dev.to/timgabrikowski/brainfuck-interpreter-in-c-1b6p)
-- [🌟 Embracing the Single Responsibility Principle for Better Code Quality in Object-Oriented Programming 🚀🌈🖋️](https://dev.to/mohitkadwe19/embracing-the-single-responsibility-principle-for-better-code-quality-in-object-oriented-programming-20f4)
-- [Learn Ruby From A to Z](https://dev.to/sagarkattel/learn-ruby-from-a-to-z-2kb4)
-- [Securing Web Applications: Identifying and Mitigating Common Vulnerabilities](https://dev.to/zee_codes/securing-web-applications-identifying-and-mitigating-common-vulnerabilities-490o)
 <!-- BLOG-POST-LIST:END -->
 
