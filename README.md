@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World in Go From Rust](https://dev.to/obbap/hello-world-in-go-from-rust-3jj8)
+- [How to Plan Scope and Budget for a Freelance Project](https://dev.to/theoriginalbpc/how-to-plan-scope-and-budget-for-a-freelance-project-1egp)
 - [Creating an Elixir library for Spell Checking](https://dev.to/byronsalty/creating-an-elixir-library-for-spell-checking-feo)
-- [Build your own Vue UI library with Unstyled PrimeVue Core and Tailwind CSS](https://dev.to/cagataycivici/build-your-own-vue-ui-library-with-unstyled-primevue-core-and-tailwind-css-23ll)
-- [Pinterest’s Epic Journey from 10K to 22M Users with Just 6 Engineers 🚀🤯](https://dev.to/devangtomar/pinterests-epic-journey-from-10k-to-22m-users-with-just-6-engineers-51k)
-- [What is integration testing in UI/Front End?](https://dev.to/gxrobb/what-is-integration-testing-in-uifront-end-1mlc)
+- [TypeScript: A teaser for curious JS devs](https://dev.to/idadelveloper/typescript-a-teaser-for-curious-js-devs-1ndk)
 <!-- BLOG-POST-LIST:END -->
 
