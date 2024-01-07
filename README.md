@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Type Annotation vs Type Inference](https://dev.to/harshit_senpai/type-annotation-vs-type-inference-521j)
+- [Everything about Docker volumes](https://dev.to/rimelek/everything-about-docker-volumes-1ib0)
+- [Web Development for Beginners: A Roadmap to Get Started](https://dev.to/bartzalewski/web-development-for-beginners-a-roadmap-to-get-started-gfb)
 - [Hello World in Go From Rust](https://dev.to/obbap/hello-world-in-go-from-rust-3jj8)
-- [How to Plan Scope and Budget for a Freelance Project](https://dev.to/theoriginalbpc/how-to-plan-scope-and-budget-for-a-freelance-project-1egp)
-- [Creating an Elixir library for Spell Checking](https://dev.to/byronsalty/creating-an-elixir-library-for-spell-checking-feo)
-- [TypeScript: A teaser for curious JS devs](https://dev.to/idadelveloper/typescript-a-teaser-for-curious-js-devs-1ndk)
 <!-- BLOG-POST-LIST:END -->
 
