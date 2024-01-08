@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting to Know You - Speeding up Developer Onboarding with LLMs and Unblocked](https://dev.to/mbogan/getting-to-know-you-speeding-up-developer-onboarding-with-llms-and-unblocked-2l5c)
-- [✨ Top 10 tools to learn what&#39;s going on in your app ✨](https://dev.to/nevodavid/top-10-tools-to-learn-whats-going-on-in-your-app-20em)
-- [Let&#39;s understand and make our API requests professional with HTTPInterceptor like a Pro](https://dev.to/renancferro/lets-understand-and-make-our-api-requests-professional-with-httpinterceptor-like-a-pro-20b9)
-- [La brecha digital: Accesibilidad y la tercera edad](https://dev.to/miasalazar/la-brecha-digital-accesibilidad-y-personas-mayores-531c)
+- [Fortify Your Elastic Load Balancer: Best Practices for Secure API Gateway Integration](https://dev.to/vng_bach/fortify-your-elastic-load-balancer-best-practices-for-secure-api-gateway-integration-iab)
+- [What are your goals for week 2 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-2-of-2024-4dce)
+- [FLaNK Weekly 08 Jan 2024](https://dev.to/tspannhw/flank-weekly-08-jan-2024-49do)
+- [Know about HTTP/1.0 &amp; HTTP/2](https://dev.to/seek4samurai/know-about-http10-http2-1ep6)
 <!-- BLOG-POST-LIST:END -->
 
