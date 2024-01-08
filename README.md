@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazy Load Fonts in Next.js with Web Components](https://dev.to/seeratawan01/lazy-load-fonts-in-nextjs-with-web-components-54cd)
-- [CRUD and SQL - the basics!](https://dev.to/grahamthedev/crud-and-sql-the-basics-55j1)
-- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 2](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-2-24i0)
-- [Navigating 2024 with Software Development, Tech Training, and Open Source Aspirations](https://dev.to/evansifyke/navigating-2024-with-software-development-tech-training-and-open-source-aspirations-1e)
+- [#BTC has broken through the $47,000 mark! 🚀🚀🚀🚀🚀](https://dev.to/irmakork/btc-has-broken-through-the-47000-mark-d9f)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1i5k)
+- [Mastering Pattern-Matching in Elixir](https://dev.to/olaleyeblessing/mastering-pattern-matching-in-elixir-5hb1)
+- [Why does DEV not respect blocking?](https://dev.to/ooosys/why-does-dev-not-respect-blocking-2mg)
 <!-- BLOG-POST-LIST:END -->
 
