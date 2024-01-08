@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ağ Sanallaştırma ve overlay protokoller](https://dev.to/aciklab/ag-sanallastirma-ve-overlay-protokoller-59db)
 - [Reflowable eBooks Guide: Why Use Reflowable Text in Your eBooks?](https://dev.to/alphaebook/reflowable-ebooks-guide-why-use-reflowable-text-in-your-ebooks-2pic)
 - [Convert MP4 File To Black And White Using GStreamer](https://dev.to/ethand91/convert-mp4-file-to-black-and-white-using-gstreamer-3dp6)
 - [What is DevFinOps? Why It is Important?](https://dev.to/hatica/what-is-devfinops-why-it-is-important-2jgk)
-- [How to add Astro social share to your Astro application](https://dev.to/femi_dev/how-to-add-astro-social-share-to-your-astro-application-4bl1)
 <!-- BLOG-POST-LIST:END -->
 
