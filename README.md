@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve your work - Windows keyboard shortcuts](https://dev.to/wlepczynski/improve-your-work-windows-keyboard-shortcuts-21lk)
-- [Who is coming to FOSDEM 2024?](https://dev.to/bogomil/who-is-coming-to-fosdem-2024-572c)
-- [Cyclops: Making Kubernetes Simple for Everyone](https://dev.to/sarathadhithya/cyclops-making-kubernetes-simple-for-everyone-4741)
-- [When do you know you should change teams](https://dev.to/nandinishinduja/when-do-you-know-you-should-change-teams-2m29)
+- [Getting to Know You - Speeding up Developer Onboarding with LLMs and Unblocked](https://dev.to/mbogan/getting-to-know-you-speeding-up-developer-onboarding-with-llms-and-unblocked-2l5c)
+- [✨ Top 10 tools to learn what&#39;s going on in your app ✨](https://dev.to/nevodavid/top-10-tools-to-learn-whats-going-on-in-your-app-20em)
+- [Let&#39;s understand and make our API requests professional with HTTPInterceptor like a Pro](https://dev.to/renancferro/lets-understand-and-make-our-api-requests-professional-with-httpinterceptor-like-a-pro-20b9)
+- [La brecha digital: Accesibilidad y la tercera edad](https://dev.to/miasalazar/la-brecha-digital-accesibilidad-y-personas-mayores-531c)
 <!-- BLOG-POST-LIST:END -->
 
