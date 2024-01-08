@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to safely use dangerouslySetInnerHTML in React](https://dev.to/alakkadshaw/how-to-safely-use-dangerouslysetinnerhtml-in-react-57l1)
 - [Weekly Roundup 034 &lpar;Jan 01&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-034-jan-01-hot-topics-in-workplace-sharepoint-and-powerplatform-12kg)
-- [Mastering React&#39;s `useEffect` Hook](https://dev.to/hriztam/mastering-reacts-useeffect-hook-179a)
 - [Create an NFT as a Developer: Deep Dive into Smart Contracts](https://dev.to/scofieldidehen/create-an-nft-as-a-developer-deep-dive-into-smart-contracts-27ic)
 - [Parenting vs. Cloud Computing: Overcoming Challenges and Embracing Growth](https://dev.to/aws-builders/parenting-vs-cloud-computing-overcoming-challenges-and-embracing-growth-1i3b)
 <!-- BLOG-POST-LIST:END -->
