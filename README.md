@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazy-loading the animations package in Angular](https://dev.to/this-is-angular/lazy-loading-the-animations-package-in-angular-6c6)
 - [#BTC has broken through the $47,000 mark! 🚀🚀🚀🚀🚀](https://dev.to/irmakork/btc-has-broken-through-the-47000-mark-d9f)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1i5k)
 - [Mastering Pattern-Matching in Elixir](https://dev.to/olaleyeblessing/mastering-pattern-matching-in-elixir-5hb1)
-- [Why does DEV not respect blocking?](https://dev.to/ooosys/why-does-dev-not-respect-blocking-2mg)
 <!-- BLOG-POST-LIST:END -->
 
