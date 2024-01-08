@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Front End Essentials: Top 15 FREE APIs Every Developer Should Have in Their Arsenal](https://dev.to/aajinkya/the-front-end-essentials-top-15-free-apis-every-developer-should-have-in-their-arsenal-463l)
+- [12in24 - One language a month](https://dev.to/kaamkiya/12in24-one-language-a-month-105b)
+- [33 React Libraries Every React Developer Should Have In Their Arsenal](https://dev.to/mahmoudomaibnelkhattab/33-react-libraries-every-react-developer-should-have-in-their-arsenal-5c45)
 - [Type Annotation vs Type Inference](https://dev.to/harshit_senpai/type-annotation-vs-type-inference-521j)
-- [Everything about Docker volumes](https://dev.to/rimelek/everything-about-docker-volumes-1ib0)
-- [Web Development for Beginners: A Roadmap to Get Started](https://dev.to/bartzalewski/web-development-for-beginners-a-roadmap-to-get-started-gfb)
-- [Hello World in Go From Rust](https://dev.to/obbap/hello-world-in-go-from-rust-3jj8)
 <!-- BLOG-POST-LIST:END -->
 
