@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Parenting vs. Cloud Computing: Overcoming Challenges and Embracing Growth](https://dev.to/aws-builders/parenting-vs-cloud-computing-overcoming-challenges-and-embracing-growth-1i3b)
+- [How to collect marketing campaign email leads with Mailgun and Appwrite in minutes](https://dev.to/hackmamba/how-to-collect-marketing-campaign-email-leads-with-mailgun-and-appwrite-in-minutes-83g)
 - [Meme Monday](https://dev.to/ben/meme-monday-357l)
 - [How to Learn React in 2024](https://dev.to/codebootcamp/how-to-learn-react-in-2024-cp4)
-- [Odoo : Choosing Between `related` and `compute` Attributes in Odoo Models](https://dev.to/jeevanizm/odoo-choosing-between-related-and-compute-attributes-in-odoo-models-2l83)
-- [Membuat Web To-Do List dengan HTML, CSS, dan JavaScript](https://dev.to/mhdhanif/membuat-web-to-do-list-dengan-html-css-dan-javascript-2c07)
 <!-- BLOG-POST-LIST:END -->
 
