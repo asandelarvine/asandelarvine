@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Reasons Why You Need to Try htmx as a React Developer](https://dev.to/ryver_dev/5-reasons-why-you-need-to-try-htmx-as-a-react-developer-5bl5)
+- [Sealed: Preventing Inheritance in C#](https://dev.to/hamidmolareza/-sealed-preventing-inheritance-in-c-3cl3)
 - [The Front End Essentials: Top 15 FREE APIs Every Developer Should Have in Their Arsenal](https://dev.to/aajinkya/the-front-end-essentials-top-15-free-apis-every-developer-should-have-in-their-arsenal-463l)
-- [12in24 - One language a month](https://dev.to/kaamkiya/12in24-one-language-a-month-105b)
-- [33 React Libraries Every React Developer Should Have In Their Arsenal](https://dev.to/mahmoudomaibnelkhattab/33-react-libraries-every-react-developer-should-have-in-their-arsenal-5c45)
+- [An intro to Appwrite | Building a To-do list with SvelteKit](https://dev.to/itzami/an-intro-to-appwrite-building-a-to-do-list-with-sveltekit-3m9b)
 <!-- BLOG-POST-LIST:END -->
 
