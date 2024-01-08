@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ağ Sanallaştırma ve overlay protokoller](https://dev.to/aciklab/ag-sanallastirma-ve-overlay-protokoller-59db)
-- [Reflowable eBooks Guide: Why Use Reflowable Text in Your eBooks?](https://dev.to/alphaebook/reflowable-ebooks-guide-why-use-reflowable-text-in-your-ebooks-2pic)
-- [Convert MP4 File To Black And White Using GStreamer](https://dev.to/ethand91/convert-mp4-file-to-black-and-white-using-gstreamer-3dp6)
-- [What is DevFinOps? Why It is Important?](https://dev.to/hatica/what-is-devfinops-why-it-is-important-2jgk)
+- [The Art of Small Steps in Cybersecurity: Inspired by Stephen Duneier](https://dev.to/nikitakoselev/the-art-of-small-steps-in-cybersecurity-inspired-by-stephen-duneier-4o30)
+- [How to Become a Docker Captain](https://dev.to/docker/how-to-become-a-docker-captain-5cik)
+- [Deploying Static React app on AWS S3 -Route53 Domain and email setup Workmail,Dos and Donts](https://dev.to/aws-builders/deploying-static-react-app-on-aws-s3-route53-domain-and-email-setup-workmaildos-and-donts-15lm)
+- [How to Configure CORS in Node.js With Express](https://dev.to/speaklouder/how-to-configure-cors-in-nodejs-with-express-11h)
 <!-- BLOG-POST-LIST:END -->
 
