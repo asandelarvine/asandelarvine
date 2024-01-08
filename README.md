@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazy Load Fonts in Next.js with Web Components](https://dev.to/seeratawan01/lazy-load-fonts-in-nextjs-with-web-components-54cd)
+- [CRUD and SQL - the basics!](https://dev.to/grahamthedev/crud-and-sql-the-basics-55j1)
+- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 2](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-2-24i0)
 - [Navigating 2024 with Software Development, Tech Training, and Open Source Aspirations](https://dev.to/evansifyke/navigating-2024-with-software-development-tech-training-and-open-source-aspirations-1e)
-- [Exploring Electron.js with GitLoop&#39;s AI Assistant: A Use Case Example](https://dev.to/akirasato/exploring-electronjs-with-gitloops-ai-assistant-a-use-case-example-3g2a)
-- [How to safely use dangerouslySetInnerHTML in React](https://dev.to/alakkadshaw/how-to-safely-use-dangerouslysetinnerhtml-in-react-57l1)
-- [Accessibility and allowing zoom in your projects](https://dev.to/miasalazar/accessibility-and-allowing-zoom-in-your-projects-2gfi)
 <!-- BLOG-POST-LIST:END -->
 
