@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 034 &lpar;Jan 01&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-034-jan-01-hot-topics-in-workplace-sharepoint-and-powerplatform-12kg)
+- [Mastering React&#39;s `useEffect` Hook](https://dev.to/hriztam/mastering-reacts-useeffect-hook-179a)
+- [Create an NFT as a Developer: Deep Dive into Smart Contracts](https://dev.to/scofieldidehen/create-an-nft-as-a-developer-deep-dive-into-smart-contracts-27ic)
 - [Parenting vs. Cloud Computing: Overcoming Challenges and Embracing Growth](https://dev.to/aws-builders/parenting-vs-cloud-computing-overcoming-challenges-and-embracing-growth-1i3b)
-- [How to collect marketing campaign email leads with Mailgun and Appwrite in minutes](https://dev.to/hackmamba/how-to-collect-marketing-campaign-email-leads-with-mailgun-and-appwrite-in-minutes-83g)
-- [Meme Monday](https://dev.to/ben/meme-monday-357l)
-- [How to Learn React in 2024](https://dev.to/codebootcamp/how-to-learn-react-in-2024-cp4)
 <!-- BLOG-POST-LIST:END -->
 
