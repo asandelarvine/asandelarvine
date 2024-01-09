@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My MacBook Setup For Development 2024](https://dev.to/lilxyzz/my-macbook-setup-for-development-2024-54ke)
-- [ESB vs. API Gateway: What Is the Difference?](https://dev.to/apisix/esb-vs-api-gateway-what-is-the-difference-5efb)
-- [Building an online image compressor](https://dev.to/negrel/building-an-online-image-compressor-4j09)
-- [Observables and Observers in RxJS](https://dev.to/rajrathod/observables-and-observers-in-rxjs-1jk5)
+- [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
+- [Best 5 CSS Frameworks](https://dev.to/wahidmaster00/best-5-css-frameworks-4j3h)
+- [Centralized S3 backup with AWS Backup in terraform](https://dev.to/aws-builders/centralized-s3-backup-with-aws-backup-in-terraform-46bd)
+- [abi.encode, abi.encodePacked, and abi.decode in Solidity](https://dev.to/scofieldidehen/abiencode-abiencodepacked-and-abidecode-in-solidity-31o9)
 <!-- BLOG-POST-LIST:END -->
 
