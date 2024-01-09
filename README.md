@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing pseudo-random SVG animations](https://dev.to/ingosteinke/optimizing-pseudo-random-svg-animations-5b1j)
-- [We open sourced our AI gateway written in TS](https://dev.to/portkey/we-open-sourced-our-ai-gateway-written-in-ts-43nk)
-- [Deploy React App to Google App Engine with Github Actions CI/CD - A Complete Guide](https://dev.to/rushi-patel/deploy-react-app-to-google-app-engine-with-github-actions-cicd-a-complete-guide-67h)
-- [What&#39;s New in Elixir 1.16](https://dev.to/appsignal/whats-new-in-elixir-116-38pe)
+- [REST vs GraphQL - Choosing the right API for your project](https://dev.to/marmariadev/rest-vs-graphql-choosing-the-right-api-for-your-project-5fkd)
+- [REST vs GraphQL - Elegir la API adecuada para su proyecto](https://dev.to/marmariadev/rest-vs-graphql-elegir-la-api-adecuada-para-su-proyecto-3go2)
+- [You shouldn&#39;t ignore warnings in the console](https://dev.to/this-is-learning/do-you-ignore-warnings-in-the-console-3aij)
+- [SQL vs NoSQL - Choosing the right database for your project](https://dev.to/marmariadev/sql-vs-nosql-choosing-the-right-database-for-your-project-2bb8)
 <!-- BLOG-POST-LIST:END -->
 
