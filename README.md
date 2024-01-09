@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging TypeScript for domain-driven design](https://dev.to/logrocket/leveraging-typescript-for-domain-driven-design-jnl)
-- [New way of work with V-Model in Vue.js 3!](https://dev.to/cn-2k/new-way-of-work-with-v-model-in-vuejs-3-3l96)
-- [What This Senior Developer Learned From His First Big Rust Project](https://dev.to/awwsmm/what-this-senior-developer-learned-from-his-first-big-rust-project-44ia)
-- [Integration Testing Vercel Serverless Functions with OpenTelemetry](https://dev.to/kubeshop/integration-testing-vercel-serverless-functions-with-opentelemetry-1clj)
+- [Top 9 Hacks in Web3 in 2024](https://dev.to/scofieldidehen/top-9-hacks-in-web3-in-2024-2e37)
+- [Release v1.1.0](https://dev.to/surrealdb/release-v110-5376)
+- [How to add AI analytics to a Langchain agent?](https://dev.to/oulianov/how-to-add-ai-analytics-to-a-langchain-agent-137l)
+- [Devops learning complete guide&lpar;4&rpar;](https://dev.to/surajvast/devops-learning-complete-guide4-3043)
 <!-- BLOG-POST-LIST:END -->
 
