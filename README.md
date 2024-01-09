@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Observables and Observers in RxJS](https://dev.to/rajrathod/observables-and-observers-in-rxjs-1jk5)
+- [Take the First Step: the Open Source Game](https://dev.to/opensauced/take-the-first-step-the-open-source-game-15n5)
+- [[20 Days of DynamoDB] Day 2 - GetItem add-on benefits](https://dev.to/aws/20-days-of-dynamodb-day-2-getitem-add-on-benefits-54nm)
 - [Getting to Know Copilot Plugins](https://dev.to/jaloplo/getting-to-know-copilot-plugins-1egb)
-- [Mastering Data Management in React and Next.js: A Practical Guide](https://dev.to/jps27cse/mastering-data-management-in-react-and-nextjs-a-practical-guide-1bol)
-- [How to Build a Web App in 10 steps in 2024](https://dev.to/refine/how-to-build-a-web-app-in-10-steps-in-2024-56c2)
-- [Delivering Quality at Speed in Testing](https://dev.to/talenttinaapi/delivering-quality-at-speed-in-testing-17lb)
 <!-- BLOG-POST-LIST:END -->
 
