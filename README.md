@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
-- [Best 5 CSS Frameworks](https://dev.to/wahidmaster00/best-5-css-frameworks-4j3h)
-- [Centralized S3 backup with AWS Backup in terraform](https://dev.to/aws-builders/centralized-s3-backup-with-aws-backup-in-terraform-46bd)
-- [abi.encode, abi.encodePacked, and abi.decode in Solidity](https://dev.to/scofieldidehen/abiencode-abiencodepacked-and-abidecode-in-solidity-31o9)
+- [REST vs. GraphQL: Which One Should I Choose?](https://dev.to/marmariadev/rest-vs-graphql-which-one-should-i-choose-47lm)
+- [REST vs. GraphQL, Guía para Elegir la API Adecuada en tus Proyectos](https://dev.to/marmariadev/rest-vs-graphql-guia-para-elegir-la-api-adecuada-en-tus-proyectos-5gog)
+- [Deploy React App to Google App Engine with Github Actions CI/CD - A Complete Guide](https://dev.to/rushi-patel/deploy-react-app-to-google-app-engine-with-github-actions-cicd-a-complete-guide-67h)
+- [What&#39;s New in Elixir 1.16](https://dev.to/appsignal/whats-new-in-elixir-116-38pe)
 <!-- BLOG-POST-LIST:END -->
 
