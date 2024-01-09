@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSwoole Docker Generator](https://dev.to/sebk69/openswoole-docker-generator-165g)
+- [Leveraging TypeScript for domain-driven design](https://dev.to/logrocket/leveraging-typescript-for-domain-driven-design-jnl)
+- [New way of work with V-Model in Vue.js 3!](https://dev.to/cn-2k/new-way-of-work-with-v-model-in-vuejs-3-3l96)
 - [What This Senior Developer Learned From His First Big Rust Project](https://dev.to/awwsmm/what-this-senior-developer-learned-from-his-first-big-rust-project-44ia)
 - [Integration Testing Vercel Serverless Functions with OpenTelemetry](https://dev.to/kubeshop/integration-testing-vercel-serverless-functions-with-opentelemetry-1clj)
-- [️🚀🚀 3 Must Know Tools for Top DevOps Engineers 👷](https://dev.to/flipt/3-must-know-tools-for-top-devops-engineers-3752)
 <!-- BLOG-POST-LIST:END -->
 
