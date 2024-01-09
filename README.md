@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mestrado em TI em Portugal: todos os detalhes da minha experiência](https://dev.to/laricavitoriano/mestrado-em-ti-em-portugal-todos-os-detalhes-da-minha-experiencia-47dm)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 4](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-4-5hc2)
 - [What should go on my test code?](https://dev.to/scarletvictoriarose/what-should-go-on-my-test-code-4de7)
-- [Understanding Git Rebasing: A Detailed Guide with Commands](https://dev.to/aixart/understanding-git-rebasing-a-detailed-guide-with-commands-5fag)
-- [At Least Skim The Manual](https://dev.to/oculus42/at-least-skim-the-manual-14j2)
+- [Why Angular&#39;s Opinionated Approach Clicked For Me!](https://dev.to/akilahngqueen/why-angulars-opinionated-approach-works-20df)
 <!-- BLOG-POST-LIST:END -->
 
