@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs GraphQL - Choosing the right API for your project](https://dev.to/marmariadev/rest-vs-graphql-choosing-the-right-api-for-your-project-5fkd)
-- [REST vs GraphQL - Elegir la API adecuada para su proyecto](https://dev.to/marmariadev/rest-vs-graphql-elegir-la-api-adecuada-para-su-proyecto-3go2)
-- [You shouldn&#39;t ignore warnings in the console](https://dev.to/this-is-learning/do-you-ignore-warnings-in-the-console-3aij)
-- [SQL vs NoSQL - Choosing the right database for your project](https://dev.to/marmariadev/sql-vs-nosql-choosing-the-right-database-for-your-project-2bb8)
+- [Integration Testing Vercel Serverless Functions with OpenTelemetry](https://dev.to/kubeshop/integration-testing-vercel-serverless-functions-with-opentelemetry-1clj)
+- [A Step-by-Step Guide to Launching Your Profitable Micro-SaaS in 2024](https://dev.to/rajeshj3/a-step-by-step-guide-to-launching-your-profitable-micro-saas-in-2024-2ffh)
+- [🎁 20 Open Source projects you shouldn&#39;t miss in 2024](https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4)
+- [Rust 🦀 Installation + Hello World](https://dev.to/francescoxx/rust-installation-hello-world-1omk)
 <!-- BLOG-POST-LIST:END -->
 
