@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JSONCrack Codebase Analysis - Part 5 - Toolbar and Bottom bar](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-5-toolbar-and-bottom-bar-55gl)
+- [How to Manage Multiple OpenTofu Versions With Tofuenv](https://dev.to/nmishin/how-to-manage-multiple-opentofu-versions-with-tofuenv-5g6e)
 - [How To Install React-Native on Windows, A Step-By-Step Guide. Possible Errors And How To Fix Them](https://dev.to/dev_cody/how-to-install-react-native-on-windows-a-step-by-step-guide-possible-errors-and-how-to-fix-them-23kg)
 - [2023 Reflection: a pivotal year for the open source journey](https://dev.to/a0m0rajab/2023-reflection-a-pivotal-year-for-the-open-source-journey-57k0)
-- [Achieve GitOps on Day One with IaC Automation](https://dev.to/rsiv/achieve-gitops-on-day-one-with-iac-automation-1eb9)
-- [Top 9 Hacks in Web3 in 2024](https://dev.to/scofieldidehen/top-9-hacks-in-web3-in-2024-2e37)
 <!-- BLOG-POST-LIST:END -->
 
