@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-11f2)
+- [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-1ln3)
+- [4 Platform Engineering Tools that every developer must explore in 2024](https://dev.to/yogini16/4-platform-engineering-tools-that-every-developer-must-explore-in-2024-3mi4)
 - [Mestrado em TI em Portugal: todos os detalhes da minha experiência](https://dev.to/laricavitoriano/mestrado-em-ti-em-portugal-todos-os-detalhes-da-minha-experiencia-47dm)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 4](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-4-5hc2)
-- [What should go on my test code?](https://dev.to/scarlet/what-should-go-on-my-test-code-4de7)
 <!-- BLOG-POST-LIST:END -->
 
