@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 4](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-4-5hc2)
+- [What should go on my test code?](https://dev.to/scarletvictoriarose/what-should-go-on-my-test-code-4de7)
+- [Understanding Git Rebasing: A Detailed Guide with Commands](https://dev.to/aixart/understanding-git-rebasing-a-detailed-guide-with-commands-5fag)
 - [At Least Skim The Manual](https://dev.to/oculus42/at-least-skim-the-manual-14j2)
-- [Understanding the Monotonic Stack To UP Your Data Structure Game](https://dev.to/about14sheep/understanding-the-monotonic-stack-to-up-your-data-structure-game-4llh)
-- [About well designed REST APIs](https://dev.to/yelldutz/about-well-designed-rest-apis-4m5i)
-- [From Visual Studio Code to the Cloud: Why Codespace Should Be Your New Beginner&#39;s IDE](https://dev.to/shay90210/from-visual-studio-code-to-the-cloud-why-codespace-should-be-your-new-beginners-ide-mcc)
 <!-- BLOG-POST-LIST:END -->
 
