@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My MacBook Setup For Development 2024](https://dev.to/lilxyzz/my-macbook-setup-for-development-2024-54ke)
+- [ESB vs. API Gateway: What Is the Difference?](https://dev.to/apisix/esb-vs-api-gateway-what-is-the-difference-5efb)
+- [Building an online image compressor](https://dev.to/negrel/building-an-online-image-compressor-4j09)
 - [Observables and Observers in RxJS](https://dev.to/rajrathod/observables-and-observers-in-rxjs-1jk5)
-- [Take the First Step: the Open Source Game](https://dev.to/opensauced/take-the-first-step-the-open-source-game-15n5)
-- [[20 Days of DynamoDB] Day 2 - GetItem add-on benefits](https://dev.to/aws/20-days-of-dynamodb-day-2-getitem-add-on-benefits-54nm)
-- [Getting to Know Copilot Plugins](https://dev.to/jaloplo/getting-to-know-copilot-plugins-1egb)
 <!-- BLOG-POST-LIST:END -->
 
