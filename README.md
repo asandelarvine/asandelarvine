@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs. GraphQL: Which One Should I Choose?](https://dev.to/marmariadev/rest-vs-graphql-which-one-should-i-choose-47lm)
-- [REST vs. GraphQL, Guía para Elegir la API Adecuada en tus Proyectos](https://dev.to/marmariadev/rest-vs-graphql-guia-para-elegir-la-api-adecuada-en-tus-proyectos-5gog)
+- [Optimizing pseudo-random SVG animations](https://dev.to/ingosteinke/optimizing-pseudo-random-svg-animations-5b1j)
+- [We open sourced our AI gateway written in TS](https://dev.to/portkey/we-open-sourced-our-ai-gateway-written-in-ts-43nk)
 - [Deploy React App to Google App Engine with Github Actions CI/CD - A Complete Guide](https://dev.to/rushi-patel/deploy-react-app-to-google-app-engine-with-github-actions-cicd-a-complete-guide-67h)
 - [What&#39;s New in Elixir 1.16](https://dev.to/appsignal/whats-new-in-elixir-116-38pe)
 <!-- BLOG-POST-LIST:END -->
