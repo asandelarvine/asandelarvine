@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[20 Days of DynamoDB] Day 3 - UpdateItem add-on benefits](https://dev.to/aws/20-days-of-dynamodb-day-3-updateitem-add-on-benefits-4hfn)
+- [CSS and the Browser&#39;s Hardware acceleration](https://dev.to/rounit08/css-and-the-browsers-hardware-acceleration-kpi)
 - [Understanding the Differences: Server Side Rendering &lpar;SSR&rpar; vs Static Site Generation &lpar;SSG&rpar; in Next.js](https://dev.to/lexyerresta/understanding-the-differences-server-side-rendering-ssr-vs-static-site-generation-ssg-in-nextjs-27cg)
 - [Adding &quot;Created At&quot; and &quot;Last Updated&quot; Dates to Jekyll](https://dev.to/irrelevantspace/adding-created-at-and-last-updated-dates-to-jekyll-4cdc)
-- [Character encoding](https://dev.to/untilyou58/character-encoding-lgb)
-- [Webcam para capturar imágenes en DotVVM &amp; ASP.NET](https://dev.to/esdanielgomez/webcam-para-capturar-imagenes-en-dotvvm-aspnet-hd4)
 <!-- BLOG-POST-LIST:END -->
 
