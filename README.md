@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como usar Flex-Box?](https://dev.to/alisson1228/como-usar-flex-box-1pij)
+- [Layout Patterns - EN](https://dev.to/guscarpim/layout-patterns-en-2p27)
+- [Layout Patterns - PT](https://dev.to/guscarpim/layout-patterns-pt-45c5)
 - [Building a Movie Database with Prisma, Express, and MongoDB: A Beginner&#39;s Guide](https://dev.to/jps27cse/building-a-movie-database-with-prisma-express-and-mongodb-a-beginners-guide-1eh6)
-- [Empowering Developers: rippled 2.0 Presents Exciting Upgrades](https://dev.to/ripplexdev/empowering-developers-rippled-20-presents-exciting-upgrades-4n2o)
-- [Using EvaDB to build AI-enhanced apps](https://dev.to/logrocket/using-evadb-to-build-ai-enhanced-apps-1ne1)
-- [Rust Programming Quick Start Guide](https://dev.to/hriztam/rust-programming-quick-start-guide-b39)
 <!-- BLOG-POST-LIST:END -->
 
