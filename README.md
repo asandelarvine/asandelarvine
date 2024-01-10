@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migration of Mario 5 to Serverless](https://dev.to/florianrappl/migration-of-mario-5-to-serverless-b00)
-- [Unveiling the Power of Ruby Generators: A Comprehensive Exploration with Extensive Code Examples](https://dev.to/daviducolo/unveiling-the-power-of-ruby-generators-a-comprehensive-exploration-with-extensive-code-examples-c8m)
-- [Share your Docker Compose app logs remotely](https://dev.to/pradumnasaraf/share-your-docker-compose-app-logs-remotely-5965)
-- [💻 Web Development Resources #180](https://dev.to/vincenius/web-development-resources-180-5g5k)
+- [Top 6 Github Slack integrations to try in 2024](https://dev.to/gabrielpineda/top-6-github-slack-integrations-to-try-in-2024-2ecj)
+- [FIRST_VALUE Function In SQL Server](https://dev.to/rashtech/firstvalue-function-in-sql-server-2mmg)
+- [Astro: the new frontier of Frontend Frameworks 🪐](https://dev.to/dvalin99/astro-the-new-frontier-of-frontend-frameworks-27f2)
+- [Programmatically deploy your GitHub Repo on Netlify](https://dev.to/giuliano1993/programmatically-deploy-your-github-on-netlify-3lp0)
 <!-- BLOG-POST-LIST:END -->
 
