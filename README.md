@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Worst Advice Ever *](https://dev.to/johnrushx/worst-advice-ever--2mkm)
+- [authentication &amp;&amp; authorization](https://dev.to/mustafacam/authenticate-authorization-3dhe)
+- [Docker basics for beginners](https://dev.to/davidmm1707/docker-basics-for-beginners-49l9)
 - [Como usar Flex-Box?](https://dev.to/alisson1228/como-usar-flex-box-1pij)
-- [Layout Patterns - EN](https://dev.to/guscarpim/layout-patterns-en-2p27)
-- [Layout Patterns - PT](https://dev.to/guscarpim/layout-patterns-pt-45c5)
-- [Building a Movie Database with Prisma, Express, and MongoDB: A Beginner&#39;s Guide](https://dev.to/jps27cse/building-a-movie-database-with-prisma-express-and-mongodb-a-beginners-guide-1eh6)
 <!-- BLOG-POST-LIST:END -->
 
