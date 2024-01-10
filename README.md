@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Movie Database with Prisma, Express, and MongoDB: A Beginner&#39;s Guide](https://dev.to/jps27cse/building-a-movie-database-with-prisma-express-and-mongodb-a-beginners-guide-1eh6)
 - [Empowering Developers: rippled 2.0 Presents Exciting Upgrades](https://dev.to/ripplexdev/empowering-developers-rippled-20-presents-exciting-upgrades-4n2o)
+- [Using EvaDB to build AI-enhanced apps](https://dev.to/logrocket/using-evadb-to-build-ai-enhanced-apps-1ne1)
 - [Rust Programming Quick Start Guide](https://dev.to/hriztam/rust-programming-quick-start-guide-b39)
-- [Tools for creating 3D assets for games](https://dev.to/nandinishinduja/tools-for-creating-3d-assets-for-games-1kj7)
-- [Demystifying Python Loops: A Beginner&#39;s Guide to Crafting a Multiplication Table](https://dev.to/shaheryaryousaf/demystifying-python-loops-a-beginners-guide-to-crafting-a-multiplication-table-g8k)
 <!-- BLOG-POST-LIST:END -->
 
