@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Kubernetes Enterprise: Rancher vs OpenShift vs Tanzu - Features, Evaluation &amp; Comparison ✅](https://dev.to/glasskube/kubernetes-enterprise-rancher-vs-openshift-vs-tanzu-features-evaluation-comparison-4gc6)
 - [Use Coverage as a guide, not a goal](https://dev.to/tiuwill/use-coverage-as-a-guide-not-a-goal-4925)
 - [Introducing Nightly and Beta Rust Crates](https://dev.to/surrealdb/introducing-nightly-and-beta-rust-crates-5bd0)
 - [overfitting](https://dev.to/mustafacam/overfitting-35k2)
-- [Live Queries in Rust](https://dev.to/surrealdb/live-queries-in-rust-3dh4)
 <!-- BLOG-POST-LIST:END -->
 
