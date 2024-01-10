@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Advance Concepts](https://dev.to/tanmaycode/javascript-advance-concepts-2f09)
+- [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-2pod)
+- [Observability with SigNoz for Java app](https://dev.to/infrasity-learning/observability-with-signoz-for-java-app-16oe)
 - [[20 Days of DynamoDB] Day 3 - UpdateItem add-on benefits](https://dev.to/aws/20-days-of-dynamodb-day-3-updateitem-add-on-benefits-4hfn)
-- [CSS and the Browser&#39;s Hardware acceleration](https://dev.to/rounit08/css-and-the-browsers-hardware-acceleration-kpi)
-- [Understanding the Differences: Server Side Rendering &lpar;SSR&rpar; vs Static Site Generation &lpar;SSG&rpar; in Next.js](https://dev.to/lexyerresta/understanding-the-differences-server-side-rendering-ssr-vs-static-site-generation-ssg-in-nextjs-27cg)
-- [Adding &quot;Created At&quot; and &quot;Last Updated&quot; Dates to Jekyll](https://dev.to/irrelevantspace/adding-created-at-and-last-updated-dates-to-jekyll-4cdc)
 <!-- BLOG-POST-LIST:END -->
 
