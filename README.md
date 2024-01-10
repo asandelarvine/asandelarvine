@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TIP: how to boost your app&#39;s performance with &lpar;Angular&rpar; computed signals](https://dev.to/fabiobiondi/tip-how-to-boost-your-apps-performance-with-angular-computed-signals-51c3)
+- [Find The Bug in this Smart Contract [series] 2024](https://dev.to/scofieldidehen/find-the-bug-in-this-smart-contract-series-2024-4hjj)
 - [Top 6 Github Slack integrations to try in 2024](https://dev.to/gabrielpineda/top-6-github-slack-integrations-to-try-in-2024-2ecj)
 - [FIRST_VALUE Function In SQL Server](https://dev.to/rashtech/firstvalue-function-in-sql-server-2mmg)
-- [Astro: the new frontier of Frontend Frameworks 🪐](https://dev.to/dvalin99/astro-the-new-frontier-of-frontend-frameworks-27f2)
-- [Programmatically deploy your GitHub Repo on Netlify](https://dev.to/giuliano1993/programmatically-deploy-your-github-on-netlify-3lp0)
 <!-- BLOG-POST-LIST:END -->
 
