@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to increase Grafana refresh rate frequency](https://dev.to/questdb/how-to-increase-grafana-refresh-rate-frequency-468b)
-- [Normalizing Grafana charts with window functions](https://dev.to/questdb/normalizing-grafana-charts-with-window-functions-4ebd)
-- [🔥 8 React components with LLMs 🤖](https://dev.to/victorforissier/8-react-components-with-llms-21d9)
-- [Choosing the Right Architecture for Your Web Application: A Practical Approach for Startups](https://dev.to/marmariadev/choosing-the-right-architecture-for-your-web-application-a-practical-approach-for-startups-2n5a)
+- [#DEVResolutions2024](https://dev.to/michaeltharrington/devresolutions2024-2ib0)
+- [Tools for creating 2D assets for games](https://dev.to/nandinishinduja/tools-for-creating-2d-assets-for-games-1mml)
+- [Programming Languages used for Game Development](https://dev.to/nandinishinduja/programming-languages-used-for-game-development-57l5)
+- [Tools used for Game Development &lpar;Different Game Engines&rpar;](https://dev.to/nandinishinduja/tools-used-for-game-development-different-game-engines-47n9)
 <!-- BLOG-POST-LIST:END -->
 
