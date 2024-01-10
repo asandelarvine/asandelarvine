@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Character encoding](https://dev.to/untilyou58/character-encoding-lgb)
+- [Webcam para capturar imágenes en DotVVM &amp; ASP.NET](https://dev.to/esdanielgomez/webcam-para-capturar-imagenes-en-dotvvm-aspnet-hd4)
 - [Gatsby Site Search Plugin](https://dev.to/alakkadshaw/gatsby-site-search-plugin-4edg)
 - [JSONCrack Codebase Analysis - Part 5 - Toolbar and Bottom bar](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-5-toolbar-and-bottom-bar-55gl)
-- [How to Manage Multiple OpenTofu Versions With Tofuenv](https://dev.to/nmishin/how-to-manage-multiple-opentofu-versions-with-tofuenv-5g6e)
-- [How To Install React-Native on Windows, A Step-By-Step Guide. Possible Errors And How To Fix Them](https://dev.to/dev_cody/how-to-install-react-native-on-windows-a-step-by-step-guide-possible-errors-and-how-to-fix-them-23kg)
 <!-- BLOG-POST-LIST:END -->
 
