@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Power of Ruby Generators: A Comprehensive Exploration with Extensive Code Examples](https://dev.to/daviducolo/unveiling-the-power-of-ruby-generators-a-comprehensive-exploration-with-extensive-code-examples-c8m)
+- [Share your Docker Compose app logs remotely](https://dev.to/pradumnasaraf/share-your-docker-compose-app-logs-remotely-5965)
 - [JavaScript Advance Concepts](https://dev.to/tanmaycode/javascript-advance-concepts-2f09)
 - [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-2pod)
-- [Observability with SigNoz for Java app](https://dev.to/infrasity-learning/observability-with-signoz-for-java-app-16oe)
-- [[20 Days of DynamoDB] Day 3 - UpdateItem add-on benefits](https://dev.to/aws/20-days-of-dynamodb-day-3-updateitem-add-on-benefits-4hfn)
 <!-- BLOG-POST-LIST:END -->
 
