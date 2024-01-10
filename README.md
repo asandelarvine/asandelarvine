@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Differences: Server Side Rendering &lpar;SSR&rpar; vs Static Site Generation &lpar;SSG&rpar; in Next.js](https://dev.to/lexyerresta/understanding-the-differences-server-side-rendering-ssr-vs-static-site-generation-ssg-in-nextjs-27cg)
 - [Adding &quot;Created At&quot; and &quot;Last Updated&quot; Dates to Jekyll](https://dev.to/irrelevantspace/adding-created-at-and-last-updated-dates-to-jekyll-4cdc)
 - [Character encoding](https://dev.to/untilyou58/character-encoding-lgb)
 - [Webcam para capturar imágenes en DotVVM &amp; ASP.NET](https://dev.to/esdanielgomez/webcam-para-capturar-imagenes-en-dotvvm-aspnet-hd4)
-- [How To Use Google Calendar API with Node.js](https://dev.to/joshuaakanetuk/how-to-use-google-calendar-api-with-nodejs-2o69)
 <!-- BLOG-POST-LIST:END -->
 
