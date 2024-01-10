@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨](https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6)
+- [Avoid using default exports](https://dev.to/phuocng/avoid-using-default-exports-a1c)
+- [Stream Updates to Your Users with LiteCable for Ruby on Rails](https://dev.to/appsignal/stream-updates-to-your-users-with-litecable-for-ruby-on-rails-4307)
 - [10 Programming Languages Worth Learning in 2024](https://dev.to/bigsondev/10-programming-languages-worth-learning-in-2024-afa)
-- [🥇The Best Web Framework Doesn&#39;t Exist 🚫](https://dev.to/wasp/the-best-web-framework-doesnt-exist-2aom)
-- [The Joy of Monads](https://dev.to/houseofleft/the-joy-of-monads-1kel)
-- [🔥 Kubernetes Enterprise: Rancher vs OpenShift vs Tanzu - Features, Evaluation &amp; Comparison ✅](https://dev.to/glasskube/kubernetes-enterprise-rancher-vs-openshift-vs-tanzu-features-evaluation-comparison-4gc6)
 <!-- BLOG-POST-LIST:END -->
 
