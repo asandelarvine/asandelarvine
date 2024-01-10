@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to increase Grafana refresh rate frequency](https://dev.to/questdb/how-to-increase-grafana-refresh-rate-frequency-468b)
+- [Normalizing Grafana charts with window functions](https://dev.to/questdb/normalizing-grafana-charts-with-window-functions-4ebd)
 - [🔥 8 React components with LLMs 🤖](https://dev.to/victorforissier/8-react-components-with-llms-21d9)
 - [Choosing the Right Architecture for Your Web Application: A Practical Approach for Startups](https://dev.to/marmariadev/choosing-the-right-architecture-for-your-web-application-a-practical-approach-for-startups-2n5a)
-- [Why You Should Declare Email Bankruptcy](https://dev.to/alexr/why-you-should-declare-email-bankruptcy-af7)
-- [Mirrord trick to get on hackernews](https://dev.to/github20k/mirrord-trick-to-get-on-hackernews-3cpb)
 <!-- BLOG-POST-LIST:END -->
 
