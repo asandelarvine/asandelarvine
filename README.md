@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TIP: how to boost your app&#39;s performance with &lpar;Angular&rpar; computed signals](https://dev.to/fabiobiondi/tip-how-to-boost-your-apps-performance-with-angular-computed-signals-51c3)
-- [Find The Bug in this Smart Contract [series] 2024](https://dev.to/scofieldidehen/find-the-bug-in-this-smart-contract-series-2024-4hjj)
-- [Top 6 Github Slack integrations to try in 2024](https://dev.to/gabrielpineda/top-6-github-slack-integrations-to-try-in-2024-2ecj)
-- [FIRST_VALUE Function In SQL Server](https://dev.to/rashtech/firstvalue-function-in-sql-server-2mmg)
+- [Use Coverage as a guide, not a goal](https://dev.to/tiuwill/use-coverage-as-a-guide-not-a-goal-4925)
+- [Introducing Nightly and Beta Rust Crates](https://dev.to/surrealdb/introducing-nightly-and-beta-rust-crates-5bd0)
+- [overfitting](https://dev.to/mustafacam/overfitting-35k2)
+- [Live Queries in Rust](https://dev.to/surrealdb/live-queries-in-rust-3dh4)
 <!-- BLOG-POST-LIST:END -->
 
