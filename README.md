@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨](https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6)
-- [Avoid using default exports](https://dev.to/phuocng/avoid-using-default-exports-a1c)
-- [Stream Updates to Your Users with LiteCable for Ruby on Rails](https://dev.to/appsignal/stream-updates-to-your-users-with-litecable-for-ruby-on-rails-4307)
-- [10 Programming Languages Worth Learning in 2024](https://dev.to/bigsondev/10-programming-languages-worth-learning-in-2024-afa)
+- [🔥 8 React components with LLMs 🤖](https://dev.to/victorforissier/8-react-components-with-llms-21d9)
+- [Choosing the Right Architecture for Your Web Application: A Practical Approach for Startups](https://dev.to/marmariadev/choosing-the-right-architecture-for-your-web-application-a-practical-approach-for-startups-2n5a)
+- [Why You Should Declare Email Bankruptcy](https://dev.to/alexr/why-you-should-declare-email-bankruptcy-af7)
+- [Mirrord trick to get on hackernews](https://dev.to/github20k/mirrord-trick-to-get-on-hackernews-3cpb)
 <!-- BLOG-POST-LIST:END -->
 
