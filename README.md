@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[20 Days of DynamoDB] Day 4 - Conditional UpdateItem](https://dev.to/aws/20-days-of-dynamodb-day-4-conditional-updateitem-dac)
-- [Unleash the Power of Obsidian with GitHub: A Guide to Organizing Your Digital Brain](https://dev.to/yanpi/unleash-the-power-of-obsidian-with-github-a-guide-to-organizing-your-digital-brain-38cl)
-- [Don&#39;t upload your PWA to the app stores](https://dev.to/progressier/dont-upload-your-pwa-to-the-app-stores-3mg4)
-- [Bitcoin ETFs: Everything You Should Know](https://dev.to/scofieldidehen/bitcoin-etfs-everything-you-should-know-4la0)
+- [A Deep Dive into Angular and Tanstack Query with Our Demo Store](https://dev.to/railsstudent/a-deep-dive-into-angular-and-tanstack-query-with-our-demo-store-1gah)
+- [Web3 Gaming Analytics for Developers](https://dev.to/footprint-analytics/web3-gaming-analytics-for-developers-33gn)
+- [Node.js Backend Engineer Roadmap in 2024!](https://dev.to/alirezanqp/nodejs-backend-engineer-roadmap-in-2024-1gf3)
+- [Terraform, Ansible, and Parker: Infrastructure Deployment Automation](https://dev.to/isaacayanda/terraform-ansible-and-parker-infrastructure-deployment-automation-34c8)
 <!-- BLOG-POST-LIST:END -->
 
