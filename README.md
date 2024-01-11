@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware in Express.js](https://dev.to/m__mdy__m/middleware-in-expressjs-4b4)
-- [Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial &amp; GUI For Windows, RunPod &amp; Kaggle](https://dev.to/furkangozukara/instantly-transfer-face-by-using-ip-adapter-faceid-full-tutorial-gui-for-windows-runpod-kaggle-4p1b)
-- [WebP vs. PNG vs. JPEG: Which is The Right Image Format For Your Website?](https://dev.to/kemuhost/webp-vs-png-vs-jpeg-which-is-the-right-image-format-for-your-website-186f)
-- [Dockerizing Laravel &lpar;With compose&rpar; [Alpine + NGINX + PHP FPM + MariaDB + PHPMyAdmin] 🛳️🛳️](https://dev.to/adnanbabakan/dockerizing-laravel-with-compose-nginx-php-fpm-mariadb-phpmyadmin-8n1)
+- [ArrayBuffer and TypedArray](https://dev.to/kshitij978/arraybuffer-and-typedarray-3ege)
+- [Creating k-NN with C++ &lpar;from Scratch&rpar;](https://dev.to/vodoanminhhieuvn/creating-k-nn-with-c-from-scratch-2ek9)
+- [Snowflake Introduction](https://dev.to/aryamasinha/snowflake-introduction-4863)
+- [How to authenticate a Next.js Route Handler using Clerk](https://dev.to/ably/how-to-authenticate-a-nextjs-route-handler-using-clerk-36pm)
 <!-- BLOG-POST-LIST:END -->
 
