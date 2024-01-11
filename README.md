@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Bitcoin ETFs: Everything You Should Know](https://dev.to/scofieldidehen/bitcoin-etfs-everything-you-should-know-4la0)
 - [Evolution of Docker &amp; Kubernetes &lpar;Virtualization&rpar;](https://dev.to/mukeshkuiry/evolution-of-docker-kubernetes-virtualization-1a9f)
 - [Bandit Level 22 Level 23](https://dev.to/christianpaez/bandit-level-22-level-23-61d)
-- [Empowering Others: Delegation and Mentorship Impact?](https://dev.to/codenewbieteam/empowering-others-delegation-and-mentorship-impact-1pef)
+- [How to Lower the Cost of Changing Software - Part 1](https://dev.to/lpand/how-to-lower-the-cost-of-changing-software-part-1-56h4)
 <!-- BLOG-POST-LIST:END -->
 
