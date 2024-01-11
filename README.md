@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Worst Advice Ever *](https://dev.to/johnrushx/worst-advice-ever--2mkm)
-- [authentication &amp;&amp; authorization](https://dev.to/mustafacam/authenticate-authorization-3dhe)
-- [Docker basics for beginners](https://dev.to/davidmm1707/docker-basics-for-beginners-49l9)
-- [Como usar Flex-Box?](https://dev.to/alisson1228/como-usar-flex-box-1pij)
+- [Evolution of Docker &amp; Kubernetes &lpar;Virtualization&rpar;](https://dev.to/mukeshkuiry/evolution-of-docker-kubernetes-virtualization-1a9f)
+- [Bandit Level 22 Level 23](https://dev.to/christianpaez/bandit-level-22-level-23-61d)
+- [How to Lower the Cost of Changing Software - Part 1](https://dev.to/lpand/how-to-lower-the-cost-of-changing-software-part-1-56h4)
+- [Growth Habits: Essentials for 2024?](https://dev.to/devteam/growth-habits-essentials-for-2024-49pk)
 <!-- BLOG-POST-LIST:END -->
 
