@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [README or I&#39;ll devour you: How to write a good README](https://dev.to/pachicodes/readme-or-ill-devour-you-how-to-write-a-good-readme-592n)
 - [Photon Lockdown | HackTheBox Write-up](https://dev.to/shiahalan/photon-lockdown-hackthebox-write-up-p45)
 - [✨ Top 5 Best Yet Underrated Projects that no one talks about 😎😭](https://dev.to/shricodev/top-5-best-yet-underrated-projects-that-no-one-talks-about-343h)
 - [Using JavaScript: as a package or as CDN](https://dev.to/superviz/using-javascript-as-a-package-or-as-cdn-4n14)
-- [3 Programming Myths That Keep You Stuck, Frustrated And Underpaid](https://dev.to/dragosnedelcu/3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-27bg)
 <!-- BLOG-POST-LIST:END -->
 
