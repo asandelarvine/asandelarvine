@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Glassy Scroll Mega Menu Bootstrap v.5.3 JS](https://dev.to/yasindehfuli/glassy-scroll-mega-menu-bootstrap-v53-js-5b88)
-- [Building background email notifications with Next.js, Resend and Trigger.dev](https://dev.to/mfts/building-background-email-notifications-with-nextjs-resend-and-triggerdev-4cem)
-- [Resume](https://dev.to/mainarthur/resume-4pf8)
-- [Mastering APISIX Health Checks: Active and Passive Monitoring Strategies](https://dev.to/apisix/mastering-apisix-health-checks-active-and-passive-monitoring-strategies-37g9)
+- [Server-Side Rendering v/s Client-Side Rendering](https://dev.to/hriztam/server-side-rendering-vs-client-side-rendering-2b2n)
+- [SEO Morreu?](https://dev.to/andpeicunha/seo-morreu-2oe)
+- [How to get Github PR Notifications in Slack &lpar;in under a minute!&rpar;](https://dev.to/gabrielpineda/how-to-get-github-pr-notifications-in-slack-in-under-a-minute-4noh)
+- [🚀 Exciting News! 🚀 I&#39;m thrilled to share my latest project on GitHub: Get-Github-Achievements! 🎉](https://dev.to/yasindehfuli/exciting-news-im-thrilled-to-share-my-latest-project-on-github-get-github-achievements-5cjp)
 <!-- BLOG-POST-LIST:END -->
 
