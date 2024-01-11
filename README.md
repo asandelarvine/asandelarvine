@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing AWS Complexity](https://dev.to/shuttle_dev/bypassing-aws-complexity-19nh)
-- [ArrayBuffer and TypedArray](https://dev.to/kshitij978/arraybuffer-and-typedarray-3ege)
-- [Mastering Git: Resolving &quot;Not Possible to Fast-Forward, Aborting&quot; Error](https://dev.to/saint_vandora/mastering-git-resolving-not-possible-to-fast-forward-aborting-error-1pac)
-- [Creating k-NN with C++ &lpar;from Scratch&rpar;](https://dev.to/vodoanminhhieuvn/creating-k-nn-with-c-from-scratch-2ek9)
+- [Demystifying advanced asynchronous patterns: Generators, Iterators, and RxJS](https://dev.to/best_codes/demystifying-advanced-asynchronous-patterns-generators-iterators-and-rxjs-4jgh)
+- [Welcome Thread - v258](https://dev.to/devteam/welcome-thread-v256-d15)
+- [The basics of WebDev&#39;in: Client/Server Architecture](https://dev.to/venturacodes/the-basics-of-webdevin-clientserver-architecture-1l2d)
+- [CS fundamentals: How Data Storage actually works](https://dev.to/joelbonetr/cs-fundamentals-how-data-storage-actually-works-1o4a)
 <!-- BLOG-POST-LIST:END -->
 
