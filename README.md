@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2023 in retrospective](https://dev.to/nfrankel/2023-in-retrospective-3db9)
-- [Ukrainian embroidery CSS Art](https://dev.to/rodzyk/ukrainian-embroidery-css-art-aa5)
-- [What metrics and key performance indicators &lpar;KPIs&rpar; are commonly used in Scrum to measure team productivity and project success?](https://dev.to/nebeltech11/what-metrics-and-key-performance-indicators-kpis-are-commonly-used-in-scrum-to-measure-team-productivity-and-project-success-55oa)
-- [Angular is not for everyone, and probably not for you](https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n)
+- [Glassy Scroll Mega Menu Bootstrap v.5.3 JS](https://dev.to/yasindehfuli/glassy-scroll-mega-menu-bootstrap-v53-js-5b88)
+- [Building background email notifications with Next.js, Resend and Trigger.dev](https://dev.to/mfts/building-background-email-notifications-with-nextjs-resend-and-triggerdev-4cem)
+- [Resume](https://dev.to/mainarthur/resume-4pf8)
+- [Mastering APISIX Health Checks: Active and Passive Monitoring Strategies](https://dev.to/apisix/mastering-apisix-health-checks-active-and-passive-monitoring-strategies-37g9)
 <!-- BLOG-POST-LIST:END -->
 
