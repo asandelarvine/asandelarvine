@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Angular and Tanstack Query with Our Demo Store](https://dev.to/railsstudent/a-deep-dive-into-angular-and-tanstack-query-with-our-demo-store-1gah)
-- [Web3 Gaming Analytics for Developers](https://dev.to/footprint-analytics/web3-gaming-analytics-for-developers-33gn)
-- [Node.js Backend Engineer Roadmap in 2024!](https://dev.to/alirezanqp/nodejs-backend-engineer-roadmap-in-2024-1gf3)
-- [Terraform, Ansible, and Parker: Infrastructure Deployment Automation](https://dev.to/isaacayanda/terraform-ansible-and-parker-infrastructure-deployment-automation-34c8)
+- [Which Abstraction Track Will You Hack To Win Over $15,000 in Prizes?](https://dev.to/starpause/which-abstraction-track-will-you-hack-to-win-over-15000-in-prizes-3701)
+- [🎉 The Gowebly CLI has grown to v2.0.0](https://dev.to/koddr/the-gowebly-cli-has-grown-to-v200-d1c)
+- [How To Design a MySQL Database for your Basic Notification System?](https://dev.to/nikl/how-to-design-a-mysql-database-for-your-basic-notification-system-2fln)
+- [Python for Beginners - Introduction](https://dev.to/tina_popli/python-for-beginners-introduction-1pa2)
 <!-- BLOG-POST-LIST:END -->
 
