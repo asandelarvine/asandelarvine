@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fawn | HackTheBox Write-up](https://dev.to/shiahalan/fawn-hackthebox-write-up-2bm9)
-- [Passport.js &amp;&amp; JWT](https://dev.to/mustafacam/passportjs-jwt-4kl3)
-- [kimlik doğrulama ve yetkilendirme için popüler 5 araç &lpar;Express&rpar;](https://dev.to/mustafacam/kimlik-dogrulama-ve-yetkilendirme-icin-populer-5-arac-7ad)
-- [Effortlessly Transfer Your WordPress Site: A Guide to 8 Top-notch Migration Plugins](https://dev.to/jamesmartindev/effortlessly-transfer-your-wordpress-site-a-guide-to-8-top-notch-migration-plugins-dce)
+- [Photon Lockdown | HackTheBox Write-up](https://dev.to/shiahalan/photon-lockdown-hackthebox-write-up-p45)
+- [✨ Top 5 Best Yet Underrated Projects that no one talks about 😎😭](https://dev.to/shricodev/top-5-best-yet-underrated-projects-that-no-one-talks-about-343h)
+- [Using JavaScript: as a package or as CDN](https://dev.to/superviz/using-javascript-as-a-package-or-as-cdn-4n14)
+- [3 Programming Myths That Keep You Stuck, Frustrated And Underpaid](https://dev.to/dragosnedelcu/3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-27bg)
 <!-- BLOG-POST-LIST:END -->
 
