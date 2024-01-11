@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing AWS Complexity](https://dev.to/shuttle_dev/bypassing-aws-complexity-19nh)
 - [ArrayBuffer and TypedArray](https://dev.to/kshitij978/arraybuffer-and-typedarray-3ege)
+- [Mastering Git: Resolving &quot;Not Possible to Fast-Forward, Aborting&quot; Error](https://dev.to/saint_vandora/mastering-git-resolving-not-possible-to-fast-forward-aborting-error-1pac)
 - [Creating k-NN with C++ &lpar;from Scratch&rpar;](https://dev.to/vodoanminhhieuvn/creating-k-nn-with-c-from-scratch-2ek9)
-- [Snowflake Introduction](https://dev.to/aryamasinha/snowflake-introduction-4863)
-- [How to authenticate a Next.js Route Handler using Clerk](https://dev.to/ably/how-to-authenticate-a-nextjs-route-handler-using-clerk-36pm)
 <!-- BLOG-POST-LIST:END -->
 
