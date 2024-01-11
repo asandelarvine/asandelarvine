@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Abstraction Track Will You Hack To Win Over $15,000 in Prizes?](https://dev.to/starpause/which-abstraction-track-will-you-hack-to-win-over-15000-in-prizes-3701)
-- [🎉 The Gowebly CLI has grown to v2.0.0](https://dev.to/koddr/the-gowebly-cli-has-grown-to-v200-d1c)
-- [How To Design a MySQL Database for your Basic Notification System?](https://dev.to/nikl/how-to-design-a-mysql-database-for-your-basic-notification-system-2fln)
-- [Python for Beginners - Introduction](https://dev.to/tina_popli/python-for-beginners-introduction-1pa2)
+- [2023 in retrospective](https://dev.to/nfrankel/2023-in-retrospective-3db9)
+- [Ukrainian embroidery CSS Art](https://dev.to/rodzyk/ukrainian-embroidery-css-art-aa5)
+- [What metrics and key performance indicators &lpar;KPIs&rpar; are commonly used in Scrum to measure team productivity and project success?](https://dev.to/nebeltech11/what-metrics-and-key-performance-indicators-kpis-are-commonly-used-in-scrum-to-measure-team-productivity-and-project-success-55oa)
+- [Angular is not for everyone, and probably not for you](https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n)
 <!-- BLOG-POST-LIST:END -->
 
