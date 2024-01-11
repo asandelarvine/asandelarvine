@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#MyDEVResolutions2024](https://dev.to/aneeqakhan/mydevresolutions2024-pmd)
-- [Demystifying advanced asynchronous patterns: Generators, Iterators, and RxJS](https://dev.to/best_codes/demystifying-advanced-asynchronous-patterns-generators-iterators-and-rxjs-4jgh)
-- [Welcome Thread - v258](https://dev.to/devteam/welcome-thread-v256-d15)
-- [The basics of WebDev&#39;in: Client/Server Architecture](https://dev.to/venturacodes/the-basics-of-webdevin-clientserver-architecture-1l2d)
+- [Writing simple Python scripts faster with Amazon Q](https://dev.to/aws/writing-simple-python-scripts-faster-with-amazon-q-6n4)
+- [McDeepNet: A Step-by-Step Guide to Building and Training a TensorFlow RNN for McDonald’s Reviews Analysis 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
+- [How Can Design Make Websites an Effortless Experience?](https://dev.to/kawward/how-can-design-make-websites-an-effortless-experience-57po)
+- [Deepspeed Wheels For Windows](https://dev.to/furkangozukara/deepspeed-wheels-for-windows-4chh)
 <!-- BLOG-POST-LIST:END -->
 
