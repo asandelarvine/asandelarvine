@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Streamlit app with LangChain and Amazon Bedrock](https://dev.to/aws/build-a-streamlit-app-with-langchain-and-amazon-bedrock-106l)
 - [36 Courses/Certifications for Web Developers 🔥](https://dev.to/arjuncodess/36-coursescertifications-for-web-developers-19hc)
+- [Next.js 14 and Vercel Edge Network](https://dev.to/lexyerresta/nextjs-14-and-vercel-edge-network-4p1m)
 - [How To Implement Caching in Node.js Using Redis](https://dev.to/speaklouder/how-to-implement-caching-in-nodejs-using-redis-188c)
-- [Why do I ♥ debugging?](https://dev.to/buzzpy/why-do-i-debugging-5h51)
-- [[20 Days of DynamoDB] Day 5 - Avoid overwrites when using DynamoDB UpdateItem API](https://dev.to/aws/20-days-of-dynamodb-day-5-avoid-overwrites-when-using-dynamodb-updateitem-api-799)
 <!-- BLOG-POST-LIST:END -->
 
