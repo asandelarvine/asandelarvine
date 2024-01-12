@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Websites That Every Developer Must know 🤩](https://dev.to/random_ti/top-12-websites-that-every-developer-must-know-2a67)
 - [Top 10 Software Development Trends in 2024](https://dev.to/durgesh4993/top-10-software-development-trends-in-2024-4h7o)
+- [&quot;Have fun with it&quot;. RunnerXBT – On Trading, Mentality, and Losses](https://dev.to/endeo/have-fun-with-it-runnerxbt-on-trading-mentality-and-losses-1h6l)
 - [Who wants to be a millionaire - Computer Science edition &lpar;Python&rpar;](https://dev.to/joshdreckmeyr/who-wants-to-be-a-millionaire-computer-science-edition-python-4108)
-- [Dominando las pruebas en DevOps: Una guía exhaustiva de tipos y técnicas](https://dev.to/danieljsaldana/dominando-las-pruebas-en-devops-una-guia-exhaustiva-de-tipos-y-tecnicas-3fn6)
-- [My K8s Cheatsheet](https://dev.to/barbara/my-k8s-cheatsheet-2d8p)
 <!-- BLOG-POST-LIST:END -->
 
