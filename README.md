@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: How do improve focus?](https://dev.to/devteam/sloans-inbox-how-do-improve-focus-4i51)
-- [Mentor Matching Monthly](https://dev.to/devteam/mentor-matching-monthly-3iae)
-- [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
-- [Exploring GraphQL: Advantages Over REST and Implementation Tips](https://dev.to/bartzalewski/exploring-graphql-advantages-over-rest-and-implementation-tips-33o8)
+- [💻Vim Text Editor: 15 Must-Know Commands for Developers](https://dev.to/zanepearton/vim-text-editor-15-must-know-commands-for-developers-29n7)
+- [Setting up a SOCKS Proxy Server with Dante on AWS](https://dev.to/idrisakintobi/setting-up-a-socks-proxy-server-with-dante-on-aws-m54)
+- [Should you do #100DaysOfCode?](https://dev.to/elliezub/should-you-do-100daysofcode-3p0h)
+- [#DEVResolutions2024](https://dev.to/margaretincali/devresolutions2024-1fb1)
 <!-- BLOG-POST-LIST:END -->
 
