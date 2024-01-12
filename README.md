@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear MLE&#39;s..](https://dev.to/nocode3000/dear-mles-neg)
+- [Securing Virtual Memory in Operating Systems](https://dev.to/syedmuhammadaliraza/securing-virtual-memory-in-operating-systems-31oj)
+- [People are motivated by progress, mastery and controle - KAWWARD](https://dev.to/kawward/people-are-motivated-by-progress-mastery-and-controle-kawward-3hoo)
 - [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
-- [Howto: WASM runtimes in Docker / Colima](https://dev.to/bguijt/howto-wasm-runtimes-in-docker-colima-52c2)
-- [What&#39;s new in the GitHub Community - 2024.01.12](https://dev.to/github/whats-new-in-the-github-community-20240112-3e7g)
-- [A simple React app: fetch GitHub users information via API](https://dev.to/baransel/a-simple-react-app-fetch-github-users-information-via-api-52f5)
 <!-- BLOG-POST-LIST:END -->
 
