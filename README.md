@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to APIToolkit&lpar;The all-in-one api tool&rpar;](https://dev.to/apitoolkit/introduction-to-apitoolkitthe-all-in-one-api-tool-o56)
 - [SVG Filter — Cross Blur](https://dev.to/rodzyk/svg-filter-cross-blur-1d33)
+- [🎨 Neural Style Transfer Tutorial with Tensorflow and Python](https://dev.to/feitgemel/neural-style-transfer-tutorial-with-tensorflow-and-python-gp2)
 - [How to Integrate Neo4j With SSO on Azure — One Login to Rule Them All](https://dev.to/msenechal/how-to-integrate-neo4j-with-sso-on-azure-one-login-to-rule-them-all-408a)
-- [Development of the new Code Repo version](https://dev.to/antonioobra/development-of-the-new-code-repo-version-3kkg)
-- [The Secret to Mastering Distributed Systems: CAP Theorem and Its Extensions](https://dev.to/iwooky/the-secret-to-mastering-distributed-systems-cap-theorem-and-its-extensions-4ii4)
 <!-- BLOG-POST-LIST:END -->
 
