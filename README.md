@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blocked users&#39; posts featured in &quot;relevant&quot; feed](https://dev.to/ingosteinke/blocked-users-posts-featured-in-relevant-feed-3j6g)
-- [Introducing gdocweb](https://dev.to/codenameone/introducing-gdocweb-29g7)
-- [100+ Free HTML CSS Website Templates](https://dev.to/templatesjungle/100-free-html-css-website-templates-5d6h)
-- [Building an Appointment Booking app in Go](https://dev.to/encore/building-an-appointment-booking-app-in-go-3kl7)
+- [Dancing | HackTheBox Write-up](https://dev.to/shiahalan/dancing-hackthebox-write-up-2o35)
+- [Easy Guide to Creating Smart Chatbots with Langchain &amp; GPT-4](https://dev.to/zanepearton/easy-guide-to-creating-smart-chatbots-with-langchain-gpt-4-i5c)
+- [Modélisation d’entreprise : un accélérateur de transformation digitale](https://dev.to/jmegnidro/modelisation-dentreprise-un-accelerateur-de-transformation-digitale-78e)
+- [Node mTLS from scratch](https://dev.to/woovi/node-mtls-from-scratch-3p4e)
 <!-- BLOG-POST-LIST:END -->
 
