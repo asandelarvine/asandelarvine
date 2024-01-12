@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A simple React app: fetch GitHub users information via API](https://dev.to/baransel/a-simple-react-app-fetch-github-users-information-via-api-52f5)
 - [Ultimate Guide to Hire Remote and Dedicated Developers: Fuel Your Startup&#39;s Success](https://dev.to/navecktech/ultimate-guide-to-hire-remote-and-dedicated-developers-fuel-your-startups-success-36bk)
 - [This Week In React #169: useMemo, 2 Reacts, Next.js, Remix, JS Rising Stars, Docusaurus, Astro, Fresnel, Mutative, JSX emails...](https://dev.to/sebastienlorber/this-week-in-react-169-usememo-2-reacts-nextjs-remix-js-rising-stars-docusaurus-astro-fresnel-mutative-jsx-emails-4lla)
 - [Tools used by the top 1% of Platform Engineers and their Commercial Open Source Alternatives](https://dev.to/digger/tools-used-by-the-top-1-of-platform-engineers-and-their-commercial-open-source-alternatives-6l7)
-- [Unwrap GitHub Organization Contributions in 2023](https://dev.to/vauntdev/unwrap-github-organization-contributions-in-2023-3p2n)
 <!-- BLOG-POST-LIST:END -->
 
