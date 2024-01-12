@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Public Chain Development in 2023](https://dev.to/footprint-analytics/public-chain-development-in-2023-ia0)
-- [What is your favorite open source alternative to proprietary software?](https://dev.to/opensauced/what-is-your-favorite-open-source-alternative-to-proprietary-software-fa2)
-- [Import data from Excel to SQL Server or Azure SQL Database | Convert Excel Files to Databases Quickly](https://dev.to/anilsingh/import-data-from-excel-to-sql-server-or-azure-sql-database-convert-excel-files-to-databases-quickly-4h2e)
-- [How to Create a database in SQL Server 2022?](https://dev.to/anilsingh/how-to-create-a-database-in-sql-server-2022-4b0l)
+- [Blocked users&#39; posts featured in &quot;relevant&quot; feed](https://dev.to/ingosteinke/blocked-users-posts-featured-in-relevant-feed-3j6g)
+- [Introducing gdocweb](https://dev.to/codenameone/introducing-gdocweb-29g7)
+- [100+ Free HTML CSS Website Templates](https://dev.to/templatesjungle/100-free-html-css-website-templates-5d6h)
+- [Building an Appointment Booking app in Go](https://dev.to/encore/building-an-appointment-booking-app-in-go-3kl7)
 <!-- BLOG-POST-LIST:END -->
 
