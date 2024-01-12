@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [36 Courses/Certifications for Web Developers 🔥](https://dev.to/arjuncodess/36-coursescertifications-for-web-developers-19hc)
+- [How To Implement Caching in Node.js Using Redis](https://dev.to/speaklouder/how-to-implement-caching-in-nodejs-using-redis-188c)
 - [Why do I ♥ debugging?](https://dev.to/buzzpy/why-do-i-debugging-5h51)
 - [[20 Days of DynamoDB] Day 5 - Avoid overwrites when using DynamoDB UpdateItem API](https://dev.to/aws/20-days-of-dynamodb-day-5-avoid-overwrites-when-using-dynamodb-updateitem-api-799)
-- [Playable Sandbox Now Available](https://dev.to/edong/playable-sandbox-now-available-5b3)
-- [Elevando a Qualidade: Guia Prático de Testes em Cypress para Componentes e E2E em Aplicações React](https://dev.to/williammdsilva/elevando-a-qualidade-guia-pratico-de-testes-em-cypress-para-componentes-e-e2e-em-aplicacoes-react-2k35)
 <!-- BLOG-POST-LIST:END -->
 
