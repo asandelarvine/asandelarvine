@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Import data from Excel to SQL Server or Azure SQL Database | Convert Excel Files to Databases Quickly](https://dev.to/anilsingh/import-data-from-excel-to-sql-server-or-azure-sql-database-convert-excel-files-to-databases-quickly-4h2e)
+- [How to Create a database in SQL Server 2022?](https://dev.to/anilsingh/how-to-create-a-database-in-sql-server-2022-4b0l)
 - [Build a Streamlit app with LangChain and Amazon Bedrock](https://dev.to/aws/build-a-streamlit-app-with-langchain-and-amazon-bedrock-106l)
 - [36 Courses/Certifications for Web Developers 🔥](https://dev.to/arjuncodess/36-coursescertifications-for-web-developers-19hc)
-- [Next.js 14 and Vercel Edge Network](https://dev.to/lexyerresta/nextjs-14-and-vercel-edge-network-4p1m)
-- [How To Implement Caching in Node.js Using Redis](https://dev.to/speaklouder/how-to-implement-caching-in-nodejs-using-redis-188c)
 <!-- BLOG-POST-LIST:END -->
 
