@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Websites That Every Developer Must know 🤩](https://dev.to/random_ti/top-12-websites-that-every-developer-must-know-2a67)
-- [Top 10 Software Development Trends in 2024](https://dev.to/durgesh4993/top-10-software-development-trends-in-2024-4h7o)
-- [&quot;Have fun with it&quot;. RunnerXBT – On Trading, Mentality, and Losses](https://dev.to/endeo/have-fun-with-it-runnerxbt-on-trading-mentality-and-losses-1h6l)
-- [Who wants to be a millionaire - Computer Science edition &lpar;Python&rpar;](https://dev.to/joshdreckmeyr/who-wants-to-be-a-millionaire-computer-science-edition-python-4108)
+- [Unwrap GitHub Organization Contributions in 2023](https://dev.to/vauntdev/unwrap-github-organization-contributions-in-2023-3p2n)
+- [The Evolution of User Experience &lpar;UX&rpar; Design in the Digital Age](https://dev.to/qbentil/the-evolution-of-user-experience-ux-design-in-the-digital-age-1077)
+- [AI for Web Devs: Project Introduction &amp; Setup](https://dev.to/austingil/ai-for-web-devs-project-introduction-setup-4jhk)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4fp1)
 <!-- BLOG-POST-LIST:END -->
 
