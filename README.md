@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
+- [Howto: WASM runtimes in Docker / Colima](https://dev.to/bguijt/howto-wasm-runtimes-in-docker-colima-52c2)
+- [What&#39;s new in the GitHub Community - 2024.01.12](https://dev.to/github/whats-new-in-the-github-community-20240112-3e7g)
 - [A simple React app: fetch GitHub users information via API](https://dev.to/baransel/a-simple-react-app-fetch-github-users-information-via-api-52f5)
-- [Ultimate Guide to Hire Remote and Dedicated Developers: Fuel Your Startup&#39;s Success](https://dev.to/navecktech/ultimate-guide-to-hire-remote-and-dedicated-developers-fuel-your-startups-success-36bk)
-- [This Week In React #169: useMemo, 2 Reacts, Next.js, Remix, JS Rising Stars, Docusaurus, Astro, Fresnel, Mutative, JSX emails...](https://dev.to/sebastienlorber/this-week-in-react-169-usememo-2-reacts-nextjs-remix-js-rising-stars-docusaurus-astro-fresnel-mutative-jsx-emails-4lla)
-- [Tools used by the top 1% of Platform Engineers and their Commercial Open Source Alternatives](https://dev.to/digger/tools-used-by-the-top-1-of-platform-engineers-and-their-commercial-open-source-alternatives-6l7)
 <!-- BLOG-POST-LIST:END -->
 
