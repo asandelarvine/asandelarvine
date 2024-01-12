@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Software Development Trends in 2024](https://dev.to/durgesh4993/top-10-software-development-trends-in-2024-4h7o)
+- [Who wants to be a millionaire - Computer Science edition &lpar;Python&rpar;](https://dev.to/joshdreckmeyr/who-wants-to-be-a-millionaire-computer-science-edition-python-4108)
+- [Dominando las pruebas en DevOps: Una guía exhaustiva de tipos y técnicas](https://dev.to/danieljsaldana/dominando-las-pruebas-en-devops-una-guia-exhaustiva-de-tipos-y-tecnicas-3fn6)
 - [My K8s Cheatsheet](https://dev.to/barbara/my-k8s-cheatsheet-2d8p)
-- [Dancing | HackTheBox Write-up](https://dev.to/shiahalan/dancing-hackthebox-write-up-2o35)
-- [Easy Guide to Creating Smart Chatbots with Langchain &amp; GPT-4](https://dev.to/zanepearton/easy-guide-to-creating-smart-chatbots-with-langchain-gpt-4-i5c)
-- [A Note to Developers: Considerations for Using &quot;Acme&quot; in Japanese Market](https://dev.to/ku_suke/a-note-to-developers-considerations-for-using-acme-in-japanese-market-3p75)
 <!-- BLOG-POST-LIST:END -->
 
