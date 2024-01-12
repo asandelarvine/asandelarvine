@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💻Vim Text Editor: 15 Must-Know Commands for Developers](https://dev.to/zanepearton/vim-text-editor-15-must-know-commands-for-developers-29n7)
-- [Setting up a SOCKS Proxy Server with Dante on AWS](https://dev.to/idrisakintobi/setting-up-a-socks-proxy-server-with-dante-on-aws-m54)
-- [Should you do #100DaysOfCode?](https://dev.to/elliezub/should-you-do-100daysofcode-3p0h)
-- [#DEVResolutions2024](https://dev.to/margaretincali/devresolutions2024-1fb1)
+- [Elevando a Qualidade: Guia Prático de Testes em Cypress para Componentes e E2E em Aplicações React](https://dev.to/williammdsilva/elevando-a-qualidade-guia-pratico-de-testes-em-cypress-para-componentes-e-e2e-em-aplicacoes-react-2k35)
+- [Learn For Loop By Coding this Fun Project! JavaScript Hands-On Tutorial for Beginners!](https://dev.to/piko/i-made-a-hands-on-tutorial-for-learning-forloops-2bng)
+- [Why I Built a Vscode Extension](https://dev.to/goslek/why-i-built-a-vscode-extension-430h)
+- [Web Development Journey: Overcoming Misleading Advice?](https://dev.to/codenewbieteam/web-development-journey-overcoming-misleading-advice-16a7)
 <!-- BLOG-POST-LIST:END -->
 
