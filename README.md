@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Postman&#39;de pretty&#39;nin aktif olması için](https://dev.to/mustafacam/postmande-prettynin-aktif-olmasi-icin-4c8a)
+- [Detect, Defend, Prevail: Payments Fraud Detection using ML &amp; Deepchecks](https://dev.to/jagroop2001/detect-defend-prevail-payments-fraud-detection-using-ml-deepchecks-4fag)
+- [Topics You Must Know Before Learning Nodejs](https://dev.to/anushka200310/topics-you-must-know-before-learning-nodejs-1kjb)
 - [How to integrate Imagen2 AI in NodeJS](https://dev.to/msveshnikov/integrating-imagen-ai-for-image-generation-26ac)
-- [What are you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-are-you-learning-about-this-weekend-42k3)
-- [What I learn from Google Cloud Study Jam: GenAI](https://dev.to/d75435911173/what-i-learn-from-google-cloud-study-jam-genai-2mfp)
-- [I Launched The Most Awaited Complete React Course](https://dev.to/myogeshchavan97/i-launched-the-most-awaited-complete-react-course-1efe)
 <!-- BLOG-POST-LIST:END -->
 
