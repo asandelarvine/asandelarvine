@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I Launched The Most Awaited Complete React Course](https://dev.to/myogeshchavan97/i-launched-the-most-awaited-complete-react-course-1efe)
+- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰? 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰𝟐 &amp; 𝐰𝐰𝐰𝟑? 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭, 𝐖𝐖𝐖, 𝐁𝐫𝐨𝐰𝐬𝐞𝐫](https://dev.to/rounit08/--443j)
 - [Water Wave Animation in Flutter](https://dev.to/raman04byte/water-wave-animation-in-flutter-io5)
 - [How to generate QR Code Using Spring Boot](https://dev.to/realnamehidden1_61/how-to-generate-qr-code-using-spring-boot-3k1j)
-- [Creating an Engaging Curriculum vitae using Github Pages: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-page-cv-a-step-by-step-guide-1e4h)
-- [Discovering how python is saving my memory](https://dev.to/svemaraju/discovering-how-python-is-saving-my-ram-2jfc)
 <!-- BLOG-POST-LIST:END -->
 
