@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
-- [Transformation in the restaurant food delivery system and their upgraded features](https://dev.to/outfleet/transformation-in-the-restaurant-food-delivery-system-and-their-upgraded-features-32mh)
 - [Unlocking State Management Simplicity with Zustand! 🚀](https://dev.to/sarathadhithya/unlocking-state-management-simplicity-with-zustand-2adl)
 - [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
+- [Postman&#39;de pretty&#39;nin aktif olması için](https://dev.to/mustafacam/postmande-prettynin-aktif-olmasi-icin-4c8a)
 <!-- BLOG-POST-LIST:END -->
 
