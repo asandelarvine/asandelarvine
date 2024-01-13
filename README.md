@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Elm extensible records](https://dev.to/csaltos/elm-extensible-records-usage-5707)
+- [Swift Best Practices: The Crucial Importance of Executing Code on the Main Thread or Main Actor](https://dev.to/paolinsky/swift-best-practices-the-crucial-importance-of-executing-code-on-the-main-thread-or-main-actor-5ham)
 - [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
 - [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
-- [Deploy an EC2 Instance in AWS, connect to it and install nginx](https://dev.to/lanreogunlade1998/deploy-an-ec2-instance-in-aws-connect-to-it-and-install-nginx-118g)
-- [How to Update PHP in Linux to any version](https://dev.to/xxzeroxx/how-to-update-php-in-linux-to-any-version-16mp)
 <!-- BLOG-POST-LIST:END -->
 
