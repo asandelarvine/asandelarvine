@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DaisyUI + Alpine.js + Codehooks.io - the simple web app trio](https://dev.to/restdbjones/daisyui-alpinejs-codehooksio-the-simple-web-app-trio-4lad)
 - [How to Send Email Notifications using JAVA? &lpar;3 Methods With Code Examples&rpar;](https://dev.to/suprsend/how-to-send-email-notifications-using-java-3-methods-with-code-examples-2ckd)
 - [Pushing Cloudflare Worker logs to Grafana Loki](https://dev.to/krasun/pushing-cloudflare-worker-logs-to-grafana-loki-1elg)
 - [Optimizing Next.js with OpenTelemetry](https://dev.to/z4nr34l/optimizing-nextjs-with-opentelemetry-2c8c)
-- [A guide on Neovim&#39;s LSP client](https://dev.to/vonheikemen/a-guide-on-neovims-lsp-client-mn0)
 <!-- BLOG-POST-LIST:END -->
 
