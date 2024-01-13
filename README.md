@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting with Rector PHP: Improving Your PHP Code with Automation](https://dev.to/robertobutti/starting-with-rector-php-improving-your-php-code-with-automation-1ahd)
+- [Tackling a large volume of simple problems in an Open Source project](https://dev.to/manchicken/tackling-a-large-volume-of-simple-problems-in-an-open-source-project-5fn3)
 - [Tublian Internship Diaries: A Look Back at Week 3 in Open Source](https://dev.to/lymah/tublian-internship-diaries-a-look-back-at-week-3-in-open-source-1l8i)
-- [Tech Debt and other tech finances](https://dev.to/noriller/tech-debt-and-other-tech-finances-16hp)
-- [DaisyUI + Alpine.js + Codehooks.io - the simple web app trio](https://dev.to/restdbjones/daisyui-alpinejs-codehooksio-the-simple-web-app-trio-4lad)
-- [How to Send Email Notifications using JAVA? &lpar;3 Methods With Code Examples&rpar;](https://dev.to/suprsend/how-to-send-email-notifications-using-java-3-methods-with-code-examples-2ckd)
+- [Working with ListView in Windows Forms](https://dev.to/karenpayneoregon/working-with-listview-in-windows-forms-205d)
 <!-- BLOG-POST-LIST:END -->
 
