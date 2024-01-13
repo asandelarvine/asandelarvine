@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering how python is saving my memory](https://dev.to/svemaraju/discovering-how-python-is-saving-my-ram-2jfc)
 - [12 Must-Have Resources for Mastering Milvus - Your Gateway to Seamless Vector Workloads](https://dev.to/chrischurilo/12-must-have-resources-for-mastering-milvus-your-gateway-to-seamless-vector-workloads-1h8o)
 - [Hands-on Tutorial for javaScript Newbies : Learn for loops by a creating a Dynamic Grid](https://dev.to/piko/hands-on-tutorial-for-javascript-beginners-learn-for-loops-by-a-creating-a-dynamic-grid-if5)
 - [Introduction to APIToolkit&lpar;The all-in-one api tool&rpar;](https://dev.to/apitoolkit/introduction-to-apitoolkitthe-all-in-one-api-tool-o56)
-- [SVG Filter — Cross Blur](https://dev.to/rodzyk/svg-filter-cross-blur-1d33)
 <!-- BLOG-POST-LIST:END -->
 
