@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman&#39;de pretty&#39;nin aktif olması için](https://dev.to/mustafacam/postmande-prettynin-aktif-olmasi-icin-4c8a)
-- [Detect, Defend, Prevail: Payments Fraud Detection using ML &amp; Deepchecks](https://dev.to/jagroop2001/detect-defend-prevail-payments-fraud-detection-using-ml-deepchecks-4fag)
-- [Topics You Must Know Before Learning Nodejs](https://dev.to/anushka200310/topics-you-must-know-before-learning-nodejs-1kjb)
-- [How to integrate Imagen2 AI in NodeJS](https://dev.to/msveshnikov/integrating-imagen-ai-for-image-generation-26ac)
+- [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
+- [Transformation in the restaurant food delivery system and their upgraded features](https://dev.to/outfleet/transformation-in-the-restaurant-food-delivery-system-and-their-upgraded-features-32mh)
+- [Unlocking State Management Simplicity with Zustand! 🚀](https://dev.to/sarathadhithya/unlocking-state-management-simplicity-with-zustand-2adl)
+- [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
 <!-- BLOG-POST-LIST:END -->
 
