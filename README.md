@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
-- [Unlocking State Management Simplicity with Zustand! 🚀](https://dev.to/sarathadhithya/unlocking-state-management-simplicity-with-zustand-2adl)
-- [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
-- [Postman&#39;de pretty&#39;nin aktif olması için](https://dev.to/mustafacam/postmande-prettynin-aktif-olmasi-icin-4c8a)
+- [How to Send Email Notifications using JAVA? &lpar;3 Methods With Code Examples&rpar;](https://dev.to/suprsend/how-to-send-email-notifications-using-java-3-methods-with-code-examples-2ckd)
+- [Pushing Cloudflare Worker logs to Grafana Loki](https://dev.to/krasun/pushing-cloudflare-worker-logs-to-grafana-loki-1elg)
+- [Optimizing Next.js with OpenTelemetry](https://dev.to/z4nr34l/optimizing-nextjs-with-opentelemetry-2c8c)
+- [A guide on Neovim&#39;s LSP client](https://dev.to/vonheikemen/a-guide-on-neovims-lsp-client-mn0)
 <!-- BLOG-POST-LIST:END -->
 
