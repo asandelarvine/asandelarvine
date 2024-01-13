@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting with Rector PHP: Improving Your PHP Code with Automation](https://dev.to/robertobutti/starting-with-rector-php-improving-your-php-code-with-automation-1ahd)
-- [Tackling a large volume of simple problems in an Open Source project](https://dev.to/manchicken/tackling-a-large-volume-of-simple-problems-in-an-open-source-project-5fn3)
-- [Tublian Internship Diaries: A Look Back at Week 3 in Open Source](https://dev.to/lymah/tublian-internship-diaries-a-look-back-at-week-3-in-open-source-1l8i)
-- [Working with ListView in Windows Forms](https://dev.to/karenpayneoregon/working-with-listview-in-windows-forms-205d)
+- [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
+- [Deploy an EC2 Instance in AWS, connect to it and install nginx](https://dev.to/lanreogunlade1998/deploy-an-ec2-instance-in-aws-connect-to-it-and-install-nginx-118g)
+- [How to Update PHP in Linux to any version](https://dev.to/xxzeroxx/how-to-update-php-in-linux-to-any-version-16mp)
+- [Unions in C](https://dev.to/pauljlucas/unions-in-c-1ojj)
 <!-- BLOG-POST-LIST:END -->
 
