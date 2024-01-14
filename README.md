@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Elm extensible records](https://dev.to/csaltos/elm-extensible-records-usage-5707)
-- [Swift Best Practices: The Crucial Importance of Executing Code on the Main Thread or Main Actor](https://dev.to/paolinsky/swift-best-practices-the-crucial-importance-of-executing-code-on-the-main-thread-or-main-actor-5ham)
-- [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
-- [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
+- [OAuth In a Nutshell](https://dev.to/roylee0704/oauth-in-a-nutshell-2p8l)
+- [My Rules for Being a Tech Speaker](https://dev.to/mattdark/my-rules-for-being-a-tech-speaker-4g4o)
+- [10 YouTube Channels for Software Developer](https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
 <!-- BLOG-POST-LIST:END -->
 
