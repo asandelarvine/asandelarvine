@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💥 Unleashing the Power of Underrated Open Source Projects: 5 Hidden Gems You Should Know 💥](https://dev.to/sarathadhithya/unleashing-the-power-of-underrated-open-source-projects-5-hidden-gems-you-should-know-p61)
 - [Why pomodoro doesn&#39;t work? Try this alternative 🍅](https://dev.to/flowmodor/why-pomodoro-doesnt-work-try-this-alternative-2no9)
 - [WebSockets Unlocked: Mastering the Art of Real-Time Communication](https://dev.to/raunakgurud09/websockets-unlocked-mastering-the-art-of-real-time-communication-2lnj)
-- [🤔 How to Solve Problems in Programming like a PRO](https://dev.to/codewithshahan/how-to-solve-problems-in-programming-beginners-guide-420d)
-- [Crafting A Image-Centric Web App: A Guide to Clay Theme on Gatsby 5+](https://dev.to/travisl/crafting-a-image-centric-web-app-a-guide-to-clay-theme-on-gatsby-5-ep5)
+- [How to Solve Problems in Programming like a PRO🦾](https://dev.to/codewithshahan/how-to-solve-problems-in-programming-beginners-guide-420d)
 <!-- BLOG-POST-LIST:END -->
 
