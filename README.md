@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Unleashing the Power of Underrated Open Source Projects: 5 Hidden Gems You Should Know 💥](https://dev.to/sarathadhithya/unleashing-the-power-of-underrated-open-source-projects-5-hidden-gems-you-should-know-p61)
-- [Why pomodoro doesn&#39;t work? Try this alternative 🍅](https://dev.to/flowmodor/why-pomodoro-doesnt-work-try-this-alternative-2no9)
-- [WebSockets Unlocked: Mastering the Art of Real-Time Communication](https://dev.to/raunakgurud09/websockets-unlocked-mastering-the-art-of-real-time-communication-2lnj)
-- [How to Solve Problems in Programming like a PRO🦾](https://dev.to/codewithshahan/how-to-solve-problems-in-programming-beginners-guide-420d)
+- [The comprehensive plan to play at re:invent](https://dev.to/aws-builders/the-comprehensive-plan-to-play-at-reinvent-2dkp)
+- [Which type of Blogs DEV.TO Community want ?](https://dev.to/jagroop2001/which-type-of-blogs-devto-community-want--21e0)
+- [Migración sin problemas: De Terraform a OpenTofu con ejemplos prácticos](https://dev.to/danieljsaldana/migracion-sin-problemas-de-terraform-a-opentofu-con-ejemplos-practicos-4ged)
+- [Supercharge Your Mobile Dev Skills: 10 Essential Tools for Max Efficiency](https://dev.to/happyer/supercharge-your-mobile-dev-skills-10-essential-tools-for-max-efficiency-18g7)
 <!-- BLOG-POST-LIST:END -->
 
