@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [OAuth In a Nutshell](https://dev.to/roylee0704/oauth-in-a-nutshell-2p8l)
 - [My Rules for Being a Tech Speaker](https://dev.to/mattdark/my-rules-for-being-a-tech-speaker-4g4o)
 - [10 YouTube Channels for Software Developer](https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
+- [How to Build a Decentralized Charity Platform with Next.js, TypeScript, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-charity-platform-with-nextjs-typescript-and-solidity-52g4)
 <!-- BLOG-POST-LIST:END -->
 
