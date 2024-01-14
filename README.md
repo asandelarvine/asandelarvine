@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End App Testing](https://dev.to/talenttinaapi/end-to-end-app-testing-44aj)
+- [C#, Dart, TypeScript , Python: side-by-side](https://dev.to/maximsaplin/c-dart-typescript-python-side-by-side-3j34)
+- [My First Terraform Experience as Ansible Guy](https://dev.to/andrii-sudak/my-first-terraform-experience-as-ansible-guy-12ig)
 - [Unlocking Spatial Capabilities with PostGIS on Apache AGE](https://dev.to/danielwambo/unlocking-spatial-capabilities-with-postgis-541d)
-- [Introduction to Shadcn/ui Library](https://dev.to/shreyvijayvargiya/introduction-to-shadcnui-library-g79)
-- [Compiling Ruby 3.3 on OpenBSD 7.4](https://dev.to/olistik/compiling-ruby-33-on-openbsd-74-5emn)
-- [How can you learn to code and get a job?](https://dev.to/horsecoder/how-can-you-learn-to-code-and-get-a-job-4mc4)
 <!-- BLOG-POST-LIST:END -->
 
