@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Select the direct children of an element](https://dev.to/phuocng/select-the-direct-children-of-an-element-3bcc)
+- [The 7 Days 7 Projects Challenge 👨‍💻](https://dev.to/arjuncodess/the-7-days-7-projects-challenge-bn4)
+- [Git vs GitHub&lpar;cake version&rpar;](https://dev.to/rounit08/git-vs-githubcake-version-3hh0)
 - [Destiny: A Tool to Manage Cluttered Folders](https://dev.to/bhumit070/destiny-a-tool-to-manage-cluttered-folders-14b7)
-- [Exploring OpenShift with CRC](https://dev.to/donaldsebleung/exploring-openshift-with-crc-1jh4)
-- [OAuth In a Nutshell](https://dev.to/roylee0704/oauth-in-a-nutshell-2p8l)
-- [My Rules for Being a Tech Speaker](https://dev.to/mattdark/my-rules-for-being-a-tech-speaker-4g4o)
 <!-- BLOG-POST-LIST:END -->
 
