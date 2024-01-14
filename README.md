@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Native Instruments – Session Guitarist Electric Vintage Download](https://dev.to/extrapluginsd/native-instruments-session-guitarist-electric-vintage-download-nhe)
+- [Next.js SEO: The Complete Checklist to Boost Your Site Ranking](https://dev.to/dminhvu/nextjs-seo-the-complete-checklist-to-boost-your-site-ranking-28bk)
+- [Next.js Server Actions and Mutations &lpar;Without APIs!&rpar;](https://dev.to/mohammedpoolwala/nextjs-server-actions-and-mutations-without-apis-4e7n)
 - [Branding for Developers : A Practical Guide](https://dev.to/buzzpy/branding-for-developers-437)
-- [Select the direct children of an element](https://dev.to/phuocng/select-the-direct-children-of-an-element-3bcc)
-- [The 7 Days 7 Projects Challenge 👨‍💻](https://dev.to/arjuncodess/the-7-days-7-projects-challenge-bn4)
-- [Git vs GitHub&lpar;cake version&rpar;](https://dev.to/rounit08/git-vs-githubcake-version-3hh0)
 <!-- BLOG-POST-LIST:END -->
 
