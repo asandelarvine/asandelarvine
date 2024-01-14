@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Branding for Developers : A Practical Guide](https://dev.to/buzzpy/branding-for-developers-437)
 - [Select the direct children of an element](https://dev.to/phuocng/select-the-direct-children-of-an-element-3bcc)
 - [The 7 Days 7 Projects Challenge 👨‍💻](https://dev.to/arjuncodess/the-7-days-7-projects-challenge-bn4)
 - [Git vs GitHub&lpar;cake version&rpar;](https://dev.to/rounit08/git-vs-githubcake-version-3hh0)
-- [Destiny: A Tool to Manage Cluttered Folders](https://dev.to/bhumit070/destiny-a-tool-to-manage-cluttered-folders-14b7)
 <!-- BLOG-POST-LIST:END -->
 
