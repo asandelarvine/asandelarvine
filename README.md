@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven Sites for Free Low-Code App Templates](https://dev.to/jamesmurdza/seven-sites-for-free-low-code-app-templates-4a1c)
+- [Missing at point blank range](https://dev.to/boblied/missing-at-point-blank-range-1di)
 - [End-to-End App Testing](https://dev.to/talenttinaapi/end-to-end-app-testing-44aj)
 - [C#, Dart, TypeScript , Python: side-by-side](https://dev.to/maximsaplin/c-dart-typescript-python-side-by-side-3j34)
-- [My First Terraform Experience as Ansible Guy](https://dev.to/andrii-sudak/my-first-terraform-experience-as-ansible-guy-12ig)
-- [Unlocking Spatial Capabilities with PostGIS on Apache AGE](https://dev.to/danielwambo/unlocking-spatial-capabilities-with-postgis-541d)
 <!-- BLOG-POST-LIST:END -->
 
