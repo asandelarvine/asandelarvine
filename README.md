@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Branch Naming Strategies](https://dev.to/marmariadev/git-branch-naming-strategies-enhancing-software-project-management-5a6a)
+- [Efficient Git Workflow: From Idea to Deployment](https://dev.to/marmariadev/efficient-git-workflow-from-idea-to-deployment-2mlm)
+- [One Worker to Track Them All: Injecting Analytics Scripts into Multiple Websites with Cloudflare Workers](https://dev.to/irrelevantspace/one-worker-to-track-them-all-injecting-analytics-scripts-into-multiple-websites-with-cloudflare-workers-1j5b)
 - [Flujo de Trabajo Eficiente en Git: De la Idea al Despliegue](https://dev.to/marmariadev/flujo-de-trabajo-eficiente-en-git-de-la-idea-al-despliegue-23bd)
-- [DOM to JSON and back](https://dev.to/craft-code/dom-to-json-and-back-3mgc)
-- [Seven Sites for Free Low-Code App Templates](https://dev.to/jamesmurdza/seven-sites-for-free-low-code-app-templates-4a1c)
-- [Missing at point blank range](https://dev.to/boblied/missing-at-point-blank-range-1di)
 <!-- BLOG-POST-LIST:END -->
 
