@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminal Style CV Using GitHub Pages](https://dev.to/zanepearton/terminal-style-cv-using-github-pages-obp)
+- [McDeepNet: Training TensorFlow on McDonald’s Reviews](https://dev.to/zanepearton/mcdeepnet-training-tensorflow-on-mcdonalds-reviews-21e)
 - [12 Popular but Useless VS Code Extensions You&#39;re Probably Using](https://dev.to/devland/12-popular-but-useless-vs-code-extensions-youre-probably-using-3n28)
 - [SQL looks like English is a well-intentioned error](https://dev.to/esproc_spl/sql-looks-like-english-is-a-well-intentioned-error-34c3)
-- [AWS open source newsletterm #184](https://dev.to/aws/aws-open-source-newsletterm-184-28c0)
-- [How to build a sorting Algorithm visualizer](https://dev.to/abdulmuminyqn/how-to-build-a-sorting-algorithm-visualizer-4an9)
 <!-- BLOG-POST-LIST:END -->
 
