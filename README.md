@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Branch Naming Strategies](https://dev.to/marmariadev/git-branch-naming-strategies-enhancing-software-project-management-5a6a)
-- [Efficient Git Workflow: From Idea to Deployment](https://dev.to/marmariadev/efficient-git-workflow-from-idea-to-deployment-2mlm)
-- [One Worker to Track Them All: Injecting Analytics Scripts into Multiple Websites with Cloudflare Workers](https://dev.to/irrelevantspace/one-worker-to-track-them-all-injecting-analytics-scripts-into-multiple-websites-with-cloudflare-workers-1j5b)
-- [Flujo de Trabajo Eficiente en Git: De la Idea al Despliegue](https://dev.to/marmariadev/flujo-de-trabajo-eficiente-en-git-de-la-idea-al-despliegue-23bd)
+- [[JS] CommonJS vs. ES Modules: Synchronous and Asynchronous Module Loading](https://dev.to/yutakusuno/js-commonjs-vs-es-modules-synchronous-and-asynchronous-module-loading-58jf)
+- [[20 Days of DynamoDB] Day 6 - Atomic counters with UpdateItem](https://dev.to/aws/20-days-of-dynamodb-day-6-atomic-counters-with-updateitem-p5l)
+- [Querying MongoDB Like an SQL DB Using Aggregation Pipeline](https://dev.to/pankajgupta221b/querying-mongodb-like-an-sql-db-using-aggregation-pipeline-ki6)
+- [Generating Avro Schemas from Go types](https://dev.to/lazypro/generating-avro-schemas-from-go-types-5hdo)
 <!-- BLOG-POST-LIST:END -->
 
