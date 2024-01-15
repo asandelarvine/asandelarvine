@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js: Internationalisation &lpar;i18n&rpar; for the `app directory`](https://dev.to/martinkr/nextjs-internationalisation-i18n-for-the-app-directory-1o2o)
-- [🐍 Python Playground: 16 ways 📚 to get started](https://dev.to/taipy/python-playground-16-ways-to-get-started-4fgg)
-- [Clean Architecture And The Benefits Of Structured Software Design](https://dev.to/adrianbailador/clean-architecture-and-the-benefits-of-structured-software-design-4476)
-- [Navigating the Database Landscape: Relational vs. Non-relational](https://dev.to/khuramgill/navigating-the-database-landscape-relational-vs-non-relational-1ilm)
+- [6 Amazing Headers for Freelancer/Agency Website](https://dev.to/codingcss/6-amazing-headers-for-freelanceragency-website-1cgd)
+- [FLaNK 15 Jan 2024](https://dev.to/tspannhw/flank-15-jan-2024-4fcb)
+- [Meme Monday](https://dev.to/ben/meme-monday-5h8i)
+- [🎀 Five tools to make your K8s experience more enjoyable 🎀](https://dev.to/cyclops-ui/five-tools-to-make-your-k8s-experience-more-enjoyable-5d85)
 <!-- BLOG-POST-LIST:END -->
 
