@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stuck in Fun Land and unable to program my game](https://dev.to/jacklehamster/stuck-in-fun-land-and-unable-to-program-my-game-5273)
 - [[JS] CommonJS vs. ES Modules: Synchronous and Asynchronous Module Loading](https://dev.to/yutakusuno/js-commonjs-vs-es-modules-synchronous-and-asynchronous-module-loading-58jf)
 - [[20 Days of DynamoDB] Day 6 - Atomic counters with UpdateItem](https://dev.to/aws/20-days-of-dynamodb-day-6-atomic-counters-with-updateitem-p5l)
-- [Querying MongoDB Like an SQL DB Using Aggregation Pipeline](https://dev.to/pankajgupta221b/querying-mongodb-like-an-sql-db-using-aggregation-pipeline-ki6)
-- [Generating Avro Schemas from Go types](https://dev.to/lazypro/generating-avro-schemas-from-go-types-5hdo)
+- [Unleash the Power of AI: Unveiling Amazon Bedrock, Your Gateway to Generative Innovation](https://dev.to/sumsuzzaman/unleash-the-power-of-ai-unveiling-amazon-bedrock-your-gateway-to-generative-innovation-47dm)
 <!-- BLOG-POST-LIST:END -->
 
