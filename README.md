@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Steps to Build a RESTful API with Node.js, MongoDB, and Express](https://dev.to/devshefali/9-steps-to-build-a-restful-api-with-nodejs-mongodb-and-express-27fh)
-- [Game monetization strategies](https://dev.to/nandinishinduja/game-monetization-strategies-5491)
-- [Weekly Roundup 035 &lpar;Jan 08&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-035-jan-08-hot-topics-in-workplace-sharepoint-and-powerplatform-1abb)
-- [Our open-source project for building AI / Data full-stack apps got funded! 🎉 🎉](https://dev.to/taipy/our-open-source-project-for-building-ai-data-full-stack-apps-got-funded-4e68)
+- [I&#39;m creating a new tech community](https://dev.to/danielhe4rt/im-creating-a-new-tech-community-42mh)
+- [What are your goals for week 3 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-3-of-2024-3p7g)
+- [SetControlValue From ClientExecSQL With Parameter](https://dev.to/fazliakca/setcontrolvalue-from-clientexecsql-with-parameter-991)
+- [️🚀🚀 Top 3 DevOps Trends to Watch Out for in 2024 📈](https://dev.to/flipt/top-3-devops-trends-to-watch-out-for-in-2024-lc8)
 <!-- BLOG-POST-LIST:END -->
 
