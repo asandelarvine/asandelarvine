@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flujo de Trabajo Eficiente en Git: De la Idea al Despliegue](https://dev.to/marmariadev/flujo-de-trabajo-eficiente-en-git-de-la-idea-al-despliegue-23bd)
+- [DOM to JSON and back](https://dev.to/craft-code/dom-to-json-and-back-3mgc)
 - [Seven Sites for Free Low-Code App Templates](https://dev.to/jamesmurdza/seven-sites-for-free-low-code-app-templates-4a1c)
 - [Missing at point blank range](https://dev.to/boblied/missing-at-point-blank-range-1di)
-- [End-to-End App Testing](https://dev.to/talenttinaapi/end-to-end-app-testing-44aj)
-- [C#, Dart, TypeScript , Python: side-by-side](https://dev.to/maximsaplin/c-dart-typescript-python-side-by-side-3j34)
 <!-- BLOG-POST-LIST:END -->
 
