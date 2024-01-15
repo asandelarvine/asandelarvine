@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Containerized Application Deployment on Amazon EKS with Jenkins Pipeline](https://dev.to/ken_mwaura1/containerized-application-deployment-on-amazon-eks-with-jenkins-pipeline-3103)
+- [Nuxt authorization: How to implement fine-grained access control](https://dev.to/cerbos/nuxt-authorization-how-to-implement-fine-grained-access-control-2c67)
+- [Optimizing SQL Queries by 23x!!!](https://dev.to/navneet7716/optimizing-sql-queries-h9j)
 - [Terminal Style CV Using GitHub Pages](https://dev.to/zanepearton/terminal-style-cv-using-github-pages-obp)
-- [McDeepNet: Training TensorFlow on McDonald’s Reviews](https://dev.to/zanepearton/mcdeepnet-training-tensorflow-on-mcdonalds-reviews-21e)
-- [12 Popular but Useless VS Code Extensions You&#39;re Probably Using](https://dev.to/devland/12-popular-but-useless-vs-code-extensions-youre-probably-using-3n28)
-- [SQL looks like English is a well-intentioned error](https://dev.to/esproc_spl/sql-looks-like-english-is-a-well-intentioned-error-34c3)
 <!-- BLOG-POST-LIST:END -->
 
