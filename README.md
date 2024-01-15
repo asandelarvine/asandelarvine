@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m creating a new tech community](https://dev.to/danielhe4rt/im-creating-a-new-tech-community-42mh)
-- [What are your goals for week 3 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-3-of-2024-3p7g)
-- [SetControlValue From ClientExecSQL With Parameter](https://dev.to/fazliakca/setcontrolvalue-from-clientexecsql-with-parameter-991)
-- [️🚀🚀 Top 3 DevOps Trends to Watch Out for in 2024 📈](https://dev.to/flipt/top-3-devops-trends-to-watch-out-for-in-2024-lc8)
+- [Next.js: Internationalisation &lpar;i18n&rpar; for the `app directory`](https://dev.to/martinkr/nextjs-internationalisation-i18n-for-the-app-directory-1o2o)
+- [🐍 Python Playground: 16 ways 📚 to get started](https://dev.to/taipy/python-playground-16-ways-to-get-started-4fgg)
+- [Clean Architecture And The Benefits Of Structured Software Design](https://dev.to/adrianbailador/clean-architecture-and-the-benefits-of-structured-software-design-4476)
+- [Navigating the Database Landscape: Relational vs. Non-relational](https://dev.to/khuramgill/navigating-the-database-landscape-relational-vs-non-relational-1ilm)
 <!-- BLOG-POST-LIST:END -->
 
