@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Game monetization strategies](https://dev.to/nandinishinduja/game-monetization-strategies-5491)
+- [Weekly Roundup 035 &lpar;Jan 08&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-035-jan-08-hot-topics-in-workplace-sharepoint-and-powerplatform-1abb)
+- [Our open-source project for building AI / Data full-stack apps got funded! 🎉 🎉](https://dev.to/taipy/our-open-source-project-for-building-ai-data-full-stack-apps-got-funded-4e68)
 - [500+ Vue.js Tailwind CSS UI Components - TailGrids Vue](https://dev.to/tailwindcss/vuejs-tailwind-css-ui-components-103i)
-- [🎉 Celebrating 5000+ followers on DEV](https://dev.to/mukeshkuiry/celebrating-5000-followers-on-dev-23k8)
-- [VPC peering connection 2024](https://dev.to/aws-builders/vpc-peering-connection-2024-4o30)
-- [Containerized Application Deployment on Amazon EKS with Jenkins Pipeline](https://dev.to/ken_mwaura1/containerized-application-deployment-on-amazon-eks-with-jenkins-pipeline-3103)
 <!-- BLOG-POST-LIST:END -->
 
