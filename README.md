@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Steps to Build a RESTful API with Node.js, MongoDB, and Express](https://dev.to/devshefali/9-steps-to-build-a-restful-api-with-nodejs-mongodb-and-express-27fh)
 - [Game monetization strategies](https://dev.to/nandinishinduja/game-monetization-strategies-5491)
 - [Weekly Roundup 035 &lpar;Jan 08&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-035-jan-08-hot-topics-in-workplace-sharepoint-and-powerplatform-1abb)
 - [Our open-source project for building AI / Data full-stack apps got funded! 🎉 🎉](https://dev.to/taipy/our-open-source-project-for-building-ai-data-full-stack-apps-got-funded-4e68)
-- [500+ Vue.js Tailwind CSS UI Components - TailGrids Vue](https://dev.to/tailwindcss/vuejs-tailwind-css-ui-components-103i)
 <!-- BLOG-POST-LIST:END -->
 
