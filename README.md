@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a website teaching you how to calculate the weekday for any past or future date](https://dev.to/kiledal/i-made-a-website-teaching-you-how-to-calculate-the-weekday-for-any-past-or-future-date-1pnb)
-- [GitHub issues from top Open Source Golang Repositories that you should contribute to](https://dev.to/digger/github-issues-from-top-open-source-golang-repositories-that-you-should-contribute-to-4gp8)
-- [Unleashing the Power of AI in Your IDE: Amazon CodeWhisperer Streamlines Development and Supercharges Productivity](https://dev.to/sumsuzzaman/unleashing-the-power-of-ai-in-your-ide-amazon-codewhisperer-streamlines-development-and-supercharges-productivity-3c1b)
-- [Music Monday — What are you listening to? &lpar;Dubstep Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-dubstep-edition-195m)
+- [Exploring Bun: A High-Performance JavaScript Toolkit](https://dev.to/ricardogesteves/exploring-bun-a-high-performance-javascript-toolkit-4k13)
+- [These 10 AI Tools Will Make You Batman!!](https://dev.to/thenomadevel/these-10-ai-tools-will-make-you-batman-31ab)
+- [A frontend for your node.js installs](https://dev.to/opensourcee/a-frontend-for-your-nodejs-installs-1nml)
+- [How to Tell the Computer to Make PB&amp;J Sandwiches](https://dev.to/theoriginalbpc/how-to-tell-the-computer-to-make-pbj-sandwiches-3ce8)
 <!-- BLOG-POST-LIST:END -->
 
