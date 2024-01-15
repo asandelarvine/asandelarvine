@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategies for Crafting High-Performance Web Apps with Smaller Bundle Sizes](https://dev.to/codebeast/strategies-for-crafting-high-performance-web-apps-with-smaller-bundle-sizes-2mmj)
 - [What is Jamstack in 2024?](https://dev.to/remotesynth/what-is-jamstack-in-2024-3kc6)
 - [DevRel: A Beginner&#39;s Guide](https://dev.to/miracool/devrel-a-beginners-guide-32c1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5bei)
-- [Exploring Bun: A High-Performance JavaScript Toolkit](https://dev.to/ricardogesteves/exploring-bun-a-high-performance-javascript-toolkit-4k13)
 <!-- BLOG-POST-LIST:END -->
 
