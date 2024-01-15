@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Kubernetes: The Future of Containerized Applications](https://dev.to/zanepearton/embracing-kubernetes-the-future-of-containerized-applications-4n52)
+- [Everything you didn&#39;t know you needed to know about Power Platform Solutions](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-platform-solutions-1b4)
 - [Creating a Restaurant Finder Application Using ReactJS and Amplication](https://dev.to/amplication/creating-a-restaurant-finder-application-using-reactjs-and-amplication-56o5)
 - [Code Syntax highlighting in Next Js](https://dev.to/preetsuthar17/code-syntax-highlighting-in-next-js-15h2)
-- [std::optional? Proceed with caution!](https://dev.to/moozzyk/stdoptional-proceed-with-caution-3c0n)
-- [Stuck in Fun Land and unable to program my game](https://dev.to/jacklehamster/stuck-in-fun-land-and-unable-to-program-my-game-5273)
 <!-- BLOG-POST-LIST:END -->
 
