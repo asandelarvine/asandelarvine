@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [14 Things To Check Before Deploying a Website 👨‍💻🔥](https://dev.to/arjuncodess/14-things-to-check-before-deploying-a-website-49ee)
+- [What is Vercel&#39;s AI tool, V0.dev and how do you use it?](https://dev.to/opensauced/what-is-vercels-ai-tool-v0dev-and-how-do-you-use-it-3nge)
 - [[20 Days of DynamoDB] Day 7 - DeleteItem API](https://dev.to/aws/20-days-of-dynamodb-day-7-deleteitem-api-4nb3)
 - [What I&#39;ve Coded This Week &lpar;Week 1—WWCode &#39;100 Days of Code&#39; Challenge&rpar;](https://dev.to/baspin94/what-ive-coded-this-week-week-1-wwcode-100-days-of-code-challenge-32de)
-- [Leveraging the Loading UI in Next.js App Router](https://dev.to/adedaniel/leveraging-the-loading-ui-in-nextjs-app-router-3bd6)
-- [Service Discovery: Key to Unleashing Microservices Architecture](https://dev.to/apisix/service-discovery-key-to-unleashing-microservices-architecture-356c)
 <!-- BLOG-POST-LIST:END -->
 
