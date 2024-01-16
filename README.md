@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VLAN](https://dev.to/mithunsreeram/vlan-1n8e)
+- [You don&#39;t need to know all SharePoint field types](https://dev.to/jaloplo/you-dont-need-to-know-all-sharepoint-field-types-3d1c)
+- [👩‍💻🏆 5 tips for surviving &lpar;and winning!&rpar; a Hackathon](https://dev.to/audreyk/5-tips-for-surviving-and-winning-a-hackathon-3bfm)
 - [14 Things To Check Before Deploying a Website 👨‍💻🔥](https://dev.to/arjuncodess/14-things-to-check-before-deploying-a-website-49ee)
-- [What is Vercel&#39;s AI tool, V0.dev and how do you use it?](https://dev.to/opensauced/what-is-vercels-ai-tool-v0dev-and-how-do-you-use-it-3nge)
-- [[20 Days of DynamoDB] Day 7 - DeleteItem API](https://dev.to/aws/20-days-of-dynamodb-day-7-deleteitem-api-4nb3)
-- [What I&#39;ve Coded This Week &lpar;Week 1—WWCode &#39;100 Days of Code&#39; Challenge&rpar;](https://dev.to/baspin94/what-ive-coded-this-week-week-1-wwcode-100-days-of-code-challenge-32de)
 <!-- BLOG-POST-LIST:END -->
 
