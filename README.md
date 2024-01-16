@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The one thing I do not like about the Nix package manager &lpar;and a fix for it&rpar;](https://dev.to/arnu515/the-one-thing-i-do-not-like-about-the-nix-package-manager-and-a-fix-for-it-33ln)
-- [How to Identify Content Refresh Candidates, In Detail](https://dev.to/daedtech/how-to-identify-content-refresh-candidates-in-detail-hcg)
-- [A Year of Consistent Leetcode 🏆](https://dev.to/dhanushnehru/a-year-of-consistent-leetcode-1b8b)
-- [I made a Full-Stack Template for NextJS 14 - Check it out](https://dev.to/fredy/i-made-a-full-stack-template-with-nextjs-14-check-it-out-imo)
+- [AWS Cloud Club C3 Captains Cohort Opens for Applications on Feb 5](https://dev.to/aws/aws-cloud-club-c3-captains-cohort-opens-for-applications-on-feb-5-2i6k)
+- [Beyond the Mug re:Invent Cloud Computing 2.0](https://dev.to/ahmedattia/beyond-the-mug-reinvent-cloud-computing-20-1f7p)
+- [How to Conduct a Digital Marketing Audit to Grow Your Business in 2024](https://dev.to/trustedmarketer/how-to-conduct-a-digital-marketing-audit-to-grow-your-business-in-2024-1j6m)
+- [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
 <!-- BLOG-POST-LIST:END -->
 
