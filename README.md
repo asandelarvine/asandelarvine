@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Crazy Things To Get Your Developer Career Unstuck 🚀](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-8bp)
+- [Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh)
+- [Variables, Shadowing, and Constants in Rust](https://dev.to/francescoxx/variables-shadowing-and-constants-in-rust-1fcj)
 - [Why you should stop using google forms in 2024?](https://dev.to/sididev/why-you-should-stop-using-google-forms-in-2024-bg3)
-- [Look into MediaPipe solutions with Python](https://dev.to/opencv/look-into-mediapipe-solutions-with-python-2bjp)
-- [Adversarial Attacks Against Gradientless Models](https://dev.to/govind/adversarial-attacks-against-gradientless-models-1l51)
-- [Fantastic JSON Schemas and where to find them](https://dev.to/this-is-learning/fantastic-json-schemas-and-where-to-find-them-i5j)
 <!-- BLOG-POST-LIST:END -->
 
