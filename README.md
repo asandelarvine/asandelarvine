@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lidando com exceções: como fazer erros práticos e elegantes no Express js](https://dev.to/clintonrocha98/lidando-com-excecoes-como-fazer-erros-praticos-e-elegantes-no-express-js-4k5b)
-- [How Do You Restart Your Career After 55?](https://dev.to/devteam/how-do-you-restart-your-career-after-55-doe)
-- [How to handle concurrency in Clojure with core.async](https://dev.to/j0suetm/how-to-handle-concurrency-in-clojure-with-coreasync-5n5)
-- [Job scheduling with tmux](https://dev.to/jpmcb/job-scheduling-with-tmux-5hb4)
+- [What I&#39;ve Coded This Week &lpar;Week 1—WWCode &#39;100 Days of Code&#39; Challenge&rpar;](https://dev.to/baspin94/what-ive-coded-this-week-week-1-wwcode-100-days-of-code-challenge-32de)
+- [Leveraging the Loading UI in Next.js App Router](https://dev.to/adedaniel/leveraging-the-loading-ui-in-nextjs-app-router-3bd6)
+- [Service Discovery: Key to Unleashing Microservices Architecture](https://dev.to/apisix/service-discovery-key-to-unleashing-microservices-architecture-356c)
+- [Unraveling TypeScript’s Utility Types](https://dev.to/alvisonhunter/unraveling-typescripts-utility-types-5644)
 <!-- BLOG-POST-LIST:END -->
 
