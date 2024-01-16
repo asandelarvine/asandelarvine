@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you should stop using google forms in 2024?](https://dev.to/sididev/why-you-should-stop-using-google-forms-in-2024-bg3)
+- [Look into MediaPipe solutions with Python](https://dev.to/opencv/look-into-mediapipe-solutions-with-python-2bjp)
+- [Adversarial Attacks Against Gradientless Models](https://dev.to/govind/adversarial-attacks-against-gradientless-models-1l51)
 - [Fantastic JSON Schemas and where to find them](https://dev.to/this-is-learning/fantastic-json-schemas-and-where-to-find-them-i5j)
-- [Dead or not dead 💀 - Exploring the term and why Meteor.js is super-alive! ☄️](https://dev.to/meteor/dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c)
-- [Hyper IDE, using No-Code and Low-Code to Generate Software](https://dev.to/polterguy/hyper-ide-using-no-code-and-low-code-to-generate-software-4i6)
-- [Virtual Environments in Python - All You Need To Know](https://dev.to/tosinkupolati/virtual-environments-in-python-all-you-need-to-know-2nda)
 <!-- BLOG-POST-LIST:END -->
 
