@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The one thing I do not like about the Nix package manager &lpar;and a fix for it&rpar;](https://dev.to/arnu515/the-one-thing-i-do-not-like-about-the-nix-package-manager-and-a-fix-for-it-33ln)
+- [How to Identify Content Refresh Candidates, In Detail](https://dev.to/daedtech/how-to-identify-content-refresh-candidates-in-detail-hcg)
+- [A Year of Consistent Leetcode 🏆](https://dev.to/dhanushnehru/a-year-of-consistent-leetcode-1b8b)
 - [I made a Full-Stack Template for NextJS 14 - Check it out](https://dev.to/fredy/i-made-a-full-stack-template-with-nextjs-14-check-it-out-imo)
-- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-espanol/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4nmi)
-- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-builders/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4im6)
-- [Creating an Automated Documentation Pipeline in PHP with Autodocs and GitHub Actions](https://dev.to/erikaheidi/creating-an-automated-documentation-pipeline-in-php-with-autodocs-and-github-actions-1464)
 <!-- BLOG-POST-LIST:END -->
 
