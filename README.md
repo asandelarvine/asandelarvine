@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Assistant Extensions in eCommerce: Simplifying Online Shopping](https://dev.to/geekyqee/ai-assistant-extensions-in-ecommerce-simplifying-online-shopping-24j7)
+- [Walles.AI Unleashed: A Rollercoaster Ride of Emotion in Every Keystroke](https://dev.to/geekyqee/wallesai-unleashed-a-rollercoaster-ride-of-emotion-in-every-keystroke-4p0e)
+- [Mental battle that I face, looking for support](https://dev.to/johnthecoder/mental-battle-that-i-face-40n)
 - [4 Methods to Send Emails Using Node.js &lpar;w/ Codes - Nodemailer Module, Gmail API, Postmark API &amp; SuprSend&rpar;](https://dev.to/suprsend/4-methods-to-send-emails-using-nodejs-w-codes-nodemailer-module-gmail-api-postmark-api-suprsend-4d5j)
-- [VLAN](https://dev.to/mithunsreeram/vlan-1n8e)
-- [Using SSH to connect local project to github](https://dev.to/ibearua/using-ssh-to-connect-local-project-to-github-19pe)
-- [You don&#39;t need to know all SharePoint field types](https://dev.to/jaloplo/you-dont-need-to-know-all-sharepoint-field-types-3d1c)
 <!-- BLOG-POST-LIST:END -->
 
