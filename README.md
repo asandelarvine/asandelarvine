@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Crazy Things To Get Your Developer Career Unstuck 🚀](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-8bp)
-- [Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh)
-- [Variables, Shadowing, and Constants in Rust](https://dev.to/francescoxx/variables-shadowing-and-constants-in-rust-1fcj)
-- [Why you should stop using google forms in 2024?](https://dev.to/sididev/why-you-should-stop-using-google-forms-in-2024-bg3)
+- [I made a Full-Stack Template for NextJS 14 - Check it out](https://dev.to/fredy/i-made-a-full-stack-template-with-nextjs-14-check-it-out-imo)
+- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-espanol/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4nmi)
+- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-builders/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4im6)
+- [Creating an Automated Documentation Pipeline in PHP with Autodocs and GitHub Actions](https://dev.to/erikaheidi/creating-an-automated-documentation-pipeline-in-php-with-autodocs-and-github-actions-1464)
 <!-- BLOG-POST-LIST:END -->
 
