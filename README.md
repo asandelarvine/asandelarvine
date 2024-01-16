@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Folder Structure](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-folder-structure-3bak)
+- [Git Lesson: How to Use .gitignore and .gitkeep?](https://dev.to/ritaly/git-lesson-how-to-use-gitignore-and-gitkeep-5edm)
+- [14 Essential Checks Before Deploying Your Website](https://dev.to/rezwan/14-essential-checks-before-deploying-your-website-5gc1)
 - [Profile Card Hover Effect](https://dev.to/codewithnitish/profile-card-hover-effect-55eo)
-- [React, where are you going?](https://dev.to/matfrana/react-where-are-you-going-5284)
-- [Wedding invitation](https://dev.to/codewithnitish/wedding-invitation-2mf3)
-- [Angular signals vs. observables: How and when to use each](https://dev.to/logrocket/angular-signals-vs-observables-how-and-when-to-use-each-14ec)
 <!-- BLOG-POST-LIST:END -->
 
