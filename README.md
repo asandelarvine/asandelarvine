@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Methods to Send Emails Using Node.js &lpar;w/ Codes - Nodemailer Module, Gmail API, Postmark API &amp; SuprSend&rpar;](https://dev.to/suprsend/4-methods-to-send-emails-using-nodejs-w-codes-nodemailer-module-gmail-api-postmark-api-suprsend-4d5j)
 - [VLAN](https://dev.to/mithunsreeram/vlan-1n8e)
+- [Using SSH to connect local project to github](https://dev.to/ibearua/using-ssh-to-connect-local-project-to-github-19pe)
 - [You don&#39;t need to know all SharePoint field types](https://dev.to/jaloplo/you-dont-need-to-know-all-sharepoint-field-types-3d1c)
-- [👩‍💻🏆 5 tips for surviving &lpar;and winning!&rpar; a Hackathon](https://dev.to/audreyk/5-tips-for-surviving-and-winning-a-hackathon-3bfm)
-- [14 Things To Check Before Deploying a Website 👨‍💻🔥](https://dev.to/arjuncodess/14-things-to-check-before-deploying-a-website-49ee)
 <!-- BLOG-POST-LIST:END -->
 
