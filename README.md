@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Get C-suite Buy-in for DevEx Investments](https://dev.to/hatica/how-to-get-c-suite-buy-in-for-devex-investments-1ob)
+- [From Zero to LinkedIn Top Voice: My Journey in Tech Storytelling!](https://dev.to/pavanbelagatti/from-zero-to-linkedin-top-voice-my-journey-in-tech-storytelling-3kdd)
+- [How To Handle Data With GraphQL Relay Client Schema Extensions](https://dev.to/woovi/how-to-handle-data-with-graphql-relay-client-schema-extensions-4o3)
 - [How to track anything on the internet or use Playwright for fun and profit](https://dev.to/azasypkin/how-to-track-anything-on-the-internet-or-use-playwright-for-fun-and-profit-31a9)
-- [The Future of AI Assistant Extensions: Predictions and Trends](https://dev.to/geekyqee/the-future-of-ai-assistant-extensions-predictions-and-trends-3mjj)
-- [Auth.js V5 Toolkit: Mastering Advanced Authentication in Next.js](https://dev.to/ricardogesteves/authjs-v5-toolkit-mastering-advanced-authentication-in-nextjs-4col)
-- [AI Assistant Extensions in eCommerce: Simplifying Online Shopping](https://dev.to/geekyqee/ai-assistant-extensions-in-ecommerce-simplifying-online-shopping-24j7)
 <!-- BLOG-POST-LIST:END -->
 
