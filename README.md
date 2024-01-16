@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Get C-suite Buy-in for DevEx Investments](https://dev.to/hatica/how-to-get-c-suite-buy-in-for-devex-investments-1ob)
-- [From Zero to LinkedIn Top Voice: My Journey in Tech Storytelling!](https://dev.to/pavanbelagatti/from-zero-to-linkedin-top-voice-my-journey-in-tech-storytelling-3kdd)
-- [How To Handle Data With GraphQL Relay Client Schema Extensions](https://dev.to/woovi/how-to-handle-data-with-graphql-relay-client-schema-extensions-4o3)
-- [How to track anything on the internet or use Playwright for fun and profit](https://dev.to/azasypkin/how-to-track-anything-on-the-internet-or-use-playwright-for-fun-and-profit-31a9)
+- [Fantastic JSON Schemas and where to find them](https://dev.to/this-is-learning/fantastic-json-schemas-and-where-to-find-them-i5j)
+- [Dead or not dead 💀 - Exploring the term and why Meteor.js is super-alive! ☄️](https://dev.to/meteor/dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c)
+- [Hyper IDE, using No-Code and Low-Code to Generate Software](https://dev.to/polterguy/hyper-ide-using-no-code-and-low-code-to-generate-software-4i6)
+- [Virtual Environments in Python - All You Need To Know](https://dev.to/tosinkupolati/virtual-environments-in-python-all-you-need-to-know-2nda)
 <!-- BLOG-POST-LIST:END -->
 
