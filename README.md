@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Crafting High-Performance Web Apps with Smaller Bundle Sizes](https://dev.to/codebeast/strategies-for-crafting-high-performance-web-apps-with-smaller-bundle-sizes-2mmj)
-- [What is Jamstack in 2024?](https://dev.to/remotesynth/what-is-jamstack-in-2024-3kc6)
-- [DevRel: A Beginner&#39;s Guide](https://dev.to/miracool/devrel-a-beginners-guide-32c1)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5bei)
+- [Lidando com exceções: como fazer erros práticos e elegantes no Express js](https://dev.to/clintonrocha98/lidando-com-excecoes-como-fazer-erros-praticos-e-elegantes-no-express-js-4k5b)
+- [How Do You Restart Your Career After 55?](https://dev.to/devteam/how-do-you-restart-your-career-after-55-doe)
+- [How to handle concurrency in Clojure with core.async](https://dev.to/j0suetm/how-to-handle-concurrency-in-clojure-with-coreasync-5n5)
+- [Job scheduling with tmux](https://dev.to/jpmcb/job-scheduling-with-tmux-5hb4)
 <!-- BLOG-POST-LIST:END -->
 
