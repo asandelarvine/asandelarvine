@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Choose 3 &lpar;DEV&rpar;eloper Goals &amp; Customize Your Checklist! ✅](https://dev.to/devteam/choose-3-developer-goals-customize-your-checklist-4497)
 - [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Folder Structure](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-folder-structure-3bak)
 - [Git Lesson: How to Use .gitignore and .gitkeep?](https://dev.to/ritaly/git-lesson-how-to-use-gitignore-and-gitkeep-5edm)
 - [14 Essential Checks Before Deploying Your Website](https://dev.to/rezwan/14-essential-checks-before-deploying-your-website-5gc1)
-- [Profile Card Hover Effect](https://dev.to/codewithnitish/profile-card-hover-effect-55eo)
 <!-- BLOG-POST-LIST:END -->
 
