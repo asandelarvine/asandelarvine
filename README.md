@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Profile Card Hover Effect](https://dev.to/codewithnitish/profile-card-hover-effect-55eo)
+- [Angular signals vs. observables: How and when to use each](https://dev.to/logrocket/angular-signals-vs-observables-how-and-when-to-use-each-14ec)
 - [AWS Cloud Club C3 Captains Cohort Opens for Applications on Feb 5](https://dev.to/aws/aws-cloud-club-c3-captains-cohort-opens-for-applications-on-feb-5-2i6k)
-- [Beyond the Mug re:Invent Cloud Computing 2.0](https://dev.to/ahmedattia/beyond-the-mug-reinvent-cloud-computing-20-1f7p)
-- [How to Conduct a Digital Marketing Audit to Grow Your Business in 2024](https://dev.to/trustedmarketer/how-to-conduct-a-digital-marketing-audit-to-grow-your-business-in-2024-1j6m)
-- [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
+- [Beyond the Mug - re:Invent Cloud Computing 2.0](https://dev.to/ahmedattia/beyond-the-mug-reinvent-cloud-computing-20-1f7p)
 <!-- BLOG-POST-LIST:END -->
 
