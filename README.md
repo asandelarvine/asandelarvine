@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [fdasfas](https://dev.to/y_li_87ef3bcc243af15b48c6/fdasfas-4m0l)
+- [JavaScript: Iterators and Generators &lpar;Part-1&rpar;💡📌](https://dev.to/rahmanmajeed/javascript-iterators-and-generators-part-1-4gj9)
 - [Minecraft Server on AWS](https://dev.to/aws-heroes/minecraft-server-on-aws-5g61)
 - [This year, I will learn to code &lpar;I hope&rpar;.](https://dev.to/rachelfazio/this-year-i-will-learn-to-code-i-hope-1n06)
-- [9 ways to improve how you ship software](https://dev.to/flybayer/9-ways-to-improve-how-you-ship-software-1pb9)
-- [Make it Happen in January with &lpar;DEV&rpar;eloper Goals! 💜✨](https://dev.to/devteam/choose-3-developer-goals-customize-your-checklist-4497)
 <!-- BLOG-POST-LIST:END -->
 
