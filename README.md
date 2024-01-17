@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Human Element in Testing: Nurturing Soft Skills for Testers](https://dev.to/miracool/the-human-element-in-testing-nurturing-soft-skills-for-testers-173m)
+- [Behind the scenes with Jobber’s Dev Acceleration team](https://dev.to/jobber/behind-the-scenes-with-jobbers-dev-acceleration-team-265l)
 - [Taking exam AZ-204](https://dev.to/mariustechie/az-204-46kn)
 - [MongoDB stable sort with _id](https://dev.to/woovi/mongodb-stable-sort-with-id-nh9)
-- [Tools and Configurations for an Effortless Workflow in Docker and Kubernetes](https://dev.to/idsulik/tools-and-configurations-for-an-effortless-workflow-in-docker-and-kubernetes-g6o)
-- [Google&#39;s Slow Burn: Project IDX&#39;s Half-Year Echo](https://dev.to/maximsaplin/googles-slow-burn-project-idxs-half-year-echo-4gk)
 <!-- BLOG-POST-LIST:END -->
 
