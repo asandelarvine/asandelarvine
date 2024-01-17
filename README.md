@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We added Spanish language support and here&#39;s what we had to change in our architecture](https://dev.to/arsenii/we-added-spanish-language-support-and-heres-what-we-had-to-change-in-our-architecture-581e)
+- [7 Ways to Change Your Life in One Year](https://dev.to/borgesnotes/7-ways-to-change-your-life-in-one-year-5295)
+- [Tech companies start 2024 with layoffs totaling 7500 employees](https://dev.to/klimd1389/tech-companies-start-2024-with-layoffs-totaling-7500-employees-1nh3)
 - [MDB5 Angular 6.0.0 Released!](https://dev.to/mz2387/mdb5-angular-600-released-2eba)
-- [How To Write Material UI Components Like Radix UI And Why Component Composition Matters?](https://dev.to/woovi/how-to-write-material-ui-components-like-radix-ui-and-why-component-composition-matters-4epn)
-- [How I build a YouTube Video Player with ReactJS: Build the Seekbar control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-build-the-seekbar-control-3kg)
-- [Understanding Lambda Functions in Ruby](https://dev.to/daviducolo/understanding-lambda-functions-in-ruby-3h21)
 <!-- BLOG-POST-LIST:END -->
 
