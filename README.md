@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Shift Left Vs. Shift Right, Which Approach to Choose when it comes to Testing?](https://dev.to/talenttinaapi/shift-left-vs-shift-right-which-approach-to-choose-when-it-comes-to-testing-1lnh)
+- [Getting Started with AWS and Terraform: A Hands-On Guide for Beginners](https://dev.to/chinmay13/getting-started-with-aws-and-terraform-a-hands-on-guide-for-beginners-2pe0)
 - [Multiplication Without Multiplication Operators](https://dev.to/shalomdev/multiplication-without-multiplication-a-divide-and-conquer-approach-27dc)
 - [Junior a Senior: Superando a falta de confiança](https://dev.to/lincolixavier/junior-a-senior-superando-a-falta-de-confianca-1mje)
-- [Elevate Your Node.js Experience: Migrating from Express to Hono](https://dev.to/ricardogesteves/elevate-your-nodejs-experience-migrating-from-express-to-hono-39ei)
-- [Welcome Thread - v259](https://dev.to/devteam/welcome-thread-v259-j4c)
 <!-- BLOG-POST-LIST:END -->
 
