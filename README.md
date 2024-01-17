@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an Amazon Bedrock JIRA Agent with Source Code Knowledge Base - Part 2](https://dev.to/makit/building-an-amazon-bedrock-jira-agent-with-source-code-knowledge-base-part-2-13pc)
+- [Building For Interactivity: When Async Is Not Enough](https://dev.to/aws-heroes/building-for-interactivity-when-async-is-not-enough-5blj)
 - [1 Click Download 160 Very Best Stable Diffusion 1.5 Based &lpar;SD 1.5&rpar; Models](https://dev.to/furkangozukara/download-160-very-best-stable-diffusion-15-based-sd-15-models-with-1-click-chf)
 - [How Epilot Builds a Powerful Webhook Feature with AWS](https://dev.to/epilot/how-epilot-builds-a-powerful-webhook-feature-with-aws-4glo)
-- [NestJS Emails with react-email and nodemailer](https://dev.to/olamide_dev/nestjs-emails-with-react-email-and-nodemailer-17gd)
-- [OR VS Array Includes](https://dev.to/alwarg/or-vs-array-includes-4mad)
 <!-- BLOG-POST-LIST:END -->
 
