@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5+ NextJS &amp; ReactJS Boilerplates for 2024](https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9)
-- [Learning DSA after 4 years of experience](https://dev.to/shreyvijayvargiya/learning-dsa-after-4-years-of-experience-2k7f)
-- [What Is the Purpose of Using Symbols in a Flowchart or Process Map?](https://dev.to/rafikke_lion/what-is-the-purpose-of-using-symbols-in-a-flowchart-or-process-map-1c3e)
-- [Enhancing AWS Security: A Guide to IAM User Deletion Notifications](https://dev.to/aws-builders/enhancing-aws-security-a-guide-to-iam-user-deletion-notifications-19bk)
+- [How I build a YouTube Video Player with ReactJS: Build the Seekbar control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-build-the-seekbar-control-3kg)
+- [Understanding Lambda Functions in Ruby](https://dev.to/daviducolo/understanding-lambda-functions-in-ruby-3h21)
+- [SQL Studio, Visually Designing your Database](https://dev.to/polterguy/sql-studio-visually-designing-your-database-2lol)
+- [Time-Travel Debugging: A Playwright Traces Tutorial](https://dev.to/jsfez/time-travel-debugging-a-playwright-traces-tutorial-o5f)
 <!-- BLOG-POST-LIST:END -->
 
