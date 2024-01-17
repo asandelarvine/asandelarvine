@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [MDB5 Angular 6.0.0 Released!](https://dev.to/mz2387/mdb5-angular-600-released-2eba)
+- [How To Write Material UI Components Like Radix UI And Why Component Composition Matters?](https://dev.to/woovi/how-to-write-material-ui-components-like-radix-ui-and-why-component-composition-matters-4epn)
 - [How I build a YouTube Video Player with ReactJS: Build the Seekbar control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-build-the-seekbar-control-3kg)
 - [Understanding Lambda Functions in Ruby](https://dev.to/daviducolo/understanding-lambda-functions-in-ruby-3h21)
-- [SQL Studio, Visually Designing your Database](https://dev.to/polterguy/sql-studio-visually-designing-your-database-2lol)
-- [Time-Travel Debugging: A Playwright Traces Tutorial](https://dev.to/jsfez/time-travel-debugging-a-playwright-traces-tutorial-o5f)
 <!-- BLOG-POST-LIST:END -->
 
