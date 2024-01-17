@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiplication Without Multiplication Operators](https://dev.to/shalomdev/multiplication-without-multiplication-a-divide-and-conquer-approach-27dc)
+- [Junior a Senior: Superando a falta de confiança](https://dev.to/lincolixavier/junior-a-senior-superando-a-falta-de-confianca-1mje)
 - [Elevate Your Node.js Experience: Migrating from Express to Hono](https://dev.to/ricardogesteves/elevate-your-nodejs-experience-migrating-from-express-to-hono-39ei)
 - [Welcome Thread - v259](https://dev.to/devteam/welcome-thread-v259-j4c)
-- [Symbiote.js 2.0](https://dev.to/symbiotejs/symbiotejs-20-2mj8)
-- [The Right Way to Use Tutorials](https://dev.to/brian_curricular/the-right-way-to-use-tutorials-ffk)
 <!-- BLOG-POST-LIST:END -->
 
