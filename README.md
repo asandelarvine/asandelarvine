@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[20 Days of DynamoDB] Day 8 - Conditional Delete operation](https://dev.to/aws/20-days-of-dynamodb-day-8-conditional-delete-operation-9b5)
+- [Examples of new signal inputs in Angular](https://dev.to/railsstudent/examples-of-new-signal-inputs-in-angular-k0c)
+- [A NodeJS Package that verifies if a string contains a potential SSRF attack: ssrfcheck](https://dev.to/felipperegazio/a-nodjs-package-that-verifies-if-a-string-contains-a-potential-ssrf-attack-ssrfcheck-1lpp)
 - [fdasfas](https://dev.to/y_li_87ef3bcc243af15b48c6/fdasfas-4m0l)
-- [JavaScript: Iterators and Generators &lpar;Part-1&rpar;💡📌](https://dev.to/rahmanmajeed/javascript-iterators-and-generators-part-1-4gj9)
-- [Minecraft Server on AWS](https://dev.to/aws-heroes/minecraft-server-on-aws-5g61)
-- [This year, I will learn to code &lpar;I hope&rpar;.](https://dev.to/rachelfazio/this-year-i-will-learn-to-code-i-hope-1n06)
 <!-- BLOG-POST-LIST:END -->
 
