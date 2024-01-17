@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning DSA after 4 years of experience](https://dev.to/shreyvijayvargiya/learning-dsa-after-4-years-of-experience-2k7f)
+- [Enhancing AWS Security: A Guide to IAM User Deletion Notifications](https://dev.to/aws-builders/enhancing-aws-security-a-guide-to-iam-user-deletion-notifications-19bk)
+- [Automating Storage Account and Service Principal Creation with Terraform](https://dev.to/techielass/automating-storage-account-and-service-principal-creation-with-terraform-16in)
 - [𝗛𝗼𝘄 𝘁𝗼 𝘂𝘀𝗲 𝗥𝗲𝗴𝗘𝘅 𝗶𝗻 𝗗𝗮𝗿𝘁?](https://dev.to/amrazzam31/-5a3i)
-- [Create A Simple Crypto Currency Tracker With NodeJS](https://dev.to/ethand91/create-a-simple-crypto-currency-tracker-with-nodejs-34k0)
-- [[20 Days of DynamoDB] Day 8 - Conditional Delete operation](https://dev.to/aws/20-days-of-dynamodb-day-8-conditional-delete-operation-9b5)
-- [MVC: 5 Reasons Why You Need It in Your Toolbox](https://dev.to/tutortacademy/mvc-5-reasons-why-you-need-it-in-your-toolbox-3jbi)
 <!-- BLOG-POST-LIST:END -->
 
