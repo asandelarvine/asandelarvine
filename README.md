@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We added Spanish language support and here&#39;s what we had to change in our architecture](https://dev.to/arsenii/we-added-spanish-language-support-and-heres-what-we-had-to-change-in-our-architecture-581e)
-- [7 Ways to Change Your Life in One Year](https://dev.to/borgesnotes/7-ways-to-change-your-life-in-one-year-5295)
-- [Tech companies start 2024 with layoffs totaling 7500 employees](https://dev.to/klimd1389/tech-companies-start-2024-with-layoffs-totaling-7500-employees-1nh3)
-- [MDB5 Angular 6.0.0 Released!](https://dev.to/mz2387/mdb5-angular-600-released-2eba)
+- [1 Click Download 160 Very Best Stable Diffusion 1.5 Based &lpar;SD 1.5&rpar; Models](https://dev.to/furkangozukara/download-160-very-best-stable-diffusion-15-based-sd-15-models-with-1-click-chf)
+- [How Epilot Builds a Powerful Webhook Feature with AWS](https://dev.to/epilot/how-epilot-builds-a-powerful-webhook-feature-with-aws-4glo)
+- [NestJS Emails with react-email and nodemailer](https://dev.to/olamide_dev/nestjs-emails-with-react-email-and-nodemailer-17gd)
+- [OR VS Array Includes](https://dev.to/alwarg/or-vs-array-includes-4mad)
 <!-- BLOG-POST-LIST:END -->
 
