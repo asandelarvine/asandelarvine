@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Human Element in Testing: Nurturing Soft Skills for Testers](https://dev.to/miracool/the-human-element-in-testing-nurturing-soft-skills-for-testers-173m)
+- [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Create a local copy](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-create-a-local-copy-1n59)
 - [Behind the scenes with Jobber’s Dev Acceleration team](https://dev.to/jobber/behind-the-scenes-with-jobbers-dev-acceleration-team-265l)
-- [Taking exam AZ-204](https://dev.to/mariustechie/az-204-46kn)
-- [MongoDB stable sort with _id](https://dev.to/woovi/mongodb-stable-sort-with-id-nh9)
+- [How To Collect Temporal.io Logs Using Axiom And Pino](https://dev.to/pmbanugo/how-to-collect-temporalio-logs-using-axiom-and-pino-8bc)
 <!-- BLOG-POST-LIST:END -->
 
