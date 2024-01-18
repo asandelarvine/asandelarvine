@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Your Browser&#39;s Potential: 12 Must-Try Google Extensions and Extension Development Experiences](https://dev.to/happyer/unlock-your-browsers-potential-12-must-try-google-extensions-and-extension-development-experiences-4cf2)
 - [The Human Element in Testing: Nurturing Soft Skills for Testers](https://dev.to/miracool/the-human-element-in-testing-nurturing-soft-skills-for-testers-173m)
 - [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Create a local copy](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-create-a-local-copy-1n59)
 - [Behind the scenes with Jobber’s Dev Acceleration team](https://dev.to/jobber/behind-the-scenes-with-jobbers-dev-acceleration-team-265l)
-- [How To Collect Temporal.io Logs Using Axiom And Pino](https://dev.to/pmbanugo/how-to-collect-temporalio-logs-using-axiom-and-pino-8bc)
 <!-- BLOG-POST-LIST:END -->
 
