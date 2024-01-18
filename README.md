@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sumo Logic and Tracetest: AI-Driven Observability Meets Testing](https://dev.to/kubeshop/sumo-logic-and-tracetest-ai-driven-observability-meets-testing-3poo)
-- [Effortlessly Generate Structured Information with Ollama, Zod, and ModelFusion](https://dev.to/lgrammel/effortlessly-generate-structured-information-with-ollama-zod-and-modelfusion-293c)
-- [Go ORMs Compared](https://dev.to/encore/go-orms-compared-2c8g)
-- [Relationship Based Access Control &lpar;ReBAC&rpar;: When To Use It](https://dev.to/permify/relationship-based-access-control-rebac-when-to-use-it-l44)
+- [Sloan&#39;s Inbox: As a beginner, should I use AI as a tool and how?](https://dev.to/devteam/sloans-inbox-as-a-beginner-should-i-use-ai-as-a-tool-and-how-1eph)
+- [5 Tools for Easy Data Use – No Complicated Coding!](https://dev.to/devella/5-tools-for-easy-data-use-no-complicated-coding-1gia)
+- [There is still no internet? How to prevent premature timeouts on Ubuntu?](https://dev.to/ingosteinke/there-is-still-no-internet-how-to-prevent-premature-timeouts-on-ubuntu-5hdk)
+- [New HTML Control Lands in Safari](https://dev.to/alvaromontoro/new-html-control-lands-in-safari-5d46)
 <!-- BLOG-POST-LIST:END -->
 
