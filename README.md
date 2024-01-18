@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Objects &amp; Functions](https://dev.to/theoriginalbpc/an-introduction-to-objects-functions-1elf)
+- [Career treasure hunt: A comprehensive guide to mentoring from both sides](https://dev.to/veruu/career-treasure-hunt-a-comprehensive-guide-to-mentoring-from-both-sides-3fb2)
+- [How To Get Experience &lpar;Even When You Don’t Have Any&rpar; 💡](https://dev.to/dragosnedelcu/how-to-get-experience-even-when-you-dont-have-any-2e00)
 - [VS Code - Fix a task automation issue - `The terminal process failed to launch &lpar;exit code: 127`](https://dev.to/robole/vs-code-fix-a-task-automation-issue-the-terminal-process-failed-to-launch-exit-code-127-oof)
-- [Clean Code - Part 1](https://dev.to/sumisastri/clean-code-part-1-7h3)
-- [The Y2K Bug 🐞: Year 2000 Not Found ⁉️](https://dev.to/arjuncodess/the-y2k-bug-year-2000-not-found--3nba)
-- [Sloan&#39;s Inbox: As a beginner, should I use AI as a tool and how?](https://dev.to/devteam/sloans-inbox-as-a-beginner-should-i-use-ai-as-a-tool-and-how-1eph)
 <!-- BLOG-POST-LIST:END -->
 
