@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🐣Your First Database Schema Change in 5 Minutes with Bytebase](https://dev.to/bytebase/your-first-database-schema-change-in-5-minutes-with-bytebase-44a0)
 - [Popular tag&lpar;#programming&rpar; last week top 5](https://dev.to/c4r4x35/popular-tagprogramming-last-week-top-5-3o9)
 - [Inheritance with access-specifier in cpp](https://dev.to/khan1203/inheritance-with-access-specifier-in-cpp-37ap)
 - [[React] Passing environment variables to service workers](https://dev.to/yutakusuno/react-passing-environment-variables-to-service-workers-5egj)
-- [3 Habits You NEED to Master Coding](https://dev.to/arjuncodess/3-habits-you-need-to-master-coding-2egm)
 <!-- BLOG-POST-LIST:END -->
 
