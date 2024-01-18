@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular tag&lpar;#programming&rpar; last week top 5](https://dev.to/c4r4x35/popular-tagprogramming-last-week-top-5-3o9)
 - [Inheritance with access-specifier in cpp](https://dev.to/khan1203/inheritance-with-access-specifier-in-cpp-37ap)
 - [[React] Passing environment variables to service workers](https://dev.to/yutakusuno/react-passing-environment-variables-to-service-workers-5egj)
 - [3 Habits You NEED to Master Coding](https://dev.to/arjuncodess/3-habits-you-need-to-master-coding-2egm)
-- [Unlock Your Browser&#39;s Potential: 12 Must-Try Google Extensions and Extension Development Experiences](https://dev.to/happyer/unlock-your-browsers-potential-12-must-try-google-extensions-and-extension-development-experiences-4cf2)
 <!-- BLOG-POST-LIST:END -->
 
