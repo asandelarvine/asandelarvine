@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VS Code - Fix a task automation issue - `The terminal process failed to launch &lpar;exit code: 127`](https://dev.to/robole/vs-code-fix-a-task-automation-issue-the-terminal-process-failed-to-launch-exit-code-127-oof)
+- [Clean Code - Part 1](https://dev.to/sumisastri/clean-code-part-1-7h3)
+- [The Y2K Bug 🐞: Year 2000 Not Found ⁉️](https://dev.to/arjuncodess/the-y2k-bug-year-2000-not-found--3nba)
 - [Sloan&#39;s Inbox: As a beginner, should I use AI as a tool and how?](https://dev.to/devteam/sloans-inbox-as-a-beginner-should-i-use-ai-as-a-tool-and-how-1eph)
-- [5 Tools for Easy Data Use – No Complicated Coding!](https://dev.to/devella/5-tools-for-easy-data-use-no-complicated-coding-1gia)
-- [There is still no internet? How to prevent premature timeouts on Ubuntu?](https://dev.to/ingosteinke/there-is-still-no-internet-how-to-prevent-premature-timeouts-on-ubuntu-5hdk)
-- [New HTML Control Lands in Safari](https://dev.to/alvaromontoro/new-html-control-lands-in-safari-5d46)
 <!-- BLOG-POST-LIST:END -->
 
