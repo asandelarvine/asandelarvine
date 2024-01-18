@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kicking the tires of Docker Scout](https://dev.to/nfrankel/kicking-the-tires-of-docker-scout-14pf)
+- [Principios SOLID](https://dev.to/eloyparga/principios-solid-4nlj)
 - [Hadoop&amp;Spark is too heavy, esProc SPL is light](https://dev.to/vivi9876/hadoopspark-is-too-heavy-esproc-spl-is-light-31bd)
 - [🐣Your First Database Schema Change in 5 Minutes with Bytebase](https://dev.to/bytebase/your-first-database-schema-change-in-5-minutes-with-bytebase-44a0)
-- [Magic of TypeScript Generics](https://dev.to/bhavycodes/magic-of-typescript-generics-4j15)
-- [Popular tag&lpar;#programming&rpar; last week top 5](https://dev.to/c4r4x35/popular-tagprogramming-last-week-top-5-3o9)
 <!-- BLOG-POST-LIST:END -->
 
