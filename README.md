@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build an Anomaly Detector using BigQuery](https://dev.to/chloecaroneng/how-to-build-an-anomaly-detector-using-bigquery-274e)
-- [Funções Serverless na AWS: Simplificando o nosso Processo de Desenvolvimento](https://dev.to/nodebr/funcoes-serverless-na-aws-simplificando-o-nosso-processo-de-desenvolvimento-3l5i)
-- [Model, View, Controller in Rails: A Deep Dive into the MVC Architecture](https://dev.to/dumebii/model-view-controller-in-rails-a-deep-dive-into-the-mvc-architecture-4oi1)
-- [Build a Serverless GenAI solution with Lambda, DynamoDB, LangChain and Amazon Bedrock](https://dev.to/aws/build-a-serverless-genai-solution-with-lambda-dynamodb-langchain-and-amazon-bedrock-57h5)
+- [Sumo Logic and Tracetest: AI-Driven Observability Meets Testing](https://dev.to/kubeshop/sumo-logic-and-tracetest-ai-driven-observability-meets-testing-3poo)
+- [Effortlessly Generate Structured Information with Ollama, Zod, and ModelFusion](https://dev.to/lgrammel/effortlessly-generate-structured-information-with-ollama-zod-and-modelfusion-293c)
+- [Go ORMs Compared](https://dev.to/encore/go-orms-compared-2c8g)
+- [Relationship Based Access Control &lpar;ReBAC&rpar;: When To Use It](https://dev.to/permify/relationship-based-access-control-rebac-when-to-use-it-l44)
 <!-- BLOG-POST-LIST:END -->
 
