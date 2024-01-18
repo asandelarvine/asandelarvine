@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS services in nutshell](https://dev.to/er_saifullah/aws-services-in-nutshell-9mb)
-- [Why Math Matters &lpar;More Than You Think!&rpar;](https://dev.to/muhammad_salem/why-math-matters-more-than-you-think-1je4)
-- [An Introduction to Objects &amp; Functions](https://dev.to/theoriginalbpc/an-introduction-to-objects-functions-1elf)
-- [Scrolling Secrets: Make Your Website Awesome!](https://dev.to/kawward/scrolling-secrets-make-your-website-awesome-36k7)
+- [Making Infinite Scroll in Angular Easier and Cleaner](https://dev.to/rensjaspers/making-infinite-scroll-in-angular-easier-and-cleaner-38a9)
+- [Why to Use Css Animation?](https://dev.to/hasanelsherbiny/why-to-use-css-animation-34e7)
+- [Vector Database 101: Resources and Events to Learn about Vector DBs in 2024](https://dev.to/zilliz/vector-database-101-resources-and-events-to-learn-about-vector-dbs-in-2024-27og)
+- [ReScript: Rust like features for JavaScript](https://dev.to/jderochervlk/rescript-rust-like-features-for-javascript-27ig)
 <!-- BLOG-POST-LIST:END -->
 
