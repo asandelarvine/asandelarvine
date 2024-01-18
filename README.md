@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Funções Serverless na AWS: Simplificando o nosso Processo de Desenvolvimento](https://dev.to/nodebr/funcoes-serverless-na-aws-simplificando-o-nosso-processo-de-desenvolvimento-3l5i)
+- [Model, View, Controller in Rails: A Deep Dive into the MVC Architecture](https://dev.to/dumebii/model-view-controller-in-rails-a-deep-dive-into-the-mvc-architecture-4oi1)
 - [10 Game-Changing Benefits DevOps Brings to Your Business](https://dev.to/pravinuttarwarmb/10-game-changing-benefits-devops-brings-to-your-business-3f85)
 - [How to add the OSS Friends page to your Next.js website](https://dev.to/mfts/how-to-add-the-oss-friends-page-to-your-nextjs-website-2d7h)
-- [10 great web developer tools that will make you 10 years younger &lpar;or at least alleviate some stress 😄&rpar;](https://dev.to/ispmanager/10-great-web-developer-tools-that-will-make-you-10-years-younger-or-at-least-alleviate-some-stress--3a64)
-- [What is Network Hosting? A Detailed Guide](https://dev.to/kemuhost/what-is-network-hosting-a-detailed-guide-2f9i)
 <!-- BLOG-POST-LIST:END -->
 
