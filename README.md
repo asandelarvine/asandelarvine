@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Screenshot to Figma Design By AI: A New Chapter in Future Design](https://dev.to/happyer/screenshot-to-figma-design-by-ai-a-new-chapter-in-future-design-5bic)
+- [Empowering Newbies: Building Confidence Through 600+ LeetCode Solutions – A Guide for Beginners](https://dev.to/idsulik/empowering-newbies-building-confidence-through-600-leetcode-solutions-a-guide-for-beginners-3960)
+- [Understanding the Basics of Nose Reshaping](https://dev.to/hussnakhan/understanding-the-basics-of-nose-reshaping-1e8i)
 - [Exploring the Magic of AWS: Unleashing AI/ML Awesomeness for Top-Notch Solutions](https://dev.to/yogini16/exploring-the-magic-of-aws-unleashing-aiml-awesomeness-for-top-notch-solutions-3fee)
-- [Real-life analogy to explain the concept of Spring.](https://dev.to/raghwendrasonu/real-life-analogy-to-explain-the-concept-of-spring-3ej7)
-- [Unlocking Rust Development in Visual Studio Code: A Comprehensive Guide and Top Extensions](https://dev.to/chandrapenugonda/unlocking-rust-development-in-visual-studio-code-a-comprehensive-guide-and-top-extensions-e2j)
-- [Different Ways to Write CSS in React](https://dev.to/tejiri42/different-ways-to-write-css-in-react-26db)
 <!-- BLOG-POST-LIST:END -->
 
