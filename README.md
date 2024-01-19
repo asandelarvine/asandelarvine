@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 The Ultimate Developer&#39;s Toolkit 👨‍💻](https://dev.to/arjuncodess/the-ultimate-developers-toolkit-4a7f)
 - [CSS Media Queries](https://dev.to/sauelalmonte/css-media-queries-1a5b)
 - [Overview of Basic Docker Terminologies](https://dev.to/mukeshkuiry/overview-of-basic-docker-terminologies-1pn0)
-- [Expo SDK 50 Release 🚀](https://dev.to/expo/expo-sdk-50-release-do)
-- [5 Essential Substack Newsletters for Every Developer to Subscribe To 💌](https://dev.to/_ndeyefatoudiop/5-essential-substack-newsletters-for-every-developer-to-subscribe-to-322k)
+- [How to Enhance Senior Collaboration?](https://dev.to/devteam/how-to-enhance-senior-collaboration-2i7p)
 <!-- BLOG-POST-LIST:END -->
 
