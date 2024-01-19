@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Screenshot to Figma Design By AI: A New Chapter in Future Design](https://dev.to/happyer/screenshot-to-figma-design-by-ai-a-new-chapter-in-future-design-5bic)
-- [Empowering Newbies: Building Confidence Through 600+ LeetCode Solutions – A Guide for Beginners](https://dev.to/idsulik/empowering-newbies-building-confidence-through-600-leetcode-solutions-a-guide-for-beginners-3960)
-- [Understanding the Basics of Nose Reshaping](https://dev.to/hussnakhan/understanding-the-basics-of-nose-reshaping-1e8i)
-- [Exploring the Magic of AWS: Unleashing AI/ML Awesomeness for Top-Notch Solutions](https://dev.to/yogini16/exploring-the-magic-of-aws-unleashing-aiml-awesomeness-for-top-notch-solutions-3fee)
+- [How To Set Up A Mailserver Within A Docker Swarm](https://dev.to/paulknulst/how-to-set-up-a-mailserver-within-a-docker-swarm-2n76)
+- [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/optimizing-javascript-development-a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-37b3)
+- [South Korea&#39;s No.1 Search Engine Chose JuiceFS over Alluxio for AI Storage](https://dev.to/daswu/south-koreas-no1-search-engine-chose-juicefs-over-alluxio-for-ai-storage-23gi)
+- [Type Declaration](https://dev.to/nevergarden/type-declaration-na3)
 <!-- BLOG-POST-LIST:END -->
 
