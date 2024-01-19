@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Magic of AWS: Unleashing AI/ML Awesomeness for Top-Notch Solutions](https://dev.to/yogini16/exploring-the-magic-of-aws-unleashing-aiml-awesomeness-for-top-notch-solutions-3fee)
+- [Real-life analogy to explain the concept of Spring.](https://dev.to/raghwendrasonu/real-life-analogy-to-explain-the-concept-of-spring-3ej7)
 - [Unlocking Rust Development in Visual Studio Code: A Comprehensive Guide and Top Extensions](https://dev.to/chandrapenugonda/unlocking-rust-development-in-visual-studio-code-a-comprehensive-guide-and-top-extensions-e2j)
 - [Different Ways to Write CSS in React](https://dev.to/tejiri42/different-ways-to-write-css-in-react-26db)
-- [🌟 The Ultimate Developer&#39;s Toolkit 👨‍💻](https://dev.to/arjuncodess/the-ultimate-developers-toolkit-4a7f)
-- [Effortless Organisation: How Wise Dash Simplifies Your Digital Life](https://dev.to/janemm/effortless-organisation-how-wise-dash-simplifies-your-digital-life-5bpl)
 <!-- BLOG-POST-LIST:END -->
 
