@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Rust Development in Visual Studio Code: A Comprehensive Guide and Top Extensions](https://dev.to/chandrapenugonda/unlocking-rust-development-in-visual-studio-code-a-comprehensive-guide-and-top-extensions-e2j)
+- [Different Ways to Write CSS in React](https://dev.to/tejiri42/different-ways-to-write-css-in-react-26db)
 - [🌟 The Ultimate Developer&#39;s Toolkit 👨‍💻](https://dev.to/arjuncodess/the-ultimate-developers-toolkit-4a7f)
-- [CSS Media Queries](https://dev.to/sauelalmonte/css-media-queries-1a5b)
-- [Overview of Basic Docker Terminologies](https://dev.to/mukeshkuiry/overview-of-basic-docker-terminologies-1pn0)
-- [How to Enhance Senior Collaboration?](https://dev.to/devteam/how-to-enhance-senior-collaboration-2i7p)
+- [Effortless Organisation: How Wise Dash Simplifies Your Digital Life](https://dev.to/janemm/effortless-organisation-how-wise-dash-simplifies-your-digital-life-5bpl)
 <!-- BLOG-POST-LIST:END -->
 
