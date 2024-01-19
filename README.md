@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Media Queries](https://dev.to/sauelalmonte/css-media-queries-1a5b)
 - [Overview of Basic Docker Terminologies](https://dev.to/mukeshkuiry/overview-of-basic-docker-terminologies-1pn0)
-- [Discussion of the Week: &quot;React, where are you going?&quot;](https://dev.to/devteam/discussion-of-the-week-react-where-are-you-going-2fn2)
-- [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-espanol/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-3mhl)
-- [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-builders/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-b3a)
+- [Expo SDK 50 Release 🚀](https://dev.to/expo/expo-sdk-50-release-do)
+- [5 Essential Substack Newsletters for Every Developer to Subscribe To 💌](https://dev.to/_ndeyefatoudiop/5-essential-substack-newsletters-for-every-developer-to-subscribe-to-322k)
 <!-- BLOG-POST-LIST:END -->
 
