@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Divergent Change](https://dev.to/julianrubisch/divergent-change-54om)
+- [Real case of Python Metaclass application](https://dev.to/anbagu/real-case-of-python-metaclass-application-2pj8)
 - [Game marketing strategies](https://dev.to/nandinishinduja/game-marketing-strategies-bk6)
 - [AWS Community Builders 2024 - conclusions after 2 years](https://dev.to/aws-builders/aws-community-builders-2024-conclusions-after-2-years-2pm4)
-- [Wrapping Up the Journey: Reflections on the Final Week of Tublian&#39;s Open Source Internship](https://dev.to/lymah/wrapping-up-the-journey-reflections-on-the-final-week-of-tublians-open-source-internship-5df6)
-- [Explorando a integração entre Google Sheets e Python para automação de dados no sheets](https://dev.to/starch1/explorando-a-integracao-entre-google-sheets-e-python-para-automacao-de-dados-no-sheets-2o71)
 <!-- BLOG-POST-LIST:END -->
 
