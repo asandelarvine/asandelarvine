@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Kubernetes using Minikube](https://dev.to/samueloshobugie/installing-kubernetes-using-minikube-42ab)
-- [GitHub Readme: Responsive? 🤔 Animated? 🤯 Light and dark modes? 😱 You bet! 💪🏼](https://dev.to/grahamthedev/take-your-github-readme-to-the-next-level-responsive-and-light-and-dark-modes--3kpc)
-- [10 Mistakes to Avoid When Using Cypress](https://dev.to/elaichenkov/10-mistakes-to-avoid-when-using-cypress-411o)
-- [Mountain Bikes and Code: Making the Best Decisions to Become Senior](https://dev.to/gabriel-palhares/mountain-bikes-and-code-making-the-best-decisions-to-become-senior-436j)
+- [🌟 Keep Calm and Code On: Positive Strategies for Handling Frustration in Web Development 🚀](https://dev.to/marmariadev/keep-calm-and-code-on-positive-strategies-for-handling-frustration-in-web-development-m2k)
+- [🌟 Mantén la Calma y Código On: Estrategias Positivas para Manejar la Frustración en Desarrollo Web 🚀](https://dev.to/marmariadev/manten-la-calma-y-codigo-on-estrategias-positivas-para-manejar-la-frustracion-en-desarrollo-web-1hjl)
+- [Create Custom Actions for your Hyperlambda Workflows](https://dev.to/polterguy/create-custom-actions-for-your-hyperlambda-workflows-5del)
+- [La evolución de las herramientas de trabajo: del papel al software de gestión de proyectos](https://dev.to/denisluce/la-evolucion-de-las-herramientas-de-trabajo-del-papel-al-software-de-gestion-de-proyectos-8gj)
 <!-- BLOG-POST-LIST:END -->
 
