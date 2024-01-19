@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Css Module Type + Vite!](https://dev.to/rezamoosavidweb/css-module-type-vite-5hlm)
-- [Did you achieve something noteworthy this week?](https://dev.to/madzimai/what-was-your-win-this-week-21og)
-- [Is it worth learning Flutter in 2024?](https://dev.to/svprdga/is-it-worth-learning-flutter-in-2024-16i)
-- [The Road to Adoption: A Product and Strategy Perspective](https://dev.to/prove/the-road-to-adoption-a-product-and-strategy-perspective-gbn)
+- [Mastering Docker Multistage Builds](https://dev.to/raunakgurud09/mastering-docker-multistage-builds-1e0m)
+- [GraphQL benefits and why you should adopt it in 2024](https://dev.to/graphqleditor/graphql-benefits-and-why-you-should-adopt-it-in-2024-4d2c)
+- [Referential equality: Where variables check-in and rarely check-out.](https://dev.to/subaash_b/referential-equality-where-variables-check-in-and-rarely-check-out-14gp)
+- [Scaling Real-Time Leaderboards with Dragonfly](https://dev.to/dragonflydbio/scaling-real-time-leaderboards-with-dragonfly-2h4p)
 <!-- BLOG-POST-LIST:END -->
 
