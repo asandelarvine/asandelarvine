@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Overview of Basic Docker Terminologies](https://dev.to/mukeshkuiry/overview-of-basic-docker-terminologies-1pn0)
 - [Discussion of the Week: &quot;React, where are you going?&quot;](https://dev.to/devteam/discussion-of-the-week-react-where-are-you-going-2fn2)
 - [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-espanol/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-3mhl)
 - [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-builders/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-b3a)
-- [How to Serve LLM Completions in Production](https://dev.to/mcharytoniuk/how-to-serve-llm-completions-in-production-33c2)
 <!-- BLOG-POST-LIST:END -->
 
