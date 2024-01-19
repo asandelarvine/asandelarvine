@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Did a Moth Really Shape the Destiny of Computers ⁉️](https://dev.to/arjuncodess/did-a-moth-really-shape-the-destiny-of-computers-59p1)
-- [Engineering Bolt ⚡: #3 Friday Developer Fun 🐞](https://dev.to/alexr/engineering-bolt-3-friday-developer-fun-1da6)
-- [🌟 Keep Calm and Code On: Positive Strategies for Handling Frustration in Web Development 🚀](https://dev.to/marmariadev/keep-calm-and-code-on-positive-strategies-for-handling-frustration-in-web-development-m2k)
-- [🌟 Mantén la Calma y Código On: Estrategias Positivas para Manejar la Frustración en Desarrollo Web 🚀](https://dev.to/marmariadev/manten-la-calma-y-codigo-on-estrategias-positivas-para-manejar-la-frustracion-en-desarrollo-web-1hjl)
+- [Is it worth learning Flutter in 2024?](https://dev.to/svprdga/is-it-worth-learning-flutter-in-2024-16i)
+- [Let&#39;s talk #DEVResolutions - what strikes a chord with you?](https://dev.to/devteam/lets-talk-devresolutions-what-strikes-a-chord-with-you-21i7)
+- [Blog Comments](https://dev.to/codenameone/blog-comments-1l0a)
+- [Open Lakehouse Engineering/Apache Iceberg Lakehouse Engineering - A Directory of Resources](https://dev.to/alexmercedcoder/open-lakehouse-engineeringapache-iceberg-lakehouse-engineering-a-directory-of-resources-54ng)
 <!-- BLOG-POST-LIST:END -->
 
