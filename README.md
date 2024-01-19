@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Css Module Type + Vite!](https://dev.to/rezamoosavidweb/css-module-type-vite-5hlm)
+- [Did you achieve something noteworthy this week?](https://dev.to/madzimai/what-was-your-win-this-week-21og)
 - [Is it worth learning Flutter in 2024?](https://dev.to/svprdga/is-it-worth-learning-flutter-in-2024-16i)
-- [Let&#39;s talk #DEVResolutions - what strikes a chord with you?](https://dev.to/devteam/lets-talk-devresolutions-what-strikes-a-chord-with-you-21i7)
-- [Blog Comments](https://dev.to/codenameone/blog-comments-1l0a)
-- [Open Lakehouse Engineering/Apache Iceberg Lakehouse Engineering - A Directory of Resources](https://dev.to/alexmercedcoder/open-lakehouse-engineeringapache-iceberg-lakehouse-engineering-a-directory-of-resources-54ng)
+- [The Road to Adoption: A Product and Strategy Perspective](https://dev.to/prove/the-road-to-adoption-a-product-and-strategy-perspective-gbn)
 <!-- BLOG-POST-LIST:END -->
 
