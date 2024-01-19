@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🎈The [Block] Party: A Beginner&#39;s Guide to Data Structures](https://dev.to/zanepearton/the-block-party-a-beginners-guide-to-data-structures-f3b)
+- [Why should you care about the “security.txt” file on your website?](https://dev.to/darkotodoric/why-should-you-care-about-the-securitytxt-file-on-your-website-116j)
+- [Derivations in Reactivity](https://dev.to/this-is-learning/derivations-in-reactivity-4fo1)
 - [How To Set Up A Mailserver Within A Docker Swarm](https://dev.to/paulknulst/how-to-set-up-a-mailserver-within-a-docker-swarm-2n76)
-- [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/optimizing-javascript-development-a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-37b3)
-- [South Korea&#39;s No.1 Search Engine Chose JuiceFS over Alluxio for AI Storage](https://dev.to/daswu/south-koreas-no1-search-engine-chose-juicefs-over-alluxio-for-ai-storage-23gi)
-- [Type Declaration](https://dev.to/nevergarden/type-declaration-na3)
 <!-- BLOG-POST-LIST:END -->
 
