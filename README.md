@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [useRequest: Create a Basic Declarative React hook for Managing API Requests as an Alternative to useQuery](https://dev.to/shcheglov/userequest-create-a-basic-declarative-react-hook-for-managing-api-requests-as-an-alternative-to-usequery-28ci)
 - [lowercase saves data? with Huffman encoding ex.](https://dev.to/nikl/lowercase-saves-data-with-huffman-encoding-ex-396)
 - [Cache Conundrum: A Daily Dialogue in the World of Code and QA](https://dev.to/jagroop2001/cache-conundrum-a-daily-dialogue-in-the-world-of-code-and-qa-290m)
 - [🌟 The Open-Closed Principle: Making Coding Fun &amp; Flexible! 🎉](https://dev.to/mohitkadwe19/the-open-closed-principle-making-coding-fun-flexible-14mb)
-- [AI Playground you can run from your laptop 🚀](https://dev.to/tanyarai/ai-playground-you-can-run-from-your-laptop-2ee5)
 <!-- BLOG-POST-LIST:END -->
 
