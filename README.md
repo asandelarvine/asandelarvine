@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Animated Sidebar made using Rasengan and Tailwind](https://dev.to/dilane3/animated-sidebar-made-using-rasengan-and-tailwind-3jlc)
+- [How I build resilient on the financial service application](https://dev.to/aws-builders/how-i-build-resilient-on-the-financial-service-application-4kc5)
 - [Announcing Lumberjack v16: Life improvements, deprecations and an ambicius roadmap](https://dev.to/lumberjack-js/announcing-lumberjack-v16-life-improvements-deprecations-and-an-ambicius-roadmap-5ffk)
 - [Advanced Stability and Fault Tolerance Mechanisms of Apache APISIX](https://dev.to/apisix/advanced-stability-and-fault-tolerance-mechanisms-of-apache-apisix-198b)
-- [AWS Cost Management: Strategies and Examples](https://dev.to/aws-builders/aws-cost-management-strategies-and-examples-5gma)
-- [Kubernetes for Beginners: Introduction, Functionality, and Cost](https://dev.to/camelcaseguy/kubernetes-for-beginners-introduction-functionality-and-cost-1n68)
 <!-- BLOG-POST-LIST:END -->
 
