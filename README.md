@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [useRequest: Create a Basic Declarative React hook for Managing API Requests as an Alternative to useQuery](https://dev.to/shcheglov/userequest-create-a-basic-declarative-react-hook-for-managing-api-requests-as-an-alternative-to-usequery-28ci)
-- [lowercase saves data? with Huffman encoding ex.](https://dev.to/nikl/lowercase-saves-data-with-huffman-encoding-ex-396)
-- [Cache Conundrum: A Daily Dialogue in the World of Code and QA](https://dev.to/jagroop2001/cache-conundrum-a-daily-dialogue-in-the-world-of-code-and-qa-290m)
-- [🌟 The Open-Closed Principle: Making Coding Fun &amp; Flexible! 🎉](https://dev.to/mohitkadwe19/the-open-closed-principle-making-coding-fun-flexible-14mb)
+- [🪄✨How I built this Twitter scheduler using React and Hasura🔥](https://dev.to/kaushik94/how-i-built-this-twitter-scheduler-using-react-and-hasura-26jo)
+- [Unleash the Power of PyQt: Your Fun Guide to Mastering Python GUIs](https://dev.to/matinmollapur0101/unleash-the-power-of-pyqt-your-fun-guide-to-mastering-python-guis-1jka)
+- [Title: Crafting Compelling Narratives: A Guide to Writing Stories with GitBook – Free Scrivener Alternative](https://dev.to/sh20raj/title-crafting-compelling-narratives-a-guide-to-writing-stories-with-gitbook-free-scrivener-alternative-4b72)
+- [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
 <!-- BLOG-POST-LIST:END -->
 
