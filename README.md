@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do not Vertical Scale a GPU Instance](https://dev.to/mirzabilal/do-not-vertical-scale-a-gpu-instance-39l1)
 - [&quot;Beyond Virtual Assistants: How Amazon Q is Reshaping Work with Generative AI&quot;](https://dev.to/aws-builders/beyond-virtual-assistants-how-amazon-q-is-reshaping-work-with-generative-ai-3pc5)
 - [Animated Sidebar made using Rasengan and Tailwind](https://dev.to/dilane3/animated-sidebar-made-using-rasengan-and-tailwind-3jlc)
 - [How I build resilient on the financial service application](https://dev.to/aws-builders/how-i-build-resilient-on-the-financial-service-application-4kc5)
-- [14 Best Visual Studio Code Extensions ⚡🔥](https://dev.to/arjuncodess/top-14-best-visual-studio-code-extensions-1n6d)
 <!-- BLOG-POST-LIST:END -->
 
