@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes for Beginners: Introduction, Functionality, and Cost](https://dev.to/camelcaseguy/kubernetes-for-beginners-introduction-functionality-and-cost-1n68)
 - [🪄✨How I built this Twitter scheduler using React and Hasura🔥](https://dev.to/kaushik94/how-i-built-this-twitter-scheduler-using-react-and-hasura-26jo)
 - [Unleash the Power of PyQt: Your Fun Guide to Mastering Python GUIs](https://dev.to/matinmollapur0101/unleash-the-power-of-pyqt-your-fun-guide-to-mastering-python-guis-1jka)
 - [Title: Crafting Compelling Narratives: A Guide to Writing Stories with GitBook – Free Scrivener Alternative](https://dev.to/sh20raj/title-crafting-compelling-narratives-a-guide-to-writing-stories-with-gitbook-free-scrivener-alternative-4b72)
-- [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
 <!-- BLOG-POST-LIST:END -->
 
