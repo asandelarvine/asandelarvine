@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Days 10–12 of 100 Days of Code](https://dev.to/grimkillingbeck/days-10-12-of-100-days-of-code-bj5)
+- [Do you need to be a Competitive Programmer?](https://dev.to/tajirhas9/do-you-need-to-be-a-competitive-programmer-5ph)
+- [Symfony Station Communiqué — 19 January 2024. A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-19-january-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-1le6)
 - [Preparando un gran post: Desplegando App Functions en Azure](https://dev.to/danieljsaldana/preparando-un-gran-post-desplegando-app-functions-en-azure-4ogh)
-- [React Throws a Curveball](https://dev.to/mateusriff/react-throws-a-curveball-5g7n)
-- [GETTING STARTED WITH THE SQL JOURNEY](https://dev.to/johnkyalo/getting-started-with-the-sql-journey-3l8n)
-- [Gentle introduction to Generic Repository Pattern with C#](https://dev.to/karenpayneoregon/gentle-introduction-to-generic-repository-pattern-with-c-1jn0)
 <!-- BLOG-POST-LIST:END -->
 
