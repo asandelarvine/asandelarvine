@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advocating for Yourself: Empowering Your Career](https://dev.to/akinmyde/advocating-for-yourself-empowering-your-career-34j9)
+- [PM2 Cheatsheet](https://dev.to/hashcode01/pm2-cheatsheet-3fb0)
 - [10 Websites To Learn Anything For Free On The Internet](https://dev.to/durgesh4993/10-websites-to-learn-anything-for-free-on-the-internet-4ahe)
 - [Comparison of Stable Diffusion XL &lpar;SDXL&rpar; 0.9 vs 1.0 For DreamBooth Training - Surprising Results](https://dev.to/furkangozukara/comparison-of-stable-diffusion-xl-sdxl-09-vs-10-for-dreambooth-training-surprising-results-gki)
-- [Using the View Transition API on Angular Framework](https://dev.to/diogom/using-the-view-transition-api-on-angular-framework-2ip3)
-- [How to Rewrite Angular Apps to be Nearly Observable and Subscribe-Free](https://dev.to/duluca/how-to-rewrite-angular-apps-to-be-nearly-observable-and-subscribe-free-53h7)
 <!-- BLOG-POST-LIST:END -->
 
