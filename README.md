@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Understanding Pointers in Go](https://dev.to/oyedeletemitope/understanding-pointers-in-go-1fa6)
 - [Manga TV](https://dev.to/msveshnikov/manga-tv-1mp4)
 - [SSR React in Go](https://dev.to/k_penguin_sato/ssr-react-in-go-3ej)
-- [Intro to game development](https://dev.to/nandinishinduja/intro-to-game-development-27cn)
+- [JavaScript: The Klassic Way!](https://dev.to/alimobasheri/javascript-the-klassic-way-pfg)
 <!-- BLOG-POST-LIST:END -->
 
