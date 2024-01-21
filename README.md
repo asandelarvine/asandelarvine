@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Machine with Azure Portal](https://dev.to/beingwizard/virtual-machine-with-azure-portal-43kf)
+- [Update: Tackling a large volume of simple problems in an Open Source project](https://dev.to/manchicken/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project-306c)
+- [5 GitHub Repositories to Learn From: Open-Source Web Apps](https://dev.to/sarathadhithya/5-github-repositories-to-learn-from-open-source-web-apps-4f1i)
 - [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
-- [Exploring useMemo in React: Optimization and Real-World Applications](https://dev.to/ayako_yk/exploring-usememo-in-react-optimization-and-real-world-applications-5djp)
-- [Cool Tool: ASDF — A single solution for managing versions](https://dev.to/amburi/cool-tool-asdf-a-single-solution-for-managing-versions-4bcd)
-- [Monolithic, Microservices and Mono Repo Architecture](https://dev.to/amburi/monolithic-microservices-and-mono-repo-architecture-4o33)
 <!-- BLOG-POST-LIST:END -->
 
