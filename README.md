@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Me as a game dev team leader](https://dev.to/philopaterwaheed/me-as-a-game-dev-team-leader-43c7)
 - [How I made it impossible to write spaghetti code.](https://dev.to/denzyldick/how-i-made-it-impossible-to-write-spaghetti-code-dg4)
 - [Conways Law and Ownership](https://dev.to/cbui/conways-law-and-ownership-4pjn)
 - [Introduction to Functional Programming in Scala](https://dev.to/kartikmehta8/introduction-to-functional-programming-in-scala-1cgp)
-- [8 Tips for Effective Design Reviews](https://dev.to/suhavi/8-tips-for-effective-design-reviews-1611)
 <!-- BLOG-POST-LIST:END -->
 
