@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Noob learns Asynchronous Rust.](https://dev.to/kinxyo/noob-learns-asynchronous-rust-2452)
 - [Advocating for Yourself: Empowering Your Career](https://dev.to/akinmyde/advocating-for-yourself-empowering-your-career-34j9)
 - [PM2 Cheatsheet](https://dev.to/hashcode01/pm2-cheatsheet-3fb0)
-- [10 Websites To Learn Anything For Free On The Internet](https://dev.to/durgesh4993/10-websites-to-learn-anything-for-free-on-the-internet-4ahe)
-- [Comparison of Stable Diffusion XL &lpar;SDXL&rpar; 0.9 vs 1.0 For DreamBooth Training - Surprising Results](https://dev.to/furkangozukara/comparison-of-stable-diffusion-xl-sdxl-09-vs-10-for-dreambooth-training-surprising-results-gki)
+- [Mastering CSS Custom Properties: The Senior Developer&#39;s Approach to CSS Custom Properties.](https://dev.to/dunia/mastering-css-custom-properties-the-senior-developers-approach-to-css-custom-properties-4088)
 <!-- BLOG-POST-LIST:END -->
 
