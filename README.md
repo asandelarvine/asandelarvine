@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📈 Top 5 Beginner-Friendly Open Source Libraries for RAG 🚀](https://dev.to/llmware/top-5-beginner-friendly-open-source-libraries-for-rag-1mhb)
+- [PyTorch / Jupyter notebook: ModuleNotFoundError: No module named &#39;torch&#39;](https://dev.to/vidyasagarmsc/pytorch-jupyter-notebook-modulenotfounderror-no-module-named-torch-2c1o)
 - [Yet Another Newsletter LOL: Heading to the SPA](https://dev.to/nickytonline/yet-another-newsletter-lol-heading-to-the-spa-18h1)
-- [6 Kubernetes Ports: A Definitive Look - Expose, NodePort, TargetPort, &amp; More](https://dev.to/lovestaco/6-kubernetes-ports-a-definitive-look-expose-nodeport-targetport-more-2enc)
-- [How to pass AWS SAA within 8 weeks](https://dev.to/cuongnp/how-to-pass-aws-saa-within-8-weeks-3a9l)
-- [Your AI Code Reviewer in CLI](https://dev.to/rudransh61/your-ai-code-reviewer-in-cli-1loc)
+- [How to Improve Development Experience of your React Project](https://dev.to/pavelkeyzik/how-to-improve-development-experience-of-your-react-project-l5j)
 <!-- BLOG-POST-LIST:END -->
 
