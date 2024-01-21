@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparison of Stable Diffusion XL &lpar;SDXL&rpar; 0.9 vs 1.0 For DreamBooth Training - Surprising Results](https://dev.to/furkangozukara/comparison-of-stable-diffusion-xl-sdxl-09-vs-10-for-dreambooth-training-surprising-results-gki)
+- [Using the View Transition API on Angular Framework](https://dev.to/diogom/using-the-view-transition-api-on-angular-framework-2ip3)
 - [How to Rewrite Angular Apps to be Nearly Observable and Subscribe-Free](https://dev.to/duluca/how-to-rewrite-angular-apps-to-be-nearly-observable-and-subscribe-free-53h7)
 - [Mastering OOP: Unveiling the Power of Constructors for Efficient Code Creation and Optimization](https://dev.to/mzunairtariq/mastering-oop-unveiling-the-power-of-constructors-for-efficient-code-creation-and-optimization-1i74)
-- [What is Security Breach?](https://dev.to/sagorbro005/what-is-security-breach-14be)
-- [How to work with multiple git branches simultaneously.](https://dev.to/afrieirham/how-to-work-with-multiple-git-branches-simultaneously-35mc)
 <!-- BLOG-POST-LIST:END -->
 
