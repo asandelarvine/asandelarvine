@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The future of frontend development](https://dev.to/codewithshahan/the-future-of-frontend-development-1amd)
+- [Using Codeium in VS Code](https://dev.to/oldtechaa/using-codeium-in-vs-code-6fe)
 - [Virtual Machine with Azure Portal](https://dev.to/beingwizard/virtual-machine-with-azure-portal-43kf)
 - [Update: Tackling a large volume of simple problems in an Open Source project](https://dev.to/manchicken/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project-306c)
-- [5 GitHub Repositories to Learn From: Open-Source Web Apps](https://dev.to/sarathadhithya/5-github-repositories-to-learn-from-open-source-web-apps-4f1i)
-- [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
 <!-- BLOG-POST-LIST:END -->
 
