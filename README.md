@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SSR React in Go](https://dev.to/k_penguin_sato/ssr-react-in-go-3ej)
 - [Intro to game development](https://dev.to/nandinishinduja/intro-to-game-development-27cn)
+- [Next.js vs. Gatsby in 2024](https://dev.to/lilxyzz/nextjs-vs-gatsby-in-2024-50am)
 - [My Wrap Up of 2023: A Year of Growth and Recognition](https://dev.to/this-is-learning/my-wrap-up-of-2023-a-year-of-growth-and-recognition-4b6n)
-- [The future of frontend development](https://dev.to/codewithshahan/the-future-of-frontend-development-1amd)
-- [Using Codeium in VS Code](https://dev.to/oldtechaa/using-codeium-in-vs-code-6fe)
 <!-- BLOG-POST-LIST:END -->
 
