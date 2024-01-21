@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Pointers in Go](https://dev.to/oyedeletemitope/understanding-pointers-in-go-1fa6)
-- [Manga TV](https://dev.to/msveshnikov/manga-tv-1mp4)
-- [SSR React in Go](https://dev.to/k_penguin_sato/ssr-react-in-go-3ej)
-- [JavaScript: The Klassic Way!](https://dev.to/alimobasheri/javascript-the-klassic-way-pfg)
+- [Angular 17 Tutorial for Beginners](https://dev.to/anilsingh/angular-17-tutorial-for-beginners-3a76)
+- [Nuxt 3 as frontend for Tauri.](https://dev.to/kinxyo/nuxt-3-as-frontend-for-tauri-34gf)
+- [9 Free VS Code Extensions to Boost Your Productivity! 🚀](https://dev.to/mukeshkuiry/9-free-vs-code-extensions-to-boost-your-productivity-3nm4)
+- [How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity-329a)
 <!-- BLOG-POST-LIST:END -->
 
