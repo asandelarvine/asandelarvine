@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Heading to the SPA](https://dev.to/nickytonline/yet-another-newsletter-lol-heading-to-the-spa-18h1)
+- [6 Kubernetes Ports: A Definitive Look - Expose, NodePort, TargetPort, &amp; More](https://dev.to/lovestaco/6-kubernetes-ports-a-definitive-look-expose-nodeport-targetport-more-2enc)
+- [How to pass AWS SAA within 8 weeks](https://dev.to/cuongnp/how-to-pass-aws-saa-within-8-weeks-3a9l)
 - [Your AI Code Reviewer in CLI](https://dev.to/rudransh61/your-ai-code-reviewer-in-cli-1loc)
-- [Embracing the Linux Adventure: A Journey from Essential Skills to WSL2 Woes](https://dev.to/fathinafiff/embracing-the-linux-adventure-a-journey-from-essential-skills-to-wsl2-woes-kfg)
-- [Understanding CORS, CSRF attacks and enabling valid CORS](https://dev.to/mugunthanselvaraj/understanding-cors-csrf-attacks-and-enabling-valid-cors-3ko6)
-- [Next-Gen Real Estate: The Technical Evolution of Property Listings and Search Features](https://dev.to/webdigisoft/next-gen-real-estate-the-technical-evolution-of-property-listings-and-search-features-ka3)
 <!-- BLOG-POST-LIST:END -->
 
