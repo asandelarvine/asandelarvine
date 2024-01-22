@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[20 Days of DynamoDB] Day 11 - Using pagination with Query API](https://dev.to/aws/20-days-of-dynamodb-day-11-using-pagination-with-query-api-17h6)
+- [An alternative to the Javascript switch statement](https://dev.to/mhmdjaw/an-alternative-to-the-javascript-switch-statement-1kah)
 - [5 Underrated Skills That Will Get You Promoted](https://dev.to/jenesh/5-underrated-skills-that-will-get-you-promoted-4kah)
 - [Utilizando o CustomPaint para criar assinatura.](https://dev.to/luisgustavoo/utilizando-o-custompaint-para-criar-assinatura-de-nome-2mii)
-- [Making Web Component properties behave closer to the platform](https://dev.to/tbroyer/making-web-component-properties-behave-closer-to-the-platform-c1n)
-- [Noob learns Asynchronous Rust.](https://dev.to/kinxyo/noob-learns-asynchronous-rust-2452)
 <!-- BLOG-POST-LIST:END -->
 
