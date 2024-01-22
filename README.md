@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Linux distro recommendation framework and my picks for 2024](https://dev.to/unsungnovelty/a-linux-distro-recommendation-framework-and-my-picks-for-2024-45ob)
+- [Data Science Landscape](https://dev.to/eddieadams/data-science-landscape-djg)
+- [Tips and Ideas for ViewComponent with Tailwind CSS and Hotwire](https://dev.to/railsdesigner/tips-and-ideas-for-viewcomponent-with-tailwind-css-and-hotwire-5g43)
 - [[20 Days of DynamoDB] Day 11 - Using pagination with Query API](https://dev.to/aws/20-days-of-dynamodb-day-11-using-pagination-with-query-api-17h6)
-- [An alternative to the Javascript switch statement](https://dev.to/mhmdjaw/an-alternative-to-the-javascript-switch-statement-1kah)
-- [5 Underrated Skills That Will Get You Promoted](https://dev.to/jenesh/5-underrated-skills-that-will-get-you-promoted-4kah)
-- [Utilizando o CustomPaint para criar assinatura.](https://dev.to/luisgustavoo/utilizando-o-custompaint-para-criar-assinatura-de-nome-2mii)
 <!-- BLOG-POST-LIST:END -->
 
