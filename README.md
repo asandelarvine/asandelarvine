@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is User Acceptance Testing &lpar;UAT&rpar;: With Best Practices](https://dev.to/amritaangappa01/what-is-user-acceptance-testing-uat-with-best-practices-pg0)
-- [What you don&#39;t know about sass 🤯](https://dev.to/saifmohamedsv/what-you-dont-know-about-sass-1hll)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-11k3)
-- [🔥 FAST &amp; FURIOUS WEBSITE 2024 🔥Tips &amp; Links for performance optimization](https://dev.to/serverspace/fast-furious-website-2024-tips-links-for-performance-optimization-3lcd)
+- [Use the Azure AI Vision multi-modal embeddings API for image retrieval](https://dev.to/sfoteini/use-the-azure-ai-vision-multi-modal-embeddings-api-for-image-retrieval-3p11)
+- [A Comprehensive Guide to Using SQLite with Node.js](https://dev.to/simonmackie/a-comprehensive-guide-to-using-sqlite-with-nodejs-549i)
+- [Top 10 Front-End Tools Of 2024 - Part 1](https://dev.to/codingcss/top-10-front-end-tools-of-2024-part-1-10f3)
+- [Solving the Reserved Instance Resale Ban With K8s Automation](https://dev.to/cast_ai/solving-the-reserved-instance-resale-ban-with-k8s-automation-agi)
 <!-- BLOG-POST-LIST:END -->
 
