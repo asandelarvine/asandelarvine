@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the DevOps Interview: A Guide for Junior Candidates](https://dev.to/kubeden/mastering-the-devops-interview-a-guide-for-junior-candidates-fe0)
 - [Beginning the Journey into ML, AI and GenAI on AWS](https://dev.to/aws-builders/beginning-the-journey-into-ml-ai-and-genai-on-aws-1hdc)
 - [Understanding JavaScript Scope: Global and Local](https://dev.to/mgbejxi/understanding-javascript-scope-global-and-local-2jp0)
-- [🗞 Rapyd Developer Newsletter: January 2024](https://dev.to/rapyd/rapyd-developer-newsletter-january-2024-1214)
-- [Creating a Word Art text-curving design picker in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/creating-a-word-art-text-curving-design-picke-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-4ei7)
+- [Playing devil&#39;s advocate with Terraform](https://dev.to/livioribeiro/playing-devils-advocate-with-terraform-92n)
 <!-- BLOG-POST-LIST:END -->
 
