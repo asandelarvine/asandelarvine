@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [15 open-source tools to elevate your software design workflow](https://dev.to/tqbit/15-open-source-tools-to-elevate-your-software-design-workflow-4nbd)
+- [Writing Style Guide for Technical Articles](https://dev.to/surajondev/writing-style-guide-for-technical-articles-6e)
 - [🚀 API Maker : Release Notes for v1.1.0](https://dev.to/apimaker/api-maker-release-notes-for-v110-250m)
-- [Do you need to code a portfolio in this digital world? 🚀](https://dev.to/anmolbaranwal/do-you-need-to-code-a-portfolio-in-this-digital-world-5ge1)
-- [Mastering Small Talk Online: How Walles.AI Helps You Strike Up Engaging Conversations](https://dev.to/geekyqee/mastering-small-talk-online-how-wallesai-helps-you-strike-up-engaging-conversations-4aom)
-- [Walles.AI&#39;s Heatwave: Igniting Professional Articles, Sizzling PDF Chats, and More!](https://dev.to/geekyqee/wallesais-heatwave-igniting-professional-articles-sizzling-pdf-chats-and-more-4occ)
+- [La Maravilla del Modelo de Caja &quot;Border-box&quot;!](https://dev.to/eloyparga/la-maravilla-del-modelo-de-caja-border-box-26ma)
 <!-- BLOG-POST-LIST:END -->
 
