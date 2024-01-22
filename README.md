@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 YouTube Channels to Ace Your Coding Interviews](https://dev.to/idsulik/top-5-youtube-channels-to-ace-your-coding-interviews-23n3)
-- [🗺️ The React Roadmap for 2024](https://dev.to/codebootcamp/the-react-roadmap-for-2024-1g24)
-- [Use the Azure AI Vision multi-modal embeddings API for image retrieval](https://dev.to/sfoteini/use-the-azure-ai-vision-multi-modal-embeddings-api-for-image-retrieval-3p11)
-- [A Comprehensive Guide to Using SQLite with Node.js](https://dev.to/simonmackie/a-comprehensive-guide-to-using-sqlite-with-nodejs-549i)
+- [🗞 Rapyd Developer Newsletter: January 2024](https://dev.to/rapyd/rapyd-developer-newsletter-january-2024-1214)
+- [Creating a Word Art text-curving design picker in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/creating-a-word-art-text-curving-design-picke-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-4ei7)
+- [How to structure your code for readability](https://dev.to/danbars/how-to-structure-your-code-for-readability-455c)
+- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 5](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-5-2hdm)
 <!-- BLOG-POST-LIST:END -->
 
