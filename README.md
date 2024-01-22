@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Resources To Crush Any Technical Interview 🔥⚡](https://dev.to/arjuncodess/12-resources-to-crush-any-technical-interview-30fe)
-- [Seeking Insights on Serverless Application Development](https://dev.to/iamspathan/seeking-insights-on-serverless-application-development-40ec)
-- [18 JavaScript Tips : You Should Know for Clean and Efficient Code](https://dev.to/devshefali/18-javascript-tips-you-should-know-for-clean-and-efficient-code-1bk3)
-- [Essential steps to consider before Deploying your Website - A Comprehensive Guide](https://dev.to/prathameshhw/essential-steps-to-consider-before-deploying-your-website-a-comprehensive-guide-440k)
+- [Walles.AI&#39;s Heatwave: Igniting Professional Articles, Sizzling PDF Chats, and More!](https://dev.to/geekyqee/wallesais-heatwave-igniting-professional-articles-sizzling-pdf-chats-and-more-4occ)
+- [Walles.AI for Business: How Can Leverage the Chrome Extension for Improved Communication](https://dev.to/geekyqee/wallesai-for-business-how-can-leverage-the-chrome-extension-for-improved-communication-ca6)
+- [Ethical Considerations with ChatGPT: Addressing Bias and Controversies](https://dev.to/geekyqee/ethical-considerations-with-chatgpt-addressing-bias-and-controversies-804)
+- [tsParticles 3.1.0 Released](https://dev.to/tsparticles/tsparticles-310-released-38m2)
 <!-- BLOG-POST-LIST:END -->
 
