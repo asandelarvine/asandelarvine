@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Utilizando o CustomPaint para criar assinatura.](https://dev.to/luisgustavoo/utilizando-o-custompaint-para-criar-assinatura-de-nome-2mii)
+- [Making Web Component properties behave closer to the platform](https://dev.to/tbroyer/making-web-component-properties-behave-closer-to-the-platform-c1n)
 - [Noob learns Asynchronous Rust.](https://dev.to/kinxyo/noob-learns-asynchronous-rust-2452)
-- [Advocating for Yourself: Empowering Your Career](https://dev.to/akinmyde/advocating-for-yourself-empowering-your-career-34j9)
-- [PM2 Cheatsheet](https://dev.to/hashcode01/pm2-cheatsheet-3fb0)
-- [Mastering CSS Custom Properties: The Senior Developer&#39;s Approach to CSS Custom Properties.](https://dev.to/dunia/mastering-css-custom-properties-the-senior-developers-approach-to-css-custom-properties-4088)
+- [Understanding AWS Instance Metadata Service: A Closer Look](https://dev.to/aws-builders/understanding-aws-instance-metadata-service-a-closer-look-69h)
 <!-- BLOG-POST-LIST:END -->
 
