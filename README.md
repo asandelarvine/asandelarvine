@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips to avoid legacy growth in your large scale web system &lpar;for frontend&rpar;](https://dev.to/leonardorafael/tips-to-avoid-legacy-growth-in-your-large-scale-web-system-for-frontend-1d5h)
+- [Web frameworks📊: Your 🐍Python Picks](https://dev.to/taipy/web-frameworks-your-python-picks-3a46)
 - [Should Sensitive Systems Be Open Source ?](https://dev.to/usamaa/should-sensitive-systems-be-open-source--4j56)
 - [Implementing an E-Commerce &quot;Add to Cart&quot; Feature in React: A Step-by-Step Guide](https://dev.to/rohitashsingh89/implementing-an-e-commerce-add-to-cart-feature-in-react-a-step-by-step-guide-3d5a)
-- [Deploying React apps to production on AWS ☁️](https://dev.to/artur_ceschin/deploying-react-apps-to-production-on-aws-2hn)
-- [AWS open source newsletter, #185](https://dev.to/aws/aws-open-source-newsletter-185-8ab)
 <!-- BLOG-POST-LIST:END -->
 
