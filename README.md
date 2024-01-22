@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you need to code a portfolio in this digital world? 🚀](https://dev.to/anmolbaranwal/do-you-need-to-code-a-portfolio-in-this-digital-world-5ge1)
+- [Mastering Small Talk Online: How Walles.AI Helps You Strike Up Engaging Conversations](https://dev.to/geekyqee/mastering-small-talk-online-how-wallesai-helps-you-strike-up-engaging-conversations-4aom)
 - [Walles.AI&#39;s Heatwave: Igniting Professional Articles, Sizzling PDF Chats, and More!](https://dev.to/geekyqee/wallesais-heatwave-igniting-professional-articles-sizzling-pdf-chats-and-more-4occ)
 - [Walles.AI for Business: How Can Leverage the Chrome Extension for Improved Communication](https://dev.to/geekyqee/wallesai-for-business-how-can-leverage-the-chrome-extension-for-improved-communication-ca6)
-- [Ethical Considerations with ChatGPT: Addressing Bias and Controversies](https://dev.to/geekyqee/ethical-considerations-with-chatgpt-addressing-bias-and-controversies-804)
-- [tsParticles 3.1.0 Released](https://dev.to/tsparticles/tsparticles-310-released-38m2)
 <!-- BLOG-POST-LIST:END -->
 
