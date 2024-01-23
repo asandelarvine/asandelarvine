@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SOLID para desenvolvedores iniciantes.](https://dev.to/klleriston/solid-para-desenvolvedores-iniciantes-3m04)
 - [Deploy Next.js to Contabo VPS](https://dev.to/igorfilippov3/deploy-nextjs-to-contabo-vps-56f7)
 - [Top Material Design 3 web frameworks of 2024](https://dev.to/leonardorafael/best-material-design-3-web-frameworks-of-2024-3k45)
 - [Introducing the Major GPA Wizard!](https://dev.to/vitalipri/introducing-the-major-gpa-wizard-b9c)
-- [The Art of Image Processing: Mastering the Ultimate Techniques for Image Element Segmentation](https://dev.to/happyer/the-art-of-image-processing-mastering-the-ultimate-techniques-for-image-element-segmentation-id1)
 <!-- BLOG-POST-LIST:END -->
 
