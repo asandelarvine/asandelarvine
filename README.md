@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Image Processing: Mastering the Ultimate Techniques for Image Element Segmentation](https://dev.to/happyer/the-art-of-image-processing-mastering-the-ultimate-techniques-for-image-element-segmentation-id1)
+- [Uploading file in chunks from React to Node-Express](https://dev.to/vvkkumar06/uploading-file-in-chunks-from-react-to-node-express-3plf)
 - [Six Costly Findings in AWS Serverless Computing](https://dev.to/miguelacallesmba/seven-costly-findings-in-aws-serverless-computing-46h7)
 - [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://dev.to/opensauced/the-native-browser-dialog-element-1nhn)
-- [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://dev.to/codenameone/building-gdocweb-with-java-21-spring-boot-3x-and-beyond-276k)
-- [typeof in C23](https://dev.to/pauljlucas/typeof-in-c23-55p2)
 <!-- BLOG-POST-LIST:END -->
 
