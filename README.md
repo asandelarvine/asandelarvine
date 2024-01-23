@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Data Types](https://dev.to/francescoxx/rust-data-types-1mlg)
+- [📝 Writing a professional resume: Ultimate guide](https://dev.to/mainarthur/writing-a-professional-resume-ultimate-guide-kj8)
+- [Navigating the Future: The Crucial Role of Cloud Computing in DevOps](https://dev.to/sushantjadhav416/navigating-the-future-the-crucial-role-of-cloud-computing-in-devops-ce5)
 - [Best free, open-source SaaS starters for React &amp; NextJS 2024](https://dev.to/vincanger/best-free-open-source-saas-starters-for-react-nextjs-2024-4nbn)
-- [Introducing RunsOn: 10x cheaper GitHub Action runners](https://dev.to/runs-on/introducing-runson-10x-cheaper-github-action-runners-51dl)
-- [All the metatags you might need for SEO in one React component.](https://dev.to/seven/all-the-metatags-you-might-need-for-seo-in-one-react-component-146c)
-- [New client-side hooks coming to React 19](https://dev.to/fzaninotto/new-client-side-hooks-coming-to-react-19-5098)
 <!-- BLOG-POST-LIST:END -->
 
