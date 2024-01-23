@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Look for in a Code Review: 24 Points Checklist](https://dev.to/ananddas/what-to-look-for-in-a-code-review-24-points-checklist-npf)
-- [Engineering Ladder - Being in The Middle Sucks?](https://dev.to/productive/engineering-ladder-being-in-the-middle-sucks-2ei9)
-- [Enhancing Python GUIs with Augmented Markdown](https://dev.to/taipy/enhancing-python-guis-with-augmented-markdown-477g)
-- [How To Add Controllers To A Blazor Server App](https://dev.to/this-is-learning/how-to-add-controllers-to-a-blazor-server-app-a9)
+- [Delving into the Depths of React.js Ecosystem: Next.js 14 and Emerging Open Source Projects](https://dev.to/ricardogesteves/delving-into-the-depths-of-reactjs-ecosystem-nextjs-14-and-emerging-open-source-projects-4jga)
+- [10 Web Dev Tips to Stay on the Wave in 2024](https://dev.to/nikpoltoratsky/10-web-dev-tips-to-stay-on-the-wave-in-2024-45la)
+- [Don&#39;t sleep on native lazy loading iframes - now available in a browser near you](https://dev.to/robole/dont-sleep-on-native-lazy-loading-iframes-now-available-in-a-browser-near-you-k0)
+- [What Is CSRF? How Can We Prevent CSRF?](https://dev.to/apisix/what-is-csrf-how-can-we-prevent-csrf-ac)
 <!-- BLOG-POST-LIST:END -->
 
