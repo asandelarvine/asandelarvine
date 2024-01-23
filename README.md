@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [These Projects Give You An Unfair Advantage 🌟⚡](https://dev.to/arjuncodess/these-projects-give-you-an-unfair-advantage-3ghh)
 - [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
 - [S3 Lifecycle Rules and S3 Analytics](https://dev.to/farrukhkhalid/s3-lifecycle-rules-with-s3-analytics-3o3b)
 - [How Crucial Code Are Reviews?](https://dev.to/devteam/how-crucial-code-are-reviews-43nk)
+- [Embarking on a Flutter CustomPaint adventure: Part 1; Unveiling the Canvas with Custom Paint Basics 🎨](https://dev.to/gabbygreat/embarking-on-a-flutter-custompaint-adventure-part-1-unveiling-the-canvas-with-custom-paint-basics-356b)
 <!-- BLOG-POST-LIST:END -->
 
