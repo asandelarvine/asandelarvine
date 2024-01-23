@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [To Adopt or Not to Adopt? Assessing New Tech in a Quickly Moving Field](https://dev.to/kathryngrayson/to-adopt-or-not-to-adopt-assessing-new-tech-in-a-quickly-moving-field-33j9)
+- [How Lambda starts containers 15x faster &lpar;deep dive&rpar;](https://dev.to/aws-heroes/how-lambda-starts-containers-15x-faster-deep-dive-5077)
 - [Exploring Redux Toolkit 2.0 and the Redux second generation](https://dev.to/logrocket/exploring-redux-toolkit-20-and-the-redux-second-generation-59cj)
 - [SOLID para desenvolvedores iniciantes.](https://dev.to/klleriston/solid-para-desenvolvedores-iniciantes-3m04)
-- [Deploy Next.js to Contabo VPS](https://dev.to/igorfilippov3/deploy-nextjs-to-contabo-vps-56f7)
-- [Top Material Design 3 web frameworks of 2024](https://dev.to/leonardorafael/best-material-design-3-web-frameworks-of-2024-3k45)
 <!-- BLOG-POST-LIST:END -->
 
