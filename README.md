@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best free, open-source SaaS starters for React &amp; NextJS 2024](https://dev.to/vincanger/best-free-open-source-saas-starters-for-react-nextjs-2024-4nbn)
+- [Introducing RunsOn: 10x cheaper GitHub Action runners](https://dev.to/runs-on/introducing-runson-10x-cheaper-github-action-runners-51dl)
 - [All the metatags you might need for SEO in one React component.](https://dev.to/seven/all-the-metatags-you-might-need-for-seo-in-one-react-component-146c)
 - [New client-side hooks coming to React 19](https://dev.to/fzaninotto/new-client-side-hooks-coming-to-react-19-5098)
-- [3 Principles for Component-Driven Development](https://dev.to/bitdev_/3-principles-for-component-driven-development-13hc)
-- [A Summary of My Activities in the 5 Years Since Discovering AWS Amplify](https://dev.to/aws-heroes/a-summary-of-my-activities-in-the-5-years-since-discovering-aws-amplify-2be5)
 <!-- BLOG-POST-LIST:END -->
 
