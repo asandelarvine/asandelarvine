@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Docker Images: A Comprehensive Guide to Integrating Docker Scout in GitHub Workflow](https://dev.to/pradumnasaraf/securing-docker-images-a-comprehensive-guide-to-integrating-docker-scout-in-github-workflow-2nbk)
-- [Best Practices for Optimizing Performance in Cloud Application Environments](https://dev.to/hyscaler/best-practices-for-optimizing-performance-in-cloud-application-environments-34fc)
-- [Accessibility](https://dev.to/haribhandari/accessibility-3no4)
-- [React: Build your own composable, headless components](https://dev.to/haribhandari/react-build-your-own-composable-headless-components-170b)
+- [What to Look for in a Code Review: 24 Points Checklist](https://dev.to/ananddas/what-to-look-for-in-a-code-review-24-points-checklist-npf)
+- [Engineering Ladder - Being in The Middle Sucks?](https://dev.to/productive/engineering-ladder-being-in-the-middle-sucks-2ei9)
+- [Enhancing Python GUIs with Augmented Markdown](https://dev.to/taipy/enhancing-python-guis-with-augmented-markdown-477g)
+- [How To Add Controllers To A Blazor Server App](https://dev.to/this-is-learning/how-to-add-controllers-to-a-blazor-server-app-a9)
 <!-- BLOG-POST-LIST:END -->
 
