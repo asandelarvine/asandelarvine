@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My portfolio website](https://dev.to/sintayew4/my-portfolio-website-43l3)
+- [Cloud Deployment Anomalies that send us down rabbit holes](https://dev.to/rsiv/cloud-deployment-anomalies-that-send-us-down-rabbit-holes-16b8)
+- [Meteor is getting new docs!](https://dev.to/meteor/meteor-is-getting-new-docs-h6g)
 - [Desplegar imagen docker usando AWS CodeBuild.](https://dev.to/kcatucuamba/desplegar-imagen-docker-usando-aws-codebuild-2jgh)
-- [28 Years Strong: Java&#39;s Journey](https://dev.to/shanu-kumawat/28-years-strong-javas-journey-41e7)
-- [How to see Who-Is-Online at your page with JavaScript](https://dev.to/superviz/how-to-see-who-is-online-at-your-page-with-javascript-9mj)
-- [Introduction to Jsonnet: The YAML/JSON templating language](https://dev.to/kubeden/introduction-to-jsonnet-the-yamljson-templating-language-n5g)
 <!-- BLOG-POST-LIST:END -->
 
