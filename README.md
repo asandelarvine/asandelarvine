@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Aren’t we all self-taught!?](https://dev.to/citycoderus/arent-we-all-self-taught-jh)
 - [Open Source Project Ideas](https://dev.to/adiatiayu/open-source-project-ideas-4n3b)
 - [Navigating CSE Success: Learning, Contributing, Balancing Priorities](https://dev.to/jps27cse/navigating-cse-success-learning-contributing-balancing-priorities-pf3)
 - [NextJS examples: 60 popular websites built with NextJS and headless CMS](https://dev.to/momciloo/nextjs-examples-60-popular-websites-built-with-nextjs-and-headless-cms-co5)
-- [🤯 How to Build the 𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲𝘀 with Next.js &amp; OpenAI 🪄✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
 <!-- BLOG-POST-LIST:END -->
 
