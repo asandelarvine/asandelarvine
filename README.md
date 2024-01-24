@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World in Go](https://dev.to/romulogatto/hello-world-in-go-1alh)
-- [Implement private properties in a JavaScript class](https://dev.to/phuocng/implement-private-properties-in-a-javascript-class-3pp4)
-- [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
-- [How to create a POST api With Mongo DB and Node JS](https://dev.to/rshrmcse/how-to-create-a-post-api-with-mongo-db-and-node-js-2473)
+- [Open Source Project Ideas](https://dev.to/adiatiayu/open-source-project-ideas-4n3b)
+- [Navigating CSE Success: Learning, Contributing, Balancing Priorities](https://dev.to/jps27cse/navigating-cse-success-learning-contributing-balancing-priorities-pf3)
+- [NextJS examples: 60 popular websites built with NextJS and headless CMS](https://dev.to/momciloo/nextjs-examples-60-popular-websites-built-with-nextjs-and-headless-cms-co5)
+- [🤯 How to Build the 𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲𝘀 with Next.js &amp; OpenAI 🪄✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
 <!-- BLOG-POST-LIST:END -->
 
