@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge your app with user extensions using Deno JavaScript runtime](https://dev.to/azasypkin/supercharge-your-app-with-user-extensions-using-deno-runtime-5hck)
+- [5 UI component libraries to build custom apps in 2024](https://dev.to/shnai0/5-ui-component-libraries-to-build-custom-apps-in-2024-4mph)
 - [Computer vision at the edge with Nvidia Jetson in 2 commands](https://dev.to/miguelaeh/computer-vision-at-the-edge-with-nvidia-jetson-in-2-commands-1kg5)
 - [ChatGPT vs Gemini: The AI Showdown You Didn&#39;t Know](https://dev.to/dhruvjoshi9/chatgpt-vs-gemini-the-ai-showdown-you-didnt-know-1o14)
-- [Components of Reactivity](https://dev.to/ninjin/components-of-reactivity-4f0a)
-- [Подсветка кода при наличии символов из русской и английской кодировки в VS Code.](https://dev.to/mariannakhanina/podsvietka-koda-pri-nalichii-simvolov-iz-russkoi-i-anghliiskoi-kodirovki-v-vs-code-2ld9)
 <!-- BLOG-POST-LIST:END -->
 
