@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to dualboot Hyprland with Gnome Desktops on Linux](https://dev.to/renhiyama/how-to-dualboot-hyprland-with-gnome-desktops-on-linux-1pa4)
+- [Exploring the Charm of Ghent: A Journey Through Picturesque Delights](https://dev.to/anuradhakumari/exploring-the-charm-of-ghent-a-journey-through-picturesque-delights-mi4)
 - [How Much Is One Terabyte of Data?](https://dev.to/esproc_spl/how-much-is-one-terabyte-of-data-4h85)
 - [The Programmer&#39;s Brain: How it works and how to make it work](https://dev.to/buzzpy/the-programmers-brain-how-it-works-and-how-to-make-it-work-glo)
-- [Keeping ServiceNow Updated with Automated AWS Discovery](https://dev.to/aws-builders/keeping-servicenow-updated-with-automated-aws-discovery-3p08)
-- [UX is becoming less important in the age of AI?](https://dev.to/mrgoonie/ux-is-becoming-less-important-in-the-age-of-ai-41n)
 <!-- BLOG-POST-LIST:END -->
 
