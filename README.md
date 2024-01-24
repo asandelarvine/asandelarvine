@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source Framework that understands Your Application Infrastructure Needs](https://dev.to/rsiv/open-source-framework-that-understands-your-application-infrastructure-needs-1kjj)
 - [My portfolio website](https://dev.to/sintayew4/my-portfolio-website-43l3)
+- [Apache Kafka :](https://dev.to/rajubora/apache-kafka--1khg)
 - [Cloud Deployment Anomalies that send us down rabbit holes](https://dev.to/rsiv/cloud-deployment-anomalies-that-send-us-down-rabbit-holes-16b8)
-- [Meteor is getting new docs!](https://dev.to/meteor/meteor-is-getting-new-docs-h6g)
-- [Desplegar imagen docker usando AWS CodeBuild.](https://dev.to/kcatucuamba/desplegar-imagen-docker-usando-aws-codebuild-2jgh)
 <!-- BLOG-POST-LIST:END -->
 
