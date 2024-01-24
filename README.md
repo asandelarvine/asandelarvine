@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Redeemer | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-46c5)
+- [Nightmare DX &lpar;Developer Experience&rpar;: HubSpot](https://dev.to/starbist/nightmare-dx-developer-experience-hubspot-5el8)
 - [Best Practices for Effective Software Testing in Agile Development](https://dev.to/talenttinaapi/best-practices-for-effective-software-testing-in-agile-development-i7n)
-- [A Beginner’s Guide to JavaScript Fundamentals](https://dev.to/sikirumomodu/a-beginners-guide-to-javascript-fundamentals-2gmh)
-- [The classless and class-light CSS aproaches](https://dev.to/leonardorafael/the-classless-and-class-light-css-aproaches-2b98)
-- [How to create serverless applications with AWS SAM &lpar;Serverless Application Model&rpar;](https://dev.to/aws-builders/how-to-create-serverless-applications-with-aws-sam-serverless-application-model-3nk3)
+- [Revisiting the HTML Problem Space and Introducing OOHTML](https://dev.to/oxharris/revisiting-the-html-problem-space-and-introducing-oohtml-3oh5)
 <!-- BLOG-POST-LIST:END -->
 
