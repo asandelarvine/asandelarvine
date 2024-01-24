@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Effective Software Testing in Agile Development](https://dev.to/talenttinaapi/best-practices-for-effective-software-testing-in-agile-development-i7n)
+- [A Beginner’s Guide to JavaScript Fundamentals](https://dev.to/sikirumomodu/a-beginners-guide-to-javascript-fundamentals-2gmh)
 - [The classless and class-light CSS aproaches](https://dev.to/leonardorafael/the-classless-and-class-light-css-aproaches-2b98)
-- [[20 Days of DynamoDB] Day 12 - Using the DynamoDB expression package to build Projection expressions](https://dev.to/aws/20-days-of-dynamodb-day-12-using-the-dynamodb-expression-package-to-build-projection-expressions-5ef1)
-- [👨‍💻 Daily Code 48 | Random Number 1-100, 🐍 Python and 🟨 JavaScript &lpar;3&rpar;](https://dev.to/gregor_schafroth/daily-code-48-random-number-1-100-python-and-javascript-3-2oik)
-- [Supercharge your app with user extensions using Deno JavaScript runtime](https://dev.to/azasypkin/supercharge-your-app-with-user-extensions-using-deno-runtime-5hck)
+- [How to create serverless applications with AWS SAM &lpar;Serverless Application Model&rpar;](https://dev.to/aws-builders/how-to-create-serverless-applications-with-aws-sam-serverless-application-model-3nk3)
 <!-- BLOG-POST-LIST:END -->
 
