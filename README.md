@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK For Noobs: Deploying NextJS Apps](https://dev.to/aws-builders/aws-cdk-for-noobs-deploying-nextjs-apps-4oii)
-- [🗃️ Building a Pocket Database with Telegra.ph — create your database in just a single function! 😱](https://dev.to/creuserr/building-a-pocket-database-with-telegraph-1pop)
-- [How to dualboot Hyprland with Gnome Desktops on Linux](https://dev.to/renhiyama/how-to-dualboot-hyprland-with-gnome-desktops-on-linux-1pa4)
-- [Exploring the Charm of Ghent: A Journey Through Picturesque Delights](https://dev.to/anuradhakumari/exploring-the-charm-of-ghent-a-journey-through-picturesque-delights-mi4)
+- [Computer vision at the edge with Nvidia Jetson in 2 commands](https://dev.to/miguelaeh/computer-vision-at-the-edge-with-nvidia-jetson-in-2-commands-1kg5)
+- [ChatGPT vs Gemini: The AI Showdown You Didn&#39;t Know](https://dev.to/dhruvjoshi9/chatgpt-vs-gemini-the-ai-showdown-you-didnt-know-1o14)
+- [Components of Reactivity](https://dev.to/ninjin/components-of-reactivity-4f0a)
+- [Подсветка кода при наличии символов из русской и английской кодировки в VS Code.](https://dev.to/mariannakhanina/podsvietka-koda-pri-nalichii-simvolov-iz-russkoi-i-anghliiskoi-kodirovki-v-vs-code-2ld9)
 <!-- BLOG-POST-LIST:END -->
 
