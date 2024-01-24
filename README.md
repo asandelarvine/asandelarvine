@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redeemer | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-46c5)
-- [Nightmare DX &lpar;Developer Experience&rpar;: HubSpot](https://dev.to/starbist/nightmare-dx-developer-experience-hubspot-5el8)
-- [Best Practices for Effective Software Testing in Agile Development](https://dev.to/talenttinaapi/best-practices-for-effective-software-testing-in-agile-development-i7n)
-- [Revisiting the HTML Problem Space and Introducing OOHTML](https://dev.to/oxharris/revisiting-the-html-problem-space-and-introducing-oohtml-3oh5)
+- [Hello World in Go](https://dev.to/romulogatto/hello-world-in-go-1alh)
+- [Implement private properties in a JavaScript class](https://dev.to/phuocng/implement-private-properties-in-a-javascript-class-3pp4)
+- [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
+- [How to create a POST api With Mongo DB and Node JS](https://dev.to/rshrmcse/how-to-create-a-post-api-with-mongo-db-and-node-js-2473)
 <!-- BLOG-POST-LIST:END -->
 
