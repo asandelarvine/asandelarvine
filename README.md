@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing AdonisJS v6](https://dev.to/adonisframework/announcing-adonisjs-v6-ac0)
+- [AdonisJS V6 is Out, and it&#39;s a Developer&#39;s Dream](https://dev.to/aarvinr/adonisjs-v6-is-out-and-its-a-developers-dream-1n7h)
+- [Transform your R Dataframes: Styles, 🎨 Colors, and 😎 Emojis](https://dev.to/r0mymendez/transform-your-r-dataframes-styles-colors-and-emojis-bd5)
 - [Open-Source Framework that understands Your Application Infrastructure Needs](https://dev.to/rsiv/open-source-framework-that-understands-your-application-infrastructure-needs-1kjj)
-- [My portfolio website](https://dev.to/sintayew4/my-portfolio-website-43l3)
-- [Apache Kafka :](https://dev.to/rajubora/apache-kafka--1khg)
-- [Cloud Deployment Anomalies that send us down rabbit holes](https://dev.to/rsiv/cloud-deployment-anomalies-that-send-us-down-rabbit-holes-16b8)
 <!-- BLOG-POST-LIST:END -->
 
