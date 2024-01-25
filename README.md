@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [VfyJs Package](https://dev.to/m__mdy__m/vfyjs-package-2li0)
+- [How to Stream Video from Raspberry Pi Camera to Computer](https://dev.to/shilleh/how-to-stream-video-from-raspberry-pi-camera-to-computer-198n)
 - [10 VSCode Shortcuts That Will Make Your Life Easier As A Programmer](https://dev.to/arjuncodess/10-vscode-shortcuts-that-will-make-your-life-easier-as-a-programmer-3fl6)
 - [How Do You Measure Software Impact?](https://dev.to/devteam/how-do-you-measure-software-impact-fb4)
-- [Started empirically experimenting for finding the best training hyper parameters for Stable Diffusion 1.5 based models](https://dev.to/furkangozukara/started-empirically-experimenting-for-finding-the-best-training-hyper-parameters-for-stable-diffusion-15-based-models-58h)
-- [Using textures from /sys/pics/textures](https://dev.to/joestrout/using-textures-from-syspicstextures-478m)
 <!-- BLOG-POST-LIST:END -->
 
