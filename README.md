@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [feat: Deploy To Cloud - Livecycle Docker Extension](https://dev.to/livecycle/feat-deploy-to-cloud-livecycle-docker-extension-3c88)
-- [Deploy a WebAssembly-powered Next.js app on Vercel serverless functions](https://dev.to/mfts/deploy-a-webassembly-powered-nextjs-app-on-vercel-serverless-functions-20b0)
-- [Guide to Setting Up Prettier, Airbnb ESLint, and Husky for Your Next Project](https://dev.to/emmanuelo/guide-to-setting-up-prettier-airbnb-eslint-and-husky-for-your-next-project-17ge)
-- [Using the Logger Class in Python for Effective Logging](https://dev.to/luca1iu/using-the-logger-class-in-python-for-effective-logging-4ghc)
+- [The &lpar;Virtual&rpar; Secure Developer Laptop](https://dev.to/loransha256/the-virtual-secure-developer-laptop-2ggk)
+- [AWS Client VPN Implementation for Private Networks](https://dev.to/aws-builders/aws-client-vpn-implementation-for-private-networks-16oe)
+- [The Trusted Liquid Workforce](https://dev.to/loransha256/the-trusted-liquid-workforce-3719)
+- [Don&#39;t nest ternary operators. Please!](https://dev.to/accreditly/dont-nest-ternary-operators-please-1g08)
 <!-- BLOG-POST-LIST:END -->
 
