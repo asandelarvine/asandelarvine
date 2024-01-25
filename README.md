@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: Any advice for overcoming a fear of public speaking?](https://dev.to/devteam/sloans-inbox-any-advice-for-overcoming-a-fear-of-public-speaking-1261)
-- [&quot;Web3 Odyssey: Adventures in the Era of Decentralization and Blockchain&quot;](https://dev.to/klimd1389/web3-odyssey-adventures-in-the-era-of-decentralization-and-blockchain-29mn)
-- [F&#39;*!# Passwords. Get Passkeys! Corbado is Now Live on Product Hunt 🚀](https://dev.to/corbado_tech/f-passwords-get-passkeys-corbado-is-now-live-on-product-hunt-2dm)
-- [Inlang / ParaglideJS blew my mind 🤯](https://dev.to/robertosnap/inlang-paraglidejs-blew-my-mind-3984)
+- [Secure Cloud Development: Ten Tenets for Enterprise Data Security](https://dev.to/loransha256/secure-cloud-development-ten-tenets-for-enterprise-data-security-4661)
+- [Enhancing Shopify Functionality with the Ultimate API-Integrated Contact Form Plugin](https://dev.to/cftoanyapi/enhancing-shopify-functionality-with-the-ultimate-api-integrated-contact-form-plugin-2419)
+- [Software Translation](https://dev.to/elapricot/software-translation-30j2)
+- [Software Development Outsourcing: Operational Efficiency with Secure CDEs](https://dev.to/loransha256/software-development-outsourcing-operational-efficiency-with-secure-cdes-58b3)
 <!-- BLOG-POST-LIST:END -->
 
