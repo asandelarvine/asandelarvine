@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#100DaysOfCode Redux + Week 1 Review](https://dev.to/devencourt/my-100daysofcode-challenge-redux-4k6j)
-- [A day in the life of a developer - Building a dashboard app with SQL, Node.js, Django and Next.js](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7)
-- [Stoic Driven Development](https://dev.to/michi/stoic-driven-development-2iaf)
-- [Elixir clustering using Postgres](https://dev.to/supabase/elixir-clustering-using-postgres-3e86)
+- [Top 15 Free &amp; Premium Flutter Templates in January 2024](https://dev.to/pablonax/top-15-free-premium-flutter-templates-in-january-2024-752)
+- [Step-by-Step Guide to Setting Up Your First AWS EC2 Instance](https://dev.to/ankur0904/step-by-step-guide-to-setting-up-your-first-aws-ec2-instance-1ph5)
+- [Mastering JavaScript: Essential Concepts and Best Practices for Developers](https://dev.to/srinureddy/mastering-javascript-essential-concepts-and-best-practices-for-developers-545f)
+- [Jsonnet Adventures: Functions, Conditionals, and Advanced Templates](https://dev.to/kubeden/jsonnet-adventures-functions-conditionals-and-advanced-templates-4cd3)
 <!-- BLOG-POST-LIST:END -->
 
