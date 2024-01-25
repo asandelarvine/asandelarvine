@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Vector Database?](https://dev.to/qdrant/what-is-a-vector-database-2h0b)
-- [Comprehensive set of Flutter resources:](https://dev.to/pablonax/comprehensive-set-of-flutter-resources-17g0)
-- [Difference Between Local Storage And Session Storage and cookies in the browser](https://dev.to/pinky057/difference-between-local-storage-and-session-storage-and-cookies-in-the-browser-15oa)
-- [Programming in the 21st Century - Object-Oriented vs. Functional](https://dev.to/aarvinr/programming-in-the-21st-century-object-oriented-vs-functional-12e4)
+- [Navigating the 2024 Web Development Roadmap: A Comprehensive Guide](https://dev.to/ricardogesteves/navigating-the-2024-web-development-roadmap-a-comprehensive-guide-4402)
+- [Next.js and GPT-4: A Guide to Streaming Generated Content as UI Components](https://dev.to/lgrammel/nextjs-and-gpt-4-a-guide-to-streaming-generated-content-as-ui-components-87n)
+- [Integrating ChatGPT into My Whatsapp &lpar;with a Custom Knowledge Base&rpar;](https://dev.to/sojinsamuel/integrating-chatgpt-into-my-whatsapp-with-a-custom-knowledge-base-2pl2)
+- [Discussion of the Week: &quot;What is the ideal Tech stack to build a website in 2024?&quot;](https://dev.to/devteam/discussion-of-the-week-what-is-the-ideal-tech-stack-to-build-a-website-in-2024-2ja0)
 <!-- BLOG-POST-LIST:END -->
 
