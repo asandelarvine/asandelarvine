@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing AdonisJS v6](https://dev.to/adonisframework/announcing-adonisjs-v6-ac0)
-- [AdonisJS V6 is Out, and it&#39;s a Developer&#39;s Dream](https://dev.to/aarvinr/adonisjs-v6-is-out-and-its-a-developers-dream-1n7h)
-- [Transform your R Dataframes: Styles, 🎨 Colors, and 😎 Emojis](https://dev.to/r0mymendez/transform-your-r-dataframes-styles-colors-and-emojis-bd5)
-- [Open-Source Framework that understands Your Application Infrastructure Needs](https://dev.to/rsiv/open-source-framework-that-understands-your-application-infrastructure-needs-1kjj)
+- [10 VSCode Shortcuts That Will Make Your Life Easier As A Programmer](https://dev.to/arjuncodess/10-vscode-shortcuts-that-will-make-your-life-easier-as-a-programmer-3fl6)
+- [How Do You Measure Software Impact?](https://dev.to/devteam/how-do-you-measure-software-impact-fb4)
+- [Started empirically experimenting for finding the best training hyper parameters for Stable Diffusion 1.5 based models](https://dev.to/furkangozukara/started-empirically-experimenting-for-finding-the-best-training-hyper-parameters-for-stable-diffusion-15-based-models-58h)
+- [Using textures from /sys/pics/textures](https://dev.to/joestrout/using-textures-from-syspicstextures-478m)
 <!-- BLOG-POST-LIST:END -->
 
