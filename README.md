@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#100DaysOfCode Redux + Week 1 Review](https://dev.to/devencourt/my-100daysofcode-challenge-redux-4k6j)
+- [A day in the life of a developer - Building a dashboard app with SQL, Node.js, Django and Next.js](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7)
 - [Stoic Driven Development](https://dev.to/michi/stoic-driven-development-2iaf)
 - [Elixir clustering using Postgres](https://dev.to/supabase/elixir-clustering-using-postgres-3e86)
-- [The &lpar;Virtual&rpar; Secure Developer Laptop](https://dev.to/loransha256/the-virtual-secure-developer-laptop-2ggk)
-- [Remotely Accessing a Virtual Machine: Port Forwarding](https://dev.to/chigozieco/remotely-accessing-a-virtual-machine-port-forwarding-5955)
 <!-- BLOG-POST-LIST:END -->
 
