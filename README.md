@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Vector Database?](https://dev.to/qdrant/what-is-a-vector-database-2h0b)
 - [Comprehensive set of Flutter resources:](https://dev.to/pablonax/comprehensive-set-of-flutter-resources-17g0)
+- [Difference Between Local Storage And Session Storage and cookies in the browser](https://dev.to/pinky057/difference-between-local-storage-and-session-storage-and-cookies-in-the-browser-15oa)
 - [Programming in the 21st Century - Object-Oriented vs. Functional](https://dev.to/aarvinr/programming-in-the-21st-century-object-oriented-vs-functional-12e4)
-- [A Step-by-Step Guide to Deploying a Machine Learning Model in a Docker Container](https://dev.to/cyber_holics/a-step-by-step-guide-to-deploying-a-machine-learning-model-in-a-docker-container-nkp)
-- [Art of Headless CMS: 🚀 Build a next-gen product 🤯 with 20+ resources 🎁](https://dev.to/anmolbaranwal/art-of-headless-cms-build-a-next-gen-product-with-20-resources-1bpp)
 <!-- BLOG-POST-LIST:END -->
 
