@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [feat: Deploy To Cloud - Livecycle Docker Extension](https://dev.to/livecycle/feat-deploy-to-cloud-livecycle-docker-extension-3c88)
+- [Deploy a WebAssembly-powered Next.js app on Vercel serverless functions](https://dev.to/mfts/deploy-a-webassembly-powered-nextjs-app-on-vercel-serverless-functions-20b0)
+- [Guide to Setting Up Prettier, Airbnb ESLint, and Husky for Your Next Project](https://dev.to/emmanuelo/guide-to-setting-up-prettier-airbnb-eslint-and-husky-for-your-next-project-17ge)
 - [Using the Logger Class in Python for Effective Logging](https://dev.to/luca1iu/using-the-logger-class-in-python-for-effective-logging-4ghc)
-- [The Need for Secure Cloud Development Environments](https://dev.to/loransha256/the-need-for-secure-cloud-development-environments-105g)
-- [Git, Git &#39;heads&#39; and branch management](https://dev.to/sumisastri/git-git-heads-and-branch-management-2agh)
-- [Fail interview? 😭😕 Strategy for fix mistakes 📈](https://dev.to/corners2wall/fail-interview-strategy-for-fix-mistakes-2fag)
 <!-- BLOG-POST-LIST:END -->
 
