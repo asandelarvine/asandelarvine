@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stoic Driven Development](https://dev.to/michi/stoic-driven-development-2iaf)
+- [Elixir clustering using Postgres](https://dev.to/supabase/elixir-clustering-using-postgres-3e86)
 - [The &lpar;Virtual&rpar; Secure Developer Laptop](https://dev.to/loransha256/the-virtual-secure-developer-laptop-2ggk)
-- [AWS Client VPN Implementation for Private Networks](https://dev.to/aws-builders/aws-client-vpn-implementation-for-private-networks-16oe)
-- [The Trusted Liquid Workforce](https://dev.to/loransha256/the-trusted-liquid-workforce-3719)
-- [Don&#39;t nest ternary operators. Please!](https://dev.to/accreditly/dont-nest-ternary-operators-please-1g08)
+- [Remotely Accessing a Virtual Machine: Port Forwarding](https://dev.to/chigozieco/remotely-accessing-a-virtual-machine-port-forwarding-5955)
 <!-- BLOG-POST-LIST:END -->
 
