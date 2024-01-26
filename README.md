@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [The Problem with System Design Interview Prep](https://dev.to/dezhango/the-problem-with-system-design-interview-prep-55me)
+- [Build a Slack Emoji Bot in 20 Lines of Code](https://dev.to/fermyon/build-a-slack-emoji-bot-in-20-lines-of-code-3m45)
 - [&quot;Programming Poetry: A Collection of Poems on the Art of Programming&quot;](https://dev.to/echoaditya/programming-poetry-a-collection-of-poems-on-the-art-of-programming-ng9)
 - [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
-- [React isn’t just JSX and a few hooks.](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
 <!-- BLOG-POST-LIST:END -->
 
