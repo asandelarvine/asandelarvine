@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Basics](https://dev.to/srinivasuluparanduru/fundaments-of-docker-lbd)
-- [ESP32 Embedded Rust at the HAL: I2C Scanner](https://dev.to/apollolabsbin/esp32-embedded-rust-at-the-hal-i2c-scanner-54mg)
-- [Styling and Dark Mode](https://dev.to/codenameone/styling-and-dark-mode-eh2)
-- [How to store and calculate historical big data with lower usage frequency!](https://dev.to/pavanbelagatti/how-to-store-and-calculate-historical-big-data-with-lower-usage-frequency-40md)
+- [Comprehensive Exploration of Flutter: A Detailed Guide](https://dev.to/happyer/comprehensive-exploration-of-flutter-a-detailed-guide-159f)
+- [Unlocking the Power of Caching in Laravel](https://dev.to/mazimez/unlocking-the-power-of-caching-in-laravel-1e9m)
+- [JSON Responder first stable release](https://dev.to/nabbisen/json-responderfirst-stable-release-48ec)
+- [How To Enhance AG Grid with Avatars: Building a Collaborative Grid with React and Ably](https://dev.to/ably/how-to-enhance-ag-grid-with-avatars-building-a-collaborative-grid-with-react-and-ably-1od7)
 <!-- BLOG-POST-LIST:END -->
 
