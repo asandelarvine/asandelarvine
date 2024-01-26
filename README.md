@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Salma Alam-Naylor&#39;s &quot;Entertainment as Code&quot;](https://dev.to/jarvisscript/salma-alam-naylors-entertainment-as-code-59d7)
-- [ELI5: Data Lake vs. Data Warehouse vs. Data Pond etc.](https://dev.to/peter/eli5-data-lake-vs-data-warehouse-vs-data-pond-etc-3b9e)
-- [Comprehensive Exploration of Flutter: A Detailed Guide](https://dev.to/happyer/comprehensive-exploration-of-flutter-a-detailed-guide-159f)
-- [Unlocking the Power of Caching in Laravel](https://dev.to/mazimez/unlocking-the-power-of-caching-in-laravel-1e9m)
+- [Multi-Cluster Prometheus: Scaling Metrics Across Kubernetes Clusters](https://dev.to/danquack/multi-cluster-prometheus-scaling-metrics-across-kubernetes-clusters-1eko)
+- [WebSockets and NodeJs: Real time chat app](https://dev.to/alakkadshaw/websockets-and-nodejs-real-time-chat-app-714)
+- [What is overengineering](https://dev.to/hasanelsherbiny/what-is-overengineering-6jm)
+- [eBPF, Service Mesh and Sidecar](https://dev.to/keploy/ebpf-service-mesh-and-sidecar-29ob)
 <!-- BLOG-POST-LIST:END -->
 
