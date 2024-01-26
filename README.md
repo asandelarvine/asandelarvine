@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Coding Superpowers: Meet Your Code Mates](https://dev.to/yogini16/unlock-coding-superpowers-meet-your-code-mates-4pk3)
 - [How to discover the newest and most useful AI tools?](https://dev.to/kexinliu11/how-to-discover-the-newest-and-most-useful-ai-tools-521l)
 - [7 tips to become a successful bug bounty hunter](https://dev.to/snyk/7-tips-to-become-a-successful-bug-bounty-hunter-529e)
 - [Understanding Distributed Workers in BuildKit](https://dev.to/ajeetraina/understanding-distributed-workers-in-buildkit-4hb3)
-- [Step-by-Step Guide: Installing Kubernetes Cluster on CentOS 8](https://dev.to/ajeetraina/step-by-step-guide-installing-kubernetes-cluster-on-centos-8-e1g)
 <!-- BLOG-POST-LIST:END -->
 
