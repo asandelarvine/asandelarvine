@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
+- [React isn’t just JSX and a few hooks.](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
 - [Multi-Cluster Prometheus: Scaling Metrics Across Kubernetes Clusters](https://dev.to/danquack/multi-cluster-prometheus-scaling-metrics-across-kubernetes-clusters-1eko)
 - [WebSockets and NodeJs: Real time chat app](https://dev.to/alakkadshaw/websockets-and-nodejs-real-time-chat-app-714)
-- [What is overengineering](https://dev.to/hasanelsherbiny/what-is-overengineering-6jm)
-- [eBPF, Service Mesh and Sidecar](https://dev.to/keploy/ebpf-service-mesh-and-sidecar-29ob)
 <!-- BLOG-POST-LIST:END -->
 
