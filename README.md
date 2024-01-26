@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [7 tips to become a successful bug bounty hunter](https://dev.to/snyk/7-tips-to-become-a-successful-bug-bounty-hunter-529e)
-- [Figma para começar bem](https://dev.to/aninhapardini/figma-para-comecar-bem-4db6)
 - [Simulating Internet Outage and Recovery using Cypress](https://dev.to/walmyrlimaesilv/simulating-internet-outage-and-recovery-using-cypress-5hjk)
 - [Solutions for Current Software Challenges?](https://dev.to/devteam/solutions-for-current-software-challenges-54gf)
+- [24 GitHub repos with 372M views that you can&#39;t miss out as a software engineer](https://dev.to/aajinkya/24-github-repos-with-372m-views-that-you-cant-miss-out-as-a-software-engineer-4hoa)
 <!-- BLOG-POST-LIST:END -->
 
