@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform MongoDB into an AI development and deployment powerhouse](https://dev.to/guerra2fernando/transform-mongodb-into-an-ai-development-and-deployment-powerhouse-31cc)
-- [This Week In React #171: Expo, Next.js, React-Email, Storybook, TypeScript, Vocs, Skottie, Harmony, VisionOS...](https://dev.to/sebastienlorber/this-week-in-react-171-expo-nextjs-react-email-storybook-typescript-vocs-skottie-harmony-visionos-7c)
-- [Dear Web Component](https://dev.to/dannyengelman/dear-web-component-1m51)
-- [Apple DMA changes - for better or for worse?](https://dev.to/aexol-studio/apple-dma-changes-for-better-or-for-worse-40i1)
+- [If you&#39;re a Developer You have to Start Using AI](https://dev.to/brojenuel/if-youre-a-developer-you-have-to-start-using-ai-6gp)
+- [Styling and Dark Mode](https://dev.to/codenameone/styling-and-dark-mode-eh2)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-32bb)
+- [I&#39;m Building an AI Project: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0)
 <!-- BLOG-POST-LIST:END -->
 
