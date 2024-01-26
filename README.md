@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Build a Simple YouTube Video Downloader Application in Python 🐍🚀](https://dev.to/arjuncodess/build-a-simple-youtube-video-downloader-application-in-python-52m6)
+- [Node.js Roadmap: Mastering the Essentials](https://dev.to/nabroleonx/nodejs-roadmap-mastering-the-essentials-3o18)
 - [Unlock Coding Superpowers: Meet Your Code Mates](https://dev.to/yogini16/unlock-coding-superpowers-meet-your-code-mates-4pk3)
 - [How to discover the newest and most useful AI tools?](https://dev.to/kexinliu11/how-to-discover-the-newest-and-most-useful-ai-tools-521l)
-- [7 tips to become a successful bug bounty hunter](https://dev.to/snyk/7-tips-to-become-a-successful-bug-bounty-hunter-529e)
 <!-- BLOG-POST-LIST:END -->
 
