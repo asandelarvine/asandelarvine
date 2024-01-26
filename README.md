@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Salma Alam-Naylor&#39;s &quot;Entertainment as Code&quot;](https://dev.to/jarvisscript/salma-alam-naylors-entertainment-as-code-59d7)
 - [ELI5: Data Lake vs. Data Warehouse vs. Data Pond etc.](https://dev.to/peter/eli5-data-lake-vs-data-warehouse-vs-data-pond-etc-3b9e)
 - [Comprehensive Exploration of Flutter: A Detailed Guide](https://dev.to/happyer/comprehensive-exploration-of-flutter-a-detailed-guide-159f)
 - [Unlocking the Power of Caching in Laravel](https://dev.to/mazimez/unlocking-the-power-of-caching-in-laravel-1e9m)
-- [Build a Production-Ready, Intelligent Chatbot With the MongoDB Chatbot Framework](https://dev.to/mongodb/build-a-production-ready-intelligent-chatbot-with-the-mongodb-chatbot-framework-4dd)
 <!-- BLOG-POST-LIST:END -->
 
