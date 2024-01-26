@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple YouTube Video Downloader Application in Python 🐍🚀](https://dev.to/arjuncodess/build-a-simple-youtube-video-downloader-application-in-python-52m6)
+- [The IT job market is tough right now. What are your best tips to create a developer portfolio ?](https://dev.to/jmfayard/show-your-work-3hpg)
 - [Node.js Roadmap: Mastering the Essentials](https://dev.to/nabroleonx/nodejs-roadmap-mastering-the-essentials-3o18)
+- [How to add CI/CD to my SAM project](https://dev.to/aws-builders/how-to-add-cicd-to-my-sam-project-5hm4)
 - [Unlock Coding Superpowers: Meet Your Code Mates](https://dev.to/yogini16/unlock-coding-superpowers-meet-your-code-mates-4pk3)
-- [How to discover the newest and most useful AI tools?](https://dev.to/kexinliu11/how-to-discover-the-newest-and-most-useful-ai-tools-521l)
 <!-- BLOG-POST-LIST:END -->
 
