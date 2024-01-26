@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive into Go Reflection: Crafting a Dynamic Open Source Config Package](https://dev.to/josemukorivo/deep-dive-into-go-reflection-crafting-a-dynamic-open-source-config-package-13kn)
 - [The IT job market is tough right now. What are your best tips to create a developer portfolio ?](https://dev.to/jmfayard/show-your-work-3hpg)
 - [Node.js Roadmap: Mastering the Essentials](https://dev.to/nabroleonx/nodejs-roadmap-mastering-the-essentials-3o18)
-- [How to add CI/CD to my SAM project](https://dev.to/aws-builders/how-to-add-cicd-to-my-sam-project-5hm4)
-- [Unlock Coding Superpowers: Meet Your Code Mates](https://dev.to/yogini16/unlock-coding-superpowers-meet-your-code-mates-4pk3)
+- [I learned* 12 languages in 2023: a retrospective](https://dev.to/sethcalebweeks/i-learned-12-languages-in-2023-a-retrospective-3e68)
 <!-- BLOG-POST-LIST:END -->
 
