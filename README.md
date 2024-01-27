@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Tips from The Pragmatic Programmers Book: Part 2/10](https://dev.to/rajeshroyal/100-tips-from-the-pragmatic-programmers-book-part-210-2knl)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3m1c)
+- [Preact: Lightweight React Alternative](https://dev.to/codeparrot/preact-lightweight-react-alternative-15kn)
 - [Stop Overloading Your Angular Components: Start Using Host Directives!](https://dev.to/rensjaspers/stop-overloading-your-angular-components-use-host-directives-4pne)
-- [How to implement toggle all option in Angular Material Select](https://dev.to/ngmaterialdev/how-to-implement-toggle-all-option-in-angular-material-select-20pk)
-- [100 Tips from The Pragmatic Programmers Book: Part 1/10](https://dev.to/rajeshroyal/care-about-your-craft-pragmatic-programmer-series-1-3b84)
 <!-- BLOG-POST-LIST:END -->
 
