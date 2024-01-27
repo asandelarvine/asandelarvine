@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSockets Unlocked: Mastering scale of websockets](https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54)
 - [Java January vs. JS January… Which Do You Pick? 🔥](https://dev.to/best_codes/java-january-vs-js-january-which-do-you-pick-15o6)
+- [Exploring Dockerfile Frontends: A Guide with Sample App and Examples](https://dev.to/ajeetraina/exploring-dockerfile-frontends-a-guide-with-sample-app-and-examples-4409)
 - [Django Authentication Tutorial: Login, Logout, Signup, Password Change, and Password Reset](https://dev.to/wsvincent/django-authentication-tutorial-login-logout-signup-password-change-and-password-reset-970)
-- [How to use Optional class &lpar;Java&rpar; - best practices](https://dev.to/ivangavlik/how-to-use-the-optional-class-java-3pf5)
-- [What Leadership Lessons Beyond Books Impact You?](https://dev.to/devteam/what-leadership-lessons-beyond-books-impact-you-1eoc)
 <!-- BLOG-POST-LIST:END -->
 
