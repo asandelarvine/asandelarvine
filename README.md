@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement Theme Switcher in JavaScript](https://dev.to/pavelkeyzik/how-to-implement-theme-switcher-in-javascript-53e)
 - [Getting Started with GitHub Actions](https://dev.to/iarchitsharma/getting-started-with-github-actions-5b4i)
 - [How do I make a Git commit in the past?](https://dev.to/atultrp/how-do-i-make-a-git-commit-in-the-past-4l8b)
 - [Become a pedantic coder](https://dev.to/noriller/become-a-pedantic-coder-5cfp)
-- [🌟 Embracing the Power of Community in Tech 🌟](https://dev.to/pachicodes/embracing-the-power-of-community-in-tech-334b)
 <!-- BLOG-POST-LIST:END -->
 
