@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem with System Design Interview Prep](https://dev.to/dezhango/the-problem-with-system-design-interview-prep-55me)
-- [Build a Slack Emoji Bot in 20 Lines of Code](https://dev.to/fermyon/build-a-slack-emoji-bot-in-20-lines-of-code-3m45)
-- [&quot;Programming Poetry: A Collection of Poems on the Art of Programming&quot;](https://dev.to/echoaditya/programming-poetry-a-collection-of-poems-on-the-art-of-programming-ng9)
-- [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
+- [What Leadership Lessons Beyond Books Impact You?](https://dev.to/devteam/what-leadership-lessons-beyond-books-impact-you-1eoc)
+- [Writing a SSG in Go](https://dev.to/k_penguin_sato/writing-a-ssg-in-go-po2)
+- [Build a Simple YouTube Video Downloader Application in Python 🐍🚀](https://dev.to/arjuncodess/build-a-simple-youtube-video-downloader-application-in-python-e3l)
+- [Solving the CIA Kryptos Code &lpar;Part 2&rpar;](https://dev.to/isaacdlyman/solving-the-cia-kryptos-code-part-2-h0l)
 <!-- BLOG-POST-LIST:END -->
 
