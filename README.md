@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up your own proxy server in minutes?](https://dev.to/dhairyashah/how-to-set-up-your-own-proxy-server-in-minutes-4ke)
 - [WebSockets Unlocked: Mastering scale of websockets](https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54)
 - [Java January vs. JS January… Which Do You Pick? 🔥](https://dev.to/best_codes/java-january-vs-js-january-which-do-you-pick-15o6)
 - [Exploring Dockerfile Frontends: A Guide with Sample App and Examples](https://dev.to/ajeetraina/exploring-dockerfile-frontends-a-guide-with-sample-app-and-examples-4409)
-- [Django Authentication Tutorial: Login, Logout, Signup, Password Change, and Password Reset](https://dev.to/wsvincent/django-authentication-tutorial-login-logout-signup-password-change-and-password-reset-970)
 <!-- BLOG-POST-LIST:END -->
 
