@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best YouTube Channels For JEE Preparation](https://dev.to/sh20raj/best-youtube-channels-for-jee-preparation-5683)
-- [My experience using Open AI completion API in a Node.js application](https://dev.to/pilarfernandezz/my-experience-using-open-ai-completion-api-in-a-nodejs-application-5c51)
-- [Why Javascript has to be slower than C++](https://dev.to/codeparrot/why-javascript-has-to-be-slower-than-c-4inj)
-- [100 Tips from The Pragmatic Programmers Book: Part 2/10](https://dev.to/rajeshroyal/100-tips-from-the-pragmatic-programmers-book-part-210-2knl)
+- [What is GSoC? Full Information](https://dev.to/durgesh4993/what-you-need-to-know-about-gsoc-n9d)
+- [Open Source History, a Computing History](https://dev.to/abcsxyz/open-source-history-a-computing-history-13gc)
+- [Serializing Python Object Using the pickle Module](https://dev.to/sachingeek/serializing-python-object-using-the-pickle-module-2jg0)
+- [F-Droid, Keyboard Libraries, and Choosing a Browser](https://dev.to/jsspen/f-droid-keyboard-libraries-and-choosing-a-browser-2m7k)
 <!-- BLOG-POST-LIST:END -->
 
