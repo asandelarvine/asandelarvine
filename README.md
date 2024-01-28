@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Sensitive Data with Encryption Algorithms](https://dev.to/rubab2020/securing-sensitive-data-with-encryption-algorithms-3mc)
+- [3 fundamental concepts in Javascript OOP](https://dev.to/junlow/3-fundamental-concepts-in-javascript-oop-12fn)
 - [OpenAI has Text to Speech Support now!](https://dev.to/amnish04/openai-has-text-to-speech-support-now-4mlp)
 - [30+ ChatGPT AI Prompts That Are Short, Silly, But Highly EFFECTIVE! + Examples 🔥⚡️](https://dev.to/arjuncodess/30-prompts-that-are-short-silly-but-highly-effective-examples-504c)
-- [Java vs. Python: An Introduction to Two Powerful Programming Languages](https://dev.to/boucky/introduction-to-java-a-comprehensive-guide-with-python-comparison-5ajo)
-- [Working with Dapper/SQL-Server Framework 4.8 C#](https://dev.to/karenpayneoregon/working-with-dappersql-server-framework-48-c-57je)
 <!-- BLOG-POST-LIST:END -->
 
