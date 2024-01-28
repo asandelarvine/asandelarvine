@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Super Helpful AI Tools Every Developer Should Know 🤯](https://dev.to/hosseinyazdi/7-super-helpful-ai-tools-every-developer-should-know-60c)
 - [Comprehensive re:Cap security practice on AWS](https://dev.to/aws-builders/comprehensive-recap-security-practice-on-aws-24kg)
 - [Jetpack Compose Mastery Part 1: A Comprehensive Guide to Building Your First Compose Application](https://dev.to/happyer/jetpack-compose-mastery-part-1-a-comprehensive-guide-to-building-your-first-compose-application-jng)
 - [Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
-- [A Guide to Styling Tables](https://dev.to/madsstoumann/a-guide-to-styling-tables-28d2)
 <!-- BLOG-POST-LIST:END -->
 
