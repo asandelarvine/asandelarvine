@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-5cf2)
+- [Yet Another Newsletter LOL: A Solid and Astronomical Week](https://dev.to/nickytonline/yet-another-newsletter-lol-a-solid-and-astronomical-week-1ccc)
 - [Be a inventer Not &#39;Frameworker&#39;](https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk)
-- [Decorator Patterns In Go](https://dev.to/mrkresnofatih/decorator-patterns-in-go-3i33)
-- [Jetpack Compose Mastery Part 2: Advanced Tools and Resources for Mastering Compose UI](https://dev.to/happyer/jetpack-compose-mastery-part-2-advanced-tools-and-resources-for-mastering-compose-ui-27l1)
-- [OpenAI ChatGPT is Offering 10+ FREE Courses 🌟🚀](https://dev.to/arjuncodess/chatgpt-is-offering-10-free-courses-16d9)
+- [How to build a zero-ETL DynamoDB integration with OpenSearch Service using AWS CDK](https://dev.to/aws-builders/how-to-build-a-zero-etl-dynamodb-integration-with-opensearch-service-using-aws-cdk-hih)
 <!-- BLOG-POST-LIST:END -->
 
