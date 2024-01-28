@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Tips from The Pragmatic Programmers Book: Part 4/10](https://dev.to/rajeshroyal/100-tips-from-the-pragmatic-programmers-book-part-410-lc5)
+- [Integrate Strapi on Nuxt](https://dev.to/thomasbnt/integrate-strapi-on-nuxt-1lde)
 - [How to Generate Unique QR Code Event Passes with Python](https://dev.to/scofieldidehen/how-to-generate-unique-qr-code-event-passes-with-python-32bj)
-- [Translating Database Queries](https://dev.to/danielhe4rt/translating-database-queries-3n0m)
-- [How This Underrated Technique Saved My Team Hours of Debugging](https://dev.to/rijultp/how-this-underrated-technique-saved-my-team-hours-of-debugging-2fh1)
-- [I made a follow-up package, scikit-multilearn-ng, to the widely used scikit-multilearn package for multilabel classification](https://dev.to/northern64bit/i-made-a-follow-up-package-scikit-multilearn-ng-to-the-widely-used-scikit-multilearn-package-for-multilabel-classification-jf0)
+- [How to Write Clean Vue Components](https://dev.to/alexanderop/how-to-write-clean-vue-components-5bl)
 <!-- BLOG-POST-LIST:END -->
 
