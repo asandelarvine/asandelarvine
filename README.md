@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
+- [A Guide to Styling Tables](https://dev.to/madsstoumann/a-guide-to-styling-tables-28d2)
+- [How to connect to a MongoDB database in Sveltekit](https://dev.to/abdulmuminyqn/how-to-connect-to-a-mongodb-database-in-sveltekit-k5h)
 - [Webpack Vs Parcel: A quick Look for Developers](https://dev.to/temid/webpack-vs-parcel-a-quick-look-for-developers-1n30)
-- [🔥Build A Movie Search App Using Redux Toolkit And React Router 6🔥](https://dev.to/myogeshchavan97/build-a-movie-search-app-using-redux-toolkit-and-react-router-6-4j3d)
-- [Securing Sensitive Data with Encryption Algorithms](https://dev.to/rubab2020/securing-sensitive-data-with-encryption-algorithms-3mc)
-- [3 fundamental concepts in Javascript OOP](https://dev.to/junlow/3-fundamental-concepts-in-javascript-oop-12fn)
 <!-- BLOG-POST-LIST:END -->
 
