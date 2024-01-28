@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [9️⃣ Open Source Projects Every Sr. Dev Should Explore Once🚀 &lpar;Open for Contribution&rpar; 🤝](https://dev.to/nikl/9-open-source-projects-every-sr-dev-should-explore-once-open-for-contribution-ffg)
+- [Nextjs Page Transition With Framer-Motion](https://dev.to/joseph42a/nextjs-page-transition-with-framer-motion-33dg)
 - [100 Tips from The Pragmatic Programmers Book: Part 4/10](https://dev.to/rajeshroyal/100-tips-from-the-pragmatic-programmers-book-part-410-lc5)
 - [Integrate Strapi on Nuxt](https://dev.to/thomasbnt/integrate-strapi-on-nuxt-1lde)
-- [How to Generate Unique QR Code Event Passes with Python](https://dev.to/scofieldidehen/how-to-generate-unique-qr-code-event-passes-with-python-32bj)
-- [How to Write Clean Vue Components](https://dev.to/alexanderop/how-to-write-clean-vue-components-5bl)
 <!-- BLOG-POST-LIST:END -->
 
