@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test your Compute apps end-to-end with JavaScript](https://dev.to/fastly/test-your-compute-apps-end-to-end-with-javascript-3nko)
 - [Next Level SD 1.5 Based Models Training - Took Me 70+ Empirical Trainings To Find Out](https://dev.to/furkangozukara/next-level-sd-15-based-models-training-took-me-70-empirical-trainings-to-find-out-5362)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ol6)
 - [Make layout with bidirectional text has never been so easy 🙌](https://dev.to/dhutaryan/make-layout-with-bidirectional-text-has-never-been-so-easy-bac)
-- [Deploying an E-commerce Website on Amazon EKS Using Terraform](https://dev.to/gbenga700/deploying-an-e-commerce-website-on-amazon-eks-using-terraform-23df)
 <!-- BLOG-POST-LIST:END -->
 
