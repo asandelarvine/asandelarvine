@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Roundup 037 &lpar;Jan 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-037-jan-22-hot-topics-in-workplace-sharepoint-and-powerplatform-11j7)
-- [First Open-Source Contribution](https://dev.to/juanjefry23/first-open-source-contribution-300b)
-- [A Deep dive into CSR, SSR, SSG and ISR](https://dev.to/teyim/a-deep-dive-into-csr-ssr-ssg-and-isr-3513)
-- [Vite js: The Lightweight and Lightning-fast Build Tool for Your Next Web Project](https://dev.to/teyim/vite-js-the-lightweight-and-lightning-fast-build-tool-for-your-next-web-project-541i)
+- [Mastering Connectivity: CG-NAT Solutions with Tailscale](https://dev.to/ayaan49/mastering-connectivity-cg-nat-solutions-with-tailscale-4a5d)
+- [Managing data drift with Apache Kafka® Connect and a schema registry](https://dev.to/aiven_io/managing-data-drift-with-apache-kafkar-connect-and-a-schema-registry-kop)
+- [I need some feedback on my work.](https://dev.to/maxjerry0107/i-need-some-feedback-on-my-work-57gn)
+- [Navigating Content Management With OneEntry](https://dev.to/sukodes/navigating-content-management-with-oneentry-15m)
 <!-- BLOG-POST-LIST:END -->
 
