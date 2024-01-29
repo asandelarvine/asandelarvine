@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jetpack Compose Mastery Series Finale: 38 Key Issues in Compose UI](https://dev.to/happyer/jetpack-compose-mastery-series-finale-38-key-issues-in-compose-ui-50f8)
-- [How to Create Exam Marker with Power Automate and MS Forms](https://dev.to/wyattdave/how-to-create-exam-marker-with-power-automate-and-ms-forms-2mop)
-- [Common Mistakes in JavaScript Naming Conventions and How to Avoid Them](https://dev.to/hyscaler/common-mistakes-in-javascript-naming-conventions-and-how-to-avoid-them-1og3)
-- [Embarking on a Data-Driven Journey: Exploring Monitoring and Evaluation](https://dev.to/phylis/embarking-on-a-data-driven-journey-exploring-monitoring-and-evaluation-4nj9)
+- [Expo SDK 50: Top 5 things you need to know 🚀](https://dev.to/mitchiemt11/expo-sdk-50-top-5-things-you-need-to-know-295n)
+- [AWS open source newsletter, #186](https://dev.to/aws/aws-open-source-newsletter-186-539n)
+- [Boletín AWS Open Source, January Edition](https://dev.to/aws-espanol/boletin-aws-open-source-january-edition-31in)
+- [Getting Started with TypeScript: A Comprehensive Guide](https://dev.to/jps27cse/getting-started-with-typescript-a-comprehensive-guide-1djm)
 <!-- BLOG-POST-LIST:END -->
 
