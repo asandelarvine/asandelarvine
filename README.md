@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 10 Topics for System Design Interviews](https://dev.to/somadevtoo/top-10-topics-for-system-design-interviews-4c2f)
+- [Building a Dropdown Menu in React: A Step-by-Step Guide](https://dev.to/michaellarocca/building-a-dropdown-menu-in-react-a-step-by-step-guide-nof)
 - [What is the Difference Between ePUB and eBook?](https://dev.to/alphaebook/what-is-the-difference-between-epub-and-ebook-535j)
 - [Mastering Azure Peering: Commanding Your Network with Precision](https://dev.to/beingwizard/mastering-azure-peering-commanding-your-network-with-precision-51e5)
-- [Test your Compute apps end-to-end with JavaScript](https://dev.to/fastly/test-your-compute-apps-end-to-end-with-javascript-3nko)
 <!-- BLOG-POST-LIST:END -->
 
