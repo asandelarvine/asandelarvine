@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Topics for System Design Interviews](https://dev.to/somadevtoo/top-10-topics-for-system-design-interviews-4c2f)
-- [Building a Dropdown Menu in React: A Step-by-Step Guide](https://dev.to/michaellarocca/building-a-dropdown-menu-in-react-a-step-by-step-guide-nof)
-- [What is the Difference Between ePUB and eBook?](https://dev.to/alphaebook/what-is-the-difference-between-epub-and-ebook-535j)
-- [Mastering Azure Peering: Commanding Your Network with Precision](https://dev.to/beingwizard/mastering-azure-peering-commanding-your-network-with-precision-51e5)
+- [Jetpack Compose Mastery Series Finale: 38 Key Issues in Compose UI](https://dev.to/happyer/jetpack-compose-mastery-series-finale-38-key-issues-in-compose-ui-50f8)
+- [How to Create Exam Marker with Power Automate and MS Forms](https://dev.to/wyattdave/how-to-create-exam-marker-with-power-automate-and-ms-forms-2mop)
+- [Common Mistakes in JavaScript Naming Conventions and How to Avoid Them](https://dev.to/hyscaler/common-mistakes-in-javascript-naming-conventions-and-how-to-avoid-them-1og3)
+- [Embarking on a Data-Driven Journey: Exploring Monitoring and Evaluation](https://dev.to/phylis/embarking-on-a-data-driven-journey-exploring-monitoring-and-evaluation-4nj9)
 <!-- BLOG-POST-LIST:END -->
 
