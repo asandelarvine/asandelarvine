@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 037 &lpar;Jan 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-037-jan-22-hot-topics-in-workplace-sharepoint-and-powerplatform-11j7)
+- [First Open-Source Contribution](https://dev.to/juanjefry23/first-open-source-contribution-300b)
+- [A Deep dive into CSR, SSR, SSG and ISR](https://dev.to/teyim/a-deep-dive-into-csr-ssr-ssg-and-isr-3513)
 - [Vite js: The Lightweight and Lightning-fast Build Tool for Your Next Web Project](https://dev.to/teyim/vite-js-the-lightweight-and-lightning-fast-build-tool-for-your-next-web-project-541i)
-- [Create reusable button Components with React,Typescript , Tailwind and Tailwind-variants](https://dev.to/teyim/create-reusable-button-components-with-reacttypescript-tailwind-and-tailwind-variants-2j7d)
-- [NestJS Dependency Injection - Overview](https://dev.to/shameel/nestjs-dependency-injection-overview-29h3)
-- [Grommet - A UI framework to create intuitive and visually appealing React components](https://dev.to/subha35/grommet-a-ui-framework-to-create-intuitive-and-visually-appealing-react-components-53i3)
 <!-- BLOG-POST-LIST:END -->
 
