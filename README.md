@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [External vectorization](https://dev.to/neuml/external-vectorization-5ebi)
+- [Navigating the Nuances of Leadership with Michael Lopp](https://dev.to/dev3l/navigating-the-nuances-of-leadership-with-michael-lopp-13ck)
 - [🐍4️⃣ Advanced Python Concepts Every Programmer Needs 🔥⚡️](https://dev.to/arjuncodess/4-advanced-python-concepts-every-programmer-needs-2gf8)
 - [Ambiente wordpress com CDN provisionado como código — Terraform](https://dev.to/paulofponciano/ambiente-wordpress-com-cdn-provisionado-como-codigo-terraform-5b4l)
-- [RubyConf: Scholar Edition](https://dev.to/avikdal/rubyconf-scholar-edition-24n5)
-- [Understanding Go/Golang: part 1 – Variable](https://dev.to/aurelievache/understanding-gogolang-part-1-variable-1eim)
 <!-- BLOG-POST-LIST:END -->
 
