@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Charting My Path for February-March: What&#39;s Yours?](https://dev.to/elvissautet/charting-my-path-for-february-march-whats-yours-24ek)
-- [Employee-Driven Sponsorship: Open Source Day 2024](https://dev.to/claranet/employee-driven-sponsorship-open-source-day-2024-10m1)
-- [Uniting Africa with Umoja: The Africai Vision](https://dev.to/cypriantinasheaarons/uniting-africa-with-umoja-the-africai-vision-5dec)
-- [Terraform - Understanding Dynamic Blocks](https://dev.to/pwd9000/terraform-understanding-dynamic-blocks-6f9)
+- [Database 101: How to Model Leaderboards for 1M Player&#39;s Game.](https://dev.to/danielhe4rt/database-101-how-to-model-leaderboards-for-1m-players-game-2pfa)
+- [Building a Side Hustle 💸 as a Developer: Capitalize on the Global Economy with Integrated Payments](https://dev.to/rapyd/building-a-side-hustle-as-a-developer-capitalize-on-the-global-economy-with-integrated-payments-59m1)
+- [How We Stopped Our ClickHouse DB From Exploding](https://dev.to/dittofeed-max/how-we-stopped-our-clickhouse-db-from-exploding-2969)
+- [Why I decided to go headless...](https://dev.to/jhanawee/why-i-decided-to-go-headless-2bam)
 <!-- BLOG-POST-LIST:END -->
 
