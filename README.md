@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Connectivity: CG-NAT Solutions with Tailscale](https://dev.to/ayaan49/mastering-connectivity-cg-nat-solutions-with-tailscale-4a5d)
-- [Managing data drift with Apache Kafka® Connect and a schema registry](https://dev.to/aiven_io/managing-data-drift-with-apache-kafkar-connect-and-a-schema-registry-kop)
-- [I need some feedback on my work.](https://dev.to/maxjerry0107/i-need-some-feedback-on-my-work-57gn)
-- [Navigating Content Management With OneEntry](https://dev.to/sukodes/navigating-content-management-with-oneentry-15m)
+- [How Do You Balance Social Media in Your Career?](https://dev.to/devteam/how-do-you-balance-social-media-in-your-career-b9c)
+- [Cross-Region Transit Gateway Peering in AWS](https://dev.to/aws-builders/cross-region-transit-gateway-peering-in-aws-3oc4)
+- [FLaNK Stack 29 Jan 2024](https://dev.to/tspannhw/flank-stack-29-jan-2024-1cl4)
+- [Mastering the DevOps Interview: A Guide for Mid-Level Candidates](https://dev.to/kubeden/mastering-the-devops-interview-a-guide-for-mid-level-candidates-546a)
 <!-- BLOG-POST-LIST:END -->
 
