@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the Difference Between ePUB and eBook?](https://dev.to/alphaebook/what-is-the-difference-between-epub-and-ebook-535j)
 - [Test your Compute apps end-to-end with JavaScript](https://dev.to/fastly/test-your-compute-apps-end-to-end-with-javascript-3nko)
+- [9 Interview on node](https://dev.to/akmaurya31/9-interview-on-node-131h)
 - [Next Level SD 1.5 Based Models Training - Took Me 70+ Empirical Trainings To Find Out](https://dev.to/furkangozukara/next-level-sd-15-based-models-training-took-me-70-empirical-trainings-to-find-out-5362)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ol6)
-- [Make layout with bidirectional text has never been so easy 🙌](https://dev.to/dhutaryan/make-layout-with-bidirectional-text-has-never-been-so-easy-bac)
 <!-- BLOG-POST-LIST:END -->
 
