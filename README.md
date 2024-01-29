@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform - Understanding Dynamic Blocks](https://dev.to/pwd9000/terraform-understanding-dynamic-blocks-6f9)
+- [A Tribute to React](https://dev.to/aantipov/a-tribute-to-react-2dci)
 - [How Do You Balance Social Media in Your Career?](https://dev.to/devteam/how-do-you-balance-social-media-in-your-career-b9c)
 - [Cross-Region Transit Gateway Peering in AWS](https://dev.to/aws-builders/cross-region-transit-gateway-peering-in-aws-3oc4)
-- [FLaNK Stack 29 Jan 2024](https://dev.to/tspannhw/flank-stack-29-jan-2024-1cl4)
-- [Mastering the DevOps Interview: A Guide for Mid-Level Candidates](https://dev.to/kubeden/mastering-the-devops-interview-a-guide-for-mid-level-candidates-546a)
 <!-- BLOG-POST-LIST:END -->
 
