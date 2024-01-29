@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Ruby on Rails and Postgres on Supabase](https://dev.to/supabase/getting-started-with-ruby-on-rails-and-postgres-on-supabase-1a03)
+- [Store embeddings in Azure Cosmos DB for PostgreSQL with pgvector](https://dev.to/sfoteini/store-embeddings-in-azure-cosmos-db-for-postgresql-with-pgvector-2b1c)
+- [How to Develop an IntelliJ Plugin: A DIY Guide to Adding Drag and Drop with Custom DataFlavors](https://dev.to/get_pieces/how-to-develop-an-intellij-plugin-a-diy-guide-to-adding-drag-and-drop-with-custom-dataflavors-52o8)
 - [This year, I&#39;ll commit at least one line of code 😃](https://dev.to/jess/this-year-ill-commit-at-least-one-line-of-code-4lfd)
-- [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jad)
-- [Observabilidade de microsserviços com OpenTelemetry e Amazon OpenSearch [Lab Session]](https://dev.to/paulofponciano/observabilidade-de-microsservicos-com-opentelemetry-e-amazon-opensearch-lab-session-2jk3)
 <!-- BLOG-POST-LIST:END -->
 
