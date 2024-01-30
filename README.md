@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Configurando Amazon SES para envio de e-mail](https://dev.to/alfredotavio/configurando-amazon-ses-para-envio-de-e-mail-25)
 - [10 unusual programming languages that will drive you nuts 🤪](https://dev.to/ispmanager/10-unusual-programming-languages-that-will-drive-you-nuts-bcm)
 - [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
-- [Why It&#39;s Harder Than Ever to Learn Something New in 2024](https://dev.to/lucaschitolina/why-its-harder-than-ever-to-learn-something-new-in-2024-4009)
-- [Think Twice Before Becoming a Techie](https://dev.to/scofieldidehen/think-twice-before-becoming-a-techie-1bg5)
+- [Tech work is n-dimensional](https://dev.to/chasm/tech-work-is-n-dimensional-gna)
 <!-- BLOG-POST-LIST:END -->
 
