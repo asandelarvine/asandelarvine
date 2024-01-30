@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Ins and Outs of 2024: Vector Database Edition](https://dev.to/zilliz/4-ins-and-outs-of-2024-vector-database-edition-31k1)
-- [Category Cleanup: 4 Ways Your Discussions Categories Can Be Better Optimized](https://dev.to/github/category-cleanup-4-ways-your-discussions-categories-can-be-better-optimized-46mj)
-- [Stop Burning Out Maintainers: An Empathetic Guide for Contributors](https://dev.to/opensauced/stop-burning-out-maintainers-an-empathetic-guide-for-contributors-m20)
-- [Difference between Interface and Type in TypeScript](https://dev.to/diwakarkashyap/difference-between-interface-and-type-in-typescript-52in)
+- [How to Build a GraphQL API with Spring Boot](https://dev.to/oktadev/how-to-build-a-graphql-api-with-spring-boot-11ke)
+- [LeetCode 2. Add Two Numbers](https://dev.to/daveson217/leetcode-2-add-two-numbers-3j11)
+- [Hooking-up a headless CMS to React apps](https://dev.to/flotiq/hooking-up-a-headless-cms-to-react-apps-d4l)
+- [Day 29:🌐 Navigating Shared State Concurrency in Rust:- Sync, Send, and Atomic Wonders](https://dev.to/aniket_botre/day-29-navigating-shared-state-concurrency-in-rust-sync-send-and-atomic-wonders-4c49)
 <!-- BLOG-POST-LIST:END -->
 
