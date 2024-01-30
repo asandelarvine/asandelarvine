@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Directions of Reactivity](https://dev.to/ninjin/directions-of-reactivity-1h4b)
-- [DTrace Revisited: Advanced Debugging Techniques](https://dev.to/codenameone/dtrace-revisited-advanced-debugging-techniques-lc9)
-- [Learning Microservices with Go&lpar;Part 2&rpar;. Service Discovery](https://dev.to/manavkush/learning-microservices-with-gopart-2-service-discovery-168g)
-- [🎉📣 Exciting Moments at the AWS Hong Kong re:cap! 🚀🌟](https://dev.to/aws-builders/exciting-moments-at-the-aws-conference-2cjp)
+- [4 Ins and Outs of 2024: Vector Database Edition](https://dev.to/zilliz/4-ins-and-outs-of-2024-vector-database-edition-31k1)
+- [Category Cleanup: 4 Ways Your Discussions Categories Can Be Better Optimized](https://dev.to/github/category-cleanup-4-ways-your-discussions-categories-can-be-better-optimized-46mj)
+- [Stop Burning Out Maintainers: An Empathetic Guide for Contributors](https://dev.to/opensauced/stop-burning-out-maintainers-an-empathetic-guide-for-contributors-m20)
+- [Difference between Interface and Type in TypeScript](https://dev.to/diwakarkashyap/difference-between-interface-and-type-in-typescript-52in)
 <!-- BLOG-POST-LIST:END -->
 
