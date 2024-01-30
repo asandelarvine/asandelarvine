@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Superpowers with Directives and Dependency Injection: Part 7](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-7-4ll9)
-- [Npm vs Yarn](https://dev.to/codeparrot/npm-vs-yarn-35d6)
-- [Coexistence of containers and Helm charts - OCI based registries](https://dev.to/cyclops-ui/coexistence-of-containers-and-helm-charts-oci-based-registries-b6b)
-- [Building a AI Assistant to chat with your documents using Next.js and OpenAI](https://dev.to/mfts/building-a-ai-assistant-to-chat-with-your-documents-using-nextjs-and-openai-4ab6)
+- [User Experience &lpar;UX&rpar; Design Mistakes to Avoid](https://dev.to/clikitnow/user-experience-ux-design-mistakes-to-avoid-382e)
+- [Large Language Models](https://dev.to/danielwambo/large-language-model-7ab)
+- [Exploring Component Testing in Vue with Playwright](https://dev.to/mayashavin/exploring-component-testing-in-vue-with-playwright-27mi)
+- [Best Crypto To Invest in 2024 [Expert Guide]](https://dev.to/scofieldidehen/best-crypto-to-invest-in-2024-expert-guide-3mkp)
 <!-- BLOG-POST-LIST:END -->
 
