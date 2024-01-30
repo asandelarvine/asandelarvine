@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Directions of Reactivity](https://dev.to/ninjin/directions-of-reactivity-1h4b)
+- [DTrace Revisited: Advanced Debugging Techniques](https://dev.to/codenameone/dtrace-revisited-advanced-debugging-techniques-lc9)
 - [Learning Microservices with Go&lpar;Part 2&rpar;. Service Discovery](https://dev.to/manavkush/learning-microservices-with-gopart-2-service-discovery-168g)
-- [Whasapp Web Clone](https://dev.to/angela300/whasapp-web-clone-3460)
 - [🎉📣 Exciting Moments at the AWS Hong Kong re:cap! 🚀🌟](https://dev.to/aws-builders/exciting-moments-at-the-aws-conference-2cjp)
-- [Functions in Rust: a good introduction](https://dev.to/francescoxx/functions-in-rust-a-good-introduction-5a23)
 <!-- BLOG-POST-LIST:END -->
 
