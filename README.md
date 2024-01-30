@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Do Rubber Ducks Work?](https://dev.to/zenstack/why-do-rubber-ducks-work-27ia)
 - [[20 Days of DynamoDB] Day 14 - Using the DynamoDB expression package to build Key Condition and Filter expressions](https://dev.to/aws/20-days-of-dynamodb-day-14-using-the-dynamodb-expression-package-to-build-key-condition-and-filter-expressions-2i27)
 - [Configurando Amazon SES para envio de e-mail](https://dev.to/alfredotavio/configurando-amazon-ses-para-envio-de-e-mail-25)
 - [10 unusual programming languages that will drive you nuts 🤪](https://dev.to/ispmanager/10-unusual-programming-languages-that-will-drive-you-nuts-bcm)
-- [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
 <!-- BLOG-POST-LIST:END -->
 
