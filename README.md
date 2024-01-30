@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Think Twice Before Becoming a Techie](https://dev.to/scofieldidehen/think-twice-before-becoming-a-techie-1bg5)
+- [Chat With Your PDFs: Part 2 - Frontend - An End to End LangChain Tutorial. Build A RAG with OpenAI.](https://dev.to/focusedlabs/chat-with-your-pdfs-part-2-frontend-an-end-to-end-langchain-tutorial-build-a-rag-with-openai-e0p)
+- [Navigating the Maze of Web Development Frameworks](https://dev.to/scofieldidehen/navigating-the-maze-of-web-development-frameworks-2cd2)
 - [External vectorization](https://dev.to/neuml/external-vectorization-5ebi)
-- [Navigating the Nuances of Leadership with Michael Lopp](https://dev.to/dev3l/navigating-the-nuances-of-leadership-with-michael-lopp-13ck)
-- [🐍4️⃣ Advanced Python Concepts Every Programmer Needs 🔥⚡️](https://dev.to/arjuncodess/4-advanced-python-concepts-every-programmer-needs-2gf8)
-- [Ambiente wordpress com CDN provisionado como código — Terraform](https://dev.to/paulofponciano/ambiente-wordpress-com-cdn-provisionado-como-codigo-terraform-5b4l)
 <!-- BLOG-POST-LIST:END -->
 
