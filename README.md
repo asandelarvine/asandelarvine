@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Functions in Rust: a good introduction](https://dev.to/francescoxx/functions-in-rust-a-good-introduction-5a23)
+- [Implementing JWT Authentication in a Golang Application](https://dev.to/permify/implementing-jwt-authentication-in-a-golang-application-onf)
+- [Open-Source Headless CMS in 2024](https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko)
 - [ReductStore v1.8.0 Has Been Released with Data Replication](https://dev.to/reductstore/reductstore-v180-has-been-released-with-data-replication-94b)
-- [Navigating Docker With Captains - Bret Fisher](https://dev.to/livecycle/navigating-docker-with-captains-bret-fisher-3i0m)
-- [The Journey from Idea to Launch: A Step-by-Step Guide to Software Development](https://dev.to/rajatp/the-journey-from-idea-to-launch-a-step-by-step-guide-to-software-development-515m)
-- [You don&#39;t need to pay for SaaS boilerplates - Open SaaS](https://dev.to/wasp/you-dont-need-to-pay-for-saas-boilerplates-open-saas-56lj)
 <!-- BLOG-POST-LIST:END -->
 
