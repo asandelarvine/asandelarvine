@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Programming](https://dev.to/scofieldidehen/object-oriented-programming-1c5h)
+- [In-app surveys for React Native Apps](https://dev.to/nsmet/in-app-surveys-for-react-native-apps-5h7g)
 - [Terraform in Plain English](https://dev.to/oloruntobiolurombi/terraform-in-plain-english-2eac)
 - [❓🤔 Mystery of Vite server.port Number 5173 🤯](https://dev.to/kvetoslavnovak/mystery-of-vite-serverport-number-5173-43lm)
-- [Adding a Subscription Service to a NextJS, Prisma &amp; Upstash](https://dev.to/brightonmboya/adding-a-subscription-service-to-a-nextjs-prisma-upstash-19le)
-- [Angular 17 Encrypting Decrypting Data with CryptoJs | Angular 17 Tutorial | React](https://dev.to/anilsingh/angular-17-encrypting-decrypting-data-with-cryptojs-angular-17-tutorial-react-30mh)
 <!-- BLOG-POST-LIST:END -->
 
