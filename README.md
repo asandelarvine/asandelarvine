@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build and Deploy Images on AWS ECR Using Github Workflow Action](https://dev.to/kenechukwujosiah/build-and-deploy-images-on-aws-ecr-using-github-workflow-action-5b69)
-- [How Do You Navigate Success beyond the Paycheck?](https://dev.to/devteam/how-do-you-navigate-success-beyond-the-paycheck-n4g)
-- [😁12 things you didn&#39;t know you could do with DEV](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-2041)
-- [Using Azure OpenAI Service &lpar;GPT-4&rpar; in .NET](https://dev.to/esdanielgomez/using-azure-openai-service-gpt-4-in-net-2l1f)
+- [Build Your Own Copilot: Adding Local Context in to Your Conversation](https://dev.to/get_pieces/build-your-own-copilot-adding-local-context-in-to-your-conversation-4668)
+- [My Mistake: Learning too fast](https://dev.to/mjhossain/my-mistake-learning-too-fast-3cd6)
+- [What about starting a new platform?](https://dev.to/andreik/what-about-starting-a-new-platform-27mi)
+- [Fetch data when empty](https://dev.to/hejliang/fetch-data-when-empty-1771)
 <!-- BLOG-POST-LIST:END -->
 
