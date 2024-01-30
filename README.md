@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Copilot: Adding Local Context in to Your Conversation](https://dev.to/get_pieces/build-your-own-copilot-adding-local-context-in-to-your-conversation-4668)
-- [My Mistake: Learning too fast](https://dev.to/mjhossain/my-mistake-learning-too-fast-3cd6)
-- [What about starting a new platform?](https://dev.to/andreik/what-about-starting-a-new-platform-27mi)
-- [Fetch data when empty](https://dev.to/hejliang/fetch-data-when-empty-1771)
+- [Have you tried the Arc browser?](https://dev.to/ben/have-you-tried-the-arc-browser-3n9o)
+- [Javascript Promise](https://dev.to/barrisam/javascript-promise-3g6o)
+- [Pascal rodando na JVM](https://dev.to/alexgarzao/pascal-rodando-na-jvm-1m3b)
+- [Rapid Prototyping with Flask, Bootstrap and Secutio](https://dev.to/mrhdias/rapid-prototyping-with-flask-bootstrap-and-secutio-1719)
 <!-- BLOG-POST-LIST:END -->
 
