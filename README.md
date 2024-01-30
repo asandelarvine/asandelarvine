@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
+- [Why It&#39;s Harder Than Ever to Learn Something New in 2024](https://dev.to/lucaschitolina/why-its-harder-than-ever-to-learn-something-new-in-2024-4009)
 - [Think Twice Before Becoming a Techie](https://dev.to/scofieldidehen/think-twice-before-becoming-a-techie-1bg5)
 - [Chat With Your PDFs: Part 2 - Frontend - An End to End LangChain Tutorial. Build A RAG with OpenAI.](https://dev.to/focusedlabs/chat-with-your-pdfs-part-2-frontend-an-end-to-end-langchain-tutorial-build-a-rag-with-openai-e0p)
-- [Navigating the Maze of Web Development Frameworks](https://dev.to/scofieldidehen/navigating-the-maze-of-web-development-frameworks-2cd2)
-- [External vectorization](https://dev.to/neuml/external-vectorization-5ebi)
 <!-- BLOG-POST-LIST:END -->
 
