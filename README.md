@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed Up Your Ruby on Rails Application with LiteCache](https://dev.to/appsignal/speed-up-your-ruby-on-rails-application-with-litecache-488l)
+- [How Do You Overcome Leadership Loneliness?](https://dev.to/devteam/how-do-you-overcome-leadership-loneliness-11jb)
+- [Scraping Websites With Python Scrapy Spiders](https://dev.to/scofieldidehen/scraping-websites-with-python-scrapy-spiders-57f8)
 - [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
-- [15 Google Drive Alternatives](https://dev.to/sh20raj/15-google-drive-alternatives-2140)
-- [Codes20 - Codepen Alternative](https://dev.to/sh20raj/codepen-alternative-codes20-16i6)
-- [How to use redis with node.js](https://dev.to/divine_nnanna2/how-to-use-redis-with-nodejs-14id)
 <!-- BLOG-POST-LIST:END -->
 
