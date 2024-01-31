@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Por que a sua desorganização financeira vai acabar com a sua carreira de dev!](https://dev.to/alexdlli/por-que-a-sua-desorganizacao-financeira-vai-acabar-com-a-sua-carreira-de-dev-5egh)
 - [Use CSS accent-color to style your inputs](https://dev.to/cassidoo/use-css-accent-color-to-style-your-inputs-54fk)
 - [&quot;Optimizing Data Redundancy: 🚀 A Deep Dive into Cross-Region Replication Using Amazon S3 Batch Operation 🔄&quot;](https://dev.to/aws-builders/optimizing-data-redundancy-a-deep-dive-into-cross-region-replication-using-amazon-s3-batch-operation--723)
-- [How to make GPT-4 to write a good code for you](https://dev.to/furkangozukara/how-to-make-gpt-4-to-write-a-good-code-for-you-240o)
-- [Sending Emails Made Easy Integrating Nodemailer with Reactjs](https://dev.to/scofieldidehen/sending-emails-made-easy-integrating-nodemailer-with-reactjs-2hl7)
+- [DevRel Discussions](https://dev.to/lizzzzz/devrel-discussions-aef)
 <!-- BLOG-POST-LIST:END -->
 
