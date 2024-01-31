@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to stay Motivated while Coding](https://dev.to/alteca/how-to-stay-motivated-while-coding-33ge)
-- [How to get a job as a web developer](https://dev.to/codewithshahan/how-to-get-a-job-as-a-web-developer-1fo1)
-- [The ABCs of Cloud Computing and DevOps: What You Need to Know](https://dev.to/codingcrafts/the-abcs-of-cloud-computing-and-devops-what-you-need-to-know-55jn)
-- [Book Club: Eloquent JavaScript. 4 Programme Structure and Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-programme-structure-5ea8)
+- [Git Rebase vs. Merge Secrets](https://dev.to/hichem_fantar/git-rebase-vs-merge-secrets-4p75)
+- [next&lpar;&rpar;](https://dev.to/mustafacam/next-gp8)
+- [Meet &#39;Awesome Topics&#39;](https://dev.to/mahmoudz/meet-awesome-topics-mkk)
+- [A guide to enabling partial pre-rendering in Next.js](https://dev.to/logrocket/a-guide-to-enabling-partial-pre-rendering-in-nextjs-127h)
 <!-- BLOG-POST-LIST:END -->
 
