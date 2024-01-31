@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a CRUD Todo App with TypeScript and Fetch API](https://dev.to/kells/build-a-crud-todo-app-with-typescript-and-fetch-api-27e7)
-- [Tutorial: Build a contact form with NextJS and BCMS](https://dev.to/momciloo/tutorial-build-a-contact-form-with-nextjs-and-bcms-m5o)
-- [Join Virtual Coffee in the Month of Learning Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-month-of-learning-challenge-bdi)
-- [Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀](https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n)
+- [How to stay Motivated while Coding](https://dev.to/alteca/how-to-stay-motivated-while-coding-33ge)
+- [How to get a job as a web developer](https://dev.to/codewithshahan/how-to-get-a-job-as-a-web-developer-1fo1)
+- [The ABCs of Cloud Computing and DevOps: What You Need to Know](https://dev.to/codingcrafts/the-abcs-of-cloud-computing-and-devops-what-you-need-to-know-55jn)
+- [Book Club: Eloquent JavaScript. 4 Programme Structure and Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-programme-structure-5ea8)
 <!-- BLOG-POST-LIST:END -->
 
