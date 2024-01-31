@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Customize the Browser&#39;s Scrollbar with CSS](https://dev.to/sh20raj/how-to-customize-the-browsers-scrollbar-with-css-1443)
 - [13 Mind-Blowing CSS Tricks for Web Design Wizards ✨](https://dev.to/sh20raj/13-mind-blowing-css-tricks-for-web-design-wizards-3b4e)
 - [How to Add Preloader in HTML Page](https://dev.to/sh20raj/how-to-add-preloader-in-html-page-1koc)
 - [SES Observability with CDK + TS](https://dev.to/aws-builders/ses-observability-with-cdk-ts-1oop)
-- [Interview Question MongoDB](https://dev.to/avinashrepo/interview-question-mongodb-2oii)
 <!-- BLOG-POST-LIST:END -->
 
