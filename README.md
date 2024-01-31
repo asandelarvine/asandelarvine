@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q a new generative AI-powered assistant By AWS](https://dev.to/aws-builders/amazon-q-a-new-generative-ai-powered-assistant-by-aws-1i62)
-- [Handling Exceptions to impress in your Tech Interview](https://dev.to/lukeskw/handling-exceptions-to-impress-in-your-tech-interview-4hmf)
-- [Git Rebase vs. Merge Secrets](https://dev.to/hichem_fantar/git-rebase-vs-merge-secrets-4p75)
-- [AI for Web Devs: Addressing Bugs, Security, &amp; Reliability](https://dev.to/austingil/ai-for-web-devs-addressing-bugs-security-reliability-4jnm)
+- [Removing React is just weakness leaving your codebase](https://dev.to/begin/removing-react-is-just-weakness-leaving-your-codebase-4pin)
+- [How to Recover Locally Deleted Files From Github](https://dev.to/alanscodelog/how-to-recover-locally-deleted-files-from-github-147k)
+- [Nx FullStack: Angular + NestJS](https://dev.to/matheusriann/nx-fullstack-angular-nestjs-5gfn)
+- [Cómo Integrar un Componente React en WordPress con Elementor: Mi Experiencia y Solución](https://dev.to/mendozalz/como-integrar-un-componente-react-en-wordpress-con-elementor-mi-experiencia-y-solucion-26c8)
 <!-- BLOG-POST-LIST:END -->
 
