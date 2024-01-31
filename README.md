@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Speed Up Your Ruby on Rails Application with LiteCache](https://dev.to/appsignal/speed-up-your-ruby-on-rails-application-with-litecache-488l)
-- [How Do You Overcome Leadership Loneliness?](https://dev.to/devteam/how-do-you-overcome-leadership-loneliness-11jb)
-- [Scraping Websites With Python Scrapy Spiders](https://dev.to/scofieldidehen/scraping-websites-with-python-scrapy-spiders-57f8)
-- [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
+- [Build a CRUD Todo App with TypeScript and Fetch API](https://dev.to/kells/build-a-crud-todo-app-with-typescript-and-fetch-api-27e7)
+- [Tutorial: Build a contact form with NextJS and BCMS](https://dev.to/momciloo/tutorial-build-a-contact-form-with-nextjs-and-bcms-m5o)
+- [Join Virtual Coffee in the Month of Learning Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-month-of-learning-challenge-bdi)
+- [Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀](https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n)
 <!-- BLOG-POST-LIST:END -->
 
