@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [2024&#39;s Top Web Design Trends: Stay Ahead of the Curve](https://dev.to/ackomjnr/2024s-top-web-design-trends-stay-ahead-of-the-curve-45dn)
 - [Por que a sua desorganização financeira vai acabar com a sua carreira de dev!](https://dev.to/alexdlli/por-que-a-sua-desorganizacao-financeira-vai-acabar-com-a-sua-carreira-de-dev-5egh)
 - [Use CSS accent-color to style your inputs](https://dev.to/cassidoo/use-css-accent-color-to-style-your-inputs-54fk)
 - [&quot;Optimizing Data Redundancy: 🚀 A Deep Dive into Cross-Region Replication Using Amazon S3 Batch Operation 🔄&quot;](https://dev.to/aws-builders/optimizing-data-redundancy-a-deep-dive-into-cross-region-replication-using-amazon-s3-batch-operation--723)
-- [DevRel Discussions](https://dev.to/lizzzzz/devrel-discussions-aef)
 <!-- BLOG-POST-LIST:END -->
 
