@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Q a new generative AI-powered assistant By AWS](https://dev.to/aws-builders/amazon-q-a-new-generative-ai-powered-assistant-by-aws-1i62)
+- [Handling Exceptions to impress in your Tech Interview](https://dev.to/lukeskw/handling-exceptions-to-impress-in-your-tech-interview-4hmf)
 - [Git Rebase vs. Merge Secrets](https://dev.to/hichem_fantar/git-rebase-vs-merge-secrets-4p75)
-- [next&lpar;&rpar;](https://dev.to/mustafacam/next-gp8)
-- [Meet &#39;Awesome Topics&#39;](https://dev.to/mahmoudz/meet-awesome-topics-mkk)
-- [A guide to enabling partial pre-rendering in Next.js](https://dev.to/logrocket/a-guide-to-enabling-partial-pre-rendering-in-nextjs-127h)
+- [AI for Web Devs: Addressing Bugs, Security, &amp; Reliability](https://dev.to/austingil/ai-for-web-devs-addressing-bugs-security-reliability-4jnm)
 <!-- BLOG-POST-LIST:END -->
 
