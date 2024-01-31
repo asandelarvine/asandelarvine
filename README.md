@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [11 Slides CTOs Must Present In Their Next Board Meeting](https://dev.to/hatica/11-slides-ctos-must-present-in-their-next-board-meeting-4md7)
+- [Level Up Your Data Management Game: Unleash Performance in Aurora Limitless](https://dev.to/danc/level-up-your-data-management-game-unleash-performance-in-aurora-limitless-4eja)
 - [1-Click to Generating Server Stubs&amp; Client SDKs from API Spec](https://dev.to/chioka_shimizu/1-click-to-generating-server-stubs-client-sdks-from-api-spec-10pg)
 - [What does a Computer Science and Engineering degree teach you?](https://dev.to/nandinishinduja/what-does-a-computer-science-and-engineering-degree-teach-you-dhm)
-- [Markdown as Fast as Possible](https://dev.to/jimajs/markdown-as-fast-as-possible-2nhg)
-- [OP - Episode 11: Reflections of Regret](https://dev.to/iamsh/op-episode-11-reflections-of-regret-201i)
 <!-- BLOG-POST-LIST:END -->
 
