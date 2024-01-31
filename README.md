@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What to do if the query calculation is moved out of database but is too slow using java](https://dev.to/esproc_spl/what-to-do-if-the-query-calculation-is-moved-out-of-database-but-is-too-slow-using-java-4j86)
+- [Help us win the streak - Vote SuprSend](https://dev.to/nikl/help-us-win-the-streak-vote-suprsend-1ii6)
+- [Implementing Saga Pattern in Microservices with .NET Core: A Practical Guide](https://dev.to/yogini16/implementing-saga-pattern-in-microservices-with-net-core-a-practical-guide-5h54)
 - [How To Customize the Browser&#39;s Scrollbar with CSS](https://dev.to/sh20raj/how-to-customize-the-browsers-scrollbar-with-css-1443)
-- [13 Mind-Blowing CSS Tricks for Web Design Wizards ✨](https://dev.to/sh20raj/13-mind-blowing-css-tricks-for-web-design-wizards-3b4e)
-- [How to Add Preloader in HTML Page](https://dev.to/sh20raj/how-to-add-preloader-in-html-page-1koc)
-- [SES Observability with CDK + TS](https://dev.to/aws-builders/ses-observability-with-cdk-ts-1oop)
 <!-- BLOG-POST-LIST:END -->
 
