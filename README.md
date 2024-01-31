@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Removing React is just weakness leaving your codebase](https://dev.to/begin/removing-react-is-just-weakness-leaving-your-codebase-4pin)
-- [How to Recover Locally Deleted Files From Github](https://dev.to/alanscodelog/how-to-recover-locally-deleted-files-from-github-147k)
-- [Nx FullStack: Angular + NestJS](https://dev.to/matheusriann/nx-fullstack-angular-nestjs-5gfn)
-- [Cómo Integrar un Componente React en WordPress con Elementor: Mi Experiencia y Solución](https://dev.to/mendozalz/como-integrar-un-componente-react-en-wordpress-con-elementor-mi-experiencia-y-solucion-26c8)
+- [Best Free and Paid GitHub Copilot Alternatives](https://dev.to/get_pieces/best-free-and-paid-github-copilot-alternatives-4mbe)
+- [Supercharging Localization in VS Code with inlang](https://dev.to/felixhaeberle/supercharging-localization-in-vs-code-with-inlang-2ii6)
+- [Writing a REST API in Rust](https://dev.to/shuttle_dev/writing-a-rest-api-in-rust-5f2m)
+- [Restful API Testing &lpar;my way&rpar; with Express, Maria DB, Docker Compose and Github Action](https://dev.to/lico/restful-api-testing-my-way-with-express-maria-db-docker-compose-and-github-action-1g0p)
 <!-- BLOG-POST-LIST:END -->
 
