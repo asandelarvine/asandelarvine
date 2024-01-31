@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [1-Click to Generating Server Stubs&amp; Client SDKs from API Spec](https://dev.to/chioka_shimizu/1-click-to-generating-server-stubs-client-sdks-from-api-spec-10pg)
+- [What does a Computer Science and Engineering degree teach you?](https://dev.to/nandinishinduja/what-does-a-computer-science-and-engineering-degree-teach-you-dhm)
+- [Markdown as Fast as Possible](https://dev.to/jimajs/markdown-as-fast-as-possible-2nhg)
 - [OP - Episode 11: Reflections of Regret](https://dev.to/iamsh/op-episode-11-reflections-of-regret-201i)
-- [OP- Episode 10: Echoes of Forgiveness](https://dev.to/iamsh/op-episode-10-echoes-of-forgiveness-bnm)
-- [Building NLP chatbots with PyTorch](https://dev.to/scofieldidehen/building-nlp-chatbots-with-pytorch-4o23)
-- [OP - Episode 9: Shadows of Doubt](https://dev.to/iamsh/op-episode-9-shadows-of-doubt-3jho)
 <!-- BLOG-POST-LIST:END -->
 
