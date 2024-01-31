@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing User Experience With Innovative Web Design Trends](https://dev.to/rajatp/enhancing-user-experience-with-innovative-web-design-trends-4mh3)
-- [UI for K8s - 👍🏻 / 👎🏻 ?](https://dev.to/cyclops-ui/ui-for-k8s--3eoj)
-- [How to Edit and Customize Your WordPress Theme?](https://dev.to/kemuhost/how-to-edit-and-customize-your-wordpress-theme-2hah)
-- [Responsible AI For Developers: Resources For Self-Guided Learning](https://dev.to/azure/responsible-ai-for-developers-resources-for-self-guided-learning-3lf9)
+- [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
+- [15 Google Drive Alternatives](https://dev.to/sh20raj/15-google-drive-alternatives-2140)
+- [Codes20 - Codepen Alternative](https://dev.to/sh20raj/codepen-alternative-codes20-16i6)
+- [How to use redis with node.js](https://dev.to/divine_nnanna2/how-to-use-redis-with-nodejs-14id)
 <!-- BLOG-POST-LIST:END -->
 
