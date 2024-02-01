@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prepress Services UK: Hire Professionals For Printing Projects](https://dev.to/chris_h/prepress-services-uk-hire-professionals-for-printing-projects-5780)
+- [Silly Javascript, says true when asked if &lpar;0 == -null&rpar;; here&#39;s why...](https://dev.to/fahadachaudhry/silly-javascript-says-true-when-asked-if-0-null-heres-why-59l4)
+- [30 Bootstrap Navbar Examples](https://dev.to/sh20raj/30-bootstrap-navbar-examples-5ehk)
+- [Prepress Services UK: Hire Professionals For Printing Projects](https://dev.to/alphabpo/prepress-services-uk-hire-professionals-for-printing-projects-5780)
 - [Leveraging Free Templates for Website Development](https://dev.to/templatesjungle/leveraging-free-templates-for-website-development-5g6a)
-- [Top Sites to Get Remote Role in 2024](https://dev.to/scofieldidehen/top-sites-to-get-remote-role-in-2024-730)
-- [Introducing EOSAV: A Free and Open-Source Antivirus for Everyone](https://dev.to/aliftech/introducing-eosav-a-free-and-open-source-antivirus-for-everyone-bkg)
 <!-- BLOG-POST-LIST:END -->
 
