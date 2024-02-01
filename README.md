@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing CrabNebula Cloud](https://dev.to/crabnebula/announcing-crabnebula-cloud-15hp)
-- [Crafting Custom Platforms in a Cloudy World ☁️](https://dev.to/winglang/crafting-custom-platforms-in-a-cloudy-world-3ib1)
-- [Sum of the diagonals of a matrice](https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f)
-- [Game Development and Multimedia: Godot Engine, A Game-Changer in Game Development](https://dev.to/opensauced/game-development-and-multimedia-godot-engine-a-game-changer-in-game-development-20l7)
+- [How to get promoted at your software job](https://dev.to/nandinishinduja/how-to-get-promoted-at-your-software-job-48gd)
+- [How to build an eCommerce website and integrating Email notification only using open source tools](https://dev.to/osadavc/how-to-build-an-ecommerce-website-and-integrating-email-notification-only-using-open-source-tools-18hi)
+- [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
+- [10 Organizations to Support for Black History Month](https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0)
 <!-- BLOG-POST-LIST:END -->
 
