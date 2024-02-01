@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Computer: Use Serverless to Build Your First AI-OS App](https://dev.to/dawiddahl/the-new-computer-use-serverless-to-build-your-first-ai-os-app-409)
-- [How to Secure Your Network from Hackers?](https://dev.to/kemuhost/how-to-secure-your-network-from-hackers-3p9i)
-- [🚀 API Maker : Release Notes for v1.2.0](https://dev.to/apimaker/api-maker-release-notes-for-v120-5eof)
-- [Review: Logitech Litra Glow Premium LED Streaming Light with TrueSoft](https://dev.to/nickytonline/review-logitech-litra-glow-premium-led-streaming-light-with-truesoft-2p60)
+- [Discovery needs context](https://dev.to/qdrant/discovery-needs-context-45l)
+- [The Future of Staying Healthy: 10 Ways IOT Make Care Easier!](https://dev.to/devella/the-future-of-staying-healthy-10-ways-iot-make-care-easier-3g01)
+- [Automated Backups Made Easy: &amp; Lessons Learned From This Project](https://dev.to/stanleyogada/automated-backups-made-easy-lessons-learned-from-this-project-44h4)
+- [Career Paths in Front-End Development: Navigating the Opportunities](https://dev.to/hyscaler/career-paths-in-front-end-development-navigating-the-opportunities-d8p)
 <!-- BLOG-POST-LIST:END -->
 
