@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c)
+- [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
 - [Silly Javascript, says true when asked if &lpar;0 == -null&rpar;; here&#39;s why...](https://dev.to/fahadachaudhry/silly-javascript-says-true-when-asked-if-0-null-heres-why-59l4)
 - [30 Bootstrap Navbar Examples](https://dev.to/sh20raj/30-bootstrap-navbar-examples-5ehk)
-- [Prepress Services UK: Hire Professionals For Printing Projects](https://dev.to/alphabpo/prepress-services-uk-hire-professionals-for-printing-projects-5780)
-- [Leveraging Free Templates for Website Development](https://dev.to/templatesjungle/leveraging-free-templates-for-website-development-5g6a)
 <!-- BLOG-POST-LIST:END -->
 
