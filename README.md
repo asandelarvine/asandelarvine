@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Cybersecurity into AI Software Development on Kubernetes: Key Takeaways from Andrew Martin](https://dev.to/nikitakoselev/integrating-cybersecurity-into-ai-software-development-on-kubernetes-key-takeaways-from-andrew-martin-m55)
+- [Supercharging React Performance: Best Tips and Tools](https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0)
 - [Fundamentals of Site Reliability Engineering](https://dev.to/sre_panchanan/fundamentals-of-site-reliability-engineering-373l)
 - [React: It&#39;s Not Rocket Science.](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m)
-- [Working with Zed for a week](https://dev.to/benmatselby/working-with-zed-for-a-week-kk5)
-- [Optimize your IPv4 workloads in AWS and save money on the way!](https://dev.to/aws-builders/optimize-your-ipv4-workloads-in-aws-and-save-money-on-the-way-26pm)
 <!-- BLOG-POST-LIST:END -->
 
