@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🛡️4 Top Database Security Tools in 2024 🏆🔥](https://dev.to/bytebase/4-top-database-security-tools-22jj)
+- [WebScrapperJS - Get Content/HTML of any website without being blocked by CORS even using JavaScript by WhollyAPI](https://dev.to/sh20raj/webscrapperjs-get-contenthtml-of-any-website-without-being-blocked-by-cors-even-using-javascript-by-whollyapi-4fl0)
+- [Barrel files: A case study](https://dev.to/thepassle/barrel-files-a-case-study-o5p)
 - [Improving upon my OpenTelemetry Tracing demo](https://dev.to/apisix/improving-upon-my-opentelemetry-tracing-demo-1bjj)
-- [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c)
-- [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
-- [Resize Image Uploads with Phoenix LiveView](https://dev.to/andersbjorkland/resize-image-uploads-with-phoenix-liveview-589n)
 <!-- BLOG-POST-LIST:END -->
 
