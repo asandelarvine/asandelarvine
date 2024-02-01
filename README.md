@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion of the Week: &quot;What are your best tips to create a developer portfolio?&quot;](https://dev.to/devteam/discussion-of-the-week-what-are-your-best-tips-to-create-a-developer-portfolio-2jo4)
+- [Ok Boomer! Instant GitHub Repo Creation in One Command 🚀](https://dev.to/tofudotdev/ok-boomer-instant-github-repo-creation-in-one-command-1cd)
 - [Integrating Cybersecurity into AI Software Development on Kubernetes: Key Takeaways from Andrew Martin](https://dev.to/nikitakoselev/integrating-cybersecurity-into-ai-software-development-on-kubernetes-key-takeaways-from-andrew-martin-m55)
 - [Supercharging React Performance: Best Tips and Tools](https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0)
-- [Fundamentals of Site Reliability Engineering](https://dev.to/sre_panchanan/fundamentals-of-site-reliability-engineering-373l)
-- [React: It&#39;s Not Rocket Science.](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m)
 <!-- BLOG-POST-LIST:END -->
 
