@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get promoted at your software job](https://dev.to/nandinishinduja/how-to-get-promoted-at-your-software-job-48gd)
-- [How to build an eCommerce website and integrating Email notification only using open source tools](https://dev.to/osadavc/how-to-build-an-ecommerce-website-and-integrating-email-notification-only-using-open-source-tools-18hi)
-- [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
-- [10 Organizations to Support for Black History Month](https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0)
+- [We&#39;re hiring!](https://dev.to/surrealdb/were-hiring-lgn)
+- [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
+- [Using Azure OpenAI Service to generate images with DALL-E in .NET](https://dev.to/esdanielgomez/using-azure-openai-service-to-generate-images-with-dall-e-in-net-49n9)
+- [Visual Generated Blogging](https://dev.to/adam_cyclones/visual-generated-blogging-58c4)
 <!-- BLOG-POST-LIST:END -->
 
