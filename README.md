@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 15 Essential Tools for macOS App Development: Unleashing Creativity and Efficiency](https://dev.to/happyer/top-15-essential-tools-for-macos-app-development-unleashing-creativity-and-efficiency-131k)
+- [The Steve Jobs-era Vision Pro sketches](https://dev.to/ben/the-steve-jobs-era-vision-pro-sketches-2bg9)
+- [9 best Git-based CMS platforms for your next project](https://dev.to/logrocket/9-best-git-based-cms-platforms-for-your-next-project-7ka)
 - [Should you learn web development in 2024?](https://dev.to/ali-al-khuwaja/should-you-learn-web-development-in-2024-4dke)
-- [Programming Memes 😅](https://dev.to/sh20raj/programming-memes-3569)
-- [Engineering Bolt ⚡: #3 Friday Developer Fun 👻](https://dev.to/alexr/engineering-bolt-3-friday-developer-fun-230k)
-- [10 Hacks to Find a Remote Job in 2024](https://dev.to/scofieldidehen/10-hacks-to-find-a-remote-job-in-2024-35pc)
 <!-- BLOG-POST-LIST:END -->
 
