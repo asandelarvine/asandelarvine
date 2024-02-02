@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Curse of Motivation](https://dev.to/hasanelsherbiny/the-curse-of-motivation-ked)
 - [How to Manage Variables Configuration in a PowerShell Project](https://dev.to/this-is-learning/how-to-manage-variables-configuration-in-a-powershell-project-59cn)
 - [⟨ Cursor.sh ⟩ - a competitor to GitHub CoPilot](https://dev.to/maximsaplin/-cursorsh-a-competitor-to-github-copilot-58k4)
 - [Bianca Trinkenreich vence o Prêmio SIGSOFT 2024 na categoria Tese de Doutorado de Destaque](https://dev.to/fronteirases/bianca-trinkenreich-vence-o-premio-sigsoft-2024-na-categoria-tese-de-doutorado-de-destaque-14e)
-- [SOLID Principles: They&#39;re Rock-Solid for Good Reason!](https://dev.to/lukeskw/solid-principles-theyre-rock-solid-for-good-reason-31hn)
 <!-- BLOG-POST-LIST:END -->
 
