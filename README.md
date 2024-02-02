@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top 10 CSS Frameworks for 2024](https://dev.to/sh20raj/the-top-10-css-frameworks-for-2024-431l)
 - [How to Remove or Extract Metadata from Markdown Files in JavaScript](https://dev.to/sh20raj/how-to-remove-or-extract-metadata-from-markdown-files-in-javascript-424c)
 - [NoteYard - Piano Notes | Keyboard Notes](https://dev.to/sh20raj/noteyard-piano-notes-keyboard-notes-363)
 - [Despidiéndome de Console.log](https://dev.to/altaskur/despidiendome-de-consolelog-5a6a)
-- [AI Grant Traction in OSS Startups](https://dev.to/opensauced/ai-grant-traction-in-oss-startups-20aa)
 <!-- BLOG-POST-LIST:END -->
 
