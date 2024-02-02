@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NoteYard - Piano Notes | Keyboard Notes](https://dev.to/sh20raj/noteyard-piano-notes-keyboard-notes-363)
+- [AI Grant Traction in OSS Startups](https://dev.to/opensauced/ai-grant-traction-in-oss-startups-20aa)
 - [Discussion of the Week: &quot;What are your best tips to create a developer portfolio?&quot;](https://dev.to/devteam/discussion-of-the-week-what-are-your-best-tips-to-create-a-developer-portfolio-2jo4)
 - [Ok Boomer! Instant GitHub Repo Creation in One Command 🚀](https://dev.to/tofudotdev/ok-boomer-instant-github-repo-creation-in-one-command-1cd)
-- [Integrating Cybersecurity into AI Software Development on Kubernetes: Key Takeaways from Andrew Martin](https://dev.to/nikitakoselev/integrating-cybersecurity-into-ai-software-development-on-kubernetes-key-takeaways-from-andrew-martin-m55)
-- [Supercharging React Performance: Best Tips and Tools](https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0)
 <!-- BLOG-POST-LIST:END -->
 
