@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Google Drive handles HUGE File Uploads 🔥🔥](https://dev.to/codeparrot/how-google-drive-handles-huge-file-uploads-4c58)
+- [Migrating from Supabase and Prisma Accelerate to Convex](https://dev.to/ricardogesteves/migrating-from-supabase-and-prisma-accelerate-to-convex-jdk)
 - [60+ Amazing Free HTML Bootstrap Starter Templates to Jumpstart Your Projects](https://dev.to/purnimashrestha/60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi)
 - [What Is Really A Senior Developer: Core Principles](https://dev.to/dragosnedelcu/what-is-really-a-senior-developer-core-principles-2dgm)
-- [Tailwind CSS vs Foundation: A Comparison of CSS Frameworks](https://dev.to/sikirumomodu/tailwind-css-vs-foundation-a-comparison-of-css-frameworks-47k7)
-- [Ripple Co-Founder Chris Larsen Hacked For $112 Million](https://dev.to/endeo/ripple-co-founder-chris-larsen-hacked-for-112-million-371e)
 <!-- BLOG-POST-LIST:END -->
 
