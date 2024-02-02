@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Google Drive handles HUGE File Uploads 🔥🔥](https://dev.to/codeparrot/how-google-drive-handles-huge-file-uploads-4c58)
-- [Migrating from Supabase and Prisma Accelerate to Convex](https://dev.to/ricardogesteves/migrating-from-supabase-and-prisma-accelerate-to-convex-jdk)
-- [60+ Amazing Free HTML Bootstrap Starter Templates to Jumpstart Your Projects](https://dev.to/purnimashrestha/60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi)
-- [What Is Really A Senior Developer: Core Principles](https://dev.to/dragosnedelcu/what-is-really-a-senior-developer-core-principles-2dgm)
+- [Should you learn web development in 2024?](https://dev.to/ali-al-khuwaja/should-you-learn-web-development-in-2024-4dke)
+- [Programming Memes 😅](https://dev.to/sh20raj/programming-memes-3569)
+- [Engineering Bolt ⚡: #3 Friday Developer Fun 👻](https://dev.to/alexr/engineering-bolt-3-friday-developer-fun-230k)
+- [10 Hacks to Find a Remote Job in 2024](https://dev.to/scofieldidehen/10-hacks-to-find-a-remote-job-in-2024-35pc)
 <!-- BLOG-POST-LIST:END -->
 
