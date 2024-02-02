@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an Advanced Contact Form in React with Nodemailer](https://dev.to/scofieldidehen/build-an-advanced-contact-form-in-react-with-nodemailer-53f7)
+- [Elevating Customer Support With a LLM Whatsapp Travel Assistant.](https://dev.to/aws/elevating-customer-support-with-a-llm-whatsapp-travel-assistant-2f64)
 - [Top 15 Essential Tools for macOS App Development: Unleashing Creativity and Efficiency](https://dev.to/happyer/top-15-essential-tools-for-macos-app-development-unleashing-creativity-and-efficiency-131k)
 - [The Steve Jobs-era Vision Pro sketches](https://dev.to/ben/the-steve-jobs-era-vision-pro-sketches-2bg9)
-- [9 best Git-based CMS platforms for your next project](https://dev.to/logrocket/9-best-git-based-cms-platforms-for-your-next-project-7ka)
-- [Should you learn web development in 2024?](https://dev.to/ali-al-khuwaja/should-you-learn-web-development-in-2024-4dke)
 <!-- BLOG-POST-LIST:END -->
 
