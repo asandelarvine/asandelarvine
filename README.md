@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS vs Foundation: A Comparison of CSS Frameworks](https://dev.to/sikirumomodu/tailwind-css-vs-foundation-a-comparison-of-css-frameworks-47k7)
+- [Introducing Glasskube🧊 — The Missing Package Manager For Kubernetes 📦](https://dev.to/glasskube/introducing-glasskube-the-missing-package-manager-for-kubernetes-1dfi)
 - [ParseMark.js - A lightweight JavaScript library for parsing Markdown metadata and content separately](https://dev.to/sh20raj/parsemarkjs-a-lightweight-javascript-library-for-parsing-markdown-metadata-and-content-separately-1o6j)
 - [Apache APISIX vs NGINX](https://dev.to/apisix/apache-apisix-vs-nginx-5h79)
-- [Hooking-up a headless CMS to React apps](https://dev.to/flotiq/hooking-up-a-headless-cms-to-react-apps-19d6)
-- [A simple guide to addressing single point of failure &lpar;SPOF&rpar; while evaluating external tools](https://dev.to/fyno/a-simple-guide-to-addressing-single-point-of-failure-spof-while-evaluating-external-tools-49k9)
 <!-- BLOG-POST-LIST:END -->
 
