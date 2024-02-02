@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [NoteYard - Piano Notes | Keyboard Notes](https://dev.to/sh20raj/noteyard-piano-notes-keyboard-notes-363)
+- [Despidiéndome de Console.log](https://dev.to/altaskur/despidiendome-de-consolelog-5a6a)
 - [AI Grant Traction in OSS Startups](https://dev.to/opensauced/ai-grant-traction-in-oss-startups-20aa)
-- [Event Driven Processing of ip-ranges.json](https://dev.to/mbacchi/event-driven-processing-of-ip-rangesjson-16i1)
-- [Loading.... Suspense](https://dev.to/bealecs/loading-suspense-6hp)
+- [How To Easily Make Your .NET AWS Lambda Function Idempotent](https://dev.to/rahulpnath/how-to-easily-make-your-net-aws-lambda-function-idempotent-4ij7)
 <!-- BLOG-POST-LIST:END -->
 
