@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Go Generics](https://dev.to/vivekalhat/demystifying-go-generics-5881)
+- [Unleashing the Power of PHP 8 Match Expression](https://dev.to/jeevanizm/unleashing-the-power-of-php-8-match-expression-38i6)
+- [Streamlining Role-Based Access Control in Next.js with Descope and Auth.js: A Step-by-Step Guide](https://dev.to/tmosko/streamlining-role-based-access-control-in-nextjs-with-descope-and-authjs-a-step-by-step-guide-hf5)
 - [Build Chat PDF app in Python with LangChain, OpenAI, Streamlit | Full project | Learn Coding](https://dev.to/imrankh13332994/build-chat-pdf-app-in-python-with-langchain-openai-streamlit-full-project-learn-coding-2ii9)
-- [Hashnode Blog GitHub Action - fetch and display the latest blogs in a nice format](https://dev.to/sachinchaurasiya/hashnode-blog-github-action-fetch-and-display-the-latest-blogs-in-a-nice-format-4f25)
-- [How Do You Declare Custom Classes in a Tailwindcss-React-ts project?](https://dev.to/hossain45/how-do-you-declare-custom-classes-in-a-tailwindcss-react-ts-project-1jag)
-- [Cloudflare Pages NextJs + D1 Database ᐧ My experience developing sharejson](https://dev.to/shrihari/cloudflare-pages-nextjs-d1-database-w-my-experience-developing-sharejson-ma3)
 <!-- BLOG-POST-LIST:END -->
 
