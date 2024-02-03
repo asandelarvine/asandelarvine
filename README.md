@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding PromQL: A Deep Dive into Prometheus Query Language](https://dev.to/sre_panchanan/decoding-promql-a-deep-dive-into-prometheus-query-language-4h23)
-- [Inversion of Control &lpar;Design Principle&rpar; &amp; Dependency Injection &lpar;Design Pattern&rpar;](https://dev.to/shameel/inversion-of-control-design-principle-dependency-injection-design-pattern-51c0)
-- [Git Good: Best Practices for Branch Naming and Commit Messages](https://dev.to/shinjithdev/git-good-best-practices-for-branch-naming-and-commit-messages-oj4)
-- [Real-world Prometheus Deployment: A Practical Guide for Kubernetes Monitoring](https://dev.to/sre_panchanan/real-world-prometheus-deployment-a-practical-guide-for-kubernetes-monitoring-49nd)
+- [Numpy Cheetsheet](https://dev.to/jagroop2001/numpy-cheetsheet-168o)
+- [🪝 Custom Hooks](https://dev.to/jorjishasan/custom-hooks-kp8)
+- [Boost Your Solidity Development Game with VS Code The Ultimate Setup Guide](https://dev.to/scofieldidehen/boost-your-solidity-development-game-with-vs-code-the-ultimate-setup-guide-37fa)
+- [Deply Node app with github action Automatically](https://dev.to/awalhossain/deply-node-app-with-github-action-automatically-52d5)
 <!-- BLOG-POST-LIST:END -->
 
