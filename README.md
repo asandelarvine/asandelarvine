@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Numpy Cheetsheet](https://dev.to/jagroop2001/numpy-cheetsheet-168o)
-- [🪝 Custom Hooks](https://dev.to/jorjishasan/custom-hooks-kp8)
-- [Boost Your Solidity Development Game with VS Code The Ultimate Setup Guide](https://dev.to/scofieldidehen/boost-your-solidity-development-game-with-vs-code-the-ultimate-setup-guide-37fa)
-- [Deply Node app with github action Automatically](https://dev.to/awalhossain/deply-node-app-with-github-action-automatically-52d5)
+- [API completa em Golang - Parte 7](https://dev.to/wiliamvj/api-completa-em-golang-parte-7-4ekg)
+- [How to Install KVM on Ubuntu? A Complete Guide](https://dev.to/serversupportexperts/how-to-install-kvm-on-ubuntu-a-complete-guide-m52)
+- [What is Regression?](https://dev.to/m__mdy__m/what-is-regression-1gno)
+- [A Comprehensive Guide to Log Query Language&lpar;LogQL&rpar;](https://dev.to/sre_panchanan/a-comprehensive-guide-to-log-query-languagelogql-12a6)
 <!-- BLOG-POST-LIST:END -->
 
