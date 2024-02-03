@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-4a74)
-- [The Single Most Important Lesson I’ve Learned Working As A Software Engineer For 5+ Years](https://dev.to/_ndeyefatoudiop/the-single-most-important-lesson-ive-learned-working-as-a-software-engineer-for-5-years-169c)
-- [Scalable E-Commerce Architecture - Part 1: Inventory, Product and Search](https://dev.to/savyjs/scalable-e-commerce-architecture-part-1-inventory-product-and-search-18p8)
-- [The Curse of Motivation](https://dev.to/hasanelsherbiny/the-curse-of-motivation-ked)
+- [Introduction to Spring Scheduled and monitoring the task with Spring Actuator ️🕛️📈️](https://dev.to/ichwansh/introduction-to-spring-scheduled-and-monitoring-the-task-with-spring-actuator-5emj)
+- [Exploring Thanos Kube Chaos - A Kubernetes Chaos Engineering Tool](https://dev.to/angu10/exploring-thanos-kube-chaos-a-kubernetes-chaos-engineering-tool-2ld2)
+- [State Management in Angular with NgRx](https://dev.to/kartikmehta8/state-management-in-angular-with-ngrx-42fc)
+- [Top 5 Productivity tools for 2024 for Developers](https://dev.to/durgesh4993/top-5-productivity-tools-for-2024-for-developers-2hhp)
 <!-- BLOG-POST-LIST:END -->
 
