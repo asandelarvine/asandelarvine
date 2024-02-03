@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mac keyboard shortcuts](https://dev.to/sh20raj/mac-keyboard-shortcuts-5gdh)
-- [Blogger Post Title Parsing Error Issue](https://dev.to/sh20raj/blogger-post-title-parsing-error-issue-1cc7)
-- [A new product : Need Feedback](https://dev.to/rudransh61/a-new-product-need-feedback-2m77)
-- [Code/Syntax Highlighting Using highlight.js - Displaying Code on Website/Blogger with jsDelivr CDN](https://dev.to/sh20raj/codesyntax-highlighting-using-highlightjs-displaying-code-on-websiteblogger-with-jsdelivr-cdn-pfd)
+- [YouTube Thumbnail Downloader](https://dev.to/sh20raj/youtube-thumbnail-downloader-5ff8)
+- [Introducing Grafana Loki: A Log Aggregation Tool](https://dev.to/sre_panchanan/introducing-grafana-loki-a-log-aggregation-tool-1e49)
+- [Recommended Linters](https://dev.to/borysshulyak/recommended-linters-1pgd)
+- [10 Cool CodePen Demos &lpar;January 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2024-1keg)
 <!-- BLOG-POST-LIST:END -->
 
