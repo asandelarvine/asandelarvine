@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro is the best marketing campaign for Meta&#39;s Quest 3](https://dev.to/maximsaplin/apple-vision-pro-is-the-best-marketing-campaign-for-metas-quest-3-f6e)
 - [Demystifying Go Generics](https://dev.to/vivekalhat/demystifying-go-generics-5881)
 - [Unleashing the Power of PHP 8 Match Expression](https://dev.to/jeevanizm/unleashing-the-power-of-php-8-match-expression-38i6)
 - [Streamlining Role-Based Access Control in Next.js with Descope and Auth.js: A Step-by-Step Guide](https://dev.to/tmosko/streamlining-role-based-access-control-in-nextjs-with-descope-and-authjs-a-step-by-step-guide-hf5)
-- [Build Chat PDF app in Python with LangChain, OpenAI, Streamlit | Full project | Learn Coding](https://dev.to/imrankh13332994/build-chat-pdf-app-in-python-with-langchain-openai-streamlit-full-project-learn-coding-2ii9)
 <!-- BLOG-POST-LIST:END -->
 
