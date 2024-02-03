@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ArticlePlanet - Write, Learn and Share Stories with the world](https://dev.to/sh20raj/articleplanet-write-learn-and-share-stories-with-the-world-b3n)
 - [Introduction to Spring Scheduled and monitoring the task with Spring Actuator ️🕛️📈️](https://dev.to/ichwansh/introduction-to-spring-scheduled-and-monitoring-the-task-with-spring-actuator-5emj)
 - [Exploring Thanos Kube Chaos - A Kubernetes Chaos Engineering Tool](https://dev.to/angu10/exploring-thanos-kube-chaos-a-kubernetes-chaos-engineering-tool-2ld2)
 - [State Management in Angular with NgRx](https://dev.to/kartikmehta8/state-management-in-angular-with-ngrx-42fc)
-- [What Are Some Strategies for Achieving Team Alignment?](https://dev.to/devteam/what-are-some-strategies-for-achieving-team-alignment-21ji)
 <!-- BLOG-POST-LIST:END -->
 
