@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [End-to-end Flutter Architecture Guide](https://dev.to/yatendra2001/end-to-end-flutter-architecture-guide-1pbh)
+- [Introducing Prometheus: A Dive into Advanced System Monitoring 🚀](https://dev.to/sre_panchanan/introducing-prometheus-a-dive-into-advanced-system-monitoring-2hnj)
 - [ArticlePlanet - Write, Learn and Share Stories with the world](https://dev.to/sh20raj/articleplanet-write-learn-and-share-stories-with-the-world-b3n)
 - [JS ES6 Features](https://dev.to/avinashrepo/js-es6-features-2d4m)
-- [Introduction to Spring Scheduled and monitoring the task with Spring Actuator ️🕛️📈️](https://dev.to/ichwansh/introduction-to-spring-scheduled-and-monitoring-the-task-with-spring-actuator-5emj)
-- [Exploring Thanos Kube Chaos - A Kubernetes Chaos Engineering Tool](https://dev.to/angu10/exploring-thanos-kube-chaos-a-kubernetes-chaos-engineering-tool-2ld2)
 <!-- BLOG-POST-LIST:END -->
 
