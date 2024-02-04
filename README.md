@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Dive into the React Native Buzz! 🚀](https://dev.to/mitchiemt11/a-dive-into-the-react-native-buzz-bb5)
+- [Deploy app to AWS by using Serverless Framework](https://dev.to/laurenceho/deploy-app-to-aws-by-using-serverless-framework-2gen)
+- [Have You Met Redux Toolkit? A Friendly Companion for Simpler State Management in React 🤗!](https://dev.to/respect17/have-you-met-redux-toolkit-a-friendly-companion-for-simpler-state-management-in-react--4kpj)
 - [Taking an Open Source Project to Release 1.1 🚀](https://dev.to/amnish04/taking-an-open-source-project-to-release-11-2ngg)
-- [Apple Vision Pro is the best marketing campaign for Meta&#39;s Quest 3](https://dev.to/maximsaplin/apple-vision-pro-is-the-best-marketing-campaign-for-metas-quest-3-f6e)
-- [Demystifying Go Generics](https://dev.to/vivekalhat/demystifying-go-generics-5881)
-- [Unleashing the Power of PHP 8 Match Expression](https://dev.to/jeevanizm/unleashing-the-power-of-php-8-match-expression-38i6)
 <!-- BLOG-POST-LIST:END -->
 
