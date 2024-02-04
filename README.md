@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Minimize React Bundle Size for Faster Loading Times](https://dev.to/tanishk15sharma/how-to-minimize-react-bundle-size-for-faster-loading-times-1gfm)
+- [Top Soft Skills to Learn in 2024 for Career Development](https://dev.to/scofieldidehen/top-soft-skills-to-learn-in-2024-for-career-development-1mhf)
 - [Convert entire div data into image and save it into directory using JavaScript ft html2canvas.js](https://dev.to/sh20raj/convert-entire-div-data-into-image-and-save-it-into-directory-using-javascript-ft-html2canvasjs-b8k)
 - [Simplifying Data Analysis With AI and DevTools - for the non-Python developer!](https://dev.to/azure/simplifying-data-analysis-with-ai-and-devtools-for-the-non-python-developer-g94)
-- [C#: functional approaches explained solving one specific problem](https://dev.to/taqmuraz/c-functional-approaches-explained-solving-one-specific-problem-20k2)
-- [Unions &amp; std::variant in C++](https://dev.to/pauljlucas/unions-stdvariant-in-c-2op1)
 <!-- BLOG-POST-LIST:END -->
 
