@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Scientist Vs. Data Analyst: Which one fits you?](https://dev.to/evansifyke/data-scientist-vs-data-analyst-which-one-fits-you-2obb)
+- [Free High-Quality Photos, Videos, Music and More: A Guide to Royalty-Free Media](https://dev.to/sh20raj/free-high-quality-photos-videos-music-and-more-a-guide-to-royalty-free-media-148a)
 - [Generate Unlimited AI Images for Free Online](https://dev.to/sh20raj/generate-unlimited-ai-images-for-free-online-215h)
 - [🚀 DevSecOps ⚙️: &quot;Implementing OWASP Scanning on Maven Packages in AWS CodePipeline&quot;💭](https://dev.to/aws-builders/devsecops-implementing-owasp-scanning-on-maven-packages-in-aws-codepipeline-3cbf)
-- [Top 3 Exceptional Websites for Free Web Development Learning](https://dev.to/iamdoncarey/top-3-exceptional-websites-for-free-web-development-learning-5en5)
-- [A Dive into the React Native Buzz! 🚀](https://dev.to/mitchiemt11/a-dive-into-the-react-native-buzz-bb5)
 <!-- BLOG-POST-LIST:END -->
 
