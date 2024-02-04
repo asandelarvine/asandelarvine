@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementation of a Prototype Kubernetes-Based Cluster for Scalable Web-Based WordPress Deployment using K3s on Raspberry Pis](https://dev.to/otumba/implementation-of-a-prototype-kubernetes-based-cluster-for-scalable-web-based-wordpress-deployment-using-k3s-on-raspberry-pis-1goe)
+- [API Orchestration: An Effective Tool Simplifying Microservices Integration](https://dev.to/apisix/api-orchestration-an-effective-tool-simplifying-microservices-integration-2an7)
+- [ng update @my/lib@version - Which migration schematics will be executed? 🤷](https://dev.to/krisplatis/ng-update-mylibversion-which-migration-schematics-will-be-executed-4304)
 - [Mystery Solved: 3 Ways to Center a Div](https://dev.to/sikirumomodu/mystery-solved-3-ways-to-center-a-div-3amd)
-- [AI Websites Collection](https://dev.to/sh20raj/ai-websites-collection-2eep)
-- [In What Ways Can Tech Be a Medium for Cultural Expression?](https://dev.to/devteam/in-what-ways-can-tech-be-a-medium-for-cultural-expression-4cng)
-- [Data Scientist Vs. Data Analyst: Which one fits you?](https://dev.to/evansifyke/data-scientist-vs-data-analyst-which-one-fits-you-2obb)
 <!-- BLOG-POST-LIST:END -->
 
