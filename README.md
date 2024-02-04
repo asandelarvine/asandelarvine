@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey as a Hard of Hearing Software Engineer](https://dev.to/lauratesan/my-journey-as-a-hard-of-hearing-software-engineer-2ddc)
 - [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
 - [Enhancing Team Productivity with Jira: A Comprehensive Guide](https://dev.to/stan8086/enhancing-team-productivity-with-jira-a-comprehensive-guide-54oj)
 - [Goals For 2024](https://dev.to/manishmehra/goals-for-2024-3m8k)
-- [Effortless &amp; Serverless File Uploading: Unleashing the Power of AWS S3 presigned urls with Lambda 📂](https://dev.to/aws-builders/effortless-serverless-file-uploading-unleashing-the-power-of-aws-s3-presigned-urls-with-lambda-5704)
 <!-- BLOG-POST-LIST:END -->
 
