@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Websites Collection](https://dev.to/sh20raj/ai-websites-collection-2eep)
 - [Data Scientist Vs. Data Analyst: Which one fits you?](https://dev.to/evansifyke/data-scientist-vs-data-analyst-which-one-fits-you-2obb)
 - [Free High-Quality Photos, Videos, Music and More: A Guide to Royalty-Free Media](https://dev.to/sh20raj/free-high-quality-photos-videos-music-and-more-a-guide-to-royalty-free-media-148a)
 - [Generate Unlimited AI Images for Free Online](https://dev.to/sh20raj/generate-unlimited-ai-images-for-free-online-215h)
-- [🚀 DevSecOps ⚙️: &quot;Implementing OWASP Scanning on Maven Packages in AWS CodePipeline&quot;💭](https://dev.to/aws-builders/devsecops-implementing-owasp-scanning-on-maven-packages-in-aws-codepipeline-3cbf)
 <!-- BLOG-POST-LIST:END -->
 
