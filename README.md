@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regenerate Immediately and RSS](https://dev.to/codenameone/regenerate-immediately-and-rss-3dig)
-- [Build and Deploy Buymeacoffee with MongoDB, NodeJS, ExpressJS](https://dev.to/codewithsadee/build-and-deploy-buymeacoffee-with-mongodb-nodejs-expressjs-pia)
-- [Beginners Guide to ReactJS — Data handling Using Props and State](https://dev.to/otumba/beginners-guide-to-reactjs-data-handling-using-props-and-state-2mgf)
-- [Implementation of a Prototype Kubernetes-Based Cluster for Scalable Web-Based WordPress Deployment using K3s on Raspberry Pis](https://dev.to/otumba/implementation-of-a-prototype-kubernetes-based-cluster-for-scalable-web-based-wordpress-deployment-using-k3s-on-raspberry-pis-1goe)
+- [Make your web feed easy to find, autodiscoverable even](https://dev.to/robole/make-your-web-feed-easy-to-find-autodiscoverable-even-21dh)
+- [Building an Advanced To-Do List with HTML, CSS, and JavaScript](https://dev.to/sh20raj/building-an-advanced-to-do-list-with-html-css-and-javascript-4emm)
+- [Serverless Apache Zeppelin on AWS](https://dev.to/aws-builders/serverless-apache-zeppelin-on-aws-4m52)
+- [MongoDB - Animated, beginner overview](https://dev.to/techvision/mongodb-animated-beginner-overview-1m70)
 <!-- BLOG-POST-LIST:END -->
 
