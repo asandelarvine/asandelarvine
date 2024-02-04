@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Regenerate Immediately and RSS](https://dev.to/codenameone/regenerate-immediately-and-rss-3dig)
+- [Build and Deploy Buymeacoffee with MongoDB, NodeJS, ExpressJS](https://dev.to/codewithsadee/build-and-deploy-buymeacoffee-with-mongodb-nodejs-expressjs-pia)
 - [Beginners Guide to ReactJS — Data handling Using Props and State](https://dev.to/otumba/beginners-guide-to-reactjs-data-handling-using-props-and-state-2mgf)
 - [Implementation of a Prototype Kubernetes-Based Cluster for Scalable Web-Based WordPress Deployment using K3s on Raspberry Pis](https://dev.to/otumba/implementation-of-a-prototype-kubernetes-based-cluster-for-scalable-web-based-wordpress-deployment-using-k3s-on-raspberry-pis-1goe)
-- [API Orchestration: An Effective Tool Simplifying Microservices Integration](https://dev.to/apisix/api-orchestration-an-effective-tool-simplifying-microservices-integration-2an7)
-- [LeetCode 2634. Filter Elements from Array &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2634-filter-elements-from-array-easy-355i)
 <!-- BLOG-POST-LIST:END -->
 
