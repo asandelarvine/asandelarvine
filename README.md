@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy A Pod On RunPod And Verify It Is Working](https://dev.to/furkangozukara/how-to-deploy-a-pod-on-runpod-and-verify-it-is-working-3pop)
 - [Autenticação com Golang e AWS Cognito](https://dev.to/wiliamvj/autenticacao-com-golang-e-aws-cognito-4ckh)
 - [Some great first posts from new authors 💞](https://dev.to/devteam/some-great-first-posts-from-new-authors-3g4d)
-- [How I saved 90% by switching NATs](https://dev.to/petegleeson/how-i-saved-90-by-switching-nats-36i)
-- [Featured Mod of the Month: Fabrizio Bagalá](https://dev.to/devteam/featured-mod-of-the-month-fabrizio-bagala-26ob)
+- [Crafting Clean Code with Tailwind CSS and Vue Composition API](https://dev.to/bonbisu/crafting-clean-code-with-tailwind-css-and-vue-composition-api-3ile)
 <!-- BLOG-POST-LIST:END -->
 
