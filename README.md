@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a Coding Learning Environment Website in React JS?](https://dev.to/rohitashsingh89/how-to-make-a-coding-learning-environment-website-in-react-js-47d7)
-- [Deploying cloud-based Python web apps with Streamlit sharing](https://dev.to/scofieldidehen/deploying-cloud-based-python-web-apps-with-streamlit-sharing-4pkn)
-- [Why Vector Search Is Not Enough for Your GenAI Applications?](https://dev.to/pavanbelagatti/why-vector-search-is-not-enough-for-your-genai-applications-260b)
-- [Secure boot sistemlerde Sanallaştırma çalıştırma hakkında](https://dev.to/aciklab/secure-boot-sistemlerde-sanallastirma-calistirma-hakkinda-1ggb)
+- [DynamicLoaderJS - Load content into web pages without page refresh](https://dev.to/sh20raj/dynamicloaderjs-load-content-into-web-pages-without-page-refresh-pih)
+- [Agile Environment Security: Top DevOps Techniques](https://dev.to/cloudzenix24/agile-environment-security-top-devops-techniques-ef5)
+- [Authentication Best Practices: Building a Robust Authentication System](https://dev.to/vrtikaaa/authentication-best-practices-building-a-robust-authentication-system-3jj8)
+- [Banana encryption: Decoding Caesar Cipher with Power Automate](https://dev.to/balagmadhu/banana-encryption-decoding-caesar-cipher-with-power-automate-f1b)
 <!-- BLOG-POST-LIST:END -->
 
