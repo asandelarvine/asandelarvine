@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Million 3.0: All You Need To Know](https://dev.to/tobysolutions/million-30-all-you-need-to-know-3d2)
+- [S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills](https://dev.to/idanref/solid-the-5-golden-rules-to-level-up-your-coding-skills-2p82)
+- [Load balancers and Club Bouncers.](https://dev.to/rakoski___/load-balancers-and-a-comparison-with-club-bouncers-1mkj)
 - [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
-- [My Redemption Arc](https://dev.to/lessthan3/my-redemption-arc-4ebc)
-- [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
 <!-- BLOG-POST-LIST:END -->
 
