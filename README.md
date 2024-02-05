@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mod of the Month: Fabrizio Bagalá](https://dev.to/devteam/featured-mod-of-the-month-fabrizio-bagala-26ob)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2j17)
+- [DevRel Discussion](https://dev.to/lizzzzz/devrel-discussion-11kl)
 - [Vercel vs Netlify vs GitHub Pages](https://dev.to/sh20raj/vercel-vs-netlify-vs-github-pages-bem)
-- [Top Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/top-online-ide-websites-in-2024-3kbd)
-- [Getting Started in your Contributing Journey](https://dev.to/taipy/getting-started-in-your-contributing-journey-bel)
 <!-- BLOG-POST-LIST:END -->
 
