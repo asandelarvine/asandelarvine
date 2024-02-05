@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2j17)
+- [Vercel vs Netlify vs GitHub Pages](https://dev.to/sh20raj/vercel-vs-netlify-vs-github-pages-bem)
 - [Top Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/top-online-ide-websites-in-2024-3kbd)
 - [Getting Started in your Contributing Journey](https://dev.to/taipy/getting-started-in-your-contributing-journey-bel)
-- [Top 20 Free Static Web Hosting Services in 2024 ⚡️](https://dev.to/sh20raj/top-20-free-static-web-hosting-services-in-2024-56fc)
-- [Top 20 Web Hosting Services in 2024 - Choose the Best for Your Website 🚀](https://dev.to/sh20raj/top-20-web-hosting-services-in-2024-cp9)
 <!-- BLOG-POST-LIST:END -->
 
