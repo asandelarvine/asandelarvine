@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative HTTP API Clients](https://dev.to/nguyenhongphat0/generative-http-api-clients-ica)
-- [Xata + Flutter: A getting started guide.](https://dev.to/hackmamba/xata-flutter-a-getting-started-guide-4a5b)
-- [Xata + Go: A getting started guide.](https://dev.to/hackmamba/xata-go-a-getting-started-guide-5aie)
-- [Xata + Rust: A getting started guide.](https://dev.to/hackmamba/xata-rust-a-getting-started-guide-5p4)
+- [Writing Python scripts to automate infrastructure in Terraform](https://dev.to/scofieldidehen/writing-python-scripts-to-automate-infrastructure-in-terraform-1li6)
+- [Choosing the Right AI Assistant Extension: A Comprehensive Guide](https://dev.to/geekyqee/choosing-the-right-ai-assistant-extension-a-comprehensive-guide-4c6m)
+- [🌐 Fundamental Pillars of Cloud Computing: IaaS, PaaS, SaaS](https://dev.to/serverspace/fundamental-pillars-of-cloud-computing-iaas-paas-saas-4k7m)
+- [Learn to Create Flowers Grid in CSS](https://dev.to/munimiftikhar/learn-to-create-flowers-grid-in-css-g6l)
 <!-- BLOG-POST-LIST:END -->
 
