@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Our New Writing Streak Badges! ✏️👌](https://dev.to/devteam/introducing-our-new-writing-streak-badges-2jh9)
+- [Meme Monday](https://dev.to/ben/meme-monday-27n8)
+- [What Is a Mobile Proxy - How Do They Work?](https://dev.to/toniaread/what-is-a-mobile-proxy-how-do-they-work-g84)
 - [What is Test Data in Software Testing](https://dev.to/devanshbhardwaj13/what-is-test-data-in-software-testing-4eam)
-- [What is toast notification? Implement react native toast message](https://dev.to/suprsend/what-is-toast-notification-implement-react-native-toast-message-2b8c)
-- [What if Nx Plugins Were More Like VSCode Extensions](https://dev.to/nx/what-if-nx-plugins-were-more-like-vscode-extensions-4oh0)
-- [I have optimized my work with text-to-SQL translator improved with vector search](https://dev.to/zakharsmirnoff/text-to-sql-translator-improved-with-vector-search-4km4)
 <!-- BLOG-POST-LIST:END -->
 
