@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
+- [[20 Days of DynamoDB] Day 17 - BatchGetItem operation](https://dev.to/aws/20-days-of-dynamodb-day-17-dynamodb-batchgetitem-operation-834)
 - [Become a &quot;Better&quot; Programmer](https://dev.to/buzzpy/become-a-better-programmer-27ge)
 - [🪸6 Text2SQL Tools to Write Stunning SQL for you ☄️](https://dev.to/milasuperstar/6-text2sql-tools-to-write-stunning-sql-for-you-nn9)
-- [Million 3.0: All You Need To Know](https://dev.to/tobysolutions/million-30-all-you-need-to-know-3d2)
-- [S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills](https://dev.to/idanref/solid-the-5-golden-rules-to-level-up-your-coding-skills-2p82)
 <!-- BLOG-POST-LIST:END -->
 
