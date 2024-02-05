@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure boot sistemlerde Sanallaştırma çalıştırma hakkında](https://dev.to/aciklab/secure-boot-sistemlerde-sanallastirma-calistirma-hakkinda-1ggb)
+- [Anonymous and Arrow Functions in JavaScript](https://dev.to/devshefali/anonymous-and-arrow-functions-in-javascript-6fk)
 - [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
 - [[20 Days of DynamoDB] Day 17 - BatchGetItem operation](https://dev.to/aws/20-days-of-dynamodb-day-17-dynamodb-batchgetitem-operation-834)
-- [Become a &quot;Better&quot; Programmer](https://dev.to/buzzpy/become-a-better-programmer-27ge)
-- [🪸6 Text2SQL Tools to Write Stunning SQL for you ☄️](https://dev.to/milasuperstar/6-text2sql-tools-to-write-stunning-sql-for-you-nn9)
 <!-- BLOG-POST-LIST:END -->
 
