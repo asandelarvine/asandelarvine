@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Your Tests and Save Time: A Guide to Test Data Builders](https://dev.to/tiuwill/simplify-your-tests-and-save-time-a-guide-to-test-data-builders-51l2)
-- [Strategies for Success: Unveiling Potential AWS Migration Risks](https://dev.to/dhruvil_joshi14/strategies-for-success-unveiling-potential-aws-migration-risks-27lm)
-- [FOSDEM 2024 - Summary and Reflections](https://dev.to/janderssonse/fosdem-2024-summary-and-reflections-j3)
-- [Writing Python scripts to automate infrastructure in Terraform](https://dev.to/scofieldidehen/writing-python-scripts-to-automate-infrastructure-in-terraform-1li6)
+- [How to convert a TypeScript built-in enum to a GraphQL enum](https://dev.to/woovi/how-to-convert-a-typescript-built-in-enum-to-a-graphql-enum-2neh)
+- [FLaNK Stack 05 Feb 2024](https://dev.to/tspannhw/flank-stack-05-feb-2024-9fk)
+- [Machine Learning Algorithms](https://dev.to/m__mdy__m/machine-learning-algorithms-3hbc)
+- [The Rise of AI in Chatbot Development](https://dev.to/hyscaler/the-rise-of-ai-in-chatbot-development-34j9)
 <!-- BLOG-POST-LIST:END -->
 
