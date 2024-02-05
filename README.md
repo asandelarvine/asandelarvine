@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey as a Hard of Hearing Software Engineer](https://dev.to/lauratesan/my-journey-as-a-hard-of-hearing-software-engineer-2ddc)
-- [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
-- [Enhancing Team Productivity with Jira: A Comprehensive Guide](https://dev.to/stan8086/enhancing-team-productivity-with-jira-a-comprehensive-guide-54oj)
-- [Goals For 2024](https://dev.to/manishmehra/goals-for-2024-3m8k)
+- [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
+- [My Redemption Arc](https://dev.to/lessthan3/my-redemption-arc-4ebc)
+- [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
 <!-- BLOG-POST-LIST:END -->
 
