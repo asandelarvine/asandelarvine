@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative HTTP API Clients](https://dev.to/nguyenhongphat0/generative-http-api-clients-ica)
+- [Xata + Flutter: A getting started guide.](https://dev.to/hackmamba/xata-flutter-a-getting-started-guide-4a5b)
 - [Xata + Go: A getting started guide.](https://dev.to/hackmamba/xata-go-a-getting-started-guide-5aie)
 - [Xata + Rust: A getting started guide.](https://dev.to/hackmamba/xata-rust-a-getting-started-guide-5p4)
-- [One AI Tool For All Your Needs❗️](https://dev.to/grayhat/one-ai-tool-for-all-your-needs-l38)
-- [Android 14 Adaptation Guide: Practical Solutions for Upgrading targetSdkVersion to 34](https://dev.to/happyer/android-14-adaptation-guide-practical-solutions-for-upgrading-targetsdkversion-to-34-1ji)
 <!-- BLOG-POST-LIST:END -->
 
