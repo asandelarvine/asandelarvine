@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Coding Learning Environment Website in React JS?](https://dev.to/rohitashsingh89/how-to-make-a-coding-learning-environment-website-in-react-js-47d7)
+- [Deploying cloud-based Python web apps with Streamlit sharing](https://dev.to/scofieldidehen/deploying-cloud-based-python-web-apps-with-streamlit-sharing-4pkn)
+- [Why Vector Search Is Not Enough for Your GenAI Applications?](https://dev.to/pavanbelagatti/why-vector-search-is-not-enough-for-your-genai-applications-260b)
 - [Secure boot sistemlerde Sanallaştırma çalıştırma hakkında](https://dev.to/aciklab/secure-boot-sistemlerde-sanallastirma-calistirma-hakkinda-1ggb)
-- [Anonymous and Arrow Functions in JavaScript](https://dev.to/devshefali/anonymous-and-arrow-functions-in-javascript-6fk)
-- [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
-- [[20 Days of DynamoDB] Day 17 - BatchGetItem operation](https://dev.to/aws/20-days-of-dynamodb-day-17-dynamodb-batchgetitem-operation-834)
 <!-- BLOG-POST-LIST:END -->
 
