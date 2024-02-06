@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Hybrid Search?](https://dev.to/qdrant/what-is-hybrid-search-383g)
+- [Flight Slider in HTML + CSS](https://dev.to/alvaromontoro/flight-slider-in-html-css-3024)
+- [Comparing TypeScript state management solutions](https://dev.to/logrocket/comparing-typescript-state-management-solutions-228d)
 - [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
-- [strace Revisited: Simple is Beautiful](https://dev.to/codenameone/strace-revisited-simple-is-beautiful-4hge)
-- [Control flow in Rust](https://dev.to/francescoxx/control-flow-in-rust-1fkp)
-- [Why Should Lodash be Your JavaScript Project&#39;s Go-To Library?](https://dev.to/webcraft-notes/why-should-lodash-be-your-javascript-projects-go-to-library-2pnm)
 <!-- BLOG-POST-LIST:END -->
 
