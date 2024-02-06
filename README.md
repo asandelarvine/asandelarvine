@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://dev.to/sh20raj/a-list-of-saas-paas-and-iaas-offerings-that-have-free-tiers-of-interest-to-devops-and-infradev-9j4)
 - [What Would You Do If You Knew You Could Not Fail?](https://dev.to/devteam/what-would-you-do-if-you-knew-you-could-not-fail-5573)
 - [#DevOps para noobs - Requests x limits no Kubernetes](https://dev.to/camilacodes/devops-diares-requests-x-limits-no-kubernetes-4355)
 - [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
-- [Inteligência Artificial: O que é](https://dev.to/gustavoramos82/inteligencia-artificial-o-que-e-e-possibilidades-14gm)
 <!-- BLOG-POST-LIST:END -->
 
