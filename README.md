@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Apply Sorting on Tables in HTML Using JavaScript: Sortable Paginated Tables](https://dev.to/speaklouder/how-to-apply-sorting-on-tables-in-html-using-javascript-sortable-paginated-tables-590g)
+- [Harnessing the Power of Digital Mind Mapping: A Guide for the Productive Mind](https://dev.to/stan8086/harnessing-the-power-of-digital-mind-mapping-a-guide-for-the-productive-mind-2h3f)
+- [gRPC Name Resolution &amp; Load Balancing on Kubernetes: Everything you need to know &lpar;and probably a bit more&rpar;](https://dev.to/homayoonalimohammadi/grpc-name-resolution-load-balancing-on-kubernetes-everything-you-need-to-know-and-probably-a-bit-more-3if6)
 - [Cloud Computing Skills for 2024](https://dev.to/scofieldidehen/cloud-computing-skills-for-2024-1o9a)
-- [🎉🎉 Build and Deploy a Fullstack Hotel Booking Web App: Next.js 14, React.js, TS, TailwindCSS, Prisma](https://dev.to/chaoocharles/build-and-deploy-a-fullstack-hotel-booking-web-app-nextjs-14-reactjs-ts-tailwindcss-prisma-1k85)
-- [oImprove your README.md profile with these amazing badges 🚀](https://dev.to/sh20raj/improve-your-readmemd-profile-with-these-amazing-badges-5cii)
-- [Deep Learning: How to Accelerate Application Development](https://dev.to/wowohaha/deep-learning-how-to-accelerate-application-development-4dln)
 <!-- BLOG-POST-LIST:END -->
 
