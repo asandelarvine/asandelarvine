@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Would You Do If You Knew You Could Not Fail?](https://dev.to/devteam/what-would-you-do-if-you-knew-you-could-not-fail-5573)
 - [#DevOps para noobs - Requests x limits no Kubernetes](https://dev.to/camilacodes/devops-diares-requests-x-limits-no-kubernetes-4355)
+- [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
 - [Inteligência Artificial: O que é](https://dev.to/gustavoramos82/inteligencia-artificial-o-que-e-e-possibilidades-14gm)
-- [How To Deploy A Pod On RunPod And Verify It Is Working](https://dev.to/furkangozukara/how-to-deploy-a-pod-on-runpod-and-verify-it-is-working-3pop)
-- [GraphQL is for Backend Engineers](https://dev.to/apollographql/graphql-is-for-backend-engineers-3ih)
 <!-- BLOG-POST-LIST:END -->
 
