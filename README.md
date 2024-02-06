@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backup Sitecore Media Library items with a PowerShell script](https://dev.to/esdanielgomez/backup-sitecore-media-library-items-with-a-powershell-script-2bfc)
-- [Development Tools and Platforms: Create your Dev.to + Pipedream Automation in under 20 minutes](https://dev.to/opensauced/development-tools-and-platforms-create-your-devto-pipedream-automation-in-under-20-minutes-55b3)
-- [10 example of filter using in js](https://dev.to/avinashrepo/10-example-of-filter-using-in-js-5h6i)
-- [Software Career Advice](https://dev.to/pauljlucas/software-career-advice-15d)
+- [10 Node.js Boilerplate Code Snippets Every Developer Needs](https://dev.to/get_pieces/10-nodejs-boilerplate-code-snippets-every-developer-needs-pg3)
+- [A Code Newbie&#39;s Guide to Creating a Two-Column Layout](https://dev.to/theoriginalbpc/a-code-newbies-guide-to-creating-a-two-column-layout-1dp5)
+- [React Libraries to Use in Your Projects in 2024](https://dev.to/chanchals7/react-libraries-to-use-in-your-projects-in-2024-9eh)
+- [Choosing a FE framework in 2024, a practical tale](https://dev.to/n1tzan/choosing-a-fe-framework-in-2024-a-practical-tale-19ej)
 <!-- BLOG-POST-LIST:END -->
 
