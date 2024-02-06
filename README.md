@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O poder do FilamentPHP](https://dev.to/adryannekelly/o-poder-do-filamentphp-557h)
+- [System as a Canvas: A Visual Approach to System Documentation](https://dev.to/tamerssonis/system-as-a-canvas-a-visual-approach-to-system-documentation-hai)
 - [Interview Preparation](https://dev.to/rfornal/interview-preparation-247f)
-- [Simple Flask Integration for an Elastic Semantic Search App](https://dev.to/iuliaferoli/simple-flask-integration-for-an-elastic-semantic-search-app-587i)
-- [i18n with NextJS output export](https://dev.to/ikramdeveloper/i18n-with-nextjs-output-export-1pbc)
-- [Discord Clone Using Next.js and Tailwind - Part 3: Channel List](https://dev.to/stefanblos/discord-clone-using-nextjs-and-tailwind-part-3-channel-list-2jp3)
+- [Analyze and debug Quarkus based AWS Lambda functions with X-Ray](https://dev.to/aws-builders/analyze-and-debug-quarkus-based-aws-lambda-functions-with-x-ray-3ke7)
 <!-- BLOG-POST-LIST:END -->
 
