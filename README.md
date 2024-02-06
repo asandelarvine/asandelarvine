@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Restore deleted/lost files with git](https://dev.to/this-is-learning/restore-deletedlost-files-with-git-3lf7)
+- [Building an MVP](https://dev.to/thiagomotasantos/building-a-mvp-23c3)
+- [Value Over Features](https://dev.to/thenjdevopsguy/value-over-features-3c57)
 - [20+ Essential VS Code Shortcuts to Become a Ninja Coder &lpar;No Mouse Needed!&rpar;](https://dev.to/jitendrachoudhary/20-essential-vs-code-shortcuts-to-become-a-ninja-coder-no-mouse-needed-3pf4)
-- [a solution to contributors creating multiple issues in open source - need feedback 🤞](https://dev.to/anmolbaranwal/a-solution-to-contributors-creating-multiple-issues-in-open-source-need-feedback-31cg)
-- [How to Apply Sorting on Tables in HTML Using JavaScript: Sortable Paginated Tables](https://dev.to/speaklouder/how-to-apply-sorting-on-tables-in-html-using-javascript-sortable-paginated-tables-590g)
-- [Harnessing the Power of Digital Mind Mapping: A Guide for the Productive Mind](https://dev.to/stan8086/harnessing-the-power-of-digital-mind-mapping-a-guide-for-the-productive-mind-2h3f)
 <!-- BLOG-POST-LIST:END -->
 
