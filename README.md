@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 Tips to Make Your Webpage Load Faster](https://dev.to/sh20raj/top-15-tips-to-make-your-webpage-load-faster-3pmb)
-- [Habilidades en informática en la nube para 2024](https://dev.to/scofieldidehen/habilidades-en-informatica-en-la-nube-para-2024-2a7o)
-- [Building a CD Pipeline with GitOps and ArgoCD 🛠️](https://dev.to/sre_panchanan/building-a-cd-pipeline-with-gitops-and-argocd-51bk)
-- [Restore deleted/lost files with git](https://dev.to/this-is-learning/restore-deletedlost-files-with-git-3lf7)
+- [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
+- [strace Revisited: Simple is Beautiful](https://dev.to/codenameone/strace-revisited-simple-is-beautiful-4hge)
+- [Control flow in Rust](https://dev.to/francescoxx/control-flow-in-rust-1fkp)
+- [Why Should Lodash be Your JavaScript Project&#39;s Go-To Library?](https://dev.to/webcraft-notes/why-should-lodash-be-your-javascript-projects-go-to-library-2pnm)
 <!-- BLOG-POST-LIST:END -->
 
