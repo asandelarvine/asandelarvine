@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Node.js CLI: Best Practices and Tips](https://dev.to/boudydegeer/mastering-nodejs-cli-best-practices-and-tips-7j5)
-- [Best Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/best-online-ide-websites-in-2024-128b)
-- [Best Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/best-online-ide-websites-in-2024-3m46)
-- [Bridging the Empathy Gap - Inclusive Web Development for Everyone](https://dev.to/josefine/bridging-the-empathy-gap-inclusive-web-development-for-everyone-3f9d)
+- [Cloud Computing Skills for 2024](https://dev.to/scofieldidehen/cloud-computing-skills-for-2024-1o9a)
+- [🎉🎉 Build and Deploy a Fullstack Hotel Booking Web App: Next.js 14, React.js, TS, TailwindCSS, Prisma](https://dev.to/chaoocharles/build-and-deploy-a-fullstack-hotel-booking-web-app-nextjs-14-reactjs-ts-tailwindcss-prisma-1k85)
+- [oImprove your README.md profile with these amazing badges 🚀](https://dev.to/sh20raj/improve-your-readmemd-profile-with-these-amazing-badges-5cii)
+- [Deep Learning: How to Accelerate Application Development](https://dev.to/wowohaha/deep-learning-how-to-accelerate-application-development-4dln)
 <!-- BLOG-POST-LIST:END -->
 
