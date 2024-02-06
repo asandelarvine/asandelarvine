@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cool Animated Codepen demos](https://dev.to/pinky057/cool-animated-codepen-demos-1436)
 - [10 Node.js Boilerplate Code Snippets Every Developer Needs](https://dev.to/get_pieces/10-nodejs-boilerplate-code-snippets-every-developer-needs-pg3)
 - [A Code Newbie&#39;s Guide to Creating a Two-Column Layout](https://dev.to/theoriginalbpc/a-code-newbies-guide-to-creating-a-two-column-layout-1dp5)
 - [React Libraries to Use in Your Projects in 2024](https://dev.to/chanchals7/react-libraries-to-use-in-your-projects-in-2024-9eh)
-- [Choosing a FE framework in 2024, a practical tale](https://dev.to/n1tzan/choosing-a-fe-framework-in-2024-a-practical-tale-19ej)
 <!-- BLOG-POST-LIST:END -->
 
