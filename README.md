@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://dev.to/opensauced/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc)
+- [Adding a View Counter to Static Website with ViewCounter.io](https://dev.to/sh20raj/adding-a-view-counter-to-static-website-with-viewcounterio-5gp5)
 - [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://dev.to/sh20raj/a-list-of-saas-paas-and-iaas-offerings-that-have-free-tiers-of-interest-to-devops-and-infradev-9j4)
 - [What Would You Do If You Knew You Could Not Fail?](https://dev.to/devteam/what-would-you-do-if-you-knew-you-could-not-fail-5573)
-- [#DevOps para noobs - Requests x limits no Kubernetes](https://dev.to/camilacodes/devops-diares-requests-x-limits-no-kubernetes-4355)
-- [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
 <!-- BLOG-POST-LIST:END -->
 
