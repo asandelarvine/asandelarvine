@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Interview Preparation](https://dev.to/rfornal/interview-preparation-247f)
 - [Simple Flask Integration for an Elastic Semantic Search App](https://dev.to/iuliaferoli/simple-flask-integration-for-an-elastic-semantic-search-app-587i)
 - [i18n with NextJS output export](https://dev.to/ikramdeveloper/i18n-with-nextjs-output-export-1pbc)
 - [Discord Clone Using Next.js and Tailwind - Part 3: Channel List](https://dev.to/stefanblos/discord-clone-using-nextjs-and-tailwind-part-3-channel-list-2jp3)
-- [Mastering Behat Testing: A Comprehensive Guide for Implementing BDD in PHP Projects](https://dev.to/mktheitguy/mastering-behat-testing-a-comprehensive-guide-for-implementing-bdd-in-php-projects-3oij)
 <!-- BLOG-POST-LIST:END -->
 
