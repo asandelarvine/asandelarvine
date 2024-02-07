@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Chances of You Creating a Programming Language](https://dev.to/zenstack/what-are-the-chances-of-you-creating-a-programming-language-11d2)
+- [Tech Trends 2024: What&#39;s on the Horizon?](https://dev.to/dhruvjoshi9/tech-trends-2024-whats-on-the-horizon-47fh)
+- [Introducing MiniRx Signal Store](https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo)
 - [7 Best WordPress AI Plugins to Try in 2024](https://dev.to/thenomadevel/7-best-wordpress-ai-plugins-to-try-in-2024-4kgf)
-- [10 INTERESTING STATISTICS ON API&lpar;s&rpar; FOR 2024](https://dev.to/mwendwabundi/10-interesting-statistics-on-apis-for-2024-1c5f)
-- [How to collaborate better with your team on Localhost](https://dev.to/livecycle/how-to-collaborate-better-with-your-team-on-localhost-45bo)
-- [Move manifest.json to the output directory&#39;s parent in Vite 5](https://dev.to/tylerlwsmith/move-manifestjson-to-outdirs-parent-directory-in-vite-5-5fpf)
 <!-- BLOG-POST-LIST:END -->
 
