@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Age Calculator Using HTML, CSS, and JavaScript: A Beginner’s Guide](https://dev.to/javacodepoint/age-calculator-using-html-css-and-javascript-a-beginners-guide-45ef)
+- [Submitting a form in Nextjs 14 with onBlur, server actions, and validation](https://dev.to/orionseven/submitting-a-form-in-nextjs-14-with-onblur-server-actions-and-validation-55dl)
 - [Use pgvector for searching images on Azure Cosmos DB for PostgreSQL](https://dev.to/sfoteini/use-pgvector-for-searching-images-on-azure-cosmos-db-for-postgresql-2c30)
 - [Build an off-canvas menu with &lt;dialog&gt; and web components](https://dev.to/logrocket/build-an-off-canvas-menu-with-and-web-components-4obd)
-- [O Método Equals em Java](https://dev.to/01dri/o-metodo-equals-em-java-4inm)
-- [What are Vector Embeddings?](https://dev.to/qdrant/what-are-vector-embeddings-24pd)
 <!-- BLOG-POST-LIST:END -->
 
