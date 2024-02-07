@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Impact of IoT on Mobile Application Development](https://dev.to/hyscaler/the-impact-of-iot-on-mobile-application-development-4jih)
 - [Primeiros passos no Docker](https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k)
 - [Attribute Based Access Control &lpar;ABAC&rpar; Implementation with Open Policy Agent &lpar;OPA&rpar;](https://dev.to/permify/attribute-based-access-control-abac-implementation-with-open-policy-agent-opa-479g)
 - [Unveiling the Top 5 Software Testing Techniques That Will Blow Your Mind!](https://dev.to/talenttinaapi/unveiling-the-top-5-software-testing-techniques-that-will-blow-your-mind-6jl)
-- [Run and test DynamoDB applications locally using Docker and Testcontainers](https://dev.to/aws/run-and-test-dynamodb-applications-locally-using-docker-and-testcontainers-108i)
 <!-- BLOG-POST-LIST:END -->
 
