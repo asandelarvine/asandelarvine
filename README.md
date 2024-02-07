@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Churn Prediction: Using Gradio](https://dev.to/cptwycliffe/churn-prediction-using-gradio-4an9)
+- [Introducing TypeLib JS - simplified type detection and debugging](https://dev.to/schemetastic/introducing-typelib-js-simplified-type-detection-and-debugging-8bd)
 - [The Metamodern Data Stack - Built for the age of AI](https://dev.to/guerra2fernando/the-metamodern-data-stack-built-for-the-age-of-ai-24pa)
 - [🐱Product Hunt has become pay-to-win 💰, but you should still use it to launch your product 🚀](https://dev.to/wasp/product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d)
-- [Comprehensive Guide to Flutter Development for macOS](https://dev.to/happyer/comprehensive-guide-to-flutter-development-for-macos-3182)
-- [Documenso v. Docusign: THE SHOWDOWN](https://dev.to/opensauced/documenso-v-docusign-the-showdown-g0c)
 <!-- BLOG-POST-LIST:END -->
 
