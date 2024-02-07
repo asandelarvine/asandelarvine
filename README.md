@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Churn Prediction: Using Gradio](https://dev.to/cptwycliffe/churn-prediction-using-gradio-4an9)
-- [Introducing TypeLib JS - simplified type detection and debugging](https://dev.to/schemetastic/introducing-typelib-js-simplified-type-detection-and-debugging-8bd)
-- [The Metamodern Data Stack - Built for the age of AI](https://dev.to/guerra2fernando/the-metamodern-data-stack-built-for-the-age-of-ai-24pa)
-- [🐱Product Hunt has become pay-to-win 💰, but you should still use it to launch your product 🚀](https://dev.to/wasp/product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d)
+- [What are Vector Embeddings?](https://dev.to/qdrant/what-are-vector-embeddings-24pd)
+- [Internationalization with i18next + react-i18n 🌎](https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28)
+- [GitHub Repository Best Practices](https://dev.to/pwd9000/github-repository-best-practices-23ck)
+- [AI for Web Devs: Deploying Your AI App to Production](https://dev.to/austingil/ai-for-web-devs-deploying-your-ai-app-to-production-5beb)
 <!-- BLOG-POST-LIST:END -->
 
