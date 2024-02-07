@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Best Practices for Implementing a Continuous Testing Strategy for Your Software Product](https://dev.to/pritig/unveiling-the-best-practices-for-implementing-a-continuous-testing-strategy-for-your-software-product-156)
-- [CI/CD Mastery Using DevOps Pipelines](https://dev.to/cloudzenix24/cicd-mastery-using-devops-pipelines-1jb4)
-- [Format numbers easily and nicely](https://dev.to/dhutaryan/format-numbers-easily-and-nicely-17a8)
-- [Improve data service connectivity in Signal Stores using the withDataService Custom Store Feature](https://dev.to/this-is-angular/improve-data-service-connectivity-in-signal-stores-using-the-withdataservice-custom-store-feature-f8)
+- [Run and test DynamoDB applications locally using Docker and Testcontainers](https://dev.to/aws/run-and-test-dynamodb-applications-locally-using-docker-and-testcontainers-108i)
+- [JavaScript Array Methods: Map vs Filter vs Redux](https://dev.to/sh20raj/understanding-javascript-array-methods-map-vs-filter-vs-redux-3jeo)
+- [Exploring UI UX Immersive Trends in 2024 and Beyond](https://dev.to/piyalidebroy/exploring-ui-ux-immersive-trends-in-2024-and-beyond-1g1i)
+- [Changing Next.js Templates Between TypeScript and JavaScript in Online IDEs](https://dev.to/sh20raj/changing-nextjs-templates-between-typescript-and-javascript-in-online-ides-3kmf)
 <!-- BLOG-POST-LIST:END -->
 
