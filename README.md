@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Set up a Team Environment for Shopify App Development](https://dev.to/joshatflare/set-up-a-team-environment-for-shopify-app-development-4eng)
-- [5 Web Development Project With Their GitHub Repository](https://dev.to/durgesh4993/5-web-development-project-with-their-github-repository-1jl0)
-- [The Impact of IoT on Mobile Application Development](https://dev.to/hyscaler/the-impact-of-iot-on-mobile-application-development-4jih)
-- [Primeiros passos no Docker](https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k)
+- [Making of AI tool Chatpdf.so](https://dev.to/alokkumar8/making-of-ai-tool-chatpdfso-1de1)
+- [New guidelines for email senders? &lpar;action might be required&rpar;](https://dev.to/nikoldimit/new-guidelines-for-email-senders-action-might-be-required-4if8)
+- [Simplifying Cybersecurity: Key Principles for a Robust Defense 🌐](https://dev.to/sre_panchanan/simplifying-cybersecurity-key-principles-for-a-robust-defense-377)
+- [Explorando o Linux - VIM e NANO](https://dev.to/lucasrocha729/explorando-o-linux-vim-e-nano-2fdl)
 <!-- BLOG-POST-LIST:END -->
 
