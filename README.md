@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Chances of You Creating a Programming Language](https://dev.to/zenstack/what-are-the-chances-of-you-creating-a-programming-language-11d2)
-- [Tech Trends 2024: What&#39;s on the Horizon?](https://dev.to/dhruvjoshi9/tech-trends-2024-whats-on-the-horizon-47fh)
-- [Introducing MiniRx Signal Store](https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo)
-- [7 Best WordPress AI Plugins to Try in 2024](https://dev.to/thenomadevel/7-best-wordpress-ai-plugins-to-try-in-2024-4kgf)
+- [Unveiling the Best Practices for Implementing a Continuous Testing Strategy for Your Software Product](https://dev.to/pritig/unveiling-the-best-practices-for-implementing-a-continuous-testing-strategy-for-your-software-product-156)
+- [CI/CD Mastery Using DevOps Pipelines](https://dev.to/cloudzenix24/cicd-mastery-using-devops-pipelines-1jb4)
+- [Format numbers easily and nicely](https://dev.to/dhutaryan/format-numbers-easily-and-nicely-17a8)
+- [Improve data service connectivity in Signal Stores using the withDataService Custom Store Feature](https://dev.to/this-is-angular/improve-data-service-connectivity-in-signal-stores-using-the-withdataservice-custom-store-feature-f8)
 <!-- BLOG-POST-LIST:END -->
 
