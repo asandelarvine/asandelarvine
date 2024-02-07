@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [O Método Equals em Java](https://dev.to/01dri/o-metodo-equals-em-java-4inm)
 - [What are Vector Embeddings?](https://dev.to/qdrant/what-are-vector-embeddings-24pd)
 - [Internationalization with i18next + react-i18n 🌎](https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28)
 - [GitHub Repository Best Practices](https://dev.to/pwd9000/github-repository-best-practices-23ck)
-- [AI for Web Devs: Deploying Your AI App to Production](https://dev.to/austingil/ai-for-web-devs-deploying-your-ai-app-to-production-5beb)
 <!-- BLOG-POST-LIST:END -->
 
