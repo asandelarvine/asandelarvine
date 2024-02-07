@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get start with AWS!](https://dev.to/vng_bach/get-start-with-aws-104l)
-- [AI: The Modern Mage&#39;s Grimoire 🧙‍♂️✨](https://dev.to/aixart/ai-the-modern-mages-grimoire-34p1)
-- [System Design is More Important Than You Think](https://dev.to/dezhango/system-design-is-more-important-than-you-think-g0e)
-- [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
+- [7 Best WordPress AI Plugins to Try in 2024](https://dev.to/thenomadevel/7-best-wordpress-ai-plugins-to-try-in-2024-4kgf)
+- [10 INTERESTING STATISTICS ON API&lpar;s&rpar; FOR 2024](https://dev.to/mwendwabundi/10-interesting-statistics-on-apis-for-2024-1c5f)
+- [How to collaborate better with your team on Localhost](https://dev.to/livecycle/how-to-collaborate-better-with-your-team-on-localhost-45bo)
+- [Move manifest.json to the output directory&#39;s parent in Vite 5](https://dev.to/tylerlwsmith/move-manifestjson-to-outdirs-parent-directory-in-vite-5-5fpf)
 <!-- BLOG-POST-LIST:END -->
 
