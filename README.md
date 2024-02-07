@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Get start with AWS!](https://dev.to/vng_bach/get-start-with-aws-104l)
+- [AI: The Modern Mage&#39;s Grimoire 🧙‍♂️✨](https://dev.to/aixart/ai-the-modern-mages-grimoire-34p1)
+- [System Design is More Important Than You Think](https://dev.to/dezhango/system-design-is-more-important-than-you-think-g0e)
 - [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
-- [My Developer Nightmare](https://dev.to/johnrushx/my-developer-nightmare-2o1c)
-- [Fingerprint your native runtime with @expo/fingerprint](https://dev.to/expo/fingerprint-your-native-runtime-with-expofingerprint-13hb)
-- [O poder do FilamentPHP](https://dev.to/adryannekelly/o-poder-do-filamentphp-557h)
 <!-- BLOG-POST-LIST:END -->
 
