@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Vs Web2: The Untold Lies of Blockchain Technology](https://dev.to/scofieldidehen/web3-vs-web2-the-untold-lies-of-blockchain-technology-4l8m)
-- [The Mythical Data Team](https://dev.to/burakkarakan/the-mythical-data-team-mnm)
-- [Lets design a simple UI sign up glassmorphism page](https://dev.to/evansifyke/lets-design-a-simple-ui-sign-up-glassmorphism-page-o99)
-- [Getting User Feedback for Success: Tips and Tools](https://dev.to/opensauced/getting-user-feedback-for-success-tips-and-tools-42mo)
+- [Terraform drift detection and remediation - a primer](https://dev.to/digger/terraform-drift-detection-and-remediation-a-primer-d1)
+- [The &quot;Mom Test&quot; in software development: asking good questions when everyone is lying to you](https://dev.to/graphite/the-mom-test-in-software-development-asking-good-questions-when-everyone-is-lying-to-you-2l3m)
+- [Supercharge Your Front-End Workflow in 2024: Must-Have VS Code Extensions](https://dev.to/daviewisdm/supercharge-your-front-end-workflow-in-2024-must-have-vs-code-extensions-9cj)
+- [The Lord of Playwright: The Two Traces](https://dev.to/kubeshop/the-lord-of-playwright-the-two-traces-358l)
 <!-- BLOG-POST-LIST:END -->
 
