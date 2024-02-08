@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an uptime monitoring web service in Rust](https://dev.to/shuttle_dev/building-an-uptime-monitoring-web-service-in-rust-1o25)
 - [Terraform drift detection and remediation - a primer](https://dev.to/digger/terraform-drift-detection-and-remediation-a-primer-d1)
 - [The &quot;Mom Test&quot; in software development: asking good questions when everyone is lying to you](https://dev.to/graphite/the-mom-test-in-software-development-asking-good-questions-when-everyone-is-lying-to-you-2l3m)
 - [Supercharge Your Front-End Workflow in 2024: Must-Have VS Code Extensions](https://dev.to/daviewisdm/supercharge-your-front-end-workflow-in-2024-must-have-vs-code-extensions-9cj)
-- [The Lord of Playwright: The Two Traces](https://dev.to/kubeshop/the-lord-of-playwright-the-two-traces-358l)
 <!-- BLOG-POST-LIST:END -->
 
