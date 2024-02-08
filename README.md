@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Vs Web2: The Untold Lies of Blockchain Technology](https://dev.to/scofieldidehen/web3-vs-web2-the-untold-lies-of-blockchain-technology-4l8m)
+- [The Mythical Data Team](https://dev.to/burakkarakan/the-mythical-data-team-mnm)
+- [Lets design a simple UI sign up glassmorphism page](https://dev.to/evansifyke/lets-design-a-simple-ui-sign-up-glassmorphism-page-o99)
 - [Documenting Your Tech Journey: The Key to Success](https://dev.to/stanleyogada/documenting-your-tech-journey-the-key-to-success-5hkg)
-- [How to Build a Great Developer Community 🔥](https://dev.to/devella/how-to-build-a-great-developer-community-12io)
-- [In-Depth Perspective on Flutter: A Comprehensive Analysis and Practice Guide](https://dev.to/happyer/in-depth-perspective-on-flutter-a-comprehensive-analysis-and-practice-guide-236n)
-- [Você deve trabalhar pra você Por Zarathon Viana](https://dev.to/kecbm/voce-deve-trabalhar-pra-voce-por-zarathon-viana-ldj)
 <!-- BLOG-POST-LIST:END -->
 
