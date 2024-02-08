@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Documenting Your Tech Journey: The Key to Success](https://dev.to/stanleyogada/documenting-your-tech-journey-the-key-to-success-5hkg)
+- [How to Build a Great Developer Community 🔥](https://dev.to/devella/how-to-build-a-great-developer-community-12io)
 - [In-Depth Perspective on Flutter: A Comprehensive Analysis and Practice Guide](https://dev.to/happyer/in-depth-perspective-on-flutter-a-comprehensive-analysis-and-practice-guide-236n)
-- [GitHub Shared Responsibility Model and Source Code Protection](https://dev.to/gitprotect/github-shared-responsibility-model-and-source-code-protection-3afk)
-- [Introducing OWASP: A Comprehensive Exploration of Web Application Security 🌐🔒](https://dev.to/sre_panchanan/introducing-owasp-a-comprehensive-exploration-of-web-application-security-183c)
-- [Demystifying Linux Network Bridging and Network Namespaces](https://dev.to/stanleyogada/demystifying-linux-network-bridging-and-network-namespaces-19ap)
+- [Você deve trabalhar pra você Por Zarathon Viana](https://dev.to/kecbm/voce-deve-trabalhar-pra-voce-por-zarathon-viana-ldj)
 <!-- BLOG-POST-LIST:END -->
 
