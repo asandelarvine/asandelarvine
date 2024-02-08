@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Authorization and Authentication in Django](https://dev.to/devendra_2806/authorization-and-authentication-in-django-j53)
 - [Rust wont save us, but it&#39;s ideas will](https://dev.to/glitchbyte/rust-wont-save-us-but-its-ideas-will-3f5p)
 - [Github Actions certificate](https://dev.to/rafael_svieira/github-actions-certificate-2hnj)
-- [OOP via FP : functional nature of classes and objects](https://dev.to/taqmuraz/oop-via-fp-functional-nature-of-classes-and-objects-1i3m)
+- [GoF- Strategy Pattern](https://dev.to/binoy123/gof-strategy-pattern-3fg1)
 <!-- BLOG-POST-LIST:END -->
 
