@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Profanity Blocking JavaScript Library 🤬 ⚡](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
 - [Understanding Ethernet and Fiber Op](https://dev.to/odoth4kz/wrapping-minds-around-cable-4d4e)
 - [Git Mastery: A Complete Guide](https://dev.to/hriztam/git-mastery-a-complete-guide-2450)
 - [How to run an AWS CIS v3.0 assessment in CloudShell](https://dev.to/aws-builders/how-to-run-an-aws-cis-v30-assessment-in-cloudshell-16o4)
-- [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-26i6)
 <!-- BLOG-POST-LIST:END -->
 
