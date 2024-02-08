@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [OOP via FP : functional nature of classes and objects](https://dev.to/taqmuraz/oop-via-fp-functional-nature-of-classes-and-objects-1i3m)
 - [Async and Await in JavaScript: A Comprehensive Guide](https://dev.to/mktheitguy/async-and-await-in-javascript-a-comprehensive-guide-1oka)
 - [Generating Videos from Images with Stable Video Diffusion and FiftyOne](https://dev.to/voxel51/generating-videos-from-images-with-stable-video-diffusion-and-fiftyone-2ilm)
-- [Debugging ☕ Kubernetes Pods Like A Champ 🦸🏻‍♂️](https://dev.to/awedis/debugging-kubernetes-pods-like-a-champ-1946)
+- [Elevate Your GitHub README Game](https://dev.to/voxel51/elevate-your-github-readme-game-49mg)
 <!-- BLOG-POST-LIST:END -->
 
