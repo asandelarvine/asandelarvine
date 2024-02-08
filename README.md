@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Eminem Bot App with LangChain, Streamlit, OpenAI | Full Python Project | Tutorial | AI ChatBot](https://dev.to/imrankh13332994/build-eminem-bot-app-with-langchain-streamlit-openai-full-python-project-tutorial-ai-chatbot-p9g)
+- [Top 8 Free Unlimited Image Hosting Websites in 2024](https://dev.to/sh20raj/top-8-free-unlimited-image-hosting-websites-in-2024-3393)
 - [Authorization and Authentication in Django](https://dev.to/devendra_2806/authorization-and-authentication-in-django-j53)
 - [Rust wont save us, but it&#39;s ideas will](https://dev.to/glitchbyte/rust-wont-save-us-but-its-ideas-will-3f5p)
-- [Github Actions certificate](https://dev.to/rafael_svieira/github-actions-certificate-2hnj)
-- [GoF- Strategy Pattern](https://dev.to/binoy123/gof-strategy-pattern-3fg1)
 <!-- BLOG-POST-LIST:END -->
 
