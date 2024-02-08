@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
-- [Understanding AWS Amplify Monitoring Metrics Definitions](https://dev.to/aws-builders/understanding-aws-amplify-monitoring-metrics-definitions-43c2)
-- [Why we chose Bun](https://dev.to/alertpix/why-we-chose-bun-28dk)
-- [Embracing the Future: Emerging Trends in Software Engineering](https://dev.to/daviewisdm/embracing-the-future-emerging-trends-in-software-engineering-2k0e)
+- [In-Depth Perspective on Flutter: A Comprehensive Analysis and Practice Guide](https://dev.to/happyer/in-depth-perspective-on-flutter-a-comprehensive-analysis-and-practice-guide-236n)
+- [GitHub Shared Responsibility Model and Source Code Protection](https://dev.to/gitprotect/github-shared-responsibility-model-and-source-code-protection-3afk)
+- [Introducing OWASP: A Comprehensive Exploration of Web Application Security 🌐🔒](https://dev.to/sre_panchanan/introducing-owasp-a-comprehensive-exploration-of-web-application-security-183c)
+- [Demystifying Linux Network Bridging and Network Namespaces](https://dev.to/stanleyogada/demystifying-linux-network-bridging-and-network-namespaces-19ap)
 <!-- BLOG-POST-LIST:END -->
 
