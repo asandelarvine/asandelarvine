@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Web3 Vs Web2: The Untold Lies of Blockchain Technology](https://dev.to/scofieldidehen/web3-vs-web2-the-untold-lies-of-blockchain-technology-4l8m)
 - [The Mythical Data Team](https://dev.to/burakkarakan/the-mythical-data-team-mnm)
 - [Lets design a simple UI sign up glassmorphism page](https://dev.to/evansifyke/lets-design-a-simple-ui-sign-up-glassmorphism-page-o99)
-- [Documenting Your Tech Journey: The Key to Success](https://dev.to/stanleyogada/documenting-your-tech-journey-the-key-to-success-5hkg)
+- [Getting User Feedback for Success: Tips and Tools](https://dev.to/opensauced/getting-user-feedback-for-success-tips-and-tools-42mo)
 <!-- BLOG-POST-LIST:END -->
 
