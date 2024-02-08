@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Firewall: In-Depth Defense Strategies for Blue Teams, Part 1](https://dev.to/mohabgabber/beyond-the-firewall-in-depth-defense-strategies-for-blue-teams-part-1-46pg)
-- [React Usecallback for Kids/Beginners](https://dev.to/csituma/react-usecallback-for-kidsbeginners-18df)
-- [Mastering Module Management in Terraform: A Comprehensive Guide for Beginners](https://dev.to/cloudimole/mastering-module-management-in-terraform-a-comprehensive-guide-for-beginners-ifi)
-- [Simple SEO optimization for your Sveltekit website](https://dev.to/abdulmuminyqn/simple-seo-optimization-for-your-sveltekit-website-4lil)
+- [Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
+- [Understanding AWS Amplify Monitoring Metrics Definitions](https://dev.to/aws-builders/understanding-aws-amplify-monitoring-metrics-definitions-43c2)
+- [Why we chose Bun](https://dev.to/alertpix/why-we-chose-bun-28dk)
+- [Embracing the Future: Emerging Trends in Software Engineering](https://dev.to/daviewisdm/embracing-the-future-emerging-trends-in-software-engineering-2k0e)
 <!-- BLOG-POST-LIST:END -->
 
