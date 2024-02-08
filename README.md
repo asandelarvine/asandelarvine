@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Authorization and Authentication in Django](https://dev.to/devendra_2806/authorization-and-authentication-in-django-j53)
+- [Rust wont save us, but it&#39;s ideas will](https://dev.to/glitchbyte/rust-wont-save-us-but-its-ideas-will-3f5p)
+- [Github Actions certificate](https://dev.to/rafael_svieira/github-actions-certificate-2hnj)
 - [OOP via FP : functional nature of classes and objects](https://dev.to/taqmuraz/oop-via-fp-functional-nature-of-classes-and-objects-1i3m)
-- [Async and Await in JavaScript: A Comprehensive Guide](https://dev.to/mktheitguy/async-and-await-in-javascript-a-comprehensive-guide-1oka)
-- [Generating Videos from Images with Stable Video Diffusion and FiftyOne](https://dev.to/voxel51/generating-videos-from-images-with-stable-video-diffusion-and-fiftyone-2ilm)
-- [Elevate Your GitHub README Game](https://dev.to/voxel51/elevate-your-github-readme-game-49mg)
 <!-- BLOG-POST-LIST:END -->
 
