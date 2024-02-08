@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardening Apache APISIX with the OWASP&#39;s Coraza and Core Ruleset](https://dev.to/apisix/hardening-apache-apisix-with-the-owasps-coraza-and-core-ruleset-8la)
 - [Performance comparison: ReductStore Vs. Minio](https://dev.to/reductstore/performance-comparison-reductstore-vs-minio-2kij)
+- [Celebrating 10 Million Downloads](https://dev.to/polterguy/celebrating-10-million-downloads-24b3)
 - [File Type Detection in PHP](https://dev.to/sh20raj/file-type-detection-in-php-4cp)
-- [downloadFile&lpar;&rpar; - Download file from any URL as Your File in front of USER](https://dev.to/sh20raj/downloadfile-download-file-from-any-url-as-your-file-in-front-of-user-4cg2)
-- [Navigating Docker With Captains - Edith Puclla](https://dev.to/livecycle/navigating-docker-with-captains-edith-puclla-3jh3)
 <!-- BLOG-POST-LIST:END -->
 
