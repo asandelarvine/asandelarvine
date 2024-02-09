@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatCraft week 5: Storing multiple providers](https://dev.to/katiel/chatcraft-week-5-storing-multiple-providers-2mab)
+- [Fraud Capture: Identity Theft from a Data Science Perspective](https://dev.to/prove/fraud-capture-identity-theft-from-a-data-science-perspective-1bii)
+- [Why would you use Backend as a Service &lpar;BaaS&rpar;?](https://dev.to/opensauced/why-would-you-use-backend-as-a-service-baas-la7)
 - [Docker With ASP.net](https://dev.to/hasanelsherbiny/docker-with-aspnet-4c0i)
-- [yararlı linkler](https://dev.to/mustafacam/yararli-linkler-22ab)
-- [Por que &quot;tudo junto&quot; é separado e &quot;separado&quot; é tudo junto? Ou... divagações sobre estrutura de testes em .NET](https://dev.to/yanjustino/tudo-junto-e-separado-ou-separado-e-tudo-junto-divagacoes-sobre-estrutura-de-testes-em-net-4kmf)
-- [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
 <!-- BLOG-POST-LIST:END -->
 
