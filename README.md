@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New React dev-tools](https://dev.to/trikiahmed/new-react-dev-tools-4g9a)
+- [Building Cutting-Edge Apps with Next.js 14, TypeScript, Tailwind CSS, Ionic, and Capacitor](https://dev.to/uretzkyzvi/building-cutting-edge-apps-with-nextjs-14-typescript-tailwind-css-ionic-and-capacitor-5b9b)
 - [Kubernetes Services](https://dev.to/vromanov/kubernetes-services-1bj)
 - [🔟Lesser-Used Yet Valuable HTML Tags👨‍💻](https://dev.to/sudhil/lesser-used-yet-valuable-html-tags-3ndh)
-- [Introduction To Tensors: The Building Blocks Of Artificial Intelligence](https://dev.to/cyber_holics/introduction-to-tensors-the-building-blocks-of-artificial-intelligence-3lcb)
-- [What Kinds of Projects Belong in Your Developer Portfolio? 🚀](https://dev.to/brian_curricular/what-kinds-of-projects-belong-in-your-portfolio-n9g)
 <!-- BLOG-POST-LIST:END -->
 
