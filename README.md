@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [yararlı linkler](https://dev.to/mustafacam/yararli-linkler-22ab)
+- [Por que &quot;tudo junto&quot; é separado e &quot;separado&quot; é tudo junto? : divagações sobre estrutura de testes em .NET](https://dev.to/yanjustino/tudo-junto-e-separado-ou-separado-e-tudo-junto-divagacoes-sobre-estrutura-de-testes-em-net-4kmf)
 - [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
 - [6 Essential Steps to Adding CSS to the Vision Board Website](https://dev.to/theoriginalbpc/6-essential-steps-to-adding-css-to-the-vision-board-website-4h03)
-- [How to read zip files with SharpZip library in C#](https://dev.to/mteheran/how-to-read-zip-files-with-sharpzip-library-in-c-49ib)
 <!-- BLOG-POST-LIST:END -->
 
