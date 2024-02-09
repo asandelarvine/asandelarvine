@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity with These 10 AI-Powered Tools!](https://dev.to/yogini16/boost-your-productivity-with-these-10-ai-powered-tools-34al)
+- [Dynamic URL routing with Kontent.ai](https://dev.to/byteminds_agency/dynamic-url-routing-with-kontentai-5d46)
+- [ChatGPT: 5 Common Mistakes And How To Prevent Them](https://dev.to/kwan/chatgpt-5-common-mistakes-and-how-to-prevent-them-3049)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1c72)
-- [20 Free HTML landing page templates](https://dev.to/purnimashrestha/20-free-html-landing-page-templates-484n)
-- [Crypto Security Guide: Everything You Need to Know to Protect Your Crypto](https://dev.to/deniz_tutku/crypto-security-guide-everything-you-need-to-know-to-protect-your-crypto-105p)
-- [Domain-Driven Design de forma estratégica: O Início](https://dev.to/emergingcode/domain-driven-design-de-forma-estrategica-o-inicio-1df2)
 <!-- BLOG-POST-LIST:END -->
 
