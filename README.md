@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Jobs Requiring Little Formal Education](https://dev.to/scofieldidehen/10-jobs-requiring-little-formal-education-5444)
+- [How to Format an eBook For Publishing?](https://dev.to/alphaebook/how-to-format-an-ebook-for-publishing-29h8)
 - [Docker Hands-On Part 02](https://dev.to/randiakm/docker-hands-on-part-02-34cj)
-- [Why use Obsidian for software development?](https://dev.to/sc0v0ne/why-use-obsidian-for-software-development-3j42)
-- [Are Self-Made Apps the Game-Changer?](https://dev.to/devteam/are-self-made-apps-the-game-changer-4mn5)
-- [Updates from the 100th TC39 meeting](https://dev.to/hemanth/updates-from-the-100th-tc39-meeting-4j2f)
+- [Streamlining Infrastructure: Installing Backstage Developer Portal and Managing Azure Resources with Terraform &lpar;Part-2&rpar;](https://dev.to/gittest20202/streamlining-infrastructure-installing-backstage-developer-portal-and-managing-azure-resources-with-terraform-part-2-37bg)
 <!-- BLOG-POST-LIST:END -->
 
