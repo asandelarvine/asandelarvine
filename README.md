@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Essential Steps to Adding CSS to the Vision Board Website](https://dev.to/theoriginalbpc/6-essential-steps-to-adding-css-to-the-vision-board-website-4h03)
 - [How to read zip files with SharpZip library in C#](https://dev.to/mteheran/how-to-read-zip-files-with-sharpzip-library-in-c-49ib)
 - [All Javascript Conferences in 2024](https://dev.to/techtalksweekly/all-javascript-conferences-in-2024-1l9c)
-- [100+ JavaScript Projects With Source Code](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo)
-- [Struggles with css](https://dev.to/eshwanthkartitr/struggles-with-css-405j)
+- [Linux Access Control Lists &lpar;ACLs&rpar;: A Simplified Guide with Examples](https://dev.to/mbayoun95/linux-access-control-lists-acls-a-simplified-guide-with-examples-kdi)
 <!-- BLOG-POST-LIST:END -->
 
