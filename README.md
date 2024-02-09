@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why use Obsidian for software development?](https://dev.to/sc0v0ne/why-use-obsidian-for-software-development-3j42)
 - [Updates from the 100th TC39 meeting](https://dev.to/hemanth/updates-from-the-100th-tc39-meeting-4j2f)
 - [Can Redis be used as a Primary database?](https://dev.to/nnomier/can-redis-be-used-as-a-primary-database-5d4b)
-- [How I Built a Profanity Blocking JavaScript Library 🤬 ⚡](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
-- [Understanding Ethernet and Fiber Op](https://dev.to/odoth4kz/wrapping-minds-around-cable-4d4e)
+- [⚡ How I Made a Profanity Detection and Filtering JavaScript Library 🤬](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
 <!-- BLOG-POST-LIST:END -->
 
