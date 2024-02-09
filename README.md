@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Hands-On Part 02](https://dev.to/randiakm/docker-hands-on-part-02-34cj)
 - [Why use Obsidian for software development?](https://dev.to/sc0v0ne/why-use-obsidian-for-software-development-3j42)
+- [Are Self-Made Apps the Game-Changer?](https://dev.to/devteam/are-self-made-apps-the-game-changer-4mn5)
 - [Updates from the 100th TC39 meeting](https://dev.to/hemanth/updates-from-the-100th-tc39-meeting-4j2f)
-- [Configuring Prettier and ESLint in Your VSCode TypeScript Project](https://dev.to/nwhitmont/configuring-prettier-and-eslint-in-your-vscode-typescript-project-3fa9)
-- [Can Redis be used as a Primary database?](https://dev.to/nnomier/can-redis-be-used-as-a-primary-database-5d4b)
 <!-- BLOG-POST-LIST:END -->
 
