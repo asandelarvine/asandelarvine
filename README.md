@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to read zip files with SharpZip library in C#](https://dev.to/mteheran/how-to-read-zip-files-with-sharpzip-library-in-c-49ib)
+- [All Javascript Conferences in 2024](https://dev.to/techtalksweekly/all-javascript-conferences-in-2024-1l9c)
 - [100+ JavaScript Projects With Source Code](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo)
 - [Struggles with css](https://dev.to/eshwanthkartitr/struggles-with-css-405j)
-- [Reactivity Practicality in Popular JS Libraries](https://dev.to/ninjin/reactivity-practicality-in-popular-libraries-d6m)
-- [New React dev-tools](https://dev.to/trikiahmed/new-react-dev-tools-4g9a)
 <!-- BLOG-POST-LIST:END -->
 
