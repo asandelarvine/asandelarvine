@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Why use Obsidian for software development?](https://dev.to/sc0v0ne/why-use-obsidian-for-software-development-3j42)
 - [Updates from the 100th TC39 meeting](https://dev.to/hemanth/updates-from-the-100th-tc39-meeting-4j2f)
+- [Configuring Prettier and ESLint in Your VSCode TypeScript Project](https://dev.to/nwhitmont/configuring-prettier-and-eslint-in-your-vscode-typescript-project-3fa9)
 - [Can Redis be used as a Primary database?](https://dev.to/nnomier/can-redis-be-used-as-a-primary-database-5d4b)
-- [⚡ I Made a JavaScript Library that Leaves Profanity Speechless! 🤬](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
 <!-- BLOG-POST-LIST:END -->
 
