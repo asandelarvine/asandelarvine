@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1c72)
+- [20 Free HTML landing page templates](https://dev.to/purnimashrestha/20-free-html-landing-page-templates-484n)
 - [Crypto Security Guide: Everything You Need to Know to Protect Your Crypto](https://dev.to/deniz_tutku/crypto-security-guide-everything-you-need-to-know-to-protect-your-crypto-105p)
-- [Introduction to Helm: Comparison to its less-scary cousin APT](https://dev.to/kubeden/introduction-to-helm-comparison-to-its-less-scary-cousin-apt-37ff)
-- [Exploration of Flutter Hot Update Technology](https://dev.to/happyer/exploration-of-flutter-hot-update-technology-2577)
-- [Build a Documentation Website with Gatsby in 10 Mins](https://dev.to/scofieldidehen/build-a-documentation-website-with-gatsby-in-10-mins-3b3m)
+- [Domain-Driven Design de forma estratégica: O Início](https://dev.to/emergingcode/domain-driven-design-de-forma-estrategica-o-inicio-1df2)
 <!-- BLOG-POST-LIST:END -->
 
