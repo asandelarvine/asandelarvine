@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Blockchain in Digital Security](https://dev.to/codedecoders/the-future-of-blockchain-in-digital-security-42in)
-- [Optimizing DevOps automation in the AWS cloud with GitHub Actions](https://dev.to/devsatasurion/optimizing-devops-automation-in-the-aws-cloud-with-github-actions-42o8)
-- [Understanding RESTful API Development with Node.js and Express: A Guide to Controller Methods](https://dev.to/humjerry/understanding-restful-api-development-with-nodejs-and-express-a-guide-to-controller-methods-2al1)
-- [5 Best Instant Messaging APIs](https://dev.to/ably/5-best-instant-messaging-apis-4g7e)
+- [Kubernetes Services](https://dev.to/vromanov/kubernetes-services-1bj)
+- [🔟Lesser-Used Yet Valuable HTML Tags👨‍💻](https://dev.to/sudhil/lesser-used-yet-valuable-html-tags-3ndh)
+- [Introduction To Tensors: The Building Blocks Of Artificial Intelligence](https://dev.to/cyber_holics/introduction-to-tensors-the-building-blocks-of-artificial-intelligence-3lcb)
+- [What Kinds of Projects Belong in Your Developer Portfolio? 🚀](https://dev.to/brian_curricular/what-kinds-of-projects-belong-in-your-portfolio-n9g)
 <!-- BLOG-POST-LIST:END -->
 
