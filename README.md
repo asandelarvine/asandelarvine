@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Helm: Comparison to its less-scary cousin APT](https://dev.to/kubeden/introduction-to-helm-comparison-to-its-less-scary-cousin-apt-37ff)
+- [Build a Documentation Website with Gatsby in 10 Mins](https://dev.to/scofieldidehen/build-a-documentation-website-with-gatsby-in-10-mins-3b3m)
+- [A new online form builder alternative just dropped](https://dev.to/sididev/a-new-online-form-builder-alternative-just-dropped-4hl0)
 - [This Week In React #173: Million, Storybook, visionOS, Expo, Conform, Next.js, Remix, Astro, Apollo, useFormStatus...](https://dev.to/sebastienlorber/this-week-in-react-173-million-storybook-visionos-expo-conform-nextjs-remix-astro-apollo-useformstatus-49fj)
-- [The Weird Side Of JavaScript](https://dev.to/arafat4693/the-weird-side-of-javascript-5kl)
-- [.NET Core vs. .NET: Making the Right Choice for 2024](https://dev.to/glenallen/net-core-vs-net-making-the-right-choice-for-2024-p00)
-- [How to create a good README.md file](https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2)
 <!-- BLOG-POST-LIST:END -->
 
