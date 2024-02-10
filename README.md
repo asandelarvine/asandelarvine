@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Personal Serverless Rust Developer Experience. It’s Better Than You Think](https://dev.to/aws-builders/my-personal-serverless-rust-developer-experience-its-better-than-you-think-8gl)
 - [Go 1.22&#39;s HTTP Package Updates](https://dev.to/douglasmakey/go-122s-http-package-updates-1e7o)
 - [Choosing Between a Streaming Database and a Stream Processing Framework in Python](https://dev.to/bobur/choosing-between-a-streaming-database-and-a-stream-processing-framework-in-python-2enp)
 - [Ultimate Cross-Platform Framework Selection: Flutter or React Native](https://dev.to/happyer/ultimate-cross-platform-framework-selection-flutter-or-react-native-5e11)
-- [Locally hosted AI writing assistant](https://dev.to/wagenrace/locally-hosted-ai-writing-assistant-1bfa)
 <!-- BLOG-POST-LIST:END -->
 
