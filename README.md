@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I suck at writing!](https://dev.to/twomodone/i-suck-at-writing-22n3)
 - [Real-Time Cryptocurrency Price Charts in React with Python Websockets](https://dev.to/scofieldidehen/real-time-cryptocurrency-price-charts-in-react-with-python-websockets-267g)
 - [Essential Insights on Core Web Vitals for E-commerce Success](https://dev.to/linearloophq/essential-insights-on-core-web-vitals-for-e-commerce-success-3i9d)
 - [ResearchHub: The GitHub of Scientific Research](https://dev.to/opensauced/researchhub-the-github-of-scientific-research-fi1)
-- [Golang&#39;s Attack On Memory &lpar;Go1.22 Update Issue&rpar;](https://dev.to/chigbeef_77/golangs-attack-on-memory-go122-update-issue-19f)
 <!-- BLOG-POST-LIST:END -->
 
