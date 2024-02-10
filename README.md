@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactor and Reboot: Time to Clear Backlog in Open Source](https://dev.to/amnish04/refactor-and-reboot-time-to-clear-backlog-in-open-source-4e3g)
 - [Сhannel - Universal Reactive Abstraction](https://dev.to/ninjin/shannel-universal-reactive-abstraction-2k4e)
 - [My Personal Serverless Rust Developer Experience. It’s Better Than You Think](https://dev.to/aws-builders/my-personal-serverless-rust-developer-experience-its-better-than-you-think-8gl)
 - [Go 1.22&#39;s HTTP Package Updates](https://dev.to/douglasmakey/go-122s-http-package-updates-1e7o)
-- [Uncovering Middleware in Node.js and Express: A Comprehensive Guide](https://dev.to/humjerry/uncovering-middleware-in-nodejs-and-express-a-comprehensive-guide-39p7)
 <!-- BLOG-POST-LIST:END -->
 
