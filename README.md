@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angel Hack Community Builder&#39;s Programme 2024](https://dev.to/coderatul/angel-hack-community-builders-programme-2024-1me6)
 - [I suck at writing!](https://dev.to/twomodone/i-suck-at-writing-22n3)
 - [Real-Time Cryptocurrency Price Charts in React with Python Websockets](https://dev.to/scofieldidehen/real-time-cryptocurrency-price-charts-in-react-with-python-websockets-267g)
 - [Essential Insights on Core Web Vitals for E-commerce Success](https://dev.to/linearloophq/essential-insights-on-core-web-vitals-for-e-commerce-success-3i9d)
-- [ResearchHub: The GitHub of Scientific Research](https://dev.to/opensauced/researchhub-the-github-of-scientific-research-fi1)
 <!-- BLOG-POST-LIST:END -->
 
