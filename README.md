@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding `this` keyword in javascript](https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp)
+- [Angular 17.1 Testing Signal Inputs with Jest](https://dev.to/borisjenicek/harnessing-the-power-of-angular-signal-inputs-next-level-component-testing-4dg3)
 - [Plugin for Building and Managing Plugins!](https://dev.to/voxel51/plugin-for-building-and-managing-plugins-oap)
 - [8 Common Mistakes Web Developers Make and How They Can Be Avoided](https://dev.to/syedbalkhi/8-common-mistakes-web-developers-make-and-how-they-can-be-avoided-5c1)
-- [Cracking the JD Code: How Important Are Job Requirements?](https://dev.to/devteam/cracking-the-jd-code-how-important-are-job-requirements-5f14)
-- [ChatCraft week 5: Storing multiple providers](https://dev.to/katiel/chatcraft-week-5-storing-multiple-providers-2mab)
 <!-- BLOG-POST-LIST:END -->
 
