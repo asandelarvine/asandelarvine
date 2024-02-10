@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Сhannel - Universal Reactive Abstraction](https://dev.to/ninjin/shannel-universal-reactive-abstraction-2k4e)
 - [My Personal Serverless Rust Developer Experience. It’s Better Than You Think](https://dev.to/aws-builders/my-personal-serverless-rust-developer-experience-its-better-than-you-think-8gl)
 - [Go 1.22&#39;s HTTP Package Updates](https://dev.to/douglasmakey/go-122s-http-package-updates-1e7o)
-- [Choosing Between a Streaming Database and a Stream Processing Framework in Python](https://dev.to/bobur/choosing-between-a-streaming-database-and-a-stream-processing-framework-in-python-2enp)
-- [Ultimate Cross-Platform Framework Selection: Flutter or React Native](https://dev.to/happyer/ultimate-cross-platform-framework-selection-flutter-or-react-native-5e11)
+- [Uncovering Middleware in Node.js and Express: A Comprehensive Guide](https://dev.to/humjerry/uncovering-middleware-in-nodejs-and-express-a-comprehensive-guide-39p7)
 <!-- BLOG-POST-LIST:END -->
 
