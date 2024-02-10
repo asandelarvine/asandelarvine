@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON.stringify: JavaScript Serialization Simplified](https://dev.to/mitchiemt11/jsonstringify-javascript-serialization-simplified-5akf)
-- [Behind the Scenes: What Really Happens When You Type a URL in Your Browser](https://dev.to/markrizkalla/behind-the-scenes-what-really-happens-when-you-type-a-url-in-your-browser-4mcp)
-- [require Vs import: Old Vs New war in Javascript](https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj)
-- [Encryption vs Hashing 🤔 Lets decode](https://dev.to/repana_tech_docs/encryption-vs-hashing-lets-decode-2a24)
+- [Real-Time Cryptocurrency Price Charts in React with Python Websockets](https://dev.to/scofieldidehen/real-time-cryptocurrency-price-charts-in-react-with-python-websockets-267g)
+- [Essential Insights on Core Web Vitals for E-commerce Success](https://dev.to/linearloophq/essential-insights-on-core-web-vitals-for-e-commerce-success-3i9d)
+- [ResearchHub: The GitHub of Scientific Research](https://dev.to/opensauced/researchhub-the-github-of-scientific-research-fi1)
+- [Golang&#39;s Attack On Memory &lpar;Go1.22 Update Issue&rpar;](https://dev.to/chigbeef_77/golangs-attack-on-memory-go122-update-issue-19f)
 <!-- BLOG-POST-LIST:END -->
 
