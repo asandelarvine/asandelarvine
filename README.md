@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Plugin for Building and Managing Plugins!](https://dev.to/voxel51/plugin-for-building-and-managing-plugins-oap)
+- [8 Common Mistakes Web Developers Make and How They Can Be Avoided](https://dev.to/syedbalkhi/8-common-mistakes-web-developers-make-and-how-they-can-be-avoided-5c1)
+- [Cracking the JD Code: How Important Are Job Requirements?](https://dev.to/devteam/cracking-the-jd-code-how-important-are-job-requirements-5f14)
 - [ChatCraft week 5: Storing multiple providers](https://dev.to/katiel/chatcraft-week-5-storing-multiple-providers-2mab)
-- [Fraud Capture: Identity Theft from a Data Science Perspective](https://dev.to/prove/fraud-capture-identity-theft-from-a-data-science-perspective-1bii)
-- [Why would you use Backend as a Service &lpar;BaaS&rpar;?](https://dev.to/opensauced/why-would-you-use-backend-as-a-service-baas-la7)
-- [Docker With ASP.net](https://dev.to/hasanelsherbiny/docker-with-aspnet-4c0i)
 <!-- BLOG-POST-LIST:END -->
 
