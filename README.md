@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angel Hack Community Builder&#39;s Programme 2024](https://dev.to/coderatul/angel-hack-community-builders-programme-2024-1me6)
-- [I suck at writing!](https://dev.to/twomodone/i-suck-at-writing-22n3)
-- [Real-Time Cryptocurrency Price Charts in React with Python Websockets](https://dev.to/scofieldidehen/real-time-cryptocurrency-price-charts-in-react-with-python-websockets-267g)
-- [Essential Insights on Core Web Vitals for E-commerce Success](https://dev.to/linearloophq/essential-insights-on-core-web-vitals-for-e-commerce-success-3i9d)
+- [Ultimate Cross-Platform Framework Selection: Flutter or React Native](https://dev.to/happyer/ultimate-cross-platform-framework-selection-flutter-or-react-native-5e11)
+- [Locally hosted AI writing assistant](https://dev.to/wagenrace/locally-hosted-ai-writing-assistant-1bfa)
+- [Do you use bcrypt or other 3rd-party npm packages when hashing user password?](https://dev.to/iamgreenintro/do-you-use-bcrypt-or-other-3rd-party-npm-packages-when-hashing-user-password-49bi)
+- [Advanced End-to-End DevOps Project: Deploying A Microservices APP To AWS EKS using Terraform, Helm, Jenkins And ArgoCD &lpar;Part I&rpar;](https://dev.to/kelvinskell/advanced-end-to-end-devops-project-deploying-a-microservices-app-to-aws-eks-using-terraform-helm-jenkins-and-argocd-part-i-3a53)
 <!-- BLOG-POST-LIST:END -->
 
