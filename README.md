@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vim](https://dev.to/thecrystalcave/vim-484)
+- [DIY Home Security Camera System](https://dev.to/pauljlucas/diy-home-security-camera-system-160p)
+- [Microservices: Avoiding the Pitfalls, Embracing the Potential - A Guide to Anti-Patterns](https://dev.to/adityapratapbh1/microservices-avoiding-the-pitfalls-embracing-the-potential-a-guide-to-anti-patterns-4ina)
 - [20 JavaScript One-Liners That’ll Make You Look Like a Pro](https://dev.to/durgesh4993/20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3)
-- [How to Become a Better Coder?](https://dev.to/anitaolsen/how-to-become-a-better-coder-33dl)
-- [7 Side Hustle Ideas for Developers](https://dev.to/durgesh4993/7-side-hustle-ideas-for-developers-1p5l)
-- [JavaScript Tricks for Efficient Coding: Mastering Techniques Every Developer Should Know](https://dev.to/mktheitguy/javascript-tricks-for-efficient-coding-mastering-techniques-every-developer-should-know-1lfd)
 <!-- BLOG-POST-LIST:END -->
 
