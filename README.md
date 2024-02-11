@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrity Constraints in DBMS](https://dev.to/drvcodenta/integrity-constraints-in-dbms-576d)
+- [Building an Image Resizer with Flask, React and Vite](https://dev.to/ethand91/building-an-image-resizer-with-flask-react-and-vite-4fdd)
 - [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/codewithshahan/skills-to-become-a-backend-developer-in-6-months-roadmap-4li3)
 - [Why You Should Learn Astro.JS: The Future of Frontend Development](https://dev.to/benajaero/why-you-should-learn-astrojs-the-future-of-frontend-development-21cj)
-- [GitHub Field Day USA 2024: Microsoft Reactor New York City](https://dev.to/1grace/github-field-day-usa-2024-microsoft-reactor-new-york-city-k1)
-- [How to write an Awesome README.md](https://dev.to/sanjaykhanssk/how-to-write-an-awesome-readmemd-6n2)
 <!-- BLOG-POST-LIST:END -->
 
