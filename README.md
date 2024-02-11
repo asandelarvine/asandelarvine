@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Field Day USA 2024: Microsoft Reactor New York City](https://dev.to/1grace/github-field-day-usa-2024-microsoft-reactor-new-york-city-k1)
+- [How to write an Awesome README.md](https://dev.to/sanjaykhanssk/how-to-write-an-awesome-readmemd-6n2)
 - [How to Force Quit Unresponsive Applications via CLI on macOS](https://dev.to/mochafreddo/how-to-force-quit-unresponsive-applications-via-cli-on-macos-490g)
 - [Dev.to Top Supported Embedding Liquid Syntax](https://dev.to/sh20raj/devto-top-liquid-syntax-2n07)
-- [Programming Memes](https://dev.to/programmingmemes/programming-memes-3ehl)
-- [Coding on a Chromebook](https://dev.to/kaamkiya/coding-on-a-chromebook-3egj)
 <!-- BLOG-POST-LIST:END -->
 
