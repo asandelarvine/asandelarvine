@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the Layers of System Requirements in Software Architecture](https://dev.to/ndohjapan/unraveling-the-layers-of-system-requirements-in-software-architecture-api)
+- [Hello World 👋🌎](https://dev.to/eigenscribe/hello-world-2oak)
 - [Beware When Buying M2 NVMe SSDs: Netac NV7000, Kioxia Exceria Plus G2, Kingston and Sandisk Compared](https://dev.to/furkangozukara/beware-when-buying-m2-nvme-ssds-netac-nv7000-kioxia-exceria-plus-g2-kingston-and-sandisk-compared-mk5)
 - [Gin Up Your Workflow: A Go REST API Crash Course](https://dev.to/vuelancer/gin-up-your-workflow-a-go-rest-api-crash-course-1ihc)
-- [Data Validation: Scratching Surface of Code Responsibility](https://dev.to/oberonus/data-validation-scratching-surface-of-code-responsibility-1fij)
-- [Vim](https://dev.to/thecrystalcave/vim-484)
 <!-- BLOG-POST-LIST:END -->
 
