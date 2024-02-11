@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4f8c)
+- [The CORS Conundrum](https://dev.to/umangsinha12/the-cors-conundrum-4k83)
 - [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4f8c)
 - [🏆 Ultimate productivity system](https://dev.to/hexnickk/ultimate-productivity-system-2foo)
-- [Java Testing tools for 2024](https://dev.to/ivangavlik/java-testing-tools-for-2024-2di0)
 <!-- BLOG-POST-LIST:END -->
 
