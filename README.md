@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [20 JavaScript One-Liners That’ll Make You Look Like a Pro](https://dev.to/durgesh4993/20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3)
+- [How to Become a Better Coder?](https://dev.to/anitaolsen/how-to-become-a-better-coder-33dl)
 - [7 Side Hustle Ideas for Developers](https://dev.to/durgesh4993/7-side-hustle-ideas-for-developers-1p5l)
-- [Comprehensive Comparison of Electron and Flutter: Choosing the Right Cross-Platform Development Framework for Your Project](https://dev.to/happyer/comprehensive-comparison-of-electron-and-flutter-choosing-the-right-cross-platform-development-framework-for-your-project-jd8)
-- [Introducing Your Forms: The Ultimate Form Builder for Notion &lpar;Beta&rpar;](https://dev.to/lelouchb/introducing-your-forms-the-ultimate-form-builder-for-notion-beta-f8g)
+- [JavaScript Tricks for Efficient Coding: Mastering Techniques Every Developer Should Know](https://dev.to/mktheitguy/javascript-tricks-for-efficient-coding-mastering-techniques-every-developer-should-know-1lfd)
 <!-- BLOG-POST-LIST:END -->
 
