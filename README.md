@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4f8c)
 - [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
 - [🏆 Ultimate productivity system](https://dev.to/hexnickk/ultimate-productivity-system-2foo)
-- [Refactor and Reboot: Time to Clear Backlog in Open Source](https://dev.to/amnish04/refactor-and-reboot-time-to-clear-backlog-in-open-source-4e3g)
+- [Java Testing tools for 2024](https://dev.to/ivangavlik/java-testing-tools-for-2024-2di0)
 <!-- BLOG-POST-LIST:END -->
 
