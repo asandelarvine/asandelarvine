@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Repo Quick Setup on Terminal](https://dev.to/sh20raj/github-repo-quick-setup-on-terminal-4kf)
+- [Add Ad Blocker Detector to Your Website - Maximise Revenue 💸](https://dev.to/sh20raj/add-ad-blocker-detector-to-your-website-maximise-revenue-o0m)
+- [Transforming Lives Through Code: freeCodeCamp](https://dev.to/opensauced/transforming-lives-through-code-freecodecamp-m7p)
 - [Integrity Constraints in DBMS](https://dev.to/drvcodenta/integrity-constraints-in-dbms-576d)
-- [Building an Image Resizer with Flask, React and Vite](https://dev.to/ethand91/building-an-image-resizer-with-flask-react-and-vite-4fdd)
-- [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/codewithshahan/skills-to-become-a-backend-developer-in-6-months-roadmap-4li3)
-- [Why You Should Learn Astro.JS: The Future of Frontend Development](https://dev.to/benajaero/why-you-should-learn-astrojs-the-future-of-frontend-development-21cj)
 <!-- BLOG-POST-LIST:END -->
 
