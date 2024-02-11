@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Gin Up Your Workflow: A Go REST API Crash Course](https://dev.to/vuelancer/gin-up-your-workflow-a-go-rest-api-crash-course-1ihc)
+- [Data Validation: Scratching Surface of Code Responsibility](https://dev.to/oberonus/data-validation-scratching-surface-of-code-responsibility-1fij)
 - [Vim](https://dev.to/thecrystalcave/vim-484)
 - [DIY Home Security Camera System](https://dev.to/pauljlucas/diy-home-security-camera-system-160p)
-- [Microservices: Avoiding the Pitfalls, Embracing the Potential - A Guide to Anti-Patterns](https://dev.to/adityapratapbh1/microservices-avoiding-the-pitfalls-embracing-the-potential-a-guide-to-anti-patterns-4ina)
-- [20 JavaScript One-Liners That’ll Make You Look Like a Pro](https://dev.to/durgesh4993/20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3)
 <!-- BLOG-POST-LIST:END -->
 
