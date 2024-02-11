@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Repo Quick Setup on Terminal](https://dev.to/sh20raj/github-repo-quick-setup-on-terminal-4kf)
-- [Add Ad Blocker Detector to Your Website - Maximise Revenue 💸](https://dev.to/sh20raj/add-ad-blocker-detector-to-your-website-maximise-revenue-o0m)
-- [Transforming Lives Through Code: freeCodeCamp](https://dev.to/opensauced/transforming-lives-through-code-freecodecamp-m7p)
-- [Integrity Constraints in DBMS](https://dev.to/drvcodenta/integrity-constraints-in-dbms-576d)
+- [Yet Another Newsletter LOL: Madden 2025](https://dev.to/nickytonline/yet-another-newsletter-lol-madden-2025-5g1m)
+- [Efficient batch processing for event-driven chunking](https://dev.to/seongjin605/efficient-batch-processing-for-event-driven-chunking-imd)
+- [Headers y Spring Boot HTTP Interface](https://dev.to/agustinventura/headers-y-spring-boot-http-interface-4515)
+- [OWASP API3:2023 Broken Object Property Level Authorization 💔🔑🛠️](https://dev.to/sre_panchanan/broken-object-property-level-authorization-bk8)
 <!-- BLOG-POST-LIST:END -->
 
