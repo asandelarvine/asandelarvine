@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All about API testing &amp; Keploy](https://dev.to/arindam_1729/all-about-api-testing-keploy-2pjk)
-- [Getting Started with Keploy](https://dev.to/arindam_1729/getting-started-with-keploy-4620)
-- [Building in Public: Leveraging Tublian&#39;s AI Copilot for My Open Source Contributions](https://dev.to/lymah/building-in-public-leveraging-tublians-ai-copilot-for-my-open-source-contributions-3591)
-- [Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!](https://dev.to/devteam/introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l)
+- [Discussion of the Week: &quot;Any advice for someone who wants to start learning React.js?&quot;](https://dev.to/devteam/discussion-of-the-week-any-advice-for-someone-who-wants-to-start-learning-reactjs-1m0j)
+- [My first post](https://dev.to/heiberperezr/my-first-post-2mn5)
+- [🧹 It&#39;s Time to Spring Clean Your Codebase: Celebrate National Clean Out Your Computer Day! 🖥️ ✨](https://dev.to/best_codes/its-time-to-spring-clean-your-codebase-celebrate-national-clean-out-your-computer-day-3656)
+- [Worbler AI on iOS App store! 🚀](https://dev.to/worblerai/worbler-ai-on-ios-app-store-19b8)
 <!-- BLOG-POST-LIST:END -->
 
