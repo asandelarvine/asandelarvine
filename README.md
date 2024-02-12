@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top websites using NextJS](https://dev.to/sh20raj/top-websites-using-nextjs-4fin)
-- [Banana Decryption: Unpacking Caesar Cipher with Power Automate](https://dev.to/balagmadhu/banana-decryption-unpacking-caesar-cipher-with-power-automate-595p)
-- [Ensuring Business Continuity: How Penetration Testing Services Safeguard B2B Operations](https://dev.to/micromindercs/ensuring-business-continuity-how-penetration-testing-services-safeguard-b2b-operations-3phm)
-- [Un cóctel perfecto 🍹 ECS Fargate, Service Connect,Terraform y Github Actions.](https://dev.to/aws-espanol/un-coctel-perfecto-ecs-fargate-service-connectterraform-y-github-actions-139k)
+- [json-responder 1.1: dynamic path resolution](https://dev.to/nabbisen/json-responder-11-dynamic-path-resolution-3beg)
+- [More About File Operations in C Including File Descriptors](https://dev.to/thecodingcivilengineer/more-about-file-operations-in-c-including-file-descriptors-1ip8)
+- [Implementing a Service Oriented Architecture in 2024](https://dev.to/giteden/implementing-a-service-oriented-architecture-in-2024-56mn)
+- [AWS open source newsletter, #188](https://dev.to/aws/aws-open-source-newsletter-188-1fib)
 <!-- BLOG-POST-LIST:END -->
 
