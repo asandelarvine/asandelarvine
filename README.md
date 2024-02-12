@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a simple code snippet manager with Neon’s serverless driver, Clerk, and Nextjs](https://dev.to/hackmamba/build-a-simple-code-snippet-manager-with-neons-serverless-driver-clerk-and-nextjs-2jeh)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3180)
-- [7 Must-Have Figma Plugins for Effortless HTML &amp; CSS Conversion](https://dev.to/thenomadevel/7-must-have-figma-plugins-for-effortless-html-css-conversion-29m1)
-- [Creating Resizable Elements in Web Development](https://dev.to/sh20raj/creating-resizable-elements-in-web-development-3601)
+- [Building in Public: Leveraging Tublian&#39;s AI Copilot for My Open Source Contributions](https://dev.to/lymah/building-in-public-leveraging-tublians-ai-copilot-for-my-open-source-contributions-3591)
+- [Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!](https://dev.to/devteam/introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l)
+- [Master TypeScript Quality with This Essential Checklist](https://dev.to/aris_pattakos/master-typescript-quality-with-this-essential-checklist-1k05)
+- [Three open source alternatives to Calendly](https://dev.to/opensauced/three-open-source-alternatives-to-calendly-42ac)
 <!-- BLOG-POST-LIST:END -->
 
