@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Top Tools for Transforming Figma Designs into Vue.js Code](https://dev.to/cyberpunker/the-top-tools-for-transforming-figma-designs-into-vuejs-code-4el)
-- [Figma to Vue.js: Bridging Design and Development Seamlessly](https://dev.to/cyberpunker/figma-to-vuejs-bridging-design-and-development-seamlessly-53pe)
-- [Guide to Creating Lambda Functions within AWS CDK Constructs](https://dev.to/saidurgach/guide-to-creating-lambda-functions-within-aws-cdk-constructs-1jbc)
-- [Codia AI: Shaping the Design and Code Revolution of 2024](https://dev.to/happyer/codia-ai-shaping-the-design-and-code-revolution-of-2024-1jf3)
+- [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
+- [🔥🔥🔥 Awesome libs &amp; packages for WEB applications &amp; development &lpar;2024&rpar; 🔥🔥🔥](https://dev.to/cookiemonsterdev/awesome-libs-packages-for-web-applications-development-2024-44lj)
+- [Create Next js app in current directory](https://dev.to/sh20raj/create-next-js-app-in-current-directory-5f0d)
+- [Live Streaming from Unity with Amazon IVS - Part 1](https://dev.to/aws/live-streaming-from-unity-with-amazon-ivs-part-1-52nc)
 <!-- BLOG-POST-LIST:END -->
 
