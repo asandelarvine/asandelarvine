@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🇹🇭 A Trip to Thailand…Did it change my life as a Dev?](https://dev.to/evergrowingdev/a-trip-to-thailanddid-it-change-my-life-as-a-dev-3j3h)
-- [Install Go on Ubuntu: A Step-By-Step Guide](https://dev.to/serversupportexperts/install-go-on-ubuntu-a-step-by-step-guide-4goh)
-- [How you can create your own custom chatbot with your own custom data using Google Gemini API all for free](https://dev.to/wmisingo/how-you-can-create-your-own-custom-chatbot-with-your-own-custom-data-using-google-gemini-api-all-for-free-iap)
-- [🛠️ 7 React Projects to Build in 2024](https://dev.to/codebootcamp/7-react-projects-to-build-in-2024-1mhd)
+- [The Top Tools for Transforming Figma Designs into Vue.js Code](https://dev.to/cyberpunker/the-top-tools-for-transforming-figma-designs-into-vuejs-code-4el)
+- [Figma to Vue.js: Bridging Design and Development Seamlessly](https://dev.to/cyberpunker/figma-to-vuejs-bridging-design-and-development-seamlessly-53pe)
+- [Guide to Creating Lambda Functions within AWS CDK Constructs](https://dev.to/saidurgach/guide-to-creating-lambda-functions-within-aws-cdk-constructs-1jbc)
+- [Codia AI: Shaping the Design and Code Revolution of 2024](https://dev.to/happyer/codia-ai-shaping-the-design-and-code-revolution-of-2024-1jf3)
 <!-- BLOG-POST-LIST:END -->
 
