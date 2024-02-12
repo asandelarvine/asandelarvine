@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All about API testing &amp; Keploy](https://dev.to/arindam_1729/all-about-api-testing-keploy-2pjk)
+- [Getting Started with Keploy](https://dev.to/arindam_1729/getting-started-with-keploy-4620)
 - [Building in Public: Leveraging Tublian&#39;s AI Copilot for My Open Source Contributions](https://dev.to/lymah/building-in-public-leveraging-tublians-ai-copilot-for-my-open-source-contributions-3591)
 - [Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!](https://dev.to/devteam/introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l)
-- [Master TypeScript Quality with This Essential Checklist](https://dev.to/aris_pattakos/master-typescript-quality-with-this-essential-checklist-1k05)
-- [Three open source alternatives to Calendly](https://dev.to/opensauced/three-open-source-alternatives-to-calendly-42ac)
 <!-- BLOG-POST-LIST:END -->
 
