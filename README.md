@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Codebases for AI Development Era](https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn)
+- [Resolving Memory Fragmentation for Linkedlist Heap Allocator](https://dev.to/raineyanguoft/resolving-memory-fragmentation-for-linkedlist-heap-allocator-3j4a)
+- [Harnessing the Power of React: Unveiling its Strengths Over Other JavaScript Frameworks](https://dev.to/rukundoprince/harnessing-the-power-of-react-unveiling-its-strengths-over-other-javascript-frameworks-5fpa)
 - [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
-- [Unraveling the Layers of System Requirements in Software Architecture](https://dev.to/ndohjapan/unraveling-the-layers-of-system-requirements-in-software-architecture-api)
-- [Hello World 👋🌎](https://dev.to/eigenscribe/hello-world-2oak)
-- [Beware When Buying M2 NVMe SSDs: Netac NV7000, Kioxia Exceria Plus G2, Kingston and Sandisk Compared](https://dev.to/furkangozukara/beware-when-buying-m2-nvme-ssds-netac-nv7000-kioxia-exceria-plus-g2-kingston-and-sandisk-compared-mk5)
 <!-- BLOG-POST-LIST:END -->
 
