@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [StateX](https://dev.to/andrious/statex-4f99)
+- [[20 Days of DynamoDB] Day 19 - PartiQL Batch Operations](https://dev.to/aws/20-days-of-dynamodb-day-19-partiql-batch-operations-mg6)
 - [Performance at scale: Amazon Aurora](https://dev.to/farrukhkhalid/performance-at-scale-amazon-aurora-1o14)
-- [How Crucial is Your LinkedIn Profile?](https://dev.to/devteam/how-crucial-is-your-linkedin-profile-689)
-- [Optimizing Codebases for AI Development Era](https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn)
-- [Sprint 1: Introduction to Ruby on Rails](https://dev.to/jpfababaer/sprint-1-introduction-to-ruby-on-rails-2g20)
+- [Goodbye Electron. Hello Tauri!](https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5)
 <!-- BLOG-POST-LIST:END -->
 
