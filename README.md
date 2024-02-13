@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast Palooza— What are you listening to? &lpar;Comedy Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-comedy-edition-2k41)
+- [Answer: Is it possible to create foreign keys with pandas to_sql](https://dev.to/apollo812/answer-is-it-possible-to-create-foreign-keys-with-pandas-tosql-4jgo)
 - [The WebSocket API and protocol explained](https://dev.to/alakkadshaw/the-websocket-api-and-protocol-explained-1jnl)
 - [Discussion of the Week: &quot;Any advice for someone who wants to start learning React.js?&quot;](https://dev.to/devteam/discussion-of-the-week-any-advice-for-someone-who-wants-to-start-learning-reactjs-1m0j)
-- [My first post](https://dev.to/heiberperezr/my-first-post-2mn5)
-- [🧹 It&#39;s Time to Spring Clean Your Codebase: Celebrate National Clean Out Your Computer Day! 🖥️ ✨](https://dev.to/best_codes/its-time-to-spring-clean-your-codebase-celebrate-national-clean-out-your-computer-day-3656)
 <!-- BLOG-POST-LIST:END -->
 
