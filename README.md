@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless Chat GPT Assistant](https://dev.to/apoffa/serverless-chat-gpt-assistant-176g)
+- [Running workloads at the edge with MicroK8s](https://dev.to/donaldsebleung/running-workloads-at-the-edge-with-microk8s-4cbc)
 - [Typewriter 2.0: search for the perfect writing experience on iPad](https://dev.to/sapegin/typewriter-20-search-for-the-perfect-writing-experience-on-ipad-2n42)
 - [Arguments vs Parameters in JavaScript](https://dev.to/hriztam/arguments-vs-parameters-in-javascript-4kl2)
-- [The Past, Present, and Future of Database Technology](https://dev.to/vera778/the-past-present-and-future-of-database-technology-29o7)
-- [Reactive Resources Management](https://dev.to/ninjin/reactive-resources-management-39i5)
 <!-- BLOG-POST-LIST:END -->
 
