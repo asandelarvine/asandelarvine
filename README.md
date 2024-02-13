@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [🚀 Building Dynamic Web Applications with Preact: A Lightweight Alternative to React](https://dev.to/madzimai/building-dynamic-web-applications-with-preact-a-lightweight-alternative-to-react-k73)
 - [YouTube Tags Generator API](https://dev.to/sh20raj/youtube-tags-generator-api-276f)
+- [TypeScript Core Concepts Explained for Absolute Beginners](https://dev.to/ymir/typescript-core-concepts-explained-for-absolute-beginners-8od)
 - [The New HTML Search Element 🔎](https://dev.to/brianmtreese/the-new-html-search-element-3cic)
-- [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
 <!-- BLOG-POST-LIST:END -->
 
