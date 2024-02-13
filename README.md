@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide for Increasing Productivity with Linux and Shell Scripting](https://dev.to/cloudzenix24/guide-for-increasing-productivity-with-linux-and-shell-scripting-8ba)
+- [Doc as code, un parcours initiatique pour publier !](https://dev.to/onepoint/doc-as-code-un-parcours-initiatique-pour-publier--4799)
 - [Stop using obsolete methods to create CSS Triangles! ⚠️](https://dev.to/afif/stop-using-obsolete-methods-to-create-css-triangles-4lo5)
 - [Build a Blog with React and Google Sheets | FullStack Course | PART 3 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-3-learn-coding-5oe)
-- [Dev.to APIs 🚀](https://dev.to/whollyapi/devto-apis-347l)
-- [Serverless Chat GPT Assistant](https://dev.to/apoffa/serverless-chat-gpt-assistant-176g)
 <!-- BLOG-POST-LIST:END -->
 
