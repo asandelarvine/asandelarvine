@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
+- [The Best Way to Diagnose a Patient is to Cut Him Open](https://dev.to/codenameone/the-best-way-to-diagnose-a-patient-is-to-cut-him-open-5eo0)
 - [How to Make an Animated Search Bar with using only HTML and CSS](https://dev.to/alteca/how-to-make-an-animated-search-bar-with-using-only-html-and-css-2ago)
-- [How To Configure Dynamic Build Agents In Jenkins Using AWS And Terraform](https://dev.to/kelvinskell/how-to-configure-dynamic-build-agents-in-jenkins-using-aws-and-terraform-3dlb)
-- [Build a Digital Collectibles Portal Using Flow and Cadence &lpar;Part 1&rpar;](https://dev.to/johnjvester/build-a-digital-collectibles-portal-using-flow-and-cadence-part-1-57af)
-- [Easier way to make a responsive app: react native full responsive v2 is here!](https://dev.to/mhp23/easier-way-to-make-a-responsive-app-react-native-full-responsive-v2-is-here-4lkk)
+- [Evaluating Secrets Detection Platforms Is Complex: GitGuardian is here to help you navigate the process](https://dev.to/gitguardian/evaluating-secrets-detection-platforms-is-complex-gitguardian-is-here-to-help-you-navigate-the-process-1odg)
 <!-- BLOG-POST-LIST:END -->
 
