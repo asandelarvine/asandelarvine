@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcast Palooza— What are you listening to? &lpar;Comedy Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-comedy-edition-2k41)
-- [Answer: Is it possible to create foreign keys with pandas to_sql](https://dev.to/apollo812/answer-is-it-possible-to-create-foreign-keys-with-pandas-tosql-4jgo)
-- [The WebSocket API and protocol explained](https://dev.to/alakkadshaw/the-websocket-api-and-protocol-explained-1jnl)
-- [Discussion of the Week: &quot;Any advice for someone who wants to start learning React.js?&quot;](https://dev.to/devteam/discussion-of-the-week-any-advice-for-someone-who-wants-to-start-learning-reactjs-1m0j)
+- [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
+- [CSS Scroll-Driven Animations: First Look](https://dev.to/brianmtreese/css-scroll-driven-animations-first-look-56d1)
+- [How To Set Up Dependency Injection in Lambda Functions Using Annotations Framework](https://dev.to/rahulpnath/how-to-set-up-dependency-injection-in-lambda-functions-using-annotations-framework-41fk)
+- [60+ Best Programming Memes for 2023](https://dev.to/programmingmemes/60-best-programming-memes-for-2023-5bpb)
 <!-- BLOG-POST-LIST:END -->
 
