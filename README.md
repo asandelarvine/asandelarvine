@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop User from closing page in JavaScript](https://dev.to/sh20raj/stop-user-from-closing-page-in-javascript-483j)
-- [Python libraries for your DataScience CV in 2024](https://dev.to/marisogo/python-libraries-for-your-datascience-cv-in-2024-5cl7)
-- [Dualite&#39;s on Product Hunt!](https://dev.to/prakhart111/dualites-on-product-hunt-3a8j)
-- [kbar-svelte-mini - ctrl+k menu for your Svelte website](https://dev.to/abdulmuminyqn/kbar-svelte-mini-ctrlk-menu-for-your-svelte-website-5g49)
+- [Web frameworks we are most excited for in 2024](https://dev.to/wasp/web-frameworks-we-are-most-excited-for-in-2024-4d15)
+- [Top 50 Useful Regex Patterns](https://dev.to/sh20raj/top-50-useful-regex-patterns-2jab)
+- [Top 50 One-Liners JavaScript](https://dev.to/sh20raj/top-50-one-liners-javascript-mp5)
+- [Integrate Pop up in JavaScript without any Library](https://dev.to/sh20raj/integrate-pop-up-in-javascript-without-any-library-5g8e)
 <!-- BLOG-POST-LIST:END -->
 
