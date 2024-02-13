@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Massive-Scale Deployments: Multitenancy and Custom Sharding](https://dev.to/qdrant/best-practices-for-massive-scale-deployments-multitenancy-and-custom-sharding-1mjb)
-- [Conventional Comments: Stop Fighting in Code Reviews](https://dev.to/this-is-learning/conventional-comments-stop-fighting-in-code-reviews-nia)
-- [How to create Supabase admin dashboard?](https://dev.to/nikpoltoratsky/how-to-create-supabase-admin-dashboard-4glj)
-- [Headless CMS for dummies](https://dev.to/jhanawee/headless-cms-for-dummies-3ab1)
+- [Senior Frontend Developer Roadmap 2024: 5 Clear Steps To Next Level](https://dev.to/dragosnedelcu/senior-frontend-developer-roadmap-2024-5-clear-steps-to-next-level-2m5c)
+- [Transforming Productivity with Open Source Gamification: Habitica](https://dev.to/opensauced/transforming-productivity-with-open-source-gamification-habitica-ppp)
+- [Starlight vs. Docusaurus for building documentation](https://dev.to/logrocket/starlight-vs-docusaurus-for-building-documentation-33pj)
+- [Codia AI: Shaping the Design and Code Revolution of 2024 - Part 2](https://dev.to/happyer/codia-ai-shaping-the-design-and-code-revolution-of-2024-part-2-2iak)
 <!-- BLOG-POST-LIST:END -->
 
