@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Senior Frontend Developer Roadmap 2024: 5 Clear Steps To Next Level](https://dev.to/dragosnedelcu/senior-frontend-developer-roadmap-2024-5-clear-steps-to-next-level-2m5c)
-- [Transforming Productivity with Open Source Gamification: Habitica](https://dev.to/opensauced/transforming-productivity-with-open-source-gamification-habitica-ppp)
-- [Starlight vs. Docusaurus for building documentation](https://dev.to/logrocket/starlight-vs-docusaurus-for-building-documentation-33pj)
-- [Codia AI: Shaping the Design and Code Revolution of 2024 - Part 2](https://dev.to/happyer/codia-ai-shaping-the-design-and-code-revolution-of-2024-part-2-2iak)
+- [How To Configure Dynamic Build Agents In Jenkins Using AWS And Terraform](https://dev.to/kelvinskell/how-to-configure-dynamic-build-agents-in-jenkins-using-aws-and-terraform-3dlb)
+- [Build a Digital Collectibles Portal Using Flow and Cadence &lpar;Part 1&rpar;](https://dev.to/johnjvester/build-a-digital-collectibles-portal-using-flow-and-cadence-part-1-57af)
+- [Crafting Your Own TikTok Shop: Tips for Fashion Accessory Entrepreneurs](https://dev.to/adamewin/crafting-your-own-tiktok-shop-tips-for-fashion-accessory-entrepreneurs-34b2)
+- [Easier way to make a responsive app: react native full responsive v2 is here!](https://dev.to/mhp23/easier-way-to-make-a-responsive-app-react-native-full-responsive-v2-is-here-4lkk)
 <!-- BLOG-POST-LIST:END -->
 
