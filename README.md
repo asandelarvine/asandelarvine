@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Inner Workings of Kubernetes Management Frontends — A Software Engineer’s Perspective](https://dev.to/glasskube/the-inner-workings-of-kubernetes-management-frontends-a-software-engineers-perspective-4cmg)
+- [Introducing secret variables in Hoppscotch Environments](https://dev.to/hoppscotch/introducing-secret-variables-in-hoppscotch-environments-4pfg)
+- [🧿 3 things that set apart great feedback from mediocre ones. &lpar;And how you can do it too&rpar;](https://dev.to/sakib3201/3-things-that-set-apart-great-feedback-from-mediocre-ones-and-how-you-can-do-it-too-fgo)
 - [Thoughts : How I created A JS framework in just 4 days...](https://dev.to/rudransh61/thoughts-how-i-created-a-js-framework-in-just-4-days-67a)
-- [Crafting Observable Cloudflare Workers with OpenTelemetry](https://dev.to/kubeshop/crafting-observable-cloudflare-workers-with-opentelemetry-1ocm)
-- [From Beginner to First Web Dev Job: A Realistic Roadmap for Focused Learners](https://dev.to/proflead/from-beginner-to-first-web-dev-job-a-realistic-roadmap-for-focused-learners-c1i)
-- [Visualize your AWS app like never before with sls-mentor](https://dev.to/slsbytheodo/visualize-your-aws-app-like-never-before-with-sls-mentor-2j3l)
 <!-- BLOG-POST-LIST:END -->
 
