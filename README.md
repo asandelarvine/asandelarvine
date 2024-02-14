@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who&#39;s Your DEValentine? Spread the Love! 💖&quot;](https://dev.to/devteam/whos-your-devalentine-spread-the-love--1i20)
-- [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
-- [Active theme switch in flutter](https://dev.to/akashpattnaik/active-theme-switch-in-flutter-680)
-- [Fine-Tuning LlaMa 2 on Custom Data!](https://dev.to/pavanbelagatti/fine-tuning-llama-2-on-custom-data-3o3c)
+- [ABP Suite: Best CRUD Page Generation Tool for .NET](https://dev.to/engincanv/abp-suite-best-crud-page-generation-tool-for-net-2p8a)
+- [LearningToCode == &quot;Boring&quot;? Try These Out! ⚡️](https://dev.to/arjuncodess/is-learning-to-code-boring-for-you-try-these-out-25o0)
+- [Understanding the HTML `&lt;dialog&gt;` Element](https://dev.to/r4nd3l/understanding-the-html-element-56en)
+- [Biden’s Laser Eyes, Elon Musk’s Court, And Other Things That Happened in Crypto Over The Weekend](https://dev.to/deniz_tutku/bidens-laser-eyes-elon-musks-court-and-other-things-that-happened-in-crypto-over-the-weekend-cpp)
 <!-- BLOG-POST-LIST:END -->
 
