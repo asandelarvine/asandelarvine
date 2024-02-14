@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Stable Cascade Prompt Following Is Amazing — This Model Has Huge Potential — High Resolutions Uses Lesser VRAM](https://dev.to/furkangozukara/stable-cascade-prompt-following-is-amazing-this-model-has-huge-potential-high-resolutions-uses-lesser-vram-p9h)
 - [Fork me on GitHub Css Ribbon - Animated](https://dev.to/sh20raj/fork-me-on-github-css-ribbon-animated-mnm)
 - [¿Cómo implementar modo oscuro usando tailwind y react js?](https://dev.to/cristianmontoya98/como-implementar-modo-oscuro-usando-tailwind-y-react-js-4eph)
-- [Welcome Thread - v263](https://dev.to/devteam/welcome-thread-v263-adc)
+- [Wtf is construct hub](https://dev.to/aws-builders/wtf-is-construct-hub-1148)
 <!-- BLOG-POST-LIST:END -->
 
