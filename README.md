@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fee Tools for Aspiring Developers: Unpacking GitHub&#39;s Student Pack](https://dev.to/devteam/fee-tools-for-aspiring-developers-unpacking-githubs-student-pack-mmd)
 - [Welcome Thread - v263](https://dev.to/devteam/welcome-thread-v263-adc)
 - [❤️ Valentine&#39;s Day! | Heart Shape &lpar;CSS&rpar; &amp; Confetti Animation 💫](https://dev.to/best_codes/valentines-day-heart-shape-css-confetti-animation-40b9)
 - [Data Modeling: Good vs. Perfect](https://dev.to/mongodb/data-modeling-good-vs-perfect-3do5)
-- [Make your portfolio in just 4 hours? It&#39;s possible.](https://dev.to/anmolbaranwal/make-your-portfolio-in-just-4-hours-its-possible-2p3)
 <!-- BLOG-POST-LIST:END -->
 
