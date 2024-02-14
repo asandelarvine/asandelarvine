@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the Ollama API to run LLMs and generate responses locally](https://dev.to/jayantaadhikary/using-the-ollama-api-to-run-llms-and-generate-responses-locally-18b7)
 - [DO comment your TS code](https://dev.to/dmrompav/do-comment-your-ts-code-1bl4)
 - [Stable Cascade Prompt Following Is Amazing — This Model Has Huge Potential — High Resolutions Uses Lesser VRAM](https://dev.to/furkangozukara/stable-cascade-prompt-following-is-amazing-this-model-has-huge-potential-high-resolutions-uses-lesser-vram-p9h)
 - [Fork me on GitHub Css Ribbon - Animated](https://dev.to/sh20raj/fork-me-on-github-css-ribbon-animated-mnm)
-- [How to create a React application with Webpack](https://dev.to/markliu2013/how-to-create-a-react-application-with-webpack-43b5)
 <!-- BLOG-POST-LIST:END -->
 
