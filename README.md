@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s Your DEValentine? Spread the Love! 💖&quot;](https://dev.to/devteam/whos-your-devalentine-spread-the-love--1i20)
+- [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
 - [Active theme switch in flutter](https://dev.to/akashpattnaik/active-theme-switch-in-flutter-680)
 - [Fine-Tuning LlaMa 2 on Custom Data!](https://dev.to/pavanbelagatti/fine-tuning-llama-2-on-custom-data-3o3c)
-- [HTML Tips - Less Known HTML Tags and Attributes ♥️](https://dev.to/sh20raj/html-tips-less-known-html-tags-and-attributes-3dhh)
-- [Build a Blog with React and Google Sheets | PART 4 | FullStack Course | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-part-4-fullstack-course-learn-coding-f2i)
 <!-- BLOG-POST-LIST:END -->
 
