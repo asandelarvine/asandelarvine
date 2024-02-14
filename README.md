@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Stripe Docs in your RAG pipeline with LlamaIndex](https://dev.to/stripe/using-stripe-docs-in-your-rag-pipeline-with-llamaindex-2j23)
+- [Debugging Stress: A Tech Worker&#39;s Guide to Protecting Mental Health](https://dev.to/codemom/debugging-stress-a-tech-workers-guide-to-protecting-mental-health-2e2n)
 - [accessing rows and columns in a 2d array and insert method&lpar;python&rpar;](https://dev.to/drvcodenta/accessing-rows-and-columns-in-a-2d-array-and-insert-methodpython-2plo)
 - [Setting Up for Java on Linux.](https://dev.to/mtendekuyokwa19/setting-up-for-java-on-linux-133f)
-- [Transitioning From PyTorch to Burn](https://dev.to/laggui/transitioning-from-pytorch-to-burn-45m)
-- [3 Common Object-Oriented Programming Mistakes Junior Devs Make](https://dev.to/codemom/3-common-object-oriented-programming-mistakes-junior-devs-make-me2)
 <!-- BLOG-POST-LIST:END -->
 
