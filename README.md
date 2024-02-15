@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monolithic or Microservices?](https://dev.to/yokwejuste/monolithic-or-microservices-47ga)
 - [Error management in Rust, and libs that support it](https://dev.to/nfrankel/error-management-in-rust-and-libs-that-support-it-54gk)
 - [Maximize WooCommerce: Top 10 Essential Plugins](https://dev.to/jamesmartindev/maximize-woocommerce-top-10-essential-plugins-31kh)
 - [Inside the Box: First Big Community Update of 2024](https://dev.to/codesandboxio/inside-the-box-first-big-community-update-of-2024-39fp)
-- [What Should Every Manager Do Daily?](https://dev.to/devteam/what-should-every-manager-do-daily-2a69)
 <!-- BLOG-POST-LIST:END -->
 
