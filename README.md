@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven Python Projects to Elevate Your Coding Skills](https://dev.to/chasestevens/seven-python-projects-to-elevate-your-coding-skills-cil)
+- [Bandit Level 23 Level 24](https://dev.to/christianpaez/bandit-level-23-level-24-10lo)
+- [How to Add Blurred Text in React Native](https://dev.to/tgmarinhodev/how-to-add-blurred-text-in-react-native-4646)
 - [Accelerate Angular App Development with create-angular-auth-nav](https://dev.to/furbo1/accelerate-angular-app-development-with-create-angular-auth-nav-50im)
-- [Accelerate React App Development with create-react-auth-nav: A Productivity Powerhouse](https://dev.to/furbo1/streamlining-web-development-with-create-react-auth-nav-a-productivity-powerhouse-3ome)
-- [SQL vs NoSQL: Choosing the Right One, Future Trends &amp; Best Practices](https://dev.to/mmainulhasan/sql-vs-nosql-choosing-the-right-one-future-trends-best-practices-315c)
-- [Launch Nx Week Recap!!](https://dev.to/nx/launch-nx-week-recap-51og)
 <!-- BLOG-POST-LIST:END -->
 
