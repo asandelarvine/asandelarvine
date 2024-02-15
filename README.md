@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Control: Mastering Chaos Engineering for Unstoppable Software Success!](https://dev.to/talenttinaapi/from-chaos-to-control-mastering-chaos-engineering-for-unstoppable-software-success-4i2p)
-- [ARM EMBEDDED SYSTEM AND ARM PROCESSOR FUNDAMENTALS - PART 3](https://dev.to/sanakousar776/arm-embedded-system-and-arm-processor-fundamentals-part-3-45ij)
-- [Deploy config rules across your organization](https://dev.to/aws-builders/deploy-config-rules-across-your-organization-3njj)
-- [The Importance of Formal Mobile Testing in Boosting your Chances of App Success](https://dev.to/abhayit2000/the-importance-of-formal-mobile-testing-in-boosting-your-chances-of-app-success-k10)
+- [Variant](https://dev.to/akankshastark/variant-4nkb)
+- [Boost Your Efficiency with These Helpful AI Tools](https://dev.to/sanx/boost-your-efficiency-with-these-helpful-ai-tools-3793)
+- [Sloan&#39;s Inbox: How to ask for a raise?](https://dev.to/devteam/sloans-inbox-how-to-ask-for-a-raise-5f2f)
+- [OWASP API7:2023 Server Side Request Forgery&lpar;SSRF&rpar;](https://dev.to/sre_panchanan/owasp-api72023-server-side-request-forgeryssrf-2e8b)
 <!-- BLOG-POST-LIST:END -->
 
