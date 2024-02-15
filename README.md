@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [one of the Codia AI technologies: 2023-24 Mainstream Object Detection Models](https://dev.to/happyer/one-of-the-codia-ai-technologies-2023-24-mainstream-object-detection-models-43de)
-- [Understanding JavaScript Scopes: A Comprehensive Guide with Real-life Examples](https://dev.to/jps27cse/understanding-javascript-scopes-a-comprehensive-guide-with-real-life-examples-5e1j)
-- [Maximizing User Engagement: Tips for App Developers](https://dev.to/hyscaler/maximizing-user-engagement-tips-for-app-developers-o7k)
-- [Easily create mock data for unit tests 🧪](https://dev.to/kinginit/easily-create-mock-data-for-unit-tests-3fji)
+- [Exploring Interaction to Next Paint, a new Core Web Vital](https://dev.to/logrocket/exploring-interaction-to-next-paint-a-new-core-web-vital-5efh)
+- [React Hooks: When Not to Use useEffects](https://dev.to/vivitt/react-hooks-when-not-to-use-useeffects-1bbb)
+- [Figma to React: Enhancing UI Development with Codia AI](https://dev.to/cyberpunker/figma-to-react-enhancing-ui-development-with-codia-ai-5b5k)
+- [How to Improve Organic Search Traffic? 2024 Guide](https://dev.to/knayan/how-to-improve-organic-search-traffic-2024-guide-1c38)
 <!-- BLOG-POST-LIST:END -->
 
