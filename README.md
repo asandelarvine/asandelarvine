@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Statement Coverage in Software Testing](https://dev.to/arindam_1729/understanding-statement-coverage-in-software-testing-4enn)
 - [New accordion component](https://dev.to/meschacirung/new-accordion-component-54ah)
 - [Python Loops: A Comprehensive Guide for Beginners](https://dev.to/scofieldidehen/python-loops-a-comprehensive-guide-for-beginners-ej8)
 - [A Comprehensive Guide to Using React Query&#39;s useQuery for API Calls](https://dev.to/parth24072001/a-comprehensive-guide-to-using-react-querys-usequery-for-api-calls-fki)
-- [Building a Calculator App with JavaScript: A Beginner&#39;s Guide](https://dev.to/codevicky/building-a-calculator-app-with-javascript-a-beginners-guide-343b)
 <!-- BLOG-POST-LIST:END -->
 
