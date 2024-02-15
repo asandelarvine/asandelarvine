@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing User Engagement: Tips for App Developers](https://dev.to/hyscaler/maximizing-user-engagement-tips-for-app-developers-o7k)
+- [🚀 API Maker : Release Notes for v1.3.0](https://dev.to/apimaker/api-maker-release-notes-for-v130-5i8)
 - [Variant](https://dev.to/akankshastark/variant-4nkb)
-- [Boost Your Efficiency with These Helpful AI Tools](https://dev.to/sanx/boost-your-efficiency-with-these-helpful-ai-tools-3793)
-- [Sloan&#39;s Inbox: How to ask for a raise?](https://dev.to/devteam/sloans-inbox-how-to-ask-for-a-raise-5f2f)
-- [OWASP API7:2023 Server Side Request Forgery&lpar;SSRF&rpar;](https://dev.to/sre_panchanan/owasp-api72023-server-side-request-forgeryssrf-2e8b)
+- [Web Development with Vite, Vue, and Flask &lpar;Update&rpar;](https://dev.to/atsu/web-development-with-vite-vue-and-flask-update-43k2)
 <!-- BLOG-POST-LIST:END -->
 
