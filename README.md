@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a PHP SDK for Replicate AI](https://dev.to/treblle/building-a-php-sdk-for-replicate-ai-lcp)
+- [How to get developer support for the Amazon Appstore](https://dev.to/mosesroth/how-to-get-developer-support-for-the-amazon-appstore-50j0)
 - [Exploring Interaction to Next Paint, a new Core Web Vital](https://dev.to/logrocket/exploring-interaction-to-next-paint-a-new-core-web-vital-5efh)
-- [React Hooks: When Not to Use useEffects](https://dev.to/vivitt/react-hooks-when-not-to-use-useeffects-1bbb)
-- [Figma to React: Enhancing UI Development with Codia AI](https://dev.to/cyberpunker/figma-to-react-enhancing-ui-development-with-codia-ai-5b5k)
-- [How to Improve Organic Search Traffic? 2024 Guide](https://dev.to/knayan/how-to-improve-organic-search-traffic-2024-guide-1c38)
+- [Authentication&lpar; SignUp and Login &rpar; with Express,MongoDB and Jwt.](https://dev.to/fredabod/authentication-signup-and-login-with-expressmongodb-and-jwt-2n64)
 <!-- BLOG-POST-LIST:END -->
 
