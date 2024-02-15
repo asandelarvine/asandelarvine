@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sota Image Captioning Model Kosmos-2 Added To Our Image Captioning Scripts Arsenal](https://dev.to/furkangozukara/sota-image-captioning-model-kosmos-2-added-to-our-image-captioning-scripts-arsenal-489e)
+- [What We Learned When We Built a Vector Database-and Our Customers Started Using It &lpar;part 1&rpar;](https://dev.to/datastax/what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h)
 - [Illustrated JavaScript Coding Course](https://dev.to/codeguppy/illustrated-javascript-coding-course-m9i)
 - [Terraform - Understanding Implicit and Explicit Dependencies](https://dev.to/pwd9000/terraform-understanding-implicit-and-explicit-dependencies-n9l)
-- [Understanding Key Components in DevOps](https://dev.to/bartzalewski/understanding-key-components-in-devops-26a7)
-- [Website audit definition?](https://dev.to/alexsend/website-audit-definition-9ka)
 <!-- BLOG-POST-LIST:END -->
 
