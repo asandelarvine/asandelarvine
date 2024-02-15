@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sota Image Captioning Model Kosmos-2 Added To Our Image Captioning Scripts Arsenal](https://dev.to/furkangozukara/sota-image-captioning-model-kosmos-2-added-to-our-image-captioning-scripts-arsenal-489e)
-- [How to flatten a PHP array](https://dev.to/graceman9/how-to-flatten-a-php-array-56no)
-- [What We Learned When We Built a Vector Database-and Our Customers Started Using It &lpar;part 1&rpar;](https://dev.to/datastax/what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h)
-- [Illustrated JavaScript Coding Course](https://dev.to/codeguppy/illustrated-javascript-coding-course-m9i)
+- [New accordion component](https://dev.to/meschacirung/new-accordion-component-54ah)
+- [Python Loops: A Comprehensive Guide for Beginners](https://dev.to/scofieldidehen/python-loops-a-comprehensive-guide-for-beginners-ej8)
+- [A Comprehensive Guide to Using React Query&#39;s useQuery for API Calls](https://dev.to/parth24072001/a-comprehensive-guide-to-using-react-querys-usequery-for-api-calls-fki)
+- [Building a Calculator App with JavaScript: A Beginner&#39;s Guide](https://dev.to/codevicky/building-a-calculator-app-with-javascript-a-beginners-guide-343b)
 <!-- BLOG-POST-LIST:END -->
 
