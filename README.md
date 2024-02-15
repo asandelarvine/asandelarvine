@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Stripe Docs in your RAG pipeline with LlamaIndex](https://dev.to/stripe/using-stripe-docs-in-your-rag-pipeline-with-llamaindex-2j23)
-- [Debugging Stress: A Tech Worker&#39;s Guide to Protecting Mental Health](https://dev.to/codemom/debugging-stress-a-tech-workers-guide-to-protecting-mental-health-2e2n)
-- [How Do I Give Great Code Review Feedback?](https://dev.to/codemom/how-do-i-give-great-code-review-feedback-4bjh)
-- [accessing rows and columns in a 2d array and insert method&lpar;python&rpar;](https://dev.to/drvcodenta/accessing-rows-and-columns-in-a-2d-array-and-insert-methodpython-2plo)
+- [Illustrated JavaScript Coding Course](https://dev.to/codeguppy/illustrated-javascript-coding-course-m9i)
+- [Terraform - Understanding Implicit and Explicit Dependencies](https://dev.to/pwd9000/terraform-understanding-implicit-and-explicit-dependencies-n9l)
+- [Understanding Key Components in DevOps](https://dev.to/bartzalewski/understanding-key-components-in-devops-26a7)
+- [Website audit definition?](https://dev.to/alexsend/website-audit-definition-9ka)
 <!-- BLOG-POST-LIST:END -->
 
