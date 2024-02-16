@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [pyaction 4.28.0 Released](https://dev.to/cicirello/pyaction-4280-released-4bgl)
+- [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
 - [Acessando Containers do Amazon ECS Fargate pelo AWS Cli](https://dev.to/alfredotavio/acessando-containers-do-amazon-ecs-fargate-pelo-aws-cli-6j5)
 - [Baserow Developer Challenge](https://dev.to/baserow_io/baserow-developer-challenge-a58)
-- [Scalable E-Commerce Architecture - Part 2: Shopping Cart](https://dev.to/savyjs/scalable-e-commerce-architecture-part-2-shopping-cart-3blg)
-- [Be a better developer with these Git good practices](https://dev.to/anthonyvii/be-a-better-developer-with-these-git-good-practices-2dim)
 <!-- BLOG-POST-LIST:END -->
 
