@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What to choose? Virtualization or Containerization](https://dev.to/yogini16/what-to-choose-virtualization-or-containerization-1mjm)
 - [🎉 Happy Friday, Dev Community! 🌟](https://dev.to/madzimai/happy-friday-dev-community-4gc8)
 - [Build a Blog with React and Google Sheets | PART 6 | FullStack Course | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-part-6-fullstack-course-learn-coding-obd)
 - [Build a Blog with React and Google Sheets | FullStack Course | PART 5 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-5-learn-coding-3b04)
-- [SORA : Unbelieve New Text To Video AI Model By OpenAI - 37 Demo Videos - Still Can’t Believe Real](https://dev.to/furkangozukara/sora-unbelieve-new-text-to-video-ai-model-by-openai-37-demo-videos-still-cant-believe-real-45mj)
 <!-- BLOG-POST-LIST:END -->
 
