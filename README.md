@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Memories in ChatGPT: Privacy Implications](https://dev.to/maximsaplin/memories-in-chatgpt-privacy-implications-1o9o)
+- [The &lpar;&gt;_ &rpar;s need your help!](https://dev.to/reinhart1010/the-s-need-your-help-31b8)
+- [CRDP is an awesome utility to debug&amp;control remote Chromium](https://dev.to/ivictbor/crdp-is-an-awesome-utility-to-debugcontrol-remote-chromium-10hk)
 - [Wisely series: Chapter 2 Don&#39;t overthink, embrace simplicity](https://dev.to/danc/wisely-series-chapter-2-dont-overthink-embrace-simplicity-2fme)
-- [Wisely series: Chapter 1 Fragile Mission Ruggedized Snowcone](https://dev.to/danc/wisely-series-chapter-1-fragile-mission-ruggedized-snowcone-4pep)
-- [3 Ways To Store Data in Computer Vision Applications](https://dev.to/reductstore/3-ways-to-store-data-in-computer-vision-applications-f59)
-- [Figma to HTML: Streamlining Web Development from Design to Code with Codia AI](https://dev.to/cyberpunker/figma-to-html-streamlining-web-development-from-design-to-code-with-codia-ai-3iah)
 <!-- BLOG-POST-LIST:END -->
 
