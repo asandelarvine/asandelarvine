@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python vs ReactJS: An Extensive Comparison](https://dev.to/scofieldidehen/python-vs-reactjs-an-extensive-comparison-4eho)
-- [OWASP API8:2023 Security Misconfiguration 🔐🚨](https://dev.to/sre_panchanan/owasp-api82023-security-misconfiguration-pgf)
-- [OpenAI&#39;s Sora: Bringing Imagination to Life with Text-to-Video AI](https://dev.to/shishsingh/openais-sora-bringing-imagination-to-life-with-text-to-video-ai-124a)
-- [Episode 24/06: Signals, Forms, Class Composition, State Management, Enterprise Patterns](https://dev.to/this-is-angular/episode-2406-signals-forms-class-composition-state-management-enterprise-patterns-4o9i)
+- [Wisely series: Chapter 2 Don&#39;t overthink, embrace simplicity](https://dev.to/danc/wisely-series-chapter-2-dont-overthink-embrace-simplicity-2fme)
+- [Wisely series: Chapter 1 Fragile Mission Ruggedized Snowcone](https://dev.to/danc/wisely-series-chapter-1-fragile-mission-ruggedized-snowcone-4pep)
+- [3 Ways To Store Data in Computer Vision Applications](https://dev.to/reductstore/3-ways-to-store-data-in-computer-vision-applications-f59)
+- [Figma to HTML: Streamlining Web Development from Design to Code with Codia AI](https://dev.to/cyberpunker/figma-to-html-streamlining-web-development-from-design-to-code-with-codia-ai-3iah)
 <!-- BLOG-POST-LIST:END -->
 
