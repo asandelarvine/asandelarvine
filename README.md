@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enikoko, Level 3 &lpar;Cosplore3D: Pt:14&rpar;](https://dev.to/chigbeef_77/enikoko-level-3-cosplore3d-pt14-4d8f)
 - [Airtable vs Excel: Everything You Need To Know](https://dev.to/domfive/airtable-vs-excel-everything-you-need-to-know-4d0h)
+- [راهنمای خرید فیلتر شکن: نکات کلیدی برای انتخاب بهترین گزینه](https://dev.to/allseooo/rhnmy-khryd-fyltr-shkhn-nkht-khlydy-bry-ntkhb-bhtryn-gzynh-571c)
 - [The GitHub Community Roundup - 2024.02.16](https://dev.to/github/the-github-community-roundup-20240116-1a3a)
-- [What Is Middleware?](https://dev.to/hasanelsherbiny/what-is-middleware-26mk)
-- [Extracting data with dlt](https://dev.to/cmcrawford2/extracting-data-with-dlt-9hl)
 <!-- BLOG-POST-LIST:END -->
 
