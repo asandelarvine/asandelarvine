@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OWASP API8:2023 Security Misconfiguration 🔐🚨](https://dev.to/sre_panchanan/owasp-api82023-security-misconfiguration-pgf)
+- [OpenAI&#39;s Sora: Bringing Imagination to Life with Text-to-Video AI](https://dev.to/shishsingh/openais-sora-bringing-imagination-to-life-with-text-to-video-ai-124a)
+- [Episode 24/06: Signals, Forms, Class Composition, State Management, Enterprise Patterns](https://dev.to/this-is-angular/episode-2406-signals-forms-class-composition-state-management-enterprise-patterns-4o9i)
 - [Open source and free software events in Bulgaria for 2024](https://dev.to/bogomil/open-source-and-free-software-events-in-bulgaria-for-2024-4778)
-- [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
-- [Prompt Engineering For Developers: A Complete Guide!](https://dev.to/pavanbelagatti/prompt-engineering-for-developers-a-complete-guide-1kca)
-- [Using Pub/Sub for event-driven Go backends](https://dev.to/encore/using-pubsub-for-event-driven-go-backends-55h3)
 <!-- BLOG-POST-LIST:END -->
 
