@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub: The Hub of Collaboration](https://dev.to/ayushgupta/github-the-hub-of-collaboration-34gg)
+- [Bash is a terrible programming language, but what&#39;s the alternative ?](https://dev.to/jmfayard/bash-is-a-terrible-programming-language-but-whats-the-alternative--oc2)
 - [What to choose? Virtualization or Containerization](https://dev.to/yogini16/what-to-choose-virtualization-or-containerization-1mjm)
 - [🎉 Happy Friday, Dev Community! 🌟](https://dev.to/madzimai/happy-friday-dev-community-4gc8)
-- [Build a Blog with React and Google Sheets | PART 6 | FullStack Course | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-part-6-fullstack-course-learn-coding-obd)
-- [Build a Blog with React and Google Sheets | FullStack Course | PART 5 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-5-learn-coding-3b04)
 <!-- BLOG-POST-LIST:END -->
 
