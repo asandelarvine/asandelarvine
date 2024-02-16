@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Live Streaming from Unity - Broadcasting a Game With Full UI &lpar;Part 3&rpar;](https://dev.to/aws/live-streaming-from-unity-broadcasting-a-game-with-full-ui-part-3-4e7o)
-- [Another Video Conferencing Tool? Exploring Jitsi Meet](https://dev.to/opensauced/another-video-conferencing-tool-exploring-jitsi-meet-41gd)
-- [A place for serious and experienced professionnels to join and pitch projects](https://dev.to/youssef_idabdelahe/a-place-for-serious-and-experienced-professionnels-to-join-and-pitch-projects-fhn)
-- [How to set up Python for backend development on your PC](https://dev.to/emmanuel_ayinde/how-to-set-up-python-for-backend-development-on-your-pc-2blb)
+- [How to test the die&lpar;&rpar; function?](https://dev.to/muhammadmp/how-to-test-the-die-function-1ja7)
+- [Using test helpers in Go](https://dev.to/eminetto/using-test-helpers-in-go-1o55)
+- [An Introduction to the World of Containers with .NET 8](https://dev.to/dotnet/an-introduction-to-the-world-of-containers-with-net-8-4elf)
+- [Best 20 CSS Libraries for Developers and Designers [2024]](https://dev.to/lambdatest/best-20-css-libraries-for-developers-and-designers-2024-56jd)
 <!-- BLOG-POST-LIST:END -->
 
