@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to test the die&lpar;&rpar; function?](https://dev.to/muhammadmp/how-to-test-the-die-function-1ja7)
-- [Using test helpers in Go](https://dev.to/eminetto/using-test-helpers-in-go-1o55)
-- [An Introduction to the World of Containers with .NET 8](https://dev.to/dotnet/an-introduction-to-the-world-of-containers-with-net-8-4elf)
-- [Best 20 CSS Libraries for Developers and Designers [2024]](https://dev.to/lambdatest/best-20-css-libraries-for-developers-and-designers-2024-56jd)
+- [Acessando Containers do Amazon ECS Fargate pelo AWS Cli](https://dev.to/alfredotavio/acessando-containers-do-amazon-ecs-fargate-pelo-aws-cli-6j5)
+- [Baserow Developer Challenge](https://dev.to/baserow_io/baserow-developer-challenge-a58)
+- [Scalable E-Commerce Architecture - Part 2: Shopping Cart](https://dev.to/savyjs/scalable-e-commerce-architecture-part-2-shopping-cart-3blg)
+- [Be a better developer with these Git good practices](https://dev.to/anthonyvii/be-a-better-developer-with-these-git-good-practices-2dim)
 <!-- BLOG-POST-LIST:END -->
 
