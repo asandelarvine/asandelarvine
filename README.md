@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub: The Hub of Collaboration](https://dev.to/ayushgupta/github-the-hub-of-collaboration-34gg)
-- [Bash is a terrible programming language, but what&#39;s the alternative ?](https://dev.to/jmfayard/bash-is-a-terrible-programming-language-but-whats-the-alternative--oc2)
-- [What to choose? Virtualization or Containerization](https://dev.to/yogini16/what-to-choose-virtualization-or-containerization-1mjm)
-- [🎉 Happy Friday, Dev Community! 🌟](https://dev.to/madzimai/happy-friday-dev-community-4gc8)
+- [Demystifying JavaScript: let, var, and const Explained with Examples](https://dev.to/jps27cse/demystifying-javascript-let-var-and-const-explained-with-examples-2an4)
+- [How Do You Handle Overwhelm in Your Daily Life?](https://dev.to/devteam/how-do-you-handle-overwhelm-in-your-daily-life-4abb)
+- [Decoding Startup Jargon: A Comprehensive Guide for Entrepreneurs](https://dev.to/this-is-learning/decoding-startup-jargon-a-comprehensive-guide-for-entrepreneurs-12im)
+- [Deploying Web Applications on Kubernetes: A Beginner&#39;s Guide](https://dev.to/ken_mwaura1/deploying-web-applications-on-kubernetes-a-beginners-guide-4ano)
 <!-- BLOG-POST-LIST:END -->
 
