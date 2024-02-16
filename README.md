@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [how to make photos look like paintings](https://dev.to/feitgemel/how-to-make-photos-look-like-paintings-1hp)
+- [I&#39;ve spent 10 years building my portfolio. What was it all for?](https://dev.to/isaacdlyman/ive-spent-10-years-building-my-portfolio-what-was-it-all-for-16dp)
+- [Open-source &quot;copy to clipboard&quot; components built with Tailwind CSS](https://dev.to/themesberg/open-source-copy-to-clipboard-components-built-with-tailwind-css-315d)
 - [Building a Mad Libs Word Game in Python](https://dev.to/scofieldidehen/building-a-mad-libs-word-game-in-python-5g1p)
-- [A Passwordless Future: Passkeys for Developers](https://dev.to/oktadev/a-passwordless-future-passkeys-for-java-developers-1f54)
-- [one of the Codia AI Code technologies: Intelligent Naming Technology](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-intelligent-naming-technology-2d53)
-- [Now Live: Free Dedicated Discord Bot Hosting on RoboPlay &lpar;Read for Invites Codes&rpar;](https://dev.to/waveplay/now-live-free-dedicated-discord-bot-hosting-on-roboplay-read-for-invites-codes-45hg)
 <!-- BLOG-POST-LIST:END -->
 
