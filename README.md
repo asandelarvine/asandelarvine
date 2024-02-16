@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how to make photos look like paintings](https://dev.to/feitgemel/how-to-make-photos-look-like-paintings-1hp)
-- [I&#39;ve spent 10 years building my portfolio. What was it all for?](https://dev.to/isaacdlyman/ive-spent-10-years-building-my-portfolio-what-was-it-all-for-16dp)
-- [Open-source &quot;copy to clipboard&quot; components built with Tailwind CSS](https://dev.to/themesberg/open-source-copy-to-clipboard-components-built-with-tailwind-css-315d)
-- [Building a Mad Libs Word Game in Python](https://dev.to/scofieldidehen/building-a-mad-libs-word-game-in-python-5g1p)
+- [Another Video Conferencing Tool? Exploring Jitsi Meet](https://dev.to/opensauced/another-video-conferencing-tool-exploring-jitsi-meet-41gd)
+- [A place for serious and experienced professionnels to join and pitch projects](https://dev.to/youssef_idabdelahe/a-place-for-serious-and-experienced-professionnels-to-join-and-pitch-projects-fhn)
+- [How to set up Python for backend development on your PC](https://dev.to/emmanuel_ayinde/how-to-set-up-python-for-backend-development-on-your-pc-2blb)
+- [🕵 What You Didn&#39;t Know About AI Integration for Laravel Applications](https://dev.to/andriimz/what-you-didnt-know-about-ai-integration-for-laravel-applications-2j44)
 <!-- BLOG-POST-LIST:END -->
 
