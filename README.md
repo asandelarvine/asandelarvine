@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
 - [Prompt Engineering For Developers: A Complete Guide!](https://dev.to/pavanbelagatti/prompt-engineering-for-developers-a-complete-guide-1kca)
 - [Using Pub/Sub for event-driven Go backends](https://dev.to/encore/using-pubsub-for-event-driven-go-backends-55h3)
 - [Demystifying JavaScript: let, var, and const Explained with Examples](https://dev.to/jps27cse/demystifying-javascript-let-var-and-const-explained-with-examples-2an4)
-- [How Do You Handle Overwhelm in Your Daily Life?](https://dev.to/devteam/how-do-you-handle-overwhelm-in-your-daily-life-4abb)
 <!-- BLOG-POST-LIST:END -->
 
