@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Devcli - A CLI for Dev.to!](https://dev.to/kaamkiya/devcli-a-cli-for-devto-4a85)
+- [Wednesday Links - Edition 2024-02-14 ❤️🤦🏻](https://dev.to/wyhasany/wednesday-links-edition-2024-02-14-3pml)
+- [Lessons Learned Too Late: Reflecting on University Regrets](https://dev.to/opensourceyllen/lessons-learned-too-late-reflecting-on-university-regrets-582n)
 - [pyaction 4.28.0 Released](https://dev.to/cicirello/pyaction-4280-released-4bgl)
-- [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
-- [Acessando Containers do Amazon ECS Fargate pelo AWS Cli](https://dev.to/alfredotavio/acessando-containers-do-amazon-ecs-fargate-pelo-aws-cli-6j5)
-- [Baserow Developer Challenge](https://dev.to/baserow_io/baserow-developer-challenge-a58)
 <!-- BLOG-POST-LIST:END -->
 
