@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering For Developers: A Complete Guide!](https://dev.to/pavanbelagatti/prompt-engineering-for-developers-a-complete-guide-1kca)
+- [Using Pub/Sub for event-driven Go backends](https://dev.to/encore/using-pubsub-for-event-driven-go-backends-55h3)
 - [Demystifying JavaScript: let, var, and const Explained with Examples](https://dev.to/jps27cse/demystifying-javascript-let-var-and-const-explained-with-examples-2an4)
 - [How Do You Handle Overwhelm in Your Daily Life?](https://dev.to/devteam/how-do-you-handle-overwhelm-in-your-daily-life-4abb)
-- [Decoding Startup Jargon: A Comprehensive Guide for Entrepreneurs](https://dev.to/this-is-learning/decoding-startup-jargon-a-comprehensive-guide-for-entrepreneurs-12im)
-- [Deploying Web Applications on Kubernetes: A Beginner&#39;s Guide](https://dev.to/ken_mwaura1/deploying-web-applications-on-kubernetes-a-beginners-guide-4ano)
 <!-- BLOG-POST-LIST:END -->
 
