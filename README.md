@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress.com vs. WordPress.org – The Differences &amp; Which To Choose](https://dev.to/devarshishimpi/wordpresscom-vs-wordpressorg-the-differences-which-to-choose-422h)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
-- [What Design Tool Should I Use?](https://dev.to/opensauced/what-design-tool-should-i-use-a05)
-- [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
+- [Top 10 Things You Should Avoid While Healthcare App Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/healthcare-app-coding-tips-559i)
+- [Protegendo APIs da Esquerda para a Direita &lpar;e em td no meio do caminho&rpar; [Tradução +/- Comentada]](https://dev.to/bolhasec/protegendo-apis-da-esquerda-para-a-direita-e-em-td-no-meio-do-caminho-traducao-comentada-11nc)
+- [🚀👩‍💻👨‍💻 ATTENTION SOFTWARE DEVELOPERS! 🚀👩‍💻👨‍💻](https://dev.to/jagroop2001/attention-software-developers-1cb1)
+- [How we Built a 20 Billion Dollar Company in 20 minutes](https://dev.to/polterguy/how-we-built-a-20-billion-dollar-company-in-20-minutes-3j3j)
 <!-- BLOG-POST-LIST:END -->
 
