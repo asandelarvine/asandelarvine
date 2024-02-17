@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress.com vs. WordPress.org – The Differences &amp; Which To Choose](https://dev.to/devarshishimpi/wordpresscom-vs-wordpressorg-the-differences-which-to-choose-422h)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
 - [What Design Tool Should I Use?](https://dev.to/opensauced/what-design-tool-should-i-use-a05)
 - [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
-- [🦊 GitLab CI: Deploy a Majestic Single Server Runner on AWS](https://dev.to/zenika/gitlab-ci-deploy-a-majestic-single-server-runner-on-aws-d3)
-- [Django Signals mastery](https://dev.to/yokwejuste/django-signals-mastery-144d)
 <!-- BLOG-POST-LIST:END -->
 
