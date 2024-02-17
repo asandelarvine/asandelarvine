@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing Deep Learning Annotations - Interactive Video Player](https://dev.to/s-abinash/visualizing-deep-learning-annotations-interactive-video-player-4d3d)
 - [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
 - [map&lpar;&rpar; in Python](https://dev.to/sachingeek/map-in-python-gdg)
-- [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
-- [Docker para iniciantes: Criando Containers de Bancos de Dados](https://dev.to/jao_dev/docker-para-iniciantes-criando-containers-de-bancos-de-dados-291i)
+- [&lpar;1/n&rpar; My adventure of implementing Redis in Rust](https://dev.to/yusufpapurcu/1n-my-adventure-of-implementing-redis-in-rust-41i0)
 <!-- BLOG-POST-LIST:END -->
 
