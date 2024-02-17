@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
+- [6 Easy Steps to Make Responsive Website](https://dev.to/ritirathod0/6-easy-steps-to-make-responsive-website-2pl5)
 - [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
 - [How to create a multiplayer game](https://dev.to/nandinishinduja/how-to-create-a-multiplayer-game-4og3)
-- [How to create a VR game?](https://dev.to/nandinishinduja/how-to-create-a-vr-game-4nh9)
-- [How to create an AR game?](https://dev.to/nandinishinduja/how-to-create-an-ar-game-59o6)
 <!-- BLOG-POST-LIST:END -->
 
