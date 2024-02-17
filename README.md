@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FAANG - Guia Descomplicado de Entrevistas - parte 1](https://dev.to/hugaomarques/faang-guia-descomplicado-de-entrevistas-parte-1-3di0)
+- [What The Hell is &quot;Monkey Patching&quot;? + 11 Software Development Terms ⚡️🙌](https://dev.to/arjuncodess/what-the-hell-is-monkey-patching-11-software-development-terms-17ee)
 - [Devcli - A CLI for Dev.to!](https://dev.to/kaamkiya/devcli-a-cli-for-devto-4a85)
-- [Wednesday Links - Edition 2024-02-14 ❤️🤦🏻](https://dev.to/wyhasany/wednesday-links-edition-2024-02-14-3pml)
-- [Lessons Learned Too Late: Reflecting on University Regrets](https://dev.to/opensourceyllen/lessons-learned-too-late-reflecting-on-university-regrets-582n)
-- [pyaction 4.28.0 Released](https://dev.to/cicirello/pyaction-4280-released-4bgl)
+- [From Canvas to Command-lines](https://dev.to/marciasatie/from-canvas-to-command-lines-2ofh)
 <!-- BLOG-POST-LIST:END -->
 
