@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark: Snowflake vs UUIDv4](https://dev.to/josethz00/benchmark-snowflake-vs-uuidv4-2h80)
-- [Add i18n to your Angular App](https://dev.to/davidzcode/add-i18n-to-your-angular-app-12ng)
-- [How I made 140 trillion dollars](https://dev.to/polterguy/how-i-made-140-trillion-dollars-54lo)
-- [Streamlining Raw HTML Display in Laravel Blade](https://dev.to/rafaelogic/streamlining-raw-html-display-in-laravel-blade-31lk)
+- [Will AI Replace Us? 🤖 🫨](https://dev.to/best_codes/will-ai-replace-us-3ijm)
+- [Setting Sail with Docker: Navigating the Container Seas](https://dev.to/arbythecoder/setting-sail-with-docker-navigating-the-container-seas-48n6)
+- [HTML Collection VS Node List](https://dev.to/tapesh/html-collection-vs-node-list-2j3m)
+- [FeedMyFurBabies – Send and Receive MQTT messages between AWS IoT Core and your micro-controller](https://dev.to/chiwaichan/feedmyfurbabies-send-and-receive-mqtt-messages-between-aws-iot-core-and-your-micro-controller-4oam)
 <!-- BLOG-POST-LIST:END -->
 
