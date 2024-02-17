@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
 - [map&lpar;&rpar; in Python](https://dev.to/sachingeek/map-in-python-gdg)
 - [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
-- [Top 10 Things You Should Avoid While Healthcare App Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/healthcare-app-coding-tips-559i)
-- [Protegendo APIs da Esquerda para a Direita &lpar;e em td no meio do caminho&rpar; [Tradução +/- Comentada]](https://dev.to/bolhasec/protegendo-apis-da-esquerda-para-a-direita-e-em-td-no-meio-do-caminho-traducao-comentada-11nc)
+- [Docker para iniciantes: Criando Containers de Bancos de Dados](https://dev.to/jao_dev/docker-para-iniciantes-criando-containers-de-bancos-de-dados-291i)
 <!-- BLOG-POST-LIST:END -->
 
