@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/ahle567880ahmed/test-5ph)
-- [Phase 3 at Flatiron &lpar;Python&rpar;](https://dev.to/jslee13/phase-3-at-flatiron-python-jag)
-- [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
-- [OpenBSD Upgrade 7.3 to 7.4](https://dev.to/nabbisen/openbsd-upgrade-73-to-74-5a1n)
+- [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
+- [How to create a multiplayer game](https://dev.to/nandinishinduja/how-to-create-a-multiplayer-game-4og3)
+- [How to create a VR game?](https://dev.to/nandinishinduja/how-to-create-a-vr-game-4nh9)
+- [How to create an AR game?](https://dev.to/nandinishinduja/how-to-create-an-ar-game-59o6)
 <!-- BLOG-POST-LIST:END -->
 
