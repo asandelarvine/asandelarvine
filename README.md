@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://dev.to/ahle567880ahmed/test-5ph)
+- [Phase 3 at Flatiron &lpar;Python&rpar;](https://dev.to/jslee13/phase-3-at-flatiron-python-jag)
+- [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
 - [OpenBSD Upgrade 7.3 to 7.4](https://dev.to/nabbisen/openbsd-upgrade-73-to-74-5a1n)
-- [FAANG - Guia Descomplicado de Entrevistas - parte 1](https://dev.to/hugaomarques/faang-guia-descomplicado-de-entrevistas-parte-1-3di0)
-- [Laravel 10 + NGINX + PHP-FPM - my ready to use all in one recipe for your Laravel 10 deployment in Docker](https://dev.to/jdsantos/laravel-10-nginx-php-fpm-my-ready-to-use-all-in-one-recipe-for-your-laravel-10-deployment-in-docker-18lb)
-- [What The Hell is &quot;Monkey Patching&quot;? + 11 Software Development Terms ⚡️🙌](https://dev.to/arjuncodess/what-the-hell-is-monkey-patching-11-software-development-terms-17ee)
 <!-- BLOG-POST-LIST:END -->
 
