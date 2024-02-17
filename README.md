@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🦊 GitLab CI: Deploy a Majestic Single Server Runner on AWS](https://dev.to/zenika/gitlab-ci-deploy-a-majestic-single-server-runner-on-aws-d3)
 - [Django Signals mastery](https://dev.to/yokwejuste/django-signals-mastery-144d)
 - [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
-- [6 Easy Steps to Make Responsive Website](https://dev.to/ritirathod0/6-easy-steps-to-make-responsive-website-2pl5)
-- [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
+- [40+ Bash commands for cloud architects &amp; engineers.](https://dev.to/karaniph/40-bash-commands-for-cloud-architects-engineers-35mk)
 <!-- BLOG-POST-LIST:END -->
 
