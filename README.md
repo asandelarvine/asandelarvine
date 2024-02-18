@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech and the Future](https://dev.to/scofieldidehen/tech-and-the-future-25l3)
 - [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
 - [Use Gemini in your terminal.](https://dev.to/flameface/use-gemini-in-your-terminal-49i1)
 - [How come there are tens of thousands of tables in a database](https://dev.to/esproc_spl/how-come-there-are-tens-of-thousands-of-tables-in-a-database-4n8b)
-- [Fluxo de autenticação no React Native usando Expo Router](https://dev.to/proesc/fluxo-de-autenticacao-no-react-native-usando-expo-router-61h)
 <!-- BLOG-POST-LIST:END -->
 
