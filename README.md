@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to test a browser extension locally](https://dev.to/cassidoo/how-to-test-a-browser-extension-locally-4bne)
-- [Websites That Offer Free Certification Courses](https://dev.to/durgesh4993/websites-that-offer-free-certification-courses-of9)
-- [Sheriffing in Open Source](https://dev.to/amnish04/sheriffing-in-open-source-3mcf)
-- [Title: Boost Your Database Interactions with Prisma! ✨🔍](https://dev.to/madzimai/title-boost-your-database-interactions-with-prisma-1p9c)
+- [Fluxo de autenticação no React Native usando Expo Router](https://dev.to/proesc/fluxo-de-autenticacao-no-react-native-usando-expo-router-61h)
+- [Eleve o nível de suas Aplicações Javascript com Load Test](https://dev.to/fraconca/eleve-o-nivel-de-suas-aplicacoes-javascript-com-load-test-33md)
+- [Solutions to Healthcare Companies - CIP SIP System | CIP Skid](https://dev.to/d_d_enterprises/solutions-to-healthcare-companies-cip-sip-system-cip-skid-2o36)
+- [I know you want to build AI applications too : LangChain](https://dev.to/ham8821/i-know-you-want-to-build-ai-applications-too-langchain-4jn7)
 <!-- BLOG-POST-LIST:END -->
 
