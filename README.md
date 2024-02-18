@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [FAANG - Guia Descomplicado de Entrevistas - parte 2](https://dev.to/hugaomarques/faang-guia-descomplicado-de-entrevistas-parte-2-587g)
+- [How to Efficiently Monitor and Debug APIs in Real-Time?](https://dev.to/apitoolkit/how-can-i-efficiently-monitor-and-debug-my-apis-in-real-time-3432)
 - [Figma to React Native: Bridging Design and Mobile App Development with Codia AI](https://dev.to/cyberpunker/figma-to-react-native-bridging-design-and-mobile-app-development-with-codia-ai-1618)
 - [Longest Substring Without Repeating Characters](https://dev.to/dagasatvik10/longest-substring-without-repeating-characters-1oaa)
-- [Build a ChatGPT 4 Blackjack Game with AI Coaching &lpar;49 Lines of Code&rpar;](https://dev.to/aimarkdown/build-a-chatgpt-4-blackjack-game-with-ai-coaching-49-lines-of-code-2l84)
-- [Any Tips on Dealing With the Imposter Syndrome?](https://dev.to/anitaolsen/any-tips-on-dealing-with-the-imposter-syndrome-1k9b)
 <!-- BLOG-POST-LIST:END -->
 
