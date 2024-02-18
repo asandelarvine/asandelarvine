@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Replace Us? 🤖 🫨](https://dev.to/best_codes/will-ai-replace-us-3ijm)
-- [Setting Sail with Docker: Navigating the Container Seas](https://dev.to/arbythecoder/setting-sail-with-docker-navigating-the-container-seas-48n6)
-- [HTML Collection VS Node List](https://dev.to/tapesh/html-collection-vs-node-list-2j3m)
-- [FeedMyFurBabies – Send and Receive MQTT messages between AWS IoT Core and your micro-controller](https://dev.to/chiwaichan/feedmyfurbabies-send-and-receive-mqtt-messages-between-aws-iot-core-and-your-micro-controller-4oam)
+- [Title: Boost Your Database Interactions with Prisma! ✨🔍](https://dev.to/madzimai/title-boost-your-database-interactions-with-prisma-1p9c)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
+- [Infrastructure provisioning with AWS CloudFormation](https://dev.to/aws-builders/infrastructure-provisioning-with-aws-cloudformation-2leh)
+- [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
 <!-- BLOG-POST-LIST:END -->
 
