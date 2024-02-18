@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I made &quot;TypeScript Swagger Editor&quot;, new type of Swagger UI writing TypeScript code in the browser](https://dev.to/samchon/i-made-typescript-swagger-editor-new-type-of-swagger-ui-writing-typescript-code-in-the-browser-56ig)
 - [Yet Another Newsletter LOL: Million](https://dev.to/nickytonline/yet-another-newsletter-lol-million-1nm2)
 - [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
 - [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
-- [This is my post title](https://dev.to/darksoni107/this-is-my-post-title-1p0j)
 <!-- BLOG-POST-LIST:END -->
 
