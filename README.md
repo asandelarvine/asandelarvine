@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made &quot;TypeScript Swagger Editor&quot;, new type of Swagger UI writing TypeScript code in the browser](https://dev.to/samchon/i-made-typescript-swagger-editor-new-type-of-swagger-ui-writing-typescript-code-in-the-browser-56ig)
-- [Yet Another Newsletter LOL: Million](https://dev.to/nickytonline/yet-another-newsletter-lol-million-1nm2)
-- [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
-- [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
+- [one of the Codia AI technologies: Large Language Models from Pre-training to Fine-tuning](https://dev.to/happyer/one-of-the-codia-ai-technologies-large-language-models-from-pre-training-to-fine-tuning-3lmn)
+- [Can you use Google Docs to create your website?](https://dev.to/document10/can-you-use-google-docs-to-create-your-website-1d4o)
+- [Feature Scaling in ML](https://dev.to/zarinsaima333/feature-scaling-in-ml-a4o)
+- [How to structure your code? Hexagonal Architecture!](https://dev.to/diogodanielsoaresferreira/how-to-structure-your-code-hexagonal-architecture-4pp9)
 <!-- BLOG-POST-LIST:END -->
 
