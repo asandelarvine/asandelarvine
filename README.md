@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a blog from scratch using Strapi and Sveltekit](https://dev.to/markmunyaka/build-a-blog-from-scratch-using-strapi-and-sveltekit-53ip)
+- [NEED CONTRIBUTORS 🙏](https://dev.to/rudransh61/need-contributors-idg)
 - [How To Installing Ubuntu 22.04.3 LTS on VirtualBox 7](https://dev.to/dapin/how-to-installing-ubuntu-22043-lts-on-virtualbox-7-59he)
 - [Tech and the Future](https://dev.to/scofieldidehen/tech-and-the-future-25l3)
-- [A11y: Vanilla javascript aria-live announcer](https://dev.to/this-is-learning/a11y-vanilla-javascript-aria-live-announcer-784)
-- [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
 <!-- BLOG-POST-LIST:END -->
 
