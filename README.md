@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Websites That Offer Free Certification Courses](https://dev.to/durgesh4993/websites-that-offer-free-certification-courses-of9)
+- [Sheriffing in Open Source](https://dev.to/amnish04/sheriffing-in-open-source-3mcf)
 - [Title: Boost Your Database Interactions with Prisma! ✨🔍](https://dev.to/madzimai/title-boost-your-database-interactions-with-prisma-1p9c)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
-- [Infrastructure provisioning with AWS CloudFormation](https://dev.to/aws-builders/infrastructure-provisioning-with-aws-cloudformation-2leh)
-- [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
 <!-- BLOG-POST-LIST:END -->
 
