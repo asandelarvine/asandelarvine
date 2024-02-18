@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Real-Time Alerts with AI, NATs and Streamlit](https://dev.to/bobur/revolutionizing-real-time-alerts-with-ai-nats-and-streamlit-4f2j)
+- [Exploring the Magic of Spring Boot: Simplifying Java Development](https://dev.to/rukundoprince/exploring-the-magic-of-spring-boot-simplifying-java-development-4bad)
+- [Unleashing the Power of Customized Array Methods in JavaScript.](https://dev.to/nvish007/unleashing-the-power-of-customized-array-methods-in-javascript-31ih)
 - [FAANG - Guia Descomplicado de Entrevistas - parte 2](https://dev.to/hugaomarques/faang-guia-descomplicado-de-entrevistas-parte-2-587g)
-- [How to Efficiently Monitor and Debug APIs in Real-Time?](https://dev.to/apitoolkit/how-can-i-efficiently-monitor-and-debug-my-apis-in-real-time-3432)
-- [Figma to React Native: Bridging Design and Mobile App Development with Codia AI](https://dev.to/cyberpunker/figma-to-react-native-bridging-design-and-mobile-app-development-with-codia-ai-1618)
-- [Longest Substring Without Repeating Characters](https://dev.to/dagasatvik10/longest-substring-without-repeating-characters-1oaa)
 <!-- BLOG-POST-LIST:END -->
 
