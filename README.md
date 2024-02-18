@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End Development Roadmap for 6 months](https://dev.to/evansifyke/front-end-development-roadmap-for-6-months-379l)
-- [Build a blog from scratch using Strapi and Sveltekit](https://dev.to/markmunyaka/build-a-blog-from-scratch-using-strapi-and-sveltekit-53ip)
-- [NEED CONTRIBUTORS 🙏](https://dev.to/rudransh61/need-contributors-idg)
-- [How To Installing Ubuntu 22.04.3 LTS on VirtualBox 7](https://dev.to/dapin/how-to-installing-ubuntu-22043-lts-on-virtualbox-7-59he)
+- [Yet Another Newsletter LOL: Million](https://dev.to/nickytonline/yet-another-newsletter-lol-million-1nm2)
+- [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
+- [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
+- [This is my post title](https://dev.to/darksoni107/this-is-my-post-title-1p0j)
 <!-- BLOG-POST-LIST:END -->
 
