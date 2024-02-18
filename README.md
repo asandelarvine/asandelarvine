@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Installing Ubuntu 22.04.3 LTS on VirtualBox 7](https://dev.to/dapin/how-to-installing-ubuntu-22043-lts-on-virtualbox-7-59he)
 - [Tech and the Future](https://dev.to/scofieldidehen/tech-and-the-future-25l3)
+- [A11y: Vanilla javascript aria-live announcer](https://dev.to/this-is-learning/a11y-vanilla-javascript-aria-live-announcer-784)
 - [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
-- [Use Gemini in your terminal.](https://dev.to/flameface/use-gemini-in-your-terminal-49i1)
-- [How come there are tens of thousands of tables in a database](https://dev.to/esproc_spl/how-come-there-are-tens-of-thousands-of-tables-in-a-database-4n8b)
 <!-- BLOG-POST-LIST:END -->
 
