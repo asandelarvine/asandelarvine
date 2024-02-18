@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Switching........](https://dev.to/mrmatt1010/career-switching-mbi)
+- [Rethinking product development to fight against the feature factory](https://dev.to/meetsquadai/rethinking-product-development-to-fight-against-the-feature-factory-1poi)
+- [Mastering Adaptive Flutter Themes: Crafting a Responsive Theme Selector Page](https://dev.to/nikhilxd/mastering-adaptive-flutter-themes-crafting-a-responsive-theme-selector-page-4jlp)
 - [Understanding createContext in React: A Comprehensive Guide](https://dev.to/bookmdan/understanding-createcontext-in-react-a-comprehensive-guide-5469)
-- [My VSCode Config](https://dev.to/namingthingsishard/my-vscode-config-4ohp)
-- [Revolutionizing Real-Time Alerts with AI, NATs and Streamlit](https://dev.to/bobur/revolutionizing-real-time-alerts-with-ai-nats-and-streamlit-4f2j)
-- [Exploring the Magic of Spring Boot: Simplifying Java Development](https://dev.to/rukundoprince/exploring-the-magic-of-spring-boot-simplifying-java-development-4bad)
 <!-- BLOG-POST-LIST:END -->
 
