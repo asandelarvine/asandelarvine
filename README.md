@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [one of the Codia AI technologies: Large Language Models from Pre-training to Fine-tuning](https://dev.to/happyer/one-of-the-codia-ai-technologies-large-language-models-from-pre-training-to-fine-tuning-3lmn)
-- [Can you use Google Docs to create your website?](https://dev.to/document10/can-you-use-google-docs-to-create-your-website-1d4o)
-- [Feature Scaling in ML](https://dev.to/zarinsaima333/feature-scaling-in-ml-a4o)
-- [How to structure your code? Hexagonal Architecture!](https://dev.to/diogodanielsoaresferreira/how-to-structure-your-code-hexagonal-architecture-4pp9)
+- [Figma to React Native: Bridging Design and Mobile App Development with Codia AI](https://dev.to/cyberpunker/figma-to-react-native-bridging-design-and-mobile-app-development-with-codia-ai-1618)
+- [Longest Substring Without Repeating Characters](https://dev.to/dagasatvik10/longest-substring-without-repeating-characters-1oaa)
+- [Build a ChatGPT 4 Blackjack Game with AI Coaching &lpar;49 Lines of Code&rpar;](https://dev.to/aimarkdown/build-a-chatgpt-4-blackjack-game-with-ai-coaching-49-lines-of-code-2l84)
+- [Any Tips on Dealing With the Imposter Syndrome?](https://dev.to/anitaolsen/any-tips-on-dealing-with-the-imposter-syndrome-1k9b)
 <!-- BLOG-POST-LIST:END -->
 
