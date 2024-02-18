@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding createContext in React: A Comprehensive Guide](https://dev.to/bookmdan/understanding-createcontext-in-react-a-comprehensive-guide-5469)
 - [My VSCode Config](https://dev.to/namingthingsishard/my-vscode-config-4ohp)
 - [Revolutionizing Real-Time Alerts with AI, NATs and Streamlit](https://dev.to/bobur/revolutionizing-real-time-alerts-with-ai-nats-and-streamlit-4f2j)
 - [Exploring the Magic of Spring Boot: Simplifying Java Development](https://dev.to/rukundoprince/exploring-the-magic-of-spring-boot-simplifying-java-development-4bad)
-- [Unleashing the Power of Customized Array Methods in JavaScript.](https://dev.to/nvish007/unleashing-the-power-of-customized-array-methods-in-javascript-31ih)
 <!-- BLOG-POST-LIST:END -->
 
