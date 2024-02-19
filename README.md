@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement the Singleton pattern](https://dev.to/phuocng/implement-the-singleton-pattern-3mbe)
-- [7 Components of our Notification Service we Shifted from Devs to PMs](https://dev.to/suprsend/7-components-of-our-notification-service-we-shifted-from-devs-to-pms-j7d)
-- [Using Google Gemini With Flask, Vue and Vite](https://dev.to/ethand91/using-google-gemini-with-flask-vue-and-vite-57d)
-- [Newsletters: the good, the bad and the ugly](https://dev.to/nickytonline/newsletters-the-good-the-bad-and-the-ugly-43g4)
+- [Is the Tech Job Market Really as Grim as It Seems?](https://dev.to/devteam/is-the-tech-job-market-really-as-grim-as-it-seems-372d)
+- [Part :4 - My Automation Interview Questions in one of leading MNC](https://dev.to/magi-magificient/part-4-my-automation-interview-questions-in-one-of-leading-mnc-1bmm)
+- [Build A React Component with Vite](https://dev.to/vsmentor/build-a-react-component-with-vite-1ifm)
+- [Power Apps - Making a Captcha](https://dev.to/wyattdave/power-apps-making-a-captcha-3j62)
 <!-- BLOG-POST-LIST:END -->
 
