@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly 19 Feb 2024](https://dev.to/tspannhw/flank-stack-weekly-19-feb-2024-4844)
-- [Unnecessary Git Quiz](https://dev.to/hyperswitchio/unnecessary-git-quiz-1b61)
-- [20 Things You Should Consider When You Grow as a Developer](https://dev.to/mmainulhasan/20-things-you-should-consider-when-you-grow-as-a-developer-58k9)
-- [Magic is no longer Open Source](https://dev.to/polterguy/magic-is-no-longer-open-source-4pff)
+- [Podcast Palooza— What are you listening to? &lpar;Science Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-science-edition-586c)
+- [Monkeying Around with Python: A Guide to Monkey Patching](https://dev.to/karishmashukla/monkeying-around-with-python-a-guide-to-monkey-patching-obc)
+- [Quick Guide to Leveraging Read the Docs for Your GitHub Projects](https://dev.to/mochafreddo/quick-guide-to-leveraging-read-the-docs-for-your-github-projects-4eod)
+- [Ready to Dive into the Next Tech Career Wave?](https://dev.to/up_min_sparcs/ready-to-dive-into-the-next-tech-career-wave-il)
 <!-- BLOG-POST-LIST:END -->
 
