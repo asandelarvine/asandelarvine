@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The State Of Open Conference 2024](https://dev.to/nikitakoselev/the-state-of-open-conference-2024-2435)
 - [Difference between Functional and Non Functional Testing](https://dev.to/selvakumar/difference-between-functional-and-non-functional-testing-1aim)
 - [What do you think about Project IDX? &lpar;Google&#39;s AI powered, Cloud Based IDE&rpar;](https://dev.to/jess/what-do-you-think-about-project-idx-googles-ai-powered-cloud-based-ide-5fii)
 - [Sparse Vectors in Qdrant: Pure Vector-based Hybrid Search](https://dev.to/qdrant/sparse-vectors-in-qdrant-pure-vector-based-hybrid-search-3j64)
-- [CSS Timeline with Custom Properties](https://dev.to/melnik909/css-timeline-with-custom-properties-4hc8)
 <!-- BLOG-POST-LIST:END -->
 
