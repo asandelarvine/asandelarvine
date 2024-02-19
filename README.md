@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcast Palooza— What are you listening to? &lpar;Science Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-science-edition-586c)
-- [Monkeying Around with Python: A Guide to Monkey Patching](https://dev.to/karishmashukla/monkeying-around-with-python-a-guide-to-monkey-patching-obc)
-- [Quick Guide to Leveraging Read the Docs for Your GitHub Projects](https://dev.to/mochafreddo/quick-guide-to-leveraging-read-the-docs-for-your-github-projects-4eod)
-- [Ready to Dive into the Next Tech Career Wave?](https://dev.to/up_min_sparcs/ready-to-dive-into-the-next-tech-career-wave-il)
+- [Difference between Functional and Non Functional Testing](https://dev.to/selvakumar/difference-between-functional-and-non-functional-testing-1aim)
+- [What do you think about Project IDX? &lpar;Google&#39;s AI powered, Cloud Based IDE&rpar;](https://dev.to/jess/what-do-you-think-about-project-idx-googles-ai-powered-cloud-based-ide-5fii)
+- [Sparse Vectors in Qdrant: Pure Vector-based Hybrid Search](https://dev.to/qdrant/sparse-vectors-in-qdrant-pure-vector-based-hybrid-search-3j64)
+- [CSS Timeline with Custom Properties](https://dev.to/melnik909/css-timeline-with-custom-properties-4hc8)
 <!-- BLOG-POST-LIST:END -->
 
