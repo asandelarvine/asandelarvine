@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-46pb)
-- [Enhanced Starknet Airdrop Experience with GetBlock&#39;s Starknet RPC: Accelerate Your STRK Claim](https://dev.to/getblockapi/enhanced-starknet-airdrop-experience-with-getblocks-starknet-rpc-accelerate-your-strk-claim-2npi)
-- [Harnessing the power of GitOps with Rig](https://dev.to/rigdev/harnessing-the-power-of-gitops-with-rig-1aig)
-- [Do front-end developers fear the back-end?](https://dev.to/bd_perez/do-front-end-developers-fear-the-back-end-41fc)
+- [FLaNK Stack Weekly 19 Feb 2024](https://dev.to/tspannhw/flank-stack-weekly-19-feb-2024-4844)
+- [Unnecessary Git Quiz](https://dev.to/hyperswitchio/unnecessary-git-quiz-1b61)
+- [20 Things You Should Consider When You Grow as a Developer](https://dev.to/mmainulhasan/20-things-you-should-consider-when-you-grow-as-a-developer-58k9)
+- [Magic is no longer Open Source](https://dev.to/polterguy/magic-is-no-longer-open-source-4pff)
 <!-- BLOG-POST-LIST:END -->
 
