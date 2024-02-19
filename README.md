@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Component Driven Design: efficiency and scalability in digital products](https://dev.to/spykerel04d/component-driven-design-efficiency-and-scalability-in-digital-products-247a)
+- [The Death of RAG: What a 10M Token Breakthrough Means for Developers](https://dev.to/dawiddahl/the-death-of-rag-what-a-10m-token-breakthrough-means-for-developers-3p24)
 - [Tracking Crypto Prices on Autopilot: GitHub Codespaces &amp; Actions Guide](https://dev.to/pizofreude/tracking-crypto-prices-on-autopilot-github-codespaces-actions-guide-1hc8)
-- [AWS open source newsletter, #189](https://dev.to/aws/aws-open-source-newsletter-189-4fc)
-- [Weekly Roundup 040 &lpar;Feb 12&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-040-feb-12-hot-topics-in-workplace-sharepoint-and-powerplatform-1mlb)
-- [A Cafe Menu](https://dev.to/huzaifaakhtar2/a-cafe-menu-58l6)
+- [S01E02: Website, Mastodon and Event Catalogues](https://dev.to/bogomil/s01e02-website-mastodon-and-event-catalogues-43jb)
 <!-- BLOG-POST-LIST:END -->
 
