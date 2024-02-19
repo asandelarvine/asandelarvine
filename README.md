@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the Tech Job Market Really as Grim as It Seems?](https://dev.to/devteam/is-the-tech-job-market-really-as-grim-as-it-seems-372d)
-- [Part :4 - My Automation Interview Questions in one of leading MNC](https://dev.to/magi-magificient/part-4-my-automation-interview-questions-in-one-of-leading-mnc-1bmm)
-- [Build A React Component with Vite](https://dev.to/vsmentor/build-a-react-component-with-vite-1ifm)
-- [Power Apps - Making a Captcha](https://dev.to/wyattdave/power-apps-making-a-captcha-3j62)
+- [Tracking Crypto Prices on Autopilot: GitHub Codespaces &amp; Actions Guide](https://dev.to/pizofreude/tracking-crypto-prices-on-autopilot-github-codespaces-actions-guide-1hc8)
+- [AWS open source newsletter, #189](https://dev.to/aws/aws-open-source-newsletter-189-4fc)
+- [Weekly Roundup 040 &lpar;Feb 12&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-040-feb-12-hot-topics-in-workplace-sharepoint-and-powerplatform-1mlb)
+- [A Cafe Menu](https://dev.to/huzaifaakhtar2/a-cafe-menu-58l6)
 <!-- BLOG-POST-LIST:END -->
 
