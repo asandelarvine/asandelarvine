@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Your Brand: How Blogging Can Elevate Your Online Presence](https://dev.to/danielwilhoiti63/building-your-brand-how-blogging-can-elevate-your-online-presence-1hdi)
+- [Add Cypress, Playwright, and Storybook to Nx Expo Apps](https://dev.to/nx/add-cypress-playwright-and-storybook-to-nx-expo-apps-2ob1)
+- [Integración de la API de OpenAI Text-to-Speech en Astro con React y Next.js](https://dev.to/danieljsaldana/integracion-de-la-api-de-openai-text-to-speech-en-astro-con-react-y-nextjs-3gia)
 - [Learn Game Hacking](https://dev.to/ghrake/learn-game-hacking-49ca)
-- [How being a designer reduced my pedantry in arguments and affected my language](https://dev.to/ladyofcode/how-being-a-designer-reduced-my-pedantry-in-arguments-and-affected-my-language-1i4m)
-- [Implicit Dependencies Management with Nx: A Practical Guide through Real-World Case Studies](https://dev.to/this-is-learning/implicit-dependencies-management-with-nx-a-practical-guide-through-real-world-case-studies-59kd)
-- [CommonJS vs ES Modules: the shift from require to import](https://dev.to/nikolasbarwicki/commonjs-vs-es-modules-the-shift-from-require-to-import-18fo)
 <!-- BLOG-POST-LIST:END -->
 
