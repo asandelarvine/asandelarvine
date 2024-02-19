@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kentico Xperience 13: 5 tips on how to ace the Kentico Certified Developer exam](https://dev.to/michael419/kentico-xperience-13-5-tips-on-how-to-ace-the-kentico-certified-developer-exam-3dkh)
+- [Assign alias to your long togo git commands!](https://dev.to/busycaesar/assign-alias-to-your-long-togo-git-commands-3i9j)
+- [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
 - [Career Switching........](https://dev.to/mrmatt1010/career-switching-mbi)
-- [Rethinking product development to fight against the feature factory](https://dev.to/meetsquadai/rethinking-product-development-to-fight-against-the-feature-factory-1poi)
-- [Mastering Adaptive Flutter Themes: Crafting a Responsive Theme Selector Page](https://dev.to/nikhilxd/mastering-adaptive-flutter-themes-crafting-a-responsive-theme-selector-page-4jlp)
-- [Understanding createContext in React: A Comprehensive Guide](https://dev.to/bookmdan/understanding-createcontext-in-react-a-comprehensive-guide-5469)
 <!-- BLOG-POST-LIST:END -->
 
