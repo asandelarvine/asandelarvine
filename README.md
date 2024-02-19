@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Learning AI for Songwriting: LSTMs and Taylor Swift](https://dev.to/olgabraginskaya/my-journey-learning-ai-for-songwriting-lstms-and-taylor-swift-38mb)
-- [Simplifier l’intégration des icônes depuis Figma : De la conception au design system](https://dev.to/mgdis/simplifier-lintegration-des-icones-depuis-figma-de-la-conception-au-design-system-f9j)
-- [Need advice on first website](https://dev.to/discopigeon/need-advice-on-first-website-1b25)
-- [The Dilemma of Perfection: Balancing Timeliness and Quality in Product Development](https://dev.to/this-is-learning/the-dilemma-of-perfection-balancing-timeliness-and-quality-in-product-development-4jlj)
+- [Meme Monday](https://dev.to/ben/meme-monday-46pb)
+- [Enhanced Starknet Airdrop Experience with GetBlock&#39;s Starknet RPC: Accelerate Your STRK Claim](https://dev.to/getblockapi/enhanced-starknet-airdrop-experience-with-getblocks-starknet-rpc-accelerate-your-strk-claim-2npi)
+- [Harnessing the power of GitOps with Rig](https://dev.to/rigdev/harnessing-the-power-of-gitops-with-rig-1aig)
+- [Do front-end developers fear the back-end?](https://dev.to/bd_perez/do-front-end-developers-fear-the-back-end-41fc)
 <!-- BLOG-POST-LIST:END -->
 
