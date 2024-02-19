@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Which is going to win, DevOps or Agile?](https://dev.to/cloudzenix24/which-is-going-to-win-devops-or-agile-31c2)
+- [Dotting and Dashing with Minion Morse Magic](https://dev.to/balagmadhu/dotting-and-dashing-with-minion-morse-magic-5enf)
+- [Beyond Basics: Traversing Kali Linux Tools](https://dev.to/up_min_sparcs/beyond-basics-traversing-kali-linux-tools-3gj6)
 - [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
-- [Shielding Your Data: Safeguarding AWS S3 via VPC Endpoints.](https://dev.to/acloudguy/shielding-your-data-safeguarding-aws-s3-via-vpc-endpoints-2lic)
-- [Component Driven Design: efficiency and scalability in digital products](https://dev.to/spykerel04d/component-driven-design-efficiency-and-scalability-in-digital-products-247a)
-- [The Death of RAG: What a 10M Token Breakthrough Means for Developers](https://dev.to/dawiddahl/the-death-of-rag-what-a-10m-token-breakthrough-means-for-developers-3p24)
 <!-- BLOG-POST-LIST:END -->
 
