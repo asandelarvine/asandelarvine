@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
+- [Shielding Your Data: Safeguarding AWS S3 via VPC Endpoints.](https://dev.to/acloudguy/shielding-your-data-safeguarding-aws-s3-via-vpc-endpoints-2lic)
 - [Component Driven Design: efficiency and scalability in digital products](https://dev.to/spykerel04d/component-driven-design-efficiency-and-scalability-in-digital-products-247a)
 - [The Death of RAG: What a 10M Token Breakthrough Means for Developers](https://dev.to/dawiddahl/the-death-of-rag-what-a-10m-token-breakthrough-means-for-developers-3p24)
-- [Tracking Crypto Prices on Autopilot: GitHub Codespaces &amp; Actions Guide](https://dev.to/pizofreude/tracking-crypto-prices-on-autopilot-github-codespaces-actions-guide-1hc8)
-- [S01E02: Website, Mastodon and Event Catalogues](https://dev.to/bogomil/s01e02-website-mastodon-and-event-catalogues-43jb)
 <!-- BLOG-POST-LIST:END -->
 
