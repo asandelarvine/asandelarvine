@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Achieve influence in your career with credibility and likeability.](https://dev.to/apotre/achieve-influence-in-your-career-with-credibility-and-likeability-4k6n)
+- [Creating Scroll Progress Bar using CSS and JavaScript in React](https://dev.to/surajondev/creating-scroll-progress-bar-using-css-and-javascript-in-react-85o)
+- [Automating Your Home with Node-RED: A Beginner&#39;s Guide](https://dev.to/kcode96/automating-your-home-with-node-red-a-beginners-guide-2b1e)
 - [Which is going to win, DevOps or Agile?](https://dev.to/cloudzenix24/which-is-going-to-win-devops-or-agile-31c2)
-- [Dotting and Dashing with Minion Morse Magic](https://dev.to/balagmadhu/dotting-and-dashing-with-minion-morse-magic-5enf)
-- [Beyond Basics: Traversing Kali Linux Tools](https://dev.to/up_min_sparcs/beyond-basics-traversing-kali-linux-tools-3gj6)
-- [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
 <!-- BLOG-POST-LIST:END -->
 
