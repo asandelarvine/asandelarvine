@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Game Hacking](https://dev.to/ghrake/learn-game-hacking-49ca)
 - [How being a designer reduced my pedantry in arguments and affected my language](https://dev.to/ladyofcode/how-being-a-designer-reduced-my-pedantry-in-arguments-and-affected-my-language-1i4m)
-- [Documentação em toda parte](https://dev.to/beatrizoliveira/documentacao-em-toda-parte-e1m)
-- [🦉 AthenaDB: Distributed Vector Database Powered by Cloudflare 🌩️](https://dev.to/timesurgelabs/athenadb-distributed-vector-database-powered-by-cloudflare-4p59)
-- [The State Of Open Conference 2024](https://dev.to/nikitakoselev/the-state-of-open-conference-2024-2435)
+- [Implicit Dependencies Management with Nx: A Practical Guide through Real-World Case Studies](https://dev.to/this-is-learning/implicit-dependencies-management-with-nx-a-practical-guide-through-real-world-case-studies-59kd)
+- [CommonJS vs ES Modules: the shift from require to import](https://dev.to/nikolasbarwicki/commonjs-vs-es-modules-the-shift-from-require-to-import-18fo)
 <!-- BLOG-POST-LIST:END -->
 
