@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Aftermath of switching from VSCode to Neovim](https://dev.to/jonnytriestowrite/aftermath-of-switching-from-vscode-to-neovim-4efl)
+- [C# System.Text.Json](https://dev.to/karenpayneoregon/c-systemtextjson-37m1)
 - [Observability with Express and Busgnag - In a easy way](https://dev.to/yelldutz/observability-with-express-and-busgnag-in-a-easy-way-46bl)
-- [Building Your Brand: How Blogging Can Elevate Your Online Presence](https://dev.to/danielwilhoiti63/building-your-brand-how-blogging-can-elevate-your-online-presence-1hdi)
-- [SQL Server Management Studio &lpar;SSMS&rpar;](https://dev.to/appliedk/sql-server-management-studio-ssms-3b11)
-- [Add Cypress, Playwright, and Storybook to Nx Expo Apps](https://dev.to/nx/add-cypress-playwright-and-storybook-to-nx-expo-apps-2ob1)
+- [[05/52] The Beauty of Zig-WASM-Python](https://dev.to/tythos/0552-the-beauty-of-zig-wasm-python-242c)
 <!-- BLOG-POST-LIST:END -->
 
