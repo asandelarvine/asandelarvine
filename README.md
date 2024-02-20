@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Prepress vs Editorial Prepress: Understanding the Difference](https://dev.to/alphabpo/digital-prepress-vs-editorial-prepress-understanding-the-difference-52k4)
-- [eBook Typesetting: How to Create a Ready-to-Publish Book?](https://dev.to/alphaebook/ebook-typesetting-how-to-create-a-ready-to-publish-book-2jbd)
-- [Convert HTML to PDF in React with react-pdf](https://dev.to/imrankh13332994/convert-html-to-pdf-in-react-with-react-pdf-3c0b)
-- [Simplifying the Milvus Selection Process](https://dev.to/chrischurilo/simplifying-the-milvus-selection-process-25j4)
+- [What Habits Are Holding You Back from Success?](https://dev.to/devteam/what-habits-are-holding-you-back-from-success-2n5m)
+- [Why I prefer Maven over Gradle](https://dev.to/dagnelies/why-i-prefer-maven-over-gradle-5ga5)
+- [When to use serverless?](https://dev.to/yokwejuste/when-to-use-serverless-2n3j)
+- [Building an Image Recognition Website with SvelteKit and TensorFlow.js](https://dev.to/estelle-k/building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a)
 <!-- BLOG-POST-LIST:END -->
 
