@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A &lpar;more&rpar; realistic card flip animation](https://dev.to/auroratide/a-more-realistic-card-flip-animation-3k9m)
 - [Cybersecurity basics: security mindset](https://dev.to/azasypkin/cybersecurity-basics-security-mindset-2d71)
 - [How not to do CSS](https://dev.to/codeparrot/how-not-to-do-css-1cop)
 - [Look Who is Back: jQuery 4.0.0 is Coming to Town](https://dev.to/brojenuel/look-who-is-back-jquery-400-is-coming-to-town-4jd3)
-- [From Image to Design Draft and Code: Exploring How Codia AI Achieves Automatic Generation](https://dev.to/happyer/from-image-to-design-draft-and-code-exploring-how-codia-ai-achieves-automatic-generation-1go5)
 <!-- BLOG-POST-LIST:END -->
 
