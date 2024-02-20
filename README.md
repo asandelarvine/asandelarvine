@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Helpful Tools for Quant丨Efficiently Calculate Transaction Costs from Tick Data](https://dev.to/dolphindb/helpful-tools-for-quantgun-efficiently-calculate-transaction-costs-from-tick-data-5o1)
-- [25 different CSS button](https://dev.to/onlinedevelopers/25-different-css-button-3j8d)
-- [How to Downsample Your Data Efficiently？](https://dev.to/dolphindb/how-to-downsample-your-data-efficiently-2p3d)
-- [What are Tech Stacks and What is the Best One?](https://dev.to/up_min_sparcs/what-are-tech-stacks-and-what-is-the-best-one-3i0a)
+- [Credit to Where Credit is Due: Intellectual Property Issues of Generative AI](https://dev.to/up_min_sparcs/credit-to-where-credit-is-due-intellectual-property-issues-of-generative-ai-7id)
+- [Exploring the Frontier of AI with Google&#39;s Gemini 1.5: A Revolution in MoE Models](https://dev.to/nitin-rachabathuni/exploring-the-frontier-of-ai-with-googles-gemini-15-a-revolution-in-moe-models-4cbg)
+- [How AI Transformed Today&#39;s Industries](https://dev.to/up_min_sparcs/how-ai-transforned-todays-industries-3kak)
+- [UI/UX Design — Function Beyond Aesthetics: A Beginner’s Walkthrough](https://dev.to/up_min_sparcs/uiux-design-function-beyond-aesthetics-a-beginners-walkthrough-2b72)
 <!-- BLOG-POST-LIST:END -->
 
