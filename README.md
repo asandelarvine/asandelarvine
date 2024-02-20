@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Soft Skills to Learn in 2024 for Career Development](https://dev.to/scofieldidehen/top-soft-skills-to-learn-in-2024-for-career-development-950)
+- [Build an AI-powered PowerPoint &lpar;Next.js, OpenAI &amp; CopilotKit&rpar;](https://dev.to/copilotkit/how-to-build-ai-powered-powerpoint-app-nextjs-openai-copilotkit-ji2)
+- [Top 5 DevOps Engineer Interview Questions and Tips](https://dev.to/howtouselinux/top-5-devops-engineer-interview-questions-m90)
 - [Pros and Cons of Arrays in Java](https://dev.to/travelcoder/pros-and-cons-of-arrays-in-java-3if9)
-- [Using == vs the equals&lpar;&rpar; Method in Java](https://dev.to/travelcoder/using-vs-the-equals-method-in-java-1anf)
-- [Top Elements to Consider in Creating Effective Branding Design](https://dev.to/freelancer111/top-elements-to-consider-in-creating-effective-branding-design-2feb)
-- [12 things you didn&#39;t know you could do with Nextjs](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-nextjs-386b)
 <!-- BLOG-POST-LIST:END -->
 
