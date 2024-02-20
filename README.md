@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Compare DynamoDB DAX with ElasticCache](https://dev.to/vng_bach/compare-dynamodb-dax-with-elasticcache-haj)
 - [What Habits Are Holding You Back from Success?](https://dev.to/devteam/what-habits-are-holding-you-back-from-success-2n5m)
 - [Why I prefer Maven over Gradle](https://dev.to/dagnelies/why-i-prefer-maven-over-gradle-5ga5)
 - [When to use serverless?](https://dev.to/yokwejuste/when-to-use-serverless-2n3j)
-- [Building an Image Recognition Website with SvelteKit and TensorFlow.js](https://dev.to/estelle-k/building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a)
 <!-- BLOG-POST-LIST:END -->
 
