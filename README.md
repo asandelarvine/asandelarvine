@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Helpful Tools for Quant丨Efficiently Calculate Transaction Costs from Tick Data](https://dev.to/dolphindb/helpful-tools-for-quantgun-efficiently-calculate-transaction-costs-from-tick-data-5o1)
+- [25 different CSS button](https://dev.to/onlinedevelopers/25-different-css-button-3j8d)
+- [How to Downsample Your Data Efficiently？](https://dev.to/dolphindb/how-to-downsample-your-data-efficiently-2p3d)
 - [What are Tech Stacks and What is the Best One?](https://dev.to/up_min_sparcs/what-are-tech-stacks-and-what-is-the-best-one-3i0a)
-- [Introduction to Visual Studio Code GitHub Copilot Using GitHub Education](https://dev.to/up_min_sparcs/introduction-to-visual-studio-code-github-copilot-using-github-education-3422)
-- [Introduction to GIT Version Control](https://dev.to/up_min_sparcs/introduction-to-git-version-control-2pcl)
-- [Different Sorting Algorithms and their Implementation](https://dev.to/up_min_sparcs/different-sorting-algorithms-and-their-implementation-45b9)
 <!-- BLOG-POST-LIST:END -->
 
