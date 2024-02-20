@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Big bet](https://dev.to/davidsoleinh/big-bet-39l2)
 - [Top Soft Skills to Learn in 2024 for Career Development](https://dev.to/scofieldidehen/top-soft-skills-to-learn-in-2024-for-career-development-950)
-- [Build an AI-powered PowerPoint &lpar;Next.js, OpenAI &amp; CopilotKit&rpar;](https://dev.to/copilotkit/how-to-build-ai-powered-powerpoint-app-nextjs-openai-copilotkit-ji2)
-- [Top 5 DevOps Engineer Interview Questions and Tips](https://dev.to/howtouselinux/top-5-devops-engineer-interview-questions-m90)
-- [Pros and Cons of Arrays in Java](https://dev.to/travelcoder/pros-and-cons-of-arrays-in-java-3if9)
+- [How to build a component library with React and TypeScript](https://dev.to/logrocket/how-to-build-a-component-library-with-react-and-typescript-5c76)
+- [Build an AI-Powered PowerPoint App - &lpar;Next.js, OpenAI &amp; CopilotKit&rpar;](https://dev.to/copilotkit/how-to-build-ai-powered-powerpoint-app-nextjs-openai-copilotkit-ji2)
 <!-- BLOG-POST-LIST:END -->
 
