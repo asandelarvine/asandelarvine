@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New year, new planning habits: using GitHub Projects to track your goals](https://dev.to/github/new-year-new-planning-habits-using-github-projects-to-track-your-goals-1meh)
-- [Change screen input programatically on Linux](https://dev.to/barim/change-screen-input-programatically-on-linux-40bp)
-- [Big bet](https://dev.to/davidsoleinh/big-bet-39l2)
-- [Top Soft Skills to Learn in 2024 for Career Development](https://dev.to/scofieldidehen/top-soft-skills-to-learn-in-2024-for-career-development-950)
+- [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
+- [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
+- [Build a React genAI APP with Amazon Bedrock &amp; AWS SDK](https://dev.to/aws/build-a-react-genai-app-with-amazon-bedrock-aws-sdk-10h0)
+- [🔥Webperf Tips &lpar;1&rpar; - Case Study - Gastein.com](https://dev.to/machy8/webperf-tips-1-case-study-gasteincom-4ib9)
 <!-- BLOG-POST-LIST:END -->
 
