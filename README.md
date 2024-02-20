@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2024 Web Hosting Report](https://dev.to/zacharyzaro/the-2024-web-hosting-report-38hi)
-- [Optimizing Images for Developer Blogs](https://dev.to/elastoplastique/optimizing-images-for-developer-blogs-2iif)
-- [Apple&#39;s PWA Bombshell: The story behind](https://dev.to/mitchiemt11/apples-pwa-bombshell-the-story-behind-2me7)
-- [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
+- [Prisma vs Sequelize: A Comprehensive Comparison of Node.js ORMs](https://dev.to/abdalshafiealmajdoup/prisma-vs-sequelize-a-comprehensive-comparison-of-nodejs-orms-145o)
+- [Configuring IRB autocomplete](https://dev.to/joshdevhub/configuring-irb-autocomplete-3n4d)
+- [Building a Neural Network in Rust &lpar;From Scratch&rpar;](https://dev.to/farshed/building-a-neural-network-in-rust-from-scratch-5bm1)
+- [Lessons From My First Gamejam](https://dev.to/zak/lessons-from-my-first-gamejam-4i8b)
 <!-- BLOG-POST-LIST:END -->
 
