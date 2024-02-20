@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Prepress vs Editorial Prepress: Understanding the Difference](https://dev.to/alphabpo/digital-prepress-vs-editorial-prepress-understanding-the-difference-52k4)
 - [eBook Typesetting: How to Create a Ready-to-Publish Book?](https://dev.to/alphaebook/ebook-typesetting-how-to-create-a-ready-to-publish-book-2jbd)
 - [Convert HTML to PDF in React with react-pdf](https://dev.to/imrankh13332994/convert-html-to-pdf-in-react-with-react-pdf-3c0b)
 - [Simplifying the Milvus Selection Process](https://dev.to/chrischurilo/simplifying-the-milvus-selection-process-25j4)
-- [Credit to Where Credit is Due: Intellectual Property Issues of Generative AI](https://dev.to/up_min_sparcs/credit-to-where-credit-is-due-intellectual-property-issues-of-generative-ai-7id)
 <!-- BLOG-POST-LIST:END -->
 
