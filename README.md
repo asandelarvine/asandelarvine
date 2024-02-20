@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [eBook Typesetting: How to Create a Ready-to-Publish Book?](https://dev.to/alphaebook/ebook-typesetting-how-to-create-a-ready-to-publish-book-2jbd)
+- [Convert HTML to PDF in React with react-pdf](https://dev.to/imrankh13332994/convert-html-to-pdf-in-react-with-react-pdf-3c0b)
+- [Simplifying the Milvus Selection Process](https://dev.to/chrischurilo/simplifying-the-milvus-selection-process-25j4)
 - [Credit to Where Credit is Due: Intellectual Property Issues of Generative AI](https://dev.to/up_min_sparcs/credit-to-where-credit-is-due-intellectual-property-issues-of-generative-ai-7id)
-- [Exploring the Frontier of AI with Google&#39;s Gemini 1.5: A Revolution in MoE Models](https://dev.to/nitin-rachabathuni/exploring-the-frontier-of-ai-with-googles-gemini-15-a-revolution-in-moe-models-4cbg)
-- [How AI Transformed Today&#39;s Industries](https://dev.to/up_min_sparcs/how-ai-transforned-todays-industries-3kak)
-- [UI/UX Design — Function Beyond Aesthetics: A Beginner’s Walkthrough](https://dev.to/up_min_sparcs/uiux-design-function-beyond-aesthetics-a-beginners-walkthrough-2b72)
 <!-- BLOG-POST-LIST:END -->
 
