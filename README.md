@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Prisma vs Sequelize: A Comprehensive Comparison of Node.js ORMs](https://dev.to/abdalshafiealmajdoup/prisma-vs-sequelize-a-comprehensive-comparison-of-nodejs-orms-145o)
 - [Configuring IRB autocomplete](https://dev.to/joshdevhub/configuring-irb-autocomplete-3n4d)
+- [Embracing Transparency: Dr. Allan Friedman&#39;s Vision for Open Source Security](https://dev.to/nikitakoselev/embracing-transparency-dr-allan-friedmans-vision-for-open-source-security-29b6)
 - [Building a Neural Network in Rust &lpar;From Scratch&rpar;](https://dev.to/farshed/building-a-neural-network-in-rust-from-scratch-5bm1)
-- [Lessons From My First Gamejam](https://dev.to/zak/lessons-from-my-first-gamejam-4i8b)
 <!-- BLOG-POST-LIST:END -->
 
