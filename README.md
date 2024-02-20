@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2024 Web Hosting Report](https://dev.to/zacharyzaro/the-2024-web-hosting-report-38hi)
+- [Optimizing Images for Developer Blogs](https://dev.to/elastoplastique/optimizing-images-for-developer-blogs-2iif)
+- [Apple&#39;s PWA Bombshell: The story behind](https://dev.to/mitchiemt11/apples-pwa-bombshell-the-story-behind-2me7)
 - [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
-- [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
-- [Build a React genAI APP with Amazon Bedrock &amp; AWS SDK](https://dev.to/aws/build-a-react-genai-app-with-amazon-bedrock-aws-sdk-10h0)
-- [🔥Webperf Tips &lpar;1&rpar; - Case Study - Gastein.com](https://dev.to/machy8/webperf-tips-1-case-study-gasteincom-4ib9)
 <!-- BLOG-POST-LIST:END -->
 
