@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Myntra Product Info As JSON](https://dev.to/radhe021/myntra-product-info-as-json-2ipa)
+- [How to Self Publish a Children’s Book? Writing &amp; Design Tips](https://dev.to/alphaebook/how-to-self-publish-a-childrens-book-writing-design-tips-1l4a)
 - [Be a Better Developer with These Git Good Practices](https://dev.to/speaklouder/be-a-better-developer-with-these-git-good-practices-13j9)
 - [Unleashing the Power of Git Bisect](https://dev.to/codenameone/unleashing-the-power-of-git-bisect-np6)
-- [A Simple Crud App With Prisma, Express, and PostgreSQL](https://dev.to/fredabod/a-simple-crud-app-with-prisma-express-and-postgresql-4on4)
-- [Building A File Compressor Using C And Wasm](https://dev.to/buarki/building-a-file-compressor-using-c-and-wasm-289d)
 <!-- BLOG-POST-LIST:END -->
 
