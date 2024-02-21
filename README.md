@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Curso de BFF com Node.js &lpar;87% OFF&rpar; 🚀](https://dev.to/mateus4k/curso-de-bff-com-nodejs-cupom-1in9)
-- [More in Flow Designer, ServiceNow&#39;s Washington Release](https://dev.to/sophiasemga/more-in-flow-designer-servicenows-washington-release-2cf3)
-- [What is Reactivity?](https://dev.to/this-is-learning/what-is-reactivity-3epf)
-- [Arqueología Tech: Roleplay un juego de cartas hecho en Visual Basic 6](https://dev.to/javascriptchile/arqueologia-tech-roleplay-un-juego-de-cartas-hecho-en-visual-basic-6-1pfh)
+- [You need a Proxy Server to proctect you 🛡️🐞](https://dev.to/techvision/you-need-a-proxy-server-to-proctect-you-b5k)
+- [Open Source and AI: a 2014 perspective](https://dev.to/cheetah100/open-source-and-ai-a-2014-perspective-3dmg)
+- [How I built NotesGPT – a full-stack AI voice note app](https://dev.to/nutlope/how-i-built-notesgpt-a-full-stack-ai-voice-note-app-265o)
+- [Reasons why we created craftit.site](https://dev.to/youssef_idabdelahe/reasons-why-we-made-craftitsite-2dbo)
 <!-- BLOG-POST-LIST:END -->
 
