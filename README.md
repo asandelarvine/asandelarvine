@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
 - [Publish/Subscribe with Sidekiq](https://dev.to/productive/publishsubscribe-with-sidekiq-3n92)
+- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
+- [Perfect Reactive Dependency Tracking](https://dev.to/ninjin/perfect-reactive-dependency-tracking-85e)
 - [Superlist Reviewed: A New Era of Productivity Tools Unveiled](https://dev.to/stan8086/superlist-reviewed-a-new-era-of-productivity-tools-unveiled-4ecj)
-- [TypeScript Template Literal Types: Practical Use-Cases for Improved Code Quality](https://dev.to/clarity89/typescript-template-literal-types-practical-use-cases-for-improved-code-quality-257i)
 <!-- BLOG-POST-LIST:END -->
 
