@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced RAG with graph path traversal](https://dev.to/neuml/advanced-rag-with-graph-path-traversal-441g)
-- [Build knowledge graphs with LLM-driven entity extraction](https://dev.to/neuml/build-knowledge-graphs-with-llm-driven-entity-extraction-4hlm)
-- [Themex&#39;s next update includes free and ready-to-use components.](https://dev.to/karsten_biedermann/themexs-next-update-includes-free-and-ready-to-use-components-509h)
-- [Discover the advantages of custom application development with low-code platforms.](https://dev.to/laradissouza99/discover-the-advantages-of-custom-application-development-with-low-code-platforms-2gon)
+- [The Current State of React Server Components: A Guide for the Perplexed](https://dev.to/kathryngrayson/the-current-state-of-react-server-components-a-guide-for-the-perplexed-31eb)
+- [Breaking the 300 barrier](https://dev.to/shivam_chauhan/breaking-the-300-barrier-3jbb)
+- [What&#39;s a Headless CMS?](https://dev.to/opensauced/whats-a-headless-cms-hg0)
+- [What&#39;s new in txtai 7.0](https://dev.to/neuml/whats-new-in-txtai-70-3oca)
 <!-- BLOG-POST-LIST:END -->
 
