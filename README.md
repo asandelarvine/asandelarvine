@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Git Bisect](https://dev.to/codenameone/unleashing-the-power-of-git-bisect-np6)
+- [Building A File Compressor Using C And Wasm](https://dev.to/buarki/building-a-file-compressor-using-c-and-wasm-289d)
+- [A Beginner&#39;s Guide to Creating a Gutenberg Block in WordPress](https://dev.to/christinameador/a-beginners-guide-to-creating-a-gutenberg-block-in-wordpress-c7m)
 - [Learn UI before frontend?](https://dev.to/not-ethan/learn-ui-before-frontend-500l)
-- [Welcome Thread - v264](https://dev.to/devteam/welcome-thread-v264-2agm)
-- [Implementation of Linked Lists in C++ and Python](https://dev.to/mdmahfuzbipu/implementation-of-linked-lists-in-c-and-python-43e7)
-- [How to Spot and Avoid Job Scams: A Guide for Junior Tech Professionals](https://dev.to/wdp/how-to-spot-and-avoid-job-scams-a-guide-for-junior-tech-professionals-2be8)
 <!-- BLOG-POST-LIST:END -->
 
