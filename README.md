@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Be a Better Developer with These Git Good Practices](https://dev.to/speaklouder/be-a-better-developer-with-these-git-good-practices-13j9)
 - [Unleashing the Power of Git Bisect](https://dev.to/codenameone/unleashing-the-power-of-git-bisect-np6)
 - [A Simple Crud App With Prisma, Express, and PostgreSQL](https://dev.to/fredabod/a-simple-crud-app-with-prisma-express-and-postgresql-4on4)
 - [Building A File Compressor Using C And Wasm](https://dev.to/buarki/building-a-file-compressor-using-c-and-wasm-289d)
-- [A Beginner&#39;s Guide to Creating a Gutenberg Block in WordPress](https://dev.to/christinameador/a-beginners-guide-to-creating-a-gutenberg-block-in-wordpress-c7m)
 <!-- BLOG-POST-LIST:END -->
 
