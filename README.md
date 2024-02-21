@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Myntra Product Info As JSON](https://dev.to/radhe021/myntra-product-info-as-json-2ipa)
-- [How to Self Publish a Children’s Book? Writing &amp; Design Tips](https://dev.to/alphaebook/how-to-self-publish-a-childrens-book-writing-design-tips-1l4a)
-- [Be a Better Developer with These Git Good Practices](https://dev.to/speaklouder/be-a-better-developer-with-these-git-good-practices-13j9)
-- [Unleashing the Power of Git Bisect](https://dev.to/codenameone/unleashing-the-power-of-git-bisect-np6)
+- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
+- [Publish/Subscribe with Sidekiq](https://dev.to/productive/publishsubscribe-with-sidekiq-3n92)
+- [Superlist Reviewed: A New Era of Productivity Tools Unveiled](https://dev.to/stan8086/superlist-reviewed-a-new-era-of-productivity-tools-unveiled-4ecj)
+- [TypeScript Template Literal Types: Practical Use-Cases for Improved Code Quality](https://dev.to/clarity89/typescript-template-literal-types-practical-use-cases-for-improved-code-quality-257i)
 <!-- BLOG-POST-LIST:END -->
 
