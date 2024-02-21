@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AWS Cloud Practitioner Certification Matters in Cloud Computing Roles](https://dev.to/scofieldidehen/why-aws-cloud-practitioner-certification-matters-in-cloud-computing-roles-1086)
-- [Google like a PRO! - A guide to productive Googling](https://dev.to/adedaniel/google-like-a-pro-a-guide-to-productive-googling-2daf)
-- [Creating Modern Accordion Components with CSS and HTML only](https://dev.to/rezi/creating-modern-accordion-components-with-css-and-html-24pb)
-- [Mathematics behind animations on the website](https://dev.to/shreyvijayvargiya/mathematics-behind-animations-on-the-website-456b)
+- [Image Labeling with Amazon Rekognition](https://dev.to/aws-builders/image-labeling-with-amazon-rekognition-2enn)
+- [Reading and Writing Files in Python &lpar;Text Files &amp; CSV&rpar;](https://dev.to/scofieldidehen/reading-and-writing-files-in-python-text-files-csv-3af4)
+- [This Is The Best Advanced React Book I’ve Ever Read](https://dev.to/_ndeyefatoudiop/this-is-the-best-advanced-react-book-ive-ever-read-328i)
+- [A buzzword-free Solana crash course for founders, devs, and investors](https://dev.to/almostefficient/a-buzzword-free-solana-crash-course-for-founders-devs-and-investors-4ab7)
 <!-- BLOG-POST-LIST:END -->
 
