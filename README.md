@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is a Sales Mix Calculator and How Does It Work? Explore Now](https://dev.to/bloger_07/what-is-a-sales-mix-calculator-and-how-does-it-work-explore-now-4i12)
+- [Live Streaming from Unity - Integrated Chat &lpar;Part 4&rpar;](https://dev.to/aws/live-streaming-from-unity-integrated-chat-part-4-3000)
 - [Deep Dive into apple-app-site-association file: Enhancing Deep Linking on iOS](https://dev.to/dennerparreiras/deep-dive-into-apple-app-site-association-file-enhancing-deep-linking-on-ios-4pd1)
 - [Cloud-Native Is In Shambles](https://dev.to/thenjdevopsguy/cloud-native-is-in-shambles-1klf)
-- [Master Your Code with ESLint Configurations 🚀](https://dev.to/kibumpng/master-your-code-with-eslint-configurations-2a5i)
-- [Building NextJS e-commerce: Best Shopify alternative in 2024](https://dev.to/momciloo/building-nextjs-e-commerce-best-shopify-alternative-in-2024-1mie)
 <!-- BLOG-POST-LIST:END -->
 
