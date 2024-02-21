@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Current State of React Server Components: A Guide for the Perplexed](https://dev.to/kathryngrayson/the-current-state-of-react-server-components-a-guide-for-the-perplexed-31eb)
-- [Breaking the 300 barrier](https://dev.to/shivam_chauhan/breaking-the-300-barrier-3jbb)
-- [What&#39;s a Headless CMS?](https://dev.to/opensauced/whats-a-headless-cms-hg0)
-- [What&#39;s new in txtai 7.0](https://dev.to/neuml/whats-new-in-txtai-70-3oca)
+- [Curso de BFF com Node.js &lpar;87% OFF&rpar; 🚀](https://dev.to/mateus4k/curso-de-bff-com-nodejs-cupom-1in9)
+- [More in Flow Designer, ServiceNow&#39;s Washington Release](https://dev.to/sophiasemga/more-in-flow-designer-servicenows-washington-release-2cf3)
+- [What is Reactivity?](https://dev.to/this-is-learning/what-is-reactivity-3epf)
+- [Arqueología Tech: Roleplay un juego de cartas hecho en Visual Basic 6](https://dev.to/javascriptchile/arqueologia-tech-roleplay-un-juego-de-cartas-hecho-en-visual-basic-6-1pfh)
 <!-- BLOG-POST-LIST:END -->
 
