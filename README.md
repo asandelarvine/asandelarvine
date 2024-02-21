@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn UI before frontend?](https://dev.to/not-ethan/learn-ui-before-frontend-500l)
 - [Welcome Thread - v264](https://dev.to/devteam/welcome-thread-v264-2agm)
+- [Implementation of Linked Lists in C++ and Python](https://dev.to/mdmahfuzbipu/implementation-of-linked-lists-in-c-and-python-43e7)
 - [How to Spot and Avoid Job Scams: A Guide for Junior Tech Professionals](https://dev.to/wdp/how-to-spot-and-avoid-job-scams-a-guide-for-junior-tech-professionals-2be8)
-- [How to learn a new &quot;Technology&quot;?](https://dev.to/nimit2801/how-to-learn-a-new-technology-4jef)
-- [Last month on Glitch was weird and wonderful, let&#39;s blog about it! ✍️](https://dev.to/jennschiffer/last-month-on-glitch-was-weird-and-wonderful-lets-blog-about-it-56n5)
 <!-- BLOG-POST-LIST:END -->
 
