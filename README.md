@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Review my React-native Based Playground](https://dev.to/suprsend/review-my-react-native-based-playground-2db2)
-- [Coding the Perfect Documentation: Deciding Between 🚀 Vitepress and ✨ Astro Starlight](https://dev.to/kevinbism/coding-the-perfect-documentation-deciding-between-vitepress-and-astro-starlight-2i11)
-- [Mastering Javascript One-Liners to Look Like a Pro](https://dev.to/benajaero/mastering-javascript-one-liners-to-look-like-a-pro-ka4)
-- [Is async/await a good idea? 🤔 async/await vs promises](https://dev.to/gautam_vaja_8ca93ec2c115d/is-asyncawait-a-good-idea-asyncawait-vs-promises-4lim)
+- [one of the Codia AI Design technologies: Font Restoration Technology](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-font-restoration-technology-3p7m)
+- [Observability with OpenTelemetry, Jaeger and Rails](https://dev.to/iamademar/observability-with-opentelemetry-jaeger-and-rails-3g8m)
+- [From Messy to Memorable: Shorten Your Links, Boost Your Brand](https://dev.to/opensauced/from-messy-to-memorable-shorten-your-links-boost-your-brand-hf7)
+- [Implementing API Rate Limiting in Rust](https://dev.to/shuttle_dev/implementing-api-rate-limiting-in-rust-4fjl)
 <!-- BLOG-POST-LIST:END -->
 
