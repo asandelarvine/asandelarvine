@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build complex PDFs using React: react-print-pdf](https://dev.to/auguste/build-complex-pdfs-using-react-react-print-pdf-295o)
+- [Build complex PDFs using React: react-print-pdf](https://dev.to/onedoc/build-complex-pdfs-using-react-react-print-pdf-295o)
 - [No more Mr. Open Source Guy](https://dev.to/polterguy/no-more-mr-open-source-guy-95k)
 - [Gemini Function Calling](https://dev.to/souvenger/gemini-function-calling-27jn)
 - [Introducing miniogre: Dockerize Python Applications Effortlessly](https://dev.to/wilderlopes/introducing-miniogre-dockerize-python-applications-effortlessly-386e)
