@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Teeth caries detection using YOLOv8 neural network](https://dev.to/andreygermanov/teeth-caries-detection-using-yolov8-neural-network-3fap)
+- [Get the length of an Integer or a Float in Python](https://dev.to/askyt/get-the-length-of-an-integer-or-a-float-in-python-1hmb)
 - [CI/CD Observability and Why it matters.](https://dev.to/klip_klop/cicd-observability-and-why-it-matters-o20)
 - [Dear New Code School Grad](https://dev.to/deeheber/dear-new-code-school-grad-5c55)
-- [Code Smell 242 - Zombie Feature Flags](https://dev.to/mcsee/code-smell-242-zombie-feature-flags-5a5k)
-- [How to Undo the Most Recent Local Commits in Git?](https://dev.to/alakkadshaw/how-to-undo-the-most-recent-local-commits-in-git-59c3)
 <!-- BLOG-POST-LIST:END -->
 
