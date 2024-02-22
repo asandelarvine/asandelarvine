@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Marketing Strategies for Startups: A Developer’s Guide](https://dev.to/onetrustedmarketer/digital-marketing-strategies-for-startups-a-developers-guide-1hdj)
+- [Build With CloudBees Platform and Win an Exclusive T-shirt](https://dev.to/cloudbees/build-with-cloudbees-platform-and-win-an-exclusive-t-shirt-371i)
 - [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
 - [one of the Codia AI Design technologies: Font Restoration Technology](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-font-restoration-technology-3p7m)
-- [Observability with OpenTelemetry, Jaeger and Rails](https://dev.to/iamademar/observability-with-opentelemetry-jaeger-and-rails-3g8m)
-- [From Messy to Memorable: Shorten Your Links, Boost Your Brand](https://dev.to/opensauced/from-messy-to-memorable-shorten-your-links-boost-your-brand-hf7)
 <!-- BLOG-POST-LIST:END -->
 
