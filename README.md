@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Undo the Most Recent Local Commits in Git?](https://dev.to/alakkadshaw/how-to-undo-the-most-recent-local-commits-in-git-59c3)
+- [Inside React Labs: REACT 19 is coming!](https://dev.to/mitchiemt11/inside-react-labs-react-19-is-coming-51k9)
 - [n2n: build a private network over the Internet](https://dev.to/jailop/n2n-build-a-private-network-over-the-internet-1b44)
 - [JavaScript Efficiency War: Astro.js vs Next.js](https://dev.to/kairatorozobekov/javascript-efficiency-war-astrojs-vs-nextjs-22pm)
-- [Balancing - Code, Choices and Sanity](https://dev.to/milosbugarinovic/balancing-code-choices-and-sanity-2lle)
-- [You need a Proxy Server to proctect you 🛡️🐞](https://dev.to/techvision/you-need-a-proxy-server-to-proctect-you-b5k)
 <!-- BLOG-POST-LIST:END -->
 
