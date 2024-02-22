@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mod of the Month: Pachi](https://dev.to/devteam/featured-mod-of-the-month-pachi-16hh)
+- [Why YouTube Never Runs Out of Storage? It&#39;s NOT just CLOUD!](https://dev.to/ujjawaltyagi/why-youtube-never-runs-out-of-storage-its-not-just-cloud-225f)
 - [Faster Blogging: A Developer&#39;s Dream Setup](https://dev.to/lincemathew/faster-blogging-a-developers-dream-setup-3532)
 - [Quantum Computing Basics](https://dev.to/radictionary/quantum-computing-basics-482d)
-- [Ace Your Virtual Interview: Best Practices for Remote Conversations](https://dev.to/codemom/ace-your-virtual-interview-best-practices-for-remote-conversations-40h4)
-- [My 4 most used Visual Studio Keyboard shortcuts.](https://dev.to/bigboybamo/my-4-most-used-visual-studio-keyboard-shortcuts-3jk)
 <!-- BLOG-POST-LIST:END -->
 
