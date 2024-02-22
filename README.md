@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React State Management with useReducer: A Comprehensive Guide](https://dev.to/sharmaprash/mastering-react-state-management-with-usereducer-a-comprehensive-guide-104)
-- [Are programming and coding the same thing?](https://dev.to/erasmuskotoka/are-programming-and-coding-the-same-thing-2nob)
-- [Understanding CSS Website Layouts](https://dev.to/igbojionu/understanding-css-website-layouts-chh)
-- [Markdown to HTML Converter - SopKit](https://dev.to/sh20raj1/markdown-to-html-converter-sopkit-4586)
+- [Review my React-native Based Playground](https://dev.to/suprsend/review-my-react-native-based-playground-2db2)
+- [Coding the Perfect Documentation: Deciding Between 🚀 Vitepress and ✨ Astro Starlight](https://dev.to/kevinbism/coding-the-perfect-documentation-deciding-between-vitepress-and-astro-starlight-2i11)
+- [Mastering Javascript One-Liners to Look Like a Pro](https://dev.to/benajaero/mastering-javascript-one-liners-to-look-like-a-pro-ka4)
+- [Is async/await a good idea? 🤔 async/await vs promises](https://dev.to/gautam_vaja_8ca93ec2c115d/is-asyncawait-a-good-idea-asyncawait-vs-promises-4lim)
 <!-- BLOG-POST-LIST:END -->
 
