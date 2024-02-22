@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teeth caries detection using YOLOv8 neural network](https://dev.to/andreygermanov/teeth-caries-detection-using-yolov8-neural-network-3fap)
-- [Get the length of an Integer or a Float in Python](https://dev.to/askyt/get-the-length-of-an-integer-or-a-float-in-python-1hmb)
-- [CI/CD Observability and Why it matters.](https://dev.to/klip_klop/cicd-observability-and-why-it-matters-o20)
-- [Dear New Code School Grad](https://dev.to/deeheber/dear-new-code-school-grad-5c55)
+- [Build complex PDFs using React: react-print-pdf](https://dev.to/auguste/build-complex-pdfs-using-react-react-print-pdf-295o)
+- [No more Mr. Open Source Guy](https://dev.to/polterguy/no-more-mr-open-source-guy-95k)
+- [Gemini Function Calling](https://dev.to/souvenger/gemini-function-calling-27jn)
+- [Introducing miniogre: Dockerize Python Applications Effortlessly](https://dev.to/wilderlopes/introducing-miniogre-dockerize-python-applications-effortlessly-386e)
 <!-- BLOG-POST-LIST:END -->
 
