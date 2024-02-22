@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Browser-to-Browser calling with SIP.js and Routr](https://dev.to/fonoster/browser-to-browser-calling-with-sipjs-and-routr-3l07)
+- [How to add hotkeys to your Rails app with Stimulus](https://dev.to/railsdesigner/how-to-add-hotkeys-to-your-rails-app-with-stimulus-42bd)
+- [Código Legado: Razões para Respeitar e Valorizar](https://dev.to/kecbm/codigo-legado-razoes-para-respeitar-e-valorizar-4e9o)
 - [GitHub Security Best Practices Every Developer Should Know](https://dev.to/surajondev/github-security-best-practices-every-developer-should-know-604)
-- [Strategies to reduce complexity](https://dev.to/jquinten/strategies-to-reduce-complexity-52gg)
-- [Setting Up SMTP Relay for Enhanced Email Reliability](https://dev.to/scofieldidehen/setting-up-smtp-relay-for-enhanced-email-reliability-1j9i)
-- [Next.js 14 Booking App with Live Data Scraping using Scraping Browser](https://dev.to/kishansheth/nextjs-14-booking-app-with-live-data-scraping-using-scraping-browser-610)
 <!-- BLOG-POST-LIST:END -->
 
