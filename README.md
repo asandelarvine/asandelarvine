@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Security Best Practices Every Developer Should Know](https://dev.to/surajondev/github-security-best-practices-every-developer-should-know-604)
+- [Strategies to reduce complexity](https://dev.to/jquinten/strategies-to-reduce-complexity-52gg)
 - [Setting Up SMTP Relay for Enhanced Email Reliability](https://dev.to/scofieldidehen/setting-up-smtp-relay-for-enhanced-email-reliability-1j9i)
 - [Next.js 14 Booking App with Live Data Scraping using Scraping Browser](https://dev.to/kishansheth/nextjs-14-booking-app-with-live-data-scraping-using-scraping-browser-610)
-- [How AI and DePIN Will Change Web3](https://dev.to/mayanks01798115/how-ai-and-depin-will-change-web3-36lh)
-- [Can You Publish Your Master&#39;s Dissertation? Exploring Opportunities and Considerations](https://dev.to/tutorsindia/can-you-publish-your-masters-dissertation-exploring-opportunities-and-considerations-1d5d)
 <!-- BLOG-POST-LIST:END -->
 
