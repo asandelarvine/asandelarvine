@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I had created a new Graphics Programming Language &quot;Tortoys&quot; 🐢](https://dev.to/rudransh61/i-had-created-a-new-graphics-programming-language-tortoys-2klg)
 - [Why Python and SQL are Must-Have Skills for Marketing Analysts in the Age of Big Data](https://dev.to/scofieldidehen/why-python-and-sql-are-must-have-skills-for-marketing-analysts-in-the-age-of-big-data-m0e)
+- [Down the Digital Rabbit Hole: EU Investigates TikTok&#39;s Addictive Algorithms](https://dev.to/howtouselinux/down-the-digital-rabbit-hole-eu-investigates-tiktoks-addictive-algorithms-410b)
 - [A Friendly Guide to React Hooks](https://dev.to/respect17/a-friendly-guide-to-react-hooks-m9l)
-- [Top 5+ Best Free AI Humanizers to Humanize AI Texts in 2024](https://dev.to/fredy/top-5-best-free-ai-text-content-humanizers-for-2024-4poe)
-- [NVIDIA’s Financial Triumph: Record-Breaking Earnings and Market Domination](https://dev.to/howtouselinux/nvidias-financial-triumph-record-breaking-earnings-and-market-domination-5gf7)
 <!-- BLOG-POST-LIST:END -->
 
