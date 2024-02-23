@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Things that have been happening to me too often lately](https://dev.to/tux0r/things-that-have-been-happening-to-me-too-often-lately-4cid)
 - [Top 10 GitHub Repositories Every Web Developer Should Know](https://dev.to/aayush518/top-10-github-repositories-every-web-developer-should-know-25lf)
 - [Building a Hackathon in 2024](https://dev.to/danizeres/building-a-hackathon-in-2024-5gj4)
 - [Automated Acceptance Tests with ScalaTest](https://dev.to/kkomorowski/automated-acceptance-tests-with-scalatest-58b)
-- [Slots, Slots, Slots, Everybody!](https://dev.to/abbeyperini/slots-slots-slots-everybody-4p5i)
 <!-- BLOG-POST-LIST:END -->
 
