@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy Next.js Applications with Docker](https://dev.to/aidanh_61/how-to-deploy-nextjs-applications-with-docker-22n8)
+- [TIL about George Boole, the guy who developed boolean algebra](https://dev.to/jess/til-about-george-boole-the-guy-who-developed-boolean-algebra-fi4)
+- [Genesis of a Framework: Unveiling the Meteor Story](https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd)
 - [Interested in Contributing to Open Source? Here&#39;s What You Need to Know](https://dev.to/cyclops-ui/interested-in-contributing-to-open-source-heres-what-you-need-to-know-g1c)
-- [What is Reconciliation and the Virtual DOM &lpar;VDOM&rpar;?](https://dev.to/this-is-learning/what-is-reconciliation-and-the-virtual-dom-vdom-2p3c)
-- [How to cache requests in Angular](https://dev.to/pedrobruneli/how-to-cache-requests-in-angular-akc)
-- [NoSQL Postgres: Add MongoDB compatibility to your Supabase projects with FerretDB](https://dev.to/supabase/nosql-postgres-add-mongodb-compatibility-to-your-supabase-projects-with-ferretdb-3bfm)
 <!-- BLOG-POST-LIST:END -->
 
