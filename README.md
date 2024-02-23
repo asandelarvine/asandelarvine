@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 GitHub Repositories Every Web Developer Should Know](https://dev.to/aayush518/top-10-github-repositories-every-web-developer-should-know-25lf)
+- [Building a Hackathon in 2024](https://dev.to/danizeres/building-a-hackathon-in-2024-5gj4)
+- [Automated Acceptance Tests with ScalaTest](https://dev.to/kkomorowski/automated-acceptance-tests-with-scalatest-58b)
 - [Slots, Slots, Slots, Everybody!](https://dev.to/abbeyperini/slots-slots-slots-everybody-4p5i)
-- [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
-- [How to Refactor Spaghetti Code - One Bite at a Time!](https://dev.to/montyharper/how-to-refactor-spaghetti-code-one-bite-at-a-time-4b65)
-- [GitHub spam is getting out of hand!👎](https://dev.to/codewithshahan/github-spam-is-getting-out-of-hand-1cai)
 <!-- BLOG-POST-LIST:END -->
 
