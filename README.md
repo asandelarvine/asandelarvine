@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Dev To Dev: The Path To Success In 5 Steps](https://dev.to/kwan/from-dev-to-dev-the-path-to-success-in-5-steps-45p4)
-- [How to clone a GitHub repo using GitKraken](https://dev.to/techielass/how-to-clone-a-github-repo-using-gitkraken-56h7)
-- [Interview Like a Pro: Finding Your Way to a Thriving Developer Career](https://dev.to/unclejessroth/interview-like-a-pro-finding-your-way-to-a-thriving-developer-career-44pf)
-- [Automatically Prefix JIRA Issue ID to Git Commit Messages using Git Hooks](https://dev.to/redheadphone/automatically-prefix-jira-issue-id-to-git-commit-messages-using-git-hooks-4dii)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lih)
+- [Why is Figma better for developers?](https://dev.to/codewithshahan/why-is-figma-better-for-developers-hil)
+- [How to scope Tailwind CSS](https://dev.to/endymion1818/how-to-scope-tailwind-css-3j57)
+- [Developer Diaries: Reflecting on the Week Together](https://dev.to/respect17/developer-diaries-reflecting-on-the-week-together-26ea)
 <!-- BLOG-POST-LIST:END -->
 
