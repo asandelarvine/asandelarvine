@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Power of Idempotency Keys - Making Your Transactions Smooth and Safe](https://dev.to/yogini16/power-of-idempotency-keys-making-your-transactions-smooth-and-safe-29nb)
 - [How Can You Move Beyond Traditional Definitions of Success?](https://dev.to/devteam/how-can-you-move-beyond-traditional-definitions-of-success-2gjc)
+- [[06/52] Accessible Kubernetes with Terraform and DigitalOcean](https://dev.to/tythos/accessible-kubernetes-with-terraform-and-digitalocean-12o)
 - [Essential JavaScript ES6 Methods Every Developer Should Know](https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk)
-- [Build User login/signup &amp; RESTful APIs in 100 lines of Python](https://dev.to/voidzxl/build-user-loginsignup-restful-apis-in-100-lines-of-python-2h8c)
 <!-- BLOG-POST-LIST:END -->
 
