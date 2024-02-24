@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionize Your Development: The Ultimate AI Tools for Developers](https://dev.to/dariubs/revolutionize-your-development-the-ultimate-ai-tools-for-developers-26n)
+- [JWT explained in 4 minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/jwt-explained-in-4-minutes-with-visuals-g3n)
 - [Developers, Why Coding? 🤔](https://dev.to/arjuncodess/developers-why-coding-9n9)
 - [4 Proven Strategies to Succeed in a Technical Interview](https://dev.to/howtouselinux/4-proven-strategies-to-succeed-in-a-technical-interview-5hki)
-- [Unveiling 5 Game-Changing Component Libraries in 2024 🔥](https://dev.to/sanx/unveiling-5-game-changing-component-libraries-in-2024-26j5)
-- [OWASP API9:2023 Improper Inventory Management 📊🛠️🚨](https://dev.to/sre_panchanan/owasp-api92023-improper-inventory-management-2fik)
 <!-- BLOG-POST-LIST:END -->
 
