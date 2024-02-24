@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Lite Neovim Distro: A Blazing Fast, Lightweight Neovim Setup](https://dev.to/stanleyogada/lite-neovim-distro-a-blazing-fast-lightweight-neovim-setup-7fm)
 - [Shtcut Open Source: Your Friendly Marketing Companion](https://dev.to/funmiayinde/shtcut-open-source-your-friendly-marketing-companion-oi6)
+- [ChatCraft week 7: New issue, new provider?](https://dev.to/katiel/chatcraft-week-7-new-issue-new-provider-437j)
 - [Event-driven architecture: navigating the single threaded nature of Node.js](https://dev.to/joshraphael/event-driven-architecture-navigating-the-single-threaded-nature-of-nodejs-1aj4)
-- [OpenSearch for humans](https://dev.to/dejanualex/opensearch-for-humans-344j)
 <!-- BLOG-POST-LIST:END -->
 
