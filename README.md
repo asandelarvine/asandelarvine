@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the Signs of Underperformance?](https://dev.to/devteam/what-are-the-signs-of-underperformance-2gh4)
 - [Understanding event driven architecture](https://dev.to/yokwejuste/understanding-event-driven-architecture-110o)
-- [Wagmi Essentials](https://dev.to/iandjx/wagmi-essentials-bh0)
-- [Testing and documenting DBT models](https://dev.to/cmcrawford2/testing-and-documenting-dbt-models-11no)
-- [CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h)
+- [React 19 Is Here!](https://dev.to/gbengacode/react-19-is-here-oha)
+- [📊 Logistic Regression in a Nutshell](https://dev.to/peeyushkmisra/logistic-regression-in-a-nutshell-14ph)
 <!-- BLOG-POST-LIST:END -->
 
