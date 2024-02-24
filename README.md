@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on a 100-Day Journey with JavaScript! 🚀](https://dev.to/lassiecoder/embarking-on-a-100-day-journey-with-javascript-47aj)
+- [Preventing Flaky Tests with Vedro](https://dev.to/tsv1/preventing-flaky-tests-with-vedro-10h1)
+- [How I stay &lpar;more&rpar; focused with ADHD](https://dev.to/sapegin/how-i-stay-more-focused-with-adhd-1cen)
 - [AI Powered Tool](https://dev.to/unburn/ai-powered-tool-55f1)
-- [Javascript is not single threaded! 🤯 🤩](https://dev.to/codeparrot/javascript-is-not-single-threaded-5915)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3d2o)
-- [Boost Your Productivity: Explore Expert Tips and Hacks](https://dev.to/stan8086/boost-your-productivity-explore-expert-tips-and-hacks-1f1g)
 <!-- BLOG-POST-LIST:END -->
 
