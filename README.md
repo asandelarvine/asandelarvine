@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the Signs of Underperformance?](https://dev.to/devteam/what-are-the-signs-of-underperformance-2gh4)
-- [Understanding event driven architecture](https://dev.to/yokwejuste/understanding-event-driven-architecture-110o)
-- [React 19 Is Here!](https://dev.to/gbengacode/react-19-is-here-oha)
-- [📊 Logistic Regression in a Nutshell](https://dev.to/peeyushkmisra/logistic-regression-in-a-nutshell-14ph)
+- [Refactoring for Performance](https://dev.to/jackmarchant/refactoring-for-performance-190j)
+- [Pick, Omit and Partial in Typescript](https://dev.to/dinhkhai0201/pick-omit-and-partial-in-typescript-b7b)
+- [What Is Webhooks How Different From Api?](https://dev.to/sanjaykhanssk/what-is-webhooks-how-different-from-api-4odb)
+- [golang vs python syntax](https://dev.to/ali_otmani/golang-vs-python-syntax-20jf)
 <!-- BLOG-POST-LIST:END -->
 
