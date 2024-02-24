@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging Well-Architected Frameworks in Lower Environments](https://dev.to/enov8inc/leveraging-well-architected-frameworks-in-lower-environments-ijl)
 - [January 1, 1970 =&gt; January 19, 2038 Error!](https://dev.to/caf_rf_1986/january-1-1970-january-19-2038-error-4ibj)
+- [Adding A Settings Page &lpar;Cosplore3D Pt:21&rpar;](https://dev.to/chigbeef_77/adding-a-settings-page-cosplore3d-pt21-dce)
 - [Lite Neovim Distro: A Blazing Fast, Lightweight Neovim Setup](https://dev.to/stanleyogada/lite-neovim-distro-a-blazing-fast-lightweight-neovim-setup-7fm)
-- [Children’s Introduction Guide to Zero Trust](https://dev.to/ckmo/childrens-introduction-guide-to-zero-trust-1kng)
-- [Shtcut Open Source: Your Friendly Marketing Companion](https://dev.to/funmiayinde/shtcut-open-source-your-friendly-marketing-companion-oi6)
 <!-- BLOG-POST-LIST:END -->
 
