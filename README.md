@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [react useDebounce](https://dev.to/dayvster/react-usedebounce-4bpf)
 - [Refactoring for Performance](https://dev.to/jackmarchant/refactoring-for-performance-190j)
 - [Pick, Omit and Partial in Typescript](https://dev.to/dinhkhai0201/pick-omit-and-partial-in-typescript-b7b)
 - [What Is Webhooks How Different From Api?](https://dev.to/sanjaykhanssk/what-is-webhooks-how-different-from-api-4odb)
-- [golang vs python syntax](https://dev.to/ali_otmani/golang-vs-python-syntax-20jf)
 <!-- BLOG-POST-LIST:END -->
 
