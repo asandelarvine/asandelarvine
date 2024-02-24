@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Magic of Namelix: Business Name Generator](https://dev.to/dariubs/discover-the-magic-of-namelix-business-name-generator-5all)
-- [Review of TextSniper for Mac](https://dev.to/bartzalewski/review-of-textsniper-for-mac-3fck)
-- [How to check if an element is visible in the viewport using JavaScript and React Hook.](https://dev.to/fpaghar/how-to-check-if-an-element-is-visible-in-the-viewport-using-javascript-and-react-hook-4648)
-- [Android Presentation Patterns: MVP](https://dev.to/asvid/android-presentation-patterns-mvp-407f)
+- [TypeScript vs. JavaScript: In a Nutshell 🔥](https://dev.to/alisamirali/typescript-vs-javascript-in-a-nutshell-nma)
+- [Learn by helping others](https://dev.to/noriller/learn-by-helping-others-54m4)
+- [Exploring Non-Fungible Tokens &lpar;NFTs&rpar;: The Intersection of Art, Technology, and Ownership](https://dev.to/monty-vang01/exploring-non-fungible-tokens-nfts-the-intersection-of-art-technology-and-ownership-313n)
+- [How to make Squarespace domain work with Netlify](https://dev.to/cesarbhering/how-to-make-squarespace-domain-work-with-netlify-e27)
 <!-- BLOG-POST-LIST:END -->
 
