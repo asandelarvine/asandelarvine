@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Developers, Why Coding? 🤔](https://dev.to/arjuncodess/developers-why-coding-9n9)
 - [4 Proven Strategies to Succeed in a Technical Interview](https://dev.to/howtouselinux/4-proven-strategies-to-succeed-in-a-technical-interview-5hki)
+- [Unveiling 5 Game-Changing Component Libraries in 2024 🔥](https://dev.to/sanx/unveiling-5-game-changing-component-libraries-in-2024-26j5)
 - [OWASP API9:2023 Improper Inventory Management 📊🛠️🚨](https://dev.to/sre_panchanan/owasp-api92023-improper-inventory-management-2fik)
-- [Embarking on a 100-Day Journey with JavaScript! 🚀](https://dev.to/lassiecoder/embarking-on-a-100-day-journey-with-javascript-47aj)
-- [Preventing Flaky Tests with Vedro](https://dev.to/tsv1/preventing-flaky-tests-with-vedro-10h1)
 <!-- BLOG-POST-LIST:END -->
 
