@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📝 Exploring Palindromic Partitioning: Solving the &quot;Palindrome Partitioning&quot; Problem 📝](https://dev.to/majesticshawarma/exploring-palindromic-partitioning-solving-the-palindrome-partitioning-problem-50hj)
+- [Format strings in OCaml](https://dev.to/yawaramin/format-strings-in-ocaml-59ci)
+- [Simplifying File Management with .NET 8](https://dev.to/admir_live/simplifying-file-management-with-net-8-38m)
 - [An Audio Player hook for your React App](https://dev.to/amnish04/an-audio-player-hook-for-your-react-app-4gn9)
-- [Experience Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP](https://dev.to/krizeal/experience-continuous-integration-with-jenkins-ansible-artifactory-sonarqube-php-3eo2)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
-- [OWASP API10:2023 Unsafe Consumption of APIs](https://dev.to/sre_panchanan/owasp-api102023-unsafe-consumption-of-apis-1noa)
 <!-- BLOG-POST-LIST:END -->
 
