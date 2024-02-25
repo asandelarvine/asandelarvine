@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Disconnected Chaos to Unified Systems: The Evolution of Enterprise Integration](https://dev.to/this-is-learning/from-disconnected-chaos-to-unified-systems-the-evolution-of-enterprise-integration-28nh)
+- [k8s-snap &lpar;Canonical Kubernetes&rpar; pour un déploiement simple et rapide d’un cluster k8s …](https://dev.to/deep75/k8s-snap-canonical-kubernetes-pour-un-deploiement-simple-et-rapide-dun-cluster-k8s--4hi5)
 - [Burnout as a Software Engineer](https://dev.to/jenesh/burnout-as-a-software-engineer-3745)
 - [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
-- [Building scalable IVRs for businesses with Routr and Asterisk](https://dev.to/fonoster/building-scalable-ivrs-for-businesses-with-routr-and-asterisk-cjd)
-- [Excelize 2.8.1 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-281-released-powerful-open-source-library-for-spreadsheet-excel-document-8go)
 <!-- BLOG-POST-LIST:END -->
 
