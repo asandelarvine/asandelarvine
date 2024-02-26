@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 041 &lpar;Feb 19&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-041-feb-19-hot-topics-in-workplace-sharepoint-and-powerplatform-5cib)
 - [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
 - [Live Streaming from Unity - Multi-Camera Streams &lpar;Part 6&rpar;](https://dev.to/aws/live-streaming-from-unity-multi-camera-streams-part-6-1pkg)
 - [Power Apps - VBA Subs and Functions](https://dev.to/wyattdave/power-apps-vba-subs-and-functions-1gp3)
-- [Cartographer Magic: Power Automate Bitmaps Revealed](https://dev.to/balagmadhu/cartographer-magic-power-automate-bitmaps-revealed-3gha)
 <!-- BLOG-POST-LIST:END -->
 
