@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to Setup Jenkins Locally With Oracle VirtualBox VM](https://dev.to/gabbyti/how-to-setup-jenkins-locally-with-oracle-virtualbox-vm-3cmi)
 - [Auto identification of languages in audio file and convert it from speech to text and redact PII using Amazon Transcribe](https://dev.to/aws-builders/auto-identification-of-languages-in-audio-file-and-convert-it-from-speech-to-text-and-redact-pii-using-amazon-transcribe-2l94)
 - [ServiceNow and OpenAI](https://dev.to/johnvitorconstant/servicenow-and-openai-296l)
-- [Build a REST client](https://dev.to/phuocng/build-a-rest-client-444a)
+- [Web Scraping - Buy rent kenya website](https://dev.to/spkibe/web-scraping-buy-rent-kenya-website-42bh)
 <!-- BLOG-POST-LIST:END -->
 
