@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for week 9 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-9-of-2024-476e)
-- [Meme Monday](https://dev.to/ben/meme-monday-1k87)
-- [Building a Simple Spy Camera with Python](https://dev.to/scofieldidehen/building-a-simple-spy-camera-with-python-408m)
-- [The Traffic Police 🚨 - Controlling outgoing traffic with mirrord](https://dev.to/meowchinist/the-traffic-police-controlling-outgoing-traffic-with-mirrord-216)
+- [Podcast Palooza— What are you listening to? &lpar;Self-Help Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-self-help-edition-1f04)
+- [Global Gamers Challenge - Flutter News 2024 #8 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-8-eyie-1n51)
+- [Exploring Supabase, the Open Source Backend for Developers](https://dev.to/opensauced/exploring-supabase-the-open-source-backend-for-developers-2dgh)
+- [📚 React Libraries Worth Using in 2024](https://dev.to/reedbarger/react-libraries-worth-using-in-2024-o91)
 <!-- BLOG-POST-LIST:END -->
 
