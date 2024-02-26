@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Stop Procrastinating and Do Hard Things](https://dev.to/lexingdailylife/how-to-stop-procrastinating-and-do-hard-things-4a6e)
+- [How to beat impostor syndrome in coding?](https://dev.to/nandinishinduja/how-to-beat-impostor-syndrome-in-coding-3enl)
+- [Exploring the Horizon: Top AI Video Generators of 2024](https://dev.to/dariubs/exploring-the-horizon-top-ai-video-generators-of-2024-13ml)
 - [Mistiday](https://dev.to/mztea/mistiday-50a2)
-- [Podcast Palooza— What are you listening to? &lpar;Self-Help Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-self-help-edition-1f04)
-- [Global Gamers Challenge - Flutter News 2024 #8 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-8-eyie-1n51)
-- [Exploring Supabase, the Open Source Backend for Developers](https://dev.to/opensauced/exploring-supabase-the-open-source-backend-for-developers-2dgh)
 <!-- BLOG-POST-LIST:END -->
 
