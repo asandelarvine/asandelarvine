@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 8 Best Pomodoro Timer Apps to Enhance Your Productivity](https://dev.to/stan8086/the-8-best-pomodoro-timer-apps-to-enhance-your-productivity-55b2)
-- [How Sports Partnership Contributes to the Growth and Attraction of Cryptocurrency Exchanges](https://dev.to/deniz_tutku/how-sports-partnership-contributes-to-the-growth-and-attraction-of-cryptocurrency-exchanges-26ok)
-- [Weekly Roundup 041 &lpar;Feb 19&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-041-feb-19-hot-topics-in-workplace-sharepoint-and-powerplatform-5cib)
-- [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
+- [Harnessing Heuristic Testing: Driving Quality in Agile Software Development](https://dev.to/talenttinaapi/harnessing-heuristic-testing-driving-quality-in-agile-software-development-5ce2)
+- [Creating An Ending &lpar;Cosplore Pt:22&rpar;](https://dev.to/chigbeef_77/creating-an-ending-cosplore-pt22-3095)
+- [Next.js File Generator VS code extension](https://dev.to/kristiyan_velkov/nextjs-file-generator-vs-code-extension-11b1)
+- [Solving DSA Problems. CodeForces 1918-A: Brick Wall](https://dev.to/mmzeynalli/solving-dsa-problems-codeforces-1918-a-brick-wall-62i)
 <!-- BLOG-POST-LIST:END -->
 
