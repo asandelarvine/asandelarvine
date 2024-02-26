@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [TanStack Router: Setup &amp; Routing in React](https://dev.to/this-is-learning/tanstack-router-setup-routing-in-react-4gf7)
 - [How To Stop Procrastinating and Do Hard Things](https://dev.to/lexingdailylife/how-to-stop-procrastinating-and-do-hard-things-4a6e)
 - [How to beat impostor syndrome in coding?](https://dev.to/nandinishinduja/how-to-beat-impostor-syndrome-in-coding-3enl)
 - [Exploring the Horizon: Top AI Video Generators of 2024](https://dev.to/dariubs/exploring-the-horizon-top-ai-video-generators-of-2024-13ml)
-- [Mistiday](https://dev.to/mztea/mistiday-50a2)
 <!-- BLOG-POST-LIST:END -->
 
