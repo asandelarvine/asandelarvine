@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Clonezilla İle Oluşturulmuş Bir İmajı SSH ile Geri Yükleme](https://dev.to/aciklab/clonezilla-ile-olusturulmus-bir-imaji-ssh-ile-geri-yukleme-2m70)
 - [bisect module and methods&lpar;python&rpar;](https://dev.to/drvcodenta/bisect-module-and-methodspython-3nhj)
+- [What is Jenkins ?](https://dev.to/itsvishwaaa/what-is-jenkins--4da9)
 - [AWS open source newsletter, #190](https://dev.to/aws/aws-open-source-newsletter-190-4pla)
-- [Harnessing Heuristic Testing: Driving Quality in Agile Software Development](https://dev.to/talenttinaapi/harnessing-heuristic-testing-driving-quality-in-agile-software-development-5ce2)
-- [Creating An Ending &lpar;Cosplore Pt:22&rpar;](https://dev.to/chigbeef_77/creating-an-ending-cosplore-pt22-3095)
 <!-- BLOG-POST-LIST:END -->
 
