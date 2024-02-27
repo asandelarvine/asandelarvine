@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is SQL a declarative language](https://dev.to/esproc_spl/is-sql-a-declarative-language-25km)
-- [Python 101](https://dev.to/aws-builders/python-101-2188)
-- [Build a Simple Linux Kernel Using Buildroot](https://dev.to/devdoesit17/build-a-simple-linux-kernel-using-buildroot-4d29)
-- [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
+- [Best Web Hosting Services](https://dev.to/jack34/best-web-hosting-services-2i2k)
+- [Remote work, experiences and some ideas](https://dev.to/krlz/remote-work-experiences-myths-and-some-ideas-1ed1)
+- [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
+- [Understanding Testing in production](https://dev.to/arindam_1729/understanding-testing-in-production-1ld5)
 <!-- BLOG-POST-LIST:END -->
 
