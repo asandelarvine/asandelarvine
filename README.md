@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Is SQL a declarative language](https://dev.to/esproc_spl/is-sql-a-declarative-language-25km)
+- [Python 101](https://dev.to/aws-builders/python-101-2188)
 - [Build a Simple Linux Kernel Using Buildroot](https://dev.to/devdoesit17/build-a-simple-linux-kernel-using-buildroot-4d29)
 - [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
-- [Create VS Code Extension with React, TypeScript, Tailwind](https://dev.to/rakshit47/create-vs-code-extension-with-react-typescript-tailwind-1ba6)
 <!-- BLOG-POST-LIST:END -->
 
