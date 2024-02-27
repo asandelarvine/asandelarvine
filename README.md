@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro with PostgreSQL](https://dev.to/diploi/astro-with-postgresql-1mpf)
+- [Getting Started with LangChain](https://dev.to/0xnari/getting-started-with-langchain-2m10)
 - [Singapore GA: Deploy apps, AI workloads, and databases in seconds](https://dev.to/koyeb/singapore-ga-deploy-apps-ai-workloads-and-databases-in-seconds-2e95)
-- [Concise Gherkin - How brevity improves BDD scenarios](https://dev.to/upslide/concise-gherkin-how-brevity-improves-bdd-scenarios-3d86)
-- [Just Git like a pro](https://dev.to/yokwejuste/just-git-like-a-pro-1l33)
-- [Functions in SQL](https://dev.to/ayokunle/functions-in-sql-179h)
+- [The Pains of Data Ingestion](https://dev.to/burakkarakan/the-pains-of-data-ingestion-g05)
 <!-- BLOG-POST-LIST:END -->
 
