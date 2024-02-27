@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsive design and cross-device testing](https://dev.to/ingosteinke/responsive-design-and-cross-device-testing-1hoe)
+- [Copilot Use Cases for Front-end, Back-end and Full-stack Developers](https://dev.to/get_pieces/copilot-use-cases-for-front-end-back-end-and-full-stack-developers-5h2)
+- [Web Scraping: Everything You Need To Know As A Beginner In 2024](https://dev.to/scofieldidehen/web-scraping-everything-you-need-to-know-as-a-beginner-in-2024-1l88)
 - [How To Create an AI Photo App with Python](https://dev.to/taipy/how-to-create-an-ai-photo-app-with-python-23g8)
-- [I AM STUCK HERE FOR 3 DAYS NOW](https://dev.to/mikecurious/i-am-stuck-here-for-3-days-now-58f8)
-- [How Salesforce is Different From Other CRM](https://dev.to/this-is-learning/how-salesforce-is-different-from-other-crm-3nch)
-- [Top Countries to Find Remote Roles in 2024](https://dev.to/scofieldidehen/top-countries-to-find-remote-roles-in-2024-poa)
 <!-- BLOG-POST-LIST:END -->
 
