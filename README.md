@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The PlayStore Killer](https://dev.to/akashpattnaik/the-playstore-killer-2fcp)
 - [Responsive design and cross-device testing](https://dev.to/ingosteinke/responsive-design-and-cross-device-testing-1hoe)
 - [Copilot Use Cases for Front-end, Back-end and Full-stack Developers](https://dev.to/get_pieces/copilot-use-cases-for-front-end-back-end-and-full-stack-developers-5h2)
 - [Web Scraping: Everything You Need To Know As A Beginner In 2024](https://dev.to/scofieldidehen/web-scraping-everything-you-need-to-know-as-a-beginner-in-2024-1l88)
-- [How To Create an AI Photo App with Python](https://dev.to/taipy/how-to-create-an-ai-photo-app-with-python-23g8)
 <!-- BLOG-POST-LIST:END -->
 
