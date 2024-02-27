@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
-- [How to get better in people skills as an engineer?](https://dev.to/gregorojstersek/how-to-get-better-in-people-skills-as-an-engineer-418h)
-- [My first YouTube Short - your feedback would be appreciated](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
-- [Guide to using TensorFlow in Rust](https://dev.to/logrocket/guide-to-using-tensorflow-in-rust-4330)
+- [How To Create an AI Photo App with Python](https://dev.to/taipy/how-to-create-an-ai-photo-app-with-python-23g8)
+- [I AM STUCK HERE FOR 3 DAYS NOW](https://dev.to/mikecurious/i-am-stuck-here-for-3-days-now-58f8)
+- [How Salesforce is Different From Other CRM](https://dev.to/this-is-learning/how-salesforce-is-different-from-other-crm-3nch)
+- [Top Countries to Find Remote Roles in 2024](https://dev.to/scofieldidehen/top-countries-to-find-remote-roles-in-2024-poa)
 <!-- BLOG-POST-LIST:END -->
 
