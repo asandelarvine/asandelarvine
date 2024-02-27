@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4bmh)
-- [Simplify SIP.jS security with short-lived tokens](https://dev.to/fonoster/simplify-sipjs-security-with-short-lived-tokens-mb8)
-- [Passkeys library, now with authenticator icons](https://dev.to/dagnelies/passkeys-library-now-with-authenticator-icons-3kgn)
-- [The Laravel Ecosystem](https://dev.to/rileygrotenhuis/the-laravel-ecosystem-1jbj)
+- [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
+- [Create VS Code Extension with React, TypeScript, Tailwind](https://dev.to/rakshit47/create-vs-code-extension-with-react-typescript-tailwind-1ba6)
+- [JavaScript Essential Terms Every Developer Must Know](https://dev.to/mmainulhasan/javascript-essential-terms-every-developer-must-know-2a6)
+- [Installing Tailwind CSS as a PostCSS plugin and Vite](https://dev.to/sakibsnaz/installing-tailwind-css-as-a-postcss-plugin-and-vite-5h64)
 <!-- BLOG-POST-LIST:END -->
 
