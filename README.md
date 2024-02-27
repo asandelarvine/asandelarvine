@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is SQL a declarative language](https://dev.to/esproc_spl/is-sql-a-declarative-language-25km)
+- [Build a Simple Linux Kernel Using Buildroot](https://dev.to/devdoesit17/build-a-simple-linux-kernel-using-buildroot-4d29)
 - [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
 - [Create VS Code Extension with React, TypeScript, Tailwind](https://dev.to/rakshit47/create-vs-code-extension-with-react-typescript-tailwind-1ba6)
-- [JavaScript Essential Terms Every Developer Must Know](https://dev.to/mmainulhasan/javascript-essential-terms-every-developer-must-know-2a6)
-- [Installing Tailwind CSS as a PostCSS plugin and Vite](https://dev.to/sakibsnaz/installing-tailwind-css-as-a-postcss-plugin-and-vite-5h64)
 <!-- BLOG-POST-LIST:END -->
 
