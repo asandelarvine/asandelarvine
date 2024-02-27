@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [References and Borrowing in Rust](https://dev.to/francescoxx/references-and-borrowing-in-rust-2o7p)
-- [Using Clerk to authenticate users in a Go backend](https://dev.to/encore/using-clerk-to-authenticate-users-in-a-go-backend-knb)
-- [Understanding Git: A Beginner&#39;s Guide to Version Control &lpar;With Visuals&rpar;](https://dev.to/jitendrachoudhary/understanding-git-a-beginners-guide-to-version-control-with-visuals-5cbf)
-- [What the Hell is Closure in JavaScript?](https://dev.to/codeparrot/what-the-hell-is-closure-in-javascript-4k84)
+- [8 Essential Tools Every PHP Developer Needs](https://dev.to/hikarimaeda/8-essential-tools-every-php-developer-needs-16o6)
+- [Save your articles and reading list from DEV to GitHub - DevtoGitHub](https://dev.to/anmolbaranwal/save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje)
+- [Python: Guide to Context Manager &amp; How do they work?](https://dev.to/sachingeek/python-guide-to-context-manager-how-do-they-work-5emp)
+- [Microservices Authentication and Authorization Using API Gateway](https://dev.to/permify/microservices-authentication-and-authorization-using-api-gateway-3p06)
 <!-- BLOG-POST-LIST:END -->
 
