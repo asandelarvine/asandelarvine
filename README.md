@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Embracing AI inYour Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
+- [Release Note: Vishwa AI’s Auto Builder Goes Public Beta](https://dev.to/vishwa-ai/release-note-vishwa-ais-auto-builder-goes-public-beta-24h9)
+- [Day -2 Advanced Python 🐍 ...](https://dev.to/pranjal_ml/day-2-advanced-python--3eo8)
 - [Launching Crawlee Blog: Your Node.js resource hub for web scraping and automation.](https://dev.to/crawlee/launching-crawlee-blog-your-nodejs-resource-hub-for-web-scraping-and-automation-1ol9)
-- [Unexpected teaching from an old woman: Working hard](https://dev.to/lico/unexpected-teaching-from-an-old-woman-working-hard-3h7e)
-- [Best Web Hosting Services](https://dev.to/jack34/best-web-hosting-services-2i2k)
-- [Remote work, experiences and some ideas](https://dev.to/krlz/remote-work-experiences-myths-and-some-ideas-1ed1)
 <!-- BLOG-POST-LIST:END -->
 
