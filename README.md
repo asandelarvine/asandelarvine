@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Smart Contracts: A Novice&#39;s Roadmap](https://dev.to/hyscaler/unleashing-the-power-of-smart-contracts-a-novices-roadmap-51k9)
+- [Istio Essentials: Mastering Gateway, VirtualService, and DestinationRule](https://dev.to/sre_panchanan/istio-essentials-mastering-gateway-virtualservice-and-destinationrule-4fo0)
 - [Top DevOps Secret Best Practices That No One Tells](https://dev.to/dhruvjoshi9/top-devops-secret-best-practices-that-no-one-tells-4l3c)
 - [Master Angular 17.1 and 17.2](https://dev.to/this-is-angular/master-angular-171-and-172-3m68)
-- [Mastering Binary Search in Python 🚀](https://dev.to/majesticshawarma/mastering-binary-search-in-python-12lg)
-- [Astro with PostgreSQL](https://dev.to/diploi/astro-with-postgresql-1mpf)
 <!-- BLOG-POST-LIST:END -->
 
