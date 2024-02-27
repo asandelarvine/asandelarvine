@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching Crawlee Blog: Your Node.js resource hub for web scraping and automation.](https://dev.to/crawlee/launching-crawlee-blog-your-nodejs-resource-hub-for-web-scraping-and-automation-1ol9)
 - [Best Web Hosting Services](https://dev.to/jack34/best-web-hosting-services-2i2k)
 - [Remote work, experiences and some ideas](https://dev.to/krlz/remote-work-experiences-myths-and-some-ideas-1ed1)
 - [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
-- [Understanding Testing in production](https://dev.to/arindam_1729/understanding-testing-in-production-1ld5)
 <!-- BLOG-POST-LIST:END -->
 
