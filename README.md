@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SSO vs. Identity Federation: Optimizing Authentication for Modern Enterprises](https://dev.to/boxyhq/sso-vs-identity-federation-optimizing-authentication-for-modern-enterprises-47ak)
 - [Mentor Matching — February 2024 🤝](https://dev.to/devteam/mentor-matching-monthly-4ann)
 - [Design Systems for 2024](https://dev.to/leonardorafael/design-systems-for-2024-1pog)
 - [Saindo do básico do Git: Aprimorando seu Fluxo de Trabalho](https://dev.to/camilarozendo/saindo-do-basico-do-git-aprimorando-seu-fluxo-de-trabalho-339i)
-- [The PlayStore Killer](https://dev.to/akashpattnaik/the-playstore-killer-2fcp)
 <!-- BLOG-POST-LIST:END -->
 
