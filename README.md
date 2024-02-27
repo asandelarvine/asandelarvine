@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore GA: Deploy apps, AI workloads, and databases in seconds](https://dev.to/koyeb/singapore-ga-deploy-apps-ai-workloads-and-databases-in-seconds-2e95)
+- [Concise Gherkin - How brevity improves BDD scenarios](https://dev.to/upslide/concise-gherkin-how-brevity-improves-bdd-scenarios-3d86)
+- [Just Git like a pro](https://dev.to/yokwejuste/just-git-like-a-pro-1l33)
 - [Functions in SQL](https://dev.to/ayokunle/functions-in-sql-179h)
-- [The Power Of Web Design To Maximize Your Online Potential](https://dev.to/ai-tool/the-power-of-web-design-to-maximize-your-online-potential-4l67)
-- [Écrire une doc technique utile](https://dev.to/onepoint/ecrire-une-doc-technique-utile-4bd1)
-- [Are You Embracing AI inYour Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
 <!-- BLOG-POST-LIST:END -->
 
