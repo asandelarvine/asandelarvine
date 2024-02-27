@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Essential Tools Every PHP Developer Needs](https://dev.to/hikarimaeda/8-essential-tools-every-php-developer-needs-16o6)
-- [Save your articles and reading list from DEV to GitHub - DevtoGitHub](https://dev.to/anmolbaranwal/save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje)
-- [Python: Guide to Context Manager &amp; How do they work?](https://dev.to/sachingeek/python-guide-to-context-manager-how-do-they-work-5emp)
-- [Microservices Authentication and Authorization Using API Gateway](https://dev.to/permify/microservices-authentication-and-authorization-using-api-gateway-3p06)
+- [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
+- [How to get better in people skills as an engineer?](https://dev.to/gregorojstersek/how-to-get-better-in-people-skills-as-an-engineer-418h)
+- [My first YouTube Short - your feedback would be appreciated](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
+- [Guide to using TensorFlow in Rust](https://dev.to/logrocket/guide-to-using-tensorflow-in-rust-4330)
 <!-- BLOG-POST-LIST:END -->
 
