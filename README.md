@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Traffic Management: A Comprehensive Istio Lab Guide](https://dev.to/sre_panchanan/mastering-traffic-management-a-comprehensive-istio-lab-guide-245l)
 - [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
 - [Creating a Simple Proxy Switcher in Node.js](https://dev.to/williamsmithh/creating-a-simple-proxy-switcher-in-nodejs-2m38)
 - [My first game on Scratch](https://dev.to/daniordonez/my-first-game-on-scratch-4ef7)
-- [Piral Feed Service 1.13](https://dev.to/smapiot/piral-feed-service-113-43lk)
 <!-- BLOG-POST-LIST:END -->
 
