@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCommit: feature-rich CLI to generate meaningful git commit messages now supports local models via Ollama 🤯🔫](https://dev.to/disukharev/opencommit-feature-rich-cli-to-generate-meaningful-git-commit-messages-now-supports-local-models-via-ollama-5435)
+- [Rise of Local LLMs ?](https://dev.to/sarthology/rise-of-local-llms--21pe)
 - [Top 3 Elixir books that will make you love Elixir even more](https://dev.to/hoonweedev/top-3-elixir-books-that-will-make-you-love-elixir-even-more-2bi6)
-- [Integrating CKEditor into RemixJS: A Step-by-Step Guide](https://dev.to/nickfthedev/integrating-ckeditor-into-remixjs-a-step-by-step-guide-3bk3)
-- [9 rules for writing &lpar;better?&rpar; code](https://dev.to/klnjmm/9-rules-for-writing-better-code-3lb)
-- [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
+- [What&#39;s new in Next.js 14](https://dev.to/pagepro_agency/whats-new-in-nextjs-14-1160)
 <!-- BLOG-POST-LIST:END -->
 
