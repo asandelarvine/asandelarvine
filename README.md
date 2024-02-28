@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como publicar uma WebApi .NET no RailwayApp utilizando Docker](https://dev.to/lucasdwn/como-publicar-uma-webapi-net-no-railwayapp-utilizando-docker-1ok4)
-- [Explain &quot;Memory Safe Programming Languages&quot; Like I&#39;m Five Please](https://dev.to/jess/explain-memory-safe-programming-languages-like-im-five-please-2ihe)
-- [🍞 Bun, A Faster JavaScript Runtime](https://dev.to/lundjrl/bun-a-faster-javascript-runtime-jph)
-- [Whitehouse Declares Software Should Be Memory Safe](https://dev.to/ben/whitehouse-declares-software-should-be-memory-safe-4bb2)
+- [IDURAR Open Source React.js Node.js Project With 5K stars on Github to learn from](https://dev.to/idurar/idurar-open-sourcereactjs-nodejs-project-with-5k-stars-on-github-to-learn-from-5ac8)
+- [Welcome Thread - v265](https://dev.to/devteam/welcome-thread-v265-3a1l)
+- [TUTORIAL: Deploy .NET WebAPI grátis no RailwayApp utilizando Docker!](https://dev.to/lucasdwn/como-publicar-uma-webapi-net-no-railwayapp-utilizando-docker-1ok4)
+- [Managing multiple kubectl port-forward configurations and sharing them via Git 📦](https://dev.to/hcavarsan/managing-multiple-kubectl-port-forward-configurations-and-sharing-them-via-git-1k1)
 <!-- BLOG-POST-LIST:END -->
 
