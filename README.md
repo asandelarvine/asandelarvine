@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Observability with OpenTelemetry](https://dev.to/sre_panchanan/deep-dive-into-observability-with-opentelemetry-4imf)
-- [Using CRDTs to build collaborative Rust web applications](https://dev.to/logrocket/using-crdts-to-build-collaborative-rust-web-applications-35d0)
-- [Joining the &lpar;Module&rpar; Federation](https://dev.to/eidellev/joining-the-module-federation-4nnl)
-- [Model Inputs: Reactive Two-Way Binding](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
+- [Incremental migration to Angular’s new control flow syntax](https://dev.to/this-is-angular/incremental-migration-to-angulars-new-control-flow-syntax-j36)
+- [Error &quot;Class &quot;App\Http\Controllers\Storage&quot; not found&quot;](https://dev.to/butterflydev/error-class-apphttpcontrollersstorage-not-found-i5o)
+- [Azure, AWS, and GCP](https://dev.to/akmaurya31/azure-aws-and-gcp-3f79)
+- [Amazon Kendra Overview](https://dev.to/aws-builders/amazon-kendra-overview-4ing)
 <!-- BLOG-POST-LIST:END -->
 
