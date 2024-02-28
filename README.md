@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using CRDTs to build collaborative Rust web applications](https://dev.to/logrocket/using-crdts-to-build-collaborative-rust-web-applications-35d0)
+- [Joining the &lpar;Module&rpar; Federation](https://dev.to/eidellev/joining-the-module-federation-4nnl)
 - [Model Inputs: Reactive Two-Way Binding](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
 - [Understanding Power of Horizen EON&#39;s Stateful Model: User Experience in Account-Based Transactions](https://dev.to/vanshikasrivastava/understanding-power-of-horizen-eons-stateful-model-user-experience-in-account-based-transactions-58if)
-- [Hashing Password And Generating User Token In Your Schema](https://dev.to/fredabod/hashing-password-and-generating-user-token-in-your-schema-3803)
-- [Make a RAG-Powered Web Service with Qdrant and Rust](https://dev.to/shuttle_dev/make-a-rag-powered-web-service-with-qdrant-and-rust-45cg)
 <!-- BLOG-POST-LIST:END -->
 
