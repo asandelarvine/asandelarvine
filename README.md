@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive into Observability with OpenTelemetry](https://dev.to/sre_panchanan/deep-dive-into-observability-with-opentelemetry-4imf)
 - [Using CRDTs to build collaborative Rust web applications](https://dev.to/logrocket/using-crdts-to-build-collaborative-rust-web-applications-35d0)
 - [Joining the &lpar;Module&rpar; Federation](https://dev.to/eidellev/joining-the-module-federation-4nnl)
 - [Model Inputs: Reactive Two-Way Binding](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
-- [Understanding Power of Horizen EON&#39;s Stateful Model: User Experience in Account-Based Transactions](https://dev.to/vanshikasrivastava/understanding-power-of-horizen-eons-stateful-model-user-experience-in-account-based-transactions-58if)
 <!-- BLOG-POST-LIST:END -->
 
