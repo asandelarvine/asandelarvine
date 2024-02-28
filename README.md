@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Leads to Coding Mistakes?](https://dev.to/devteam/what-leads-to-coding-mistakes-1nni)
-- [Building Your First React Component with TypeScript](https://dev.to/baransel/building-your-first-react-component-with-typescript-4pfh)
-- [Our Top 9 Predictions for Global Payments and Identity in 2024](https://dev.to/tbdevs/our-top-9-predictions-for-global-payments-and-identity-in-2024-50eg)
-- [Is Hosting on Netlify Going to Bankrupt you?](https://dev.to/mlaposta/is-hosting-on-netlify-going-to-bankrupt-you-4d1d)
+- [How and why we ripped our Open Source product apart for a full rebuild](https://dev.to/browserless/how-and-why-we-ripped-our-open-source-product-apart-for-a-full-rebuild-552n)
+- [Be careful with package names](https://dev.to/luca_nicoletti/be-careful-with-package-names-4mn8)
+- [How to make a Keylogger Payload Undectatable](https://dev.to/scofieldidehen/how-to-make-a-keylogger-payload-undectatable-klh)
+- [You are Wrong. Frameworks Do Matter](https://dev.to/mohammadfaisal/you-are-wrong-frameworks-do-matter-dfm)
 <!-- BLOG-POST-LIST:END -->
 
