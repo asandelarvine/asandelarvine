@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Traffic Management: A Comprehensive Istio Lab Guide](https://dev.to/sre_panchanan/mastering-traffic-management-a-comprehensive-istio-lab-guide-245l)
-- [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
-- [Creating a Simple Proxy Switcher in Node.js](https://dev.to/williamsmithh/creating-a-simple-proxy-switcher-in-nodejs-2m38)
-- [My first game on Scratch](https://dev.to/daniordonez/my-first-game-on-scratch-4ef7)
+- [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
+- [What is the Difference between Spread and Rest Operator in JavaScript](https://dev.to/himanshudevgupta/what-is-the-difference-between-spread-and-rest-operator-in-javascript-2oa9)
+- [Build a Python Keylogger](https://dev.to/scofieldidehen/build-a-python-keylogger-512l)
+- [Enhance Business Decision-Making: 7 Essential Mental Models](https://dev.to/stan8086/enhance-business-decision-making-7-essential-mental-models-3ed7)
 <!-- BLOG-POST-LIST:END -->
 
