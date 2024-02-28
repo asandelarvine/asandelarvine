@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 Elixir books that will make you love Elixir even more](https://dev.to/hoonweedev/top-3-elixir-books-that-will-make-you-love-elixir-even-more-2bi6)
+- [Integrating CKEditor into RemixJS: A Step-by-Step Guide](https://dev.to/nickfthedev/integrating-ckeditor-into-remixjs-a-step-by-step-guide-3bk3)
 - [9 rules for writing &lpar;better?&rpar; code](https://dev.to/klnjmm/9-rules-for-writing-better-code-3lb)
 - [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
-- [What is the Difference between Spread and Rest Operator in JavaScript](https://dev.to/himanshudevgupta/what-is-the-difference-between-spread-and-rest-operator-in-javascript-2oa9)
-- [Build a Python Keylogger](https://dev.to/scofieldidehen/build-a-python-keylogger-512l)
 <!-- BLOG-POST-LIST:END -->
 
