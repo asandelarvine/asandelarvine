@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
 - [Creating a Simple Proxy Switcher in Node.js](https://dev.to/williamsmithh/creating-a-simple-proxy-switcher-in-nodejs-2m38)
+- [My first game on Scratch](https://dev.to/daniordonez/my-first-game-on-scratch-4ef7)
 - [Piral Feed Service 1.13](https://dev.to/smapiot/piral-feed-service-113-43lk)
-- [Managing unexpected data at runtime in Typescript](https://dev.to/pathakpratik/managing-unexpected-data-at-runtime-in-typescript-1lb4)
 <!-- BLOG-POST-LIST:END -->
 
