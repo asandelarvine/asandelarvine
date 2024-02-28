@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCommit: feature-rich CLI to generate meaningful git commit messages now supports local models via Ollama 🤯🔫](https://dev.to/disukharev/opencommit-feature-rich-cli-to-generate-meaningful-git-commit-messages-now-supports-local-models-via-ollama-5435)
-- [Rise of Local LLMs ?](https://dev.to/sarthology/rise-of-local-llms--21pe)
-- [Top 3 Elixir books that will make you love Elixir even more](https://dev.to/hoonweedev/top-3-elixir-books-that-will-make-you-love-elixir-even-more-2bi6)
-- [What&#39;s new in Next.js 14](https://dev.to/pagepro_agency/whats-new-in-nextjs-14-1160)
+- [Is Hosting on Netlify Going to Bankrupt you?](https://dev.to/mlaposta/is-hosting-on-netlify-going-to-bankrupt-you-4d1d)
+- [Appium vs Selenium: Choosing the Right Fit for Your Automation Project](https://dev.to/jamescantor38/appium-vs-selenium-choosing-the-right-fit-for-your-automation-project-13m9)
+- [Refactoring a REST-based Go backend into Event-Driven using Pub/Sub](https://dev.to/encore/refactoring-a-rest-based-go-backend-into-event-driven-using-pubsub-433p)
+- [Explorando o Linux - Diretórios Padrões](https://dev.to/lucasrocha729/explorando-o-linux-diretorios-padroes-19go)
 <!-- BLOG-POST-LIST:END -->
 
