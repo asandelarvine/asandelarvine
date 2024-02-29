@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a dynamic invoice using react-print-pdf](https://dev.to/onedoc/creating-a-dynamic-invoice-using-react-print-pdf-2624)
-- [How to access Neon Postgres from AWS Lambda functions via serverless driver](https://dev.to/hackmamba/how-to-access-neon-postgres-from-aws-lambda-functions-via-serverless-driver-3ad4)
-- [Best Practices for Branch Naming Conventions and Effective Commit Messages](https://dev.to/faidterence/best-practices-for-branch-naming-conventions-and-effective-commit-messages-ma8)
-- [Styled-Components: Why you should &lpar;or should not&rpar; use it](https://dev.to/pancompany/styled-components-why-you-should-or-should-not-use-it-23c)
+- [Architecting with AI: How GitHub Copilot Shapes the Future of Cloud Solutions](https://dev.to/jito/architecting-with-ai-how-github-copilot-shapes-the-future-of-cloud-solutions-c5b)
+- [Building for sustainability: Dashboards](https://dev.to/newrelic/building-for-sustainability-dashboards-237n)
+- [Google officially ingesting Stack Overflow data](https://dev.to/jess/google-officially-ingesting-stack-overflow-data-5c5c)
+- [How to Improve Your Security Posture in Just a Few Clicks with AWS IAM Access Analyzer](https://dev.to/chkso/how-to-improve-your-security-posture-in-just-a-few-clicks-with-aws-iam-access-analyzer-4io8)
 <!-- BLOG-POST-LIST:END -->
 
