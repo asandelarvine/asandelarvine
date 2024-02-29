@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add a skeleton UI to Rails with Turbo](https://dev.to/railsdesigner/how-to-add-a-skeleton-ui-to-rails-with-turbo-1ldh)
+- [Portfolio app with nextjs, reactjs and typescript.](https://dev.to/priyanshu740/portfolio-app-with-nextjs-reactjs-and-typescript-4ham)
 - [February Stripe Developer Digest](https://dev.to/stripe/february-stripe-developer-digest-10m4)
 - [Top 10 AI Tools for Developers in 2024](https://dev.to/get_pieces/top-10-ai-tools-for-developers-in-2024-3aca)
-- [TechHer: Empowering Women in the Digital Age](https://dev.to/akashdev23/techher-empowering-women-in-the-digital-age-l7f)
-- [Deep Dive into Multistage Dockerfile with a Golang App ⚙️🚢](https://dev.to/sre_panchanan/deep-dive-into-multistage-dockerfile-with-a-golang-app-6e1)
 <!-- BLOG-POST-LIST:END -->
 
