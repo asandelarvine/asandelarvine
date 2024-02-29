@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to hide files or data in a JPEG Image](https://dev.to/abdulmuminyqn/how-to-hide-files-or-data-in-a-jpeg-image-5gna)
-- [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
-- [Six-Figure Content Programs: A Lesson &lpar;and Change&rpar; in Positioning](https://dev.to/daedtech/six-figure-content-programs-a-lesson-and-change-in-positioning-56bm)
-- [Implementing Stripe Payments in a React App and on Stripe Hosted Page: A Step-by-Step Guide](https://dev.to/mominmahmud/implementing-stripe-payments-in-a-react-app-a-step-by-step-guide-4dd9)
+- [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
+- [Http Request Form Data at Golang](https://dev.to/sukmarizki04/http-request-form-data-at-golang-1dn4)
+- [How to make a turtle racing game in Python](https://dev.to/codewithshahan/how-to-make-a-turtle-racing-game-in-python-3nfn)
+- [Introducing LectureKit: Headless Platform for Creating &amp; Managing Online Courses](https://dev.to/geiger01/introducing-lecturekit-headless-platform-for-creating-managing-online-courses-4cg8)
 <!-- BLOG-POST-LIST:END -->
 
