@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
-- [Http Request Form Data at Golang](https://dev.to/sukmarizki04/http-request-form-data-at-golang-1dn4)
-- [How to make a turtle racing game in Python](https://dev.to/codewithshahan/how-to-make-a-turtle-racing-game-in-python-3nfn)
-- [Introducing LectureKit: Headless Platform for Creating &amp; Managing Online Courses](https://dev.to/geiger01/introducing-lecturekit-headless-platform-for-creating-managing-online-courses-4cg8)
+- [How To Make A Truth Or Dare Bot Discord](https://dev.to/siddheshuncodes/how-to-make-a-truth-or-dare-bot-discord-4lme)
+- [Apple is killing PWA?](https://dev.to/maximsaplin/apple-is-killing-pwa-2kjn)
+- [Why Companies Area Restrict Jobs, Even if They Are Remote](https://dev.to/ugglr/why-companies-area-restrict-jobs-even-if-they-are-remote-35lo)
+- [What I learned in 6 months of working on a CodeGen dev tool GPT Pilot](https://dev.to/zvone187/what-i-learned-in-6-months-of-working-on-a-codegen-dev-tool-gpt-pilot-4fij)
 <!-- BLOG-POST-LIST:END -->
 
