@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📨 Building your Email API with Fastmail for free!](https://dev.to/creuserr/building-your-email-api-with-fastmail-for-free-h91)
 - [Becoming a Cyber Security Advocate: Importance of Role Models](https://dev.to/whatminjacodes/becoming-a-cyber-security-advocate-importance-of-role-models-3j9d)
 - [Refactoring Legacy Code: Can We Trust Existing Tests?](https://dev.to/rweisleder/refactoring-legacy-code-can-we-trust-existing-tests-4ia8)
 - [we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽](https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj)
-- [Change One Thing in Tech](https://dev.to/devteam/change-one-thing-in-tech-3jgb)
 <!-- BLOG-POST-LIST:END -->
 
