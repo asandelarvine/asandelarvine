@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Confused Developers Guide to Sidechains](https://dev.to/dappadandev/the-confused-developers-guide-to-sidechains-4kjl)
 - [FS Module in Node.js](https://dev.to/mahimabhardwaj/fs-module-in-nodejs-18in)
 - [Ao infinito e além](https://dev.to/ujs74wiop6/ao-infinito-e-alem-2iof)
 - [Decoding Amazon&#39;s Recommendation Engine🤯](https://dev.to/ujjawaltyagi/decoding-amazons-recommendation-engine-3gpo)
-- [This Week In React #175: RSC, Vinxi, Server Actions, Next.js, Remix, WakuLand, Flash Calendar, Zeego, RN Reusables...](https://dev.to/sebastienlorber/this-week-in-react-175-rsc-vinxi-server-actions-nextjs-remix-wakuland-flash-calendar-zeego-rn-reusables-306l)
 <!-- BLOG-POST-LIST:END -->
 
