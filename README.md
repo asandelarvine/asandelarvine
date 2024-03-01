@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript News, Updates, and Tutorials: February 2024 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-february-2024-edition-2mlf)
 - [Sarah Dye Returns to Coding in 2024](https://dev.to/theoriginalbpc/sarah-dye-returns-to-coding-in-2024-4am2)
 - [A Love Letter to the Underrepresented in Tech](https://dev.to/abbeyperini/a-love-letter-to-the-underrepresented-in-tech-4jj3)
-- [Mobile Performance Testing: A Comprehensive Tutorial](https://dev.to/lambdatest/mobile-performance-testing-a-comprehensive-tutorial-57b5)
-- [🤓 My top 3 Go packages that I wish I&#39;d known about earlier](https://dev.to/koddr/my-top-3-go-packages-that-i-wish-id-known-about-earlier-3j10)
+- [10 Reasons for MiniRx Signal Store](https://dev.to/this-is-angular/10-reasons-for-minirx-signal-store-p8b)
 <!-- BLOG-POST-LIST:END -->
 
