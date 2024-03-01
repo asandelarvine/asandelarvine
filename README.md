@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript News, Updates, and Tutorials: February 2024 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-february-2024-edition-2mlf)
-- [Sarah Dye Returns to Coding in 2024](https://dev.to/theoriginalbpc/sarah-dye-returns-to-coding-in-2024-4am2)
-- [A Love Letter to the Underrepresented in Tech](https://dev.to/abbeyperini/a-love-letter-to-the-underrepresented-in-tech-4jj3)
-- [10 Reasons for MiniRx Signal Store](https://dev.to/this-is-angular/10-reasons-for-minirx-signal-store-p8b)
+- [🚀 Exciting breakthrough in Decentralized Confidential AI by Super Protocol &amp; NVIDIA!](https://dev.to/superprotocol/exciting-breakthrough-in-decentralized-confidential-ai-by-super-protocol-nvidia-gko)
+- [Spoiler Alert: Import Alias in React + Vite](https://dev.to/navdeepm20/spoiler-alert-import-alias-in-react-vite-3apf)
+- [Common Password Cracking Techniques For 2024](https://dev.to/scofieldidehen/common-password-cracking-techniques-for-2024-1ib1)
+- [Thread synchronization in python&#39;s threading module](https://dev.to/coderatul/thread-synchronization-in-pythons-threading-module-3aff)
 <!-- BLOG-POST-LIST:END -->
 
