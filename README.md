@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Exciting breakthrough in Decentralized Confidential AI by Super Protocol &amp; NVIDIA!](https://dev.to/superprotocol/exciting-breakthrough-in-decentralized-confidential-ai-by-super-protocol-nvidia-gko)
-- [Spoiler Alert: Import Alias in React + Vite](https://dev.to/navdeepm20/spoiler-alert-import-alias-in-react-vite-3apf)
-- [Common Password Cracking Techniques For 2024](https://dev.to/scofieldidehen/common-password-cracking-techniques-for-2024-1ib1)
-- [Thread synchronization in python&#39;s threading module](https://dev.to/coderatul/thread-synchronization-in-pythons-threading-module-3aff)
+- [It&#39;s a very gender-expansive Women&#39;s History Month!](https://dev.to/rachelfazio/its-a-very-gender-expansive-womens-history-month-13h7)
+- [Free Figma10 Amazing Templates for Your CV](https://dev.to/faisalgg/free-figma10-amazing-templates-for-your-cv-59l8)
+- [How to Implement React Infinite Scrolling with React Query v5](https://dev.to/get_pieces/how-to-implement-react-infinite-scrolling-with-react-query-v5-1pjn)
+- [Transfer contents and files using SCP from remote to local machine via bastion](https://dev.to/vidyasagarmsc/transfer-contents-and-files-using-scp-from-remote-to-local-machine-via-bastion-4f79)
 <!-- BLOG-POST-LIST:END -->
 
