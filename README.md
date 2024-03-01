@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Change One Thing in Tech](https://dev.to/devteam/change-one-thing-in-tech-3jgb)
+- [we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽](https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj)
 - [JWT Authentication in NodeJS](https://dev.to/arindam_1729/jwt-authentication-in-nodejs-863)
-- [Dart Functions and Parameter Types — Part 3](https://dev.to/sadanandgadwal/dart-functions-and-parameter-types-part3-1ad2)
-- [Prompt Engineering Fundamentals - Generative AI For Beginners &lpar;v1&rpar;](https://dev.to/azure/prompt-engineering-fundamentals-generative-ai-for-beginners-v1-1kii)
-- [MongoDB Model.bulkWrite method solved my issue importing documents from hours to 5 minutes](https://dev.to/farizmamad/mongodb-modelbulkwrite-method-solved-my-issue-importing-documents-from-hours-to-5-minutes-25el)
+- [Another Year Of Being in Gender Minority in Tech](https://dev.to/eevajonnapanula/another-year-of-being-in-gender-minority-in-tech-5akp)
 <!-- BLOG-POST-LIST:END -->
 
