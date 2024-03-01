@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in Tech](https://dev.to/erikgiovani/women-in-tech-51l6)
+- [Production Multistage Dockerfile For React Application 🚀](https://dev.to/sre_panchanan/production-multistage-dockerfile-for-react-application-2p6i)
+- [Navigating MVC: Evolution from Pattern to Architecture 👨‍💻🥇](https://dev.to/_hm/navigating-mvc-evolution-from-pattern-to-architecture-1gk4)
 - [The Confused Developers Guide to Sidechains](https://dev.to/dappadandev/the-confused-developers-guide-to-sidechains-4kjl)
-- [FS Module in Node.js](https://dev.to/mahimabhardwaj/fs-module-in-nodejs-18in)
-- [Ao infinito e além](https://dev.to/ujs74wiop6/ao-infinito-e-alem-2iof)
-- [Decoding Amazon&#39;s Recommendation Engine🤯](https://dev.to/ujjawaltyagi/decoding-amazons-recommendation-engine-3gpo)
 <!-- BLOG-POST-LIST:END -->
 
