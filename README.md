@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ao infinito e além](https://dev.to/ujs74wiop6/ao-infinito-e-alem-2iof)
+- [Decoding Amazon&#39;s Recommendation Engine🤯](https://dev.to/ujjawaltyagi/decoding-amazons-recommendation-engine-3gpo)
 - [This Week In React #175: RSC, Vinxi, Server Actions, Next.js, Remix, WakuLand, Flash Calendar, Zeego, RN Reusables...](https://dev.to/sebastienlorber/this-week-in-react-175-rsc-vinxi-server-actions-nextjs-remix-wakuland-flash-calendar-zeego-rn-reusables-306l)
 - [10 Mac Apps I Regret Not Using Sooner](https://dev.to/bhanu1776/10-mac-apps-i-regret-not-using-sooner-3i0c)
-- [How to Create a Real-time Public Transportation Schedule App](https://dev.to/pubnub/how-to-create-a-real-time-public-transportation-schedule-app-282j)
-- [API Error Handling: Techniques and Best Practices](https://dev.to/apidna/api-error-handling-techniques-and-best-practices-20c5)
 <!-- BLOG-POST-LIST:END -->
 
