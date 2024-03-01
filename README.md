@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sarah Dye Returns to Coding in 2024](https://dev.to/theoriginalbpc/sarah-dye-returns-to-coding-in-2024-4am2)
+- [A Love Letter to the Underrepresented in Tech](https://dev.to/abbeyperini/a-love-letter-to-the-underrepresented-in-tech-4jj3)
+- [Mobile Performance Testing: A Comprehensive Tutorial](https://dev.to/lambdatest/mobile-performance-testing-a-comprehensive-tutorial-57b5)
 - [🤓 My top 3 Go packages that I wish I&#39;d known about earlier](https://dev.to/koddr/my-top-3-go-packages-that-i-wish-id-known-about-earlier-3j10)
-- [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-2ib0)
-- [Fine-Tuning Fundamentals - Generative AI For Beginners &lpar;v2&rpar;](https://dev.to/azure/fine-tuning-fundamentals-generative-ai-for-beginners-v2-3lf9)
-- [Find Open Source Projects Fast &lpar;short&rpar; 🔥](https://dev.to/rudransh61/find-open-source-projects-fast-short-4nih)
 <!-- BLOG-POST-LIST:END -->
 
