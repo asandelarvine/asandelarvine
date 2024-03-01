@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep in Javascript DOM Traversal 2](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g)
+- [Deep in Javascript DOM Traversal 1](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo)
 - [Refactoring Ruby: Introduce Null Object](https://dev.to/jonlunsford/refactoring-ruby-introduce-null-object-c5i)
 - [Husky: Step by Step &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/husky-step-by-step-bite-size-article-1c4f)
-- [ADO OR Entity framework?](https://dev.to/hasanelsherbiny/ado-or-entity-framework-3gn)
-- [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
 <!-- BLOG-POST-LIST:END -->
 
