@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s a very gender-expansive Women&#39;s History Month!](https://dev.to/rachelfazio/its-a-very-gender-expansive-womens-history-month-13h7)
-- [Free Figma10 Amazing Templates for Your CV](https://dev.to/faisalgg/free-figma10-amazing-templates-for-your-cv-59l8)
-- [How to Implement React Infinite Scrolling with React Query v5](https://dev.to/get_pieces/how-to-implement-react-infinite-scrolling-with-react-query-v5-1pjn)
-- [Transfer contents and files using SCP from remote to local machine via bastion](https://dev.to/vidyasagarmsc/transfer-contents-and-files-using-scp-from-remote-to-local-machine-via-bastion-4f79)
+- [This Week In React #175: RSC, Vinxi, Server Actions, Next.js, Remix, WakuLand, Flash Calendar, Zeego, RN Reusables...](https://dev.to/sebastienlorber/this-week-in-react-175-rsc-vinxi-server-actions-nextjs-remix-wakuland-flash-calendar-zeego-rn-reusables-306l)
+- [10 Mac Apps I Regret Not Using Sooner](https://dev.to/bhanu1776/10-mac-apps-i-regret-not-using-sooner-3i0c)
+- [How to Create a Real-time Public Transportation Schedule App](https://dev.to/pubnub/how-to-create-a-real-time-public-transportation-schedule-app-282j)
+- [API Error Handling: Techniques and Best Practices](https://dev.to/apidna/api-error-handling-techniques-and-best-practices-20c5)
 <!-- BLOG-POST-LIST:END -->
 
