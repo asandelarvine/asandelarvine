@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Women in Tech](https://dev.to/erikgiovani/women-in-tech-51l6)
-- [Production Multistage Dockerfile For React Application 🚀](https://dev.to/sre_panchanan/production-multistage-dockerfile-for-react-application-2p6i)
-- [Navigating MVC: Evolution from Pattern to Architecture 👨‍💻🥇](https://dev.to/_hm/navigating-mvc-evolution-from-pattern-to-architecture-1gk4)
-- [The Confused Developers Guide to Sidechains](https://dev.to/dappadandev/the-confused-developers-guide-to-sidechains-4kjl)
+- [Refactoring Ruby: Introduce Null Object](https://dev.to/jonlunsford/refactoring-ruby-introduce-null-object-c5i)
+- [Husky: Step by Step &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/husky-step-by-step-bite-size-article-1c4f)
+- [ADO OR Entity framework?](https://dev.to/hasanelsherbiny/ado-or-entity-framework-3gn)
+- [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
 <!-- BLOG-POST-LIST:END -->
 
