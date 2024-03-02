@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are React Server Actions?](https://dev.to/this-is-learning/what-are-react-server-actions-147o)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3ml0)
+- [MiniScript on a bare-metal Raspberry Pi](https://dev.to/joestrout/miniscript-on-a-bare-metal-raspberry-pi-59p6)
 - [3 Advanced Famer Motion Effects in React](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-2jib)
-- [Building an Infinite Scroll Component with Intersection Observer 🚀](https://dev.to/vikas2426/building-an-infinite-scroll-component-with-intersection-observer-17p1)
-- [Somewhat dynamic typing in Rust - magic of traits](https://dev.to/programcrafter/somewhat-dynamic-typing-in-rust-magic-of-traits-1229)
-- [List of Free API&#39;s](https://dev.to/imashwani/list-of-free-apis-2k5h)
 <!-- BLOG-POST-LIST:END -->
 
