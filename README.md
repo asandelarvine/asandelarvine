@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Vite is the best? Advanced Features of Vite](https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6)
+- [How to Set Up Your Environment for Enabling SharePoint Embedded in 5 Simple Steps](https://dev.to/jaloplo/how-to-set-up-your-environment-for-enabling-sharepoint-embedded-in-5-simple-steps-2c9d)
+- [Really Reactive React](https://dev.to/ninjin/really-reactive-react-4pl2)
 - [Deployment vs StatefulSet vs DaemonSet: Navigating Kubernetes Workloads 🚀](https://dev.to/sre_panchanan/deployment-vs-statefulset-vs-daemonset-navigating-kubernetes-workloads-190j)
-- [Important Rules of Boolean Algebra](https://dev.to/diptobiswasanime4/important-rules-of-boolean-algebra-2ab4)
-- [How to Implement Sharding in MongoDB](https://dev.to/speaklouder/how-to-implement-sharding-in-mongodb-koe)
-- [Celebrating 10 Million Views: Exploring Ruby on Rails .ba](https://dev.to/nezirzahirovic/celebrating-10-million-views-exploring-ruby-on-rails-ba-5gp4)
 <!-- BLOG-POST-LIST:END -->
 
