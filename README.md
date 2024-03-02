@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 10 Million Views: Exploring Ruby on Rails .ba](https://dev.to/nezirzahirovic/celebrating-10-million-views-exploring-ruby-on-rails-ba-5gp4)
 - [Angular 14 + Prettier + Husky Setup](https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
 - [Working with pydantic in Python](https://dev.to/tlayach/working-with-pydantic-in-python-46n6)
-- [A Beginner&#39;s Guide to Dive into Machine Learning: Resources and Tips](https://dev.to/ankush511/a-beginners-guide-to-dive-into-machine-learning-resources-and-tips-520n)
 <!-- BLOG-POST-LIST:END -->
 
