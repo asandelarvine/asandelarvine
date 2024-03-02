@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Styling Checkboxes and Switches](https://dev.to/madsstoumann/styling-checkboxes-and-switches-pf0)
-- [First dayy](https://dev.to/himanshutamoli24/first-dayy-1186)
-- [Tech Blog on Your Site or on Medium / Dev.to?](https://dev.to/writech/tech-blog-on-your-site-or-on-medium-devto-pm1)
-- [Why Vite is the best? Advanced Features of Vite](https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6)
+- [3 Advanced Famer Motion Effects in React](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-2jib)
+- [Building an Infinite Scroll Component with Intersection Observer 🚀](https://dev.to/vikas2426/building-an-infinite-scroll-component-with-intersection-observer-17p1)
+- [Somewhat dynamic typing in Rust - magic of traits](https://dev.to/programcrafter/somewhat-dynamic-typing-in-rust-magic-of-traits-1229)
+- [List of Free API&#39;s](https://dev.to/imashwani/list-of-free-apis-2k5h)
 <!-- BLOG-POST-LIST:END -->
 
