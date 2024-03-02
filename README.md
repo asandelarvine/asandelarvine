@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Styling Checkboxes and Switches](https://dev.to/madsstoumann/styling-checkboxes-and-switches-pf0)
+- [First dayy](https://dev.to/himanshutamoli24/first-dayy-1186)
+- [Tech Blog on Your Site or on Medium / Dev.to?](https://dev.to/writech/tech-blog-on-your-site-or-on-medium-devto-pm1)
 - [Why Vite is the best? Advanced Features of Vite](https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6)
-- [How to Set Up Your Environment for Enabling SharePoint Embedded in 5 Simple Steps](https://dev.to/jaloplo/how-to-set-up-your-environment-for-enabling-sharepoint-embedded-in-5-simple-steps-2c9d)
-- [Really Reactive React](https://dev.to/ninjin/really-reactive-react-4pl2)
-- [Deployment vs StatefulSet vs DaemonSet: Navigating Kubernetes Workloads 🚀](https://dev.to/sre_panchanan/deployment-vs-statefulset-vs-daemonset-navigating-kubernetes-workloads-190j)
 <!-- BLOG-POST-LIST:END -->
 
