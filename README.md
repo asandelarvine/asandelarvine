@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Important Rules of Boolean Algebra](https://dev.to/diptobiswasanime4/important-rules-of-boolean-algebra-2ab4)
 - [How to Implement Sharding in MongoDB](https://dev.to/speaklouder/how-to-implement-sharding-in-mongodb-koe)
 - [Celebrating 10 Million Views: Exploring Ruby on Rails .ba](https://dev.to/nezirzahirovic/celebrating-10-million-views-exploring-ruby-on-rails-ba-5gp4)
 - [Angular 14 + Prettier + Husky Setup](https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
 <!-- BLOG-POST-LIST:END -->
 
