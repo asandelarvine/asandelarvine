@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep in Javascript DOM Traversal 2](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g)
-- [Deep in Javascript DOM Traversal 1](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo)
-- [Refactoring Ruby: Introduce Null Object](https://dev.to/jonlunsford/refactoring-ruby-introduce-null-object-c5i)
-- [Husky: Step by Step &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/husky-step-by-step-bite-size-article-1c4f)
+- [Angular 14 + Prettier + Husky Setup](https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
+- [Working with pydantic in Python](https://dev.to/tlayach/working-with-pydantic-in-python-46n6)
+- [A Beginner&#39;s Guide to Dive into Machine Learning: Resources and Tips](https://dev.to/ankush511/a-beginners-guide-to-dive-into-machine-learning-resources-and-tips-520n)
 <!-- BLOG-POST-LIST:END -->
 
