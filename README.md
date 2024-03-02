@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to stock analysis](https://dev.to/diegoga/intro-to-stock-analysis-43ga)
 - [Kubernetes Resources Management](https://dev.to/sre_panchanan/kubernetes-resources-management-479a)
 - [Revolutionize Your React Debugging with Locator.js: A Developer&#39;s Guide](https://dev.to/creator79/revolutionize-your-react-debugging-with-locatorjs-a-developers-guide-4m7n)
 - [Ionic + Capacitor Security Tips](https://dev.to/acronimax/ionic-capacitor-security-tips-31jg)
-- [React or Vue, which JS framework is best?](https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on)
 <!-- BLOG-POST-LIST:END -->
 
