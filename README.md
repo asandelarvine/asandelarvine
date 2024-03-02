@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Piping Hot: The Power of Pipe&lpar;&rpar; in Node.js Streams](https://dev.to/ruben_alapont/piping-hot-the-power-of-pipe-in-nodejs-streams-1846)
-- [React Strict DOM package](https://dev.to/ricardogesteves/react-strict-dom-package-1og1)
-- [Check Your Website&#39;s Performance: Testing Under Various Network Speeds](https://dev.to/richardshaju/check-your-websites-performance-testing-under-various-network-speeds-5cf2)
-- [Is Elixir or Common Lisp the best language for building a bootstrapped B2B SaaS in 2024?](https://dev.to/vindarel/is-elixir-or-common-lisp-the-best-language-for-building-a-bootstrapped-b2b-saas-in-2024-2ji0)
+- [Kubernetes Resources Management](https://dev.to/sre_panchanan/kubernetes-resources-management-479a)
+- [React or Vue, which JS framework is best?](https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on)
+- [Edge IoT with Rust on ESP: WiFi Revisited](https://dev.to/apollolabsbin/edge-iot-with-rust-on-esp-wifi-revisited-3ohm)
+- [Apple&#39;s Destiny is Bankruptcy, and it makes me sad](https://dev.to/polterguy/apples-destiny-is-bankruptcy-and-it-makes-me-sad-1h7i)
 <!-- BLOG-POST-LIST:END -->
 
