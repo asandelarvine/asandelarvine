@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [REST API Consumption with feTS: A Practical Guide to Type-Safe HTTP Clients](https://dev.to/franciscomendes10866/rest-api-consumption-a-practical-guide-to-type-safe-http-clients-3343)
+- [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)
+- [Top 10 Security Best Practices we learned the hard way](https://dev.to/aws-builders/top-10-security-best-practices-we-learned-the-hard-way-3f55)
 - [Implementing Passport With Google OAuth2](https://dev.to/ethand91/implementing-passport-with-google-oauth2-572g)
-- [Enhance Your Next.js or React.js Application with Froala Editor](https://dev.to/rohitashsingh89/enhance-your-nextjs-or-reactjs-application-with-froala-editor-1mal)
-- [Ensuring Reliability in Web Services: Mastering Idempotency in Node.js and JavaScript](https://dev.to/prabhuvikas/ensuring-reliability-in-web-services-mastering-idempotency-in-nodejs-and-javascript-31cf)
-- [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
 <!-- BLOG-POST-LIST:END -->
 
