@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Discovering Your Why: Finding Your Way to Thrive Early in Your Career](https://dev.to/alexr/discovering-your-why-finding-your-way-to-thrive-early-in-your-career-22j7)
 - [second the topic switch](https://dev.to/zafar7709/second-the-topic-switch-2hml)
 - [Training LLMs Taking Too Much Time? Technique you need to know to train it faster](https://dev.to/hexmos/training-llms-taking-too-much-time-technique-you-need-to-know-to-train-it-faster-3k8d)
-- [Mastering Python: 6 Sneaky Tips Every Developer Should Know](https://dev.to/jagroop2001/mastering-python-6-sneaky-tips-every-developer-should-know-1g1h)
+- [What is really an API? Examples, Code + History](https://dev.to/samuelkufre/what-is-really-an-api-examples-code-history-1e9g)
 <!-- BLOG-POST-LIST:END -->
 
