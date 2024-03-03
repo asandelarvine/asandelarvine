@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Typed Objects in v-for - Vue3 with TypeScript](https://dev.to/schalkneethling/typed-objects-in-v-for-vue3-with-typescript-6l8)
+- [The Top AI Music Makers: Unveiling the Future of Music Production](https://dev.to/dariubs/the-top-ai-music-makers-unveiling-the-future-of-music-production-c2d)
+- [Mastering Data Analysis with SQL: The Power of the ROW_NUMBER&lpar;&rpar; Function](https://dev.to/moh_moh701/mastering-data-analysis-with-sql-the-power-of-the-rownumber-function-pl8)
 - [Frigg: Effortlessly Craft GitOps-Enabled Kubernetes Clusters on Any Cloud](https://dev.to/patricklaabs/frigg-effortlessly-craft-gitops-enabled-kubernetes-clusters-on-any-cloud-3e3g)
-- [Generative Language Models with AWS SageMaker and Hugging Face](https://dev.to/gokulsg/generative-language-models-with-aws-sagemaker-and-hugging-face-2p19)
-- [Building And Deploying A Subgraph &lpar;Part 2&rpar;](https://dev.to/oleanji/building-and-deploying-a-subgraph-part-2-4798)
-- [Let&#39;s talk of Reactive Architecture](https://dev.to/yokwejuste/lets-talk-of-reactive-architecture-1j60)
 <!-- BLOG-POST-LIST:END -->
 
