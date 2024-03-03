@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Awk: A beginners guide for humans](https://dev.to/jpmcb/awk-a-beginners-guide-for-humans-3l25)
 - [Typed Objects in v-for - Vue3 with TypeScript](https://dev.to/schalkneethling/typed-objects-in-v-for-vue3-with-typescript-6l8)
 - [The Top AI Music Makers: Unveiling the Future of Music Production](https://dev.to/dariubs/the-top-ai-music-makers-unveiling-the-future-of-music-production-c2d)
 - [Mastering Data Analysis with SQL: The Power of the ROW_NUMBER&lpar;&rpar; Function](https://dev.to/moh_moh701/mastering-data-analysis-with-sql-the-power-of-the-rownumber-function-pl8)
-- [Frigg: Effortlessly Craft GitOps-Enabled Kubernetes Clusters on Any Cloud](https://dev.to/patricklaabs/frigg-effortlessly-craft-gitops-enabled-kubernetes-clusters-on-any-cloud-3e3g)
 <!-- BLOG-POST-LIST:END -->
 
