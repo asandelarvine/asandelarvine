@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Implementing Passport With Google OAuth2](https://dev.to/ethand91/implementing-passport-with-google-oauth2-572g)
+- [Enhance Your Next.js or React.js Application with Froala Editor](https://dev.to/rohitashsingh89/enhance-your-nextjs-or-reactjs-application-with-froala-editor-1mal)
 - [Ensuring Reliability in Web Services: Mastering Idempotency in Node.js and JavaScript](https://dev.to/prabhuvikas/ensuring-reliability-in-web-services-mastering-idempotency-in-nodejs-and-javascript-31cf)
 - [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
-- [What is a Database? Everything you need to know](https://dev.to/annoh_karlgusta/what-is-a-database-everything-you-need-to-know-1e03)
 <!-- BLOG-POST-LIST:END -->
 
