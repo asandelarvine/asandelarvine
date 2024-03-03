@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s talk of Reactive Architecture](https://dev.to/yokwejuste/lets-talk-of-reactive-architecture-1j60)
+- [Tools that Make Me Productive as a Software Engineer](https://dev.to/koladev/tools-that-make-me-productive-as-a-software-engineer-2dge)
 - [Um júnior e um teste técnico: The battle.](https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b)
-- [Terraform - Understanding Count and For_Each Loops](https://dev.to/pwd9000/terraform-understanding-count-and-foreach-loops-c6i)
-- [CXDI - Tutorials](https://dev.to/sh20raj1/cxdi-tutorials-2d5c)
-- [API Testing with Cypress - Part I](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i)
+- [Azure Container Services: The Right Tool for Every Containerization Need](https://dev.to/theyasirr/azure-container-services-the-right-tool-for-every-containerization-need-1g1j)
 <!-- BLOG-POST-LIST:END -->
 
