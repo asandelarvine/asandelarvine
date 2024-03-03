@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How is your mental health right now?](https://dev.to/elliot_brenya/how-is-your-mental-health-right-now-25bj)
+- [Time to share your RSS feeds 🙌❤️](https://dev.to/thomasbnt/time-to-share-your-rss-feeds-4f28)
 - [Intro to stock analysis](https://dev.to/diegoga/intro-to-stock-analysis-43ga)
-- [Kubernetes Resources Management](https://dev.to/sre_panchanan/kubernetes-resources-management-479a)
-- [Revolutionize Your React Debugging with Locator.js: A Developer&#39;s Guide](https://dev.to/creator79/revolutionize-your-react-debugging-with-locatorjs-a-developers-guide-4m7n)
-- [Ionic + Capacitor Security Tips](https://dev.to/acronimax/ionic-capacitor-security-tips-31jg)
+- [Aplicações de Segurança no Desenvolvimento de um Software: Hash e Salt #1](https://dev.to/arthcc/aplicacoes-de-seguranca-no-desenvolvimento-de-um-software-hash-e-salt-1-3lik)
 <!-- BLOG-POST-LIST:END -->
 
