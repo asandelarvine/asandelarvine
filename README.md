@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Surveillance is good?](https://dev.to/snakeziin/digital-surveillance-is-good-55oj)
+- [Hey Devs , Lets code something usefull....](https://dev.to/rudransh61/hey-devs-lets-code-something-usefull-152g)
 - [10 Cool CodePen Demos &lpar;February 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-february-2024-1me5)
 - [Title: A Beginner&#39;s Guide to Command-Line File and Directory Manipulation](https://dev.to/mdadul/title-a-beginners-guide-to-command-line-file-and-directory-manipulation-51of)
-- [The State of Angular SSR Deployment in 2024](https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb)
-- [10 Django Projects Ideas for Beginners](https://dev.to/eaca89/10-django-projects-ideas-for-beginners-483f)
 <!-- BLOG-POST-LIST:END -->
 
