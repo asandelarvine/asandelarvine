@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Jam of Javascript : 10 days 10 projects!🔥](https://dev.to/khushindpatel/jam-of-javascript-10-days-10-projects-3e5a)
+- [Understanding Redux: Solving State Management chaos](https://dev.to/margish288/understanding-redux-solving-state-management-chaos-84d)
 - [REST API Consumption with feTS: A Practical Guide to Type-Safe HTTP Clients](https://dev.to/franciscomendes10866/rest-api-consumption-a-practical-guide-to-type-safe-http-clients-3343)
 - [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)
-- [Top 10 Security Best Practices we learned the hard way](https://dev.to/aws-builders/top-10-security-best-practices-we-learned-the-hard-way-3f55)
-- [Implementing Passport With Google OAuth2](https://dev.to/ethand91/implementing-passport-with-google-oauth2-572g)
 <!-- BLOG-POST-LIST:END -->
 
