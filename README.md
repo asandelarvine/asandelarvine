@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Frigg: Effortlessly Craft GitOps-Enabled Kubernetes Clusters on Any Cloud](https://dev.to/patricklaabs/frigg-effortlessly-craft-gitops-enabled-kubernetes-clusters-on-any-cloud-3e3g)
+- [Generative Language Models with AWS SageMaker and Hugging Face](https://dev.to/gokulsg/generative-language-models-with-aws-sagemaker-and-hugging-face-2p19)
+- [Building And Deploying A Subgraph &lpar;Part 2&rpar;](https://dev.to/oleanji/building-and-deploying-a-subgraph-part-2-4798)
 - [Let&#39;s talk of Reactive Architecture](https://dev.to/yokwejuste/lets-talk-of-reactive-architecture-1j60)
-- [Tools that Make Me Productive as a Software Engineer](https://dev.to/koladev/tools-that-make-me-productive-as-a-software-engineer-2dge)
-- [Um júnior e um teste técnico: The battle.](https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b)
-- [Azure Container Services: The Right Tool for Every Containerization Need](https://dev.to/theyasirr/azure-container-services-the-right-tool-for-every-containerization-need-1g1j)
 <!-- BLOG-POST-LIST:END -->
 
