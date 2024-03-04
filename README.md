@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
+- [Accordion accessible y reutilizable solo con la etiqueta details y css](https://dev.to/micaavigliano/accordion-accessible-y-reutilizable-solo-con-la-etiqueta-details-y-css-3hb4)
 - [Handling files in enterprise web solutions](https://dev.to/denladeside/handling-files-in-enterprise-web-solutions-3mkc)
 - [Conceptual Model of React in the RSC age](https://dev.to/ondrejvelisek/conceptual-model-of-react-in-the-rsc-age-5bn5)
-- [Beyond console.log: Debugging Techniques in JavaScript](https://dev.to/clarity89/beyond-consolelog-debugging-techniques-in-javascript-7o0)
-- [My First 3 Months In Tech](https://dev.to/olibhiaghosh/my-first-3-months-in-tech-5fbb)
 <!-- BLOG-POST-LIST:END -->
 
