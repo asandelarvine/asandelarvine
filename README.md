@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Rust: Grasping the concepts](https://dev.to/link2twenty/learning-rust-grasping-the-concepts-okm)
+- [Conceptual Model of React in the RSC age](https://dev.to/ondrejvelisek/conceptual-model-of-react-in-the-rsc-age-5bn5)
+- [Beyond console.log: Debugging Techniques in JavaScript](https://dev.to/clarity89/beyond-consolelog-debugging-techniques-in-javascript-7o0)
+- [My First 3 Months In Tech](https://dev.to/olibhiaghosh/my-first-3-months-in-tech-5fbb)
 - [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
-- [The Future of Personal AI](https://dev.to/tbdevs/the-future-of-personal-ai-3gc9)
-- [How to Upload Files to Amazon S3 with React and AWS SDK](https://dev.to/aws-builders/how-to-upload-files-to-amazon-s3-with-react-and-aws-sdk-b0n)
 <!-- BLOG-POST-LIST:END -->
 
