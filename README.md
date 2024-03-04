@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master JavaScript with these 20 tricky yet effective hacks.](https://dev.to/srinureddy/master-javascript-with-these-20-tricky-yet-effective-hacks-c0c)
+- [Serverless APIs: Auto-Generate OpenAPI Docs &amp; CI/CD Protections](https://dev.to/aws-heroes/serverless-apis-auto-generate-openapi-docs-cicd-protections-4m3n)
 - [JS Toolbox 2024: Essential Picks for Modern Developers Series Overview](https://dev.to/olwiba/js-toolbox-2024-essential-picks-for-modern-developers-series-overview-5cd1)
 - [JS Toolbox 2024: Bundlers and Test Frameworks](https://dev.to/olwiba/js-toolbox-2024-bundlers-and-test-frameworks-30f9)
-- [Why learning digital marketing can make you a be better software engineer](https://dev.to/mctn6/why-learning-digital-marketing-can-make-you-a-better-software-engineer-2o8b)
-- [3 Advanced Famer Motion Effects in React](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-3nm7)
 <!-- BLOG-POST-LIST:END -->
 
