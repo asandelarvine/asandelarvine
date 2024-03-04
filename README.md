@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #191](https://dev.to/aws/aws-open-source-newsletter-191-5cbb)
-- [Builiding a Live Audio Room - Flutter News 2024 #9 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-9-eyie-3ig1)
-- [Weekly Roundup 042 &lpar;Feb 26&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-042-feb-26-hot-topics-in-workplace-sharepoint-and-powerplatform-hf4)
-- [Did first open source contribution](https://dev.to/rahilisvahora/did-first-open-source-contribution-32b3)
+- [Olympics score website with WordPress](https://dev.to/rs_rashid/olympics-score-website-with-wordpress-2a9f)
+- [Best alternative of Fiverr and Upwork for freelancers](https://dev.to/hashirdev/best-platform-for-freelancers-3kfk)
+- [Adding passkeys to a Remix App](https://dev.to/hanko/adding-passkeys-to-a-remix-app-31f1)
+- [How to overcome writer&#39;s block as a developer blogger?](https://dev.to/tamerlang/how-to-overcome-writers-block-as-a-developer-blogger-5eco)
 <!-- BLOG-POST-LIST:END -->
 
