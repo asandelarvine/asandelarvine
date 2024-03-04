@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💼 50 Tips to Land a Remote Tech Job Based on My 45-Day Journey to 2 Offers](https://dev.to/bigsondev/from-hundreds-of-cvs-sent-to-2-job-offers-my-50-golden-tips-for-landing-a-tech-job-in-15-months-41a9)
-- [Meme Monday](https://dev.to/ben/meme-monday-2j0b)
-- [FLaNK 04 March 2024](https://dev.to/tspannhw/flank-04-march-2024-4c2i)
-- [Cancelling asynchronous operations with AbortController](https://dev.to/schalkneethling/cancelling-asynchronous-operations-with-abortcontroller-22ef)
+- [How Will Tech Hiring Evolve in 2024?](https://dev.to/devteam/how-will-tech-hiring-evolve-in-2024-58go)
+- [How to build a great Developer Relations strategy](https://dev.to/danizeres/how-to-build-a-great-developer-relations-strategy-449a)
+- [Do you need a Tooltip or a Speech Bubble? I have created 100 using CSS 😲](https://dev.to/afif/do-you-need-a-tooltip-or-a-speech-bubble-i-have-created-100-using-css-2l17)
+- [🎙️ 7 Best Podcasts for Newbie Devs](https://dev.to/evergrowingdev/7-best-podcasts-for-newbie-devs-ngk)
 <!-- BLOG-POST-LIST:END -->
 
