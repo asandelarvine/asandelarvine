@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Xavier&#39;s Insight: Overcoming Data Hoarding Disorder](https://dev.to/balagmadhu/xaviers-insight-overcoming-data-hoarding-disorder-227m)
+- [Maximizing Score with Tokens - 948 - Bag of Tokens in Go](https://dev.to/shareef/maximizing-score-with-tokens-948-bag-of-tokens-in-go-2l8m)
 - [Master JavaScript with these 20 tricky yet effective hacks.](https://dev.to/srinureddy/master-javascript-with-these-20-tricky-yet-effective-hacks-c0c)
 - [Serverless APIs: Auto-Generate OpenAPI Docs &amp; CI/CD Protections](https://dev.to/aws-heroes/serverless-apis-auto-generate-openapi-docs-cicd-protections-4m3n)
-- [JS Toolbox 2024: Essential Picks for Modern Developers Series Overview](https://dev.to/olwiba/js-toolbox-2024-essential-picks-for-modern-developers-series-overview-5cd1)
-- [JS Toolbox 2024: Bundlers and Test Frameworks](https://dev.to/olwiba/js-toolbox-2024-bundlers-and-test-frameworks-30f9)
 <!-- BLOG-POST-LIST:END -->
 
