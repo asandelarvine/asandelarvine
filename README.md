@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling files in enterprise web solutions](https://dev.to/denladeside/handling-files-in-enterprise-web-solutions-3mkc)
 - [Conceptual Model of React in the RSC age](https://dev.to/ondrejvelisek/conceptual-model-of-react-in-the-rsc-age-5bn5)
 - [Beyond console.log: Debugging Techniques in JavaScript](https://dev.to/clarity89/beyond-consolelog-debugging-techniques-in-javascript-7o0)
 - [My First 3 Months In Tech](https://dev.to/olibhiaghosh/my-first-3-months-in-tech-5fbb)
-- [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
 <!-- BLOG-POST-LIST:END -->
 
