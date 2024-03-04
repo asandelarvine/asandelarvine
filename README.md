@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Will Tech Hiring Evolve in 2024?](https://dev.to/devteam/how-will-tech-hiring-evolve-in-2024-58go)
-- [How to build a great Developer Relations strategy](https://dev.to/danizeres/how-to-build-a-great-developer-relations-strategy-449a)
-- [Do you need a Tooltip or a Speech Bubble? I have created 100 using CSS 😲](https://dev.to/afif/do-you-need-a-tooltip-or-a-speech-bubble-i-have-created-100-using-css-2l17)
-- [🎙️ 7 Best Podcasts for Newbie Devs](https://dev.to/evergrowingdev/7-best-podcasts-for-newbie-devs-ngk)
+- [Learning Rust: Grasping the concepts](https://dev.to/link2twenty/learning-rust-grasping-the-concepts-okm)
+- [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
+- [The Future of Personal AI](https://dev.to/tbdevs/the-future-of-personal-ai-3gc9)
+- [How to Upload Files to Amazon S3 with React and AWS SDK](https://dev.to/aws-builders/how-to-upload-files-to-amazon-s3-with-react-and-aws-sdk-b0n)
 <!-- BLOG-POST-LIST:END -->
 
