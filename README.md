@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Some great new posts from new authors in February 💞](https://dev.to/devteam/some-great-new-posts-from-new-authors-in-february-5em1)
-- [Getting Started with SubQuery Managed Service](https://dev.to/yunggenius/getting-started-with-subquery-managed-service-2eb2)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
-- [Getting Started with CloudBees Flow Metrics](https://dev.to/jdpiland6/getting-started-with-cloudbees-flow-metrics-18nh)
+- [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
+- [DNS -The gatekeeper 24/7 of the internet - Part 1](https://dev.to/locnguyenpv/dns-the-gatekeeper-247-of-the-internet-part-1-282k)
+- [como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
+- [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
 <!-- BLOG-POST-LIST:END -->
 
