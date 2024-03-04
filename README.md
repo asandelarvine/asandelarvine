@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflection on Tools, AI, and the Role of System Design](https://dev.to/shreyvijayvargiya/reflection-on-tools-ai-and-the-role-of-system-design-1ci4)
+- [Building a VoIP Network with Routr on DigitalOcean Kubernetes: Part I](https://dev.to/fonoster/building-a-voip-network-with-routr-on-digitalocean-kubernetes-part-i-f8n)
+- [Key derivation in .NET using HKDF](https://dev.to/asimmon/key-derivation-in-net-using-hkdf-2g36)
 - [Meteor v3 uses express under the hood – How to use and deploy it.](https://dev.to/meteor/meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n)
-- [Data Structures and Null Safety in Dart - Part 4](https://dev.to/sadanandgadwal/data-structures-and-null-safety-in-dart-part-4-1oih)
-- [Using Natural Language Processing for Ad Campaign Analysis](https://dev.to/andrewupton/using-natural-language-processing-for-ad-campaign-analysis-1ff4)
-- [What Are Your Geniuses?](https://dev.to/wraith/what-are-your-geniuses-23ai)
 <!-- BLOG-POST-LIST:END -->
 
