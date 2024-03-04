@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Olympics score website with WordPress](https://dev.to/rs_rashid/olympics-score-website-with-wordpress-2a9f)
-- [Best alternative of Fiverr and Upwork for freelancers](https://dev.to/hashirdev/best-platform-for-freelancers-3kfk)
-- [Adding passkeys to a Remix App](https://dev.to/hanko/adding-passkeys-to-a-remix-app-31f1)
-- [How to overcome writer&#39;s block as a developer blogger?](https://dev.to/tamerlang/how-to-overcome-writers-block-as-a-developer-blogger-5eco)
+- [Meteor v3 uses express under the hood – How to use and deploy it.](https://dev.to/meteor/meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n)
+- [Data Structures and Null Safety in Dart - Part 4](https://dev.to/sadanandgadwal/data-structures-and-null-safety-in-dart-part-4-1oih)
+- [Using Natural Language Processing for Ad Campaign Analysis](https://dev.to/andrewupton/using-natural-language-processing-for-ad-campaign-analysis-1ff4)
+- [What Are Your Geniuses?](https://dev.to/wraith/what-are-your-geniuses-23ai)
 <!-- BLOG-POST-LIST:END -->
 
