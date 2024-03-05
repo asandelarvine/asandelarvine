@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [6 System Design Interview Problems for Practice](https://dev.to/somadevtoo/6-system-design-interview-problems-for-practice-4fl8)
 - [Actually, you will never be able to master Python](https://dev.to/esproc_spl/actually-you-will-never-be-able-to-master-python-3243)
+- [Master Real-Time Fraud Detection with Azure Stream Analytics](https://dev.to/balramprasad/master-real-time-fraud-detection-with-azure-stream-analytics-38d9)
 - [Running custom Artisan commands with Supervisor](https://dev.to/geoligard/running-custom-artisan-commands-with-supervisor-p1k)
-- [I don&#39;t get the point of Golang - That&#39;s why I need help](https://dev.to/lucaschitolina/i-dont-get-the-point-of-golang-thats-why-i-need-help-2f7j)
-- [Scaling GraphQL Subscriptions in Go with Epoll and Event Driven Architecture](https://dev.to/slickstef11/scaling-graphql-subscriptions-in-go-with-epoll-and-event-driven-architecture-4i7)
 <!-- BLOG-POST-LIST:END -->
 
