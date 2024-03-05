@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL vs NoSQL: Which to Choose?](https://dev.to/marmariadev/sql-vs-nosql-which-to-choose-4068)
-- [Why Linux 6.8 Networking Updates are a Big Deal](https://dev.to/alex_escalante/why-linux-68-networking-updates-are-a-big-deal-177f)
-- [pyaction 4.29.0 Released](https://dev.to/cicirello/pyaction-4290-released-4hj5)
-- [UX Crash Course: Usability Heuristics](https://dev.to/kathryngrayson/ux-crash-course-usability-heuristics-1b3d)
+- [Important efficiency lessons when writing for devs! ✍️](https://dev.to/developuls/important-efficiency-lessons-when-writing-for-devs-3d85)
+- [Expo AVD &lpar;Android Virtual Device&rpar; on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-avd-android-virtual-device-on-windows-subsystem-for-linux-wsl2-4d8n)
+- [Expo QR code on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-qr-code-on-windows-subsystem-for-linux-wsl2-1bjf)
+- [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)
 <!-- BLOG-POST-LIST:END -->
 
