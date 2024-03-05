@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Important efficiency lessons when writing for devs! ✍️](https://dev.to/developuls/important-efficiency-lessons-when-writing-for-devs-3d85)
-- [Expo AVD &lpar;Android Virtual Device&rpar; on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-avd-android-virtual-device-on-windows-subsystem-for-linux-wsl2-4d8n)
-- [Expo QR code on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-qr-code-on-windows-subsystem-for-linux-wsl2-1bjf)
-- [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)
+- [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
+- [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
+- [Becoming an AWS and Google Authorised Trainer](https://dev.to/aws-builders/becoming-an-aws-and-google-authorised-trainer-407j)
+- [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
 <!-- BLOG-POST-LIST:END -->
 
