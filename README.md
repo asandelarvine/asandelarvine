@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ORM vs No ORM: Which to Choose?](https://dev.to/marmariadev/orm-vs-no-orm-which-to-choose-49e5)
+- [ORM vs No ORM: ¿Cuál Elegir?](https://dev.to/marmariadev/orm-vs-no-orm-cual-elegir-2j91)
+- [Giving your app a temporary public URL with VS Code port forwarding](https://dev.to/codepo8/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding-177c)
 - [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
-- [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
-- [Becoming an AWS and Google Authorised Trainer](https://dev.to/aws-builders/becoming-an-aws-and-google-authorised-trainer-407j)
-- [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
 <!-- BLOG-POST-LIST:END -->
 
