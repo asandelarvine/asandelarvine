@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflection In C#: 4 Simple But Powerful Code Examples](https://dev.to/devleader/reflection-in-c-4-simple-but-powerful-code-examples-l85)
-- [Simplify Configuration Management for Efficient Cloud Operations](https://dev.to/nwhitmont/simplify-configuration-management-for-efficient-cloud-operations-3g1h)
-- [👀 A developer’s overview of SubQuery](https://dev.to/denitech/a-developers-overview-of-subquery-2g3p)
-- [Generating Random Numbers Between 1 and 100 in Java](https://dev.to/meenakshi052003/generating-random-numbers-between-1-and-100-in-java-i3b)
+- [SQL vs NoSQL: Which to Choose?](https://dev.to/marmariadev/sql-vs-nosql-which-to-choose-4068)
+- [Why Linux 6.8 Networking Updates are a Big Deal](https://dev.to/alex_escalante/why-linux-68-networking-updates-are-a-big-deal-177f)
+- [pyaction 4.29.0 Released](https://dev.to/cicirello/pyaction-4290-released-4hj5)
+- [UX Crash Course: Usability Heuristics](https://dev.to/kathryngrayson/ux-crash-course-usability-heuristics-1b3d)
 <!-- BLOG-POST-LIST:END -->
 
