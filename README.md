@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing a Flutter App from 0 to 1](https://dev.to/happyer/developing-a-flutter-app-from-0-to-1-35dp)
-- [Empowering Cloud-Native Platforms: The Synergy of KCL and Crossplane](https://dev.to/peefy/empowering-cloud-native-platforms-the-synergy-of-kcl-and-crossplane-3dgd)
-- [Two SharePoint Embedded Architectures You Must Know About](https://dev.to/jaloplo/dont-miss-out-on-these-two-sharepoint-embedded-architectures-you-can-use-as-a-developer-3j90)
-- [The Power of Daily Planning and Emojis! 🚀📅](https://dev.to/madzimai/the-power-of-daily-planning-and-emojis-43fg)
+- [Top 4 Open Source Alternatives to Zapier](https://dev.to/stan8086/top-4-open-source-alternatives-to-zapier-43bp)
+- [7 Programming Languages Every Cloud Engineer Should Know in 2024!](https://dev.to/pavanbelagatti/7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd)
+- [Tableau Dashboard](https://dev.to/kammarianand/tableau-dashboard-31e2)
+- [WIFI32](https://dev.to/sypher/wifi32-3cn6)
 <!-- BLOG-POST-LIST:END -->
 
