@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master detail is now available in Infinite React DataGrid](https://dev.to/radubrehar/master-detail-is-now-available-in-infinite-react-datagrid-5fe1)
-- [Skill issue: How to Master anything 10x faster, without looking stupid](https://dev.to/drpraze/skill-issue-how-to-master-anything-10x-faster-without-looking-stupid-2hj4)
-- [Next.js: App Router vs Pages Router](https://dev.to/dcs_ink/nextjs-app-router-vs-pages-router-3p57)
-- [Protect Your AWS EC2 Private Key with a Yubico Static Password](https://dev.to/eflintdev/protect-your-aws-ec2-private-key-with-a-yubico-static-password-1oi)
+- [Elanat Competes with Microsoft; CodeBehind 2.4 Released](https://dev.to/elanatframework/elanat-competes-with-microsoft-codebehind-24-released-54mc)
+- [Unveiling the Anatomy of a Stellar Landing Page Experience](https://dev.to/hyscaler/unveiling-the-anatomy-of-a-stellar-landing-page-experience-1d34)
+- [Three heavy metal songs that will teach you about privacy.](https://dev.to/bogomil/three-heavy-metal-songs-that-will-teach-you-about-privacy-298g)
+- [How to Understand a Large Codebase Like a Pro](https://dev.to/jitendrachoudhary/how-to-understand-a-large-codebase-like-a-pro-hmb)
 <!-- BLOG-POST-LIST:END -->
 
