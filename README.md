@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ Introducing Publish Studio](https://dev.to/itsrakesh/introducing-publish-studio-1403)
+- [AWS Arsenal: An array of Cloud Services](https://dev.to/web3vicky/aws-arsenal-an-array-of-cloud-services-4k1o)
 - [6 System Design Interview Problems for Practice](https://dev.to/somadevtoo/6-system-design-interview-problems-for-practice-4fl8)
 - [Actually, you will never be able to master Python](https://dev.to/esproc_spl/actually-you-will-never-be-able-to-master-python-3243)
-- [Master Real-Time Fraud Detection with Azure Stream Analytics](https://dev.to/balramprasad/master-real-time-fraud-detection-with-azure-stream-analytics-38d9)
-- [Running custom Artisan commands with Supervisor](https://dev.to/geoligard/running-custom-artisan-commands-with-supervisor-p1k)
 <!-- BLOG-POST-LIST:END -->
 
