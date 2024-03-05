@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Future: Your Web App With ChatGPT, React JS, and Node.js ⚛️ 🔥 🚀](https://dev.to/nluxai/unlock-the-future-your-web-app-with-chatgpt-react-js-and-nodejs-23on)
+- [What are the best and worst things about your favorite programming language?](https://dev.to/ben/what-are-the-best-and-worst-things-about-your-favorite-programming-language-1o95)
 - [Elanat Competes with Microsoft; CodeBehind 2.4 Released](https://dev.to/elanatframework/elanat-competes-with-microsoft-codebehind-24-released-54mc)
-- [Unveiling the Anatomy of a Stellar Landing Page Experience](https://dev.to/hyscaler/unveiling-the-anatomy-of-a-stellar-landing-page-experience-1d34)
 - [Three heavy metal songs that will teach you about privacy.](https://dev.to/bogomil/three-heavy-metal-songs-that-will-teach-you-about-privacy-298g)
-- [How to Understand a Large Codebase Like a Pro](https://dev.to/jitendrachoudhary/how-to-understand-a-large-codebase-like-a-pro-hmb)
 <!-- BLOG-POST-LIST:END -->
 
