@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Introducing Publish Studio](https://dev.to/itsrakesh/introducing-publish-studio-1403)
-- [AWS Arsenal: An array of Cloud Services](https://dev.to/web3vicky/aws-arsenal-an-array-of-cloud-services-4k1o)
-- [6 System Design Interview Problems for Practice](https://dev.to/somadevtoo/6-system-design-interview-problems-for-practice-4fl8)
-- [Actually, you will never be able to master Python](https://dev.to/esproc_spl/actually-you-will-never-be-able-to-master-python-3243)
+- [Developing a Flutter App from 0 to 1](https://dev.to/happyer/developing-a-flutter-app-from-0-to-1-35dp)
+- [Empowering Cloud-Native Platforms: The Synergy of KCL and Crossplane](https://dev.to/peefy/empowering-cloud-native-platforms-the-synergy-of-kcl-and-crossplane-3dgd)
+- [Two SharePoint Embedded Architectures You Must Know About](https://dev.to/jaloplo/dont-miss-out-on-these-two-sharepoint-embedded-architectures-you-can-use-as-a-developer-3j90)
+- [The Power of Daily Planning and Emojis! 🚀📅](https://dev.to/madzimai/the-power-of-daily-planning-and-emojis-43fg)
 <!-- BLOG-POST-LIST:END -->
 
