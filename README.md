@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
 - [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
 - [Announcing TechSchool: A free and open-source platform to learn programming](https://dev.to/danielbergholz/announcing-techschool-a-free-and-open-source-platform-to-learn-programming-47fk)
-- [How to deploy a Filament app](https://dev.to/serverauth/how-to-deploy-a-filament-app-21i2)
+- [The value of live web design](https://dev.to/huijing/the-value-of-live-web-design-2b32)
 <!-- BLOG-POST-LIST:END -->
 
