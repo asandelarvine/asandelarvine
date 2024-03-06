@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Material UI vs. Chakra UI: Which One to Choose?](https://dev.to/codeparrot/material-ui-vs-chakra-ui-which-one-to-choose-14f4)
+- [ProductHunt is a Pump&#39;n&#39;Dump Scheme](https://dev.to/polterguy/producthunt-is-a-pumpndump-scheme-499i)
+- [Being a First-Time Mom in Developer Relations](https://dev.to/vonagedev/being-a-first-time-mom-in-developer-relations-549n)
 - [Stream LLM Responses from Cache](https://dev.to/portkey/stream-llm-responses-from-cache-5f5o)
-- [C++ Урок #2](https://dev.to/islombek/urok-2-25j7)
-- [Open Source Models for your next AI use-case](https://dev.to/portkey/open-source-models-for-your-next-ai-use-case-4le6)
-- [C++ Урок #1](https://dev.to/islombek/c-piervyi-urok-2l46)
 <!-- BLOG-POST-LIST:END -->
 
