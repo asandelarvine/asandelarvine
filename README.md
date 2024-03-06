@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
-- [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
-- [Day 920 : Request](https://dev.to/dwane/day-920-request-1g0i)
-- [Announcing TechSchool: A free and open-source platform to learn programming](https://dev.to/danielbergholz/announcing-techschool-a-free-and-open-source-platform-to-learn-programming-47fk)
+- [Next.js: The Future Of React?](https://dev.to/arjuncodess/nextjs-the-future-of-react-2cmc)
+- [APIMatic SDKs in Backstage Developer Portal](https://dev.to/apimatic/apimatic-sdks-in-backstage-developer-portal-3od)
+- [What Time is it?](https://dev.to/mwlang/what-time-is-it-5hhm)
+- [LGPD para devs](https://dev.to/t4inha/lgpd-para-devs-mk0)
 <!-- BLOG-POST-LIST:END -->
 
