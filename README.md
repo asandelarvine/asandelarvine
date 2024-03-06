@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Postgres with Docker on a Mac](https://dev.to/rudolfolah/using-postgres-with-docker-on-a-mac-5633)
-- [To Polyfill Or Not To Polyfill.io](https://dev.to/schalkneethling/to-polyfill-or-not-to-polyfillio-5ggd)
-- [SubQuery Network : the Future of Decentralized Web3 Infrastructure](https://dev.to/vanshikasrivastava/subquery-network-the-future-of-decentralized-web3-infrastructure-37i8)
-- [Introducing Zapier Central: Work Hand in Hand with AI Bots](https://dev.to/stan8086/introducing-zapier-central-work-hand-in-hand-with-ai-bots-468h)
+- [Ending the war or continuing it? Let&#39;s bring functional programming to OOP codebases](https://dev.to/cherryramatis/ending-the-war-or-continuing-it-lets-bring-functional-programming-to-oop-codebases-3mhd)
+- [The Importance Of Documentation](https://dev.to/olibhiaghosh/the-importance-of-documentation-527m)
+- [WMI ve Uzaktan Erişim](https://dev.to/aciklab/wmi-ve-uzaktan-erisim-1hg2)
+- [How to undo a git push](https://dev.to/sankeeth/how-to-undo-a-git-push-7m6)
 <!-- BLOG-POST-LIST:END -->
 
