@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Postgres with Docker on a Mac](https://dev.to/rudolfolah/using-postgres-with-docker-on-a-mac-5633)
+- [To Polyfill Or Not To Polyfill.io](https://dev.to/schalkneethling/to-polyfill-or-not-to-polyfillio-5ggd)
+- [SubQuery Network : the Future of Decentralized Web3 Infrastructure](https://dev.to/vanshikasrivastava/subquery-network-the-future-of-decentralized-web3-infrastructure-37i8)
 - [Introducing Zapier Central: Work Hand in Hand with AI Bots](https://dev.to/stan8086/introducing-zapier-central-work-hand-in-hand-with-ai-bots-468h)
-- [Let&#39;s Play Snyk 🐶](https://dev.to/damikaanupama/lets-play-snyk-4h87)
-- [Python Coding Best Practices for Beginners](https://dev.to/testsuya/python-coding-best-practices-for-beginners-1l3a)
-- [How to Nail the Elevator Pitch](https://dev.to/evansifyke/how-to-nail-the-elevator-pitch-55la)
 <!-- BLOG-POST-LIST:END -->
 
