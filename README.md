@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing RFCs](https://dev.to/carloscuesta/writing-rfcs-2mb5)
+- [Top Paying Programming Technologies 2024](https://dev.to/brojenuel/top-paying-programming-technologies-2024-5dmf)
+- [Tailwind | Custom Plugins](https://dev.to/shubhamtiwari909/tailwind-custom-plugins-1159)
 - [Birinchi Dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-4666)
-- [C++](https://dev.to/sunnat2009/c-3ed9)
-- [switch statement](https://dev.to/asliddin0737/switch-statement-5b6f)
-- [7 Web Development Stacks You Should Know in 2024!](https://dev.to/pavanbelagatti/7-web-development-stacks-you-should-know-in-2024-25eb)
 <!-- BLOG-POST-LIST:END -->
 
