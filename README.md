@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
+- [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
+- [Announcing TechSchool: A free and open-source platform to learn programming](https://dev.to/danielbergholz/announcing-techschool-a-free-and-open-source-platform-to-learn-programming-47fk)
 - [How to deploy a Filament app](https://dev.to/serverauth/how-to-deploy-a-filament-app-21i2)
-- [Celebrando un hitó nuevo: Mi viaje hacia el Programa Microsoft MVP](https://dev.to/danieljsaldana/celebrando-un-hito-nuevo-mi-viaje-hacia-el-programa-microsoft-mvp-4kfa)
-- [ORM vs Pure SQL: Which to Choose?](https://dev.to/marmariadev/orm-vs-no-orm-which-to-choose-49e5)
-- [ORM vs SQL Puro: ¿Cuál Elegir?](https://dev.to/marmariadev/orm-vs-no-orm-cual-elegir-2j91)
 <!-- BLOG-POST-LIST:END -->
 
