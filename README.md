@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [23 Best VS Code Themes in 2024](https://dev.to/ikoichi/23-best-vs-code-themes-in-2024-45g1)
+- [+10 Resources to Empower Women in Technology](https://dev.to/marisogo/10-resources-to-empower-women-in-technology-2m6n)
+- [Mastering Productivity with Apple’s iWork Suite](https://dev.to/stan8086/mastering-productivity-with-apples-iwork-suite-325o)
 - [Test automation for AutoCAD Web using Playwright and visual comparison](https://dev.to/chavus/test-automation-for-autocad-web-using-playwright-and-visual-comparison-1kfk)
-- [ExpressoTS Middleware &amp; Controller](https://dev.to/expressots/expressots-middleware-controller-363c)
-- [AI Trash is Destroying the Web](https://dev.to/polterguy/ai-trash-is-destroying-the-web-5d3k)
-- [Difference b/w height 100% and 100vh](https://dev.to/sh20raj/difference-bw-height-100-and-100vh-52kl)
 <!-- BLOG-POST-LIST:END -->
 
