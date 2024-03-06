@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ExpressoTS Middleware &amp; Controller](https://dev.to/expressots/expressots-middleware-controller-363c)
+- [Difference b/w height 100% and 100vh](https://dev.to/sh20raj/difference-bw-height-100-and-100vh-52kl)
+- [Predictive Fraud Protection](https://dev.to/microai/predictive-fraud-protection-1g32)
 - [AI vs. ML vs. DL vs. DS: A Layman&#39;s Guide](https://dev.to/thenomadevel/ai-vs-ml-vs-dl-vs-ds-a-laymans-guide-355a)
-- [Firebase vs Supabase](https://dev.to/codeparrot/firebase-vs-supabase-4770)
-- [Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API](https://dev.to/sachinchaurasiya/building-a-sql-expert-bot-a-step-by-step-guide-with-vercel-ai-sdk-and-openai-api-2oap)
-- [Statistical Essentials for Data Analysts: A Beginner&#39;s Guide](https://dev.to/kammarianand/statistical-essentials-for-data-analysts-a-beginners-guide-3l17)
 <!-- BLOG-POST-LIST:END -->
 
