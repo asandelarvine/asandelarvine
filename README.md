@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Interactive Data Visualizations with D3.js](https://dev.to/webjoe/creating-interactive-data-visualizations-with-d3js-2i08)
-- [Local automation](https://dev.to/aws-builders/local-automation-1hb4)
-- [Vue3: how to declare reactive states](https://dev.to/sucodelarangela/vue3-how-to-declare-reactive-states-18hc)
-- [Introduction to Cloud Computing: The Models, Benefits, Risks, Implementation and Popular Tools](https://dev.to/oluwatobi2001/introduction-to-cloud-computing-the-models-benefits-risks-implementation-and-popular-tools-2loh)
+- [The Power of Abstract Thinking](https://dev.to/ranjancse/the-power-of-abstract-thinking-2cjo)
+- [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
+- [How to Integrate YouTube Videos into React Applications](https://dev.to/michaellarocca/how-to-integrate-youtube-videos-into-react-applications-8i0)
+- [What ExpressoTS is?](https://dev.to/rsaz/what-expressots-is-4iho)
 <!-- BLOG-POST-LIST:END -->
 
