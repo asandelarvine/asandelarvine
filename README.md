@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🔟 Things You Must Not Do In Frontend Development](https://dev.to/arjuncodess/things-you-must-not-do-in-frontend-development-294h)
 - [Python Tips &amp; Tricks Day 1](https://dev.to/ahmed__elboshi/python-tips-tricks-day-1-4oge)
 - [htmx chat](https://dev.to/sudo-self/htmx-chat-2bn3)
 - [Discrete Maths for Devs: An brief introduction to Mathematical Logic](https://dev.to/criskell/discrete-maths-for-devs-an-brief-introduction-to-mathematical-logic-3djc)
-- [AWS To Provide Free Data Transfer Out To Internet](https://dev.to/aws-builders/aws-to-provide-free-data-transfer-out-to-internet-4beo)
 <!-- BLOG-POST-LIST:END -->
 
