@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What capabilities are essential for someone to be considered a full-stack developer?](https://dev.to/hikarimaeda/what-capabilities-are-essential-for-someone-to-be-considered-a-full-stack-developer-2l98)
+- [Optimizing Image Display with Blur Placeholder and Lazyload](https://dev.to/hoaitx/optimizing-image-display-with-blur-placeholder-and-lazyload-3do5)
+- [Starting again as a dev student and working as tech writer](https://dev.to/_michellemello/starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1)
 - [Awesome Border Animation Effects using CSS](https://dev.to/robsonmuniz16/awesome-border-animation-effects-using-css-3jl7)
-- [we_coded: Outsider Insights](https://dev.to/erinao/wecoded-outsider-insights-4ebb)
-- [What you need to know before learning React](https://dev.to/sebastian9995/what-you-need-to-know-before-learning-react-1833)
-- [Why Sugar.css grid is so revolutionary?](https://dev.to/rezi/why-sugarcss-grid-is-so-revolutionary-1b66)
 <!-- BLOG-POST-LIST:END -->
 
