@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Kotlin Scripting to Python](https://dev.to/nfrankel/from-kotlin-scripting-to-python-8la)
+- [Why I stopped using IM platforms for communication and only use email](https://dev.to/shailennaidoo/why-i-stop-using-im-platforms-for-communication-and-only-use-email-2jd2)
+- [How I do technology watch](https://dev.to/k_petrem/how-i-do-technology-watch-lmf)
 - [Descubre el futuro de la tecnología: Especialízate en inteligencia artificial con Microsoft Learn](https://dev.to/danieljsaldana/descubre-el-futuro-de-la-tecnologia-especializate-en-inteligencia-artificial-con-microsoft-learn-b2d)
-- [Why Your App Should Have Both Dark And Light Themes](https://dev.to/eevajonnapanula/why-your-app-should-have-both-dark-and-light-themes-563e)
-- [Javascript | String Methods](https://dev.to/shubhamtiwari909/javascript-string-methods-bfe)
-- [Ash Calculations - Cond](https://dev.to/neophen/ash-calculations-cond-2ecn)
 <!-- BLOG-POST-LIST:END -->
 
