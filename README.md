@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ Урок #5](https://dev.to/islombek/c-urok-5-3jma)
+- [Scalable REST APIs with NestJS: A Testing-Driven Approach](https://dev.to/codexam/scalable-rest-apis-with-nestjs-a-testing-driven-approach-1i9k)
 - [From Kotlin Scripting to Python](https://dev.to/nfrankel/from-kotlin-scripting-to-python-8la)
 - [Why I stopped using IM platforms for communication and only use email](https://dev.to/shailennaidoo/why-i-stop-using-im-platforms-for-communication-and-only-use-email-2jd2)
-- [How I do technology watch](https://dev.to/k_petrem/how-i-do-technology-watch-lmf)
-- [Descubre el futuro de la tecnología: Especialízate en inteligencia artificial con Microsoft Learn](https://dev.to/danieljsaldana/descubre-el-futuro-de-la-tecnologia-especializate-en-inteligencia-artificial-con-microsoft-learn-b2d)
 <!-- BLOG-POST-LIST:END -->
 
