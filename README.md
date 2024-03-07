@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Descubre el futuro de la tecnología: Especialízate en inteligencia artificial con Microsoft Learn](https://dev.to/danieljsaldana/descubre-el-futuro-de-la-tecnologia-especializate-en-inteligencia-artificial-con-microsoft-learn-b2d)
+- [Why Your App Should Have Both Dark And Light Themes](https://dev.to/eevajonnapanula/why-your-app-should-have-both-dark-and-light-themes-563e)
 - [Javascript | String Methods](https://dev.to/shubhamtiwari909/javascript-string-methods-bfe)
-- [Python Database Connectivity and SQL Basics for EDA 🐍📊](https://dev.to/kammarianand/python-database-connectivity-and-sql-basics-for-eda-22cf)
-- [#Microservices in Nodejs](https://dev.to/tanmaycode/microservices-in-nodejs-24fg)
-- [A Simple CRUD app With GraphQL, Apollo Server, MongoDB, and Express](https://dev.to/fredabod/a-simple-crud-app-with-graphql-apollo-server-mongodb-and-express-227f)
+- [Ash Calculations - Cond](https://dev.to/neophen/ash-calculations-cond-2ecn)
 <!-- BLOG-POST-LIST:END -->
 
