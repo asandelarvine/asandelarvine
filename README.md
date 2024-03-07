@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [There will be no Programmers in 5 years](https://dev.to/sufian/there-will-be-no-programmers-in-5-years-2o61)
-- [Gemini VS ChatGPT](https://dev.to/eaca89/gemini-vs-chatgpt-31ib)
-- [Storybook setup: Virtual Screen Reader with Web Components](https://dev.to/scottnath/storybook-setup-virtual-screen-reader-with-web-components-1h6p)
-- [Why do We Need Databases and SQL?](https://dev.to/alejandro_du/why-do-we-need-databases-and-sql-1loa)
+- [Why choose ViewComponent over Rails partials](https://dev.to/railsdesigner/why-choose-viewcomponent-over-rails-partials-10lb)
+- [What structure, operator or other thing do you use most in your daily development?](https://dev.to/renancferro/what-structure-operator-or-other-thing-do-you-use-most-in-your-daily-development-5303)
+- [Supercharge Your Productivity with Ollama + Open Web UI and Large Language Models](https://dev.to/tylerjrbuell/supercharge-your-productivity-with-ollama-open-web-ui-and-large-language-models-51eo)
+- [10 JavaScript Tricky Hacks - Part 1](https://dev.to/sayuj/10-javascript-tricky-hacks-part-1-52dl)
 <!-- BLOG-POST-LIST:END -->
 
