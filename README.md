@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a macOS calculator layout](https://dev.to/phuocng/create-a-macos-calculator-layout-1332)
+- [Improve App Bundle Size with Import Cost](https://dev.to/michaeljolley/improve-app-bundle-size-with-import-cost-1mh5)
 - [The Power of Abstract Thinking](https://dev.to/ranjancse/the-power-of-abstract-thinking-2cjo)
 - [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
-- [How to Integrate YouTube Videos into React Applications](https://dev.to/michaellarocca/how-to-integrate-youtube-videos-into-react-applications-8i0)
-- [What ExpressoTS is?](https://dev.to/rsaz/what-expressots-is-4iho)
 <!-- BLOG-POST-LIST:END -->
 
