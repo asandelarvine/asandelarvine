@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript LLM Development: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
 - [Is Claude Self Aware](https://dev.to/cheetah100/is-claude-self-aware-1cgj)
 - [Happy 107th Birthday, Betty Holberton! 🎉](https://dev.to/jess/happy-107th-birthday-betty-holberton-1547)
-- [Why choose ViewComponent over Rails partials](https://dev.to/railsdesigner/why-choose-viewcomponent-over-rails-partials-10lb)
-- [What structure, operator or other thing do you use most in your daily development?](https://dev.to/renancferro/what-structure-operator-or-other-thing-do-you-use-most-in-your-daily-development-5303)
+- [A diferença entre desenvolvedor júnior, pleno e sênior na minha opinião [PT-BR]](https://dev.to/andredarcie/a-diferenca-entre-desenvolvedor-junior-pleno-e-senior-na-minha-opiniao-pt-br-659)
 <!-- BLOG-POST-LIST:END -->
 
