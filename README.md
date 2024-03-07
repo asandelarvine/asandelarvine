@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [There will be no Programmers in 5 years](https://dev.to/sufian/there-will-be-no-programmers-in-5-years-2o61)
 - [Gemini VS ChatGPT](https://dev.to/eaca89/gemini-vs-chatgpt-31ib)
+- [Storybook setup: Virtual Screen Reader with Web Components](https://dev.to/scottnath/storybook-setup-virtual-screen-reader-with-web-components-1h6p)
 - [Why do We Need Databases and SQL?](https://dev.to/alejandro_du/why-do-we-need-databases-and-sql-1loa)
-- [Building a Copilot Code-First with Azure AI](https://dev.to/azure/building-a-copilot-code-first-with-azure-ai-443l)
-- [What capabilities are essential for someone to be considered a full-stack developer?](https://dev.to/hikarimaeda/what-capabilities-are-essential-for-someone-to-be-considered-a-full-stack-developer-2l98)
 <!-- BLOG-POST-LIST:END -->
 
