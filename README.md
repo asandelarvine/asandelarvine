@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Despídete del pasado y moderniza tu Mainframe con AWS](https://dev.to/aws-espanol/despidete-del-pasado-y-moderniza-tu-mainframe-con-aws-12bl)
+- [How I made Infinite Craft a multiplayer game with a few lines of code](https://dev.to/vtnorton/how-i-made-infinite-craft-a-multiplayer-game-with-a-few-lines-of-code-4ne7)
+- [Importance of Continuous Testing in DevOps](https://dev.to/vijayashree44/importance-of-continuous-testing-in-devops-3397)
 - [Groovy 🎷 Cheat Sheet - 01 Say &quot;Hello&quot; from Groovy](https://dev.to/fadygrab/groovy-cheat-sheet-01-say-hello-from-groovy-11ge)
-- [What is Oracle Redwood? All You Need to Know](https://dev.to/johnste39558689/what-is-oracle-redwood-all-you-need-to-know-328l)
-- [Want to become a Professional Organiser?](https://dev.to/atidymind/want-to-become-a-professional-organiser-2gik)
-- [Kotlin Koans BR: Classes Seladas](https://dev.to/rsicarelli/kotlin-koans-br-classes-seladas-50m0)
 <!-- BLOG-POST-LIST:END -->
 
