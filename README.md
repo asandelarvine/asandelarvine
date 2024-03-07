@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Урок #5](https://dev.to/islombek/c-urok-5-3jma)
-- [Scalable REST APIs with NestJS: A Testing-Driven Approach](https://dev.to/codexam/scalable-rest-apis-with-nestjs-a-testing-driven-approach-1i9k)
-- [From Kotlin Scripting to Python](https://dev.to/nfrankel/from-kotlin-scripting-to-python-8la)
-- [Why I stopped using IM platforms for communication and only use email](https://dev.to/shailennaidoo/why-i-stop-using-im-platforms-for-communication-and-only-use-email-2jd2)
+- [Groovy 🎷 Cheat Sheet - 01 Say &quot;Hello&quot; from Groovy](https://dev.to/fadygrab/groovy-cheat-sheet-01-say-hello-from-groovy-11ge)
+- [What is Oracle Redwood? All You Need to Know](https://dev.to/johnste39558689/what-is-oracle-redwood-all-you-need-to-know-328l)
+- [Want to become a Professional Organiser?](https://dev.to/atidymind/want-to-become-a-professional-organiser-2gik)
+- [Kotlin Koans BR: Classes Seladas](https://dev.to/rsicarelli/kotlin-koans-br-classes-seladas-50m0)
 <!-- BLOG-POST-LIST:END -->
 
