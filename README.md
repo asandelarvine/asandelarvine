@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do We Need Databases and SQL?](https://dev.to/alejandro_du/why-do-we-need-databases-and-sql-1loa)
+- [Building a Copilot Code-First with Azure AI](https://dev.to/azure/building-a-copilot-code-first-with-azure-ai-443l)
 - [What capabilities are essential for someone to be considered a full-stack developer?](https://dev.to/hikarimaeda/what-capabilities-are-essential-for-someone-to-be-considered-a-full-stack-developer-2l98)
 - [Optimizing Image Display with Blur Placeholder and Lazyload](https://dev.to/hoaitx/optimizing-image-display-with-blur-placeholder-and-lazyload-3do5)
-- [Starting again as a dev student and working as tech writer](https://dev.to/_michellemello/starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1)
-- [Awesome Border Animation Effects using CSS](https://dev.to/robsonmuniz16/awesome-border-animation-effects-using-css-3jl7)
 <!-- BLOG-POST-LIST:END -->
 
