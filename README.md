@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Battle of Database Storage: Row-Oriented vs. Columnar](https://dev.to/contactsunny/understanding-the-battle-of-database-storage-row-oriented-vs-columnar-ggp)
-- [Developers, Meet Your New Partner: AI](https://dev.to/orix/developers-meet-your-new-partner-ai-2nam)
-- [Handling API Errors Safely with a Wrapper Function](https://dev.to/woovi/handling-api-errors-safely-with-a-wrapper-function-5358)
-- [Por que é vital aprender a dizer não no ambiente profissional](https://dev.to/kecbm/por-que-e-vital-aprender-a-dizer-nao-no-ambiente-profissional-cc3)
+- [Celebrate International Women&#39;s Day with New Swag &amp; A Sweet Surprise 💖](https://dev.to/devteam/we-made-wecoded-merch-51ic)
+- [The GitHub Community Roundup: 03-08-24](https://dev.to/github/the-github-community-roundup-03-08-24-4ffo)
+- [Exploring local-first development](https://dev.to/dandavey/exploring-local-first-development-41a2)
+- [Exploring Thunder Client: A Powerful Postman Alternative](https://dev.to/sh20raj/exploring-thunder-client-a-powerful-postman-alternative-37ci)
 <!-- BLOG-POST-LIST:END -->
 
