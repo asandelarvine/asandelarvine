@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Snake...in pure HTML⁉️ [no JS, no CSS, no images!!] 😱](https://dev.to/grahamthedev/snakein-pure-html-no-js-no-css-no-images-2ccg)
+- [Build Wikipedia Clone with React JS - Full Project with Wiki API](https://dev.to/imrankh13332994/build-wikipedia-clone-with-react-js-full-project-with-wiki-api-40bp)
 - [Dissecting layered architecture](https://dev.to/yokwejuste/dissecting-layered-architecture-2ppb)
 - [Virtual in C#: How to Use it?](https://dev.to/bytehide/virtual-in-c-how-to-use-it-5gp8)
-- [Create a Gantt chart](https://dev.to/phuocng/create-a-gantt-chart-305e)
-- [Open Telemetry: Observing and Monitoring Applications](https://dev.to/sosalejandro/open-telemetry-observing-and-monitoring-applications-5gni)
 <!-- BLOG-POST-LIST:END -->
 
