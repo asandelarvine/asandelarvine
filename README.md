@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To OOP: Objects](https://dev.to/akuoko_konadu/introduction-to-oop-objects-22p2)
-- [Calling for Shout Outs on International Women&#39;s Day!](https://dev.to/devteam/calling-for-shout-outs-on-international-womens-day-3fj0)
-- [I&#39;m Still Not One of the Guys](https://dev.to/eevajonnapanula/im-still-not-one-of-the-guys-19e1)
-- [4 Things All EXCEPTIONAL Programmers Have in Common 🎯💡](https://dev.to/arjuncodess/4-things-all-exceptional-programmers-have-in-common-m43)
+- [Developing Android Apps from 0 to 1](https://dev.to/happyer/developing-android-apps-from-0-to-1-8no)
+- [Unlocking the Potential: A Comprehensive Review of Top AI Tools Directories](https://dev.to/dariubs/unlocking-the-potential-a-comprehensive-review-of-top-ai-tools-directories-c4b)
+- [My New Portfolio!](https://dev.to/arjuncodess/my-new-portfolio-1h0d)
+- [International Women&#39;s Day 2024](https://dev.to/aws-heroes/international-womens-day-2024-21fp)
 <!-- BLOG-POST-LIST:END -->
 
