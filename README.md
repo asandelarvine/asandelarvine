@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Development with JavaScript: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
-- [Is Claude Self Aware](https://dev.to/cheetah100/is-claude-self-aware-1cgj)
-- [Happy 107th Birthday, Betty Holberton! 🎉](https://dev.to/jess/happy-107th-birthday-betty-holberton-1547)
-- [A diferença entre desenvolvedor júnior, pleno e sênior na minha opinião [PT-BR]](https://dev.to/andredarcie/a-diferenca-entre-desenvolvedor-junior-pleno-e-senior-na-minha-opiniao-pt-br-659)
+- [Unleashing the Full Power of Docker](https://dev.to/mahakfaheem/unleashing-the-full-power-of-docker-desktop-1p6b)
+- [React Hooks - UseRef](https://dev.to/devlawrence/react-hooks-useref-hk7)
+- [Classroom API: Integrate Snowpal APIs to build apps and microservices for the education industry](https://dev.to/vpalania/classroom-api-integrate-snowpal-apis-to-build-apps-and-microservices-for-the-education-industry-5d2d)
+- [Mastering Firebase: A Comprehensive Guide to CRUD Operations](https://dev.to/ammar2115/mastering-firebase-a-comprehensive-guide-to-crud-operations-2h0a)
 <!-- BLOG-POST-LIST:END -->
 
