@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Uptime Monitor with MeteorJS + Fetch + Plotly.js ☄️🔭](https://dev.to/meteor/build-your-own-uptime-monitor-with-meteorjs-fetch-plotlyjs-4fe0)
 - [Happy International Women&#39;s Day!🌟](https://dev.to/devteam/happy-international-womens-day-55n4)
-- [How To Get More YouTube Subscribers?](https://dev.to/anilsingh/how-to-get-more-youtube-subscribers-dc4)
 - [Display Angular @empty block at the right time!](https://dev.to/geromegrignon/display-angular-empty-block-at-the-right-time-4g4m)
-- [Simplify your code](https://dev.to/klnjmm/simplify-your-code-3k3p)
+- [What are LLMs, Local LLMs and RAG?](https://dev.to/arjunrao87/what-are-llms-local-llms-and-rag-4kp3)
 <!-- BLOG-POST-LIST:END -->
 
