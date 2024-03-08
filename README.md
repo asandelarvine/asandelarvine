@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build 01 complex frontend feature every week with me.](https://dev.to/swastikyadav/build-01-complex-frontend-feature-every-week-with-me-2jjc)
-- [Snake...in pure HTML⁉️ [no JS, no CSS, no images!!] 😱](https://dev.to/grahamthedev/snakein-pure-html-no-js-no-css-no-images-2ccg)
-- [Importance of eBook Composition &amp; Typesetting in Self-Publishing](https://dev.to/alphaebook/importance-of-ebook-composition-typesetting-in-self-publishing-53ik)
-- [Build Wikipedia Clone with React JS - Full Project with Wiki API](https://dev.to/imrankh13332994/build-wikipedia-clone-with-react-js-full-project-with-wiki-api-40bp)
+- [Introduction To OOP: Objects](https://dev.to/akuoko_konadu/introduction-to-oop-objects-22p2)
+- [Calling for Shout Outs on International Women&#39;s Day!](https://dev.to/devteam/calling-for-shout-outs-on-international-womens-day-3fj0)
+- [I&#39;m Still Not One of the Guys](https://dev.to/eevajonnapanula/im-still-not-one-of-the-guys-19e1)
+- [4 Things All EXCEPTIONAL Programmers Have in Common 🎯💡](https://dev.to/arjuncodess/4-things-all-exceptional-programmers-have-in-common-m43)
 <!-- BLOG-POST-LIST:END -->
 
