@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using pnpm with the GitLab package registry in GitLab CI](https://dev.to/danielbayerlein/using-pnpm-with-the-gitlab-package-registry-in-gitlab-ci-24k3)
+- [🚀 Next.js Boilerplate just hit 6000+ ⭐ stars on GitHub! 🔥 6️⃣0️⃣0️⃣0️⃣ 🔥](https://dev.to/ixartz/nextjs-boilerplate-just-hit-6000-stars-on-github-6000-1bb)
 - [Engineering Bolt ⚡: #5 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-5-friday-developer-fun-4ep)
-- [Processing One Billion Rows in PHP!](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
-- [No More Free Tier on PlanetScale, Here Are Free Alternatives](https://dev.to/nialljoemaher/no-more-free-tier-on-planetscale-here-are-free-alternatives-2gbm)
-- [Using Spring-WS to consume a SOAP API](https://dev.to/marianvarga/using-spring-ws-to-consume-a-soap-api-5eob)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-211b)
 <!-- BLOG-POST-LIST:END -->
 
