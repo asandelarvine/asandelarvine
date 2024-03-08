@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Processing One Billion Rows in PHP!](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
+- [No More Free Tier on PlanetScale, Here Are Free Alternatives](https://dev.to/nialljoemaher/no-more-free-tier-on-planetscale-here-are-free-alternatives-2gbm)
+- [Getting started with PWAs](https://dev.to/codeparrot/getting-started-with-pwas-5294)
 - [Developing Android Apps from 0 to 1](https://dev.to/happyer/developing-android-apps-from-0-to-1-8no)
-- [Unlocking the Potential: A Comprehensive Review of Top AI Tools Directories](https://dev.to/dariubs/unlocking-the-potential-a-comprehensive-review-of-top-ai-tools-directories-c4b)
-- [My New Portfolio!](https://dev.to/arjuncodess/my-new-portfolio-1h0d)
-- [International Women&#39;s Day 2024](https://dev.to/aws-heroes/international-womens-day-2024-21fp)
 <!-- BLOG-POST-LIST:END -->
 
