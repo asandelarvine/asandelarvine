@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Para quem é a sua homenagem para mulheres na tecnologia?](https://dev.to/feministech/para-quem-e-a-sua-homenagem-para-mulheres-na-tecnologia-1aoo)
-- [Building a Static Website with AWS S3: A Step-by-Step Guide](https://dev.to/adedamola_ajao/building-a-static-website-with-aws-s3-a-step-by-step-guide-5594)
-- [My Top 5 Tips from What Color is Your Parachute](https://dev.to/theoriginalbpc/my-top-5-tips-from-what-color-is-your-parachute-5h3n)
-- [Linux Series: Understanding Cron in Ubuntu](https://dev.to/olodocoder/linux-series-understanding-cron-in-ubuntu-4hdd)
+- [Let&#39;s Share, Learn, and Grow Together 👬!](https://dev.to/respect17/lets-share-learn-and-grow-together--2b35)
+- [React Native in Echtzeit: Pub/Sub, Geolokalisierung, Anwesenheit](https://dev.to/pubnub-de/react-native-in-echtzeit-pubsub-geolokalisierung-anwesenheit-26g)
+- [Understanding Hoisting in JavaScript](https://dev.to/imashwani/understanding-hoisting-in-javascript-4ie1)
+- [Conventional commit specification](https://dev.to/pranaybathini/conventional-commit-specification-77p)
 <!-- BLOG-POST-LIST:END -->
 
