@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using pnpm with the GitLab package registry in GitLab CI](https://dev.to/danielbayerlein/using-pnpm-with-the-gitlab-package-registry-in-gitlab-ci-24k3)
-- [🚀 Next.js Boilerplate just hit 6000+ ⭐ stars on GitHub! 🔥 6️⃣0️⃣0️⃣0️⃣ 🔥](https://dev.to/ixartz/nextjs-boilerplate-just-hit-6000-stars-on-github-6000-1bb)
-- [Engineering Bolt ⚡: #5 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-5-friday-developer-fun-4ep)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-211b)
+- [Happy International Women&#39;s Day!🌟](https://dev.to/devteam/happy-international-womens-day-55n4)
+- [How To Get More YouTube Subscribers?](https://dev.to/anilsingh/how-to-get-more-youtube-subscribers-dc4)
+- [Display Angular @empty block at the right time!](https://dev.to/geromegrignon/display-angular-empty-block-at-the-right-time-4g4m)
+- [Simplify your code](https://dev.to/klnjmm/simplify-your-code-3k3p)
 <!-- BLOG-POST-LIST:END -->
 
