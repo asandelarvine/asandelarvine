@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Para quem é a sua homenagem para mulheres na tecnologia?](https://dev.to/feministech/para-quem-e-a-sua-homenagem-para-mulheres-na-tecnologia-1aoo)
 - [Building a Static Website with AWS S3: A Step-by-Step Guide](https://dev.to/adedamola_ajao/building-a-static-website-with-aws-s3-a-step-by-step-guide-5594)
 - [My Top 5 Tips from What Color is Your Parachute](https://dev.to/theoriginalbpc/my-top-5-tips-from-what-color-is-your-parachute-5h3n)
 - [Linux Series: Understanding Cron in Ubuntu](https://dev.to/olodocoder/linux-series-understanding-cron-in-ubuntu-4hdd)
-- [Qdrant 1.8.0 - Major Performance Enhancements](https://dev.to/qdrant/qdrant-180-major-performance-enhancements-384o)
 <!-- BLOG-POST-LIST:END -->
 
