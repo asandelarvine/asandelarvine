@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrate International Women&#39;s Day with New Swag &amp; A Sweet Surprise 💖](https://dev.to/devteam/we-made-wecoded-merch-51ic)
-- [The GitHub Community Roundup: 03-08-24](https://dev.to/github/the-github-community-roundup-03-08-24-4ffo)
-- [Exploring local-first development](https://dev.to/dandavey/exploring-local-first-development-41a2)
-- [Exploring Thunder Client: A Powerful Postman Alternative](https://dev.to/sh20raj/exploring-thunder-client-a-powerful-postman-alternative-37ci)
+- [My Top 5 Tips from What Color is Your Parachute](https://dev.to/theoriginalbpc/my-top-5-tips-from-what-color-is-your-parachute-5h3n)
+- [Linux Series: Understanding Cron in Ubuntu](https://dev.to/olodocoder/linux-series-understanding-cron-in-ubuntu-4hdd)
+- [Qdrant 1.8.0 - Major Performance Enhancements](https://dev.to/qdrant/qdrant-180-major-performance-enhancements-384o)
+- [C++ Урок #7](https://dev.to/islombek/c-urok-7-4c4d)
 <!-- BLOG-POST-LIST:END -->
 
