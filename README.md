@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
-- [The Timeless Bridge Between Philosophy and Technology](https://dev.to/dev3l/the-timeless-bridge-between-philosophy-and-technology-1kkl)
-- [4 Inspiring Tips to Think Like a Consultant](https://dev.to/aws-builders/4-inspiring-tips-to-think-like-a-consultant-51pm)
-- [Deep Understanding of Garbage Collection: Principles, Algorithms, and Optimization Strategies](https://dev.to/happyer/deep-understanding-of-garbage-collection-principles-algorithms-and-optimization-strategies-308)
+- [Understanding Conditional Gating in Group Chat](https://dev.to/xavierop877/understanding-conditional-gating-in-group-chat-1bp6)
+- [Supercharge Your Productivity: Top 7 AI Tools for March 2024](https://dev.to/hr21don/supercharge-your-productivity-top-7-ai-tools-for-march-2024-1gk2)
+- [What is Omnivore and How to Save Articles Using this Tool](https://dev.to/sc0v0ne/what-is-omnivore-and-how-to-save-articles-using-this-tool-188h)
+- [Tutorial: Install P3X Redis UI](https://dev.to/sc0v0ne/tutorial-install-p3x-redis-ui-4gbj)
 <!-- BLOG-POST-LIST:END -->
 
