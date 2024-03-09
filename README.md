@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvendo Soft Skills](https://dev.to/techinrio/desenvolvendo-soft-skills-418)
-- [Payload and parameters validation in Rails](https://dev.to/kimrgrey/payload-and-parameters-validation-in-rails-4m87)
-- [Embrace the AI Revolution: Explore Text Transformation with Transformers.js in JavaScript](https://dev.to/robertobutti/embrace-the-ai-revolution-explore-text-transformation-with-transformerjs-in-javascript-27l8)
-- [Simplest way to add Slider in React](https://dev.to/rohitnirban/simplest-way-to-add-slider-in-react-1f0k)
+- [Kubernetes Networking Deep Dive - Services, Ingress, and Gateway API](https://dev.to/sre_panchanan/kubernetes-networking-deep-dive-services-ingress-and-gateway-api-1g6k)
+- [Build a simple E-commerce PIM with Next.js, Prisma, and Neon](https://dev.to/hackmamba/build-a-simple-e-commerce-pim-with-nextjs-prisma-and-neon-4ei2)
+- [Customizing Django Admin: A Comprehensive Guide to Overriding Admin Methods](https://dev.to/m97chahboun/customizing-django-admin-a-comprehensive-guide-to-overriding-admin-methods-2j14)
+- [How to Scroll to an Element in Playwright](https://dev.to/_jaydeepkarale/how-to-scroll-to-an-element-in-playwright-1imh)
 <!-- BLOG-POST-LIST:END -->
 
