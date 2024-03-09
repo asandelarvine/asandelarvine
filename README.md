@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You might want to replace cd command with Zoxide 🎉 — a smarter and trainable cd alternative 🗂️](https://dev.to/creuserr/you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o)
+- [5 Tips for avoiding mistakes while working with server](https://dev.to/cuongnp/5-tips-for-avoiding-mistakes-while-working-with-server-5am3)
 - [Women&#39;s Day](https://dev.to/nandinishinduja/womens-day-4d9f)
-- [As a young woman in different dev teams](https://dev.to/_michellemello/as-a-young-woman-in-different-dev-teams-3gke)
-- [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
+- [How to Choose the Right CMS for Your Website](https://dev.to/dtechunt/how-to-choose-the-right-cms-for-your-website-23k4)
 <!-- BLOG-POST-LIST:END -->
 
