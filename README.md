@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Warp: The Supercharged Terminal for Developers](https://dev.to/emminex/warp-the-supercharged-terminal-for-developers-4b8f)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-183o)
+- [Introduction to Machine Learning](https://dev.to/azure/introduction-to-machine-learning-39a1)
 - [When you&#39;re looking for a remote job,what do you care about?🤔](https://dev.to/remotewlb/when-youre-looking-for-a-remote-jobwhat-do-you-care-about-15mj)
-- [Is server side rendering always good?](https://dev.to/codeparrot/is-server-side-rendering-always-good-5g9f)
-- [Responsible AI in Data Science](https://dev.to/azure/responsible-ai-in-data-science-51lf)
 <!-- BLOG-POST-LIST:END -->
 
