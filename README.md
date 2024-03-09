@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective Neovim Setup. A Beginner’s Guide](https://dev.to/zt4ff_1/effective-neovim-setup-a-beginners-guide-1i81)
+- [Setting Up Docker for Ruby on Rails 7](https://dev.to/jetthoughts_61/setting-up-docker-for-ruby-on-rails-7-50cd)
+- [🛠️How to Go from Software Engineer to AI Developer - What it means for YOU &lpar;Insider&#39;s View&rpar;🤖](https://dev.to/noberst/go-from-software-to-ai-development-what-it-means-for-you-insiders-view-1fpk)
 - [Warp: The Supercharged Terminal for Developers](https://dev.to/emminex/warp-the-supercharged-terminal-for-developers-4b8f)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-183o)
-- [Introduction to Machine Learning](https://dev.to/azure/introduction-to-machine-learning-39a1)
-- [When you&#39;re looking for a remote job,what do you care about?🤔](https://dev.to/remotewlb/when-youre-looking-for-a-remote-jobwhat-do-you-care-about-15mj)
 <!-- BLOG-POST-LIST:END -->
 
