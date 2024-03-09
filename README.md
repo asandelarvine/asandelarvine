@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Manually Coding UI Components! 🔼❌](https://dev.to/arjuncodess/stop-manually-coding-ui-components-1h4f)
+- [Transcrição do NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide](https://dev.to/bolhasec/transcricao-do-nist-cybersecurity-framework-20-small-business-quick-start-guide-32jd)
 - [Kubernetes Networking Deep Dive - Services, Ingress, and Gateway API](https://dev.to/sre_panchanan/kubernetes-networking-deep-dive-services-ingress-and-gateway-api-1g6k)
 - [Build a simple E-commerce PIM with Next.js, Prisma, and Neon](https://dev.to/hackmamba/build-a-simple-e-commerce-pim-with-nextjs-prisma-and-neon-4ei2)
-- [Customizing Django Admin: A Comprehensive Guide to Overriding Admin Methods](https://dev.to/m97chahboun/customizing-django-admin-a-comprehensive-guide-to-overriding-admin-methods-2j14)
-- [How to Scroll to an Element in Playwright](https://dev.to/_jaydeepkarale/how-to-scroll-to-an-element-in-playwright-1imh)
 <!-- BLOG-POST-LIST:END -->
 
