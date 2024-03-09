@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
+- [The Timeless Bridge Between Philosophy and Technology](https://dev.to/dev3l/the-timeless-bridge-between-philosophy-and-technology-1kkl)
+- [4 Inspiring Tips to Think Like a Consultant](https://dev.to/aws-builders/4-inspiring-tips-to-think-like-a-consultant-51pm)
 - [Deep Understanding of Garbage Collection: Principles, Algorithms, and Optimization Strategies](https://dev.to/happyer/deep-understanding-of-garbage-collection-principles-algorithms-and-optimization-strategies-308)
-- [☸️ Kubernetes: From your docker-compose file to a cluster with Kompose](https://dev.to/zenika/kubernetes-from-your-docker-compose-file-to-a-cluster-with-kompose-1gn0)
-- [Biometric authentication with Passkeys](https://dev.to/meldiron/biometric-authentication-with-passkeys-3e1)
-- [Effective Neovim Setup. A Beginner’s Guide](https://dev.to/zt4ff_1/effective-neovim-setup-a-beginners-guide-1i81)
 <!-- BLOG-POST-LIST:END -->
 
