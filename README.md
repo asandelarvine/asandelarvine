@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mavzu: &#39;Alifbo 🤔&#39;](https://dev.to/abdukarim0126/mavzu-alifbo--pni)
 - [Effective Error 🚨 Handling Strategies in [Your Preferred Programming Language]](https://dev.to/hemant_007/effective-error-handling-strategies-in-your-preferred-programming-language-22k)
 - [Can Ergonomic Keyboards Boost Your Productivity?](https://dev.to/devteam/can-ergonomic-keyboards-boost-your-productivity-5em)
 - [How to Self-Publish a Cookbook?](https://dev.to/chris_h/how-to-self-publish-a-cookbook-46mk)
-- [🚀 You NEED to Start Using Vercel Right Now! 🌟](https://dev.to/arjuncodess/you-need-to-start-using-vercel-right-now-3kff)
 <!-- BLOG-POST-LIST:END -->
 
