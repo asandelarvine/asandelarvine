@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-183o)
 - [When you&#39;re looking for a remote job,what do you care about?🤔](https://dev.to/remotewlb/when-youre-looking-for-a-remote-jobwhat-do-you-care-about-15mj)
 - [Is server side rendering always good?](https://dev.to/codeparrot/is-server-side-rendering-always-good-5g9f)
-- [This Week In React #176: React Compiler, TanStack, Vinxi, Remix i18n, Next.js security, Shopify RN perf, Uni Stack...](https://dev.to/sebastienlorber/this-week-in-react-176-react-compiler-tanstack-vinxi-remix-i18n-nextjs-security-shopify-rn-perf-uni-stack-6dg)
-- [Ikkinchi dars cin qilish](https://dev.to/zafar7709/ikkinchi-dars-cin-qilish-259d)
+- [Responsible AI in Data Science](https://dev.to/azure/responsible-ai-in-data-science-51lf)
 <!-- BLOG-POST-LIST:END -->
 
