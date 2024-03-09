@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating SQL Server to Azure SQL Database with SQL Server Management Studio &lpar;SSMS&rpar;](https://dev.to/olalekan_oladiran_d74b7a6/migrating-sql-server-to-azure-sql-database-with-sql-server-management-studio-ssms-23g1)
+- [How to Load Controller Class From Another DLL?](https://dev.to/elanatframework/how-to-load-controller-class-from-another-dll-56k2)
 - [Stop Manually Coding UI Components! 🔼❌](https://dev.to/arjuncodess/stop-manually-coding-ui-components-1h4f)
 - [Transcrição do NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide](https://dev.to/bolhasec/transcricao-do-nist-cybersecurity-framework-20-small-business-quick-start-guide-32jd)
-- [Kubernetes Networking Deep Dive - Services, Ingress, and Gateway API](https://dev.to/sre_panchanan/kubernetes-networking-deep-dive-services-ingress-and-gateway-api-1g6k)
-- [Build a simple E-commerce PIM with Next.js, Prisma, and Neon](https://dev.to/hackmamba/build-a-simple-e-commerce-pim-with-nextjs-prisma-and-neon-4ei2)
 <!-- BLOG-POST-LIST:END -->
 
