@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Tips For Writing Technical Documentation That Developers Love](https://dev.to/get_pieces/5-tips-for-writing-technical-documentation-that-developers-love-1ho7)
-- [Let&#39;s Share, Learn, and Grow Together 👬!](https://dev.to/respect17/lets-share-learn-and-grow-together--2b35)
-- [Navigating StatefulWidgets Part 1](https://dev.to/andrious/navigating-statefulwidgets-part-1-2dni)
-- [React Native in Echtzeit: Pub/Sub, Geolokalisierung, Anwesenheit](https://dev.to/pubnub-de/react-native-in-echtzeit-pubsub-geolokalisierung-anwesenheit-26g)
+- [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
+- [My favorite cy.type&lpar;&rpar; tips and tricks](https://dev.to/samelawrence/my-favorite-cytype-tips-and-tricks-3166)
+- [How to Build and Document a Go REST API with Gin and Go-Swagger](https://dev.to/get_pieces/how-to-build-and-document-a-go-rest-api-with-gin-and-go-swagger-jgb)
 <!-- BLOG-POST-LIST:END -->
 
