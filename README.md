@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
+- [Matplotlib Tutorial: Life Expectancy &amp; Genocide](https://dev.to/oscarleo/matplotlib-tutorial-life-expectancy-genocide-2ae2)
+- [Learn How Docker Works via Mocker, a Tiny Python Implementation](https://dev.to/suhanajabin/learn-how-docker-works-via-mocker-a-tiny-python-implementation-102m)
 - [Create a Discord bot with NodeJS](https://dev.to/arindam_1729/create-a-discord-bot-with-nodejs-i5p)
-- [How to install Bootstrap 5 in Angular 17... Standalone components Including css,js &amp; icons.](https://dev.to/mezieb/how-to-install-bootstrap-5-in-angular-17-standalone-components-including-cssjs-icons-fag)
-- [GitHub Actions for Secret Management](https://dev.to/realvorl/github-actions-for-secret-management-3p9e)
-- [Integrando Azure Text Translation en una aplicación React con Next.js](https://dev.to/danieljsaldana/integrando-azure-text-translation-en-una-aplicacion-react-con-nextjs-10n)
 <!-- BLOG-POST-LIST:END -->
 
