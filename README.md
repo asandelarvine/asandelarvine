@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrando Azure Text Translation en una aplicación React con Next.js](https://dev.to/danieljsaldana/integrando-azure-text-translation-en-una-aplicacion-react-con-nextjs-10n)
 - [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96)
 - [Getting started as a backend developer: A beginner’s guide](https://dev.to/codelikesuraj/getting-started-as-a-backend-developer-a-beginners-guide-4kpg)
 - [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
-- [Deep Dive into C++20 Coroutines](https://dev.to/happyer/deep-dive-into-c20-coroutines-k97)
 <!-- BLOG-POST-LIST:END -->
 
