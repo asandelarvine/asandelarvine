@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
+- [10 Websites for Free Vue Templates](https://dev.to/devluc/10-websites-for-free-vue-templates-2bp6)
+- [Format and Parse Amazon S3 URL](https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10)
 - [GenLearn - Your Personalized Learning Assistant!](https://dev.to/aws-builders/genlearn-your-personalized-learning-assistant-56l)
-- [Neovim: A Powerful and Customizable Text Editor - An Introduction for Beginners](https://dev.to/insideee_dev/neovim-a-powerful-and-customizable-text-editor-an-introduction-for-beginners-17gb)
-- [Profiling Python Code for Performance](https://dev.to/rudolfolah/profiling-python-code-for-performance-51gl)
-- [Input Validation - Terraform Tips &amp; Tricks](https://dev.to/coleheard/input-validation-terraform-tips-tricks-3ndl)
 <!-- BLOG-POST-LIST:END -->
 
