@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The 3 Most Powerful Functions in JavaScript](https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog)
+- [12 Tips for Acing MAANG Software Engineering Interviews](https://dev.to/alexr/12-tips-for-acing-maang-software-engineering-interviews-4kge)
 - [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
 - [Matplotlib Tutorial: Life Expectancy &amp; Genocide](https://dev.to/oscarleo/matplotlib-tutorial-life-expectancy-genocide-2ae2)
-- [Learn How Docker Works via Mocker, a Tiny Python Implementation](https://dev.to/suhanajabin/learn-how-docker-works-via-mocker-a-tiny-python-implementation-102m)
-- [Create a Discord bot with NodeJS](https://dev.to/arindam_1729/create-a-discord-bot-with-nodejs-i5p)
 <!-- BLOG-POST-LIST:END -->
 
