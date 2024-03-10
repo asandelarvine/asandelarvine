@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [GenLearn - Your Personalized Learning Assistant!](https://dev.to/aws-builders/genlearn-your-personalized-learning-assistant-56l)
 - [Neovim: A Powerful and Customizable Text Editor - An Introduction for Beginners](https://dev.to/insideee_dev/neovim-a-powerful-and-customizable-text-editor-an-introduction-for-beginners-17gb)
+- [Profiling Python Code for Performance](https://dev.to/rudolfolah/profiling-python-code-for-performance-51gl)
 - [Input Validation - Terraform Tips &amp; Tricks](https://dev.to/coleheard/input-validation-terraform-tips-tricks-3ndl)
-- [How to move an Amazon RDS DB instance from an Amazon Virtual Private Cloud &lpar;Amazon VPC&rpar; to a new VPC](https://dev.to/aws-builders/how-to-move-an-amazon-rds-db-instance-from-an-amazon-virtual-private-cloud-amazon-vpc-to-a-new-vpc-2gp2)
-- [Migrating SQL Server to Azure SQL Database with SQL Server Management Studio &lpar;SSMS&rpar;](https://dev.to/olalekan_oladiran_d74b7a6/migrating-sql-server-to-azure-sql-database-with-sql-server-management-studio-ssms-23g1)
 <!-- BLOG-POST-LIST:END -->
 
