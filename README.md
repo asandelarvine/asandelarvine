@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
-- [10 Websites for Free Vue Templates](https://dev.to/devluc/10-websites-for-free-vue-templates-2bp6)
-- [Format and Parse Amazon S3 URL](https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10)
-- [GenLearn - Your Personalized Learning Assistant!](https://dev.to/aws-builders/genlearn-your-personalized-learning-assistant-56l)
+- [Rust, JavaScript, or Python?](https://dev.to/devteam/rust-javascript-or-python-3dd0)
+- [Framer Motion: Animate React Easily](https://dev.to/codeparrot/framer-motion-animate-react-easily-3h4i)
+- [Awesome GitHub Action Workflows](https://dev.to/tungbq/awesome-github-action-workflows-2fi0)
+- [Terminal commands I use as a frontend developer](https://dev.to/junaidshaikhjs/terminal-commands-i-use-as-a-frontend-developer-37gd)
 <!-- BLOG-POST-LIST:END -->
 
