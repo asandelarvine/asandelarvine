@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local LLMs, CPU vs. GPU - a Quick Speed Test](https://dev.to/maximsaplin/running-local-llms-cpu-vs-gpu-a-quick-speed-test-2cjn)
-- [Understanding and Implementing Type Guards in TypeScript](https://dev.to/clarity89/understanding-and-implementing-type-guards-in-typescript-47j)
-- [Is Job Hopping In Tech Bad?](https://dev.to/maddy/is-job-hopping-in-tech-bad-23nk)
-- [Meme Monday](https://dev.to/ben/meme-monday-ha4)
+- [Nevertheless, we coded - let&#39;s focus on the good ✨](https://dev.to/josefine/nevertheless-we-coded-lets-focus-on-the-good-226a)
+- [What are your goals for week 11 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-11-of-2024-3bp3)
+- [Finally, a Scripting Language for ChatGPT &lpar;AImarkdown Script&rpar;](https://dev.to/aimarkdown/finally-a-scripting-language-for-chatgpt-aimarkdown-script-4mjh)
+- [Impostor syndrome, burn out - interview with an ex-FAANG employee](https://dev.to/latobibor/impostor-syndrome-burn-out-interview-with-an-ex-faang-employee-2dha)
 <!-- BLOG-POST-LIST:END -->
 
