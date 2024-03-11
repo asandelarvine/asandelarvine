@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Admin Console With Minimum Code Using React-Admin, Prisma, and Zenstack](https://dev.to/zenstack/building-an-admin-console-with-minimum-code-using-react-admin-prisma-and-zenstack-pkl)
-- [Desenvolva suas habilidades de programação de forma divertida: 10 jogos para aprender programação](https://dev.to/feministech/desenvolva-suas-habilidades-de-programacao-de-forma-divertida-10-jogos-para-aprender-programacao-23fc)
-- [How to add a Docusaurus website within Next.js Website as a route? It&#39;s worth $200](https://dev.to/martinadamsdev/how-to-use-docusaurus-in-nextjs-projects-4kei)
-- [Navigating Legacy Code: A Programmer&#39;s Guide](https://dev.to/hikarimaeda/navigating-legacy-code-a-programmers-guide-1i62)
+- [Secure Upload URLs Buckets with Nitric in Python](https://dev.to/rsiv/secure-upload-urls-buckets-with-nitric-in-python-495o)
+- [Hosting a static website on AWS S3 with CI/CD](https://dev.to/sanishchirayath1/hosting-a-static-website-on-aws-s3-with-cicd-3deh)
+- [⛵ Sailing the Choppy Waters of Floating-Point Precision in JavaScript 🔢](https://dev.to/best_codes/sailing-the-choppy-waters-of-floating-point-precision-in-javascript-3577)
+- [Rust: A Modern Approach to System Programming](https://dev.to/dipankarpaul/rust-a-modern-approach-to-system-programming-1ph0)
 <!-- BLOG-POST-LIST:END -->
 
