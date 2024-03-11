@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an event calendar](https://dev.to/phuocng/create-an-event-calendar-20fg)
+- [Static Code Analysis Tools for Next.js](https://dev.to/fajarriv/static-code-analysis-tools-for-nextjs-m9b)
+- [Github credentials storage through Github CLI](https://dev.to/soumildatta/github-credentials-storage-through-github-cli-od1)
 - [Why You Should Use a Database](https://dev.to/annoh_karlgusta/why-you-should-use-a-database-ccp)
-- [Browser-based Multiplayer Tic Tac Toe Game in React](https://dev.to/pubnub/browser-based-multiplayer-tic-tac-toe-game-in-react-1488)
-- [zsh: command not found: brew](https://dev.to/naalaryea/zsh-command-not-found-brew-4697)
-- [Sending out SMS messages via Twilio](https://dev.to/idadelveloper/sending-out-sms-messages-via-twilio-47fh)
 <!-- BLOG-POST-LIST:END -->
 
