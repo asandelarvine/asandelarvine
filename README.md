@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Ready to Game Dev?](https://dev.to/devteam/are-you-ready-to-game-dev-35h8)
-- [Power Automate - How to Test your Flows](https://dev.to/wyattdave/power-automate-how-to-test-your-flows-130n)
-- [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
-- [Solving GitHub API &quot;Unrecognized Encoding: None&quot; Error: A Journey to Understanding Media Types](https://dev.to/siddhantkcode/solving-github-api-unrecognized-encoding-none-error-a-journey-to-understanding-media-types-cp4)
+- [Weekly Roundup 043 &lpar;Mar 04&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-043-mar-04-hot-topics-in-workplace-sharepoint-and-powerplatform-4p7i)
+- [Building Open Source Form Management tool for Developers](https://dev.to/ashelestov/building-open-source-form-management-tool-for-developers-14a7)
+- [Fetch any Website HTML without a cors error | Free API](https://dev.to/sh20raj/fetch-any-website-html-without-a-cors-error-free-api-17do)
+- [How we handled MySQL deadlocks in Productive - Part 1](https://dev.to/productive/how-we-handled-mysql-deadlocks-in-productive-part-1-15ce)
 <!-- BLOG-POST-LIST:END -->
 
