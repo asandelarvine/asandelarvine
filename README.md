@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vagrant CLI Commands Cheat Sheet](https://dev.to/chigozieco/vagrant-cli-commands-cheat-sheet-f7c)
+- [Install Virtual Machine With Vagrant &amp; Remotely Access it](https://dev.to/chigozieco/install-virtual-machine-with-vagrant-remotely-access-it-4k5j)
 - [AWS open source newsletter, #192](https://dev.to/aws/aws-open-source-newsletter-192-g1o)
-- [Cpp](https://dev.to/sunnat2009/cpp-52ok)
-- [Weekly Roundup 043 &lpar;Mar 04&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-043-mar-04-hot-topics-in-workplace-sharepoint-and-powerplatform-4p7i)
-- [Building Open Source Form Management tool for Developers](https://dev.to/ashelestov/building-open-source-form-management-tool-for-developers-14a7)
+- [Building a chat app: Chatrooms with Nodejs websockets and Vue &lpar;PART 2&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-2-5f05)
 <!-- BLOG-POST-LIST:END -->
 
