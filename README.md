@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Base Maps to QGIS](https://dev.to/pokumars/how-to-add-base-maps-to-qgis-5f4)
+- [A QuickCheck Tutorial: Generators](https://dev.to/stack_builders/a-quickcheck-tutorial-generators-53pg)
+- [Unlocking Professional Growth: The Untapped Value of Keeping a Working Journal](https://dev.to/dev3l/unlocking-professional-growth-the-untapped-value-of-keeping-a-working-journal-5cld)
 - [Fetch data from Sanity content management system in an Expo app](https://dev.to/angela300/fetche-data-from-sanity-content-management-system-in-an-expo-app-5aji)
-- [5 Game-Changing GitHub Repositories for Developers 🛠️🚀](https://dev.to/arjuncodess/5-game-changing-github-repositories-for-developers-m06)
-- [How Developers Can Survive AI: 3 Hidden Skills To Become Irreplaceable 🤖](https://dev.to/dragosnedelcu/how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5)
-- [Secure Upload URLs Buckets with Nitric in Python](https://dev.to/rsiv/secure-upload-urls-buckets-with-nitric-in-python-495o)
 <!-- BLOG-POST-LIST:END -->
 
