@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OPTICAL CHARACTER RECOGNITION USING NODE JS AND TESSERACT OCR ENGINE](https://dev.to/oluwatobi2001/optical-character-recognition-using-node-js-and-tesseract-ocr-engine-1ab)
+- [Should we be making laws against &quot;dark patterns&quot;?](https://dev.to/moopet/should-we-be-making-laws-against-dark-patterns-1dl8)
 - [Vagrant CLI Commands Cheat Sheet](https://dev.to/chigozieco/vagrant-cli-commands-cheat-sheet-f7c)
 - [Install Virtual Machine With Vagrant &amp; Remotely Access it](https://dev.to/chigozieco/install-virtual-machine-with-vagrant-remotely-access-it-4k5j)
-- [AWS open source newsletter, #192](https://dev.to/aws/aws-open-source-newsletter-192-g1o)
-- [Building a chat app: Chatrooms with Nodejs websockets and Vue &lpar;PART 2&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-2-5f05)
 <!-- BLOG-POST-LIST:END -->
 
