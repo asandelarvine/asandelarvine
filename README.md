@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Women Edition ♀&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-women-edition--1k16)
-- [FLaNK AI for 11 March 2024](https://dev.to/tspannhw/flank-ai-for-11-march-2024-2gkf)
-- [OPTICAL CHARACTER RECOGNITION USING NODE JS AND TESSERACT OCR ENGINE](https://dev.to/oluwatobi2001/optical-character-recognition-using-node-js-and-tesseract-ocr-engine-1ab)
-- [Should we be making laws against &quot;dark patterns&quot;?](https://dev.to/moopet/should-we-be-making-laws-against-dark-patterns-1dl8)
+- [Running Local LLMs, CPU vs. GPU - a Quick Speed Test](https://dev.to/maximsaplin/running-local-llms-cpu-vs-gpu-a-quick-speed-test-2cjn)
+- [Understanding and Implementing Type Guards in TypeScript](https://dev.to/clarity89/understanding-and-implementing-type-guards-in-typescript-47j)
+- [Is Job Hopping In Tech Bad?](https://dev.to/maddy/is-job-hopping-in-tech-bad-23nk)
+- [Meme Monday](https://dev.to/ben/meme-monday-ha4)
 <!-- BLOG-POST-LIST:END -->
 
