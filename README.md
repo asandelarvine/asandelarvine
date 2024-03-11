@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Ready to Game Dev?](https://dev.to/devteam/are-you-ready-to-game-dev-35h8)
+- [Power Automate - How to Test your Flows](https://dev.to/wyattdave/power-automate-how-to-test-your-flows-130n)
 - [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
 - [Solving GitHub API &quot;Unrecognized Encoding: None&quot; Error: A Journey to Understanding Media Types](https://dev.to/siddhantkcode/solving-github-api-unrecognized-encoding-none-error-a-journey-to-understanding-media-types-cp4)
-- [Dart Abstract Classes and Polymorphism in Dart - Part 6](https://dev.to/sadanandgadwal/dart-abstract-classes-and-polymorphism-in-dart-part-6-bnf)
-- [Pardus İşletim Sistemi Kurulumu](https://dev.to/yarensari/adas-4mj5)
 <!-- BLOG-POST-LIST:END -->
 
