@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetch data from Sanity content management system in an Expo app](https://dev.to/angela300/fetche-data-from-sanity-content-management-system-in-an-expo-app-5aji)
+- [5 Game-Changing GitHub Repositories for Developers 🛠️🚀](https://dev.to/arjuncodess/5-game-changing-github-repositories-for-developers-m06)
+- [How Developers Can Survive AI: 3 Hidden Skills To Become Irreplaceable 🤖](https://dev.to/dragosnedelcu/how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5)
 - [Secure Upload URLs Buckets with Nitric in Python](https://dev.to/rsiv/secure-upload-urls-buckets-with-nitric-in-python-495o)
-- [Hosting a static website on AWS S3 with CI/CD](https://dev.to/sanishchirayath1/hosting-a-static-website-on-aws-s3-with-cicd-3deh)
-- [⛵ Sailing the Choppy Waters of Floating-Point Precision in JavaScript 🔢](https://dev.to/best_codes/sailing-the-choppy-waters-of-floating-point-precision-in-javascript-3577)
-- [Rust: A Modern Approach to System Programming](https://dev.to/dipankarpaul/rust-a-modern-approach-to-system-programming-1ph0)
 <!-- BLOG-POST-LIST:END -->
 
