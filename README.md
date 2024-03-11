@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Type Safety in TypeScript - Unknown vs Any](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
+- [Como Implementar um Botão &quot;Voltar ao Topo&quot; em Seu Site com JavaScript](https://dev.to/kaiquen/como-implementar-um-botao-voltar-ao-topo-em-seu-site-com-javascript-145n)
 - [Create an event calendar](https://dev.to/phuocng/create-an-event-calendar-20fg)
-- [Static Code Analysis Tools for Next.js](https://dev.to/fajarriv/static-code-analysis-tools-for-nextjs-m9b)
-- [Github credentials storage through Github CLI](https://dev.to/soumildatta/github-credentials-storage-through-github-cli-od1)
-- [Why You Should Use a Database](https://dev.to/annoh_karlgusta/why-you-should-use-a-database-ccp)
+- [AWS cross account access &lpar;switch role&rpar;](https://dev.to/aws-builders/aws-cross-account-access-switch-role-3bn)
 <!-- BLOG-POST-LIST:END -->
 
