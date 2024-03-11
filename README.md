@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Type Safety in TypeScript - Unknown vs Any](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
-- [Como Implementar um Botão &quot;Voltar ao Topo&quot; em Seu Site com JavaScript](https://dev.to/kaiquen/como-implementar-um-botao-voltar-ao-topo-em-seu-site-com-javascript-145n)
-- [Breaking Down Barriers: The Critical Importance of 508 Compliance for Inclusive Digital Spaces](https://dev.to/philipjohnbasile/breaking-down-barriers-the-critical-importance-of-508-compliance-for-inclusive-digital-spaces-25gk)
-- [Create an event calendar](https://dev.to/phuocng/create-an-event-calendar-20fg)
+- [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
+- [Solving GitHub API &quot;Unrecognized Encoding: None&quot; Error: A Journey to Understanding Media Types](https://dev.to/siddhantkcode/solving-github-api-unrecognized-encoding-none-error-a-journey-to-understanding-media-types-cp4)
+- [Dart Abstract Classes and Polymorphism in Dart - Part 6](https://dev.to/sadanandgadwal/dart-abstract-classes-and-polymorphism-in-dart-part-6-bnf)
+- [Pardus İşletim Sistemi Kurulumu](https://dev.to/yarensari/adas-4mj5)
 <!-- BLOG-POST-LIST:END -->
 
