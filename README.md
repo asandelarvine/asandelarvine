@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is INP and why you should care](https://dev.to/whitep4nth3r/what-is-inp-and-why-you-should-care-265a)
 - [SecretService: Library for Storing Secrets in Google Apps Script](https://dev.to/dataful/secretservice-library-for-storing-secrets-in-google-apps-script-4cah)
-- [Uchinchi dars if va else](https://dev.to/zafar7709/uchinchi-dars-if-va-else-56ke)
-- [Apps that changed your life](https://dev.to/nandinishinduja/apps-that-changed-your-life-55fl)
-- [Hono vs. H3 vs. HatTip vs. Elysia - modern server&lpar;less&rpar; replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
+- [Fuel Your Intelligent Apps with Azure AI](https://dev.to/azure/fuel-your-intelligent-apps-with-azure-ai-3j4b)
+- [Exploring the Synergy: Integrating API Gateway with LDAP Authentication](https://dev.to/api7/exploring-the-synergy-integrating-api-gateway-with-ldap-authentication-4ic7)
 <!-- BLOG-POST-LIST:END -->
 
