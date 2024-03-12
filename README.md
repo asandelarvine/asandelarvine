@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is INP and why you should care](https://dev.to/whitep4nth3r/what-is-inp-and-why-you-should-care-265a)
-- [SecretService: Library for Storing Secrets in Google Apps Script](https://dev.to/dataful/secretservice-library-for-storing-secrets-in-google-apps-script-4cah)
-- [Fuel Your Intelligent Apps with Azure AI](https://dev.to/azure/fuel-your-intelligent-apps-with-azure-ai-3j4b)
-- [Exploring the Synergy: Integrating API Gateway with LDAP Authentication](https://dev.to/api7/exploring-the-synergy-integrating-api-gateway-with-ldap-authentication-4ic7)
+- [Structs in Rust](https://dev.to/francescoxx/structs-in-rust-2a9a)
+- [Python libraries you need to know in 2024](https://dev.to/taipy/python-libraries-you-need-to-know-in-2024-37ka)
+- [How to Create an Admin Panel for Your PostgreSQL Database on Railway Cloud](https://dev.to/nikpoltoratsky/how-to-create-an-admin-panel-for-your-postgresql-database-on-railway-cloud-1gib)
+- [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
 <!-- BLOG-POST-LIST:END -->
 
