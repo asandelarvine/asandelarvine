@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Machine Learning Workflows in Python](https://dev.to/swapnoneel123/designing-machine-learning-workflows-in-python-5832)
-- [My Email Newsletter!](https://dev.to/arjuncodess/my-email-newsletter-4c71)
-- [TanStack Router: Authenticated routes &amp; Guards](https://dev.to/this-is-learning/tanstack-router-authenticated-routes-guards-3obp)
-- [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
+- [Make vs. Zapier: Which One is Better in 2024?](https://dev.to/stan8086/make-vs-zapier-which-one-is-better-in-2024-15mm)
+- [Marp: A Markdown Presentation App That Simplifies Your Tech Talks](https://dev.to/rprabhu/marp-a-markdown-presentation-app-that-simplifies-your-tech-talks-37m4)
+- [🌟🚀💻 Plataforma Gamificada para Aprender Programação ✨🎮](https://dev.to/edilsonrogeriocuambe/plataforma-gamificada-para-aprender-programacao-3m62)
+- [Analysing the Differences between WebSocket and WebRTC](https://dev.to/digitalsamba/analysing-the-differences-between-websocket-and-webrtc-3l)
 <!-- BLOG-POST-LIST:END -->
 
