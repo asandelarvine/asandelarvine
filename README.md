@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Regression Analysis: Unveiling Data&#39;s Hidden Patterns](https://dev.to/kammarianand/exploring-regression-analysis-unveiling-datas-hidden-patterns-35fp)
+- [Asymptotic analysis](https://dev.to/tanmaycode/asymptotic-analysis-37m4)
+- [10 eBook Formatting Mistakes to Avoid When Self-Publishing](https://dev.to/alphaebook/10-ebook-formatting-mistakes-to-avoid-when-self-publishing-9b0)
 - [Real-Time Bidding with AI: A Developer&#39;s Guide](https://dev.to/andrewupton/real-time-bidding-with-ai-a-developers-guide-5hmg)
-- [EncriptorJS is a JavaScript text encryption - decryption library](https://dev.to/sh20raj/encriptorjs-is-a-javascript-text-encryption-decryption-library-2045)
-- [Create a vertical timeline](https://dev.to/phuocng/create-a-vertical-timeline-12ln)
-- [TypeScript Enums: 5 Real-World Use Cases](https://dev.to/alexefimenko/typescript-enums-5-real-world-use-cases-4idk)
 <!-- BLOG-POST-LIST:END -->
 
