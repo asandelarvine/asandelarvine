@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Apps that changed your life](https://dev.to/nandinishinduja/apps-that-changed-your-life-55fl)
+- [Implementing a RAG System on DuckDB Using JinaAI and SuperDuperDB](https://dev.to/guerra2fernando/implementing-a-rag-system-on-duckdb-using-jinaai-and-superduperdb-1kgm)
 - [Mobile App Development for Beginners: A Step-by-Step Guide](https://dev.to/dynamicmethods/mobile-app-development-for-beginners-a-step-by-step-guide-1ia)
-- [All about JavaScript Execution Context](https://dev.to/olibhiaghosh/all-about-javascript-execution-context-1nc6)
-- [Understanding the Difference Between REM and PX in CSS](https://dev.to/devcanvas_/understanding-the-difference-between-rem-and-px-in-css-1n1o)
-- [Step-by-Step Guide: Configuring Container Types in SharePoint Embedded](https://dev.to/jaloplo/step-by-step-guide-configuring-container-types-in-sharepoint-embedded-h9d)
+- [Stash changes in a git repository with VS Code](https://dev.to/amanhimself/stash-changes-in-a-git-repository-with-vs-code-33pi)
 <!-- BLOG-POST-LIST:END -->
 
