@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Structs in Rust](https://dev.to/francescoxx/structs-in-rust-2a9a)
-- [Python libraries you need to know in 2024](https://dev.to/taipy/python-libraries-you-need-to-know-in-2024-37ka)
-- [How to Create an Admin Panel for Your PostgreSQL Database on Railway Cloud](https://dev.to/nikpoltoratsky/how-to-create-an-admin-panel-for-your-postgresql-database-on-railway-cloud-1gib)
-- [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
+- [Designing Machine Learning Workflows in Python](https://dev.to/swapnoneel123/designing-machine-learning-workflows-in-python-5832)
+- [My Email Newsletter!](https://dev.to/arjuncodess/my-email-newsletter-4c71)
+- [TanStack Router: Authenticated routes &amp; Guards](https://dev.to/this-is-learning/tanstack-router-authenticated-routes-guards-3obp)
+- [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
 <!-- BLOG-POST-LIST:END -->
 
