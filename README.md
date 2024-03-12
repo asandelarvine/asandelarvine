@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Understanding the Difference Between REM and PX in CSS](https://dev.to/devcanvas_/understanding-the-difference-between-rem-and-px-in-css-1n1o)
 - [Step-by-Step Guide: Configuring Container Types in SharePoint Embedded](https://dev.to/jaloplo/step-by-step-guide-configuring-container-types-in-sharepoint-embedded-h9d)
+- [Creating Custom NuGet Packages in C#](https://dev.to/homolibere/creating-custom-nuget-packages-in-c-n8b)
 - [Liman MYS Dağıtım Eklentisi ile Cihaz Ajanı Dağıtma](https://dev.to/aciklab/liman-mys-dagitim-eklentisi-ile-cihaz-ajani-dagitma-3nne)
-- [What Are the Top Database Optimization Techniques?](https://dev.to/devteam/what-are-the-top-database-optimization-techniques-4ode)
 <!-- BLOG-POST-LIST:END -->
 
