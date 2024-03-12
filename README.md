@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meteor Files: Resume interrupted file uploads without losing any progress](https://dev.to/smart_egg/meteor-files-resume-interrupted-file-uploads-without-losing-any-progress-3ge1)
-- [I Published This with Drag and Drop using Vrite](https://dev.to/vrite/i-published-this-with-drag-and-drop-using-vrite-4b1e)
-- [Navigating the Challenges of Scaling Open Source Projects](https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2)
-- [Como identificar problemas de ambiente ao tentar instalar BotCity Studio SDK](https://dev.to/botcitydev/como-identificar-problemas-de-ambiente-ao-tentar-instalar-botcity-studio-sdk-17k8)
+- [Object memory reference in JS](https://dev.to/pulimoodan/object-memory-reference-in-js-2ne7)
+- [A Deep Dive into the satisfies operator in Typescript](https://dev.to/this-is-learning/a-deep-dive-into-the-satisfies-operator-in-typescript-1b3n)
+- [The 10 Best Websites for Finding Icons 🎨✨](https://dev.to/arjuncodess/the-10-best-websites-for-finding-icons-21kd)
+- [Grogue: A Roguelike Tutorial in Go &lpar;Part 4&rpar;](https://dev.to/thecal714/grogue-a-roguelike-tutorial-in-go-part-4-4fjk)
 <!-- BLOG-POST-LIST:END -->
 
