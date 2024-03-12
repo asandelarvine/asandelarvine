@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The End of Programming](https://dev.to/sufian/the-end-of-programming-3061)
+- [React to Vercel: Deployment Made Easy.](https://dev.to/codeparrot/react-to-vercel-deployment-made-easy-bg2)
 - [Object memory reference in JS](https://dev.to/pulimoodan/object-memory-reference-in-js-2ne7)
-- [A Deep Dive into the satisfies operator in Typescript](https://dev.to/this-is-learning/a-deep-dive-into-the-satisfies-operator-in-typescript-1b3n)
 - [The 10 Best Websites for Finding Icons 🎨✨](https://dev.to/arjuncodess/the-10-best-websites-for-finding-icons-21kd)
-- [Grogue: A Roguelike Tutorial in Go &lpar;Part 4&rpar;](https://dev.to/thecal714/grogue-a-roguelike-tutorial-in-go-part-4-4fjk)
 <!-- BLOG-POST-LIST:END -->
 
