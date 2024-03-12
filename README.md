@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SecretService: Library for Storing Secrets in Google Apps Script](https://dev.to/dataful/secretservice-library-for-storing-secrets-in-google-apps-script-4cah)
+- [Uchinchi dars if va else](https://dev.to/zafar7709/uchinchi-dars-if-va-else-56ke)
 - [Apps that changed your life](https://dev.to/nandinishinduja/apps-that-changed-your-life-55fl)
-- [Implementing a RAG System on DuckDB Using JinaAI and SuperDuperDB](https://dev.to/guerra2fernando/implementing-a-rag-system-on-duckdb-using-jinaai-and-superduperdb-1kgm)
-- [Mobile App Development for Beginners: A Step-by-Step Guide](https://dev.to/dynamicmethods/mobile-app-development-for-beginners-a-step-by-step-guide-1ia)
-- [Stash changes in a git repository with VS Code](https://dev.to/amanhimself/stash-changes-in-a-git-repository-with-vs-code-33pi)
+- [Hono vs. H3 vs. HatTip vs. Elysia - modern server&lpar;less&rpar; replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
 <!-- BLOG-POST-LIST:END -->
 
