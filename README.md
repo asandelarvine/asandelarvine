@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
-- [Make your product collaborative with Convex](https://dev.to/kunga/make-your-product-collaborative-with-convex-2945)
-- [Using CLI Applications to Increase Efficiency in Work](https://dev.to/hoaitx/using-cli-applications-to-increase-efficiency-in-work-1d10)
-- [The Fog of Misinformation: The Extent of AI-Generated False Information](https://dev.to/hikarimaeda/the-fog-of-misinformation-the-extent-of-ai-generated-false-information-10c9)
+- [Maximize Your Marketing Efforts: The Ultimate Guide to 10 Top AI Tools of 2024](https://dev.to/jahan/maximize-your-marketing-efforts-the-ultimate-guide-to-10-top-ai-tools-of-2024-3bi1)
+- [Configure Static IP in Ubuntu 22.04](https://dev.to/mich0w0h/configure-static-ip-in-ubuntu-2204-2fd7)
+- [Devin! World&#39;s First AI Software Engineer](https://dev.to/shaheryaryousaf/devin-worlds-first-ai-software-engineer-263g)
+- [Grilled Cheese and Service Control Policies &lpar;SCPs&rpar;](https://dev.to/aws-builders/grilled-cheese-and-service-control-policies-scps-3mkh)
 <!-- BLOG-POST-LIST:END -->
 
