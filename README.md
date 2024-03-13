@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What challenges did I have when I included a local version of my name in social media?](https://dev.to/bogomil/what-challenges-did-i-have-when-i-included-a-local-version-of-my-name-in-social-media-3nea)
 - [What&#39;s New in API7 Enterprise: Token Management](https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l)
 - [From Skeptic to Believer: My Docker Story](https://dev.to/alahirajeffrey/from-skeptic-to-believer-my-docker-story-1hof)
 - [How to create a dismissible cookie banner with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-dismissiblecookie-banner-withtailwind-css-and-alpinejs-1m5p)
-- [Mastering Backlink Indexing: A Comprehensive Guide to Boosting Your Website&#39;s Visibility in Search Results](https://dev.to/shahseo/mastering-backlink-indexing-a-comprehensive-guide-to-boosting-your-websites-visibility-in-search-results-51l7)
 <!-- BLOG-POST-LIST:END -->
 
