@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth 2.0 implementation in Node.js](https://dev.to/permify/oauth-20-implementation-in-nodejs-1k4n)
-- [Snowcamp 2024](https://dev.to/onepoint/snowcamp-2024-446h)
-- [How to Set Up a Docker Container](https://dev.to/emminex/how-to-set-up-a-docker-container-1m5l)
-- [CSS Cheatsheet](https://dev.to/mikevarenek/css-cheatsheet-3e0e)
+- [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
+- [How to Build: an AI-powered PowerPoint Generator 𝐏𝐓. 𝐈𝐈 &lpar;LangChain, CopilotKit, Next.js, OpenAI&rpar;](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
+- [VSCode Extensions for 2024](https://dev.to/himanshudevgupta/vscode-extensions-for-2024-2j3c)
+- [Frontend Developer Roadmap 2024](https://dev.to/codeparrot/frontend-developer-roadmap-2024-12l9)
 <!-- BLOG-POST-LIST:END -->
 
