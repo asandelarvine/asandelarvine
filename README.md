@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Your Marketing Efforts: The Ultimate Guide to 10 Top AI Tools of 2024](https://dev.to/jahan/maximize-your-marketing-efforts-the-ultimate-guide-to-10-top-ai-tools-of-2024-3bi1)
-- [Configure Static IP in Ubuntu 22.04](https://dev.to/mich0w0h/configure-static-ip-in-ubuntu-2204-2fd7)
-- [Devin! World&#39;s First AI Software Engineer](https://dev.to/shaheryaryousaf/devin-worlds-first-ai-software-engineer-263g)
-- [Grilled Cheese and Service Control Policies &lpar;SCPs&rpar;](https://dev.to/aws-builders/grilled-cheese-and-service-control-policies-scps-3mkh)
+- [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
+- [Chrome Extensions For Web Developers 🌟🔥](https://dev.to/arjuncodess/7-chrome-extensions-for-web-developers-54ib)
+- [A Beginner&#39;s Guide to Docker Image Commands: Managing Docker Images](https://dev.to/ed_akoth/a-beginners-guide-to-docker-image-commands-managing-docker-images-lb)
+- [PostGreSql-StoryFrom&lpar;Day89-100&rpar;](https://dev.to/rifat87/postgresql-storyfromday89-100-1i82)
 <!-- BLOG-POST-LIST:END -->
 
