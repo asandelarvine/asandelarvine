@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Secure, Privacy-First AI-driven Data Collection Platform: BlockSurvey](https://dev.to/boxyhq/a-secure-privacy-first-ai-driven-data-collection-platform-blocksurvey-4mdd)
-- [25 Unnoticeable Features of JavaScript](https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1)
-- [My New Favorite CSS Trick: will-change](https://dev.to/highflyer910/my-new-favorite-css-trick-will-change-5791)
-- [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
+- [Using CLI Applications to Increase Efficiency in Work](https://dev.to/hoaitx/using-cli-applications-to-increase-efficiency-in-work-1d10)
+- [The Fog of Misinformation: The Extent of AI-Generated False Information](https://dev.to/hikarimaeda/the-fog-of-misinformation-the-extent-of-ai-generated-false-information-10c9)
+- [Building a simple web server in Rust](https://dev.to/shuttle_dev/building-a-simple-web-server-in-rust-5c57)
+- [Top 8 Recent V8 Updates](https://dev.to/appsignal/top-8-recent-v8-updates-1fa3)
 <!-- BLOG-POST-LIST:END -->
 
