@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What challenges did I have when I included a local version of my name in social media?](https://dev.to/bogomil/what-challenges-did-i-have-when-i-included-a-local-version-of-my-name-in-social-media-3nea)
-- [What&#39;s New in API7 Enterprise: Token Management](https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l)
-- [From Skeptic to Believer: My Docker Story](https://dev.to/alahirajeffrey/from-skeptic-to-believer-my-docker-story-1hof)
-- [How to create a dismissible cookie banner with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-dismissiblecookie-banner-withtailwind-css-and-alpinejs-1m5p)
+- [OAuth 2.0 implementation in Node.js](https://dev.to/permify/oauth-20-implementation-in-nodejs-1k4n)
+- [Snowcamp 2024](https://dev.to/onepoint/snowcamp-2024-446h)
+- [How to Set Up a Docker Container](https://dev.to/emminex/how-to-set-up-a-docker-container-1m5l)
+- [CSS Cheatsheet](https://dev.to/mikevarenek/css-cheatsheet-3e0e)
 <!-- BLOG-POST-LIST:END -->
 
