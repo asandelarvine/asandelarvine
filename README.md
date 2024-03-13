@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Secure, Privacy-First AI-driven Data Collection Platform: BlockSurvey](https://dev.to/boxyhq/a-secure-privacy-first-ai-driven-data-collection-platform-blocksurvey-4mdd)
+- [25 Unnoticeable Features of JavaScript](https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1)
+- [My New Favorite CSS Trick: will-change](https://dev.to/highflyer910/my-new-favorite-css-trick-will-change-5791)
 - [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
-- [How to Build: an AI-powered PowerPoint Generator 𝐏𝐓. 𝐈𝐈 &lpar;LangChain, CopilotKit, Next.js, OpenAI&rpar;](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
-- [VSCode Extensions for 2024](https://dev.to/himanshudevgupta/vscode-extensions-for-2024-2j3c)
-- [Frontend Developer Roadmap 2024](https://dev.to/codeparrot/frontend-developer-roadmap-2024-12l9)
 <!-- BLOG-POST-LIST:END -->
 
