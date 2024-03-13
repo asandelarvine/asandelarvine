@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Websites for Free Bootstrap Templates](https://dev.to/devluc/20-websites-for-free-bootstrap-templates-4on4)
-- [PivotTable : Toolkit for Smart Data Exploration and Analysis](https://dev.to/balagmadhu/pivottable-toolkit-for-smart-data-exploration-and-analysis-obp)
-- [Getting Started with Terraform on AWS](https://dev.to/refine/getting-started-with-terraform-on-aws-4dcm)
-- [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
+- [What&#39;s New in API7 Enterprise: Token Management](https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l)
+- [From Skeptic to Believer: My Docker Story](https://dev.to/alahirajeffrey/from-skeptic-to-believer-my-docker-story-1hof)
+- [How to create a dismissible cookie banner with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-dismissiblecookie-banner-withtailwind-css-and-alpinejs-1m5p)
+- [Mastering Backlink Indexing: A Comprehensive Guide to Boosting Your Website&#39;s Visibility in Search Results](https://dev.to/shahseo/mastering-backlink-indexing-a-comprehensive-guide-to-boosting-your-websites-visibility-in-search-results-51l7)
 <!-- BLOG-POST-LIST:END -->
 
