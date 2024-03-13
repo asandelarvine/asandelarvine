@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS v4.0 Alpha: A Revolution Unveiled](https://dev.to/mitchiemt11/tailwind-css-v40-alpha-a-revolution-unveiled-3g72)
+- [An Integration Guide for Next.js Apps](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
 - [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
 - [She Makes $120,000 a Month Blogging](https://dev.to/sufian/she-makes-120000-a-month-blogging-23k0)
-- [Minha jornada de otimização de uma aplicação django](https://dev.to/rafaelpadovezi/minha-jornada-de-otimizacao-de-uma-aplicacao-django-2mdi)
-- [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
 <!-- BLOG-POST-LIST:END -->
 
