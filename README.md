@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v267](https://dev.to/devteam/welcome-thread-v267-4na2)
-- [Essential Strategies and Practices for Entity Framework Core](https://dev.to/admirmujkic/essential-strategies-and-practices-for-entity-framework-core-24kf)
-- [5 FRONTEND DEVELOPMENT BEST PRACTICES](https://dev.to/victor_88/5-frontend-development-best-practices-532m)
-- [Become a DEV](https://dev.to/jayspie/become-a-dev-28b8)
+- [Create a holy grail layout](https://dev.to/phuocng/create-a-holy-grail-layout-1mb5)
+- [CSS Battle #2 - Carrom](https://dev.to/jitheshpoojari/css-battle-2-carrom-560l)
+- [ZK Series #4 [ Sets, Groups, Rings , Finite Fields and Prime Fields]](https://dev.to/justiceessielp/zk-series-4-sets-groups-rings-finite-fields-and-prime-fields-2623)
+- [Kubernetes Simplified: Embarking on the Zero to Hero Journey - Part 2](https://dev.to/sagordondev/kubernetes-simplified-embarking-on-the-zero-to-hero-journey-part-2-50cg)
 <!-- BLOG-POST-LIST:END -->
 
