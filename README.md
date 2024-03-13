@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Websites for Free Bootstrap Templates](https://dev.to/devluc/20-websites-for-free-bootstrap-templates-4on4)
+- [PivotTable : Toolkit for Smart Data Exploration and Analysis](https://dev.to/balagmadhu/pivottable-toolkit-for-smart-data-exploration-and-analysis-obp)
+- [Getting Started with Terraform on AWS](https://dev.to/refine/getting-started-with-terraform-on-aws-4dcm)
 - [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
-- [Essential Investments for Remote Programmers?](https://dev.to/devteam/essential-investments-for-remote-programmers-4807)
-- [Keep react component complexity in check with inversion of control](https://dev.to/francodalmau/keep-react-component-complexity-in-check-with-inversion-of-control-51c4)
-- [accessibility tips from an accessibility engineer](https://dev.to/westbrookc16/accessibility-tips-from-an-accessibility-engineer-4kl8)
 <!-- BLOG-POST-LIST:END -->
 
