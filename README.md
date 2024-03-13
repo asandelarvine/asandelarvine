@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
+- [Essential Investments for Remote Programmers?](https://dev.to/devteam/essential-investments-for-remote-programmers-4807)
 - [Keep react component complexity in check with inversion of control](https://dev.to/francodalmau/keep-react-component-complexity-in-check-with-inversion-of-control-51c4)
 - [accessibility tips from an accessibility engineer](https://dev.to/westbrookc16/accessibility-tips-from-an-accessibility-engineer-4kl8)
-- [GitHub “besieged” by malware repositories and repo confusion: Why you&#39;ll be ok](https://dev.to/snyk/github-besieged-by-malware-repositories-and-repo-confusion-why-youll-be-ok-5hhn)
-- [Create a holy grail layout](https://dev.to/phuocng/create-a-holy-grail-layout-1mb5)
 <!-- BLOG-POST-LIST:END -->
 
