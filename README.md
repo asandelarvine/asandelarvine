@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Publishing .NET Applications with dotnet publish](https://dev.to/ssukhpinder/publishing-net-applications-with-dotnet-publish-545p)
 - [The difficulty of SQL stems from relational algebra](https://dev.to/esproc_spl/the-difficulty-of-sql-stems-from-relational-algebra-47n)
 - [Entendendo memória em transações financeiras](https://dev.to/pedrovian4/entendendo-memoria-em-transacoes-financeiras-kkb)
-- [Build and Deploy: REST API with AWS &lpar;Lambda, API Gateway and DynamoDB&rpar; using Golang](https://dev.to/sourjaya/build-and-deploy-rest-api-with-aws-lambda-api-gateway-and-dynamodb-using-golang-58ap)
+- [Build and Deploy: With AWS &lpar;Lambda, API Gateway and DynamoDB&rpar; using Golang](https://dev.to/sourjaya/build-and-deploy-rest-api-with-aws-lambda-api-gateway-and-dynamodb-using-golang-58ap)
 <!-- BLOG-POST-LIST:END -->
 
