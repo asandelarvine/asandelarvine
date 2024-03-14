@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Hope: Embarking on My Journey from Node.js to GoLang](https://dev.to/leo1994/a-new-hope-embarking-on-my-journey-from-nodejs-to-golang-25dm)
+- [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
+- [ReductStore v1.9.0 Released](https://dev.to/reductstore/reductstore-v190-released-1op0)
 - [Dining Philosophers Problem in Java](https://dev.to/parthasutradhar/dining-philosophers-problem-in-java-a93)
-- [What we built for our Notification Service?](https://dev.to/suprsend/what-we-built-for-our-notification-service-4odd)
-- [Coding in 2024 = Dead? The Best Language to Learn is English? 🤔☠️](https://dev.to/arjuncodess/coding-in-2024-dead-the-best-language-to-learn-is-english-3ol)
-- [利用 AWS Bedrock 释放您的创造力：加入我们的虚拟峰会（第一天）](https://dev.to/aws-builders/li-yong-aws-bedrock-shi-fang-nin-de-chuang-zao-li-jia-ru-wo-men-de-xu-ni-feng-hui-di-tian--52ec)
 <!-- BLOG-POST-LIST:END -->
 
