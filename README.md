@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handle Variables and Dynamic Values with `jest.fn&lpar;&rpar;`](https://dev.to/andrewchaa/handle-variables-and-dynamic-values-with-jestfn-5dn6)
-- [When AI writes code, all code will be open source.](https://dev.to/jorgealvarez/when-ai-writes-code-all-code-will-be-open-source-20gc)
-- [Four Types of Bar Charts in Python - Based on Array Data](https://dev.to/luca1iu/four-types-of-bar-charts-in-python-based-on-array-data-59nb)
-- [You&#39;re Installing Node.js Wrong. That&#39;s OK, Here Is How To Fix It 🙌](https://dev.to/schalkneethling/youre-installing-nodejs-wrong-thats-ok-here-is-how-to-fix-it-3pk8)
+- [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
+- [All the tools I need to build a perfect AI app.](https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh)
+- [JSON Web Token &lpar;JWT&rpar;](https://dev.to/adrianbailador/json-web-token-jwt-40ob)
+- [I made my first game solo with Godot for a Game jam](https://dev.to/yvonnickfrin/i-made-my-first-game-solo-with-godot-for-a-game-jam-3lf8)
 <!-- BLOG-POST-LIST:END -->
 
