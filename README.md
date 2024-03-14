@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
+- [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
+- [To&#39;rtinchi dars switch](https://dev.to/zafar7709/uchinchi-dars-switch-327n)
 - [A New Hope: Embarking on My Journey from Node.js to GoLang](https://dev.to/leo1994/a-new-hope-embarking-on-my-journey-from-nodejs-to-golang-25dm)
-- [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
-- [ReductStore v1.9.0 Released](https://dev.to/reductstore/reductstore-v190-released-1op0)
-- [Dining Philosophers Problem in Java](https://dev.to/parthasutradhar/dining-philosophers-problem-in-java-a93)
 <!-- BLOG-POST-LIST:END -->
 
