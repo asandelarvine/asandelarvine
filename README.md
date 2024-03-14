@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Request and Response](https://dev.to/otumianempire/request-and-response-1031)
+- [Streamlining Software Development: The Power of .gitignore Templates](https://dev.to/adarshbp/streamlining-software-development-the-power-of-gitignore-templates-5aap)
+- [pgvecto.rs 0.2: Unifying Relational Queries and Vector Search in PostgreSQL](https://dev.to/gaocegege/pgvectors-02-unifying-relational-queries-and-vector-search-in-postgresql-424e)
 - [CORS Error Fixed - &quot;no-cors&quot; Mode in the Fetch API](https://dev.to/sh20raj/cors-error-fixed-no-cors-mode-in-the-fetch-api-4kjc)
-- [How many variations can be produced by obfuscating a single line of JavaScript code: &#39;var a=1&#39;?](https://dev.to/wangliwen/how-many-variations-can-be-produced-by-obfuscating-a-single-line-of-javascript-code-var-a1-265e)
-- [How to Create Bookmarklets Using Libraries Like React](https://dev.to/bwca/how-to-create-bookmarklets-using-libraries-like-react-2bhc)
-- [Bridging Gazebo Harmonic and Ros Iron](https://dev.to/andaccc/bridging-gazebo-harmonic-and-ros-iron-41h7)
 <!-- BLOG-POST-LIST:END -->
 
