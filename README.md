@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A better way to display the loading state in Nextjs forms with useFormStatus](https://dev.to/thatanjan/a-better-way-to-display-the-loading-state-in-nextjs-forms-with-useformstatus-28pl)
-- [Exit Code 137 - Kubernetes](https://dev.to/refine/exit-code-137-kubernetes-2e08)
-- [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
-- [All the tools I need to build a perfect AI app.](https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh)
+- [利用 AWS Bedrock 释放您的创造力：加入我们的虚拟峰会（第一天）](https://dev.to/aws-builders/li-yong-aws-bedrock-shi-fang-nin-de-chuang-zao-li-jia-ru-wo-men-de-xu-ni-feng-hui-di-tian--52ec)
+- [Grading students](https://dev.to/kecbm/grading-students-5eok)
+- [How to fix the Cloudwatch log stream: ResourceNotFoundException: The specified log group does not exist in ECS](https://dev.to/fanmixco/how-to-fix-the-cloudwatch-log-stream-resourcenotfoundexception-the-specified-log-group-does-not-exist-in-ecs-1h70)
+- [Slack vs Teams: Which Tool to Choose in 2024](https://dev.to/stan8086/slack-vs-teams-which-tool-to-choose-in-2024-148b)
 <!-- BLOG-POST-LIST:END -->
 
