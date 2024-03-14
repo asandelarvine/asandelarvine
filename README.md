@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Get Dizzy with Digits: Celebrating Pi Day with JavaScript 🥧](https://dev.to/best_codes/get-dizzy-with-digits-celebrating-pi-day-with-javascript-456k)
-- [Performance Tips Every JS React Developer Should Know.](https://dev.to/kartikbudhraja/performance-tips-every-js-react-developer-should-know-1jog)
-- [Using PostHog with Rust](https://dev.to/shuttle_dev/using-posthog-with-rust-387c)
-- [📱 Introducing my latest sideproject: Fridge Leftovers AI 🍲](https://dev.to/azettl/introducing-my-latest-sideproject-fridge-leftovers-ai-2h7n)
+- [What’s the best way to learn to code?](https://dev.to/gigo_dev/whats-the-best-way-to-learn-to-code-27f2)
+- [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
+- [What is System design? &amp; terms you should know before diving deep into system design.](https://dev.to/shyynux/what-is-system-design-terms-you-should-know-before-diving-deep-into-system-design-3jij)
+- [Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
 <!-- BLOG-POST-LIST:END -->
 
