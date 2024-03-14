@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dining Philosophers Problem in Java](https://dev.to/parthasutradhar/dining-philosophers-problem-in-java-a93)
+- [What we built for our Notification Service?](https://dev.to/suprsend/what-we-built-for-our-notification-service-4odd)
+- [Coding in 2024 = Dead? The Best Language to Learn is English? 🤔☠️](https://dev.to/arjuncodess/coding-in-2024-dead-the-best-language-to-learn-is-english-3ol)
 - [利用 AWS Bedrock 释放您的创造力：加入我们的虚拟峰会（第一天）](https://dev.to/aws-builders/li-yong-aws-bedrock-shi-fang-nin-de-chuang-zao-li-jia-ru-wo-men-de-xu-ni-feng-hui-di-tian--52ec)
-- [Grading students](https://dev.to/kecbm/grading-students-5eok)
-- [How to fix the Cloudwatch log stream: ResourceNotFoundException: The specified log group does not exist in ECS](https://dev.to/fanmixco/how-to-fix-the-cloudwatch-log-stream-resourcenotfoundexception-the-specified-log-group-does-not-exist-in-ecs-1h70)
-- [Slack vs Teams: Which Tool to Choose in 2024](https://dev.to/stan8086/slack-vs-teams-which-tool-to-choose-in-2024-148b)
 <!-- BLOG-POST-LIST:END -->
 
