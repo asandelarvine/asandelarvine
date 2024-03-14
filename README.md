@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS v4.0 Alpha: A Revolution Unveiled](https://dev.to/mitchiemt11/tailwind-css-v40-alpha-a-revolution-unveiled-3g72)
-- [An Integration Guide for Next.js Apps](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
-- [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
-- [She Makes $120,000 a Month Blogging](https://dev.to/sufian/she-makes-120000-a-month-blogging-23k0)
+- [What is a Relational Database for Beginners](https://dev.to/annoh_karlgusta/what-is-a-relational-database-for-beginners-5ghd)
+- [Repositório Mulheres na Tecnologia](https://dev.to/anatechdev/repositorio-mulheres-na-tecnologia-1nj8)
+- [here is - how do i structure my nestjs projects](https://dev.to/fiamon/here-is-how-do-i-structure-my-nestjs-projects-m6)
+- [Nurturing Relationships for AI Excellence](https://dev.to/codenewbieteam/nurturing-relationships-for-ai-excellence-26i0)
 <!-- BLOG-POST-LIST:END -->
 
