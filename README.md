@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Five Syntax Highlighting Plugins for NextJS that aren&#39;t Terrible 🎨](https://dev.to/magnificode/five-syntax-highlighting-plugins-for-nextjs-that-arent-terrible-32gg)
+- [123 berufliches Vorwärtskommen: Wandern.](https://dev.to/amustafa16421/123-berufliches-vorwartskommen-wandern-41f)
 - [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
 - [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
-- [To&#39;rtinchi dars switch](https://dev.to/zafar7709/uchinchi-dars-switch-327n)
-- [A New Hope: Embarking on My Journey from Node.js to GoLang](https://dev.to/leo1994/a-new-hope-embarking-on-my-journey-from-nodejs-to-golang-25dm)
 <!-- BLOG-POST-LIST:END -->
 
