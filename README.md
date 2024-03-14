@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A better way to display the loading state in Nextjs forms with useFormStatus](https://dev.to/thatanjan/a-better-way-to-display-the-loading-state-in-nextjs-forms-with-useformstatus-28pl)
+- [Exit Code 137 - Kubernetes](https://dev.to/refine/exit-code-137-kubernetes-2e08)
 - [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
 - [All the tools I need to build a perfect AI app.](https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh)
-- [JSON Web Token &lpar;JWT&rpar;](https://dev.to/adrianbailador/json-web-token-jwt-40ob)
-- [I made my first game solo with Godot for a Game jam](https://dev.to/yvonnickfrin/i-made-my-first-game-solo-with-godot-for-a-game-jam-3lf8)
 <!-- BLOG-POST-LIST:END -->
 
