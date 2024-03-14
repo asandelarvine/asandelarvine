@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Devin AI: The World’s First AI Software Engineer.](https://dev.to/sufian/devin-ai-the-worlds-first-ai-software-engineer-m3k)
+- [The Ultimate SQL SELECT Cheat Sheet](https://dev.to/christianpaez/the-ultimate-sql-select-cheat-sheet-37dl)
 - [What’s the best way to learn to code?](https://dev.to/gigo_dev/whats-the-best-way-to-learn-to-code-27f2)
 - [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
-- [What is System design? &amp; terms you should know before diving deep into system design.](https://dev.to/shyynux/what-is-system-design-terms-you-should-know-before-diving-deep-into-system-design-3jij)
-- [Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
 <!-- BLOG-POST-LIST:END -->
 
