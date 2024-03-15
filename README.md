@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo aprovechar el poder de los diagramas de Gantt en distintos sectores](https://dev.to/selmagalarza/como-aprovechar-el-poder-de-los-diagramas-de-gantt-en-distintos-sectores-5fdd)
-- [How to add color to your Dev.to article’s code snippets](https://dev.to/cbid2/how-to-add-color-to-your-devto-articles-code-snippets-1hm4)
-- [I created a Physics Engine in GoLang💥](https://dev.to/rudransh61/i-created-a-physics-engine-in-golang-b0d)
-- [Understanding the Asynchronous Nature of JavaScript - MERN STACK Series](https://dev.to/sadanandgadwal/understanding-the-asynchronous-nature-of-javascript-mern-stack-series-3dan)
+- [JSON Schema Blog](https://dev.to/aryan_1509/json-schema-blog-2cgi)
+- [API documentation using swagger](https://dev.to/ifeanyichima/api-using-swagger-4o0m)
+- [What is Hyperswitch](https://dev.to/hyperswitchio/what-is-hyperswitch-57o9)
+- [Introducing Mixmotion - an Open Source Music Player with Fullscreen Visual Effects](https://dev.to/lewhunt/introducing-mixmotion-an-open-source-music-player-with-fullscreen-visual-effects-5a16)
 <!-- BLOG-POST-LIST:END -->
 
