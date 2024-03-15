@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unpopular method of console that you must know! 🤯💻🔥](https://dev.to/khushindpatel/unpopular-method-of-console-that-you-must-know-5686)
+- [Open source at Fastly is getting opener](https://dev.to/fastly/open-source-at-fastly-is-getting-opener-804)
 - [JavaScript: Mastering Asynchrony in a Single Thread](https://dev.to/vaddijaswant/javascript-mastering-asynchrony-in-a-single-thread-55h5)
-- [AI and the Future of Actually Getting a Job](https://dev.to/ben/ai-and-the-future-of-actually-getting-a-job-4ei)
-- [Amazon QuickSight](https://dev.to/aws-builders/amazon-quicksight-5ebi)
-- [Better GPU Cluster Scheduling with Runhouse](https://dev.to/donnygreenberg/better-gpu-cluster-scheduling-with-runhouse-iao)
+- [The best AI productivity tools in 2024](https://dev.to/byteom/the-best-ai-productivity-tools-in-2024-2eic)
 <!-- BLOG-POST-LIST:END -->
 
