@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: Mastering Asynchrony in a Single Thread](https://dev.to/vaddijaswant/javascript-mastering-asynchrony-in-a-single-thread-55h5)
 - [AI and the Future of Actually Getting a Job](https://dev.to/ben/ai-and-the-future-of-actually-getting-a-job-4ei)
 - [Amazon QuickSight](https://dev.to/aws-builders/amazon-quicksight-5ebi)
 - [Better GPU Cluster Scheduling with Runhouse](https://dev.to/donnygreenberg/better-gpu-cluster-scheduling-with-runhouse-iao)
-- [Getting Above the Brief: How to Improve Your Developer Marketing Positioning](https://dev.to/daedtech/getting-above-the-brief-how-to-improve-your-developer-marketing-positioning-kdh)
 <!-- BLOG-POST-LIST:END -->
 
