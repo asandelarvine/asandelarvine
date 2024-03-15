@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I created a Physics Engine in GoLang💥](https://dev.to/rudransh61/i-created-a-physics-engine-in-golang-b0d)
 - [Supercharge Your Dev Workflow: How Refact&#39;s AI-powered Code Completion Boosts Developer Productivity](https://dev.to/eunit/supercharge-your-dev-workflow-how-refacts-ai-powered-code-completion-boosts-developer-productivity-429e)
+- [Build faster with the official Netlify Raycast extension](https://dev.to/netlify/build-faster-with-the-official-netlify-raycast-extension-45e5)
 - [Mastering the Art of Database Engineering Management: Key Skills for Success](https://dev.to/_hm/mastering-the-art-of-database-engineering-management-key-skills-for-success-43ng)
-- [How to integrate Component Architecture into Symfony?](https://dev.to/webmamba/how-to-integrate-component-architecture-into-symfony-4bjb)
-- [Beyond Redux - MobX and Zustand](https://dev.to/codeparrot/beyond-redux-mobx-and-zustand-g2a)
 <!-- BLOG-POST-LIST:END -->
 
