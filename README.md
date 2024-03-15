@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Schema Blog](https://dev.to/aryan_1509/json-schema-blog-2cgi)
-- [API documentation using swagger](https://dev.to/ifeanyichima/api-using-swagger-4o0m)
-- [What is Hyperswitch](https://dev.to/hyperswitchio/what-is-hyperswitch-57o9)
-- [Introducing Mixmotion - an Open Source Music Player with Fullscreen Visual Effects](https://dev.to/lewhunt/introducing-mixmotion-an-open-source-music-player-with-fullscreen-visual-effects-5a16)
+- [Getting Above the Brief: How to Improve Your Developer Marketing Positioning](https://dev.to/daedtech/getting-above-the-brief-how-to-improve-your-developer-marketing-positioning-kdh)
+- [What Do You Wish You&#39;d Known Before Becoming A Manager?](https://dev.to/devteam/what-do-you-wish-youd-known-before-becoming-a-manager-2146)
+- [Revolutionizing Agile Ceremonies with OpenAI: A Game-Changer in Software Development](https://dev.to/dev3l/revolutionizing-agile-ceremonies-with-openai-a-game-changer-in-software-development-177p)
+- [Lambda Internals: the Underneath of AWS Serverless Architecture](https://dev.to/fively/lambda-internals-the-underneath-of-aws-serverless-architecture-1a36)
 <!-- BLOG-POST-LIST:END -->
 
