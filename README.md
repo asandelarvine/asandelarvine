@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [You Will Love This Tool! PS: &quot;Talk to a GitHub Repo&quot; AI 😍](https://dev.to/arjuncodess/you-will-love-this-tool-ps-talk-to-a-github-repo-ai-jga)
 - [From Coding to Writing: My Unexpected Blogging Journey](https://dev.to/snehalkadwe/from-coding-to-writing-my-unexpected-blogging-journey-1311)
 - [Unpopular method of console that you must know! 🤯💻🔥](https://dev.to/khushindpatel/unpopular-method-of-console-that-you-must-know-5686)
 - [What I know now, that would have accelerated getting my first job.](https://dev.to/jcsmileyjr/what-i-know-now-that-would-have-accelerated-getting-my-first-job-551n)
-- [Open source at Fastly is getting opener](https://dev.to/fastly/open-source-at-fastly-is-getting-opener-804)
 <!-- BLOG-POST-LIST:END -->
 
