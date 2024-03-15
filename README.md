@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Data Science &amp; DevTools: GitHub Codespaces](https://dev.to/azure/data-science-devtools-github-codespaces-2fn)
+- [Mastering NestJS: Building Scalable Systems with Abstractions, ex: different databases](https://dev.to/henriqueweiand/mastering-nestjs-building-scalable-systems-with-abstractions-ex-different-databases-5cen)
 - [What is Devin AI? The world&#39;s first AI software engineer everyone is talking about](https://dev.to/evansifyke/what-is-devin-ai-the-worlds-first-ai-software-engineer-everyone-is-talking-about-17ja)
 - [You Will Love This Tool! PS: &quot;Talk to a GitHub Repo&quot; AI 😍](https://dev.to/arjuncodess/you-will-love-this-tool-ps-talk-to-a-github-repo-ai-jga)
-- [From Coding to Writing: My Unexpected Blogging Journey](https://dev.to/snehalkadwe/from-coding-to-writing-my-unexpected-blogging-journey-1311)
 <!-- BLOG-POST-LIST:END -->
 
