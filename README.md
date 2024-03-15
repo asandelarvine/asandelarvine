@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Consequences Of Using Health Blog?](https://dev.to/ustatin/what-are-consequences-of-using-health-blog-5lc)
+- [Install and Setup Grafana &amp; Prometheus on Ubuntu 20.04 | 22.04/EC2](https://dev.to/shub6059/install-and-setup-grafana-prometheus-on-ubuntu-2004-2204ec2-3i62)
+- [Mastering Video Game Testing: Unveiling the Layers of Quality Assurance](https://dev.to/grjoeay/mastering-video-game-testing-unveiling-the-layers-of-quality-assurance-146h)
 - [Expert Tips for Processing One Billion Rows in PHP!](https://dev.to/destinypvtltd/expert-tips-for-processing-one-billion-rows-in-php-42p1)
-- [Securing Test ETH from Faucets: A Comprehensive Guide](https://dev.to/getblockapi/securing-test-eth-from-faucets-a-comprehensive-guide-3me3)
-- [GetBlock’s New Chapter as ETH Bucharest Community Partner](https://dev.to/getblockapi/getblocks-new-chapter-as-eth-bucharest-community-partner-3afg)
-- [PancakeSwap V3 Airdrop](https://dev.to/bguerbas/pancakeswap-v3-airdrop-32fa)
 <!-- BLOG-POST-LIST:END -->
 
