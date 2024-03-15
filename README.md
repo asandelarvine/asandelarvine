@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Don&#39;t Use AutoMapper in .Net](https://dev.to/grantdotdev/why-i-dont-use-automapper-in-net-12i6)
 - [Gerando dados com K6 utilizando xk6-faker](https://dev.to/marlo2222/gerando-dados-com-k6-utilizando-xk6-faker-47ck)
+- [Experimenting with Modern UI Alternatives in Rails](https://dev.to/megatux/experimenting-with-modern-ui-alternatives-in-rails-3p9d)
 - [React UI Component Libraries every developer should know](https://dev.to/sharmaprash/react-ui-component-libraries-every-developer-should-know-me0)
-- [How to NOT answer &quot;Where do you see yourself in 5 years?](https://dev.to/jmfayard/how-to-not-answer-where-do-you-see-yourself-in-5-years-398m)
-- [Devin AI: The World’s First AI Software Engineer.](https://dev.to/sufian/devin-ai-the-worlds-first-ai-software-engineer-m3k)
 <!-- BLOG-POST-LIST:END -->
 
