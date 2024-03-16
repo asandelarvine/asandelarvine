@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5h2g)
+- [Redis is more than a Cache #1 - Delaying Jobs](https://dev.to/lukas8219/redis-is-more-than-a-cache-1-delaying-jobs-139)
+- [Lessons from open-source: Typesafe “getInt” utility function in Next.js source code](https://dev.to/ramunarasinga/lessons-from-open-source-typesafe-getint-utility-function-in-nextjs-source-code-32a3)
 - [Data Science &amp; DevTools: GitHub Codespaces](https://dev.to/azure/data-science-devtools-github-codespaces-2fn)
-- [Mastering NestJS: Building Scalable Systems with Abstractions, ex: different databases](https://dev.to/henriqueweiand/mastering-nestjs-building-scalable-systems-with-abstractions-ex-different-databases-5cen)
-- [What is Devin AI? The world&#39;s first AI software engineer everyone is talking about](https://dev.to/evansifyke/what-is-devin-ai-the-worlds-first-ai-software-engineer-everyone-is-talking-about-17ja)
-- [You Will Love This Tool! PS: &quot;Talk to a GitHub Repo&quot; AI 😍](https://dev.to/arjuncodess/you-will-love-this-tool-ps-talk-to-a-github-repo-ai-jga)
 <!-- BLOG-POST-LIST:END -->
 
