@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Some cutting-edge applications that leverage the unique properties of crystal diodes](https://dev.to/ambika-sharma/some-cutting-edge-applications-that-leverage-the-unique-properties-of-crystal-diodes-2ba6)
+- [Go Frameworks](https://dev.to/nandinishinduja/go-frameworks-hoi)
+- [Testing Frameworks](https://dev.to/nandinishinduja/testing-frameworks-29lp)
 - [Flex vs. Grid: Choosing the Right CSS Layout](https://dev.to/codeparrot/flex-vs-grid-choosing-the-right-css-layout-lol)
-- [Accessibility Checks with Jetpack Compose Previews](https://dev.to/eevajonnapanula/accessibility-checks-with-jetpack-compose-previews-1fk3)
-- [Level Up Your Dev Workflow: Conquer Web Development with a Blazing Fast Neovim Setup &lpar;Part 1&rpar;](https://dev.to/insideee_dev/level-up-your-dev-workflow-conquer-web-development-with-a-blazing-fast-neovim-setup-part-1-28b2)
-- [Do You Feel Appreciated in Your Job?](https://dev.to/devteam/do-you-feel-appreciated-in-your-job-3g7d)
 <!-- BLOG-POST-LIST:END -->
 
