@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Converting HTML to Image. and GIF](https://dev.to/suyashthakur/converting-html-to-image-and-gif-2hnn)
 - [Backend Cockfight 2024 Q1](https://dev.to/noriller/backend-cockfight-2024-q1-1h1c)
 - [Boosting Agile Deliveries with Preventive Programming](https://dev.to/tassiofront/boosting-agile-deliveries-with-preventive-programming-221k)
 - [🔥14 most powerful Figma plugins for developers](https://dev.to/codewithshahan/14-most-powerful-figma-plugins-for-developers-27km)
-- [Feeling Stuck with DSA? 🤔 Open This! 🔥](https://dev.to/arjuncodess/stuck-with-dsa-open-this-43e2)
 <!-- BLOG-POST-LIST:END -->
 
