@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizando Testcontainers para Testes de Integração com nestJS e Prisma ORM](https://dev.to/wiliamvj/utilizando-testcontainers-para-testes-de-integracao-com-nestjs-e-prisma-orm-377g)
+- [Ace Your Next Job Interview: Mastering Questions, Overcoming Weaknesses, and Success Stories](https://dev.to/sadmankabir/ace-your-next-job-interview-mastering-questions-overcoming-weaknesses-and-success-stories-2hmi)
+- [Utilizando Testcontainers para Testes de Integração com NestJS e Prisma ORM](https://dev.to/wiliamvj/utilizando-testcontainers-para-testes-de-integracao-com-nestjs-e-prisma-orm-377g)
 - [🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀](https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30)
 - [Why Basic Server Knowledge Is Crucial for Every Developer?](https://dev.to/mmainulhasan/why-basic-server-knowledge-is-crucial-for-every-developer-3ega)
-- [ASP.Net 9.0: Authentication Enhancements](https://dev.to/ssukhpinder/aspnet-core-90-authentication-authorization-enhancements-2ii7)
 <!-- BLOG-POST-LIST:END -->
 
