@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Boosting Agile Deliveries with Preventive Programming](https://dev.to/tassiofront/boosting-agile-deliveries-with-preventive-programming-221k)
+- [🔥14 most powerful Figma plugins for developers](https://dev.to/codewithshahan/14-most-powerful-figma-plugins-for-developers-27km)
 - [Feeling Stuck with DSA? 🤔 Open This! 🔥](https://dev.to/arjuncodess/stuck-with-dsa-open-this-43e2)
 - [Thread Safety in Python Multithreaded Applications](https://dev.to/sk_rajibul_9ce58a68c43bb5/thread-safety-in-python-multithreaded-applications-lm9)
-- [Python&#39;s Power: Mastering Everyday Coding Tasks](https://dev.to/sk_rajibul_9ce58a68c43bb5/pythons-power-mastering-everyday-coding-tasks-4p35)
-- [Top Strategies for Writing Better Python Functions!](https://dev.to/sk_rajibul_9ce58a68c43bb5/top-strategies-for-writing-better-python-functions-38e9)
 <!-- BLOG-POST-LIST:END -->
 
