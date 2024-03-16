@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ASP.Net 9.0: Authentication Enhancements](https://dev.to/ssukhpinder/aspnet-core-90-authentication-authorization-enhancements-2ii7)
+- [Slack vs. Discord in the Modern Workplace](https://dev.to/stan8086/slack-vs-discord-in-the-modern-workplace-4p0b)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
-- [Some cutting-edge applications that leverage the unique properties of crystal diodes](https://dev.to/ambika-sharma/some-cutting-edge-applications-that-leverage-the-unique-properties-of-crystal-diodes-2ba6)
-- [Testing Frameworks](https://dev.to/nandinishinduja/testing-frameworks-29lp)
-- [Flex vs. Grid: Choosing the Right CSS Layout](https://dev.to/codeparrot/flex-vs-grid-choosing-the-right-css-layout-lol)
+- [Copy Objects Ways in JavaScript](https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj)
 <!-- BLOG-POST-LIST:END -->
 
