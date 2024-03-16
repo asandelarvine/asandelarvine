@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
 - [Some cutting-edge applications that leverage the unique properties of crystal diodes](https://dev.to/ambika-sharma/some-cutting-edge-applications-that-leverage-the-unique-properties-of-crystal-diodes-2ba6)
-- [Go Frameworks](https://dev.to/nandinishinduja/go-frameworks-hoi)
 - [Testing Frameworks](https://dev.to/nandinishinduja/testing-frameworks-29lp)
 - [Flex vs. Grid: Choosing the Right CSS Layout](https://dev.to/codeparrot/flex-vs-grid-choosing-the-right-css-layout-lol)
 <!-- BLOG-POST-LIST:END -->
