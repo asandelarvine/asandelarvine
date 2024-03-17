@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hoisting of Variables, Functions, Classes, Types, Interfaces in JavaScript/TypeScript](https://dev.to/antonzo/hoisting-of-variables-functions-classes-types-interfaces-in-javascripttypescript-3el5)
-- [DevPush Bulletin 01 - [FR]](https://dev.to/mrahdev/devpush-bulletin-01-fr-3j51)
-- [Pythonic Isolation: Virtual Environments](https://dev.to/ddebajyati/pythonic-isolation-virtual-environments-4d5l)
-- [AudiPlay : Custom HTML5 Audio Player](https://dev.to/sh20raj/audiplay-custom-html5-audio-player-17ie)
+- [AItoMobile - Build an AI Powered Mobile App ✨📱🚀](https://dev.to/dpills/aitomobile-build-an-ai-powered-mobile-app-2lod)
+- [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
+- [Memory Management in Rust: Stack vs. Heap](https://dev.to/dipankarpaul/memory-management-in-rust-stack-vs-heap-3m45)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-3dmc)
 <!-- BLOG-POST-LIST:END -->
 
