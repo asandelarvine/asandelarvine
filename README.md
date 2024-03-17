@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hoisting of Variables, Functions, Classes, Types, Interfaces in JavaScript/TypeScript](https://dev.to/antonzo/hoisting-of-variables-functions-classes-types-interfaces-in-javascripttypescript-3el5)
+- [DevPush Bulletin 01 - [FR]](https://dev.to/mrahdev/devpush-bulletin-01-fr-3j51)
+- [Pythonic Isolation: Virtual Environments](https://dev.to/ddebajyati/pythonic-isolation-virtual-environments-4d5l)
 - [AudiPlay : Custom HTML5 Audio Player](https://dev.to/sh20raj/audiplay-custom-html5-audio-player-17ie)
-- [Polymorphic Type Support in SignalR Hubs](https://dev.to/ssukhpinder/polymorphic-type-support-in-signalr-hubs-2d96)
-- [Behind the click: unraveling the mystery of the Internet](https://dev.to/0xnuru/behind-the-click-unraveling-the-mystery-of-the-internet-3im7)
-- [&quot;CSS Transform: The Cool Stuff You Can Do with Your Web Design&quot;](https://dev.to/elizabethsobiya/title-css-transform-the-cool-stuff-you-can-do-with-your-web-design-42po)
 <!-- BLOG-POST-LIST:END -->
 
