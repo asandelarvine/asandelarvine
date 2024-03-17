@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev.to and GitHub usage pl Syntax Highlighter](https://dev.to/sh20raj/devto-and-github-usage-pl-syntax-highlighter-3mo8)
+- [Six Novel Features in JavaScript for 2024](https://dev.to/serenepine/six-novel-features-in-javascript-for-2024-25de)
+- [Set up your own personal browser in the Cloud](https://dev.to/dhanushreddy29/set-up-your-own-personal-browser-in-the-cloud-2841)
 - [Do You Feel Lucky? ☘️](https://dev.to/devteam/do-you-feel-lucky-2b7n)
-- [Simple Introduction To HTMX](https://dev.to/ethand91/simple-introduction-to-htmx-18fg)
-- [Implementation of Elastic Search in Django](https://dev.to/robinmuhia/implementation-of-elastic-search-in-django-32d6)
-- [2024 Cheat Sheet Collection](https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8)
 <!-- BLOG-POST-LIST:END -->
 
