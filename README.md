@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The new BottomBar in Flutter](https://dev.to/akashpattnaik/the-new-bottombar-in-flutter-ifm)
+- [Unlocking High-Quality Realistic Pictures: Tips and Tricks with AWS Bedrock](https://dev.to/aws-builders/unlocking-high-quality-realistic-pictures-tips-and-tricks-with-aws-bedrock-28mn)
 - [React Native and Flutter: A Developer&#39;s Dilemma](https://dev.to/codeparrot/react-native-and-flutter-a-developers-dilemma-214d)
-- [解锁高质量逼真图片：AWS Bedrock的技巧与窍门](https://dev.to/aws-builders/jie-suo-gao-zhi-liang-bi-zhen-tu-pian-aws-bedrockde-ji-qiao-yu-qiao-men-1mfh)
-- [Unleash Your Creativity with AWS Bedrock: Formula 1 Championship &lpar;Day 2&rpar;](https://dev.to/aws-builders/unleash-your-creativity-with-aws-bedrock-formula-1-championship-day-2-m1f)
-- [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)
+- [解锁高质量逼真图片：AWS Bedrock的技巧与窍门](https://dev.to/danc/jie-suo-gao-zhi-liang-bi-zhen-tu-pian-aws-bedrockde-ji-qiao-yu-qiao-men-1mfh)
 <!-- BLOG-POST-LIST:END -->
 
