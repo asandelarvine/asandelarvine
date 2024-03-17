@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [For intricate state handling, try out the useReducer&lpar;&rpar; Hook](https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952)
 - [Adding Location and Device Type Features in Flutter Apps with VisitorAPI](https://dev.to/chaoming/adding-location-and-device-type-features-in-flutter-apps-with-visitorapi-25k0)
 - [Funções Java: Decifrando O forEach&lpar;&rpar;](https://dev.to/giselletech/funcoes-java-decifrando-o-foreach-5339)
 - [Converting HTML to Image. and GIF](https://dev.to/suyashthakur/converting-html-to-image-and-gif-2hnn)
-- [Backend Cockfight 2024 Q1](https://dev.to/noriller/backend-cockfight-2024-q1-1h1c)
 <!-- BLOG-POST-LIST:END -->
 
