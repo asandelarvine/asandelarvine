@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Introduction To HTMX](https://dev.to/ethand91/simple-introduction-to-htmx-18fg)
+- [Implementation of Elastic Search in Django](https://dev.to/robinmuhia/implementation-of-elastic-search-in-django-32d6)
+- [2024 Cheat Sheet Collection](https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8)
 - [For intricate state handling, try out the useReducer&lpar;&rpar; Hook](https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952)
-- [Adding Location and Device Type Features in Flutter Apps with VisitorAPI](https://dev.to/chaoming/adding-location-and-device-type-features-in-flutter-apps-with-visitorapi-25k0)
-- [Funções Java: Decifrando O forEach&lpar;&rpar;](https://dev.to/giselletech/funcoes-java-decifrando-o-foreach-5339)
-- [Converting HTML to Image. and GIF](https://dev.to/suyashthakur/converting-html-to-image-and-gif-2hnn)
 <!-- BLOG-POST-LIST:END -->
 
