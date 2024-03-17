@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I released A Physics Engine in GoLang 🔥](https://dev.to/rudransh61/i-released-a-physics-engine-in-golang-elb)
+- [利用 AWS Bedrock 释放您的创造力：一级方程式冠军赛（第二天）](https://dev.to/danc/li-yong-aws-bedrock-shi-fang-nin-de-chuang-zao-li-ji-fang-cheng-shi-guan-jun-sai-di-er-tian--5h41)
 - [Introducing DevOps Toolkit](https://dev.to/tungbq/introducing-devops-toolkit-32fa)
 - [A Beginner&#39;s Guide to Running a MERN Stack Application Locally](https://dev.to/rohitashsingh89/a-beginners-guide-to-running-a-mern-stack-application-locally-59o0)
-- [Real time chat app using sockets](https://dev.to/vaibhav_31/real-time-chat-app-using-sockets-3na2)
-- [Dev.to and GitHub usage pl Syntax Highlighter](https://dev.to/sh20raj/devto-and-github-usage-pl-syntax-highlighter-3mo8)
 <!-- BLOG-POST-LIST:END -->
 
