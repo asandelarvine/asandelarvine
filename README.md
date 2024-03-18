@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Techniques Every Developer Should Know](https://dev.to/surajondev/debugging-techniques-every-developer-should-know-85f)
-- [Devin: A Tool, Not a Substitute for Your Job](https://dev.to/osahenru/devin-a-tool-not-a-substitute-for-your-job-46ib)
-- [Azure vs. AWS: a Deep Dive Into the Cloud Security](https://dev.to/fively/azure-vs-aws-a-deep-dive-into-the-cloud-security-45k9)
-- [Building plugins in Vue](https://dev.to/jacobandrewsky/building-plugins-in-vue-2i1c)
+- [GNS3&#39;de Verimliliği Artıran İki Gizli Özellik](https://dev.to/aciklab/gns3de-verimliligi-artiran-iki-gizli-ozellik-41j7)
+- [🙋 How to Show Up Daily as a Newbie Dev](https://dev.to/evergrowingdev/how-to-show-up-daily-as-a-newbie-dev-4812)
+- [DNS -The gatekeeper 24/7 of the internet - Part 2](https://dev.to/locnguyenpv/dns-the-gatekeeper-247-of-the-internet-part-2-3hl9)
+- [AI Automated Engineers - Are We Doomed?](https://dev.to/esponges/ai-automated-engineers-are-we-doomed-1dd1)
 <!-- BLOG-POST-LIST:END -->
 
