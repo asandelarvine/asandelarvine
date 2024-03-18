@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Terraform, Kubernetes, and Helm: The Power Trio](https://dev.to/env0/using-terraform-kubernetes-and-helm-the-power-trio-52o7)
+- [FLaNK AI Weekly 18 March 2024](https://dev.to/tspannhw/flank-ai-weekly-18-march-2024-18ld)
+- [Simplifying AI Integration: Insights from Taipy&#39;s Journey](https://dev.to/taipy/simplifying-ai-integration-insights-from-taipys-journey-31i8)
 - [GNS3&#39;de Verimliliği Artıran İki Gizli Özellik](https://dev.to/aciklab/gns3de-verimliligi-artiran-iki-gizli-ozellik-41j7)
-- [🙋 How to Show Up Daily as a Newbie Dev](https://dev.to/evergrowingdev/how-to-show-up-daily-as-a-newbie-dev-4812)
-- [DNS -The gatekeeper 24/7 of the internet - Part 2](https://dev.to/locnguyenpv/dns-the-gatekeeper-247-of-the-internet-part-2-3hl9)
-- [AI Automated Engineers - Are We Doomed?](https://dev.to/esponges/ai-automated-engineers-are-we-doomed-1dd1)
 <!-- BLOG-POST-LIST:END -->
 
