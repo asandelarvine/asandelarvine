@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Wordle in Power Automate](https://dev.to/wyattdave/creating-wordle-in-power-automate-57dn)
+- [4 Ways to Judo Mansplaining](https://dev.to/jmfayard/4-ways-to-judo-mansplaining-43j2)
 - [🚀 API Maker : Release Notes for v1.4.0](https://dev.to/apimaker/api-maker-release-notes-for-v140-2oi6)
 - [C#: From Fundamentals to Advanced Techniques — A Comprehensive Cheat Sheet](https://dev.to/ssukhpinder/c-from-fundamentals-to-advanced-techniques-a-comprehensive-cheat-sheet-33p5)
-- [SMS Verification APIs with Node.js](https://dev.to/alinaj/sms-verification-apis-with-nodejs-34pi)
-- [Best Practices for React Development](https://dev.to/imrankh13332994/best-practices-for-react-development-43k7)
 <!-- BLOG-POST-LIST:END -->
 
