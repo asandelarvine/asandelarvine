@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Terraform, Kubernetes, and Helm: The Power Trio](https://dev.to/env0/using-terraform-kubernetes-and-helm-the-power-trio-52o7)
-- [FLaNK AI Weekly 18 March 2024](https://dev.to/tspannhw/flank-ai-weekly-18-march-2024-18ld)
-- [Simplifying AI Integration: Insights from Taipy&#39;s Journey](https://dev.to/taipy/simplifying-ai-integration-insights-from-taipys-journey-31i8)
-- [GNS3&#39;de Verimliliği Artıran İki Gizli Özellik](https://dev.to/aciklab/gns3de-verimliligi-artiran-iki-gizli-ozellik-41j7)
+- [Unleash Your Creativity with AWS Bedrock: Afterparty &lpar;Day 3&rpar;](https://dev.to/aws-builders/unleash-your-creativity-with-aws-bedrock-afterparty-day-3-1mmh)
+- [Crafting Compelling Data Narratives:A Comprehensive Look at Chart Types in Power BI.](https://dev.to/phylis/crafting-compelling-data-narrativesa-comprehensive-look-at-chart-types-in-power-bi-4740)
+- [Executable Playground of &quot;typia&quot;, 20000x faster TS validator/serializer](https://dev.to/samchon/executable-playground-of-typia-super-easyfast-typescript-validatorserializer-2ble)
+- [Enhance Your Project Quality with These Top Python Libraries](https://dev.to/mrkandreev/enhance-your-project-quality-with-these-top-python-libraries-2ln5)
 <!-- BLOG-POST-LIST:END -->
 
