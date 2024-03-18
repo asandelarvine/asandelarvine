@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NuShell - Ceci n&#39;est pas une |](https://dev.to/giuliano1993/nushell-ceci-nest-pas-une--5f8l)
 - [What&#39;s Got You Excited This Week?](https://dev.to/devteam/whats-got-you-excited-this-week-2332)
+- [Unlock Cross-Micro-Frontend State Sharing!](https://dev.to/trinly01/unlock-cross-micro-frontend-state-sharing-1clh)
 - [TypeScript | Beginner](https://dev.to/shubhamtiwari909/typescript-beginner-375o)
-- [Creating Wordle in Power Automate](https://dev.to/wyattdave/creating-wordle-in-power-automate-57dn)
-- [4 Ways to Judo Mansplaining](https://dev.to/jmfayard/4-ways-to-judo-mansplaining-43j2)
 <!-- BLOG-POST-LIST:END -->
 
