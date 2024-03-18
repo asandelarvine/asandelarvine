@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Creativity with AWS Bedrock: Afterparty &lpar;Day 3&rpar;](https://dev.to/aws-builders/unleash-your-creativity-with-aws-bedrock-afterparty-day-3-1mmh)
-- [Crafting Compelling Data Narratives:A Comprehensive Look at Chart Types in Power BI.](https://dev.to/phylis/crafting-compelling-data-narrativesa-comprehensive-look-at-chart-types-in-power-bi-4740)
-- [Executable Playground of &quot;typia&quot;, 20000x faster TS validator/serializer](https://dev.to/samchon/executable-playground-of-typia-super-easyfast-typescript-validatorserializer-2ble)
-- [Enhance Your Project Quality with These Top Python Libraries](https://dev.to/mrkandreev/enhance-your-project-quality-with-these-top-python-libraries-2ln5)
+- [Learning Rust: Structuring Data with Structs](https://dev.to/link2twenty/learning-rust-structuring-data-with-structs-44k)
+- [Learning to Code: A Waste of Time?](https://dev.to/buzzpy/learning-to-code-a-waste-of-time-2abj)
+- [Should You Specialize Or Not? Solving A Developer&#39;s Dilemma](https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7)
+- [How Redis Addressed Our Dynamic Task Scheduling and Concurrent Execution Issues w Celery &amp; Postgres](https://dev.to/suprsend/how-redis-addressed-our-dynamic-task-scheduling-and-concurrent-execution-issues-w-celery-postgres-26fb)
 <!-- BLOG-POST-LIST:END -->
 
