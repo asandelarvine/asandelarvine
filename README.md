@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [I created dev.to clone Using API + NextJS 🚀](https://dev.to/sh20raj/i-created-devto-clone-using-api-nextjs-2ha7)
 - [How to Transpose Columns in Each Group to a Single Row](https://dev.to/esproc_spl/how-to-transpose-columns-in-each-group-to-a-single-row-156i)
+- [Things I learned while building projects with NX](https://dev.to/mathuraditya7/things-i-learned-while-building-projects-with-nx-39gm)
 - [One Billion Row Challenge in Golang - From 95s to 1.96s](https://dev.to/r2p/one-billion-row-challenge-in-golang-from-95s-to-196s-4980)
-- [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
 <!-- BLOG-POST-LIST:END -->
 
