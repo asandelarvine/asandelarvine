@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
+- [A woman in tech: positive or negative discrimination? Interview with an ex-Big Tech employee part 2](https://dev.to/latobibor/a-woman-in-tech-positive-or-negative-discrimination-interview-with-an-ex-big-tech-employee-part-2-2146)
 - [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
 - [CSS Parent &amp; Previous-Sibling Selectors are here!](https://dev.to/brycehowitson/css-parent-previous-sibling-selectors-are-here-48hm)
-- [CSS Box Model &lpar;intro&rpar; 🚀](https://dev.to/modulo_script/css-box-model-intro-h68)
 <!-- BLOG-POST-LIST:END -->
 
