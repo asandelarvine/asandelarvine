@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I created dev.to clone Using API + NextJS 🚀](https://dev.to/sh20raj/i-created-devto-clone-using-api-nextjs-2ha7)
+- [How to Transpose Columns in Each Group to a Single Row](https://dev.to/esproc_spl/how-to-transpose-columns-in-each-group-to-a-single-row-156i)
+- [One Billion Row Challenge in Golang - From 95s to 1.96s](https://dev.to/r2p/one-billion-row-challenge-in-golang-from-95s-to-196s-4980)
 - [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
-- [A woman in tech: positive or negative discrimination? Interview with an ex-Big Tech employee part 2](https://dev.to/latobibor/a-woman-in-tech-positive-or-negative-discrimination-interview-with-an-ex-big-tech-employee-part-2-2146)
-- [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
-- [CSS Parent &amp; Previous-Sibling Selectors are here!](https://dev.to/brycehowitson/css-parent-previous-sibling-selectors-are-here-48hm)
 <!-- BLOG-POST-LIST:END -->
 
