@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I created dev.to clone Using API + NextJS 🚀](https://dev.to/sh20raj/i-created-devto-clone-using-api-nextjs-2ha7)
-- [How to Transpose Columns in Each Group to a Single Row](https://dev.to/esproc_spl/how-to-transpose-columns-in-each-group-to-a-single-row-156i)
-- [Things I learned while building projects with NX](https://dev.to/mathuraditya7/things-i-learned-while-building-projects-with-nx-39gm)
-- [One Billion Row Challenge in Golang - From 95s to 1.96s](https://dev.to/r2p/one-billion-row-challenge-in-golang-from-95s-to-196s-4980)
+- [🚀 API Maker : Release Notes for v1.4.0](https://dev.to/apimaker/api-maker-release-notes-for-v140-2oi6)
+- [C#: From Fundamentals to Advanced Techniques — A Comprehensive Cheat Sheet](https://dev.to/ssukhpinder/c-from-fundamentals-to-advanced-techniques-a-comprehensive-cheat-sheet-33p5)
+- [SMS Verification APIs with Node.js](https://dev.to/alinaj/sms-verification-apis-with-nodejs-34pi)
+- [Best Practices for React Development](https://dev.to/imrankh13332994/best-practices-for-react-development-43k7)
 <!-- BLOG-POST-LIST:END -->
 
