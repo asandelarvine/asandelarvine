@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #193](https://dev.to/aws/aws-open-source-newsletter-193-2njm)
+- [📚Turn the Ship Around!✨](https://dev.to/balagmadhu/turn-the-ship-around-1ed2)
 - [NuShell - Ceci n&#39;est pas une |](https://dev.to/giuliano1993/nushell-ceci-nest-pas-une--5f8l)
 - [What&#39;s Got You Excited This Week?](https://dev.to/devteam/whats-got-you-excited-this-week-2332)
-- [Unlock Cross-Micro-Frontend State Sharing!](https://dev.to/trinly01/unlock-cross-micro-frontend-state-sharing-1clh)
-- [TypeScript | Beginner](https://dev.to/shubhamtiwari909/typescript-beginner-375o)
 <!-- BLOG-POST-LIST:END -->
 
