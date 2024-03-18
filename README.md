@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
+- [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
 - [CSS Parent &amp; Previous-Sibling Selectors are here!](https://dev.to/brycehowitson/css-parent-previous-sibling-selectors-are-here-48hm)
 - [CSS Box Model &lpar;intro&rpar; 🚀](https://dev.to/modulo_script/css-box-model-intro-h68)
-- [AItoMobile - Build an AI Powered Mobile App ✨📱🚀](https://dev.to/dpills/aitomobile-build-an-ai-powered-mobile-app-2lod)
-- [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
 <!-- BLOG-POST-LIST:END -->
 
