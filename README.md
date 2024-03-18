@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Techniques Every Developer Should Know](https://dev.to/surajondev/debugging-techniques-every-developer-should-know-85f)
+- [Devin: A Tool, Not a Substitute for Your Job](https://dev.to/osahenru/devin-a-tool-not-a-substitute-for-your-job-46ib)
 - [Azure vs. AWS: a Deep Dive Into the Cloud Security](https://dev.to/fively/azure-vs-aws-a-deep-dive-into-the-cloud-security-45k9)
-- [Quick tip: Using Apache Spark with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-apache-spark-with-singlestore-notebooks-3634)
-- [AWS open source newsletter, #193](https://dev.to/aws/aws-open-source-newsletter-193-2njm)
-- [📚Turn the Ship Around!✨](https://dev.to/balagmadhu/turn-the-ship-around-1ed2)
+- [Building plugins in Vue](https://dev.to/jacobandrewsky/building-plugins-in-vue-2i1c)
 <!-- BLOG-POST-LIST:END -->
 
