@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [6 Tools To Help Keep Your Dependencies And Code More Secure](https://dev.to/schalkneethling/6-tools-to-help-keep-your-dependencies-and-code-more-secure-13mi)
 - [Deployments and Load Balancing in Kubernetes](https://dev.to/ken_mwaura1/deployments-and-load-balancing-in-kubernetes-230)
+- [🦀 Axum - Hello World !](https://dev.to/yellowcoder/axum-hello-world--1435)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
-- [I trashed a software website just to reboot it 5 years later!](https://dev.to/jordantylerburchett/i-trashed-a-software-website-just-to-reboot-it-5-years-later-2gfo)
 <!-- BLOG-POST-LIST:END -->
 
