@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Clerk Authentication to a NextJS App](https://dev.to/brianmmdev/adding-clerk-auth-to-a-nextjs-app-2n9c)
 - [Your Git Commit Messages Suck! Here&#39;s What To Fix 🛠](https://dev.to/arjuncodess/your-git-commit-messages-suck-heres-what-to-fix-2n1f)
 - [What is the worst advice you&#39;ve ever received?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-is-the-worst-advice-youve-ever-received-codenewbie-podcast-5g49)
 - [How to Cloud: Containerization](https://dev.to/aws-builders/how-to-cloud-containerization-1k56)
-- [Dynamic Community Landing Page with Next.js, React, Tailwind, and Strapi - Download Free](https://dev.to/fpaghar/dynamic-community-landing-page-with-nextjs-react-tailwind-and-strapi-download-free-34ol)
 <!-- BLOG-POST-LIST:END -->
 
