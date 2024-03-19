@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Tools To Help Keep Your Dependencies And Code More Secure](https://dev.to/schalkneethling/6-tools-to-help-keep-your-dependencies-and-code-more-secure-13mi)
-- [Deployments and Load Balancing in Kubernetes](https://dev.to/ken_mwaura1/deployments-and-load-balancing-in-kubernetes-230)
-- [🦀 Axum - Hello World !](https://dev.to/yellowcoder/axum-hello-world--1435)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
+- [Enriquecendo Operações Numéricas com `IntPtr` Numérico no C# 11](https://dev.to/lincolnqjunior/enriquecendo-operacoes-numericas-com-intptr-numerico-no-c-11-4odp)
+- [🎆THE BEST GIT COMMANDS YOU PROBABLY DON&#39;T KNOW FOR 2024 🎆](https://dev.to/luciano655dev/the-best-git-commands-you-probably-dont-know-for-2024-3mjl)
+- [Basic Python Projects for Beginners](https://dev.to/romulogatto/basic-python-projects-for-beginners-2c49)
+- [New Beginnings](https://dev.to/dillybunn/new-beginnings-2o11)
 <!-- BLOG-POST-LIST:END -->
 
