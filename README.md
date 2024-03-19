@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Composable Software Architectures are Trending: Here’s Why](https://dev.to/bitdev_/composable-software-architectures-are-trending-heres-why-17ka)
-- [Top 5 Technical Writing Communities of 2024](https://dev.to/hackmamba/top-5-technical-writing-communities-of-2024-686)
-- [DEVIN: the only developer we all are afraid of 😀](https://dev.to/shreyvijayvargiya/devin-the-only-developer-we-all-are-afraid-of-1jfc)
-- [How to Implement Micro Frontends Using SystemJS: A Comprehensive Guide](https://dev.to/confrontend/how-to-implement-micro-frontends-using-systemjs-a-comprehensive-guide-i3a)
+- [Why adopt passkeys?](https://dev.to/toby_hobson/why-adopt-passkeys-5hk6)
+- [Why enterprises need to adopt a multi-cloud strategy](https://dev.to/softwebsolution/why-enterprises-need-to-adopt-a-multi-cloud-strategy-37dk)
+- [✨Building a PDF Viewer for Vue.js with PDF.js, vue3-pdf-app and more 🚀](https://dev.to/fangtanbamrung/building-a-pdf-viewer-for-vuejs-with-pdfjs-vue3-pdf-app-and-more-21ii)
+- [JavaScript Libraries That You Should Know](https://dev.to/brojenuel/javascript-libraries-that-you-should-know-4lol)
 <!-- BLOG-POST-LIST:END -->
 
