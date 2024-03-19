@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the worst advice you&#39;ve ever received?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-is-the-worst-advice-youve-ever-received-codenewbie-podcast-5g49)
+- [How to Cloud: Containerization](https://dev.to/aws-builders/how-to-cloud-containerization-1k56)
 - [Dynamic Community Landing Page with Next.js, React, Tailwind, and Strapi - Download Free](https://dev.to/fpaghar/dynamic-community-landing-page-with-nextjs-react-tailwind-and-strapi-download-free-34ol)
-- [Get a specific apiVersion manifest from k8s](https://dev.to/rgeraskin/get-a-specific-apiversion-manifest-from-k8s-385j)
-- [What is RAG &lpar;Retrieval-Augmented Generation&rpar;?](https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n)
-- [Learning AWS Day by Day — Day 10 — Introduction to Load Balancers](https://dev.to/rksalo88/learning-aws-day-by-day-day-10-introduction-to-load-balancers-fg0)
+- [Create &quot;Container&quot; without Docker](https://dev.to/kamraj/create-container-without-docker-256o)
 <!-- BLOG-POST-LIST:END -->
 
