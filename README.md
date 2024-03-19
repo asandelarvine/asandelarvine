@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your Open Source Dream Team: A Guide](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90)
-- [Why we changed our hiring process at Hyperswitch 🚀🎸](https://dev.to/hyperswitchio/why-we-changed-our-hiring-process-at-hyperswitch-157)
-- [Clerk Update — March 2024](https://dev.to/clerk/clerk-update-march-2024-5b22)
-- [Beyond Infrastructure](https://dev.to/ahmadbarake/beyond-infrastructure-ofj)
+- [What is RAG: Understanding Retrieval-Augmented Generation](https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n)
+- [What is Git Cherry-Pick?](https://dev.to/michaeljolley/what-is-git-cherry-pick-23jp)
+- [Caching Behavior of get Requests in Next.js 13+](https://dev.to/shreyaan/caching-behavior-of-get-requests-in-nextjs-13-2342)
+- [March on Glitch goes in like a lion and out like...an app. Yep, that’s the one.](https://dev.to/glitch/march-on-glitch-goes-in-like-a-lion-and-out-likean-app-yep-thats-the-one-3c55)
 <!-- BLOG-POST-LIST:END -->
 
