@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Model Validation Attribute Cheatsheet](https://dev.to/ssukhpinder/c-model-validation-attribute-cheatsheet-2nml)
 - [Just for Fun: Create a Battery Indicator with React &lpar;Works Only in Chrome&rpar;](https://dev.to/alexefimenko/just-for-fun-create-a-battery-indicator-with-react-works-only-in-chrome-2b0n)
 - [Measuring Developer Experience](https://dev.to/hypedevrel/measuring-developer-experience-58pg)
 - [Is content the secret sauce of DevRel?](https://dev.to/hypedevrel/is-content-the-secret-sauce-of-devrel-973)
-- [&lpar;Docker&rpar; Criando um ambiente LAMP utilizando Docker Compose](https://dev.to/matsesso/docker-criando-um-ambiente-lamp-utilizando-docker-compose-3ch8)
 <!-- BLOG-POST-LIST:END -->
 
