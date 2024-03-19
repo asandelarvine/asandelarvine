@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why adopt passkeys?](https://dev.to/toby_hobson/why-adopt-passkeys-5hk6)
-- [Why enterprises need to adopt a multi-cloud strategy](https://dev.to/softwebsolution/why-enterprises-need-to-adopt-a-multi-cloud-strategy-37dk)
-- [✨Building a PDF Viewer for Vue.js with PDF.js, vue3-pdf-app and more 🚀](https://dev.to/fangtanbamrung/building-a-pdf-viewer-for-vuejs-with-pdfjs-vue3-pdf-app-and-more-21ii)
-- [JavaScript Libraries That You Should Know](https://dev.to/brojenuel/javascript-libraries-that-you-should-know-4lol)
+- [React Select: The complete guide with code examples](https://dev.to/alakkadshaw/react-select-the-complete-guide-with-code-examples-1d1h)
+- [Improve git clone performance in a CI pipeline](https://dev.to/saranshk/improve-git-clone-performance-in-a-ci-pipeline-52pf)
+- [From Chaos to Clarity with AI-driven Categorization](https://dev.to/mikeyoung44/from-chaos-to-clarity-with-ai-driven-categorization-3727)
+- [I will always support you! Share my experience of being sexually assaulted.](https://dev.to/rhaenyraliang/i-will-always-support-you-share-my-experience-of-being-sexually-assaulted-4idd)
 <!-- BLOG-POST-LIST:END -->
 
