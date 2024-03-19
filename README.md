@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is RAG: Understanding Retrieval-Augmented Generation](https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n)
-- [What is Git Cherry-Pick?](https://dev.to/michaeljolley/what-is-git-cherry-pick-23jp)
-- [Caching Behavior of get Requests in Next.js 13+](https://dev.to/shreyaan/caching-behavior-of-get-requests-in-nextjs-13-2342)
-- [March on Glitch goes in like a lion and out like...an app. Yep, that’s the one.](https://dev.to/glitch/march-on-glitch-goes-in-like-a-lion-and-out-likean-app-yep-thats-the-one-3c55)
+- [Dynamic Community Landing Page with Next.js, React, Tailwind, and Strapi - Download Free](https://dev.to/fpaghar/dynamic-community-landing-page-with-nextjs-react-tailwind-and-strapi-download-free-34ol)
+- [Get a specific apiVersion manifest from k8s](https://dev.to/rgeraskin/get-a-specific-apiversion-manifest-from-k8s-385j)
+- [What is RAG &lpar;Retrieval-Augmented Generation&rpar;?](https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n)
+- [Learning AWS Day by Day — Day 10 — Introduction to Load Balancers](https://dev.to/rksalo88/learning-aws-day-by-day-day-10-introduction-to-load-balancers-fg0)
 <!-- BLOG-POST-LIST:END -->
 
