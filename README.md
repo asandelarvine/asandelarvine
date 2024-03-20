@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Better Way to Build Reproducible Docker Images with Nix](https://dev.to/anurag_vishwakarma/a-better-way-to-build-reproducible-docker-images-with-nix-2k59)
-- [Growing a side-project to 100k Unique Visitors in one week](https://dev.to/piotrkulpinski/growing-a-side-project-to-100k-unique-visitors-in-one-week-29mf)
-- [Weather CLI Tool coded in RUST](https://dev.to/bekbrace/weather-cli-tool-coded-in-rust-573h)
-- [Don&#39;t go all-in Clean Architecture: An alternative for NestJS applications](https://dev.to/thiagomini/dont-go-all-in-clean-architecture-an-alternative-for-nestjs-applications-p53)
+- [Top 10 Git Commands I Use Every Day](https://dev.to/rinamikami2/top-10-git-commands-i-use-every-day-2n46)
+- [Welcome Thread - v268](https://dev.to/devteam/welcome-thread-v268-2p0f)
+- [Exploring Inheritance in Object-Oriented Programming](https://dev.to/m__mdy__m/exploring-inheritance-in-object-oriented-programming-k0e)
+- [Useful Commands](https://dev.to/paihari/useful-commands-14ji)
 <!-- BLOG-POST-LIST:END -->
 
