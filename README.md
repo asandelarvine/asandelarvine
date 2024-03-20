@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Host your own CTF for free 💸 &lpar;CTFd Setup Guide&rpar;](https://dev.to/jihedkdiss/host-your-own-ctf-for-free-ctfd-setup-guide-4jbp)
 - [Top 10 Git Commands I Use Every Day](https://dev.to/rinamikami2/top-10-git-commands-i-use-every-day-2n46)
 - [Welcome Thread - v268](https://dev.to/devteam/welcome-thread-v268-2p0f)
-- [Exploring Inheritance in Object-Oriented Programming](https://dev.to/m__mdy__m/exploring-inheritance-in-object-oriented-programming-k0e)
-- [Useful Commands](https://dev.to/paihari/useful-commands-14ji)
+- [My new personal/business cards](https://dev.to/andypiper/my-new-personalbusiness-cards-3g7)
 <!-- BLOG-POST-LIST:END -->
 
