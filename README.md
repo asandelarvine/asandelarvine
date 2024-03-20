@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Shadow DOM API](https://dev.to/sarahokolo/shadow-dom-api-2jim)
+- [Service Worker API](https://dev.to/ethernmyth/service-worker-api-4a46)
+- [Why Long Context Windows in LLMs can be deceptive &lpar;Lost in the Middle problem&rpar;](https://dev.to/llmware/why-long-context-windows-for-llms-can-be-deceptive-lost-in-the-middle-problem-oj2)
 - [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
-- [This challenge has got me craving a burger now!](https://dev.to/ssukhpinder/this-challenge-has-got-me-craving-a-burger-now-51oi)
-- [Cypress vs. Selenium: Choosing the Right Automation Tool](https://dev.to/igahsamuel/cypress-vs-selenium-choosing-the-right-automation-tool-3omd)
-- [The weird quirk with rounding in Python &lpar;and that is good&rpar;](https://dev.to/wagenrace/the-weird-quirk-with-rounding-in-python-and-that-is-good-1fki)
 <!-- BLOG-POST-LIST:END -->
 
