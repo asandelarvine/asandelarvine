@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow DOM API](https://dev.to/sarahokolo/shadow-dom-api-2jim)
-- [Service Worker API](https://dev.to/ethernmyth/service-worker-api-4a46)
-- [Why Long Context Windows in LLMs can be deceptive &lpar;Lost in the Middle problem&rpar;](https://dev.to/llmware/why-long-context-windows-for-llms-can-be-deceptive-lost-in-the-middle-problem-oj2)
-- [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
+- [Precisamos falar sobre ipdb: Uma Jornada para um debugger mais Eficiente em Python](https://dev.to/carineneris/precisamos-falar-sobre-ipdb-uma-jornada-para-um-debugger-mais-eficiente-em-python-4blj)
+- [Making a notification service with Rust &amp; AWS SNS](https://dev.to/shuttle_dev/making-a-notification-service-with-rust-aws-sns-1of3)
+- [One Byte Explainer: matchMedia](https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5)
+- [Mastering React: A Simplified Guide for Folder Structure](https://dev.to/mgeovany/mastering-react-a-simplified-guide-for-folder-structure-3927)
 <!-- BLOG-POST-LIST:END -->
 
