@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [About Us](https://dev.to/devart/about-us-1jm9)
-- [Digital Millennium Copyright Act &lpar;DMCA&rpar; Notice](https://dev.to/devart/digital-millennium-copyright-act-dmca-notice-3mb4)
-- [Guidelines and Terms of Service &lpar;TOS&rpar;](https://dev.to/devart/guidelines-and-terms-of-service-tos-4khk)
-- [Disclaimer](https://dev.to/devart/disclaimer-53h)
+- [Recommend a flexible Node.js multi-functional crawler library —— x-crawl](https://dev.to/coderhxl/recommend-a-flexible-nodejs-multi-functional-crawler-library-9dj)
+- [Integrate sqlite with Nodejs ! 🔥](https://dev.to/margish288/integrate-sqlite-with-nodejs--n55)
+- [Swiper.js Tutorial](https://dev.to/refine/swiperjs-tutorial-7ih)
+- [Knative Serverless in 2024](https://dev.to/jensgst/knative-serverless-in-2024-dom)
 <!-- BLOG-POST-LIST:END -->
 
