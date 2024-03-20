@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Conquer Every User Journey: Building Robust E2E Tests with Playwright- part 1](https://dev.to/teyim/conquer-every-user-journey-building-robust-e2e-tests-with-playwright-part-1-1nbg)
+- [Top 10 Practices for Designing Efficient RESTful APIs](https://dev.to/michaelayomidejohnson/top-10-practices-for-designing-efficient-restful-apis-250e)
 - [Recommend a flexible Node.js multi-functional crawler library —— x-crawl](https://dev.to/coderhxl/recommend-a-flexible-nodejs-multi-functional-crawler-library-9dj)
-- [Integrate sqlite with Nodejs ! 🔥](https://dev.to/margish288/integrate-sqlite-with-nodejs--n55)
-- [Swiper.js Tutorial](https://dev.to/refine/swiperjs-tutorial-7ih)
-- [Knative Serverless in 2024](https://dev.to/jensgst/knative-serverless-in-2024-dom)
+- [Integrating APISIX Declarative CLI with API7 Enterprise](https://dev.to/api7/integrating-apisix-declarative-cli-with-api7-enterprise-5430)
 <!-- BLOG-POST-LIST:END -->
 
