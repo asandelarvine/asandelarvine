@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sparcelado: A nova cartada da Shopee para conquistar corações e bolsos](https://dev.to/uxline/sparcelado-a-nova-cartada-da-shopee-para-conquistar-coracoes-e-bolsos-50ck)
-- [Building Your First AI-Powered Backend in Kotlin: Step-by-Step](https://dev.to/josmel/building-your-first-ai-powered-backend-in-kotlin-step-by-step-p2e)
-- [[Micronaut] Receiving multipart/form-data](https://dev.to/masanori_msl/micronaut-receiving-multipartform-data-50ni)
-- [A Light-hearted Look at Pagination Optimization](https://dev.to/siddhantkcode/a-light-hearted-look-at-pagination-optimization-4f1o)
+- [Local Storage](https://dev.to/ethernmyth/local-storage-4j48)
+- [Jelly Bean CSS Art](https://dev.to/ethernmyth/jelly-bean-css-art-55gh)
+- [Database for newbies](https://dev.to/basementdevs/database-for-newbies-n46)
+- [Revolutionizing Travel Planning: Unveiling the Top 7 AI Trip Planners for 202](https://dev.to/jahan/revolutionizing-travel-planning-unveiling-the-top-7-ai-trip-planners-for-202-4ol)
 <!-- BLOG-POST-LIST:END -->
 
