@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting hands-on with local LLMs using OLLAMA](https://dev.to/adarshbp/getting-hands-on-with-local-llms-using-ollama-1c71)
-- [Comments are not Evil: Beyond Self-Documenting Code 😈](https://dev.to/alirezanet/comments-are-not-evil-beyond-self-documenting-code-2fi0)
-- [pgvector vs. pgvecto.rs in 2024: A Comprehensive Comparison for Vector Search in PostgreSQL](https://dev.to/gaocegege/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql-3n08)
-- [Enhancing API Observability Series &lpar;Part 3&rpar;: Tracing](https://dev.to/api7/enhancing-api-observability-series-part-3-tracing-397b)
+- [Future of AI in Advertising: Trends and Opportunities for Software Developers](https://dev.to/andrewupton/future-of-ai-in-advertising-trends-and-opportunities-for-software-developers-4of5)
+- [Day 1 of 30-Day .NET Challenge: Boolean Expressions](https://dev.to/ssukhpinder/day-1-of-30-day-net-challenge-boolean-expressions-2d31)
+- [I created my first startup to promote YOUR startup](https://dev.to/gpiechnik/i-created-my-first-startup-to-promote-your-startup-3nlh)
+- [Data Science &amp; DevTools: GitHub Copilot](https://dev.to/azure/data-science-devtools-github-copilot-11be)
 <!-- BLOG-POST-LIST:END -->
 
