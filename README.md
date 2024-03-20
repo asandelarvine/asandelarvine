@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Just Use console.log? Buckle Up, Console Newbie!](https://dev.to/best_codes/you-just-use-consolelog-buckle-up-console-newbie-31b5)
-- [Integer, Float, and Array class](https://dev.to/feelo31/integer-float-and-array-class-24jg)
-- [Nullinjectorerror no provider for httpclient Angular 17 | How to fix this Error](https://dev.to/anilsingh/nullinjectorerror-no-provider-for-httpclient-angular-17-how-to-fix-this-error-21im)
-- [Python for AI : Cheatlist](https://dev.to/taipy/python-for-ai-cheatlist-33ec)
+- [Sensor APIs](https://dev.to/ssukhpinder/sensor-apis-1275)
+- [A Light-hearted Look at Pagination Optimization](https://dev.to/siddhantkcode/a-light-hearted-look-at-pagination-optimization-4f1o)
+- [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
+- [Linux Exfiltration](https://dev.to/terceranexus6/linux-exfiltration-1fci)
 <!-- BLOG-POST-LIST:END -->
 
