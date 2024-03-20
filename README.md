@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy Your FastAPI Application on Amazon EC2, and Activate SSL.](https://dev.to/ephraimx/how-to-deploy-your-fastapi-application-on-amazon-ec2-and-activate-ssl-o65)
+- [Basic Responsive design using raw CSS code](https://dev.to/praneshcodecraft/basic-responsive-design-using-raw-css-code-1n26)
 - [Don’t Be Scared, Devin AI + You = Super Developer](https://dev.to/mmainulhasan/dont-be-scared-devin-ai-you-super-developer-4pi)
 - [A Practical View on AWS Lambda &amp; It’s Limitations](https://dev.to/anurag_vishwakarma/a-practical-view-on-aws-lambda-compute-and-its-limitations-567e)
-- [TinyMCE 7 - Revision History, Document Converters, Markdown and more!](https://dev.to/tinymce/tinymce-7-revision-history-document-converters-markdown-and-more-551n)
-- [Shadcn: Customizable and Open Source UI](https://dev.to/codeparrot/shadcn-customizable-and-open-source-ui-edn)
 <!-- BLOG-POST-LIST:END -->
 
