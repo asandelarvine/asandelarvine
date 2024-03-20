@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye SASS 👋, welcome back native CSS](https://dev.to/karsten_biedermann/goodbye-sass-welcome-back-native-css-cf)
-- [⚙️🔥 Automating Database Schema Change workflow Using GitHub Actions 🐙🚀](https://dev.to/bytebase/automating-database-schema-change-workflow-using-github-actions-4838)
-- [Beginning the AI/ML Journey with Ollama, Langchain4J &amp; JBang](https://dev.to/rprabhu/beginning-the-aiml-journey-with-ollama-langchain4j-jbang-1opn)
-- [Conquer Every User Journey: Building Robust E2E Tests with Playwright- part 1](https://dev.to/teyim/conquer-every-user-journey-building-robust-e2e-tests-with-playwright-part-1-1nbg)
+- [What is RAG, and why should I care?](https://dev.to/guerra2fernando/what-is-rag-and-why-should-i-care-3e87)
+- [I Believe AI is Bad, Prove Me Wrong.](https://dev.to/scofieldidehen/i-believe-ai-is-bad-prove-me-wrong-27ng)
+- [How to hire Developers for your Open Source Project?](https://dev.to/vedantkhairnar/how-to-hire-developers-for-your-open-source-project-4aa7)
+- [Top 7 Must-Have JavaScript Web APIs! 🚀🌐](https://dev.to/ihssmaheel/top-7-must-have-javascript-web-apis-5fn8)
 <!-- BLOG-POST-LIST:END -->
 
