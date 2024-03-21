@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Basics of Kubernetes CronJob](https://dev.to/refine/the-basics-of-kubernetes-cronjob-42k3)
 - [Handling SVG Icons in React &lpar;SVG Factories&rpar;](https://dev.to/michaliskout/handling-svg-icons-in-react-svg-factories-21ag)
 - [Ice-cream cone for DEV Challenge](https://dev.to/stardexterity/ice-cream-cone-for-dev-challenge-56oh)
 - [Riot Component Unit Test with Vitest &lpar;Node env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-node-env-hk0)
-- [Unlocking the Power of API Gateway Logs](https://dev.to/apisix/unlocking-the-power-of-api-gateway-logs-459o)
 <!-- BLOG-POST-LIST:END -->
 
