@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Binary Heap &amp; Pairing Heap with MoonBit](https://dev.to/zachyee/implement-binary-heap-pairing-heap-with-moonbit-4f9g)
 - [Internet Explorer](https://dev.to/turdfire/internet-explorer-4k8)
 - [From Davin to Microsoft Autodev: What it means for Software Developers?](https://dev.to/ssukhpinder/from-davin-to-microsoft-autodev-what-it-means-for-software-developers-4a78)
 - [🔍Underrated Open Source Projects You Should Know About 🧠](https://dev.to/milasuperstar/underrated-open-source-projects-you-should-know-about-4ne9)
-- [Leetcode Solution: #206: Reverse Linked List 🐬](https://dev.to/roshan_earth286/leetcode-solution-206-reverse-linked-list-31nf)
 <!-- BLOG-POST-LIST:END -->
 
