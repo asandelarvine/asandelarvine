@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement Binary Heap &amp; Pairing Heap with MoonBit](https://dev.to/zachyee/implement-binary-heap-pairing-heap-with-moonbit-4f9g)
-- [Internet Explorer](https://dev.to/turdfire/internet-explorer-4k8)
-- [From Davin to Microsoft Autodev: What it means for Software Developers?](https://dev.to/ssukhpinder/from-davin-to-microsoft-autodev-what-it-means-for-software-developers-4a78)
-- [🔍Underrated Open Source Projects You Should Know About 🧠](https://dev.to/milasuperstar/underrated-open-source-projects-you-should-know-about-4ne9)
+- [The pitfall of implicit returns](https://dev.to/nfrankel/the-pitfall-of-implicit-returns-41ln)
+- [Linear Regression](https://dev.to/kammarianand/linear-regression-6ph)
+- [Day 2 of 30-Day .NET Challenge: Variable Scope &amp; Logic Control with Code Blocks](https://dev.to/ssukhpinder/day-2-of-30-day-net-challenge-variable-scope-logic-control-with-code-blocks-1e06)
+- [JavaScript Template Literals](https://dev.to/fpaghar/javascript-template-literals-2j1p)
 <!-- BLOG-POST-LIST:END -->
 
