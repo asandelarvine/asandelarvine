@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Art: Favorite Snack](https://dev.to/sh20raj/css-art-favorite-snack-5bbm)
-- [delicious chocolate chip cookie](https://dev.to/pizofreude/delicious-chocolate-chip-cookie-2mc9)
-- [Creating an Apple on a Plate with CSS: A Delicious Journey 🍏](https://dev.to/plxel/creating-an-apple-on-a-plate-with-css-a-delicious-journey-5b5c)
-- [Como Participar da Bolha Dev no Twitter: Um Guia para Desenvolvedores](https://dev.to/kecbm/como-participar-da-bolha-dev-no-twitter-um-guia-para-desenvolvedores-11ol)
+- [What are your favorite Public Speaking tips?](https://dev.to/virtualcoffee/what-are-your-favorite-public-speaking-tips-535h)
+- [Intersection Observer API - One Byte Explainer](https://dev.to/highflyer910/intersection-observer-api-one-byte-explainer-3f5i)
+- [Interview with Sebastian Holstein, Founder of Qaze](https://dev.to/crabnebula/interview-with-sebastian-holstein-founder-of-qaze-2gg2)
+- [Beware the Mid-Career Crisis for Programmers: The Four Major Causes](https://dev.to/hikarimaeda/beware-the-mid-career-crisis-for-programmers-the-four-major-causes-2i0k)
 <!-- BLOG-POST-LIST:END -->
 
