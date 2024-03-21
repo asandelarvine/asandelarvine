@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Glam Up My Markup - Camp Form for kids](https://dev.to/pythonisnotasnake/glam-up-my-markup-camp-form-for-kids-1icd)
 - [How to Properly Structure Stimulus Controller](https://dev.to/railsdesigner/how-to-properly-structure-stimulus-controller-2152)
 - [console.log&lpar;&rpar; is OLD! Use These 5 Console Hacks! 😎](https://dev.to/arjuncodess/consolelog-is-old-use-these-5-console-hacks-2k99)
 - [What is Manual Testing? What are the benefits and drawbacks of Manual testing? Give some Examples in support of answer?](https://dev.to/jayachandran/what-is-manual-testing-what-are-the-benefits-and-drawbacks-of-manual-testing-give-some-examples-in-support-of-answer-5hk2)
-- [Data Streaming Hands-On: High-scale data streaming with AWS Kinesis Data Streams](https://dev.to/aws-builders/data-streaming-hands-on-high-scale-data-streaming-with-aws-kinesis-data-streams-326p)
 <!-- BLOG-POST-LIST:END -->
 
