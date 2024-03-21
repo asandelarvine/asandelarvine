@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Basics of Kubernetes CronJob](https://dev.to/refine/the-basics-of-kubernetes-cronjob-42k3)
-- [Handling SVG Icons in React &lpar;SVG Factories&rpar;](https://dev.to/michaliskout/handling-svg-icons-in-react-svg-factories-21ag)
-- [Ice-cream cone for DEV Challenge](https://dev.to/stardexterity/ice-cream-cone-for-dev-challenge-56oh)
-- [Riot Component Unit Test with Vitest &lpar;Node env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-node-env-hk0)
+- [Terraform vs AWS CloudFormation: An In-Depth Comparison](https://dev.to/env0/terraform-vs-aws-cloudformation-an-in-depth-comparison-h6j)
+- [Take IT Shipping with Serverless Technology](https://dev.to/aws-builders/take-it-shipping-with-serverless-technology-ehi)
+- [Secret Hacks: How to Cost Down iOS App Development](https://dev.to/dhruvjoshi9/secret-hacks-how-to-cost-down-ios-app-development-3eo3)
+- [Allow me to introduce myself...](https://dev.to/robertbunch252/allow-me-to-introduce-myself-1e45)
 <!-- BLOG-POST-LIST:END -->
 
