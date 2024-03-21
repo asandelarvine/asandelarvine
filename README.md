@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Glam Up My Markup - Camp Form for kids](https://dev.to/pythonisnotasnake/glam-up-my-markup-camp-form-for-kids-1icd)
-- [How to Properly Structure Stimulus Controller](https://dev.to/railsdesigner/how-to-properly-structure-stimulus-controller-2152)
-- [console.log&lpar;&rpar; is OLD! Use These 5 Console Hacks! 😎](https://dev.to/arjuncodess/consolelog-is-old-use-these-5-console-hacks-2k99)
-- [What is Manual Testing? What are the benefits and drawbacks of Manual testing? Give some Examples in support of answer?](https://dev.to/jayachandran/what-is-manual-testing-what-are-the-benefits-and-drawbacks-of-manual-testing-give-some-examples-in-support-of-answer-5hk2)
+- [Understanding useState Hook, Props and Prop Drilling, In React](https://dev.to/opeyemi2018/understanding-usestate-hook-props-and-prop-drilling-in-react-54kp)
+- [Transforming Spaces: The Art of Kitchen Modifications](https://dev.to/greg01/transforming-spaces-the-art-of-kitchen-modifications-3h12)
+- [Como um computador funciona?](https://dev.to/erick_tmr/como-um-computador-funciona-4me9)
+- [Resolve Installing psych 5.1.2 with native extensions Gem::Ext::BuildError](https://dev.to/kuldeepdev407/resolve-installing-psych-512-with-native-extensions-gemextbuilderror-2bkn)
 <!-- BLOG-POST-LIST:END -->
 
