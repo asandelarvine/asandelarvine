@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
-- [Using pgvector To Locate Similarities In Enterprise Data](https://dev.to/johnjvester/using-pgvector-to-locate-similarities-in-enterprise-data-3fl8)
-- [Enable a link to a block in a note using Obsidian GitHub Publisher](https://dev.to/somidad/enable-a-link-to-a-block-in-a-note-using-obsidian-github-publisher-98j)
-- [Liman MYS -Senaryolar](https://dev.to/aciklab/liman-mys-senaryolar-4afn)
+- [CSS Art: Favorite Snack](https://dev.to/sh20raj/css-art-favorite-snack-5bbm)
+- [delicious chocolate chip cookie](https://dev.to/pizofreude/delicious-chocolate-chip-cookie-2mc9)
+- [Creating an Apple on a Plate with CSS: A Delicious Journey 🍏](https://dev.to/plxel/creating-an-apple-on-a-plate-with-css-a-delicious-journey-5b5c)
+- [Como Participar da Bolha Dev no Twitter: Um Guia para Desenvolvedores](https://dev.to/kecbm/como-participar-da-bolha-dev-no-twitter-um-guia-para-desenvolvedores-11ol)
 <!-- BLOG-POST-LIST:END -->
 
