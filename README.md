@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your favorite Public Speaking tips?](https://dev.to/virtualcoffee/what-are-your-favorite-public-speaking-tips-535h)
-- [Intersection Observer API - One Byte Explainer](https://dev.to/highflyer910/intersection-observer-api-one-byte-explainer-3f5i)
-- [Interview with Sebastian Holstein, Founder of Qaze](https://dev.to/crabnebula/interview-with-sebastian-holstein-founder-of-qaze-2gg2)
-- [Beware the Mid-Career Crisis for Programmers: The Four Major Causes](https://dev.to/hikarimaeda/beware-the-mid-career-crisis-for-programmers-the-four-major-causes-2i0k)
+- [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
+- [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
+- [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
+- [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
 <!-- BLOG-POST-LIST:END -->
 
