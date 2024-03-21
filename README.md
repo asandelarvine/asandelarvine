@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving your Python code, an initial series of best practices.](https://dev.to/pedrohgoncalves/improving-your-python-code-an-initial-series-of-best-practices-150j)
+- [6 Free eBooks to Learn Web Development 📚](https://dev.to/arjuncodess/6-free-ebooks-to-learn-web-development-e01)
 - [Precisamos falar sobre ipdb: Uma Jornada para um debugger mais Eficiente em Python](https://dev.to/carineneris/precisamos-falar-sobre-ipdb-uma-jornada-para-um-debugger-mais-eficiente-em-python-4blj)
-- [Making a notification service with Rust &amp; AWS SNS](https://dev.to/shuttle_dev/making-a-notification-service-with-rust-aws-sns-1of3)
-- [One Byte Explainer: matchMedia](https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5)
-- [Mastering React: A Simplified Guide for Folder Structure](https://dev.to/mgeovany/mastering-react-a-simplified-guide-for-folder-structure-3927)
+- [Generator Functions in Python](https://dev.to/mainpynerds/generator-functions-in-python-377p)
 <!-- BLOG-POST-LIST:END -->
 
