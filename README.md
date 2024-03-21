@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
 - [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
 - [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
-- [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
+- [Mastering Docker: A Comprehensive Guide to Docker Commands](https://dev.to/adarshbp/mastering-docker-a-comprehensive-guide-to-docker-commands-58en)
 <!-- BLOG-POST-LIST:END -->
 
