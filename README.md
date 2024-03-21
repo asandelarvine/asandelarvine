@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform vs AWS CloudFormation: An In-Depth Comparison](https://dev.to/env0/terraform-vs-aws-cloudformation-an-in-depth-comparison-h6j)
-- [Take IT Shipping with Serverless Technology](https://dev.to/aws-builders/take-it-shipping-with-serverless-technology-ehi)
-- [Secret Hacks: How to Cost Down iOS App Development](https://dev.to/dhruvjoshi9/secret-hacks-how-to-cost-down-ios-app-development-3eo3)
-- [Allow me to introduce myself...](https://dev.to/robertbunch252/allow-me-to-introduce-myself-1e45)
+- [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
+- [Using pgvector To Locate Similarities In Enterprise Data](https://dev.to/johnjvester/using-pgvector-to-locate-similarities-in-enterprise-data-3fl8)
+- [Enable a link to a block in a note using Obsidian GitHub Publisher](https://dev.to/somidad/enable-a-link-to-a-block-in-a-note-using-obsidian-github-publisher-98j)
+- [Liman MYS -Senaryolar](https://dev.to/aciklab/liman-mys-senaryolar-4afn)
 <!-- BLOG-POST-LIST:END -->
 
