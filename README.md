@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode Solution: #206: Reverse Linked List 🐬](https://dev.to/roshan_earth286/leetcode-solution-206-reverse-linked-list-31nf)
 - [Improving your Python code, an initial series of best practices.](https://dev.to/pedrohgoncalves/improving-your-python-code-an-initial-series-of-best-practices-150j)
 - [6 Free eBooks to Learn Web Development 📚](https://dev.to/arjuncodess/6-free-ebooks-to-learn-web-development-e01)
-- [Precisamos falar sobre ipdb: Uma Jornada para um debugger mais Eficiente em Python](https://dev.to/carineneris/precisamos-falar-sobre-ipdb-uma-jornada-para-um-debugger-mais-eficiente-em-python-4blj)
-- [Generator Functions in Python](https://dev.to/mainpynerds/generator-functions-in-python-377p)
+- [Что такое @Autowire в Spring? Как его использовать и как он работает?](https://dev.to/faangmaster/chto-takoie-autowire-v-spring-38i0)
 <!-- BLOG-POST-LIST:END -->
 
