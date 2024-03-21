@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet Explorer](https://dev.to/turdfire/internet-explorer-4k8)
+- [From Davin to Microsoft Autodev: What it means for Software Developers?](https://dev.to/ssukhpinder/from-davin-to-microsoft-autodev-what-it-means-for-software-developers-4a78)
+- [🔍Underrated Open Source Projects You Should Know About 🧠](https://dev.to/milasuperstar/underrated-open-source-projects-you-should-know-about-4ne9)
 - [Leetcode Solution: #206: Reverse Linked List 🐬](https://dev.to/roshan_earth286/leetcode-solution-206-reverse-linked-list-31nf)
-- [Improving your Python code, an initial series of best practices.](https://dev.to/pedrohgoncalves/improving-your-python-code-an-initial-series-of-best-practices-150j)
-- [6 Free eBooks to Learn Web Development 📚](https://dev.to/arjuncodess/6-free-ebooks-to-learn-web-development-e01)
-- [Что такое @Autowire в Spring? Как его использовать и как он работает?](https://dev.to/faangmaster/chto-takoie-autowire-v-spring-38i0)
 <!-- BLOG-POST-LIST:END -->
 
