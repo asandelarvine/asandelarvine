@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
-- [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
-- [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
-- [Mastering Docker: A Comprehensive Guide to Docker Commands](https://dev.to/adarshbp/mastering-docker-a-comprehensive-guide-to-docker-commands-58en)
+- [What is Manual Testing? What are the benefits and drawbacks of Manual testing? Give some Examples in support of answer?](https://dev.to/jayachandran/what-is-manual-testing-what-are-the-benefits-and-drawbacks-of-manual-testing-give-some-examples-in-support-of-answer-5hk2)
+- [Data Streaming Hands-On: High-scale data streaming with AWS Kinesis Data Streams](https://dev.to/aws-builders/data-streaming-hands-on-high-scale-data-streaming-with-aws-kinesis-data-streams-326p)
+- [Understanding Closures in Rust](https://dev.to/dipankarpaul/understanding-closures-in-rust-2a3n)
+- [A Comprehensive Guide to CSS: Insights from the King of CSS, Kevin Powell](https://dev.to/michaellarocca/a-comprehensive-guide-to-css-insights-from-the-king-of-css-kevin-powell-1c06)
 <!-- BLOG-POST-LIST:END -->
 
