@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗞 Rapyd Developer Newsletter: March 2024](https://dev.to/rapyd/rapyd-developer-newsletter-march-2024-2785)
+- [Free Image Resizer and Compressor API - Free + Unlimited](https://dev.to/sh20raj/free-image-resizer-and-compressor-api-free-unlimited-4bea)
+- [Hatchify: The Fastest Way to Build JSON: APIs](https://dev.to/bitovi/hatchify-the-fastest-way-to-build-json-apis-ih3)
 - [Why { ...defaultValues, ...newValues } can hide a bug](https://dev.to/guimoraes/why-defaultvalues-newvalues-can-hide-a-bug-54hc)
-- [Mounting Google Drive in Google Colab](https://dev.to/praneshcodecraft/mounting-google-drive-in-google-colab-375a)
-- [Mobile Web Audio: Removing Media Controls from Notifications Tray](https://dev.to/tjtanjin/mobile-web-audio-removing-media-controls-from-notifications-tray-1nl3)
+- [Gatsby tutorial: Build a static site with a headless CMS](https://dev.to/momciloo/gatsby-tutorial-build-a-static-site-with-a-headless-cms-13np)
 <!-- BLOG-POST-LIST:END -->
 
