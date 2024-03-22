@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cookies in Depth using Javascript and NodeJs](https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m)
+- [🚀&quot;Streamlining Infrastructure Deployment: 💻 Seamless CloudFormation Stack Deployment with Git Sync🔄&quot;](https://dev.to/aws-builders/streamlining-infrastructure-deployment-seamless-cloudformation-stack-deployment-with-git-sync-2hg5)
+- [Camping with HTML and CSS](https://dev.to/madsstoumann/camping-with-html-and-css-3en3)
 - [💃🏻 Programmer, c&#39;est plutôt un métier de moeuf à la base](https://dev.to/jmfayard/programmer-cest-plutot-un-metier-de-moeuf-a-la-base-16gc)
-- [Day 3 of 30-Day .NET Challenge: Switch Constructs](https://dev.to/ssukhpinder/day-3-of-30-day-net-challenge-switch-constructs-4d52)
-- [Test your React Apps with Vitest](https://dev.to/codeparrot/test-your-react-apps-with-vitest-2llb)
-- [10 Benefits of Using Vector Graphics for Web Design](https://dev.to/vectorpeople/10-benefits-of-using-vector-graphics-for-web-design-4lng)
 <!-- BLOG-POST-LIST:END -->
 
