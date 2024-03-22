@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Middleware](https://dev.to/mikevarenek/laravel-middleware-3nlo)
-- [Understanding useState Hook, Props and Prop Drilling, In React](https://dev.to/opeyemi2018/understanding-usestate-hook-props-and-prop-drilling-in-react-54kp)
-- [Transforming Spaces: The Art of Kitchen Modifications](https://dev.to/greg01/transforming-spaces-the-art-of-kitchen-modifications-3h12)
-- [Como um computador funciona?](https://dev.to/erick_tmr/como-um-computador-funciona-4me9)
+- [Writing and Reading Text Files in Lua](https://dev.to/tlayach/writing-and-reading-text-files-in-lua-5c4h)
+- [Understanding Comments in Lua](https://dev.to/tlayach/understanding-comments-in-lua-p73)
+- [Stop Obsidian wrapping code and enable scrolling](https://dev.to/somidad/stop-obsidian-wrapping-code-and-enable-scrolling-47oo)
+- [University over Bootcamp: Why I Chose Traditional Education for My Tech Journey](https://dev.to/opensourceyllen/university-over-bootcamp-why-i-chose-traditional-education-for-my-tech-journey-58cb)
 <!-- BLOG-POST-LIST:END -->
 
