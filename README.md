@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Chakra UI](https://dev.to/refine/introduction-to-chakra-ui-54gk)
-- [Glam Up My Markup - Cozy Camp](https://dev.to/rodrigoantunes/glam-up-my-markup-cozy-camp-149k)
-- [Install, Configure, and Host a Custom Website on Apache2 Web Server, with Ubuntu, Using AWS EC2 Instance](https://dev.to/clouddiadem/install-configure-and-host-a-custom-website-on-apache2-web-server-with-ubuntu-using-aws-ec2-instance-41eo)
-- [Breaking Down Next.js 14](https://dev.to/focusreactive/breaking-down-nextjs-14-3bke)
+- [Should Coders Feel Guilty About Using GPT? 🤖 😔](https://dev.to/best_codes/should-coders-feel-guilty-about-using-gpt-3oha)
+- [Advantages of IDE: How Does It Enable Faster Development](https://dev.to/qbentil/advantages-of-ide-how-does-it-enable-faster-development-2pl8)
+- [Liman Geliştirme Ortamı Hazırlığı](https://dev.to/aciklab/liman-gelistirme-ortami-hazirligi-51m0)
+- [Exploring Java Collectors utilities](https://dev.to/bsknath/exploring-java-collectors-utilities-10ne)
 <!-- BLOG-POST-LIST:END -->
 
