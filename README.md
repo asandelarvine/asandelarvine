@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test your React Apps with Vitest](https://dev.to/codeparrot/test-your-react-apps-with-vitest-2llb)
+- [10 Benefits of Using Vector Graphics for Web Design](https://dev.to/vectorpeople/10-benefits-of-using-vector-graphics-for-web-design-4lng)
+- [How to Handle Different Data Types during Row-to-Column Transposition](https://dev.to/esproc_spl/how-to-handle-different-data-types-during-row-to-column-transposition-iah)
 - [Factory Method](https://dev.to/amreldessouki/factory-method-2hh4)
-- [Handle 401 errors in a cleaner way with Axios interceptors](https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk)
-- [Next.js 14: Fetching Data](https://dev.to/w3tsa/nextjs-14-fetching-data-elm)
-- [Test Driving a Rails API - Part Two](https://dev.to/jackf/test-driving-a-rails-api-part-two-1ec7)
 <!-- BLOG-POST-LIST:END -->
 
