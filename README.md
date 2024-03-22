@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [💃🏻 Programmer, c&#39;est plutôt un métier de moeuf à la base](https://dev.to/jmfayard/programmer-cest-plutot-un-metier-de-moeuf-a-la-base-16gc)
+- [Day 3 of 30-Day .NET Challenge: Switch Constructs](https://dev.to/ssukhpinder/day-3-of-30-day-net-challenge-switch-constructs-4d52)
 - [Test your React Apps with Vitest](https://dev.to/codeparrot/test-your-react-apps-with-vitest-2llb)
 - [10 Benefits of Using Vector Graphics for Web Design](https://dev.to/vectorpeople/10-benefits-of-using-vector-graphics-for-web-design-4lng)
-- [How to Handle Different Data Types during Row-to-Column Transposition](https://dev.to/esproc_spl/how-to-handle-different-data-types-during-row-to-column-transposition-iah)
-- [Factory Method](https://dev.to/amreldessouki/factory-method-2hh4)
 <!-- BLOG-POST-LIST:END -->
 
