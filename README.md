@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should Coders Feel Guilty About Using GPT? 🤖 😔](https://dev.to/best_codes/should-coders-feel-guilty-about-using-gpt-3oha)
-- [Advantages of IDE: How Does It Enable Faster Development](https://dev.to/qbentil/advantages-of-ide-how-does-it-enable-faster-development-2pl8)
-- [Liman Geliştirme Ortamı Hazırlığı](https://dev.to/aciklab/liman-gelistirme-ortami-hazirligi-51m0)
-- [Exploring Java Collectors utilities](https://dev.to/bsknath/exploring-java-collectors-utilities-10ne)
+- [Mounting Google Drive in Google Colab](https://dev.to/praneshcodecraft/mounting-google-drive-in-google-colab-375a)
+- [My Favorite Snack](https://dev.to/itsauzzo/gummy-worms-5eip)
+- [React useEffect and objects as dependency - 4 approaches to avoid unnecessary executions](https://dev.to/jkettmann/react-useeffect-and-objects-as-dependency-4-approaches-to-avoid-unnecessary-executions-kkn)
+- [Tips to write automated tests with High-quality](https://dev.to/m4rri4nne/tips-to-write-automated-tests-with-high-quality-h8g)
 <!-- BLOG-POST-LIST:END -->
 
