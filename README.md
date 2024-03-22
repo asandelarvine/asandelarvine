@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to connect your SQL Server RDS to your Self Managed Active Directories &lpar;Windows Authentication&rpar;](https://dev.to/fanmixco/how-to-connect-your-sql-server-rds-to-your-self-managed-active-directories-windows-authentication-37ac)
 - [Cookies in Depth using Javascript and NodeJs](https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m)
+- [Building Vue Components With Pug &amp; Stylus](https://dev.to/martinsonuoha/building-vue-components-with-pug-stylus-o9c)
 - [🚀&quot;Streamlining Infrastructure Deployment: 💻 Seamless CloudFormation Stack Deployment with Git Sync🔄&quot;](https://dev.to/aws-builders/streamlining-infrastructure-deployment-seamless-cloudformation-stack-deployment-with-git-sync-2hg5)
-- [Camping with HTML and CSS](https://dev.to/madsstoumann/camping-with-html-and-css-3en3)
-- [💃🏻 Programmer, c&#39;est plutôt un métier de moeuf à la base](https://dev.to/jmfayard/programmer-cest-plutot-un-metier-de-moeuf-a-la-base-16gc)
 <!-- BLOG-POST-LIST:END -->
 
