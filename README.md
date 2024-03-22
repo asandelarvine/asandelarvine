@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Image Resizer and Compressor API - Free + Unlimited](https://dev.to/sh20raj/free-image-resizer-and-compressor-api-free-unlimited-4bea)
-- [Hatchify: The Fastest Way to Build JSON: APIs](https://dev.to/bitovi/hatchify-the-fastest-way-to-build-json-apis-ih3)
-- [Why { ...defaultValues, ...newValues } can hide a bug](https://dev.to/guimoraes/why-defaultvalues-newvalues-can-hide-a-bug-54hc)
-- [Gatsby tutorial: Build a static site with a headless CMS](https://dev.to/momciloo/gatsby-tutorial-build-a-static-site-with-a-headless-cms-13np)
+- [The Rise of AI Programmers or the End of Human Programmers?](https://dev.to/hikarimaeda/the-rise-of-ai-programmers-or-the-end-of-human-programmers-3i8e)
+- [Why did Cloudflare Build its Own Reverse Proxy? - Pingora vs NGINX](https://dev.to/firstfingerin/why-did-cloudflare-build-its-own-reverse-proxy-pingora-vs-nginx-ebj)
+- [How to Scrape TikTok](https://dev.to/crawlbase/how-to-scrape-tiktok-3k3b)
+- [The Extreme Sport of Solo-Conferencing](https://dev.to/lottepitcher/the-extreme-sport-of-solo-conferencing-5dhe)
 <!-- BLOG-POST-LIST:END -->
 
