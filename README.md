@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Download Adobe Firefly Generative Fill Images Without Watermark](https://dev.to/pixelgig/how-to-download-adobe-firefly-generative-fill-images-without-watermark-3880)
-- [The Rise of AI Programmers or the End of Human Programmers?](https://dev.to/hikarimaeda/the-rise-of-ai-programmers-or-the-end-of-human-programmers-3i8e)
-- [Why did Cloudflare Build its Own Reverse Proxy? - Pingora vs NGINX](https://dev.to/firstfingerin/why-did-cloudflare-build-its-own-reverse-proxy-pingora-vs-nginx-ebj)
-- [How to Scrape TikTok](https://dev.to/crawlbase/how-to-scrape-tiktok-3k3b)
+- [🚀How TCP Servers Are Designed to Handle Multiple Requests](https://dev.to/mjsf1234/how-tcp-servers-are-designed-to-handle-multiple-requests-5b84)
+- [Beginner&#39;s Guide to AWS VPC Endpoints Gateway and Interface](https://dev.to/fpesre/beginners-guide-to-aws-vpc-endpoints-gateway-and-interface-10kg)
+- [JavaScript Essentials Cheat Sheet with Explanations](https://dev.to/04anilr/javascript-essentials-cheat-sheet-with-explanations-n73)
+- [Replacing the Battery on a HP Spectre x360](https://dev.to/mauricebrg/replacing-the-battery-on-a-hp-spectre-x360-1o6i)
 <!-- BLOG-POST-LIST:END -->
 
