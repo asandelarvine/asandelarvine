@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Programmatically Populate Related Blogs in Django: Boosting User Experience and SEO](https://dev.to/leonwei/how-to-programmatically-populate-related-blogs-in-django-boosting-user-experience-and-seo-216e)
+- [Understanding Docker with Pizza🍕](https://dev.to/yukaty/understanding-docker-with-pizza-2dip)
 - [An Allow List Lambda Function in Rust is 1 Guaranteed Way to Improve CORS](https://dev.to/aws-builders/an-allow-list-lambda-function-in-rust-is-1-guaranteed-way-to-improve-cors-3oe2)
 - [✅Ngoding via WSL atau Host Windows, Mana yang Lebih Gacor?](https://dev.to/ferryops/ngoding-via-wsl-atau-host-windows-mana-yang-lebih-gacor-4a70)
-- [Top 5 Dev Tools I Use for Developing My Side Project](https://dev.to/jaironlanda/top-5-dev-tools-i-use-for-developing-my-side-project-2dc8)
-- [Managing Concurrent Database Writes in a Distributed System with Redis or PostgreSQL](https://dev.to/nikl/managing-concurrent-database-writes-in-a-distributed-system-with-redis-or-postgresql-4nc9)
 <!-- BLOG-POST-LIST:END -->
 
