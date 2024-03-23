@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Inertia.js Does not Work](https://dev.to/wadecodez/inertiajs-does-not-work-4pa)
+- [Step by step guide to create customized chatbot by using spaCy &lpar;Python NLP library&rpar;](https://dev.to/intersystems/step-by-step-guide-to-create-customized-chatbot-by-using-spacy-python-nlp-library-52k0)
+- [Full Stack Web Development Concept map](https://dev.to/thebridge2/full-stack-web-development-concept-map-4m7p)
 - [How to Programmatically Populate Related Blogs in Django: Boosting User Experience and SEO](https://dev.to/leonwei/how-to-programmatically-populate-related-blogs-in-django-boosting-user-experience-and-seo-216e)
-- [Understanding Docker with Pizza🍕](https://dev.to/yukaty/understanding-docker-with-pizza-2dip)
-- [An Allow List Lambda Function in Rust is 1 Guaranteed Way to Improve CORS](https://dev.to/aws-builders/an-allow-list-lambda-function-in-rust-is-1-guaranteed-way-to-improve-cors-3oe2)
-- [✅Ngoding via WSL atau Host Windows, Mana yang Lebih Gacor?](https://dev.to/ferryops/ngoding-via-wsl-atau-host-windows-mana-yang-lebih-gacor-4a70)
 <!-- BLOG-POST-LIST:END -->
 
