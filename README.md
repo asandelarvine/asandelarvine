@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [All SEO Meta Tags: Copy Paste it](https://dev.to/sh20raj/all-seo-meta-tags-copy-paste-it-3pkp)
 - [Terraform &amp; HashiCorp Vault Integration: Seamless Secrets Management](https://dev.to/shrihariharidass/terraform-hashicorp-vault-integration-seamless-secrets-management-4jkk)
 - [ChatCraft Adventures #10](https://dev.to/rjwignar/chatcraft-adventures-10-3da3)
 - [Here&#39;s how NgRx selectors actually work internally](https://dev.to/davidshortman/heres-how-ngrx-selectors-actually-work-internally-15ml)
-- [Run PostgreSQL in docker](https://dev.to/thebridge2/run-postgresql-in-docker-4f3i)
 <!-- BLOG-POST-LIST:END -->
 
