@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [An Allow List Lambda Function in Rust is 1 Guaranteed Way to Improve CORS](https://dev.to/aws-builders/an-allow-list-lambda-function-in-rust-is-1-guaranteed-way-to-improve-cors-3oe2)
+- [✅Ngoding via WSL atau Host Windows, Mana yang Lebih Gacor?](https://dev.to/ferryops/ngoding-via-wsl-atau-host-windows-mana-yang-lebih-gacor-4a70)
+- [Top 5 Dev Tools I Use for Developing My Side Project](https://dev.to/jaironlanda/top-5-dev-tools-i-use-for-developing-my-side-project-2dc8)
 - [Managing Concurrent Database Writes in a Distributed System with Redis or PostgreSQL](https://dev.to/nikl/managing-concurrent-database-writes-in-a-distributed-system-with-redis-or-postgresql-4nc9)
-- [SASS is dead? CSS vs SASS 2024](https://dev.to/worldoftheweb/sass-is-dead-css-vs-sass-2024-44hp)
-- [Working Camp Inquiry - Glam Up my Markup](https://dev.to/programordie/working-camp-inquiry-glam-up-my-markup-35og)
-- [Intro to javascript](https://dev.to/yogeshktm/intro-to-javascript-4bn4)
 <!-- BLOG-POST-LIST:END -->
 
