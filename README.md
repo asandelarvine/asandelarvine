@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Polymorphism in Javascript](https://dev.to/m__mdy__m/polymorphism-in-javascript-3l84)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fff)
-- [Security news weekly round-up - 22nd March 2024](https://dev.to/ziizium/security-news-weekly-round-up-22nd-march-2024-nij)
-- [Let&#39;s Go Camping!](https://dev.to/cbid2/lets-go-camping-4g02)
+- [Laravel Accessors and Mutators &lpar;Eloquent Steps 2 &rpar;](https://dev.to/developeralamin/laravel-accessors-and-mutators-eloquent-steps-2--27ah)
+- [Episode 24/11: Angular 17.3](https://dev.to/this-is-angular/episode-2411-angular-173-28nn)
+- [ChatCraft week 10: useMemo and Chakra alert banner](https://dev.to/katiel/chatcraft-week-10-follow-up-issues-3fed)
 <!-- BLOG-POST-LIST:END -->
 
