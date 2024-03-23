@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day-1 of Getting an Paying Job](https://dev.to/jay818/day-1-of-getting-an-paying-job-4kig)
+- [Glam My Markup✨: Breezy Camp](https://dev.to/sarahokolo/glam-my-markup-breezy-camp-1gam)
 - [Easiest Passwordless Login in Laravel without external packages](https://dev.to/tonyjoe/easiest-passwordless-login-in-laravel-without-external-packages-32di)
 - [Build Simple Real-time Knowledge Server with RAG, LLM, and Knowledge Graphs in Docker](https://dev.to/exploredataaiml/build-simple-real-time-knowledge-server-with-rag-llm-and-knowledge-graphs-in-docker-1375)
-- [Python Data Engineering: Comprehensive Workflow for Data Modeling, Analytics with DuckDB](https://dev.to/danielox/python-data-engineering-comprehensive-workflow-for-data-modeling-analytics-with-duckdb-4a1e)
-- [Beginner Friendly Project Recipe APP &lpar; NodeJs &amp; PostGreSql&rpar;](https://dev.to/tmrifat87/beginner-friendly-project-recipe-app-nodejs-postgresql-o2f)
 <!-- BLOG-POST-LIST:END -->
 
