@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Day-1 of Getting an Paying Job](https://dev.to/jay818/day-1-of-getting-an-paying-job-4kig)
+- [From NixOS with Love](https://dev.to/dedsyn4ps3/from-nixos-with-love-5e0p)
 - [Glam My Markup✨: Breezy Camp](https://dev.to/sarahokolo/glam-my-markup-breezy-camp-1gam)
 - [Easiest Passwordless Login in Laravel without external packages](https://dev.to/tonyjoe/easiest-passwordless-login-in-laravel-without-external-packages-32di)
-- [Build Simple Real-time Knowledge Server with RAG, LLM, and Knowledge Graphs in Docker](https://dev.to/exploredataaiml/build-simple-real-time-knowledge-server-with-rag-llm-and-knowledge-graphs-in-docker-1375)
 <!-- BLOG-POST-LIST:END -->
 
