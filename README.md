@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphism in Javascript](https://dev.to/m__mdy__m/polymorphism-in-javascript-3l84)
-- [Laravel Accessors and Mutators &lpar;Eloquent Steps 2 &rpar;](https://dev.to/developeralamin/laravel-accessors-and-mutators-eloquent-steps-2--27ah)
-- [Episode 24/11: Angular 17.3](https://dev.to/this-is-angular/episode-2411-angular-173-28nn)
-- [ChatCraft week 10: useMemo and Chakra alert banner](https://dev.to/katiel/chatcraft-week-10-follow-up-issues-3fed)
+- [Terraform &amp; HashiCorp Vault Integration: Seamless Secrets Management](https://dev.to/shrihariharidass/terraform-hashicorp-vault-integration-seamless-secrets-management-4jkk)
+- [Here&#39;s how NgRx selectors actually work internally](https://dev.to/davidshortman/heres-how-ngrx-selectors-actually-work-internally-15ml)
+- [Run PostgreSQL in docker](https://dev.to/thebridge2/run-postgresql-in-docker-4f3i)
+- [How to build an API-driven Pokémon Dance Party component in less than 30 lines of HTML Web Component template code &lpar;+ Modulo.js&rpar;](https://dev.to/michaelpb/how-to-build-an-api-driven-pokemon-dance-party-component-in-less-than-30-lines-of-html-web-component-template-code-modulojs-3c2g)
 <!-- BLOG-POST-LIST:END -->
 
