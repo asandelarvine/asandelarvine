@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inertia.js Does not Work](https://dev.to/wadecodez/inertiajs-does-not-work-4pa)
-- [Step by step guide to create customized chatbot by using spaCy &lpar;Python NLP library&rpar;](https://dev.to/intersystems/step-by-step-guide-to-create-customized-chatbot-by-using-spacy-python-nlp-library-52k0)
-- [Full Stack Web Development Concept map](https://dev.to/thebridge2/full-stack-web-development-concept-map-4m7p)
-- [How to Programmatically Populate Related Blogs in Django: Boosting User Experience and SEO](https://dev.to/leonwei/how-to-programmatically-populate-related-blogs-in-django-boosting-user-experience-and-seo-216e)
+- [Easiest Passwordless Login in Laravel without external packages](https://dev.to/tonyjoe/easiest-passwordless-login-in-laravel-without-external-packages-32di)
+- [Build Simple Real-time Knowledge Server with RAG, LLM, and Knowledge Graphs in Docker](https://dev.to/exploredataaiml/build-simple-real-time-knowledge-server-with-rag-llm-and-knowledge-graphs-in-docker-1375)
+- [Python Data Engineering: Comprehensive Workflow for Data Modeling, Analytics with DuckDB](https://dev.to/danielox/python-data-engineering-comprehensive-workflow-for-data-modeling-analytics-with-duckdb-4a1e)
+- [Beginner Friendly Project Recipe APP &lpar; NodeJs &amp; PostGreSql&rpar;](https://dev.to/tmrifat87/beginner-friendly-project-recipe-app-nodejs-postgresql-o2f)
 <!-- BLOG-POST-LIST:END -->
 
