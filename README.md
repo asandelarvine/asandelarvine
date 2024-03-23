@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to PHP Closures](https://dev.to/mikevarenek/introduction-to-php-closures-5f2o)
-- [Best Security implementation Practices In NestJS. A Comprehensive Guide](https://dev.to/drbenzene/best-security-implementation-practices-in-nestjs-a-comprehensive-guide-2p88)
-- [How to Cost Down an iOS App to $5000: A Realistic Guide](https://dev.to/dhruvjoshi9/how-to-cost-down-an-ios-app-to-5000-a-realistic-guide-4icp)
-- [Add Google Analytics to NextJS/React Website](https://dev.to/sh20raj/add-google-analytics-to-nextjs-website-11gp)
+- [How to Add JSON-LD Structured Data to a Next.js Website](https://dev.to/sh20raj/how-to-add-json-ld-structured-data-to-a-nextjs-website-58hh)
+- [Adding Star Ratings to Google Search Results](https://dev.to/sh20raj/adding-star-ratings-to-google-search-results-57pc)
+- [Public Issues](https://dev.to/sh20raj/public-issues-3e9o)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1pj2)
 <!-- BLOG-POST-LIST:END -->
 
