@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Binary Il - Convert URLs to Il and Secure it - Redirect It 🚀](https://dev.to/sh20raj/binary-il-convert-urls-to-il-and-secure-it-redirect-it-fp0)
 - [How I Created an Online Multiplayer Game Using Colyseus](https://dev.to/konmaz/how-i-created-an-online-multiplayer-game-using-colyseus-npf)
-- [site:Extracting Main Domains Without Subdomains in Google Search](https://dev.to/sh20raj/siteextracting-main-domains-without-subdomains-in-google-search-4c9p)
-- [Unlocking the Mysteries of the Clipboard: Your Computer&#39;s Unsung Hero](https://dev.to/siddhantkcode/unlocking-the-mysteries-of-the-clipboard-your-computers-unsung-hero-m59)
+- [Java on Android — less sugar, more fun](https://dev.to/tkuenneth/java-on-android-less-sugar-more-fun-b57)
+- [Understanding Security Group and Network Access Control List &lpar;NACL&rpar; in AWS](https://dev.to/aws-builders/understanding-security-group-and-network-access-control-list-nacl-in-aws-38ei)
 <!-- BLOG-POST-LIST:END -->
 
