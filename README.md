@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Bubble Sort Algorithm in JavaScript](https://dev.to/praneshchow/bubble-sort-algorithm-in-javascript-24p)
+- [Thoughts on Pair Programming](https://dev.to/shaharke/thoughts-on-pair-programming-1i8g)
 - [Criando sua API com Fastify e Prisma](https://dev.to/vinicius_rodrigues/criando-sua-api-com-fastify-e-prisma-2299)
-- [4 tips to write simple CSS](https://dev.to/melnik909/4-tips-to-write-simple-css-4c9f)
-- [Sorry Devin You Can&#39;t Replace our Jobs](https://dev.to/codewithshahan/sorry-devin-you-cant-replace-our-jobs-192b)
+- [How to Forecast Air Temperatures with AI + IoT Sensor Data](https://dev.to/mindsdb/how-to-forecast-air-temperatures-with-ai-iot-sensor-data-5mb)
 <!-- BLOG-POST-LIST:END -->
 
