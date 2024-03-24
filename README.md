@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrando Azure ContentSafety para el análisis de feedback: Una prueba de concepto](https://dev.to/danieljsaldana/integrando-azure-contentsafety-para-el-analisis-de-feedback-una-prueba-de-concepto-3l07)
+- [Mastering Blazor - Part 3: Localization and Internationalization](https://dev.to/florianrappl/mastering-blazor-part-3-localization-and-internationalization-o2a)
 - [Redis reborn, a new chapter begins](https://dev.to/mitchiemt11/redis-reborn-a-new-chapter-begins-5f3g)
 - [SpeechSynthesis in &lt;= 256 characters &lpar;Web Speech API&rpar;](https://dev.to/jankapunkt/speechsynthesis-in-256-characters-web-speech-api-34b2)
-- [Artificial Intelligence in Finance](https://dev.to/shaheryaryousaf/artificial-intelligence-in-finance-3omg)
-- [On The Importance of End-to-End Monitoring for IoT](https://dev.to/stefanhudelmaier/on-the-importance-of-end-to-end-monitoring-for-iot-1c6o)
 <!-- BLOG-POST-LIST:END -->
 
