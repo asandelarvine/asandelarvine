@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [3D Ham Sandwich Animation](https://dev.to/softwaredeveloping/3d-ham-sandwich-animation-5cdl)
+- [Train &amp; Debug ML Models for Responsible AI - Join the #AISkillsChallenge!](https://dev.to/azure/train-debug-ml-models-for-responsible-ai-join-the-aiskillschallenge-3pb3)
 - [Enhancing &quot;Degressive&quot; Enhancement of Streaming](https://dev.to/kvetoslavnovak/enhancing-degressive-enhancement-of-streaming-3ehj)
 - [Anyone up for a pizza party!!! 🍕](https://dev.to/decoders_lord/anyone-up-for-a-pizza-party-4nkn)
-- [How to PWA you App like a pro](https://dev.to/andreyscott/how-to-pwa-you-app-like-a-pro-3hod)
-- [Unlock Web Dev Superpowers with PowerToys](https://dev.to/designly/unlock-web-dev-superpowers-with-powertoys-agh)
 <!-- BLOG-POST-LIST:END -->
 
