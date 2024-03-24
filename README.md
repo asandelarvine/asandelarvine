@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving natural language problems with AI](https://dev.to/miketalbot/solving-natural-language-problems-with-ai-200g)
-- [As mulheres que mudaram o rumo da tecnologia](https://dev.to/feministech/as-mulheres-que-mudaram-o-rumo-da-tecnologia-4b6d)
-- [Integrando Azure ContentSafety para el análisis de feedback: Una prueba de concepto](https://dev.to/danieljsaldana/integrando-azure-contentsafety-para-el-analisis-de-feedback-una-prueba-de-concepto-3l07)
-- [Limit Country Wise Access On Website Using Next.js](https://dev.to/thesohailjafri/limit-country-wise-access-on-website-using-nextjs-56hd)
+- [I created custom skin for Audio.JS](https://dev.to/sh20raj/i-created-custom-skin-for-audiojs-3n8c)
+- [JWT explained in 4 minutes &lpar;With Visuals&rpar;](https://dev.to/syedmaazsaeed/jwt-explained-in-4-minutes-with-visuals-2909)
+- [Coding solutions with AI](https://dev.to/miketalbot/solving-natural-language-problems-with-ai-200g)
+- [Using interfaces the wrong way](https://dev.to/awons/using-interfaces-the-wrong-way-16e9)
 <!-- BLOG-POST-LIST:END -->
 
