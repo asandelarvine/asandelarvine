@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Email testing with Codeception](https://dev.to/yatsenkolesh/email-testing-with-codeception-4b5g)
-- [The DevRel Guide to Business Jargon](https://dev.to/ceceliacreates/the-devrel-guide-to-business-jargon-2042)
-- [Learning Rust: Enumerating Excellence](https://dev.to/link2twenty/learning-rust-enumerating-excellence-1ohh)
-- [Caixa de ferramentas da Arquitetura de Software [Parte-1]](https://dev.to/ezambomsantana/caixa-de-ferramentas-da-arquitetura-de-software-parte-1-2i7a)
+- [How Do You &quot;Prove Your Worth&quot; in Interviews?](https://dev.to/devteam/how-do-you-prove-your-worth-in-interviews-2n2h)
+- [A Django Developer&#39;s Guide to Leveraging Google&#39;s Indexing API](https://dev.to/leonwei/a-django-developers-guide-to-leveraging-googles-indexing-api-5aod)
+- [AI + Humans automating our web Development tasks](https://dev.to/shreyvijayvargiya/ai-humans-automating-our-web-development-tasks-19i1)
+- [Make your Azure OpenAI apps compliant with RBAC](https://dev.to/upslide/using-rbac-with-azure-openai-services-1kl5)
 <!-- BLOG-POST-LIST:END -->
 
