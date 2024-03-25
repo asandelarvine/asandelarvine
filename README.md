@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2ebl)
 - [Happy Holi 2024 Design Animation](https://dev.to/ssukhpinder/happy-holi-2024-design-animation-5hcb)
 - [Don&#39;t follow your passion: career secrets they don&#39;t tell you](https://dev.to/drpraze/dont-follow-your-passion-career-secrets-they-dont-tell-you-41ef)
 - [What is Querying a Database? Everything You Need to Know](https://dev.to/annoh_karlgusta/what-is-querying-a-database-everything-you-need-to-know-1hf3)
-- [Getting Started with JavaScript](https://dev.to/annoh_karlgusta/getting-started-with-javascript-2237)
 <!-- BLOG-POST-LIST:END -->
 
