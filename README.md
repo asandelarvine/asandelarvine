@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The transitory nature of MLOps: Advocating for DevOps/MLOps coalescence](https://dev.to/jwilliamsr/the-transitory-nature-of-mlops-advocating-for-devopsmlops-coalescence-1k6j)
-- [Scripts should be written using the project main language](https://dev.to/freitzzz/scripts-should-be-written-using-the-project-main-language-40hj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hik)
-- [API Testing with Clerk and Express](https://dev.to/mad/api-testing-with-clerk-and-express-2i56)
+- [Glam Up My Markup - The Coolest Camp](https://dev.to/renancferro/glam-up-my-markup-the-coolest-camp-2j9i)
+- [Podcast Palooza— What are you listening to? &lpar;Best-of- all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
+- [How to protect PII information from your AI apps?](https://dev.to/ruthieyakubu/how-to-protect-pii-information-from-your-ai-apps-5eb3)
+- [Lunes de música... ¿Qué estás escuchando? 🎵 &lpar;25-03-2024&rpar;](https://dev.to/music-discussions/lunes-de-musica-que-estas-escuchando-25-03-2024-277c)
 <!-- BLOG-POST-LIST:END -->
 
