@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Email testing with Codeception](https://dev.to/yatsenkolesh/email-testing-with-codeception-4b5g)
 - [The DevRel Guide to Business Jargon](https://dev.to/ceceliacreates/the-devrel-guide-to-business-jargon-2042)
 - [Learning Rust: Enumerating Excellence](https://dev.to/link2twenty/learning-rust-enumerating-excellence-1ohh)
-- [I parsed 968 launches from /r/SideProject and analyzed them with Claude 3 Opus](https://dev.to/alexanderisora/i-parsed-968-launches-from-rsideproject-and-analyzed-them-with-claude-3-opus-5ag0)
-- [What are your goals for week 13 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-13-of-2024-1ed)
+- [Caixa de ferramentas da Arquitetura de Software [Parte-1]](https://dev.to/ezambomsantana/caixa-de-ferramentas-da-arquitetura-de-software-parte-1-2i7a)
 <!-- BLOG-POST-LIST:END -->
 
