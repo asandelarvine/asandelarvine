@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Gold Tutorial For RunPod &amp; Linux Users : How To Use Storage Network Volume In RunPod &amp; Latest Version Of Automatic1111](https://dev.to/furkangozukara/a-new-gold-tutorial-for-runpod-linux-users-how-to-use-storage-network-volume-in-runpod-latest-version-of-automatic1111-2cje)
+- [Linux Commands &lpar;Trying Out Linux commands with Directories and Files&rpar;](https://dev.to/clouddiadem/linux-commands-trying-out-linux-commands-with-directories-and-files-5dhh)
 - [Lexical Scope, Lexical Environment, Execution Context, Closure in JavaScript](https://dev.to/antonzo/lexical-scope-lexical-environment-execution-context-closure-in-javascript-5bn6)
 - [OpenTelemetry Journey #01 - Important concepts](https://dev.to/luizhlelis/opentelemetry-journey-01-important-concepts-2l54)
-- [Glam My Markup: Camp Activities](https://dev.to/kjeanineatl/glam-my-markup-camp-activities-4b0g)
-- [Map Reduce - Practical Approach](https://dev.to/caleberi/map-reduce-practical-approach-11h)
 <!-- BLOG-POST-LIST:END -->
 
