@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Const Generics and How Are They Used in Rust?](https://dev.to/awwsmm/what-are-const-generics-and-how-are-they-used-in-rust-ohm)
-- [Unlock the Twitterverse: Your 2024 Tech &amp; Dev Insider&#39;s Guide](https://dev.to/serverspace/unlock-the-twitterverse-your-2024-tech-dev-insiders-guide-o3f)
-- [FLaNK AI Weekly 25 March 2025](https://dev.to/tspannhw/flank-ai-weekly-25-march-2025-3cgm)
-- [Announcing Espresso; a different kind of Java build tool.](https://dev.to/hlafaille/announcing-espresso-a-different-kind-of-java-build-tool-4k0c)
+- [The DevRel Guide to Business Jargon](https://dev.to/ceceliacreates/the-devrel-guide-to-business-jargon-2042)
+- [Learning Rust: Enumerating Excellence](https://dev.to/link2twenty/learning-rust-enumerating-excellence-1ohh)
+- [I parsed 968 launches from /r/SideProject and analyzed them with Claude 3 Opus](https://dev.to/alexanderisora/i-parsed-968-launches-from-rsideproject-and-analyzed-them-with-claude-3-opus-5ag0)
+- [What are your goals for week 13 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-13-of-2024-1ed)
 <!-- BLOG-POST-LIST:END -->
 
