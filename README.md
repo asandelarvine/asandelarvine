@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 6 of 30-Day .NET Challenge: String built-in Methods](https://dev.to/ssukhpinder/day-6-of-30-day-net-challenge-string-built-in-methods-1ckg)
+- [What is an API &lpar;Application Programming Interface&rpar;?](https://dev.to/jitendrachoudhary/what-is-an-api-5225)
 - [Mastering Dynamic Task Scheduling with Redis: How We Actually Solved Our SAAS Problem?](https://dev.to/nikl/mastering-dynamic-task-scheduling-with-redis-how-we-actually-solved-our-saas-problem-41mp)
 - [Design Principles and Best Practices in React Native App Development](https://dev.to/anhpvbhsoft/design-principles-and-best-practices-in-react-native-app-development-4jak)
-- [How to setup next js app in cPanel?](https://dev.to/infobijoy/how-to-setup-next-js-app-in-cpanel-501k)
-- [The Impact of Gamification on Web Engagement](https://dev.to/joycenkwocha4/the-impact-of-gamification-on-web-engagement-4beh)
 <!-- BLOG-POST-LIST:END -->
 
