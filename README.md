@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why backend engineers should make CLI&#39;s](https://dev.to/aaravsibbal/why-backend-engineers-should-make-clis-p35)
 - [Glam Up My Markup - The Coolest Camp](https://dev.to/renancferro/glam-up-my-markup-the-coolest-camp-2j9i)
-- [Podcast Palooza— What are you listening to? &lpar;Best-of- all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
+- [Podcast Palooza— What are you listening to? &lpar;Best-of-all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
 - [How to protect PII information from your AI apps?](https://dev.to/ruthieyakubu/how-to-protect-pii-information-from-your-ai-apps-5eb3)
-- [Lunes de música... ¿Qué estás escuchando? 🎵 &lpar;25-03-2024&rpar;](https://dev.to/music-discussions/lunes-de-musica-que-estas-escuchando-25-03-2024-277c)
 <!-- BLOG-POST-LIST:END -->
 
