@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Toggle Multiple CSS Classes with Stimulus](https://dev.to/railsdesigner/how-to-toggle-multiple-css-classes-with-stimulus-33me)
-- [Retorno de validações semânticas em API Rest](https://dev.to/felipementel/retorno-de-validacoes-semanticas-em-api-rest-pd)
-- [Creating a Game Engine with C++ and OpenGL: A Step-by-Step Guide](https://dev.to/dexterxt/creating-a-game-engine-with-c-and-opengl-a-step-by-step-guide-343j)
-- [How Websites Work? Explained! 🤔🌐](https://dev.to/arjuncodess/how-websites-work-explained-3e30)
+- [Mastering Linux: 20 Essential Commands Every Developer Should Know](https://dev.to/salnetx/mastering-linux-20-essential-commands-every-developer-should-know-3eie)
+- [Can AI Replace Writers? Exploring the Impact of AI Content Tools](https://dev.to/salnetx/can-ai-replace-writers-exploring-the-impact-of-ai-content-tools-e8j)
+- [What is a Service Worker? ✨🦸](https://dev.to/best_codes/what-is-a-service-worker-4gi1)
+- [Sitecore PowerShell Script to delete unused items in the Media Library](https://dev.to/esdanielgomez/sitecore-powershell-script-to-delete-unused-items-in-the-media-library-3nmc)
 <!-- BLOG-POST-LIST:END -->
 
