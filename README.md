@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Building a Fast, Efficient Web App: The Technology Stack of PromptSmithy Explained](https://dev.to/timesurgelabs/building-a-fast-efficient-web-app-the-technology-stack-of-promptsmithy-explained-184f)
 - [How to Become a Front-End Developer?](https://dev.to/04anilr/how-to-become-a-front-end-developer-5gfk)
+- [Introduction to Digital Note-Taking: A Beginner&#39;s Guide](https://dev.to/charudatta10/introduction-to-digital-note-taking-a-beginners-guide-9p2)
 - [Kubernetes Through the Developer&#39;s Perspective](https://dev.to/cyclops-ui/kubernetes-through-the-developers-perspective-38lf)
-- [Crafting Concurrency: Building Your Own ThreadPool for Multi-Threaded Servers](https://dev.to/mjsf1234/how-to-implement-threadpool-from-scratch-and-implement-in-multi-threaded-server-14gi)
 <!-- BLOG-POST-LIST:END -->
 
