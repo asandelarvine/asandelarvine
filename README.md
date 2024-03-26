@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Functionality &amp; Maintainability: What&#39;s the Difference?](https://dev.to/devteam/functionality-maintainability-whats-the-difference-1cjc)
 - [🇫🇷 La fixette française sur les fotes d&#39;orthogaffes](https://dev.to/jmfayard/la-fixette-francaise-sur-les-fotes-dorthogaffes-49ip)
 - [Day 7 of 30-Day .NET Challenge: String built-in Methods Part 2](https://dev.to/ssukhpinder/day-7-of-30-day-net-challenge-string-built-in-methods-part-2-p9o)
 - [Now You Can Full Fine Tune / DreamBooth Stable Diffusion XL &lpar;SDXL&rpar; with only 10.3 GB VRAM via OneTrainer](https://dev.to/furkangozukara/now-you-can-full-fine-tune-dreambooth-stable-diffusion-xl-sdxl-with-only-103-gb-vram-via-onetrainer-17mj)
-- [Explaining MediaRecorder API in 264 Characters! 🎥](https://dev.to/arjuncodess/explaining-mediarecorder-api-in-264-characters-5oj)
 <!-- BLOG-POST-LIST:END -->
 
