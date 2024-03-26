@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ArtistAssistApp: New Major Update to the Best Free Painting Assistant for Traditional Artists.](https://dev.to/eugene-khyst/artistassistapp-new-major-update-to-the-best-free-painting-assistant-for-traditional-artists-2olb)
+- [Structurer votre doc pour la rendre utile](https://dev.to/onepoint/structurer-votre-doc-pour-la-rendre-utile-2a9c)
 - [Why CrabNebula Cloud? Comparing the Tauri GitHub Action](https://dev.to/crabnebula/why-crabnebula-cloud-comparing-the-tauri-github-action-1l6e)
 - [Simplify, Interact, Achieve: Unleashing the Power of Ask Ai with Walles.Ai&#39;s Intuitive Features](https://dev.to/geekyqee/simplify-interact-achieve-unleashing-the-power-of-ask-ai-with-wallesais-intuitive-features-bmm)
-- [Chat PDFs and the Next Wave of Communication with Walles.Ai](https://dev.to/geekyqee/chat-pdfs-and-the-next-wave-of-communication-with-wallesai-51jc)
-- [API GOVERNANCE CHECKLIST FOR MANAGERS IN 2024](https://dev.to/mwendwatechie/api-governance-checklist-for-managers-in-2024-388e)
 <!-- BLOG-POST-LIST:END -->
 
