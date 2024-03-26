@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How My Experience in Technical Support Enhances My Career as a Software Engineer](https://dev.to/fiamon/how-my-experience-in-technical-support-enhances-my-career-as-a-software-engineer-3nml)
-- [Implementing Dark Mode in Web Design: Enhancing User Experience](https://dev.to/dukeoketex/implementing-dark-mode-in-web-design-enhancing-user-experience-4knm)
-- [Progressing through the Lean Six Sigma Belt Levels: A Journey from White to Black](https://dev.to/mohammed_reda/progressing-through-the-lean-six-sigma-belt-levels-a-journey-from-white-to-black-4f0g)
-- [WebApp BFF &lpar;Backend-For-Frontend&rpar; Concept](https://dev.to/kevin-uehara/webapp-bff-backend-for-frontend-concept-jaj)
+- [My binary vector search is better than your FP32 vectors](https://dev.to/gaocegege/my-binary-vector-search-is-better-than-your-fp32-vectors-4j2k)
+- [How to Utilize API7 Enterprise for Full API Lifecycle Management?](https://dev.to/api7/how-to-utilize-api7-enterprise-for-full-api-lifecycle-management-137i)
+- [What does AWS Cloud Architect do?](https://dev.to/aws-builders/what-does-aws-cloud-architect-do-5hdj)
+- [Creating NFC Or QR Code Automations In Home Assistant Using Webhooks](https://dev.to/danielrosehill/creating-nfc-or-qr-code-automations-in-home-assistant-using-webhooks-2fmi)
 <!-- BLOG-POST-LIST:END -->
 
