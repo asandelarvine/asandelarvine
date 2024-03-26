@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [500M Speed Test : C &lt;- Vs -&gt; Rust](https://dev.to/bekbrace/500m-speed-test-c-rust-4e28)
-- [Build a Real Estate Listing App in Minutes: Power Apps &amp; SharePoint](https://dev.to/jaloplo/build-a-real-estate-listing-app-in-minutes-power-apps-sharepoint-2fn4)
-- [Battery API - Access your🔋in browser](https://dev.to/locnguyenpv/battery-api-access-your-in-browser-4ene)
-- [A Gentle Introduction to Generics in Typescript](https://dev.to/this-is-learning/a-gentle-introduction-to-generics-in-typescript-3ap3)
+- [Charm in Conversation: Walles.AI&#39;s Natural Language Processing Makes Every Chat PDF Interaction a Delight!](https://dev.to/geekyqee/charm-in-conversation-wallesais-natural-language-processing-makes-every-chat-pdf-interaction-a-delight-hid)
+- [Follow best rules while coding in Vue.js Projects](https://dev.to/integridsolutions/follow-best-rules-while-coding-in-vuejs-projects-1me5)
+- [My new open-source repository to schedule all your content!](https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a)
+- [How I - well, AWS WAF and CloudFront - saved the day for my client](https://dev.to/aws-builders/how-i-well-aws-waf-and-cloudfront-saved-the-day-for-my-client-9hk)
 <!-- BLOG-POST-LIST:END -->
 
