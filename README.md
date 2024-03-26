@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the best advice you have ever received?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-is-the-best-advice-you-have-ever-received-codenewbie-podcast-40hk)
+- [Beyond Basic Functions: Explore Currying in JavaScript](https://dev.to/leonardorafael/beyond-basic-functions-explore-currying-in-javascript-16lp)
 - [Finding the Inspiration to Build](https://dev.to/wasp/finding-the-inspiration-to-build-3p4n)
-- [VIP Access Only: Demystifying OAuth 2.0 with a Clubbing Analogy](https://dev.to/hamed-fatehi/vip-access-only-demystifying-oauth-20-with-a-clubbing-analogy-nca)
-- [Switch Component with RiotJS &lpar;Material Design&rpar;](https://dev.to/steeve/switch-component-with-riotjs-material-design-11ic)
-- [Microsoft Azure Certificate](https://dev.to/ankita482/microsoft-azure-certificate-oae)
+- [The difference between parameters and arguments in Javascript](https://dev.to/tessmueske/the-difference-between-parameters-and-arguments-in-javascript-2gma)
 <!-- BLOG-POST-LIST:END -->
 
