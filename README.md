@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring 5 Top UI Frameworks for React](https://dev.to/surajondev/exploring-5-top-ui-frameworks-for-react-2cpb)
-- [ArtistAssistApp: New Major Update to the Best Free Painting Assistant for Traditional Artists.](https://dev.to/eugene-khyst/artistassistapp-new-major-update-to-the-best-free-painting-assistant-for-traditional-artists-2olb)
-- [Structurer votre doc pour la rendre utile](https://dev.to/onepoint/structurer-votre-doc-pour-la-rendre-utile-2a9c)
-- [Why CrabNebula Cloud? Comparing the Tauri GitHub Action](https://dev.to/crabnebula/why-crabnebula-cloud-comparing-the-tauri-github-action-1l6e)
+- [Finding the Inspiration to Build](https://dev.to/wasp/finding-the-inspiration-to-build-3p4n)
+- [VIP Access Only: Demystifying OAuth 2.0 with a Clubbing Analogy](https://dev.to/hamed-fatehi/vip-access-only-demystifying-oauth-20-with-a-clubbing-analogy-nca)
+- [Switch Component with RiotJS &lpar;Material Design&rpar;](https://dev.to/steeve/switch-component-with-riotjs-material-design-11ic)
+- [Microsoft Azure Certificate](https://dev.to/ankita482/microsoft-azure-certificate-oae)
 <!-- BLOG-POST-LIST:END -->
 
