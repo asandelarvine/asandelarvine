@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why backend engineers should make CLI&#39;s](https://dev.to/aaravsibbal/why-backend-engineers-should-make-clis-p35)
-- [Glam Up My Markup - The Coolest Camp](https://dev.to/renancferro/glam-up-my-markup-the-coolest-camp-2j9i)
-- [Podcast Palooza— What are you listening to? &lpar;Best-of-all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
-- [How to protect PII information from your AI apps?](https://dev.to/ruthieyakubu/how-to-protect-pii-information-from-your-ai-apps-5eb3)
+- [How My Experience in Technical Support Enhances My Career as a Software Engineer](https://dev.to/fiamon/how-my-experience-in-technical-support-enhances-my-career-as-a-software-engineer-3nml)
+- [Implementing Dark Mode in Web Design: Enhancing User Experience](https://dev.to/dukeoketex/implementing-dark-mode-in-web-design-enhancing-user-experience-4knm)
+- [Progressing through the Lean Six Sigma Belt Levels: A Journey from White to Black](https://dev.to/mohammed_reda/progressing-through-the-lean-six-sigma-belt-levels-a-journey-from-white-to-black-4f0g)
+- [WebApp BFF &lpar;Backend-For-Frontend&rpar; Concept](https://dev.to/kevin-uehara/webapp-bff-backend-for-frontend-concept-jaj)
 <!-- BLOG-POST-LIST:END -->
 
