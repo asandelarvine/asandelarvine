@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Difference Between New and Beginner Open Source Contributors?](https://dev.to/opensauced/whats-the-difference-between-new-and-beginner-open-source-contributors-3ib9)
-- [Day 1 — Azure Open AI Challenge](https://dev.to/ssukhpinder/day-1-azure-open-ai-challenge-10a8)
-- [Observability at KubeCon + CloudNativeCon Europe 2024 in Paris](https://dev.to/kubeshop/observability-at-kubecon-cloudnativecon-europe-2024-in-paris-1117)
-- [10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨](https://dev.to/jakepage91/10-steps-to-build-a-top-tier-discord-server-for-your-open-source-community-4cog)
+- [Building a Fast, Efficient Web App: The Technology Stack of PromptSmithy Explained](https://dev.to/timesurgelabs/building-a-fast-efficient-web-app-the-technology-stack-of-promptsmithy-explained-184f)
+- [How to Become a Front-End Developer?](https://dev.to/04anilr/how-to-become-a-front-end-developer-5gfk)
+- [Kubernetes Through the Developer&#39;s Perspective](https://dev.to/cyclops-ui/kubernetes-through-the-developers-perspective-38lf)
+- [Crafting Concurrency: Building Your Own ThreadPool for Multi-Threaded Servers](https://dev.to/mjsf1234/how-to-implement-threadpool-from-scratch-and-implement-in-multi-threaded-server-14gi)
 <!-- BLOG-POST-LIST:END -->
 
