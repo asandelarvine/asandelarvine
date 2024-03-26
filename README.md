@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Charm in Conversation: Walles.AI&#39;s Natural Language Processing Makes Every Chat PDF Interaction a Delight!](https://dev.to/geekyqee/charm-in-conversation-wallesais-natural-language-processing-makes-every-chat-pdf-interaction-a-delight-hid)
-- [Follow best rules while coding in Vue.js Projects](https://dev.to/integridsolutions/follow-best-rules-while-coding-in-vuejs-projects-1me5)
-- [My new open-source repository to schedule all your content!](https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a)
-- [How I - well, AWS WAF and CloudFront - saved the day for my client](https://dev.to/aws-builders/how-i-well-aws-waf-and-cloudfront-saved-the-day-for-my-client-9hk)
+- [Why CrabNebula Cloud? Comparing the Tauri GitHub Action](https://dev.to/crabnebula/why-crabnebula-cloud-comparing-the-tauri-github-action-1l6e)
+- [Simplify, Interact, Achieve: Unleashing the Power of Ask Ai with Walles.Ai&#39;s Intuitive Features](https://dev.to/geekyqee/simplify-interact-achieve-unleashing-the-power-of-ask-ai-with-wallesais-intuitive-features-bmm)
+- [Chat PDFs and the Next Wave of Communication with Walles.Ai](https://dev.to/geekyqee/chat-pdfs-and-the-next-wave-of-communication-with-wallesai-51jc)
+- [API GOVERNANCE CHECKLIST FOR MANAGERS IN 2024](https://dev.to/mwendwatechie/api-governance-checklist-for-managers-in-2024-388e)
 <!-- BLOG-POST-LIST:END -->
 
