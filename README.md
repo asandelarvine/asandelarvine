@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Tailwind `inview:` aplica estilos cuando el componente entra en pantalla](https://dev.to/marcosmonterodev/tailwind-inview-easily-apply-styles-when-component-enters-screen-on-scroll-2lfk)
 - [Deciphering Open-Source Licenses: An In-Depth Exploration](https://dev.to/adarshbp/deciphering-open-source-licenses-an-in-depth-exploration-17l7)
 - [Free Random Quotes API - WhollyAPI](https://dev.to/whollyapi/free-random-quotes-api-whollyapi-2l93)
-- [10 Methods for Vertical Alignment Using CSS](https://dev.to/refine/10-methods-for-vertical-alignment-using-css-3okc)
-- [CSS Art Challenge: Cookie](https://dev.to/jeffersonrj14/css-art-challenge-cookie-58fk)
+- [5 Secret Tips To Increase Social Media Engagement](https://dev.to/joywinter90/5-secret-tips-to-increase-social-media-engagement-2mp1)
 <!-- BLOG-POST-LIST:END -->
 
