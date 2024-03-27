@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Session Counts](https://dev.to/simongreen/creating-session-counts-3nop)
-- [Mini-Exos: The IoT Web-based Access Control System](https://dev.to/dariocasciato/mini-exos-the-iot-web-based-access-control-system-5hjk)
-- [How to Fix Langchain Hub Pull Error](https://dev.to/ebereplenty/how-to-fix-langchain-hub-pull-error-16k)
-- [A Simple Way to Sign AWS Requests with Signature V4](https://dev.to/aws-builders/a-simple-way-to-sign-aws-requests-with-signature-v4-9eo)
+- [How Websites Work? Explained! 🤔🌐](https://dev.to/arjuncodess/how-websites-work-explained-m38)
+- [Trigger AWS Lambda with TCP Traffic + Static IP Address](https://dev.to/aws-builders/trigger-aws-lambda-with-tcp-traffic-static-ip-address-1bha)
+- [Maximizing Performance with Lazy Initialization in React useState](https://dev.to/ronaizacardoso/maximizing-performance-with-lazy-initialization-in-react-usestate-3n5m)
+- [Mastering Animated Navigation with JavaScript | Web Development Tutorial for Beginners](https://dev.to/robsonmuniz16/mastering-animated-navigation-with-javascript-web-development-tutorial-for-beginners-n6l)
 <!-- BLOG-POST-LIST:END -->
 
