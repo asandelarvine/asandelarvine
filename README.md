@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitor EC2 instance metrics with Datadog &lpar;step-by-step&rpar;](https://dev.to/aws-builders/monitor-ec2-instance-metrics-with-datadog-step-by-step-3c35)
+- [Clear Vision, Not So Clear &lpar;or.. The User Is Me&rpar;](https://dev.to/montyharper/clear-vision-not-so-clear-or-the-user-is-me-27dd)
 - [How Websites Work? Explained! 🤔🌐](https://dev.to/arjuncodess/how-websites-work-explained-m38)
-- [Trigger AWS Lambda with TCP Traffic + Static IP Address](https://dev.to/aws-builders/trigger-aws-lambda-with-tcp-traffic-static-ip-address-1bha)
-- [Maximizing Performance with Lazy Initialization in React useState](https://dev.to/ronaizacardoso/maximizing-performance-with-lazy-initialization-in-react-usestate-3n5m)
-- [Mastering Animated Navigation with JavaScript | Web Development Tutorial for Beginners](https://dev.to/robsonmuniz16/mastering-animated-navigation-with-javascript-web-development-tutorial-for-beginners-n6l)
+- [Tools for Linux Distro Hoppers](https://dev.to/labasubagia/tools-for-linux-distro-hoppers-3nh6)
 <!-- BLOG-POST-LIST:END -->
 
