@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Session Counts](https://dev.to/simongreen/creating-session-counts-3nop)
+- [Mini-Exos: The IoT Web-based Access Control System](https://dev.to/dariocasciato/mini-exos-the-iot-web-based-access-control-system-5hjk)
+- [How to Fix Langchain Hub Pull Error](https://dev.to/ebereplenty/how-to-fix-langchain-hub-pull-error-16k)
 - [A Simple Way to Sign AWS Requests with Signature V4](https://dev.to/aws-builders/a-simple-way-to-sign-aws-requests-with-signature-v4-9eo)
-- [How I would learn DevOps if I could start over 🐳](https://dev.to/larastewart_engdev/how-i-would-learn-devops-if-i-could-start-over-5amp)
-- [SEOGenius — Crafted with ChatGPT](https://dev.to/ssukhpinder/seogenius-crafted-with-chatgpt-14h8)
-- [Improve Your Workflow with APItoolkit](https://dev.to/apitoolkit/improve-your-workflow-with-apitoolkit-3m3b)
 <!-- BLOG-POST-LIST:END -->
 
