@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Switch&#39;in L2 mi L3 mü Olduğunun Öğrenilmesi](https://dev.to/aciklab/switchin-l2-mi-l3-mu-oldugunun-ogrenilmesi-1kf6)
 - [Data Streaming Architecture](https://dev.to/aws-builders/data-streaming-architecture-32j0)
 - [Data Streaming Architecture Basics](https://dev.to/aws-builders/data-streaming-architecture-basics-52d7)
 - [Step-by-step installation of Ubuntu 22.04 LTS &lpar;2&rpar;](https://dev.to/hystou/step-by-step-installation-of-ubuntu-2204-lts-2-1kgi)
-- [Multiprocessing in Python](https://dev.to/mainpynerds/multiprocessing-in-python-a08)
 <!-- BLOG-POST-LIST:END -->
 
