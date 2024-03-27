@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Document-Driven Chatbot with LangChain: The Ultimate Guide](https://dev.to/rutamstwt/building-a-document-driven-chatbot-with-langchain-the-ultimate-guide-1nia)
 - [How to create your own Eslint rule with tests, boosting the DX, and code-review](https://dev.to/meteor/how-to-create-your-own-eslint-rule-with-tests-boosting-the-dx-and-code-review-25el)
 - [Episode 24/12: Angular &amp; Wiz, Analog 1.0, TanStack Form](https://dev.to/this-is-angular/episode-2412-angular-wiz-analog-10-tanstack-form-3fmg)
 - [Day 2 — Azure Open AI Challenge: Image Generation](https://dev.to/ssukhpinder/day-2-azure-open-ai-challenge-image-generation-4bgp)
-- [Create a Dynamic Modal using PHP and HTMX #1](https://dev.to/darkterminal/create-a-dynamic-modal-using-php-and-htmx-1-3d2g)
 <!-- BLOG-POST-LIST:END -->
 
