@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix K8S Exit Code 137?](https://dev.to/cicube/how-to-fix-k8s-exit-code-137-55i1)
-- [Finally, legal “grass” in the international market…](https://dev.to/markus009/finally-legal-grass-in-the-international-market-21m6)
-- [Best Practices for Syncing Development Environments: A Developer&#39;s Toolkit ✨](https://dev.to/zorian/best-practices-for-syncing-development-environments-a-developers-toolkit-1o1b)
-- [Does Stress Lead to Personal Growth and Resilience?](https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0)
+- [Deciphering Open-Source Licenses: An In-Depth Exploration](https://dev.to/adarshbp/deciphering-open-source-licenses-an-in-depth-exploration-17l7)
+- [Free Random Quotes API - WhollyAPI](https://dev.to/whollyapi/free-random-quotes-api-whollyapi-2l93)
+- [10 Methods for Vertical Alignment Using CSS](https://dev.to/refine/10-methods-for-vertical-alignment-using-css-3okc)
+- [CSS Art Challenge: Cookie](https://dev.to/jeffersonrj14/css-art-challenge-cookie-58fk)
 <!-- BLOG-POST-LIST:END -->
 
