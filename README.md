@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create your own Eslint rule with tests, boosting the DX, and code-review](https://dev.to/meteor/how-to-create-your-own-eslint-rule-with-tests-boosting-the-dx-and-code-review-25el)
+- [Episode 24/12: Angular &amp; Wiz, Analog 1.0, TanStack Form](https://dev.to/this-is-angular/episode-2412-angular-wiz-analog-10-tanstack-form-3fmg)
 - [Day 2 — Azure Open AI Challenge: Image Generation](https://dev.to/ssukhpinder/day-2-azure-open-ai-challenge-image-generation-4bgp)
 - [Create a Dynamic Modal using PHP and HTMX #1](https://dev.to/darkterminal/create-a-dynamic-modal-using-php-and-htmx-1-3d2g)
-- [Algorithms: The Invisible Code Shaping The World](https://dev.to/lymah/algorithms-the-invisible-code-shaping-the-world-1h7b)
-- [Getting started with CloudBees DORA metrics](https://dev.to/cloudbees/getting-started-with-cloudbees-dora-metrics-2j5i)
 <!-- BLOG-POST-LIST:END -->
 
