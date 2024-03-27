@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch&#39;in L2 mi L3 mü Olduğunun Öğrenilmesi](https://dev.to/aciklab/switchin-l2-mi-l3-mu-oldugunun-ogrenilmesi-1kf6)
-- [Data Streaming Architecture](https://dev.to/aws-builders/data-streaming-architecture-32j0)
-- [Data Streaming Architecture Basics](https://dev.to/aws-builders/data-streaming-architecture-basics-52d7)
-- [Step-by-step installation of Ubuntu 22.04 LTS &lpar;2&rpar;](https://dev.to/hystou/step-by-step-installation-of-ubuntu-2204-lts-2-1kgi)
+- [Build a QR Code Generator App with React JS | Learn React with a Project](https://dev.to/imrankh13332994/build-a-qr-code-generator-app-with-react-js-learn-react-with-project-5510)
+- [Laravel 11 &lpar;how to upgrade&rpar;](https://dev.to/mazimez/laravel-11-how-to-upgrade-559m)
+- [The Treachery of CSS](https://dev.to/alvaromontoro/the-treachery-of-css-4664)
+- [React Router Not Working on Vercel?](https://dev.to/arindam_1729/react-router-not-working-on-vercel-3be6)
 <!-- BLOG-POST-LIST:END -->
 
