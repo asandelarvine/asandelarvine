@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Stress Lead to Personal Growth and Resilience?](https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0)
+- [How to Create a Fake OpenAI Server Using llama.cpp: Step-by-Step Guide](https://dev.to/dexterxt/how-to-create-a-fake-openai-server-using-llamacpp-step-by-step-guide-49mk)
 - [Build a QR Code Generator App with React JS | Learn React with a Project](https://dev.to/imrankh13332994/build-a-qr-code-generator-app-with-react-js-learn-react-with-project-5510)
 - [Laravel 11 &lpar;how to upgrade&rpar;](https://dev.to/mazimez/laravel-11-how-to-upgrade-559m)
-- [The Treachery of CSS](https://dev.to/alvaromontoro/the-treachery-of-css-4664)
-- [React Router Not Working on Vercel?](https://dev.to/arindam_1729/react-router-not-working-on-vercel-3be6)
 <!-- BLOG-POST-LIST:END -->
 
