@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Way to Sign AWS Requests with Signature V4](https://dev.to/aws-builders/a-simple-way-to-sign-aws-requests-with-signature-v4-9eo)
+- [How I would learn DevOps if I could start over 🐳](https://dev.to/larastewart_engdev/how-i-would-learn-devops-if-i-could-start-over-5amp)
+- [SEOGenius — Crafted with ChatGPT](https://dev.to/ssukhpinder/seogenius-crafted-with-chatgpt-14h8)
 - [Improve Your Workflow with APItoolkit](https://dev.to/apitoolkit/improve-your-workflow-with-apitoolkit-3m3b)
-- [GetBlock Introduces Subscriptions: Save 50% on RPC Node](https://dev.to/getblockapi/getblock-introduces-subscriptions-save-50-on-rpc-node-27gl)
-- [Announcing pre-release of &quot;All-Access&quot;](https://dev.to/ngmaterialdev/announcing-pre-release-of-all-access-4b5m)
-- [Get Random Images API for free from Lorem Picsum](https://dev.to/sh20raj/get-random-images-api-for-free-from-lorem-picsum-1ffi)
 <!-- BLOG-POST-LIST:END -->
 
