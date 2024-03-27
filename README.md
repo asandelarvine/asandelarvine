@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Tailwind `inview:` aplica estilos cuando el componente entra en pantalla](https://dev.to/marcosmonterodev/tailwind-inview-easily-apply-styles-when-component-enters-screen-on-scroll-2lfk)
-- [Deciphering Open-Source Licenses: An In-Depth Exploration](https://dev.to/adarshbp/deciphering-open-source-licenses-an-in-depth-exploration-17l7)
-- [Free Random Quotes API - WhollyAPI](https://dev.to/whollyapi/free-random-quotes-api-whollyapi-2l93)
-- [5 Secret Tips To Increase Social Media Engagement](https://dev.to/joywinter90/5-secret-tips-to-increase-social-media-engagement-2mp1)
+- [Improve Your Workflow with APItoolkit](https://dev.to/apitoolkit/improve-your-workflow-with-apitoolkit-3m3b)
+- [GetBlock Introduces Subscriptions: Save 50% on RPC Node](https://dev.to/getblockapi/getblock-introduces-subscriptions-save-50-on-rpc-node-27gl)
+- [Announcing pre-release of &quot;All-Access&quot;](https://dev.to/ngmaterialdev/announcing-pre-release-of-all-access-4b5m)
+- [Get Random Images API for free from Lorem Picsum](https://dev.to/sh20raj/get-random-images-api-for-free-from-lorem-picsum-1ffi)
 <!-- BLOG-POST-LIST:END -->
 
