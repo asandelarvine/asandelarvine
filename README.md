@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Disable Copilot in Windows 11?](https://dev.to/vikrogers/how-to-disable-copilot-in-windows-11-5fh4)
-- [Testing LLMs for Performance with Service Mocking](https://dev.to/kenahrens/testing-llms-for-performance-with-service-mocking-4ki6)
-- [HOW TO RECOVER FUNDS FROM NOVATECH FX THROUGH GEARHEAD ENGINEERS](https://dev.to/normy1/how-to-recover-funds-from-novatech-fx-through-gearhead-engineers-31do)
-- [Advanced Prompt Processing in Java : Parallel Processing, Data Conversion and more..](https://dev.to/vishalmysore/advanced-prompt-processing-in-java-parallel-processing-data-conversion-and-more-3jng)
+- [Criando um Design System reutilizável entre React e React Native com Tamagui](https://dev.to/devhat/criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi)
+- [NestJS GraphQL: Code First Approach](https://dev.to/codexam/nestjs-graphql-code-first-approach-1pn0)
+- [Welcome Thread - v269](https://dev.to/devteam/welcome-thread-v269-2naa)
+- [Preventing SQL Injection with Golang](https://dev.to/wiliamvj/preventing-sql-injection-with-golang-41m5)
 <!-- BLOG-POST-LIST:END -->
 
