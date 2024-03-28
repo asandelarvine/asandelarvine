@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Async/Await in TypeScript: A step by step guide](https://dev.to/alakkadshaw/asyncawait-in-typescript-a-step-by-step-guide-4m1e)
+- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-33o2)
+- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/ankita482/top-5-best-courses-for-administrator-by-microsoft-with-certificate-370d)
 - [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/radhika59/top-5-best-courses-for-administrator-by-microsoft-with-certificate-4oo5)
-- [Real-Time Irish Transit Analytics](https://dev.to/tspannhw/real-time-irish-transit-analytics-46p2)
-- [Sloan&#39;s Inbox: How do you ask for help?](https://dev.to/devteam/sloans-inbox-how-do-you-ask-for-help-2ee2)
-- [Docker Swarm vs. Kubernetes - DevOps Guide](https://dev.to/refine/docker-swarm-vs-kubernetes-devops-guide-2h8b)
 <!-- BLOG-POST-LIST:END -->
 
