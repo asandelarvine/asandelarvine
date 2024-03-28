@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await in TypeScript: A step by step guide](https://dev.to/alakkadshaw/asyncawait-in-typescript-a-step-by-step-guide-4m1e)
-- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-33o2)
-- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/ankita482/top-5-best-courses-for-administrator-by-microsoft-with-certificate-370d)
-- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/radhika59/top-5-best-courses-for-administrator-by-microsoft-with-certificate-4oo5)
+- [How to Optimize Software Testing Life Cycle – The Full Guide](https://dev.to/testfort_inc/how-to-optimize-software-testing-life-cycle-the-full-guide-4lik)
+- [Have You Ever Gotten A Job through LinkedIn?](https://dev.to/devteam/have-you-ever-gotten-a-job-through-linkedin-fmj)
+- [Geolocation Web API - explained in less than 256 chars](https://dev.to/rajeshroyal/geolocation-web-api-explained-in-less-than-256-chars-45o4)
+- [Apple and Orange](https://dev.to/kecbm/apple-and-orange-2g82)
 <!-- BLOG-POST-LIST:END -->
 
