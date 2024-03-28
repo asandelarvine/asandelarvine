@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [A Guide to Building CLI Tools in JavaScript](https://dev.to/shreshthgoyal/a-guide-to-building-cli-tools-in-javascript-28nn)
+- [Timer Feature in Browsers: One Byte Explainer](https://dev.to/aneeqakhan/timer-feature-in-browsers-one-byte-explainer-4maa)
+- [CSS Art:Watermelon](https://dev.to/kejriwaldivya/css-artwatermelon-jo9)
 - [Composite Alarms in AWS Cloud: Advanced Notification System](https://dev.to/aws-builders/composite-alarms-in-aws-cloud-advanced-notification-system-2omn)
-- [Data-Attributes Magic with Tailwind CSS &amp; Stimulus](https://dev.to/railsdesigner/data-attributes-magic-with-tailwind-css-stimulus-2bmb)
-- [AI, but at what cost? The energy-inefficient AI era is already here](https://dev.to/lnahrf/ai-but-at-what-cost-the-energy-inefficient-ai-era-is-already-here-162h)
 <!-- BLOG-POST-LIST:END -->
 
