@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the Mysteries of JavaScript, Tackling Tough Logic](https://dev.to/yugandhar_dasari_93/unraveling-the-mysteries-of-javascript-tackling-tough-logic-31e3)
+- [Learning new language in context with chatGPT](https://dev.to/apetryla/learning-new-language-in-context-with-chatgpt-1g8b)
 - [React Interview Task: Build a folder/file explorer UI.](https://dev.to/swastikyadav/react-interview-task-build-a-folderfile-explorer-ui-2hgh)
 - [Difference between Forward Proxy and Reverse Proxy in System design](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5)
-- [⚛️ Explaining React&#39;s Types](https://dev.to/itswillt/explaining-reacts-types-940)
-- [Exploring Three.js for 3D Web Development](https://dev.to/codeparrot/exploring-threejs-for-3d-web-development-dfg)
 <!-- BLOG-POST-LIST:END -->
 
