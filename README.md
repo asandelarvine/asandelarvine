@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Swarm vs. Kubernetes - DevOps Guide](https://dev.to/refine/docker-swarm-vs-kubernetes-devops-guide-2h8b)
+- [Can you help with a quick survey? 30 secs top 🙏](https://dev.to/opensourcee/can-you-help-with-a-quick-survey-30-secs-top-498m)
+- [🇫🇷🇪🇸🇩🇪🇮🇹🇯🇵 What if we made DEV.to polyglot ?](https://dev.to/jmfayard/what-if-we-made-devto-polyglot--3ppb)
 - [AI/ML - Langchain4j - Chat Memory](https://dev.to/rprabhu/aiml-langchain4j-chat-memory-3b31)
-- [Build Dynamic Forms with React Hook Form](https://dev.to/clarity89/build-dynamic-forms-with-react-hook-form-4go9)
-- [End-To-End Polymorphism: From Database to UI, Achieving SOLID Design](https://dev.to/zenstack/end-to-end-polymorphism-from-database-to-ui-achieving-solid-design-3bih)
-- [How to set up AWS Verified Access with Okta](https://dev.to/cicube/how-to-set-up-aws-verified-access-with-okta-5a5m)
 <!-- BLOG-POST-LIST:END -->
 
