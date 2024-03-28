@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontend CSS Art Challenge- Orange Candy Ice Cream](https://dev.to/codewithtee/frontend-css-art-challenge-orange-candy-ice-cream-55d3)
 - [Open AI Challenge, Day 3: Mastering Code Generation](https://dev.to/ssukhpinder/open-ai-challenge-day-3-mastering-code-generation-4od1)
+- [Learning AWS Day by Day - Day 19 - VPC Hands-on: Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-19-vpc-hands-on-part-1-2pkj)
 - [10 Web Dev Qualities That Actually Matter 🦄](https://dev.to/magnificode/10-web-dev-qualities-that-actually-matter-1hi8)
-- [2024 Mac Developer Toolbox: Essentials for Full-Stack Development](https://dev.to/hikarimaeda/2024-mac-developer-toolbox-essentials-for-full-stack-development-418a)
-- [React in 2024: A Beginner&#39;s Guide 🌟🚀](https://dev.to/arjuncodess/react-in-2024-a-beginners-guide-152a)
 <!-- BLOG-POST-LIST:END -->
 
