@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Composite Alarms in AWS Cloud: Advanced Notification System](https://dev.to/aws-builders/composite-alarms-in-aws-cloud-advanced-notification-system-2omn)
 - [Data-Attributes Magic with Tailwind CSS &amp; Stimulus](https://dev.to/railsdesigner/data-attributes-magic-with-tailwind-css-stimulus-2bmb)
+- [AI, but at what cost? The energy-inefficient AI era is already here](https://dev.to/lnahrf/ai-but-at-what-cost-the-energy-inefficient-ai-era-is-already-here-162h)
 - [Top 6 Best GPTs for AI Productivity in 2024](https://dev.to/stan8086/top-6-best-gpts-for-ai-productivity-in-2024-31n1)
-- [Read This if You Hate Ternary Operators](https://dev.to/greenteaisgreat/read-this-if-you-hate-ternary-operators-59m5)
-- [A Goodbye to Tech](https://dev.to/cat/a-goodbye-to-tech-41gh)
 <!-- BLOG-POST-LIST:END -->
 
