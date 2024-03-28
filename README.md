@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The CSS inherit Property](https://dev.to/joanayebola/the-css-inherit-property-4l81)
-- [9 Web API&#39;s que fazem mágica ⚡🧙🏻‍♀️🧙🏾‍♂️✨](https://dev.to/lincolixavier/9-web-apis-que-fazem-magica-3aj9)
-- [Challenges of Evaluating and Understanding Foundation models](https://dev.to/ruthieyakubu/challenges-of-evaluating-and-understanding-foundation-models-320g)
-- [Frontend CSS Art Challenge- Orange Candy Ice Cream](https://dev.to/codewithtee/frontend-css-art-challenge-orange-candy-ice-cream-55d3)
+- [Data-Attributes Magic with Tailwind CSS &amp; Stimulus](https://dev.to/railsdesigner/data-attributes-magic-with-tailwind-css-stimulus-2bmb)
+- [Top 6 Best GPTs for AI Productivity in 2024](https://dev.to/stan8086/top-6-best-gpts-for-ai-productivity-in-2024-31n1)
+- [Read This if You Hate Ternary Operators](https://dev.to/greenteaisgreat/read-this-if-you-hate-ternary-operators-59m5)
+- [A Goodbye to Tech](https://dev.to/cat/a-goodbye-to-tech-41gh)
 <!-- BLOG-POST-LIST:END -->
 
