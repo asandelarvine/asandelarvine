@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/ananya748/top-5-best-courses-for-administrator-by-microsoft-with-certificate-5ebl)
-- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-19n9)
-- [Let vs. Const: Choosing the Right Tool for the Job in JavaScript](https://dev.to/henrylehd/let-vs-const-choosing-the-right-tool-for-the-job-in-javascript-3cj2)
-- [glad to be here](https://dev.to/williamsmile4/glad-to-be-here-2k70)
+- [Containerize your multi-services app with docker compose](https://dev.to/niemet0502/containerize-your-multi-services-app-with-docker-compose-206)
+- [30 tips of code PHP - Types](https://dev.to/razielrodrigues/30-tips-of-code-php-types-3j20)
+- [Understanding and Resolving &quot;fatal: The current branch has no upstream branch&quot; Error in Git](https://dev.to/mochafreddo/understanding-and-resolving-fatal-the-current-branch-has-no-upstream-branch-error-in-git-3cgg)
+- [*args and **kwargs in Python](https://dev.to/mainpynerds/args-and-kwargs-in-python-5ef5)
 <!-- BLOG-POST-LIST:END -->
 
