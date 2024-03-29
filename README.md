@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
-- [What Do You Remember about the Early Days of webdev and HTML?](https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0)
-- [Retrieve GitHub Project Issues to a Google Spreadsheet](https://dev.to/aleguerra05/retrieve-github-project-issues-to-a-google-spreadsheet-pn5)
-- [Prisma Part 1: Your Easy Tutorial to Set up Prisma](https://dev.to/burakboduroglu/prisma-part-1-your-easy-tutorial-to-set-up-prisma-4p1)
+- [Count Visitors With Free API](https://dev.to/sh20raj/count-visitors-with-free-api-1ccf)
+- [ScrollProgressJS- Customisable scroll progress indicator for web pages](https://dev.to/sh20raj/scrollprogressjs-customisable-scroll-progress-indicator-for-web-pages-5cfc)
+- [Day 10 of 30-Day .NET Challenge: File Paths](https://dev.to/ssukhpinder/day-10-of-30-day-net-challenge-file-paths-29kj)
+- [I made a Random Quote Generator.](https://dev.to/mince/i-made-a-random-quote-generator-3nnn)
 <!-- BLOG-POST-LIST:END -->
 
