@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is www.example.com and example.com is same in front of google](https://dev.to/sh20raj/is-wwwexamplecom-and-examplecom-is-same-in-front-of-google-30al)
+- [This Week In React #179: useActionState, Redwood, React-Navigation, RN-Screens, CodePush, VisionOS...](https://dev.to/sebastienlorber/this-week-in-react-179-useactionstate-redwood-react-navigation-rn-screens-codepush-visionos-123b)
 - [Cognito custom flow sign-in sends a confirm code via email](https://dev.to/trantn/cognito-custom-flow-sign-in-sends-a-confirm-code-via-email-1j12)
 - [S3 Client against disasters &lpar;hacks, fires, catastrophes&rpar;](https://dev.to/steeve/s3-client-against-disasters-hacks-fires-catastrophes-3c3b)
-- [Count Visitors With Free API](https://dev.to/sh20raj/count-visitors-with-free-api-1ccf)
-- [ScrollProgressJS- Customisable scroll progress indicator for web pages](https://dev.to/sh20raj/scrollprogressjs-customisable-scroll-progress-indicator-for-web-pages-5cfc)
 <!-- BLOG-POST-LIST:END -->
 
