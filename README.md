@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognito custom flow sign-in sends a confirm code via email](https://dev.to/trantn/cognito-custom-flow-sign-in-sends-a-confirm-code-via-email-1j12)
+- [S3 Client against disasters &lpar;hacks, fires, catastrophes&rpar;](https://dev.to/steeve/s3-client-against-disasters-hacks-fires-catastrophes-3c3b)
 - [Count Visitors With Free API](https://dev.to/sh20raj/count-visitors-with-free-api-1ccf)
 - [ScrollProgressJS- Customisable scroll progress indicator for web pages](https://dev.to/sh20raj/scrollprogressjs-customisable-scroll-progress-indicator-for-web-pages-5cfc)
-- [Day 10 of 30-Day .NET Challenge: File Paths](https://dev.to/ssukhpinder/day-10-of-30-day-net-challenge-file-paths-29kj)
-- [I made a Random Quote Generator.](https://dev.to/mince/i-made-a-random-quote-generator-3nnn)
 <!-- BLOG-POST-LIST:END -->
 
