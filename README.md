@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Checklist For Mobile App Testing](https://dev.to/abhayit2000/essential-checklist-for-mobile-app-testing-4o7k)
+- [Text translation using langchain.js and Gemini in a NestJS application](https://dev.to/railsstudent/text-translation-using-langchainjs-and-gemini-in-a-nestjs-application-1p43)
+- [Gatsby blog: Building SEO-friendly blog with BCMS code starter](https://dev.to/momciloo/gatsby-blog-building-seo-friendly-blog-with-bcms-code-starter-3fkc)
 - [Configuring Storybook in Your Nuxt Project](https://dev.to/chakas3/configuring-storybook-in-your-nuxt-project-40oo)
-- [Rename iOS project React Native](https://dev.to/raguram90/rename-ios-project-react-native-2nip)
-- [AI-assisted coding, Sleeping on a Volcano](https://dev.to/maximsaplin/ai-assisted-coding-sleeping-on-a-volcano-3mf9)
-- [A Deep Dive into Container Identification and Dependency Management](https://dev.to/kalkwst/a-deep-dive-into-container-identification-and-dependency-management-5bh9)
 <!-- BLOG-POST-LIST:END -->
 
