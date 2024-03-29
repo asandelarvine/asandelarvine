@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/ankita482/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-3438)
-- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/radhika59/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-p0)
-- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/ananya748/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-1f0m)
-- [A Guide to Building CLI Tools in JavaScript](https://dev.to/shreshthgoyal/a-guide-to-building-cli-tools-in-javascript-28nn)
+- [Cohesion and Coupling in Javascript](https://dev.to/m__mdy__m/cohesion-and-coupling-in-javascript-2efg)
+- [Merging data from multiple Excel files](https://dev.to/ryjfgjl/merging-data-from-multiple-excel-files-4g2h)
+- [Navigating Identity Authentication: From LDAP to Modern Protocols](https://dev.to/apisix/navigating-identity-authentication-from-ldap-to-modern-protocols-4dha)
+- [Charge Up JavaScript with Battery Api](https://dev.to/dshaw0004/charge-up-javascript-with-battery-api-179k)
 <!-- BLOG-POST-LIST:END -->
 
