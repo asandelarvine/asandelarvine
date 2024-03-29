@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Map Styling for Web Developers — Quick Editing](https://dev.to/c_yatteau/map-styling-for-web-developers-quick-editing-2bbh)
-- [Getting Started with Go Programming Language](https://dev.to/luqmanshaban/getting-started-with-go-programming-language-4ha)
-- [1D Polynomial Curve fitting in Numpy and Matplotlib](https://dev.to/eastrittmatter/1d-polynomial-curve-fitting-in-numpy-and-matplotlib-2560)
-- [Essential Checklist For Mobile App Testing](https://dev.to/abhayit2000/essential-checklist-for-mobile-app-testing-4o7k)
+- [Sending logs to Grafana Loki in a Rust application](https://dev.to/shuttle_dev/sending-logs-to-grafana-loki-in-a-rust-application-mh6)
+- [Day 7 of #100DaysOfCode](https://dev.to/ashcode98/day-7-of-100daysofcode-3pib)
+- [Web Share API: One Byte Explainer ✍️](https://dev.to/ra_jeeves/web-share-api-one-byte-explainer-31h9)
+- [Getting started with AI Prompts](https://dev.to/azure/getting-started-with-ai-prompts-3ne1)
 <!-- BLOG-POST-LIST:END -->
 
