@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My First Six Months as a Staff Developer Advocate at TBD](https://dev.to/blackgirlbytes/my-first-six-months-as-a-staff-developer-advocate-at-tbd-4l82)
 - [Learning Cyber Security Day 4 - Integrating Encryption in Your Code🔐](https://dev.to/pixelgig/learning-cyber-security-day-4-integrating-encryption-in-your-code-3kbb)
-- [Simple C programs with outputs to learn C](https://dev.to/justaman045/simple-c-programs-with-outputs-to-learn-c-19dg)
-- [International Women’s Day: Spotlighting Our Women in Tech](https://dev.to/getpieces/international-womens-day-spotlighting-our-women-in-tech-27dm)
-- [Ada Lovelace a 1º Programadora da história](https://dev.to/terminalcoffee/ada-lovelace-a-1o-programadora-da-historia-lo0)
+- [SORRY, RUST &amp; DEVS !](https://dev.to/bekbrace/sorry-rust-devs--hbh)
+- [Complete Guide to Build Your First CNN Machine Learning Model in Python](https://dev.to/dexterxt/complete-guide-to-build-your-first-cnn-machine-learning-model-in-python-36fa)
 <!-- BLOG-POST-LIST:END -->
 
