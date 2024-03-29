@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending logs to Grafana Loki in a Rust application](https://dev.to/shuttle_dev/sending-logs-to-grafana-loki-in-a-rust-application-mh6)
-- [Day 7 of #100DaysOfCode](https://dev.to/ashcode98/day-7-of-100daysofcode-3pib)
-- [Web Share API: One Byte Explainer ✍️](https://dev.to/ra_jeeves/web-share-api-one-byte-explainer-31h9)
-- [Getting started with AI Prompts](https://dev.to/azure/getting-started-with-ai-prompts-3ne1)
+- [Learning Cyber Security Day 4 - Integrating Encryption in Your Code🔐](https://dev.to/pixelgig/learning-cyber-security-day-4-integrating-encryption-in-your-code-3kbb)
+- [Simple C programs with outputs to learn C](https://dev.to/justaman045/simple-c-programs-with-outputs-to-learn-c-19dg)
+- [International Women’s Day: Spotlighting Our Women in Tech](https://dev.to/getpieces/international-womens-day-spotlighting-our-women-in-tech-27dm)
+- [Ada Lovelace a 1º Programadora da história](https://dev.to/terminalcoffee/ada-lovelace-a-1o-programadora-da-historia-lo0)
 <!-- BLOG-POST-LIST:END -->
 
