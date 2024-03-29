@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Vectors in Rust: A Comprehensive Guide](https://dev.to/dipankarpaul/understanding-vectors-in-rust-a-comprehensive-guide-1j7p)
-- [Understanding Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/mochafreddo/understanding-cross-site-scripting-xss-3naf)
-- [Console.WriteLine in C#: How To Use It](https://dev.to/bytehide/consolewriteline-in-c-how-to-use-it-1jca)
-- [Cohesion and Coupling in Javascript](https://dev.to/m__mdy__m/cohesion-and-coupling-in-javascript-2efg)
+- [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
+- [What Do You Remember about the Early Days of webdev and HTML?](https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0)
+- [Retrieve GitHub Project Issues to a Google Spreadsheet](https://dev.to/aleguerra05/retrieve-github-project-issues-to-a-google-spreadsheet-pn5)
+- [Prisma Part 1: Your Easy Tutorial to Set up Prisma](https://dev.to/burakboduroglu/prisma-part-1-your-easy-tutorial-to-set-up-prisma-4p1)
 <!-- BLOG-POST-LIST:END -->
 
