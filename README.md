@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Vectors in Rust: A Comprehensive Guide](https://dev.to/dipankarpaul/understanding-vectors-in-rust-a-comprehensive-guide-1j7p)
+- [Understanding Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/mochafreddo/understanding-cross-site-scripting-xss-3naf)
+- [Console.WriteLine in C#: How To Use It](https://dev.to/bytehide/consolewriteline-in-c-how-to-use-it-1jca)
 - [Cohesion and Coupling in Javascript](https://dev.to/m__mdy__m/cohesion-and-coupling-in-javascript-2efg)
-- [Merging data from multiple Excel files](https://dev.to/ryjfgjl/merging-data-from-multiple-excel-files-4g2h)
-- [Navigating Identity Authentication: From LDAP to Modern Protocols](https://dev.to/apisix/navigating-identity-authentication-from-ldap-to-modern-protocols-4dha)
-- [Charge Up JavaScript with Battery Api](https://dev.to/dshaw0004/charge-up-javascript-with-battery-api-179k)
 <!-- BLOG-POST-LIST:END -->
 
