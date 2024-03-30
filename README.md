@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🐣 Cracking the Code: Creating an Easter Egg with CSS 🥚](https://dev.to/best_codes/cracking-the-code-creating-an-easter-egg-with-css-28cg)
+- [Reactive Validation Triggers in Angular Forms](https://dev.to/mirzaleka/reactive-validation-triggers-in-angular-forms-4de0)
 - [One Minute: Compose](https://dev.to/gramian/one-minute-compose-lkj)
-- [bash: No such file or directory](https://dev.to/wajahataliabid/bash-no-such-file-or-directory-n83)
-- [Adding an inline delete action on the listing page](https://dev.to/megatux/adding-an-inline-delete-action-on-the-listing-page-1f95)
-- [GitHub Newbie - First repo roadmap &lpar;Nuxt 3&rpar;](https://dev.to/nurlan_tl/github-newbie-first-repo-roadmap-nuxt-3-31ki)
+- [Constants in C++](https://dev.to/paulike/constants-in-c-3d0b)
 <!-- BLOG-POST-LIST:END -->
 
