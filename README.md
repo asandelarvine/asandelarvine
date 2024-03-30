@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fusion of Information Technology and Weather Forecasting](https://dev.to/eyssant/the-fusion-of-information-technology-and-weather-forecasting-36eb)
+- [Git Reflog: Rescuing Lost Work in Git&#39;s Timeline](https://dev.to/pragativerma18/git-reflog-rescuing-lost-work-in-gits-timeline-108c)
+- [Ultimate guide to Secrets in Lambda](https://dev.to/aws-heroes/ultimate-guide-to-secrets-in-lambda-2db7)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1lf3)
-- [A Summary of the Battery Status API](https://dev.to/desoga/a-summary-of-the-battery-status-api-1hke)
-- [10 Tips for Mastering TypeScript Generics](https://dev.to/mr_mornin_star/10-tips-for-mastering-typescript-generics-1aph)
-- [Dockerizing a Flask application](https://dev.to/felipearcaro/dockerizing-a-flask-application-2e5e)
 <!-- BLOG-POST-LIST:END -->
 
