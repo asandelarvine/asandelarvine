@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Material Update Guide](https://dev.to/ngmaterialdev/angular-material-update-guide-1cb)
 - [Day 5— Azure Open AI Challenge: Document Intelligence](https://dev.to/ssukhpinder/day-5-azure-open-ai-challenge-document-intelligence-30d5)
 - [Automate Your Workflow With AI](https://dev.to/stan8086/automate-your-workflow-with-ai-5hh6)
 - [THE HISTORY OF AI 2022-24](https://dev.to/mince/the-history-of-ai-2022-24-19d2)
-- [How to use Kubectl Exec Command?](https://dev.to/cicube/how-to-use-kubectl-exec-command-3e4n)
 <!-- BLOG-POST-LIST:END -->
 
