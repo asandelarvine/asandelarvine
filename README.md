@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the biggest problem you are facing in your career right now?](https://dev.to/nandinishinduja/whats-the-biggest-problem-you-are-facing-in-your-career-right-now-38ph)
-- [Stop using swagger-ui only, go with TypeScript SDK](https://dev.to/samchon/stop-using-swagger-ui-only-go-with-typescript-sdk-5fl1)
-- [Resize Observer API](https://dev.to/anedomansky/resize-observer-api-36a3)
-- [Why I Love Programming](https://dev.to/deathblade287/why-i-love-programming-ecc)
+- [One Minute: Compose](https://dev.to/gramian/one-minute-compose-lkj)
+- [bash: No such file or directory](https://dev.to/wajahataliabid/bash-no-such-file-or-directory-n83)
+- [Adding an inline delete action on the listing page](https://dev.to/megatux/adding-an-inline-delete-action-on-the-listing-page-1f95)
+- [GitHub Newbie - First repo roadmap &lpar;Nuxt 3&rpar;](https://dev.to/nurlan_tl/github-newbie-first-repo-roadmap-nuxt-3-31ki)
 <!-- BLOG-POST-LIST:END -->
 
