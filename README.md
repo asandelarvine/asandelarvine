@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐣 Cracking the Code: Creating an Easter Egg with CSS 🥚](https://dev.to/best_codes/cracking-the-code-creating-an-easter-egg-with-css-28cg)
-- [Reactive Validation Triggers in Angular Forms](https://dev.to/mirzaleka/reactive-validation-triggers-in-angular-forms-4de0)
-- [One Minute: Compose](https://dev.to/gramian/one-minute-compose-lkj)
-- [Constants in C++](https://dev.to/paulike/constants-in-c-3d0b)
+- [The 9 types of Programmers in 2024](https://dev.to/andreyscott/the-9-types-of-programmers-in-2024-294l)
+- [The Crucial Role of Software Quality Assurance Engineering in Ensuring Product Reliability](https://dev.to/talenttinaapi/the-crucial-role-of-software-quality-assurance-engineering-in-ensuring-product-reliability-31h4)
+- [Web Vibration API ⚡ | Explained in One Byte](https://dev.to/best_codes/web-vibration-api-explained-in-one-byte-jb2)
+- [Restrictive Abstractions](https://dev.to/alexandreaquiles/restrictive-abstractions-5hk0)
 <!-- BLOG-POST-LIST:END -->
 
