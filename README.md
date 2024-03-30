@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [One Byte Explainer: IndexedDB](https://dev.to/gambhirsharma/one-byte-explainer-indexeddb-40h3)
+- [Dev Coffee](https://dev.to/gambhirsharma/dev-coffee-2c8o)
 - [The Pros and Cons of Routine for Developers](https://dev.to/jahid2121/the-pros-and-cons-of-routine-for-developers-35ck)
-- [The DevRel Digest March 2024: Must Be the Season of the Queen](https://dev.to/lizzzzz/the-devrel-digest-march-2024-must-be-the-season-of-the-queen-3do0)
-- [Gradient Descent: Optimizer Behind Machine Learning](https://dev.to/harsimranjit_singh_0133dc/gradient-descent-optimizer-behind-machine-learning-1jo)
-- [Sending e-mails with Sendgrid](https://dev.to/zsevic/sending-e-mails-with-sendgrid-4f4j)
+- [Leitura obrigatória para novos desenvolvedores: Rejeições da PlayStore em 5 minutos](https://dev.to/zmsoft/leitura-obrigatoria-para-novos-desenvolvedores-rejeicoes-da-playstore-em-5-minutos-50gb)
 <!-- BLOG-POST-LIST:END -->
 
