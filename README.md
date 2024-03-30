@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Learn New Things When You&#39;re So Busy?](https://dev.to/devteam/how-do-you-learn-new-things-when-youre-so-busy-5efo)
-- [MindMap for revision of DSA in 30 days !! 🎯](https://dev.to/khushindpatel/mindmap-for-revision-of-dsa-in-30-days--16jm)
-- [One Byte Explainer: IndexedDB](https://dev.to/gambhirsharma/one-byte-explainer-indexeddb-40h3)
-- [Dev Coffee](https://dev.to/gambhirsharma/dev-coffee-2c8o)
+- [CORS Error Explained and How to Fix It?](https://dev.to/mvaja13/cors-error-explained-and-how-to-fix-it-12bh)
+- [Latest Newsletter: Eating Glass &lpar;Issue #157&rpar;](https://dev.to/mjgs/latest-newsletter-eating-glass-issue-157-2cb0)
+- [Docker](https://dev.to/gavindang2911/docker-32bk)
+- [What is Project Lombok? Is it still relevant in 2023?](https://dev.to/nilan/what-is-project-lombok-is-it-still-relevant-in-2023-477h)
 <!-- BLOG-POST-LIST:END -->
 
