@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC API](https://dev.to/albujuk/webrtc-api-5gl7)
-- [Bridging Code and Security: Unveiling the Power of DevSecOps](https://dev.to/devopsadventurer/bridging-code-and-security-unveiling-the-power-of-devsecops-35kb)
-- [Cloud Tools You Probably Haven&#39;t Heard Of](https://dev.to/jolodev/cloud-tools-you-probably-havent-heard-of-3hc4)
-- [History API - Frontend Challenge](https://dev.to/ssukhpinder/history-api-frontend-challenge-4bl8)
+- [Why I Care Deeply About Web Accessibility And You Should Too](https://dev.to/schalkneethling/why-i-care-deeply-about-web-accessibility-and-you-should-too-274a)
+- [Understanding and Utilizing WordPress Drop-in Plugins](https://dev.to/mikevarenek/understanding-and-utilizing-wordpress-drop-in-plugins-3k2k)
+- [Enhancing Gameplay Integrity with Client-Side Actions and Hashsum Verification in Game Development](https://dev.to/ivan-klimenkov/enhancing-gameplay-integrity-with-client-side-actions-and-hashsum-verification-in-game-development-3hf5)
+- [Las 15 Consultas SQL Desde Lo Más Básico Hasta Lo No Tan Básico](https://dev.to/pamesorioz/las-15-consultas-sql-desde-lo-mas-basico-hasta-lo-no-tan-basico-4kp2)
 <!-- BLOG-POST-LIST:END -->
 
