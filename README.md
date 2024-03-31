@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating Diversity in Tech: Reflections on we_coded 2024](https://dev.to/devteam/celebrating-diversity-in-tech-reflections-on-wecoded-2024-4bb4)
 - [The Importance of Choosing the Right Framework for Your React Project 🚀](https://dev.to/marmariadev/the-importance-of-choosing-the-right-framework-for-your-react-project-5ebh)
 - [Creating an empty commit in Git](https://dev.to/this-is-learning/creating-an-empty-commit-in-git-2iec)
 - [Glam Up My Markup: Camp Activities](https://dev.to/developersai0021/glam-up-my-markup-camp-activities-1lfc)
-- [What Are AWS Lambda Function URLs And Why You Don’t Need API Gateway](https://dev.to/urielbitton/what-are-aws-lambda-function-urls-and-why-you-dont-need-api-gateway-cmp)
 <!-- BLOG-POST-LIST:END -->
 
