@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [WHAT IS GAS IN BLOCKCHAIN?](https://dev.to/csituma/gas-25p9)
+- [10 Common SEO Mistakes to Avoid in Your Digital Strategy](https://dev.to/rogeliohowell/10-common-seo-mistakes-to-avoid-in-your-digital-strategy-2af1)
+- [Full Tutorial : How to Clone a Smaller Boot Disk onto a Larger Disk for Free with Clonezilla &amp; Delete Disk Partition](https://dev.to/furkangozukara/full-tutorial-how-to-clone-a-smaller-boot-disk-onto-a-larger-disk-for-free-with-clonezilla-delete-disk-partition-3d5i)
 - [Arc Browser Review: Navigating Innovation and Efficiency](https://dev.to/stan8086/arc-browser-review-navigating-innovation-and-efficiency-4hlj)
-- [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-d7)
-- [Creating GitBadges](https://dev.to/sh20raj/creating-gitbadges-30lg)
-- [Mastering .NET 8 Web API: From Setup to Security - 50 Tips Guide for Developers](https://dev.to/ssukhpinder/mastering-net-8-web-api-from-setup-to-security-50-tips-guide-for-developers-n40)
 <!-- BLOG-POST-LIST:END -->
 
