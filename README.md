@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [gliJS - Tiny jQuery Alternatives](https://dev.to/sh20raj/glijs-tiny-jquery-alternatives-280e)
+- [MASTER WEB DEV](https://dev.to/mince/master-web-dev-1pj7)
 - [Create React components using CSS Only!! 🚀](https://dev.to/sajidrsk/create-react-components-using-css-only-40m9)
 - [10 Сustom Utility Types for TypeScript Projects](https://dev.to/antonzo/10-sustom-utility-types-for-typescript-projects-48pe)
-- [Beginners guide to AWS EC2](https://dev.to/vivekalhat/beginners-guide-to-aws-ec2-2adk)
-- [WHAT IS GAS IN BLOCKCHAIN?](https://dev.to/csituma/gas-25p9)
 <!-- BLOG-POST-LIST:END -->
 
