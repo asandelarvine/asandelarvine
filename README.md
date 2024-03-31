@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create React components using CSS Only!! 🚀](https://dev.to/sajidrsk/create-react-components-using-css-only-40m9)
+- [10 Сustom Utility Types for TypeScript Projects](https://dev.to/antonzo/10-sustom-utility-types-for-typescript-projects-48pe)
+- [Beginners guide to AWS EC2](https://dev.to/vivekalhat/beginners-guide-to-aws-ec2-2adk)
 - [WHAT IS GAS IN BLOCKCHAIN?](https://dev.to/csituma/gas-25p9)
-- [10 Common SEO Mistakes to Avoid in Your Digital Strategy](https://dev.to/rogeliohowell/10-common-seo-mistakes-to-avoid-in-your-digital-strategy-2af1)
-- [Full Tutorial : How to Clone a Smaller Boot Disk onto a Larger Disk for Free with Clonezilla &amp; Delete Disk Partition](https://dev.to/furkangozukara/full-tutorial-how-to-clone-a-smaller-boot-disk-onto-a-larger-disk-for-free-with-clonezilla-delete-disk-partition-3d5i)
-- [Arc Browser Review: Navigating Innovation and Efficiency](https://dev.to/stan8086/arc-browser-review-navigating-innovation-and-efficiency-4hlj)
 <!-- BLOG-POST-LIST:END -->
 
