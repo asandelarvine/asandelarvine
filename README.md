@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Arc Browser Review: Navigating Innovation and Efficiency](https://dev.to/stan8086/arc-browser-review-navigating-innovation-and-efficiency-4hlj)
+- [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-d7)
 - [Creating GitBadges](https://dev.to/sh20raj/creating-gitbadges-30lg)
 - [Mastering .NET 8 Web API: From Setup to Security - 50 Tips Guide for Developers](https://dev.to/ssukhpinder/mastering-net-8-web-api-from-setup-to-security-50-tips-guide-for-developers-n40)
-- [The DevOps Basics 🚀](https://dev.to/tungbq/the-devops-basics-3ecm)
-- [Creating CLI Commands using Argparse in Python](https://dev.to/sachingeek/creating-cli-commands-using-argparse-in-python-1o24)
 <!-- BLOG-POST-LIST:END -->
 
