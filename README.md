@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Must-Know Software Architectures?](https://dev.to/devteam/what-are-the-must-know-software-architectures-5aai)
 - [Provisioning AWS CloudTrail using Terraform &lpar;Step-by-Step&rpar;](https://dev.to/aws-builders/provisioning-aws-cloudtrail-using-terraform-step-by-step-hn4)
 - [Git: Pull and Fetch, When and Why?](https://dev.to/ajkerrigan/git-pull-and-fetch-when-and-why-1bh1)
 - [Quick tip: Using SingleStore Spark Connector&#39;s Query Pushdown with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-singlestore-spark-connectors-query-pushdown-with-singlestore-notebooks-25e6)
-- [[Sparta Coding Club] Backend Week 3 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-backend-week-3-today-i-learned-2gd6)
 <!-- BLOG-POST-LIST:END -->
 
