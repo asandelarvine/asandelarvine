@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Elegant and Brown Camp Inquiry Form](https://dev.to/jaloplo/elegant-and-brown-camp-inquiry-form-47no)
 - [How do I fix that?](https://dev.to/noriller/how-do-i-fix-that-23fd)
 - [Strategies for Cost Optimization in Container Deployment in AWS](https://dev.to/aws-builders/strategies-for-cost-optimization-in-container-deployment-in-aws-gc8)
-- [React Custom Hook: useDidMountEffect](https://dev.to/seeratawan01/react-custom-hook-usedidmounteffect-86c)
-- [Keep it Silly, Stupid](https://dev.to/moruno21/keep-it-silly-stupid-4hg2)
+- [Certification is not enough](https://dev.to/aws-heroes/certification-is-not-enough-98j)
 <!-- BLOG-POST-LIST:END -->
 
