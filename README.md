@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [gliJS - Tiny jQuery Alternatives](https://dev.to/sh20raj/glijs-tiny-jquery-alternatives-280e)
-- [MASTER WEB DEV](https://dev.to/mince/master-web-dev-1pj7)
-- [Create React components using CSS Only!! 🚀](https://dev.to/sajidrsk/create-react-components-using-css-only-40m9)
-- [10 Сustom Utility Types for TypeScript Projects](https://dev.to/antonzo/10-sustom-utility-types-for-typescript-projects-48pe)
+- [The Importance of Choosing the Right Framework for Your React Project 🚀](https://dev.to/marmariadev/the-importance-of-choosing-the-right-framework-for-your-react-project-5ebh)
+- [Creating an empty commit in Git](https://dev.to/this-is-learning/creating-an-empty-commit-in-git-2iec)
+- [Glam Up My Markup: Camp Activities](https://dev.to/developersai0021/glam-up-my-markup-camp-activities-1lfc)
+- [What Are AWS Lambda Function URLs And Why You Don’t Need API Gateway](https://dev.to/urielbitton/what-are-aws-lambda-function-urls-and-why-you-dont-need-api-gateway-cmp)
 <!-- BLOG-POST-LIST:END -->
 
