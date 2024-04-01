@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HackerRank SQL Preparation: Revising the Select Query I&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-revising-the-select-query-imysql-55b9)
-- [Exploring Why IntelliJ IDEA Reigns Supreme as the Ultimate Java IDE](https://dev.to/regoanac/exploring-why-intellij-idea-reigns-supreme-as-the-ultimate-java-ide-89k)
-- [Autopreenchimento de campos no FilamentPHP usando API](https://dev.to/adryannekelly/autopreenchimento-de-campos-no-filamentphp-usando-api-3i2)
-- [Completed 10 Days of Getting an High Paying Job](https://dev.to/jay818/completed-10-days-of-getting-an-high-paying-job-2na7)
+- [Programming vs Web Development](https://dev.to/emmanuelbinen/programming-vs-web-development-3c17)
+- [Virtual Threads em Java - O Java que voa!](https://dev.to/kauegatto/virtual-threads-em-java-o-java-que-voa-1j0k)
+- [Dynamic breadcrumbs in Next.js using the app router](https://dev.to/gcascio/dynamic-breadcrumbs-in-nextjs-using-the-app-router-13i4)
+- [Play with time on Vlang](https://dev.to/medlabs/play-with-time-on-vlang-1ami)
 <!-- BLOG-POST-LIST:END -->
 
