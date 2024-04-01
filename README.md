@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TweetX: HTML5 Twitter like Video Player for Your Website ✨](https://dev.to/sh20raj/tweetx-html5-twitter-like-video-player-for-your-website-31kh)
-- [🚀 Roadmap: From Junior Software Engineer to CTO in 1 Year](https://dev.to/alexr/roadmap-from-junior-software-engineer-to-cto-in-1-year-1ked)
-- [JavaScript Primitive Data Types](https://dev.to/imashwani/javascript-primitive-data-types-1l5)
-- [Gatsby vs Next.js vs Remix: Which to Choose?](https://dev.to/marmariadev/gatsby-vs-nextjs-vs-remix-which-to-choose-3fdn)
+- [My Free Resources for Learning CSS](https://dev.to/melnik909/my-free-resources-for-learning-css-56pc)
+- [Building a Game Engine Using Java with LWJGL](https://dev.to/dexterxt/building-a-game-engine-using-java-with-lwjgl-4c6o)
+- [3 AI Tools to Finish Hours of Work in Minutes! ⚡🤖](https://dev.to/arjuncodess/3-ai-tools-to-finish-hours-of-work-in-minutes-2fg)
+- [The Many Ways Not to Build an API](https://dev.to/zenstack/the-many-ways-not-to-build-an-api-41o6)
 <!-- BLOG-POST-LIST:END -->
 
