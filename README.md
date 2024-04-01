@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your Favorite Productivity Tool?](https://dev.to/devteam/whats-your-favorite-productivity-tool-1d9)
+- [Power Platform - DLP Policies](https://dev.to/wyattdave/power-platform-dlp-policies-5go2)
+- [LUX: Toolkit for Smart Data Exploration](https://dev.to/balagmadhu/lux-toolkit-for-smart-data-exploration-1k03)
 - [Boost Your Medium Visibility: 12 Essential Tips for Writers](https://dev.to/ssukhpinder/boost-your-medium-visibility-12-essential-tips-for-writers-2883)
-- [Liman MYS Cihaz Yönetimi Eklentisi ile Kurulu Paketlerin Versiyonunu Öğrenme](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-eklentisi-ile-kurulu-paketlerin-versiyonunu-ogrenme-59c9)
-- [SQL Querying Made Simple with GraphQL and Prisma !](https://dev.to/delisrey/sql-querying-made-simple-with-graphql-and-prisma--163i)
-- [Git Conflict Guide 🚀](https://dev.to/sh20raj/git-conflict-guide-4jad)
 <!-- BLOG-POST-LIST:END -->
 
