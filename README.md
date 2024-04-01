@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to restrict default access to KMS via key policy with Terraform](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-with-terraform-3lc1)
 - [A Junior DevOps Engr should be an ex-IT Operations Engineer or SysAdmin](https://dev.to/stanleyogada/a-junior-devops-engr-should-be-an-ex-it-operations-engineer-or-sysadmin-324g)
 - [Implementing SSO in React with GitHub OAuth2](https://dev.to/srssh/implementing-sso-in-react-with-github-oauth2-35c1)
-- [Getting the Outreachy Internship](https://dev.to/idadelveloper/getting-the-outreachy-internship-2mda)
-- [How To Use Versioning On AWS S3 Buckets To Enable Overwrite Protection Of Your Data](https://dev.to/ubitton/how-to-use-versioning-on-aws-s3-buckets-to-enable-overwrite-protection-of-your-data-200)
+- [The Frontend Challenge: Glammed Up Camp Activities](https://dev.to/rafajrg21/the-frontend-challenge-glammed-up-camp-activities-3j6j)
 <!-- BLOG-POST-LIST:END -->
 
