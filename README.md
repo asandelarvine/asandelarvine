@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing BlurryImageLoader: A JavaScript Library for Beautiful Image Loading Effects ✨](https://dev.to/sh20raj/introducing-blurryimageloader-a-javascript-library-for-beautiful-image-loading-effects-391c)
+- [Deploying a Django site on AWS Elastic Beanstalk](https://dev.to/aws-builders/deploying-a-django-site-on-aws-elastic-beanstalk-225b)
+- [AWS EC2 Instances Types &lpar;all you need to know&rpar;](https://dev.to/aws-builders/aws-ec2-instances-types-all-you-need-to-know-3ndn)
+- [BlurryImageLoader: A JavaScript Library for Beautiful Image Loading Effects ✨](https://dev.to/sh20raj/introducing-blurryimageloader-a-javascript-library-for-beautiful-image-loading-effects-391c)
 - [Exploring API Governance Strategies with Apache APISIX](https://dev.to/apisix/exploring-api-governance-strategies-with-apache-apisix-2nf4)
-- [How to restrict default access to KMS via key policy with Terraform](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-with-terraform-3lc1)
-- [How to restrict default access to KMS via key policy](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-28gc)
 <!-- BLOG-POST-LIST:END -->
 
