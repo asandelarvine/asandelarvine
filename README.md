@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices of API Degradation in API Gateway](https://dev.to/apisix/best-practices-of-api-degradation-in-api-gateway-4iab)
-- [Weekly Roundup 046 &lpar;Mar 25&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-046-mar-25-hot-topics-in-workplace-sharepoint-and-powerplatform-57ha)
-- [Hong Kong Web3 Festival - Before start](https://dev.to/danc/hong-kong-web3-festival-before-start-4nid)
-- [Managing JDKs on native Windows &lpar;not WSL&rpar;](https://dev.to/aooohan/managing-jdks-on-native-windows-not-wsl-eb4)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5g8l)
+- [Cihaz Yönetimi Eklentisi ile Debian ve RPM Sistemlerde xz versiyonu Öğrenme ve Raporlama](https://dev.to/aciklab/cihaz-yonetimi-eklentisi-ile-debian-ve-rpm-sistemlerde-xz-versiyonu-ogrenme-ve-raporlama-20e4)
+- [Worker Threads in JavaScript for Parallel Processing](https://dev.to/sh20raj/worker-threads-in-javascript-for-parallel-processing-2hl7)
+- [Iterate over an array in JavaScript](https://dev.to/sh20raj/iterate-over-an-array-in-javascript-35mg)
 <!-- BLOG-POST-LIST:END -->
 
