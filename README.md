@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5g8l)
-- [Cihaz Yönetimi Eklentisi ile Debian ve RPM Sistemlerde xz versiyonu Öğrenme ve Raporlama](https://dev.to/aciklab/cihaz-yonetimi-eklentisi-ile-debian-ve-rpm-sistemlerde-xz-versiyonu-ogrenme-ve-raporlama-20e4)
-- [Worker Threads in JavaScript for Parallel Processing](https://dev.to/sh20raj/worker-threads-in-javascript-for-parallel-processing-2hl7)
-- [Iterate over an array in JavaScript](https://dev.to/sh20raj/iterate-over-an-array-in-javascript-35mg)
+- [🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
+- [Understanding Agile Methodologies for Effective Development](https://dev.to/surajondev/understanding-agile-methodologies-for-effective-development-339g)
+- [Collaborative Note-Taking with AI: Tools that Facilitate Teamwork and Knowledge Sharing](https://dev.to/charudatta10/collaborative-note-taking-with-ai-tools-that-facilitate-teamwork-and-knowledge-sharing-2i3p)
+- [The Ultimate Guide To Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/novu/the-ultimate-guide-to-firebase-cloud-messaging-fcm-4e8)
 <!-- BLOG-POST-LIST:END -->
 
