@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Django site on AWS Elastic Beanstalk](https://dev.to/aws-builders/deploying-a-django-site-on-aws-elastic-beanstalk-225b)
-- [AWS EC2 Instances Types &lpar;all you need to know&rpar;](https://dev.to/aws-builders/aws-ec2-instances-types-all-you-need-to-know-3ndn)
-- [BlurryImageLoader: A JavaScript Library for Beautiful Image Loading Effects ✨](https://dev.to/sh20raj/introducing-blurryimageloader-a-javascript-library-for-beautiful-image-loading-effects-391c)
-- [Exploring API Governance Strategies with Apache APISIX](https://dev.to/apisix/exploring-api-governance-strategies-with-apache-apisix-2nf4)
+- [Boost Your Medium Visibility: 12 Essential Tips for Writers](https://dev.to/ssukhpinder/boost-your-medium-visibility-12-essential-tips-for-writers-2883)
+- [Liman MYS Cihaz Yönetimi Eklentisi ile Kurulu Paketlerin Versiyonunu Öğrenme](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-eklentisi-ile-kurulu-paketlerin-versiyonunu-ogrenme-59c9)
+- [SQL Querying Made Simple with GraphQL and Prisma !](https://dev.to/delisrey/sql-querying-made-simple-with-graphql-and-prisma--163i)
+- [Git Conflict Guide 🚀](https://dev.to/sh20raj/git-conflict-guide-4jad)
 <!-- BLOG-POST-LIST:END -->
 
