@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving 1% everyday &lpar;#1PercentPlusPlus&rpar;](https://dev.to/vishalmx3/improving-1-everyday-1percentplusplus-2dp)
 - [Meme Monday](https://dev.to/ben/meme-monday-1oij)
 - [Do a barrel roll](https://dev.to/youngfra/do-a-barrel-roll-3n2p)
 - [Introducing some awful new DEV tags](https://dev.to/ben/introducing-some-awful-new-dev-tags-ne1)
-- [Step Into the Spotlight: Join Our Public Speaking Monthly Challenge!](https://dev.to/virtualcoffee/step-into-the-spotlight-join-our-public-speaking-monthly-challenge-52kl)
 <!-- BLOG-POST-LIST:END -->
 
