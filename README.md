@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
-- [Understanding Agile Methodologies for Effective Development](https://dev.to/surajondev/understanding-agile-methodologies-for-effective-development-339g)
-- [Collaborative Note-Taking with AI: Tools that Facilitate Teamwork and Knowledge Sharing](https://dev.to/charudatta10/collaborative-note-taking-with-ai-tools-that-facilitate-teamwork-and-knowledge-sharing-2i3p)
-- [The Ultimate Guide To Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/novu/the-ultimate-guide-to-firebase-cloud-messaging-fcm-4e8)
+- [Meme Monday](https://dev.to/ben/meme-monday-1oij)
+- [Do a barrel roll](https://dev.to/youngfra/do-a-barrel-roll-3n2p)
+- [Introducing some awful new DEV tags](https://dev.to/ben/introducing-some-awful-new-dev-tags-ne1)
+- [Step Into the Spotlight: Join Our Public Speaking Monthly Challenge!](https://dev.to/virtualcoffee/step-into-the-spotlight-join-our-public-speaking-monthly-challenge-52kl)
 <!-- BLOG-POST-LIST:END -->
 
