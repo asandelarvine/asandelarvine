@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC in Just One Byte](https://dev.to/codewithtee/webrtc-in-just-one-byte-25l6)
-- [Must know blockchain Terminologies.](https://dev.to/csituma/must-know-blockchain-terminologies-5295)
-- [FLaNK AI - 01 April 2024](https://dev.to/tspannhw/flank-ai-01-april-2024-17o0)
-- [Execute .dmg &lpar;Mac&rpar; and .exe &lpar;Windows&rpar; Files Using Terminal](https://dev.to/sh20raj/execute-dmg-mac-and-exe-windows-files-using-terminal-4np9)
+- [HackerRank SQL Preparation: Revising the Select Query I&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-revising-the-select-query-imysql-55b9)
+- [Exploring Why IntelliJ IDEA Reigns Supreme as the Ultimate Java IDE](https://dev.to/regoanac/exploring-why-intellij-idea-reigns-supreme-as-the-ultimate-java-ide-89k)
+- [Autopreenchimento de campos no FilamentPHP usando API](https://dev.to/adryannekelly/autopreenchimento-de-campos-no-filamentphp-usando-api-3i2)
+- [Completed 10 Days of Getting an High Paying Job](https://dev.to/jay818/completed-10-days-of-getting-an-high-paying-job-2na7)
 <!-- BLOG-POST-LIST:END -->
 
