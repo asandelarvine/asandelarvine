@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Free Resources for Learning CSS](https://dev.to/melnik909/my-free-resources-for-learning-css-56pc)
-- [Building a Game Engine Using Java with LWJGL](https://dev.to/dexterxt/building-a-game-engine-using-java-with-lwjgl-4c6o)
-- [3 AI Tools to Finish Hours of Work in Minutes! ⚡🤖](https://dev.to/arjuncodess/3-ai-tools-to-finish-hours-of-work-in-minutes-2fg)
-- [The Many Ways Not to Build an API](https://dev.to/zenstack/the-many-ways-not-to-build-an-api-41o6)
+- [Execute .dmg &lpar;Mac&rpar; and .exe &lpar;Windows&rpar; Files Using Terminal](https://dev.to/sh20raj/execute-dmg-mac-and-exe-windows-files-using-terminal-4np9)
+- [📎 Extending #SemanticKernel using OllamaSharp for chat and text completion](https://dev.to/azure/extending-semantickernel-using-ollamasharp-for-chat-and-text-completion-4m10)
+- [Winning Strategies for Gaining Instagram Followers](https://dev.to/socialbuddies/winning-strategies-for-gaining-instagram-followers-e5k)
+- [Tabs Component with RiotJS &lpar;Material Design&rpar;](https://dev.to/steeve/tabs-component-with-riotjs-material-design-352f)
 <!-- BLOG-POST-LIST:END -->
 
