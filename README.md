@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Introducing BlurryImageLoader: A JavaScript Library for Beautiful Image Loading Effects ✨](https://dev.to/sh20raj/introducing-blurryimageloader-a-javascript-library-for-beautiful-image-loading-effects-391c)
 - [Exploring API Governance Strategies with Apache APISIX](https://dev.to/apisix/exploring-api-governance-strategies-with-apache-apisix-2nf4)
 - [How to restrict default access to KMS via key policy with Terraform](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-with-terraform-3lc1)
-- [A Junior DevOps Engr should be an ex-IT Operations Engineer or SysAdmin](https://dev.to/stanleyogada/a-junior-devops-engr-should-be-an-ex-it-operations-engineer-or-sysadmin-324g)
+- [How to restrict default access to KMS via key policy](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-28gc)
 <!-- BLOG-POST-LIST:END -->
 
