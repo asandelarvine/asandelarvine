@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving 1% everyday &lpar;#1PercentPlusPlus&rpar;](https://dev.to/vishalmx3/improving-1-everyday-1percentplusplus-2dp)
-- [Meme Monday](https://dev.to/ben/meme-monday-1oij)
-- [Do a barrel roll](https://dev.to/youngfra/do-a-barrel-roll-3n2p)
-- [Introducing some awful new DEV tags](https://dev.to/ben/introducing-some-awful-new-dev-tags-ne1)
+- [JavaScript Primitive Data Types](https://dev.to/imashwani/javascript-primitive-data-types-1l5)
+- [Gatsby vs Next.js vs Remix: Which to Choose?](https://dev.to/marmariadev/gatsby-vs-nextjs-vs-remix-which-to-choose-3fdn)
+- [Embracing the Fun: Share Your Favorite Tech April Fools&#39;!](https://dev.to/link2twenty/embracing-the-fun-share-your-favorite-tech-april-fools-3nnm)
+- [How to Handle N+1 Queries for Optimal Database Performance in Django?](https://dev.to/pragativerma18/how-to-handle-n1-queries-for-optimal-database-performance-in-django-37ko)
 <!-- BLOG-POST-LIST:END -->
 
