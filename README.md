@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Space, life, and feelings I cannot explain](https://dev.to/lnahrf/space-life-and-feelings-i-cannot-explain-eg1)
 - [How to set up a server with Vultr](https://dev.to/serverauth/how-to-set-up-a-server-with-vultr-2m74)
 - [Is creativity inversely proportional to discipline?](https://dev.to/shreyvijayvargiya/is-creativity-inversely-proportional-to-discipline-36mj)
 - [Understanding Angular&#39;s Dependency Injection](https://dev.to/sanjayms/understanding-angulars-dependency-injection-433e)
-- [CS50 - Week 0](https://dev.to/udilbar/cs50-week-0-4eo0)
 <!-- BLOG-POST-LIST:END -->
 
