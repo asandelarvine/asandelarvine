@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Box Model Breakdown](https://dev.to/devcanvas_/css-box-model-breakdown-hfj)
-- [Simplifying Imports with TypeScript Path Aliases in Umbraco v14](https://dev.to/mattbrailsford/simplifying-imports-with-typescript-path-aliases-in-umbraco-v14-301g)
-- [Creating your own UI extension points in Umbraco v14 - Part 1: The Basics](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-1-the-basics-568h)
-- [9 Top AI Search Engines for Developers in 2024:](https://dev.to/jahan/9-top-ai-search-engines-for-developers-in-2024-4fdi)
+- [learn redux with react | Complete Tutorial for Beginners](https://dev.to/imrankh13332994/learn-redux-with-react-complete-tutorial-for-beginners-203i)
+- [Optimizing React Apps for Performance: A Comprehensive Guide](https://dev.to/humjerry/optimizing-react-apps-for-performance-a-comprehensive-guide-2jff)
+- [Trigger a site update from anything that speaks HTTP with build hooks](https://dev.to/netlify/trigger-a-site-update-from-anything-that-speaks-http-with-build-hooks-5h5n)
+- [JavaScript News, Updates, and Tutorials: March 2024 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-march-2024-edition-431g)
 <!-- BLOG-POST-LIST:END -->
 
