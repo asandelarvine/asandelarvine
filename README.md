@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Deep Face Detection Model with Python and TensorFlow &lpar;Part 3&rpar;](https://dev.to/dexterxt/building-a-deep-face-detection-model-with-python-and-tensorflow-part-3-515n)
-- [Congrats to our Frontend Challenge Winners!](https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f)
-- [Do you read books? Have a train in 3h. Recommend one! 📚](https://dev.to/devonremote/do-you-read-books-1no5)
-- [What Does Tech Mean?](https://dev.to/scofieldidehen/what-does-tech-mean-1kbh)
+- [How to set up a server with Vultr](https://dev.to/serverauth/how-to-set-up-a-server-with-vultr-2m74)
+- [Is creativity inversely proportional to discipline?](https://dev.to/shreyvijayvargiya/is-creativity-inversely-proportional-to-discipline-36mj)
+- [Understanding Angular&#39;s Dependency Injection](https://dev.to/sanjayms/understanding-angulars-dependency-injection-433e)
+- [CS50 - Week 0](https://dev.to/udilbar/cs50-week-0-4eo0)
 <!-- BLOG-POST-LIST:END -->
 
