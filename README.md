@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Guide to Terraform Cloud Pricing](https://dev.to/env0/a-complete-guide-to-terraform-cloud-pricing-mn7)
+- [&quot;I Forgot my Linux root Password!!😥&quot; DO THIS!! Resetting the Root Password](https://dev.to/whoame3f/i-forgot-my-linux-root-password-do-this-resetting-the-root-password-1i22)
+- [The HTTP Status Codes CheatSheet [SAVE IT!] 📜✨](https://dev.to/arjuncodess/the-http-status-codes-cheatsheet-save-it-1am5)
 - [Introducing Mantelo - The Best Keycloak Admin Client for Python](https://dev.to/derlin/introducing-mantelo-the-best-keycloak-admin-client-for-python-347m)
-- [Git Vs GitHub: What&#39;s the Difference?](https://dev.to/annoh_karlgusta/git-vs-github-whats-the-difference-4cj)
-- [What Junior Devs Get Wrong](https://dev.to/wasp/what-junior-devs-get-wrong-an8)
-- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://dev.to/opensauced/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91)
 <!-- BLOG-POST-LIST:END -->
 
