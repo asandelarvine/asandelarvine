@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini Free API](https://dev.to/sh20raj/google-gemini-free-api-269o)
-- [Svelte for Beginners: Easy Guide](https://dev.to/codeparrot/svelte-for-beginners-easy-guide-3fam)
-- [What I have in my portfolio 😎](https://dev.to/locnguyenpv/what-i-have-in-my-portfolio-44bd)
-- [10 Tips to Maximize Productivity in Tailwind CSS](https://dev.to/mario130/10-tips-to-maximize-productivity-in-tailwind-css-1eep)
+- [Building a Deep Face Detection Model with Python and TensorFlow &lpar;Part 3&rpar;](https://dev.to/dexterxt/building-a-deep-face-detection-model-with-python-and-tensorflow-part-3-515n)
+- [Congrats to our Frontend Challenge Winners!](https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f)
+- [Do you read books? Have a train in 3h. Recommend one! 📚](https://dev.to/devonremote/do-you-read-books-1no5)
+- [What Does Tech Mean?](https://dev.to/scofieldidehen/what-does-tech-mean-1kbh)
 <!-- BLOG-POST-LIST:END -->
 
