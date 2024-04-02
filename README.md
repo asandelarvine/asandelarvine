@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Penggunaan OpenSSH](https://dev.to/reizzo/penggunaan-openssh-5e1m)
 - [Finding Best Training Hyper Parameters / Configuration Is Neither Cheap Nor Easy](https://dev.to/furkangozukara/finding-best-training-hyper-parameters-configuration-is-neither-cheap-nor-easy-37n4)
 - [Modelling be like...](https://dev.to/theprogrammingpod/modelling-be-like-4d6k)
 - [The Dark Side of AI/AGI](https://dev.to/scofieldidehen/the-dark-side-of-aiagi-2914)
-- [data mining vs. machine learning](https://dev.to/askyt/data-mining-vs-machine-learning-1hjc)
 <!-- BLOG-POST-LIST:END -->
 
