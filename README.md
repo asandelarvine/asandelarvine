@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Node js and Express in 30 days &lpar;Day 1&rpar;](https://dev.to/ikechukwu411/exploring-node-js-and-express-in-30-days-day-1-4f8b)
-- [Difference between Microservices vs Monolithic Applications for System Design Interview](https://dev.to/somadevtoo/difference-between-microservices-vs-monolithic-applications-for-system-design-interview-2lb5)
-- [Make Yourself Expendable](https://dev.to/keep_calm_and_code_on/make-yourself-expendable-292l)
-- [Mastering Component Lifecycles: A Deep Dive into Angular and React Hooks](https://dev.to/chintanonweb/mastering-component-lifecycles-a-deep-dive-into-angular-and-react-hooks-3bc0)
+- [Introducing Mantelo - The Best Keycloak Admin Client for Python](https://dev.to/derlin/introducing-mantelo-the-best-keycloak-admin-client-for-python-347m)
+- [Git Vs GitHub: What&#39;s the Difference?](https://dev.to/annoh_karlgusta/git-vs-github-whats-the-difference-4cj)
+- [What Junior Devs Get Wrong](https://dev.to/wasp/what-junior-devs-get-wrong-an8)
+- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://dev.to/opensauced/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91)
 <!-- BLOG-POST-LIST:END -->
 
