@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Box Model Breakdown](https://dev.to/devcanvas_/css-box-model-breakdown-hfj)
 - [Simplifying Imports with TypeScript Path Aliases in Umbraco v14](https://dev.to/mattbrailsford/simplifying-imports-with-typescript-path-aliases-in-umbraco-v14-301g)
+- [Creating your own UI extension points in Umbraco v14 - Part 1: The Basics](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-1-the-basics-568h)
 - [9 Top AI Search Engines for Developers in 2024:](https://dev.to/jahan/9-top-ai-search-engines-for-developers-in-2024-4fdi)
-- [How to make a clock using html , JavaScript and CSS and deploy it using firebase](https://dev.to/dino2328/how-to-make-a-clock-using-html-javascript-and-css-and-deploy-it-using-firebase-1el2)
-- [Handling internalisation &lpar;I18N&rpar; in Vue](https://dev.to/jacobandrewsky/handling-internalisation-i18n-in-vue-2nof)
 <!-- BLOG-POST-LIST:END -->
 
