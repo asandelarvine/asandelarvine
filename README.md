@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Non-Primitive Data Types](https://dev.to/imashwani/javascript-non-primitive-data-types-2mjp)
-- [What Are You Wasting Time On?](https://dev.to/devteam/what-are-you-wasting-time-on-2544)
-- [A Complete Developer Guide to Vector Embeddings!](https://dev.to/pavanbelagatti/a-complete-developer-guide-to-vector-embeddings-90j)
-- [Find Information Faster in SharePoint Online: Ditch Filtering, Embrace Search!](https://dev.to/jaloplo/find-information-faster-in-sharepoint-online-ditch-filtering-embrace-search-1b8p)
+- [Simplifying Imports with TypeScript Path Aliases in Umbraco v14](https://dev.to/mattbrailsford/simplifying-imports-with-typescript-path-aliases-in-umbraco-v14-301g)
+- [9 Top AI Search Engines for Developers in 2024:](https://dev.to/jahan/9-top-ai-search-engines-for-developers-in-2024-4fdi)
+- [How to make a clock using html , JavaScript and CSS and deploy it using firebase](https://dev.to/dino2328/how-to-make-a-clock-using-html-javascript-and-css-and-deploy-it-using-firebase-1el2)
+- [Handling internalisation &lpar;I18N&rpar; in Vue](https://dev.to/jacobandrewsky/handling-internalisation-i18n-in-vue-2nof)
 <!-- BLOG-POST-LIST:END -->
 
