@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [learn redux with react | Complete Tutorial for Beginners](https://dev.to/imrankh13332994/learn-redux-with-react-complete-tutorial-for-beginners-203i)
-- [Optimizing React Apps for Performance: A Comprehensive Guide](https://dev.to/humjerry/optimizing-react-apps-for-performance-a-comprehensive-guide-2jff)
-- [Trigger a site update from anything that speaks HTTP with build hooks](https://dev.to/netlify/trigger-a-site-update-from-anything-that-speaks-http-with-build-hooks-5h5n)
-- [JavaScript News, Updates, and Tutorials: March 2024 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-march-2024-edition-431g)
+- [Exploring Node js and Express in 30 days &lpar;Day 1&rpar;](https://dev.to/ikechukwu411/exploring-node-js-and-express-in-30-days-day-1-4f8b)
+- [Difference between Microservices vs Monolithic Applications for System Design Interview](https://dev.to/somadevtoo/difference-between-microservices-vs-monolithic-applications-for-system-design-interview-2lb5)
+- [Make Yourself Expendable](https://dev.to/keep_calm_and_code_on/make-yourself-expendable-292l)
+- [Mastering Component Lifecycles: A Deep Dive into Angular and React Hooks](https://dev.to/chintanonweb/mastering-component-lifecycles-a-deep-dive-into-angular-and-react-hooks-3bc0)
 <!-- BLOG-POST-LIST:END -->
 
