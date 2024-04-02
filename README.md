@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Penggunaan OpenSSH](https://dev.to/reizzo/penggunaan-openssh-5e1m)
-- [Finding Best Training Hyper Parameters / Configuration Is Neither Cheap Nor Easy](https://dev.to/furkangozukara/finding-best-training-hyper-parameters-configuration-is-neither-cheap-nor-easy-37n4)
-- [Modelling be like...](https://dev.to/theprogrammingpod/modelling-be-like-4d6k)
-- [The Dark Side of AI/AGI](https://dev.to/scofieldidehen/the-dark-side-of-aiagi-2914)
+- [JavaScript Non-Primitive Data Types](https://dev.to/imashwani/javascript-non-primitive-data-types-2mjp)
+- [What Are You Wasting Time On?](https://dev.to/devteam/what-are-you-wasting-time-on-2544)
+- [A Complete Developer Guide to Vector Embeddings!](https://dev.to/pavanbelagatti/a-complete-developer-guide-to-vector-embeddings-90j)
+- [Find Information Faster in SharePoint Online: Ditch Filtering, Embrace Search!](https://dev.to/jaloplo/find-information-faster-in-sharepoint-online-ditch-filtering-embrace-search-1b8p)
 <!-- BLOG-POST-LIST:END -->
 
