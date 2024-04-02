@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini Free API](https://dev.to/sh20raj/google-gemini-free-api-269o)
+- [Svelte for Beginners: Easy Guide](https://dev.to/codeparrot/svelte-for-beginners-easy-guide-3fam)
+- [What I have in my portfolio 😎](https://dev.to/locnguyenpv/what-i-have-in-my-portfolio-44bd)
 - [10 Tips to Maximize Productivity in Tailwind CSS](https://dev.to/mario130/10-tips-to-maximize-productivity-in-tailwind-css-1eep)
-- [Reference Type and Value Type in Swift](https://dev.to/saeedrz/reference-type-and-value-type-in-swift-863)
-- [Adding a canonical url to dev.to posts &lpar;in basic markdown editor&rpar;](https://dev.to/antweiss/adding-a-canonical-url-to-devto-posts-in-basic-markdown-editor-1enn)
-- [How to use fly.io and Tigris to deploy a Next.js app](https://dev.to/andrewbaisden/how-to-use-flyio-and-tigris-to-deploy-a-nextjs-app-1068)
 <!-- BLOG-POST-LIST:END -->
 
