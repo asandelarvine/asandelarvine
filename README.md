@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Living The Dream With AI: CodeNewbie Podcast](https://dev.to/devteam/living-the-dream-with-ai-codenewbie-podcast-1hhl)
+- [Reflecting on the power of public speaking](https://dev.to/pachicodes/reflecting-on-the-power-of-public-speaking-4hg3)
+- [Mastering White Hat Hacking Without a Single Line of Code: A Non-Traditional Hacker&#39;s Journey](https://dev.to/nikitakoselev/mastering-white-hat-hacking-without-a-single-line-of-code-a-non-traditional-hackers-journey-3238)
 - [Leveraging Containerization and Orchestration for Efficient Deployment of Low-Code APIs](https://dev.to/syncloop_dev/leveraging-containerization-and-orchestration-for-efficient-deployment-of-low-code-apis-1i6l)
-- [Join us for the Cloudflare AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99)
-- [Short Polling vs Long Polling](https://dev.to/devonremote/short-polling-vs-long-polling-3ed6)
-- [immich SSO with Authentik](https://dev.to/rzumbado/immich-sso-with-authentik-2gi9)
 <!-- BLOG-POST-LIST:END -->
 
