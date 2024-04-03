@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Think Like A Programmer?](https://dev.to/devteam/how-to-think-like-a-programmer-4436)
-- [CSS Rounded Corners Examples](https://dev.to/refine/css-rounded-corners-examples-3hha)
-- [I created an AI Chatbot 🚀](https://dev.to/sh20raj/i-created-ai-chatbot-33m1)
-- [Generate AI Songs for Free - Gemini API](https://dev.to/sh20raj/generate-ai-songs-for-free-gemini-api-186k)
+- [Managing Global State with useReducer and Context API in Next JS 14](https://dev.to/muhammadazfaraslam/managing-global-state-with-usereducer-and-context-api-in-next-js-14-2m17)
+- [How to convert XML files to CSV format using Boomi in Docker](https://dev.to/eyer-ai/how-to-convert-xml-files-to-csv-format-using-boomi-in-docker-30c8)
+- [Upgrading Hundreds of Kubernetes Clusters](https://dev.to/kuberada/upgrading-hundreds-of-kubernetes-clusters-8h0)
+- [Live reload a Rails 7 application, an unsatisfaying attempt](https://dev.to/bdavidxyz/live-reload-a-rails-7-application-an-unsatisfaying-attempt-d82)
 <!-- BLOG-POST-LIST:END -->
 
