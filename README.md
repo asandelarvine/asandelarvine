@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [21 Pieces Of Unsolicited Advice For Junior Web Developers](https://dev.to/schalkneethling/21-pieces-of-unsolicited-advice-for-junior-web-developers-5eac)
-- [Revolutionizing Startups: Unveiling the Best AI Tools](https://dev.to/jahan/revolutionizing-startups-unveiling-the-best-ai-tools-pok)
-- [Sync the Kafka Cluster CA Certificate into your namespace](https://dev.to/darkedges/how-to-sync-the-kafka-cluster-ca-certificate-into-your-namespace-4l9h)
-- [What&#39;s Your Favorite Tech Stack and Why?](https://dev.to/kaamkiya/whats-your-favorite-tech-stack-and-why-1a7e)
+- [Entendo o conceito de VueJS](https://dev.to/nathanndos/entendo-o-conceito-de-vuejs-2i8c)
+- [Concurrency in JavaScript and the power of Web Workers](https://dev.to/olyop/concurrency-in-javascript-and-the-power-of-web-workers-4278)
+- [How to Make a Flutter Quiz App 👨‍🎓](https://dev.to/lapz/how-to-make-a-flutter-quiz-app-4n4i)
+- [Welcome Thread - v270](https://dev.to/devteam/welcome-thread-v270-3cpb)
 <!-- BLOG-POST-LIST:END -->
 
