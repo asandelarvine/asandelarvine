@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IP Addresses Explained Like You&#39;re Five! 🌐🏠](https://dev.to/arjuncodess/ip-addresses-explained-like-youre-five-2a52)
-- [This isn&#39;t the Productivity Post You Want but Need to Understand](https://dev.to/jlxfd/this-isnt-the-productivity-post-you-want-but-need-to-understand-12e4)
-- [Is &quot;webmaster&quot; still a thing?](https://dev.to/garrett/is-webmaster-still-a-thing-dkg)
-- [Inapp Messaging Intgr.- Native for react, ngx, flutter, vue, Next,js, iOS](https://dev.to/suprsend/inapp-messaging-intgr-native-for-react-ngx-flutter-vue-nextjs-ios-kmg)
+- [UI Libraries are Dying: What’s Next?](https://dev.to/giteden/ui-libraries-are-dying-whats-next-4eg)
+- [Mengelola Keamanan SELinux](https://dev.to/reizzo/mengelola-keamanan-selinux-5g6g)
+- [Adding generative AI to your Cloud Flows with AI Prompts](https://dev.to/azure/adding-generative-ai-to-your-cloud-flows-with-ai-prompts-253h)
+- [Strict Mode in React](https://dev.to/vishnusatheesh/strict-mode-in-react-b1o)
 <!-- BLOG-POST-LIST:END -->
 
