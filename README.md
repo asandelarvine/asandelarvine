@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [HOW I MADE MY DIGITAL CLOCK WITH HTML](https://dev.to/dino2328/how-i-made-my-digital-clock-with-html-2i27)
+- [Poor architecture decisions when migrating to the cloud](https://dev.to/aws-builders/poor-architecture-decisions-when-migrating-to-the-cloud-189a)
 - [Python context managers](https://dev.to/azanul/python-context-managers-3cgo)
-- [Explaining LinkedIn profile, &quot;1st,&quot; &quot;2nd,&quot; and &quot;3rd&quot; values.](https://dev.to/richardshaju/explaining-linkedin-profile-1st-2nd-and-3rd-values-3j4a)
-- [Create an integration that injects edge functions into any site](https://dev.to/netlify/create-an-integration-that-injects-edge-functions-into-any-site-2a0i)
-- [How to remove background of image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
+- [Type Class](https://dev.to/itsnashter/type-class-3ikd)
 <!-- BLOG-POST-LIST:END -->
 
