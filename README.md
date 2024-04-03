@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Diploi Changelog: Browser IDE &amp; Quick Trials](https://dev.to/marlusx/diploi-changelog-browser-ide-quick-trials-1n1c)
 - [a very tool for developing quantitative strategy model](https://dev.to/esproc_spl/a-very-tool-for-developing-quantitative-strategy-model-4j3l)
 - [fortune duck logo](https://dev.to/ouyangzetao/fortune-duck-logo-2bgf)
 - [21 AI Tools that are changing the World](https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54)
-- [Building a Secure and Resilient Infra with Infrastructure as Code &lpar;IaC&rpar;: Early Birds](https://dev.to/blackrossay/building-a-secure-and-resilient-infra-with-infrastructure-as-code-iac-early-birds-h2c)
 <!-- BLOG-POST-LIST:END -->
 
