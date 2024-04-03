@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [End of ElephantSQL 😔](https://dev.to/akashpattnaik/end-of-elephantsql-2gdo)
-- [Living The Dream With AI: CodeNewbie Podcast](https://dev.to/devteam/living-the-dream-with-ai-codenewbie-podcast-1hhl)
-- [What is Python? It&#39;s History, Applications and Future](https://dev.to/shaheryaryousaf/what-is-python-its-history-applications-and-future-3a4e)
-- [Reflecting on the power of public speaking](https://dev.to/pachicodes/reflecting-on-the-power-of-public-speaking-4hg3)
+- [HackerRank SQL preparation; Revising the Select Query II&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-revising-the-select-query-iimysql-3kh4)
+- [Embed a form builder with Swift](https://dev.to/joyfill/embed-a-form-builder-with-swift-2b77)
+- [.NET: Brincando com ref structs](https://dev.to/jesus/net-brincando-com-ref-structs-1g4)
+- [AWS Bedrock, Claude 3, Serverless RAG, Rust](https://dev.to/aws-builders/aws-bedrock-claude-3-serverless-rag-rust-4i7)
 <!-- BLOG-POST-LIST:END -->
 
