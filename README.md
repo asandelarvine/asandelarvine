@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Expand Promox storage with external enclosures in a homelab environment](https://dev.to/hunghvu/expand-promox-storage-with-external-enclosures-in-a-homelab-environment-13kn)
 - [Configuring and Securing SSH](https://dev.to/karlitaayu1/configuring-and-securing-ssh-3a11)
 - [AWS open source newsletter, #194](https://dev.to/aws/aws-open-source-newsletter-194-h60)
 - [Lazy load a background image](https://dev.to/phuocng/lazy-load-a-background-image-23pe)
-- [Entendo o conceito de VueJS](https://dev.to/nathanndos/entendo-o-conceito-de-vuejs-2i8c)
 <!-- BLOG-POST-LIST:END -->
 
