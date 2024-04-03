@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UI Libraries are Dying: What’s Next?](https://dev.to/giteden/ui-libraries-are-dying-whats-next-4eg)
-- [Mengelola Keamanan SELinux](https://dev.to/reizzo/mengelola-keamanan-selinux-5g6g)
-- [Adding generative AI to your Cloud Flows with AI Prompts](https://dev.to/azure/adding-generative-ai-to-your-cloud-flows-with-ai-prompts-253h)
-- [Strict Mode in React](https://dev.to/vishnusatheesh/strict-mode-in-react-b1o)
+- [Leveraging Containerization and Orchestration for Efficient Deployment of Low-Code APIs](https://dev.to/syncloop_dev/leveraging-containerization-and-orchestration-for-efficient-deployment-of-low-code-apis-1i6l)
+- [Join us for the Cloudflare AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99)
+- [Short Polling vs Long Polling](https://dev.to/devonremote/short-polling-vs-long-polling-3ed6)
+- [immich SSO with Authentik](https://dev.to/rzumbado/immich-sso-with-authentik-2gi9)
 <!-- BLOG-POST-LIST:END -->
 
