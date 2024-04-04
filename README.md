@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy Peasy Form Validation Errors with Rails Turbo Frames &lpar;modals&rpar;](https://dev.to/railsdesigner/easy-peasy-form-validation-errors-with-rails-turbo-frames-modals-67n)
-- [How to duplicate a Sanity Dataset for FREE](https://dev.to/julimancan/how-to-duplicate-a-sanity-dataset-for-free-392i)
-- [Column Transformation in Machine Learning](https://dev.to/simpleproxy/column-transformation-in-machine-learning-2ci0)
-- [Riding the Waves of #Solana #Web3: An Adventure for Developers](https://dev.to/abhishektilkar/riding-the-waves-of-solana-web3-an-adventure-for-developers-2166)
+- [A glimpse into the algebra of type systems](https://dev.to/alex_escalante/a-glimpse-into-the-algebra-of-type-systems-2gee)
+- [Hash Map As a Service](https://dev.to/mvmendonca/hash-map-as-a-service-1pk2)
+- [Design Memorable Logos with Lyzr&#39;s Logo Generator](https://dev.to/prajjwalsule21/design-memorable-logos-with-lyzrs-logo-generator-3j6i)
+- [How to close attack vectors for exposed secrets in Docker](https://dev.to/siranjeevi/how-to-close-attack-vectors-for-exposed-secrets-in-docker-26c)
 <!-- BLOG-POST-LIST:END -->
 
