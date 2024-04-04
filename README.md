@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [A glimpse into the algebra of type systems](https://dev.to/alex_escalante/a-glimpse-into-the-algebra-of-type-systems-2gee)
 - [Hash Map As a Service](https://dev.to/mvmendonca/hash-map-as-a-service-1pk2)
 - [Design Memorable Logos with Lyzr&#39;s Logo Generator](https://dev.to/prajjwalsule21/design-memorable-logos-with-lyzrs-logo-generator-3j6i)
-- [How to close attack vectors for exposed secrets in Docker](https://dev.to/siranjeevi/how-to-close-attack-vectors-for-exposed-secrets-in-docker-26c)
+- [Introducing Geoglify](https://dev.to/leoneljdias/introducing-geoglify-empowering-maritime-data-analysis-1lp8)
 <!-- BLOG-POST-LIST:END -->
 
