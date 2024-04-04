@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Alternatives to XAMPP for Local Development Environments](https://dev.to/bytecrusher99/top-6-alternatives-to-xampp-for-local-development-environments-5po)
-- [How to build in public ?](https://dev.to/meschacirung/how-to-build-in-public--1lmi)
-- [Nx adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/nx-adoption-guide-overview-examples-and-alternatives-bi1)
-- [Day 4/366](https://dev.to/vishalmx3/day-4366-37c0)
+- [5 CSS authors that you should read](https://dev.to/melnik909/5-css-authors-that-you-should-read-5c0a)
+- [24 Essential Async/Await Best Practices for Basic to Advanced C# Developers](https://dev.to/ssukhpinder/24-essential-asyncawait-best-practices-for-basic-to-advanced-c-developers-2kgg)
+- [Consistency Is All That Matters! Lessons from Atomic Habits 🌱🚀](https://dev.to/arjuncodess/consistency-is-all-that-matters-lessons-from-atomic-habits-1bmf)
+- [Using nmap for Continuous Vulnerability Monitoring](https://dev.to/stefanhudelmaier/using-nmap-for-continuous-vulnerability-monitoring-3d9e)
 <!-- BLOG-POST-LIST:END -->
 
