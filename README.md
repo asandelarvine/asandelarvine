@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Your Go-to Icebreakers? 🧊⛏️](https://dev.to/devteam/what-are-your-go-to-icebreakers-2942)
 - [macOS vs Ubuntu: GitHub Actions Runners](https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738)
 - [OneTrainer Fine Tuning vs Kohya SS DreamBooth &amp; Huge Research of OneTrainer’s Masked Training](https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7)
 - [🚀 API Maker : Release Notes for v1.5.0](https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48)
-- [ACL File](https://dev.to/reizzo/acl-file-4i34)
 <!-- BLOG-POST-LIST:END -->
 
