@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 API Maker : Release Notes for v1.5.0](https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48)
+- [ACL File](https://dev.to/reizzo/acl-file-4i34)
+- [Remote job offers this week](https://dev.to/krlz/remote-job-offers-this-week-521j)
 - [Core Web Vitals: UX além da interface](https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m)
-- [The Fascinating History of Java](https://dev.to/dbillion/the-fascinating-history-of-java-2al7)
-- [7 Frameworks, One SAML Jackson - Your Open Source Single Sign-On Solution](https://dev.to/boxyhq/7-frameworks-one-saml-jackson-your-open-source-single-sign-on-solution-3cdf)
-- [Batect in a nutshell](https://dev.to/otter13/batect-in-a-nutshell-3f1g)
 <!-- BLOG-POST-LIST:END -->
 
