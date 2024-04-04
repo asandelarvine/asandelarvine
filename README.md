@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nation Job Connect DevLog #4](https://dev.to/amilarangana/nation-job-connect-devlog-4-38ln)
-- [Build component library using Storybook](https://dev.to/codeparrot/build-component-library-using-storybook-3ope)
-- [New Features in React 19 – Updates with Code Examples](https://dev.to/hellonehha/new-features-in-react-19-updates-with-code-examples-1l9)
-- [How to securely reverse-proxy ASP.NET Core web apps](https://dev.to/asimmon/how-to-securely-reverse-proxy-aspnet-core-web-apps-3h4c)
+- [Day 942 : Smooth Sailing](https://dev.to/dwane/day-942-smooth-sailing-57h4)
+- [The RAG Triad: Guide to Evaluating and Optimizing RAG Systems](https://dev.to/rutamstwt/the-rag-triad-guide-to-evaluating-and-optimizing-rag-systems-39i6)
+- [The History of the Internet From ARPANET to HTTPS](https://dev.to/certifieddaydreamer/the-history-of-the-internetfrom-arpanet-to-https-1h2c)
+- [Simple constant time weighted random choice algorithm](https://dev.to/mokiat/simple-constant-time-weighted-random-choice-algorithm-1o1e)
 <!-- BLOG-POST-LIST:END -->
 
