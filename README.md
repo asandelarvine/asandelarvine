@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [OneTrainer Fine Tuning vs Kohya SS DreamBooth &amp; Huge Research of OneTrainer’s Masked Training](https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7)
 - [🚀 API Maker : Release Notes for v1.5.0](https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48)
 - [ACL File](https://dev.to/reizzo/acl-file-4i34)
 - [Remote job offers this week](https://dev.to/krlz/remote-job-offers-this-week-521j)
-- [Core Web Vitals: UX além da interface](https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m)
 <!-- BLOG-POST-LIST:END -->
 
