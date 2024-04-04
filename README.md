@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Galactic Grayscales: Exploring SVG in a universe far far away.](https://dev.to/hendrikras/galactic-grayscales-exploring-svg-in-a-universe-far-far-away-47p2)
-- [Full Line Code Completion by JetBrains: A Game-Changer for Secure, AI-Assisted Coding](https://dev.to/nikitakoselev/full-line-code-completion-by-jetbrains-a-game-changer-for-secure-ai-assisted-coding-3k41)
-- [Git Commands Pocket Guide](https://dev.to/bgdnvarlamov/git-commands-pocket-guide-2aia)
-- [Beyond the Hype: Unveiling the Truth About Secret Trading Software and BT Chat](https://dev.to/chintanonweb/beyond-the-hype-unveiling-the-truth-about-secret-trading-software-and-bt-chat-14bm)
+- [Nation Job Connect DevLog #4](https://dev.to/amilarangana/nation-job-connect-devlog-4-38ln)
+- [Build component library using Storybook](https://dev.to/codeparrot/build-component-library-using-storybook-3ope)
+- [New Features in React 19 – Updates with Code Examples](https://dev.to/hellonehha/new-features-in-react-19-updates-with-code-examples-1l9)
+- [How to securely reverse-proxy ASP.NET Core web apps](https://dev.to/asimmon/how-to-securely-reverse-proxy-aspnet-core-web-apps-3h4c)
 <!-- BLOG-POST-LIST:END -->
 
