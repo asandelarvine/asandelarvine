@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New at Meteor: Beta Releases, Community Tutorials, and More](https://dev.to/meteor/whats-new-at-meteor-beta-releases-community-tutorials-and-more-1jj2)
+- [How do you deal with digital eye strain and dry eyes?](https://dev.to/kushsolitary/how-do-you-deal-with-digital-eye-strain-and-dry-eyes-1n0p)
 - [This Week In React #180 : Drag &amp; Drop, React name, Next.js Auth, New Architecture, Gesture Handler, Privacy Manifest...](https://dev.to/sebastienlorber/this-week-in-react-180-drag-drop-react-name-nextjs-auth-new-architecture-gesture-handler-privacy-manifest-25lo)
-- [How I would Learn JavaScript If I was Starting Over](https://dev.to/annoh_karlgusta/how-i-would-learn-javascript-if-i-was-starting-over-3b69)
-- [SciChart.js Performance Demo: 1 Million Datapoints in under 15ms](https://dev.to/andyb1979/scichartjs-performance-demo-1-million-datapoints-in-under-15ms-50bd)
-- [On Implementation of Distributed Protocols](https://dev.to/replica-io/on-implementation-of-distributed-protocols-266c)
+- [I&#39;m ready to dive into #PublicSpeakingChallenge](https://dev.to/thaisavieira/im-ready-to-dive-into-publicspeakingchallenge-5d6g)
 <!-- BLOG-POST-LIST:END -->
 
