@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use TURN server with PeerJs](https://dev.to/alakkadshaw/how-to-use-turn-server-with-peerjs-6eb)
 - [🚀💼 Lean Startup: Transforming Tech with Lean Principles 💼🚀](https://dev.to/apetryla/lean-startup-transforming-tech-with-lean-principles-3487)
-- [Functional Programming in Java: Lists, Lambdas, and Method References](https://dev.to/dbillion/functional-programming-in-java-lists-lambdas-and-method-references-4e32)
-- [How to check the distribution of timestamps in a PostgreSQL table?](https://dev.to/dm8ry/how-to-check-the-distribution-of-timestamps-in-a-postgresql-table-5gb6)
-- [Weekly Updates - Apr 5 2024](https://dev.to/couchbase/weekly-updates-apr-5-2024-51ca)
+- [Exploring My Journey: A Software Engineer in Constant Evolution](https://dev.to/geolffreym/exploring-my-journey-a-software-engineer-in-constant-evolution-71c)
+- [Introvertish to Extrovertish](https://dev.to/aortega/introvertish-to-extrovertish-110c)
 <!-- BLOG-POST-LIST:END -->
 
