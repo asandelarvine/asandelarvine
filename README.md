@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 BEST Sites to Practice Coding by Exercises 🏋️‍♂️🎯](https://dev.to/arjuncodess/8-best-sites-to-practice-coding-by-exercises-c53)
-- [Want to Join the Top 1%? Accelerate Your Business Skills with This Habit](https://dev.to/lincemathew/want-to-join-the-top-1-accelerate-your-business-skills-with-this-habit-3980)
-- [Meme Coins: Balancing Profitability and Risks in the Crypto World](https://dev.to/hryniv_vlad/meme-coins-balancing-profitability-and-risks-in-the-crypto-world-1p6c)
-- [One Simple Trick For Resolving Java Runtime Dependency Issues](https://dev.to/vonagedev/one-simple-trick-for-resolving-java-runtime-dependency-issues-2po4)
+- [Building a Study Planner using Lyzr SDK](https://dev.to/akshay007/building-a-study-planner-using-lyzr-sdk-3m31)
+- [You’ve Been Asking for it…Announcing the Pieces for Developers Visual Studio Extension!](https://dev.to/get_pieces/youve-been-asking-for-itannouncing-the-pieces-for-developers-visual-studio-extension-5c3h)
+- [Acelerando o processo de design no Figma com o plugin html.to.design](https://dev.to/somosguix/acelerando-o-processo-de-design-no-figma-com-o-plugin-htmltodesign-5g0f)
+- [Who&#39;s looking for open source contributors? &lpar;week 66&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-66-2ld7)
 <!-- BLOG-POST-LIST:END -->
 
