@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 942 : Smooth Sailing](https://dev.to/dwane/day-942-smooth-sailing-57h4)
-- [The RAG Triad: Guide to Evaluating and Optimizing RAG Systems](https://dev.to/rutamstwt/the-rag-triad-guide-to-evaluating-and-optimizing-rag-systems-39i6)
-- [The History of the Internet From ARPANET to HTTPS](https://dev.to/certifieddaydreamer/the-history-of-the-internetfrom-arpanet-to-https-1h2c)
-- [Simple constant time weighted random choice algorithm](https://dev.to/mokiat/simple-constant-time-weighted-random-choice-algorithm-1o1e)
+- [Mastering WordPress Management: A Comprehensive Guide to WP-CLI Commands](https://dev.to/mikevarenek/mastering-wordpress-management-a-comprehensive-guide-to-wp-cli-commands-5dn9)
+- [Challenges and Solutions in Using ThirdWeb](https://dev.to/zhukmax/challenges-and-solutions-in-using-thirdweb-3j8j)
+- [One thing I wish I knew when I first started to code is... : CodeNewbie Podcast](https://dev.to/codenewbieteam/one-thing-i-wish-i-knew-when-i-first-started-to-code-is-codenewbie-podcast-272h)
+- [Mastering Docker Image Optimization: 6 Key Strategies for building Lighter, Faster, and Safer images](https://dev.to/jlerocher/mastering-docker-image-optimization-6-key-strategies-for-building-lighter-faster-and-safer-images-5bm9)
 <!-- BLOG-POST-LIST:END -->
 
