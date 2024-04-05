@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Drives Your Daily Choices?](https://dev.to/devteam/what-drives-your-daily-choices-15lb)
-- [A Coder&#39;s Hilarious Journey Through Syntax Errors](https://dev.to/ssukhpinder/a-coders-hilarious-journey-through-syntax-errors-13dm)
-- [Temel H3C Switch Yapılandırma Kılavuzu: Cisco Komutlarıyla Karşılaştırmalı](https://dev.to/aciklab/temel-h3c-switch-yapilandirma-kilavuzu-cisco-komutlariyla-karsilastirmali-4e71)
-- [Updating Azure DevOps Pipelines for Terraform Post SSH-RSA Deprecation](https://dev.to/gtrekter/updating-azure-devops-pipelines-for-terraform-post-ssh-rsa-deprecation-4270)
+- [Boost Your Development Workflow with Visual Studio 2022 17.9](https://dev.to/shishsingh/boost-your-development-workflow-with-visual-studio-2022-179-187d)
+- [AI in Anomaly Detection: Identifying Real-Time Threats](https://dev.to/ideausher/ai-in-anomaly-detection-identifying-real-time-threats-902)
+- [Day 17 of 30-Day .NET Challenge: Interlocked Class](https://dev.to/ssukhpinder/day-17-of-30-day-net-challenge-interlocked-class-123f)
+- [Demystifying Open Source Contribution: A Beginner&#39;s Guide](https://dev.to/pathus90/demystifying-open-source-contribution-a-beginners-guide-48nm)
 <!-- BLOG-POST-LIST:END -->
 
