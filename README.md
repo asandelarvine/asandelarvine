@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Study Planner using Lyzr SDK](https://dev.to/akshay007/building-a-study-planner-using-lyzr-sdk-3m31)
-- [You’ve Been Asking for it…Announcing the Pieces for Developers Visual Studio Extension!](https://dev.to/get_pieces/youve-been-asking-for-itannouncing-the-pieces-for-developers-visual-studio-extension-5c3h)
-- [Acelerando o processo de design no Figma com o plugin html.to.design](https://dev.to/somosguix/acelerando-o-processo-de-design-no-figma-com-o-plugin-htmltodesign-5g0f)
-- [Who&#39;s looking for open source contributors? &lpar;week 66&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-66-2ld7)
+- [🚀💼 Lean Startup: Transforming Tech with Lean Principles 💼🚀](https://dev.to/apetryla/lean-startup-transforming-tech-with-lean-principles-3487)
+- [Functional Programming in Java: Lists, Lambdas, and Method References](https://dev.to/dbillion/functional-programming-in-java-lists-lambdas-and-method-references-4e32)
+- [How to check the distribution of timestamps in a PostgreSQL table?](https://dev.to/dm8ry/how-to-check-the-distribution-of-timestamps-in-a-postgresql-table-5gb6)
+- [Weekly Updates - Apr 5 2024](https://dev.to/couchbase/weekly-updates-apr-5-2024-51ca)
 <!-- BLOG-POST-LIST:END -->
 
