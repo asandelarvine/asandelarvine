@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch API Fun: Beginner&#39;s Guide to Web Requests 🔎🌐](https://dev.to/arjuncodess/fetch-api-fun-beginners-guide-to-web-requests-22od)
-- [How I Structure my React Projects](https://dev.to/phukon/how-i-structure-my-react-projects-1lk)
-- [From Toy Blocks to Code Blocks: My Journey into Tech](https://dev.to/aivantuquero/from-toy-blocks-to-code-blocks-my-journey-into-tech-3dhg)
-- [My Github project has more than 100 stars✨](https://dev.to/remotewlb/my-github-project-has-more-than-100-stars-1eg2)
+- [What is Access Modifiers](https://dev.to/m__mdy__m/what-is-access-modifiers-2761)
+- [Why Go Custom? The Lasting Advantages of Personalized Software Development](https://dev.to/leandro_nnz/why-go-custom-the-lasting-advantages-of-personalized-software-development-3l3a)
+- [🚀 My Cloudflare AI Challenge Submission: Story and Image Generator](https://dev.to/bobbyiliev/my-cloudflare-ai-challenge-submission-story-and-image-generator-4fc3)
+- [Blockchain explained easy](https://dev.to/greengeko/blockchain-explained-easy-399m)
 <!-- BLOG-POST-LIST:END -->
 
