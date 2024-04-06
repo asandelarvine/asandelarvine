@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Helpful Linux Commands You Should Know](https://dev.to/sarahokolo/20-helpful-linux-commands-you-should-know-mm9)
-- [Setup Your Universal App with React Native, Expo Router, Tamagui, and Storybook](https://dev.to/hasan_py/setup-your-universal-app-with-react-native-expo-router-tamagui-and-storybook-28m6)
-- [Building a REST API with FastAPI, Async SQLModel, and PostgreSQL](https://dev.to/jod35/building-a-rest-api-with-fastapi-async-sqlmodel-and-postgresql-1ap2)
-- [Shared UI Setup For Micro Frontend Application &lpar;Module Federation with React&rpar; with Nx Workspace](https://dev.to/serifcolakel/shared-ui-setup-for-micro-frontend-application-module-federation-with-react-with-nx-workspace-1p7c)
+- [Should I use Nginx or Apache Server?](https://dev.to/ugacomp/should-i-use-nginx-or-apache-server-306p)
+- [How to render React components in Vue](https://dev.to/amirkian007/how-to-render-react-components-in-vue-1e0f)
+- [Eventual consistência em sistemas de banco de dados distribuídos](https://dev.to/andersonsilva019/eventual-consistencia-em-sistemas-de-banco-de-dados-distribuidos-1960)
+- [A Beginner&#39;s Guide: AWS IAM User, Group, and Role Management Tutorial](https://dev.to/pearly_/a-beginners-guide-aws-iam-user-group-and-role-management-tutorial-4ib6)
 <!-- BLOG-POST-LIST:END -->
 
