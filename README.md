@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🗝️ Quick macOS Tip: Open Keychain Access from Terminal! 🔍 - Update git credentials](https://dev.to/sh20raj/quick-macos-tip-open-keychain-access-from-terminal-update-git-credentials-9bo)
 - [Set Image or Gradient as Text Background in CSS 😎](https://dev.to/sh20raj/set-image-or-gradient-as-text-background-in-css-bh2)
 - [How to Convert String to Date in JavaScript](https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39)
 - [Let&#39;s Code](https://dev.to/tanujav/lets-code-4j44)
-- [Jak nainstalovat vim.plug do Neovim](https://dev.to/kankys/jak-nainstalovat-vimplug-do-neovim-o40)
 <!-- BLOG-POST-LIST:END -->
 
