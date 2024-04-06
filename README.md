@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetch API Fun: Beginner&#39;s Guide to Web Requests 🔎🌐](https://dev.to/arjuncodess/fetch-api-fun-beginners-guide-to-web-requests-22od)
+- [How I Structure my React Projects](https://dev.to/phukon/how-i-structure-my-react-projects-1lk)
 - [From Toy Blocks to Code Blocks: My Journey into Tech](https://dev.to/aivantuquero/from-toy-blocks-to-code-blocks-my-journey-into-tech-3dhg)
 - [My Github project has more than 100 stars✨](https://dev.to/remotewlb/my-github-project-has-more-than-100-stars-1eg2)
-- [Introducing Windowlight - Create world-class code screenshots online](https://dev.to/codewithcaen/introducing-windowlight-create-world-class-code-screenshots-online-5a63)
-- [Clawject: Simplifying Dependency Injection in TypeScript](https://dev.to/artem1458/clawject-simplifying-dependency-injection-in-typescript-6f5)
 <!-- BLOG-POST-LIST:END -->
 
