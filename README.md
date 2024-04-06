@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 6/366](https://dev.to/vishalmx3/day-6366-3j4m)
 - [Understanding Code Structure: A Beginner&#39;s Guide to Tree-sitter](https://dev.to/shreshthgoyal/understanding-code-structure-a-beginners-guide-to-tree-sitter-3bbc)
 - [21 HTML Tips You Must Know About](https://dev.to/devshefali/21-html-tips-you-must-know-about-55j7)
 - [Understanding the Adapter Pattern in Go](https://dev.to/kittipat1413/understanding-the-adapter-pattern-in-go-2mln)
-- [HEY.com Review: A Game-Changer or A Gimmick?](https://dev.to/stan8086/heycom-review-a-game-changer-or-a-gimmick-50ka)
 <!-- BLOG-POST-LIST:END -->
 
