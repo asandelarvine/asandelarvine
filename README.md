@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗝️ Quick macOS Tip: Open Keychain Access from Terminal! 🔍 - Update git credentials](https://dev.to/sh20raj/quick-macos-tip-open-keychain-access-from-terminal-update-git-credentials-9bo)
-- [Set Image or Gradient as Text Background in CSS 😎](https://dev.to/sh20raj/set-image-or-gradient-as-text-background-in-css-bh2)
-- [How to Convert String to Date in JavaScript](https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39)
-- [Let&#39;s Code](https://dev.to/tanujav/lets-code-4j44)
+- [Networking Connections: Is it Quality or Quantity?](https://dev.to/devteam/networking-connections-is-it-quality-or-quantity-670)
+- [I made a stop watch with html](https://dev.to/dino2328/i-made-a-stop-watch-with-html-2713)
+- [Exploring Package Managers in Web Development](https://dev.to/meertanveer/exploring-package-managers-in-web-development-3jj5)
+- [5 Websites to Boost Your Coding and Master Algorithms 🚀](https://dev.to/robertoor/5-websites-to-boost-your-coding-and-master-algorithms-28od)
 <!-- BLOG-POST-LIST:END -->
 
