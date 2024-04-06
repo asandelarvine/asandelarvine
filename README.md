@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Your Express.js Backend with Middleware for Efficient Request Processing](https://dev.to/tirthraval1999/enhance-your-expressjs-backend-with-middleware-for-efficient-request-processing-1mib)
+- [Using raylib with Dear ImGui: Game Dev Debugging UI](https://dev.to/askrodney/using-raylib-with-dear-imgui-game-dev-debugging-ui-5865)
+- [7 Essential JavaScript syntax for React Development](https://dev.to/oyegoke/7-essential-javascript-syntax-for-react-development-p31)
 - [Networking Connections: Is it Quality or Quantity?](https://dev.to/devteam/networking-connections-is-it-quality-or-quantity-670)
-- [I made a stop watch with html](https://dev.to/dino2328/i-made-a-stop-watch-with-html-2713)
-- [Exploring Package Managers in Web Development](https://dev.to/meertanveer/exploring-package-managers-in-web-development-3jj5)
-- [5 Websites to Boost Your Coding and Master Algorithms 🚀](https://dev.to/robertoor/5-websites-to-boost-your-coding-and-master-algorithms-28od)
 <!-- BLOG-POST-LIST:END -->
 
