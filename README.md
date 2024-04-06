@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Helpful Linux Commands You Should Know](https://dev.to/sarahokolo/20-helpful-linux-commands-you-should-know-mm9)
 - [Setup Your Universal App with React Native, Expo Router, Tamagui, and Storybook](https://dev.to/hasan_py/setup-your-universal-app-with-react-native-expo-router-tamagui-and-storybook-28m6)
+- [Building a REST API with FastAPI, Async SQLModel, and PostgreSQL](https://dev.to/jod35/building-a-rest-api-with-fastapi-async-sqlmodel-and-postgresql-1ap2)
 - [Shared UI Setup For Micro Frontend Application &lpar;Module Federation with React&rpar; with Nx Workspace](https://dev.to/serifcolakel/shared-ui-setup-for-micro-frontend-application-module-federation-with-react-with-nx-workspace-1p7c)
-- [Unicode string length can mean different things in different languages](https://dev.to/klaeufer/unicode-string-length-can-mean-different-things-in-different-languages-3e6j)
-- [Reactor Netty: UDP DNS client example](https://dev.to/saladlam/reactor-netty-udp-dns-client-example-14p3)
 <!-- BLOG-POST-LIST:END -->
 
