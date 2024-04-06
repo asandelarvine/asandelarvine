@@ -82,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Unicode string length can mean different things in different languages](https://dev.to/klaeufer/unicode-string-length-can-mean-different-things-in-different-languages-3e6j)
 - [Reactor Netty: UDP DNS client example](https://dev.to/saladlam/reactor-netty-udp-dns-client-example-14p3)
 - [What is Access Modifiers](https://dev.to/m__mdy__m/what-is-access-modifiers-2761)
-- [Princípios FIRST e Test Smells](https://dev.to/htamagnus/principios-first-e-test-smells-33k7)
+- [Princípios FIRST e Test Smells 🚀](https://dev.to/htamagnus/principios-first-e-test-smells-33k7)
 <!-- BLOG-POST-LIST:END -->
 
