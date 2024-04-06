@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Toy Blocks to Code Blocks: My Journey into Tech](https://dev.to/aivantuquero/from-toy-blocks-to-code-blocks-my-journey-into-tech-3dhg)
+- [My Github project has more than 100 stars✨](https://dev.to/remotewlb/my-github-project-has-more-than-100-stars-1eg2)
 - [Introducing Windowlight - Create world-class code screenshots online](https://dev.to/codewithcaen/introducing-windowlight-create-world-class-code-screenshots-online-5a63)
 - [Clawject: Simplifying Dependency Injection in TypeScript](https://dev.to/artem1458/clawject-simplifying-dependency-injection-in-typescript-6f5)
-- [Day 6/366](https://dev.to/vishalmx3/day-6366-3j4m)
-- [Understanding Code Structure: A Beginner&#39;s Guide to Tree-sitter](https://dev.to/shreshthgoyal/understanding-code-structure-a-beginners-guide-to-tree-sitter-3bbc)
 <!-- BLOG-POST-LIST:END -->
 
