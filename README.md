@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing the Future: My Journey Through the ChatGPT Masterclass](https://dev.to/apetryla/harnessing-the-future-my-journey-through-the-chatgpt-masterclass-1bi9)
+- [Building an Offline-Enabled To-Do List Web App 🚀](https://dev.to/sh20raj/building-an-offline-enabled-to-do-list-web-app-89j)
+- [Build These 5 Full Stack Projects For An Impressive Profile 🌟🛠️](https://dev.to/arjuncodess/build-these-5-full-stack-projects-for-an-impressive-profile-3eh4)
 - [LeetCode Meditations: Reorder List](https://dev.to/rivea0/leetcode-meditations-reorder-list-2dh)
-- [Credits got depleted and can&#39;t create AI images anymore? How to run your own image generator for free](https://dev.to/hexmos/credits-got-depleted-and-cant-create-ai-images-anymore-how-to-run-your-own-image-generator-for-free-4a0e)
-- [Implement React v18 from Scratch Using WASM and Rust - [1] Build the Project](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-1-build-the-project-414m)
-- [A Guide to Common Web Application Security Vulnerabilities and Mitigation](https://dev.to/mmainulhasan/a-guide-to-common-web-application-security-vulnerabilities-and-mitigation-nmm)
 <!-- BLOG-POST-LIST:END -->
 
