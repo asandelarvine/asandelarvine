@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should I use Nginx or Apache Server?](https://dev.to/ugacomp/should-i-use-nginx-or-apache-server-306p)
-- [How to render React components in Vue](https://dev.to/amirkian007/how-to-render-react-components-in-vue-1e0f)
-- [Eventual consistência em sistemas de banco de dados distribuídos](https://dev.to/andersonsilva019/eventual-consistencia-em-sistemas-de-banco-de-dados-distribuidos-1960)
-- [A Beginner&#39;s Guide: AWS IAM User, Group, and Role Management Tutorial](https://dev.to/pearly_/a-beginners-guide-aws-iam-user-group-and-role-management-tutorial-4ib6)
+- [NestJS tip: how to change HTTP server timeouts](https://dev.to/micalevisk/nestjs-tip-how-to-change-http-server-timeouts-1616)
+- [Hosting Your Own AI Chatbot on Android Devices](https://dev.to/mrdoe/hosting-your-own-ai-chatbot-on-android-devices-2le6)
+- [5 Steps to Get Started with Open Source](https://dev.to/jeffreythecoder/5-steps-to-get-started-with-open-source-2ogl)
+- [Convertendo números binários para decimais com RUST!](https://dev.to/jotavetech/convertendo-numeros-binarios-para-decimais-com-rust-3be3)
 <!-- BLOG-POST-LIST:END -->
 
