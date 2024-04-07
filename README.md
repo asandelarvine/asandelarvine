@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Collab Lab #66 Recap](https://dev.to/the-collab-lab/collab-lab-66-recap-2cdp)
 - [Harnessing the Future: My Journey Through the ChatGPT Masterclass](https://dev.to/apetryla/harnessing-the-future-my-journey-through-the-chatgpt-masterclass-1bi9)
 - [Building an Offline-Enabled To-Do List Web App 🚀](https://dev.to/sh20raj/building-an-offline-enabled-to-do-list-web-app-89j)
 - [Optimize Your Git Setup: Strategies for Handling Multiple GitHub Accounts](https://dev.to/sisco/optimize-your-git-setup-strategies-for-handling-multiple-github-accounts-3ji8)
-- [Build These 5 Full Stack Projects For An Impressive Profile 🌟🛠️](https://dev.to/arjuncodess/build-these-5-full-stack-projects-for-an-impressive-profile-3eh4)
 <!-- BLOG-POST-LIST:END -->
 
