@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement React v18 from Scratch Using WASM and Rust - [1] Build the Project](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-1-build-the-project-414m)
+- [A Guide to Common Web Application Security Vulnerabilities and Mitigation](https://dev.to/mmainulhasan/a-guide-to-common-web-application-security-vulnerabilities-and-mitigation-nmm)
 - [Run Local LLMs Using LM Studio](https://dev.to/wydoinn/run-local-llms-using-lm-studio-4h2a)
 - [Implementing JavaScript Concepts from Scratch](https://dev.to/antonzo/implementing-javascript-concepts-from-scratch-4623)
-- [How to launch AWS EC2 Instance &lpar;Windows&rpar;](https://dev.to/cloudairx/how-to-launch-aws-ec2-instance-windows-jo6)
-- [ARCore For Android](https://dev.to/sandeepsatpute9271/arcore-for-android-12l0)
 <!-- BLOG-POST-LIST:END -->
 
