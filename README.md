@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between Element and Component in React?](https://dev.to/mikevarenek/what-is-the-difference-between-element-and-component-in-react-pia)
-- [Enumeration in Java](https://dev.to/003abhinandan/enumeration-in-java-46la)
-- [Testes de Integração 🔗](https://dev.to/htamagnus/testes-de-integracao-4j91)
-- [Desenvolvimento Dirigido por Testes &lpar;TDD&rpar; 🔁](https://dev.to/htamagnus/desenvolvimento-dirigido-por-testes-tdd-ob8)
+- [Why are my table rows rendered outside the table? DOM template parsing caveats in Vuejs](https://dev.to/schalkneethling/why-are-my-table-rows-rendered-outside-the-table-dom-template-parsing-caveats-in-vuejs-k1o)
+- [Simplifying Git Worktrees with PowerShell](https://dev.to/kkoziarski/simplifying-git-worktrees-with-powershell-49j9)
+- [git stash](https://dev.to/stefanalfbo/git-stash-42ed)
+- [Speaking with LLMs locally &lpar;offline internet&rpar;](https://dev.to/msc2020/speaking-with-llms-locally-offline-internet-2fgc)
 <!-- BLOG-POST-LIST:END -->
 
