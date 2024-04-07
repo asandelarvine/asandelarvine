@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescuing legacy Node.js projects with Bun](https://dev.to/sadmanyasar/saving-legacy-nodejs-projects-with-bun-2o75)
 - [NestJS tip: how to change HTTP server timeouts](https://dev.to/micalevisk/nestjs-tip-how-to-change-http-server-timeouts-1616)
 - [Hosting Your Own AI Chatbot on Android Devices](https://dev.to/mrdoe/hosting-your-own-ai-chatbot-on-android-devices-2le6)
 - [5 Steps to Get Started with Open Source](https://dev.to/jeffreythecoder/5-steps-to-get-started-with-open-source-2ogl)
-- [Convertendo números binários para decimais com RUST!](https://dev.to/jotavetech/convertendo-numeros-binarios-para-decimais-com-rust-3be3)
 <!-- BLOG-POST-LIST:END -->
 
