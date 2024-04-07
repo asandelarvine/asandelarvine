@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Page not found on Netlify | React website deployment error solved](https://dev.to/praneshchow/page-not-found-on-netlify-react-website-deployment-error-solved-5e2e)
 - [What You Possibly Don’t Know About Columnar Storage](https://dev.to/esproc_spl/what-you-possibly-dont-know-about-columnar-storage-c1c)
 - [React 19, handling forms using useOptimistic and useFormStatus along with React Hook Form and Zod … practical example](https://dev.to/alaa-m1/react-19-handling-forms-using-useoptimistic-and-useformstatus-along-with-react-hook-form-and-zod-practical-example-2c44)
 - [⚛️ Organizing Code in a React Component](https://dev.to/itswillt/organizing-code-in-a-react-component-4coa)
-- [What Are Your Best Clean Code Tips?](https://dev.to/devteam/what-are-your-best-clean-code-tips-khm)
 <!-- BLOG-POST-LIST:END -->
 
