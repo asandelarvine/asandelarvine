@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Must Know System Design Concepts for Interviews](https://dev.to/somadevtoo/10-must-know-system-design-concepts-for-interviews-2fii)
 - [♨️ Mastering Java Concurrency: Dive into Part 2!](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-2-39n3)
 - [How to Connect MPU9250 and Raspberry Pi &lpar;Part 2 - Calibration&rpar;](https://dev.to/shilleh/how-to-connect-mpu9250-and-raspberry-pi-part-2-calibration-34ka)
 - [Benefits of Walking](https://dev.to/tanujav/benefits-of-walking-35hf)
-- [Manipulating dates in Typescript](https://dev.to/joshuaamaju/manipulating-dates-in-typescript-482p)
 <!-- BLOG-POST-LIST:END -->
 
