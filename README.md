@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Crypto Events to Take Place in April](https://dev.to/endeo/top-crypto-events-to-take-place-in-april-1hnj)
+- [IP Address Explained in Detail! Passport to the World Wide Web? 🌐🕵️‍♂️](https://dev.to/arjuncodess/ip-address-explained-in-detail-passport-to-the-world-wide-web-3ob7)
 - [Music Monday — What are you listening to? &lpar;Favorite Album Titles Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-album-titles-edition-26lg)
 - [[Tutorial 🧹] Limit deployments to Platform.sh only when Git tagged](https://dev.to/platformsh/tutorial-limit-deployments-to-platformsh-only-when-git-tagged-2m4j)
-- [What are you goals for week 15 of 2024? Eclipse Edition.](https://dev.to/jarvisscript/what-are-you-goals-for-week-15-of-2024-eclipse-edition-ien)
-- [IoT Software Development: Advantages and Disadvantages](https://dev.to/anna-boiko/iot-software-development-advantages-and-disadvantages-1g1i)
 <!-- BLOG-POST-LIST:END -->
 
