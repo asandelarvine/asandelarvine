@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Mechanics Behind Next.js Path Matching](https://dev.to/yhshanto/unveiling-the-mechanics-behind-nextjs-path-matching-4ia8)
-- [Microsoft Upcoming Events!! Join Now](https://dev.to/rani4849/microsoft-upcoming-events-join-now-1eal)
-- [Microsoft Upcoming Events!! Join Now](https://dev.to/ankita482/microsoft-upcoming-events-join-now-2d3k)
-- [Microsoft Upcoming Events!! Join Now](https://dev.to/radhika59/microsoft-upcoming-events-join-now-38ng)
+- [Introducing Catepedia: A Nuxt 3 Cat Breed Search App](https://dev.to/rajeshroyal/introducing-catepedia-a-nuxt-3-cat-breed-search-app-5fkm)
+- [1 Law of Success as a Developer](https://dev.to/annoh_karlgusta/1-law-of-success-as-a-developer-1bg6)
+- [Release Radar • March 2024 Edition](https://dev.to/github/release-radar-march-2024-edition-481i)
+- [HTML Tips You Must Know About](https://dev.to/pinky057/html-tips-you-must-know-about-2n3o)
 <!-- BLOG-POST-LIST:END -->
 
