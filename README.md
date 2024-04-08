@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will ESB gradually die.......in era of microservices](https://dev.to/deepakbajaj/will-esb-gradually-diein-era-of-microservices-567i)
-- [Build your Web Applications Faster with Modern Build Tools](https://dev.to/codeparrot/build-your-web-applications-faster-with-modern-build-tools-g2k)
-- [🎣 Reeling in React Hooks](https://dev.to/sh20raj/reeling-in-react-hooks-6lj)
-- [React Hooks 🎣 - One Shot](https://dev.to/sh20raj/reeling-in-react-hooks-18e)
+- [Understanding Linux Firewalld](https://dev.to/emminex/understanding-linux-firewalld-3hn5)
+- [Meme Monday](https://dev.to/ben/meme-monday-4i84)
+- [What is the Difference between &quot;sequel&quot; and &quot;SQL&quot;?](https://dev.to/annoh_karlgusta/what-is-the-difference-between-sequel-and-sql-3e7)
+- [Object Iteration ways in JavaScript](https://dev.to/fpaghar/object-iteration-ways-in-javascript-pej)
 <!-- BLOG-POST-LIST:END -->
 
