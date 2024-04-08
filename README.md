@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Premature Optimization](https://dev.to/kalkwst/premature-optimization-47o0)
-- [How reading can make you a better developer](https://dev.to/ronaizacardoso/how-reading-can-make-you-a-better-developer-42b9)
-- [What makes a good dashboard](https://dev.to/i3b/what-makes-a-good-dashboard-m8j)
-- [What’s the Difference Between Fine-tuning, Retraining, and RAG?](https://dev.to/mindsdb/whats-the-difference-between-fine-tuning-retraining-and-rag-3ao0)
+- [Building Llama as a Service &lpar;LaaS&rpar;](https://dev.to/spencerlepine/building-llama-as-a-service-laas-4eo5)
+- [Creating Custom Git Commands](https://dev.to/spencerlepine/creating-custom-git-commands-299e)
+- [Git Project Configuration With Husky and ESLint](https://dev.to/spencerlepine/git-project-configuration-with-husky-and-eslint-ib1)
+- [ManyShiba - The World&#39;s Greatest Twitter Bot](https://dev.to/spencerlepine/manyshiba-the-worlds-greatest-twitter-bot-5a70)
 <!-- BLOG-POST-LIST:END -->
 
