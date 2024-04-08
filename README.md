@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is dependency injection](https://dev.to/m__mdy__m/what-is-dependency-injection-11a6)
+- [HTML Streaming Over the Wire 🥳: A Deep Dive](https://dev.to/aralroca/html-streaming-over-the-wire-a-deep-dive-2n20)
+- [Running an Effective Agile Retrospective🔄](https://dev.to/mattlewandowski93/running-an-effective-agile-retrospective-5d4i)
 - [Building Llama as a Service &lpar;LaaS&rpar;](https://dev.to/spencerlepine/building-llama-as-a-service-laas-4eo5)
-- [Creating Custom Git Commands](https://dev.to/spencerlepine/creating-custom-git-commands-299e)
-- [Git Project Configuration With Husky and ESLint](https://dev.to/spencerlepine/git-project-configuration-with-husky-and-eslint-ib1)
-- [ManyShiba - The World&#39;s Greatest Twitter Bot](https://dev.to/spencerlepine/manyshiba-the-worlds-greatest-twitter-bot-5a70)
 <!-- BLOG-POST-LIST:END -->
 
