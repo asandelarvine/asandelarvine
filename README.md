@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fine-tuning LLM on your laptop: VRAM vs Shared Memory vs GPU Load, Performance Considerations](https://dev.to/maximsaplin/fine-tuning-llm-on-your-laptop-vram-vs-shared-memory-vs-gpu-load-performance-considerations-189c)
+- [Security : CVE-2024-3094 unauthorized remote SSH access](https://dev.to/hexfloor/security-cve-2024-3094-unauthorized-remote-ssh-access-2ml8)
 - [Top Crypto Events to Take Place in April](https://dev.to/endeo/top-crypto-events-to-take-place-in-april-1hnj)
 - [IP Address Explained in Detail! Passport to the World Wide Web? 🌐🕵️‍♂️](https://dev.to/arjuncodess/ip-address-explained-in-detail-passport-to-the-world-wide-web-3ob7)
-- [Music Monday — What are you listening to? &lpar;Favorite Album Titles Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-album-titles-edition-26lg)
-- [[Tutorial 🧹] Limit deployments to Platform.sh only when Git tagged](https://dev.to/platformsh/tutorial-limit-deployments-to-platformsh-only-when-git-tagged-2m4j)
 <!-- BLOG-POST-LIST:END -->
 
