@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-tuning LLM on your laptop: VRAM vs Shared Memory vs GPU Load, Performance Considerations](https://dev.to/maximsaplin/fine-tuning-llm-on-your-laptop-vram-vs-shared-memory-vs-gpu-load-performance-considerations-189c)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h7c)
 - [Security : CVE-2024-3094 unauthorized remote SSH access](https://dev.to/hexfloor/security-cve-2024-3094-unauthorized-remote-ssh-access-2ml8)
 - [Top Crypto Events to Take Place in April](https://dev.to/endeo/top-crypto-events-to-take-place-in-april-1hnj)
 - [IP Address Explained in Detail! Passport to the World Wide Web? 🌐🕵️‍♂️](https://dev.to/arjuncodess/ip-address-explained-in-detail-passport-to-the-world-wide-web-3ob7)
