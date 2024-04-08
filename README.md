@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatic Environment Creation from Your Git Workflow](https://dev.to/env0/automatic-environment-creation-from-your-git-workflow-5h0h)
+- [Multiple Disease Prediction System](https://dev.to/sudhanshuambastha/multiple-disease-prediction-system-hnj)
+- [Poly Disease Predictor](https://dev.to/sudhanshuambastha/poly-disease-predictor-2881)
 - [Understanding Linux Firewalld](https://dev.to/emminex/understanding-linux-firewalld-3hn5)
-- [Meme Monday](https://dev.to/ben/meme-monday-4i84)
-- [What is the Difference between &quot;sequel&quot; and &quot;SQL&quot;?](https://dev.to/annoh_karlgusta/what-is-the-difference-between-sequel-and-sql-3e7)
-- [Object Iteration ways in JavaScript](https://dev.to/fpaghar/object-iteration-ways-in-javascript-pej)
 <!-- BLOG-POST-LIST:END -->
 
