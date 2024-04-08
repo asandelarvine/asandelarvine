@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v0.9.0 release](https://dev.to/railsdesigner/rails-designer-v090-release-1na)
-- [Have You Ever Walked Away from A Job Offer?](https://dev.to/devteam/have-you-ever-walked-away-from-a-job-offer-54da)
-- [Rapid Slack app development using Slack CLI and sandboxes](https://dev.to/seratch/rapid-slack-app-development-using-slack-cli-and-sandboxes-2f6m)
-- [Falando dos Meus Últimos Meses de Estudo em Análise de Dados 🎲](https://dev.to/analaura/falando-dos-meus-ultimos-meses-de-estudo-em-analise-de-dados-dl9)
+- [How to Create a Responsive Lightbox Gallery with Thumbnails using HTML, CSS, and JavaScript](https://dev.to/chiboy_001/how-to-create-a-responsive-lightbox-gallery-with-thumbnails-using-html-css-and-javascript-4d2h)
+- [Easiest Explanation of DOM, Even a 6 year old can understand](https://dev.to/shubhsharma19/easiest-explanation-of-dom-even-a-6-year-old-can-understand-3njl)
+- [Creating an animated loading spinner with pure CSS](https://dev.to/peboy/creating-an-animated-loading-spinner-with-pure-css-24h0)
+- [How to create a set of tabs with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-set-of-tabs-with-tailwind-css-and-alpinejs-8kd)
 <!-- BLOG-POST-LIST:END -->
 
