@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Roundup 047 &lpar;Apr 01&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-047-apr-01-hot-topics-in-workplace-sharepoint-and-powerplatform-4855)
-- [React Query State Management](https://dev.to/syedmuhammadaliraza/react-query-state-management-3jo1)
-- [How to Create a Responsive Lightbox Gallery with Thumbnails using HTML, CSS, and JavaScript](https://dev.to/chiboy_001/how-to-create-a-responsive-lightbox-gallery-with-thumbnails-using-html-css-and-javascript-4d2h)
-- [Easiest Explanation of DOM, Even a 6 year old can understand](https://dev.to/shubhsharma19/easiest-explanation-of-dom-even-a-6-year-old-can-understand-3njl)
+- [🎣 Reeling in React Hooks](https://dev.to/sh20raj/reeling-in-react-hooks-6lj)
+- [React Hooks 🎣](https://dev.to/sh20raj/reeling-in-react-hooks-18e)
+- [How API7 Gateway Overcomes Exceptions with High Availability Strategies](https://dev.to/api7/how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5)
+- [Mastering Python iteration: Loops and the magic of list comprehensions](https://dev.to/mercykiria/mastering-python-iteration-loops-and-the-magic-of-list-comprehensions-7fp)
 <!-- BLOG-POST-LIST:END -->
 
