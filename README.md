@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is jsdelivr is made on Netlify](https://dev.to/sh20raj/is-jsdelivr-is-made-on-netlify-4dmo)
-- [How to create Custom Events in JavaScript?](https://dev.to/madhusaini22/how-to-create-custom-events-in-javascript-10j2)
-- [Add rate limits to NextJS APIs](https://dev.to/sh20raj/add-rate-limits-to-nextjs-apis-35ma)
-- [Construindo um web server em Assembly x86, parte I, introdução](https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-i-introducao-14p5)
+- [Learn Generative AI for Free [E-Book]!](https://dev.to/pavanbelagatti/learn-generative-ai-for-free-e-book-9k1)
+- [Run Bun! Command Guide](https://dev.to/imparth/run-bun-npm-yarn-and-bun-commands-16e6)
+- [Next js Data Caching](https://dev.to/syedmuhammadaliraza/next-js-data-caching-3a02)
+- [Static site generation using Astro](https://dev.to/codeparrot/static-site-generation-using-astrojs-345j)
 <!-- BLOG-POST-LIST:END -->
 
