@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Toronto Tokyo logo](https://dev.to/danidanioner10mi1/toronto-tokyo-logo-57o7)
+- [The #1 mistake developers make about being too technical](https://dev.to/urielbitton/the-1-mistake-developers-make-about-being-too-technical-15il)
+- [O Básico Sobre Blockchains Layer-2](https://dev.to/bahiadevs/o-basico-sobre-blockchains-layer-2-m8p)
 - [Langkah-Langkah Cara Instal PHP 8.3 di Linux](https://dev.to/risekucom/langkah-langkah-cara-instal-php-83-di-linux-d4)
-- [Adding Vercel analytics to your static Astro site](https://dev.to/sporter/adding-vercel-analytics-to-your-static-astro-site-1eob)
-- [What is dependency injection](https://dev.to/m__mdy__m/what-is-dependency-injection-11a6)
-- [Lessons from open-source: Use window.trustedTypes to prevent DOM XSS.](https://dev.to/ramunarasinga/lessons-from-open-source-use-windowtrustedtypes-to-prevent-dom-xss-a5a)
 <!-- BLOG-POST-LIST:END -->
 
