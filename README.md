@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🎨 Form Input Wave Animation | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/form-input-wave-animation-css-javascript-3cb0)
 - [Hoje tem Flamengo! no conky](https://dev.to/evertontenorio/hoje-tem-flamengo-no-conky-3p2d)
 - [All in One AI App with Cloudflare Pages](https://dev.to/shaileshofficial2019/all-in-one-ai-app-with-cloudflare-pages-43c3)
 - [Open Source: Redis License Change and Rebranding](https://dev.to/bascodes/open-source-redis-license-change-and-rebranding-4254)
-- [Understanding of Python Lists](https://dev.to/shaheryaryousaf/understanding-of-python-lists-e14)
 <!-- BLOG-POST-LIST:END -->
 
