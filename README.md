@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A prisma.schema for an advance Social Media Website](https://dev.to/sh20raj/a-prismaschema-for-an-advance-social-media-website-24l9)
-- [TanStack Router: Nesting &amp; 404 pages](https://dev.to/this-is-learning/tanstack-router-nesting-404-pages-36f9)
-- [Mastering Tailwind CSS Customization](https://dev.to/mario130/mastering-tailwind-css-customization-j5c)
-- [🎨 Form Input Wave Animation | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/form-input-wave-animation-css-javascript-3cb0)
+- [The Risks of Artificial Intelligence: Navigating the Challenges of an AI-Driven Future](https://dev.to/atlasreport/the-risks-of-artificial-intelligence-navigating-the-challenges-of-an-ai-driven-future-2o91)
+- [.NET Monthly Roundup - March 2024 - .NET 9 Preview 2, Smart Components, AI fun, and more!](https://dev.to/dotnet/net-monthly-roundup-march-2024-net-9-preview-2-smart-components-ai-fun-and-more-2iha)
+- [Participating in The Collab Lab: Wrapping up](https://dev.to/vivitt/participating-in-the-collab-lab-wrapping-up-2bmf)
+- [Start with Python Dictionaries](https://dev.to/shaheryaryousaf/start-with-python-dictionaries-ihj)
 <!-- BLOG-POST-LIST:END -->
 
