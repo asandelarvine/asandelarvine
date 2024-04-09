@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Langkah-Langkah Cara Instal PHP 8.3 di Linux](https://dev.to/risekucom/langkah-langkah-cara-instal-php-83-di-linux-d4)
+- [Adding Vercel analytics to your static Astro site](https://dev.to/sporter/adding-vercel-analytics-to-your-static-astro-site-1eob)
 - [What is dependency injection](https://dev.to/m__mdy__m/what-is-dependency-injection-11a6)
-- [HTML Streaming Over the Wire 🥳: A Deep Dive](https://dev.to/aralroca/html-streaming-over-the-wire-a-deep-dive-2n20)
-- [Running an Effective Agile Retrospective🔄](https://dev.to/mattlewandowski93/running-an-effective-agile-retrospective-5d4i)
-- [Building Llama as a Service &lpar;LaaS&rpar;](https://dev.to/spencerlepine/building-llama-as-a-service-laas-4eo5)
+- [Lessons from open-source: Use window.trustedTypes to prevent DOM XSS.](https://dev.to/ramunarasinga/lessons-from-open-source-use-windowtrustedtypes-to-prevent-dom-xss-a5a)
 <!-- BLOG-POST-LIST:END -->
 
