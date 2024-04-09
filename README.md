@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Add rate limits to NextJS APIs](https://dev.to/sh20raj/add-rate-limits-to-nextjs-apis-35ma)
+- [Construindo um web server em Assembly x86, parte I, introdução](https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-i-introducao-14p5)
+- [9章6](https://dev.to/aaattt/9zhang-6-4fh4)
 - [Toronto Tokyo logo](https://dev.to/danidanioner10mi1/toronto-tokyo-logo-57o7)
-- [The #1 mistake developers make about being too technical](https://dev.to/urielbitton/the-1-mistake-developers-make-about-being-too-technical-15il)
-- [O Básico Sobre Blockchains Layer-2](https://dev.to/bahiadevs/o-basico-sobre-blockchains-layer-2-m8p)
-- [Langkah-Langkah Cara Instal PHP 8.3 di Linux](https://dev.to/risekucom/langkah-langkah-cara-instal-php-83-di-linux-d4)
 <!-- BLOG-POST-LIST:END -->
 
