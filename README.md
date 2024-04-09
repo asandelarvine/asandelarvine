@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Security to the Forefront of DevOps: The Power of Threat Intelligence Integration](https://dev.to/leandro_nnz/bringing-security-to-the-forefront-of-devops-the-power-of-threat-intelligence-integration-32om)
-- [How to Secure HLS &amp; DASH Streams in Ant Media](https://dev.to/ugacomp/how-to-secure-hls-dash-streams-in-ant-media-42cb)
-- [Spring Data JPA: About Specification interface](https://dev.to/saladlam/spring-data-jpa-about-specification-interface-56ed)
-- [unsupported ambiguity between helper and component](https://dev.to/nullvoxpopuli/unsupported-ambiguity-between-helper-and-component-3mgc)
+- [PostgreSQL or MySQL: What Should I Choose for My Full-Stack Project?](https://dev.to/digitalpollution/postgresql-or-mysql-what-should-i-choose-for-my-full-stack-project-4h2k)
+- [DevLog #7 - Pair Programming in XP](https://dev.to/amilarangana/devlog-7-pair-programming-in-xp-53d5)
+- [Choose Your Own AIdventure - A CloudFlare Challenge](https://dev.to/phalkmin/choose-your-own-aidventure-a-cloudflare-challenge-28nf)
+- [Zed and AI will save us millions... and you might soon lose your job](https://dev.to/huly/zed-and-ai-will-save-us-millions-1n55)
 <!-- BLOG-POST-LIST:END -->
 
