@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Risks of Artificial Intelligence: Navigating the Challenges of an AI-Driven Future](https://dev.to/atlasreport/the-risks-of-artificial-intelligence-navigating-the-challenges-of-an-ai-driven-future-2o91)
-- [.NET Monthly Roundup - March 2024 - .NET 9 Preview 2, Smart Components, AI fun, and more!](https://dev.to/dotnet/net-monthly-roundup-march-2024-net-9-preview-2-smart-components-ai-fun-and-more-2iha)
-- [Participating in The Collab Lab: Wrapping up](https://dev.to/vivitt/participating-in-the-collab-lab-wrapping-up-2bmf)
-- [Start with Python Dictionaries](https://dev.to/shaheryaryousaf/start-with-python-dictionaries-ihj)
+- [Crafting Unforgettable Digital Experiences, One Project at a Time](https://dev.to/seeratawan01/crafting-unforgettable-digital-experiences-one-project-at-a-time-47af)
+- [Share the Love and Earn Some Badges! ❤️](https://dev.to/devteam/share-the-love-and-earn-some-badges-55hf)
+- [ReductStore CLI Client now in Rust](https://dev.to/reductstore/reductstore-cli-client-now-in-rust-4707)
+- [Code a 2-layer Neural Network from Scratch](https://dev.to/hoangng/code-a-2-layer-neural-network-from-scratch-1hki)
 <!-- BLOG-POST-LIST:END -->
 
