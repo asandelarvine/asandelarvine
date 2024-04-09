@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Unforgettable Digital Experiences, One Project at a Time](https://dev.to/seeratawan01/crafting-unforgettable-digital-experiences-one-project-at-a-time-47af)
-- [Share the Love and Earn Some Badges! ❤️](https://dev.to/devteam/share-the-love-and-earn-some-badges-55hf)
-- [ReductStore CLI Client now in Rust](https://dev.to/reductstore/reductstore-cli-client-now-in-rust-4707)
-- [Code a 2-layer Neural Network from Scratch](https://dev.to/hoangng/code-a-2-layer-neural-network-from-scratch-1hki)
+- [Bringing Security to the Forefront of DevOps: The Power of Threat Intelligence Integration](https://dev.to/leandro_nnz/bringing-security-to-the-forefront-of-devops-the-power-of-threat-intelligence-integration-32om)
+- [How to Secure HLS &amp; DASH Streams in Ant Media](https://dev.to/ugacomp/how-to-secure-hls-dash-streams-in-ant-media-42cb)
+- [Spring Data JPA: About Specification interface](https://dev.to/saladlam/spring-data-jpa-about-specification-interface-56ed)
+- [unsupported ambiguity between helper and component](https://dev.to/nullvoxpopuli/unsupported-ambiguity-between-helper-and-component-3mgc)
 <!-- BLOG-POST-LIST:END -->
 
