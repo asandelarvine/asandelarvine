@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🧙‍♂️ Tutorial Typescript para Iniciantes](https://dev.to/magoacademico/tutorial-typescript-para-iniciantes-1fj4)
 - [Wealthy? Or WELLthy?](https://dev.to/devteam/wealthy-or-wellthy-2h8)
 - [Web Performance Optimization Techniques](https://dev.to/rounit08/web-performance-optimization-techniques-1n9h)
 - [Exploring Microsoft Whiteboard&#39;s Copilot Function](https://dev.to/jaloplo/exploring-microsoft-whiteboards-copilot-function-1gen)
-- [The Merits &amp; Demerits of Selenium Automation Testing](https://dev.to/grjoeay/the-merits-demerits-of-selenium-automation-testing-5amn)
 <!-- BLOG-POST-LIST:END -->
 
