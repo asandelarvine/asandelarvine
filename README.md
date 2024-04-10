@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Controlled and Uncontrolled components in react](https://dev.to/vishnusatheesh/controlled-and-uncontrolled-components-in-react-1me4)
-- [As a Developer, Sometimes You Should Play the Role of a Tester](https://dev.to/doantrongnam/as-a-developer-sometimes-you-should-play-the-role-of-a-tester-247h)
-- [Kafka vs. RabbitMQ: Which is the Right Messaging Broker for your use case?](https://dev.to/yogini16/kafka-vs-rabbitmq-which-is-the-right-messaging-broker-for-your-use-case-39de)
-- [Azure Managed Identities: No more secrets](https://dev.to/programmeral/azure-managed-identities-no-more-secrets-19cc)
+- [How Do You Lead without Authority?](https://dev.to/devteam/how-do-you-lead-without-authority-514a)
+- [Crafting Fast and Reliable Web Experiences with Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/abhilaksharora/crafting-fast-and-reliable-web-experiences-with-progressive-web-apps-pwas-53ee)
+- [１０章7](https://dev.to/aaattt/10zhang-7-5b3e)
+- [What is JavaScript](https://dev.to/shivamblog/introduction-to-javascript-3fc5)
 <!-- BLOG-POST-LIST:END -->
 
