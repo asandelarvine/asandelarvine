@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Recent Rust Security Advisory: CVE-2024-24576](https://dev.to/crabnebula/recent-rust-security-advisory-cve-2024-24576-45i5)
+- [Kick Start Your Next Project With Holo Theme](https://dev.to/lilxyzz/kick-start-your-next-project-with-holo-theme-26a4)
+- [You can’t run away from runtime errors using TypeScript](https://dev.to/miguelo0098/you-cant-run-away-from-runtime-errors-using-typescript-2l9k)
 - [What&#39;s New in API7 Enterprise 3.2.9: Custom Plugin Management](https://dev.to/api7/whats-new-in-api7-enterprise-329-custom-plugin-management-4bgl)
-- [The wrappers for your Components: Pages 📃](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
-- [Pull Request Stacking](https://dev.to/gearoidotreasaigh/pull-request-stacking-3n88)
-- [Code of game engine written in Java: what does it hide?](https://dev.to/anogneva/code-of-game-engine-written-in-java-what-does-it-hide-5cf8)
 <!-- BLOG-POST-LIST:END -->
 
