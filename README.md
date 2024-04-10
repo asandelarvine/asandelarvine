@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from open-source: try..catch&lpar;_&rpar;?](https://dev.to/ramunarasinga/lessons-from-open-source-trycatch-59hj)
+- [Deploy Laravel API To AWS Lambda](https://dev.to/danielcristho/deploy-laravel-api-to-aws-lambda-2227)
 - [Ace Your Next Sprint Planning with This Step-by-Step Guide to Planning Poker 🃏](https://dev.to/mattlewandowski93/ace-your-next-sprint-planning-with-this-step-by-step-guide-to-planning-poker-39e7)
 - [Effective JavaScript Debugging Techniques](https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf)
-- [Efficiently Testing Asynchronous React Hooks with Vitest](https://dev.to/poly4/efficiently-testing-asynchronous-react-hooks-with-vitest-1hll)
-- [How to deploy a Ktor app on Railway](https://dev.to/coltonidle/how-to-deploy-a-ktor-app-on-railway-3jde)
 <!-- BLOG-POST-LIST:END -->
 
