@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML: A Comprehensive Guide - Chapter One](https://dev.to/schalkneethling/html-a-comprehensive-guide-chapter-one-pfg)
-- [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
-- [RESTful APIs with Laravel: Best Practices](https://dev.to/mikevarenek/restful-apis-with-laravel-best-practices-811)
-- [8 SaaS Ideas You Can Start Today](https://dev.to/domfive/8-saas-ideas-you-can-start-today-fl6)
+- [Why Coding is Scary and How To Learn Better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-4i25)
+- [XValidatorX: A Lightweight Validation Library for JavaScript](https://dev.to/sh20raj/xvalidatorx-a-lightweight-validation-library-for-javascript-2c59)
+- [Getting Started with MongoDB: A Beginner&#39;s Guide](https://dev.to/tirthraval1999/getting-started-with-mongodb-a-beginners-guide-25g5)
+- [Empowering Web Privacy with Rust: Building a Decentralized Identity Management System](https://dev.to/zhukmax/empowering-web-privacy-with-rust-building-a-decentralized-identity-management-system-224c)
 <!-- BLOG-POST-LIST:END -->
 
