@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL or MySQL: What Should I Choose for My Full-Stack Project?](https://dev.to/digitalpollution/postgresql-or-mysql-what-should-i-choose-for-my-full-stack-project-4h2k)
-- [DevLog #7 - Pair Programming in XP](https://dev.to/amilarangana/devlog-7-pair-programming-in-xp-53d5)
-- [Choose Your Own AIdventure - A CloudFlare Challenge](https://dev.to/phalkmin/choose-your-own-aidventure-a-cloudflare-challenge-28nf)
-- [Zed and AI will save us millions... and you might soon lose your job](https://dev.to/huly/zed-and-ai-will-save-us-millions-1n55)
+- [HTML: A Comprehensive Guide - Chapter One](https://dev.to/schalkneethling/html-a-comprehensive-guide-chapter-one-pfg)
+- [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
+- [RESTful APIs with Laravel: Best Practices](https://dev.to/mikevarenek/restful-apis-with-laravel-best-practices-811)
+- [8 SaaS Ideas You Can Start Today](https://dev.to/domfive/8-saas-ideas-you-can-start-today-fl6)
 <!-- BLOG-POST-LIST:END -->
 
