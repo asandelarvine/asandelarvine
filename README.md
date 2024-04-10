@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Controlled and Uncontrolled components in react](https://dev.to/vishnusatheesh/controlled-and-uncontrolled-components-in-react-1me4)
+- [As a Developer, Sometimes You Should Play the Role of a Tester](https://dev.to/doantrongnam/as-a-developer-sometimes-you-should-play-the-role-of-a-tester-247h)
 - [Kafka vs. RabbitMQ: Which is the Right Messaging Broker for your use case?](https://dev.to/yogini16/kafka-vs-rabbitmq-which-is-the-right-messaging-broker-for-your-use-case-39de)
 - [Azure Managed Identities: No more secrets](https://dev.to/programmeral/azure-managed-identities-no-more-secrets-19cc)
-- [Why Coding is Scary and How To Learn Better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-4i25)
-- [XValidatorX: A Lightweight Validation Library for JavaScript](https://dev.to/sh20raj/xvalidatorx-a-lightweight-validation-library-for-javascript-2c59)
 <!-- BLOG-POST-LIST:END -->
 
