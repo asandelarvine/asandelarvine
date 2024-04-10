@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Lead without Authority?](https://dev.to/devteam/how-do-you-lead-without-authority-514a)
-- [Crafting Fast and Reliable Web Experiences with Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/abhilaksharora/crafting-fast-and-reliable-web-experiences-with-progressive-web-apps-pwas-53ee)
-- [１０章7](https://dev.to/aaattt/10zhang-7-5b3e)
-- [What is JavaScript](https://dev.to/shivamblog/introduction-to-javascript-3fc5)
+- [Day 22 of 30-Day .NET Challenge: Use Array Pool](https://dev.to/ssukhpinder/day-22-of-30-day-net-challenge-use-array-pool-34ha)
+- [JSON vs OBJECT in Javascript](https://dev.to/anuragaffection/json-vs-object-in-javascript-5bla)
+- [AI combined with Node.js x-crawl crawler](https://dev.to/coderhxl/ai-combined-with-nodejs-x-crawl-crawler-46d0)
+- [Best Next.js Libraries and Tools in 2024](https://dev.to/probir-sarkar/best-nextjs-libraries-and-tools-in-2024-4j4b)
 <!-- BLOG-POST-LIST:END -->
 
