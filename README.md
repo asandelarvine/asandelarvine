@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [New Beginnings](https://dev.to/jroycodes/new-beginnings-3bf7)
+- [Two ways to manage secrets for AWS Redshift Serverless with AWS Secrets Manager !!](https://dev.to/aws-builders/two-ways-to-manage-secrets-for-aws-redshift-serverless-with-aws-secrets-manager--49nn)
+- [Dasturlash tili?](https://dev.to/ozodboyeva/dasturlash-tili-57fl)
 - [Why &quot;null&quot; is an abomination](https://dev.to/almaju/why-null-is-an-abomination-2fmm)
-- [Use Notion as your CMS along with Next.js](https://dev.to/amaanmohib/use-notion-as-your-cms-along-with-nextjs-1j2m)
-- [GTK4 `dotnet new` Project Template](https://dev.to/kashifsoofi/gtk4-dotnet-new-project-template-1md5)
-- [CSS Hooks and the state of CSS-in-JS](https://dev.to/logrocket/css-hooks-and-the-state-of-css-in-js-2jk6)
 <!-- BLOG-POST-LIST:END -->
 
