@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka vs. RabbitMQ: Which is the Right Messaging Broker for your use case?](https://dev.to/yogini16/kafka-vs-rabbitmq-which-is-the-right-messaging-broker-for-your-use-case-39de)
+- [Azure Managed Identities: No more secrets](https://dev.to/programmeral/azure-managed-identities-no-more-secrets-19cc)
 - [Why Coding is Scary and How To Learn Better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-4i25)
 - [XValidatorX: A Lightweight Validation Library for JavaScript](https://dev.to/sh20raj/xvalidatorx-a-lightweight-validation-library-for-javascript-2c59)
-- [Getting Started with MongoDB: A Beginner&#39;s Guide](https://dev.to/tirthraval1999/getting-started-with-mongodb-a-beginners-guide-25g5)
-- [Empowering Web Privacy with Rust: Building a Decentralized Identity Management System](https://dev.to/zhukmax/empowering-web-privacy-with-rust-building-a-decentralized-identity-management-system-224c)
 <!-- BLOG-POST-LIST:END -->
 
