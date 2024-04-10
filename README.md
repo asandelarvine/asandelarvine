@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from Open-Source Game Projects](https://dev.to/mrsth/lessons-from-open-source-game-projects-2a38)
+- [Where Did My Traffic Go? Hint: It Wasn&#39;t an Algorithm Update](https://dev.to/daedtech/where-did-my-traffic-go-hint-it-wasnt-an-algorithm-update-588e)
+- [Top 5 fastest growing JavaScript repos](https://dev.to/wasp/top-5-fastest-growing-javascript-repos-92n)
 - [Configure Postfix to Send Email with Gmail&#39;s SMTP From the Terminal](https://dev.to/chigozieco/configure-postfix-to-send-email-with-gmails-smtp-from-the-terminal-4cco)
-- [Validate Your SaaS Idea with MVP: A Crucial Step in SaaS MVP Development](https://dev.to/cygnismedia/validate-your-saas-idea-with-mvp-a-crucial-step-in-saas-mvp-development-1o80)
-- [Step-By-Step: How To Create a Linux Virtual Machine In Azure](https://dev.to/emmamag/step-by-step-how-to-create-a-linux-virtual-machine-in-azure-5d20)
-- [Recent Rust Security Advisory: CVE-2024-24576](https://dev.to/crabnebula/recent-rust-security-advisory-cve-2024-24576-45i5)
 <!-- BLOG-POST-LIST:END -->
 
