@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recommend 12 free productivity tools! Make your work more effective with less effort!](https://dev.to/wuyasong/recommend-12-free-productivity-tools-make-your-work-more-effective-with-less-effort-4jjo)
-- [Day 22 of 30-Day .NET Challenge: Use Array Pool](https://dev.to/ssukhpinder/day-22-of-30-day-net-challenge-use-array-pool-34ha)
-- [JSON vs OBJECT in Javascript](https://dev.to/anuragaffection/json-vs-object-in-javascript-5bla)
-- [AI combined with Node.js x-crawl crawler](https://dev.to/coderhxl/ai-combined-with-nodejs-x-crawl-crawler-46d0)
+- [What&#39;s New in API7 Enterprise 3.2.9: Custom Plugin Management](https://dev.to/api7/whats-new-in-api7-enterprise-329-custom-plugin-management-4bgl)
+- [The wrappers for your Components: Pages 📃](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
+- [Pull Request Stacking](https://dev.to/gearoidotreasaigh/pull-request-stacking-3n88)
+- [Code of game engine written in Java: what does it hide?](https://dev.to/anogneva/code-of-game-engine-written-in-java-what-does-it-hide-5cf8)
 <!-- BLOG-POST-LIST:END -->
 
