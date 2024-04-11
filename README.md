@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Practical Applications of JavaScript + Tips](https://dev.to/annoh_karlgusta/7-practical-applications-of-javascript-tips-1j83)
-- [Laravel Fundamentals: A Cheat Sheet for Rapid Development](https://dev.to/mikevarenek/laravel-fundamentals-a-cheat-sheet-for-rapid-development-gd9)
-- [Agent Cloud VS OpenAI](https://dev.to/agentcloud/agent-cloud-vs-openai-fh4)
-- [Interview with Adithya, Creator of Clear](https://dev.to/crabnebula/interview-with-adithya-creator-of-clear-13ba)
+- [React Crazy: This AI library transformed my app to the next level](https://dev.to/github20k/react-crazy-this-ai-library-transformed-my-app-to-the-next-level-b4i)
+- [Crafting an Effective Resume: Free Templates and Best Practices](https://dev.to/dbillion/crafting-an-effective-resume-free-templates-and-best-practices-52bc)
+- [Toxicity in Tweets using a BERT model](https://dev.to/alvbarros/toxicity-in-tweets-using-a-bert-model-37in)
+- [OpenTofu: The Open Source Terraform Alternative](https://dev.to/env0/opentofu-the-open-source-terraform-alternative-3oml)
 <!-- BLOG-POST-LIST:END -->
 
