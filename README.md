@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Adithya, Creator of Clear](https://dev.to/crabnebula/interview-with-adithya-creator-of-clear-13ba)
+- [Send SMS Messages with Cloud Functions For Firebase Gen 2](https://dev.to/vonagedev/send-sms-messages-with-cloud-functions-for-firebase-gen-2-46an)
+- [How to build: a v0.dev clone &lpar;Next.js, GPT4 &amp; CopilotKit&rpar;](https://dev.to/dexterxt/how-to-build-a-v0dev-clone-nextjs-gpt4-copilotkit-3co)
 - [Top 10 Common Data Engineers and Scientists Pain Points in 2024](https://dev.to/bobur/top-10-common-data-engineers-and-scientists-pain-points-in-2024-3cl8)
-- [Simplified Log Collection with APISIX&#39;s http-logger Plugin](https://dev.to/apisix/simplified-log-collection-with-apisixs-http-logger-plugin-2bmm)
-- [Participating in The Collab Lab: Week #8 &amp; #9](https://dev.to/vivitt/participating-in-the-collab-lab-week-8-9-2aci)
-- [Next.js App Router SEO overview](https://dev.to/focusreactive/nextjs-app-router-seo-overview-ba8)
 <!-- BLOG-POST-LIST:END -->
 
