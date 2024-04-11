@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Expense journal with Cloudflare AI](https://dev.to/lyqht/expense-journal-with-cloudflare-ai-5f05)
-- [Number Line Jumps](https://dev.to/kecbm/number-line-jumps-1ig)
-- [Celebrating One Year Working on Axelar: Building the Interoperability Future](https://dev.to/olanetsoft/celebrating-one-year-working-on-axelar-building-the-interoperability-future-42ki)
-- [Umami: Best free Go-To Google Analytics Alternative](https://dev.to/basskibo/umami-best-free-go-to-google-analytics-alternative-1gg8)
+- [Try to explain the Array with lockers](https://dev.to/untilyou58/try-to-explain-the-array-with-lockers-3ojc)
+- [Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
+- [What I learned from 29 Days of OSS Alternatives](https://dev.to/opensauced/what-i-learned-from-29-days-of-oss-alternatives-1ca5)
+- [01 - Journey into Backend Engineering: Exploring the Core Components &amp; Concepts](https://dev.to/louaiboumediene/01-journey-into-backend-engineering-exploring-the-core-components-concepts-2a15)
 <!-- BLOG-POST-LIST:END -->
 
