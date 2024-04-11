@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Slots in Rails&#39; ViewComponent](https://dev.to/railsdesigner/guide-to-slots-in-rails-viewcomponent-19j6)
-- [11 Planetscale alternatives with free tiers](https://dev.to/logrocket/11-planetscale-alternatives-with-free-tiers-29o1)
-- [Automating Testing in Next.js: Ensuring Code Integrity with Jest and GitHub Actions](https://dev.to/afraz33/automating-testing-in-nextjs-ensuring-code-integrity-with-jest-and-github-actions-3bbe)
-- [Securing Your Web Application with AWS WAF and AWS Shield](https://dev.to/8carroll/securing-your-web-application-with-aws-waf-and-aws-shield-38j7)
+- [How to use Lefthooks in your node project?](https://dev.to/ajithklepsydra/how-to-use-lefthooks-in-your-node-project-3i83)
+- [Title: Effective Error Handling Strategies in Java](https://dev.to/dbillion/title-effective-error-handling-strategies-in-java-2k38)
+- [First Post](https://dev.to/eyelov3pussi/first-post-33dl)
+- [A Markdown Blog &lpar; Node.js, Express, And MongoDB &rpar;](https://dev.to/tmrifat87/a-markdown-blog-nodejs-express-and-mongodb--3gfb)
 <!-- BLOG-POST-LIST:END -->
 
