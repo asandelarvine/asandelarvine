@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips from open-source: Use “Set” to remove duplicates from an array.](https://dev.to/ramunarasinga/tips-from-open-source-use-set-to-remove-duplicates-from-an-array-3ao5)
-- [すでにプッシュした場合](https://dev.to/aaattt/sudeniputusiyusitachang-he-48jk)
-- [Can Artificial Intelligence Achieve Consciousness? Exploring the Frontier of AI and Philosophy](https://dev.to/pmobit/can-artificial-intelligence-achieve-consciousness-exploring-the-frontier-of-ai-and-philosophy-3aon)
-- [Githubにプッシュすべきでないファイル&lpar;ChatGPT4の回答&rpar;](https://dev.to/aaattt/githubniputusiyusubekidenaihuairuchatgpt4nohui-da--51oh)
+- [The Power of Anonymous Planning Poker 🫣](https://dev.to/mattlewandowski93/the-power-of-anonymous-planning-poker-2ab2)
+- [Advancing LLM Reasoning Generalists with Preference Trees](https://dev.to/mikeyoung44/advancing-llm-reasoning-generalists-with-preference-trees-1p3h)
+- [MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning](https://dev.to/mikeyoung44/mathsensei-a-tool-augmented-large-language-model-for-mathematical-reasoning-5a00)
+- [PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits](https://dev.to/mikeyoung44/personallm-investigating-the-ability-of-large-language-models-to-express-personality-traits-2a6o)
 <!-- BLOG-POST-LIST:END -->
 
