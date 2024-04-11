@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from open-source: try..catch&lpar;_&rpar;?](https://dev.to/ramunarasinga/lessons-from-open-source-trycatch-59hj)
-- [Deploy Laravel API To AWS Lambda](https://dev.to/danielcristho/deploy-laravel-api-to-aws-lambda-2227)
-- [Ace Your Next Sprint Planning with This Step-by-Step Guide to Planning Poker 🃏](https://dev.to/mattlewandowski93/ace-your-next-sprint-planning-with-this-step-by-step-guide-to-planning-poker-39e7)
-- [Effective JavaScript Debugging Techniques](https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf)
+- [Left and Right Shift: Bitwise Operators in Python](https://dev.to/muuviana/left-and-right-shift-bitwise-operators-in-python-4j9f)
+- [Run a Linux Distro in your Android device](https://dev.to/emasuriano/run-a-linux-distro-in-your-android-device-3fnd)
+- [Don&#39;t &quot;Trust&quot; GitHub Code Just Because It&#39;s Got Lots Of Stars](https://dev.to/rossli/dont-trust-github-code-just-because-its-got-lots-of-stars-533b)
+- [What Will You Choose?](https://dev.to/stephrp12/what-will-you-choose-2be4)
 <!-- BLOG-POST-LIST:END -->
 
