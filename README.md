@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Anonymous Planning Poker 🫣](https://dev.to/mattlewandowski93/the-power-of-anonymous-planning-poker-2ab2)
-- [Advancing LLM Reasoning Generalists with Preference Trees](https://dev.to/mikeyoung44/advancing-llm-reasoning-generalists-with-preference-trees-1p3h)
-- [MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning](https://dev.to/mikeyoung44/mathsensei-a-tool-augmented-large-language-model-for-mathematical-reasoning-5a00)
-- [PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits](https://dev.to/mikeyoung44/personallm-investigating-the-ability-of-large-language-models-to-express-personality-traits-2a6o)
+- [Building Container Images Securely on AWS EKS with Kaniko](https://dev.to/marocz/building-container-images-securely-on-aws-eks-with-kaniko-153n)
+- [Item 28: Prefira as listas aos arrays](https://dev.to/giselecoder/item-28-prefira-as-listas-aos-arrays-2003)
+- [How to Create and Use Requirements.txt in Python](https://dev.to/wesleybertipaglia/how-to-create-and-use-requirementstxt-in-python-19g7)
+- [Unit Testing LLMs with DeepEval](https://dev.to/shannonlal/unit-testing-llms-with-deepeval-4ljl)
 <!-- BLOG-POST-LIST:END -->
 
