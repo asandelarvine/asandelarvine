@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Multicolored Star Rating Card Component](https://dev.to/sarahokolo/creating-a-multicolored-star-rating-card-component-2m4j)
+- [Sloan&#39;s Inbox: How important is understanding backend as a website designer?](https://dev.to/devteam/sloans-inbox-how-important-is-understanding-backend-as-a-website-designer-3l6h)
+- [Optimizing Travel Routes: Applying Genetic Algorithms to the Traveling Salesman Problem](https://dev.to/andersbjorkland/optimizing-travel-routes-applying-genetic-algorithms-to-the-traveling-salesman-problem-1jn6)
 - [React Crazy: This AI library transformed my app to the next level](https://dev.to/github20k/react-crazy-this-ai-library-transformed-my-app-to-the-next-level-b4i)
-- [Crafting an Effective Resume: Free Templates and Best Practices](https://dev.to/dbillion/crafting-an-effective-resume-free-templates-and-best-practices-52bc)
-- [Toxicity in Tweets using a BERT model](https://dev.to/alvbarros/toxicity-in-tweets-using-a-bert-model-37in)
-- [OpenTofu: The Open Source Terraform Alternative](https://dev.to/env0/opentofu-the-open-source-terraform-alternative-3oml)
 <!-- BLOG-POST-LIST:END -->
 
