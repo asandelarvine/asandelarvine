@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Practical Applications of JavaScript + Tips](https://dev.to/annoh_karlgusta/7-practical-applications-of-javascript-tips-1j83)
+- [Laravel Fundamentals: A Cheat Sheet for Rapid Development](https://dev.to/mikevarenek/laravel-fundamentals-a-cheat-sheet-for-rapid-development-gd9)
+- [Agent Cloud VS OpenAI](https://dev.to/agentcloud/agent-cloud-vs-openai-fh4)
 - [Interview with Adithya, Creator of Clear](https://dev.to/crabnebula/interview-with-adithya-creator-of-clear-13ba)
-- [Send SMS Messages with Cloud Functions For Firebase Gen 2](https://dev.to/vonagedev/send-sms-messages-with-cloud-functions-for-firebase-gen-2-46an)
-- [How to build: a v0.dev clone &lpar;Next.js, GPT4 &amp; CopilotKit&rpar;](https://dev.to/dexterxt/how-to-build-a-v0dev-clone-nextjs-gpt4-copilotkit-3co)
-- [Top 10 Common Data Engineers and Scientists Pain Points in 2024](https://dev.to/bobur/top-10-common-data-engineers-and-scientists-pain-points-in-2024-3cl8)
 <!-- BLOG-POST-LIST:END -->
 
