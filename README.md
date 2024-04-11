@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving the Accuracy-Robustness Trade-Off of Classifiers via Adaptive Smoothing](https://dev.to/mikeyoung44/improving-the-accuracy-robustness-trade-off-of-classifiers-via-adaptive-smoothing-2p9h)
-- [JavaScript Challenge: What would be your solution to this challenge? 🥷🏻🧩](https://dev.to/renancferro/javascript-challenge-what-would-be-your-solution-to-this-challenge-375m)
-- [Setup and use Python Venv](https://dev.to/wesleybertipaglia/how-to-use-python-venv-j8m)
-- [Enable Microsoft Print to PDF in Windows 11?](https://dev.to/winsidescom/enable-microsoft-print-to-pdf-in-windows-11-1j1d)
+- [Tips from open-source: Use “Set” to remove duplicates from an array.](https://dev.to/ramunarasinga/tips-from-open-source-use-set-to-remove-duplicates-from-an-array-3ao5)
+- [すでにプッシュした場合](https://dev.to/aaattt/sudeniputusiyusitachang-he-48jk)
+- [Can Artificial Intelligence Achieve Consciousness? Exploring the Frontier of AI and Philosophy](https://dev.to/pmobit/can-artificial-intelligence-achieve-consciousness-exploring-the-frontier-of-ai-and-philosophy-3aon)
+- [Githubにプッシュすべきでないファイル&lpar;ChatGPT4の回答&rpar;](https://dev.to/aaattt/githubniputusiyusubekidenaihuairuchatgpt4nohui-da--51oh)
 <!-- BLOG-POST-LIST:END -->
 
