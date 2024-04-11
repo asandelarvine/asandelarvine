@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the Idempotency-Key specification on Apache APISIX](https://dev.to/apisix/implementing-the-idempotency-key-specification-on-apache-apisix-196m)
+- [How to Calculate Median on Values That Have Corresponding Quantities](https://dev.to/esproc_spl/how-to-calculate-median-on-values-that-have-corresponding-quantities-304l)
+- [Configuring robots.txt for Better Indexation and SEO Score](https://dev.to/focusreactive/configuring-robotstxt-for-better-indexation-and-seo-score-3fhk)
 - [Top 8 Best Visual Studio Extensions in 2024](https://dev.to/bytehide/top-8-best-visual-studio-extensions-in-2024-5174)
-- [Simplify Your Development Workflow: How to Deploy PostgreSQL Using Docker](https://dev.to/dbvismarketing/simplify-your-development-workflow-how-to-deploy-postgresql-using-docker-2goa)
-- [Options for passwordless authentication in Django apps](https://dev.to/honeybadger/options-for-passwordless-authentication-in-django-apps-32hm)
-- [Are You Ready for These JavaScript Interview Puzzles?](https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8)
 <!-- BLOG-POST-LIST:END -->
 
