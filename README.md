@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MVC: The Linchpin Architecture of Ruby on Rails](https://dev.to/lsfernandes92/mvc-the-linchpin-architecture-of-ruby-on-rails-3hi3)
-- [Understanding JavaScript Promises](https://dev.to/unegbuclinton/understanding-javascript-promises-43c3)
-- [Symfony can help you fall in love with your front-end team!](https://dev.to/webmamba/symfony-can-help-you-fall-in-love-with-your-front-end-team-4dak)
-- [Clever CSS Hacks for Everyday Problems](https://dev.to/jenniferchuks/clever-css-hacks-for-everyday-problems-286i)
+- [Guide to Slots in Rails&#39; ViewComponent](https://dev.to/railsdesigner/guide-to-slots-in-rails-viewcomponent-19j6)
+- [11 Planetscale alternatives with free tiers](https://dev.to/logrocket/11-planetscale-alternatives-with-free-tiers-29o1)
+- [Automating Testing in Next.js: Ensuring Code Integrity with Jest and GitHub Actions](https://dev.to/afraz33/automating-testing-in-nextjs-ensuring-code-integrity-with-jest-and-github-actions-3bbe)
+- [Securing Your Web Application with AWS WAF and AWS Shield](https://dev.to/8carroll/securing-your-web-application-with-aws-waf-and-aws-shield-38j7)
 <!-- BLOG-POST-LIST:END -->
 
