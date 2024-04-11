@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Mojo CSS: A Developer’s Guide](https://dev.to/codeparrot/exploring-mojo-css-a-developers-guide-hhn)
-- [The self-inflicted pain of premature abstractions](https://dev.to/moozzyk/the-self-inflicted-pain-of-premature-abstractions-1549)
-- [Easy Guide to Becoming a Software Developer in 2024](https://dev.to/hamidulislam/easy-guide-to-becoming-a-software-developer-in-2024-4m1g)
-- [How To Implement AWS SSB Controls in Terraform - Part 4](https://dev.to/aws-builders/how-to-implement-aws-ssb-controls-in-terraform-part-4-3bl3)
+- [WebAuthn Guide for MySQL, PostgreSQL, SQLite &amp; MongoDB](https://dev.to/corbado/webauthn-guide-for-mysql-postgresql-sqlite-mongodb-5h48)
+- [Options for passwordless authentication in Django apps](https://dev.to/honeybadger/options-for-passwordless-authentication-in-django-apps-32hm)
+- [Are You Ready for These JavaScript Interview Puzzles?](https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8)
+- [Simplify Your Development Workflow: How to Deploy PostgreSQL Using Docker](https://dev.to/dbvismarketing/simplify-your-development-workflow-how-to-deploy-postgresql-using-docker-2goa)
 <!-- BLOG-POST-LIST:END -->
 
