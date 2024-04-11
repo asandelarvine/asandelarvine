@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Multicolored Star Rating Card Component](https://dev.to/sarahokolo/creating-a-multicolored-star-rating-card-component-2m4j)
-- [Sloan&#39;s Inbox: How important is understanding backend as a website designer?](https://dev.to/devteam/sloans-inbox-how-important-is-understanding-backend-as-a-website-designer-3l6h)
-- [Optimizing Travel Routes: Applying Genetic Algorithms to the Traveling Salesman Problem](https://dev.to/andersbjorkland/optimizing-travel-routes-applying-genetic-algorithms-to-the-traveling-salesman-problem-1jn6)
-- [React Crazy: This AI library transformed my app to the next level](https://dev.to/github20k/react-crazy-this-ai-library-transformed-my-app-to-the-next-level-b4i)
+- [Expense journal with Cloudflare AI](https://dev.to/lyqht/expense-journal-with-cloudflare-ai-5f05)
+- [Number Line Jumps](https://dev.to/kecbm/number-line-jumps-1ig)
+- [Celebrating One Year Working on Axelar: Building the Interoperability Future](https://dev.to/olanetsoft/celebrating-one-year-working-on-axelar-building-the-interoperability-future-42ki)
+- [Umami: Best free Go-To Google Analytics Alternative](https://dev.to/basskibo/umami-best-free-go-to-google-analytics-alternative-1gg8)
 <!-- BLOG-POST-LIST:END -->
 
