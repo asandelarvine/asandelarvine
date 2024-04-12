@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47f5)
-- [node js client hangs on connection to redis cluster when master changes](https://dev.to/subpod/node-js-client-hangs-on-connection-to-redis-cluster-when-master-changes-bli)
-- [How Jira ITSM Empowers Remote Workflow | ITSM Insight](https://dev.to/assetitapp/how-jira-itsm-empowers-remote-workflow-itsm-insight-inh)
-- [New hydration errors mismatch messages](https://dev.to/tarvald/new-hydration-errors-mismatch-messages-5fh6)
+- [NinjaBootstrap UI - A Pragmatic Approach To Bootstrap Reusable HTML Components](https://dev.to/giovapanasiti/ninjabootstrap-ui-a-pragmatic-approach-to-bootstrap-reusable-html-components-43ma)
+- [Elevate Your Testing Skills: Advanced API Functional Testing Methods](https://dev.to/satokenta/elevate-your-testing-skills-advanced-api-functional-testing-methods-2a4a)
+- [Creating functions in JavaScript - Part 3](https://dev.to/dindustack/create-a-javascript-function-part-3-5871)
+- [Build Your Slot Machine Game with Simple HTML Code!](https://dev.to/aistechonlabs/build-your-slot-machine-game-with-simple-html-code-30ed)
 <!-- BLOG-POST-LIST:END -->
 
