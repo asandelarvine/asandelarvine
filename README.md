@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Building Your First Flutter App](https://dev.to/angelinajasper/a-beginners-guide-to-building-your-first-flutter-app-1fhp)
-- [Dino hack](https://dev.to/r4nd3l/dino-hack-4i62)
-- [Protect API Gateway with Amazon Verified Permissions](https://dev.to/aws-builders/protect-api-gateway-with-amazon-verified-permissions-3785)
-- [Guide: How to route Docker logs correctly in New Relic](https://dev.to/newrelic/guide-how-to-route-docker-logs-correctly-in-new-relic-iid)
+- [is 0 !== null in Javascript - JavaScript Quirks: Tricky Equality Questions! 💡](https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac)
+- [Unlocking Growth: A Small Business Guide to Mastering Data Analytics](https://dev.to/tarak/unlocking-growth-a-small-business-guide-to-mastering-data-analytics-5cde)
+- [How Not to Kill Motivation](https://dev.to/devteam/how-not-to-kill-motivation-k6i)
+- [WebAuthn E2E Testing: Playwright, Selenium, Puppeteer](https://dev.to/corbado/webauthn-e2e-testing-playwright-selenium-puppeteer-54)
 <!-- BLOG-POST-LIST:END -->
 
