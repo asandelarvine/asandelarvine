@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Optimization](https://dev.to/syedmuhammadaliraza/nextjs-optimization-n5f)
-- [Working on Github](https://dev.to/kudratswe/working-on-github-1olb)
-- [React Monorepo Setup Tutorial with pnpm and Vite: React project + UI, Utils](https://dev.to/lico/react-monorepo-setup-tutorial-with-pnpm-and-vite-react-project-ui-utils-5705)
-- [Scaling Bitcoin with Lightning Network](https://dev.to/epakconsultant/scaling-bitcoin-with-lightning-network-23i3)
+- [Private AI Document Redaction API available on Eden AI](https://dev.to/edenai/private-ai-document-redaction-api-available-on-eden-ai-53ea)
+- [XRP Ledger AMM Bug Fix Now Integrated: A Detailed Analysis](https://dev.to/ripplexdev/xrp-ledger-amm-bug-fix-now-integrated-a-detailed-analysis-4915)
+- [Crypto Payment Systems](https://dev.to/epakconsultant/crypto-payment-systems-e0l)
+- [Jina AI Text Embeddings solution on Eden AI](https://dev.to/edenai/jina-ai-text-embeddings-solution-on-eden-ai-47kk)
 <!-- BLOG-POST-LIST:END -->
 
