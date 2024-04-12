@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Examples Of Composition In C# – A Simple Guide For Beginners](https://dev.to/devleader/examples-of-composition-in-c-a-simple-guide-for-beginners-2pc4)
-- [Data Privacy in API Integrations](https://dev.to/apidna/data-privacy-in-api-integrations-2oic)
-- [Better Asynchronous Operations](https://dev.to/andrious/better-asynchronous-operations-ppb)
-- [Unraveling the Mysteries of Deepfakes: A Journey Through Innovation and Iteration](https://dev.to/achaljain/unraveling-the-mysteries-of-deepfakes-a-journey-through-innovation-and-iteration-131j)
+- [Analyzing Bitcoin Transactions with Lightning Node Insights](https://dev.to/epakconsultant/analyzing-bitcoin-transactions-with-lightning-node-insights-12e7)
+- [EIP 712: A simple example using Ethers.js &amp; Hardhat](https://dev.to/alinobrasil/eip-712-a-simple-example-using-ethersjs-hardhat-2hn5)
+- [The Optimal Choice of Hypothesis Is the Weakest, Not the Shortest](https://dev.to/mikeyoung44/the-optimal-choice-of-hypothesis-is-the-weakest-not-the-shortest-2821)
+- [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://dev.to/mikeyoung44/from-words-to-numbers-your-large-language-model-is-secretly-a-capable-regressor-when-given-in-context-examples-526a)
 <!-- BLOG-POST-LIST:END -->
 
