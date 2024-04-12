@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Estruturas de repetição: repeat, while e for](https://dev.to/alexgarzao/estruturas-de-repeticao-repeat-while-e-for-4ph6)
-- [Merge In Between Linked Lists | LeetCode | Java](https://dev.to/tanujav/merge-in-between-linked-lists-leetcode-java-2980)
-- [Word Pattern - LeetCode - Java](https://dev.to/tanujav/word-pattern-leetcode-java-41he)
-- [Elevate Your Conversations: The Role of Walles.Ai’s Chat Bot in Streamlining Ask Ai Experiences](https://dev.to/geekyqee/elevate-your-conversations-the-role-of-wallesais-chat-bot-in-streamlining-ask-ai-experiences-4jm0)
+- [A web crawler program for crawling Echarts official website examples implemented by Puppeter](https://dev.to/kiliaosi/a-web-crawler-program-for-crawling-echarts-official-website-examples-implemented-by-puppeter-1inp)
+- [The Role Of Chaos Engineering in Building Anti-Fragile Systems](https://dev.to/cloudiepad/the-role-of-chaos-engineering-in-building-anti-fragile-systems-17bg)
+- [python matplotlib.pyplot 绘制图表图像重叠的问题](https://dev.to/dragon72463399/python-matplotlibpyplot-hui-zhi-tu-biao-tu-xiang-zhong-die-de-wen-ti-4i6f)
+- [SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App](https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439)
 <!-- BLOG-POST-LIST:END -->
 
