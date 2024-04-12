@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Forms in React: Vanilla vs. React Hook Form vs. Formik](https://dev.to/josephmaina/crafting-forms-in-react-vanilla-vs-react-hook-form-vs-formik-43fl)
-- [Cryptocurrency Exchanges CloneScripts](https://dev.to/epakconsultant/cryptocurrency-exchanges-clonescripts-351p)
-- [Web Extract Worker, a service with text-to-image worker AI models!](https://dev.to/peter279k/web-extract-worker-a-service-with-text-to-image-worker-ai-models-59e1)
-- [Retirement Planning and Bitcoin](https://dev.to/epakconsultant/retirement-planning-and-bitcoin-2kig)
+- [Next.js Optimization](https://dev.to/syedmuhammadaliraza/nextjs-optimization-n5f)
+- [Working on Github](https://dev.to/kudratswe/working-on-github-1olb)
+- [React Monorepo Setup Tutorial with pnpm and Vite: React project + UI, Utils](https://dev.to/lico/react-monorepo-setup-tutorial-with-pnpm-and-vite-react-project-ui-utils-5705)
+- [Scaling Bitcoin with Lightning Network](https://dev.to/epakconsultant/scaling-bitcoin-with-lightning-network-23i3)
 <!-- BLOG-POST-LIST:END -->
 
