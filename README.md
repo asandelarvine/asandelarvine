@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Container Images Securely on AWS EKS with Kaniko](https://dev.to/marocz/building-container-images-securely-on-aws-eks-with-kaniko-153n)
-- [Item 28: Prefira as listas aos arrays](https://dev.to/giselecoder/item-28-prefira-as-listas-aos-arrays-2003)
-- [How to Create and Use Requirements.txt in Python](https://dev.to/wesleybertipaglia/how-to-create-and-use-requirementstxt-in-python-19g7)
-- [Unit Testing LLMs with DeepEval](https://dev.to/shannonlal/unit-testing-llms-with-deepeval-4ljl)
+- [Gemini-1.5-pro Function Calling with Java, Spring and HTTP](https://dev.to/vishalmysore/gemini-15-pro-function-calling-with-java-2k19)
+- [Tutorial Cara Instal Composer di Linux](https://dev.to/risekucom/tutorial-cara-instal-composer-di-linux-20ei)
+- [Debugging Node.js apps with Chrome DevTools debugger](https://dev.to/zsevic/debugging-nodejs-apps-with-chrome-devtools-debugger-50lf)
+- [Boost Threat Detection with Amazon GuardDuty &amp; Inspector](https://dev.to/8carroll/boost-threat-detection-with-amazon-guardduty-inspector-1oi9)
 <!-- BLOG-POST-LIST:END -->
 
