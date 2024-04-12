@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Private AI Document Redaction API available on Eden AI](https://dev.to/edenai/private-ai-document-redaction-api-available-on-eden-ai-53ea)
-- [XRP Ledger AMM Bug Fix Now Integrated: A Detailed Analysis](https://dev.to/ripplexdev/xrp-ledger-amm-bug-fix-now-integrated-a-detailed-analysis-4915)
-- [Crypto Payment Systems](https://dev.to/epakconsultant/crypto-payment-systems-e0l)
-- [Jina AI Text Embeddings solution on Eden AI](https://dev.to/edenai/jina-ai-text-embeddings-solution-on-eden-ai-47kk)
+- [20 Essential Entity Framework Core Tips: Optimize Performance, Streamline Queries, and Enhance Data Handling](https://dev.to/ssukhpinder/20-essential-entity-framework-core-tips-optimize-performance-streamline-queries-and-enhance-data-handling-1jmb)
+- [Best Document Processing APIs‍ in 2024](https://dev.to/edenai/best-document-processing-apis-in-2024-2o11)
+- [Pensé de jour](https://dev.to/chriswellkola/pense-de-jour-4mf7)
+- [Quick dip: Use Google Cloud Vertex AI SDK with the Vercel AI SDK](https://dev.to/rogerthatdev/quick-dip-use-the-vertex-ai-sdk-with-the-vercel-ai-sdk-5fme)
 <!-- BLOG-POST-LIST:END -->
 
