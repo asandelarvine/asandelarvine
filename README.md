@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Estruturas de repetição: repeat, while e for](https://dev.to/alexgarzao/estruturas-de-repeticao-repeat-while-e-for-4ph6)
+- [Merge In Between Linked Lists | LeetCode | Java](https://dev.to/tanujav/merge-in-between-linked-lists-leetcode-java-2980)
+- [Word Pattern - LeetCode - Java](https://dev.to/tanujav/word-pattern-leetcode-java-41he)
 - [Elevate Your Conversations: The Role of Walles.Ai’s Chat Bot in Streamlining Ask Ai Experiences](https://dev.to/geekyqee/elevate-your-conversations-the-role-of-wallesais-chat-bot-in-streamlining-ask-ai-experiences-4jm0)
-- [Recipe Generator](https://dev.to/rebeccapeltz/recipe-generator-25c5)
-- [How I Easily Used My Custom Color in My SwiftUI Project](https://dev.to/simplykyra/how-i-easily-used-my-custom-color-in-my-swiftui-project-3k6c)
-- [Building a Voice and Eye-Controlled To-Do App - Part 3](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7)
 <!-- BLOG-POST-LIST:END -->
 
