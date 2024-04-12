@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cookies, Local Storage, and Session Storage: A Beginner&#39;s Guide](https://dev.to/madhusaini22/understanding-cookies-local-storage-and-session-storage-a-beginners-guide-5gkk)
-- [Reaching internal services with an external DNS wildcard](https://dev.to/disane/reaching-internal-services-with-an-external-dns-wildcard-2kno)
-- [Interne Services mit externer DNS-Wildcard erreichen](https://dev.to/disane/interne-services-mit-externer-dns-wildcard-erreichen-50k6)
-- [The ABCs of the Critical Path Method](https://dev.to/chadriebe/the-abcs-of-the-critical-path-method-2kmf)
+- [Examples Of Composition In C# – A Simple Guide For Beginners](https://dev.to/devleader/examples-of-composition-in-c-a-simple-guide-for-beginners-2pc4)
+- [Data Privacy in API Integrations](https://dev.to/apidna/data-privacy-in-api-integrations-2oic)
+- [Better Asynchronous Operations](https://dev.to/andrious/better-asynchronous-operations-ppb)
+- [Unraveling the Mysteries of Deepfakes: A Journey Through Innovation and Iteration](https://dev.to/achaljain/unraveling-the-mysteries-of-deepfakes-a-journey-through-innovation-and-iteration-131j)
 <!-- BLOG-POST-LIST:END -->
 
