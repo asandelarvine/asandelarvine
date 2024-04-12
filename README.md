@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Education Needs Moderization](https://dev.to/rossli/database-education-needs-moderization-4p6l)
-- [Enhancing AWS Monitoring for Improved Threat Management](https://dev.to/8carroll/enhancing-aws-monitoring-for-improved-threat-management-32od)
-- [The Future of Documentation is Personalized](https://dev.to/vidyaiyengar/the-future-of-documentation-is-personalized-9ho)
-- [Have You Ever Care About Identity Integrity?](https://dev.to/aws-builders/have-you-ever-care-about-identity-integrity-475p)
+- [A Beginner&#39;s Guide to Building Your First Flutter App](https://dev.to/angelinajasper/a-beginners-guide-to-building-your-first-flutter-app-1fhp)
+- [Dino hack](https://dev.to/r4nd3l/dino-hack-4i62)
+- [Protect API Gateway with Amazon Verified Permissions](https://dev.to/aws-builders/protect-api-gateway-with-amazon-verified-permissions-3785)
+- [Guide: How to route Docker logs correctly in New Relic](https://dev.to/newrelic/guide-how-to-route-docker-logs-correctly-in-new-relic-iid)
 <!-- BLOG-POST-LIST:END -->
 
