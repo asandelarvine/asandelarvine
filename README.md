@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog #10 - Product Backlog](https://dev.to/amilarangana/devlog-10-product-backlog-3577)
-- [Tips from open-source: An Object with Map and Set.](https://dev.to/ramunarasinga/tips-from-open-source-an-object-with-map-and-set-2fa3)
-- [Omnilingual AI](https://dev.to/drashmk/omnilingual-ai-29la)
-- [Security news weekly round-up - 12th April 2024](https://dev.to/ziizium/security-news-weekly-round-up-12th-april-2024-3i32)
+- [Data sorting](https://dev.to/harshanalk/data-sorting-1k86)
+- [Quick tip: Using R with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-r-with-singlestore-notebooks-26n0)
+- [Coloring Canvass Generator!](https://dev.to/markmatute/coloring-canvass-generator-2k66)
+- [Array Methods: TypeScript vs C# 🧮](https://dev.to/robertoor/array-methods-typescript-vs-c-1faf)
 <!-- BLOG-POST-LIST:END -->
 
