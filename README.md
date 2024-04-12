@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini-1.5-pro Function Calling with Java, Spring and HTTP](https://dev.to/vishalmysore/gemini-15-pro-function-calling-with-java-2k19)
-- [Tutorial Cara Instal Composer di Linux](https://dev.to/risekucom/tutorial-cara-instal-composer-di-linux-20ei)
-- [Debugging Node.js apps with Chrome DevTools debugger](https://dev.to/zsevic/debugging-nodejs-apps-with-chrome-devtools-debugger-50lf)
-- [Boost Threat Detection with Amazon GuardDuty &amp; Inspector](https://dev.to/8carroll/boost-threat-detection-with-amazon-guardduty-inspector-1oi9)
+- [Elevate Your Conversations: The Role of Walles.Ai’s Chat Bot in Streamlining Ask Ai Experiences](https://dev.to/geekyqee/elevate-your-conversations-the-role-of-wallesais-chat-bot-in-streamlining-ask-ai-experiences-4jm0)
+- [Recipe Generator](https://dev.to/rebeccapeltz/recipe-generator-25c5)
+- [How I Easily Used My Custom Color in My SwiftUI Project](https://dev.to/simplykyra/how-i-easily-used-my-custom-color-in-my-swiftui-project-3k6c)
+- [Building a Voice and Eye-Controlled To-Do App - Part 3](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7)
 <!-- BLOG-POST-LIST:END -->
 
