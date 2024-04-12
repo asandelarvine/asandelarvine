@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s make money with Amazon Mechanical Turk!](https://dev.to/aws-builders/lets-make-money-with-amazon-mechanical-turk-1bae)
-- [10 Best Software Development Methodologies](https://dev.to/chadriebe/10-best-software-development-methodologies-1mh5)
-- [Voxel51 Filtered Views Newsletter - April 12, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-april-12-2024-3ba9)
-- [Ibuprofeno.py💊| #79: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-79-explica-este-codigo-python-hd5)
+- [1 way to become a developer](https://dev.to/valvonvorn/1-way-to-become-a-developer-4h8a)
+- [Blue-Green Deployment on Single Machines Starting from Scratch, Using Your Dockerfiles: Examples in PHP, Java, and Node.js](https://dev.to/andrewkangg/blue-green-deployment-on-single-machines-starting-from-scratch-using-your-dockerfiles-examples-in-php-java-and-nodejs-4ab6)
+- [The &lpar;Mostly&rpar; Complete Guide to Installing Kentik NMS](https://dev.to/kentik/the-mostly-complete-guide-to-installing-kentik-nms-150j)
+- [Spring Boot 3 boilerplate for easily customizing traditional OAuth2 Password Grant](https://dev.to/andrewkangg/spring-boot-3-boilerplate-for-easily-customizing-traditional-oauth2-password-grant-50ld)
 <!-- BLOG-POST-LIST:END -->
 
