@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Essential Entity Framework Core Tips: Optimize Performance, Streamline Queries, and Enhance Data Handling](https://dev.to/ssukhpinder/20-essential-entity-framework-core-tips-optimize-performance-streamline-queries-and-enhance-data-handling-1jmb)
-- [Best Document Processing APIs‍ in 2024](https://dev.to/edenai/best-document-processing-apis-in-2024-2o11)
-- [Pensé de jour](https://dev.to/chriswellkola/pense-de-jour-4mf7)
-- [Quick dip: Use Google Cloud Vertex AI SDK with the Vercel AI SDK](https://dev.to/rogerthatdev/quick-dip-use-the-vertex-ai-sdk-with-the-vercel-ai-sdk-5fme)
+- [DevLog #10 - Product Backlog](https://dev.to/amilarangana/devlog-10-product-backlog-3577)
+- [Tips from open-source: An Object with Map and Set.](https://dev.to/ramunarasinga/tips-from-open-source-an-object-with-map-and-set-2fa3)
+- [Omnilingual AI](https://dev.to/drashmk/omnilingual-ai-29la)
+- [Security news weekly round-up - 12th April 2024](https://dev.to/ziizium/security-news-weekly-round-up-12th-april-2024-3i32)
 <!-- BLOG-POST-LIST:END -->
 
