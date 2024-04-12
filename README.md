@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Types of Social Media Posts 🌎](https://dev.to/sh20raj/50-types-of-social-media-posts-gbm)
-- [Rendering&lpar; or How to Render&rpar; Animation in JSON format with LottieFiles animation in React application](https://dev.to/dejetem/rendering-or-how-to-render-animation-in-json-format-with-lottiefiles-animation-in-react-application-1ha8)
-- [Hello, World!](https://dev.to/akashsharma202/hello-world-52c9)
-- [Hello, World!](https://dev.to/akashsharma202/hello-world-58ha)
+- [Let&#39;s make money with Amazon Mechanical Turk!](https://dev.to/aws-builders/lets-make-money-with-amazon-mechanical-turk-1bae)
+- [10 Best Software Development Methodologies](https://dev.to/chadriebe/10-best-software-development-methodologies-1mh5)
+- [Voxel51 Filtered Views Newsletter - April 12, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-april-12-2024-3ba9)
+- [Ibuprofeno.py💊| #79: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-79-explica-este-codigo-python-hd5)
 <!-- BLOG-POST-LIST:END -->
 
