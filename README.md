@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [is 0 !== null in Javascript - JavaScript Quirks: Tricky Equality Questions! 💡](https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac)
-- [Unlocking Growth: A Small Business Guide to Mastering Data Analytics](https://dev.to/tarak/unlocking-growth-a-small-business-guide-to-mastering-data-analytics-5cde)
-- [How Not to Kill Motivation](https://dev.to/devteam/how-not-to-kill-motivation-k6i)
-- [WebAuthn E2E Testing: Playwright, Selenium, Puppeteer](https://dev.to/corbado/webauthn-e2e-testing-playwright-selenium-puppeteer-54)
+- [Your background images might be causing CLS](https://dev.to/whitep4nth3r/your-background-images-might-be-causing-cls-13o2)
+- [How to create a progress-bar with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-progress-bar-with-tailwind-css-and-alpinejs-4p9k)
+- [How to effectively use PUT and DELETE HTTP methods in Django Class-Based Views?](https://dev.to/mamadou762/how-to-effectively-use-put-and-delete-http-methods-in-django-class-based-views-ip9)
+- [How to effectively use PUT and DELETE HTTP methods in Django Class-Based Views?](https://dev.to/mamadou762/how-to-effectively-use-put-and-delete-http-methods-in-django-class-based-views-1n6h)
 <!-- BLOG-POST-LIST:END -->
 
