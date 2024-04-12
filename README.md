@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your background images might be causing CLS](https://dev.to/whitep4nth3r/your-background-images-might-be-causing-cls-13o2)
-- [How to create a progress-bar with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-progress-bar-with-tailwind-css-and-alpinejs-4p9k)
-- [How to effectively use PUT and DELETE HTTP methods in Django Class-Based Views?](https://dev.to/mamadou762/how-to-effectively-use-put-and-delete-http-methods-in-django-class-based-views-ip9)
-- [How to effectively use PUT and DELETE HTTP methods in Django Class-Based Views?](https://dev.to/mamadou762/how-to-effectively-use-put-and-delete-http-methods-in-django-class-based-views-1n6h)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47f5)
+- [node js client hangs on connection to redis cluster when master changes](https://dev.to/subpod/node-js-client-hangs-on-connection-to-redis-cluster-when-master-changes-bli)
+- [How Jira ITSM Empowers Remote Workflow | ITSM Insight](https://dev.to/assetitapp/how-jira-itsm-empowers-remote-workflow-itsm-insight-inh)
+- [New hydration errors mismatch messages](https://dev.to/tarvald/new-hydration-errors-mismatch-messages-5fh6)
 <!-- BLOG-POST-LIST:END -->
 
