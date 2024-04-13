@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Software Testing Strategy](https://dev.to/gkogktzilas/automated-software-testing-strategy-1d2k)
-- [HTML basics for absolute beginners](https://dev.to/nsrisaimeher/html-basics-for-absolute-beginners-5b7a)
-- [AI collaborative storytelling + Image generator + Translate &lpar;English-Spanish&rpar;](https://dev.to/julianandreszb/ai-collaborative-storytelling-image-generator-translate-english-spanish-939)
-- [Tech I am learning in 2024](https://dev.to/ishar19/tech-i-am-learning-in-2024-3pi9)
+- [When Are Layoffs Good?](https://dev.to/devteam/when-are-layoffs-good-38pp)
+- [10 Fun Browser Games to Play When You’re Bored](https://dev.to/imrankh13332994/10-fun-browser-games-to-play-when-youre-bored-2pd2)
+- [App Market | Foodship](https://dev.to/foodshipau/app-market-foodship-16fi)
+- [Day 23 of 30-Day .NET Challenge: Span&lt;T&gt; over Arrays](https://dev.to/ssukhpinder/day-23-of-30-day-net-challenge-span-over-arrays-41go)
 <!-- BLOG-POST-LIST:END -->
 
