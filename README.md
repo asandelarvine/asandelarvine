@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AWS Day by Day — Day 36 — AWS Services — At a Glance — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-36-aws-services-at-a-glance-part-1-2ldb)
-- [Day 13/366](https://dev.to/vishalmx3/day-13366-1oko)
-- [Gamedev.js Jam 2024 start and theme announcement!](https://dev.to/end3r/gamedevjs-jam-2024-start-and-theme-announcement-3nke)
-- [Docker](https://dev.to/jaybamaniya66/docker-3ndp)
+- [Automating Video editing with programming knowledge](https://dev.to/christianpaez/automating-video-editing-with-programming-knowledge-4gh9)
+- [Component Carnage: Building Killer React Components](https://dev.to/kigazon/component-carnage-building-killer-react-components-1443)
+- [UPI System Design](https://dev.to/shubhadip_bhowmik/upi-system-design-4361)
+- [Data Structures and Algorithms &lpar;Part 3&rpar;](https://dev.to/thecspandz/data-structures-and-algorithms-part-3-2ncm)
 <!-- BLOG-POST-LIST:END -->
 
