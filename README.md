@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Installation Guide for Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/dhananjayharidas/mongodb-installation-guide-for-windows-subsystem-for-linux-wsl-21kj)
-- [Understanding Cache vs Cookie vs Session in 100 seconds.](https://dev.to/jamescroissant/understanding-cache-vs-cookie-vs-session-in-100-seconds-4hj8)
-- [Building a Dynamic Learning Experience with Django LMS](https://dev.to/collins_lincoln/building-a-dynamic-learning-experience-with-django-lms-25e3)
-- [Deploying AWS Solution for a company&#39;s Websites](https://dev.to/jtoguntoye/deploying-aws-solution-for-a-companys-websites-20ol)
+- [mean&lpar;&rpar; and median&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/mean-and-median-in-pytorch-23h7)
+- [The supreme rank of Computing Mascots](https://dev.to/terminalcoffee/the-supreme-rank-of-computing-mascots-58oj)
+- [Java&#39;s own EJB and Spring framework](https://dev.to/abuhasib/javas-own-ejb-and-spring-framework-2gn9)
+- [AI enthusiasm #4 - Your stable diffusion chatbot🐠](https://dev.to/astrabert/ai-enthusiasm-4-your-stable-diffusion-chatbot-93p)
 <!-- BLOG-POST-LIST:END -->
 
