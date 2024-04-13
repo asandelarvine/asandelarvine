@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UI Memory Recognition and Recall Strategies for Enhanced User Experience](https://dev.to/sachinabs/ui-memory-recognition-and-recall-strategies-for-enhanced-user-experience-5be4)
-- [Stablecoins Accounting for Financial Professionals](https://dev.to/epakconsultant/stablecoins-accounting-for-financial-professionals-57d)
-- [AI-Driven Crypto Trading Methods](https://dev.to/epakconsultant/ai-driven-crypto-trading-methods-16i3)
-- [Better Threat Detection with CloudWatch Logs and Generative AI](https://dev.to/8carroll/better-threat-detection-with-cloudwatch-logs-and-generative-ai-2e7e)
+- [Fulfillment Centers for Drop Shipping](https://dev.to/epakconsultant/fulfillment-centers-for-drop-shipping-49ci)
+- [３章7](https://dev.to/aaattt/3zhang-7-434b)
+- [Shopify Store Integration with Online Marketplaces](https://dev.to/epakconsultant/shopify-store-integration-with-online-marketplaces-1lip)
+- [Server Configuration and Deployment for Java Applications in AWS](https://dev.to/epakconsultant/server-configuration-and-deployment-for-java-applications-in-aws-1peb)
 <!-- BLOG-POST-LIST:END -->
 
