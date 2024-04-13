@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #80: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-80-explica-este-codigo-python-3fgf)
-- [Razlika između &#39;type&#39; i &#39;interface&#39; u TypeScriptu](https://dev.to/bslaven/razlika-izmedu-type-i-interface-u-typescriptu-4jha)
-- [Illuminating Unnoticed Efficiency Pitfalls with AtomicLongMap](https://dev.to/aemiej/illuminating-unnoticed-efficiency-pitfalls-with-atomiclongmap-c1m)
-- [Enterprise AI Hub: LLM AI Agent built with OpenAI &amp; Java](https://dev.to/vishalmysore/enterprise-ai-hub-llm-ai-agent-built-with-openai-java-1mm9)
+- [I&#39;ve created yet another JavaScript framework](https://dev.to/lamnhan/ive-created-yet-another-javascript-framework-5c5o)
+- [How to create a Cloud Uploader CLI with AWS S3 in Bash](https://dev.to/amaraiheanacho/how-to-create-a-cloud-uploader-cli-with-aws-s3-in-bash-h3n)
+- [Sample code on Service-to-Service Authentication in Google Cloud Run for Production and Local environments](https://dev.to/mesmacosta/sample-code-on-service-to-service-authentication-in-google-cloud-run-for-production-and-local-environments-ehm)
+- [Project Reactor: Tips &lpar;1&rpar;](https://dev.to/saladlam/project-reactor-tips-1-183k)
 <!-- BLOG-POST-LIST:END -->
 
