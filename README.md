@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience Creating a Professional Resume with http://instaresume.io: A Step-by-Step Journey](https://dev.to/hey_rishabh/my-experience-creating-a-professional-resume-with-httpinstaresumeio-a-step-by-step-journey-27g)
-- [Running Plan Generator](https://dev.to/jesusantguerrero/running-plan-generator-35fg)
-- [What skills do you need to become a data analyst?](https://dev.to/epakconsultant/what-skills-do-you-need-to-become-a-data-analyst-47lf)
-- [Connect GraphQL with React - 2 ways](https://dev.to/codeparrot/connect-graphql-with-react-2-ways-h04)
+- [Ibuprofeno.py💊| #80: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-80-explica-este-codigo-python-3fgf)
+- [Razlika između &#39;type&#39; i &#39;interface&#39; u TypeScriptu](https://dev.to/bslaven/razlika-izmedu-type-i-interface-u-typescriptu-4jha)
+- [Illuminating Unnoticed Efficiency Pitfalls with AtomicLongMap](https://dev.to/aemiej/illuminating-unnoticed-efficiency-pitfalls-with-atomiclongmap-c1m)
+- [Enterprise AI Hub: LLM AI Agent built with OpenAI &amp; Java](https://dev.to/vishalmysore/enterprise-ai-hub-llm-ai-agent-built-with-openai-java-1mm9)
 <!-- BLOG-POST-LIST:END -->
 
