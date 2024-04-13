@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data sorting](https://dev.to/harshanalk/data-sorting-1k86)
-- [Quick tip: Using R with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-r-with-singlestore-notebooks-26n0)
-- [Coloring Canvass Generator!](https://dev.to/markmatute/coloring-canvass-generator-2k66)
-- [Array Methods: TypeScript vs C# 🧮](https://dev.to/robertoor/array-methods-typescript-vs-c-1faf)
+- [Optimize feed in ChatCraft](https://dev.to/wanggithub0/optimize-feed-in-chatcraft-56bo)
+- [Diary - Building my own social midia - Picking the tech stack - 3/X](https://dev.to/nickthecapy/diary-building-my-own-social-midia-picking-the-tech-stack-3x-5di5)
+- [How To Create Window 11 Pro with Azure Virtual Machine](https://dev.to/bola/how-to-create-window-11-pro-with-azure-virtual-machine-1a83)
+- [Exploring the JAMstack: JavaScript, APIs, and Markup](https://dev.to/kartikmehta8/exploring-the-jamstack-javascript-apis-and-markup-599)
 <!-- BLOG-POST-LIST:END -->
 
