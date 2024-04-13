@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is ListNode in JS?](https://dev.to/nadim_ch0wdhury/what-is-listnode-in-js-4845)
-- [Introducción a Object Calisthenics](https://dev.to/carlosvigueras/introduccion-a-object-calisthenics-45fg)
-- [What is .hasOwnProperty&lpar;&rpar; in JavaScript?](https://dev.to/nadim_ch0wdhury/what-is-hasownproperty-in-javascript-ei0)
-- [Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg)
+- [Why I think Python is a Great first Language](https://dev.to/jimajs/why-i-think-python-is-a-great-first-language-11g9)
+- [Is Building Your Own Portfolio a Waste of Time?](https://dev.to/doylecodes/is-building-your-own-portfolio-a-waste-of-time-1opc)
+- [Fast, Intuitive, Smart: Restaurant search engine with Cloudflare AI](https://dev.to/sjdonado/fast-intuitive-smart-restaurant-search-engine-with-cloudflare-ai-3m64)
+- [Here are the 10 projects I am contributing to over the next 6 months. Share yours](https://dev.to/schalkneethling/here-are-the-10-projects-i-am-contributing-to-over-the-next-6-months-share-yours-4h0l)
 <!-- BLOG-POST-LIST:END -->
 
