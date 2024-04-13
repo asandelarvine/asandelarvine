@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kasr Sonlar.](https://dev.to/abduvohid/kasr-sonlar-1kl)
-- [Essential Features Your Ecommerce Jewelry Store Must Have](https://dev.to/julianevan/essential-features-your-ecommerce-jewelry-store-must-have-285a)
-- [Kickstart Your Web Development Journey with Free Resources: HTML, CSS, and JavaScript](https://dev.to/hashirdev/kickstart-your-web-development-journey-with-free-resources-html-css-and-javascript-3od8)
-- [Converting React Forms to Formik and Yup](https://dev.to/naveenkolambage/converting-react-forms-to-formik-and-yup-1bi3)
+- [`safeaws` checks your AWS CLI commands before they are run](https://dev.to/aws-builders/safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl)
+- [Using Const](https://dev.to/k-srivastava/using-const-3p07)
+- [50 Java Interview Questions for Practice](https://dev.to/somadevtoo/50-java-interview-questions-for-practice-1c96)
+- [PHP - arrays e valores como chave](https://dev.to/alyatek/php-arrays-e-valores-como-chave-5gdi)
 <!-- BLOG-POST-LIST:END -->
 
