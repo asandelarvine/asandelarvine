@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache Control, Long story short.](https://dev.to/ibengeu/cache-control-jfj)
+- [Angular Tutorial: Replacing Static Inputs with the Host Attribute Token](https://dev.to/brianmtreese/angular-tutorial-replacing-static-inputs-with-the-host-attribute-token-4amo)
 - [Automating Video editing with programming knowledge](https://dev.to/christianpaez/automating-video-editing-with-programming-knowledge-4gh9)
 - [Component Carnage: Building Killer React Components](https://dev.to/kigazon/component-carnage-building-killer-react-components-1443)
-- [UPI System Design](https://dev.to/shubhadip_bhowmik/upi-system-design-4361)
-- [Data Structures and Algorithms &lpar;Part 3&rpar;](https://dev.to/thecspandz/data-structures-and-algorithms-part-3-2ncm)
 <!-- BLOG-POST-LIST:END -->
 
