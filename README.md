@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve created yet another JavaScript framework](https://dev.to/lamnhan/ive-created-yet-another-javascript-framework-5c5o)
-- [How to create a Cloud Uploader CLI with AWS S3 in Bash](https://dev.to/amaraiheanacho/how-to-create-a-cloud-uploader-cli-with-aws-s3-in-bash-h3n)
-- [Sample code on Service-to-Service Authentication in Google Cloud Run for Production and Local environments](https://dev.to/mesmacosta/sample-code-on-service-to-service-authentication-in-google-cloud-run-for-production-and-local-environments-ehm)
-- [Project Reactor: Tips &lpar;1&rpar;](https://dev.to/saladlam/project-reactor-tips-1-183k)
+- [Project Reactor: About the side effect operator](https://dev.to/saladlam/project-reactor-about-the-side-effect-operator-3go2)
+- [Digital Art On iPad: Explore Your Options](https://dev.to/markcallawy14804/digital-art-on-ipad-explore-your-options-ogk)
+- [Quick introduction to the Prisma ORM](https://dev.to/a727283/quick-introduction-to-the-prisma-orm-1l1l)
+- [Adopt AI, But Responsibly!](https://dev.to/genai/adopt-ai-but-responsibly-21e3)
 <!-- BLOG-POST-LIST:END -->
 
