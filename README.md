@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Control, Long story short.](https://dev.to/ibengeu/cache-control-jfj)
-- [Angular Tutorial: Replacing Static Inputs with the Host Attribute Token](https://dev.to/brianmtreese/angular-tutorial-replacing-static-inputs-with-the-host-attribute-token-4amo)
-- [Automating Video editing with programming knowledge](https://dev.to/christianpaez/automating-video-editing-with-programming-knowledge-4gh9)
-- [Component Carnage: Building Killer React Components](https://dev.to/kigazon/component-carnage-building-killer-react-components-1443)
+- [Mac Keyboard Shortcuts Every Developer Should Know](https://dev.to/uhrinuh/mac-keyboard-shortcuts-every-developer-should-know-33f0)
+- [React Native Scaler: Perfecting App Aesthetics Across Multiple Devices](https://dev.to/handipriyono/react-native-scaler-perfecting-app-aesthetics-across-multiple-devices-3a52)
+- [Hunting down performance issues. A small DevOps story.](https://dev.to/jadolg/hunting-down-performance-issues-a-small-devops-story-2hb)
+- [Create Flavors for Flutter App - iOS](https://dev.to/arkroot/create-flavors-for-flutter-app-ios-fnl)
 <!-- BLOG-POST-LIST:END -->
 
