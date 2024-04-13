@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Are Layoffs Good?](https://dev.to/devteam/when-are-layoffs-good-38pp)
-- [10 Fun Browser Games to Play When You’re Bored](https://dev.to/imrankh13332994/10-fun-browser-games-to-play-when-youre-bored-2pd2)
-- [App Market | Foodship](https://dev.to/foodshipau/app-market-foodship-16fi)
-- [Day 23 of 30-Day .NET Challenge: Span&lt;T&gt; over Arrays](https://dev.to/ssukhpinder/day-23-of-30-day-net-challenge-span-over-arrays-41go)
+- [Creating functions in JavaScript - Part 4](https://dev.to/dindustack/creating-functions-in-javascript-part-4-36of)
+- [App Marketplace | Foodship](https://dev.to/foodshipau/app-marketplace-foodship-3fal)
+- [Foodship | Apps](https://dev.to/foodshipau/foodship-apps-2gnm)
+- [Tailwind Handbook - Part I](https://dev.to/lyumotech/tailwind-handbook-part-i-1l2d)
 <!-- BLOG-POST-LIST:END -->
 
