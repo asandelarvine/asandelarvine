@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy with vercel](https://dev.to/karleeov/deploy-with-vercel-4o25)
+- [skillo.me - Trade Skills!](https://dev.to/ahmetilhan24/skillome-trade-skills-582a)
 - [Optimize feed in ChatCraft](https://dev.to/wanggithub0/optimize-feed-in-chatcraft-56bo)
 - [Diary - Building my own social midia - Picking the tech stack - 3/X](https://dev.to/nickthecapy/diary-building-my-own-social-midia-picking-the-tech-stack-3x-5di5)
-- [How To Create Window 11 Pro with Azure Virtual Machine](https://dev.to/bola/how-to-create-window-11-pro-with-azure-virtual-machine-1a83)
-- [Exploring the JAMstack: JavaScript, APIs, and Markup](https://dev.to/kartikmehta8/exploring-the-jamstack-javascript-apis-and-markup-599)
 <!-- BLOG-POST-LIST:END -->
 
