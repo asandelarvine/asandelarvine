@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mac Keyboard Shortcuts Every Developer Should Know](https://dev.to/uhrinuh/mac-keyboard-shortcuts-every-developer-should-know-33f0)
-- [React Native Scaler: Perfecting App Aesthetics Across Multiple Devices](https://dev.to/handipriyono/react-native-scaler-perfecting-app-aesthetics-across-multiple-devices-3a52)
-- [Hunting down performance issues. A small DevOps story.](https://dev.to/jadolg/hunting-down-performance-issues-a-small-devops-story-2hb)
-- [Create Flavors for Flutter App - iOS](https://dev.to/arkroot/create-flavors-for-flutter-app-ios-fnl)
+- [MongoDB Installation Guide for Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/dhananjayharidas/mongodb-installation-guide-for-windows-subsystem-for-linux-wsl-21kj)
+- [Understanding Cache vs Cookie vs Session in 100 seconds.](https://dev.to/jamescroissant/understanding-cache-vs-cookie-vs-session-in-100-seconds-4hj8)
+- [Building a Dynamic Learning Experience with Django LMS](https://dev.to/collins_lincoln/building-a-dynamic-learning-experience-with-django-lms-25e3)
+- [Deploying AWS Solution for a company&#39;s Websites](https://dev.to/jtoguntoye/deploying-aws-solution-for-a-companys-websites-20ol)
 <!-- BLOG-POST-LIST:END -->
 
