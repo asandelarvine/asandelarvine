@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating functions in JavaScript - Part 4](https://dev.to/dindustack/creating-functions-in-javascript-part-4-36of)
-- [App Marketplace | Foodship](https://dev.to/foodshipau/app-marketplace-foodship-3fal)
-- [Foodship | Apps](https://dev.to/foodshipau/foodship-apps-2gnm)
-- [Tailwind Handbook - Part I](https://dev.to/lyumotech/tailwind-handbook-part-i-1l2d)
+- [Cwin | Cwin05 | Sân Chơi Cá Cược Đẳng Cấp Số #2](https://dev.to/cwin05center/cwin-cwin05-san-choi-ca-cuoc-dang-cap-so-2-20ii)
+- [The #1 Skill Every Newbie Coder Needs &lpar;But Most Are Afraid To Use&rpar;](https://dev.to/peboy/the-1-skill-every-newbie-coder-needs-but-most-are-afraid-to-use-2jl8)
+- [PayPal REST API](https://dev.to/faxriddinmaxmadiyorov/paypal-rest-api-3pi6)
+- [Linux is almost hacked, AWS forks Redis, DevOps in 2024, CloudFormation accelerates](https://dev.to/mkdev/linux-is-almost-hacked-aws-forks-redis-devops-in-2024-cloudformation-accelerates-1li6)
 <!-- BLOG-POST-LIST:END -->
 
