@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [`safeaws` checks your AWS CLI commands before they are run](https://dev.to/aws-builders/safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl)
-- [Using Const](https://dev.to/k-srivastava/using-const-3p07)
-- [50 Java Interview Questions for Practice](https://dev.to/somadevtoo/50-java-interview-questions-for-practice-1c96)
-- [PHP - arrays e valores como chave](https://dev.to/alyatek/php-arrays-e-valores-como-chave-5gdi)
+- [My Experience Creating a Professional Resume with http://instaresume.io: A Step-by-Step Journey](https://dev.to/hey_rishabh/my-experience-creating-a-professional-resume-with-httpinstaresumeio-a-step-by-step-journey-27g)
+- [Running Plan Generator](https://dev.to/jesusantguerrero/running-plan-generator-35fg)
+- [What skills do you need to become a data analyst?](https://dev.to/epakconsultant/what-skills-do-you-need-to-become-a-data-analyst-47lf)
+- [Connect GraphQL with React - 2 ways](https://dev.to/codeparrot/connect-graphql-with-react-2-ways-h04)
 <!-- BLOG-POST-LIST:END -->
 
