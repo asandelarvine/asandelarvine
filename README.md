@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I think Python is a Great first Language](https://dev.to/jimajs/why-i-think-python-is-a-great-first-language-11g9)
-- [Is Building Your Own Portfolio a Waste of Time?](https://dev.to/doylecodes/is-building-your-own-portfolio-a-waste-of-time-1opc)
-- [Fast, Intuitive, Smart: Restaurant search engine with Cloudflare AI](https://dev.to/sjdonado/fast-intuitive-smart-restaurant-search-engine-with-cloudflare-ai-3m64)
-- [Here are the 10 projects I am contributing to over the next 6 months. Share yours](https://dev.to/schalkneethling/here-are-the-10-projects-i-am-contributing-to-over-the-next-6-months-share-yours-4h0l)
+- [Learning AWS Day by Day — Day 36 — AWS Services — At a Glance — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-36-aws-services-at-a-glance-part-1-2ldb)
+- [Day 13/366](https://dev.to/vishalmx3/day-13366-1oko)
+- [Gamedev.js Jam 2024 start and theme announcement!](https://dev.to/end3r/gamedevjs-jam-2024-start-and-theme-announcement-3nke)
+- [Docker](https://dev.to/jaybamaniya66/docker-3ndp)
 <!-- BLOG-POST-LIST:END -->
 
