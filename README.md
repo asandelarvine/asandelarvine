@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cwin | Cwin05 | Sân Chơi Cá Cược Đẳng Cấp Số #2](https://dev.to/cwin05center/cwin-cwin05-san-choi-ca-cuoc-dang-cap-so-2-20ii)
-- [The #1 Skill Every Newbie Coder Needs &lpar;But Most Are Afraid To Use&rpar;](https://dev.to/peboy/the-1-skill-every-newbie-coder-needs-but-most-are-afraid-to-use-2jl8)
-- [PayPal REST API](https://dev.to/faxriddinmaxmadiyorov/paypal-rest-api-3pi6)
-- [Linux is almost hacked, AWS forks Redis, DevOps in 2024, CloudFormation accelerates](https://dev.to/mkdev/linux-is-almost-hacked-aws-forks-redis-devops-in-2024-cloudformation-accelerates-1li6)
+- [Kasr Sonlar.](https://dev.to/abduvohid/kasr-sonlar-1kl)
+- [Essential Features Your Ecommerce Jewelry Store Must Have](https://dev.to/julianevan/essential-features-your-ecommerce-jewelry-store-must-have-285a)
+- [Kickstart Your Web Development Journey with Free Resources: HTML, CSS, and JavaScript](https://dev.to/hashirdev/kickstart-your-web-development-journey-with-free-resources-html-css-and-javascript-3od8)
+- [Converting React Forms to Formik and Yup](https://dev.to/naveenkolambage/converting-react-forms-to-formik-and-yup-1bi3)
 <!-- BLOG-POST-LIST:END -->
 
