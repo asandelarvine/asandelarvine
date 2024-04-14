@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Experiment with Linux USBs](https://dev.to/nerdflash28/experiment-with-linux-usbs-51ko)
-- [Implementing Rate Limiting in a Spring Boot API using Bucket4j](https://dev.to/tharindufdo/implementing-rate-limiting-in-a-spring-boot-api-using-bucket4j-59k6)
-- [Principles of Code - Five Key Points to Better Systems](https://dev.to/dev3l/principles-of-code-five-key-points-to-better-systems-29jb)
-- [CSS Text Handling: text-overflow, overflow-wrap, and More!](https://dev.to/sh20raj/css-text-handling-text-overflow-overflow-wrap-and-more-3k8d)
+- [Debugging the Abyss: Solving Common React JS Errors](https://dev.to/kigazon/debugging-the-abyss-solving-common-react-js-errors-4nj5)
+- [Contest List Web Extension](https://dev.to/vaibhav_31/contest-list-web-extension-h9i)
+- [Understanding Dependencies in Programming](https://dev.to/sakai-nako/understanding-dependencies-in-programming-4201)
+- [ویژگیهای سرپ در 2024](https://dev.to/wpm22rtz/wyjgyhy-srp-dr-2024-3pfc)
 <!-- BLOG-POST-LIST:END -->
 
