@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Adjust Shopify Store Product Image Resolution](https://dev.to/huangcong12/how-to-adjust-shopify-store-product-image-resolution-474h)
-- [TypeScript Tip #1: forEach vs for loop](https://dev.to/tusharshahi/typescript-tip-1-foreach-vs-for-loop-56og)
-- [Getting started with Azure OpenAI](https://dev.to/juanstoppa/getting-started-with-azure-openai-2ppd)
-- [2024 First Quarter Reads](https://dev.to/madalitsonyemba/2024-first-quarter-reads-13g8)
+- [Global Variables in Unity Using Scriptable Objects](https://dev.to/bearevans/global-variables-in-unity-using-scriptable-objects-26kl)
+- [State Management in Angular using NgRx Signal Store](https://dev.to/railsstudent/state-management-in-angular-using-ngrx-signal-store-146g)
+- [State Management in Angular using Tanstack Store](https://dev.to/railsstudent/state-management-in-angular-using-tanstack-store-1h4b)
+- [State Management in Angular using Tanstack Store](https://dev.to/railsstudent/state-management-in-angular-using-tanstack-store-4iop)
 <!-- BLOG-POST-LIST:END -->
 
