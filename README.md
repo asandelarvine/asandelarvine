@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Storage Smarter with AWS S3 Intelligent Tiering](https://dev.to/urielbitton/making-storage-smarter-with-aws-s3-intelligent-tiering-3kdc)
-- [Implement React v18 from Scratch Using WASM and Rust - [3] Reconciler &amp; Renderer Design](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-3-reconciler-renderer-design-2hlb)
-- [Using the MERN Stack: MongoDB, Express.js, React, and Node.js](https://dev.to/kartikmehta8/using-the-mern-stack-mongodb-expressjs-react-and-nodejs-1ck3)
-- [min&lpar;&rpar;, max&lpar;&rpar;, aminmax&lpar;&rpar;, amin&lpar;&rpar;, amax&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-aminmax-amin-amax-argmin-and-argmax-in-pytorch-ahk)
+- [How to Adjust Shopify Store Product Image Resolution](https://dev.to/huangcong12/how-to-adjust-shopify-store-product-image-resolution-474h)
+- [TypeScript Tip #1: forEach vs for loop](https://dev.to/tusharshahi/typescript-tip-1-foreach-vs-for-loop-56og)
+- [Getting started with Azure OpenAI](https://dev.to/juanstoppa/getting-started-with-azure-openai-2ppd)
+- [2024 First Quarter Reads](https://dev.to/madalitsonyemba/2024-first-quarter-reads-13g8)
 <!-- BLOG-POST-LIST:END -->
 
