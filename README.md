@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Les défis et les solutions pour maintenir la motivation en contribuant à des projets open source](https://dev.to/birego/les-defis-et-les-solutions-pour-maintenir-la-motivation-en-contribuant-a-des-projets-open-source-a7m)
-- [C++](https://dev.to/paulike/c-2hih)
-- [Extração de metadados de imagens com Python](https://dev.to/msc2020/extracao-de-metadados-de-imagens-com-python-2f8n)
-- [IRIS Document Database &lpar;DocDB&rpar;](https://dev.to/intersystems/iris-document-database-docdb-3db8)
+- [How to Use TURN Server with Node WebRTC Library](https://dev.to/alakkadshaw/how-to-use-turn-server-with-nodejs-webrtc-library-2b4g)
+- [AI Twitter &amp; LinkedIn Bio Generator](https://dev.to/anils/ai-twitter-linkedin-bio-generator-2k1f)
+- [First Postmortem at ALX Software Engineering Program](https://dev.to/victorok/first-postmortem-at-alx-software-engineering-program-2loh)
+- [Designing and Implementing a Microsoft Azure AI Solution](https://dev.to/olatunjiayodel9/designing-and-implementing-a-microsoft-azure-ai-solution-ij2)
 <!-- BLOG-POST-LIST:END -->
 
