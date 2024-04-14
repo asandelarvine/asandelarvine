@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging the Abyss: Solving Common React JS Errors](https://dev.to/kigazon/debugging-the-abyss-solving-common-react-js-errors-4nj5)
-- [Contest List Web Extension](https://dev.to/vaibhav_31/contest-list-web-extension-h9i)
-- [Understanding Dependencies in Programming](https://dev.to/sakai-nako/understanding-dependencies-in-programming-4201)
-- [ویژگیهای سرپ در 2024](https://dev.to/wpm22rtz/wyjgyhy-srp-dr-2024-3pfc)
+- [Demystifying APIs for Network Management: REST, RESTCONF, and Kafka](https://dev.to/epakconsultant/demystifying-apis-for-network-management-rest-restconf-and-kafka-4oip)
+- [Flutter Elegant Notification](https://dev.to/koukibadr/flutter-elegant-notification-2714)
+- [ALTER keyword is used for change table, add new columns update and add values to column or delete them ...](https://dev.to/pooyaalamdari/alter-keyword-is-used-for-change-table-add-new-columns-update-and-add-values-to-column-or-delete-them--p5)
+- [Task 11](https://dev.to/hameed1206/task-11-n3f)
 <!-- BLOG-POST-LIST:END -->
 
