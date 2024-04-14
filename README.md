@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Variables in Unity Using Scriptable Objects](https://dev.to/bearevans/global-variables-in-unity-using-scriptable-objects-26kl)
-- [State Management in Angular using NgRx Signal Store](https://dev.to/railsstudent/state-management-in-angular-using-ngrx-signal-store-146g)
-- [State Management in Angular using Tanstack Store](https://dev.to/railsstudent/state-management-in-angular-using-tanstack-store-1h4b)
-- [State Management in Angular using Tanstack Store](https://dev.to/railsstudent/state-management-in-angular-using-tanstack-store-4iop)
+- [Experiment with Linux USBs](https://dev.to/nerdflash28/experiment-with-linux-usbs-51ko)
+- [Implementing Rate Limiting in a Spring Boot API using Bucket4j](https://dev.to/tharindufdo/implementing-rate-limiting-in-a-spring-boot-api-using-bucket4j-59k6)
+- [Principles of Code - Five Key Points to Better Systems](https://dev.to/dev3l/principles-of-code-five-key-points-to-better-systems-29jb)
+- [CSS Text Handling: text-overflow, overflow-wrap, and More!](https://dev.to/sh20raj/css-text-handling-text-overflow-overflow-wrap-and-more-3k8d)
 <!-- BLOG-POST-LIST:END -->
 
