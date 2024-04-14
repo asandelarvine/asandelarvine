@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying APIs for Network Management: REST, RESTCONF, and Kafka](https://dev.to/epakconsultant/demystifying-apis-for-network-management-rest-restconf-and-kafka-4oip)
-- [Flutter Elegant Notification](https://dev.to/koukibadr/flutter-elegant-notification-2714)
-- [ALTER keyword is used for change table, add new columns update and add values to column or delete them ...](https://dev.to/pooyaalamdari/alter-keyword-is-used-for-change-table-add-new-columns-update-and-add-values-to-column-or-delete-them--p5)
-- [Task 11](https://dev.to/hameed1206/task-11-n3f)
+- [Les défis et les solutions pour maintenir la motivation en contribuant à des projets open source](https://dev.to/birego/les-defis-et-les-solutions-pour-maintenir-la-motivation-en-contribuant-a-des-projets-open-source-a7m)
+- [C++](https://dev.to/paulike/c-2hih)
+- [Extração de metadados de imagens com Python](https://dev.to/msc2020/extracao-de-metadados-de-imagens-com-python-2f8n)
+- [IRIS Document Database &lpar;DocDB&rpar;](https://dev.to/intersystems/iris-document-database-docdb-3db8)
 <!-- BLOG-POST-LIST:END -->
 
