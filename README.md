@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [mean&lpar;&rpar; and median&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/mean-and-median-in-pytorch-23h7)
-- [The supreme rank of Computing Mascots](https://dev.to/terminalcoffee/the-supreme-rank-of-computing-mascots-58oj)
-- [Java&#39;s own EJB and Spring framework](https://dev.to/abuhasib/javas-own-ejb-and-spring-framework-2gn9)
-- [AI enthusiasm #4 - Your stable diffusion chatbot🐠](https://dev.to/astrabert/ai-enthusiasm-4-your-stable-diffusion-chatbot-93p)
+- [Making Storage Smarter with AWS S3 Intelligent Tiering](https://dev.to/urielbitton/making-storage-smarter-with-aws-s3-intelligent-tiering-3kdc)
+- [Implement React v18 from Scratch Using WASM and Rust - [3] Reconciler &amp; Renderer Design](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-3-reconciler-renderer-design-2hlb)
+- [Using the MERN Stack: MongoDB, Express.js, React, and Node.js](https://dev.to/kartikmehta8/using-the-mern-stack-mongodb-expressjs-react-and-nodejs-1ck3)
+- [min&lpar;&rpar;, max&lpar;&rpar;, aminmax&lpar;&rpar;, amin&lpar;&rpar;, amax&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-aminmax-amin-amax-argmin-and-argmax-in-pytorch-ahk)
 <!-- BLOG-POST-LIST:END -->
 
