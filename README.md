@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Activate Python virtual environment automatically on iTerm2](https://dev.to/minho42/activate-python-virtual-environment-automatically-on-iterm2-4799)
-- [How to add two numbers in JavaScript without using the &quot;+&quot; operator?](https://dev.to/ticha/how-to-add-two-numbers-in-javascript-without-using-the-operator-3j7m)
-- [DocumentDBでマルチバイト検索を実現する場合の留意事項について](https://dev.to/aws-builders/documentdbdemarutibaitojian-suo-woshi-xian-suruchang-he-noliu-yi-shi-xiang-nituite-pp7)
-- [Exploring Zod and the Benefits of Schema-Based Validation in TypeScript Projects](https://dev.to/a727283/exploring-zod-and-the-benefits-of-schema-based-validation-in-typescript-projects-52l0)
+- [Install Cloudflare WARP on any Linux Distro, Thanks to Distrobox!](https://dev.to/archerallstars/install-cloudflare-warp-on-any-linux-distro-thanks-to-distrobox-4dp9)
+- [How to Connect BH1750 with Arduino: Measure Ambient Light](https://dev.to/shilleh/how-to-connect-bh1750-with-arduino-measure-ambient-light-3502)
+- [Deploying a Full Stack AWS Architecture Using Terraform: Ensuring High Availability in AWS](https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31)
+- [Arduino IDE 1.8.19 ESP32 編譯當掉](https://dev.to/codemee/arduino-ide-1819-esp32-bian-yi-dang-diao-40oh)
 <!-- BLOG-POST-LIST:END -->
 
