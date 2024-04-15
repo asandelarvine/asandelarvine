@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Interactive Time-Tracking Report with React and TypeScript](https://dev.to/rodionchachura/creating-an-interactive-time-tracking-report-with-react-and-typescript-2ke1)
 - [TherapistAI: AI-powered mental health support](https://dev.to/erickluis/therapistai-ai-powered-mental-health-support-lg2)
-- [Navigating the Path to Entry-Level Remote Jobs: A Comprehensive Guide](https://dev.to/sadmankabir/navigating-the-path-to-entry-level-remote-jobs-a-comprehensive-guide-2bbk)
-- [Resize and Optimise Images Using Free API - ImageCDN](https://dev.to/sh20raj/resize-and-optimise-images-using-free-api-imagecdn-ih0)
-- [Intro to the Terminal](https://dev.to/cody-daigle/intro-to-the-terminal-17em)
+- [Managing File System Permissions from the Command Line](https://dev.to/zahroo/managing-file-system-permissions-from-the-command-line-g52)
+- [Gaining Superuser Access](https://dev.to/zahroo/gaining-superuser-access-12lk)
 <!-- BLOG-POST-LIST:END -->
 
