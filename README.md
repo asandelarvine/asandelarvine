@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three.js Tutorials](https://dev.to/rustcodeweb/threejs-tutorials-na2)
-- [DevLog #11 - Sprint Backlog](https://dev.to/amilarangana/devlog-11-sprint-backlog-346o)
-- [SASS](https://dev.to/fernandomoyano/sass-464d)
-- [Algorithmic Collective Action in Recommender Systems: Promoting Songs by Reordering Playlists](https://dev.to/mikeyoung44/algorithmic-collective-action-in-recommender-systems-promoting-songs-by-reordering-playlists-1k7k)
+- [Free online planning poker](https://dev.to/mattlewandowski93/free-online-planning-poker-bfe)
+- [Finding the right learning approach](https://dev.to/valeriahhdez/finding-the-right-learning-approach-5a6n)
+- [Improving Dynamic Component Loader Typings in Angular Using Inputs](https://dev.to/bwca/improving-dynamic-component-loader-typings-in-angular-using-inputs-obl)
+- [Weekly goals of Modderz Android app](https://dev.to/theplebdev/weekly-goals-of-modderz-android-app-2clh)
 <!-- BLOG-POST-LIST:END -->
 
