@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs that can help to build eCommerce Application Much Faster](https://dev.to/iamspathan/apis-that-can-help-to-build-ecommerce-application-much-faster-50mk)
-- [Bridging the Gap: Sharing Data Between React Native and WebView](https://dev.to/youcefbedrani_64/bridging-the-gap-sharing-data-between-react-native-and-webview-4mdm)
-- [SELECT - INSERT INTO SELECT](https://dev.to/pooyaalamdari/select-insert-into-select-30a1)
-- [Unveiling the Monitoring Landscape: OpenTelemetry Logging, APM vs. Observability, and Telemetry for Enhanced Visibility](https://dev.to/stackify/unveiling-the-monitoring-landscape-opentelemetry-logging-apm-vs-observability-and-telemetry-for-enhanced-visibility-33e1)
+- [Pulumi vs Terraform: An In-Depth Comparison](https://dev.to/env0/pulumi-vs-terraform-an-in-depth-comparison-52kh)
+- [Magento Automation Tools](https://dev.to/rimiweb/magento-automation-tools-oaf)
+- [Navigating the XZ Utils Security Vulnerability: A Comprehensive Guide](https://dev.to/atixag/navigating-the-xz-utils-security-vulnerabilitya-comprehensive-guide-438f)
+- [Frame fushion](https://dev.to/ezecodes/frame-fushion-570o)
 <!-- BLOG-POST-LIST:END -->
 
