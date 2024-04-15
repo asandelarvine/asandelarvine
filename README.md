@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Interactive Time-Tracking Report with React and TypeScript](https://dev.to/rodionchachura/creating-an-interactive-time-tracking-report-with-react-and-typescript-2ke1)
-- [TherapistAI: AI-powered mental health support](https://dev.to/erickluis/therapistai-ai-powered-mental-health-support-lg2)
-- [Managing File System Permissions from the Command Line](https://dev.to/zahroo/managing-file-system-permissions-from-the-command-line-g52)
-- [Gaining Superuser Access](https://dev.to/zahroo/gaining-superuser-access-12lk)
+- [Power Automate, The Direct Methodology Part 2](https://dev.to/wyattdave/power-automate-the-direct-methodology-part-2-2d3k)
+- [Modern Advanced Authentication for Kubernetes API Gateway](https://dev.to/getambassador2024/modern-advanced-authentication-for-kubernetes-api-gateway-m4j)
+- [2024 Site Reliability Engineering: Key Trends and Focus Areas for SREs](https://dev.to/getambassador2024/2024-site-reliability-engineering-key-trends-and-focus-areas-for-sres-1fa)
+- [AI Interview Simulator](https://dev.to/nicobytes/ai-interview-simulator-48e1)
 <!-- BLOG-POST-LIST:END -->
 
