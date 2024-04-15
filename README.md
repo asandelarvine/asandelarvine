@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi vs Terraform: An In-Depth Comparison](https://dev.to/env0/pulumi-vs-terraform-an-in-depth-comparison-52kh)
-- [Magento Automation Tools](https://dev.to/rimiweb/magento-automation-tools-oaf)
-- [Navigating the XZ Utils Security Vulnerability: A Comprehensive Guide](https://dev.to/atixag/navigating-the-xz-utils-security-vulnerabilitya-comprehensive-guide-438f)
-- [Frame fushion](https://dev.to/ezecodes/frame-fushion-570o)
+- [Ibuprofeno.py💊| #81: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-81-explica-este-codigo-python-1gmg)
+- [Podcast Palooza— What are you listening to? &lpar;Audiobook Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-audiobook-edition-1pf)
+- [The full developer manual of the productivity application RunFlow](https://dev.to/easepan/the-full-developer-manual-of-the-productivity-application-runflow-1cb2)
+- [Meme Monday](https://dev.to/ben/meme-monday-22jl)
 <!-- BLOG-POST-LIST:END -->
 
