@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when you type a URL into your browser?](https://dev.to/dhanushnehru/what-happens-when-you-type-a-url-into-your-browser-4phh)
-- [C# Regex Performance: How To Squeeze Out Performance](https://dev.to/devleader/c-regex-performance-how-to-squeeze-out-performance-34b0)
-- [Day 1 of 30 : Machine Learning](https://dev.to/ngneha09/day-1-of-30-machine-learning-4pko)
-- [How can I improve my posts?](https://dev.to/spandan/how-can-i-improve-my-posts-55h5)
+- [Music Monday — What are you listening to? &lpar;Album Artwork Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-album-artwork-edition-2pna)
+- [Is the AWS Certified Cloud Practitioner Certification Worth It?](https://dev.to/damienjburks/is-the-aws-certified-cloud-practitioner-certification-worth-it-67d)
+- [Mastering Professional Growth with Knowledge Consumption Velocity &lpar;KCV&rpar;](https://dev.to/dev3l/mastering-professional-growth-with-knowledge-consumption-velocity-kcv-1352)
+- [Getting started with Packer in 2024](https://dev.to/miry/getting-started-with-packer-in-2024-56d5)
 <!-- BLOG-POST-LIST:END -->
 
