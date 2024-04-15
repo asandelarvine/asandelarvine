@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #81: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-81-explica-este-codigo-python-1gmg)
-- [Podcast Palooza— What are you listening to? &lpar;Audiobook Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-audiobook-edition-1pf)
-- [The full developer manual of the productivity application RunFlow](https://dev.to/easepan/the-full-developer-manual-of-the-productivity-application-runflow-1cb2)
-- [Meme Monday](https://dev.to/ben/meme-monday-22jl)
+- [Express](https://dev.to/dariusc16/express-4ajd)
+- [How to Mounting NAS in 3 Way](https://dev.to/seno21/how-to-mounting-nas-in-3-way-4elg)
+- [Understanding Kappa Architecture and Kafka: Empowering Real-Time Data Processing](https://dev.to/darioajr/understanding-kappa-architecture-and-kafka-empowering-real-time-data-processing-4698)
+- [Measuring and Enhancing DevSecOps Posture: Key Metrics](https://dev.to/sophie_wilson0412/measuring-and-enhancing-devsecops-posture-key-metrics-160l)
 <!-- BLOG-POST-LIST:END -->
 
