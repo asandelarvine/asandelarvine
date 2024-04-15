@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Top accessibility errors and how to avoid and fix them](https://dev.to/schalkneethling/10-top-accessibility-errors-and-how-to-avoid-and-fix-them-1ncd)
-- [Boost Productivity &amp; Quality: Essential VS Code Extensions](https://dev.to/saloniagrawal/boost-productivity-quality-essential-vs-code-extensions-18oj)
-- [Comment faire sa première contribution dans le monde de l’Open Source](https://dev.to/tacite243/comment-faire-sa-premiere-contribution-dans-le-monde-de-lopen-source-3ih3)
-- [Embedded Rust Bluetooth on ESP: Secure BLE Server](https://dev.to/apollolabsbin/embedded-rust-bluetooth-on-esp-secure-ble-server-3604)
+- [Three.js Tutorials](https://dev.to/rustcodeweb/threejs-tutorials-na2)
+- [DevLog #11 - Sprint Backlog](https://dev.to/amilarangana/devlog-11-sprint-backlog-346o)
+- [SASS](https://dev.to/fernandomoyano/sass-464d)
+- [Algorithmic Collective Action in Recommender Systems: Promoting Songs by Reordering Playlists](https://dev.to/mikeyoung44/algorithmic-collective-action-in-recommender-systems-promoting-songs-by-reordering-playlists-1k7k)
 <!-- BLOG-POST-LIST:END -->
 
