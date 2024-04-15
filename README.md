@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK AI - 15 April 2024](https://dev.to/tspannhw/flank-ai-15-april-2024-54hi)
-- [Git commands you need to know!](https://dev.to/codeparrot/git-commands-you-need-to-know-3o22)
-- [Master C# with advanced tutorials](https://dev.to/turalsuleymani/master-c-with-advanced-tutorials-1a0)
-- [How to build a DevTools Extensions - Flutter News 2024 #15 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-15-eyie-bfb)
+- [Essential C# Developer’s Guide to Troubleshooting Frequent Compile-Time Errors](https://dev.to/ssukhpinder/essential-c-developers-guide-to-troubleshooting-frequent-compile-time-errors-303)
+- [Type of Lists in HTML](https://dev.to/khattakdevelopment/type-of-lists-in-html-19hg)
+- [BUN](https://dev.to/khamal22/bun-4cb8)
+- [Week 0: New NOTR Server -Migrating Data from MongoDB to PostgreSQL](https://dev.to/aldoportillo/week-0-new-notr-server-migrating-data-from-mongodb-to-postgresql-5ea2)
 <!-- BLOG-POST-LIST:END -->
 
