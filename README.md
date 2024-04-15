@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento Orientado ao MVP &lpar;Mínimo Produto Viável&rpar;](https://dev.to/kecbm/desenvolvimento-orientado-ao-mvp-minimo-produto-viavel-km4)
-- [How to add logged in user data in Firebase &lpar;Authentication / Cloud Firestore&rpar;](https://dev.to/rajatamil/how-to-add-logged-in-user-data-in-firebase-authentication-cloud-firestore-onj)
-- [Understanding SSR and SSG in Modern Web Development](https://dev.to/mario130/understanding-ssr-and-ssg-in-modern-web-development-5492)
-- [Discover the Latest in ApsaraDB for MongoDB 7.0 and How It Can Benefit Your Business](https://dev.to/mrboogiej/discover-the-latest-in-apsaradb-for-mongodb-70-and-how-it-can-benefit-your-business-4p93)
+- [What happens when you type a URL into your browser?](https://dev.to/dhanushnehru/what-happens-when-you-type-a-url-into-your-browser-4phh)
+- [C# Regex Performance: How To Squeeze Out Performance](https://dev.to/devleader/c-regex-performance-how-to-squeeze-out-performance-34b0)
+- [Day 1 of 30 : Machine Learning](https://dev.to/ngneha09/day-1-of-30-machine-learning-4pko)
+- [How can I improve my posts?](https://dev.to/spandan/how-can-i-improve-my-posts-55h5)
 <!-- BLOG-POST-LIST:END -->
 
