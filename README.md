@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 22: A Glimpse into the Future of Java Development](https://dev.to/dbillion/java-22-a-glimpse-into-the-future-of-java-development-57aa)
-- [4 Habits to Avoid Bugs related to Hoisting in your JavaScript Code](https://dev.to/shubhsharma19/4-habits-to-avoid-bugs-related-to-hoisting-in-your-javascript-code-4i3i)
-- [Elevate Your Interview Preparation with the AI Interviewer App](https://dev.to/prajjwalsule21/elevate-your-interview-preparation-with-the-ai-interviewer-app-2n84)
-- [190 Python Projects with Source Code](https://dev.to/afzalimdad9/190-python-projects-with-source-code-2jfc)
+- [10 Top accessibility errors and how to avoid and fix them](https://dev.to/schalkneethling/10-top-accessibility-errors-and-how-to-avoid-and-fix-them-1ncd)
+- [Boost Productivity &amp; Quality: Essential VS Code Extensions](https://dev.to/saloniagrawal/boost-productivity-quality-essential-vs-code-extensions-18oj)
+- [Comment faire sa première contribution dans le monde de l’Open Source](https://dev.to/tacite243/comment-faire-sa-premiere-contribution-dans-le-monde-de-lopen-source-3ih3)
+- [Embedded Rust Bluetooth on ESP: Secure BLE Server](https://dev.to/apollolabsbin/embedded-rust-bluetooth-on-esp-secure-ble-server-3604)
 <!-- BLOG-POST-LIST:END -->
 
