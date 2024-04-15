@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Notification System Design for 50 Million Users &lpar;Database Design&rpar;](https://dev.to/ndohjapan/scalable-notification-system-design-for-50-million-users-database-design-4cl)
-- [How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
-- [Gitlens Tutorial - Visual Studio Extension 2024](https://dev.to/bytehide/gitlens-tutorial-visual-studio-extension-2024-105d)
-- [Dotfiles: Managing with GNU Stow and Git](https://dev.to/luxcih/dotfiles-managing-with-gnu-stow-and-git-5100)
+- [Navigating the Accounting Software Landscape: A Comprehensive Guide](https://dev.to/jasskarley/navigating-the-accounting-software-landscape-a-comprehensive-guide-3hpp)
+- [What LLMs Can and Cannot Do in Small Game Creation](https://dev.to/abagames/what-llms-can-and-cannot-do-in-small-game-creation-4bnj)
+- [Steps To Build An E-Commerce Jewelry Store](https://dev.to/julianevan/steps-to-build-an-e-commerce-jewelry-store-2k8h)
+- [11 Essential KPIs for Software Development](https://dev.to/remotebase/11-essential-kpis-for-software-development-kph)
 <!-- BLOG-POST-LIST:END -->
 
