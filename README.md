@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Album Artwork Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-album-artwork-edition-2pna)
-- [Is the AWS Certified Cloud Practitioner Certification Worth It?](https://dev.to/damienjburks/is-the-aws-certified-cloud-practitioner-certification-worth-it-67d)
-- [Mastering Professional Growth with Knowledge Consumption Velocity &lpar;KCV&rpar;](https://dev.to/dev3l/mastering-professional-growth-with-knowledge-consumption-velocity-kcv-1352)
-- [Getting started with Packer in 2024](https://dev.to/miry/getting-started-with-packer-in-2024-56d5)
+- [FLaNK AI - 15 April 2024](https://dev.to/tspannhw/flank-ai-15-april-2024-54hi)
+- [Git commands you need to know!](https://dev.to/codeparrot/git-commands-you-need-to-know-3o22)
+- [Master C# with advanced tutorials](https://dev.to/turalsuleymani/master-c-with-advanced-tutorials-1a0)
+- [How to build a DevTools Extensions - Flutter News 2024 #15 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-15-eyie-bfb)
 <!-- BLOG-POST-LIST:END -->
 
