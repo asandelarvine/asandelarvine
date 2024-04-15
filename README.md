@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate, The Direct Methodology Part 2](https://dev.to/wyattdave/power-automate-the-direct-methodology-part-2-2d3k)
-- [Modern Advanced Authentication for Kubernetes API Gateway](https://dev.to/getambassador2024/modern-advanced-authentication-for-kubernetes-api-gateway-m4j)
-- [2024 Site Reliability Engineering: Key Trends and Focus Areas for SREs](https://dev.to/getambassador2024/2024-site-reliability-engineering-key-trends-and-focus-areas-for-sres-1fa)
-- [AI Interview Simulator](https://dev.to/nicobytes/ai-interview-simulator-48e1)
+- [Understanding SQL Subqueries: A Brief Overview](https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j)
+- [How Do You Define &quot;Meaningful Work?&quot;](https://dev.to/devteam/how-do-you-define-meaningful-work-36ha)
+- [Secure the software supply chain with AWS Signer for signing and validating OCI artifacts](https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9)
+- [Leveraging Dependency Injection for Clean and SOLID Code in Node.js](https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4)
 <!-- BLOG-POST-LIST:END -->
 
