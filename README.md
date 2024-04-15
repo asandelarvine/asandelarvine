@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Express](https://dev.to/dariusc16/express-4ajd)
-- [How to Mounting NAS in 3 Way](https://dev.to/seno21/how-to-mounting-nas-in-3-way-4elg)
-- [Understanding Kappa Architecture and Kafka: Empowering Real-Time Data Processing](https://dev.to/darioajr/understanding-kappa-architecture-and-kafka-empowering-real-time-data-processing-4698)
-- [Measuring and Enhancing DevSecOps Posture: Key Metrics](https://dev.to/sophie_wilson0412/measuring-and-enhancing-devsecops-posture-key-metrics-160l)
+- [Desenvolvimento Orientado ao MVP &lpar;Mínimo Produto Viável&rpar;](https://dev.to/kecbm/desenvolvimento-orientado-ao-mvp-minimo-produto-viavel-km4)
+- [How to add logged in user data in Firebase &lpar;Authentication / Cloud Firestore&rpar;](https://dev.to/rajatamil/how-to-add-logged-in-user-data-in-firebase-authentication-cloud-firestore-onj)
+- [Understanding SSR and SSG in Modern Web Development](https://dev.to/mario130/understanding-ssr-and-ssg-in-modern-web-development-5492)
+- [Discover the Latest in ApsaraDB for MongoDB 7.0 and How It Can Benefit Your Business](https://dev.to/mrboogiej/discover-the-latest-in-apsaradb-for-mongodb-70-and-how-it-can-benefit-your-business-4p93)
 <!-- BLOG-POST-LIST:END -->
 
