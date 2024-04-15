@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Vue.js Performance with v-if and v-show Directives](https://dev.to/amatisse/optimizing-vuejs-performance-with-v-if-and-v-show-directives-3f3p)
-- [Introducing Rails Icons: One Gem to Rule Them All](https://dev.to/railsdesigner/introducing-rails-icons-one-gem-to-rule-them-all-5051)
-- [A comprehensive guide to Promises, Async, and Await in JavaScript](https://dev.to/vaatiesther/a-comprehensive-guide-to-promises-async-and-await-in-javascript-jom)
-- [What set of workout weights should I get?](https://dev.to/zhenhan/what-set-of-workout-weights-should-i-get-4hj8)
+- [Scalable Notification System Design for 50 Million Users &lpar;Database Design&rpar;](https://dev.to/ndohjapan/scalable-notification-system-design-for-50-million-users-database-design-4cl)
+- [How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
+- [Gitlens Tutorial - Visual Studio Extension 2024](https://dev.to/bytehide/gitlens-tutorial-visual-studio-extension-2024-105d)
+- [Dotfiles: Managing with GNU Stow and Git](https://dev.to/luxcih/dotfiles-managing-with-gnu-stow-and-git-5100)
 <!-- BLOG-POST-LIST:END -->
 
