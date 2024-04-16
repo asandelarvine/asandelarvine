@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test Logging with FakeLogger](https://dev.to/canro91/how-to-test-logging-with-fakelogger-4dgc)
-- [Hello, dev.to!](https://dev.to/jackmacwindows/hello-devto-42fk)
-- [Building Domain Name Generator using Lyzr SDK](https://dev.to/akshay007/building-domain-name-generator-using-lyzr-sdk-4i1k)
-- [５章10](https://dev.to/aaattt/5zhang-10-68l)
+- [Understanding the useEffect Hook in React](https://dev.to/ashsajal/understanding-the-useeffect-hook-in-react-knm)
+- [Front-end specialisations: Accessibility](https://dev.to/r4nd3l/front-end-specialisations-accessibility-ff9)
+- [Optimizing Classroom Time: Using Lyzr-Automata to Generate Effective Timetables](https://dev.to/iamrash/optimizing-classroom-time-using-lyzr-automata-to-generate-effective-timetables-17p7)
+- [CSS_Code_Generator](https://dev.to/chhavi/csscodegenerator-3lpl)
 <!-- BLOG-POST-LIST:END -->
 
