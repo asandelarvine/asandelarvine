@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #82: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-82-explica-este-codigo-python-p6g)
-- [🕵️‍♂️ The Art of Self-Learning: How to Teach Yourself Any Programming Concept 🤓](https://dev.to/wasp/the-art-of-self-learning-how-to-teach-yourself-any-programming-concept-5de4)
-- [CS50 PSet Filter&lpar;more&rpar; : filter.c](https://dev.to/vivekvohra/cs50-pset-filtermore-filterc-2ld8)
-- [Code Hot Takes](https://dev.to/nikacodes/code-hot-takes-16kp)
+- [Using React and Firebase for Adding Data to Firestore](https://dev.to/itselftools/using-react-and-firebase-for-adding-data-to-firestore-2fee)
+- [ข่าวจริงหรือเท็จ AI ช่วยคุณได้](https://dev.to/pakhawatpongmanawut/khaawcchringhruueethcch-ai-chwykhunaid-3l9n)
+- [Mastering XState Fundamentals: A React-powered Guide](https://dev.to/ibrocodes/mastering-xstate-fundamentals-a-react-powered-guide-2i3e)
+- [Query Mental Model](https://dev.to/gc-victor/query-mental-model-38b0)
 <!-- BLOG-POST-LIST:END -->
 
