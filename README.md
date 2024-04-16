@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Regular Expression Benchmarks – How To Avoid My Mistakes!](https://dev.to/devleader/c-regular-expression-benchmarks-how-to-avoid-my-mistakes-2cef)
-- [Embark on a UI Odyssey: Top 5 Spectacular Libraries to Explore](https://dev.to/basskibo/embark-on-a-ui-odyssey-5-spectacular-libraries-to-explore-4c07)
-- [How we take data-driven decisions with LogSnag](https://dev.to/pontusab/how-we-take-data-driven-decisions-with-logsnag-2nco)
-- [Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
+- [Check if the Sentence Is Pangram | LeetCode | Java](https://dev.to/tanujav/check-if-the-sentence-is-pangram-leetcode-java-abp)
+- [Inside the Box: March Community Update](https://dev.to/codesandboxio/inside-the-box-march-community-update-3o46)
+- [#2 Variáveis - Entendendo o JavaScript](https://dev.to/joaopedrov0/2-variaveis-entendendo-o-javascript-3oc1)
+- [📌Data Structure &lpar;pt 1&rpar;](https://dev.to/developedbyjk/data-structure-pt-1-3lgb)
 <!-- BLOG-POST-LIST:END -->
 
