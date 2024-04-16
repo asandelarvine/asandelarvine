@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using React and Firebase for Adding Data to Firestore](https://dev.to/itselftools/using-react-and-firebase-for-adding-data-to-firestore-2fee)
-- [ข่าวจริงหรือเท็จ AI ช่วยคุณได้](https://dev.to/pakhawatpongmanawut/khaawcchringhruueethcch-ai-chwykhunaid-3l9n)
-- [Mastering XState Fundamentals: A React-powered Guide](https://dev.to/ibrocodes/mastering-xstate-fundamentals-a-react-powered-guide-2i3e)
-- [Query Mental Model](https://dev.to/gc-victor/query-mental-model-38b0)
+- [Vitest In-Source Testing for SFC in Vue?](https://dev.to/jquinten/vitest-in-source-testing-for-sfc-in-vue-4cae)
+- [Under the Hook - The Cortex Runtime](https://dev.to/jenswritescode/under-the-hook-the-cortex-runtime-252m)
+- [GoLang JWT Authentication Using Golang Gin Framework with MongoDB](https://dev.to/codegirl0101/golang-jwt-authentication-using-golang-gin-framework-with-mongodb-111m)
+- [How to Use Flume in your Elixir Application](https://dev.to/appsignal/how-to-use-flume-in-your-elixir-application-49d3)
 <!-- BLOG-POST-LIST:END -->
 
