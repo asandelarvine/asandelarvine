@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vitest In-Source Testing for SFC in Vue?](https://dev.to/jquinten/vitest-in-source-testing-for-sfc-in-vue-4cae)
-- [Under the Hook - The Cortex Runtime](https://dev.to/jenswritescode/under-the-hook-the-cortex-runtime-252m)
-- [GoLang JWT Authentication Using Golang Gin Framework with MongoDB](https://dev.to/codegirl0101/golang-jwt-authentication-using-golang-gin-framework-with-mongodb-111m)
-- [How to Use Flume in your Elixir Application](https://dev.to/appsignal/how-to-use-flume-in-your-elixir-application-49d3)
+- [C# Regular Expression Benchmarks – How To Avoid My Mistakes!](https://dev.to/devleader/c-regular-expression-benchmarks-how-to-avoid-my-mistakes-2cef)
+- [Embark on a UI Odyssey: Top 5 Spectacular Libraries to Explore](https://dev.to/basskibo/embark-on-a-ui-odyssey-5-spectacular-libraries-to-explore-4c07)
+- [How we take data-driven decisions with LogSnag](https://dev.to/pontusab/how-we-take-data-driven-decisions-with-logsnag-2nco)
+- [Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
 <!-- BLOG-POST-LIST:END -->
 
