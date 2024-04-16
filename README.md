@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AI enthusiasm #6 - Finetune any LLM you want💡](https://dev.to/astrabert/ai-enthusiasm-6-finetune-any-llm-you-want-3ocg)
+- [Guide To Building a Powerful Telegram Chat Bot With N8n](https://dev.to/rayyan_shaikh/guide-to-building-a-powerful-telegram-chat-bot-with-n8n-4bjh)
+- [Simplify API Mocking and Testing with Mock-API: Your New Development Companion!](https://dev.to/samirfcis/simplify-api-mocking-and-testing-with-mock-api-your-new-development-companion-337)
 - [🤯 Keep Up With these 50 Articles](https://dev.to/florianrappl/keep-up-with-these-50-articles-18ah)
-- [Sinful Animations: Adding Motion to React Apps](https://dev.to/kigazon/sinful-animations-adding-motion-to-react-apps-3bck)
-- [Tailwind CSS product overview components built for E-commerce websites](https://dev.to/themesberg/tailwind-css-product-overview-components-built-for-e-commerce-websites-4m73)
-- [How AutoMQ achieves 10x cost-efficiency: Spot Instance](https://dev.to/automq/how-automq-achieves-10x-cost-efficiency-spot-instance-3jo4)
 <!-- BLOG-POST-LIST:END -->
 
