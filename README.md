@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the useEffect Hook in React](https://dev.to/ashsajal/understanding-the-useeffect-hook-in-react-knm)
-- [Front-end specialisations: Accessibility](https://dev.to/r4nd3l/front-end-specialisations-accessibility-ff9)
-- [Optimizing Classroom Time: Using Lyzr-Automata to Generate Effective Timetables](https://dev.to/iamrash/optimizing-classroom-time-using-lyzr-automata-to-generate-effective-timetables-17p7)
-- [CSS_Code_Generator](https://dev.to/chhavi/csscodegenerator-3lpl)
+- [Crack the Code: Can Anybody Learn?](https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf)
+- [Creating an OG image using React and Netlify Edge Functions](https://dev.to/opensauced/creating-an-og-image-using-react-and-netlify-edge-functions-563a)
+- [A guide to feature flags in Laravel using Laravel Pennant](https://dev.to/honeybadger/a-guide-to-feature-flags-in-laravel-using-laravel-pennant-37k6)
+- [Top 13 Angular Ionic Templates of 2023: Free &amp; Premium Picks](https://dev.to/codemarket/top-13-angular-ionic-templates-of-2023-free-premium-picks-5a23)
 <!-- BLOG-POST-LIST:END -->
 
