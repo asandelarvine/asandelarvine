@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to resolve requireNativeComponent: &quot;RNSScreenStackHeaderConfig&quot; was not found in the UIManager in React Native](https://dev.to/ambasseugene/how-to-resolve-requirenativecomponent-rnsscreenstackheaderconfig-was-not-found-in-the-uimanager-in-react-native-17dh)
-- [Mastering SEO with React: Strategies and Code Insights](https://dev.to/function12_io/mastering-seo-with-react-strategies-and-code-insights-2e4)
-- [PYTHON FUNCTIONS](https://dev.to/maame-codes/python-functions-l11)
-- [Resilience and Failure Management in DevOps](https://dev.to/allanpablo/resilience-and-failure-management-in-devops-4l7i)
+- [５章５](https://dev.to/aaattt/5zhang-5-4e)
+- [Exploring LLM RAG Application Vulnerabilities](https://dev.to/rutamstwt/exploring-llm-rag-application-vulnerabilities-n94)
+- [５章4](https://dev.to/aaattt/5zhang-4-35db)
+- [Creating a Planning Poker Demo app 🃏🕹️](https://dev.to/mattlewandowski93/creating-a-planning-poker-demo-app-394h)
 <!-- BLOG-POST-LIST:END -->
 
