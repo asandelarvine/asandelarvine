@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Security Tips for Golang Apps - validation, sanitization, auth, CSRF attacks, hashing ++](https://dev.to/nikl/12-security-tips-for-golang-apps-validation-sanitization-auth-csrf-attacks-hashing--28om)
-- [Angular PWA &amp; Service Workers &lpar;install app, push notifications, offline cache and updates&rpar;](https://dev.to/chrislydemann/angular-pwa-service-workers-install-app-push-notifications-offline-cache-and-updates-2514)
-- [Closing Note [Spartans Summit 2024]](https://dev.to/lambdatest/closing-note-spartans-summit-2024-4ki5)
-- [Get started with Drizzle ORM and Xata&#39;s Postgres service](https://dev.to/xata/get-started-with-drizzle-orm-and-xatas-postgres-service-43mi)
+- [Ibuprofeno.py💊| #82: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-82-explica-este-codigo-python-p6g)
+- [🕵️‍♂️ The Art of Self-Learning: How to Teach Yourself Any Programming Concept 🤓](https://dev.to/wasp/the-art-of-self-learning-how-to-teach-yourself-any-programming-concept-5de4)
+- [CS50 PSet Filter&lpar;more&rpar; : filter.c](https://dev.to/vivekvohra/cs50-pset-filtermore-filterc-2ld8)
+- [Code Hot Takes](https://dev.to/nikacodes/code-hot-takes-16kp)
 <!-- BLOG-POST-LIST:END -->
 
