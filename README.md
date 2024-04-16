@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crack the Code: Can Anybody Learn?](https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf)
-- [Creating an OG image using React and Netlify Edge Functions](https://dev.to/opensauced/creating-an-og-image-using-react-and-netlify-edge-functions-563a)
-- [A guide to feature flags in Laravel using Laravel Pennant](https://dev.to/honeybadger/a-guide-to-feature-flags-in-laravel-using-laravel-pennant-37k6)
-- [Top 13 Angular Ionic Templates of 2023: Free &amp; Premium Picks](https://dev.to/codemarket/top-13-angular-ionic-templates-of-2023-free-premium-picks-5a23)
+- [Creating your own UI extension points in Umbraco v14 - Part 5: Kinds](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-5-kinds-1il5)
+- [Building an Interactive Island Popup with HTML, CSS, and JavaScript || FREE Source Code](https://dev.to/withaarzoo/building-an-interactive-island-popup-with-html-css-and-javascript-free-source-code-39lj)
+- [６章８](https://dev.to/aaattt/6zhang-8-57jj)
+- [شیوه‌ی طبخ غذاهای ایرانی](https://dev.to/saeedhasani_55/shywhy-tbkh-gdhhy-yrny-2703)
 <!-- BLOG-POST-LIST:END -->
 
