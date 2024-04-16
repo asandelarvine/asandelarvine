@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s See Your Terminal](https://dev.to/tiffany/lets-see-your-terminal-mgo)
-- [Animated Cute Puppy with HTML and CSS || FREE Source Code](https://dev.to/withaarzoo/animated-cute-puppy-with-html-and-css-free-source-code-451k)
-- [The Dark Modal: Crafting Reusable React Modals](https://dev.to/kigazon/the-dark-modal-crafting-reusable-react-modals-1h8i)
-- [AI Inference now available in Supabase Edge Functions](https://dev.to/supabase/ai-inference-now-available-in-supabase-edge-functions-3ae1)
+- [Image based Function Calling with gemini-1.0-pro-vision](https://dev.to/vishalmysore/image-based-function-calling-with-gemini-10-pro-vision-3hld)
+- [Understanding &#39;Use strict&#39; in JavaScript](https://dev.to/symplymuslimah12/understanding-use-strict-in-javascript-4ik3)
+- [Bedrock&lpar;ing&rpar; the Kasbah](https://dev.to/aws-builders/bedrocking-the-kasbah-3860)
+- [DevLog #12 - Kanban](https://dev.to/amilarangana/devlog-12-kanban-1nk1)
 <!-- BLOG-POST-LIST:END -->
 
