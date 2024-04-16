@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Multiple SSH Keys for Different GitHub Accounts](https://dev.to/paulund/how-to-manage-multiple-ssh-keys-for-different-github-accounts-epc)
-- [Demystifying REST APIs](https://dev.to/rinonten/demystifying-rest-apis-4o2l)
-- [Web Crawler in Python](https://dev.to/skipperhoa/web-crawler-in-python-dpn)
-- [User State Management in Web Applications: Login &amp; Signup](https://dev.to/kcastillo3/user-state-management-in-web-applications-login-signup-11b)
+- [🤯 Keep Up With these 50 Articles](https://dev.to/florianrappl/keep-up-with-these-50-articles-18ah)
+- [Sinful Animations: Adding Motion to React Apps](https://dev.to/kigazon/sinful-animations-adding-motion-to-react-apps-3bck)
+- [Tailwind CSS product overview components built for E-commerce websites](https://dev.to/themesberg/tailwind-css-product-overview-components-built-for-e-commerce-websites-4m73)
+- [How AutoMQ achieves 10x cost-efficiency: Spot Instance](https://dev.to/automq/how-automq-achieves-10x-cost-efficiency-spot-instance-3jo4)
 <!-- BLOG-POST-LIST:END -->
 
