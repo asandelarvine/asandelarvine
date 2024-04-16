@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [4] Implementation of Begin Work Phase of Render Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-4-implementation-of-begin-work-phase-of-render-process-300p)
-- [Promices and Async Await](https://dev.to/rohiitbagal/promices-and-async-await-2p0k)
-- [RAG Redefined : Ready-to-Deploy RAG for Organizations at Scale.](https://dev.to/exploredataaiml/rag-redefined-ready-to-deploy-rag-for-organizations-at-scale-3lep)
-- [FactoryBot: the secret weapon called @overrides](https://dev.to/povilasjurcys/factorybot-the-secret-weapon-called-overrides-n31)
+- [How to Test Logging with FakeLogger](https://dev.to/canro91/how-to-test-logging-with-fakelogger-4dgc)
+- [Hello, dev.to!](https://dev.to/jackmacwindows/hello-devto-42fk)
+- [Building Domain Name Generator using Lyzr SDK](https://dev.to/akshay007/building-domain-name-generator-using-lyzr-sdk-4i1k)
+- [５章10](https://dev.to/aaattt/5zhang-10-68l)
 <!-- BLOG-POST-LIST:END -->
 
