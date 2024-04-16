@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check if the Sentence Is Pangram | LeetCode | Java](https://dev.to/tanujav/check-if-the-sentence-is-pangram-leetcode-java-abp)
-- [Inside the Box: March Community Update](https://dev.to/codesandboxio/inside-the-box-march-community-update-3o46)
-- [#2 Variáveis - Entendendo o JavaScript](https://dev.to/joaopedrov0/2-variaveis-entendendo-o-javascript-3oc1)
-- [📌Data Structure &lpar;pt 1&rpar;](https://dev.to/developedbyjk/data-structure-pt-1-3lgb)
+- [How do ad blockers work in the browser?](https://dev.to/richardshaju/how-do-ad-blockers-work-in-the-browser-4ncn)
+- [/token route for oidc provider](https://dev.to/vimal_adithan/token-route-for-oidc-provider-4g5c)
+- [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
+- [Day 1 of 30 of JavaScript](https://dev.to/akshat0610/day-1-of-30-of-javascript-5hn1)
 <!-- BLOG-POST-LIST:END -->
 
