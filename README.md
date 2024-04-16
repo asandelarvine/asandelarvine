@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating your own UI extension points in Umbraco v14 - Part 5: Kinds](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-5-kinds-1il5)
-- [Building an Interactive Island Popup with HTML, CSS, and JavaScript || FREE Source Code](https://dev.to/withaarzoo/building-an-interactive-island-popup-with-html-css-and-javascript-free-source-code-39lj)
-- [６章８](https://dev.to/aaattt/6zhang-8-57jj)
-- [شیوه‌ی طبخ غذاهای ایرانی](https://dev.to/saeedhasani_55/shywhy-tbkh-gdhhy-yrny-2703)
+- [How to Manage Multiple SSH Keys for Different GitHub Accounts](https://dev.to/paulund/how-to-manage-multiple-ssh-keys-for-different-github-accounts-epc)
+- [Demystifying REST APIs](https://dev.to/rinonten/demystifying-rest-apis-4o2l)
+- [Web Crawler in Python](https://dev.to/skipperhoa/web-crawler-in-python-dpn)
+- [User State Management in Web Applications: Login &amp; Signup](https://dev.to/kcastillo3/user-state-management-in-web-applications-login-signup-11b)
 <!-- BLOG-POST-LIST:END -->
 
