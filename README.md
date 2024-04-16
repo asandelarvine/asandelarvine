@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Image based Function Calling with gemini-1.0-pro-vision](https://dev.to/vishalmysore/image-based-function-calling-with-gemini-10-pro-vision-3hld)
-- [Understanding &#39;Use strict&#39; in JavaScript](https://dev.to/symplymuslimah12/understanding-use-strict-in-javascript-4ik3)
-- [Bedrock&lpar;ing&rpar; the Kasbah](https://dev.to/aws-builders/bedrocking-the-kasbah-3860)
-- [DevLog #12 - Kanban](https://dev.to/amilarangana/devlog-12-kanban-1nk1)
+- [Chat with your Github Repo using llama_index and chainlit](https://dev.to/karanjanthe/chat-with-your-github-repo-using-llamaindex-and-chainlit-452f)
+- [Day 945 : D.E.E.P.](https://dev.to/dwane/day-945-deep-ald)
+- [H2O-Danube-1.8B Technical Report](https://dev.to/mikeyoung44/h2o-danube-18b-technical-report-5cpd)
+- [Dataset Reset Policy Optimization for RLHF](https://dev.to/mikeyoung44/dataset-reset-policy-optimization-for-rlhf-2e51)
 <!-- BLOG-POST-LIST:END -->
 
