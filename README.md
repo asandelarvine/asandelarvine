@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free online planning poker](https://dev.to/mattlewandowski93/free-online-planning-poker-bfe)
-- [Finding the right learning approach](https://dev.to/valeriahhdez/finding-the-right-learning-approach-5a6n)
-- [Improving Dynamic Component Loader Typings in Angular Using Inputs](https://dev.to/bwca/improving-dynamic-component-loader-typings-in-angular-using-inputs-obl)
-- [Weekly goals of Modderz Android app](https://dev.to/theplebdev/weekly-goals-of-modderz-android-app-2clh)
+- [How to resolve requireNativeComponent: &quot;RNSScreenStackHeaderConfig&quot; was not found in the UIManager in React Native](https://dev.to/ambasseugene/how-to-resolve-requirenativecomponent-rnsscreenstackheaderconfig-was-not-found-in-the-uimanager-in-react-native-17dh)
+- [Mastering SEO with React: Strategies and Code Insights](https://dev.to/function12_io/mastering-seo-with-react-strategies-and-code-insights-2e4)
+- [PYTHON FUNCTIONS](https://dev.to/maame-codes/python-functions-l11)
+- [Resilience and Failure Management in DevOps](https://dev.to/allanpablo/resilience-and-failure-management-in-devops-4l7i)
 <!-- BLOG-POST-LIST:END -->
 
