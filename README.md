@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI enthusiasm #6 - Finetune any LLM you want💡](https://dev.to/astrabert/ai-enthusiasm-6-finetune-any-llm-you-want-3ocg)
-- [Guide To Building a Powerful Telegram Chat Bot With N8n](https://dev.to/rayyan_shaikh/guide-to-building-a-powerful-telegram-chat-bot-with-n8n-4bjh)
-- [Simplify API Mocking and Testing with Mock-API: Your New Development Companion!](https://dev.to/samirfcis/simplify-api-mocking-and-testing-with-mock-api-your-new-development-companion-337)
-- [🤯 Keep Up With these 50 Articles](https://dev.to/florianrappl/keep-up-with-these-50-articles-18ah)
+- [12 Security Tips for Golang Apps - validation, sanitization, auth, CSRF attacks, hashing ++](https://dev.to/nikl/12-security-tips-for-golang-apps-validation-sanitization-auth-csrf-attacks-hashing--28om)
+- [Angular PWA &amp; Service Workers &lpar;install app, push notifications, offline cache and updates&rpar;](https://dev.to/chrislydemann/angular-pwa-service-workers-install-app-push-notifications-offline-cache-and-updates-2514)
+- [Closing Note [Spartans Summit 2024]](https://dev.to/lambdatest/closing-note-spartans-summit-2024-4ki5)
+- [Get started with Drizzle ORM and Xata&#39;s Postgres service](https://dev.to/xata/get-started-with-drizzle-orm-and-xatas-postgres-service-43mi)
 <!-- BLOG-POST-LIST:END -->
 
