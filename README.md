@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do ad blockers work in the browser?](https://dev.to/richardshaju/how-do-ad-blockers-work-in-the-browser-4ncn)
-- [/token route for oidc provider](https://dev.to/vimal_adithan/token-route-for-oidc-provider-4g5c)
-- [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
-- [Day 1 of 30 of JavaScript](https://dev.to/akshat0610/day-1-of-30-of-javascript-5hn1)
+- [Next js Testing](https://dev.to/syedmuhammadaliraza/next-js-testing-4iog)
+- [Obtener parámetros de la URL como @Input &lpar;Angular 16+&rpar;](https://dev.to/akotech/obtener-parametros-de-la-url-como-input-angular-16-1ka5)
+- [Превращение вашего сайта в PWA: Шаг за шагом](https://dev.to/prast/prievrashchieniie-vashiegho-saita-v-pwa-shagh-za-shaghom-2doh)
+- [Otimizando Custos: Desligamento do RDS na AWS](https://dev.to/nurycaroline/otimizando-custos-desligamento-do-rds-na-aws-275p)
 <!-- BLOG-POST-LIST:END -->
 
