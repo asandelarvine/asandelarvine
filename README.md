@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevinAI Situation ?](https://dev.to/archie_lc/devinai-situation--15ci)
-- [[16/04] Daily Top Startups](https://dev.to/journeypreneur/1604-daily-top-startups-53gk)
-- [623. Add One Row to Tree](https://dev.to/mdarifulhaque/623-add-one-row-to-tree-h2c)
-- [Featured Mod of the Month: Phil Ashby](https://dev.to/devteam/featured-mod-of-the-month-phil-ashby-25oc)
+- [Let&#39;s See Your Terminal](https://dev.to/tiffany/lets-see-your-terminal-mgo)
+- [Animated Cute Puppy with HTML and CSS || FREE Source Code](https://dev.to/withaarzoo/animated-cute-puppy-with-html-and-css-free-source-code-451k)
+- [The Dark Modal: Crafting Reusable React Modals](https://dev.to/kigazon/the-dark-modal-crafting-reusable-react-modals-1h8i)
+- [AI Inference now available in Supabase Edge Functions](https://dev.to/supabase/ai-inference-now-available-in-supabase-edge-functions-3ae1)
 <!-- BLOG-POST-LIST:END -->
 
