@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [５章５](https://dev.to/aaattt/5zhang-5-4e)
-- [Exploring LLM RAG Application Vulnerabilities](https://dev.to/rutamstwt/exploring-llm-rag-application-vulnerabilities-n94)
-- [５章4](https://dev.to/aaattt/5zhang-4-35db)
-- [Creating a Planning Poker Demo app 🃏🕹️](https://dev.to/mattlewandowski93/creating-a-planning-poker-demo-app-394h)
+- [The best SWEs need SCA](https://dev.to/apchapcomputing/the-best-swes-need-sca-87k)
+- [5章7](https://dev.to/aaattt/5zhang-7-1ah4)
+- [５章６](https://dev.to/aaattt/5zhang-6-de7)
+- [Why are foreign keys and primary keys used in databases?](https://dev.to/dgihost/why-are-foreign-keys-and-primary-keys-used-in-databases-30j6)
 <!-- BLOG-POST-LIST:END -->
 
