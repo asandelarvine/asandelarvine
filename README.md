@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Amazon Titan Text Model with Lambda &lpar;Exploring 🤖 Generative AI on AWS&rpar;](https://dev.to/aws-heroes/use-amazon-titan-text-model-with-lambda-exploring-generative-ai-on-aws-c1i)
-- [Don&#39;t Get Time-Warphed! Using GlideDate and GlideDateTime In ServiceNow](https://dev.to/sophiasemga/dont-get-time-warphed-using-glidedate-and-glidedatetime-in-servicenow-2k9l)
-- [Is Javascript&#39;s import syntax semantically wrong?](https://dev.to/oleygon/is-javascripts-import-syntax-semantically-wrong-ge7)
-- [Storybook not picking up tailwindcss](https://dev.to/algoorgoal/storybook-not-picking-up-tailwindcss-1623)
+- [Design Newsletter Emails in Golang](https://dev.to/rhaqim/design-newsletter-emails-in-golang-4h7c)
+- [DeFi Comptroller Smart Contract Review](https://dev.to/ternder/defi-comptroller-smart-contract-review-307i)
+- [CourseBot - Coze AI Bot Challenge](https://dev.to/divyesshm/coursebot-coze-ai-bot-challenge-438e)
+- [Create a collage with AWS Information Technology symbols and logos](https://dev.to/olatunjiayodel9/create-a-collage-with-aws-information-technology-symbols-and-logos-1m3)
 <!-- BLOG-POST-LIST:END -->
 
