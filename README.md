@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JAVASCRIPT TUTORIAL FOR BEGINNERS](https://dev.to/dhyaneshsiddhartha15/javascript-tutorial-for-beginners-4bja)
-- [Day 17/366](https://dev.to/vishalmx3/day-17366-1aea)
-- [Serverless Security Best Practices](https://dev.to/yayabobi/serverless-security-best-practices-m9f)
-- [How can i get real time data analysis using chat-gpt?](https://dev.to/yesswee/how-can-i-get-real-time-data-analysis-using-chat-gpt-pk5)
+- [Use Amazon Titan Text Model with Lambda &lpar;Exploring 🤖 Generative AI on AWS&rpar;](https://dev.to/aws-heroes/use-amazon-titan-text-model-with-lambda-exploring-generative-ai-on-aws-c1i)
+- [Don&#39;t Get Time-Warphed! Using GlideDate and GlideDateTime In ServiceNow](https://dev.to/sophiasemga/dont-get-time-warphed-using-glidedate-and-glidedatetime-in-servicenow-2k9l)
+- [Is Javascript&#39;s import syntax semantically wrong?](https://dev.to/oleygon/is-javascripts-import-syntax-semantically-wrong-ge7)
+- [Storybook not picking up tailwindcss](https://dev.to/algoorgoal/storybook-not-picking-up-tailwindcss-1623)
 <!-- BLOG-POST-LIST:END -->
 
