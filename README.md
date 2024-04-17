@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Efficiency with ID Document Recognition: 8 Hassle-Free Validation Techniques](https://dev.to/faceplugin/unlock-efficiency-with-id-document-recognition-8-hassle-free-validation-techniques-2bg6)
-- [Auth with Clerk](https://dev.to/njabulomajozi/auth-with-clerk-408j)
-- [The Sustainability Impacts of ChatGPT: A Comprehensive Analysis](https://dev.to/thebadcoder96/the-sustainability-impacts-of-chatgpt-a-comprehensive-analysis-2ll8)
-- [Show your personality](https://dev.to/aws-heroes/show-your-personality-7f2)
+- [Succeeding where NASDAQ fails](https://dev.to/polterguy/succeeding-where-nasdaq-fails-5gih)
+- [TAN STACK QUERY&lpar;REACT JS&rpar;](https://dev.to/dhyaneshsiddhartha15/tan-stack-queryreact-js-4h84)
+- [Resolving npm EACCES Errors: Fixing Permissions to Install Global Packages](https://dev.to/sh20raj/resolving-npm-eacces-errors-fixing-permissions-to-install-global-packages-8lk)
+- [Boom 💥, Supabase Marks Its GA Milestone](https://dev.to/mitchiemt11/boom-supabase-marks-its-ga-milestone-4ego)
 <!-- BLOG-POST-LIST:END -->
 
