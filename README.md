@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog #13 - Role of the Product owner](https://dev.to/amilarangana/devlog-13-role-of-the-product-owner-ci1)
-- [Monitoring MySQL with Prometheus and Grafana in Docker](https://dev.to/mattdark/monitoring-mysql-with-prometheus-and-grafana-in-docker-1ij7)
-- [Time to Jack-in and dive into your Data Fortress](https://dev.to/kalisen/time-to-jack-in-and-dive-into-your-data-fortress-3g54)
-- [Emerging Concepts in Technology](https://dev.to/christopherchhim/emerging-concepts-in-technology-8b7)
+- [FreeBSD for Devs](https://dev.to/scovl/freebsd-for-devs-3n0k)
+- [How To Create a Table in HTML and CSS with Code Examples](https://dev.to/george_kingi/how-to-create-a-table-in-html-and-css-with-code-examples-4b6o)
+- [🔬 Fiches emploi Nouvelle-Calédonie et codes ROME](https://dev.to/adriens/fiches-emploi-nouvelle-caledonie-et-codes-rome-29d8)
+- [SObjectizer Tales – 28. If I had a magic wand…](https://dev.to/ilpropheta/sobjectizer-tales-28-if-i-had-a-magic-wand-323h)
 <!-- BLOG-POST-LIST:END -->
 
