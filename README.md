@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a RAG Chat App With Agent Cloud and BigQuery](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b)
-- [Static analyzer nudges you to write clean code](https://dev.to/anogneva/static-analyzer-nudges-you-to-write-clean-code-29a9)
-- [Know your patterns](https://dev.to/one-beyond/know-your-patterns-11e9)
-- [Count Pairs in an Array](https://dev.to/mshashikanth1/count-pairs-in-an-array-30dc)
+- [Hello 100 Rails Designers!](https://dev.to/railsdesigner/hello-100-rails-designers-3ojf)
+- [Building Backlinks: Strategies for Boosting Your Website&#39;s Authority](https://dev.to/agiconsolution/building-backlinks-strategies-for-boosting-your-websites-authority-5ac6)
+- [Building a Decentralized Todo List Application on Ethereum](https://dev.to/tosynthegeek/building-a-decentralized-todo-list-application-on-ethereum-26f2)
+- [Best UPSC Coaching in Hyderabad - Best UPSC Coaching Ekam IAS Academy](https://dev.to/ekamiasacadamy/best-upsc-coaching-in-hyderabad-best-upsc-coaching-ekam-ias-academy-4jne)
 <!-- BLOG-POST-LIST:END -->
 
