@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for the Coze AI Bot Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-coze-ai-bot-challenge-3000-in-prizes-4dp7)
-- [Setup XM Cloud Multi-site on Netlify](https://dev.to/mrpipedream/setup-xm-cloud-multi-site-on-netlify-531e)
-- [Block Cipher Design Principles](https://dev.to/dhyaneshsiddhartha15/block-cipher-design-principles-1dk7)
-- [Learning AWS Day by Day — Day 39 — Amazon RDS — Part 2](https://dev.to/rksalo88/learning-aws-day-by-day-day-39-amazon-rds-part-2-5cej)
+- [JAVASCRIPT TUTORIAL FOR BEGINNERS](https://dev.to/dhyaneshsiddhartha15/javascript-tutorial-for-beginners-4bja)
+- [Day 17/366](https://dev.to/vishalmx3/day-17366-1aea)
+- [Serverless Security Best Practices](https://dev.to/yayabobi/serverless-security-best-practices-m9f)
+- [How can i get real time data analysis using chat-gpt?](https://dev.to/yesswee/how-can-i-get-real-time-data-analysis-using-chat-gpt-pk5)
 <!-- BLOG-POST-LIST:END -->
 
