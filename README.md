@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do People Even Get Bored Anymore?](https://dev.to/devteam/do-people-even-get-bored-anymore-2949)
-- [SwiftUI Views and @MainActor](https://dev.to/fatbobman/swiftui-views-and-mainactor-58ig)
-- [Best Cheap cPanel Hosting In 2024](https://dev.to/maroon5/best-cheap-cpanel-hosting-in-2024-jan)
-- [Building a Personalized Chatbot with a 3D Twist: A Developer&#39;s Journey](https://dev.to/yashdatir/building-a-personalized-chatbot-with-a-3d-twist-a-developers-journey-466o)
+- [React.memo - Optimize React Functional Components](https://dev.to/ashsajal/reactmemo-optimize-react-functional-components-516m)
+- [Mastering the Art of Codeless Test Automation: Strategies for Seamless Software Quality Assurance](https://dev.to/berthaw82414312/mastering-the-art-of-codeless-test-automation-strategies-for-seamless-software-quality-assurance-4nb8)
+- [In a Multilevel Relationship, How to Replace Null Values at Nodes by Corresponding Values at Their Parent Nodes](https://dev.to/esproc_spl/in-a-multilevel-relationship-how-to-replace-null-values-at-nodes-by-corresponding-values-at-their-parent-nodes-21ci)
+- [Webship-js: When I go to &lpar; the homepage &amp; &quot;specific page&quot; &rpar;](https://dev.to/webshipco/webship-js-when-i-go-to-the-homepage-specific-page--55bc)
 <!-- BLOG-POST-LIST:END -->
 
