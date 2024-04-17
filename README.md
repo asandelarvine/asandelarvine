@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add basic animations to your site using Animate.css and wow.js](https://dev.to/thejoernal/add-basic-animations-to-your-site-using-animatecss-and-wowjs-5hni)
-- [Ferramentas que não podem faltar no setup de um&lpar;a&rpar; dev](https://dev.to/bahiadevs/ferramentas-que-nao-podem-faltar-no-setup-de-uma-dev-118j)
-- [The Journey Ahead: My 6-Month Plan to Master GoLang](https://dev.to/leo1994/the-journey-ahead-my-6-month-plan-to-master-golang-12ie)
-- [unique&lpar;&rpar; and unique_consecutive&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/unique-and-uniqueconsecutive-in-pytorch-hji)
+- [Android Concepts](https://dev.to/utkarsha114/android-concepts-3fem)
+- [Getting Started: How to Implement an API Key in Postman](https://dev.to/satokenta/getting-started-how-to-implement-an-api-key-in-postman-1nma)
+- [Converting BlogCFC blog to Eleventy](https://dev.to/akbarsait/converting-blogcfc-blog-to-eleventy-26cj)
+- [Sequelize의 include 안에서 order 적용하기](https://dev.to/__aa3e4bc832ba7032bfa3/sequelizeyi-include-aneseo-order-jeogyonghagi-5113)
 <!-- BLOG-POST-LIST:END -->
 
