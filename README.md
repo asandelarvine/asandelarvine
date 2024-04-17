@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a recruiter and why should you care?](https://dev.to/marcconci/what-is-a-recruiter-and-why-should-you-care-592p)
-- [React 19: The long-expected features](https://dev.to/daasrattale/react-19-the-long-expected-features-1kod)
-- [How Important is a Bachelor&#39;s Degree for Developers?](https://dev.to/marcconci/how-important-is-a-bachelors-degree-for-developers-1k4c)
-- [How Really Make Money While Building Your Portfolio](https://dev.to/marcconci/how-really-make-money-while-building-your-portfolio-28ho)
+- [AI+Node.js x-crawl crawler: Why are traditional crawlers no longer the first choice for data crawling?](https://dev.to/coderhxl/ainodejs-x-crawl-crawler-why-are-traditional-crawlers-no-longer-the-first-choice-for-data-crawling-18a)
+- [Efficient Patterns for Effects](https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396)
+- [React JS Fragments](https://dev.to/vishnusatheesh/react-js-fragments-14gc)
+- [🕵🏽 Investigating python Callables : functions, methods and more...](https://dev.to/wassafshahzad/investigating-python-callables-functions-methods-and-more-5cp1)
 <!-- BLOG-POST-LIST:END -->
 
