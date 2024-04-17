@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React.memo - Optimize React Functional Components](https://dev.to/ashsajal/reactmemo-optimize-react-functional-components-516m)
-- [Mastering the Art of Codeless Test Automation: Strategies for Seamless Software Quality Assurance](https://dev.to/berthaw82414312/mastering-the-art-of-codeless-test-automation-strategies-for-seamless-software-quality-assurance-4nb8)
-- [In a Multilevel Relationship, How to Replace Null Values at Nodes by Corresponding Values at Their Parent Nodes](https://dev.to/esproc_spl/in-a-multilevel-relationship-how-to-replace-null-values-at-nodes-by-corresponding-values-at-their-parent-nodes-21ci)
-- [Webship-js: When I go to &lpar; the homepage &amp; &quot;specific page&quot; &rpar;](https://dev.to/webshipco/webship-js-when-i-go-to-the-homepage-specific-page--55bc)
+- [How to Build a RAG Chat App With Agent Cloud and BigQuery](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b)
+- [Static analyzer nudges you to write clean code](https://dev.to/anogneva/static-analyzer-nudges-you-to-write-clean-code-29a9)
+- [Know your patterns](https://dev.to/one-beyond/know-your-patterns-11e9)
+- [Count Pairs in an Array](https://dev.to/mshashikanth1/count-pairs-in-an-array-30dc)
 <!-- BLOG-POST-LIST:END -->
 
