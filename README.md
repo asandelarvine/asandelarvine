@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A dozen &lpar;or so&rpar; learnings from 15 years of software incident management](https://dev.to/arjunrao87/a-dozen-or-so-learnings-from-15-years-of-software-incident-management-5hib)
-- [The Power of Generative AI for Tomorrow&#39;s Tech Careers](https://dev.to/aws-builders/the-power-of-generative-ai-for-tomorrows-tech-careers-50hn)
-- [How To Create An AI Chatbot with Google GEMINI using Node.js](https://dev.to/devarshishimpi/how-to-create-an-ai-chatbot-with-google-gemini-using-nodejs-pn6)
-- [Breakdown of the advantages of Webflow and Divi](https://dev.to/julianevan/breakdown-of-the-advantages-of-webflow-and-divi-2j0o)
+- [AutoCodeRover: Autonomous Program Improvement](https://dev.to/mikeyoung44/autocoderover-autonomous-program-improvement-3857)
+- [The Illusion of State in State-Space Models](https://dev.to/mikeyoung44/the-illusion-of-state-in-state-space-models-2gnj)
+- [Zero-shot Building Age Classification from Facade Image Using GPT-4](https://dev.to/mikeyoung44/zero-shot-building-age-classification-from-facade-image-using-gpt-4-29bh)
+- [Why your performance work is not seen](https://dev.to/viniciusdallacqua/why-your-performance-work-is-not-seen-11of)
 <!-- BLOG-POST-LIST:END -->
 
