@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat with your Github Repo using llama_index and chainlit](https://dev.to/karanjanthe/chat-with-your-github-repo-using-llamaindex-and-chainlit-452f)
-- [Day 945 : D.E.E.P.](https://dev.to/dwane/day-945-deep-ald)
-- [H2O-Danube-1.8B Technical Report](https://dev.to/mikeyoung44/h2o-danube-18b-technical-report-5cpd)
-- [Dataset Reset Policy Optimization for RLHF](https://dev.to/mikeyoung44/dataset-reset-policy-optimization-for-rlhf-2e51)
+- [Building a Web Scraper with Node.js](https://dev.to/kartikmehta8/building-a-web-scraper-with-nodejs-3kee)
+- [Enviando notificações com xk6 notification ✉](https://dev.to/marlo2222/enviando-notificacoes-com-xk6-notification-25ml)
+- [White Label SaaS: Made Easy](https://dev.to/domfive/white-label-saas-made-easy-330g)
+- [Beyond the Code: A Guide to Effective Code Reviews as a Front-End Engineer](https://dev.to/santhanam87/from-functionality-to-finesse-mastering-code-reviews-for-front-end-developers-2ko7)
 <!-- BLOG-POST-LIST:END -->
 
