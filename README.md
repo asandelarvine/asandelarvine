@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Newsletter Emails in Golang](https://dev.to/rhaqim/design-newsletter-emails-in-golang-4h7c)
-- [DeFi Comptroller Smart Contract Review](https://dev.to/ternder/defi-comptroller-smart-contract-review-307i)
-- [CourseBot - Coze AI Bot Challenge](https://dev.to/divyesshm/coursebot-coze-ai-bot-challenge-438e)
-- [Create a collage with AWS Information Technology symbols and logos](https://dev.to/olatunjiayodel9/create-a-collage-with-aws-information-technology-symbols-and-logos-1m3)
+- [Top Startups Launches of the Day: Draftboard; Ramen.Tools; Seomaker; Soju; AltTunes;](https://dev.to/journeypreneur/top-startups-launches-of-the-day-draftboard-ramentools-seomaker-soju-alttunes-3hij)
+- [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
+- [Release v1.9.0 - ChatCraft.org](https://dev.to/rachit1313/release-v190-chatcraftorg-a0)
+- [Top 10 Technical Interview Questions Hiring Managers Ask](https://dev.to/remotebase/top-10-technical-interview-questions-hiring-managers-ask-5h86)
 <!-- BLOG-POST-LIST:END -->
 
