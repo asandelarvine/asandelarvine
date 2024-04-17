@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Startups Launches of the Day: Draftboard; Ramen.Tools; Seomaker; Soju; AltTunes;](https://dev.to/journeypreneur/top-startups-launches-of-the-day-draftboard-ramentools-seomaker-soju-alttunes-3hij)
-- [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
-- [Release v1.9.0 - ChatCraft.org](https://dev.to/rachit1313/release-v190-chatcraftorg-a0)
-- [Top 10 Technical Interview Questions Hiring Managers Ask](https://dev.to/remotebase/top-10-technical-interview-questions-hiring-managers-ask-5h86)
+- [DevLog #13 - Role of the Product owner](https://dev.to/amilarangana/devlog-13-role-of-the-product-owner-ci1)
+- [Monitoring MySQL with Prometheus and Grafana in Docker](https://dev.to/mattdark/monitoring-mysql-with-prometheus-and-grafana-in-docker-1ij7)
+- [Time to Jack-in and dive into your Data Fortress](https://dev.to/kalisen/time-to-jack-in-and-dive-into-your-data-fortress-3g54)
+- [Emerging Concepts in Technology](https://dev.to/christopherchhim/emerging-concepts-in-technology-8b7)
 <!-- BLOG-POST-LIST:END -->
 
