@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Web Scraper with Node.js](https://dev.to/kartikmehta8/building-a-web-scraper-with-nodejs-3kee)
-- [Enviando notificações com xk6 notification ✉](https://dev.to/marlo2222/enviando-notificacoes-com-xk6-notification-25ml)
-- [White Label SaaS: Made Easy](https://dev.to/domfive/white-label-saas-made-easy-330g)
-- [Beyond the Code: A Guide to Effective Code Reviews as a Front-End Engineer](https://dev.to/santhanam87/from-functionality-to-finesse-mastering-code-reviews-for-front-end-developers-2ko7)
+- [Add basic animations to your site using Animate.css and wow.js](https://dev.to/thejoernal/add-basic-animations-to-your-site-using-animatecss-and-wowjs-5hni)
+- [Ferramentas que não podem faltar no setup de um&lpar;a&rpar; dev](https://dev.to/bahiadevs/ferramentas-que-nao-podem-faltar-no-setup-de-uma-dev-118j)
+- [The Journey Ahead: My 6-Month Plan to Master GoLang](https://dev.to/leo1994/the-journey-ahead-my-6-month-plan-to-master-golang-12ie)
+- [unique&lpar;&rpar; and unique_consecutive&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/unique-and-uniqueconsecutive-in-pytorch-hji)
 <!-- BLOG-POST-LIST:END -->
 
