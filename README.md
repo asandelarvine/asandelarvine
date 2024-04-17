@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Concepts](https://dev.to/utkarsha114/android-concepts-3fem)
-- [Getting Started: How to Implement an API Key in Postman](https://dev.to/satokenta/getting-started-how-to-implement-an-api-key-in-postman-1nma)
-- [Converting BlogCFC blog to Eleventy](https://dev.to/akbarsait/converting-blogcfc-blog-to-eleventy-26cj)
-- [Sequelize의 include 안에서 order 적용하기](https://dev.to/__aa3e4bc832ba7032bfa3/sequelizeyi-include-aneseo-order-jeogyonghagi-5113)
+- [What is a recruiter and why should you care?](https://dev.to/marcconci/what-is-a-recruiter-and-why-should-you-care-592p)
+- [React 19: The long-expected features](https://dev.to/daasrattale/react-19-the-long-expected-features-1kod)
+- [How Important is a Bachelor&#39;s Degree for Developers?](https://dev.to/marcconci/how-important-is-a-bachelors-degree-for-developers-1k4c)
+- [How Really Make Money While Building Your Portfolio](https://dev.to/marcconci/how-really-make-money-while-building-your-portfolio-28ho)
 <!-- BLOG-POST-LIST:END -->
 
