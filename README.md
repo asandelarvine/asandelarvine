@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master RBAC in Kubernetes](https://dev.to/getambassador2024/master-rbac-in-kubernetes-288h)
-- [Deploy a web application with AWS Lambda](https://dev.to/ananyadasgupta/deploy-a-web-application-with-aws-lambda-2km3)
-- [How to use Tailwind with any CSS framework](https://dev.to/climentea/how-to-use-tailwind-with-any-css-framework-lca)
-- [Syntax](https://dev.to/jaloldcoder98/syntax-2ao6)
+- [Do People Even Get Bored Anymore?](https://dev.to/devteam/do-people-even-get-bored-anymore-2949)
+- [SwiftUI Views and @MainActor](https://dev.to/fatbobman/swiftui-views-and-mainactor-58ig)
+- [Best Cheap cPanel Hosting In 2024](https://dev.to/maroon5/best-cheap-cpanel-hosting-in-2024-jan)
+- [Building a Personalized Chatbot with a 3D Twist: A Developer&#39;s Journey](https://dev.to/yashdatir/building-a-personalized-chatbot-with-a-3d-twist-a-developers-journey-466o)
 <!-- BLOG-POST-LIST:END -->
 
