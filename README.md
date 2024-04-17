@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI+Node.js x-crawl crawler: Why are traditional crawlers no longer the first choice for data crawling?](https://dev.to/coderhxl/ainodejs-x-crawl-crawler-why-are-traditional-crawlers-no-longer-the-first-choice-for-data-crawling-18a)
-- [Efficient Patterns for Effects](https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396)
-- [React JS Fragments](https://dev.to/vishnusatheesh/react-js-fragments-14gc)
-- [🕵🏽 Investigating python Callables : functions, methods and more...](https://dev.to/wassafshahzad/investigating-python-callables-functions-methods-and-more-5cp1)
+- [Master RBAC in Kubernetes](https://dev.to/getambassador2024/master-rbac-in-kubernetes-288h)
+- [Deploy a web application with AWS Lambda](https://dev.to/ananyadasgupta/deploy-a-web-application-with-aws-lambda-2km3)
+- [How to use Tailwind with any CSS framework](https://dev.to/climentea/how-to-use-tailwind-with-any-css-framework-lca)
+- [Syntax](https://dev.to/jaloldcoder98/syntax-2ao6)
 <!-- BLOG-POST-LIST:END -->
 
