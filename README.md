@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AutoCodeRover: Autonomous Program Improvement](https://dev.to/mikeyoung44/autocoderover-autonomous-program-improvement-3857)
-- [The Illusion of State in State-Space Models](https://dev.to/mikeyoung44/the-illusion-of-state-in-state-space-models-2gnj)
-- [Zero-shot Building Age Classification from Facade Image Using GPT-4](https://dev.to/mikeyoung44/zero-shot-building-age-classification-from-facade-image-using-gpt-4-29bh)
-- [Why your performance work is not seen](https://dev.to/viniciusdallacqua/why-your-performance-work-is-not-seen-11of)
+- [Ibuprofeno.py💊| #83: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-83-explica-este-codigo-python-b94)
+- [PostGIS and Heroku Postgres… Location, Location, Location!](https://dev.to/josephcaudle/postgis-and-heroku-postgres-location-location-location-51id)
+- [Beware of MongoDB network compression](https://dev.to/hinst/beware-of-mongodb-network-compression-4722)
+- [Elevate Your Web Design: Mastering React-Select Styling](https://dev.to/nnnirajn/elevate-your-web-design-mastering-react-select-styling-2pc7)
 <!-- BLOG-POST-LIST:END -->
 
