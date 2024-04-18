@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [so xd](https://dev.to/imnotleo/so-xd-2obk)
-- [A guide to Knowi and the Shadow DOM](https://dev.to/jgdevelopments/a-guide-to-knowi-and-the-shadow-dom-2hol)
-- [How to install Java on macOS](https://dev.to/snyk/how-to-install-java-on-macos-31hb)
-- [Routing, Client Side](https://dev.to/gutmaster/routing-client-side-5ben)
+- [８章５](https://dev.to/aaattt/8zhang-5-eco)
+- [8章4](https://dev.to/aaattt/8zhang-4-4fmo)
+- [Laravel 11: The Developer&#39;s Dream or Overhyped Update? Unveiling the Truth Here!](https://dev.to/andrewatef/laravel-11-the-developers-dream-or-overhyped-update-unveiling-the-truth-here-23g8)
+- [The Dangers of Learning Too Many Languages](https://dev.to/annoh_karlgusta/the-dangers-of-learning-too-many-languages-5bg7)
 <!-- BLOG-POST-LIST:END -->
 
