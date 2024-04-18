@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Le Recrutement Inversé : La nouvelle tendance de l&#39;emploi](https://dev.to/wikiclic/le-recrutement-inverse-la-nouvelle-tendance-de-lemploi-30ap)
-- [DeFi Comptroller Smart Contract Review](https://dev.to/ternder/defi-comptroller-smart-contract-review-3101)
-- [Earth Day Celebration Landing Page submission](https://dev.to/dhodvogner/earth-day-celebration-landing-page-submission-4ad5)
-- [Manage a portfolio website with lots of projects – ortfo](https://dev.to/ewen-lbh/manage-a-portfolio-website-with-lots-of-projects-ortfo-5aic)
+- [How to debug i18n? 🤔](https://dev.to/grech_ca/how-to-debug-i18n-118e)
+- [Mastering the Art of Debugging in Magento 2: Essential Methods for a Smooth eCommerce Experience](https://dev.to/rimiweb/mastering-the-art-of-debugging-in-magento-2-essential-methods-for-a-smooth-ecommerce-experience-364l)
+- [Innovate to Differentiate: The Role of Custom Ecommerce Design in Competitive Markets](https://dev.to/robertadler/innovate-to-differentiate-the-role-of-custom-ecommerce-design-in-competitive-markets-4j5o)
+- [Saint John’s University: Nurturing Minds, Transforming Lives](https://dev.to/sdfsf256/saint-johns-university-nurturing-minds-transforming-lives-4d0h)
 <!-- BLOG-POST-LIST:END -->
 
