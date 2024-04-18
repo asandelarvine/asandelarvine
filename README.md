@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Um pouco sobre Arquitetura Hexagonal](https://dev.to/cristuker/um-pouco-sobre-arquitetura-hexagonal-4kg0)
-- [Difference between technology and methodology - Dgi Host.com](https://dev.to/dgihost/difference-between-technology-and-methodology-dgi-hostcom-58ll)
-- [Rocket Game C++/QT/QML](https://dev.to/kastuv/rocket-game-cqtqml-38id)
-- [A BRIEF REVIEW OF CSS CASCADING, CSS SELECTORS and CSS SPECIFICITY.](https://dev.to/lighteni/a-brief-review-of-css-cascading-css-selectors-and-css-specificity-4j6a)
+- [How to Scrape Craigslist](https://dev.to/crawlbase/how-to-scrape-craigslist-j8p)
+- [Recapping the AI, Machine Learning and Data Science Meetup — April 18, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-april-18-2024-2eon)
+- [Functional Programming with Functors, Monads, and Promises](https://dev.to/dylantv/functional-programming-with-functors-monads-and-promises-4foi)
+- [Underrated VSCode feature: Native Tabs](https://dev.to/lucasprag/underrated-vscode-feature-native-tabs-3bl)
 <!-- BLOG-POST-LIST:END -->
 
