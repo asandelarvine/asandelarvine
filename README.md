@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next js + 3D elements with spline](https://dev.to/nyctonio/next-js-3d-elements-with-spline-3m84)
-- [Effective Annotating of Strace Output for MySQL Performance Troubleshooting](https://dev.to/shiviyer/effective-annotating-of-strace-output-for-mysql-performance-troubleshooting-2bj6)
-- [Basic Terms in Machine Learning &lpar;Model Training&rpar;](https://dev.to/jjokah/basic-terms-in-machine-learning-model-training-454c)
-- [Global toast in Vue3](https://dev.to/heliomsolivas/global-toast-in-vue3-1bmc)
+- [Um pouco sobre Arquitetura Hexagonal](https://dev.to/cristuker/um-pouco-sobre-arquitetura-hexagonal-4kg0)
+- [Difference between technology and methodology - Dgi Host.com](https://dev.to/dgihost/difference-between-technology-and-methodology-dgi-hostcom-58ll)
+- [Rocket Game C++/QT/QML](https://dev.to/kastuv/rocket-game-cqtqml-38id)
+- [A BRIEF REVIEW OF CSS CASCADING, CSS SELECTORS and CSS SPECIFICITY.](https://dev.to/lighteni/a-brief-review-of-css-cascading-css-selectors-and-css-specificity-4j6a)
 <!-- BLOG-POST-LIST:END -->
 
