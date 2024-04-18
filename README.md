@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Duplicate Finder for Documentation](https://dev.to/flounder4130/duplicate-finder-for-documentation-f3a)
-- [When to Hire More Engineers?](https://dev.to/devteam/when-to-hire-more-engineers-1nhm)
-- [WebAuthn &lpar;Passkeys&rpar; CDA-First for Cross-Device Auth](https://dev.to/corbado/webauthn-passkeys-cda-first-for-cross-device-auth-3j25)
-- [A Quick Look at Why We Call Them &quot;Software Bugs&quot;](https://dev.to/dbvismarketing/a-quick-look-at-why-we-call-them-software-bugs-47p3)
+- [Creating your own UI extension points in Umbraco v14 - Part 6: Filters &amp; Conditions](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-6-filters-conditions-1ojh)
+- [All Your Monitoring Solutions Are Just Wrong](https://dev.to/metis/all-your-monitoring-solutions-are-just-wrong-508o)
+- [Key Features Every B2B Travel Portal Must Have: A Guide for Travel Agencies](https://dev.to/davidsoncliff/key-features-every-b2b-travel-portal-must-have-a-guide-for-travel-agencies-3dfn)
+- [Node.JS - Version 4.3 of Foal framework has been released](https://dev.to/loicpoullain/nodejs-version-43-of-foal-framework-has-been-released-men)
 <!-- BLOG-POST-LIST:END -->
 
