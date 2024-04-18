@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build &amp; Deploy Full Stack Link Sharing App Using MERN Stack](https://dev.to/myogeshchavan97/build-deploy-full-stack-link-sharing-app-using-mern-stack-5614)
-- [What are solid principles in JavaScript ?](https://dev.to/krishna7852/what-are-solid-principles-in-javascript--1eec)
-- [Localization Testing in software Development](https://dev.to/morrismoses149/localization-testing-in-software-development-5d6l)
-- [Series Belajar Solid Principle - Open Close Principle &lpar;OCP&rpar;](https://dev.to/julles/series-belajar-solid-principle-open-close-principle-ocp-3jak)
+- [¿Por qué desarrollar en Ruby on Rails?](https://dev.to/jfsan/por-que-desarrollar-en-ruby-on-rails-5hi2)
+- [Difference between Func&lpar;&rpar; , &lpar;&rpar;=&gt;Func&lpar;&rpar; , {Func} , &lpar;&rpar;=&gt;Func in JS](https://dev.to/itsjp/difference-betweenfunc-func-func-func-in-js-146c)
+- [Task 3](https://dev.to/gomahan/task-3-4kjn)
+- [IBM Font-End-Development Certificate SADT8ETBZ23Q](https://dev.to/fairytalesbrand/ibm-font-end-development-certificate-sadt8etbz23q-5fpp)
 <!-- BLOG-POST-LIST:END -->
 
