@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: Pursuing passion or practicality?](https://dev.to/devteam/sloans-inbox-pursuing-passion-or-practicality-2fc7)
-- [Time Data Series: Working with PHP Zmanim](https://dev.to/adatole/time-data-series-working-with-php-zmanim-3na0)
-- [How to build a custom GPT: Step-by-step tutorial](https://dev.to/logrocket/how-to-build-a-custom-gpt-step-by-step-tutorial-32hp)
-- [Draw a dynamic SVG pattern with Vue](https://dev.to/capsulescodes/draw-a-dynamic-svg-pattern-with-vue-2d2l)
+- [Platform as a Product: Why do we need?](https://dev.to/seal-software/platform-as-a-product-why-do-we-need-28dd)
+- [Scikit-Learn Hello World with Docker Init](https://dev.to/docker/scikit-learn-hello-world-with-docker-init-114n)
+- [Better, Faster Apps with Next.js](https://dev.to/jaydevm/better-faster-apps-with-nextjs-49ln)
+- [Components for Developers: Why I Joined Novu](https://dev.to/novu/components-for-developers-why-i-joined-novu-1egj)
 <!-- BLOG-POST-LIST:END -->
 
