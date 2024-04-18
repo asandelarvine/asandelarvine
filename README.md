@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating your own UI extension points in Umbraco v14 - Part 6: Filters &amp; Conditions](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-6-filters-conditions-1ojh)
-- [All Your Monitoring Solutions Are Just Wrong](https://dev.to/metis/all-your-monitoring-solutions-are-just-wrong-508o)
-- [Key Features Every B2B Travel Portal Must Have: A Guide for Travel Agencies](https://dev.to/davidsoncliff/key-features-every-b2b-travel-portal-must-have-a-guide-for-travel-agencies-3dfn)
-- [Node.JS - Version 4.3 of Foal framework has been released](https://dev.to/loicpoullain/nodejs-version-43-of-foal-framework-has-been-released-men)
+- [Le Recrutement Inversé : La nouvelle tendance de l&#39;emploi](https://dev.to/wikiclic/le-recrutement-inverse-la-nouvelle-tendance-de-lemploi-30ap)
+- [DeFi Comptroller Smart Contract Review](https://dev.to/ternder/defi-comptroller-smart-contract-review-3101)
+- [Earth Day Celebration Landing Page submission](https://dev.to/dhodvogner/earth-day-celebration-landing-page-submission-4ad5)
+- [Manage a portfolio website with lots of projects – ortfo](https://dev.to/ewen-lbh/manage-a-portfolio-website-with-lots-of-projects-ortfo-5aic)
 <!-- BLOG-POST-LIST:END -->
 
