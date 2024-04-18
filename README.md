@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Platform as a Product: Why do we need?](https://dev.to/seal-software/platform-as-a-product-why-do-we-need-28dd)
-- [Scikit-Learn Hello World with Docker Init](https://dev.to/docker/scikit-learn-hello-world-with-docker-init-114n)
-- [Better, Faster Apps with Next.js](https://dev.to/jaydevm/better-faster-apps-with-nextjs-49ln)
-- [Components for Developers: Why I Joined Novu](https://dev.to/novu/components-for-developers-why-i-joined-novu-1egj)
+- [How to Contribute to Open-Source Projects – Git &amp; GitHub Workflow for Beginner s](https://dev.to/dhyaneshsiddhartha15/how-to-contribute-to-open-source-projects-git-github-workflow-for-beginner-s-2pi6)
+- [Swift: Passing data between view controllers](https://dev.to/anurag31oct/swift-passing-data-between-view-controllers-46l5)
+- [Swift: Passing data between view controllers](https://dev.to/anurag31oct/swift-passing-data-between-view-controllers-2jib)
+- [Submission Of Project For Front-end Challenge 2024-Earth Day Edition: Glam up My Markup](https://dev.to/codevsom/submission-of-project-for-front-end-challenge-2024-earth-day-edition-glam-up-my-markup-4l2b)
 <!-- BLOG-POST-LIST:END -->
 
