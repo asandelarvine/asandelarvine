@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [８章５](https://dev.to/aaattt/8zhang-5-eco)
-- [8章4](https://dev.to/aaattt/8zhang-4-4fmo)
-- [Laravel 11: The Developer&#39;s Dream or Overhyped Update? Unveiling the Truth Here!](https://dev.to/andrewatef/laravel-11-the-developers-dream-or-overhyped-update-unveiling-the-truth-here-23g8)
-- [The Dangers of Learning Too Many Languages](https://dev.to/annoh_karlgusta/the-dangers-of-learning-too-many-languages-5bg7)
+- [minimum&lpar;&rpar;, maximum&lpar;&rpar;, kthvalue&lpar;&rpar; and topk&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/minimum-maximum-kthvalue-and-topk-in-pytorch-59ak)
+- [How much Javascript is required to understand React Better .](https://dev.to/justinw7/how-much-javascript-is-required-to-understand-react-better--mc8)
+- [Why in Typescript creating an enum doesn&#39;t need a =, but creating a new type does?](https://dev.to/oleygon/why-in-typescript-creating-an-enum-doesnt-need-a-but-creating-a-new-type-does-42fk)
+- [８章7](https://dev.to/aaattt/8zhang-7-15ln)
 <!-- BLOG-POST-LIST:END -->
 
