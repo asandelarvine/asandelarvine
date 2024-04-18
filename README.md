@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debug Typescript using Node Runtime Environment in VS Code](https://dev.to/husnain/debug-typescript-using-node-runtime-environment-in-vs-code-ik0)
-- [Kademlia - Routing - Part 1](https://dev.to/ckousik/kademlia-routing-part-1-4mmf)
-- [Day 946 : Understand](https://dev.to/dwane/day-946-understand-2hdh)
-- [Understanding OAuth 2.0 and OpenID Connect](https://dev.to/kartikmehta8/understanding-oauth-20-and-openid-connect-1ppo)
+- [so xd](https://dev.to/imnotleo/so-xd-2obk)
+- [A guide to Knowi and the Shadow DOM](https://dev.to/jgdevelopments/a-guide-to-knowi-and-the-shadow-dom-2hol)
+- [How to install Java on macOS](https://dev.to/snyk/how-to-install-java-on-macos-31hb)
+- [Routing, Client Side](https://dev.to/gutmaster/routing-client-side-5ben)
 <!-- BLOG-POST-LIST:END -->
 
