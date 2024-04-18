@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Expand Your Horizons: Promoting Your Website Beyond Google 🚀](https://dev.to/sh20raj/expand-your-horizons-promoting-your-website-beyond-google-3k1f)
-- [Ibuprofeno.py💊| #84: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-84-explica-este-codigo-python-4p6g)
-- [Monitoring NGINX Performance with Metrics and Logs](https://dev.to/platform_engineers/monitoring-nginx-performance-with-metrics-and-logs-2pl5)
-- [From Google&#39;s Garage to Global Maestro: The Kubernetes Story](https://dev.to/sshamza/from-googles-garage-to-global-maestro-the-kubernetes-story-4oah)
+- [Sloan&#39;s Inbox: Pursuing passion or practicality?](https://dev.to/devteam/sloans-inbox-pursuing-passion-or-practicality-2fc7)
+- [Time Data Series: Working with PHP Zmanim](https://dev.to/adatole/time-data-series-working-with-php-zmanim-3na0)
+- [How to build a custom GPT: Step-by-step tutorial](https://dev.to/logrocket/how-to-build-a-custom-gpt-step-by-step-tutorial-32hp)
+- [Draw a dynamic SVG pattern with Vue](https://dev.to/capsulescodes/draw-a-dynamic-svg-pattern-with-vue-2d2l)
 <!-- BLOG-POST-LIST:END -->
 
