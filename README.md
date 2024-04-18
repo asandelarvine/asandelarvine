@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to debug i18n? 🤔](https://dev.to/grech_ca/how-to-debug-i18n-118e)
-- [Mastering the Art of Debugging in Magento 2: Essential Methods for a Smooth eCommerce Experience](https://dev.to/rimiweb/mastering-the-art-of-debugging-in-magento-2-essential-methods-for-a-smooth-ecommerce-experience-364l)
-- [Innovate to Differentiate: The Role of Custom Ecommerce Design in Competitive Markets](https://dev.to/robertadler/innovate-to-differentiate-the-role-of-custom-ecommerce-design-in-competitive-markets-4j5o)
-- [Saint John’s University: Nurturing Minds, Transforming Lives](https://dev.to/sdfsf256/saint-johns-university-nurturing-minds-transforming-lives-4d0h)
+- [Best Animation Generator Tools](https://dev.to/tubwe12/best-animation-generator-tools-3ief)
+- [Understanding Java Exceptions: A Guide with Practical Examples](https://dev.to/dbillion/understanding-java-exceptions-a-guide-with-practical-examples-n3o)
+- [E-Commerce Tailwind HTML Website Template-Freshcart](https://dev.to/easetemplates/e-commerce-tailwind-html-website-template-freshcart-bba)
+- [Quick Databricks&#39; Cloning Tip](https://dev.to/sqlinsix/quick-databricks-cloning-tip-1bj9)
 <!-- BLOG-POST-LIST:END -->
 
