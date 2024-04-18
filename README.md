@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Por qué desarrollar en Ruby on Rails?](https://dev.to/jfsan/por-que-desarrollar-en-ruby-on-rails-5hi2)
-- [Difference between Func&lpar;&rpar; , &lpar;&rpar;=&gt;Func&lpar;&rpar; , {Func} , &lpar;&rpar;=&gt;Func in JS](https://dev.to/itsjp/difference-betweenfunc-func-func-func-in-js-146c)
-- [Task 3](https://dev.to/gomahan/task-3-4kjn)
-- [IBM Font-End-Development Certificate SADT8ETBZ23Q](https://dev.to/fairytalesbrand/ibm-font-end-development-certificate-sadt8etbz23q-5fpp)
+- [Duplicate Finder for Documentation](https://dev.to/flounder4130/duplicate-finder-for-documentation-f3a)
+- [When to Hire More Engineers?](https://dev.to/devteam/when-to-hire-more-engineers-1nhm)
+- [WebAuthn &lpar;Passkeys&rpar; CDA-First for Cross-Device Auth](https://dev.to/corbado/webauthn-passkeys-cda-first-for-cross-device-auth-3j25)
+- [A Quick Look at Why We Call Them &quot;Software Bugs&quot;](https://dev.to/dbvismarketing/a-quick-look-at-why-we-call-them-software-bugs-47p3)
 <!-- BLOG-POST-LIST:END -->
 
