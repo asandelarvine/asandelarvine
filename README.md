@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Craigslist](https://dev.to/crawlbase/how-to-scrape-craigslist-j8p)
-- [Recapping the AI, Machine Learning and Data Science Meetup — April 18, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-april-18-2024-2eon)
-- [Functional Programming with Functors, Monads, and Promises](https://dev.to/dylantv/functional-programming-with-functors-monads-and-promises-4foi)
-- [Underrated VSCode feature: Native Tabs](https://dev.to/lucasprag/underrated-vscode-feature-native-tabs-3bl)
+- [A Magia da Semântica no HTML](https://dev.to/devpedrodias/a-magia-da-semantica-no-html-3i9g)
+- [Decoding CSS: Mastering Cascade, Selectors, and Specificity for Smarter Styling.](https://dev.to/promiseanuoluwa/decoding-css-mastering-cascade-selectors-and-specificity-for-smarter-styling-4c78)
+- [Priorize os tipos genéricos](https://dev.to/giselecoder/priorize-os-tipos-genericos-3k63)
+- [Biome.js : Prettier+ESLint killer ?](https://dev.to/thibaultwalterspieler/biomejs-prettiereslint-killer--4mnk)
 <!-- BLOG-POST-LIST:END -->
 
