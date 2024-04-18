@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD for Devs](https://dev.to/scovl/freebsd-for-devs-3n0k)
-- [How To Create a Table in HTML and CSS with Code Examples](https://dev.to/george_kingi/how-to-create-a-table-in-html-and-css-with-code-examples-4b6o)
-- [🔬 Fiches emploi Nouvelle-Calédonie et codes ROME](https://dev.to/adriens/fiches-emploi-nouvelle-caledonie-et-codes-rome-29d8)
-- [SObjectizer Tales – 28. If I had a magic wand…](https://dev.to/ilpropheta/sobjectizer-tales-28-if-i-had-a-magic-wand-323h)
+- [Debug Typescript using Node Runtime Environment in VS Code](https://dev.to/husnain/debug-typescript-using-node-runtime-environment-in-vs-code-ik0)
+- [Kademlia - Routing - Part 1](https://dev.to/ckousik/kademlia-routing-part-1-4mmf)
+- [Day 946 : Understand](https://dev.to/dwane/day-946-understand-2hdh)
+- [Understanding OAuth 2.0 and OpenID Connect](https://dev.to/kartikmehta8/understanding-oauth-20-and-openid-connect-1ppo)
 <!-- BLOG-POST-LIST:END -->
 
