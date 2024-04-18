@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Animation Generator Tools](https://dev.to/tubwe12/best-animation-generator-tools-3ief)
-- [Understanding Java Exceptions: A Guide with Practical Examples](https://dev.to/dbillion/understanding-java-exceptions-a-guide-with-practical-examples-n3o)
-- [E-Commerce Tailwind HTML Website Template-Freshcart](https://dev.to/easetemplates/e-commerce-tailwind-html-website-template-freshcart-bba)
-- [Quick Databricks&#39; Cloning Tip](https://dev.to/sqlinsix/quick-databricks-cloning-tip-1bj9)
+- [How To Use AI Developer Tools In 2024](https://dev.to/fanatixan/how-to-use-ai-developer-tools-in-2024-1loo)
+- [🫶 The Most Productive Programmers Share This One Thing](https://dev.to/evergrowingdev/the-most-productive-programmers-share-this-one-thing-ejf)
+- [The Adventures of Blink #19: So you wanna be a DevOp? A Practical Guide](https://dev.to/linkbenjamin/the-adventures-of-blink-19-so-you-wanna-be-a-devop-a-practical-guide-4gno)
+- [Introducing usage monitoring in Xata](https://dev.to/xata/introducing-usage-monitoring-in-xata-2d8g)
 <!-- BLOG-POST-LIST:END -->
 
