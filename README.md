@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use AI Developer Tools In 2024](https://dev.to/fanatixan/how-to-use-ai-developer-tools-in-2024-1loo)
-- [🫶 The Most Productive Programmers Share This One Thing](https://dev.to/evergrowingdev/the-most-productive-programmers-share-this-one-thing-ejf)
-- [The Adventures of Blink #19: So you wanna be a DevOp? A Practical Guide](https://dev.to/linkbenjamin/the-adventures-of-blink-19-so-you-wanna-be-a-devop-a-practical-guide-4gno)
-- [Introducing usage monitoring in Xata](https://dev.to/xata/introducing-usage-monitoring-in-xata-2d8g)
+- [Expand Your Horizons: Promoting Your Website Beyond Google 🚀](https://dev.to/sh20raj/expand-your-horizons-promoting-your-website-beyond-google-3k1f)
+- [Ibuprofeno.py💊| #84: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-84-explica-este-codigo-python-4p6g)
+- [Monitoring NGINX Performance with Metrics and Logs](https://dev.to/platform_engineers/monitoring-nginx-performance-with-metrics-and-logs-2pl5)
+- [From Google&#39;s Garage to Global Maestro: The Kubernetes Story](https://dev.to/sshamza/from-googles-garage-to-global-maestro-the-kubernetes-story-4oah)
 <!-- BLOG-POST-LIST:END -->
 
