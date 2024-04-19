@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Animation can make bell🔔 much more than emoji!](https://dev.to/shhdharmen/animation-can-make-bell-much-more-than-emoji-55op)
-- [Avoiding lock-in for your image pipeline with Nuxt Image and Netlify Image CDN](https://dev.to/netlify/avoiding-lock-in-for-your-image-pipeline-with-nuxt-image-and-netlify-image-cdn-3anc)
-- [Best Practices for Data Cleaning and Preparation](https://dev.to/aaronsmithcs/best-practices-for-data-cleaning-and-preparation-118c)
-- [Bitcoin Halving 2024: How It Impacts the NFT Ecosystem?](https://dev.to/nft_research/bitcoin-halving-2024-how-it-impacts-the-nft-ecosystem-jf3)
+- [HTML Unleashed: Rants from a Newbie](https://dev.to/logiqueclergyman/html-unleashed-rants-from-a-newbie-3n86)
+- [Mentoring Software Engineers](https://dev.to/cloudnative_eng/mentoring-software-engineers-15g1)
+- [Building a Playful File Locker with GoFr](https://dev.to/ssshekhu53/building-a-playful-file-locker-with-gofr-3f8a)
+- [Llama3 License Explained](https://dev.to/llm_explorer/llama3-license-explained-2915)
 <!-- BLOG-POST-LIST:END -->
 
