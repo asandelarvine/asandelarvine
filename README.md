@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrape Redfin Property Data](https://dev.to/crawlbase/scrape-redfin-property-data-41hd)
-- [Shortest pathfinder in React using BFS](https://dev.to/coderx/shortest-pathfinder-in-react-using-bfs-545c)
-- [Drag and Drop file upload with progress bar in ReactJS](https://dev.to/coderx/drag-and-drop-file-upload-with-progress-bar-in-reactjs-570e)
-- [HTML tag attributes, USE THEM!](https://dev.to/zachzugsanders/html-tag-attributes-use-them-50dp)
+- [TypeScript utility Refine&lt;T, P&gt;](https://dev.to/sylvaindethier/typescript-utility-refinet-p-2e2h)
+- [Var, Let and Const](https://dev.to/ticha/var-let-and-const-4l9n)
+- [The Concept of Expansion in the Linux Command Line](https://dev.to/codedken/the-concept-of-expansion-in-the-linux-command-line-13kb)
+- [Mastering React Hooks: A Comprehensive Guide to Functional Components](https://dev.to/antonmartyniuk/mastering-react-hooks-a-comprehensive-guide-to-functional-components-3lm8)
 <!-- BLOG-POST-LIST:END -->
 
