@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Innovation: Sachin Dev Duggal&#39;s Builder.ai with Natasha Pushes the Boundaries of Gen AI and RNN](https://dev.to/triptivermaa01/unleashing-innovation-sachin-dev-duggals-builderai-with-natasha-pushes-the-boundaries-of-gen-ai-and-rnn-8c9)
-- [El Secreto Mejor Guardado de AWS: Protegiendo tu IA Generativa](https://dev.to/aws-espanol/el-secreto-mejor-guardado-de-aws-protegiendo-tu-ia-generativa-3693)
-- [TASK - 1](https://dev.to/hariprasath03/task-1-3ka4)
-- [Yes I Hit 10000 Total Post Views on DEV 🚀](https://dev.to/tungbq/yes-i-have-my-first-10000-total-post-views-on-dev-5711)
+- [Como Fazer um Validador de CPF com Python de forma simples e refatorada!](https://dev.to/carlos-cgs/como-fazer-um-validador-de-cpf-com-python-de-forma-simples-e-refatorada-jc0)
+- [React Hook Form&#39;s Ritual: Elegant Forms in React](https://dev.to/kigazon/react-hook-forms-ritual-elegant-forms-in-react-af2)
+- [Ibuprofeno.py💊| #85: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-85-explica-este-codigo-python-5180)
+- [9 Things You Didn&#39;t Know About Decentralized Identifiers](https://dev.to/tbdevs/9-things-you-didnt-know-about-decentralized-identifiers-2eh9)
 <!-- BLOG-POST-LIST:END -->
 
