@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Magia da Semântica no HTML](https://dev.to/devpedrodias/a-magia-da-semantica-no-html-3i9g)
-- [Decoding CSS: Mastering Cascade, Selectors, and Specificity for Smarter Styling.](https://dev.to/promiseanuoluwa/decoding-css-mastering-cascade-selectors-and-specificity-for-smarter-styling-4c78)
-- [Priorize os tipos genéricos](https://dev.to/giselecoder/priorize-os-tipos-genericos-3k63)
-- [Biome.js : Prettier+ESLint killer ?](https://dev.to/thibaultwalterspieler/biomejs-prettiereslint-killer--4mnk)
+- [React Memo Mayhem: Optimizing Functional Components](https://dev.to/kigazon/react-memo-mayhem-optimizing-functional-components-4a9p)
+- [Learning React](https://dev.to/dcjacoby1/learning-react-5bj8)
+- [Exploring Vue.js Directives](https://dev.to/kartikmehta8/exploring-vuejs-directives-jc8)
+- [Automating Windows Workloads in AWS using Systems Manager and PowerShell DSC with Terragrunt Part1.](https://dev.to/segoja7/automating-windows-workloads-in-aws-using-systems-manager-and-powershell-dsc-with-terragrunt-part1-i2)
 <!-- BLOG-POST-LIST:END -->
 
