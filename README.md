@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Further Tips on Slack&#39;s files.upload Deprecation](https://dev.to/seratch/further-tips-on-slacks-filesupload-deprecation-33j6)
-- [Understanding the Basics of Runtime Environment](https://dev.to/madhusaini22/understanding-the-basics-of-runtime-environment-59c5)
-- [10 Common TradingView Indicators: Unveiling the Language of Charts](https://dev.to/epakconsultant/10-common-tradingview-indicators-unveiling-the-language-of-charts-189h)
-- [Advancements in API Testing: Modern Solutions for Today&#39;s Challenges](https://dev.to/kairostech/advancements-in-api-testing-modern-solutions-for-todays-challenges-74b)
+- [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
+- [How to display the entire content of abbreviated text when hovering?](https://dev.to/skie1997/how-to-display-the-entire-content-of-abbreviated-text-when-hovering-5b0h)
+- [&lpar;Part 2&rpar; Golang Framework Hands-on - KisFlow Streaming Computing Framework - Project Construction / Basic Modules](https://dev.to/aceld/part-2-golang-framework-hands-on-kisflow-streaming-computing-framework-project-construction-basic-modules-cia)
+- [Using undocumented AWS APIs with Python](https://dev.to/aws-builders/using-undocumented-aws-apis-with-python-pmn)
 <!-- BLOG-POST-LIST:END -->
 
