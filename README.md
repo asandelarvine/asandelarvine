@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracetest + Artillery Launch Week Recap 💥](https://dev.to/kubeshop/tracetest-artillery-launch-week-recap-565b)
-- [Is Waku a new NextJS?](https://dev.to/codeparrot/is-waku-a-new-nextjs-1gig)
-- [&lt;self-close /&gt; or &lt;not-to-self-close&gt;&lt;/not-to-self-close&gt;](https://dev.to/dhodvogner/or-1dpb)
-- [Hello World but published](https://dev.to/mqtri/hello-world-but-published-bha)
+- [API Integration Testing: Ensuring Robustness and Reliability](https://dev.to/apidna/api-integration-testing-ensuring-robustness-and-reliability-2ebm)
+- [Using Amazon S3 with Amazon CloudFront](https://dev.to/fo_cused/using-amazon-s3-with-amazon-cloudfront-1728)
+- [What is a Design System and Why Is It Important for Software Engineering?](https://dev.to/codebycorey/what-is-a-design-system-and-why-is-it-important-for-software-engineering-4mdd)
+- [Security Operations Center &lpar;SOC&rpar; Roles and Responsibilities](https://dev.to/clouddefenseai/security-operations-center-soc-roles-and-responsibilities-2l2i)
 <!-- BLOG-POST-LIST:END -->
 
