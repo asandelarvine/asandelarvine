@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Security and Cryptography on AWS](https://dev.to/8carroll/data-security-and-cryptography-on-aws-4djo)
-- [Dive into Flutter for Web](https://dev.to/alaaelbarasi/dive-into-flutter-for-web-4me1)
-- [Does Data Structures and Algorithms Matter in Backend? No BS Answer!](https://dev.to/louaiboumediene/does-data-structures-and-algorithms-matter-in-backend-no-bs-answer-f7c)
-- [BlogWithMe ⚡](https://dev.to/salika_dave/blogwithme-324i)
+- [🗞 Rapyd Developer Newsletter: April 2024 Payroll Payment Processing + New Design for Account Creation](https://dev.to/rapyd/rapyd-developer-newsletter-april-2024-payroll-payment-processing-new-design-for-account-creation-41md)
+- [Docker Architecture In Easy Mode](https://dev.to/iamzahid/docker-architecture-in-easy-mode-a78)
+- [One path to connecting a Python script to a COM application on Windows](https://dev.to/darwinplatypus/one-path-to-connecting-a-python-script-to-a-com-application-on-windows-38mb)
+- [Setting up a React project using Vite + TypeScript + Vitest](https://dev.to/janoskocs/setting-up-a-react-project-using-vite-typescript-vitest-2gl2)
 <!-- BLOG-POST-LIST:END -->
 
