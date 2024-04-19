@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Unleashed: Rants from a Newbie](https://dev.to/logiqueclergyman/html-unleashed-rants-from-a-newbie-3n86)
-- [Mentoring Software Engineers](https://dev.to/cloudnative_eng/mentoring-software-engineers-15g1)
-- [Building a Playful File Locker with GoFr](https://dev.to/ssshekhu53/building-a-playful-file-locker-with-gofr-3f8a)
-- [Llama3 License Explained](https://dev.to/llm_explorer/llama3-license-explained-2915)
+- [Unleashing Innovation: Sachin Dev Duggal&#39;s Builder.ai with Natasha Pushes the Boundaries of Gen AI and RNN](https://dev.to/triptivermaa01/unleashing-innovation-sachin-dev-duggals-builderai-with-natasha-pushes-the-boundaries-of-gen-ai-and-rnn-8c9)
+- [El Secreto Mejor Guardado de AWS: Protegiendo tu IA Generativa](https://dev.to/aws-espanol/el-secreto-mejor-guardado-de-aws-protegiendo-tu-ia-generativa-3693)
+- [TASK - 1](https://dev.to/hariprasath03/task-1-3ka4)
+- [Yes I Hit 10000 Total Post Views on DEV 🚀](https://dev.to/tungbq/yes-i-have-my-first-10000-total-post-views-on-dev-5711)
 <!-- BLOG-POST-LIST:END -->
 
