@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
-- [This Week In React #182: v18.3, useDeferredValue, 3D, Metro, Worklets, TC39, TypeScript, Effect, Rspack, GraphQL...](https://dev.to/sebastienlorber/this-week-in-react-182-v183-usedeferredvalue-3d-metro-worklets-tc39-typescript-effect-rspack-graphql-1dpd)
-- [Strategies for Tagging ModelKits](https://dev.to/kitops/strategies-for-tagging-modelkits-208j)
-- [How to create a slick CSS animation from Jackie Brown](https://dev.to/robole/how-to-create-a-slick-css-animation-from-jackie-brown-3j0d)
+- [Tracetest + Artillery Launch Week Recap 💥](https://dev.to/kubeshop/tracetest-artillery-launch-week-recap-565b)
+- [Is Waku a new NextJS?](https://dev.to/codeparrot/is-waku-a-new-nextjs-1gig)
+- [&lt;self-close /&gt; or &lt;not-to-self-close&gt;&lt;/not-to-self-close&gt;](https://dev.to/dhodvogner/or-1dpb)
+- [Hello World but published](https://dev.to/mqtri/hello-world-but-published-bha)
 <!-- BLOG-POST-LIST:END -->
 
