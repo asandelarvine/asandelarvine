@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Merge vs. Rebase: Key Differences](https://dev.to/codeparrot/git-merge-vs-rebase-key-differences-1pb4)
-- [Mastering the Art of React Native: A Guide to Excelling as a Front-End Engineer](https://dev.to/epakconsultant/mastering-the-art-of-react-native-a-guide-to-excelling-as-a-front-end-engineer-4mb2)
-- [Path Sum | LeetCode | Java](https://dev.to/tanujav/path-sum-leetcode-java-3837)
-- [Operators in C#](https://dev.to/kudratswe/operators-in-c-1c63)
+- [Further Tips on Slack&#39;s files.upload Deprecation](https://dev.to/seratch/further-tips-on-slacks-filesupload-deprecation-33j6)
+- [Understanding the Basics of Runtime Environment](https://dev.to/madhusaini22/understanding-the-basics-of-runtime-environment-59c5)
+- [10 Common TradingView Indicators: Unveiling the Language of Charts](https://dev.to/epakconsultant/10-common-tradingview-indicators-unveiling-the-language-of-charts-189h)
+- [Advancements in API Testing: Modern Solutions for Today&#39;s Challenges](https://dev.to/kairostech/advancements-in-api-testing-modern-solutions-for-todays-challenges-74b)
 <!-- BLOG-POST-LIST:END -->
 
