@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [String Methods in C#](https://dev.to/kudratswe/string-methods-in-c-4eo6)
-- [How to Transpose Rows to Columns on Multiple Fields in Each Group](https://dev.to/esproc_spl/how-to-transpose-rows-to-columns-on-multiple-fields-in-each-group-1nlb)
-- [Mastering SOLID Principles](https://dev.to/paulund/mastering-solid-principles-2c7k)
-- [Delay-Based Attack Payload](https://dev.to/attaullahshafiq10/delay-based-attack-payload-1ilo)
+- [How Would I Learn React.js If I Have to Start Over?](https://dev.to/shariqahmed525/how-would-i-learn-reactjs-if-i-have-to-start-over-3aml)
+- [Optimizing CPU Load in C#: Key Approaches and Strategies](https://dev.to/devsdaddy/optimizing-cpu-load-in-c-key-approaches-and-strategies-3fk3)
+- [Implement React v18 from Scratch Using WASM and Rust - [5] Implementation of Complete Work Phase of Render Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-5-implementation-of-complete-work-phase-of-render-process-35fo)
+- [Importance of Cyber Security in Business Continuity](https://dev.to/calsoftinc/importance-of-cyber-security-in-business-continuity-4o85)
 <!-- BLOG-POST-LIST:END -->
 
