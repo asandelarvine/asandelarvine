@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Kubernetes Readiness Probes: A Comprehensive Guide](https://dev.to/adarshbp/mastering-kubernetes-readiness-probes-a-comprehensive-guide-2g2a)
-- [Benefits of Attending IT Conferences: Expanding Knowledge, Building Networks, and Finding Inspiration](https://dev.to/wlepczynski/benefits-of-attending-it-conferences-expanding-knowledge-building-networks-and-finding-inspiration-4pi1)
-- [Learning AWS Day by Day — Day 41 — Amazon Aurora — Part 2](https://dev.to/rksalo88/learning-aws-day-by-day-day-41-amazon-aurora-part-2-169p)
-- [Add Friend feature with same button](https://dev.to/shivamyadav/add-friend-feature-with-same-button-4hmj)
+- [Data Security and Cryptography on AWS](https://dev.to/8carroll/data-security-and-cryptography-on-aws-4djo)
+- [Dive into Flutter for Web](https://dev.to/alaaelbarasi/dive-into-flutter-for-web-4me1)
+- [Does Data Structures and Algorithms Matter in Backend? No BS Answer!](https://dev.to/louaiboumediene/does-data-structures-and-algorithms-matter-in-backend-no-bs-answer-f7c)
+- [BlogWithMe ⚡](https://dev.to/salika_dave/blogwithme-324i)
 <!-- BLOG-POST-LIST:END -->
 
