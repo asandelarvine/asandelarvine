@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Merge vs. Rebase: Key Differences](https://dev.to/codeparrot/git-merge-vs-rebase-key-differences-1pb4)
+- [Mastering the Art of React Native: A Guide to Excelling as a Front-End Engineer](https://dev.to/epakconsultant/mastering-the-art-of-react-native-a-guide-to-excelling-as-a-front-end-engineer-4mb2)
 - [Path Sum | LeetCode | Java](https://dev.to/tanujav/path-sum-leetcode-java-3837)
 - [Operators in C#](https://dev.to/kudratswe/operators-in-c-1c63)
-- [Nuget support will make Selenium coding simpler!](https://dev.to/vinzh05/nuget-support-will-make-selenium-coding-simpler-2n6m)
-- [Coze AI Bot Challenge](https://dev.to/seosiri/coze-ai-bot-challenge-3da5)
 <!-- BLOG-POST-LIST:END -->
 
