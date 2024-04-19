@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Fazer um Validador de CPF com Python de forma simples e refatorada!](https://dev.to/carlos-cgs/como-fazer-um-validador-de-cpf-com-python-de-forma-simples-e-refatorada-jc0)
-- [React Hook Form&#39;s Ritual: Elegant Forms in React](https://dev.to/kigazon/react-hook-forms-ritual-elegant-forms-in-react-af2)
-- [Ibuprofeno.py💊| #85: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-85-explica-este-codigo-python-5180)
-- [9 Things You Didn&#39;t Know About Decentralized Identifiers](https://dev.to/tbdevs/9-things-you-didnt-know-about-decentralized-identifiers-2eh9)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
+- [This Week In React #182: v18.3, useDeferredValue, 3D, Metro, Worklets, TC39, TypeScript, Effect, Rspack, GraphQL...](https://dev.to/sebastienlorber/this-week-in-react-182-v183-usedeferredvalue-3d-metro-worklets-tc39-typescript-effect-rspack-graphql-1dpd)
+- [Strategies for Tagging ModelKits](https://dev.to/kitops/strategies-for-tagging-modelkits-208j)
+- [How to create a slick CSS animation from Jackie Brown](https://dev.to/robole/how-to-create-a-slick-css-animation-from-jackie-brown-3j0d)
 <!-- BLOG-POST-LIST:END -->
 
