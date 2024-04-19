@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
-- [How to display the entire content of abbreviated text when hovering?](https://dev.to/skie1997/how-to-display-the-entire-content-of-abbreviated-text-when-hovering-5b0h)
-- [&lpar;Part 2&rpar; Golang Framework Hands-on - KisFlow Streaming Computing Framework - Project Construction / Basic Modules](https://dev.to/aceld/part-2-golang-framework-hands-on-kisflow-streaming-computing-framework-project-construction-basic-modules-cia)
-- [Using undocumented AWS APIs with Python](https://dev.to/aws-builders/using-undocumented-aws-apis-with-python-pmn)
+- [String Methods in C#](https://dev.to/kudratswe/string-methods-in-c-4eo6)
+- [How to Transpose Rows to Columns on Multiple Fields in Each Group](https://dev.to/esproc_spl/how-to-transpose-rows-to-columns-on-multiple-fields-in-each-group-1nlb)
+- [Mastering SOLID Principles](https://dev.to/paulund/mastering-solid-principles-2c7k)
+- [Delay-Based Attack Payload](https://dev.to/attaullahshafiq10/delay-based-attack-payload-1ilo)
 <!-- BLOG-POST-LIST:END -->
 
