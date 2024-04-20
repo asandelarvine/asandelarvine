@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [YOLO8 The basic functions for beginner!](https://dev.to/sachadee/yolo8-the-basic-functions-for-beginner-1k9)
-- [Unpacking Llama3: A Review of Latest AI Breakthroughs and Upgrades by Meta](https://dev.to/vishwa-ai/unpacking-llama3-a-review-of-latest-ai-breakthroughs-and-upgrades-by-meta-33do)
-- [Mentor Coze AI](https://dev.to/yowise/mentor-coze-ai-aao)
-- [Copia](https://dev.to/imnotleo/copia-49kn)
+- [The Dark Arts of Material-UI: Styling React Apps Fast](https://dev.to/kigazon/the-dark-arts-of-material-ui-styling-react-apps-fast-1n0g)
+- [Alice - Interceptando suas requisições HTTP se forma simples](https://dev.to/flutterbrasil/alice-interceptando-suas-requisicoes-http-se-forma-simples-ekg)
+- [Securing the Cloud #27](https://dev.to/8carroll/securing-the-cloud-27-3hkc)
+- [Deploying Bokeh Dashboard with Python on VPS: A Step-by-Step Guide](https://dev.to/jhonnyarm/deploying-bokeh-dashboard-with-python-on-vps-a-step-by-step-guide-100k)
 <!-- BLOG-POST-LIST:END -->
 
