@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 248 - Unreliable Copy](https://dev.to/mcsee/code-smell-248-unreliable-copy-3fce)
-- [Making Chatbot Applications with Dialogflow: My HackItTogether 2024 Project](https://dev.to/1grace/making-chatbot-applications-with-dialogflow-with-project-example-5dp7)
-- [Dockerizing Next.js](https://dev.to/renao/dockerizing-nextjs-2opd)
-- [Nodemon running error fixed!](https://dev.to/don_mizzy/nodemon-running-error-fixed-28l0)
+- [Tratando erros em promisse](https://dev.to/terminalcoffee/tratando-erros-em-promisse-4mh7)
+- [LeetCode Meditations: Same Tree](https://dev.to/rivea0/leetcode-meditations-same-tree-jbh)
+- [Matriz de Papéis e Responsabilidades](https://dev.to/smashse/matriz-de-papeis-e-responsabilidades-16mh)
+- [Measuring performance](https://dev.to/efpage/measuring-performance-2ojj)
 <!-- BLOG-POST-LIST:END -->
 
