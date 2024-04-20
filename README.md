@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WHAT FRAMEWORKS DO BIG COMPANIES USE](https://dev.to/mince/what-frameworks-do-big-companies-use-2f34)
-- [Ibuprofeno.py💊| #86: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-86-explica-este-codigo-python-151h)
-- [Démystifier React : Un aperçu des 17 Concepts clés de React](https://dev.to/cub_ger24/demystifier-react-un-apercu-des-17-concepts-cles-de-react-2agp)
-- [Task Execution and Scheduling in Spring Boot](https://dev.to/nilan/task-execution-and-scheduling-in-spring-boot-55e4)
+- [ZKML: Bringing Verifiable and Trustless ML to the Masses](https://dev.to/gssakash/zkml-bringing-verifiable-and-trustless-ml-to-the-masses-2a38)
+- [AlchemistAI- A Revolutionary step towards AI in healthcare](https://dev.to/impoulav/rebasehackathon-alchemistai-50b4)
+- [GitHub Sponsors - A series on giving an receiving 💰](https://dev.to/szabgab/github-sponsors-a-series-on-giving-an-receiving-4fmb)
+- [I made an infinite canvas to work with LLMs better](https://dev.to/ddehueck/i-made-an-infinite-canvas-to-work-with-llms-better-dgj)
 <!-- BLOG-POST-LIST:END -->
 
