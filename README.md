@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Calender heatmap in react like Github &lpar;from scratch&rpar;](https://dev.to/coderx/create-calender-heatmap-in-react-like-github-from-scratch-1i0m)
-- [Sinister Styled-Components: CSS in JS with Style](https://dev.to/kigazon/sinister-styled-components-css-in-js-with-style-39bp)
-- [JavaScript: Timer Params](https://dev.to/oculus42/javascript-timer-params-1mn7)
-- [Django Authentication](https://dev.to/syedmuhammadaliraza/django-authentication-561o)
+- [I created a blender add-on for beginner artists](https://dev.to/chriisduran/i-created-a-blender-add-on-for-beginner-artists-2h64)
+- [Open Ruby on Rails errors with VS Code](https://dev.to/k3vout/open-ruby-on-rails-errors-with-vs-code-3c1f)
+- [Symfony Station Communiqué — 19 April, 2024. A look at Symfony, Drupal, PHP, Cybersecurity, and Fediverse news!](https://dev.to/reubenwalker64/symfony-station-communique-19-april-2024-a-look-at-symfony-drupal-php-cybersecurity-and-fediverse-news-2gf3)
+- [Rewrites are a symptom of bad initial engineering](https://dev.to/shailennaidoo/rewrites-are-a-symptom-of-bad-initial-engineering-4nfl)
 <!-- BLOG-POST-LIST:END -->
 
