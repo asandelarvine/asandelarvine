@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [std::move = when std::optional should be launched](https://dev.to/teminian/stdmove-when-stdoptional-should-be-launched-oo)
-- [std::move = std::optional이 출동할 때](https://dev.to/teminian/stdmove-stdoptionali-culdonghal-ddae-4eam)
-- [Day 30 of 30-Day .NET Challenge: XML v/s JSON Serialization](https://dev.to/ssukhpinder/day-30-of-30-day-net-challenge-xml-vs-json-serialization-4jg1)
-- [Journey to the Vim IDE, and what I learned](https://dev.to/teminian/journey-to-the-vim-ide-and-what-i-learned-d0a)
+- [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
+- [Creating Your First Web App with FlutterFlow: A Comprehensive Guide](https://dev.to/epakconsultant/creating-your-first-web-app-with-flutterflow-a-comprehensive-guide-3fi2)
+- [DevPod in Action](https://dev.to/shemanti/devpod-in-action-5g1f)
+- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-1ejc)
 <!-- BLOG-POST-LIST:END -->
 
