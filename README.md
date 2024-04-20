@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code with Musa - 2](https://dev.to/musaaj/code-with-musa-2-405j)
-- [Implement Merge-Sort in python](https://dev.to/mainpynerds/implement-merge-sort-in-python-537b)
-- [csv module in Python](https://dev.to/mainpynerds/csv-module-in-python-kb5)
-- [Building a Production-Ready Web App with T3 Stack](https://dev.to/fabrikapp/building-a-production-ready-web-app-with-t3-stack-4h9e)
+- [[10/52] Spicy Math!!!](https://dev.to/tythos/1052-spicy-math-g5a)
+- [Introduction to WebAssembly](https://dev.to/kartikmehta8/introduction-to-webassembly-2gfc)
+- [Detrás del código: revelando el lado oscuro del desarrollo de aplicaciones](https://dev.to/zmsoft/detras-del-codigo-revelando-el-lado-oscuro-del-desarrollo-de-aplicaciones-4a8g)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
 <!-- BLOG-POST-LIST:END -->
 
