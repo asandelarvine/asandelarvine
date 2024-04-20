@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Impact du développement web et du secteur numérique sur la santé financière des entreprises locales et régionales en Afrique](https://dev.to/bienvenudk57/limpact-du-developpement-web-et-du-secteur-numerique-sur-la-sante-financiere-des-entreprises-locales-et-regionales-en-afrique-23c5)
-- [os.Relife : A flutter lifestyle web3 app](https://dev.to/takeaswing420/osrelife-a-flutter-lifestyle-web3-app-2mi5)
-- [Using Custom Hooks in multiple React Components.](https://dev.to/pixl/using-custom-hooks-in-multiple-react-components-3all)
-- [What is Unknown Publisher Warning?](https://dev.to/me_priya/what-is-unknown-publisher-warning-48f3)
+- [Recursion, it just works](https://dev.to/sokolan/recursion-it-just-works-j7p)
+- [Interview Question: Tell me about a product you launched successfully.](https://dev.to/alexr/tell-me-about-a-product-you-launched-successfully-mj7)
+- [Strange behavior of the code, problem with assigning styles after the animation on the element is finished](https://dev.to/zigglerpl/strange-behavior-of-the-code-problem-with-assigning-styles-after-the-animation-on-the-element-is-finished-4kgj)
+- [Factoring Learning Agility in Appraisals](https://dev.to/jobspikr123/factoring-learning-agility-in-appraisals-4852)
 <!-- BLOG-POST-LIST:END -->
 
