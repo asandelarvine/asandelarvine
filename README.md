@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS GUARDDUTY](https://dev.to/ojotemitopseun/aws-guardduty-2a2)
-- [Docker Private Registry using Harbor](https://dev.to/amirk1998/harbor-private-registry-1ac4)
-- [6 Easy Ways to Use Data Forecasting for SEO](https://dev.to/syedbalkhi/6-easy-ways-to-use-data-forecasting-for-seo-57ok)
-- [You need a mobility routine](https://dev.to/exerciseinsights/you-need-a-mobility-routine-2ll4)
+- [Impact du développement web et du secteur numérique sur la santé financière des entreprises locales et régionales en Afrique](https://dev.to/bienvenudk57/limpact-du-developpement-web-et-du-secteur-numerique-sur-la-sante-financiere-des-entreprises-locales-et-regionales-en-afrique-23c5)
+- [os.Relife : A flutter lifestyle web3 app](https://dev.to/takeaswing420/osrelife-a-flutter-lifestyle-web3-app-2mi5)
+- [Using Custom Hooks in multiple React Components.](https://dev.to/pixl/using-custom-hooks-in-multiple-react-components-3all)
+- [What is Unknown Publisher Warning?](https://dev.to/me_priya/what-is-unknown-publisher-warning-48f3)
 <!-- BLOG-POST-LIST:END -->
 
