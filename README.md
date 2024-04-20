@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Diretivas Vuejs](https://dev.to/nathanndos/diretivas-vuejs-ld8)
-- [Submission - Glam Up My Markup: Earth Day Celebration Landing Page](https://dev.to/eabuzaid/submission-glam-up-my-markup-earth-day-celebration-landing-page-12gb)
-- [Introduction to Bruno Scripting](https://dev.to/vikas1712/introduction-to-bruno-scripting-5a1n)
-- [Learn to ask for help](https://dev.to/noriller/learn-to-ask-for-help-hoj)
+- [Infernal Optimization: Making Your React App Lightning Fast](https://dev.to/kigazon/infernal-optimization-making-your-react-app-lightning-fast-23n5)
+- [What I learned from managing hundred millions of data in MongoDB](https://dev.to/thedevtimeline/what-i-learned-from-managing-hundred-millions-of-data-in-mongodb-3i6e)
+- [Understanding IQueryable in C#](https://dev.to/tkarropoulos/understanding-iqueryable-in-c-3l8g)
+- [NodeJS: Save SQLite in-memory database to a file](https://dev.to/mvuc87/nodejs-save-sqlite-in-memory-database-to-a-file-1dg4)
 <!-- BLOG-POST-LIST:END -->
 
