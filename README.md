@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Análise de Barragens - Parte 1](https://dev.to/devsnorte/analise-de-barragens-parte-1-57fg)
-- [Navigation Blocking in Navigation Blocking in React in Other Locations: Preventing Unsaved Changes](https://dev.to/sarwarasik/navigation-blocking-in-navigation-blocking-in-react-in-other-locations-preventing-unsaved-changes-42bi)
-- [Integrating Java with Popular APIs: A Guide to Enhancing Your Applications](https://dev.to/dbillion/integrating-java-with-popular-apis-a-guide-to-enhancing-your-applications-15p9)
-- [CSS: Do this not this](https://dev.to/ezpieco/css-do-this-not-this-20nf)
+- [Code Smell 248 - Unreliable Copy](https://dev.to/mcsee/code-smell-248-unreliable-copy-3fce)
+- [Making Chatbot Applications with Dialogflow: My HackItTogether 2024 Project](https://dev.to/1grace/making-chatbot-applications-with-dialogflow-with-project-example-5dp7)
+- [Dockerizing Next.js](https://dev.to/renao/dockerizing-nextjs-2opd)
+- [Nodemon running error fixed!](https://dev.to/don_mizzy/nodemon-running-error-fixed-28l0)
 <!-- BLOG-POST-LIST:END -->
 
