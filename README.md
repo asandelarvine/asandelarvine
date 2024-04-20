@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Email Server with Exim on Alma Linux 9](https://dev.to/budiantoip/how-to-build-email-server-with-exim-on-alma-linux-9-568e)
-- [Introduction](https://dev.to/budiantoip/introduction-3peh)
-- [Google is too powerful!](https://dev.to/kwnaidoo/google-is-too-powerful-4cgo)
-- [Why I Write.](https://dev.to/thejoernal/why-i-write-3kpm)
+- [AWS GUARDDUTY](https://dev.to/ojotemitopseun/aws-guardduty-2a2)
+- [Docker Private Registry using Harbor](https://dev.to/amirk1998/harbor-private-registry-1ac4)
+- [6 Easy Ways to Use Data Forecasting for SEO](https://dev.to/syedbalkhi/6-easy-ways-to-use-data-forecasting-for-seo-57ok)
+- [You need a mobility routine](https://dev.to/exerciseinsights/you-need-a-mobility-routine-2ll4)
 <!-- BLOG-POST-LIST:END -->
 
