@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [YOLO8 The basic functions for beginner!](https://dev.to/sachadee/yolo8-the-basic-functions-for-beginner-1k9)
+- [Unpacking Llama3: A Review of Latest AI Breakthroughs and Upgrades by Meta](https://dev.to/vishwa-ai/unpacking-llama3-a-review-of-latest-ai-breakthroughs-and-upgrades-by-meta-33do)
 - [Mentor Coze AI](https://dev.to/yowise/mentor-coze-ai-aao)
 - [Copia](https://dev.to/imnotleo/copia-49kn)
-- [ChatCraft Advenures #14: ChakraUI Troubles, My First Revert, and Final Recap](https://dev.to/rjwignar/chatcraft-advenures-14-chakraui-troubles-my-first-revert-and-final-recap-1iko)
-- [Respaldo del codigo de SO xd](https://dev.to/imnotleo/respaldo-del-codigo-de-so-xd-3nkg)
 <!-- BLOG-POST-LIST:END -->
 
