@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[10/52] Spicy Math!!!](https://dev.to/tythos/1052-spicy-math-g5a)
-- [Introduction to WebAssembly](https://dev.to/kartikmehta8/introduction-to-webassembly-2gfc)
-- [Detrás del código: revelando el lado oscuro del desarrollo de aplicaciones](https://dev.to/zmsoft/detras-del-codigo-revelando-el-lado-oscuro-del-desarrollo-de-aplicaciones-4a8g)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
+- [Mentor Coze AI](https://dev.to/yowise/mentor-coze-ai-aao)
+- [Copia](https://dev.to/imnotleo/copia-49kn)
+- [ChatCraft Advenures #14: ChakraUI Troubles, My First Revert, and Final Recap](https://dev.to/rjwignar/chatcraft-advenures-14-chakraui-troubles-my-first-revert-and-final-recap-1iko)
+- [Respaldo del codigo de SO xd](https://dev.to/imnotleo/respaldo-del-codigo-de-so-xd-3nkg)
 <!-- BLOG-POST-LIST:END -->
 
