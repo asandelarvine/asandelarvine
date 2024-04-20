@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion, it just works](https://dev.to/sokolan/recursion-it-just-works-j7p)
-- [Interview Question: Tell me about a product you launched successfully.](https://dev.to/alexr/tell-me-about-a-product-you-launched-successfully-mj7)
-- [Strange behavior of the code, problem with assigning styles after the animation on the element is finished](https://dev.to/zigglerpl/strange-behavior-of-the-code-problem-with-assigning-styles-after-the-animation-on-the-element-is-finished-4kgj)
-- [Factoring Learning Agility in Appraisals](https://dev.to/jobspikr123/factoring-learning-agility-in-appraisals-4852)
+- [Using useRef in React](https://dev.to/tiqdev/using-useref-in-react-1lco)
+- [Beyond Downloads: Building Apps that Customers Love](https://dev.to/hyscaler/beyond-downloads-building-apps-that-customers-love-2nnl)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
+- [CSS Art 2024 Submission, Earth Day Edition Frontend Challenge](https://dev.to/johnx4321/css-art-2024-submission-earth-day-edition-frontend-challenge-26g6)
 <!-- BLOG-POST-LIST:END -->
 
