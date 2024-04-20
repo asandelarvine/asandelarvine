@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dark Arts of Material-UI: Styling React Apps Fast](https://dev.to/kigazon/the-dark-arts-of-material-ui-styling-react-apps-fast-1n0g)
-- [Alice - Interceptando suas requisições HTTP se forma simples](https://dev.to/flutterbrasil/alice-interceptando-suas-requisicoes-http-se-forma-simples-ekg)
-- [Securing the Cloud #27](https://dev.to/8carroll/securing-the-cloud-27-3hkc)
-- [Deploying Bokeh Dashboard with Python on VPS: A Step-by-Step Guide](https://dev.to/jhonnyarm/deploying-bokeh-dashboard-with-python-on-vps-a-step-by-step-guide-100k)
+- [The retro GitHub profile of the day: Sindre Sorhus](https://dev.to/szabgab/the-retro-github-profile-of-the-day-sindre-sorhus-1gdf)
+- [Getting Started with Next.js: A Comprehensive Guide to Building Modern Web Applications](https://dev.to/epakconsultant/getting-started-with-nextjs-a-comprehensive-guide-to-building-modern-web-applications-22km)
+- [Using a Read-through / Write-through Cache in Java Applications with NCache](https://dev.to/vivekbd/using-a-read-through-write-through-cache-in-java-applications-with-ncache-4jga)
+- [FLUTTER_GHERKIN criando automações de teste de uma forma mais simples](https://dev.to/flutterbrasil/fluttergherkin-criando-automacoes-de-teste-de-uma-forma-mais-simples-1jda)
 <!-- BLOG-POST-LIST:END -->
 
