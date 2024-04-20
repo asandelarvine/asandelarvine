@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
-- [Creating Your First Web App with FlutterFlow: A Comprehensive Guide](https://dev.to/epakconsultant/creating-your-first-web-app-with-flutterflow-a-comprehensive-guide-3fi2)
-- [DevPod in Action](https://dev.to/shemanti/devpod-in-action-5g1f)
-- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-1ejc)
+- [How to Build Email Server with Exim on Alma Linux 9](https://dev.to/budiantoip/how-to-build-email-server-with-exim-on-alma-linux-9-568e)
+- [Introduction](https://dev.to/budiantoip/introduction-3peh)
+- [Google is too powerful!](https://dev.to/kwnaidoo/google-is-too-powerful-4cgo)
+- [Why I Write.](https://dev.to/thejoernal/why-i-write-3kpm)
 <!-- BLOG-POST-LIST:END -->
 
