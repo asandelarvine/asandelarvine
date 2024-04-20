@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infernal Optimization: Making Your React App Lightning Fast](https://dev.to/kigazon/infernal-optimization-making-your-react-app-lightning-fast-23n5)
-- [What I learned from managing hundred millions of data in MongoDB](https://dev.to/thedevtimeline/what-i-learned-from-managing-hundred-millions-of-data-in-mongodb-3i6e)
-- [Understanding IQueryable in C#](https://dev.to/tkarropoulos/understanding-iqueryable-in-c-3l8g)
-- [NodeJS: Save SQLite in-memory database to a file](https://dev.to/mvuc87/nodejs-save-sqlite-in-memory-database-to-a-file-1dg4)
+- [Análise de Barragens - Parte 1](https://dev.to/devsnorte/analise-de-barragens-parte-1-57fg)
+- [Navigation Blocking in Navigation Blocking in React in Other Locations: Preventing Unsaved Changes](https://dev.to/sarwarasik/navigation-blocking-in-navigation-blocking-in-react-in-other-locations-preventing-unsaved-changes-42bi)
+- [Integrating Java with Popular APIs: A Guide to Enhancing Your Applications](https://dev.to/dbillion/integrating-java-with-popular-apis-a-guide-to-enhancing-your-applications-15p9)
+- [CSS: Do this not this](https://dev.to/ezpieco/css-do-this-not-this-20nf)
 <!-- BLOG-POST-LIST:END -->
 
