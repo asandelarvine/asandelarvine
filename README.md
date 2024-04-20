@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using useRef in React](https://dev.to/tiqdev/using-useref-in-react-1lco)
-- [Beyond Downloads: Building Apps that Customers Love](https://dev.to/hyscaler/beyond-downloads-building-apps-that-customers-love-2nnl)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
-- [CSS Art 2024 Submission, Earth Day Edition Frontend Challenge](https://dev.to/johnx4321/css-art-2024-submission-earth-day-edition-frontend-challenge-26g6)
+- [WHAT FRAMEWORKS DO BIG COMPANIES USE](https://dev.to/mince/what-frameworks-do-big-companies-use-2f34)
+- [Ibuprofeno.py💊| #86: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-86-explica-este-codigo-python-151h)
+- [Démystifier React : Un aperçu des 17 Concepts clés de React](https://dev.to/cub_ger24/demystifier-react-un-apercu-des-17-concepts-cles-de-react-2agp)
+- [Task Execution and Scheduling in Spring Boot](https://dev.to/nilan/task-execution-and-scheduling-in-spring-boot-55e4)
 <!-- BLOG-POST-LIST:END -->
 
