@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guaranteed Safety using Blue Green with ECS and CDK](https://dev.to/aws-builders/guaranteed-safety-using-blue-green-with-ecs-and-cdk-4b4e)
-- [The best artificial intelligence for developers](https://dev.to/adrianknapp/the-best-artificial-intelligence-for-developers-4im8)
-- [What is React Hydration?](https://dev.to/jitendrachoudhary/what-is-react-hydration-2bc3)
-- [Understanding valueOf&lpar;&rpar; and toString&lpar;&rpar; in JavaScript](https://dev.to/tapuchandramojumder/understanding-valueof-and-tostring-in-javascript-7ph)
+- [Revolutionize your Website: Free Heat Maps, Recordings, Analytics &amp; more](https://dev.to/winsidescom/revolutionize-your-website-free-heat-maps-recordings-analytics-more-5hdp)
+- [🔧 Fix &quot;cannot take address of &lt;value&gt;&quot; in Go](https://dev.to/jcbhmr/fix-cannot-take-address-of-in-go-3jag)
+- [Stream Video from Raspberry Pi Camera to YouTube Live](https://dev.to/shilleh/stream-video-from-raspberry-pi-camera-to-youtube-live-3hi1)
+- [Decoding the Intricacies of Reverse Engineering: A Comprehensive Exploration](https://dev.to/wafa_bergaoui/decoding-the-intricacies-of-reverse-engineering-a-comprehensive-exploration-234n)
 <!-- BLOG-POST-LIST:END -->
 
