@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
-- [How to persist user preferences in Svelte &lpar;w/o DB&rpar;](https://dev.to/adelbeit/how-to-persist-user-preferences-in-svelte-wo-db-51nf)
-- [Feeling overwhelmed by technical articles? Let&#39;s find a solution](https://dev.to/this-is-learning/feeling-overwhelmed-by-technical-articles-lets-find-a-solution-3cn2)
-- [EXPLORING APPLICATION SECURITY SERVICES ON AWS](https://dev.to/warrisoladipup2/exploring-application-security-services-on-aws-8b2)
+- [Date Function in Javascript](https://dev.to/itsvinayak/date-function-in-javascript-57if)
+- [Implementing Messaging in .NET: A Comprehensive Guide](https://dev.to/adrianbailador/implementing-messaging-in-net-a-comprehensive-guide-4al6)
+- [Understanding JavaScript Data Types](https://dev.to/shaonkabir8/understanding-javascript-data-types-2fe1)
+- [Angular Event Modifier](https://dev.to/wszgrcy/angular-event-modifier-5c3)
 <!-- BLOG-POST-LIST:END -->
 
