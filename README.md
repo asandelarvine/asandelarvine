@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;NEW&rpar; [Product Initiative] Requirements Gathering Automation with AI Agents](https://dev.to/cleancodestudio/new-product-initiative-requirements-gathering-automation-with-ai-agents-4k49)
-- [Golang - AWS ECS lambda project](https://dev.to/ernesto27/golang-aws-ecs-lambda-project-5h0f)
-- [Yokai - a simple, modular and observable Go framework for backend applications.](https://dev.to/ekkinox/yokai-a-simple-modular-and-observable-go-framework-for-backend-applications-116j)
-- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/arndom/recreating-a-gif-with-css-earth-day-edition-3f5a)
+- [Get started with coding a discord bot](https://dev.to/zemerik/get-started-with-coding-a-discord-bot-2ojc)
+- [Advanced CSS Techniques for Responsive Design](https://dev.to/kartikmehta8/advanced-css-techniques-for-responsive-design-512d)
+- [Tips to embody clean code](https://dev.to/tkrtmy1031/tips-to-embody-clean-code-4jmb)
+- [What React beginners should know about React 19 first.](https://dev.to/jamescroissant/what-react-beginners-should-know-about-react-19-first-4n4n)
 <!-- BLOG-POST-LIST:END -->
 
