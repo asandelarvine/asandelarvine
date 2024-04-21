@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Reactor: About Fuseable interface ASYNC mode under the same thread](https://dev.to/saladlam/project-reactor-about-fuseable-interface-async-mode-under-the-same-thread-1c83)
-- [Exploring the Canvas Series: Creative Brushes Part 3](https://dev.to/leo_song/exploring-the-canvas-series-creative-brushes-part-3-10ol)
-- [Help Shape My New Tech Channel: Your Insights Needed!](https://dev.to/huseyn0w/help-shape-my-new-tech-channel-your-insights-needed-2nc5)
-- [Dark Morden Resonsive Navbar Design&lpar;ver-chinese&rpar;](https://dev.to/revensanchez/dark-morden-resonsive-navbar-designver-chinese-1hdm)
+- [Creating a Note App](https://dev.to/bakhita87/creating-a-note-app-1ma1)
+- [Load balancing with Docker Swarm &amp; Nginx](https://dev.to/joykingoo/load-balancing-with-docker-swarm-nginx-ef5)
+- [Essential Git Commands: A Developer’s Guide](https://dev.to/satyakoidala/essential-git-commands-a-developers-guide-4cd2)
+- [Enhancing React App Security: Implementing Inactivity Logout for Peace of Mind](https://dev.to/ingeniouswebster/enhancing-react-app-security-implementing-inactivity-logout-for-peace-of-mind-3nol)
 <!-- BLOG-POST-LIST:END -->
 
