@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML &amp; Vue.js, a secrete you may not know about Vue](https://dev.to/kueiapp/html-vuejs-a-secrete-you-may-not-know-about-vue-n9d)
-- [Kubernetes Deployment with Ansible: A Comprehensive Guide to Bootstraping Kubernetes Clusters](https://dev.to/himaatluri/kubernetes-deployment-with-ansible-a-comprehensive-guide-to-bootstraping-kubernetes-clusters-2ebh)
-- [Concluding OSD700](https://dev.to/amnish04/concluding-osd700-3eoh)
-- [Improve Download Speeds with Concurrency](https://dev.to/amnish04/improve-download-speeds-with-concurrency-58hk)
+- [The Tale of Tailwind CSS and React](https://dev.to/kigazon/the-tale-of-tailwind-css-and-react-a92)
+- [Title: Enhancing Continuous Integration with Jenkins: A DevOps Community Perspective](https://dev.to/amitkolekar/title-enhancing-continuous-integration-with-jenkins-a-devops-community-perspective-5gda)
+- [Do you test edge cases?](https://dev.to/droidpulkit/do-you-test-edge-cases-hg)
+- [Getting Weird: &quot;Hooks&quot; in React Class Components](https://dev.to/tamb/getting-weird-hooks-in-react-class-components-24le)
 <!-- BLOG-POST-LIST:END -->
 
