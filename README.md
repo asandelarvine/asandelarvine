@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: HTML + CSS](https://dev.to/r4nd3l/front-end-specialisations-html-css-4d3)
-- [Day 21/366](https://dev.to/vishalmx3/day-21366-1e3j)
-- [My Pen on CodePen](https://dev.to/kent7301/my-pen-on-codepen-13lf)
-- [Anthropic Claude with tools using Python SDK](https://dev.to/thomastaylor/anthropic-claude-with-tools-using-python-sdk-2fio)
+- [WITL &lpar;A web security friend&rpar;](https://dev.to/sarahokolo/witl-a-web-security-friend-262h)
+- [Are You Too Good at Your Job?](https://dev.to/devteam/are-you-too-good-at-your-job-4dkm)
+- [The Impact of Lazy Evaluation of Iterators](https://dev.to/devleader/the-impact-of-lazy-evaluation-of-iterators-dl2)
+- [How to override the colors of NeoSolarized in NeoVim](https://dev.to/xxxuutaxxx/how-to-override-the-colors-of-neosolarized-in-neovim-2h1a)
 <!-- BLOG-POST-LIST:END -->
 
