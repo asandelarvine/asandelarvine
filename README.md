@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW TO BECOME A BACKEND DEVELOPER](https://dev.to/toluxx/how-to-become-a-backend-developer-4h13)
-- [Logging Framoworks... Moving from SEQ to f/Lo/G... and why I didn&#39;t pick ELK](https://dev.to/liukonen/logging-framoworks-moving-from-seq-to-flog-and-why-i-didnt-pick-elk-4p00)
-- [Make your oncall easy with Savvy&#39;s AI](https://dev.to/gopher65/make-your-oncall-easy-with-savvys-ai-1bi)
-- [Get started with coding a discord bot](https://dev.to/zemerik/get-started-with-coding-a-discord-bot-2ojc)
+- [HTML &amp; Vue.js, a secrete you may not know about Vue](https://dev.to/kueiapp/html-vuejs-a-secrete-you-may-not-know-about-vue-n9d)
+- [Kubernetes Deployment with Ansible: A Comprehensive Guide to Bootstraping Kubernetes Clusters](https://dev.to/himaatluri/kubernetes-deployment-with-ansible-a-comprehensive-guide-to-bootstraping-kubernetes-clusters-2ebh)
+- [Concluding OSD700](https://dev.to/amnish04/concluding-osd700-3eoh)
+- [Improve Download Speeds with Concurrency](https://dev.to/amnish04/improve-download-speeds-with-concurrency-58hk)
 <!-- BLOG-POST-LIST:END -->
 
