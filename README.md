@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Performance: Navigating the Use of Bind Variables in Version 16](https://dev.to/shiviyer/optimizing-postgresql-performance-navigating-the-use-of-bind-variables-in-version-16-2ehk)
-- [React Starter Template 👨🏿‍💻](https://dev.to/bttodd11/react-starter-template-1l01)
-- [Tailwind Login&amp;Register](https://dev.to/yunuss5461/tailwind-loginregister-1cb6)
-- [Lessons for me on leadership, from a film about apes](https://dev.to/shalvah/lessons-for-me-on-leadership-from-a-film-about-apes-34ca)
+- [Animation in SVG](https://dev.to/wagenrace/animation-in-svg-12pb)
+- [Generative Fill with AI with images:](https://dev.to/smartdev72/generative-fill-with-ai-with-images-3cj4)
+- [Understanding APIs: What They Are and How to Utilize Them](https://dev.to/shadrachsamuel04/breaking-down-apis-understanding-what-they-are-and-how-to-utilize-them-3i42)
+- [Criando PDFs com React-PDF](https://dev.to/ramonprog/criando-pdfs-com-react-pdf-1chb)
 <!-- BLOG-POST-LIST:END -->
 
