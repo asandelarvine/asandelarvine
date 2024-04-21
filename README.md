@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvendo um Bot do Telegram em Golang para Buscar Eventos da Comunidade Devs Norte no Sympla](https://dev.to/devsnorte/desenvolvendo-um-bot-do-telegram-em-golang-para-buscar-eventos-da-comunidade-devs-norte-no-sympla-1j21)
-- [Introducing Ecla: A Versatile Programming Language for Learning](https://dev.to/mkarten/introducing-ecla-a-versatile-programming-language-for-learning-4cao)
-- [Introducing Filterable: Simplify Data Handling in Your Laravel Applications](https://dev.to/thavarshan/introducing-filterable-simplify-data-handling-in-your-laravel-applications-c7)
-- [HTML - 17. Desain Layout with Table | iAppTech.id](https://dev.to/appardana/html-17-desain-layout-with-table-iapptechid-1dah)
+- [React Context Chaos: Global State Management Made Easy](https://dev.to/kigazon/react-context-chaos-global-state-management-made-easy-3cjk)
+- [Visualização automática de esquemas de databases do Sqlite](https://dev.to/msc2020/visualizacao-automatica-de-esquemas-de-databases-do-sqlite-513d)
+- [AWS Bedrock Update from Claude v2.1 to Claude v3](https://dev.to/mmuller88/aws-bedrock-update-from-claude-v21-to-claude-v3-3kle)
+- [Angular Tutorial: Signal Queries with the viewChild&lpar;&rpar; and contentChild&lpar;&rpar; Functions](https://dev.to/brianmtreese/angular-tutorial-signal-queries-with-the-viewchild-and-contentchild-functions-26fm)
 <!-- BLOG-POST-LIST:END -->
 
