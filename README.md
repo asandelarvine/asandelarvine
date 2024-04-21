@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tale of Tailwind CSS and React](https://dev.to/kigazon/the-tale-of-tailwind-css-and-react-a92)
-- [Title: Enhancing Continuous Integration with Jenkins: A DevOps Community Perspective](https://dev.to/amitkolekar/title-enhancing-continuous-integration-with-jenkins-a-devops-community-perspective-5gda)
-- [Do you test edge cases?](https://dev.to/droidpulkit/do-you-test-edge-cases-hg)
-- [Getting Weird: &quot;Hooks&quot; in React Class Components](https://dev.to/tamb/getting-weird-hooks-in-react-class-components-24le)
+- [Como funciona um Load Balance e como implementar utilizando Nginx.](https://dev.to/iamjose/como-funciona-um-load-balance-e-como-implementar-utilizando-nginx-9oj)
+- [Roles and Responsibilities Matrix](https://dev.to/smashse/roles-and-responsibilities-matrix-527p)
+- [SVGs in React &lpar;almost everything you need to know&rpar;](https://dev.to/vavilov2212/svgs-in-react-almost-everything-you-need-to-know-1nb4)
+- [MiniScript Roundup #22](https://dev.to/synapticbytes/miniscript-roundup-22-1b39)
 <!-- BLOG-POST-LIST:END -->
 
