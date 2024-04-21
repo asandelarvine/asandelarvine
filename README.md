@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como funciona um Load Balance e como implementar utilizando Nginx.](https://dev.to/iamjose/como-funciona-um-load-balance-e-como-implementar-utilizando-nginx-9oj)
-- [Roles and Responsibilities Matrix](https://dev.to/smashse/roles-and-responsibilities-matrix-527p)
-- [SVGs in React &lpar;almost everything you need to know&rpar;](https://dev.to/vavilov2212/svgs-in-react-almost-everything-you-need-to-know-1nb4)
-- [MiniScript Roundup #22](https://dev.to/synapticbytes/miniscript-roundup-22-1b39)
+- [Front-end specialisations: HTML + CSS](https://dev.to/r4nd3l/front-end-specialisations-html-css-4d3)
+- [Day 21/366](https://dev.to/vishalmx3/day-21366-1e3j)
+- [My Pen on CodePen](https://dev.to/kent7301/my-pen-on-codepen-13lf)
+- [Anthropic Claude with tools using Python SDK](https://dev.to/thomastaylor/anthropic-claude-with-tools-using-python-sdk-2fio)
 <!-- BLOG-POST-LIST:END -->
 
