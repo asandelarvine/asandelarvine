@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Note App](https://dev.to/bakhita87/creating-a-note-app-1ma1)
-- [Load balancing with Docker Swarm &amp; Nginx](https://dev.to/joykingoo/load-balancing-with-docker-swarm-nginx-ef5)
-- [Essential Git Commands: A Developer’s Guide](https://dev.to/satyakoidala/essential-git-commands-a-developers-guide-4cd2)
-- [Enhancing React App Security: Implementing Inactivity Logout for Peace of Mind](https://dev.to/ingeniouswebster/enhancing-react-app-security-implementing-inactivity-logout-for-peace-of-mind-3nol)
+- [My first Mega Project: Chess Website](https://dev.to/adamazuddin/my-first-mega-project-chess-website-2n8b)
+- [Employee Management System using Python.](https://dev.to/spiff/employee-management-system-using-python-101a)
+- [Blue-Green Deployment on Single Machines Starting from Scratch, Using Your Dockerfiles: Examples in PHP, Java, and Node.js](https://dev.to/andrewkangg/blue-green-deployment-on-single-machines-starting-from-scratch-using-your-dockerfiles-examples-in-php-java-and-nodejs-4ci9)
+- [A Deep Intro to Apache and Resources for Learning More](https://dev.to/alexmercedcoder/a-deep-intro-to-apache-and-resources-for-learning-more-3i61)
 <!-- BLOG-POST-LIST:END -->
 
