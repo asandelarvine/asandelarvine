@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Date Function in Javascript](https://dev.to/itsvinayak/date-function-in-javascript-57if)
-- [Implementing Messaging in .NET: A Comprehensive Guide](https://dev.to/adrianbailador/implementing-messaging-in-net-a-comprehensive-guide-4al6)
-- [Understanding JavaScript Data Types](https://dev.to/shaonkabir8/understanding-javascript-data-types-2fe1)
-- [Angular Event Modifier](https://dev.to/wszgrcy/angular-event-modifier-5c3)
+- [Discussion: whats your favorite framework](https://dev.to/dino2328/discussion-whats-your-favorite-framework-3jf9)
+- [Set up an Automation script with Ansible](https://dev.to/joykingoo/set-up-an-automation-script-with-ansible-2g4h)
+- [Help needed with subrouting in Go](https://dev.to/sainig/help-needed-with-subroutine-in-go-4obc)
+- [Difference between WHERE vs HAVING Clause in SQL](https://dev.to/somadevtoo/difference-between-where-vs-having-clause-in-sql-17g5)
 <!-- BLOG-POST-LIST:END -->
 
