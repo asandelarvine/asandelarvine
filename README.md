@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first Mega Project: Chess Website](https://dev.to/adamazuddin/my-first-mega-project-chess-website-2n8b)
-- [Employee Management System using Python.](https://dev.to/spiff/employee-management-system-using-python-101a)
-- [Blue-Green Deployment on Single Machines Starting from Scratch, Using Your Dockerfiles: Examples in PHP, Java, and Node.js](https://dev.to/andrewkangg/blue-green-deployment-on-single-machines-starting-from-scratch-using-your-dockerfiles-examples-in-php-java-and-nodejs-4ci9)
-- [A Deep Intro to Apache and Resources for Learning More](https://dev.to/alexmercedcoder/a-deep-intro-to-apache-and-resources-for-learning-more-3i61)
+- [Desenvolvendo um Bot do Telegram em Golang para Buscar Eventos da Comunidade Devs Norte no Sympla](https://dev.to/devsnorte/desenvolvendo-um-bot-do-telegram-em-golang-para-buscar-eventos-da-comunidade-devs-norte-no-sympla-1j21)
+- [Introducing Ecla: A Versatile Programming Language for Learning](https://dev.to/mkarten/introducing-ecla-a-versatile-programming-language-for-learning-4cao)
+- [Introducing Filterable: Simplify Data Handling in Your Laravel Applications](https://dev.to/thavarshan/introducing-filterable-simplify-data-handling-in-your-laravel-applications-c7)
+- [HTML - 17. Desain Layout with Table | iAppTech.id](https://dev.to/appardana/html-17-desain-layout-with-table-iapptechid-1dah)
 <!-- BLOG-POST-LIST:END -->
 
