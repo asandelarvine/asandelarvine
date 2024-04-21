@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discussion: whats your favorite framework](https://dev.to/dino2328/discussion-whats-your-favorite-framework-3jf9)
-- [Set up an Automation script with Ansible](https://dev.to/joykingoo/set-up-an-automation-script-with-ansible-2g4h)
-- [Help needed with subrouting in Go](https://dev.to/sainig/help-needed-with-subroutine-in-go-4obc)
-- [Difference between WHERE vs HAVING Clause in SQL](https://dev.to/somadevtoo/difference-between-where-vs-having-clause-in-sql-17g5)
+- [Project Reactor: About Fuseable interface ASYNC mode under the same thread](https://dev.to/saladlam/project-reactor-about-fuseable-interface-async-mode-under-the-same-thread-1c83)
+- [Exploring the Canvas Series: Creative Brushes Part 3](https://dev.to/leo_song/exploring-the-canvas-series-creative-brushes-part-3-10ol)
+- [Help Shape My New Tech Channel: Your Insights Needed!](https://dev.to/huseyn0w/help-shape-my-new-tech-channel-your-insights-needed-2nc5)
+- [Dark Morden Resonsive Navbar Design&lpar;ver-chinese&rpar;](https://dev.to/revensanchez/dark-morden-resonsive-navbar-designver-chinese-1hdm)
 <!-- BLOG-POST-LIST:END -->
 
