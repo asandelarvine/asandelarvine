@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Book and Podcast Recommendations for You](https://dev.to/per-starke-642/my-book-and-podcast-recommendations-for-you-7jd)
-- [Earth Day CSS ART](https://dev.to/gauharnawab/earth-day-css-art-14h4)
-- [Builder + React.js: A game-changing combination](https://dev.to/igorbm/builder-reactjs-a-game-changing-combination-4mh7)
-- [Learning AWS Day by Day — Day 43 — Amazon Athena](https://dev.to/rksalo88/learning-aws-day-by-day-day-43-amazon-athena-3inh)
+- [Guaranteed Safety using Blue Green with ECS and CDK](https://dev.to/aws-builders/guaranteed-safety-using-blue-green-with-ecs-and-cdk-4b4e)
+- [The best artificial intelligence for developers](https://dev.to/adrianknapp/the-best-artificial-intelligence-for-developers-4im8)
+- [What is React Hydration?](https://dev.to/jitendrachoudhary/what-is-react-hydration-2bc3)
+- [Understanding valueOf&lpar;&rpar; and toString&lpar;&rpar; in JavaScript](https://dev.to/tapuchandramojumder/understanding-valueof-and-tostring-in-javascript-7ph)
 <!-- BLOG-POST-LIST:END -->
 
