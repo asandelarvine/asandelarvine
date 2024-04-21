@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize your Website: Free Heat Maps, Recordings, Analytics &amp; more](https://dev.to/winsidescom/revolutionize-your-website-free-heat-maps-recordings-analytics-more-5hdp)
-- [🔧 Fix &quot;cannot take address of &lt;value&gt;&quot; in Go](https://dev.to/jcbhmr/fix-cannot-take-address-of-in-go-3jag)
-- [Stream Video from Raspberry Pi Camera to YouTube Live](https://dev.to/shilleh/stream-video-from-raspberry-pi-camera-to-youtube-live-3hi1)
-- [Decoding the Intricacies of Reverse Engineering: A Comprehensive Exploration](https://dev.to/wafa_bergaoui/decoding-the-intricacies-of-reverse-engineering-a-comprehensive-exploration-234n)
+- [Optimizing PostgreSQL Performance: Navigating the Use of Bind Variables in Version 16](https://dev.to/shiviyer/optimizing-postgresql-performance-navigating-the-use-of-bind-variables-in-version-16-2ehk)
+- [React Starter Template 👨🏿‍💻](https://dev.to/bttodd11/react-starter-template-1l01)
+- [Tailwind Login&amp;Register](https://dev.to/yunuss5461/tailwind-loginregister-1cb6)
+- [Lessons for me on leadership, from a film about apes](https://dev.to/shalvah/lessons-for-me-on-leadership-from-a-film-about-apes-34ca)
 <!-- BLOG-POST-LIST:END -->
 
