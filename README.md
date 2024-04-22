@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn React in 30 minutes](https://dev.to/imrankh13332994/learn-react-in-30-minutes-3odh)
-- [Learn React Hydration in 5 minutes](https://dev.to/devmirx/learn-react-hydration-in-5-minutes-1fjh)
-- [Why enterprise AI projects are moving too slowly](https://dev.to/kitops/why-enterprise-ai-projects-are-moving-too-slowly-29ik)
-- [Kotlin: Extension functions](https://dev.to/cuongnp/kotlin-extension-functions-1i1d)
+- [Javascript Recursion](https://dev.to/ticha/javascript-recursion-1d32)
+- [8 Things I Wish I Understood Earlier In My Career](https://dev.to/devleader/8-things-i-wish-i-understood-earlier-in-my-career-3eil)
+- [Let&#39;s create an app testing scenario!](https://dev.to/akshara_chandran_0f2b21d7/lets-create-an-app-testing-scenario-49on)
+- [How Important Is Your Domain Name](https://dev.to/optimizeforseo2/how-important-is-your-domain-name-2j5d)
 <!-- BLOG-POST-LIST:END -->
 
