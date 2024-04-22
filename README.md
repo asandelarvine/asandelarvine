@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12章１３](https://dev.to/aaattt/12zhang-13-2d99)
-- [1971. Find if Path Exists in Graph](https://dev.to/mdarifulhaque/1971-find-if-path-exists-in-graph-18oj)
-- [DevLog #15 - Sprint Retrospective](https://dev.to/amilarangana/devlog-15-sprint-retrospective-1khb)
-- [752. Open the Lock](https://dev.to/mdarifulhaque/752-open-the-lock-562h)
+- [Brainboard vs. Traditional IaC Management Comparison](https://dev.to/miketysonofthecloud/brainboard-vs-traditional-iac-management-comparison-1hgh)
+- [Nextjs](https://dev.to/taiwoakerele/nextjs-3opl)
+- [217. Contains Duplicate](https://dev.to/_bhupeshk_/217-contains-duplicate-og5)
+- [Day 949 : Flight Confirmation](https://dev.to/dwane/day-949-flight-confirmation-1fd2)
 <!-- BLOG-POST-LIST:END -->
 
