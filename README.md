@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Novu with Supabase](https://dev.to/unicodeveloper/how-to-use-novu-with-supabase-3c82)
-- [LeetCode Meditations: Subtree of Another Tree](https://dev.to/rivea0/leetcode-meditations-subtree-of-another-tree-47k7)
-- [This is so good to be true](https://dev.to/unicodeveloper/this-is-so-good-to-be-true-2oja)
-- [Web Development with Web Components: The New Way of Modularity](https://dev.to/melihs/web-development-with-web-components-the-new-way-of-modularity-4c8o)
+- [You screwed your git history? Don&#39;t panic!](https://dev.to/ccoveille/you-screwed-your-git-history-dont-panic-1o3k)
+- [Case Study - Optimizing Linear Layer](https://dev.to/eugeneo_17/case-study-optimizing-linear-layer-55dl)
+- [** Candy Candy y la Lógica: Una Dulce Analogía en el Mundo Digital **👱‍♀️](https://dev.to/orlidev/-candy-candy-y-la-logica-una-dulce-analogia-en-el-mundo-digital--2a6k)
+- [Including extra meta data with a resource response](https://dev.to/phyothiha/including-extra-meta-data-with-a-resource-response-2bf8)
 <!-- BLOG-POST-LIST:END -->
 
