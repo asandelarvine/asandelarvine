@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Under the Hood - Day 1](https://dev.to/lakhera2015/aws-under-the-hood-day-1-271l)
-- [I switch from Eslint to Biome](https://dev.to/amiceli/i-switch-from-eslint-to-biome-3bem)
-- [Machine Learning with PHP](https://dev.to/robertobutti/machine-learning-with-php-5gb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
+- [12章１３](https://dev.to/aaattt/12zhang-13-2d99)
+- [1971. Find if Path Exists in Graph](https://dev.to/mdarifulhaque/1971-find-if-path-exists-in-graph-18oj)
+- [DevLog #15 - Sprint Retrospective](https://dev.to/amilarangana/devlog-15-sprint-retrospective-1khb)
+- [752. Open the Lock](https://dev.to/mdarifulhaque/752-open-the-lock-562h)
 <!-- BLOG-POST-LIST:END -->
 
