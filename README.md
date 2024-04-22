@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Selecting Your Python IDE](https://dev.to/zoltanf/selecting-your-python-ide-1jdm)
-- [Cypress For Test Automation: A Step-by-Step Guide](https://dev.to/morrismoses149/cypress-for-test-automation-a-step-by-step-guide-286k)
-- [Build k8s Cluster on Hyper-V](https://dev.to/robertluwang/build-k8s-cluster-on-hyper-v-5ae8)
-- [Enhance your backend data with ES6 classes](https://dev.to/silentmantra/enhance-your-backend-data-with-es6-classes-20l3)
+- [Learn React in 30 minutes](https://dev.to/imrankh13332994/learn-react-in-30-minutes-3odh)
+- [Learn React Hydration in 5 minutes](https://dev.to/devmirx/learn-react-hydration-in-5-minutes-1fjh)
+- [Why enterprise AI projects are moving too slowly](https://dev.to/kitops/why-enterprise-ai-projects-are-moving-too-slowly-29ik)
+- [Kotlin: Extension functions](https://dev.to/cuongnp/kotlin-extension-functions-1i1d)
 <!-- BLOG-POST-LIST:END -->
 
