@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You screwed your git history? Don&#39;t panic!](https://dev.to/ccoveille/you-screwed-your-git-history-dont-panic-1o3k)
-- [Case Study - Optimizing Linear Layer](https://dev.to/eugeneo_17/case-study-optimizing-linear-layer-55dl)
-- [** Candy Candy y la Lógica: Una Dulce Analogía en el Mundo Digital **👱‍♀️](https://dev.to/orlidev/-candy-candy-y-la-logica-una-dulce-analogia-en-el-mundo-digital--2a6k)
-- [Including extra meta data with a resource response](https://dev.to/phyothiha/including-extra-meta-data-with-a-resource-response-2bf8)
+- [How to Optimize Your Website for Optimal Performance](https://dev.to/tomiloba2/how-to-optimize-your-website-for-optimal-performance-466n)
+- [Creating, Compiling, and Executing a Java Program](https://dev.to/paulike/creating-compiling-and-executing-a-java-program-4am9)
+- [Unveiling the Mighty Mini: Your Guide to Svelte Mini Apps](https://dev.to/dev_michael/introduction-welcome-to-the-world-of-svelte-mini-apps-3il0)
+- [Introducing LazyKit for JavaScript &amp; TypeScript](https://dev.to/jrtilak/introducing-lazykit-for-javascript-typescript-14gl)
 <!-- BLOG-POST-LIST:END -->
 
