@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL and NoSQL Capabilities with JSON and JSONB](https://dev.to/dbvismarketing/postgresql-and-nosql-capabilities-with-json-and-jsonb-54i)
-- [One LLaMa to rule them all](https://dev.to/giuliano1993/one-llama-to-rule-them-all-2je8)
-- [How Are You Celebrating Earth Day? 🌱💧](https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa)
-- [Hi fellow devs!!](https://dev.to/yashrastogi00987/hi-fellow-devs-1ell)
+- [Step-by-Step Guide to Integrate TypeScript into a Node.js Project 🚀🛠️](https://dev.to/amatisse/step-by-step-guide-to-integrate-typescript-into-a-nodejs-project-25ao)
+- [Kubernetes CI/CD Pipelines](https://dev.to/spacelift/kubernetes-cicd-pipelines-1llk)
+- [10 Easy Steps to Integrate NiceDCV with AWS Cloud: A Technical Guide](https://dev.to/taashee/10-easy-steps-to-integrate-nicedcv-with-aws-cloud-a-technical-guide-2c8b)
+- [Using Tailwind plugins to create custom utility classes](https://dev.to/jacobandrewsky/using-tailwind-plugins-to-create-custom-utility-classes-4e3j)
 <!-- BLOG-POST-LIST:END -->
 
