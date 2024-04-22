@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize Your Website for Optimal Performance](https://dev.to/tomiloba2/how-to-optimize-your-website-for-optimal-performance-466n)
-- [Creating, Compiling, and Executing a Java Program](https://dev.to/paulike/creating-compiling-and-executing-a-java-program-4am9)
-- [Unveiling the Mighty Mini: Your Guide to Svelte Mini Apps](https://dev.to/dev_michael/introduction-welcome-to-the-world-of-svelte-mini-apps-3il0)
-- [Introducing LazyKit for JavaScript &amp; TypeScript](https://dev.to/jrtilak/introducing-lazykit-for-javascript-typescript-14gl)
+- [AWS Under the Hood - Day 1](https://dev.to/lakhera2015/aws-under-the-hood-day-1-271l)
+- [I switch from Eslint to Biome](https://dev.to/amiceli/i-switch-from-eslint-to-biome-3bem)
+- [Machine Learning with PHP](https://dev.to/robertobutti/machine-learning-with-php-5gb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
 <!-- BLOG-POST-LIST:END -->
 
