@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Selenium?](https://dev.to/tremartin/selenium-27om)
-- [Day 26: Unveiling the Magic of INTRODUCTION To Binary Search in Java, C++, Python 🚀](https://dev.to/nitinbhatt46/day-26-unveiling-the-magic-of-introduction-to-binary-search-in-java-c-python-5c2a)
-- [Mobile App Navigation: Patterns and Examples for 2023](https://dev.to/pepper_square/mobile-app-navigation-patterns-and-examples-for-2023-3cf9)
-- [Custom Carousel Widget - Flutter News 2024 #16 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-16-eyie-1m83)
+- [Laravel Spring and React Project](https://dev.to/tecsxpert/laravel-spring-and-react-project-1n6h)
+- [Replacing Digits in a Number Without Converting to String](https://dev.to/arhamrumi/replacing-digits-in-a-number-without-converting-to-string-1jl4)
+- [Task 1](https://dev.to/ragavi/task-1-1398)
+- [weeklyfoo #29](https://dev.to/urbanisierung/weeklyfoo-29-7oe)
 <!-- BLOG-POST-LIST:END -->
 
