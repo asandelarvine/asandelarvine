@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [eBPF: Unleashing Kernel Magic for Modern Infrastructure](https://dev.to/ahmadrahimizadeh/ebpf-unleashing-kernel-magic-for-modern-infrastructure-305a)
-- [List of prompts to increase content clicks](https://dev.to/promry/list-of-prompts-to-increase-content-clicks-3fkp)
-- [Creating mocks for testing react code](https://dev.to/fajarriv/creating-mocks-for-testing-react-code-ml4)
-- [Simulate Clock Skew in Docker Container](https://dev.to/yugabyte/simulate-clock-skew-in-docker-container-2com)
+- [chunk&lpar;&rpar; and dsplit&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/chunk-and-dsplit-in-pytorch-5hd2)
+- [unbind&lpar;&rpar; and tensor_split&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/unbind-and-tensorsplit-in-pytorch-4b9a)
+- [I use NixOS for my home-server, and you should too!](https://dev.to/jasper-at-windswept/i-use-nixos-for-my-home-server-and-you-should-too-1n7p)
+- [Exploring the Basics of Elixir](https://dev.to/kartikmehta8/exploring-the-basics-of-elixir-3pni)
 <!-- BLOG-POST-LIST:END -->
 
