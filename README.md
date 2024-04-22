@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-47e2)
-- [Podcast Palooza— What are you listening to? &lpar;Business Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-business-edition-33jl)
-- [Understanding CI/CD Pipelines: A Crucial Skill for Every Software Engineer🔥](https://dev.to/priyankdeep78/understanding-cicd-pipelines-a-crucial-skill-for-every-software-engineer-225p)
-- [Calculating the Cost of Website Downtime by Industry](https://dev.to/upzillaco/calculating-the-cost-of-website-downtime-by-industry-8g5)
+- [Selecting Your Python IDE](https://dev.to/zoltanf/selecting-your-python-ide-1jdm)
+- [Cypress For Test Automation: A Step-by-Step Guide](https://dev.to/morrismoses149/cypress-for-test-automation-a-step-by-step-guide-286k)
+- [Build k8s Cluster on Hyper-V](https://dev.to/robertluwang/build-k8s-cluster-on-hyper-v-5ae8)
+- [Enhance your backend data with ES6 classes](https://dev.to/silentmantra/enhance-your-backend-data-with-es6-classes-20l3)
 <!-- BLOG-POST-LIST:END -->
 
