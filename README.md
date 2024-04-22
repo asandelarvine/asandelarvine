@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Integrate TypeScript into a Node.js Project 🚀🛠️](https://dev.to/amatisse/step-by-step-guide-to-integrate-typescript-into-a-nodejs-project-25ao)
-- [Kubernetes CI/CD Pipelines](https://dev.to/spacelift/kubernetes-cicd-pipelines-1llk)
-- [10 Easy Steps to Integrate NiceDCV with AWS Cloud: A Technical Guide](https://dev.to/taashee/10-easy-steps-to-integrate-nicedcv-with-aws-cloud-a-technical-guide-2c8b)
-- [Using Tailwind plugins to create custom utility classes](https://dev.to/jacobandrewsky/using-tailwind-plugins-to-create-custom-utility-classes-4e3j)
+- [Understanding Go: part 10 – Struct](https://dev.to/aurelievache/understanding-go-part-10-struct-5ghf)
+- [Managing versions of OpenTofu, Terraform and TerraGrunt with tenv and DOP](https://dev.to/devopspass-ai/managing-versions-of-opentofu-terraform-and-terragrunt-with-tenv-and-dop-58gc)
+- [Survival prediction for Titanic passengers using logistic regression.](https://dev.to/vaibha_v/survival-prediction-for-titanic-passengers-using-logistic-regression-854)
+- [Implement React v18 from Scratch Using WASM and Rust - [6] Implementation of Commit Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-6-implementation-of-commit-process-4j63)
 <!-- BLOG-POST-LIST:END -->
 
