@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Active Directory &lpar;AD&rpar; vs Azure Active Directory &lpar;AAD&rpar;](https://dev.to/luca1iu/active-directory-ad-vs-azure-active-directory-aad-16fa)
-- [Linux Booting process](https://dev.to/rudeh1253/linux-booting-process-2pde)
-- [6 Tips for Creating Better Website Surveys](https://dev.to/syedbalkhi/6-tips-for-creating-better-website-surveys-1k01)
-- [Mastering Session Management with NestJS and Redis: A Comprehensive Guide](https://dev.to/es404020/mastering-session-management-with-nestjs-and-redis-a-comprehensive-guide-1a6h)
+- [Python Type Hints: Callable Objects, Iterables and More](https://dev.to/sachingeek/python-type-hints-callable-objects-iterables-and-more-2cm8)
+- [JavaScript Event Loop Explained in 1 minute.](https://dev.to/ashsajal/javascript-event-loop-explained-in-1-minute-4p12)
+- [Ibuprofeno.py💊| #87: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-87-explica-este-codigo-python-4kg6)
+- [Prophecy of Redux: State Management in Large React Apps](https://dev.to/kigazon/prophecy-of-redux-state-management-in-large-react-apps-49d5)
 <!-- BLOG-POST-LIST:END -->
 
