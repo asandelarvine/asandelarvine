@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [chunk&lpar;&rpar; and dsplit&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/chunk-and-dsplit-in-pytorch-5hd2)
-- [unbind&lpar;&rpar; and tensor_split&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/unbind-and-tensorsplit-in-pytorch-4b9a)
-- [I use NixOS for my home-server, and you should too!](https://dev.to/jasper-at-windswept/i-use-nixos-for-my-home-server-and-you-should-too-1n7p)
-- [Exploring the Basics of Elixir](https://dev.to/kartikmehta8/exploring-the-basics-of-elixir-3pni)
+- [The Most Important Thing I learned About Writing Readable Code](https://dev.to/annoh_karlgusta/the-most-important-thing-i-learned-about-writing-readable-code-42ih)
+- [[Tutorial] Como usar o Git e GitHub](https://dev.to/devmoreir4/tutorial-como-usar-o-git-e-github-2b62)
+- [A Simple Guide to Integrating Rails Backend with React Frontend](https://dev.to/leoneloliver/a-simple-guide-to-integrating-rails-backend-with-react-frontend-4i28)
+- [⚽ FootBot](https://dev.to/mattryanmtl/footbot-4l3b)
 <!-- BLOG-POST-LIST:END -->
 
