@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Go: part 10 – Struct](https://dev.to/aurelievache/understanding-go-part-10-struct-5ghf)
-- [Managing versions of OpenTofu, Terraform and TerraGrunt with tenv and DOP](https://dev.to/devopspass-ai/managing-versions-of-opentofu-terraform-and-terragrunt-with-tenv-and-dop-58gc)
-- [Survival prediction for Titanic passengers using logistic regression.](https://dev.to/vaibha_v/survival-prediction-for-titanic-passengers-using-logistic-regression-854)
-- [Implement React v18 from Scratch Using WASM and Rust - [6] Implementation of Commit Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-6-implementation-of-commit-process-4j63)
+- [Active Directory &lpar;AD&rpar; vs Azure Active Directory &lpar;AAD&rpar;](https://dev.to/luca1iu/active-directory-ad-vs-azure-active-directory-aad-16fa)
+- [Linux Booting process](https://dev.to/rudeh1253/linux-booting-process-2pde)
+- [6 Tips for Creating Better Website Surveys](https://dev.to/syedbalkhi/6-tips-for-creating-better-website-surveys-1k01)
+- [Mastering Session Management with NestJS and Redis: A Comprehensive Guide](https://dev.to/es404020/mastering-session-management-with-nestjs-and-redis-a-comprehensive-guide-1a6h)
 <!-- BLOG-POST-LIST:END -->
 
