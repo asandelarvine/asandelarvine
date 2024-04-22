@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Type Hints: Callable Objects, Iterables and More](https://dev.to/sachingeek/python-type-hints-callable-objects-iterables-and-more-2cm8)
-- [JavaScript Event Loop Explained in 1 minute.](https://dev.to/ashsajal/javascript-event-loop-explained-in-1-minute-4p12)
-- [Ibuprofeno.py💊| #87: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-87-explica-este-codigo-python-4kg6)
-- [Prophecy of Redux: State Management in Large React Apps](https://dev.to/kigazon/prophecy-of-redux-state-management-in-large-react-apps-49d5)
+- [FooBar Serverless Technical Videos Playlist!](https://dev.to/evefonwu/foobar-serverless-technical-videos-playlist-1g9a)
+- [What is Software Testing?](https://dev.to/gayu99/what-is-software-testing-j3c)
+- [🎉🌿 Back to Frontend Fundamentals: JavaScript Building Blocks](https://dev.to/_ndeyefatoudiop/back-to-frontend-fundamentals-javascript-building-blocks-315a)
+- [The World of Magento Development: Building Robust E-commerce Platforms](https://dev.to/elainecbennet/the-world-of-magento-development-building-robust-e-commerce-platforms-326m)
 <!-- BLOG-POST-LIST:END -->
 
