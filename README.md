@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FooBar Serverless Technical Videos Playlist!](https://dev.to/evefonwu/foobar-serverless-technical-videos-playlist-1g9a)
-- [What is Software Testing?](https://dev.to/gayu99/what-is-software-testing-j3c)
-- [🎉🌿 Back to Frontend Fundamentals: JavaScript Building Blocks](https://dev.to/_ndeyefatoudiop/back-to-frontend-fundamentals-javascript-building-blocks-315a)
-- [The World of Magento Development: Building Robust E-commerce Platforms](https://dev.to/elainecbennet/the-world-of-magento-development-building-robust-e-commerce-platforms-326m)
+- [Meme Monday](https://dev.to/ben/meme-monday-47e2)
+- [Podcast Palooza— What are you listening to? &lpar;Business Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-business-edition-33jl)
+- [Understanding CI/CD Pipelines: A Crucial Skill for Every Software Engineer🔥](https://dev.to/priyankdeep78/understanding-cicd-pipelines-a-crucial-skill-for-every-software-engineer-225p)
+- [Calculating the Cost of Website Downtime by Industry](https://dev.to/upzillaco/calculating-the-cost-of-website-downtime-by-industry-8g5)
 <!-- BLOG-POST-LIST:END -->
 
