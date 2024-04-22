@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Bugs to Brilliance: Enhancing Code Reliability Through Mutation Testing](https://dev.to/tiuwill/from-bugs-to-brilliance-enhancing-code-reliability-through-mutation-testing-15gc)
-- [Weekly goals of Modderz Android app . 2024-04-22](https://dev.to/theplebdev/weekly-goals-of-modderz-android-app-2024-04-22-3kf0)
-- [Graph Coloring Problem: Cracking Complexity with Elegant Solutions](https://dev.to/karthik2265/graph-coloring-problem-cracking-complexity-with-elegant-solutions-bmi)
-- [From Theory to Practice: Strategy Pattern in Real-world Scenarios](https://dev.to/jvidaln/from-theory-to-practice-strategy-pattern-in-real-world-scenarios-33mc)
+- [How to use Novu with Supabase](https://dev.to/unicodeveloper/how-to-use-novu-with-supabase-3c82)
+- [LeetCode Meditations: Subtree of Another Tree](https://dev.to/rivea0/leetcode-meditations-subtree-of-another-tree-47k7)
+- [This is so good to be true](https://dev.to/unicodeveloper/this-is-so-good-to-be-true-2oja)
+- [Web Development with Web Components: The New Way of Modularity](https://dev.to/melihs/web-development-with-web-components-the-new-way-of-modularity-4c8o)
 <!-- BLOG-POST-LIST:END -->
 
