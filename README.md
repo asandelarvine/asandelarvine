@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Spring and React Project](https://dev.to/tecsxpert/laravel-spring-and-react-project-1n6h)
-- [Replacing Digits in a Number Without Converting to String](https://dev.to/arhamrumi/replacing-digits-in-a-number-without-converting-to-string-1jl4)
-- [Task 1](https://dev.to/ragavi/task-1-1398)
-- [weeklyfoo #29](https://dev.to/urbanisierung/weeklyfoo-29-7oe)
+- [PostgreSQL and NoSQL Capabilities with JSON and JSONB](https://dev.to/dbvismarketing/postgresql-and-nosql-capabilities-with-json-and-jsonb-54i)
+- [One LLaMa to rule them all](https://dev.to/giuliano1993/one-llama-to-rule-them-all-2je8)
+- [How Are You Celebrating Earth Day? 🌱💧](https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa)
+- [Hi fellow devs!!](https://dev.to/yashrastogi00987/hi-fellow-devs-1ell)
 <!-- BLOG-POST-LIST:END -->
 
