@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Designs — Observer Pattern](https://dev.to/cougarred1/javascript-designs-observer-pattern-16hl)
-- [The Most Important Thing I learned About Writing Readable Code](https://dev.to/annoh_karlgusta/the-most-important-thing-i-learned-about-writing-readable-code-42ih)
-- [[Tutorial] Como usar o Git e GitHub](https://dev.to/devmoreir4/tutorial-como-usar-o-git-e-github-2b62)
-- [A Simple Guide to Integrating Rails Backend with React Frontend](https://dev.to/leoneloliver/a-simple-guide-to-integrating-rails-backend-with-react-frontend-4i28)
+- [Day - 1: 22-04-2024](https://dev.to/datadynamo/day-1-22-04-2024-3b4d)
+- [Artificial Intelligence and Machine Learning in Web Development](https://dev.to/dirheimerb/artificial-intelligence-and-machine-learning-in-web-development-3n8i)
+- [From Figma to Reality: Building a Simple Page from Design to Code](https://dev.to/epakconsultant/from-figma-to-reality-building-a-simple-page-from-design-to-code-9ad)
+- [Software Development Life Cycle](https://dev.to/cody-daigle/software-development-life-cycle-1f3d)
 <!-- BLOG-POST-LIST:END -->
 
