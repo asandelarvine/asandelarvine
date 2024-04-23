@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Insertion Sort in Java &lpar;With Intuition + Dry run + Code&rpar;](https://dev.to/tanujav/insertion-sort-in-java-with-intuition-dry-run-code-54ph)
-- [IP Geolocation API in Cerb](https://dev.to/ip2location/ip-geolocation-api-in-cerb-2bf1)
-- [Detecting and redacting PII using Amazon Bedrock](https://dev.to/aws-builders/detecting-and-redacting-pii-using-amazon-bedrock-1jol)
-- [I am using ChatGPT to animate my characters, in less than 5 minutes. Here is how you can do it too:](https://dev.to/anulagarwal12/i-am-using-chatgpt-to-animate-my-characters-in-less-than-5-minutes-here-is-how-you-can-do-it-too-5c33)
+- [Front-end specialisations: Cross-platform](https://dev.to/r4nd3l/front-end-specialisations-cross-platform-4len)
+- [Build A Public API with Supabase in 10 Minutes](https://dev.to/psteinroe/build-a-public-api-with-supabase-in-10-minutes-2947)
+- [What is Kubectl?](https://dev.to/getambassador2024/what-is-kubectl-3309)
+- [Exploring the Power of PHP: Building Dynamic and Scalable Web Applications](https://dev.to/infobijoy/exploring-the-power-of-php-building-dynamic-and-scalable-web-applications-30a1)
 <!-- BLOG-POST-LIST:END -->
 
