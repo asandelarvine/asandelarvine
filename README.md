@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O Método GROWS: Uma Abordagem Holística para o Desenvolvimento de Software](https://dev.to/elixir_utfpr/o-metodo-grows-uma-abordagem-holistica-para-o-desenvolvimento-de-software-3b83)
-- [Creating a Spotify Playlist Management App with AI dev tools](https://dev.to/heymarkkop/creating-a-spotify-playlist-management-app-with-ai-dev-tools-2ehp)
-- [GitHub as a Time Traveler](https://dev.to/abelroy/github-as-a-time-traveler-2c56)
-- [Authorization and Amazon Verified Permissions - A New Way to Manage Permissions Part XIV: AVP Getting Started](https://dev.to/aws-heroes/authorization-and-amazon-verified-permissions-a-new-way-to-manage-permissions-part-xiv-avp-getting-started-478f)
+- [Accountability Post For April 22, 2024](https://dev.to/grimkillingbeck/accountability-post-for-april-22-2024-13i6)
+- [Node.js 16: End of Support Looms Large - Time to Upgrade!](https://dev.to/akbaralihussain/nodejs-16-end-of-support-looms-large-time-to-upgrade-1bn9)
+- [console.log&lpar;&quot;Hello, world!&quot;&rpar;;](https://dev.to/ticha/consoleloghello-world-hcg)
+- [Criação do Ambiente Azure e Deploy &lpar;para noobs, assim como eu xD&rpar;](https://dev.to/pedross11/criacao-do-ambiente-azure-e-deploy-mais-facil-possivel-3lc)
 <!-- BLOG-POST-LIST:END -->
 
