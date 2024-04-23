@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [7] Support FunctionComponent Type](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-7-support-functioncomponent-type-2am7)
-- [GEMINI 💎 VS CHATGPT ⚔️](https://dev.to/mince/gemini-vs-chatgpt-1eia)
-- [Everything You Need to Know About OpenAPI](https://dev.to/speakeasy/everything-you-need-to-know-about-openapi-17mh)
-- [🚀 21 Tools to take your dev skills to the moon 🌝](https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf)
+- [Tricky Double](https://dev.to/flounder4130/tricky-double-4k3j)
+- [What Are Standalone Components Angular 17 ?](https://dev.to/himanshudevgupta/what-are-standalone-components-angular-17--1cam)
+- [New Web Portfolio 16bit OS Style](https://dev.to/matteosant_dev/new-web-portfolio-16bit-os-style-20h9)
+- [Prisma vs. Drizzle: A Comprehensive Guide for Your NextJS Project](https://dev.to/fabrikapp/prisma-vs-drizzle-a-comprehensive-guide-for-your-nextjs-project-1lfd)
 <!-- BLOG-POST-LIST:END -->
 
