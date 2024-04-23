@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks Deep Dive](https://dev.to/mario130/react-hooks-deep-dive-1621)
-- [My Failed Student Housing App](https://dev.to/lardcanoe/my-failed-student-housing-app-2k7p)
-- [Where to find queue worker config files created from laravel forge?](https://dev.to/cmanish049/where-to-find-queue-worker-config-files-created-from-laravel-forge-dk6)
-- [My last project for 100 React projects in 100 days](https://dev.to/jwhubert91/my-last-project-for-100-react-projects-in-100-days-2el8)
+- [Open Source Manifesto](https://dev.to/opensourceadvocate/open-source-manifesto-3f0b)
+- [RESTful API: Essential Question &amp; Answers](https://dev.to/princem/restful-api-essential-question-answers-2e8)
+- [spring into spring: basics, API, beans](https://dev.to/ashleyd480/spring-into-spring-basics-api-beans-1dbo)
+- [sum&lpar;&rpar;, prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-prod-and-cartesianprod-in-pytorch-22li)
 <!-- BLOG-POST-LIST:END -->
 
