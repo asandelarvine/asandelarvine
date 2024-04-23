@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing as a Debugging Tool](https://dev.to/codenameone/software-testing-as-a-debugging-tool-26bj)
-- [What is GitOps?](https://dev.to/shasheeshpurohit/what-is-gitops-1ef0)
-- [Llama 3: The Next Generation of AI-Powered Language Models](https://dev.to/gimkelum/llama-3-the-next-generation-of-ai-powered-language-models-2d92)
-- [Complex types](https://dev.to/kudratswe/complex-types-1h7f)
+- [API Key Authentication Middleware In ASP NET Core – A How To Guide](https://dev.to/devleader/api-key-authentication-middleware-in-asp-net-core-a-how-to-guide-2ol9)
+- [Learning: Monitoring using SAP HANA Cockpit](https://dev.to/dentrodailha96/learning-monitoring-using-sap-hana-cockpit-dni)
+- [Routing in Computer Networking](https://dev.to/stevepurpose/routing-in-computer-networking-358n)
+- [Learn How to Build a Web Quiz App with Basic JS, HTML &amp; CSS](https://dev.to/linusmwiti21/level-up-your-skills-build-a-web-quiz-app-with-basic-js-html-css-lm5)
 <!-- BLOG-POST-LIST:END -->
 
