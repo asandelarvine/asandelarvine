@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [reAIdme: generate READMEs interpreting directly your code and instructions](https://dev.to/astrabert/reaidme-generate-readmes-interpreting-directly-your-code-and-instructions-1o7d)
+- [Jasper Report Gist](https://dev.to/abreham_biruk/jasper-report-gist-2c8e)
+- [Stop Using the var Keyword!](https://dev.to/michaeljolley/stop-using-the-var-keyword-4ml0)
 - [Delegation is the last thing managers should do](https://dev.to/vietdt89/delegation-is-the-last-thing-managers-should-do-3af0)
-- [🎮📊 Developing Esports OpenAPI Schema: How to integrate SportDevs API?](https://dev.to/marsenikolw3/developing-esports-openapi-schema-how-to-integrate-sportdevs-api-4142)
-- [Cloud Resume Challenge](https://dev.to/gnarlylasagna/cloud-resume-challenge-2jik)
-- [１２章17](https://dev.to/aaattt/12zhang-17-252i)
 <!-- BLOG-POST-LIST:END -->
 
