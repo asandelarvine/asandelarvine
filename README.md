@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accountability Post For April 22, 2024](https://dev.to/grimkillingbeck/accountability-post-for-april-22-2024-13i6)
-- [Node.js 16: End of Support Looms Large - Time to Upgrade!](https://dev.to/akbaralihussain/nodejs-16-end-of-support-looms-large-time-to-upgrade-1bn9)
-- [console.log&lpar;&quot;Hello, world!&quot;&rpar;;](https://dev.to/ticha/consoleloghello-world-hcg)
-- [Criação do Ambiente Azure e Deploy &lpar;para noobs, assim como eu xD&rpar;](https://dev.to/pedross11/criacao-do-ambiente-azure-e-deploy-mais-facil-possivel-3lc)
+- [AWS Cloud Resume Challenge](https://dev.to/udoncream/aws-cloud-resume-challenge-5g6e)
+- [Cloud Transformation: A Roadmap for the Future](https://dev.to/cloudbees/cloud-transformation-a-roadmap-for-the-future-3ah1)
+- [How do you use git rebase? Let&#39;s go through one use case](https://dev.to/schalkneethling/how-do-you-use-git-rebase-lets-go-through-one-use-case-28hl)
+- [CVPR 2024 Datasets and Benchmarks - Part 1: Datasets](https://dev.to/voxel51/cvpr-2024-datasets-and-benchmarks-part-1-datasets-2eig)
 <!-- BLOG-POST-LIST:END -->
 
