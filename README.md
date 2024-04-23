@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2024-04-23: Interviews](https://dev.to/armantark/2024-04-23-interviews-4ae7)
-- [My AWS Resume Challenge and the troubles I faced.](https://dev.to/andrewniebla/my-aws-resume-challenge-and-the-troubles-i-faced-55mi)
-- [F.E.M &lpar;Frontend Mentor.io&rpar; Project: PhotoSnap Website](https://dev.to/ajeasmith/fem-frontend-mentorio-project-photosnap-website-5d8m)
-- [310. Minimum Height Trees](https://dev.to/mdarifulhaque/310-minimum-height-trees-p87)
+- [O Método GROWS: Uma Abordagem Holística para o Desenvolvimento de Software](https://dev.to/elixir_utfpr/o-metodo-grows-uma-abordagem-holistica-para-o-desenvolvimento-de-software-3b83)
+- [Creating a Spotify Playlist Management App with AI dev tools](https://dev.to/heymarkkop/creating-a-spotify-playlist-management-app-with-ai-dev-tools-2ehp)
+- [GitHub as a Time Traveler](https://dev.to/abelroy/github-as-a-time-traveler-2c56)
+- [Authorization and Amazon Verified Permissions - A New Way to Manage Permissions Part XIV: AVP Getting Started](https://dev.to/aws-heroes/authorization-and-amazon-verified-permissions-a-new-way-to-manage-permissions-part-xiv-avp-getting-started-478f)
 <!-- BLOG-POST-LIST:END -->
 
