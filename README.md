@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
-- [What&#39;s the Best Question to Ask in a Meeting?](https://dev.to/devteam/whats-the-best-question-to-ask-in-a-meeting-4fm5)
-- [Unlocking Developer Engagement: The Open-Source Community Playbook](https://dev.to/vauntdev/unlocking-developer-engagement-the-open-source-community-playbook-22ha)
-- [Traditional crawler or AI-assisted crawler? How to choose?](https://dev.to/coderhxl/traditional-crawler-or-ai-assisted-crawler-how-to-choose-46cc)
+- [Reusing Umbraco Properties in Umbraco v14](https://dev.to/mattbrailsford/reusing-umbraco-properties-in-umbraco-v14-15b7)
+- [Rails Designer v0.10.0 released: Stats and Tabs](https://dev.to/railsdesigner/rails-designer-v0100-released-stats-and-tabs-4epb)
+- [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://dev.to/shariqahmed525/how-i-would-learn-to-code-if-i-could-start-over-4fen)
+- [Revolutionize Shopping: The Undress AI Virtual Closet Experience](https://dev.to/brookalex/revolutionize-shopping-the-undress-ai-virtual-closet-experience-2nmc)
 <!-- BLOG-POST-LIST:END -->
 
