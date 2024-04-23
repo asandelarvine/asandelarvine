@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tipos de Aprendizado de Máquina](https://dev.to/analaura/tipos-de-aprendizado-de-maquina-2205)
-- [Creating my own homelab](https://dev.to/caresle/creating-my-own-homelab-1b55)
-- [React - Virtual DOM, Reconciliation, Fiber](https://dev.to/fatimaalam1234/react-virtual-dom-reconciliation-fiber-354n)
-- [Despliega una Infraestructura de Red AWS Robusta con Terraform](https://dev.to/francotel/despliega-una-infraestructura-de-red-aws-robusta-con-terraform-440e)
+- [MobX Mayhem: State Management for the Wicked](https://dev.to/kigazon/mobx-mayhem-state-management-for-the-wicked-nf8)
+- [Public Speaking Challenge](https://dev.to/thaisavieira/public-speaking-challenge-53p1)
+- [Java for Game Development: An Introduction](https://dev.to/dbillion/java-for-game-development-an-introduction-10c6)
+- [💻🤓Algomania: Data Structure and Algorithm Helper Bot](https://dev.to/andreagon/algomania-data-structure-and-algorithm-helper-bot-1lki)
 <!-- BLOG-POST-LIST:END -->
 
