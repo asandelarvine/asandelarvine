@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tricky Double](https://dev.to/flounder4130/tricky-double-4k3j)
-- [What Are Standalone Components Angular 17 ?](https://dev.to/himanshudevgupta/what-are-standalone-components-angular-17--1cam)
-- [New Web Portfolio 16bit OS Style](https://dev.to/matteosant_dev/new-web-portfolio-16bit-os-style-20h9)
-- [Prisma vs. Drizzle: A Comprehensive Guide for Your NextJS Project](https://dev.to/fabrikapp/prisma-vs-drizzle-a-comprehensive-guide-for-your-nextjs-project-1lfd)
+- [🥇The first framework that lets you visualize your React/NodeJS app 🤯](https://dev.to/wasp/the-first-framework-that-lets-you-visualize-your-reactnodejs-app-1d63)
+- [Elevate Your Laravel Eloquent Queries with Tappable Scopes](https://dev.to/sean_kegel/elevate-your-laravel-eloquent-queries-with-tappable-scopes-1p7f)
+- [Laravel Cache Classes](https://dev.to/sean_kegel/laravel-cache-classes-4pho)
+- [Java GUI Frameworks: Some go for these fine tools](https://dev.to/zoltanf/java-gui-frameworks-some-go-for-these-fine-tools-4cmf)
 <!-- BLOG-POST-LIST:END -->
 
