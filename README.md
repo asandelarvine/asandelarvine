@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MobX Mayhem: State Management for the Wicked](https://dev.to/kigazon/mobx-mayhem-state-management-for-the-wicked-nf8)
-- [Public Speaking Challenge](https://dev.to/thaisavieira/public-speaking-challenge-53p1)
-- [Java for Game Development: An Introduction](https://dev.to/dbillion/java-for-game-development-an-introduction-10c6)
-- [💻🤓Algomania: Data Structure and Algorithm Helper Bot](https://dev.to/andreagon/algomania-data-structure-and-algorithm-helper-bot-1lki)
+- [Insertion Sort in Java &lpar;With Intuition + Dry run + Code&rpar;](https://dev.to/tanujav/insertion-sort-in-java-with-intuition-dry-run-code-54ph)
+- [IP Geolocation API in Cerb](https://dev.to/ip2location/ip-geolocation-api-in-cerb-2bf1)
+- [Detecting and redacting PII using Amazon Bedrock](https://dev.to/aws-builders/detecting-and-redacting-pii-using-amazon-bedrock-1jol)
+- [I am using ChatGPT to animate my characters, in less than 5 minutes. Here is how you can do it too:](https://dev.to/anulagarwal12/i-am-using-chatgpt-to-animate-my-characters-in-less-than-5-minutes-here-is-how-you-can-do-it-too-5c33)
 <!-- BLOG-POST-LIST:END -->
 
