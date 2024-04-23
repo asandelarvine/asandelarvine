@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Key Authentication Middleware In ASP NET Core – A How To Guide](https://dev.to/devleader/api-key-authentication-middleware-in-asp-net-core-a-how-to-guide-2ol9)
-- [Learning: Monitoring using SAP HANA Cockpit](https://dev.to/dentrodailha96/learning-monitoring-using-sap-hana-cockpit-dni)
-- [Routing in Computer Networking](https://dev.to/stevepurpose/routing-in-computer-networking-358n)
-- [Learn How to Build a Web Quiz App with Basic JS, HTML &amp; CSS](https://dev.to/linusmwiti21/level-up-your-skills-build-a-web-quiz-app-with-basic-js-html-css-lm5)
+- [React Hooks Deep Dive](https://dev.to/mario130/react-hooks-deep-dive-1621)
+- [My Failed Student Housing App](https://dev.to/lardcanoe/my-failed-student-housing-app-2k7p)
+- [Where to find queue worker config files created from laravel forge?](https://dev.to/cmanish049/where-to-find-queue-worker-config-files-created-from-laravel-forge-dk6)
+- [My last project for 100 React projects in 100 days](https://dev.to/jwhubert91/my-last-project-for-100-react-projects-in-100-days-2el8)
 <!-- BLOG-POST-LIST:END -->
 
