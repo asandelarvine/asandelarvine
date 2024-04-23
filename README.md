@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Doom Emacs for Astro Development](https://dev.to/emiller/setting-up-doom-emacs-for-astro-development-2b4g)
-- [What is ITDR - Identity Threat Detection and Response](https://dev.to/tinytmp/what-is-itdr-identity-threat-detection-and-response-3g8b)
-- [PowerApps vs. DronaHQ: Comparison for your next low-code app development project](https://dev.to/aakarshsahu15/powerapps-vs-dronahq-comparison-for-your-next-low-code-app-development-project-3eaj)
-- [What is CSMA &lpar;Cybersecurity Mesh Architecture&rpar;?](https://dev.to/tinytmp/what-is-csma-cybersecurity-mesh-architecture-49g3)
+- [Are you Into Rubber Duck Debugging?](https://dev.to/anitaolsen/are-you-into-rubber-duck-debugging-3ndm)
+- [Interface of C#](https://dev.to/takeda1411123/interface-of-c-2oo1)
+- [Add toast notification with Django - an easy way](https://dev.to/rquattrogtl/add-toast-notification-with-django-an-easy-way-148o)
+- [Reflecting On My Programming Career](https://dev.to/lundjrl/reflecting-on-my-programming-career-51b6)
 <!-- BLOG-POST-LIST:END -->
 
