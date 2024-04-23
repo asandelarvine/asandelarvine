@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: Cross-platform](https://dev.to/r4nd3l/front-end-specialisations-cross-platform-4len)
-- [Build A Public API with Supabase in 10 Minutes](https://dev.to/psteinroe/build-a-public-api-with-supabase-in-10-minutes-2947)
-- [What is Kubectl?](https://dev.to/getambassador2024/what-is-kubectl-3309)
-- [Exploring the Power of PHP: Building Dynamic and Scalable Web Applications](https://dev.to/infobijoy/exploring-the-power-of-php-building-dynamic-and-scalable-web-applications-30a1)
+- [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
+- [What&#39;s the Best Question to Ask in a Meeting?](https://dev.to/devteam/whats-the-best-question-to-ask-in-a-meeting-4fm5)
+- [Unlocking Developer Engagement: The Open-Source Community Playbook](https://dev.to/vauntdev/unlocking-developer-engagement-the-open-source-community-playbook-22ha)
+- [Traditional crawler or AI-assisted crawler? How to choose?](https://dev.to/coderhxl/traditional-crawler-or-ai-assisted-crawler-how-to-choose-46cc)
 <!-- BLOG-POST-LIST:END -->
 
