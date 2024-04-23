@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reusing Umbraco Properties in Umbraco v14](https://dev.to/mattbrailsford/reusing-umbraco-properties-in-umbraco-v14-15b7)
-- [Rails Designer v0.10.0 released: Stats and Tabs](https://dev.to/railsdesigner/rails-designer-v0100-released-stats-and-tabs-4epb)
-- [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://dev.to/shariqahmed525/how-i-would-learn-to-code-if-i-could-start-over-4fen)
-- [Revolutionize Shopping: The Undress AI Virtual Closet Experience](https://dev.to/brookalex/revolutionize-shopping-the-undress-ai-virtual-closet-experience-2nmc)
+- [AWS Cloud Practitioner Certification](https://dev.to/sundus/aws-cloud-practitioner-certification-1l61)
+- [Sometimes things simply don&#39;t work](https://dev.to/adaschevici/sometimes-things-simply-dont-work-10cf)
+- [Understanding Reconciliation in ReactJs - Keeping the Virtual DOM and the Real DOM in Sync.](https://dev.to/ashsajal/understanding-reconciliation-in-reactjs-keeping-the-virtual-dom-and-the-real-dom-in-sync-25f4)
+- [L&#39;Utilité de ChatGPT Français : Un Essai par Boogie Beckman](https://dev.to/chatgptfr/lutilite-de-chatgpt-francais-un-essai-par-boogie-beckman-4gml)
 <!-- BLOG-POST-LIST:END -->
 
