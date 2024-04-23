@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you Into Rubber Duck Debugging?](https://dev.to/anitaolsen/are-you-into-rubber-duck-debugging-3ndm)
-- [Interface of C#](https://dev.to/takeda1411123/interface-of-c-2oo1)
-- [Add toast notification with Django - an easy way](https://dev.to/rquattrogtl/add-toast-notification-with-django-an-easy-way-148o)
-- [Reflecting On My Programming Career](https://dev.to/lundjrl/reflecting-on-my-programming-career-51b6)
+- [Software Testing as a Debugging Tool](https://dev.to/codenameone/software-testing-as-a-debugging-tool-26bj)
+- [What is GitOps?](https://dev.to/shasheeshpurohit/what-is-gitops-1ef0)
+- [Llama 3: The Next Generation of AI-Powered Language Models](https://dev.to/gimkelum/llama-3-the-next-generation-of-ai-powered-language-models-2d92)
+- [Complex types](https://dev.to/kudratswe/complex-types-1h7f)
 <!-- BLOG-POST-LIST:END -->
 
