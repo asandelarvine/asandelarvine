@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [reAIdme: generate READMEs interpreting directly your code and instructions](https://dev.to/astrabert/reaidme-generate-readmes-interpreting-directly-your-code-and-instructions-1o7d)
-- [Jasper Report Gist](https://dev.to/abreham_biruk/jasper-report-gist-2c8e)
-- [Stop Using the var Keyword!](https://dev.to/michaeljolley/stop-using-the-var-keyword-4ml0)
-- [Delegation is the last thing managers should do](https://dev.to/vietdt89/delegation-is-the-last-thing-managers-should-do-3af0)
+- [Tipos de Aprendizado de Máquina](https://dev.to/analaura/tipos-de-aprendizado-de-maquina-2205)
+- [Creating my own homelab](https://dev.to/caresle/creating-my-own-homelab-1b55)
+- [React - Virtual DOM, Reconciliation, Fiber](https://dev.to/fatimaalam1234/react-virtual-dom-reconciliation-fiber-354n)
+- [Despliega una Infraestructura de Red AWS Robusta con Terraform](https://dev.to/francotel/despliega-una-infraestructura-de-red-aws-robusta-con-terraform-440e)
 <!-- BLOG-POST-LIST:END -->
 
