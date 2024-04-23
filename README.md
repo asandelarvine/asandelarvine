@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brainboard vs. Traditional IaC Management Comparison](https://dev.to/miketysonofthecloud/brainboard-vs-traditional-iac-management-comparison-1hgh)
-- [Nextjs](https://dev.to/taiwoakerele/nextjs-3opl)
-- [217. Contains Duplicate](https://dev.to/_bhupeshk_/217-contains-duplicate-og5)
-- [Day 949 : Flight Confirmation](https://dev.to/dwane/day-949-flight-confirmation-1fd2)
+- [Delegation is the last thing managers should do](https://dev.to/vietdt89/delegation-is-the-last-thing-managers-should-do-3af0)
+- [🎮📊 Developing Esports OpenAPI Schema: How to integrate SportDevs API?](https://dev.to/marsenikolw3/developing-esports-openapi-schema-how-to-integrate-sportdevs-api-4142)
+- [Cloud Resume Challenge](https://dev.to/gnarlylasagna/cloud-resume-challenge-2jik)
+- [１２章17](https://dev.to/aaattt/12zhang-17-252i)
 <!-- BLOG-POST-LIST:END -->
 
