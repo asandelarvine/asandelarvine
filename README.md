@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🥇The first framework that lets you visualize your React/NodeJS app 🤯](https://dev.to/wasp/the-first-framework-that-lets-you-visualize-your-reactnodejs-app-1d63)
-- [Elevate Your Laravel Eloquent Queries with Tappable Scopes](https://dev.to/sean_kegel/elevate-your-laravel-eloquent-queries-with-tappable-scopes-1p7f)
-- [Laravel Cache Classes](https://dev.to/sean_kegel/laravel-cache-classes-4pho)
-- [Java GUI Frameworks: Some go for these fine tools](https://dev.to/zoltanf/java-gui-frameworks-some-go-for-these-fine-tools-4cmf)
+- [Setting up Doom Emacs for Astro Development](https://dev.to/emiller/setting-up-doom-emacs-for-astro-development-2b4g)
+- [What is ITDR - Identity Threat Detection and Response](https://dev.to/tinytmp/what-is-itdr-identity-threat-detection-and-response-3g8b)
+- [PowerApps vs. DronaHQ: Comparison for your next low-code app development project](https://dev.to/aakarshsahu15/powerapps-vs-dronahq-comparison-for-your-next-low-code-app-development-project-3eaj)
+- [What is CSMA &lpar;Cybersecurity Mesh Architecture&rpar;?](https://dev.to/tinytmp/what-is-csma-cybersecurity-mesh-architecture-49g3)
 <!-- BLOG-POST-LIST:END -->
 
