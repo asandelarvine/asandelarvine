@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Manifesto](https://dev.to/opensourceadvocate/open-source-manifesto-3f0b)
-- [RESTful API: Essential Question &amp; Answers](https://dev.to/princem/restful-api-essential-question-answers-2e8)
-- [spring into spring: basics, API, beans](https://dev.to/ashleyd480/spring-into-spring-basics-api-beans-1dbo)
-- [sum&lpar;&rpar;, prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-prod-and-cartesianprod-in-pytorch-22li)
+- [2024-04-23: Interviews](https://dev.to/armantark/2024-04-23-interviews-4ae7)
+- [My AWS Resume Challenge and the troubles I faced.](https://dev.to/andrewniebla/my-aws-resume-challenge-and-the-troubles-i-faced-55mi)
+- [F.E.M &lpar;Frontend Mentor.io&rpar; Project: PhotoSnap Website](https://dev.to/ajeasmith/fem-frontend-mentorio-project-photosnap-website-5d8m)
+- [310. Minimum Height Trees](https://dev.to/mdarifulhaque/310-minimum-height-trees-p87)
 <!-- BLOG-POST-LIST:END -->
 
