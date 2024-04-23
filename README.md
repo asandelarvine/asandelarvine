@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Resume Challenge](https://dev.to/udoncream/aws-cloud-resume-challenge-5g6e)
-- [Cloud Transformation: A Roadmap for the Future](https://dev.to/cloudbees/cloud-transformation-a-roadmap-for-the-future-3ah1)
-- [How do you use git rebase? Let&#39;s go through one use case](https://dev.to/schalkneethling/how-do-you-use-git-rebase-lets-go-through-one-use-case-28hl)
-- [CVPR 2024 Datasets and Benchmarks - Part 1: Datasets](https://dev.to/voxel51/cvpr-2024-datasets-and-benchmarks-part-1-datasets-2eig)
+- [How to Hire Mobile App Developers](https://dev.to/remotebase/how-to-hire-mobile-app-developers-3hmi)
+- [Embarking on Your Application Infrastructure Adventure: From Bare Metal to VMs, Docker, and K8s](https://dev.to/ahmadrahimizadeh/embarking-on-your-application-infrastructure-adventure-from-bare-metal-to-vms-docker-and-k8s-317b)
+- [Задача с собеседования в Google. 939. Minimum Area Rectangle](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-google-939-minimum-area-rectangle-c0o)
+- [Automate Your Infrastructure with Terraform: A Beginner&#39;s Guide](https://dev.to/arbythecoder/automate-your-infrastructure-with-terraform-a-beginners-guide-1kg7)
 <!-- BLOG-POST-LIST:END -->
 
