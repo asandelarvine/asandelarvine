@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The unsexy &lpar;but important&rpar; role played by middle management](https://dev.to/arjunrao87/the-unsexy-but-important-role-played-by-middle-management-1enb)
-- [Ibuprofeno.py💊| #89: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-89-explica-este-codigo-python-58ag)
-- [Buy and sell stocks](https://dev.to/prashantrmishra/buy-and-sell-stocks-527h)
-- [Skills you need as a DevRel](https://dev.to/ayush2390/skills-you-need-as-a-devrel-57bi)
+- [Automating Workflows: Harnessing GitHub Actions, Docker, and GitHub npm Package](https://dev.to/sergey-dudik/automating-workflows-harnessing-github-actions-docker-and-github-npm-package-4m9h)
+- [🥷 Tip of The Day: NTL - Node Task List](https://dev.to/renancferro/tip-of-the-day-ntl-node-task-list-6n5)
+- [Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think](https://dev.to/mikeyoung44/pixel-is-a-barrier-diffusion-models-are-more-adversarially-robust-than-we-think-1b2l)
+- [Leftover Lunch: Advantage-based Offline Reinforcement Learning for Language Models](https://dev.to/mikeyoung44/leftover-lunch-advantage-based-offline-reinforcement-learning-for-language-models-dgf)
 <!-- BLOG-POST-LIST:END -->
 
