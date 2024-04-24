@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hire Mobile App Developers](https://dev.to/remotebase/how-to-hire-mobile-app-developers-3hmi)
-- [Embarking on Your Application Infrastructure Adventure: From Bare Metal to VMs, Docker, and K8s](https://dev.to/ahmadrahimizadeh/embarking-on-your-application-infrastructure-adventure-from-bare-metal-to-vms-docker-and-k8s-317b)
-- [Задача с собеседования в Google. 939. Minimum Area Rectangle](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-google-939-minimum-area-rectangle-c0o)
-- [Automate Your Infrastructure with Terraform: A Beginner&#39;s Guide](https://dev.to/arbythecoder/automate-your-infrastructure-with-terraform-a-beginners-guide-1kg7)
+- [MinIO Quickstart - Object Management](https://dev.to/rahuldhole/minio-quickstart-object-management-23on)
+- [📦 Put dev dependencies in tools.go](https://dev.to/jcbhmr/put-dev-dependencies-in-toolsgo-9e6)
+- [Understanding Kubernetes Networking](https://dev.to/kartikmehta8/understanding-kubernetes-networking-1fjd)
+- [AWS Under the Hood - Day 2 Why does an AWS EC2 instance lose its public IP address after a restart and how can this be managed?](https://dev.to/lakhera2015/aws-under-the-hood-day-2-why-does-an-aws-ec2-instance-lose-its-public-ip-address-after-a-restart-and-how-can-this-be-managed-j7f)
 <!-- BLOG-POST-LIST:END -->
 
