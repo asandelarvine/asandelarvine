@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a fullstack application with Go, Templ, and HTMX](https://dev.to/hackmamba/how-to-build-a-fullstack-application-with-go-templ-and-htmx-4444)
-- [How to upgrade your Angular web project from Angular V13 to Angular V17](https://dev.to/epakconsultant/how-to-upgrade-your-angular-web-project-from-angular-v13-to-angular-v17-3l5m)
-- [How to Build a stock filter to search the stock market for stocks that meet certain criteria in TradingView](https://dev.to/epakconsultant/how-to-build-a-stock-filter-to-search-the-stock-market-for-stocks-that-meet-certain-criteria-in-tradingview-3h1)
-- [Release Announcement: KeycloakClientBundle v2.0](https://dev.to/mainick/release-announcement-keycloakclientbundle-v20-3oga)
+- [Tableau Public VS Tableau Desktop Public Edition](https://dev.to/pizofreude/tableau-public-vs-tableau-desktop-public-edition-4e1o)
+- [Two sums](https://dev.to/prashantrmishra/two-sums-4f1l)
+- [Write a Simple blockchain in Golang](https://dev.to/santoshanand/write-a-simple-blockchain-in-golang-58mc)
+- [The Art of Web Design: Crafting Digital Experiences That Captivate](https://dev.to/robertadler/the-art-of-web-design-crafting-digital-experiences-that-captivate-ohh)
 <!-- BLOG-POST-LIST:END -->
 
