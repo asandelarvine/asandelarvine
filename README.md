@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Minimize HTTP Requests for a Faster Website](https://dev.to/olabisioleyede/how-to-minimize-http-requests-for-a-faster-website-298m)
-- [Snapshot too old in YugabyteDB](https://dev.to/yugabyte/snapshot-too-old-in-yugabytedb-23g5)
-- [Java Developer Roadmap 2024](https://dev.to/zoltanf/java-developer-roadmap-2024-5cd4)
-- [How to create a slick CSS animation from Cocktail](https://dev.to/robole/how-to-create-a-slick-css-animation-from-cocktail-4o8l)
+- [Introducing Planner: A Fresh Take on React Scheduling Components](https://dev.to/uretzkyzvi/introducing-planner-a-fresh-take-on-react-scheduling-components-dbf)
+- [Learn how to implement VAT for your e-commerce website with Sylius in 6 minutes](https://dev.to/theodo/learn-how-to-implement-vat-for-your-e-commerce-website-with-sylius-in-6-minutes-m3m)
+- [How To Create Custom Middlewares in ASP.NET Core](https://dev.to/antonmartyniuk/how-to-create-custom-middlewares-in-aspnet-core-5flm)
+- [You get what you Measure: Understanding your applications health with Grafana, Loki and Prometheus](https://dev.to/limagbz/you-get-what-you-measure-understanding-your-applications-health-with-grafana-loki-and-prometheus-1ldi)
 <!-- BLOG-POST-LIST:END -->
 
