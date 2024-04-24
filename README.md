@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Theoretical Concepts in Web Development](https://dev.to/illyrian__/learning-theoretical-concepts-in-web-development-lp2)
-- [📐 Gap vs. Margin: Rethinking Spacing in CSS](https://dev.to/adam/gap-vs-margin-rethinking-spacing-in-css-36jc)
-- [Rubber Ducker - GPT + 🦆💻](https://dev.to/salika_dave/rubber-ducker-gpt--2bcm)
-- [OracleBootCamp - 5 May 2024](https://dev.to/nabhaas/oraclebootcamp-5-may-2024-5f0)
+- [Rethinking Work: My Takeaways from &quot;Remote&quot; and &quot;Rework&quot; as a Remote Veteran](https://dev.to/ddeveloperr/rethinking-work-my-takeaways-from-remote-and-rework-as-a-remote-veteran-5e3p)
+- [What is the Record Type in C# and Should I use it?](https://dev.to/michaeljolley/what-is-the-record-type-in-c-and-should-i-use-it-52cc)
+- [Unraveling Macrotasks and Microtasks in JavaScript: What Every Developer Should Know](https://dev.to/bymarsel/unraveling-macrotasks-and-microtasks-in-javascript-what-every-developer-should-know-53mc)
+- [I Said Goodbye to ChatGPT and Hello to Llama 3 on Open WebUI - You Should Too](https://dev.to/timesurgelabs/i-said-goodbye-to-chatgpt-and-hello-to-llama-3-on-open-webui-you-should-too-4g6k)
 <!-- BLOG-POST-LIST:END -->
 
