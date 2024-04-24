@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Workflows: Harnessing GitHub Actions, Docker, and GitHub npm Package](https://dev.to/sergey-dudik/automating-workflows-harnessing-github-actions-docker-and-github-npm-package-4m9h)
-- [🥷 Tip of The Day: NTL - Node Task List](https://dev.to/renancferro/tip-of-the-day-ntl-node-task-list-6n5)
-- [Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think](https://dev.to/mikeyoung44/pixel-is-a-barrier-diffusion-models-are-more-adversarially-robust-than-we-think-1b2l)
-- [Leftover Lunch: Advantage-based Offline Reinforcement Learning for Language Models](https://dev.to/mikeyoung44/leftover-lunch-advantage-based-offline-reinforcement-learning-for-language-models-dgf)
+- [Serverless Postgres with Neon - My first impression](https://dev.to/aws-heroes/serverless-postgres-with-neon-my-first-impression-1n3p)
+- [Benefits of Using React Js For Custom Web Development](https://dev.to/oliviaeve250/benefits-of-using-react-js-for-custom-web-development-25j0)
+- [What is Software Trading, and Why is it Important?](https://dev.to/dmytro_kharyna/what-is-software-trading-and-why-is-it-important-3oa1)
+- [Top 10 PHP Testing Frameworks for 2024](https://dev.to/lambdatest/top-10-php-testing-frameworks-for-2024-4gee)
 <!-- BLOG-POST-LIST:END -->
 
