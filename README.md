@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tableau Public VS Tableau Desktop Public Edition](https://dev.to/pizofreude/tableau-public-vs-tableau-desktop-public-edition-4e1o)
-- [Two sums](https://dev.to/prashantrmishra/two-sums-4f1l)
-- [Write a Simple blockchain in Golang](https://dev.to/santoshanand/write-a-simple-blockchain-in-golang-58mc)
-- [The Art of Web Design: Crafting Digital Experiences That Captivate](https://dev.to/robertadler/the-art-of-web-design-crafting-digital-experiences-that-captivate-ohh)
+- [The unsexy &lpar;but important&rpar; role played by middle management](https://dev.to/arjunrao87/the-unsexy-but-important-role-played-by-middle-management-1enb)
+- [Ibuprofeno.py💊| #89: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-89-explica-este-codigo-python-58ag)
+- [Buy and sell stocks](https://dev.to/prashantrmishra/buy-and-sell-stocks-527h)
+- [Skills you need as a DevRel](https://dev.to/ayush2390/skills-you-need-as-a-devrel-57bi)
 <!-- BLOG-POST-LIST:END -->
 
