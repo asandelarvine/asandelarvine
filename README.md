@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Planner: A Fresh Take on React Scheduling Components](https://dev.to/uretzkyzvi/introducing-planner-a-fresh-take-on-react-scheduling-components-dbf)
-- [Learn how to implement VAT for your e-commerce website with Sylius in 6 minutes](https://dev.to/theodo/learn-how-to-implement-vat-for-your-e-commerce-website-with-sylius-in-6-minutes-m3m)
-- [How To Create Custom Middlewares in ASP.NET Core](https://dev.to/antonmartyniuk/how-to-create-custom-middlewares-in-aspnet-core-5flm)
-- [You get what you Measure: Understanding your applications health with Grafana, Loki and Prometheus](https://dev.to/limagbz/you-get-what-you-measure-understanding-your-applications-health-with-grafana-loki-and-prometheus-1ldi)
+- [Handling Video Streaming and Byte Range Requests in PHP](https://dev.to/sh20raj/handling-video-streaming-and-byte-range-requests-in-php-3337)
+- [API Gateways in Zuplo – Creating an ASCII Art API](https://dev.to/devleader/api-gateways-in-zuplo-creating-an-ascii-art-api-4gle)
+- [PM built another productivity timer](https://dev.to/alexgerasim/pm-built-another-productivity-timer-38ab)
+- [AWS Under the Hood - Day 4](https://dev.to/lakhera2015/aws-under-the-hood-day-4-22eb)
 <!-- BLOG-POST-LIST:END -->
 
