@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Approaches to Styling React Components, Best Use Cases](https://dev.to/antonzo/approaches-to-style-react-components-best-use-cases-4ifb)
-- [Are Morning Routines Overrated?](https://dev.to/devteam/are-morning-routines-overrated-427k)
-- [Angular new output&lpar;&rpar; function](https://dev.to/davidepassafaro/angular-new-output-function-44f1)
-- [JavaScript Lexical Scope Explained shortly](https://dev.to/ashsajal/javascript-lexical-scope-explained-shortly-2kgd)
+- [Landscape of Data Management Tools](https://dev.to/sganalytics/landscape-of-data-management-tools-i12)
+- [NodeJS ENV Support](https://dev.to/paulund/nodejs-env-support-105e)
+- [Cache in System Design](https://dev.to/ranujmahajan/cache-in-system-design-27nc)
+- [Stock Market Real-Time Data API for Informed Trading Decisions](https://dev.to/johnmiller/stock-market-real-time-data-api-for-informed-trading-decisions-2g57)
 <!-- BLOG-POST-LIST:END -->
 
