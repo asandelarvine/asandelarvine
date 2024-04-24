@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tetris Development 1 - Setting Up](https://dev.to/xzzz3/tetris-development-1-setting-up-548o)
-- [Learning AWS Day by Day — Day 45 — Amazon DynamoDB — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-45-amazon-dynamodb-part-1-3i0p)
-- [Drinking Your Own Champagne: Drive Developer Productivity &amp; Better Products](https://dev.to/getambassador2024/drinking-your-own-champagne-drive-developer-productivity-better-products-pok)
-- [The Power of Reusable Components in React](https://dev.to/leoneloliver/the-power-of-reusable-components-in-react-2d79)
+- [Learning Theoretical Concepts in Web Development](https://dev.to/illyrian__/learning-theoretical-concepts-in-web-development-lp2)
+- [📐 Gap vs. Margin: Rethinking Spacing in CSS](https://dev.to/adam/gap-vs-margin-rethinking-spacing-in-css-36jc)
+- [Rubber Ducker - GPT + 🦆💻](https://dev.to/salika_dave/rubber-ducker-gpt--2bcm)
+- [OracleBootCamp - 5 May 2024](https://dev.to/nabhaas/oraclebootcamp-5-may-2024-5f0)
 <!-- BLOG-POST-LIST:END -->
 
