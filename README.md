@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 API ON NODE.JS](https://dev.to/pekachu17/7-api-on-nodejs-l14)
-- [Invoking an AWS Lambda Function with Terraform](https://dev.to/codeisgood/invoking-an-aws-lambda-function-with-terraform-3nl7)
-- [Insights from My Computer Science Journey: Key Learnings and Advice](https://dev.to/johnkelsey/insights-from-my-computer-science-journey-key-learnings-and-advice-580g)
-- [Welcome to John Kelsey&#39;s Article](https://dev.to/johnkelsey/welcome-to-john-kelseys-article-3o5a)
+- [Random Password Generate](https://dev.to/palchandu_dev/random-password-generate-2519)
+- [MY FIRST POST](https://dev.to/iamjitin_11/my-first-post-de4)
+- [&#39;La cocotera&#39;, the Rota Spring Fair booth that you cannot miss this year](https://dev.to/mackness1478/la-cocotera-the-rota-spring-fair-booth-that-you-cannot-miss-this-year-5hh8)
+- [Finta&#39;s Automated Financial Synchronization powered by Plaid, Stripe and Inngest](https://dev.to/itstayfay/fintas-automated-financial-synchronization-powered-by-plaid-stripe-and-inngest-286p)
 <!-- BLOG-POST-LIST:END -->
 
