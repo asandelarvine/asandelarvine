@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Landscape of Data Management Tools](https://dev.to/sganalytics/landscape-of-data-management-tools-i12)
-- [NodeJS ENV Support](https://dev.to/paulund/nodejs-env-support-105e)
-- [Cache in System Design](https://dev.to/ranujmahajan/cache-in-system-design-27nc)
-- [Stock Market Real-Time Data API for Informed Trading Decisions](https://dev.to/johnmiller/stock-market-real-time-data-api-for-informed-trading-decisions-2g57)
+- [How to build a fullstack application with Go, Templ, and HTMX](https://dev.to/hackmamba/how-to-build-a-fullstack-application-with-go-templ-and-htmx-4444)
+- [How to upgrade your Angular web project from Angular V13 to Angular V17](https://dev.to/epakconsultant/how-to-upgrade-your-angular-web-project-from-angular-v13-to-angular-v17-3l5m)
+- [How to Build a stock filter to search the stock market for stocks that meet certain criteria in TradingView](https://dev.to/epakconsultant/how-to-build-a-stock-filter-to-search-the-stock-market-for-stocks-that-meet-certain-criteria-in-tradingview-3h1)
+- [Release Announcement: KeycloakClientBundle v2.0](https://dev.to/mainick/release-announcement-keycloakclientbundle-v20-3oga)
 <!-- BLOG-POST-LIST:END -->
 
