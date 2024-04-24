@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Postgres with Neon - My first impression](https://dev.to/aws-heroes/serverless-postgres-with-neon-my-first-impression-1n3p)
-- [Benefits of Using React Js For Custom Web Development](https://dev.to/oliviaeve250/benefits-of-using-react-js-for-custom-web-development-25j0)
-- [What is Software Trading, and Why is it Important?](https://dev.to/dmytro_kharyna/what-is-software-trading-and-why-is-it-important-3oa1)
-- [Top 10 PHP Testing Frameworks for 2024](https://dev.to/lambdatest/top-10-php-testing-frameworks-for-2024-4gee)
+- [How to Minimize HTTP Requests for a Faster Website](https://dev.to/olabisioleyede/how-to-minimize-http-requests-for-a-faster-website-298m)
+- [Snapshot too old in YugabyteDB](https://dev.to/yugabyte/snapshot-too-old-in-yugabytedb-23g5)
+- [Java Developer Roadmap 2024](https://dev.to/zoltanf/java-developer-roadmap-2024-5cd4)
+- [How to create a slick CSS animation from Cocktail](https://dev.to/robole/how-to-create-a-slick-css-animation-from-cocktail-4o8l)
 <!-- BLOG-POST-LIST:END -->
 
