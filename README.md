@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Random Password Generate](https://dev.to/palchandu_dev/random-password-generate-2519)
-- [MY FIRST POST](https://dev.to/iamjitin_11/my-first-post-de4)
-- [&#39;La cocotera&#39;, the Rota Spring Fair booth that you cannot miss this year](https://dev.to/mackness1478/la-cocotera-the-rota-spring-fair-booth-that-you-cannot-miss-this-year-5hh8)
-- [Finta&#39;s Automated Financial Synchronization powered by Plaid, Stripe and Inngest](https://dev.to/itstayfay/fintas-automated-financial-synchronization-powered-by-plaid-stripe-and-inngest-286p)
+- [Approaches to Styling React Components, Best Use Cases](https://dev.to/antonzo/approaches-to-style-react-components-best-use-cases-4ifb)
+- [Are Morning Routines Overrated?](https://dev.to/devteam/are-morning-routines-overrated-427k)
+- [Angular new output&lpar;&rpar; function](https://dev.to/davidepassafaro/angular-new-output-function-44f1)
+- [JavaScript Lexical Scope Explained shortly](https://dev.to/ashsajal/javascript-lexical-scope-explained-shortly-2kgd)
 <!-- BLOG-POST-LIST:END -->
 
