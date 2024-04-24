@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL for MySQL Users - Alternatives to the DESCRIBE Statement](https://dev.to/dbvismarketing/postgresql-for-mysql-users-alternatives-to-the-describe-statement-5025)
-- [Understanding Java’s Pass by Value with Heap and Stack Frames Visualization](https://dev.to/bad-logic/understanding-javas-pass-by-value-with-heap-and-stack-frames-visualization-3g12)
-- [Is Teaching One of the Best Ways To Learn?](https://dev.to/hjgonzalez06/is-teaching-one-of-the-best-ways-to-learn-2478)
-- [Building fragments of JSX](https://dev.to/priya_sharma/building-fragments-of-jsx-3cej)
+- [Jotai Tips](https://dev.to/dai_shi/jotai-tips-1hp1)
+- [Llama 3 Plugin](https://dev.to/programordie/llama-3-plugin-4cnn)
+- [Answer: Mixed Content &lpar;laravel&rpar;](https://dev.to/luislopezdeveloper/answer-mixed-content-laravel-181p)
+- [Complete Coze tutorial: Build AI Chatbots from scratch](https://dev.to/zarazhangrui/complete-coze-tutorial-build-ai-chatbots-from-scratch-e66)
 <!-- BLOG-POST-LIST:END -->
 
