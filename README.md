@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Counter app in Flutter](https://dev.to/vasanth9/counter-app-in-flutter-2lip)
-- [TCS Recruitment for Batch 2024 for PAN India locations](https://dev.to/srinivasuluparanduru/tcs-recruitment-for-batch-2024-for-pan-india-locations-51p7)
-- [Welcome Everyone](https://dev.to/omareldery/welcome-everyone-fba)
-- [Setting Up Express development environment &lpar;Typescript, Eslint, Prettier&rpar;](https://dev.to/muhammetandic/setting-up-express-development-environment-typescript-eslint-prettier-31af)
+- [🤔 Looking for advice on integrating SportDevs API for futsal data?](https://dev.to/ricivolsenci/looking-for-advice-on-integrating-sportdevs-api-for-futsal-data-1e2e)
+- [🌈 15 Awesome VS Code Plugins to Make Your IDE Look Cool!](https://dev.to/evergrowingdev/15-awesome-vs-code-plugins-to-make-your-ide-look-cool-2c7l)
+- [Step-By-Step Guide to Hosting PHP Website for FREE in 2024](https://dev.to/vijaythapa/step-by-step-guide-to-hosting-php-website-for-free-in-2024-5acf)
+- [Spring Boot vs Quarkus: Pick one for Java](https://dev.to/zoltanf/spring-boot-vs-quarkus-pick-one-for-java-36bl)
 <!-- BLOG-POST-LIST:END -->
 
