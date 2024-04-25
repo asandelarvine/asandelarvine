@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Llavero Wallet: My Vault](https://dev.to/el_ranu/explaining-llavero-wallet-my-vault-24nd)
-- [Leveraging Angular DevTools for Enhanced Development Efficiency](https://dev.to/philipjohnbasile/leveraging-angular-devtools-for-enhanced-development-efficiency-2h4h)
-- [Implementation of Melodistiq: Generating Lyrics and Melodies with AI](https://dev.to/aws-builders/unlocking-musical-creativity-with-ai-generating-lyrics-and-melodies-55p0)
-- [Docker - a terminal GUI](https://dev.to/kiranuknow/docker-a-terminal-gui-2fo7)
+- [Code Smell 249 - Constants as Numbers](https://dev.to/mcsee/code-smell-249-constants-as-numbers-568)
+- [AWS Under the Hood - Day 5 - What Is the difference between stop/start vs reboot for AWS EC2 Instances?](https://dev.to/lakhera2015/aws-under-the-hood-day-5-what-is-the-difference-between-stopstart-vs-reboot-for-aws-ec2-instances-50a2)
+- [Email ID and website URL validations in your jQuery](https://dev.to/dgihost/email-id-and-website-url-validations-in-your-jquery-1m6c)
+- [How to create buy now button of paypal?](https://dev.to/dgihost/how-to-create-buy-now-button-of-paypal-1e9i)
 <!-- BLOG-POST-LIST:END -->
 
