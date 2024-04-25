@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤔 Looking for advice on integrating SportDevs API for futsal data?](https://dev.to/ricivolsenci/looking-for-advice-on-integrating-sportdevs-api-for-futsal-data-1e2e)
-- [🌈 15 Awesome VS Code Plugins to Make Your IDE Look Cool!](https://dev.to/evergrowingdev/15-awesome-vs-code-plugins-to-make-your-ide-look-cool-2c7l)
-- [Step-By-Step Guide to Hosting PHP Website for FREE in 2024](https://dev.to/vijaythapa/step-by-step-guide-to-hosting-php-website-for-free-in-2024-5acf)
-- [Spring Boot vs Quarkus: Pick one for Java](https://dev.to/zoltanf/spring-boot-vs-quarkus-pick-one-for-java-36bl)
+- [Integrate Llama3 Into Your Application with Just One Command!](https://dev.to/jianzs/integrate-llama3-into-your-application-with-just-one-command-13mj)
+- [Latitude: The missing analytics layer between your database and your users 🤝🏽](https://dev.to/latitude/latitude-the-missing-analytics-layer-between-your-database-and-your-users-pp1)
+- [Backup Automatizado MySQL com ShellScript](https://dev.to/thiagoolopess/backup-automatizado-mysql-com-shellscript-11a)
+- [Earth Day Markup Challenge](https://dev.to/jarvisscript/earth-day-markup-challenge-28mf)
 <!-- BLOG-POST-LIST:END -->
 
