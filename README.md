@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SObjectizer Tales - Epilogue](https://dev.to/ilpropheta/sobjectizer-tales-epilogue-2391)
-- [How to Keep Your Custom Claims in Sync with Roles Stored in Firestore](https://dev.to/oddbit/how-to-keep-your-custom-claims-in-sync-with-roles-stored-in-firestore-93l)
-- [NodeJS 22 is Live](https://dev.to/emmabase/nodejs-22-is-live-49b1)
-- [6 Common Web Development Myths You Need to Stop Believing](https://dev.to/techno_expert/6-common-web-development-myths-you-need-to-stop-believing-2392)
+- [Partition List | LeetCode | Java](https://dev.to/tanujav/partition-list-leetcode-java-81p)
+- [Enhancing Asynchronous Data Fetching in Umbraco v14 with Lit Async Directives](https://dev.to/mattbrailsford/enhancing-asynchronous-data-fetching-in-umbraco-v14-with-lit-async-directives-39if)
+- [Taming the Multi-Headed Beast: Maintaining SDKs in Production for Years](https://dev.to/metis/taming-the-multi-headed-beast-maintaining-sdks-in-production-for-years-4d09)
+- [Accepting charity or volunteering Software Developer projects.](https://dev.to/markjericho/accepting-charity-or-volunteering-software-developer-projects-1ngl)
 <!-- BLOG-POST-LIST:END -->
 
