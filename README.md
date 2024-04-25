@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Culture and the Myth of the &quot;Silver Bullet&quot;](https://dev.to/allanpablo/devops-culture-and-the-myth-of-the-silver-bullet-47l7)
-- [Generating Fake Data in Laravel Using Seeders](https://dev.to/tahsin000/generating-fake-data-in-laravel-using-seeders-2fpi)
-- [My journey that no one asked for: From enthusiast to hired programmer](https://dev.to/luizdmm/my-journey-that-no-one-asked-for-from-enthusiast-to-hired-programmer-1dod)
-- [A Handy Guide to Using Dynamic Import in JavaScript](https://dev.to/chauhoangminhnguyen/a-handy-guide-to-using-dynamic-import-in-javascript-3n3)
+- [Stay Ahead with Liveness Detection SDK](https://dev.to/faceplugin/stay-ahead-with-liveness-detection-sdk-17l7)
+- [How to Edit a PDF File in C# &lpar;Developer Tutorial&rpar;](https://dev.to/xeshan6981/how-to-edit-a-pdf-file-in-c-developer-tutorial-aim)
+- [Best time to buy and sell stock Solution](https://dev.to/rk042/best-time-to-buy-and-sell-stock-solution-19k9)
+- [Implementing the repository pattern in Go with both in-memory and MySQL repositories](https://dev.to/santoshanand/implementing-the-repository-pattern-in-go-with-both-in-memory-and-mysql-repositories-581j)
 <!-- BLOG-POST-LIST:END -->
 
