@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 24/16: New Template Compiler, Zoneless in Angular 18](https://dev.to/this-is-angular/episode-2416-new-template-compiler-zoneless-in-angular-18-3n63)
-- [Hosting old Node Projects 👴🏼](https://dev.to/wimadev/hosting-old-node-projects-3cgl)
-- [web-scraping-wikipedia-tables](https://dev.to/crawlbase/web-scraping-wikipedia-tables-3ick)
-- [The Ultimate Beginner&#39;s Checklist for Diving into Machine Learning in 2024](https://dev.to/hyscaler/the-ultimate-beginners-checklist-for-diving-into-machine-learning-in-2024-348h)
+- [Unlocking Efficiency with Ngrok: Setting Up Multiple Ports Made Simple!](https://dev.to/yashdayama/unlocking-efficiency-with-ngrok-setting-up-multiple-ports-made-simple-n66)
+- [How to avoid CSRF?](https://dev.to/7jw92nvd1klaq1/how-to-avoid-csrf-976)
+- [Youtube music light themes](https://dev.to/ysmnikhil/youtube-music-light-themes-4omi)
+- [React Pure Functions?](https://dev.to/jeflex/react-pure-functions-2kka)
 <!-- BLOG-POST-LIST:END -->
 
