@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SPA-Like Navigation Preserving Web Component State](https://dev.to/aralroca/spa-like-navigation-preserving-web-component-state-lh3)
-- [arboles set graph](https://dev.to/imnotleo/arboles-set-graph-3mo4)
-- [Unveiling the Strengths of .NET: Choosing .NET over Node.js](https://dev.to/eddiemuhoro/unveiling-the-strengths-of-net-choosing-net-over-nodejs-44cl)
-- [🏖️ Going Against the Grain](https://dev.to/mistval/going-against-the-grain-elb)
+- [5 Uncommon Advices from one beginner coder to another beginner coder!](https://dev.to/manasmoon_/5-uncommon-advices-from-one-beginner-coder-to-another-beginner-coder-2ai)
+- [What we lose at the gates](https://dev.to/schalkneethling/what-we-lose-at-the-gates-45df)
+- [Earth Day Frontend Challenge landing page](https://dev.to/mariela/earth-day-frontend-challenge-landing-page-24dj)
+- [IPCalculator Coze AI](https://dev.to/yowise/ipcalculator-coze-ai-57ko)
 <!-- BLOG-POST-LIST:END -->
 
