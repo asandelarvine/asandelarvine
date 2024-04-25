@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Search Engine For 200k+ Open Source Icons](https://dev.to/mddanishyusuf/search-engine-for-200k-open-source-icons-4mfc)
-- [Front-end specialisations: DevOps JS](https://dev.to/r4nd3l/front-end-specialisations-devops-js-1jp3)
-- [WebDevDocs Workflow](https://dev.to/arndom/webdevdocs-workflow-46p0)
-- [Roadmap Javascript tahun 2024](https://dev.to/appardana/roadmap-javascript-tahun-2024-4fep)
+- [SObjectizer Tales - Epilogue](https://dev.to/ilpropheta/sobjectizer-tales-epilogue-2391)
+- [How to Keep Your Custom Claims in Sync with Roles Stored in Firestore](https://dev.to/oddbit/how-to-keep-your-custom-claims-in-sync-with-roles-stored-in-firestore-93l)
+- [NodeJS 22 is Live](https://dev.to/emmabase/nodejs-22-is-live-49b1)
+- [6 Common Web Development Myths You Need to Stop Believing](https://dev.to/techno_expert/6-common-web-development-myths-you-need-to-stop-believing-2392)
 <!-- BLOG-POST-LIST:END -->
 
