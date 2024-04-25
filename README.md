@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jotai Tips](https://dev.to/dai_shi/jotai-tips-1hp1)
-- [Llama 3 Plugin](https://dev.to/programordie/llama-3-plugin-4cnn)
-- [Answer: Mixed Content &lpar;laravel&rpar;](https://dev.to/luislopezdeveloper/answer-mixed-content-laravel-181p)
-- [Complete Coze tutorial: Build AI Chatbots from scratch](https://dev.to/zarazhangrui/complete-coze-tutorial-build-ai-chatbots-from-scratch-e66)
+- [Llavero Wallet: My Vault](https://dev.to/el_ranu/explaining-llavero-wallet-my-vault-24nd)
+- [Leveraging Angular DevTools for Enhanced Development Efficiency](https://dev.to/philipjohnbasile/leveraging-angular-devtools-for-enhanced-development-efficiency-2h4h)
+- [Implementation of Melodistiq: Generating Lyrics and Melodies with AI](https://dev.to/aws-builders/unlocking-musical-creativity-with-ai-generating-lyrics-and-melodies-55p0)
+- [Docker - a terminal GUI](https://dev.to/kiranuknow/docker-a-terminal-gui-2fo7)
 <!-- BLOG-POST-LIST:END -->
 
