@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 249 - Constants as Numbers](https://dev.to/mcsee/code-smell-249-constants-as-numbers-568)
-- [AWS Under the Hood - Day 5 - What Is the difference between stop/start vs reboot for AWS EC2 Instances?](https://dev.to/lakhera2015/aws-under-the-hood-day-5-what-is-the-difference-between-stopstart-vs-reboot-for-aws-ec2-instances-50a2)
-- [Email ID and website URL validations in your jQuery](https://dev.to/dgihost/email-id-and-website-url-validations-in-your-jquery-1m6c)
-- [How to create buy now button of paypal?](https://dev.to/dgihost/how-to-create-buy-now-button-of-paypal-1e9i)
+- [DevOps Culture and the Myth of the &quot;Silver Bullet&quot;](https://dev.to/allanpablo/devops-culture-and-the-myth-of-the-silver-bullet-47l7)
+- [Generating Fake Data in Laravel Using Seeders](https://dev.to/tahsin000/generating-fake-data-in-laravel-using-seeders-2fpi)
+- [My journey that no one asked for: From enthusiast to hired programmer](https://dev.to/luizdmm/my-journey-that-no-one-asked-for-from-enthusiast-to-hired-programmer-1dod)
+- [A Handy Guide to Using Dynamic Import in JavaScript](https://dev.to/chauhoangminhnguyen/a-handy-guide-to-using-dynamic-import-in-javascript-3n3)
 <!-- BLOG-POST-LIST:END -->
 
