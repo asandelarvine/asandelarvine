@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Wonderful Planet - Earth Day Competition](https://dev.to/acode123/our-wonderful-planet-earth-day-competition-omn)
-- [Leitura comentada - Arquitetura Limpa - Capítulo 1](https://dev.to/zodh/leitura-comentada-clean-arch-capitulo-1-1h6k)
-- [Top 5 Jokes Software Developers Tell Themselves and their Managers](https://dev.to/moozzyk/top-5-jokes-software-developers-tell-themselves-and-their-managers-4e50)
-- [What is web ontology language?](https://dev.to/epakconsultant/what-is-web-ontology-language-3pi5)
+- [Search Engine For 200k+ Open Source Icons](https://dev.to/mddanishyusuf/search-engine-for-200k-open-source-icons-4mfc)
+- [Front-end specialisations: DevOps JS](https://dev.to/r4nd3l/front-end-specialisations-devops-js-1jp3)
+- [WebDevDocs Workflow](https://dev.to/arndom/webdevdocs-workflow-46p0)
+- [Roadmap Javascript tahun 2024](https://dev.to/appardana/roadmap-javascript-tahun-2024-4fep)
 <!-- BLOG-POST-LIST:END -->
 
