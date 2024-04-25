@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ELT as Compliance Enabler: Running Steampipe with Matillion Data Productivity Cloud](https://dev.to/zirkonium88/elt-as-compliance-enabler-running-steampipe-with-matillion-data-productivity-cloud-6o5)
-- [Nestjs x ExpressoTS @param transformation](https://dev.to/expressots/nestjs-x-expressots-param-transformation-npe)
-- [Revolutionising Workflows: How Leiga Boosts Flow Efficiency in Coding](https://dev.to/miabossanova/revolutionising-workflows-how-leiga-boosts-flow-efficiency-in-coding-2c54)
-- [The try block in Rust](https://dev.to/nfrankel/the-try-block-in-rust-jbl)
+- [3 resources from Beginner to PRO to learn Ruby on Rails](https://dev.to/jukilo_lokiju/3-resources-from-beginner-to-pro-to-learn-ruby-on-rails-3pke)
+- [Hidden Gems of Tailwind CSS](https://dev.to/railsdesigner/hidden-gems-of-tailwind-css-1472)
+- [URL problem in JS](https://dev.to/ahmad777/url-problem-in-js-52d3)
+- [What are some examples of successful AI implementations in business?](https://dev.to/webunity/what-are-some-examples-of-successful-ai-implementations-in-business-3fog)
 <!-- BLOG-POST-LIST:END -->
 
