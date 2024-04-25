@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Efficiency with Ngrok: Setting Up Multiple Ports Made Simple!](https://dev.to/yashdayama/unlocking-efficiency-with-ngrok-setting-up-multiple-ports-made-simple-n66)
-- [How to avoid CSRF?](https://dev.to/7jw92nvd1klaq1/how-to-avoid-csrf-976)
-- [Youtube music light themes](https://dev.to/ysmnikhil/youtube-music-light-themes-4omi)
-- [React Pure Functions?](https://dev.to/jeflex/react-pure-functions-2kka)
+- [New to JS what should be my next goal after JS?](https://dev.to/spidermonkey17/new-js-what-should-be-my-next-goal-after-js-1pc)
+- [How to Register a Smart Contract to Mode SFS with Thirdweb](https://dev.to/modenetwork/how-to-register-a-smart-contract-to-mode-sfs-with-thirdweb-5fhn)
+- [scrape-yahoo-finance](https://dev.to/crawlbase/scrape-yahoo-finance-2a4e)
+- [Interacting with Smart Contracts using ethers.js](https://dev.to/modenetwork/interacting-with-smart-contracts-using-ethersjs-3mfd)
 <!-- BLOG-POST-LIST:END -->
 
