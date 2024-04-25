@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Uncommon Advices from one beginner coder to another beginner coder!](https://dev.to/manasmoon_/5-uncommon-advices-from-one-beginner-coder-to-another-beginner-coder-2ai)
-- [What we lose at the gates](https://dev.to/schalkneethling/what-we-lose-at-the-gates-45df)
-- [Earth Day Frontend Challenge landing page](https://dev.to/mariela/earth-day-frontend-challenge-landing-page-24dj)
-- [IPCalculator Coze AI](https://dev.to/yowise/ipcalculator-coze-ai-57ko)
+- [Displaying multiple error messages on incorrect form entries with Vee-validate | Vue](https://dev.to/pentektimi/displaying-multiple-error-messages-on-incorrect-form-entries-with-vee-validate-vue-367f)
+- [Kotlin Routing - routing everything](https://dev.to/programadorthi/kotlin-routing-routing-everything-1f4j)
+- [Key Aspects to Consider in Software-Based Competitions](https://dev.to/owishiboo/key-aspects-to-consider-in-software-based-competitions-2ob0)
+- [Developing T-Shapedness In Practice](https://dev.to/kaityhallman/developing-t-shapedness-in-practice-570o)
 <!-- BLOG-POST-LIST:END -->
 
