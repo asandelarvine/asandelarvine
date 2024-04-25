@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Llama3 Into Your Application with Just One Command!](https://dev.to/jianzs/integrate-llama3-into-your-application-with-just-one-command-13mj)
-- [Latitude: The missing analytics layer between your database and your users 🤝🏽](https://dev.to/latitude/latitude-the-missing-analytics-layer-between-your-database-and-your-users-pp1)
-- [Backup Automatizado MySQL com ShellScript](https://dev.to/thiagoolopess/backup-automatizado-mysql-com-shellscript-11a)
-- [Earth Day Markup Challenge](https://dev.to/jarvisscript/earth-day-markup-challenge-28mf)
+- [AWS Credentials for Serverless](https://dev.to/aws-builders/aws-credentials-for-serverless-2f24)
+- [Demystifying Electrum Payments: A Beginner&#39;s Guide](https://dev.to/respect17/demystifying-electrum-payments-a-beginners-guide-2cfb)
+- [FastAPI vs Django](https://dev.to/zoltanf/fastapi-vs-django-2jp0)
+- [Interview with Zack Xuereb, founder and CEO of Avail](https://dev.to/crabnebula/interview-with-zack-xuereb-founder-and-ceo-of-avail-2h24)
 <!-- BLOG-POST-LIST:END -->
 
