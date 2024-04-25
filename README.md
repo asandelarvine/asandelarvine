@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 resources from Beginner to PRO to learn Ruby on Rails](https://dev.to/jukilo_lokiju/3-resources-from-beginner-to-pro-to-learn-ruby-on-rails-3pke)
-- [Hidden Gems of Tailwind CSS](https://dev.to/railsdesigner/hidden-gems-of-tailwind-css-1472)
-- [URL problem in JS](https://dev.to/ahmad777/url-problem-in-js-52d3)
-- [What are some examples of successful AI implementations in business?](https://dev.to/webunity/what-are-some-examples-of-successful-ai-implementations-in-business-3fog)
+- [Counter app in Flutter](https://dev.to/vasanth9/counter-app-in-flutter-2lip)
+- [TCS Recruitment for Batch 2024 for PAN India locations](https://dev.to/srinivasuluparanduru/tcs-recruitment-for-batch-2024-for-pan-india-locations-51p7)
+- [Welcome Everyone](https://dev.to/omareldery/welcome-everyone-fba)
+- [Setting Up Express development environment &lpar;Typescript, Eslint, Prettier&rpar;](https://dev.to/muhammetandic/setting-up-express-development-environment-typescript-eslint-prettier-31af)
 <!-- BLOG-POST-LIST:END -->
 
