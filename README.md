@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Credentials for Serverless](https://dev.to/aws-builders/aws-credentials-for-serverless-2f24)
-- [Demystifying Electrum Payments: A Beginner&#39;s Guide](https://dev.to/respect17/demystifying-electrum-payments-a-beginners-guide-2cfb)
-- [FastAPI vs Django](https://dev.to/zoltanf/fastapi-vs-django-2jp0)
-- [Interview with Zack Xuereb, founder and CEO of Avail](https://dev.to/crabnebula/interview-with-zack-xuereb-founder-and-ceo-of-avail-2h24)
+- [Day 25/366](https://dev.to/vishalmx3/day-25366-6o6)
+- [Creando un Juego de &quot;X y O&quot; en Java: Aprende a Programar Divirtiéndote](https://dev.to/00000921/creando-un-juego-de-x-y-o-en-java-aprende-a-programar-divirtiendote-3p5p)
+- [Guia de instalacion de C++ con MSYS2](https://dev.to/00000921/guia-de-instalacion-de-c-con-msys2-5ahi)
+- [AI in Healthcare: Affordability, Implementation Costs, and the Power of Google Cloud AI](https://dev.to/onixcloud/ai-in-healthcare-affordability-implementation-costs-and-the-power-of-google-cloud-ai-3phk)
 <!-- BLOG-POST-LIST:END -->
 
