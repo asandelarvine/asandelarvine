@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Partition List | LeetCode | Java](https://dev.to/tanujav/partition-list-leetcode-java-81p)
-- [Enhancing Asynchronous Data Fetching in Umbraco v14 with Lit Async Directives](https://dev.to/mattbrailsford/enhancing-asynchronous-data-fetching-in-umbraco-v14-with-lit-async-directives-39if)
-- [Taming the Multi-Headed Beast: Maintaining SDKs in Production for Years](https://dev.to/metis/taming-the-multi-headed-beast-maintaining-sdks-in-production-for-years-4d09)
-- [Accepting charity or volunteering Software Developer projects.](https://dev.to/markjericho/accepting-charity-or-volunteering-software-developer-projects-1ngl)
+- [ELT as Compliance Enabler: Running Steampipe with Matillion Data Productivity Cloud](https://dev.to/zirkonium88/elt-as-compliance-enabler-running-steampipe-with-matillion-data-productivity-cloud-6o5)
+- [Nestjs x ExpressoTS @param transformation](https://dev.to/expressots/nestjs-x-expressots-param-transformation-npe)
+- [Revolutionising Workflows: How Leiga Boosts Flow Efficiency in Coding](https://dev.to/miabossanova/revolutionising-workflows-how-leiga-boosts-flow-efficiency-in-coding-2c54)
+- [The try block in Rust](https://dev.to/nfrankel/the-try-block-in-rust-jbl)
 <!-- BLOG-POST-LIST:END -->
 
