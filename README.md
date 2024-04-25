@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 25/366](https://dev.to/vishalmx3/day-25366-6o6)
-- [Creando un Juego de &quot;X y O&quot; en Java: Aprende a Programar Divirtiéndote](https://dev.to/00000921/creando-un-juego-de-x-y-o-en-java-aprende-a-programar-divirtiendote-3p5p)
-- [Guia de instalacion de C++ con MSYS2](https://dev.to/00000921/guia-de-instalacion-de-c-con-msys2-5ahi)
-- [AI in Healthcare: Affordability, Implementation Costs, and the Power of Google Cloud AI](https://dev.to/onixcloud/ai-in-healthcare-affordability-implementation-costs-and-the-power-of-google-cloud-ai-3phk)
+- [Episode 24/16: New Template Compiler, Zoneless in Angular 18](https://dev.to/this-is-angular/episode-2416-new-template-compiler-zoneless-in-angular-18-3n63)
+- [Hosting old Node Projects 👴🏼](https://dev.to/wimadev/hosting-old-node-projects-3cgl)
+- [web-scraping-wikipedia-tables](https://dev.to/crawlbase/web-scraping-wikipedia-tables-3ick)
+- [The Ultimate Beginner&#39;s Checklist for Diving into Machine Learning in 2024](https://dev.to/hyscaler/the-ultimate-beginners-checklist-for-diving-into-machine-learning-in-2024-348h)
 <!-- BLOG-POST-LIST:END -->
 
