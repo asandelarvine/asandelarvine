@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Ahead with Liveness Detection SDK](https://dev.to/faceplugin/stay-ahead-with-liveness-detection-sdk-17l7)
-- [How to Edit a PDF File in C# &lpar;Developer Tutorial&rpar;](https://dev.to/xeshan6981/how-to-edit-a-pdf-file-in-c-developer-tutorial-aim)
-- [Best time to buy and sell stock Solution](https://dev.to/rk042/best-time-to-buy-and-sell-stock-solution-19k9)
-- [Implementing the repository pattern in Go with both in-memory and MySQL repositories](https://dev.to/santoshanand/implementing-the-repository-pattern-in-go-with-both-in-memory-and-mysql-repositories-581j)
+- [Our Wonderful Planet - Earth Day Competition](https://dev.to/acode123/our-wonderful-planet-earth-day-competition-omn)
+- [Leitura comentada - Arquitetura Limpa - Capítulo 1](https://dev.to/zodh/leitura-comentada-clean-arch-capitulo-1-1h6k)
+- [Top 5 Jokes Software Developers Tell Themselves and their Managers](https://dev.to/moozzyk/top-5-jokes-software-developers-tell-themselves-and-their-managers-4e50)
+- [What is web ontology language?](https://dev.to/epakconsultant/what-is-web-ontology-language-3pi5)
 <!-- BLOG-POST-LIST:END -->
 
