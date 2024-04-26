@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our game progress ~ User Animation ~](https://dev.to/takeda1411123/our-game-progress-user-animation--4ie1)
-- [Decoding Kotlin - Your guide to solving the mysterious in Kotlin](https://dev.to/jofisaes/decoding-kotlin-your-guide-to-solving-the-mysterious-in-kotlin-2fhd)
-- [Interactive Connectivity Establishment &lpar;ICE&rpar; Server: The Complete Guide](https://dev.to/alakkadshaw/interactive-connectivity-establishment-ice-server-the-complete-guide-3331)
-- [Setting up a Homelab: Part 1 Proxmox and LetsEncrypt](https://dev.to/shad0wcrawl3r/setting-up-a-homelab-part-1-proxmox-and-letsencrypt-3jn8)
+- [From Homemade HTTP Router to New ServeMux](https://dev.to/bmf_san/from-homemade-http-router-to-new-servemux-5dpo)
+- [Transitioning from Spring Security WebMvcConfigurer to SecurityFilterChain: A Seamless Migration Guide](https://dev.to/surjendu104/transitioning-from-spring-security-webmvcconfigurer-to-securityfilterchain-a-seamless-migration-guide-13e8)
+- [Learning AWS Day by Day — Day 47 — Amazon DynamoDB — Part 3](https://dev.to/rksalo88/learning-aws-day-by-day-day-47-amazon-dynamodb-part-3-5g6h)
+- [Domine a escrita de Códigos Python com PEP8 e suas bibliotecas](https://dev.to/carlos-cgs/domine-a-escrita-de-codigos-python-com-pep8-e-suas-bibliotecas-1mp0)
 <!-- BLOG-POST-LIST:END -->
 
