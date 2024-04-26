@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2h56)
-- [Why AI is failing at giving good advice](https://dev.to/mxmzb/why-ai-is-failing-at-giving-good-advice-4cd9)
-- [E2E Testing with ExpressoTS and SuperTest](https://dev.to/expressots/e2e-testing-with-expressots-and-supertest-4088)
-- [Unveiling the Crucial Role of Requirement Gathering in Software Development](https://dev.to/williamdk/unveiling-the-crucial-role-of-requirement-gathering-in-software-development-537e)
+- [OTEL Tracing demo with AWS X-Ray and Grafana](https://dev.to/aws-builders/tracing-demo-with-aws-x-ray-and-grafana-1pb5)
+- [The Single Responsibility Principle: Lessons from React and Factorio for Clean Design and Data Flow Management](https://dev.to/xenmars/the-single-responsibility-principle-lessons-from-react-and-factorio-for-clean-design-and-data-flow-management-2mol)
+- [The Evolution of AI Architecture: From Simple Single Tier to Complex Multi-tier Architectures](https://dev.to/myexamcloud/the-evolution-of-ai-architecture-from-simple-single-tier-to-complex-multi-tier-architectures-4m8l)
+- [How to Easily Open the Postman Console for Beginners](https://dev.to/satokenta/how-to-easily-open-the-postman-console-for-beginners-n4k)
 <!-- BLOG-POST-LIST:END -->
 
