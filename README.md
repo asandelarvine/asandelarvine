@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pick the best-performing time-series AI model for your specific data](https://dev.to/mindsdb/how-to-pick-the-best-performing-time-series-ai-model-for-your-specific-data-5k)
-- [20 Books every web developers and designers must read](https://dev.to/ibiyeyellowe/20-books-every-web-developers-and-designers-must-read-58go)
-- [Getting Started With HTML #EP4](https://dev.to/bbylumi/getting-started-with-html-ep3-28kj)
-- [Supercharge Your Number Inputs with Custom Step Sizes](https://dev.to/piotrkulpinski/supercharge-your-number-inputs-with-custom-step-sizes-mlh)
+- [Randomly Picks a Giveaway Winner on Twitter &lpar;Oops X&rpar;](https://dev.to/sojinsamuel/randomly-picks-a-giveaway-winner-on-twitter-oops-x-10m9)
+- [How to merge K sorted linked list and return a sorted linked list in the end](https://dev.to/gursimrat_17/how-to-merge-k-sorted-linked-list-and-return-a-sorted-linked-list-in-the-end-ppp)
+- [[GameDev][Unity3D] Using URP 2D and SpriteMask](https://dev.to/falme/gamedevunity3d-using-urp-2d-and-spritemask-3bkn)
+- [Security news weekly round-up - 26th April 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-april-2024-2do3)
 <!-- BLOG-POST-LIST:END -->
 
