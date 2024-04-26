@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating EKS Deployment and NGINX Setup Using Helm with AWS CDK in Python](https://dev.to/marocz/automating-eks-deployment-and-nginx-setup-using-helm-with-aws-cdk-in-python-27mn)
-- [2370. Longest Ideal Subsequence](https://dev.to/mdarifulhaque/2370-longest-ideal-subsequence-43ie)
-- [How to test Chrome extensions in headless mode with WebdriverIO](https://dev.to/mauro_laurenzi/how-to-test-chrome-extensions-in-headless-mode-with-webdriverio-20a6)
-- [Enhancing Order in Java Collections with Sequenced Interface](https://dev.to/nichetti/enhancing-order-in-java-collections-with-sequenced-interface-5e51)
+- [AWS Under the Hood - Day 7 - If ARNs are not used, what are other methods for identifying and managing resources in AWS?](https://dev.to/lakhera2015/aws-under-the-hood-day-7-if-arns-are-not-used-what-are-other-methods-for-identifying-and-managing-resources-in-aws-5a9p)
+- [Iot Software Development: Building Scalable + Secure Solutions](https://dev.to/yetillc/iot-software-development-building-scalable-secure-solutions-an0)
+- [Introduction to Digital Signal Processing with Python](https://dev.to/kartikmehta8/introduction-to-digital-signal-processing-with-python-bj5)
+- [My experience on the Public Speaking Challenge](https://dev.to/thaisavieira/my-experience-on-the-public-speaking-challenge-18h4)
 <!-- BLOG-POST-LIST:END -->
 
