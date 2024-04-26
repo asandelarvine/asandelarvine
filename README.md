@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Homemade HTTP Router to New ServeMux](https://dev.to/bmf_san/from-homemade-http-router-to-new-servemux-5dpo)
-- [Transitioning from Spring Security WebMvcConfigurer to SecurityFilterChain: A Seamless Migration Guide](https://dev.to/surjendu104/transitioning-from-spring-security-webmvcconfigurer-to-securityfilterchain-a-seamless-migration-guide-13e8)
-- [Learning AWS Day by Day — Day 47 — Amazon DynamoDB — Part 3](https://dev.to/rksalo88/learning-aws-day-by-day-day-47-amazon-dynamodb-part-3-5g6h)
-- [Domine a escrita de Códigos Python com PEP8 e suas bibliotecas](https://dev.to/carlos-cgs/domine-a-escrita-de-codigos-python-com-pep8-e-suas-bibliotecas-1mp0)
+- [Version Control: Git Basics](https://dev.to/apidna/version-control-git-basics-4n97)
+- [Scraping Tables from a Website Using Google Sheets, Python, or R](https://dev.to/crawlbase/scraping-tables-from-a-website-using-google-sheets-python-or-r-52f5)
+- [Installing Erlang With VFOX](https://dev.to/yeshan333/installing-erlang-with-vfox-7ml)
+- [Getting Rid of the Bad Seeds: A Quick Intro to Seed Rejection in Human+AI Teams](https://dev.to/voxel51/getting-rid-of-the-bad-seeds-a-quick-intro-to-seed-rejection-in-humanai-teams-2gkc)
 <!-- BLOG-POST-LIST:END -->
 
