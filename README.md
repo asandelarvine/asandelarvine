@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the vibrant world of Punjabi songs, from tradition to modernity](https://dev.to/fizzailiyas/exploring-the-vibrant-world-of-punjabi-songs-from-tradition-to-modernity-586b)
-- [Building a simple language switcher in a vue.js: Step-by-step tutorial 🌐](https://dev.to/integridsolutions/building-a-simple-language-switcher-in-a-vuejs-step-by-step-tutorial-j84)
-- [#1971. Find if Path Exists in Graph](https://dev.to/karleb/1971-find-if-path-exists-in-graph-2io5)
-- [How to create web-application in ruby on rails](https://dev.to/epakconsultant/how-to-create-web-application-in-ruby-on-rails-13f3)
+- [Did Citizen Development Fail on the Power Platform](https://dev.to/wyattdave/did-citizen-development-fail-on-the-power-platform-4p0c)
+- [Why etcd is matter in Kubernetes](https://dev.to/u2633/why-etcd-is-matter-in-kubernetes-48cn)
+- [A Step-by-Step Guide to Installing and Publishing Your React Native Project](https://dev.to/epakconsultant/a-step-by-step-guide-to-installing-and-publishing-your-react-native-project-4051)
+- [Stay Informed: Using Flight Trackers for Real-Time Updates](https://dev.to/jp5806632/stay-informed-using-flight-trackers-for-real-time-updates-3nhl)
 <!-- BLOG-POST-LIST:END -->
 
