@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The SOLID Principles for Writing Scalable &amp; Maintainable Code](https://dev.to/dipakahirav/the-solid-principles-for-writing-scalable-maintainable-code-3j6n)
-- [What happens when you type google.com in your browser and press Enter ❓](https://dev.to/angelotheman/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-1p86)
-- [VChart, How to monitor the change of DataZoom?](https://dev.to/youngwind/vchart-how-to-monitor-the-change-of-datazoom-3poi)
-- [Let&#39;s write a simple microservice in Clojure](https://dev.to/andrew_panfilov/lets-write-a-simple-microservice-in-clojure-237a)
+- [Our game progress ~ User Animation ~](https://dev.to/takeda1411123/our-game-progress-user-animation--4ie1)
+- [Decoding Kotlin - Your guide to solving the mysterious in Kotlin](https://dev.to/jofisaes/decoding-kotlin-your-guide-to-solving-the-mysterious-in-kotlin-2fhd)
+- [Interactive Connectivity Establishment &lpar;ICE&rpar; Server: The Complete Guide](https://dev.to/alakkadshaw/interactive-connectivity-establishment-ice-server-the-complete-guide-3331)
+- [Setting up a Homelab: Part 1 Proxmox and LetsEncrypt](https://dev.to/shad0wcrawl3r/setting-up-a-homelab-part-1-proxmox-and-letsencrypt-3jn8)
 <!-- BLOG-POST-LIST:END -->
 
