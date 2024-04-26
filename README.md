@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is JavaScript and Where Will It be Mostly Used](https://dev.to/annoh_karlgusta/what-is-javascript-and-where-will-it-be-mostly-used-2fl0)
-- [Illuminating the Essence of Design Patterns in Software Development](https://dev.to/suyashsalvi/illuminating-the-essence-of-design-patterns-in-software-development-1o9m)
-- [Setup React Typescript with Vite &amp; ESLint](https://dev.to/phongphanq089/setup-react-typescript-with-vite-eslint-1nfk)
-- [xcrun: Error: Invalid Active Developer Path?](https://dev.to/dwildt/xcrun-error-invalid-active-developer-path-3p8g)
+- [Llama 3 with Function Calling and Code Interpreter](https://dev.to/tereza_tizkova/llama-3-with-function-calling-and-code-interpreter-55nb)
+- [winglang](https://dev.to/anhphan2024/winglang-4j72)
+- [Sort one column by another column in powerBI](https://dev.to/eudoh940/sort-one-column-by-another-column-in-powerbi-d5f)
+- [A quick read on Android haptic feedback Design principles](https://dev.to/theplebdev/a-quick-read-on-android-haptic-feedback-design-principles-40k6)
 <!-- BLOG-POST-LIST:END -->
 
