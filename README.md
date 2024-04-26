@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 3 with Function Calling and Code Interpreter](https://dev.to/tereza_tizkova/llama-3-with-function-calling-and-code-interpreter-55nb)
-- [winglang](https://dev.to/anhphan2024/winglang-4j72)
-- [Sort one column by another column in powerBI](https://dev.to/eudoh940/sort-one-column-by-another-column-in-powerbi-d5f)
-- [A quick read on Android haptic feedback Design principles](https://dev.to/theplebdev/a-quick-read-on-android-haptic-feedback-design-principles-40k6)
+- [Laravel 11 y Vite](https://dev.to/jcbm2010/laravel-11-y-vite-365m)
+- [#1137. N-th Tribonacci Number](https://dev.to/karleb/1137-n-th-tribonacci-number-4bef)
+- [10 Essential Skills Every Java Developer Should Master in 2024](https://dev.to/myexamcloud/10-essential-skills-every-java-developer-should-master-in-2024-2kp)
+- [#2370. Longest Ideal Subsequence](https://dev.to/karleb/2370-longest-ideal-subsequence-2c6h)
 <!-- BLOG-POST-LIST:END -->
 
