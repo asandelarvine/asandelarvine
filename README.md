@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps. Monitoring Databases. On-Premise and Cloud Environments.](https://dev.to/dm8ry/devops-monitoring-databases-on-premise-and-cloud-environments-1cn6)
-- [My Experience with Postman](https://dev.to/badmuseniola/my-experience-with-postman-345)
-- [My Experience with Postman](https://dev.to/badmuseniola/my-experience-with-postman-2802)
-- [PostgreSQL: Deleting all records from a table, except for the first and last ones.](https://dev.to/dm8ry/postgresql-deleting-all-records-from-a-table-except-for-the-first-and-last-ones-20im)
+- [Why, and not only how, signing your commits](https://dev.to/ccoveille/why-and-not-only-how-signing-your-commits-4nja)
+- [Pantry Chef - Revolutionizing Home Cooking with AI](https://dev.to/ssukhpinder/pantry-chef-revolutionizing-home-cooking-with-ai-188b)
+- [Stack Grafana deployed on AWS ECS -Part 1 - Create a Cluster](https://dev.to/ezziomoreira/stack-grafana-deployed-on-aws-ecs-part-1-create-a-cluster-b2f)
+- [Polyfills Explained: Making Modern JavaScript Work Everywhere 🤯🤯](https://dev.to/sandeepnautiyal/polyfills-explained-making-modern-javascript-work-everywhere-34lc)
 <!-- BLOG-POST-LIST:END -->
 
