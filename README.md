@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task 14](https://dev.to/subash129/task-14-56k4)
-- [Hidden Figures: disguising images from machines](https://dev.to/ruthmoog/hidden-figures-disguising-images-from-machines-4bpo)
-- [A telltale Sign of An Inexperienced Programmer](https://dev.to/annoh_karlgusta/a-telltale-sign-of-an-inexperienced-programmer-1a0k)
-- [Optimizing Game Performance: Essential Techniques and Tools](https://dev.to/konstantinusachev/optimizing-game-performance-essential-techniques-and-tools-5mh)
+- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Stacks and Queues as Linear Data Structures.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-stacks-and-queues-as-linear-data-structures-3ln2)
+- [Submission for Frontend Challenge Earth-Day-Edition: different elements of Earth: CSS Card animation](https://dev.to/sundus/submission-for-frontend-challenge-earth-day-edition-different-elements-of-earth-css-card-animation-119h)
+- [RVM Ruby 2.6.0 — built with custom openssl version on Ubuntu 22.04](https://dev.to/milosdukic/rvm-ruby-260-built-with-custom-openssl-version-on-ubuntu-2204-186l)
+- [A Change in Identity — From Developer to Craftsperson](https://dev.to/gearoidotreasaigh/a-change-in-identity-from-developer-to-craftsperson-218f)
 <!-- BLOG-POST-LIST:END -->
 
