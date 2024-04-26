@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why, and not only how, signing your commits](https://dev.to/ccoveille/why-and-not-only-how-signing-your-commits-4nja)
-- [Pantry Chef - Revolutionizing Home Cooking with AI](https://dev.to/ssukhpinder/pantry-chef-revolutionizing-home-cooking-with-ai-188b)
-- [Stack Grafana deployed on AWS ECS -Part 1 - Create a Cluster](https://dev.to/ezziomoreira/stack-grafana-deployed-on-aws-ecs-part-1-create-a-cluster-b2f)
-- [Polyfills Explained: Making Modern JavaScript Work Everywhere 🤯🤯](https://dev.to/sandeepnautiyal/polyfills-explained-making-modern-javascript-work-everywhere-34lc)
+- [Text to pdf using jsPDF](https://dev.to/favourtech/text-to-pdf-using-jspdf-209j)
+- [Why is Meta spending so much on Open Source AI?](https://dev.to/nanduanilal/metas-open-source-ai-ambitions-554a)
+- [Golang in-memory key-value pair cache](https://dev.to/iqquee/golang-in-memory-key-value-pair-cache-1f6n)
+- [Understanding Array Prototypes in JavaScript](https://dev.to/a_gaoba/understanding-array-prototypes-in-javascript-59mg)
 <!-- BLOG-POST-LIST:END -->
 
