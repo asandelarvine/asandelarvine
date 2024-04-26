@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Stacks and Queues as Linear Data Structures.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-stacks-and-queues-as-linear-data-structures-3ln2)
-- [Submission for Frontend Challenge Earth-Day-Edition: different elements of Earth: CSS Card animation](https://dev.to/sundus/submission-for-frontend-challenge-earth-day-edition-different-elements-of-earth-css-card-animation-119h)
-- [RVM Ruby 2.6.0 — built with custom openssl version on Ubuntu 22.04](https://dev.to/milosdukic/rvm-ruby-260-built-with-custom-openssl-version-on-ubuntu-2204-186l)
-- [A Change in Identity — From Developer to Craftsperson](https://dev.to/gearoidotreasaigh/a-change-in-identity-from-developer-to-craftsperson-218f)
+- [The SOLID Principles for Writing Scalable &amp; Maintainable Code](https://dev.to/dipakahirav/the-solid-principles-for-writing-scalable-maintainable-code-3j6n)
+- [What happens when you type google.com in your browser and press Enter ❓](https://dev.to/angelotheman/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-1p86)
+- [VChart, How to monitor the change of DataZoom?](https://dev.to/youngwind/vchart-how-to-monitor-the-change-of-datazoom-3poi)
+- [Let&#39;s write a simple microservice in Clojure](https://dev.to/andrew_panfilov/lets-write-a-simple-microservice-in-clojure-237a)
 <!-- BLOG-POST-LIST:END -->
 
