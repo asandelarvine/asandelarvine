@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Under the Hood - Day 7 - If ARNs are not used, what are other methods for identifying and managing resources in AWS?](https://dev.to/lakhera2015/aws-under-the-hood-day-7-if-arns-are-not-used-what-are-other-methods-for-identifying-and-managing-resources-in-aws-5a9p)
-- [Iot Software Development: Building Scalable + Secure Solutions](https://dev.to/yetillc/iot-software-development-building-scalable-secure-solutions-an0)
-- [Introduction to Digital Signal Processing with Python](https://dev.to/kartikmehta8/introduction-to-digital-signal-processing-with-python-bj5)
-- [My experience on the Public Speaking Challenge](https://dev.to/thaisavieira/my-experience-on-the-public-speaking-challenge-18h4)
+- [What is JavaScript and Where Will It be Mostly Used](https://dev.to/annoh_karlgusta/what-is-javascript-and-where-will-it-be-mostly-used-2fl0)
+- [Illuminating the Essence of Design Patterns in Software Development](https://dev.to/suyashsalvi/illuminating-the-essence-of-design-patterns-in-software-development-1o9m)
+- [Setup React Typescript with Vite &amp; ESLint](https://dev.to/phongphanq089/setup-react-typescript-with-vite-eslint-1nfk)
+- [xcrun: Error: Invalid Active Developer Path?](https://dev.to/dwildt/xcrun-error-invalid-active-developer-path-3p8g)
 <!-- BLOG-POST-LIST:END -->
 
