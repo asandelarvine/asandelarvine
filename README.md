@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Component-Based Templates with JinjaX](https://dev.to/stokry/embracing-component-based-templates-with-jinjax-2gjf)
-- [Abnormal Y-axis display in the area chart of vchart library, where lower values appear higher](https://dev.to/da730/abnormal-y-axis-display-in-the-area-chart-of-vchart-library-where-lower-values-appear-higher-2ij3)
-- [Mastering Payment App Testing: Key Features &amp; Best Practices for Seamless Transactions](https://dev.to/grjoeay/mastering-payment-app-testing-key-features-best-practices-for-seamless-transactions-563e)
-- [Types of equi-joins](https://dev.to/esproc_spl/types-of-equi-joins-2k5d)
+- [Empowering Food Delivery Ventures with Open Source](https://dev.to/veena10/empowering-food-delivery-ventures-with-open-source-pf1)
+- [2024 Guide: Advanced Backup Strategies for Nutanix to Protect Your Data](https://dev.to/chowter0033/2024-guide-advanced-backup-strategies-for-nutanix-to-protect-your-data-296i)
+- [The Ultimate Angular Cheat Sheet for Developers](https://dev.to/dipakahirav/the-ultimate-angular-cheat-sheet-for-developers-44oi)
+- [Implement React v18 from Scratch Using WASM and Rust - [8] Support Hooks](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-8-support-hooks-16fo)
 <!-- BLOG-POST-LIST:END -->
 
