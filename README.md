@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Citizen Development Fail on the Power Platform](https://dev.to/wyattdave/did-citizen-development-fail-on-the-power-platform-4p0c)
-- [Why etcd is matter in Kubernetes](https://dev.to/u2633/why-etcd-is-matter-in-kubernetes-48cn)
-- [A Step-by-Step Guide to Installing and Publishing Your React Native Project](https://dev.to/epakconsultant/a-step-by-step-guide-to-installing-and-publishing-your-react-native-project-4051)
-- [Stay Informed: Using Flight Trackers for Real-Time Updates](https://dev.to/jp5806632/stay-informed-using-flight-trackers-for-real-time-updates-3nhl)
+- [Embracing Component-Based Templates with JinjaX](https://dev.to/stokry/embracing-component-based-templates-with-jinjax-2gjf)
+- [Abnormal Y-axis display in the area chart of vchart library, where lower values appear higher](https://dev.to/da730/abnormal-y-axis-display-in-the-area-chart-of-vchart-library-where-lower-values-appear-higher-2ij3)
+- [Mastering Payment App Testing: Key Features &amp; Best Practices for Seamless Transactions](https://dev.to/grjoeay/mastering-payment-app-testing-key-features-best-practices-for-seamless-transactions-563e)
+- [Types of equi-joins](https://dev.to/esproc_spl/types-of-equi-joins-2k5d)
 <!-- BLOG-POST-LIST:END -->
 
