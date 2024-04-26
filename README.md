@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Version Control: Git Basics](https://dev.to/apidna/version-control-git-basics-4n97)
-- [Scraping Tables from a Website Using Google Sheets, Python, or R](https://dev.to/crawlbase/scraping-tables-from-a-website-using-google-sheets-python-or-r-52f5)
-- [Installing Erlang With VFOX](https://dev.to/yeshan333/installing-erlang-with-vfox-7ml)
-- [Getting Rid of the Bad Seeds: A Quick Intro to Seed Rejection in Human+AI Teams](https://dev.to/voxel51/getting-rid-of-the-bad-seeds-a-quick-intro-to-seed-rejection-in-humanai-teams-2gkc)
+- [** Buscando a Nemo: Una analogía entre las variables en programación y la travesía del pez payaso **🐠](https://dev.to/orlidev/-buscando-a-nemo-una-analogia-entre-las-variables-en-programacion-y-la-travesia-del-pez-payaso--g9n)
+- [Demystifying the Spring Framework: A Beginner&#39;s Guide](https://dev.to/vishalwaje/demystifying-the-spring-framework-a-beginners-guide-3h63)
+- [I reduced to just 2 steps the deployment of a LAMP stack + Laravel app using Bash Shell Scripting, Vagrant, and Ansible.](https://dev.to/allwelldotdev/i-reduced-to-just-2-steps-the-deployment-of-a-lamp-stack-laravel-app-using-bash-shell-scripting-vagrant-and-ansible-24cl)
+- [How to get paid on the Amazon Appstore](https://dev.to/amazonappdev/how-to-get-paid-on-the-amazon-appstore-23m7)
 <!-- BLOG-POST-LIST:END -->
 
