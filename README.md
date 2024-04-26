@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OTEL Tracing demo with AWS X-Ray and Grafana](https://dev.to/aws-builders/tracing-demo-with-aws-x-ray-and-grafana-1pb5)
-- [The Single Responsibility Principle: Lessons from React and Factorio for Clean Design and Data Flow Management](https://dev.to/xenmars/the-single-responsibility-principle-lessons-from-react-and-factorio-for-clean-design-and-data-flow-management-2mol)
-- [The Evolution of AI Architecture: From Simple Single Tier to Complex Multi-tier Architectures](https://dev.to/myexamcloud/the-evolution-of-ai-architecture-from-simple-single-tier-to-complex-multi-tier-architectures-4m8l)
-- [How to Easily Open the Postman Console for Beginners](https://dev.to/satokenta/how-to-easily-open-the-postman-console-for-beginners-n4k)
+- [Task 14](https://dev.to/subash129/task-14-56k4)
+- [Hidden Figures: disguising images from machines](https://dev.to/ruthmoog/hidden-figures-disguising-images-from-machines-4bpo)
+- [A telltale Sign of An Inexperienced Programmer](https://dev.to/annoh_karlgusta/a-telltale-sign-of-an-inexperienced-programmer-1a0k)
+- [Optimizing Game Performance: Essential Techniques and Tools](https://dev.to/konstantinusachev/optimizing-game-performance-essential-techniques-and-tools-5mh)
 <!-- BLOG-POST-LIST:END -->
 
