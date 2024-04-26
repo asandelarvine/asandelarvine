@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Food Delivery Ventures with Open Source](https://dev.to/veena10/empowering-food-delivery-ventures-with-open-source-pf1)
-- [2024 Guide: Advanced Backup Strategies for Nutanix to Protect Your Data](https://dev.to/chowter0033/2024-guide-advanced-backup-strategies-for-nutanix-to-protect-your-data-296i)
-- [The Ultimate Angular Cheat Sheet for Developers](https://dev.to/dipakahirav/the-ultimate-angular-cheat-sheet-for-developers-44oi)
-- [Implement React v18 from Scratch Using WASM and Rust - [8] Support Hooks](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-8-support-hooks-16fo)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2h56)
+- [Why AI is failing at giving good advice](https://dev.to/mxmzb/why-ai-is-failing-at-giving-good-advice-4cd9)
+- [E2E Testing with ExpressoTS and SuperTest](https://dev.to/expressots/e2e-testing-with-expressots-and-supertest-4088)
+- [Unveiling the Crucial Role of Requirement Gathering in Software Development](https://dev.to/williamdk/unveiling-the-crucial-role-of-requirement-gathering-in-software-development-537e)
 <!-- BLOG-POST-LIST:END -->
 
