@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeT&#39;s CoNtRoL YoU tO HeLp Me](https://dev.to/bilalboultif/lets-control-you-to-help-me-ha5)
-- [Open Source Software Facts Ignition Lovers Get Wrong](https://dev.to/opensourceadvocate/open-source-software-facts-ignition-lovers-get-wrong-1gap)
-- [tsx+wat=? A new idea for wasm modularization](https://dev.to/ahaoboy/tsxwat-a-new-idea-for-wasm-modularization-47b6)
-- [First impressions: GPU + GCP Batch](https://dev.to/dchaley/first-impressions-gpu-gcp-batch-4a3)
+- [Maximum Number of Vowels in a Substring of Given Length | LeetCode | Java](https://dev.to/tanujav/maximum-number-of-vowels-in-a-substring-of-given-length-leetcode-java-3gii)
+- [How to Generate QR Codes in Laravel 11](https://dev.to/mktheitguy/how-to-generate-qr-codes-in-laravel-11-40ce)
+- [DO YOU KNOW HOW BIG IS GPT-4?](https://dev.to/jay111/do-you-know-how-big-is-gpt-4-48a5)
+- [Practical Experiments for Optimizing Django query with the power of SQL joins](https://dev.to/wewake-dev/practical-experiments-for-optimizing-django-query-with-the-power-of-sql-joins-215d)
 <!-- BLOG-POST-LIST:END -->
 
