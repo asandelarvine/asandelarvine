@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing CodeCraft: Your Ultimate Tech Companion for Coding and Problem-Solving](https://dev.to/blaze_26/introducing-codecraft-your-ultimate-tech-companion-for-coding-and-problem-solving-434l)
-- [The ServBay 1.3.3 Update Gives You Early Access to PHP 8.4. And Node.js 22](https://dev.to/servbay/the-servbay-133-update-gives-you-early-access-to-php-84-and-nodejs-22-3aph)
-- [Lucky like a 7 — Seven SymfonyCasts Courses to Master Symfony 7](https://dev.to/reubenwalker64/lucky-like-a-7-seven-symfonycasts-courses-to-master-symfony-7-143j)
-- [Authorization and Amazon Verified Permissions - A New Way to Manage Permissions Part XV: AVP with Cognito groups](https://dev.to/aws-heroes/authorization-and-amazon-verified-permissions-a-new-way-to-manage-permissions-part-xv-avp-with-cognito-groups-4gjm)
+- [Bitcoin Whitepaper but easier](https://dev.to/nairsreya/bitcoin-whitepaper-but-easier-58pf)
+- [How to Print to Browser Console from Razor View Page in ASP.NET MVC](https://dev.to/shekhartarare/how-to-print-to-browser-console-from-razor-view-page-in-aspnet-mvc-531)
+- [Learning AWS Day by Day — Day 48 — Amazon DynamoDB — Part 4](https://dev.to/rksalo88/learning-aws-day-by-day-day-48-amazon-dynamodb-part-4-32a3)
+- [[Self-Study] Microsoft Azure - Describe the benefits of using cloud services Module](https://dev.to/theasea/self-study-microsoft-azure-describe-the-benefits-of-using-cloud-services-module-49f6)
 <!-- BLOG-POST-LIST:END -->
 
