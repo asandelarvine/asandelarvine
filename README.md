@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WHAT TECHNOLOGIES DO BIG COMPANIES USE 🤔 PART 2](https://dev.to/mince/what-technologies-do-big-companies-use-part-2-4o8d)
-- [Install mutiple Erlang and Elixir with vfox](https://dev.to/yeshan333/install-mutiple-erlang-and-elixir-with-vfox-57ii)
-- [Level Up Your Projects with GitHub Actions &amp; CI/CD](https://dev.to/tjtanjin/level-up-your-projects-with-github-actions-cicd-2lnh)
-- [What’s New in React 19? React Canaries, Actions, and React Compiler](https://dev.to/awaiszafar14/whats-new-in-react-19-react-canaries-actions-and-react-compiler-4k59)
+- [Chartty &lpar;Your all-in-one data visualizer&rpar;](https://dev.to/sarahokolo/chartty-your-all-in-one-data-visualizer-2o38)
+- [Emerging Technologies in Mobile App Development: What&#39;s Next?](https://dev.to/robertadler/emerging-technologies-in-mobile-app-development-whats-next-4g6h)
+- [Typescript type grouping a union type of objects by any property discriminating these objects.](https://dev.to/fredleroy/typescript-cheat-sheet-3nm4)
+- [Can AI like Devin or Chatgpt replace human software developers?](https://dev.to/codegirl0101/can-ai-like-devin-or-chatgpt-replace-human-software-developers-3gb5)
 <!-- BLOG-POST-LIST:END -->
 
