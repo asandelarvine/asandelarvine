@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth Day Celebration &quot;CSS only - NO JavaScript](https://dev.to/hanyhosny1/earth-day-celebration-css-only-no-javascript-3ol)
-- [What Does Industrial Automation and IIoT Need? RICO Charges](https://dev.to/opensourceadvocate/what-does-industrial-automation-and-iiot-need-rico-charges-220i)
-- [A smaller YugabyteDB image for CI/CD](https://dev.to/yugabyte/a-smaller-yugabytedb-image-for-cicd-1ig3)
-- [C in CRUD in Plang language](https://dev.to/ingigauti/c-in-crud-in-plang-language-3p61)
+- [The Efficiency Paradox](https://dev.to/opensourceadvocate/the-efficiency-paradox-4heo)
+- [Free Tailwind CSS Landing Page](https://dev.to/mikevarenek/free-tailwind-css-landing-page-4hk3)
+- [Measurements with MetricKit](https://dev.to/mtmorozov/measurements-with-metrickit-4239)
+- [Code Limit - Your Refactoring Alarm](https://dev.to/robvanderleek/code-limit-your-refactoring-alarm-44ha)
 <!-- BLOG-POST-LIST:END -->
 
