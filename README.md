@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chartty &lpar;Your all-in-one data visualizer&rpar;](https://dev.to/sarahokolo/chartty-your-all-in-one-data-visualizer-2o38)
-- [Emerging Technologies in Mobile App Development: What&#39;s Next?](https://dev.to/robertadler/emerging-technologies-in-mobile-app-development-whats-next-4g6h)
-- [Typescript type grouping a union type of objects by any property discriminating these objects.](https://dev.to/fredleroy/typescript-cheat-sheet-3nm4)
-- [Can AI like Devin or Chatgpt replace human software developers?](https://dev.to/codegirl0101/can-ai-like-devin-or-chatgpt-replace-human-software-developers-3gb5)
+- [Leetcode - Weekly Contest #395](https://dev.to/arthurrio/leetcode-weekly-contest-395-3jg1)
+- [Exploring the Future of Gaming: The Rise of Cloud Gaming Technology](https://dev.to/rahmanarain/exploring-the-future-of-gaming-the-rise-of-cloud-gaming-technology-bpf)
+- [My New FlutterFlow &lpar;No Code APP Dev&rpar; YT Tutorial Channel](https://dev.to/anze90/my-new-flutterflow-no-code-app-dev-yt-tutorial-channel-1ne3)
+- [Getting Started with Next.js: Part 1 - Setting Up Your Project](https://dev.to/dipakahirav/getting-started-with-nextjs-part-1-setting-up-your-project-1jjg)
 <!-- BLOG-POST-LIST:END -->
 
