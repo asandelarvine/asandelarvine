@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximum Number of Vowels in a Substring of Given Length | LeetCode | Java](https://dev.to/tanujav/maximum-number-of-vowels-in-a-substring-of-given-length-leetcode-java-3gii)
-- [How to Generate QR Codes in Laravel 11](https://dev.to/mktheitguy/how-to-generate-qr-codes-in-laravel-11-40ce)
-- [DO YOU KNOW HOW BIG IS GPT-4?](https://dev.to/jay111/do-you-know-how-big-is-gpt-4-48a5)
-- [Practical Experiments for Optimizing Django query with the power of SQL joins](https://dev.to/wewake-dev/practical-experiments-for-optimizing-django-query-with-the-power-of-sql-joins-215d)
+- [I MADE DEV COMMUNITY LOGO WHICH WAS VERY EASY](https://dev.to/dino2328/i-made-dev-community-logo-which-was-very-easy-3bpn)
+- [12 Factor: 13 years later](https://dev.to/tbeijen/12-factor-13-years-later-4k3o)
+- [Crafting a Dynamic Angular Schema for Streamlined Template Elements](https://dev.to/epakconsultant/crafting-a-dynamic-angular-schema-for-streamlined-template-elements-2igl)
+- [DISCUSSION: YOUR FAVOURITE CODING YOUTUBER](https://dev.to/dino2328/discussion-your-favourite-coding-youtuber-1ha9)
 <!-- BLOG-POST-LIST:END -->
 
