@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance the drag and drop of your Vue 3 application with Vue Fluid DnD](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
-- [A Techy&#39;s Journey with Postman](https://dev.to/adityaiiitr2062/a-techys-journey-with-postman-anc)
-- [Earth Day &amp; Problems Celebration](https://dev.to/sergo/earth-day-problems-celebration-28no)
-- [SolidJS use:validation directive](https://dev.to/sylvaindethier/solidjs-usevalidation-directive-2fok)
+- [Earth Day Celebration &quot;CSS only - NO JavaScript](https://dev.to/hanyhosny1/earth-day-celebration-css-only-no-javascript-3ol)
+- [What Does Industrial Automation and IIoT Need? RICO Charges](https://dev.to/opensourceadvocate/what-does-industrial-automation-and-iiot-need-rico-charges-220i)
+- [A smaller YugabyteDB image for CI/CD](https://dev.to/yugabyte/a-smaller-yugabytedb-image-for-cicd-1ig3)
+- [C in CRUD in Plang language](https://dev.to/ingigauti/c-in-crud-in-plang-language-3p61)
 <!-- BLOG-POST-LIST:END -->
 
