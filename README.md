@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerization and Orchestration: The New Normal for Backend Development](https://dev.to/shivankshuklaa/containerization-and-orchestration-the-new-normal-for-backend-development-3n1l)
-- [Provisioning Ansible on Ubuntu with Vagrant and Virtual box](https://dev.to/audu97/provisioning-ansible-on-ubuntu-with-vagrant-and-virtual-box-4bjj)
-- [Basic NodeJs Sample code](https://dev.to/dangeorge35/basic-nodejs-sample-code-36e7)
-- [Router, pages, layouts and async data in TiniJS apps](https://dev.to/lamnhan/router-pages-layouts-and-async-data-in-tinijs-apps-3899)
+- [Ansible Basics: Your First HelloWorld Playbook 🚀](https://dev.to/tungbq/ansible-basics-your-first-helloworld-playbook-3k6c)
+- [Testing Techniques](https://dev.to/1234/testing-techniques-1p6a)
+- [Software Testing](https://dev.to/1234/software-testing-34h)
+- [react-native-awesome-template: A React Native starter template to have a better product and development experience](https://dev.to/mhp23/react-native-awesome-template-a-react-native-starter-template-to-have-a-better-product-and-development-experience-5ge6)
 <!-- BLOG-POST-LIST:END -->
 
