@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My last weeks GitHub contributions](https://dev.to/ccoveille/my-last-weeks-github-contributions-2g6)
-- [Day 28/366](https://dev.to/vishalmx3/day-28366-1f50)
-- [How to Make a VS Code Extension Using TypeScript: A Step-by-Step Guide](https://dev.to/fabrikapp/how-to-make-a-vs-code-extension-using-typescript-a-step-by-step-guide-1hp6)
-- [HackTheBox - Writeup Devvortex [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-devvortex-retired-1d42)
+- [Introducing CodeCraft: Your Ultimate Tech Companion for Coding and Problem-Solving](https://dev.to/blaze_26/introducing-codecraft-your-ultimate-tech-companion-for-coding-and-problem-solving-434l)
+- [The ServBay 1.3.3 Update Gives You Early Access to PHP 8.4. And Node.js 22](https://dev.to/servbay/the-servbay-133-update-gives-you-early-access-to-php-84-and-nodejs-22-3aph)
+- [Lucky like a 7 — Seven SymfonyCasts Courses to Master Symfony 7](https://dev.to/reubenwalker64/lucky-like-a-7-seven-symfonycasts-courses-to-master-symfony-7-143j)
+- [Authorization and Amazon Verified Permissions - A New Way to Manage Permissions Part XV: AVP with Cognito groups](https://dev.to/aws-heroes/authorization-and-amazon-verified-permissions-a-new-way-to-manage-permissions-part-xv-avp-with-cognito-groups-4gjm)
 <!-- BLOG-POST-LIST:END -->
 
