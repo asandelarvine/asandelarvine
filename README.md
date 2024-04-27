@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get the verified badge on GitHub with SSH key signing](https://dev.to/ccoveille/how-to-get-the-verified-badge-on-github-with-ssh-key-signing-3kbe)
-- [My AWS DevOps Engineer Professional Study Guide](https://dev.to/aws-builders/my-aws-devops-engineer-professional-study-guide-1p6c)
-- [Iterative Contract Testing](https://dev.to/cadienvan/iterative-contract-testing-2gii)
-- [Functions in JavaScript: A Comprehensive Guide](https://dev.to/sadanandgadwal/functions-in-javascript-a-comprehensive-guide-40d6)
+- [The Real Future of Open Source Technology](https://dev.to/opensourceadvocate/the-real-future-of-open-source-technology-g8o)
+- [6 Months Anniversary on DEV! 🎊](https://dev.to/anitaolsen/6-months-anniversary-on-dev-de7)
+- [🔍 React 19 Beta: A Glimpse into the Future](https://dev.to/anuparashar0507/react-19-beta-a-glimpse-into-the-future-19lp)
+- [Code is craftsmanship](https://dev.to/buildwebcrumbs/code-is-craftsmanship-1mb9)
 <!-- BLOG-POST-LIST:END -->
 
