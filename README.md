@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Custom React hooks in NextJS?](https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo)
-- [Discover the 5 Exciting New Features Unveiled in ReactJS 19 Beta](https://dev.to/nilanth/discover-the-5-exciting-new-features-unveiled-in-reactjs-19-beta-3a92)
-- [Mastering Java Development in Visual Studio Code](https://dev.to/gufvr/mastering-java-development-in-visual-studio-code-4jl6)
-- [How to show progress while downloading data in node.js](https://dev.to/sammaji15/how-to-show-progress-while-downloading-data-in-nodejs-5424)
+- [What Are Your C# Strategies?](https://dev.to/devteam/what-are-your-c-strategies-41o2)
+- [Bridging the Gap: Basic Design Principles for Developers](https://dev.to/thejoernal/bridging-the-gap-basic-design-principles-for-developers-ipg)
+- [What was your win this week?](https://dev.to/gaael-dev/what-was-your-win-this-week-3772)
+- [Mastering GitHub: Cheatsheets, Commands, and Interview Prep](https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9)
 <!-- BLOG-POST-LIST:END -->
 
