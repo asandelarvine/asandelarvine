@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Whitepaper but easier](https://dev.to/nairsreya/bitcoin-whitepaper-but-easier-58pf)
-- [How to Print to Browser Console from Razor View Page in ASP.NET MVC](https://dev.to/shekhartarare/how-to-print-to-browser-console-from-razor-view-page-in-aspnet-mvc-531)
-- [Learning AWS Day by Day — Day 48 — Amazon DynamoDB — Part 4](https://dev.to/rksalo88/learning-aws-day-by-day-day-48-amazon-dynamodb-part-4-32a3)
-- [[Self-Study] Microsoft Azure - Describe the benefits of using cloud services Module](https://dev.to/theasea/self-study-microsoft-azure-describe-the-benefits-of-using-cloud-services-module-49f6)
+- [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-p9k)
+- [10 Essential JavaScript Snippets Every Developer Should Know](https://dev.to/davidomisakin/10-essential-javascript-snippets-every-developer-should-know-465l)
+- [TweetGagger Plugin: getLikes, getRetweets, getReplies](https://dev.to/sojinsamuel/tweetgagger-plugin-getlikes-getretweets-getreplies-544f)
+- [A Comprehensive Guide to HTML for Beginners](https://dev.to/debtech/a-comprehensive-guide-to-html-for-beginners-pbl)
 <!-- BLOG-POST-LIST:END -->
 
