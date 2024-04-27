@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Basics: Your First HelloWorld Playbook 🚀](https://dev.to/tungbq/ansible-basics-your-first-helloworld-playbook-3k6c)
-- [Testing Techniques](https://dev.to/1234/testing-techniques-1p6a)
-- [Software Testing](https://dev.to/1234/software-testing-34h)
-- [react-native-awesome-template: A React Native starter template to have a better product and development experience](https://dev.to/mhp23/react-native-awesome-template-a-react-native-starter-template-to-have-a-better-product-and-development-experience-5ge6)
+- [WHAT TECHNOLOGIES DO BIG COMPANIES USE 🤔 PART 2](https://dev.to/mince/what-technologies-do-big-companies-use-part-2-4o8d)
+- [Install mutiple Erlang and Elixir with vfox](https://dev.to/yeshan333/install-mutiple-erlang-and-elixir-with-vfox-57ii)
+- [Level Up Your Projects with GitHub Actions &amp; CI/CD](https://dev.to/tjtanjin/level-up-your-projects-with-github-actions-cicd-2lnh)
+- [What’s New in React 19? React Canaries, Actions, and React Compiler](https://dev.to/awaiszafar14/whats-new-in-react-19-react-canaries-actions-and-react-compiler-4k59)
 <!-- BLOG-POST-LIST:END -->
 
