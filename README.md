@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I MADE DEV COMMUNITY LOGO WHICH WAS VERY EASY](https://dev.to/dino2328/i-made-dev-community-logo-which-was-very-easy-3bpn)
-- [12 Factor: 13 years later](https://dev.to/tbeijen/12-factor-13-years-later-4k3o)
-- [Crafting a Dynamic Angular Schema for Streamlined Template Elements](https://dev.to/epakconsultant/crafting-a-dynamic-angular-schema-for-streamlined-template-elements-2igl)
-- [DISCUSSION: YOUR FAVOURITE CODING YOUTUBER](https://dev.to/dino2328/discussion-your-favourite-coding-youtuber-1ha9)
+- [Using Custom React hooks in NextJS?](https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo)
+- [Discover the 5 Exciting New Features Unveiled in ReactJS 19 Beta](https://dev.to/nilanth/discover-the-5-exciting-new-features-unveiled-in-reactjs-19-beta-3a92)
+- [Mastering Java Development in Visual Studio Code](https://dev.to/gufvr/mastering-java-development-in-visual-studio-code-4jl6)
+- [How to show progress while downloading data in node.js](https://dev.to/sammaji15/how-to-show-progress-while-downloading-data-in-nodejs-5424)
 <!-- BLOG-POST-LIST:END -->
 
