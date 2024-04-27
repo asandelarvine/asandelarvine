@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Randomly Picks a Giveaway Winner on Twitter &lpar;Oops X&rpar;](https://dev.to/sojinsamuel/randomly-picks-a-giveaway-winner-on-twitter-oops-x-10m9)
-- [How to merge K sorted linked list and return a sorted linked list in the end](https://dev.to/gursimrat_17/how-to-merge-k-sorted-linked-list-and-return-a-sorted-linked-list-in-the-end-ppp)
-- [[GameDev][Unity3D] Using URP 2D and SpriteMask](https://dev.to/falme/gamedevunity3d-using-urp-2d-and-spritemask-3bkn)
-- [Security news weekly round-up - 26th April 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-april-2024-2do3)
+- [What is react-query? Why should we use react-query?](https://dev.to/chauhoangminhnguyen/what-is-react-query-why-should-we-use-react-query-2dg7)
+- [How to interact with Stripe&#39;s iframes using WebdriverIO](https://dev.to/mauro_laurenzi/how-to-interact-with-stripes-iframes-using-webdriverio-568k)
+- [AWS Intra-Region VPC Peering: Conectando VPCs en la Misma Región con Terraform](https://dev.to/francotel/aws-intra-region-vpc-peering-conectando-vpcs-en-la-misma-region-con-terraform-1bak)
+- [Random way of making a console snake by a random 👍️😃](https://dev.to/jdi/random-way-of-making-a-console-snake-by-a-random-3h6b)
 <!-- BLOG-POST-LIST:END -->
 
