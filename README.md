@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-p9k)
-- [10 Essential JavaScript Snippets Every Developer Should Know](https://dev.to/davidomisakin/10-essential-javascript-snippets-every-developer-should-know-465l)
-- [TweetGagger Plugin: getLikes, getRetweets, getReplies](https://dev.to/sojinsamuel/tweetgagger-plugin-getlikes-getretweets-getreplies-544f)
-- [A Comprehensive Guide to HTML for Beginners](https://dev.to/debtech/a-comprehensive-guide-to-html-for-beginners-pbl)
+- [Enhance the drag and drop of your Vue 3 application with Vue Fluid DnD](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
+- [A Techy&#39;s Journey with Postman](https://dev.to/adityaiiitr2062/a-techys-journey-with-postman-anc)
+- [Earth Day &amp; Problems Celebration](https://dev.to/sergo/earth-day-problems-celebration-28no)
+- [SolidJS use:validation directive](https://dev.to/sylvaindethier/solidjs-usevalidation-directive-2fok)
 <!-- BLOG-POST-LIST:END -->
 
