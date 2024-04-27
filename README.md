@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfólio para desenvolvedoras](https://dev.to/anamaria/portfolio-para-desenvolvedoras-13k3)
-- [Single Responsibility Principle](https://dev.to/codexam/single-responsibility-principle-1ahf)
-- [Mastering UI Consistency: Elevate Your Application&#39;s User Experience](https://dev.to/leoneloliver/mastering-ui-consistency-elevate-your-applications-user-experience-5fni)
-- [Connecting SQLite Database in Java](https://dev.to/prabeshstha/connecting-sqlite-database-in-java-135)
+- [LeT&#39;s CoNtRoL YoU tO HeLp Me](https://dev.to/bilalboultif/lets-control-you-to-help-me-ha5)
+- [Open Source Software Facts Ignition Lovers Get Wrong](https://dev.to/opensourceadvocate/open-source-software-facts-ignition-lovers-get-wrong-1gap)
+- [tsx+wat=? A new idea for wasm modularization](https://dev.to/ahaoboy/tsxwat-a-new-idea-for-wasm-modularization-47b6)
+- [First impressions: GPU + GCP Batch](https://dev.to/dchaley/first-impressions-gpu-gcp-batch-4a3)
 <!-- BLOG-POST-LIST:END -->
 
