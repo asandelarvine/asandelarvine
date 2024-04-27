@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Efficiency Paradox](https://dev.to/opensourceadvocate/the-efficiency-paradox-4heo)
-- [Free Tailwind CSS Landing Page](https://dev.to/mikevarenek/free-tailwind-css-landing-page-4hk3)
-- [Measurements with MetricKit](https://dev.to/mtmorozov/measurements-with-metrickit-4239)
-- [Code Limit - Your Refactoring Alarm](https://dev.to/robvanderleek/code-limit-your-refactoring-alarm-44ha)
+- [Arduino, GPS based Heliostat, Suntracker](https://dev.to/lionelmarco/arduino-gps-based-heliostat-suntracker-45mo)
+- [Need for Speed: nextjs drift](https://dev.to/ishar19/need-for-speed-nextjs-drift-4c57)
+- [Unraveling the Mysteries of Sockets, Files, and Streams in Java](https://dev.to/dbillion/unraveling-the-mysteries-of-sockets-files-and-streams-in-java-44i)
+- [What Is Digital Transformation?](https://dev.to/opensourceadvocate/what-is-digital-transformation-4j32)
 <!-- BLOG-POST-LIST:END -->
 
