@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Future of Open Source Technology](https://dev.to/opensourceadvocate/the-real-future-of-open-source-technology-g8o)
-- [6 Months Anniversary on DEV! 🎊](https://dev.to/anitaolsen/6-months-anniversary-on-dev-de7)
-- [🔍 React 19 Beta: A Glimpse into the Future](https://dev.to/anuparashar0507/react-19-beta-a-glimpse-into-the-future-19lp)
-- [Code is craftsmanship](https://dev.to/buildwebcrumbs/code-is-craftsmanship-1mb9)
+- [Library for Machine learning and quantum computing](https://dev.to/doraking/library-for-machine-learning-and-quantum-computing-5c1o)
+- [Personal Introduction and Collection of Suggestions for a New Web Developer/Programmer](https://dev.to/tobiaslanzic/personal-introduction-and-collection-of-suggestions-for-a-new-web-developerprogrammer-3mg3)
+- [Variadic Functions in C](https://dev.to/pauljlucas/variadic-functions-in-c-53ml)
+- [Pandas reset_index&lpar;&rpar;: How To Reset Indexes in Pandas](https://dev.to/federicotrotta/pandas-resetindex-how-to-reset-indexes-in-pandas-475b)
 <!-- BLOG-POST-LIST:END -->
 
