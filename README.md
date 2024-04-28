@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [spring JPA entities: cheat sheet](https://dev.to/ashleyd480/spring-jpa-entities-cheat-sheet-bbe)
-- [What Is Google Baseline and Its Impact?](https://dev.to/dainemawer/what-is-google-baseline-and-its-impact-3cmh)
-- [Landing page](https://dev.to/jsha/landing-page-5a59)
-- [Counting Even Numbers in an Array using JavaScript](https://dev.to/ticha/counting-even-numbers-in-an-array-using-javascript-nke)
+- [What are LLMs? An intro into AI, models, tokens, parameters, weights, quantization and more](https://dev.to/koyeb/what-are-llms-an-intro-into-ai-models-tokens-parameters-weights-quantization-and-more-31ih)
+- [My fist challenge](https://dev.to/neppersac/my-fist-challenge-364o)
+- [Job Finder Bot - Finds Jobs, Saves Applied Jobs and Sends weekly new jobs post](https://dev.to/jasmin/job-finder-bot-finds-jobs-saves-applied-jobs-and-sends-weekly-new-jobs-post-4bgd)
+- [Session in PHP with an example](https://dev.to/ncutixavier/session-in-php-with-an-example-263j)
 <!-- BLOG-POST-LIST:END -->
 
