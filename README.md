@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Identify and fix bundle npm duplicate dependencies](https://dev.to/relative-ci/identify-and-fix-bundle-npm-duplicate-dependencies-28nj)
-- [Landing Page for Earth Day Celebration](https://dev.to/bearv5/landing-page-for-earth-day-celebration-43gb)
-- [Turn FHIR Dosage into human readable text in your wanted language and much more with fhir-dosage-utils](https://dev.to/jy95/turn-fhir-dosage-into-human-readable-text-in-your-wanted-language-and-much-more-with-fhir-dosage-utils-d89)
-- [Creating Scroll Animations Using ScrollReveal](https://dev.to/symplymuslimah12/creating-scroll-animations-using-scrollreveal-43jp)
+- [Building a Skin Care Assistant with Lyzr Automata](https://dev.to/akshay007/building-a-skin-care-assistant-with-lyzr-automata-lg1)
+- [Earth Day Celebration](https://dev.to/uzondu9/earth-day-celebration-4le9)
+- [Vue reactivity for impatient devs](https://dev.to/danielrasho/vue-reactivity-for-impatient-devs-1k9)
+- [Ink for Game Design](https://dev.to/goldenxp/ink-for-game-design-2e6d)
 <!-- BLOG-POST-LIST:END -->
 
