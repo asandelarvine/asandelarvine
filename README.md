@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bot Innovator: Converting images with Image Wizard AI Assistant](https://dev.to/gabrielsenadev/bot-innovator-converting-images-with-image-wizard-ai-assistant-5fp5)
-- [New here ,](https://dev.to/darshil89/new-here--10p9)
-- [Convert hex to base64](https://dev.to/stefanalfbo/convert-hex-to-base64-5gbe)
-- [Setting up handlers with the Repository Pattern: A Test-driven approach in Go.](https://dev.to/orololuwa/setting-up-handlers-with-the-repository-pattern-a-test-driven-approach-in-go-c89)
+- [spring JPA entities: cheat sheet](https://dev.to/ashleyd480/spring-jpa-entities-cheat-sheet-bbe)
+- [What Is Google Baseline and Its Impact?](https://dev.to/dainemawer/what-is-google-baseline-and-its-impact-3cmh)
+- [Landing page](https://dev.to/jsha/landing-page-5a59)
+- [Counting Even Numbers in an Array using JavaScript](https://dev.to/ticha/counting-even-numbers-in-an-array-using-javascript-nke)
 <!-- BLOG-POST-LIST:END -->
 
