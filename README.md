@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Git: The Basics You Need to Know – Part 1](https://dev.to/dipakahirav/introduction-to-git-the-basics-you-need-to-know-part-1-4ena)
-- [Insights Into Go Logging](https://dev.to/sumuduliyanage/insights-into-go-logging-2egh)
-- [Implementing Flutter Barcode Scanner with Kotlin and CameraX for Android](https://dev.to/yushulx/implementing-flutter-barcode-scanner-with-kotlin-and-camerax-for-android-430a)
-- [CSS Art: Earth Day 2024](https://dev.to/barryels/css-art-earth-day-2024-3epk)
+- [Data Structures: A Comprehensive Introduction](https://dev.to/m__mdy__m/data-structures-a-comprehensive-introduction-2o13)
+- [Starting Small: A Beginner&#39;s Diary](https://dev.to/dincz/starting-small-a-beginners-diary-2jpn)
+- [Build a Calculator using HTML and JavaScript: A Hands-On Guide](https://dev.to/abelroy/build-a-calculator-using-html-and-javascript-a-hands-on-guide-1olc)
+- [Crack the Code Like Caesar: Build Your Own Secret Message Encrypter! [Python code included]](https://dev.to/leroyleow/crack-the-code-like-caesar-build-your-own-secret-message-encrypter-python-code-included-4pmm)
 <!-- BLOG-POST-LIST:END -->
 
