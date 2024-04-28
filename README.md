@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculator](https://dev.to/kritanshu/calculator-3019)
-- [Connecting and Collaborating in Open Source: A Beginner&#39;s Guide](https://dev.to/dhruvabhat24/connecting-and-collaborating-in-open-source-a-beginners-guide-14bp)
-- [5 Selected Platforms To Find Web3 Jobs In 2024](https://dev.to/web3mastery/5-selected-platforms-to-find-web3-jobs-in-2024-dmo)
-- [Git Worktree: Your Ticket to Parallel Development Paradise](https://dev.to/meenachan101/git-worktree-your-ticket-to-parallel-development-paradise-3242)
+- [📸🔒GitHub: protect your email from spammers with this GitHub privacy setting](https://dev.to/ccoveille/github-protect-your-email-from-spammers-with-this-github-privacy-setting-14j4)
+- [Demystifying APIs: How They Work](https://dev.to/kernelrb/demystifying-apis-how-they-work-km6)
+- [How to deploy a nestjs back-end from a mono repo on fly.io](https://dev.to/tuzzy08/how-to-deploy-a-nestjs-back-end-from-a-monorepo-on-flyio-12p)
+- [How to Showcase Your Tech Skills in Your Resume](https://dev.to/nettreesolutions/how-to-showcase-your-tech-skills-in-your-resume-4jd0)
 <!-- BLOG-POST-LIST:END -->
 
