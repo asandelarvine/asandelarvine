@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino, GPS based Heliostat, Suntracker](https://dev.to/lionelmarco/arduino-gps-based-heliostat-suntracker-45mo)
-- [Need for Speed: nextjs drift](https://dev.to/ishar19/need-for-speed-nextjs-drift-4c57)
-- [Unraveling the Mysteries of Sockets, Files, and Streams in Java](https://dev.to/dbillion/unraveling-the-mysteries-of-sockets-files-and-streams-in-java-44i)
-- [What Is Digital Transformation?](https://dev.to/opensourceadvocate/what-is-digital-transformation-4j32)
+- [Exploring the V8 JavaScript Engine](https://dev.to/kartikmehta8/exploring-the-v8-javascript-engine-ka)
+- [Whitelisting URL Paths Using Regular Expressions](https://dev.to/afrazkhan/whitelisting-url-paths-using-regular-expressions-4hb7)
+- [Axios 👾](https://dev.to/punk-sama/uma-paradinha-chamada-axios-217n)
+- [And the nominees for “Best Cypress Helper” are: Utility Function, Custom Command, Custom Query, Task, and External Plugin](https://dev.to/sebastianclavijo/and-the-nominees-for-best-cypress-helper-are-utility-function-custom-command-custom-query-task-and-external-plugin-3bb5)
 <!-- BLOG-POST-LIST:END -->
 
