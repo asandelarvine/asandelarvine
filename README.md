@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Pomodoro Timer App using HTML, CSS, and JavaScript](https://dev.to/nooriameer/how-to-create-a-pomodoro-timer-app-using-html-css-and-javascript-51i)
-- [Concurrent Rendering in React ⛽🛣️](https://dev.to/rahmanmajeed/concurrent-rendering-in-react-j1d)
-- [Earth Challenge 🌍 Earth Day !](https://dev.to/kvnbbg/earth-challenge-earth-day--2jge)
-- [GitHub: Create your own repository landscape ⭐️](https://dev.to/tungbq/github-create-your-own-repository-landscape-16i5)
+- [Amazing scroll effects only using CSS ! 😲](https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7)
+- [5 of the Best Free Coding Tutorials Out There](https://dev.to/ahmed_onour/5-of-the-best-free-coding-tutorials-out-there-34ec)
+- [Crafting Your Own React Project: A Step-by-Step Guide for Frontend Developers](https://dev.to/titaniummonk/crafting-your-own-react-project-a-step-by-step-guide-for-frontend-developers-1a0h)
+- [Exploring My Amazon Clone Project: A Journey via HTML and CSS](https://dev.to/paritoshchaudhari/exploring-my-amazon-clone-project-a-journey-via-html-and-css-5fom)
 <!-- BLOG-POST-LIST:END -->
 
