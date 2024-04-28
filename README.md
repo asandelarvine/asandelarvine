@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
-- [Express res.locals Property](https://dev.to/sid555/express-reslocals-property-4afe)
-- [Publish Status Others X Space Recap: Web3 Users’ Crypto Asset Security in the New Asset Protocol Boom](https://dev.to/nft_research/publish-statusothersx-space-recap-web3-users-crypto-asset-security-in-the-new-asset-protocol-boom-382b)
-- [Understanding Angular Component Lifecycles](https://dev.to/avinashvalluru/understanding-angular-component-lifecycles-3c5i)
+- [Bytes of Brilliance: A Hackathon Journey to Eco-Friendly Ecommerce](https://dev.to/sricharan2k3/bytes-of-brilliance-a-hackathon-journey-to-eco-friendly-ecommerce-ld7)
+- [Bytes of Brilliance: A Hackathon Journey to Eco-Friendly Ecommerce](https://dev.to/sricharan2k3/bytes-of-brilliance-a-hackathon-journey-to-eco-friendly-ecommerce-3aam)
+- [React 19: Unleashing New Frontiers in Web Development](https://dev.to/madeelchaudhary/react-19-unleashing-new-frontiers-in-web-development-2a9i)
+- [From JetBrains to VSCode to NVIM: Why I Made the Switch](https://dev.to/sotergreco/from-jetbrains-to-vscode-to-nvim-why-i-made-the-switch-27lk)
 <!-- BLOG-POST-LIST:END -->
 
