@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony Station Communiqué — 26 April, 2024. A look at Symfony, Drupal, PHP, Cybersecurity, and Fediverse news!](https://dev.to/reubenwalker64/symfony-station-communique-26-april-2024-a-look-at-symfony-drupal-php-cybersecurity-and-fediverse-news-3jgd)
-- [How the ego hinders growth in your software engineering career](https://dev.to/raffaeleloi/how-the-ego-hinders-growth-in-your-software-engineering-career-1n4m)
-- [The Importance of JavaScript Obfuscation: Safeguarding Your Code Integrity](https://dev.to/wangliwen/the-importance-of-javascript-obfuscation-safeguarding-your-code-integrity-4k6f)
-- [I made a Earth Day Challenge website that calls for Humanity for Earth](https://dev.to/hasibrashid/i-made-a-earth-day-challenge-website-that-calls-for-humanity-for-earth-ege)
+- [How to protect API Keys in React projects using Gateweaver](https://dev.to/gateweaver/how-to-protect-api-keys-in-react-projects-using-gateweaver-5221)
+- [Welcome To Deepcodr](https://dev.to/deepcodr/welcome-to-deepcodr-1h2d)
+- [HTML - 18. Tugas Invoice Table | iAppTech.id](https://dev.to/appardana/html-18-tugas-invoice-table-iapptechid-18af)
+- [How to connect to a Virtual Machine and install Windows Server](https://dev.to/ajayi/how-to-connect-to-a-virtual-machine-and-install-windows-server-4kl8)
 <!-- BLOG-POST-LIST:END -->
 
