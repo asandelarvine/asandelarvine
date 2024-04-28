@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are LLMs? An intro into AI, models, tokens, parameters, weights, quantization and more](https://dev.to/koyeb/what-are-llms-an-intro-into-ai-models-tokens-parameters-weights-quantization-and-more-31ih)
-- [My fist challenge](https://dev.to/neppersac/my-fist-challenge-364o)
-- [Job Finder Bot - Finds Jobs, Saves Applied Jobs and Sends weekly new jobs post](https://dev.to/jasmin/job-finder-bot-finds-jobs-saves-applied-jobs-and-sends-weekly-new-jobs-post-4bgd)
-- [Session in PHP with an example](https://dev.to/ncutixavier/session-in-php-with-an-example-263j)
+- [5 Best SQL IDEs [EXPERT RANKING]](https://dev.to/domfive/5-best-sql-ides-expert-ranking-55d7)
+- [8 Essential VS Code Extensions [2024]](https://dev.to/evotik/8-essential-vs-code-extensions-2024-12i1)
+- [Starting a bootcamp](https://dev.to/stefandoesfilm/starting-a-bootcamp-hgf)
+- [Construyendo IA responsable con AWS](https://dev.to/bgalicia/construyendo-ia-responsable-con-aws-5497)
 <!-- BLOG-POST-LIST:END -->
 
