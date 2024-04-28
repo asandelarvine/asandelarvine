@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI Superpowers in DevOps: Master Prompt Engineering to Revolutionize Your Workflow!](https://dev.to/apetryla/unlocking-ai-superpowers-in-devops-master-prompt-engineering-to-revolutionize-your-workflow-kl)
-- [Analytics slows your sales down, let&#39;s fix it!](https://dev.to/harshkc/analytics-slows-your-sales-down-lets-fix-it-1k42)
-- [VectorDB in Action: Unleashing the Power of Molecular Biology](https://dev.to/itzserag/vectordb-in-action-unleashing-the-power-of-molecular-biology-3b0m)
-- [Building a Workout Planner App with Lyzr SDK](https://dev.to/akshay007/building-a-workout-planner-app-with-lyzr-sdk-3m3n)
+- [Can Artificial Intelligence Be Trusted With Our Security?](https://dev.to/ibiyeyellowe/can-artificial-intelligence-be-trusted-with-our-security-2mhh)
+- [Glam Up My Markup Submission: Earth Day Celebration](https://dev.to/vivitt/glam-up-my-markup-submission-earth-day-celebration-5gm)
+- [STLC &amp; QC Testing](https://dev.to/mohamed_shajan/stlc-qc-testing-1i2a)
+- [Coze Trailblazer: Adding image processing capability with Image Wizard](https://dev.to/gabrielsenadev/coze-trailblazer-adding-image-processing-capability-with-image-wizard-2hff)
 <!-- BLOG-POST-LIST:END -->
 
