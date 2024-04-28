@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📸🔒GitHub: protect your email from spammers with this GitHub privacy setting](https://dev.to/ccoveille/github-protect-your-email-from-spammers-with-this-github-privacy-setting-14j4)
-- [Demystifying APIs: How They Work](https://dev.to/kernelrb/demystifying-apis-how-they-work-km6)
-- [How to deploy a nestjs back-end from a mono repo on fly.io](https://dev.to/tuzzy08/how-to-deploy-a-nestjs-back-end-from-a-monorepo-on-flyio-12p)
-- [How to Showcase Your Tech Skills in Your Resume](https://dev.to/nettreesolutions/how-to-showcase-your-tech-skills-in-your-resume-4jd0)
+- [Symfony Station Communiqué — 26 April, 2024. A look at Symfony, Drupal, PHP, Cybersecurity, and Fediverse news!](https://dev.to/reubenwalker64/symfony-station-communique-26-april-2024-a-look-at-symfony-drupal-php-cybersecurity-and-fediverse-news-3jgd)
+- [How the ego hinders growth in your software engineering career](https://dev.to/raffaeleloi/how-the-ego-hinders-growth-in-your-software-engineering-career-1n4m)
+- [The Importance of JavaScript Obfuscation: Safeguarding Your Code Integrity](https://dev.to/wangliwen/the-importance-of-javascript-obfuscation-safeguarding-your-code-integrity-4k6f)
+- [I made a Earth Day Challenge website that calls for Humanity for Earth](https://dev.to/hasibrashid/i-made-a-earth-day-challenge-website-that-calls-for-humanity-for-earth-ege)
 <!-- BLOG-POST-LIST:END -->
 
