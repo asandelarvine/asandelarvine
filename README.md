@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to protect API Keys in React projects using Gateweaver](https://dev.to/gateweaver/how-to-protect-api-keys-in-react-projects-using-gateweaver-5221)
-- [Welcome To Deepcodr](https://dev.to/deepcodr/welcome-to-deepcodr-1h2d)
-- [HTML - 18. Tugas Invoice Table | iAppTech.id](https://dev.to/appardana/html-18-tugas-invoice-table-iapptechid-18af)
-- [How to connect to a Virtual Machine and install Windows Server](https://dev.to/ajayi/how-to-connect-to-a-virtual-machine-and-install-windows-server-4kl8)
+- [Identify and fix bundle npm duplicate dependencies](https://dev.to/relative-ci/identify-and-fix-bundle-npm-duplicate-dependencies-28nj)
+- [Landing Page for Earth Day Celebration](https://dev.to/bearv5/landing-page-for-earth-day-celebration-43gb)
+- [Turn FHIR Dosage into human readable text in your wanted language and much more with fhir-dosage-utils](https://dev.to/jy95/turn-fhir-dosage-into-human-readable-text-in-your-wanted-language-and-much-more-with-fhir-dosage-utils-d89)
+- [Creating Scroll Animations Using ScrollReveal](https://dev.to/symplymuslimah12/creating-scroll-animations-using-scrollreveal-43jp)
 <!-- BLOG-POST-LIST:END -->
 
