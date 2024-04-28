@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Artificial Intelligence Be Trusted With Our Security?](https://dev.to/ibiyeyellowe/can-artificial-intelligence-be-trusted-with-our-security-2mhh)
-- [Glam Up My Markup Submission: Earth Day Celebration](https://dev.to/vivitt/glam-up-my-markup-submission-earth-day-celebration-5gm)
-- [STLC &amp; QC Testing](https://dev.to/mohamed_shajan/stlc-qc-testing-1i2a)
-- [Coze Trailblazer: Adding image processing capability with Image Wizard](https://dev.to/gabrielsenadev/coze-trailblazer-adding-image-processing-capability-with-image-wizard-2hff)
+- [Bot Innovator: Converting images with Image Wizard AI Assistant](https://dev.to/gabrielsenadev/bot-innovator-converting-images-with-image-wizard-ai-assistant-5fp5)
+- [New here ,](https://dev.to/darshil89/new-here--10p9)
+- [Convert hex to base64](https://dev.to/stefanalfbo/convert-hex-to-base64-5gbe)
+- [Setting up handlers with the Repository Pattern: A Test-driven approach in Go.](https://dev.to/orololuwa/setting-up-handlers-with-the-repository-pattern-a-test-driven-approach-in-go-c89)
 <!-- BLOG-POST-LIST:END -->
 
