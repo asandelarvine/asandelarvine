@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures: A Comprehensive Introduction](https://dev.to/m__mdy__m/data-structures-a-comprehensive-introduction-2o13)
-- [Starting Small: A Beginner&#39;s Diary](https://dev.to/dincz/starting-small-a-beginners-diary-2jpn)
-- [Build a Calculator using HTML and JavaScript: A Hands-On Guide](https://dev.to/abelroy/build-a-calculator-using-html-and-javascript-a-hands-on-guide-1olc)
-- [Crack the Code Like Caesar: Build Your Own Secret Message Encrypter! [Python code included]](https://dev.to/leroyleow/crack-the-code-like-caesar-build-your-own-secret-message-encrypter-python-code-included-4pmm)
+- [Calculator](https://dev.to/kritanshu/calculator-3019)
+- [Connecting and Collaborating in Open Source: A Beginner&#39;s Guide](https://dev.to/dhruvabhat24/connecting-and-collaborating-in-open-source-a-beginners-guide-14bp)
+- [5 Selected Platforms To Find Web3 Jobs In 2024](https://dev.to/web3mastery/5-selected-platforms-to-find-web3-jobs-in-2024-dmo)
+- [Git Worktree: Your Ticket to Parallel Development Paradise](https://dev.to/meenachan101/git-worktree-your-ticket-to-parallel-development-paradise-3242)
 <!-- BLOG-POST-LIST:END -->
 
