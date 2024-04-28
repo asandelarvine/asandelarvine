@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Skin Care Assistant with Lyzr Automata](https://dev.to/akshay007/building-a-skin-care-assistant-with-lyzr-automata-lg1)
-- [Earth Day Celebration](https://dev.to/uzondu9/earth-day-celebration-4le9)
-- [Vue reactivity for impatient devs](https://dev.to/danielrasho/vue-reactivity-for-impatient-devs-1k9)
-- [Ink for Game Design](https://dev.to/goldenxp/ink-for-game-design-2e6d)
+- [Unlocking AI Superpowers in DevOps: Master Prompt Engineering to Revolutionize Your Workflow!](https://dev.to/apetryla/unlocking-ai-superpowers-in-devops-master-prompt-engineering-to-revolutionize-your-workflow-kl)
+- [Analytics slows your sales down, let&#39;s fix it!](https://dev.to/harshkc/analytics-slows-your-sales-down-lets-fix-it-1k42)
+- [VectorDB in Action: Unleashing the Power of Molecular Biology](https://dev.to/itzserag/vectordb-in-action-unleashing-the-power-of-molecular-biology-3b0m)
+- [Building a Workout Planner App with Lyzr SDK](https://dev.to/akshay007/building-a-workout-planner-app-with-lyzr-sdk-3m3n)
 <!-- BLOG-POST-LIST:END -->
 
