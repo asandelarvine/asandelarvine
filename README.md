@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: Design systems](https://dev.to/r4nd3l/front-end-specialisations-design-systems-3oid)
-- [Leveraging .htaccess on for Efficient API Routing in Main and Stage Environments on apache](https://dev.to/dangeorge35/leveraging-htaccess-on-for-efficient-api-routing-in-main-and-stage-environments-on-apache-4k67)
-- [Amazing scroll effects only using CSS ! 😲](https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7)
-- [Unlocking the Power of WebAssembly](https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-5fo7)
+- [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
+- [Express res.locals Property](https://dev.to/sid555/express-reslocals-property-4afe)
+- [Publish Status Others X Space Recap: Web3 Users’ Crypto Asset Security in the New Asset Protocol Boom](https://dev.to/nft_research/publish-statusothersx-space-recap-web3-users-crypto-asset-security-in-the-new-asset-protocol-boom-382b)
+- [Understanding Angular Component Lifecycles](https://dev.to/avinashvalluru/understanding-angular-component-lifecycles-3c5i)
 <!-- BLOG-POST-LIST:END -->
 
