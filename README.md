@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert a String to Byte Array in C#: Encoding and Decoding Simplified](https://dev.to/devleader/how-to-convert-a-string-to-byte-array-in-c-encoding-and-decoding-simplified-3faf)
-- [Elevate Your Browsing Experience: Crafting Your First Chrome Extension with React](https://dev.to/epakconsultant/elevate-your-browsing-experience-crafting-your-first-chrome-extension-with-react-38j7)
-- [How to Visualise MediaPipe’s Face and Face Landmark Detection in 2D and 3D with Rerun](https://dev.to/rerunio/how-to-visualise-mediapipes-face-and-face-landmark-detection-in-2d-and-3d-with-rerun-94f)
-- [Lesson 1: Introduction to Three-Tier Architecture in AWS &lpar;2/5&rpar;](https://dev.to/techtobe101/lesson-1-introduction-to-three-tier-architecture-in-aws-25-2eb9)
+- [How to Build a Crystal Image Search App with Vector Search](https://dev.to/datastax/how-to-build-a-crystal-image-search-app-with-vector-search-2lcl)
+- [HTML&#39;s Title Tag and SEO](https://dev.to/ashwebpaiges/htmls-title-tag-and-seo-547b)
+- [Do you use Tailwind?](https://dev.to/buildwebcrumbs/do-you-use-tailwind-48i4)
+- [Meme Monday](https://dev.to/td_inc/meme-monday-3lkn)
 <!-- BLOG-POST-LIST:END -->
 
