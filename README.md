@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Graphics and Rendering in Unity: Key aspects and practical solutions](https://dev.to/devsdaddy/optimizing-graphics-and-rendering-in-unity-key-aspects-and-practical-solutions-1m7d)
-- [Weekly Roundup 050 &lpar;Apr 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-050-apr-22-hot-topics-in-workplace-sharepoint-and-powerplatform-22i6)
-- [5 Lessons Learned Building our SaaS with Rust 🦀](https://dev.to/meteroid/5-lessons-learned-building-our-saas-with-rust-1doj)
-- [🇧🇷 | Uma empresa e infinitos produtos](https://dev.to/econominhas/-uma-empresa-e-infinitos-produtos-1mkc)
+- [The Future of Remote Work: How to Thrive in the Decentralized Workplace](https://dev.to/ibiyeyellowe/the-future-of-remote-work-how-to-thrive-in-the-decentralized-workplace-1ml1)
+- [Extend Bitnami Cassandra Image to customize the configuration in cassandra.yaml](https://dev.to/archcode01/extend-bitnami-cassandra-image-to-customize-the-configuration-in-cassandrayaml-nma)
+- [HOW TO CREATE AND ATTACH A DATA DISK TO AN EXISTING WINDOWS VIRTUAL MACHINE](https://dev.to/ayohassan/how-to-create-and-attach-a-data-disk-to-an-existing-windows-virtual-machine-5ejc)
+- [How Compilers Work: A step by step guide](https://dev.to/earnstein/how-compilers-work-a-step-by-step-guide-26c6)
 <!-- BLOG-POST-LIST:END -->
 
