@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling distributed tracing for containerized apps with AWS X-Ray](https://dev.to/aws-builders/enabling-distributed-tracing-for-containerized-apps-with-aws-x-ray-4o44)
-- [Deploying a Bulletproof Photo Sharing App with DevSecOps Terraform, AWS, EKS and Chaos Engineering](https://dev.to/aws-builders/deploying-a-bulletproof-photo-sharing-app-with-devsecops-terraform-aws-eks-and-chaos-engineering-d25)
-- [AWS Serverless Diversity: Multi-Language Strategies for Optimal Solutions](https://dev.to/aws-heroes/aws-serverless-diversity-multi-language-strategies-for-optimal-solutions-2ghl)
-- [How to efficiently migrate and manage database schema changes in a Laravel application?](https://dev.to/ellasebastian/how-to-efficiently-migrate-and-manage-database-schema-changes-in-a-laravel-application-o9g)
+- [Power Automate - 4 Steps to Building a Flow](https://dev.to/wyattdave/power-automate-4-steps-to-building-a-flow-36c0)
+- [AWS open source newsletter, #196](https://dev.to/aws/aws-open-source-newsletter-196-2lj2)
+- [The double-edged sword: Ethical implications of AI in UI/UX design](https://dev.to/pepper_square/the-double-edged-sword-ethical-implications-of-ai-in-uiux-design-2gmm)
+- [Gimli Tailwind is now available for Firefox!](https://dev.to/gimli_app/gimli-tailwind-is-now-available-for-firefox-d6e)
 <!-- BLOG-POST-LIST:END -->
 
