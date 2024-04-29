@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shift-Left: Bring Dev and DevOps Together](https://dev.to/vatsalbajpai/shift-left-bring-dev-and-devops-together-p3e)
-- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/bhallibhai/recreating-a-gif-with-css-earth-day-edition-3i22)
-- [Day 29/366](https://dev.to/vishalmx3/day-29366-4lfh)
-- [RAG with Web Search](https://dev.to/spara_50/rag-with-web-search-2c3e)
+- [Buenas Practicas en Rails](https://dev.to/kattyacuevas/buenas-practicas-en-rails-4bo4)
+- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/bhallibhai/recreating-a-gif-with-css-earth-day-edition-1k6m)
+- [Request Safe to get data from request safely in Laravel](https://dev.to/yasserelgammal/request-safe-to-get-data-from-request-safely-in-laravel-fj7)
+- [Using NetBird for Kubernetes Access](https://dev.to/braginini/using-netbird-for-kubernetes-access-3fc2)
 <!-- BLOG-POST-LIST:END -->
 
