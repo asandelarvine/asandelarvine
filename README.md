@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Crystal Image Search App with Vector Search](https://dev.to/datastax/how-to-build-a-crystal-image-search-app-with-vector-search-2lcl)
-- [HTML&#39;s Title Tag and SEO](https://dev.to/ashwebpaiges/htmls-title-tag-and-seo-547b)
-- [Do you use Tailwind?](https://dev.to/buildwebcrumbs/do-you-use-tailwind-48i4)
-- [Meme Monday](https://dev.to/td_inc/meme-monday-3lkn)
+- [Shift-Left: Bring Dev and DevOps Together](https://dev.to/vatsalbajpai/shift-left-bring-dev-and-devops-together-p3e)
+- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/bhallibhai/recreating-a-gif-with-css-earth-day-edition-3i22)
+- [Day 29/366](https://dev.to/vishalmx3/day-29366-4lfh)
+- [RAG with Web Search](https://dev.to/spara_50/rag-with-web-search-2c3e)
 <!-- BLOG-POST-LIST:END -->
 
