@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redirecting Guards and Resolvers in Angular v18 with RedirectCommand](https://dev.to/davidepassafaro/advanced-angular-navigation-redirect-guards-and-resolvers-in-angular-v18-15ne)
-- [Who Needs Coffee When You&#39;ve Got...?](https://dev.to/devteam/who-needs-coffee-when-youve-got-4nh2)
-- [Console Ninja - Your logs on steroids](https://dev.to/giuliano1993/console-ninja-your-logs-on-steroids-28ie)
-- [Essentials of PostgreSQL CTEs](https://dev.to/dbvismarketing/essentials-of-postgresql-ctes-32f)
+- [Enhancing Business Success through a Skeptical Mindset](https://dev.to/daliboru/enhancing-business-success-through-a-skeptical-mindset-2n11)
+- [Building a Simple Electron Application with Vue.js 🚀🔧](https://dev.to/amatisse/building-a-simple-electron-application-with-vuejs-52aa)
+- [Stories Behind ZenStack V2!](https://dev.to/jiasheng/stories-behind-zenstack-v2-57p8)
+- [Snake](https://dev.to/kritanshu/snake-170i)
 <!-- BLOG-POST-LIST:END -->
 
