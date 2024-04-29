@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchrony in JavaScript: A Brief Look Back](https://dev.to/unjavascripter/asynchrony-in-javascript-a-brief-look-back-52ia)
-- [Constructors in Go?](https://dev.to/stefanalfbo/constructors-in-go-1om2)
-- [My experience in the job search](https://dev.to/rageltd/my-experience-in-the-job-search-4ij9)
-- [How to use NextJS pathname in Storybook 8](https://dev.to/heymarkkop/how-to-use-nextjs-pathname-in-storybook-8-5ac9)
+- [A Software Engineer&#39;s Tips and Tricks #1: Drizzle](https://dev.to/koyeb/a-software-engineers-tips-and-tricks-1-drizzle-ikk)
+- [1544. Make The String Great](https://dev.to/mdarifulhaque/1544-make-the-string-great-2o4h)
+- [Design pattern: DECK of CARDS](https://dev.to/air_choosy/design-pattern-deck-of-cards-k1o)
+- [1614. Maximum Nesting Depth of the Parentheses](https://dev.to/mdarifulhaque/1614-maximum-nesting-depth-of-the-parentheses-1jol)
 <!-- BLOG-POST-LIST:END -->
 
