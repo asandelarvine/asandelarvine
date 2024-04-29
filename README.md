@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Business Success through a Skeptical Mindset](https://dev.to/daliboru/enhancing-business-success-through-a-skeptical-mindset-2n11)
-- [Building a Simple Electron Application with Vue.js 🚀🔧](https://dev.to/amatisse/building-a-simple-electron-application-with-vuejs-52aa)
-- [Stories Behind ZenStack V2!](https://dev.to/jiasheng/stories-behind-zenstack-v2-57p8)
-- [Snake](https://dev.to/kritanshu/snake-170i)
+- [Need help with the Odin Project &#39;Tic Tac Toe&#39;](https://dev.to/brightanyawe/need-help-with-the-odin-project-tic-tac-toe-2gim)
+- [Automating Tasks in Magento 2 with CLI Scripts](https://dev.to/charleslyman/automating-tasks-in-magento-2-with-cli-scripts-2n0o)
+- [Create your own API for react App](https://dev.to/kmsaifullah/create-your-own-api-for-react-app-goh)
+- [Building Animated Buttons in Flutter with Lottie](https://dev.to/dinko7/building-animated-buttons-in-flutter-with-lottie-d8i)
 <!-- BLOG-POST-LIST:END -->
 
