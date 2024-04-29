@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Remote Work: How to Thrive in the Decentralized Workplace](https://dev.to/ibiyeyellowe/the-future-of-remote-work-how-to-thrive-in-the-decentralized-workplace-1ml1)
-- [Extend Bitnami Cassandra Image to customize the configuration in cassandra.yaml](https://dev.to/archcode01/extend-bitnami-cassandra-image-to-customize-the-configuration-in-cassandrayaml-nma)
-- [HOW TO CREATE AND ATTACH A DATA DISK TO AN EXISTING WINDOWS VIRTUAL MACHINE](https://dev.to/ayohassan/how-to-create-and-attach-a-data-disk-to-an-existing-windows-virtual-machine-5ejc)
-- [How Compilers Work: A step by step guide](https://dev.to/earnstein/how-compilers-work-a-step-by-step-guide-26c6)
+- [FLaNK AI Weekly for 29 April 2024](https://dev.to/tspannhw/flank-ai-weekly-for-29-april-2024-39ec)
+- [Amazon Bedrock Blueprint: Architecting AI Projects with Amazon Bedrock](https://dev.to/aws-builders/amazon-bedrock-blueprint-architecting-ai-projects-with-amazon-bedrock-4686)
+- [Meme Monday](https://dev.to/ben/meme-monday-44dh)
+- [🅰️🚀 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝘃𝟭𝟴 𝗛𝘆𝗯𝗿𝗶𝗱 𝗖𝗵𝗮𝗻𝗴𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲](https://dev.to/khangtrannn/-4gc2)
 <!-- BLOG-POST-LIST:END -->
 
