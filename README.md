@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect to Oracle, MySql and PostgreSQL databases using Python?](https://dev.to/luca1iu/how-to-connect-to-oracle-mysql-and-postgresql-databases-using-python-4ohd)
-- [Using Novu as the Notification Center](https://dev.to/unicodeveloper/using-novu-as-the-notification-center-5bk5)
-- [The best way to learn React](https://dev.to/unicodeveloper/the-best-way-to-learn-react-102m)
-- [AgentCloud vs Google Cloud Agents](https://dev.to/agentcloud/agent-cloud-vs-google-cloud-agents-494e)
+- [Optimizing Graphics and Rendering in Unity: Key aspects and practical solutions](https://dev.to/devsdaddy/optimizing-graphics-and-rendering-in-unity-key-aspects-and-practical-solutions-1m7d)
+- [Weekly Roundup 050 &lpar;Apr 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-050-apr-22-hot-topics-in-workplace-sharepoint-and-powerplatform-22i6)
+- [5 Lessons Learned Building our SaaS with Rust 🦀](https://dev.to/meteroid/5-lessons-learned-building-our-saas-with-rust-1doj)
+- [🇧🇷 | Uma empresa e infinitos produtos](https://dev.to/econominhas/-uma-empresa-e-infinitos-produtos-1mkc)
 <!-- BLOG-POST-LIST:END -->
 
