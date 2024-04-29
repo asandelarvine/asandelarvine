@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Internet... For Now](https://dev.to/alex_the_dev/goodbye-internet-for-now-1bco)
-- [Error on Node JS npm/npx project creating with vite/react js &quot;node:internal/modules/cjs/loader:1205 throw err&quot;](https://dev.to/mdsiaofficial/error-on-node-js-npmnpx-project-creating-with-vitereact-js-nodeinternalmodulescjsloader1205-throw-err-32fb)
-- [How to setup the tailwindcss in your next HTML project ?](https://dev.to/motuncoded/how-to-setup-the-tailwindcss-in-your-next-html-project--38p9)
-- [Apk does not establish connection with Back-end](https://dev.to/daniel_010/apk-does-not-establish-connection-with-back-end-n34)
+- [Asynchrony in JavaScript: A Brief Look Back](https://dev.to/unjavascripter/asynchrony-in-javascript-a-brief-look-back-52ia)
+- [Constructors in Go?](https://dev.to/stefanalfbo/constructors-in-go-1om2)
+- [My experience in the job search](https://dev.to/rageltd/my-experience-in-the-job-search-4ij9)
+- [How to use NextJS pathname in Storybook 8](https://dev.to/heymarkkop/how-to-use-nextjs-pathname-in-storybook-8-5ac9)
 <!-- BLOG-POST-LIST:END -->
 
