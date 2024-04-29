@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture no NestJS 🏛️🚀](https://dev.to/jhonesgoncalves/clean-architecture-no-nestjs-30n8)
-- [C# Priority Queue](https://dev.to/afmirez/c-priority-queue-5agj)
-- [Introducing Wanna Date?](https://dev.to/sandeepvashishtha/introducing-wanna-date-4415)
-- [Super Resolution using CNN](https://dev.to/adamazuddin/super-resolution-using-cnn-2g9c)
+- [How to Convert a String to Byte Array in C#: Encoding and Decoding Simplified](https://dev.to/devleader/how-to-convert-a-string-to-byte-array-in-c-encoding-and-decoding-simplified-3faf)
+- [Elevate Your Browsing Experience: Crafting Your First Chrome Extension with React](https://dev.to/epakconsultant/elevate-your-browsing-experience-crafting-your-first-chrome-extension-with-react-38j7)
+- [How to Visualise MediaPipe’s Face and Face Landmark Detection in 2D and 3D with Rerun](https://dev.to/rerunio/how-to-visualise-mediapipes-face-and-face-landmark-detection-in-2d-and-3d-with-rerun-94f)
+- [Lesson 1: Introduction to Three-Tier Architecture in AWS &lpar;2/5&rpar;](https://dev.to/techtobe101/lesson-1-introduction-to-three-tier-architecture-in-aws-25-2eb9)
 <!-- BLOG-POST-LIST:END -->
 
