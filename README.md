@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best SQL IDEs [EXPERT RANKING]](https://dev.to/domfive/5-best-sql-ides-expert-ranking-55d7)
-- [8 Essential VS Code Extensions [2024]](https://dev.to/evotik/8-essential-vs-code-extensions-2024-12i1)
-- [Starting a bootcamp](https://dev.to/stefandoesfilm/starting-a-bootcamp-hgf)
-- [Construyendo IA responsable con AWS](https://dev.to/bgalicia/construyendo-ia-responsable-con-aws-5497)
+- [Server-Side Rendering with Next.js](https://dev.to/kartikmehta8/server-side-rendering-with-nextjs-20np)
+- [Libraries.io Coze Plugin](https://dev.to/walter0/librariesio-coze-plugin-513h)
+- [CoderLogon: generate a logo for your GitHub repo🎨](https://dev.to/astrabert/coderlogon-generate-a-logo-for-your-github-repo-45a4)
+- [Why Do Higher Order Functions Make My Life Easier?](https://dev.to/danielle-goldberg/why-do-higher-order-functions-make-my-life-easier-5h9)
 <!-- BLOG-POST-LIST:END -->
 
