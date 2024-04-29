@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Send Text Notification from your Synology NAS with Free Mobile &lpar;SMS&rpar;](https://dev.to/steeve/send-text-notification-from-your-synology-nas-with-free-mobile-sms-jic)
-- [Add a google maps on my reactjs resume](https://dev.to/marcelomsc/add-a-google-maps-on-my-reactjs-resume-bc7)
-- [Inline Function — When to use?](https://dev.to/khushpanchal123/inline-function-when-to-use-e0g)
-- [Kotlin &amp; JVM first thoughts &lpar;Day 2&rpar; - Creating a SaaS Startup in 30 Days](https://dev.to/sotergreco/kotlin-jvm-first-thoughts-day-2-creating-a-saas-startup-in-30-days-4kb8)
+- [Clean Architecture no NestJS 🏛️🚀](https://dev.to/jhonesgoncalves/clean-architecture-no-nestjs-30n8)
+- [C# Priority Queue](https://dev.to/afmirez/c-priority-queue-5agj)
+- [Introducing Wanna Date?](https://dev.to/sandeepvashishtha/introducing-wanna-date-4415)
+- [Super Resolution using CNN](https://dev.to/adamazuddin/super-resolution-using-cnn-2g9c)
 <!-- BLOG-POST-LIST:END -->
 
