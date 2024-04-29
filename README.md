@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help with the Odin Project &#39;Tic Tac Toe&#39;](https://dev.to/brightanyawe/need-help-with-the-odin-project-tic-tac-toe-2gim)
-- [Automating Tasks in Magento 2 with CLI Scripts](https://dev.to/charleslyman/automating-tasks-in-magento-2-with-cli-scripts-2n0o)
-- [Create your own API for react App](https://dev.to/kmsaifullah/create-your-own-api-for-react-app-goh)
-- [Building Animated Buttons in Flutter with Lottie](https://dev.to/dinko7/building-animated-buttons-in-flutter-with-lottie-d8i)
+- [How to connect to Oracle, MySql and PostgreSQL databases using Python?](https://dev.to/luca1iu/how-to-connect-to-oracle-mysql-and-postgresql-databases-using-python-4ohd)
+- [Using Novu as the Notification Center](https://dev.to/unicodeveloper/using-novu-as-the-notification-center-5bk5)
+- [The best way to learn React](https://dev.to/unicodeveloper/the-best-way-to-learn-react-102m)
+- [AgentCloud vs Google Cloud Agents](https://dev.to/agentcloud/agent-cloud-vs-google-cloud-agents-494e)
 <!-- BLOG-POST-LIST:END -->
 
