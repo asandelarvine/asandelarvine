@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering with Next.js](https://dev.to/kartikmehta8/server-side-rendering-with-nextjs-20np)
-- [Libraries.io Coze Plugin](https://dev.to/walter0/librariesio-coze-plugin-513h)
-- [CoderLogon: generate a logo for your GitHub repo🎨](https://dev.to/astrabert/coderlogon-generate-a-logo-for-your-github-repo-45a4)
-- [Why Do Higher Order Functions Make My Life Easier?](https://dev.to/danielle-goldberg/why-do-higher-order-functions-make-my-life-easier-5h9)
+- [1 Mistake Amateur Developers Make That Slow Down Development](https://dev.to/annoh_karlgusta/1-mistake-amateur-developers-make-that-slow-down-development-21go)
+- [Intro to React Hooks](https://dev.to/peytono/intro-to-react-hooks-397h)
+- [Fun Agile Retrospectives with GIFs 😆](https://dev.to/mattlewandowski93/fun-agile-retrospectives-with-gifs-3ope)
+- [How far is too far for a job?](https://dev.to/grimkillingbeck/how-far-is-too-far-for-a-job-15hk)
 <!-- BLOG-POST-LIST:END -->
 
