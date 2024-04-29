@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Software Engineer&#39;s Tips and Tricks #1: Drizzle](https://dev.to/koyeb/a-software-engineers-tips-and-tricks-1-drizzle-ikk)
-- [1544. Make The String Great](https://dev.to/mdarifulhaque/1544-make-the-string-great-2o4h)
-- [Design pattern: DECK of CARDS](https://dev.to/air_choosy/design-pattern-deck-of-cards-k1o)
-- [1614. Maximum Nesting Depth of the Parentheses](https://dev.to/mdarifulhaque/1614-maximum-nesting-depth-of-the-parentheses-1jol)
+- [Podcast Palooza— What are you listening to? &lpar;YouTube Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-youtube-edition-3p9a)
+- [React Refs Ritual: Managing Focus, Selections, and More.](https://dev.to/kigazon/react-refs-ritual-managing-focus-selections-and-more-5ge4)
+- [Introducing LMS Moodle Operator](https://dev.to/krestomatio/introducing-lms-moodle-operator-251l)
+- [Envio e recebimento de mensagens de texto dentro de imagens com Python](https://dev.to/msc2020/envio-e-recebimento-de-mensagens-de-texto-dentro-de-imagens-com-python-37pp)
 <!-- BLOG-POST-LIST:END -->
 
