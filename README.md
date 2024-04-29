@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building LinkedIn Elevator Pitch Generator with Lyzr SDK](https://dev.to/akshay007/building-linkedin-elevator-pitch-generator-with-lyzr-sdk-3kp8)
-- [Creando Subtítulos Automáticos para Vídeos con Python, Faster-Whisper, FFmpeg, Streamlit, Pillow](https://dev.to/emmendoza2794/creando-subtitulos-automaticos-para-videos-con-python-faster-whisper-ffmpeg-streamlit-pillow-30de)
-- [I developed a no-code tool that integrates Anthropic into Slack, Teams, and HubSpot](https://dev.to/snowhale/i-developed-a-no-code-tool-that-integrates-anthropic-into-slack-teams-and-hubspot-354c)
-- [The Frontend Challenge v2: Earth Day Edition🌎](https://dev.to/rafajrg21/the-frontend-challenge-v2-earth-day-edition-1fal)
+- [Enabling distributed tracing for containerized apps with AWS X-Ray](https://dev.to/aws-builders/enabling-distributed-tracing-for-containerized-apps-with-aws-x-ray-4o44)
+- [Deploying a Bulletproof Photo Sharing App with DevSecOps Terraform, AWS, EKS and Chaos Engineering](https://dev.to/aws-builders/deploying-a-bulletproof-photo-sharing-app-with-devsecops-terraform-aws-eks-and-chaos-engineering-d25)
+- [AWS Serverless Diversity: Multi-Language Strategies for Optimal Solutions](https://dev.to/aws-heroes/aws-serverless-diversity-multi-language-strategies-for-optimal-solutions-2ghl)
+- [How to efficiently migrate and manage database schema changes in a Laravel application?](https://dev.to/ellasebastian/how-to-efficiently-migrate-and-manage-database-schema-changes-in-a-laravel-application-o9g)
 <!-- BLOG-POST-LIST:END -->
 
