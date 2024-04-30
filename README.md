@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Security for NodeJS Applications](https://dev.to/chauhoangminhnguyen/enhance-security-for-nodejs-applications-395b)
-- [Issue 42 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-42-of-aws-cloud-security-weekly-3m8b)
-- [Q&amp;A SECTION](https://dev.to/pearlodi/qa-section-52di)
-- [Custom Properties vs. CSS Variables: Understanding the Differences and When to Use Each](https://dev.to/ibiyeyellowe/custom-properties-vs-css-variables-understanding-the-differences-and-when-to-use-each-4om4)
+- [Simplifying JOIN syntax](https://dev.to/esproc_spl/simplifying-join-syntax-i1o)
+- [I Wrote a Knowledge Graph Render by LangChain](https://dev.to/helio609/i-wrote-a-knowledge-graph-render-by-langchain-10oo)
+- [Part 2: Setting Up Your Node.js Environment](https://dev.to/dipakahirav/part-2-setting-up-your-nodejs-environment-37ab)
+- [Cómo un bucket S3 vacío puede hacer que tu factura de AWS explote](https://dev.to/francotel/como-un-bucket-s3-vacio-puede-hacer-que-tu-factura-de-aws-explote-33ce)
 <!-- BLOG-POST-LIST:END -->
 
