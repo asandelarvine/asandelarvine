@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal Experience with AI/ML API in NodeJS](https://dev.to/nikolayaimlapi/multimodal-experience-with-aiml-api-in-nodejs-jb0)
-- [Learn SwiftUI &lpar;Day 4/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-4100-2d14)
-- [Learn SwiftUI &lpar;Day 3/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-3100-4g83)
-- [Understanding the Difference Between Websites and Web Apps](https://dev.to/henrylehd/understanding-the-difference-between-websites-and-web-apps-9gg)
+- [Demystifying MVC Architecture in Modern Web Frameworks: React and Angular](https://dev.to/ussdlover/demystifying-mvc-architecture-in-modern-web-frameworks-react-and-angular-d89)
+- [SexyVim](https://dev.to/mrleon/sexyvim-29b)
+- [GETTING STARTED WITH HTML EP5](https://dev.to/bbylumi/getting-started-with-html-ep5-2fjb)
+- [Single-byte XOR cipher](https://dev.to/stefanalfbo/single-byte-xor-cipher-1mlo)
 <!-- BLOG-POST-LIST:END -->
 
