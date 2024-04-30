@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Work with Nested Forms in Rails](https://dev.to/railsdesigner/how-to-work-with-nested-forms-in-rails-2ep2)
-- [Understanding Javascript Promises a Guide to Asynchronous Programming](https://dev.to/antonmartyniuk/understanding-javascript-promises-a-guide-to-asynchronous-programming-1ono)
-- [Implement React v18 from Scratch Using WASM and Rust - [10] Implement Update for Single Node.](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-10-implement-update-for-single-node-jfj)
-- [Challenges faced while developing Enterprise Applications &lpar;EA&rpar;?](https://dev.to/adv11/challenges-faced-while-developing-enterprise-applications-ea-2kbl)
+- [List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.](https://dev.to/sh20raj/list-of-ngrokcloudflare-tunnel-alternatives-and-other-tunneling-software-and-services-focus-on-self-hosting-o1m)
+- [Need help with html and javascript code](https://dev.to/premcbc23/need-help-with-html-and-javascript-code-4ncd)
+- [Best AI Voice Generators APIs in 2024](https://dev.to/edenai/best-ai-voice-generators-apis-in-2024-516d)
+- [A Software Engineer&#39;s Tips and Tricks #2: Template Databases in PostgreSQL](https://dev.to/koyeb/a-software-engineers-tips-and-tricks-2-template-databases-in-postgresql-5hm5)
 <!-- BLOG-POST-LIST:END -->
 
