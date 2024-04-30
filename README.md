@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Advanced SQL Techniques: Aggregation Methods for Structured Data Retrieval](https://dev.to/emtiajium/exploring-advanced-sql-techniques-aggregation-methods-for-structured-data-retrieval-4600)
-- [Software Testing](https://dev.to/kazhindhi/software-testing-5a8a)
-- [Building a Simple and Secure GitOps CI/CD Pipeline with GitHub Actions &lpar;SOC 2&rpar;](https://dev.to/mathieularose/building-a-simple-and-secure-gitops-cicd-pipeline-with-github-actions-soc-2-4i0f)
-- [How to Select the Right Automation Testing Tool](https://dev.to/vijayashree44/how-to-select-the-right-automation-testing-tool-2p9n)
+- [Composable architecture example: Go headless &lpar;best practices&rpar;](https://dev.to/momciloo/composable-architecture-example-go-headless-best-practices-2l8b)
+- [Which of the two States of Every Programmer are you in at the Moment?](https://dev.to/anitaolsen/which-of-the-two-states-of-every-programmer-are-you-in-at-the-moment-5768)
+- [Building a Docker Development Environment &lpar;Part 2&rpar;](https://dev.to/weseek-inc/building-a-docker-development-environment-part-2-43i)
+- [Building a Docker Development Environment &lpar;Part 1&rpar;](https://dev.to/weseek-inc/building-a-docker-development-environment-part-1-1lhe)
 <!-- BLOG-POST-LIST:END -->
 
