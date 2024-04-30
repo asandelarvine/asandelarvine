@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Composable architecture example: Go headless &lpar;best practices&rpar;](https://dev.to/momciloo/composable-architecture-example-go-headless-best-practices-2l8b)
-- [Which of the two States of Every Programmer are you in at the Moment?](https://dev.to/anitaolsen/which-of-the-two-states-of-every-programmer-are-you-in-at-the-moment-5768)
-- [Building a Docker Development Environment &lpar;Part 2&rpar;](https://dev.to/weseek-inc/building-a-docker-development-environment-part-2-43i)
-- [Building a Docker Development Environment &lpar;Part 1&rpar;](https://dev.to/weseek-inc/building-a-docker-development-environment-part-1-1lhe)
+- [Hey I’m new here :&rpar;🩷hoping I can network with more web developers and just in general interact with the dev community👨🏾‍💻](https://dev.to/codelikesean/hey-im-new-here-hoping-i-can-network-with-more-web-developers-and-just-in-general-interact-with-the-dev-community-2h77)
+- [Python vs JavaScript performance](https://dev.to/zoltanf/python-vs-javascript-performance-30a9)
+- [Why MongoDB is not great for complex reporting?](https://dev.to/kwnaidoo/why-mongodb-is-not-great-for-complex-reporting-23fp)
+- [CVPR 2024 Datasets and Benchmarks - Part 2: Benchmarks](https://dev.to/voxel51/cvpr-2024-datasets-and-benchmarks-part-2-benchmarks-m5f)
 <!-- BLOG-POST-LIST:END -->
 
