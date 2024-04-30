@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn SwiftUI &lpar;Day 1/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-1100-jkm)
-- [Embracing Innovation: Best Practices for Adopting PHP 8.3](https://dev.to/jobayer/embracing-innovation-best-practices-for-adopting-php-83-1m8k)
-- [Blocker: How to load environment variables on broswer environment using webpack.config.js](https://dev.to/itskios09/blocker-how-to-load-environment-variables-on-broswer-environment-using-webpackconfigjs-1o6h)
-- [LeetCode Meditations: Construct Binary Tree from Preorder and Inorder Traversal](https://dev.to/rivea0/leetcode-meditations-construct-binary-tree-from-preorder-and-inorder-traversal-297d)
+- [Multimodal Experience with AI/ML API in NodeJS](https://dev.to/nikolayaimlapi/multimodal-experience-with-aiml-api-in-nodejs-jb0)
+- [Learn SwiftUI &lpar;Day 4/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-4100-2d14)
+- [Learn SwiftUI &lpar;Day 3/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-3100-4g83)
+- [Understanding the Difference Between Websites and Web Apps](https://dev.to/henrylehd/understanding-the-difference-between-websites-and-web-apps-9gg)
 <!-- BLOG-POST-LIST:END -->
 
