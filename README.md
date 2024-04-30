@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Websites Easily with GO54 AI Website Builder](https://dev.to/devsuite/how-to-create-websites-easily-with-go54-ai-website-builder-108j)
-- [Flask — What is It?](https://dev.to/shariqahmed525/flask-what-is-it-163j)
-- [Functional and Non-Functional Testing](https://dev.to/gayu1999/functional-and-non-functional-testing-1c4n)
-- [Node.js vs. Python vs. Java: Choosing the Right Back-End Technology](https://dev.to/angelinajasper/nodejs-vs-python-vs-java-choosing-the-right-back-end-technology-5dj)
+- [Exploring Advanced SQL Techniques: Aggregation Methods for Structured Data Retrieval](https://dev.to/emtiajium/exploring-advanced-sql-techniques-aggregation-methods-for-structured-data-retrieval-4600)
+- [Software Testing](https://dev.to/kazhindhi/software-testing-5a8a)
+- [Building a Simple and Secure GitOps CI/CD Pipeline with GitHub Actions &lpar;SOC 2&rpar;](https://dev.to/mathieularose/building-a-simple-and-secure-gitops-cicd-pipeline-with-github-actions-soc-2-4i0f)
+- [How to Select the Right Automation Testing Tool](https://dev.to/vijayashree44/how-to-select-the-right-automation-testing-tool-2p9n)
 <!-- BLOG-POST-LIST:END -->
 
