@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcast Palooza— What are you listening to? &lpar;YouTube Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-youtube-edition-3p9a)
-- [React Refs Ritual: Managing Focus, Selections, and More.](https://dev.to/kigazon/react-refs-ritual-managing-focus-selections-and-more-5ge4)
-- [Introducing LMS Moodle Operator](https://dev.to/krestomatio/introducing-lms-moodle-operator-251l)
-- [Envio e recebimento de mensagens de texto dentro de imagens com Python](https://dev.to/msc2020/envio-e-recebimento-de-mensagens-de-texto-dentro-de-imagens-com-python-37pp)
+- [OOP poetry Part II: structural patterns](https://dev.to/eatyourabstractions/oop-poetry-part-ii-structural-patterns-22n8)
+- [Building a Blockchain from Scratch](https://dev.to/kartikmehta8/building-a-blockchain-from-scratch-11ci)
+- [Side Quest Devblog #1: These Fakes are getting Deep](https://dev.to/basicallyok/side-quest-devblog-1-these-fakes-are-getting-deep-3l2b)
+- [Build an AI Voice assistant like Siri &lpar;use OpenAI AI Assistant&rpar;](https://dev.to/serpapi/build-an-ai-voice-assistant-like-siri-use-openai-ai-assistant-24do)
 <!-- BLOG-POST-LIST:END -->
 
