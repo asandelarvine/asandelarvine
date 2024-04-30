@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying JOIN syntax](https://dev.to/esproc_spl/simplifying-join-syntax-i1o)
-- [I Wrote a Knowledge Graph Render by LangChain](https://dev.to/helio609/i-wrote-a-knowledge-graph-render-by-langchain-10oo)
-- [Part 2: Setting Up Your Node.js Environment](https://dev.to/dipakahirav/part-2-setting-up-your-nodejs-environment-37ab)
-- [Cómo un bucket S3 vacío puede hacer que tu factura de AWS explote](https://dev.to/francotel/como-un-bucket-s3-vacio-puede-hacer-que-tu-factura-de-aws-explote-33ce)
+- [How Mobile apps are Trasforming hospitality in 2024](https://dev.to/neelay/how-mobile-apps-are-trasforming-hospitality-in-2024-4531)
+- [Data Scientist](https://dev.to/miguejhota/data-scientist-4n5d)
+- [Pass by value vs pass by reference in JavaScript](https://dev.to/ashsajal/pass-by-value-vs-pass-by-reference-in-javascript-41en)
+- [Mastering Java’s HTTPUrlConnection for Robust Networking](https://dev.to/dbillion/mastering-javas-httpurlconnection-for-robust-networking-3mno)
 <!-- BLOG-POST-LIST:END -->
 
