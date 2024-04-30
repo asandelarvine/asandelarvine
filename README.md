@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contributing to open-source will 10x your chances to land a new job 🚀](https://dev.to/github20k/contributing-to-open-source-will-10x-your-chances-to-land-a-new-job-433f)
-- [Revolutionising Video Creation: The AI Belarusian Video Generator](https://dev.to/aibengalivideogenerator/revolutionising-video-creation-the-ai-belarusian-video-generator-12hi)
-- [What is Mina Protocol](https://dev.to/francescoxx/what-is-mina-protocol-40il)
-- [Get Free VPS hosting Using GitHub CodeSpaces](https://dev.to/sh20raj/get-free-vps-hosting-using-github-codespaces-28c6)
+- [How to Create Websites Easily with GO54 AI Website Builder](https://dev.to/devsuite/how-to-create-websites-easily-with-go54-ai-website-builder-108j)
+- [Flask — What is It?](https://dev.to/shariqahmed525/flask-what-is-it-163j)
+- [Functional and Non-Functional Testing](https://dev.to/gayu1999/functional-and-non-functional-testing-1c4n)
+- [Node.js vs. Python vs. Java: Choosing the Right Back-End Technology](https://dev.to/angelinajasper/nodejs-vs-python-vs-java-choosing-the-right-back-end-technology-5dj)
 <!-- BLOG-POST-LIST:END -->
 
