@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start learning web development for free](https://dev.to/cathzchen/how-to-start-learning-web-development-for-free-1eko)
-- [Step-by-Step Guide to Setting Up Husky, ESLint, and Prettier in a Next.js TypeScript Project](https://dev.to/muhammadasif_wd/step-by-step-guide-to-setting-up-husky-eslint-and-prettier-in-a-nextjs-typescript-project-2f2l)
-- [Modern C#: Get Started with DateOnly](https://dev.to/lovelacecoding/modern-c-get-started-with-dateonly-2nnh)
-- [Fetching Data &lpar;Next.js&rpar;](https://dev.to/samuellubliner/fetching-data-nextjs-5b0b)
+- [Learn SwiftUI &lpar;Day 1/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-1100-jkm)
+- [Embracing Innovation: Best Practices for Adopting PHP 8.3](https://dev.to/jobayer/embracing-innovation-best-practices-for-adopting-php-83-1m8k)
+- [Blocker: How to load environment variables on broswer environment using webpack.config.js](https://dev.to/itskios09/blocker-how-to-load-environment-variables-on-broswer-environment-using-webpackconfigjs-1o6h)
+- [LeetCode Meditations: Construct Binary Tree from Preorder and Inorder Traversal](https://dev.to/rivea0/leetcode-meditations-construct-binary-tree-from-preorder-and-inorder-traversal-297d)
 <!-- BLOG-POST-LIST:END -->
 
