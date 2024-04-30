@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically sentence-case i18next translations](https://dev.to/tsudhishnair/automatically-sentence-case-i18next-translations-4416)
-- [Simple multicoloured background and highlighted button in HTML &amp; CSS](https://dev.to/polinaeliana/simple-multicoloured-background-and-highlighted-button-in-html-css-1pd)
-- [Beware software band-aid solutions which lead to code death…](https://dev.to/edensoftlabs/beware-software-band-aid-solutions-which-lead-to-code-death-gem)
-- [How I got my first Rust job by doing open-source](https://dev.to/edwinkys/how-i-got-my-first-rust-job-by-doing-open-source-117b)
+- [Navigating the Risky Waters of Loan Defaults: A Predictive Beacon](https://dev.to/pranavghadge/navigating-the-risky-waters-of-loan-defaults-a-predictive-beacon-4p3i)
+- [5 AI Chatbot Builders to Add to Your Website and Boost User Engagement](https://dev.to/sh20raj/5-ai-chatbot-builders-to-add-to-your-website-and-boost-user-engagement-1j59)
+- [React Custom Hooks &lpar;useLocal&rpar;](https://dev.to/sundarbadagala081/react-custom-hooks-uselocal-4bj4)
+- [The Ultimate Guide to Transforming Anxiety into Triumph with Go](https://dev.to/zone01kisumu/the-ultimate-guide-to-transforming-anxiety-into-triumph-with-go-25mb)
 <!-- BLOG-POST-LIST:END -->
 
