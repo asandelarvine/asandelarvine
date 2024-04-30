@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.](https://dev.to/sh20raj/list-of-ngrokcloudflare-tunnel-alternatives-and-other-tunneling-software-and-services-focus-on-self-hosting-o1m)
-- [Need help with html and javascript code](https://dev.to/premcbc23/need-help-with-html-and-javascript-code-4ncd)
-- [Best AI Voice Generators APIs in 2024](https://dev.to/edenai/best-ai-voice-generators-apis-in-2024-516d)
-- [A Software Engineer&#39;s Tips and Tricks #2: Template Databases in PostgreSQL](https://dev.to/koyeb/a-software-engineers-tips-and-tricks-2-template-databases-in-postgresql-5hm5)
+- [Contributing to open-source will 10x your chances to land a new job 🚀](https://dev.to/github20k/contributing-to-open-source-will-10x-your-chances-to-land-a-new-job-433f)
+- [Revolutionising Video Creation: The AI Belarusian Video Generator](https://dev.to/aibengalivideogenerator/revolutionising-video-creation-the-ai-belarusian-video-generator-12hi)
+- [What is Mina Protocol](https://dev.to/francescoxx/what-is-mina-protocol-40il)
+- [Get Free VPS hosting Using GitHub CodeSpaces](https://dev.to/sh20raj/get-free-vps-hosting-using-github-codespaces-28c6)
 <!-- BLOG-POST-LIST:END -->
 
