@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incremento de precios despues de desastres naturales.](https://dev.to/cesaracjota/incremento-de-precios-despues-de-desastres-naturales-1j02)
-- [Step-by-Step Guide to Backing Up an SQL Database](https://dev.to/chowter0033/step-by-step-guide-to-backing-up-an-sql-database-3pn8)
-- [Mastering JavaScript: Unveiling the Power of DOM Manipulation and the JavaScript Object Model](https://dev.to/epakconsultant/mastering-javascript-unveiling-the-power-of-dom-manipulation-and-the-javascript-object-model-5fif)
-- [Demystifying the JavaScript Giants: A Comparative Analysis of React.js and Vue.js](https://dev.to/epakconsultant/demystifying-the-javascript-giants-a-comparative-analysis-of-reactjs-and-vuejs-1kfp)
+- [Front-end specialisations: Security](https://dev.to/r4nd3l/front-end-specialisations-security-3jh7)
+- [Maximize Your Success in Java Certification Exam with MyExamCloud&#39;s Top 10 Features](https://dev.to/myexamcloud/maximize-your-success-in-java-certification-exam-with-myexamclouds-top-10-features-2dec)
+- [Bridging the Silos: Overcoming Challenges in Building a DevOps Culture](https://dev.to/adityapratapbh1/bridging-the-silos-overcoming-challenges-in-building-a-devops-culture-5eg4)
+- [Say Goodbye to Manual Deployments: Automate Your EC2 Autoscaling with CodeDeploy and GitHub Actions](https://dev.to/aws-builders/say-goodbye-to-manual-deployments-automate-your-ec2-autoscaling-with-codedeploy-and-github-actions-4ijp)
 <!-- BLOG-POST-LIST:END -->
 
