@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey I’m new here :&rpar;🩷hoping I can network with more web developers and just in general interact with the dev community👨🏾‍💻](https://dev.to/codelikesean/hey-im-new-here-hoping-i-can-network-with-more-web-developers-and-just-in-general-interact-with-the-dev-community-2h77)
-- [Python vs JavaScript performance](https://dev.to/zoltanf/python-vs-javascript-performance-30a9)
-- [Why MongoDB is not great for complex reporting?](https://dev.to/kwnaidoo/why-mongodb-is-not-great-for-complex-reporting-23fp)
-- [CVPR 2024 Datasets and Benchmarks - Part 2: Benchmarks](https://dev.to/voxel51/cvpr-2024-datasets-and-benchmarks-part-2-benchmarks-m5f)
+- [How to make a Lichess bot in Python](https://dev.to/kaipereira/how-to-make-a-lichess-bot-in-python-2ge3)
+- [Try Catch in C#: The Basics You Need to Know](https://dev.to/devleader/try-catch-in-c-the-basics-you-need-to-know-13jo)
+- [React Blazing Fast SVG charts &lpar;next-chartist&rpar; 🚀](https://dev.to/poboisvert/1-minute-chat-with-next-chartist-3e7f)
+- [Typescript static typing mess](https://dev.to/lapp1stan/typescript-static-typing-mess-57nh)
 <!-- BLOG-POST-LIST:END -->
 
