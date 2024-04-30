@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying MVC Architecture in Modern Web Frameworks: React and Angular](https://dev.to/ussdlover/demystifying-mvc-architecture-in-modern-web-frameworks-react-and-angular-d89)
-- [SexyVim](https://dev.to/mrleon/sexyvim-29b)
-- [GETTING STARTED WITH HTML EP5](https://dev.to/bbylumi/getting-started-with-html-ep5-2fjb)
-- [Single-byte XOR cipher](https://dev.to/stefanalfbo/single-byte-xor-cipher-1mlo)
+- [XRP Ledger-native Lending Protocol: Empowering On-Chain Credit Origination](https://dev.to/ripplexdev/xrp-ledger-native-lending-protocol-empowering-on-chain-credit-origination-2hho)
+- [678. Valid Parenthesis String](https://dev.to/mdarifulhaque/678-valid-parenthesis-string-3bcf)
+- [950. Reveal Cards In Increasing Order](https://dev.to/mdarifulhaque/950-reveal-cards-in-increasing-order-4gie)
+- [1249. Minimum Remove to Make Valid Parentheses](https://dev.to/mdarifulhaque/1249-minimum-remove-to-make-valid-parentheses-db4)
 <!-- BLOG-POST-LIST:END -->
 
