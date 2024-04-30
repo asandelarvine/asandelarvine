@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: Security](https://dev.to/r4nd3l/front-end-specialisations-security-3jh7)
-- [Maximize Your Success in Java Certification Exam with MyExamCloud&#39;s Top 10 Features](https://dev.to/myexamcloud/maximize-your-success-in-java-certification-exam-with-myexamclouds-top-10-features-2dec)
-- [Bridging the Silos: Overcoming Challenges in Building a DevOps Culture](https://dev.to/adityapratapbh1/bridging-the-silos-overcoming-challenges-in-building-a-devops-culture-5eg4)
-- [Say Goodbye to Manual Deployments: Automate Your EC2 Autoscaling with CodeDeploy and GitHub Actions](https://dev.to/aws-builders/say-goodbye-to-manual-deployments-automate-your-ec2-autoscaling-with-codedeploy-and-github-actions-4ijp)
+- [How Do You &lpar;Unconventionally&rpar; Use ChatGPT?](https://dev.to/devteam/how-do-you-unconventionally-use-chatgpt-3c7g)
+- [Safeguarding Data Quality By Addressing Data Privacy and Security Concerns](https://dev.to/ovaisnaseem/safeguarding-data-quality-by-addressing-data-privacy-and-security-concerns-20nf)
+- [How to Debug Node.js Applications Using the debugger; Statement - Easiest Way](https://dev.to/myogeshchavan97/how-to-debug-nodejs-applications-using-the-debugger-statement-easiest-way-2ljg)
+- [What is the best e-commerce software application in Shopify?](https://dev.to/webunity/what-is-the-best-e-commerce-software-application-in-shopify-3nb4)
 <!-- BLOG-POST-LIST:END -->
 
