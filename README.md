@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript: Techniques for Checking if a Key Exists in an Object](https://dev.to/saumya27/javascript-techniques-for-checking-if-a-key-exists-in-an-object-40h0)
-- [5 Projects we used to learn WebDev in Rust 🦀](https://dev.to/meteroid/5-opensource-projects-to-learn-webdev-in-rust-204)
-- [Exploring Flutter Secure Storage: Safeguarding Data in Mobile Apps](https://dev.to/nikhilxd/exploring-flutter-secure-storage-safeguarding-data-in-mobile-apps-11i8)
-- [Generating Fake Django Model Instances with Factory Boy](https://dev.to/djangotricks/generating-fake-django-model-instances-with-factory-boy-27gg)
+- [Updating My Mac Window Shortcuts Strategy for Optimal Workflow](https://dev.to/mohsen_vaziri/updating-my-mac-window-shortcuts-strategy-for-optimal-workflow-ke9)
+- [second person](https://dev.to/onwritinggames/second-person-50bg)
+- [Opensource Installation](https://dev.to/naman108/opensource-installation-52i1)
+- [Building a monolith in Go - Layout](https://dev.to/daunderworks/building-a-monolith-in-go-layout-1no8)
 <!-- BLOG-POST-LIST:END -->
 
