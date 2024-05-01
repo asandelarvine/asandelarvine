@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤔 Can You Improve CSS? Help invent CSS Masonry layout...](https://dev.to/adam/can-you-improve-css-help-invent-css-masonry-layout-3mdh)
-- [Zoom-Clone using NextJS-14, Clerk, TailwindCSS, StreamSDK](https://dev.to/faarehahmed/zoom-clone-using-nextjs-14-clerk-tailwindcss-streamsdk-4gh2)
-- [What is Alpha Testing and Why Is It Important?](https://dev.to/jamescantor38/what-is-alpha-testing-and-why-is-it-important-3l18)
-- [How to Setup Webhook in Google Form?](https://dev.to/amjadcp/how-to-setup-webhook-in-google-form-4p3i)
+- [Inflight Magazine no. 9](https://dev.to/winglang/inflight-magazine-no-9-4fdh)
+- [Daily news #1](https://dev.to/trawinski/daily-news-1-1ok1)
+- [🛠️ Have You Heard of WebAssembly? 🚀 It&#39;s About to Change Browsers and JavaScript Forever! 🤯](https://dev.to/best_codes/have-you-heard-of-webassembly-its-about-to-change-browsers-and-javascript-forever-2em1)
+- [The Reality of Burnout and Breaking Into Tech](https://dev.to/chrisnowicki/the-reality-of-burnout-and-breaking-into-tech-1p1o)
 <!-- BLOG-POST-LIST:END -->
 
