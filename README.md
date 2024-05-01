@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ImportError: attempted relative import with no known parent package](https://dev.to/crawler/importerror-attempted-relative-import-with-no-known-parent-package-2je6)
-- [Exploring Servlets in Java: Building Dynamic Web Applications](https://dev.to/vishalwaje/exploring-servlets-in-java-building-dynamic-web-applications-25pf)
-- [Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn)
-- [Is it possible to have a service only used by an AuthGuard in the same module be a singleton?](https://dev.to/jerotas/is-it-possible-to-have-a-service-only-used-by-an-authguard-in-the-same-module-be-a-singleton-1fi3)
+- [Improve your productivity by using more terminal and less mouse &lpar;🚀&rpar;.](https://dev.to/ticha/improve-your-productivity-by-using-more-terminal-and-less-mouse--259n)
+- [MudBlazor with Blazor Interactive SSR – What You Need To Know](https://dev.to/devleader/mudblazor-with-blazor-interactive-ssr-what-you-need-to-know-28i9)
+- [Python &quot;Financial Health&quot; Terminal Project](https://dev.to/alejohenaoe/python-financial-health-terminal-project-315i)
+- [Top 5 Essential Laptop/Mac Maintenance Tasks for Peak Performance](https://dev.to/apoorvtomar/top-5-essential-laptopmac-maintenance-tasks-for-peak-performance-315m)
 <!-- BLOG-POST-LIST:END -->
 
