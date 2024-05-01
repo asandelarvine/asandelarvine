@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Image Magnifier Component in ReactJs](https://dev.to/margishpatel/build-an-image-magnifier-component-in-reactjs-2hc5)
-- [Demystifying useRef: A React Hook Guide](https://dev.to/antonmartyniuk/demystifying-useref-a-react-hook-guide-2cmf)
-- [&quot;Seamless Component Transitions: Achieving Smooth UI Flow with Single Component DOM Transitioning&quot;](https://dev.to/jagadeeshthatikonda/seamless-component-transitions-achieving-smooth-ui-flow-with-single-component-dom-transitioning-j6a)
-- [Playwright Scraping infinite loading &amp; pagination](https://dev.to/devloker/playwright-scraping-infinite-loading-pagination-4pid)
+- [JavaScript: Techniques for Checking if a Key Exists in an Object](https://dev.to/saumya27/javascript-techniques-for-checking-if-a-key-exists-in-an-object-40h0)
+- [5 Projects we used to learn WebDev in Rust 🦀](https://dev.to/meteroid/5-opensource-projects-to-learn-webdev-in-rust-204)
+- [Exploring Flutter Secure Storage: Safeguarding Data in Mobile Apps](https://dev.to/nikhilxd/exploring-flutter-secure-storage-safeguarding-data-in-mobile-apps-11i8)
+- [Generating Fake Django Model Instances with Factory Boy](https://dev.to/djangotricks/generating-fake-django-model-instances-with-factory-boy-27gg)
 <!-- BLOG-POST-LIST:END -->
 
