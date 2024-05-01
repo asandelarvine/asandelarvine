@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#2000. Reverse Prefix of Word](https://dev.to/karleb/2000-reverse-prefix-of-word-4aml)
-- [Exploring Distributed Databases in 2024 !](https://dev.to/devopscurry/exploring-distributed-databases-in-2024--33ka)
-- [NextJS Add Metadata](https://dev.to/paulund/nextjs-add-metadata-2g8j)
-- [The Power of the Pomodoro Technique](https://dev.to/productivity/the-power-of-the-pomodoro-technique-jeh)
+- [Accessibility exercise #2: Labour Day Poster](https://dev.to/mahzeb/accessibility-exercise-2-labour-day-poster-1155)
+- [Docker: A clear Guide](https://dev.to/rinonten/demystifying-docker-a-clear-explanation-for-developers-nn6)
+- [Bra Asks Yuhang Jia: Saying Goodbye to &quot;Artificial Stupidity&quot;? AI Training Data Providers Rectify the Names of AI](https://dev.to/naizhao/bra-asks-yuhang-jia-saying-goodbye-to-artificial-stupidity-ai-training-data-providers-rectify-the-names-of-ai-4862)
+- [Is purging still the hardest problem in computer science?](https://dev.to/fastly/is-purging-still-the-hardest-problem-in-computer-science-339i)
 <!-- BLOG-POST-LIST:END -->
 
