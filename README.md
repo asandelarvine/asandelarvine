@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Component Styling: Elevate Your CSS with Layering and Dynamic Class Management, No ng:deep needed!](https://dev.to/pranavarora1895/mastering-component-styling-elevate-your-css-with-layering-and-dynamic-class-management-no-ngdeep-needed-3m7j)
-- [Basic Sorting Algorithm](https://dev.to/m__mdy__m/basic-sorting-algorithm-30cj)
-- [AI Vision Technology in Practical Application](https://dev.to/gigo_dev/ai-vision-technology-in-practical-application-1l2i)
-- [Streamlining AWS Spending: Proven Strategies for Effective Cost Optimization](https://dev.to/unicloud/streamlining-aws-spending-proven-strategies-for-effective-cost-optimization-h1o)
+- [Navigating the AI Evolution: CodeNewbie Podcast S27E5](https://dev.to/codenewbieteam/navigating-the-ai-evolution-codenewbie-podcast-s27e5-16p2)
+- [How to use LLMs: Summarize long documents](https://dev.to/rogiia/how-to-use-llms-summarize-long-documents-4ee1)
+- [## The CAP Theorem &lpar;Brewer’s Theorem&rpar; in NoSQL Databases](https://dev.to/muhammetyasinarli/-the-cap-theorem-brewers-theorem-in-nosql-databases-2lbj)
+- [Especial 1 de Maio -Explorando a Diversidade da TI](https://dev.to/terminalcoffee/especial-1-de-maio-explorando-a-diversidade-da-ti-2nk4)
 <!-- BLOG-POST-LIST:END -->
 
