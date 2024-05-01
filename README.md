@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated Testing Using Cucumber](https://dev.to/gadekar_sachin/automated-testing-using-cucumber-lmp)
+- [Day 0: JavaScript](https://dev.to/codernko/day-0-javascript-ofd)
+- [The Struggles Of a Junior Software Developer](https://dev.to/annoh_karlgusta/the-struggles-of-a-junior-software-developer-fb4)
 - [Let&#39;s Talk About REST...](https://dev.to/calvinmclean/lets-talk-about-rest-1kjl)
-- [Learn SwiftUI &lpar;Day 6/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-6100-gc1)
-- [OOP poetry part III - behavioural patterns](https://dev.to/eatyourabstractions/design-pattern-poetry-part-iii-behavioural-1039)
-- [Understanding CSS Selectors: A Comprehensive Guide](https://dev.to/dhirajaryaa/understanding-css-selectors-a-comprehensive-guide-kmm)
 <!-- BLOG-POST-LIST:END -->
 
