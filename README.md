@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CURL - All methods and Usage ✅](https://dev.to/sh20raj/power-of-curl-your-friendly-handbook-5gd6)
-- [Quick tip: Write numpy arrays directly to the SingleStore VECTOR data type](https://dev.to/singlestore/quick-tip-write-numpy-arrays-directly-to-the-singlestore-vector-data-type-51cm)
-- [How will you achieve greatness?](https://dev.to/majin737/how-will-you-achieve-greatness-1kd5)
-- [Operating System Wars, what is the best operating system for programming. ⚔️](https://dev.to/sotergreco/operating-system-wars-what-is-the-best-operating-system-for-programming-o8i)
+- [Build an Image Magnifier Component in ReactJs](https://dev.to/margishpatel/build-an-image-magnifier-component-in-reactjs-2hc5)
+- [Demystifying useRef: A React Hook Guide](https://dev.to/antonmartyniuk/demystifying-useref-a-react-hook-guide-2cmf)
+- [&quot;Seamless Component Transitions: Achieving Smooth UI Flow with Single Component DOM Transitioning&quot;](https://dev.to/jagadeeshthatikonda/seamless-component-transitions-achieving-smooth-ui-flow-with-single-component-dom-transitioning-j6a)
+- [Playwright Scraping infinite loading &amp; pagination](https://dev.to/devloker/playwright-scraping-infinite-loading-pagination-4pid)
 <!-- BLOG-POST-LIST:END -->
 
