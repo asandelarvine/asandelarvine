@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve your productivity by using more terminal and less mouse &lpar;🚀&rpar;.](https://dev.to/ticha/improve-your-productivity-by-using-more-terminal-and-less-mouse--259n)
-- [MudBlazor with Blazor Interactive SSR – What You Need To Know](https://dev.to/devleader/mudblazor-with-blazor-interactive-ssr-what-you-need-to-know-28i9)
-- [Python &quot;Financial Health&quot; Terminal Project](https://dev.to/alejohenaoe/python-financial-health-terminal-project-315i)
-- [Top 5 Essential Laptop/Mac Maintenance Tasks for Peak Performance](https://dev.to/apoorvtomar/top-5-essential-laptopmac-maintenance-tasks-for-peak-performance-315m)
+- [🤔 Can You Improve CSS? Help invent CSS Masonry layout...](https://dev.to/adam/can-you-improve-css-help-invent-css-masonry-layout-3mdh)
+- [Zoom-Clone using NextJS-14, Clerk, TailwindCSS, StreamSDK](https://dev.to/faarehahmed/zoom-clone-using-nextjs-14-clerk-tailwindcss-streamsdk-4gh2)
+- [What is Alpha Testing and Why Is It Important?](https://dev.to/jamescantor38/what-is-alpha-testing-and-why-is-it-important-3l18)
+- [How to Setup Webhook in Google Form?](https://dev.to/amjadcp/how-to-setup-webhook-in-google-form-4p3i)
 <!-- BLOG-POST-LIST:END -->
 
