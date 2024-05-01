@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling with Express](https://dev.to/srishtikprasad/error-handling-with-express-40pk)
-- [Goroutines: Solving the problem of efficient multithreading](https://dev.to/parthlaw/goroutines-solving-the-problem-of-efficient-multithreading-3oic)
-- [Introduction to Edge Computing](https://dev.to/kartikmehta8/introduction-to-edge-computing-20gl)
-- [Where this command comes from?](https://dev.to/tallesl/where-this-command-comes-from-caj)
+- [Let&#39;s Talk About REST...](https://dev.to/calvinmclean/lets-talk-about-rest-1kjl)
+- [Learn SwiftUI &lpar;Day 6/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-6100-gc1)
+- [OOP poetry part III - behavioural patterns](https://dev.to/eatyourabstractions/design-pattern-poetry-part-iii-behavioural-1039)
+- [Understanding CSS Selectors: A Comprehensive Guide](https://dev.to/dhirajaryaa/understanding-css-selectors-a-comprehensive-guide-kmm)
 <!-- BLOG-POST-LIST:END -->
 
