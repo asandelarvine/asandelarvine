@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the AI Evolution: CodeNewbie Podcast S27E5](https://dev.to/codenewbieteam/navigating-the-ai-evolution-codenewbie-podcast-s27e5-16p2)
-- [How to use LLMs: Summarize long documents](https://dev.to/rogiia/how-to-use-llms-summarize-long-documents-4ee1)
-- [## The CAP Theorem &lpar;Brewer’s Theorem&rpar; in NoSQL Databases](https://dev.to/muhammetyasinarli/-the-cap-theorem-brewers-theorem-in-nosql-databases-2lbj)
-- [Especial 1 de Maio -Explorando a Diversidade da TI](https://dev.to/terminalcoffee/especial-1-de-maio-explorando-a-diversidade-da-ti-2nk4)
+- [Learn SwiftUI &lpar;Day 10/10&rpar;](https://dev.to/bitecode/learn-swiftui-day-1010-2mcp)
+- [Ensuring Business Continuity: Backup, Disaster Recovery, RTO, and RPO](https://dev.to/ahmadrahimizadeh/ensuring-business-continuity-backup-disaster-recovery-rto-and-rpo-go0)
+- [Android Development](https://dev.to/charumehta0215/android-development-3g44)
+- [Postgres partitioning performance: Hash vs. List](https://dev.to/msdousti/postgres-partitioning-performance-hash-vs-list-2ppn)
 <!-- BLOG-POST-LIST:END -->
 
