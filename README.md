@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Image Viewing Experience With React Native Image Viewer](https://dev.to/saumya27/enhancing-image-viewing-experience-with-react-native-image-viewer-2ng)
-- [Centralizing Cloud-Native Dev: Mastering Kubernetes Operations](https://dev.to/getambassador2024/centralizing-cloud-native-dev-mastering-kubernetes-operations-4o0j)
-- [Beginner&#39;s Guide to &quot;Introduction to Algorithms&quot;](https://dev.to/kirti17421/beginners-guide-to-introduction-to-algorithms-40dc)
-- [📌 AWS Under the Hood - Day 10 - How to Revoke Temporary IAM Credentials if they are Exposed 📌](https://dev.to/lakhera2015/aws-under-the-hood-day-10-how-to-revoke-temporary-iam-credentials-if-they-are-exposed-3h1b)
+- [What&#39;s Your One Thing?](https://dev.to/devteam/whats-your-one-thing-4g7f)
+- [Visualize Structure-from-Motion](https://dev.to/rerunio/visualize-structure-from-motion-i44)
+- [How to push notifications in Android using Firebase in React Native?](https://dev.to/codegirl0101/how-to-push-notifications-in-android-using-firebase-in-react-native-54cp)
+- [Learn to build AI apps with Azure Cosmos DB!](https://dev.to/reneenoble/learn-to-build-ai-apps-with-azure-cosmos-db-1lp1)
 <!-- BLOG-POST-LIST:END -->
 
