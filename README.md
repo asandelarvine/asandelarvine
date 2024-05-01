@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pure css animation](https://dev.to/assacine/pure-css-animation-2af6)
-- [Setup Azure Cosmos DB for Gremlin in Spring Boot Java](https://dev.to/jonathan-dev/setup-azure-cosmos-db-for-gremlin-in-spring-boot-java-5h95)
-- [How To Manage an Amazon Bedrock Agent Using Terraform](https://dev.to/aws-builders/how-to-manage-an-amazon-bedrock-agent-using-terraform-1lag)
-- [Learn SwiftUI &lpar;Day 7/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-7100-2e4l)
+- [Enhancing Image Viewing Experience With React Native Image Viewer](https://dev.to/saumya27/enhancing-image-viewing-experience-with-react-native-image-viewer-2ng)
+- [Centralizing Cloud-Native Dev: Mastering Kubernetes Operations](https://dev.to/getambassador2024/centralizing-cloud-native-dev-mastering-kubernetes-operations-4o0j)
+- [Beginner&#39;s Guide to &quot;Introduction to Algorithms&quot;](https://dev.to/kirti17421/beginners-guide-to-introduction-to-algorithms-40dc)
+- [📌 AWS Under the Hood - Day 10 - How to Revoke Temporary IAM Credentials if they are Exposed 📌](https://dev.to/lakhera2015/aws-under-the-hood-day-10-how-to-revoke-temporary-iam-credentials-if-they-are-exposed-3h1b)
 <!-- BLOG-POST-LIST:END -->
 
