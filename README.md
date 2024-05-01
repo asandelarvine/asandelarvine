@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Updating My Mac Window Shortcuts Strategy for Optimal Workflow](https://dev.to/mohsen_vaziri/updating-my-mac-window-shortcuts-strategy-for-optimal-workflow-ke9)
-- [second person](https://dev.to/onwritinggames/second-person-50bg)
-- [Opensource Installation](https://dev.to/naman108/opensource-installation-52i1)
-- [Building a monolith in Go - Layout](https://dev.to/daunderworks/building-a-monolith-in-go-layout-1no8)
+- [Serverless Doesn&#39;t Stand Still](https://dev.to/aws-builders/serverless-doesnt-stand-still-194)
+- [Uploading Files with React &lpar;POST Request&rpar;](https://dev.to/luqmanshaban/uploading-files-with-react-post-request-48gj)
+- [End-to-end MLOps CI/CD pipeline with Harness and AWS](https://dev.to/harness/end-to-end-mlops-cicd-pipeline-with-harness-and-aws-4084)
+- [User Manual for Automation using Ansible .](https://dev.to/khush_1351/user-manual-for-automation-using-ansible--2ihf)
 <!-- BLOG-POST-LIST:END -->
 
