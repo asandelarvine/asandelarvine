@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility exercise #2: Labour Day Poster](https://dev.to/mahzeb/accessibility-exercise-2-labour-day-poster-1155)
-- [Docker: A clear Guide](https://dev.to/rinonten/demystifying-docker-a-clear-explanation-for-developers-nn6)
-- [Bra Asks Yuhang Jia: Saying Goodbye to &quot;Artificial Stupidity&quot;? AI Training Data Providers Rectify the Names of AI](https://dev.to/naizhao/bra-asks-yuhang-jia-saying-goodbye-to-artificial-stupidity-ai-training-data-providers-rectify-the-names-of-ai-4862)
-- [Is purging still the hardest problem in computer science?](https://dev.to/fastly/is-purging-still-the-hardest-problem-in-computer-science-339i)
+- [CURL - All methods and Usage ✅](https://dev.to/sh20raj/power-of-curl-your-friendly-handbook-5gd6)
+- [Quick tip: Write numpy arrays directly to the SingleStore VECTOR data type](https://dev.to/singlestore/quick-tip-write-numpy-arrays-directly-to-the-singlestore-vector-data-type-51cm)
+- [How will you achieve greatness?](https://dev.to/majin737/how-will-you-achieve-greatness-1kd5)
+- [Operating System Wars, what is the best operating system for programming. ⚔️](https://dev.to/sotergreco/operating-system-wars-what-is-the-best-operating-system-for-programming-o8i)
 <!-- BLOG-POST-LIST:END -->
 
