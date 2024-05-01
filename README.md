@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn SwiftUI &lpar;Day 10/10&rpar;](https://dev.to/bitecode/learn-swiftui-day-1010-2mcp)
-- [Ensuring Business Continuity: Backup, Disaster Recovery, RTO, and RPO](https://dev.to/ahmadrahimizadeh/ensuring-business-continuity-backup-disaster-recovery-rto-and-rpo-go0)
-- [Android Development](https://dev.to/charumehta0215/android-development-3g44)
-- [Postgres partitioning performance: Hash vs. List](https://dev.to/msdousti/postgres-partitioning-performance-hash-vs-list-2ppn)
+- [Why Build a ChatBot When You Can Create a LLM Agent on OpenAI or Gemini](https://dev.to/vishalmysore/why-build-a-chatbot-when-you-can-create-a-llm-agent-on-openai-or-gemini-1254)
+- [How to Create a Virtual Machine Scale Set in Azure.](https://dev.to/excel36y/how-to-create-a-virtual-machine-scale-set-in-azure-1flo)
+- [129. Sum Root to Leaf Numbers](https://dev.to/mdarifulhaque/129-sum-root-to-leaf-numbers-1526)
+- [79. Word Search](https://dev.to/mdarifulhaque/79-word-search-5d7b)
 <!-- BLOG-POST-LIST:END -->
 
