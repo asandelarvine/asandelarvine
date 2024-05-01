@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [XRP Ledger-native Lending Protocol: Empowering On-Chain Credit Origination](https://dev.to/ripplexdev/xrp-ledger-native-lending-protocol-empowering-on-chain-credit-origination-2hho)
-- [678. Valid Parenthesis String](https://dev.to/mdarifulhaque/678-valid-parenthesis-string-3bcf)
-- [950. Reveal Cards In Increasing Order](https://dev.to/mdarifulhaque/950-reveal-cards-in-increasing-order-4gie)
-- [1249. Minimum Remove to Make Valid Parentheses](https://dev.to/mdarifulhaque/1249-minimum-remove-to-make-valid-parentheses-db4)
+- [Error Handling with Express](https://dev.to/srishtikprasad/error-handling-with-express-40pk)
+- [Goroutines: Solving the problem of efficient multithreading](https://dev.to/parthlaw/goroutines-solving-the-problem-of-efficient-multithreading-3oic)
+- [Introduction to Edge Computing](https://dev.to/kartikmehta8/introduction-to-edge-computing-20gl)
+- [Where this command comes from?](https://dev.to/tallesl/where-this-command-comes-from-caj)
 <!-- BLOG-POST-LIST:END -->
 
