@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: DX Engineer](https://dev.to/r4nd3l/front-end-specialisations-dx-engineer-3lao)
-- [A Guide to the Eisenhower Matrix for Advanced Time Management and Productivity](https://dev.to/productivity/a-guide-to-the-eisenhower-matrix-for-advanced-time-management-and-productivity-4eeb)
-- [Navigating the New Frontier: AI-Powered Software Development](https://dev.to/dev3l/navigating-the-new-frontier-ai-powered-software-development-17hh)
-- [Angular Signals update function](https://dev.to/nhannguyendevjs/angular-signals-update-function-59b3)
+- [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
+- [Quick SQL guide and cheat sheet: Essential Commands](https://dev.to/dbvismarketing/quick-sql-guide-essential-commands-for-effective-data-handling-cmd)
+- [Replacing Type Code With State/Strategy](https://dev.to/fanatixan/replacing-type-code-with-statestrategy-mfk)
+- [Revolutionizing AI Tools Directory: How AI Parabellum is Changing the Game](https://dev.to/foxinfotech/revolutionizing-ai-tools-directory-how-ai-parabellum-is-changing-the-game-384d)
 <!-- BLOG-POST-LIST:END -->
 
