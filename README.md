@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are The Best Knowledge That Every Programming Course Misses?](https://dev.to/llxd/what-are-the-best-knowledge-that-every-programming-course-misses-4f67)
-- [Building a Notion-style activity feed with Next.js and shadcn/ui](https://dev.to/knocklabs/building-a-notion-style-activity-feed-with-nextjs-and-shadcnui-m4i)
-- [Difference Between Jest, Enzyme and React Testing Library](https://dev.to/viissgg/difference-between-jest-enzyme-and-react-testing-library-7ki)
-- [Redirect Your Online Success with Rebrandly: The Power of Customized Links](https://dev.to/razxssd/redirect-your-online-success-with-rebrandly-the-power-of-customized-links-405n)
+- [Goodbye Dev.to, Hello Substack.](https://dev.to/samuelfaure/goodbye-devto-hello-substack-1ekh)
+- [5 of the Best Free FrontEnd Tutorials Out There](https://dev.to/ahmed_onour/5-of-the-best-free-frontend-tutorials-out-there-22gl)
+- [How can you find web design software that provides seamless collaboration features for remote teams?](https://dev.to/utkarsh032/how-can-you-find-web-design-software-that-provides-seamless-collaboration-features-for-remote-teams-1pof)
+- [How to create and monetize UI library?](https://dev.to/vitalijalbu/how-to-monetize-ui-library-55lc)
 <!-- BLOG-POST-LIST:END -->
 
