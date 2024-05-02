@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling WordPress 6.5: The Next Frontier in Website Building](https://dev.to/lannycolvin11/unveiling-wordpress-65-the-next-frontier-in-website-building-1a9m)
-- [Seeking help Running Express.js Npm package for Exploration](https://dev.to/antardas/seeking-help-running-expressjs-npm-package-for-exploration-f0c)
-- [The best type for storing money in our posgresql db](https://dev.to/thecoder512/the-best-type-for-storing-money-in-our-posgresql-db-2jfl)
-- [Adding Keyboard Shortcut Functionality to the Windows Quick List Applet in Linux Mint Cinnamon](https://dev.to/shawon/adding-keyboard-shortcut-functionality-to-the-windows-quick-list-applet-in-linux-mint-cinnamon-4lkj)
+- [The Adventures of Blink #21: Start with Empathy](https://dev.to/linkbenjamin/the-adventures-of-blink-21-start-with-empathy-36d7)
+- [if Statements](https://dev.to/paulike/if-statements-2m9l)
+- [Selections](https://dev.to/paulike/selections-1l9c)
+- [No-code Real-time Object Detection without training models](https://dev.to/miguelaeh/no-code-real-time-object-detection-without-training-models-59b0)
 <!-- BLOG-POST-LIST:END -->
 
