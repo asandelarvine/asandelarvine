@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GIT and GITHUB](https://dev.to/bbylumi/git-and-github-17ba)
-- [** ¡Las variables: Una aventura con los hermanos Warner! **](https://dev.to/orlidev/-las-variables-una-aventura-con-los-hermanos-warner--452f)
-- [Computer Vision Meetup: Who needs RLHF When You Have SFT?](https://dev.to/voxel51/computer-vision-meetup-who-needs-rlhf-when-you-have-sft-1hc9)
-- [Implementing repeating-key XOR](https://dev.to/stefanalfbo/implementing-repeating-key-xor-feh)
+- [Netlify Dynamic Site Challenge - Help Thread!](https://dev.to/netlify/netlify-dynamic-site-challenge-help-thread-2081)
+- [🖋️ Unlock Your Writing Potential with CopilotKit&#39;s AI-Powered Wizardry!](https://dev.to/arnavk-09/unlock-your-writing-potential-with-copilotkits-ai-powered-wizardry-30bb)
+- [Melhorando e configurando seu novo Shell linux. Pt-2](https://dev.to/devhat/melhorando-e-configurando-seu-novo-shell-linux-pt-2-4bfc)
+- [Notes on streaming downloads with progress in Elixir](https://dev.to/ndrean/notes-on-streaming-downloads-with-progress-in-elixir-4nk7)
 <!-- BLOG-POST-LIST:END -->
 
