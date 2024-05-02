@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflexões sobre SOLID - Princípios Básicos](https://dev.to/mdeamp/reflexoes-sobre-solid-principios-basicos-2c9e)
-- [Navigating the Complexity of Distributed Systems: A Practical Guide](https://dev.to/tomjohnson3/navigating-the-complexity-of-distributed-systems-a-practical-guide-1nom)
-- [Creating a Highly-Available website in AWS](https://dev.to/gitgeetansh/creating-a-highly-available-website-in-aws-o04)
-- [Integration Testing in Obsidian](https://dev.to/bcamphart/integration-testing-in-obsidian-1gm5)
+- [Computer Vision Meetup: Making LLMs Safe &amp; Reliable](https://dev.to/voxel51/computer-vision-meetup-making-llms-safe-reliable-5goi)
+- [Developing an Arabic Learning Terminal-Based App!](https://dev.to/tishksuran/developing-an-arabic-learning-terminal-based-app-50n1)
+- [Why Understanding Your Open Source Licenses Matters](https://dev.to/gitguardian/why-understanding-your-open-source-licenses-matters-1pkl)
+- [1st week of WAD Blog](https://dev.to/kazuchikayanagi/1st-week-of-wad-blog-b8g)
 <!-- BLOG-POST-LIST:END -->
 
