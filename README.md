@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents of Change: Navigating the Rise of AI Agents in 2024](https://dev.to/get_pieces/agents-of-change-navigating-the-rise-of-ai-agents-in-2024-143a)
-- [Showcase your open source project at top developer conferences in Berlin this summer 🇩🇪](https://dev.to/github/showcase-your-open-source-project-at-top-developer-conferences-in-berlin-this-summer-5aki)
-- [I am lost in a maze help me !](https://dev.to/nandan9/i-am-lost-in-a-maze-help-me--1b38)
-- [How single message broke all our monitoring and dashboards](https://dev.to/capjavert/how-single-message-broke-all-our-monitoring-and-dashboards-40a6)
+- [Reflexões sobre SOLID - Princípios Básicos](https://dev.to/mdeamp/reflexoes-sobre-solid-principios-basicos-2c9e)
+- [Navigating the Complexity of Distributed Systems: A Practical Guide](https://dev.to/tomjohnson3/navigating-the-complexity-of-distributed-systems-a-practical-guide-1nom)
+- [Creating a Highly-Available website in AWS](https://dev.to/gitgeetansh/creating-a-highly-available-website-in-aws-o04)
+- [Integration Testing in Obsidian](https://dev.to/bcamphart/integration-testing-in-obsidian-1gm5)
 <!-- BLOG-POST-LIST:END -->
 
