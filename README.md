@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Disabled State to Buttons with Turbo &amp; Tailwind CSS](https://dev.to/railsdesigner/how-to-add-disabled-state-to-buttons-with-turbo-tailwind-css-2feb)
-- [Android Chart Performance Comparison](https://dev.to/andyb1979/android-chart-performance-comparison-5ej7)
-- [JavaScript call, bind and apply method usages.](https://dev.to/ashsajal/javascript-call-bind-and-apply-method-usages-42ba)
-- [Apply SwipeToDismissBox in Android Jetpack Compose](https://dev.to/shivathapaa/apply-swipetodismissbox-in-android-jetpack-compose-3igm)
+- [Unveiling WordPress 6.5: The Next Frontier in Website Building](https://dev.to/lannycolvin11/unveiling-wordpress-65-the-next-frontier-in-website-building-1a9m)
+- [Seeking help Running Express.js Npm package for Exploration](https://dev.to/antardas/seeking-help-running-expressjs-npm-package-for-exploration-f0c)
+- [The best type for storing money in our posgresql db](https://dev.to/thecoder512/the-best-type-for-storing-money-in-our-posgresql-db-2jfl)
+- [Adding Keyboard Shortcut Functionality to the Windows Quick List Applet in Linux Mint Cinnamon](https://dev.to/shawon/adding-keyboard-shortcut-functionality-to-the-windows-quick-list-applet-in-linux-mint-cinnamon-4lkj)
 <!-- BLOG-POST-LIST:END -->
 
