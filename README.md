@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink #21: Start with Empathy](https://dev.to/linkbenjamin/the-adventures-of-blink-21-start-with-empathy-36d7)
-- [if Statements](https://dev.to/paulike/if-statements-2m9l)
-- [Selections](https://dev.to/paulike/selections-1l9c)
-- [No-code Real-time Object Detection without training models](https://dev.to/miguelaeh/no-code-real-time-object-detection-without-training-models-59b0)
+- [What is Container Scanning?](https://dev.to/clouddefenseai/what-is-container-scanning-1d4o)
+- [React vs Other Framework](https://dev.to/rafie/react-vs-other-framework-892)
+- [We just raised our $17 million Series A](https://dev.to/aikidosecurity/we-just-raised-our-17-million-series-a-4l4f)
+- [Debugging production CDK Node.js app with AWS Fargate](https://dev.to/brightdevs/debugging-production-cdk-nodejs-app-with-aws-fargate-235)
 <!-- BLOG-POST-LIST:END -->
 
