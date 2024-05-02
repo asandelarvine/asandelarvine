@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t need dotenv.](https://dev.to/shubhambattoo/you-dont-need-dotenv-9)
-- [The Essential Guide to Database Backup: Tips &amp; Strategies](https://dev.to/metis/the-essential-guide-to-database-backup-tips-strategies-c8p)
-- [The Challenge of Versioning Expandable API&#39;s in Umbraco](https://dev.to/mattbrailsford/the-challenge-of-versioning-expandable-apis-in-umbraco-1ab8)
-- [Count Good Nodes in Binary Tree | LeetCode | Java](https://dev.to/tanujav/count-good-nodes-in-binary-tree-leetcode-java-5cgi)
+- [How to Add Disabled State to Buttons with Turbo &amp; Tailwind CSS](https://dev.to/railsdesigner/how-to-add-disabled-state-to-buttons-with-turbo-tailwind-css-2feb)
+- [Android Chart Performance Comparison](https://dev.to/andyb1979/android-chart-performance-comparison-5ej7)
+- [JavaScript call, bind and apply method usages.](https://dev.to/ashsajal/javascript-call-bind-and-apply-method-usages-42ba)
+- [Apply SwipeToDismissBox in Android Jetpack Compose](https://dev.to/shivathapaa/apply-swipetodismissbox-in-android-jetpack-compose-3igm)
 <!-- BLOG-POST-LIST:END -->
 
