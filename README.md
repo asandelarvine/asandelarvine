@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Container Scanning?](https://dev.to/clouddefenseai/what-is-container-scanning-1d4o)
-- [React vs Other Framework](https://dev.to/rafie/react-vs-other-framework-892)
-- [We just raised our $17 million Series A](https://dev.to/aikidosecurity/we-just-raised-our-17-million-series-a-4l4f)
-- [Debugging production CDK Node.js app with AWS Fargate](https://dev.to/brightdevs/debugging-production-cdk-nodejs-app-with-aws-fargate-235)
+- [Day 2: Setting Up Angular Development Environment](https://dev.to/dipakahirav/day-2-setting-up-angular-development-environment-2ck9)
+- [Advanced Index Rebuild and Maintenance Strategies for SQL Server](https://dev.to/devartteam/advanced-index-rebuild-and-maintenance-strategies-for-sql-server-ig2)
+- [Creating Partitions and Mounting File Systems in Linux](https://dev.to/gabi1447/creating-partitions-and-mounting-file-systems-in-linux-39e9)
+- [The Ultimate Guide to DOM Manipulation: Beginner to Expert](https://dev.to/linusmwiti21/the-ultimate-guide-to-dom-manipulation-beginner-to-expert-4h96)
 <!-- BLOG-POST-LIST:END -->
 
