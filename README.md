@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Dev.to, Hello Substack.](https://dev.to/samuelfaure/goodbye-devto-hello-substack-1ekh)
-- [5 of the Best Free FrontEnd Tutorials Out There](https://dev.to/ahmed_onour/5-of-the-best-free-frontend-tutorials-out-there-22gl)
-- [How can you find web design software that provides seamless collaboration features for remote teams?](https://dev.to/utkarsh032/how-can-you-find-web-design-software-that-provides-seamless-collaboration-features-for-remote-teams-1pof)
-- [How to create and monetize UI library?](https://dev.to/vitalijalbu/how-to-monetize-ui-library-55lc)
+- [Agents of Change: Navigating the Rise of AI Agents in 2024](https://dev.to/get_pieces/agents-of-change-navigating-the-rise-of-ai-agents-in-2024-143a)
+- [Showcase your open source project at top developer conferences in Berlin this summer 🇩🇪](https://dev.to/github/showcase-your-open-source-project-at-top-developer-conferences-in-berlin-this-summer-5aki)
+- [I am lost in a maze help me !](https://dev.to/nandan9/i-am-lost-in-a-maze-help-me--1b38)
+- [How single message broke all our monitoring and dashboards](https://dev.to/capjavert/how-single-message-broke-all-our-monitoring-and-dashboards-40a6)
 <!-- BLOG-POST-LIST:END -->
 
