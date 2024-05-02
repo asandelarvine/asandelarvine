@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Vision Meetup: Making LLMs Safe &amp; Reliable](https://dev.to/voxel51/computer-vision-meetup-making-llms-safe-reliable-5goi)
-- [Developing an Arabic Learning Terminal-Based App!](https://dev.to/tishksuran/developing-an-arabic-learning-terminal-based-app-50n1)
-- [Why Understanding Your Open Source Licenses Matters](https://dev.to/gitguardian/why-understanding-your-open-source-licenses-matters-1pkl)
-- [1st week of WAD Blog](https://dev.to/kazuchikayanagi/1st-week-of-wad-blog-b8g)
+- [GIT and GITHUB](https://dev.to/bbylumi/git-and-github-17ba)
+- [** ¡Las variables: Una aventura con los hermanos Warner! **](https://dev.to/orlidev/-las-variables-una-aventura-con-los-hermanos-warner--452f)
+- [Computer Vision Meetup: Who needs RLHF When You Have SFT?](https://dev.to/voxel51/computer-vision-meetup-who-needs-rlhf-when-you-have-sft-1hc9)
+- [Implementing repeating-key XOR](https://dev.to/stefanalfbo/implementing-repeating-key-xor-feh)
 <!-- BLOG-POST-LIST:END -->
 
