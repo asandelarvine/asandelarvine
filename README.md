@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Build a ChatBot When You Can Create a LLM Agent on OpenAI or Gemini](https://dev.to/vishalmysore/why-build-a-chatbot-when-you-can-create-a-llm-agent-on-openai-or-gemini-1254)
-- [How to Create a Virtual Machine Scale Set in Azure.](https://dev.to/excel36y/how-to-create-a-virtual-machine-scale-set-in-azure-1flo)
-- [129. Sum Root to Leaf Numbers](https://dev.to/mdarifulhaque/129-sum-root-to-leaf-numbers-1526)
-- [79. Word Search](https://dev.to/mdarifulhaque/79-word-search-5d7b)
+- [Survey on the Feasibility of AI Ops Agents Replacing Human Tasks?](https://dev.to/choonho/survey-on-the-feasibility-of-ai-ops-agents-replacing-human-tasks-1fi6)
+- [Developing VR Applications with Unity](https://dev.to/kartikmehta8/developing-vr-applications-with-unity-5fo2)
+- [Renewing Let&#39;s Encrypt Certificates with NGINX Unit](https://dev.to/djangotricks/renewing-lets-encrypt-certificates-with-nginx-unit-2jik)
+- [Lagoon at DrupalCon Portland 2024](https://dev.to/uselagoon/lagoon-at-drupalcon-portland-2024-1abi)
 <!-- BLOG-POST-LIST:END -->
 
