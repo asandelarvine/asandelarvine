@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Front-end specialisations: DX Engineer](https://dev.to/r4nd3l/front-end-specialisations-dx-engineer-3lao)
+- [A Guide to the Eisenhower Matrix for Advanced Time Management and Productivity](https://dev.to/productivity/a-guide-to-the-eisenhower-matrix-for-advanced-time-management-and-productivity-4eeb)
+- [Navigating the New Frontier: AI-Powered Software Development](https://dev.to/dev3l/navigating-the-new-frontier-ai-powered-software-development-17hh)
 - [Angular Signals update function](https://dev.to/nhannguyendevjs/angular-signals-update-function-59b3)
-- [10 Best Websites for practicing Data Structures and Algorithms &lpar;DSA&rpar;:](https://dev.to/dhyaneshsiddhartha15/10-best-websites-for-practicing-data-structures-and-algorithms-dsa-3n39)
-- [Code Smarter, Not Harder: Unleashing AI in Agile Development](https://dev.to/dev3l/code-smarter-not-harder-unleashing-ai-in-agile-development-37jd)
-- [Rust, WASM, and LOK](https://dev.to/knutaf/rust-wasm-and-lok-1dfi)
 <!-- BLOG-POST-LIST:END -->
 
