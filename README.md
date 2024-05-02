@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
-- [Quick SQL guide and cheat sheet: Essential Commands](https://dev.to/dbvismarketing/quick-sql-guide-essential-commands-for-effective-data-handling-cmd)
-- [Replacing Type Code With State/Strategy](https://dev.to/fanatixan/replacing-type-code-with-statestrategy-mfk)
-- [Revolutionizing AI Tools Directory: How AI Parabellum is Changing the Game](https://dev.to/foxinfotech/revolutionizing-ai-tools-directory-how-ai-parabellum-is-changing-the-game-384d)
+- [You don&#39;t need dotenv.](https://dev.to/shubhambattoo/you-dont-need-dotenv-9)
+- [The Essential Guide to Database Backup: Tips &amp; Strategies](https://dev.to/metis/the-essential-guide-to-database-backup-tips-strategies-c8p)
+- [The Challenge of Versioning Expandable API&#39;s in Umbraco](https://dev.to/mattbrailsford/the-challenge-of-versioning-expandable-apis-in-umbraco-1ab8)
+- [Count Good Nodes in Binary Tree | LeetCode | Java](https://dev.to/tanujav/count-good-nodes-in-binary-tree-leetcode-java-5cgi)
 <!-- BLOG-POST-LIST:END -->
 
