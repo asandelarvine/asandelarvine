@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel +11 how to set validateCsrfToken dinamically](https://dev.to/fershopls/laravel-11-how-to-set-validatecsrftoken-dinamically-7e0)
+- [🌌 May The Fourth Be With You! ⚔️ 🌠](https://dev.to/devteam/may-the-fourth-be-with-you-43p7)
+- [cURL for Web Scraping with Python, JAVA, and PHP](https://dev.to/crawlbase/curl-for-web-scraping-with-python-java-and-php-4875)
 - [Podcast: A candid chat about the developer market with Don the Developer](https://dev.to/rithmschool/podcast-a-candid-chat-about-the-developer-market-with-don-the-developer-2410)
-- [Recapping the AI, Machine Learning and Data Science Meetup — May 2, 2024](https://dev.to/jguerrero-voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-may-2-2024-151h)
-- [heap minchild](https://dev.to/imnotleo/heap-minchild-5h9o)
-- [Torneo Pokemon](https://dev.to/imnotleo/torneo-pokemon-1o3l)
 <!-- BLOG-POST-LIST:END -->
 
