@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Dynamic Site Challenge - Help Thread!](https://dev.to/netlify/netlify-dynamic-site-challenge-help-thread-2081)
-- [🖋️ Unlock Your Writing Potential with CopilotKit&#39;s AI-Powered Wizardry!](https://dev.to/arnavk-09/unlock-your-writing-potential-with-copilotkits-ai-powered-wizardry-30bb)
-- [Melhorando e configurando seu novo Shell linux. Pt-2](https://dev.to/devhat/melhorando-e-configurando-seu-novo-shell-linux-pt-2-4bfc)
-- [Notes on streaming downloads with progress in Elixir](https://dev.to/ndrean/notes-on-streaming-downloads-with-progress-in-elixir-4nk7)
+- [Podcast: A candid chat about the developer market with Don the Developer](https://dev.to/rithmschool/podcast-a-candid-chat-about-the-developer-market-with-don-the-developer-2410)
+- [Recapping the AI, Machine Learning and Data Science Meetup — May 2, 2024](https://dev.to/jguerrero-voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-may-2-2024-151h)
+- [heap minchild](https://dev.to/imnotleo/heap-minchild-5h9o)
+- [Torneo Pokemon](https://dev.to/imnotleo/torneo-pokemon-1o3l)
 <!-- BLOG-POST-LIST:END -->
 
