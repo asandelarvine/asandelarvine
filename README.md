@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools for Teachers](https://dev.to/tubwe12/best-ai-tools-for-teachers-29pa)
-- [How to Create Custom Facade in laravel?](https://dev.to/rohiturane/how-to-create-custom-facade-in-laravel-10mp)
-- [Three.js/ Gamedev AI code generator](https://dev.to/spatialpoet/threejs-gamedev-ai-code-generator-41hf)
-- [Animating Numbers](https://dev.to/madsstoumann/animating-numbers-1oc8)
+- [Component in React](https://dev.to/abhayrsr/component-in-react-5284)
+- [CSS Hack: &quot;Named Layers&quot;](https://dev.to/darkwiiplayer/css-hack-named-layers-1ap7)
+- [Web Developers, Get Ready to Transform Your VS Code in 2024!](https://dev.to/duc243/web-developers-get-ready-to-transform-your-vs-code-in-2024-2n20)
+- [AsyncAPI: a practical look](https://dev.to/marianvarga/asyncapi-a-practical-look-2hln)
 <!-- BLOG-POST-LIST:END -->
 
