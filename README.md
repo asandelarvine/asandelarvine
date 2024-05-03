@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AsciidocFX: The Asciidoc Editor for documentation and authoring](https://dev.to/rprabhu/asciidocfx-the-asciidoc-editor-for-documentation-and-authoring-3dee)
-- [How to create an ECS Service with more than one Target Group](https://dev.to/fanmixco/how-to-create-a-ecs-service-more-than-one-target-group-2j2i)
-- [SQL Server Basics](https://dev.to/quyit/sql-server-basics-khh)
-- [NeoVim for beginners Walkthrough](https://dev.to/bekbrace/neovim-for-beginners-walkthrough-1768)
+- [Leonardo AI: Your Ultimate Guide to AI Video Generation](https://dev.to/hyscaler/leonardo-ai-a-comprehensive-guide-4182)
+- [&quot;Used a jailbroken ChatGPT?: Share your story. 😲&quot;](https://dev.to/itsjp/used-a-jailbroken-chatgpt-share-your-story--1697)
+- [My First Mobile Game With Flutter](https://dev.to/terekhin/my-first-mobile-game-with-flutter-4k32)
+- [🚀 Exploring the Integration of Django with Machine Learning Models for Predictive Analytics in Web Applications](https://dev.to/jackmutech/exploring-the-integration-of-django-with-machine-learning-models-for-predictive-analytics-in-web-applications-5cph)
 <!-- BLOG-POST-LIST:END -->
 
