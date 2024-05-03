@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customizing Rust Error Messages with Diagnostic Attributes](https://dev.to/ibrahimbagalwa/customizing-rust-error-messages-with-diagnostic-attributes-3761)
-- [Automatic interfaces generation in the C#](https://dev.to/szymonhalucha/automatic-interfaces-generation-in-the-c-469k)
-- [Demystifying Heuristic Search Algorithms](https://dev.to/markyu/demystifying-heuristic-search-algorithms-59lh)
-- [HTML popover](https://dev.to/vulfh/html-popover-57a0)
+- [AsciidocFX: The Asciidoc Editor for documentation and authoring](https://dev.to/rprabhu/asciidocfx-the-asciidoc-editor-for-documentation-and-authoring-3dee)
+- [How to create an ECS Service with more than one Target Group](https://dev.to/fanmixco/how-to-create-a-ecs-service-more-than-one-target-group-2j2i)
+- [SQL Server Basics](https://dev.to/quyit/sql-server-basics-khh)
+- [NeoVim for beginners Walkthrough](https://dev.to/bekbrace/neovim-for-beginners-walkthrough-1768)
 <!-- BLOG-POST-LIST:END -->
 
