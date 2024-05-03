@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I ended up using Colima for Docker on Apple Silicon](https://dev.to/dim5/how-i-ended-up-using-colima-for-docker-on-apple-silicon-2hb2)
-- [Simplify Shadow DOM with setHTMLUnsafe](https://dev.to/js_bits_bill/simplify-shadow-dom-with-sethtmlunsafe-1fne)
-- [# Const x Final em Dart. Você sabe a diferença?](https://dev.to/ylanzinhoy/-const-x-final-em-dart-voce-sabe-a-diferenca-5ahc)
-- [I made a whooping 1.60$ from my books-for-indies app and... it&#39;s totally fine.](https://dev.to/majorbaguette/i-made-a-whooping-160from-my-books-for-indiesapp-and-its-totally-fine-3bn7)
+- [Tailwind tips I&#39;ve learned while using it !](https://dev.to/patzi275/tailwind-tips-ive-learned-while-using-it--20o4)
+- [Introduction to Docker Containers [With Commands]](https://dev.to/markyu/introduction-to-docker-containers-with-commands-amf)
+- [How to Choose the Proper License for your Project &lpar;and Why It Matters&rpar;](https://dev.to/hjgonzalez06/how-to-choose-the-proper-license-for-your-project-and-why-it-matters-16en)
+- [Unofficial ChatGPT API with simple agent-based](https://dev.to/0xmesto/an-unofficial-chatgpt-api-with-simple-agent-based-2i7m)
 <!-- BLOG-POST-LIST:END -->
 
