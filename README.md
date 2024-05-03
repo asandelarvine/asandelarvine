@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[ALPHA 0.1] Chat System Work](https://dev.to/khbc_remake/alpha-01-chat-system-work-3m2j)
-- [The refactors I did to stop my Jetpack Compose LazyColumn from constantly recomposing](https://dev.to/theplebdev/the-refactors-i-did-to-stop-my-jetpack-compose-lazycolumn-from-constantly-recomposing-57l0)
-- [Unlocking secure software distribution with Minder and GitHub Artifact Attestations](https://dev.to/ninfriendos1/unlocking-secure-software-distribution-with-minder-and-github-artifact-attestations-8l5)
-- [Difference between functional and nonfunctional testing](https://dev.to/karvendhan/difference-between-functional-and-nonfunctional-testing-83h)
+- [What are Composable Function?](https://dev.to/yogeshgalav7/what-are-composable-function-4ili)
+- [File Input and Output in Ruby](https://dev.to/devmayman/file-input-and-output-in-ruby-1ajb)
+- [Episode 24/17: Ionic 8, JsAction](https://dev.to/this-is-angular/episode-2417-ionic-8-jsaction-3p95)
+- [Running SQL on your Excel Files From Your Laptop with Dremio](https://dev.to/alexmercedcoder/running-sql-on-your-excel-files-from-your-laptop-with-dremio-261p)
 <!-- BLOG-POST-LIST:END -->
 
