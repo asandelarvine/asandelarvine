@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Component in React](https://dev.to/abhayrsr/component-in-react-5284)
-- [CSS Hack: &quot;Named Layers&quot;](https://dev.to/darkwiiplayer/css-hack-named-layers-1ap7)
-- [Web Developers, Get Ready to Transform Your VS Code in 2024!](https://dev.to/duc243/web-developers-get-ready-to-transform-your-vs-code-in-2024-2n20)
-- [AsyncAPI: a practical look](https://dev.to/marianvarga/asyncapi-a-practical-look-2hln)
+- [Large Language Model Operations &lpar;LLMops&rpar; on AWS](https://dev.to/aws-builders/large-language-model-operations-llmops-on-aws-4b86)
+- [Unlocking the Power of Constructors in Angular Applications](https://dev.to/chintanonweb/unlocking-the-power-of-constructors-in-angular-applications-4g9n)
+- [Riverpod State Management Package in Flutter 3.19](https://dev.to/codetradeindia/riverpod-state-management-package-in-flutter-319-nkk)
+- [Mocking ES6 Class Instances with Jest](https://dev.to/andrewchaa/mocking-es6-class-instances-with-jest-p6c)
 <!-- BLOG-POST-LIST:END -->
 
