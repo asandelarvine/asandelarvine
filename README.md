@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IDM-VTON: The Most Amazing Virtual Try Anything On Application - Windows, Massed Compute, RunPod &amp; Kaggle](https://dev.to/furkangozukara/idm-vton-the-most-amazing-virtual-try-anything-on-application-windows-massed-compute-runpod-kaggle-4edf)
-- [JavaScript Design Patterns - Structural - Decorator](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-decorator-5eed)
-- [HTML5 Semantic Tags: A Guide to Better Document Structure 🌐](https://dev.to/ayoubkhan558/html5-semantic-tags-a-guide-to-better-document-structure-25p)
-- [Encryption 101: How It Works and Why It&#39;s Essential for Security](https://dev.to/me_priya/encryption-101-how-it-works-and-why-its-essential-for-security-36kf)
+- [Designing with accessibility in mind: Ubergood Festival](https://dev.to/mahzeb/designing-with-accessibility-in-mind-ubergood-festival-3o40)
+- [Part 4: Working with Node.js Modules](https://dev.to/dipakahirav/part-4-working-with-nodejs-modules-fe4)
+- [Data Structures and Algorithms: Depth First Search](https://dev.to/faraib/data-structures-and-algorithms-depth-first-search-4c0e)
+- [OpenMLDB v0.9.0 Release: Major Upgrade in SQL Capabilities Covering the Entire Feature Servicing Process](https://dev.to/elliezza/openmldb-v090-release-major-upgrade-in-sql-capabilities-covering-the-entire-feature-servicing-process-bfo)
 <!-- BLOG-POST-LIST:END -->
 
