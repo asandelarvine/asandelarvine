@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Very Basic Dark/Light Modes with CSS Variables and JavaScript 🌓](https://dev.to/ayoubkhan558/implementing-dark-and-light-modes-with-css-variables-and-javascript-d4n)
-- [1 Law of Success as a Developer](https://dev.to/annoh_karlgusta/1-law-of-success-as-a-developer-3g9g)
-- [How I use Devbox in my Elm projects](https://dev.to/dwayne/how-i-use-devbox-in-my-elm-projects-2hbg)
-- [Create charts with chart.js](https://dev.to/notesmatic/create-charts-with-chartjs-1dda)
+- [IDM-VTON: The Most Amazing Virtual Try Anything On Application - Windows, Massed Compute, RunPod &amp; Kaggle](https://dev.to/furkangozukara/idm-vton-the-most-amazing-virtual-try-anything-on-application-windows-massed-compute-runpod-kaggle-4edf)
+- [JavaScript Design Patterns - Structural - Decorator](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-decorator-5eed)
+- [HTML5 Semantic Tags: A Guide to Better Document Structure 🌐](https://dev.to/ayoubkhan558/html5-semantic-tags-a-guide-to-better-document-structure-25p)
+- [Encryption 101: How It Works and Why It&#39;s Essential for Security](https://dev.to/me_priya/encryption-101-how-it-works-and-why-its-essential-for-security-36kf)
 <!-- BLOG-POST-LIST:END -->
 
