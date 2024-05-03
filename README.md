@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Composable Function?](https://dev.to/yogeshgalav7/what-are-composable-function-4ili)
-- [File Input and Output in Ruby](https://dev.to/devmayman/file-input-and-output-in-ruby-1ajb)
-- [Episode 24/17: Ionic 8, JsAction](https://dev.to/this-is-angular/episode-2417-ionic-8-jsaction-3p95)
-- [Running SQL on your Excel Files From Your Laptop with Dremio](https://dev.to/alexmercedcoder/running-sql-on-your-excel-files-from-your-laptop-with-dremio-261p)
+- [Maximum Average Subarray I | LeetCode | Java](https://dev.to/tanujav/maximum-average-subarray-i-leetcode-java-2d2d)
+- [Sumérgete en la Nube: Como comenzar tu Cloud Journey](https://dev.to/aws-espanol/sumergete-en-la-nube-como-comenzar-tu-cloud-journey-3k4n)
+- [Understanding Variables in Ruby: A Comprehensive Guide](https://dev.to/abanoubmedhatseif/understanding-variables-in-ruby-a-comprehensive-guide-263o)
+- [What is the right way to do microservice ??](https://dev.to/bhaskardutta/what-is-the-right-way-to-do-microservice--3no9)
 <!-- BLOG-POST-LIST:END -->
 
