@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing with accessibility in mind: Ubergood Festival](https://dev.to/mahzeb/designing-with-accessibility-in-mind-ubergood-festival-3o40)
-- [Part 4: Working with Node.js Modules](https://dev.to/dipakahirav/part-4-working-with-nodejs-modules-fe4)
-- [Data Structures and Algorithms: Depth First Search](https://dev.to/faraib/data-structures-and-algorithms-depth-first-search-4c0e)
-- [OpenMLDB v0.9.0 Release: Major Upgrade in SQL Capabilities Covering the Entire Feature Servicing Process](https://dev.to/elliezza/openmldb-v090-release-major-upgrade-in-sql-capabilities-covering-the-entire-feature-servicing-process-bfo)
+- [Customizing Rust Error Messages with Diagnostic Attributes](https://dev.to/ibrahimbagalwa/customizing-rust-error-messages-with-diagnostic-attributes-3761)
+- [Automatic interfaces generation in the C#](https://dev.to/szymonhalucha/automatic-interfaces-generation-in-the-c-469k)
+- [Demystifying Heuristic Search Algorithms](https://dev.to/markyu/demystifying-heuristic-search-algorithms-59lh)
+- [HTML popover](https://dev.to/vulfh/html-popover-57a0)
 <!-- BLOG-POST-LIST:END -->
 
