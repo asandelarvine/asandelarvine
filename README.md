@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IAM — Identity and Access Management](https://dev.to/aws-builders/aws-iam-identity-and-access-management-8ph)
-- [System Design - Database Sharding &amp; Replication Strategies](https://dev.to/vineetaparodkar/system-design-database-sharding-jhp)
-- [Debugging](https://dev.to/paulike/debugging-44cg)
-- [System Design - Message Queues](https://dev.to/vineetaparodkar/system-design-message-queues-3i0m)
+- [[ALPHA 0.1] Chat System Work](https://dev.to/khbc_remake/alpha-01-chat-system-work-3m2j)
+- [The refactors I did to stop my Jetpack Compose LazyColumn from constantly recomposing](https://dev.to/theplebdev/the-refactors-i-did-to-stop-my-jetpack-compose-lazycolumn-from-constantly-recomposing-57l0)
+- [Unlocking secure software distribution with Minder and GitHub Artifact Attestations](https://dev.to/ninfriendos1/unlocking-secure-software-distribution-with-minder-and-github-artifact-attestations-8l5)
+- [Difference between functional and nonfunctional testing](https://dev.to/karvendhan/difference-between-functional-and-nonfunctional-testing-83h)
 <!-- BLOG-POST-LIST:END -->
 
