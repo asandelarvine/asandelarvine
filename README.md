@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Challenge: Cultivating Community Kindness in Uncertain Times](https://dev.to/virtualcoffee/monthly-challenge-cultivating-community-kindness-in-uncertain-times-7n)
-- [Setting Up Stripe Payments in React](https://dev.to/codeparrot/setting-up-stripe-payments-in-react-3bbn)
-- [From Beta to v1.0: Advice Needed for Launching My MERN Stack App](https://dev.to/codewithpurpose/strategy-to-launch-a-web-app-from-beta-to-v10-16ld)
-- [4 Reasons That Make Me Hate Home Test Assignments](https://dev.to/snaryshkov/4-reasons-that-make-me-hate-home-test-assignments-2130)
+- [Unlocking the Programmer&#39;s Mindset: How to Think Like a Programmer](https://dev.to/unclejessroth/unlocking-the-programmers-mindset-how-to-think-like-a-programmer-1djm)
+- [Do you have a &quot;Wait, that can&#39;t be right...&quot; moment?](https://dev.to/phalkmin/do-you-have-a-wait-that-cant-be-right-moment-49k8)
+- [Top 3 methods to filter a list in Python](https://dev.to/bybydev/top-3-methods-to-filter-a-list-in-python-19fe)
+- [Install Home brew in Mac M1/M2/M3](https://dev.to/khairunnaharnowrin/install-home-brew-in-mac-m1m2m3-mg)
 <!-- BLOG-POST-LIST:END -->
 
