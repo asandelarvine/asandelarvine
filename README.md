@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leonardo AI: Your Ultimate Guide to AI Video Generation](https://dev.to/hyscaler/leonardo-ai-a-comprehensive-guide-4182)
-- [&quot;Used a jailbroken ChatGPT?: Share your story. 😲&quot;](https://dev.to/itsjp/used-a-jailbroken-chatgpt-share-your-story--1697)
-- [My First Mobile Game With Flutter](https://dev.to/terekhin/my-first-mobile-game-with-flutter-4k32)
-- [🚀 Exploring the Integration of Django with Machine Learning Models for Predictive Analytics in Web Applications](https://dev.to/jackmutech/exploring-the-integration-of-django-with-machine-learning-models-for-predictive-analytics-in-web-applications-5cph)
+- [How To Send Emails Using Cloud Functions, Firestore &amp; Firebase-Send-Email](https://dev.to/cp_nandani/how-to-send-emails-using-cloud-functions-firestore-firebase-send-email-4beg)
+- [angular cli version 17 new features required](https://dev.to/shashipandey100192/angular-cli-version-17-new-features-required-nlg)
+- [Mastering React Server Components and Server Actions: A Comprehensive Guide](https://dev.to/madeelchaudhary/mastering-react-server-components-and-server-actions-a-comprehensive-guide-3p6g)
+- [Deploying organization repo to Vercel with a hobby plan](https://dev.to/algoorgoal/deploying-organization-repo-to-vercel-with-a-hobby-plan-2f3h)
 <!-- BLOG-POST-LIST:END -->
 
