@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 50 Articles for May the Fourth](https://dev.to/florianrappl/50-articles-for-may-the-fourth-1a0f)
-- [How to Debug Failing Build Agent Pods in Kubernetes-enabled Jenkins](https://dev.to/verifa/how-to-debug-failing-build-agent-pods-in-kubernetes-enabled-jenkins-2eae)
-- [To developers: you must not reqire a password from users](https://dev.to/devh0us3/to-developers-you-must-not-reqire-a-password-from-users-jen)
-- [Exploring CSS Units](https://dev.to/braide/exploring-css-units-1e98)
+- [Best AI Tools for Teachers](https://dev.to/tubwe12/best-ai-tools-for-teachers-29pa)
+- [How to Create Custom Facade in laravel?](https://dev.to/rohiturane/how-to-create-custom-facade-in-laravel-10mp)
+- [Three.js/ Gamedev AI code generator](https://dev.to/spatialpoet/threejs-gamedev-ai-code-generator-41hf)
+- [Animating Numbers](https://dev.to/madsstoumann/animating-numbers-1oc8)
 <!-- BLOG-POST-LIST:END -->
 
