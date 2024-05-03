@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximum Average Subarray I | LeetCode | Java](https://dev.to/tanujav/maximum-average-subarray-i-leetcode-java-2d2d)
-- [Sumérgete en la Nube: Como comenzar tu Cloud Journey](https://dev.to/aws-espanol/sumergete-en-la-nube-como-comenzar-tu-cloud-journey-3k4n)
-- [Understanding Variables in Ruby: A Comprehensive Guide](https://dev.to/abanoubmedhatseif/understanding-variables-in-ruby-a-comprehensive-guide-263o)
-- [What is the right way to do microservice ??](https://dev.to/bhaskardutta/what-is-the-right-way-to-do-microservice--3no9)
+- [Podcast: From Math Teacher to Web Developer: Adilson Sandoval&#39;s Inspiring Career Transition](https://dev.to/schalkneethling/podcast-from-math-teacher-to-web-developer-adilson-sandovals-inspiring-career-transition-255h)
+- [04 - Building a Learning Management System &lpar;LMS&rpar;: Embrace Hands-on Learning Approach](https://dev.to/louaiboumediene/04-building-a-learning-management-system-lms-embrace-hands-on-learning-approach-3b3j)
+- [Python Day 10 - Meme Magic 😍: Building a Custom Meme Generator with Python](https://dev.to/jr_shittu/python-day-10-meme-magic-building-a-custom-meme-generator-with-python-2ejc)
+- [How to switch themes in Flutter using BLoC](https://dev.to/thanasistraitsis/how-to-switch-themes-in-flutter-using-bloc-5fim)
 <!-- BLOG-POST-LIST:END -->
 
