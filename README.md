@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Large Language Model Operations &lpar;LLMops&rpar; on AWS](https://dev.to/aws-builders/large-language-model-operations-llmops-on-aws-4b86)
-- [Unlocking the Power of Constructors in Angular Applications](https://dev.to/chintanonweb/unlocking-the-power-of-constructors-in-angular-applications-4g9n)
-- [Riverpod State Management Package in Flutter 3.19](https://dev.to/codetradeindia/riverpod-state-management-package-in-flutter-319-nkk)
-- [Mocking ES6 Class Instances with Jest](https://dev.to/andrewchaa/mocking-es6-class-instances-with-jest-p6c)
+- [Monthly Challenge: Cultivating Community Kindness in Uncertain Times](https://dev.to/virtualcoffee/monthly-challenge-cultivating-community-kindness-in-uncertain-times-7n)
+- [Setting Up Stripe Payments in React](https://dev.to/codeparrot/setting-up-stripe-payments-in-react-3bbn)
+- [From Beta to v1.0: Advice Needed for Launching My MERN Stack App](https://dev.to/codewithpurpose/strategy-to-launch-a-web-app-from-beta-to-v10-16ld)
+- [4 Reasons That Make Me Hate Home Test Assignments](https://dev.to/snaryshkov/4-reasons-that-make-me-hate-home-test-assignments-2130)
 <!-- BLOG-POST-LIST:END -->
 
