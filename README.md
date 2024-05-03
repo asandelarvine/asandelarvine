@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2024-05-03 my weekly dev.to recommendation](https://dev.to/ccoveille/2024-05-03-my-weekly-devto-recommendation-4e4j)
-- [Docker Containers vs. Virtual Machines](https://dev.to/iamgoncaloalves/docker-containers-vs-virtual-machines-3baj)
-- [Conditional Expressions](https://dev.to/paulike/conditional-expressions-oln)
-- [The 6 Best Machine Learning APIs 2024](https://dev.to/apidna/the-6-best-machine-learning-apis-2024-f8e)
+- [AWS IAM — Identity and Access Management](https://dev.to/aws-builders/aws-iam-identity-and-access-management-8ph)
+- [System Design - Database Sharding &amp; Replication Strategies](https://dev.to/vineetaparodkar/system-design-database-sharding-jhp)
+- [Debugging](https://dev.to/paulike/debugging-44cg)
+- [System Design - Message Queues](https://dev.to/vineetaparodkar/system-design-message-queues-3i0m)
 <!-- BLOG-POST-LIST:END -->
 
