@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎱 Looking for Snooker Betting Tips? Any recommendations using the SportDevs API?](https://dev.to/ricivolsenci/looking-for-snooker-betting-tips-any-recommendations-using-the-sportdevs-api-169p)
-- [Advanced State Management in React with MobX](https://dev.to/kartikmehta8/advanced-state-management-in-react-with-mobx-nh3)
-- [Self Introduction](https://dev.to/rockyueno0223/self-introduction-4m3g)
-- [How I Created My Own Background Jobs Server At Home in TypeScript](https://dev.to/programmerbyday/how-i-created-my-own-background-jobs-server-at-home-in-typescript-330d)
+- [Implementing Very Basic Dark/Light Modes with CSS Variables and JavaScript 🌓](https://dev.to/ayoubkhan558/implementing-dark-and-light-modes-with-css-variables-and-javascript-d4n)
+- [1 Law of Success as a Developer](https://dev.to/annoh_karlgusta/1-law-of-success-as-a-developer-3g9g)
+- [How I use Devbox in my Elm projects](https://dev.to/dwayne/how-i-use-devbox-in-my-elm-projects-2hbg)
+- [Create charts with chart.js](https://dev.to/notesmatic/create-charts-with-chartjs-1dda)
 <!-- BLOG-POST-LIST:END -->
 
