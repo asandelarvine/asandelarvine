@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Send Emails Using Cloud Functions, Firestore &amp; Firebase-Send-Email](https://dev.to/cp_nandani/how-to-send-emails-using-cloud-functions-firestore-firebase-send-email-4beg)
-- [angular cli version 17 new features required](https://dev.to/shashipandey100192/angular-cli-version-17-new-features-required-nlg)
-- [Mastering React Server Components and Server Actions: A Comprehensive Guide](https://dev.to/madeelchaudhary/mastering-react-server-components-and-server-actions-a-comprehensive-guide-3p6g)
-- [Deploying organization repo to Vercel with a hobby plan](https://dev.to/algoorgoal/deploying-organization-repo-to-vercel-with-a-hobby-plan-2f3h)
+- [🧠 50 Articles for May the Fourth](https://dev.to/florianrappl/50-articles-for-may-the-fourth-1a0f)
+- [How to Debug Failing Build Agent Pods in Kubernetes-enabled Jenkins](https://dev.to/verifa/how-to-debug-failing-build-agent-pods-in-kubernetes-enabled-jenkins-2eae)
+- [To developers: you must not reqire a password from users](https://dev.to/devh0us3/to-developers-you-must-not-reqire-a-password-from-users-jen)
+- [Exploring CSS Units](https://dev.to/braide/exploring-css-units-1e98)
 <!-- BLOG-POST-LIST:END -->
 
