@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [So I got fired](https://dev.to/darkliahos/so-i-got-fired-3ko5)
-- [Unlocking Performance: The Power of Caching with Redis](https://dev.to/srishtikprasad/unlocking-performance-the-power-of-caching-with-redis-56m5)
-- [Day in the Life of a Microsoft Software Engineer | Vancouver 2024](https://dev.to/dustinbrett/day-in-the-life-of-a-microsoft-software-engineer-vancouver-2024-pon)
-- [Install Java in macbook M1/M2/M3](https://dev.to/khairunnaharnowrin/install-java-in-macbook-m1m2m3-58fd)
+- [2024-05-03 my weekly dev.to recommendation](https://dev.to/ccoveille/2024-05-03-my-weekly-devto-recommendation-4e4j)
+- [Docker Containers vs. Virtual Machines](https://dev.to/iamgoncaloalves/docker-containers-vs-virtual-machines-3baj)
+- [Conditional Expressions](https://dev.to/paulike/conditional-expressions-oln)
+- [The 6 Best Machine Learning APIs 2024](https://dev.to/apidna/the-6-best-machine-learning-apis-2024-f8e)
 <!-- BLOG-POST-LIST:END -->
 
