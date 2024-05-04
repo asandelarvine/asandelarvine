@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Partitioning vs. Sharding vs. Replication](https://dev.to/muhammetyasinarli/database-partitioning-vs-sharding-vs-replication-2bbm)
-- [Swift 101: What&#39;s Swift?](https://dev.to/silviaespanagil/swift-101-whats-swift-1p10)
-- [Developed Python CLI to easily download Dutch point cloud data](https://dev.to/hideba/developed-python-cli-to-easily-download-dutch-point-cloud-data-2k1e)
-- [Latest Newsletter: Incredible Devs &lpar;Issue #162&rpar;](https://dev.to/mjgs/latest-newsletter-incredible-devs-issue-162-1hm8)
+- [API Keys vs. Tokens: They&#39;re Not the Same Thing!](https://dev.to/codeparrot/api-keys-vs-tokens-theyre-not-the-same-thing-41fi)
+- [Quick Accessibility: Burts Bees &amp; large target size](https://dev.to/mahzeb/quick-accessibility-burts-bees-large-target-size-3dhn)
+- [Passos que usei para definir uma ferramenta para um portal do desenvolvedor com ChatGPT, engenharia de prompt](https://dev.to/biosbug/passos-que-usei-para-definir-uma-ferramenta-para-um-portal-do-desenvolvedor-com-chatgpt-engenharia-de-prompt-5hcl)
+- [COMMENT RÉSOUDRE L’ERREUR 403 DE GIT ?](https://dev.to/tacite243/comment-resoudre-lerreur-403-git--1la4)
 <!-- BLOG-POST-LIST:END -->
 
