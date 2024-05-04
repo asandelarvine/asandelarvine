@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add a Custom Font to Your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-font-to-your-xcode-project-np2)
-- [FIRST Principles and Test Smells 🚀](https://dev.to/htamagnus/first-principles-and-test-smells-54c6)
-- [Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast](https://dev.to/suhainafathimam/netlify-dynamic-site-challenge-submission-visual-feast-photo-gallery-4c9)
-- [Lidando com valores negativos no JS](https://dev.to/terminalcoffee/lidando-com-valores-negativos-no-js-27cc)
+- [A Song For StarWars Day](https://dev.to/montyharper/a-song-for-starwars-day-jdp)
+- [🐣Why idempotence was important to DevOps](https://dev.to/startpher/why-idempotence-was-important-to-devops-2jn3)
+- [Typealias vs Interface in TypeScript: Which to use in 2024.](https://dev.to/yomi-dev/typealias-vs-interface-in-typescript-which-to-use-in-2024-10h4)
+- [Animating SVG with SMIL for transforms and some CSS - detailed](https://dev.to/deineko/svg-chicken-4d3c)
 <!-- BLOG-POST-LIST:END -->
 
