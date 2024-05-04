@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Images in eCommerce](https://dev.to/msmith99994/the-power-of-images-in-ecommerce-h9k)
 - [React Reconciliation](https://dev.to/gbengacode/react-reconciliation-59am)
 - [How to Resize Images Efficiently](https://dev.to/msmith99994/how-to-resize-images-efficiently-3ngg)
 - [Getting started with Typescript Generics 🚀](https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a)
-- [Configure Renovate to handle nuspec files](https://dev.to/asimmon/configure-renovate-to-handle-nuspec-files-4c79)
 <!-- BLOG-POST-LIST:END -->
 
