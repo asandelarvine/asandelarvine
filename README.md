@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [study linux command](https://dev.to/zhangwuji/study-linux-command-2hc9)
+- [study from node.js](https://dev.to/zhangwuji/study-from-nodejs-4ma0)
+- [Configure the SharePoint Online indexer](https://dev.to/karleeov/configure-the-sharepoint-online-indexer-5he7)
 - [Um Experimento Social Com Soft Skills](https://dev.to/andrel/um-experimento-social-com-soft-skills-328f)
-- [Remotely Access Your Home Assistant Instance Securely](https://dev.to/hkamran/remotely-access-your-home-assistant-instance-securely-38la)
-- [Exploring Graph Databases: Neo4j](https://dev.to/kartikmehta8/exploring-graph-databases-neo4j-286g)
-- [Why I rarely use `getByRole`: Testing Library and the first rule of ARIA](https://dev.to/marktnoonan/why-i-rarely-use-getbyrole-testing-library-and-the-first-rule-of-aria-4581)
 <!-- BLOG-POST-LIST:END -->
 
