@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [please stop using git checkout! Learn to use the right git commands](https://dev.to/ccoveille/please-stop-using-git-checkout-learn-to-use-the-right-git-commands-an0)
-- [TASK 1](https://dev.to/sangthayalan/task-4-3o17)
-- [Application Insights - 5 Tips to Improve Your Observability](https://dev.to/fagner/application-insights-5-tips-to-improve-your-observability-4ged)
-- [How to remove last character from string in JavaScript](https://dev.to/bybydev/how-to-remove-last-character-from-string-in-javascript-2ghf)
+- [The Java Developer’s Library: Top Books to Elevate Your Coding Skills](https://dev.to/dbillion/the-java-developers-library-top-books-to-elevate-your-coding-skills-3oif)
+- [Diagnóstico de AWS Lambda: Guía para detectar y solucionar problemas de rendimiento](https://dev.to/aws-espanol/eleva-el-rendimiento-de-aws-lambda-7il)
+- [Part 5: Building a Simple Web Server with Node.js](https://dev.to/dipakahirav/part-5-building-a-simple-web-server-with-nodejs-14em)
+- [NexaScale Mentorship](https://dev.to/tbello/nexascale-mentorship-1fm4)
 <!-- BLOG-POST-LIST:END -->
 
