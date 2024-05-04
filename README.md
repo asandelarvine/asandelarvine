@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Song For StarWars Day](https://dev.to/montyharper/a-song-for-starwars-day-jdp)
-- [🐣Why idempotence was important to DevOps](https://dev.to/startpher/why-idempotence-was-important-to-devops-2jn3)
-- [Typealias vs Interface in TypeScript: Which to use in 2024.](https://dev.to/yomi-dev/typealias-vs-interface-in-typescript-which-to-use-in-2024-10h4)
-- [Animating SVG with SMIL for transforms and some CSS - detailed](https://dev.to/deineko/svg-chicken-4d3c)
+- [React Reconciliation](https://dev.to/gbengacode/react-reconciliation-59am)
+- [How to Resize Images Efficiently](https://dev.to/msmith99994/how-to-resize-images-efficiently-3ngg)
+- [Getting started with Typescript Generics 🚀](https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a)
+- [Configure Renovate to handle nuspec files](https://dev.to/asimmon/configure-renovate-to-handle-nuspec-files-4c79)
 <!-- BLOG-POST-LIST:END -->
 
