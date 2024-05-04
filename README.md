@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Code Website Builder](https://dev.to/vunguyenanh20/no-code-website-builder-hp8)
-- [LangChain: LLMs with Models, Prompts, Parsers](https://dev.to/rutamstwt/langchain-llms-with-models-prompts-parsers-4l1n)
-- [Clean Code – Anotações interessantes sobre os capítulos de 12 à 14](https://dev.to/bealou/clean-code-anotacoes-interessantes-sobre-os-capitulos-de-12-a-14-3304)
-- [The joy of the Service pattern and Dependency inversion](https://dev.to/cristovoxdgm/the-joy-of-the-service-pattern-and-dependency-inversion-5a7n)
+- [Python: A SQLAlchemy Wrapper Component That Works With Both Flask and FastAPI Frameworks](https://dev.to/behainguyen/python-a-sqlalchemy-wrapper-component-that-works-with-both-flask-and-fastapi-frameworks-2bb9)
+- [Arch install azure cli](https://dev.to/karleeov/arch-install-azure-cli-2a89)
+- [How to Create React/Next.js App with a Fresh GitHub Repo](https://dev.to/whevalos/how-to-create-reactnextjs-app-with-a-fresh-github-repo-4331)
+- [👀Top 10 Must-Try VS Code Themes in 2024](https://dev.to/markyu/top-10-must-try-vs-code-themes-in-2024-2efj)
 <!-- BLOG-POST-LIST:END -->
 
