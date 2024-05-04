@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: A SQLAlchemy Wrapper Component That Works With Both Flask and FastAPI Frameworks](https://dev.to/behainguyen/python-a-sqlalchemy-wrapper-component-that-works-with-both-flask-and-fastapi-frameworks-2bb9)
-- [Arch install azure cli](https://dev.to/karleeov/arch-install-azure-cli-2a89)
-- [How to Create React/Next.js App with a Fresh GitHub Repo](https://dev.to/whevalos/how-to-create-reactnextjs-app-with-a-fresh-github-repo-4331)
-- [👀Top 10 Must-Try VS Code Themes in 2024](https://dev.to/markyu/top-10-must-try-vs-code-themes-in-2024-2efj)
+- [tRPC, gRPC, GraphQL or REST: Choosing the Right API Technology](https://dev.to/akki907/trpc-grpc-graphql-or-rest-choosing-the-right-api-technology-13p1)
+- [5 HTML Tags &amp; Attributes ที่ควรรู้สำหรับ SEO](https://dev.to/sonnavigator/5-html-tags-attributes-thiikhwrruusamhrab-seo-1e2d)
+- [Top 8 GitBook Alternatives to Consider in 2024 for API Documentation](https://dev.to/sh20raj/top-8-gitbook-alternatives-to-consider-in-2024-for-api-documentation-28pi)
+- [Typelevel Typescript: A cheat sheet](https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80)
 <!-- BLOG-POST-LIST:END -->
 
