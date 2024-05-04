@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Convolutional Neural Networks &lpar;CNN&rpar;? The Art of Computer Vision For Beginners](https://dev.to/saidi-souhaieb/what-are-convolutional-neural-networks-cnn-the-art-of-computer-vision-for-beginners-34nn)
-- [The Best Way to Become a Game Engineer is to Build Fully Functioning Games](https://dev.to/wesleycramblitt/the-best-way-to-become-a-game-engineer-is-to-build-fully-functioning-games-4k7f)
-- [Stop tracking changes to certain files in Git](https://dev.to/benmatselby/stop-tracking-changes-to-certain-files-in-git-24g6)
-- [Exploring the Realm of Java Encryption: Types and Techniques](https://dev.to/dbillion/exploring-the-realm-of-java-encryption-types-and-techniques-20io)
+- [Swift 101: Getting into iOS Development](https://dev.to/silviaespanagil/swift-101-getting-into-ios-development-gji)
+- [Simple Go Chat Application in under 100 lines of code - Part 1](https://dev.to/gopher-wizards/simple-go-chat-application-in-under-100-lines-of-code-part-1-2i9)
+- [Unlocking Efficiency: The Significance of Technical Documentation](https://dev.to/hr21don/unlocking-efficiency-the-significance-of-technical-documentation-5d6f)
+- [Microfrontends and the challenges involved](https://dev.to/mpratapdev/microfrontends-and-the-challenges-involved-239j)
 <!-- BLOG-POST-LIST:END -->
 
