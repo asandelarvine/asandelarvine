@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New AI Frontend Tool Released This Week](https://dev.to/buildwebcrumbs/new-ai-frontend-tool-released-this-week-96f)
-- [JS output-based Interview question](https://dev.to/payalsasmal/js-output-based-interview-question-1mjf)
-- [Python data types](https://dev.to/fatimaalam1234/python-data-types-59po)
-- [Deploy Django Web App with SSL on VPS using Nginx &amp; Gunicorn](https://dev.to/theprotonguy/deploy-django-web-app-with-ssl-on-vps-using-nginx-gunicorn-mhl)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ca9)
+- [Keeping Your Microservices Safe: Best Practices and Patterns](https://dev.to/shivankshuklaa/keeping-your-microservices-safe-best-practices-and-patterns-di3)
+- [Access your Synology NAS with a custom domain on Bunny.net &lpar;DDNS&rpar;](https://dev.to/steeve/access-your-synology-nas-with-a-custom-domain-on-bunnynet-ddns-18ge)
+- [PDF Generation using QuestPDF in ASP.NET Core — Part 1](https://dev.to/olufemi_oyedepo/pdf-generation-using-questpdf-in-aspnet-core-part-1-2a34)
 <!-- BLOG-POST-LIST:END -->
 
