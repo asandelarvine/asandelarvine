@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Started working on a new Travel-based project](https://dev.to/ayush2390/started-working-on-a-new-travel-based-project-3hia)
-- [Best Practices for Setting Up Bulk Email SMTP Server](https://dev.to/brettjhonson01/best-practices-for-setting-up-bulk-email-smtp-server-2pkp)
-- [Spill the Space Tea on Your Star Wars Faves 🌌🍵](https://dev.to/devteam/spill-the-space-tea-on-your-star-wars-faves-7fi)
-- [Git commit helper: add emojis to your commits](https://dev.to/ccoveille/git-commit-helper-add-emojis-to-your-commits-1aka)
+- [What are Convolutional Neural Networks &lpar;CNN&rpar;? The Art of Computer Vision For Beginners](https://dev.to/saidi-souhaieb/what-are-convolutional-neural-networks-cnn-the-art-of-computer-vision-for-beginners-34nn)
+- [The Best Way to Become a Game Engineer is to Build Fully Functioning Games](https://dev.to/wesleycramblitt/the-best-way-to-become-a-game-engineer-is-to-build-fully-functioning-games-4k7f)
+- [Stop tracking changes to certain files in Git](https://dev.to/benmatselby/stop-tracking-changes-to-certain-files-in-git-24g6)
+- [Exploring the Realm of Java Encryption: Types and Techniques](https://dev.to/dbillion/exploring-the-realm-of-java-encryption-types-and-techniques-20io)
 <!-- BLOG-POST-LIST:END -->
 
