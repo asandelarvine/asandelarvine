@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Keys vs. Tokens: They&#39;re Not the Same Thing!](https://dev.to/codeparrot/api-keys-vs-tokens-theyre-not-the-same-thing-41fi)
-- [Quick Accessibility: Burts Bees &amp; large target size](https://dev.to/mahzeb/quick-accessibility-burts-bees-large-target-size-3dhn)
-- [Passos que usei para definir uma ferramenta para um portal do desenvolvedor com ChatGPT, engenharia de prompt](https://dev.to/biosbug/passos-que-usei-para-definir-uma-ferramenta-para-um-portal-do-desenvolvedor-com-chatgpt-engenharia-de-prompt-5hcl)
-- [COMMENT RÉSOUDRE L’ERREUR 403 DE GIT ?](https://dev.to/tacite243/comment-resoudre-lerreur-403-git--1la4)
+- [Material React Table](https://dev.to/aminfallahzadeh/material-react-table-2j69)
+- [AI enthusiasm #10 - Summarize PDFs with AI🗎](https://dev.to/astrabert/ai-enthusiasm-10-summarize-pdfs-with-ai-236f)
+- [Tic-Tac-Toe Hard Mode](https://dev.to/conlonj25/tic-tac-toe-hard-mode-5b4)
+- [Fixing my deployment mistakes](https://dev.to/jxd-dev/fixing-my-deployment-mistakes-14b8)
 <!-- BLOG-POST-LIST:END -->
 
