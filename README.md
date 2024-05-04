@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ca9)
-- [Keeping Your Microservices Safe: Best Practices and Patterns](https://dev.to/shivankshuklaa/keeping-your-microservices-safe-best-practices-and-patterns-di3)
-- [Access your Synology NAS with a custom domain on Bunny.net &lpar;DDNS&rpar;](https://dev.to/steeve/access-your-synology-nas-with-a-custom-domain-on-bunnynet-ddns-18ge)
-- [PDF Generation using QuestPDF in ASP.NET Core — Part 1](https://dev.to/olufemi_oyedepo/pdf-generation-using-questpdf-in-aspnet-core-part-1-2a34)
+- [please stop using git checkout! Learn to use the right git commands](https://dev.to/ccoveille/please-stop-using-git-checkout-learn-to-use-the-right-git-commands-an0)
+- [TASK 1](https://dev.to/sangthayalan/task-4-3o17)
+- [Application Insights - 5 Tips to Improve Your Observability](https://dev.to/fagner/application-insights-5-tips-to-improve-your-observability-4ged)
+- [How to remove last character from string in JavaScript](https://dev.to/bybydev/how-to-remove-last-character-from-string-in-javascript-2ghf)
 <!-- BLOG-POST-LIST:END -->
 
