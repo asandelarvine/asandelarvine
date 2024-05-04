@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift 101: Getting into iOS Development](https://dev.to/silviaespanagil/swift-101-getting-into-ios-development-gji)
-- [Simple Go Chat Application in under 100 lines of code - Part 1](https://dev.to/gopher-wizards/simple-go-chat-application-in-under-100-lines-of-code-part-1-2i9)
-- [Unlocking Efficiency: The Significance of Technical Documentation](https://dev.to/hr21don/unlocking-efficiency-the-significance-of-technical-documentation-5d6f)
-- [Microfrontends and the challenges involved](https://dev.to/mpratapdev/microfrontends-and-the-challenges-involved-239j)
+- [Database Partitioning vs. Sharding vs. Replication](https://dev.to/muhammetyasinarli/database-partitioning-vs-sharding-vs-replication-2bbm)
+- [Swift 101: What&#39;s Swift?](https://dev.to/silviaespanagil/swift-101-whats-swift-1p10)
+- [Developed Python CLI to easily download Dutch point cloud data](https://dev.to/hideba/developed-python-cli-to-easily-download-dutch-point-cloud-data-2k1e)
+- [Latest Newsletter: Incredible Devs &lpar;Issue #162&rpar;](https://dev.to/mjgs/latest-newsletter-incredible-devs-issue-162-1hm8)
 <!-- BLOG-POST-LIST:END -->
 
