@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Your First Application on Kubernetes: Step-by-Step Tutorial](https://dev.to/getambassador2024/deploying-your-first-application-on-kubernetes-step-by-step-tutorial-jb0)
-- [How to Use Http Request](https://dev.to/sukmarizki04/cara-penggunaan-http-request-4nkm)
-- [Default Interface Implementation or Mix-in design pattern in the C#](https://dev.to/szymonhalucha/default-interface-implementation-or-mix-in-design-pattern-in-the-c-12hi)
-- [[LeetCode] Concatenation of Array with Modular Arithmetic](https://dev.to/lada496/leetcode-concatenation-of-array-with-modular-arithmetic-1b3k)
+- [Started working on a new Travel-based project](https://dev.to/ayush2390/started-working-on-a-new-travel-based-project-3hia)
+- [Best Practices for Setting Up Bulk Email SMTP Server](https://dev.to/brettjhonson01/best-practices-for-setting-up-bulk-email-smtp-server-2pkp)
+- [Spill the Space Tea on Your Star Wars Faves 🌌🍵](https://dev.to/devteam/spill-the-space-tea-on-your-star-wars-faves-7fi)
+- [Git commit helper: add emojis to your commits](https://dev.to/ccoveille/git-commit-helper-add-emojis-to-your-commits-1aka)
 <!-- BLOG-POST-LIST:END -->
 
