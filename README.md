@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Material React Table](https://dev.to/aminfallahzadeh/material-react-table-2j69)
-- [AI enthusiasm #10 - Summarize PDFs with AI🗎](https://dev.to/astrabert/ai-enthusiasm-10-summarize-pdfs-with-ai-236f)
-- [Tic-Tac-Toe Hard Mode](https://dev.to/conlonj25/tic-tac-toe-hard-mode-5b4)
-- [Fixing my deployment mistakes](https://dev.to/jxd-dev/fixing-my-deployment-mistakes-14b8)
+- [New AI Frontend Tool Released This Week](https://dev.to/buildwebcrumbs/new-ai-frontend-tool-released-this-week-96f)
+- [JS output-based Interview question](https://dev.to/payalsasmal/js-output-based-interview-question-1mjf)
+- [Python data types](https://dev.to/fatimaalam1234/python-data-types-59po)
+- [Deploy Django Web App with SSL on VPS using Nginx &amp; Gunicorn](https://dev.to/theprotonguy/deploy-django-web-app-with-ssl-on-vps-using-nginx-gunicorn-mhl)
 <!-- BLOG-POST-LIST:END -->
 
