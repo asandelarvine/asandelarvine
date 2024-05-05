@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalized System Design Interview Prep for Engineering Managers](https://dev.to/hinsencamp/personalized-system-design-interview-prep-for-engineering-managers-447e)
-- [Introduction to APIs](https://dev.to/christopherchhim/introduction-to-apis-47g)
-- [5 BEST Git Commands](https://dev.to/jakeroggenbuck/5-best-git-commands-45kg)
-- [RESTful Routing](https://dev.to/heathertech/restful-routing-2g43)
+- [#1544. Make The String Great](https://dev.to/karleb/1544-make-the-string-great-5co0)
+- [I&#39;ve made game engine &lpar;I think&rpar;](https://dev.to/larcefox/ive-made-game-engine-i-think-36lj)
+- [Flexibility of plang programming language](https://dev.to/ingigauti/flexibility-of-plang-programming-language-1kgn)
+- [Impress Recruiters and Upskill using these 10 Unconventional Software Engineering Projects](https://dev.to/wewake-dev/impress-recruiters-and-upskill-using-these-10-unconventional-software-engineering-projects-4mpo)
 <!-- BLOG-POST-LIST:END -->
 
