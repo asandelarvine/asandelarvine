@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a singleton class in Java? And How to implement a singleton class?](https://dev.to/nikhilxd/what-is-a-singleton-class-in-java-and-how-to-implement-a-singleton-class-30gg)
-- [Mastering Regular Expressions in Java](https://dev.to/dbillion/mastering-regular-expressions-in-java-36k1)
-- [How Kubernetes is Revolutionizing the AI World: Managing Workloads with Ease](https://dev.to/mamtaj/how-kubernetes-is-revolutionizing-the-ai-world-managing-workloads-with-ease-1oa)
-- [Understanding Java Processes](https://dev.to/dbillion/understanding-java-processes-53j0)
+- [Securing Docker: Non-Root User Best Practices](https://dev.to/kfir-g/securing-docker-non-root-user-best-practices-odb)
+- [Mastering Git: Branching and Merging – Part 2](https://dev.to/dipakahirav/mastering-git-branching-and-merging-part-2-od2)
+- [Cracking the Code: Resolving Line-Breaks Style Error in VSCode](https://dev.to/judypearl/cracking-the-code-resolving-line-breaks-style-error-in-vscode-lb4)
+- [single API multiple databases](https://dev.to/ktbsomen/single-api-multiple-databases-44bh)
 <!-- BLOG-POST-LIST:END -->
 
