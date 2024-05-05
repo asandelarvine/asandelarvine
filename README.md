@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Javascript makes web pages more interactive](https://dev.to/a_a_hajji/how-javascript-makes-web-pages-more-interactive-55kb)
-- [Angular Animations Tutorial: Adding Flexibility with Params](https://dev.to/brianmtreese/angular-animations-tutorial-adding-flexibility-with-params-34j0)
-- [How to implement JWT in Laravel API](https://dev.to/germanlozickyj/how-to-implement-jwt-in-laravel-api-4590)
-- [Git is Elegant](https://dev.to/ronnewcomb/git-is-elegant-b6h)
+- [Guides to the Web Performance - HTML + CSS - For Beginners](https://dev.to/dev188007/guides-to-the-web-performance-html-css-for-beginners-55b2)
+- [Server-Sent Event: One Directed Data Transmission Server to Client](https://dev.to/nghtslvr/server-sent-event-one-directed-data-transmission-server-to-client-4ef4)
+- [translation is not localization](https://dev.to/onwritinggames/translation-is-not-localization-5b53)
+- [Introduction to the Rust Programming Language](https://dev.to/kartikmehta8/introduction-to-the-rust-programming-language-443e)
 <!-- BLOG-POST-LIST:END -->
 
