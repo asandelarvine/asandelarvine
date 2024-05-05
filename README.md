@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Animated tab navigation](https://dev.to/obezyankaa/animated-tab-navigation-3nbn)
-- [Active class on click](https://dev.to/webfaisalbd/active-class-on-click-5879)
-- [Insights from &quot;The Making of a Manager&quot; &lpar;Chapter 1&rpar; by Julie Zhuo](https://dev.to/ale3oula/insights-from-the-making-of-a-manager-chapter-1-by-julie-zhuo-5heg)
-- [i don&#39;t care, i love it](https://dev.to/onwritinggames/i-dont-care-i-love-it-3e59)
+- [I MADE A GAME IN SCRATCH](https://dev.to/dino2328/i-made-a-game-in-scratch-1oba)
+- [Real-time public communities](https://dev.to/irereemmy/real-time-public-communities-21ng)
+- [Angular Inputs and Single Source of Truth](https://dev.to/oz/angular-inputs-and-single-source-of-truth-4kog)
+- [Arduino un pas en electronique, un pas en informatique &lpar;Une passerelle entre l&#39;électronique et l&#39;informatique&rpar;](https://dev.to/birego/arduino-un-pas-en-electronique-un-pas-en-informatique-une-passerelle-entre-lelectronique-et-linformatique-41d5)
 <!-- BLOG-POST-LIST:END -->
 
