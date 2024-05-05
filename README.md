@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding clearly page transition using libraries in React and Next.js](https://dev.to/jamescroissant/understanding-clearly-page-transition-using-libraries-in-react-and-nextjs-1ojh)
-- [Php features: type hinting](https://dev.to/xwero/php-features-type-hinting-2i2l)
-- [[TS] Consider type-safe localStorage](https://dev.to/yutakusuno/ts-consider-type-safe-localstorage-2p9m)
-- [Day 4: Logic](https://dev.to/codernko/day-4-logic-57kf)
+- [Simplifying Form Validation with Zod and React Hook Form](https://dev.to/aadarsh-nagrath/simplifying-form-validation-with-zod-and-react-hook-form-24ba)
+- [⚛️ Folder Structures in React Projects](https://dev.to/harismughal_2403/folder-structures-in-react-projects-5gfn)
+- [Navigating Unfamiliar Territory: Overcoming Challenges in a New Codebase](https://dev.to/jagadeesh-k/navigating-unfamiliar-territory-overcoming-challenges-in-a-new-codebase-5bbb)
+- [Why Businesses Fail with Android Apps and How to Rescue Them: Top Tips Discussed](https://dev.to/dhruvjoshi9/why-businesses-fail-with-android-apps-and-how-to-rescue-them-top-tips-discussed-3322)
 <!-- BLOG-POST-LIST:END -->
 
