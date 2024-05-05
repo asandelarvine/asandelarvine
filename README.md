@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamically Generating Images from HTML/CSS Templates with Custom Data](https://dev.to/utshodeytech/dynamically-generating-images-from-htmlcss-templates-with-custom-data-52c0)
-- [Introducing a Custom Operator for Unified Management of Kubernetes Tools](https://dev.to/kkb0318/introducing-a-custom-operator-for-unified-management-of-kubernetes-tools-3ocg)
-- [Migrating Next.js App to GO + Templ &amp; HTMX](https://dev.to/mrmissx/migrating-nextjs-app-to-go-x-templ-x-htmx-252p)
-- [Do we have here a developers who created project and getting money?](https://dev.to/alexanderlamdan/do-we-have-here-a-developers-who-created-project-and-getting-money-3359)
+- [What is a singleton class in Java? And How to implement a singleton class?](https://dev.to/nikhilxd/what-is-a-singleton-class-in-java-and-how-to-implement-a-singleton-class-30gg)
+- [Mastering Regular Expressions in Java](https://dev.to/dbillion/mastering-regular-expressions-in-java-36k1)
+- [How Kubernetes is Revolutionizing the AI World: Managing Workloads with Ease](https://dev.to/mamtaj/how-kubernetes-is-revolutionizing-the-ai-world-managing-workloads-with-ease-1oa)
+- [Understanding Java Processes](https://dev.to/dbillion/understanding-java-processes-53j0)
 <!-- BLOG-POST-LIST:END -->
 
