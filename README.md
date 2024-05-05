@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guides to the Web Performance - HTML + CSS - For Beginners](https://dev.to/dev188007/guides-to-the-web-performance-html-css-for-beginners-55b2)
-- [Server-Sent Event: One Directed Data Transmission Server to Client](https://dev.to/nghtslvr/server-sent-event-one-directed-data-transmission-server-to-client-4ef4)
-- [translation is not localization](https://dev.to/onwritinggames/translation-is-not-localization-5b53)
-- [Introduction to the Rust Programming Language](https://dev.to/kartikmehta8/introduction-to-the-rust-programming-language-443e)
+- [Working with Scenes and Data in Phaser](https://dev.to/ceceliacreates/working-with-scenes-and-data-in-phaser-2pn4)
+- [The unification of Microservice, DB, OOP, FP and Warehouse/Workshop Model](https://dev.to/lincpa/the-unification-of-microservice-db-oop-fp-and-warehouseworkshop-model-bp)
+- [Installing and Configuring MySQL on Arch Linux](https://dev.to/tinapyp/installing-and-configuring-mysql-on-arch-linux-11m1)
+- [Go Test with Testify: Most Simple Way to Implement Unit Test](https://dev.to/nghtslvr/go-test-with-testify-most-simple-way-to-implement-unit-test-5ccb)
 <!-- BLOG-POST-LIST:END -->
 
