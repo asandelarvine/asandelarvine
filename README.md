@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify PDF Generation in Node.js with html-to-pdf-pup](https://dev.to/aytidadev/simplify-pdf-generation-in-nodejs-with-html-to-pdf-pup-4mep)
-- [Introducing Jan](https://dev.to/raphiki/introducing-jan-38b9)
-- [Ketch — Android File Downloader Library](https://dev.to/khushpanchal123/ketch-android-file-downloader-library-4f3p)
-- [Building RESTful APIs: Exploring CRUD Operations, Postman, JDBC, and Media Types](https://dev.to/vishalwaje/building-restful-apis-exploring-crud-operations-postman-jdbc-and-media-types-f23)
+- [Les premiers pas dans le monde du Web : Guide de programmation pour débutants](https://dev.to/patricekalwira/les-premiers-pas-dans-le-monde-du-web-guide-de-programmation-pour-debutants-39o8)
+- [Les premiers pas dans le monde du Web : Guide de programmation pour débutants](https://dev.to/patricekalwira/les-premiers-pas-dans-le-monde-du-web-guide-de-programmation-pour-debutants-1db6)
+- [React 19 introduces Component Rendering with the Magic of &quot;use&quot;!](https://dev.to/respect17/react-19-introduces-component-rendering-with-the-magic-of-use-2cah)
+- [ASP.NET 8 - Authentication and Authorization in 7 steps.](https://dev.to/vinicius_estevam/aspnet-8-authentication-and-authorization-3426)
 <!-- BLOG-POST-LIST:END -->
 
