@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Análise barragens - parte 2](https://dev.to/devsnorte/analise-barragens-parte-2-39dm)
-- [Launch your SaaS faster with OneMix by SaaS King](https://dev.to/adikumarsaroj/launch-your-saas-faster-with-onemix-by-saas-king-27dn)
-- [Everything You need to know about React 19](https://dev.to/samaghapour/everything-you-need-to-know-about-react-19-4o97)
-- [Understanding when to cache your APIs](https://dev.to/sowmenappd/understanding-when-to-cache-your-apis-2m32)
+- [Server-side rendered Web Components](https://dev.to/rrees/server-side-rendered-web-components-34pl)
+- [A Glimpse Beyond &#39;All-in on AI&#39;](https://dev.to/dev3l/a-glimpse-beyond-all-in-on-ai-2g6j)
+- [혼란을 틈타 오픈소스에 기여하기🚀](https://dev.to/algoorgoal/honraneul-teumta-opeunsoseue-giyeohagi-3e43)
+- [Answers to Common Next.js Questions](https://dev.to/perssondennis/answers-to-common-nextjs-questions-1oki)
 <!-- BLOG-POST-LIST:END -->
 
