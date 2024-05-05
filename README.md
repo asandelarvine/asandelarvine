@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Flutter by creating your first Flutter app!](https://dev.to/svprdga/learn-flutter-by-creating-your-first-flutter-app-gfb)
-- [Seeking advice](https://dev.to/j0hanthemoonlightcoder/seeking-advice-4jme)
-- [Image slideshows are boring. Let&#39;s create cubes.](https://dev.to/sarahokolo/image-slideshows-are-boring-lets-create-cubes-593b)
-- [The Document Object Model](https://dev.to/thatohatsi880/the-document-object-model-4dk8)
+- [Simplify PDF Generation in Node.js with html-to-pdf-pup](https://dev.to/aytidadev/simplify-pdf-generation-in-nodejs-with-html-to-pdf-pup-4mep)
+- [Introducing Jan](https://dev.to/raphiki/introducing-jan-38b9)
+- [Ketch — Android File Downloader Library](https://dev.to/khushpanchal123/ketch-android-file-downloader-library-4f3p)
+- [Building RESTful APIs: Exploring CRUD Operations, Postman, JDBC, and Media Types](https://dev.to/vishalwaje/building-restful-apis-exploring-crud-operations-postman-jdbc-and-media-types-f23)
 <!-- BLOG-POST-LIST:END -->
 
